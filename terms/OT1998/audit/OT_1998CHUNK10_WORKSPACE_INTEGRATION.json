@@ -1,0 +1,119 @@
+{
+  "method": "Mechanical copy from immutable opening snapshots and permitted finalized Record sections; no Git access or adjudication.",
+  "captured_new_records": [
+    "west_v_gibson_merits_1999-06-14.md",
+    "schleifer_v_city_of_charlottesville_merits_1999-06-15.md",
+    "nasa_v_flra_merits_1999-06-17.md",
+    "strickler_v_greene_merits_1999-06-17.md",
+    "grupo_mexicano_de_desarrollo_sa_v_alliance_bond_fund_inc_merits_1999-06-17.md",
+    "valdespino_v_alamo_heights_independent_school_district_merits_1999-06-17.md",
+    "city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md",
+    "martin_v_hadix_merits_1999-06-21.md",
+    "jefferson_county_v_acker_merits_1999-06-21.md",
+    "jones_v_united_states_merits_1999-06-21.md",
+    "maryland_v_dyson_certiorari_1999-06-21.md",
+    "maryland_v_dyson_summary_merits_1999-06-21.md",
+    "sutton_v_united_air_lines_inc_merits_1999-06-22.md"
+  ],
+  "capture_excludes_records_arriving_later": true,
+  "completed_court_events": 122,
+  "latest_effective_date": "1999-06-22",
+  "unresolved_scheduled_items": 9,
+  "undated_carryovers": 13,
+  "unresolved_total": 22,
+  "completed_chunk10_rows": 12,
+  "new_completed_court_events": 13,
+  "stopped_chunk10_rows": [],
+  "completed_component_records_by_inventory_row": {
+    "City of Dallas v. Dallas Fire Fighters Association": [
+      "city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md"
+    ],
+    "Grupo Mexicano de Desarrollo, S.A. v. Alliance Bond Fund, Inc.": [
+      "grupo_mexicano_de_desarrollo_sa_v_alliance_bond_fund_inc_merits_1999-06-17.md"
+    ],
+    "Jefferson County v. Acker": [
+      "jefferson_county_v_acker_merits_1999-06-21.md"
+    ],
+    "Jones v. United States": [
+      "jones_v_united_states_merits_1999-06-21.md"
+    ],
+    "Martin v. Hadix": [
+      "martin_v_hadix_merits_1999-06-21.md"
+    ],
+    "Maryland v. Dyson": [
+      "maryland_v_dyson_certiorari_1999-06-21.md",
+      "maryland_v_dyson_summary_merits_1999-06-21.md"
+    ],
+    "National Aeronautics and Space Administration v. Federal Labor Relations Authority": [
+      "nasa_v_flra_merits_1999-06-17.md"
+    ],
+    "Schleifer v. City of Charlottesville": [
+      "schleifer_v_city_of_charlottesville_merits_1999-06-15.md"
+    ],
+    "Strickler v. Greene": [
+      "strickler_v_greene_merits_1999-06-17.md"
+    ],
+    "Sutton v. United Air Lines, Inc.": [
+      "sutton_v_united_air_lines_inc_merits_1999-06-22.md"
+    ],
+    "Valdespino v. Alamo Heights Independent School District": [
+      "valdespino_v_alamo_heights_independent_school_district_merits_1999-06-17.md"
+    ],
+    "West v. Gibson": [
+      "west_v_gibson_merits_1999-06-14.md"
+    ]
+  },
+  "next_scheduled_event": "The next runnable scheduled inventory event is Albertson’s, Inc. v. Kirkingburg, No. 98-591, on June 22, 1999, in OT_1998CHUNK11.",
+  "same_day_boundary": "Uncoordinated June 14, June 17, June 21 and June 22 matters each use the common law effective before that entire date group. June 14 crosses chunks 9 and 10; June 22 crosses chunks 10 and 11. Sutton supplies no entering law to its uncoordinated June 22 chunk 11 peers. Later dates receive every effective earlier holding; a scheduled date supplies no future Court action or law.",
+  "canonical_manifest_adapter_executed": "terms/OT1998/audit/ot1998_chunk10_rebuild_manifest.py",
+  "canonical_builder_output": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/workspace/manifest.md: 128 inventory events; 12 row(s) updated\nUnrelated inventory rows retain their exact existing status, including Germany original leave and Del Monte Dunes reconciliation.",
+  "prior_sections_preserved": {
+    "CONTINUITY": [
+      "## Scope and Chronology Cursor",
+      "## Completed Events and Admitted Sources",
+      "## Current Law",
+      "## Material Published Noncontrolling Positions",
+      "## Current Procedure and Institution",
+      "## Blockers and Revalidation Needs",
+      "## Source and Research Cutoff"
+    ],
+    "NEUTRAL_PROJECTION": [
+      "## Opening law and chronology",
+      "## Completed current-term events",
+      "## Current-term law",
+      "## Court, participation, and institutional practice",
+      "## Term-opening carryovers and current pending procedure",
+      "## Prospective events and material dependencies",
+      "## Current-term published noncontrolling positions",
+      "## Prior-term published positions retained for continuity",
+      "## Source limits"
+    ]
+  },
+  "unchanged_manifest_rows": 116,
+  "germany_status": "Open; original leave remains under consideration",
+  "del_monte_status": "Reconciled: prior adjudication; no new Court event",
+  "public_copy_sha256": {
+    "west_v_gibson_merits_1999-06-14.md": "61fe69c95a36eb06b44dfb05cc40e195588e0516d6e18235ece9f160cac183a4",
+    "schleifer_v_city_of_charlottesville_merits_1999-06-15.md": "a7fc7382d31ac3a7ae81453b18c0ebb9f0f95c504be60c413632cfb5c0bac7da",
+    "nasa_v_flra_merits_1999-06-17.md": "ae01444246f5258ac29a98f4924b01da427bc6fb7fb5b54a78ac4abc432e094e",
+    "strickler_v_greene_merits_1999-06-17.md": "82a9f4a16de6cdb120635d8d8e72392a07efe741bb4c896a5f8e484f19882ee7",
+    "grupo_mexicano_de_desarrollo_sa_v_alliance_bond_fund_inc_merits_1999-06-17.md": "69d20395149c4a6a0ad056e09ff3be89d80b8eb62f1510ec32e6a291b5e7f16a",
+    "valdespino_v_alamo_heights_independent_school_district_merits_1999-06-17.md": "f85b9b9c6013264743a71296d59c279a8d41198938c814dedaeb79c051687a5e",
+    "city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md": "8a5ff72443569fef4774c1d0590eca6c7f230daadbc34368f185ee1803d84c19",
+    "martin_v_hadix_merits_1999-06-21.md": "7b8cf931ecb5c42ad7364d539dd5dab08e20da2644f29dff053fe19fcf5732dc",
+    "jefferson_county_v_acker_merits_1999-06-21.md": "f862bee21d1202cb53fa77e708fed655a131ef9562d9e9a046bf48f718ea639b",
+    "jones_v_united_states_merits_1999-06-21.md": "58e48c87b3cc9c51dc9159a1705be589194453714fc57b85115641f1302894d0",
+    "maryland_v_dyson_certiorari_1999-06-21.md": "849462756bb9539778f02add272d7545a2e442b2aaaced02a703432fa495133d",
+    "maryland_v_dyson_summary_merits_1999-06-21.md": "6de419ccf9675acbac0a861b3c4a0f99da738636333f6cadd19e79e06c751cef",
+    "sutton_v_united_air_lines_inc_merits_1999-06-22.md": "72766416c636761835ae7fbb8c83ce51d3de5526186cb978e1cb9e17ac28788a"
+  },
+  "duplicate_new_entries": false,
+  "write_scope": [
+    "workspace/manifest.md",
+    "workspace/continuity.md",
+    "workspace/neutral-projection.md",
+    "entering-law/<captured new Record basenames>",
+    "audit/OT_1998CHUNK10_WORKSPACE_INTEGRATION.json"
+  ],
+  "limits": "No ledger rebuild, check_term, Render Input build, substantive audit, or unrelated file audit performed."
+}

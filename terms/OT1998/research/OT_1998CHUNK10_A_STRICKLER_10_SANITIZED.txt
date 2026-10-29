@@ -1,0 +1,1020 @@
+CONTROLLED SOURCE ARTIFACT — NOT CLEARED FOR NEUTRAL OR INDEPENDENT MODEL INPUT.
+Initial mechanical filtering was incomplete; source OCR can retain Supreme Court procedural recitals. Use only the separately prepared source-facts handoff through a fresh validator. Filename SANITIZED records the initial procedure, not a validation certification.
+
+SOURCE: https://archive.org/download/micro_IA40385014_0290/micro_IA40385014_0290%2010.%20Reply%20Brief_djvu.txt
+Automatic exclusions: all blocks matching certiorari, stay-of-execution, Court grant/denial or jurisdiction phrases. No omitted content has been displayed. Other source statements retain their original status as advocacy, quoted record, or lower-court finding.
+
+No. 98-5864 
+
+OFEICE OF THE CLERK 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+OCTOBER TERM, 1998 
+
+TOMMY DAVID STRICKLER, 
+
+my Petitioner, 
+
+FreD W. GREENE, Warden, 
+Respondent. 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+REPLY BRIEF FOR PETITIONER 
+
+Of Counsel: BARBARA L. HARTUNG 
+MIGUEL A. ESTRADA Counsel of Record 
+GIBSON, DUNN & CRUTCHER LLP 1001 East Main Street 
+1050 Connecticut Avenue,N.W. Suite 504 
+
+Washington, D.C. 20036 Richmond, VA 23219 
+(202) 955-8500 (804) 649-1088 
+MARK E. OLIVE 
+
+LAW OFFICES OF 
+
+MARK E. OLIVE, P.A. 
+820 W. Jefferson Street 
+Tallahassee, FL 32301 
+(850) 224-0004 
+
+JOHN H. BLUME 
+CORNELL LAW SCHOOL 
+Myron Taylor Hall 
+Ithaca, NY 14853 
+(607) 255-1030 
+
+Counsel for Petitioner 
+
+WILSON - Eras Printing Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+
+\2A0V0 
+> \ 
+
+TABLE OF CONTENTS 
+
+I. THE COMMONWEALTH CLEARLY VIO- 
+LATED BRADY AND ITS PROGENY ............. 
+
+A. The Five Suppressed Exhibits Were Clearly 
+NE alii beet tinistihitnsttiishdsecsitiend 
+
+B. Stoltzfus’ Pre-Trial Statements Were Plainly 
+BRE CSR A MAE a CRS Se ea 
+
+Il. PETITIONER CLEARLY ESTABLISHED 
+“CAUSE” FOR FAILING TO PRESENT HIS 
+BRADY CLAIM TO THE STATE COURTS... 
+
+STRUSIDT  oniguntninnrectibbneaiienincittihintinamiinnmmientiamein 
+
+Page 
+
+ii 
+TABLE OF AUTHORITIES 
+
+CASES Page 
+Amadeo v. Zant, 486 U.S. 214 (1987) ...................--.. 19 
+Bracy v. Gramley, 520 U.S. 899 (1997) ..................... 19 
+Brady v. Maryland, 373 U.S. 83 (19638) .................-.. passim 
+Crane v. Kentucky, 476 U.S. 683 (1986) ......-.. 17 
+Deal v. United States, 508 U.S. 129 (1993) _.............. 1 
+Giglio v. United States, 405 U.S. 150 (1972) ............. 5 
+Hill v. Lockhart, 474 U.S. 52 (1985) ..............-.......... 14 
+Idaho v. Wright, 497 U.S. 805 (1990) ........................ 9 
+Jackson v. Denno, 378 U.S. 368 (1964) ...................... 16 
+Kimmelman v. Morrison, 477 U.S. 365 (1986) .......... 13 
+Kyles v. Whitley, 514 U.S. 419 (1995) —................ passim 
+Lockhart v. Fretwell, 506 U.S. 364 (1998) ................ 14, 15 
+McCleskey v. Zant, 499 U.S. 467 (1991) —.......... paral 7 19 
+Napue v. Illinois, 360 U.S. 264 (1959) -..................... 5 
+Niz v. Whiteside, 475 U.S. 157 (1986) ....................... 14 
+Pennsylvania v. Ritchie, 480 U.S. 89 (1987) ............ 5, 6 
+Reno v. Koray, 515 U.S. 50 (1995) .......--0.---... 16 
+Strickland v. Washington, 466 U.S. 668 (1984) ........ 14 
+Teague v. Lane, 489 U.S. 288 (1989) ......................... 6 
+Thompson v. Keohane, 516 U.S. 99 (1995) -.............. 13 
+Underwood v. Clark, 939 F.2d 478 (7th Cir. 1991)... 15 
+United States v. Abel, 469 U.S. 45 (1984) 2.0.00... 10 
+United States v. Agurs, 427 U.S. 97 (1976) ............... 12, 16 
+United States v. Armstrong, 517 U.S. 456 (1996).. 19 
+United States v. Bagley, 473 U.S. 667 (1985) ............ 5 
+United States v. Tabares, 951 F.2d 405 (1st Cir. 
+
+BIDE D caeccocsesinisinveciennteunnsabiipiiceetadasiaaelcise atari aia 15 
+United States v. Wade, 388 U.S. 218 (1967) .............. 10 
+Wong Sun v. United States, 371 U.S. 471 (1963)... 15 
+Wood v. Bartholomew, 516 U.S. 1 (1995) ~............ 15 
+
+STATUTES 
+28 U.S.C, 2254 (d) 13 
+
+REPLY BRIEF FOR PETITIONER- 
+
+There is no dispute in this case, nor has there ever been, 
+that Leanne Whitlock was brutally murdered in January 
+1990. There likewise is no doubt of the Commonwealth’s 
+compelling interest in bringing Ms. Whitlock’s murderer 
+to justice, or of the Commonwealth’s interest in the finality 
+of properly obtained and reliable capital judgments. The 
+Commonwealth’s emphatic repetition of those propositions 
+adds nothing to the analysis of the questions that this 
+Court directed the parties to brief. What is at issue here 
+is whether the capital judgment against petitioner can, in 
+fact, be treated as reliable, given the Commonwealth's 
+suppression of evidence that would have devastated the 
+credibility of the Commonwealth’s purportedly disinter- 
+ested “eyewitness,” Anne Stoltzfus. The Commonwealth's 
+argument before this Court on that issue rests, at bottom, 
+on the proposition that “the law is easy to beat.” Deal v. 
+United States, 508 U.S. 129, 136 (1993). In the Com- 
+monwealth’s view, if state prosecutors can misrepresent 
+their compliance with federal constitutional obligations 
+long enough to secure affirmance of a criminal conviction 
+and denial of state collateral review, there is nothing 
+federal courts can do about it. 
+
+Indeed, even in this Court, the Commonwealth’s defense 
+of its actions evinces a surprisingly lackadaisical approach 
+not to its constitutional obligations under Brady, but 
+also to the most fundamental duties that every litigant 
+owes to the judicial system. Without a hint of embarrass- 
+ment, the Commonwealth asserts that its factual repre- 
+sentations to the state courts, avowing its compliance with 
+Brady v. Maryland, 373 U.S. 83 (1963), and its progeny, 
+“obviously” should not be taken to imply that the Com- 
+
+ts who made those representations actually 
+“had reviewed the Commonwealth’s files for possible excul- 
+patory material.” Va. Br. 28. Such representations, it 
+seems, are no more than stock assertions that the Com- 
+mon makes, without inquiry into their accuracy, to 
+ensure the rejection of federal constitutional claims. That 
+
+2 
+
+approach to the judicial system, which would be unsettling 
+if suggested by a mere private litigant, scarcely “justif[ies 
+this Court's] trust in the prosecutor as the representative 
+of a sovereignty whose interest * * * is not that it shall 
+win a case, but that justice shall be done.” Kyles v. 
+Whitley, 514 U.S. 419, 439 (1995) (internal citations 
+omitted). It is not surprising that neither the United States 
+nor a single State of the Union supports the Common- 
+wealth’s arguments in this Court. 
+
+In any event, the Commonwealth’s attempt to fortify 
+and defend the Fourth Circuit’s decision severely misappre- 
+hends not only this Court’s Brady jurisprudence, but also 
+this Court’s understanding of the type of “external” im- 
+pediments to the defense that traditionally have been held 
+to constitute “cause.”* The Commonwealth would assess 
+the materiality of new evidence that impeaches a particular 
+witness by conclusively presuming that the testimony of 
+all remaining witnesses is the gospel truth, even if (as in 
+the case of Donna Tudor) those other witnesses were 
+themselves subject to devastating impeachment; indeed, 
+the Commonwealth would not even consider evidence “ex- 
+culpatory” unless the prosecution can articulate no theory, 
+however farfetched, under which the evidence might still 
+be consistent with its case. And under the Common- 
+wealth’s “heads I win, tails you lose” analysis of proce- 
+dural default, a prisoner can never show “cause” for failing 
+to raise his Brady claim in the state courts: If the prisoner 
+ultimately found the suppressed evidence, that fact alone 
+establishes that he was insufficiently “diligent” in failing 
+to discover his claim sooner. Because the Commonwealth’s 
+arguments are wholly unsupportable under this Court's 
+cases, the judgment of the court of appeals must be 
+reversed. 
+
+1The Commonwealth does not appear to dispute that, if peti- 
+tioner’s Brady claim has merit, he need make no further showing 
+to establish the “prejudice” component of the procedural default 
+inquiry. See Va. Br. 32-33 (arguing that petitioner failed to estab- 
+lish the “prejudice” required to excuse his procedural default solely 
+on the basis that petitioner’s Brady claim lacks merit); see also 
+Pet. Br. 46-47. 
+
+3 
+
+IL THE COMMONWEALTH CLEARLY VIOLATED 
+BRADY AND ITS PROGENY 
+
+The Commonwealth’s Brady argument is premised on 
+the theory that petitioner had access to the “substance” 
+(Va. Br. 36) of the five concededly withheld documents, 
+because the Commonwealth allegedly disclosed to him 
+three other documents—Exhibits 2, 7 and 8. The Com- 
+monwealth in fact never has established that Exhibits 2, 
+7 and 8 were disclosed to petitioner. Indeed, although 
+the Commonwealth misleadingly contends that petitioner 
+“himself established” that those exhibits “were in the Com- 
+monwealth’s Attorney’s file prior to trial” (id. at 37), the 
+Commonwealth cites to the prosecutor's affidavit for that 
+claim. Ibid. (citing J.A. 368). Petitioner submitted a 
+contrary affidavit by one his trial counsel, who swore that 
+he “first learned these materials existed * * * in 1997” 
+
+ruled that it was not necessary to resolve it, because peti- 
+tioner is clearly entitled to relief under Brady “even if the 
+three documents that are in dispute were provided to 
+[petitioner's] trial counsel.” Jd. at 392.° 
+
+2 While the affidavit of petitioner’s trial counsel refers to “the 
+attached Exhibits 1-7” (J.A. 300), the context makes clear that 
+the omission of Exhibit 8 from that range was a typographical 
+error. The affidavit makes clear that trial counsel was referring 
+to the totality of “Det. Claytor’s notes of interviews * * * and 
+letters and notes from Ann Stoltzfus to Det. Claytor.” Jbid. The 
+district court clearly understood that point. See id. at 392 (noting 
+that “Exhibits, 2, 7 and 8” “appear to be genuinely in dispute”). 
+
+3In light of the clarity of the district court’s analysis of this 
+issue, it is difficult to understand how the Commonwealth can 
+reasonably represent to this Court that “!t}he district court did 
+not mention exhibits 2, 7 or 8,” but “did not take issue” with the 
+Commonwealth's claim “that the defense had access to each of 
+those documents prior to trial.” Va. Br. 13. The district court 
+plainly did mention those exhibits, making clear the limited pur- 
+
+2 
+
+4 
+
+Because the district court merely assumed arguendo that 
+those three exhibits were disclosed to the defense, the 
+Commonwealth errs in suggesting that those exhibits re- 
+quire affirmance of the Fourth Circuit’s judgment, which 
+ordered the outright dismissal of the habeas petition. J.A. 
+429. If this Court were inclined to agree with the Com- 
+monwealth’s claim that Exhibits 2, 7 and 8 replicate the 
+five concededly withheld documents, that conclusion would 
+still require vacatur and an evidentiary hearing into whether 
+the Commonwealth in fact produced those three exhibits 
+in its “open file.”* This Court should not, however, agree 
+with the Commonwealth’s strained interpretation of the 
+five withheld documents. Because the district court cor- 
+rectly concluded petitioner is entitled to relief under Brady 
+even on the assumption that the defense had access to 
+Exhibits 2, 7 and 8 before the trial, there is no need for 
+any further hearing. The judgment of the court of appeals 
+rejecting petitioner’s Brady claim should be reversed out- 
+right. 
+
+pose for which it accepted the premise that the defense might have 
+had access to them before trial. J.A. 391-92. 
+
+* The Commonwealth also notes that one of petitioner’s trial coun- 
+sel, Thomas Roberts, submitted to the district court an affidavit, 
+which that court “accepted * * * ‘as true’ for purposes of * * * sum- 
+mary judgment.” Va. Br. 36 & n.16. Roberts’ brief affidavit does 
+not, as the Commonwealth asserts, “conclusively establish{] that 
+[petitioner] was aware at the time of trial of the facts contained in 
+the ‘Stoltzfus materials.’” Ibid. Indeed, the affidavit asserts that 
+Roberts does not recall seeing the specitic documents at issue here, 
+but merely recalls “the information contained in them.” J.A. 871. 
+The affidavit does not identify any specific “information” con- 
+tained in the Stoltzfus materials that Mr. Roberts purports to re- 
+call; it simply recites Mr. Roberts’ impression that Stoltzfus’ story 
+had become more detailed over time. Not surprisingly, the district 
+court concluded that “[e]ven accepting Roberts’ statements as ac- 
+curate and truthful, they are much too vague and insufficient to 
+create a genuine dispute that Exhibits 1, 3, 4, 5, and 6 of the 
+Stoltzfus materials were disclosed to defense counsel in light of 
+all of the evidence to the contrary.” Jd. at 399-400. The Common- 
+wealth has offered no argument that impugns that analysis. 
+
+A. The Five Suppressed Exhibits Were Clearly Ex- 
+culpatory 
+
+The Commonwealth contends that the letters and notes 
+oe OE Soren SA. e Se Se SS 
+patory” because purportedly con per se 
+consistencies’ ” (ve Br. 41 1.22), but merely reflect 
+“minor variations” (ibid.) that could easily have a 
+explanation. Jd. at 42. According to the Common . 
+it is “completely unremarkable that a citizen witness such 
+as Stoltzfus initially expressed some hesitancy,” and it 
+would be “neither reasonable nor realistic ic” to expect her 
+“to say exactly the same thing on each occasion” she dis- 
+cussed the case with the police. Jbid. Those arguments 
+evince a profound misunderstanding not only of what 
+types of evidence are deemed “exculpatory” under Brady 
+and its progeny, but also of the record in case. 
+
+1. Evidence is “exculpa if it is “favorable to the 
+accused” (Pennsylvania v. po AP 480 U.S. 39, 57 (1987) 
+(emphasis added)), a determination that turns on what 
+q t counsel” could have accomplished with the 
+evidence. Kyles, 514 U.S. at 441; see also United States 
+v. Bagley, 473 U.S. 667, 676 (1985) ( Brady inquiry 
+focuses on impact evidence would have “if disclosed and 
+used effectively”). This Court made clear 40 years ago 
+that evidence that impeaches a prosecution witness clearly 
+is “favorable” in the relevant sense, since “([t}he jury's 
+estimate of the truthfulness and reliability of a given wit- 
+ness may well be determinative of guilt or innocence, and 
+it is upon such subtle factors as the possible interest of the 
+witness in testifying falsely that a defendant's life or liberty 
+may depend.” Napue v. Illinois, 360 U.S. 264, 269 
+(1959). For that reason, it has long been established that 
+“[iJmpeachment evidence * * * falls within the Brady 
+rule.” Bagley, 473 U.S. at 676; Giglio v. United States, 
+405 U.S. 150, 154 (1972).° 
+
+5 Because the principles on which petitioner relies were estab- 
+lished decades before his trial, there is no substance to the Com- 
+monwealth’s assertion that petitioner seeks to “expand the scope 
+
+6 
+
+According to the Commonwealth, however, impeach- 
+ment evidence should not be deemed “exculpatory” so 
+long as the prosecution can articulate some theory under 
+which the evidence is consistent with the prosecution’s 
+case, such as the Commonwealth's suggestion that most 
+civilian witnesses initially give truncated accounts of the 
+facts to the authorities. Va. Br. 42-43. No precedent 
+from this Court supports such a view of Brady, and the 
+Commonwealth understandably cites none. Although in 
+the first instance “it is the State that decides which infor- 
+mation must be disclosed” (Ritchie, 480 U.S. at 59), this 
+Court’s Brady cases seek “to preserve the criminal trial, 
+as distinct from the prosecutor’s private deliberations, as 
+the chosen forum for ascertaining the truth about criminal 
+accusations.” Kyles, 514 U.S. at 440. The threshold issue 
+for the prosecutor, therefore, is not whether he can put 
+an inculpatory cast on the evidence, but whether com- 
+petent defense counsel could reasonably use the evidence 
+to suggest to the jury that it should infer bias, confabu- 
+lation, lack of memory, or any other circumstance that the 
+law of evidence traditionally has regarded as a proper 
+ground for impugning the reliability of testimonial evi- 
+dence. Cf. Kyles, 514 U.S. at 444 (noting that “the evolu- 
+tion over time of a given eyewitness’s description can be 
+fatal to its reliability”). 
+
+The Commonwealth's protestations about what reason- 
+ably may be expected from a “citizen witness such as 
+Stoltzfus” (Va. Br. 42) ring particularly hollow in this 
+case, because Stoltzfus chose to deflect all attempts to cast 
+doubt on her story by appealing to her “exceptionally 
+good memory” and by emphasizing how closely she “paid 
+attention” to the events she related at trial. J.A. 58. It 
+was that “exceptionally good memory” that purportedly 
+explained Stoltzfus’ remarkable ability to give testimony 
+bordering on videography, including a detailed account 
+of the garments worn by petitioner several months earlier. 
+Having secured petitioner’s conviction by relying on Stoltz- 
+
+of Brady” in violation of the “new rule” principle of Teague v. 
+Lane, 489 U.S. 288 (1989), and its progeny. Va. Br. 42 & n.23. 
+
+a 
+
+7 
+
+fus, “exceptional” memory, the Commonwealth is poorly 
+positioned to suggest now that she and her memory were, 
+after all, merely ordinary. 
+
+2. Moreover, the Commonwealth’s claim that the five 
+concededly suppressed exhibits lacked any exculpatory 
+value beyond that provided by Exhibits 2, 7 and 8 is sheer 
+obfuscation. For example, the Commonwealth contends 
+that there is nothing exculpatory in the fact that Stoltzfus 
+claimed, when she first was approached by Det. Claytor, 
+that she could not identify the black female victim. J.A. 
+306 (Exh. 1). It reasons that “Whitlock’s identity was 
+never an issue at trial * * * and any attempt to ‘impeach’ 
+Stoltzfus by suggesting that the black woman in the blue 
+car was not Whitlock would have been ludicrous.” Va. 
+Br. 38-39 n.19. The Commonwealth also contends that, 
+in any event, Exhibit 7 “establishes the very same thing”— 
+i.e., “that Stoltzfus identified Whitlock days after the 
+crime” after viewing photographs of Ms. Whitlock with 
+the victim’s boyfriend. /d. at 38. 
+
+As the Commonwealth should well know, however, the 
+issue is not whether the jury knew the actual identity of 
+the victim, but whether it knew enough about Stoltzfus’ 
+lack of reliability as a percipient witness. A purported 
+“eyewitness” who announces to the police when she is 
+first interviewed (a time when the events presumably are 
+freshest in her mind) that she lacks any ability to identify 
+the victim—beyond stating the victim’s race and sex— 
+essentially admits that her powers of observation either are 
+limited or were less than fully engaged on the occasion 
+in question (or both). Each of those propositions is in- 
+compatible with Stoltzfus’ trial claims that her memory 
+is “exceptional” and that she paid close attention to the 
+events she related to the jury, to say nothing of the in- 
+consistency between Stoltzfus’ original inability to describe 
+the “black female” and her detailed account of the victim’s 
+appearance at trial. J.A. 41-42 (“rich college kid,” “beau- 
+tiful,” “well dressed,” “did not wear glasses,” “she was 
+happy, she was singing”). And contrary to the Common- 
+wealth’s assertion, that impeaching information is not “the 
+
+very same thing” that appears in Fxhibit 7, in which 
+Stoltzfus merely reports that she has now placed a name— 
+“LeAnn Whitlock”—on “the black girl” whose abduction 
+Stoltzfus had observed. See J.A. 319 (“As soon as I saw 
+John Dean’s pictures of LeAnn Whitlock[,] I knew be- 
+yond a shadow of a doubt that she was ‘the black girl’ 
+* * *.”): see also J.A. 311 (same report in Exh. 2). The 
+latter statement would not “clearly put [defense counsel] 
+on notice” that Stoltzfus’ reliability “was open to serious 
+attack.” Kyles, 514 U.S. at 444 n.14. 
+
+That refusal to grapple with the crucial issue—whether 
+Stoltzfus was in fact a reliable witness—is evident in the 
+Commonwealth's entire approach to the purported overlap 
+between the concededly suppressed documents and (the 
+arguably produced) Exhibits 2, 7 and 8. That approach 
+consists of identifying a discrete fact that appears in each 
+set of documents (often in very different formulations), 
+pronouncing the two sets of documents identical on that 
+basis alone, and refusing to discuss the remaining (highly 
+exculpatory) bulk of the withheld documents. Thus, for 
+example, the fact that Exhibits 2 and 8 describe the vic- 
+tim’s car as “shiny” and “blue” is sufficient for the Com- 
+monwealth to attach no importance to the fact that the 
+suppressed exhibits show how Stoltzfus flip-flopped in her 
+description of that car (from “sports” to “standard boxy 
+American style”), or to the fact that she was merely relay- 
+ing her “vague impression{s}” of what she thought the car 
+looked like. Compare Va. Br. 39 with J.A. 311 (Exh. 3); 
+id. at 317-18 (Exh. 5). 
+
+Similarly, the fact that Exhibit 4 sets a “time line of 
+[Stoltzfus’] January S[th] journey through the Valley 
+Mall” (Va. Br. 39) is sufficient for the Commonwealth 
+to pronounce that exhibit substantially identical to Ex- 
+hibit 8 (ibid.), despite the wealth of devastating impeach- 
+ment material that is found in the former but not in 
+the latter. Among other things, Exhibit 4 makes clear 
+that Stoltzfus had initially professed “confusion” about 
+the events of January 5th, that she had not remembered 
+
+9 
+
+going inside the mall at all, and that she had thought she 
+had been at the Mall much later, around closing time. 
+J.A. 313, 316 (Exh. 4).° In Exhibit 4, Stoltzfus also 
+admits that she has “a very vague memory that [she is] 
+not sure of” (id. at 316) concerning the key aspect of 
+her trial testimony: her description of how the blue car 
+was boarded by a “wild guy.” In fact, Stoltzfus expressed 
+doubt that the “wild guy” was the same person as a 
+“revved-up mountain man” she had seen earlier. Jbid. 
+(“Were those 2 memories the same person?”). And Ex- 
+hibit 4 also makes clear that many of the “memories” that 
+Stoltzfus recounted at trial were not based on her inde- 
+pendent recollection, but were based instead on what she 
+inferred from old cash register receipts and a cancelled 
+check and from her daughter’s recollections. Jd. at 313- 
+14, 317. For that reason, the district court correctly con- 
+cluded that Exhibit 4 “provides a basis [on] which Stoltz- 
+fus’s testimony might have been excluded altogether.” /d. 
+at 389. 
+
+6 The Commonwealth contends that Stoltzfus’ initial “confusion” 
+and lack of memory about being present at the Mall on January 5th 
+are irrelevant, because Stoltzfus “confirmed her presence at the 
+mall * * * at the time of Whitlock’s abduction with several cash 
+register receipts and a canceled check.” Va. Br. 39-40. Again, that 
+analysis misses the point, because what is important is not whether 
+Stoltzfus ultimately resolved her “confusion” about being there in 
+a manner that is consistent with other evidence, but that she was 
+too addled to remember being there in the first place. The point 
+is significant because the Commonwealth’s case depended on the 
+reliability of those aspects of Stoltzfus’ testimony that were not 
+independently corroborated—i.e., her detailed account of the abduc- 
+tion and her identification of petitioner as the ring leader in that 
+crime. It was therefore essential for the defense to expose Stoltzfus 
+as an unreliable witness, even if it was true that other evidence 
+corroborated some of the less important aspects of her testimony. 
+Cf. Idaho v. Wright, 497 U.S. 805, 822-28 (1990). 
+
+7The Commonwealth asserts that the district court’s view “is 
+frivolous,” and it represents that petitioner “never has challenged 
+the admissibility of [Stoltzfus’] identification” of him. Va. Br. 40 
+n.20. Here, as elsewhere, the accuracy of the Commonwealth’s 
+analysis would benefit from forgoing invective in favor of a more 
+searching review of the record on which its representations are 
+
+10 
+
+Finally, the Commonwealth’s argument wholly ignores 
+the fact that the five concededly suppressed exhibits cast 
+the three exhibits that purportedly were disclosed in a 
+dramatically different light. Taken together, the eight 
+exhibits compellingly show not only “the evolution over 
+time of [Stoltzfus’] description” (Kyles, 514 U.S. at 444), 
+but also how that evolution mirrored, step by step, Det. 
+Claytor’s meetings with Stoltzfus; they show a witness 
+who craved Claytor’s approval and who appeared willing 
+to shift her recollection to conform her story to what he 
+expected it to be. See, e.g., J.A. 316 (“I'm sorry my 
+initial times were so far off”). Indeed, the eight docu- 
+ments paint a portrait of Stoltzfus that differs markedly 
+from her trial image of a civilian who became, by hap- 
+penstance, a reluctant participant in the criminal justice 
+process. The jury saw a witness who initially avoided 
+contacting the authorities and whose eventual trial testi- 
+mony, like her contacts with law enforcement, reflected 
+nothing beyond the discharge of an unpleasant civic duty. 
+By contrast, the full sweep of the Stoltzfus materials re- 
+veals someone with a rather obsessive interest in the in- 
+vestigation—someone who, on her own initiative, bom- 
+barded law enforcement with her written impressions, 
+and who clearly viewed herself as a member of the prose- 
+cution team. It accordingly cannot reasonably be doubted 
+that the suppressed documents, besides contradicting 
+numerous specific aspects of Stoltzfus’ trial testimony, also 
+furnished ample grounds for impeaching her for bias. 
+Cf. United States v. Abel, 469 U.S. 45, 52 (1984) (not- 
+ing that proof of bias is “almost always relevant” to a 
+jury’s assessment of “the accuracy and truth of a wit- 
+ness’ testimony”). 
+
+based. Petitioner in fact moved to suppress Stoltzfus’ identification 
+testimony immediately after she finished giving it. J.A. 62. The 
+prosecutor defeated that motion by suggesting that under “the 
+totality of the circumstances” Stoltzfus “still had a good impression 
+of the defendant” (id. at 63), an argument that presumably was 
+meant to emphasize Stoltzfus’ purportedly ample opportunity to 
+observe petitioner at length during the commission of the offense. 
+Cf. United States v. Wade, 388 U.S. 218, 241-42 (1967). 
+
+a 
+
+11 
+
+B. Stoltzfus’ Pre-Trial Statements Were Plainly Ma- 
+terial 
+This Court has emphasized time and again that the 
+materiality standard “is not a sufficiency of evidence test,” 
+and, therefore, does not require that the defendant “dem- 
+onstrate that after discounting the inculpatory evidence 
+in light of the undisclosed evidence, there would not 
+have been enough left to convict.” Kyles, 514 U.S. at 
+434-35. The Commonwealth’s principal materiality argu- 
+ment nonetheless reduces to the assertion that the “in- 
+dependent” evidence suffices to convict petitioner, even if 
+Stoltzfus’ testimony is disregarded or heavily discounted. 
+Va. Br. 46-49. The Commonwealth also places great 
+emphasis on the fact that petitioner’s counsel conceded in 
+summation that petitioner “had abducted and robbed 
+Whitlock,” and that petitioner himself admitted, in con- 
+nection with his capital sentencing proceeding, that he 
+had been present in Whitlock’s car and at the murder 
+scene. Those “admissions,” the Commonwealth believes, 
+render “immaterial” its own failure to disclose exculpatory 
+materials to the defense. 7d. at 33-35. Once again, the 
+Commonwealth’s analysis is flawed at every turn. 
+
+1. The Commonwealth’s reweighing of the non-Stoltz- 
+fus evidence not only is an impermissible “sufficiency” 
+analysis of materiality, but it is also wrong on its own 
+terms. As noted in the opening brief (Pet. Br. 33-34), 
+without pertinent rebuttal from the Commonwealth, not 
+all parts of a trial record are equally persuasive to a 
+jury. Experience teaches that an in-court identification 
+by an unwavering and purportedly disinterested eyewit- 
+ness, like a videotape or a signed confession, is over- 
+whelmingly likely to sway juries toward conviction. Be- 
+cause it is well-nigh impossible that any jury would assess 
+the Commonwealth’s evidentiary presentation apart from 
+Stoltzfus’ trial account, there is no evidence in this record 
+that can fairly be said to be “independent” of that 
+account.® 
+
+8 Indeed, the prosecutor told the jury that Stoltzfus’ testimony 
+“really [could] not be disputed beyond any doubt,” and emphasized 
+
+12 
+
+Moreover, the Commonwealth’s submission is deeply 
+flawed because its claim that the evidence against peti- 
+tioner is “overwhelming” improperly assumes that the 
+trial testimony of all prosecution witnesses other than 
+Stoltzfus was truthful and reliable. The Commonwealth 
+goes so far as to assert that Donna Tudor’s assertions are 
+“undisputed.” Va. Br. 46; see also id. at 48-49. Brady 
+claims, however, “must be evaluated in the context of the 
+entire record” (United States v. Agurs, 427 U.S. 97, 
+112 (1976)), including those parts of the record that 
+impeach the testimony of other prosecution witnesses. 
+Kyles, 514 U.S. at 445. Donna Tudor’s trial testimony 
+was subject to withering impeachment, because she had 
+originally been arrested for the theft of the victim’s car 
+and had also been found in possession of the victim's ear- 
+rings; only then did she allege that petitioner had made 
+incriminating statements in connection with the Whitlock 
+killing. Not only was Tudor testifying to deflect suspi- 
+cion for the murder away from herself and to curry favor 
+with the prosecution, but she had earlier admitted to her 
+husband that she had indeed been present at the time 
+Ms. Whitlock was killed and that petitioner was inno- 
+cent of the killing. See Pet. Br. 9-10 & n.6. Given that 
+the opening brief emphasized Tudor’s obvious lack of re- 
+liability (id. at 9-10, 34), the Commonwealth’s decision 
+
+that “(i]t was the last time Leanne was seen alive by anybody.” 
+J.A. 165, 170. He similarly relied on Stoltzfus’ claims at sentencing 
+to urge a death sentence on the basis of petitioner’s role as “the 
+aggressor. He was the one that ran out. He was the one that 
+grabbed Leanne Whitlock. When she struggled trying to get away 
+from him in Harrisonburg, he was the one that started beating 
+her there in the car. And finally subdued her enough to make her 
+drive away from the mall * * *.” Sent. Tr. 15. 
+
+® Thus, for example, the Commonwealth notes that Kurt Massie 
+saw petitioner “at 7:30 p.m. as he drove [the victim’s] car into the 
+field in which Whitlock was murdered.” Va. Br. 46. The Common- 
+wealth neglects to note that it was dark, that Massie saw only three 
+people in the car, and that all the occupants of the car Massie ob- 
+served were white. Compare Pet. Br. 8. 
+
+13 
+
+to premise its materiality an:'ysis on the purportedly 
+“undisputed” truth of her assertions is unfathomable. 
+
+Similarly inexplicable is the Commonwealth’s apparent 
+belief that the materiality issue before this Court should 
+turn on the fact that the Virginia courts “found as 
+a matter of historical fact” that petitioner killed Ms. Whit- 
+lock “in the commission of robbery while armed with a 
+deadly weapon.” Va. Br. 48 (citing former 28 U.S.C. 
+2254(d) (emphasis in original) ). Even leaving aside the 
+legal character of the materiality determination under 
+Brady, no state court ever has held a hearing on peti- 
+tioner’s Brady claim and thus there are no “findings” 
+entitled to deference under former Section 2254(d). See 
+Kimmelman v. Morrison, 477 U.S. 365, 389 (1986) (no 
+deference due when “[t]he issue * * * place[d] before 
+the federal habeas courts is substantially different from 
+the issue * * * presented to the [state] judge”); see also 
+Thompson v. Keohane, 516 U.S. 99, 109-10 (1995) 
+(“mixed questions” are beyond the purview of former 
+Section 2254(d)). Moreover, the Sixth Amendment en- 
+titles petitioner to a trial by jury, not to an appellate 
+determination of guilt. The jury that heard petitioner’s 
+case was told that it could convict him of capital murder 
+on the basis of the “abduction” and “robbery” predicates, 
+both of which were equally dependent on Stoltzfus’ testi- 
+mony. No jury that believed Stoltzfus had been coached 
+to lie about petitioner’s role in the abduction, and which 
+rejected her account on that basis, would go on to find 
+that petitioner nonetheless somehow robbed Whitlock, 
+much less that he murdered her. 
+
+2. There is no greater merit to the Commonwealth’s 
+claim that its suppression of exculpatory evidence was 
+rendered immaterial by “admissions” that petitioner’s 
+counsel made to the jury and that petitioner himself 
+made at sentencing. “Of course,” the statements peti- 
+tioner made, after verdict, solely in connection with his 
+impending sentencing, “could [not] possibly have affected 
+the jury’s appraisal * * * at the time of [his] trial[].” 
+
+14 
+
+Kyles, 514 U.S. at 450 n.19. But in any event, both 
+sets of statements—whether by petitioner or his counsel— 
+are properly viewed as part and parcel of the Common- 
+wealth’s violation of Brady, rather than as the means by 
+which the Commonwealth can escape the consequences 
+of that violation. 
+
+Because this Court borrowed the Brady/Bagley mate- 
+riality standard from the “prejudice” prong of the Sixth 
+Amendment's test for ineffective assistance of counsel, see 
+Kyles, 514 U.S. at 434 (noting that Court “adopi[ed] 
+formulation announced in Strickland v. Washington, 466 
+U.S. 668, 694 (1984)”), this Court’s decision in Hill v. 
+Lockhart, 474 U.S. 52 (1985), is particularly instructive. 
+In Hill, the habeas petitioner sought to invalidate his 
+plea of guilty on the ground that he had received in- 
+effective assistance from his counsel in the proceedings 
+leading to that plea. Jd. at 54-55. Based on the argu- 
+ment advanced by the Commonwealth here, the answer 
+to the claim in Hill would seem easy—i.e., even if the 
+attorney was incompetent, the defendant could not show 
+“prejudice” because he himself “admitted” his guilt in 
+open court by entering the plea. The Court, of course, 
+did not follow that course. Speaking through then-Justice 
+Rehnquist, the Court held instead that a habeas petitioner 
+could secure relief if counsel’s incompetence “affected the 
+outcome of the plea process.” Jd. at 59. In particular, 
+the Court interpreted Strickland to provide for relief if 
+there is a reasonable probability that, absent counsel’s defi- 
+cient performance, the defendant “would not have pleaded 
+guilty and would have insisted on going to trial.” Jbid.° 
+
+10 While amicus Criminal Justice Foundation urges this Court 
+to decide this case on the basis of the standards that prevail in the 
+Strickland context (CJF Br. 18-20), amicus inexplicably fails to 
+cite, much less discuss, this Court’s decision in Hill, which would 
+seem to present the most apt analogy. The cases on which amicus 
+relies—Niz v. Whiteside, 475 U.S. 157 (1986), and Lockhart v. 
+Fretwell, 506 U.S. 364 (1993)—merely hold that a criminal defend- 
+ant is not entitled to a trial advantage that violates the law. Un- 
+like the defendants in Nix and Fretwell, petitioner does not seek 
+
+15 
+
+That analysis is consistent with the general rule that 
+the government may not reap the benefits of its own 
+failure to observe constitutional commands (e.g., Wong 
+Sun v. United States, 371 U.S. 471 (1963) (“fruit of 
+the poisonous tree” doctrine) ), and it answers the Com- 
+monwealth’s claim here. There can be no doubt that 
+the Commonwealth’s suppression of exculpatory evidence, 
+and defense counsel's inability to impeach Stoltzfus’ grip- 
+ping account, produced counsel's tactical decision to con- 
+cede petitioner’s guilt on counts carrying a sentence other 
+than death. Indeed, the Sixth Amendment required coun- 
+sel to consider the wisdom of such a “tactical retreat” 
+once it became clear that Stoltzfus’ testimony was essen- 
+tially unimpeachable. United States v. Tabares, 951 F.2d 
+405, 409 (ist Cir. 1991) (Breyer, J.) (noting that such 
+concessions in the face of adversity “are deemed to be 
+effective assistance”); see also Underwood v. Clark, 939 
+F.2d 473, 474 (7th Cir. 1991) (Posner, J.) (counsel 
+may make such tactical concessions even if client has not 
+consented to them). It is equally clear that, had the 
+Commonwealth not suppressed the Stoltzfus materials, pe- 
+titioner could well have been acquitted; and he certainly 
+would not have corroborated with his own statements 
+any part of Stoltzfus’ discredited account. In these cir- 
+cumstances such “admissions” cannot render “immaterial” 
+the Commonwealth’s suppression of exculpatory evidence. 
+
+3. No different conclusion is warranted by the Com- 
+monwealth’s assertion that the evidence is not “material” 
+in light of the Commonwealth’s purported right to intro- 
+duce petitioner’s “admissions” “at any retrial.” Va. Br. 
+34. While the Commonwealth cites Wood v. Bartholo- 
+mew, 516 U.S. 1 (1995), as the source of that purported 
+right, the passage on which the Commonwealth relies is 
+actually dictum, and weak dictum at that. The holding of 
+the case was that the “suppressed” evidence was not mate- 
+
+“the luck of a lawless decisionmaker” (Fretwell, 506 U.S. at 370), 
+but instead the judgment of an informed one. 
+
+16 
+
+rial even without considering new testimony “that the 
+State likely could introduce on retrial.” Jd. at 8.% In 
+any event, the Commonwealth is wrong to suppose that 
+the materiality calculus would shift in its favor if the 
+analysis were focused on a hypothetical retrial at which 
+petitioner's “admissions” were part of the evidentiary mix. 
+
+To begin with, petitioner quite emphatically “denie[{d] 
+murdering, abducting, much less robbing Leanne Whit- 
+lock.” Pre-Sentence Report 2C. He never “admitted” his 
+guilt of the offenses, as the Commonwealth implies, but 
+merely acknowledged in his sentencing proceedings that 
+he rode in the blue car with Henderson and Ms. Whit- 
+lock, who appeared to know each other, and that he was 
+nearby when Henderson killed her. /d. at 2B; Sent. Tr. 
+54-55.22 While those statements would add to the Com- 
+monwealth’s circumstantial case, they would also be sub- 
+ject to a compelling objection based on their lack of 
+voluntariness. Jackson v. Denno, 378 U.S. 368 (1964). 
+Even if the statements were admitted, petitioner would 
+
+11 The Court gave no hint that its summary disposition in Wood 
+was intended to change the traditional understanding that “[l)ogi- 
+cally the same [materiality] standard must apply” to the prosecu- 
+tor’s pre-trial assessment of whether disclosure is required and to 
+the court’s post-trial decision of whether failure to disclose partic- 
+ular information deprived the defendant of due process. Agurs, 427 
+U.S. at 108. Indeed, under the Commonwealth’s view of the law, 
+prosecutors would have untoward incentives to suppress exculpatory 
+evidence in cases in which the materiality question is close, in the 
+hope that additional evidence of guilt will have surfaced by the 
+time, if ever, when the materiality issue is litigated. Far from 
+discouraging prosecutors from “tacking too close to the wind,” 
+Kyles, 514 U.S. at 439, that approach would invite them to fly in 
+the face of it. 
+
+12 For that reason, amicus Criminal Justice Foundation is wrong 
+to premise its entire analysis of this case on the theory that “we 
+know” that petitioner “is guilty.” CJF Br. 20. In fact, the bulk 
+of amicus’ submission is devoted to the proposition that the Court 
+should “tighten[]” (CFJ Br. 14) the availability of habeas relief, 
+a position not briefed by the real party in interest and thus “not 
+properly before this Court.” Reno v. Koray, 515 U.S. 50, 55-56 n.2 
+(1995). 
+
+17 
+
+have an absolute right to place before the jury all evi- 
+dence relevant to their voluntariness, Crane v. Kentucky, 
+476 U.S. 683, 688-90 (1986), including the fact that 
+he is a man of “borderline” intelligence—“four points 
+above mental retardation,” Sent. Tr. 42—who was facing 
+death as a result of the Commonwealth’s misconduct in 
+suppressing evidence that could have exculpated him. 
+A jury could certainly conclude that the “admissions” were 
+not a product of free will, but a desperate ploy to avoid 
+pointlessly antagonizing the sentencer, who was already 
+persuaded that Stoltzfus’ account was unimpeachable. 
+
+A new jury would also consider the Stoltzfus materials, 
+which would allow petitioner not merely to expose Stoltz- 
+fus’ earlier account as the result of coaching and con- 
+fabulation, but also to “attack[{] the reliability of the in- 
+vestigation” (Kyles, 514 U.S. at 446), including the testi- 
+mony of other witnesses (id. at 445), on that basis. And, 
+of course, the Commonwealth would not be the only party 
+entitled to introduce new evidence. Petitioner could also 
+rely on additional evidence that has more recently come 
+to light. In particular, it now appears that Donna Tudor, 
+in a 1994 letter to her husband, admitted committing 
+perjury at petitioner’s original trial.* It is impossible to 
+escape the conclusion that the Commonwealth’s 
+sion of exculpatory evidence must be deemed “material” 
+under any analysis that this Court conceivably might apply. 
+
+If. PETITIONER CLEARLY ESTABLISHED “CAUSE” 
+FOR FAILING TO PRESENT HIS BRADY CLAIM 
+TO THE STATE COURTS 
+
+The Commonwealth chides petitioner for “devot{ing] 
+an inordinate amount of his brief” to showing that the 
+
+13In her June 1994 letter to her husband, Donna Tudor stated: 
+“You was right I lied in court on Strickler but I had to. I know 
+he only tryed to save the girl.” For the Court’s convenience, three 
+photographs of Donna Tudor’s letter and copies of an expert report 
+commissioned by the defense to assess the letter’s authenticity have 
+been lodged with the Clerk. " 
+
+a ee 
+
+18 
+
+Commonwealth’s misrepresentations about its “open file” 
+policy precluded petitioner from raising his Brady claim 
+at trial or on direct review. Va. Br. 17-18 n.6. 
+
+to the Commonwealth, the only relevant “default” for 
+which petitioner must show “cause” is his failure to raise 
+a Brady claim during state habeas review. Id. at 20 n.8. 
+The Commonwealth believes that petitioner cannot make 
+that showing because the Commonwealth's misrepresenta- 
+tions about compliance with Brady occurred “after” peti- 
+tioner filed his initial habeas pleadings and, therefore, 
+“could not have had any impact on petitioner’s failure to 
+raise a Brady claim in his petition as he was required to do 
+under state law.” Jd. at 19, 28-32. Alternatively, the 
+Commonwealth contends that petitioner was insufficiently 
+diligent in failing to investigate the possibility of a Brady 
+violation and in not seeking discovery in state habeas. 
+Those assertions are utterly meritless. 
+
+1. The Commonwealth’s attempt to carve up its mis- 
+conduct into neat, separate compartments does not with- 
+stand even cursory scrutiny. Beginning with the trial, the 
+Commonwealth engaged in a single, continuous course of 
+misconduct by inviting petitioner’s reliance on the pur- 
+ported discharge of the Commonwealth’s constitutional 
+_ duties through the woefully incomplete “open file.” The 
+representation conveyed by the “open file’—that the prose- 
+cution had properly discharged its Brady duties—was 
+never withdrawn; to the contrary, it was renewed on 
+appeal, and it was expressly reaffirmed in pleadings that 
+the Commonwealth filed in response to petitioner’s state 
+habeas petition after petitioner sought state habeas relief. 
+The Commonwealth's argument that the last representa- 
+tion of the series could not, by itself, have caused peti- 
+tioner’s omission of the Brady claim from his state habeas 
+petition is as irrelevant as it is disingenuous." 
+
+14 Indeed, the Commonwealth's analysis fails on its own terms. 
+If petitioner had been granted a hearing and discovery on the very 
+ineffective assistance claim to which the misrepresentation was 
+directed (which was predicated on trial counsel’s failure to file a 
+Brady motion), the Stoltzfus documents likely would have sur- 
+
+19 
+2. Equally untenable is the Commonwealth’s claim 
+that petitioner was duty-bound to disbelieve the Common- 
+
+be lying. The Commonwealth has not explained, nor is it 
+apparent, why petitioner could not reasonably rely on the 
+well settled presumption “that public officials have ‘prop- 
+erly their official duties.’ ” Bracy v. Gramley, 
+
+Court recently noted, that presumption is dispelled only 
+when there is “clear evidence to the contrary.” United 
+States v. Armstrong, 517 U.S. 456, 465 (1996). That 
+standard is scarcely met by the Commonwealth’s view that 
+petitioner’s suspicions should have been aroused by a close 
+reading of a newspaper's “letter to the editor”—which 
+petitioner never saw before the federal proceedings—in 
+which Stoltzfus credited Claytor for her “coherent” trial 
+testimony. Va. Br. 23 (citing J.A. 250). 
+
+Indeed, while the Commonwealth seems to believe that 
+petitioner should be charged with actual knowledge of 
+every conceivably relevant fact in the public record— 
+including every inch of the daily newspapers—its view in 
+that regard is clearly foreclosed by Amadeo v. Zant, 486 
+U.S. 214 (1987). In Amadeo, the key document that 
+alerted the defendant to his claim was found by sheer 
+happenstance in public court records, where it evidently 
+had rested since its creation. That fact, of course, did not 
+keep this Court from endorsing the district court’s view 
+that the document “was concealed by county officials and 
+therefore was not reasonably available to petitioner’s law- 
+yers.” Id. at 223 (emphasis added). There is no reason 
+for a different rule of law here, where there is no basis 
+for disputing petitioner’s claim that he reasonably relied 
+on the Commonwealth’s misleading representations.'* 
+
+faced. Petitioner then could have moved to amend his state habeas 
+petition to add a Brady claim. 
+
+15 McCleskey v. Zant, 499 U.S. 467 (1991), on which the Com- 
+monwealth extensively relies (Va. Br. 20-22), is completely in- 
+apposite here. As the Commonwealth itself recognizes, the defend- 
+
+20 
+
+3. Finally, while the Commonwealth concedes that 
+petitioner had no entitlement to any discovery in state 
+habeas (Va. Br. 24), it asserts that the same facts that 
+alerted petitioner to the need for Brady discovery in fed- 
+eral court should have caused him to seek the same relief 
+earlier, and to assert his Brady claim, in the state habeas 
+proceedings. /d. at 26. That argument fails because peti- 
+tioner never alleged in federal court that he had any “good 
+cause” for inquiring into potential Brady violations. In- 
+stead, petitioner’s counsel sought, and was granted by the 
+district court, an omnibus authorization to examine all 
+public files relating in any manner to petitioner. See 
+Record, Sealed Pleading No. 20 (Feb. 12, 1996). While 
+petitioner quite likely received discovery for which he was 
+not legally eligible, that merely confirms that, like the 
+defendant in Amadeo, he discovered the basis for his 
+federal claim by sheer fortuity. 
+
+CONCLUSION 
+
+For the foregoing reasons and those stated in petition- 
+er’s opening brief, the judgment of the court of appeals 
+should be reversed. 
+
+ant in MecCleskey actually raised his federal claim in state habeas, 
+dropped the claim in his first federal habeas petition, and then 
+attempted to resurrect it in a successive federal petition. Jd. at 
+20-21. Those facts left no doubt that the defendant had clearly 
+been aware of his claim all along. 
+
+Of Counsel: 
+MIGUEL A. ESTRADA 
+
+GIBSON, DUNN & CRUTCHER LLP 
+1050 Connecticut Avenue, N.W. 
+
+Washington, D.C. 20036 
+(202) 955-8500 
+
+February 1999 
+
+Respectfully submitted, 
+
+BARBARA L. HARTUNG 
+Counsel of Record 
+1001 East Main Street 
+
+Suite 504 
+Richmond, VA 23219 
+(804) 649-1088 
+
+MARK E. OLIVE 
+LAW OFFICES OF 
+
+MARK E. OLIVE, P.A. 
+820 W. Jefferson Street 
+Tallahassee, FL 32301 
+(850) 224-0004 
+JOHN H. BLUME 
+CORNELL LAW SCHOOL 
+Myron Taylor Hall 
+Ithaca, NY 14853 
+(607) 255-1030 
+
+Counsel for Petitioner 
+

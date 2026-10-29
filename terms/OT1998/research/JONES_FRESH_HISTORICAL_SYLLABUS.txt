@@ -1,0 +1,48 @@
+JONES V. UNITED STATES
+
+JONES V. UNITED STATES (97-9361) 
+Syllabus
+ Opinion
+ [ Thomas ]Dissent
+ [ Ginsburg ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+JONES v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+ No. 97—9361.  Argued February 22, 1999–Decided June 21, 1999
+
+Petitioner was sentenced to death for the crime of kidnaping resulting in the victim’s death.  Petitioner’s sentence was imposed pursuant to the Federal Death Penalty Act of 1994, 18 U.S.C. §3591 et seq.  At the sentencing hearing, the District Court instructed the jury and provided it with four Decision Forms on which to record its sentencing recommendation.  The court refused petitioner’s request to instruct the jury as to the consequences of jury deadlock.  The jury unanimously recommended that petitioner be sentenced to death.  The District Court imposed sentence in accordance with the jury’s recommendation, and the Fifth Circuit affirmed.
+
+Held:  The judgment is affirmed.
+
+  132 F.3d 232, affirmed.
+
+Justice Thomas delivered the opinion of the Court with respect to Parts I, II, and III—B, concluding:
+
+      1.  The Eighth Amendment does not require that a jury be instructed as to the consequences of their failure to agree.  Pp.  5—10.
+
+          (a)  As petitioner argues, the Federal Death Penalty Act requires judge sentencing when the jury, after retiring for deliberations, reports itself as unable to reach a unanimous verdict.  In such a case, the sentencing duty falls upon the District Court pursuant to 18 U.S.C. §3594.  Pp.  6—7.
+
+          (b)  The Eighth Amendment, however, does not require that a jury be instructed as to the consequences of a breakdown in the deliberative process.  Such an instruction has no bearing on the jury’s role in the sentencing process.  Moreover, the jury system’s very object is to secure unanimity, and the Government has a strong interest in having the jury express the conscience of the community on the ultimate life or death question.  A charge of the sort petitioner suggests might well undermine this strong governmental interest.  In addition, Congress chose not to require such an instruction be given.  The Court declines to invoke its supervisory power over the federal courts and require that such an instruction be given in every capital case in these circumstances.  Pp.  7—10.
+
+      2.  There is no reasonable likelihood that the jury was led to believe that petitioner would receive a court-imposed sentence less than life imprisonment in the event they could not recommend unanimously a sentence of death or life imprisonment without the possibility of release.  Pp.  10—22.
+
+          (a)  Petitioner claims that the instruction pertaining to the jury’s sentencing recommendation, in combination with the Decision Forms, led to confusion warranting reversal of his sentence under the Due Process Clause, the Eighth Amendment, and the Act.  Because petitioner did not voice the objections that he now raises before the jury retired, see Fed. Rule Crim. Proc. 30, his claim of error is subject to a limited appellate review for plain error, e.g., Johnson v. United States, 520 U.S. 461, 465—466.  Pp. 10—15.
+
+          (b)  Under that review, relief is not warranted unless there has been (1) error, (2) that is plain, and (3) affects substantial rights.  Petitioner’s argument falls short of satisfying even the first requirement, for no error occurred.  The proper standard for reviewing claims that allegedly ambiguous instructions caused jury confusion is whether there is a reasonable likelihood that the jury applied the challenged instruction in a way that violates the Constitution.  There is no such likelihood here.  The District Court gave no explicit instructions on the consequences of nonunanimity; and the passages that petitioner argues led to jury confusion, when viewed in the context of the entire instructions, lack any ambiguity.  Nor did the Decision Forms or their accompanying instructions create a reasonable likelihood of confusion over the effect of nonunanimity.  The District Court’s explicit instruction that the jury had to be unanimous and its exhortation to the jury to discuss the punishment and to attempt to reach agreement make it doubtful that the jury thought it was compelled to recommend a lesser sentence in the event of a disagreement.  Even assuming, arguendo¸ ; that a plain error occurred, petitioner cannot show that it affected his substantial rights.  The District Court admonished the jury not to concern itself with the effect of a lesser sentence recommendation.  Moreover, assuming that the jurors were confused over the consequences of deadlock, petitioner cannot show the confusion necessarily worked to his detriment.  It is just as likely that the jurors, loathe to recommend a lesser sentence, would have compromised on a life imprisonment sentence as on a death sentence.  Cf. Romano v. Oklahoma, 512 U.S. 1, 14.  Pp. 15—22.
+
+      3.  Assuming, arguendo, that the District Court erred in allowing the jury to consider nonstatutory aggravating factors that were vague, overbroad, or duplicative in violation of the Eighth Amendment, such error was harmless beyond a reasonable doubt.  An appellate court may conduct harmless-error review by considering either whether absent an invalid factor, the jury would have reached the same verdict or whether the result would have been the same had the invalid aggravating factor been precisely defined.  See Clemons v. Mississippi, 494 U.S. 738, 753—754.  The Fifth Circuit performed the first sort of analysis, and its explanation appears sufficient.  Even if its analysis was too perfunctory, it is plain, under the alternative mode of harmless-error analysis, that the error indeed was harmless.  Had the nonstatutory aggravating factors been precisely defined in writing, the jury would have reached the same recommendation as it did.  The Government’s argument to the jury cured the factors of any infirmity as written.  Pp.  29—31.
+
+    Thomas, J., announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I, II, and III—B, in which Rehnquist, C. J., and O’Connor, Scalia, and Kennedy, JJ., joined, and an opinion with respect to Part III—A, in which Rehnquist, C. J., and O’Connor and Kennedy, JJ., joined.  Ginsburg, J., filed a dissenting opinion, in which Stevens and Souter, JJ., joined, and in which Breyer, J., joined as to Parts I, II, III, and V.

@@ -1,0 +1,877 @@
+                      REVISED APRIL 1, 1999
+
+                 UNITED STATES COURT OF APPEALS
+                      FOR THE FIFTH CIRCUIT
+
+                     _______________________
+
+                           No. 98-50227
+                     _______________________
+
+
+                ROBERT VALDESPINO; BRENDA ROLON,
+
+                                              Plaintiffs-Appellants,
+
+                                 v.
+
+  ALAMO HEIGHTS INDEPENDENT SCHOOL DISTRICT; ETHYL WAYNE, In her
+   official capacity as a member of the Board of Trustees of the
+  Alamo Heights Independent School District, San Antonio, Texas;
+ HARRY OREM, In his official capacity as a member of the Board of
+  Trustees of the Alamo Heights Independent School District, San
+Antonio, Texas; STEPHEN P. ALLISON, In his official capacity as a
+ member of the Board of Trustees of the Alamo Heights Independent
+    School District, San Antonio, Texas; ANNE BALLANTYNE, In her
+   official capacity as a member of the Board of Trustees of the
+  Alamo Heights Independent School District, San Antonio, Texas;
+  THOMAS A. KINGMAN, In his official capacity as a member of the
+     Board of Trustees of the Alamo Heights Independent School
+  District, San Antonio, Texas; TERRI MUSSELMAN, In her official
+     capacity as a member of the Board of Trustees of the Alamo
+  Heights Independent School District, San Antonio, Texas; VICKI
+   SUMMERS, In her official capacity as a member of the Board of
+  Trustees of the Alamo Heights Independent School District, San
+                           Antonio, Texas,
+
+                                               Defendants-Appellees.
+
+
+
+
+          Appeal from the United States District Court
+                for the Western District of Texas
+
+
+                          March 11, 1999
+Before JONES, SMITH, and EMILIO M. GARZA, Circuit Judges.
+
+EDITH H. JONES, Circuit Judge:
+            The panel hereby withdraws its previous opinion and
+
+substitutes the following:
+
+            Plaintiffs-Appellants claim that the at-large, by-place,
+
+majority-vote     elections    for   positions     on   the    AHISD    board    of
+
+trustees dilute their votes as Hispanics in violation of Section 2
+
+of the Voting Rights Act of 1965.           See 42 U.S.C. § 1973 (1994) (as
+
+amended).     The district court found that the Plaintiffs failed to
+
+make out a vote dilution claim because they could not prove, under
+
+the   first    Gingles     threshold    factor,    that      Hispanics     are     a
+
+“sufficiently     large     and   geographically        compact       [group]     to
+
+constitute a majority in a single-member district.”               Thornburg v.
+
+Gingles, 478 U.S. 30, 50, 106 S. Ct. 2752, 2766 (1986).                   All the
+
+issues on appeal involve proof of the first Gingles factor.                       In
+
+particular, we reject the appellants’ contention that a “majority”
+
+may be less than 50% of the citizen voting-age population.                        As
+
+appellants’ other contentions fare no better, the judgment is
+
+affirmed.
+
+                                       I.
+
+            The   School     District       conceded    at    trial     that     the
+
+Plaintiffs’ demonstration district1 did comprise a majority of
+
+Hispanic voting-age citizens according to 1990 census data.                      The
+
+
+      1
+       The “demonstration district” is the hypothetical single-
+member district used by voting rights plaintiffs to demonstrate
+that they can satisfy the first Gingles factor (i.e., that their
+group could constitute a majority in a single-member district).
+Because the AHISD Board of Trustees has seven members, the
+Plaintiffs must propose a demonstration district that would be
+appropriate if the at-large district were divided into seven
+single-member districts.
+
+                                        2
+School District,        however,    presented     evidence     that   demographic
+
+changes between the 1990 census and the 1997 trial had eliminated
+
+that majority.    AHISD is a small district in which a few strategic
+
+land-use changes could and did significantly alter the district’s
+
+population and neighborhood ethnic mix.
+
+             The School District’s evidence was presented in expert
+
+testimony by Dr. Bill Rives, a demographer.               Using the 1990 census
+
+data as a baseline, Rives investigated post-1990 changes in the
+
+school district’s housing stock to determine how the population had
+
+changed in the Plaintiffs’ demonstration district and in the school
+
+district at large.       He testified that this methodology is “by far
+
+the   most    popular     demographic        estimation    technique”      and   is
+
+especially appropriate for small areas.
+
+             Rives testified that two main trends combined to leave
+
+the    Plaintiffs’         demonstration           single-member           district
+
+“underpopulated” in 1997.          Since 1990, the demonstration district
+
+had lost     population    (and    the   proportion       of   Hispanics    in   the
+
+demonstration district declined) because a large apartment complex
+
+had closed, been renovated, and reopened with a smaller number of
+
+residents.    Simultaneously, the population of the school district
+
+at large had increased because of substantial new residential
+
+development in the Lincoln Heights area (formerly a quarry and
+
+cement plant), outside the demonstration district.                As a result of
+
+these changes, the Plaintiffs’ demonstration district no longer
+
+approached one-seventh of the school district’s population, and
+
+thus could not be a proper single-member district.
+
+                                         3
+            To correct for the underpopulation, Rives added territory
+
+to the demonstration district.    He added a contiguous area to the
+
+north that had been included in some of the appellants’ prior
+
+proposed demonstration districts.     That northern area ran clear to
+
+the edge of the school district and had just about the right number
+
+of people to make a proper district.     Furthermore, if it were not
+
+added to the Plaintiffs’ district, the northern area would have to
+
+be attached to a different district via a mile-long, narrow strip
+
+of unpopulated land.     After the northern area was added to the
+
+demonstration district population, Hispanics made up only 47.9% of
+
+the voting-age citizen population of the revised demonstration
+
+district.    Even if the demonstration district were then partially
+
+depopulated (by 8.1% of the ideal population), this number would be
+
+48.3%.
+
+            The general thrust of Rives’s testimony had been clear
+
+for some time before trial.       For example, in a November 1996
+
+affidavit attached to the Defendants’ Response to Plaintiffs’
+
+Motion for Partial Summary Judgment, Rives had explained that no
+
+additions to the Plaintiffs’ proposed demonstration district could
+
+sufficiently increase the Hispanic population because “[t]here are
+
+no Hispanic-majority blocks that are adjacent to the proposed
+
+district.”    As the trial grew nearer, Rives updated his analysis,
+
+redoing calculations based on more recent data from the apartment
+
+complexes about the ethnicity of their residents.    Ultimately, the
+
+district court relied on Rives’s April 1997 Report.
+
+
+
+                                  4
+              Much of the controversy in the case comes from Rives’s
+
+August 1997 Report.        In July 1997, updated rental rolls became
+
+available from The Reserve, the large apartment complex within the
+
+Plaintiffs’ demonstration district that had been renovated and
+
+reopened since the 1990 census.              Rives then recalculated the
+
+results in his April 1997 report after learning that The Reserve
+
+had a slightly higher proportion of Hispanic residents than he had
+
+earlier believed. But he also corrected a calculation error in his
+
+April Report that had understated population growth in the school
+
+district at large.        Nevertheless, he concluded that the revised
+
+data still did not yield a majority of Hispanics among voting-age
+
+citizens within the Plaintiffs’ demonstration district. The August
+
+Report was given to the Plaintiffs in early August 1997, not long
+
+before the original trial setting.             On August 22, however, the
+
+district court reset the trial for Monday, September 15.
+
+              The Plaintiffs’ proffered expert witness, George Korbel,
+
+claims that he was surprised by the conclusions in Rives’s August
+
+Report.       In   response,   Korbel    scrambled     the   week   before   the
+
+September trial date to conduct a door-to-door survey of the
+
+residents in a small area to the south of the demonstration
+
+district.      He thought he could find there a high proportion of
+
+Hispanic      residents   that   could      increase    their   demonstration
+
+district’s population without diluting its Hispanic majority.                 At
+
+4:21   P.M.   on Friday, September 12, the Plaintiffs faxed to the
+
+School District’s counsel a letter disclosing the existence of this
+
+
+
+                                        5
+new survey.      At 4:13 P.M. on Saturday, September 13, the Plaintiffs
+
+faxed the data from the survey.
+
+               On the Monday morning set for trial, September 15, the
+
+School District filed a motion to strike the survey on grounds of
+
+unfair surprise.           The Plaintiffs’ lawyer told the district court
+
+that their case in chief would rest entirely on 1990 census data,
+
+but that if Rives testified for the School District that more
+
+current data changed the Hispanic majority, then the Plaintiffs
+
+might use the recent survey as rebuttal testimony.                   The district
+
+court postponed until rebuttal any ruling on the motion to strike
+
+and granted a motion in limine to prevent mention of the survey
+
+during    the    case      in   chief   or   cross-examination.          During   the
+
+Plaintiffs’ rebuttal, the School District renewed its objections to
+
+the survey evidence, and the district court granted the motion to
+
+strike.    The Plaintiffs filed an offer of proof as to what their
+
+expert witness would have testified about the survey.
+
+               In its findings of fact and conclusions of law, the
+
+district court reiterated that Korbel’s survey constituted unfair
+
+surprise       and   was    excluded      under     Local   Rule   CV-16(e).       To
+
+accommodate the Plaintiffs’ objections to the lateness of Rives’s
+
+August Report, the district court decided to rely solely upon the
+
+April Report, which it found to be “thoroughly documented, [with]
+
+a high degree of accuracy,” and “clear, cogent, and convincing
+
+enough    to    override        the   presumptive    correctness    of    the   prior
+
+decennial census.”          Relying on Rives’s report, the district court
+
+found that the Plaintiffs had not proved a demonstration district
+
+                                             6
+with less than 10% population deviation that included more than 50%
+
+Hispanics among its voting-age citizens.
+
+           On appeal, the Plaintiffs present three arguments: that
+
+they were not required to meet a “bright line” test of 50% Hispanic
+
+voting-age citizens in their demonstration district; that the
+
+School District’s evidence did not adequately overcome the presumed
+
+accuracy of the 1990 census data; and that the district court
+
+abused its discretion in excluding Korbel’s proposed rebuttal
+
+testimony about the last-minute, door-to-door survey.
+
+                                     II.
+
+           This    court   reviews   district     court   “findings   on   the
+
+Gingles threshold requirements for clear error.”           League of United
+
+Latin Am. Citizens v. Roscoe Indep. Sch. Dist., 123 F.3d 843, 847
+
+(5th Cir. 1997).     See also Gingles, 478 U.S. at 77-79, 106 S. Ct.
+
+at 2780-81.       A district court’s refusal to allow an expert to
+
+testify as a rebuttal witness may be overturned only for abuse of
+
+discretion.   See Tramonte v. Fibreboard Corp., 947 F.2d 762, 764
+
+(5th Cir. 1991); Bradley v. United States, 866 F.2d 120, 124 (5th
+
+Cir. 1989).
+
+                                     III.
+
+           The Supreme Court has established a three-part threshold
+
+inquiry when a racial or ethnic minority group asserts that its
+
+distinctive votes have been submerged by the racial majority in a
+
+multimember legislative district.           The minority group must be able
+
+to   (1)   “demonstrate      that    it     is   sufficiently   large      and
+
+geographically compact to constitute a majority in a single-member
+
+                                      7
+district,” (2) “show that it is politically cohesive,” and (3)
+
+“demonstrate that the white majority votes sufficiently as a bloc
+
+to enable it -- in the absence of special circumstances ... --
+
+usually to defeat the minority’s preferred candidate.”           Gingles,
+
+478 U.S. at 50-51, 106 S.Ct. at 2766-67.
+
+            The Plaintiffs here argue that the district court erred
+
+in   applying   the   first   Gingles   factor   as   a    “bright   line”
+
+requirement.    The Plaintiffs advert to the general purpose of the
+
+Gingles factors, which is to provide a framework for showing that
+
+there could be “a single-member district in which they could elect
+
+candidates of their choice.”       This is intended to support the
+
+proposition that the Plaintiffs need only show generally their
+
+electoral potential. The Plaintiffs further argue that the Supreme
+
+Court has disavowed “mechanical[]” application of the Gingles
+
+factors.2    And they complain that the district court did not
+
+evaluate evidence of vote dilution under the totality of the
+
+circumstances test.
+
+            All of these complaints are baseless.         In reality, this
+
+court has interpreted the Gingles factors as a bright line test.
+
+Each factor must be proved before it is necessary to proceed to the
+
+
+     2
+       In Voinovich v. Quilter, the Supreme Court did say, “the
+Gingles factors cannot be applied mechanically and without regard
+to the nature of the claim.” 507 U.S. 146, 158, 113 S. Ct. 1149,
+1157 (1993). The Court did so, however, because it was adapting
+the Gingles test, which was designed for challenges to multimember
+districts, so that it could be used for challenges to the packing
+of minority voters into existing single-member districts. Because
+that changed context is not relevant to this case, which challenges
+a multimember district, plaintiffs have no need to invoke non-
+mechanical application of the Gingles factors.
+
+                                   8
+totality of the circumstances test. We have repeatedly disposed of
+
+vote dilution cases on the principle that “[f]ailure to establish
+
+any one of these threshold requirements is fatal.”   Campos v. City
+
+of Houston, 113 F.3d 544, 547 (5th Cir. 1997); accord Rangel v.
+
+Morales, 8 F.3d 242, 249 (5th Cir. 1993); Overton v. City of
+
+Austin, 871 F.2d 529, 538 (5th Cir. 1989).       See also Growe v.
+
+Emison, 507 U.S. 25, 40-41, 113 S. Ct. 1075, 1084 (1993) (“Unless
+
+[the three Gingles factors] are established, there neither has been
+
+a wrong nor can be a remedy.”).
+
+           Furthermore, contrary to the Plaintiffs’ suggestion, this
+
+court has required vote dilution claimants to prove that their
+
+minority group exceeds 50% of the relevant population in the
+
+demonstration district.    In Gingles, the Supreme Court required
+
+plaintiffs to demonstrate “a majority.”   478 U.S. at 50, 106 S. Ct.
+
+at 2766.   Both of the Fifth Circuit cases cited by the Plaintiffs
+
+assumed that 50% was the threshold for “majority” and simply
+
+addressed what evidence could be used to prove that the 50%
+
+threshold was met.   In Brewer v. Ham, the court acknowledged that
+
+a super-majority of black residents could be used to prove that
+
+blacks constituted a majority of voting-age residents.      See 876
+
+F.2d 448, 452 (5th Cir. 1989) (citing cases with raw super-
+
+majorities of 65.9%, 71.5%, and higher).      In Westwego II, this
+
+court repeated Brewer’s holding and expanded on it in a footnote.
+
+The footnote, much cited by the Plaintiffs, explained that those
+
+plaintiffs “unable to produce hard data” on voting-age population
+
+because of the way census data are collected and reported would be
+
+                                  9
+able to submit “other probative evidence” to prove voting-age
+
+population.    See Westwego Citizens for Better Gov’t v. City of
+
+Westwego, 906 F.2d 1042, 1045 n.3 (5th Cir. 1990).      In context,
+
+Westwego II’s statements did not alter what must be proved, only
+
+what can be used to prove it.   The Plaintiffs still must meet their
+
+burden of proving that Hispanics constitute more than 50% of the
+
+relevant population in their demonstration district.
+
+          Finally, this court has already determined what factors
+
+limit the relevant population in the district: voting-age and
+
+citizenship.   This was made clear in Campos v. City of Houston, 113
+
+F.3d 544, 548 (5th Cir. 1997) (courts “must consider the citizen
+
+voting-age population” in evaluating the first Gingles factor).
+
+See also Perez v. Pasadena Indep. Sch. Dist., 165 F.3d 368, 372
+
+(5th Cir. 1999).    Given that the Supreme Court has avoided the
+
+issue of what population to use for the first Gingles factor,3 and
+
+that other circuits have used the same approach as Campos,4 the
+
+district court used the correct legal test here.
+
+
+
+
+     3
+       See Johnson v. De Grandy, 512 U.S. 997, 1008-09, 114 S. Ct.
+2647, 2656-57 (1994); Growe v. Emison, 507 U.S. 25, 38 n.4, 113 S.
+Ct. 1075, 1083 n.4 (1993).
+     4
+       See Negron v. City of Miami Beach, 113 F.3d 1563 (11th Cir.
+1997) (using citizen voting-age population for first Gingles
+factor); Romero v. City of Pomona, 883 F.2d 1418 (9th Cir. 1989)
+(same), overruled in part on other grounds by Townshend v. Holman
+Consulting Corp., 914 F.2d 1136, 1141 (9th Cir. 1990). Cf. Barnett
+v. City of Chicago, 141 F.3d 699, 704 (7th Cir. 1998) (Posner,
+C.J.)   (using   citizen   voting-age   population   to  determine
+proportionality for Section 2 challenge to gerrymandering of
+single-member districts), cert. denied sub nom. Bialczak v.
+Barnett, 118 S. Ct. 2372 (1998).
+
+                                 10
+                                     IV.
+
+          In this case, evaluating the district court’s application
+
+of that test involves two questions: whether the School Board’s
+
+evidence was adequate to counter the Plaintiffs’ census data, and
+
+whether the district court abused its discretion in excluding the
+
+Plaintiffs’ proposed rebuttal evidence.
+
+
+
+
+                                     A.
+
+          Except for a cavil, the parties and the district court
+
+essentially   agree   about   what   standard   should   be   required   to
+
+overcome census data.5    As the district court summarized it:
+
+     [C]ensus figures are presumed accurate until proven
+     otherwise. Proof of changed figures must be thoroughly
+     documented, have a high degree of accuracy, and be clear,
+
+     5
+       The cavil is that Plaintiffs attempt to articulate a two-
+step test: “The decennial census is controlling unless there exists
+‘clear, cogent and convincing evidence’ that the decennial figures
+are no longer valid and that other figures are valid.” For this
+proposition, however, they cite only Garza v. County of Los
+Angeles, 756 F. Supp. 1298, 1345 (C.D. Cal. 1990). In fact, the
+Garza court specifically rejected the notion of a two-step test:
+          17. In order to overcome the presumption in favor of
+     the 1980 census data, plaintiffs need not demonstrate
+     that the census was inaccurate.
+          18. It is sufficient to conclude that there has been
+     significant demographic changes [sic] since the decennial
+     census and that there exist[] post-decennial population
+     data that more accurately reflect[] evidence of the
+     current demographic conditions.
+Id.
+
+                                     11
+     cogent and convincing to override the                presumptive
+     correctness of the prior decennial census.
+
+This standard appears to be an elaboration on one used by the
+
+Seventh Circuit.       See McNeil v. Springfield Park Dist., 851 F.2d
+
+937, 946 (7th Cir. 1988).        Two Fifth Circuit cases are relevant.6
+
+The first is Westwego II, which, as mentioned above, opened the
+
+door to the use of non-census data when census data are not
+
+sufficiently     probative    of    the    voting-age    proportion      of   a
+
+population.    See Westwego, 906 F.2d at 1045 n. 3.           The second is
+
+Perez, in which this court affirmed a district court’s decision
+
+that the plaintiffs’ population projections were too unreliable to
+
+overcome 1990 census data.         See Perez, 165 F.3d at 373.     Based on
+
+Westwego and Perez, the district court properly acknowledged the
+
+persuasiveness    of    census   data     while   admitting   evidence    that
+
+demonstrated its inaccuracy in this case.             Because the district
+
+court found that the School Board’s 1997 population data overcame
+
+the 1990 census figures, the question is whether that finding was
+
+clearly erroneous.
+
+
+
+
+     6
+       The only Supreme Court authority on this matter is indirect.
+See Karcher v. Daggett, 462 U.S. 725, 732 n.4, 103 S. Ct. 2653,
+2659 n.4 (1983) (in reapportionment, a state cannot “correct”
+census figures “in a haphazard, inconsistent, or conjectural
+manner”); Kirkpatrick v. Preisler, 394 U.S. 526, 535, 89 S. Ct.
+1225, 1231 (1969) (a state can consider post-census population
+shifts in redistricting if its findings are “thoroughly documented
+and applied throughout the state in a systematic, not an ad hoc,
+manner”). The Ninth Circuit refused to apply the Seventh Circuit’s
+“high standard” of “clear and convincing” evidence “in a case where
+intentional discrimination has been proved, and the data is merely
+to be used in fashioning a remedy.”       Garza v. County of Los
+Angeles, 918 F.2d 763, 773 n. 3 (9th Cir. 1990).
+
+                                      12
+           The    Plaintiffs   present      a   laundry   list   of   purported
+
+problems concerning the methodology of Rives, the School Board’s
+
+demographics expert.      The School Board’s responses as well as
+
+Rives’s   cross-examination     at    trial     suffice   to   show   that   the
+
+Plaintiffs’ challenges are generally misdirected, exaggerations of
+
+hypothetical problems, based upon criticisms of assumptions that
+
+played no role in Rives’s methodology, or based on the analysis in
+
+Rives’s superseded 1995 reports.            The Plaintiffs’ most emphatic
+
+argument -- that Rives himself admitted his April Report was
+
+“wrong” -- is overstated, because Rives did so only in the context
+
+of explaining how the August Report was based on more current data
+
+and corrected a calculation error.              Rives’s admissions did not
+
+affect the underlying finding of both the April and August Reports:
+
+the Plaintiffs’ demonstration district did not contain a majority
+
+of Hispanic voting-age citizens.
+
+           The general description of Rives’s methodology given
+
+above reveals that the Gingles I issues in this case do not involve
+
+any complicated statistical formulae or tests of significance that
+
+might bedazzle or bamboozle an unwary district court.             Cf. Overton
+
+v. City of Austin, 871 F.2d 529, 544-45 (5th Cir. 1989) (Jones, J.,
+
+concurring)      (discussing   some        district   courts’     ill-founded
+
+assumptions about the levels at which correlation coefficients
+
+become statistically significant).           The data here were relatively
+
+simple; their manipulation involved only rudimentary arithmetic.
+
+           Under these circumstances, the district court did not
+
+clearly err in deciding that Rives’s report demonstrated sufficient
+
+                                      13
+post-census demographic changes to erode the Hispanic majority in
+
+the Plaintiffs’ demonstration district.                    In doing so, we take
+
+special note of the School Board’s responses to the Plaintiffs’
+
+three weightiest methodological criticisms, each of which the
+
+district court could have credited without committing clear error:
+
+(1)    the    housing     stock    methodology      can     be   appropriate     for
+
+calculating      population       changes    in    small    areas,   (2)    it    was
+
+appropriate to account for some apartment complexes by projecting
+
+their imminent populations at the end of ongoing lease-up periods,
+
+and (3) despite some lapses, the municipal power company’s records
+
+of    new    electrical   hook-ups     were   an    accurate     gauge     of   newly
+
+developed housing in the entire school district.                     Further, the
+
+School Board’s methodology was much more sophisticated than the
+
+crude straight-line population projection that was rejected in
+
+Perez.      See Perez v. Pasadena Indep. Sch. Dist., 958 F. Supp. 1196,
+
+1212-13 (S.D. Tex. 1997), aff’d, 165 F.3d at 373 (5th Cir. 1999).
+
+                                        B.
+
+              Even if the district court properly credited the School
+
+Board’s post-census demographic evidence, the Plaintiffs argue that
+
+it abused its discretion by excluding their proposed rebuttal
+
+evidence about post-census populations.
+
+              The district court excluded any evidence from Korbel’s
+
+last-minute survey “because it unfairly surprised the Defendants,”
+
+citing W.D. TEX. R. CV-16(e), under which the district court may,
+
+
+
+
+                                        14
+“upon the showing of good cause,” permit a party to supplement the
+
+written summary of an expert’s proposed testimony.7
+
+            On appeal, the Plaintiffs offer two reasons why their
+
+evidence was not an unfair surprise: (1) Korbel had testified in
+
+his deposition that Hispanic population was available south of the
+
+demonstration district; and (2) the survey was done in response to
+
+“new methodologies and numbers” in Rives’s August Report and was
+
+made available as soon as it was completed.
+
+            The Plaintiffs’ first reason fails to account for how
+
+modern discovery handles expert witnesses. The Local Rule required
+
+a “written summary of [Korbel’s] proposed testimony.”                It further
+
+required that summary to include “the basis of the opinions which
+
+purport    to   be   the   testimony    of   the   witness”    and   “specific
+
+references to any exhibits that will be used by the witness in
+
+support of any opinions.”        W.D. TEX. R. CV-16(e) & note.            It can
+
+scarcely   be   maintained    that     Korbel’s    cursory    reference    in   a
+
+deposition could serve as adequate notice of his intent to rely on
+
+a door-to-door survey of a specific neighborhood.              Nor could that
+
+deposition response have provided sufficient information for the
+
+School Board to prepare to cross-examine Korbel about the survey.
+
+Cf. Sierra Club v. Cedar Point Oil Co., 73 F.3d 546, 571 (5th Cir.
+
+
+
+     7
+       Alternatively, in a footnote, the district court noted that
+the methodology and execution of Korbel’s survey were too flawed
+for the results to overcome the presumptive correctness of the 1990
+census. Although it appears quite compelling, the School Board
+does not press this line of argument, and we need not pursue it
+since we hold that the evidence was properly excluded due to unfair
+surprise.
+
+                                       15
+1996) (initial expert disclosures not sufficiently “complete and
+
+detailed” to meet discovery order).
+
+               The Plaintiffs’ second reason takes no account of the
+
+fact that the district court relied only upon Rives’s April Report,
+
+the admissibility of which the Plaintiffs never contested.                     If the
+
+survey was made necessary only by the novelty of the August Report,
+
+then       apparently      it   could   not    have      been    detrimental   to    the
+
+Plaintiffs to exclude both.
+
+               In   sum,    the   court   did      not   abuse    its   discretion    by
+
+excluding this evidence for unfair surprise when the proffering
+
+party failed to meet its duty to supplement its expert disclosures.
+
+See Alldread v City of Grenada, 988 F.2d 1425, 1436 (5th Cir. 1993)
+
+(no error in excluding expert witness’ testimony when information
+
+crucial to understanding it was not provided until two weeks prior
+
+to trial); Mills v. Beech Aircraft Corp., 886 F.2d 758, 764 (5th
+
+Cir. 1989) (proper use of discretion to exclude results from tests
+
+conducted by plaintiffs’ expert the week before trial).8
+
+
+       8
+       The survey evidence was also unnecessary once the district
+court excluded the District’s August Report. This satisfies the
+first factor of a four-factor test that has sometimes been applied
+in evaluating a district court’s exercise of discretion: “(1) the
+importance of the witness’s testimony; (2) the prejudice to the
+opposing party of allowing the witness to testify; (3) the
+possibility of curing such prejudice by granting a continuance; and
+(4) the explanation, if any, for the party’s failure to identify
+the witness.” Bradley v. United States, 866 F.2d 120, 125 (5th
+Cir. 1989). See also Sierra Club, 73 F.3d at 572 (using same four
+factors in evaluating exclusion of evidence as sanction for
+violating discovery order). The Plaintiffs would also appear to
+fare quite poorly on the fourth factor, since it was obvious from
+the beginning that the School District would present evidence of
+1997 population. Neither party addresses the four-factor test on
+appeal, though the School District discussed it in its original
+
+                                              16
+            Because it was not an abuse of discretion to exclude the
+
+survey results on the grounds of unfair surprise, we need not
+
+address whether Korbel’s survey would have constituted proper
+
+rebuttal testimony.
+
+                                       V.
+
+            For the foregoing reasons, the district court properly
+
+placed   the    burden   on   the   Plaintiffs   to   prove   a    majority   of
+
+Hispanics      among   voting-age     citizens   in   their       demonstration
+
+district; the district court did not clearly err in finding the
+
+School Board presented sufficient evidence to prove demographic
+
+changes since the census; and the district court did not abuse its
+
+discretion in excluding the Plaintiffs’ proposed rebuttal testimony
+
+for unfair surprise.
+
+            The judgment of the district court is AFFIRMED.
+
+
+
+
+motion to strike.
+
+                                       17
+

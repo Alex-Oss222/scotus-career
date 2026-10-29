@@ -1,0 +1,27 @@
+# Acker — assembly readiness and fixed-core conflict
+
+**Status: STOPPED pending exact Stone remedy revalidation.** No assignment, count, vote change or Canonical Decision Record is finalized. The controller confirmed that Engine §4 requires revalidation because no approved conditional branch squarely covers the corrected separate Compensation Clause posture. General supported-choice delegation and the standing fallback cannot replace the express collection direction. Other authorized events proceed; this stopped matter supplies no counted lead or entering law.
+
+## Frozen supported structure
+
+One signed lead opinion is appropriate for the argued merits disposition and its distinct jurisdictional, statutory and remedial questions. Form is fixed before any author count. Part I will cover the office nexus and colorable federal defense under the event-effective §1442(a)(3); Part II will cover §1341 in the collector-initiated defensive posture; Part III will cover the compensation-tax characterization under §111; Part IV will cover permission and election to reach the renewed alternative discrimination defense, its rejection on this record, and the bounded remand. Part divisions reflect actual independent propositions and join barriers.
+
+Frozen reconciled Associate support: Part I Stevens, O’Connor, Kennedy, Ginsburg, Breyer. Scalia, Souter and Thomas oppose removal but accept its resolution as the predicate for joining independent Parts II–IV. Part II all eight Associates. Parts III–IV Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg. O’Connor and Breyer would affirm because the ordinance’s cumulative operation taxes performance of judicial duties, outside §111’s consent; they need not decide the discrimination defense.
+
+Two substantive separate opinions are warranted: the removal/nexus objection by Scalia with Souter and Thomas, and the direct-function characterization objection by Breyer with O’Connor. Those proposed authors are based on their respective supported substantive grounds and carry no counted lead assignment. Exact final author and join decisions remain for completed assembly. No historical lead authorship is imported.
+
+## Approved Stone core and exact outstanding discrepancy
+
+The case section mechanically extracted from `OT_1998CHUNK10_APPROVED_STONE.md` supplies removal, collector-action §1341 nonbar, compensation-tax characterization, no federal-source discrimination or operational obstruction, reversal and remand. It preserves office-nexus/colorability requirements, rejects automatic removal for every employee, and excludes discriminatory taxation or local permission to exercise federal office. Those grounds fit Parts I–III and the substantive discrimination rule.
+
+Its fixed remedy expressly states: “The federal court shall calculate and enforce the nondiscriminatory tax, subject to any remaining calculation or procedural defenses.” It also states: “The judges receive no constitutional exemption from the levy.” The final frozen reconciliation expressly leaves proper treatment of the distinct, unreviewed Compensation Clause ground to the lower court and forbids unconditional collection. The clean source record establishes that the district court accepted that ground, the en banc court did not reach it, and it is not before the Supreme Court. The source thus cannot be treated as an unpresented defense invented during assembly.
+
+It is not yet determined whether the approved collection instruction permits the Court’s bounded remand. A standing fallback for silence cannot narrow an express remedial instruction; neither omission of the Compensation Clause label nor general delegation among supported choices authorizes overriding fixed core. The discrepancy was sent to the controller before a final Stone join or assignment. No constitutional merits conclusion or new public Stone ground has been invented.
+
+## Chronology and author assignment dependencies
+
+All June21 matters share actual pre-June21 law. All actual earlier June17/18 public decisions have now been screened. Strickler supplies distinct suppression/default/materiality rules, Valdespino a defined §2 capacity change, and Dallas distinct constitutional employment standards; none changes Acker’s tax/forum/preservation premise or cures the fixed-remedy conflict; same-date Acker/Jones/Martin/Dyson outcomes enter only subsequent dates’ law. Assignment counts nevertheless run in alphabetical June21 order. Acker’s required from-zero recount must await authorization to proceed and use all actually preceding Records completed by that time; it may not count this stopped draft or reopen another completed assignment. The all-proposition eligible author set cannot be finalized before the fixed-remedy issue is resolved; the certain Associates eligible to carry Parts I–IV as currently formulated are Stevens, Kennedy and Ginsburg. Stone’s eligibility cannot come from fallback. No old tally has been used.
+
+## Source and verification limits
+
+Read: AGENTS assembly/Record/voice requirements; Engine §§4,8–11,15; Render Contract; frozen final Acker reconciliation; clean B Acker neutral; preservation neutral addendum and source-pinpoint correction; mechanically bounded approved Acker section only. No unready case’s Stone material was exposed. No Git, forbidden tree, raw prior Record, count claim or current-state mutation was used. Internal draft only; not a completed adjudication or entering law.

@@ -1,0 +1,2477 @@
+FEB 25 1999 
+
+
+No. 98-238 , i 
+: CLERK 
+Jn the Supreme Court of the Ubited- States — 
+
+
+OCTOBER TERM, 1998 
+
+
+ToGo D. WEST, JR., SECRETARY, 
+DEPARTMENT OF VETERANS AFFAIRS, PETITIONER 
+
+
+v. 
+
+
+MICHAEL GIBSON 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SEVENTH CIRCUIT 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+DAVID W. OGDEN 
+Acting Assistant Attorney 
+General 
+BARBARA D. UNDERWOOD 
+Deputy Solicitor General 
+BARBARA MCDOWELL 
+Assistant to the Solicitor 
+General 
+MARLEIGH D. DOVER 
+STEVEN I. FRANK 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether the Equal Employment Opportunity Com- 
+mission has the authority to award compensatory 
+damages against agencies of the federal government for 
+employment discrimination in violation of Title VII of 
+the Civil Rights Act of 1964, 42 U.S.C. 2000e et seq. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+| SESE EES Ee Se Se aR Ee SON 1 
+
+IE dtidideoneciinssinteniictnaliincstienienasnasdiiietcidiamadan 1 
+
+ee: PFOVISIONS INVO]VE ..........ccccccccrsrceereeeeneeeereees 2 
+
+LE ea eT eee 2 
+
+a SEEN ‘crclenienndinnidiecntstinieisgtintuitdtaibcitadenti i) 
+Argument: 
+
+
+The EEOC has the authority to award compensa- 
+tory damages against agencies of the federal gov- 
+ernment on claims of employment discrimination 
+GD CRGRIUEED GE UND WED cccnasttcrnttscnsiccniesbeassececescscoece 13 
+A. The EEOC’s statutory authority to enforce 
+Title VII in the federal workplace 
+“through appropriate remedies” includes the 
+authority to award compensatory damages .... 13 
+B. The court of appeals’ reasons for concluding 
+that the EEOC has no authority to award com- 
+
+
+pensatory damages in administrative pro- 
+
+
+ceedings are UNPersUAaSIVE ...............c000-eeeeeeeee 25 
+SD sacsehstlnteindititiealAttaciiivedeincdinniccniaceeisesstesmenees 35 
+TABLE OF AUTHORITIES 
+
+Cases: 
+Alexander v. Gardner-Denver Co., 415 U.S. 36 
+SED sicchiebeletncininarthiccbgiiniesiieninuastinsensédtiimidesiotaseeceases 3 
+Bragdon v. Abbott, 118 S. Ct. 2196 (1998) .............. 27 
+Brown v. General Servs. Admin., 425 U.S. 820 
+CRITE ccithitchitstbisiserinctliipidhttpithistthiigieiocbcenece 2,3, 4, 14 
+Chevron U.S.A. Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837 (1984) ............ccccceeeeeeees 14 
+Crawford v. Babbitt, 148 F.3d 1318 (11th Cir. 
+1998), petition for cert. pending, No. 98-1332 ......... 18 
+Department of the Army v. Blue Fox, Inc., 
+RS Re AE 33 
+
+
+(IIT) 
+
+
+IV 
+Cases—Continued: Page 
+Fitzgerald v. Secretary, United States Dep't of 
+Veterans Affairs, 121 F.3d 203 (5th Cir. 1997) ...... 8, 14, 
+16, 19, 27 
+Jackson v. United States Postal Serv. EEOC 
+
+Appeal No. 01923399 (Nov. 12, 1992) ....... 5, 6, 16, 19, 26 
+Jordan v. United States, 522 F.2d 1128 (8th Cir. 
+
+SOTED acccsenpscenaneplitsiinteniianienein taminietinillea dik dints i lealihaciass 18 
+Larochelle v. Dalton, EEOC Appeal No. 01934530, 
+
+1993 WL 762933 (Dec. 21, 1998) .......cccccccccccceeeeeceeee 6 
+Lehman v. Nakshian, 453 U.S. 156 (1981) ............. 9, 33 
+McCarthy v. Madigan, 503 U.S. 140 (1992) ............ 7 
+McCormick v. United States Postal Serv... EEOC 
+
+Appeal No. 01954168, 1996 WL 562668 (Sept. 25, 
+
+SEED <cccsnscemsevtctinbuieniniaatiapaibhega ied ee 5 
+McKart v. United States, 395 U.S. 185 (1969) . 17, 18, 19 
+Morton v. Ruiz, 415 U.S. 199 (1974) ......ccccccecceseee 14 
+New York Gaslight Club v. Carey, 447 U.S. 54 
+
+CODED ccovscscmannssenpiasantedanbidieabapaaataltd ciate catia 19 
+Price vy. United States Postal Serv., EEOC Appeal 
+
+No. 01945860, 1996 WL 600763 (Oct. 11, 1996) ......... 5, 6 
+Skidmore v. Swift & Co., 323 U.S. 134 (1944) ........ 27 
+Taunton v. Brown, EEOC Appeal No. 01943687, 
+
+1995 WL 481019 (Aug. 9, 1995) ........cccccccccececeececeeee 6 
+Tolbert v. United States, 916 F.2d 245 (5th Cir. 
+
+SEDED . ncrciennncennsnservnnnniinnetantitshilibiedesiatesiide tia tia 18 
+Turner v. Babbitt, EEOC Appeal No. 1956390, 1998 
+
+WL 223578 (Apr. 27, 1998) .........c.scsesescsecceececeeseeees 20 
+
+Statutes and regulations: 
+Civil Rights Act of 1964, Tit. VII, 42 U.S.C. 2000 
+CS BOG, dcnacsevincgtsittitindenmbtbenutidddlnineaitmbenibausttade: passim 
+Ke a ETN a 5 
+§ 706(g), 42 U.S.C, 2000€-5(g) ......cccccccccsseeceeeceeee 22 
+§ 706(g)(1), 42 U.S.C. 2000€-5(g)(1) ...ccccccccceceeeee 5 
+§ 706(k), 42 U.S.C. 2000€-5(k) ......ccccccccceecececeeeees 22 
+§ 717, 42 U.S.C. 20000-16 .....0.0000000.. 5, 11, 24, 25, 26, 27 
+
+
+Vv 
+Statutes and regulations—Continued: Page 
+§ 717(a), 42 U.S.C. 2000e-16(a) (Supp. II 1996) .... 3 
+§ 717(b), 42 U.S.C. 2000e-16(b) ................ 3, 10, 14, 15, 
+16, 24, 27, 29, 34 
+§ 717(c), 42 U.S.C. 2000e-16(c) ....... 3, 10, 17, 18, 25, 28 
+Civil Rights Act of 1991, Pub. L. No. 102-166, 105 
+I ta itsesi atlas, cindicininneiindibabnbteiat 2S passim 
+Tit. I: 
+
+§ 102, 105 Stat. 1072 (42 U.S.C. 1981a) ........... 5, 15 
+8: | Se eee passim 
+ec 5 
+| Eee 22 
+Oe I electra emsentdiniemscmttinnces 30-31 
+42 U.S.C. 198la(c)(1) .................. 8, 12, 28, 29, 33 
+les eg SE SER 25-26 
+
+Tit. III (Government Employee Rights Act) ......... 21 
+$§ 301-325, 105 Stat. 1088-1099 0000. eeeee 21 
+Lo. 5... ¢ SES 22 
+kf EC Sree eee ae 21 
+I I 22 
+$§ 308-309, 105 Stat. 1092-1094 0000.0 ceceecceeeee 22 
+
+
+Congressional Accountability Act of 1995, Pub. L. 
+No. 104-1, Tit. I, $§ 101-102, 109 Stat. 4-6 (2 U.S.C. 
+1301 et seg. (Supp. I] 1996))..............ccccccceeecceeeee 23, 29, 
+3 SC SSE Sues 
+a ERE Ny te se 23, 
+
+
+IN Sidldainhiecienititeietcnlsncmeepssmentisoessiiiet 
+RS SR AS Ee te 
+ee ERE RET ae 
+GE SORE SE eeenaEL Smee 
+Equal Employment Opportunity Act of 1972, Pub. 
+L. No. 92-261, § 11, 86 Stat. 111 (42 U.S.C. 2000e- 
+16(a) (1994 & Supp. I] 1996)) ..........cccccccccseeeeeeeeeeeee 2 
+
+
+od 
+
+23 
+
+29 
+
+. 23 
+
+BD ee ND iki cliiccncdinbensctapisncniodnnnesianiiteneins 23 
+23 
+
+23 
+
+23 
+
+29 
+
+
+& 
+
+
+Statutes and regulations—Continued: 
+
+
+Workforce Investment Act of 1998, Pub. L. No. 
+105-220, § 341(a), 112 Stat. 1092 ...............cccceceeeeeenes 
+
+29 C.F.R. (1998): 
+pk | aa 
+8 EE Seas saan 
+Section 1616-1lOG(G)(2) ...........ccccccccrccccercceseresecesereses 
+ete ID ccccscnstcncecededtuesdadatinenienninateiaiiadadin 
+Boctiam IGE4.DGWE) ....0ccccccccecccsscercccenveseressnsnessosecases 
+Dee, BERD ccccssccntsccnctecteessetmeengeuniatenanetitine 
+aia BEEBE criccctescnccsntcitdliinliinatsienttatiacsaditine 
+ND) ee a ee 
+
+
+Miscellaneous: 
+
+
+Civil Rights Act of 1991: Hearings on H.R. 1 Before 
+the Subcomm. on Civil and Constitutional Rights of 
+the House Comm. on the Judiciary, 102d Cong., lst 
+Boas. (IGG) ...ccccescccsccocscscevecccsecsastbonsssesononnasisccssonnets 
+
+137 Cong. Rec. (1991): 
+
+BD. BBBEB .cccceccccccrccccsceccnscnsnovescessesessossseseneess demantmntan 
+
+
+PD. BOGBO ......cccrcrecccsccncccsccrscccecersccossorsesorsooossnsossassoss 
+141 Cong. Rec. 659 (1995) ............ccseeeeeneeeneneeeenenenenes 
+
+
+Office of Fed. Operations, EEOC, Federal Sector 
+Report on Complaints Processing and Appeals by 
+Federal Agencies for Fiscal Year 1997 (1998).......... 
+
+
+~~ & & 
+
+
+ww 
+_ 
+
+
+Miscellaneous—Continued: Page 
+Theodore Eisenberg, Litigation Models and Trial 
+Outcomes in Civil Rights and Prisoners Cases, 
+Be ee I EE thieteirtittncmcittiematsehtamssinnictanese 31-32 
+43 Fed. Reg. 19,807 (1978) .........0...ccccceescersseescrsereers _ 8 
+
+
+Donna M. Gitter, French Criminalization of Racial 
+Employment Discrimination Compared to the Im- 
+position of Civil Penalties in the United States, 
+15 Comp. Lab. L. J. 488 (1994) ............csccceessseeeesseees 32 
+2 Hearings on H.R. 4000, The Civil Rights Act of 1990: 
+Joint Hearings Before the House Comm. on Educa- 
+tion and Labor and the Subcomm. on Civil and 
+Constitutional Rights of the House Comm. on the 
+
+
+Judiciary, 101st Cong., 2d Sess. (1990) ...............00.. 31, 32 
+H.R. Rep. No. 40, 102d Cong., Ist Sess. (1991): 
+
+Sts Bh apcinsaiecipcieilessidblesndeabiesdettalinesdaennsntrisiieseemacevecaves 16 
+
+iFGs 2 . pudintsichpabaietinhissiatsabtbaneibdstniiphadeiatininnensseeseennqeces 30 
+
+
+Mary Kathryn Lynch, The Equal Employment 
+
+Opportunity Commission: Comments on the Agency 
+
+and Its Role in Employment Discrimination Law, 
+
+20 Ga. J. Int’l & Comp. L. 89 (1990) .................00- 32-33 
+Sharlene A. McEvoy, The Umpire Strikes Out: 
+
+Postema v. National League: Major League Gender 
+
+Discrimination, 11 U. Miami Ent. & Sports L. Rev. 
+
+DS GRRE lecedesecedicciserataibtcetasachtibednagid stidbioensnancectcese 32 
+John J. Ross, The Employment-Law Year in Review 
+
+(1991-1992), 441 PLI Litig. & Admin. Practice 
+
+Course Handbook Series (1992) ..............ccccccceeeeeees 32 
+S. Rep. No. 415, 92d Cong., Ist Sess. (1971) ............... 15, 17 
+Statement of President George Bush Upon Signing 
+
+S. 1745, 27 Weekly Comp. Pres. Doc. 1701 (Nov. 25, 
+
+SEES edidencnpudeierniatanndrepetenaidatinaetnahibtnianasecresinessces 31 
+Rachel H. Yarkon, Bargaining in the Shadow of the 
+
+Lawyers: Negotiated Settlement of Gender Dis- 
+
+crimination Claims Arising from Termination of 
+
+Employment, 2 Harv. Negotiation L. Rev. 165 
+
+ND chavvidigentalinnibadidenindiatitenlincicswiietintesinidenmennees 32 
+
+
+In the Supreme Court of the Anited States 
+OCTOBER TERM, 1998 
+
+
+No. 98-238 
+
+
+ToGo D. WEST, JR., SECRETARY, 
+DEPARTMENT OF VETERANS AFFAIRS, PETITIONER 
+
+
+v. 
+
+
+MICHAEL GIBSON 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SEVENTH CIRCUIT 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. la-14a) 
+is reported at 137 F.3d 992. The opinion of the district 
+court (Pet. App. 15a-28a) is unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+March 3, 1998. A petition for rehearing was denied on 
+May 7, 1998 (Pet. App. 29a). A petition for a writ of 
+certiorari was filed on August 5, 1998, and was granted 
+on January 15, 1999. The jurisdiction of this Court is 
+invoked under 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+Z 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+The relevant provisions of Title 42 of the United 
+States Code are set forth in the appendix to the peti- 
+tion. 
+
+
+STATEMENT 
+
+
+This case concerns whether compensatory damages 
+are among the administrative remedies available to 
+federal employees, or applicants for federal employ- 
+ment, who assert claims against federal agencies for 
+employment discrimination in violation of Title VII of 
+the Civil Rights Act of 1964, 42 U.S.C. 2000e et seq. 
+
+1. In 1972, Congress extended Title VII’s prohibi- 
+tion against employment discrimination on the basis of 
+“race, color, religion, sex, or national origin” to the fed- 
+eral government. Equal Employment Opportunity Act 
+of 1972, Pub. L. No. 92-261, § 11, 86 Stat. 111 (codified 
+at 42 U.S.C. 2000e-16(a) (1994 & Supp. II 1996)); see 
+Brown v. General Servs. Admin., 425 U.S. 820, 825 
+(1976) (“Until it was amended in 1972 * * * , Title VII 
+did not protect federal employees.”). But Title VII was 
+not to apply to the federal government in precisely the 
+same manner that it applied to other employers. Con- 
+gress crafted a distinct set of “administrative and judi- 
+cial enforcement mechanisms,” Brown, 425 U.S. at 831, 
+for claims of employment discrimination asserted by 
+federal employees and applicants for federal employ- 
+ment.’ 
+
+
+! Section 2000(e)-16(a) extends the protections of Title VII to 
+civilian employees or applicants for employment in executive 
+agencies, military departments, the Postal Service, the Postal Rate 
+Commission, the Government Printing Office, the General Accoun- 
+ting Office, the Library of Congress, the Smithsonian Institution, 
+and those units of the judicial branch of the federal government 
+and of the District of Columbia government having positions in the 
+
+
+3 
+
+
+Congress delegated initially to the Civil Service 
+Commission, and later to the Equal Employment Op- 
+portunity Commission (EEOC),’ the authority to “en- 
+force” Title VII against the federal government 
+“through appropriate remedies, including reinstate- 
+ment or hiring of employees with or without back pay.” 
+42 U.S.C. 2000e-16(b). At the same time, Congress 
+imposed “certain preconditions,” Brown, 425 U.S. at 
+832, on a federal employee’s ability to file a civil action 
+in federal district court with respect to a claim of 
+employment discrimination. See 42 U.S.C. 2000e-16(c). 
+Those prerequisites are designed to provide an op- 
+portunity for the resolution of an employment- 
+discrimination claim in an administrative process, 
+including “through conference, conciliation, and 
+persuasion|[,] before the aggrieved party [is] permitted 
+to file a lawsuit.” Alexander vy. Gardner-Denver Co.., 
+415 U.S. 36, 44 (1974). 
+
+The federal employee first “must seek relief in the 
+agency that has allegedly discriminated against him.” 
+Brown, 425 U.S. at 832. If the employee is dissatisfied 
+with the agency’s disposition of his claim, he may “seek 
+further administrative review with the [EEOC)” or, 
+alternatively, may “file suit in federal district court 
+without appealing to the [EEOC].” Jbid. If the em- 
+ployee does appeal to the EEOC, but is dissatisfied 
+with the EEOC’s decision, he then may file suit in 
+district court. /bid. An employee also “may file a civil 
+
+
+competitive service. 42 U.S.C, 2000e-16(a) (Supp. II 1996); Pub. L. 
+No. 105-220, § 341(a), 112 Stat. 1092. 
+
+* All responsibility for enforcing equal opportunity in federal 
+employment was transferred to the EEOC from the Civil Service 
+Commission in Reorganization Plan No. 1 of 1978, § 3, 43 Fed. Reg. 
+19,807 (1978). See 42 U.S.C. 2000e-4 note (1994). 
+
+
+2 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+The relevant provisions of Title 42 of the United 
+States Code are set forth in the appendix to the peti- 
+tion. 
+
+
+STATEMENT 
+
+
+This case concerns whether compensatory damages 
+are among the administrative remedies available to 
+federal employees, or applicants for federal employ- 
+ment, who assert claims against federal agencies for 
+employment discrimination in violation of Title VII of 
+the Civil Rights Act of 1964, 42 U.S.C. 2000e et seq. 
+
+1. In 1972, Congress extended Title VII’s prohibi- 
+tion against employment discrimination on the basis of 
+“race, color, religion, sex, or national origin” to the fed- 
+eral government. Equal Employment Opportunity Act 
+of 1972, Pub. L. No. 92-261, § 11, 86 Stat. 111 (codified 
+at 42 U.S.C. 2000e-16(a) (1994 & Supp. II 1996)); see 
+Brown v. General Servs. Admin., 425 U.S. 820, 825 
+(1976) (“Until it was amended in 1972 * * * , Title VII 
+did not protect federal employees.”). But Title VII was 
+not to apply to the federal government in precisely the 
+same manner that it applied to other employers. Con- 
+gress crafted a distinct set of “administrative and judi- 
+cial enforcement mechanisms,” Brown, 425 U.S. at 831, 
+for claims of employment discrimination asserted by 
+federal employees and applicants for federal employ- 
+ment.’ 
+
+
+! Section 2000(e)-16(a) extends the prctections of Title VII to 
+civilian employees or applicants for employment in executive 
+agencies, military departments, the Postal Service, the Postal Rate 
+Commission, the Government Printing Office, the General Accoun- 
+ting Office, the Library of Congress, the Smithsonian Institution, 
+and those units of the judicial branch of the federal government 
+and of the District of Columbia government having positions in the 
+
+
+3 
+
+
+Congress delegated initially to the Civil Service 
+Commission, and later to the Equal Employment Op- 
+portunity Commission (EEOC),’ the authority to “en- 
+force” Title VII against the federal government 
+“through appropriate remedies, including reinstate- 
+ment or hiring of employees with or without back pay.” 
+42 U.S.C. 2000e-16(b). At the same time, Congress 
+imposed “certain preconditions,” Brown, 425 U.S. at 
+832, on a federal employee’s ability to file a civil action 
+in federal district court with respect to a claim of 
+employment discrimination. See 42 U.S.C. 2000e-16(c). 
+Those prerequisites are designed to provide an op- 
+portunity for the resolution of an employment- 
+discrimination claim in an administrative process, 
+including “through conference, conciliation, and 
+persuasion|,| before the aggrieved party [is] permitted 
+to file a lawsuit.” Alexander v. Gardner-Denver Co., 
+415 U.S. 36, 44 (1974). 
+
+The federal employee first “must seek relief in the 
+agency that has allegedly discriminated against him.” 
+Brown, 425 U.S. at 832. If the employee is dissatisfied 
+with the agency’s disposition of his claim, he may “seek 
+further administrative review with the [EEOC)” or, 
+alternatively, may “file suit in federal district court 
+without appealing to the [EEOC].” Jbid. If the em- 
+ployee does appeal to the EEOC, but is dissatisfied 
+with the EEOC’s decision, he then may file suit in 
+district court. /bid. An employee also “may file a civil 
+
+
+competitive service. 42 U.S.C. 2000e-16(a) (Supp. II 1996); Pub. L. 
+No. 105-220, § 341(a), 112 Stat. 1092. 
+
+* All responsibility for enforcing equal opportunity in federal 
+employment was transferred to the EEOC from the Civil Service 
+Commission in Reorganization Plan No. 1 of 1978, § 3, 43 Fed. Reg. 
+19,807 (1978). See 42 U.S.C. 2000e-4 note (1994). 
+
+
+4d 
+
+
+action if, after 180 days from the filing of the charge or 
+the appeal, the agency or [the EEOC] has not taken 
+final action.” Ibid. 
+
+The EEOC has promulgated regulations to govern 
+the administrative processing of claims of employment 
+discrimination against federal agencies. An aggrieved 
+employee first must notify an equal employment op- 
+portunity (EEO) counselor at his employing agency of 
+the allegedly discriminatory act. 29 C.F.R. 1614.105(a). 
+If the EEO counselor determines that the matter 
+cannot be resolved informally, the employee is advised 
+of his right to file a formal complaint with the agency. 
+29 C.F.R. 1614.105(d). The agency is required to con- 
+clude “a complete and fair investigation” of the com- 
+plaint within 180 days unless the parties agree to ex- 
+tend the period. 29 C.F.R. 1614.106(d)(2), 1614.108(e). 
+Once the agency has completed the investigation and 
+provided the employee with a copy of the investigative 
+file, the employee may request a hearing before an 
+EEOC administrative judge or an immediate final 
+decision from the agency. 29 C.F.R. 108(f). If the 
+employee requests a hearing, the administrative judge 
+is required to issue findings of fact and conclusions of 
+law, and to “order appropriate relief where discrimina- 
+tion is found,” within 180 days of the hearing request 
+unless good cause exists for extending that time. 29 
+C.F.R. 1614.109(g). Within 60 days after receiving the 
+administrative judge’s decision or the employee’s re- 
+quest for a final decision without a hearing, the agency 
+is required to issue a final decision, which “shall consist 
+of findings by the agency on the merits of each issue in 
+the complaint and, when discrimination is found, ap- 
+propriate remedies and relief.” 29 C.F.R. 1614.110. 
+
+2. In 1991, Congress authorized awards of compen- 
+satory damages in “action[s] brought by a complaining 
+
+
+5 
+
+
+party under section 706 or 717 of the Civil Rights Act of 
+1964.” Civil Rights Act of 1991, Pub. L. No. 102-166, 
+Title 1, § 102, 105 Stat. 1072 (codified at 42 U.S.C. 
+198la(a)(1)). Section 717, 42 U.S.C. 2000e-16, is the 
+provision of the Civil Rights Act of 1964 governing 
+Title VII claims against the federal government, while 
+Section 706, 42 U.S.C. 2000e-5, is the provision govern- 
+ing Title VII claims against other employers. Title VII 
+had previously authorized only back pay and equitable 
+remedies. See 42 U.S.C. 2000e-5(g)(1).” 
+
+Since 1992, the EEOC has taken the position that 
+“the Civil Rights Act of 1991 * * * makes compensa- 
+tory damages available to federal sector complainants 
+in the administrative process.” Jackson v. United 
+States Postal Serv., EEOC Appeal No. 01923399 (Nov. 
+12, 1992), slip op. 3... The EEOC has announced pro- 
+cedures to ensure that federal agencies include compen- 
+satory damages among the “appropriate remedies and 
+relief,” 29 C.F.R. 1614.110, awarded to their employees 
+who are found to be victims of discrimination. If an 
+employee indicates during the administrative process 
+that he has sustained damages as a consequence of the 
+alleged discrimination,’ the agency must request from 
+
+
+* The Civil Rights Act of 1991 also authorized awards of puni- 
+tive damages in Title VII actions against private employers, but 
+not in those against “a government, government agency or political 
+subdivision.” 42 U.S.C. 1981a(b)(1). 
+
+* See also Price v. United States Postal Serv., EEOC Appeal 
+No. 01945860, 1996 WL 600763, at *3 (Oct. 11, 1996); McCormick v. 
+United States Postal Serv., EEOC Appeal No. 01954168, 1996 WL 
+562668, at *2 (Sept. 25, 1996). 
+
+® The EEOC has made clear that “a complainant need not use 
+legal terms of art such as ‘compensatory damages,’ but may merely 
+use words or phrases to put the agency on notice that the relevant 
+
+
+6 
+
+
+the employee “objective evidence that he or she has 
+incurred compensatory damages, and that the damages 
+are related to the alleged unlawful discrimination.” 
+Jackson, slip op. 3. If the employee presents such 
+evidence, the agency must address the issue of compen- 
+satory damages in any decision finding liability. See, 
+e.g., Taunton v. Brown, EEOC Appeal No. 01943687, 
+1995 WL 481019, at *4-*5 (Aug. 9, 1995); Larochelle v. 
+Dalton, EEOC Appeal No. 01934530, 1993 WL 762933, 
+at *2-*3 (Dec. 21, 1993). 
+
+3. In 1992, respondent Michael Gibson, an account- 
+ant employed by the Department of Veterans Affairs 
+(VA), was denied a promotion. The position went to a 
+woman instead. Gibson filed a complaint with the VA, 
+alleging sex discrimination in violation of Title VII. He 
+sought back pay and a transfer to another VA hospital. 
+The VA issued a decision finding no discrimination. 
+Pet. App. 2a, 16a. 
+
+Gibson appealed the decision to the EEOC, which 
+found that the VA had discriminated against him. The 
+EEOC ordered the VA to promote Gibson with back 
+pay. Pet. App. 2a-3a, 16a-17a. 
+
+4. Gibson filed suit in federal district court to compel 
+the VA’s compliance with the EEOC’s order.’ He also 
+
+
+pecuniary or non-pecuniary loss has been incurred.” Price, 1996 
+WL 600763, at *3. 
+
+® The VA had not acted within the period prescribed by the 
+EEOC to promote Gibson and to calculate his back pay. The 
+EEOC had directed that Gibson be promoted by December 6, 1995, 
+but the VA did not actually promote him until December 23, 1995. 
+The EEOC had directed that Gibson’s back pay be calculated by 
+January 5, 1996, and that Gibson be paid by March 5, 1996; in fact, 
+the VA calculated Gibson’s back pay on January 29, 1996, and paid 
+him on February 22 and 24, 1996. Gibson filed this action in the 
+district court on January 11, 1996. Pet. App. 16a-17a. 
+
+
+7 
+
+
+sought compensatory damages—which he had not 
+sought at the administrative level—for alleged “hu- 
+miliation, mental anguish and emotional distress.” Pet. 
+App. 3a-4a, 21a. 
+
+The district court dismissed those claims. The court 
+determined that Gibson’s claims for promotion and back 
+pay were moot because the VA had by that time fully 
+complied with the EEOC’s order. Pet. App. 21-22a, 
+26a. The court rejected Gibson's claim for compensa- 
+tory damages on the ground that he had failed to 
+exhaust his administrative remedies by not presenting 
+that claim to the VA and the EEOC, /d. at 20a-24a.’ 
+
+5. The court of appeals reversed the dismissal of 
+Gibson’s claim for compensatory damages, reasoning 
+that federal employees need not exhaust administrative 
+remedies on such claims. Pet. App. 5a-l4a. The court 
+asserted that “exhaustion is not required if [an agency] 
+‘lack[s] authority to grant the type of relief requested.’” 
+Id. at 6a (quoting McCarthy v. Madigan, 503 U.S. 140, 
+148 (1992)). The court then concluded that the EEOC 
+does not have the authority under Title VII to award 
+compensatory damages against federal agencies. /d. at 
+9a-13a. 
+
+The court of appeals conceded that “(nothing in the 
+statute or regulations explicitly rules out” the EEOC’s 
+awarding compensatory damages to federal employees 
+
+
+’ The court also rejected Gibson's claims for front pay and a job 
+transfer. Pet. App. 24a-25a. The court reasoned that front pay is 
+unwarranted where, as here, the claimant receives the promotion 
+that he was previously denied. /bid. And the court concluded that 
+Gibson had “not even come close to establishing that he is entitled 
+to the extraordinary remedy of a job transfer.” /d. at 25a. The 
+court did conclude that Gibson was entitled to an award of 
+attorneys’ fees, because the VA had not fully complied with the 
+EEOC’s order by the time that the suit was filed. /d. at 26a-27a. 
+
+
+8 
+
+
+for violations of Title VII. Pet. App. 6a. The court also 
+acknowledged that “ijt is not unreasonable to con- 
+clude” that the EEOC’s statutory mandate to adjudi- 
+cate Title VII claims against federal agencies “might be 
+broad enough to allow the EEOC to award compensa- 
+tion for mental anguish and emotional distress.” /d. at 
+7a. And the court noted that the Fifth Circuit had 
+recently held that the EEOC had the authority to 
+award compensatory damages on Title VII claims 
+arising in the federal sector. /bid. (citing Fitzgerald v. 
+Secretary, United States Dep’t of Veterans Affairs, 121 
+F.3d 203, 207 (1997)). The court nonetheless held that 
+several factc*s compelled a contrary conclusion. 
+
+The court of appeals principally relied on 42 U.S.C. 
+198la(c)(1), which provides that “{i}f a complaining 
+party seeks compensatory * * * damages under this 
+section,” then “any party may demand a trial by jury.” 
+Pet. App. 9a-10a. A “trial by jury” cannot, of course, 
+occur in an administrative proceeding. The court 
+recognized that Section 1981la(c)(1) might be construed 
+to mean that “the EEOC has the right to issue com- 
+pensatory damages in the first instance, and the losing 
+party may seek de novo review of the damages by 
+demanding a jury trial” in district court. Jd. at 9a. But 
+the court rejected that construction. The court noted 
+that a federal agency is bound by the EEOC’s disposi- 
+tion of a Title VII complaint, although an employee is 
+not and may seek relief de novo in district court. Jd. at 
+Ya-10a. A federal agency thus could not demand a jury 
+trial to review an EEOC award of compensatory dam- 
+ages to an employee. The court consequently declined 
+to construe Title VII in a manner that would deprive 
+federal agencies of what the court characterized as the 
+“significant procedural right” to a jury trial on com- 
+pensatory damages claims. /d. at 10a. 
+
+
+9 
+
+
+The court of appeals found further support for its 
+position in the language of 42 U.S.C. 1981a(a)(1), which 
+provides for compensatory damages awards in “an 
+action brought by a complaining party” under, inter 
+alia, the statutory provision allowing Title VII claims 
+against the federal government. Pet. App. 10a. The 
+court declined to defer to the EEOC’s own construction 
+of Section 198la(a)(1) as encompassing administrative 
+as well as judicial proceedings. The court concluded 
+that Congress generally used the term “actions” in Title 
+VII to refer to “civil actions filed in federal court, not 
+complaints of discrimination lodged with the EEOC.” 
+Id. at lla. 
+
+Finally, the court of appeals invoked the principle 
+that any waiver of the federal government’s sovereign 
+immunity should be strictly construed. Pet. App. 12a 
+(citing Lehman v. Nakshian, 453 U.S. 156, 161 (1981)). 
+The court recognized that Congress has expressly 
+waived the government’s sovereign immunity with re- 
+spect to civil actions for compensatory damages under 
+Title VII. /d. at 1la-12a. But the court declined in the 
+absence of a clearer expression of congressional intent 
+“to extend the waiver of sovereign immunity so that 
+the government may be liable for compensatory dam- 
+ages without the benefit of a jury trial.” Jd. at 12a. 
+
+The court of appeals remanded Gibson’s compensa- 
+tory damages claim to the district court, “so that it may 
+be tried to a jury, which is what he has demanded in his 
+complaint and what the statute allows.” Pet. App. 14a. 
+
+
+SUMMARY OF ARGUMENT 
+The Equal Employment Opportunity Commission 
+(EEOC) possesses the authority to award compensa- 
+
+
+tory damages against agencies of the federal govern- 
+ment for violations of Title VII of the Civil Rights Act 
+
+
+10 
+
+
+of 1964. That conclusion is supported by the text of the 
+relevant statutory provisions, the legislative history, 
+and the congressional purpose to enable federal em- 
+ployees to obtain full relief at the administrative level 
+for violations of Title VII. 
+
+I. Congress has vested the EEOC with broad 
+authority to enforce Title VII in the federal workplace, 
+including the authority to provide all “appropriate 
+remedies” to federal employees who are victims of em- 
+ployment discrimination. 42 U.S.C. 2000e-16(b). And 
+Congress has made clear that the appropriate remedies 
+for violations of Title VII by federal agencies include 
+compensatory damages. 42 U.S.C. 198la(a)(1). The 
+EEOC itself has recognized since 1992 that compensa- 
+tory damages are available to federal employees in the 
+administrative process. 
+
+A contrary rule would be inconsistent with the 
+statutory requirement that federal employees exhaust 
+administrative remedies with respect to Title VII 
+claims, 42 U.S.C. 2000e-16(c), which was designed to 
+provide a mechanism to resolve such claims fully with- 
+out resort to the courts. A federal employee still would 
+have to pursue his Title VIL claim in the administrative 
+process in order to obtain an award of back pay and 
+equitable relief against his employing agency. But even 
+if the employee fully prevailed in the administrative 
+process, he would then have to go to court to obtain 
+compensatory damages. Such a rule would impose 
+burdens on federal employees, federal agencies, and the 
+federal courts that Congress could not have intended. 
+
+Congress has elsewhere evinced its understanding 
+that compensatory damages are among the remedies 
+that may appropriately be awarded in the administra- 
+tive process for violations of Title VII. In 1991 and 
+again in 1995, as part of comprehensive legislation 
+
+
+1] 
+
+
+extending the protections of Title VII to congressional 
+employees, Congress crafted an administrative enforce- 
+ment scheme, which was modeled on the existing 
+administrative enforcement scheme for employees of 
+the Executive Branch. Congress made clear that com- 
+pensatory damages were among the remedies to be 
+available to congressional employees in that administra- 
+tive enforcement scheme. 2 U.S.C. 1405(g) (Supp. II 
+1996). Congress must have understood, therefore, that 
+the same remedies were available in the administrative 
+enforcement scheme applicable to employees of federal 
+agencies under 42 U.S.C. 2000e-16. 
+
+Il. The court of appeals acknowledged in this case 
+that “[njothing in the statute or regulations explicitly 
+rules out the idea” that the EEOC may award com- 
+pensatory damages to federal employees in the ad- 
+ministrative process. Pet. App. 6a. But the court none- 
+theless reached a contrary conclusion, based on three 
+reasons that are ultimately unpersuasive. 
+
+First, the court of appeals noted that Congress, in 42 
+U.S.C. 198la(a)(1), authorized compensatory damages 
+“lin an action * * * under section * * * 717 of the 
+Civil Rights Act of 1964,” 42 U.S.C. 2000e-1€, the pro- 
+vision that extends Title VII to the federal govern- 
+ment. The court construed Section 198la(a)(1) as 
+referring only to civil actions in federal district court. 
+But nowhere did Congress define the term “action” for 
+purposes of Section 198la(a)(1) in such a narrow 
+manner. The term “action,” in context, is broad enough 
+to encompass both administrative and judicial pro- 
+ceedings under Section 2000e-16. And, whether or not 
+administrative proceedings are “actions,” Congress, by 
+making compensatory damages available in judicial 
+proceedings, gave the EEOC the authority to award 
+
+
+12 
+
+
+compensatory damages as an “appropriate remed[y]” in 
+administrative proceedings as well. 
+
+Second, the court of appeals relied on 42 U.S.C. 
+198la(c)(1), which provides that, “li}f a complaining 
+party seeks compensatory * * * damages under this 
+section,” then “any party may demand a trial by jury.” 
+But that provision is most sensibly construed as 
+providing a jury trial right only if an individual’s Title 
+VII claim should ripen into a civil action in federal 
+district court. It does not preclude a federal employee 
+from seeking, or the EEOC or an employing federal 
+agency from awarding, compensatory damages in the 
+administrative process. The court of appeals’ contrary 
+construction was based on the assumption that Section 
+198la(c)(1) was designed to confer “a significant pro- 
+cedural right” on federal agencies and other employers. 
+Pet. App. 10a. But that assumption finds no support in 
+the text or legislative history of Section 198la(c)(1). 
+Congress could reasonably have concluded that the 
+interests of federal agencies as employers would ade- 
+quately be served when compensatory damages were 
+awarded by the EEOC or the agency itself rather than 
+by a jury. 
+
+Finally, the court of appeals perceived that Congress 
+did not specifically waive the United States’ sovereign 
+immunity from Title VII compensatory damages claims 
+in the administrative process. But a sovereign’s ex- 
+press waiver of immunity with respect to proceedings 
+in its courts—which the court of appeals conceded oc- 
+curred here—surely encompasses a waiver of immunity 
+with respect to proceedings in its own administrative 
+agencies. In any event, by granting the EEOC broad 
+authority to award all “appropriate remedies” against 
+federal agencies for violations of Title VII, and by 
+subsequently including compensatory damages among 
+
+
+13 
+
+
+the remedies available generally under Title VII 
+against all employers including federal agencies, Con- 
+gress has expressed with sufficient clarity its intent to 
+waive the United States’ immunity with respect to 
+Tit'e VII compensatory damages claims in administra- 
+tive and judicial proceedings alike. 
+
+ARGUMENT 
+
+
+THE EEOC HAS THE AUTHORITY TO AWARD 
+COMPENSATORY DAMAGES AGAINST AGENCIES OF 
+THE FEDERAL GOVERNMENT ON CLAIMS OF 
+EMPLOYMENT DISCRIMINATION IN VIOLATION OF 
+TITLE VII 
+
+
+A. The EEOC’s Statutory Authority To Enforce Title VII In 
+
+
+The Federal Workplace “Through Appropriate Remedies” 
+Includes The Authority To Award Compensatory 
+
+
+Damages 
+
+
+Congress has given the EEOC broad authority to 
+resolve, at the administrative level, complaints of 
+employment discrimination against agencies of the 
+federal government. And Congress has required that 
+such complaints initially be pursued at the administra- 
+tive level. It may reasonably be inferred from that 
+statutory scheme that, once compensatory damages 
+became available in 1991 on claims of employment dis- 
+crimination against the federal government, the EEOC 
+gained the authority to award such damages at the 
+administrative level. A contrary result would require 
+federal employees to pursue their claims of employment 
+discrimination in two forums—first at the administra- 
+tive level to determine liability, back pay, and equitable 
+relief, and afterward in federal district court to deter- 
+mine compensatory damages—thereby undermining 
+the statutory exhaustion requirement and complicating 
+
+
+2 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+The relevant provisions of Title 42 of the United 
+States Code are set forth in the appendix to the peti- 
+tion. 
+
+
+STATEMENT 
+
+
+This case concerns whether compensatory damages 
+are among the administrative remedies available to 
+federal employees, or applicants for federal employ- 
+ment, who assert claims against federal agencies for 
+employment discrimination in violation of Title VII of 
+the Civil Rights Act of 1964, 42 U.S.C. 2000e et seq. 
+
+1. In 1972, Congress extended Title VII’s prohibi- 
+tion against employment discrimination on the basis of 
+“race, color, religion, sex, or national origin” to the fed- 
+eral government. Equal Employment Opportunity Act 
+of 1972, Pub. L. No. 92-261, § 11, 86 Stat. 111 (codified 
+at 42 U.S.C. 2000e-16(a) (1994 & Supp. II 1996)); see 
+Brown v. General Servs. Admin., 425 U.S. 820, 825 
+(1976) (“Until it was amended in 1972 * * * , Title VII 
+did not protect federal employees.”). But Title VII was 
+not to apply to the federal government in precisely the 
+same manner that it applied to other employers. Con- 
+gress crafted a distinct set of “administrative and judi- 
+cial enforcement mechanisms,” Brown, 425 U.S. at 831, 
+for claims of employment discrimination asserted by 
+federal employees and applicants for federal employ- 
+ment.’ 
+
+
+' Section 2000(e)-16(a) extends the protections of Title VII to 
+civilian employees or applicants for employment in executive 
+agencies, military departments, the Postal Service, the Postal Rate 
+Commission, the Government Printing Office, the General Accoun- 
+ting Office, the Library of Congress, the Smithsonian Institution, 
+and those units of the judicial branch of the federal government 
+and of the District of Columbia government having positions in the 
+
+
+3 
+
+
+Congress delegated initially to the Civil Service 
+Commission, and later to the Equal Employment Op- 
+portunity Commission (EEOC),’ the authority to “en- 
+force” Title VII against the federal government 
+“through appropriate remedies, including reinstate- 
+ment or hiring of employees with or without back pay.” 
+42 U.S.C. 2000e-16(b). At the same time, Congress 
+imposed “certain preconditions,” Brown, 425 U.S. at 
+832, or. a federal employee’s ability to file a civil action 
+in federal district court with respect to a claim of 
+employment discrimination. See 42 U.S.C. 2000e-16(c). 
+Those prerequisites are designed to provide an op- 
+portunity for the resolution of an employment- 
+discrimination claim in an administrative process, 
+including “through conference, conciliation, and 
+persuasion[,] before the aggrieved party [is] permitted 
+to file a lawsuit.” Alexander v. Gardner-Denver Co., 
+415 US. 36, 44 (1974). 
+
+The federal employee first “must seek relief in the 
+agency that has allegedly discriminated against him.” 
+Brown, 425 U.S. at 832. If the employee is dissatisfied 
+with the agency’s disposition of his claim, he may “seek 
+further administrative review with the [EEOC]” or, 
+alternatively, may “file suit in federal district court 
+without appealing to the [EEOC].” Jbid. If the em- 
+ployee does appeal to the EEOC, but is dissatisfied 
+with the EEOC’s decision, he then may file suit in 
+district court. /bid. An employee also “may file a civil 
+
+
+competitive service. 42 U.S.C. 2000e-16(a) (Supp. II 1996); Pub. L. 
+No. 105-220, § 341(a), 112 Stat. 1092. 
+
+2 All responsibility for enforcing equal opportunity in federal 
+employment was transferred to the EEOC from the Civil Service 
+Commission in Reorganization Plan No. 1 of 1978, § 3, 43 Fed. Reg. 
+19,807 (1978). See 42 U.S.C. 2000e-4 note (1994). 
+
+
+4 
+
+
+action if, after 180 days from the filing of the charge or 
+the appeal, the agency or [the EEOC] has not taken 
+final action.” Ibid. 
+
+The EEOC has promulgated regulations to govern 
+the administrative processing of claims of employment 
+discrimination against federal agencies. An aggrieved 
+employee first must notify an equal employment op- 
+portunity (EEO) counselor at his employing agency of 
+the aliegedly discriminatory act. 29 C.F.R. 1614.105(a). 
+If the EEO counselor determines that the matter 
+cannot be resolved informally, the employee is advised 
+of his right to file a formal complaint with the agency. 
+29 C.F.R. 1614.105(d). The agency is required to con- 
+clude “a complete and fair investigation” of the com- 
+plaint within 180 days unless the parties agree to ex- 
+tend the period. 29 C.F.R. 1614.106(d)(2), 1614.108(e). 
+Once the agency has completed the investigation and 
+provided the employee with a copy of the investigative 
+file, the employee may request a hearing before an 
+EEOC administrative judge or an immediate final 
+decision from the agency. 29 C.F.R. 108(f). If the 
+employee requests a hearing, the administrative judge 
+is required to issue findings of fact and conclusions of 
+law, and to “order appropriate relief where discrimina- 
+tion is found,” within 180 days of the hearing request 
+unless good cause exists for extending that time. 29 
+C.F.R. 1614.109(g). Within 60 days after receiving the 
+administrative judge’s decision or the employee’s re- 
+quest for a final decision without a hearing, the agency 
+is required to issue a final decision, which “shall consist 
+of findings by the agency on the merits of each issue in 
+the complaint and, when discrimination is found, ap- 
+propriate remedies and relief.* 29 C.F.R. 1614.110. 
+
+2. In 1991, Congress authorized awards of compen- 
+satory damages in “action[s] brought by a complaining 
+
+
+5 
+
+
+party under section 706 or 717 of the Civil Rights Act of 
+1964.” Civil Rights Act of 1991, Pub. L. No. 102-166, 
+Title I, § 102, 105 Stat. 1072 (codified at 42 U.S.C. 
+198la(a)(1)). Section 717, 42 U.S.C. 2000e-16, is the 
+provision of the Civil Rights Act of 1964 governing 
+Title VII claims against the federal government, while 
+Section 706, 42 U.S.C. 2000e-5, is the provision govern- 
+ing Title VII claims against other employers. Title VII 
+had previously authorized only back pay and equitable 
+remedies. See 42 U.S.C. 2000e-5(g)(1)." 
+
+Since 1992, the EEOC has taken the position that 
+“the Civil Rights Act of 1991 * * * makes compensa- 
+tory damages available to federal sector complainants 
+in the administrative process.” Jackson vy. United 
+States Postal Serv., EEOC Appeal No. 01923399 (Nov. 
+12, 1992), slip op. 3. The EEOC has announced pro- 
+cedures to ensure that federal agencies include compen- 
+satory damages among the “appropriate remedies and 
+relief,” 29 C.F.R. 1614.110, awarded to their employees 
+who are found to be victims of discrimination. If an 
+employee indicates during the administrative process 
+that he has sustained damages as a consequence of the 
+alleged discrimination,’ the agency must request from 
+
+
+* The Civil Rights Act of 1991 also authorized awards of puni- 
+tive damages in Title VII actions against private employers, but 
+not in those against “a government, government agency or political 
+subdivision.” 42 U.S.C. 1981a(b)(1). 
+
+* See also Price v. United States Postal Serv., EEOC Appeal 
+No. 01945860, 1996 WL 600763, at *3 (Oct. 11, 1996); McCormick v. 
+United States Postal Serv., EEOC Appeal No. 01954168, 1996 WL 
+562668, at *2 (Sept. 25, 1996). 
+
+5 The EEOC has made clear that “a complainant need not use 
+legal terms of art such as ‘compensatory damages,’ but may merely 
+use words or phrases to put the agency on notice that the relevant 
+
+
+6 
+
+
+the employee “objective evidence that he or she has 
+incurred compensatory damages, and that the damages 
+are related to the alleged unlawful discrimination.” 
+Jackson, slip op. 3. If the employee presents such 
+evidence, the agency must address the issue of compen- 
+satory damages in any decision finding liability. See, 
+e.y., Taunton v. Brown, EEOC Appeal No. 01943687, 
+1995 WL 481019, at *4-*5 (Aug. 9, 1995); Larochelle v. 
+Dalton, EEOC Appeal No. 01934530, 1993 WL 762933, 
+at *2-*3 (Dec. 21, 1993). 
+
+3. In 1992, respondent Michael Gibson, an account- 
+ant employed by the Department of Veterans Affairs 
+(VA), was denied a promotion. The position went to a 
+woman instead. Gibson filed a complaint with the VA, 
+alleging sex discrimination in violation of Title VII. He 
+sought back pay and a transfer to another VA hospital. 
+The VA issued a decision finding no discrimination. 
+Pet. App. 2a, 16a. 
+
+Gibson appealed the decision to the EEOC, which 
+found that the VA had discriminated against him. The 
+EEOC ordered the VA to promote Gibson with back 
+pay. Pet. App. 2a-3a, 16a-17a. 
+
+4. Gibson filed suit in federal district court to compel 
+the VA’s compliance with the EEOC’s order.’ He also 
+
+
+pecuniary or non-pecuniary loss has been incurred.” Price, 1996 
+WL 600763, at *3. 
+
+6 The VA had not acted within the period prescribed by the 
+EEOC to promote Gibson and to calculate his back pay. The 
+EEOC had directed that Gibson be promoted by December 6, 1995, 
+but the VA did not actually promote him until December 23, 1995. 
+The EEOC had directed that Gibson's back pay be calculated by 
+January 5, 1996, and that Gibson be paid by March 5, 1996; in fact, 
+the VA calculated Gibson’s back pay on January 29, 1996, and paid 
+him on February 22 and 24, 1996. Gibson filed this action in the 
+district court on January 11, 1996. Pet. App. 16a-17a. 
+
+
+7 
+
+
+sought compensatory damages—which he had not 
+sought at the administrative level—for alleged “hu- 
+miliation, mental anguish and emotional distress.” Pet. 
+App. 3a-4a, 21a. 
+
+The district court dismissed those claims. The court 
+determined that Gibson’s claims for promotion and back 
+pay were moot because the VA had by that time fully 
+complied with the EEOC’s order. Pet. App. 21-22a, 
+26a. The court rejected Gibson’s claim for compensa- 
+tory damages on the ground that he had failed to 
+exhaust his administrative remedies by not presenting 
+that claim to the VA and the EEOC. Id. at 20a-24a." 
+
+5. The court of appeals reversed the dismissal of 
+Gibson’s claim for compensatory damages, reasoning 
+that federal employees need not exhaust administrative 
+remedies on such claims. Pet. App. 5a-14a. The court 
+asserted that “exhaustion is not required if [an agency] 
+‘lack[s] authority to grant the type of relief requested.’” 
+Id. at 6a (quoting McCarthy v. Madigan, 503 U.S. 140, 
+148 (1992)). The court then concluded that the EEOC 
+does not have the authority under Title VII to award 
+compensatory damages against federal agencies. /d. at 
+9a-13a. 
+
+The court of appeals conceded that “(njothing in the 
+statute or regulations explicitly rules out” the EEOC’s 
+awarding compensatory damages to federal employees 
+
+
+7? The court also rejected Gibson's claims for front pay and a job 
+transfer. Pet. App. 24a-25a. The court reasoned that front pay is 
+unwarranted where, as here, the claimant receives the promotion 
+that he was previously denied. /bid. And the court concluded that 
+Gibson had “not even come close to establishing that he is entitled 
+to the extraordinary remedy of a job transfer.” /d. at 25a. The 
+court did conclude that Gibson was entitled to an award of 
+attorneys’ fees, because the VA had not fully complied with the 
+EEOC’s order by the time that the suit was filed. /d. at 26a-27a. 
+
+
+8 
+
+
+for violations of Title VII. Pet. App. 6a. The court also 
+acknowledged that “[i]t is not unreasonable to con- 
+clude” that the EEOC’s statutory mandate to adjudi- 
+cate Title VII claims against federal agencies “might be 
+broad enough to allow the EEOC to award compensa- 
+tion for mental anguish and emotional distress.” /d. at 
+7a. And the court noted that the Fifth Circuit had 
+recently held that the EEOC had the authority to 
+award compensatory damages on Title VII claims 
+arising in the federal sector. Jbid. (citing Fitzgerald v. 
+Secretary, United States Dep't of Veterans Affairs, 121 
+F.3d 203, 207 (1997)). The court nonetheless held that 
+several factors compelled a contrary conclusion. 
+
+The court of appeals principally relied on 42 U.S.C, 
+1981la(c)(1), which provides that “[i]f a complaining 
+party seeks compensatory * * * damages under this 
+section,” then “any party may demand a trial by jury.” 
+Pet. App. 9a-10a. A “trial by jury” cannot, of course, 
+occur in an administrative proceeding. The court 
+recognized that Section 1981a(c)(1) might be construed 
+to mean that “the EEOC has the right to issue com- 
+pensatory damages in the first instance, and the losing 
+party may seek de novo review of the damages by 
+demanding a jury trial” in district court. Jd. at 9a. But 
+the court rejected that construction. The court noted 
+that a federal agency is bound by the EEOC’s disposi- 
+tion of a Title VII complaint, although an employee is 
+not and may seek relief de novo in district court. Jd. at 
+Ya-10a. A federal agency thus could not demand a jury 
+trial to review an EEOC award of compensatory dam- 
+ages to an employee. The court consequently declined 
+to construe Title VII in a manner that would deprive 
+federal agencies of what the court characterized as the 
+“significant procedural right” to a jury trial on com- 
+pensatory damages claims. /d. at 10a. 
+
+
+9 
+
+
+The court of appeals found further support for its 
+position in the language of 42 U.S.C. 1981a(a)(1), which 
+provides for compensatory damages awards in “an 
+action brought by a complaining party” under, inter 
+alia, the statutory provision allowing Title VII claims 
+against the federal government. Pet. App. 10a. The 
+court declined to defer to the EEOC’s own construction 
+of Section 1981la(a)(1) as encompassing administrative 
+as well as judicial proceedings. The court concluded 
+that Congress generally used the term “actions” in Title 
+VII to refer to “civil actions filed in federal court, not 
+complaints of discrimination lodged with the EEOC.” 
+Id. at 11a. 
+
+Finally, the court of appeals invoked the principle 
+that any waiver of the federal government’s sovereign 
+immunity should be strictly construed. Pet. App. 12a 
+(citing Lehman v. Nakshian, 453 U.S. 156, 161 (1981)). 
+The court recognized that Congress has expressly 
+waived the government’s sovereign immunity with re- 
+spect to civil actions for compensatory damages under 
+Title VII. /d. at 1la-12a. But the court declined in the 
+absence of a clearer expression of congressional intent 
+“to extend the waiver of sovereign immunity so that 
+the government may be liable for compensatory dam- 
+ages without the benefit of a jury trial.” Jd. at 12a. 
+
+The court of appeals remanded Gibson’s compensa- 
+tory damages claim to the district court, “so that it may 
+be tried to a jury, which is what he has demanded in his 
+complaint and what the statute allows.” Pet. App. 14a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Equal Employment Opportunity Commission 
+(EEOC) possesses the authority to award compensa- 
+tory damages against agencies of the federal govern- 
+ment for violations of Title VII of the Civil Rights Act 
+
+
+10 
+
+
+of 1964. That conclusion is supported by the text of the 
+relevant statutory provisions, the legislative history, 
+and the congressional purpose to enable federal em- 
+ployees to obtain full relief at the administrative level 
+for violations of Title VII. 
+
+I. Congress has vested the EEOC with broad 
+authority to enforce Title VII in the federal workplace, 
+including the authority to provide all “appropriate 
+remedies” to federal employees who are victims of em- 
+ployment discrimination. 42 U.S.C. 2000e-16(b). And 
+Congress has made clear that the appropriate remedies 
+for violations of Title VII by federal agencies include 
+compensatory damages. 42 U.S.C. 198la(a)(1). The 
+EEOC itself has recognized since 1992 that compensa- 
+tory damages are available to federal employees in the 
+administrative process. 
+
+A contrary rule would be inconsistent with the 
+statutory requirement that federal employees exhaust 
+administrative remedies with respect to Title VII 
+claims, 42 U.S.C. 2000e-16(c), which was designed to 
+provide a mechanism to resolve such claims fully with- 
+out resort to the courts. A federal employee still would 
+have to pursue his Title VIL claim in the administrative 
+process in order to obtain an award of back pay and 
+equitable relief against his employing agency. But even 
+if the employee fully prevailed in the administrative 
+process, he would then have to go to court to obtain 
+compensatory damages. Such a rule would impose 
+burdens on federal employees, federal agencies, and the 
+federal courts that Congress could not have intended. 
+
+Congress has elsewhere evinced its understanding 
+that compensatory damages are among the remedies 
+that may appropriately be awarded in the administra- 
+tive process for violations of Title VII. In 1991 and 
+again in 1995, as part of comprehensive legislation 
+
+
+11 
+
+
+extending the protections of Title VII to congressional 
+employees, Congress crafted an administrative enforce- 
+ment scheme, which was modeled on the existing 
+administrative enforcement scheme for employees of 
+the Executive Branch. Congress made clear that com- 
+pensatory damages were among the remedies to be 
+available to congressional employees in that administra- 
+tive enforcement scheme. 2 U.S.C. 1405(g) (Supp. II 
+1996). Congress must have understood, therefore, that 
+the same remedies were available in the administrative 
+enforcement scheme applicable to employees of federal 
+agencies under 42 U.S.C. 2000e-16. 
+
+Il. The court of appeals acknowledged in this case 
+that “[njothing in the statute or regulations explicitly 
+rules out the idea” that the EEOC may award com- 
+pensatory damages to federal employees in the ad- 
+ministrative process. Pet. App. 6a. But the court none- 
+theless reached a contrary conclusion, based on three 
+reasons that are ultimately unpersuasive. 
+
+First, the court of appeals noted that Congress, in 42 
+U.S.C. 1981la(a)(1), authorized compensatory damages 
+“liJn an action * * * under section * * * 717 of the 
+Civil Rights Act of 1964,” 42 U.S.C. 2000e-16, the pro- 
+vision that extends Title VII to the federal govern- 
+ment. The court construed Section 198la(a)(1) as 
+referring only to civil actions in federal district court. 
+But nowhere did Congress define the term “action” for 
+purposes of Section 198la(a)(1) in such a narrow 
+manner. The term “action,” in context, is broad enough 
+to encompass both administrative and judicial pro- 
+ceedings under Section 2000e-16. And, whether or not 
+administrative proceedings are “actions,” Congress, by 
+making compensatory damages available in judicial 
+proceedings, gave the EEOC the authority to award 
+
+
+12 
+
+
+compensatory damages as an “appropriate remed[y]” in 
+administrative proceedings as well. 
+
+Second, the court of appeals relied on 42 U.S.C. 
+198la(c)(1), which provides that, “[i}f a complaining 
+party seeks compensatory * * * damages under this 
+section,” then “any party may demand a trial by jury.” 
+But that provision is most sensibly construed as 
+providing a jury trial right only if an individual’s Title 
+VII claim should ripen into a civil action in federal 
+district court. It does not preclude a federal employee 
+from seeking, or the EEOC or an employing federal 
+agency from awarding, compensatory damages in the 
+administrative process. The court of appeals’ contrary 
+construction was based on the assumption that Section 
+198la(c)(1) was designed to confer “a significant pro- 
+cedural right” on federal agencies and other employers. 
+Pet. App. 10a. But that assumption finds no support in 
+the text or legislative history of Section 198la(c)(1). 
+Congress could reasonably have concluded that the 
+interests of federal agencies as employers would ade- 
+quately be served when compensatory damages were 
+awarded by the EEOC or the agency itself rather than 
+by a jury. 
+
+Finally, the court of appeals perceived that Congress 
+did not specifically waive the United States’ sovereign 
+immunity from Title VII compensatory damages claims 
+in the administrative process. But a sovereign’s ex- 
+press waiver of immunity with respect to proceedings 
+in its courts—which the court of appeals conceded oc- 
+curred here—surely encompasses a waiver of immunity 
+with respect to proceedings in its own administrative 
+agencies. In any event, by granting the EEOC broad 
+authority to award all “appropriate remedies” against 
+federal agencies for violations of Title VII, and by 
+subsequently including compensatory damages among 
+
+
+13 
+
+
+the remedies available generally under Title VII 
+against all employers including federal agencies, Con- 
+gress has expressed with sufficient clarity its intent to 
+waive the United States’ immunity with respect to 
+Title VII compensatory damages claims in administra- 
+tive and judicial proceedings alike. 
+
+ARGUMENT 
+THE EEOC HAS THE AUTHORITY TO AWARD 
+COMPENSATORY DAMAGES AGAINST AGENCIES OF 
+THE FEDERAL GOVERNMENT ON CLAIMS OF 
+
+
+EMPLOYMENT DISCRIMINATION IN VIOLATION OF 
+TITLE Vil 
+
+
+A. The EEOC’s Statutory Authority To Enforce Title VII In 
+
+
+The Federal Workplace “Through Appropriate Remedies” 
+Includes The Authority To Award Compensatory 
+
+
+Damages 
+
+
+Congress has given the EEOC broad authority to 
+resolve, at the administrative level, complaints of 
+employment discrimination against agencies of the 
+federal government. And Congress has required that 
+such complaints initially be pursued at the administra- 
+tive level. It may reasonably be inferred from that 
+statutory scheme that, once compensatory damages 
+became available in 1991 on claims of employment dis- 
+crimination against the federal government, the EEOC 
+gained the authority to award such damages at the 
+administrative level. A contrary result would require 
+federal employees to pursue their claims of employment 
+discrimination in two forums—first at the administra- 
+tive level to determine liability, back pay, and equitable 
+relief, and afterward in federal district court to deter- 
+mine compensatory damages—thereby undermining 
+the statutory exhaustion requirement and complicating 
+
+
+14 
+
+
+the resolution of such claims both for employees and for 
+the government. 
+
+1. Congress has delegated to the EEOC “full 
+authority to enforce” Title VII against the federal 
+government “through appropriate remedies, including 
+reinstatement or hiring of employees with or without 
+back pay.” Brown v. General Servs. Admin., 425 U.S. 
+820, 831-832 (1976) (quoting 42 U.S.C. 2000e-16(b)) 
+(emphasis added). Congress has further authorized the 
+EEOC to “issue such rules, regulations, orders and 
+instructions as it deems necessary and appropriate to 
+carry out its responsibilities” to ensure that federal per- 
+sonnel decisions are “made free from any discrimination 
+based on race, color, religion, sex, or national origin.” 
+42 U.S.C. 2000€ -16(a) and (b); see Fitzgerald v. Secre- 
+tary, United States Dep’t of Veterans Affairs, 121 F.3d 
+203, 207 (5th Cir. 1997) (noting the EEOC’s “wide- 
+ranging authority” under Section 2000e-16(b) to enforce 
+Title VII in the federal sector). 
+
+Congress thus did not specify which particular 
+remedies the EEOC may, and may not, award against 
+federal agencies that have violated Title VII. Congress 
+instead vested the EEOC with broad discretion to 
+determine which “remedies,” among those authorized 
+by law, are “appropriate” based upon its expertise with 
+regard to employment discrimination generally and in 
+the federal workplace specifically. This Court has 
+repeatedly recognized that “[t]he power of an admini- 
+strative agency to administer a congressionally created 
+. . . program necessarily requires the formulation of 
+policy and the making of rules to fill any gap left, 
+implicitly or explicitly, by Congress.” Chevron U.S.A. 
+Inc. v. Natural Resources Defense Council, Inc., 467 
+U.S. 837, 843 (1984) (quoting Morton v. Ruiz, 415 U.S. 
+199, 231 (1974)). 
+
+
+15 
+
+
+Congress intended that the term “appropriate reme- 
+dies” in Section 2000e-16(b) would be expansively con- 
+strued so as to make victims of employment discrimina- 
+tion whole. The Senate Report on the legislation that 
+extended the protections of Title VII to federal em- 
+ployees explained that “[t]hese remedies may include 
+back pay for applicants, as well as employees, denied 
+promotion opportunities, reinstatement, hire, immedi- 
+ate promotion and any other remedy needed to fully 
+recompense the employee for his loss, both financially 
+and professionally.” S. Rep. No. 415, 92d Cong., Ist 
+Sess. 45 (1971) (emphasis added). 
+
+In 1991, Congress added compensatory damages to 
+the array of remedies available under Title VII against 
+employers, including agencies of the federal govern- 
+ment. Civil Rights Act of 1991, Pub. L. No. 102-166, 
+Title I, § 102, 105 Stat. 1072 (codified at 42 U.S.C. 
+1981a(a)(1)) (authorizing compensatory damages in any 
+“action brought by a complaining party under section 
+* * * 1717 of the Civil Rights Act of 1964”—the 
+provision that extended Title VII to the federal 
+government—“against a respondent who engaged in 
+unlawful intentional discrimination”). Nowhere in the 
+text of the Civil Rights Act of 1991 did Congress 
+expressly preclude the EEOC from making the new 
+compensatory damages remedy available to federal 
+employees in administrative proceedings under Title 
+VII. Nor does the legislative history of the 1991 Act 
+contain any statement, from any member of Congress, 
+that compensatory damages are not to be awarded in 
+such administrative proceedirgs.” 
+
+
+8 The legislative history of the Civil Rights Act of 1991 contains 
+no extended discussion of the applicability of the compensatory 
+damages remedy to federal employees. It does, however, include 
+
+
+16 
+
+
+The EEOC subsequently determined that “the Civil 
+Rights Act of 1991 * * * makes compensatory 
+damages available to federal sector complainants in the 
+administrative process.” Jackson v. United States 
+Postal Serv., EEOC Appeal No. 01923399 (Nov. 12, 
+1992), slip op. 3. In making the determination, the 
+EEOC was acting within its congressionally delegated 
+“authority to enforce” Title VII in the federal sector 
+“through appropriate remedies,” 42 U.S.C. 2000e-16(b), 
+which necessarily includes the authority to determine 
+which of the “remedies” generally available under Title 
+VII are “appropriate” to be awarded against federal 
+agencies in the administrative process. Congress, by 
+making compensatory damages available in judicial 
+proceedings in the Civil Rights Act of 1991, thus gave 
+the EEOC the authority to award the same relief in 
+administrative proceedings. See Fitzgerald, 121 F.3d 
+at 207 (concluding that the EEOC’s statutory mandate 
+to enforce the anti-discrimination laws in the federal 
+workplace “is sufficiently broad to allow the EXOC to 
+offer * * * full relief that includes compensatory 
+damages”). 
+
+2. The conclusion that compensatory damages are 
+among the “appropriate remedies” available in the 
+administrative process is supported by the statutory 
+
+
+an analysis by the Congressional Budget Office of the costs of the 
+Act to the federal government. The Congressional Budget Office 
+stated that the costs of “administrative settlements” of employ- 
+ment-discrimination claims against the federal government “could 
+increase under the bill because compensatory damages could be 
+awarded in some cases involving the federal government.” H.R. 
+Rep. No. 40, 102d Cong., Ist Sess. Pt. 1, at 108 (1991). The state- 
+ment appears to reflect an understanding that compensatory dam- 
+ages would be available to federal employees in the administrative 
+process. 
+
+
+17 
+
+
+exhaustion requirement, see 42 U.S.©. 2000e-16(c), 
+which reflects Congress’s design to vneourage the 
+resolution of employment-discrimination claims against 
+federal agencies at the administrative level.’ At the 
+time that Congress extended Title VII to the federal 
+government, adopting both the provision that author- 
+izes the EEOC to grant “appropriate remedies” and the 
+provision that requires federal employees to exhaust 
+administrative remedies, Congress understood that 
+those “provisions * * * will enable the Commission to 
+grant full relief to aggrieved employees, or applicants, 
+including back pay and immediate advancement as 
+appropriate.” S. Rep. No. 415, supra, at 16 (emphasis 
+added)."” An individual would need to file suit in federal 
+district court only if he was “not satisfied with the 
+agency or Commission decision.” Jbid. 
+
+This Court has recognized that a requirement that a 
+claimant exhaust administrative remedies may serve a 
+variety of purposes. See McKart v. United States, 395 
+U.S. 185, 194-195 (1969) (enumerating purposes). The 
+exhaustion requirement contained in Section 2000e- 
+16(c) serves at least three of those purposes: It provides 
+the employing agency with “a chance to discover and 
+correct its own errors,” id. at 195; it enables the EEOC, 
+the entity charged with enforcing the anti-discrimina- 
+tion laws in the federal sector, to “apply its expertise,” 
+id. at 194; and it serves “practical notions of judicial 
+
+
+® Under Section 2000e-16(c), an employee must first present his 
+Title VII claim to the agency that allegedly discriminated against 
+him. If the employee does not obtain full relief from the agency, he 
+may either appeal to the EEOC or sue in federal district court. He 
+may also go to district court if his EEOC appeal is unsuccessful. 
+
+© The Senate Report’s reference to “the Commission” was to 
+the Civil Service Commission, which initially had the authority to 
+enforce Title VII in the federal sector. See note 2, supra. 
+
+
+18 
+
+
+efficiency” because, if “[a] complaining party [is] suc- 
+cessful in vindicating his rights in the administrative 
+process,” then “the courts may never have to inter- 
+vene,” id. at 195. See Jordan v. United States, 522 F.2d 
+1128, 1182 (8th Cir. 1975) (noting purposes served by 
+exhaustion requirement of Section 2000e-16(c¢)); accord 
+Tolbert v. United States, 916 F.2d 245, 249 n.1 (5th Cir. 
+1990). 
+
+All of those purposes would be undermined if a 
+federal employee could ot recover compensatory dam- 
+ages in the administrative process, whether from his 
+employing agency, in the first instance, or from the 
+EEOC on appeal.’ An employee who sought equitable 
+relief, back pay, and compensatory damages for a single 
+violation of Title VII then could not obtain full relief at 
+the administrative level. The employee would still, of 
+
+
+'' While the Seventh Circuit in this case did not expressly 
+address whether an employing agency may award compensatory 
+damages to an employee who has suffered discrimination in viola- 
+tion of Title VII, the Seventh Circuit’s rationale could lead to the 
+conclusion that the agency, like the EEOC, has no such authority. 
+In holding that respondent did not violate the administrative 
+exhaustion requirement of Section 2000e-16(c) when he failed to 
+raise his compensatory damages claim before either the VA or the 
+EEOC, the Seventh Circuit apparently assumed that the VA, like 
+the EEOC, could not award such damages and, consequently, that 
+respondent was not required to seek them at either stage of the 
+administrative process. Respondent thus was permitted to assert 
+his compensatory damages claim for the first time in a civil action 
+in federal district court. The Eleventh Circuit, in a decision 
+adopting the Seventh Circuit’s rationale in this case, held that an 
+employing agency lacks the authority to act in accordance with 
+“the EEOC’s requirement that an agency award an employee dis- 
+crimination victim compensatory damages where necessary for 
+‘full relief’” Crawford v. Babbitt, 148 F.3d 1318, 1325 (1998), 
+petition for cert. pending, No. 98-1332. 
+
+
+19 
+
+
+course, have to exhaust administrative remedies with 
+respect to his claims for equitable relief and back pay. 
+However, even if the employee entirely prevailed at the 
+administrative level, receiving all of the back pay and 
+equitable relief that he sought, he would have to file 
+suit in district court to pursue his claim for compensa- 
+tory damages. The agency would be denied the 
+opportunity fully to correct its own errors. The EEOC 
+would be prevented from applying its expertise con- 
+cerning employment discrimination in the federal work- 
+place, both with respect to specifying the rules that the 
+agency must apply in considering the employee’s 
+compensatory damages claim initially and with respect 
+to reviewing the agency’s resolution of that claim on 
+any administrative appeal. And the federal courts 
+would inevitably have to intervene in the matter 
+because the employee could never be fully “successful 
+in vindicating his rights in the administrative process.” 
+McKart, 395 U.S. at 195. It is unlikely that Congress 
+intended to create such a costly, inefficient, and time- 
+consuming procedure for resolving Title VII complaints 
+—a procedure that is contrary to the interests of 
+federal employees, the federal government as em- 
+ployer, and the already overburdened federal courts. 
+See Fitzgerald, 121 F.3d at 207 (expressing doubt that 
+“Congress would have created an administrative pro- 
+cess capable of providing only partial relief”); Jackson, 
+slip op. at 7 (recognizing that such a process could 
+result in “the filing of unnecessary lawsuits”)." 
+
+
+2 Cf. New York Gaslight Club v. Carey, 447 U.S. 54, 65, 66 n.6 
+(1980) (construing statute authorizing attorneys’ fees awards in 
+“proceedings” under Title VII to include state and local proceed- 
+ings in order to “ensure[] incorporation of state procedures as a 
+meaningful part of the Title VII enforcement scheme” and avoid 
+
+
+unnecessary federal proceedings). 
+
+
+20 
+
+
+According to the EEOC, some 28,947 formal admini- 
+strative complaints of employment discrimination were 
+filed against federal agencies in fiscal 1997 alone. Office 
+of Federal Operations, EEOC, Federal Sector Report 
+on Complaints Processing and Appeals by Federal 
+Agencies for Fiscal Year 1997, at 1 (1998). Such com- 
+plaints often seek compensatory damages as well as 
+equitable relief. The majority of such complaints are 
+resolved within the agency itself, without the filing of 
+an appeal to the EEOC or a civil action in district court. 
+See id. at T-33 (in fiscal 1997, agencies closed 6,252 em- 
+ployment-discrimination cases with corrective action, 
+granting total compensatory damages of $3,723,873). In 
+fiscal 1997, however, the EEOC closed 5,480 appeals of 
+cases raising claims under Title VII, often ordering 
+corrective action, including compensatory damages. /d. 
+at T-68; see also, e.g., Turner v. Babbitt, EEOC Appeal 
+No. 1956390, 1998 WL 223578, at *5-6 (Apr. 27, 1998) 
+(citing administrative appeals in which the EEOC 
+awarded compensatory damages). If the EEOC does 
+not have the authority to award compensatory damages 
+against federal agencies, many such cases could not be 
+closed at the administrative level and instead would 
+reach the federal courts. And if federal agencies like- 
+wise cannot award compensatory damages at the first 
+stage of the administrative process (see note 11, supra), 
+the number of cases reaching the federal courts would 
+be still greater. It thus could require many years of 
+administrative and judicial proceedings before a federal 
+
+
+'’ The number includes not only claims of discrimination on the 
+basis of race, color, religion, sex, or national origin, within the 
+scope of Title VII, but also claims of discrimination on the basis of 
+age and disability. 
+
+
+21 
+
+
+employee could ever recover compensatory damages 
+under Title VII. 
+
+3. Congress’s understanding that the administrative 
+enforcement scheme for Title VII claims against federal 
+agencies includes compensatory damages awards, as 
+well as other “appropriate remedies” that would be 
+available in court, is reflected in Congress’s enactment 
+of similar administrative enforcement schemes for Title 
+VII claims against itself. Congress has twice in recent 
+years crafted comprehensive statutory schemes gov- 
+erning Title VII claims by its own employees—in 1991, 
+when Congress extended Title VII to employees of the 
+United States Senate, and in 1995, when Congress 
+extended Title VII to all congressional employees. On 
+both occasions, Congress included compensatory dam- 
+ages among the remedies available to congressional 
+employees in the administrative process. And, on both 
+occasions, Congress recognized that it was creating for 
+its own employees an administrative process that was 
+similar to that already in place for employees of federal 
+agencies. 
+
+As part of the Civil Rights Act of 1991, Congress 
+adopted a series of provisions, titled the Government 
+Employee Rights Act, that extended Title VII and 
+other federal anti-discrimination laws to Senate em- 
+ployees. See Civil Rights Act of 1991, Pub. L. No. 102- 
+166, Title III, §§ 301-325, 105 Stat. 1088-1099." Con- 
+gress provided that Senate personnel actions “shall be 
+made free from any discrimination based on,” inter alia, 
+“race, color, religion, sex, or national origin, within the 
+
+
+'* No comparable legislation was adopted at that time with 
+respect to employees of the House of Representatives. The House 
+applied Title VII to itself beginning in 1988 through House 
+Resolution 558 (100th Congress). 
+
+
+22 
+
+
+meaning of Section 717 of the Civil Rights Act of 1964,” 
+the section applicable to personnel actions of the 
+Executive Branch. § 302(1), 105 Stat. 1088. A Senate 
+employee could, for the first time, file a complaint 
+alleging employment discrimination in violation of Title 
+VII, which would be decided by a three-member board 
+of independent hearing officers appointed by an Office 
+of Senate Fair Employment Practices. § 307, 105 Stat. 
+1091. Congress then provided that “lilf the hearing 
+board determines that a violation has occurred, it shall 
+order such remedies as would be appropriate if 
+awarded under [42 U.S.C. 2000e-5(g) and (k)]},” ie., 
+equitable relief, back pay, attorneys’ fees, and costs, 
+“and may also order the award of such compensatory 
+damages as would be appropriate if awarded under [42 
+U.S.C. 1981 and 42 U.S.C. 198la(a) and (b)(2)}.” 
+$ 307(h), 105 Stat. 1092." Congress contemplated that 
+the authority of the hearing board with respect to Title 
+VII claims of Senate employees—presumably including 
+the authority to award compensatory damages—would 
+be analogous to the authority of the EEOC with respect 
+to Title VII claims of employees of federal agencies. 
+See 137 Cong. Rec. 28,903 (1991) (statement of Sen. 
+Mitchell, co-sponsor) (explaining that the legislation 
+was designed “[t]o give the people who work here in 
+the Senate * * * a process similar to that available to 
+their counterparts in the civil service”), 
+
+In 1995, Congress adopted more comprehensive 
+legislation that extended the protections of Title VII 
+
+
+' The decision of the hearing board was subject to review by 
+the Select Committee on Ethics and the Court of Appeals for the 
+Federal Circuit. §§ 308-309, 105 Stat. 1092-1094. But neither the 
+employee nor his employer had any right to a jury trial on any 
+issue of liability or remedy. 
+
+
+23 
+
+
+and other federal anti-discrimination statutes to most 
+congressional employees, superseding the 1991 legisla- 
+tion applicable only to Senate employees. Con- 
+gressional Accountability Act of 1995, Pub. L. No. 104- 
+1, Title I, §§ 101-102, 109 Stat. 4-6 (codified at 2 U.S.C. 
+1301 et seq. (Supp. II 1996))."° Under the 1995 Act, a 
+congressional employee, after undergoing mandatory 
+counseling and mediation, may elect to file a complaint 
+either with a newly created Office of Compliance or in 
+federal district court. 2 U.S.C. 1404. If the employee 
+elects to pursue his claim through the administrative 
+process, the Office of Compliance may “order such 
+remedies as are appropriate pursuant to subchapter II 
+of this chapter,” which include compensatory damages. 
+2 U.S.C. 1405(g); see 2 U.S.C. 1311(b)(1)(B) 
+(compensatory damages provision). Again, as in 1991, 
+Congress sought to model its own administrative 
+enforcement scheme for employees’ Title VII claims 
+after that of the Executive Branch. See 141 Cong. Rec. 
+659 (1995) (statement of Sen. Lieberman, co-sponsor) 
+(“this measure we are considering establishes an 
+
+
+’ All statutory citations to provisions of the Congressional 
+Accountability Act are to the 1996 Supplement. 
+
+'' Either party may appeal the decision of the Office of Com- 
+pliance to its Board of Directors and subsequently to the Court of 
+Appeals for the Federal Circuit. 2 U.S.C. 1406(a), 1407(a). The 
+standard of review in each instance is a deferential one. 2 U.S.C. 
+1406(c), 1407(d). Unless the congressional employee elects to pur- 
+sue his claim in district court, rather than through the admini- 
+strative process, his employing office has no right to a jury trial, 
+including on the issue of compensatory damages. Cf. 2 U.S.C. 
+1408(c) (providing jury trial right in district court proceedings). 
+
+
+24 
+
+
+independent office to function as a legislative branch 
+equivalent of the executive enforcement agencies”). 
+
+It is thus evident that Congress has perceived 
+nothing untoward in the award in the administrative 
+process of compensatory damages to be paid out of the 
+federal treasury. That is precisely what Congress 
+provided for Title VII claims against itself. Indeed, 
+although Congress chose not to bring itself within the 
+same administrative enforcement scheme as the Execu- 
+tive Branch, apparently out of concern for its own 
+independence, Congress consciously sought to replicate 
+that existing administrative enforcement scheme. Con- 
+gress must have understood, therefore, that compensa- 
+tory damages were among the remedies available in 
+that scheme. ““ 
+
+
+'* The administrative enforcement scheme for Title VII claims 
+by employees of federal agencies was already in place in 1991, 
+when compensatory damages were made available generally as a 
+remedy for Title VII violations. In contrast, the administrative 
+enforcement schemes for Title VII claims by Senate employees, in 
+the 1991 legislation, and for all congressional employees, in the 
+1995 legislation, were created at the same time that compensatory 
+damages were made available as a remedy to those employees. It 
+is thus understandable that the legislation creating the latter 
+schemes expressly mentioned compensatory damages as among 
+the remedies available in the administrative process. The absence 
+of a similar express reference to compensatory damages in 42 
+U.S.C. 2000e-16, the provision creating the administrative enforce- 
+ment scheme applicable to federal agencies, does not suggest that 
+Congress did not intend that compensatory damages be available 
+in that scheme. Congress would have recognized that Section 
+2000e-16(b) already authorized all “appropriate remedies” in the 
+administrative process—a term expansive enough to include com- 
+pensatory damages once authorized generally by Congress with 
+respect to Title VII claims against all employers, including the 
+federal government. 
+
+
+25 
+
+
+B. The Court of Appeals’ Reasons for Concluding That The 
+EEOC Has No Authority To Award Compensatory Dam- 
+ages In Administrative Proceedings Are Unpersuasive 
+
+The court of appeals acknowledged in this case that 
+“[njothing in the statute or regulations explicitly rules 
+out the idea” that the EEOC may award compensatory 
+damages on Title VII claims in administrative proceed- 
+ings. Pet. App. 6a. The court nonetheless concluded 
+that the EEOC lacked the authority to do so. None of 
+the three reasons offered by the court to justify that 
+conclusion is persuasive. 
+
+1. The court of appeals relied in part on 42 U.S.C. 
+1981a(a)(1), which states that “[iJn an action brought by 
+a complaining party under section 706 or 717 of the 
+Civil Rights Act of 1964 [42 U.S.C. 2000e-5, 2000e-16] 
+* * * the complaining party may recover compen- 
+satory and punitive damages.” The court construed 
+that provision to mean that compensatory damages are 
+available “only” in “a civil action” in district court as 
+opposed to in “an administrative proceeding.” Pet. 
+App. 10a-11a. 
+
+a. Section 1981a does not, however, define the term 
+“action” as being limited to judicial proceedings. The 
+statutory language, read in context, suggests that no 
+such limitation was intended. Section 1981(a)(1) refers 
+to “an action brought by a complaining party under 
+section * * * 717 of the Civil Rights Act of 1964,” 42 
+U.S.C. 2000e-16, the section that authorizes both 
+administrative and judicial proceedings against federal 
+agencies for violations of Title VII. If Congress had 
+meant to refer only to civil actions in district court, 
+Congress presumably would have cited specifically to 
+Section 717(c), 2000e-16(c), the subsection titled “Civil 
+action by employee or applicant for employment for 
+redress of grievances.” Section 1981a(d), which defines 
+
+
+26 
+
+
+a “complaining party” for purposes of Section 
+198la(a)(1) as “a person who may bring an action or 
+proceeding under title VII of the Civil Rights Act of 
+1964,” provides further indication that Congress did not 
+intend to limit Section 198la(a)(1) to civil actions in 
+district court. 
+
+The reference to Section 717, 42 U.S.C. 2000e-16, was 
+included in the provision that became Section 
+198la(a)(1) during the Senate debate on the Civil 
+Rights Act of 1991, as a result of an amendment offered 
+by Senator Warner to “clarify” that the compensatory 
+damages provision applied to federal employees. 137 
+Cong. Rec. 29,020 (1991). In introducing the amend- 
+ment, Senator Warner described the process for resolv- 
+ing federal employees’ complaints of employment dis- 
+crimination, including informal counseling, the filing of 
+a formal complaint with the employing agency, review 
+by the EEOC, and a civil action in district court. Jd. at 
+29,021. Senator Warner then turned to what he termed 
+“the heart of the matter”: 
+
+
+Remedies available under present law include: 
+
+
+One, reinstatement; two, back pay; three, restora- 
+tion of benefits; and, four, public notice. 
+
+
+My amendment would add to the list of remedies 
+compensatory damages including those covering 
+pain and suffering, and that is a very important 
+subject. 
+
+
+Ibid. Senator Warner drew no distinction between the 
+remedies available in the administrative process and 
+the remedies available in the judicial process. Nor did 
+any other member of the Senate. 
+
+The EEOC’s decision in Jackson, which concluded 
+that compensatory damages are available at the admin- 
+
+
+27 
+
+
+istrative level, was based, in part, on the EEOC’s view 
+that the term “action” in Section 198la(a)(1) was in- 
+tended to encompass administrative proceedings. Slip 
+op. 4-7. To be sure, since Congress did not expressly 
+give the EEOC regulatory authority with respect to 
+Section 198la, as Congress did with respect to Section 
+2000e-16, the EEOC’s interpretation of Section 
+1981a(a)(1) may not be entitled to Chevron deference. 
+But the EEOC’s interpretation of Section 1981a(a)(1) is 
+nonetheless a “well-reasoned view[] of the agencly] 
+implementing [the] statute” to which the Court “may 
+properly resort for guidance.” Bragdon v. Abbott, 118 
+S. Ct. 2196, 2207 (1998) (quoting Skidmore v. Swift & 
+Co., 323 U.S. 134, 139-140 (1944)). 
+
+b. In any event, as discussed in Part I above, the 
+EEOC’s authority to award compensatory damages 
+does not turn on whether or not an administrative 
+proceeding is an “action” within the meaning of Section 
+198la(a)(1). It is enough that Section 198la(a)(1) ex- 
+pands the remedies available under Title VII against 
+employers generally, and the federal government spe- 
+cifically, to include compensatory damages. In so doing, 
+Section 198la(a)(1) gives the EEOC the authority to 
+include compensatory damages among the “appropriate 
+remedies,” 42 U.S.C. 2000e-16(b), that may be awarded 
+in administrative proceedings for violations of Title 
+VII. See Fitzgerald, 121 F.3d at 207 (“(rjegardless” 
+whether the term “action” in Section 1981a(a)(1) “refers 
+to a district court suit, an administrative proceeding, or 
+both,” the EEOC’s “mandate, as described in § 2000e- 
+16(b), is sufficiently broad to allow the EEOC to offer 
+* * * compensatory damages for emotional injuries”). 
+
+In view of the EEOC’s broad mandate under Section 
+2000e-16(b) to enforce Title VII in the federal sector, if 
+
+
+Congress had intended that compensatory damages not 
+
+
+28 
+
+
+be available to federal employees in administrative 
+proceedings, Congress could be expected to have said 
+so expressly. It did not. 
+
+2. The court of appeals also rested its decision in this 
+case on 42 U.S.C, 1981a(c)(1), which provides that “filf a 
+complaining party seeks compensatory or punitive dam- 
+ages under this section,” then “any party may demand a 
+trial by jury.” The court reasoned that, if the EEOC 
+could award compensatory damages against a federal 
+agency, the agency would be deprived of that statutory 
+right to a jury trial, because agencies are bound by the 
+EEOC’s dispositions of Title VII claims. Pet. App. 10a; 
+see 42 U.S.C. 2000e-16(c) (providing for civil actions 
+only by “an employee or applicant for employment” who 
+does not prevail at the administrative level); 29 C.F.R. 
+1614.504(a) (1996). 
+
+a. The court of appeals read too much into the 
+statutory language. Section 1981a(c)(1) is most sensibly 
+construed simply as providing a jury trial right, to 
+either party, if a Title VII claim should ripen into a civil 
+action in district court. But it does not preclude a 
+federal employee from seeking, or the EEOC or an em- 
+ploying federal agency from awarding, compensatory 
+damages on a Title VII claim in the administrative 
+process," 
+
+
+' Section 198la(c)(1) does not state that, whenever a complain- 
+ing party seeks compensatory damages on a Title VII claim, any 
+party may demand a jury trial. It states only that any party may 
+demand a jury trial “{i)f a complaining party seeks compensatory 
+or punitive damages under this section” —that is, under 42 U.S.C. 
+198la, the section of the Civil Rights Act of 1991 that authorizes 
+compensatory damages “[iJn an action brought by a complaining 
+party” under Title VII. Arguably, at least, a federal employee is 
+not proceeding “under this section,” within the meaning of Section 
+198la(c)(1), when he seeks compensatory damages in the admin 
+
+
+29 
+
+
+The jury trial right provided to federal agencies by 
+the Civil Rights Act of 1991 is, under that construction 
+of Section 1981a(c)(1), essentially equivalent to the jury 
+trial right provided to Congress itself by the Con- 
+gressional Accountability Act of 1995. As noted above, 
+a congressional employee has the option to prosecute a 
+Title VII complaint, which may include a claim for com- 
+pensatory damages, either in an administrative process 
+or in district court. 2 U.S.C. 1404. If the employee 
+elects to proceed in district court, the Congressional 
+Accountability Act states, in terms virtually identical to 
+Section 1981la(c)(1), that “[aJny party may demand a 
+jury trial.” 2 U.S.C. 1408(c). But if the employee elects 
+to pursue his complaint in the administrative process, 
+with ultimate review in the Court of Appeals for the 
+Federal Circuit, neither he nor his congressional em- 
+ployer has any right to a jury trial, including on the 
+issue of compensatory damages. 
+
+b. The court of appeals’ reliance on Section 
+1981la(c)(1) is premised on its perception that the pro- 
+vision was designed to confer “a significant procedural 
+right” on federal agencies and other employers. Pet. 
+App. 10a. But Congress itself does not appear to have 
+viewed Section 1981a(c)(1) in that manner. 
+
+To the contrary, to the extent that members of Con- 
+gress addressed the jury trial provision that became 
+Section 198la(c)(1) during their consideration of the 
+Civil Rights Act of 1991, they portrayed the provision 
+as a benefit to employees and a detriment to em- 
+
+
+istrative process; he is instead proceeding under 42 U.S.C. 2000e- 
+16(b), which, as discussed above, gives the EEOC the “authority to 
+enforce” Title VII against federal agencies “through appropriate 
+remedies.” Section 198la does, of course, inform which remedies 
+may appropriately be awarded by the EEOC in the administrative 
+
+
+process. 
+
+
+30 
+
+
+ployers.” The House Report specifically addressed 
+concerns expressed by employers that juries would 
+award disproportionately high damages to employees in 
+Title VII cases, noting that jury discretion would be 
+constrained by damages caps, by restricting damages to 
+cases of intentional discrimination, and by the “addi- 
+tional check” provided by judges. H.R. Rep. No. 40, 
+102d Cong., Ist Sess. Pt. 2, at 72 (1991); see 42 U.S.C. 
+198la(a)(1), (2) (intent requirement); 42 U.S.C. 
+
+
+” See, e.g., 137 Cong. Ree. 29,053-29,054 (1991) (statement of 
+Sen. Wallop) (expressing concern that jury awards in Title VII 
+cases would have an “economically devastating” impact on em- 
+ployers); id. at 29,051 (statement of Sen. Leahy) (noting that “{flor 
+the first time, women and the disabled could recover damages and 
+have jury trials for claims of intentional discrimination” as a result 
+of the legislation); id. at 29,041 (statement of Sen. Bumpers) (ac- 
+knowledging employers’ concerns about “being exposed to a run- 
+away jury”); id. at 29,030 (statement of Sen. Symms) (asserting 
+that “huge monetary award amounts are encouraged through jury 
+trials”); id. at 29,021-29,022 (statement of Sen. Wirth) (stating that 
+legislation “laid aside the misguided idea of denying women from 
+having a jury determine whether or not they have been wronged”); 
+id. at 28,926 (statement of Sen. Heflin) (describing provision as 
+“allowling] jury trials for victims of sexual bias”). 
+
+See also, e.g., 137 Cong. Rec. 30,690 (1991) (statement of Rep. 
+Dixon) (describing provision as “permit({ting] jury trials for victims 
+of bias”); id. at 30,677 (statement of Rep. Hyde) (expressing con- 
+cern that provision would operate to the detriment of employers); 
+id, at 30,668 (statement of Rep. Ford) (describing provision as 
+“providing all victims of intentional discrimination a right to trial 
+by jury”); id. at 30,644 (statement of Rep. Doolittle) (describing 
+various provisions of legislation, including “jury trials” provision, 
+as creating “a tremendous injustice and burden to any employer”). 
+
+All of those quoted, other than Senators Wallop and Symms and 
+Representative Doolittle, ultimately voted in favor of the legis- 
+lation. 
+
+
+31 
+
+
+1981a(b)(3) (damages caps).” President Bush, in sign- 
+ing the Civil Rights Act of 1991, also expressed the 
+view that the jury trial provision, in particular, was an 
+“important source of the controversy that delayed 
+enactment of this legislation,” which was resolved only 
+by placing caps on the damages that juries could award 
+against employers. Statement of President George 
+Bush Upon Signing S. 1745, 27 Weekly Comp. Pres. 
+Doc. 1701 (Nov. 25, 1991). No similar concerns were ex- 
+pressed that juries might, out of syinpathy for em- 
+ployers, award disproportionately low damages in Title 
+VII cases. 
+
+The perception that jury trials in employment- 
+discrimination cases tend to be beneficial to employees, 
+and detrimental to employers, is generally shared by 
+legal scholars, practitioners, and employers. In 1989, 
+for example, Professor Eisenberg noted, based on data 
+compiled by the Administrative Office of the United 
+States Courts for the period 1979 to 1987, “the abysmal 
+success rate of plaintiffs in employment-discrimination 
+cases tried before judges (19.2%), a rate less than one- 
+half that of employment trials before juries.” Theodore 
+
+
+21 The jury trial provision of the Civil Rights Act of 1991, as well 
+as the predecessor legislation that was vetoed by President Bush 
+in 1990, was generally opposed by employer interests. See, ¢.g., 
+Civil Rights Act of 1991: Hearings on H.R. 1 Before the Subcomm. 
+on Civil and Constitutional Rights of the House Comm. on the 
+Judiciary, 102d Cong., 1st Sess. 125-126 (1991) (representative of 
+the National Association of Manufacturers and the Society for 
+Human Resource Management); 2 Hearings on H.R. 4000, The 
+Civil Rights Act of 1990: Joint Hearings Before the House Comm. 
+on Education and Labor and the Subcomm. on Civil and Con- 
+stitutional Rights of the House Comm. on the Judiciary, 101st 
+Cong., 2d Sess. 126-130 (1990) (representative of the U.S. Chamber 
+of Commerce); id. at 221-223 (representative of the National Retail 
+Federation). 
+
+
+32 
+
+
+Eisenberg, Litigation Models and Trial Outcomes in 
+Civil Rights and Prisoner Cases, 77 Geo. L.J. 1567, 
+1597 (1989). Professor Eisenberg relied on some of the 
+same data in subsequently testifying before Congress 
+in favor of the jury trial and compensatory and punitive 
+damages provisions of the Civil Rights Act of 1991. 2 
+Hearings on H.R. 4000, The Civil Rights Act of 1990: 
+Joint Hearings Before the House Comm. on Education 
+and Labor and the Subcomm. on Civil and Constitu- 
+tional Rights of the House Comm. on the Judiciary, 
+101st Cong., 2d Sess. 154-155 (1990) (noting that plain- 
+tiffs’ success rate in employment-discrimination cases 
+tried to juries was 39%).™ 
+
+
+= See also, eg., John J. Ross, The Employment-Law Year in 
+Review (1991-1992), 441 PLI Litig. & Admin. Practice Course 
+Handbook Series 7, 13 (1992) (“From an employer’s viewpoint 
+many believe the availability of jury trials, under Title VII and the 
+Americans with Disabilities Act, is the most troubling aspect of the 
+Civil Rights Act of 1991.”); accord Rachel H. Yarkon, Bargaining 
+in the Shadow of the Lawyers: Negotiated Settlement of Gender 
+Discrimination Claims Arising from Termination of Employ- 
+ment, 2 Harv. Negotiation L. Rev. 165, 174-175 (1997) (“The 1991 
+Act increased potential liability for employers * * * by creating 
+the right to a jury trial.”); Donna M. Gitter, French Criminaliza- 
+tion of Racial Employment Discrimination Compared to the Im- 
+position of Civil Penalties in the United States, 15 Comp. Lab. 
+LJ. 488, 521 (1994) (observing that “judges in the United States 
+are perceived as less likely than a lay jury to be sympathetic to and 
+deliver a verdict in favor of a plaintiff” in an employment-discrimi- 
+nation case); Sharlene A. McEvoy, The Umpire Strikes Out: 
+Postema v. National League: Major League Gender Discrimina- 
+tion, 11 U. Miami Ent. & Sports L. Rev. 1, 25 (1993) (“Jury trials 
+are viewed as being harder for employers to win than trials heard 
+by judges, because juries generally consist of peers of the em- 
+ployee.”); Mary Kathryn Lynch, The Equal Employment Oppor- 
+tunity Commission: Comments on the Agency and Its Role in 
+Employment Discrimination Law, 20 Ga. J. Int’l & Comp. L. 89, 
+
+
+33 
+
+
+Congress could thus have concluded that federal 
+agencies did not need, and would not want, a jury trial 
+right on all claims for compensatory damages under 
+Title VII—a right that would preclude many such 
+claims from being fully resolved at the administrative 
+level without resort to the courts. Congress could 
+instead have decided that the EEOC, with its expertise 
+in adjudicating Title VII claims in the federal sector, 
+would provide agencies sufficient protection against 
+unwarranted damages claims. 
+
+3. The court of appeals also rested its decision in this 
+case on the view that Congress did not specifically 
+waive the United States’ sovereign immunity from 
+compensatory damages awards by the EEOC. Pet. 
+App. lla-12a. The court correctly recognized the well- 
+settled rule that “a waiver of sovereign immunity is to 
+be strictly construed, in terms of its scope, in favor of 
+the sovereign.” Department of the Army v. Blue Fox, 
+Inc., 119 S. Ct. 687, 691 (1999); accord Lehman v. 
+Nakshian, 453 U.S. 156, 161 (1981) (“limitations and 
+conditions upon which the Government consents to be 
+sued must be strictly observed and exceptions thereto 
+are not to be implied”). But the court did not correctly 
+apply that rule to the circumstances of this case. 
+
+Tne court of appeals acknowledged that Congress has 
+waived the United States’ immunity with respect to 
+compensatory damages claims in Title VII actions in 
+district court. Pet. App. lla-12a; see 42 U.S.C. 
+198la(a)(1). Indeed, the court noted that Congress has 
+even consented, on behalf of the United States, to the 
+trial of such claims before a jury, at the demand of the 
+plaintiff. Pet. App. 12a; see 42 U.S.C. 198la(c)(1). The 
+
+
+103 (1990) (“Juries are now seen to be more sympathetic to Title 
+VII claimants than are the judges.”). 
+
+
+34 
+
+
+only question that remains, therefore, is whether such a 
+waiver extends to administrative proceedings before 
+the EEOC, The court offered no authority or logic for 
+concluding that a waiver of a sovereign’s immunity, 
+which indisputably applies in the sovereign’s courts, 
+should not also presumptively apply in the sovereign’s 
+administrative agencies. Such agencies could be 
+expected to accord the sovereign’s interests at least as 
+much consideration as would a judge or a jury. 
+
+Here, moreover, Congress has expressly granted the 
+EEOC broad adjudicatory authority over claims 
+against the United States under Title VII, including the 
+authority to award all “appropriate remedies” with 
+respect to such claims. 42 U.S.C. 2000e-16(b). Those 
+remedies have historically included monetary ones (e.g., 
+“back pay”) as well as equitable ones (e.g., “reinstate- 
+ment or hiring”). /bid. Accordingly, Section 1981a(a)(1) 
+and Section 2000e-16(b), construed together, express 
+with sufficient clarity Congress’s intent to waive the 
+United States’ sovereign immunity with respect to all 
+Title VII compensatory damages awards, in admin- 
+istrative and judicial proceedings alike.” 
+
+
+* A waiver of sovereign immunity that encompasses both judi- 
+cial and administrative proceedings is coextensive with the waiver 
+of sovereign immunity in the Congressional Accountability Act of 
+1995, which expressly makes compensatory damages available to 
+congressional employees in administrative proceedings as well as 
+judicial proceedings. See pp. 22-24, supra. Such a waiver of sover- 
+eign immunity is also consistent with that in the Government 
+Employee Rights Act, a portion of the Civil Rights Act of 1991, 
+which expressly made compensatory damages available to Senate 
+employees in administrative proceedings. It would be anomalous 
+for Congress to have waived sovereign immunity with respect to 
+administrative proceedings involving congressional employees but 
+not to have waived sovereign immunity with respect to admini- 
+strative proceedings involving employees of federal agencies. 
+
+
+35 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed. 
+
+
+Respectfully submitted. 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+
+DAVID W. OGDEN 
+
+Acting Assistant Attorney 
+General 
+
+
+BARBARA D, UNDERWOOD 
+Deputy Solicitor General 
+
+
+BARBARA MCDOWELL 
+Assistant to the Solicitor 
+General 
+MARLEIGH D. DOVER 
+STEVEN I. FRANK 
+Attorneys 
+
+
+FEBRUARY 1999 
+
+

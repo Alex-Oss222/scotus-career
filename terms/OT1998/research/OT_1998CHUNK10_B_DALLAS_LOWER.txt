@@ -1,0 +1,560 @@
+URL: https://openjurist.org/150/f3d/438/dallas-fire-fighters-association-v-dallas-tx-city-a-cantu
+
+150 F.3d 438 - Dallas Fire Fighters Association v. Dallas Tx City a Cantu | OpenJurist
+https://openjurist.org/150/f3d/438/dallas-fire-fighters-association-v-dallas-tx-city-a-cantu
+Public-domain · open source
+ Menu
+Cases 
+Code 
+Courts 
+Judges 
+Dictionaries 
+Books 
+OpenJurist
+›
+Volume 150
+›
+F.3d
+›
+Page 438
+150 F.3d 438
+ Docket No. 96-11138.
+Dallas Fire Fighters Association v. Dallas Tx City a Cantu
+ Full caption · 4 consolidated cases 
+DALLAS FIRE FIGHTERS ASSOCIATION; Tony L. Speck; John W. McKinney; Harold Jerpi, Jr.; Michael L. McGehee; Joseph E. McKenna; Danny Beck; Curtis P. Julian; Louie McKay, Jr.; Richard Wachsman; Hal Collins; Haskell Willeford; Michael A. Davault, on behalf of Michael E. Davault
+v.
+DALLAS TX., CITY of; Dodd Miller, Chief, Defendants-Appellants. Jesus A. CANTU, Jr.; Tommy Crawford; Paul Edward Davis; Richard Earl Gambrell; Stephen Louis Mulvany; Ronnie W. Roe; Glenn Truex; Bryant E. Tillery; Thomas R. Tanksley; Sammy Don Sline; Johnny L. Rudder; Jimmy L. Patton; Robert A. Davis; Gregory J. Courson; Ray F. Reed; Donnie G. Campbell; Gerald D. Brown; Johnny K. Bates; Roy G. Ferguson; Ken Bailey; Thomas E. Taylor; Charles Richard Saunders, Jr.; Paul W. Julian; Michael J. Hughes
+Keck, Sr
+v.
+DALLAS, TX., CITY of; Dodd Miller, Chief, Defendants-Appellants. Paul A. SKOOG; James B. Lamar; John R. Colwick; Kurtis R. Allen; John D. Shook; David D. Kinney; Samuel C. Brodner; Kyle G. Cowden; Russell T. Jones; James R. Jones; Ronald W. Hall; John D. Sutton; James C. Pearson; James E. Byford; George Tomasovic; Steven B. Wise; Brent K. Rogers; John P. Nimmo; James A. Jordan; Arthur R. Sullivan, Jr.; Gary P. Baczkowski; Glenn D. Dickerson; Wallace J. Graves; Jack S. Martin; Randy M. Myers; Rob
+Mainz
+v.
+DALLAS, TX., CITY of; Dodd Miller, Chief, Defendants-Appellants. Kenneth D
+MOORE, Micharl Watson
+v.
+DALLAS, TX., CITY of; Dodd Miller, Chief
+United States Court of Appeals, Fifth Circuit.
+Aug. 5, 1998.
+ Cited by 
+8
+ later decisions
+ — most recently January 2008
+1 district · 
+ Applies 
+TX LA § 21.001
+ Relies on 
+International Brotherhood of Teamsters v. United States
+ · 
+City of Richmond v. J. A. Croson Co.
+ · 
+Mississippi University for Women v. Hogan
+Good law ✅
+— No negative treatment on record
+how we know
+Decided 1998-08-05
+ View the full empirical analysis of this case → 
+    
+      
+Hal K. Gillespie, Dale Mark Rodriguez, Gillespie, Rozen, Tanner & Watsry, Dallas, TX, for Plaintiffs-Appellees.
+      
+Sam A. Lindsay, City Atty., Janice Smith Moss, Asst. Atty. General, J. Lizbeth Islas, Dallas, TX, for Defendants-Appellants.
+      
+Appeal from the 
+United States District Court for the Northern District of Texas.
+      
+Before POLITZ, Chief Judge, and HIGGINBOTHAM and SMITH, Circuit Judges.
+      
+POLITZ, Chief Judge:
+    
+    
+      
+¶1
+      
+The City of Dallas appeals an adverse summary judgment striking down as violative of constitutional and statutory protections race and gender-conscious promotions made under the City's affirmative action plan.  The City also appeals the denial of a motion for summary judgment regarding the validity of an appointment of a black firefighter to the position of deputy chief.  For the reasons assigned, we affirm in part and reverse and render in part.BACKGROUND
+    
+    
+      
+¶2
+      
+The Dallas Fire Department (DFD) has the following rank structure, beginning with the entry level position:  (1) fire and rescue officer, (2) driver-engineer, (3) lieutenant, (4) captain, (5) battalion chief, (6) deputy chief, (7) assistant chief, and (8) chief.  Positions are filled only from within the department.  The city manager appoints the chief who in turn appoints the assistant and deputy chiefs.  For battalion chief and below, firefighters become eligible to take a promotion examination for advancement to the next highest rank after a certain amount of time in grade.  Those passing the examination are placed on an eligibility roster, listed in accordance with their scores.  Vacancies occurring thereafter are filled by promoting individuals from the top of the eligibility list, unless there is a countervailing reason such as unsatisfactory performance, disciplinary problems, or non-paramedic status.
+    
+    
+      
+¶3
+      
+In 1988 the City Council adopted a five-year affirmative action plan for the DFD, extending same for five years in 1992 with a few modifications.  In an effort to increase minority and female representation the DFD promoted black, hispanic, and female firefighters ahead of male, nonminority firefighters who had scored higher on the promotion examinations.  Between 1991 and 1995 these promotions occasioned four lawsuits filed by the Dallas Fire Fighters Association on behalf of white and Native American male firefighters who were passed over for promotions.  These actions were consolidated by the district court.
+    
+    
+      
+¶4
+      
+The plaintiffs consist of four groups, three of which contend that the DFD impermissibly denied them promotions to the ranks of driver-engineer, lieutenant, and captain respectively.  Additionally, a fourth group of plaintiffs challenges the fire chief's appointment of a black male to deputy chief in 1990.  The plaintiffs claim that the City and the fire chief, Dodd Miller, acting in his official capacity, violated:  (1) the 
+fourteenth amendment
+ of the 
+United States Constitution
+,
+1
+ (2) the equal rights clause of the Texas Constitution, (3) 
+Title VII of the Civil Rights Act of 1964
+, 42 U.S.C. §§ 2000e et seq., and (4) article 5221k of the Texas Civil Statutes.
+2
+    
+    
+      
+¶5
+      
+The district court granted summary judgment in favor of the plaintiffs challenging the out-of-rank promotions, finding violations of their constitutional and statutorily protected rights.  The court denied the City's motions for summary judgment, and denied the plaintiffs' motion for summary judgment as to the deputy chief appointment.  The court subsequently entered an order consolidating the action that had yet to be resolved.  Thereafter the court entered an agreed order regarding remedies and entered final judgment in the consolidated action.  The City timely appealed.
+    
+    
+ANALYSIS
+    
+1. Standard of Review
+    
+      
+¶6
+      
+We review a district court's entry of summary judgment de novo, applying the same standards used by the district court.
+3
+  Summary judgment is only proper if there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law.
+4
+    
+    
+2. The Out-of-Rank Promotions
+5
+    
+A. Race-Conscious Promotions
+    
+      
+¶7
+      
+To survive an equal protection challenge under the 
+fourteenth amendment
+, a racial classification must be tailored narrowly to serve a compelling governmental interest.
+6
+  That standard applies to classifications intended to be remedial, as well as to those based upon invidious discrimination.
+7
+  A governmental body has a compelling interest in remedying the present effects of past discrimination.
+8
+  In analyzing race conscious remedial measures we essentially are guided by four factors:  (1) necessity for the relief and efficacy of alternative remedies;  (2) flexibility and duration of the relief;  (3) relationship of the numerical goals to the relevant labor market;  and (4) impact of the relief on the rights of third parties.
+9
+    
+    
+      
+¶8
+      
+We conclude that on the record before us the race-based, out-of-rank promotions at issue herein violate the 
+equal protection clause
+ of the 
+fourteenth amendment
+.
+10
+  The only evidence of discrimination contained in the record is the 1976 consent decree between the City and the United States Department of Justice, precipitated by a DOJ finding that the City engaged in practices inconsistent with Title VII, and a statistical analysis showing an underrepresentation of minorities in the ranks to which the challenged promotions were made.  The record is devoid of proof of a history of egregious and pervasive discrimination or resistance to affirmative action that has warranted more serious measures in other cases.
+11
+  We are aware that the out-of-rank promotions do not impose as great a burden on nonminorities as would a layoff or discharge.  In light of the minimal record evidence of discrimination in the DFD, however, we perforce must conclude that the City is not justified in interfering with the legitimate expectations of those warranting promotion based upon their performance in the examinations.
+12
+    
+    
+      
+¶9
+      
+There are other ways to remedy the effects of past discrimination.  The City contends, however, that alternative measures employed by the DFD, such as validating promotion exams, recruiting minorities, eliminating the addition of seniority points to promotion exam scores, and initiating a tutoring program, have been unsuccessful, as evidenced by the continuing imbalance in the upper ranks of the DFD. That minorities continue to be underrepresented does not necessarily mean that the alternative remedies have been ineffective, but merely that they apparently do not operate as quickly as out-of-rank promotions.
+13
+    
+    
+B. Gender-Conscious Promotions
+    
+      
+¶10
+      
+Applying the less exacting intermediate scrutiny analysis applicable to genderbased affirmative action,
+14
+ we nonetheless find the gender-based promotions unconstitutional.  The record before us contains, as noted above, little evidence of racial discrimination;  it contains even less evidence of gender discrimination.  Without a showing of discrimination against women in the DFD, or at least in the industry in general, we cannot find that the promotions are related substantially to an important governmental interest.
+    
+    
+C. Title VII
+    
+      
+¶11
+      
+Having struck down the out-of-rank promotions as unconstitutional, we need not address their validity under Title VII or Texas article 5221k.
+    
+    
+3. The Deputy Chief Appointment
+    
+      
+¶12
+      
+The City contends that the district court erred in failing to grant its motion for summary judgment on the ground that Chief Miller's appointment of Robert Bailey, a black male, to deputy chief violated neither Title VII nor article 5221k.
+15
+  To determine the validity of the appointment we must examine whether it was justified by a manifest imbalance in a traditionally segregated job category and whether the appointment unnecessarily trammeled the rights of nonminorities or created an absolute bar to their advancement.
+16
+  The plaintiffs do not dispute that there is a manifest imbalance in the rank of deputy chief and we therefore limit our discussion to the second prong of the Johnson test.
+    
+    
+      
+¶13
+      
+The only summary judgment evidence specific to the Bailey appointment is the affidavit of Chief Miller in which he states:
+    
+    
+      
+¶14
+      
+In 1990, I selected Robert Bailey as Deputy Chief because I believed he was capable of performing the job responsibilities of the position of Deputy Chief, and he was recommended by my executive staff.  In addition, the appointment of Chief Bailey was made pursuant to the City of Dallas Affirmative Action Plan.
+    
+    
+      
+¶15
+      
+The City contends that Chief Miller's statement reflects that, in appointing Bailey, he considered race as one factor among many, making the appointment permissible under Johnson.  The plaintiffs concede that Bailey was qualified but insist that the reference to the affirmative action plan, and the failure of Chief Miller to explain how Bailey compared to other candidates, established that Chief Miller based his final decision solely upon race.  The plaintiffs also contend that the promotional goals in the affirmative action plan are out of proportion to the percentage of available candidates, demonstrating that the appointment was made to fulfill impermissible goals and, thus, unnecessarily trammeled the rights of nonminorities.
+    
+    
+      
+¶16
+      
+The plaintiffs' position is that any employment decision utilizing the affirmative action plan is illegal.  We decline to accept that contention, particularly in light of the fact that the validity of the affirmative action plan is not in question herein.  We are persuaded beyond peradventure that the mere reference to the affirmative action plan does not create a fact issue concerning whether Chief Miller had an impermissible motive in promoting Bailey.  The only relevant summary judgment evidence reflects that Chief Miller chose Bailey based upon substantially more than just his race, and the opponents have failed to produce any acceptable material evidence to the contrary.
+17
+  We therefore conclude that the appointment did not unnecessarily trammel the rights of nonminorities or pose an absolute bar to their advancement.  Accordingly, the appointment was consistent with Title VII and article 5221k and the district court erred in failing to grant the City's motion for summary judgment upholding its validity.
+    
+    
+4. Conclusion
+    
+      
+¶17
+      
+For the foregoing reasons, we AFFIRM the judgment striking down the out-of-rank promotions and we REVERSE and RENDER judgment in favor of the City, upholding the validity of the deputy chief appointment.
+    
+    
+      
+¶18
+      
+JERRY E. SMITH, Circuit Judge, dissenting in part:
+    
+    
+      
+¶19
+      
+Although I join the panel opinion insofar as it affirms the judgment holding unconstitutional the Dallas Fire Department's "skip promotion" practice used to advance the "goals" of its affirmative action plan, I would also affirm the district court's decision to allow those plaintiffs who sought the Deputy Chief position ("the Deputy Chief plaintiffs") to proceed to trial on their claims.  I therefore respectfully dissent in part.
+    
+    
+      
+¶20
+      
+The Deputy Chief plaintiffs vary from the other plaintiffs in an important respect.  The promotion system for the other plaintiffs was strictly mathematical, so it is known that persons were promoted solely on the basis of race.  The Deputy Chief, on the other hand, was appointed by Chief Dodd Miller.  It is possible that he considered factors in addition to race in deciding whom to promote.
+    
+    
+      
+¶21
+      
+There is a genuine issue of material fact concerning Miller's motivations.  He may have followed the unconstitutional "skip promotion" practice by deciding who was qualified for the job, then promoting the qualified minority candidate, if one existed.  If he did so, the promotion was just as illegal as were the other promotions.
+    
+    
+      
+¶22
+      
+In his affidavit, Miller swears that he considered factors other than race.  He never states, however, that his decision was not ultimately controlled by the "goals" of the affirmative action plan.
+1
+  The existence of that generally-enforced plan, with its generally-applicable "goals," creates a genuine issue of material fact concerning Miller's motivations.  See 
+Messer v. Meno
+, 
+130 F.3d 130, 137
+-39 (5th Cir.1997).  For this reason, summary judgment was inappropriate, and this claim should proceed to trial.
+    
+    
+      
+¶23
+      
+Accordingly, because the judgment should be affirmed in its entirety, I respectfully dissent in part.
+    
+    
+      
+        
+1
+        
+ This claim is brought under 
+42 U.S.C. § 1983
+      
+      
+        
+2
+        
+ Now codified as 
+Tex.  Labor Code §§ 21.001
+ et seq
+      
+      
+        
+3
+        
+Orleans Parish School Bd. v. Asbestos Corp.
+, 
+114 F.3d 66
+ (5th Cir.1997)
+      
+      
+        
+4
+        
+Fed.R.Civ.P. 56(c)
+      
+      
+        
+5
+        
+ We address only the validity of the out-of-rank promotions and not the affirmative action plan as a whole
+      
+      
+        
+6
+        
+City of Richmond v. J.A. Croson Co.
+, 
+488 U.S. 469
+, 
+109 S.Ct. 706
+, 
+102 L.Ed.2d 854
+ (1989)
+      
+      
+        
+7
+        
+Id
+      
+      
+        
+8
+        
+ Local 28 of Sheet Metal Workers' 
+Int'l Ass'n v. E.E.O.C.
+, 
+478 U.S. 421
+, 
+106 S.Ct. 3019
+, 
+92 L.Ed.2d 344
+ (1986)
+      
+      
+        
+9
+        
+United States v. Paradise
+, 
+480 U.S. 149
+, 
+107 S.Ct. 1053
+, 
+94 L.Ed.2d 203
+ (1987) (4-justice plurality);  Black Fire Fighters Ass'n of 
+Dallas v. City of Dallas
+, 
+19 F.3d 992
+ (5th Cir.1994)
+      
+      
+        
+10
+        
+ We also find a violation of the equal rights clause of the Texas constitution which is construed in conformity with the federal constitution.  
+Rose v. Doctors Hospital
+, 
+801 S.W.2d 841
+ (Tex.1990)
+      
+      
+        
+11
+        
+ Compare Paradise, 
+480 U.S. at 167
+, 
+107 S.Ct. 1053
+ (finding "pervasive, systematic, and obstinate discriminatory conduct" which "created a profound need and a firm justification for the race-conscious relief ordered by 
+the District Court
+");  Sheet Metal Workers, 
+478 U.S. at 421
+, 
+106 S.Ct. 3019
+ (upholding race-based remedy where there was egregious record of discrimination and official resistance to practices aimed at ending discrimination);  see also Black Fire Fighters Ass'n, 
+19 F.3d at 996
+ (contrasting the DFD's employment practices with that found in Sheet Metal Workers and 
+International Brotherhood of Teamsters v. United States
+, 
+431 U.S. 324
+, 
+97 S.Ct. 1843
+, 
+52 L.Ed.2d 396
+ (1977), where there was "a pattern of lying to minority applicants and deliberately losing their applications.")
+      
+      
+        
+12
+        
+ See Black Fire Fighters Ass'n
+      
+      
+        
+13
+        
+ The City points to several features of the promotional plan that weigh in favor of its constitutionality, e.g., (1) only qualified individuals are promoted;  (2) the DFD uses banding of test scores to ensure that the beneficiaries of the out-of-rank promotions are equally qualified to those whom they pass over;  (3) the affirmative action plan under which the promotions are made lasts only five years;  (4) the affirmative action promotions to a rank will cease when the manifest imbalance in the rank is eliminated;  and (5) only 50% of annual promotions to a rank may be made under the affirmative action plan.  Although those factors support the City's position, they are not enough to overcome the minimal record evidence of discrimination that is sufficient to support only the use of less intrusive alternative remedies
+      
+      
+        
+14
+        
+ See 
+Mississippi University for Women v. Hogan
+, 
+458 U.S. 718
+, 
+102 S.Ct. 3331
+, 
+73 L.Ed.2d 1090
+ (1982)
+      
+      
+        
+15
+        
+ Article 5221k states that it is intended to achieve the goals embodied in Title VII.  See also 
+Chevron Corp. v. Redmon
+, 
+745 S.W.2d 314
+ (Tex.1987).  We note that neither the parties nor the district court make any mention of the constitutionality of the deputy chief appointment.  We therefore decline to address that issue
+      
+      
+        
+16
+        
+Johnson v. Transportation Agency
+, 
+480 U.S. 616
+, 
+107 S.Ct. 1442
+, 
+94 L.Ed.2d 615
+ (1987)
+      
+      
+        
+17
+        
+ The plaintiffs contend that a triable issue of fact exists because Chief Miller's affidavit is inconsistent with the City's response to an interrogatory concerning the reason for Bailey's appointment, which does not mention the recommendation by the executive staff.  This contention is wholly lacking in merit
+      
+      
+        
+1
+        
+ The "goals" applied to across-the-board hiring decisions, including those regarding "Fire Executives," such as Deputy Chiefs
+      
+    
+    
+Share
+Print
+ Download 
+.txt
+PDF
+ Copy 
+URL
+Citation Link
+Bluebook
+ Embed on your site 
+iframe
+Markdown
+Preview card
+Button
+Hover to preview · click to copy the code
+Cite on Wikipedia
+Search Wikipedia →
+Report a problem
+What went wrong?
+10 to 2,000 characters. 
+0 so far
+, 2,000 left. 
+Your email (optional)
+Website
+ We store your message, the page address, and your email only if you give it. We do not store your IP address. 
+Send
+ Cancel 
+Panel
+Henry Anthony Politz
+HI
+HIGGINBOTHAM
+SM
+SMITH
+ Parties 
+appellee:
+DALLAS FIRE FIGHTERS ASSOCIATION; Tony L. Speck; John W. McKinney; Harold Jerpi, Jr.; Michael L. McGehee; Joseph E. McKenna; Danny Beck; Curtis P. Julian; Louie McKay, Jr.; Richard Wachsman; Hal Collins; Haskell Willeford; Michael A. Davault, on behalf of Michael E. Davault
+appellant:
+DALLAS TX., CITY of; Dodd Miller, Chief, Defendants-Appellants. Jesus A. CANTU, Jr.; Tommy Crawford; Paul Edward Davis; Richard Earl Gambrell; Stephen Louis Mulvany; Ronnie W. Roe; Glenn Truex; Bryant E. Tillery; Thomas R. Tanksley; Sammy Don Sline; Johnny L. Rudder; Jimmy L. Patton; Robert A. Davis; Gregory J. Courson; Ray F. Reed; Donnie G. Campbell; Gerald D. Brown; Johnny K. Bates; Roy G. Ferguson; Ken Bailey; Thomas E. Taylor; Charles Richard Saunders, Jr.; Paul W. Julian; Michael J. Hughes
+appellee:
+Keck, Sr
+appellant:
+DALLAS, TX., CITY of; Dodd Miller, Chief, Defendants-Appellants. Paul A. SKOOG; James B. Lamar; John R. Colwick; Kurtis R. Allen; John D. Shook; David D. Kinney; Samuel C. Brodner; Kyle G. Cowden; Russell T. Jones; James R. Jones; Ronald W. Hall; John D. Sutton; James C. Pearson; James E. Byford; George Tomasovic; Steven B. Wise; Brent K. Rogers; John P. Nimmo; James A. Jordan; Arthur R. Sullivan, Jr.; Gary P. Baczkowski; Glenn D. Dickerson; Wallace J. Graves; Jack S. Martin; Randy M. Myers; Rob
+appellee:
+Mainz
+appellant:
+DALLAS, TX., CITY of; Dodd Miller, Chief, Defendants-Appellants. Kenneth D
+appellee:
+MOORE, Micharl Watson
+appellant:
+DALLAS, TX., CITY of; Dodd Miller, Chief
+/150/f3d/438 · 
+.json
+ · Public domain 
+ The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open. 
+ U.S. Government work · public domain · not legal advice 
+With special thanks to
+ Browse the record 
+Cases
+Code
+Law Dictionary
+Federal Judges
+Courts
+Law Schools
+Named Statutes
+Founding Documents
+Books
+Citation Checker
+ For developers + AI agents 
+Developers & API
+/llms.txt
+JSON API
+♥
+ Support OpenJurist 
+© 2026 OpenJurist
+♿
+ Accessibility 
+ Accessibility 
+ × 
+ These preferences are saved in your browser. 
+Text size
+ A− 
+100%
+ A+ 
+High contrast
+Darker text, underlined links
+Readable font
+A wider, more legible typeface
+Reduce motion
+Minimise animations and transitions
+ Reset to defaults 
+ Accessibility statement 
+ Contact 
+ Returns & Refunds 
+ Attributions 
+ Terms of Use 
+ Privacy Policy 
+Report a problem with this page
+What went wrong?
+10 to 2,000 characters. 
+0 so far
+, 2,000 left. 
+Your email (optional)
+Website
+ We store your message, the page address, and your email only if you give it. We do not store your IP address. 
+Send
+ Cancel 

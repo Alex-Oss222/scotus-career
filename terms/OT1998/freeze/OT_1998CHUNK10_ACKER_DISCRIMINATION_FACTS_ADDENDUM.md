@@ -1,0 +1,11 @@
+# Acker — sanitized discrimination-preservation source addendum
+
+Research cutoff: June 21, 1999. This handoff supplies only objective lower-record and party-presentation facts for clean neutral validation. It supplies no Supreme Court outcome, reasoning, lineup, private position, or proposed vote.
+
+1. The district court rejected the assertion that the county tax discriminated against federal officers or employees because of the federal source of their compensation. Pinpoint: *Jefferson County v. Acker*, 850 F. Supp. 1536, 1539–1540 (N.D. Ala. 1994). This is a lower-court determination, not an agreed fact or controlling Supreme Court rule.
+2. The en banc appellate opinion states that no contention on appeal challenged that determination as erroneous. Pinpoint: 92 F.3d 1561, 1566 n.9 (11th Cir. 1996). The statement's preservation consequence remains a legal question. It does not establish intentional waiver of every related argument.
+3. Respondents nevertheless pressed the discrimination argument as an alternative ground for affirmance in the merits brief, pp.34–37. That is a party argument; it does not undo the lower procedural history or establish the argument's correctness.
+
+These facts are expressly recited, with the exact lower and brief pinpoints, in the publicly reported source at [Cornell, footnote 13](https://www.law.cornell.edu/supct/html/98-10.ZO.html#FN13) (527 U.S.423,439–440 n.13). The full page contains excluded matter-specific material and must not be supplied to the fresh neutral/model context. The source-research controller can verify the quoted lower materials independently in [the original docket collection](https://archive.org/details/micro_IA40385014_0205): petition/lower opinions document02 and respondents merits document06.
+
+Clean validation should keep the district-court determination, appellate treatment, and renewed alternative-ground argument distinct; the existing packet's blanket description of the exemption comparison as unresolved omits that history. The separate Compensation Clause ruling was not reached by the en banc appellate merits decision and has a different status. No conclusion about which present disposition follows is supplied here.

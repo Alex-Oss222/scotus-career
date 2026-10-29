@@ -1,0 +1,40 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+  
+	gtag('config', 'G-PDVVHXRDE6');
+window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+Maryland v. Dyson
+LII
+Supreme Court
+()
+Syllabus
+Opinion
+[  ]
+Dissent
+[ Breyer ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Breyer, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+MARYLAND
+v.
+KEVIN DARNELL DYSON
+ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF SPECIAL APPEALS OF MARYLAND
+No. 98—1062.  Decided June 21, 1999
+Justice Breyer, with whom Justice Stevens joins, dissenting.
+I agree that the Court’s
+per curiam
+opinion correctly states the law, but because respondent’s counsel is not a member of this Court’s bar and did not wish to become one, respondent has not filed a brief in opposition to the petition for certiorari.  I believe we should not summarily reverse in a criminal case, irrespective of the merits, where the respondent is represented by a counsel unable to file a response, without first inviting an attorney to file a brief as
+amicus curiae
+in response to the petition for certiorari.  For this reason, I dissent from the
+per curiam
+opinion.

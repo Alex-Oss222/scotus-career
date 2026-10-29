@@ -1,0 +1,3044 @@
+| Suprame Court, Uf 
+fl FILEQD 
+
+
+No. 97-1943 MAX 24 1999 
+
+
+— THE Ca 
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+KAREN SUTTON, ET AL.. 
+Petitioners, 
+v. 
+UNITED AIR LINES, INC., 
+
+
+Respondent. 
+
+
+On Writ of Certiorari to the United States 
+Court of Appeals for the Tenth Circuit 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+LISA HOGAN ROY T. ENGLERT, JR. 
+Counsel of Record MIRIAM R. NEMETZ 
+
+PATRICK F. CARRIGAN JAMES M. OLESKE, JR. 
+
+BETH DOHERTY QUINN Mayer, Brown & Platt 
+
+JEANINE M. ANDERSON 1909 K Street, N.W. 
+Brownstein Hyatt Washington, D.C. 20006 
+Farber & Strickland, P.C. (202) 263-3000 
+Twenty-second Floor 
+
+
+410 Seventeenth St. 
+Denver, CO 80202 
+(303) 534-6335 
+
+
+Counsel for Respondent 
+
+
+i 
+QUESTIONS PRESENTED 
+1. Whether fully correctable nearsightedness is a “disability” 
+under the Americans with Disabilities Act. 
+2. Whether a global air carrier’s decision to require pilot 
+applicants to have 20/100 or better uncorrected vision automatically 
+
+
+subjects it to litigation over whether it “regard{s] as” disabled 
+persons who do not meet its vision standards. 
+
+
+PARTIES TO THE PROCEEDING AND 
+RULE 29.6 STATEMENT 
+
+
+Petitioners Karen Sutton and Kimberly Hinton were plaintiffs 
+in the district court and appellants in the court of appeals. 
+Respondent United Air Lines, Inc., was defendant in the district 
+court and appellee in the court of appeals. There were no other 
+parties below. 
+
+
+The parent of United Air Lines, Inc., is UAL Corporation. 
+United Air Lines, Inc., has no subsidiaries that are not wholly 
+owned. 
+
+
+TABLE OF CONTENTS 
+Page 
+EE ee i 
+PARTIES TO THE PROCEEDING AND 
+ES ii 
+re Soo eS EWS eee cc ce ces v 
+ee WA, Swed o's 0 oc 00 oo « l 
+DEES INE ee eee I 
+ES EEE aes Pe Co a 1 
+SUMMARY OF ARGUMENT ................-..-. 4 
+ee a ON Ses dec ewes 6 
+I. CONGRESS DID NOT INTEND THE ADA TO COVER 
+PEOPLE WITH CORRECTABLE 
+
+EE OD ee 7 
+
+A. Correctable Nearsightedness ls A Common 
+
+Condition That Does Not Seriously Affect 
+The Lives Of Those Who Havelt............ 10 
+
+B. The ADA Protects A Discrete Minority Of 
+
+With Widespread, Trivial Impairments Like 
+Correctable Nearsightedness ............... 12 
+
+
+ll. AN IMPAIRMENT DOES NOT “SUBSTANTIALLY 
+LIMIT A MAJOR LIFE ACTIVITY” IF IT CAN BE 
+ee 21 
+
+
+(iii) 
+
+
+iV 
+
+
+Table of Contents - Continued 
+
+
+A. This Court Should Reject The EEOC’s 
+
+
+masa amie taamaeainndee 
+
+
+B. The Legislative History Does Not Justify An 
+Expansion Of The ADA To Require Disregard 
+For Cosrective Measures ........2222000-: 39 
+
+
+C. At The Very Least, The ADA Should Be Read 
+To Exclude Individuals With Widely Shared 
+And Easily Correctable Impairments .......... 43 
+Ill. AN INDIVIDUAL REJECTED FROM A PARTICULAR 
+
+
+JOB FOR FAILURE TO MEET PHYSICAL STANDARDS 
+IS NOT NECESSARILY “REGARDED AS DISABLED” 
+
+
+om: yt. AP oe eee 44 
+
+
+eee Fl Pee te ee eee 50 
+
+
+TABLE OF AUTHORITIES 
+Page(s) 
+Cases: 
+Arnold v. United Parcel Serv., Inc., 136 F.3d 854 
+
+Sr PS C6 30 os bs cee oe oh: 6 vb as 8, 36 
+Beecham v. United States, 511 U.S. 368 (1994) ......... 29 
+Blanchard v. Bergeron, 489 U.S. 87 (1989) ........... 42 
+Board of Governors v. Dimension Fin. Corp., 
+
+RT aS Oo re 26 
+Bowers v. Multimedia Cablevision, Inc., 1998 U.S. Dist. 
+
+LEXIS 19319 (D. Kan. Nov. 3, 1998) ............ 37 
+Bragdon v. Abbott, 118 S. Ct. 2196 (1998) ....... 8, 25, 35 
+Bridges v. City of Bossier, 92 F.3d 329 (Sth Cir. 1996), 
+
+‘cert. denied, 519 U.S. 1093 (1997) .............. 46 
+Burbank v. City of Idaho Falls, 1996 U.S. App. 
+
+LEXIS 24127 (9th Cir. Sept. 11, 1996) ........... 49 
+Bushendorf v. Freightliner Corp., 13 F.3d 1024 
+
+ys Le oe re 33 
+Cehrs v. Northeast Ohio Alzheimer’s Research Center, 
+
+ee ee Pe EE Soc ccc ewe eeeee 31, 44 
+Chandler v. City of Dallas, 2 F.3d 1385 
+
+UU hs Seo Die ae Oss 08's 18, 28, 46, 48 
+Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 (1984)... 23, 31 
+City of Chicago v. EDF, 511 U.S. 328 (1944) .......... 42 
+Cline v. Fort Howard Corp., 963 F. Supp. 1075 
+
+ED aS FE Oe OU es oi weces 7,17 
+Coghlan v. H.J. Heinz Co., 851 F. Supp. 808 
+
+Se EE bs o's o Ost BOO ek wee ees cecce 31 
+Cook v. Rhode Isiand, 10 F.3d 17 (ist Cir. 1993) ....... 46 
+
+
+Daugherty v. City of El Paso, 56 F.3d 695 (Sth Cir. 1995) . . 48 
+Deas v. Alternative Addiction Treatment Concepts, Inc. , 
+
+
+ge a ere eee 36, 46 
+Denson v. Village of Bridgeview, 19 F. Supp. 2d 829 
+
+es Es DE a oe OO 5 oe uO ED bb odd oe ewe 7 
+Director, OWCP v. Newport News Shipbuilding 
+
+& Dry Dock Co., 514 U.S. 122 (1995) ........... 33 
+
+
+(v) 
+
+
+Table of Authorities - Continued 
+Page(s) 
+
+Dole v. United Steelworkers of Am., 494 U.S. 26 
+to Pe oe ee hes 26, 29, 30 
+
+East Bay Mun. Util. Dist. v. Department of Commerce, 
+
+OG Fe a Gi ee 660 oe wilel@ ise wit aide 33 
+Fallacaro v. Richardson, 965 F. Supp. 87 (D.D.C. 1997) .. 7 
+Forrisi v. Bowen, 794 F.2d 931 (1986) .............. 43 
+
+
+General Elec. Co. v. Gilbert, 429 U.S. 125 (1976) .. .. 23, 25 
+Gilday v. Mecosta County, 124 F.3d 760 
+
+its Cin, I ik iid ea h his sxc oe 28, 44 
+Gordon v. E.1. Hamm & Assoc., 100 F.3d 907 
+
+(11th Cir. 1996), cert. denied, 118 S. Ct. 
+
+
+GD Ge x Cini So Fw BS Sli Sh te 2 On tin 30 
+Halperin v. Abacus Technology Corp., 128 F.3d 191 
+
+Gas Gis. Een 6 eo ik deeinsi de Winds 16, 27 
+Haworth v. Procter & Gamble Mfg. Co., 
+
+1998 WL 231062 (D. Kan. Apr. 30, 1998) ......... 35 
+Headrick v. Rockwell Int'l Corp., 24 F.3d 1272 
+
+ty Se ee vn ee 24 
+Hirschey v. FERC, 777 F.2d 1 (D.C. Cir. 1985) ........ 42 
+INS v. Cardoza-Fonseca, 480 U.S. 421 (1987). ......... 39 
+INS v. Phinpathya, 464 U.S. 183 (1984) ............. 27 
+Jasany v. United States Postal Serv., 755 F.2d 1244 
+
+LL ee ee Ee TE ORE 18 
+Joyce v. Suffolk County, 911 F. Supp. 92 (E.D.N.Y. 1996) . 7 
+K-mart Corp. v. Cartier, Inc., 486 U.S. 281 (1988) ...... 29 
+Katz v. City Metal Co., Inc. , 87 F.3d 26 (ist Cir. 1996) ... 31 
+Kelly v. Drexel Univ., 94 F.3d 102 (3d Cir. 1996) ....... 16 
+Kienast v. Frank, 1990 WL 711359 (EEOC Mar. 27, 1990) . 8 
+Medtronic, Inc. v. Lohr, 518 U.S. 470 (1996) .......... 48 
+Norris v. Allied-Sysco Food Servs., Inc., 
+
+948 F. Supp. 1418 (N.D. Cal. 1996) ............. 19 
+
+
+O'Connor v. Consolidated Coin Corp., 517 U.S. 308 (1996) . 15 
+Padilla v. City of Topeka, 708 P.2d 543 
+Gan. WED . dh adidi veh whew ds «chs 7, 17, 43 
+
+
+vil 
+Table of Authorities - Continued 
+Page(s) 
+
+Peacock v. County of Marin, 953 F. Supp. 306 
+
+ES EE ee et ee 7 
+Pennsylvania Dep't of Corrections v. Yeskey, 
+
+Ee eee 21 
+Public Employees Retirement Sys. v. Betts, 
+
+ee a a ong Sara db ek 0 6 c.b S dt» 26 
+Reynolds v. Brock, 815 F.2d 571 (9th Cir. 1987) ........ 42 
+Rodriguez v. United States, 480 U.S. 522 (1987) ........ 33 
+Roth v. Lutheran Gen. Hosp., 57 F.3d 1446 
+
+Skee os Saws PWM J dws te S0 18, 32 
+Ryan v. Grae & Rybicki, P.C., 135 F.3d 867 
+
+EN ty, dices Fe hdl Mar hwes 2 oe i010 bane 28 
+Santiago v. Temple Univ., 739 F. Supp. 974 
+
+
+(E.D. Pa. 1990), aff'd, 928 F.2d 396 (3d Cir. 1991) .. . 18 
+Schluter v. Industrial Coils, Inc., 928 F. Supp. 1437 
+
+
+Fe a RE a ee ee ee 7, 28 
+School Board of Nassau County v. Arline, 
+a a iarbipite-ele dca oe cleias 34, 50 
+
+
+Sharon v. Larson, 650 F. Supp. 1396 (E.D. Pa. 1986) .... 8 
+Shiflett v. GE Fanuc Automation Corp., 960 F. Supp. 1022 
+(W.D. Va. 1997), aff'd, 151 F.3d 1030 
+
+
+Ce Sa a TER RAR bid eee. 43 
+Sicard v. Sioux City, 950 F. Supp. 1420 (N.D. lowa 1996). . 8 
+Skidmore v. Swift & Co., 323 U.S. 134 (1944) ......... 25 
+
+
+Smith v. Norton Indus., 17 F. Supp. 2d 1094 (D.S.D. 1998) . 8 
+Southeastern Comm. College v. Davis, 442 U.S. 397 (1979) . 23 
+Still vy. Freeport-McMoran, Inc., 120 F.3d 50 
+
+
+Ge. Se des WA BEINA es. We ee. 18 
+Sweet v. Electronic Data Sys., Inc., 1996 U.S. Dist. 
+
+LEXIS 5544 (S.D.N.Y. Apr. 26, 1996) ......... 7, 18 
+Teamsters v. Daniel, 439 U.S. 551 (1979) ............ 23 
+Testerman v. Chrysler Corp., 1997 U.S. Dist. LEXIS 
+
+PB I EG UED vice seer cece. 7, 35 
+
+
+Thomas v. Davidson Academy, 846 F. Supp. 611 
+a eer ee Hd SO aia’ 31 
+
+
+viii 
+Table of Authorities - Continued 
+Page(s) 
+Trembczsynski v. Calumet City, 1987 WL 16604 (N.D. Ill., 
+
+[ee Eee eee LL 7 
+Tudyman v. United Airlines, 608 F. Supp. 739 
+
+KO 0 er oo PS RE 46 
+United Savings Ass'n v. Timbers of Inwood Forest Assocs., 
+
+ote | een etek 29 
+United States v. Heirs of Boisdoré, 49 U.S. (8 How.) 
+
+Ty, SARS a a eee ee 29 
+United States v. Wilson, 503 U.S. 329 (1992) .......... 28 
+United States Nat'l Bank of Oregon v. Independent Ins. 
+
+Agents of Am., 508 U.S. 439 (1993) .. 2... 6. ewes 29 
+Venclauskas v. Connecticut, 921 F. Supp. 78 
+
+Gh. Camas TE Re Fo ES HER e ON 7 
+Walker v. Aberdeen-Monroe County Hosp.., 
+
+838 F. Supp. 285 (N.D. Miss. 1993)............. 18 
+Washington v. HCA Health Serv., 
+
+152 F.3d 464 (Sth Cir. 1998), 
+
+petition for cert. pending, No. 98-1365 ...... 8, 41, 44 
+West Virginia Univ. Hosps., Inc. v. Casey, 
+
+GSB: TP Ge CR EPCOS Creche ch we 12 
+
+
+Williams v. Channel Master Satellite, Inc. , 
+
+101 F.3d 346 (4th Cir. 1996), cert. denied, 
+
+. 2 Qe en eee re 16, 30 
+Wilkins v. County of Ramsey, 983 F. Supp. 848 
+
+(D. Minn. 1997), aff'd, 153 F.3d 869 
+
+
+Le ee err) Pe ee eee ee 31 
+Wilson v. Pennsylvania State Police Dep't, 
+
+964 F. Supp. 898 (E.D. Pa. 1997) ..........55-. 7 
+Witter v. Delta Air Lines, 138 F.3d 1366 (11th Cir. 1998) . . 49 
+Wong Yang Sung v. McGrath, 339 U.S. 33 (1950) ....... 39 
+
+
+Statutes, Rules and Regulations: 
+
+
+28 U.S.C. § IZSAA) 0 cee cere eb er sew ccann l 
+Rehabilitation Act of 1973, 29 U.S.C. § 701 et seq. .... 8, 42 
+
+
+ix 
+
+
+Table of Authorities - Continued 
+
+Page(s) 
+
+Americans with Disabilities Act 
+of 1990 (ADA), 42 U.S.C. § 12101 et seg... .... passim 
+UR SR I ROS 13, 14, 45 
+09s F0t STLASEAN OR 2, 40 
+ES a 2, 3, 6, 16, 27 
+pS a Fee Deel seed, 40 
+eS COAT SSUOL Ue . 2 
+Oe ee RI wise Se BURG oo SES BO 15 
+PINS 6 ot. SUS RES. BOS Jawa, l 
+WERR SOS 663 6. 16, 22, 23, 26, 38, 45, 46 
+
+
+Miscellaneous: 
+
+
+Lawrence E. Decina, et al., Visual Disorders and Commercial 
+Drivers, U.S. Dep't of Trans. Pub. No. FHWA-MC-92- 
+003, HCS-10/1-92(200)E (Nov. 1991) ............ ll 
+
+
+A. L. Engelberg and T. C. Doege, Review of Part 67 of 
+the Federal Air Regulations and the Medical 
+
+
+Certification of Civilian Airmen, Vol. 1 (1986) ...... 12 
+Federal Bureau of Investigation, Frequently Asked 
+
+Questions About the FBI, Question 12, 
+
+< http://www. fbi.gov/faq/fbifag.htm> ........... 12 
+oe ee es. tke eas ek Sic ei. 24 
+I i ie 24, 25 
+H.R. 4498, 100th Cong., § 2(a) (1988) .............. 20 
+H.R. Conf. Rep. No. 101-558, 101st Cong., 2d Sess. 
+
+ST I ee ae ee 20 
+H.R. Conf. Rep. No. 101-596, 101st Cong., 2d Sess. 
+
+Se ak. 6. Weel atlld Habe belie va 'eld « 20 
+H.R. Rep. No. 101-485(I1), 101st Cong.., 
+
+EE er ee eee 20, 41 
+H.R. Rep. No. 101-485(II]), 101st Cong., 
+
+Se EE Bd We UVa b acted US oe lero ches 21, 41 
+
+
+In Every Sense, Williams Saw More Than Most, USA 
+Today Baseball Weekly, June 6, 1996 < http://www. 
+usatoday .com/sports/baseball/sbbw0725.htm> ...... 48 
+
+
+xX 
+
+
+Table of Authorities - Continued 
+
+
+Page(s) 
+
+
+Joanne Katz, et al., Prevalence and Risk Factors for 
+
+Refractive Errors in an Adult Inner City Population, 
+
+38 INVESTIGATIVE OPHTHALMOLOGY & VISUAL 
+
+SCHMNGR 506 GD. TOPE). sce ci ctwwedWen bs dale 10 
+David J. Lee, et. al., Prevalence of Uncorrected Binocular 
+
+Distance Visual Acuity in Hispanic and Non-Hispanic 
+
+Adults, 105 OPHTHALMOLOGY 552 (1998) .......... 10 
+National Advisory Health Council, Vision Research - A 
+
+National Plan: 1999-2003, U.S. Dept. of Health 
+
+and Human Servs., NIH Pub. No. 998-4120 (1998) ... 10 
+National Ass’n of Attorneys General, Seventeen Attorneys 
+
+General File Comments on FTC’s Spectacle 
+
+Prescription Release Rule, 5 NAAG ANTITRUST 
+
+ee re oe ons eee ee 10 
+National Center for Health Statistics, Current Estimates 
+
+From the National Health Interview Survey, 
+
+1995, Vital & Health Stat., Series 10, No. 199 (1998) . . 11 
+National Center for Health Statistics, Current Estimates 
+
+From the National Health Interview Survey, 
+
+1982, Vital & Health Stat., Series 10, No. 150 (1985) . . 11 
+National Center for Health Statistics, Eye Care Visits and 
+
+Use of Eyeglasses or Contact Lenses: United States 
+
+1979 & 1980, Vital & Health Stat., Series 10, 
+
+Oe Be ee ep) Ce ee are oe 10 
+National Center for Health Statistics, Jean Roberts, 
+
+Binocular Visual Acuity of Adults: United States 
+
+
+1960-62, Series 11, No. 3 (1964) .........0000 0 10 
+National Council on the Handicapped, On the 
+
+Threshold of Independence (Jan. 1988) ......... 20, 27 
+S. 2345, 1000) Comg., § Mad) (ISGE) 2. cc ccc cee 20 
+S. Rep. No. 101-116, 10ist Cong., Ist Sess. (1989) .... 8, 40 
+
+
+Robert D. Sperduto, et al., Prevalence of Myopia in the 
+United States, 101 ARCH. OPHTHALMOLOGY 405 
+CIDE See SPUN SSS FR IG PSG oe eee 10 
+STATISTICAL ABSTRACT OF THE UNITED STATES 138 
+Ch1Ga 8. BIRR os SPECS INS CFE Te ee 21 
+
+
+xi 
+Table of Authorities - Continued 
+Page(s) 
+
+
+James M. Tielsh, The Prevalence of Blindness and Visual 
+Impairment Among Nursing Home Residents in 
+
+
+Baltimore, 332 NEW ENG. J. MED. 1205 (1995) ...... 11 
+U.S. Air Force Academy, 1998-1999 CATALOG ......... 12 
+U.S. Navy, MANUAL OF THE MEDICAL DEPARTMENT, 
+
+Article 15-65 (Change 107, Oct. 29, 1992) ......... 12 
+
+
+U.S. Secret Service, SPECIAL AGENT REQUIREMENTS, 
+
+
+< http://www.ustreas.gov/usss/opportunities. 
+SR as Mera e Ames ode ccc cece 12 
+
+
+135 Cong. Rec. E1575-01 (daily ed. May 9, 1989) ....... 21 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (J.A. 45-74) is reported at 
+130 F.3d 893. The opinion of the district court (J.A. 30-44) is un- 
+reported. 
+JURISDICTION 
+
+
+The judgment of the court of appeals (J.A. 75) was entered on 
+November 26, 1997. A petition for rehearing was denied on 
+March 3, 1998. J.A. 76-77. The petition for a writ of certiorari 
+was filed on June 1, 1998, and granted on January 8, 1999. The 
+jurisdiction of this Court is invoked under 28 U.S.C. § 1254(1). 
+
+
+STATEMENT 
+
+
+This case requires the Court to decide whether more than 100 
+million Americans who have nearsightedness that is correctable by 
+ordinary glasses or contact lenses are covered by the Americans 
+with Disabilities Act of 1990 (ADA), 42 U.S.C. § 12101 ef seq. 
+Petitioners Karen Sutton and Kimberly Hinton sued respondent 
+United Air Lines, Inc., under the ADA after United refused to 
+consider their applications for employment as pilots because their 
+vision failed to meet United’s standards for visual acuity. The 
+district court dismissed the complaint under Federal Rule of Civil 
+Procedure 12(b)(6) for failure to state a claim upon which relief can 
+be granted. J.A. 30-44. The court of appeals affirmed. J.A. 45-74. 
+
+
+1. The complaint alleged that petitioners, who are identical 
+twins, are experienced airline pilots working for regional air 
+carriers. J.A. 19. Petitioners alleged that it was their “life long goal 
+to fly for a major air carrier.” J.A. 17. According to the complaint, 
+in 1992 both petitioners submitted applications and were inter- 
+viewed for pilot positions at United, but were rejected because their 
+uncorrected vision failed to meet United’s minimum standards for 
+pilots. J.A. 20-23. The complaint alle,ed that United requires pilots 
+to have uncorrected distance vision of 20/100, a standard that “was 
+modeled on military requirements for pilot training.” J.A. 25. 
+Petitioners contended that “United’s policy blocks [them] from an 
+entire class of employment: global airline pilot” (ibid.), and that 
+“other global carriers had similar or higher minimum standards, 
+thus blocking [petitioners] from seeking the same class of 
+employment elsewhere in the industry.” J.A. 26. 
+
+
+2 
+
+
+According to the complaint, petitioners each have uncorrected 
+vision of 20/200 or worse in one eye and 20/400 or worse in the 
+other, but have 20/20 vision when using corrective lenses. J.A. 23. 
+Petitioners alleged that without their glasses they “effectively 
+cannot see to conduct numerous activities such as driving a vehicle, 
+watching television, or shopping in public places.” J.A. 24. They 
+admitted, however, that “[w]ith corrective measures” they “func- 
+tion identically to individuals without a similar impairment.” Jbid. 
+
+2. The ADA forbids discrimination 
+
+against a qualified individual with a disability because of the 
+
+disability of such individual in regard to job application 
+
+procedures, the hiring, advancement or discharge of 
+employees, employee compensation, job training, and other 
+terms, conditions, and privileges of employment. 
+
+
+42 U.S.C. § 12112(a) (1996). The statute defines “disability * * * 
+with respect to an individual” as: 
+
+
+(A) a physical or mental impairment that substantially limits 
+one or more of the major life activities of such individual; 
+
+
+(B) a record of such an impairment; or 
+(C) being regarded as having such an impairment. 
+
+
+Id. § 12102(2). Petitioners alleged that they “are substantially lim- 
+ited in the major life activity of seeing” and that United “regards 
+[them] as having a substantially limiting impairment.” J.A. 23, 24. 
+
+
+3. The district court ruled that the complaint failed to allege 
+facts sufficient to establish that petitioners had a “disability” under 
+either the first or the third clause of 42 U.S.C. § 12102(2). With 
+regard to the first clause, the court ruled that petitioners were not 
+significantly restricted in the major life activity of either seeing or 
+working. J.A. 36-37. The court pointed out that, “with their 
+corrective lenses, [petitioners] are able to function identically to 
+individuals without a similar impairment” (ibid.), and ruled that 
+“the need for corrective eyewear is commonplace and does not 
+substantially limit major life activities.” J.A. 37. Observing that 
+petitioners were employed as commercial airline pilots, the court 
+ruled that their “common moderate vision impairment, although 
+certainly an undesirable inconvenience, does not substantially limit 
+their ability to work within the meaning of the ADA.” J.A. 40. The 
+court explained generally that “the ADA was intended to protect 
+
+
+3 
+
+
+only a limited class of persons * * * who suffer from impairments 
+significantly more severe than those encountered by the average 
+person in everyday life, not people who suffer from slight 
+shortcomings that are both minor and widely shared.” J.A. 40-41. 
+With regard to petitioners’ claim that were “regarded as” 
+disabled under the third clause of 42 uses 12102(2), ae intaee 
+stated that “[t}here is no support for the allegation that United, 
+based on stereotype, myth, or unsubstantiated fears, regards 
+[petitioners] as substantially impaired in the major life activity of 
+seeing.” J.A. 41. Stating that the test for whether United regarded 
+petitioners as substantially limited in working “is whether the 
+impairment, as perceived, would affect the individual’s work across 
+the spectrum of the same or similar jobs,” the court observed that: 
+
+
+[a}n employer's belief that an employee is unable to perform 
+one task with an adequate safety margin does not establish per 
+se that the employer regards the employee as having a 
+pm limitation on the employee’s ability to work in 
+
+
+J.A. 42. The court then ruled that “{aJt most, itioners] can 
+establish that United regarded them as aro pn sup the 
+requirements of a particular passenger airline pilot position.” Jbid. 
+4. The court of appeals affirmed. J.A. 45-74. The court ruled 
+that petitioners’ poor uncorrected vision was an “impairment” (J.A. 
+58) and then analyzed whether it “substantially limits one or more 
+of the[ir] major life activities.” Comparing petitioners’ vision to 
+“the vision of the average person in the general population” (J.A. 
+60), the court of appeals ruled that they were not substantially lim- 
+ited in the major life activity of seeing. While recognizing that peti- 
+tioners uncorrected vision would undoubtedly ‘substantially limit’ 
+their major life activity of seeing,” the court ruled that “this is a 
+hypothetical situation.” J.A. 65. The court stated (J.A. 65-66): 
+In fact, [petitioners] do not limit their normal daily activities 
+to those that could be performed with their uncorrected vision. 
+[Petitioners] admit that with their corrective measures they 
+“function identically to individuals without a similar 
+impairment.” [Petitioners] merely don their eye glasses (or 
+contact lenses) and go about all their daily activities in the 
+same or similar condition, manner, or duration as the average 
+person in the general population. 
+
+
+4 
+
+
+The court of appeals rejected petitioners’ argument that EEOC 
+interpretive guidance required the court to evaluate their vision im- 
+pairment without considering the effect of their corrective lenses, 
+ruling that the guidance “is in direct conflict with the plain lan- 
+guage of the ADA.” J.A. 64.“In making disability determinations,” 
+the court stated, “we are concerned with whether the impairment 
+affects the individual in fact, not whether it would hypothetically 
+affect the individual without the use of corrective measures.” /bid. 
+
+
+The court of appeals also ruled that United did not “regard” 
+petitioners as disabled in the major life activity of working. The 
+court stated, “[aJn employer does not necessarily regard an employ- 
+ee as substantially limited in the major life activity of working sim- 
+ply because it believes that the individual is incapable of performing 
+a particular job.” J.A. 68. To establish such a claim, the court 
+explained, “an individual must show that the employer regarded 
+him or her as being substantially limited in performing either a 
+class of jobs or a broad range of jobs in various classes.” J.A. 70. 
+Characterizing the complaint as claiming that United had dis- 
+qualified petitioners from the job of “global airline pilot,” the court 
+ruled that “this description is too narrow to constitute a ‘class of 
+jobs.’” J.A. 71. The court observed that the provision of the ADA 
+protecting individuals who are “regarded as” disabled “seeks to 
+remedy perceived disabilities that, like actual disabilities, extend be- 
+yond the isolated mismatch of employer and employee.” J.A. 73. 
+
+SUMMARY OF ARGUMENT 
+
+
+Until a recent spate of district court decisions, courts con- 
+struing both the ADA and its predecessor had not regarded correct- 
+able nearsightedness as a disability. Even now, courts — and peti- 
+tioners and the Government — show obvious unease at the prospect 
+of including such a common and easily treatable condition, so far 
+removed from the paradigms that animated the ADA, as a disabili- 
+ty. Advocates for that position resort to abstraction and talk about 
+the supposed implications for other disabilities if mitigating mea- 
+sures are used to exclude the nearsighted from the Act’s coverage. 
+
+
+There is good reason for that discomfort and avoidance. More 
+than 100 million Americans use glasses or contact lenses to correct 
+their vision. Approximately one-quarter of the nation’s adult popu- 
+lation could not drive without vision correction. Corrected vision 
+is so commonplace in American society that for almost all purposes 
+
+
+5 
+
+
+(other than a few jobs in which good uncorrected vision may be 
+especially critical) vision is considered in its corrected state. 
+
+_ The findings of fact in the ADA show that Congress did not 
+intend correctable nearsightedness to be considered a disability. The 
+43 million people the statute was supposed to cover are dwarfed by 
+the number of people with correctable vision conditions. 
+historically Segregated and isolated, characterized by societal 
+disadvantage. The structure and provisions of the Act confirm 
+Congress’s intent. The Act protects only the disabled, not 
+everyone, and the phrase “substantially limits * * * major life 
+activities” was meant to narrow its scope to those with functional 
+impairments. Petitioners and the Government try to avoid these 
+obvious conclusions by asserting that petitioners’ nearsightedness 
+is more severe than “average,” but that is a distinction without a 
+difference because petitioners function identically to those with less 
+severe nearsightedness who nonetheless need corrective lenses to 
+see clearly. And the legislative history shows that, in trying to 
+assess the impact the statute would have, Congress and its advisors 
+made specific assumptions about which individuals with vision 
+impairments would be covered, and considered only those who are 
+limited by the impairment in its corrected state. 
+
+
+__ The Court should require that the impairment be considered in 
+its corrected state, particularly when the “impairment” is 
+nearsightedness, and in fact more generally. The EEOC’s contrary 
+interpretive guidance should not be followed. Interpretive guidance 
+does not receive the same deference as regulations. The efforts here 
+to avoid that principle by arguing that the guidance was put out for 
+notice and comment should fail. Even if the guidance generally was 
+Subject to notice and comment (itself a debatable proposition), the 
+specific provision requiring a hypothetical inquiry, in which 
+mitigating measures are disregarded, was not. It was added after 
+the comment period at the urging of disability rights groups. In any 
+event, the interpretive guidance is internally inconsistent, and the 
+portion on which petitioners rely contradicts the plain meaning of 
+the statute. The arguments that petitioners and their amici have 
+offered as to why their reading makes sense are ingenious, but they 
+rely on meanings that the words will not bear, anomalies that do 
+not exist, and supposed absurdities that are not as absurd as the 
+implications of petitioners’ own position. 
+
+
+6 
+
+
+The legislative history will not do the work that the statute's 
+text cannot. A snippet or two from committee reports supports peti- 
+tioners’ position (although not in the context of nearsightedness), 
+but other snippets point strongly in the opposite direction, including 
+some on which petitioners themselves rely. At the least, the ADA 
+should be read to exclude persons with widely shared and easily 
+correctable “impairments” such as petitioners’ nearsightedness. If 
+the sources bearing on the question in this case are deemed too con- 
+tradictory to support a flat rule that mitigating measures are always 
+considered — and we submit that the text of the statute, including 
+the non-hypothetical phrase “substantially limits,” overwhelms any 
+supposed contradictory indications — then the Court should frankly 
+acknowledge the difficulty and exclude nearsightedness from any 
+general rule to ignore mitigating measures, as all reliable indicators 
+of congressional intent on the precise point at issue suggest. 
+
+Petitioners have not pleaded a litigable issue under the “re 
+garded as” prong of the definition of disability. United regards 
+them as less than ideally suited for its passenger pilot positions, not 
+as categorically unfit to fly airplanes. In any event, working as a 
+pilot is not a “major life activity”; working is. Petitioners have not 
+pleaded that United regards them as unfit to work. 
+
+ARGUMENT 
+
+
+Petitioners’ nearsightedness constitutes a “disability” if, and 
+only if, it is “a physical * * * impairment that substantially limits 
+one or more of [their] major life activities” or they are “ 
+as having such an impairment.” 42 U.S.C. § 12102(2)(A), (C).' 
+Petitioners do not allege in the literal words of the statute that their 
+nearsightedness “substantially limits” them, but they contend that 
+it is enough that it would so limit them if they did not wear 
+corrective lenses. They also contend that United’s use of their un- 
+
+
+' The contention of amicus AFL-CIO that petitioners have “a record 
+of such an impairment” (42 U.S.C. § 12102(2)(B)) is not properly before 
+the Court, having not been raised in the proceedings below, in the petition 
+for certiorari, or in petitioners’ brief on the merits. It is also plainly incor- 
+rect. Because the “record” must be “of such an impairment,” i.¢., one 
+that “substantially limits” a major life activity, subsection (B) adds nothing 
+to the claims of persons, like petitioners, who assert that they are no more 
+and no less impaired or limited than they ever were in the past. 
+
+
+7 
+
+
+corrected vision as a criterion for limiting its pool of pilot appli- 
+cants proves, ipso facto, that United regarded them as disabled. 
+Whether corrective measures are to be taken into account in 
+answering the questions posed by the statute is a subsidiary issue 
+that the Court may have to consider, but the overarching issue is 
+whether these (and similar) petitioners are within the reach of the 
+Statute, not a consideration of mitigating measures in the abstract. 
+po a Br. a7 cueuas So wae tatu, mafieations, or 
+measures disabled person must undergo,” but avoiding 
+reference to eyeglasses or contact lenses), 34 (referring to “medica- 
+tion or other means”). We therefore start in Part | with the question 
+petitioners relegate to a short section near the end of their brief 
+(Pet. Br. 38-40): What do the text and history of the ADA tell us 
+about nearsightedness? \n Part Il, we show that subsection (A) does 
+tially limit their major life activities. In Part IIl, we show that sub- 
+section (C) does not reach petitioners because their allegations 
+(taken as true) do not show that United regarded them as disabled. 
+
+
+I. CONGRESS DID NOT INTEND THE ADA TO COVER 
+PEOPLE WITH CORRECTABLE NEARSIGHTEDNESS 
+
+
+Even those who support the broadest interpretation of the ADA 
+are uneasy with the notion that people who wear glasses to correct 
+nearsightedness are “disabled.” Until recently, most courts that had 
+is not a disability.* The ADA was modeled on the Rehabilitation 
+
+
+* See Testerman v. Chrysler Corp., 1997 U.S. Dist LEXIS 21392 (D. 
+Del. Dec. 30, 1997); Cline v. Fort Howard Corp., 963 F. Supp. 1075 
+(E.D. Okla. 1997); Schiuter v. Industrial Coils, Inc., 928 F. Supp. 1437, 
+1447 (W.D. Wis. 1996); Sweet v. Electronic Data Sys., Inc., 1996 U.S. 
+Dist. LEXIS 5544 (S.D.N.Y. Apr. 26, 1996); Venclauskas v. Connecti- 
+cut, 921 F. Supp. 78 (D. Conn. 1995); Joyce v. Suffolk County, 911 
+F. Supp. 92 (E.D.N.Y. 1996); Trembczsynski v. Calumet City, 1987 WL 
+16604 (N.D. Ill. Aug. 31, 1987); Padilla v. City of Topeka, 708 P.2d 543 
+(Kan. 1985). In the wake of appellate rulings that corrective measures 
+must be disregarded when determining whether an individual has a disabil- 
+ity, a number of district courts have recently treated correctable nearsight- 
+edness as disability. See Denson v. Village of Bridgeview, 19 F. Supp. 2d 
+829 (N.D. Ill. 1998); Fallacaro v. Richardson, 965 F. Supp. 87 (D.D.C. 
+1997); Wilson v. Pennsylvania State Police Dep't, 964 F. Supp. 898 (E.D. 
+Pa. 1997); Peacock v. County of Marin, 953 F. Supp. 306 (N.D. Cal. 
+
+
+Act of 1973, 29 U.S.C. § 701 et seq., which had been in force 17 
+years without any statement by a government agency or holding by 
+a court that nearsightedness constitutes a “disability” or “handi- 
+cap.”> The EEOC itself had ruled that a vision impairment “fully 
+corrected by wearing * * * lenses” was not a disability. Kienast v. 
+Frank, 1990 WL 711359, *6 (EEOC Mar. 27, 1990). 
+
+
+Even courts holding that mitigating measures are irrelevant to 
+the disability determination have expressed discomfort with apply- 
+ing that rule to nearsightedness.‘ Some have suggested an exception 
+for nearsightedness. The court in Arnold v. United Parcel Serv., 
+Inc., 136 F.3d 854, 863 (ist Cir. 1998), held that impairments 
+should be assessed without regard to mitigating measures, but noted 
+that it “might reach a different result in the case of a myopic indi- 
+vidual whose vision is correctable with eyeglasses,” because “[t}he 
+availability of such a simple, inexpensive remedy, that can provide 
+assured, total and relatively permanent control of all symptoms, 
+would seem to make correctable myopia the kind of ‘minor, trivial 
+impairment{ ]," * * * that would not be a disability under the 
+ADA.” Id. at 866 n.10 (quoting S. Rep. No. 101-116, at 23 
+(1989)); see also Washington v. HCA Health Servs., 152 F.3d 464, 
+471 (Sth Cir. 1998), petition for cert. pending, No. 98-1365. 
+
+
+1997); Sicard v. Sioux City, 950 F. Supp. 1420 (N.D. lowa 1996). 
+
+
+> In Sharon v. Larson, 650 F. Supp. 1396 (E.D. Pa. 1986), which 
+petitioners cite, it was “not disputed that Sharon is handicapped” (id. at 
+1401), so the court had no occasion to say what it was about Sharon's 
+vision had “a large and dangerous blind spot resulting from the structure 
+of the [bioptic] lenses,” id. at 1402, the case in no way supports the 
+considered handicapped in any Rehabilitation Act case or commentary. 
+nese enbe Sn ste eran ney nee 
+sideri as a icap or disability. Pet. Br. 25- 
+0.28: ef. Bragdon v. Abbott, 118 S. Ct. 2196, 2202, 2205, 2207-2208 
+(1998) (relying on Rehabilitation Act practice and regulations in construing 
+ADA). 
+
+* E.g., Smith v. Norton Indus., 17 F. Supp. 2d 1094, 1099 (D.S.D. 
+1998) (“it would seem to be unfair * * * to conclude that uncorrected 
+vision due to the aging process would translate into a disability within the 
+meaning of the ADA”). 
+
+
+9 
+
+
+The briefs of petitioners and their amici appear sensitive to the 
+incongruity of petitioners’ claims to disabled status, and revealingly 
+have devoted remarkably few of their pages to discussing the facts 
+of this case. The Government, too, has been tentative in its em- 
+the Government recommended that the Court not grant plenary 
+review in this case; now that the Court has done so anyway, the 
+Government supports petitioners but tries to reassure the Court that 
+a decision in their favor would be confined to the severely myopic. 
+
+This discomfort with petitioners’ case, we submit, is rooted in 
+two circumstances. First, nearsightedness is a widely shared trait 
+normally viewed as a minor inconvenience rather than a serious 
+problem of the sort that Congress addressed in the ADA. Petition- 
+ers themselves apparently never suffered a single hardship stem- 
+ming from their nearsightedness until they failed to meet United's 
+global air carriers daily hold in their hands the lives of hundreds of 
+passengers, it seems reasonable to expect them to meet standards 
+of physical fitness that many Americans might be unable to satisfy. 
+In short, it is surprising that petitioners might be considered “dis- 
+abled” under the ADA merely because their widely shared and easi- 
+ly correctable visual deficiency has excluded them from one highly 
+competitive job that understandably demands reliable eyesight. 
+
+The ADA does not entirely prohibit — or even require justifi- 
+cation of — all employment decisions based on physical characteris- 
+tics, nor does it give employees with minor impairments the right 
+to sue employers. Instead, Congress defined a discrete group facing 
+physical limitations significantly more serious than those exper- 
+ienced by the average person and provided them with special pro- 
+tections to further their full integration into the economy. If those 
+protections are accorded to the more than 100 million Americans 
+who suffer from correctable nearsightedness, then the central 
+framework of the ADA — its protection of a discrete group of per- 
+sons whose impairments are substantial — will be severely diluted.° 
+
+
+* In focusing on the specific impairment at issue in this case, respon- 
+dent does not question in any way the holding of the court of appeals that 
+corrective measures always should be taken into account in determining 
+whether an individual is “disabled” within the meaning of the ADA. We 
+support that holding at pp. 22-42, infra, and we agree with the arguments 
+being made in support of that holding by the respondent in M. phy v. 
+
+
+10 
+
+
+A. Correctable Nearsightedness Is A Common Condition 
+That Does Not Seriously Affect The Lives Of Those 
+Who Have It 
+
+
+More than 100 million Americans — more than 51% of per- 
+sons ages 3 and over, and 89% of men and women over age 45 — 
+use glasses or contact lenses to correct their vision. See National 
+Center for Health Statistics (NCHS), Eye Care Visits and Use of 
+Eyeglasses or Contact Lenses: United States 1979 & 1980, Vital 
+& Health Stat., Series 10, No. 145, at 1, 7, 28 (1984); see also 
+National Advisory Health Council, Vision Research — A National 
+Plan: 1999-2003, U.S. Dep’t of Health and Human Servs., NIH 
+Pub. No. 98-4120, at 7 (1998) (“[MJore than 100 million people 
+need corrective lenses to see properly.”). About half of those — 
+approximately 24% of American adults — have uncorrected 
+distance vision worse than 20/40. See NCHS, Jean Roberts, 
+Bi weular Visual Acuity of Adults: United States 1960-62, Series 11, 
+No. 3, at 3 (Table A) (1964) (24.2% in the early 1960s); David J. 
+Lee, et. al., Prevalence of Uncorrected Binocular Distance Visual 
+Acuity in Hispanic and Non-Hispanic Adults, 105 OPHTHALMOLOGY 
+552, 554 & Table | (1998) (range of 21.3-31.2% depending on 
+race and ethnicity). Rates of nearsightedness (myopia) increase sig- 
+nificantly with rises in education and income. Robert D. Sperduto, 
+et al., Prevalence of Myopia in the United States, 101 ARCH. 
+OPHTHALMOLOGY 405, 407 (1983); Joanne Katz, et al., Prevalence 
+and Risk Factors for Refractive Errors in an Adult Inner City 
+Population, 38 INVESTIGATIVE OPHTHALMOLOGY & VISUAL 
+SCIENCE 334, 336-339 & Figure 2 (Feb. 1997). Contact lenses are 
+worn by 26 million Americans. National Ass’n of Attorneys 
+General, Seventeen Attorneys General File Comments on FTC's 
+
+Prescription Release Rule, 5 NAAG ANTITRUST REP., at 
+7, 9 (Sept./Oct. 1997). 
+
+
+Even moderate nearsightedness makes it difficult to perform 
+many modern activities without corrective measures. For example, 
+a sizable majority of the States require drivers of private vehicles 
+to have visual acuity (corrected or uncorrected) of 20/40 or better. 
+Lawrence E. Decina, et al., Visual Disorders and Commercial 
+
+
+United Parcel Serv., Inc., No. 97-1992. But we focus on nearsightedness 
+specifically because it is the disability involved in this case, and because 
+we recognize the possibility that this Court could decide this case on nar- 
+rower grounds than those elaborated below. See pp. 43-44, infra. 
+
+
+11 
+
+
+Drivers, U.S. Dep't of Trans. Pub. No. FHWA-MC-92-003, HCS- 
+10/1-92(200)E, at A-15 (Nov. 1991). Thus, most of the 
+
+of American adults whose uncorrected distance vision is worse than 
+20/40 cannot legally drive without their glasses or contact lenses. 
+
+
+Because corrective lenses are so popular and effective in rem- 
+edying common visual deficiencies, visual impairments are custo- 
+marily defined assuming the use of corrective lenses. In countless 
+settings, only those individuais whose problems cannot be remedied 
+with lenses are considered visually impaired. See National Advisory 
+Health Council, Vision Research - A National Plan; 1999-2003, at 
+xvii (“Vision impairment can be defined as any chronic visual defi- 
+cit that impairs everyday function and is not correctable by ordi- 
+nary eyeglasses or contact lenses.”) (emphasis added); see also 
+NCHS, Current Estimates From the National Health Interview Sur- 
+vey, 1995, Vital & Health Stat., Series 10, No. 199, at 147 (1998) 
+(asking survey participants if they have any “trouble seeing with 
+one or both eyes EVEN when wearing glasses”); NCHS, Current 
+Estimates From the National Health Interview Survey, 1982, Vital 
+Health Stat., Series 10, No. 150, at 149 (1985) (same). The Social 
+Security Administration defines visual impairment as corrected vis- 
+ual acuity between 20/40 and 20/200, and defines blindness as cor- 
+rected visual acuity of 20/200 or worse. See James M. Tielsh, The 
+Prevalence of Blindness and Visual Impairment Among Nursing 
+Home Residents in Baltimore, 332 NEW ENG. J. MED. 1205, 1205- 
+1207 (1995). The World Health Organization defines visual impair- 
+ment as corrected visual acuity between 20/40 and 20/400 and 
+blindness as corrected visual acuity of 20/400 or worse. /bid. 
+
+
+For nearly every purpose, good corrected vision is viewed as 
+indistinguishable from good uncorrected vision. In every State, per- 
+sons who use corrective lenses are permitted to obtain driver's li- 
+censes, boating licenses, hunting licenses, and even pilot’s licenses. 
+Many of the country’s most highly paid professional athletes use 
+corrective lenses. There is no social stigma associated with the use 
+of corrective lenses. Movie stars, CEOs, anchormen, Senators, and 
+Supreme Court Justices use corrective lenses. There is no history 
+of isolation and segregation of the nearsighted. 
+
+
+Because corrective lenses are so effective, nearsighted people 
+
+
+can and do perform nearly every type of job in our economy, with- 
+out any need for accommodation. In a narrow range of jobs, how- 
+ever, the possibility that corrective lenses will fail at a critical time 
+
+
+12 
+
+
+is viewed as presenting unique risks. Accordingly, some employers 
+require firefighters, law enforcement officers, and pilots to meet 
+visual acuity standards for both their corrected and uncorrected vi- 
+sion. Employers, including governmental employers, sometimes 
+reach the judgment that even a small risk of mishap should be 
+avoided in light of the gravity of a vision failure at an acutely dan- 
+gerous moment such as the emergency operation of a plane or a 
+high-speed chase of criminals. The United States itself employs 
+such standards. For example, the Air Force requires its pilots to 
+have uncorrected distance vision of 20/50 or better; the Navy has 
+an even higher standard, insisting that its pilots have 20/30 or 
+better uncorrected vision. See U.S. Air Force Academy, 1998- 
+1999 CATALOG 170; U.S. Navy, MANUAL OF THE MEDICAL DeE- 
+PARTMENT, Article 15-65 (Change 107, Oct. 29, 1992).° FBI and 
+Secret Service agents must have uncorrected distance vision no 
+worse than 20/200 and 20/60, respectively. See Federal Bureau of 
+Investigation, Frequently Asked Questions About the FBI, Question 
+12 <http://www.fbi.gov/faq/fbifaq.htm>; U.S. Secret Service, 
+Special Agent Requirements <http://www.ustreas.gov/usss/ 
+opportunities agent.htm> . 
+
+
+B. The ADA Protects A Discrete Minority Of Substantial- 
+ly Impaired Individuals, Not Those With Widespread, 
+Trivial Impairments Like Correctable Nearsightedness 
+
+
+The language, structure, and legislative history of the ADA 
+plainly reflect its purpose of protecting from discrimination and 
+promoting the employment of persons whose serious physical or 
+mental impairments prevent them from functioning at the level of 
+the average person. As this Court has stated, “the purpose of a 
+statute includes not only what it sets out to change, but also what 
+it resolves to leave alone.” West Virginia Univ. Hosps., Inc. v. 
+Casey, 499 U.S. 83, 98 (1991). When Congress enacted and the 
+President signed the ADA, they plainly intended to preserve certain 
+elements of employer discretion. In particular, they chose to allow 
+employers to consider physical characteristics in making 
+
+
+° Until 1994, the Federal Aviation Administration required commercial 
+airline pilots to have uncorrected distance visual acuity of 20/100 or better, 
+unless they obtained a waiver. The American Medical Association 
+recommended retention of an uncorrected vision standard. A.L. Engelberg 
+and T.C. Doege, Review of Part 67 of the Federal Air Regulations and the 
+Medical Certification of Civilian Airmen, Vol. |, at 1-7 (1986). 
+
+
+13 
+
+
+employment decisions affecting individuals whose minor 
+impairments (such as correctable nearsightedness) place them well 
+within the norm of working Americans. 
+
+
+1. The findings of fact that preface the ADA comprise a re- 
+vealing discussion of the specific societal problem that Congress 
+and the President sought to address by enacting the statute. Con- 
+gress and the President intended to improve the circumstances of a 
+limited group of significantly impaired people who had suffered 
+from discrimination, isolation, and underemployment — not to give 
+people with widespread and trivial impairments the right to seek 
+judicial review of employers’ job qualification standards. 
+
+The ADA’s very first finding of fact states that “some 
+43,000,000 Americans have one or more physical or mental dis- 
+abilities.” 42 U.S.C. § 12101(a)(1) (emphasis added). That figure 
+— which on its face excludes the more than 100 million Americans 
+who wear corrective lenses — closely tracks contemporaneous gov- 
+ernment estimates of the size of the disabled population. Those fig- 
+ures included 12.8 million Americans with uncorrectable visual im- 
+pairments, but did not include the far greater number who have 
+correctable vision problems. See p. 20, infra. 
+
+
+The findings describe a statutorily protected group that plainly 
+does not include people who wear glasses or contact lenses to 
+correct nearsightedness. The findings describe individuals with dis- 
+abilities as “a discrete and insular minority who have been faced 
+with restrictions and limitations, subjected to a history of purpose- 
+ful unequal treatment, and relegated to a position of political pow- 
+erlessness in our society.” 42 U.S.C. § 12101(a)(7) (emphasis add- 
+ed). They further note that, “historically, society has tended to iso- 
+late and segregate individuals with disabilities.” Jd. § 12101(a)(2). 
+Those descriptions of the protected class — descriptions that are a 
+prominent part of the text that each legislator considered in voting 
+on the legislation, and that the President considered in deciding to 
+sign it — would have led any reasonable reader to conclude that the 
+statute does not concern itself with people with correctable vision 
+conditions, who comprise close to half of the population, have 
+suffered no isolation, and likely have disproportionately high 
+representation among the most powerful people in our nation. 
+
+The findings also emphasize the chronic underemployment and 
+
+
+social disadvantages of the disabled, stating that they, “as a group, 
+occupy an inferior status in our society, and are severely disadvan- 
+
+
+14 
+
+
+taged socially, vocationally, economically, and educationally.” 42 
+U.S.C. § 12101(a6). They observe that discrimination against the 
+disabled “costs the United States billions of dollars in unnecessary 
+expenses resulting from dependency and nonproductivity.” /d. 
+§ 12101(aX9). Nearsighted people are, as a class, neither disadvan- 
+taged nor underemployed, but in fact have higher than avezage 
+education and income. Petitioners themselves apparently have had 
+no difficulty securing employment, and in their chosen field. 
+
+
+The findings also emphasize the persistent problem of perva- 
+sive discrimination against the disabled. 42 U.S.C. § 12101(a)(2), 
+(3). But there is simply no argument that those who use ordinary 
+corrective lenses have been the victims of widespread 
+iscrimination in the United States, in employment or otherwise. 
+
+In sum, those who wear glasses and contact lenses are not a 
+discrete and insular minority saddled with a history of discrim- 
+ination, exclusion, or underemployment. Nor, given the 
+overwhelming numbers of people who would be added to the ranks 
+of the “disabled” if nearsightedness is deemed a disability, would 
+those statements remain true even as_ generalizations. 
+Approximately 25% of all Americans are nearsighted (Sperduto, 
+supra at 45), and more than half of the population uses glasses or 
+contact lenses to correct nearsightedness or other vision problems. 
+Nearsighted individuals face no unique challenges, no social 
+disadvantages, and no difficulty obtaining employment. Although 
+some nearsighted persons have been excluded from a narrow range 
+of jobs because the possible failure of their corrective lenses 
+presents special risks, the average person with good vision also 
+finds some jobs out of reach because of other physical traits. Thus, 
+nearsighted people were clearly not the targets of the ADA’s goals 
+“to assure equality of opportunity, full participation, 1 
+living, and economic self-sufficiency” (42 U.S.C. § 12012(a)(8)) 
+for the disabled. 
+
+
+2. The structure and detailed provisions of the ADA are con- 
+sistent with its stated purpose of addressing the problems of a dis- 
+crete and insular minority of seriously impaired individuals. Rather 
+than subjecting to judicial scrutiny all employment decisions based 
+on physical characteristics, the Act defines a protected class of dis- 
+abled people and imposes obligations on employers only with re- 
+spect to that class. \n that respect, the ADA differs from laws like 
+Title VII that entirely bar decisions based on race or gender. The 
+
+
+15 
+
+
+ACLU correctly observes (Br. 19 n.12) that Title VII “covers 
+every single person in this country because everyone has a race and 
+a gender,” but it errs in suggesting that the ADA is similarly en- 
+compassing. Because the ADA — both in its findings and its 
+substantive Provisions requiring proof of a “disability” before any 
+other question is reached — establishes a threshold through which 
+only a discrete minority of the population can pass, it is more like 
+the Age Discrimination in Employment Act, which bars decisions 
+based on age that affect people forty or older, but allows such 
+decisions when they affect younger people. See generally O’Connor 
+v. Consolidated Coin Caterers Corp., 517 U.S. 308 (1996). By 
+conscious design, physical characteristics and age have not been 
+completely removed from employers’ permissible decisionmaking 
+processes, nor has Congress broadly required employers to justify 
+every instance in which physical characteristics or age is taken into 
+account. Rather, Congress has chosen to keep the law — and 
+litigation — within bounds by limiting statutory protection to a de- 
+fined class, despite the possibility that a characteristic might be 
+misused against someone who is not a member of that class. 
+
+
+Because the ADA preserves the rights of ers to make 
+decisions based on their employees’ physical hea rat except 
+when the employee is “disabled” and the employer lacks an 
+affirmative defense, the statute’s definition of the protected class 
+performs a crucial gatekeeping function. Once an individual is 
+classified as having a disability, his relationship with actual and 
+potential employers undergoes a sea change. 
+
+As noted above, Congress did not intend the ADA to interfere 
+generally with employers’ rights to use whatever selection criteria 
+they decide: are appropriate for any job (subject, of course, to civil 
+rights laws restricting the misuse of race, gender, age, and other 
+often-irrelevant criteria). If employment selection criteria screen out 
+individuals who meet the definition of “disabled,” however, they 
+must be justified as job-related and consistent with business 
+necessity. 42 U.S.C. § 12112(b)(6). Likewise, unless and until the 
+ADA is triggered, Congress has not required that employers modify 
+jobs or equipment to suit specific needs of their employees. By con- 
+trast, unless it would cause the business “undue hardship,” the Act 
+requires employers to provide accommodations — including job re- 
+
+
+- structuring and the modification of facilities — for qualified indi- 
+
+
+viduals with disabilities. Jd. § 12112(b)(5)(A). The definition of 
+
+
+16 
+
+
+who is disabled under the ADA determines which individuals can 
+lay claim to these and other special protections. 
+
+
+To limit the ADA’s cost to employers, its intrusion into the 
+employment relationship, and its litigation-generating potential, 
+Congress defined the protected class in a manner consistent with the 
+statute's goals. The Act narrowly defines “disability” as “a physical 
+or mental impairment that substantially limits one or more of the 
+major life activities” of an individual. 42 U.S.C. § 12102(2)(A) 
+(emphasis added). The “ordinary or natural meaning” of the phrase 
+“requires that an impairment significantly restrict an individual’s 
+ability to perform a major life activity.” Halperin v. Abacus Tech. 
+Corp., 128 F.3d 191, 199 (4th Cir. 1997) (emphasis in original). 
+Thus, the ADA covers only those whose impairments present a 
+significant challenge in their lives. As many courts have ruled 
+outside the context of visual impairments or corrective measures, 
+the ADA does not protect individuals with minor impairments. See, 
+e.g., Williams v. Channel Master Satellite, Inc., 101 F.3d 346, 349 
+(4th Cir. 1996) (inability to lift more than 25 pounds because of 
+back injury not a disability), cert. denied, 520 U.S. 1240 (1997); 
+Kelly v. Drexel Univ., 94 F.3d 102, 106 (3d Cir. 1996) (moderate 
+restriction on ability to walk not a disability). 
+
+
+The EEOC’s regulations defining “substantially limited” ac- 
+cord with Congress’s intention to protect only those whose impair- 
+ments cause them to function below the norm of working Ameri- 
+cans. According to the regulations, “substantially limited” means: 
+
+
+(1) Unable to perform a major life activity that the 
+average person in the general population can perform; or 
+
+
+(ii) Significantly restricted as to the condition, manner or 
+duration under which an individual can perform a particular 
+major life activity as compared to the condition, manner, or 
+duration under which the average person in the general 
+population can perform that same major life activity. 
+
+
+29 C.F.R. § 1630.2(j)(1) (emphasis added). By requiring that an 
+individual be significantly restricted as compared with the average 
+person in the general population before he or she is considered 
+disabled, the regulations exclude from the protected class 
+individuals whose physical limitations do not place them outside the 
+mainstream, and thus carry out Congress’s intention to preserve the 
+existing relationship between such people and employers. 
+
+
+17 
+
+
+The plain language of the ADA’s definition of disability pow- 
+erfully establishes that people like petitioners who have correctable 
+nearsightedness are not within the statute’s protected class. Under 
+both the natural meaning of “substantially limited” and the EEOC’s 
+regulatory definition, the impairment must “significantly restrict” 
+the manner in which petitioners see as compared to the way “the 
+average person in the general population” sees. That plainly does 
+not describe petitioners’ circumstances. With their corrective 
+lenses, petitioners have perfect visual acuity and are restricted from 
+no activities that require them to see. Wearing corrective lenses, 
+moreover, neither imposes additional restrictions on petitioners nor 
+distinguishes them from “the average person in the general popula- 
+tion, ” who also needs corrective lenses to see. Accordingly, there 
+
+is “simply no evidence that [petitioners have] ‘a physical or mental 
+impairment which substantially limits one or more of such person's 
+major life activities.’” Padilla v. City of Topeka, 708 P.2d 543, 
+550 (Kan. 1985) (applicant for police officer position whose near- 
+sightedness was correctable to 20/20 was not “handicapped” within 
+the meaning of the Rehabilitation Act). 
+
+Petitioners claim that their “major life activity of seeing is re- 
+stricted in that they cannot perform it without the aid of corrective 
+measures.” Pet. Br. 31. But the plain language of the disability 
+definition requires that the “major life activity” of “seeing” be 
+analyzed functionally, not by considering the mechanics or quality 
+of vision in isolation. Some lower courts have recognized 
+
+
+that a visual impairment which hinders, or makes it more 
+difficult for an individual to function at full visual capacity, 
+does not amount to a substantial limitation on one’s ability to 
+see where the evidence suggests the individual can otherwise 
+conduct activities requiring visual acuity. 
+Cline v. Fort Howard Corp., 963 F. Supp. 1075, 1080 (E.D. Okla. 
+1997) (emphasis added); see also, e.g., Padilla, 708 P.2d at 550 
+(noting that the plaintiff “has worn glasses since his grade school 
+days and has testified to no problems or limitations in his 
+activities”). Any other approach would render the definition 
+tautological — i.e., one with a visual impairment that impairs 
+vision is disabled — and would essentially read the limiting phrase 
+of the disability definition out of the statute with respect to visual 
+and other sensory impairments. 
+
+
+18 
+
+
+After performing similar analyses, many courts have ruled 
+under both the ADA and its predecessor, the Rehabilitation Act, 
+that individuals with correctable vision problems are not disabled. 
+As one court noted, “Moderate vision impairment{s], although cer- 
+tainly an undesirable inconvenience, do[ } not substantially limit an 
+individual’s ability to see, to read, or to work.” Sweet v. Electronic 
+Data Sys., Inc., 1996 U.S. Dist. LEXIS 5544, at *14 (S.D.N_Y. 
+Apr. 26, 1996); see also id. at *16 (with corrected vision of 20/80 
+in one eye, plaintiff's “ability to engage in the major life activity 
+of seeing has been limited, but not substantially limited”).’ Indeed, 
+several courts have held that people with uncorrectable vision prob- 
+lems are not disabled, as long as they can see well enough to func- 
+tion within the range of the average person.* It would be exceed- 
+ingly odd if the ADA embraced persons with completely correct- 
+able nearsightedness because they would see badly if they failed to 
+wear their glasses, but excluded those with uncorrectable vision 
+impairments who actually function less well than such persons do. 
+
+
+Petitioners and their amici attempt to bring their impairment 
+
+
+" See also cases cited in note 2, supra; cf. Walker vy. Aberdeen-Monroe 
+County Hosp., 838 F. Supp. 285 (N.D. Miss. 1993) (plaintiff whose 
+vision was correctable to 20/30 with steroids and eye drops was not dis- 
+abled). Several of these courts concluded that correctable nearsightedness 
+was not even an “impairment” for purposes of the Act. Cf. Jasany v. 
+United States Postal Serv., 755 F.2d 1244, 1249 (6th Cir. 1985) (“Char- 
+acteristics such as average height or strength that render an individual in- 
+capable of performing particular jobs are not covered by the statute be- 
+cause they are not impairments.”) (footnote omitted). The court of appeals 
+rejected United's argument that nearsightedness is not an impairment; we 
+do not press the argument here because, even if petitioners’ nearsighted- 
+ness is an impairment, it does not substantially limit a major life activity. 
+
+* See Still v. Freeport-McMoran, Inc., 120 F.3d 50, 52 (Sth Cir. 1997) 
+(per curiam) (plaintiff, who “drives both cars and motorcycles, and is a 
+certified marksman,” is not disabled because he is blind in one eye; 
+“although his peripheral vision is limited by his partial blindness, 
+{plaintiff} is still able to perform normal daily activities”); Chandler v. 
+City of Dallas, 2 F.3d 1385 (Sth Cir. 1993) (plaintiff's uncorrectable poor 
+vision in one eye did not render him “handicapped” under the 
+Rehabilitation Act); Roth v. Lutheran Gen. Hosp., 57 F.3d 1446 (7th Cir. 
+1995); Santiago v. Temple Univ., 739 F. Supp. 974, 978 (E.D. Pa. 
+1990), aff'd, 928 F.2d 396 (3d Cir. 1991). 
+
+
+tential sweep of a ruling in their favor, by arguing that their near- 
+sightedness is exceptionally severe. Pet. Br. 38-40; Gov't Br. 11; 
+AIDS Action Br. 24. The perhaps greater-than-average severity of 
+petitioners’ nearsightedness is a distinction without a difference, 
+however. In their everyday lives, petitioners function identically to 
+
+
+noted above, most States require visual acuity of 20/40 
+or better to obtain a driver's license. Thus, if petitioners were 
+deemed disabled, then all persons with uncorrected vision worse 
+
+also be disabled, because they (like petitioners) 
+hems hy Oe any wn sce npg ego antl 
+lenses. See Norris v. Allied-Sysco Food Servs., Inc., 948 F. Supp. 
+, 1433 n.13 (N.D. Cal. 1996) (“the jury could have reasonably 
+felt that, at least in California, driving is a major life activity”). 
+There is no escaping the conclusion that a decision that petitioners 
+are “disabled” would dramatically expand the reach of the ADA 
+and unmoor it from the goals that motivated its enactment.’ 
+
+
+a 
+— 
+oe 
+
+
+Seanad Uminetinae tay the Veehdiaaion to of a Onecs beyond 
+that correctable by glasses or contact lenses.” J.A. 41. 
+
+
+First, the express references to visual impairments in the 
+
+
+* Petitioners’ (and the Government's) effort to win this case by gerry- 
+mandering a class that includes them but excludes many others, in fact, 
+gives rise to severe anomalies. Consider, for example, a person whose 
+20/50 uncorrected vision might be considered “average,” but who for 
+some reason cannot use lenses to improve his vision to anything better 
+than 20/50. Such a person might be left uncovered by the ADA, with the 
+one-two punch of consideration in an unmitigated state only and 
+comparison to the “average” person in that state (Gov't Br. 10-12). 
+
+
+20 
+
+
+Report notes that: 
+For blind and visually-impaired persons, reasonable accom- 
+modations may include adaptive hardware and software for 
+H.R. Rep. No. 101-485(II), 101st Cong., 2d Sess., at 64 (1990), 
+reprinted in 1990 U.S.C.C.A.N. 346. 
+
+
+Second, the legislative history confirms that the 43 million dis- 
+abled Americans cited in the statute’s findings did not include 
+people with correctable nearsightedness. The ADA’s findings of 
+fact, including their estimate of the number of disabled people in 
+America, had their origin in a report prepared by the National 
+Council on the Handicapped (now the National Council on 
+Disability) entitled On the Threshold of Independence. The report 
+included proposed legislation that began with the finding that “some 
+thirty-six million Americans have one or more physical and mental 
+disabilities.” On the Threshold, at 27 (Jan. 1988)."° The Council 
+Jerived that number from a 1986 Census Bureau study indicating 
+that 37.3 million Americans over the age of 15 had difficulty 
+performing basic physical activities. /d. at 9. The report makes it 
+clear that the Census Bureau was counting only people with 
+uncorrectable visual impairments. /bid. (“Some 12.8 million 
+people, or 7.1 percent of the population studied, had trouble seeing 
+words and letters in ordinary newsprint, even with glasses or 
+contact lenses.”) (emphasis added)."' 
+
+The first versions of the ADA proposed in the Congress in- 
+
+
+cluded virtually the same findings as the Council’s draft, including 
+the 36 million figure. See S. 2345, 100th Cong., § 2(a) (1988); 
+
+
+'° The conference reports make clear that the Congress was relying 
+heavily on the Council. See H.R. Conf. Rep. No. 101-558, 101st Cong., 
+2d Sess., at 81 (1990) (“The conferees intend to recognize the National 
+Council on Disability as the impetus, force, and originator of the initial 
+legislation for the Americans with Disabilities Act.”); H.R. Conf. Rep. 
+No. 101-596, 101st Cong., 2d Sess., at 85 (1990) (same). 
+
+
+'' This methodology is consistent with that long used by the National 
+Center for Health Statistics (NCHS) to determine the number of people 
+with visual impairments and with the definition of visual impairment given 
+by the National Advisory Eye Council. See p. 11, supra. 
+
+
+21 
+
+
+H.R. 4498, 190th Cong., § 2(a) (1988). A year later, Representa- 
+tive Coelho reintroduced the ADA and noted that, although “the 
+last U.S. census numbered the disabled at 36 million{,] [e]stimates 
+indicate that the number has risen to 43 million since then.” 135 
+Cong. Rec. E1575-01 (daily ed. May 9, 1989). Recent Census 
+Bureau reports show that the updated figure, like the earlier one, 
+excluded people with correctable vision conditions. See STATISTI- 
+CAL ABSTRACT OF THE UNITED STATES 138 (Table 209) (115th ed. 
+1995) (listing approximately 11 million people as visually disabled). 
+Third, the legislative history underscores Congress's belief, 
+reflected in the findings of fact, that the disabled tend to be poorer, 
+less well educated, and lower on the social scale than people 
+without disabilities. The House Report states, for example: 
+bilities are much poorer, have far less education, have less 
+social and community life, participate much less often in social 
+less satisfaction with life. 
+H.R. Rep. No. 101-485(III), 101st Cong., 2d Sess. (1990), 
+reprinted in 1990 U.S.C.C.A.N. 445, 465 (footnote omitted). As 
+discussed above, it is well documented that individuals with 
+nearsightedness are (as a group) wealthier and more highly 
+educated than average. See p. 10, supra. 
+
+
+Thus, this is not a case in which petitioners merely seek to ap- 
+ply the ADA in a “situation{ } not expressly anticipated by Con- 
+gress,” where an unambiguous text “demonstrates breadth.” 
+Pennsylvania Dep't of Corrections v. Yeskey, 118 S. Ct. 1952, 
+1956 (1998). Rather, petitioners’ highly doubtful reading of the 
+statutory text would cause the statute to contradict positive 
+indications in the legislative history that Congress did anticipate 
+application of the statute to vision impairments and did not intend 
+that it apply to fully correctable nearsightedness. 
+
+Il. AN IMPAIRMENT DOES NOT “SUBSTANTIALLY 
+
+LIMIT A MAJOR LIFE ACTIVITY” IF IT CAN BE 
+
+CORRECTED EASILY 
+
+
+Petitioners concede that they can see perfectly well with their 
+corrective lenses. They neither identify any functional impairment 
+of their vision when they use corrective lenses nor contend that the 
+use of corrective lenses itself causes them any actual difficulties. 
+
+
+22 
+
+
+Instead, they claim that they are disabled because they would be 
+substantially limited in seeing if they did not wear their glasses. 
+Relying on statements in interpretive guidance issued by the EEOC, 
+they ask this Court to adopt a general rule that courts may mever 
+consider the effect of corrective measures when deciding whether 
+an individual is disabled. In other words, they argue that the 
+disability determination should depend purely on the hypothetical 
+effects of the impairment in the absence of corrective measures, 
+rather than the actual effects of the impairment in the real world. 
+
+
+To accept the EEOC’s guidance and apply it to this case, 
+however, would effect a sweeping expansion of the ADA. As 
+discussed above, Congress enacted the ADA to address the 
+problems of a discrete and insular minority of individuals who, 
+because of their significant impairments, had faced discrimination, 
+isolation, and underemployment. Both the plain language of the 
+statute and its overall structure and meaning reflect the 
+congressional purpose to limit the Act’s protection to a discrete 
+group of physically disadvantaged people. There is no support in 
+the statute for the view that Congress meant to include within the 
+ADA's protected class the more than 100 million Americans who, 
+like petitioners, have readily correctable impairments that have a 
+trivial impact on their lives. Accordingly, this Court should reject 
+
+
+Petitioners rest their claim to ADA coverage on statements in 
+interpretive guidance that the EEOC published along with its regu- 
+lations under the ADA. In the interpretive guidance, the EEOC 
+stated that “[tJhe determination of whether an individual is substan- 
+tially limited in a major life activity must be made on a case by 
+case basis, without regard to mitigating measures, such as medica- 
+tion, or assistive or prosthetic devices.” 29 C.F.R. pt. 1630, App. 
+§ 1630.2(j), at 348 (1998)."* Petitioners argue that this Court must 
+
+
+'? The interpretive guidance also states that the determination of 
+whether an individual has an impairment should be made without regard 
+to mitigating measures. “For example, an individual with epilepsy would 
+be considered to have an impairment even if the symptoms of the disorder 
+were completely controlled by medicine. Similarly, an individual with 
+
+
+23 
+
+
+defer to the EEOC’s rule, and, for purposes of the disability de- 
+termination, treat petitioners as though their glasses did not exist. 
+
+“Although an agency's interpretation of a statute under which 
+it operates is entitled to some deference, ‘this deference is con- 
+strained by our obligation to honor the clear meaning of a statute, 
+as revealed by its language, purpose, and history.’” Southeastern 
+Comm. College v. Davis, 442 U.S. 397, 411 (1979) (quoting Team- 
+sters v. Daniel, 439 U.S. 551, 566 n. 20 (1979)) (rejecting HEW 
+tion on which petitioners rely should be rejected because it conflicts 
+with the plain meaning of the ADA, and its structure and purpose. 
+
+
+1. The EEOC interpretive guidance does not merit 
+special deference 
+
+The interpretation at issue is not a regulation promulgated 
+under the Administrative Procedure Act pursuant to a congressional 
+delegation of authority , but appears in guidelines published in an 
+appendix to regulations implementing Title |. “[Cjourts properly 
+may accord less weight to such guidance than to administrative 
+regulations which Congress has declared have the force of law.” 
+General Elec. Co. v. Gilbert, 429 U.S. 125, 141 (1976). 
+
+The regulations to which the guidance is appended contain def- 
+initions of each part of the statutory definition of disability, includ- 
+ing the phrases “physical or mental impairment,” “major life activ- 
+ities,” and “substantially limits.” 29 C.F.R. § 1630.2(h), (i), (j). 
+The regulatory definitions do not mention corrective measures. The 
+appended guidance document, however, states that “(t]he determi- 
+nation of whether an individual is substantially limited in a major 
+life activity must be made on a case by case basis, without regard 
+to mitigating measures, such as medication, or assistive or prosthet- 
+ic devices.” 29 C.F.R. pt. 1630, App. § 1630.2(j), at 348 (1998). 
+
+
+hearing loss would be considered to have an impairment even if the 
+conditions were correctable through the use of a hearing aid.” 29 C.F.R. 
+pt. 1630, App. § 1630.2(h), at 347 (1998). We agree that the use of 
+mitigating measures is irrelevant to the determination of whether there is 
+an underlying impairment. Mitigating measures are instead relevant to the 
+next stage of the analysis, which addresses the effects of the impairment, 
+and determines whether the impairment “substantially limits a major life 
+activity” of the particular individual. 
+
+
+24 
+
+
+Petitioners argue that this interpretive statement should be 
+accorded full deference under Chevron U.S.A. Inc. v. NRDC, 467 
+U.S. 837 (1984), because it was subject to notice-and-comment 
+rulemaking. Pet. Br. 15-16; see also 97-1992 Gov't Br. 19. That 
+assertion is misleading. First of all, publishing guidance in the 
+Federal Register along with a final or proposed rule is not the same 
+as issuing a regulation for formal notice and comment under the 
+APA. See Headrick v. Rockwell Int'l Corp., 24 F.3d 1272, 1282 
+(10th Cir. 1994) (comment to final regulations was “a purely 
+interpretive rule, unpromulgated under the [APA],” and 
+accordingly the court was “in no way bound to afford it any special 
+deference”). The EEOC so epee in soma | po 
+interpretive guidance, inviting comment on only a portion of It, 
+not on the portion relevant here. See 56 Fed. Reg. 8578 (1991). 
+
+
+More important, the draft guidance published in the Notice of 
+the statement on which petitioners rely so heavily. 56 Fed. Reg. 
+8578, 8593 (1991). As originally proposed, the sentence at issue 
+read in full: “The determination of whether an individual is sub- 
+stantially limited in a major life activity must be made on a case by 
+case basis.” Jbid. Only when it published its regulations and the 
+guidance in final form did the agency add to that sentence the 
+thirteen-word phrase that petitioners contend requires a ruling that 
+they are “disabled.” 56 Fed. Reg. 35,726, 35,727 (1991). The 
+agency explained that it had revised the guidance to 
+
+
+respond to comments from disability rights groups, which 
+were concerned that the discussion [of the meaning of 
+“substantially limits”] could be misconstrued to exclude from 
+ADA coverage individuals with disabilities who function well 
+because of assistive devices or other mitigating measures. 
+
+
+Id. at 35,728." Thus, the regulated community had no notice that 
+it would be subject to a categorical rule that corrective measures 
+
+
+" The Government suggests that the EEOC should receive credit for 
+“consistently interpreting” the rule, and describes what seem to be two 
+separate occasions when the agency addressed the issue. 97-1992 Gov't 
+Br. 18-19. The two statements described by the Government, however, 
+appeared in the very same document, which contained the final version of 
+the regulations and the appendix (which later were published in the Code 
+of Federal Regulations) and an explanatory preamble. 
+
+
+25 
+
+
+were never relevant to the disability determination. In fact, only 
+“disability rights groups” had the opportunity to consider the 
+import of, and comment on, the interpretation at issue here." 
+Nor is it true, as petitioners claim (Pet Br. 16), that the 
+guidance at issue is entitled to high level of deference accorded to 
+an agency's interpretation of its own regulations. The language at 
+issue does not construe the regulations. At most, it adds an ad- 
+ditional gloss (which the EEOC did not see fit to include in its reg- 
+ulations) to the statutory definition of disability. While we contend 
+that the guidance is entitled to less deference than a regulation in- 
+terpreting a statute that the agency has been entrusted to administer, 
+it surely is not entitled to receive more deference through treatment 
+as an interpretation of a regulation that the agency has written. 
+“[W]ell-reasoned” views of an agency do “constitute a body 
+of experience and informed judgment to which courts and litigants 
+may properly resort for guidance.” Bragdon, 118 S. Ct. at 2207 
+(quoting Skidmore v. Swift & Co., 323 U.S. 134, 139-140 (1944)). 
+The weight to be accorded the interpretation, however, depends on, 
+among other things, “the thoroughness evident in its consider- 
+ation.” Skidmore, 323 U.S. at 140. “The EEOC guideline in ques- 
+tion does not fare well under these standards.” General Elec. v. 
+Gilbert, 429 U.S. at 142. As noted above, the guideline appears to 
+have been added to the interpretive guidance as a result of pressure 
+from advocacy groups with an interest in the broadest possible 
+interpretation of the ADA. Groups having an interest in cabining 
+the statute had no opportunity to point out the problems inherent in 
+a rule categorically barring consideration of mitigating measures — 
+
+
+‘* The version of the interpretive guidance published with the proposed 
+rule did note that “[ajn individual who uses artificial legs would * * * be 
+substantially limited in the major life activity of walking because the indi- 
+vidual is unable to walk without the aid of prosthetic devices,” and that 
+“a diabetic who without insulin would lapse into a coma would be substan- 
+tially limited because the individual cannot perform major life activities 
+without the aid of medication.” 56 Fed. Reg. at 35,741. But those exam- 
+ples are consistent with the consideration of corrective measures in other 
+instances, and are far from the strict rule requiring disregard of even the 
+most effective and least burdensome remedies that petitioners now argue 
+was issued for notice and comment. The EEOC acknowledged as much 
+when it stated that its discussion of “substantially limits” could be “mis- 
+construed” to exclude people with controlled impairments. 
+
+
+26 
+
+
+for example, that people like petitioners with impairments having 
+a trivial impact on their lives would be protected. 
+
+
+Moreover, as the court of appeals noted (J.A. 64-65), the in- 
+terpretation is at odds with other parts of the EEOC’s regulation 
+and guidance. First, the guidance explains that “an employee [who] 
+has controlled high blood pressure that is not substantially limiting” 
+would be covered under the “regarded as” prong of the disability 
+definition if his employer viewed him as substantially limited. 29 
+C.F.R. § 1630, App. § 1630.2(/) para. 6 (emphasis added). That 
+statement strongly conveys that it is the employee’s “control” of his 
+high blood pressure that renders it “not substantially limiting. 
+
+Second, in discussing the term “substantially limits,” the inter- 
+pretive guidance states that “whether an individual has a disability 
+is not necessarily based on the name or diagnosis of the impairment 
+the person nas, but rather on the effect of that impairment on the 
+life of the individual.” Id. § 1630.2(j) para. 2 (emphasis added). 
+As the court of appeals aptly explained, “the EEOC recognized that 
+it is the actual effect on the individual’s life that is important in 
+determining whether an individual is disabled under the ADA. 
+J.A. 65. It is surely hard to square the EEOC’s language with an 
+absolute rule that corrective measures must always be disregarded. 
+
+
+2. The EEOC’s directive to ignore corrective 
+measures conflicts with the plain meaning of the 
+statute 
+
+
+Whatever weight this Court decides to grant the EEOC’s 
+views, the guidance should be rejected because it does violence to 
+the language and purposes of the statute. “The traditional deference 
+courts pay to agency interpretation is not to be applied to alter the 
+clearly expressed intent of Congress.” Board of Governors v. Di- 
+mension Fin. Corp., 474 U.S. 361, 368 (1986), quoted in Dole v. 
+United Steelworkers of Am., 494 U.S. 26, 43 (1990); see also Pub- 
+lic Employees Retirement Sys. v. Betts, 492 U.S. 158, 171 (1989) 
+(“[N]o deference is due to agency interpretations at odds with the 
+plain language of the statute itself.”). The conclusion that Congress 
+
+
+'S Petitioners claim that “the phrase suggests that controlled high blood 
+pressure may or may not be substantially limiting, depending upon the 
+severity of the underlying condition (without medication).” Pet. Br. 15 
+n.16. But that explanation renders the EEOC’s use of the word 
+“controlled” entirely superfluous, and is unconvincing. 
+
+
+27 
+
+
+did not intend to preclude the consideration of corrective measures 
+emerges from a review of the text of the disability definition and 
+the statute’s structure and enumerated purposes. 
+
+
+1. As the court of appeals ruled, the portion of the EEOC’s 
+guidance on which petitioners rely must be rejected because it is 
+“in direct conflict with the plain language of the ADA.” J.A. 64. 
+“The term ‘disability’ means, with respect to an individual (A) a 
+physical or mental impairment that substantially limits one or more 
+of the major life activities of such individual.” 42 U.S.C. 
+§ 12102(2). The definition does not end with the word “impair- 
+ment.” Congress could easily have drafted a statute that prohibited 
+discrimination based on any physical impairment (subject to the af- 
+firmative defenses), but it did not do so." The definition of dis- 
+ability must be read in light of the express intent to sort out impair- 
+ments meriting protection under the ADA from those that do not. 
+
+
+This Court “assume{s} that the legislative purpose is expressed 
+by the ordinary meaning of the words used.” INS v. Phinpathya, 
+464 U.S. 183, 189 (1984). What separates protected from 
+unprotected impairments is the requirement that the impairment 
+“substantially limit[ ] one or more of the major life activities of 
+such individual.” Each part of that phrase, when given its natural 
+meaning, lends support to the conclusion that corrective measures 
+cannot be ignored when deciding whether an individual is disabled. 
+
+
+First, as noted above, the “ordinary or natural meaning” of the 
+phrase “substantially limits” requires that an impairment “signif- 
+icantly restrict an individual’s ability to perform a major life activ- 
+ity.” Halperin, 128 F.3d at 199. By including only significant 
+restrictions, the definition excludes insignificant, unimportant, or 
+trivial restrictions. Even if the need to use a corrective device to - 
+perform a major life activity is a “limitation” or “restriction” on 
+that activity, it is not necessarily a significant restriction. A person 
+who can perform a life activity with no functional deficit by using 
+a simple, painless, and inexpensive corrective measure does not 
+face a “significant restriction” in that life activity. To rule other- 
+wise is “to read out of the act’s first definition of disability the re- 
+
+
+° In fact, the draft legislation originally proposed to Congress by the 
+National Council on the Handicapped would have prohibited discrimination 
+based on any impairment, but Congress chose to add the “substantially 
+limits” requirement. See On The Threshold, at 28-29. 
+
+
+28 
+
+
+quirement that it applies only to those persons who are ‘sub- 
+stantially limited’ in major life activities.” Schluter v. Industrial 
+Coils, Inc., 928 F. Supp. 1437, 1445 (W.D. Wis. 1996). 
+
+
+A directive to ignore corrective measures also offends the form 
+of the operative limiting phrase. By employing the phrase “substan- 
+tially limits one or more major life activities” in the present indica- 
+tive form, Congress conveyed its concern with substantial limita- 
+tions that actually exist. See United States v. Wilson, 503 U.S. 
+329, 333 (1992) (“Congress’ use of a verb tense is significant in 
+construing statutes”). Thus, the ADA does not authorize a hypo- 
+thetical inquiry into a set of facts that might exist if an individual 
+abandoned the corrective measures that actually minimize or elimi- 
+nate the effects of his impairment. As the court of appeals stated, 
+the disability determination is “concerned with whether the impair- 
+ment affects the individual in fact, not whether it would hypotheti- 
+cally affect the individual without the use of corrective measures.” 
+J.A. 64. See also Gilday v. Mecosta County, 124 F.3d 760, 767 
+(6th Cir. 1997) (Kennedy, J., concurring in part and dissenting in 
+part) (“I do not believe that Congress intended the ADA to protect 
+as ‘disabled’ all individuals whose life activities would hypothetical- 
+ly be substantially limited were they to stop taking medication”). 
+
+Disregarding available mitigating measures also defies the stat- 
+utory command to examine the effect of the impairment on “the 
+major life activities of such individual.” As the court of appeals 
+ruled, that phrase conveys the need for an individualized analysis 
+of the effects of the impairment that is rooted in the facts of each 
+particular case. See Ryan v. Grae & Rybicki, P.C., 135 F.3d 867, 
+872 (2d Cir. 1998) (“the determination whether an impairment 
+‘substantially limits’ a major life activity is fact specific”); 
+Chandler v. City of Dallas, 2 F.3d 1385, 1396 (Sth Cir. 1993) 
+(recognizing that “the effect of a given type of impairment * * ° 
+can vary widely from individual to individual”). Nothing in the 
+
+statute permits courts to exclude from this case-by-case factual anal- 
+ysis information concerning measures that the individual uses to 
+correct an impairment when such information indisputably is rele- 
+vant to the actual effect of the impairment on an individual's life. 
+
+
+Finally, to disregard the individual's use of corrective mea- 
+sures also ignores the definition’s use of the term “life activities.” 
+By defining disability with respect to limitation on “life activities,” 
+Congress conveyed its intention to protect those individuals who are 
+
+
+29 
+
+
+substantially limited in doing the things that other 
+
+thin; people do. In 
+as Opposed to existential, consequences. The EEOC guidance ig- 
+nores that language and elevates form over function. 
+
+
+2. The plain meaning of the phrase “substantially limits a ma- 
+jor life activity” can be discerned, not only by giving those words 
+their ordinary and natural meaning, but also by considering their 
+function in the context of the entire Act. As this Court has stated: 
+
+
+Statutory construction nash . is a holistic endeavor. A provision 
+that may seem ambiguous in isolation is often clarified by the 
+remainder of the statutory scheme — * * * because only one 
+of the permissible meanings produces a substantive effect that 
+is compatible with the rest of the law. 
+
+
+United Savings Ass'n v. Timbers of Inwood Forest Assocs 
+
+U.S. 365, 371 (1908); see aloo Bescham v. Unised Staves, 511°U.S. 
+368, 372 (1994) (“the plain meaning that we seek to discern is the 
+plain meaning of the whole statute, not of isolated sentences”): 
+United States Nat'l Bank of Oregon v. Independent Ins. Agents of 
+Am., 508 U.S. 439, 455 (1993) (quoting United States v. Heirs of 
+Boisdoré, 49 U.S. (8 How.) 113, 122 (1849)) (“In expounding a 
+Statute, we must not be guided by a single sentence or member of 
+a sentence, but look to the provisions of the whole law, and to its 
+object and policy.”); K mart Corp. v. Cartier, Inc., 486 U.S. 281 
+291 (1988) (“[iJn ascertaining the plain meaning of the statute, the 
+court must look to the particular statutory language at issue, as well 
+as the language and design of the statute as a whole”). 
+
+
+es Even if the words “substantially limits” were ambiguous read 
+in isolation, their meaning would be clarified by considering their 
+function in the context of the entire Act. If “the statute, as a whole, 
+Clearly expresses Congress’ intention,” the Court “decline[s] to de- 
+fer to [the agency's] interpretation.” Dole v. Steelworkers, 494 
+U.S. at 42. Only an interpretation that excludes from the ADA’s 
+protected class people whose physical limitations have been 
+successfully corrected “is compatible with the rest of the law.” 
+
+
+So ae rule that ignores the effects of corrective measures 
+ou inconsistent with the statutory findings that preface the 
+ADA. See 42 U.S.C. § 12101. This Court has found “* congres- 
+sional statements of purpose “useful * * * [in] detailing Congress’ 
+Purposes in enacting [a] statute” and thereby clarifying the meaning 
+
+
+30 
+
+
+of one of its provisions. Dole v. Steelworkers, 494 U.S. at 36-37 
+(invalidating OMB interpretation of provision of the Paperwork Re- 
+duction Act because it did not further “Congress’ enumerated pur- 
+poses”). As discussed above (at 13-14), the statutory findings make 
+clear that Congress was concerned with providing a remedy for 
+Americans whose functional limitations had caused them to suffer 
+discrimination, isolation, and underemployment. The congressional 
+finding that 43 million Americans were disabled was based on 
+statistics that focused on such practical limitations. See pp. 20-21, 
+supra. \t would offend Congress's purpose as expressed through its 
+statutory findings to sweep under the umbrella of the ADA persons 
+whose impairments have virtually no practical impact on their lives 
+— especially since such an interpretation would cause explosive 
+growth of the population covered by the statute. 
+
+
+Second, the EEOC rule offends Congress’s intention to draw 
+a rational line around a protected class of persons whose seveve im- 
+pairments leave them most in need of the Act’s remedies. A 
+directive to ignore mitigating measures artificially blinds the 
+statutory sorting mechanism to important factors determining the 
+severity of an impairment, so that the statute ends up protecting 
+individuals who function far better than many who are excluded. 
+For example, a person with an uncorrectable visual impairment 
+that does not rise to the level of a disability would be excluded 
+from the statute, but a person who can see perfectly well using 
+glasses would be included. See cases cited in note 8, supra. 
+Similarly, a person with an uncorrectable back injury that leaves 
+him or her moderately restricted in lifting would be excluded from 
+the statute (see Williams, 101 F.3d at 349), but a person with 
+potentially serious arthritis rendered asymptomatic by medication 
+would be included. Congress should not lightly be deemed to have 
+intended such an irrational result. 
+
+
+Trying to separate “the disease [from] its treatment” creates 
+other problems as well. If the EEOC’s interpretive guidance were 
+followed to the letter, than a plaintiff who had an impairment that 
+was not substantially limiting but who experienced debilitating side 
+effects from its treatment would not be covered by the ADA. Yet 
+the purposes of the Act surely are served by extending protection 
+to such people. Gordon v. El. Hamm & Assocs., Inc., 100 F.3d 
+907 (11th Cir. 1996) (considering whether plaintiff, whose lympho- 
+ma did not substantially limit a major life activity, was substantially 
+limited by the effects of his chemotherapy treatments), cert. denied, 
+
+
+31 
+
+
+118 S. Ct. 630 (1997). Conversely, someone who suffered a dan- 
+gerous episode of a treatable health problem (such as a heart attack 
+or stroke) would thereafter always be considered disabled, because 
+he might have died without treatment. Courts do not now automat- 
+ically grant such persons protection under the ADA. See Katz v. 
+City Metal Co., Inc., 87 F.3d 26, 32 (ist Cir. 1996) (explaining 
+that plaintiff would be considered disabled after surviving a heart 
+attack and angioplasty procedures only if his post-treatment 
+limitations were “permanent or persisted on a long-term basis”). 
+
+
+Thus, even if the statute is ambiguous, the EEOC’s directive 
+to ignore mitigating measures is not “a reasonable choice within a 
+gap left open by Congress.” Chevron, 467 U.S. at 866. By con- 
+trast, considering all relevant facts concerning an individual's im- 
+pairments, including the effects of mitigating measures, permits 
+consistent and rational decisions concerning who is covered by the 
+statute and who is not. Individuals (like petitioners) whose other- 
+wise substantial impairments are corrected through reliable, 
+effective, and non-burdensome measures will not be considered dis- 
+abled. See Wilkins v. County of Ramsey, 983 F. Supp. 848, 854 
+(D. Minn. 1997) (person with medicated depression who “suffers 
+no symptoms” “as long as she takes her medication” was not 
+disabled), aff'd, 153 F.3d 869 (8th Cir. 1998). Individuals whose 
+treatments leave them substantially impaired will be considered 
+disabled. See Thomas v. Davidson Academy, 846 F. Supp. 611, 
+617-618 (M.D. Tenn. 1994) (student whose serious autoimmune 
+disorder remained dangerous despite extensive ongoing medical 
+treatment was disabled). Individuals with substantial impairments 
+that are treatable but not perfectly correctable may or may not be 
+considered disabled, depending on the effectiveness of the treatment 
+and the limitations imposed by the treatment itself. See Cehrs v. 
+Northeast Ohio Alzheimer's Research Ctr., 155 F.3d 775, 781 (6th 
+Cir. 1998) (genuine issue of material fact existed as to whether 
+plaintiff's treated psoriasis was a disability where plaintiff suffered 
+effects of both the disease and her weekly medication); Coghlan v. 
+A.J. Heinz Co., 851 F. Supp. 808, 814 (N.D. Tex. 1994) (genuine 
+issue of material fact existed as to whether plaintiff's treated di- 
+abetes was a disability because, among other things, plaintiff 
+claimed that his insulin injections caused episodes of 
+hypoglycemia). Those with treatable impairments will be fairly 
+compared with those who have untreatable impairments, according 
+
+
+32 
+
+
+to the actual limitations each actually experiences. Congress cannot 
+have intended any other result. 
+
+
+3. Petitioners’ and their amici’s arguments supporting the 
+EEOC interpretation are unconvincing 
+
+
+Petitioners and the amici supporting their position argue both 
+from the text of the Act and from its ostensible ends that the 
+disregard of mitigating measures is consistent with the Act or even 
+necessary to effectuate its purposes. Those arguments are 
+unconvincing at best, and at worst suggest a drift (if not an outright 
+leap) toward an interpretation of the Act that would simply prohibit 
+employment actions based on the physical characteristics of 
+employees. None of them rescues petitioners’ claims. 
+
+
+1. Petitioners make several textual arguments in favor of the 
+EEOC’s rule. First, they contend, the phrase “substantially limits” 
+necessarily encompasses “the inability to perform a major life ac- 
+tivity except with a corrective device.” Pet. Br. 31. But “not every 
+impairment that affect[s] an individual’s major life activities is a 
+substantially limiting impairment.” Roth v. Lutheran Gen. Hosp.., 
+57 F.3d 1446, 1454 (7th Cir. 1995) (emphasis added; footnote 
+omitted). As noted above, a person who uses a corrective device to 
+ameliorate a substantially limiting impairment may well continue to 
+be substantially limited in a major life activity, either because the 
+device does not completely correct the impairment, or because the 
+corrective measure itself imposes new limitations. Nothing in the 
+statutory language, however, gives privileged status to the need for 
+corrective devices in the assessment of what constitutes a substantial 
+limitation, much less suggests that classification as disabled flows 
+ipso facto from the need for such corrective measures. 
+
+
+Second, petitioners argue that the Tenth Circuit’s rule “adds 
+terms to the Act that Congress chose not to employ.” Pet. Br. 34. 
+It is petitioners, however, who seek to add terms to the disability 
+definition and change its verb form: their rule would change the 
+phrase “substantially limits” to “would without correction substan- 
+tially limit.” Nothing in the statute justifies such an alteration. 
+
+
+Finally, petitioners claim that Congress could have expressly 
+excepted correctable impairments from the statute, but chose not to 
+do so. Pet. Br. 35. The fact is that the disability definition draws 
+a line between impairments that substantially limit major life 
+activities and those that do not. Both correctable and uncorrectable 
+
+
+33 
+
+
+impairments may fall on either side of that line. The dichotomy 
+between correctable and uncorrectable impairments is a construct 
+alien to the statute’s language and purposes, and little meaning can 
+be attributed to the absence of language addressing the issue. 
+
+
+ee eR anne ine ehttee Gass the BOC vale is 
+necessary to effectuate the of 
+ADA. They insist that the ADA must be interpreted ov petal 
+cause it is a remedial statute. E.g.. Pet. Br. 29; ACLU Br. 5. 
+That principle may be invoked, in case of ambiguity, to find pres- 
+ent rather than absent elements that are essential to operation of a 
+legislative scheme; but it does not add features that will achieve the 
+statutory ‘purposes’ more effectively.” Director, OWCP v. Newport 
+News Shipbuilding & Dry Dock Co., 514 U.S. 122, 135-136 (1995) 
+(citation omitted). "” Moreover, as this Court has stated, “[dJeciding 
+what competing values will or will not be sacrificed to the 
+achievement of a particular goal is the very essence of legislative 
+choice ay and it frustrates rather than effectuates legislative intent 
+simplistically to assume that whatever furthers the statute's primary 
+objective must be the law.” Rodriguez v. United States, 480 U-S. 
+$22, 526 (1987) (per curiam) (emphasis in original). That 
+admonition is particularly apt in this case, since expansion of the 
+definition of disability simultaneously contracts the employer's 
+general discretion to make employment decisions based on physical 
+characteristics — a “competing value[ }” that the Congress that 
+enacted the ADA regarded as important. See pp. 14-16, supra. 
+
+
+More specifically, petitioners and their amici argue that a 
+broad definition of disability is required because people have the 
+right to prove that they are qualified for the positions from which 
+they are rejected because of their impairments. According to 
+petitioners, “Congress structured the ADA to define broadly who 
+is disabled, but limited its remedies only to those who can 
+demonstrate they are qualified to perform the work they seek.” Pet. 
+
+
+" See also, e.g., East Bay Mun. Util. Dist. v. Department of Com- 
+merce, 142 F.3d 479, 484 (D.C. Cir. 1998) (“We have recently expressed 
+our general doubts about the canon that ‘remedial statutes are to be 
+construed liberally,’ since virtually any statute is remedial in some 
+respect.”); Bushendorf v. Freightliner Corp., 13 F.3d 1024, 1026 (7th 
+Cir. 1993) (“It will not do to intone the hoary canon that remedial statutes 
+are to be construed liberally. This is one of the least persuasive of the 
+canons; * * * we [have] called it ‘useless.’”). 
+
+
+34 
+
+
+Br. 27: see also Harkin Br. 7 (“The proper approach * * * is to 
+broadly interpret the definition of disability, so that a fact-specific 
+inquiry into the individual's qualifications can be pursued.”). 
+
+By giving primacy to the pursuit of a “fact-specific inquiry 
+into the individual's qualifications,” however, petitioners and amici 
+put the cart before the horse. As this Court observed when it 
+construed the Rehabilitation Act in School Board of Nassau County 
+y. Arline, 480 U.S. 273 (1987), “only those individuals who are 
+both handicapped and otherwise qualified are eligible for relief.” 
+Id. at 284 (emphasis in original). An individual must first make the 
+threshold showing that he is disabled before he can complain that 
+he was rejected for a job based on physical shortcomings despite 
+his ability to perform the job’s “essential functions.” As discussed 
+above, the Act purports neither to do away with employers’ 
+freedom to impose physical qualifications (even unsubstantiated 
+ones) on potential employees, nor to give all employees the 
+opportunity to litigate over whether they are actually qualified for 
+positions whose physical standards they do not meet. Only the 
+disabled have that right under the ADA. A policy argument that 
+everyone should have that right is no help in construing the statute 
+that Congress actually passed and the President signed. 
+
+Petitioners also contend that considering mitigating measures 
+when determining whether an individual is disabled will deny pro- 
+tection to individuals with serious impairments who manage to 
+control their disabilities sufficiently to perform the essential 
+functions of the jobs they have or seek. Affirmance of the decision 
+below, petitioners and their amici dramatically predict, would 
+create a “Catch-22” whereby no qualified individual would be 
+considered disabled, and no disabled individual would be qualified. 
+Harkin Br. 7-9; ACLU Br. 18. 
+
+The supposed “Catch-22” is wholly illusory, however. Many 
+people whose controlled impairments allow them to work 
+nonetheless continue to be “substantially limited” in major life 
+activities. As Senator Harkin et al. explain helpfully in their brief 
+(at 9-13), many people who suffer from diabetes, epilepsy, and 
+mental illness often remain quite limited at work or otherwise, even 
+with treatment. See also AIDS Action Br. 22 (“[mJany individuals 
+
+who rely on mitigating measures continue to experience limitations, 
+albeit lessened, that require accommodations”). Contrary to the 
+concerns expressed by these amici, such individuals will continue 
+
+
+35 
+
+
+to be covered under the Act."* Those who (like petitioners 
+completely control their “impairments” with seh ser cma 
+corrective measures, however, will not be considered disabled 
+under the first prong of the disability definition. If their employers 
+cet serine Gam teste of 2 minentnesanding of Gis 
+
+or a fez it will recur, they will be protected under 
+the second or third prong of the disability definition. All of the 
+goals of the ADA can thus be served without broadening the defini- 
+tion of actual disability to sweep in perfectly able-bodied people 
+like petitioners, whom Congress did not intend to protect." 
+
+
+Petitioners argue that the consideration of mitigating measures 
+would “require courts to dictate what treatments, medications, or 
+other measures each disabled person must undergo.” Pet. Br. 27. 
+They raise the specter of judges deciding “whether an impaired per- 
+son should accept medication with significant side effects, seek out 
+experimental treatments, undergo evasive surgery, and so forth.” 
+Id. at 30. But, just as the statute's language indicates that the inqui- 
+ry is actual (“substantially limits”) and not hypothetical (“would 
+substantially limit”), so too the language is naturally read to make 
+consider only corrective measures that the individual actually uses 
+when evaluating the impact of the impairment. See Haworth v. 
+Procter & Gamble Mfg. Co., 1998 WL 231062 (D. Kan. Apr. 30, 
+1998) (declining to take into account effects of medications plaintiff 
+does not take regularly for financial/insurance coverage reasons); 
+but see Testerman, 1997 U.S. Dist. LEXIS 21392, at *48-*49 
+(ruling that defendant had raised a genuine dispute as to whether 
+
+
+- ; 
+Contrary to the views of petitioners’ amici, statements in the legisla- 
+tive record recognizing that people with chronic conditions like HIV or 
+epilepsy may need workplace accommodations to facilitate their medical 
+treatment support consideration of the effects (and the demands) of 
+corrective measures when determining whether someone is disabled. See, 
+€.8., AIDS Action Br. 10-11. The medical treatment of a condition 
+obviously does not cause it automatically to lose its status as a disability. 
+For example, this Court had no difficulty deciding in Bragdon, 118 S. Ct. 
+at 2206, that the plaintiff was substantially limited in reproduction whether 
+or not the effects of medication were considered. 
+
+
+os ea eee eee ene SR © anuneetind 
+impairment necessarily be “regarded as” disabled by an employer 
+that deems him or her physically unsuited for a particular job. 
+
+
+36 
+
+
+the plaintiff's diabetes would have been substantially limiting if it 
+had been more diligently treated). In any event, like every element 
+of petitioners’ parade of horribles, this issue has nothing to do with 
+this case: there is no controversy concerning the actions that 
+petitioners have taken to correct their impairment. 
+
+
+The Government attempts another version of this oy ome 
+ontending that the consideration of mitigating measures “w 
+lead to py instability in the definition of disabilities. 97- 
+1992 Gov't Br. 15. Noting that — pee of se yin ag 
+other mitigating measures vary in Veness « . 
+tne Guveuanuins canted ta, tp cata “determining whether 
+an impairment [without reference to mitigating measures] 
+substantially limits a major life activity Is relatively 
+straightforward.” Jd. at 15-16. But there is no basis at all for the 
+government's speculation that the effectiveness of mitigating 
+measures is more variable over time than is the degree of limitation 
+imposed by impairments themselves. Certainly, when the impair- 
+ment” at issue is nearsightedness, common experience as well as 
+government statistics suggest that uncorrected vision is more likely 
+to change (and change radically) as people age than is the effective- 
+ness of common corrective measures, which can bring the vast ma- 
+jority of the populace to 20/20 corrected vision over most of their 
+lives. Any remaining “instability” Is inherent in the case-by-case 
+analysis of the effect of a given impairment on each individual re- 
+quired by the statute. See Deas v. Alternative Addiction Treatment 
+Concepts, Inc., 152 F.2d 471 (Sth Cir. 1998), petitions for cert. 
+pending, Nos. 98-916, 98-1057. Indeed, the failure to consider 
+mitigating measures would lead to a strange stasis in the definition 
+of disabilities, by replacing the evaluation of an impairment s actual 
+effects with the assessment of presumptions about the impairment s 
+possible effects in its untreated state. 
+
+Petitioners and their amici also claim that the Tenth Circuit's 
+rule will create perverse incentives by “rewarding” people who do 
+not ameliorate their impairments with the right to sue under the 
+ADA. But few people would abandon effective remedies for their 
+impairments merely to obtain rights under the ADA; and any incli- 
+nation to do so would be checked by the obligation to remain quali- 
+fied for the job they seek.” Petitioners’ hypothetical suggestion that 
+
+
+* Contrary to the suggestion of petitioners (Br. 29) and the First Cir- 
+cuit in Arnold, 136 F.3d at 863 n.7, it is not at all odd that the statute may 
+
+
+37 
+
+
+they would be proper plaintiffs if they threw away their glasses 
+illustrates this. Petitioners are unlikely to give up watching televi- 
+sion, driving, and reading to support their right to sue United, and 
+in any event they would have no chance of establishing that they 
+are qualified to fly passenger jets without their glasses. 
+Petitioners also claim that the Tenth Circuit’s reading of the 
+disability definition conflicts with the employer’s obligation to pro- 
+Vide reasonable accommodations to persons who are substantially 
+limited in the major life activity of working. Under the court of 
+appeals’ reasoning, they contend, an employer would be entitled to 
+withdraw the required accommodation as soon as it was provided, 
+because the impairment would “no longer ‘affect{ ] the individual 
+in fact."” Pet. Br. 33. There is no danger, however, that any court 
+would adopt the absurd and circular rule that the provision of the 
+ADA’s remedy simultaneously removes the statute’s protections. 
+
+
+give less protection to people who take care of themselves than to those 
+who forgo mitigating measures. People are disabled for many reasons. but 
+this statute is not constructed to protect only the most deserving of them. 
+The person who is in a wheelchair because he foolishly jumped out of a 
+window during a college prank is no less entitled to statutory protection 
+as “disabled” than the person who has been unable to walk since birth. 
+The statute’s focus, undeniably, is on the individual's condition, not how 
+the individual came to be in that condition. Similarly, ongoing medical 
+regimens (such as diet and exercise) to treat various conditions may ex- 
+ceed particular individuals’ self-discipline. When the consequences of fail- 
+ure to follow “doctor's orders” become severe enough, some individuals, 
+as a result of their own decisions, may be substantially limited in a major 
+life activity while their more self-disciplined friends are not. But the 
+statute humanely affords protection to ail disabled persons including those 
+who have forgone appropriate treatment. The absurdity of reading the un- 
+qualified phrase “substantially limits” to require inquiry into an individu- 
+al’s hypothetical activities is far greater than the supposed “absurd results” 
+(Pet. Br. 29) inherent in the possibility that under respondent’s non- 
+hypothetical reading a few litigious individuals might forgo treatment and 
+suffer limitation in major life activities just so that they could obtain 
+favorable legal treatment. And judges may well have the tools available 
+to deal with truly abusive litigation-driven tactics. See Bowers v. Multi- 
+media Cablevision, Inc., 1998 U.S. Dist LEXIS 19319, at *11 (D. Kan. 
+Nov. 3, 1998) (“the plaintiff cannot gain ADA protection by unilaterally 
+corrects or alleviates his condition”). 
+
+
+38 
+
+
+The Tenth Circuit's rule does not suffer from such circularity. Peti- 
+tioners are not disabled, not because they have received from an 
+employer an accommodation without which they would be unable 
+to perform a wide variety of jobs, but because they suffer from no 
+functional impairment and could perform almost any job for which 
+they were trained without accommodation. *! 
+
+
+Petitioners also argue that the Tenth Circuit's reasoning is at 
+odds with the second prong of the disability definition, which cov- 
+ers individuals with a “record of” being disabled. Pet. Br. 33-34. 
+Petitioners contend that a formerly disabled but completely cured 
+person is protected under the second prong, but thai a person with 
+an ongoing but controlled impairment would not be covered by the 
+Act at all. Jbid. Every statute that draws a line around a protected 
+class will cause some anomalies, but this is not one. The second 
+prong of the disability definition aims at protecting individuals who 
+were formerly disabled or inaccurately identified as disabled from 
+discrimination based on the inaccurate belief that they are still 
+disabled or the fear that the condition will recur. See 29 C.F.R. 
+§ 1630.2(k). It does not protect formerly disabled people from the 
+sort of physical qualifications to which non-disabled people are sub- 
+ject. Thus, if a formerly blind person had his vision restored, but 
+was still severely nearsighted, he would have no more right to 
+challenge United’s vision standard than petitioners do, because 
+United’s action would be based on his current, non-disabling vision 
+impairment, not his former blindness.” In any event, petitioners 
+would not be covered under the second prong even if their 
+
+
+*! Nor is it true, as petitioners contend (Pet. Br. 33), that “the fact that 
+an employee can perform a job only with a reasonable accommodation is 
+itself a substantial limitation.” Once again, petitioners disregard the fact 
+that the threshold disability determination decides who is entitled to 
+demand a reasonable accommodation from employers. The fact that an 
+employee would need an accommodation to perform a particular job does 
+not establish that he or she is substantially limited in the major life activity 
+of working — just as an individual's use of corrective measures does not 
+alone establish disability. 
+
+
+Such a person might have a cause of action against United if, for 
+example, United refused to hire him because of an unfounded fear that he 
+would lose his vision again. 
+
+
+39 
+impairment were completely eliminated by laser surgery. The cure 
+of an impairment that was never a disability does not make it one.” 
+
+
+B. The Legislative History Does Not Justify An Expansion 
+Of The ADA To Require Disregard For Corrective 
+
+
+Measures 
+Petitioners argue that they can discern from a few brief state- 
+ments im committee reports that Congress i to preclude 
+
+
+consideration of any mitigating measures when determining w 
+
+an individual is covered by the Act. It is inappropriate, of ee 
+to resort to the legislative history to divine the meaning of a statute 
+when the statute itself is clear. See INS v. Cardoza-Fonseca, 480 
+U.S. 421, 432 n.12 (1987). Even when a statute is ambiguous, 
+moreover, the legislative history is of little value in clarifying 
+congressional intent if it expresses inconsistent positions regarding 
+the question at hand. With regard to the narrow question of mit- 
+igating measures, “[t}he legislative history [of the ADA] is more 
+conflicting than the text is ambiguous.” Wong Yang Sung v. 
+McGrath, 339 U.S. 33, 49 (1950). Moreover, the legislative history 
+(reinforcing the broad statements of purpose in the statute itself) 
+makes it plain that Congress did not intend to protect under the 
+ADA People like petitioners who have widely shared and easily 
+remedied impairments. Accordingly, the legislative history may not 
+
+
+” The Government's argument from the structure of the ADA is more 
+nuanced, but equally flawed. The Government contends that mitigating 
+measures must be treated as parallel to reasonable accommodations, which 
+come into play only after the disability determination has been made. See 
+97-1992 Gov't Br. 13. But it proves its own argument wrong when it 
+observes (ibid.) that “(mitigating measures taken by an employee will 
+often require some accommodation by an employer.” As this demon- 
+strates, the effects of mitigating measures (both beneficial and limiting) are 
+
+inextricably intertwined,” not with accommodations as the Government 
+Suggests, but with the impairment that (together with the mitigating 
+measure) either does or does not constitute a disability that must be 
+accommodated . 
+
+The Government says it is concerned about ¢ ers denying non- 
+disabled employees the right to take naan aac 14. ~e al 
+whose medication schedule was so demanding that it could not be accom- 
+plished during normal breaks would no doubt be deemed to have a 
+substantially limiting impairment, and hence remain entitled to the 
+necessary accommodation. 
+
+
+40 
+
+
+fairly be used as a basis for extending the ADA to cover the more 
+than 100 million Americans with correctable nearsightedness. 
+
+
+Petitioners claim that statements in three committee reports 
+clearly convey Congress's intent that the existence of a disability be 
+analyzed without mitigating measures (Pet. Br. 22), but those 
+sources are far more ambiguous than petitioners suggest. Petitioners 
+claim (ibid.) that a statement in the August 1989 report of the Sen- 
+ate Committee on Labor and Human Resources unambiguously sup- 
+ports their position, but it does the opposite. The report states that, 
+under the first prong of the disability definition, “[wJhether a per- 
+son has a disability should be assessed without regard to the availa- 
+bility of mitigating measures, such as reasonable accommodations 
+or auxiliary aids.” §. Rep. No. 101-116, 101st Cong., Ist Sess., 
+at 23 (emphasis added). The statute itself makes plain that 
+“reasonable accommodations” and “auxiliary aids” are devices or 
+job modifications provided by the employer to permit a disabled 
+individual to perform the essential functions of a job. 42 U.S.C. 
+§§ 12102(1), 12111(9). Thus, the report's statement reflects the 
+intention to avoid the circularity that petitioners and their amici 
+apparently fear — i.e., that the provision of an accommodation to 
+an employee would simultaneously deprive the employee of the 
+ADA protection by removing his or her substantial limitation in 
+working. The statement does not convey any intention to protect 
+under the ADA those who do not need accommodations or 
+auxiliary aids because their impairments are completely controlled 
+with medication or other corrective measures. 
+
+
+Another passage in the same report plainly conveys that the 
+effects of medication or other corrective devices have a bearing on 
+the question of disability. In describing the purpose of the “regard- 
+ed as” prong of the disability definition, the Senate Report states: 
+
+
+Another important goal of the [regarded as] prong of the 
+definition is to ensure that persons with medical conditions 
+that are under control, and that therefore do not currently 
+limit major life activities, are not discriminated against on the 
+basis of their medical conditions. For example, individuals 
+with controlled diabetes or epilepsy are often denied jobs for 
+which they are qualified. 
+
+
+S. Rep. No. 101-116, at 24 (emphasis added). It could not be 
+more clear that the drafter believed that persons “with medical con- 
+ditions that are under control, and that therefore do not currently 
+
+
+41 
+
+
+limit major life activities,” would not be deemed to have a 
+disability under the first prong of the definition. 
+
+
+; Even the statements in the committee reports that do bolster 
+petitioners’ view that mitigating measures should be disregarded do 
+not unambiguously support the application of such a rule to their 
+own case. Those reports use as examples of “mitigated” impair- 
+ments epilepsy or diabetes controlled with medication and hearing 
+loss controlled with a hearing aid (H.R. Rep. No. 101-485(II), at 
+52; H.R. Rep. No. 101-485 (Ill), at 28-29) — impairments that are 
+far more serious than petitioners’ correctable nearsightedness. 
+
+
+Finally, the legislative history is replete with evidence that 
+Congress believed it was passing a statute that would protect the 
+large, but limited, population of individuals with actual functional 
+deficits, as opposed to those with purely hypothetical limitations. 
+See, e.g., H.R. Rep. No. 101-485(II), at 41-47 (describing effects 
+of discrimination against the disabled). That evidence is perhaps 
+strongest in the case of visual impairments; as discussed above (at 
+20-21), congressional estimates of the number of disabled ind‘vidu- 
+als in America included only those who had a significant vision 
+deficits even when using corrective lenses. Statements in committee 
+reports to the effect that “two-thirds of all disabled Americans 
+between the age of 16 and 64 are not working at all,” that “men 
+with disabilities earned 23 percent less than men with no work 
+disability,” and that “forty percent of all adults with disabilities did 
+not finish high school” (H. Rep. No. 101-485(II), at 32) also con- 
+tradict any notion that Congress intended to protect nearsighted per- 
+sons, who have higher than average income and education. 
+
+
+** Notwithstanding petitioners’ comparison of their own situation to that 
+of a person with hearing loss (Pet. Br. 22-23), in common perception 
+hearing impairments requiring the use of a hearing aid are far more seri-. 
+ous than the more common and easily remedied nearsightedness or far- 
+sightedness. See Washington v. HCA Health Servs., 152 F.3d at 470 
+(expressing doubt concerning whether correctable visions impairments are 
+sufficiently similar to the “serious” impairments, such as hearing impair- 
+ments, enumerated in EEOC guidance to be evaluated without regard to 
+mitigating measures). In any event, we doubt that the committee reports 
+are sufficiently powerful legislative history to require application of the 
+ADA to a person who wears a hearing aid but who with that aid is not 
+substantially limited in any actual major life activity and not even 
+“regarded as” being so limited. 
+
+
+42 
+
+
+More important, as discussed above, the statutory findings 
+themselves — which, unlike the committee reports, were likely con- 
+sidered by every legislator and the President — convey the conrres- 
+sional purpose to protect those with serious impairments who were 
+faced with discrimination, isolation, and underemployment, not 
+people who can function perfectly well merely by taking a few pills 
+or putting on their glasses. As Justice Scalia has observed, 
+
+it is neither compatible with our judicial responsibility of 
+assuring reasoned, consistent, and effective application of the 
+statutes of the United States, nor conducive to a genuine 
+effectuation of congressional intent, to give legislative force to 
+each snippet of analysis * * * in committee reports that are 
+increasingly unreliable evidence of what the voting Members 
+of Congress actually had in mind. 
+
+
+Blanchard v. Bergeron, 489 U.S. 87, 99 (1989) (Scalia, J., 
+concurring in part and concurring in the judgment); see also City 
+of Chicago v. EDF, 511 U.S. 328, 337 (1994). That observation 
+is especially pertinent to a case such as this, in which petitioners 
+propose, based on “a few snippets” of analysis unmoored in 
+statutory language, to expand the ADA to include perhaps more 
+than 100 million additional potential plaintiffs.” 
+
+
+> Petitioners also contend that Congress ratified in the ADA a consis- 
+tent judicial construction of the Rehabilitation Act's definition of “handi- 
+cap” that disregarded corrective measures. That argument has many flaws. 
+First, the weight of pre-ADA case law supported consideration of mitigat- 
+ing measures. See, e.g., Reynolds v. Brock, 815 F.2d 571 (9th Cir. 1987) 
+(plaintiff's controlled epilepsy substantially limited her ability to work). 
+See generally 97-1992 Resp. Br. Second, even if petitioners’ reading of 
+the pre-ADA cases were correct, it would not be reasonable to infer from 
+Congress's adoption of the Rehabilitation Act's definition of disability that 
+it was aware of this nuance of interpretation. See Hirschey v. FERC, 777 
+F.2d 1, 8 (D.C. Cir. 1985) (Scalia, J., concurring) (rejecting notion that 
+committee report reflected intent of Congress to resolve “a difficult 
+question of interpretation that had produced a conflict in the circuits and 
+internal disagreement within three of the five courts that had considered 
+it [by] reenactment of the same language unchanged!”) (emphasis omit- 
+ted). Third, even the most diligent legislator inquiring into the Rehabilita- 
+tion Act’s treatment of nearsightedness would have been surprised to hear 
+that it supposedly supported coverage for more than 100 million 
+nearsighted Americans. No Rehabilitation Act case had ever protected a 
+
+
+43 
+
+
+C. At The Very Least, The ADA Should Be Read To 
+Exclude Individuals With Widely Shared And Easily 
+
+
+Correctable Impairments 
+
+
+Even if the Court defers to the EEOC’s views that the disabil- 
+ity analysis should disregard mitigating measures, it should affirm 
+the Tenth Circuit's ruling that petitioners are not disabled. As Judge 
+Wilkinson observed for the Fourth Circuit concerning the 
+Rehabilitation Act, “it would debase [the] high purpose [of the 
+statute] if the statutory protections available to those truly 
+handicapped could be claimed by anyone whose disability was 
+minor and whose relative severity of impairment was widely 
+shared.” Forrisi v. Bowen, 794 F.2d 931, 934 (1986); see also 
+Shiflet v. GE Fanuc Automation Corp., 960 F. Supp. 1022, 1029 
+(W.D. Va. 1997) (“Those who insist that any common human flaw 
+rises to the level of disability, to the extent they are successful, 
+dilute the strength of the ADA and rob truly disabled individuals of 
+ADA protection.”), aff'd, 151 F.3d 1030 (4th Cir. 1998). To avoid 
+ri ie mga well beyond its intended bounds, the Court 
+should e common impairments that are letel 
+correctable by easily used mitigating measures are not disabilities. 
+
+Petitioners and their amici spend little time discussing the facts 
+of this case, as we noted above. They pin their hopes on the argu- 
+ment that there is no principled way to distinguish their case from 
+those of others with correctable impairments who appear far more 
+worthy of inclusion. Pet. Br. 36-38; Gov't Br. 10. But that is de- 
+cidedly weak justification for throwing open the floodgates and per- 
+mitting more than 100 million people whom Congress obviously 
+meant to exclude to claim coverage under the Act. To give primacy 
+to the achievement of some formulaic consistency (which notably 
+is not rooted in the text of the statute) is particularly misguided in 
+the context of a statute that presumes a case-by-case determination 
+of what constitutes substantial limitation. 
+
+
+As we have argued, neither the text nor the legislative history 
+of the Act provides an inkling that it covers people with correctable 
+nearsightedness and others who experience no disadvantages from 
+their easily mitigated impairments. The purposes of the statute, 
+moreover, are not served by providing such persons a right of 
+
+
+nearsighted person on this theory, and some cases had reached a contrary 
+result (e.g., Padilla vy. City of Topeka, 708 P.2d at 550). 
+
+
+44 
+
+
+action to challenge the physical qualification standards or other 
+actions of their employers. Even the EEOC guidance on which 
+petitioners and their amici principally rely does not expressly bless 
+the inclusion of such persons under the Act. As the Fifth Circuit 
+recognized in Washington v. HCA Health Services, the EEOC 
+guidelines require only that “serious impairments and ailments” 
+such as diabetes, epilepsy, and hearing impairments be considered 
+in their unmitigated state. 152 F.3d at 470. 
+
+
+Even when mitigating measures are considered, the protected 
+class of those who are “substantially limited” by their impairments 
+properly includes those whose control of their significant impair- 
+ment is meaningfully incomplete or requires resort to corrective 
+measures that themselves have debilitating effects or impose non- 
+trivial restrictions. See Cehrs, 155 F.3d at 781. “[W]hat is neces- 
+sary to ‘control’ the condition may be part of what makes the per- 
+son disabled.” Gilday, 124 F.3d at 768 (Guy, J., concurring in part 
+and dissenting in part). If, however, the Court is concerned that de- 
+scribing the group to be included within the protected class with 
+reference to mitigating measures will result in unduly restrictive 
+rulings, it may instead draw a line around those who should be ex- 
+cluded from the class — people whose easily correctable impair- 
+ments consistently and reliably leave them with abilities on a par 
+with average working people, and for whom the corrective mea- 
+sures themselves impose no significant burden. Petitioners are in- 
+side that line. 
+
+
+Il. AN INDIVIDUAL REJECTED FROM A PARTICULAR 
+JOB FOR FAILURE TO MEET PHYSICAL STANDARDS 
+IS NOT NECESSARILY “REGARDED AS DISABLED” 
+BY THE EMPLOYER 
+
+
+Petitioners also claim that they are entitled to relief under the 
+third prong of the ADA’s disability definition, which extends statu- 
+tory protections to person who are “regarded as” having a disabling 
+impairment. Although petitioners and their amici repeatedly invoke 
+Congress’s concern about the “myths, fears, and stereotypes 
+associated with disabilities” (see, e.g., Harkin Br. 21), their 
+argument boils down to the contention that an employer by 
+definition regards an employee as disabled whenever it deems the 
+employee physically unfit for a particular job.” If that reading of 
+
+
+© Certain of petitioners’ amici argue expressly for that interpretation. 
+
+
+45 
+
+
+the “regarded as” prong were correct, however, then any 
+employment action made on the basis of any impairment, no matter 
+how minor, would have to pass muster under the ADA — a result 
+that would expand the ADA well beyond its intended limits. This 
+Court should approve the uniform rulings of the lower courts 
+rejecting such an overbroad reading of the statute. 
+
+
+The ADA’s definition of disability includes not only having an 
+“impairment that substantially limits one or more of the major life 
+activities” (42 U.S.C. § 12101(2)(A)), but also “being regarded as 
+having such an impairment” (id. § 12101(2)(C)). The third prong’s 
+phrase “such an impairment” incorporates the first prong’s 
+language. Accordingly, to qualify as “disabled” under the third 
+prong, an individual must be “regarded as having an impairment 
+that substantially limits a major life activity.” 
+
+
+ne Petitioners claim that United regarded them as substantially 
+limited in the major life activity of working.” The EEOC’s regula- 
+tions define “significantly restricted in the major life activity of 
+working” as: 
+
+
+significantly restricted in the ability to perform either a class 
+of jobs or a broad range of jobs in various classes as compared 
+to the average person having comparable training, skills, and 
+abilities. The inability to perform a single, particular job does 
+not constitute a substantial limitation in the major life activity 
+of working. 
+
+
+29 C.F.R. § 1630.2(jX3)i). According to the regulations, a “class” 
+of jobs is “jobs utilizing similar training, knowledge, skills, or abil- 
+ities, within that geographical area.” Jd. § 1630.2(j)(3)(ii)(B). 
+Using an example especially pertinent here, the EEOC’s 
+interpretive guidance states that “an individual who cannot be a 
+
+
+See ACLU Br. 21 (“any employer who takes an adverse employment 
+action against a person because of a physical or mental impairment 
+necessarily regards that person as substantially limited in the life activity 
+of working and hence as a person with a disability”). 
+
+
+*” Because petitioners here focus only on the allegation that United 
+regarded them as substantially limited in working (Pet. Br. 42 n.38), we 
+address only that allegation. For the same reasons that petitioners are not 
+actually limited in the major life activity of seeing, however, United did 
+not regard them as such. 
+
+
+46 
+
+
+commercial airline pilot because of a minor vision deficiency, but 
+who can be a commercial airline co-pilot or a pilot for a courier 
+service, would not be substantially limited in the major life activity 
+of working.” 29 C.F.R. § 1630, App. § 1630.2(j) para. 15. 
+
+
+“For the same reason that the failure to qualify for a single job 
+does not constitute a limitation on a major life activity, refusal to 
+hire someone for a single job does not in and of itself constitute 
+perceiving the plaintiff as a handicapped person.” Tudyman v. Unit- 
+ed Airlines, 608 F. Supp. 739, 746 (C.D. Cal. 1984). Thus, when 
+an employer decides that a person’s impairment renders him unfit 
+for a job with unusual physical requirements, the disappointed em- 
+ployee cannot claim that the employer regarded him as disabled in 
+the major life activity of working. See, e.g., Deas, 152 F.3d at 
+481-482 (plaintiff was not “regarded as” disabled by employer who 
+fired her from a substance abuse clinic because of her seizure dis- 
+order; “there is simply no indication that [the employer] regarded 
+[plaintiff] as substantially limited as to anything more than a few, 
+highly specialized jobs, that required relatively high levels of vigi- 
+lance or uninterrupted awareness”); Bridges v. City of Bossier, 92 
+F.3d 329, 335 (Sth Cir. 1996) (plaintiff rejected because of mild 
+hemophilia from firefighter job was not “regarded as disabled” be- 
+cause the perceived limitation “only affects a narrow range of 
+job”), cert. denied, 519 U.S. 1093 (1997); Chandler, 2 F.3d at 
+1392 & n.20 (vision impairment that caused the plaintiff's rejection 
+as a police officer affected only a narrow range of jobs, even 
+though the defendant alone employed 27,000 police officers). By 
+contrast, when an employer views the employee as having an im- 
+pairment that would limit him or her in a broad range of jobs, there 
+may be a litigable issue as to whether the employer regards the em- 
+ployee as disabled. See Cook v. Rhode Island, 10 F.3d 17, 26 (st 
+Cir. 1993) (employer’s belief that obese woman was physically un- 
+suited for job which required “no unique physical skills” amounted 
+to “a perception that the applicant suffers from physical limitations 
+that would keep her from qualifying for a broad category of jobs”). 
+
+Thus, “there is a significant legal distinction between rejection 
+based on a job-specific perception that the applicant is unable to 
+excel at a narrow trade and a rejection based on more generalized 
+perception that the applicant is impaired in such a way as would bar 
+her from a large class of jobs.” Cook, 10 F.3d at 26 (emphasis 
+added). United's rejection of petitioners falls into the former cat- 
+egory. Petitioners and their supporting amici seek to raise doubt 
+
+
+47 
+
+
+about the proper characterization of United's beliefs concerning 
+their impairment, but even the broadest conceivable characterization 
+of United's perceptions does not amount to a belief that petitioners 
+were substantially limited in the major life activity of working. 
+
+In their complaint, petitioners claimed that United's policy re- 
+quiring new pilots to have uncorrected visual acuity of 20/100 
+“blocks Plaintiffs from an entire class of employment: global 
+airline pilot.” }.A. 25 (emphasis added). They also alleged that 
+“other global carriers had similar or higher minimum standards, 
+thus blocking Plaintiffs from seeking the same class of employment 
+elsewhere in the industry.” J.A. 26 (emphasis added). The court 
+of appeals held those allegations insufficient to establish that United 
+regarded petitioners as disabled, ruling that the path that they said 
+was Closed to them, “global airline pilots,” was “too narrow to 
+constitute a ‘class of jobs.’” J.A. 71. The court said (J.A. 71-72): 
+
+[T]he class of jobs to which [petitioners] must compare 
+themselves is that of all pilot positions at all airlines, because 
+they all require the same or similar training, knowledge, skills, 
+or training abilities. This class would include, but not be 
+limited to, all pilot positions at global airlines, national 
+airlines, commuter/regional airlines, and cargo/courier 
+airlines. [**] 
+
+Petitioners now seek to rewrite their complaint by arguing that 
+United perceived them as unfit for any pilot job. The Government 
+joins them in that effort, claiming (without citing any language in 
+the complaint) that “[p]etitioners allege that respondent regards pe- 
+titioners as unqualified for any pilot position, because respondent 
+believes they cannot safely fly an airplane.” Gov't Br. 16. These 
+arguments raise an interesting philosophical question: Does Unit- 
+ed’s decision to adopt higher vision standards than the FAA or 
+many non-global carriers in an effort to make its planes “safer than 
+safe” mean that United “believes [petitioners] cannot safely fly 
+{any} airplane”? More important, does United's alleged decision to 
+
+
+** The court of appeals was generous to petitioners in assuming that 
+only pilot positions bore on the “regarded as” issue. One who cannot be 
+a pilot because of, for example, fear of flying is not limited in the major 
+life activity of working, or regarded as such. He is regarded as unquali- 
+peat aermeman from being regarded as disabled. See p. 49, 
+
+
+48 
+
+
+take advantage of the fierce competition for its pilot positions by 
+demanding that its pilot applicants meet the highest physical stan- 
+dards mean that it regards applicants whom it rejects (who it knows 
+are capable of obtaining employment at other air carriers) as sub- 
+stantially limited in the major life activity of working? We think 
+not. In the words of the Cook court, United seeks (and pays for) 
+pilots who “excel” on this safety-related criterion as well as in 
+other respects. 
+
+The major leagues’ last .400 hitter, Ted Williams, was famous 
+for his 20/10 eyesight. See In Every Sense, Williams Saw More 
+Than Most, USA Today Baseball Weekly, June 6, 1996 
+< http://www ..usatoday .com/sports/baseball/sbbw0725 .htm >. Were 
+the Boston Red Sox to take their left fielder with 20/20 vision out 
+of the lineup and replace him with a prospect who had 20/10 vision 
+and aspirations of being a modern-day Ted Williams, it would 
+hardly follow that the Bosox regarded the replaced left fielder as 
+“disabled.” Just as a baseball team tries to field the best lineup and 
+not just a good lineup, so United may sometimes go beyond mini- 
+mum requirements in an effort to provide the public with the safest 
+air transportation, not just “safe” air transportation. The judgments 
+about how to achieve those results may not be ineluctable or per- 
+fect, and someone can always second-guess any categorical judg- 
+ment, but that is no reason to expand the reach of a statute designed 
+to require employers to justify their judgments about persons with 
+disabilities. Auempting to go beyond minimum safety requirements 
+should not preclude United from obtaining Rule 12(b)(6) dismissals 
+of complaints brought by persons who are not disabled.” 
+
+
+* That is especially so in light of a recent trend in this Court's cases 
+allowing state common law to impose higher standards of care on defen- 
+dants in tort suits, even if the defendant can prove compliance with a fed- 
+eral statute with an express preemption clause. See generally Medtronic, 
+inc. v. Lohr, 518 U.S. 470 (1996). Were a United plane with a myopic 
+pilot to crash, one could count on the filing of lawsuits against United on 
+the theory that it had a duty of care to hire only pilots with vision better 
+than that of the pilot of the crashed plane, and that it makes no difference 
+that the Federal Aviation Administration has recently begun to allow any- 
+one with 20/20 corrected vision to be a pilot. Cf. Daugherty v. City of El 
+Paso, 56 F.3d 695, 698 (Sth Cir. 1995) (“Woe unto the employer who 
+put such an employee behind the wheel of a vehicle * * * which was 
+
+
+involved in a vehicular accident."”) (quoting Chandler, 2 F.3d at 1395). 
+
+
+49 
+
+
+Even if an employment rule screens out only a small segment 
+of the population, it does not follow that the rule reflects, or even 
+
+
+might reflect, any view on the employer's part that the screened-out 
+persons are “disabled.” A supermarket that will not hire as shelf 
+stockers anyone shorter than five feet tall in no way implies that it 
+considers short people “disabled.” So too here, United makes some 
+allowance for the common condition of nearsightedness but screens 
+out a substantial minority of the most myopic. Had United followed 
+the Navy's example and required near-perfect uncorrected vision, 
+it would be hard to take seriously the notion that its stringent rule 
+reflected a view that everyone not meeting that standard is 
+“disabled.” It would be ironic if United's decision to make some 
+allowances for nearsighted pilots bolstered the chances of a lawsuit 
+brought by those who cannot meet even its relatively lenient 
+
+
+The ultimate question here can be answered in a more straight- 
+forward fashion, however. Even if petitioners’ complaint could be 
+construed as alleging that United perceived petitioners as physically 
+unfit to fly any commercial airplane, those allegations would not es- 
+tablish that United regarded them as substantially limited in the ma- 
+jor life activity of working because the position of “pilot” is far too 
+specific to constitute a “class of jobs” the foreclosure from which 
+would render an individual disabled. See Witter v. Delta Air Lines, 
+138 F.3d 1366, 1370 (11th Cir. 1998) (“{e}ven accepting as true 
+that Delta perceived Witter as unable to pilot airplanes because of 
+mental or emotional problems, we conclude that piloting airplanes 
+is too narrow a range of jobs to constitute a ‘class of jobs”). There 
+are many non-piloting jobs that use “similar training, knowledge, 
+skills and abilities” as pilot positions, including 
+
+
+pilot ground trainer, flight simulator trainer, flight instructor, 
+
+aeronautical school instructor, as well as executive, manage- 
+
+ment, and administrative positions in flight operations for air- 
+
+lines, and being a consultant for an aircraft manufacturer. 
+Ibid.; see also Burbank v. City of Idaho Falls, 1996 U.S. App. 
+LEXIS 24127 (9th Cir. Sept. 11, 1996) (defendant who viewed 
+plaintiff with impaired vision as unfit for the positions of patrol 
+him as disabled). There is no allegation that petitioners would be 
+physically unqualified for such jobs, or that United treated them as 
+though it believed they would be. 
+
+
+; they were affected instead by United's 
+calculation that hiring pilots who could see well enough to fly an 
+airplane without corrective lenses would give its passengers an 
+additional margin of safety. The ADA does not give petitioners the 
+right to litigate the correctness of United’s decision. 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be affirmed. 
+Respectfully submitted. 
+
+
+LisA HOGAN Roy T. ENGLERT, Jr. 
+
+Counsel of Record MIRIAM R. NEMETZ 
+PATRICK F. CARRIGAN JAMES M. OLESKE, Jr. 
+BETH DOHERTY QUINN Mayer, Brown & Platt 
+JEANINE M. ANDERSON 1909 K Street, N.W. 
+
+Brownstein Hyatt Washington, D.C. 20006 
+
+Farber & Strickland, P.C. (202) 263-3000 
+
+Twenty-second Floor 
+
+410 Seventeenth St. 
+
+Denver, CO 80202 
+
+(303) 534-6335 
+
+Counsel for Respondent 
+
+
+MARCH 1999 
+
+

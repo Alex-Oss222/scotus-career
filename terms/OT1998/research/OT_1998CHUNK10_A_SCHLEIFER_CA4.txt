@@ -1,0 +1,2282 @@
+PUBLISHED
+
+UNITED STATES COURT OF APPEALS
+
+FOR THE FOURTH CIRCUIT
+
+DANIEL SCHLEIFER, a minor by Barry
+Schleifer, his father; WILLIAM
+MCCUTCHEON, a minor by M.
+Parthenia Monagan, his mother;
+LISA BRIGGS, a minor by Anne
+Briggs, her mother; NORA LALLY-
+GRAVES, a minor by Mary Ann
+Lally-Graves, her mother; JILL
+LANDERS JACQUITH, a minor by
+                                                               No. 97-1723
+Harry James Landers, her father;
+ANNE BRIGGS; HARRY JAMES
+LANDERS; WALDO DAVID LANDERS
+JAQUITH,
+Plaintiffs-Appellants,
+
+v.
+
+CITY OF CHARLOTTESVILLE,
+Defendant-Appellee.
+
+Appeal from the United States District Court
+for the Western District of Virginia, at Charlottesville.
+James H. Michael, Jr., Senior District Judge.
+(CA-97-21-C)
+
+Argued: May 5, 1998
+
+Decided: October 20, 1998
+
+Before WILKINSON, Chief Judge, and ERVIN and
+MICHAEL, Circuit Judges.
+
+_________________________________________________________________
+Affirmed by published opinion. Chief Judge Wilkinson wrote the
+majority opinion, in which Judge Ervin joined. Judge Michael wrote
+a dissenting opinion.
+
+_________________________________________________________________
+
+COUNSEL
+
+ARGUED: Mary Catherine Bauer, AMERICAN CIVIL LIBERTIES
+UNION FOUNDATION OF VIRGINIA, Richmond, Virginia, for
+Appellants. Lisa Robertson Kelley, OFFICE OF THE CITY ATTOR-
+NEY, Charlottesville, Virginia, for Appellee. ON BRIEF: Deborah
+C. Wyatt, WYATT & CARTER, Charlottesville, Virginia, for Appel-
+lants. W. Clyde Gouldman, II, OFFICE OF THE CITY ATTORNEY,
+Charlottesville, Virginia, for Appellee.
+
+_________________________________________________________________
+
+OPINION
+
+WILKINSON, Chief Judge:
+
+This appeal involves a challenge to the constitutionality of a juve-
+nile nocturnal curfew ordinance enacted by the City of Charlottes-
+ville. The district court held that the ordinance did not violate the
+constitutional rights of minors, their parents, or other affected parties
+and declined to enjoin its enforcement. We agree that the ordinance
+is constitutional and affirm the judgment of the district court.
+
+I.
+
+On December 16, 1996, the Charlottesville City Council, after sev-
+eral months of study and deliberation, amended Section 17-7 of the
+City Code to enact a new juvenile nocturnal curfew ordinance. The
+City Council designed the curfew ordinance to:
+
+          (i) promote the general welfare and protect the general pub-
+          lic through the reduction of juvenile violence and crime
+          within the City;
+
+                     2
+          (ii) promote the safety and well-being of the City's youn-
+          gest citizens, persons under the age of seventeen (17),
+          whose inexperience renders them particularly vulnerable to
+          becoming participants in unlawful activities, particularly
+          unlawful drug activities, and to being victimized by older
+          perpetrators of crime; and
+
+          (iii) foster and strengthen parental responsibility for chil-
+          dren.
+
+Charlottesville, Va., Code § 17-7, Intro.
+
+Effective March 1, 1997, the ordinance generally prohibits minors,
+defined as unemancipated persons under seventeen, from remaining
+in any public place, motor vehicle, or establishment within city limits
+during curfew hours. The curfew takes effect at 12:01 a.m. on Mon-
+day through Friday, at 1:00 a.m. on Saturday and Sunday, and lifts at
+5:00 a.m. each morning.
+
+The ordinance does not restrict minors' activities that fall under
+one of its eight enumerated exceptions. Minors may participate in any
+activity during curfew hours if they are accompanied by a parent; they
+may run errands at a parent's direction provided that they possess a
+signed note. The ordinance allows minors to undertake employment,
+or attend supervised activities sponsored by school, civic, religious,
+or other public organizations. The ordinance exempts minors who are
+engaged in interstate travel, are on the sidewalk abutting their parents'
+residence, or are involved in an emergency. Finally, the ordinance
+does not affect minors who are "exercising First Amendment rights
+protected by the United States Constitution, such as the free exercise
+of religion, freedom of speech and the right of assembly." Id. § 17-
+7(b)(8).
+
+The ordinance sets forth a scheme of warnings and penalties for
+minors who violate it. For a first violation, a minor receives a verbal
+warning, followed by a written warning to the minor and the minor's
+parents. For subsequent violations, the minor is charged with a Class
+4 misdemeanor. The ordinance also makes it unlawful for certain
+other individuals, including parents, knowingly to encourage a minor
+
+                     3
+to violate the ordinance. The full text of the ordinance is included as
+an appendix to the opinion.
+
+Plaintiffs are five minors under age seventeen who are subject to
+the ordinance, one eighteen-year-old, and two parents of minor chil-
+dren. The minors allege that, with their parents' permission, they
+occasionally wish to engage in lawful activities which the curfew will
+not permit. These activities include attending late movies; getting a
+"bite to eat"; playing in a band; socializing with older siblings; and
+attending concerts in Richmond, which would bring them back
+through Charlottesville during curfew hours. The eighteen-year-old
+plaintiff alleges that he has been deprived of opportunities to associate
+with his younger friends by the ordinance. The parent plaintiffs allege
+that the ordinance interferes with their decisions on which activities,
+at what times, are appropriate for their children.
+
+Plaintiffs brought this action for declaratory and injunctive relief,
+alleging that the ordinance violates their rights under the First, Fourth,
+Fifth and Fourteenth Amendments. At trial, plaintiffs dismissed their
+Fourth Amendment claims. Following trial, by order dated May 20,
+1997, the district court rejected plaintiffs' remaining claims and
+denied their motion for a permanent injunction. Plaintiffs now appeal.
+
+II.
+
+Initially we must consider the level of scrutiny appropriate to this
+case. Plaintiffs contend that the ordinance infringes minors' constitu-
+tional liberties and therefore should be subject to strict scrutiny. It is
+true that "[a] child, merely on account of his minority, is not beyond
+the protection of the Constitution." Bellotti v. Baird, 443 U.S. 622,
+633 (1979) (plurality opinion) (Bellotti II). Minors enjoy some rights
+under the First and Fourteenth Amendments before they attain adult-
+hood. See, e.g., Planned Parenthood of Cent. Missouri v. Danforth,
+428 U.S. 52, 74 (1976); Tinker v. Des Moines Indep. Community Sch.
+Dist., 393 U.S. 503, 506 (1969). At the same time, the Supreme Court
+has made abundantly clear that children's rights are not coextensive
+with those of adults. See, e.g., Bethel Sch. Dist. No. 403 v. Fraser,
+478 U.S. 675, 682 (1986); Bellotti II, 443 U.S. at 634; Ginsberg v.
+New York, 390 U.S. 629, 638 (1968); Prince v. Massachusetts, 321
+U.S. 158, 168 (1944). "Traditionally at common law, and still today,
+
+                     4
+unemancipated minors lack some of the most fundamental rights of
+self-determination -- including even the right of liberty in its narrow
+sense, i.e., the right to come and go at will." Vernonia Sch. Dist. 47J
+v. Acton, 515 U.S. 646, 654 (1995).
+
+In recognition of these customary limitations, "[t]he state's author-
+ity over children's activities is broader than over like actions of
+adults." Prince, 321 U.S. at 168. State laws do not permit children to
+drive a car before they reach a certain age. E.g., Va. Code Ann.
+§ 46.2-334. Compulsory attendance laws require children to attend
+school. E.g., id. § 22.1-254; see also Prince, 321 U.S. at 166. Labor
+laws limit the opportunities of children to engage in gainful employ-
+ment. E.g., Va. Code Ann. § 40.1-78; see also Prince, 321 U.S. at
+166. These types of laws reflect the state's "general interest in youth's
+well being." Id.; see also City of Dallas v. Stanglin, 490 U.S. 19, 27
+& n.4 (1989); Bykofsky v. Borough of Middletown , 401 F. Supp. 1242,
+1256-57 (M.D. Pa. 1975), aff'd mem., 535 F.2d 1245 (3d Cir. 1976).
+
+In light of the case law, two things seem clear. First, children do
+possess at least qualified rights, so an ordinance which restricts their
+liberty to the extent that this one does should be subject to more than
+rational basis review. Second, because children do not possess the
+same rights as adults, the ordinance should be subject to less than the
+strictest level of scrutiny. See Carey v. Population Servs. Int'l, 431
+U.S. 678, 693 n.15 (1977) (plurality opinion) (when minors are
+involved the level of scrutiny "is apparently less rigorous than the
+`compelling state interest' test applied to restrictions on the privacy
+rights of adults"); Danforth, 428 U.S. at 75. We thus believe interme-
+diate scrutiny to be the most appropriate level of review and must
+determine whether the ordinance is "substantially related" to "impor-
+tant" governmental interests. See United States v. Virginia, 518 U.S.
+515, 533 (1996) (quoting Mississippi University for Women v. Hogan,
+458 U.S. 718, 724 (1982); Wengler v. Druggists Mutual Ins. Co., 446
+U.S. 142, 150 (1980)). We also conclude, however, that the ordinance
+survives constitutional attack under either a substantial or a compel-
+ling state interest standard. The narrow means chosen by the City in
+the ordinance serve strong and indeed compelling public needs.
+
+                    5
+III.
+
+A.
+
+The text of the Charlottesville curfew ordinance identifies three
+legislative purposes: (1) to reduce juvenile violence and crime within
+the city; (2) to protect juveniles themselves from being swept up in
+unlawful drug activities and from becoming prey to older perpetrators
+of crime; and (3) to strengthen parental responsibility for children.
+These enumerated purposes represent important and compelling gov-
+ernmental interests.
+
+In Schall v. Martin the Supreme Court recognized that "[t]he `legit-
+imate and compelling state interest' in protecting the community from
+crime cannot be doubted." 467 U.S. 253, 264 (1984) (quoting DeVeau
+v. Braisted, 363 U.S. 144, 155 (1960)). Indeed it constitutes "a
+weighty social objective." Brown v. Texas, 443 U.S. 47, 52 (1979). If
+government cannot ensure the safety of its citizens, it has failed them
+in the most fundamental sense. Schall further confirms that "this inter-
+est persists undiluted in the juvenile context," as the social costs of
+crime are high no matter what the age of the perpetrator. 467 U.S. at
+264-65.
+
+The City contends that its curfew ordinance was passed to combat
+the marked growth in the rate of juvenile crime both nationwide and
+within Virginia. During the preliminary injunction hearing Dr. Wil-
+liam Ruefle, a criminologist expert in juvenile curfews, testified that
+these state and national growth trends were reflected in Charlottes-
+ville. In fact, the City produced evidence of a twenty-five percent
+increase in the delinquency caseload of Charlottesville's Juvenile and
+Domestic Relations Court between 1991 and 1996. Given the pro-
+jected increase in the nation's juvenile population between 1995 and
+2005, the problem of juvenile crime was unlikely to abate.
+
+In addition, the City has documented two troubling features of the
+juvenile crime phenomenon. First, the City's evidence on nationwide
+trends indicated a high rate of recidivism among juveniles and a cor-
+relation between juvenile delinquency and adult criminal activity.
+Thus reducing juvenile crime was a pressing first step in reducing the
+overall impact of crime on the community. Second, Charlottesville's
+
+                    6
+City Council was concerned about the marked increase in the violence
+associated with juvenile crime. As the City's expert Dr. Ruefle stated
+in an affidavit submitted to the district court,"[j]uveniles in Virginia
+now commit serious property crimes at twice the rate of those 18
+years of age and older, and since 1990, they also commit serious vio-
+lent crimes at a higher rate than adults." In light of this evidence,
+Charlottesville's first stated purpose is undeniably compelling.
+
+Likewise, the City's strong interest in fostering the welfare of chil-
+dren and protecting the youngest members of society from harm is
+well-established. See, e.g., Santosky v. Kramer, 455 U.S. 745, 766
+(1982); Ginsberg, 390 U.S. at 640; Prince, 321 U.S. at 166-67. Courts
+have recognized "the peculiar vulnerability of children," Bellotti II,
+443 U.S. at 634, and the Supreme Court long ago observed that
+"streets afford dangers for [children] not affecting adults." Prince, 321
+U.S. at 169. Those dangers have not disappeared; they simply have
+assumed a different and more insidious form today. Each unsuspect-
+ing child risks becoming another victim of the assaults, violent
+crimes, and drug wars that plague America's cities. Given the realities
+of urban life, it is not surprising that courts have acknowledged the
+special vulnerability of children to the dangers of the streets. Nunez
+v. San Diego, 114 F.3d 935, 947 (9th Cir. 1997); In Re Appeal in
+Maricopa County, Juvenile Action No. JT9065297, 887 P.2d 599, 606
+(Ariz. Ct. App. 1994) (Maricopa County); In Re J.M., 768 P.2d 219,
+223 (Colo. 1989) (en banc); see also Bykofsky , 401 F. Supp. at 1257.
+Charlottesville, unfortunately, has not escaped these troubling reali-
+ties. Two experienced City police officers confirmed to the district
+court that the children they observe on the streets after midnight are
+at special risk of harm.
+
+Charlottesville's third purpose -- strengthening parental responsi-
+bility for children -- is also a significant interest. The City shares
+with parents and guardians a responsibility to protect children. Prince,
+321 U.S. at 165-66; Pierce v. Society of Sisters , 268 U.S. 510, 535
+(1925). State authority complements parental supervision, and "the
+guiding role of parents in the upbringing of their children justifies
+limitations on the freedoms of minors." Bellotti II, 443 U.S. at 637.
+The Supreme Court has acknowledged "the special interest of the
+State" in encouraging minors to seek parental advice in making
+important decisions. Id. at 639. And the Court has confirmed that the
+
+                    7
+state is appropriately concerned with the integrity of the family unit.
+Trimble v. Gordon, 430 U.S. 762, 769 (1977). Therefore, like the
+City's two preceding interests in reducing the incidence of juvenile
+crime and juvenile victimization, the City's third aim constitutes an
+important governmental purpose.
+
+B.
+
+Conceding for the sake of argument that the curfew's stated ends
+are sufficiently compelling, plaintiffs train their attack on the means
+by which the ordinance seeks to achieve its goals.
+
+We agree with plaintiffs that the curfew must be shown to be a
+meaningful step towards solving a real, not fanciful problem. As the
+Supreme Court has said in the First Amendment context, the govern-
+ment "must do more than simply `posit the existence of the disease
+sought to be cured.' It must demonstrate that the recited harms are
+real, not merely conjectural, and that the regulation will in fact allevi-
+ate these harms in a direct and material way." Turner Broad. Sys., Inc.
+v. FCC, 512 U.S. 622, 664 (1994) (citations omitted). This standard,
+however, has never required scientific or statistical "proof" of the wis-
+dom of the legislature's chosen course. Cf. Ginsberg, 390 U.S. at 642-
+43 ("We do not demand of legislatures `scientifically certain criteria
+of legislation.'") (quoting Noble State Bank v. Haskell, 219 U.S. 104,
+110 (1911)). The Supreme Court has recognized that"[i]t is unrealis-
+tic to expect either members of the judiciary or state officials to be
+well versed in the rigors of experimental or statistical technique. But
+this merely illustrates that proving broad sociological propositions by
+statistics is a dubious business." Craig v. Boren, 429 U.S. 190, 204
+(1976). This uncertain nature of remedial legislation is no reason for
+courts to fashion their own cures or to scuttle those the legislature has
+provided. In fact, "[f]ederal courts have always been reluctant to
+question the potential effectiveness of legislative remedies designed
+to address societal problems." Qutb v. Strauss, 11 F.3d 488, 493 n.7
+(5th Cir. 1993).
+
+Charlottesville was constitutionally justified in believing that its
+curfew would materially assist its first stated interest -- that of reduc-
+ing juvenile violence and crime. The City Council acted on the basis
+of information from many sources, including records from Charlottes-
+
+                     8
+ville's police department, a survey of public opinion, news reports,
+data from the United States Department of Justice, national crime
+reports, and police reports from other localities. On the basis of such
+evidence, elected bodies are entitled to conclude that keeping uns-
+upervised juveniles off the streets late at night will make for a safer
+community. The same streets may have a more volatile and less
+wholesome character at night than during the day. Alone on the
+streets at night children face a series of dangerous and potentially life-
+shaping decisions. Drug dealers may lure them to use narcotics or aid
+in their sale. Gangs may pressure them into membership or participa-
+tion in violence. "[D]uring the formative years of childhood and ado-
+lescence, minors often lack the experience, perspective, and judgment
+to recognize and avoid choices that could be detrimental to them."
+Bellotti II, 443 U.S. at 635; see also Nunez , 114 F.3d at 947;
+Maricopa County, 887 P.2d at 606-07; In Re J.M., 768 P.2d at 223.
+Those who succumb to these criminal influences at an early age may
+persist in their criminal conduct as adults. Whether we as judges sub-
+scribe to these theories is beside the point. Those elected officials
+with their finger on the pulse of their home community clearly did.
+In attempting to reduce through its curfew the opportunities for chil-
+dren to come into contact with criminal influences, the City was
+directly advancing its first objective of reducing juvenile violence and
+crime.
+
+Plaintiffs contend that the exclusion of seventeen-year-olds from
+the curfew is a fatal flaw in the ordinance. They argue that this group
+is responsible for one-third of all crimes committed by juveniles
+nationwide and that excluding seventeen-year-olds from the curfew
+thus renders the ordinance impermissibly underinclusive. However,
+the City's evidence documents a serious problem of crime among
+younger juveniles. In Charlottesville in 1995 eighty percent of juve-
+nile arrests for the most serious crimes were of children aged ten to
+sixteen, and in 1996 eighty-five percent of such crimes were commit-
+ted by this group. Furthermore, the City's decision to exclude
+seventeen-year-olds from coverage under the curfew is a legislative
+judgment that we are loath to second-guess. "[I]t is not the function
+of a court `to hypothesize independently on the desirability or feasi-
+bility of any possible alternative[s]' to the statutory scheme.. .. .. .
+`These matters of practical judgment and empirical calculation are for
+[the State].'" Lalli v. Lalli, 439 U.S. 259, 274 (1978) (quoting
+
+                     9
+Matthews v. Lucas, 427 U.S. 495, 515 (1976)) (alterations in origi-
+nal). In exercising its legislative judgment, the City was forced to bal-
+ance the law enforcement benefit of subjecting seventeen-year-olds to
+the curfew against the greater law enforcement burden of doing so.
+Weighing benefits and burdens is what legislatures are about.
+
+Plaintiffs also dispute the effectiveness of the curfew in reducing
+juvenile crime. They say that the real problem of juvenile crime is not
+at night, but in the after school hours. Plaintiffs make much of a
+report entitled Juvenile Offenders and Victims: 1996 Update on
+Violence, Office of Juvenile Justice and Delinquency Prevention, U.S.
+Dep't of Justice 27 (1996), which asserts that only seventeen percent
+of violent juvenile crime occurs during typical curfew hours, while
+twenty-two percent happens between 2:00 p.m. and 6:00 p.m. on
+school days. The City responds that the lower rate of late-night crime
+may reflect the fact that several of the South Carolina cities in the
+study actually had late-night curfews in effect. And with respect to
+conditions in Charlottesville before the curfew, City police officers
+and Charlottesville's Commonwealth's Attorney confirmed that the
+most serious crimes committed by juveniles occurred during curfew
+hours. Further, the City Council considered evidence that juvenile
+offenses occurring in Charlottesville between 11:00 p.m. and 6:00
+a.m. increased by thirty-eight percent during 1995 and a further ten
+percent during 1996. Thus the City had reason to believe that, in both
+volume and severity, nighttime juvenile crime was a serious, growing
+problem in Charlottesville.
+
+Charlottesville's City Council concluded that a nighttime curfew
+might help curb this rising trend of juvenile crime. In making this
+decision, the City relied on the experience of cities like Lexington,
+Kentucky, where eight months of enforcing a nighttime juvenile cur-
+few effected an almost ten percent decrease in juvenile arrests for the
+serious crimes of homicide, assault, robbery, rape, burglary, larceny,
+auto theft and arson. And the district court heard testimony that a cur-
+few has the greatest chance of reducing juvenile crime in a smaller
+city like Charlottesville, where juvenile crime, though a serious prob-
+lem, has not yet become totally uncontrollable. Fundamentally, how-
+ever, this dispute about the desirability or ultimate efficacy of a
+curfew is a political debate, not a judicial one. If local communities
+conclude that curfews are ineffective in reducing crime, too onerous
+
+                     10
+to enforce, or too intrusive on the liberties of minors, then they are
+free to discontinue them. Yet local legislative bodies are entitled to
+draw their conclusions in light of experience with a curfew's opera-
+tion, and not have their efforts at reducing juvenile violence shut
+down by a court before they even have a chance to make a difference.
+
+Plaintiffs also dispute that the curfew will contribute much, if any-
+thing, to protecting juveniles from crime, the City's second objective.
+They deny that the streets are a particularly dangerous place for chil-
+dren at night, contending that the majority of crimes committed
+against children are committed by family members or acquaintances
+rather than by strangers on the street. The fact that children may be
+at risk at home or during the day means only that the curfew will not,
+unfortunately, protect juveniles from all crime. It does nothing to
+undermine the City's evidence that children remain at risk of crime
+in the street -- in fact, the City points out that in 1991 thirty-three
+percent of the violent crimes reported by juvenile victims nationwide
+occurred on the street. Juvenile Offenders & Victims: A National
+Report, Office of Juvenile Justice and Delinquency Prevention, U.S.
+Dep't of Justice 22 (1995). The Constitution certainly does not put
+legislatures to the choice of solving the entirety of a social problem
+or no part of it at all. Plyler v. Doe, 457 U.S. 202, 216 (1982).
+
+Further, the evidence presented by the City identified several spe-
+cial dangers of the nighttime hours: a vigorous street-level drug trade
+that flourishes during the late evening and early morning hours and
+that routinely uses children to facilitate drug transactions, thereby
+exposing them to a high degree of danger; the difficulties of appre-
+hending perpetrators of crime at night, as criminal activity is less visi-
+ble and less subject to monitoring by concerned neighbors and
+passers-by; and the increased degree of violence and seriousness of
+the crimes that are committed at night. The record documents that in
+Charlottesville in 1996 aggravated assaults were almost one and one-
+half times as likely to occur during curfew hours as non-curfew hours,
+robberies more than twice as likely to occur at these times, forcible
+rapes more than three times as likely during curfew hours, and inci-
+dents of drunk driving more than five times more likely to occur dur-
+ing curfew hours, trends that continued into the first months of 1997.
+By keeping children off the streets a few hours each night, the curfew
+
+                     11
+reduces the exposure of children to these well-known, and well-
+documented harms.
+
+Finally, plaintiffs dispute the City's claim that the curfew will sup-
+port the parental role in child-rearing, its third stated goal. They focus
+exclusively on the testimony of the parent plaintiffs, who clearly do
+not appreciate the curfew and do not welcome it as an enhancement
+of their authority. The City was entitled to believe, however, that a
+nocturnal curfew would promote parental involvement in a child's
+upbringing. A curfew aids the efforts of parents who desire to protect
+their children from the perils of the street but are unable to control the
+nocturnal behavior of those children. And a curfew encourages par-
+ents who ignore their children's nighttime activities to take a more
+active role in their children's lives. See Bykofsky, 401 F. Supp. at
+1255; In Re J.M., 768 P.2d at 223. Finally, the curfew assists the
+efforts of parents who prefer their children to spend time on their
+studies rather than on the streets. City law enforcement officers
+related anecdotal evidence that some parents actively welcome the
+support of the authorities in establishing baselines for their children
+and in enforcing reasonable limits on the freedom of their children to
+wander the streets in the middle of the night. And the City Council
+acted on the basis of surveys and testimony at public hearings reflect-
+ing widespread approval of the curfew and the support it offers to par-
+ents' efforts to discipline their children.
+
+C.
+
+The Charlottesville curfew is not only "substantially related" to its
+stated purposes. The limited scope of the curfew and its numerous
+exceptions would satisfy even the strict scrutiny requirement of nar-
+row tailoring. See Bernal v. Fainter, 467 U.S. 216, 219 (1984) (nar-
+row tailoring requires that the government use the least restrictive
+means to advance its goals). Plaintiffs urge, however, that we follow
+the lead of the Ninth Circuit, which held that San Diego's curfew
+ordinance failed strict scrutiny review because the exceptions to the
+ordinance were not sufficiently detailed and comprehensive to make
+the curfew the least restrictive means of serving San Diego's compel-
+ling ends. Nunez, 114 F.3d at 948-49.
+
+The San Diego curfew applied to all minors under the age of eigh-
+teen, began at 10:00 p.m., and extended until "daylight immediately
+
+                     12
+following." Id. at 938. It contained four exceptions: (1) when a minor
+is accompanied by a parent or other qualified adult; (2) when a minor
+is on an emergency errand for his parent; (3) when a minor is return-
+ing from a school-sponsored activity; and (4) when a minor is
+engaged in employment. See San Diego, Cal., Municipal Code Art.
+8, § 58.01, quoted in Nunez, 114 F.3d at 938-39.
+
+By contrast, Charlottesville's curfew applies only to minors less
+than seventeen years of age, does not begin until midnight on week-
+days and 1:00 a.m. on weekends, lifts at 5:00 a.m. each morning, and
+contains no fewer than eight detailed exceptions. Under Charlottes-
+ville's curfew, minors are allowed, inter alia , to remain on the side-
+walk directly abutting their residences; to attend supervised activities
+sponsored by school, religious, public, civic or other similar organiza-
+tions; to run errands for their parents; to undertake interstate travel;
+and to engage freely in any activity protected by the First Amend-
+ment.
+
+The Charlottesville ordinance carefully mirrors the Dallas curfew
+ordinance that the Fifth Circuit found to satisfy strict scrutiny in Qutb,
+11 F.3d at 490. Like the Charlottesville ordinance, the Dallas curfew
+covered fewer hours than San Diego's and affected minors under the
+age of seventeen, not eighteen. In addition to exceptions for employ-
+ment and emergencies and when a minor is in the presence of a parent
+or guardian, the curfew at issue in Qutb included a broad exception
+for sponsored activities, a First Amendment exception, an exception
+for being outside on the sidewalk adjacent to the minor's home, and
+an exception for interstate travel. Id. Charlottesville's curfew is in fact
+even narrower in scope than the Dallas ordinance, as it affects fewer
+hours each night -- the Dallas curfew extended from 11:00 p.m. until
+6:00 a.m. on weeknights and from 12:00 midnight to 6:00 a.m. on
+weekends, one hour more each day than the Charlottesville ordinance.
+This curfew, with its narrow scope and comprehensive list of excep-
+tions, represents the least restrictive means to advance Charlottes-
+ville's compelling interests. Thus, it would survive even strict
+scrutiny if that were the appropriate standard of review.
+
+IV.
+
+We next address plaintiffs' claims that the Charlottesville ordi-
+nance violates the constitutional rights of parents. Plaintiffs assert that
+
+                     13
+parents have a constitutionally protected right to direct their chil-
+dren's upbringing without undue government interference. They urge
+that this right includes decisions whether to allow their children to
+engage in activities after the curfew takes effect. The ordinance inter-
+feres with this right, they conclude, by prohibiting children's activi-
+ties that have the parents' full approval but do not fall under one of
+the ordinance's eight exceptions.
+
+Not every state restriction of a child's freedom derivatively
+abridges the fundamental rights of parents. The Supreme Court has
+rejected the view that parents possess an unqualified right to raise
+children that trumps any government regulation of their children's
+conduct. In Prince, the Court recognized"that the state has a wide
+range of power for limiting parental freedom and authority in things
+affecting the child's welfare." 321 U.S. at 167; see also Jehovah's
+Witnesses in Wash. v. King County Hosp. Unit No. 1 (Harbor-View),
+390 U.S. 598 (1968) (per curiam), aff'g 278 F. Supp. 488 (W.D.
+Wash. 1967); Bykofsky, 401 F. Supp. at 1262. Furthermore, were we
+to accept plaintiffs' argument, future litigants could simply artfully
+plead violations of parental rights to avoid the Supreme Court's deter-
+mination that children do not possess all the freedoms of adults. Argu-
+ments based on minors' rights to engage in particular conduct would
+be routinely recast as arguments based on parents' rights to allow
+their children to engage in precisely the same conduct.
+
+We are mindful that the Supreme Court has suggested in other con-
+texts that parents may possess a fundamental right against undue,
+adverse interference by the state. See Wisconsin v. Yoder, 406 U.S.
+205, 231 (1972) (state compulsory high school attendance law inter-
+fered with "traditional concepts of parental control over the religious
+upbringing and education of their minor children"); Stanley v. Illinois,
+405 U.S. 645, 651 (1972) (state presumption that unmarried father
+was unfit parent undermined "the interest of a parent in the compan-
+ionship, care, custody, and management" of child); Meyer v.
+Nebraska, 262 U.S. 390, 400 (1923) (state prohibition against teach-
+ing of foreign languages frustrated "the natural duty of the parent to
+give his children education suitable to their station in life"). We do
+not believe, however, that cases involving a parent's custodial rights
+or authority to direct a child's education support plaintiffs' claim. The
+Charlottesville ordinance, prohibiting young children from remaining
+
+                     14
+unaccompanied on the streets late at night, simply does not implicate
+the kinds of intimate family decisions considered in the above cases.
+
+Finally, several of the exceptions to the Charlottesville curfew do
+accommodate the rights of parents. See Qutb, 11 F.3d at 496. These
+include the exception for minors accompanied by a parent and the
+exception for minors running an errand at the direction of a parent.
+In general, the same reasons that lead us to reject the constitutional
+challenges of the minor plaintiffs even under strict scrutiny apply to
+the claims of the parent plaintiffs. Cf. Bykofsky, 401 F. Supp. at 1264.
+The limited curtailment of juvenile liberty in the ordinance violates
+neither a minor's nor a parent's rights.
+
+V.
+
+Finally, we consider plaintiffs' claims that various exceptions to
+the ordinance are unconstitutionally vague. A law is not void for
+vagueness so long as it "(1) establishes `minimal guidelines to govern
+law enforcement,' and (2) gives reasonable notice of the proscribed
+conduct." Elliott v. Administrator, Animal and Plant Health Inspec-
+tion Serv., 990 F.2d 140, 145 (4th Cir. 1993) (citation omitted). In
+statutes imposing criminal penalties, "the standard of certainty is
+higher." Kolender v. Lawson, 461 U.S. 352, 359 n.8 (1983). Yet clar-
+ity even in a criminal code can be a receding mirage. Thus the vague-
+ness doctrine cannot "convert into a constitutional dilemma the
+practical difficulties in drawing criminal statutes both general enough
+to take into account a variety of human conduct and sufficiently spe-
+cific to provide fair warning that certain kinds of conduct are prohib-
+ited." Colten v. Kentucky, 407 U.S. 104, 110 (1972).
+
+Striking down ordinances (or exceptions to the same) as facially
+void for vagueness is a disfavored judicial exercise. Nullification of
+a law in the abstract involves a far more aggressive use of judicial
+power than striking down a discrete and particularized application of
+it. Of course there will be hard cases under any law. And of course
+all the particular applications of any general standard will not be
+immediately apparent. That is no reason, however, for courts to scrap
+altogether the efforts of the legislative branch. It is preferable for
+courts to demonstrate restraint by entertaining challenges to applica-
+tions of a law as those challenges arise.
+
+                    15
+The Charlottesville ordinance provides an exception for those
+minors who are "exercising First Amendment rights protected by the
+United States Constitution, such as the free exercise of religion, free-
+dom of speech and the right of assembly." Charlottesville, Va., Code
+§ 17-7(b)(8). Plaintiffs insist that this exception accords standardless
+discretion to law enforcement officers to decide whether or not the
+exception applies. According to plaintiffs, it also forces citizens to
+learn a complex body of constitutional law in order to comprehend its
+scope.
+
+We decline to punish the City for its laudable effort to respect the
+First Amendment. See CISPES (Committee in Solidarity with the Peo-
+ple of El Salvador) v. FBI, 770 F.2d 468, 474 (5th Cir. 1985). A broad
+exception from the curfew for such activities fortifies, rather than
+weakens, First Amendment values. Plaintiffs basically attempt to
+place city councils between a rock and a hard place. If councils draft
+an ordinance with exceptions, those exceptions are subject to a vague-
+ness challenge. If they neglect to provide exceptions, then the ordi-
+nance is attacked for not adequately protecting First Amendment
+freedoms. It hardly seems fitting, however, for courts to chastise
+elected bodies for protecting expressive activity. The Charlottesville
+ordinance is constitutionally stronger with that protection than with-
+out.*
+
+The First Amendment exception also does not accord unfettered
+discretion to law enforcement officials. Every criminal law, of course,
+reposes some discretion in those who must enforce it. The mere possi-
+bility that such discretion might be abused hardly entitles courts to
+strike a law down. Police Chief Wolford's deposition, relied on by
+plaintiffs, does not indicate an actual risk of arbitrary enforcement. In
+response to a question from plaintiffs' counsel about whether a late
+_________________________________________________________________
+*The dissenting opinion suggests that the First Amendment exception
+would be improved if it included a scienter element. See post at 52. A
+scienter requirement might serve a beneficial narrowing function if § 17-
+7(b)(8) imposed criminal liability. The provision, however, provides an
+exception from liability for persons who otherwise would be in violation
+of the curfew. It is not clear why the dissent would want to narrow this
+safe haven by requiring minors to satisfy an additional state-of-mind
+requirement.
+
+                    16
+night conversation about politics between two fifteen-year-olds in a
+coffee house fell within the exception for First Amendment activities,
+he stated: "You're indoors, it's a public location, I, I think technically
+under the ordinance it may be a violation. I doubt whether we would
+deal with it." Such hedged deposition testimony about a speculative
+hypothetical does not demonstrate that police will enforce the curfew
+arbitrarily. See Village of Hoffman Estates v. Flipside, Hoffman
+Estates, Inc., 455 U.S. 489, 503 (1982).
+
+The First Amendment exception provides adequate notice to citi-
+zens. It is perfectly clear that core First Amendment activities such as
+political protest and religious worship after midnight would be pro-
+tected. It is equally clear that rollerblading would not. Between these
+poles may lie marginal cases, which can be taken as they come. Id.
+at 503 n.21.
+
+The ordinance also provides an exception for activities sponsored
+by civic organizations. Plaintiffs argue that the Supreme Court found
+the term "civic" to be vague when it struck down an ordinance that
+required permits for door-to-door solicitation but exempted several
+groups, including "Borough Civic Groups and Organizations." Hynes
+v. Mayor of Oradell, 425 U.S. 610, 621 (1976). We do not read Hynes
+to stand for the broad proposition that any use of the term civic is per
+se vague. The Court in Hynes found several of the terms used to
+describe the exempted groups, including "Borough Civic Groups and
+Organizations," to be unclear. Id. Here the language of the exception
+is clearer and includes activities sponsored by school and religious
+organizations in addition to civic organizations. Considered in this
+context, we believe that the City intended to give civic its ordinary
+meaning: "concerned with or contributory to general welfare and the
+betterment of life for the citizenry of a community or enhancement of
+its facilities." Webster's Third New International Dictionary
+(Unabridged) 412 (1961). We decline to find this everyday use of the
+term civic to suffer an ambiguity of constitutional magnitude. See
+Grayned v. City of Rockford, 408 U.S. 104, 110 (1972).
+
+The ordinance also creates an exception in cases where a minor is
+involved in an emergency. Without citation to authority, plaintiffs
+pose a variety of hypothetical situations in which this exception may
+or may not apply. For example, they wonder whether the exception
+
+                     17
+would include the need to go to a store to purchase cough medicine
+or a thermometer. Once again, the existence of questions at the mar-
+gins does not justify striking down the exception altogether. A brief
+review of the exception illuminates many situations to which it
+plainly applies. The ordinance specifically defines emergency as "re-
+fer[ring] to unforeseen circumstances, or the status or condition
+resulting therefrom, requiring immediate action to safeguard life, limb
+or property." Charlottesville, Va. Code § 17-7(a). It further details
+that "[t]he term includes, but is not limited to, fires, natural disasters,
+automobile accidents, or other similar circumstances." Id. While
+"[t]here is little doubt that imagination can conjure up hypothetical
+cases" to test the meaning of emergency, these speculative musings
+do not render this term unconstitutionally vague. American Communi-
+cations Ass'n v. Douds, 339 U.S. 382, 412 (1950).
+
+Plaintiffs' vagueness claims threaten to make the drafting of a cur-
+few ordinance an impossible task. The practical exceptions to the
+City's curfew shall not provide the cause of its demise.
+
+VI.
+
+Our dissenting colleague insists that the Charlottesville ordinance
+must satisfy strict scrutiny, that it is not narrowly tailored, and that it
+is void for vagueness. Under the dissent's stringent application of
+these standards, however, no curfew ever would pass constitutional
+muster. In particular, no ordinance would survive the dissent's ver-
+sion of strict scrutiny, which disregards the Supreme Court's recogni-
+tion that such inquiry should not be "strict in theory, but fatal in fact."
+See Adarand Constructors, Inc. v. Pena, 515 U.S. 200, 237 (1995)
+(internal quotation marks omitted). Any locality in the nation that
+chose to enact a curfew would ultimately see it picked to death in the
+courts. A brief look at the dissent's analysis indicates why this is so.
+
+To begin with, the dissent downplays the interests of the commu-
+nity, namely Charlottesville's goals of promoting the well-being of its
+youngest citizens and of fostering parental responsibility. The dis-
+sent's suggestion that these interests are compelling only when the
+state proceeds in a manner "supportive of the parental role," post at
+41, is not consistent with the prevalence of legislative measures (such
+as age limitations on drinking and on driving) that may, on occasion,
+
+                     18
+frustrate the desires of individual parents. Moreover, by granting a cit-
+izen's veto to every parent in the community, the dissent would con-
+vert the compelling interest requirement into a rule of unanimity. This
+high a constitutional bar is antithetical to the values of democratic
+innovation.
+
+The same disablement of democratic authority is evident in the dis-
+sent's strict reading of means. The dissent does agree that Charlottes-
+ville's interest in reducing juvenile crime is compelling, but then
+subjects the curfew to an impossibly narrow tailoring standard. Tell-
+ingly, the dissent fails to point to less restrictive means that the City
+might have employed. Forbidding preventive measures such as cur-
+fews propels localities to the harshest of alternatives -- waiting for
+juveniles actually to commit criminal offenses and then apprehending,
+prosecuting, and punishing them. Neither minors nor the City would
+gain from this result.
+
+Finally, no ordinance could ever meet the precision envisioned by
+the dissent's "strict vagueness standard." Post at 49. The dissent
+argues that the labyrinthine nature of First Amendment doctrine
+requires a curfew exception drawn in labyrinthine detail. Forcing city
+councils to pursue such an elusive goal would prevent them from ever
+passing an ordinance. The vagueness doctrine's basic notice principle
+does not impose such an impediment.
+
+The Charlottesville curfew serves not only to head off crimes
+before they occur, but also to protect a particularly vulnerable popula-
+tion from being lured into participating in such activity. Contrary to
+the dissent's protestation, we do not hold that every such curfew ordi-
+nance would pass constitutional muster. The means adopted by a
+municipality must bear a substantial relationship to significant gov-
+ernmental interests; the restrictiveness of those means remains the
+subject of judicial review. As the district court noted, however, the
+curfew law in Charlottesville is "among the most modest and lenient
+of the myriad curfew laws implemented nationwide." Charlottes-
+ville's curfew, compared to those in other cities, is indeed a mild reg-
+ulation: it covers a limited age group during only a few hours of the
+night. Its various exceptions enable minors to participate in necessary
+or worthwhile activities during this time. We hold that Charlottes-
+
+                     19
+ville's juvenile curfew ordinance comfortably satisfies constitutional
+standards.
+
+Accordingly, we affirm the judgment of the district court. We do
+so in the belief that communities possess constitutional latitude in
+devising solutions to the persistent problem of juvenile crime.
+
+AFFIRMED
+
+Appendix
+
+AN ORDINANCE
+TO AMEND AND REORDAIN SECTION 17-7 OF CHAPTER 17
+OF THE CHARLOTTESVILLE CITY CODE, 1990,
+AS AMENDED, RELATING TO A GENERAL CURFEW
+FOR MINORS
+
+BE IT ORDAINED by the Council of the City of Charlottesville,
+Virginia that:
+
+1. Section 17-7 of the Code of the City of Charlottesville, 1990,
+as amended, is hereby amended and reordained, as follows:
+
+Section 17-7 Curfew for Minors.
+
+The purpose of this section is to: (i) promote the general welfare
+and protect the general public through the reduction of juvenile vio-
+lence and crime within the City; (ii) promote the safety and well-
+being of the City's youngest citizens, persons under the age of seven-
+teen (17), whose inexperience renders them particularly vulnerable to
+becoming participants in unlawful activities, particularly unlawful
+drug activities, and to being victimized by older perpetrators of crime;
+and (iii) foster and strengthen parental responsibility for children.
+
+(a) Definitions.
+
+As used within this section 17-7, the following words and phrases
+shall have the meanings ascribed to them below:
+
+                    20
+"Curfew hours" refers to the hours of 12:01 a.m. through 5:00 a.m.
+on Monday through Friday, and 1:00 a.m. through 5:00 a.m. on Satur-
+day and Sunday.
+
+"Emergency" refers to unforeseen circumstances, or the status or
+condition resulting therefrom, requiring immediate action to safe-
+guard life, limb or property. The term includes, but is not limited to,
+fires, natural disasters, automobile accidents, or other similar circum-
+stances.
+
+"Establishment" refers to any privately-owned place of business
+within the City operated for a profit, to which the public is invited,
+including, but not limited to any place of amusement or entertain-
+ment. With respect to such Establishment, the term"Operator" shall
+mean any person, and any firm, association, partnership (and the
+members or partners thereof) and/or any corporation (and the officers
+thereof) conducting or managing that Establishment.
+
+"Minor" refers to any person under seventeen (17) years of age
+who has not been emancipated by court order entered pursuant to Sec-
+tion 16.1-333 of the Code of Virginia, 1950, as amended.
+
+"Officer" refers to a police or other law enforcement officer
+charged with the duty of enforcing the laws of the Commonwealth of
+Virginia and/or the ordinances of the City of Charlottesville.
+
+"Parent" refers to:
+
+          (1) a person who is a minor's biological or adoptive par-
+          ent and who has legal custody of a minor (including either
+          parent, if custody is shared under a court order or agree-
+          ment);
+
+          (2) a person who is the biological or adoptive parent with
+          whom a minor regularly resides;
+
+          (3) a person judicially appointed as a legal guardian of
+          the minor; and/or
+
+                      21
+          (4) a person eighteen (18) years of age or older standing
+          in loco parentis (as indicated by the authorization of an indi-
+          vidual listed in part(s) (1), (2) or (3) of this definition,
+          above, for the person to assume the care or physical custody
+          of the child, or as indicated by any other circumstances).
+
+"Person" refers to an individual, not to any association, corpora-
+tion, or any other legal entity.
+
+"Public Place" refers to any place to which the public or a substan-
+tial group of the public has access, including, but not limited to:
+streets, highways, roads, sidewalks, alleys, avenues, parks, and/or the
+common areas of schools, hospitals, apartment houses, office build-
+ings, transportation facilities and shops.
+
+"Remain" refers to the following actions:
+
+          (1) to linger or stay at or upon a place; and/or
+
+          (2) to fail to leave a place when requested to do so by an
+          officer or by the owner, operator or other person in control
+          of that place.
+
+"Temporary care facility" refers to a non-locked, non-restrictive
+shelter at which minors may wait, under visual supervision, to be
+retrieved by a parent. No minors waiting in such facility shall be
+handcuffed and/or secured (by handcuffs or otherwise) to any station-
+ary object.
+
+(b) It shall be unlawful for a minor, during curfew hours, to remain
+in or upon any Public Place within the City, to remain in any motor
+vehicle operating or parked therein or thereon, or to remain in or upon
+the premises of any Establishment within the City, unless:
+
+          (1) the minor is accompanied by a parent; or
+
+          (2) the minor is involved in an emergency; or
+
+          (3) the minor is engaged in an employment activity, or is
+          going to or returning home from such activity, without
+          detour or stop; or
+
+                    22
+          (4) the minor is on the sidewalk directly abutting a place
+          where he or she resides with a parent; or
+
+          (5) the minor is attending an activity sponsored by a
+          school, religious, or civic organization, by a public organi-
+          zation or agency, or by another similar organization or
+          entity, which activity is supervised by adults, and/or the
+          minor is going to or returning from such an activity without
+          detour or stop; or
+
+          (6) the minor is on an errand at the direction of a parent,
+          and the minor has in his or her possession a writing signed
+          by the parent containing the following information: the
+          name, signature, address and telephone number of the parent
+          authorizing the errand, the telephone number where the par-
+          ent may be reached during the errand, the name of the
+          minor, and a brief description of the errand, the minor's des-
+          tination(s) and the hours the minor is authorized to be
+          engaged in the errand; or
+
+          (7) the minor is involved in interstate travel through, or
+          beginning or terminating in, the City of Charlottesville; or
+
+          (8) the minor is exercising First Amendment rights pro-
+          tected by the United States Constitution, such as the free
+          exercise of religion, freedom of speech and the right of
+          assembly.
+
+(c) It shall be unlawful for a minor's parent to knowingly permit,
+allow or encourage such minor to violate 17-7(b).
+
+(d) It shall be unlawful for a person who is the owner or operator
+of any motor vehicle to knowingly permit, allow or encourage a viola-
+tion of 17-7(b).
+
+(e) It shall be unlawful for the Operator of any Establishment, or
+for any person who is an employee thereof, to knowingly permit,
+allow or encourage a minor to remain upon the premises of the Estab-
+lishment during curfew hours. It shall be a defense to prosecution
+
+                    23
+under this subsection that the Operator or employee of an Establish-
+ment promptly notified the police department that a minor was pres-
+ent at the Establishment after curfew hours and refused to leave.
+
+(f) It shall be unlawful for any person (including any minor) to give
+a false name, address, or telephone number to any officer investigat-
+ing a possible violation of this section 17-7.
+
+(g) Enforcement.
+
+          (1) Minors. Before taking any enforcement action hereun-
+          der, an officer shall make an immediate investigation for the
+          purpose of ascertaining whether or not the presence of a
+          minor in a public place, motor vehicle and/or Establishment
+          within the City during Curfew hours is in violation of 17-
+          7(b).
+
+          (A) If such investigation reveals that the pres-
+          ence of such minor is in violation of 17-7(b), then:
+
+            (1) if the minor has not previously been
+          issued a warning for any such violation, then the
+          officer shall issue a verbal warning to the minor,
+          which shall be followed by a written warning
+          mailed by the police department to the minor
+          and his or her parent(s), or
+
+           (2) if the minor has previously been issued a
+          warning for any such violation, then the officer
+          shall charge the minor with a violation of this
+          ordinance and shall issue a summons requiring
+          the minor to appear in court (Ref. Va. Code
+          § 16.1-260(H)(1)). And
+
+          (B) As soon as practicable, the officer shall:
+
+           (1) release the minor to his or her parent(s);
+          or
+
+                    24
+            (2) place the minor in a temporary care facil-
+          ity for a period not to exceed the remainder of
+          the curfew hours, so that his or her parent(s)
+          may retrieve the minor; or
+
+           (3) if a minor refuses to give an officer his or
+          her name and address, refuses to give the name
+          and address of his or her parent(s), or if no par-
+          ent can be located prior to the end of the appli-
+          cable curfew hours, or if located, no parent
+          appears to accept custody of the minor, the
+          minor may be taken to a nonsecure crisis center
+          or juvenile shelter and/or may be taken to a
+          judge or intake officer of the juvenile court to be
+          dealt with in the manner and pursuant to such
+          procedures as required by law. (Ref. Va. Code
+          § 16.1-260(H)(1); § 16.1-278.6; #8E8E # 16.1-
+          241(A)(1)).
+
+          (2) Others. If an investigation by an officer reveals that
+          a person has violated 17-7(c), (d) and/or (e), and if the per-
+          son has not previously been issued a warning with respect
+          to any such violation, an officer shall issue a verbal warning
+          to the person, which shall be followed by a written warning
+          mailed by the police department to the person; however, if
+          any such warning has previously been issued to that person
+          then the officer shall charge the person with a violation and
+          shall issue a summons directing the person to appear in
+          court.
+
+(h) Each violation of this section 17-7 shall constitute a Class 4
+Misdemeanor.
+
+2. Within one year after the effective date of March 1, 1997 of
+this ordinance, the City Manager shall review this ordinance and
+report and make recommendations to the City Council concerning the
+effectiveness of and the continuing need for the ordinance. The City
+Manager's report shall specifically include the following information:
+(a) the practicality of enforcing the ordinance and any problems with
+enforcement identified by the Police Department; (b) the impact and
+
+                     25
+cost of the ordinance; (c) other data and information which the Police
+Department believes to be relevant in assessing the effectiveness of
+the curfew ordinance; and (d) information from citizens regarding
+whether the ordinance has been administered and enforced fairly,
+including information regarding the age, gender and race of those
+charged or detained under the ordinance.
+
+3. This ordinance shall be effective on March 1, 1997, at 12:01
+a.m.
+
+Approved by Council                 /s/ Jeanne Cox
+December 16, 1996                   Clerk of City Council
+
+MICHAEL, Circuit Judge, dissenting:
+
+Today, the majority relegates kids to second-class citizenship by
+upholding Charlottesville's nighttime curfew for minors. Forbidding
+children to go out at night affects their fundamental rights, and such
+a restriction can be valid only if it withstands strict scrutiny. The
+Charlottesville curfew ordinance fails the test because it sweeps too
+broadly and usurps rather than supports parental authority over child
+rearing. The ordinance has another constitutional defect as well.
+Although it is a crime to violate the ordinance, the crime is only
+vaguely defined. The curfew does not apply when minors are "exer-
+cising First Amendment rights." This exception is unconstitutionally
+vague, leaving children, their parents, and the police to guess whether
+particular conduct is punishable as a crime. I respectfully dissent.
+
+The majority attempts to brush this dissent aside by claiming that
+under my approach "no curfew ever would pass constitutional mus-
+ter," ante at 18. I can as easily say that under the majority's approach
+no curfew would ever fail constitutional muster. I'm afraid that my
+claim will be proven true. As long as the majority's standard is the
+law, a city council can pass a juvenile curfew as a routine measure
+because the justification is so easy to articulate. This should not stand
+under the Constitution. Children make up a quarter of our population,
+and their rights must not be ignored. A city council cannot order such
+a large segment of the community to stay at home for thirty-three
+hours of every week unless its curfew satisfies strict scrutiny. Subject-
+
+                     26
+ing Charlottesville's ordinance to this test does not subvert the "dem-
+ocratic authority" of the City Council, see ante at 18-19. On the
+contrary, the Council's authority must be exercised within constitu-
+tional bounds. The Council cannot, in the name of majority rule, take
+away constitutional rights of a minority, in this case all children under
+seventeen.
+
+I.
+
+Charlottesville's curfew targets all unemancipated persons under
+seventeen and applies between the hours of 12:01 a.m. and 5:00 a.m.
+on week nights and 1:00 a.m. and 5:00 a.m. on Friday and Saturday
+nights (Saturday and Sunday mornings). See Charlottesville, Va.,
+Code § 17-7(a), (b) (hereinafter City Code). The ordinance makes it
+unlawful for these minors to "remain" in public (including private
+property open to the public) during curfew hours unless one of the
+curfew's eight exceptions are met. See id. One of these exceptions
+allows a minor to remain in public when "the minor is exercising First
+Amendment rights protected by the United States Constitution, such
+as the free exercise of religion, freedom of speech and the right of
+assembly." Id. § 17-7(b)(8). A minor is also exempted from the cur-
+few if he has written documentation that he is running an "errand" as
+directed by his parent and this document meets nine statutory criteria.
+See id. § 17-7(b)(6).1 Minors who violate the curfew are subject to
+criminal punishment, and so are parents who "knowingly permit,
+allow or encourage" their children to defy the curfew. See id. § 17-
+7(c).
+
+On March 10, 1997, Daniel Schleifer and four other minors, two
+adult parents of these minors, and an eighteen-year-old adult brought
+suit against the City of Charlottesville seeking a declaratory judgment
+that the curfew ordinance is unconstitutional. In district court the
+_________________________________________________________________
+1 The written document must contain the following information: (1) the
+minor's name; (2) the authorizing parent's name, (3) signature, (4)
+address, and (5) telephone number; (6) the telephone number where this
+parent may be reached during the pendency of the errand; (7) a "brief"
+description of the errand; (8) the minor's destination or destinations; and
+(9) "the hours the minor is authorized to be engaged in the errand." See
+City Code § 17-7(b)(6).
+
+                     27
+minor plaintiffs argued their case as a Fourteenth Amendment equal
+protection violation that implicates their fundamental rights, including
+First Amendment and due process rights and the right to intrastate
+movement. The parent plaintiffs argued that the curfew's restrictions
+impermissibly burdened their due process right to exercise parental
+discretion and control over the rearing of their children by making the
+exercise of this discretion and control illegal. Finally, all plaintiffs
+challenged the statute as being void for vagueness under the Due Pro-
+cess Clause.2 The district court ruled for the City on these claims after
+a trial on the merits. I would reverse on the grounds that the curfew
+violates the Equal Protection Clause and is void for vagueness.
+
+II.
+
+Because the curfew criminalizes conduct of persons under the age
+of seventeen, the City's use of this age-based classification is subject
+to the limitations of the Fourteenth Amendment's Equal Protection
+Clause. Generally, laws making age-based classifications are subject
+to rational basis review, see Gregory v. Ashcroft, 501 U.S. 452, 470
+(1991); Massachusetts Bd. of Retirement v. Murgia, 427 U.S. 307,
+313-14 (1976), and thus are upheld if there is a rational relationship
+that ties the use of the classification to a legitimate governmental pur-
+pose, see Heller v. Doe, 509 U.S. 312, 319-21 (1993). However, when
+an age-based classification affects fundamental rights, a court must
+review the classification with "the most exacting scrutiny." See Clark
+v. Jeter, 486 U.S. 456, 461 (1988) (unanimous decision); see also
+Austin v. Michigan Chamber of Commerce, 494 U.S. 652, 666 (1990).
+
+The Charlottesville curfew ordinance does implicate fundamental
+rights. Cf. Kolender v. Lawson, 461 U.S. 352, 358 (1983) (loitering
+statute implicates First Amendment liberties and"constitutional right
+to freedom of movement"); Nunez v. City of San Diego, 114 F.3d 935,
+944-45 (9th Cir. 1997) (holding that curfew infringed minors' funda-
+mental rights). Normally, this would require the City to demonstrate
+that the ordinance satisfies strict scrutiny. However, because this case
+involves the fundamental rights of minors, and not those of adults, the
+_________________________________________________________________
+2 Like the majority, I read the plaintiffs' equal protection and due pro-
+cess claims as arising under the Fourteenth Amendment, rather than the
+Fifth Amendment as alleged in their complaint.
+
+                    28
+majority concludes that equal protection requires only intermediate
+scrutiny. See ante at 4-5. I disagree. Like the Fifth and Ninth Circuits,
+I would hold that the Equal Protection Clause subjects to strict scru-
+tiny all governmental classifications that impact fundamental consti-
+tutional rights. See Nunez, 114 F.3d at 945-46; Qutb v. Strauss, 11
+F.3d 488, 492 & n.6 (5th Cir. 1993). Under this standard the Char-
+lottesville curfew is unconstitutional.
+
+A.
+
+Some mention of the unique status of children in our society is nec-
+essary to set the stage for the explanation of why strict scrutiny is nec-
+essary. The Supreme Court has long recognized that "`[c]hildren have
+a very special place in life which the law should reflect.'" Bellotti v.
+Baird, 443 U.S. 622, 633 (1979) (Bellotti II ) (plurality opinion).
+Accordingly, the Bellotti II plurality identified certain factors that the
+Court has used to justify situations where "the constitutional rights of
+children cannot be equated with those of adults." Id. at 634 (identify-
+ing the factors as "the peculiar vulnerability of children; their inability
+to make critical decisions in an informed, mature manner; and the
+importance of the parental role in child rearing."). These factors
+reflect the view that "[t]he unique role in our society of the family . . .
+requires that constitutional principles be applied with sensitivity and
+flexibility to the special needs of parents and children." See id. at 633-
+34. This focus on the family and the parent-child relationship is cen-
+tral in the Court's decisions and must be examined to understand
+when there is justification for concluding that a minor's constitutional
+rights are not coextensive with those of an adult.
+
+The Supreme Court has consistently reflected the traditional West-
+ern concept of the family as a "unit with broad parental authority over
+minor children." See Parham v. J.R., 442 U.S. 584, 602 (1979).
+Indeed, the Court's "`constitutional interpretation has consistently
+recognized [that] parents' claim to authority in their own household
+to direct the rearing of their children is basic in the structure of our
+society.'" Bellotti II, 443 U.S. at 638 (quoting Ginsberg v. New York,
+390 U.S. 629, 639 (1968)). This authority is undoubtedly broad.
+When parental control comes into play, "unemancipated minors lack
+some of the most fundamental rights of self-determination -- includ-
+ing even the right of liberty in its narrow sense, i.e., the right to come
+
+                     29
+and go at will." Vernonia Sch. Dist. 47J v. Acton, 515 U.S. 646, 654
+(1995).
+
+However, a parent's broad authority does not generally carry over
+to the state. "[O]ur constitutional system long ago rejected any notion
+that a child is `the mere creature of the State' and, on the contrary,
+asserted that parents generally `have the right, coupled with the high
+duty, to recognize and prepare [their children] for additional obliga-
+tions.'" Parham, 442 U.S. at 602 (quoting Pierce v. Society of Sisters,
+268 U.S. 510, 535 (1925)); see also Bellotti II , 443 U.S. at 637;
+Wisconsin v. Yoder, 406 U.S. 205, 232 (1972) ("This primary role of
+the parents in the upbringing of their children is now established
+beyond debate as an enduring American tradition."). The Court has
+repeatedly said that it is "`cardinal with us that the custody, care and
+nurture of the child reside first in the parents, whose primary function
+and freedom include preparation for obligations the state can neither
+supply nor hinder.'" See Bellotti II, 443 U.S. at 638 (alteration in
+original) (quoting Prince v. Massachusetts, 321 U.S. 158, 166
+(1944)). This broad recognition of the parents' right to control the
+upbringing of their children and of constitutional deference to paren-
+tal authority is linked to the parents' duty to raise and protect their
+children. See Lehr v. Robertson, 463 U.S. 248, 257-58 (1983); Meyer
+v. Nebraska, 262 U.S. 390, 400 (1923). This deference to parents rests
+on the strong presumptions that "natural bonds of affection lead par-
+ents to act in the best interests of their children" and that "parents pos-
+sess what a child lacks in maturity, experience, and capacity for
+judgment required for making life's difficult decisions." See Parham,
+442 U.S. at 602, 603; see also Bellotti II, 443 U.S. at 637; Yoder, 406
+U.S. at 232.
+
+Only in limited instances is the state able to assert a parent's broad
+power to control the activities of minors. For example, when the state
+acts as the legal guardian for a child, it will assume much, if not all,
+of a parent's traditional prerogatives. Similarly, the teachers and
+administrators of a public school will act "in loco parentis" while chil-
+dren are in their physical custody because parents"`delegate part of
+[their] authority'" to the school by placing their children under its
+instruction. See Vernonia, 515 U.S. at 655 (quoting 1 W. Blackstone,
+Commentaries on the Laws of England 441 (1769)); Bethel Sch. Dist.
+
+                     30
+No. 403 v. Fraser, 478 U.S. 675, 682 (1986); id. at 688 (Brennan, J.,
+concurring in the judgment).3
+
+In a similar way, the state (as parens patriae) may occasionally dis-
+place the parents' primary role in child rearing in order to protect a
+child's welfare. Thus, the state may trump parental discretion in delin-
+quency proceedings (because parental control has already faltered),
+see Schall v. Martin, 467 U.S. 253, 265 (1984); In re Gault, 387 U.S.
+1, 17 (1967), or in situations where a child's "physical or mental
+health is jeopardized," see Parham, 442 U.S. at 603; Yoder, 406 U.S.
+at 233-34. In these circumstances, the strong presumption that parents
+are able and willing to act in the best interests of their children may
+be rebutted. See Parham, 442 U.S. at 602. The state's power to dis-
+place parental discretion is limited, however, and must be justified on
+a case-by-case basis.
+
+            That some parents "may at times be acting against the inter-
+            ests of their children" . . . creates a basis for caution, but is
+            hardly a reason to discard wholesale those pages of human
+            experience that teach that parents generally do act in the
+            child's best interests. The statist notion that governmental
+            power should supersede parental authority in all cases
+_________________________________________________________________
+3 The majority overlooks Vernonia's real thrust by quoting it to suggest
+that a minor's constitutional rights with respect to the state are subject
+to "customary limitations," ante at 5, that"includ[e] even the right of lib-
+erty in its narrow sense, i.e., the right to come and go at will," id. (quot-
+ing Vernonia, 515 U.S. at 654). Had the majority quoted the very next
+line in Vernonia, it would be obvious that the case makes clear that
+minors lack some of the most fundamental rights of self-determination
+with respect to their parents, not the state. See 515 U.S. at 654 ("They
+are subject, even as to their physical freedom, to the control of their par-
+ents or guardians."). Vernonia repeatedly emphasized that a minor's
+rights "vis-a-vis the State may depend on the individual's legal relation-
+ship with the State" and that "central" to the Court's decision was the fact
+that the children claiming a constitutional privacy right had "been com-
+mitted to the temporary custody of the State as schoolmaster." See id. at
+654; see also id. at 655, 656, 662, 665; cf. Nunez, 114 F.3d at 944-45
+(rejecting as "out of context" the same quotation the majority uses from
+Vernonia).
+
+                    31
+          because some parents abuse and neglect children is repug-
+          nant to American tradition.
+
+Id. at 602-03 (citations omitted). Indeed,"[s]imply because the deci-
+sion of a parent is not agreeable to a child or because it involves risks
+does not automatically transfer the power to make that decision from
+the parents to some agency or officer of the state." Id. at 603 (empha-
+sis added). Thus, except in special circumstances, the state normally
+must defer to the exercise of a broad degree of parental discretion.
+
+It is also clear that while the state does have an independent interest
+in the welfare of children, this interest may be superseded by the par-
+ents' right to exercise broad discretion in raising their children. See,
+e.g., Yoder, 406 U.S. at 229-30; Pierce, 268 U.S. at 534-35; Meyer,
+262 U.S. at 400. Consequently, the rights of minors in relation to the
+state must be analyzed to consider not only the interests of the minor
+and the state but also the interests of parents. Cf. Parham, 442 U.S.
+at 600 (minor's "interest is inextricably linked with the parents' inter-
+est in and obligation for the welfare and health of the child"). Thus,
+the analysis of a minor's rights is complicated by the addition of this
+third party (a parent) who can bolster either the state's claim of
+authority or the minor's assertion of rights. Cf. Yoder, 406 U.S. at 231
+(recognizing that "competing interests of parents, children, and the
+State" requires additional analysis).4
+
+Although the Court's language in Prince v. Massachusetts, 321
+U.S. 158 (1944), "taken at its broadest sweep" would lend support to
+the majority's expansive view of state power, Prince has limited
+application beyond its facts. See Yoder, 406 U.S. at 229. Prince
+involved a challenge to a conviction under a child labor law that made
+it criminal for parents to allow boys under the age of twelve and girls
+_________________________________________________________________
+4 Recently, in Reno v. ACLU , 117 S. Ct. 2329, 2348 (1997), the Court
+recognized that it is "clear that the strength of the government's interest
+in protecting minors is not equally strong" in all applications of the Com-
+munications Decency Act. Specifically, the Court indicated that the gov-
+ernment's interest in protecting minors from indecent material would be
+greatly diminished where "a parent allow[s] her 17-year-old to use the
+family computer to obtain information on the Internet that she, in her
+parental judgment, deems appropriate." See id. (emphasis added).
+
+                     32
+younger than eighteen to sell newspapers and similar items. See
+Prince, 321 U.S. at 160-61. The Court sustained the conviction of
+Mrs. Prince for taking her ward (and niece), a nine-year-old girl, with
+her to assist in selling religious literature during the evening hours.
+See id. at 161-62; id. at 171 (Murphy, J., dissenting); see also
+Ginsberg, 390 U.S. at 638-39. The Court ruled that the state's inter-
+ests in protecting the nine-year-old from psychological and physical
+harms that might result from Prince's activities were sufficient to jus-
+tify the conviction. See 321 U.S. at 169-70. The Court was careful to
+state, however, that its decision did "not extend beyond the facts the
+case presents." See id. at 171. Accordingly, the Court has since lim-
+ited Prince's application to situations where there is a "`substantial
+threat'" of harm to the "physical or mental health of the child or to
+the public safety, peace, order, or welfare." See Yoder, 406 U.S. at
+230. In light of Yoder and the facts of Prince, I read Prince to allow
+a state to override parental discretion when the exercise of this discre-
+tion creates a substantial threat to the health and safety of children.
+In assessing this threat, Prince suggests that very young children are
+particularly vulnerable to harm.
+
+This discussion underscores the Supreme Court's recognition of the
+special status of children and the predominance of the family unit. In
+particular, it underscores the Court's deference to the traditional
+authority of parents over the activities of their children. With this
+background, I now turn to the proper standard of scrutiny that must
+be applied in this case.
+
+B.
+
+The minors' equal protection challenge in this case must be ana-
+lyzed under strict scrutiny. This conclusion flows from the basic ques-
+tion the majority ignores. Why are the federal constitutional rights of
+persons who are defined as minors under state law different from
+those of adults? The answer is that a minor's constitutional rights are
+basically the same as those of adults, but in certain situations there
+may be "significant state interest[s] . . . that [are] not present in the
+case of an adult" that will support a broader authority to regulate
+minors. See Planned Parenthood v. Danforth, 428 U.S. 52, 75 (1976).5
+_________________________________________________________________
+5 There are limited differences imbedded in our Constitution. For
+instance, the Twenty-Sixth Amendment guarantees the right to vote only
+to those eighteen and older. See U.S. Const. amend. XXVI.
+
+                     33
+When these interests justify regulation, they do so not because a
+minor's constitutional rights are always inferior to those of an adult
+but rather because the government's specific interests as regards
+minors are sometimes sufficient to allow a regulation to survive strict
+scrutiny. Accordingly, I would hold that the "fundamental rights" of
+minors are no less fundamental than those of adults and, thus, must
+be protected with the same vigor under a strict scrutiny analysis. See
+Nunez, 114 F.3d at 945.
+
+1.
+
+This conclusion is drawn from the Supreme Court's general
+approach to analyzing the rights of minors. The Court makes it clear
+that "[m]inors, as well as adults, are protected by the Constitution and
+possess constitutional rights." See Danforth , 428 U.S. at 74; see also
+Tinker v. Des Moines Indep. Community Sch. Dist., 393 U.S. 503, 511
+(1969) ("[s]tudents . . . are `persons' under our Constitution [who] are
+possessed of fundamental rights which the State must respect"); In re
+Gault, 387 U.S. 1, 13 (1967) ("whatever may be their precise impact,
+neither the Fourteenth Amendment nor the Bill of Rights is for adults
+alone"). Indeed, the simple fact of age minority cannot by itself justify
+a dilution of constitutional protection. See Bellotti v. Baird, 443 U.S.
+622, 633 (1979) (Bellotti II) (four-vote plurality opinion) ("A child,
+merely on account of his minority, is not beyond the protection of the
+Constitution."). Because "[c]onstitutional rights do not mature and
+come into being magically only when one attains the state-defined age
+of majority," Danforth, 428 U.S. at 74 (emphasis added), all persons,
+regardless of age, possess these rights under our system. Cf. Bellotti
+II, 443 U.S. at 635 ("children generally are protected by the same con-
+stitutional guarantees against governmental deprivations as are adults"
+(emphasis added)).
+
+While minors generally possess the same rights against govern-
+mental deprivations as adults, considerations unique to minors can
+lend more weight to the government's interest in regulating this class.
+See Nunez, 114 F.3d at 945; Qutb, 11 F.3d 492 n.6. In Bellotti II a
+four-justice plurality noted that the Supreme Court has used three rea-
+sons to "justify[ ]" treating minors differently from adults under the
+Constitution: "the peculiar vulnerability of children; their inability to
+make critical decisions in an informed, mature manner; and the
+
+                     34
+importance of the parental role in child rearing." 443 U.S. at 634. If
+minors are to be accorded constitutional rights unequal to adults by
+reason of a particular regulation, these factors must support the gov-
+ernment's assertion of greater authority. "`It is only upon such a
+premise . . . that a State may deprive children of .. . rights [when a
+similar deprivation] would be constitutionally intolerable for adults.'"
+Bellotti II, 443 U.S. at 635 n.13 (quoting Ginsberg, 390 U.S. at 650
+(Stewart, J., concurring in the result)) (emphasis added).
+
+The principle is illustrated by the Supreme Court's treatment of
+statutes forbidding a minor to obtain an abortion without parental con-
+sent. The Court has steadfastly insisted that such statutes must have
+a judicial bypass procedure. See, e.g., Bellotti II, 443 U.S. at 647-48
+(consent statute); Danforth, 428 U.S. at 72-75 (same). The analysis
+used by the Court in Danforth is particularly instructive. After ruling
+that a spousal consent provision was unconstitutional, the Court
+addressed the statute's parental consent provision, saying that "much
+of what has been said above, with respect to [spousal consent],
+applies with equal force to [parental consent]." 428 U.S. at 74. The
+Court explained that "[m]inors, as well as adults, are protected by the
+Constitution and possess constitutional rights." Id. However, it
+acknowledged that "the State has somewhat broader authority to regu-
+late the activities of children than of adults." See id. Consequently, the
+Court explained: "It remains, then, to examine whether there is any
+significant state interest in conditioning an abortion on the consent of
+a parent . . . that is not present in the case of an adult." See id. at 75
+(emphasis added). This analysis demonstrates that the Court did not
+assume that the state always possesses broader authority to regulate
+children. To the contrary, it looked to whether there were significant
+interests specific to minors that justified the law, indicating that the
+law would be unconstitutional if these interests did not provide suffi-
+cient support for broader authority to regulate minors. After examin-
+ing the interests advanced by the state, the Court struck down the
+parental consent law because it lacked "sufficient justification." See
+id. at 75.
+
+The Court applied the same reasoning it used in Danforth to its
+subsequent parental consent cases. In Bellotti II the Court constructed
+its judicial bypass requirement to permit the consent undertaking to
+apply only to those minors who could justifiably be treated differently
+
+                     35
+from adults. Thus, a bypass procedure must allow a minor to demon-
+strate that either (1) she is mature and informed enough to make the
+abortion decision herself or (2) the abortion is in her best interests.
+See Ohio v. Akron Ctr. for Reprod. Health, 497 U.S. 502, 511 (1990)
+(Akron II); Bellotti II, 443 U.S. 647-48. First, the state's justification
+that minors generally are not able "to make critical decisions in an
+informed, mature manner," Bellotti II, 443 U.S. at 634, is lost when
+a minor is adjudged mature and informed. Without the immaturity
+justification, the state has little reason to, and indeed cannot, require
+a parent's consent. Cf. Danforth, 428 U.S. at 75 (parent's interest in
+abortion decision is outweighed by mature minor's privacy right).
+Similarly, Bellotti's final consideration, that greater restrictions may
+be imposed on minors to reinforce the "importance of the parental
+role in child rearing," Bellotti II, 443 U.S. at 634, is premised on the
+presumption that parents will discharge their "responsibility for [their]
+children's well-being." See id. at 638-39. When a minor can demon-
+strate to a court that an abortion is in her best interests, the state's
+interest in involving the parents is reduced so much that the state can
+no longer require a minor to obtain parental consent. Therefore, when
+a minor is mature or an abortion is in her best interests, parental con-
+sent requirements are unconstitutional because the state's interests
+(specific to minors) do not justify a restriction that could not be
+applied to adults.
+
+The parental consent example demonstrates that the government
+may sometimes, but not always, have interests in protecting minors
+that will allow it to impose special restrictions that narrow a minor's
+constitutional rights. It follows that courts must look at the regulation
+in question to determine if the state has sufficient justification to
+claim that a minor's rights are not the equal of an adult's. Only
+through this process can the state-defined age of majority have any
+significance insofar as constitutional rights are concerned.
+
+2.
+
+We know that we must evaluate the special interests that may jus-
+tify a greater degree of governmental authority over minors in the
+context of the specific regulation. Still, the question remains as to
+which level of scrutiny is appropriate in cases involving constitutional
+rights. Logic compels that strict scrutiny apply.
+
+                     36
+It is clear from the discussion above that the majority's categorical
+approach is wrong. The majority would apply intermediate scrutiny
+in all cases involving minors, even those in which the government has
+no justification specific to minors for infringing upon their fundamen-
+tal rights. In the latter situation the governmental interest in regulating
+minors under the majority's approach is identical to its interest in reg-
+ulating adults. Yet the rights of minors could still be treated differ-
+ently because their "fundamental" rights are not protected with strict
+scrutiny review. This has far ranging implications. Legislative bodies
+can pass many laws regulating conduct that would pass intermediate
+scrutiny but fail strict scrutiny. Under the majority's approach, such
+laws could be applied to all minors but could not be applied to any
+adults (whose fundamental rights are protected by strict scrutiny),
+even though the government had no reason to regulate minors any
+more than it did adults. The majority's holding, therefore, allows a
+minor to be deprived of constitutional rights when a similar depriva-
+tion would be constitutionally intolerable for adults, even though the
+state lacks any reason for different treatment. This result cannot be
+justified and essentially creates a second-class citizenship for all per-
+sons under the age of majority. For these persons, federal constitu-
+tional rights will "mature and come into being magically only when
+[they] attain[ ] the state-defined age of majority," Danforth, 428 U.S.
+at 74.6
+
+Moreover, the majority's approach is completely inconsistent with
+the Supreme Court's decisions on parental consent in the abortion
+context. As discussed above, the state cannot constitutionally regulate
+a minor's abortion rights by requiring parental consent unless the reg-
+ulation provides a judicial bypass. The majority's holding, however,
+would allow the state to regulate a minor's abortion rights if the
+_________________________________________________________________
+6 Although I disagree with the details of the approach taken by the dis-
+trict court, its analysis properly focused on the existence or absence of
+interests specific to minors that would justify"accord[ing] the state more
+regulatory latitude in governing children in certain circumstances."
+Schleifer v. City of Charlottesville, 963 F. Supp. 534, 541 (W.D. Va.
+1997) (preliminary injunction analysis that was adopted in final ruling)
+(emphasis added). Under its approach, only "[w]hen the Bellotti factors
+. . . cut in favor of increased state oversight" will intermediate, rather
+than strict, scrutiny apply. See id. at 541-42.
+
+                     37
+state's regulation "`is substantially related' to `important' governmen-
+tal interests," ante at 5. Such a result is clearly at odds with the
+Supreme Court's approach, as the state always has an important inter-
+est in regulating abortions. Beginning with Roe v. Wade, 410 U.S. 113
+(1973), the Supreme Court has repeatedly recognized the state's "im-
+portant and legitimate interest in protecting the potentiality of human
+life." Id. at 162. See also Planned Parenthood v. Casey, 505 U.S. 833,
+871 (1992); Harris v. McRae, 448 U.S. 297, 324-25 (1980). This
+interest by itself would enable state abortion statutes to meet interme-
+diate scrutiny. Therefore, the majority's holding that intermediate
+scrutiny should apply to the regulation of minors simply cannot be
+squared with the Supreme Court's insistence that a state cannot
+require a mature minor to obtain parental consent for an abortion.
+Indeed, if the majority was correct, the state could completely ban
+abortions for women under the age of eighteen. This confirms the fal-
+lacy of applying intermediate scrutiny to cases involving the funda-
+mental rights of minors.
+
+I would avoid these difficulties by applying strict scrutiny to all
+equal protection challenges involving fundamental rights, regardless
+of whether minors or adults are involved. Under this approach, minors
+must be treated the same as adults whenever the government lacks
+interests specific to minors to support more restrictive regulatory
+authority over them. Cf. Bellotti II, 443 U.S. at 635 n.13; Danforth,
+428 U.S. at 74-75. However, when circumstances trigger governmen-
+tal interests that are particular to minors, these interests, when coupled
+with the government's other interests, can make the government's
+claim for greater restrictions on minors much stronger. If these inter-
+ests taken as a whole are compelling, the government's regulation (if
+narrowly tailored) will survive strict scrutiny with respect to minors,
+even though it would fail the test in the case of adults. See Nunez, 114
+F.3d at 945 ("the Bellotti framework enables courts to determine
+whether the state has a compelling interest justifying greater restric-
+tions on minors than on adults"); Qutb, 11 F.3d at 492 n.6 (same).
+This approach therefore provides a principled approach for deciding
+when children may be treated differently from adults for constitu-
+tional purposes.7
+_________________________________________________________________
+7 The majority relies on the plurality opinion in Carey v. Population
+Services International, 431 U.S. 678, 691-99 (1977), to support its argu-
+
+                    38
+The Fifth and Ninth Circuits adopt this approach and analyze
+minors' equal protection challenges with strict scrutiny when funda-
+mental rights are implicated. See Nunez, 114 F.3d at 945-46; Qutb, 11
+F.3d at 492 & n.6; cf. Hutchins v. District of Columbia, 144 F.3d 798,
+805-10 (D.C. Cir. 1998) (opinion of Rogers, J.) (intermediate scru-
+tiny); id. at 825-27 (Tatel, J., concurring in the judgment) (strict scru-
+tiny); id. at 828 (Silberman, J., dissenting) (finding that no
+fundamental right was affected by curfew and therefore applying
+rational basis review to age-based equal protection challenge).8 I
+would join these circuits and hold that the Equal Protection Clause
+subjects all governmental classifications impacting on the fundamen-
+tal constitutional rights of minors to strict scrutiny.
+
+C.
+
+The Charlottesville curfew ordinance cannot withstand strict scru-
+tiny and should be struck down. The Equal Protection Clause protects
+our constitutional rights by requiring that the government clear a high
+hurdle before regulating in the realm of fundamental rights. Under
+strict scrutiny review, "statutory classifications impinging on [a fun-
+_________________________________________________________________
+ment that the Charlottesville curfew should be subjected to less than
+strict scrutiny. See ante at 5. Carey is a slender reed for this proposition.
+First, Carey's plurality opinion was decided before Bellotti II, and later
+cases have followed the reasoning of Bellotti II . Second, Carey itself is
+best read as a recognition that the state's unique and significant interests
+in regulating children will make it easier to justify greater restrictions on
+minors than on adults. See Carey, 431 U.S. at 693 (plurality opinion).
+8 Reno v. Flores, 507 U.S. 292, 301-05 (1993), indicates that strict scru-
+tiny should apply when the fundamental rights of minors are involved.
+In Flores a class of minors challenged an INS regulation that requires
+juvenile aliens to be placed in institutional group care facilities during
+the pendency of deportation proceedings if a guardian or adult relative
+is not available to take custody. The Court recognized that strict scrutiny
+applies "when fundamental rights are involved," see id. at 302, 305, but
+it rejected the minors' due process claim because it found that no funda-
+mental right existed under the circumstances of the case. See id. at 305;
+cf. id. at 304 (stating that "the child's fundamental rights must not be
+impaired" by INS). The approach adopted by the Fifth and Ninth Circuits
+is therefore consistent with Flores' implication that strict scrutiny applies
+when a minor's fundamental rights are in the balance.
+
+                     39
+damental] right must be narrowly tailored to serve a compelling gov-
+ernmental interest." Austin v. Michigan Chamber of Commerce, 494
+U.S. 652, 666 (1990); see also Memorial Hosp. v. Maricopa County,
+415 U.S. 250, 269 (1974). The Charlottesville ordinance fails the
+strict scrutiny test, notwithstanding its stated (and worthy) objectives
+of (1) reducing juvenile crime, (2) promoting the safety and well-
+being of juveniles, and (3) fostering and strengthening parental
+responsibility.
+
+1.
+
+I quite agree with the majority that protecting the community from
+serious crime is a compelling governmental interest. See ante at 6.
+The problem is that the Charlottesville curfew is not narrowly tailored
+to forward this goal. "Statutes affecting constitutional rights must be
+drawn with `precision,' and must be `tailored' to serve their legitimate
+objectives. . . . [I]f there are other, reasonable ways to achieve those
+goals with a lesser burden on constitutionally protected activity, [the
+government] may not choose the way of greater interference. If it acts
+at all, it must choose `less drastic means.'" Dunn v. Blumstein, 405
+U.S. 330, 343 (1972) (quoting Shelton v. Tucker , 364 U.S. 479, 488
+(1960)).
+
+By restricting the freedom of minors during curfew hours, the ordi-
+nance treats all minors under the age of seventeen as a threat to soci-
+ety in order to protect the community from juvenile crime. This broad
+restriction is not narrowly tailored to meet its objective of crime pre-
+vention. The ordinance treats all minors the same even though an
+exceedingly small percentage commit crimes. The Equal Protection
+Clause forbids such a crude grouping when fundamental rights are at
+stake, and limiting the curfew's hours and providing exceptions does
+not diminish this shortcoming.
+
+This is not to say that emergency curfews that are broadly applica-
+ble and limited in duration are unconstitutional. Our circuit has previ-
+ously, and properly, ruled that such emergency measures are a proper
+exercise of the state's police power. See, e.g. , United States v. Chalk,
+441 F.2d 1277, 1280-83 (4th Cir. 1971). Here, however, we have a
+curfew with no sunset provision -- a curfew that sweeps in a vast
+class, all minors under seventeen, most of whom are law-abiding. The
+
+                     40
+Equal Protection Clause does not permit such a broad segment of
+society to be kept off the streets every night with the simple general-
+ization, "We want to prevent crime." Narrow tailoring requires some-
+thing less drastic.
+
+2.
+
+The City's second objective of promoting the safety and well-being
+of juveniles also falls short under strict scrutiny. This interest is not
+compelling in this case because the curfew displaces parental author-
+ity. Indeed, the majority says only that the City has a "strong" interest
+in protecting the youngest members of society from harm. See ante
+at 6-7. "Strong" interests are not sufficient to satisfy strict scrutiny.
+Only compelling interests suffice.
+
+The City's stated interest in protecting minors under the age of sev-
+enteen is not compelling here because the curfew was not designed
+to be supportive of the parental role. Bellotti II recognized that "re-
+strictions on minors, especially those supportive of the parental role,
+may be important to the child's chances for . . . full growth and matu-
+rity" and therefore can justify an increased governmental authority to
+regulate the protected activities of minors. See 443 U.S. at 338-39
+(emphasis added). This authority can be present when the governmen-
+tal interest in regulation complements the traditional authority of the
+parent. By supporting the exercise of parental discretion, the state
+aligns its regulatory power with the interests of parents who have
+broad discretion to control the activities of their children. The com-
+bined interests of parents and the state therefore strengthen the justifi-
+cation for governmental regulation. Ginsberg, for example, prohibited
+the direct sale of pornographic magazines to minors in order to
+strengthen parents' control over their children's access to such mate-
+rial. See 390 U.S. at 631, 639. The Court was careful to note, how-
+ever, that the government did not displace parental authority: "the
+prohibition against sales to minors does not bar parents who so desire
+from purchasing the magazines for their children." See id. at 639; see
+also Reno v. ACLU, 117 S. Ct. at 2346-48. Laws like the one in
+Ginsberg may thus be justified because they defer to parental author-
+ity and decisionmaking.
+
+                     41
+The Charlottesville ordinance, however, paternalistically displaces
+the exercise of parental discretion by making it illegal for parents to
+allow their children to move about independently at night. Yet parents
+are better able to assess their children's maturity and capacity for
+judgment than a city council. Parents may legitimately decide that the
+best way to raise their children is to permit them to be out on their
+own after midnight on occasion. See Nunez, 114 F.3d at 952. In other
+words, parents may legitimately conclude that the risk of granting
+children some independence is small compared to the benefits result-
+ing from the gradual development of maturity and judgment that is
+needed in preparation for a responsible adult life. This exercise of
+parental discretion is impossible under the ordinance.9
+
+Indeed, the ordinance was purposefully designed to displace paren-
+tal discretion with the will of the City Council. On the day the curfew
+was enacted, the Council's agenda said the following about the cur-
+few's purpose: "parental responsibility for the whereabouts of their
+children is the norm and where that does not exist, then the legal sanc-
+tion should enforce such responsibility. Further, well communicated
+curfew ordinances . . . impose a community-wide standard on parents
+who are unable or unwilling to set such limits." (Emphasis added).
+Rather than supporting the parental role, this curfew supersedes it. It
+reflects the "statist notion that governmental power should supersede
+parental authority in all cases because some parents" fail to exercise
+control over their children. See Parham, 442 U.S. at 603. This gov-
+ernmental paternalism is "repugnant to American tradition." Id. Con-
+sequently, because the curfew attempts to achieve its stated purpose
+of promoting the safety and well-being of minors by displacing paren-
+tal authority over the upbringing of children, the curfew does not
+serve a compelling governmental interest.
+_________________________________________________________________
+
+9 The curfew's sixth exception allows a minor to run an "errand" for his
+parent if he carries a signed document meeting nine statutory criteria. See
+City Code § 17-7(b)(6). This rigid exception, with its bureaucratic
+demand for detail, does not afford parents the discretion to allow their
+children to operate with any degree of independence. See supra note 1
+(listing nine requirements).
+
+                    42
+3.
+
+It follows that the ordinance's third stated purpose of fostering and
+strengthening parental responsibility also falls short. Ginsberg and
+Bellotti II recognize that laws "supportive of the parental role,"
+Bellotti II, 443 U.S. at 638 (emphasis added), may justify some limi-
+tation on the constitutional rights of minors. However, when laws dis-
+place the primacy of parental discretion by imposing community-wide
+norms, the traditional authority of parents over child rearing is no lon-
+ger available to support any limitation on the rights of minors. The
+curfew's attempt to foster and strengthen parental responsibility by
+displacing parental authority does not support a compelling state
+interest.
+
+For these reasons, I would hold that the Charlottesville curfew fails
+to satisfy strict scrutiny and thus violates the Equal Protection Clause.
+
+III.
+
+Even if I could conclude that Charlottesville's curfew passed strict
+scrutiny, I would hold that the ordinance as adopted is void for vague-
+ness under the Due Process Clause. More specifically, I would hold
+that the ordinance's First Amendment "exception" is impermissibly
+vague.
+
+A.
+
+The vagueness doctrine of the Due Process Clause"requires that a
+penal statute define the criminal offense with sufficient definiteness
+that ordinary people can understand what conduct is prohibited and
+in a manner that does not encourage arbitrary and discriminatory
+enforcement." Kolender v. Lawson, 461 U.S. 352, 357 (1983).
+Although due process requires that a statute satisfy both requirements,
+the second is of special importance: "`a legislature [must] establish
+minimal guidelines to govern law enforcement'" and prevent arbitrary
+enforcement. See id. at 357-58 (citation omitted). When statutory lan-
+guage lacks sufficient "definiteness or certainty of expression," id. at
+357, enforcement of the law is left to the purely subjective decisions
+of the police, prosecutors, and juries. See id. at 358; Village of Hoff-
+
+                     43
+man Estates v. Flipside, Hoffman Estates, Inc., 455 U.S. 489, 498
+(1982) (citing Grayned v. City of Rockford, 408 U.S. 104 (1972)). Our
+Constitution's guarantee of due process of law makes this unaccept-
+able. As the Supreme Court recognized a long time ago,
+
+          "It would certainly be dangerous if the legislature could set
+          a net large enough to catch all possible offenders, and leave
+          it to the courts to step inside and say who could be rightfully
+          detained, and who should be set at large. This would, to
+          some extent, substitute the judicial for the legislative depart-
+          ment of government."
+
+Kolender, 461 U.S. at 358 n.7 (quoting United States v. Reese, 92
+U.S. 214, 221 (1875)). In other words, "[w]ell-intentioned prosecutors
+and judicial safeguards do not neutralize the vice of a vague law."
+Baggett v. Bullitt, 377 U.S. 360, 373 (1964). The law itself must draw
+a sufficiently clear line between the legal and the illegal for both our
+police and our citizens.
+
+B.
+
+Vagueness challenges may be brought against a statute "on its
+face" without regard to specific conduct, "as applied" to the plaintiff's
+conduct, or on both grounds. Facial challenges strike at the heart of
+the statute, and, if successful, invalidate any and all application of the
+challenged provision until it is given a construction that sufficiently
+clarifies it. See Steffel v. Thompson, 415 U.S. 452, 474 (1974); cf.
+Boddie v. Connecticut, 401 U.S. 371, 379 (1971) (as applied). I there-
+fore agree with the majority that facial invalidity on vagueness
+grounds is strong medicine that is to be administered infrequently. See
+ante at 15. I disagree, however, with the majority's apparent belief
+that courts have discretion to avoid invalidating a facially unconstitu-
+tional statute. Cf. id. ("It is preferable for courts to demonstrate
+restraint by entertaining challenges to applications of a law as those
+challenges arise"). Courts rarely invalidate a law for facial vagueness.
+This is not because courts exercise discretionary restraint but because
+few facial challenges satisfy the high burden normally imposed. As
+a general rule, a law is vague on its face "only if [it] is impermissibly
+vague in all of its applications." See Hoffman Estates, 455 U.S. at 495
+& n.7.
+
+                     44
+What the majority ignores is the exception to this general rule:
+when "a law reaches `a substantial amount of constitutionally pro-
+tected conduct,'" facial vagueness challenges are"permit[ted]" and a
+plaintiff may attack the law "`as being vague as applied to conduct
+other than his own.'" See Kolender, 461 U.S. at 358 & n.8 (citations
+omitted) (First Amendment rights and freedom of movement affected
+by regulation of loitering and wandering); see also Hoffman Estates,
+455 U.S. at 494-95 (recognizing that general rule applies only to stat-
+utes that "implicate[ ] no constitutionally protected conduct" (empha-
+sis added)); Gooding v. Wilson, 405 U.S. 518, 521 (1972); Aptheker
+v. Secretary of State, 378 U.S. 500, 517 (1964) (facial challenge to
+law restricting international travel). This exception is "logically
+related and similar" to the doctrine of substantial overbreadth, see
+Kolender, 461 U.S. at 358 n.8, in that it is necessitated by the chilling
+effect that vague laws can have on the exercise of protected freedoms.
+As the Supreme Court has explained,
+
+          The objectionable quality of vagueness and overbreadth
+          does not depend upon absence of fair notice to a criminally
+          accused or upon unchanneled delegation of legislative pow-
+          ers, but upon the danger of tolerating, in the area of First
+          Amendment freedoms, the existence of a penal statute sus-
+          ceptible of sweeping and improper application. These free-
+          doms are delicate and vulnerable, as well as supremely
+          precious in our society. The threat of sanctions may deter
+          their exercise almost as potently as the actual application of
+          sanctions. Because First Amendment freedoms need breath-
+          ing space to survive, government may regulate in the area
+          only with narrow specificity.
+
+NAACP v. Button, 371 U.S. 415, 432-33 (1963) (citations and foot-
+note omitted); see also Keyishian v. Board of Regents, 385 U.S. 589,
+604, 609 (1967) ("The danger of [a] chilling effect upon the exercise
+of vital First Amendment rights must be guarded against by sensitive
+tools which clearly inform [individuals] what is being proscribed.");
+Kolender, 461 U.S. at 358 n.8 (citing Button and Keyishian to support
+exception to general rule). Especially, then, when chilling effects are
+a danger and a "substantial amount" of protected activity is impli-
+cated, facial challenges must be permitted. In other words, we do not
+
+                     45
+have to wait for case-by-case judicial review of particular applications
+of the law.
+
+Because the City's curfew regulates a substantial amount of pro-
+tected activity, I would hold that it is subject to a facial challenge. The
+Supreme Court's decision in Kolender all but mandates this conclu-
+sion. In Kolender the Court held that a California loitering statute was
+unconstitutionally vague on its face. The law made it a crime for per-
+sons who "loiter or wander on the streets" to fail to provide "credible
+and reliable" identification when a peace officer requests it under cir-
+cumstances that would justify a Terry stop. See 461 U.S. at 353, 357.
+See generally Terry v. Ohio, 392 U.S. 1 (1968), and later cases. The
+Court permitted a facial challenge because it found that the "law
+reache[d] a substantial amount of constitutionally protected conduct,"
+see Kolender, 461 U.S. at 358 n.8 (internal quotation marks omitted),
+notwithstanding the dissenting argument that the law was not "imper-
+missibly vague in all of its applications" and could not be facially
+attacked because it had an "unmistakable core that a reasonable per-
+son would know is forbidden," id. at 370, 371-72 (emphasis added).
+The concern that led the Court to allow the facial challenge was the
+law's "`potential for arbitrarily suppressing First Amendment liber-
+ties'" and the "constitutional right to freedom of movement." See id.
+at 358 (quoting Shuttlesworth v. Birmingham, 382 U.S. 87, 90
+(1965)). The same concerns underlie the curfew in this case. The
+main difference is Charlottesville's First Amendment"exception,"
+but, as I explain below, this exception is itself impermissibly vague
+and therefore cannot save the statute from a facial challenge. Indeed,
+the need in this case for facial review is even stronger than that in
+Kolender because the curfew ordinance applies to all law-abiding
+minors under the age of seventeen. The law in Kolender, by contrast,
+required credible and reliable identification only when peace officers
+had already made a justifiable Terry stop, that is, after they had tem-
+porarily detained a suspect because of "a reasonable and articulable
+suspicion that the person seized [wa]s engaged in criminal activity,"
+Reid v. Georgia, 448 U.S. 438, 440 (1980) (per curiam) (following
+Terry). Accordingly, Kolender makes clear that a facial challenge is
+appropriate in this case.
+
+The majority errs in asserting that because "core First Amendment
+activities" are protected by the ordinance, "marginal cases" may be
+
+                     46
+challenged as the statute is applied, see ante at 17. Even assuming that
+"core" activities are protected, this argument appears to parallel the
+dissenting view rejected by Kolender. The proper inquiry is not
+whether some core values are protected but whether the curfew
+"reaches `a substantial amount of constitutionally protected conduct,'"
+Kolender, 461 U.S. at 358 n.8 (quoting Hoffman, 455 U.S. at 494).
+The First Amendment protects a substantial amount of conduct in
+addition to "political protest and religious worship," ante at 17, and
+the vagueness doctrine must be applied to protect these rights.10
+Deferring review for as-applied challenges impermissibly risks chill-
+ing the exercise of a substantial amount of constitutionally protected
+activity. Cf. 11126 Baltimore Blvd., Inc. v. Prince George's County,
+58 F.3d 988, 993-94 (4th Cir. 1995) (en banc) (ruling that "courts
+must permit" facial challenge when there is significant risk of chilling
+First Amendment speech because chill "`can be effectively alleviated
+only through a facial challenge'" (quoting City of Lakewood v. Plain
+Dealer Publishing Co., 486 U.S. 750, 757 (1988))). I now turn to why
+Charlottesville's curfew is void for vagueness.
+
+C.
+
+"A law is considered [unconstitutionally] vague if `a person of nor-
+mal intelligence must guess at its meaning and differ as to its applica-
+tion.'" Elliott v. Administrator, Animal & Plant Health Inspection
+Serv., 990 F.2d 140, 145 (4th Cir. 1993) (quoting Connally v. General
+Constr., 269 U.S. 385, 391 (1926)); see also United States v. Lanier,
+117 S. Ct. 1219, 1225 (1997) (unanimous decision); Roberts v. United
+States Jaycees, 468 U.S. 609, 629 (1984). Although this standard
+applies generally to vagueness challenges, "[t]he degree of vagueness
+that the Constitution tolerates . . . depends in part on the nature of the
+enactment," Hoffman Estates, 455 U.S. at 498. When a statute
+involves the "economic regulation" of business, it is "subject to a less
+_________________________________________________________________
+10 The majority's citations to Hoffman Estates do not support the con-
+clusion that federal courts may wait for as-applied challenges in "mar-
+ginal cases," see ante at 17. Hoffman Estates clearly limits its analysis to
+those cases in which "no constitutionally protected conduct" is impli-
+cated by the challenged law. See 455 U.S. at 494-95, 497; Kolender, 461
+U.S. at 458 n.8. A wait-and-see approach is justified only when there is
+no risk of chilling a substantial amount of protected activity.
+
+                    47
+strict vagueness test." Id. at 498. Similarly, if a law includes a scienter
+requirement, this too will relax the degree of clarity required because
+scienter can "mitigate a law's vagueness." See id. at 499. On the other
+hand, "the standard of certainty is higher" for statutes that impose
+criminal, as opposed to civil, sanctions. See Kolender, 461 U.S. at 358
+n.8; Hoffman Estates, supra at 498-99. The last and "most important
+factor affecting the [degree of] clarity that the Constitution demands
+of a law is whether it threatens to inhibit the exercise of constitution-
+ally protected rights." Id. at 499. If it does, "a more stringent vague-
+ness test should apply" so that protected activity will not be chilled.
+See id.; see also Smith v. Goguen, 415 U.S. 566, 573 (1974) ("Where
+a statute's literal scope, unaided by a narrowing state court interpreta-
+tion, is capable of reaching expression sheltered by the First Amend-
+ment, the [vagueness] doctrine demands a greater degree of
+specificity than in other contexts."); Grayned, 408 U.S. at 109
+("[W]here a vague statute `abut[s] upon sensitive areas of basic First
+Amendment freedoms,' it `operates to inhibit the exercise of [those]
+freedoms.'" (second and third alterations in original)); Button, 371
+U.S. at 432 (standard is "strict in the area of free expression"). These
+factors all point to the conclusion that the Charlottesville curfew must
+be evaluated for vagueness under a strict standard. Under that stan-
+dard, I would hold that the ordinance's First Amendment exception
+violates the Due Process Clause.11
+_________________________________________________________________
+
+11 Federal courts do not look simply to the statutory language to deter-
+mine if the law is vague. If a federal statute is involved, a federal court
+may construe the disputed provision to remove its vagueness. See United
+States v. 12 200-ft. Reels of Super 8mm. Film, 413 U.S. 123, 130 n.7
+(1973); cf. CISPES v. FBI, 770 F.2d 468, 473-75 (5th Cir. 1985) (con-
+struing federal statute to avoid overbreadth). Likewise, when a state pro-
+vision is challenged as vague on its face, a federal court must "`consider
+any limiting construction that a state court or enforcement agency has
+proffered.'" See Ward v. Rock Against Racism , 491 U.S. 781, 795-96
+(1989) (quoting Hoffman Estates, 455 U.S. at 494 n. 5). If no narrowing
+interpretation is provided by the state, however, a federal court is "with-
+out power to remedy the [statute's] defects by giving [it] constitutionally
+precise content." See Hynes v. Mayor of Oradell, 425 U.S. 610, 622
+(1976); see also Smith v. Goguen, 415 U.S. 566, 575 (1974).
+
+                    48
+D.
+
+The last of the curfew's eight statutory exceptions allows a minor
+to remain in public during curfew hours when "the minor is exercising
+First Amendment rights protected by the United States Constitution,
+such as the free exercise of religion, freedom of speech and the right
+of assembly." City Code § 17-7(b)(8). Because this exception oper-
+ates in an area of protected conduct, it must satisfy a strict vagueness
+standard so as not to chill the exercise of constitutional rights. Under
+this standard, the curfew's First Amendment "exception" makes the
+ordinance impermissibly vague. By defining the exception in vague
+and ambiguous terms, the ordinance impermissibly forces persons of
+normal intelligence to guess as to what conduct is illegal and fails to
+provide minimal guidelines for law enforcement.
+
+The vagueness of the First Amendment exception is intuitively
+plain. Indeed, its language is anything but clear. What are "First
+Amendment rights"? What is considered to be "speech"? Does it
+include written communication? What of expressive conduct that does
+not involve oral or written communication? What types of speech are
+"protected" by "freedom of speech"? Is commercial speech protected?
+If so, to what extent? What is the "free exercise" of religion? And
+what of the "right of assembly"? Do two friends have the "right" to
+"assemble" or meet at a coffeehouse? This says nothing of the general
+First Amendment rights (e.g., association, press, petition) that the
+City's exception leaves unmentioned. The questions above are diffi-
+cult enough for courts, Congress, and constitutional scholars, let alone
+for someone with no legal training. And when answers are given, they
+are often imprecise and turn on the specifics of a case and a balancing
+of many factors. Furthermore, First Amendment jurisprudence is a
+vast and complicated body of law that grows with each passing day.
+As a result, criminal conduct cannot be defined by simply referring
+to the title (First Amendment) or subtitle (speech or assembly) of a
+particular right.
+
+Although the Supreme Court has not addressed the First Amend-
+ment issue before us, its decisions involving statutes that define crimi-
+nal conduct by referring to the principles of constitutional "due
+process" and "equal protection" are instructive. Like the First Amend-
+ment principles of "freedom of speech" and the"free exercise of reli-
+
+                     49
+gion," due process and equal protection are complicated and nuanced
+constitutional concepts that are not susceptible to general definition.
+The existence of these rights likewise depends on the specifics of a
+case and a balancing of the interests involved. As I will show, the
+Supreme Court's opinions in Screws v. United States, 325 U.S. 91
+(1945) (plurality opinion), United States v. Guest, 383 U.S. 745, 753-
+55 (1966), and later cases demonstrate that constitutional "due pro-
+cess" and "equal protection" are inherently too vague to be used to
+define criminal conduct without a carefully defined scienter require-
+ment. This applies with at least as much, if not more, force to Char-
+lottesville's mention of the First Amendment to define criminal
+conduct by way of exception.
+
+In Screws the Court upheld a statute under which several law
+enforcement officers had been convicted of illegally depriving a pris-
+oner of his life without "due process" of law. See 325 U.S. at 93, 100.
+The defendants were prosecuted under 18 U.S.C. § 20,12 which made
+it illegal to "`willfully'" deprive another"`of any rights, privileges, or
+immunities secured or protected by the Constitution and laws of the
+United States'" under the color of state law. See id. They argued to
+the Court that this provision was impermissibly vague as applied to
+their convictions for depriving the deceased of"due process" because
+the law provided "no ascertainable standard of guilt." See id. at 94-95.
+Justice Douglas, writing for a four-justice plurality, said that
+
+         the decisions of the courts are, to be sure, a source of refer-
+         ence for ascertaining the specific content of the concept of
+         due process. But even so the Act would incorporate by ref-
+         erence a large body of changing and uncertain law. That law
+         is not always reducible to specific rules, is expressible only
+         in general terms, and turns many times on the facts of a par-
+         ticular case. Accordingly, it is argued that such a body of
+         legal principles lacks the basic specificity necessary for
+         criminal statutes under our system of government. Congress
+         did not define what it desired to punish but referred the citi-
+         zen to a comprehensive law library in order to ascertain
+         what acts were prohibited. To enforce such a statute would
+_________________________________________________________________
+12 18 U.S.C. § 20 was the predecessor to 18 U.S.C. § 242, discussed
+infra.
+
+                     50
+          be like sanctioning the practice of Caligula who"published
+          the law, but it was written in a very small hand, and posted
+          up in a corner, so that no one could make a copy of it."
+
+Id. at 96 (quoting Suetonius, Lives of the Twelve Caesars 278).
+Indeed, seven justices indicated that § 20's use of "due process" to
+define criminal conduct would have been unconstitutionally vague
+without something else to mitigate its ambiguous incorporation of
+constitutional principles. See id. at 105 (§ 20 must be construed with
+narrow scienter requirement to "avoid grave constitutional ques-
+tions"); id. at 149-50 (Roberts, J., dissenting) ("[a]ll but two" justices
+agreed on this issue). However, the plurality concluded that the statute
+could be saved by construing "willfully" to require a specific intent
+to purposefully deprive another of a specific federal right made defi-
+nite by the express terms of the Constitution and laws of the United
+States or by the decisions interpreting them. See id. at 100-05. Thus,
+Screws "recognized that the expansive language of due process that
+provides a basis for judicial review is, when incorporated by reference
+into § 242, generally ill-suited to the far different task of giving fair
+warning about the scope of criminal liability," Lanier, 117 S. Ct. at
+1225 (unanimous decision), but that the use of a strict scienter
+requirement could sufficiently mitigate this ambiguity.
+
+The Court in Guest relied on Screws to reject a similar vagueness
+challenge to a prosecution for conspiracy to deprive black citizens of
+rights protected by the Equal Protection Clause. The Court again
+emphasized that the specific intent requirement of 18 U.S.C. § 241,
+like that of § 242, removed the problem of the statute's vagueness.
+See Guest, 383 U.S. at 753-54; id. at 785 (Brennan, J., concurring in
+part) (incorporation of constitutional provisions"brings § 241 close to
+the danger line of being void for vagueness" but"stringent scienter
+requirement saves [it] from condemnation"); see also United States v.
+Kozminski, 487 U.S. 931, 941 (1988) (tension between requirement
+of "definite standard of guilt" and "incorporat[ion] by reference a
+large body of potentially evolving federal law" is resolved with strict
+scienter requirement).
+
+Recently, a unanimous Supreme Court in Lanier reiterated the prin-
+ciples established in Screws and Guest . The Court again recognized
+that "in lieu of describing the specific conduct it forbids, [the] general
+
+                     51
+terms [of §§ 241 and 242] incorporate constitutional law by reference.
+. . . The result is that neither the statutes nor a good many of their con-
+stitutional referents delineate the range of forbidden conduct with par-
+ticularity." Id. at 1224. Consequently, this "affront to the [due
+process] requirement" of fair notice is made permissible only when
+"willful violators" deprive (or conspire to deprive) others of rights
+that "have been `made specific' by the text or settled interpretations."
+See id. at 1225 (quoting Screws, 325 U.S. at 105). "[W]illful violators
+`certainly are in no position to say that they had no adequate advance
+notice'" of the definition of the crime. Id. (quoting Screws, 325 U.S.
+at 105).
+
+Like the statutes in Screws, Guest, and Lanier, the Charlottesville
+curfew's First Amendment exception incorporates a large and grow-
+ing body of law that is not reducible to specific rules and that turn on
+a balancing of numerous factors. Unlike the federal statutes, however,
+the City's curfew ordinance has no scienter requirement that could
+mitigate the inherent vagueness of First Amendment jurisprudence.
+Most important, though, the curfew regulates in areas involving con-
+stitutionally protected activity, while §§ 241 and 242 do not. In fact,
+those sections are designed to punish those who willfully deprive and
+conspire to deprive others of constitutional rights, as, for example, in
+United States v. Lanier, where the defendant, a state judge, sexually
+assaulted (in his office) several employees and others who had busi-
+ness before him. Lanier, 117 S. Ct. at 1222-23. Such conduct lies far
+outside of the realm of constitutionally protected action, and therefore
+§§ 241 and 242 do not have to meet the strict vagueness standard that
+applies when protected activity is involved. The curfew, however,
+does. Consequently, the ordinance must survive scrutiny under a
+vagueness standard much more strict than that applied in Screws and
+Guest. Under that standard and in light of the absence of a scienter
+element capable of saving the ordinance, I would hold that the First
+Amendment exception and the ordinance are void for vagueness.13
+_________________________________________________________________
+13 The majority misses the mark when it says that a scienter require-
+ment would necessarily expand, and not narrow, the breadth of Char-
+lottesville's curfew because subsection (b)(8) "provides an exception
+from liability" and does not affirmatively define criminal conduct. See
+ante at 16 n.*. The curfew ordinance uses section (b) and its eight excep-
+tions to define what conduct is illegal. See City Code § 17-7(b). With
+
+                     52
+The testimony of Charlottesville's Chief of Police proves the stat-
+ute's ambiguity. When asked whether two fifteen-year-olds violate
+the ordinance by discussing politics in a coffee shop during the cur-
+few, the Chief said, "You're indoors, it's a public location, I . . . think
+technically under the ordinance it may be a violation. I doubt whether
+we would deal with it." Similarly, when asked if a fifteen-year-old
+who plays in a band in a local restaurant after curfew hours violates
+the curfew when he is not paid for the performance, the Chief
+answered, "I think that technically [the minor] is possibl[y] in viola-
+tion of the ordinance." However, "the officer would obviously have
+to make a decision about whether they're in violation or not. And I
+believe there's some discretion allowed." It is this discretion com-
+bined with the failure to define with specificity what conduct is illegal
+that makes the statute unconstitutional. The danger of chilling the
+exercise of constitutionally protected activity arises because of the
+uncertainty associated with the First Amendment exception.14
+
+The majority errs in supporting its reasoning with the fact that city
+councils appear to be placed "between a rock and a hard place," ante
+at 16. While it is true that curfews without exceptions will almost
+always impermissibly infringe upon substantive constitutional rights
+and that curfews with exceptions may be subject to vagueness chal-
+lenges, invalidation of this ordinance is still mandated by our Consti-
+tution. "Our Constitution is designed to maximize individual
+_________________________________________________________________
+
+respect to subsection (b)(8) in particular, the ordinance makes it a crime
+for minors to remain in public when not exercising First Amendment
+rights. See id. § 17-7(b), (b)(8). Subsection (b)(8) thus plainly incorpo-
+rates the First Amendment to define the scope of criminal conduct. Even
+when a law is drafted to include exceptions in defining the crime, a
+scienter element that is applied to the criminal provision as a whole (and
+not just its exceptions) can reduce the objectionable vagueness of the
+law.
+14 It is of no constitutional consequence that the Chief testified that "if
+there's a question [as to whether the First Amendment exception
+applied,] we would go down on the side that it was a valid Constitutional
+kind of activity" and "would consult with the Commonwealth Attorney
+or the city attorney's office to see whether it was or not." "Well-
+intentioned prosecutors and judicial safeguards do not neutralize the vice
+of a vague law." Baggett, 377 U.S. at 373.
+
+                     53
+freedoms within a framework of ordered liberty. Statutory limitations
+on those freedoms are examined for substantive authority and content
+as well as for definiteness or certainty of expression." Kolender, 461
+U.S. at 357 (emphasis added); see also Nunez v. City of San Diego,
+114 F.3d 935, 943-44 (9th Cir. 1997) (recognizing that interpreting
+curfew to avoid vagueness problems under Due Process Clause "may
+make it more difficult for the statute to pass constitutional muster on
+substantive grounds"). "[L]egislative bodies in draftsmanship obvi-
+ously have the same difficulty as do the judicial in interpretation.
+Nevertheless despite the difficulties, courts must do their best to
+determine whether or not the vagueness is of such a character `that
+men of common intelligence must necessarily guess at its meaning.'"
+Winters v. New York, 333 U.S. 507, 518 (1948); see also Kingsley
+Int'l Pictures Corp. v. Regents of the Univ., 360 U.S. 684, 694 (1959)
+(Frankfurter, J., concurring). Although we may "appreciate the diffi-
+culties of drafting precise laws," we must require that all statutes meet
+constitutional standards for clarity. See City of Houston v. Hill, 482
+U.S. 451, 465 (1987). If we did otherwise, we would forgo our duty
+to enforce the mandates of the Due Process Clause. 15
+
+Taken to its logical conclusion, the majority's reasoning would
+immunize all statutes regulating conduct involving the exercise of
+First Amendment rights whenever they contain a First Amendment
+"exception." Because such provisions would not be impermissibly
+_________________________________________________________________
+15 I also disagree with the majority's claim that the First Amendment
+exception "fortifies, rather than weakens, First Amendment values." See
+ante at 16. Because First Amendment rights can never be diminished by
+a city ordinance, see U.S. Const. art. VI, cl. 2, the City's exception does
+nothing but restate a well-settled constitutional restriction on its substan-
+tive regulatory authority. Indeed, the majority's citation to CISPES v.
+FBI, 770 F.2d 468 (5th Cir. 1985), contradicts its position. Cf. ante at 16.
+CISPES recognized that "such a provision cannot substantively operate
+to save an otherwise invalid statute." See 770 F.2d at 474. A statement
+similar to the First Amendment exception in this case, however, was
+used by the Fifth Circuit to determine Congressional intent and guide its
+construction of the provision to avoid substantial overbreadth. See id.
+Here, though, we are faced with a local, not a federal, statute, and there-
+fore we are without the authority to provide a limiting construction that
+might save the ordinance. See Hynes, 425 U.S. at 622. The First Amend-
+ment exception thus does little to advance First Amendment values.
+
+                     54
+vague under the majority's analysis, the statutes would be immune
+from both substantive and vagueness challenges. Substantively the
+statute cannot, according to its own terms, violate the constitution. In
+fact, it incorporates the Constitution's protections. The upshot is that
+facial attacks could never be brought and that statutes containing
+these exceptions could be challenged only as they are applied. This
+squarely conflicts with the Supreme Court's long-standing concern
+with the potential chill of constitutionally protected activity created
+by the mere existence of vague criminal statutes and the potential for
+their arbitrary enforcement.
+
+For these reasons, I would hold that the curfew's First Amendment
+"exception" renders the ordinance impermissibly vague on its face.
+Until the ordinance is amended by the City Council or given a con-
+struction by state courts that sufficiently reduces its unconstitutional
+vagueness, its enforcement conflicts with the constitutional guarantee
+of due process of law.
+
+IV.
+
+In sum, I would hold that equal protection challenges by minors to
+laws that regulate in the area of fundamental rights must be subject
+to strict scrutiny. In my opinion the Charlottesville ordinance fails this
+standard. Even if the ordinance survived the equal protection chal-
+lenge, however, it would be unconstitutional in its present form. The
+curfew's First Amendment exception is impermissibly vague in viola-
+tion of the Due Process Clause. For these reasons, I respectfully dis-
+sent.
+
+                     55
+

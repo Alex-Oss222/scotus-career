@@ -1,0 +1,1654 @@
+_ i bataiade 
+
+
+ae ( 
+D. 
+wud IY 
+office OF THE = | IN THE 
+= Mr eOyRT, U.>- 
+ez. ———~"SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1997 
+
+
+LOUIS JONES, JR. 
+Petitioner, 
+
+
+VERSUS 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+TO THE UNITED STATES COURT OF APPEALS FOR THE FIF" 
+(Capital Case) 
+| SUPREME CouRT. m 
+IRA R. KIRKENDOLL TIMOTHY W. FLOYD 
+Federal Public Defender Texas Tech University School of Law 
+Northern District of Texas 18th & Hartford 
+Lubbock, TX 79409 
+
+BY: TIMOTHY CROOKS (806) 742-3982 
+
+Asst. Federal Public Defender TX State Bar No. 07188405 
+
+600 Texas St., Suite 100 
+
+Fort Worth, TX 76102-4612 
+
+(817) 978-2753 
+
+
+LA State Bar No. 17541 
+
+
+ATTORNEYS FOR PETITIONER LOUIS JONES, JR. 
+
+
+D 
+
+
+Il. 
+
+
+CAPITAL CASE 
+QUESTIONS PRESENTED 
+
+
+Was Petitioner’s death sentence imposed in violation of due process and the Eighth 
+Amendment to the Constitution, where the District Court refused to instruct the jury 
+that the result of nonunanimity in the sentencing phase would be the imposition of a 
+
+
+sentence of life without release or parole? 
+
+
+SUBSIDIARY QUESTIONS: 
+
+Did the Fifth Circuit err when it held that a deadlocked sentencing jury would result 
+in a new sentencing hearing, contrary to the plain wording of 18 U.S.C. § 3594 and the 
+holding of the United States District Court for the District of Colorado in United States 
+
+
+y. Nichols, 1998 WL 2518 (D.Colo., Jan. 7, 1998)? 
+
+
+Is an instruction on the effect of nonunanimity in capital sentencing proceedings 
+required by due process and the Eighth Amendment? 
+
+Is reversal of Petitioner’s death sentence required because a reasonable jury could have 
+erroneously interpreted the jury instructions and verdict forms in this case as stating 
+that failure of the jury unanimously to recommend death or life without release would 
+result in a “lesser sentence” for Petitioner (when, in fact, no lesser sentence was actually 
+
+
+available)? 
+
+
+SUBSIDIARY QUESTION: Does the erroneous injection of a nonexistent less-than-life 
+sentencing alternative into the sentencing jury’s deliberations violate due process under 
+this Court’s decision in Hicks vy, Oklahoma, 447 U.S. 343 (1980), and the Eighth 
+
+
+Amendment requirement of reliability in capital sentencings? 
+
+
+Is reversal of Petitioner’s death sentence required where the jury relied upon 
+unconstitutionally vague, overbroad, and duplicative aggravating factors, and the 
+Court of Appeals summarily asserted that these constitutional errors were harmless 
+
+
+without explaining how it reached that conclusion? 
+
+
+Does the Fifth Circuit’s opinion in this case comply with the requirements of 18 U.S.C. 
+
+
+§ 3595? . 
+
+
+SUBSIDIARY QUESTION: Under § 3595, must each issue raised by a death-sentenced 
+individual be individually and specifically addressed in the written opinion of the Court 
+
+
+of Appeals? 
+
+
+TABLE OF CONTENTS 
+QUESTIONS PRESENTED ...ccccccvccsccccccscccccvecsccccceccsvesseceveseeces i 
+TABLE GP COTTE occ ccc vecsccccccccvcanecensecovccscidsscedesonseceuesss ill 
+IEE, FO APPA cc cecscvcccccccncdaceseaeivesrectorernntveenttesresns iv 
+TABLE OF AUTHORED ES occ sc ccccvcsccesccccccesrecescescessccnessscceccess v 
+GOS BE «oo vv cvccn rec secivecnctectircecesivesiccdccupesvecesesesenss 2 
+PHM ve vc cccccveusvaccccccccssccecuseséoccess seeds sposcerenagnanent 2 
+CONSTITUTIONAL AND STATUTORY PROVISIONS INVOLVED ............-.045 2 
+STATEMENT OF THE CASE 2... nccccccccccccvvccvcccccvccsscvevcessscsevessess 3 
+REASONS FOR GRANTING WRIT ..........ccccccccccccceccecescescescseeseees 10 
+os cht 9 PPPPPrrPrrrrTTTerrerrrrrerrsirrrrrr Tritt? rte tt et 40 
+iii 
+
+
+INDEX TO APPENDICES 
+
+
+Opinion of the United States Court of Appeals for the Fifth Circuit, United States v. 
+Louis Jones, Jr, 132 F.3d 232 (Sth Cir. 1998) 
+
+
+Order denying rehearing, United States v. Louis Jones, Jr., No. 96-101 13 c/w No. 96- 
+10448 (Sth Cir. Mar. 4, 1998) 
+
+
+18 U.S.C. §§ 3591-3598 (Federal Death Penalty Act) 
+U.S. CONST. amend. V 
+
+U.S. CONST. amend. VIII 
+
+Sentencing jury instructions 
+
+Sentencing verdict forms 
+
+Affidavit of Daniel Salazar 
+
+Affidavit of Cassandra Hastings 
+
+
+PAGE 
+CASES 
+Andres v. United States, 333 U.S. 740 (1948) 0... ccc cece ccc cccecucee 19, 23 
+Te a ee 28 
+a en , SIE os ddn ds da neweenendccucsenacdccsiieciewien 18 
+ieee SR Fm pay ele at aePe 16, 23 
+a, Oa gE ee 
+ee Ba, GIB SII a ba onic oda o vcccccceccvicsctccccasncvccess 24 
+California v. Ramos, 463 U.S. 992 (1983)... 0... ccc ccc ccc cece cccccucucucuces 24 
+Clemons v, Mississippi, 494 U.S. 738 (1990) 0... cece cee eee 26, 29-32, 35 
+Coulter v, State, 438 So.2d 336 (Ala. Crim. App. 1982)... 20.0.0. 0c cc ccc cece ce ccucee 16 
+EE Ss Tea eB ale eyes tale fe os 28 
+Evans v. Thompson, 881 F.2d 117 (4th Cir. 1989), cert, denied, 497 U.S. 1010 (1990) ...... 16 
+Gallego v, McDaniel, 124 F.3d 1065 (9th Cir. 1997) 2.0. e cence cece 24 
+ee ND ua, Cock cc éciunebanvadcndkeduecbacondedl 38 
+Hamilton v, Vasquez, 17 F.3d 1149 (9th Cir. 1996) 2200. e cece ce ceuees 24 
+a GE Wi SO in iiecn iidccccnceccdcckecussceccceut’s 16-18, 25 
+I Eo vidi cc, nan cdbskdcsaddedekspouecedwacaueueia 21 
+Maynard v, Cartwright, 486 U.S. 356 (1988)... 0.0... ccc cc cece ccc cucucucucuees 28 
+Re Sh, GIF, BI IODD ons c vcceccccccsveciccccsccccccocches 19, 21, 23 
+O'Dell v. Netherland, =-_—«wuU.S._, 117 S.Ct. 1969 (1997) 2. ccc cece ee 23 
+nos a cae en suum ne east iineubekanin 38 
+eeeias Drie, SUD P80 TEP Gain, BOG osc icc cccccccccccccccddecccdecccsccens 15 
+
+
+at ete ae — 
+
+
+ei Ge I EID osc ne sécncanvtscvecccesocddedsbutesmn 15 
+Richmond y, Lewis, 506 U.S. 40 (1992) ........ 2... ccccccecceeceecsueceee 26-28, 30, 35 
+DE FEI 0h kin dncccvodccnactdsadvnnbasvanscdeneron 24 
+Simmons vy. South Carolina, 512 U.S. 154 (1994) 2.00 e ne cceee 16, 23 
+I ST Ga once cncdcnnesddpscnccabvrcaéinaes 26, 27, 30, 35 
+Stash Dee, COB TD, EEA SOR ADAG IONE ooo cdc secenscaviscdessccacnicsactecd 15 
+State v. Howell, 868 S.W.2d 238 (Tenn. 1993), cert. denied, 510 U.S. 1215 (1994) ...... 30, 32 
+State v. Ramseur, 106 N.J. 123, $24 A.2d 188 (1987) 2... 2... cee cece eee cece ececues 15 
+State v, Williams, 392 $0.24 G19 (La. 1900) ....... cc ccccccccecccccssccccccecces 14, 15 
+ee I, SINT PD hod cncduckendtesccetuncchbbedusscoul 28, 29, 35 
+United States v. Flores, 63 F.3d 1342 (Sth Cir. 1995), cert. denied, . U.S._, 117 S.Ct. 87 (1996) 
+United States v. Frank, _ F.Supp. __, 1998 U.S. Dist. LEXIS 6369 (S.D.N.Y. May 6, — 
+United States v. Jones, 132 F.3d 232 (Sth Cir. 1998) .............. 2, 4, 12-14, 18, 26, 31, 37 
+United States v. Nichols, 1998 WL 2518 (D.Colo., Jan. 7, 1998) ..... 2... 6. cece cece eeees 10 
+a A ee TN i vio wis sich ondivinecwidseuntececanni 15 
+STATUTES 
+
+UD wave cc cndcpiacndddnapounbetabidedtnddessteeceabiaokantidl 3 
+EE 6cerd 6 udvccadedocindaivonnscctanhelsddldaleccssibeiids muancdtl 3 
+SIE sab ib nkseccncbanshccnddcavaendednpndenaes ETA ORNS. 12 
+I  cskcn.peqcsvdensadbaccnsesrabeineighvedsdustuapoonebaasaeil 12 
+NE ids Fnphncdescodeuctéguncierdasntsbsataundandeniccioabebas 10-12 
+a ID cos nc anccnticccovedcenbcicesecudacicedséaadesesdecntioad 3 
+
+
+no ARTERY AIRE CS SEP a ee CRT Beat Om TH Peake yess Oa 2 
+
+
+I No TS udcvchinsedbaakéechakits saa see eae alas , 
+NE ni. cs cd seisicalbidinecbuasss toa 12, 27, 29 
+ie BO... cwadusddadvauedabndcssulelesnmisdeabiatinuseel 13 
+i PS ss cade Ren se cous aeareeedites 2, 5,37 
+| sjuecab anit Svelddeonl hipeetaweleasn eel 5 
+NE no cccuciave ae ee 13, 18 
+I i: i 5s an cose cdaiden baea nan eiack aeeei oe 35 
+ie es ing athunkpticdudpebaislagtsddniiddaupaal 36, 38 
+ne a ae a cakahtaied ina aacenie 36, 38 
+EET DA SAECO NERD ORR EEN apoE ETS 12, 13 
+a is oe a sn aa eae 10-13, 25 
+IBUS.C. $3595 00. eeeeceeeceeceeeeeeeeseeeeeeseesesseeeeenneeeeereeees 36-39 
+| ERA OE ORE BO br ARON HAM EERE siete fea RETR e/a) 2 
+I I oS sd ccacigubsccdhetéonesabochissdienunstumanes 37, 39 
+i AE | ci. ipensencesddcdadkoekibedsiesauumeceunaaed 37, 39 
+1. 15), cadbbuiesdgnkudbdnanedintekseiehenee’ 1 
+ENE <2) |.  gcsacdgcecedoan dekh bed nanibnnteumeuveienibadeenlactd 2 
+EN: |... cchaccncducsvabetecedésecbadecnesteawaneeuneaseeuss 2 
+EE . ...« sclicetinde chungpbaddcaweibugansheabnuebansesuabased 2 
+8 OE ie i BO, a, . . eccandbescouvsndivoasesestesceesent 11 
+i 0 Oi ee ee... cunacuscncsibetacanesecetachinstwes 1 
+vii 
+
+
+Waal ee es 
+
+
+RULES 
+
+I a a el ntl ae ee a 18 
+CONSTITUTIONAL PROVISIONS 
+
+NN EIS Se ERS ES IE ROPES eT GAN SLY Sires 2, 25 
+a Te i ee ek eas eS 2, 25 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1997 
+
+
+LOUIS JONES, JR. 
+
+
+Petitioner, 
+VERSUS 
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT 
+
+
+(Capita) Case) 
+
+
+Petitioner respectfully prays that a writ of certiorari issue to review the judgment and opinion 
+
+
+of the Court of Appeals filed January 5, 1998, as to which rehearing was denied on March 4, 1998. 
+
+
+OPINIONS BELOW 
+The opinion of the Court of Appeals, United States v, Louis Jones, Jr., is published at 132 
+F.3d 232. A copy of the West slip opinion is attached as Appendix A. A copy of the unpublished 
+
+
+order of the Fifth Circuit denying rehearing is attached as Appendix B. 
+
+
+JURISDICTION 
+The judgment and opinion of the Court of Appeals were filed on January 5, 1998. The Court 
+of Appeals denied rehearing on March 4, 1998. This Court's jurisdiction is invoked under 28 U.S.C. 
+§ 1254(1). The District Court had jurisdiction pursuant to 18 U.S.C. § 3291. The Court of Appeals 
+
+
+had jurisdiction pursuant to 28 U.S.C. § 1291, 18 U.S.C. § 3595(a), and 18 U.S.C. § 3742. 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS INVOLVED 
+The sentence of death in this case was imposed pursuant to the Federal Death Penalty Act 
+of 1994, which is codified at 18 U.S.C. §§ 3591-3598 (Appendix C). The due process guarantee at 
+issue in the first two questions presented is contained in the Fifth Amendment to the United States 
+Constitution, which is set forth in Appendix D. The first three questions presented also implicate 
+the Eighth Amendment to the United States Constitution, which is set forth in Appendix E. 
+
+
+A. Proceedings Below 
+
+On March 7, 1995, Petitioner Louis Jones, Jr., was indicted in a two-count indictment 
+charging 1) kidnapping within the special maritime and territorial jurisdiction of the United States, 
+resulting in the death of Tracie Joy McBride, in violation of Title 18, United States Code, Sections 
+7(3) and 1201(a)(2) (Count 1), and 2) assault of Michael Alan Peacock within the maritime and 
+territorial jurisdiction of the United States, resulting in serious bodily injury, in violation of Title 18, 
+United States Code, Sections 7(3) and 113(f) (Count 2). 
+
+On September 13, 1995, the government gave notice of its intention to seek the death penalty 
+in the event Petitioner was convicted of the offense charged in Count 1. 
+
+On October 16 through October 23, 1995, Petitioner was tried by jury before the United 
+States District Court for the Northern District of Texas, Lubbock Division. On October 23, 1995, 
+the jury returned a verdict of guilty against Petitioner on both counts. 7 
+
+On October 24 through November 3, 1995, a separate sentencing hearing was held before the 
+same jury that decided guilt/innocence. On November 3, 1995, the jury returned a verdict of death 
+on Count 1, and the District Court entered judgment on that verdict. After a timely motion for new 
+trial was denied, Petitioner filed a timely Notice of Appeal as to the judgment on Count 1. 
+
+Meanwhile, the noncapital offense charged in Count 2 proceeded through the usual steps of 
+preparation of a presentence report and objections. On April 12, 1996, the District Court sentenced 
+Petitioner to 57 months imprisonment on Count 2, to run concurrently with-any period of 
+
+
+confinement Petitioner served while awaiting imposition of the death penalty imposed on Count 1. 
+
+
+The District Court also sentenced Petitioner to two years supervised release. Petitioner filed a timely 
+Notice of Appeal as to the judgment entered on Count 2. 
+
+Both appeals were consolidated and heard before the United States Court of Appeals for the 
+Fifth Circuit. That court affirmed Petitioner’s convictions and his sentence of death. See United 
+States v, Jones, 132 F.3d 232, 253 (Sth Cir. 1998) (Appendix A). The Court of Appeals also denied 
+
+
+Petitioner’s timely petition for rehearing. See Appendix B. 
+
+
+B. Statement of Relevant Facts 
+
+On February 18, 1995, Tracie Joy McBride, a 19 year old white female private stationed at 
+Goodfellow Air Force Base, was kidnapped from a laundry room on base by a black male.' Her 
+kidnapping remained unsolved for two weeks until Petitioner became a suspect in the case on March 
+1, 1995. After being taken into custody on an unrelated charge, Petitioner gave a statement in which 
+he admitted abducting Tracie McBride and taking her to his residence in San Angelo. Petitioner 
+admitted that in the early morning hours of February 19, 1995, he drove McBride to a remote 
+location, where he struck her over the head several times with a tire iron, killing her. He then left 
+her body under a bridge. 
+
+After he had made his statement, Petitioner led law enforcement authorities to the location 
+of McBride’s body. An autopsy concluded that the cause of McBride’s death was blunt force trauma 
+to the head. The autopsy also found vaginal bruises consistent with a sexual assault. 
+
+Petitioner’s case was the first in the country in which the United States sought to seek the 
+
+
+federal death penalty under the then-newly enacted Federal Death Penalty Act of 1994 (“FDPA”), 
+
+
+* While in the process of abducting McBride, this black male also assaulted one Private 
+Michael Peacock, who was attempting to foil the abduction. This assault became the basis of Count 
+2 against Petitioner. 
+
+
+codified at 18 U.S.C. §§ 3591-3598 (Appendix C). The United States gave notice of its intent to 
+seek the death penalty, and specified four statuic:y »¢gravating factors’ and three nonstatutory 
+aggravating factors’ which it would attempt to prove in order to qua!:fy Petitioner for the death 
+penalty. 
+
+After Petitioner was found guilty of the kidnapping, the case proceeded into the separate 
+sentencing hearing called for by the FDPA. After the government presented its case on aggravation, 
+
+
+the defense proceeded to put on an extensive case in mitigation. The defense showed that Petitioner 
+
+
+2 These factors -- taken from the list of statutory aggravating factors found in 18 U.S.C. § 
+3592(c) -- were as follows: 
+
+
+2(A). The defendant LOUIS JONES caused the death of Tracie Joy McBride, or 
+injury resulting in the death of Tracie Joy McBride, which occurred during the commission 
+of the offense of Kidnapping. 
+
+
+2(B). The defendant, in the commission of the offense, knowingly created a grave 
+risk of death to one or more persons in addition to the victim of the offense, Tracie Joy 
+McBride. 
+
+
+2(C). The defendant LOUIS JONES committed the offense in an especially heinous, 
+cruel, and depraved manner in that it involved torture or serious physical abuse to Tracie Joy 
+McBride. 
+
+
+2(D). The defendant LOUIS JONES committed the killing of Tracie Joy McBride 
+after substantial planning and premeditation to cause the death of Tracie Joy McBride. 
+
+
+> These factors -- drafted by the prosecutor pursuant to authority purportedly granted in 
+§3592(c) -- were as follows: 
+
+
+3(A). The defendant constitutes a future danger to the lives and safety of other 
+persons as evidenced by specific acts of violence by the defendant LOUIS JONES. 
+
+
+3(B). Tracie Joy McBride's young age, her slight stature, her background, and her 
+unfamiliarity with San Angelo, Texas. 
+
+
+3(C). Tracie Joy McBride's personal characteristics and the effect of the instant 
+offense on Tracie Joy McBride's family constitute an aggravating factor of the offense . 
+
+
+had risen from a childhood background of severe physical and sexual abuse and neglect to become 
+a successful noncommissioned officer in the United States Army. During his 22 year Army career, 
+Petitioner served with distinction in the Army Airborne Rangers in both the Grenada conflict and 
+the Gulf War. Petitioner rose through the ranks and was decorated several times. 
+
+The defense also showed how Petitioner’s life fell apart after Petitioner retired from the Army 
+in 1993 -- which sacrifice he made in order to be together with his then-wife Sandy Lane. After his 
+retirement, Petitioner went from being a highly-regarded, successful military professional, to a series 
+of failed attempts to go back to college, and minimum wage jobs which did not even enable 
+Petitioner to support his family. This decline in Petitioner’s fortunes took its toll on his marriage, 
+and eventually destroyed the marriage altogether. 
+
+On the critical date -- February 18, 1995 -- Petitioner’s ex-wife, Sandy Lane, made a final 
+break with Petitioner, informing him that there was no chance that they could ever have a future 
+together again. Crazed with grief and desperation at the death of his marriage, and under the 
+influence of alcohol, Petitioner went in search of Sandy on base, where he thought she might be on 
+duty. Unfortunately, he found Tracie McBride, who bore a strong physical resemblance to Sandy. 
+
+The defe:se presented extensive expert psychiatric and psychological testimony to show that 
+Petitioner’s ability to control his impulses and to act rationally had, on the date of the offense, been 
+severely compromised.‘ The break with Sandy had simply been the trigger which -- coupled with 
+Petitioner’s childhood sexual and physical abuse, posttraumatic stress disceder from witnessing 
+killings during combat in Grenada and from stressful combat conditions during the Gulf War with 
+
+
+* Testimony showed that Petitioner suffered from impairment of the frontal lobe of the 
+brain, the part of the brain attributed with rational decisionmaking and impulse control. 
+
+
+6 
+
+
+numerous physical manifestations, numerous severe head injuries, and the loss of the organizing 
+structure of the Army -- sent Petitioner over the edge. 
+
+The jury did not find two of the statutory aggravating factors submitted: 2(B) (that Petitioner 
+caused a grave risk of death to another person) and 2(D) (that Petitioner committed the killing after 
+substantial planning and premeditation). The jury did make an affirmative finding that the other two 
+statutory aggravating factors -- 2(A) and 2(C)* -- had been proven beyond a reasonable doubt. 
+
+The jury failed to find nonstatutory aggravating factor 3(A); that is, they did not find that 
+Petitioner constituted a future danger to the lives and safety of other persons. The jury did make 
+affirmative findings as to the other two factors, 3(B) and 3(C).° 
+
+Furthermore, the jury was obviously impressed by Petitioner’s mitigation case since one or 
+more jurors found 11 mitigating factors to exist: 
+
+1. That Petitioner did ».ot have a significant prior criminal record; 
+
+2. That Petitioner’s capacity to appreciate the wrongfulness of his conduct or to conform to 
+the requirements of the law was significantly impaired; | 
+
+3. That Petitioner committed the offense under severe mental or emotional disturbance; 
+
+4. That Petitioner was subjected to physical, sexual, and emotional abuse as a child (and was 
+deprived of sufficient parental protection that he needed); 
+
+5. That Petitioner served his country well in Desert Storm, Grenada, and for 22 years in the 
+United States Army; 
+
+6. That Petitioner is likely to be a well-behaved inmate; 
+
+
+7. That Petitioner is remorseful for the crime he committed; 
+
+
+* See footnote 2, supra. 
+* See footnote 3, supra. 
+
+
+8. That Petitioner’s daughter will be harmed by the emotional trauma of her father’s 
+execution; 
+
+9. That Petitioner was under unusual and substantial internally generated duress and stress 
+at the time of the offense; 
+
+10. That Petitioner suffered from numerous neurological or psychological disorders at the 
+time of the offense. 
+
+Additionally, seven jurors “wrote in” “Sandy Lane” -- Petitioner’s ex-wife -- as a mitigating 
+circumstance. 
+
+After the jury returned its verdict of death, two events occurred which showed that the jury 
+had labored under a fundamental misunderstanding of the consequences of their actions. First, on 
+November 8, 1995, only five days after the jury returned its verdict, juror Christie Beauregard, who 
+had misgivings about the verdict, contacted the defense and let them know the following facts about 
+what had happened during the jury’s deliberations: 
+
+1. The jury was originally hung 8-4 in favor of death; 
+
+2. The jar} talloved Gens if was leung and waste to penduse 0 wnenienees vendiet ter eat 
+or life without release, then the judge would impose a “lesser sentence” on Petitioner -- which no 
+one wanted; 
+
+3. The pressure mounted when the vote became 10-2, with only Beauregard and Cassandra 
+Hastings holding out for life; and 
+
+4. Succumbing to the pressure of the group -- and based on their belief that a hung jury 
+would result in a Jess-than-life sentence for Petitioner -- Beauregard and Hastings caved in, and 
+voted for death. 
+
+
+Beauregard also indicated that, if the jurors had known that nonunanimity would not result 
+in a less-than-life sentence, she and (she believed) several others would not have agreed to vote for 
+a death sentence. (Beauregard’s remarks were memorialized in a sworn affidavit by investigator 
+Daniel Salazar, who, along with one of the defense attorneys, participated in the telephone 
+conversation with Beauregard. Salazar’s affidavit is attached at Appendix H.) 
+
+Not long after that, juror Cassandra Hastings, who also had misgivings about the verdict, also 
+contacted the defense. As a result, she executed an affidavit which is attached at Appendix I. In 
+addition to corroborating much of what Beauregard had said, Hastings stated that all but three jurors 
+were willing to vote to impose a sentence of life without release on Petitioner. However, the refusal 
+of these three even to consider life without release caused the jury to realize it would be hung. 
+
+Like Beauregard, Hastings also changed her vote to death under her belief that jury 
+nonunanimity would result in a less-than-life sentence for Jones. Hastings stated that she would not 
+have changed her vote, had it not been for this mistaken belief. 
+
+The remarks of Beauregard and Hastings made it crystal clear that the specter of a “lesser 
+sentence” -- which, this jury believed, would be imposed by the court as the result of a hung 
+sentencing jury -- had been the driving force behind this jury’s decision to sentence Petitioner to 
+
+
+death. 
+
+
+I. Was Petitioner’s death sentence imposed in violation of due process and the Eighth 
+Amendment to the Constitution, where the District Court refused to instruc: the jury 
+that the result of nonunanimity in the sentencing phase would be the imposition of a 
+
+
+sentence of life without release or parole? 
+
+
+SUBSIDIARY QUESTIONS: 
+
+
+Did the Fifth Circuit err when it held that a deadlocked sentencing jury would 
+result in a new sentencing hearing, contrary to the plain wording of 18 U.S.C. 
+§ 3594 and the holding of the United States District Court for the District of 
+
+
+Colorado in United States vy, Nichols, 1998 WL 2518 (D.Colo., Jan. 7, 1998)? 
+
+
+Is an instruction on the effect of nonunanimity in capital sentencing proceedings 
+required by due process and the Eighth Amendment? 
+
+
+In this case, once *h< jury returned its verdict of guilty on the kidnapping charge against 
+Petitioner, there were only two possible sentencing outcomes: death, or life imprisonment without 
+release or parole. The federal kidnapping statute under which Petitioner was convicted, 18 U.S.C. 
+§ 1201, provides that one who commits a kidnapping within the special maritime and territorial 
+
+
+jurisdiction of the United States “shall be punished by imprisonment for any term of years or for life 
+
+
+10 
+
+
+and, if death results, shall be punished by death or life imprisonment.” 18 U.S.C. § 120! 
+(emphasis supplied). 
+
+In the trial as to guilt/innocence, the jurors in this case were instructed that, in order to 
+convict Petitioner of the crime charged, they had to imd, beyond a reasonable doubt, “[t}hat the death 
+of Tracie Joy McBride resulted [from the kidnapping].” Thus, the jury’s verdict of guilty represented 
+a finding, beyond a reasonable doubt, of “death result{ing],” thereby limiting the possible 
+punishments to either death or life imprisonment. A lesser sentence than !./* « aprisonment was no 
+longer a possibility by the time the sentencing hearing began. 
+
+Moreover, because parole has been abolished in the federal system’, and because a person 
+subject to a life sentence is not eligible to receive “good time,” “life imprisonment” means what it 
+says -- that the person will never get out. Therefore, as the jury went into the sentencing hearing, 
+there were only two options: death, or life imprisonment which was, perforce, without the possibility 
+of parole or release. 
+
+Furthermore, a “mistrial” and a new sentencing hearing are not permissible options where 
+the sentencing jury “hangs” or deadlocks as to the appropriate punishment. This is made clear by 
+18 U.S.C. § 3594, which provides in relevant part as follows: “Upon a [unanimous] recommendation 
+under section 3593(e) that the defendant should be sentenced to death or life imprisonment without 
+possibility of release, the court shall sentence the defendant accordingly. Otherwise, the court shall 
+impose any lesser sentence that is authorized by law,” 18 U.S.C. § 3594 (emphasis added). 
+
+
+” The provisions for federal parole were repealed effective November 1, 1987, see Pub. 
+L. 98-473, tit. II, ch. Il, § 218(a)(5), although the repeal applied only to offenses committed after that 
+effective date. See id, at § 235(a)(1), codified at Historical and Statutory Notes to 18 U.S.C. § 3551. 
+
+
+* A prisoner serving “a term of imprisonment for the duration of the prisoner’s life” is 
+
+
+not eligible for sentence credit for satisfactory behavior. See 18 U.S.C. § 3624(b)(1). 
+11 
+
+
+This statute clearly provides that, one way or another -- with jury ‘sciabitian ai dhe 
+defendant will receive some kind of sentence after the first sentencing hearing. This reading clearly 
+forecloses the possibility of a “mistrial” and a new sentencing hearing. Thus, under § 3594, as 
+applied to this case, there were only two possible outcomes in this case: 
+
+1. Death, upon unanimous vote of the jury for such penalty, see 18 U.S.C. § 3593(e); or 
+
+2. Life imprisonment without the possibility of parole or release, either 
+
+a. Upon unanimous vote of the jury for such penalty, see 18 U.S.C. § 3593(e); or 
+b. By operation of law under the second sentence of § 3594, by virtue of a 
+nonunanimous jury. 
+Consequently, a failure by the jury to unanimously vote for the death penalty in this case would have 
+resulted in a sentence of life imprisonment without the possibility of parole or release for Petitioner.’ 
+
+The Fifth Circuit agreed that, in this case, there were realistically only two sentencing 
+alternatives for Petitioner: death, or life without release. Jones, 132 F.3d at 248. However, the Fifth 
+Circuit disagreed with Petitioner’s argument about the effect of a nonunanimous sentencing jury: 
+
+. [18 U.S.C.] § 3593 [ ] requires unanimity for every sentence rendered by the jury 
+regardless of whether the verdict is death, life without the possibility of release, or, 
+
+if possible under the substantive criminal statute, any other lesser sentence. Life 
+
+without the possibility of release was not the default penalty in the event of non- 
+
+
+unanimity. On the contrary, the failure to reach a unanimous decision regarding 
+sentencing would result in a hung jury with no verdict rendered. As such, a second 
+
+
+* To be sure, this will not always be the case under § 3594. Many potential death penalty 
+offenses permit alternative penalties of, not only life imprisonment, but also lesser penalties. See, 
+¢.g., 18 U.S.C. § 242 (defendant convicted of deprivation of civil rights where death results may be 
+“imprisoned for any term of years or for life ... or may be sentenced to death”); 18 U.S.C. § 844(d) 
+(defendant convicted of killing by explosive “shall be subject to imprisonment to any term of years, 
+or to the death penalty, or to life imprisonment”). The death penalty provisions in 18 U.S.C. § 3591 
+¢t seg, were written to accommodate those statutes which do actually permit “lesser sentences” than 
+life imprisonment. Certainly, however, the mention of a “lesser sentence” in the Federal Death 
+Penalty Act was not intended to create a “lesser sentence” option for offenses -- like that at issue here 
+(18 U.S.C. § 1201) -- which expressly permit only death or life imprisonment sentences. 
+
+
+12 
+
+
+sentencing hearing would have to be held in front of a second jury impaneled for that 
+purpose. See 18 U.S.C. § 3593(b)(2)(C). 
+
+
+ld. at 243; see also id, at 245 (“the Federal Death Penalty Act requires the jury to achieve unanimity 
+or no verdict results”). 
+
+The Fifth Circuit’s conclusion is in violation of the clear language of § 3594, which provides 
+in relevant part as follows: “Upon a [unanimous] recommendation under section 3593(e) that the 
+defendant should be sentenced to death or life imprisonment without possibility of release, the court 
+shall sentence the defendant accordingly. Otherwise, the court shall impose any lesser sentence 
+that is authorized by law.” 18 U.S.C. § 3594 (emphasis added). 
+
+The courts are bound to harmonize § 3593 and § 3594 if they can; and these two provisions 
+can be harmonized in the following fashion: a jury “recommendation” of death or life without release 
+miust be unanimous in order for eithe: of these sentences to be imposed on the defendant. The first 
+sentence of § 3594 establishes this. However, in the very next sentence, Congress, by its use of the 
+comprehensive word “[o}therwise,” provided that, in any other eventuality, “the court shall impose 
+any lesser sentence that is authorized by law.” 18 U.S.C. § 3594 cl.2. The case of a deadlocked or 
+hung sentencing jury falls within the second sentence of § 3594. Thus, a deadlocked or hung 
+sentencing jury results in a judge-sentencing of the defendant, not a new sentencing hearing. 
+
+The Fifth Circuit’s contrary conclusion is not only in violation of the clear language of § 
+3594; it is also at odds with the only other federal court to have confronted this question. Only a 
+couple of days after the opinion in this case was rendered, the United States District Court for the 
+District of Colorado confronted this very issue in United States v. Terry Lynn Nichols, No. 96-CR- 
+68. In that case, the jury deadlocked as to whether the government had met its burden of proof on 
+the sentencing factors it was required to prove under § 3591(a)(2). After satisfying himself that the 
+jury was hopelessly deadlocked, Chief Judge Matsch dismissed the jury and declared that Nichols 
+
+13 
+
+
+would be sentenced by the court. See Transcript of Proceedings, January 7, 1998, reported at 1998 
+WL 2518. Chief Judge Matsch held that the jury’s failure to achieve unanimity resulted in 
+sentencing by the court. Id, at *4. 
+
+The conflict between these holdings of the Fifth Circuit and the United States District Court 
+for the District of Colorado alone warrants this Court’s exercise of its certiorari power to decide this 
+case. However, the Fifth Circuit’s erroneous conclusion that a deadlocked sentencing jury requires 
+a new sentencing hearing (and does not result in a default sentencing by the court) caused it to decide 
+erroneously another question as to which courts are even more deeply divided. 
+
+Because the Fifth Circuit held that nonunanimity would not result in a default life sentence 
+for Petitioner, but rather would result in a “mistrial” and a new sentencing hearing, the Fifth Circuit 
+held that there was no constitutional error in failing to instruct the jury on the consequences of a 
+nonunanimous verdict. Jones, 132 F.3d at 245. The Fifth Circuit noted that in State v, Williams, 
+392 So.2d 619 (La. 1980) -- on which Petitioner had relied -- the Louisiana Supreme Court had “held 
+that juries must be informed of the consequences of failing to achieve a unanimous verdict.” Id. 
+The Fifth Circuit, however, distinguished that case on the ground that under Louisiana law -- unlike 
+the federal statutes at issue in this case -- a nonunanimous verdict would result in a default sentence 
+of life imprisonment. 1d. 
+
+As pointed out above, this distinction was an erroneous one, since § 3594, as applied in this 
+case, requires that a nonunanimous verdict result in a default sentence of life without release/parole. 
+Thus, this case presents the very issue decided by Williams and a host of other courts. had, conten 
+of that jurisprudence shows that both federal and state courts are deeply divided as to whether the 
+Eighth Amendment requires that a capital sentencing jury be instructed as to the consequences of 
+the failure to reach a unanimous sentencing verdict. 
+
+
+14 
+
+
+In Williams, the Louisiana Supreme Court held that the trial judge’s failure to instruct the 
+jury that a nonunanimous verdict would result in a life sentence without benefit of probation, parole 
+or suspension of sentence, violated the Eighth Amendment: 
+
+
+In the present case, the jurors were not fully informed of the consequences of 
+their votes and the penalties which could result in each eventuality. They were not 
+told that, by their failure to decide unanimously, they would in fact decide that the 
+court must impose a sentence of life imprisonment without benefit of probation, 
+parole or suspension of sentence. Instead, the members of the sentencing body were 
+left free to speculate as to what the outcome would be in the event there was not 
+unanimity. Under these circumstances, individual jurors could rationally surmise that 
+in the event of disagreement a new sentencing hearing, and perhaps a new trial, 
+before another jury would be required. 
+
+Such a false impression reasonably may have swayed a juror to join the 
+majority, rather than hold to his honest convictions, in order to avoid forcing the 
+parties, witnesses and court officials to undergo additional proceedings. 
+
+
+Williams, 392 So.2d at 634-35 (emphasis supplied). The opinion then noted that “[t)he effect of the 
+error here involved must be held to be prejudicial. If only one of the twelve jurors was swayed by 
+the failure to inform him fully of the consequence of his sentence recommendation, then, in the 
+absence of that error, the death penalty would not have been imposed.” ]d, at 635. Accordingly, the 
+court reversed the sentence of death and remanded for a new penalty trial. Id. 
+
+Tite eiiatine be Mitten bets ies Aemad ended to cminen tet eames ee 
+number of subsequent similar cases in other jurisdictions. See, ¢.g., People v. Durre, 690 P.2d 165, 
+174 (Colo. 1984); Whalen y, State, 492 A.2d 552, 562 (Del. 1985); State v. Ramseur, 106 N.J. 123, 
+308-312, 524 A.2d 188, 282-84 (1987); People vy. Drake, 748 P.2d 1237, 1254-60 (Colo. 1988) 
+(applying Durre); State vy. Bey, 112 N.J. 123, 177-181, 548 A.2d 887, 914-16 (1988) (applying 
+Ramseur). Other courts have, however, disagreed with the reasoning and holding of Williams, albeit 
+
+
+15 
+
+
+with often very little counter-reasoning. See, ¢.g., Evans v. Thompson, 881 F.2d 117, 123-24 (4th 
+Cir. 1989) (“No obligation exists for the trial judge to inform the jury of the ultimate result should 
+they fail to reach a verdict.”) (citation omitted), cert. denied, 497 U.S. 1010 (1990); Coulter v. State, 
+438 So.2d 336, 346 (Ala. Crim. App. 1982) (“we can find no [ ] support for appellant's contention, 
+that a defendant in a capital felony case is entitled to have the jury instructed as to the consequences 
+of a ‘hung’ jury during its punishment deliberations”) (collecting cases from Florida, Mississippi, 
+Tennessee, South Carolina, Virginia, and North Carolina). 
+
+This deep division of opinion on this important Eighth Amendment issue requires this 
+Court’s resolution. Moreover, several Members of this Court have indicated their interest in very 
+similar issues. See Simmons v. South Carolina, 512 U.S. 154, 172-74 (1994) (Souter, J., concurring, 
+joined by Stevens, J.) (would hold that Eighth Amendment requires capital sentencing juries to be 
+told that a defendant is ineligible for parole)'*; see also Brown vy. Texas, .U.S.__—, 118 S.Ct. 
+355, 355-57 (1997) (opinion of Stevens, J., joined by Souter, Ginsburg, and Breyer, JJ., respecting 
+denial of writ of certiorari) (noting potential constitutional problems of Texas law prohibiting judges 
+from letting capital sentencing juries know when the defendant will become eligible for parole if not 
+sentenced to death). Therefore, this Court should grant certiorari to answer this important question. 
+
+Finally, the Fifth Circuit’s decision in this case violates due process, as articulated by this 
+Court’s decision in Hicks v. Oklahoma, 447 U.S. 343 (1980). In Hicks, a non-capital case, this 
+Court held that, where a statute invested a jury with the sentencing function, the defendant’s sentence 
+violated dus process where the sentencing jury was not correctly appriced of the sentencing 
+alternatives available to it. Hicks, 447 U.S. at 346-47. Here, while the sentencing jury was told the 
+
+
+2° The plurality opinion in Simmons expressly pretermitted the Eighth Amendment issue. 
+See Simmons, 512 U.S. at 162 n.4. 
+
+
+first two sentencing alternatives in this case -- death or life without release, by their unanimous 
+verdict -- the jury was not told, and did not understand, the critical third sentencing alternative -- life 
+without release or parole, imposed by the judge, as a default resulting from the jury’s nonunanimity. 
+Because the jury did not fully understand the full ramifications of its sentencing decisions, 
+Petitioner’s death sentence violated due process under Hicks. This constitutes yet another reason 
+for this Court to grant certiorari in this case. 
+
+For all of these reasons, this Court should grant certiorari to consider the first question 
+presented, along with all of the listed subsidiary questions thereto, and any other questions fairly 
+
+
+presented thereby. 
+
+
+Il. Is reversal of Petitioner’s death sentence required because a reasonable jury could have 
+erroneously interpreted the jury instructions and verdict forms in this case as stating 
+that failure of the jury unanimously to recommend death or life without release would 
+result in a “lesser sentence” for Petitioner (when, in fact, no lesser sentence was actually 
+available)? 
+
+SUBSIDIARY QUESTION: Does the erroneous injection of a nonexistent less-than-life 
+sentencing alternative into the sentencing jury’s deliberations violate due process under 
+this Court’s decision in Hicks y. Oklahoma, 447 U.S. 343 (1980), and the Eighth 
+
+
+Amendment requirement of reliability in capital sentencings? 
+
+
+17 
+
+
+The damage from the failure affirmatively to instruct Petitioner’s sentencing jury on the 
+consequences of nonunanimity (discussed above) was compounded by jury instructions'' and verdict 
+forms’? which erroneously suggested to the jury that failure to unanimously agree on a sentence or 
+death or life without release would result in some “lesser sentence” -- when, in fact, no such “lesser 
+sentence” was even legally possible! 
+
+The Fifth Circuit agreed that no “lesser sentence” was possible, and, indeed, held that it was 
+error for the District Court to inform the jury of a “lesser sentence” option. Jones, 132 F.3d at 247- 
+48. However, the Fifth Circuit rejected Petitioner’s claim that the instructions and verdict forms 
+created at least a reasonable probability that the sentencing jurors would believe that nonunanimity 
+would result in the imposition of a lesser sentence." ]d, at 245-46. 
+
+The Fifth Circuit’s decision is clearly wrong under the well-established jurisprudence of this 
+Court. In a constitutional challenge to capital sentencing instructions, “a defendant need not 
+establish that the jury was more likely than not to have [construed] the instruction” in an 
+unconstitutional manner. Boyde v, California, 494 U.S. 370, 380 (1990). Rather, it is sufficient that 
+Jones show only a “reasonable likelihood,” see Boyde, id., that the jury would have understood the 
+consequence of a lack of unanimity to be a “default” to the “lesser sentence” mentioned in the 
+
+
+instructions. Put another way, “[i]f [Petitioner’s] interpretation is one that ‘a reasonable jury could 
+
+
+*) The sentencing jury instructions given in this case are set forth in Appendix F. 
+2 The completed sentencing verdict forms in this case are set forth in Appendix G. 
+
+
+3 The Fifth Circuit also rejected Petitioner’s separate claim that the injection of the 
+erroneous lesser sentence alternative violated due process under Hicks v, Oklahoma, on ‘he ground 
+that while this was error under Hicks, such error was not “plain,” and hence could not be recognized 
+under the plain error rule of Federal Rule of Criminal Procedure 52(b). Id, at 248. Relying on the 
+fact that no court had previously held that the “lesser sentence” alternative of § 3593 was not 
+available where the substantive statute did not provide for such, the Fifth Circuit concluded that the 
+error was not plain. Id, 
+
+
+have drawn from the instructions given by the trial judge and from the verdict form employed in this 
+case,’” and reversal would be required. United States v, Flores, 63 F.3d 1342, 1375 (Sth Cir. 1995), 
+cert. denied, US. __,117S.Ct. 87 (1996), quoting Mills v. Maryland, 486 U.S. 367, 375-76 
+(1988). And, of course, in this federal direct appeal of a death sentence, any question about the 
+instructions should be resolved in Petitioner’s favor: “In death cases doubts such as those presented 
+here should be resolved in favor of the accused.” Andres v. United States, 333 U.S. 740, 752 (1948). 
+
+In this case, there was at least a “reasonable likelihood” that the jury in this case could -- and 
+in fact did -- draw the erroneous interpretation alluded to by Petitioner from the instructions and 
+verdict forms in this case. The instructions and the verdict forms in this case gave the jury the fatally 
+erroneous impression that a lack of unanimity as to either death or life without release would result 
+in the imposition of a fictitious “lesser sentence.” 
+
+Right after referring to the jury’s ability to recommend this nonexistent “lesser sentence,” the 
+District Court told the jury, “[Y]ou are not to be concerned with the question of what sentence the 
+
+
+defendant might receive in the event you determine not to recommend a death sentence or a sentence 
+
+
+of life without the possibility of release. That is a matter for the court to decide in the event you 
+conclude that a sentence of death or life without the possibility of release should not be 
+recommended,” (Emphasis added) The latter sentence certainly implies, if it does not state outright, 
+that the jury’s failure to agree on a sentence of death oz life without the possibility of release will 
+result in a “default” to the court to impose sentence, and particularly the “lesser sentence” mentioned 
+immediately prior. 
+
+Very shortly thereafter, the District Court told the jury, “In order to bring back a verdict 
+recommending the punishment of death or life without the possibility of release, all twelve of you 
+
+
+must unanimously vote in favor of such specific penalty.” The conspicuous absence of the third 
+
+
+19 
+
+
+sentencing option thrown out to the jury -- ie., the “lesser sentence” -- from this statement strongly 
+implies that, in contradistinction to the first two options, the third “lesser sentence” option does not 
+require jury unanimity, and hence that option will be the result of nonunanimity. 
+
+The same impression is given later in the instructions when the jury was told that “Decision 
+Form B should be used if you unanimously recommend that a sentence of death be imposed . . . 
+Decision Form C should be used if you unanimously recommend that a sentence of imprisonment 
+for life without the possibility of release should be imposed. Decision Form D should be used if you 
+recommend that some other lesser sentence should be imposed.” (Emphasis added) Here again, the 
+requirement of unanimity, explicitly mandated for the death and life without release options, is 
+conspicuously absent from the option of the “some other lesser sentence” presented on Decision 
+Form D. In light of the omission of the word “unanimously” from the last quoted sentence above, 
+there is at least a reasonable likelihood that the jurors in this case interpreted these instructions to 
+mean that the fictitious “lesser sentence” option, unlike death or life imprisonment without release, 
+did not require unanimity --- and that, therefore, the “lesser sentence” option would be the result of 
+a lack of unanimity. 
+
+Such a conclusion is bolstered by the verdict forms in this case. Decision Form B states, 
+“(W]e recommend, by unanimous vote, that a sentence of death be imposed,” and requires each of 
+the twelve jurors to individually sign his or her name thereto. (Emphasis added) Decision Form C 
+states, “We recommend, by unanimous verdict, a sentence of life imprisonment without the 
+possibility of release,” and again requires each of the jurors to sign the form individually. (Emphasis 
+added) In stark contrast, Decision Form D states “We the jury recommend some other lesser 
+sentence,” with absolutely no mention of unanimity, and requires only the signature of the jury 
+
+
+foreperson. Again, the explicit requirement of jury unanimity for death or life without release -- 
+
+
+20 
+
+
+coupled with the conspicuous omission of any mention of unanimity in connection with the “some 
+other lesser sentence” -- would certainly lead a reasonable jury to conclude that the “some other 
+lesser sentence” would be the result of a lack of jury unanimity. 
+
+The jury in this case was presented with three sentencing options, two of which explicitly 
+required unanimity every time they were mentioned (death or life without release), and one of which 
+did not (the fictitious “lesser sentence” option). Nor was the jury explicitly told that it had the option 
+of selecting none of these options, and remaining deadlocked. Because “juries do not leave blanks 
+and do not report themselves as deadlocked . . . unless they are expressly inetmeeted to do so,” Mills 
+y. Maryland, 486 U.S. at 383, it seems at least reasonably likely that the jury in this case believed 
+that (1) it had to select at least one of the options; and (2) that the only option available in the case 
+of nonunanimity was the “some other lesser sentence” option, which might result in Petitioner’s 
+
+
+eventual release from prison some day." 
+
+
+** In Mills, this Court was confronted with an i 
+sentencing jury’s verdict form stated: “Based upon the ptt rast te = oe eer 
+ns following mitigating circumstances which is marked “yes’ has been proven to ante é 
+ensagharnt sg OF THE EVIDENCE and each mitigating circumstance marked ‘no’ has not 
+
+et proven by A PREPONDERANCE OF THE EVIDENCE.” The verdict form then listed the 
+mitigating circumstances one by one, each with a blank marked “yes” or “no.” The jury was 
+ge a only those circumstances marked “yes” against the aggravating circumstances. 
+poh ners re that this scheme created a risk that the jury would conclude that it could 
+i gating circumstances if the jury unanimously found those mitigators, in violation 
+precepts of Lockett v, Ohio, 438 U.S. 586 (1978) and its progeny. Particularly, the petitioner 
+argued that “it was probable, or at least reasonably possible, that the jury understood that a ‘no’ 
+
+
+Bid ng amt Meret, holding that it “[could not] conclude, with any degree of certainty, that the 
+a fe not adopt petitioner's interpretation of the jury instructions and verdict form.” Mills, id, at 
+377-78. The Court noted that “nothing in the verdict form or the judge’s instructions even arguabl 
+is construable as suggesting the jury could leave an answer blank . . . .” Id, at 379. The Court 
+
+
+21 
+
+
+It should also be noted that the defense foresaw this problem and tendered requested 
+
+
+instructions which would have dealt with this problem, at least in this case. Particularly, the defense 
+
+
+tendered requested sentencing Instruction # 5, which provided, in relevant part, that 
+
+
+Again, unless all twelve members of the jury determine that Mr. Jones should receive 
+the death penalty, I will impose a sentence of life imprisonment without possibility 
+of release. In the event, after due deliberation and reflection, the jury is unable to 
+agree on a unanimous decision as to the sentence to be imposed, you should so advise 
+me and I will impose a sentence of life imprisonment without possibility of release. 
+
+
+Instruction # 5 also provided that 
+
+
+{iJn the event you are unable to agree on Life Without Possibility of Release or 
+
+Death, but you are unanimous that the sentence should not be less than Life Without 
+
+Possibility of Release, you should report that vote to the Court and the Court will 
+
+sentence the defendant to Life Without the Possibility of Release. 
+Unfortunately, although the defense orally renewed its request for Instruction # 5 right before closing 
+arguments at the sentencing hearing, the District Court overruled that request. 
+
+Under all the circumstances presented here, there is at least a reasonable likelihood that the 
+jury in this case erroneously interpreted the jury instructions and verdict forms to mean that a lack 
+of unanimity would result in an undesirable “lesser sentence” for Petitioner. Indeed, two jurors have 
+
+
+stated that the jury in this case actually misinterpreted the instructions in the fashion just described." 
+
+
+The same principle is operational here. It is at least reasonably likely that the jury here 
+believed that they were duty-bound to select one of the three sentencing options listed; and that, in 
+the absence of unanimity, the unpalatable “lesser sentence” option would have to be imposed. 
+
+
+15 These jurors were Christie Beauregard and Cassandra Hastings. Both jurors contacted 
+defense counsel of their own volition. Christie Beauregard’s remarks are memorialized in an 
+affidavit prepared by Federal Public Defender investigator Daniel Salazar. Cassandra Hastings 
+herself executed an affidavit. These affidavits are included in Appendices H and I, respectively. 
+Both of these jurors indicated that the jury actually believed that failure to achieve unanimity as to 
+death or life without release would result in a “lesser sentence,” which would mean that Petitioner 
+would be released one day. Both Beauregard and Hastings indicated that they changed their votes 
+to death under the erroneous belief that a “lesser sentence” would be the result of jury nonunanimity. 
+Before the jury’s consideration of this erroneous premise, the jury was divided 8-4 in favor of the 
+
+
+22 
+
+
+The erroneous interpretation of the jury instructions and verdict forms in this case gave the 
+death-prone jurors a big stick to wield over the heads of those jurors leaning toward a life sentence. 
+The (in reality nonexistent) threat of nonunanimity resulting in a less-than-life sentence effectively 
+coerced the life-leaning jurors into voting for a death verdict to avoid the more unpalatable (but yet 
+actually nonexistent) option of a less than life sentence."® Effectively, the jury was forced into “a 
+false choice between sentencing [Petitioner] to death and sentencing him to a limited period of 
+incarceration.” Simmons v, South Carolina, 512 U.S. 154, 161 (1994). 
+
+Because Petitioner’s interpretation is one that “a reasonable jury could have drawn from the 
+instructions given by the trial judge and from the verdict form employed in this case,” reversal of 
+Petitioner’s death sentence is required in this case.'’ Mills vy, Maryland, 486 U.S. at 375-76. See 
+also Andres v. United States, 333 U.S. 740, 752 (1948) (in federal direct appeal of death sentence, 
+Court held that reversal was required where it was probable that “reasonable men might derive a 
+meaning from the instructions given other than the proper meaning”). This is especially so since 
+“[iJn death cases doubts such as those presented here should be resolved in favor of the accused.” 
+Andres, id. 
+
+
+death penalty, with all but three persons willing at least to consider a life sentence. 
+
+
+** Courts have recognized the fearfulness of juries at the prospect “that the defendant may 
+be free to murder again two decades hence.” Flores, 63 F.3d at 1369. Cf, O’Dell v, Netherland, 
+____US.___, 117 S.Ct. 1969, 1981 (1997) (Stevens, J., dissenting) (recognizing that awareness 
+of availability of life without parole alternative decreases juries’ willingness to impose death 
+penalty), Brown y, Texas, 118 S.Ct. at 356 n.2 (recognizing that willingness to impose death penalty 
+decreases as length of parole ineligibility increases). 
+
+
+*” In addition to all of the foregoing, it must be noted that this was obviously not an easy 
+case for the jury to decide. The verdict of death was rendered only after a day and a half of 
+deliberations, during which the jurors found a significant amount of mitigating evidence to exist. 
+
+
+23 
+
+
+The erroneous injection of a nonexistent “lesser sentence” alternative -- and the erroneous 
+suggestion that this “lesser sentence” would be the result of jury nonunanimity -- rendered 
+Petitioner's death sentence unreliable and in violation of the Eighth Amendment. Indeed, this Court 
+has taken great pains to stress that the Eighth Amendment is violated by inaccurate information 
+about sentencing matters. Compare, ¢.g., Caldwell v. Mississippi, 472 U.S. 320, 341-43 (1985) 
+(O’Connor, J., concurring in part and concurring in judgment) (casting deciding vote, Justice 
+O’Connor concluded that death sentence violated Eighth Amendment where prosecutor gave 
+sentencing jury a misleading and inaccurate view of the role of appellate review of death sentences, 
+thereby decreasing jurors’ sense of personal responsibility for decision and rendering death sentence 
+unreliable) with Romano v. Oklahoma, 512 U.S. 1, 9-10 (majority op.) & 14-15 (O’Connor, J., 
+concurring) (1997) (no Eighth Amendment violation in informing capital sentencing jury of pre- 
+existing death sentence where that evidence was accurate at the time it was admitted) and California 
+y. Ramos, 463 U.S. 992, 1004 (1983) (capital sentencing instruction gave capital sentencing jury 
+accurate information about governor’s power to commute a life sentence; hence, there was no 
+diminution of the reliability of the sentencing decision required by the Eighth Amendment). And, 
+taking their cue from these decisions, lower courts have similarly condemned under the Eighth 
+Amendment capital sentencing instructions which give the sentencing jury an inaccurate view of 
+their sentencing alternatives. See, ¢.g., Gallego v. McDaniel, 124 F.3d 1065, 1074-76 (9th Cir. 
+1997); Hamilton v. Vasquez, 17 F.3d 1149, 1159-64 (9th Cir. 1994). 
+
+The Fifth Circuit's decision in this case is inconsistent with this Court’s unflagging insistence 
+on accurate information during capital sentencings and with decisions of other lower courts which 
+have correctly applied the Court’s jurisprudence. The erroneous injection of a nonexistent “lesser 
+
+
+sentence” alternative in this case -- and the erroneous suggestion that such a sentence would result 
+
+
+24 
+
+
+from jury nonunanimity -- rendered Petitioner’s death sentence unreliable and hence in violation of 
+the Eighth Amendment."* Moreover (but relatedly), these errors also violated due process under the 
+doctrine of Hicks v. Oklahoma, since the sentencing jury was not correctly apprised of its sentencing 
+alternatives. 
+
+Because of the importance of the Eighth Amendment and due process issues raised herein, 
+and because of the tension between the Fifth Circuit’s decision in this case and decisions both of this 
+Court and of lower courts, this Court should grant certiorari to consider the Fifth Circuit's decision 
+
+
+in this case. 
+
+
+Ill. Is reversal of Petitioner’s death sentence required where the jury relied upon 
+unconstitutionally vague, overbroad, and duplicative aggravating factors, and the 
+Court of Appeals summarily asserted that these constitutional errors were harmless 
+
+
+without explaining how it reached that conclusion? 
+
+
+The jury that sentenced Petitioner relied upon unconstitutional nonstatutory aggravating 
+factors in the weighing process that led to the sentence of death. The nonstatutory aggravating 
+factors that were submitted to, and found by, the jury violated the Eighth Amendment and the Due 
+
+
+Process Clause of the Fifth Amendment. The District Court erred in submitting those two factors 
+
+
+** These inaccuracies created all of the same problems — discussed in detail in the preceding 
+argument -- as the district court’s refusal affirmatively to inform the sentencing jury that jury 
+nonunanimity would result in a sentence of life without release or parole imposed by the judge, 
+pursuant to 18 U.S.C. § 3594. Indeed, these are two sides of the same coin. In the first question 
+presented, Petitioner complains of the withholding of correct information from the jury; in the 
+second question presented, Petitioner complains of the giving of incorrect information to the jury. 
+But whether the sin is one of omission or commission, the result is the same: the jury had inaccurate 
+information, and hence rendered a sentencing verdict which is not reliable, as required by the Eighth 
+Amendment. 
+
+
+25 
+
+
+to the jury. Indeed, the Court of Appeals held without hesitation that these two nonstatutory 
+aggravating factors were unconstitutionally vague, overbroad, and duplicative. Jones, 132 F.3d at 
+250-51. 
+
+The Court of Appeals, however, did not reverse and remand for a new sentencing hearing. 
+Instead, the Court of Appeals purported to “cure” this constitutional error by applying the doctrine 
+of harmless error. |d, at 251-52. In so doing, however, the Fifth Circuit misapplied this Court’s 
+precedents. Those precedents are clear and well settled. Because a capital defendant is entitled 
+under the Eighth Amendment to an individualized determination of his sentence, an appellate court 
+in a weighing jurisdiction cannot rely upon the fact that there remain valid aggravating factors in 
+order to automatically affirm a death sentence. Rather, “when the death sentence has been infected 
+by a vague or otherwise constitutionally invalid aggravating factor, the ... appellate court ... must 
+actually perform a new sentencing calculus, if the sentence is to stand.” Richmond v. Lewis, 506 
+U.S. 40, 49 (1992). 
+
+Moreover, a “bald assertion that an error of constitutional dimensions was ‘harmless’ cannot 
+substitute for a principled explanation of how the court reached that conclusion,” Sochor y, Florida, 
+504 U.S. 527, 541 (1992) (O’Connor, J., concurring), because the Eighth Amendment requires “a 
+detailed explanation based on the record” to support a finding of harmless error. Clemons vy. 
+Mississippi, 494 U.S. 738, 753 (1990). The Fifth Circuit’s conclusion is precisely such a bald 
+assertion, lacking any explanation of the actual reweighing performed by the court. In addition, the 
+only explanation the court did give as to its reasoning indicates that the court applied an “automatic 
+affirmance” rule based upon two valid aggravating factors. 
+
+This Court should grant certiorari to correct such an obvious and blatant disregard o, its 
+
+
+precedents. More important, however, than the opportunity to correct an obvious error in one case 
+
+
+26 
+
+
+is the fact that this is the first case in the nation tried and appealed under the Federal Death Penalty 
+Act of 1994 (18 U.S.C. § 3591 et seg.). The Fifth Circuit’s opinion in this case will doubtless be 
+cited and relied upon in the many subsequent cases that have been and will be tried under this statute. 
+This Court sits not only as a court of constitutional error, but also as the supervisor of the lower 
+federal courts. Accordingly, this Court should noi let stand such a blatant misapplication of its 
+precedents on the proper application of harmless error. 
+
+~ This case also presents the opportunity to resolve the question left open by this Court in prior 
+cases as to “the degree of clarity with which [an] appellate court must reweigh in order to cure an 
+otherwise invalid death sentence.” Richmond v. Lewis, 506 U.S. at 48. Additionally, this case 
+squarely presents the issue, implicit in many previous holdings, as to whether the bald assertion of 
+“harmless error” in the absence of “any principled explanation of how the court reached that 
+conclusion” satisfies the requirement of individualized sentencing. See Sochor v. Florida, 504 U.S. 
+at 541 (O’Connor, J., concurring). 
+
+A. The Jury Relied upon Unconstitutionally Vague, Overbroad, and Duplicative 
+
+Aggravating Factors in the Weighing Process that led to the Sentence of Death. 
+
+The Eighth Amendmen: principles relevant to this case are well settled. The Federal Death 
+Penalty Act of 1994 is a “weighing” statute. Under such a capital sentencing scheme, the sentencer 
+must balance each aggravating factor proven and found to exist against each mitigating factor proven 
+and found to exist. The jury is instructed that it may sentence the defendant to death only if all the 
+aggravating factors found to exist outweigh all the mitigating factors. 
+
+If a statute uses aggravating factors to determine who shall be eligible for the death penalty 
+
+
+or who shall actually be sentenced to death, the factors cannot be "of vague or imprecise content" 
+
+
+such that they fail to channel the sentencer’s discretion. Stringer v. Black, 503 U.S. 222, 237 (1992). 
+"[A] statutory aggravating factor is unconstitutionally vague if it fails to furnish principled guidance 
+for the choice between death and a lesser penalty," Richmond v, Lewis, 506 U.S. 40, 46 (1992) 
+(citations omitted), and "fails adequately to inform juries what they must find to impose the death 
+penalty.” Maynard v. Cartwright, 486 U.S. 356, 361-62 (1988). “An aggravating circumstance is 
+invalid . . . if its description is so vague as to leave the sentencer without sufficient guidance for 
+determining the presence or absence of the factor." Espinosa v. Florida, 505 U.S. 1079, 1081 (1992). 
+Additionally, if the sentencer “could fairly conclude that an aggravating circumstance applies to 
+every defendant eligible for the death penalty, the circumstance is constitutionally infirm.” Arave 
+y. Creech, 507 U.S. 463, 474 (1993) (emphasis in original). 
+In this case, the two nonstatutory aggravating factors found by the jury were: 
+
+3(B). Tracie Joy McBride's young age, her slight stature, her background, and her 
+
+unfamiliarity with San Angelo, Texas. 
+
+3(C). Tracie Joy McBride's personal characteristics and the effect of the instant 
+
+
+offense on Tracie Joy McBride's family constitute an aggravating factor of the 
+offense . 
+
+
+Essentially, the jury was asked to “find” the victim’s “personal characteristics” and her 
+“background”, and to weigh those purported aggravating factors in the balance. Those factors were 
+not “aggravating,” as required by the Eighth Amendment, because they do not separate this homicide 
+from the many other homicides in which the death penalty is not imposed. Nor did they guide or 
+channel the jury’s discretion in the weighing process the jury was required to perform to determine 
+the sentence. Even worse, these vague and overbroad factors were impermissibly weighed twice in 
+the decisional process. The Eighth Amendment does not allow the sentencer to consider overlapping 
+and duplicative aggravating factors, because weighing the same factor twice in the sentencing 
+
+
+calculus necessarily skews the balance toward death’s side of the scale. 
+
+
+Aggravating factors play a critical role in a weighing scheme like the Federal Death Penalty 
+Act of 1994 (18 U.S.C. § 3591 et seq.) In addition to narrowing the class of defendants eligible for 
+the death penalty, aggravating factors in weighing jurisdictions are crucial in guiding the jury's 
+decision on whether to impose the death penalty. Stringer v. Black, 503 U.S. 222, 234 (1992). 
+Under a weighing statute, the jury may only consider those statutory and nonstatutory aggravating 
+factors for which notice has been provided to the defendant; no other information may be brought 
+to bear in the sentencing determination. 
+
+Because of the critical role played by aggravating factors in a weighing statute, such a statute 
+may not use factors that fail to guide the sentencer's discretion. A vague or imprecise aggravating 
+factor “creates [a] risk that the jury will treat the defendant as more deserving of the death penalty 
+than he might otherwise be by relying upon the existence of an illusory circumstance." |d, at 235. 
+A death sentence imposed under a weighing statute that was based in part on an invalid aggravating 
+factor may not be ~ffirmed automatically. "An automatic rule of affirmance in a weighing state 
+would be invalid . . . for it would not give defendants the individualized treatment that would result 
+from the actual reweighing of the mix of mitigating factors and aggravating circumstances." 
+Clemons vy. Mississippi, 494 U.S. 738, 752 (1990). In sum, the use of an invalid aggravating factor 
+in the weighing process "creates the possibility not only of randomness but also of bias in favor of 
+the death penalty," because the side of the scale tipping in favor of death is made heavier by the 
+
+
+weight of each aggravating factor found by the jury. Stringer v, Black, 503 U.S. at 236. 
+
+
+B. The Court of Appeals Did Not Cure This Constitutional Error 
+Where, as here, a sentencer relies upon an unconstitutional aggravating factor or factors, the 
+
+
+sentence itself is unconstitutional and must be reversed, unless the reviewing court corrects the 
+
+
+29 
+
+
+constitutional error. This may be accomplished either by the appellate court’s reweighing of the 
+valid aggravating factors against the mitigating evidence (ignoring the invalid aggravating factors), 
+or by the appellate court’s application of harmless error analysis. Clemons v. Mississippi, 494 U.S. 
+738, 741 (1990). It is not sufficient merely to recite the formula for harmless error. Rather, because 
+the Eighth Amendment entitles the defendant to individualized treatment, the appellate court must 
+“actually perform a new sentencing calculus.” Richmond vy. Lewis, 506 U.S. 40, 49 (1992). That 
+new sentencing calculus necessarily requires the appellate court to perform a reweighing of the mix 
+of mitigating and aggravating factors. 
+
+The Court of Appeals in this case purported to apply harmless error analysis. However, the 
+court neither “made a detailed explanation based upon the record,” Clemons, 494 U.S. at 753, nor 
+offered “a principled explanation for how the court reached that conclusion.” Sochor, 504 U.S. at 
+541 (O’Connor, J., concurring). At a minimum, such a new sentencing calculus requires a detailed 
+explanation of how it engaged in the reweighing and of how much weight it assigned to each 
+aggravating and mitigating factor. Several state supreme courts, particularly since this Court's 
+decision in Clemons, have experience in this kind of analysis. For example, the Tennessee Supreme 
+Court has held: 
+
+In order to guarantee the precision that individualized sentencing considerations demand and 
+
+provide a principled explanation for our conclusion in each case, it is important, when 
+
+conducting harmless error review, to completely examine the record for the presence of 
+
+not limited to, the number and strength of remaining valid aggravating circumstances, the 
+
+prosecutor's argument at sentencing, the evidence admitted to establish the invalid 
+
+aggravating factor, and the nature, quality and strength of mitigating evidence. 
+State vy, Howell, 868 S.W.2d 238, 260-61 (Tenn. 1993), cert, denied, 510 U.S. 1215 (1994). 
+
+The Fifth Circuit’s explanation fell far short of this standard. Indeed, in the one paragraph 
+
+
+in which it discussed whether the error was harmless, the court emphasized that the two statutory 
+
+
+30 
+
+
+aggravating factors found by the jury were valid. The court appeared to hold that because there were 
+two valid aggravating factors, the sentence itself was necessarily valid. The court stated: 
+
+{I}f the jury had failed to find at least one of the statutory aggravating factors beyond 
+
+a reasonable doubt, then the deliberations would have ceased leaving the jury 
+
+powerless to recommend the death penalty. Therefore the ability of the jury to 
+
+recommend the death penalty hinged on a finding of at least one statutory aggravating 
+
+factor. Conversely, jury findings regarding the nonstatutory aggravating factors were 
+
+not required before the jury could recommend the death penalty. 
+
+United States v. Jones, 132 F.3d 232, 252 (Sth Cir. 1998). 
+
+This is remarkably similar to Clemons, where the opinion of the Mississippi Supreme Court 
+was ambiguous as to whether the court had actually reweighed. Some language of the court’s 
+opinion seemed to indicate that the court had engaged in proper appellate reweighing. Other 
+language, however, indicated that the court had affirmed solely because there remained one valid 
+aggravating factor to support the death penalty verdict. This Court held that although the Mississippi 
+court’s opinion did not necessarily indicate that no reweighing was undertaken, “the court’s 
+statement can be read as a rule authorizing or requiring affirmance of a death sentence so long as 
+there remains at least one valid aggravating circumstance. If that is what the Mississippi Supreme 
+Court meant, then it was not conducting appellate reweighing as we understand the concept.” 
+Clemons, 494 U.S. at 751-52. 
+
+It is true that the Court of Appeals used the phrase “harmless error,” and the court stated that 
+the death sentence would have been imposed “had the invalid aggravating factors never been 
+submitted to the jury.” However, the court did not actually perform a new sentencing calculus. The 
+most obvious indication is the court’s failure to even mention the mitigating factors proved by the 
+defendant and found by one or more jurors. A new sentencing calculus would have required the 
+court to weigh the two remaining aggravating factors against the mitigating factors. Indeed, the court 
+
+
+— 
+
+
+31 
+
+
+did not discuss the mitigating evidence at all--other than a bare reference to “the eleven mitigating 
+factors found by one or more jurors.” This Court held in Clemons that: 
+
+because the Mississippi Supreme Court’s opinion is virtually silent with respect to 
+
+the particulars of the allegedly mitigating evidence presented by Clemons to the jury, 
+
+we cannot be sure that the court fully heeded our cases emphasizing the importance 
+
+of the sentencer’s consideration of the defendant's mitigating evidence. 
+
+Clemons, 494 U.S. at 752. 
+
+This case is quite similar, except that the Fifth Circuit’s opinion is not “virtually silent” with 
+respect to the particulars of the mitigating evidence; the opinion is completely silent with respect 
+to the particulars of Petitioner’s mitigating evidence. 
+
+In point of fact, there was an extraordinary amount of mitigating evidence in this case -- as 
+powerful and compelling a case in mitigation as the courts ever see in a capital case.'® Petitioner 
+served his country honorably and courageously for twenty-two years in the United States Army, 
+retiring with an honorable discharge as a Master Sergeant in the Army Airborne Rangers. He served 
+with distinction in two foreign wars, and was awarded a Meritorious Service Award and a 
+Commendation Medal. Unlike the typical capital defendant, Petitioner had no criminal record. 
+Moreover, Petitioner had overcome a horrible and traumatic childhood, which included regular 
+sexual and physical abuse, and against overwhelming odds he managed to lead a successful and 
+productive adult life. Finally, the defense offered compelling expert testimony of brain damage and 
+
+
+psychiatric and psychological disorders, which were unleashed by the emotional trauma of 
+
+
+*? Cf. State v. Howell, 868 S.W.2d 238, 262 (Tenn. 1993) (in conducting harmless error 
+analysis, emphasizing that there was no mitigating evidence of defendant’s good character), cert. 
+denied, 510 U.S. 1215 (1994). 
+
+
+32 
+
+
+Petitioner's final break with his ex-wife Sandy, and which combined to severely impair Petitioner’s 
+ability to control his impulses on the night of the murder.”° 
+
+Petitioner was entitled under the Eighth Amendment to have this mitigating evidence 
+considered in the weighing process that led to his sentence. Because the Court of Appeals mentioned 
+none of this evidence in its summary conclusion that the evidence was harmless, the Court of 
+Appeals did not perform the type of “new sentencing calculus” required by the Eighth Amendment. 
+
+Cc. The Record Does Not Support a Finding That the Sentence Would Have Been 
+
+the Same Absent the Two Unconstitutional Aggravating Factors 
+
+The failure of the Court of Appeals to articulate the basis of its conclusion that the error was 
+harmless requires reversal. The sentence of death cannot be affirmed absent a real and principled 
+weighing of the remaining valid aggravating factors against all the mitigating factors. | 
+
+Moreover, the problem is more than one of insufficient articulation by the Court of Appeals. 
+Had the Court of Appeals actually conducted a new sentencing calculus, the record in this case 
+simply could not support a finding beyond a reasonable doubt that a properly instructed jury, not 
+relying upon the two invalid aggravating factors, would have reached the same decision. Several 
+facts reveal that this was a close and difficult decision for the jurors. First, the jury’s findings as to 
+the aggravating factors submitted by the government indicate that the jury’s decision was anything 
+but a foregone conclusion. The jury refused to find that Petitioner committed the offense after 
+substantial planning and premeditation (Aggravating Factor 2(D)); it refused to find that he 
+
+
+knowingly created a grave risk of death to one or more persons in addition to the victim 
+
+
+2° The importance of Sandy Lane in triggering the tragic chain of events in this case can 
+hardly be understated. Indeed, as previously noted, seven jurors “wrote in” Sandy as a mitigating 
+circumstance in this case. And, as also noted, Tracie McBride bore a strong physical resemblance 
+to Sandy Lane. 
+
+
+33 
+
+
+(Aggravating Factor 2(B)); and the jury refused to find that Petitioner constitutes a future danger to 
+the lives and safety of other persons (Aggravating Factor 3(A)). 
+
+Even with the two invalid aggravating factors weighed in the balance, the decision was 
+difficult and close. The jury deliberated for a day and a half. The affidavits included in Appendices 
+H and! provide a window into how difficult and close the decision was. And, as shown above, and 
+as found by the Fifth Circuit, the jury was instructed erroneously that there was a lesser sentence than 
+death or life imprisonment available. This error further skewed the deliberations, and makes it 
+especially difficult to rely upon the jury’s actual verdict to speculate whether a properly instructed 
+jury would have reached the same decision. 
+
+Thus, on this record, it is simply not possible to conclude beyond a reasonable doubt that the 
+jury would have sentenced the defendant to death without the submission of the two invalid 
+aggravating factors. Accordingly, the proper remedy on this record is not to remand to the Court of 
+Appeals to conduct a proper harmless error analysis. Instead, the case should be remanded for a new 
+sentencing hearing before a jury. 
+
+D. The Fact That the Two Invalid Aggravating Factors Were “Nonstatutory” Does 
+
+Not Render Them Any Less Harmful 
+
+The Court of Appeals seemed to assume that because the invalid aggravating factors were 
+nonstatutory, those factors could not play a large role in the jury’s deliberations. Contrary to the 
+court’s implication, nonstatutory aggravating factors can have a profound impact in a federal capital 
+case, because they are weighed alongside statutory aggravating factors in the decision between life 
+and death. Petitioner’s jury was instructed that it must weigh each aggravating factor that it found 
+
+
+in the weighing process. In this weighing process, jurors may choose to assign greater weight to a 
+
+
+nonstatutory aggravating factor than to any or all of the remaining statutory aggravating factors and 
+mitigating factors in the case. 
+
+The basis for nonstatutory aggravating factors is in 18 U.S.C. § 3593(c). After listing several 
+“statutory” aggravating factors, the statute provides: “The jury, or if there is no jury, the court, may 
+consider whether any other aggravating factor for which notice has been given exists.” The invalid 
+aggravating factors in this case were “nonstatutory;” that is, they do not appear in the list of 
+aggravating factors in 3593(c); they were drafted by the prosecutor pursuant to the purported 
+authority of the sentence quoted above. That statute provides no guidance to the prosecutor for the 
+formulation of nonstatutory aggravating factors. 
+
+Whatever the constitutionality of such a delegation of power to the prosecutor, the facts of 
+this case starkly reveal how such power can be abused. Unlimited auth rity in the prosecutor to draft 
+aggravating factors for particular cases can lead to arbitrary and unreliable capital sentencing. If the 
+power to draft vague and duplicative aggravating factors is not limited, there is nothing to stop a 
+prosecutor from outlining a closing argument, and then turning the topic sentence of each paragraph 
+of the argument into a separate aggravating factor to be “found” by the jury. The jury would then 
+be told that it must weigh each of those purported aggravating factors in its deliberations. 
+
+The fact that the two invalid aggravating factors in this case were duplicative and overlapping 
+makes harmless error analysis especially inappropriate. Not only was an invalid aggravating factor 
+weighed in the balance, as in Sochor, Clemons, Richmond, Stringer, and other cases, the invalid 
+factor was weighed twice in this case. The Constitution does not allow the prosecutor to skew the 
+weighing process in this manner. 
+
+The Court of Appeals correctly held that the nonstatutory factors drafted by the prosecutor 
+
+
+in this case were unconstitutionally vague, overbroad, and duplicative, and that the jury’s reliance 
+
+
+35 
+
+
+upon these factors constituted constitutional error. Unfortunately, the Court of Appeals mistakenly 
+assumed, without any basis, that the nonstatutory aggravating factors were not significant in the 
+jury’s deliberations. That conclusion was erroneous. Because the Federal Death Penalty Act of 1994 
+gives authority to prosecutors to draft nonstatutory aggravating factors to fit the facts of particular 
+cases, nonstatutory aggravating factors will play a large role in prosecutions in death penalty cases 
+in federal court. This Uourt should, in its supervisory power over lower federal courts, find this 
+constitutional error harmful and reverse the judgment of the Court of Appeals. 
+
+For all of these reasons, this Court should grant certiorari to consider this question presented, 
+
+
+along with any other questions fairly presented thereby. 
+
+
+IV. Does the Fifth Circuit’s opinion in this case comply with the requirements of 18 U.S.C. 
+
+
+§ 3595? 
+
+
+SUBSIDIARY QUESTION: Under § 3595, must each issue raised by a death-sentenced 
+
+
+individual be individually and specifically addressed in the written opinion of the Court 
+
+
+of Appeals? 
+
+
+The foregoing issues are important ones which certainly merit this Court’s exercise of its 
+certiorari power. However, this Court may wish to pretermit consideration of these issues at this 
+time, in light of a procedural flaw with the opinion and judgment below -- namely, the Fifth Circuit’s 
+
+
+failure to comply with 18 U.S.C. § 3593(c)(1) and (c)(3). 
+
+
+36 
+
+
+The Federal Death Penalty Act of 1994 (FDPA) (codified at 18 U.S.C. §§ 3591-3598, see 
+Appendix C), lays down strict requirements for appellate review of death sentences handed down 
+under that Act. See 18 U.S.C. § 3595. Of particular interest in this case, § 3595 mandates that “[t}he 
+court of appeals shall address al] substantive and procedural issues raised on the appeal of a sentence 
+of death... .,” 18 U.S.C. § 3595(c)(1); and further mandates that “[t}he court of appeals shall state 
+in writing the reasons for its disposition of an appeal of a sentence of death under this section.” 18 
+U.S.C. § 3595(c)(3). 
+
+In this case, Petitioner filed an appellate brief with 18 issues, many of which had various 
+subparts. Nevertheless, the Court of Appeals in its written opinion specifically addressed only four 
+of these issues. The Court of Appeals did state that it had “consider[ed] all the issues raised by the 
+defendant on appeal.” Jones, 132 F.3d at 237; see also id, at 252 (court referenced the fact that it had 
+“consider[ed] the eighteen issues raised by the appellant on appeal”). However, except for Issues I, 
+III, IV, and V, the Court of Appeals did not specifically address or discuss these issues in its written 
+opinion. 
+
+Petitioner filed a petition for rehearing by the panel, arguing, among other things, that the 
+opinion of the Court of Appeals did not comport with the requirements of 18 U.S.C. § 3595(c)(1) 
+and (c)(3). However, the Court of Appeals summarily denied rehearing. See Appendix B. 
+
+It is clear that, under 18 U.S.C. § 3595(c)(1) and (3), a reviewing court of appeals must not 
+only (1) address every issue raised by a person sentenced to death under the FDPA; but must also 
+(2) state its reasons for deciding any such issue or issues in writing. It also seems clear that at least 
+part of the reason for the “full opinion” requirement of § 3595(c)(1) and (c)(3) was to facilitate this 
+Court’s review of death sentences imposed under the FDPA -- a review which is doubly important 
+
+
+37 
+
+
+because this Court is sitting not only as a court of constitutional error, but also as the supervisor of 
+the lower federal courts. 
+
+In this regard, it is appropriate to notice the important role which this Court has assigned to 
+appellate review in upholding the constitutionality of death penalty schemes. See, ¢.g. Gregg v. 
+Georgia, 428 U.S. 153, 206 (1976) (opinion of Stewart, Powell, and Stevens, JJ.) (“The provision 
+for appellate review in the Georgia capital-sentencing system serves as a check against the random 
+or arbitrary imposition of the death penalty.”); Parker v. Dugger, 498 U.S. 308, 321 (1991) (“We 
+have emphasized repeatedly the crucial role of meaningful appellate review in ensuring that the death 
+penalty is not imposed arbitrarily or irrationally.”). Indeed, the United States District Court for the 
+Southern District of New York has only very recently relied on the “full opinion” requirements of 
+§ 3593(c)(1) and (c)(3) to find that the FDPA provides the type of “meaningful appellate review” 
+found “crucial” in Gregg and Parker. See United States v. Frank, = F.Supp. _, 1998 US. 
+Dist. LEXIS 6369 ** 56-57 (S.D.N.Y. May 6, 1998). 
+
+And this Court has itself noted that its own “duty to search for constitutional error with 
+painstaking care is never more exacting than it is in a capital case.” Burger v. Kemp, 483 U.S. 776, 
+785 (1987). That duty is frustrated by summary denials of claims by the Court of Appeals, which 
+leave the basis for that court’s decision shrouded in mystery. 
+
+In sum, by enacting 18 U.S.C. § 3595(c)(1) and (3), Congress decreed that a reviewing court 
+of appeals must not only (1) address every issue raised by a person sentenced to death under the 
+FDPA; but must also (2) state its reasons for deciding any such issue or issues in writing. These 
+requirements were not met in this case. 
+
+Furthermore, as a practical matter, only this Court can interpret and enforce the requirements 
+of § 3595, because this Court is the only Court above the federal courts of appeals to whom these 
+
+
+38 
+
+
+requirements are directed. The proper interpretation and enforcement of § 3595 is essential to the 
+proper functioning of the FDPA and the administration of justice generally. Therefore, this Court 
+should grant certiorari in this case; and thereafter should vacate the present opinion and judgment 
+of the Fifth Circuit and remand with instructions (1) to write an opinion addressing all of Petitioner's 
+issues, in compliance with 18 U.S.C. § 3595(c)(1) and (c)(3); and (2) to enter judgment in 
+
+
+conformity therewith. 
+
+
+39 
+
+
+CONCLUSION 
+For the reasons set forth above, a writ of certiorari should issue to review the judgment and 
+
+
+opinion of the United States Court of Appeals for the Fifth Circuit in this matter. 
+
+
+Respectfully submitted, as 
+
+
+IRA R. KIRKENDOLL 
+Federal Public Defender 
+Northern District of Texas 
+
+
+WY: Zesere tg roots 
+TIMOTHY CR N 
+
+
+Asst. Federal Public Defender 
+600 Texas Street, Suite 100 
+Fort Worth, Texas 76102-4612 
+(817) 978-2753 
+
+LA State Bar No. 17541 
+
+
+eure s a «ee 
+na Ae 
+
+Seen tahtiaemeeeetonen 
+
+18th & Hartford 
+
+Lubbock, Texas 79409 
+
+
+(806) 742-3982 
+TX State Bar No. 07188405 
+
+

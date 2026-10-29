@@ -1,0 +1,1362 @@
+Supreme — 
+a 
+
+
+98106 2 DES 1198 
+
+
+No. OFFICE OF THE CLERK 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+
+STATE OF MARYLAND, 
+Petitioner, 
+v. 
+
+
+KEVIN DARNELL DYSON, 
+Respondent. 
+
+
+On Petition For Writ of Certiorari 
+To The Court of Special Appeals of Maryland 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+J. JOSEPH CURRAN, JR. 
+Attorney General of Maryland 
+
+
+GARY E. BAIR* 
+KATHRYN GRILL GRAEFF 
+Assistant Attorneys General 
+
+
+Office of the Attorney General 
+200 Saint Paul Place 
+Baltimore, Maryland 21202 
+(410) 576-6422 
+
+
+Counsel for Petitioner 
+
+
+*Counsel of Record 
+
+
+a SES TAC 
+
+
+a ee ee een 
+
+
+i 
+QUESTION PRESENTED 
+
+
+When the police have probable cause to believe a 
+mobile car contains contraband, is a warrantless search of 
+
+
+the car permitted regardless of the existence of exigent 
+circumstances? 
+
+
+il 
+PARTIES TO THE PROCEEDING 
+
+
+The caption contains the names of all the parties below. 
+
+
+**. 
+
+
+TABLE OF CONTENTS 
+Page 
+QUESTION PRESENTED ..................._.. i 
+PARTIES TO THE PROCEEDING ...........__ ii 
+EE l 
+STATEMENT OF JURISDICTION ...........___ l 
+
+
+CONSTITUTIONAL PROVISION INVOLVED .... 2 
+STATEMENT OF THECASE ..............._. 2 
+
+
+I. The Ruling of the Court of Special 
+Appeals of Maryland is in Direct 
+Conflict With This Court's 
+
+
+EST See 6 
+
+Il, Related Issues Are Pending Before 
+ERE 7 
+EE 9 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Cases: 
+California v. Carney, 471 U.S. 386 (1985) ... 6, passim 
+Carroll v. United States, 267 U.S. 132 (1925)... 3, 4,6 
+
+
+Dyson v. State, 122 Md. App. 413, 
+712 A.2d 573 (1998) 2. cece cece eee e eter eens | 
+
+
+Houghton v. State, 956 P.2d 363 (Wyo.), 
+cert. granted sub nom. Wyoming v. Houghton, 
+119 S. Ct. 31 (1998) (No. 98-184)... 6. 6 eee eee ee 8 
+
+
+Pennsylvania v. Labron, 518 U.S. 938 
+(1996) (per curiam) ......- 5s 5seeeeeees 6, passim 
+
+
+State v. Dyson, 351 Md. 287, 
+718 A.2d 235 (1998) (order) .... 6... ee ee ee eeees l 
+
+
+White v. State, 710 So. 2d 949 (Fla.), cert. 
+
+granted sub nom. Florida v. White, | 19 
+
+S. Ct. 508 (1998) (No. 98-223) 0... eee eee 7, 8,9 
+Constitutional Provision: 
+United States Constitution: 
+
+
+Fourth Amendment ......... 6.565 0+555 2, passim 
+
+
+v 
+Statute: 
+
+28 U.S.C. § 1257(a) 
+
+Rule: 
+
+Rule 13, Rules of the Supreme Court 
+
+
+eeeee ee eee ee0$ 
+
+
+Petitioner, the State of Maryland, respectfully requests 
+that a writ of certiorari issue to review the judgment of the 
+Court of Special Appeals of Maryland. 
+
+
+OPINIONS BELOW 
+
+
+The reported order of the Court of Appeals of Maryland 
+denying the State's petition for a writ of certiorari, State v. 
+Dyson, 351 Md. 287, 718 A.2d 235 (1998), is reproduced 
+in Appendix A. (App. 1a). 
+
+The reported opinion of the Court of Special Appeals of 
+Maryland, Dyson v. State, 122 Md. App. 413, 712 A.2d 
+573 (1998), reversing the judgment of the Circuit Court for 
+St. Mary's County, is reproduced in Appendix B. (App. 
+2a-18a). 
+
+The August 26, 1997 unreported ruling of the Circuit 
+Court for St. Mary's County, Maryland in State v. Dyson, 
+Criminal Case No. 96-335, denying Dyson's motion to 
+
+
+suppress, is reproduced in Appendix C. (App. 19a-20a). 
+STATEMENT OF JURISDICTION 
+
+
+The decision of the Court of Special Appeals of 
+Maryland reversing Dyson's conviction was filed on June 
+30, 1998. The order of the Court of Appeals of Maryland 
+denying the State's petition for a writ of certiorari was 
+filed on October 9, 1998. This petition is filed within 
+ninety days of the denial of the petition for a writ of 
+certiorari, as required by Rule 13 of the Rules of the 
+Supreme Court. Therefore, jurisdiction of this Court is 
+properly invoked pursuant to 28 U.S.C. § 1257(a). 
+
+
+2 
+CONSTITUTIONAL PROVISION INVOLVED 
+
+
+United States Constitution, Amendment IV provides: 
+
+
+The right of the people to be secure in their persons, 
+houses, papers, and effects, against unreasonable 
+searches and seizures, shall not be violated, and no 
+Warrants shall issue, but upon probable cause, 
+supported by Oath or affirmation, and particularly 
+describing the place to be searched, and the persons or 
+
+
+things to be seized. 
+STATEMENT OF THE CASE 
+
+
+At 11:00 a.m. on July 2, 1996, Sergeant Lyle Long, a 
+23-year veteran of law enforcement, received a telephone 
+call from a confidential informant. (App. 12a). Long 
+previously had interviewed this informant to establish that 
+the informant knew of the dealers and local drug trade in 
+St. Mary's County, and he previously had used this 
+informant to obtain a drug conviction. (/d. at 11a-12a). 
+The informant told Long that Respondent, Kevin Dyson, 
+was in the New York City area that day for the purpose of 
+purchasing cocaine. (/d. at 13a). He further reported that 
+Dyson would be leaving New York at app. . ximately 
+
+11:00 a.m. that morning and returning to St. Mary's 
+County with the cocaine. (/d.). The informant advised 
+that Dyson would be driving an Enterprise rental car, a red 
+Toyota Corolla, with Maryland license tag number DDY 
+787. (Id.). Another male would be driving a second 
+vehicle, possibly a dark 280Z. 
+
+Long was able to corroborate much of the information 
+given by the informant. Long had independent 
+
+
+3 
+
+
+information from another source that Dyson was a supplier 
+of cocaine, who received his supply from New York. 
+(App. 13a). Using the tag number provided by the 
+informant, Long was also able to determine that the car 
+was owned by Enterprise Rental Company, and the 
+company subsequently advised that it had rented the 
+pee 7 Dyson. (/d. at 14a). 
+ased on the time that the informant said Dyson 
+New York, Long calculated that Dyson would os or 
+Mary's County at approximately 1:00 or 2:00 a.m. At 1:00 
+a.m., while the police were conducting surveillance 
+Dyson's vehicle was seen in St. Mary's County. (Jd. at 7a) 
+Dyson was driving a red Toyota, with the tag number 
+given by the informant, and a second car, a Nissan 280Z 
+we oe asi car. Once the police corroborated 
+¢ reliable informant's detailed tip, they s 
+and searched his vehicle. (/d.). asian ones of 
+crack cocaine were found in the trunk in a duffle bag. (/d. 
+at 7a, 18a). 
+Prior to trial, Dyson filed a motion to su 
+cocaine on the ground that the police ir qs aa 
+probable cause to search the vehicle. (/d. at 6a). 
+Alternatively, Dyson argued that, even if the police did 
+have probable cause to search, the warrantless search was 
+improper because there was sufficient time after the 
+—— tip to obtain a warrant. 
+suppression court rejected Dyson's 
+
+the warrantless search was illegal, ao Siduaen see vo 
+the Carroll doctrine,"' the police may search a vehicle 
+without a warrant if they have probable cause to believe 
+that evidence of crime is contained in the automobile and 
+
+
+' Carroll v. United States, 267 U.S. 132 (1925). 
+
+
+4 
+
+
+there are exigent circumstances attendant to the search. 
+(App.19a-20a). The court found that probable cause 
+existed once Dyson arrived in St. Mary's County pursuant 
+to the informant's tip. (/d.). Once the mobile vehicle was 
+stopped, exigent circumstances existed and the police were 
+not required to get a warrant. (/d. at 20a). 
+
+After Dyson was convicted of conspiracy to possess 
+cocaine with the intent to distribute, (App. 2a), he 
+appealed to the Court of Special Appeais of Maryland. 
+One of the arguments Dyson made was that the trial court 
+erroneously denied his motion to suppress the cocaine. 
+(Jd. at 2a). Maryland's intermediate appellate court 
+agreed. (/d. at 17a). 
+
+The court noted that one of the exceptions to the general 
+rule that a warrant be secured before a search is 
+undertaken is the "automobile exception." (App. 9a-1 1a). 
+The court stated that, in order to have a valid warrantless 
+search of an automobile pursuant to the automobile 
+exception, two conditions must coexist: 
+
+1) PROBABLE CAUSE to believe that evidence of 
+crime is contained in the automobile or 
+automobile equivalent; and 
+
+2) EXIGENCY. 
+
+(App. 1 1a). 
+
+With respect to the first condition, the court found that 
+ample probable cause was shown here. (/d. at 12a). 
+
+Probable cause existed based upon the reliable informant's 
+tip and the corroboration of that tip, including the 
+
+
+> The Court of Special Appeals of Maryland took issue 
+with this terminology and suggested that it would be more 
+appropriate to refer to this exception as the “Carroll 
+
+
+Doctrine." (App. 9a). 
+
+
+5 
+
+
+information Sergeant Long independently possessed and 
+the information he obtained regarding the rental of the red 
+Toyota to Dyson. (App. 12a-14a). 
+
+The court next examined what it held was a second 
+requisite condition, exigency. (App. 14a-17a). The court 
+Stated that exigency "arises from the ready mobility of the 
+automobile" and the risk of imminent disappearance of the 
+automobile. (/d. at 1la-12a). The court proclaimed that 
+if probable cause had developed at the time of the stop of 
+the moving vehicle at 1:00 a.m. on July 3, exigency would 
+have existed. (/d. at 15a). The court held, however, that 
+provable cause existed at approximately noon on July 2 
+after the call to the Enterprise Car Rental Company. (Id. 
+at 15a-16a). The court stated that in the absence of a 
+showing that it would have been impossible, or even 
+difficult, for the police to have obtained a search and 
+seizure warrant for Dyson's car prior to his anticipated 
+return to St. Mary's County, the State "failed to Carry its 
+burden of showing the type of exigency necessary to 
+exempt it from the warrant requirement." (/d. at 16a-17a). 
+Accordingly, the court held that the warrantless search was 
+“4 os pursuant to the automobile exception. (/d. 
+
+a). 
+
+The State of Maryland filed a petition for a writ of 
+certioran in the Court of Appeals of Maryland, contending 
+that the Court of Special Appeals misapplied Fourth 
+Amendment law in holding that exigent circumstances are 
+required to permit a warrantless search pursuant to the 
+“automobile exception." The Court of Appeals denied the 
+State's petition for writ of certiorari on October 9, 1998 
+(App. 1a). ; | 
+
+
+6 
+
+
+REASONS FOR GRANTING THE WRIT 
+I. 
+
+
+THE RULING OF THE COURT OF SPECIAL 
+APPEALS OF MARYLAND IS IN DIRECT 
+CONFLICT WITH THIS COURT'S 
+PRECEDENT. 
+
+
+The ruling of the Court of Special Appeals, that exigent 
+circumstances are necessary to uphold a warrantless 
+automobile search, is in direct conflict with this Court's 
+prior cases. Although the automobile exception was 
+initially based upon exigent circumstances occasioned by 
+the ready mobility of the automobile, Carroll v. United 
+States, 267 U.S. 132, 153 (1925), this Court subsequently 
+has "made clear that ready mobility is not the only basis 
+for the .:ention." California v. Carney, 471 U.S. 386, 
+391 (1985). In Carney, this Court noted that this 
+exception to the warrant requirement governs not only 
+because of the element of mobility, but also because "the 
+expectation of privacy with respect to a person's 
+automobile is significantly less than that related to one's 
+home or office." Jd. Thus, “[e]ven in cases where an 
+automobile was not immediately mobile, the lesser 
+expectation of privacy resulting from its use as a readily 
+mobile vehicle justified application of the vehicular 
+exception.” Jd. at 391. 
+
+To the extent that there was any doubt after Carney 
+about whether the prosecution was required to show 
+exigent circumstances to justify a warrantless search of an 
+automobile, this Court removed it in Pennsylvania v. 
+Labron, 518 U.S. 938 (1996) (per curiam). There, the 
+
+
+- 
+
+
+Supreme Court of Pennsylvania held, as the Maryland 
+Court of Special Appeals here held, that the Fourth 
+Amendment requires the police to obtain a warrant before 
+searching an automobile unless exigent circumstances are 
+present. Id. at 939. This Court reversed, noting that such 
+a holding rested "on an incorrect reading of the automobile 
+exception to the Fourth Amendment's warrant 
+requirement." Id. This Court noted that "[i]f a car is 
+readily mobile and probable cause exists to believe it 
+contains contraband, the Fourth Amendment thus permits 
+police to search the vehicle without more." Jd. at 940 
+citing California v. Carney, 471 U.S. at 393. 
+The Maryland court's ruling, that both probable cause 
+and exigency are required to sustain a search pursuant to 
+the automobile exception, is in direct conflict with this 
+Court's decisions in Carney and Labron. Accordingly 
+Maryland requests that this Court grant the petition and 
+summarily reverse the decision of the Court of Special 
+Appeals. 
+
+
+Il. 
+
+
+RELATED ISSUES ARE PENDING BEF 
+THIS COURT. sa 
+
+
+Even if this Court is not inclined to reverse the decision 
+of the Maryland Court of Special Appeals on the basis of 
+Carney and Labron, it should still hold the petition for writ 
+of certiorari pending this Court's disposition in White v. 
+State, 710 So. 2d 949 (Fla.), cert. granted sub nom 
+Florida v. White, 119 S. Ct. 508 (1998) (No. 98-223). 
+Both White and the instant case involve the requisite 
+conditions to invoke the automobile exception to the 
+
+
+8 
+
+
+Fourth Amendment's warrant requirement. 
+
+The issue in White is whether the Fourth Amendment 
+requires a warrant to seize and search a car under the 
+Florida Contraband Forfeiture Act. Pursuant to the 
+forfeiture statute, the police seized White's automobile 
+based upon probable cause to believe that the vehicle had 
+facilitated illegal drug activity at some time in the past. 
+White v. State, 710 So. 2d at 950. The Supreme Court of 
+Florida held that the warrantless seizure and search of 
+White's vehicle was not authorized pursuant to the 
+automobile exception because there was no probable cause 
+to believe that the vehicle contained contraband and there 
+were no exigent circumstances preventing the police from 
+obtaining a warrant. /d. at 952-54. 
+
+The ruling of the Supreme Court of Florida, that a 
+search and seizure pursuant to the automobile exception 
+requires an independent showing of exigency that made it 
+difficult for the police to obtain a warrant, id. at 955, like 
+the decision of the Court of Special Appeals here, is 
+contrary to the clear language of Carney and Labron. In 
+deciding White, this Court has the opportunity to lay to 
+rest any remaining confusion regarding whether a showing 
+of exigency is a prerequisite to a search or seizure pursuant 
+
+
+> This Court is scheduled to hear another case this Term 
+involving the automobile exception, Houghton v. State, 
+956 P.2d 363 (Wyo.), cert. granted sub nom. Wyoming v. 
+Houghton, 119 S. Ct. 31 (1998) (No. 98-184). That case 
+involves the proper scope of a search pursuant to the 
+automobile exception, i.e., whether a search of a 
+passenger's purse is within the scope of a legitimate 
+warrantless automobile search based on probable cause to 
+believe that the driver had concealed contraband in the car. 
+
+
+9 
+
+
+to the automobile exception. A ruling on this issue will be 
+dispositive of the instant case. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the State of Maryland 
+respectfully requests that the petition for writ of certiorari 
+be granted and the decision of the Court of Special 
+Appeals be summarily reversed in accordance with Carney 
+and Labron. Alternatively, Maryland requests that the 
+petition for writ of certiorari be held pending this Court's 
+disposition in Florida v. White, and that it be disposed of 
+in light of the Court's decision in that case. 
+
+
+Respectfully submitted, 
+
+
+J. JOSEPH CURRAN, JR. 
+Attorney General of Maryland 
+
+
+Gary E. BAIR* 
+KATHRYN GRILL GRAEFF 
+Assistant Attorneys General 
+
+
+* Counsel of Record Counsel for Petitioner 
+
+
+December 31, 1998 
+
+
+APPENDIX 
+
+
+e) 
+
+
+CONTENTS OF APPENDIX 
+
+
+APPENDIX A: 
+
+
+_ Reported order of the Court of Appeals of 
+
+
+Maryland, filed October 9, 1998, 
+State of Maryland v. Kevin Darnell Dyson, 
+351 Md. 287, 718 A.2d 235 (1998) 
+
+
+APPENDIX B: 
+
+
+Reported opinion of the Court of Special 
+Appeals of Maryland, Kevin Darnell 
+Dyson v. State of Maryland, 122 Md. App. 413, 
+712 A.2d 573 (1998) 
+
+
+et Qe CR SS 
+
+
+la 
+APPENDIX A 
+STATE OF MARYLAND * IN THE 
+* COURT OF APPEALS 
+v. * OF MARYLAND 
+* Petition Docket No. 351 
+KEVIN DARNELL DYSON* September Term, 1998 
+
+
+(No. 1527, Sept. Term, 
+* 1997, Court of Special 
+
+
+Appeals) 
+ORDER 
+
+Upon consideration of the petition for a writ of 
+certiorari to the Court of Special Appeals, in the above 
+entitled case, it is 
+
+ORDERED, by the Court of Appeals of Maryland, 
+that the petition be, and it is hereby, denied as there has 
+been no showing that review by certiorari is desirable and 
+in the public interest. 
+
+
+/s/ Robert M. Bell 
+
+
+Chief Judge 
+
+
+Date: OCT 9 1998 
+
+
+2a 
+APPENDIX B 
+
+
+KEVIN DARNELL DYSON 
+
+
+v. 
+STATE OF MARYLAND 
+No. 1527, Sept. Term, 1997. 
+
+
+Court of Special Appeals of Maryland. 
+
+
+June 30, 1998 
+
+
+Submitted before MURPHY, C-.J., MOYLAN, J., and 
+JOHN J. BISHOP, Jr., Judge (retired), Specially Assigned. 
+
+
+MOYLAN, Judge. 
+
+
+In a non-jury trial in the Circuit Court for St. Mary's 
+County, the appellant, Kevin Darnell Dyson, was 
+convicted of conspiracy to possess cocaine with intent to 
+distribute. On this appeal, he raises the two contentions 
+
+1. that the trial court erroneously denied his motion to 
+
+dismiss the indictment because of the State's failure to 
+bring him to trial within 180 days; and 
+
+2. that the trial court erroneously denied his motion to 
+
+suppress the physical evidence. 
+
+
+3a 
+The Forfeiture of the Right to Complain 
+
+
+We see no merit in the appeilant's first contention. 
+Following his indictment on July 29, 1996, the appellant 
+first appeared before the court for arraignment on 
+September 6. That was the day, therefore, on which the 
+180-day clock of Maryland Rule 4-271 began to tick. 
+Pursuant to the Rule, the appellant was entitled to a trial on 
+or before March 4, 1997. Trial was initially set for 
+January 7. On January 3, the State moved for a 
+postponement of the trial date and that motion was 
+granted. The trial was subsequently set for April 15. That 
+January 3 postponement, therefore, turned out to be the 
+critical postponement that caused the trial to be held 
+beyond the 180-day deadline. 
+
+The appellant's present complaint that the 1 80-day rule 
+was violated because of the failure of the court to conduct 
+a "good cause” hearing before the administrative judge, 
+however, is quite beside the point. Even assuming a 
+violation of Rule 4-271 and Article 27, § 591, the 
+appellant, himself a party to the violation, may not exploit 
+it. 
+
+The appellant overlooks two closely related and very 
+fundamental principles. When an attorney represents a 
+client in the trial of a lawsuit, the attorney 1) is not a party 
+to the lawsuit and 2) is not a stranger to his client, 
+notwithstanding a discernible tendency of defendants to 
+distance themselves from defense counsel whenever a trial 
+goes badly. The attorney is the agent of the client. With 
+limited exceptions not here pertinent, the defense attorney, 
+therefore, is authorized by basic principles of agency to 
+make decisions for a defendant that are binding on the 
+defendant. 
+
+
+4a 
+
+
+When the State, in January of 1997, sought a 
+postponement of the January 7 trial date in order to obtain 
+a transcript of testimony taken at a motions hearing on 
+December 30, 1996, counsel for the appellant expressly 
+stated that he had no objection to such a postponement. 
+There was still, to be sure, ample time within which to 
+reschedule the trial before the March 4 deadline. it was 
+defense counsel, however, who indicated that he would be 
+out of the state for the entire month of February. A 
+scheduling accommodation for the benefit of defense 
+counsel is presumptively an aspect of the total defense 
+interest and not something antithetical to it. On behalf of 
+the appellant, therefore, there was filed, through his 
+attorney, a "Waiver of the 180-Day Rule." The appellant, 
+with ill grace, now seeks to repudiate that action taken by 
+his agent on his behalf. He may not do so. 
+
+In State v. Brown, 307 Md. 651, 658, 516 A.2d 965 
+(1986), the Court of Appeals, through Judge Eldridge, 
+flatly characterized the sanction of dismissal as 
+inappropriate when a defendant, directly or through 
+counsel, has consented to such postponement: 
+
+Finally, even when a circuit court criminal case has 
+been postponed beyond the 1 80-day limit in violation of 
+§ 591 and Rule 746, the sanction of dismissal is 
+inapplicable "where the defendant, either individually or 
+by his attorney, seeks or expressly consents to a trial 
+date in violation of Rule 746." State v. Hicks, supra, 285 
+Md. [310] at 335, 403 A.2d 356 [1979]. See Pennington 
+v. State, supra, 299 Md.[23] at 28-29, 472 A.2d 447 
+[1984]; State v. Frazier, supra, 298 Md. [442] at 447 n. 
+17, 470 A.2d 1269 [1984]; Goins v. State, supra, 293 
+Md. [97] at 108, 442 A.2d 550 [1982]. This is not 
+because the defendant, by his action or consent, has 
+
+
+—o 
+
+
+a 
+
+
+Sa 
+
+
+"waived" the requirements of § 591 and Rule 746, so that 
+
+the requirements are inapplicable. Rather, it is because 
+
+"[iJt would . . . be entirely inappropriate for the 
+
+defendant to gain advantage from a violation of the rule 
+
+when he was a party to that violation." State v. Hicks, 
+
+supra, 285 Md. at 335, 403 A.2d 356. 
+
+(Emphasis supplied). 
+
+As recently as Jackson v. State, 120 Md. App. 113, 136- 
+37, 706 A.2d 156 (1998), Judge Eyler for this Court 
+referred to the inappropriateness of the dismissal sanction 
+a the defendant has consented to the violation of the 
+
+e: 
+
+Under Hicks and its progeny, when a trial date is 
+
+postponed beyond the 180 day period, without a finding 
+
+of the requisite cause by the administrative judge or his 
+or her designee, dismissal is mandatory unless the 
+defendant seeks or expressly consents to a trial date in 
+
+violation of the rule. State v. Parker, 347 Md. 533, 537- 
+
+38, 702 A.2d 217 (1995); Goins, 293 Md. at 107-08, 442 
+
+A.2d 550; Franklin [v. State], 114 Md. App. [530] at 
+
+534, 691 A.2d 257 [1997]. 
+
+(Emphasis in original). 
+
+The actions of counsel in this regard, moreover, are 
+binding on a defendant and are not sapped of vitality 
+simply because the defendant has not directly or 
+personally participated in the decision-making process. In 
+Woodlock v. State, 99 Md. App. 728, 738, 639 A.2d 188 
+(1994), Judge Getty observed for this Court: 
+
+Where counsel, being aware of the Rule, consents to a 
+trial date beyond the limitations set by the Rule, 
+dismissal would be an inappropriate sanction for non- 
+compliance. 
+
+(Emphasis supplied). 
+
+
+6a 
+
+
+In criminal cases, defense counsel 1) are presumed to 
+know the law; 2) are empowered, with exceptions not 
+here pertinent, to act on behalf of their clients; and 3) are, 
+in the absence of clear evidence to the contrary, deemed to 
+have acted on behalf of their clients. These principles 
+were lucidly articulated by Judge Wilner for this Court in 
+State v. Lattisaw, 48 Md. App. 20, 28-29, 425 A.2d 1051 
+(1981): 
+
+Defense counsel presumably can count to 180 as well 
+as prosecutors, they know when they entered their 
+appearances—when the clock began to tick—and they 
+can figure out when the time under the Rule expires. 
+These were not inexperienced counsel; according to the 
+record, both attorneys had extensive background in the 
+trial of criminal cases and were well aware of both the 
+Rule and the interpretation given to it in Hicks. They 
+both agreed to the June 9 date because it was convenient 
+to them and, in the absence of any contrary indication, 
+we assume was acceptable to their clients... . To 
+require dismissal of an indictment in such a case would 
+be tantamount to doing precisely what the Court said 
+was inappropriate—permitting "the defendant to gain 
+advantage from a violation of the rule when he [through 
+counsel] was a party to that violation.” 
+
+(Footnote omitted; emphasis in [sic] supplied). 
+
+
+The Carroll Doctrine Exception to 
+the Warrant Requirement 
+
+
+The appellant will fare better, however, with his second 
+contention. He claims that at a pre-trial hearing on his 
+motion to suppress physical evidence, the hearing judge 
+erroneously declined to suppress the evidence. The 
+
+
+ri ~ S9 S diieaall 
+
+
+tite —— ——— 
+
+
+7a 
+
+
+evidence consisted of 23 grams of cocaine and 
+approximately $3,150 in U.S. currency. The evidence was 
+seized by deputy sheriffs of the St. Mary's County Sheriff's 
+Department at approximately 1 A.M. on the morning of 
+July 3, 1996. It was discovered as a result of the 
+warrantless search of a red Toyota that had been rented by 
+the appellant several days earlier from the Enterprise 
+Rental Company and was, immediately prior to its stop 
+and search, being driven by the appellant on Route 235 in 
+the vicinity of Lexington Park. It is the Fourth 
+Amendment propriety of that warrantless search that 
+concems us in this case. 
+
+The core protection of the Fourth Amendment is the 
+warrant requirement. As a general rule, nothing less than 
+probable Cause will justify an intrusion, even in the service 
+of the investigative imperative, into a protected area, such 
+as an individual's home, automobile, luggage, or pockets. 
+The purpose of the warrant requirement is to make sure 
+that the determination as to whether probable cause exists 
+will be made, whenever reasonably possible, by a neutral 
+and detached member of the judicial branch of government 
+rather than by a member of the executive branch engaged 
+in the investigation and prosecution of crime. The notion 
+is that, absent some dire emergency, you should not be 
+permitted to “call the balls and strikes" if you are a player 
+on one of the competing teams. It is preferable, when 
+feasible, to have a disinterested umpire make those 
+delicate judgments. The principle was best expressed by 
+Justice Robert Jackson in Johnson v. United States, 333 
+U.S. 10, 13, 68 S.Ct. 367, 92 L.Ed. 436 (1948): 
+
+The point of the Fourth Amendment, which often is 
+not grasped by zealous officers, is not that it denies law 
+enforcement the support of the usual inferences which 
+
+
+iii i 
+
+
+8a 
+
+
+reasonable men draw from evidence. Its protection 
+
+consists of requiring that those inferences be drawn by a 
+
+neutral and detached magistrate instead of being judged 
+
+by the officer engaged in the often competitive enterprise 
+of ferreting out crime. 
+
+The guidelines for implementing that warrant 
+requirement were succinctly spelled out by Coolidge v. 
+New Hampshire, 403 U.S. 443, 454-55, 91 S.Ct. 2022, 29 
+L.Ed.2d 564 (1971): 
+
+[T]he most basic constitutional rule in this area is that 
+
+"searches conducted outside the judicial process, without 
+
+prior approval by judge or magistrate, are per se 
+
+unreasonable under the Fourth Amendment—subject 
+only to a few specifically established and well-delineated 
+exceptions." The exceptions are "jealously and carefully 
+drawn," and there must be "a showing by those who seek 
+exemption . . . that the exigencies of the situation made 
+that course imperative." "[T]he burden is on those 
+seeking the exemption to show the need for it.” 
+
+(Footnotes omitted). 
+
+The command of the Fourth Amendment is simple. 
+When the police wish to search a home or an automobile 
+for evidence of crime, the expected way to do 
+business—the norm—is for them to obtain a judicially- 
+
+issued search and seizure warrant. As a practical matter, 
+however, it is not always possible to do so. When, 
+therefore, it is not possible or feasible to obtain a warrant 
+because of some exigency, the police will be exempted 
+from the warrant requirement. Such exemptions, however, 
+are the exceptions to the rule and not the rule itself. The 
+command of the Fourth Amendment to the American 
+police officer and the American prosecutor is simple: 
+
+
+9a 
+
+
+"You always have to get a warrant— 
+UNLESS YOU CAN'T." 
+
+
+The burden, moreover, is always on the party claiming 
+that he could not get a warrant to establish to the 
+satisfaction of the court precisely why he could not. The 
+police must set forth the exceptional circumstances that 
+justify the exceptional departure from the norm. As a 
+general rule when dealing with any exception to the 
+warrant requirement, the State must rebut the presumptive 
+unreasonableness of a warrantless search and seizure by 
+showing that the set of necessary preconditions for the 
+exception in question has been satisfied. The burden is not 
+that difficult. It is a burden, however, that may not be 
+ignored. 
+
+The exception to the warrant requirement that the State 
+relies on in this case is the so-called “automobile 
+exception” or the better-called "Carroll Doctrine." A brief 
+word may be in order as to preferred terminology. The use 
+of the term "Carroll Doctrine" for this exception avoids 
+some possible confusion emanating from the fact that 
+"automobile exception," as a term, is both under-inclusive 
+and over-inclusive. 
+
+It is an under-inclusive term because it fails to make 
+expressly clear that it covers legitimate warrantless 
+intrusions into many repositories of possible evidence that 
+are not literally automobiles. Included are such obvious 
+automobile equivalents as trucks, United States v. Johns, 
+469 U.S. 478, 105 S.Ct. 881, 83 L.Ed.2d 890 (1985), and 
+buses. Also included, however, are other possible 
+repositories that share with the automobile the 
+characteristics of 1) ready mobility, California v. Carney, 
+471 U.S. 386, 105 S.Ct. 2066, 85 L.Ed.2d 406 (1985) and 
+
+
+10a 
+
+
+2) a lesser expectation of privacy, Cady v. Dombrowski, 
+413 U.S. 433, 93 S.Ct. 2523, 37 L.Ed.2d 706 (1973); 
+Cardwell v. Lewis, 417 U.S. 583, 94 S.Ct. 2464, 41 
+L.Ed.2d 325 (1974). Covered would be such slightly less 
+obvious automobile equivalents as motorcycles; bicycles; 
+motor homes, California v. Carney, supra; motorboats; 
+sailboats, United States v. Villamonte-Marquez, 462 U.S. 
+579, 103 S.Ct. 2573, 77 L.Ed.2d 22 (1983); airplanes; 
+wagons; horses with saddlebags; and even suitcases or 
+other containers, California v. Acevedo, 500 U.S. 565, 111 
+S.Ct. 1982, 114 L.Ed.2d 619 (1991). 
+
+Conversely, the term "automobile exception" is over- 
+inclusive because it seems to cover all legitimate 
+warrantless intrusions into the interior of an automobile 
+when, in fact, it does not. Many legitimate warrantless 
+intrusions into the interiors of automobiles are justified by 
+something other than the combination of 1) probable cause 
+and 2) exigency required by the Carroll Doctrine. An 
+intrusion into an automobile may be justified, for instance, 
+as a search incident to lawful arrest. Preston v. United 
+States, 376 U.S. 364, 84 S.Ct. 881, 11 L.Ed.2d 777 (1964); 
+New York v. Belton, 453 U.S. 454, 101 S.Ct. 2860, 69 
+L.Ed.2d 768 (1981). An automobile may be warrantlessly 
+stopped and searched as a "stop" within the contemplation 
+of Terry v. Ohio, 392 U.S. 1, 88 S.Ct. 1868, 20 L.Ed.2d 
+889 (1968). United States v. Cortez, 449 U.S. 411, 101 
+S.Ct. 690, 66 L.Ed.2d 621 (1981). An automobile may be 
+warrantlessly entered as part of a "“frisk" within the 
+contemplation of Terry v. Ohio. Adams v. Williams, 407 
+U.S. 143, 92 S.Ct. 1921, 32 L.Ed.2d 612 (1972); Michigan 
+v. Long, 463 U.S. 1032, 103 S.Ct. 3469, 77 L.Ed.2d 1201 
+(1983). Items may be warrantlessly seized from an 
+automobile, following a prior valid intrusion for some 
+
+
+lla 
+
+
+other purpose, pursuant to the Plain View Doctrine. Cady 
+v. Dombrowski, 413 U.S. 433, 93 S.Ct. 2523, 37 L.Ed.2d 
+706 (1973); Cooper v. California, 386 U.S. 58, 87 S.Ct. 
+788, 17 L.Ed.2d 730 (1967). An automobile may be 
+warrantlessly searched by virtue of the consent exception. 
+Schneckloth v. Bustamonte, 412 U.S. 218, 93 S.Ct. 2041, 
+36 L.Ed.2d 854 (1973); Florida v. Jimeno, 500 U.S. 248, 
+111 S.Ct. 1801, 114 L.Ed.2d 297 (1991). All of these 
+valid warrantless searches of and seizures from 
+automobiles have nothing to do with the so-called 
+"automobile exception." See also Moylan, The 
+Automobile Exception: What It is and What It Is Not—A 
+Rationale in Search of a Clearer Label, 27 Mercer L.Rev. 
+987 (1976). 
+
+Yielding seniority only to a warrantless search incident 
+to lawful arrest, which comes to us from English common 
+law, see discussion in Chimel y. California, 395 U.S. 752, 
+89 S.Ct. 2034, 23 L.Ed.2d 685 ( 1969), the legal 
+phenomenon of a legitimate warrantless search of an 
+automobile is the second oldest of what are now the firmly 
+rooted exceptions to the warrant requirement. It was first 
+recognized in the eponymic case of Carroll v. United 
+States, 267 U.S. 132, 45 S.Ct. 280, 69 L.Ed. 543 (1925). 
+For a good Carroll Doctrine search of an automobile, two 
+conditions must coalesce: 
+
+1) PROBABLE CAUSE to believe that evidence of 
+crime is contained in the automobile or automobile 
+equivalent; and 
+
+2) EXIGENCY. 
+
+The exigency arises from the ready mobility of the 
+automobile or automobile equivalent. It is the risk of 
+imminent disappearance of the automobile or automobile 
+equivalent and, more significantly, the subsumed risk of 
+
+
+12a 
+
+
+the imminent disappearance of the probable evidentiary 
+contents of that automobile or automobile equivalent if the 
+police are not permitted to "seize the current as it serves.”" 
+
+
+Probable Cause 
+
+
+The appellant argues that the State lacked the probable 
+cause required by the Carroll Doctrine for the warrantless 
+search of his automobile. We fully agree with the State, 
+however, that the probable cause to believe that the 
+automobile contained narcotic drugs was abundant. 
+Sergeant Lyle E. Long was a 23-year veteran of law 
+enforcement, who had been assigned to the Narcotics 
+Section of the St. Mary's County Sheriff's Department for 
+approximately ten years. 
+
+It was at 11 A.M. on July 2, 1996 when he received the 
+critical telephone call from a confidential informant. A 
+key component of the probable cause in this case was the 
+probable reliability of that informant. It was not an 
+anonymous informant but one with whom Sergeant Long 
+had a previous working relationship. The informant had, 
+moreover, what the case law calls "a good track record.” 
+The informant had, while working with Sergeant Long, 
+made a controlled buy from a private residence that led to 
+the issuance of an earlier search and seizure warrant. The 
+execution of that warrant, in turn, uncovered a substantial 
+quantity of crack cocaine and resulted in a criminal 
+conviction. Sergeant Long also carefully pointed out that 
+
+he had never received information from the confidential 
+informant that was found to be false or misleading. 
+
+
+' William Shakespeare, Julius Caesar, Act IV, Scene 3. 
+
+
+l3a 
+
+
+informant and established the informant's knowledge as to 
+the narcotics traffic generally and as to narcotics activity 
+in St. Mary's County specifically. 
+
+_ The informant told Sergeant Long that the appellant was 
+in the New York City area on that day (July 2) for the 
+purpose of purchasing cocaine. He further reported to 
+Sergeant Long that the appellant would be leaving New 
+York at 11 A.M. that morning and would be returning to 
+St. Mary's County with the cocaine. He informed the 
+Sergeant that the appellant was operating a red Toyota 
+with Maryland license tag number DDY 787. He 
+informed Sergeant Long that the red Toyota was a rental 
+vehicle. 
+
+By way of buttressing reliability, the information from 
+the informant was very specific and very detailed. That 
+factor is what the case law has called "self-verifying 
+detail." See Jackson v. State, 81 Md. App. 687, 693, 569 
+A.2d 712 (1990). Such detail has generally been accepted 
+as a way of showing that the informant had first-hand 
+knowledge and was not passing on some mere generalized 
+rumor. 
+
+_ An additional corroborating factor was the information 
+independently possessed by Sergeant Long himself. 
+Sergeant Long indicated that he was already familiar with 
+the appellant prior to receiving the July 2 telephone call. 
+He indicated that he had received information that the 
+appellant was a supplier of cocaine in the Lexington Park 
+area of St. Mary's County. Sergeant Long indicated that 
+he knew the appellant by sight. By way of corroborating 
+the fact that the appellant was operating a rental car. 
+Sergeant Long knew independently that the appellant had 
+recently had an accident with his own car and was, 
+
+
+l4a 
+
+
+therefore, in need of finding some substitute vehicle. 
+
+Further corroboration of the telephone conversation was 
+immediately forthcoming. Sergeant Long checked the 
+Maryland tag number that had been given him by the 
+informant with the Department of Motor Vehicles and 
+learned that that tag for a red Toyota Corolla had been 
+issued to the Enterprise Rental Car Company. Sergeant 
+Long then checked with Enterprise and learned that the red 
+Toyota in question had been rented by Enterprise to the 
+appellant. 
+
+Based on detailed information from a reliable informant 
+and on significant independent corroboration of that 
+information, the police had abundant probable cause to 
+believe that cocaine was being carried in the appellant's 
+automobile. 
+
+
+The Exigency Component of the Carroll Doctrine 
+
+
+The word "automobile" is not a talisman in whose 
+presence the Fourth Amendment fades away and 
+disappears. 
+
+... Coolidge v. New Hampshire, 403 U.S. 443, 461, 91 
+
+S.Ct. 2022, 2035, 29 L.Ed.2d 564, 580 (1971) 
+
+It is the second of the Carroll Doctrine's necessary 
+preconditions for a warrantless search that concerns us in 
+this case. Was there an exigency that prevented the police 
+from obtaining a search warrant for the appellant's car or 
+that even made it significantly difficult to obtain such a 
+search warrant? 
+
+The critical confrontation by the St. Mary's County 
+Sheriffs Department and the appellant's automobile 
+occurred at 1 A.M. on July 3 on a rural roadway. Standing 
+at that critical moment in time, Fourth Amendment 
+
+
+15a 
+
+
+exigency, like the Roman god Janus, looks both forward 
+and backward in time. Looking forward, no one can 
+contest the State's argument that exigency existed. A 
+readily movable, let alone a moving, automobile on a rural 
+highway in the wee hours of the morning poses a heavy 
+risk of disappearance. Exigency looking in that direction, 
+however, is not our concern in this case. 
+
+Our concern is with the thirteen or fourteen hours that 
+preceded that 1 A.M. confrontation. The question is not 
+whether exigency existed at 1 A.M. on July 3. It is 
+whether exigency existed at High Noon on July 2. 
+
+It is im,ortant that our decision in this case not be read 
+overbroadly. The courts will not stand with a stopwatch 
+monitoring the police effort with stern scrutiny. Heroic 
+efforts to satisfy the warrant requirement are not 
+demanded of them. The general reasonableness of their 
+efforts is all that is realistically required. The courts will 
+continue to be understanding of practical police difficulties 
+and will be indulgent—-TO A POINT. The exigency 
+requirement is not non-existent, however, and may not be 
+blithely ignored. 
+
+The bulk of the probable cause in this case had been 
+established when Sergeant Long put down the telephone 
+shortly after 11 A.M. on July 2. Much of the 
+corroboration of the telephoned information already 
+existed in his head. Further significant corroboration 
+required nothing more than two easy and routine telephone 
+calls—one to the Department of Motor Vehicles and the 
+second to the Enterprise Car Rental Company. Although 
+that corroboration might have been a fait accompli as early 
+as 11:20 or 11:30 A.M., we will round it off, for purposes 
+of further discussion, at noon. 
+
+As of that corroboration, the probable cause in this case 
+
+
+l6a 
+
+
+was not marginal; it was abundant. With it in hand, the 
+Sheriffs Department clearly had the fully intended 
+purpose of searching the appellant's vehicle once it could 
+be located. As the officers later set out to execute that 
+purpose, theirs was no mere contingent or conditional 
+mission depending on one final piece of the puzzle falling 
+into place. The Sheriff's Department by mid-day on July 
+2 had all of the probable cause it thought it needed. The 
+Sheriff's Department, moreover, was right in that regard. 
+The question for us is whether it was realistically feasible 
+for them, at that time, to have applied for a search warrant. 
+
+Had the probable cause in this case jelled during the 
+evening hours or over a weekend, the result might not be 
+the same. In this case, however, the probable cause jelled 
+by roughly noon on Tuesday, July 2, 1996, a working day. 
+Had the probable cause been developed at some remote 
+observation post, the result might not be the same. In this 
+case, however, the probable cause was developed in 
+downtown Leonardtown, the county seat. Had the 
+probable cause required some fifteen pages of tightly 
+packed data and had no stenographic resources been 
+available, the result might not be the same. In this case, 
+however, the probable cause was developed in the 
+headquarters building of the Sheriff's Department and 
+could easily have been typed within the four corners of a 
+single page. Had geographic or climatic conditions made 
+access to a judge difficult, the result might not be the 
+same. In this case, however, the Sheriff's Department 
+shared a parking lot with the county courthouse, where 
+two circuit judges normally reside, and a third judge sits at 
+the District Court a short distance away. 
+
+In short, the State has failed to carry its burden of 
+showing the type of exigency necessary to exempt it from 
+
+
+17a 
+
+
+the warrant requirement. It has not shown that it would 
+have been impossible, or even particularly difficult, for the 
+Sheriff's Department to have obtained a judicially-issued 
+search and seizure warrant for the appellant's car. Absent 
+such a showing, the State may not resort to the Carroll 
+Doctrine as a reasonable exemption from the warrant 
+requirement. The warrantless search under the 
+circumstances was not reasonable within the 
+contemplation of the Fourth Amendment. 
+
+
+Epilogue 
+
+
+Although the warrantless search of the appellant's 
+automobile in this case could not be justified under a 
+Carroll Doctrine rationale, we entertained the possibility 
+that it might nonetheless be salvaged under a different 
+rationale, to wit, as a search incident to lawful arrest. The 
+same probable cause that pointed to contraband narcotics 
+being in the appellant's automobile also pointed to the 
+appellant himself as one then engaged in the lawful 
+possession of such narcotics. That probable cause justified 
+the warrantless arrest of the appellant. A warrantless 
+arrest, provided it is not inside a house, is not subject to 
+the same exigency requirement that inhibits a Carroll 
+Doctrine search of an automobile. United States v. 
+Watson, 423 U.S. 411, 96 S.Ct. 820, 46 L.Ed.2d 598 
+(1976). When one is arrested, moreover, inside of an 
+automobile or standing close by an automobile, the 
+permitted scope of the automatically available search 
+incident—the Chime! perimeter—embraces the passenger 
+compartment of the automobile. New York v. Belton, 453 
+U.S. 454, 101 S.Ct. 2860, 69 L.Ed.2d 768 (1981). 
+
+Had the evidence in this case been found in the 
+
+
+18a 
+
+
+passenger compartment of the appellant's automobile, the 
+warrantless search for and seizure of it would have been 
+reasonable as a search incident to the appellant's lawful 
+arrest even though, as we have held, it was not reasonable 
+under the Carroll Doctrine. Unfortunately for the State, 
+however, the alternative theory is of no avail. The 
+evidence in this case was found by the Sheriff's 
+Department inside a duffel bag in the trunk of the 
+appellant's automobile. That was beyond even the 
+arbitrarily extended Chimel perimeter afforded by New 
+York v. Belton. The warrantless search of the automobile 
+in this case, therefore, had to rise or fall according to the 
+Carroll Doctrine. 
+
+JUDGMENT REVERSED; COSTS TO BE PAID BY 
+ST. MARY'S COUNTY. 
+
+
+19a 
+APPENDIX C 
+
+
+[Trial court's August 26, 1997 ruling, in the Circuit Court 
+for St. Mary's County, Maryland, the Honorable Marvin S. 
+Kaminetz, State of Maryland v. Kevin D. Dyson, Criminal 
+Case No. 96-335] 
+
+
+Counsel, the court has certainly listened to your fine 
+arguments, listened to the testimony very carefully. 
+What the court does find is certainly that the law does 
+require -- that the Carroll doctrine is an exception to the 
+requirement of a warrant, and the exigency is still 
+required under the Fourth Amendment for the Carroll 
+doctrine to apply. Just because it is an automobile 
+doesn't mean, does not mean that the requirement of 
+exigency or urgency goes away. 
+
+The Supreme Court has spoken on that issue. There 
+are Maryland cases along those lines. I have looked at 
+a couple of cases during the recess. I have looked at 
+United States versus Johns, which is 469 U.S. 478, a 
+1985 case; Florida versus Myers, 463 U.S. 380. I have 
+looked at Fowler versus State, which is 79 Md. App. 
+517. Cert was denied in this particular case. | do find 
+there were exigent circumstances in the case. I find 
+there was probable cause and the required exigent 
+circumstances. 
+
+The police officers had a tip from a person they 
+considered reliable. They acted and reacted upon that 
+tip. They intended to corroborate the evidence as best 
+they could based upon the information they had from 
+their confidential informant. Before this stop was made 
+they had corroborated -- the last step in the 
+corroboration in this particular case was the verification 
+
+
+20a 
+
+
+of the tag number, the vehicle, and the place that it was 
+said that it was going to be. Then stopping the vehicle 
+at that particular point once they had their 
+corroboration, that created an exigent circumstance. 
+They couldn't stop the vehicle and hold the vehicle at 
+the curbside and then go get a warrant. 
+
+I think they were justified in making the search based 
+upon the circumstances after they corroborated the 
+information that they had from their confidential 
+informant. The court is going to deny the motion to 
+suppress for the reasons stated. 
+
+

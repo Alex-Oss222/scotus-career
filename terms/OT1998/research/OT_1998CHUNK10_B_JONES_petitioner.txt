@@ -1,0 +1,3812 @@
+Supreme Court of the United States 
+October Term, 1998 
+
+
+o 
+
+
+LOUIS JONES, JR., 
+
+
+Petitioner, 
+v. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
++ 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Fifth Circuit 
+
+
+e 
+
+
+BRIEF FOR PETITIONER 
+
+
+> 
+TimwotHy CrRrooxs* Timotuy W. FLoyp 
+Assistant Federal Public Professor of Law 
+Defender Texas Tech University Law 
+
+
+600 Texas Street, Sriite 100 School 
+
+Fort Worth, TX 76102-4612 18th & Hartford 
+
+(817) 978-2753 Lubbock, TX 79409 
+(806) 742-3982 
+
+
+Counsel for Petitioner 
+
+
+*Counsel of Record 
+
+
+eo. 8 a ay " 
+eae oo, is = < “Ww 
+Waele eS ag ot CE 
+
+
+i 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether there is a reasonable likelihood that the 
+jury instructions led the jury to believe that deadlock on 
+the venalty recommendation would result in a court- 
+imposed sentence less severe than life imprisonment. 
+
+
+2. Whether petitioner was entitled to a jury instruc- 
+tion that the jury’s failure to agree on a sentencing recom- 
+mendation would result in a court-imposed sentence of 
+life imprisonment without possibility of release. 
+
+
+3. Whether the court of appeals correctly held that 
+the submission of invalid nonstatutory aggravating fac- 
+tors was harmless beyond a reasonable doubt. 
+
+
+1. 
+2. 
+
+
+LIST OF PARTIES 
+
+
+United States of America 
+
+
+Louis Jones, Jr. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHIORITIES ............0cccccceccees vi 
+SCG CCCs es ckduerconcedcecceesces: 1 
+Sab abi ence shacns ccccsedvevevesss ] 
+CONSTITUTIONAL AND STATUTORY PROVI- 
+EE duidboneudépsncecvecrcccsess 1 
+EGE ME SGU deve edcdvesceccrccecoceseces 1 
+A. Statutory Background ....................... 1 
+B. Facts Lending to Indictment................. 4 
+C. Trial, Sentencing, and Appeal................ 5 
+SUMMARY OF ARGUMENT.................6.0005. 14 
+et ieti A ivesbekcecesseccve secacccces 17 
+
+
+I. THERE WAS AT LEAST A REASONABLE LIKE- 
+LIHOOD THAT THE JURY INSTRUCTIONS 
+AND VERDICT FORMS LED THE JURY TO 
+BELIEVE THAT DEADLOCK ON THE PEN- 
+ALTY RECOMMENDATION WOULD RESULT 
+IN A COURT-IMPOSED SENTENCE LESS 
+SEVERE THAN LIFE IMPRISONMENT........ 17 
+
+
+EE 17 
+
+
+B. The Court of Appeals Erred in Holding that 
+There Was No Reasonable Likelihood that 
+the Jury Instructions and Verdict Forms Sub- 
+mitted to the Jury Misled the Jury........ 18 
+
+
+C. The Reasonable Likelihood that the Jury 
+Erroneously Interpreted the Instructions 
+and Verdict Forms in the Fashion Discussed 
+Here Requires Reversal of Petitioner's 
+SE  decotnascccccscevesveceess 25 
+
+
+Il. 
+
+
+iv 
+
+
+TABLE OF CONTENTS -— Continued 
+
+
+Page 
+1. Nonconstitutional bases for reversal... 26 
+2. Constitutional bases for reversal....... 30 
+
+
+PETITIONER WAS ENTITLED TO A JURY 
+INSTRUCTION THAT THE JURY’S FAILURE TO 
+AGREE ON A SENTENCING RECOMMENDA- 
+TION WOULD RESULT IN A COURT-IMPOSED 
+SENTENCE OF LIFE IMPRISONMENT WITHOUT 
+POSSIBILITY OF RELEASE... ......cccccccccess 
+
+
+A. Under the FDPA as Applied to this Case, 
+Jury Deadlock Would Have Resulted in a 
+Court-Imposed Sentence of Life Imprison- 
+ment Which was Perforce Without the Pos- 
+sibility of Parole or Release............... 
+
+
+B. The Failure to Give Such an Instruction 
+Requires Reversal of Petitioner's Death Sen- 
+SOD 6 6 660 0 ces eben cdate sutdevesbitesenesit 
+
+
+1. Nonconstitutional bases for reversal... 
+2. Constitutional bases for reversal....... 
+
+
+THE SUMMARY ASSERTION OF HARMLESS 
+ERROR BY THE COURT OF APPEALS, WITH- 
+OUT ANY ANALYSIS OR EXPLANATION 
+BASED UPON THE RECORD, REQUIRES 
+UD 06068 bnesce sapesnndsutebuneanesbeds 
+
+
+Tie Ws c ven cudidesécnvidsecsastaances 
+B. The Court of Appeals Did Not Perform the 
+
+
+Harmless Error Analysis Intended by Con- 
+OED. ds anv cidisichesivizidinas ibe oo 
+
+
+32 
+
+
+33 
+
+
+39 
+
+
+39 
+
+
+v 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+C. The Court of Appeals Incorrectly Assumed 
+that Because the Invalid Aggravating Fac- 
+tors Were Nonstatutory, They Were Not 
+Important in the Jury’s Deliberations...... 
+
+
+D. The Proper Remedy is to Remand for a New 
+Sentencing Before a Jury..............--.-. 
+
+
+COPIERS. voc cc scccsccccccrccccvecessccceceds 
+PPTTEIIE Fh on oc cos ccnccccdecceseccscciccscnceees 
+jp‘.  & GRREPPPTToTT TrTTyTT iT rT rrr ee 
+
+
+vi 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+Allen v. State, 821 P.2d 371 (Okla. Crim. App. 1991) .... 28 
+
+
+Andres v. United States, 333 U.S. 740 (1948) 
+PP Ee ee re UP ae ERE Se OS, 15, 18, 29, 30, 38 
+
+
+Beck v. Alabama, 447 U.S. 625 (1980).............. 31, 39 
+Bollenbach v. United States, 326 U.S. 607 (1946)... .29, 37 
+Brown v. Texas, __ U.S. __, 118 S.Ct. 355 (1997) .... 25 
+
+
+Boyde v. California, 494 U.S. 370 (1990) .............. 18 
+Caldwell v. Mississippi, 472 U.S. 320 (1985)........ 30, 31 
+Carolene Products Co. v. United States., 323 U.S. 18 
+
+SHPO oan Staacd dwcbabbbovs cab bestowbibvidetedaienk 26 
+Chapman v. California, 386 U.S. 18 (1967) ......... 41, 42 
+
+
+Clemons v. Mississippi, 494 U.S. 738 (1990) 
+cchihonsedwdetuat Posvcvocccsccesccéveay Gay Ge Oh, Oe 
+
+
+Enmund v. Florida, 458 U.S. 782 (1982).... end ebS 00 cals 3 
+Estelle v. McGuire, 502 U.S. 62 (1991)................ 18 
+Garcia v. United States, 469 U.S. 70 (1984) ........... 35 
+Gregg v. Georgia, 428 U.S. 153 (1976) ......... 26, 27, 30 
+Johnson v. Mississippi, 486 U.S. 578 (1988)............ 31 
+Jones v. State, 101 Nev. 573, 707 P.2d 1128 (1985) .... 27 
+Reone Corp. v. United States, 508 U.S. 200 (1993) ..... 22 
+
+
+Kirkpatrick v. Whitley, 992 F.2d 491 (5th Cir. 1993) .... 45 
+
+
+Leatherman v. Tarrant County Narcotic Intelligence 
+and Coordination Unit, 507 U.S. 163 (1993)......... 21 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Leary v. United States, 395 U.S. 6 (1969) ee eb vialkae 19 
+Lockett v. Ohio, 438 U.S. 586 (1978).............0045. 25 
+McDonald v. Pless, 238 U.S. 264 (1915)............... 25 
+Mills v. Maryland, 486 U.S. 367 (1988) ............... a4 
+Parker v. Dugger, 498 U.S. 308 (1991)............. 42, 44 
+Parker v. State, 887 P.2d 290 (Okla. Crim. App. 
+
+Sse ieakérocdavcshdacewaades deus dncdaibe deus’ 27, 36 
+Prevatte v. State, 233 Ga. 929, 214 S.E.2d 365 (1975) .... 27 
+Richmond v. Lewis, 506 U.S. 40 (1992)............. 42, 44 
+Romano v. Oklahoma, 512 U.S. 1 (1994)............... 30 
+Simmons v. South Carolina, 512 U.S. 154 (1994) .. 25, 38, 39 
+Sochor v. Florida, 504 U.S. 527 (1992)......... 40, 41, 42 
+State v. Brown, 414 So.2d 689 (La. 1982)............. 27 
+State v. Howell, 868 S.W.2d 238 (Tenn. 1993), cert. 
+
+SO, Bee Ws Re CN ic heb cn ivecsucscoccoses 43 
+State v. Lindsey, 404 So.2d 466 (La. 1981)......... 27, 28 
+
+
+State v. Osborn, 102 Idaho 405, 631 P.2d 187 (1981) .... 27 
+State v. Ramseur, 106 NJ. 123, 524 A.2d 188 (1987). .36, 37 
+
+
+State v. Rhines, 548 N.W.2d 415 (N.D.), cert. denied, 
+ee a, i ee aoe ad wade + dnibeen a 27 
+
+
+State v. Sonnier, 379 So.2d 1336 (La. 1980) (on 
+RE si scccscncccseccscccvctpatesss 26, 27, 28, 36 
+
+
+State v. Williams, 392 So.2d 619 (La. 1980) (on 
+I ici de scatndcccessctevensescvesassan 36, 37 
+
+
+vill 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+Stringer v. Black, 503 U.S. 222 (1992) ...... 3, 39, 40, 42 
+
+TUR CH Fite Gr GB BE Gens cb ivcdebcctwocusiun 21 
+
+Tison v. Arizona, 481 U.S. 137 (1987).................. 3 
+
+Townsend v. Burke, 334 U.S. 736 (1948)............ 32, 39 
+United States v. Frank, 8 FSupp.2d 253 (S.D.N.Y. 
+
+SPOUT s cn 0n.50 chedus Cikceveabensenteshabiradbdacuden 26 
+
+
+United States v. Reid, 53 U.S. (12 How.) 361 (1851) .... 25 
+
+
+United States v. Ron Pair Enterprises, Inc., 489 U.S. 
+SO GRR nu tc ch eb ankw+enokewadiwstevebeteucedas 34 
+
+
+United States v. Stewart, 779 F.2d 538 (9th Cir. 1985) .... 30 
+
+
+Whalen v. State, 492 A.2d 552 (Del. 1985)......... 36, 37 
+Williams v. State, 544 So.2d 782 (Miss. 1989) (on 
+ROTI sons 6 ca Vircddiy Ves cavabauieceees pansuewd 27 
+Williams v. State, 445 So.2d 798 (Miss. 1984), cert. 
+Gua, SEP Wak Beer Cs wi hae bok o's be leekee: 27 
+Zant v. Stephens, 462 U.S. 862 (1983) ................ 27 
+
+
+CONSTITUTIONAL PROVISIONS 
+
+
+aa Geet ee TE i i ne 1, 15, 16, 31 
+DE. CONG SE FER ios. ccnnticcbccdccatenvas passim 
+STATUTES 
+
+ee Se SE SE ka as base cn dtu ohacion sk riwadabeceeston 5 
+Oe eaten Te BEICS ovis ab a eek urns bade be dakncieleiee 5 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+18 U.S.C. 
+
+
+Page 
+DC ct6sdndduccknsareavnee UAwbecceeathes 35 
+UMD . Siwdb Os deedosdbcdaddeaverdepevens 35 
+PRE wake beegaeseabbceree cusses 1, 14, 17 
+DS hts bdhinuesebonbtkesardsbest ees 5 
+IEEE w 00's v6 cadueehovecetecees 2 
+RNs Fenwick ne vikeRobusss sietanckeksus 1 
+MR cock dseencoteseuseuuncer ine’ 2 
+i 2 
+§ 3592(C) .. 12. e eect eee e eee eee eee e tees 2 
+SEL on chan sie aeedstuads bunkoboucws a 2 
+PD ahd tts cohiaawudvebenans ubones vane’ 2 
+EE 2; oh0k 6s GeWukeeews banébinback anoss 2 
+CN re elms 3, 45 
+EN Citi puss peanusanetnds 3, 34, 35, 40 
+2 AA ee Pere ert as 4, 15, 34, 35 
+er ckin'e apn ccndesndesenas 4, 15, 41, 46 
+ee ee a eas oe 40, 41 
+| SP ARERR ET ee ie ceva 26, 42 
+EY xe eis dedbccreapiee s 26, 36, 39, 48 
+PERS oss vos Fo edeosbuabe aren ¥6 Was 28 
+EEL s+ vdcenedcesueescebenees 28, 37 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Pe et es I con bbeeksoctscusecedstcevenbes 18 
+SP Ween EE EEE 0d 0 bb ds Caw Sects nockussie cXbaredds 1 
+Pub. L. 98-473, tit. IL, ch. I], § 218(a)(5) (1984)....... 17 
+RULEs 
+Pe Se AE ricci Ser dn uc beak ihaaks etka 24 
+a: Te: Es EEE was, deus cas chb boa eee ed cca 24 
+OrtrHeR AUTHORITIES 
+So Se Ge I SUED. 6 oh ass a Uc bwevouedakoees 35 
+
+
+1 
+OPINION BELOW 
+
+
+The opinion of the Court of Appeals (J.A. 82-123) is 
+reported at 132 F.3d 232. 
+
+
+JURISDICTION 
+
+
+The judgment and opinion of the Court of Appeals 
+were issued on January 5, 1998. (J.A. 82-123, 124). Peti- 
+tioner’s timely petition for rehearing was denied on 
+March 4, 1998. (J.A. 125). The petition for a writ of cer- 
+tiorari was filed on June 2, 1998 and was granted on 
+October 5, 1998. (J.A. 126). The Court’s jurisdiction is 
+invoked under 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The Fifth Amendment to the United States Constitu- 
+tion provides, in pertinent part: “No person shall . . . be 
+deprived-of life, liberty, or property, without due process 
+of law ....” The Eighth Amendment to the United States 
+Constitution provides: “Excessive bail shall not be 
+required, nor excessive fines imposed, nor cruel and 
+unusual punishments inflicted.” 
+
+18 U.S.C. § 1201(a), the federal kidnapping statute 
+under which petitioner was prosecuted, is set out in 
+Appendix A to this Brief. The Federal Death Penalty Act 
+of 1994 (“FDPA”), 18 U.S.C. §§ 3591-98, is set out in 
+Appendix B to this Brief. 
+
+
+STATEMENT 
+A. Statutory Background 
+
+
+This case was the first tried under the Federal Death 
+Penalty Act of 1994 (“FDPA”), which sets forth pro- 
+cedures to be followed where the government seeks the 
+death penalty for an offense which is potentially punish- 
+able by death. First, “a reasonable time before the trial,” 
+
+
+2 
+
+
+the government must file a written notice of its intent to 
+seek the death penalty, in which it “set[s] forth the aggra- 
+vating factor or factors that the government, if the defen- 
+dant is convicted, proposes to prove as justifying a 
+sentence of death.” 18 U.S.C. § 3593(a). 
+
+
+For homicide cases, these aggravating factors are 
+drawn from a list of sixteen statutory aggravating factors 
+set forth in 18 U.S.C. § 3592(c). In addition to these 
+sixteen factors, however, the government is empowered 
+to charge and submit nonstatutory aggravating factors, 
+under the last sentence of 18 U.S.C. § 3592(c), which 
+provides that “[t]he jury . . . may consider whether any 
+other aggravating factor for which notice has been given 
+exists.” 
+
+
+At a sentencing hearing held before the jury that 
+determined the defendant's guilt, see 18 U.S.C. § 3593(b), 
+the government presents information in support of the 
+aggravating factors which it has charged, and the defen- 
+dant presents information in support of any mitigating 
+factors.' Aggravating factors must be proved beyond a 
+reasonable doubt; mitigating factors must be proved only 
+by a preponderance of the evidence. See 18 U.S.C. 
+§ 3593(c). 
+
+
+After the presentation of evidence, the jury is first 
+required to determine beyond a reasonable doubt 
+whether the defendant possessed one of the requisite 
+threshold mental states described in 18 U.S.C. 
+§ 3591(a)(2)(A)-(D).? In the case of a positive finding, the 
+
+
+' These mitigating factors may be those specifically 
+enumerated in 18 U.S.C. § 3592(a)(1)-(7), orthey may be “other 
+factors in the defendant’s background, record or character or 
+any other circumstance of the offense that mitigate against 
+imposition of the death sentence.” 18 U.S.C. § 3592(a)(8). 
+
+
+2 These threshold mental states are designed to ensure that 
+a defendant is not sentenced to death in violation of the 
+
+
+3 
+
+
+jury next determines which of the noticed aggravating 
+factors and which mitigating factors have been proved. 
+“A finding with respect to any aggravating factor must be 
+unanimous”; however, “a finding with respect to a mit- 
+igating factor may be made by 1 or more members of the 
+jury, and any member of the jury who finds the existence 
+of a mitigating factor may consider such factor estab- 
+lished for purposes of this section regardless of the 
+number of jurors who concur that the factor has been 
+established.” 18 U.S.C. § 3593(d). 
+
+If the jury unanimously finds that one of the noticed 
+statutory aggravating factors has been proved beyond a 
+reasonable doubt, 
+
+the jury . . . shall consider whether all the aggra- 
+
+vating factor or factors found to exist suffi- 
+
+ciently outweigh all the mitigating factor or 
+factors found to exist to justify a sentence of 
+death, or, in the absence of a mitigating factor, 
+whether the aggravating factor or factors alone 
+
+are sufficient to justify a sentence of death. 
+
+Based upon this consideration, the jury by unan- 
+
+imous vote . . . shall recommend whether the 
+
+defendant should be sentenced to death, to life 
+imprisonment without possibility of release or 
+some other lesser sentence. 
+18 U.S.C. § 3593(e). The FDPA is thus what the Court has 
+termed a “weighing” statute. Cf. Stringer v. Black, 503 U.S. 
+222, 229 (1992). 
+
+“Upon a recommendation under section 3593(e) that 
+the defendant should be sentenced to death or life 
+imprisonment without possibility of release, the court 
+shall sentence the defendant accordingly. Otherwise, the 
+court shall impose any lesser sentence that is authorized 
+by law. Notwithstanding any other law, if the maximum 
+
+
+teachings of the Court in Enmund v. Florida, 458 U.S. 782 (1982), 
+and Tison v. Arizona, 48) U.S. 137 (1987). 
+
+
+4 
+
+
+term of imprisonment for the offense is life imprison- 
+ment, the court may impose a sentence of life imprison- 
+ment without possibility of release.” 18 U.S.C. § 3594. 
+
+
+Finally, the FDPA provides for detailed appellate 
+review of death sentences returned thereunder. See 18 
+U.S.C. § 3595. 
+
+
+B. Facts Leading to Indictment 
+
+
+On February 18, 1995, petitioner’s ex-wife, Sandra 
+(“Sandy”) Lane made a final break with petitioner, infor- 
+ming him that there was no chance that they could ever 
+have a future together. After many houfs of replaying a 
+tape recording of this conversation and drinking a large 
+quantity of alcohol, petitioner went in search of Lane at 
+Goodfellow Air Force Base, in San Angelo, Texas, where 
+he believed she might be on duty. Unfortunately, he 
+found Tracie McBride, a 19 year old white female private, 
+who bore a strong physical resemblance to Lane. 
+
+
+Petitioner kidnapped McBride and took her to his 
+residence in San Angelo.* In the early morning hours of 
+February 19, 1995, he drove McBride to a remote location, 
+where he struck her over the head several times with a 
+tire iron, killing her. 
+
+
+Two weeks later, after being taken into custody on an 
+alleged prior assault of his ex-wife, petitioner admitted 
+that he was the black male who was seen abducting 
+McBride and that he had killed her. Petitioner then volun- 
+tarily led law enforcement authorities to the location of 
+McBride’s body. An autopsy revealed injuries consistent 
+with sexual assault and concluded that the cause of 
+McBride’s death was blunt force trauma to the head. 
+
+
+* While in the process of abducting McBride, petitioner also 
+assaulted one Private Michael Peacock, who was attempting to 
+foil the abduction. 
+
+
+5 
+C. Trial, Sentencing, and Appeal 
+
+
+On March 7, 1995, petitioner was indicted for kidnap- 
+ping resulting in the death of Tracie McBride, 18 U.S.C. 
+§§ 7(3) and 1201(a)(2) (a potentially capital offense); and 
+assault of Michael Alan Peacock, resulting in serious 
+bodily injury. 18 U.S.C. §§ 7(3) and 113(f). (J.A. 5-6). 
+Before trial, the government gave notice of its intention to 
+seek the death penalty. (J.A 7-12). In that notice, the 
+government alleged four statutory aggravating factors 
+and three nonstatutory aggravating factors® in support of 
+its request for the death penalty. 
+
+
+4 These factors were submitted to the jury as follows: 
+
+
+2(A). The defendant LOUIS JONES caused the death of 
+Tracie Joy McBride, or injury resulting in the death of Tracie Joy 
+McBride, which occurred during the commission of the offense 
+of Kidnapping. 
+
+2(B). The defendant, in the commission of the offense, 
+knowingly created a grave risk of death to one or more persons 
+in addition to the victim of the offense, Tracie Joy McBride. 
+
+
+2(C). The defendant LOUIS JONES committed the offense 
+in an especially heinous, cruel, and depraved manner in that it 
+involved torture or serious physical abuse to Tracie Joy 
+McBride. 
+
+
+2(D). The defendant LOUIS JONES committed the killing 
+of Tracie Joy McBride after substantial planning and 
+premeditation to cause the death of Tracie Joy McBride. (J.A. 
+51-52). 
+
+
+5 These factors were submitted to the jury as follows: 
+
+
+3(A). The defendant constitutes a future danger to the 
+lives and safety of other persons as evidenced by specific acts of 
+violence by the defendant LOUIS JONES. 
+
+
+3(B). Tracie Joy McBride’s young age, her slight stature, 
+her background, and her unfamiliarity with San Angelo, Texas. 
+
+
+3(C). Tracie Joy McBride's personal characteristics and the 
+effect of the instant offense on Tracie Joy McBride’s family 
+constitute an aggravating factor of the offense. (J.A. 53). 
+
+
+6 
+
+
+At the sentencing hearing which followed petitioner’s 
+conviction on the two charged offenses, the government 
+first presented its case on aggravation, which included (in 
+addition to the evidence of the offense presented during 
+the guilt/innocence phase): a workplace assault allegedly 
+committed by petitioner in 1970; petitioner’s alleged phys- 
+ical and sexual assaults of his ex-wife Sandy Lane; the 
+medical examiner’s testimony about the force of the 
+trauma to Tracie McBride’s skull; and testimony about 
+Tracie McBride by her mother, Irene McBride. 
+
+
+In mitigation, the defense showed that petitioner had 
+overcome a childhood background of severe physical and 
+sexual abuse and neglect to become a successful noncom- 
+missioned officer in the United States Army. During his 
+22 year Army career, petitioner served with distinction in 
+the Airborne Rangers in both the Grenada invasion and 
+the Gulf War. Petitioner rose through the ranks and was 
+decorated several times. 
+
+
+Petitioner retired from the Army in 1993 in order to 
+be together with his then-wife Sandy Lane, an Army drill 
+instructor. The evidence presented at sentencing showed 
+that this termination of his successful military career 
+proved disastrous. Petitioner made a series of failed 
+attempts to go back to college, and found himself work- 
+ing in minimum wage jobs which were inadequate to 
+support his family. This sudden decline in petitioner’s 
+fortunes took its toll on his marriage, and eventually 
+destroyed it altogether. 
+
+
+The defense presented expert psychiatric and psy- 
+chological testimony to show that petitioner’s ability to 
+control his impulses and to act rationally had, on the date 
+of the offense, been severely compromised.® The final 
+
+
+© Testimony showed that petitioner suffered from 
+impairment of the frontal lobe of the brain, the part of the brain 
+attributed with rational decisionmaking and impulse control. 
+
+
+7 
+
+
+break with his ex-wife on February 18, 1995 became the 
+trigger which — coupled with petitioner’s childhood sex- 
+ual and physical abuse, posttraumatic stress disorder 
+from witnessing killings during combat in Grenada and 
+from stressful combat conditions during the Gulf War 
+with numerous physical manifestations, numerous severe 
+head injuries, and the loss of the organizing structure of 
+the Army - led to petitioner’s violent actions. In rebuttal, 
+the government presented several expert witnesses who 
+disputed petitioner's claims of brain dysfunction and 
+psychiatric problems. 
+
+
+Before the case was submitted to the jury, the defense 
+realized that the instructions which the District Court 
+proposed to give conveyed the erroneous and highly 
+prejudicial impression that jury deadlock as to the pen- 
+alty would result in a court-imposed sentence of less 
+than life imprisonment. In relevant part, these instruc- 
+tions were as follows: 
+
+
+In determining whether a sentence of death is 
+appropriate, you must weigh any aggravating 
+factors that you unanimously find to exist - 
+whether statutory or nonstatutory - against any 
+mitigating factors that any of you find to 
+exist.* * * Based upon this consideration, you 
+
+“the jury, by unanimous vote, shall recommend 
+whether the defendant should be sentenced to 
+death, sentenced to life imprisonment without 
+the possibility of release, or sentenced to some 
+other lesser sentence. 
+
+
+If you unanimously conclude that the 
+aggravating factors found to exist sufficiently 
+outweigh any mitigating factor or factors found 
+to exist, or in the absence of any mitigating 
+factors, that the aggravating factors are them- 
+selves sufficient to justify a sentence of death, 
+you may recommend a sentence of death. * * * 
+
+
+8 
+
+
+If you recommend the imposition of a death 
+sentence, the court is required to impose that 
+sentence. If you recommend a sentence of life 
+without the possibility of release, the court is 
+required to impose that sentence. If you recom- 
+mend that some other lesser sentence be 
+imposed, the court is required to impose a sen- 
+tence that is authorized by the law. In deciding 
+what recommendation to make, you are not to 
+be concerned with the question of what sen- 
+tence the defendant might receive in the event 
+you determine not to recommend a death sen- 
+tence or a sentence of life without the possi- 
+bility of release. That is a matter for the court 
+to decide in the event you conclude that a 
+sentence of death or life without the possi- 
+bility of release should not be recommended. 
+
+
+> * * 
+
+
+In order to bring back a verdict recom- 
+mending the punishment of death or life with- 
+out possibility of release, all twelve of you 
+must unanimously vote in favor of such speci- 
+fic penalty. 
+
+
+* * * 
+
+
+As you retire to begin your deliberations, 
+you will be provided with a form entitled “Spe- 
+cial Findings” on which you should record your 
+determinations as to the existence or non-exis- 
+tence of any aggravating factor. You will also be 
+provided with four forms entitled “Decision 
+Form A, B, C, and D” on which you will record 
+your decision regarding your sentencing recom- 
+mendation. The forms are self-explanatory: 
+Decision Form A should be used if you deter- 
+mine that a sentence of death should not be 
+imposed because the government failed to prove 
+beyond a reasonable doubt the existence of the 
+
+
+9 
+
+
+required intent on the part of the defendant or a 
+required aggravating factor. Decision Form B 
+should be used if you unanimously recom- 
+mend that a sentence of death should be 
+imposed. Decision Form C or Decision Form D 
+should be used if you determine that a sen- 
+tence of death should not be imposed because: 
+(1) you do not unanimously find that the aggra- 
+vating factor or factors found to exist suffi- 
+ciently outweigh any mitigating factor or factors 
+found to exist; or (2) you do not unanimously 
+find that the aggravating factor or factors found 
+to exist are themselves sufficient to justify a 
+sentence of death where no mitigating factor has 
+been found to exist; or (3) regardless of your 
+findings with respect to aggravating and mit- 
+igating factors you are not unanimous in recom- 
+mending that a sentence of death should be 
+imposed. Decision Form C should be used if 
+you unanimously recommend that a sentence 
+of imprisonment for life without the possi- 
+bility of release should be imposed. Decision 
+Form D should be used if you recommend that 
+some other lesser sentence should be imposed. 
+(J.A. 43-45, 47-48) (emphasis added). 
+
+
+Petitioner sought to correct the potential misunder- 
+standing he had identified by requesting an instruction 
+that, if the jury could not unanimously agree whether 
+petitioner should be sentenced to death or life imprison- 
+ment, but did agree that he should receive one or the 
+other, he would be sentenced to a term of life imprison- 
+ment without the possibility of parole or release. Partic- 
+ularly, in his Requested Jury Instruction No. 5, petitioner 
+requested that the jury be instructed as follows: 
+
+
+In this phase, I instruct you that unanimity 
+beyond a reasonable doubt is required for you 
+to sentence Louis Jones to death. But if any of 
+you — even a single juror - is not persuaded 
+
+
+10 
+
+
+beyond a reasonable doubt that Mr. Jones’ exe- 
+
+cution is required in this case, then the entire 
+
+jury must render a decision against his death. In 
+
+that event, the jury must fix his punishment at 
+
+life in prison without any possibility of release. 
+
+Again, unless all twelve members of the 
+jury determine that Mr. Jones should receive the 
+death penalty, | will impose a sentence of life 
+imprisonment without possibility of release. In 
+
+the event, after due deliberation and reflec- 
+
+tion, the jury is unable to agree on a unani- 
+
+mous decision as to the sentence to be 
+imposed, you should so advise me and I will 
+impose a sentence of life imprisonment with- 
+
+out possibility of release. In short, if you find 
+
+that you are not unanimous in your views, you 
+
+have reached a decision: namely, that the gov- 
+ernment has not met its burden of proof as to 
+
+the death penalty. 
+
+In the event you are unable to agree on 
+
+Life Without Possibility of Release or Death, 
+
+but you are unanimous that the sentence 
+
+should not be less than Life Without Possi- 
+
+bility of Release, you should report that vote to 
+
+the Court and the Court will sentence the 
+
+defendant to Life Without the Possibility of 
+
+Release. (J.A. 14-15) (emphasis added). 
+
+However, the District Court refused to give this instruc- 
+tion. (J.A. 30, 33). 
+
+After a day and a half of deliberations, the jury 
+returned its sentencing verdict along with its special find- 
+ings as to the aggravating and mitigating factors. (J.A. 
+50-59). The jury did not find two of the statutory aggrava- 
+ting factors submitted: 2(B) (that petitioner caused a 
+grave risk of death to another person) and 2(D) (that 
+petitioner committed the killing after substantial plan- 
+ning and premeditation). The jury did find the other two 
+statutory aggravating factors - 2(A) (that petitioner 
+
+
+11 
+
+
+caused the death of McBride, or injury resulting in her 
+death, in the commission of the kidnapping) and 2(C) 
+(that petitioner committed the offense in a heinous, cruel, 
+and depraved manner) - had been proved beyond a 
+reasonable doubt. 
+
+
+The jury did not find nonstatutory aggravating factor 
+3(A) (that petitioner constituted a future danger to the 
+lives and safety of other persons). The jury did find the 
+other two nonstatutory aggravating factors, 3(B) (Tracie 
+McBride’s young age, slight stature, background, and 
+unfamiliarity with San Angelo, Texas), and 3(C) (Tracie 
+McBride’s personal characteristics and the effect of the 
+instant offense on her family). 
+
+
+The jury found all ten of the specific mitigating fac- 
+tors submitted by petitioner.” Additionally, seven jurors 
+
+
+7 These mitigating factors, along with the number of jurors 
+finding these factors (in parentheses), were as follows: 
+
+1. That petitioner did not have a significant prior criminal 
+record (6); 
+
+2. That petitioner’s capacity to appreciate the 
+wrongfulness of his conduct or to conform to the requirements 
+of the law was significantly impaired (2); 
+
+3. That petitioner committed the offense under severe 
+mental or emotional disturbance (1); 
+
+
+4. That petitioner was subjected to physical, sexual, and 
+emotional abuse as a child (and was deprived of sufficient 
+parental protection that he needed) (4); 
+
+
+5. That petitioner served his country well in Desert Storm, 
+Grenada, and for 22 years in the United States Army (8); 
+
+
+6. That petitioner is likely to be a well-behaved inmate (3); 
+7. That petitioner is remorseful for the crime he committed 
+
+
+(4), 
+
+
+8. That petitioner's daughter will be harmed by the 
+emotional trauma of her father’s execution (9); 
+
+
+12 
+
+
+”“ “ 
+
+
+“wrote in” “Sandy Lane” — petitioner’s ex-wife — as a 
+mitigating circumstance. (J.A. 56). Nevertheless, the jury 
+returned a verdict of death. (J.A. 57-58). 
+
+
+Petitioner filed a timely motion for new trial speci- 
+fically urging that the jury’s “critical misunderstanding” 
+of the consequences of nonunanimity in the sentencing 
+verdict directly resulted in the verdict of death. (J.A. 
+60-68). Petitioner argued that “the fear that the court 
+could impose a sentence of less than life without possi- 
+bility of release if there was not a unanimous verdict was 
+improperly used as leverage in overcoming the scruples 
+of those jurors who reasonably felt that the appropriate 
+punishment was life without release.” (J.A. 62). Petitioner 
+noted that his Requested Instruction No. 5 would have 
+cured this error. (J.A. 62). 
+
+
+Petitioner attached an affidavit detailing a post-ver- 
+dict interview conducted with juror Christie Beauregard, 
+who had contacted the defense on her own initiative.* 
+(J.A. 66-68). Ms. Beauregard stated that “[dJuring deliber- 
+ations, it was her impression that other jurors expressed 
+an opinion that the result of a jury unable to reach a 
+verdict between life without possibility of release and a 
+death sentence would be that the court would impose a 
+lesser sentence.” (J.A. 66). “She stated that there was 
+considerable pressure in deliberations to prevent that 
+
+
+9. That petitioner was under unusual and substantially 
+internally generated duress and stress at the time of the offense 
+(3); and 
+
+
+10. That petitioner suffered from numerous neurological 
+or psychological disorders at the time of the offense (1). (J.A. 
+54-56). 
+
+
+* In fact, the attorneys were forbidden, by local rule, from 
+initiating any contact with the jurors. Ms. Beauregard spoke 
+with defense attorney Carlton McLarty and defense investigator 
+Daniel Salazar, and thereafter Mr. Salazar executed an affidavit 
+detailing what Ms. Beauregard had said. 
+
+
+“ 
+
+
+13 
+
+
+outcome.” (J.A. 67). “She described the situation where 
+they thought they would either have a hung jury or the 
+Judge would impose a lesser sentence in the event of a 
+hung jury. No one wanted to have Louis Jones receive a 
+lesser sentence than life without possibility of release.” 
+(J.A. 67). Finally, “[s}he sa[id] that if the jury had known 
+that if they were unable to reach a verdict between life 
+without possibility of release and death that the Judge 
+would have imposed a life without possibility of release 
+sentence then she would not have agreed to vote for a 
+death sentence. She believed other jurors shared that 
+view.” (J.A. 68). The District Court, however, denied peti- 
+tioner’s motion for new trial. (J.A. 74). 
+
+Petitioner filed a motion asking the District Court to 
+reconsider its denial of his motion for new trial. (J.A. 
+75-80). Petitioner again urged that “|t}he jury thus sen- 
+tenced the defendant to death based on the erroneous 
+belief that failure to agree on a verdict could result in the 
+imposition of a ‘lesser sentence’ that would result in the 
+defendant's release from prison.” (J.A. 76). Petitioner 
+argued that he was “harmed by unwarranted speculation 
+regarding his rossible release.” (J.A. 76). 
+
+Petitioner attached the affidavit of juror Cassandra 
+Hastings, who had also initiated contact with defense 
+counsel. (J.A. 78-80). Ms. Hastings’s account of juror con- 
+fusion dovetailed with that of Ms. Beauregard. Ms. Hast- 
+ings stated that “[iJnitially, no one knew exactly what 
+would happen if we were unable to reach a verdict.” (J.A. 
+78). She stated that when “[i]t looked like we might have 
+a hung jury|, aJt this point we again discussed the effect 
+of a hung jury.” (J.A. 79). 
+
+Ms. Hastings then stated that “[o]ne of the men 
+[jurors] . . . said that if we had a hung jury then the 
+sentence would be left up to the judge and that Louis 
+Jones would get the lesser sentence referred to in the last 
+jury verdict form. People then brought up the possibility 
+that Mr. Jones could be released from prison. No one 
+
+
+14 
+
+
+wanted this to happen or even be possible.” (J.A. 79). 
+Like Ms. Beauregard, Ms. Hastings stated that she would 
+not have changed her vote from life without release to 
+death had she known that a hung jury would not result in 
+a “lesser sentence” leading to petitioner’s ultimate 
+release from prison. (J.A. 79). 
+
+
+The District Court, however, denied petitioner’s 
+motion to reconsider. (J.A. 81). 
+
+
+Petitioner timely appealed to the United States Court 
+of Appeals for the Fifth Circuit. That court affirmed the 
+judgment of conviction and sentence of death (J.A. 
+82-123, 124), and denied petitioner’s timely petition for 
+rehearing. (J.A. 125). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. Under 18 U.S.C. § 1201(a), petitioner faced a sentence 
+of either “death or life imprisonment” for the kidnapping 
+of Tracie McBride. Under federal law, a sentence of life 
+imprisonment carries no possibility of parole or release. 
+Unfortunately, there was at least a “reasonable likeli- 
+hood” that the jury erroneously believed that failure to 
+agree on a penalty recommendation of death or life 
+imprisonment without release would result in the imposi- 
+tion of “some other lesser sentence” by the court. 
+
+
+First, the instructions gave the impression that, if the 
+jury failed to unanimously agree on a sentence of death 
+or life without release, it would thea become the court’s 
+responsibility to assess sentence; and that court-imposed 
+sentence would be a “lesser sentence.” Second, and even 
+worse, the instructions and the verdict forms suggested 
+that, if the jury failed to agree on a sentence of death or 
+life without release, it should so indicate by selecting 
+Decision Form D, the verdict form for the “lesser sen- 
+tence” option. 
+
+
+In fact, there was more than a reasonable likelihood 
+of misinterpretation. As detailed in two affidavits filed of 
+
+
+15 
+
+
+record, two jurors have stated that the jury actually mis- 
+interpreted the instructions in the fashion just described. 
+Even without those affidavits, however, it is clear that it 
+is at least reasonably likely that the jurors erroneously 
+interpreted the jury instructions and verdict forms in the 
+fashion discussed here. 
+
+The possibility that the jury returned a recommenda- 
+
+tion of death under an erroneous interpretation of the 
+jury instructions constitutes .n “arbitrary factor” requir- 
+ing reversal under 18 U.S.C. § 3595 of the FDPA. Reversal 
+is likewise required either under the error correction 
+prong of § 3595 or, alternatively, in the Court’s capacity as 
+supervisor of the lower federal courts, especially since, in 
+federal death cases, “doubts such as those presented here 
+should be resolved in favor of the accused.” Andres v. 
+United States, 333 U.S. 740, 752 (1948). Finally, petitioner's 
+sentence also violates the Eighth Amendment's prohibi- 
+tion of death sentences returned on the basis of inaccu- 
+rate information, as well as the Fifth Amendment's 
+corresponding due process prohibition of sentences based 
+on materially false information. 
+Il. The District Court erred in denying petitioner a jury 
+instruction that the result of jury deadlock on the sen- 
+tencing recommendation would be a court-imposed sen- 
+tence of life without release. The plain language of 18 
+U.S.C. § 3594 requires that, unless the jury-unanimously 
+recommends a sentence of death or life imprisonment 
+without the possibility of release, the duty of sentencing 
+devolves upon the court. The legislative history of the 
+FDPA confirms this interpretation. The only option for 
+such court-sentencing in this case would have been the 
+alternative sentence of life imprisonment without the 
+possibility of parole or release. 
+
+The requirement that death sentences not be imposed 
+under the influence of any “arbitrary factor” requires that 
+juries be affirmatively and correctly instructed as to all 
+the sentencing options, including the consequences of 
+
+
+16 
+
+
+jury deadlock, so that the jury will not impose the death 
+penalty based on its speculation about what will happen 
+in the event of a deadlock. Moreover, failure to give the 
+requested instruction exacerbated the error created by the 
+misleading instructions, and requires correction under 
+the “arbitrary factor” review of the FDPA, the error cor- 
+rection prong of the FDPA, or simply in the exercise of 
+the Court's role as overseer of the lower federal courts. 
+
+
+Finally, the Eighth Amendment's proscription of arbi- 
+trary and capricious death sentences requires that capital 
+sentencing juries be informed as to the consequences of 
+nonunanimity. Moreover, the failure to give the instruc- 
+tion in the instant case exacerbated the problem of the 
+erroneous jury instructions actually given, and resulted 
+in a death sentence imposed on the basis of inaccurate 
+information in violation of both the Eighth Amendment 
+and the Fifth Amendment Due Process Clause. 
+
+
+III. The Court of Appeals held that the trial court sub- 
+mitted two invalid aggravating factors to the jury at the 
+sentencing phase of the trial, but nonetheless affirmed the 
+death sentence on the grounds of harmless error. The 
+FDPA allows such a conclusion only where the govern- 
+ment proves the error was harmless beyond a reasonable 
+doubt. The purported “harmless error” analysis of the 
+Court of Appeals, however, is simply a bare assertion 
+lacking any analysis or explanation indicating how it 
+reached that conclusion. The court made no explanation 
+based upon the record as to why it was convinced beyond 
+a reasonable doubt that the jury would have reached the 
+same sentence absent the invalid aggravating factors. 
+Most significantly, the Court-of Appeals’ opinion is com- 
+pletely silent with respect to the particulars of the mit- 
+igating evidence offered by petitioner and the eleven 
+mitigating factors found by the jurors. Because the court's 
+cryptic conclusion did not provide petitioner with an 
+individualized determination of his sentence, the judg- 
+ment of the Court of Appeals must be reversed. 
+
+
+17 
+
+
+ARGUMENT 
+
+
+I. THERE WAS AT LEAST A REASONABLE LIKELI- 
+HOOD THAT THE JURY INSTRUCTIONS AND 
+VERDICT FORMS LED THE JURY TO BELIEVE 
+THAT DEADLOCK ON THE PENALTY RECOM- 
+MENDATION WOULD RESULT IN A COURT- 
+IMPOSED SENTENCE LESS SEVERE THAN LIFE 
+IMPRISON MENT.? : 
+
+
+A. Introduction 
+
+
+Once the jury returned its verdict of guilty on the 
+kidnapping charge against petitioner, there were only 
+two possible sentencing outcomes: death, or life 
+imprisonment without release or parole. The statute 
+under which petitioner was convicted provides that one 
+who commits a kidnapping “shall be punished by 
+imprisonment for any term of years or for life and, if 
+death results, shall be punished by death or life 
+imprisonment.” 18 U.S.C. § 1201(a) (emphasis added). 
+
+In the trial as to guilt/innocence, the jurors were 
+instructed that, in order to convict petitioner of the crime 
+charged, they had to find, beyond a reasonable doubt, 
+“[t}hat the death of Tracie Joy McBride resulted [from the 
+kidnapping].” (Ct. App. Rec. Vol. 6, p. 1060). Thus, the 
+jury’s verdict of guilty represented a finding. beyond a 
+reasonable doubt, of “death result[ing],” thereby limiting 
+the possible punishments to either death or life imprison- 
+ment. Moreover, because parole has been abolished in the 
+federal system,’ and because a person subject to a life 
+
+
+% This argument addresses the second question as to which 
+the Court granted certiorari in this case. A decision for 
+petitioner on the second question presented would obviate the 
+need for the Court to decide the first question presented, and 
+the potentially far-reaching sub-issues it raises. Therefore, 
+petitioner has chosen to address Question 2 before Question 1. 
+
+
+10 See Pub. L. 98-473, tit. IL, ch. II, § 218(a)(5) (1984). 
+
+
+18 
+
+
+sentence is not eligible to receive “good time,”' “life 
+imprisonment” means that the person will never be 
+released. Therefore, as the jury went into the sentencing 
+hearing, there were only two options: death, or life 
+imprisonment which was, perforce, without the possi- 
+bility of parole or release. 
+
+Unfortunately, the jury instructions and verdict forms 
+(J.A. 34-49, 50-59) gave the jurors the erroneous impres- 
+sion that, if they could not unanimously agree on a sen- 
+tencing recommendation of death or life without the 
+possibility of release, the duty of sentencing would 
+devolve upon the court, which would then impose some 
+unspecified “lesser sentence.” 
+
+
+B. The Court of Appeals Erred in Holding that 
+There Was No Reasonable Likelihood that the 
+Jury Instructions and Verdict Forms Submitted 
+to the Jury Misled the Jury.'? 
+
+
+It is very important to be clear on exactly what is at 
+issue here, and what is not. The issue is not whether it 
+
+
+1! See 18 U.S.C. § 3624(b)(1). 
+
+
+12 Where a state criminal defendant makes a claim that an 
+instruction is ambiguous and subject to an erroneous 
+interpretation which violates some federal constitutional right, 
+the Court “inquire[s] ‘whether there is a reasonable likelihood 
+that the jury has applied the challenged instruction in a way’ 
+that violates the Constitution.” Estelle v. McGuire, 502 U.S. 62, 72 
+(1991) (footnote omitted), quoting Boyde v. California, 494 U.S. 
+370, 380 (1990). However, because this is a federal case, with the 
+Court sitting in review of the decision of a court of appeals on 
+direct review, the Court's review of the instructions includes 
+also review for nonconstitutional error cognizable in the Court's 
+role as supervisor of the lower federal courts. The standard for 
+reversal of nonconstitutional instructional errors in a federal 
+case — especially a federal capital case — is at least arguably not 
+so stringent as the “reasonable likelihood” standard of Boyde 
+and Estelle v. McGuire. See, e.g., Andres v. United States, 333 U.S. 
+
+
+19 
+
+
+was error to inform the jury that there was a “lesser 
+sentence” option that in fact did not exist.'* Rather, the 
+issue is whether the jury instructions and verdict forms 
+could have led a reasonable jury to believe that the court 
+would impose a sentence less than life imprisonment if 
+the jury failed to reach a unanimous verdict.'4 
+
+
+740, 752 (1948) (finding reversible instructional error in federal 
+capital case where “the jury might reasonably conclude” that 
+erroneous interpretation of instructions was the proper one, and 
+noting that “[iJn death cases doubts such as those presented 
+here should be resolved in favor of the accused”). Nevertheless, 
+the Court need not resolve the standard of review issue here, 
+because even the “reasonable likelihood” standard is easily 
+satisfied under the circumstances of this case. 
+
+
+13 With respect to this point, the Court of Appeals, finding 
+that “[t}he defendant did not object to the inclusion of the ‘lesser 
+sentence’ option below,” reviewed only for plain error. (J.A. 
+107). The Court of Appeals agreed with petitioner that, because 
+petitioner could not possibly receive any sentence less than life 
+imprisonment without possibility of parole or release, it was 
+error to submit the “lesser sentence” option to the jury for its 
+consideration. (J.A. 110). However, the Court of Appeals held 
+that the error was not “plain,” because “[p]rior to this appeal, 
+the death penalty sentencing provisions under which Jones was 
+sentenced had never been reviewed on appeal,” and thus “[n]Jo 
+clearly established law answered the question” whether the 
+“lesser sentence” option was unavailable where the substantive 
+statute provided only for death or life imprisonment. (J.A. 
+110-111). 
+
+
+14 This issue was properly preserved for review by 
+petitioner’s rejected request for a jury instruction on the 
+consequences of jury nonunanimity. Even if that were not true, 
+however, the issue was also preserved by being raised in both a 
+timely motion for new trial (J.A. 60-68) and a motion to 
+reconsider (J.A. 75-80). The Court of Appeals did not consider 
+the issue forfeited, but rather reviewed it on the merits. Under 
+these circumstances, the issue is properly before the Court. See 
+Leary v. United States, 395 U.S. 6, 32 (1969) (even where 
+
+
+20 
+
+
+Analyzing the instructions given to the jury, the 
+Court of Appeals concluded that “the instructions could 
+not have led a reasonable jury to conclude that non- 
+unanimity would result in the imposition of a lesser 
+sentence.” (J.A. 102). The Court of Appeals conceded that 
+“the verdict forms standing alone could have persuaded 
+a jury to conclude that unanimity was not required for 
+the lesser sentence option”; but then held that “any con- 
+fusion created by the verdict forms was clarified in light 
+of the entire jury instruction.”!5 (J.A. 102-103). The Court 
+of Appeals also refused to consider the juror affidavits. 
+(J.A. 104-106). 
+
+
+Contrary to the holding of the Court of Appeals, 
+there was at least a “reasonable likelihood” that the 
+instructions and the verdict forms gave the jury the 
+extremely prejudicial impression that a lack of unanimity 
+as to either death or life without release would result in 
+the court’s imposition of a “lesser sentence.” This 
+occurred in two separate, though related, ways. First, the 
+instructions gave the impression that, if the jury failed to 
+unanimously agree on-a sentence of death or life without 
+release, it would then become the court’s responsibility to 
+assess sentence; and that court-imposed sentence would 
+be a “lesser sentence.” Second, and even worse, the 
+instructions and the verdict forms suggested that, if the 
+
+
+petitioner did not object to jury instructions on the basis of an 
+allegedly unconstitutional presumption, issue was properly 
+before the Court where raised in a motion for a directed verdict 
+and in a motion for new trial, and where court of appeals 
+considered issue on the merits). Finally, as discussed at footnote 
+22, infra, the FDPA’s mandated appellate review for “passion, 
+prejudice, or any other arbitrary factor” would require review 
+of petitioner’s claim even if there had been no objection at all. 
+
+
+'S Because the Court of Appeals found that petitioner did 
+not object to the format of the verdict forms, it reviewed these 
+only for plain error. (J.A. 102). 
+
+
+21 
+
+
+jury failed to agree on a sentence of death or life without 
+release, it should so indicate by selecting Decision Form 
+D, the verdict form for the “lesser sentence” option. 
+
+
+Immediately after twice referring to the jury’s ability 
+to recommend a “lesser sentence” (J.A. 43, 44), the Dis- 
+trict Court told the jury, “[Y]ou are not to be concerned 
+with the question of what sentence the defendant might 
+receive in the event you determine not to recommend a 
+death sentence or a sentence of life without the possi- 
+bility of release. That is a matter for the court to decide 
+in the event you conclude that a sentence of death or 
+life without the possibility of release should not be 
+recommended.” (Emphasis added.) (J.A. 44). The latter 
+sentence told the jury in no uncertain terms that the 
+jury’s failure to agree on a sentence of death or life 
+without the possibility of release would result in the 
+court’s imposing sentence. Especially following the previ- 
+ously mentioned “lesser sentence” option, a natural infer- 
+ence is that the court’s sentence would be such a “lesser 
+sentence.” 
+
+
+This inference was strengthened when the District 
+Court told the jury, “In order to bring back a verdict 
+recommending the punishment of death or life without 
+the possibility of release, all twelve of you must unani- 
+mously vote in favor of such specific penalty.” (J.A. 45). 
+The conspicuous absence of the “lesser sentence” option 
+from this statement strongly implied that, in contradis- 
+tinction to the first two options, the “lesser sentence” 
+option did not require jury unanimity and hence would 
+be the result of nonunanimity.'® 
+
+
+The same impression was given later in the instruc- 
+tions when the jury was told that “Decision Form B 
+
+
+16 Expressio unius est exclusio alterius. See, e.g., Leatherman v. 
+Tarrant County Narcotic Intelligence and Coordination Unit, 507 
+U.S. 163, 168 (1993); TVA v. Hill, 437 U.S. 153, 188 (1978). 
+
+
+22 
+
+
+should be used if you unanimously recommend that a 
+sentence of death be imposed . . . Decision Form C should 
+be used if you unanimously recommend that a sentence 
+of imprisonment for life without the possibility of release 
+should be imposed. Decision Form D should be used if 
+you recommend that some other lesser sentence should 
+be imposed.” (Emphasis added.) (J.A. 47). Here again, the 
+requirement of unanimity, explicitly mandated for the 
+death and life without release options, was conspicuously 
+absent from the option of the “lesser sentence” presented 
+on Decision Form D. In light of the omission of the word 
+“unanimously” from the last quoted sentence above, 
+there was at least a reasonable likelihood that the jurors 
+interpreted these instructions to mean that the “lesser 
+sentence” option, unlike death or life imprisonment with- 
+out release, did not require unanimity - and that, there- 
+fore, the “lesser sentence” option would be the result of a 
+lack of unanimity.!” 
+
+
+Such a conclusion is bolstered by the verdict forms. 
+Decision Form B stated, “[WJe recommend, by wnamni- 
+mous vote, that a sentence of death be imposed,” and 
+required each of the twelve jurors to individually sign his 
+or her name thereto. (Emphasis added.) (J.A. 57-58). Deci- 
+sion Form C stated, “We the jury recommend, by anani- 
+mous verdict, a sentence of life imprisonment without 
+the possibility of release,” amd again required each of the 
+jurors to sign the form imdividually. (Emphasis added.) 
+(J.A. 58). In contrast, Decision Form D stated “We the jury 
+recommend some other lesser sentence,” with no mention 
+
+
+'7 Indeed, the Court has recognized the reasonableness of 
+such an interpretation in its canon of statutory construction that 
+“[w]here Congress includes particwlar language im one section 
+of a statute but omits it in another . __, it is generally presumed 
+that Congress acts intentionally and purposely mm the disparate 
+inclusion or exclusion.” Keene Corp. v. United States, 908 U.S. 200, 
+208 (1993) (citation and internal quotation marks omitted). 
+
+
+a 
+
+
+23 
+
+
+of unanimity, and required only the signature of the jury 
+foreperson. (J.A. 59). Again, the explicit requirement of 
+jury unanimity for death or life without release —- coupled 
+with the conspicuous omission of any mention of una- 
+nimity in connection with the “some other lesser sen- 
+tence” - would certainly have led a reasonable jury to 
+conclude that the “some other lesser sentence” would be 
+the result of a lack of jury unanimity.'* 
+
+The jury was presented with three sentencing verdict 
+options, two of which explicitly required unanimity every 
+tume they were mentioned (death or life without release), 
+and one of which did not (the “lesser sentence” option). 
+Furthermore, the jury was never told that it had the 
+option of selecting none of these verdict options and 
+leaving the verdict form incomplete. Indeed, the jury was 
+given quite the opposite impression. It was told that it 
+should use Decision Form A if the government failed to 
+prove the requisite intent or a required aggravating fac- 
+tor; Decision Form B if the jury unanimously recom- 
+mended a sentence of death; and Decision Forms C or D 
+if (1) the jury did not unanimously agree that the 
+aggravators outweighed the mitigators, (2) the jury did 
+not unanimously agree that the aggravators justified a 
+death sentence if no mitigators had been proved, or (3) 
+“regardless of [its] findings with respect to aggravating 
+and mitigating factors [the jury was] not unanimous in 
+recommending that a sentence of death should be 
+imposed.” (Emphasis added.) (J.A. 47-48). 
+
+Thus, the jury was explicitly told that, if it was not 
+unanimous in recommending that a death sentence 
+should be imposed, it must use either Decision Form C or 
+Decision Porm D. But, in the very next sentence, the jury 
+
+
+™ The Court of Appeals conceded that “the verdict forms 
+standing aldme coulid have persuaded a jury to conclude that 
+unanimity was not required for the lesser sentence option... . ” 
+(J.A. 102-103). 
+
+
+24 
+
+
+was then told that “Decision Form C should be used if 
+you unanimously recommend that a sentence of 
+imprisonment for life without the possibility of release 
+should be imposed.” (Emphasis added.) (J.A. 48). This 
+meant that Decision Form C was ruled out for a non- 
+unanimous jury — and, since the jury was told that it must 
+select Decision Form C or D, this left only Decision Form 
+D. And, since neither Decision Form D, nor the instruc- 
+tions pertaining to it, required jury unanimity, the jury 
+could quite reasonably have concluded that a deadlock as 
+to penalty would require them to return the verdict form 
+with Decision Form D signed by the jery foreperson. 
+
+
+The Court has recognized that “juries do not leave 
+blanks and do not report themselves as deadlocked .. . 
+unless they are expressly instructed to do so.” Mills v. 
+Maryland, 486 U.S. 367, 383 (1988). It is thus at least 
+reasonably likely that the jury believed that (1) it had to 
+select at least one of the verdict options; and (2) that the 
+only verdict option available in the case of nonunanimity 
+was the “some other lesser sentence” option of Decision 
+Form D, which might result in petitioner’s eventual 
+release from prison. 
+
+
+In fact, there was more than a reasonable likelihood 
+of misinterpretation. As detailed in the two affidavits 
+discussed above, two jurors have stated that the jury 
+actually misinterpreted the instructions in the fashion 
+just described.'* Even without those affidavits, however, 
+
+
+1% The Court of Appeals erred in refusing to consider these 
+affidavits. The ban on jury impeachment of verdicts contained 
+in Federal Rule of Evidence 606(b) is not applicable since the 
+Federal Rules of Evidence do not, by their own terms, apply to 
+sentencings. See Peo. R. Evm. 1101(d)(3). Moreover, this Court 
+has recognized that, although the common law generally 
+disfavors the use of juror affidavits or testimony to impeach a 
+verdict, consideration of such affidavits or testimony may 
+nevertheless be necessary “in the gravest and most important 
+
+
+25 
+
+
+it is clear that it is at least reasonably likely that the jurors 
+erroneously interpreted the jury instructions and verdict 
+forms as discussed here. 
+
+
+C. The Reasonable Likelihood that the Jury Erro- 
+neously Interpreted the Instructions and Ver- 
+dict Forms in the Fashion Discussed Here 
+Requires Reversal of Petitioner’s Death Sen- 
+tence. 
+
+
+It is thus at least reasonably likely that the instruc- 
+tions and verdict forms created the erroneous - and 
+highly prejudicial — fear that jury nonunanimity would 
+result in a court-imposed less-than-life sentence.?° Rever- 
+sal of this sentence is required, both under well-settled 
+principles of federal nonconstitutional law and under the 
+Constitution. 
+
+
+cases,” McDonald v. Pless, 238 U.S. 264, 269 (1915), where refusal 
+to consider them would “violatie}] the plainest principles of 
+justice.” United States v. Reid, 53 U.S. (12 How.) 361, 366 (1851). 
+
+The instant case presents just such a case. In light of the fact 
+that the “qualitative difference between death and other 
+penalties calls for a greater degree of reliability when the death 
+sentence is imposed,” Lockett v. Ohio, 438 U.S. 586, 604 (1978) 
+(plurality op.), and in light of the importance of searching 
+appellate review to the constitutional operation of the death 
+penalty, “the plainest principles of jwstice” require that the 
+Court consider the affidavits in question here. 
+
+
+20 It has repeatedly been recognized that the fear that a 
+defendant will receive (or serve) less (or significantly less) than 
+a natural life sentence is a major determinant in the capital 
+sentencing jury’s decision whether or not to impose a sentence 
+of death. See, e.g., Simmons v. South Carolina, 512 U.S. 154, 163-64 
+(1994) (plurality op.); Brown v. Texas, U.S. ___, 118 S.Ct. 355, 
+356 n.2 (1997) (STEVENS, J., respecting the denial of the petition 
+for a writ of certiorari). 
+
+
+26 
+1. Nonconstitutional bases for reversal 
+
+
+Under the FDPA, the court of appeals is required to 
+“consider whether the sentence of death was imposed 
+under the influence of passion, prejudice, or any other 
+arbitrary factor....” 18 U.S.C. § 3595(c)(1). Furthermore, 
+“Iwihenever the court of appeals finds that .. . the 
+sentence of death was imposed under the influence of 
+passion, prejudice, or any other arbitrary factor . . . the 
+court shall remand the case for reconsideration under 
+section 3593 or impesition of a sentence other than 
+death.” 18 U.S.C. § 3595(c)(2). 
+
+
+The PDPA’s mandated appellate review for “passion, 
+prejudice, or any other arbitrary factor” clearly has its 
+genesis in the identical language in the Georgia death 
+penalty statute approved by the Court in Gregg v. Georgia, 
+428 U.S. 153 (1976).2! By including the Gregg statute's 
+mandatory review for “passion, prejudice, or any other 
+arbitrary factor” in the FDPA, Congress followed 
+numerous state jurisdictions. See, e.g., State v. Sonnier, 379 
+So.2d 1336, 1370 (La. 198044on rehearing) (“the Louisiana 
+legislature modeled our present statutes after those 
+approved in Gregg”). In adopting the Gregg rewiew for 
+arbitrary factors, Congress must also be presumed to 
+have adopted these jurisdictions’ judicial interpretations 
+of the term “arbitrary factor.”?? See Carolene Products Co. 
+
+
+21 See United States v. Frank, 8 F.Supp.2d 253, 272 (S.D.N.Y. 
+1998) (“The FDPA’s appellate review provisions closely track 
+those approved in Gregg.”) Appellate review for “passion, 
+prejudice, or any other arbitrary factor” was a key factor in the 
+Court's holding that the Georgia statute at issue in Gregg was 
+constitutional. See Gregg, 428 U.S. at 204 & 206 (opinion of 
+Stewart, Powell, & STEVENS, JJ.) & 211-12 & 223-24 (White, J., 
+concurring). 
+
+
+22 Furthermore, Congress must also be presumed to have 
+adopted another feature of Gregg-type mandatory appellate 
+
+
+27 
+
+
+v. United States, 323 U.S. 18, 26 (1944) (“the general rule 
+lis] that adoption of the wording of a statute from 
+another legislative jurisdiction carries with it the pre- 
+vious judicial interpretations of the wording.”) (citations 
+omitted). And it is clear from other Gregg jurisdictions 
+that instructional errors may constitute “arbitrary fac- 
+tors” requiring an appellate court to reverse under the 
+“passion, prejudice, or any other arbitrary factor” review. 
+See, e.g., Parker v. State, 887 P.2d 290, 299 (Okla. Crim. 
+App. 1994); State v. Brown, 414 So.2d 689, 699-701 (La. 
+1982). o 
+Particularly, several courts have found that jury 
+instructions or prosecutorial arguments which cause a 
+jury to speculate that, if they do not impose a death 
+sentence, the defendant may one day be released, consti- 
+tute an “arbitrary factor” mandating reversal of the death 
+sentence. See, e.g., Williams v. State, 544 So.2d 782, 796-99 
+(Miss. 1989) (on rehearing); Williams v. State, 445 So.2d 
+798, 813 (Miss. 1984), cert. denied, 469 U.S. 1117 (1985); 
+Brown, 414 So.2d at 699-701; State v. Lindsey, 404 So.2d 
+466, 485-87 (La. 1981). The concerns underlying these 
+cases are exacerbated when the jury is given inaccurate, 
+incomplete, or misleading information about the possi- 
+bilities of a defendant's future release. See, ¢.g., Jones v. 
+
+
+review for “passion, prejudice, or any other arbitrary factor,” 
+namely: that such review must be conducted even where there 
+has been no objection by the defendant. This was the rule 
+under the very Georgia statute at issue in Gregg, see Zrrt v. 
+Stephens, 462 U.S. 862, 880 n.19 (1983) (“The Georgia Supreme 
+Court conducts an independent review of the propriety of the 
+sentence even when the defendant has not specifically raised 
+objections at trial.”) (citation omitted); see also Prevatte v. State, 
+233 Ga. 929, 931, 214 S.E.2d 365, 367 (1975); and this is the rule in 
+other Gregg-type jurisdictions. Ser, ¢.g., State v. Rhines, 548 
+N.W.2d 415, 440 n.3 (N.D.), cert. denied, 519 U.S. 1013 (1996); 
+State v. Osborn, 102 Idaho 405, 410-11, 631 P.2d 187, 192-93 
+(1981); Sonnier, 379 So.2d at 1371 & n.4. 
+
+
+28 
+
+
+State, 101 Nev. 573, 580-82, 707 P.2d 1128, 1133-34 (1985); 
+Sonnier, 379 So.2d at 1371-72. 
+
+
+The Court should follow the lead of these jurisdic- 
+tions (as Congress presumably intended) and find that 
+the reasonable likelihood of juror misinterpretation of the 
+jury instructions constitutes an “arbitrary factor” under 
+the FDPA requiring reversal of petitioner’s death sen- 
+tence. The Louisiana Supreme Court has explained why 
+this should be so: 
+
+
+When a jury’s attention is diverted from its 
+primary responsibility of weighing the circum- 
+stances of the crime and the character and pro- 
+pensities of the offender and thrust into 
+speculation about the future actions of as yet 
+unknown actors, a serious possibility arises that 
+each death sentence imposed under such condi- 
+tions is the result of an interjection of an 
+unquantifiable factor into the deliberation pro- 
+cess, thereby rendering the decision arbitrary 
+.... In addition, the journey into this specula- 
+tory exercise necessarily raises the possibility 
+that the jury will be motivated to act out of fear 
+of the unknown possibility that the defendant 
+might return to society, thereby compounding 
+the risk of arbitrariness. 
+
+
+Lindsey, 404 So.2d at 487. Here, the jury’s “error of law 
+concerning the available sentencing options must be con- 
+strued as an arbitrary factor, which has a negative impact 
+on the validity of the death sentence.” Allen v. State, 821 
+P.2d 371, 376 (Okla. Crim. App. 1991). The Court should 
+therefore reverse petitioner's sentence as imposed as the 
+result of an “arbitrary factor” under § 3595(c)(2)(A) of the 
+FDPA. 
+
+
+Reversal should also follow as a matter of the 
+authority for error correction conferred by 18 U.S.C. 
+§ 3595(c)(2)(C), or, alternatively, simply as a matter of the 
+Court's role as supervisor of the lower federal courts. In 
+
+
+29 
+
+
+Bollenbach v. United States, 326 U.S. 607 (1946), the Court, 
+acting in this capacity, reversed a federal conviction 
+obtained on the basis of a defective jury charge. In so 
+doing, the Court noted that “[a] charge should not be 
+misleading,” id. at 614 (citation omitted), and that “[a] 
+conviction ought not to rest on an equivocal direction to 
+the jury on a basic issue.” Id. at 613. 
+
+
+Indeed, the Court has, on the basis of these very 
+principles, reversed a federal death sentence imposed 
+under instructions that may have misled the jury about 
+the consequences of failing to reach a unanimous sentenc- 
+ing decision. See Andres v. United States, 333 U.S. 740 
+(1948). Under the federal statutes at issue in Andres, the 
+jury's verdict of guilt would normally mean that the 
+defendant would be put to death; however, the jury also 
+had the option of “qualifying” their verdict by adding 
+“without capital punishment.” The Court first interpreted 
+the statutes at issue to hold that a death sentence would 
+only result if the jury were unanimous in rejecting a 
+“without capital punishment” qualification. See Andres, 
+333 U.S. at 748-49. The Court then turned to the question 
+“whether the instructions given by the trial judge clearly 
+conveyed to the jury a correct understanding of the stat- 
+ute.” Id. at 749. The Court held that the jurors might 
+reasonably — but erroneously — have thought that failure 
+to achieve unanimity on a “without capital punishment” 
+qualification required the return of an unqualified ver- 
+dict, resulting in a death sentence. Id. at 752. Holding that 
+“{iJn death cases doubts such as those presented here 
+should be resolved in favor of the accused,” the Court 
+reversec.. Id. 
+
+
+Here, as in Andres, there is at least a reasonable 
+likelihood that the death sentence was the result of a 
+critical inaccuracy in the jury instructions. Resolving 
+
+
+-_ 
+
+
+30 
+
+
+those doubts in favor of petitioner, as Andres requires, the 
+Court should reverse petitioner's death sentence.?3 
+
+
+2. Constitutional bases for reversal 
+
+
+Because there was at least a reasonable likelihood 
+that petitioner's death sentence was imposed on the basis 
+of inaccurate information, that sentence violates the 
+Eighth Amendment. The Eighth Amendment “mandates 
+that where discretion is afforded a sentencing body on a 
+matter so grave as the determination of whether a human 
+life should be taken or spared, that discretion must be 
+suitably directed and limited so as to minimize the risk of 
+wholly arbitrary and capricious action.” Gregg, 428 U.S. at 
+189 (opinion of Stewart, Powell, and STEVENS, JJ.). This 
+discretion must “be exercised in an informed manner.” Id. 
+Thus, “accurate sentencing information is an indispens- 
+able prerequisite to a reasoned determination of whether 
+a defendant shall live or die by a jury of people who may 
+never before have made a sentencing decision.” Id. at 190. 
+
+
+Indeed, the Court has repeatedly stressed that the 
+touchstone of Eighth Amendment claims like this one is 
+whether the information given to the capital sentencing 
+jury is accurate. See, e.g., Romano v. Oklahoma, 512 U.S. 1, 
+9-10 (1994) & id. at 14-15 (O’CONNOR, J., concurring); 
+Caldwell v. Mississippi, 472 U.S. 320, 336 (1985) (plurality 
+op.) & id. at 341-43 (O'CONNOR, J., concurring in part 
+
+
+* Relatedly, it is well established that a superior court may, 
+in the exercise of its supervisory role, remand to a lower court 
+for resentencing when there is even a possibility that the 
+sentencer misunderstood its sentencing options. See, e.g., United 
+States v. Stewart, 779 F.2d 538, 541 (9th Cir. 1985) (KENNEDY, J.) 
+(vacating sentence and remanding for resentencing where there 
+was a possibility that judge imposed sentence of life without 
+parole based upon mistaken advice from the government that 
+defendant would nevertheless be eligible for parole after 
+serving only ten years of his sentence). 
+
+
+31 
+
+
+and concurring in the judgment). The Court has not hesi- 
+tated to find an Eighth Amendment violation where, as 
+here, the jury is given inaccurate information. See, e.g., 
+Caldwell, id.; cf. Johnson v. Mississippi, 486 U.S. 578, 585-87 
+& 590 (1988) (Eighth Amendment violated where capital 
+sentencing jury allowed to consider “materially inaccu- 
+rate” evidence of prior conviction which was later 
+vacated). 
+
+
+Here, there is no dispute that petitioner could not 
+receive less than life without parole for the crime of 
+which he was convicted. Thus, because it is at least 
+reasonably likely that the jury misinterpreted its instruc- 
+tions and the verdict forms to mean that petitioner would 
+receive some lesser sentence if the jury deadlocked on the 
+penalty recommendation, it is likewise reasonably likely 
+that petitioner was sentenced to death on the basis of 
+inaccurate information in violation of the Eighth Amend- 
+ment.?4 
+
+
+The reasonable likelihood that petitioner was sen- 
+tenced to death on the basis of the jury’s erroneous 
+assumptions about the effect of a jury deadlock also vio- 
+lated the Fifth Amendment’s guarantee of due process. 
+The Court has long recognized that sentences based on 
+“assumptions . . . which [are] materially untrue” or “on a 
+
+
+24 The erroneous jury instructions effectively forced jurors 
+who might have considered a sentence of life imprisonment into 
+an unconstitutional all-or-nothing choice between death and a 
+less-than-life sentence. Cf. Beck v. Alabama, 447 U.S. 625, 642-43 
+(1980) (striking on Eighth Amendment grounds an Alabama 
+procedural rule that forbade the giving of a lesser included 
+offense instruction in a capital case, on the ground that forcing 
+the jury into an all-or-nothing choice between conviction for a 
+capital offense and outright acquittal “interject[ed] irrelevant 
+considerations into the factfinding process,” thereby 
+“introduc[ing] a level of uncertainty and unreliability into the 
+factfinding process that cannot be tolerated in a capital case”). 
+
+
+32 
+
+
+foundation [which is] extensively and materially false” 
+violate due process. Townsend v. Burke, 334 U.S. 736, 741 
+(1948). This principle applies with even greater force in the 
+capital sentencing context, where the necessity of accurate 
+sentencing information is reinforced by the Eighth 
+Amendment requirement of “heightened reliability” in the 
+imposition of death sentences. Accordingly, the Court 
+should reverse petitioner’s death sentence. 
+
+
+Il. PETITIONER WAS ENTITLED TO A JURY 
+INSTRUCTION THAT THE JURY’S FAILURE TO 
+AGREE ON A SENTENCING RECOMMENDA- 
+TION WOULD RESULT IN A COURT-IMPOSED 
+SENTENCE OF LIFE IMPRISONMENT WITHOUT 
+POSSIBILITY OF RELEASE.*° 
+
+
+The District Court erred in denying petitioner’s 
+requested instruction (J.A. 14-15) that the result of jury 
+deadlock on the sentencing recommendation would be a 
+court-imposed sentence of life without release. First, con- 
+trary to the holding of the Court of Appeals, such an 
+instruction correctly states the law. Second, the instruc- 
+tion was required, not only as a matter of affirmative 
+right, but also, under the circumstances of this case, to 
+correct the erroneous and highly prejudicial impression 
+which the other instructions gave: namely, that jury dead- 
+lock would result in some court-imposed sentence less 
+than life imprisonment. 
+
+
+2° As previously discussed, if the Court grants petitioner 
+relief on the narrower question previously discussed, the Court 
+need not reach this potentially more far-reaching question. See 
+footnote 9, supra. 
+
+
+33 
+
+
+A. Under the FDPA as Applied to this Case, Jury 
+Deadlock Would Have Resulted in a Court- 
+Imposed Sentence of Life Imprisonment Which 
+was Perforce Without the Possibility of Parole 
+or Release. 
+
+
+The Court of Appeals agreed that, as this jury went 
+into the sentencing hearing, there were only two sentenc- 
+ing options available: death, or life imprisonment which 
+was, perforce, without the possibility of parole or release. 
+(J.A. 110). The Court of Appeals nevertheless found no 
+error in the District Court’s refusal to give petitioner’s 
+requested instruction on the effect of jury nonunanimity, 
+because the Court of Appeals found that the instruction 
+was not a correct statement of the law. Particularly, the 
+Court of Appeals held that, contrary to petitioner’s argu- 
+ment, jury deadlock on the penalty recommendation 
+would not result in a court-imposed sentence of life 
+imprisonment because “the Federal Death Penalty Act 
+requires the jury to achieve unanimity or no verdict 
+results.” (J.A. 103). The Court of Appeals thus apparently 
+accepted the government's argument that a hung jury in 
+the sentencing phase would require a new sentencing 
+hearing.?° 
+
+
+Contrary to this ruling, a “mistrial” and a new sen- 
+tencing hearing are not permissible options where the 
+sentencing jury deadlocks as to the appropriate punish- 
+ment. While the FDPA does admonish that, after weigh- 
+ing the aggravating factors against any mitigating factors, 
+“the jury by unanimous vote .. . shall recommend 
+whether the defendant should be sentenced to death, to 
+
+
+26 Notably, this argument did not make its debut until the 
+appellate stage. At the trial stage, the government had 
+expressed the view that jury nonunanimity would result in 
+court sentencing. See Government's Response to Defendant's 
+Motion for New Trial (J.A. 73). 
+
+
+34 
+
+
+life imprisonment without possibility of release or some 
+other lesser sentence,” 18 U.S.C. § 3593(e), this provision 
+does not, however, speak to the case where the jury 
+cannot arrive at a unanimous sentencing decision. 
+
+
+Rather, the jury deadlock situation is covered by the 
+very next section of the FDPA, which provides that 
+
+Upon a [unanimous] recommendation under 
+
+section 3593(e) that the defendant should be 
+
+sentenced to death or life imprisonment without 
+possibility of release, the court shall sentence 
+
+the defendant accordingly. Otherwise, the court 
+
+shall impose any lesser sentence that is autho- 
+
+rized by law. Notwithstanding any other law, if 
+
+the maximum term of imprisonment for the 
+
+offense is life imprisonment, the court may 
+
+impose a sentence of life imprisonment without 
+possibility of release. 
+18 U.S.C. § 3594 (emphasis added). 
+
+The meaning of § 3594 could not be any plainer. If the 
+jury unanimously recommends death or life without 
+release, the court is required to impose those sentences. 
+“Otherwise” — i.e., in any other case - the duty of sen- 
+tencing devolves upon the court. The “otherwise” clause 
+thus plainly encompasses not only the scenario of a unan- 
+imous recommendation for a lesser sentence, but also the 
+scenario of a jury deadlocked over the penalty recom- 
+mendation. 
+
+“[W]here, as here, the statute’s language is plain, ‘the 
+sole function of the courts is to enforce it according to its 
+terms.’ ” United States v. Ron Pair Enterprises, Inc., 489 U.S. 
+235, 241 (1989) (citation omitted). Lest there remain any 
+doubt, however, the legislative history of the FDPA con- 
+firms that petitioner’s interpretation of § 3594 is the cor- 
+rect one. In the Judiciary Committee’s Report on House 
+Bill No. 4035, the Committee, in its section-by-section 
+analysis of the identical language at issue here, explained 
+as follows: 
+
+
+PE ee ee ee ee 
+
+
+—— ~~. oe CO 
+
+
+35 
+
+
+Subsection 3593(e) requires the sentencer to 
+consider whether all the aggravating factors 
+found to exist sufficiently outweigh any mitigat- 
+ing factors found to exist to justify a sentence of 
+death, or, in the absence of a mitigating factor, 
+whether the aggravating factors alone are suffi- 
+cient to justify a sentence of death. Based upon 
+this consideration, a unanimous jury, or if there 
+is no jury, the court, shall recommend whether 
+the defendant should be sentenced to death, to 
+life imprisonment without possibility of release, 
+or to some lesser sentence. If the jury is not 
+unanimous, the judge shall impose the sen- 
+tence pursuant to Section 3594. 
+
+
+H.R. Rep. No. 103-467, at 9 (1994), available in 1994 WL 
+107578, at 26 (emphasis added). Given that Committee 
+Reports on a bill are the type of legislative history viewed 
+as most “authoritative” by the Court, see Garcia v. United 
+States, 469 U.S. 70, 76 (1984), this very clear statement 
+about the effect of jury nonunanimity demonstrates that 
+the Court of Appeals was wrong in holding that a dead- 
+locked jury would require sentencing by a new jury. 
+
+
+In sum, petitioner's requested jury instruction was 
+substantively correct: a failure by the jury to unanimously 
+vote for the death penalty would have resulted in a 
+sentence of life imprisonment without the possibility of 
+parole or release for petitioner.?” 
+
+
+27 To be sure, this will not always be the case under § 3594. 
+Many potential death penalty offenses permit alternative 
+penalties of, not only life imprisonment, but also lesser 
+penalties. See, e.g., 18 U.S.C. § 242; 18 U.S.C. § 844(d). 
+
+
+36 
+
+
+B. The Failure to Give Such an Instruction 
+Requires Reversal of Petitioner's Death Sen- 
+tence. 
+
+
+Petitioner was entitled to an instruction on the effect 
+of nonunanimity, both as a matter of affirmative right and 
+also in order to correct the erroneous impression (created 
+by the instructions actually given) that nonunanimity on 
+the sentencing recommendation would result in a court- 
+imposed sentence of less than life imprisonment. Peti- 
+tioner’s entitlement to this instruction rests on both non- 
+constitutional and constitutional grounds. 
+
+
+1. Nonconstitutional bases for reversal 
+
+
+First, the failure to give the instruction at issue here 
+created an “arbitrary factor,” vitiating the death sentence 
+and requiring reversal under 18 U.S.C. § 3595(c)(2). In 
+other “arbitrary factor” jurisdictions, courts have recog- 
+nized that the need to prevent death sentences returned 
+as a result of “arbitrary factors” requires an instruction 
+accurately describing the possible sentences. See, e.g., Par- 
+ker, 887 P.2d at 299; Sonnier, 379 So.2d at 1371-72. In a 
+similar vein, courts have recognized that, where jury 
+nonunanimity results in the imposition of a particular 
+non-death sentence, the jury must be informed of that 
+fact in order to avoid the arbitrary and capricious imposi- 
+tion of the death penalty based on speculation as to what 
+the consequences of deadlock might be.** “[B]y allowing 
+
+
+28 See, e.g., State v. Williams, 392 So.2d 619, 633-35 (La. 1980) 
+(on rehearing); Whalen v. State, 492 A.2d 552, 562 (Del. 1985); 
+State v. Ramseur, 106 N.J. 123, 308-12, 524 A.2d 188, 282-84 
+(1987). Although Williams and Whalen rely on the Eighth 
+Amendment's prohibition of the arbitrary and capricious 
+imposition of the death penalty, their reasoning applies a fortiori 
+where, as here, a statutory scheme forbids the imposition of the 
+death penalty under the influence of any “arbitrary factor.” Cf. 
+
+
+a i 
+
+
+37 
+
+
+the jurors to remain ignorant of the true consequence of 
+their failure to decide unanimously upon a recommenda- 
+tion, the trial court fail[s] to suitably direct and limit the 
+jury's discretion so as to minimize the risk of arbitrary 
+and capricious action.” Williams, 392 So.2d at 634-35. “To 
+hide from the jury the full range of its sentencing options, 
+thus permitting its decision to be based on uninformed 
+and possibly inaccurate speculation, is to mock the goals 
+of rationality and consistency required by modern death 
+penalty jurisprudence.” Ramseur, 106 N.J. at 311, 524 A.2d 
+at 284. 
+
+
+The requested instruction was all the more necessary 
+here, in order to correct the jury's mistaken — and highly 
+damaging — belief that their failure to achieve unanimity 
+would result in a less-than-life sentence. Inasmuch as the 
+erroneous instructions interjected an “arbitrary factor” 
+into these proceedings, the failure to give the corrective 
+instruction perpetuated that arbitrariness, and likewise 
+requires reversal under the FDPA. 
+
+
+The failure to give this corrective instruction also 
+constitutes reversible error which is cognizable both 
+under the FDPA’s error correction prong (18 U.S.C. 
+§ 3595(c)(2)(C)) and in this Court’s capacity as supervisor 
+of the lower federal courts. The Court has previously 
+reversed a federal conviction on the latter basis where a 
+district court failed to give an accurate supplemental 
+instruction to clear up jury confusion about the meaning 
+of the court’s charge. See Bollenbach, 326 U.S. at 610-15. 
+The Court noted that, where difficulties in the charge are 
+brought to the court's attention, “a trial judge should 
+clear them away with concrete accuracy.” Id. at 612-13. 
+Especially since “[i]n death cases doubts such as those 
+
+
+Ramseur, 106 N.J. at 308-11, 524 A.2d at 282-83 (agreeing with 
+Williams and Whalen, but adopting rule under supervisory 
+power, not as constitutional mandate). 
+
+
+38 
+
+
+presented here should be resolved in favor of the 
+accused,” Andres, 333 U.S. at 752, the Court should hold 
+that the failure to give the instruction at issue requires 
+reversal of petitioner's death sentence. 
+
+
+2. Constitutional bases for reversal 
+
+
+Reversal of petitioner's sentence is required as a 
+matter of constitutional law as well. The failure affirma- 
+tively to inform a capital sentencing jury about the 
+consequences of nonunanimity in their sentencing recom- 
+mendation renders a death sentence arbitrary and ¢ )pri- 
+cious in violation of the Eighth Amendment.?* But the 
+Court need not hold that such an instruction is required 
+in every case in order to rule for petitioner here. 
+
+
+Because the instructions actually given created the 
+inaccurate impression that a lack of unanimity would 
+result in a less-than-life sentence imposed by the court, 
+the failure to give this instruction left the jury critically 
+misinformed about the consequences of their failure to 
+agree. Under these circumstances, the Eighth Amend- 
+ment required that petitioner’s requested instruction be 
+given. As Justice Souter has noted, “[W]henever there is a 
+reasonable likelihood that a juror will misunderstand a 
+sentencing term, a defendant may demand instruction on 
+its meaning, and a death sentence following the refusal 
+of such a request should be vacated as having been 
+‘arbitrarily or discriminatorily’ and ‘wantonly and 
+... freakishly imposed.’ ” Simmons v. South Carolina, 512 
+U.S. 154, 172-73 (1994) (SOUTER, J., concurring) 
+(citations omitted). Petitioner’s death sentence should 
+
+
+29 See authorities cited in Section I1.B.1. and footnote 28, 
+supra. 
+
+
+39 
+
+
+therefore be reversed as violative of the Eighth Amend- 
+ment.*° 
+
+
+In sum, it is at least reasonably likely that the jury 
+labored under a critical misunderstanding of the conse- 
+quences of jury nonunanimity. Because the Court has 
+insisted that capital sentences must be reliable and based 
+on accurate information, the Court should reverse peti- 
+tioner’s death sentence and remand to the Court of 
+Appeals with instructions to “remand the case for recon- 
+sideration under section 3593 or imposition of a sentence 
+other than death.” 18 U.S.C. § 3595(c)(2). 
+
+
+Ill. THE SUMMARY ASSERTION OF HARMLESS 
+ERROR BY THE COURT OF APPEALS, WITH- 
+OUT ANY ANALYSIS OR EXPLANATION BASED 
+UPON THE RECORD, REQUIRES REVERSAL. 
+
+
+A. Introduction 
+
+
+In a weighing scheme like the FDPA, aggravating 
+factors not only narrow the class of defendants eligible 
+for the death penalty, but also guide the jury’s decision 
+on whether to impose the death penalty. See Stringer v. 
+
+
+© The refusal to give the instruction at issue here is also a 
+“procedural rule that ten[ds] to diminish the reliability of the 
+sentencing determination” under Beck v. Alabama, 447 U.S. 625, 
+638 (1980). Cf. Simmons, 512 U.S. at 172-74 (SOUTER, J., 
+concurring). Additionally, to the extent that the instructions 
+actually given created an impermissible “all-or-nothing” choice 
+like that condemned in Beck, the failure to give the corrective 
+instruction perpetuated that error. See footnote 24, supra. 
+Finally, the failure to give the corrective instruction meant that, 
+on the basis of the misleading instructions actually given, 
+petitioner was very likely sentenced to death based on 
+“assumptions . . . which were materially untrue” or “on a 
+foundation [which was] extensively and materially false,” in 
+violation of due process. Townsend v. Burke, 334 U.S. 736, 741 
+(1948). 
+
+
+40 
+
+
+Black, 503 U.S. 222, 234-35 (1992). Under the FDPA, the 
+sentencer must balance each aggravating factor found to 
+exist against each mitigating factor found to exist; the 
+jury may sentence the defendant to death only if all the 
+aggravating factors found to exist outweigh all the mit- 
+igating factors found to exist. See 18 U.S.C. § 3593(e). 
+
+
+Although the Court of Appeals found that the jury in 
+this case had relied upon two invalid nonstatutory aggra- 
+vating factors in the weighing process, (J.A. 117-119), that 
+court did not reverse and remand for a new sentencing 
+hearing. Instead, the court summarily asserted that the 
+error was harmless since the verdict would have been the 
+same absent the invalid aggravating factors. (J.A. 
+122-123). 
+
+
+In making such a conclusory finding of harmless 
+error, the Court of Appeals ignored 18 U.S.C. § 3595(c), 
+which allows appellate courts to find “harmless error” 
+only when the “Government establishes beyond a reason- 
+able doubt that the error was harmless.’ The Court of 
+Appeals also misapplied this Court’s precedents which 
+clearly require that, where an invalid aggravating factor 
+is submitted to the jury, the reviewing court must make 
+“a detailed explanation based on the record” to support a 
+finding of harmless error. Clemons v. Mississippi, 494 U.S. 
+738, 753 (1990); see also Stringer, 503 U.S. at 230 (requiring 
+“a thorough analysis of the role an invalid aggravator 
+played in the sentencing process”); Sochor v. Florida, 504 
+U.S. 527, 541 (1992) (O'CONNOR, J., concurring) (“bald 
+assertion that an error of constitutional dimensions was 
+‘harmless’ cannot substitute for a principled explanation 
+of how the court reached that conclusion”). 
+
+
+The Court of Appeals did not discuss the aggravating 
+and mitigating evidence, nor did it assess the weight the 
+jury might have given to that evidence. Most signifi- 
+cantly, the Court of Appeals did not discuss the eleven 
+mitigating factors found by one or more jurors or the 
+wealth of evidence that supported the findings of those 
+mitigating factors. Instead, the Court of Appeals merely 
+
+
+41 
+
+
+asserted that the two valid aggravating factors “sup- 
+portied]” the sentence of death. Because the Court of 
+Appeals asserted “harmless error” in the absence of “a 
+principled explanation of how the court reached that 
+conclusion,” Sochor, id. at 541 (O'CONNOR, J., concur- 
+ring), in violation of both § 3595 and the Constitution, 
+petitioner’s death sentence must be reversed. 
+
+
+B. The Court of Appeals Did Not Perform the 
+Harmless Error Analysis Intended by Congress. 
+
+
+Under a weighing statute like the FDPA, where a 
+sentencer relies upon an invalid aggravating factor or 
+factors, the sentence itself is invalid and must be 
+reversed, unless the reviewing court either reweighs the 
+valid aggravating factors against the mitigating evidence 
+or conducts harmless error analysis.*! See Clemons, 494 
+U.S. at 741. In § 3595(c) of the FDPA, Congress speci- 
+fically selected the latter option: “The court of appeals 
+shall not reverse or vacate a sentence of death on account 
+of any error which can be harmless, including any erro- 
+neous special finding of an aggravating factor, where the 
+Government establishes beyond a reasonable doubt that 
+the error was harmless.” 
+
+
+Section 3595(c) thus incorporates the harmless- 
+beyond-a-reasonable-doubt standard first articulated by 
+the Court in Chapman v. California, 386 U.S. 18 (1967): 
+namely, whether the government has proved beyond a 
+reasonable doubt that the jury would have imposed a 
+sentence of death had the two invalid factors not been 
+
+
+*! Although the Court has never precisely delineated the 
+differences between the two concepts, they clearly are different. 
+Harmless error analysis focuses on what a properly instructed 
+jury would have done; reweighing on appeal permits the 
+appellate court to make its own judgment after reweighing the 
+remaining valid aggravating factors against the mitigating 
+factors. 
+
+
+42 
+
+
+submitted, or, put another way, whether there is a reason- 
+able possibility that the error might have contributed to 
+the verdict. See Chapman, 386 U.S. at 24. In this case, that 
+standard requires that, because there is a reasonable pos- 
+sibility that one or both of the invalid aggravating factors 
+contributed to the verdict, the sentence must be reversed. 
+
+
+It is especially important that a reviewing court con- 
+fronted with the problem of erroneous submission of 
+invalid aggravating factors make a detailed review of the 
+entire record. The Eighth Amendment guarantees to a 
+capital defendant an “individualized determination” of his 
+sentence, and the Court has “emphasized repeatedly the 
+crucial role of meaningful appellate review in ensuring 
+that the death penalty is not imposed arbitrarily or irra- 
+tionally.” Parker v. Dugger, 498 U.S. 308, 321 (1991). More- 
+over, Congress explicitly recognized the importance of 
+appellate review under this statute. See, e.g., 18 U.S.C. 
+§ 3595(c)(1) (court of appeals “shall address all substantive 
+and procedural issues raised” on appeal). No doubt wish- 
+ing to effectuate the Eighth Amendment's requirement of 
+individualized sentencing, Congress plainly intended that 
+harmless error review under the FDPA be conducted with 
+at least the kind of detailed and thorough analysis and 
+explanation required by Clemons, Parker, and Sochor. 
+
+
+The standard for harmless error review under the 
+FDPA, then, is not whether a death sentence would have 
+been authorized if there remain valid aggravating factors 
+after removing any invalid aggravating factors.*? Nor is 
+the standard whether the court of appeals, in the exercise 
+
+
+52 Because a capital defendant is entitled under the Eighth 
+Amendment to an individualized determination of his sentence, 
+an appellate court in a weighing jurisdiction cannot rely upon 
+the fact that there remain valid aggravating factors and thereby 
+automatically affirm a death sentence. See Clemons, 494 U.S. at 
+752; Richmond v. Lewis, 506 U.S. 40, 46 (1992); Stringer, 503 U.S. at 
+229-32. 
+
+
+43 
+
+
+of its own judgment, would consider death an appropri- 
+ate sentence. The only way to conduct a proper harmless 
+error review under the FDPA is to make a detailed expla- 
+nation based upon the record as to why the jury would 
+have imposed the same sentence absent the invalid 
+aggravating factors. At a minimum, this requires a 
+detailed explanation of the Court of Appeals’ analysis 
+and an articulation of how much weight it believed the 
+jury assigned to each aggravating and mitigating factor. 
+
+
+It is true that the Court of Appeals used the phrase 
+“harmless error,” and the court stated that the death 
+sentence would have been imposed “had the invalid 
+aggravating factors never been submitted to the jury.” 
+(J.A. 123). However, the court offered no explanation as 
+to how it reached that conclusion. Proper harmless error 
+analysis would have required the court to explain why 
+the jurors would have reached the same result had they 
+weighed the two remaining aggravating factors against 
+the mitigating factors. But the court did not discuss the 
+mitigating evidence at all, other than a bare reference to 
+
+
+3 For example, the Tennessee Supreme Court has held: 
+
+
+In order to guarantee the precision that 
+individualized sentencing considerations demand 
+and provide a principled explanation for our 
+conclusion in each case, it is important, when 
+conducting harmless error review, to completely 
+examine the record for the presence of factors which 
+potentially influence the sentence ultimately 
+imposed. These include, but are not limited to, the 
+number and strength of remaining valid aggravating 
+circumstances, the prosecutor’s argument at 
+sentencing, the evidence admitted to establish the 
+invalid aggravator, and the nature, quality and 
+strength of mitigating evidence. 
+
+
+State v. Howell, 868 S.W.2d 238, 260-61 (Tenn. 1993) (footnote 
+omitted), cert. denied, 510 U.S. 1215 (1994). 
+
+
+44 
+
+
+“the eleven mitigating factors found by one or more 
+jurors.” (J.A. 122). The Court held in Clemons that: 
+
+
+because the Mississippi Supreme Court's opin- 
+ion is virtually silent with respect to the particu- 
+lars of the allegedly mitigating evidence 
+presented by Clemons to the jury, we cannot be 
+sure that the court fully heeded our cases 
+emphasizing the importance of the sentencer’s 
+consideration of a defendant’s mitigating evi- 
+dence. 
+
+
+Clemons, 494 U.S. at 752. Similarly, in Parker v. Dugger, this 
+Court emphasized the importance of considering mitigat- 
+ing evidence in conducting harmless error analysis: “Fol- 
+lowing Clemons, a reviewing court is not compelled to 
+remand. It may instead reweigh the evidence or conduct 
+a harmless error analysis based on what the sentencer 
+actually found. What the Florida Supreme Court could 
+not do, but what it did, was to ignore the evidence of 
+mitigating circumstances in the record. ... “ Parker, 498 
+U.S. at 320 (emphasis added). See also Richmond v. Lewis, 
+506 U.S. at 49 (state supreme court did not “even mention 
+the evidence in mitigation”). 
+
+
+Remarkably, the Fifth Circuit’s opinion is completely 
+silent with respect to the particulars of petitioner’s mit- 
+igating evidence. In fact, there was an extraordinary 
+amount of mitigating evidence in this case. Petitioner 
+served for twenty-two years in the United States Army, 
+retiring with an honorable discharge as a Master Sergeant 
+in the Army Airborne Rangers. He served with distinc- 
+tion in two foreign conflicts, and was awarded a Mer- 
+itorious Service Award and a Commendation Medal. 
+And, the jury found that, unlike most capital defendants, 
+“[petitioner] did not have a significant prior criminal 
+record.” (J.A. 54). The jury also found that petitioner's 
+daughter would suffer emotional trauma if her father was 
+executed, and that petitioner was remorseful and would 
+likely be a well-behaved inmate. (J.A. 55) 
+
+
+45 
+
+
+Moreover, despite a horrible and traumatic child- 
+hood, which included regular sexual and physical abuse, 
+petitioner managed, against overwhelming odds, to lead 
+a successful and productive adult life. The defense 
+offered compelling expert testimony of brain damage and 
+psychiatric and psychological disorders, which combined 
+to severely impair petitioner’s ability to control his 
+impulses on the night of the murder. And, the jury not 
+only found that petitioner had proved every mitigating 
+factor that he had submitted, but also found that peti- 
+tioner’s ex-wife was an additional mitigating factor. (J.A. 
+54-56). 
+
+
+In conducting harmless error analysis, the reviewing 
+court should not ignore any of the mitigating factors that 
+the jury found, or substitute its judgment for that of the 
+jurors who found those mitigating factors. The fact that 
+all jurors did not find these factors is irrelevant. The 
+FDPA explicitly provides that if one juror finds that the 
+defendant has proved a mitigating factor, that factor must 
+be considered as part of the weighing process. See 18 
+U.S.C. § 3593(d). Because the Court of Appeals mentioned 
+none of this evidence in its summary conclusion that the 
+error was harmless, the Court of Appeals did not perform 
+
+
+4 Because each juror makes an individual finding as to 
+whether each mitigating factor has been proved, and because a 
+sentence of death must be unanimous, the court of appeals 
+should consider any mitigating factor found by at least one juror 
+when determining whether the jury would have sentenced the 
+defendant to death absent the invalid aggravating factors. Cf. 
+Kirkpatrick v. Whitley, 992 F.2d 491, 497 (Sth Cir. 1993) (in 
+discussing materiality of Brady claims, holding that “given the 
+unanimity required at the Louisiana punishment phase, the 
+proper frame of reference . . . is whether the mind of one juror 
+could have been changed with respect to the imposition of the 
+sentence of death”). 
+
+
+46 
+
+
+the harmless error analysis required by § 3595 and by the 
+Eighth Amendment. 
+
+
+C. The Court of Appeals Incorrectly Assumed that 
+Because the Invalid Aggravating Factors Were 
+Nonstatutory, They Were Not Important in the 
+Jury’s Deliberations. 
+
+
+The Court of Appeals incorrectly assumed that, 
+because the invalid aggravating factors in this case were 
+“nonstatutory” rather than “statutory,” those factors were 
+not important in the jury’s deliberations. In the one para- 
+graph in which it discussed whether the error was harm- 
+less, the Court of Appeals emphasized that the two 
+statutory aggravating factors found by the jury were 
+valid: 
+
+[I]f the jury had failed to find at least one of the 
+statutory aggravating factors b@yond a reason- 
+able doubt, then the deliberations would have 
+ceased leaving the jury powerless to recommend 
+the death penalty. Therefore the ability of the 
+jury to recommend the death penalty hinged on 
+a finding of at least one statutory aggravating 
+factor. Conversely, jury findings regarding the 
+nonstatutory aggravating factors were not 
+required before the jury could recommend the 
+death penalty. (J.A. 122). 
+
+
+The court concluded that the two remaining aggravating 
+factors “support[ed]” the sentence of death.*® (J.A. 122). 
+
+
+35 The use of the verb “support” indicates that the Court of 
+Appeals answered the wrong question, namely, whether the 
+jury legally could sentence petitioner to death. The question the 
+Court of Appeals did not answer, the one it was legally 
+obligated to answer, was whether the jury would have 
+sentenced petitioner to death absent the invalid aggravating 
+factors. 
+
+
+47 
+
+
+Although a death sentence is not authorized unless 
+the jury finds at least one statutory aggravating factor, 
+once the jury does find a statutory aggravating factor, all 
+aggravating factors that the jury finds to be proved must 
+be weighed in the decisional process. Once the jury found 
+one statutory aggravating factor, it was legally obligated 
+to make no distinction between “statutory” and “non- 
+statutory” aggravating factors. The jurors were instructed 
+that they “must weigh any aggravating factors that [they] 
+unanimously f[ound] to exist - whether statutory or non- 
+statutory... . ” (J.A. 43) (emphasis added). 
+
+
+Contrary to the lower court’s assumption, therefore, 
+nonstatutory aggravating factors can have a profound 
+impact under the FDPA, because they are weighed 
+alongside statutory aggravating factors in the decision 
+between life and death. In this weighing process, jurors 
+may choose to assign greater weight to a nonstatutory 
+aggravating factor than to any or all of the remaining 
+statutory aggravating factors and mitigating factors in the 
+case. The FDPA quite specifically requires that the jury 
+consider each aggravating factor that it finds beyond a 
+reasonable doubt (and the judge so instructed the jury in 
+this case). The Court of Appeals erred in concluding that 
+the two invalid aggravating factors did not affect the 
+
+
+verdict. 
+
+
+D. The Proper Remedy is to Remand for a New 
+Sentencing Before a Jury. 
+
+
+Because the Court of Appeals failed to articulate the 
+basis of its conclusion that the error was harmless, the 
+sentence must be reversed. Moreover, on the record in 
+this case, it is simply not possible to conclude beyond a 
+reasonable doubt that the jury would have sentenced the 
+defendant to death without the submission of the two 
+invalid aggravating factors. Accordingly, the proper rem- 
+edy on this record is not to remand to the Court of 
+
+
+48 
+
+
+Appeals to conduct harmless error analysis. Instead, the 
+case should be remanded for a new sentencing hearing 
+before a jury. See 18 U.S.C. § 3595(c)(2). 
+
+
+Had the Court of Appeals actually conducted proper 
+harmless error analysis, the record in this case could not 
+support a finding beyond a reasonable doubt that a prop- 
+erly instructed jury, not relying upon the two invalid 
+aggravating factors, would have reached the same deci- 
+sion. This was a close and difficult decision for the jurors. 
+First, the jury’s refusal to find several of the aggravating 
+factors submitted by the government indicates that the 
+jury’s decision was anything but a foregone conclusion.*® 
+Moreover, even with the two invalid aggravating factors 
+weighed in the balance, the jury still deliberated for a day 
+and a half. The two juror affidavits provide a window 
+into how difficult and close the decision was. And, as 
+shown above, the jury was instructed erroneously about 
+the consequences if the jury was not unanimous as to 
+either death or life without possibility of release. This 
+error further skewed the deliberations, and makes it 
+especially difficult to rely upon the jury’s actual verdict 
+to speculate whether a properly instructed jury would 
+have reached the same decision. 
+
+
+In short, the record in this case makes harmless error 
+analysis “extremely speculative or impossible.” See 
+Clemons, 494 U.S. at 754 (noting that an appellate court 
+“may conclude that peculiarities in a case make appellate 
+reweighing or harmless-error analysis extremely specula- 
+tive or impossible”). Accordingly, the Court should 
+
+
+36 The jury refused to find that petitioner committed the 
+offense after substantial planning and premeditation; it refused 
+to find that he knowingly created a grave risk of death to one or 
+more persons in addition to the victim; and it refused to find 
+that petitioner constitutes a future danger to the lives and safety 
+of other persons. (J.A. 51-53). 
+
+
+49 
+
+
+reverse the judgment of the Court of Appeals and remand 
+for a new sentencing hearing before a jury. 
+
+
+CONCLUSION 
+
+
+The judgment of the United States Court of Appeals 
+should be reversed. 
+
+
+Respectfully submitted, 
+
+
+Timotny Crooxs* 
+
+Assistant Federal Public Defender 
+600 Texas Street, Suite 100 
+
+Fort Worth, TX 76102-4612 
+
+(817) 978-2753 
+
+
+Timotny W. Froyp 
+
+Professor of Law 
+
+Texas Tech University Law School 
+18th & Hartford 
+
+Lubbock, TX 79409 
+
+(806) 742-3982 
+
+
+Counsel for Petitioner 
+“Counsel of Record for Petitioner 
+
+
+A-l 
+
+
+APPENDIX A 
+18 U.S.C. § 1201(a) 
+§ 1201. Kidnapping 
+
+
+(a) Whoever unlawfully seizes, confines, inveigles, 
+decoys, kidnaps, abducts, or carries away and holds for 
+ransom or reward or otherwise any person, except in the 
+case of a minor by the parent thereof, when - 
+
+
+(1) the person is willfully transported in 
+interstate or foreign commerce; 
+
+
+(2) any such act against the person is done 
+within the special maritime and territorial juris- 
+diction of the United States; 
+
+
+(3) any such act against the person is done 
+within the special aircraft jurisdiction of the 
+United States as defined in section 46501 of title 
+49; 
+
+
+(4) the person is a foreign official, an inter- 
+nationally protected person, or an official guest 
+as those terms are defined in section 1116(b) of 
+this title; or 
+
+
+(5) the person is among those officers and 
+employees designated in section 1114 of this 
+title and any such act against the person is done 
+while the person is engaged in, or on account of, 
+the performance of official duties; 
+
+
+shall be punished by imprisonment for any term of years 
+or for life and, if the death of any person results, shall be 
+punished by death or life imprisonment. 
+
+
+B-1 
+
+
+APPENDIX B 
+18 U.S.C. §§ 3591-3598 
+
+
+§ 3591. Sentence of death 
+(a) A defendant who has been found guilty of - 
+
+
+(1) an offense described in section 794 or 
+section 2381; or 
+
+
+(2) any other offense for which a sentence 
+of death is provided, if the defendant, as deter- 
+mined beyond a reasonable doubt at the hearing 
+under section 3593 - 
+
+
+(A) intentionally killed the victim; 
+
+
+(B) intentionally inflicted serious 
+bodily injury that resulted in the death of 
+the victim; 
+
+
+(C) intentionally participated in an 
+act, contemplating that the life of a person 
+would be taken or intending that lethal 
+force would be used in connection with a 
+person, other than one of the particapants in 
+the offense, and the victim died as a direct 
+result of the act; or 
+
+
+(D) intentionally and specifically 
+engaged in an act of violence, knowing that 
+the act created a grave risk of death to a 
+person, other than one of the participants in 
+the offense, such that participation in the 
+act constituted a reckless disregard for 
+human life and the victim died as a direct 
+result of the act, 
+
+
+shall be sentenced to death if, after consideration of the 
+factors set forth in section 3592 in the course of a hearing 
+
+
+B-2 
+
+
+held pursuant to section 3593, it is deterrnined that impo- 
+sition of a sentence of death is justified, except that no 
+person may be sentenced to death who was less than 18 
+years of age at the time of the offense. 
+
+
+(b) A defendant who has been found guilty of - 
+
+
+(1) an offense referred to in section 
+408(c)(1) of the Controlled Substances Act (21 
+U.S.C. 848(c)(1)), committed as part of a con- 
+tinuing criminal enterprise offense under the 
+conditions described in subsection (b) of that 
+section which involved not less than twice the 
+quantity of controlled substance described in 
+subsection (b)(2)(A) or twice the gross receipts 
+described in subsection (b)(2)(B); or 
+
+
+(2) an offense referred to in section 
+408(c)(1) of the Controlled Substances Act (21 
+U.S.C. 848(c)(1)), committed as part of a continu- 
+ing criminal enterprise offense under that sec- 
+tion, where the defendant is a principal 
+administrator, organizer, or leader of such an 
+enterprise, and the defendant, in order to 
+obstruct the investigation or prosecution of the 
+enterprise or an offense involved in the enter- 
+prise, attempts to kill or knowingly directs, 
+advises, authorizes, or assists another to attempt 
+to kill any public officer, juror, witness, or mem- 
+bers of the family or household of such a person, 
+
+
+shall be sentenced to death if, after consideration of the 
+factors set forth in section 3592 in the course of a hearing 
+held pursuant to section 3593, it is determined that impo- 
+sition of a sentence of death is justified, except that no 
+person may be sentenced to death who was less than 18 
+years of age at the time of the offense. 
+
+
+§ 3592. 
+
+
+(a) 
+
+
+B-3 
+
+
+Mitigating and aggravating factors to be con- 
+sidered in determining whether a sentence of 
+death is justified 
+
+
+Mitigating factors. - In determining whether a 
+
+
+sentence of death is to be imposed on a defendant, the 
+finder of fact shall consider any mitigating factor, includ- 
+ing the following: 
+
+
+B-4 
+
+
+(6) Disturbance. — The defendant commit- 
+ted the offense under severe mental or emo- 
+tiona! disturbance. 
+
+
+(7) Victim’s consent. — The victim con- 
+sented to the criminal conduct that resulted in 
+the victim's death. 
+
+
+(8) Other factors. — Other factors in the 
+
+
+(1) Impaired capacity. - The defendant's 
+capacity to appreciate the wrongfulness of the 
+defendant's conduct or to conform conduct to 
+the requirements of law was significantly 
+impaired, regardless of whether the capacity 
+was so impaired as to constitute a defense to the 
+charge. 
+
+
+(2) Duress. - The defendant was under 
+unusual and substantial duress, regardless of 
+whether the duress was of such a degree as to 
+constitute a defense to the charge. 
+
+
+(3) Minor participation. - The defendant 
+is punishable as a principal in the offense, which 
+was committed by another, but the defendant's 
+participation was relatively minor, regardless of 
+whether the participation was so minor as to 
+constitute a defense to the charge. 
+
+
+(4) Equally culpable defendants. - 
+Another defendant or defendants, equally cul- 
+pable in the crime, will not be punished by 
+death. 
+
+
+(5) No prior criminal record. —- The defen- 
+dant did not have a significant prior history of 
+other criminal conduct. 
+
+
+defendant's background, record, or character or 
+any other circumstance of the offense that miti- 
+gate against imposition of the death sentence. 
+
+
+(b) Aggravating factors for espionage and treason. 
+~ In determining whether a sentence of death is justified 
+for an offense described in section 3591(a)(1), the jury, or 
+if there is no jury, the court, shall consider each of the 
+following aggravating factors for which notice has been 
+given and determine which, if any, exist: 
+
+
+(1) Prior espionage or treason offense. - 
+The defendant has previously been convicted of 
+another offense involving espionage or treason 
+for which a sentence of either life imprisonment 
+or death was authorized by law. 
+
+
+(2) Grave risk to national security. — In 
+the commission of the offense the defendant 
+knowingly created a grave risk of substantial 
+danger to the national security. 
+
+
+(3) Grave risk of death. —- In the commis- 
+sion of the offense the defendant knowingly 
+created a grave risk of death to another person. 
+
+
+The jury, or if there is no jury, the court, may consider 
+whether any other aggravating factor for which notice 
+has been given exists. 
+
+
+B-5 
+
+
+(c) Aggravating factors for homicide. - In deter- 
+mining whether a sentence of death is justified for an 
+offense described in section 3591(a)(2), the jury, or if there 
+is no jury, the court, shall consider each of the following 
+aggravating factors for which notice has been given and 
+determine which, if any, exist: 
+
+
+(1) Death during commission of another 
+crime. — The death, or injury resulting in death, 
+occurred during the commission or attempted 
+commission of, or during the immediate flight 
+from the commission of, an offense under sec- 
+tion 32 (destruction of aircraft or aircraft facili- 
+ties), section 33 (destruction of motor vehicles or 
+motor vehicle facilities), section 36 (violence at 
+international airports), section 351 (violence 
+against Members of Congress, Cabinet officers, 
+or Supreme Court Justices), an offense under 
+section 751 (prisoners in custody of institution 
+or officer), section 794 (gathering or delivering 
+defense information to aid foreign government), 
+section 844(d) (transporiation of explosives in 
+interstate commerce for certain purposes), sec- 
+tion 844(f) (destruction of Government property 
+by explosives), section 1118 (prisoners serving 
+life term), section 1201 (kidnapping), section 
+844(i) (destruction of property affecting inter- 
+state commerce by explosives), section 1116 
+(killing or attempted killing of diplomats), sec- 
+tion 1203 (hostage taking), section 1992 (wreck- 
+ing trains), section 2280 (maritime violence), 
+section 2281 (maritime platform violence), sec- 
+tion 2332 (terrorist acts abroad against United 
+States nationals), section 2332a (use of weapons 
+of mass destruction), or section 2381 (treason) of 
+this title, or section 46502 of title 49, United 
+States Code (aircraft piracy). 
+
+
+B-6 
+
+
+(2) Previous conviction of violent felony 
+involving firearm. - For any offense, other than 
+an offense for which a sentence of death is 
+sought on the basis of section 924(c), the defen- 
+dant has previously been convicted of a Federal 
+or State offense punishable by a term of 
+imprisonment of more than 1 year, involving the 
+use or attempted or threatened use of a firearm 
+(as defined in section 921) against another per- 
+son. 
+
+
+(3) Previous conviction of offense for 
+which a sentence of death or life imprisonment 
+was authorized. —- The defendant has previously 
+been convicted of another Federal or State 
+offense resulting in the death of a person, for 
+which a sentence of life imprisonment or a sen- 
+tence of death was authorized by statute. 
+
+
+(4) Previous conviction of other serious 
+offenses. - The defendant has previously been 
+convicted of 2 or more Federal or State offenses, 
+punishable by a term of imprisonment of more 
+than 1 year, committed on different occasions, 
+involving the infliction of, or attempted inflic- 
+tion of, serious bodily injury or death upon 
+another person. 
+
+
+(5) Grave risk of death to additional per- 
+sons. — The defendant, in the commission of the 
+offense, or in escaping apprehension for the vio- 
+lation of the offense, knowingly created a grave 
+risk of death to 1 or more persons in addition to 
+the victim of the offense. 
+
+
+(6) Heinous, cruel, or depraved manner of 
+committing offense. —- The defendant commit- 
+ted the offense in an especially heinous, cruel, 
+or depraved manner in that it involved torture 
+or serious physical abuse to the victim. 
+
+
+B-7 
+
+
+(7) Procurement of offense by payment. - 
+The defendant procured the commission of the 
+offense by payment, or promise of payment, of 
+anything of pecuniary value. 
+
+
+(8) Pecuniary gain. —- The defendant com- 
+mitted the offense as consideration for the 
+receipt, or in the expectation of the receipt, of 
+anything of pecuniary value. 
+
+
+(9) Substantial planning and premedita- 
+tion. - The defendant committed the offense 
+after substantial planning and premeditation to 
+cause the death of a person or commit an act of 
+terrorism. 
+
+
+(10) Conviction for two felony drug 
+offenses. - The defendant has previously been 
+convicted of 2 or more State or Federal offenses 
+punishable by a term of imprisonment of more 
+than one year, committed on different occasions, 
+involving the distribution of a controlled sub- 
+stance. 
+
+
+(11) Vulnerability of victim. - The victim 
+was particularly vulnerable due to old age, 
+youth, or infirmity. 
+
+
+(12) Conviction for serious Federal drug 
+offenses. —- The defendant had previously been 
+convicted of violating title II or III of the Com- 
+prehensive Drug Abuse Prevention and Control 
+Act of 1970 for which a sentence of 5 or more 
+years may be imposed or had previously been 
+convicted of engaging in a continuing criminal 
+enterprise. 
+
+
+(13) Continuing criminal enterprise 
+involving drug sales to minors. —- The defen- 
+dant committed the offense in the course of 
+engaging in a continuing criminal enterprise in 
+
+
+B-8 
+
+
+violation of section 408(c) of the Controlled Sub- 
+stances Act (21 U.S.C. 848(c)), and that violation 
+involved the distribution of drugs to persons 
+under the age of 21 in violation of section 418 of 
+that Act (21 U.S.C. 859). 
+
+
+(14) High public officials. - The defen- 
+dant committed the offense against - 
+
+
+(A) the President of the United States, 
+the President-elect, the Vice President, the 
+Vice President-elect, the Vice President-des- 
+ignate, or, if there is no Vice President, the 
+officer next in order of succession to the 
+office of the President of the United States, 
+or any person who is acting as President 
+under the Constitution and laws of the 
+United States; 
+
+
+(B) a chief of state, head of govern- 
+ment, or the political equivalent, of a for- 
+eign nation; 
+
+
+(C) a foreign official listed in section 
+1116(b)(3)(A), if the official is in the United 
+States on official business; or 
+
+
+(D) a Federal public servant who is a 
+judge, a law enforcement officer, or an 
+employee of a United States penal or correc- 
+tional institution — 
+
+
+(i) while he or she is engaged in 
+the performance of his or her official 
+duties; 
+
+
+(ii) because of the performance of 
+his or her official duties; or 
+
+
+(iii) because of his or her status as 
+a public servant. 
+
+
+B-9 
+
+
+For purposes of this subparagraph, a “law 
+enforcement officer” is a public servant 
+authorized by law or by a Government 
+agency or Congress to conduct or engage in 
+the prevention, investigation, or prosecu- 
+tion or adjudication of an offense, and 
+includes those engaged in corrections, 
+parole, or probation functions. 
+
+
+(15) Prior conviction of sexual assault or 
+child molestation. — In the case of an offense 
+under chapter 109A (sexual abuse) or chapter 
+110 (sexual abuse of children), the defendant has 
+previously been convicted of a crime of sexual 
+assault or crime of child molestation. 
+
+
+(16) Multiple killings or attempted kill- 
+ings. — The defendant intentionally killed or 
+attempted to kill more than one person in a 
+single criminal episode. 
+
+
+The jury, or if there is no jury, the court, may consider 
+whether any other aggravating factor for which notice 
+has been given exists. 
+
+
+(d) Aggravating factors for drug offense death 
+penalty. — In determining whether a sentence of death is 
+justified for an offense described in section 3591(b), the 
+jury, or if there is no jury, the court, shall consider each of 
+the following aggravating factors for which notice has 
+been given and determine which, if any, exist: 
+
+
+(1) Previous conviction of offense for 
+which a sentence of death or life imprisonment 
+was authorized. —- The defendant has previously 
+been convicted of another Federal or State 
+offense resulting in the death of a person, for 
+which a sentence of life imprisonment or death 
+was authorized by statute. 
+
+
+B-10 
+
+
+(2) Previous conviction of other serious 
+offenses. — The defendant has previously been 
+convicted of two or more Federal or State 
+offenses, each punishable by a term of imprison- 
+ment of more than one year, committed on dif- 
+ferent occasions, involving the importation, 
+manufacture, or distribution of a controlled sub- 
+stance (as defined in section 102 of the Con- 
+trolled Substances Act (21 U.S.C. 802)) or the 
+infliction of, or attempted infliction of, serious 
+bodily injury or death upon another person. 
+
+
+(3) Previous serious drug felony convic- 
+tion. - The defendant has previously been con- 
+victed of another Federal or State offense 
+involving the manufacture, distribution, impor- 
+tation, or possession of a controlled substance 
+(as defined in section 102 of the Controlled Sub- 
+stances Act (21 U.S.C. 802)) for which a sentence 
+of five or more years of imprisonment was 
+authorized by statute. 
+
+
+(4) Use of firearm. — In committing the 
+offense, or in furtherance of a continuing crimi- 
+nal enterprise of which the offense was a part, 
+the defendant used a firearm or knowingly 
+directed, advised, authorized, or assisted 
+another to use a firearm to threaten, intimidate, 
+assault, or injure a person. 
+
+
+(5) Distribution to persons under 21. - 
+The offense, or a continuing criminal enterprise 
+of which the offense was a part, involved con- 
+duct proscribed by section 418 of the Controlled 
+Substance Act (21 U.S.C. 859) which was com- 
+mitted directly by the defendant. 
+
+
+(6) Distribution near schools. - The 
+offense, or a continuing criminal enterprise of 
+which the offense was a part, involved conduct 
+
+
+B-11 
+
+
+proscribed by section 419 of the Controlled Sub- 
+stances Act (21 U.S.C. 860) which was commit- 
+ted directly by the defendant. 
+
+
+(7) Using minors in trafficking. - The 
+offense, or a continuing criminal enterprise of 
+which the offense was a part, involved conduct 
+proscribed by section 420 of the Controlled Sub- 
+stances Act (21 U.S.C. 861) which was commit- 
+ted directly by the defendant. 
+
+
+(8) Lethal adulterant. — The offense 
+involved the importation, manufacture, or dis- 
+tribution of a controlled substance (as defined in 
+section 102 of the Controlled Substances Act (21 
+U.S.C. 802)), mixed with a potentially lethal 
+adulterant, and the defendant was aware of the 
+presence of the adulterant. 
+
+
+The jury, or if there is no jury, the court, may consider 
+whether any other aggravating factor for which notice 
+has been given exists. 
+
+
+§ 3593. Special hearing to determine whether a sen- 
+tence of death is justified 
+
+
+(a) Notice by the government. - If, in a case involv- 
+ing an offense described in section 3591, the attorney for 
+the government believes that the circumstances of the 
+offense are such that a sentence of death is justified under 
+this chapter, the attorney shall, a reasonable time before 
+the trial or before acceptance by the court of a plea of 
+
+
+B-12 
+
+
+guilty, sign and file with the court, and serve on the 
+defendant, a notice - 
+
+
+(1) stating that the government believes 
+that the circumstances of the offense are such 
+that, if the defendant is convicted, a sentence of 
+death is justified under this chapter and that the 
+government will seek the sentence of death; and 
+
+
+(2) setting forth the aggravating factor or 
+factors that the government, if the defendant is 
+convicted, proposes to prove as justifying a sen- 
+tence of death. 
+
+
+The factors for which notice is provided under this sub- 
+section may include factors concerning the effect of the 
+offense on the victim and the victim's family, and may 
+include oral testimony, a victim impact statement that 
+identifies the victim of the offense and the extent and 
+scope of the injury and loss suffered by the victim and the 
+victim’s family, and any other relevant information. The 
+court may permit the attorney for the government to 
+amend the notice upon a showing of good cause. 
+
+
+(b) Hearing before a court or jury. ~ If the attorney 
+for the government has filea a notice as required under 
+subsection (a) and the defendant is found guilty of or 
+pleads guilty to an offense described in section 3591, the 
+judge who presided at the trial or before whom the guilty 
+plea was entered, or another judge if that judge is 
+unavailable, shall conduct a separate sentencing hearing 
+to determine the punishment to be imposed. The hearing 
+shall be conducted - 
+
+
+(1) before the jury that determined the 
+defendant's guilt; 
+
+
+B-13 
+
+
+(2) before a jury impaneled for the pur- 
+pose of the hearing if - 
+
+
+(A) the defendant was convicted upon 
+a plea of guilty; 
+
+(B) the defendant was convicted atter 
+a trial before the court sitting without a 
+jury; 
+
+(C) the jury that determined the 
+
+
+defendant's guilt was discharged for good 
+cause; or 
+
+
+(D) after initial imposition of a sen- 
+tence under this section, reconsideration of 
+the sentence under this section is necessary; 
+or 
+
+
+(3) before the court alone, upon the motion 
+of the defendant and with the approval of the 
+attorney for the government. 
+
+
+A jury impaneled pursuant to paragraph (2) shall consist 
+of 12 members, unless, at any time before the conclusion 
+of the hearing, the parties stipulate, with the approval of 
+the court, that it shall consist of a lesser number. 
+
+
+(c) Proof of mitigating and aggravating factors. - 
+Notwithstanding rule 32(c) of the Federal Rules of Crimi- 
+nal Procedure, when a defendant is found guilty or 
+pleads guilty to an offense under section 3591, no presen- 
+tence report shall be prepared. At the sentencing hearing, 
+information may be presented as to any matter relevant 
+to the sentence, including any mitigating or aggravating 
+factor permitted or required to be considered under sec- 
+tion 3592. Information presented may include the trial 
+transcript and exhibits if the hearing is held before a jury 
+or judge not present during the trial, or at the trial 
+
+
+B-14 
+
+
+judge’s discretion. The defendant may present any infor- 
+mation relevant to a mitigating factor. The government 
+may present any information relevant to an aggravating 
+factor for which notice has been provided under subsec- 
+tion (a). Information is admissible regardless of its admis- 
+sibility under the rules governing admission of evidence 
+at criminal trials except that information may be excluded 
+if its probative value is outweighed by the danger of 
+creating unfair prejudice, confusing the issues or mislead- 
+ing the jury. For the purposes of the preceding sentence, 
+the fact that a victim, as defined in section 3510, attended 
+or observed the trial shall not be construed to pose a 
+danger of creating unfair prejudice, confusing the issues, 
+or misleading the jury. The government and the defen- 
+dant shall be permitted to rebut any information received 
+at the hearing, and shall be given fair opportunity to 
+present argument as to the adequacy of the information 
+to establish the existence of any aggravating or mitigating 
+factor, and as to the appropriateness in the case of impos- 
+ing a sentence of death. The government shall open the 
+argument. The defendant shall be permitted to reply. The 
+government shall then be permitted to reply in rebuttal. 
+The burden of establishing the existence of any aggrava- 
+ting factor is on the government, and is not satisfied 
+unless the existence of such a factor is established beyond 
+a reasonable doubt. The burden of establishing the exis- 
+tence of any mitigating factor is on the defendant, and is 
+not satisfied unless the existence of such a factor is estab- 
+lished by a preponderance of the information. 
+
+
+(d) Return of special findings. - The jury, or if 
+there is no jury, the court, shall consider all the informa- 
+tion received during the hearing. It shall return special 
+
+
+B-15 
+
+
+findings identifying any aggravating factor or factors set 
+forth in section 3592 found to exist and any other aggra- 
+vating factor for which notice has been provided under 
+subsection (a) found to exist. A finding with respect to a 
+mitigating factor may be made by 1 or more members of 
+the jury, and any member of the jury who finds the 
+existence of a mitigating factor may consider such factor 
+established for purposes of this section regardless of the 
+number of jurors who concur that the factor has been 
+established. A finding with respect to any aggravating 
+factor must be unanimous. If no aggravating factor set 
+forth in section 3592 is found to exist, the ccurt shall 
+impose a sentence other than death authorized by law. 
+
+
+(e) Return of a finding concerning a sentence of 
+death. - If, in the case of - 
+
+
+(1) an offense described in section 
+3591(a)(1), an aggravating factor required to be 
+considered under section 3592(b) is found to 
+exist; 
+
+
+(2) an offense described in section 
+3591(a)(2), an aggravating factor required to be 
+considered under section 3592(c) is found to 
+exist; or 
+
+
+(3) an offense described in section 3591(b), 
+an aggravating factor required to be considered 
+under section 3592(d) is found to exist, 
+
+
+the jury, or if there is no jury, the court, shall consider 
+whether all the aggravating factor or factors found to 
+exist sufficiently outweigh all the mitigating factor or 
+factors found to exist to justify a sentence of death, or, in 
+the absence of a mitigating factor, whether the aggrava- 
+ting factor or factors alone are sufficient to justify a 
+
+
+B-16 
+
+
+sentence of death. Based upon this consideration, the jury 
+by unanimous vote, or if there is no jury, the court, shall 
+recommend whether the defendant should be sentenced 
+to death, to life imprisonment without possibility of 
+release or some other lesser sentence. 
+
+
+(f) Special precaution to ensure against discrimi- 
+nation. - In a hearing held before a jury, the court, prior 
+to the return of a finding under subsection (e), shall 
+instruct the jury that, in considering whether a sentence 
+of death is justified, it shall not consider the race, color, 
+religious beliefs, national origin, or sex of the defendant 
+or of any victim and that the jury is not to recommend a 
+sentence of death unless it has concluded that it would 
+recommend a sentence of death for the crime in question 
+no matter what the race, color, religious beliefs, national 
+origin, or sex of the defendant or of any victim may be. 
+The jury, upon return of a finding under subsection (e), 
+shall also return to the court a certificate, signed by each 
+juror, that consideration of the race, color, religious 
+beliefs, national origin, or sex of the defendant or any 
+victim was not involved in reaching his or her individual 
+decision and that the individual juror would have made 
+the same recommendation regarding a sentence for the 
+crime in question no matter what the race, color, religious 
+beliefs, national origin, or sex of the defendant or any 
+victim may be. 
+
+
+B-17 
+
+
+§ 3594. Imposition of a sentence of death 
+
+
+Upon a recommendation under section 3593(e) that 
+the defendant should be sentenced to death or life 
+imprisonment without possibility of release, the court 
+shall sentence the defendant accordingly. Otherwise, the 
+court shall impose any lesser sentence that is authorized 
+by law. Notwithstanding any other law, if the maximum 
+term of imprisonment for the offense is life imprison- 
+ment, the court may impose a sentence of life imprison- 
+ment without possibility of release. 
+
+
+§ 3595. Review of a sentence of death 
+
+
+(a) Appeal. - In a case in which a sentence of death 
+is imposed, the sentence shall be subject to review by the 
+court of appeals upon appeal by the defendant. Notice of 
+appeal must be filed within the time specified for the 
+filing of a notice of appeal. An appeal under this section 
+may be consolidated with an appeal of the judgment of 
+conviction and shall have priority over all other cases. 
+
+
+(b) Review. - The court of appeals shall review the 
+entire record in the case, including - 
+
+
+(1) the evidence submitted during the 
+trial; 
+
+
+(2) the information submitted during the 
+sentencing hearing; 
+
+
+(3) the procedures employed in the sen- 
+tencing hearing; and 
+
+
+B-18 
+
+
+(4) the special findings returned under 
+section 3593(d). 
+
+
+(c) Decision and disposition. - 
+
+
+(1) The court of appeals shall address all 
+substantive and procedural issues raised on the 
+appeal of a sentence of death, and shall consider 
+whether the sentence of death was imposed 
+under the influence of passion, prejudice, or any 
+other arbitrary factor and whether the evidence 
+supports the special finding of the existence of 
+an aggravating factor required to be considered 
+under section 3592. 
+
+
+(2) Whenever the court of appeals finds 
+thar - 
+
+
+(A) the sentence of death was imposed 
+under the influence of passion, prejudice, or 
+any other arbitrary factor; 
+
+
+(B) the admissible evidence and infor- 
+mation adduced does not support the spe- 
+cial finding of the existence of the required 
+aggravating factor; or 
+
+
+(C) the proceedings involved any 
+other legal error requiring reversal of the 
+sentence that was properly preserved for 
+appeal under the rules of criminal pro- 
+cedure, 
+
+
+the court shall remand the case for reconsidera- 
+tion under section 3593 or imposition of a sen- 
+tence other than death. The court of appeals 
+shall not reverse or vacate a sentence of death 
+on account of any error which can be harmless, 
+including any erroneous special finding of an 
+aggravating factor, where the Government 
+
+
+B-19 
+
+
+establishes beyond a reasonable doubt that the 
+error was harmless. 
+
+
+(3) The court of appeals shall state in writ- 
+ing the reasons for its disposition of an appeal 
+of a sentence of death under this section. 
+
+
+§ 3596. Implementation of a sentence of death 
+
+
+(a) In general. - A person who has been sentenced 
+to death pursuant to this chapter shall be committed to 
+the custody of the Attorney General until exhaustion of 
+the procedures for appeal of the judgment of conviction 
+and for review of the sentence. When the sentence is to be 
+implemented, the Attorney General shall release the per- 
+son sentenced to death to the custody of a United States 
+marshal, who shall supervise implementation of the sen- 
+tence in the manner prescribed by the law of the State in 
+which the sentence is imposed. If the law of the State 
+does not provide for implementation of a sentence of 
+death, the court shall designate another State, the law of 
+which does provide for the implementation of a sentence 
+of death, and the sentence shall be implemented in the 
+latter State in the manner prescribed by such law. 
+
+
+(b) Pregnant woman. - A sentence of death shall 
+not be carried out upon a woman while she is pregnant. 
+
+
+(c) Mental Capacity. - A sentence of death shall not 
+be carried out upon a person who is mentally retarded. A 
+sentence of death shall not be carried out upon a person 
+who, as a result of mental disability, lacks the mental 
+
+
+B-20 
+
+
+capacity to understand the death penalty and why it was 
+imposed on that person. 
+
+
+§ 3597. Use of State facilities 
+
+
+(a) In general. - A United States marshal charged 
+with supervising the implementation of a sentence of 
+death may use appropriate State or local facilities for the 
+purpose, may use the services of an appropriate State or 
+local official or of a person such an official employs for 
+the purpose, and shall pay the costs thereof in an amount 
+approved by the Attorney General. - 
+
+
+(b) Excuse of an employee on moral or religious 
+grounds. - No employee of any State department of 
+corrections, the United States Department of Justice, the 
+Federal Bureau of Prisons, or the United States Marshals 
+Service, and no employee providing services to that 
+department, bureau, or service under contract shall be 
+required, as a condition of that employment or contrac- 
+tual obligation, to be in attendance at or to participate in 
+any prosecution or execution under this section if such 
+participation is contrary to the moral or religious convic- 
+tions of the employee. In this subsection, “participation in 
+executions” includes personal preparation of the con- 
+demned individual and the apparatus used for execution 
+and supervision of the activities of other personnel in 
+carrying out such activities. 
+
+
+B-21 
+
+
+§ 3598. Special provisions for Indian country 
+
+
+Notwithstanding sections 1152 and 1153, no person 
+subject to the criminal jurisdiction of an Indian tribal 
+government shall be subject to a capital sentence under 
+this chapter for any offense the Federal jurisdiction for 
+which is predicated solely on Indian country (as defined 
+in section 1151 of this title) and which has occurred 
+within the boundaries of Indian country, unless the gov- 
+erning body of the tribe has elected that this chapter have 
+effect over land and persons subject to its criminal juris- 
+diction. 
+
+

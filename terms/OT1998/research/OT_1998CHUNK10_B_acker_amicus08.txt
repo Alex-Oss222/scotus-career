@@ -1,0 +1,1530 @@
+Supreme Court, US 7 
+2) & ae ee 
+AN 21 1999 
+
+No. 98-10 | UR 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+JEFFERSON COUNTY, ALABAMA, PETITIONER 
+. 
+
+
+WILLIAM M. ACKER AND U. W. CLEMON 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE ELEVENTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+AS AMICUS CURIAE SUPPORTING PETITIONER 
+
+
+SETH L. WAXMAN 
+Solicitor General 
+Counsel of Record 
+LORETTA C. ARGRETT 
+Assistant Attorney General 
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+KENT L. JONES 
+Assistant to the Solicitor 
+General 
+DAVID ENGLISH CARMACK 
+Attorney 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 317 4 227 7 
+
+
+9 
+225 * 
+
+
+8 — em os 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether there was subject matter jurisdiction 
+over this action in the district court. 
+
+2. Whether a county government may impose a 
+nondiscriminatory “occupational” tax upon the pay or 
+compensation of federal judges. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Interest of the United States 1 
+Statement 2 
+Summary of argument 10 
+Argument: 
+I. The district court lacked jurisdiction in this 
+case 12 
+II. Congress has consented to the tax on respon- 
+dents’ income and, therefore, the Supremacy 
+Clause does not protect them from the Jefferson 
+County tax : 21 
+Conclusion 30 
+TABLE OF AUTHORITIES 
+Cases: 
+Alabama State Fed'n of Labor v. McAdory, 325 
+U.S. 450 (1945) 21 
+Appling County v. Municipal Elec. Auth., 
+621 F.2d 1301 (5th Cir.), cert. denied, 449 U.S. 
+1015 (1980) 13 
+Arkansas v. Farm Credit Servs., 520 U.S. 821 
+(1997) 8-9, 11, 12. 17, 18 
+Bailey v. United States} 516 U.S. 187 (1995) 23 
+Bowen v. United States, 422 U.S. 916 (1975) 21 
+Califano v. Yamasaki, 442 U.S. 682 (1979) coccccccccoccccoooee. 21 
+California v. Grace Brethren Church, 457 U.S. 398 
+(1982) 13 
+City of Detroit v. Murray Corp. of Am., 355 U.S. 
+489 (1958) 25 
+City of Louisville v. Sebree, 214 S.W.2d 248 (Ky. Ct. 
+App. 1948) 29 
+Clay v. Sun Ins. Office Ltd., 363 U.S. 207 (1960) 21 
+Collector v. Day, 78 U.S. (11 Wall.) 113 (1870) ooo... 22 
+
+
+(IID) 
+
+
+IV 
+
+
+Cases—Continued: Page 
+Colorado River Water Conservation Dist. v. United 
+
+States, 424 U.S. 800 (1976) 14 
+Complete Auto Transit, Inc. v. Brady, 430 U.S. 274 
+
+(1977) 25 
+Davis v. Michigan Dep't of Treasury, 489 U.S. 803 
+
+(1989) 18, 22, 23 
+Dobbins v. Commissioners, 41 U.S. (16 Pet.) 434 
+
+(1842) 22 
+Fair Assessment in Real Estate Ass'n v. McNary, 
+
+454 U.S. 100 (1981) 17 
+Franchise Tax Bd. v. Alcan Aluminum Ltd., 
+
+493 U.S. 331 (1990) . 14 
+Gay v. Ruff, 292 U.S. 25 (1934) 19 
+Graves v. New York, 306 U.S. 466 (19399 5, 18, 22 
+Helvering v. Gerhardt, 304 U.S. 405 (1938) 22 
+Howard v. Commissioners of the Sinking Fund, 
+
+344 U.S. 624 (1953) 7, 24-25, 28, 29 
+
+
+Irving Indep. Sch. Dist. v. Packard Properties, 
+Ltd., 741 F. Supp. 120 (N. D. Tex. 1990), aff d. 
+
+
+970 F. 2d 58 (5th Cir. 1992) 13 
+Keleher v. New England Tel. & Tel. Co., 947 F.2d 
+
+547 (2d Cir. 1991 13, 14 
+Kistner v. Milliken, 432 F. Supp. 1001 (E. D. Mich. 
+
+1977) he 17 
+Lawrence v. State Tax Comm'n, 286 U.S. 276 
+
+(1932) 2⁵ 
+
+
+Louisiana Land & Exploration Co. v. Pilot Petro- 
+leum Corp, 900 F. 2d 816 (5th Cir.), cert. denied, 
+
+
+498 U.S. 897 (1990) 10, 13 
+Maryland v. Soper (No. 1), 270 U.S. 9 (1926) . 19 
+Matthews v. Rodgers, 284 U.S. 521 (1982) 17 
+McPheeter v. City of Auburn, 259 So. 2d 833 (Ala. 
+
+1972) 5, 24 
+Mesa v. California, 489 U.S. 121 (1989) 19, 20 
+Pendleton v. Heard, 824 F.2d 448 (5th Cir. 1987) 13 
+
+
+V 
+Cases Continued: Page 
+Quackenbush v. Allstate Ius. Co., 517 U.S. 706 
+
+(1996) 17 
+Roswell v. LaSalle Nat'l Bank, 450 U.S. 503 
+
+(1981) 14 
+Singer Sewing Machine Co. v. Benedict, 229 US. 
+
+481 (1913) 16 
+Thorpe v. Housing Auth., 393 U.S. 268 (19699 21 
+United Gas Pipe Line Co. v. Whitman, 595 F. 2d 
+
+323 (5th Cir. 1979) 17 
+United States v. City of Detroit, 355 U.S. 466 (1907) ...... 25 
+United States v. City of Pittsburgh, 757 F.2d 43 
+
+(3d Cir. 1985) 6, 25, 26, 27 
+United States v. County of Fresno, 429 U.S. 452 
+
+(1977) 22 
+United States v. Lewisburg Area Sch. Dist., 
+
+539 F. 2d 301 (3d Cir. 1976) 28 
+
+Constitution and statutes: 
+U.S. Const.: 
+
+Art. III, § 1 (Compensation Clause) 4,8 
+
+Art. VI, CL. 2 (Supremacy Clause) 4 
+Act of Mar. 2, 1867, ch. 169, § 10, 14 Stat. 475 (26 U.S.C. 
+
+7421(a)) 15 
+Act of Apr. 12, 1989, ch. 59, § 4, 53 Stat. 575 23 
+Act of Oct. 9, 1940, ch. 787, 54 Stat. 1059 28 
+Buck Act, 4 U.S.C. 105 et seq. 6, 7, 8, 21, 27, 28 
+
+4US.C. 106(a) 7, 28 
+
+4 U.S.C. 107(a) 7 
+
+4 USC. 110) 7, 28 
+
+4 U.S.C. 110(e) 28 
+Public Salary Tax Act, 4 U.S.C. 111 passim 
+Tax Injunction Act, 28 U.S.C. 1341 1, 9, 10, 12 
+26 U.S.C. 7421(a) 10 
+28 U.S.C. 1441(a) 20 
+28 U.S.C. 1442(a\(3) 3, 8, 9, 11, 19, 20 
+28 U.S.C. 1447(c) 20 
+
+
+42 U.S.C. 1983 ... 17 
+
+
+VI 
+
+
+In the Supreme Court of the United States 
+
+
+Statutes—Continued: Page OCTOBER TERM, 1998 
+1967 Ala. Acts No. 406, § 4 L ————— 2 
+Occupational Tax on Jefferson County, Ala., Jeff. g 
+Cty. Ord. 1120 (Sept. 29,t1ßaa 2 No. 98-10 
+. ä — — — —— 8 JEFFE n Cou A PETITIONER 
+r mn 2 v. 
+: : ä —— ———— : WILLIAM M. ACKER AND U. W. CLEMON 
+a 3, 26 
+Miscellaneous. ON WRIT OF CERTIORARI TO THE 
+: os UNITED STATES COURT OF APPEALS 
+H.R. Rep. No. 26, 76th Cong., Ist Sess. (19899 —.— 23 FOR THE ELEVENTH CIRCUIT 
+H.R. Rep. No. 1508, 75th Cong., Ist Sess. (19887—.— 16 
+S. Rep. No. 112, 76th Cong., Ist Sess. (18899 23, 27 
+8. Rep. No. 1035. 75th Cong., Ist Sess. (1937) —— 15, 16 BRIEF FOR THE UNITED STATES 
+8. Rep. No. 1625, 76th Cong., 3d Sees. (1940) = AS AMICUS CURIAE SUPPORTING PETITIONER 
+
+
+INTEREST OF THE UNITED STATES 
+
+
+This case involves the effort of an Alabama county to 
+collect its local “occupational” tax from the federal dis- 
+trict judges who work in that county. After the County 
+commenced this tax collection case in state court, the 
+federal judges removed the case to federal district 
+court. This Court has directed the parties to address (i) 
+the effect of the Tax Injunction Act, 28 U.S.C. 1341, on 
+this suit and (ii) whether the county tax is constitu- 
+tional as applied to the federal judges. The United 
+States has a substantial interest in both of the ques- 
+tions presented and, in response to this Court’s invita- 
+tion, filed a brief in response to the petition at an earlier 
+stage of this case. 
+
+
+(1) 
+
+
+2 
+
+
+STATEMENT 
+
+
+1. In 1967, the State of Alabama authorized its coun- 
+ties to impose “a license or privilege tax upon any 
+person” who engages in a business or profession within 
+the county and who is not required by any other law to 
+pay such a tax to the county or the State (1967 Ala. 
+Acts No. 406, § 4; Pet. App. 126-127). Pursuant to that 
+authority, the Jefferson County Commission enacted 
+the “Occupational Tax of Jefferson County, Alabama” in 
+1987 (Jeff. Cty. Ord. 1120 (Sept. 29, 1987); Pet. App. 
+129-139). Section 2 of the Ordinance states that it (Pet. 
+App. 132): 
+
+
+shall be unlawful for any person to engage in or 
+follow any vocation, occupation, calling or profession 
+* * * within the County * * * without paying 
+license fees to the County for the privilege of 
+engaging in or following such vocation, occupation, 
+calling or profession, which license fees shall be 
+measured by one-half percent (1/2%) of the gross 
+receipts of each such person. 
+
+
+The term “gross receip.s” is defined by Section 1(F) of 
+the Ordinance (Pet. App. 131) to include: 
+
+
+the total gross amount of all salaries, wages, com- 
+missions, bonuses or other money payment of any 
+kind, or any other considerations having monetary 
+value, which a person receives from or is entitled to 
+receive from or be given credit for by his employer 
+for any work done or personal services rendered. 
+
+
+The term “gross receipts” does not include any com- 
+pensation earned outside Jefferson County. Jeft. Sty. 
+Ord. 1120, § 3; Pet. App. 132-133. 
+
+Jefferson County ordinarily collects its “occupa- 
+tional” tax from employers, who withhold the tax from 
+
+
+3 
+
+
+employee wages. In the absence of withholding, how- 
+ever, employees are required to remit the taxes 
+directly to the County. Jeff. Cty. Ord. 1120, §§ 4, 5; Pet. 
+App. 133-135. Persons who fail to comply with the 
+Ordinance are subject to interest and penalties on the 
+unpaid balance of the taxes. Jeff. Cty. Ord. 1120, § 10; 
+Pet. App. 137-138. There are no criminal penalties for 
+failing to pay the County’s occupation tax (Pet. App. 
+31). 
+
+2. Respondents are federal district judges for the 
+Northern District of Alabama. Many, but not all, of 
+their duties as federal judges are performed at the 
+federal courthouse located in Jefferson County. Pet. 
+App. 32-33. The Jefferson County Ordinance therefore 
+applies to respondents and obligates them to pay an 
+“occupational” tax of one-half of one percent of their 
+“gross receipts” from the services they perform within 
+the County. Jeff. Cty. Ord. 1120, § 2; Pet. App. 32. The 
+Administrative Office of the United States Courts has 
+not withheld the county taxes from respondents’ wages 
+(id. at 30), and respondents have not paid the taxes 
+directly (id. at 3, 32). 
+
+3. a. The County brought suit against respondents in 
+the state district court for Jefferson County to collect 
+the unpaid taxes (Pet. App. 3). Invoking 28 U.S.C. 
+1442(a)(3), respondents removed the action to the 
+United States District Court for the Northern District 
+of Alabama (Pet. App. 3, 32-33, 82). That statute 
+authorizes the removal to federal court of any civil or 
+criminal proceeding commenced in a state court against 
+“lalny officer of the courts of the United States, for any 
+act under color of office or in the performance of his 
+duties.” 28 U.S.C. 1442(a)(3). 
+
+b. On cross motions for summary judgment, the 
+district court held the county “occupational” tax to be 
+
+
+1 
+
+
+unconstitutional as applied to federal judges (Pet. App. 
+82-116). The court reasoned that, even though the tax 
+was calculated by reference to the income earned by 
+respondents and was not imposed on the United States, 
+the tax directly interfered with the operations of the 
+federal judiciary and therefore violated the inter- 
+governmental tax immunity” doctrine derived from the 
+Supremacy Clause of Article VI of the Constitution 
+(Pet. App. 91-105). The court further concluded that 
+application of the county tax to respondents would 
+effect a reduction in their compensation in violation of 
+the Compensation Clause of Article III of the Consti- 
+tution (Pet. App. 105-111). 
+
+4. A panel of the court of appeals reversed. 61 F.3d 
+848 (1995). The panel noted that the county tax (i) 
+applies to all forms of employment and does not dis- 
+criminate against federal judges (id. at 852-853) and (ii) 
+is not imposed on the federal government directly (id. 
+at 853-856). The panel concluded that the county tax is 
+constitutional because, both in operation and effect, it 
+taxes only the income that respondents derive from 
+employment (id. at 855): 
+
+
+[OJjnly if a federal employee is compensated [does] 
+he or she become] liable to Jefferson County for the 
+occupational tax. A federal employee in Jefferson 
+County could refuse to pay any license fees and still 
+lawfully perform his or her federal duties under the 
+ordinance so long as that employee received no in- 
+come from performing those duties. Consequently, 
+the occupational tax is not a precondition to the 
+performance of any federal government functions 
+but a consequence of receiving any compensation 
+therefor. 
+
+
+5 
+
+
+Because the county has simply imposed a nondis- 
+criminatory “income tax” on respondents (id. at 856), 
+the panel concluded that the tax does not violate the 
+intergovernmental tax immunity doctrine and does not 
+unconstitutionally diminish respondents’ compensation 
+(id. at 856-857). 
+
+5. a. On rehearing en banc, the court of appeals 
+vacated the panel decision and affirmed the district 
+court (Pet. App. 26-61), with three judges dissenting 
+(id. at 62-74). The court of appeals acknowledged that, 
+under this Court’s decision in Graves v. New York, 306 
+U.S. 466 (1939), if the county tax were merely an 
+“income tax” on federal employees, it would not violate 
+the doctrine of intergovernmental tax immunity (Pet. 
+App. 44). The court further recognized that it is a 
+question of federal law whether the county tax is, in 
+substance, an “income tax” for this purpose. The court 
+nonetheless concluded that it would look to state law to 
+determine “the attributes comprising the substance” of 
+the county tax (ibid.). 
+
+The court noted that, in McPheeter v. City of Au- 
+burn, 259 So. 2d 833 (1972), the Alabama Supreme 
+Court stated that a local occupational tax constitutes a 
+license or “privilege” tax—rather than an income tax— 
+under state law (Pet. App. 44-45). Based upon the 
+theory that the county tax is imposed on the “privilege” 
+of performing the federal judicial function, rather than 
+on the “income” of the federal judges, the court of ap- 
+peals held that the tax violates the doctrine of inter- 
+governmental tax immunity (id. at 45-46): ; 
+
+The privilege tax differs fundamentally from an 
+income tax. The ordinance purports to make it 
+
+
+unlawful to engage in one’s occupation in Jefferson 
+County without paying the privilege tax. Ordinance 
+
+
+6 
+
+
+No. 1120, § 2. This provision indicates that, instead 
+of taxing the receipt of income, the privilege tax 
+attaches to the performance of work in Jefferson 
+County. 
+
+
+Although the court acknowledged that the “legal inci- 
+dence” of the county tax falls on respondents as indi- 
+viduals, the court concluded that the actual incidence of 
+the tax is on the “privilege” of performing judicial 
+duties. Jd. at 47-48, 50. The court stated that federal 
+judges are “federal instrumentalities” in their perform- 
+ance of judicial duties and that the county tax thus 
+“amounts to a direct tax on federal instrumentalities in 
+violation of the intergovernmental tax immunity doc- 
+trine.” Id. at 50. 
+
+b. The court of appeals then considered whether 
+Congress has consented to the imposition of such taxes. 
+The court held that the Public Salary Tax Act—in 
+which Congress consented to taxation of the “pay or 
+compensation” of federal officers or employees (4 
+U.S.C. 111)—does not consent to imposition of a 
+“privilege” tax on federal judges (Pet. App. 54-56). The 
+court distinguished United States v. City of Pittsburgh, 
+757 F.2d 43, 47 (1985), in which the Third Circuit held 
+that a local “privilege” tax was, in substance, an “in- 
+come tax” that could be imposed under the Public 
+Salary Tax Act on the official transcript fees received 
+by a federal court reporter (Pet. App. 56-57 n.19). The 
+court of appeals stated, without elaboration, that the 
+ordinance involved in City of Pittsburgh “did not 
+include the factors” that made the Jefferson County 
+ordinance a “privilege” tax (ibid.). 
+
+The court of appeals also held that the Buck Act does 
+not consent to the imposition of a “privilege” tax on 
+federal judges (Pet. App. 57-61). That statute provides 
+
+
+7 
+
+
+that Injo person” is to be relieved of liability for a state 
+or local “income tax * * * by reason of his residing 
+within a Federal area or receiving income from transac- 
+tions occurring or services performed in such area” (4 
+U.S.C. 106(a)). The statute defines the term “income 
+tax” to mean “any tax levied on, with respect to, or 
+measured by, net income, gross income, or gross re- 
+ceipts.” 4 U.S.C. 110(c). The court of appeals acknowl- 
+edged that the county tax is “within the Buck Act’s 
+definition of an ‘income tax’” (Pet. App. 58). The court 
+stated, however, that the Jefferson County tax on the 
+“privilege” of working as a federal judge is a direct tax 
+on “the United States or an[{] instrumentality thereof” 
+(4 U.S.C. 107(a)) and is therefore prohibited by the 
+express terms of the Act (Pet. App. 58). 
+
+In reaching this conclusion, the court of appeals 
+sought to distinguish this Court’s decision in Howard v. 
+Commissioners of the Sinking Fund, 344 U.S. 624 
+(1953). In Howard, the Court held that the Buck Act 
+authorized application of a Louisville tax on the “privi- 
+lege” of conducting business to persons who were 
+employed at a naval ordnance plant located within the 
+city. Id. at 627-629. The court of appeals stated that 
+the sole question in Howard was whether “Louisville 
+lacked jurisdiction to tax in a federal area” (Pet. App. 
+60). By contrast, the court stated, the issue in this case 
+is whether the local tax is a direct tax on a federal 
+instrumentality that violates the intergovernmental 
+immunity of the United States (ibid.). The court stated 
+that the fact “that Howard upheld the application of the 
+Louisville license fee to federal employees does not 
+imply that the Buck Act precludes an intergovernmen- 
+tal tax immunity challenge to the application of Ordi- 
+nance No. 1120 to federal judges” (id. at 61). The court 
+explained that (ibid.): 
+
+
+8 
+
+
+Unlike federal judges, employees of a naval ord- 
+nance plant realistically can be viewed as separate 
+entities from the federal government when per- 
+forming their duties. 
+
+
+c. Because the court of appeals concluded that the 
+challenged tax violates the intergovernmental tax 
+immunity of the United States, and is not authorized by 
+the Public Salary Tax Act or the Buck Act, the court 
+stated that it was unnecessary to address the question 
+whether the tax also violates the Compensation Clause 
+of Article III of the Constitution (Pet. App. 35). 
+
+6. On Jefferson County’s petition for a writ of 
+certiorari (No. 96-896), this Court invited the Solicitor 
+General to file a brief stating the views of the United 
+States. In our brief in response to the Court’s invitation 
+(Pet. App. 176-196), we agreed with petitioner that the 
+court of appeals erred in concluding that the county tax 
+is unconstitutional as applied to federal judges. Be- 
+cause the decision in this case conflicted with the deci- 
+sion of another circuit, we suggested that the petition 
+for certiorari be granted.’ 
+
+On June 9, 1997, this Court granted the County’s 
+petition for a writ of certiorari, vacated the judgment 
+and remanded the case to the court of appeals for 
+further consideration in light of the Court’s recent 
+decision in Arkansas v. Farm Credit Services, 520 U.S. 
+
+
+We also noted (Pet. App. 184-185) that the parties and the 
+court below had not addressed whether the suit had been properly 
+removed under 28 U.S.C. 1442(a)(3). That statute authorizes 
+removal only if the claim against the federal court officer was “for 
+any act under color of office or in the performance of his duties.” 
+Ibid. We suggested that the receipt of personal income may not be 
+an “act under color of office or in the performance of * * * duties” 
+and that this jurisdictional issue should be addressed if certiorari 
+were granted. 
+
+
+9 
+
+
+821 (1997). See 520 U.S. 1261 (1997). The Farm Credit 
+Services case involved the Tax Injunction Act, 28 
+U.S.C. 1341, which directs federal district courts not to 
+“enjoin, suspend or restrain the assessment, levy or 
+collection of any tax under State law where a plain, 
+speedy and efficient remedy may be had in the courts of 
+such State.” In Farm Credit Services, the Court reaf- 
+firmed its longstanding conclusion that this Act does 
+not apply to suits brought by the United States on 
+behalf of itself or its instrumentalities. 520 U.S. at 823- 
+824. The Court further held, however, that entities 
+such as Production Credit Associations—which engage 
+in commercial activity and do not exercise governmen- 
+tal authority—are subject to the prohibitions of the Tax 
+Injunction Act unless the United States joins the suit 
+as a co-plaintiff. Id. at 824, 826-832. 
+
+7. On remand, the en banc court of appeals held that 
+the Tax Injunction Act does not bar the district court 
+from proceeding in this case. Adhering to its prior 
+decision on the merits of the case, the court again 
+affirmed the judgment of the district court (Pet. App. 1- 
+23). Four judges dissented on the merits and three 
+judges dissented on the application of the Tax Injunc- 
+tion Act (id. at 23-25). 
+
+The majority first concluded that jurisdiction exists 
+in this case under 28 U.S.C. 1442(a)(3), which authorizes 
+the removal to federal district court of any “civil action 
+* * * commenced in a State court” against Hany 
+officer of the courts of the United States, for any act 
+under color of office or in the performance of his 
+duties.” The court held that it may proceed in this case 
+notwithstanding the Tax Injunction Act because the 
+federal judges who removed the case to federal court 
+qualify as “instrumentalities” of the United States. The 
+court reasoned that, a]s one of the three branches of 
+
+
+10 
+
+
+the federal government, the federal judiciary’s inter- 
+ests are congruent with, if not identical to, those of the 
+United States” (Pet. App. 20) and that, when a federal 
+judge performs his judicial function, he is exercising the 
+judicial power of the United States (ibid.). 
+
+SUMMARY OF ARGUMENT 
+
+
+1. The Tax Injunction Act generally provides that 
+federal courts “shall not enjoin, suspend or restrain the 
+assessment, levy or collection of any tax under State 
+law.” 28 U.S.C. 1341. As some courts have noted, this 
+statute does not on its face bar federal jurisdiction over 
+a suit * * filed to collect a state tax, rather than 
+enjoin, suspend, or restrain the collection of taxes.” 
+Louisiana Land & Exploration Co. v. Pilot Petroleum 
+Corp., 900 F.2d 816, 818 (5th Cir.), cert. denied, 498 U.S. 
+897 (1990). Because this case was brought by the 
+county to collect its tax, and was not brought by re- 
+spondents to enjoin collection, the text of the Tax 
+Injunction Act is not directly applicable here. 
+
+Nor is the underlying purpose of the Tax Injunction 
+Act implicated in such a suit. In enacting this statute in 
+1937, Congress expressly modeled it upon the similar 
+text of the federal statute which, since 1867, has 
+deprived courts of jurisdiction over suits brought “for 
+the purpose of restraining the assessment or collection” 
+of any federal tax (26 U.S.C. 7421(a)). That ancient 
+federal statute plainly does not bar jurisdiction over 
+suits brought by the United States in federal courts to 
+obtain collection of federal taxes; it bars only suits 
+brought by taxpayers seeking to restrain the United 
+States from assessing or collecting such taxes. The 
+history of the Tax Injunction Act similarly reflects a 
+concern only with actions filed by taxpayers to enjoin 
+
+
+11 
+
+
+state collection, not with actions brought by govern- 
+ments to obtain collection of taxes. 
+
+If, however, the Tax Injunction Act were applicable 
+to this tax collection case, respondents would not 
+qualify for the exception that may be available to an 
+“instrumentality” of the United States under this 
+Court’s decision in Arkansas v. Farm Credit Services, 
+520 U.S. 821 (1997). A federal judge is not acting as an 
+“instrumentality” of the United States in challenging a 
+nondiscriminatory tax that has been assessed against 
+the judge personally, rather than against the United 
+States. A nondiscriminatory tax assessed on the per- 
+sonal income of a federal officer is not a tax imposed on 
+an instrumentality of the United States. 
+
+For similar reasons, the district court in any event 
+lacked jurisdiction in this case under the federal re- 
+moval statues. A state or local tax imposed on income 
+received by a federal judge does not challenge any 
+action taken by the judge “under color of office” (28 
+U.S.C. 1442(a)(3)). Because an action to collect taxes 
+owed on the personal income of federal judges is not 
+within the removal jurisdiction of the federal courts, 
+this case should be remanded to state court. 
+
+2. On the merits, the tax imposed by the County 
+upon the wages of federal judges does not violate the 
+Supremacy Clause. Congress has expressly consented 
+to the imposition of local taxes on the income of federal 
+judges and all other federal officers and employees in 
+the Public Salary Tax Act, 4 U.S.C. 111. Under that 
+Act, At he United States consents to the taxation of 
+pay or compensation for personal service as an officer 
+or employee of the United States * * * by a duly 
+constituted taxing authority having jurisdiction, if the 
+taxation does not discriminate against the officer or 
+employee because of the source of the pay or compensa- 
+
+
+12 
+
+
+tion.” Jbid. This Act was enacted by Congress for the 
+very purpose of authorizing the sort of nondiscrimina- 
+tory state and local tax on income imposed in this case. 
+
+The court of appeals erred in reasoning that the 
+county tax is imposed on the occupational “privilege” of 
+working as a federal judge, rather than on the “pay or 
+compensation” of such a judge. As this Court has 
+consistently held, whether a logg!“ tax is imposed upon 
+“pay or compensation” within u scope of the consent 
+granted by the Public Salary Tax Act depends upon the 
+practical operation of the tax. In its practical operation, 
+the tax challenged in this case is not on the “privilege” 
+of being a judge but is on the “pay or compensation” 
+received by a judge. It thus falls squarely within the 
+consent to local taxation of federal employees that Con- 
+gress provided in the Public Salary Tax Act. 
+
+
+ARGUMENT 
+
+
+I. THE DISTRICT COURT LACKED JURISDICTION 
+IN THIS CASE 
+
+
+1. a. The Tax Injunction Act was first enacted in 
+1937. It specifies that, so long as a “plain, speedy and 
+efficient remedy” is available in state court, At he 
+district courts shall not enjom, suspend or restrain the 
+assessment, levy or collection of any tax under State 
+law” (28 U.S.C. 1341). In decisions such as Arkansas v. 
+Farm Credit Services, 520 U.S. 821, 826-827 (1997), this 
+Court has emphasized that this statutory text “is to be 
+enforced according to its terms” and should be inter- 
+preted to advance “its purpose” of “confin{ing] federal- 
+court intervention in state government.” Accordingly, 
+because there “is little practical difference” between an 
+injunction and anticipatory relief in the form of a 
+declaratory judgment, the Court has concluded that 
+declaratory relief is encompassed within the express 
+
+
+13 
+
+
+statutory bar against injunctions. California v. Grace 
+Brethren Church, 457 U.S. 398, 408 (1982). 
+
+This Court has never suggested, however, that the 
+express limitations in the statutory text may simply be 
+ignored. By prohibiting actions to enjoin, restrain or 
+suspend state tax collection, the statute unquestionably 
+evidences a broad intention to bar “anticipatory relief 
+against state tax officials in federal court.” California 
+v. Grace Brethren Church, 457 U.S. at 408. The plain 
+text of the statute “does not, however, preclude federal 
+court jurisdiction over a suit brought to collect a state 
+tax rather than to enjoin, suspend, or restrain the 
+collection of taxes.” Irving Indep. Sch. Dist. v. Packard 
+Properties, Ltd., 741 F. Supp. 120, 122 (N. D. Tex. 1990), 
+aff'd, 970 F.2d 58 (5th Cir. 1992). Accord, Louisiana 
+Land & Exploration Co. v. Pilot Petroleum Corp., 900 
+F.2d 816, 818 (5th Cir.), cert. denied, 498 U.S. 897 
+(1990); Pendleton v. Heard, 824 F. 2d 448, 451 (5th Cir. 
+1987). “While a suit seeking declaratory relief can fall 
+within the scope of [the statute’s] prohibition, * * * 
+28 U.S.C.] 1341 is inapplicable” to cases that seek “not 
+to inhibit the collection of taxes, but to require the 
+collection of additional taxes.” Appling County v. 
+Municipal Elec. Auth., 621 F.2d 1301, 1303-1304 (5th 
+Cir.), cert. denied, 449 U.S. 1015 (1980). 
+
+b. In Keleher v. New England Telephone & Tele- 
+graph Co., 947 F.2d 547 (2d Cir. 1991), however, when a 
+city brought an action in federal court to obtain a 
+declaration that its tax was enforceable and also to 
+obtain the back taxes due, the Second Circuit concluded 
+that the Tax Injunction Act barred the entire case from 
+federal court. Relying on its perception of the historical 
+
+
+14 
+
+
+objectives of the statute, the court concluded (id. at 
+551 ¹i 
+
+
+Um removing the federal courts’ power to “enjoin, 
+suspend or restrain” state and local taxes, [Con- 
+gress} necessarily intended for federal courts to 
+abstain from hearing tax enforcement actions in 
+which the validity of a state or local tax might 
+reasonably be raised as a defense. 
+
+
+The history of the Tax Injunction Act, however, does 
+not reflect an intention that the statute be interpreted 
+in a manner that deprives its textual limitations of 
+meaning. Although the Act plainly sought to limit the 
+ability of federal courts “to interfere with so important 
+a local concern as the collection of taxes” (Franchise 
+Tax Bd. v. Alcan Aluminium Ltd., 493 U.S. 331, 338 
+(1990) (quoting Roswell v. LaSalle Nat! Bank, 450 U.S. 
+503, 522 (1981)), the Act also plainly did not seek en- 
+tirely to divest the federal courts of any and all juris- 
+diction over state tax matters. Instead, Congress chose 
+a more narrowly formulated text that reflects its par- 
+ticular legislative concerns. 
+
+In drafting this statute in 1937, Congress expressly 
+modeled it upon “statutes of similar import” previously 
+enacted by Congress that parallel the state laws that 
+“forbid actions in state courts to enjoin the collection of 
+
+
+The court further stated in the Keleher case that “[e}ven if 
+Congress did not intend the Act’s jurisdictional bar to reach so far, 
+* * * we believe that general principles of federal court 
+abstention would nonetheless require us to stay our hand here.” 
+947 F.2d at 551. In Keleher, however, unlike in the present case, 
+the merits of the tax controversy turned on “difficult questions of 
+state law” (ibid. (quoting Colorado River Water Conservation Dist. 
+v. United States, 424 U.S. 800, 814 (1976))) rather than on the 
+interpretation of federal statutory and constitutional provisions. 
+
+
+15 
+
+
+State and county taxes” and that remit taxpayers to 
+“refund actions after payment under protest.” S. Rep. 
+No. 1035, 75th Cong., Ist Sess. 1 (1937). The federal 
+statute “of similar import” upon which the Tax Injunc- 
+tion Act was thus modeled is Section 10 of Chapter 169 
+of the Act of March 2, 1867, 14 Stat. 475, which is now 
+codified at 26 U.S.C. 7421(a). In language that Con- 
+gress incorporated into the text of the Tax Injunction 
+Act, this ancient statute has specified since 1867 that 
+“no suit for the purpose of restraining the assessment 
+or collection of tax shall be maintained in any court.” 
+Ibid. It is, of course, obvious that this longstanding 
+provision of federal law does not preclude a suit by the 
+United States to obtain collection of a tax. The state 
+laws to which Congress referred in enacting the Tax 
+Injunction Act (S. Rep. No. 1035, supra, at 1) also 
+obviously do not preclude the States from enforcing 
+their taxes in the courts. The state and federal provi- 
+sions upon which Congress modeled the Tax Injunction 
+Act bar only anticipatory actions brought by taxpayers 
+that seek to enjoin the government from taking the 
+ordinary steps required to obtain collection of the tax. 
+These state and federal statutes have never been 
+interpreted to preclude a taxpayer from defending a 
+suit brought by a government to obtain collection of the 
+tax. 
+
+Nor does the history of the Tax Injunction Act sup- 
+port a conclusion that its express textual limitations 
+should be ignored. The two principal concerns ex- 
+pressed in the legislative history were (i) the elimina- 
+tion of unjust discrimination between citizens of the 
+State who were precluded by state laws from obtaining 
+pre-enforcement injunctive relief (S. Rep. No. 1035, 
+supra, at 2) and (ii) the need to prevent foreign corpora- 
+tions from commencing an injunction action as a shield 
+
+
+16 
+
+
+for a refusal to pay taxes as they come due (ibid.). See 
+also H.R. Rep. No. 1503, 75th Cong., Ist Sess. 1-2 
+(1937). In emphasizing that such suits for anticipatory 
+or injunctive relief would be precluded under the Tax 
+Injunction Act, the House Report on that Act further 
+noted that various types of non-injunctive actions 
+involving state taxes could properly arise in federal 
+courts. The Report noted that It he right under State 
+law to recover illegal taxes may be enforced in Federal 
+court if jurisdictional elements exist” and quoted the 
+holding of this Court in Singer Sewing Machine Co. v. 
+Benedict, 229 U.S. 481, 486 (1913), that a state tax 
+refund suit may be brought in federal court, “no less 
+than in the State courts, if the elements of Federal 
+jurisdiction, such as diverse citizenship and the 
+requisite amount in controversy were present” (H.R. 
+Rep. No. 1503, supra, at 3). 
+
+While Congress was thus plainly aware that state tax 
+issues could arise and be litigated in several different 
+contexts, the language that Congress utilized in the Tax 
+Injunction Act bars federal courts only from the type of 
+pre-collection injunction suits that other state and 
+federal statutes had already addressed. While anticipa- 
+tory suits seeking to restrain collection are barred 
+under these statutes, they (i) do not bar actions brought 
+by the government to obtain collection, (ii) do not 
+prevent a taxpayer from defending in a collection suit 
+by contending that the tax is invalid, and (iii) do not 
+preclude an independent action by a taxpayer to sue for 
+a refund of taxes already paid.’ Notwithstanding 
+
+
+8 While the Tax Injunction Act does not, by its terms, bar suits 
+in federal court for the refund of state taxes, federal courts apply 
+“principles of abstention that were developed before enactment of 
+the Tax Injunction Act” to allow state courts to resolve questions 
+
+
+17 
+
+
+Congress’s express awareness of these alternative 
+forms of action, neither the history nor the text of the 
+Tax Injunction Act reflects an intention to preclude 
+such non-injunction actions in federal court. 
+
+2. If this Court were nonetheless to conclude that 
+the Tax Injunction Act applies to a tax collection action 
+brought by the taxing authority, the Act would then 
+bar the present suit. Respondents do not qualify for 
+any exception to that Act. 
+
+In Arkansas v. Farm Credit Services, 520 U.S. at 
+824, 828-831, this Court noted that the Tax Injunction 
+Act does not bar an action by the United States to 
+challenge a state tax and that, in some circumstances, 
+
+
+of state law presented in such cases. Kistner v. Milliken, 432 F. 
+Supp. 1001, 1005 (E.D. Mich. 1977) (citing, ., Matthews v. 
+Rodgers, 284 U.S. 521 (1932)). But see United Gas Pipe Line Co. v. 
+Whitman, 595 F.2d 323, 327 (5th Cir. 1979) (refund suits barred by 
+Tax Injunction Act). As the court explained in Kistner v. Milliken, 
+432 F. Supp. at 1005: 
+
+
+Being an action for monetary compensation, a refund action 
+does not pose the same threat to the state’s fiscal integrity as 
+does an action for anticipatory relief. In an action for refund, 
+the court is not bound by the jurisdictional bar of the Tax 
+Injunction Act, but by the judicial doctrine of abstention, and 
+there may be cases in which a court should exercise its dis- 
+cretion to accept jurisdiction of a refund action. 
+
+
+In Fair Assessment in Real Estate Ass n v. McNary, 454 U.S. 
+100, 115 (1981), this Court held that the doctrine of “comity” 
+precludes federal courts from considering damage claims against 
+state governments under 42 U.S.C. 1983 for the unconstitutional 
+administration of state tax provisions. In so holding, the Court 
+made clear that it relied on principles that pre-dated enactment of 
+the Tax Injunction Act and not on that Act “standing alone.” 454 
+U.S. at 107. More recently, the Court explained that the Fair 
+Assessment case concerned only “the scope of the 1983 cause of 
+action * , not the abstention doctrines.” Quackenbush v. 
+Allstate Ins. Co., 517 U.S. 706, 719 (1996). 
+
+
+18 
+
+
+an “instrumentality” of the United States may also be 
+entitled to bring a similar suit. The Court has not 
+decided whether a federal “instrumentality” could pro- 
+ceed in such a suit without the United States joining as 
+a co-plaintiff. Jd. at 831. The Court has concluded, 
+however, that, to qualify as an “instrumentality,” the 
+claimant must, at a minimum, be exercising govern- 
+mental authority and not be involved in matters that 
+concern only “private” or “commercial interests.” ITbid. 
+
+It is, of ecurse, beyond question that federal judges 
+exercise governmental authority when acting in their 
+official capacity. It is also, of course, evident that 
+judges, in the management of their personal affairs, 
+sometimes act in their own private or commercial 
+interest. In challenging a nondiscriminatory local tax 
+imposed on their private incomes, judges are acting in 
+their private, not official capacities. They are therefore 
+not acting as “instrumentalities” of the United States in 
+this suit. 
+
+A tax imposed on a judge’s private income is not 
+imposed directly or indirectly on the United States or 
+upon any government activity. This Court has long 
+held that imposition of a nondiscriminatory state tax on 
+the income of federal officers and employees does not 
+implicate the sovereign interests of the United States 
+
+
+and does not derogate from federal government author- 
+
+
+ity. Since the decision in Graves v. New York, 306 U.S. 
+466, 480 (1939), this Court has made clear that “only 
+those taxes that [are] imposed directly on one sovereign 
+by the other or that discriminatel] against a sovereign 
+or those with whom it deal[s]” implicate the sovereign 
+interests of the United States. Davis v. Michigan Dep't 
+of Treasury, 489 U.S. 803, 811 (1989). See pp. 21-23, 
+infra. 
+
+
+19 
+
+
+The application of a nondiscriminatory state tax to 
+the wages of federal officers or employees thus does not 
+fall upon, or implicate the governmental interests of, 
+the United States or its instrumentalities. A suit 
+brought by respondents to challenge application of the 
+tax to them personally would not represent a suit by a 
+federal “instrumentality” and would not qualify under 
+any exception to the Tax Injunction Act. 
+
+3. For essentially the same reasons, this case was 
+not properly removed from state court. The applicable 
+removal statute permits removal only when a federal 
+officer is sued in state court for actions taken “under 
+color of office or in the performance of his duties.” 28 
+U.S.C. 1442(a)(3). Respondents cannot maintain that 
+their “duties” required them to refuse to pay the 
+nondiscriminatory local tax; nor can they maintain that 
+their refusal to pay that tax was an act taken “under 
+color of office.” It was a private action based upon the 
+claim of respondents that federal law precludes imposi- 
+tion of the tax. 
+
+The availability of a potential federal defense to a 
+state cause of action does not alone justify removal. In 
+addition to a “colorable” federal defense (Mesa v. Cali- 
+fornia, 489 U.S. 121, 129-135 (1989)), the federal officer 
+must show that the suit was brought in state court “out 
+of the acts done by him under color of federal authority” 
+(id. at 131-132 (quoting Maryland v. Soper (No. 1), 270 
+U.S. 9, 33 (1926))). See also Mesa v. California, 489 
+U.S. at 135 (the suit must be brought “against a federal 
+officer for acts done during the performance of his 
+duties”); Gay v. Ruff, 292 U.S. 25, 33 (1934) (removal 
+available “only when the person defending caused it to 
+
+
+20 
+
+
+appear that his defense was that in doing the acts 
+charged e was doing no more than his duty”).* 
+
+The court of appeals erred in concluding (Pet. App. 6- 
+7) that respondents acted in their official capacity in 
+refusing to pay the county tax. The tax on the income 
+of respondents was imposed only upon them personally 
+and not upon the United States or upon any instru- 
+mentality of the United States. In refusing to pay that 
+tax, respondents have not acted under any direction 
+from the United States or from any instrumentality of 
+the United States. There is no statutory basis or other 
+source for any “duty” of respondents not to pay the 
+local tax. Nor can respondents properly assert that 
+their private refusal to pay the local tax was done 
+“under color of office” (28 U.S.C. 1442(a)(3)), for no 
+judicial act or proceeding was implicated in their pri- 
+vate actions. Any suggestion that respondents’ refusal 
+to pay nondiscriminatory local taxes on their personal 
+incomes is “in the performance of [their] duties“ is 
+further refuted by the fact that they pay the non- 
+discriminatory state income tax on that same income 
+without objection (Pet. App. 116). 
+
+No other basis for removal jurisdiction exists in this 
+case. A federal question raised, as here, only as a de- 
+fense to a state cause of action does not support 
+removal jurisdiction under 28 U.S.C. 1441(a). Mesa v. 
+California, 489 U.S. at 121. Because the district court 
+lacked subject matter jurisdiction, the case should be 
+remanded to state court. 28 U.S.C. 1447(c). 
+
+
+For example, federal law may provide a defense to a state 
+tort suit by preempting the state law. A federal officer sued in 
+state court for such a state tort would not be entitled to remove 
+the case to federal court unless the suit arose “out of the acts done 
+by him under color or federal authority.” Mesa v. California, 489 
+U.S. at 131-132. 
+
+
+21 
+
+
+II. CONGRESS HAS CONSENTED TO THE TAX ON 
+RESPONDENTS’ INCOME AND, THEREFORE, 
+THE SUPREMACY CLAUSE DOES NOT PRO- 
+TECT THEM FROM THE JEFFERSON COUNTY 
+TAX 
+
+
+1. a. The court of appeals erred in concluding that 
+Congress has not consented to the challenged county 
+tax.” The Public Salary Tax Act unequivocally provides 
+that “(t]he United States consents to the taxation of 
+pay or compensation for personal service as an officer 
+or employee of the United States * * * by a duly 
+constituted taxing authority having jurisdiction, if the 
+taxation does not discriminate against the officer or 
+employee because of the source of the pay or com- 
+pensation. ” 4 U.S.C. 111. The history and the text of 
+this provision indicate that a nondiscriminatory local 
+tax imposed on compensation from employment may be 
+applied to any “officer or employee of the United 
+States” (ibid.) without regard to whether that tax is 
+
+
+The court of appeals did not consider whether Congress has 
+consented to the tax under the Public Salary Tax Act of 1939 (4 
+U.S.C, 111) or the Buck Act (4 U.S.C. 105 et seq.) until after the 
+court had concluded that the tax violated the constitutional doc- 
+trine of intergovernmental tax immunity. As this Court has fre- 
+quently observed, however, a constitutional issue should be 
+reached only after non-constitutional bases for decision have been 
+resolved. Califano v. Yamasaki, 442 U.S. 682, 692-693 (1979); 
+Bowen v. United States, 422 U.S. 916, 920 (1975); Clay v. Sun Ins. 
+Office Ltd., 363 U.S. 207, 209 (1960). This practice is rooted in the 
+Court’s reluctance to decide “abstract, hypothetical or contingent” 
+constitutional questions. Thorpe v. Housing Auth., 393 U.S. 268, 
+284 (1969) (quoting Alabama State Fed'n of Labor v. McAdory, 325 
+U.S. 450, 461 (1945). It is appropriate first to address the question 
+whether Congress has consented to the challenged tax because, if 
+such consent has been given, it is irrelevant whether, in the 
+absence of such consent, the tax would be unconstitutional. 
+
+
+22 
+
+
+labeled, under state law, as an “occupational” tax, a 
+“privilege” tax or an “income” tax. 
+
+The Public Salary Tax Act is intimately connected 
+with the modern development of the constitutional 
+doctrine of intergovernmental tax immunity. See Davis 
+v. Michigan Dep't of Treasury, 489 U.S. at 811-812. 
+Under this doctrine, “States may not impose taxes 
+directly on the Federal Government, nor may they 
+impose taxes the legal incidence of which falls on the 
+Federal Government.” United States v. County of 
+Fresno, 429 U.S. 452, 459 (1977) (footnote omitted). For 
+many years, the intergovernmental tax immunity 
+doctrine was broadly applied to prohibit state taxation 
+of the salaries of officers and employees of the United 
+States (Dobbins v. Commissioners, 41 U.S. (16 Pet.) 
+434 (1842)) and to prohibit federal taxation of the 
+salaries of state officials (Collector v. Day, 78 U.S. (11 
+Wall.) 113 (1870)). See Davis v. Michigan Dep't of 
+Treasury, 489 U.S. at 810-812 In Helvering v. Ger- 
+hardt, 304 U.S. 405 (1938), however, the Court declined 
+to follow these authorities—and implicitly overruled 
+Collector v. Day—by holding that the federal income 
+tax could validly be imposed on employees of the New 
+York Port Authority. One year later, in Graves v. New 
+York, 306 U.S. at 480, the Court overruled the entire 
+line of cases from Dobbins v. Commissioners through 
+Collector v. Day. As this Court explained in Davis v. 
+Michigan Dep't of Treasury, 489 U.S. at 811: 
+
+
+After Graves * * * intergovernmental tax immu- 
+nity barred only those taxes that were imposed di- 
+rectly on one sovereign by the other or that dis- 
+criminated against a sovereign or those with whom 
+it dealt. 
+
+
+23 
+
+
+The Public Salary Tax Act was considered by Con- 
+gress during the period when the Court was in the 
+process of narrowing, and ultimately abandoning, the 
+Dobbins-Day line of cases. After the Court held in 1938 
+in Helvering v. Gerhardt, supra, that the federal gov- 
+ernment could impose nondiscriminatory taxes on state 
+employees, Congress determined that federal officers 
+and employees should be subject to similar state taxes. 
+In the Public Salary Tax Act (Act of Apr. 12, 1939, ch. 
+59, § 4, 53 Stat. 575), the predecessor of 4 U.S.C. 111, 
+Congress therefore expressly consented to nondis- 
+criminatory state taxation of the “pay or compensation” 
+of federal officers and employees. See H.R. Rep. No. 
+26, 76th Cong., Ist Sess. (1939); S. Rep. No. 112, 76th 
+Cong., Ist Sess. (1939). 
+
+This Court entered its decision in Graves shortly 
+before the Public Salary Tax Act was enacted. The 
+practical effect of the Public Salary Tax Act was thus to 
+codify the result in Graves and thereby foreclose “the 
+possibility that subsequent judicial reconsideration of 
+[Graves] might reestablish the broader interpretation 
+of the immunity doctrine.” Davis v. Michigan Dep't of 
+Treasury, 489 U.S. at 812. The purpose of the Act is 
+thus plainly to abandon, not preserve or extend, the 
+immunity of federal officers and employees from 
+nondiscriminatory state taxation. 
+
+b. The proper interpretation of the Public Salary 
+Tax Act must, of course, begin with its language. See, 
+e.g., Bailey v. United States, 516 U.S. 137, 144 (1995). 
+Under this Act, the United States consents to nondis- 
+criminatory state or local taxation of the “pay or com- 
+pensation for personal service” received by any “officer 
+or employee of the United States.” 4 U.S.C. 111. Be- 
+cause the local ordinance challenged in this case taxes 
+the “pay or compensation” that respondents receive for 
+
+
+24 
+
+
+the “personal service” they provide as officers of the 
+United States, and does not discriminate in doing so, 
+the tax comes within the plain language of the consent 
+that Congress has given to state and local taxation.“ 
+
+The language of the county ordinance, of course, does 
+more than simply impose the tax. It also states that it 
+is “unlawful for any person” to be employed within the 
+County “without paying” the tax. Jeff. Cty. Ord. 1120, 
+§ 2; Pet. App. 132.’ The court of appeals held that the 
+tax is beyond the scope of the statutory consent be- 
+cause: (i) under state law, the ordinance imposes a tax 
+on the “privilege” of working, rather than a tax on the 
+“income” received from work (Pet. App. 54-56; see id. at 
+44-45 (citing McPheeter v. City of Auburn, 259 So. 2d 
+833 (Ala. 1972))); and (ii) a tax imposed on the “privi- 
+lege” of working as a federal judge constitutes a direct 
+tax on the United States to which Congress has not 
+consented (id. at 56). 
+
+The court of appeals erred, however, in looking to the 
+label, rather than the substance, of the challenged tax. 
+Whether the County’s occupational tax is imposed on 
+“pay or compensation” within the scope of the consent 
+granted by the Public Salary Tax Act, 4 U.S.C. 111, is a 
+question of federal law. See Howard v. Commissioners 
+
+
+The district court (Pet. App. 89-90) correctly held that the 
+county tax does not “discriminate against the officer or employee 
+because of the source of the pay or compensation” (4 U.S.C, 111). 
+The en banc court of appeals stated that, Jon this appeal, there is 
+no contention that this holding was erroneous and, in light of our 
+disposition of the case, we do not address it” (Pet. App. 34 n.9). 
+
+The tax is imposed on the “gross receipts” from employment 
+within the County. That term is defined to mean “compensation” 
+and includes “the total gross amount of all salaries, wages, com- 
+missions, bonuses or any other money payment of any kind.” Jeff. 
+Cty. Ord. 1120, § 1(F); Pet. App. 131. 
+
+
+25 
+
+
+of the Sinking Fund; 344 U.S. 624, 628-629 (1953); 
+United States v. City of Pittsburgh, 757 F.2d 43, 47 (3d 
+Cir. 1985). This Court has emphasized that, in deter- 
+mining the validity of a state tax whose burden falls 
+upon the federal government or its employees, “we are 
+concerned only with its practical operation, not its 
+definition or the precise form of descriptive words 
+which may be applied to it.“ Lawrence v. State Tax 
+Comm'n, 286 U.S. 276, 280 (1932). It is therefore 
+necessary to “look through form and behind labels to 
+substance” (City of Detroit v. Murray Corp. of Am., 355 
+U.S. 489, 492 (1958)) and to go beyond the “bare face of 
+the taxing statute to consider all relevant circum- 
+stances” (United States v. City of Detroit, 355 U.S. 466, 
+469 (1958)). See also Complete Auto Transit, Inc. v 
+Brady, 430 U.S. 274, 288 (1977) (constitutionality of a 
+state tax on the “privilege of doing business” under the 
+Commerce Clause does not turn merely on the legisla- 
+tive phrasing, for such “formalism merely obscures the 
+question whether the tax produces a forbidden effect”). 
+
+In its “practical operation” and effect, the county tax 
+is simply a tax on the “pay or compensation” that 
+respondents receive for their services to the United 
+States. The tax is imposed only if a person earns “gross 
+receipts” or receives “compensation” in the form of 
+“salaries, wages, commissions, [or] bonuses” while 
+employed within the County. Jeff. Cty. Ord. 1120, 
+§ 1(F); Pet. App. 131. See note 7, supra. Even though 
+phrased as a “privilege” tax, it is imposed only on 
+income as it is received. The tax does not operate as a 
+prerequisite or precondition of employment; it is 
+therefore indistinguishable in its practical operation 
+and effect from other forms of income taxation. 
+
+The court of appeals was unduly swayed by the 
+language of the ordinance that makes it “unlawful” for a 
+
+
+person not to pay this “privilege” tax (Pet. App. 50-51). 
+It is, by definition, “unlawful” for any person to fail to 
+pay a tax imposed by law. If a State could not make it 
+“unlawful” for a federal officer to fail to pay a tax, the 
+tax could not be enforced; if the tax could not be 
+enforced, it would then hardly be relevant whether 
+Congress had, or had not, consented to it. 
+
+The only “punishment” imposed for a failure to pay 
+the county tax is interest and penalties on the unpaid 
+tax. Jeff. Cty. Ord. 1120, § 10; Pet. App. 137-138. The 
+fact that Ordinance 1120, in this manner, makes it 
+“unlawful” for anyone to fail to pay the tax does not 
+take the tax outside the scope of the statutory consent. 
+The tax does not discriminate against federal officers 
+and employees; it is imposed on the “pay or compensa- 
+tion” that they receive from their employment (4 U.S.C. 
+111); it is therefore within the scope of the statutory 
+consent. 
+
+c. The court of appeals erred in distinguishing (Pet. 
+App. 56-57 n.19) the tax imposed by Ordinance 1120 
+from the “business privilege tax” upheld in United 
+States v. City of Pittsburgh, 757 F.2d at 47. There, the 
+City of Pittsburgh imposed a “business privilege tax” 
+on persons doing business in the city at the rate of five 
+mills per dollar of gross receipts. The United States 
+challenged the application of this “privilege” tax to the 
+
+
+official transcript fees of a federal court reporter in the 
+
+
+United States District Court for the Western District 
+of Pennsylvania. The Third Circuit concluded, how- 
+ever, that the local “privilege” tax was within the scope 
+of the consent provided by the Public Salary Tax Act, 4 
+U.S.C. 111. 
+
+In so holding, the court of appeals found it immaterial 
+that the Pennsylvania Supreme Court had ruled that 
+the local tax was a “privilege” tax rather than an “in- 
+
+
+27 
+
+
+come tax” under state law. 757 F.2d at 47. The court of 
+appeals held that federal law, not state law, determines 
+whether the local tax is imposed on the “pay or 
+compensation” (4 U.S.C. 111) of a federal officer. 757 
+F. 2d at 47. The court explained that, in enacting the 
+Public Salary Tax Act, Congress intended that federal 
+employees “should contribute to the support of their 
+State and local governments, which confer upon them 
+the same privileges and benefits which are accorded to 
+persons engaged in private occupations.” /bid. (quoting 
+S. Rep. No. 112, supra, at 4). The court stated that the 
+statutory consent to taxation of the “pay or compen- 
+sation” of federal officers must be read broadly to 
+comport with that legislative intent. Jbid. The court 
+further noted that, in enacting the Public Salary Tax 
+Act, Congress was aware “that the states used a vari- 
+ety of forms of income taxes, including gross income 
+taxes and occupational taxes.” /bid. (citing S. Rep. No. 
+112, supra, at 6-10). Because the “business privilege 
+tax” challenged in City of Pittsburgh was imposed on 
+the “gross receipts or gross income from the [tran- 
+script] fees,” the court concluded that Congress had 
+consented to the imposition of the tax under 4 U.S.C. 
+111. 757 F.2d at 47. 
+
+2. The Buck Act, 4 U.S.C. 105 et seq., reinforces this 
+understanding of the scope of the consent to state 
+taxation contained in the Public Salary Tax Act. Under 
+the Buck Act, a person who receives “income from 
+transactions occurring or services performed” in a 
+“Federal area” is subject to “any income tax” levied by 
+a state or local government “to the same extent” as if 
+the income was received in an area that is “not a 
+
+
+28 
+
+
+Federal area.” 4 U.S.C. 106(a).* The term “income tax” 
+is defined for this purpose to mean “any tax levied on, 
+with respect to, or measured by, net income, gross 
+income, or gross receipts.” 4 U.S.C. 110(¢). 
+
+The Buck Act (Act of Oct. 9, 1940, ch. 787, 54 Stat. 
+1059) and the Public Salary Tax Act were both enacted 
+by the same Congress. In adopting the broad definition 
+of the term “income tax” contained in the Buck Act, 
+Congress was aware that States impose a variety of 
+taxes on income that are designated by terms other 
+than “income tax”—such as “corporate-franchise” taxes 
+or “business-privilege” taxes. S. Rep. No. 1625, 76th 
+Cong., 3d Sess. 5 (1940). Congress sought to ensure 
+that state and :ocal governments are authorized to 
+impose taxes measured by the income or receipts from 
+federal employment regardless of how the tax is labeled 
+or described. /bid. 
+
+In Howard v. Commissioners of the Sinking Fund, 
+344 U.S. 624 (1953), this Court held that the Buck Act 
+
+
+The term “Federal area” is defined broadly in the Buck Act to 
+mean “any lands or premises held or acquired by or for the use of 
+the United States.” 4 U.S.C. 110(e). This definition appears, by its 
+terms, to encompass premises used by the United States for the 
+purposes of operating a federal courthouse. The origin and pur- 
+pose of the Buck Act, however, were more limited: that statute 
+was designed to ensure that federal officers and employees who 
+reside or work within exclusive federal enclaves would be treated 
+equally with those who reside and work outside such areas. See 8. 
+Rep. No. 1625, 76th Cong., 3d Sess. 3 (1940); United States v. 
+Lewisburg Area Sch. Dist., 539 F. 2d 301, 309 (3d Cir. 1976). Be- 
+cause the Public Salary Tax Act broadly consents to any tax im- 
+posed on the “pay or compensation” of federal employees (4 U.S.C. 
+111), it is unnecessary for the Court to decide in this case whether 
+the Buck Act itself authorizes application of state and local “income 
+taxles] to the salaries of federal judges as compensation for 
+“services performed” in a “Federal area” (42 U.S.C. 106(a)). 
+
+
+consented to the imposition of a municipal “license fee” 
+(of one percent of the wages and “other compensations 
+earned by every person in the City”) on employees who 
+worked at a federal ordnance plant. 344 U.S. at 625 n.2. 
+The employees had claimed in Howard that the local 
+“license fee” was not an “income tax” within the scope 
+of the Buck Act because the Kentucky Court of Appeals 
+had held that “this tax was not an ‘income tax’ within 
+the meaning of the Constitution of Kentucky but was a 
+tax upon the privilege of working within the City” (id. 
+at 628 (citing City of Louisville v. Sebree, 214 S.W.2d 
+248, 253-254 (1948))). This Court rejected that argu- 
+ment (344 U.S. at 628-629): 
+
+
+[The right to tax earnings within the area was not 
+given Kentucky in accordance with the Kentucky 
+law as to what is an income tax. The grant was 
+given within the definition of the Buck Act, and this 
+was for any tax measured by net income, gross in- 
+come, or gross receipts. 
+In dissent in Howard, Justice Douglas (joined by Jus- 
+tice Black) urged a contrary point of view that is echoed 
+in the reasoning of the court of appeals in the present 
+case (id. at 629 (citation omitted)): 
+
+
+I have not been able to follow the argument that 
+this tax is an “income tax” within the meaning of the 
+Buck Act. It is by its terms a “license fee” levied on 
+“the privilege” of engaging in certain activities. The 
+tax is narrowly confined to salaries, wages, com- 
+missions and to the net profits of businesses, pro- 
+fessions, and occupations. Many kinds of income are 
+excluded, e.g., dividends, interest, capital gains. The 
+exclusions emphasize that the tax is on the privilege 
+of working or doing business in Louisville. That is 
+the kind of a tax the Kentucky Court of Appeals 
+
+
+30 
+
+
+held it to be. The Congress has not yet granted lo- 
+cal authorities the right to tax the privilege of work- 
+ing for or doing business with the United States. 
+
+
+The decision of the court of appeals in this case errs 
+for the same reason that the Court rejected the for- 
+malistic interpretation of the statute proposed by the 
+dissent in Howard. Both in substance and practical 
+effect, the county ordinance challenged in this case 
+imposes a tax on income received from federal employ- 
+ment, and nothing more. Congress expressly consented 
+to the imposition of such nondiscriminatory state and 
+local taxes upon the “pay or compensation” of federal 
+officers and employees. 4 U.S.C. 111. 
+
+
+CONCLUSION 
+
+
+If the Court concludes that jurisdiction does not exist 
+in this case, the judgment of the court of appeals should 
+be vacated and the case remanded to state court. If the 
+Court concludes that jurisdiction exists in this case, the 
+judgment of the court of appeals should be reversed. 
+
+
+Respectfully submitted. 
+
+
+SETH L. WAXMAN 
+Solicitor General 
+
+LORETTA C. ARGRETT 
+Assistant Attorney General 
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+
+KENT L. JONES 
+Assistant to the Solicitor 
+General 
+
+
+DAVID ENGLISH CARMACK 
+
+
+Attorney 
+
+
+JANUARY 1999 
+
+

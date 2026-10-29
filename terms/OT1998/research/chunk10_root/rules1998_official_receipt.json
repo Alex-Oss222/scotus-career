@@ -1,0 +1,29 @@
+{
+  "source": "Official1998CodeAppendixCourtRules, discovered from official packageMODS rather than guessed filenames",
+  "files": [
+    {
+      "file": "terms/OT1998/research/chunk10_root/rules1998.html",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-1998-title28/html/USCODE-1998-title-app-dup6.htm",
+      "bytes": 173320,
+      "sha256": "5aff3c6f3463b49cc1bb986da871483b543d5c11821bbb6793b34720f3f767c7"
+    },
+    {
+      "file": "terms/OT1998/research/chunk10_root/rules1998.pdf",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-1998-title28/pdf/USCODE-1998-title-app-dup6.pdf",
+      "bytes": 243117,
+      "sha256": "b7c04463d2d8133fb2c1729ac6ba21cc9de8b4c6bfda1115543546b3c5b6403f"
+    },
+    {
+      "file": "terms/OT1998/research/chunk10_root/rule15_1998.html",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-1998-title28/html/USCODE-1998-title-app-dup6-partiiiju-rule15.htm",
+      "bytes": 5890,
+      "sha256": "18a07301057c59cdbae4f02f87ae3fa847d94ce19db582d130dd94bb208c2e91"
+    },
+    {
+      "file": "terms/OT1998/research/chunk10_root/rule16_1998.html",
+      "url": "https://www.govinfo.gov/content/pkg/USCODE-1998-title28/html/USCODE-1998-title-app-dup6-partiiiju-rule16.htm",
+      "bytes": 2507,
+      "sha256": "b820f63587e5a93ba8504d240055795962b8a091c1a4ba9a94a5dd027e8cfa65"
+    }
+  ]
+}

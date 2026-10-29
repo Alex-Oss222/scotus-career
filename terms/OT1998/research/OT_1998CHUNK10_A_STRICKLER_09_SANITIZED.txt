@@ -1,0 +1,2155 @@
+CONTROLLED SOURCE ARTIFACT — NOT CLEARED FOR NEUTRAL OR INDEPENDENT MODEL INPUT.
+Initial mechanical filtering was incomplete; source OCR can retain Supreme Court procedural recitals. Use only the separately prepared source-facts handoff through a fresh validator. Filename SANITIZED records the initial procedure, not a validation certification.
+
+SOURCE: https://archive.org/download/micro_IA40385014_0290/micro_IA40385014_0290%2009.%20Respondents%20Brief_djvu.txt
+Automatic exclusions: all blocks matching certiorari, stay-of-execution, Court grant/denial or jurisdiction phrases. No omitted content has been displayed. Other source statements retain their original status as advocacy, quoted record, or lower-court finding.
+
+No. 98-5864 ian 19 1999 
+
+In The 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+S 
+
+TOMMY DAVID STRICKLER, 
+
+Petitioner, 
+
+FRED W. GREENE, WARDEN, 
+Respondent. 
+
++ 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
++ 
+
+BRIEF OF RESPONDENT 
+
+SI 
+
+Mark L. Ear.ey 
+Attorney General of Virginia 
+
+*Pameta A. Rumpz 
+Assistant Attorney General 
+
+900 East Main Street 
+Richmond, Virginia 23219 
+(804) 786-4624 
+
+*Counsel of Record 
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+~> 
+
+QUESTIONS PRESENTED 
+
+Given that he failed to raise his so-called “Brady” 
+claim in state collateral proceedings and that the 
+claim would be barred if raised in state court now, 
+may petitioner establish “cause” to excuse his 
+default when he clearly could have pursued and 
+raised the claim in his state collateral proceedings 
+just as he subsequently did in his federal habeas 
+proceeding? 
+
+Even if petitioner could show “cause” for his 
+default, is a finding of the required “prejudice” 
+precluded by his trial attorney’s actual knowledge 
+of the substance of the allegedly undisclosed 
+impeachment material, by Strickler’s admissions to 
+the jury, a probation officer and the trial judge, and 
+by the Court of Appeals’ reasonable conclusion that 
+the undisclosed material, if disclosed, would not 
+have made a difference in the outcome of peti- 
+tioner’s trial? 
+
+ii iii 
+
+TABLE OF CONTENTS TABLE OF CONTENTS - Continued 
+; Page Page 
+0 220n bade cay awa eae Il. EVEN IF STRICKLER COULD SHOW “CAUSE” 
+ppm trier is FOR HIS DEFAULT, HE CANNOT SHOW “PRE}- 
+STATEMENT OF THE CASE. ..i..0sccsesseuneccuas 1 UDICE” BECAUSE HIS “BRADY” CLAIM HAS 
+ki] blished SEE EE on caltidls . sade o@age Jhae vescdgeevegese 32 
+A. Strickler’s guilt was established over- ' Pe ” 
+whelmingly by the evidence independent of A. Strickler must — yp — _ 
+the testimony of Anne Stoltzfus............. 1 prejudice” before his default may - 
+SE aoc os onde ccbbessieconpesetcoseune. 
+B. Anne Stoltzfus’ testimony.................... 6 B. Strickler cannot satisfy the Brady/Bagley stan- : 
+C. Trial and dissect appeal) ........:<c0sskesanenne 8 ard . 2. cee cece cece cece renee eee eeeneneenees 
+1. Strickler’s admissions that he was at the 
+D. State habeas corpus .. ..oss0scecsadeleueiene 10 mall, in the victim’s car with the victim 
+B. Federal habeas corpus .sis.s.sikisnsecsbancans 12 and at the murder scene preclude a find- 
+ing of materiality ...............0000055 33 
+SUMMARY OF THE ARGUMENT ................. 14 = Me RGD fide idea tebétence of the 
+ARGUMENT... .. 0000 ccuucecceeans ane ee 17 alleged exculpatory information at the 
+| PE ET ED nd 0 6'n bps 66.0)p 0 be ccepcccccce 36 
+: DEFAULTED AND THRE we ues “Cathay Ea 3. The “Stoltzfus materials” are inculpatory, 
+THE DEFAULT... «<0 cus ove stanuneueeee 17 not exculpatory ...... 6-660 sees eeee eens 41 
+4. The Fourth Circuit correctly ruled that 
+A. The Default WREEUTELEVEET TTP te er ee 17 the information was not material seaseuer 44 
+B. Cause... -. sees cece sence eres eeeeeeeeees 18 ee rect sve cceveoscwes' © sic 50 
+1. Strickler’s assertion of “cause” is insuffi- 
+COTE. . 000.0 cca npe cece thal ieee 19 
+
+2. Strickler did not diligently investigate 
+and pursue his claim during state collat- 
+CPG) LSVIGW ooo sien sencaeicdnseenes 20 
+
+3. The Warden’s isolated statement in a 
+pleading filed after Strickler filed his 
+state habeas petition cannot excuse 
+Strickler’s failure to raise his Brady claim 
+im state Coutt...... éscveveneue enn 28 
+
+iv 
+
+TABLE OF AUTHORITIES 
+
+Page 
+
+Cases 
+Amadeo v. Zant, 486 U.S. 214 (1988) .............. 30, 31 
+Brady v. Maryland, 373 U.S. 83 (1963)............ passim 
+
+Coleman v. Thompson, 501 U.S. 722 (1991)..... 15, 18, 31 
+Coppola v. Commonwealth, 257 S.E.2d 797 (Va. 
+
+1979), cert. denied, 444 U.S. 1103 (1980)............ 49 
+Engle v. Isaac, 456 U.S. 107 (1982)................ 26, 31 
+Estelle v. McGuire, 502 U.S. 62 (1991)................ 48 
+Giglio v. United States, 405 U.S. 150 (1972)........... 49 
+Graham v. Collins, 506 U.S. 461 (1993) ............... 42 
+Gray v. Netherland, 518 U.S. 152 (1996) .............. 17 
+Keeney v. Tamayo-Reyes, 504 U.S. 1 (1992)............ 26 
+Kyles v. Whitley, 514 U.S. 419 (1995)...... 32, 33, 35, 44 
+Manson v. Brathwaite, 432 U.S. 98 (1977)............. 40 
+Massiah v. United States, 377 U.S. 201 (1964)..20, 21, 23 
+McCleskey v. Zant, 499 U.S. 467 (1991)........... passim 
+Moore v. Illinois, 408 U.S. 786 (1972)................. 41 
+Murray v. Carrier, 477 U.S. 478 (1986) ............... 18 
+Murray v. Giarratano, 492 U.S. 1 (1989) .............. 29 
+Pennsylvania v. Finley, 481 U.S. 551 (1987)........... 29 
+
+Slayton v. Parrigan, 205 S.E.2d 680 (Va. 1974), cert. 
+Gented, 489 WS. 1068 CASTE)... csccanccevecccess, 11 
+
+v 
+
+TABLE OF AUTHORITIES - Continued 
+
+Page 
+Strickland v. Washington, 466 U.S. 668 (1984)......... 10 
+Strickler v. Angelone, 516 U.S. 850 (1995)............. 11 
+Strickler v. Commonwealth, 404 S.E.2d 277 (Va. 
+WE bi..06 cenneenessbncttehecanssatestee tn 10, 25, 49 
+Strickler v. Murray, 452 S.E.2d 648 (Va. 1995) 
+
+pa bavewbidiadeteas sae sntasSanedctenas 6 11, 45, 47, 48 
+Strickler v. Virginia, 502 U.S. 944 (1991).............. 10 
+Sumner v. Mata, 449 U.S. 539 (1981)................. 48 
+Teague v. Lane, 489 U.S. 288 (1989) .............2005. 17 
+United States v. Agurs, 427 U.S. 97 (1976) 
+
+vevddbvcvabbdtsdekucsecdedieewece 33, 35, 37, 41, 42, 47 
+United States v. Bagley, 473 U.S. 667 (1985) ...... passim 
+United States v. Comonsona, 848 F.2d 1110 (10th Cir. 
+
+PU + bab Usks bund See Cdk bees EKevReASL eiceséseove 42 
+United States v. Frady, 456 U.S. 152 (1982)........... 32 
+United States v. Phillip, 948 F.2d 241 (6th Cir. 1991), 
+
+cert. denied, 504 U.S. 930 (1992) ............... wee. 42 
+Wainwright v. Sykes, 433 U.S. 72 (1977) .............. 18 
+Wood v. Bartholomew, 516 U.S. 1 (1995) .............. 34 
+
+OrHer AUTHORITY 
+es th AE ced de divehecasedeeren cckevatssecs 48 
+§ 8.01-654(B)(2), Code of Virginia ................... 17 
+§ 8.01-654.1, Code of Virginia...................65.. 17 
+
+§ 8.01-655, Code of Virginia. .................0000005 19 
+
+vi 
+
+TABLE OF AUTHORITIES — Continued 
+
+Page 
+§ 19.2-264.4, Code of Virginia.................ceee00: 8 
+§ 19.2-2665, Came OF TRS. occ ccvcedinvecsecdveer 8 
+Rule 6(a), Rules Governing § 2254 Cases......... 25, 27 
+Wa, GR HR A 6 oc ou ch cb voncadeautens 11, 25, 27 
+We, BED Ee Be co ccce se oh50 <a as cdnssedecsiae 25 
+Va. S.Ct. Rule 3A:11(B)(2).... 6... cece eee eee eens 42 
+
+1 
+STATEMENT OF THE CASE 
+
+Nine years ago, Tommy Strickler murdered Leanne 
+Whitlock, a 19-year-old black college student, after 
+abducting her from the Valley Shopping Mall in Har- 
+risonburg, Virginia, and after robbing her while armed 
+with a deadly weapon. Strickler and his accomplice, 
+Ronald Henderson, killed Whitlock by dropping a 69- 
+pound rock on her head four times, crushing her skull so 
+forcefully that bone fragments were embedded in her 
+brain. Whitlock’s frozen, nude body was found hidden in 
+an Augusta County field eight days after her abduction. 
+
+A. Strickler’s guilt was established over- 
+whelmingly by the evidence independent of 
+the testimony of Anne Stoltzfus: 
+
+The uncontested evidence at trial showed that at 
+about 4:30 p.m. on January 5, 1990, Whitlock borrowed 
+John Dean’s 1986 blue Mercury Lynx automobile which 
+bore West Virginia tags “NKA 243.” At the time Whitlock 
+borrowed the car, it was clean and Whitlock agreed to 
+return it to Dean “an hour or two later” at the Valley Mall 
+where Dean worked at the Footlocker Store. (JA 18). After 
+borrowing the car, Whitlock, accompanied by her room- 
+mate, ran errands culminating in a take-out cheeseburger 
+and french fry dinner at about 6:00 p.m. The roommates 
+returned home to eat, and at approximately 6:30 to 6:45 
+p-m. Whitlock left her apartment to return the borrowed 
+car to Dean at the mall. (JA 22-23). She was wearing a 
+pair of pearl earrings that belonged to her mother. After 
+leaving the apartment that evening, neither her room- 
+mates nor Dean ever saw Whitlock alive again and Whit- 
+lock did not return Dean’s car as scheduled. (JA 18, 23, 
+25). 
+
+Strickler’s mother, Irene Silvious, testified that on 
+January 5 she left her home in New Market, Virginia, to 
+
+2 
+
+go into Harrisonburg to do her banking. She was accom- 
+panied by Strickler and his friend, Ronald Henderson. 
+(JA 149). Strickler and Henderson, however, disappeared 
+when she parked her car at the bank and she did not see 
+them again that day. According to Silvious, Strickler 
+“always” carried with him a hunting knife which had 
+been given to him by his father. (JA 149). 
+
+Strickler and Henderson subsequently were seen at 
+the Valley Mall by Virginia Smith, a mall security guard, 
+and by Donna Warner, a friend of Henderson’s who was 
+shopping at the mall. (JA 27-28, 32). Smith testified that at 
+approximately 3:30 p.m. on January 5 she received a 
+report that two white males, later identified as Strickler 
+and Henderson, were attempting to steal a white Conti- 
+nental from the mall parking lot. By the time Smith 
+reached the location of the white Continental, however, 
+Strickler and Henderson had fled. After searching 
+throughout the mall, Smith located Strickler and Hender- 
+son and she spent the remainder of the afternoon watch- 
+ing them. At about 6:45 p.m., however, the pair 
+apparently noticed Smith watching them and they “took 
+off out of the food court” toward the main entrance of the 
+mall. Smith subsequently lost sight of the pair and she 
+did not see them again that evening. (JA 28-33). 
+
+Kurt Massie testified that at about 7:30 p.m. on Janu- 
+ary 5 he was traveling on Route 340 in Augusta County 
+when he saw Strickler driving a dirty blue car. Massie 
+saw three people in the vehicle, although he acknowl- 
+edged that there may have been a fourth-occupant in the 
+car. His attention was drawn to the car because it was 
+turning onto a dirt road which led into a field and this 
+was an area where Massie knew vehicles often became 
+stuck. Massie stopped and watched Strickler because he 
+thought that he would have to help Strickler dislodge his 
+car once it got stuck. The car, however, had no apparent 
+
+3 
+
+difficulty negotiating the dirt road and Massie continued” 
+on his way. (JA 64-69). 
+
+Later that same evening, Carolyn Brown, Debbie 
+Sievers and Nancy Simmons were at Dice’s Inn, a bar in 
+Staunton, Virginia.' (JA 73, 78, 80). Also at Dice’s was 
+Donna Kay Tudor. At approximately 9:00 p.m., Strickler 
+and Henderson entered Dice’s.? Brown, Sievers and 
+Tudor testified that when Strickler arrived at Dice’s his 
+jeans were dirty and Tudor saw blood on them.? (JA 75, 
+79, 81, 95). While at Dice’s, Strickler spent most of his 
+time with Tudor; Henderson spent his evening with Sim- 
+mons. Simmons testified that at some point during the 
+evening Henderson gave her Whitlock’s watch as a gift. 
+(JA 82). According to Sievers, Strickler and Henderson 
+left Dice’s around 2:00 a.m. with Tudor in a vehicle 
+Sievers identified as Dean’s blue Lynx. (JA 77). 
+
+Tudor testified that she met Strickler and Henderson 
+at Dice’s and, after spending the evening with Strickler, 
+left with the two men to search for marijuana. As they 
+drove around, she sat in the back seat of the car while 
+Henderson and Strickler sat in the front seat. During the 
+drive, Strickler became angry at Henderson for driving 
+erratically, pulled a knife and threatened to stab Hender- 
+son. Tudor also overheard a conversation between the 
+
+! Staunton is surrounded by Augusta County and is 
+approximately 25 miles from Harrisonburg. 
+
+2 The evidence established that Tudor already was at Dice’s 
+before Strickler and Henderson arrived. Sievers, Brown and 
+Simmons all testified that Tudor was at Dice’s by 8:00 p.m. - 
+over an hour before Strickler and Henderson arrived. (JA 76, 
+81). Tudor testified that she was dropped off at Dice’s around 
+8:00 p.m. and that she encountered Strickler after she arrived. 
+(JA 89). 
+
+3 The blood later was determined to be type “O” - common 
+to both Whitlock and Strickler. 
+
+4 
+
+men in which they were discussing a “fight” which had 
+occurred earlier that evening. Specifically, they talked 
+about getting into a fight with “it” and they referred to 
+“it” as a “nigger.” They additionally talked about how 
+they had kicked “it” in the side of the head and Tudor 
+heard Strickler state that he had used a “rock crusher” on 
+“it” so that “it” would “give him no more trouble.” (JA 
+91-93, 96). 
+
+Sometime after this conversation, Strickler and Tudor 
+dropped Henderson off, and Strickler and Tudor drove to 
+Virginia Beach in the stolen blue Lynx. On the trip to 
+Virginia Beach, Strickler gave Tudor the pearl earrings 
+Whitlock had been wearing when she disappeared on 
+January 5. (JA 96). Also during this trip, Tudor noticed 
+Whitlock’s driver’s license, I1.D. and bank card in the car, 
+and Tudor testified that Strickler attempted unsuc- 
+cessfully to use the bank card in Virginia Beach. (JA 96). 
+In what the Virginia Supreme Court later described as a 
+“transparent falsehood,” Strickler told Tudor he had 
+bought the car from “some man .. . for five hundred 
+[dollars].” (JA 96). 
+
+Strickler and Tudor returned to the Augusta County 
+area on January 10 or 11, 1990. Once back in the area, the 
+blue Lynx broke down. Strickler pushed the car out of the 
+road and abandoned it. (fA 97). Strickler and Tudor pro- 
+ceeded to his mother’s -house in New Market, where 
+Strickler washed his bloody jeans and directed Tudor to 
+dispose of a brown paper bag containing Whitlock’s iden- 
+tification. (JA 95, 147). The car was recovered by the 
+police and was positively identified as John Dean’s car 
+that he had lent to Whitlock on the afternoon of January 
+5. Strickler’s fingerprints and foofprints were found on 
+both the inside and outside of the vehicle. (JA 99, 
+128-129}. 
+
+5 
+
+On January 13, 1990, Daniel Holsinger was farming 
+in the field off Route 340 into which Kurt Massie had seen 
+Strickler driving the blue Lynx on the night of January 5. 
+As Holsinger and his sons harvested corn, one of the boys 
+discovered a wallet belonging to Ronald Henderson. 
+After seeing Henderson’s picture on the television news, 
+Holsinger contacted the police. (JA 85-88). When the 
+police searched the field where the wallet had been 
+found, they discovered Whitlock’s frozen, battered body 
+hidden behind a mound of logs, twigs and dirt. Near the 
+nude body was a 69-pound rock spotted with human 
+blood. (Trial Tr. 6-18-90 at 587-588). 
+
+A forensic pathologist determined that Whitlock’s 
+death was due to “multiple blunt force injuries to the 
+head with depressed skull fractures and lacerations of the 
+brain” (JA 109), consistent with having been inflicted by 
+the blood-stained rock found near her body. The patholo- 
+gist testified that, based upon the undigested hamburger, 
+cheese, pickle and french fry material found in Whitlock’s 
+stomach, “death occurred, at an absolute maximum, six 
+hours after she ate and probably much less than that,” 
+perhaps as little as an hour or two. (JA 112). 
+
+Finally, the Commonwealth presented evidence that 
+Caucasian head hairs found on Whitlock’s shirt and bra 
+were “microscopically alike in all identifiable characteris- 
+tics” to Strickler’s and had been “forcefully removed” 
+from the donor’s head. (JA 136). Semen consistent with 
+Strickler’s was found on the shirt Strickler was wearing 
+on January 5 and vaginal swabs taken from Whitlock’s 
+body also showed the presence of semen, although its 
+type could not be identified. 
+
+6 
+B. Anne Stoltzfus’ testimony: 
+
+Anne Stoltzfus testified that she had been shopping 
+at the Valley Mall with her 14-year-old daughter on Janu- 
+ary 5, 1990 when she encountered Strickler, Henderson 
+and a “blonde woman” at-a music store at approximately 
+6:00 p.m. Her attention was drawn to Strickler because he 
+appeared “revved up.” (JA 36). Stoltzfus admitted that 
+her memory of how the trio was dressed was “a little 
+vague.” (JA 37). According to Stoltzfus, Strickler was 
+dressed in bedraggled but “clean” jeans and was wearing 
+a gray T-shirt with a Harley-Davidson emblem across the 
+front. He wore a flannel shirt over the T-shirt and an 
+embroidered denim jacket over the flannel shirt. Stoltzfus 
+described the blonde girl as wearing “denim jeans, a 
+white top that had buttons down the front and white 
+sneakers.” Finally, Stoltzfus testified that Henderson was 
+wearing a light-colored shirt and neat pants. (JA 37). 
+
+The employees in the music store could not help 
+Stoltzfus locate the particular compact disc she was look- 
+ing for and she was told to return to the store at 6:45 p.m. 
+when another clerk would be returning from his break. 
+As she was returning to the store at about 6:45 p.m., 
+Stoltzfus again encountered Strickler, Henderson and the 
+blonde woman. Strickler was yelling for “Donna” and 
+Stoltzfus asked the blonde woman if she was “Donna.” 
+According to Stoltzfus, the woman replied: “Donna” or 
+“Sharon.” Strickler then asked the blonde woman, 
+“Where is Ronnie?” and directed her and Henderson to 
+meet him at the bus stop. Upon the blonde woman’s 
+inquiry, Stoltzfus directed her to the bus stop at the front 
+of the mall. (JA 38-39). 
+
+Shortly thereafter, Stoltzfus left the music store and, 
+as she was driving through the mall parking lot, she 
+noticed a “shiny dark blue car” driven by a black woman, 
+whom she identified as Leanne Whitlock. Whitlock, as 
+
+7 
+
+well as Stoltzfus, were forced to stop for traffic. While 
+they were stopped, Strickler approached both a mini-van 
+that had just unloaded passengers and a white pickup 
+truck stopped ahead of Whitlock’s car and “pounded” on 
+both vehicles. Strickler then came back and pounded on 
+Whitlock’s passenger window, opened Whitlock’s car 
+door and “jumped in” on the passenger side. He 
+motioned for Henderson and the blonde girl to get in the 
+car but Whitlock apparently stepped on the gas pedal 
+causing the car to jerk forward, and they initially were 
+unable to enter the vehicle. Whitlock then sounded her 
+car horn but stopped when Strickler began hitting her. 
+Henderson and the blonde girl then were able to get in 
+the car. (JA 43-44). 
+
+Stoltzfus sounded her car horn and when Whitlock’s 
+vehicle did not move, she “pulled up parallel” with Whit- 
+lock and got out of her car. Stoltzfus tried to ask Whitlock 
+three times if she was “O.K.” Whitlock did not respond 
+except to make “direct eye contact and then look down to 
+her right.” Whitlock also mouthed a word which Stoltzfus 
+later thought might have been “help.” (JA 45-47). At this 
+point Whitlock’s car went up over the curb and Whitlock 
+“laid on the horn again.” Stoltzfus recorded the blue car’s 
+license plate number, NKA 243, on a 3x5 card and remem- 
+bered it with a trick: “No Kids Alone —- 243.” (JA 48). 
+Stoltzfus saw the blue car leave the mall and head east on 
+Route 33. 
+
+On cross-examination, Stoltzfus admitted that she 
+never reported to the police what she had witnessed at 
+the mall on January 5, 1990. Rather, the police 
+approached her after she had mentioned to a classmate* 
+what she had observed at the mall and the classmate 
+
+4 Stoltzfus, like Whitlock, was a student at James Madison 
+University in Harrisonburg. 
+
+8 
+
+phoned the police. Also on cross-examination, Stoltzfus 
+admitted that she had met with Detective Dan Claytor of 
+the Harrisonburg Police Department a number of times 
+prior to trial. During these meetings, she had viewed 
+three photo line-ups and she testified that her identifica- 
+tion of Strickler from the photos was “absolute.” (JA 
+50-56). Finally, Stoltzfus admitted that shortly before trial 
+she had spoken to a reporter from the Roanoke Times and 
+World News about what she had witnessed on January 5, 
+1990. (JA 53). 
+
+C. Trial and direct appeal: 
+
+Prior to his trial in the Augusta County Circuit Court, 
+Strickler did not file a motion under Brady v. Maryland, 
+373 U.S. 83 (1963), asking for exculpatory evidence in 
+possession of the Commonwealth. Instead, Strickler took 
+advantage of the prosecutor’s open file policy and, pur- 
+suant to this policy, examined the Augusta County pros- 
+ecutor’s files “numerous” times. (JA 223). 
+
+At trial in June of 1990, Strickler conceded to the jury 
+in the guilt-stage closing argument that he was guilty of 
+abduction, robbery and first-degree murder. (JA 185, 
+192-193). He argued, however, that he should not be 
+found guilty of capital murder because the Common- 
+wealth had failed to prove that he rather than Henderson 
+actually had dropped the rock on Whitlock’s head. (JA 
+193). The jury rejected Strickler’s argument, convicted 
+him of capital murder and, after a separate hearing on the 
+issue of punishment, recommended that he be sentenced 
+to death based upon findings of both “vileness” and 
+“future dangerousness.” See Va. Code § 19.2-264.4. The 
+trial judge ordered a pre-sentence report as required by 
+Virginia Code § 19.2-264.5. 
+
+Shortly after the conclusion of the jury trial, Stoltzfus 
+wrote a letter to the editor of the Harrisonburg Daily 
+
+9 
+
+News Record. The letter was published in the newspaper 
+on July 18, 1990. In the letter, she stated that her “coher- 
+ent story at trial was the result of an incredible effort by 
+police to put a zillion little puzzle pieces into one big 
+picture.” (JA 250). 
+
+At the final sentencing hearing on September 19, 
+1990, the defense acknowledged that it had reviewed the 
+pre-sentence report. Among other things, the report con- 
+tained a section captioned “Subject’s Version,” in which 
+Strickler admitted that he, along with Henderson, had 
+been at the Valley Mall on January 5, that he had entered 
+the blue Lynx at the mall and that he was present in the 
+field at the time Whitlock was murdered. (Augusta 
+County Circuit Court Trial Record; report filed 9-19-90). 
+
+During his allocution at the sentencing hearing, 
+moreover, Strickler confirmed the information in the pre- 
+sentence report: 
+
+It’s true, true I was at the mall with this individ- 
+
+ual. It is true that I was at [the murder] sight 
+
+[sic] but I was told that he [Henderson] was 
+
+walking her home. I sat in the car and 
+
+waited... 
+
++ * * 
+
+It was only three of us (inaudible), Henderson 
+was behind the driver’s wheel, Ms. Whitlock 
+was sitting in the back seat, I got in on the 
+passenger side... . 
+
+(Trial Tr. 9-19-90 at 54-55). Strickler also admitted, just as 
+Stoltzfus testified, that prior to entering Whitlock’s vehi- 
+cle he had approached a van unloading passengers at the 
+front of the mall: 
+
+I walked across the parking lot to a van and 
+then come [sic] back where she indicated I was, 
+they was [sic] stopped. At no time at the Valley 
+Mall does traffic stop. It pulls up to the stop, to 
+
+ee fn gee Oe a 
+
+10 
+
+the sidewalk, unloads passengers but mean- 
+while traffic continues through (inaudible). At 
+no time does traffic stop in mainstream. 
+(Id. at 56). After Strickler’s allocution, the trial judge 
+imposed sentence in accordance with the jury’s verdicts. 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+D. State habeas corpus: 
+
+In December, 1991, the Augusta County Circuit Court 
+appointed two attorneys to represent Strickler in state 
+habeas corpus proceedings. (JA 203). Nine months later, 
+on September 1, 1992, Strickler filed a 51-page habeas 
+petition, which raised over 100 claims but contained no 
+allegation that the Commonwealth had withheld exculpa- 
+tory evidence at trial. 
+
+The Warden filed a motion to dismiss on November 
+12, 1992. In response to an allegation that trial counsel 
+were ineffective for failing to file a Brady motion, the 
+Warden asserted that, because “counsel were voluntaril: 
+given full disclosure of everything known to the gove'™ 
+ment[,] there was no need for [trial counsel to *€! 4 
+formal motion.” (JA 212). In addition, the’<Varden 
+asserted that Strickler could not establish prejmiice under 
+Strickland v. Washington, 466 U.S. 668 (1984 ause, by 
+virtue of the prosecutor’s “open file” dis®Very, “counsel 
+in fact obtained all the information t- Which they were 
+entitled under Brady.” (JA 213). 
+
+After the motion to dismiss hoy filed, the case sat 
+dormant for over seven mont until the Warden moved 
+
+11 
+
+for entry of an order dismissing the petition. Only then 
+did Strickler seek the appointment of experts and an 
+investigator. (JA 234). At no time, however, did Strickler 
+seek discovery pursuant to Virginia Supreme Court Rule 
+4:1(b)(5), which allows discovery in habeas cases “with 
+prior leave of the court.” On September 10, 1993, the 
+habeas court dismissed Strickler’s petition. (JA 247). 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+5 Assignment of Error 9 read: 
+
+The [state habeas judge] erred in not vacating the 
+capital murder conviction despite its finding that 
+Instruction 1 given at petitioner's trial was defective 
+because of its inclusion in the definition of capital 
+murder an underlying offense which does not by 
+statute support a conviction of capital murder. 
+
+12 
+E. Federal habeas corpus: 
+
+In the United States District Court for the Eastern 
+District of Virginia, Strickler sought and was granted ex 
+parte, pre-petition discovery, whereby he obtained eight 
+documents from the files of the Harrisonburg Police 
+Department pertaining to Anne Stoltzfus. Strickler then 
+filed a lengthy federal habeas petition which for the first 
+time raised a “Brady” claim based upon the alleged non- 
+disclosure of the so-called “Stoltzfus materials.” 
+
+During subsequent discovery conducted by Strickler 
+in the district court, the prosecutor stated unequivocally 
+under oath that exhibits 2, 7 and 8 of the “Stoltzfus 
+materials” were in the “open file” which the defense 
+inspected prior to trial. (JA 368). The prosecutor, how- 
+ever, never had seen exhibits 1, 3, 4, 5 and 6 until after 
+Strickler proffered them in support of his federal habeas 
+petition. (JA 366-367). 
+
+All of Strickler’s claims, except the exculpatory evi- 
+dence claim and various allegations of ineffective assis- 
+tance of counsel, were dismissed by the district court. (JA 
+283). Although the court acknowledged that Strickler’s 
+exculpatory evidence claim was defaulted because it 
+never had been raised in state court, it ruled without 
+elaboration that Strickler had established “cause” for his 
+default because “the Commonwealth repeatedly withheld 
+[the Brady material] throughout the petitioner's state 
+habeas proceedings.” (JA 287). 
+
+The district court ordered an evidentiary hearing, but 
+both parties filed motions for summary judgment, accom- 
+panied by supporting documents. In support of his cross- 
+motion for partial summary judgment, the Warden filed 
+an affidavit from one of Strickler’s trial counsel, Thomas 
+Roberts. In the affidavit, Roberts stated that the trial 
+defense team was aware at the time of trial of the infor- 
+mation contained wn the “Stoltzfus materials” and of the 
+
+13 
+
+fact that Stoltzfus’ recollection of the abduction at the 
+mall allegedly had evolved over time. (JA 371). The War- 
+den also proffered a copy of a Roanoke newspaper article 
+dated June 17, 1990, about which Stoltzfus had been 
+cross-examined at trial. (JA 372). As the district court was 
+forced to acknowledge, the article “contained details 
+[about Stoltzfus’ observations] that might have been 
+helpful if Strickler did not already know them.” (JA 400). 
+
+On October 2, 1997, Strickler withdrew, with preju- 
+dice, his ineffective counsel claims and asked the district 
+court to decide the exculpatory evidence claim on the 
+cross-motions for summary judgment. The district court 
+canceled the evidentiary hearing and on October 16, 1997, 
+granted Strickler’s motion for summary judgment. 
+Although for purposes of the summary judgment motions 
+the district court specifically credited Roberts’ affidavit, it 
+denied the Warden's cross-motion for summary judg- 
+ment. (JA 399). In its final order granting the writ, the 
+district court concluded that exhibits 1, 3, 4, 5 and 6 of the 
+“Stoltzfus materials” were “material” under Brady 
+because “without Stoltzfus’ testimony, the jury could 
+have found Henderson as the leader and instigator [of 
+Whitlock’s abduction] instead of Strickler.” (JA 394). The 
+district court also reached the implausible conclusion that 
+“exhibit 4 provide[d] a basis for which Stoltzfus’ testi- 
+mony might have been excluded altogether.” (JA 389). 
+The district court did not mention exhibits 2, 7 or 8, but 
+did not take issue with the prosecutor’s sworn, unequivo- 
+cal representation that the defense had access to each of 
+those documents prior to trial. 
+
+The Fourth Circuit unanimously reversed, conclud- 
+ing that, because Strickler’s Brady claim was available to 
+him in state court through the exercise of reasonable 
+diligence, there was no “cause” for his undisputed 
+default. Noting the Virginia rule of court which allows 
+
+14 
+
+discovery in a state habeas proceeding with prior leave of 
+court, the Fourth Circuit concluded that “Strickler could 
+have followed a procedure similar to the one he followed 
+in federal court” and discovered the “Stoltzfus materials” 
+during state collateral proceedings. (JA 421). The Court of 
+Appeals also concluded that the Stoltzfus documents 
+were not “material” in light of Strickler’s express conces- 
+sion at trial that he was guilty of abduction and robbery, 
+and in light of the “overwhelming evidence in the 
+record,” independent of Stoltzfus’ testimony, that 
+“Strickler abducted and robbed Whitlock.” (JA 425). The 
+Fourth Circuit also specifically found that “the Stoltzfus 
+materials would have provided little or no help to 
+Strickler in either the guilt or sentencing phases of the 
+trial,” that “Strickler never contested that he abducted 
+and robbed Whitlock,” and that “Stoltzfus’ testimony was 
+not critical to the Commonwealth's case.” (JA 425). 
+
+SUMMARY OF THE ARGUMENT 
+
+It should be an extremely rare event for a federal 
+habeas court to reach the merits of a constitutional claim 
+that never was raised in state court. Here, it is undis- 
+puted that Strickler never raised his so-called “Brady” 
+claim in state court and that, having failed to raise the 
+claim in his 1992 state habeas petition, Strickler would be 
+barred under Virginia law from raising the claim in state 
+court now. 
+
+Strickler admits that he must show “cause” to excuse 
+his default, but his efforts to explain why he could not 
+have raised his claim at trial miss the mark. The issue 
+here is whether Strickler can show sufficient “cause” to 
+excuse his failure to raise his claim during the state 
+collateral proceedings. He cannot rely on the errors or 
+omissions of his state habeas counsel because he had no 
+
+nar 
+
+15 
+
+constitutional right to counsel on state habeas. See Coie- 
+man v. Thompson, 501 U.S. 722 (1991). Therefore, the only 
+way in which he can show “cause” for his state habeas 
+default is to demonstrate some form of state action - 
+something “external” to him and his lawyers — that pre- 
+vented him from raising the claim in his state habeas 
+petition. See McCleskey v. Zant, 499 U.S. 467 (1991). This 
+he cannot do. 
+
+Petitioner’s “Brady” claim concerns eight police doc- 
+uments — three of which he clearly had access to when his 
+trial lawyers reviewed the prosecutor’s “open file” — all 
+relating to pretrial statements made by a prosecution 
+witness, Anne Stoltzfus, who was not present when 
+Strickler and his accomplice robb<d and murdered their 
+victim in a remote cornfield, but who was present earlier 
+when they abducted her from a shopping mall. The 
+record is replete with information that would have pro- 
+vided a basis for investigating a Brady claim in the state 
+habeas court — not the least of which is the fact that one of 
+Strickler’s trial attorneys has stated under oath that at the 
+time of trial he was aware of the substance of the infor- 
+mation contained in Stoltzfus’ pretrial statements to the 
+police. The undeniable fact, moreover, is that there was 
+nothing to prevent Strickler from pursuing his claim dur- 
+ing the state collateral proceedings, just as he later pur- 
+sued it in the federal habeas proceedings in the district 
+court. The Fourth Circuit correctly concluded that 
+Strickler’s failure to ask the state habeas court for discov- 
+ery of the police files is fatal to his effort to establish 
+“cause” for his default. 
+
+Even if Strickler’s failure to show “cause” could be 
+overlooked, however, under no circumstances should this 
+Court condone his effort to pervert the truth-enhancing 
+Brady rule into a license for state prisoners to play fast 
+and loose with the truth. In arguing the “materiality” of 
+
+16 
+
+the police documents that were not disclosed to the 
+defense at the time of trial, Strickler would have this 
+Court believe that, if only he could have impeached 
+Stoltzfus’ testimony, there would have been no reliable 
+evidence that he was even at the mall when the victim 
+was abducted or that he had any connection with the 
+victim’s automobile or other possessions until some point 
+after the murder occurred. Such assertions, however, not 
+only are contradicted by his trial attorney’s concession to 
+the jury that Strickler clearly was guilty of abduction, 
+robbery and first-degree murder, but also are belied by 
+Strickler’s express admissions to the trial judge and to the 
+probation officer who prepared a pre-sentence report that 
+he was one of the two men whom Stoltzfus had seen 
+entering the victim’s car at the mall and that he was 
+present at the crime scene when the victim subsequently 
+was robbed and murdered. 
+
+When the record is wiewed in its entirety, including 
+all the evidence of Strickler’s guilt that could be intro- 
+duced at any retrial of his case, it is clear that the Fourth 
+Circuit’s decision was correct. Given the overwhelming 
+evidence that Strickler and his accomplice murdered the 
+victim during the commission of an armed robbery and, 
+given the fact that Stoltzfus’ trial testimony related only 
+to the abduction at the mall and not to the robbery and 
+murder that occurred at a different time and place, there 
+is no reasonable probability that the outcome of 
+Strickler’s trial would have been any different if the five 
+undisclosed police documents had been provided to the 
+defense at the time of trial. 
+
+17 
+
+ARGUMENT 
+
+I. STRICKLER’S SO-CALLED BRADY CLAIM IS 
+DEFAULTED AND THERE IS NO “CAUSE” FOR 
+THE DEFAULT. 
+
+A. The Default 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+It is black letter law that if a claim never was raised 
+in state court and would be barred in state court if raised 
+there now, federal habeas corpus relief is precluded as 
+well. See Teague v. Lane, 489 U.S. 288, 298-299 (1989). In 
+Gray v. Netherland, 518 U.S. 152 (1996), this Court declined 
+to review the merits of a purported Brady claim because 
+the claim never had been presented to the Virginia courts 
+and Virginia Code § 8.01-654(B)(2) “preclude[d] review of 
+the claim in any future state habeas proceeding.” Id. at 
+162. Strickler’s so-called Brady claim is identically 
+defaulted and, absent a demonstration by Strickler of 
+both cause and prejudice, this Court cannot consider it.® 
+
+© Strickler devotes an inordinate amount of his brief to the 
+argument that he has “cause” sufficient to excuse a purported 
+default of his Brady claim at trial. To be clear, the Warden never 
+
+18 
+B. Cause 
+
+In Wainwright v. Sykes, 433 U.S. 72, 85 (1977), this 
+Court rejected the proposition that a state prisoner could 
+not default a constitutional claim for purposes of federal 
+habeas review unless he were guilty of a “deliberate 
+bypass” of state court remedies. Instead, the Court fash- 
+ioned a “cause and prejudice” test which requires the 
+prisoner to explain satisfactorily why his claim had not 
+been presented properly to the state courts. Id. at 87-91. 
+Subsequent refinements by this Court, however, restricted 
+“cause” to forms of state action, external to the defense, 
+that prevented the prisoner from raising the claim in the 
+state courts, see Murray v. Carrier, 477 U.S. 478, 488 (1986), 
+and placed the burden on the prisoner to conduct a “rea- 
+sonable and diligent investigation” in pursuit of the claim 
+and to present it in a procedurally proper manner. 
+McCleskey, 499 U.S. at 498. And, when a default occurs 
+during state collateral proceedings, the prisoner cannot 
+establish “cause” by pointing to the errors or omissions of 
+his state habeas counsel because there is no constitutional 
+right to counsel in such proceedings. See Coleman, 501 U.S. 
+at 752. Under firmly established precedent, then, a state 
+prisoner like Strickler cannot show “cause” for his admit- 
+ted failure to bring a claim during state collateral proceed- 
+ings if the defaulted claim was available to him in state 
+court through a “reasonable and diligent investigation.” 
+McCleskey, 499 U.S. at 498.7 
+
+has contended that Strickler’s Brady claim is defaulted because 
+it was not raised at trial. The Warden's contention always has 
+been that the claim is defaulted because it could have been 
+raised on state habeas corpus through the exercise of due 
+diligence, but was not. 
+
+? Strickler rightly does not contend that he meets the 
+“miscarriage of justice” exception which permits review of 
+
+19 
+
+1. Strickler’s assertion of “cause” is insuffi- 
+cient. 
+
+Strickler’s primary assertion of “cause” to excuse his 
+uncontested default during the state collateral proceed- 
+ings is that an isolated statement by the Warden in his 
+motion to dismiss Strickler’s habeas petition somehow 
+thwarted his ability to discover and raise his Brady claim 
+in state court. This is pure nonsense. The Warden’s state- 
+ment — “[trial] counsel were voluntarily given full dis- 
+closure of everything known to the government [and 
+that] counsel, in fact, obtained all the information to 
+which they were entitled under Brady” - was made more 
+than two months after Strickler had filed a state habeas 
+petition that contained no Brady claim, and referred only 
+to Strickler’s claim that his trial counsel had been ineffec- 
+tive in failing to file a “Brady” motion prior to trial. 
+Obviously, a statement by the respondent long after 
+Strickler had filed his state habeas petition could not 
+have had any impact on Strickler’s failure to raise a Brady 
+claim in his petition as he was required to do under state 
+law. See Va. Code § 8.01-655 (requiring that state habeas 
+petitions conform to a prescribed form which mandates 
+that all claims for relief be listed in the petition). 
+
+Under McCleskey, Strickler cannot show “cause” for 
+his default unless the Warden’s statement “prevented him 
+from raising the claim” in his state habeas corpus peti- 
+tion. Id. at 502. In other words, if Strickler “could have by 
+reasonable means obtained a basis to allege” his present 
+Brady claim in state court, the Warden's statement is 
+
+otherwise defaulted claims. Simply put, the evidence of 
+Strickler’s involvement in the abduction, robbery and murder of 
+Whitlock was overwhelming and he “cannot demonstrate that 
+the alleged [Brady] violation caused the conviction of an 
+innocent person.” McCleskey, 499 U.S. at 502. 
+
+20 
+
+irrelevant. Id. at 498. Entirely aside from the fact that the 
+Warden’s statement was made after, rather than before, 
+Strickler filed his state habeas petition, Strickler clearly 
+had “reasonable means” to pursue his claim in state 
+court. 
+
+2. Strickler did not diligently investigate and 
+pursue his claim during state collateral 
+review. 
+
+Strickler could have undertaken in state court the 
+identical “reasonable and diligent investigation” he later 
+undertook in federal court when he discovered and 
+raised his purported Brady claim.*® Instead, Strickler 
+undertook no investigation whatsoever during state 
+habeas corpus. McCleskey thus forecloses any finding of 
+“cause” to excuse Strickler’s admitted procedural default. 
+
+In McCleskey, the prisoner complained of the admis- 
+sion of his statement to a cellmate, specifically alleging 
+that the cellmate was an agent of the state and that 
+placing that agent in his cell violated his Sixth Amend- 
+ment right to counsel under Massiah v. United States, 377 
+U.S. 201 (1964). McCleskey raised his Massiah claim in his 
+first state habeas petition but omitted it from his first 
+federal petition. He subsequently resurrected the Massiah 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+21 
+
+claim based upon a 21-page statement that he was pro- 
+vided a month before he filed a successive federal habeas 
+petition. In response to McCleskey’s Massiah claim, the 
+government asserted that he had abused the writ by 
+failing to include the claim in his first federal petition. 
+The district court, however, excused McCleskey’s default 
+based on the unavailability of the 21-page document at 
+the time of his first federal habeas petition and granted 
+the writ. The Eleventh Circuit reversed, concluding that 
+McCleskey had abused the writ. 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+Cause .. . is based on the principle that peti- 
+tioner must conduct a reasonable and diligent 
+investigation aimed at including all relevant 
+claims and grounds for relief in the first federal 
+habeas petition. If what petitioner knows or 
+could discover upon reasonable investigation 
+supports a claim for relief... what he does not 
+know is irrelevant. 
+
+McCleskey, 499 U.S. at 498 (emphasis added). This Court 
+then concluded that the unavailability of the 21-page 
+statement at the time of McCleskey’s first federal habeas 
+petition did not constitute “cause” because his knowl- 
+edge of other facts was sufficient to “put [him] on notice” 
+of the Massiah claim when the first federal petition was 
+filed. Id. at 498-499. 
+
+As the Court of Appeals concluded in Strickler’s 
+case, McCleskey stands for the proposition that “cause” 
+for a default can be established only if the factual basis 
+for a claim was not reasonably available when the default 
+
+22 
+
+occurred.” (JA 422). Strickler’s failure to pursue and raise 
+his Brady claim in state court was a direct result of his 
+failure to exercise reasonable diligence during state col- 
+lateral proceedings. Here, as in McCleskey, “the record 
+contains much evidence that [Strickler] knew, or should 
+have known, about the [Stoltzfus materials]” at the time 
+he filed his state habeas petition and Strickler was cer- 
+tainly “on notice” to promptly pursue his Brady claim. 
+McCleskey, 499 U.S. at 499. It simply is beyond question 
+that Strickler could have “by reasonable means obtained 
+a sufficient basis to allege” his Brady claim in state court. 
+Id. at 498. 
+
+First, as the Fourth Circuit correctly concluded, based 
+upon his own cross-examination of Stoltzfus at trial, 
+“Strickler knew that Stoltzfus was interviewed by Detec- 
+tive Claytor on several occasions and had identified 
+Strickler in a photo line up.” (JA 421). Moreover, a claim 
+about trial counsel’s alleged inadequate cross-examina- 
+tion of Stoltzfus and their alleged failure to impeach her 
+credibility formed the basis of an ineffective counsel 
+claim in Strickler’s state habeas petition. (JA 206). 
+
+Strickler additionally was aware of a pre-trial inter- 
+view Stoltzfus gave to a newspaper in which she repor- 
+tedly stated that she had identified Donna Tudor from a 
+photo line up as the “blonde girl” with Strickler and 
+Henderson at the mall on January 5. (JA 53). This public 
+
+* Although McCleskey was an abuse-of-the-writ case, the 
+Court stated that “[t]he doctrines of procedural default and 
+abuse of the writ implicate nearly identical concerns flowing 
+from the significant costs of federal habeas corpus review” and 
+that “the unity of structure and purpose in the jurisprudence of 
+state procedural defaults and abuse of the writ [require] that the 
+standard for excusing a failure to raise a claim at the 
+appropriate time should be the same in both contexts.” See 
+McCleskey, 499 U.S. at 490-491. 
+
+\ 
+
+23 
+
+pretrial statement attributed to Stoltzfus not only con- 
+flicted with her later trial testimony that she did not 
+know whom she had identified from the photographs and 
+that she was “less confident” of her identification of the 
+“blonde girl,” but also was at odds with Tudor’s testi- 
+mony that she had not been at the mall with Strickler and 
+Henderson on January 5 but had first met them at Dice’s 
+Inn sometime after nine o’clock that evening. (JA 101). 
+
+Despite Strickler’s assertion in his state habeas peti- 
+tion that Stoltzfus should have been cross-examined more 
+effectively at trial, despite his actual knowledge that 
+Stoltzfus had spoken to Claytor on a number of occasions 
+prior to trial, despite Strickler’s actual knowledge that 
+Stoltzfus’ trial testimony differed in some respects from 
+what had been reported in the newspaper, and despite 
+the fact that, a month after the conclusion of trial, 
+Stoltzfus publicly credited Claytor for helping her recog- 
+nize that she had witnessed an abduction and described 
+her “coherent” testimony at trial as the result of an 
+“incredible effort by police to fit a zillion little puzzle 
+pieces into one big picture” (JA 250), Strickler inexcusa- 
+bly undertook no investigation of Stoltzfus in the state 
+habeas court. See McCleskey, 499 U.S. at 499 (McCleskey’s 
+knowledge of facts brought out at trial “alone” were 
+sufficient to put him on notice to pursue a Massiah claim). 
+
+As part of his state habeas investigation, Strickler 
+obviously could have interviewed his trial counsel and 
+reviewed their files. Indeed, if Strickler had undertaken 
+these elementary tasks at any time in the nine months 
+between the time state habeas counsel was appointed and 
+the time he filed his state habeas petition, he would have 
+discovered that one of his two trial attorneys, Thomas 
+Roberts, was aware of the substance of the information 
+contained in the “Stoltzfus materials” and was aware that 
+Stoltzfus’ testimony appeared to have “become much 
+
+24 
+
+more detailed over tinw.” (JA 371). Strickler also would 
+have discovered that, despite Stoltzfus’ trial testimony 
+that she had spoken to Detective Claytor a number of 
+times prior to trial, trial counsel's file contained none of 
+Stoltzfus’ statements to Claytor. (JA 300). Thus, it is clear 
+that Strickler not only could have marshaled sufficient 
+facts to construct a Brady claim in state court through the 
+exercise of reasonable diligence, he could have done so 
+with even minimal diligence. 
+
+As the Fourth Circuit found, moreover, Strickler 
+could have pursued and discovered his Brady claim on 
+state habeas just as he later did on federal habeas: by 
+filing a discovery motion. (JA 421). In other words, 
+Strickler could have asked the state habeas court to order 
+the same production of the Harrisonburg police files con- 
+cerning Stoltzfus’ statements to Detective Claytor that the 
+district court later ordered at Strickler’s request. 
+
+Strickler’s purported excuse for not seeking discov- 
+ery in the state habeas court — that under Virginia law he 
+was not entitled to discovery in state collateral proceed- 
+ings as a matter of due course —- must be rejected. The 
+Court of Appeals saw through Strickler’s obvious ploy to 
+blame the Commonwealth for his indisputable lack of 
+diligence: “ . . . in state court, Strickler could have fol- 
+lowed a procedure similar to the one he followed in 
+federal court: Strickler could have filed a discovery 
+motion seeking to review the Harrisonburg police files.” 
+(JA 421). Indeed, the factual landscape at the time 
+Strickler filed his federal habeas petition was virtually 
+identical to the factual landscape existing at the time 
+Strickler filed his state habeas petition. The only differ- 
+ence, of course, is that when Strickler filed his federal 
+petition, as opposed to when he filed his state petition, 
+the Warden had made the statement in his state habeas 
+pleadings that Strickler says should constitute “cause” for 
+
+25 
+
+his default. If the statement did not deter Strickler from 
+raising his Brady claim in his federal petition, it could 
+not possibly have prevented him from raising it in his 
+state petition. 
+
+To be sure, Strickler was not “entitled” to discovery 
+on state habeas. See Va. S.Ct. Rule 4:1(b)(5) (no habeas 
+discovery “without prior leave of the court”). But neither 
+was Strickler entitled to discovery on federal habeas 
+
+- corpus. See Rule 6(a), Rules Governing § 2254 Cases. That 
+
+simple fact, however, did not prevent Strickler from rai- 
+sing his Brady claim o: filing a discovery motion in the 
+district court. 
+
+Strickler, moreover, reveals a fundamental misunder- 
+standing of Virginia law when he argues that a discovery 
+motion in the state habeas court would have been unsuc- 
+cessful because Virginia Supreme Court Rule 3A:11 ren- 
+dered the police files “privileged and non-discoverable” 
+and because, according to Strickler, the Virginia Supreme 
+Court on direct review invoked Rule 3A:11 and “treated 
+{his} other claims as though he had .. . made... a 
+discovery motion.” (Pet. Br. at 44). The fact of the matter 
+is that on direct appeal the Virginia Supreme Court never 
+purported to rule on any Brady claim or on the propriety 
+of any discovery motion. It merely determined that 
+Strickler’s motion for a bill of particulars was properly 
+denied by the trial court because Strickler had received 
+all the discovery to which he was entitled under Rule 
+3A:11. Strickler, 404 S.E.2d at 233. Rule 3A:11, moreover, 
+is totally irrelevant to Strickler’s defaulted Brady claim: 
+the default occurred on state habeas and Rule 4:1(b)(5), 
+not Rule 3A:11, governs state habeas discovery.'® 
+
+© Rule 3A:11 governs discovery at the criminal trial and 
+does not purport to govern “exculpatory” evidence under 
+Brady. The rule merely delineates certain material that a 
+
+26 
+
+It is disinger-uous for Strickler to suggest that comity 
+and federalism would be “ill-served” by requiring crimi- 
+nal defendants to flood state courts with “speculative 
+discovery requests” to preserve federal rights for later 
+review. (Pet. Br. at 45). No judicial system should be 
+deluged with speculative discovery requests, and such 
+requests would be denied by any system of discovery 
+that requires a showing of good cause. Because Strickler’s 
+federal discovery request was made and granted ex parte, 
+the Warden is not in a position to comment on the “good 
+cause” showing Strickler may or may not have made in 
+support of his request. The undeniable fact remains, how- 
+ever, that whatever Strickler asserted as “good cause” on 
+federal habeas could have been asserted on state habeas. 
+
+The real thrust of Strickler’s argument is that he 
+should be excused from seeking discovery in the state 
+habeas court because he perceived that the request would 
+be denied. Perceived futility, however, is no more “cause” 
+for a prisoner’s failure to properly develop and present 
+facts to the state courts, see Keeney v. Tamayo-Reyes, 504 
+U.S. 1, 8-12 (1992) (applying “cause and prejudice” stan- 
+dard to defaulted facts), than it is for a prisoner's failure 
+to present a constitutional claim to the state courts. See 
+Engle v. Issac, 456 U.S. 107, 130 (1982) (“If a defendant 
+perceives a constitutional claim and believes it may find 
+favor in the federal courts, he may not bypass the state 
+courts simply because he thinks they will be unsympathe- 
+tic to the claim.”). In any event, Strickler’s perception is 
+faulty as well as irrelevant. Although state habeas discov- 
+ery requests must be decided, as they are in federal court, 
+on a case-by-case basis, Virginia courts on a number of 
+occasions have granted discovery of police files in capital 
+
+defendant is entitled to even if such material is entirely 
+inculpatory. 
+
+27 
+
+habeas cases.'' (See discovery orders and related 
+materials in Soering v. Warden, Fisher v. Murray, and Payne 
+v. Thompson; copies lodged with the Clerk’s Office). 
+
+1! The amicus brief filed on behalf of the petitioner is based 
+on the false premise that the Fourth Circuit concluded “that 
+Strickler would have been entitled in state court to subpoena the 
+police file.” (Pet. Amicus Br. at 6). The Court of Appeals reached 
+no such conclusion. Strickler was no more “entitled” to 
+discovery during the state habeas proceedings than he was 
+during the federal habeas proceedings. What the Fourth Circuit 
+concluded was, not that Strickler would have been entitled to 
+state habeas discovery, but that he could have asked the state 
+court for such discovery pursuant to Rule 4:1(b)(5), just as he 
+later asked the district court for discovery pursuant to Rule 6(a). 
+(JA 421). Strickler’s amicus brief also is wrong when it asserts 
+that the Court of Appeals fashioned its ruling “from whole 
+cloth” and that the Warden never asserted that Strickler could 
+not show “cause” for his default because he could have asked 
+the state habeas court for discovery. (See Warden's CA4 Br. at 
+12: asserting that Strickler could not establish cause because he 
+“never sought to review police files nor did he ever ask the state 
+habeas courts for discovery”). Finally, the amicus brief’s litany 
+of cases in which Virginia courts have denied discovery in 
+capital habeas cases is meaningless. Conspicuously absent from 
+the amicus’ submission are the conclusory, pro forma discovery 
+motions which were filed in those proceedings and which could 
+not have justified a legitimate finding of “good cause” for 
+discovery in either state or federal court. And, despite the 
+amicus’ suggestion that police files never can be the subject of 
+discovery in state habeas proceedings, the undeniable fact is 
+that Virginia courts hav~ ordered such discovery when the 
+
+has made the requisite showing of good cause. (See 
+lodged material cited in text). 
+
+28 
+
+3. The Warden's isolated statement in a plead- 
+ing filed after Strickler filed his state 
+habeas petition cannot excuse Strickler’s 
+failure to raise his Brady claim in state 
+court. 
+
+Notwithstanding his failure to conduct a reasonable 
+and diligent investigation in the state court, Strickler 
+nevertheless seeks to hold the Commonwealth responsi- 
+ble for his failure to raise the Brady claim in his state 
+habeas petition. His strategy is to allege that the Com- 
+monwealth engaged in misconduct when the Warden 
+stated in his response to Strickler’s state habeas petition 
+that “[trial] counsel were voluntarily given full disclosure 
+of everything known to the government [and that] coun- 
+sel, in fact, obtained all the information to which they 
+were entitled under Brady.” (JA 212-213). Just as the 
+assertion of bad faith on the part of the State in McCleskey 
+did not “detain [this Court] long,” McCleskey, 499 U.S. at 
+501, neither should Strickler’s equally misleading asser- 
+tion. Simply put, “the issue [of bad faith] is not presented 
+in this case despite all [of Strickler’s] emphasis on it.” Id. 
+
+The Warden's statement obviously was not an asser- 
+tion that he had reviewed the Commonwealth’s files for 
+possible exculpatory material. The Warden, who was a 
+defendant in a civil lawsuit brought by Strickler, was 
+merely answering Strickler’s claim that his trial counsel 
+had been ineffective in failing to file a general motion 
+requesting the disclosure of “Brady” material.'? The War- 
+den’s statement simply represented his position that, 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+29 
+
+based upon what Strickler’s trial counsel knew at the 
+time of trial, they were not ineffective in electing not to 
+file a formal Brady motion.' In any event, Strickler’s later 
+investigation and pursuit of the claim in federal court 
+establishes beyond question that he did not regard the 
+Warden's statement as a guarantee that the Common- 
+wealth possessed no exculpatory evidence not disclosed 
+at trial. Simply put, it would be unreasonable for this 
+Court to conclude that what obviously did not deter 
+Strickler in federal court somehow “prevented” him from 
+raising his claim in state court and “caused” him to 
+default his claim. 
+
+Even if, however, the Warden’s statement could be 
+divorced from the context in which it was made and even 
+if it could be construed as an affirmative representation 
+that there was no exculpatory evidence left to be discov- 
+ered — and it certainly cannot — the timing of the state- 
+ment still would preclude the statement from serving as 
+“cause” for Strickler’s failure to include the Brady claim 
+in his state habeas petition. The Warden’s statement was 
+contained in a motion to dismiss Strickler’s state habeas 
+petition filed on November 12, 1992 - eleven months after 
+habeas counsel had been appointed to represent Strickler 
+and two-and-one-half months after Strickler filed his state 
+
+defendant against the State in the context of a criminal 
+prosecution, to post-trial civil proceedings where the prisoner is 
+attacking a presumptively valid state court criminal judgment. 
+See, e.g., Murray v. Giarratano, 492 U.S. 1, 7-10 (1989); 
+Pennsylvania v. Finley, 481 U.S. 551, 555 (1987). 
+
+3 Indeed, it is noteworthy that in the court below Strickler 
+acknowledged that he did not perceive the Warden's statement 
+as an unequivocal assertion that the Warden had examined the 
+Commonwealth's files for exculpatory evidence. (See Strickler’s 
+CA4 brief at 27 n.9: “If counsel for the Warden in fact examined 
+the prosecutor's files befure making this representation . . . ”; 
+emphasis added). 
+
+30 
+
+habeas petition which contained no claim of Brady error. 
+(JA 204-212). In short, nothing the Warden said in 
+November of 1992 could have prevented Strickler from 
+raising a Brady claim in the habeas petition he already 
+had filed in September of that year. 
+
+Strickler cites Amadeo v. Zant, 486 U.S. 214 (1988), as 
+support for his proposition that the Warden's statement is 
+“cause” for his default. In Amadeo, this Court stated that 
+government concealment of evidence could be “cause” 
+for a procedural default if the concealment “was the 
+reason for the iailure of a petitioner's lawyers to raise the 
+[claim] in the trial court.” Id. at 222 (emphasis added). 
+Such clearly is not the situation in Strickler’s case. 
+
+[Mechanically omitted Supreme Court procedural/jurisdiction reference.]
+
+Strickler’s case, however, is nothing like Amadeo. No 
+evidence was “concealed” from Strickler during the state 
+habeas proceedings where the default occurred. Strickler 
+was free to include any Brady claim he wished in his state 
+habeas petition but he failed to do so, even though he 
+alleged elsewhere in his petition that his trial counsel 
+
+31 
+
+were ineffective in failing to pursue Brady material. And, 
+most importantly, Strickler failed to ask the state habeas 
+court for the same discovery he later sought and obtained 
+in federal court. The indisputable fact is that, when 
+Strickler finally chose to file a discovery motion seeking 
+access to the police files, such discovery was granted and 
+the “Stoltzfus materials” were turned over to Strickler. 
+See McCleskey, 499 U.S. at 501 (noting that McCleskey had 
+mischaracterized government conduct as wrongful 
+because, in part, the police “turned over the 21-page 
+document upon request.”). There is no reason to believe 
+that the result would have been any different if Strickler 
+had filed his discovery request in state court rather than 
+federal court. As the Fourth Circuit concluded, if Strickler 
+had asked the state habeas court for discovery, “it is 
+likely the state court would have ordered the production 
+of the [police] files.” (JA 421). 
+
+Unlike the petitioner in Amadeo, Strickler clearly was 
+“on notice” of a possible Brady claim. Indeed, as this 
+Court noted when it rejected McCleskey’s similar attempt 
+to liken his case to Amadeo: “even if the State inten- 
+tionally concealed the [evidence in question] the conceal- 
+ment would not establish cause here because, in light of 
+[petitioner’s actual and constructive knowledge of the 
+possible Brady claim,] any . . . concealment would not 
+have prevented him from raising the claim in [state 
+court].” See McCleskey, 499 U.S. at 502. 
+
+Numerous times this Court has said that, consistent 
+with the principles of federalism and comity, the States 
+hold the initial responsibility for vindicating a state pris- 
+oner’s federal constitutional rights. See, e.g., Coleman, 501 
+U.S. at 748; Engle, 456 U.S. at 128; McCleskey, 499 U.S. at 
+491. By unreasonably failing to pursue and raise his Brady 
+claim in state court, Strickler deprived Virginia of any 
+opportunity to adjudicate his claim and thereby encour- 
+aged “federal intrusion” into the state criminal process. 
+Engle, 456 U.S. at 129. This Court should refuse to reward 
+
+32 
+
+such disrespect for the state judicial system, especially 
+where, as here, the prisoner’s default is undisputed, his 
+assertion of “cause” is patently inadequate and his guilt 
+is clear-cut. 
+
+Il. EVEN IF STRICKLER COULD SHOW “CAUSE” 
+FOR HIS DEFAULT, HE CANNOT SHOW “PREJU- 
+DICE” BECAUSE HIS “BRADY” CLAIM HAS NO 
+MERIT. 
+
+A. Strickler must establish both “cause” and 
+“prejudice” before his default may be excused. 
+
+Even if it were assumed that Strickler somehow 
+could establish sufficient “cause” to excuse his default, he 
+also would have to establish “actual prejudice” before the 
+merits of his barred “Brady” claim could be considered. 
+To establish “actual prejudice,” it is Strickler’s burden to 
+establish “not merely that the errors at his trial created a 
+possibility of prejudice, but that the errors worked to his 
+actual and substantial disadvantage, infecting his entire 
+trial with error of constitutional dimension.” United States 
+v. Frady, 456 U.S. 152, 170 (1982). The district court failed 
+to apply or even acknowledge the Frady prejudice test. 
+The Fourth Circuit, however, correctly applied Frady and 
+held that, because the “Stoltzfus materials” did not meet 
+the materiality test set forth in United States v. Bagley, 473 
+U.S. 667 (1985), Strickler had not established “actual prej- 
+udice.” (JA 424). The Court of Appeals thus properly 
+declined to excuse Strickler’s uncontested default. 
+
+B. Strickler cannot satisfy the Brady/Bagley stan- 
+dard. 
+
+The prosecution has an affirmative duty to disclose 
+evidence, including impeachment evidence, favorable to 
+an accused where the evidence is material either to guilt 
+or punishment. Brady v. Maryland, 373 U.S. 83 (1963); 
+Bagley, 473 U.S. at 674; Kyles v. Whitley, 514 U.S. 419 
+
+33 
+
+(1995). Evidence is “material,” however, only “if there is a 
+reasonable probability that, had the evidence been dis- 
+closed to the defense, the result of the proceeding would 
+have been different.” Bagley, 473 U.S. at 687; Kyles, 514 
+U.S. at 433. A reasonable probability of a different result 
+aoes not exist unless the previously undisclosed evidence 
+“undermines confidence in the outcome of trial.” Bagley, 
+473 U.S. at 678; Kyles, 514 U.S. at 434. 
+
+In other words, to establish Brady “prejudice,” 
+Strickler must show that the “Stoltzfus materials” create a 
+reasonable probability that the outcome of his trial would 
+have been different if the documents had been disclosed 
+to the defense at the time of trial. Bagley, 473 U.S. at 677. 
+There can be no Brady violation, however, if the informa- 
+tion contained in the allegedly withheld documents was 
+actually known to the defense. See United States v. Agurs, 
+427 U.S. 97, 103 (1976) (“The rule of Brady . . . arguably 
+applies in three quite different situations. Each involves 
+the discovery, after trial, of information which had been 
+known to the prosecution but unknown to the defense.”) 
+(emphasis added). Keeping these principles in mind, it is 
+clear that the Fourth Circuit was correct when it deter- 
+mined that Strickler had failed to establish the required 
+prejudice. The substance of the allegedly withheld evi- 
+dence was known to the defense, the evidence was not 
+exculpatory and, even if it was marginally exculpatory, it 
+was not material. 
+
+1. Strickler’s admissions that he was at the 
+mall, in the victim's car with the victim and 
+at the murder scene preclude a finding of 
+materiality. 
+
+At allocution and in the pre-sentence report, Strickler 
+admitted that he was at the Valley Mall on January 5, 
+1990, that he got into the victim’s car with the victim and 
+
+34 
+
+that he was present at the murder scene during Whit- 
+lock’s murder. Given these express admissions by 
+Strickler, Strickler cannot possibly demonstrate that there 
+is a reasonable probability that the result of his trial 
+would have been different had the “Stoltzfus materials” 
+been disclosed at the time of trial. In light of Strickler’s 
+admissions at trial, it is nothing short of outrageous that 
+he asserts on brief that, without Stoltzfus’ testimony, 
+there was no proof that he was even at the mall when 
+Whitlock was abducted or that he had any contact with 
+Whitlock’s vehicle until sometime after she was mur- 
+dered. (Pet. Br. at 18, 33). Strickler may attempt to argue 
+that his admissions at allocution and in the pre-sentence 
+report are of no significance because they occurred after 
+the jury had rendered its verdicts. In Wood v. Bartholomew, 
+516 U.S. 1 (1995), however, this Court, in determining 
+“materiality” under Bagley, considered the allegedly 
+exculpatory evidence as well as evidence that “the state 
+could likely introduce on retrial.” Id. at 8.'4 
+
+The Bartholomew approach comports with the pur- 
+pose of Brady. The “overriding concern” of Brady and its 
+progeny is, after all, “with the justice of the finding of 
+guilt.” Agurs, 427 U.S. at 112. It would be a perversion of 
+justice to grant Strickler relief on a Brady claim related to 
+Stoltzfus’ trial testimony when that testimony served 
+only to identify Strickler as one of the men who abducted 
+Whitlock at the mall and it is beyond question that the 
+evidence the prosecution could introduce at any retrial - 
+Strickler’s own admissions — would establish that fact 
+beyond any conceivable doubt. 
+
+14 The Brady claim in Bartholomew was a guilt-stage claim 
+and the State clearly would have been able to introduce at the 
+guilt stage of any retrial evidence of the prisoner’s confession to 
+a cellmate which had been introduced only at the penalty stage 
+of the original trial. Id. 
+
+35 
+
+Even if Strickler were permitted to disavow his post- 
+verdict admissions, however, he expressly conceded in 
+his guilt-stage closing argument that he had abducted 
+and robbed Whitlock. (JA 192). Strickler then used his 
+strategic concession to argue to the jury that the Com- 
+monwealth had not proven that he was guilty of capital 
+murder. According to Strickler, the prosecution had not 
+established that he, rather than Henderson, had killed 
+Whitlock, because the physical evidence which the Com- 
+monwealth argued linked him to the murder in the corn- 
+field - mainly the hair strands that forcibly had been 
+pulled from his head — just as easily could have been 
+deposited on Whitlock’s blouse during the struggle that 
+Strickler admitted had occurred when he had abducted 
+Whitlock at the mall. (JA 192). Strickler’s express, unequiv- 
+ocal admissions before the jury preclude any finding of 
+materiality.'!> 
+
+15 Strickler asserts that the value of the undisclosed 
+evidence should be assessed based upon its abstract potential 
+impact and not upon the significance it would have had to the 
+case as it actually was tried. (Pet. Br. at 37). This approach, 
+however, specifically has been rejected by this Court. See Agurs, 
+427 U.S. at 112 n. 20 (rejecting argument that Brady standard 
+should focus on the impact of the undisclosed evidence on the 
+defendant's ability to prepare for trial). Even assuming that 
+Strickler’s trial strategy somehow may have been different had 
+the documents been disclosed, in the absence of a strategic 
+concession to the abduction, Strickler’s theory at trial would 
+have had to have been either that he never was at the mall on 
+January 5, 1990, or that he was at the mall but did not abduct 
+Whitlock. The “desperate implausibility” of either of these 
+theories is apparent. See Kyles, 514 U.S. at 461 (Scalia, J., 
+dissenting) (“ . . . the desperate implausibility of the theory that 
+petitioner put before the jury must be kept firmly in mind.”). If 
+Strickler had asserted that he never was at the mall on January 
+5, the assertion would have been contradicted by the compelling 
+testimony of two disinterested witnesses, Virginia Smith and 
+
+36 
+
+2. The defense knew the substance of the 
+alleged exculpatory information at the time 
+of trial. 
+
+The uncontradicted affidavit of one of Strickler’s two 
+trial attorneys, Thomas Roberts, conclusively establishes 
+that Strickler was aware at the time of trial of the facts 
+contained in the “Stoltzfus materials.”’© Although 
+Roberts could not recall specifically whether he actually 
+had seen the “Stoltzfus materials,” he was certain that he 
+was aware at the time of trial that Stoltzfus’ account of 
+what she had observed at the mall “had become much 
+more detailed over time.” (JA 371). Because at least one of 
+Strickler’s trial attorneys unquestionably knew the essen- 
+tial facts which would have permitted Strickler to take 
+advantage of the alleged “exculpatory evidence,” there is 
+
+Donna Warner - both of whom, along with Stoltzfus, 
+unequivocally placed him at the mall that afternoon. 
+Alternatively, Strickler would have been left with the 
+implausible assertion that, although he was at the mall when 
+Whitlock was abducted, he had nothing to do with her 
+abduction and only through sheer coincidence came into 
+possession of her car and was seen driving it into the field 
+where she was murdered less than an hour later. 
+
+16 The Court of Appeals did not discuss Roberts’ affidavit. 
+The district court, however, accepted Roberts’ affidavit “as 
+true” for purposes of deciding Strickler’s motion for summary 
+judgment. (JA 399). In his affidavit, Roberts stated: 
+
+I have reviewed the [Stoltzfus materials] and 
+although I cannot recall if I have seen these specific 
+documents, I do remember the information contained 
+in them. I remember discussing with [co-counsel] Mr. 
+Bobbitt the possibility that Ms. Stoltzfus may not be 
+a credible witness because she had not come forward 
+immediately and her story had become much more 
+detailed over time. It seemed too good to be true. 
+
+(JA 371, emphasis added). 
+
+37 
+
+no Brady violation. See Agurs, 427 U.S. at 103 (exculpatory 
+information must be “unknown to the defense”). 
+
+There also is no Brady violation in Strickler’s case 
+because, as Strickler himself established through discov- 
+ery in the district court, three of the eight items proffered 
+on federal habeas (exhibits 2, 7 and 8; JA 307-311, 
+319-327) were in the Commonwealth’s Attorney’s file 
+prior to trial and thus were available and known to 
+Strickler pursuant to the Commonwealth’s undisputed 
+open file policy.'” (JA 368). A detailed review of the eight 
+documents establishes that the five documents Strickler 
+
+17 In the district court, Strickler submitted interrogatories 
+to the Commonwealth’s Attorney and he also obtained 
+affidavits from William Bobbitt, one of his trial attorneys, and 
+from Humes Franklin, Ronald Henderson’s trial lawyer. The 
+prosecutor’s assertions under oath were clear and unequivocal 
+that documents 2, 7 and 8 were in his file when Strickler’s 
+attorneys reviewed the file , rior to trial. Bobbitt, on the other 
+hand, merely said that he did not recall seeing exhibits 1-7 of the 
+“Stoltzfus materials” when he reviewed the Commonwealth's 
+file prior to trial and that a post-trial review of his trial files did 
+not locate any of the documents. That, of course, is a far cry 
+from stating unequivocally that the documents were not in the 
+Commonwealth’s file when he reviewed it. And although 
+Bobbitt was presented with copies of all eight exhibits when he 
+executed his affidavit, noticeably absent from his affidavit is 
+any assertion that he never had seen exhibit 8 of the “Stoltzfus 
+materials.” (JA 300: “I have reviewed the attached Exhibits 
+1-7... IT have no recollection of seeing any of this material in the 
+Commonwealth’s files. ...”). In any event, a prosecutor has no 
+duty to insure that a defense attorney actually notices a 
+particular document or perceives its significance when he 
+reviews the prosecutor’s file. The fact that Strickler’s trial 
+attorneys may not have made copies of documents 2, 7 or 8, or 
+used the information at trial is entirely consistent with the 
+Fourth Circuit’s conclusion that the information simply was not 
+of any substantial value to the defense. In other words, the 
+documents were not “material.” 
+
+38 
+
+allegedly was not provided (Exhibits 1, 3, 4, 5 and 6; JA 
+306-307, 311-318) contain no information substantially 
+different from what is contained in the three disclosed 
+documents.'® 
+
+Strickler contends that exhibit 1, handwritten police 
+notes, is exculpatory because it establishes that Stoltzfus 
+initially could not identify Leanne Whitlock as the girl 
+abducted by Strickler. (JA 306). Exhibit 7, however, which 
+Strickler had access to through the Commonwealth’s 
+open file policy, establishes the very same thing. It is 
+clear from exhibit 7 that Stoltzfus identified Whitlock 
+days after the crime and only after she and Whitlock’s 
+boyfriend, John Dean, viewed pictures of Whitlock in 
+each other’s presence. (JA 318).9 
+
+'8 Exhibits 1, 3, and portions of exhibit 2, moreover, bear 
+the same date and establish that in Stoltzfus’ initial January 19, 
+1990 visit with the police she provided a description of Strickler, 
+Henderson and the blonde girl, and identified Strickler and 
+Henderson from a photo array. Stoltzfus also told the police at 
+that time that she could not identify the black female victim. 
+Finally, in that initial interview, Stoltzfus recounted Whitlock’s 
+abduction — including the fact that Whitlock was driving a blue 
+car with West Virginia tags and that Strickler approached 
+Whitlock’s vehicle, pounded on the window and then jumped 
+into the car and began hitting Whitlock. (JA 306-307, 311-312). 
+Strickler’s assertion that any “variations” between these 
+documents render them “exculpatory” cannot withstand 
+scrutiny. A witness’ statements to the police on a particular date 
+cannot be deemed “exculpatory” merely because various parts 
+of the same interview were recorded in separate documents. 
+
+'’ This same information also was known to Strickler 
+through the Roanoke newspaper article, a copy of which 
+Strickler unquestionably possessed at the time of trial. (JA 
+372-381). In that article, Stoltzfus mentioned that she viewed 
+pictures of Whitlock with John Dean to verify that Whitlock was 
+the woman she had seen abducted. (JA 377). Whitlock’s identity 
+was never an issue at trial, however, and any attempt to 
+
+39 
+
+Similarly, exhibit 3, a handwritten document entitled 
+“Observations,” does not contain any information not 
+fully disclosed in exhibits 2, 7 and 8. In exhibit 3, for 
+example, Stoltzfus described the car Whitlock was driv- 
+ing as a “dark blue new sports car” with “West Virginia 
+tags.” Identical information is contained in exhibits 2 and 
+8, which Strickler had seen prior to trial. (JA 310-311, 
+323). In exhibit 3, Stoltzfus described Strickler as being 
+“West Virginia looking” and a “scroungy bum type” with 
+“long blonde scraggly hair.” Stoltzfus’ description is 
+repeated, practically verbatim, in exhibits 2 and 8 which 
+Strickler had seen prior to trial. (JA 308, 324). 
+
+In exhibit 3, Stoltzfus gave the following account of 
+Whitlock’s abduction: Strickler approached Whitlock’s 
+car, pounded on the car window, entered the car and 
+began hitting Whitlock while Whitlock sounded the car 
+horn. The blonde girl with Strickler then attempted to 
+enter the car by putting one foot in the back seat but the 
+car lurched forward. Finally the female and Henderson 
+got into the back seat of the car. This narrative, however, 
+also is fully contained in exhibits 2 and 8, which were in 
+the prosecutor’s file which Strickler reviewed prior to 
+trial. (JA 307-311, 322-327). 
+
+Exhibit 4 is a letter from Anne Stoltzfus to Detective 
+Claytor. In this letter, Stoltzfus constructed a time line of 
+her January 5 journey through the Valley Mall and noted 
+that she initially encountered Strickler and Henderson at 
+a music store. All this information is contained in exhibit 
+8. (JA 322-323). Also in exhibit 4 Stoltzfus admitted that 
+she did not initially recall being at the mall on January 5, 
+1990 or thought that perhaps she had been there later in 
+the evening. Stoltzfus, however, confirmed her presence 
+at the mall on January 5 and at the time of Whitlock’s 
+
+“impeach” Stoltzfus by suggesting that the black woman in the 
+blue car was not Whitlock would have been ludicrous. 
+
+40 
+
+abduction with several cash register receipts and a can- 
+celed check. (JA 313-314).7° 
+
+Finally, it is clear that the information contained in 
+exhibits 5 and 6 also was disclosed to Strickler prior to 
+trial. Exhibit 5 is titled “My Impressions of the Car.” In it, 
+Stoltzfus accurately described John Dean's vehicle, 
+including the fact that the car had West Virginia license 
+plates. Information about the car and its West Virginia 
+tags had been reported to the police in Stoltzfus’ initial 
+police interview and was made available to Strickler in 
+exhibit 2 which was contained in the prosecutor’s open 
+file. Exhibit 6, on the other hand, is a short letter wherein 
+Stoltzfus acknowledged that, after reviewing pictures of 
+Whitlock with John Dean, she positively identified Whit- 
+lock as the black female she saw abducted at the mall. (JA 
+318). This information, however, had been fully disclosed 
+to Strickler in exhibit 7 and through the Roanoke Times 
+article which the Strickler defense team had in its posses- 
+sion prior to trial. 
+
+Strickler, then, unquestionably possessed — through 
+one of his trial attorney’s actual knowledge and through 
+the prosecutor’s open file disclosure of exhibits 2, 7 and 8 
+~ the substance of all the relevant information contained 
+in the allegedly withheld documents. That being the case, 
+
+20 The district court’s conclusion that references in exhibit 4 
+to Stoltzfus’ daughter and to the daughter's recollections may 
+have constituted a basis for barring Stoltzfus’ testimony 
+altogether is frivolous. In this regard, Strickler’s reliance upon 
+Manson v. Brathwaite, 432 U.S. 98 (1977), is misplaced. Brathwaite 
+held that due process did not compel exclusion of pretrial 
+identification evidence obtained by a suggestive photo 
+identification if, under the totality of the circumstances, the 
+identification was reliable. There was nothing even remotely 
+suggestive about Stoltzfus’ pretrial identification of Strickler, 
+who never has challenged the admissibility of that 
+identification. 
+
+41 
+
+Strickler cannot possibly show “actual prejudice” as the 
+result of an alleged Brady error.?' 
+
+3. The “Stoltzfus materials” are inculpatory, 
+not exci »atory. 
+
+Even a cursory examination of the allegedly sup- 
+pressed documents, moreover, establishes that each of 
+them, on its face, is wholly inculpatory. Indeed, Strickler 
+does not claim otherwise. Instead, his argument is 
+founded entirely upon his assertion that claimed “incon- 
+sistencies” between each of these statements rendered 
+them exculpatory.?? For a number of reasons, whatever 
+minor variations existed among Stoltzfus’ various 
+accounts hardly required their production. 
+
+First, the prosecution clearly has no duty under Brady 
+to make a detailed accounting of its investigation. Agurs, 
+427 U.S. at 109; Moore v. Illinois, 408 U.S. 786, 795 (1972). 
+Strickler’s assertion that he constitutionally was entitled 
+to pretrial disclosure of each of Stoltzfus’ inculpatory 
+
+21 In his discussion of the exhibits, Strickler attempts to 
+mislead this Court by asserting that exhibit 1 establishes that 
+contains no description of the “lst W/M,” it nowhere indicates 
+that Stoltzfus could not identify that person. (JA 306). The fact of 
+the matter is that Stoltzfus did identify Strickler in her initial 
+encounter with the police. (JA 310). Strickler also asserts that 
+exhibit 8 was one of the last two documents prepared by 
+Stoltzfus. (Pet. Br. at 38 n.15). Exhibit 8, however, is undated and 
+the record does not disclose when it was prepared. (JA 322). 
+
+22 To be clear, there are no per se “inconsistencies” among 
+
+the various documents. Stoltzfus, for example, never 
+
+described Strickler as blonde-haired then red- 
+
+headed, or first as husky then as slim. There are, however, 
+
+minor variations among the documents in that each document 
+
+does not contain a full recitation of everything that Stoltzfus 
+observed at the mall when the victim was abducted. 
+
+42 
+
+statements not only is contrary to Virginia law, see Rule 
+3A:11(b)(2), Rules of the Supreme Court of Virginia (pro- 
+hibiting discovery by a criminal defendant of statements 
+made by prosecution witnesses) but should be recognized 
+for what it really is: an attempt to expand Brady to require 
+exactly what Agurs says is not required — full disclosure 
+of the results of a police investigation. Under clearly 
+established law, prosecutors are “under no duty to report 
+sua sponte to the defendant all that they learn about the 
+case and about their witnesses.” Agurs, 427 U.S. at 109.% 
+
+It is, moreover, completely unremarkable that a citi- 
+zen witness such as Stoltzfus initially expressed some 
+hesitancy and uncertainty when speaking with the police 
+about this undoubtedly important police investigation. 
+Such witnesses naturally want to be sure that what they 
+tell police is accurate and cannot reasonably be expected 
+to say exactly the same thing on each occasion that they 
+discuss their observations with the police. Requiring dis- 
+closure of any and all such uncertainties is neither rea- 
+sonable nor realistic.*4 
+
+Finally, the alleged discrepancies among Stoltzfus’ 
+various statements do not give rise to any_inference that 
+Stoltzfus’ testimony was unreliable, untruthful or that 
+Strickler was not one of the two men directly involved in 
+
+23 Indeed, this Court could not grant Strickler’s implicit 
+request to expand the scope of Brady without violating the “new 
+rule” doctrine. See generally Graham v. Collins, 506 U.S. 461, 467 
+(1993) (“A holding constitutes a ‘new rule’ .. . if it. .. ‘imposes a 
+new obligation on the States.’ ”). 
+
+24 See, e.g., United States v. Comonsona, 848 F.2d 1110, 1115 
+(10th Cir. 1988) (“If a statement does not contain any expressly 
+exculpatory material, the Government need not produce that 
+statement to the defense”); United States v. Phillip, 948 F.2d 241 
+(6th Cir. 1991) (no Brady violation because suppressed 
+statements, “taken as a whole, are heavily inculpatory”), cert. 
+denied, 504 U.S. 930 (1992). 
+
+43 
+
+Whitlock’s abduction, robbery and murder. First of all, 
+Strickler has admitted he was at the mall and with Whit- 
+lock. The allegedly suppressed documents and Stoltzfus’ 
+trial testimony are, moreover, entirely consistent with 
+other independent evidence which conclusively estab- 
+lished that Strickler was at the Valley Mall at the same 
+time Whitlock was supposed to return John Dean’s car to 
+him at the mall. For instance, the mall security guard saw 
+Strickler in the mall food court at around 6:45 p.m., 
+wearing jeans and a jean jacket. Strickler left the food 
+court and headed toward the front entrance of the mall 
+near J. C. Penney and Watsons. (JA 31-32). Whitlock, on 
+the other hand, was last seen by her roommates around 
+6:30 p.m. when she left the apartment they shared to go 
+to the mall to return Dean’s blue car with West Virginia 
+plates. (JA 22). Consistent with all of this testimony, and 
+consistent with the allegedly withheld documents, 
+Stoltzfus testified that, after she had left a mall music 
+store at approximately 6:45 p.m. and returned to her car, 
+she saw Strickler, who was wearing jeans and a denim 
+jacket, in the mall parking lot near J. C. Penney, Watsons 
+and the front entrance of the mall. Strickler then accosted 
+Whitlock who was driving a blue car with West Virginia 
+tags. (JA 92, 94, 99).25 
+
+Strickler’s purported “inconsistencies,” moreover, 
+deal only with trivial matters which were not contested 
+at trial. For example, Strickler never contested that it was 
+Whitlock who was abducted at the Valley Mall. It is 
+hardly “exculpatory” then that Stoltzfus initially told 
+police she thought she would be unable to identify the 
+female she saw abducted. Likewise, there was never any 
+
+5 Stoltzfus also testified that, while in the mall, Strickler 
+had been accompanied by a woman he called “Donna.” Donna 
+Lynn Warner testified that while shopping at the Valley Mall on 
+January 5, she encountered Henderson and Strickler and had 
+spent part of the afternoon with them. (JA 27-28). 
+
+44 
+
+dispute about whether Whitlock was driving Dean’s dark 
+blue car with West Virginia tags when she was abducted. 
+Given that Strickler did not contest that fact at trial, 
+Stoltzfus’ pretrial description of the car contained in 
+exhibit 5 likewise cannot be considered in any sense 
+“exculpatory.” 
+
+Given Strickler’s express admissions at trial, and the 
+insignificant and collateral nature of the variations 
+between Stoltzfus’ several pretrial statements, the 
+“Stoltzfus materials” in no way can be considered “excul- 
+patory.” Bagley, 473 U.S. at 676 n. 7 (a prosecutor does 
+not commit error by failing to disclose “insignificant” 
+evidence to the accused). 
+
+4. The Fourth Circuit correctly ruled that the 
+information was not “material.” 
+
+Even assuming that the “Stoltzfus materials” were in 
+some technical sense “exculpatory,” under no circum- 
+stances would the attempted impeachment of Stoltzfus 
+with the allegedly non-disclosed statements have created 
+a “reasonable likelihood that the result of Strickler’s trial 
+would have been different.” Bagley, 473 U.S. at 687; Kyles, 
+514 U.S. at 433. As the Fourth Circuit correctly recog- 
+nized, “Stoltzfus’ testimony was not critical to the Com- 
+monwealth’s case . . . the Stoltzfus materials would have 
+provided little or no help to Strickler in either the guilt or 
+sentencing phases of trial.” (JA 425). Stoltzfus was cross- 
+examined thoroughly by Strickler about the only plaus- 
+ible subject upon which she could be impeached -t. fact 
+
+26 Strickler’s assertion that exhibit 2 is somehow 
+“exculpatory” because it contains a notation that, after Stoltzfus 
+had identified Strickler from a photo lineup, she advised the 
+police “that she might be able to identify [Strickler] positively if 
+seen in person” must also be rejected. (JA 310). The fact of the 
+matter is that exhibit 2 establishes only the inculpatory fact that 
+Stoltzfus identified Strickler prior to trial. 
+
+45 
+
+that, after she had witnessed such an obviously distress- 
+ing abduction, she did not report it to the police. (JA 
+50-53). 
+
+Strickler, moreover, was convicted of capital murder 
+in the commission of robbery while armed with a deadly 
+weapon, as well as capital murder during the commission 
+of abduction with the intent to extort money or a pecuni- 
+ary benefit, or with the intent to defile.”” Strickler, 452 
+S.E.2d at 650-651. As the Fourth Circuit recognized, even 
+without Stoltzfus’ testimony, there was overwhelming 
+evidence that Strickler abducted and robbed Whitlock, 
+and Stoltzfus’ testimony was not even marginally rele- 
+vant to the robbery. (JA 425). Strickler, in fact, acknow]l- 
+edges on brief that his Brady claim would have no merit 
+and his capital murder conviction would remain valid if 
+his conviction is “supported [with] compelling evidence 
+of armed robbery.” (Pet. Br. at 35). The record here is 
+replete with such compeiling evidence and, in any event, 
+clearly will not support a conclusion that there is “a 
+reasonable probability of a different result.” 
+
+27 At the time of Strickler’s offense, abduction of a person 
+over the age of twelve with intent to defile was not a predicate 
+offense to capital murder in Virginia. Strickler, 452 S.E.2d at 651. 
+On state habeas corpus, Strickler for the first time challenged 
+the jury instruction which permitted the jury to find him guilty 
+of such an offense. The Virginia Supreme Court ruled that 
+Strickler’s direct challenge to the instruction was defaulted 
+because it could have been raised at trial and on direct appeal. 
+Id. Strickler’s assertion that he was denied effective assistance 
+of counsel at trial because his attorney failed to object to the 
+“intent to defile” language in the instruction was rejected in 
+light of the “overwhelming evidence that Strickler committed 
+the willful, deliberate and premeditated killing of Leanne 
+Whitlock in the commission of robbery while armed with a 
+deadly weapon.” Id. at 652. Strickler’s ineffective counsel claim 
+no longer is at issue. 
+
+46 
+
+The undisputed independent evidence established 
+that at about 4:30 p.m. on January 5, 1990, Whitlock 
+borrowed John Dean’s 1986 blue Mercury Lynx auto- 
+mobile and agreed to return the car to Dean “an hour or 
+two later” at the Valley Mall. At approximately 6:00 p.m., 
+Whitlock ate a fast-food dinner and then left to return the 
+borrowed car to Dean at the mall around 6:30 p.m. (JA 
+22). When Whitlock left to return the car, she was wear- 
+ing a pair of pearl earrings that belonged to her mother. 
+(JA 23). Whitlock, however, never returned the car and 
+the undisputed evidence established that on the day of 
+Whitlock’s disappearance, Strickler and Henderson spent 
+the afternoon at the Valley Mall and were last seen leav- 
+ing the mall at about 6:45 p.m. (JA 34). 
+
+Strickler had been spotted earlier in the afternoon 
+trying to steal a car from the mall parking lot and he 
+subsequently was identified at 7:30 p.m. as he drove 
+Dean’s car into the field in which Whitlock was mur- 
+dered. (JA 68). Unchallenged evidence also established 
+that Whitlock was roaurdered “at an absolute maximum, 
+six hours after she ate and probably much less than that.” 
+(JA 112). The medical examiner opined that Whitlock’s 
+murder could have occurred as little as an hour or two 
+after she had eaten. (JA 112). Whitlock was murdered in 
+the cornfield when her skull repeatedly was crushed with 
+the 69-pound rock. Strickler concedes that after Whit- 
+lock’s murder he drove Whitlock’s car (Pet. Br. at 18) and 
+this is confirmed by his fingerprints which were found 
+throughout the vehicle. (JA 130). It also is undisputed 
+that Strickler possessed and unsuccessfully attempted to 
+use Whitlock’s bank card and that he gave Tudor the 
+pearl earrings Whitlock was wearing on the night of her 
+murder. Finally, according to Donna Tudor, on the night 
+of January 5 Strickler spoke of a violent event earlier in 
+the evening and admitted using a “rock crusher” on a 
+“nigger.” (JA 92-93). 
+
+47 
+
+As the Virginia Supreme Court found, the evidence 
+overwhelmingly established that Whitlock was murdered 
+during the commission of an armed robbery. See Strickler, 
+452 S.E.2d at 653. Stoltzfus’ testimony was completely 
+unrelated to that conviction. It cannot be said, therefore, 
+that there is a reasonable probability that the result of 
+Strickler’s trial would have been different had Stoltzfus 
+been “impeached” with the information Strickler belat- 
+edly developed and presented in his federal habeas 
+action. Bagley, 473 U.S. at 687. There simply is “no reason- 
+able doubt about [Strickler’s] guilt whether or not the 
+[impeachment] evidence is considered.” Agurs, 427 U.S. 
+at 112-113. Strickler, therefore, has not established “preju- 
+dice” to excuse his failure to raise his Brady claim in state 
+court.78— 
+
+Despite the overwhelming and independent record 
+evidence of armed robbery, Strickler asserts, and the dis- 
+trict court erroneously concluded, that Stoltzfus’ testi- 
+mony was somehow “critical” to the robbery predicate 
+because, without it, there supposedly was no evidence 
+that Strickler robbed Whitlock while he was armed with a 
+deadly weapon.” (JA 394). The Virginia Supreme Court, 
+
+28 The uncontested, “non-Stoltzfus” evidence also 
+overwhelmingly established that Strickler and Henderson 
+abducted Whitlock to obtain Dean’s vehicle and then murdered 
+her shortly thereafter. 
+
+2° The district court concluded and Strickler argues that 
+Stoltzfus was the critical witness for the armed robbery 
+predicate based on what she observed in the parking lot because 
+the Commonwealth briefly argued in closing that Whitlock may 
+have been looking at a knife when she looked down toward her 
+side as Strickler sat beside her in the car. (JA 394). Strickler, 
+however, clearly overstates his case when he argues that the 
+prosecutor’s evidence of armed robbery flowed “almost entirely 
+from Stoltzfus.” (Pet. Br. at 35). The Commonwealth's 
+summation also cited the testimony of Strickler’s own mother 
+
+48 
+
+however, found as a matter of historical fact, that the 
+evidence was “overwhelming that Strickler committed 
+the willful, deliberate and premeditated killing of Leanne 
+Whitlock in the commission of robbery while armed with 
+a deadly weapon.” The state court also concluded that the 
+69-pound rock with which Strickler and Henderson killed 
+Whitlock constituted a deadly weapon as a matter of 
+Virginia law. Strickler, 452 S.E.2d at 653 (emphasis added). 
+Although federal law required the district court to deter 
+to the state court findings of historical fact, see Sumner v. 
+Mata, 449 U.S. 539, 546-549 (1981); former 28 U.S.C. 
+§ 2254(d), and to the Virginia Supreme Court's deter- 
+mination of a matter of state law, see Estelle v. McGutre, 
+502 U.S. 62, 67 (1991), the district court ignored both of 
+these fundamental precepts of federal collateral review.~° 
+
+Strickler also asserts that the Stoltzfus documents 
+were material because Stoltzfus “portrayed Strickler as 
+
+that Strickler “always” carried a knife with him, as well as the 
+testimony of Donna Tudor who placed a knife in Strickler’s 
+possession later in the evening. (JA 170). 
+
+%” Strickler erroneously asserts that, despite the Virginia 
+Supreme Court's conclusion that the rock constituted a deadly 
+weapon as a matter of Virginia law, the respondent is not free to 
+rely on the “rock theory” of armed robbery because such a 
+theory supposedly was not argued at trial. In closing argument, 
+however, the Commonwealth argued: 
+
+So it is really no doubt about where it happened and 
+what the murder weapon was. It was not a gun, it 
+wasn’t a knife. It was this thing here, it is to [sic] big 
+to be called a rock and to [sic] small to be called a 
+boulder. I don’t know what you call it, I'll just call ita 
+rock but this rock here, sixty-nine pounds, was the 
+murder weapon. 
+(JA 167-168). Obviously, if the rock was the murder weapon and 
+the murder was committed during a robbery, Strickler was 
+“armed” with the rock when he committed both the robbery and 
+
+the murder. 
+
+49 
+
+the instigator” of the violent acts against Whitlock. (Pet. 
+Br. at 36). Presumably, Strickler is asserting that without 
+impeachment of Stoltzfus, the jury was more likely to 
+believe that he was the person who repeatedly struck 
+Whitlock in the head with the rock while Henderson 
+restrained her. Donna Tudor, however, testified that 
+Strickler told her shortly after the murder that he had 
+used a “rock crusher” on “a nigger” so that “it” would 
+not give him “any more trouble.” (JA 92-93, 106). Under 
+Virginia's capital murder law, moreover, it was imma- 
+terial whether it was Strickler or Henderson who 
+dropped the rock on Whitlock’s head while the other one 
+held her down. Both were equally culpable and subject to 
+the death penalty. Indeed, this was the primary point of 
+law decided on Strickler’s direct appeal to the Virginia 
+Supreme Court.*! Strickler, 404 S.E.2d at 235; see also 
+Coppola v. Commonwealth, 257 S.E.2d 797, 806 (Va. 1979) 
+cert. denied, 444 U.S. 1103 (1980). , 
+
+Only when the “reliability of a given witness may 
+well be determinative of guilt or innocence” does the 
+nondisclosure of evidence affecting credibility violate the 
+rule of Brady. See Giglio v. United States, 405 U.S. 150, 154 
+(1972); Bagley, 473 U.S. at 677. Here, it is impossible to 
+conclude that the outcome of Strickler’s trial would have 
+been any different if Stoltzfus never even had testified, let 
+alone if she had testified but merely been “impeached” as 
+Strickler now suggests. Because the evidence in question 
+
+mn Strickler cannot rely on the fact that Henderson was 
+convicted by a separate jury of only first-degree murder. Unlike 
+Strickler’s jury, Henderson's jury erroneously was instructed 
+that it could not convict Henderson of capital murder unless the 
+evidence established that he rather than Strickler had struck 
+Whitlock with the rock. The fact that a different trial judge 
+erroneously afforded Henderson a windfall has no bearing on 
+Strickler’s case or on the principle of Virginia law reaffirmed in 
+his case on direct appeal. 
+
+50 
+
+was not “material” under Bagley, Strickler can show nei- 
+ther Brady error nor the “prejudice” required to excuse 
+his procedural default. 
+
+CONCLUSION 
+
+The judgment of the Court of Appeals should be 
+affirmed. 
+
+Respectfully submitted, 
+
+Mark L. Eartey 
+Attorney General of Virginia 
+
+Pame.ta A. Rumpz* 
+Assistant Attorney General 
+
+*Counsel of Record 
+

@@ -1,0 +1,3011 @@
+i 
+| JAN 21 199 | 
+No. 97-9361 | ab 
+
+
+In the Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+
+LOUIS JONES, JR., PETITIONER 
+U. 
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+JAMES K. ROBINSON 
+Assistant Attorney General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+MATTHEW D. ROBERTS 
+Assistant to the Solicitor 
+General 
+SEAN CONNELLY 
+Attorney 
+Department of Justice 
+
+
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether there is a reasonable likelihood that the jury 
+instructions led the jury to believe that deadlock on the 
+penalty recommendation would automatically result in a 
+court-imposed sentence less severe than life imprisonment. 
+
+2. Whether petitioner was entitled to a jury instruction 
+that the jury’s failure to agree on a sentencing recommenda- 
+tion automatically would result in a court-imposed sentence 
+of life imprisonment without possibility of release. 
+
+3. Whether the court of appeals correctly held that the 
+submission of invalid non-statutory aggravating factors was 
+harmless beyond a reasonable doubt. 
+
+
+III. 
+
+
+TABLE OF CONTENTS 
+
+
+reasonable likelihood that the jury instruc- 
+
+tions and verdict forms misled the jury ... 
+B. Petitioner did not object to the instructions 
+
+and cannot show that they rise to the 
+
+level of plain error . . . 
+Petitioner was not entitled to an instruetion 
+
+
+imprisonment without release if the jury could 
+
+
+A. The FDPA permits a new capital sen- 
+
+
+teneing hearing if the jury fails to return 
+a unanimous senteneing recommenda- 
+
+
+consequences of a breakdown in its 
+
+
+(IID) 
+
+
+Table of contents—Continued: Page 
+C. The court of appeals conducted an 
+adequate harmless-error inquiry ............. 49 
+5 A . 50 
+E —— — — la 
+1 ¼ . 5a 
+1 A ĩ ͤ 7a 
+1 ͤũ . . 11a 
+TABLE OF AUTHORITIES 
+Cases: 
+Allen v. United States, 164 U.S. 493 (1896) ..... 19, 33, 37 
+Andres v. United States, 333 U.S. 740 (1948) ......... 12 
+Arave v. Creech, 507 U.S. 463 (1993) . 45 
+Arizona v. Washington, 434 U.S. 497 (1978) .......... 29 
+Babbitt v. Sweet Home Chapter of Communities 
+
+for a Greater Oregon, 515 U.S. 687 (1996) .............. 31 
+Beck v. Alabama, 447 U.S. 627 (1980) .................... 38 
+Bennett v. Spear, 520 U.S. 154 (1997) ................000 31 
+Berkemer v. McCarty, 468 U.S. 420 (1984) ............. 22 
+Boyde v. California, 494 U.S. 370 (1990) ..... 10, 11, 12, 16 
+Brogie v. State, 695 P.2d 538 (Okla. Crim. App. 
+
+2 2 . 35 
+Bryan v. United States, 118 S. Ct. 1989 (1998) ....... 20 
+Buchanan v. Angelone, 118 S. Ct. 757 (1998) ......... 37, 38 
+California v. Ramos, 463 U.S. 992 (1983) ............... 38 
+Carolene Prods. Co. v. United States, 323 U.S. 18 
+
+1 ˙ ̃ͤ ͤ99mmꝛ! . ¾˙— 27 
+Clemons v. Mississippi, 494 U.S. 738 (1990) 39, 45, 46, 
+
+47, 48, 49, 50 
+Coe v. Bell, 161 F.3d 320 (6th Cir. 1998) ................ 35 
+Coulter v. State, 438 So.2d 336 (Ala. Crim. App. 
+
+1982), aff’d, 438 So.2d 352 (Ala. 1983) . . 35 
+Cupp v. Naughten, 414 U.S. 141 (1973) 10 
+Estelle v. McGuire, 502 U.S. 62 (1991) ............. 10, 12, 19 
+
+
+Cases—Continued: Page 
+
+Evans v. Thompson, 881 F.2d 117 (4th Cir. 1989), 
+cert. denied, 497 U.S. 1010 (1990) 36 
+
+Godfrey v. Georgia, 446 U.S. 420 (1980) ..............+. 40, 45 
+Gregg v. Georgia, 428 U.S. 153 (1976) . . 26-27, 28 
+Gustafson v. Alloyd Co., 513 U.S. 561 (19965) .......... 31 
+Jarecki v. G.D. Searle & Co., 367 U.S. 303 (1961) 26 
+Johnson v. United States, 520 U.S. 461 (1997) ...... 11, 24 
+
+
+Jurek v. Texas, 428 U.S. 262 (1976) 40 
+Justus v. Commonwealth, 266 S.E.2d 87 (Va. 
+
+
+1980), cert. denied, 455 U.S. 983 (1982) ... 35 
+Leary v. United States, 395 U.S. 6 (1969) .............. 26 
+Lowenfield v. Phelps, 484 U.S. 231 (1988) ... 19, 33, 36, 37 
+Mattox v. United States, 146 U.S. 140 (1892) 23 
+Maynard v. Cartwright, 486 U.S. 356 (1988) .. 40, 42, 45 
+McCleskey v. Kemp, 481 U.S. 279 (1987) 36 
+McDonald v. Pless, 238 U.S. 264 (1915) 23 
+Mills v. Maryland, 486 U.S. 367 (1988) 18, 19 
+Northwest Airlines, Inc. v. County of Kent, 510 
+
+JT — —— 39 
+Oken v. State, 612 A 24 258 (Md. 1992), cert. 
+
+denied, 507 U.S. 931 (199 ————————.——.—.— 35 
+Payne v. Tennessee, 501 U.S. 808 (1991) 41, 42, 44 
+People v. Kimble, 749 P.2d 803 (Cal.), cert. denied, 
+
+488 U.S. 871 (1988) — —— 35 
+Richardson v. Marsh, 481 U.S. 200 (1987) . 3 21, 47 
+— v. United States, 468 U.S. 317 (1984) 29 
+Romano v. Oklahoma, 512 U.S. 1 (1994) ......... 22, 36, 37 
+Schad v. Arizona, 501 U.S. 624 (1991) .... “ 38 
+Shannon v. United States, 512 U.S. 573 (1994) ..... 21, 27, 
+
+31, 34, 47 
+Simmons v. South Carolina, 512 U.S. 154 
+
+(1994) mane GO 
+Skaggs v. Commonwealth, 694 S.W.2d 672 (Ky. | 
+
+1985), cert. denied, 476 U.S. 1180 (1986) — 32 
+
+
+VI 
+Cases—Continued: Page 
+Sochor v. Florida, 504 U.S. 527 (1992) 50 
+State v. Adams, 283 S.E.2d 582 (S.C. 1981), cert. 
+denied, 464 U.S. 1023 (1983) 35 
+State v. Breton, 663 A.2d 1026 (Conn. 1995) 82 
+State v. McCarver, 462 S.E.2d 25 (N.C. 1995), 
+cert. denied, 517 U.S. 1110 (1996) . . 35 
+State v. Ramseur, 524 A.2d 188 (N.J. 1987) .......... 34, 35 
+State v. Williams, 392 So. 2d 619 (La. 1980) .......... 34, 35 
+Stringer v. Black, 503 U.S. 222 (1992) ............ 45, 46, 49 
+Tanner v. United States, 483 U.S. 107 (1987) ......... 23 
+Townsend v. Burke, 334 U.S. 736 (1948) ................ 38 
+Tuilaepa v. California, 512 U.S. 967 (1994) ....... 40-41, 43, 
+44, 47 
+United States v. Chandler, 996 F.2d 1073 (11th Cir. 
+1993), cert. denied, 512 U.S. 1227 (1994) ............ 35-36, 47 
+United States v. Eltayib, 88 F.3d 157 (2d Cir.), 
+cert. denied, 117 S. Ct. 619 (1998) 20 
+United States v. Gaviria, 116 F.3d 1498 (D.C. Cir. 
+1997), cert. denied, 118 S. Ct. 865 (1998) ................. 20 
+United States v. Olano, 507 U.S. 725 (1993) .... 20-21, 22, 
+24 
+United States v. Park, 421 U.S. 658 (1975) ............ 11 
+United States v. Tipton, 90 F.3d 861 (4th Cir. 
+1996), cert. denied, 117 S. Ct. 2414 (1997) ............... 47 
+United States v. Wong, 40 F.3d 1347 (2d Cir. 1994), 
+cert. denied, 514 U.S. 1113 (1995) 24 
+United States v. Young, 470 U.S. 1 (1986) .............. 11 
+Victor v. Nebraska, 511 U.S. 1 (1994) .................... 19 
+Waters v. Thomas, 46 F.3d 1506 (11th Cir.), cert. 
+denied, 516 U.S. 856 (1995) 21 
+Whalen v. State, 492 A.2d 552 (De. 1985) .............. 34, 35 
+Witherspoon v. Illinois, 391 U.S. 510 (1968) .......... 33, 37 
+Zant v. Stephens, 462 U.S. 862 (1983) . . 40 
+
+
+Zettlemoyer v. Fulcomer, 923 F 2d 284 (3d Cir.), 
+cert. denied, 502 U.S. 902 (1991) 36 
+
+
+Constitution, statutes, regulations and rules: Page 
+U.S. Const. Amend VIII . 34, 36, 40, 43 
+Federal Death Penalty Act of 1994, 18 U.S.C. 3591 
+
+. passim 
+18 U.S.C. 3592(c)(1) (1994 & Supp. II 1996) ........ 3 
+18 U.S.C. 3592(c)(6) (1994 & Supp. II anne 06. 3 
+18 U.S.C. SSOex II) ...... 41 
+BS 6. ! 31 
+1351 ⁵?2—d 41 
+I 29 
+18 U.B.C. 0 ....ccccrcccccccccvcrccrcsscccccccscecccess 29, 33 
+18 U.S.C. 35980020) E ———9—.v 31 
+BB EEG, SID — ̃ͤͤòuww- ̃— 41 
+208000 .11„1„„1„ĩ„%„ 41, 44 
+18 U.S.C. 359840) 6, 29, 30, 31, 33, 34 
+LK KK 34, 47 
+113 ——?— ͤ 2 4, 30, 31 
+17 2 27 
+I ee 28 
+18 U.B.C. Se!) e 27 
+II 34, 39 
+18 U.S.C. 35950 2 CA) ———.——(— 26, 27 
+18 U.S.C. 35950, 2 0 - 0 ——————:ÿ¶uñ1l ... 27 
+1 - 1 
+17 . ͤꝓé 1, 6, 13, 25 
+I 33 
+BE WEG, COBO ccsccvecccsccsccccccrcesecsvscvecevecscccvccessesssenecs 33 
+Ala. Code § 13A-5-46(g) (1994) .. . 82 
+Ark. Code Ann. § 5-4-603(c) (Michie 1997) ................ 5a 
+Cal. Penal Code: 
+§ 190.4(a) (West 1988) . .es, 32 
+§ 190.4(b) (West 1988) .... . . . . 32 
+Del Code Ann,, tit. 11: 
+§ 4209(C)(B)(b) (1995) . . . 82 
+3 K 82 
+Fla. Stat. Ann: 
+§ 921.141(2) (West 1985 & Supp. 1996) 82 
+§ 921.141(3) (West 1985 & Supp. 1996) . 32 
+
+
+Statutes, regulations and rules—Continued: Page Rules—Continued: Page 
+
+
+Ga. Code Ann.: Fed. R. Crim. P.: 
+§ 17-10-81.1(¢) (Harrison 1997 la r 20, 24, 26, 11a 
+§ 27-2537(c) (Harrison 1978) . ...... 2x ARE 39, 113 
+720 Ill. Comp. Stat. Ann. 5/9-1(g) (West 1993 & Supp. 1111111118 20, 27, lla 
+— —ͤPðů b 5a Fed. R. Evid.: 
+Ind. Code Ann. § 35-50-2-9(f) (Michie 1994 & Supp. D 5, 22, 28, 113 
+100 ————————9Ä— 9 82 D rr 22, 12a 
+Kan. Stat. Ann. § 21-464(€) (1995) ...... la Sup. Ct. R.: 
+La. Code Crim. Proc. Ann. art. 905.8 (West 1997) . la eee 22 
+Md. Code Ann., art. 27, § 413(k)(2) (1996) ...... la rr 22 
+Miss. Code Ann. § 99-19-101 (8e) (1994) . la 
+Mo. Ann. Stat. § 565. 080.4 (West 1979) ..............sses 35, 2a Miscellaneous: 
+Nev. Rev. Stat. Ann. § 175.5560) (Michie 1997) ........ H.R. Rep. No. 467, 103d Cong., 2d Sess. (1994) ......... 31 
+N. H. Rev. Stat. Ann. § 630.5(TX) (1996) . 2 Charles Alan Wright, Federal Practice and Proce- 
+NJ. Stat. Ann. § 2C:11-3(c)(3)(c) (West 1995 & Supp. dure: Criminal (2d ed. 1982) . . . . . . . . 24 
+12288 ——̃ ͤ———ůů 
+N. M. Stat. Ann. § 31-20 A-3 (Michie 1994) . 
+N.Y. Crim. Pro. Law § 400.27. 1100 (McKinney Supp. 
+82898 ——————-— 
+N. C. Gen. Stat. § 15 A-2000 0b) (1997) . . . 
+Ohio Rev. Code Ann. § 2929.0 30D) 2) (Anderson 
+89998 ————̃ —ů—ů— 
+21 Okla. Stat. Ann. tit. 21, § 701.11 (West 1983 & Supp. 
+6122ꝓ6——̃ ͤͤ— 
+Or. Rev. Stat. § 163.150(2)(a) (1990 & Supp. 1998) 
+42 Pa. Cons. Stat. Ann. § 9711(c)(1)(v) (West 1998) ... 
+S.C. Code Ann. § 16-3-20 (Supp. 1997) .. . . ... 
+Tenn. Code Ann. § 39-13-204(h) (1997 & Supp. 
+BODE — — ——— 35, 
+Tex. Crim. P. Code Ann.: 
+art. 37.07 1. Aa) (West Supp. 1999) . . .. . . .. 
+art. 37.071.2(g) (West Supp. 1999 . 
+Utah Code Ann. § 76-3-207(4)(c) (Supp. 1998) ........... 
+Va. Code Ann. § 19.2-264.4(E) (Michie 1996) ............. 
+Wa. Rev. Code Ann. § 10.95.080(2) (West 1990) ......... 
+Wyo. Stat. Ann. § 6-2-102(e) (Michie 1997) ................ 
+
+
+ESESCER F PSFK F PR FF PPE 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+No. 97-9361 
+
+
+LOUIS JONES, JR., PETITIONER 
+v. 
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+STATEMENT 
+
+
+After a jury trial in the Northern District of Texas, 
+petitioner was convicted of the capital offense of kidnapping 
+with death resulting to the victim, in violation of 18 U.S.C. 
+1201, and of the non-capital offense of assaulting a different 
+victim, in violation of 18 U.S.C. 113. After a separate sen- 
+tencing hearing, the jury recommended that petitioner be 
+sentenced to death for the capital offense. J.A. 57-58, 84, 88. 
+The district court sentenced petitioner to death on the 
+capital count and to 57 months of imprisonment on the non- 
+capital count. The court of appeals affirmed. J.A. 82-123. 
+
+1. Petitioner kidnapped and bludgeoned to death Tracie 
+Joy McBride, a 19-year old Army private who had been 
+transferred to Goodfellow Air Force Base in San Angelo, 
+Texas, just eight days before her kidnapping and murder. 
+On the evening of Saturday, February 18, 1995, petitioner 
+abducted McBride from a building on the Base in which she 
+had been doing her laundry. 16 R. 816, 864-868, 875-880, 887. 
+Army Pvt. Michael Peacock witnessed the kidnapping and 
+tried to prevent it, but petitioner struck him on the head 
+
+
+(1) 
+
+
+2 
+
+
+with a handgun and left him bloodied and unconscious. 16 R. 
+883-884, 900-902, 904-908; 23 R. 2310. 
+
+Petitioner then brought McBride back to his house, where 
+he raped and sodomized her. (Although petitioner told a 
+defense psychiatrist that the abducted McBride willingly 
+engaged in sexual relations, 23 R. 2316, the injuries and 
+trauma to McBride’s genital area were not consistent with 
+consensual sex. 17 R. 1141-1142.) Petitioner later forced 
+McBride into his bedroom closet, where he tied her up with 
+white nylon rope and used two socks to gag her. 16 R. 957; 
+23 R. 2319-2320. At approximately 10:00 p.m., while 
+McBride was in the closet, petitioner was visited by a friend 
+named Margaret Rodriguez. 17 R. 1010. Petitioner made 
+sexual advances (which Rodriguez rejected) and said he had 
+to wash himself. 17 R. 1011-1014. Rodriguez, who left a short 
+while later, testified that the bedroom door was closed and 
+that she heard no sounds from inside. 17 R. 1017. 
+
+Petitioner decided to kill McBride after Rodriguez left 
+because McBride had heard Rodriguez mention his name. 16 
+R. 957. After forming that plan, petitioner washed 
+McBride’s clothes and made her clean herself to remove 
+evidence of the rape. 21 R. 2030-2031; 23 R. 2325. Petitioner 
+then made McBride walk out of the house on towels that he 
+had placed on the floor, because he believed that, if she did 
+so, no fibers from his residence would be on her clothes or 
+boots. 23 R. 2328. Petitioner forced McBride into his car, 
+drove until he reached a remote bridge some 20 miles away, 
+J.A. 83-84, and struck McBride several times on the head 
+while she was still in the car. 16 R. 957-958. McBride 
+apparently had not yet lost consciousness, and petitioner led 
+her underneath the bridge. 16 R. 958. There, petitioner 
+struck her again until she fell, and he continued to strike her 
+several more times after she was down, shattering her skull 
+and killing her. Ibid. 
+
+McBride’s dead body was not found, and petitioner was 
+not apprehended, until two weeks later. On March 1, 1995, 
+
+
+3 
+
+
+petitioner was arrested after his ex-wife Sandra Lane (who 
+was also McBride’s drill sergeant) filed a complaint charging 
+that petitioner had kidnapped and sexually assaulted her 
+two days before McBride’s abduction. 16 R. 962-965. After 
+being advised of his Miranda rights, petitioner admitted 
+that he had kidnapped and murdered McBride. 16 R. 948, 
+955-958. In the early morning hours of March 2, 1995, 
+petitioner directed law enforcement agents to a bridge 20 
+miles outside San Angelo, under which McBride’s dead body 
+was found. 16 R. 952-954. 
+
+The medical examiner testified that McBride died from 
+“injuries to the head and brain.” 17 R. 1159. There were at 
+least nine-major lacerations to McBride’s head, consistent 
+with her having been struck repeatedly with a tire iron or 
+similar tool. 17 R. 1157. Splattered blood on the walls and 
+ceiling of the bridge underneath which McBride’s dead body 
+was found also suggested that she had repeatedly been 
+struck by a blunt instrument. 17 R. 1065-1066. Large pieces 
+of bone were missing from underneath McBride’s scalp, and 
+her brain was exposed. 17 R. 1136, 1154. The medical exam- 
+iner opined that it would have taken “a tremendous amount 
+of force” to cause those fatal injuries: “We hardly even see 
+that with our major traffic accidents.” 17 R. 1154. 
+
+2. A special jury sentencing hearing was held on the 
+capital count in accordance with the Federal Death Penalty 
+Act of 1994 (FDPA), 18 U.S.C. 3591 et seg. The jury found, 
+beyond a reasonable doubt, that petitioner intentionally 
+killed McBride and also that he intentionally inflicted serious 
+bodily injury that resulted in her death. J.A. 85. The jury 
+next found beyond a reasonable doubt two of four statutory 
+aggravating factors alleged by the government: that peti- 
+tioner caused the death during commission of another crime 
+(kidnapping), and that petitioner committed the offense in an 
+especially heinous, cruel, and depraved manner. See 18 
+U.S.C. 3592(c)(1) and (6) (1994 & Supp. II 1996); J. A. 86. The 
+jury also found beyond a reasonable doubt two of three non- 
+
+
+1 
+
+
+statutory aggravating factors that the government had 
+alleged: McBride’s “young age, her slight stature, her 
+background, and her unfamiliarity with San Angelo, Texas”; 
+and McBride’s “personal characteristics and the effect of the 
+offense on her family.” The jurors individually decided 
+whether any mitigating factors, including the 11 factors 
+proposed by the defense, existed. One or more jurors found 
+the existence of ten of the 11 proposed factors, and seven 
+jurors found the existence of an additional mitigating factor. 
+Finally, the jury weighed the aggravating factors against the 
+mitigating factors, J.A. 86-88 & n.3, and unanimously 
+recommended that petitioner be sentenced to death. J.A. 88. 
+The district court followed that recommendation and im- 
+posed a death sentence on the capital count. See 18 U.S.C. 
+3594. 
+
+3. Petitioner appealed the sentence, and the court of 
+appeals affirmed. J.A. 82-123. After addressing other issues 
+that petitioner has not renewed before this Court, J.A. 88-96, 
+the court of appeals rejected several challenges by petitioner 
+to the jury instructions. First, the court of appeals rejected 
+petitioner’s contention that the trial court erred by not in- 
+structing the jury that its failure to reach a unanimous 
+recommendation on the death penalty would result in the 
+court automatically imposing a life sentence without possibil- 
+ity of release. See J.A. 96-98 & n.8, 103. The court concluded 
+that the instructions proposed by petitioner were legally 
+incorrect, because a hung jury on the death penalty could 
+result in empanelment of a new sentencing jury: “life 
+without the possibility of release was not the default penalty 
+in the event of non-unanimity. On the contrary, the failure 
+to reach a unanimous decision regarding sentencing would 
+result in a hung jury with no verdict rendered.” J.A. 97. 
+The court further explained that “federal courts have never 
+been affirmatively required to give such instructions.” J.A. 
+103. The court therefore held that “no constitutional 
+violation occurs when a district court refuses to inform the 
+
+
+5 
+
+
+jury of the consequences of failing to reach a unanimous 
+verdict.” Ibid. , 
+
+The court also declined to reverse petitioner’s sentence 
+based on his challenges to instructions that, he asserted, 
+misled the jury. J.A. 98-106. The court rejected petitioner’s 
+argument that the instructions produced a reasonable 
+likelihood that jurors would have believed that the trial 
+court would automatically impose a sentence of less than life 
+imprisonment in the event of jury deadlock: 
+
+
+Reading the instructions in their entirety, the [trial] 
+court clearly stated that the jury must reach a unani- 
+mous verdict. At no time were the jurors ever informed 
+that the failure to reach a unanimous verdict would re- 
+sult in the imposition of a term less than life imprison- 
+ment. As such, we hold that the district court did not 
+abuse its discretion by failing to repeat the unanimity 
+requirement [each time the court mentioned the lesser 
+sentence option in the instructions]. 
+
+
+J.A. 102. 
+
+The court of appeals also rejected petitioner’s argument 
+that “the disparity of the verdict forms,” which had to be 
+signed by all 12 jurors in the event of a death or life 
+imprisonment recommendation but only by the foreperson in 
+the event of a lesser recommendation, would have misled the 
+jury about the consequences of deadlock on the death sen- 
+tence. J.A. 102-103. Noting that petitioner did not object to 
+the verdict forms, the court found no plain error because 
+“any confusion created by the verdict forms was clarified 
+when considered in light of the entire jury instruction.” Ibid. 
+Finally, the court rejected, as precluded by the rationale of 
+Federal Rule of Evidence 606(b) and federal case law, 
+petitioner’s proffer of juror affidavits in an attempt to show 
+that jurors in fact were confused by the instructions. J.A. 
+104-105. 
+
+
+6 
+
+
+The court also rejected petitioner’s claim that the trial 
+court committed plain error by allowing the jury three 
+options—death, life imprisonment without release, or some 
+other lesser sentence. J.A. 106-111. After examining “the 
+disparate sentencing options” described in the FDPA, 18 
+U.S.C. 3593(e), which provides for all three possibilities, and 
+the kidnapping statute, 18 U.S.C. 1201, which provides only 
+for death or life imprisonment, the court concluded that “the 
+substantive criminal statute [i.e., the kidnapping statute] 
+takes precedence over the death penalty sentencing 
+provisions.” J.A. 110. The court also found that, because 
+parole and early good time release for life offenders have 
+been abolished in the federal system, “no meaningful 
+distinction exists between ‘life’ [as mandated by the kid- 
+napping statute] and ‘life without the possibility of release“ 
+Ibid. Although the court held that “the district court 
+committed error by informing the jury of the lesser sentence 
+option available under § 3593,” the court declined to find that 
+the mistake constituted plain error because no “clearly 
+established law” resolved the issue, and “the error was not 
+* * * obvious, clear, readily apparent, or conspicuous.” J.A. 
+110-111. 
+
+The court next rejected petitioner’s challenges to the two 
+statutory aggravating factors found by the jury—that peti- 
+tioner caused the death during commission of another crime 
+(kidnapping) and that petitioner committed the offense in an 
+especially heinous, cruel, and depraved manner that involved 
+torture and serious physical abuse. J.A. 111-117. In con- 
+trast, the court held that the two non-statutory aggravating 
+factors found by the jury—the victim’s “young age, her 
+slight stature, her background, and her unfamiliarity with 
+San Angelo, Texas,” and her “personal characteristics and 
+the effect of the offense on her family”—were invalid, both 
+because they were “duplicative” of each other and because 
+they were “vague and overbroad.” J.A. 117-119. 
+
+
+7 
+
+
+Although the court held that the non-statutory aggravat- 
+ing factors found by the jury were not valid, the court con- 
+cluded that the jury’s consideration of those factors was 
+harmless beyond a reasonable doubt. J.A. 119-123. The 
+court explained that, “[uJnder a weighing statute [such as 
+the FDPAl, affirming a death sentence when an aggravating 
+factor has been found invalid requires the appellate court to 
+scrutinize the role which the invalid aggravating factor 
+played in the sentencing process in order to comply with the 
+Eighth Amendment requirement of individualized sentenc- 
+ing determinations in death penalty cases.” J.A. 119-120. 
+After detailing the possible methods of appellate analysis, 
+the court decided to “redact the invalid aggravating factors” 
+and “inquire into whether, beyond a reasonable doubt, the 
+death sentence would have been imposed absent the invalid 
+aggravating factors.” J.A. 121. The court explained that, 
+“{a)t the sentencing hearing, the government placed great 
+emphasis on the two statutory aggravating factors found 
+unanimously by the jury,” whereas “jury findings regarding 
+the nonstatutory aggravating factors were not required 
+before the jury could recommend the death penalty.” J.A. 
+122. [Even after considering the eleven mitigating factors 
+found by one or more jurors,” the court concluded, the erro- 
+neous nonstatutory aggravating factors were “harmless 
+because the death sentence would have been imposed be- 
+yond a reasonable doubt had the invalid aggravating factors 
+never been submitted to the jury.” J. A. 122-123. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. The jury instructions in this case correctly informed 
+the jury that, to return a penalty recommendation, it had to 
+be unanimous. The instructions did not, as petitioner claims, 
+lead the jury to believe that deadlock on the penalty recom- 
+mendation would automatically result in a court-imposed 
+sentence less severe than life imprisonment. At the outset of 
+
+
+its description of the weighing process, the court informed 
+
+
+8 
+
+
+the jury of its penalty options—to recommend death, life 
+without the possibility of release, or some lesser sen- 
+tence—and stated that each required unanimity. Although 
+the court did not repeat the word “unanimous” in each later 
+reference to the option of recommending a lesser sentence, 
+the court did not state or imply that a court-imposed lesser 
+sentence would result from a hung jury. The court said 
+nothing about the result of a hung jury at all. Nor would the 
+instructions and verdict forms have left the jury with the 
+impression that the jury was compelled to recommend a 
+lesser sentence if the jurors found themselves irreconcilably 
+divided between death and life without release. The notion 
+that the jury as a whole would be required to recommend a 
+more lenient sentence than any juror desired is counterintui- 
+tive, and no language in the instructions implied such a 
+requirement. When the instructions are read as a whole, the 
+ambiguity that petitioner perceives disappears, and there is 
+no “reasonable likelihood” that the instructions misled the 
+Jury. 
+
+Relief is particularly unwarranted here because petitioner 
+did not make his present objection before the jury retired to 
+deliberate. Under those circumstances, he must show plain 
+error, te., an obvious error that caused him prejudice. He 
+cannot make that showing, because there was no clear error 
+and because the instructions were as likely to have helped as 
+to have harmed him. Nor is he aided by affidavits purport- 
+ing to describe the jury’s deliberations; here, as elsewhere, 
+such post-verdict recollections are properly excluded from 
+judicial review. And he errs in claiming that he preserved 
+the error here by proposing a different instruction or that 
+plain-error limitations are rendered inapplicable by the 
+FDPA's provision for review of any “arbitrary factor.” Peti- 
+tioner’s claim is one of legal error in the instructions given, 
+and that claim was not properly preserved in the trial court. 
+Because the claim is inconsistent with the instructions as a 
+whole, the claim entitles him to no relief. 
+
+
+II. Petitioner was not entitled to an instruction that the 
+court would impose a sentence of life imprisonment without 
+release if the jury could not unanimously agree on a sen- 
+tencing recommendation. First, such an instruction is not a 
+correct statement of the law. The FDPA directs that the 
+sentencing jury must act unanimously to recommend a sen- 
+tence, and it accommodates the background principle that, 
+following a hung jury, the government is entitled to empanel 
+a new jury. A hung jury, therefore, does not necessarily 
+require the court to impose a sentence of life without release. 
+Second, even if petitioner’s reading of the FDPA were cor- 
+rect, there is no basis in the statute, this Court’s supervisory 
+authority, or the Constitution to require an instruction about 
+the consequences of deadlock. Society has a strong interest 
+in encouraging the jury to deliberate with a view toward 
+reaching a unanimous sentencing decision, because such a 
+verdict enables the jury to express the conscience of the 
+community on the ultimate question whether a capital defen- 
+dant should live or die. A jury charge on the consequences 
+of deadlock threatens to undermine deliberations seeking 
+unanimity. It is therefore inconsistent with the purposes 
+and traditions of our jury system. 
+
+III. Petitioner is not entitled to relief on the theory that 
+the submission of two non-statutory aggravating factors that 
+the court of appeals found vague and duplicative was harm- 
+ful, rather than harmless, error. As an initial matter, the 
+factors in question were neither vague nor duplicative. 
+Rather, they were constitutionally valid means of guiding 
+the jury to consider the victim’s vulnerability and the impact 
+of petitioner’s crime on the victim and her family. Both 
+considerations are entirely proper ones for a capital sen- 
+tencing jury to weigh. Even on the assumption that the 
+factors were invalid, the submission of them to the jury was 
+harmless beyond a reasonable doubt. The jury clearly would 
+have returned the same verdict if those two non-statutory 
+aggravating factors had been more precisely defined. 
+
+
+10 
+
+
+Alternatively, as the court of appeals found, the verdict 
+would have been the same if the factors had never been 
+submitted to the jury. Although the court of appeals’ 
+discussion of harmless error is brief, its stated reasons 
+sufficiently support its conclusion that the error (if any) in 
+submitting the two non-statutory aggravating factors was 
+harmless beyond a reasonable doubt. 
+
+
+I. THE JURY INSTRUCTIONS DID NOT LEAD THE 
+JURY TO BELIEVE THAT DEADLOCK ON THE 
+PENALTY RECOMMENDATION WOULD AUTO- 
+MATICALLY RESULT IN A COURT-IMPOSED SEN- 
+TENCE LESS SEVERE THAN LIFE IMPRISON- 
+MENT 
+
+
+Petitioner contends (Br. 17-32) that his sentence must be 
+reversed because, in his view, the jury instructions and ver- 
+dict forms improperly led the jury to believe that if the jury 
+deadlocked on the penalty recommendation, the court would 
+automatically impose a sentence of less than life imprison- 
+ment without possibility of release (life without release). 
+The jury instructions contain no express statement to that 
+effect. Petitioner argues, however, that the jury would have 
+formed such an “impression” by drawing inferenceſs] from 
+the instructions and by comparing the language used to de- 
+scribe the jury’s possible verdicts in different parts of the 
+instructions and verdict forms. Pet. Br. 20-24. 
+
+A defendant who claims on appeal that the jury instruc- 
+tions are susceptible of an erroneous interpretation must 
+demonstrate “a reasonable likelihood that the jury has ap- 
+plied the challenged instruetionſs]“ erroneously. Boyde v. 
+California, 494 U.S. 370, 380 (1990); Estelle v. McGuire, 502 
+U.S. 62, 72 (1991). Such a claim requires the assessment of 
+the jury instructions not “in artificial isolation, but * * * in 
+the context of the overall charge,” Cupp v. Naughten, 414 
+U.S. 141, 147 (1973), and “with the commonsense under- 
+
+
+11 
+
+
+standing of the instruetions in the light of all that has taken 
+place at the trial.“ Boyde, 494 U.S. at 381. The burden is 
+even heavier here because petitioner did not object to the 
+relevant instructions or verdict forms in the district court. 
+See United States v. Park, 421 U.S. 658, 676 (1975). He 
+therefore must show: “(1) ‘error,’ (2) that is ‘plain,’ and (3) 
+that ‘affect(s) substantial rights“ and that “(4) the error 
+‘seriously affect{[s] the fairness, integrity, or public 
+reputation of judicial proceedings“ Johnson v. United 
+States, 520 U.S. 461, 467 (1997) (quoting United States v. 
+Young, 470 U.S. 1, 15 (1985)). 
+
+Petitioner cannot meet those burdens. The jury instruc- 
+tions and verdict forms, interpreted as a whole and in a 
+common-sense fashion, do not give rise to a reasonable 
+likelihood that the jury would have thought that its inability 
+to return a unanimous verdict of death or life without release 
+required it to recommend, or the court to impose, a “lesser 
+sentence.” Especially in light of petitioner’s higher burden 
+under the plain error standard, his “court-imposed-lesser- 
+sentence” claim does not justify invalidating the jury’s 
+unanimous recommendation of a capital sentence. 
+
+
+A. Petitioner Has Not Demonstrated A Reasonable 
+Likelihood That The Jury Instructions And Verdict 
+Forms Misled The Jury 
+
+
+Petitioner argues that the jury was reasonably likely to 
+have drawn “two separate, though related,” conclusions from 
+the instructions and verdict forms about what would happen 
+if it failed to reach a unanimous recommendation of a sen- 
+tence of death or life without release: first, the judge would 
+have to impose a sentence less severe than life without 
+release; and, second, the jury itself would be required to 
+recommend a sentence less severe than life without release. 
+
+
+12 
+
+
+Pet. Br. 20. No “reasonable likelihood” exists that the jury 
+would have read the instructions that way. 
+
+1. The interpretational issue centers on the instructions 
+that the court gave the jury about the weighing phase of the 
+sentencing proceedings. The court instructed the jury that, 
+based on weighing the aggravating and mitigating factors 
+found to exist: 
+
+
+[Vjou the jury, by unanimous vote, shall recommend 
+whether the defendant should be sentenced to death, 
+sentenced to life imprisonment without the possibility of 
+release, or sentenced to some other lesser sentence. 
+
+
+If you unanimously conclude that the aggravating fac- 
+tors found to exist sufficiently outweigh any mitigating 
+factor or factors found to exist, or in the absence of any 
+mitigating factors, that the aggravating factors are 
+themselves sufficient to justify a sentence of death, you 
+may recommend a sentence of death. Keep in mind, how- 
+ever, that regardless of your findings with respect to ag- 
+gravating and mitigating factors, you are never required 
+to recommend a death sentence. 
+
+
+If you recommend the imposition of a death sentence, 
+the court is required to impose that sentence. If you re- 
+commend a sentence of life without the possibility of 
+
+
+! Petitioner suggests that a less demanding standard than “reasonable 
+likelihood” applies to challenges to instructions on direct appeal of federal 
+capital cases. See Pet. Br. 18-19 n.12 (relying on Andres v. United States, 
+333 U.S. 740 (1948)). In Boyde, however, the Court “made it a point to 
+settle on a single standard of review for jury instructions—the ‘reasonable 
+likelihood’ standard—after considering the many different phrasings that 
+had previously been used by this Court.” Estelle, 502 U.S. at 72-73 n.4. 
+The Court in Boyde cited Andres as a case that had used one of the 
+different phrasings that the “reasonable likelihood” standard was intended 
+to supersede, see 494 U.S. at 379, and it gave no indication that the 
+“reasonable likelihood” standard would not apply to federal capital cases 
+like Andres and this one. 
+
+
+13 
+
+
+release, the court is required to impose that sentence. If 
+you recommend that some other lesser sentence be 
+imposed, the court is required to impose a sentence that 
+is authorized by the law. In deciding what recommenda- 
+tion to make, you are not to be concerned with the 
+question of what sentence the defendant might receive in 
+the event you determine not to recommend a death sen- 
+tence or a sentence of life without the possibility of 
+release. That is a matter for the court to decide in the 
+event you conclude that a sentence of death or life with- 
+out the possibility of release should not be recommended. 
+
+
+J. A. 43-44. 
+
+Relying on the last sentence quoted above, petitioner 
+argues (Br. 21) that the court told the jury in no uncertain 
+terms that the jury’s failure to agree on a sentence of death 
+or life without the possibility of release would result in the 
+court’s imposing sentence.” Petitioner also contends (ibid.) 
+that “a natural inference is that the court’s sentence would 
+be such a ‘lesser sentence’” because the lesser-sentence op- 
+tion was mentioned previously. And he argues (ibid.) that 
+the inference was strengthened because, four paragraphs 
+later, after discussing the jury’s responsibility to make 
+credibility determinations, to decide the case on the evidence 
+without passion or prejudice, and to weigh the aggravating 
+and mitigating factors in a non-mechanical fashion, the court 
+reiterated that jury recommendations of death or life 
+without release had to be unanimous but did not mention a 
+third sentencing option. See J. A. 45.” 
+
+
+2 Petitioner also states that, in light of the available sentences for his 
+kidnapping crime, the inclusion of any lesser-sentence option in the 
+instructions was error (Br. 17-18, 19 n. 13). He does not contend, however, 
+that the instructions’ erroneous reference to a lesser sentence by itself 
+warrants reversal of his capital sentence. Br. 18-19. Although we agree 
+with petitioner thut the only sentences that could have been imposed are 
+death and life without release (because the kidnapping statute, 18 U.S.C. 
+1201, authorizes only death and life imprisonment, and neither parole nor 
+
+
+14 
+
+
+2. There is no reasonable likelihood that the jury parsed 
+the instructions in that fashion. At the start of the instruc- 
+tions on the weighing phase, the court explained in the 
+clearest possible terms that the jury should recommend one 
+of three possible sentences and that any of those three re- 
+commendations had to be unanimous. See J.A. 43 (“you the 
+jury, by unanimous vote, shall recommend whether the 
+defendant should be sentenced to death, sentenced to life 
+imprisonment without the possibility of release, or sentenced 
+to some other lesser sentence”). The court went on to ex- 
+plain that jury recommendations of death or life without 
+release would be binding on the court, but a jury recom- 
+mendation of “some other lesser sentence” would not. Such a 
+recommendation would, instead, authorize the court to im- 
+pose any lawful sentence other than death. J.A. 44 (“If you 
+recommend the imposition of a death sentence, the court is 
+required to impose that sentence. If you recommend a sen- 
+tence of life without the possibility of release, the court is 
+required to impose that sentence. If you recommend that 
+some other lesser sentence be imposed, the court is required 
+to impose a sentence that is authorized by the law.”). Im- 
+mediately afterwards, the court instructed the jury that, in 
+deciding among those three recommendations, the jury 
+should not concern itself with the sentence that the court 
+would impose if the jury chose the third option. Ibid. (“In 
+deciding Cant, SET to make, you are not to be 
+
+
+good-time credits could reduce the life sentence), that conclusion was 
+certainly not settled at the time of trial and, even today, is not beyond all 
+dispute. See J.A. 110-111. In view of the fact that petitioner expressly 
+requested the court to include the lesser-sentence option in the 
+instructions at “each and every time during the body of the court’s 
+instructions wherein that noted language [i.e., the jury determines 
+whether the defendant should be sentenced to death] is used,” J.A. 26, as 
+well as the fact that petitioner could have derived strategic advantages 
+from that option, see pp. 21-25, infra, there is no basis for finding the 
+lesser-sentence language, by itself, to be grounds for reversal here. 
+
+
+15 
+
+
+concerned with the question of what sentence the defendant 
+might receive in the event you determine not to recommend 
+a death sentence or a sentence of life without the possibility 
+of release. That is a matter for the court to decide in the 
+event you conclude that a sentence of death or life without 
+the possibility of release should not be recommended.“). 
+
+The cumulative meaning of those instructions is that (1) 
+the jury could make its sentencing recommendations only by 
+acting unanimously; (2) two types of recommendations 
+(death or life without release) would dictate the court-im- 
+posed sentence, but the third type (lesser sentence) would 
+not; (3) if the jury made the third recommendation, the court 
+would impose an “authorized sentence,” not necessarily a 
+“lesser sentence”; and (4) the jury was not to consider at all 
+what the court would do in the event that the court was 
+acting as sentencer. The instructions do not address the 
+effect of a hung jury, and they do not state that the 
+jury could make any sentencing recommendation non- 
+unanimously. 
+
+In light of the instructions as a whole, when the court 
+stated that the sentence “is a matter for the court to decide 
+in the event you conclude that a sentence of death or life 
+without the possibility of release should not be recom- 
+mended” (J.A. 44), the jury is not reasonably likely to have 
+inferred that the court would impose a “lesser sentence” if 
+the jury hung. The quoted statement came on the heels of 
+the instruction that the jury must act unanimously in making 
+a sentencing recommendation, and nothing in the instruc- 
+tions indicated that the court would impose sentence in the 
+absence of a unanimous jury recommendation. In contrast, 
+the jury instructions had earlier expressly addressed a 
+situation in which the jury could act non-unanimously. In 
+discussing mitigating factors, the court pointedly noted that, 
+in contrast to the requirement of unanimity on findings of 
+aggravating factors: “Quite the opposite is true with regard 
+to mitigating factors. A finding with respect to a mitigating 
+
+
+16 
+
+
+factor may be made by any one or more of the members of 
+the jury * * * regardless of the number of other jurors who 
+agree that such mitigating factor has been established.” J.A. 
+43. Given the court’s direct attention to the distinction 
+between required unanimous actions and permissible non- 
+unanimous actions, the jury would reasonably have expected 
+the court to underscore and make explicit any situation in 
+which non-unanimity produced sentencing results. The jury 
+would not have taken its cue from the “subtle shades of 
+meaning” argued by petitioner. Boyde, 494 U.S. at 381. 
+
+3. There is no greater merit in petitioner’s argument (Br. 
+21-24) that the instructions and verdict forms suggested that 
+the jury itself was required to recommend a sentence less 
+severe than life without release if the jury was hung on the 
+life-or-death decision. Petitioner relies (Br. 23-24) on the 
+verdict forms, which, he notes, required a unanimous vote 
+and the signatures of all jurors for a recommendation of 
+death or life without release, but required only the fore- 
+person’s signature for a jury recommendation of a lesser 
+sentence. J.A. 57-59. He also claims (Br. 24) that the judge’s 
+instructions about the forms would have led jurors to 
+conclude that a “deadlock as to penalty would require them 
+to return the verdict form with Decision Form D [the lesser- 
+sentence option] signed by the jury foreperson.” 
+
+Petitioner’s claim that the jury is reasonably likely to 
+have read the instructions to require that the jury as a whole 
+recommend a sentence that not one single juror individually 
+supported is counterintuitive. The jurors are not likely to 
+
+
+For the same reason, petitioner is not assisted by the observation 
+(Br. 21) that, when the instructions later reiterated the unanimity require- 
+ment for jury recommendations of death or life without release (see J.A. 
+45), the instructions omitted to state that the jury could recommend a 
+lesser sentence, but only unanimously. The jury would not have attached 
+any significance to the omission, because the court had already stated 
+quite clearly that the jury could make any of three recommendations, and 
+any recommendation had to be unanimous. J.A. 43. 
+
+
+17 
+
+
+have concluded that the judge would direct them to recom- 
+mend a sentence more lenient than any of them desired. It is 
+far more likely that the jury instead would have understood 
+that, if it could not reach a unanimous recommendation on 
+death or life because its members were divided on that issue, 
+it should report that fact to the court. The language of the 
+instructions lacks any clear and definite indication that 
+might have led jurors to infer the contrary conclusion, with 
+the strange result that disagreement on the two most severe 
+penalties would require them all to recommend a lesser one. 
+The court stated as follows about the verdict forms: 
+
+
+The forms are self-explanatory: Decision Form A should 
+be used if you determine that a sentence of death should 
+not be imposed because the government failed to prove 
+beyond a reasonable doubt the existence of the required 
+intent on the part of the defendant or a required ag- 
+gravating factor. Decision Form B should be used if you 
+unanimously recommend that a sentence of death should 
+be imposed. Decision Form C or Decision Form D should 
+be used if you determine that a sentence of death should 
+not be imposed because: (1) you do not unanimously find 
+that the aggravating factor or factors found to exist 
+sufficiently outweigh any mitigating factor or factors 
+found to exist; or (2) you do not unanimously find that the 
+aggravating factor or factors found to exist are 
+themselves sufficient to justify a sentence of death where 
+no mitigating factor has been found fo exist; or (3) 
+regardless of your findings with respect to aggravating 
+and mitigating factors, you are not unanimous in re- 
+commending that a sentence of death should be imposed. 
+Decision Form C should be used if you unanimously 
+recommend that a sentence of imprisonment for life with- 
+out the possibility of release should be imposed. 
+
+
+Decision Form D should be used if you recommend 
+that some other lesser sentence should be imposed. 
+
+
+18 
+
+
+J.A. 47-48. Those instructions contain no language requiring 
+a jury divided between life and death to recommend a lesser 
+sentence. Although the court did not use the word “unani- 
+mously” in mentioning Decision Form D, the jurors would 
+not have thought iat the omission negated the court’s prior 
+unequivocal requirement of jury unanimity for any verdict. 
+The jury instructions previously stated that “you the jury, 
+by unanimous vote,” shall recommend any of the three 
+sentencing options. J.A. 43. Moreover, only three para- 
+graphs before describing the verdict forms, the court had 
+noted that “[iJt is your duty as jurors to discuss the issue of 
+punishment with one another in an effort to reach agree- 
+ment, if you can do so.” J.A. 46. Petitioner’s conclusion that, 
+under the instructions, a hung jury would have had to sub- 
+scribe to a lesser-sentence recommendation ignores the 
+court’s express instruction that a lesser-sentence recommen- 
+dation must be unanimous and that the jury should deliber- 
+ate with a view toward reaching unanimous agreement. 
+Petitioner asserts (Br. 24) that Mills v. Maryland, 486 
+U.S. 367, 383 (1988), stands for the proposition “that ‘juries 
+do not leave blanks and do not report themselves as 
+deadlocked . . . unless they are expressly instructed to do 
+so.’” That reading of Mills is neither accurate nor in accord 
+with other authority. The Court in Mills stated only that 
+juries do not leave blanks or report themselves deadlocked 
+“over mitigating circumstances” (ibid.), not that they do not 
+
+
+4 Petitioner also puts more weight on the differences in the signature 
+requirements of the verdict forms than those differences can bear. Al- 
+though the lesser-sentence form required only the foreperson’s signature, 
+in other instances, the foreperson alone signed the verdict forms to report 
+the jury’s findings even though those findings clearly had to be unani- 
+mous. See J.A. 50-53 (only foreperson’s signature required to indicate 
+jury’s unanimous finding of the existence of aggravating factors). And the 
+lesser-sentence form itself referred to a sentence that Iwle the jury re- 
+commend”—not to a sentence recommendation that reflected only the 
+jury’s inability to agree on which greater sentence to recommend. 
+
+
+19 
+
+
+report themselves deadlocked over the ultimate sentence. 
+Moreover, in Mills, the jury was not instructed that unanim- 
+ity was required to reject a mitigating circumstance. See id. 
+at 379. Here, in contrast, the jury was instructed that un- 
+animity was required to recommend a lesser sentence. See 
+J. A. 43. The jury in this case was also instructed to make 
+“an effort to reach agreement if you can do so * . But do 
+not give up your honest beliefs as to the weight or the effect 
+of the evidence solely because others think differently or 
+simply to get the case over with.” J.A. 46. Juries typically 
+receive no more pointed instructions than those on what to 
+do if they cannot agree on a verdict. Yet juries nonetheless 
+frequently report themselves deadlocked on that ultimate 
+issue—a fact that is evidenced by the continued vitality, in 
+one form or another, of the supplemental charge that this 
+Court approved in Allen v. United States, 164 U.S. 493, 501 
+(1896), to urge juries that report themselves deadlocked to 
+deliberate further. See Lowenfield v. Phelps, 484 U.S. 231, 
+238 & n.1 (1988) (some form of Allen charge employed in 
+every federal court of appeals). 
+
+4. In sum, petitioner’s argument reduces to the proposi- 
+tion that a concededly correct specific instruction requiring 
+jury unanimity for each of the jury’s three possible sen- 
+tencing options was fatally undercut by ambiguous infer- 
+ences arising from the court’s later omissions of the 
+unanimity instruction in referring to the third sentencing 
+option. He cites no authority, however, holding that an 
+express instruction can be rendered unclear by ambiguous 
+inferences drawn from other instructions. To the contrary, 
+this Court has held that even affirmative instructions that 
+might be “ambiguous in the abstract” can be cured when 
+read “in conjunction with [other instructions].” Victor v. Ne- 
+braska, 511 U.S. 1, 14-15 (1994) (problematic “moral cer- 
+tainty” language in reasonable doubt instruction cured by 
+remainder of instruction); see also Estelle, 502 U.S. at 74-75 
+(although “instruction was not as clear as it might have 
+
+
+20 
+
+
+been,” there was no reasonable likelihood that jury 
+interpreted it as pure propensity instruction given another 
+specific instruction that “guarded against possible misuses of 
+the [challenged] instruction”); Bryan v. United States, 118 S. 
+Ct. 1939, 1949 (1998) (single instruction that “read by itself, 
+contained a misstatement of the law,” would not likely have 
+misled jurors “in the context of the entire instructions”). 
+Likewise, courts of appeals have held that “one ambiguous 
+part of an instruction may be made clear by another 
+unambiguous part of the same instruction.” United States v. 
+Gaviria, 116 F.3d 1498, 1510, 1511 (D.C. Cir. 1997) (per 
+curiam) (IIlf a sentence can mean either A or B and another 
+sentence in the instruction clearly says A, then one does not 
+say that the first sentence must mean B; one says, rather, 
+that the first sentence must therefore also mean A.”), cert. 
+denied, 118 S. Ct. 865 (1998); United States v. Eltayib, 88 
+F.3d 157, 170-71 (2d Cir.) (finding no plain error when “even 
+if the instruction may be deemed ambiguous with regard to a 
+finding that the defendants participated in the conspiracy, 
+another instruction made it clear that the finding of 
+participation had to be explicit”), cert. denied, 117 S. Ct. 619 
+(1996). In light of those principles, there is no basis for 
+holding that the express unanimity instruction was over- 
+come by subsequent omissions that, at worst, are ambiguous 
+in the abstract. 
+
+
+B. Petitioner Did Not Object To The Instructions And 
+Cannot Show That They Rise To The Level Of Plain Error 
+
+
+Reversal of petitioner’s death sentence based on his 
+“lesser sentence” claim would be particularly unwarranted in 
+light of the plain error rule. Fed. R. Crim. P. 52(b). Peti- 
+tioner failed to object to the relevant instructions and ver- 
+dict forms before their submission to the jury, see Fed. R. 
+Crim. P. 30, and thus cannot prevail unless he can establish 
+an obvious error, which resulted in prejudice, and which jus- 
+tifies relief as a matter of the court’s discretion. See United 
+
+
+21 
+
+
+States v. Olano, 507 U.S. 725, 734 (1993). Petitioner has not 
+carried that burden. 
+
+1. Given the complexities in petitioner’s reading of the 
+jury instructions, his claim of error is hardly “clear” or 
+“obvious” within the meaning of the plain-error rule. Olano, 
+507 U.S. at 734. Indeed, the absence of a contemporaneous 
+objection suggests that “the participants in the trial did not 
+perceive the challenged instruction in the manner [peti- 
+tioner] now proffers.” Waters v. Thomas, 46 F.3d 1506, 1527 
+n.9 (11th Cir.), cert. denied, 516 U.S. 856 (1995). 
+
+Nor can petitioner meet his burden of showing prejudice. 
+Olano, 507 U.S. at 734. Petitioner contends that he was pre- 
+judiced by the instructions because the jurors may have 
+compromised on a death sentence to avoid the possibility 
+that their failure to agree would lead to a sentence less 
+severe than life without release. “(T]he almost invariable 
+assumption of the law,” however, is “that jurors follow their 
+instructions.” Richardson v. Marsh, 481 U.S. 200, 206 
+(1987). Here, the district court instructed the jury: “In 
+deciding what recommendation to make, you are not to be 
+concerned with the question of what sentence the defendant 
+might receive in the event you determine not to recommend 
+a death sentence or a sentence of life without the possibility 
+of release.” J.A. 44. The jury is presumed to have followed 
+that instruction. See, e.g., Shannon v. United States, 512 
+U.S. 573, 585 (1994) (jury presumed to have followed instruc- 
+tion not to consider consequences of finding defendant not 
+guilty by reason of insanity). Thus, even if the jury had 
+believed that the court would impose a lesser sentence if the 
+jury reported itself deadlocked, the instructions required it 
+to set aside what the court might do and report that it was 
+unable to agree, if in fact that was the case. Alternatively, if 
+the jury had believed that its only option, upon the failure to 
+agree unanimously on death or life without release, was to 
+return a (non-unanimous) lesser sentence recommendation, 
+it should have returned that recommendation if it in fact 
+
+
+22 
+
+
+failed to agree. That result would have been to petitioner’s 
+benefit. 
+
+Even if the jury disregarded its instructions and allowed 
+its recommendation to be influenced by an erroneous under- 
+standing of the effect of deadlock, petitioner cannot establish 
+prejudice. As the court of appeals noted, “the outcome could 
+just as easily have turned out the other way with the jurors 
+not supporting the death sentence convincing the death- 
+prone jurors to impose life without the possibility of 
+release.” J. A. 106. When the effect of any error is so 
+uncertain, petitioner cannot meet his burden to show actual 
+prejudice. Olano, 507 U.S. at 739-740; cf. Romano v. 
+Oklahoma, 512 U.S. 1, 14 (1994) (rejecting claim that improp- 
+erly admitted evidence rendered sentencing fundamentally 
+unfair because lit seems equally plausible that the evidence 
+could have made the jurors more inclined to impose a death 
+sentence, or it could have made them less inclined to do so”). 
+
+In an effort to show prejudice, petitioner has submitted 
+two affidavits purporting to show that some jurors agreed to 
+the death recommendation because they were concerned 
+that a hung jury would result in a sentence less severe than 
+life without release. See J.A. 66-68, 78-79. The court of 
+appeals correctly ruled that petitioner could not rely on 
+those affidavits to undermine the jury’s verdict.’ Post- trial 
+juror affidavits regarding internal deliberations, and the 
+effect of instructions on those deliberations, are precluded by 
+Federal Rule of Evidence 606(b). Although the rules of 
+evidence are not applicable to capital sentencing proceed- 
+ings, see Fed. R. Evid. 1101(d)(3), Rule 606(b) codifies a 
+
+
+5 Petitioner did not seek, nor did this Court grant, certiorari on that 
+distinct legal issue. Compare Pet. (i) (Questions Presented) and Pet. 
+Reply Br. 7 n.4 (claiming the juror affidavit issue was fairly included) with 
+J.A. 126 (limiting questions presented). Therefore, this Court should not 
+review the ruling of the court of appeals that the affidavits cannot be used 
+“to undermine the jury verdict.” J. A. 104. See Sup. Ct. R. 14.1(a), 24.1(a); 
+Berkemer v. McCarty, 468 U.S. 420, 443 n.38 (1984). 
+
+
+longstanding rule of federal practice predating enactment of 
+the federal rules. See Tanner v. United States, 483 U.S. 107, 
+
+
+121 (1987); Mattox v. United States, 146 U.S. 140 (1892) 
+(applying rule in federal capital case and admitting affidavits 
+concerning external influence). The policies behind Rule 
+606(b) and the pre-codification rule apply with equal 
+strength to capital sentencing proceedings. Use of juror 
+affidavits to impeach a sentence would promote harassment 
+of jurors, chill frankness and freedom of discussion in the 
+jury room, deter jurors from returning unpopular verdicts, 
+undermine the community’s trust in a system that relies on 
+the decisions of lay-people, and disrupt the finality of capital 
+sentencing. See Tanner, 483 U.S. at 120-121; McDonald v. 
+Pless, 238 U.S. 264, 267-268 (1915). 
+
+The requirement of heightened reliability in death penalty 
+cases, on which petitioner relies (Br. 25 n.19), in fact 
+supports application of the rule in capital sentencing. There 
+is no reason to assume the accuracy of the statements in the 
+affidavits on which petitioner relies, and there may be 
+
+
+reason to question it. As the court of appeals explained: 
+Jury deliberations entail delicate negotiations where 
+
+
+majority jurors try to sway dissenting jurors in order to 
+reach certain verdicts or sentences. An individual juror 
+no longer exposed to the dynamic offered by jury delib- 
+erations often may question his vote once the jury has 
+been dismissed. Such self-doubt would be expected once 
+extrinsic influences bear down on the former jurors, 
+especially in decisions of life and death. 
+
+
+J.A. 105-106. Because of that complex dynamic, reliance on 
+post-verdict affidavits may decrease, rather than increase, 
+the reliability of the capital sentencing process. 
+
+2. Although petitioner does not dispute that he did not 
+object to the instructions he now attacks, he mistakenly 
+maintains (Br. 19 & nn.13 & 14, 26-28 & n.22) that he is 
+nonetheless free from the constraints of plain error review. 
+
+
+24 
+
+
+When a party forfeits a claim, however, the plain error rule 
+limits an appellate court’s power to grant relief. Olano, 507 
+U.S. at 731. That principle applies to petitioner’s claim of 
+instructional error because he failed to object to the instruc- 
+tions before the jury retired to consider its verdict on the 
+sentence. See Johnson, 520 U.S. at 465; Fed. R. Crim. P. 30. 
+
+Petitioner argues (Br. 19 n.14) that he did not forfeit the 
+claim that the jury instructions actually given were errone- 
+ous because he requested a separate instruction that the 
+jury’s failure to agree on the sentence would result in a 
+court-imposed sentence of life imprisonment without release. 
+The denial of the requested instruction is preserved as an 
+independent claim (which he now asserts before this Court, 
+see Part II, infra). But it cannot do service for a timely ob- 
+jection to other instructions actually given. See 2 Charles 
+Alan Wright, Federal Practice and Procedure: Criminal 
+§ 484, at 702 (2d ed. 1982) (“A party who has requested an 
+instruction that has not been given is not relieved of the 
+requirement that he state distinctly his objection to the 
+instruction that is given.”); e.g., United States v. Wong, 40 
+F.3d 1347, 1373 (2d Cir. 1994) (“we have made it clear that a 
+defendant’s requested instructions do not substitute for 
+specific objections to the court’s instructions”) (quotation 
+marks omitted), cert. denied, 514 U.S. 1113 (1995). 
+
+After petitioner’s requested jury instruction was denied, 
+he could have made a separate objection to the instructions 
+that remained, explaining to the court his theory that they 
+would have misled the jury about the effect of deadlock. He 
+did not do so. A party is required, however, to object to “any 
+portion of the charge or omission there * * * stating 
+distinctly the matter to which that party objects and the 
+grounds of the objection.” Fed. R. Crim. P. 30. By 
+remaining silent about the alleged misleading instructions 
+before the jury retired to deliberate, petitioner deprived the 
+district court of an opportunity to cure the supposed 
+ambiguity. 
+
+
+25 
+
+
+Petitioner admits that he was aware of the alleged flaws 
+in the jury instructions but chose not to object to them (Br. 
+7, 9). Indeed, petitioner contributed to any error that did 
+exist in the instructions: petitioner requested instructions 
+and verdict forms that presented a lesser-sentence option to 
+the jury, both in his preliminary requests (3 R. 616-619, 625- 
+626, 650-654) and in his final requests (6 R. 1144, 1151). 
+Petitioner continued to advance the lesser-sentence option in 
+his written and oral objections to the court’s charge. See 
+J.A. 18, 25-26, 107 n.10. 
+
+If a request for one instruction could substitute for an 
+objection to a different instruction, litigants could reap the 
+benefit of potentially erroneous instructions without also 
+accepting the risks of those instructions. The instructions to 
+which petitioner declined to object gave the jury the third 
+option of recommending a sentence less severe than life 
+without release, an option that offered a possible strategic 
+benefit to petitioner. Although petitioner contends (Br. 17- 
+18, 19 n.13) (and we do not dispute), that the third option was 
+not available for the murder petitioner committed, see note 
+2, supra, the court of appeals explained that, at the time 
+petitioner was sentenced, “no clearly established law 
+answered the question of whether § 3593 [which provides for 
+a lesser sentence option] or the substantive criminal statute 
+under which the defendant is convicted [18 U.S.C. 1201, 
+which does not authorize a lesser-sentence option,] provides 
+the correct sentencing options.” J. A. 110-111. If in fact the 
+jury had chosen the lesser-sentence option, petitioner could 
+have argued that the option was available on the theory that 
+the sentencing provisions of the FDPA take precedence over 
+the provisions of 18 U.S.C. 1201. 
+
+For the same reason, the fact that petitioner raised the 
+claim that the jury instructions were misleading in a motion 
+for a new trial and a motion to reconsider the denial of that 
+motion does not excuse his failure to raise the issue before 
+the jury retired to consider its verdict on the sentence. See 
+
+
+26 
+
+
+Fed. R. Crim, P. 30. Failure to raise a potential problem in 
+jury instructions until after the jury has rendered a verdict 
+frustrates the interests in judicial economy and fair play that 
+underlie the objection requirement. Petitioner is not 
+assisted by his reliance (Br. 19 n.14) on Leary v. United 
+States, 395 U.S. 6 (1969). In that case, the defendant raised 
+the alleged error in a motion for directed verdict, before the 
+jury retired to consider its verdict. Id. at 32. 
+
+Petitioner also contends (Br. 19 n.14, 26-28 & n.22) that 
+plain error review is inapplicable because the alleged in- 
+structional error was an “arbitrary factor” under 18 U.S.C. 
+3595(c)(2)(A), and reversal for arbitrary factors is required 
+even absent an objection.’ Section 3595(c)(2)(A) provides 
+that a reviewing court shall remand for resentencing if it 
+finds that “the sentence of death was imposed under the in- 
+fluence of passion, prejudice, or any other arbitrary factor.” 
+The phrase “arbitrary factor” “gathers meaning from the 
+words around it.” Jarecki v. G. D. Searle & Co., 367 U.S. 303, 
+307 (1961). In context, an “arbitrary factor” is an irrelevant 
+consideration akin to passion or prejudice, not a misunder- 
+standing of the jury instructions. That meaning is confirmed 
+by examination of the origin of the phrase. As petitioner 
+notes (Br. 26), the concept of review for “passion, prejudice, 
+or any other arbitrary factor” was drawn from the Court’s 
+opinions in Gregg v. Georgia, 428 U.S. 153 (1976), which ap- 
+proved a similar review mandated by the Georgia death 
+penalty statute. The Gregg Court described that review as a 
+check to ensure that similar cases were treated similarly, not 
+an examination for ordinary error. See 428 U.S. at 204-205 
+
+
+® Petitioner did not raise that statutory claim in his petition for 
+certiorari, and it is therefore not properly before this Court. See note 5, 
+
+
+supra. 
+
+
+27 
+
+
+(opinion of Stewart, Powell, & Stevens, JJ.); id. at 223-224 
+(opinion of White & Rehnquist, JJ., & Burger, CJ.) 
+
+Section 3595(c)(1) governs the court of appeals’ disposition 
+of a death-sentence appeal. In separate clauses, it requires 
+consideration of “all substantive and procedural issues raised 
+on the appeal of a sentence of death,” and “the influence of 
+passion, prejudice, or any other arbitrary factor.” The stat- 
+ute also provides for reversal based on “legal error” (Section 
+3595(c)(2)(C)) or “the influence of passion, prejudice, or any 
+other arbitrary factor” (Section 3595(c)(2)(A)). Petitioner’s 
+attempt to recast an ordinary legal error in the instructions 
+as an arbitrary factor is inconsistent with the distinction 
+drawn in the statute. Further, if petitioner were correct 
+that “arbitrariness” can sweep in generic claims of legal 
+error in the sentencing proceeding and that it requires re- 
+versal without regard to the plain error rule, it would vitiate 
+the requirement of timely objection to preserve legal error, 
+which Congress clearly intended to apply under the FDPA. 
+See 18 U.S.C. 3595(c)(2)(C) (authorizing reversal for “any 
+other legal error requiring reversal of the sentence that was 
+properly preserved for appeal under the rules of criminal 
+
+
+procedure“). 
+
+
+Petitioner argues (Br. 26-28 & n. 22) that “arbitrary factor” as used in 
+Section 35950 CA) should be construed to include instructional errors 
+because Congress must be presumed to have adopted the interpretations 
+given that term by courts in other jurisdictions that modeled their 
+statutes after the Georgia statute upheld in Gregg. There is no such 
+presumption. Although the interpretation that the courts of Georgia had 
+accorded the phrase might be relevant to its meaning as it is used in 
+Section 3595, see Carolene Prods. Co. v. United States, 323 U.S. 18, 26 
+(1944); but see Shannon, 512 U.S. at 581-682, the interpretation by courts 
+of other jurisdictions is not. Petitioner has not cited any Georgia law 
+holding that an instructional error is an arbitrary factor. 
+
+8 Even if petitioner were correct that an instructional error may be an 
+arbitrary factor, an objection would still be required to preserve the error 
+for appeal. Fed. R. Crim. P. 52(b). Petitioner incorrectly argues (Br. 27 n. 
+22) that Congress must be presumed to have adopted Georgia’s procedural 
+
+
+28 
+
+
+II. PETITIONER WAS NOT ENTITLED TO AN IN- 
+STRUCTION THAT THE COURT WOULD IMPOSE 
+A SENTENCE OF LIFE IMPRISONMENT WITH- 
+OUT RELEASE IF THE JURY COULD NOT 
+UNANIMOUSLY AGREE ON A SENTENCING RE- 
+COMMENDATION 
+
+
+The court of appeals correctly upheld the district court’s 
+refusal to instruct the jury that its failure to agree on a 
+unanimous sentencing recommendation would result in a 
+court-imposed sentence of life without release. Petitioner’s 
+claimed entitlement to that instruction requires him to show 
+both that: (1) the FDPA mandates that the court impose 
+sentence if the jury deadlocks; and (2) jurors must be in- 
+structed when they begin deliberations on what will happen 
+if those deliberations ultimately fail to achieve unanimity. 
+Each premise is incorrect. 
+
+A. The FDPA Permits A New Capital Sentencing Hearing If 
+The Jury Fails To Return A Unanimous Sentencing 
+Recommendation 
+
+
+Petitioner’s proposed instructions (J.A. 13-15) incorrectly 
+state the law, because, if a jury fails to make a unanimous 
+sentencing recommendation, the government may seek a 
+new capital sentencing hearing. “It has been established for 
+[175] years, since the opinion of Justice Story in United 
+States v. Perez, [22 U.S. (9 Wheat.) 579] (1824), that a failure 
+of the jury to agree on a verdict was an instance of ‘manifest 
+necessity’ which permitted a trial judge to terminate the 
+first trial and retry the defendant, because ‘the ends of 
+
+
+rule that review for passion, prejudice, or any other arbitrary factor must 
+be conducted even when the defendant has not objected. That is 
+particularly true because, under the Georgia statute, appellate review for 
+arbitrary factors was mandatory, see Ga. Code Ann. § 27-2537(c) 
+(Harrison 1978); Gregg, 428 U.S. at 204, but, under the federal statute, 
+appellate review occurs only “upon appeal by the defendant.” 18 U.S.C. 
+3595(a). 
+
+
+29 
+
+
+public justice would otherwise be defeated.’” Richardson v. 
+United States, 468 U.S. 317, 323-324 (1984) (citation omitted). 
+“The Government, like the defendant, is entitled to 
+resolution of the case by verdict from the jury.” Jd. at 326. 
+Thus, although no federal statute or procedural rule 
+expressly allows retrial following a hung jury on a 
+substantive criminal charge, it has long been the rule that 
+the government is entitled to retry a case if the jury cannot 
+reach a unanimous verdict. 
+
+The FDPA accommodates that background rule. Section 
+3593(b)(1) provides that the penalty phase hearing ordinarily 
+should be conducted “before the jury that determined the 
+defendant’s guilt,” but Section 3593(b)(2) permits the penalty 
+phase to be conducted “before a jury impaneled for the 
+purpose of the hearing if * * * the jury that determined 
+the defendant’s guilt was discharged for good cause.” The 
+phrase “discharged for good cause” encompasses the dis- 
+charge of the guilt-phase jury because it har been unable to 
+agree on a unanimous sentencing decision. Cf. Arizona v. 
+Washington, 434 U.S. 497, 509 (1978) (“mistrial premised 
+upon the trial judge’s belief that the jury is unable to reach a 
+verdict” has “long [been] considered the classic basis for a 
+proper mistrial”). 
+
+Moreover, the FDPA requires jury unanimity for any sen- 
+tencing recommendation. See 18 U.S.C. 3593(e) (“jury by 
+unanimous vote * * * shall recommend whether the defen- 
+dant should be sentenced to death, to life imprisonment 
+without possibility of release or [to] some other lesser sen- 
+tence”). By the specific terms of the statute, therefore, there 
+can be no jury sentencing recommendation without unani- 
+mous agreement. The legal theory underlying petitioner’s 
+proposed instructions—that “Unanimity [is] Required Only 
+for la] Death Sentence [Recommendation]” (J. A. 14)—thus 
+contravenes the plain statutory language. The proposed 
+instructions themselves embodied the same error. J.A. 13 
+(requested instruction that if “any” juror “is not persuaded 
+
+
+30 
+
+
+that justice demands Mr. Jones’s execution, then the jury 
+must * * * fix Mr. Jones’ punishment at life in prison 
+without any possibility of release.”); J.A. 14 (requested 
+instruction that if “even a single juror” is “not persuaded 
+beyond a reasonable doubt that Mr. Jones’ execution is 
+required in this case, then the entire jury must render a 
+decision against his death.”). 
+
+Contrary to petitioner’s argument (Br. 34-35), his inter- 
+pretation is not compelled by the second sentence of 18 
+U.S.C. 3594. That Section provides: 
+
+
+Upon a recommendation under section 3593(e) that the 
+defendant should be sentenced to death or life imprison- 
+ment without possibility of release, the court shall sen- 
+tence the defendant accordingly. Otherwise, the court 
+shall impose any lesser sentence that is authorized by 
+law. Notwithstanding any other law, if the maximum 
+term of imprisonment for the offense is life imprison- 
+ment, the court may impose a sentence of life imprison- 
+ment without possibility of release. 
+
+
+18 U.S.C. 3594 (emphasis added). Read in the context of the 
+preceding sentence and the statute as a whole, the italicized 
+sentence means that, if the jury, in accordance with Section 
+3593(e), unanimously recommends “some other lesser sen- 
+tence,” 18 U.S.C. 3593(e), rather than death or life in prison, 
+the court shall impose “any lesser sentence that is authorized 
+by law,” 18 U.S.C. 3594.“ In other words, if the jury unani- 
+mously recommends death or life in prison, the judge must 
+impose the recommended sentence. If the jury unanimously 
+recommends less severe punishment, the court, not the jury, 
+fixes the actual term of imprisonment. 
+
+
+The “notwithstanding” sentence that follows empowers the judge to 
+impose a sentence of life without release (rather than a “lesser sentence”) 
+if the substantive criminal statute carries a maximum imprisonment term 
+of life. 
+
+
+31 
+
+
+Petitioner contends (Br. 34) that the italicized sentence 
+serves an additional purpose, beyond providing that the 
+court (rather than the jury) shall fix the actual term of im- 
+prisonment in cases when the jury recommends punishment 
+less severe than life in prison. In his view, the sentence also 
+means that jury deadlock on the more severe sentencing 
+options requires the court to impose the least severe punish- 
+ment option. Petitioner’s reading of the sentence is incor- 
+rect, not simply because it overlooks the background rule 
+that retrial is generally permitted following a hung jury, but 
+more importantly because it fails to take account of the 
+remainder of the statute. See Gustafson v. Alloyd Co., 513 
+U.S. 561, 569-570 (1995) (statute must be read as a whole). 
+
+Petitioner’s default sentencing rule would nullify the jury- 
+unanimity requirement in Section 3593(e), which applies to 
+all sentencing recommendations under the statute, including 
+imprisonment for a term of years less than life. Petitioner’s 
+rule also runs counter to Section 3593(b)(2)(C), which allows 
+sentencing by a specially impaneled jury when “the jury that 
+determined the defendant’s guilt was discharged for good 
+cause.” See generally Bennett v. Spear, 520 U.S. 154, 173 
+(1997) (court should not read statute in a way that would 
+“emasculate an entire section”); Babbitt v. Sweet Home 
+Chapter of Communities for a Greater Oregon, 515 U.S. 687, 
+698 (1995) (noting “reluctance to treat statutory terms as 
+
+
+surplusage“).“ 
+
+
+10 The sentence in H.R. Rep. No. 467, 108d Cong., 2d Sess. 9 (1994), on 
+which petitioner relies (Br. 34-35), does not purport to interpret the 
+second sentence of 18 U.S.C. 3594 and is included in the explanatory 
+material not for that Section but for 18 U.S.C. 3593. The Court should not 
+rely on that remark to defeat the understanding of the statute that is clear 
+from the language of the statute as a whole, construed in light of the 
+background rule permitting retrial after hung juries. Cf. Shannon, 512 
+U.S. at 583 (“To give effect to this snippet of legislative history, we would 
+have to abandon altogether the text of the statute as a guide in the 
+
+
+interpretative process.”). 
+
+
+32 
+
+
+In notable contrast to the FDPA, the provisions of many 
+capital punishment statutes in States using juries to decide 
+or recommend the appropriate punishment reflect peti- 
+tioner’s proposed default procedure in the event of jury 
+deadlock. Most capital punishment States that use a binding 
+jury sentencing procedure provide in simple and direct 
+language that jury deadlock as to the appropriate sentence 
+results in a court-imposed sentence. See App. A, infra. A 
+few other state statutes also suggest that result in far 
+clearer terms than those on which petitioner relies here, 
+because those statutes establish a life or other prison term 
+as the presumptive sentence absent unanimous jury findings 
+and a death sentence recommendation. See App. B, infra. 
+California’s death penalty statute expressly provides for a 
+new capital sentencing hearing in the event the first jury 
+deadlocks in its findings or recommendation. Cal. Penal 
+Code § 190.4(a) and (b) (West 1988). In Kentucky, where the 
+statute is silent, the failure of a jury to reach a unanimous 
+verdict on the sentence results in a new sentencing hearing. 
+See Skaggs v. Commonwealth, 694 S.W.2d 672, 681 (Ky. 
+1985), cert. denied, 476 U.S. 1130 (1986). In Connecticut, the 
+trial judge has discretion to order a new sentencing hearing. 
+See State v. Breton, 663 A.2d 1026, 1043, 1049-1050 n.40 
+(Conn. 1995)." 
+
+Congress could have used language as simple and direct as 
+that used in state statutes had it meant to preclude a second 
+sentencing hearing and to return the matter to the court to 
+impose a non-death sentence if the jury deadlocks. Instead, 
+Congress expressly required that a jury decide “by unani- 
+
+
+States employing juries in a purely advisory capacity either 
+allow non-unanimous recommendations, see Del. Code Ann., tit. 11, 
+§ 420% c)(3\b) and (e) (1995); Fla. Stat. Ann. § 921.141(2) and (3) (West 
+1985 & Supp. 1996), leave the matter entirely to the court in the event of 
+deadlock, see Ind. Code Ann. § 35-50-2-9(f) (Michie 1994 & Supp. 1998), or 
+expressly allow a new jury to be empaneled, see Ala. Code § 13A-5-46(g) 
+(1994). 
+
+
+33 
+
+
+mous vote” before it could recommend either death, life 
+without release, or a lesser sentence, 18 U.S.C. 3593(e), and 
+permitted the penalty phase to be conducted “before a jury 
+impaneled for the purpose of the hearing if * * * the jury 
+that determined the defendant’s guilt was discharged for 
+good cause,” 18 U.S.C. 3593(b)(2). Coupled with the back- 
+ground rule that the prosecution may seek a new trial follow- 
+ing a hung jury even absent express statutory authority, 
+those provisions refute petitioner’s proposed reading of the 
+statute to preclude by implication a new sentencing hearing 
+
+
+if the first jury hangs. 
+
+
+B. The Jury Need Not Be Instructed On The Consequences 
+Of A Breakdown In Its Deliberations 
+
+
+Even if the court is required to impose a sentence other 
+than death if the jury hangs, petitioner has no right to an 
+instruction informing the jury of that requirement. Nothing 
+in the Constitution or federal law mandates that jurors be 
+told of the consequences of their failure to achieve unanim- 
+ity. To the contrary, such an instruction would undermine 
+the strong societal interest in obtaining a unanimous recom- 
+mendation in a capital case, in order for the jury to serve as 
+the conscience of the community in deciding whether the 
+defendant should live or die. See Lowenfield, 484 U.S. at 
+237-238 (citing Allen, 164 U.S. at 501-502, and Witherspoon 
+v. Illinois, 391 U.S. 510, 519 (1968)). 
+
+1. Petitioner does not have a statutory right to an 
+instruction on deadlock. When Congress wishes to require a 
+jury instruction, in capital and non-capital cases alike, it 
+plainly knows how to do so. See, e.g., 21 U.S.C. 848(k) (jury 
+is never required to impose a death sentence and the jury 
+shall be so instructed”); 18 U.S.C. 3501(a) (trial court “shall 
+instruct the jury to give such weight to the confession as the 
+jury feels it deserves under all the circumstances”). In this 
+very statute, Congress expressly required the jury to be 
+instructed not to consider race, color, religious beliefs, na- 
+
+
+34 
+
+
+tional origin, or sex in determining the appropriate sentence, 
+see 18 U.S.C. 3593(f), but Congress nowhere even hinted 
+that the jury should be instructed on the consequences of 
+deadlock. Cf. Shannon, 512 U.S. at 580 (“The Act’s text 
+* * * gives no support to Shannon’s contention that an 
+instruction informing the jury of the consequences of an [not- 
+guilty-by-reason-of-insanity] verdict is required.”). 
+
+Petitioner mistakenly asserts (Br. 36-37) that an instruc- 
+tion is required by the statutory provision that, if the defen- 
+dant appeals his sentence, the court of appeals shall remand 
+for resentencing if it finds that the sentence was imposed 
+based on “passion, prejudice, or any other arbitrary factor.” 
+See 18 U.S.C. 3595(c)(2). That language, which speaks only 
+to appellate review upon the election of the defendant, can- 
+not support the construction petitioner would put on it. 
+Indeed, petitioner cites no case so interpreting that or simi- 
+lar language. The few courts that have required an instruc- 
+tion of the type petitioner seeks have done so either under 
+their supervisory authority, see State v. Ramseur, 524 A.2d 
+188, 284 (N.J. 1987), or under the mistaken belief that an 
+instruction is required by the Eighth Amendment, see State 
+v. Williams, 392 So. 2d 619, 634-635 (La. 1980); Whalen v. 
+State, 492 A.2d 552, 562 (Del. 1985). 
+
+2. Nor is there any basis for requiring the instruction 
+that petitioner seeks as an exercise of supervisory power. 
+Congress has crafted a comprehensive set of procedures to 
+govern imposition of the death penalty and has declined to 
+mandate an instruction on deadlock. “Under these circum- 
+stances, [the Court is] reluctant to depart from well- 
+established principles of criminal practice without more 
+explicit guidance from Congress.” Shannon, 512 U.S. at 587 
+(rejecting use of supervisory authority). 
+
+In most capital punishment States that have addressed 
+the issue, statutory or decisional law precludes or discour- 
+ages informing jurors that the result of their failure to 
+achieve unanimity will be a court-imposed sentence. See, 
+
+
+6. g., Tenn. Code Ann. § 39-13-204(h) (1997 & Supp. 1998) 
+(“The judge shall not instruct the jury, nor shall the 
+attorneys be permitted to comment at any time to the jury, 
+on the effect of the jury’s failure to agree on a punishment.”); 
+Tex. Crim. P. Code Ann., art. 37.071.2(a) (West Supp. 1999) 
+(similar); State v. McCarver, 462 S.E.2d 25, 42 (N.C. 1995), 
+cert. denied, 517 U.S. 1110 (1996); Oken v. State, 612 A.2d 
+258, 265 (Md. 1992), cert. denied, 507 U.S. 981 (1993); People 
+v. Kimble, 749 P.2d 803, 825-826 (Cal.) (decided under prior 
+version of statute requiring court-imposed sentence in event 
+of deadlock), cert. denied, 488 U.S. 871 (1988); Brogie v. 
+State, 695 P.2d 538, 547 (Okla. Crim. App. 1985); Coulter v. 
+State, 488 So. 2d 336, 346 ‘Ala. Crim. App. 1982), aff’d, 438 
+So.2d 352 (Ala. 1983); State v. Adams, 283 S.E.2d 582, 587 
+(S.C. 1981), cert. denied, 464 U.S. 1023 (1983); Justus v. 
+Commonwealth, 266 S. E. 2d 87, 92 (Va. 1980), cert. denied, 
+455 U.S. 983 (1982). Contra Ramseur, supra; Whalen, 
+supra; Williams, supra; Mo. Ann. Stat. § 565.030.4 (West 
+1979); ef. Or. Rev. Stat. § 163.150(2)(a) (1990 & Supp. 1998) 
+(quoted at p. 5a, infra). 
+
+State cases rejecting such instructions have explained 
+that they involve a “procedural matter” addressed to the 
+court and not to the jury. E.g., Justus, 266 S.E.2d at 92. 
+Courts have also recognized that the instructions would be 
+“an open invitation for the jury to avoid its responsibility 
+and to disagree.” Ibid. As a result, the instructions would 
+frustrate the strong interest in jury unanimity, which is a 
+bedrock principle of our jury system. 
+
+8. The Constitution does not override considered legisla- 
+tive and judicial judgments that instructions such as those 
+proposed by petitioner here would not further, but would 
+undermine, the goal of meaningful jury deliberations in capi- 
+tal sentencing cases. Every federal court of appeals consid- 
+ering the matter has rejected the argument that the Consti- 
+tution requires a jury instruction on the consequences of 
+jury deadlock. See, g., Coe v. Bell, 161 F.3d 320, 339-340 
+
+
+(6th Cir. 1998); United States v. Chandler, 996 F.2d 1073, 
+1088-1089 (11th Cir. 1993), cert. denied, 512 U.S. 1227 (1994) 
+Zettlemoyer v. Fulcomer, 923 F. 2d 284, 309 (3d Cir.), cert. 
+denied, 502 U.S. 902 (1991); Evans v. Thompson, 881 F.2d 
+117, 123-124 (4th Cir. 1989), cert. denied, 497 U.S. 1010 
+(1990). 
+
+The Eighth Amendment to the Constitution imposes two 
+broad limitations on capital sentencing schemes: (1) either 
+the guilt determination or the sentencing process “must 
+genuinely narrow the class of persons eligible for the death 
+penalty and must reasonably justify the imposition of a more 
+severe sentence on the defendant compared to others found 
+guilty of murder,” Lowenfield, 484 U.S. at 244 (quotation 
+marks and citation omitted); and (2) the sentencing decision 
+must rest on an “individualized inquiry” under which “the 
+character and record of the individual offender and the 
+circumstances of the particular offense” are considered, 
+McCleskey v. Kemp, 481 U.S. 279, 303 (1987). See Romano, 
+512 U.S. at 6-7. To prevent arbitrariness, the Constitution 
+precludes some instructions that “improperly describe[ } the 
+role assigned to the jury by local law” and thus mislead the 
+jury “in a way that allows the jury to feel less responsible 
+than it should for the sentencing decision.” Id. at 9. Due 
+process may also require instructions or other information 
+on the consequences of a particular sentence, if necessary to 
+prevent a prosecution argument in favor of the death penalty 
+from creating a false or misleading impression. See 
+Simmons v. South Carolina, 512 U.S. 154 (1994) (because 
+prosecution relied on defendant’s future dangerousness to 
+support death penalty, defendant was entitled to instruction 
+or other information that life sentence carried no possibility 
+of parole). 
+
+This Court has never suggested, however, that the Con- 
+stitution requires that the jury be instructed on the effects 
+of a breakdown in the deliberative process that precludes 
+jury unanimity. To the contrary, the Court has held that, 
+
+
+37 
+
+
+even in a jurisdiction in which jury deadlock returns the 
+matter to the judge for sentencing, “[tJhe State has in a 
+capital sentencing proceeding a strong interest in having the 
+jury ‘express the conscience of the community on the ulti- 
+mate question of life or death. Lowenfield, 484 U.S. at 238 
+(quoting Witherspoon, 391 U.S. at 519). The Court in Lowen- 
+field thus approved the giving of an Allen charge to a capital 
+sentencing jury that initially reported an inability to agree 
+on the appropriate sentence. It approvingly quoted the 
+Allen Court's observation that “[tJhe very object of the jury 
+system is to secure unanimity by a comparison of views, and 
+by arguments among the jurors themselves.” 484 U.S. at 237 
+(quoting Allen, 164 U.S. at 501). The Court explained that 
+the interest in encouraging full deliberations aimed at 
+achieving jury unanimity exists “even in capital cases such 
+as this one and Allen.“ Id. at 238. Although Lowenfield dif- 
+fered from Allen because a jury sentencing deadlock under 
+the Louisiana statute precluded a death penalty retrial, and 
+deadlock at the guilt phase in Allen would have required a 
+new jury trial, the Court did not find that distinction “dis- 
+positive.” Ibid. 
+
+Lowenfield illustrates that, as long as a capital sentencing 
+system meaningfully narrows the class of death-eligible 
+defendants and allows individualized consideration of all 
+relevant mitigating circumstances, this Court will defer to 
+legislative and judicial judgments regarding what informa- 
+tion should be presented to a capital sentencing jury. See 
+also Romano, 512 U.S. at 7 (“Within these constitutional 
+limits, ‘the States enjoy their traditional latitude to prescribe 
+the method by which those who commit murder shall be 
+punished.’”) (citation omitted); Buchanan v. Angelone, 118 
+S. Ct. 757, 761 (1998) (recognizing discretion to tailor instruc- 
+tions in selection phase of capital case as long as “restrictions 
+on the jury’s sentencing determination [do] not preclude the 
+jury from being able to give effect to mitigating evidence”); 
+Simmons, 512 U.S. at 168 (plurality opinion of Blackmun, J.) 
+
+
+38 
+
+
+(acknowledging “the broad proposition that we generally will 
+defer to a State’s determination as to what a jury should and 
+should not be told about sentencing”); California v. Ramos, 
+463 U.S. 992, 1013 (1983) (deferring to state judgment per- 
+mitting jury to be informed of governor’s power to commute 
+life sentence because such an instruction “does not preclude 
+individualized sentencing determinations or consideration of 
+mitigating factors, nor does it impermissibly inject an ele- 
+ment too speculative for the jury’s deliberation”). 
+
+Petitioner’s claim in this case has even less foundation 
+than those this Court has rejected, because his proposed 
+instruction had nothing to do with mitigation (as in Bucha- 
+nan) or sentencing consequences (as in Ramos). The in- 
+structions given by the district court in this case fully 
+apprised the jurors of their obligation to consider mitigating 
+circumstances and of the legal effect of their recommenda- 
+tion. The Constitution does not require that jurors be given 
+additional, purely procedural, information about what will 
+happen if their internal deliberations break down.” 
+
+III. THE SUBMISSION TO THE JURY OF ALLEGEDLY 
+DUPLICATIVE AND VAGUE AGGRAVATING FAC- 
+TORS DOES NOT ENTITLE PETITIONER TO 
+RELIEF 
+
+
+As petitioner acknowledges (Br. 41), Congress has ex- 
+pressly provided that federal death sentences are not to be 
+
+
+2 Petitioner argues (Br. 38-39 n.30) that the absence of an instruction 
+explaining the result of jury deadlock forced the jury into an impermissi- 
+ble “all or nothing” choice (as in Beck v. Alabama, 447 U.S. 627 (1980)), 
+and gave the jury “materially false” information (as in Townsend v. Burke, 
+334 U.S. 736 (1948)). Neither proposition is sound. Beck applies only to an 
+improper “all or nothing” choice between innocence and a capital convic- 
+tion, see Schad v. Arizona, 501 U.S. 624, 647 (1991), which was not the 
+case here. The jury's possible sentencing verdicts were laid before it and 
+jurors were not forced into an “all or nothing” verdict by lack of informa- 
+tion about the consequences of deadlock. Nor was there was any mis- 
+leading instruction on the topic of deadlock. 
+
+
+set aside based on errors that are found to be harmless 
+beyond a reasonable doubt. 18 U.S.C. 3595002) (“The court 
+of appeals shall not reverse or vacate a sentence of death on 
+account of any error which can be harmless, including any 
+erroneous special finding of an aggravating factor, where the 
+Government establishes beyond a reasonable doubt that the 
+error was harmless”); see also Fed. R. Crim. P. 52(a). This 
+Court has recognized that such harmless error review is 
+permitted by the Constitution. See Clemons v. Mississippi, 
+494 U.S. 738, 752-754 (1990). A reviewing court may affirm a 
+death sentence, despite the jury’s weighing of vague or 
+otherwise improper aggravating factors if the court deter- 
+mines beyond a reasonable doubt that the sentence would 
+have been the same either if the factor had never been sub- 
+mitted or if the factor had been “properly defined in the jury 
+instructions.” Id. at 753-754. 
+
+Petitioner contends (Br. 39-49) that the court of appeals 
+improperly conducted harmless-error analysis after finding 
+invalid aggravating factors and that the record cannot 
+support a harmless-error finding. In fact, there was no error 
+in the non-statutory aggravating factors that the district 
+court submitted to the jury. Those factors—the victim’s 
+“young age, her slight stature, her background, and her 
+unfamiliarity with San Angelo, Texas,” and her “personal 
+characte istics and the effect of the offense on her family“ 
+were neither vague, duplicative, nor overbroad.” If any 
+such flaw did exist, however, it is beyond a reasonable doubt 
+that petitioner’s sentence would have been the same even if 
+
+
+those two non-statutory aggravating factors had been more 
+precisely defined or had never been submitted to the jury. 
+
+
+18 As the prevailing party in the court of appeals, the United States is 
+entitled to defend the judgment on any ground properly raised in the 
+court of appeals. See, g., Northwest Airlines, Inc. v. County of Kent, 510 
+U.S. 355, 364 (1994). In that court, the government argued that the non- 
+statutory factors are valid. Gov't C.A. Br. 77-87. 
+
+
+40 
+
+
+A. The Non-Statutory Aggravating Factors Were Constitu- 
+tionally Valid 
+
+1. Aggravating factors may have two roles in a capital 
+sentencing system. First, an aggravating factor may be used 
+to narrow the class of defendants who are eligible for the 
+death penalty. Zant v. Stephens, 462 U.S. 862, 878 (1983). 
+Second, an aggravating factor may be considered by the sen- 
+tencer in the selection decision, ie, the determination 
+whether a defendant who is eligible for the death penalty 
+will in fact be sentenced to death. Id. at 878-879. An unduly 
+vague aggravating factor violates the Eighth Amendment 
+because it “fails adequately to inform juries what they must 
+find to impose the death penalty and as a result leaves them 
+and appellate courts with the kind of open-ended discretion 
+which was held invalid in Furman v. Georgia, 408 U.S. 238 
+(1972).” Maynard v. Cartwright, 486 U.S. 356, 361-362 
+(1988); Tuilaepa v. California, 512 U.S. 967, 973 (1994) (the 
+“controlling objective” in vagueness analysis is the need to 
+“ensure that the [capital sentencing] process is neutral and 
+principled so as to guard against bias or caprice in the 
+sentencing decision”). 
+
+A sentencing “factor is not unconstitutional if it has some 
+‘common-sense core of meaning . . . that criminal juries 
+should be capable of understanding. Twilaepa, 512 U.S. at 
+973 (quoting Jurek v. Texas, 428 U.S. 262, 279 (1976) (White, 
+J., concurring in the judgment)). The Court has invalidated 
+as unduly vague “only a few factors,” which are “quite simi- 
+lar” to each other. Id. at 974. See, e.g., Maynard, 486 U.S. at 
+363-364 (whether murder was “heinous, atrocious, or cruel”); 
+Godfrey v. Georgia, 446 U.S. 420, 427-429 (1980) (whether 
+murder was “outrageously or wantonly vile, horrible and in- 
+human”). In contrast, the Court has upheld many other fac- 
+tors against vagueness challenges, in recognition of the 
+authority of legislatures to “rely upon the jury, in its sound 
+judgment, to exercise wide discretion.” Tuilaepa, 512 U.S. 
+
+
+41 
+
+
+at 974 (collecting cases). Because the proper degree of defi- 
+nition of eligibility and selection factors often is not suscepti- 
+ble of mathematical precision, our vagueness review is quite 
+deferential.” Jd. at 973 (quotation marks and citation 
+omitted). 
+
+2. The non-statutory factors in this case are consistent 
+with the requirements of the Constitution. Factor 3(B) 
+asked the jury te consider as an aggravating factor the vie- 
+tim’s “young age, her slight stature, her background, and her 
+unfamiliarity with San Angelo, Texas.” J.A. 53. Those 
+considerations focused on the special vulnerability of the 
+victim. Factor 3(C) asked the jury to consider as an ag- 
+gravating factor the victim’s “personal characteristics and 
+the effect of the instant offense on [her] family.” Ibid. Those 
+considerations focused on the uniqueness of the victim and 
+the specific harm caused to the victim’s family. The jury’s 
+consideration of both of those subjects is authorized by the 
+FDPA. See 18 U.S.C. 3593(c) (allowing presentation at 
+sentencing of information “as to any matter relevant to the 
+sentence”); 18 U.S.C. 3593(d) (allowing jury to consider not 
+only statutory aggravating factors but also “any other 
+aggravating factor for which notice has been provided” by 
+the prosecution). The FDPA treats other reasons for victim 
+vulnerability as a statutory aggravating factor. 18 U.S.C. 
+3592(c)(11) (“victim was particularly vulnerable due to old 
+age, youth, or infirmity”). And the statute expressly author- 
+izes victim impact as an aggravating factor. 18 U.S.C. 3593(a) 
+(non-statutory factors “may include factors concerning the 
+effect of the offense on the victim and the victim’s family”). 
+The jury’s consideration of those factors is entirely proper 
+under the Constitution. See Payne v. Tennessee, 501 U.S. 
+808, 817, 827 (1991) (allowing capital sentencing jury to hear 
+and consider evidence of the “personal characteristics of the 
+victim and the emotional impact of the crimes on the victim’s 
+family”). 
+
+
+42 
+
+
+Although the court of appeals recognized that capital sen- 
+tencing juries properly may consider “vulnerability and 
+victim impact evidence,” it held that “the language used in 
+3(B) and 3(C) does not accomplish this goal.” J.A. 117-118. 
+The court believed the factors as drafted were invalid be- 
+cause they were “duplicative” and “vague and overbroad.” 
+J.A. 118-119. They were duplicative, according to the court, 
+because the “plain meaning of the term ‘personal charac- 
+teristics,’ used in 3(C), necessarily includes ‘young age, slight 
+stature, background, and unfamiliarity,’ which the jury was 
+asked to consider in 3(B).” J.A. 118. They were vague and 
+overbroad, according to the court, because they “fail{ed] to 
+guide the jury’s discretion, or distinguish this murder from 
+any other murder” and were not accompanied by any 
+“further definition or instruction” necessary to limit “the 
+kind of open-ended discretion which was held invalid in Fur- 
+man v. Georgia.” J.A. 118-119 (quoting Maynard v. Cart- 
+wright, 486 U.S. at 361-362). Those conclusions are incorrect. 
+
+Duplication. The factors in this case were not duplicative. 
+A jury that found both of those factors would reasonably 
+understand that the specific victim characteristics listed in 
+Factor 3(B) (the victim’s youth, small size, background, and 
+newness to the area) were those that made her a vulnerable 
+victim, while the reference to her “personal characteristics” 
+in Factor 3(C) was intended to capture separately her 
+uniqueness as an individual human being. The latter 
+reference accords with this Court’s use in Payne of the 
+phrase “personal characteristics” to denote the victim’s 
+“uniqueness as an individual human being,” which a jury 
+may consider to understand the “specific harm caused by the 
+crime in question.” 501 U.S. at 817, 823, 825. There is no 
+reason to think that the jury would have understood the 
+reference to “personal characteristics” differently, particu- 
+larly since Factor 3(C) went on to refer to the impact of the 
+
+crime on the victim’s family and thus made clear that it 
+covered the effects of the crime. 
+
+
+43 
+
+
+Vagueness. Eighth Amendment “vagueness review is 
+quite deferential” and is satisfied if the factors have “some 
+common-sense core of meaning.” Twilaepa, 512 U.S. at 973 
+(quotation marks and citation omitted). Under that stan- 
+dard, the factors at issue are not vague. The jury would 
+have had no difficulty understanding the meaning of the ref- 
+erences to McBride’s “young age,” “slight stature,” “back- 
+ground,” and “unfamiliarity with San Angelo, Texas.” Those 
+characteristics were “phrased in conventional and under- 
+standable terms.” Twilaepa, 512 U.S. at 975-976 (factors 
+including “circumstances of the crime,” “presence or absence 
+of criminal activity by the defendant,” and “age of the defen- 
+dant” not vague). The jury had a particularly concrete un- 
+derstanding of McBride’s characteristics as described in the 
+aggravating factor, because, without objection, the jury had 
+heard testimony during the guilt phase that McBride was 
+only 19 years old; was tiny—5 feet 2 inches tall, weighing 
+only 105 pounds, with a 20 or 22 inch waist; had entered the 
+Army after only spending six months in college; had been in 
+the Army only one year; and had been transferred to San 
+Angelo only eight days before her murder. See 16 R. 804- 
+808. The jury also heard evidence of how petitioner used his 
+size and strength to overpower her; ambush a would-be 
+rescuer and beat him into unconsciousness; confine her in a 
+closet after sexually abusing her; force her to accompany him 
+on a drive some 20 miles out of town while searching for a 
+place to murder her and dispose of her body; and then strike 
+her with a tire iron to take her life. See pp. 1-3, supra. 
+McBride’s diminutive size and unfamiliarity with her 
+surroundings doubtless heightened her terror and feelings of 
+vulnerability while petitioner held her captive and drove her 
+to the scene of her murder. 
+
+The jury also would have had no difficulty understanding 
+the meaning of McBride’s “personal characteristics and the 
+effect of the offense on her family.” As noted above, this 
+Court itself has used those phrases to describe permissible 
+
+
+44 
+
+
+evidence that the capital sentencer may properly consider. 
+Payne, 501 U.S. at 817, 827. In light of the evidence pre- 
+sented to it, the jury could readily form a judgment on the 
+degree of specific harm caused by petitioner’s crime and 
+determine how much weight to accord to that harm in its 
+deliberations on whether to recommend a capital sentence. 
+
+It is not constitutionally problematic that the jury was not 
+given specific guidance about how to ascertain and weigh the 
+factors. Although death-eligibility aggravating factors 
+“must require an answer to a factual question” to perform 
+their narrowing function, selection-stage factors need not 
+conform to such a rigid model in order to satisfy Eighth 
+Amendment vagueness standards. Twilaepa, 512 U.S. at 
+978. In the FDPA, non-statutory factors are not needed to 
+fulfill the narrowing function required by the Eighth 
+Amendment; that function is instead fulfilled by the 
+requirement that the jury must find at least one statutory 
+aggravating factor. 18 U.S.C. 3593(d) (“If no aggravating 
+factor set forth in section 3592 is found to exist, the court 
+shall impose a sentence other than death authorized by 
+law.”). The non-statutory factors then form part of the 
+weighing of aggravating against mitigating factors in the 
+selection stage. 18 U.S.C. 3593(e). In the selection stage, a 
+capital jury may be directed to a general subject matter, 
+Tuilaepa, 512 U.S. at 978, and “need not be instructed how 
+to weigh any particular fact in the capital sentencing deci- 
+sion.” Jd. at 979. The factors here provided more specific 
+direction to the jury than that, because each referred to a 
+specific factual area and required that the jury find that it 
+aggravated the crime before the factor could be weighed. 
+
+Overbreadth. The factors also are not overbroad. The 
+court of appeals suggested that the factors at issue fail to 
+“distinguish this murder from any other murder.” J.A. 118. 
+Unconstitutional overbreadth in this setting, however, 
+means only that the “sentencer fairly could conclude that an 
+aggravating [factor] applies to every defendant eligible for 
+
+
+45 
+
+
+the death penalty.” Arave v. Creech, 507 U.S. 463, 473-474 
+(1993) (giving as examples the undefined adjectives 
+“heinous,” “vile,” ete. in Maynard, supra, and Godfrey, 
+supra). It is true that all murders have victims and all 
+killings cause pain to survivors. But it is hardly accurate to 
+say that, in each and every murder, the victim’s age, size, 
+and background, contributed to her vulnerability in a way 
+that exacerbated the character of the killing, as in this case. 
+Nor is it accurate to say that, because each murder 
+extinguishes a particular life and causes pain to surviving 
+friends and family, juries are barred from considering the 
+loss of the unique individual who was killed and the 
+particular suffering experienced by her family. These 
+factors are inherently individualized in every case. 
+
+B. Any Error In The Submission Of The Non-Statutory 
+
+
+Aggravating Factors Was Harmless Beyond A Reasonable 
+Doubt 
+
+
+Alternatively, assuming error in the non-statutory fac- 
+tors, any such error was harmless beyond a reasonable 
+doubt. The Court has stated that Ja] vague aggravating 
+factor used in the weighing process * * * creates the risk 
+that the jury will treat the defendant as more deserving of 
+the death penalty than he might otherwise be by relying 
+upon the existence of an illusory circumstance.” Stringer v. 
+Black, 503 U.S. 222, 235 (1992). But the Court has also ruled 
+that such an error is subject to harmless-error analysis. See 
+id. at 237; Clemons, 494 U.S. at 752-754. In this case, the 
+error is harmless under an approach that asks either (1) 
+whether the jury would have imposed a death sentence if the 
+invalid factors were defined properly, or (2) whether the 
+jury would have imposed a death sentence in the absence of 
+the invalid factors. 
+
+1. A reviewing court may find harmless error if it deter- 
+mines “beyond reasonable doubt the result would have been 
+the same had the [invalid] aggravating circumstance been 
+
+
+46 
+
+properly defined in the jury instructions.” See Clemons, 494 
+U.S. at 754. In this case, with minor changes, the factors at 
+issue could have been drawn more precisely to set forth 
+specific propositions for the jury. For example, Factor 3(B) 
+could have been written to allege that “Tracie Joy McBride 
+{was a particularly vulnerable victim because of her] young 
+age, her slight stature, her background, and her unfamiliar- 
+ity with San Angelo, Texas”; and Factor 3(C) could have 
+alleged that [The murder caused exceptional harm because 
+of] Tracie Joy McBride’s personal characteristics and the 
+effect of the instant offense on [her] family.” 
+
+If the court had reformulated the instructions in that man- 
+ner, it might have facilitated the jury’s deliberations, but 
+there can be no real doubt that the result would have been 
+the same. A jury that gave dispositive sentencing weight to 
+McBride’s “young age, her slight stature, her background, 
+and her unfamiliarity with San Angelo, Texas,” no doubt 
+would have reached the same conclusion had it been required 
+to find that McBride was particularly vulnerable for those 
+reasons. Likewise, a jury that gave dispositive sentencing 
+weight to McBride’s “personal characteristics and the effect 
+of the of*ense on her family” would have reached the same 
+conclusion had it been required to find that McBride’s 
+murder caused exceptional harm for those reasons. The 
+government’s closing arguments on the factors, while brief, 
+conveyed to the jury McBride’s vulnerability, her 
+uniqueness as a person, and the loss suffered by her family.“ 
+And petitioner does not elaim that the factors brought 
+inadmissible evidence before the jury or were improperly 
+inflammatory.“ 
+
+
+14 We have reproduced in Appendix C, infra, the government's refer- 
+ences to the factors in its argument at sentencing. 
+
+15 Any vagueness problem with the factors would not have caused the 
+jury to recommend the death sentence based an “illusory circumstance,” 
+Stringer, 503 U.S. at 235, because the factors pointed (even if imperfectly) 
+to relevant, permissible considerations that were given concreteness by 
+
+
+47 
+
+
+Likewise, the purported duplication between the factors 
+was harmless beyond a reasonable doubt. The error (if any) 
+consisted in the improper double counting of McBride’s 
+personal characteristics. That error could not have infected 
+the jury’s sentencing decision because the district court 
+specifically instructed the jury that the weighing process “is 
+not a mechanical” one and that the jury “should not simply 
+count the number of aggravating and mitigating factors and 
+reach a decision on which number is greater” but “should 
+consider the weight and value of each factor.” J.A. 45. The 
+jury must be presumed to have followed that instruction. 
+See Shannon, 512 U.S. at 585; Richardson v. Marsh, 481 
+U.S. at 206. Indeed, reviewing courts have relied on similar 
+instructions in determining that the submission of duplica- 
+tive factors was harmless in particular cases. See United 
+States v. Tipton, 90 F.3d 861, 900-901 (4th Cir. 1996) (duplica- 
+tive intent factors), cert. denied, 117 S. Ct. 2414 (1997); 
+Chandler, 996 F.2d at 1093 (aggravating factor duplicative of 
+finding at guilt phase). In any event, any double reference to 
+McBride’s personal characteristics did not increase the 
+number of aggravating factors, for Factor 3(C) also referred 
+to the separate subject of the effect on the victim’s family. 
+
+2. The same harmless-error finding results from consid- 
+ering whether the jury would have reached the same verdict 
+in the absence of the aggravating factors. Clemons, 494 U.S. 
+at 753. Neither non-statutory factor was a significant part of 
+
+
+the evidence and argument at sentencing. See pp. 42-44, supra; 19 R. 
+1526-1539; App. C, infra. Nor is there any danger that vagueness allowed 
+dias to infect the sentencing decision, see Twilaepa, 512 U.S. at 973. As re- 
+quired by the statute, 18 U.S.C. 3593(f), each member of the jury certified 
+that “consideration of the race, color, religious beliefs, national origin, or 
+sex of the defendant or the victim was not involved in reaching his or her 
+individual decisions, and that the individual juror would have made the 
+same recommendation regarding a sentence for the crime in question no 
+matter what the race, color, religious beliefs, national origin, or sex of the 
+defendant, or the victim would have been.” J.A. 59. 
+
+
+18 
+
+
+the government’s sentencing case. Although the government 
+“placed great emphasis on the two statutory aggravating 
+factors found unanimously by the jury” J. A. 122), it did not 
+dwell on the two non-statutory aggravating factors later 
+held invalid by the court of appeals. At sentencing, the 
+government offered again the evidence from the guilt phase 
+and called 13 additional witnesses (18 R. 1222-1354; 19 R. 
+1354-1540)— only one of whom (McBride’s mother) provided 
+new information relating to the non-statutory aggravating 
+factors at issue here. See 19 R. 1526-1539. None of the 
+government’s six rebuttal witnesses provided information 
+relating to those non-statutory aggravating factors. See 23 
+R. 2346-2463; 24 R. 2464-2698. 
+
+The government also made comparatively little mention of 
+the victim-related non-statutory aggravating factors in its 
+argument to the jury at sentencing. Each factor was 
+addressed in a single paragraph of the government’s opening 
+that did little more than restate the factor. See 18 R. 1203. 
+The government’s closing argument on those factors was 
+also relatively brief. See 25 R. 2733-2734. There was more 
+mention of the factors in rebuttal, but discussion of them did 
+not consume a major part of the argument. See 25 R. 2773, 
+2775-2776, 2784-2785. 
+
+Considering the lack of emphasis on Factors 3(B) and 
+3(C), the jury must have relied far more heavily on the 
+statutory aggravating factors involving the extremely 
+aggravated circumstances of the crime: petitioner kid- 
+napped McBride without provocation, raped and sodomized 
+her, kept her bound and gagged in his closet while he made 
+sexual advances toward another woman, forced her to clean 
+herself to eliminate signs of the rape, and then brutally 
+murdered her with extreme physical force because he feared 
+she might identify him. See pp. 1-3, supra. Contrast 
+Clemons, 494 U.S. at 753 (in which “the State repeatedly 
+emphasized and argued the [invalid] factor during the 
+sentencing hearing” but “placed little emphasis on the [valid] 
+
+
+49 
+
+
+factor”). It is therefore clear, beyond a reasonable doubt, 
+that the jury would have reached the same recommendation 
+even if Factors 3(B) and 3(C) had never been submitted for 
+its consideration. 
+
+
+C. The Court Of Appeals Conducted An Adequate 
+Harmless-Error Inquiry 
+
+
+In affirming petitioner's sentence, the court of appeals 
+elected “to redact the invalid aggravating factors and recon- 
+sider the entire mix of aggravating and mitigating circum- 
+stances presented to the jury.” J.A. 121-122 (quotation 
+marks and citation omitted). On that basis, the court of 
+appeals concluded that “the error was harmless because the 
+death sentence would have been imposed beyond a 
+reasonable doubt had the invalid aggravating factors never 
+been submitted to the jury.“ J. A. 122-123. Petitioner argues 
+(Br. 47) that the court of appeals failed to give an adequate 
+explanation of its harmless-error finding. The harmless- 
+error analysis of the court of appeals, however—although 
+not as detailed as might be desired—satisfied the require- 
+ments of the Constitution. 
+
+This Court’s cases make clear that a court of appeals must 
+
+
+make “a thorough analysis of the role an invalid aggravating 
+factor played in the sentencing process.” Stringer, 503 U.S. 
+at 230; Clemons, 494 U.S. at 753. Contrary to petitioner’s 
+contention, however, the Court has not held that the Consti- 
+tution requires “an articulation of how much weight [the 
+reviewing court] believels] the jury assigned to each ag- 
+gravating and mitigating factor” (Br. 43) or a detailed discus- 
+sion of “the evidence admitted to establish the invalid 
+aggravating factor, and the nature, quality, and strength of 
+the mitigating evidence” (id. at 43 n.33). 
+
+The court of appeals carefully reviewed and correctly 
+stated the applicable legal standards for harmless-error re- 
+view. J.A. 119-121. The court then considered the number 
+
+
+and strength of the remaining, valid aggravating factors 
+
+
+50 
+
+
+(J. A. 122), the mitigating factors (ibid.; see also J. A. 86 & 
+n.3), and the prosecutor’s argument at sentencing (J.A. 122). 
+The court noted that the jury found two statutory aggrava- 
+ting factors—that petitioner “caused the death of the victim 
+during the commission of the offense of kidnapping; and the 
+offense was committed in an especially heinous, cruel, and 
+depraved manner in that it involved torture or serious 
+physical abuse of the victim.” Ibid. The court also observed 
+that, alt the sentencing hearing, the government placed 
+great emphasis on the two statutory factors found 
+unanimously by the jury.” Jbid. The court might have 
+discussed those considerations in more detail, and might 
+have discussed the evidence presented at the sentencing 
+hearing, but its failure to do so does not render its analysis 
+constitutionally inadequate. Contrast Clemons, 494 U.S. at 
+753 (state supreme court’s opinion contained only one 
+sentence stating that error was harmless without any expla- 
+nation); Sochor v. Florida, 504 U.S. 527, 539-540 (1992) (state 
+supreme court’s opinion did not even mention harmless 
+error). 
+
+
+CONCLUSION 
+The decision of the court of appeals should be affirmed. 
+
+
+Respectfully submitted. 
+
+SETH P. WAXMAN 
+Solicitor G 
+
+JAMES K. ROBINSON 
+Assistant Attorney General 
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+MATTHEW D. ROBERTS 
+Assistant to the Solicitor 
+
+General 
+
+SEAN CONNELLY 
+
+Attorney 
+
+
+JANUARY 1999 
+
+
+APPENDIX A 
+
+
+STATE STATUTES EXPLICITLY PROVIDING FOR 
+COURT-IMPOSED SENTENCE IF CAPITAL 
+SENTENCING JURY CANNOT AGREE 
+
+
+1. Ga. Code Ann. § 17-10-31.1(c) (Harrison 1997) (“Where a 
+jury has been impaneled to determine sentence and the jury 
+has unanimously found the existence of at least one statutory 
+aggravating circumstance but is unable to reach a unanimous 
+verdict as to sentence, the judge shall dismiss the jury and 
+shall impose a sentence of either life imprisonment or 
+
+
+imprisonment for life without parole.”) 
+
+
+2. Kan. Stat. Ann. § 21-464(e) (1995) (“If, after a reason- 
+able time for deliberation, the jury is unable to reach a ver- 
+dict, the judge shall dismiss the jury and impose a sentence 
+of imprisonment as provided by law.”) 
+
+
+3. La. Code Crim. Proc. Ann. art. 905.8 (West 1997) (“If 
+
+
+the jury is unable to unanimously agree on a determination, 
+the court shall impose a sentence of life imprisonment with- 
+
+
+out benefit or probation, parole or suspension of sentence.”) 
+
+
+4. Md. Code Ann., art. 27, § 413(k)(2) (1996) (“If the jury, 
+within a reasonable time, is not able to agree as to whether a 
+sentence of death shall be imposed, the court may not impose 
+a sentence of death.”) 
+
+
+5. Miss. Code Ann. § 99-19-101(3)(c) (1994) (“If, after the 
+trial of the penalty phase, the jury does not make the find- 
+ings requiring the death sentence or life imprisonment with- 
+out eligibility for parole, or is unable to reach a decision, the 
+court shall impose a sentence of life imprisonment.”); id. § 99- 
+19-103 (“If the jury cannot, within a reasonable time, agree 
+as to punishment, the judge shall dismiss the jury and im- 
+pose a sentence of imprisonment for life.”) 
+
+
+(la) 
+
+
+2a 
+
+
+6. Mo. Ann. Stat. § 565.030.4 (West 1979 & Supp. 1998) (“If 
+the trier is a jury it shall be instructed before the case is 
+submitted that if it is unable to decide or agree upon the 
+punishment the court shall assess and declare the punish- 
+ment at life imprisonment without eligibility for probation, 
+parole, or release except by act of the governor or death.”) 
+
+
+7. Nev. Rev. Stat. Ann. § 175.556(1) (Michie 1997) (“In a 
+case in which the death penalty is sought, if a jury is unable 
+to reach a unanimous verdict upon the sentence to be 
+imposed, the supreme court shall appoint two district judges 
+* * * who shall with the district judge who conducted the 
+trial * * * conduct the required penalty hearing * * * and 
+give sentence accordingly.”) 
+
+
+8. N. H. Rev. Stat. Ann. § 630.5(1X) (1996) (“If the jury 
+cannot agree on he punishment within a reasonable time, 
+the judge shall impose the sentence of life imprisonment 
+without possibility of parole.”) 
+
+
+9. NJ. Stat. Ann. § 2C:11-3(c)(3)(c) (West 1995 & Supp. 
+1998) (“If the jury is unable to reach a unanimous verdict, 
+the court shall sentence the defendant pursuant to subsec- 
+tion b,” (which provides for a variety of lesser sentences de- 
+pending on the circumstances.)) 
+
+
+10. N. M. Stat. Ann. § 31-20A-3 (Michie 1994) (“Where 
+* * * the jury is unable to reach a unanimous verdict, the 
+court shall sentence the defendant to life imprisonment.”) 
+
+
+11. N.Y. Crim. Pro. Law § 400.27.11(c) (McKinney Supp. 
+1999) (“In the event the jury is unable to reach unanimous 
+agreement, the court must sentence the defendant” to a non- 
+
+
+capital sentence.) 
+
+
+12. N.C. Gen. Stat. § 15A-2000(b) (1997) (“If the jury can- 
+not, within a reasonable time, unanimously agree to its sen- 
+
+
+3a 
+
+
+tence recommendation, the judge shall impose a sentence of 
+life imprisonment; provided, however, that the judge shall in 
+no instance impose the death penalty when the jury cannot 
+agree unanimously to its sentence recommendation.”) 
+
+
+13. 21 Okla. Stat. Ann. tit. 21, § 701.11 (West 1983 & Supp. 
+1999) (“If the jury cannot, within a reasonable time, agree as 
+to punishment, the judge shall dismiss the jury and impose a 
+sentence of imprisonment for life without parole or imprison- 
+ment for life.”) 
+
+
+14. 42 Pa. Cons. Stat. Ann. § 9711(c)(1)(v) (West 1998) 
+The court may, in its discretion, discharge the jury if it is 
+of the opinion that further deliberation will not result in a 
+unanimous agreement as to the sentence, in which case the 
+court shall sentence the defendant to life imprisonment.”) 
+
+
+15. S.C. Code Ann. § 16-3-20 (Supp. 1997) (“If members of 
+the jury after a reasonable deliberation cannot agree on a 
+recommendation as to whether or not the death sentence 
+should be imposed on a defendant found guilty of murder, 
+the trial judge shall dismiss such jury and shall sentence the 
+defendant to life imprisonment as provided in subsection 
+(A).”) 
+
+
+16. Tenn. Code Ann. § 39-13-204(h) (1997 & Supp. 1998) (If, 
+after further deliberations [following the jury’s inability to 
+agree on death sentence and the trial judge’s instruction to 
+consider only non-capital sentences], the jury still cannot 
+agree as to sentence, the trial judge shall dismiss the jury 
+
+
+and such judge shall impose a sentence of imprisonment for 
+life.”) 
+
+
+17. Tex. Crim. P. Code Ann., art. 37.071.2(g) (West Supp. 
+1999) (“If the jury * * * is unable to answer any issue 
+submitted under Subsection (b) or (e) of this article, the 
+
+
+da 
+
+
+court shall sentence the defendant to confinement * * * for 
+life.“) 
+
+
+18. Utah Code Ann. § 76-3-207(4)(c) (Supp. 1998) (“If the 
+jury is unable to reach a unanimous decision imposing the 
+sentence of death, * * * the jury shall then determine 
+whether the penalty of life in prison without parole shall be 
+imposed. * * * If ten jurors or more do not agree upon a 
+sentence of life in prison without parole, the court shall dis- 
+charge the jury and impose the sentence of life imprisonment 
+with the possibility of parole.”) 
+
+
+19. Va. Code Ann. § 19.2-264.4(E) (Michie 1996) (“In the 
+event the jury cannot agree as to the penalty, the court shall 
+dismiss the jury, and impose a sentence of imprisonment for 
+life.“) 
+
+
+20. Wyo. Stat. Ann. § 6-2-102(e) (Michie 1997) (“If the jury 
+cannot, within a reasonable time, agree on the punishment to 
+be imposed, the judge shall impose a life sentence.”) 
+
+
+5a 
+APPENDIX B 
+
+
+STATE STATUTES PROVIDING BY IMPLICATION 
+FOR COURT-IMPOSED SENTENCE IF CAPITAL 
+SENTENCING JURY CANNOT AGREE 
+
+
+1. Ark. Code Ann. § 5-4-603(c) (Michie 1997) (“If the jury 
+does not make all findings required by subsection (a) of this 
+section, the court shall impose a sentence of life imprison- 
+ment without parole.”) 
+
+
+2. 720 Ill. Comp. Stat. Ann. 5/9-1(g) (West 1993 & Supp. 
+1998) (“Unless the jury unanimously finds that there are no 
+mitigating factors sufficient to preclude the imposition of the 
+death sentence the court shall sentence the defendant to a 
+term of imprisonment * * * .”) 
+
+8. Ohio Rev. Code Ann. § 2929.03(D)(2) (Anderson 1996) 
+(“If the trial jury unanimously finds, by proof beyond a 
+reasonable doubt, that the aggravating circumstances the 
+offender was found guilty of committing outweigh the 
+mitigating factors, the trial jury shall recommend to the 
+court that the sentence of death be imposed on the offender. 
+Absent such a finding, the jury shall recommend that the 
+offender be sentenced to one of the following” non-capital 
+sentences.) 
+
+
+4. Or. Rev. Stat. § 163.150(2)(a) (1990 & Supp. 1998) 
+(“Upon the conclusion of the presentation of the evidence, 
+the court shall also instruct the jury that if it reaches a 
+negative finding on any issue under subsection (1)(b) of this 
+section, [which includes whether the defendant should 
+receive a death sentence, ] the trial court shall sentence the 
+defendant to life imprisonment without the possibility of 
+release or parole *** ™): id. § 163.150(1)(c)(B) (1997) 
+(“The court shall instruct the jury to answer the question 
+{whether the defendant should receive a death sentence] 
+
+
+6a 
+
+
+“no” if, * * * one or more of the jurors believe that the 
+defendant should not receive a death sentence.”) 
+
+
+5. Wa. Rev. Code Ann. § 10.95.080(2) (West 1990) (“If the 
+jury does not return an affirmative answer to the question 
+posed in RCW 10.95.060(4) [i.e., whether jury is convinced 
+beyond a reasonable doubt that there are not sufficient miti- 
+gating circumstances to warrant a sentence less severe than 
+death], the defendant shall be sentenced to life imprisonment 
+as provided in RCW 10.95.030(1).”); id. § 10.95.060(4) (West 
+1990) (“In order to return an affirmative answer to the 
+question posed by this subsection, the jury must so find 
+unanimously.”) 
+
+
+7a 
+
+
+APPENDIX C 
+
+
+REFERENCES BY THE PROSECUTION IN ITS 
+SENTENCING ARGUMENT TO THE NON-STATUTORY 
+AGGRAVATING FACTORS HELD INVALID BY THE 
+COURT OF APPEALS 
+
+
+1. References in Opening Argument: 
+As to Factor 3(B), the prosecutor stated: 
+
+
+You can look at such things as Tracie McBride’s phy- 
+sical characteristics, her slight stature, 5’1”, 100 pounds, 
+her unfamiliarity with the San Angelo area, her training 
+and background in relation to this defendant. Those are 
+things that you can look at in deciding whether this is an 
+aggravating factor you should find beyond a reasonable 
+doubt. 
+
+
+As to Factor 3(C), the prosecutor stated: 
+
+
+You may look at such things as the impact of the crime 
+on the victim’s family, and the characteristics of this 
+particular victim. What made Tracie McBride Tracie 
+McBride. How was she different than other people, what 
+her past was like, what her future was going to be like. 
+Those are things that our law says you can consider. 
+And again, after each of these items, if the government 
+has proved them to you beyond a reasonable doubt and 
+you unanimously agree on that, then you sign your 
+verdict by each of those special aggravating circum- 
+stances yes, that you do find those aggravating factors 
+exist. 
+
+
+18 R. at 1203. 
+
+
+8a 
+
+
+2. References in Closing Argument: 
+As to Factor 3(B), the prosecutor argued: 
+
+
+You can consider Tracie McBride’s young age, her 
+slight stature, her background, her unfamiliarity with 
+the San Angelo area. Again, you recall the testimony 
+concerning Tracie. She is barely five feet tall [and] 
+weighs approximately 100 pounds. He picks the ideal vic- 
+tim. Someone that is small, certainly has no semblance of 
+the training that he has. He gets someone that has 
+recently come to the San Angelo area so she has no 
+familiarity. I mean, once she gets off the base she has no 
+idea where she is. And all these are factors that you may 
+consider. 
+
+
+25 R. at 2733-2734 
+
+
+As to Factor 3(C), the prosecutor argued: 
+
+
+And finally you can consider as an aggravator Tracie’s 
+personal characteristics and the effects of the instant 
+offense on her family. 
+
+
+Let me talk a minute about Tracie McBride. You 
+heard about this young woman, you heard about her from 
+her mother, you heard [in the guilt phase] from her 
+friends that knew her. She was special, she was unique, 
+she was loving, she was caring, she had a lot to offer this 
+world, but not anymore thanks to the defendant. The 
+effect on the family, you have seen her mother on the 
+
+
+9a 
+
+
+3. References in Rebuttal Argument: 
+As to Factor 3(B), the prosecutor argued: 
+
+
+You can look at her training and her experience in 
+relation to this 22-year Army ranger. Those are things 
+you can look at. The court, the law says you can. And you 
+can ascribe them whatever weight you want. If you 
+
+
+think they are important, say so by your verdict. 
+
+
+25 R. at 2776. 
+
+
+As to Factor 3(C), the prosecutor argued: 
+
+
+There are other aggravators that the law also says you 
+can look at, and we have alleged those because we have 
+to allege them before we can bring them to you. We can 
+talk to you, there is a forum in this country for victims 
+too, and we can bring you things about Tracie McBride. 
+In fact, I think just about everyone of you on your 
+questionnaires talked about how you would want to know 
+something about the victim, what kind of person she is. 
+And that is admirable, because I think they are for- 
+gotten. A lot of what [defense counsel] said is absolutely 
+right. They are forgotten a lot. But you wanted to know 
+information and we brought you that information. I am 
+sorry that I can’t bring commendations that Tracie 
+McBride got from Desert Storm and Grenada and all of 
+her experiences in the Airborne Rangers because Louis 
+Jones didn’t let her get there. 
+
+
+stand. You have heard that her father has nightmares 25 R. 2775. 
+
+
+about trying to put her head back together again. You Lat 
+have seen the effect that it had on the mother, her wai the prosecutor responded to defense arguments by 
+
+
+brothers and sisters, her friends. You know, what can I 
+say that could drive that home having witnessed the They want you to walk a mile in his shoes. You are 
+allowed to walk a mile in Tracie McBride’s boots for a 
+
+
+mother having to testify as to the loss of a daughter. 
+25 R. 2784 minute. You are allowed to do that. She was a special 
+‘ . person. I didn’t know her. I feel like I know her, but I 
+
+
+10a 
+
+
+didn’t know her. Thanks to Louis Jones, we never will. 
+So the best we can do is bring precious photographs that 
+this family has provided, and we can hear about all she 
+contributed in her 19 years. We can hear about that. 
+And then we can hear about her wanting to get married, 
+and wanting to have kids, wanting ironically enough to 
+be either a teacher of maybe even an airborne ranger. 
+The irony is amazing. 
+25 R. 2783-2784. 
+
+Finally, the prosecutor reminded jurors of the victim at 
+various times in addressing a statutory aggravating factor, 
+the defense mitigation, and the ultimate issue of whether 
+defendant should be sentenced to death. See 25 R. 2773 
+(arguing that defendant caused grave risk of death to 
+another (Peacock): “If you don’t think that that man sitting 
+right over there when he is wielding a blunt instrument to 
+somebody’s head isn’t causing a grave risk, tell Tracie 
+McBride’s parents that”); 25 R. 2775 (responding to defense 
+mitigation regarding defendant’s allegedly abused childhood: 
+“Maybe it would have been better if Tracie McBride had 
+been set on the stove and sexually assaulted, abused all her 
+life. Would people feel sorry for her then.”); 25 R. 2785 
+(arguing against non-capital sentence, noting that Tracie 
+McBride’s parents did not have option of having their 
+daughter alive but in prison). 
+
+
+lla 
+APPENDIX D 
+
+
+RELEVANT FEDERAL RULES 
+1. Fed. R. Crim. P. 30 provides, in relevant part: 
+
+
+No party may assign as error any portion of the charge 
+or omission therefrom unless that party objects thereto 
+
+
+before the jury retires to consider its verdict, stating 
+distinctly the matter to which that party objects and the 
+grounds of the objection. Opportunity shall be given to 
+make the objection out of the hearing of the jury and, on 
+
+
+request of any party, out of the presence of the jury. 
+2. Fed. R. Crim. P. 52 provides: 
+
+
+(a) Harmless Error. Any error, defect, irregularity 
+or variance which does not affect substantial rights shall 
+be disregarded. 
+
+(b) Plain Error. Plain errors or defects affecting sub- 
+
+
+stantial rights may be noticed although they were not 
+brought to the attention of the court. 
+
+
+3. Fed. R. Evid. 606(b) provides: 
+
+
+Inquiry into validity of verdict or indictment. 
+Upon inquiry into the validity of a verdict or indictment, 
+a juror may not testify as to any matter or statement 
+occurring during the course of the jury’s deliberations or 
+to the effect of anything upon that or any other juror’s 
+mind or emotions as influencing the juror to assent to or 
+dissent from the verdict or indictment or concerning the 
+juror’s mental processes in connection therewith, except 
+that a juror may testify on the question whether ex- 
+traneous prejudicial information was improperly brought 
+to the jury’s attention or whether any outside influence 
+
+
+12a 
+
+
+was improperly brought to bear upon any juror. Nor 
+may a juror’s affidavit or evidence of any statement by 
+the juror concerning a matter about which the juror 
+would be precluded from testifying be received for these 
+
+
+purposes. 
+
+
+4. Fed. R. Evid. 1101(d) provides, in relevant part: 
+
+
+Rules inapplicable. The rules (other than with 
+respect to privileges) do not apply in the following 
+situations: 
+
+
+R * & *& * 
+
+
+(3) Miscellaneous proceedings. Proceedings for ex- 
+tradition or rendition; preliminary examinations in 
+criminal cases; sentencing, or granting or revoking pro- 
+b ation 
+
+

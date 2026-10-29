@@ -1,0 +1,55 @@
+{
+  "repository": "Alex-Oss222/scotus-career",
+  "scope": "Six inherited commit-reference existence checks deferred by no-Git adapter",
+  "checks": [
+    {
+      "reference": "0bdb63c7",
+      "resolved_sha": "0bdb63c7fec7999f045d5633efbcb71630c112dd",
+      "exists": true,
+      "http_status": 200,
+      "url": "https://api.github.com/repos/Alex-Oss222/scotus-career/commits/0bdb63c7",
+      "method": "GET with SHA-only media type; no commit diff or Git command"
+    },
+    {
+      "reference": "3a04640b",
+      "resolved_sha": "3a04640b9ff6ad4f3f2cbb12957d150937654558",
+      "exists": true,
+      "http_status": 200,
+      "url": "https://api.github.com/repos/Alex-Oss222/scotus-career/commits/3a04640b",
+      "method": "GET with SHA-only media type; no commit diff or Git command"
+    },
+    {
+      "reference": "6dc56753",
+      "resolved_sha": "6dc56753ba2a834df7145c666ed6dc61bd6247e6",
+      "exists": true,
+      "http_status": 200,
+      "url": "https://api.github.com/repos/Alex-Oss222/scotus-career/commits/6dc56753",
+      "method": "GET with SHA-only media type; no commit diff or Git command"
+    },
+    {
+      "reference": "95515c52",
+      "resolved_sha": "95515c52e0e034899f8282d845f082c3359c673d",
+      "exists": true,
+      "http_status": 200,
+      "url": "https://api.github.com/repos/Alex-Oss222/scotus-career/commits/95515c52",
+      "method": "GET with SHA-only media type; no commit diff or Git command"
+    },
+    {
+      "reference": "c09ee281",
+      "resolved_sha": "c09ee28104f12bfbb9c1d115bc5a1cdf1316b790",
+      "exists": true,
+      "http_status": 200,
+      "url": "https://api.github.com/repos/Alex-Oss222/scotus-career/commits/c09ee281",
+      "method": "GET with SHA-only media type; no commit diff or Git command"
+    },
+    {
+      "reference": "dba1f2f8",
+      "resolved_sha": "dba1f2f866ca328db16e53709be9ead64bfa0ba2",
+      "exists": true,
+      "http_status": 200,
+      "url": "https://api.github.com/repos/Alex-Oss222/scotus-career/commits/dba1f2f8",
+      "method": "GET with SHA-only media type; no commit diff or Git command"
+    }
+  ],
+  "all_resolved": true
+}

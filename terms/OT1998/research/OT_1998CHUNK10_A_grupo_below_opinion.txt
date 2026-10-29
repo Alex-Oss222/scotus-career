@@ -1,0 +1,342 @@
+Source: https://openjurist.org/143/f3d/688
+¶1
+      Grupo Mexicano de Desarrollo, S.A.  ("GMD") is a Mexican holding company that, through its subsidiaries and joint ventures, constructs and operates roadways.  From 1990 to 1994, GMD participated in the Mexican government's program to develop an intercity highway network.  Under this program, the Mexican government granted concessions to build and operate toll roads to companies that were willing to arrange private financing for the construction of the roads.  Due to economic uncertainty, currency devaluation and other factors, the revenues from toll road traffic fell below anticipated levels.
+
+    
+
+    
+      ¶2
+      In February, 1994, in order to retire more than $100 million of high interest Mexican bank debt and to secure working capital to fund ongoing operations, GMD offered and sold to institutional investors $250 million of 8.25% notes due in 2001 (the "Notes").  The Notes are guaranteed by the five GMD subsidiaries named as co-defendants (collectively "Guarantors").  The Notes require GMD to pay interest at an annual rate of 8.25% on February 17 and August 17 of each year.
+
+    
+
+    
+      ¶3
+      The Notes are "unconditionally and irrevocably" guaranteed by the Guarantors.  Both the Notes and the Guarantees are unsecured obligations that rank pari passu with all other present or future unsecured and unsubordinated indebtedness of GMD. The Plaintiffs are eleven United States investment funds that purchased approximately $75 million of the Notes (collectively "the Investors").
+
+    
+
+    
+      ¶4
+      Three years later, GMD experienced serious financial difficulty.  In its annual report, filed with the SEC in June, 1997, GMD admitted that its liabilities now exceeded its assets.  GMD expressed "substantial doubt" that it could continue as a going concern.  In August, 1997, GMD failed to make the interest payment on the Notes.  The Guarantors similarly failed to step up and meet their obligations.  Because of this default, the plaintiff-Investors caused acceleration of the principal.
+
+    
+
+    
+      ¶5
+      Ten days later, the Mexican government came to the rescue by implementing the Toll Road Rescue Program.  Mexico promised to issue government guaranteed Toll Road Notes to GMD and other toll road operators to reimburse them for unpaid construction receivables and expenses.  In return for the Toll Road Notes, the Mexican government will eventually take over ownership and operation of the toll roads.  Although the notes have not been distributed, GMD disclosed in its Third Quarter 1997 financial statement that it expected to receive $309 million in Toll Road Notes.
+
+    
+
+    
+      ¶6
+      In addition to the debt owed to the Investors, GMD owed more than $450 million to other creditors.  Its five largest creditors were the Mexican government, numerous Mexican banks, additional Mexican financial institutions, trade creditors, and terminated employees (collectively "Mexican Creditors").  Because the Mexican government's program would not fully alleviate its financial difficulties, GMD began to restructure its debt, reduce costs, and seek additional equity contributions.  GMD undertook to negotiate with both the Investors and the Mexican Creditors to settle its financial obligations.
+
+    
+
+    
+      ¶7
+      A Reuters report received by the Investors on August 27, 1997 revealed that GMD had begun to renegotiate its $256 million debt to the Mexican banks.  GMD was asking for a 67% discount from the banks to match GMD's losses on the toll road investment.  At the same time, GMD was also negotiating with the Investors to settle its obligations under the Notes.
+
+    
+
+    
+      ¶8
+      One month later, the other shoe dropped.  GMD issued a press release stating that during the first nine months of 1997, it had revenues of approximately $119 million, but an expected loss of approximately $802 million.  After totaling its assets and debts, GMD had a negative net worth of $214 million.  To the alarm of the Investors, the press release also disclosed that GMD had already assigned $117 million in Toll Road Notes to settle other obligations--$100 million to the Mexican government to pay taxes and $17 million to pay severance packages to terminated workers in accordance with Mexican law.  Although GMD did not have possession of the Toll Road Notes, it placed certain assets in "trust" for these creditors with the understanding that the encumbered assets would later be exchanged for Toll Road Notes.
+
+    
+
+    
+      ¶9
+      On December 12, 1997, the Investors commenced an action in the United States District Court for the Southern District of New York (Martin, J.), alleging that GMD had defaulted on its obligation under the Notes.  The Investors sought, inter alia, damages for GMD's breach of its contractual obligations under the Notes and a preliminary injunction restraining GMD from assigning the Toll Road Notes.  By order to show cause, the Investors secured a temporary restraining order precluding the transfer or encumbrance of the Toll Road Notes.  Judge Martin set a hearing on the motion for a preliminary injunction for December 19, 1997.
+
+    
+
+    
+      ¶10
+      One day before the hearing, GMD filed it opposition papers.  In an affidavit, GMD's Senior Vice President Jorge Zapata revealed that GMD had made additional, previously undisclosed assignments of $38 million in Toll Road Notes to the Mexican banks.  The next day, during a break in the hearing before Judge Martin, the clouds further darkened.  GMD gave the Investors a supplemental affidavit of Jorge Zapata stating that:  (1) $137 million (and not the originally reported $100 million) in Toll Road Notes had been assigned to the Mexican government;  (2) $30 million (not $17 million) in Toll Road Notes had been assigned to former employees;  (3) $48 million had been assigned to Mexican banks;  and (4) $42.5 million had been assigned to other Mexican Creditors.  Adding it all up, GMD had assigned between $214 million and $258 million of Toll Road Notes.  GMD also planned to make still further assignments, leaving only $5.5 million in Toll Road Notes to satisfy the $75 million debt owed to the Investors.
+
+    
+
+    
+      ¶11
+      Following a second hearing on December 23rd, Judge Martin granted the preliminary injunction (under Fed.R.Civ.P. 65) restraining GMD and the Guarantors from dissipating, transferring, conveying, or otherwise encumbering the Investor's right to receive or benefit from the issuance of the Toll Road Notes.  He determined that the Investors satisfied their burden for the issuance of a preliminary injunction because:  (1) they would almost certainly succeed on their breach of contract claims against GMD;  and (2) without the injunction they faced an irreparable injury since GMD's financial condition and its dissipation of assets would frustrate any judgment recovered.  GMD now appeals.
+
+    
+
+    DISCUSSION
+
+    
+      ¶12
+      I. Power of the District Court to Enjoin the Use of Unrelated Assets
+
+    
+
+    
+      ¶13
+      GMD argues that, under Fed.R.Civ.P. 65, a district court is powerless to enjoin the use of a specific asset unless the plaintiff claims an equitable interest in the asset.  Because the Toll Road Notes are unrelated to the Guarantee Notes on which the Investors brought suit, GMD contends that Judge Martin could not enjoin the transfer of Toll Road Notes.  GMD believes that Fed.R.Civ.P. 64 is the only procedural mechanism to prevent a litigant from concealing or transferring assets in order to frustrate a potential judgment.  The two Rules, however, are complementary, not mutually exclusive.
+
+    
+
+    A. Rule 64 and Rule 65
+
+    
+      ¶14
+      Under Federal Rule of Civil Procedure 64, "all remedies providing for the seizure of the person or property for the purpose of securing satisfaction of the judgment ultimately to be entered in the action are available under the circumstances and in the manner provided by the law of the state in which the district court is held."  Fed.R.Civ.P. 64.  The available remedies include arrest, attachment, garnishment, replevin, sequestration, and "other corresponding or equivalent remedies, however designated and regardless of whether by state procedure the remedy is ancillary to an action or must be obtained by an independent action."  Id. We have recognized that injunctive relief may be granted under Rule 64 if authorized by the applicable state law.  See In re Feit & Drexler, 760 F.2d 406, 415 n. 2 (2d Cir.1985);  see also, Federal Deposit Ins. Corp. v. Antonio, 843 F.2d 1311, 1313-14 (10th Cir.1988) (enjoining use of assets under Colorado law);  cf.  Chemical Bank v. Haseotes, 13 F.3d 569, 572-73 (2d Cir.1994) (affirming district court's denial of injunctive relief under N.Y. U.C.C. § 8-317(6)).
+
+    
+
+    
+      ¶15
+      Federal Rule of Civil Procedure 65 establishes the procedure for securing preliminary injunctive relief in civil actions.  The purpose of a preliminary injunction is to preserve the status quo between parties pending a final determination of the merits.  See Arthur Guinness & Sons, PLC v. Sterling Publishing Co., 732 F.2d 1095, 1099 (2d Cir.1984) (citations omitted).  The court is vested with full discretion to determine whether to grant the injunction and its scope.  See Hecht Co. v. Bowles, 321 U.S. 321, 329, 64 S.Ct. 587, 592, 88 L.Ed. 754 (1944)("An appeal to the equity jurisdiction conferred on federal district courts is an appeal to the sound discretion which guides the determinations of courts of equity.")  (quotation omitted).  However, we have noted that injunctive relief seeking to prohibit conduct outside of the district court's jurisdiction should be "exercised with great reluctance."  Vanity Fair Mills, Inc. v. T. Eaton Co., 234 F.2d 633, 647 (2d Cir.1956).
+
+    
+
+    
+      ¶16
+      All parties acknowledge that Judge Martin could not have enjoined the use of the Toll Road Notes under Rule 64 (and New York's injunction statute) because the Investors sought only monetary damages.  Under New York law, "a preliminary injunction is ... unavailable in an action for a sum of money only."  N.Y. C.P.L.R. § 6301, Practice Commentaries (McKinney 1980) (Joseph M. McLaughlin) (citing Campbell v. Ernest, 19 N.Y.S. 123 (1892)).  Furthermore, the use of New York's attachment statute would be unavailing because the Toll Road Notes are not located in New York State.  See National Broadway Bank v. Sampson, 179 N.Y. 213, 222, 71 N.E. 766 (1904) ("No state can subject to its law either real or personal property which is out of its jurisdiction.");   12 Carmody-Wait 2d § 76.2, at 31-32 (1997) ("It is axiomatic that for property or a debt to be subject to attachment, the property must be amenable to the jurisdiction of the New York courts.").
+
+    
+
+    
+      ¶17
+      The mere fact that the property lies outside the boundaries of New York State does not render the court powerless.  If the court has personal jurisdiction over the defendant, and use of the court's injunctive power is appropriate, the court may order the defendant to bring the assets to New York or restrain the use of the assets.  See, e.g., Gresov v. Shattuck Denn Mining Corp., 29 Misc.2d 324, 215 N.Y.S.2d 98, 100 (N.Y.Sup.Ct.1961) ("Where jurisdiction of the parties is assumed, this court may render an injunctive decree having extraterritorial effect in appropriate circumstances.")  (citation omitted);  N.Y.Jur.2d  Equity § 14 (1986 & Supp.1997) ("A court of equity may direct any defendant upon whom process has been served in New York to perform whatever acts are commanded in the decree, notwithstanding the fact that some or all of such acts may require performance outside of the jurisdiction.");   cf. United States v. First Nat. City Bank, 379 U.S. 378, 384, 85 S.Ct. 528, 531, 13 L.Ed.2d 365 (1965) ("Once personal jurisdiction of a party is obtained, the District Court has authority to order it to 'freeze' property under its control, whether the property be within or without the United States.")  (citing New Jersey v. New York City, 283 U.S. 473, 482, 51 S.Ct. 519, 521, 75 L.Ed. 1176 (1931)).  Therefore, Judge Martin had the power to issue the injunction.
+
+    
+
+    B. Standard of Review
+
+    
+      ¶18
+      This Court reviews the district court's decision to grant a preliminary injunction for an abuse of discretion.  See Fun-Damental Too, Ltd. v. Gemmy Industries Corp., 111 F.3d 993, 999 (2d Cir.1997).  The district court "abuses its discretion only if it applies an incorrect legal standard, bases the preliminary injunction on a clearly erroneous finding of fact, or issues an injunction that contains an error in its form or substance."  Id. (citation omitted).
+
+    
+
+    
+      ¶19
+      C. Power of the District Court to Issue the Injunction
+
+    
+
+    
+      ¶20
+      This Court has approved the use of Rule 65 to freeze assets when those assets are the subject matter in dispute.  See Republic of Philippines v. Marcos, 806 F.2d 344 (2d Cir.1986).  Until now, however, we have not addressed whether the district court may issue an injunction to protect the plaintiff's right to recover monetary damages when there is a threat of defendant's insolvency or its dissipation of assets not directly involved in the pending litigation.  The Supreme Court, likewise, has not squarely decided this question, although we read its precedents to suggest that a preliminary injunction should be available under those circumstances.
+
+    
+
+    1. Supreme Court Precedents
+
+    
+      ¶21
+      GMD initially argues that De Beers Consol. Mines, Ltd. v. United States, 325 U.S. 212, 65 S.Ct. 1130, 89 L.Ed. 1566 (1945), bars the use of preliminary injunctions to freeze unrelated assets in any case seeking only monetary relief.  This is too sweeping a reading of De Beers.
+
+    
+
+    
+      ¶22
+      In De Beers, the government sued several foreign corporations and individuals for Sherman Act violations.  While the ultimate relief sought was a permanent injunction, the government sought a preliminary injunction restraining the corporate defendants from transferring assets outside the United States.  The government sought this interim relief to preserve its ability to seek civil contempt fines if the defendants later chose to flout the permanent injunction the government sought.  Id. at 215, 65 S.Ct. at 1132.   The Court held that the motion should have been denied, reasoning that the preliminary relief sought dealt "with a matter lying wholly outside the issues in the suit."  Id. at 220, 65 S.Ct. at 1134.
+
+    
+
+    
+      ¶23
+      The De Beers Court noted that the district court lacked power under the relevant federal laws to enter a money judgment--the only authorized remedy was an injunction against "future continuance of actions or conduct intended to monopolize or restrain commerce."  Id. at 219-20, 65 S.Ct. at 1134.   Because there was no possibility of an eventual money judgment, the district court could not issue an injunction freezing the use of assets.  The Court expressly distinguished De Beers from a situation where the injunction prevented the transfer of "a fund or property which would have been the subject of the provisions of any final decree."  Id. at 220, 65 S.Ct. at 1134 (citing Deckert v. Independence Shares Corp., 311 U.S. 282, 61 S.Ct. 229, 85 L.Ed. 189 (1940)).
+
+    
+
+    
+      ¶24
+      GMD contends that the Toll Road Notes are unrelated to GMD's obligations to the Investors.  Therefore, their argument runs, the Toll Road Notes are a "matter lying wholly outside the issues in the suit," and their transfer cannot be enjoined.  The actual scope of the De Beers holding is far narrower than GMD asserts.  De Beers "simply held that a defendant's money may not be encumbered by a preliminary injunction when the final merits judgment sought by plaintiffs cannot involve a transfer of money from defendants to plaintiffs.  In short, De Beers is simply inapplicable to cases in which a litigant seeks money damages."  Hoxworth v. Blinder, Robinson & Co., 903 F.2d 186, 197 (3d Cir.1990);  see In re Estate of Marcos, 25 F.3d 1467, 1478 (9th Cir.1994);  Reebok Int'l, Ltd. v. Marnatech Enters., Inc., 970 F.2d 552, 561 (9th Cir.1992).
+
+    
+
+    
+      ¶25
+      Limiting De Beers to cases where final equitable relief is all that is sought comports with the Supreme Court's other pronouncements concerning the availability of injunctive relief.  In Deckert v. Independence Shares Corp., 311 U.S. 282, 61 S.Ct. 229, 85 L.Ed. 189 (1940), plaintiffs sought an order enjoining the defendant from disposing of any assets pending the outcome of their damage action for fraudulent misrepresentation.  Plaintiffs alleged that the defendant "is insolvent and threatened with many law suits, that its business is virtually at a standstill because of unfavorable publicity, that preferences to creditors are probable, and that its assets are in danger of dissipation and depletion."  Id. at 285, 61 S.Ct. at 232.   The Court sustained the injunction because:
+
+    
+
+    
+      ¶26
+      the injunction was a reasonable measure to preserve the status quo pending final determination of the questions raised by the bill....  As already stated, there were allegations that [defendant] was insolvent and its assets in danger of dissipation or depletion.  This being so, the legal remedy against [defendant], without recourse to the fund ... would be inadequate.
+
+    
+
+    
+      ¶27
+      Id. at 290, 61 S.Ct. at 234.
+
+    
+
+    
+      ¶28
+      More recently, in United States v. First National City Bank, 379 U.S. 378, 85 S.Ct. 528, 13 L.Ed.2d 365 (1965), the Court upheld a preliminary injunction freezing assets in a suit seeking payment of back taxes.  Although there was statutory authority to grant an injunction, the Court painted with a broader brush:
+
+    
+
+    
+      ¶29
+      Once personal jurisdiction of a party is obtained, the District Court has authority to order it to "freeze" property under its control....
+
+    
+
+    
+      ¶30
+      ...
+
+    
+
+    
+      ¶31
+      The temporary injunction issued by the District Court seems to us to be eminently appropriate to prevent further dissipation of assets....  Unlike [De Beers ], there is here property which would be "the subject of the provisions of any final decree in the cause."  [citing De Beers, 325 U.S. at 220, 65 S.Ct. at 1134].  We conclude that this temporary injunction is "a reasonable measure to preserve the status quo."  [citing Deckert, 311 U.S. at 290, 61 S.Ct. at 234].
+
+    
+
+    
+      ¶32
+      379 U.S. at 384-85, 85 S.Ct. at 531-32.   The preliminary injunction freezing assets was thus upheld in order to assure the enforceability of an eventual money judgment.
+
+    
+
+    
+      ¶33
+      Deckert and First National endorse the district court's exercise of general equitable power to ensure the preservation of an adequate remedy.  See United States ex rel. Taxpayers Against Fraud v. Singer Co., 889 F.2d 1327, 1330 (4th Cir.1989) (affirming the issuance of a preliminary injunction preventing the dissipation of assets where the plaintiff alleged that the defendant was insolvent and its assets were in danger of dissipation;  rejecting defendant's argument that attachment proceedings under Rule 64 were required;  this construes "too narrowly the Supreme Court's approval of the exercise of general equitable power to protect a plaintiff's right to recovery") (citing, inter alia, Deckert, 311 U.S. at 285, 61 S.Ct. at 231-32);  Airlines Reporting Corp. v. Barry, 825 F.2d 1220, 1227 (8th Cir.1987) ("The authority of a trial court to issue a preliminary injunction to ensure the preservation of an adequate remedy is well established.")  (citing Deckert, 311 U.S. at 290, 61 S.Ct. at 234).
+
+    
+
+    
+      ¶34
+      It now seems to be settled in equity jurisprudence that a preliminary injunction is available to protect the plaintiff's right to recover monetary damages when there is a threat that the defendant will become insolvent or dissipate assets.  For example, in Hoxworth v. Blinder, Robinson & Co., 903 F.2d 186, 189 (3d Cir.1990), the Third Circuit held that a preliminary injunction was authorized in "extraordinary circumstances" in a suit seeking only money damages, such as when there is a possibility that the defendant would be insolvent at the time of judgment.  Similarly, the First Circuit, in Teradyne Inc. v. Mostek Corp., 797 F.2d 43, 52-53 (1st Cir.1986), held that it lay within the district court's power to enjoin the defendant from disposing of assets when there was a danger that the defendant would become insolvent prior to judgment.  See, e.g., In re Estate of Marcos, 25 F.3d 1467 (9th Cir.1994).  Concededly, not all Circuits agree.  See Rosen v. Cascade Int'l, Inc., 21 F.3d 1520 (11th Cir.1994);  In re Fredeman Litig., 843 F.2d 821 (5th Cir.1988).
+
+    
+
+    2. Second Circuit precedent
+
+    
+      ¶35
+      Capitalizing on this split of authority, GMD maintains that this Court's case law is consistent with the minority view espoused by Rosen.   None of our cases cited by GMD align us with the minority view.
+
+    
+
+    
+      ¶36
+      GMD cites Republic of Philippines to support its argument that we have restricted the application of Rule 65.  However, Republic of Philippines stands for the unremarkable proposition that a federal court may enjoin the transfer of assets that constitute the subject matter of the dispute.  806 F.2d at 356.   It is utterly silent on whether a district court may enjoin the transfer of unrelated assets.
+
+    
+
+    
+      ¶37
+      GMD's reliance on In re Feit & Drexler, 760 F.2d 406 (2d Cir.1985), is also off the mark.  In Feit & Drexler, the defendant appealed a district court's injunction ordering the defendant to turn all her property capable of delivery over to an escrow agent.  Id. at 409-10.   The district court, ignoring Rule 65, had issued the injunction under Rule 64 and New York's injunction statute.  The defendant argued that the district court should have applied Rule 65 (which could not have been satisfied).  Refusing to decide whether Rule 64 or Rule 65 should have been applied, we simply held that "the district court committed no reversible error since its findings and conclusions amply satisfied both the state test and this Circuit's test for the granting of preliminary injunctions."  Id. at 415.   In a footnote, we noted that Rule 64 and state law might "perhaps [be] required" for a prejudgment freeze of assets:
+
+    
+
+    
+      ¶38
+      If the mandatory injunction here is a "remed[y] providing for seizure of person or property for the purpose of securing satisfaction of the judgment ultimately to be entered in the action," the district court's application of the New York standard was entirely proper and perhaps even required.
+
+    
+
+    
+      ¶39
+      Id. at 415 n. 2 (citations omitted).  We qualified this dictum, however, by noting that Rule 65 was an "appropriate" mechanism for prejudgment freeze of assets under certain conditions:
+
+    
+
+    
+      ¶40
+      [E]ven where the ultimate relief sought is money damages, federal courts have found preliminary injunctions appropriate where it has been shown that the defendant "intended to frustrate any judgment on the merits" by "transfer[ring its assets] out of the jurisdiction....  [T]his is an appropriate case for the issuance of injunctive relief to prevent [the defendant] from making uncollectible any judgment the [plaintiff] may eventually obtain against her....[W]ithout  injunctive relief an eventual money judgment was likely to be "ineffectual"....
+
+    
+
+    
+      ¶41
+      Id. at 416 (citations omitted).
+
+    
+
+    
+      ¶42
+      In light of the Supreme Court's precedents indicating the broad scope of a district court's power to grant injunctive relief, we "join the majority of circuits in concluding that a district court has authority to issue a preliminary injunction where the plaintiffs can establish that money damages will be an inadequate remedy due to impending insolvency of the defendant or that defendant has engaged in a pattern of secreting or dissipating assets to avoid judgment."  Estate of Marcos, 25 F.3d at 1480.
+
+    
+
+    
+      ¶43
+      We heed the Supreme Court's warning in De Beers that if injunctive relief is too freely granted, "[e]very suitor who resorts to chancery for any sort of relief by injunction may, on a mere statement of belief that the defendant can easily make away with or transport his money or goods, impose an injunction on him, indefinite in duration, disabling him to use so much of his funds or property as the court deems necessary for security or compliance with its possible decree."  De Beers, 325 U.S. at 222, 65 S.Ct. at 1135.   We are confident, however, that this "parade of horribles" will not come to pass.  The defendant's rights are adequately protected because the traditional requirements for obtaining equitable relief must be met before a district court may issue an injunction.  See Hoxworth, 903 F.2d at 197.   We are also impressed by England's successful twenty-year history of issuing "Mareva injunctions" under circumstances substantially similar to those present on appeal.  See generally Richard N. Ough, The Mareva Injunction and Anton Piller Order:  Practice & Precedents (1987);  Note, The Use of Pre-Judgment Attachments and Temporary Injunctions in International Commercial Arbitration Proceedings:  A Comparative Analysis of the British and American Approaches, 50 U. Pitt.  L.Rev. 667 (1989) (discussing the value of Mareva injunctions and advocating that United States courts adopt similar rules for international commercial arbitrations).
+
+    
+
+    II. Irreparable Injury
+
+    
+      ¶44
+      GMD contends that, even if Rule 65 applies, this Court requires that the defendants be acting with the intent to frustrate an eventual judgment.  Since Judge Martin did not specifically find that GMD intended to frustrate the Investors' right to receive an eventual recovery, the preliminary injunction was improper.  GMD is wrong, as this would add a new mandatory element to equity jurisprudence.
+
+    
+
+    
+      ¶45
+      It is by this time black-letter law that the party seeking a preliminary injunction must establish that:  (1) absent injunctive relief, it will suffer an irreparable injury;  and (2) either (a) a likelihood of success on the merits or (b) sufficiently serious questions going to the merits to make them a fair ground for litigation and the balance of hardships tips in favor of the movant.  See Blum v. Schlegel, 18 F.3d 1005, 1010 (2d Cir.1994) (citations omitted).  The showing of irreparable harm is "[p]erhaps the single most important prerequisite for the issuance of a preliminary injunction."  Citibank N.A. v. Citytrust, 756 F.2d 273, 275 (2d Cir.1985) (quoting Bell & Howell:  Mamiya Co. v. Masel Supply Co., 719 F.2d 42, 45 (2d Cir.1983)).
+
+    
+
+    
+      ¶46
+      GMD suggests that, in addition to the traditional requirements for a preliminary injunction, the movant must establish that the enjoined party harbored the intent to frustrate the recovery of an eventual judgment. This argument is without merit.  The cases cited by GMD hold merely that one way to establish irreparable harm is to show that the defendant intended to frustrate the collection of an eventual judgment.  See, e.g., Pashaian v. Eccelston Properties, Ltd., 88 F.3d 77, 87 (2d Cir.1996) ("the irreparable harm requirement is satisfied in this case, which involves completed actions to frustrate a judgment").  We have never said that it is the only way and we decline to do so now.
+
+    
+
+    
+      ¶47
+      Nor can GMD allege that Judge Martin abused his discretion by finding that the Investors would suffer an irreparable injury absent injunctive relief.  Normally, in order to be classified as "irreparable," the threatened harm must be a kind of injury for which a money judgment cannot compensate.  See, e.g., Borey v. National Union Fire Ins. Co., 934 F.2d 30, 34 (2d Cir.1991).  However, the district court may properly find that the threatened injury would be irreparable if, in the absence of an injunction, the movant would be unable to collect such a judgment.  See United States v. State of New York, 708 F.2d 92, 93 (2d Cir.1983) (per curiam) (judgment might be uncollectible because of Eleventh Amendment immunity).
+
+    
+
+    
+      ¶48
+      Judge Martin found that the Investors would be irreparably harmed because "in light of Defendants' financial condition and dissipation of assets, any judgment Plaintiffs obtain in this action will be frustrated."   Relying on Chemical Bank v. Haseotes, 13 F.3d 569, 573 (2d Cir.1994) (per curiam), GMD contends that this is an insufficient showing of irreparable injury.
+
+    
+
+    
+      ¶49
+      In Haseotes, we affirmed the denial of a motion for preliminary injunction restraining the defendant's transfer of assets.  We held that irreparable harm does not exist merely because the defendant would render himself judgment-proof by engaging in the enjoined transaction.  Id. We stated that an irreparable injury cannot be shown when the transferor legitimately sought to reduce debt and pay off creditors, rather than frustrate an eventual judgment.  Id. at 573.
+
+    
+
+    
+      ¶50
+      The plain import of Judge Martin's findings is that the actions of GMD were less than benign.  He found that "GMD has stated that it plans to use the [Toll Road] Notes to satisfy Mexican creditors to the exclusion of Plaintiffs and all other holders of the Notes."   This finding was adequately supported by a statement from a GMD officer contained in the Confidential Appendix and a confidential payout schedule which indicated that, after the Mexican creditors were satisfied, GMD would have only $5.5 million in remaining Toll Road Notes.  Contrary to the legitimate business justification endorsed in Haseotes, Judge Martin clearly believed that GMD was improperly establishing a priority of creditors.
+
+    
+
+    
+      ¶51
+      GMD's duplicity in disclosing the full extent of its assignments further supports this conclusion.  GMD originally disclosed to the Investors that it assigned only $117 million in Toll Road Notes.  During the course of the litigation, GMD revealed that it had actually assigned between $214 million and $238 million in Toll Road Notes.  GMD's undisclosed transfers are not different in kind from the transfer of assets found to constitute an irreparable injury in Pashaian v. Eccelston Properties, Ltd., 88 F.3d 77, 87 (2d Cir.1996) (pledge agreements that constituted part of an "unrelenting campaign to avoid paying obligations" and which left enjoined party without assets), and, again, in Feit & Drexler, 760 F.2d at 416 ("evidence of [defendant's] bond purchases and Swiss bank accounts, along with [the defendant's] repeated sworn testimony that she had no such assets" sufficient to justify issuance of injunctive relief).
+
+    
+
+    
+      ¶52
+      It is particularly disingenuous for GMD to raise this argument on appeal.  Judge Martin instructed the parties to prepare jointly a proposed order granting the preliminary injunction.  GMD specifically objected to the proposed finding of fact that GMD's dissipation of assets would frustrate the Investor's ability to recover an eventual judgment.  GMD argued that this finding "go[es] beyond what is sufficient to support an injunction."   GMD should not be heard now to argue that this finding does not sufficiently support the injunction.
+
+    
+
+    CONCLUSION
+
+    
+      ¶53
+      We have considered all the arguments raised by appellants and find them to be without merit.  Accordingly, the judgment of the district court is AFFIRMED.
+
+    
+
+    
+      
+        *
+         The Honorable Milton Pollack of the United States District Court for the Southern District of New York, sitting by designation
+
+      
+
+    
+
+    

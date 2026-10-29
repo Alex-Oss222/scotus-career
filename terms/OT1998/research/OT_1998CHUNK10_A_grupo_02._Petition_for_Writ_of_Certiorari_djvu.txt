@@ -1,0 +1,3998 @@
+PILED 
+
+
+No. 28 231 AUG 4 1998 
+nme Ck ll 
+
+
+In* THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+GRUPO MEXICANO DE DESARROLLO, S.A.; DESARROLLO 
+DE INFRAESTRUCTURA, S.A. DE C.V.; OBRAS Y PROYEC- 
+Tos, S.A. DE C.V.; DESARROLLO URBANO INTEGRAL, 
+S.A. DE C.V. and DESARROLLO INDUSTRIAL LATINO- 
+
+
+AMERICANO, S.A. DE C.V., +s 
+Petitioners, 
+
+
+- against - 
+
+
+ALLIANCE BOND FUND, INC.; ALLIANCE WoRLD DOLLAR 
+GOVERNMENT FUND II, INc.; ALLIANCE GLOBAL DoL- 
+LAR GOVERNMENT FUND, INC.; ELLIOT ASSOCIATES, 
+L.P.; AVALON TOTAL RETURN FUND, L.P.; THE VARDE 
+FunpD, L.P.; THE VARDE FuND II-A, L.P.; THE VARDE 
+FunpD II-B, L.P.; THE VARDE Funp III-A, L.P.; THE 
+VARDE Funp III-B, L.P. and THE VARDE Funp IV-A, 
+
+
+L.P., Respondents. 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Second Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+RICHARD A. MESCON PETER BUSCEMI 
+Scott S. BALBER Counsel of Record 
+MORGAN, LEWIS & MORGAN, LEWIS & 
+Bockius LLP Bockius LLP 
+101 Park Avenue 1800 M Street, N.W. 
+New York, NY 10178-O0uuv #$Washington, D.C. 20036-5869 
+(212) 309-6000 (202) 467-7000 
+Dated: August 4, 1998 Counsel for Petitioners 
+
+
+WILSON - EPES PRINTING Co., INC. - 789-0096 - WASHINGTON, D.C. 20001 
+
+
+QUESTION PRESENTED FOR REVIEW 
+
+
+Is a United States District Court empowered to issue a 
+preliminary injunction prohibiting a defendant from trans- 
+ferring or assigning assets unrelated to the plaintiff's 
+underlying claim and held outside of the court’s jurisdic- 
+tion in order to ensure that funds will be available to 
+satisfy a potential money judgment? 
+
+
+(i) 
+
+
+ii 
+
+
+LIST OF PARTIES 
+
+
+The defendants to the proceeding below were petition- 
+ers Grupo Mexicano de Desarrollo, S.A.; Desarrollo de 
+Infraestructura, S.A. de C.V.; Obras Y Proyectos, S.A. 
+de C.V.; Desarrollo Urbano Integral, S.A. de C.V. and 
+Desarrollo Industrial Latinoamericano, S.A. de C.V. The 
+plaintiffs to the proceedings below were respondents Al- 
+liance Bond Fund, Inc.; Alliance World Dollar Govern- 
+ment Fund II, Inc.; Alliance Global Dollar Government 
+Fund, Inc.; Elliot Associates, L.P.: Avalon Total Return 
+Fund, L.P.; The Varde Fund, L.P.; The Varde Fund 
+IIl-A, L.P.; The Varde Fund II-B, L.P.; The Varde 
+Fund III-A, L.P.; The Varde Fund III-B, L.P. and The 
+Varde Fund IV-A, L.P. 
+
+
+RULE 29.6 STATEMENT 
+
+
+Pursuant to Rule 29.6 of the Supreme Court Rules, 
+Petitioners Grupo Mexicano de Desarrollo, S.A.; Desar- 
+rollo de Infraestructura, S.A. de C.V.; Obras Y Proyectos, 
+S.A. de C.V.; Desarrollo Urbano Integral, S.A. de C.V. 
+and Desarrollo Industrial Latinoamericano, S.A. de C.V. 
+hereby certify that Grupo Mexicano de Desarrollo, S.A. 
+is the corporate parent of the other named petitioners. 
+
+
+Grupo Mexicano de Desarrollo, S.A.’s non-wholly owned 
+subsidiaries are: 
+
+
+GMD CBPO Construcciones, S.A.; 
+
+Consorcio Mexicano Constructor de Huites, S.A.; 
+Ecosys I, S.A. de C.V.; 
+
+Ecosys II, S.A. de C.V.; 
+
+Servicios Urbanos de Puebla, S.A. de C.V.; 
+Grupo Essagua, S.A. de C.V.; 
+
+Desarrollos Hidraulicos de Puebla, S.A. de C.V.; 
+Cooper T. Smith, S.A. de C.V.; 
+
+Carbonser, S.A. de C.V.; 
+
+Mexcarbon, S.A. deC.V.; 
+
+Desarrollos Hidraulicos de Guerrero, S.A. de C.V.: 
+
+
+iii 
+
+
+Desarrollos Hidraulicos del Sureste, $.A. de C.V.; 
+
+Desarrollos Hidraulicos de Tam, S.A. de C.V.; 
+
+Desarrollos Hidraulicos de Aguascalientes, S.A. de C.V.; 
+
+Consorcio Ecoagua, S.A. de C.V.; 
+
+Operadora de Autopista del Golfo, S.A. de C.V.; 
+
+Autopista del Occidente, S.A. de C.V.; 
+
+Operadora de Autopista del Occidente, S.A. de C.V.; 
+
+Grupo Concesionario Metropolitano, S.A. de C.V.; 
+
+Vias Terrestres del Estado de Mexico, S.A. de C.V.:; 
+
+Caminos Concesionados de Peajes de Morelos, S.A. de 
+c.¥.3 
+
+Compania Nacional de Concesiones, S.A. de C.V.; 
+
+Vias Concesionadas, S.A. de C.V.; 
+
+GIT Administracion de Autopistas, S.A. de C.V.; 
+
+Promotora Dowds, S.A. de C.V.; 
+
+Desarrollo de Infraestructura Y Vivienda, S.A. de C.V.; 
+
+Europlaza Mexico, S.A. de C.V.; 
+
+Inmobiliaria Real de la Presa, S.A. de C.V.; 
+
+Weinns Inmobiliaria, S.A. de C.V.; 
+
+Melinks de Mexico, S.A. de C.V.; 
+
+Grupo Promotor 2020, S.A. de C.V.; 
+
+Fideicomiso Grupo Diamante, S.A. de C.V.; 
+
+Fideicomiso Real Diamante, S.A. de C.V.; 
+
+Grupo Concesionario del Oeste, S.A.; 
+
+Latinoamericana de Ingenieria, S.A. de C.V.: 
+
+Autopista del Sol, S.A. de C.V.; 
+
+Promotora de Autopistas del Golfo, S.A. de C.V.; 
+
+Grupo Mexicano de Desarrollo AENF; 
+
+Autopistas de Guerrero, S.A. de C.V. 
+
+
+Desarrollo de Infraestructura, S.A. de C.V.'s non-wholly 
+owned subsidiaries are: 
+
+
+DINFRA Cofimex, S.A. de C.V.; 
+
+Autopista del Sol, S.A. de C.V.; 
+
+Promotora de Autopistas del Golfo, S.A. de C.V.; 
+Grupo Mexicano de Desarrollo AENF; 
+Autopistas de Guerrero, S.A. de C.V. 
+
+
+iv 
+
+
+Obras Y Proyectos, S.A. de C.V.'s non-wholly owned sub- 
+sidiaries are: 
+
+
+OPSA Tenenge, S.A. de C.V.; 
+
+Obras Y Proyectos de Guatemala, S.A. de C.V.; 
+Autopista del Sol, S.A. de C.V.; 
+
+Promotora de Autopistas del Golfo, S.A. de C.V.; 
+Grupo Mexicano de Desarrollo AENF; 
+Autopistas de Guerrero, S.A. de C.V. 
+
+
+Desarrollo Urbano Integral, S.A. de C.V.'s non-wholly 
+owned subsidiaries are: 
+
+
+Autopistas de Guerrero, S.A. de C.V. 
+
+
+Desarrollo industrial Latinoamericano, S.A. de C.V.’s 
+non-wholly owned subsidiaries are: 
+
+
+Autopista del Sol, S.A. de C.V.; 
+
+Promotora de Autopistas del Golfo, $.A. de C.V.; 
+Grupo Mexicano de Desarrollo AENF; 
+Autopistas de Guerrero, S.A. de C.V. 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTION PRESENTED FOR REVIEW .......... 
+
+
+LIST OF PARTIES oe 
+
+
+RULE 29.6 STATEMENT ............ 
+TABLE OF AUTHORITIES ...... etstd 
+
+
+OPINIONS BELOW 2.2... cc-c--c-ne0- 
+
+
+NER AR SENET OEE AE - 
+STATUTES INVOLVED 
+STATEMENT OF THE CASE 2022s cccceeceeees 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+I. THE DECISION OF THE COURT OF AP- 
+PEALS FOR THE SECOND CIRCUIT IS IN 
+DIRECT CONFLICT WITH THE DECISIONS 
+OF OTHER COURTS OF APPEAL |... 
+
+
+Il. THE DECISION OF THE COURT OF AP- 
+PEALS FOR THE SECOND CIRCUIT IM- 
+PERMISSIBLY EXPANDS THE POWER OF 
+THE DISTRICT COURTS TO GRANT PRE- 
+LIMINARY INJUNCTIVE RELIEF 
+
+
+Ill. THE DECISION OF THE COURT OF AP- 
+PEALS FOR THE SECOND CIRCUIT IM- 
+PERMISSIBLY EXPANDS THE RIGHTS OF 
+UN csi chili tasted i iinpriceeing 
+
+
+IV. THIS APPEAL PRESENTS AN ACTIVE 
+CASE AND CONTROVERSY |... 
+
+
+LE 2 ee ee 
+
+
+vi 
+TABLE OF CONTENTS—Continued 
+
+
+APPENDIX 
+
+
+Opinion and Order of the United States Court of 
+Appeals for the Second Circuit............................ 
+
+
+Order of the United States District Court for the 
+Southern District of New York ............................. 
+
+
+ctapelieient BUI eacececcsnccescceccscesteccsenenepetnenncnvtmentiomeipags 
+
+
+Order ....... : 
+
+
+District Court’s Order of Judgment and Irrevoca- 
+ee RESTS ASRS 
+
+
+Federal Rule of Civil Procedure 64 —.......................... 
+Federal Rule of Civil Procedure 65 _........................... 
+
+
+Page 
+
+
+la 
+
+
+vil 
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+DeBeers Consol. Mines v. United States, 325 U.S. 
+RR RC cE il Sar a ae 
+Deckert v. Independence Shares Corp., 311 U.S. 
+
+
+cert. denied, 488 U.S. 825 (1988) ... 00 
+H.E. Fletcher Co. v. Rock of Ages Corp., 326 F.2d 
+Rea 
+Home-Stake Prod. Co. v. Talon Petroleum, C.A., 
+907 F.2d 1012 (10th Cir. 1990). 
+Hozxworth v. Blinder, Robinson & Co., 903 F.2d 186 
+I I ci 
+In re Estate of Ferdinand Marcos Human Rights 
+Litig., 26 F.3d 1467 (9th Cir. 1994) cert. denied, 
+ff  %) Fee error rT 
+In re Fredeman Litig., 843 F.2d 821 (5th Cir. 
+1898) Pa BES Ne 
+Mitsubishi Int'l Corp. v. Cardinal Textile Sales, 
+Inc., 14 F.3d 1507 (11th Cir. 1994) cert. denied, 
+i 
+National Broadway Bank v. Sampson, 179 N.Y. 
+BC 
+Rosen v. Cascade Int'l, Inc., 21 F.3d 1520 (11th 
+I, I i AN 
+Teradyne, Inc. v. Mostek Corp., 797 F.2d 48 (1st 
+BR ee ae ie ipa 
+United States v. First Nat’l City Bank, 379 U.S. 
+III cnt innit ait 
+
+
+Statutes : 
+
+
+Fed. R. Civ. P. 64 
+Fed. R. Civ. P. 65 
+
+
+etait ee ee ee ee 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+No. 
+
+
+AMERICANO, S.A. DE C.V., 
+- against - 
+
+
+Petitioners, 
+
+
+Grupo MEXICANO DE DESARROLLO, S.A.; DESARROLLO 
+DE INFRAESTRUCTURA, S.A. DE C.V.; OBRAS Y PROoYEC- 
+Tos, S.A. pe C.V.; DESARROLLO URBANO INTEGRAL, 
+S.A. pE C.V. and DESARROLLO INDUSTRIAL LATINO- 
+
+
+ALLIANCE BOND FuND, INC.; ALLIANCE WorLD DOLLAR 
+GOVERNMENT FUuNp II, INc.; ALLIANCE GLOBAL DoL- 
+
+
+LP., Respondents. 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Second Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+LAR GOVERNMENT FUND, INC.; ELLIOT ASSOCIATES, 
+L.P.; AVALON TOTAL RETURN FuNpD, L.P.; THE VARDE 
+Funpb, L.P.; THe VArpe Funp II-A, L.P.; THe VARDE 
+Funp II-B, L.P.; THe VARpe Funp III-A, L.P.; Tue 
+VARDE Funp III-B, L.P. and THe Varpe Funp IV-A, 
+
+
+Petitioners, Grupo Mexicano de Desarrollo, S.A., et al., 
+by their counsel, respectfully pray that a writ of certiorari 
+
+
+issue to review the opinion and order of the United States 
+Court of Appeals for the Second Circuit entered on 
+May 6, 1998 (App. la-2la)* which affirmed the order 
+
+
+1“(App.)” refers to pages in the annexed appendix. 
+
+
+2 
+
+
+of the United States District Court for the Southern Dis- 
+trict of New York entered on December 23, 1997. (App. 
+22a-27a). 
+
+
+OPINIONS BELOW 
+
+
+The opinion and order of the United States Court of 
+Appeals for the Second Circuit was entered on May 6, 
+1998 (App. la-21la) and is reported at 1998 WL 220954 
+(2d Cir. May 6, 1998). The order of the United States 
+District Court for the Southern District of New York 
+was entered on December 23, 1997. The order of the 
+District Court has not been reported. (App. 22a-27a). 
+
+
+JURISDICTION 
+
+
+The United States Court of Appeals for the Second 
+Circuit entered judgment on May 6, 1998 (App. 21a) 
+and this petition is filed within ninety days of entry of 
+that judgment pursuant to Supreme Court Rule 13. This 
+Court has jurisdiction pursuant to 28 U.S.C. § 1254(1). 
+
+
+STATUTES INVOLVED 
+
+
+This petition involves Rules 64 and 65 of the Federai 
+Rules of Civil Procedure. (App. 60a-63a). 
+
+
+STATEMENT OF THE CASE 
+
+
+This appeal addresses the outer limits of a federal dis- 
+trict court’s power to issue a preliminary injunction under 
+Rule 65 of the Federal Rules of Civil Procedure (“Fed. 
+R. Civ. P. 65”) restraining a defendant’s use of assets un- 
+related to the plaintiff's underlying claim. The facts under- 
+lying this appeal are, however, plain and uncontested.” 
+
+
+2 The jurisdiction of the district court was invoked under 28 
+U.S.C. § 1832 because the amount in controversy exceeded $75,000, 
+exclusive of interest and costs, and the action was between citizens 
+of a state and citizens or subjects of a foreign state. 
+
+
+—— Sete ee vee 
+
+
+3 
+
+
+Defendants, a consortium of Mexican construction com- 
+panies (“GMD”), issued unsecured notes, approximately 
+$82,000,000 of which were purchased by Plaintiffs. De- 
+fendants defaulted on an interest payment on those notes. 
+Plaintiffs accelerated their right to receive principal pay- 
+ments and filed a complaint in the United States District 
+Court for the Southern District of New York (the “District 
+Court”) alleging breach of contract. (App. 5a). Plain- 
+tiffs also sought a preliminary injunction to restrain the 
+Defendants from assigning or transferring their primary 
+asset—the right to receive in excess of $300,000,000 of 
+unrelated notes to be issued to Defendants by the Mexican 
+Government.* (App. 4a-6a). In seeking the injunction, 
+Plaintiffs argued that injunctive relief was necessary to 
+ensure that Defendants, who had already assigned to cer- 
+tain Mexican creditors their right to receive a portion of 
+the government notes, did not make further assignments 
+that might frustrate a potential judgment for Plaintiffs.* 
+(App. 6a). Plaintiffs also cited the possible insolvency of 
+the Defendants as justification for the injunction. (App. 
+25a). There was no suggestion that the assignments in 
+favor of the preferred creditors (which had all been at 
+deep discounts) were on account of anything other than 
+valid debts of GMD. (App. Sa-6a, 26a). The District 
+
+
+3 GMD is scheduled to receive the government notes as a part of 
+the Mexican Government’s efforts to compensate construction com- 
+panies which have sustained losses as a result of their building and 
+operation of toll roads throughout Mexico. 
+
+
+* In fact, Plaintiffs did not merely seek to ensure that they would 
+receive equal treatment relative to other unsecured creditors. Ra- 
+ther, after prevailing on a motion for summary judgment, Plain- 
+tiffs sought and obtained from the District Court an order dated 
+April 17, 1998 ordering that Defendants irrevocably assign to Plain- 
+tiffs a sufficient quantity of government notes to satisfy Plaintiffs’ 
+judgment. (App. 58a-59a). Defendants have appealed the propriety 
+of that turnover order to the United States Court of Appeals for 
+the Second Circuit. That appeal is pending. 
+
+
+4 
+
+
+Court granted Plaintiffs’ motion for a preliminary injunc- 
+tion (App. 26a) and Defendants filed a notice of appeal 
+on December 23, 1997. 
+
+
+On appeal to the Court of Appeals for the Second Cir- 
+cuit, GMD challenged the District Court’s authority to 
+issue a preliminary injunction prohibiting GMD from 
+transferring or conveying arbitrarily selected assets held 
+outside of the court’s jurisdiction. In fact, GMD has no 
+assets within the United States. GMD did not contest the 
+District Court’s findings of irreparable harm or the likeli- 
+hood that Plaintiffs might ultimately prevail on the merits, 
+
+
+Under Fed. R. Civ. P. 65, a district court may enjoin 
+a defendant’s use of specific assets only if the plaintiff has 
+a claimed equitable interest in the exact assets it seeks to 
+enjoin. Such an injunction is inappropriate in a suit seek- 
+ing fungible money damages. Plaintiffs’ sole recourse is 
+under Rule 64 of the Federal Rules of Civil Procedure 
+(“Fed. R. Civ. P. 64”) which requires a district court 
+to follow state law attachment statutes. 
+
+
+In affirming the District Court’s grant of Plaintiffs’ 
+motion for a preliminary injunction, the Court of Appeals 
+for the Second Circuit joined the Courts of Appeal for 
+the First, Third, Sixth, and Ninth Circuits in authorizing 
+the use of Fed. R. Civ. P. 65 to enjoin a defendant’s un- 
+related assets for the purpose of securing funds to satisfy 
+a potential money judgment. (App. 9a-15a). The Court 
+of Appeals for the Second Circuit recognized that the 
+Courts of Appeal for the Fifth, Tenth and Eleventh Cir- 
+cuits have rejected the use of Fed. R. Civ. P. 65 to 
+encumber a defendant’s use of assets which bear no 
+relationship to the plaintiff's underlying claim. (App. 
+13a). Those courts have held that such use of Fed. R. 
+Civ. P. 65 constitutes an impermissible end run around 
+the more stringent state law provisions mandated by Fed. 
+R. Civ. P. 64 (App. 7a-13a). The Court of Appeals for 
+the Second Circuit did not attempt to reconcile the obvi- 
+ous split among the circuits. 
+
+
+5 
+REASONS FOR GRANTING THE WRIT 
+
+
+This appeal raises fundamental questions about the 
+power of the federal district courts to grant preliminary 
+injunctive relief under Fed. R. Civ. P. 65 to restrain the 
+use of assets which bear no relationship to the subject of 
+the plaintiff's underlying claim for the sole purpose of 
+preserving assets to satisfy a potential money judgment. 
+This case presents the Court with an opportunity to re- 
+solve an issue that has been the subject of much conten- 
+tion among the federal circuits. 
+
+
+I. THE DECISION OF THE COURT OF APPEALS 
+FOR THE SECOND CIRCUIT IS IN DIRECT CON- 
+FLICT WITH THE DECISIONS OF OTHER COURTS 
+OF APPEAL 
+
+
+This case raised an issue of first impression in the 
+Court of Appeals for the Second Circuit. (App. 9a). As 
+the court explicitly. recognized, however, various other 
+Courts of Appeal have addressed the issue of the district 
+courts’ power to grant injunctive relief and have reached 
+inconsistent conclusions. (App. 13a). In affirming the 
+decision of the district court, the Court of Appeals for 
+the Second Circuit followed the holdings of the Courts of 
+Appeal for the First, Third, Sixth, and Ninth Circuits 
+which have sanctioned the use of Fed. R. Civ. P. 65 to 
+preserve unrelated assets to secure satisfaction of an 
+ultimate judgment.> The Courts of Appeal for the Fifth, 
+Tenth and Eleventh Circuits, however, disagree. Those 
+
+
+5See In re Estate of Marcos, 25 F.3d 1467, 1480 (9th Cir. 
+1994) cert. denied, 513 U.S. 1126 (1995); Hoxworth v. Blinder, 
+Robinson & Co., 903 F.2d 186, 208 (3rd Cir. 1990); Ebsco Indus., 
+Inc. v. Lilly, 840 F.2d 333, 334-36 (6th Cir.) cert. denied, 488 U.S. 
+825 (1988); Teradyne, Inc. v. Mostek Corp., 797 F.2d 43, 53 (1st 
+Cir. 1986). 
+
+
+6 See Rosen v. Cascade Int'l, Inc., 21 F.3d 1520, 1527 (11th Cir. 
+1994); Mitsubishi Int'l Corp. v. Cardinal Textile Sales, Inc., 14 
+F.3d 1507, 1521 (11th Cir. 1994) cert. denied, 513 U.S. 1146 (1995); 
+Home-Stake Prod. Co. v. Talon Petroleum, C.A., 907 F.2d 1012, 
+1021 (10th Cir. 1990); Im re Fredeman Litig., 843 F.2d 821, 824 
+(5th Cir. 1988). 
+
+
+6 
+
+
+circuits have expressly prohibited the use of Fed. R. Civ. P. 
+65 to preserve arbitrarily selected assets to satisfy a 
+potential money judgment, insisting that Fed. R. Civ. P. 
+64 and state law attachment provisions provide the only 
+remedy for a plaintiff seeking to ensure that assets unre- 
+lated to the underlying action will be available to satisfy 
+
+
+a potential judgment. 
+
+
+The conflict among the federal circuits has arisen as 
+the result of divergent interpretations of three decisions 
+of this Court, Deckert v. Independent Shares Corp., 311 
+U.S. 282 (1940); DeBeers Consol. Mines v. United 
+States, 325 U.S. 212 (1945) and United States v. First 
+Nat'l City Bank, 379 U.S. 378 (1965). 
+
+
+In DeBeers Consol. Mines v. United States, 325 U.S. 
+212 (1945), this Court held that a preliminary injunc- 
+tion may issue to secure assets for a final judgment only 
+if the assets to be restrained are related to the underlying 
+action. In DeBeers, the government sought to enjoin the 
+defendant diamond mining companies from selling, trans- 
+ferring or disposing of any property in the United States 
+until the court could adjudicate the government's claims. 
+The government predicated its prayer for injunctive relief 
+on the grounds that “[t]he principal business of said de- 
+fendants is carried on in foreign countries and they could 
+quickly withdraw their assets from the United States and 
+so prevent an enforcement of any order or decree which 
+this court may render.” Jd. at 215. In reversing the 
+lower court’s issuance of the preliminary injunction, this 
+Court held that 
+
+
+[a] preliminary injunction is always appropriate to 
+grant intermediate relief of the same character as that 
+which may be granted finally. The injunction in 
+question is not of this character. It is not an injunc- 
+tion in the cause, and it deals with a matter lying 
+wholly outside the issues in the suit. 
+
+
+Id. at 220. The DeBeers court distinguished its prior 
+holding in Deckert, in which the Court upheld an injunc- 
+
+
+7 
+
+
+tion restraining the defendant’s use of specific property 
+which was directly related to plaintiff's securities fraud 
+claim and which therefore would have been the subject of 
+a final decree—a trust of common stocks that was created 
+with funds that the plaintiffs were allegedly fraudulently 
+induced to pay. Similarly, in First Nat'l, the United 
+States sought to foreclose on a tax lien that previously 
+had been placed on the New York bank accounts of a 
+foreign tax debtor—it did not sue for money damages. 
+In reversing the Second Circuit’s reversal of the district 
+court’s issuance of an injunction restraining the bank 
+from transferring any of the assets it held for the account 
+of the tax debtor, the Court found that the ultimate relief 
+sought in the litigation involved the very same bank ac- 
+counts and held that “[u]nlike DeBeers . . . there is here 
+property which would be ‘the subject of the provisions of 
+any final decree in the cause.’” Jd. at 385.’ 
+
+
+Those courts which have sanctioned the use of Fed. R. 
+Civ. P. 65 to preserve assets for an ultimate money judg- 
+ment have held that the limitation on the district courts’ 
+power enunciated in DeBeers applies only to circumstances 
+in which the remedy sought by plaintiffs is injunctive 
+relief. Under this analysis, DeBeers is inapplicable to 
+cases in which a litigant seeks only money damages. The 
+Courts of Appeal for the Fifth, Tenth and Eleventh Cir- 
+cuits, however, have held that, under DeBeers, an injunc- 
+tion may issue only to restrain the same “res” or “thing” 
+as is the subject of the plaintiff's underlying equitable 
+claim. 
+
+As a result of this well-defined split among the federal 
+circuits, forum shopping is likely and repetition of the 
+issue contemplated by this appeal is certain. 
+
+
+7 Importantly, the Court issued the injunction pursuant to its 
+equitable powers under 26 U.S.C. § 7402(a), not Fed. R. Civ. P. 65. 
+In addition, the Court held that “courts of equity may . . . go much 
+farther both to give and withhold relief in furtherance of the 
+public interest than they are accustomed to go when only private 
+interests are involved.” First Nat'l, 379 U.S. at 382-83 (citations 
+omitted). 
+
+
+Il. THE DECISION OF THE COURT OF APPEALS 
+FOR THE SECOND CIRCUIT IMPERMISSIBLY 
+EXPANDS THE POWER OF THE DISTRICT 
+COURTS TO GRANT PRELIMINARY INJUNCTIVE 
+RELIEF 
+
+
+Fed. R. Civ. P. 64 provides that provisional remedies, 
+such as attachment, may be ordered consistent with the 
+law of the state in which the district court sits. State law 
+attachment provisions in New York (and all other states) 
+do not, however, permit the encumbrance of assets located 
+outside the state. See National Broadway Bank v. 
+Sampson, 179 N.Y. 213, 222 (N.Y. 1904) (“No state 
+can subject to its law either real or personal property 
+which is out of its jurisdiction.”). The decision of the 
+Court of Appeals for the Second Circuit (and the courts 
+of appeal whose decisions it has followed) authorizes the 
+district courts to circumvent state law provisional reme- 
+dies statutes by simply calling what is, in essence, a pre- 
+judgment attachment, an injunction. As a result, there 
+ceases to be any discernible purpose for Fed. R. Civ. P. 
+64. Litigants can easily circumvent Fed. R. Civ. P. 64 
+by relying on Fed. R. Civ. P. 65 and its less stringent 
+standards to freeze provisionally an adversary’s extrater- 
+ritorial assets, in direct contravention of state law. By 
+expanding the authority of the district courts to issue pre- 
+liminary injunctions under Fed. R. Civ. P. 65, the Court 
+of Appeals for the Second Circuit has enhanced the judg- 
+ment enforcement powers of the federal courts compared 
+to those of the state courts of the states in which they 
+sit, frustrating the intent of the Federal Rules of Civil 
+Procedure to conform federal judgment enforcement rem- 
+edies to those contained in state law. 
+
+
+Ill. THE DECISION OF THE COURT OF APPEALS 
+FOR THE SECOND CIRCUIT IMPERMISSIBLY 
+EXPANDS THE RIGHTS OF CREDITORS 
+
+
+The error committed by the Court of Appeals for the 
+Second Circuit will have serious and broad-based implica- 
+
+
+9 
+
+
+tions in the area of creditors’ rights. In ordinary business 
+dealings, a company, even an insolvent one, is free to pay 
+any of its bona fide creditors to the exclusion of others 
+until the company seeks (or is compelled to seek) the 
+protection of the bankruptcy code. The Courts of Ap- 
+peal for the Fifth, Tenth and Eleventh Circuits have 
+permitted market forces and the prerogatives of the in- 
+debted entity to dictate priority of payment. In those 
+jurisdictions, district courts cannot use their injunctive 
+powers under Fed. R. Civ. P. 65 to interfere with a 
+debtor's right to determine which creditors get paid first. 
+
+
+However, in sanctioning the District Court's use of Fed. 
+R. Civ. P. 65 to preserve a defendant’s unrelated assets 
+to satisfy a potential money judgment, the Court of Ap- 
+peals for the Second Circuit has created a powerful 
+weapon for creditors seeking to improve their position vis 
+a vis other creditors. Creditors in the First, Second, 
+Third, Sixth, and Ninth Circuits can seek injunctions 
+under Fed. R. Civ. P. 65 to obtain additional economic 
+leverage over the indebted entity by ensuring that no 
+other creditor is paid until the claim of the creditor who 
+has obtained the injunction is satisfied. Disfavored credi- 
+tors are ordinarily unable to obtain relief except through 
+the bankruptcy code. The “possible insolvency” of the 
+debtor is insufficient. 
+
+
+The Court of Appeals for the Second Circuit (and the 
+courts of appeal whose decisions it has followed) has, 
+in essence, given the District Court the power to act as 
+a bankruptcy judge over parties and assets not currently 
+before it and not within its ultimate jurisdiction. That 
+is the “status quo” which the challenged injunction sought 
+to preserve. The injunction restrained the Defendants from 
+using substantially all of their assets for any purpose. 
+Moreover, the proceedings in the District Court made 
+clear that not even the smallest part of the Defendants’ 
+frozen assets would be released without giving Plaintiffs 
+prior notice and an opportunity to object. (App. 53a). 
+None of the Defendants’ other creditors enjoyed this 
+suxury. 
+
+
+10 
+
+
+Fed. R. Civ. P. 65 is not a substitute for a preference 
+action or a fraudulent conveyance claim, and it has never 
+been used for the purpose of protecting the interests of 
+one creditor over other legitimate creditors who are not 
+even before the district court. To arm the district courts 
+with the power to determine arbitrarily the rights of par- 
+ties not before it would alter the economuc expectations 
+of creditors and would constitute a perversion of the dis- 
+trict courts’ power to grant injunctive relief. 
+
+
+IV. THIS APPEAL PRESENTS AN ACTIVE CASE 
+AND CONTROVERSY 
+
+Plaintiffs filed a “Suggestion of Mootness” with the 
+Court of Appeals for the Second Circuit contending that 
+Defendants’ appeal was moot because the District Court 
+had entered final judgment in Plaintiffs’ favor. That “Sug- 
+gestion of Mootness” was rejected by the Court of Ap- 
+peals by order dated May 4, 1998. 
+
+The preliminary injunction at issue in this appeal, which 
+was in effect for four months (from December 23, 1997 
+through April 17, 1998), seriously impaired Defend- 
+ants’ ability to continue their operations in the ordinary 
+course of business and to restructure their debts and other 
+financial obligations. If the decision of the Court of 
+Appeals for the Second Circuit is reversed, Defendants 
+will be entitled to damages that it can show resulted from 
+the wrongful issuance of the injunction. See, e.g., H.E. 
+Fletcher Co. v. Rock of Ages Corp., 326 F.2d 13, 17-18 
+(2d Cir. 1963). The determination of whether Defend- 
+ants suffered damages requires first that this Court deter- 
+mine whether the injunction was improperly granted. 
+
+
+11 
+
+
+CONCLUSION 
+
+For all the foregoing reasons, this petition for certiorari 
+
+should be granted. 
+Respectfully submitted, 
+
+RICHARD A. MESCON PETER BUSCEMI 
+Scott S. BALBER Counsel of Record 
+MORGAN, LEWIs & MORGAN, LEwis & 
+
+Bocktus LLP Bocktus LLP 
+101 Park Avenue 1800 M Street, N.W. 
+New York, NY 10178-0060 Washington, D.C. 20086-5869 
+(212) 309-6000 (202) 467-7000 
+Dated: August 4, 1998 Counsel for Petitioners 
+
+
+APPENDIX 
+
+
+la | 
+APPENDIX 
+(Filed May 6, 1998} 
+{Entered June 3, 1998) 
+
+
+UNITED STATES COURT OF APPEALS 
+TOR THE SECOND CIRCUIT 
+
+
+No. 1812 August Term 1997 
+(Argued: Febuary 20, 1998 Decided: May 6, 1998) 
+
+
+Docket No. 97-9610 
+
+
+ALLIANCE Bonp Funp, INC.; ALLIANCE WorLD DOLLAR 
+GOVERNMENT Funp II, INc.; ALLIANCE GLOBAL DoL- 
+LAR GOVERNMENT FUND, INC.; ELLIOT ASSOCIATES, 
+L.P.; AVALON ToTAL RETURN Funp, L.P.; THE VARDE 
+Funp, L.P.; THe Varpe Funp II-A, L.P.; THe Varpe 
+Funp il-B, L.P.; THe Varpe Funp III-A, L.P.; Tue 
+VARDE Funp III-B, L.P.; and THe Varpe Funp IV-A, 
+
+
+LP., Plaintifjs-A ppellees, 
+
+
+-V.- 
+
+
+Grupo MEXICANO DE DESARROLLO, S.A.; DESARROLLO 
+DE INFRAESTRUCTURA, S.A. DE C.V.; Opras Y Pro- 
+YEcTOS, S.A. DE C.V.; DESARROLLO URBANO INTEGRAL, 
+S.A. DE C.V.; and DESARROLLO INDUSTRIAL LATINO- 
+AMERICANO, S.A. bE C.V., 
+
+Defendants-A ppellants. 
+
+
+Before: McLAUGHLIN, LEVAL, Circuit Judges, and 
+POLLACK, District Judge.* 
+
+Defendants appeal from an order of the United States 
+
+District Court for the Southern District of New York 
+
+
+*The Honorable Milton Pollack of the United States District 
+Court for the Southern District of New York, sitting by designation. 
+
+
+2a 
+
+
+(Martin, J.), granting a preliminary injunction preventing 
+them from dissipating, transferring, conveying, or other- 
+wise encumbering the plaintiffs’ right to receive or benefit 
+from notes issued by the Mexican government. Because 
+Judge Martin had the power to issue such an injunction 
+and his findings are adequately supported by the record, 
+we affirm. 
+
+
+AFFIRMED. 
+
+
+Richard A. Mescon, Morgan, Lewis & 
+Bockius, New York, New York, for 
+Defendants-A ppellants. 
+
+
+Andrew J. Wertheim, Orrick, Herrington 
+& Sutcliffe, LLP, New York, New York, 
+for Plaintiffs-A ppellees Elliot 
+
+Associates, L.P., Avalon Total Return 
+Fund, L.P., The Varde Fund II-A, L.P., 
+The Varde Fund II-B, L.P., The Varde 
+Fund III-A, L.P., The Varde Fund III-B, 
+L.P., and The Varde Fund IV-A, L.P. 
+
+
+Dale C. Christensen, Jr., Seward & 
+Kissel, New York, New York, for 
+Plaintiffs-A ppellees Alliance Bond 
+Fund, Inc., Alliance World Dollar 
+Government Fund II, Inc., and Alliance 
+Global Dollar Government Fund, Inc. 
+
+
+3a 
+McLAUGHLIN, Circuit Judge 
+
+
+BACKGROUND 
+
+
+Grupo Mexicano de Desarrollo, S.A. (“GMD”) is a 
+Mexican holding company that, through its subsidiaries 
+and joint ventures, constructs and operates roadways. 
+From 1990 to 1994, GMD participated in the Mexican 
+government’s program to develop an intercity highway 
+network. Under this program, the Mexican government 
+granted concessions to build and operate toll roads to 
+companies that were willing to arrange private financing 
+for the construction of the roads. Due to economic un- 
+certainty, currency devaluation and other factors, the 
+revenues from toll road traffic fell below anticipated 
+levels. 
+
+
+In Febrnary, 1994, in order to retire more than $100 
+million of high interest Mexican bank debt and to secure 
+working capital to fund ongoing operations, GMD offered 
+and sold to institutional investors $250 million of 8.25% 
+notes due in 2001 (the “Notes”). The Notes are guaran- 
+teed by the five GMD subsidiaries named as co-defendants 
+(collectively “Guarantors”). The Notes require GMD to 
+pay interest at an annual rate of 8.25% on February 
+17 and August 17 of each year. 
+
+
+The Notes are “unconditionally and irrevocably” guar- 
+anteed by the Guarantors. Both the Notes and the Guar- 
+antees are unsecured obligations that rank pari passu with 
+all other present or future unsecured and unsubordinated 
+indebtedness of GMD. The Plaintiffs are eleven United 
+States investment funds that purchased approximately $75 
+million of the Notes (collectively “the Investors”). 
+
+
+Three years later, GMD experienced serious financial 
+difficulty. In its annual report, filed with the SEC in June, 
+1997, GMD admitted that its liabilities now exceeded its 
+assets. GMD expressed “substantial doubt” that it could 
+
+
+4a 
+
+
+continue as a going concern. In August, 1997, GMD 
+failed to make the interest payment on the Notes. The 
+Guarantors similarly failed to step up and meet their 
+obligations. Because of this default, the plaintiff-Investors 
+caused acceleration of the principal. 
+
+
+Ten days later, the Mexican government came to the 
+rescue by implementing the Toll Road Rescue Program. 
+Mexico promised to issue government guaranteed Toll 
+Road Notes to GMD and other toll road operators to 
+reimburse them for unpaid construction receivables and 
+expenses. In return for the Toll Road Notes, the Mexican 
+government will eventually take over ownership and oper- 
+ation of the toll roads. Although the notes have not been 
+distributed, GMD disclosed in its Third Quarter 1997 
+financial statement that it expected to receive $309 million 
+in Toll Road Notes. 
+
+
+In addition to the debt owed to the Investors, GMD 
+owed more than $450 million to other creditors. Its five 
+largest creditors were the Mexican government. numerous 
+Mexican banks, additional Mexican financial institutions, 
+trade creditors, and terminated employees (collectively 
+“Mexican Creditors”). Because the Mexican govern- 
+ment’s program would not fully alleviate its financial 
+difficulties, GMD began to restructure its debt, reduce 
+costs, and seek additional equity contributions. GMD 
+undertook to negotiate with both the Investors and the 
+Mexican Creditors to settle its financial obligations. 
+
+
+A Reuters report received by the Investors on Aueust 
+27, 1997 revealed that GMD had begun to renegotiate 
+its $256 million debt to the Mexican banks. GMD was 
+asking for a 67% discount from the banks to match 
+GMD’s losses on the toll road investment. At the same 
+time. GMD was also negotiating with the Investors to 
+settle its obligations under the Notes. 
+
+
+One month later, the other shoe dropped. GMD issued 
+a press release stating that during the first nine months 
+
+
+Sa 
+
+
+of 1997, it had revenues of approximately $119 million, 
+but an expected loss of approximately $802 million. After 
+totaling its assets and debts, GMD had a negative net 
+worth of $214 million. To the alarm of the Investors, the 
+press release also disclosed that GMB had already as- 
+signed $117 million in Toll Road Notes to settle other 
+obligations—$100 million to the Mexican government to 
+pay taxes and $17 million to pay severance packages to 
+terminated workers in accordance with Mexican law.- Al- 
+though GMD did not have possession of the Toll Road 
+Notes, it placed certain assets in “trust” for these creditors 
+with the understanding that the encumbered assets would 
+later be exchanged for Toll Road Notes. 
+
+
+On December 12, 1997, the Investors commenced an 
+action in the United States District Court for the Southern 
+District of New York (Martin, J.), alleging that GMD 
+had defaulted on its obligation under the Notes. The 
+Investors sought, inter alia, damages for GMD’s breach of 
+its contractual obligations under the Notes and a prelim- 
+inary injunction restraining GMD from assigning the Toll 
+Road Notes. By order to show cause, the Investors secured 
+a temporary restraining order precluding the transfer or 
+encumbrance of the Toll Road Notes. Judge Martin 
+
+
+set a hearing on the motion for a preliminary injunction 
+for December 19, 1997. 
+
+
+One day before the hearing, GMD filed its opposition 
+papers. In an affidavit, GMD’s Senior Vice President 
+Jorge Zapata revealed that GMD had made additional, 
+previously undisclosed assignments of $38 million in Toll 
+Road Notes to the Mexican banks. The next day, during 
+a break in the hearing before Judge Martin, the clouds 
+further darkened. GMD gave the Investors a supplemental 
+affidavit of Jorge Zapata stating that: (1) $137 million 
+(and not the originally reported $100 million) in Toll 
+Road Notes had been assigned to the Mexican govern- 
+ment; (2) $30 million (not $17 million) in Toll Road 
+
+
+6a 
+
+
+Notes had been assigned to former employees; (3) $48 
+million had been assigned to Mexican banks; and (4) 
+$42.5 million had been assigned to other Mexican Credi- 
+tors. Adding it all up, GMD had assigned between $214 
+million and $258 million of Toll Road Notes. GMD also 
+planned to make still further assignments, leaving only 
+$5.5 million in Toll Road Notes to satisfy the $75 mil- 
+lion debt owed to the Investors. 
+
+
+Following a second hearing on December 23d, Judge 
+Martin granted the preliminary injunction (under Fed. R. 
+Civ. P. 65) restraining GMD and the Guarantors from 
+dissipating, transferring, conveying, or otherwise encumber- 
+ing the Investor’s right to receive or benefit from the 
+issuance of the Toll Road Notes. He determined that the 
+Investors satisfied their burden for the issuance of a pre- 
+liminary injunction because: (1) they would almost cer- 
+tainly succeed on their breach of contract claims against 
+GMD; and (2) without the injunction they faced an irrep- 
+arable injury since GMD’s financial condition and its dis- 
+sipation of assets would frustrate any judgment recovered. 
+GMD now appeals. 
+
+
+DISCUSSION 
+
+
+I. Power of the District Court to Enjoin the Use of 
+Unrelated Assets 
+
+
+GMD argues that, under Fed. R. Civ. P. 65, a district 
+court is powerless to enjoin the use of a specific asset 
+unless the plaintiff claims an equitable interest in the 
+asset. Because the Toll Road Notes are unrelated to the 
+Guarantee Notes on which the Investors brought suit, 
+GMD contends that Judge Martin could not enjoin the 
+transfer of Toll Road Notes. GMD believes that Fed. R. 
+Civ. P. 64 is the only procedural mechanism to prevent 
+a litigant from concealing or transferring assets in order to 
+frustrate a potential judgment. The two Rules, however, 
+are complementary, not mutually exclusive. 
+
+
+Ta 
+
+
+A. Rule 64 and Rule 65 
+
+
+Under Federal Rule of Civil Procedure 64, “all rem- 
+edies providing for the seizure of the person or property 
+for the purpose of securing satisfaction of the judgment 
+ultimately to be entered in the action are available under 
+the circumstances and in the manner provided by the law 
+of the state in which the district court is held.” Fed. R. 
+Civ. P. 64. The available remedies include arrest, attach- 
+ment, garnishment, replevin, sequestration, and “other 
+corresponding or equivalent remedies, however designated 
+and regardless of whether by state procedure the remedy 
+is ancillary to an action or must be obtained by an inde- 
+pendent action.” Jd. We have recognized that injunctive 
+relief may be granted under Rule 64 if authorized by the 
+applicable state law. See In re Feit & Drexler, 760 F.2d 
+406, 415 n.2 (2d Cir. 1985); see also, Federal Deposit 
+Ins. Corp. v. Antonio, 843 F.2d 1311, 1313-14 (10th 
+Cir. 1988) (enjoining use of assets under Colorado law); 
+cf. Chemical Bank v. Haseotes, 13 F.3d 569, 572-73 (2d 
+Cir. 1994) (affirming district court’s denial of injunctive 
+relief under N.Y. U.C.C. § 8-317(6)). 
+
+
+Federal Rule of Civil Procedure 65 establishes the pro- 
+cedure for securing preliminary injunctive relief in civil 
+actions. The purpose of a preliminary injunction is to 
+preserve the status quo between parties pending a final 
+determination of the merits. See Arthur Guinness & Sons, 
+PLC v. Sterling Publ’g Co., 732 F.2d 1095, 1099 (2d 
+Cir. 1984) (citations omitted). The court is vested 
+with full discretion to determine whether to grant the 
+injunction and its scope. See Hecht Co. v. Bowles, 321 
+U.S. 321, 329 (1944) (“An appeal to the equity juris- 
+diction conferred on federal district courts is an appeal 
+to the sound discretion which guides the determinations 
+of courts of equity.”) (quotation omitted). However, we 
+have noted that injunctive relief seeking to prohibit con- 
+duct outside of the district court’s jurisdiction should be 
+
+
+Ba a 
+
+
+“exercised with great reluctance.” Vanity Fair Mills, Inc. 
+v. T. Eaton Co., 234 F.2d 633, 647 (2d Cir. 1956). 
+
+
+All parties acknowledge that Judge Martin could not 
+have enjoined the use of the Toll Road Notes under Rule 
+64 (and New York’s injunction statute) because the In- 
+vestors sought only monetary damages. Under New York 
+law, “a preliminary injunction is . . . unavailable in an 
+action for a sum of money only.” N.Y. C.P.L.R. § 6301, 
+Practice Commentaries (McKinney 1980) (Joseph M. 
+McLaughlin) (citing Campbell v. Ernst, 19 N.Y.S. 123 
+(1892)). Furthermore, the use of New York’s attach- 
+ment statute would be unavailing because the Toll Road 
+Notes are not located in New York State. See National 
+Broadway Bank v. Sampson, 179 N.Y. 213, 222 (1904) 
+(“No state can subject to its law either real or personal 
+property which is out of its jurisdiction.”); 12 Carmody- 
+Wait 2d § 76.2, at 31-32 (1997) (“It is axiomatic that 
+for property or a debt to be subject to attachment, the 
+property must be amenable to the jurisdiction of the New 
+York courts.”). 
+
+
+The mere fact that the property lies outside the bound- 
+aries of New York State does not render the court power- 
+less. If the court has personal jurisdiction over the de- 
+fendant, and use of the court's injunctive power is appro- 
+priate, the court may order the defendant to bring the 
+assets to New York or restrain the use of the assets. 
+See, e.g., Gresov v. Shattuck Denn Mining Corp., 215 
+N.Y.S.2d 98, 100 (N.Y. Sup. Ct. 1961) (“Where juris- 
+diction of the parties is assumed, this court may render 
+an injunctive decree having extraterritorial effect in ap- 
+propriate circumstances.”) (citation omitted); N.Y. Jur.2d 
+Equity § 14 (1986 & Supp. 1997) (“A court of equity 
+may direct any defendant upon whom process has been 
+served in New York to perform whatever acts are com- 
+manded in the decree, notwithstanding the fact that some 
+or all of such acts may require performance outside of the 
+
+
+9a 
+
+
+jurisdiction.”); cf. United States v. First Nat'l City Bank, 
+379 U.S. 379, 384 (1965) (“Once personal jurisdiction 
+of a party is obtained, the District Court has authority to 
+order it to ‘freeze’ property under its control, whether the 
+property be within or without the United States.”) (citing 
+New Jersey v. New York City, 283 US. 473, 482 
+(1931)). Therefore, Judge Martin had the power to 
+issue the injunction. 
+
+
+B. Standard of Review 
+
+
+This Court reviews the district court’s decision to grant 
+a preliminary injunction for an abuse of discretion. See 
+Fun-Damental Too, Ltd. v. Gemmy Indus. Corp, 111 
+F.3d 993, 999 (2d Cir. 1997). The district court “abuses 
+its discretion only if it applies an incorrect legal standard, 
+bases the preliminary injunction on a clearly erroneous 
+finding of fact, or issues an injunction that contains an 
+error in its form or substance.” /d. (citation omitted). 
+
+
+C. Power of the District Court to Issue the Injunction 
+
+
+This Court has approved the use of Rule 65 to freeze 
+assets when those assets are the subject matter in dispute. 
+See Republic of Philippines v. Marcos, 806 F.2d 344 (2d 
+Cir. 1986). Until now, however, we have not addressed 
+whether the district court may issue an injunction to pro- 
+tect the plaintiff's right to recover monetary damages 
+when there is a threat of defendant's insolvency or its 
+dissipation of assets not directly involved in the pending 
+litigation. The Supreme Court, likewise, has not squarely 
+decided this question, although we read its precedents to 
+suggest that a preliminary injunction should be available 
+urder those circumstances. 
+
+
+1. Supreme Court Precedents 
+
+
+GMD initially argues that De Beers Consol. Mines, 
+Ltd. v. United States, 325 U.S. 212 (1945), bars the 
+
+
+10a 
+
+
+use of preliminary injunctions to freeze unrelated assets in 
+any case seeking only monetary relief. This is too sweep- 
+ing a reading of De Beers. 
+
+
+In De Beers, the government sued several foreign cor- 
+porations and individuals for Sherman Act violations. 
+While the ultimate relief sought was a permanent injunc- 
+tion, the government sought a preliminary injunction re- 
+straining the corporate defendants from transferring assets 
+outside the United States. The government sought this 
+interim relief to preserve its ability to seek civil contempt 
+fines if the defendants later chose to flout the permanent 
+injunction the government sought. /d. at 215. The Court 
+held that the motion should have been denied, reasoning 
+that the preliminary relief sought dealt “with a matter 
+lying wholly outside the issues in the suit.” Jd. at 220. 
+
+
+The De Beers Court noted that the district court lacked 
+power under the relevant federal laws to enter a money 
+judgment—the only authorized remedy was an injunction 
+against “future continuance of actions or conduct intended 
+to monopolize or restrain commerce.” /d. at 219-20. Be- 
+cause there was no possibility of an eventual money 
+judgment, the district court could not issue an injunction 
+freezing the use of assets. The Court expressly distin- 
+guished De Beers from a situation where the injunction 
+prevented the transfer of “a fund or property which would 
+have been the subject of the provisions of any final de- 
+cree.” Id. at 220 (citing Deckert v. Independence Shares 
+Corp., 311 U.S. 282 (1940)). 
+
+
+GMD contends that the Toll Road Notes are unrelated 
+to GMD’s obligations to the Investors. Therefore, their 
+argument runs, the Toll Road Notes are a “matter lying 
+wholly outside the issues in the suit,” and their transfer 
+cannot be enjoined. The actual scope of the De Beers 
+holding is far narrower than GMD asserts. De Beers 
+“simply held that a defendant’s money may not be en- 
+cumbered by a preliminary injunction when the final 
+
+
+: 
+
+
+De Beers is simply 1 i to cases in which 
+gant seeks money damages.” Hoxworth v. Blinder, Rob- 
+inson & Co., 903 F.2d 186, 197 (3d Cir. 1990); see 
+In re Estate of Marcos, 25 F.3d 1467, 1478 (9th Cir. 
+1994); Reebok Int'l, Ltd. v. Marnatech Enters., Inc., 
+970 F.2d 552, 561 (9th Cir. 1992). 
+
+
+Limiting De Beers to cases where final equitable relief 
+is all that is sought comports with the Supreme Court's 
+other pronouncements concerning the availability of in- 
+junctive relief. In Deckert v. Independence Shares Corp., 
+311 U.S. 282 (1940), plaintiffs sought an order enjoining 
+the defendant from disposing of any assets pending the 
+outcome of their damage action for fraudulent misrepre- 
+sentation. Plaintiffs alleged that the defendant “is insol- 
+vent and threatened with many law suits, that its business 
+is virtually at a standstill because of unfavorable publicity, 
+that preferences to creditors are probable, and that its 
+assets are in danger of dissipation and depletion.” /d. at 
+285. The Court sustained the injunction because: 
+
+
+the injunction was a reasonable measure to preserve 
+the status quo pending final determination of the 
+questions raised by the bill. . . . As already stated, 
+there were allegations that [defendant] was insolvent 
+and its assets in danger of dissipation or depletion. 
+This being so, the legal remedy against [defendant], 
+without recourse to the fund . . . would be inade- 
+quate. 
+
+
+Id. at 290. 
+
+
+More recently, in United States v. First National City 
+Bank, 379 U.S. 378 (1965), the Court upheld a pre- 
+liminary injunction freezing assets in a suit seeking pay- 
+ment of back taxes. Although there was statutory author- 
+ity to grant an injunction, the Court painted with a 
+broader brush: 
+
+
+12a 
+
+
+Once personal jurisdiction of a party is obtained, the 
+District Court has authority to order it to “freeze” 
+property under its control... . 
+
+
+The temporary injunction issued by the District 
+Court seems to us to be eminently appropriate to 
+prevent further dissipation of assets. . . . Unlike 
+[De Beers], there is here property which would be 
+“the subject of the provisions of any final decree in 
+the cause.” [citing De Beers, 325 U.S. at 220]. We 
+conclude that this temporary injunction is “a reason- 
+able measure to preserve the status quo.” [citing 
+Deckert, 311 U.S. at 290}. 
+
+
+379 U.S. at 384-85. The preliminary injunction freezing 
+assets was thus upheld in order to assure the enforce- 
+ability of an eventual money judgment. 
+
+
+Deckert and First National endorse the district court's 
+exercise of general equitable power to ensure the preser- 
+vation of an adequate remedy. See United States ex rel. 
+Taxpayers Against Fraud v. Singer Co., 889 F.2d 1327. 
+1330 (4th Cir. 1989) (affirming the issuance of a pre- 
+liminary injunction preventing the dissipation of assets 
+where the plaintiff alleged that the defendant was insol- 
+vent and its assets were in danger of dissipation; rejecting 
+defendant's argument that attachment proceedings under 
+Rule 64 were required; this construes “too narrowly the 
+Supreme Court’s approval of the exercise of general equi- 
+table power to protect a plaintiff's right to recovery”) 
+(citing, inter alia, Deckert, 311 U.S. at 285); Airlines 
+Reporting Corp. v. Barry, 825 F.2d 1220, 1227 (8th Cir. 
+1987) (“The authority of a trial court to issue a pre- 
+liminary injunction to ensure the preservation of an ade- 
+quate remedy is well established.”) (citing Deckert, 311 
+U.S. at 290). 
+
+
+It now seems to be settled in equity jurisprudence that 
+a preliminary injunction is available to protect the plain- 
+
+
+13a 
+
+
+tiff’s to recover monetary damages when there is a 
+threat the defendant will become insolvent or dissi- 
+pate assets. For example, in Hoxworth v. Blinder, Robin- 
+son & Co., 903 F.2d 186, 189 (3d Cir. 1990), the Third 
+Circuit held that a preliminary injunction was authorized 
+in “extraordinary circumstances” in a suit seeking only 
+money damages, such as when there is a possibility that 
+the defendant would be insolvent at the time of judgment. 
+Similarly, the First Circuit, in Teradyne Inc. v. Mostek 
+Corp., 797 F.2d 43, 52-53 (ist Cir. 1986), held that 
+it lay within the district court's power to enjoin the de- 
+fendant from disposing of assets when there was a danger 
+that the defendant would become insolvent prior to judg- 
+ment. See, e.g., In re Estate of Marcos, 25 F.3d 1467 
+(9th Cir. 1994). Concededly, not all Circuits agree. See 
+Rosen v. Cascade Int'l, Inc., 21 F.3d 1520 (11th Cir. 
+1994); In re Fredeman Litig., 843 F.2d 821 (Sth Cir. 
+1988). 
+
+
+2. Second Circuit precedent 
+
+
+Capitalizing on this split of authority, GMD maintains 
+that this Court’s case law is consistent with the minority 
+
+
+view espoused by Rosen. None of our cases cited by 
+GMD align us with the minority view. 
+
+
+GMD cites Republic of Philippines to support its argu- 
+ment that we have restricted the application of Rule 65. 
+However, Republic of Philippines stands for the unre- 
+markable propositon that a federal court may enjoin the 
+transfer of assets that constitute the subject matter of the 
+dispute. 806 F.2d at 356. It is utterly silent on whether 
+a district court may enjoin the transfer of unrelated assets. 
+
+
+GMD’s reliance on In re Feit & Drexler, 760 F.2d 406 
+(2d Cir. 1985), is also off the mark. In Feit & Drexler, 
+the defendant appealed a district court’s injunction order- 
+ing the defendant to turn all her property capable of 
+delivery over to an escrow agent. /d. at 409-10. The 
+
+
+14a 
+
+
+district court, ignoring Rule 65, had issued the injunction 
+under Rule 64 and New York’s injunction statute. The 
+defendant argued that the district court should have ap- 
+plied Rule 65 (which could not have been satisfied). 
+Refusing to decide whether Rule 64 or Rule 65 should 
+have been applied, we simply held that “the district court 
+committed no reversible error since its findings and con- 
+clusions amply satisfied both the state test and this Cir- 
+cuit’s test for the granting of preliminary injunctions.” 
+Id. at 415. In a footnote, we noted that Rule 64 and 
+State law might “perhaps [be] required” for a prejudg- 
+ment freeze of assets: 
+
+
+If the mandatory injuncton here is a “remed[y] pro- 
+viding for seizure of person or property for the 
+purpose of securing satisfaction of the judgment ulti- 
+mately to be entered in the action,” the district 
+court’s application of the New York standard was 
+entirely proper and perhaps even required. 
+Id. at 415 n.2 (citations omitted). We qualified this 
+dictum, however, by noting that Rule 65 was an “appro- 
+priate” mechanism for prejudgment freeze of assets 
+under certain conditions: 
+
+
+[E]ven where the ultimate relief sought is money 
+damages, federal courts have found preliminary in- 
+junctions appropriate where it has been shown that 
+the defendant “intended to frustrate any judgment 
+on the merits” by “transfer[ring its assets] out of the 
+jurisdiction. . . . [TJhis is an appropriate case for 
+the issuance of injunctive relief to prevent [the 
+defendant] from making uncollectible any judgment 
+the [plaintiff] may eventually obtain against her. . . . 
+[W]ithout injunctive relief an eventual money judg- 
+ment was likely to be “ineffectual”. . . 
+
+
+Id. at 416 (citations omitted). 
+
+
+In light of the Supreme Court’s precedents indicating 
+the broad scope of a district court’s power to grant in- 
+
+
+15a 
+
+
+junctive relief, we “join the majority of circuits in con- 
+cluding that a district court has authority to issue a pre- 
+liminary injunction where the plaintiffs can establish 
+that money damages will be an inadequate remedy due 
+to impending insolvency of the defendant or that defend- 
+ant has engaged in a pattern of secreting or dissipating 
+assets to avoid judgment.” Estate of Marcos, 25 F.3d at 
+1480. 
+
+
+We heed the Supreme Court’s warning in De Beers that 
+if injunctive relief is too freely granted, “[e]very suitor 
+who resorts to chancery for any sort of relief by injunc- 
+tion may, on a mere statement of belief that the defendant 
+can easily make away with or transport his money or 
+goods, impose an injunction on him, indefinite in dura- 
+tion, disabling him to use so much of his funds or prop- 
+erty as the court deems necessary for security or com- 
+pliance with its possible decree.” De Beers, 325 U.S. at 
+222. We are confident, however, that this “parade of 
+horribles” will not come te pass. The defendant's rights 
+are adequately protected because the traditional require- 
+ments for obtaining equitable relief must be met before a 
+district court may issue an injunction. See Hoxworth, 
+903 F.2d at 197. We are also impressed by England’s 
+successful twenty-year history of issuing “Mareva injunc- 
+tions” under circumstances substantially similar to those 
+present on appeal. See generally Richard N. Ough, The 
+Mareva Injunction and Anton Piller Order: Practice & 
+Precedents (1987); Note, The Use of Pre-Judgment At- 
+tachments and Temporary Injunctions in International 
+Commercial Arbitration Proceedings: A Comparative 
+Analysis of the British and American Approaches, 50 U. 
+Pitt. L. Rev. 667 (1989) (discussing the value of Mareva 
+injunctions and advocating that United States courts adopt 
+similar rules for international commercial arbitrations). 
+
+
+II. Jrreparable Injury 
+
+
+GMD contends that, even if Rule 65 applies, this Court 
+requires that the defendants be acting with the intent to 
+
+
+16a 
+
+
+frustrate an eventual judgment. Since Judge Martin 
+did not specifically find that GMD intended to frustrate 
+the Investors’ right to receive an eventual recovery, the 
+preliminary injunction was improper. GMD is wrong, as 
+this would add a new mandatory element to equity juris- 
+prudence. 
+
+
+It is by this time black-letter law that the party seeking 
+a preliminary injunction must establish that: (1) absent 
+injunctive relief, it will suffer an irreparable injury; and 
+(2) either (a) a likelihood of success on the merits or 
+(b) sufficiently serious questions going to the merits to 
+make them a fair ground for litigation and the balance of 
+hardships tips in favor of the movant. See Blum vy. 
+Schlegel, 18 F.3d 1005, 1010 (2d Cir. 1994) (citations 
+omitted). The showing of irreparable harm is “[p]erhaps 
+the single most important prerequisite for the issuance of 
+a preliminary injunction.” Citibank N.A. v. Citytrust, 
+756 F.2d 273, 275 (2d Cir. 1985) (quoting Bell & 
+Howard: Mamiya Co. v. Masel Supply Co., 719 F.2d 
+42, 45 (2d Cir. 1983)). 
+
+
+GMD suggests that, in addition to the traditional re- 
+quirements for a preliminary injunction, the movant must 
+establish that the enjoined party harbored the intent to 
+frustrate the recovery of an eventual judgment. This ar- 
+gument is without merit. The cases cited by GMD hold 
+merely that one way to establish irreparable harm is to 
+show that the defendant intended to frustrate the collec- 
+tion of an eventual judgment. See, e.g., Pashaian v. 
+Eccleston Properties, Ltd., 88 F.3d 77, 87 (2d Cir. 
+1996) (“the irreparable harm requirement is satisfied in 
+this case, which involves completed actions to frustrate a 
+judgment”). We have never said that it is the only way 
+and we decline to do so now. 
+
+
+Nor can GMD allege that Judge Martin abused his 
+discretion by finding that the Investors would suffer an 
+irreparable injury absent injunctive relief. Normally, in 
+order to be classified as “irreparable,” the threatened 
+
+
+17a 
+
+
+harm must be a kind of injury for which a money judg- 
+ment cannot compensate. See, e.g., Borey v. National 
+Union Fire Ins. Co., 934 F.2d 30, 34 (2d Cir. 1991). 
+However, the district court may properly find that the 
+threatened injury would be irreparable if, in the absence 
+of an injunction, the movant would be unable to collect 
+such a judgment. See United States v. State of New York, 
+708 F.2d 92, 93 (2d Cir. 1983) (per curiam) (judgment 
+might be uncollectible because of Eleventh Amendment 
+immunity ). 
+
+Judge Martin found that the Investors would be irrep- 
+arably harmed because “in light of Defendants’ financial 
+condition and dissipation of assets, any judgment Plain- 
+tiffs obtain in this action will be frustrated.” Relying on 
+Chemical Bank v. Haseotes, 13 F.3d 569, 573 (2d Cir. 
+1994) (per curiam), GMD contends that this is an in- 
+sufficient showing of irreparable injury. 
+
+
+In Haseotes, we affirmed the denial of a motion for 
+preliminary injunction restraining the defendant’s transfer 
+of assets. We held that irreparable harm does not exist 
+merely because the defendant would render himself 
+judgment-proof by engaging in the enjoined transaction. 
+Id. We stated that an irreparable injury cannot be shown 
+when the transferee legitimately sought to reduce debt and 
+pay off creditors, rather than frustrate an eventual judg- 
+ment. Id. at 573. 
+
+
+The plain import of Judge Martin’s findings is that 
+the actions of GMD were less than benign. He found that 
+“GMD has stated that it plans to use the [Toll Road] 
+Notes to satisfy Mexican creditors to the exclusion of 
+Plaintiffs and all other holders of the Notes.” This finding 
+was adequately supported a statement from a GMD offi- 
+cer contained in the Confidential Appendix and a con- 
+fidential payout schedule which indicated that, after the 
+Mexican creditors were satisfied, GMD would have only 
+
+
+18a 
+
+
+$5.5 million in remaining Toll Road Notes. Contrary to 
+the legitimate business justification endorsed in Haseotes, 
+Judge Martin clearly believed that GMD was improperly 
+establishing a priority of creditors, 
+
+
+GMD’s duplicity in disclosing the full extent of its 
+assignments further supports this conclusion. GMD orig- 
+inally disclosed to the Investors that it assigned only $117 
+million in Toll Road Notes. During the course of the 
+litigation, GMD revealed that it had actually assigned 
+between $214 million and $238 million in Toll Road 
+Notes. GMD’s undisclosed transfers are not different in 
+kind from the transfer of assets found to constitute an 
+irreparable injury in Pashaian v. Eccleston Properties, 
+Ltd., 88 F.3d 77, 87 (2d Cir. 1996) (pledge agreements 
+that constituted part of an “unrelenting campaign to avoid 
+paying obligations” and which left enjoined party without 
+assets), and, again, in Feit & Drexler, 760 F.2d at 416 
+
+
+(“evidence of [defendant’s] bond purchases and Swiss _ 
+
+
+bank accounts, along with [the defendant’s] repeated 
+sworn testimony that she had no such assets” sufficient to 
+justify issuance of injunctive relief). 
+
+
+It is particularly disingenuous for GMD to raise this 
+argument on appeal. Judge Martin instructed the parties 
+to prepare jointly a proposed order granting the prelim- 
+inary injunction. GMD specifically objected to the pro- 
+posed finding of fact-that GMD’s dissipation of assets 
+would frustrate the Investor’s ability to recover an eventua’ 
+judgment. GMD argued that this finding “gofes] beyond 
+what is sufficient to support an injunction.” GMD should 
+not be heard now to argue that this finding does not suffi- 
+ciently support the injunction. 
+
+
+CONCLUSION 
+
+
+We have considered all the arguments raised by appel- 
+lants and find them to be without merit. Accordingly, 
+the judgment of the district court is AFFIRMED. 
+
+
+19a 
+[Filed May 6, 1998] 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+UNITED STATES COURT HOUSE 
+40 FOLEY SQUARE 
+NEW YORK 10007 
+
+
+GeorGE LAnc III 
+Clerk 
+
+
+At a Stated Term of the United States Court of 
+Appeals for the Second Circuit, held at the United States 
+Courthouse, Foley Square, in the City of New York, on 
+
+
+the 6th day of May, one thousand nine hundred and 
+ninety-eight. 
+
+
+Present: Hon. JosEpH M. MCLAUGHLIN 
+Hon. PIERRE N. LEVAL 
+
+Circuit Judges 
+Hon. MILTON POLLACK 
+
+District Judge* 
+
+
+Docket No: 97-9610 
+
+
+*The Honorable Milton Pollack of the United States District 
+Court for the Southern District of New York, sitting by designation. 
+
+
+20a 
+
+
+ALLIANCE BOND Funp, INC.; ALLIANCE WoRLD DOLLAR 
+GOVERNMENT Funp il, INc.; ALLIANCE GLOBAL DOL- 
+LAR GOVERNMENT FUND, INC.; ELLIOT ASSOCIATES, 
+L.P.; AVALON TOTAL RETURN FuND, L.P.; THE VARDE 
+Funp, L.P.; THE VARDE Funp II-A, L.P.; THE VARDE 
+Funp II-B, L.P.; THe VARDE Funp III-A, L.P.; THE 
+VARDE FuNpD III-B, L.P.; and THe VarpeE Funp IV-A, 
+
+
+L.P., Plaintiffs-A ppellees, 
+v. 
+
+
+GRUPO MEXICANO DE DESARROLLO, S.A.; DESARROLLO 
+DE INFRAESTRUCTURA, S.A. DE C.V.; OBRAS Y PRO- 
+yectos, S.A. pe C.V.; DESARROLLO URBANO INTEGRAL, 
+S.A. pE C.V.; and DESARROLLO INDUSTRIAL LATINO- 
+AMERICANO, S.A. DE C.V., 
+
+Defendants-A ppellants. 
+
+
+Appeal from United States District Court for the South- 
+ern District of New York. 
+
+
+This cause came on to be heard on the transcript of 
+record from the Southern District of New York and was 
+argued by counsel. 
+
+
+ON CONSIDERATION WHEREOPF, it is now hereby 
+ORDERED, ADJUDGED, and DECREED that the 
+judgment of said district court be and it hereby is af- 
+firmed in accordance with the opinion of this court. 
+
+
+For the Court 
+GEorGE LANGE III, Clerk 
+
+
+By: /s/ Beth J. Neador 
+BeTH J. NEADOR 
+Administrative Attorney 
+
+
+2la 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+UNITED STATES COURT HOUSE 
+40 FOLEY SQUARE 
+NEW YORK 10007 
+
+
+DATE: May 6, 1998 
+Re: Alliance Bond Fund v. Grupo Mexicano De 
+Docket No(s).: 97-9610 
+
+
+Dear Counsel: 
+
+
+The court has issued its opinion in the above-entitled 
+case, and the decision of the district court has been 
+
+
+AFFIRMED 
+
+
+Judgment was entered on May 6, 1998, and a mandate 
+will later issue in accordance with Rule 41 of the Federal 
+Rules of Appellate Procedure. 
+
+
+A copy of the opinion in manuscript form is enclosed 
+herewith, and you will receive a mailed copy of the 
+printed slip opinion in due course. Additional copies of 
+the slip opinion are available from this office in accord- 
+ance with Local Rule 0.17(8). 
+
+
+If you are required by Rule 39(c) of the Federal Rules 
+of Appellate Procedure to file an itemized and verified 
+bill of cost, you are reminded to do so, with proof of 
+service, within 14 days after entry of judgment. 
+
+
+Very truly yours 
+GEorGE LANGE III, Clerk 
+By: /s/ Sheila E. Wilson 
+
+
+SHEILA E. WILSON 
+Case Manager, USCA 
+
+
+[Filed Dec. 23, 1997] 
+(Entered Jan. 2, 1998] 
+
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+
+
+97 Civ. 9165 (JSM) 
+
+
+ALLIANCE Bonp FUND, INC., ALLIANCE WORLD DOLLAR 
+GOVERNMENT Funbp II, INc.; ALLIANCE GLOBAL DOL- 
+LAR GOVERNMENT FUuND, INC., ELLIOT ASSOCIATES, 
+L.P., AVALON TOTAL RETURN FUND, L.P., THE VARDE 
+Funp L.P., THE VARDE Funp II-A, L.P., THE VARDE 
+Funp II-B, L.P., THE VARDE Funp III-A, L.P., THE 
+VARDE Funp III-B, L.P., and THE VARDE FuNp IV-A, 
+Rade 
+
+-against- Plaintiffs, 
+
+Grupo MEXICANO DE DESARROLLO, S.A., DESARROLLO 
+DE INFRAESTRUCTURA, S.A. DE C.V., OBRAS Y PRO- 
+yEcTos, S.A. DE C.V., DESARROLLO URBANO INTEG- 
+RAL, S.A. DE C.V., and DESARROLLO INDUSTRIAL 
+LATINOAMERICANO, S.A. DE C.V., 
+
+Defendants. 
+
+
+ORDER GRANTING PRELIMINARY INJUNCTION 
+
+
+WHEREAS, on December 12, 1997, Plaintiffs com- 
+menced this action by filing their Complaint seeking, 
+among other things, a preliminary injunction prohibiting 
+Defendants from dissipating, disbursing, transferring, con- 
+veying, encumbering or otherwise distributing or in any 
+way affecting any Defendant’s right to, interest in, title 
+to or right to receive or retain any of the rights, receiv- 
+ables, notes or any other form of consideration, distrib- 
+uted or to be distributed to Defendants or Defendants’ 
+designees pursuant to the toll road (“Toll Road”) rescue 
+
+
+23a 
+
+
+plan established by the United Mexican States Ministry 
+of Communications and Transportation under a decree 
+dated August 27, 1997 (the “Government Notes”); 
+
+
+WHEREAS, on December 12, 1997, this Court issued 
+a Temporary Restraining Order, pending the determina- 
+tion of Plaintiffs’ application for a preliminary injunction, 
+prohibiting Defendants, their agents, officers, servants, 
+employees, affiliates, attorneys and other representatives, 
+and all persons in active concert or participation with 
+them, from dissipating, disbursing, transferring, convey- 
+ing, encumbering or otherwise distributing or in any way 
+affecting any Defendant's right to, interest in, title to or 
+right to receive or retain any of the Government Notes 
+or proceeds thereof, and 
+
+
+WHEREAS, by Order To Show Cause signed by the 
+Court on December 12, 1997 (“OSC”), the Court or- 
+dered that Defendants show cause before this Court on 
+December 19, 1997, why the requested preliminary in- 
+junction should not be issued pursuant to Rule 65 of the 
+Federal Rules of Civil Procedure; and 
+
+
+WHEREAS, on December 19, 1997, this Court held a 
+hearing on Plaintiffs’ application for a preliminary in- 
+junction. 
+
+NOW, THEREFORE, 
+
+
+Upon consideration of the papers and evidence sub- 
+mitted by the parties, and the arguments of counsel, and 
+all prior proceedings had herein, the Court finds that: 
+
+
+Defendant Grupo Mexicano de Desarrollo, S.A. 
+(“GMD”) is a Mexican holding company engaged in the 
+construction business with its principal place of business 
+at Carretera Mexico-Toluca 4000, Cuajimalpa, D.F. 
+05000 Mexico; 
+
+
+Defendants Desarrollo de Infraestructura, S.A. de C.V., 
+Obras Y Proyectos, S.A. de C.V., Desarrollo Urbano 
+
+
+24a 
+
+
+Integral, S.A. de C.V., and Desarrollo Industrial Latino- 
+americano, S.A. de C.V. (collectively, the “Guarantors”), 
+are Mexican corporations with their principal places of 
+business at the same address as GMD, and are GMD’'s 
+principal construction subsidiaries; 
+
+The OSC was duly served upon Defendants as provided 
+therein, and Defendants, by their Legal Representative, 
+Jorge Zapata, and their counsel, Morgan, Lewis & Bock- 
+ius, have appeared to defend this action; 
+
+The Court has personal jurisdiction over each of the 
+Defendants and venue is proper ix this District; 
+
+
+On February 17, 1994, GMD issued $250 million of 
+84%4 % Guaranteed Notes Due 2001 (“Notes”); 
+
+
+The Notes are a valid corporate obligation of GMD 
+that rank pari passu with all other present or future un- 
+secured and unsubordinated debt of GMD; 
+
+
+The Guarantors unconditionally and irrevocably guar- 
+anteed the Notes; 
+
+
+Plaintiffs are U.S. investment funds and the beneficial 
+owners of a total of $75,006,000 principal amount of the 
+Notes; 
+
+The Notes bear interest at an annual rate of 8% 
+percent, payable semi-annually in arrears in U.S. dollars 
+on February 17 and August 17 of each year; 
+
+
+Defendant GMD failed to make the interest payment 
+due on August 17, 1997, within five business days thereof, 
+and has never made this payment; 
+
+The Guarantors have not paid the interest payment due 
+on August 17, 1997; 
+
+
+An Event of Default of the type specified in Paragraph 
+7(a)(i) of the Note instrument has occurred and is con- 
+tinuing; 
+
+Plaintiffs have duly accelerated the maturity of the 
+Notes beneficially held by them; 
+
+
+25a 
+
+
+As of December 12, 1997, GMD and the Guarantors, 
+jointly and severally, were indebted to Plaintiffs in the 
+amount of $80,194,054, representing $75,006,000 in 
+principal amount plus $5,188,054 in accrued and unpaid 
+interest; 
+
+All conditions precedent to Plaintiffs’ claim for breach 
+of contract and the granting of the judgment requested 
+have either occurred, been waived by Defendants or 
+otherwise been satisfied, and Defendants have offered no 
+defenses thereto; 
+
+
+Defendant GMD stated in its 1997 Report on Form 
+20K, filed with the United States Securities and Exchange 
+Commission on June 30, 1997, that its ability to continue 
+as a going concern is in substantial doubt; 
+
+
+On October 28, 1997, Defendant GMD reported that, 
+for the first nine months of 1997 (based upon Mexican 
+Generally Accepted Accounting Principals), it had a net 
+loss of approximately $802 mililon, and a negative net 
+worth of approximately $214 million; 
+
+
+Defendant GMD also reported that its current liabili- 
+ties exceed its current assets; 
+
+
+Defendant GMD, in addition to the Notes, has in ex- 
+cess of $450 million of other creditor claims; 
+
+
+Given GMD’s questionable ability to continue as a 
+going concern, its continuing losses from operations in 
+1997, its negative net worth, its debt load and its inability 
+to pay, as evidenced by the default on the Notes, its debts 
+as they become due, GMD is at risk of insolvency if not 
+already insolvent; 
+
+GMD has stated that it expects to receive at least $309 
+million of the Government Notes; 
+
+
+According to GMD’s balance sheet as of September 30, 
+1997, the Government Notes represent 72 percent of its 
+total current assets and 42 percent of its total assets; 
+
+
+26a . 
+
+
+The Government Notes thus are GMD’s only substan- 
+tial asset; 
+GMD has stated that it plans to use the Government 
+
+
+Notes to satisfy its Mexican creditors to the exclusion of 
+Plaintiffs and other holders of the Notes; 
+
+
+GMD has stated that it has encumbered certain Toll 
+Road assets (“Receivables”) for the benefit of certain 
+Mexican creditors by placing Receivables in “trust” for 
+those creditors, or otherwise assigning or encumbering 
+such Receivables, with the intent that those specific 
+Receivables will be exchanged for Government Notes 
+once the Government Notes are issued; 
+
+In light of Defendants’ financial condition and dissi- 
+pation of assets, any judgment Plaintiffs obtain in this 
+action will be frustrated; 
+
+Plaintiffs have thus demonstrated that, in the absence 
+of the requested preliminary injunction, they will suffer 
+irreparable injury and do not have an adequate remedy 
+ot law; 
+
+
+Moreover, the probability that Plaintiffs will succeed on 
+the merits of their underlying claim for breach of con- 
+tract is almost certain; 
+
+
+Alternatively, Plaintiffs have raised sufficiently serious 
+questions going to the merits to make them a fair ground 
+for litigation and the balance of hardships tips decidedly 
+in Plaintiffs’ favor. Consequently, 
+
+
+IT IS HEREBY FURTHER ORDERED that, pending 
+disposition of this action, Defendants, their agents, officers, 
+servants, employees, affiliates, attorneys and other repre- 
+sentatives, and all persons in active concert or participa- 
+tion with them, are ENJOINED and RESTRAINED from 
+dissipating, disbursing, transferring, conveying, encumber- 
+ing or otherwise distributing or affecting any Defendant's 
+right to, interest in, title to or right to receive or retain, 
+any of the Government Notes; 
+
+
+27a 
+
+
+It is FURTHER ORDERED that nothing contained 
+herein shall prohibit the defendants from commencing any 
+insolvency proceedings under any applicable law. 
+
+Dated: New York, New York 
+December 23, 1997 
+
+
+/s/ John S. Martin, Jr. 
+UNITED STATES DISTRICT JUDGE 
+
+
+{Filed Dec. 12, 1997] 
+[Entered Jan. 2, 1998] 
+
+
+UNITED STATES DISTRICT COURT 
+»OUTHERN DISTRICT OF NEW YORK 
+
+
+97 Civ. 9165 (JSM) 
+
+
+ALLIANCE BoNnpD FuNp, INC., ALLIANCE WorRLD DOLLAR 
+GOVERNMENT FUuNpD II, INc., ALLIANCE GLOBAL DOoL- 
+LAR GOVERNMENT FuND, INC., ELLIOT ASSOCIATES, 
+L.P., AVALON TOTAL RETURN FuND, L.P., THE VARDE 
+Funp L.P., THE VARDE Funp II-A, L.P., THE VARDE 
+Funp II-B, L.P., THe VARDE Funp III-A, L.P., THe 
+VARDE FuNp III-B, L.P., and THE VARDE FuND IV-A, 
+
+
+L.P., Plaintiffs, 
+-V.- 
+
+
+Grupo MEXICANO DE DESARROLLO, S.A., DESARROLLO 
+DE INFRAESTRUCTURA, S.A. DE C.V., Opras Y PRo- 
+yectos, S.A. pe C.V., DESARROLLO URBANO INTEG- 
+RAL, S.A. DE C.V., and DESARROLLO INDUSTRIAL 
+LATINOAMERICANO, S.A. DE C.V., 
+
+Defendants. 
+
+
+OPINION AND ORDER 
+JOHN S. MARTIN, Jr., District Judge: 
+
+
+In connection with the Court’s order today granting a 
+preliminary injunction against defendants, the Court or- 
+ders that the plaintiffs post bond of $50,000. 
+
+
+SO ORDERED. 
+
+
+Dated: New York, New York 
+December 23, 1997 
+
+
+/s/ John S. Martin, Jr. 
+JOHN S. MARTIN, Jr. 
+U.S.D.J. 
+
+
+[Filed Dec. 19, 1997] 
+[Entered Jan. 2, 1998] 
+
+
+_ UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+
+
+97 Civ. 9165 (JSM) 
+
+
+ALLIANCE BOND FUND, INC., ef ai., 
+
+
+.. Plaintiffs, 
+
+
+GRUPO MEXICANO DE DESARROLLO, 
+Defendant. 
+
+
+December 19, 1997 
+9:50 a.m. 
+
+
+Before: 
+Hon. JoHNn S. MARTIN, Jr., 
+
+
+District Judge 
+* * * * 
+
+
+APPEARANCES 
+
+
+ORRICK, HERRINGTON & SUTCLIFFE 
+Attorneys for Elliot Associates LP 
+Avalon Total Return Fund, The Varde Funds 
+
+
+BY: ANDREW J. WERTHEIM, 
+BY: DUNCAN N. DARROW 
+
+
+SEWARD & KISSEL, 
+Attorneys for Plaintiff Alliance Bond Fund, Inc. et al. 
+
+
+BY: DALE C. CHRISTENSEN, JR.., 
+BY: JOHN J. GALBAN 
+
+
+MORGAN, LEWIS & BOCKIUS, LLP 
+Attorneys for Defendant 
+
+
+BY: RICHARD A. MESCON, 
+
+
+30a 
+
+
+BY: GERALD M. FREEDMAN, 
+BY: JOHN E. FAILLA 
+[2] (In open court) 
+
+
+MR. WERTHEIM: Good morning, your Honor, my 
+name is Andrew Wertheim, with Dale Christensen, who 
+represents the Alliance Funds. We represent Elliot Asso- 
+ciates, the Avalon Fund and the Varde Funds. 
+
+
+MR. CHRISTENSEN: Your Honor, I am going to 
+share my argument with my colleague, since he’s repre- 
+senting some different funds. And I will try to deal with 
+the opening remarks, if I might, from the podium. 
+
+
+THE COURT: Sure. 
+
+
+MR. CHRISTENSEN: The relief we are asking here, 
+your Honor, today is the same relief articulated in our 
+papers seeking the order to show cause. 
+
+
+What we are asking, in addition to the relief sought 
+therein, and that the Court was prepared to grant, is not 
+only a continuance of those restraints, but also a direction 
+by this Court to the defendants that they place the govern- 
+ment notes that are about to be received by them, in 
+some kind of trust established in accordance with Mexi- 
+can law. And approved by this Court. 
+
+
+This trust, contrary to the suggestions— 
+
+
+THE COURT: I am going to start running things in 
+Mexico? 
+
+
+MR. CHRISTENSEN: You are not going to be run- 
+ning things in Mexico. What you are going to be doing 
+is using [3] the personal jurisdiction this court has over 
+the parties with whom we have contracted to get them to 
+do certain things, which we believe are not exclusively 
+in our interest, but in the interests of all parties. 
+
+
+And I want to focus on that, if I might, because I 
+think one of the important issues and sensitivities for 
+
+
+3la 
+
+
+this Court is something that we tried to be sensitive to 
+in terms of drafting the relief here. We are not asking 
+this Court to become activists in Mexico, what we are 
+asking is that a level playing field at least be permitted 
+to be established in Mexico so that we can fight for our 
+rights properly in Mexico, in the sarae way that any 
+other creditors could. 
+
+
+We cannot do that at that point in time because of 
+limitations under Mexican law, which are established in 
+the affidavits we submitted in connection with our motion 
+for a preliminary injunction. 
+
+
+We are not trying to establish any kind of possessory 
+right in the assets in question here. And for that reason 
+we believe a lot of the discussion regarding the relative 
+merits of seeking an application for an attachment as 
+opposed to a preliminary injunction are incorrect. And 
+we believe also, and would ask the Court to focus on 
+what we believe is the most dispositive authority on this 
+issue, and that is Judge Sweet’s decision in the Mason 
+Tenders case, [4] which your Honor may have already 
+read. 
+
+
+We believe that the law in that case makes clear that 
+what we are doing here in terms of preliminary injunc- 
+tive relief is totally appropriate. And, moreover, we be- 
+lieve that the standards that are established in this circuit 
+are clearly met. 
+
+
+One of the most, I think, telling things in terms of the 
+Opposition papers which we received very late last night, 
+was that there was really absolutely no contest on the 
+issue of the fact that we are entitled to a judgment, or 
+will be entitled to a judgment. 
+
+
+There has clearly been a default of substantial magni- 
+tude in the interest payments alone in August. The debts 
+in question have concededly been accelerated and are 
+currently due, and there is not a whisper of any kind of 
+payment in progress. 
+
+
+32a 
+
+
+Indeed, what we have is an acknowledgement by the 
+defendant’s attorneys that the same document which is 
+attached as Exhibit, I believe, K to the Cramer affidavit, 
+which they contend was a proposal submitted to us, and 
+which we dispute that fact, indicates in the English trans- 
+lation that when all of these government proceeds are 
+disbursed to the various Mexican creditors, that there will 
+be a mere 5.5 million left for other creditors. And we 
+are certain that the bond holders here are not the only 
+creditors. 
+
+
+[5] So we believe that in terms of the standards in this 
+circuit on the issue of probability of success, that these 
+clearly have been met. 
+
+
+We also believe that irreparable harm can clearly exist. 
+And the standard, again I would refer your Honor to 
+Judge Sweet’s decision in the Mason Tenders case, which 
+is as recent as May of this year, establishes that irrepar- 
+able harm, as we’ve demonstrated, is present in this in- 
+stance. It is clear that the defendants are going to be 
+unable to satisfy any money judgment that’s submitted. 
+
+
+Indeed, in their most recent form 20(f), which they 
+filed before the Securities & Exchange Commission, be- 
+cause this was a Eurobond offering, they state in that, 
+and this is quoted at page 2 of our initial memorandum 
+of law, the company’s current liabilities exceed its cur- 
+rent assets— 
+
+
+THE COURT: —TI read the papers. 
+
+
+MR. CHRISTENSEN: And we believe that that es- 
+tablishes the predicate for insolvency. So we feel that 
+the standards for a preliminary injunction is, as articu- 
+lated by the Second Circuit, are clearly met here. 
+
+
+THE COURT: Mr. Mescon. 
+MR. MESCON: Good morning, your Honor. 
+
+
+Three points, I will just list them as topic notes first 
+and then go into each one. 
+
+
+33a 
+
+
+[6] First, Rule 65 does not authorize the Court to issue 
+a preliminary injunction under the facts of this case. 
+
+
+Second, the delay of the defendants and their use of 
+this Court’s injunctive power as a ploy and negotiation 
+belies the— 
+
+THE COURT: —any defense to their claims on the 
+notes? 
+
+
+MR. MESCON: I have no idea—the hours since I 
+learned of this, and I have been working on injunctive 
+papers, on the pace—there have been notes that are not 
+
+
+paid— 
+
+THE COURT: —appears to be a judgment— 
+
+MR. MESCON: —and this Court has jurisdiction 
+over this action—that action. And there is certainly a 
+good chance that in due course this Court will enter judg- 
+
+
+ment for $75 million. And that judgment can take it to 
+Mexico— 
+
+
+THE COURT: —and if they had a judgment they 
+could get a restraining order, could they not? 
+
+
+MR. MESCON: In Mexico, I don’t know the an- 
+swer. 
+
+
+THE COURT: Here. If a party with personal juris- 
+diction here could be subject to a restraining order that 
+doesn’t allow them to dissipate their assets. 
+
+
+MR. MESCON: There are no assets in this jurisdic- 
+tion in this— 
+[7] THE COURT: —the restraining order would re- 
+strain them from taking any action. 
+
+MR. MESCON: Right, and— 
+
+THE COURT: —anywhere. 
+
+
+MR. MESCON: And postjudgment, that could be the 
+case, perhaps. 
+
+
+34a. 
+
+
+THE COURT: So that’s the case postjudgment. We 
+have got a case where there is no defense presented, why 
+shouldn’t I be able to provide them with the same relief? 
+
+
+MR. MESCON: Because, number one, your authority 
+is limited by Rule 65. And while you might be able to 
+issue an attachment under New York State law, an in- 
+
+
+junction, and a claim for money damages only, does not 
+lie under these facts. 
+
+
+Second, the claim for irreparable injury does not jus- 
+tify the award of an injunction. And, third, there are lots 
+of other parties over whom this court does not have juris- 
+diction— 
+
+
+THE COURT: -—they are asking me to fashion a 
+remedy that will protect those people’s rights. They are 
+saying, we got a debtor here who is absolutely liable to 
+us, presents no defense, and the debtor wants to— 
+
+
+MR. MECON: —your Honor, they— 
+
+
+THE COURT: —+you got to wait for me to stop, 
+Sandi gets very annoyed. You don’t want to get her 
+mad at [8] you. 
+
+
+MR. MESCON: The notion that the debtor is going 
+to dissipate the assets is not established here. The docu- 
+ment which they rely on, which is a 408 document, given 
+in the context of settlement discussions, was a proposal 
+to them, it was a proposal that contained in it a require- 
+ment of their agreement before the transfers would take 
+place. There is no notion of anybody going out in the 
+dead of night and reassigning things. 
+
+
+The principal assignment of these notes, about which 
+they complain, occurred in August of 1997, was disclosed 
+in a public release in August of 97. For four months 
+that hundred million dollar assignment has been known. 
+The defendant—plaintiffs were well aware of it. 
+
+
+35a 
+
+
+During the course of the negotiations the plaintiffs 
+decided, essentially, to try and crank up the heat a little 
+bit and have already, as of this moment, essentially 
+prevented the defendants from disposing of what could 
+be hundreds of millions of dollars for the purpose of 
+running its ongoing operations. There is no capacity at 
+all, the entire—a very substantial part of the cash flow 
+of the defendants, like a Chapter 11 in Mexico, we've got 
+the whole thing closed down, and it has been for a week. 
+None of theses funds could be assigned, when they are 
+received, they can’t be spent. And what we have is a 
+[9] situation where this court is going to be required to 
+make decisions about whether wages can be paid, whether 
+certain ongoing operations can be made, that really are 
+not within the jurisdiction of this court. The other 
+parties aren’t before this court. 
+
+
+The Mexican FDIC, “fro pro ra bre” I think is how 
+they say it, is not before this court. And this court has 
+a contract action, it ought to decide it. And then judg- 
+ment will be entered. 
+
+
+The Court’s judgment will be entered and things will 
+follow in the ordinary course. 
+
+
+To suggest that we are dissipating assets, the way that 
+happened in Marcos, that we are stealing in the dead of 
+night, this isn’t so. There are ongoing negotiations, pro- 
+fessional advisors on both sides, meetings are scheduled 
+for early January, proposals and counterproposals have 
+been exchanged. You see them attached as exhibits to 
+our affidavit. Nothing being done on the sly, nothing 
+is being done in a way to whisk away assets. 
+
+
+The authority of this court to protect rates, eventually 
+judgment, is really designed for those situations where 
+somebody is doing something, that’s small W, wrong. 
+
+
+THE COURT: It seems to me that when you are 
+dealing with the court’s equitable power in this area, that 
+
+
+36a 
+
+
+there is a balancing of factors that gets taken into [10] 
+account. 
+
+
+If there were a serious question on the merits here, 
+then perhaps the nature of the relief would require the 
+Court to proceed with perhaps more caution. But when 
+you have a situation where there is no defense on the 
+merits, in an order that could clearly be entered, in my 
+view, and you can disabuse me of that, if there were, in 
+fact, a judgment, why should I delay entry of that judg- 
+ment simply because the debtor is going to try to use the 
+process of the court to delay entry of a judgment as to 
+which there is no defense? Why is that equitable? 
+
+
+MR. MESCON: I guess first, the first response, is 
+there a question about whether the court’s equitable 
+power reaches to a preliminary injunction when there is a 
+claim for money damages only in this case. Leave that 
+aside, that’s in the papers. Second point, is— 
+
+
+THE COURT: —I think I have entered a judgment 
+in those situations. When there has been a showing that 
+
+
+the debtor is not going to be in a position to make pay- 
+ment. 
+
+
+MR. MESCON: When the subject matter of the dis- 
+pute related to the action before the Court, perhaps, 
+there was a breach like in the Marcos case, $5 billion, 
+the subject was who owned them. 
+
+
+I don’t know—but whether your Honor has done so, 
+when the fund that has been attached bears no [11] rela- 
+tionship to the action that was before the court, and when 
+the property was not within the state or the country. 
+
+THE COURT: Anyone my age relying solely on 
+their memory is in jeopardy of error. My memory is that 
+I have done it. 
+
+
+MR. MESCON: In addition, your Honor, that in 
+this case, what the effect of the preliminary injunction 
+
+
+37a 
+
+
+that’s being sought here would be, would be to amount to 
+a disruption of the orderly flow of the, what may amount 
+to insolvency proceedings, or bankruptcy proceedings, or 
+work out of one kind or another with all of the parties 
+involved. 
+
+
+It’s as if one of the parties, one of the many parties 
+with an interest here, those parties include Mexican cred- 
+itors, Mexican government, the Mexican people, the 
+Mexican FDIC and the taxing authorities in Mexico, all 
+have an interest in this, and for the last few months with 
+the defendant—the plaintiffs’ participation have been dis- 
+cussing and working through these issues. 
+
+Now, one of the parties now disrupts that orderly 
+flow— 
+
+THE COURT: —possession is nine-tenths of the 
+game. The defendants say we have the money and if you 
+don’t do what we want you to do, we are going to give 
+that money to somebody else and leave you high and dry. 
+
+
+MR. MESCON: We haven't said that, your Honor, 
+[12] the defendants have not said that. 
+
+
+And the documents that are attached to the moving 
+papers, which was a settlement negotiation document, 
+was—is not—is a proposal, it is not a statement of what 
+we are going to do; hey, guys, this is our suggestion, what 
+is your reaction to it. That’s what that document was. 
+
+
+Indeed, the proposal of the other side is to set up what 
+is called an appropriate Mexican trust. And the proposal 
+involves five trustees, three of whom are not from either 
+the plaintiff or defendant in this action. 
+
+How the Court will direct that the Mexican FDIC ap- 
+point a trustee to supervise in part the trusts that this 
+Court might set up, are things that just shouldn’t be done 
+here. 
+
+
+There is an action here that there could be a judgment 
+here. But essentially the reorganization proceedings, 
+
+
+38a 
+
+
+which is what we are talking about, what we do in the 
+equivalent Chapter 11 reorganization of a troubled com- 
+pany, is not something that ought to be under the super- 
+vision of this Court. 
+
+THE COURT: Suppose I simply enter an order that 
+they are not to dissipate any funds other than in the 
+ordinary course of business operations. 
+
+MR. MESCON: And limit it to the amount de- 
+manded in the complaint, with the interest that’s ac- 
+crued? Because [13] the Court’s present order extends 
+far beyond the ad damnum in the complaint. 
+
+
+May I have a moment, your Honor? 
+(Pause) 
+THE COURT: Sure. 
+
+
+MR. MESCON: We would recommend to our client 
+that it accept that proposal. 
+
+THE COURT: Let me hear from the plaintiffs why 
+that isn’t sufficient under the day. 
+
+
+MR. WERTHEIM: Your Honor, it would be suffi- 
+cient under the day, with one exception, the ordinary 
+course of business we have to be careful. They have 
+taken the positions in their papers already, your Honor, 
+that the tax dissipation, the employee lien dissipation, and 
+the emergency bank loan dissipation, have all been in the 
+ordinary course. But what’s behind each of those, the tax 
+claim for 100 million was in settlement of a larger— 
+
+
+THE COURT: —let me suggest this, I have some 
+people waiting for me on another matter, why don’t you 
+talk to each other and see if you can put that concept in 
+mind. Work out some agreement. 
+
+
+It seems to me something that provides, and you can 
+deal with ordinary course of business, it seems to me 
+any transaction in excess of a certain amount would not 
+be ordinary course. And that before any such transac- 
+
+
+39a 
+
+
+tion would [14] take place, parties will be given ade- 
+quate notice to come to court and we can deal with it on. 
+that basis. 
+
+MR. WERTHEIM: May I also suggest look to 
+their cash flow first before— rs: 
+
+
+THE COURT: —talk to each other, see where you 
+come out on that general concept. It does seem to me 
+that this is a situation where the plaintiffs are entitled to 
+the plaintiffs who are involved, and may ultimately end 
+up in insolvency proceedings in Mexico. 
+
+I am not going to run Mexico from here. If I have 
+to do that we will go down there. We are getting to that 
+time of year where it will be pleasant. 
+
+MR. MESCON: We have to make sure the water in 
+Cancun is still fresh. 
+
+THE COURT: I travel with my own water when I 
+leave the country. 
+
+
+MR. WERTHEIM: Thank you, your Honor. 
+
+
+THE COURT: And why don’t you come back to me 
+after you have talked. 
+
+
+MR. CHRISTENSEN: Your Honor, may we stay 
+here and have this discussion? 
+
+THE COURT: Sure, use the jury room. 
+
+(Recess) 
+
+THE COURT: Good afternoon. Where do we 
+stand? 
+
+[15] MR. CHRISTENSEN: Your Honor, my name is 
+Dale Christensen of Seward & Kissel. 
+
+We wanted to report that we discussed, at considerable 
+length, this afternoon, with Mr. Mescon and his col- 
+leagues, the attempt to resolve this matter upon some 
+kind of consent agreement. We consulted in good faith. 
+I think it is fair to say that counsel made an effort, and 
+
+
+40a 
+
+
+we were able in many instances to narrow areas of dis- 
+agreement. But, unfortunately, during the course of the 
+discussions we found out that, at least from our vantage 
+point, the facts were, in fact, worse than we had expected. 
+And we are, regrettably, not in a position to enter into 
+such a consensual agreement. 
+
+
+We would, your Honor, urge the Court to enter an 
+order. 
+
+
+And I believe Mr. Mescon might want to make some 
+statement. 
+
+
+MR. MESCON: I believe counsel submitted a form 
+of order. During the course of the day we had learned 
+some slightly different factual information which we pro- 
+posed to submit to the Court in a supplemental affidavit 
+that we will serve, probably on Monday. 
+
+
+But summarizing it briefly, the gross amount to be 
+distributed rather than being 305 million is 329 million. 
+And the total amount of assignments that have been made 
+[16] prior to the entry of the Court’s temporary restrain- 
+ing order were a gross amount of 256 million, which was 
+made on account of $214 million net of liabilities. So 
+the balance remaining, as we understand it, is $53 million 
+in notes gross, but 95 million in notes net after over- 
+assignments are returned from taxing authorities and 
+others. 
+
+
+Also, with regard to the form of the—form of the 
+preliminary injunction, we believe, of course, believe that 
+no preliminary injunction should be entered for the rea- 
+sons set forth. 
+
+
+If your Honor is inclined to continue the temporary 
+retraining order pending your determination of the pre- 
+liminary injunction motion, we would propose that that 
+temporary restraining order be modified so as to permit 
+transfers in the ordinary couse of business to be defined 
+merely as, with the approval and consent of the other side. 
+And failing that, bringing the matter to your Honor’s 
+
+
+4la 
+
+
+attention rather than the blanket bar that exists in the 
+proposed order that is being submitted to the Court. 
+
+
+MR. CHRISTENSEN: Your Honor, in that regard, 
+I just want to make a few points. And your Honor may 
+want to ask us some questions. 
+
+
+We do not favor having any exception for ordinary 
+course transactions. Frankly, some of these additional 
+assignments we found, which were very troubling, are not 
+[17] assignments that we believe comply with the agree- 
+ments. We are concerned that that kind of activity is 
+continuing and, indeed, from our perspective, it makes 
+the need for this injunctive relief all the more important 
+and all the more imminent. 
+
+And we feel that any exceptions, other than in terms 
+of ordinary course transactions, for these particular funds, 
+which I might remind the Court, were designated to pay 
+creditors, or any exception in terms of the amount that 
+is covered by this, other than the amount that the gov- 
+ernment notes themselves total, we feel that perhaps en- 
+courages some more of these types of assignments, as my 
+colleague used, which we frankly feel are violative of the 
+agreement, and are the very kinds of things that we 
+wanted to discourage from happening. 
+
+
+They’re the types of transactions that are effecting the 
+level playing field that we hope will be found by your 
+Honor entering a preliminary injunction in the form that 
+we recommended, which would include setting up some 
+kind of fund that they, in turn, would have, you know, 
+significant influence on. And it would be held in Mexico. 
+But it would at least guarantee that the amounts of money 
+in there would not be assigned over to other creditors, or 
+other preferred creditors. In fact, we recognize your 
+Honor may wish to enter its own order. We have pre- 
+pared a draft [18] order and we have it on disk. And I 
+can hand it up to the Court at this time. 
+
+
+THE COURT: Sure. 
+
+
+42a 
+
+
+MR. CHRISTENSEN: And we have given a copy 
+to our adversary. 
+
+
+THE COURT: Mr. Mescon, let me hear your com- 
+ments. 
+
+
+MR. MESCON: First of all there are a number of 
+the proposed findings of facts that are contained in the 
+proposed order with which we take issue. 
+
+In reading it over the last five minutes, one that jumps 
+out is on the top of page 5, in which the findings made 
+that the note shall be secured equally and ratably with or 
+prior to such indebtedness with certain exceptions, are 
+not relevant here. We believe the exceptions are very 
+relevant since principal asisgnment was for taxes, which 
+we believe is one of the exceptions .eferred to in the 
+order. 
+
+
+There is, I believe, other language in the proposed 
+findings of facts that go well beyond what is either neces- 
+sary for the determination of this motion or which— 
+as to which there has been appropriate presentation of 
+evidence in connection with the motion. 
+
+Leaving aside the proposed findings of fact for a mo- 
+ment, I believe that the decretal paragraph of the order, 
+[19] number one, causes an undue hardship, is not limited 
+to the minimum necessary to effectuate the purposes— 
+
+
+THE COURT: —what would do that? 
+
+
+MR. MESCON: That is balancing the hardships, a 
+provision that would permit the defendant to continue 
+to function, assuming your Honor were inclined to 
+grant— 
+
+THE COURT: -—counsel makes the point that these 
+notes were not, these government funds were coming in, 
+were to satisfy creditors, not to be operating funds. 
+
+MR. MESCON: That is a—the two points respon- 
+sive to that, first, creditors mean all kinds of creditors. 
+And the funds that are received are being used entirely 
+
+
+appropriately in that regard. 
+
+
+43a 
+
+
+And, second, it is impossible for the company to con- 
+tinue to function without access to some of these funds. 
+And what that will be doing here, if this injunction is 
+entered, is essentially precipitating, this may be the intent 
+of plaintiffs, I don’t know, but precipitating the insol- 
+vency—the bankruptcy of the defendants either in a 
+Mexican bankruptcy proceeding or through repeated pre- 
+liminary injunction applications in this court, with respect 
+to the terms of the trust. 
+
+I think also the decretal paragraph with respect to an 
+appropriate Mexican trust is, with respect, beyond the 
+competence of the Court. The Court is not learned in 
+[20] Mexican law. The trust— 
+
+
+THE COURT: —how do you know that? 
+
+MR. MESCON: I believe—I said with respect. 
+
+THE COURT: That assumes a fact not in evidence. 
+It happens to be true. 
+
+MR. MESCON: The proposed form of trust, which 
+is attached to the moving papers, provides a group of 
+five trustees, three of whom this court does not have juris- 
+diction over. 
+
+
+This court does have jurisdiction over the trustee from 
+the defendant and the trustee from the plaintiff, but there 
+are trustees from Fobrick Proba, there are trustees from 
+other creditors that are in the proposed form of trust 
+that the defendants have—the plaintiffs have proposed 
+that are not before this court. 
+
+
+This Court, I don’t think, could compel them to serve 
+as trustees. 
+
+The notion of this Court managing a trust in Mexico 
+is not as an efficient use of either this Court’s time or 
+sensible in types of comity between the Court of the— 
+of this court and in Mexico. 
+
+
+What really is, as the negotiations go forward over the 
+next 30 days, the courts in Mexico sensibly are closed 
+
+
+44a 
+
+
+till New Year’s, so nothing is going to happen down there 
+over the next two weeks. But as the— 
+
+
+[21] THE COURT: —more reason we should handle 
+it, since we will be here. Mrs. Thomas never stops work- 
+ing. 
+
+MR. MESCON: We suggest that what we are going 
+to have here is a deep involvement of this Court in what 
+I anticipate will be a continued series of applications with 
+regard to this subject matter. Unnecessarily. 
+
+
+I think that if we were—if the Court were inclined to 
+grant a preliminary injunction, which again, we propose, 
+if the order were to be more limited in the form of a 
+restraint, like the temporary restraining order, with an 
+exception in some form for ordinary course expenditures, 
+that would be easier for the Court to enforce because 
+the Court does have personal jurisdiction over the de- 
+fendants and would not involve the Court in the opera- 
+tion and supervision of the Mexican law trust. 
+
+
+THE COURT: How would you define ordinary 
+course? 
+
+
+MR. MESCON: Ordinary course would be defined 
+as—the thought I had in mind is something not unlike 
+what the United States bankruptcy code defines it as, 
+would not be preferenced under our bankruptcy code, 
+with a release valve that if there was ever a disagree- 
+ment, then the Court could decide on some kind of basis, 
+or a referee appointed by the Court, if the Court didn’t 
+want to do it himself. There are ways to do it that I 
+hadn’t really thought out, but something— 
+
+
+[22] THE COURT: —you think I prefer trying nar- 
+cotics cases— 
+MR. MESCON: I dare say, after the third one you 
+
+
+wouldn’t want to entertain the application, what’s the 
+ordinary course. 
+
+
+There are some ways that would give a little more 
+wiggle room for the defendant as it goes forward trying 
+
+
+45a 
+
+
+to work this thing out over the next 60 days, which is 
+really what, as a practical matter, this is won in 60 days, 
+this would be all over, or—whether there will be a full- 
+blown bankruptcy proceeding, or working it out. 
+
+
+MR. CHRISTENSEN: Your Honor, we are not try- 
+ing to engage the Court in some kind of extraterritorial 
+proceeding. All we are asking, if you look at the last 
+paragraph, is that the defedants be directed to set up a 
+trust in compliance under Mexican law. And all that this 
+Court’s involvement is is to approve the ultimate form 
+of that, which we hope will have some consultations on. 
+And as Mr. Mescon already probably knows, these types 
+of trusts are not unusual. Indeed, we believe that some 
+of the other creditors have been preferred, have been the 
+beneficiaries of these types of trusts. So we are not talk- 
+ing about anything very monumental. 
+
+
+We are very concerned about this ordinary course 
+loophole, because it seems to us, based on the history 
+that [23] the position that they are advocating today, 
+this loophole is large enough to drive trucks through, 
+it is really interpreted by the defendants in a very broad 
+
+
+way. And we have to, from our perspective, put an end 
+to that. 
+
+
+The Mexican government in its bailout of these com- 
+panies intended these funds, and I’d like Mr. Darrow, 
+who is actively involved with the transaction, to just speak 
+to that, to be used for creditors. It was not meant to be 
+used for the operating budgets, they have other sources 
+of revenue, they receive $10 million a month in terms 
+of operating revenues, they are still in a position to run 
+their business. 
+
+THE COURT: Let’s assume they receive $10 mil- 
+lion a month, and they have $12 million of bills, it seems 
+to me they end up with $2 million in new creditors. 
+
+
+MR. CHRISTENSEN: That’s true, your Honor. 
+
+
+46a 
+
+
+THE COURT: And if those new creditors are sup- 
+plying goods that are necessary to keep the company 
+operating, it is essential that they be paid. 
+
+MR. CHRISTENSEN: Your Honor, we are not dis- 
+
+puting that. And one of the reasons we've, you know, 
+sought relief that does not just directly benefit us, but 
+benefits, you know, the whole class of creditors, is to 
+merely put ourselves in a position where we are treated 
+equitably with the other creditors. 
+[24] What has happened to date, is that our investment 
+interest in these companies has been discriminated against. 
+And the only way we can protect ourselves is getting 
+some kind of compulsion from this Court that the de- 
+fendants who contracted with us, agreed to subject them- 
+selves to the jurisdiction of this Court, will at least treat 
+us on an even playing field with the other creditors. That's 
+all we are asking for. 
+
+
+MR. DARROW: Your Honor, if I could speak 
+briefly. Duncan Darrow. 
+
+
+First of all, in terms of the—in the record as an attach- 
+ment to our affidavits is the company’s third quarter re- 
+sults for this year, 1997, financial results, which show 
+for the third quarter of this year revenues of about 36 
+U.S. million dollars, about $10 million a month. So the 
+company has some— 
+
+
+THE COURT: —that means nothing unless I know 
+what the expenses are. People who make $133,000 a 
+year, is a significant amount of revenue. But I will show 
+you my expenses and prove to you it is not. 
+
+MR. DARROW: Secondly, in the defendant’s affi- 
+davit in opposition to this motion, they talk about the 
+fact that, quote, the controlling stockholders of this chain 
+company, a name called Bi-stairios, is—as part of an 
+overall restructuring, would invest a minimum of $50 
+million [25] in additional equity capital close quote. 
+That’s citing paragraph 28 of the Zapata affidavits sub- 
+mitted by the defendants. 
+
+
+—— oe 
+
+
+47a 
+
+
+So the controlling shareholders are prepared to invest 
+$50 million, which I—it is fair to infer that this is a 
+group of stockholders with a considerable wealth. And 
+if there is some amount of monies that the company is 
+in dire need of, that is simply a source of capital. 
+
+
+The other portion, when these receivables, and once 
+they are swapped for government notes, government notes 
+are, in effect, pledged to various select creditors, are 
+part of our concern, the first thing it does, violates our 
+contract rights under the fiscal agency agreement which 
+governs our notes. It says that—it says, as to—there is 
+a negative pledge, meaning that the issue of the bonds 
+GMD cannot pledge away, assign away, encumber away 
+SE Se. SERN ENS 
+
+
+So the concept that in the ordinary course of its business 
+the GMD should be entitled or somehow ought to be 
+ag et tins nt Mine cane ee en aed 
+indisputable contract rights in the fiscal agency a t, 
+also a document submitted with our affidavit. Lees 
+
+That has a very narrow exception for ordinary course, 
+your Honor. And the ordinary course exception to the 
+negative pledge—so-called permitted liens, in other [26] 
+words encumbered, GMD can make in respect of its 
+assets, the ordinary course exception, if you will, and I 
+am reading from page 816 of the fiscal agency agree- 
+ment, refers to, in connection with social security, work- 
+ers compensation, employment insurance taxes and simi- 
+lar laws or regulations. In other words, if in the ordinary 
+course of its business, there are some regulatory demands 
+pursuant to which GMD must pledge or encumber assets, 
+there is an exception here. 
+
+But as a general rule, I don’t think GMD’s counsel 
+would dispute this, these kinds of assets cannot just be 
+episodically pledged or encumbered away. 
+
+
+Last point, your Honor, about ordinary course of 
+business. We await the supplemental affidavits, supple- 
+
+
+48a 
+
+
+mental to what Mr. Zapata has told the Court in its 
+sworn testimony in his affidavit, the statements in his affi- 
+davit today. But our concern, your Honor, is that, re- 
+grettably, the concept of this company operating in an 
+ordinary way, and its ability to continue to operate in an 
+ordinary way, is itself subject to question, quite apart 
+from the fact it has already publicly stated that it is on 
+the verge of insolvency. 
+
+
+What has happened, your Honor, in the discussion 
+this is afternoon, is, we basically learn, in terms of these 
+receivables, and what we thought had been pledged, and 
+what we thought might be left over and encompassed by 
+your [27] Honor’s injunction, instead of about 155 mil- 
+lion of receivables that had been already pledged or 
+spoken for, some of which unfortunately we believe vio- 
+lated the negative pledge, it looks like 250 million have 
+already been encumbered or spoken for. And there is 
+only 209 totality. And we await this affidavit to explain 
+these curious transactions. 
+
+
+But I think it is fair to say that the affidavit before 
+the Court from Mr. Zapata speaking of 150-some mil- 
+lion of receivables in one way or another already pledged, 
+assigned or spoken for, is off by a factor of error of 
+about $100 million. 
+
+
+And, you know, when a very senior member of man- 
+agement submits an affidavit off by $100 million on what 
+is a very important issue, the concept that we should 
+take comfort in them disposing of these assets in an or- 
+dinary course of business way, is unfortunately something 
+that is very difficult for us to get comfortable with. 
+
+
+So that kind of exception, which they seem to be re- 
+questing to the injunctive order now before your Honor, 
+is one that we, frankly, because of the events of today 
+and prior, have a very difficult time getting comfortable 
+with. 
+
+
+49a 
+
+
+MR. MESCON: Just to clarify a couple of the in- 
+stances of the differences between the figures we discussed 
+this morning and those we know now. 
+
+
+[28] The largest single assignment was one that oc- 
+curred in October 1996, more than a year ago, which 
+assignment was not included in the list, it is not at all a 
+recent assignment, it is an old assignment. There is about 
+$40 million of difference between gross assignments and 
+net assignments. That makes up $40 million of that dif- 
+ference. And there is $20 million more in the pot than 
+we thought there was this morning. 
+
+
+So while I agree with counsel that I am sorry that we 
+couldn’t have presented a more accurate picture to the 
+Court this morning in the affidavit, something that we 
+will correct on Monday, there is no suggestion of any 
+effort to conceal, obstruct, hide or otherwise obfuscate 
+any of the facts that are present here. 
+
+
+And, indeed, in thinking about the negative pledges, 
+some of the categories that counsel referred to are, some 
+of the principal categories, are the assignments made 
+here a long time ago, publicly, known to plaintiffs, for 
+purposes like taxes, severance benefits that are arguably 
+within the negative pledge. 
+
+And I guess one other thought, I believe that there 
+are remedies that if this Court is inclined to issue an 
+injunction, there are remedies that the Court could 
+fashion that are easier for the parties and the Court than 
+the one proposed by plaintiff, that get the bulk of what 
+[29] plaintiff is looking for here without unnecessarily— 
+
+THE COURT: —for instance? 
+
+
+MR. MESCON: For instance, and in personon re- 
+straint without the creation of a trust to parties that 
+are subject to the jurisdiction of the Court, restraining 
+them, or injoining them from making distributions, with 
+the exception either of ordinary course, or to make it 
+
+
+simpler, even a liquidated sum, a sum of, for the sake 
+ba ane 2 in 
+
+
+50a 
+
+
+of argument, $5 million, and say that defendants may 
+alienate $5 million of these things and not a penny more 
+between now and February 28, for example. Hopefully 
+by that time the whole thing will be over. 
+
+It doesn’t require the involvement of the Court, it gives 
+most but not all of what they are looking for, it ties up 
+the bulk of what’s out there, and it doesn’t—it allows the 
+company to operate as it tries to restructure over the next 
+three months. 
+
+
+There is no magic to that number. Carve out a little 
+piece. 
+
+
+THE COURT: What's wrong with that? 
+
+
+MR. CHRISTENSEN: Well, your Honor, one of the 
+things, until we know more what the financial situation 
+is, 5 million may be all that’s there. 
+
+
+In fact, if you look at the proposal that’s attached as 
+K, they were suggesting to us on December, I [30] be- 
+lieve, 2nd, that if they made all of these other disburse- 
+ments to other creditors, that there would be 5.5 million 
+available to the U.S. bond holders on a $250 million 
+bond obligation. I’m concerned. That 5 million may be 
+the only asset left ,and I wouldn’t want to agree neces- 
+sarily that it could go out the door at this point. So we 
+are really concerned. 
+
+
+I think that from our perspective the best thing that 
+the Court can do at this point, is to try and solidify the 
+current situation and prevent any further transactions dis- 
+bursing efforts. 
+
+
+Obviously, if the defendants feel that they are entitled 
+to use these funds for operating purposes, and we strongly 
+disagree with that in terms of the government directives, 
+they can come back to the Court and ask for some relief. 
+We are not going to oppose that, obviously, if it is ra- 
+tional and reasonable. If there is some chance that this 
+entity can survive and prosper, that’s very much in our 
+interest. We are in a very difficult situation here finan- 
+
+
+Sila 
+
+
+cially. So I don't see any objection coming for any rea- 
+sonable proposal, and I think those kinds of things can 
+be brought up if they need to be brought up. 
+
+THE COURT: What is the problem with, rather than 
+creating a trust, which I have a little bit of concern with 
+this Court, or setting up a foreign trust, simply keeping 
+[31] the restraint on the defendants, they cannot dissipate 
+any of this money subject to further order of the Court? 
+That way the defendant, if they have a compelling need, 
+can come back. In the interim, you can be working to- 
+gether and, obviously, you may be agreeable that certain 
+necessary payments have to be made. 
+
+
+they include barring the transfer of receivables that the 
+
+
+company holds, and for which the government, in a sense, 
+is paying what we understand to be 100 cents on the 
+dollar for bad receivables, that bars them from as- 
+
+
+52a 
+
+
+MR. CHRISTENSEN: Yes. 
+
+
+MR. MESCON: But receivables mature, they become 
+cash, and then the cash presumably could be spent. Or— 
+if not, then there is nothing in the company. Because 
+that’s how companies get cash, by having receivables get 
+paid. 
+
+THE COURT: But that’s not in this particular fund. 
+
+
+MR. MESCON: Right. 
+
+
+MR. DARROW: There is—maybe counsel for GMD 
+can clarify this—there is a group of receivables which 
+relate towards, specifically, associated or specifically se- 
+lected with the construction of toll roads. 
+
+It is not difficult to identify that batch of receivables, 
+because we all know what work was involved, work on 
+the toll roads. And it is that species or type of receivable 
+very easily identified that GMD will receive these gov- 
+ernment issued notes in exchange for. There will be a 
+swap of the so-called toll road receivables for the [33] 
+so-called government notes. 
+
+And, in fact, to make it even easier to identify those 
+receivables, GMD’s toll road receivables were submitted 
+to Price, Waterhouse last month for review and valida- 
+tion, basically to be sure they were okay, before the gov- 
+ernment exchange occurs. 
+
+What we are saying is that the scope of the injunction 
+would prevent GMD from any disposition of the toll road 
+receivables. A very readily identified type or kind of 
+receivable. 
+
+
+If GMD built a bridge in Buenos Aires last month, 
+and it has an invoice owing from the owner of that bridge 
+for a million dollars, that is not the receivable that we 
+seek to reach, obviously, in this injunction. 
+
+MR. MESCON: I guess I come back to suggesting 
+that it is easier, instead of sorting out receivables, to carve 
+out an amount. I think that the Court— 
+
+
+53a 
+
+
+THE COURT: —I don’t think it is. I mean, nice 
+try, but my view is that it is appropriate to keep a re- 
+straint on these funds in place that, it seems to me, as I 
+understand this receivable issue, the government is pay- 
+ing, since buying these receivables, that those receivables 
+can’t then be transferred to somebody else, or that rather 
+than your clients getting the money, it goes to another 
+creditor. 
+
+MR. MESCON: Our understanding is that the [34] 
+receivables that are going to be exchanged for the gov- 
+ernment notes when the government notes are issued, are 
+the very same thing, essentially, as the government notes. 
+And the possession and the right to tender those receiv- 
+ables to the government is the same as having the gov- 
+ernment note. If that’s the question, then— 
+
+
+THE COURT: —what I am going to suggest is the 
+following, it is my view that it is appropriate to enter an 
+injunction, basically preserve this fund and these notes, 
+with the understanding that if that is something you can 
+come back, Mr. Mescon, to seek any modification for, 
+on the showing of some need in order to keep this com- 
+pany alive, on notice to your adversaries. That way we, 
+hopefully, can basically preserve the issue status quo. 
+
+
+And what I am going to suggest you do is that you 
+get together and see if you can’t agree on a form of 
+injunction to accomplish that end, since you know better 
+than I all the magic words that should be used in that 
+endeavor. Besides it makes my life easy. 
+
+
+MR. CHRISTENSEN: Your Honor, in that regard, 
+
+
+until we have attempted to fashion that language, can the 
+TRO continue? 
+
+
+THE COURT: Correct. 
+
+
+MR. CHRISTENSEN: And Mr. Mescon will notify 
+his client that that continues. - 
+
+
+54a 
+
+
+[35] THE COURT: Correct. And I would suggest 
+that you plan to—I suppose I can give you Monday to 
+do that, and come and see me on Tuesday. How’s that? 
+MR. MESCON: Fine. 
+MR. DARROW: One point of clarification, it is 
+clearly understood, under the scope of the TRO, that it 
+
+
+affects the toll road receivables as well as government 
+notes, not the government notes— 
+
+
+THE COURT: I think that is very clear. 
+MR. MESCON: Yes. 
+MR. DARROW: I thought so, thank you. 
+
+
+THE COURT: So I am going to continue the TRO 
+until next Tuesday. 
+
+
+MR. DARROW: Thank you, your Honor. 
+
+THE COURT: Mrs. Thomas, you are going to give 
+us a time? 
+
+THE DEPUTY CLERK: 11:30. 
+
+MR. WERTHEIM: Your Honor, we have courtesy 
+
+
+copies here of some papers that you got, the memo this 
+morning, but we also filed some supplemental affidavits. 
+
+
+THE COURT: Okay. Tender them to Mrs. Thomas. 
+What I am simply going to do is endorse, on the copy 
+of the original order to show cause that I have, that 
+
+
+the temporary restraining order is continued until De- 
+cember 23. 
+
+
+[36] MR. MESCON: So we are now into the second 
+ten-day period, correct? I want to make sure that we 
+resolve the preliminary injunction issue by year end. 
+THE COURT: Absolutely. 
+Mrs. Thomas you can file that. Okay. 
+
+
+Have a pleasant weekend, Sandi. 
+
+
+ROD LOOT OE IDLO NOC LLG +e NO PB 
+
+
+55a 
+[Filed Dec. 12, 1997} 
+{Entered Jan. 2, 1998] 
+
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+
+
+97 Civ. 9165 
+
+
+ALLIANCE BOND FunpD, INC., ALLIANCE WoRLD DOLLAR 
+GOVERNMENT Funp II, INc., ALLIANCE GLOBAL DoL- 
+LAR GOVERNMENT FuNpD, INC., ELLIOT ASSOCIATES, 
+L.P., AVALON TOTAL RETURN FUND, L.P., THE VARDE 
+Funp, L.P., THE VARDE Funp II-A, L.P., THE VARDE 
+Funp II-B, L.P., THe Varse Funp III-A, L.P., THe 
+VARDE Funp III-B, L.P., and THE VARDE Funp IV-A, 
+Bedtiel 
+
+Plaintiffs, 
+~against- 
+
+
+Grupo MEXICANO DE DESARROLLO, S.A _., DESARROLLO DE 
+INFRAESTRUCTURA, S.A., DE C.V., OBRAS Y PROYEC- 
+tos, S.A. pE C.V., DESARROLLO URBANO INTEGRAL, 
+S.A. pe C.V., and DESARROLLO INDUSTRIAL LATINO- 
+AMERICANO, S.A. DE C.V., 
+
+Defendants. 
+
+
+ORDER TO SHOW CAUSE FOR A PRELIMINARY 
+INJUNCTION AND TEMPORARY 
+RESTRAINING ORDER 
+
+
+Upon consideration of the Summons and Complaint, 
+the Declaration of Michael Kramer, executed on Decem- 
+ber 11, 1997 and the exhibits thereto, the Declaration of 
+Mario Roberto Martinez Guerrero, executed on December 
+10, 1997, and the oral application of plaintiffs’ counsel, 
+and any defenses thereto: 
+
+
+56a 
+
+
+I. 
+
+
+IT IS HEREBY ORDERED that defendants show 
+cause before this Court, at Room 52, United States Court 
+House, 500 Pearl Street, New York, New York, on De- 
+cember 19, 1997, at 9:30 o'clock in the a.m. thereof, or 
+as soon thereafter as counsel can be heard, why a pre- 
+liminary injunction should not be issued herein pursuant 
+to Rule 65 of the Federal Rules of Civil Procedure re- 
+straining and enjoining defendants, their agents, officers, 
+servants, employees, affiliates, attorneys and other repre- 
+sentatives, and all persons in active concert or participa- 
+tion with them, pending the final determination of this 
+action, from dissipating, disbursing, transferring, convey- 
+ing, encumbering or otherwise distributing or affecting 
+any defendant’s right to, interest in, title to or right to 
+receive or retain, any rights, receivables, notes or any 
+other form of consideration, distributed or to be distrib- 
+uted to defendants or defendants’ designees pursuant to 
+the toll road rescue plan established by the Mexican 
+Ministry of Communications and Transportation under a 
+decree dated August 27, 1997 (the “Government Notes”) 
+and requiring Defendants to deposit the Government Notes 
+into an appropriate trust established under Mexican Law 
+and approved by the Court. 
+
+
+Il. 
+
+
+IT IS HEREBY FURTHER ORDERED that, pending 
+the determination of plaintiffs’ application for a prelimi- 
+nary injunction, defendants their agents, officers, servants, 
+employees, affiliates, attorneys and other representatives, 
+and all persons in active concert or participation with 
+them, are temporarily restrained and enjoined from dis- 
+sipating, disbursing, transferring, conveying, encumbering 
+or otherwise distributing or in any way affecting any de- 
+fendant’s right to, interest in, title to or right to receive 
+or retain any of the Government Notes or proceeds 
+thereof. 
+
+
+- cays Dee 
+
+
+57a 
+
+
+Ill 
+
+
+IT IS HEREBY FURTHER ORDERED that no bond 
+is necessary since the status quo is being maintained pend- 
+ing a determination of plaintiffs’ motion for a preliminary 
+injunction. 
+
+- IV. 
+
+IT IS HEREBY FURTHER ORDERED that service 
+of this Order to Show Cause shall be effective when plain- 
+tiffs deliver a copy of this Order to Show Cause, together 
+with a copy of the papers in support thereof, upon local 
+counsel for defendants, Messrs. Skadden, Arps, Slate, 
+Meagher & Flom, 919 Third Avenue, New York, NY 
+10022, or CT Corporation System, 1633 Broadway, New 
+York, NY, defendants’ duly appointed agent for service 
+of process, by hand, Federal Express or other overnight 
+delivery service, on or before, December 13, 1997. 
+
+
+Vv 
+
+
+IT IS HEREBY FURTHER ORDERED that, pending 
+further order and for good cause shown, plaintiffs’ appli- 
+cation to file certain documents containing confidential 
+and nonpublic information relating to defendants is hereby 
+granted, and the Clerk of the Court is hereby directed to 
+accept such documents and maintain them under seal. 
+
+
+VI 
+
+
+IT IS HEREBY FURTHER ORDERED that answer- 
+ing papers, if any, shall be served by hand upon counsel 
+for plaintiffs, and supplied to the Court, no later than 
+5 o'clock p.m. on December 18, 1997, and reply papers, 
+if any, shall be similarly served and supplied to the Court 
+no later than December 19, 1997. 
+
+
+Dated: New York, New York 
+December 12, 1997 
+
+
+Issued: 2:00 p.m. 
+
+
+/s/ John S. Martin, Jr. 
+United States District Judge 
+
+
+58a 
+[Filed Apr. 17, 1998] 
+
+
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF NEW YORK 
+
+
+97 Civ. 9165 (JSM) 
+
+
+ALLIANCE BOND FuNpD, INC., ALLIANCE WoRLD DOLLAR 
+GOVERNMENT Funp II, INc., ALLIANCE GLOBAL DOL- 
+LAR GOVERNMENT FUND, INC., ELLIOT ASSOCIATES, 
+L.P., AVALON TOTAL RETURN FUND, L.P., THE VARDE 
+
+_ Funp, L.P., THe VARDE Funp II-A, L.P., THE VARDE 
+Funp II-B, L.P., THE VarpE Funp III-A, L.P., THe 
+VARDE FUND III-B, L.P., and THe VARDE FunpD IV-A, 
+a 
+
+Plaintiffs, 
+- against - 
+
+
+Grupo MEXICANO DE DESARROLLO, S.A., DESARROLLO 
+DE INFRAESTRUCTURA, S.A. DE C.V., OBRAS Y PRO- 
+yecTos, S.A., DE C.V., DESARROLLO URBANO IN- 
+TEGRAL, S.A. DE C.V. and DESARROLLO INDUSTRIAL 
+LATINOAMERICANO, S.A. DE C.V., 
+
+Defendants. 
+
+
+JUDGMENT 
+# 98,0893 
+
+
+The Court having granted Plaintiffs’ (1) motion pur- 
+suant to Fed. R. Civ. P. 56(c) for an award of summary 
+judgment on their claim against Defendants for breach of 
+contract, (2) motion pursuant to Fed. R. Civ. P. 12 
+(b)(6) to dismiss with prejudice Defendants’ counter- 
+claims, and (3) motion for an order directing Defend- 
+ants to irrevocably assign or transfer to Plaintiffs a suffi- 
+
+
+59a 
+
+
+cient amount of toll road Receivables or Government 
+Notes to satisfy this Judgment; 
+
+
+IT IS HEREBY ORDERED, ADJUDGED AND DE- 
+CREED that: 
+
+
+1. Defendants shall pay Plaintiffs the sum of $82,- 
+323,936 as of April 10, 1998 together with interest 
+accrued to the date of this Judgment at the rate of 
+$17,189 per day for a total sum of $82,444,259; 
+
+
+2. Defendants irrevocably assign or transfer to Plain- 
+tiffs within 10 business days hereof a sufficient amount 
+of toll road Receivables or Government Notes to satisfy 
+
+
+this Judgment; 
+
+3 (a) Pending such assignment or transfer, the re- 
+straints as stated in the preliminary injunction order 
+issued on December 23, 1997 is converted into a perma- 
+nent injunction effective until defendant complies with 
+paragraph 2 above. 
+
+
+* * * * 
+
+
+4. This Court shall retain jurisdiction for the purpose 
+of implementing this Judgment, including, but not limited 
+to, the assignment or transfer of toll road Receivables or 
+Government Notes as ordered herein, and the enforce- 
+ment of all injunctive relief accorded by the Court in 
+connection with this Judgment. 
+
+
+Dated: New York, New York 
+April 17, 1998 
+
+
+/s/ Hon. John S. Martin, Jr. 
+Hon. JoHN S. MARTIN, Jr. 
+United States District Judge 
+
+
+This Judgment Was Entered on the Docket on 
+
+
+60a 
+RULES OF CIVIL PROCEDURE 
+VIII. PROVISIONAL AND FINAL REMEDIES 
+
+
+Rule 64. Seizure of Person or Property 
+
+
+At the commencement of and during the course of an 
+action, all remedies providing for seizure of person or 
+property for the purpose of securing satisfaction of the 
+judgment ultimately to be entered in the action are avail- 
+able under the circumstances and in the manner provided 
+by the law of the state in which the district court is held, 
+existing at the time the remedy is sought, subject to the 
+following qualifications: (1) any existing statute of the 
+United States governs to the extent to which it is applica- 
+ble; (2) the action in which any of the foregoing rem- 
+edies is used shall be commenced and prosecuted or, if 
+removed from a state court, shall be prosecuted after 
+removal, pursuant to these rules. The remedies thus avail- 
+able include arrest, attachment, garnishment, replevin, 
+sequestration, and other corresponding or equivalent rem- 
+edies, however designated and regardless of whether by 
+state procedure the remedy is ancillary to an action or 
+must be obtained by an independent action. 
+
+
+Rule 65. Injunctions 
+(a) Preliminary Injunction. 
+
+
+(1) Notice. No preliminary injunction shall be 
+issued without notice to the adverse party. 
+
+
+(2) Consolidation of Hearing With Trial on 
+Merits. Before or after the commencement of the 
+hearing of an application for a preliminary injunc- 
+tion, the court may order the trial of the action on 
+the merits to be advanced and consolidated with the 
+hearing of the application. Even when this consoli- 
+dation is not ordered, any evidence received upon 
+an application for a preliminary injunction which 
+would be admissible upon the trial on the merits 
+
+
+6la 
+
+
+becomes part of the record on the trial and need not 
+be repeated upon the trial. This subdivision (a) (2) 
+shall be so construed and applied as to save to the 
+parties any rights they may have to trial by jury. 
+
+
+(b) Temporary Restraining Order; Notice; Hearing; 
+Duration. A temporary restraining order may be granted 
+without written or oral notice to the adverse party or that 
+party’s attorney only if (1) it clearly appears from spe- 
+cific facts shown by affidavit or by the verified com- 
+plaint that immediate and irreparable injury, loss, or dam- 
+age will result to the applicant before the adverse party 
+or that party’s attorney can be heard in opposition, and 
+(2) the applicant’s attorney certifies to the court in writ- 
+ing the efforts, if any, which have been made to give the 
+notice and the reasons supporting the claim that notice 
+should not be required. Every temporary restraining order 
+granted without notice shall be indorsed with the date 
+and hour of issuance; shall be filed forthwith in the clerk’s 
+office and entered of record; shall define the injury and 
+State why it is irreparable and why the order was granted 
+without notice; and shall expire by its terms within such 
+time after entry, not to exceed 10 days, as the court 
+fixes, unless within the time so fixed the order, for good 
+cause shown, is extended for a like period or unless the 
+party against whom the order is directed consents that it 
+may be extended for a longer period. The reasons for 
+the extension shall be entered of record. In case a tem- 
+porary restraining order is granted without notice, the 
+motion for a preliminary injunction shall be set down for 
+hearing at the earliest possible time and takes precedence 
+of all matters except older matters of the same character; 
+and when the motion comes on for hearing the party 
+who obtained the temporary restraining order shall pro- 
+ceed with the application for a preliminary injunction 
+and, if the party does not do so, the court shall dissolve 
+the temporary restraining order. On 2 days’ notice to the 
+party who obtained the temporary restraining order 
+
+
+62a 
+
+
+without notice or on such shorter notice to that party 
+as the court may prescribe, the adverse party may appear 
+and move its dissolution or modification and in that event 
+the court shall proceed to hear and determine such mo- 
+tion as expeditiously as the ends of justice require. 
+
+
+(c) Security. No restraining order or preliminary in- 
+junction shall issue except upon the giving of security 
+by the applicant, in such sum as the court deems proper, 
+for the payment of such costs and damages as may be 
+incurred or suffered by any party who is found to have 
+been wrongfully enjoined or restrained. No such security 
+shall be required of the United States or of an officer or 
+agency thereof. 
+
+
+The provisions of Rule 65.1 apply to a surety upon a 
+bond or undertaking under this rule. 
+
+
+(d) Form and Scope of Injunction or Restraining Or- 
+der. Every order granting an injunction and every re- 
+straining order shall set forth the reasons for its issuance; 
+shall be specific in terms; shall describe in reasonable 
+detail, and not by reference to the complaint or other 
+document, the act or acts sought to be restrained; and 
+is binding only upon the parties to the action, their offi- 
+cers, agents, servants, employees, and attorneys, and upon 
+those persons in active concert or participation with them 
+
+
+who receive actual notice of the order by personal service 
+or otherwise. 
+
+
+(e) Employer and Employee; Interpleader; Constitu- 
+tional Cases. These rules do not modify any statute of 
+the United States relating to temporary restraining orders 
+and preliminary injunctions in actions affecting employer 
+and employee; or the provisions of Title 28, U.S.C.., 
+§ 2361, relating to preliminary injunctions in actions of 
+interpleader or in the nature of interpleader; or Title 28, 
+U.S.C. § 2284, relating to actions required by Act of 
+
+
+63a 
+
+
+Congress to be heard and determined by a district court 
+of three judges. 
+
+
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 
+29, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 
+1966; Mar. 2, 1987, eff. Aug. 1, 1987.) 
+
+

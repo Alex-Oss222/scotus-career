@@ -1,0 +1,7 @@
+# Dyson — screened procedural source facts
+
+For fresh clean neutral validation only. Source: authenticated published primary recitation at https://www.law.cornell.edu/supct/html/98-1062.ZD.html, concerning the June21,1999 matter. The control context retrieved the full short source and extracted only these objective party/counsel filing facts. No historical Supreme Court action, vote, author, rationale or disposition is supplied by this handoff.
+
+The published recitation states that respondent's counsel was not a member of the Supreme Court's bar and did not wish to become one, and that respondent had not filed a brief in opposition to the petition. This supports those limited counsel/filing facts; it is more than absence of an archive document. It does not establish an express waiver, service date, extension request, Court order, deadline ruling, litigant default, eventual response content, or a duty to decide against the respondent.
+
+Those nonadjudicative party/counsel facts can be assessed for compatibility with the admitted summary-review setting. Any choice to request opposition, obtain assistance, grant review, defer decision or reach summary merits remains to be modeled under term-effective rules and actual record sufficiency. None is predetermined by this source extraction. Fresh neutral validation must distinguish optional filing under Rule15.1 from an institutional judgment about deciding an adverse criminal matter on the papers actually available.

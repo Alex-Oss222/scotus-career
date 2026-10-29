@@ -1,0 +1,308 @@
+Source: https://openjurist.org/120/f3d/1208
+¶1
+      The Federal Service Labor-Management Relations Statute, 5 U.S.C. §§ 7101, et seq., ("FSLMRS" or the "Statute") grants federal employees the right to be represented by a union representative at an investigatory examination conducted by "a representative of the agency" if the employee reasonably believes that the examination may result in disciplinary action.  5 U.S.C. § 7114(a)(2)(B).  We must decide, in the face of conflicting circuit authority, whether the Federal Labor Relations Authority ("FLRA" or the "Authority") properly concluded that an investigator from an agency's Office of the Inspector General ("OIG") is "a representative of the agency" within the meaning of § 7114(a)(2)(B).
+
+    
+
+    I.
+
+    
+      ¶2
+      This case arose out of an investigation of an employee of the George C. Marshall Space Flight Center ("MSFC"), a component of the National Aeronautics and Space Administration ("NASA-HQ") that is located in Huntsville, Alabama.  The NASA Office of the Inspector General ("NASA-OIG"), which is also a component of NASA-HQ, received information from the Federal Bureau of Investigation ("FBI") in January 1993 linking the MSFC employee to several documents that set forth potential threats and plans for violence against his MSFC co-workers.  NASA-OIG immediately began to investigate whether the employee had in fact authored these documents.  When NASA-OIG Special Agent Larry Dill contacted the employee to arrange an interview, the employee requested both legal and union representation, and Dill agreed to this request.1
+
+    
+
+    
+      ¶3
+      At the outset of the interview, Dill stated that the union representative was present only to serve as a witness and was not to interrupt questions or answers.2  Dill further informed the union representative, Patrick Tays, that he could be called as a witness for the government in the future.  Tays objected to these ground rules, and Dill responded by stating that he would cancel the interview if Tays did not comply with them.  On a number of occasions during the examination, Dill challenged Tays's efforts to represent the employee.
+
+    
+
+    
+      ¶4
+      Local 3434 of the American Federation of Government Employees ("AFGE"), the exclusive representative of the bargaining unit employees at the MSFC, filed a complaint pursuant to 5 U.S.C. § 7116(a)(1),(8) charging NASA-OIG and NASA-HQ with committing an unfair labor practice.3  The complaint alleged that NASA-OIG and NASA-HQ violated 5 U.S.C. § 7114(a)(2)(B) by interfering with the union's representation of the employee at the interview with Dill.  After a hearing, the Administrative Law Judge ("ALJ") determined that Dill's actions violated the union's right to take an active role at the investigatory examination.  It therefore found NASA-OIG guilty of an unfair labor practice, but concluded that NASA-HQ was not responsible for the actions of the OIG investigator.  NASA-OIG filed exceptions to the ALJ's rulings.
+
+    
+
+    
+      ¶5
+      Upon review of the ALJ's order, the Authority determined that the ALJ had properly concluded that Special Agent Dill was a "representative of the agency" and that NASA-OIG was guilty of an unfair labor practice.  The Authority disagreed, however, with the ALJ's ruling with respect to NASAHQ, concluding that NASA-HQ, as the parent agency of NASA-OIG, was also responsible for the violation of § 7114(a)(2)(B).  The Authority therefore ordered NASA-OIG and NASA-HQ to cease and desist from interfering with the representational rights granted by § 7114(a)(2)(B).  It further directed NASA-HQ to post appropriate notice forms and to order NASA-OIG to comply with the requirements of § 7114(a)(2)(B) when conducting investigatory examinations.
+
+    
+
+    
+      ¶6
+      NASA-HQ and NASA-OIG petitioned for review of the Authority's determination, and the Authority filed a cross-application for enforcement of its order.  We subsequently granted AFGE's motion for leave to intervene in this appeal.
+
+    
+
+    II.
+
+    
+      ¶7
+      We review decisions of the FLRA in accordance with § 706 of the Administrative Procedure Act, see 5 U.S.C. § 7123(c), and will set aside only those Authority actions that are "arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law."  5 U.S.C. § 706(2)(A).  In determining whether an action is in "accordance with law," we defer to the Authority's interpretation of the FSLMRS because of its specialized expertise in the field of federal labor relations.  See Bureau of Alcohol, Tobacco and Firearms v. FLRA, 464 U.S. 89, 96, 104 S.Ct. 439, 444, 78 L.Ed.2d 195 (1983) ("ATF ");  Fort Stewart Sch. v. FLRA, 860 F.2d 396, 405 (11th Cir.1988), aff'd, 495 U.S. 641, 110 S.Ct. 2043, 109 L.Ed.2d 659 (1990).  Thus, in considering an ambiguous provision of the FSLMRS, we are bound to uphold the Authority's construction as long as it is "reasonable and defensible."  ATF, 464 U.S. at 96, 104 S.Ct. at 444.
+
+    
+
+    
+      ¶8
+      In contrast, we grant no deference to the Authority's construction of a federal statute outside the field of federal labor relations.  See United States Nuclear Regulatory Commission v. FLRA, 25 F.3d 229, 232 (4th Cir.1994) ("NRC ");  FLRA v. Department of Defense, 977 F.2d 545, 547 n. 2 (11th Cir.1992).  Similarly, when the Authority "resolves an arguable conflict between another statute and its own, we are required to make a wholly independent analysis of that issue."  Defense Criminal Investigative Service v. FLRA, 855 F.2d 93, 98 (3d Cir.1988) ("DCIS ").
+
+    
+
+    
+      ¶9
+      Accordingly, we undertake a bifurcated review of the Authority's decision in this case.  We will review with deference the Authority's interpretation of § 7114(a)(2)(B) and will uphold its conclusions with respect to this section as long as they are reasonable and defensible.  We will determine independently, however, whether the Authority's construction of this section of its own statute impermissibly conflicts with another federal statute, namely the Inspector General Act of 1978, 5 U.S.C. app. 3 §§ 1-12.  Accord NRC, 25 F.3d at 232;  DCIS, 855 F.2d at 97-98.
+
+    
+
+    III.
+
+    
+      ¶10
+      Congress enacted § 7114(a)(2)(B) to extend the rights established for private sector employees in NLRB v. J. Weingarten, Inc., 420 U.S. 251, 95 S.Ct. 959, 43 L.Ed.2d 171 (1975), to federal employees.  See 124 Cong.  Rec. 29, 184 (daily ed.  Sept. 13, 1978) (statement of Rep.  Udall);  DCIS, 855 F.2d at 96.  Section 7114(a)(2) provides:
+
+    
+
+    
+      ¶11
+      An exclusive representative of an appropriate unit in an agency shall be given the opportunity to be represented at ...
+
+    
+
+    
+      ¶12
+      (B) any examination of an employee in the unit by a representative of the agency in connection with an investigation if--
+
+    
+
+    
+      ¶13
+      (i) the employee reasonably believes that the examination may result in disciplinary action against the employee;  and
+
+    
+
+    
+      ¶14
+      (ii) the employee requests representation.
+
+    
+
+    
+      ¶15
+      In this case, it is undisputed that the employee reasonably believed that the examination would result in disciplinary action and that he requested representation.  Moreover, NASA-OIG now concedes that the actions of Special Agent Dill interfered with the union's right to be represented at the investigatory interview.4  Whether or not NASA-OIG violated § 7114(a)(2)(B) thus depends solely on whether Special Agent Dill was a "representative of the agency" when he conducted the examination.
+
+    
+
+    
+      ¶16
+      Two circuits have considered the status of OIG investigators under § 7114(a)(2)(B) and have reached opposite conclusions.  In Defense Criminal Investigative Service v. FLRA, the Third Circuit held that investigators of the Defense Criminal Investigative Services ("DCIS"), a subdivision of the Department of Defense ("DOD") under the authority of that agency's Inspector General, are bound by the terms of this section.  855 F.2d 93 (3d Cir.1988) ("DCIS ").  The court concluded that "[i]t is apparent from the face of the statute that Congress wanted federal employees to have the assistance of a union representative when they were placed in a position of being called upon to supply information that would expose them to the risk of disciplinary action."  Id. at 98-99.   The court expressly rejected DCIS's contention that "representative of the agency" referred only to members of the bargaining unit with which the employee's union has a collective bargaining agreement.  Id. at 99-100.
+
+    
+
+    
+      ¶17
+      In Department of Justice v. FLRA, 39 F.3d 361 (D.C.Cir.1994) ("DOJ "), the D.C. Circuit concluded that the DOJ's Office of the Inspector General was not the "agency" Congress intended under § 7114(a)(2)(B) because it had no collective bargaining relationship with the union.  Id. at 365-66 In holding that interviews with DOJ's OIG investigators are not governed by the federal Weingarten provision, the DOJ court relied on the independence and authority granted Inspector Generals by the Inspector General Act of 1978, 5 U.S.C. app.  3 §§ 1-12 ("IG Act").  "[T]he Inspector General's independence and authority would necessarily be compromised if another agency of government--the Federal Labor Relations Authority--influenced the Inspector General's performance of his duties on the basis of its view of what constitutes an unfair labor practice."  Id. at 367.
+
+    
+
+    
+      ¶18
+      In the face of these conflicting opinions, the Authority independently analyzed the terms of § 7114(a)(2)(B).  It first determined that NASA-HQ was the relevant agency under this section.  See 5 U.S.C. § 7103(a)(3) (defining "agency" to mean an "Executive agency").  The Authority then concluded that NASA-OIG should be considered a representative of NASA-HQ for the purposes of § 7114(a)(2)(B) because it is a subcomponent of NASA-HQ and provides investigatory information to NASA-HQ and to other agency subcomponents for use in disciplinary proceedings.
+
+    
+
+    
+      ¶19
+      The Authority rejected NASA-OIG's assertion that § 7114(a)(2)(B) applies only to examinations conducted by an employee of a component of the agency that has a collective bargaining relationship with the union.  Implying such a requirement, the Authority reasoned, would frustrate Congress's intent to provide federal employees the assistance of a union representative whenever they are called upon to provide information that exposes them to the risk of disciplinary action.  The Authority further concluded that application of the Weingarten protection to OIG interviews did not threaten NASA-OIG's independence or otherwise conflict with the IG Act.
+
+    
+
+    
+      ¶20
+      NASA-OIG contends that the Authority erred in construing the terms of § 7114(a)(2)(B).  It claims that all of the rights and duties enumerated in § 7114 derive from a collective bargaining relationship and thus do not extend to parties outside that relationship.  More specifically, NASA-OIG argues that "representative of the agency" refers only to a representative of the agency or agency component that engages in collective bargaining with the union at issue.5  NASA-OIG notes that in § 7114(a)(2)(A), Congress used "representative of the agency" in referring to discussions concerning matters under the collective bargaining agreement.  See 5 U.S.C. § 7114(a)(2)(A).  NASA-OIG also points to § 7103(a)(12), which defines collective bargaining as the performance of the mutual obligation of good-faith bargaining imposed on "the representative of an agency" and the exclusive representative of employees in an appropriate unit in the agency.  See 5 U.S.C. § 7103(a)(12).
+
+    
+
+    
+      ¶21
+      After a careful examination of the text and motivating purposes of § 7114(a)(2)(B), we find no error in the Authority's interpretation of "representative of the agency."   NASA-OIG's textual arguments, although not wholly without merit, do not convince us that Congress could not have intended the result reached by the Authority.  See Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 844, 104 S.Ct. 2778, 2782, 81 L.Ed.2d 694 (1984).  In § 7103(a)(3), Congress defined "agency" to include executive agencies, and it is undisputed that NASA-HQ falls within the statutory definition of "agency."  5 U.S.C. § 7103(a)(3).  Nothing in the text of § 7114(a)(2)(B) indicates to us that Congress intended a different meaning when it used "agency" in § 7114(a)(2)(B).  The fact that Congress elsewhere used "representative of the agency" and "representative of an agency" in the context of collective bargaining matters does not establish in our view that Congress must have intended to depart from the statutory definition of "agency" and to imply a collective bargaining requirement in § 7114(a)(2)(B).  Accord DCIS, 855 F.2d at 100.
+
+    
+
+    
+      ¶22
+      Moreover, we agree with the Authority that reading such a requirement into "representative of the agency" in § 7114(a)(2)(B) would undermine Congress's purpose in enacting this section.  Congress enacted § 7114(a)(2)(B) to extend Weingarten protection to federal employees.  See 124 Cong.  Rec. 29, 184 (daily ed.  Sept. 13, 1978) (statement of Rep.  Udall).  In Weingarten, the Court upheld the NLRB's ruling entitling employees who "seek[ ] 'aid or protection' against a perceived threat to employment security" to union representation during intimidating investigatory confrontations.  420 U.S. at 260, 95 S.Ct. at 965.   In enacting § 7114(a)(2)(B), Congress also sought to provide for "union representation at investigatory interviews which the employee reasonably believes may result in disciplinary action against him."   124 Cong.  Rec. 29, 184 (daily ed.  Sept. 13, 1978) (statement of Rep.  Udall) (quoting Weingarten, 420 U.S. at 267, 95 S.Ct. at 968).   The Statute, like the Weingarten rule itself, focuses on the risk of adverse employment action to the employee.  Because this risk does not disappear or diminish significantly when an investigator is employed in an agency component that has no collective bargaining relationship with the employee's union, we see no reason why the protection afforded by Congress should be eliminated in such situations.  See DCIS, 855 F.2d at 99 ("[W]e doubt that Congress intended that union representation be denied to the employee solely because [the investigator was] employed outside the bargaining unit.").
+
+    
+
+    
+      ¶23
+      The Authority determined that NASA-OIG performs an investigatory role for NASA-HQ and its components such as MSFC. Moreover, the Authority determined that information obtained during the course of NASA-OIG investigations may be used by NASA components to support administrative or disciplinary actions taken against bargaining unit employees.  Under these circumstances, we conclude that the Authority's determination that the NASA-OIG investigator was a "representative of the agency" within the meaning of § 7114(a)(2)(B) is a permissible construction of the Statute.6
+
+    
+
+    
+      ¶24
+      NASA-OIG nevertheless contends that the Authority's interpretation of § 7114(a)(2)(B), even if otherwise defensible, cannot be sustained because it impermissibly conflicts with the IG Act, 5 U.S.C. app. 3 §§ 1-12.  Specifically, NASA-OIG contends that subjecting OIG interviews to the Weingarten provision would impermissibly hinder the function of each agency's OIG because the OIG was designed to operate independently of the direct supervision and influence of the agency head and outside the programmatic spheres of the agency.  See DOJ, 39 F.3d at 367.
+
+    
+
+    
+      ¶25
+      We find nothing in the text or legislative history of the IG Act, however, to justify exempting OIG investigators from compliance with the federal Weingarten provision.  No provision of the IG Act suggests that Congress intended to excuse OIG investigators from honoring otherwise applicable federal statutes.7  Moreover, we do not find a sufficient conflict between the purpose of the IG Act and the mandate of § 7114(a)(2)(B) so that we would imply such an exemption into the text of the IG Act.  See DCIS, 855 F.2d at 100.
+
+    
+
+    
+      ¶26
+      Congress created the Offices of the Inspector General in order "to more effectively combat fraud, abuse, waste and mismanagement in the programs and operations" of certain specified federal agencies.  S.Rep. No. 95-1071, 95th Cong., 2d Sess., reprinted in 1978 U.S.C.C.A.N. 2676, 2676 (1978);  see also 5 U.S.C. app. 3 § 2.  In order to accomplish these goals, Congress believed it necessary to grant OIGs a significant degree of independence from the agencies they were charged with investigating.  For example, even though Inspector Generals are under the "general supervision" of the agency head, only the President, not the agency head, may remove an Inspector General.  5 U.S.C. app. 3 § 3(a),(b).  Neither the agency head nor the deputy may "prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation."  5 U.S.C. app. 3 § 3(a).  And apart from the limited supervision of the top two agency heads, no one else in the agency may provide any supervision to the Inspector General.  Id. ("[The Inspector General] shall not report to, or be subject to supervision by, any other officer of [the agency].");  see also NRC 25 F.3d at 233-35 (characterizing agency head supervision of OIG as "nominal");8  DOJ, 39 F.3d at 367 (discussing independence of OIG).
+
+    
+
+    
+      ¶27
+      In Congress's view, such independence was necessary to prevent agency managers from covering up wrongdoing within their agencies in order to protect their personal reputations and the reputations of their agencies.  In light of the potentially conflicting agendas of agency management and Inspector Generals, Congress created the safeguards necessary to ensure that Inspector Generals could conduct their investigations without interference from agency management personnel.  See S.Rep. No. 95-1071, 95th Cong., 2d Sess.  (1978), reprinted in 1978 U.S.C.C.A.N. 2676, 2682;  DCIS, 855 F.2d at 98 ("[T]he purpose of these provisions was to insulate Inspector Generals from pressure from agency management which might attempt to cover up its own fraud, waste, ineffectiveness or abuse.").  We do not believe that the presence of a union representative at OIG interviews, as mandated by federal statute, creates the type of interference from which Congress sought to insulate OIG investigators.  The employees' statutory right to union representation does not provide management with an opportunity to interfere with OIG investigations or to cover up fraud or waste within its own agency.
+
+    
+
+    
+      ¶28
+      Moreover, we do not believe that the presence of a union representative will impermissibly hinder the OIG's ability to perform its essential function of detecting and preventing fraud and abuse within the agencies.  The Weingarten representative is present only to assist the employee, and the employer is free to insist in hearing only the employee's own account of the matter under investigation.  See Weingarten, 420 U.S. at 260, 95 S.Ct. at 965.   The representative's presence "need not transform the interview into an adversary process."  Id. at 263, 95 S.Ct. at 966.   Although NASA-OIG has suggested that Weingarten rights have been expanded by the Authority, it points to no specific examples in which the assertion of Weingarten rights has interfered with OIG investigations.  Moreover, we do not see how the right of an employee to be represented by a union representative presents a significantly greater interference with OIG interviews than the existing right of an employee to be represented at such interviews by an attorney.  See 5 U.S.C. § 555(b) (providing for the right to be advised and represented by counsel for anyone compelled to appear in person before an agency or agency representative).
+
+    
+
+    
+      ¶29
+      We therefore conclude that allowing a union employee to exercise the full rights granted to him or her by § 7114(a)(2)(B) is not sufficiently inconsistent with the IG Act to justify an implied exemption for OIG investigators.  See DCIS, 855 F.2d at 101 ("Given the limited function of a Weingarten representative, it is conceivable to us that Congress might conclude that the employee's interest in representation outweighs the limited interference that his or her representative's presence might occasion in [OIG] interviews.").  If in the future, Weingarten representatives operate to impede OIG investigations, it would be the responsibility of Congress and not the courts to fashion a solution to such a problem.9  But absent a discernible present conflict between the IG Act and § 7114(a)(2)(B), we refuse to read the IG Act to have impliedly repealed this section of the FSLMRS.  See Morton v. Mancari, 417 U.S. 535, 551, 94 S.Ct. 2474, 2483, 41 L.Ed.2d 290 (1974) ("[I]t is the duty of the courts, absent a clearly expressed congressional intention to the contrary, to regard each [statute] as effective.").  Accordingly, we conclude that the Authority correctly determined that OIG Special Agent Dill was a "representative of the agency" within the meaning of § 7114(a)(2)(B) and, because of Dill's conduct at the investigatory interview, that NASA-OIG was guilty of an unfair labor practice.
+
+    
+
+    IV.
+
+    
+      ¶30
+      Having determined that the Authority properly concluded that NASA-OIG violated § 7116(a), we now must determine whether the Authority correctly determined that NASA-HQ was also responsible for this violation.  NASA-HQ asserts two challenges to the Authority's ruling.  First, it argues that the ruling cannot be enforced because the decision "lacked procedural fairness."   Second, NASA-HQ contends that the Authority erred in holding it liable for the actions of the OIG investigator because NASA-OIG is not under its direct supervision.
+
+    
+
+    
+      ¶31
+      Because NASA-HQ did not raise these arguments before the Authority, we cannot consider them "unless the failure or neglect to urge the objection is excused because of extraordinary circumstances."  5 U.S.C. § 7123(c).  We conclude that extraordinary circumstances are present in this case.  The Authority raised the issue of NASA-HQ's liability sua sponte when no issues relating to NASA-HQ were before the Authority and filed for enforcement of its order on the same day the order was issued.  Although NASA-HQ should have petitioned the Authority for reconsideration of its ruling on this issue, see 5 C.F.R. § 2429.17, we find that the circumstances of this case justify our consideration of the arguments raised by NASA-HQ.  Cf. EEOC v. FLRA, 476 U.S. 19, 23, 106 S.Ct. 1678, 1681, 90 L.Ed.2d 19 (1986) (suggesting that sua sponte treatment of issue by Authority may excuse failure to request reconsideration);  NLRB v. FLRA, 2 F.3d 1190, 1196-97 (D.C.Cir.1993) (failure to file for rehearing was excusable because of "almost sua sponte " nature of Authority's decision and because motion for reconsideration would have been futile).  In reviewing the Authority's determination with respect to NASA-HQ, we are mindful that we shall not set aside Authority action unless it is "arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law."  5 U.S.C. § 7123(c).
+
+    
+
+    
+      ¶32
+      NASA-HQ claims that the Authority's ruling lacked procedural fairness because, as the Authority recognized, no exceptions had been filed with respect to the ALJ's recommendation that the unfair labor practice complaint against NASA-HQ be dismissed.  The Authority nevertheless determined that it was proper for it to address that issue because NASA-HQ was a party pursuant to 5 C.F.R. § 2421.11(b)(1)(i) ("party" means any agency "named as [a] charged party in a charge"), and because the Authority had previously addressed sua sponte matters that had not been excepted to by the parties.  See, e.g., United States Immigration and Naturalization Service, United States Border Patrol, San Diego Sector, San Diego, California, 43 FLRA 642, 654 (1991), enforced sub nom.  United States Immigration and Naturalization Service v. FLRA, 12 F.3d 882 (9th Cir.1993);  see also 5 C.F.R. § 2423.29(a) ("After considering the Administrative Law Judge's decision, the record, and any exceptions and related submissions filed, the Authority shall issue its decision affirming or reversing the Administrative Law Judge, in whole, or in part, or making such other disposition of the matter it deems appropriate ...").  NASA-HQ provides us with no authority indicating that the FLRA's conclusion that it had the power to modify the ALJ's rulings on grounds not excepted to by the parties is not entitled to deference.10
+
+    
+
+    
+      ¶33
+      We now turn to the merits of the Authority's decision holding NASA-HQ responsible for the actions of NASA-OIG and directing NASA-HQ to order NASA-OIG to comply with the requirements of § 7114(a)(2)(B).  The Authority previously has recognized that a component of an agency violates § 7116(a)(1) of the Statute when it "engages in conduct which unlawfully interferes with the protected rights of employees of another component."   See Headquarters, Defense Logistics Agency, Washington, D.C., 22 F.L.R.A. 875, 884 (1986).  And the Authority has held parent agencies responsible for statutory violations committed by its subcomponents even when the parent does not have a collective bargaining relationship with the union.  See U.S. Dep't of Veterans Affairs, Washington, D.C., 48 F.L.R.A. 991, 1000-01 (1993);  Headquarters, U.S. Air Force, Washington, D.C. and 375th Combat Support Group, Scott Air Force Base, Ill., 44 F.L.R.A. 117, 125 (1992), rev. denied sub nom., Headquarters, U.S. Air Force, Washington, D.C. v. FLRA, 10 F.3d 13 (D.C.Cir.1993).
+
+    
+
+    
+      ¶34
+      In this case, the Authority found NASA-HQ guilty of an unfair labor practice because, as the parent agency, it failed to ensure that NASA-OIG complied with § 7114(a)(2)(B).  The Authority found that investigative information obtained by NASA-OIG can be a basis upon which NASA-HQ disciplinary action is taken and that NASA-OIG reports to and is under the general supervision of NASA-HQ.  Based on these findings, the Authority concluded that the purposes of § 7114(a)(2)(B) would be served by requiring NASA-HQ to advise NASA-OIG of its obligation to comply with the Statute.
+
+    
+
+    
+      ¶35
+      Although NASA-OIG is an "independent and objective" unit of NASA-HQ, see 5 U.S.C. app. 3 § 2, NASA-OIG is subject to the general supervision of the agency head.  5 U.S.C. app. 3 § 3(a).  In conducting investigations within the agency, NASA-OIG serves the interest of NASA-HQ by soliciting information of possible misconduct committed by NASA employees.  The fact that the NASA-OIG agent in this case ordered the employee to answer questions or face dismissal further suggests that the investigator was acting for NASA-HQ when it conducted the interview.  We therefore find no clear error in the Authority's determination that NASA-HQ should be held responsible for the investigator's violation of § 7114(a)(2)(B).
+
+    
+
+    
+      ¶36
+      Moreover, we conclude that the Authority's order directing NASA-HQ to order NASA-OIG to comply with the terms of this section does not intrude on the independence of NASA-OIG.  As discussed earlier, the OIG need only have enough independence from agency management so that it can effectively discover and cure abuses and inefficiency within the agency.  Requiring agency management to order the OIG to comply with a congressional directive does not in our view intrude on the statutory independence of the OIG.  We therefore hold that the Authority did not abuse its discretion when it found NASA-HQ responsible for the unfair labor practice and directed it to order NASA-OIG to comply with the Statute.
+
+    
+
+    V.
+
+    
+      ¶37
+      Accordingly, NASA's petition for review is DENIED and the FLRA's application for enforcement of its order is GRANTED.
+
+    
+
+    
+      
+        *
+         Honorable Tom Stagg, Senior U.S. District Judge for the Western District of Louisiana, sitting by designation
+
+      
+
+      
+        1
+         By this time, NASA-OIG had determined that no criminal action would be taken against the employee
+
+      
+
+      
+        2
+         According to the interview ground rules established by Dill, if the MSFC employee did not answer the questions asked of him, he would face dismissal
+
+      
+
+      
+        3
+         Section 7116(a) provides:
+
+        For the purpose of this chapter, it shall be an unfair labor practice for an agency--
+
+        (1) to interfere with, restrain, or coerce any employee in the exercise by the employee of any right under this chapter;
+
+        (8) to otherwise fail or refuse to comply with any provision of this chapter.
+
+      
+
+      
+        4
+         The Authority held that the overly restrictive ground rules set forth by Dill violated the Statute, and NASA-OIG has not appealed this aspect of the Authority's decision
+
+      
+
+      
+        5
+         Neither NASA-OIG nor NASA-HQ has a collective bargaining relationship with the employee's union.  As NASA-OIG notes, the Statute excludes Inspector Generals from the collective bargaining process.  See 5 U.S.C. § 7112(b)(7);  DOJ, 39 F.3d at 365 n. 5
+
+      
+
+      
+        6
+         Because this case involved only potential administrative rather than criminal consequences for the employee, we need not determine the availability or scope of § 7114(a)(2)(B) protection in the context of criminal investigatory examinations and need not determine whether Congress intended "representative of the agency" to extend to agency components which, unlike NASA-HQ, have authority to investigate wrongdoing outside of the parent agency
+
+      
+
+      
+        7
+         In certain statutes, Congress has expressly insulated the authority of investigatory organizations from encroachment by otherwise applicable statutes.  See, e.g., 28 U.S.C. § 535(a) (granting FBI authority to investigate "any violation of title 18 involving Government officers and employees [ ] notwithstanding any other provision of law").  Courts have read such language to excuse compliance with the FSLMRS.  See New Jersey Air National Guard v. FLRA, 677 F.2d 276, 283 (3d Cir.)  (construing 32 U.S.C. § 709), cert. denied, 459 U.S. 988, 103 S.Ct. 343, 74 L.Ed.2d 384 (1982)
+
+      
+
+      
+        8
+         In NRC, the Fourth Circuit held that the union could not require the agency to negotiate rights relating to OIG interviews.  Id. at 235.   It reasoned that allowing the union and management to negotiate these rights would provide management an opportunity to interfere with the OIG's investigatory tools and would therefore conflict with Congress's intent to make the OIG independent from agency management.  Id. at 234.   We do not consider the holding or reasoning of the Fourth Circuit to be inconsistent with the Third Circuit's opinion in DCIS.  Both cases recognize that the OIGs must remain independent from agency management if they are to be able to fulfill their statutory function.  See NRC, 25 F.3d at 233;  DCIS, 855 F.2d at 98.   Moreover, the court in NRC did not reject the reasoning of DCIS, but instead merely distinguished its "limited holding."  NRC, 25 F.3d at 235
+
+      
+
+      
+        9
+         Because Inspector Generals report semi-annually to Congress, see 5 U.S.C. app. 3 § 5(b)(1), they will have the opportunity to alert Congress to any difficulties that the assertion of Weingarten rights may create in the future
+
+      
+
+      
+        10
+         NASA-HQ's claim of "lack of procedural fairness" is further undermined by the fact that it was named as a party in the original complaint, had adequate notice of the charges against it, and chose not to attend the hearing before the ALJ.  Moreover, NASA-HQ had an opportunity to petition for reconsideration of the Authority's ruling but neglected to do so.  The fact that NASA-HQ and NASA-OIG are part of the same agency and now represented by the same attorneys on appeal also suggests to us that NASA-HQ was not deprived of procedural fairness
+
+      
+
+    
+
+    

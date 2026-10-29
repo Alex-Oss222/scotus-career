@@ -1,0 +1,22 @@
+{
+  "scope": "Helper adaptation only; integration was not run.",
+  "script": "terms/OT1998/audit/ot1998_chunk10_integrate_workspace.py",
+  "sha256": "cd6a9a217b8237dcc348818eec59015aef1cccb691f898af64d22fb2287b88aa",
+  "checks": [
+    "Syntax compilation without bytecode",
+    "In-memory Dyson two-events/one-row grouping and distinct labels",
+    "Partial Dyson pair rejected before writes",
+    "Canonical multi-Record status accepts either order; terminal procedure and both links retained",
+    "Exact stopped blocker retained in status/dependencies; neutral notice uses fixed permitted wording",
+    "Stopped/completed conflict rejected",
+    "All other opening manifest rows preserved in in-memory transformation",
+    "Stopped backlog excluded from next runnable cursor; resolved scenario has no backlog"
+  ],
+  "invocation_if_acker_stopped": "PYTHONDONTWRITEBYTECODE=1 python -B terms/OT1998/audit/ot1998_chunk10_integrate_workspace.py --stopped \"Jefferson County v. Acker=exact blocker supplied by controller\"",
+  "invocation_if_acker_resolved": "PYTHONDONTWRITEBYTECODE=1 python -B terms/OT1998/audit/ot1998_chunk10_integrate_workspace.py",
+  "writes": [
+    "audit/ot1998_chunk10_integrate_workspace.py",
+    "audit/OT_1998CHUNK10_WORKSPACE_HELPER_UPDATE.json"
+  ],
+  "integration_adapter_ledger_rin_check_render_executed": false
+}
