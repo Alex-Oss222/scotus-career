@@ -1,6 +1,6 @@
 {
   "record": "jones_v_united_states_merits_1999-03-24.md",
-  "sha256": "90dc6203f109a14180481c4615fbc1afbff8ce91395b26ae9f3066a04b700229",
+  "sha256": "d055db1ea80069682217ecf5ef0b2bd6e6931eff09381590c8f4146bb02dfccf",
   "event_date": "1999-03-24",
   "checks": {
     "four_initial_labels": true,
@@ -40,7 +40,7 @@
     "freeze/OT_1998CHUNK6_JONES_REFRESH_PREFLIGHT.md": "cea672825173d46ce430472440daae736d589d43260736bb9d3dfcc132be3613",
     "runtime/OT_1998CHUNK6_JONES_STONE.md": "0f149b0a478d5b021c4640ccb7c36e8e89cdee7fc8829787c455fc48884d0de3",
     "runtime/OT_1998CHUNK6_JONES_ASSEMBLY_SCOPE.md": "af7ae618b9b8f458c148075661041e42400ad512f3d987dec2ab664697730a5e",
-    "freeze/OT_1998CHUNK6_JONES_RECOUNT.json": "e0413af6441a45b764b5b70e1d928882a8d883b005e1200e65ab5a47cfcb9d02"
+    "freeze/OT_1998CHUNK6_JONES_RECOUNT.json": "f69f11720d24354aa10242effc20025f9ba55582868953e2f2304d37f659fe44"
   },
   "limitations": [
     "Whole-term check and workspace integration remain for root operator.",

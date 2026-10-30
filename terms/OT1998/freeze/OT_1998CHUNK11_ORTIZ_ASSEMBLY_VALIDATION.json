@@ -3,7 +3,7 @@
   "record": {
     "path": "terms/OT1998/records/ortiz_v_fibreboard_corp_merits_1999-06-23.md",
     "bytes": 50168,
-    "sha256": "9b9c85dce13dc6f9dd42d55a2492034021dd471f812fbca53d501d80123961d8"
+    "sha256": "48149dc21169e0791e86313d1a3defdd8c758d8888f200d386e847b42a0c533a"
   },
   "event_date": "1999-06-23",
   "research_cutoff": "Immediately before June 23, 1999; June 23 peer law excluded",
@@ -11,12 +11,12 @@
     {
       "path": "terms/OT1998/runtime/chunk11-assembly-preparation/ORTIZ_PREPARED.md",
       "bytes": 39194,
-      "sha256": "1310f8f7f733f4f8ae0e854231ee09c73b0e4214fd304a8d31dddd478a9af83a"
+      "sha256": "9e578c954bd8dcafe177a21573114215be4970a03d9186641298f10622d49f85"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_RECONCILED.md",
       "bytes": 35555,
-      "sha256": "cf559a6fc6d8bd5ce41342900783d407a9c26816bf9b53c494a846daad684324"
+      "sha256": "298b6480102a3161a9ab36223b6dbf1060b5071b99800b8907b4e862dec6c8b0"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_NEUTRAL.md",
@@ -46,7 +46,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_RECOUNT.json",
       "bytes": 105279,
-      "sha256": "ecff1d4e6b1aac7705b755e8347653d7698fffa1b3dcfdc5023a2805b44cd090"
+      "sha256": "d42738851c8900daaa412268795b542d3ece10f95626c9f0f3fb351409da7b52"
     }
   ],
   "form_before_counts": {
@@ -82,21 +82,21 @@
         "authors": [
           "Souter"
         ],
-        "source_sha256": "4c1ba430478debc5dbed6db5fffff78196f1bc4f5e016e51e350138bea5bb939"
+        "source_sha256": "40db0920c98efafaf86ad256326e8f76365c3489b6c1eec277033c37256e753a"
       },
       {
         "record": "college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
         "authors": [
           "Stone-Zsela"
         ],
-        "source_sha256": "0a5a0f38e4631b3396371f49b5c88dc7a7bb9e7cc1f9aded8823fb51da94ca4e"
+        "source_sha256": "d665dcf5a3305e59f15500609498a1c543cd0b19947d49a55e0901be945149fb"
       },
       {
         "record": "florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
         "authors": [
           "Stevens"
         ],
-        "source_sha256": "72ac0b15706c483a42d9c2d83356318d2d5c69ca354e64b8ed15f2e2818b810f"
+        "source_sha256": "dd08c980490f5ed11cf4c25afca593da6e2a4795312d59571796e2d59b53a483"
       }
     ]
   },

@@ -25,7 +25,7 @@ The intraclass refresh supplements the original grounds without replacing any or
 
 ## Alden
 
-- [OT_1998CHUNK11_ALDEN_COMMITMENTS.md](../freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md) — 22544 bytes; SHA-256 `fcf04285b8cb072138b9600bf1d14810379ae47c00d2d3f137ccd87644b6f404`.
+- [OT_1998CHUNK11_ALDEN_COMMITMENTS.md](../freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md) — 22544 bytes; SHA-256 `d53bc1572db91d7f236cf9ecfcac7f0f3f826f5da15946a9ccf6240c149c858e`.
 
 ## College Savings Bank
 
@@ -37,5 +37,5 @@ The intraclass refresh supplements the original grounds without replacing any or
 
 ## Ortiz
 
-- [OT_1998CHUNK11_ORTIZ_COMMITMENTS.md](../freeze/OT_1998CHUNK11_ORTIZ_COMMITMENTS.md) — 31162 bytes; SHA-256 `742bcfcec9de72e5377f491cfee24a6374d1939fe27af0fc47ff820a244898d8`.
+- [OT_1998CHUNK11_ORTIZ_COMMITMENTS.md](../freeze/OT_1998CHUNK11_ORTIZ_COMMITMENTS.md) — 31162 bytes; SHA-256 `e720e299be1fa779ae3b40a834483099d6ce0cf3c8d72c09bbebc5f2d801e872`.
 

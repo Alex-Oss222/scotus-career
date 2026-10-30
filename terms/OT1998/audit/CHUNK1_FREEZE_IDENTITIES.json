@@ -3,19 +3,19 @@
     "case": "Wright",
     "stage": "COMMITMENTS",
     "source": "WRIGHT_COMMITMENTS.md",
-    "sha256": "e65228e68e438749b0eaf4b20093a3093cb77cddf16c33c86e7e8eb1a234253e"
+    "sha256": "1e20def8b0fdd29850e6038a8b01ad6974308b8184c453bd44f661cf4e85136b"
   },
   {
     "case": "Fraternal Order of Police",
     "stage": "COMMITMENTS",
     "source": "FOP_COMMITMENTS.md",
-    "sha256": "95dc9f7d33cfd06c00712ef9139d92618fc19c4f9d92ed90308a98e4497a154d"
+    "sha256": "323efab26b453f1294c7faeced61024748c2abf8306f226f9b5fefba7eb0c6ac"
   },
   {
     "case": "Hiley",
     "stage": "COMMITMENTS",
     "source": "HILEY_COMMITMENTS.md",
-    "sha256": "0145e9c97cdfedfa8027939cc6dc34cdf6393ef4a51eb25586e18f71b89cc12c"
+    "sha256": "404184b141e20dcf99b72b2957bcbdf54d64b5c7fcda4d8736d2884cfe8da1cd"
   },
   {
     "case": "Louisiana",
@@ -27,19 +27,19 @@
     "case": "Peoples Rights Organization",
     "stage": "COMMITMENTS",
     "source": "PEOPLES_RIGHTS_COMMITMENTS.md",
-    "sha256": "13df4be2efdc9802d1c2740f9c85a1686db092ecc2cad1146ed46862baba0ada"
+    "sha256": "82f2bb64070bdc885a5185f702975476a50697bc3bbee021b186b60027ea84cc"
   },
   {
     "case": "Franklyn / Gonzalez",
     "stage": "COMMITMENTS",
     "source": "FRANKLYN_COMMITMENTS.md",
-    "sha256": "896199151afd4c363bcf812931ea8353cd2487e3078b9a917697568549f692fd"
+    "sha256": "23ee804ac9a985f2b289b7d6e879451f363969efb693693d4457b72e0ea54fe6"
   },
   {
     "case": "Griffin / Langley",
     "stage": "COMMITMENTS",
     "source": "GRIFFIN_COMMITMENTS.md",
-    "sha256": "fa39a1b51c21bc48c39142381ab4a6709073f64cd86b4b8d564e5a0bcad3db51"
+    "sha256": "3fac2d2f4efc00817375e07b1a8a031817c6736f55de0b3052ef37817af2a977"
   },
   {
     "case": "Marquez",
@@ -75,19 +75,19 @@
     "case": "Wright",
     "stage": "RECONCILED",
     "source": "WRIGHT_RECONCILED.md",
-    "sha256": "0248d6b5db78072ea93e7517b37c8edc4ef8f939c738ad697b3292ef51339ebe"
+    "sha256": "9de450ad8f037173a613157f1518d4fb0e7bbb73541326e9f7a989c71f44861b"
   },
   {
     "case": "Fraternal Order of Police",
     "stage": "RECONCILED",
     "source": "FOP_RECONCILED.md",
-    "sha256": "334e11cfc87a8d4a20dc0958719610fcbb1f905a8c34ffdebf341d8544deb438"
+    "sha256": "0f0d39011a9cb803166ae2a34fac414973d9919b781730658690860ba74fcda6"
   },
   {
     "case": "Hiley",
     "stage": "RECONCILED",
     "source": "HILEY_RECONCILED.md",
-    "sha256": "ee3f23b9b18d7e774f0cfe7120b80c2ebb1c48fb0b5970ffcfb8aaea92104164"
+    "sha256": "b3c03d23fcceeba87cb728d657a0c4a480f0d8e02fad10feb536b21d9b35000b"
   },
   {
     "case": "Louisiana",
@@ -105,13 +105,13 @@
     "case": "Franklyn / Gonzalez",
     "stage": "RECONCILED",
     "source": "FRANKLYN_RECONCILED.md",
-    "sha256": "ee8f45c29a7077a534285ba8cf4e550fbca18487239e7d123a9ff5949aad4e8b"
+    "sha256": "56853e622285b52e51e422fa8c473c01ee740cc02b8259b62bd7192107acba55"
   },
   {
     "case": "Griffin / Langley",
     "stage": "RECONCILED",
     "source": "GRIFFIN_RECONCILED.md",
-    "sha256": "34a590406affe49556265fd6327f2aacb7318cb8977721e832442b16ae02682c"
+    "sha256": "54e4504e0702ffc03dd6326dbcd5ae3b236e6246850b4076ea5540c83286aafb"
   },
   {
     "case": "Marquez",

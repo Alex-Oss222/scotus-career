@@ -22,5 +22,5 @@ The primary frozen handoffs retain their baseline bytes. No Git command was used
 |---|---|
 | HILEY_NEUTRAL.md | `692e7d3b96fbcc94ed96f1b6204e3203b1017943eb7b5a7038356cbd4f35aa01` |
 | HILEY_NEUTRAL_SUPPLEMENT.md | `0f22557d71de6ffd3d30510f9308e059926b2c413889c162344734457d60b53f` |
-| HILEY_COMMITMENTS.md | `0145e9c97cdfedfa8027939cc6dc34cdf6393ef4a51eb25586e18f71b89cc12c` |
-| HILEY_RECONCILED.md | `ee3f23b9b18d7e774f0cfe7120b80c2ebb1c48fb0b5970ffcfb8aaea92104164` |
+| HILEY_COMMITMENTS.md | `404184b141e20dcf99b72b2957bcbdf54d64b5c7fcda4d8736d2884cfe8da1cd` |
+| HILEY_RECONCILED.md | `b3c03d23fcceeba87cb728d657a0c4a480f0d8e02fad10feb536b21d9b35000b` |

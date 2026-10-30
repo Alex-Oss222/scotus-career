@@ -91,9 +91,9 @@ These SHA-256 digests identify input bytes at completion, not repository-history
 | Input | SHA-256 |
 |---|---|
 | `terms/OT1998/freeze/OT_1998CHUNK6_B_PROC_COMMITMENTS.md` | `097899c51837adc58dfb799be69d99cadfd9bdafba4ccdaae28180a7e3f855dc` |
-| `terms/OT1998/freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md` | `ee96bce86ff1e25b40e4cddefa0a1407add4f9b92a2eb66bf8352210c6adf611` |
+| `terms/OT1998/freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md` | `95a72a889d336e19fd152d1dd7872b823e31b735e029863e7b893671b5139da6` |
 | `terms/OT1998/runtime/OT_1998CHUNK6_B_NEUTRAL.md` | `a280e2f1866225cbe329ebb914233ecb1026261f58615c55c5fa1b2f6384b058` |
-| `terms/OT1998/entering-law/OT_1998CHUNK6_B_FRESH_SELECTED.md` | `b62fa28ffc5e176dda1365cae46d0381ed2dcfd3995499ee148649a385c4f4e7` |
+| `terms/OT1998/entering-law/OT_1998CHUNK6_B_FRESH_SELECTED.md` | `31a968be74f1aa5180ecee5efba1ee59c7ad00bf6cd5ec790a652bdf5bb0bc97` |
 | `terms/OT1998/runtime/OT_1998CHUNK6_B_PROC_COMPARATOR.md` | `cc4936f88c36488c4649db20240585eecba1948501f78f1b5b2a74136e731a6d` |
 | `terms/OT1998/sources/chunk6-comparator/97-1909.ZS.html.txt` | `723b27de04854536886711e07d25de5e03a9f80525efe7d3163d2aa2deec1735` |
 | `terms/OT1998/sources/chunk6-comparator/97-1909.ZO.html.txt` | `d5ea41cf5a62f3dea3bfe803d54417ea99ae872ad735bc91edf7acf5ed510eca` |

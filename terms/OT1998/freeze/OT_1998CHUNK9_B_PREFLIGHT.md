@@ -24,8 +24,8 @@
 |---|---|
 | freeze/OT_1998CHUNK9_B_NEUTRAL.md | ef025518529a903a6296a064bcf1c2c1547a46938aa52e5b4feb7f2a81e22c9c |
 | runtime/OT_1998CHUNK9_NEUTRAL.md | 80fa6614a5425f81bc4b523d3c63e69b2e799979686a0108e26ec309ba61512a |
-| entering-law/OT_1998CHUNK9_B.md | d304cb908cd0bb37faf8f631074797df0618c294fba110ce7b1c06489fe64a57 |
-| entering-law/OT_1998CHUNK9_B_READING.md | 9462ae17e9bfe4c8428d2577c9d37587404fd5f07be6b9e6ff67950bf3f3c1b6 |
+| entering-law/OT_1998CHUNK9_B.md | 2f0b28d35cc798feeb1855dc0405d93e220c985fba126f2a50389d837ad870a0 |
+| entering-law/OT_1998CHUNK9_B_READING.md | daff9fd092244c4622f19718d7b19743347d20571bf748cfbda8e1a157058da2 |
 | runtime/chunk9-control/SANITIZED_GROUP_B_FACT_EXTRACTS.md | 121f03df55c846672f6c615b889b75b52b1662797fe5ee1a55cb26b8f77bb3bb |
 | runtime/chunk9-control/tice-cap.txt | b6766e2276805c48e10565773a0e440b2bf7fa297efe328d22a0e12e98cc5b5f |
 | runtime/chunk9-control/zurko-lower-cap.txt | 357dd14c1a55f04b648fdbbc21bf0bd29616a653a5b4a4e8d2696d140db603c8 |

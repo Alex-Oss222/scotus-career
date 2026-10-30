@@ -1724,7 +1724,7 @@
       "authors": [
         "Souter"
       ],
-      "source_sha256": "d4ee344038531fd368d62c6006696e67d3ac21436861709571a00a4c5db385be",
+      "source_sha256": "40db0920c98efafaf86ad256326e8f76365c3489b6c1eec277033c37256e753a",
       "author_evidence": [
         "| Opinion of the Court, Part I — review, distinct proceedings and express statutory authorization | Souter | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; unanimous. |",
         "| Opinion of the Court, Parts II–III — constitutional state-forum rule and reversal/remand | Souter | Stone-Zsela, Stevens, Ginsburg and Breyer; five Justices including the author. |",
@@ -1740,7 +1740,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "source_sha256": "303f321c0767cff2535d3531b96ca674857e5f8cbe2741ffb5ed75d58b6dacaa",
+      "source_sha256": "d665dcf5a3305e59f15500609498a1c543cd0b19947d49a55e0901be945149fb",
       "author_evidence": [
         "| Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous statutory clarity and separation of authorization, power, consent, liability and relief; no common affirmative amenability ground. |",
         "| Opinion of the Court, Part II | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight directly reject this own-product-advertising §5 justification, with Boerne prevention and property qualifications intact. Stevens refuses this part. |",
@@ -1762,7 +1762,7 @@
       "authors": [
         "Stevens"
       ],
-      "source_sha256": "66187df01853b583e90ba071f1df8b6b3837f36a70934bcca66ef38ed5087b07",
+      "source_sha256": "dd08c980490f5ed11cf4c25afca593da6e2a4795312d59571796e2d59b53a483",
       "author_evidence": [
         "| Opinion announcing the judgment; Opinion of the Court as to Part I | Stevens | Souter, Ginsburg, Breyer in full; Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas as to Part I only | Stevens, Souter, Ginsburg, Breyer support affirmance on each of two independent grounds; Stone-Zsela supports affirmance on a separate ground; the other four dissent from affirmance | Part I: common statutory clarity, patent-property/deprivation distinction, and legal availability of proper respondent alternatives. Part II: four-Justice affirmative §5 fit. Part III: four-Justice confined commercial consent. |"
       ]

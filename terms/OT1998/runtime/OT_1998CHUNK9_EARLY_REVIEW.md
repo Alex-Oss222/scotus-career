@@ -36,9 +36,9 @@ Reviewed byte identities:
 
 | Inspected file | SHA-256 |
 |---|---|
-| records/richardson_v_united_states_merits_1999-06-01.md | 3ccace80ce00ff38392fef7e90a5261b07a5d2d4f6352803d9441e13e29528f2 |
-| records/bruneau_v_south_kortright_central_school_district_merits_1999-06-03.md | e9eb44a1f576826b6a3b5238c1154e01888c07df9683a0532c67189f9fd60c36 |
-| runtime/OT_1998CHUNK9_GONCALVES_FINAL_DRAFT.md | 80dd2a901c732ecc86ad358d61714779bc0e5d56d61ad3ba43fbbcfaad108c8d |
+| records/richardson_v_united_states_merits_1999-06-01.md | ef10a5aa03695e3cfa516e2a7cbcc1fd31bfacd30dd3a088c0a46f93b03bdee6 |
+| records/bruneau_v_south_kortright_central_school_district_merits_1999-06-03.md | cd4088e9f5cf008f3e46dcd1aa66dd4f106e71a872283198408ac0dde576283c |
+| runtime/OT_1998CHUNK9_GONCALVES_FINAL_DRAFT.md | fda7c6d6ea3dee335c95e282a110d0304b3ccf33c00e1a54ad2e3f434db2b735 |
 
 ## Remaining operator checks
 
