@@ -33,11 +33,11 @@ The Chief joins the judgment coalition and assigns the lead. The [fresh actual-t
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 6 |
+| Stone-Zsela | 7 |
 | Stevens | 6 |
 | O'Connor | 7 |
 | Scalia | 6 |
-| Kennedy | 6 |
+| Kennedy | 5 |
 | Souter | 7 |
 | Thomas | 6 |
 | Ginsburg | 6 |
@@ -47,7 +47,7 @@ Last counted event: South Central Bell Telephone Co. v. Alabama, March 23, 1999,
 
 Eligible full-lead authors are Stone-Zsela, Stevens, Scalia, Souter, Thomas and Ginsburg. Their minimum is six, so all six are in the balance pool, including Souter at seven. Fit governs: every necessary statutory join is already settled, and no unaccepted accommodation is required. Scalia writes. His actual statutory/avoidance opinion in Almendarez-Torres performs the immediate analogue's offense-versus-penalty construction, and his Gaudin opinion supplies the resulting jury allocation. His recent Holloway dissent reinforces attention to the applicable enactment rather than transplanting a later formulation. These concrete tasks fit this lead even though his personal constitutional view is broader.
 
-Stone is a strong alternative at the same count: his approved core precisely separates statutory authority, the missing charge and verdict, and the bounded remedy. His position supplies no unresolved accommodation, however, and his authorship offers no concrete advantage over Scalia's combined direct statutory-analogue and element-allocation work. Thomas's confined statutory position also fits, but no preservation of his join depends on Thomas writing; all six accept the sufficient account. The Chief therefore selects Scalia within the pool. Earlier authorship is evidence of fit, not an eligibility restriction or an automatic entitlement. Historical Jones authorship supplies no premise.
+Stone is a strong pool alternative at seven counted leads to Scalia's six: his approved core precisely separates statutory authority, the missing charge and verdict, and the bounded remedy. His position supplies no unresolved accommodation, however, and his authorship offers no concrete advantage over Scalia's combined direct statutory-analogue and element-allocation work. Thomas's confined statutory position also fits, but no preservation of his join depends on Thomas writing; all six accept the sufficient account. The Chief therefore selects Scalia within the pool. Earlier authorship is evidence of fit, not an eligibility restriction or an automatic entitlement. Historical Jones authorship supplies no premise.
 
 Souter writes the common constitutional concurrence because his commitment states its exact current-offense boundary without the broader extensions. Stevens writes the broader concurrence, with Scalia joining Part I and no join to Stevens's distinct capital Part II. Kennedy writes the shared dissent; its independent current-injury defense reflects all three dissenters' frozen grounds. Separate writings add no lead count. No fictional circulation, changed commitment or new objection is attributed to any Justice.
 

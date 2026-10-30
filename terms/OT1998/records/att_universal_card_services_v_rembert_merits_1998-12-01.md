@@ -89,11 +89,11 @@ Internal handoffs: terms/OT1998/freeze/OT_1998CHUNK2_NEUTRAL.md (Rembert only); 
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
@@ -101,7 +101,7 @@ Internal handoffs: terms/OT1998/freeze/OT_1998CHUNK2_NEUTRAL.md (Rembert only); 
 
 Last counted event: Wisconsin Right to Life, Inc. v. Paradise, 1998-11-24, delivered by Stone-Zsela. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Souter.**
 
-The Chief joins every judgment and proposition and assigns the complete opinion to Souter. Fit governs because all nine already support the narrow fraud-intent rule and the same affirmance; no expansion accommodation is needed. Souter's Field opinion directly separates the statutory common-law fraud inquiry, recipient-specific reliance and review of findings under the correct legal rule. This opinion requires the same discipline: keep subjective repayment intent separate from ability to pay, permit circumstantial proof, and avoid converting the intent disposition into an unmade reliance finding. Ginsburg is the strongest equal-count alternative through her Field and actual-proof positions; Souter's demonstrated coordination of the fraud elements and review rule gives him the closer fit. Stone's approved rule can be expressed equally faithfully by Souter and supplies no unresolved accommodation requiring self-assignment. Souter also has one counted lead to Stone's two, favoring the equally capable lower-count author. Earlier authorship provides evidence of fit, not eligibility by subject ownership. Souter receives one counted lead.
+The Chief joins every judgment and proposition and assigns the complete opinion to Souter. Fit governs because all nine already support the narrow fraud-intent rule and the same affirmance; no expansion accommodation is needed. Souter's Field opinion directly separates the statutory common-law fraud inquiry, recipient-specific reliance and review of findings under the correct legal rule. This opinion requires the same discipline: keep subjective repayment intent separate from ability to pay, permit circumstantial proof, and avoid converting the intent disposition into an unmade reliance finding. Ginsburg is the strongest equal-count alternative through her Field and actual-proof positions; Souter's demonstrated coordination of the fraud elements and review rule gives him the closer fit. Stone's approved rule can be expressed equally faithfully by Souter and supplies no unresolved accommodation requiring self-assignment. Souter also has one counted lead to Stone's three, favoring the equally capable lower-count author. Earlier authorship provides evidence of fit, not eligibility by subject ownership. Souter receives one counted lead.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 

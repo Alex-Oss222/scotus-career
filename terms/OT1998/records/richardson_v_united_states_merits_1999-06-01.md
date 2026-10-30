@@ -23,17 +23,17 @@ The Chief belongs to the six-Justice judgment coalition and assigns. The tentati
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 9 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-Last counted event: Wilson v. Layne, May 24, 1999, signed lead by Scalia. Fresh recount: 87 counted leads from 98 existing Records. Eligible authors: Stone-Zsela, Stevens, Scalia, Souter, Thomas and Breyer. Lowest eligible count: 8. Balance pool: Stone-Zsela (8), Stevens (9), Thomas (9). Author selected: Stevens.
+Last counted event: Wilson v. Layne, May 24, 1999, signed lead by Scalia. Fresh recount: 87 counted leads from 98 existing Records. Eligible authors: Stone-Zsela, Stevens, Scalia, Souter, Thomas and Breyer. Lowest eligible count: 9. Balance pool: Stone-Zsela, Stevens, Scalia, Souter, Thomas, Breyer; minimum 9, ceiling 10. Author selected: Stevens.
 
 Fit: the settled common ground calls for distinguishing the statutory agreement and series requirements while preserving the jury's role and a precisely reserved remedy. Stevens's Rutledge opinion and Schad position give him a case-specific advantage in explaining that distinction. Stone is the strongest alternative in the pool: his approved violations analysis and separation of merits from remedy fit the work, but Stevens's directly relevant CCE analysis supplies the more concrete advantage. Thomas can state the same textual ground; no unique formulation from him is needed to secure joins. The selection is within the pool and relies on fit, not historical authorship, importance or a claim that any Justice lacks ability. There is no identified disagreement requiring expansion.
 

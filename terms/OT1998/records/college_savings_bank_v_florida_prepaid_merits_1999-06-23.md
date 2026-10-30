@@ -74,17 +74,17 @@ The Chief assigns because he belongs to the five-Justice reversal coalition. The
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 12 |
+| Stone-Zsela | 13 |
 | Stevens | 12 |
 | O'Connor | 14 |
 | Scalia | 12 |
-| Kennedy | 14 |
+| Kennedy | 13 |
 | Souter | 13 |
 | Thomas | 12 |
 | Ginsburg | 13 |
 | Breyer | 13 |
 
-**Assigning Justice:** Chief Justice Stone-Zsela. **Eligible authors for the entire lead:** Stone-Zsela only. **Balance pool:** Stone-Zsela only, at the eligible minimum of 12. **Chosen author:** Stone-Zsela. **Last event counted:** Alden v. Maine, June 23, 1999. This is a mandatory sole-pool assignment, not a preference based on importance, office or subject interest.
+**Assigning Justice:** Chief Justice Stone-Zsela. **Eligible authors for the entire lead:** Stone-Zsela only. **Balance pool:** Stone-Zsela; minimum 13, ceiling 14. **Chosen author:** Stone-Zsela. **Last event counted:** Alden v. Maine, June 23, 1999. This is a mandatory sole-pool assignment, not a preference based on importance, office or subject interest.
 
 Stone fully supports every actual lead proposition and the reversal remedy. Stevens refuses the adverse §5 and consent portions and does not adopt the Article I route; Souter, Ginsburg and Breyer refuse the adverse consent portion and do not adopt that route. O'Connor, Scalia, Kennedy and Thomas are outside the reversal coalition and reject its Article I scope basis. Their agreement with particular negative portions does not make them eligible to deliver this whole lead. Because one eligible author can carry every part, §8 does not permit dividing authorship merely to obtain different pools. No adverse majority-supported portion is dropped to enlarge eligibility, and no consent rationale is attributed to Stone.
 

@@ -42,17 +42,17 @@ The Holdings and Precedent Treatment blocks in the Public Projection below are t
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 11 |
+| Stone-Zsela | 12 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 11 |
-| Kennedy | 11 |
+| Kennedy | 10 |
 | Souter | 11 |
 | Thomas | 11 |
 | Ginsburg | 11 |
 | Breyer | 11 |
 
-Stone assigns as a member of the judgment majority. Eligible authors and the balance pool are identical: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, each supporting every governing proposition and accommodation in full and each at the minimum count. Souter writes. His Lane analysis directly supplies the work required here: identify express remedy-specific consent and distinguish coverage from the administering channel without weakening the consent standard. Breyer is the strongest alternative for coordinating broad administrative-remedy language with the later statute; Souter's precise treatment of the objection already settled in Lane offers the more case-specific fit. Stone can carry the opinion but supplies no additional accommodation or advantage over Souter on this record. No expansion assignment or invented circulation history is needed. Kennedy writes the dissent because his frozen objection specifically develops the interaction of forum-specific consent and the unavailable government avenue for demanding a jury; historical authorship does not determine this selection.
+Stone assigns as a member of the judgment majority. Eligible authors and the balance pool are identical: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, each supporting every governing proposition and accommodation in full; the Associates have eleven leads and Stone-Zsela twelve, within the minimum-eleven, ceiling-twelve pool. Souter writes. His Lane analysis directly supplies the work required here: identify express remedy-specific consent and distinguish coverage from the administering channel without weakening the consent standard. Breyer is the strongest alternative for coordinating broad administrative-remedy language with the later statute; Souter's precise treatment of the objection already settled in Lane offers the more case-specific fit. Stone can carry the opinion but supplies no additional accommodation or advantage over Souter on this record. No expansion assignment or invented circulation history is needed. Kennedy writes the dissent because his frozen objection specifically develops the interaction of forum-specific consent and the unavailable government avenue for demanding a jury; historical authorship does not determine this selection.
 
 | Justice | Frozen reconciled ground; final join and historical reconciliation |
 |---|---|

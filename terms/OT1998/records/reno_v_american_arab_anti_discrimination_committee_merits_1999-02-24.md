@@ -41,11 +41,11 @@ The singular injunction wording encompasses the collateral action's existing pre
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 5 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 4 |
 | Thomas | 4 |
 | Ginsburg | 5 |

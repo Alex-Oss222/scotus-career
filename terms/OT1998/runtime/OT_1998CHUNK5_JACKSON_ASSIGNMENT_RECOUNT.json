@@ -2,11 +2,11 @@
   "before_date": "1999-03-16",
   "before_case": "Jackson v. Benson",
   "counts": {
-    "Stone-Zsela": 5,
+    "Stone-Zsela": 6,
     "Stevens": 6,
     "O'Connor": 6,
     "Scalia": 6,
-    "Kennedy": 6,
+    "Kennedy": 5,
     "Souter": 6,
     "Thomas": 5,
     "Ginsburg": 6,
@@ -26,7 +26,7 @@
       "case": "United States v. Wright",
       "record": "united_states_v_wright_merits_1998-10-05.md",
       "authors": [
-        "Kennedy"
+        "Stone-Zsela"
       ]
     },
     {

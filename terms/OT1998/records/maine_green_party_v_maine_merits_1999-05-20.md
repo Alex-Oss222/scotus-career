@@ -27,17 +27,17 @@ Five affirm the judgment and four would vacate. Four procedural affirmers and St
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 9 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 9 |
 | Thomas | 9 |
 | Ginsburg | 9 |
 | Breyer | 9 |
 
-Last counted event: Saenz v. Roe; No. 98-97; judgment below, Roe v. Anderson, 134 F.3d 1400. (1999-05-17), Kennedy; `saenz_v_roe_merits_1999-05-17.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: O'Connor, Scalia, Thomas and Breyer. Balance pool: O'Connor (10), Scalia (9), Thomas (9) and Breyer (9). Chief Justice Stone-Zsela assigns Breyer. The Chief supports affirmance and therefore assigns the lead, but does not qualify to write the plurality's preservation ground. Stevens, Kennedy, Souter and Ginsburg oppose affirmance. Among the eligible authors the minimum is nine, so all four are within one. Breyer's frozen complete-system position specifically explains why a claimed change in national aims matters to the factual burden analysis; that supplies concrete fit for a narrow preservation opinion without endorsing the retention rule. Scalia offers a strong alternative on the claim/argument distinction; Breyer can perform that same procedural work while explaining the materiality of the disputed premise. O'Connor's Yee experience supplies no exception to the lower-count preference. Fit, not a new accommodation or altered commitment, determines this selection.
+Last counted event: Saenz v. Roe; No. 98-97; judgment below, Roe v. Anderson, 134 F.3d 1400. (1999-05-17), Kennedy; `saenz_v_roe_merits_1999-05-17.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: O'Connor, Scalia, Thomas and Breyer. Balance pool: O'Connor, Scalia, Thomas, Breyer; minimum 9, ceiling 10. Chief Justice Stone-Zsela assigns Breyer. The Chief supports affirmance and therefore assigns the lead, but does not qualify to write the plurality's preservation ground. Stevens, Kennedy, Souter and Ginsburg oppose affirmance. Among the eligible authors the minimum is nine, so all four are within one. Breyer's frozen complete-system position specifically explains why a claimed change in national aims matters to the factual burden analysis; that supplies concrete fit for a narrow preservation opinion without endorsing the retention rule. Scalia offers a strong alternative on the claim/argument distinction; Breyer can perform that same procedural work while explaining the materiality of the disputed premise. O'Connor's Yee experience supplies no exception to the lower-count preference. Fit, not a new accommodation or altered commitment, determines this selection.
 
 All four procedural affirmance supporters join Breyer's lead in full. Stone concurs only in the judgment, preserving his view that the legal organizational-autonomy argument is available and that the facial challenge fails on this record. Stevens writes for Kennedy, Souter and Ginsburg in dissent, reflecting his preserved-argument and ordinary-remand ground. That separate authorship is a formulation of their frozen shared position, not imported historical authorship. No one is given a new merits join. Five directly agree only that refining the legal organizational-autonomy objection within the original claim does not itself forfeit it; none of those five finds the new exclusive-local factual premise established. The four procedural affirmers disagree with that application. The five-proposition agreement does not become a shared ground for the affirmance.
 

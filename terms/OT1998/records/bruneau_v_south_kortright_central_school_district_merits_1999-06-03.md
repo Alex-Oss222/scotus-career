@@ -23,17 +23,17 @@ The Chief is in the unanimous constitutional judgment coalition and assigns that
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 10 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-The last counted event is Richardson v. United States, June 1, 1999, signed lead by Stevens. The fresh recount totals 88 leads. All nine are eligible for the constitutional/common portion; its minimum is Stone-Zsela's 8 and its pool is Stone-Zsela (8) and Thomas (9). The statutory portion's full eligible set is Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; Stone's opposed disposition and statutory ground exclude him. Its minimum is 9 and the corresponding balance range includes Thomas (9), Stevens, Scalia, Kennedy, Souter, Ginsburg and Breyer (10 each); O'Connor has 11. The Associate's assignment is not independently bound by the Chief's pool rule, but the joint single-author selection satisfies both component ranges.
+The last counted event is Richardson v. United States, June 1, 1999, signed lead by Stevens. The fresh recount totals 88 leads. All nine are eligible for the constitutional/common portion; its minimum is nine and its pool is Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, at nine or ten. The statutory portion's full eligible set is Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; Stone's opposed disposition and statutory ground exclude him. Its minimum is 9 and the corresponding balance range includes Kennedy and Thomas (9 each), and Stevens, Scalia, Souter, Ginsburg and Breyer (10 each); O'Connor has 11. The Associate's assignment is not independently bound by the Chief's pool rule, but the joint single-author selection satisfies both component ranges.
 
 Thomas is the only member of the Chief's constitutional pool who can carry every governing proposition of the undivided opinion. He is therefore chosen. His full Blessing join and insistence that the statutory vehicle retain the underlying recipient limits supply a faithful explanation of the shared rights-and-remedies distinction. Stevens's assignment of the statutory portion is supported by Thomas's accepted operative framework and ability to express that preserved limitation, not by a claim of historical authorship or a new ideological criterion. Ginsburg's existing Kinman/Davis work is a strong case-specific alternative for the full analysis, but she is outside the pool for the Chief-assigned constitutional portion at this assignment. No division is invented to alter those counts.
 

@@ -28,14 +28,14 @@ The later-study qualification is explicit: reliable retrospective evidence may i
 
 ## Assignment recount and chronology
 
-The actual opinion tables establish the earlier counted leads: Wright—Kennedy; FOP—Souter; Hiley—O'Connor; Peoples Rights Organization—Thomas; Franklyn/Gonzalez—Ginsburg; Griffin/Langley—Stone-Zsela; Marquez—Stevens; Coalition—Breyer; and then Pfaff—Scalia. The unsigned Louisiana decree and all separate writings contribute zero. Same-date alphabetical order places Coalition before Pfaff for counting.
+The actual opinion tables establish the earlier counted leads: Wright—Stone-Zsela; FOP—Souter; Hiley—O'Connor; Peoples Rights Organization—Thomas; Franklyn/Gonzalez—Ginsburg; Griffin/Langley—Stone-Zsela; Marquez—Stevens; Coalition—Breyer; and then Pfaff—Scalia. The unsigned Louisiana decree and all separate writings contribute zero. Same-date alphabetical order places Coalition before Pfaff for counting.
 
 | Assignment | Actual preassignment counts | Last counted event | Entire-lead eligibility and balance pool | Selected author |
 |---|---|---|---|---|
-| Pfaff | Scalia 0; each other Justice 1 | Coalition, November 10 | All nine eligible; minimum 0; all nine within minimum plus one | Scalia |
-| Kravitz | Every Justice 1 | Pfaff, November 10 | All nine eligible; minimum 1; all nine within minimum plus one | Kennedy |
+| Pfaff | Stone-Zsela 2; Kennedy and Scalia 0; other Justices 1 | Coalition, November 10 | All nine eligible; minimum 0; the eight Associates form the pool | Scalia |
+| Kravitz | Stone-Zsela 2; Kennedy 0; other Justices 1 | Pfaff, November 10 | All nine eligible; minimum 0; the eight Associates form the pool | Kennedy |
 
-Both Records establish opinion form and governing scope before the count and selection, and give case-specific fit comparisons, including Stone. No authorship is imported from the historical comparator. Coalition counts before Pfaff without becoming same-date entering law for it. Both November 10 decisions precede Kravitz and supply no changed securities premise. After Kravitz there are ten counted leads: Kennedy 2, every other Justice 1.
+Both Records establish opinion form and governing scope before the count and selection, and give case-specific fit comparisons, including Stone. No authorship is imported from the historical comparator. Coalition counts before Pfaff without becoming same-date entering law for it. Both November 10 decisions precede Kravitz and supply no changed securities premise. In this assignment set, after Kravitz there are ten counted leads: Stone-Zsela 2, every other Justice 1. NAACP is accounted for in subsequent counts under section 8's later-commit rule; it does not reopen these assignments.
 
 ## Mechanical verification
 

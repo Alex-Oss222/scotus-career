@@ -31,11 +31,11 @@ The Chief belongs to each judgment coalition and assigns. The [fresh recount](..
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 5 |
+| Stone-Zsela | 6 |
 | Stevens | 6 |
 | O'Connor | 7 |
 | Scalia | 6 |
-| Kennedy | 6 |
+| Kennedy | 5 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 6 |

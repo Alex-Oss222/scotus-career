@@ -31,11 +31,11 @@ The actual earlier-event law and [pre-May24 dependency review](../freeze/OT_1998
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 9 |
 | O'Connor | 10 |
 | Scalia | 9 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 10 |

@@ -25,11 +25,11 @@ The form, governing propositions, component coalitions and full-rationale eligib
 
 | Justice | Count before this assignment |
 |---|---:|
-| Stone-Zsela | 10 |
+| Stone-Zsela | 11 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 11 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 11 |
 | Thomas | 10 |
 | Ginsburg | 11 |
@@ -39,11 +39,11 @@ The form, governing propositions, component coalitions and full-rationale eligib
 
 **Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer.
+**Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 10, ceiling 11.
 
 **Assigned author:** Breyer. Breyer is selected at 10 to carry the complete existing-framework analysis while keeping its distinct exception, intrinsic-reliability and remedy coalitions explicit. His frozen position affirmatively applies received confrontation doctrine to the actual interrogation pressures and blame allocation without making broader reconsideration part of this case. That supports the required narrow reliability holding and preservation-qualified relief without confusing the two judgment-only constitutional grounds with joins. No new commitment or expansion negotiation is needed.
 
-**Strongest eligible pool alternative and comparison:** The Chief, also at 10, is the strongest pool alternative: his approved formulation supplies the same intrinsic-guarantee analysis and the necessary fifth direct rationale vote. Both can carry the exact opinion; Breyer can express that objective with equal fidelity while preserving the received-framework boundary and distinct remedy inquiry. The fact that the Chief supplies a necessary vote does not itself require self-assignment. Stevens, Souter and Ginsburg are fully eligible at 11 and likewise support the complete grounds.
+**Strongest eligible pool alternative and comparison:** The Chief, at eleven compared with Breyer's ten, is the strongest pool alternative: his approved formulation supplies the same intrinsic-guarantee analysis and the necessary fifth direct rationale vote. Both can carry the exact opinion; Breyer can express that objective with equal fidelity while preserving the received-framework boundary and distinct remedy inquiry. The fact that the Chief supplies a necessary vote does not itself require self-assignment. Stevens, Souter and Ginsburg are fully eligible at 11 and likewise support the complete grounds.
 
 **Fresh-count evidence:** [recount](../runtime/OT_1998CHUNK9_LILLY_FINAL_RECOUNT.json); every prior author was recounted from actual opinion tables and form classifications, not previous totals. Git verification remains deferred under the authorized no-Git workflow.
 
@@ -124,7 +124,7 @@ Authority: [frozen reconciled commitments](../freeze/OT_1998CHUNK9_LILLY_RECONCI
 
 **Threshold and distinct components.** All eight reach the preserved Confrontation Clause challenge to Mark Lilly's custodial accusations admitted substantively at Benjamin's separate trial. This is not Bruton redaction or limiting-instruction adjudication. Firm-rootedness, particularized trustworthiness, scope of constitutional reconstruction and harmlessness are separate. Mark's privilege establishes the supplied unavailability; it does not establish reliability. No express immunity bargain or promise of leniency is found.
 
-**Law entering.** The register Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions, present operation effective Hale, February 12, 1996, preserves White's January 15, 1992 exception-sensitive framework and its rejection of a categorical formal-affidavit-only limit. Assertion-specific declarations against penal interest, effective Williamson, June 27, 1994, concerns federal Rule 804(b)(3), not Virginia evidence or a previously decided constitutional firm-rootedness question. Lee v. Illinois supplies the danger of accomplice blame shifting. Idaho v. Wright requires constitutional guarantees from the circumstances surrounding the statement, not independent trial corroboration; its majority was O'Connor's, joined by Stevens and Scalia among present Justices. Kennedy's Wright dissent supports a broader contextual reliability inquiry but is not governing law. Gray, March 9, 1998, separates error from a preservation-qualified Chapman remand.
+**Law entering.** The register Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions, present operation effective Hale, February 12, 1996, preserves White's January 15, 1992 exception-sensitive framework and its rejection of a categorical formal-affidavit-only limit. Assertion-specific declarations against penal interest, effective Williamson, June 27, 1994, concerns federal Rule 804(b)(3), not Virginia evidence or a previously decided constitutional firm-rootedness question. Lee v. Illinois supplies the danger of accomplice blame shifting. Idaho v. Wright requires constitutional guarantees from the circumstances surrounding the statement, not independent trial corroboration; its majority was O'Connor's, joined by Stevens and Scalia among present Justices. Stone-Zsela's Wright dissent supports a broader contextual reliability inquiry but is not governing law. Gray, March 9, 1998, separates error from a preservation-qualified Chapman remand.
 
 **Operative propositions and material distinctions.**
 

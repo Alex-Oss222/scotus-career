@@ -29,21 +29,21 @@ Stone-Zsela assigns as Chief because he belongs to the judgment coalition on eve
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 5 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 4 |
 | Thomas | 4 |
 | Ginsburg | 5 |
 | Breyer | 4 |
 
-**Last counted event:** John Crane, Inc. v. Abate; No. 98-873., 1999-02-18. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Selected author:** O'Connor.
+**Last counted event:** John Crane, Inc. v. Abate; No. 98-873., 1999-02-18. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer; minimum 3, ceiling 4. **Selected author:** O'Connor.
 
 Fit governs because all nine already share the operative receipt rule and bounded remand; no new accommodation is needed to obtain a necessary join. O'Connor is selected from the actual pool. Her frozen position combines the statutory conditions emphasized in her Kelley opinion and the recipient-acceptance and funding-notice premise of her Gebser position. The legal work is to explain why institution-wide coverage and indirect delivery do not dispense with actual receipt, while preserving genuinely different NYSP and control theories and their own procedural prerequisites. Her recorded commitment expressly preserves those alternatives and the distinction between coverage and damages, so this fit does not presume that she would foreclose the functional theories favored by other Justices.
 
-Stone is a strong alternative at the same count of four: his approved rule squarely separates dues from assistance and preserves the two alternatives. O'Connor offers a concrete advantage in stating the funding condition together with the distinction between covered institutional athletics and the separate association, without importing Gebser's attribution dispute. Her ability to carry the full reserved remand is already frozen, so selection changes no vote or ground. Stevens is also a strong alternative for the pro se pleading limits; those ordinary remand principles are settled here and do not require an expansion assignment. Every Justice is eligible and in the pool; none is excluded for style, prior authorship or experience. Historical authorship plays no role.
+Stone is substantively eligible but outside the pool at five: his approved rule squarely separates dues from assistance and preserves the two alternatives. O'Connor offers a concrete advantage in stating the funding condition together with the distinction between covered institutional athletics and the separate association, without importing Gebser's attribution dispute. Her ability to carry the full reserved remand is already frozen, so selection changes no vote or ground. Stevens is also a strong alternative for the pro se pleading limits; those ordinary remand principles are settled here and do not require an expansion assignment. Every Justice is eligible and in the pool; none is excluded for style, prior authorship or experience. Historical authorship plays no role.
 
 O'Connor writes for the Court; the other eight join in full. The precise final join is to the recipient/beneficiary distinction, the whole statutory and regulatory reading, reservation of properly presented alternatives, and ordinary remand. Each frozen Justice's objections to automatic association coverage, categorical immunity, an Article III dismissal, a guaranteed amendment, or an award without proof are preserved by those limits. No commitment changes and no invented circulation history is necessary. The statutory dues rule does not decide the different attribution question on which the Justices divided in Gebser.
 

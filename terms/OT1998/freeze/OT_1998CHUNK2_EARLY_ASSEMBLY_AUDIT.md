@@ -6,7 +6,7 @@ Read-only substantive audit. The auditor changed no Record, draft, frozen handof
 
 Reviewed the entered Wright, Dodd, Wisconsin Right to Life v. Paradise and AT&T v. Rembert Records, plus `tmp/ot1998_chunk2/drafts/knowles.md`. Read AGENTS.md, Engine sections 4 and 7–9, and the relevant Render Contract standards. Compared only the five scoped runtime Stone supplements with their corresponding frozen neutral/preflight, commitment and effective reconciliation portions. FRESH_RECONCILED controls Wright, Dodd and Knowles; EARLY_RECONCILED controls Paradise and Rembert. The three relevant fresh commitment sections are byte-identical to the corresponding reconciled sections.
 
-The actual preceding Records' public opinion tables were inspected, including NAACP's later-completed November 5 event. The counting helper was a cross-check rather than the source of authorship. Louisiana's unsigned decree is excluded. There are eleven counted leads before Wright, not ten: Stone-Zsela 1; Stevens 1; O'Connor 1; Scalia 2; Kennedy 2; Souter 1; Thomas 1; Ginsburg 1; Breyer 1.
+The actual preceding Records' public opinion tables were inspected, including NAACP's later-completed November 5 event. The counting helper was a cross-check rather than the source of authorship. Louisiana's unsigned decree is excluded. There are eleven counted leads before Wright, not ten: Stone-Zsela 2; Stevens 1; O'Connor 1; Scalia 2; Kennedy 1; Souter 1; Thomas 1; Ginsburg 1; Breyer 1.
 
 ## Outstanding findings
 

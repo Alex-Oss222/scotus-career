@@ -4,11 +4,11 @@ Recounted from current Record opinion tables before April 13, 1999, with same-da
 
 | Justice | Counted signed lead opinions |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 7 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 7 |
@@ -26,7 +26,7 @@ The [bounded source excerpts](OT_1998CHUNK7_ASSIGNMENT_EXCERPTS.md) reproduce th
 
 | Date | Case and Record | Lead author | Assignment statement |
 |---|---|---|---|
-| 1998-10-05 | [United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.](../records/united_states_v_wright_merits_1998-10-05.md) | Kennedy | [Form, assignment and balance](../records/united_states_v_wright_merits_1998-10-05.md#form-assignment-and-balance) |
+| 1998-10-05 | [United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.](../records/united_states_v_wright_merits_1998-10-05.md) | Stone-Zsela | [Form, assignment and balance](../records/united_states_v_wright_merits_1998-10-05.md#form-assignment-and-balance) |
 | 1998-10-07 | [Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; judgment below, 152 F.3d 998.](../records/fraternal_order_of_police_v_united_states_merits_1998-10-07.md) | Souter | [Assignment under Engine section 8](../records/fraternal_order_of_police_v_united_states_merits_1998-10-07.md#assignment-under-engine-section-8) |
 | 1998-10-09 | [Hiley v. Barrett; Eleventh Circuit No. 97-9006; 155 F.3d 1276. No separately established Supreme Court docket.](../records/hiley_v_barrett_merits_1998-10-09.md) | O'Connor | [Assignment under Engine section 8](../records/hiley_v_barrett_merits_1998-10-09.md#assignment-under-engine-section-8) |
 | 1998-10-15 | [Peoples Rights Organization, Inc. v. City of Columbus; Sixth Circuit Nos. 96-3468 and 96-3495; 152 F.3d 522. No separately established Supreme Court docket.](../records/peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md) | Thomas | [Form and balanced assignment](../records/peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md#form-and-balanced-assignment) |

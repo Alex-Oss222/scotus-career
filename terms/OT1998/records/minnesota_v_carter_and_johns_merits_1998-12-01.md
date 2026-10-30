@@ -198,11 +198,11 @@ The four explicit remedy changes are not treated as new merits joins. No Court s
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | No | No |
+| Stone-Zsela | 3 | No | No |
 | Stevens | 2 | No | No |
 | O'Connor | 1 | No | No |
 | Scalia | 2 | No | No |
-| Kennedy | 2 | No | No |
+| Kennedy | 1 | No | No |
 | Souter | 2 | No | No |
 | Thomas | 1 | No | No |
 | Ginsburg | 1 | No | No |

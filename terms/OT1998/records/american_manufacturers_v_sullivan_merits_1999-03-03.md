@@ -25,17 +25,17 @@ The Chief assigns. The [fresh actual opinion-table recount](../runtime/OT_1998CH
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 5 |
 | O'Connor | 6 |
 | Scalia | 6 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 6 |
 | Breyer | 5 |
 
-Last counted event: Peguero, March 2, 1999, Scalia. Full-lead eligible authors: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Balance pool: Stone-Zsela, Kennedy, Thomas and Breyer. Chosen author: Kennedy. Fit governs. His Edmonson opinion identifies actual governmental participation in a nominally private act, and his current West Covina opinion separates a supported procedural objection from an additional categorical demand. Those are the two concrete distinctions this opinion must coordinate while preserving the public parties and existing claims. Thomas and Breyer can carry the same formulation; Kennedy's direct authorship of both kinds of distinction supplies the fit advantage. Stone's objectives are retained without a distinctive self-assignment claim. The lead counts once for Kennedy; separate writings do not count. No draft exchange, forced accommodation or post-reconciliation commitment change is invented.
+Last counted event: Peguero, March 2, 1999, Scalia. Full-lead eligible authors: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Balance pool: Stone-Zsela, Kennedy, Thomas, Breyer; minimum 4, ceiling 5. Chosen author: Kennedy. Fit governs. His Edmonson opinion identifies actual governmental participation in a nominally private act, and his current West Covina opinion separates a supported procedural objection from an additional categorical demand. Those are the two concrete distinctions this opinion must coordinate while preserving the public parties and existing claims. Thomas and Breyer can carry the same formulation; Kennedy's direct authorship of both kinds of distinction supplies the fit advantage. Stone's objectives are retained without a distinctive self-assignment claim. The lead counts once for Kennedy; separate writings do not count. No draft exchange, forced accommodation or post-reconciliation commitment change is invented.
 
 ## Law, remedy and continuity
 

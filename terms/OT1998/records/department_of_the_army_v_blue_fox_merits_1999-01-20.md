@@ -62,17 +62,17 @@ The signed form and governing propositions were selected on the legal grounds st
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 3 |
+| Stone-Zsela | 4 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 3 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al., No. 97-1732. — 1999-01-20. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Scalia, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** Scalia. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_BLUE_FOX_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al., No. 97-1732. — 1999-01-20. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Scalia. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_BLUE_FOX_ASSIGNMENT_RECOUNT.json).
 
 Fit governs. Scalia's own Nordic Village opinion separates consent to the particular monetary remedy from jurisdiction, trust and property labels, while preserving genuine property proceedings. That is the actual legal work needed to classify the claimed Army lien without converting every equitable monetary remedy into damages. Thomas, the lowest-count eligible author, can carry the same agreed distinction; Souter's Lane opinion is another strong pool alternative on duty versus consent. Scalia's direct formulation of the closely analogous property-label problem supplies the concrete fit advantage. Stone's approved reservations fit the opinion but offer no additional self-assignment advantage over that record-specific source work. No expansion or accommodation is necessary.
 

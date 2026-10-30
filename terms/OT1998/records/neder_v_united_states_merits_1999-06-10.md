@@ -39,11 +39,11 @@
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 10 |
+| Stone-Zsela | 11 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 11 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 11 |
 | Thomas | 10 |
 | Ginsburg | 11 |
@@ -53,11 +53,11 @@
 
 **Eligibility:** Parts I–II: all nine; Part III: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer; Part IV and V-B: Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer; V-A: all eight Associates. The intersection eligible to deliver the complete lead is Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer. The Chief's otherwise eligible statute/method position does not qualify him to deliver tax affirmance or the further fraud inquiry; Scalia and Ginsburg do not join the broader method or tax application.
 
-**Balance pool:** All six full-lead eligible Associates. The lowest eligible count is 10 (Kennedy and Thomas); Stevens, O'Connor, Souter, and Breyer at 11 remain within one of that minimum. No eligible Justice is excluded for general style, ability, prior authorship, or policy interest.
+**Balance pool:** Kennedy, Thomas; minimum 9, ceiling 10. Kennedy has the lowest eligible count of nine; Thomas at ten is the other pool member. Stevens, O'Connor, Souter and Breyer remain eligible but are outside the pool at eleven. No eligible Justice is excluded for general style, ability, prior authorship, or policy interest.
 
 **Assigned author and fit:** Thomas, at 10. The settled shared ground requires a provision-specific explanation of why fraud carries materiality while Wells's §1014 construction remains valid, followed by a faithful Roy inquiry with different tax and fraud applications. His own Wells reasoning supplies concrete capacity to distinguish the enactments without adding a generic materiality requirement, and his frozen Roy commitment supports the entire qualified inquiry and both remedies. He can carry the common tax ground without pretending the jury made the omitted materiality finding or importing Stevens's additional view. His assignment serves those combined legal tasks; no expansion of a frozen commitment is required.
 
-**Strongest alternative and comparison:** Souter, at 11, is the strongest methodological alternative: his Roy opinion supplies the precise instructional-focus qualification and permits the specific tax inference without a necessary-equivalence fiction. Both can carry all necessary joins. Thomas is selected because this case additionally requires the central Wells/fraud textual distinction he has already articulated, while fully retaining Souter's existing method, and has the lower count. Kennedy, also at 10, supplies a strong alternative for separating actual contribution from substitute factfinding; Thomas has the more direct demonstrated fit for coordinating that method with the distinct statutory work. Stevens's extra rationale does not require his authorship, and the other full-join members remain eligible. There is no author-based prediction of a changed vote.
+**Strongest alternative and comparison:** Souter, at eleven and outside the pool, supplies a strong methodological comparison: his Roy opinion supplies the precise instructional-focus qualification and permits the specific tax inference without a necessary-equivalence fiction. Both can carry all necessary joins. Thomas is selected because this case additionally requires the central Wells/fraud textual distinction he has already articulated, while fully retaining Souter's existing method, and has the lower count than Souter, though Kennedy has nine. Kennedy, at nine, supplies the strongest pool alternative for separating actual contribution from substitute factfinding; Thomas has the more direct demonstrated fit for coordinating that method with the distinct statutory work. Stevens's extra rationale does not require his authorship, and the other full-join members remain eligible. There is no author-based prediction of a changed vote.
 
 ## Law of the decision
 

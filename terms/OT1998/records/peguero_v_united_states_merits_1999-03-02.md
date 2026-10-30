@@ -25,17 +25,17 @@ The [fresh opinion-table recount](../runtime/OT_1998CHUNK5_PEGUERO_ASSIGNMENT_RE
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 5 |
 | O'Connor | 6 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 6 |
 | Breyer | 5 |
 
-Last counted event: Holloway, March 2, 1999, Ginsburg. Eligible full-lead authors: all eight Associate Justices; Stone is ineligible because his approved position supplies no Part I ground. Balance pool: all eight Associates, each at five or six. Chosen author: Scalia. Fit governs. His Hohn dissent expressly distinguishes permission to appeal from the appeal itself; here permission actually issued. His Bousley dissent also separates collateral constraints from automatic relief for a statutory or procedural error. He can explain both distinctions without treating consent as jurisdiction or likely success as causal prejudice. Ginsburg's Hohn and Bousley opinions provide a strong pool alternative but carry the higher count; no necessary accommodation gives another author a superior claim. The lead counts once for Scalia.
+Last counted event: Holloway, March 2, 1999, Ginsburg. Eligible full-lead authors: all eight Associate Justices; Stone is ineligible because his approved position supplies no Part I ground. Balance pool: Stevens, Scalia, Kennedy, Thomas, Breyer; minimum 4, ceiling 5. Chosen author: Scalia. Fit governs. His Hohn dissent expressly distinguishes permission to appeal from the appeal itself; here permission actually issued. His Bousley dissent also separates collateral constraints from automatic relief for a statutory or procedural error. He can explain both distinctions without treating consent as jurisdiction or likely success as causal prejudice. Kennedy is a lower-count pool alternative at four and fully supports the settled distinction. Ginsburg's Hohn and Bousley opinions show substantive fit, but her six leads place her outside the pool; no necessary accommodation defeats Scalia's stated fit advantage. The lead counts once for Scalia.
 
 ## Law, remedy and continuity
 

@@ -4,11 +4,11 @@
   "counted_opinions": 65,
   "author_increments": 65,
   "counts": {
-    "Stone-Zsela": 7,
+    "Stone-Zsela": 8,
     "Stevens": 7,
     "O'Connor": 8,
     "Scalia": 7,
-    "Kennedy": 7,
+    "Kennedy": 6,
     "Souter": 7,
     "Thomas": 7,
     "Ginsburg": 7,
@@ -19,7 +19,7 @@
     "date": "1999-04-07",
     "case": "Barnes v. American Tobacco Co., No. 98-1489; judgment below, 161 F.3d 127.",
     "event": "post-grant merits decision, 1999-04-07; October Term 1998.",
-    "source_sha256": "4dc290c074ec9eb20cab3e034f64e225f0207cc9ebb0d23434947bf1dbf414a4",
+    "source_sha256": "93b294c40f148c395db9615556e022c2e6a1aed04290023a000c826a90915c93",
     "authors": [
       "Breyer"
     ],
@@ -33,12 +33,12 @@
       "date": "1998-10-05",
       "case": "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
       "event": "Plenary merits decision after full merits briefing; 1998-10-05; October Term 1998, chunk 1.",
-      "source_sha256": "e0f2b0cc24d7edea93920f0e204d35a79c0e42694afd4f4e22e42000f1fd0b30",
+      "source_sha256": "4eea211ed875ad068140e827663a3f9c139be0ed8d6f0109a1fa99f85c7a5cda",
       "authors": [
-        "Kennedy"
+        "Stone-Zsela"
       ],
       "exact_lead_rows": [
-        "| Opinion of the Court, Parts I-V | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Full opinion: I commerce and derivative Tenth objection; II-A personal invocation and II-B machinegun remand with conditional instruction treatment; III independent registration conviction; IV Ninth Amendment; V-A legal-challenge rule and V-B sentence vacatur. Eight direct rationale votes throughout. |"
+        "| Opinion of the Court | Stone-Zsela | O'Connor, Kennedy, Souter, Ginsburg | All Parts I-V, including II-B's complete Core-Preservation Review, II-C's two-stage remand and III's incidental-regulation application. Five direct rationale votes throughout. |"
       ]
     },
     {
@@ -46,7 +46,7 @@
       "date": "1998-10-07",
       "case": "Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; judgment below, 152 F.3d 998.",
       "event": "Plenary merits decision after full merits briefing; 1998-10-07; October Term 1998, chunk 1.",
-      "source_sha256": "8b9c4873e12611ed3fd37d9970ab84d396b6b48a0ae269c5cf03a36061c4588e",
+      "source_sha256": "5ad17b1ef6c927c3927780fb5af541574930e02ca96aae3c33526582728d5cad",
       "authors": [
         "Souter"
       ],
@@ -59,7 +59,7 @@
       "date": "1998-10-09",
       "case": "Hiley v. Barrett; Eleventh Circuit No. 97-9006; 155 F.3d 1276. No separately established Supreme Court docket.",
       "event": "Plenary merits decision after full merits briefing; 1998-10-09; October Term 1998, chunk 1.",
-      "source_sha256": "0606c7df7ef0dee7541ac026688d2c8eb24ac4fd0f85ccb91e789b59995b6eb6",
+      "source_sha256": "7317277ae43694411e066cdb468be88886e74e5f6ea1aeafb8644800cc88df84",
       "authors": [
         "O'Connor"
       ],
@@ -72,7 +72,7 @@
       "date": "1998-10-15",
       "case": "Peoples Rights Organization, Inc. v. City of Columbus; Sixth Circuit Nos. 96-3468 and 96-3495; 152 F.3d 522. No separately established Supreme Court docket.",
       "event": "Plenary merits decision after full merits briefing; 1998-10-15; October Term 1998, chunk 1.",
-      "source_sha256": "210bd47eacab4b51d3813bcb5883118835b22986cc308020629667937fce3bdb",
+      "source_sha256": "dae8eed19aeba1f6d37c6610471be8f83ab9e8eea28558baf1c826ac0f9dfe6f",
       "authors": [
         "Thomas"
       ],
@@ -85,7 +85,7 @@
       "date": "1998-10-22",
       "case": "United States v. Franklyn / United States v. Gonzalez; Second Circuit Nos. 97-1392 and 97-1427; 157 F.3d 90. No separate Supreme Court docket is established.",
       "event": "Consolidated plenary merits decision after full merits briefing; 1998-10-22; October Term 1998, chunk 1.",
-      "source_sha256": "5e60ac107140293273fc4f73c85c6816b41d550836178fc648d84ea767d32127",
+      "source_sha256": "87262d37f3e0d105cf46d147520525b6ff20a5161dba44730b3f3a4ae715e7d3",
       "authors": [
         "Ginsburg"
       ],
@@ -98,7 +98,7 @@
       "date": "1998-10-29",
       "case": "United States v. Griffin / United States v. Langley; Fourth Circuit Nos. 96-4803 and 96-4805; district Nos. CR-96-93 and CR-96-95. No separate Supreme Court docket or Federal Reporter citation is established.",
       "event": "Consolidated plenary merits decision after full merits briefing; 1998-10-29; October Term 1998, chunk 1.",
-      "source_sha256": "7776e250af8f03cdf028060377925e3da109b987d49e20b3831cec8edfd87e88",
+      "source_sha256": "0852de7305f99c8cfb1ab3dd340ce99a85d08a232deae43d979ea36d89e3ade6",
       "authors": [
         "Stone-Zsela"
       ],
@@ -111,7 +111,7 @@
       "date": "1998-11-03",
       "case": "Marquez v. Screen Actors Guild, Inc., No. 97-1056.",
       "event": "Merits decision; 1998-11-03. Argued October 5, 1998.",
-      "source_sha256": "f13a115ce956679d935d598d8dfcf39599970521f0034cab191f0a2d89acaf08",
+      "source_sha256": "39f194d2525990946640ab52005182531658b9482f48a33353c80aefea5c98e6",
       "authors": [
         "Stevens"
       ],
@@ -124,7 +124,7 @@
       "date": "1998-11-05",
       "case": "NAACP, Los Angeles Branch v. Jones, No. 97-1840; Ninth Circuit No. 96-56455; judgment below, 131 F.3d 1317.",
       "event": "Reasoned threshold decision after full merits briefing; 1998-11-05; October Term 1998, chunk 1.",
-      "source_sha256": "d5315528a56566692ec1593e77d6c08986ed29fc70b7b235ac6470bed432f75b",
+      "source_sha256": "dea1fb695e1250b38fd53e8cd2104a5350f0bed1527f8e5a53ebea2696ba2417",
       "authors": [
         "Scalia"
       ],
@@ -137,7 +137,7 @@
       "date": "1998-11-10",
       "case": "Coalition for Economic Equity v. Wilson; Ninth Circuit Nos. 97-15030 and 97-15031; 122 F.3d 692. No separately established Supreme Court docket.",
       "event": "Plenary merits review of preliminary-injunction appeal; 1998-11-10; October Term 1998, chunk 1.",
-      "source_sha256": "7f36b6653179cc3a8f9c54d2a3f8340dfc51709252ce16b2ac3c939e1f8056e8",
+      "source_sha256": "54ecc18a14274e44b11d1266f8b22739a9c311c565e9b0a00f408bd60c04f1ca",
       "authors": [
         "Breyer"
       ],
@@ -150,7 +150,7 @@
       "date": "1998-11-10",
       "case": "Pfaff v. Wells Electronics, Inc., No. 97-1130.",
       "event": "Plenary merits decision; 1998-11-10. Argued October 6, 1998.",
-      "source_sha256": "9a1fc3120cf2749e6f7a19761105d8fb15fe3079e0568d3642fc24e1c85048fb",
+      "source_sha256": "6fc36d7c77a39171be43f8f633bda4b59612fd9ee5471663b5d309d59566c95d",
       "authors": [
         "Scalia"
       ],
@@ -163,7 +163,7 @@
       "date": "1998-11-12",
       "case": "Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768.",
       "event": "Plenary merits decision after full merits briefing; 1998-11-12. No argument date is supplied.",
-      "source_sha256": "e4a20e8c879bc23650aa94c816bfb7c5233308ceb47e8e0387da90d6e63cfba4",
+      "source_sha256": "f5a55343ee60022a430f4580bee37d7538d9433de7251e681b7341a56802d44a",
       "authors": [
         "Kennedy"
       ],
@@ -176,7 +176,7 @@
       "date": "1998-11-16",
       "case": "Wright v. Universal Maritime Service Corp., No. 97-889; Fourth Circuit No. 96-2850; reported at 525 U.S. 70.",
       "event": "Merits decision, 1998-11-16; October Term 1998, chunk 2.",
-      "source_sha256": "f4d156fa877b71270b0fe3ec3ac210f372d6f92b904d118b1f2526902fbf3407",
+      "source_sha256": "411ea893b31e41afce4de5e3c33b11c1feda5fd22fe95d5e5b73d829044bb64b",
       "authors": [
         "Breyer"
       ],
@@ -189,7 +189,7 @@
       "date": "1998-11-19",
       "case": "Dodd v. Hood River County, No. 98-54; Ninth Circuit No. 97-35124; 136 F.3d 1219.",
       "event": "Merits decision, 1998-11-19; October Term 1998, chunk 2.",
-      "source_sha256": "e0e2157c689ca89affb89f1e4e1e3e44040c09cf8bb21c34ff080d402a5a5f6f",
+      "source_sha256": "f195a9cf3eb4b8b5400f6b4c759b5a6f24da1d5e1dd9dcac535823656596c980",
       "authors": [
         "Stevens"
       ],
@@ -203,7 +203,7 @@
       "date": "1998-11-24",
       "case": "Wisconsin Right to Life, Inc. v. Paradise, No. 98-118; Seventh Circuit No. 97-3668.",
       "event": "Post-grant merits decision, 1998-11-24; October Term 1998, chunk 2.",
-      "source_sha256": "72f1ba6a041d16e27a199d069c67ec6cd4b5bb09f35ba44a2d82d8eb634a417a",
+      "source_sha256": "2f562c0160a4d97f032c4a8810438b6f14d61df80b2ebc1e0ed0c69a8de84972",
       "authors": [
         "Stone-Zsela"
       ],
@@ -216,7 +216,7 @@
       "date": "1998-12-01",
       "case": "AT&T Universal Card Services v. Rembert, No. 98-352.",
       "event": "Post-grant merits decision, 1998-12-01; October Term 1998, chunk 2.",
-      "source_sha256": "19d8a68f93c7d1dc33d5688101d2bbb925e454d89650beba0a4f482de388c311",
+      "source_sha256": "8e15d3e4670738b9f6b59af63802c8a0f1338046dbd41f9e1dbf9ecd68bac5ac",
       "authors": [
         "Souter"
       ],
@@ -229,7 +229,7 @@
       "date": "1998-12-01",
       "case": "Minnesota v. Carter and Minnesota v. Johns, No. 97-1147.",
       "event": "Merits decision, 1998-12-01; argued 1998-10-06.",
-      "source_sha256": "25956d97a2fa43731f183e689d70662d6cd53ed21428b91f5c4c55d996f65430",
+      "source_sha256": "b2fc3cea185f752c7784cf8fb6edf043f3affafd82c0c0b5fc3b1065596b87db",
       "authors": [
         "Breyer"
       ],
@@ -237,7 +237,8 @@
         "| Opinion of the Court, Part I | Breyer | Stone-Zsela, Stevens, Souter, Ginsburg | Opinion of the Court on personal interest; joins cross the ultimate judgment division | Each respondent's own host-authorized private occupancy; complete limits and application. |",
         "| Lead opinion, Part II | Breyer | Scalia, Kennedy, Thomas | Four-Justice no-search position; supports removing the adverse judgments | Qualified actual-use and natural-view ground, expressly assuming disputed climbing/crouching; not Court law. |",
         "| Opinion of the Court, Part III | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Opinion of the Court, all eight Associates | Conditional genuine independence, evidence-specific remedies and preservation; no actual illegality or evidence outcome. |",
-        "| Opinion announcing the judgment, Part IV | Breyer | O'Connor, Scalia, Kennedy, Thomas | Announces the five-Justice bounded vacatur and remand | Operative disposition and its source/claim limits only; no shared search rationale. |"
+        "| Opinion announcing the judgment, Part IV | Breyer | O'Connor, Scalia, Kennedy, Thomas | Announces the five-Justice bounded vacatur and remand | Operative disposition and its source/claim limits only; no shared search rationale. |",
+        "| Opinion concurring in part and dissenting in part, Part A | Souter | Stone-Zsela, Stevens, Ginsburg | Would affirm; joins the lead opinion's Part I | Personal privacy and actual search on the supported minimum; ordinary-public-observation boundary. |"
       ]
     },
     {
@@ -245,7 +246,7 @@
       "date": "1998-12-03",
       "case": "Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati; Sixth Circuit Nos. 94-3855 and 94-3973 (merits), No. 94-4280 (fees); 128 F.3d 289.",
       "event": "Merits decision, 1998-12-03; October Term 1998, chunk 2.",
-      "source_sha256": "432edfd8c4b822f649e6147924596268135a4ee2e6284f63921b184b4869cf07",
+      "source_sha256": "43808a1195e7cb9d3a108b48faec24caf2c2b35031c2ff4148bd1db659d45f34",
       "authors": [
         "Ginsburg"
       ],
@@ -258,7 +259,7 @@
       "date": "1998-12-08",
       "case": "Knowles v. Iowa, No. 97-7597; 569 N.W.2d 601 (Iowa 1997); reported at 525 U.S. 113.",
       "event": "Merits decision, 1998-12-08; October Term 1998, chunk 2.",
-      "source_sha256": "bf72ba2720777315cde46d50d4b1021ce0c883494f91d4952c35815200475d76",
+      "source_sha256": "742794e585fc9cca57c3dce0ccdca72e3fc14ea699debb988d755c5e6d2e61e4",
       "authors": [
         "O'Connor"
       ],
@@ -272,7 +273,7 @@
       "date": "1998-12-09",
       "case": "McClellan Federal Credit Union v. Parker, No. 98-618.",
       "event": "Post-grant merits decision, 1998-12-09; October Term 1998, chunk 2.",
-      "source_sha256": "f27e41625330afef43e2ee95f2c84e0d6f55f43a2a6a46075af8dd83e409888a",
+      "source_sha256": "6c86b28f3513169edda96246b2d1466fb5b78cf6cb7ed8f5df0457e2e125e7e2",
       "authors": [
         "Thomas"
       ],
@@ -285,7 +286,7 @@
       "date": "1998-12-14",
       "case": "Haddle v. Garrison, No. 97-1472; reported at 525 U.S. 121.",
       "event": "Merits decision, 1998-12-14; October Term 1998, chunk 2.",
-      "source_sha256": "f83938d822200ba58ee5b9c057517cba08698cd496eef6f547e7a872342d5329",
+      "source_sha256": "0412a5164c62a008fb73d23a7072ff09d6edd2492b06ad6c5beb79c4da01a115",
       "authors": [
         "Ginsburg"
       ],
@@ -298,7 +299,7 @@
       "date": "1998-12-14",
       "case": "NYNEX Corp. v. Discon, Inc., No. 96-1570; reported at 525 U.S. 128.",
       "event": "Merits decision, 1998-12-14; October Term 1998, chunk 2.",
-      "source_sha256": "6e052a823d1ebe4751a4d3c5a31bcca10c7ebba2f7fd30d8b379cfbb8265bf36",
+      "source_sha256": "9fd25185449550dbe17cd1e2d3a65907c0554147afa6829fcf36855662283fa2",
       "authors": [
         "Scalia"
       ],
@@ -311,7 +312,7 @@
       "date": "1998-12-16",
       "case": "City of Cincinnati v. Kruse, No. 98-454; Sixth Circuit Nos. 97-3193, 97-3194 and 97-3210; 142 F.3d 907.",
       "event": "Plenary post-grant merits decision, 1998-12-16; October Term 1998, chunk 3.",
-      "source_sha256": "79279d4448cc1818ecc4a37e7cf20effaab4d4fcf32e46c7853bc1508ffd36b0",
+      "source_sha256": "bea9c2d6844895604bfdc39bf6f8dc9b1c65905c242a216bb29c1c7a136cd4c7",
       "authors": [
         "Kennedy"
       ],
@@ -324,7 +325,7 @@
       "date": "1999-01-07",
       "case": "McClellan v. Cablevision of Connecticut, Inc.; Second Circuit No. 97-7156; 149 F.3d 161; no separate Supreme Court docket supplied.",
       "event": "Plenary post-grant merits decision, 1999-01-07; October Term 1998, chunk 3.",
-      "source_sha256": "380311d25ade845b53229e8c4bdf5975c4387d747b99d8c6270180d8e04934b5",
+      "source_sha256": "452a705908635ce4de4cfd4865deef038591764b585a060f5c9e6cf1ea0dc222",
       "authors": [
         "Souter"
       ],
@@ -337,7 +338,7 @@
       "date": "1999-01-12",
       "case": "Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092.",
       "event": "Merits decision after argument, 1999-01-12; October Term 1998, chunk 3.",
-      "source_sha256": "86c271a60ecb8f246085c5730a77425cd1501c97d9eb5baba3bed575956a968f",
+      "source_sha256": "f3a0016bb39f38fb846a7a0e605e652152e6d4f2fbe78c023297a99c2ce39a06",
       "authors": [
         "Stevens"
       ],
@@ -351,7 +352,7 @@
       "date": "1999-01-12",
       "case": "El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng; No. 97-475; OT1998.",
       "event": "Merits decision; 1999-01-12.",
-      "source_sha256": "4d885e753c2a7afe61d2743513e2643ce0146095adb8475961a8ce02ffacdd83",
+      "source_sha256": "1201d0b90bad7f766231b3117115ab52fc8634ce29fc740c1787b9051ae8cb3b",
       "authors": [
         "O'Connor"
       ],
@@ -365,12 +366,13 @@
       "date": "1999-01-13",
       "case": "City of West Covina v. Perkins, No. 97-1230.",
       "event": "Merits decision, 1999-01-13; October Term 1998, chunk 3.",
-      "source_sha256": "9b55bf7a1a3da48700d7e9304df5067bf2a986d440835a3942c3de98f2778c6c",
+      "source_sha256": "f1be6fb3b197f35e8d25909ae133b521524860da2218e0fd4e154a0f09d0f30a",
       "authors": [
         "Kennedy"
       ],
       "exact_lead_rows": [
-        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer | Reversal and remand | Entire opinion, including the procedural-due-process source explanation and both holdings |"
+        "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer | Reversal and remand | Entire opinion, including the procedural-due-process source explanation and both holdings |",
+        "| Concurrence in the judgment | Scalia | Thomas | Reversal and remand | Agrees with the negative no-instruction rule, record application and reservations; does not join the lead opinion's derivation of criminal-warrant notice duties from civil procedural-due-process cases |"
       ]
     },
     {
@@ -378,7 +380,7 @@
       "date": "1999-01-13",
       "case": "Marcus v. Iowa Public Television, No. 98-710.",
       "event": "Merits decision, 1999-01-13; October Term 1998, chunk 3.",
-      "source_sha256": "fb1f2bbecca0ee4f5db8b7e2b9e91a440bf12f5b9cd6f5726fd21d58ce399ea4",
+      "source_sha256": "9265151b532df55fbb27b3b650d88b3b09c57d448dfbec87525d8bc7789900ed",
       "authors": [
         "O'Connor"
       ],
@@ -393,7 +395,7 @@
       "date": "1999-01-14",
       "case": "State Street Bank & Trust Co. v. Signature Financial Group, Inc.; Federal Circuit No. 96-1327; no separate Supreme Court docket supplied; OT1998.",
       "event": "Merits decision; 1999-01-14.",
-      "source_sha256": "c8293a3adbbb862a143f60b4a8e2049ade82f1cc01727bb62b2cf4e35cbd0f6e",
+      "source_sha256": "0dc71f1e2c9f30be282d0425f6bc39b57a065a42f1a39a0594c2e7fa6c2b13cc",
       "authors": [
         "Stevens"
       ],
@@ -407,7 +409,7 @@
       "date": "1999-01-20",
       "case": "California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al., No. 97-1732.",
       "event": "Merits decision, 1999-01-20; October Term 1998, chunk 3.",
-      "source_sha256": "f9a47d26eede5b24e39406ff0baf722ccfb98a23ef463a4b7d1e60388c1c2c3c",
+      "source_sha256": "719c6e38f965acf834927fa6a0b08ad00747d3c9f98b35bba28b8ff6f02544f4",
       "authors": [
         "Stone-Zsela"
       ],
@@ -420,7 +422,7 @@
       "date": "1999-01-20",
       "case": "Department of the Army v. Blue Fox, Inc.; No. 97-1642; OT1998.",
       "event": "Merits decision; 1999-01-20.",
-      "source_sha256": "ce01382cb60a87ba9183f06ee168e7342a69370f4f30e247d1fa8b9a67158dbc",
+      "source_sha256": "13422b3dbfdcbf42ca44a9f50a688e35fc6ac326845f26776c68244fbc6acf0b",
       "authors": [
         "Scalia"
       ],
@@ -433,7 +435,7 @@
       "date": "1999-01-20",
       "case": "Humana Inc. v. Forsyth; No. 97-303; OT1998.",
       "event": "Merits decision; 1999-01-20.",
-      "source_sha256": "ca3c8566426e30a4c9d6cafd36adc8bbf477f8276f1ba3989d0381e7776a9562",
+      "source_sha256": "198ad1b77f3b2b8edae202483076fdc05a58c3644076515456963ea985e9dca7",
       "authors": [
         "Ginsburg"
       ],
@@ -446,7 +448,7 @@
       "date": "1999-01-20",
       "case": "Lopez v. Monterey County; No. 97-1396; Northern District of California No. C-91-20559-RMW.",
       "event": "Merits decision after argument, 1999-01-20; October Term 1998, chunk 3.",
-      "source_sha256": "df8a1d9ff3b88ee2848ad7a34cd899f26b517995afa02acc66e6c65647aae40e",
+      "source_sha256": "d09379aaad3d900d2fc4d8c7309834d270af76ca56aafd33a84ef1e3f27d58d8",
       "authors": [
         "Thomas"
       ],
@@ -461,7 +463,7 @@
       "date": "1999-01-21",
       "case": "Citizens for a Constitutional Convention v. Yoshina; No. 98-671; Ninth Circuit Nos. 97-16408, 97-16543, 97-16540 and 97-16596.",
       "event": "Merits decision, 1999-01-21; OT1998, chunk 4.",
-      "source_sha256": "b676e28316f1fc81564979cbc3fb55cf3f84f91be9b842a95e89340760e5994f",
+      "source_sha256": "bfec6ee2a7a68b3081e8346d8dbb220047997c58b5d14f1781e6fffb410c310a",
       "authors": [
         "Souter"
       ],
@@ -474,7 +476,7 @@
       "date": "1999-01-25",
       "case": "AT&T Corp. v. Iowa Utilities Board; Nos. 97-826, 97-829, 97-830, 97-831, 97-1075, 97-1087, 97-1099 and 97-1141; including California respondents in the AT&T, MCI and FCC petitions.",
       "event": "Merits decision, 1999-01-25; OT1998, chunk 4.",
-      "source_sha256": "1e33305c922d4a0b6172b71e92e06a01d9747d740ba30ecba88f4a5f8b33b43d",
+      "source_sha256": "5aec50c6a3e5a859dc52dbee610026e5b9eba65e0c11324b78c13968ccc73693",
       "authors": [
         "Scalia"
       ],
@@ -487,7 +489,7 @@
       "date": "1999-01-25",
       "case": "Department of Commerce v. United States House of Representatives; Clinton v. Glavin; Nos. 98-404 and 98-564.",
       "event": "Merits decision, 1999-01-25; OT1998, chunk 4.",
-      "source_sha256": "8669970447eb2ee6ee2012f7066df429d8b627a8af94a59844fa3232a00c72b6",
+      "source_sha256": "af40e13626e0c4f5cda1c05266f102617633f10b5e06972b531a103c1e4160ee",
       "authors": [
         "Souter"
       ],
@@ -500,7 +502,7 @@
       "date": "1999-01-25",
       "case": "Hughes Aircraft Co. v. Jacobson; No. 97-1287; Ninth Circuit judgment, 105 F.3d 1288.",
       "event": "Merits decision, 1999-01-25; OT1998, chunk 4.",
-      "source_sha256": "e9a8bf2418c2f1cf7cc01141876133fa427b9c922262f24b1788f79c3798ef6d",
+      "source_sha256": "4e0843544132cc11ded95381352f9f95cd17cfadb943da3c664dab408e085dd7",
       "authors": [
         "Ginsburg"
       ],
@@ -513,7 +515,7 @@
       "date": "1999-01-28",
       "case": "Suster v. Marshall, No. 98-737; Sixth Circuit Nos. 96-4048, 96-4115, 96-4287, 96-4380 and 97-3174; 149 F.3d 523. The archived petition's caption is Marshall v. Suster.",
       "event": "Plenary post-grant merits decision, 1999-01-28; October Term 1998, chunk 4.",
-      "source_sha256": "e6f52390b8ec4afb711d42d7eada802e14052bfa1d9609d708bb43455c1d8645",
+      "source_sha256": "b2ba65ac7527c80c275b8038fac9457fc5747df199fb74d600281e2358e6e744",
       "authors": [
         "Breyer"
       ],
@@ -526,7 +528,7 @@
       "date": "1999-02-04",
       "case": "Wright v. Ernst & Young LLP, No. 98-783.",
       "event": "Merits decision, 1999-02-04; October Term 1998, chunk 4.",
-      "source_sha256": "0c63a24b7eb8cf16396ce772444fad80684dbd59b6836e12efdedc9d743d4143",
+      "source_sha256": "1000d457bf1df64da4ec975041ebbd78afb549a8bec35073a0a543da0bd2504a",
       "authors": [
         "Thomas"
       ],
@@ -539,7 +541,7 @@
       "date": "1999-02-11",
       "case": "Hart v. Gwadosky; No. 98-676; Maine Supreme Judicial Court No. Ken-98-280.",
       "event": "Threshold decision after post-grant consideration, 1999-02-11; OT1998, chunk 4.",
-      "source_sha256": "d35d9ec1b827d08b5c0a91348e46e9d543ac50fbb64189c0abe82721db8dda61",
+      "source_sha256": "2334f4b186f81b36e12a6d0f3e578a28cbc2de71b9ce79ac6dbe146a5730042f",
       "authors": [
         "O'Connor"
       ],
@@ -553,7 +555,7 @@
       "date": "1999-02-17",
       "case": "Boring v. Buncombe County Board of Education, No. 97-1835.",
       "event": "Merits decision, 1999-02-17; October Term 1998, chunk 4. Argued December 9, 1998.",
-      "source_sha256": "cb83cacdd76f882cbabed09041fb04da8072e8a7fc39dc98ad29512f0b7c34dc",
+      "source_sha256": "51f4db4f6d54f55147f5d3197ddd7e1b0d6aa7776a701210973f38b71a96d574",
       "authors": [
         "Stone-Zsela"
       ],
@@ -566,7 +568,7 @@
       "date": "1999-02-18",
       "case": "John Crane, Inc. v. Abate; No. 98-873.",
       "event": "Merits decision, 1999-02-18; OT1998, chunk 4.",
-      "source_sha256": "1a2f2ca069df43bac18a7fc6f62be34b5e4ec6b4f7bb62137bee91c47eace975",
+      "source_sha256": "00a99ab3c0d19f98c5a916ecd0a6875c55d9654cdf17b436e492c07481fa8363",
       "authors": [
         "Breyer"
       ],
@@ -579,7 +581,7 @@
       "date": "1999-02-23",
       "case": "National Collegiate Athletic Association v. Smith; No. 98-84.",
       "event": "Merits decision, 1999-02-23; OT1998, chunk 4.",
-      "source_sha256": "b6396fe51322f2d125d3610a3024948dcb532abc0e71fb3d1fa65ef728ba13f1",
+      "source_sha256": "4bac60e88fd9d7ec690eae9414c6431572da5025a1eb1f5c5885e3982467bdc1",
       "authors": [
         "O'Connor"
       ],
@@ -592,7 +594,7 @@
       "date": "1999-02-23",
       "case": "Your Home Visiting Nurse Services, Inc. v. Shalala; No. 97-1489.",
       "event": "Merits decision, 1999-02-23; OT1998, chunk 4.",
-      "source_sha256": "a7fbc66d64db1379bc9115a145375d112b41a967172fb99659615e1571dab9e4",
+      "source_sha256": "fc04b0a23cd38c151693af51c68aacdb7429914fc1eab33df19fde6ea2e6981c",
       "authors": [
         "Kennedy"
       ],
@@ -605,7 +607,7 @@
       "date": "1999-02-24",
       "case": "Reno v. American-Arab Anti-Discrimination Committee; No. 97-1252; Ninth Circuit judgment, 119 F.3d 1367.",
       "event": "Merits decision; 1999-02-24; OT1998 chunk 4.",
-      "source_sha256": "9a0bcb7e4e24b8e32007292e9a046af19a23b7d6d095cf37dce205e122f9ddaf",
+      "source_sha256": "940df6e774a5f28881c630ef5b927091ca63ce5d83215f3be356c9788ecb78f7",
       "authors": [
         "Souter"
       ],
@@ -619,7 +621,7 @@
       "date": "1999-02-25",
       "case": "Minns v. United States; No. 98-903; OT1998.",
       "event": "Merits decision; 1999-02-25.",
-      "source_sha256": "07f6a3594ba25793498ffc027c246e1de8980df46524dc40ba1df5c80ff9d4cb",
+      "source_sha256": "7bbc50ccfa6b22cc5a10173425b388dd0766b494755ca523b6f5a58ce18021f7",
       "authors": [
         "Thomas"
       ],
@@ -632,7 +634,7 @@
       "date": "1999-03-02",
       "case": "Arizona Department of Revenue v. Blaze Construction Co.; No. 97-1536; OT1998.",
       "event": "Merits decision; 1999-03-02.",
-      "source_sha256": "7c868552c9ae6505e6466d11b3dc822728f39faa0f650e52de376cbfbd78bf4f",
+      "source_sha256": "c71ff8085fb036c19dfc93dd4aa7565444ab15349a9516a14482f6f846d492e4",
       "authors": [
         "Stevens"
       ],
@@ -645,7 +647,7 @@
       "date": "1999-03-02",
       "case": "Holloway v. United States; No. 97-7164; OT1998.",
       "event": "Merits decision; 1999-03-02.",
-      "source_sha256": "e716640e1432b7ac14c4de3af3cf68d98ddbc830c58b5307e484cf4c90ef6e10",
+      "source_sha256": "a6ab59ca00183adf9cece5e504190168bceafad474c97ffc7643645ec1c5eb3c",
       "authors": [
         "Ginsburg"
       ],
@@ -658,7 +660,7 @@
       "date": "1999-03-02",
       "case": "Peguero v. United States; No. 97-9217; OT1998.",
       "event": "Merits decision; 1999-03-02.",
-      "source_sha256": "c2f77b061720dd8f83598bcafa9fc2da50a0f83f2450524afc554e6ab9ccdd4f",
+      "source_sha256": "e913d2bf3361d266ab5469f092b59ae8f86600fb049d84dd2f061f4c422e0766",
       "authors": [
         "Scalia"
       ],
@@ -671,7 +673,7 @@
       "date": "1999-03-03",
       "case": "American Manufacturers Mutual Insurance Co. v. Sullivan; No. 97-2000; OT1998.",
       "event": "Merits decision; 1999-03-03.",
-      "source_sha256": "421ccfdb79cee8c4892a2931e292ed181717d30e728e0c571a4d83bf9a880606",
+      "source_sha256": "f681bf20ace6e24cc9e0e957d899a0e87e4bbdb3d9787fa1709376a020937612",
       "authors": [
         "Kennedy"
       ],
@@ -684,7 +686,7 @@
       "date": "1999-03-03",
       "case": "Cedar Rapids Community School District v. Garret F.; No. 96-1793; OT1998.",
       "event": "Merits decision; 1999-03-03.",
-      "source_sha256": "e5212836ffec7f453537c13d3875e6769dd8db4fa7660a606b13316d0769e52a",
+      "source_sha256": "65ca9e559e021a06b9f4744b977c2bd15d9a2cb9c3a2141f55e0b6795b75572f",
       "authors": [
         "Stevens"
       ],
@@ -697,7 +699,7 @@
       "date": "1999-03-03",
       "case": "National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior; Nos. 97-1184 and 97-1243.",
       "event": "Merits decision, 1999-03-03; OT1998, chunk 5.",
-      "source_sha256": "877114b37f9b0efb36638cea7a96bc1343431641809878b2747a8d9958164576",
+      "source_sha256": "aa3db221c7ace968115df6e6ff5d5fea77e773cb3de8d404234de564a8a50b71",
       "authors": [
         "Stone-Zsela"
       ],
@@ -710,7 +712,7 @@
       "date": "1999-03-04",
       "case": "Gable v. Patton / Patton v. Gable; Nos. 98-897 and 98-1072.",
       "event": "Threshold decision after post-grant merits consideration, 1999-03-04; OT1998, chunk 5.",
-      "source_sha256": "a9242647cf808706477ed18cf332561793f3ec9668d586f74a151e3008ae3662",
+      "source_sha256": "870102d6e689663d8626a3befd32919db6209a12122f3eb5bf41d7ac035ba99b",
       "authors": [
         "Souter"
       ],
@@ -723,7 +725,7 @@
       "date": "1999-03-16",
       "case": "Jackson v. Benson; No. 98-376; OT1998.",
       "event": "Merits decision; 1999-03-16.",
-      "source_sha256": "6cab7ce0b58e409040d6c6d42779c1dd37884b786b1a8adc22586f1bd3be10e5",
+      "source_sha256": "c1998772d414c274038e6fb3a31723fcc057a7be6b3bc85202321a1b4648ef76",
       "authors": [
         "O'Connor"
       ],
@@ -736,7 +738,7 @@
       "date": "1999-03-17",
       "case": "National Committee of the Reform Party of the United States of America v. Democratic National Committee; Ninth Circuit No. 98-15443; 168 F.3d 360.",
       "event": "Merits decision, 1999-03-17; OT1998, chunk 5.",
-      "source_sha256": "83199c6dae9459256d0847ee10bf8fe6a57a66cee44110a1d860dcc1e68009a8",
+      "source_sha256": "ebf42fc2826827490a92b3d0af05d41cbf1b17b7a108ea893583f43092984cc5",
       "authors": [
         "Thomas"
       ],
@@ -750,7 +752,7 @@
       "date": "1999-03-23",
       "case": "Kumho Tire Co. v. Carmichael; No. 97-1709; OT1998.",
       "event": "Merits decision, 1999-03-23; argued 1998-12-07.",
-      "source_sha256": "3c351724146eb1ee1dc54b739258a41edec47360f8f1418436153b99bb26b8f6",
+      "source_sha256": "56ae3bf910392d483652ad2256dbb278195dd023d6800e8772201ef0c918677b",
       "authors": [
         "Breyer"
       ],
@@ -765,7 +767,7 @@
       "date": "1999-03-23",
       "case": "South Central Bell Telephone Co. v. Alabama; No. 97-2045; OT1998.",
       "event": "Merits decision, 1999-03-23; argued 1999-01-19.",
-      "source_sha256": "e17b051216a44c80b12d22e3e056a5176fc9d20b0b58dfd03f247bec227a4a49",
+      "source_sha256": "37cda6aeaa90ee2d0e7d99384f3feb606a90d0cf59591ddcc2752d08828e7957",
       "authors": [
         "Stone-Zsela"
       ],
@@ -778,7 +780,7 @@
       "date": "1999-03-24",
       "case": "Jones v. United States; No. 97-6203; OT1998.",
       "event": "Merits decision, 1999-03-24; argued October 5, 1998; chunk 6.",
-      "source_sha256": "90dc6203f109a14180481c4615fbc1afbff8ce91395b26ae9f3066a04b700229",
+      "source_sha256": "d055db1ea80069682217ecf5ef0b2bd6e6931eff09381590c8f4146bb02dfccf",
       "authors": [
         "Scalia"
       ],
@@ -791,7 +793,7 @@
       "date": "1999-03-24",
       "case": "Minnesota v. Mille Lacs Band of Chippewa Indians; No. 97-1337.",
       "event": "Plenary merits decision; 1999-03-24; October Term 1998, chunk 6.",
-      "source_sha256": "efd8f3c7a1d570f01bffabbf4a0cd627307d2eb78dc531e5eda2d436de4594a1",
+      "source_sha256": "049521459c0dcc2c228ab5c9a410548ae0bab55fd4023cde63737b063f790672",
       "authors": [
         "Stevens"
       ],
@@ -804,7 +806,7 @@
       "date": "1999-03-25",
       "case": "Brower v. Washington; No. 98-1510; judgment below Brower v. State, 137 Wash. 2d 44, 969 P.2d 42.",
       "event": "Post-grant merits decision; 1999-03-25; October Term 1998, chunk 6.",
-      "source_sha256": "8a1ea514a3df110ec5a12cd5052433144e78b7ef8b5933536064b9e4c0fb9b7d",
+      "source_sha256": "c799e32c814ab93b86266c6d02d2d2eb8c71295b46bcb19b2b726f49b2609a97",
       "authors": [
         "Kennedy"
       ],
@@ -817,7 +819,7 @@
       "date": "1999-03-30",
       "case": "United States v. Rodriguez-Moreno, No. 97-1139.",
       "event": "merits decision, 1999-03-30; October Term 1998.",
-      "source_sha256": "20dfb16fd1fc79f6d3f60797fa57c736b274bae55a83bea4c3cd6950cf3481da",
+      "source_sha256": "3066b925543fa2ba859f468baa89515415616d1988a8939639b97c1526219806",
       "authors": [
         "Thomas"
       ],
@@ -830,12 +832,11 @@
       "date": "1999-04-05",
       "case": "Conn v. Gabbert, No. 97-1802; judgment below, 131 F.3d 793.",
       "event": "merits decision, 1999-04-05; October Term 1998.",
-      "source_sha256": "3f02ff22e5bb782c9269bd9c0cfe61d8392f63461ce15f023b0567585c87518d",
+      "source_sha256": "394d0953d778731f780542a09943326e9b6c9e51e772b5e8c4a2d067c67fbbaa",
       "authors": [
         "Stone-Zsela"
       ],
       "exact_lead_rows": [
-        "| Opinion of the Court | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | Complete M holding and confined S explanation, with all reservations |",
         "| Opinion of the Court | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | Entire opinion: occupational-merits holding and confined search-source explanation |"
       ]
     },
@@ -844,13 +845,11 @@
       "date": "1999-04-05",
       "case": "Mitchell v. United States; No. 97-7541; OT1998.",
       "event": "Merits decision, 1999-04-05; argued December 9, 1998; chunk 6.",
-      "source_sha256": "3ccbe5899fde980be6d14d764ab6929b3ad798344729e69a87b5325ec4e1cea6",
+      "source_sha256": "8b5b332dc33d691a773b0ed77aeb0575dfd37da0fe116cd68d15d346a95b2459",
       "authors": [
         "Breyer"
       ],
       "exact_lead_rows": [
-        "| Opinion of the Court, Part I | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Bounded retained privilege and plea-waiver analysis |",
-        "| Opinion of the Court, Parts II–III | Breyer | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg | Crime-facts inference prohibition, prejudice and sentencing remedy |",
         "| Opinion of the Court, Part I | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Retained privilege and the limited effect of the plea and colloquy |",
         "| Opinion of the Court, Parts II–III | Breyer | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg | No adverse inference concerning crime facts; prejudice and bounded sentencing relief |"
       ]
@@ -860,7 +859,7 @@
       "date": "1999-04-05",
       "case": "Murphy Brothers, Inc. v. Michetti Pipe Stringing, Inc., No. 97-1909; judgment below, 125 F.3d 1396.",
       "event": "merits decision, 1999-04-05; October Term 1998.",
-      "source_sha256": "ea8de9236b14a817f49cfc5fef67df86c73e0169d2f7e0d325b2a136639b68c1",
+      "source_sha256": "69dd6146e46f30823b2503a2e11a004d0808e82bc16a99c9b394d9e67dabd548",
       "authors": [
         "Ginsburg"
       ],
@@ -873,7 +872,7 @@
       "date": "1999-04-05",
       "case": "Wyoming v. Houghton; No. 98-184.",
       "event": "Plenary merits decision; 1999-04-05; October Term 1998, chunk 6.",
-      "source_sha256": "6ef7645d448f58250ddd4adf18f4fa5855814e08d31f65a867d659532e92d410",
+      "source_sha256": "54c382a96a42b0daa1c1c69590c93fd3eb87e2b74dae9adb5add6308e036e50e",
       "authors": [
         "O'Connor"
       ],
@@ -886,7 +885,7 @@
       "date": "1999-04-07",
       "case": "Barnes v. American Tobacco Co., No. 98-1489; judgment below, 161 F.3d 127.",
       "event": "post-grant merits decision, 1999-04-07; October Term 1998.",
-      "source_sha256": "4dc290c074ec9eb20cab3e034f64e225f0207cc9ebb0d23434947bf1dbf414a4",
+      "source_sha256": "93b294c40f148c395db9615556e022c2e6a1aed04290023a000c826a90915c93",
       "authors": [
         "Breyer"
       ],
@@ -901,7 +900,7 @@
       "date": "1998-10-13",
       "case": "United States v. Louisiana (Texas Boundary Case); No. 9, Original.",
       "event": "Unsigned supplemental implementing decree; 1998-10-13; October Term 1998, chunk 1.",
-      "source_sha256": "437722ce15b5fdf06397ec9f48e3694f415c06bc60cd4db5a9a4ffbc558ba465",
+      "source_sha256": "1ad9eb0098de4eca1dbe7e4d1a1f00be0222d3d3c52f20119ae604d1b365d5b9",
       "reason": "Unsigned implementing decree."
     },
     {
@@ -941,7 +940,7 @@
       "date": "1999-03-03",
       "case": "Federal Republic of Germany, Chrobog and Rudolph v. United States and Hull; No. 127, Original; A-736.",
       "event": "Original leave and interim order, 1999-03-03; OT1998, chunk 5.",
-      "source_sha256": "1fff5d8a320f86c1a6dc3df42fee21d637b6388a67694e429bb08d689adfc660",
+      "source_sha256": "545e5be25318193c8fd84d3ec7b2e1cc1aaca12550f99d91f367b1456675775f",
       "reason": "Original-leave/interim action and Section 10 explanations."
     },
     {
@@ -949,7 +948,7 @@
       "date": "1999-03-03",
       "case": "Stewart v. LaGrand; No. 98-1412; distinct State application A-735.",
       "event": "Application disposition and summary merits decision, 1999-03-03; OT1998, chunk 5.",
-      "source_sha256": "a39279b3921267ae5373234f2d4e2f7c7cdfd8f739c6a2215b6e9ab4c3f137b9",
+      "source_sha256": "d6e0af5d503dabf9fc84551b888f30f8e5beb988ea5f056bcb3f58f37ceea69b",
       "reason": "Summary merits disposition and application explanations."
     },
     {
@@ -973,7 +972,7 @@
       "date": "1999-03-22",
       "case": "Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.",
       "event": "Per curiam summary merits decision; 1999-03-22; October Term 1998, chunk 6; follows the separate same-day certiorari grant.",
-      "source_sha256": "62eaee3d69c7c035e071b9e2c4f2952d3819ac7c8d590bd12c3ef3bb3b6b4adb",
+      "source_sha256": "b84a41571d6fc3fabc1811d0beb7637ea5d5c22af0b55bda80980a39e1e7f9e4",
       "reason": "Per curiam summary merits disposition."
     }
   ],

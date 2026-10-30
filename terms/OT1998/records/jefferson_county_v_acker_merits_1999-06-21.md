@@ -61,17 +61,17 @@ The required fresh recount was completed before assignment and is preserved in `
 
 | Justice | Count before assignment | Full-opinion eligibility | Balance-pool status |
 |---|---:|---|---|
-| Stone-Zsela | 12 | Eligible | In pool |
+| Stone-Zsela | 13 | Eligible | In pool |
 | Stevens | 12 | Eligible | In pool |
 | O'Connor | 12 | Ineligible: opposes Parts III–IV | Outside eligible set |
 | Scalia | 12 | Ineligible: opposes Part I | Outside eligible set |
-| Kennedy | 12 | Eligible | In pool |
+| Kennedy | 11 | Eligible | In pool |
 | Souter | 12 | Ineligible: opposes Part I | Outside eligible set |
 | Thomas | 11 | Ineligible: opposes Part I | Outside eligible set |
 | Ginsburg | 11 | Eligible | In pool; selected |
 | Breyer | 12 | Ineligible: opposes Parts III–IV | Outside eligible set |
 
-The eligible minimum is 11; all four eligible Justices have counts no greater than 12 and form the entire pool. **Assigned author: Ginsburg.** The settled substantive coalition calls for fit in coordinating removal, statutory consent, source discrimination and a renewed respondent alternative. Her current full agreement with both removal and tax grounds, and her own X-Citement Video favorable-judgment analysis, make her well suited to express the independent scope and preservation inquiries while applying the actual tax comparison. Her authorship does not rely on the historical Acker author, numerically necessary membership, general style or exclusion of another Justice for capability. No new join or changed frozen vote is obtained through assignment.
+The eligible minimum is eleven. Stevens, Kennedy and Ginsburg form the pool at eleven or twelve; Stone-Zsela is eligible but outside it at thirteen. **Assigned author: Ginsburg.** The settled substantive coalition calls for fit in coordinating removal, statutory consent, source discrimination and a renewed respondent alternative. Her current full agreement with both removal and tax grounds, and her own X-Citement Video favorable-judgment analysis, make her well suited to express the independent scope and preservation inquiries while applying the actual tax comparison. Her authorship does not rely on the historical Acker author, numerically necessary membership, general style or exclusion of another Justice for capability. No new join or changed frozen vote is obtained through assignment.
 
 **Timing:** Acker was stopped when Jones's already-completed assignment and Record were made. The later express remedial revalidation permitted this original Acker event to be completed. The canonical same-date alphabetical recount for Acker excludes Jones even though Jones was physically written earlier, because Jones follows Jefferson County v. Acker in the required caption order. Engine §8 preserves the previously completed Jones assignment and does not reopen it retrospectively. This Acker Record enters subsequent applicable recounts; no Jones Record or assignment is rewritten. Physical writing order supplies neither same-day entering law nor a fictional earlier completion of Acker.
 

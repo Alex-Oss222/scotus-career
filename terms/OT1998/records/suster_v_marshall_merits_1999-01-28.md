@@ -63,11 +63,11 @@ A fresh recount from the actual current-term Record opinion tables, in effective
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 3 |
+| Stone-Zsela | 4 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 5 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 5 |
 | Thomas | 3 |
 | Ginsburg | 5 |
@@ -75,7 +75,7 @@ A fresh recount from the actual current-term Record opinion tables, in effective
 
 The last counted event is Hughes Aircraft Co. v. Jacobson, January 25, 1999, authored by Ginsburg. Thirty-six signed plenary leads count. The newly written January 25 Census Record contributes Souter's lead before this assignment; its earlier effective date changes this fresh count but does not reopen any previously completed assignment, including Hughes. Per curiam and summary dispositions, procedural actions, separate writings and the formerly stopped Suster matter contribute no lead count.
 
-**Eligible authors:** all nine. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas and Breyer, whose counts do not exceed four, one above the eligible minimum of three. **Author selected:** Breyer.
+**Eligible authors:** all nine. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas, Breyer; minimum 3, ceiling 4. **Author selected:** Breyer.
 
 The opinion's particular work is to consider impartial adjudication as a real institutional interest while explaining why that interest does not fit this total ceiling, and to keep the legal holding distinct from final amended-law relief. Breyer's full Kruse and Colorado Republican Part I joins preserve expenditure protection and the transaction distinction; his published ACLF position gives administrative justifications their own fitted treatment. Those positions support a precise explanation of this institutional claim without weakening the shared expenditure rule or creating an empirical-waiting requirement. O'Connor is the strongest alternative through her own Kruse, Colorado Republican and ACLF positions and can perform the same work; Breyer is preferred at the lower count, three rather than four. Thomas's strong protection of direct advocacy is fully compatible with the opinion, but Breyer's recorded treatment of the asserted institutional justification supplies the more direct fit for this application's distinct issue. Stone's approved spending/source distinction and remedial limits also fit the task at count three, but offer no concrete advantage over Breyer's published integration of those expenditure and administrative principles. No Justice is excluded by perceived ability, experience or historical authorship. This is fit within the lawful pool, not an expansion assignment or a change in any commitment.
 

@@ -23,11 +23,11 @@ Form is fixed before assignment as one signed unanimous Opinion of the Court wit
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 7 |
@@ -41,9 +41,9 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+**Balance pool:** Scalia, Kennedy, Souter, Thomas, Ginsburg; minimum 6, ceiling 7. Lowest eligible count: 6; eligible counts at most 7 enter the pool.
 
-**Assignment:** Ginsburg. Ginsburg's frozen John Hancock and Hughes Aircraft treatment separates substantive contractual obligation, administrative function and available remedy, exactly the distinction needed between the two branches. Stone is considered at seven and supports the complete opinion; his approved framework requires no self-assignment to preserve it. Ginsburg is at seven within the eligible pool, while Stevens now has eight. The choice rests on the settled formulation and demonstrated doctrinal fit, not historical authorship.
+**Assignment:** Ginsburg. Ginsburg's frozen John Hancock and Hughes Aircraft treatment separates substantive contractual obligation, administrative function and available remedy, exactly the distinction needed between the two branches. Stone supports the complete opinion but is outside the pool at eight; his approved framework requires no self-assignment to preserve it. Ginsburg is at seven within the eligible pool, while Stevens now has eight. The choice rests on the settled formulation and demonstrated doctrinal fit, not historical authorship.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

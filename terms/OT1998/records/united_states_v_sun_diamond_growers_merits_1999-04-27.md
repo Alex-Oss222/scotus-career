@@ -23,11 +23,11 @@ Form is fixed as one signed unanimous Opinion of the Court after argument, inclu
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
@@ -41,9 +41,9 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+**Balance pool:** Scalia, Kennedy, Thomas; minimum 6, ceiling 7. Lowest eligible count: 6; eligible counts at most 7 enter the pool.
 
-**Assignment:** Scalia. Scalia's frozen Gaudin ground and his offense-specific textual analysis identify the missing jury element while preserving the distinction between gratuity and bribery. Stone fully supports the complete opinion and is considered at eight; Scalia's seven-count position and concrete textual fit favor his assignment. His Aguilar disagreement concerned implied language in a different statute and creates no join barrier where §201 expressly names the official act.
+**Assignment:** Scalia. Scalia's frozen Gaudin ground and his offense-specific textual analysis identify the missing jury element while preserving the distinction between gratuity and bribery. Stone fully supports the complete opinion but is outside the pool at nine; Scalia's seven-count position and concrete textual fit favor his assignment. His Aguilar disagreement concerned implied language in a different statute and creates no join barrier where §201 expressly names the official act.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

@@ -7,97 +7,174 @@ Exact opinion-table rows and assignment/Opinion Topology sections from existing 
 <!-- source-record: united_states_v_wright_merits_1998-10-05.md -->
 
 **Case and dockets:** United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.
+
 **Event and date:** Plenary merits decision after full merits briefing; 1998-10-05; October Term 1998, chunk 1.
+
+**Case and dockets:** United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.
+**Event and date:** Plenary merits decision after full merits briefing; 1998-10-05; October Term 1998, chunk 1.
+**Result:** Affirm the pipe-bomb registration conviction, 9-0; vacate the machinegun-count appellate affirmance for both stages of Core-Preservation Review in the first instance, 9-0; vacate the sentence for lawful acceptance-of-responsibility reconsideration, 9-0. Commerce, derivative Tenth and independent Ninth objections rejected, 9-0.
+**Version / lineage:** Original decision.
+
+## Event, posture and entering authority
+
+The user-authorized post-grant merits event is dated October 5, 1998. The frozen neutral supplement supplies the bounded Engine section 14 premise of ordinary merits briefing and readiness for submission, not a recovered historical grant, filing or argument. Neither an oral-argument date nor a precise submission date is invented. The lawful review channel is 28 U.S.C. section 1254(1). The July 24, 1997 convictions affirmance survives as the judgment under review; the January 28, 1998 limited rehearing replaced its sentencing vacatur with affirmance. Review is of that operative combined judgment, not the superseded sentencing result.
+
+All nine sitting Justices participate at submission and decision. Six would suffice for a quorum; nine are present and five votes control a judgment. The Composition and opening neutral projection establish Stevens as the most senior Associate. No recusal, vacancy, change of roster or circuit allotment results. The plea preserved the constitutional challenges presented, not every possible statutory sufficiency or registration-impossibility theory. The derivative Tenth objection presents no independent commandeering claim. The instruction request is subsidiary to the arms issue and does not establish that a jury trial occurred after the guilty plea.
+
+The entering-law cutoff is September 28, 1998. The [opening neutral projection](../freeze/OPENING_NEUTRAL_PROJECTION.md) and [selected entering-law slice](../entering-law/OT_1998CHUNK1_BASE.md) establish Love's personal-holder rule; Hale's separate commerce, tax, arms and registration grounds; Lopez's connection-before-magnitude architecture; Rybar's preserved arms application and commerce holding; Kirk's completed-stock application; Stinson's commentary rule; and Koon's distinction between legal error, supported findings and proper sentencing discretion. The unrelated Confrontation standard in the original packet has no role. No earlier OT1998 decision existed when this assignment was made.
+
+The preserved record distinguishes one machinegun-possession count covering the completed .223 automatic weapon and the disassembled .50-caliber weapon from one destructive-device-registration count covering three pipe bombs. The frozen neutral supplement and the published original opinion's background paragraphs 2-4 establish the completed weapon, the single machinegun charge, the reserved guilty plea and the admission of the weapons referred to in the indictment. No independent count is created for either gun. No finding about the disassembled weapon's exact components or the explosive capability of each bomb is added.
+
+## Stone's controlled position and compatibility
+
+The Wright section of the approved Stone handoff supplies the complete Core-Preservation Review formulation and the count-specific judgment. Stone writes the Opinion of the Court, affirms the registration conviction, joins the machinegun vacatur for application of both stages in the first instance, rejects commerce, derivative Tenth and Ninth objections, and vacates the sentence for lawful acceptance-credit reconsideration. The opinion preserves every operative tier, the practical-operation rule, the categorical home boundary and the public-carry reservations. The commentary authorities explain his stated sentencing application. The eight Associates separately retain Hale's independent tax-administration ground; that alternative is not attributed to Stone.
+
+**Standing fallback:** Section II does not expressly address the derivative jury-instruction request. On that component only, Stone joins the majority's conditional treatment insofar as the request remains procedurally material under the preserved plea; he adds no ground, trial entitlement or particular instruction. The derivative Tenth disposition is express and needs no fallback. No acquittal, return of weapons, new trial, automatic acceptance adjustment or appellate credibility determination is ordered.
+
+## Public action, judgment and opinions
+
+| Component | Disposition | Vote | Supporting | Opposing |
+|---|---|---|---|---|
+| One section 922(o) machinegun count, preserved arms challenge | Vacate the appellate affirmance and remand for both stages of Core-Preservation Review in the first instance | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
+| One section 5861(d) count concerning three pipe bombs | Affirm the conviction against the presented objections | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
+| Commerce objection to section 922(o) and derivative Tenth Amendment objection | Reject both objections | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
+| Asserted independent Ninth Amendment defense | Reject the defense | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
+| Sentence, including both asserted grounds for denying acceptance credit | Vacate the sentence and its appellate affirmance; remand for lawful reconsideration | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
+| Alternative jury-instruction request, conditional on the Court's arms remand | Leave the request for consideration only insofar as procedurally material under the preserved plea; order neither trial nor charge | 9-0 on this conditional treatment | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
+
+The machineguns form one possession count; the three pipe bombs form the distinct registration count. The judgment is affirmed in part, vacated in part and remanded. The sentence requires lawful reconsideration independently of the unresolved machinegun application, with sentencing coordinated with its disposition. The Court orders no acquittal, release, return of arms, new trial, automatic hearing, acceptance adjustment or particular sentence. Stone-Zsela's vote on the conditional instruction request adds no separate ground.
+
+| Writing | Author | Joined by | Scope |
+|---|---|---|---|
+| Opinion of the Court | Stone-Zsela | O'Connor, Kennedy, Souter, Ginsburg | All Parts I-V, including II-B's complete Core-Preservation Review, II-C's two-stage remand and III's incidental-regulation application. Five direct rationale votes throughout. |
+| Same opinion, partial joins | Stone-Zsela | Stevens, Scalia, Thomas, Breyer | I, II-A, IV and V in full; II-C's vacatur and bounded remand apart from its direction to use II-B; no join in III's severity classification. Their independent tax and registration ground appears in Part A of Stevens's separate opinion. They support every judgment but do not join II-B or its framework applications. |
+| Opinion concurring in part and concurring in the judgment, Part A | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Independently sustains the registration conviction on Hale's tax-administration and registration grounds; eight direct rationale votes. |
+| Same opinion, Part B | Stevens | Breyer | Joins the specified common portions; supports the limited arms remand without adopting the general framework or categorical home rule. |
+| Opinion concurring in part and concurring in the judgment | Scalia | Thomas | Joins the specified common portions; requires text, history and the actual weapon-and-restriction inquiry, withholding assent to the severity tiers and the separately formulated categorical home rule. |
+
+## Controlling holdings
+
+**Common authority.** Stone-Zsela delivers the Opinion of the Court. O'Connor, Kennedy, Souter and Ginsburg join in full. Stevens, Scalia, Thomas and Breyer join Parts I, II-A, IV and V, the limited vacatur and remand in II-C apart from its framework direction, and separately adopt III's independent tax and registration grounds through Stevens's concurrence, Part A. II-B's complete framework, its application to registration, and the direction to apply both stages on the machinegun remand have five direct votes. No Marks inference is necessary.
+
+### I. Congress may reach this machinegun possession through the national transfer-and-stock regime
+
+**Holding and operative rule:** Section 922(o) may reach the admitted machinegun stock without proof of a defendant-specific interstate or commercial transaction because excluding possession would permit acquisition, retention, concealment or continued circulation that materially impairs Congress's valid national restriction on additions to civilian machinegun stock. The Commerce Clause together with the Necessary and Proper Clause supplies that authority; the derivative Tenth Amendment objection fails because it identifies no independent interference with state administration.
+
+**Controlling explanation:** The Court applies *Hale*, which connects possession to enforcement of the valid transfer-and-stock restriction, and *Kirk*, which does not require a sale or individual interstate transaction for completed prohibited stock. Wright admitted the completed .223 automatic weapon and the disassembled .50-caliber machinegun within one possession count. No preserved issue asks whether the admitted objects fall outside the enacted statutory class. The claim that all possession here was local therefore does not sever the identified regulatory connection. *Lopez* still requires a constitutionally adequate interstate mechanism before aggregation; dangerousness, marketability, remote manufacture or movement, and generalized crime costs cannot replace it. *Rybar* applies the same mechanism without adding a commerce element. The Tenth Amendment objection is derivative of the enumerated-power challenge; no commandeering claim is presented. The Court does not hold that commerce authority defeats every independent Tenth Amendment objection.
+
+**Operative qualifications:** Section 922(o)(2)(A) excepts transfers to or by, and possession by or under the authority of, the United States or its departments or agencies, or a State or its departments, agencies or political subdivisions. Section 922(o)(2)(B) separately excepts lawful transfer or possession of a machinegun lawfully possessed before May 19, 1986; earlier manufacture alone is insufficient. No exception is newly established here. No interstate element, general firearms police power, universal formal-findings requirement, or constitutional conclusion about every receiver, conversion part or incomplete assembly is adopted. Commerce authority does not resolve the arms challenge.
+
+### II-A. Personal invocation does not depend on state-militia affiliation
+
+**Holding and operative rule:** Wright may invoke the personal arms guarantee without proving membership in, service to, or preparation for a militia actively maintained and trained by a State. Military usefulness neither excludes an arm from the guarantee nor gives an unrestricted exemption from regulation; the actual weapon, conduct and restriction must be considered.
+
+**Controlling explanation:** *Love* identifies the individual holder of the right, and *Hale* applies that rule to federal weapons prosecutions. *Miller* retains its inquiry into the actual weapon and record without an enrollment requirement or immunity for every military-capable weapon. The court below instead made a relationship to a state-maintained militia a prerequisite to constitutional protection. Wright's private group's purpose does not supply that prerequisite, but the absence of that relationship cannot defeat his personal claim. Nor does the asserted use of these weapons by military forces settle the lawfulness of their regulation. The coverage inquiry adopts no closed weapons catalogue or categorical exclusion of dangerous arms; Part II-B supplies the separate justification standard.
+
+### II-B. Core-Preservation Review governs restrictions on the personal arms right
+
+**Holding and operative rule:** Stage 1 asks whether the law interferes with protected keeping, bearing, acquisition, necessary ammunition or transportation of arms, with constitutional coverage determined from text, history and the Court's precedents. If protected activity is burdened, Stage 2 requires justification corresponding to the severity of the restriction's practical operation, subject to the independent categorical rule that government may not abolish meaningful possession of ordinary functional defensive arms in the home.
+
+**Standards and operative qualifications:** A core deprivation receives strict scrutiny: the government must establish a compelling interest, narrow tailoring and the absence of a comparably effective, materially less restrictive alternative. A substantial regulation receives intermediate scrutiny: an important governmental objective, a substantial relationship between the regulation and that objective, and a restriction that does not unnecessarily or effectively eliminate the protected activity. An incidental regulation imposing no meaningful interference receives deferential reasonableness review; arbitrary administration, discrimination and cumulative destruction of the right remain unconstitutional. Routine equipment specifications, administrative procedures and minor requirements qualify for that last category only when they do not materially obstruct the right. Actual operation controls: calling an effective prohibition a safety measure or administrative rule cannot reduce its level of review.
+
+**Authority:** Part II-B is joined by O'Connor, Kennedy, Souter and Ginsburg as well as its author, Stone-Zsela. These five adopt the entire framework, including each tier, the practical-operation rule and the categorical home boundary. The rule is direct majority law, not a synthesis of separate opinions.
+
+**Controlling explanation:** Love identifies the personal holder, incorporates the guarantee and protects acquisition necessary to exercise it. Hale requires attention to the actual weapon and keeps coverage distinct from lawful regulation; military usefulness decides neither immunity nor exclusion. Rybar requires a genuine application instead of disposing of the claim through militia affiliation. Those decisions leave the measure of justification open. The Court now supplies that measure because a remand must identify how protected activity and permissible regulation relate. Text and history inform coverage and regulatory limits without creating a closed catalogue. A real individual guarantee requires protection against practical destruction, while regulation that leaves its exercise meaningfully available calls for a justification fitted to its actual burden. Public safety is important, but its invocation alone does not establish that fit. Conversely, recognizing a personal right does not subject every equipment rule or administrative step to strict scrutiny. Registration and a possession prohibition must be examined separately. The home boundary protects a meaningful core; it does not grant immunity to every weapon, person or use. Necessary ammunition and transportation receive protection as incidents of protected keeping or bearing, not through coverage of every item or transport method. That boundary, the graduated standard and the application to particular facts perform different functions.
+
+**Reserved questions:** Prohibiting ordinary functional handguns in the home and effectively eliminating all lawful public carry illustrate core burdens; no particular public-carry law is before the Court. Public-carry licensing, safety instruction, examinations, demonstrated proficiency, refresher training and recertification, including their classification and justification, are expressly reserved. No universal numerical rule, militia exclusion, military-weapon immunity or comprehensive prohibited-arms list is adopted.
+
+### II-C. The machinegun-count affirmance requires both stages in the first instance
+
+**Holding and operative rule:** When the appellate affirmance of this machinegun conviction materially rests on the invalid affiliation requirement and supplies no adequate independent application of the personal arms guarantee to the actual weapons and restriction, that affirmance must be vacated for the preserved constitutional application. On remand, the lower courts must apply both stages of Core-Preservation Review in the first instance: determine constitutional coverage of the completed automatic weapon under Hale, address the disassembled weapon and its actual statutory branch where material, and then classify and justify any burden on protected activity by its practical operation.
+
+**Controlling explanation:** *Hale* and *Rybar* require the actual arms application that the affiliation rule displaced. The Eleventh Circuit's footnote 18 expressly left the government's justification unresolved. The known automatic-fire function of the completed .223 weapon, the restriction on additions to civilian stock and the continued availability of ordinary defensive arms are relevant to coverage, practical burden and justification; none substitutes for applying both stages. The Court does not determine the tier or the ultimate validity of this restriction on this record. But *Rybar* also involved identified completed automatic weapons and the same stock restriction, and its required application was not supplied by classification alone. Wright presents no adequate independent lower-court application that distinguishes that remedial premise. His intended burial and private group's preparation establish no adjudicated criminal purpose beyond these possession offenses. The separate pipe-bomb registration count cannot substitute for the missing analysis of the machinegun possession prohibition. Immediate acquittal would be equally unwarranted: personal coverage and military usefulness do not establish an unrestricted right to these weapons.
+
+**Remedy and limits:** Only the appellate affirmance of the one section 922(o) count is vacated. The existing record may suffice; ordinary additional proceedings are permitted only as needed. The Court creates no new statutory element, second machinegun count or severance of the conditional plea, and does not reopen admitted possession. It orders no empirical study, hearing, new trial, acquittal, release or return of arms. The alternative jury-instruction request returns only insofar as it remains procedurally material under the preserved plea after lawful disposition of the arms claim; no particular instruction or trial is ordered. This is not an automatic-remand rule for every arms case.
+
+### III. The separate pipe-bomb registration conviction remains valid
+
+**Holding and operative rule:** Registration of these explosive destructive devices is an incidental regulation that leaves ordinary defensive keeping meaningfully available and satisfies deferential reasonableness review.  The personal character of the arms guarantee and the asserted military usefulness of the three pipe bombs do not exempt their possession from the separate NFA registration requirements administering lawful making and transfer. Section 5861(d)'s prohibition of receipt or possession of a covered firearm not registered to the possessor has an independent tax-administration basis where it supports assessment, collection and tracing of taxable making and transfer; these presented objections therefore do not disturb the registration conviction.
+
+**Authority:** The five Justices joining the full opinion adopt the Core-Preservation Review application in Part III. Stevens's separate opinion, Part A, is joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; those eight independently adopt the tax-administration and registration ground stated here. All nine support the conviction affirmance; Stone adds no independent tax ground.
+
+**Controlling explanation:** For the independent eight-Justice ground, *Hale* supplies both the taxing-power basis and the distinction between personal arms protection and registration. The lower court's affiliation rationale is erroneous, but the valid registration ground does not depend on it. The count concerns three pipe bombs, not machinegun registration or an asserted inability to register post-1986 machineguns. The supported record establishes no refusal of a registration application or inability lawfully to approve these destructive devices. Thus vacating this conviction merely because the lower court used an invalid general arms premise would disregard the independently sufficient rule already governing the precise registration objection. The Court need not hold every explosive device outside constitutional protection to sustain this duty. Even assuming protected activity is implicated, this registration obligation does not materially obstruct ordinary defensive possession. Identification and tracing of explosive devices reasonably serve lawful tax administration and public safety. No arbitrary administration, discrimination or cumulative destruction is established. The five-Justice framework coalition therefore sustains the count at Stage 2 under deferential reasonableness review, without using that conclusion to resolve machinegun coverage or the possession prohibition.
+
+**Operative qualifications:** Section 5841 registers a transferred firearm to the transferee through the transferor; it does not impose a universal duty on each possessor to seek late registration. Section 5812 requires advance transfer approval and denial if transfer, receipt or possession would violate law. Section 5822 separately requires advance making approval and denial if making or possession would violate law. A prosecution involving registration that could not lawfully be approved remains a different question. No unpreserved statutory element, tax exemption, knowledge issue or registration-impossibility defense is decided.
+
+### IV. The Ninth Amendment supplies no established independent exemption here
+
+**Holding and operative rule:** Invoking privacy and natural self-defense under the Ninth Amendment does not itself establish an independent constitutional immunity for this machinegun possession and destructive-device nonregistration. The asserted exemption fails without resolving the separately preserved Second Amendment application.
+
+**Controlling explanation:** The Ninth Amendment preserves the distinction between enumerating rights and denying other rights retained by the people. That reservation does not, merely upon assertion, establish the scope or existence of the particular weapons exemption Wright seeks. *Love* and *Hale* recognize personal protection while distinguishing it from unrestricted possession and from exemption from registration. Wright receives an adjudication of his actual arms claim; its unresolved application is not assumed away. The Court does not hold that enumeration exhausts constitutional liberty, that unenumerated rights do not exist, that the Ninth Amendment has no significance, or that every privacy claim fails. No new substantive-due-process claim is presented or decided.
+
+### V-A. A reserved legal challenge alone does not defeat acceptance credit
+
+**Holding and operative rule:** A sentencing court may not deny an otherwise warranted section 3E1.1 acceptance-of-responsibility adjustment solely because the defendant presents a nonfrivolous legal or constitutional challenge unrelated to admitted factual guilt. A guilty plea reserving such a challenge does not automatically disqualify the defendant, but neither the plea nor the prosecutor's recommendation guarantees the adjustment.
+
+**Controlling explanation:** *Stinson* makes interpretive commentary authoritative unless it violates the Constitution or a federal statute, conflicts with the Guideline, or plainly misreads it; commentary cannot amend contrary text. Application note 2 permits acceptance in the unusual case tried to preserve a legal issue unrelated to factual guilt. A plea reserving the same kind of legal question cannot itself create a categorical bar. Notes 1 and 3 require examination of actual acceptance, not surrender of legal review. The rehearing court's alternative permission to deny credit exclusively for Wright's constitutional challenges conflicts with that distinction. That denying a reduction is not always unconstitutional punishment does not answer the Guidelines question. False factual denials, sham factual assertions or conduct inconsistent with acceptance can remain relevant, including when associated with litigation. The unsuccessful legal position alone is not such conduct. The Court decides the meaning and application of section 3E1.1, not a categorical constitutional immunity from every litigation-related sentencing consequence.
+
+### V-B. The asserted remorse ground does not independently preserve this sentence
+
+**Holding and operative rule:** Where the reported sentencing remarks intertwine acceptance with an erroneous affiliation premise and do not establish a sufficiently independent lawful remorse determination, the sentence cannot be preserved by characterizing those same remarks as a conclusive factual alternative. Wright's sentence and its appellate affirmance must be vacated for lawful reconsideration under section 3E1.1, coordinated with the machinegun count's disposition.
+
+**Controlling explanation:** *Koon* distinguishes correction of legal error from deference to genuine factual and sentencing judgments and forbids appellate replacement reasons or speculation that the same sentence might recur. The sentencing judge addressed whether Wright believed he belonged to a group carrying out state law, and the reported earlier remarks focused on counsel's constitutional assertion. The rehearing majority's reading of that discussion as lack of remorse is an appellate characterization, not another trial-court finding. The judge's opportunity to observe Wright matters, but cannot make the displaced militia rule a lawful acceptance criterion. Admissions, cooperation, a timely plea and the assurance of no weapons possession after arrest are evidence of acceptance; they do not establish entitlement. The Court cannot conclude on these passages that an independent, legally valid finding controlled the denial. Resentencing is therefore required independently of the still-open arms application.
+
+**Remedy and limits:** The sentencing court may assess actual remorse, candor, sincerity and conduct on supported lawful grounds, with appropriate deference to genuine factual findings. The Court orders no two- or three-level reduction, prescribed term of imprisonment or conclusive finding of acceptance. It does not resolve credibility anew, and supported contrary conduct may outweigh evidence favoring credit.
+
+## Precedent treatment and current law
+
+- **Love v. Pepersack (December 11, 1995):** applied for the personal holder of the arms guarantee without formal militia affiliation; its incorporation and necessary-acquisition rules remain intact, and incorporation is unnecessary in this federal prosecution. Core-Preservation Review develops the justification standard that Love left open.
+- **United States v. Hale (February 12, 1996):** applied for the fitted possession/transfer mechanism, independent tax-administration and registration grounds, and separation of personal coverage from the actual weapons restriction. Its statutory exceptions and unresolved registration-impossibility question remain intact. Its separation of coverage and justification supplies the structure of the two-stage inquiry; it did not itself adopt the tiers.
+- **United States v. Rybar (November 24, 1997):** applied for the same commerce mechanism and the limited arms remand when an invalid affiliation ground lacks an adequate independent application. Its completed weapons do not establish either automatic affirmance or an automatic-remand rule. Wright supplies the previously reserved justification standard without deciding Rybar's weapon-specific application.
+- **United States v. Kirk (February 14, 1998):** applied for possession of prohibited completed stock without a defendant-specific sale or interstate transaction. It supplies no Second Amendment holding.
+- **United States v. Lopez (April 26, 1995):** preserved and applied for a constitutionally identifiable commerce connection before aggregation and against judicial addition of an absent interstate element. The decision does not revive generalized downstream crime-cost reasoning.
+- **United States v. Miller, 307 U.S. 174 (1939):** applied through the surviving weapon-and-record inquiry, without a formal-enrollment prerequisite, categorical military-weapon immunity or exclusion based on military usefulness alone.
+- **Stinson v. United States, 508 U.S. 36 (May 3, 1993):** applied to the consistent section 3E1.1 commentary; its constitutional, statutory and textual limits remain unchanged.
+- **Koon v. United States; Powell v. United States, 518 U.S. 81 (June 13, 1996):** applied for legal-error correction, genuine factual deference and the prohibition on preserving the actual sentence through invented replacement grounds. Its separate departure classifications are not converted into a new acceptance-of-responsibility test.
+
+No earlier Supreme Court decision is overruled. The lower court's affiliation requirement and legal-challenge-only sentencing ground cannot sustain the judgment.
+
+Effective October 5, 1998, Core-Preservation Review governs restrictions on the personal arms right: constitutional coverage first, then justification measured by practical burden, with strict scrutiny for core deprivation, intermediate scrutiny for substantial regulation and deferential reasonableness review for incidental regulation. Government may not abolish meaningful possession of ordinary functional defensive arms in the home. Public-carry licensing, training and recertification remain reserved. The five-Justice framework governs lower courts without reliance on the separate writings.
+
+The machinegun-count affirmance returns for application of both stages in the first instance; no tier or ultimate arms result for that count is decided. Registration of the three pipe bombs survives as incidental regulation and also on the settled independent registration grounds. Commerce authority remains distinct from compliance with the arms guarantee, and the existing commerce rule is not enlarged.
+
+A nonfrivolous legal challenge unrelated to admitted factual guilt alone cannot disqualify an otherwise deserving defendant from section 3E1.1 credit. Genuine acceptance remains individualized, and the legally compromised sentence returns for lawful reconsideration. The Ninth Amendment ruling rejects the asserted independent exemption without adopting a general theory of unenumerated rights.
+
+## Published separate positions and continuity
+
+**Stevens, concurring in part and concurring in the judgment.** Part A, joined by all seven other Associates, independently sustains the pipe-bomb registration conviction under Hale's tax-administration and registration rules. Registration identifies and traces lawful making and transfer; personal possession and military usefulness do not establish an exemption. No denied application or legal inability to register these devices is established, and no universal late-registration duty is imposed. The eight adopt that sufficient ground without requiring exclusion of every explosive device from coverage.
+
+In Part B, joined by Breyer, Stevens joins the commerce, personal-invocation, Ninth Amendment and sentencing grounds and agrees that the machinegun affirmance must return for the actual arms application. Love, Hale and Rybar already require that result; they would leave selection of a comprehensive severity framework until a developed application requires it. They do not join the categorical home rule or the three tiers. Stevens emphasizes that supported legislative predictions and the particular statutory operation must receive their proper weight. Breyer shares that reservation because the competing individual and public interests must be examined in their concrete setting. Neither treats public safety as conclusive, restores a militia prerequisite, requires an evidentiary study or would disturb the separate registration conviction. Their disagreement concerns the governing framework, not any judgment component.
+
+**Scalia, joined by Thomas, concurring in part and concurring in the judgment.** They join the same specified common portions and all dispositions, but withhold assent to Part II-B and its applications. Love's personal-holder rule and Hale's weapon-specific inquiry require a constitutional answer grounded in text, history and the actual restriction. They do not regard those authorities as warranting a universal severity scale or its separate categorical home formulation in this machinegun case. Their objection does not imply that ordinary defensive possession can be abolished; they reserve the precise historical boundary rather than join this formulation. Miller makes military usefulness relevant without granting military-weapon immunity. They would remand under those existing directions and sustain registration under Hale, preserving the distinction between the two counts. Neither would affirm the machinegun count without its required arms application or award automatic acceptance credit.
+
+## Adaptive audit annex
+
+### Frozen component commitments and final joins
+
+The frozen Wright commitments and reconciled handoff remain the source of all eight Associates' disposition positions: reject commerce/Tenth and Ninth objections, recognize personal invocation, vacate the machinegun affirmance, affirm registration, reject the legal-challenge-only sentencing ground and vacate the sentence. Those positions survive in full. The frozen formulation did not adopt a universal scrutiny tier; final compatibility with the public formulation is therefore tested separately from agreement in judgment. No draft history or fictional conference is inferred.
+
+| Justice | Final compatibility and own published basis | Preserved limitation |
+|---|---|---|
+| O'Connor | Joins the complete framework and its bounded applications. Her Love Parts III–IV distinguish the personal right, necessary acquisition and actual restriction. Her Hale opinion accepts actual arms regulation and registration without treating constitutional recognition as unrestricted possession. Her Burdick join accepts severe-burden/compelling-interest review alongside ordinary regulatory room. Her Madsen Part II-B adopts a distinct, more demanding fit rule when the operation of an injunction requires it. Her Turner II dissent tests the whole burden and actual alternatives even under intermediate review. Together these support calibrated arms review, including a stringent core tier, without making every law strict-scrutiny eligible. Her full Ladue join supports a distinct anti-elimination boundary; her concurrence there preserves the distinction between classification and application. | The right's practical effect warrants the home minimum, but Love's reserved coverage cannot disappear. Intermediate scrutiny must not silently become the strict alternative-means command. Legislative power remains separate from compliance with the individual right. |
+| Kennedy | Joins the complete framework and its bounded applications. His Love joins and Rybar Parts II–III preserve personal protection while returning the unperformed actual application. His Burdick dissent expressly accepts calibrated scrutiny and demands consideration of the total practical access burden. His Turner II opinion identifies the government's interest, independent fit review, permissible respect for supported predictions and the relevance of alternatives without requiring the least restrictive imaginable arrangement. His Madsen strict-restraint position distinguishes direct restraints on protected activity from ordinary conduct orders and incidental effects. Those positions support differing intensity by actual constitutional burden, rather than one test for every restriction. His Ladue join supplies an additional practical anti-elimination analogy for the home minimum. | A general standard does not supply the missing application. The completed automatic rifle and disassembled weapon must remain distinct. The strict tier does not decide their classification, and government predictions do not receive conclusive force. |
+| Souter | Joins the complete framework and its bounded applications. His Love arms joins, Hale joins and Rybar joins establish the personal guarantee and distinct regulatory inquiry. His Burdick majority join accepts calibrated scrutiny; his Madsen II-B join accepts heightened fit for a different type of direct burden; his Turner II join accepts intermediate review with independent assessment and regulatory latitude. These are concrete instances of matching the legal standard to the constitutional burden, not support for an automatic universal strict tier. His Ladue join supports preserving a meaningful protected home activity against practical elimination. | Neither text/history coverage nor ordinary administration answers the actual fit question. A meaningful personal guarantee may not be reduced to an affiliation rule or a merely nominal ability to possess. The minimum does not decide every defensive purpose or every individual disability. |
+| Ginsburg | Joins the complete framework and its bounded applications as an inference with a different starting point. Her Love disagreement concerned the asserted basis for displacing state-nonapplication precedents; that writing expressly adopted neither a collective-only right nor a formal-enrollment requirement. Her later Hale and Rybar joins affirmatively accept the federal personal-right application and remand. Her Madsen II-B join supports an operation-sensitive heightened rule that does not make every conduct restriction strict; her Turner II dissent requires meaningful intermediate fit, whole-burden review and attention to alternatives while rejecting an imaginary least-restrictive-means requirement. Her full Ladue join establishes her acceptance of practical protection against elimination of a distinctive home activity. Applied to the now-settled arms guarantee, these grounds support a protected core, intermediate regulatory room and deferential treatment of genuinely incidental administration. | Her Love disagreement is not treated as agreement with that original incorporation judgment. The inference concerns how she applies the settled personal guarantee here. General concern for fit alone would be insufficient; the combination of her direct arms joins, differentiated-review joins and anti-elimination position supplies the basis. The framework preserves room for justified regulation and does not prejudge these weapons. |
+| Stevens | Joins the common frozen grounds and dispositions; does not join the complete tier framework or its new categorical home holding in this matter. His Hale and Rybar joins already supply the particular arms remand; his Hale registration join supplies the independent affirmance. Burdick and his authorship of Ladue show that he can use severity and anti-elimination reasoning, but do not compel this comprehensive arms formulation. His Madsen separate position favors an individualized equitable account over that decision's different heightened formula; his Turner II concurrence emphasizes supported legislative judgment. The supplied case permits him to resolve the actual grounds while reserving the broader arms standard. | This is not opposition to a meaningful personal right or approval of wholesale disarmament. No affirmative contrary home rule, categorical weapons exclusion or general refusal of calibrated review is attributed to him. |
+| Breyer | Joins the common frozen grounds and dispositions; reserves the comprehensive tier framework and categorical home rule. His Hale and Rybar joins require the actual arms application. His Turner II concurrence examines competing protected interests and practical fit in their setting while allowing supported preventive judgments. That provides a basis for meaningful scrutiny, but not a necessary inference that he adopts this specific three-category arms standard before the actual weapon application. | He does not treat deference as conclusive or commerce power as proof of arms validity. No opposition to every home-defense protection, no categorical automatic-arms exclusion and no empirical-study requirement is inferred. |
+| Scalia | Joins the common frozen grounds and dispositions without the severity hierarchy or a separate categorical home ruling here. His Love, Hale and Rybar joins preserve a text/history/actual-weapon inquiry. His Burdick join and Turner II/Madsen positions show willingness to apply the standards proper to those rights and restrictions, but do not require transposition into a new arms hierarchy. His frozen objection to an unsupported judge-made mandatory arms procedure remains material. | The record does not establish that he rejects all ordinary defensive possession or would approve its abolition. His narrower join leaves the precise arms classification and method to the weapon-and-restriction inquiry; later arms jurisprudence supplies no support or contrary vote here. |
+| Thomas | Joins the same common grounds and dispositions, reserving the severity hierarchy and separate home ruling. His Love, Hale and Rybar joins preserve personal invocation and weapon-specific coverage without a universal dangerous-arms exception. His Burdick, Turner II and Madsen positions are context-specific support for actual rights protection, not a commitment to this new arms standard. | No automatic military-arms immunity, inserted commerce element or present holding that the disassembled gun is a functioning rifle. His reservation does not establish an affirmative contrary home rule. No later opinion is imported. |
+
+The full-join inference rests on the legal formulation: constitutional coverage is distinct from justification; practical burdens determine review rather than the identity of the right alone; protected core possession cannot be extinguished; ordinary regulation remains possible; no carry regime or machinegun tier is adjudicated without its application. For O'Connor, Kennedy and Souter, Love's personal right and their subsequent actual-application commitments support a meaningful protected minimum. For Ginsburg, her Hale/Rybar adherence and insistence on practical rather than nominal protection support that minimum even though she did not join Love's initial recognition. None of these sources already enacted Core-Preservation Review. The new formulation is the proposition these four can join, rather than an assertion that their frozen handoff contained it. The four remaining Associates' narrower grounds remain separate.
+
+### Historical reconciliation
+
+The frozen comparator supplies no historical Supreme Court merits vote, opinion or Justice-specific lineup for Wright. No such alignment is invented and no historical departure is claimed. The published lower court's militia-affiliation premise is displaced by Love, Hale and Rybar; each Associate's own joins support the bounded remand. The sentencing question remains governed by Stinson and Koon on the published remarks. The [fresh scoped reconciliation audit](../freeze/WRIGHT_PUBLIC_GROUND_AUDIT.md) confirms the public formulation against those handoffs and date-eligible public positions without receiving a private Stone supplement. Its Burdick, Madsen and Ladue analogies are evidence of the Justices' own methods, not additional arms precedents or transferred holdings.
 
 ### Form, assignment and balance
 
-**Form first:** Before examining counts or selecting an author, the legal scope warrants one signed lead opinion after plenary review on full merits briefing, with Parts I-V covering the intertwined but distinct conviction and sentencing components. The supported common grounds are set out above; no proposition or case is divided or combined to alter eligibility or counts. A separate Stone writing is required by the material difference in arms rule and remedy. The single lead form does not let the Chief assign a component whose judgment he opposes.
+**Form first:** One signed lead opinion after full merits briefing states the connected but distinct conviction and sentencing rules. The framework belongs in the opinion because it directs the preserved arms application. The two separate writings express substantive limits on rationale joins and preserve the Associates' independent registration ground; no part or case is divided to affect a count.
 
-**Counted lead opinion:** Yes.
-
-**Recount source and last event:** A fresh directory enumeration immediately before assignment found no earlier OT1998 Decision Record; only the placeholder existed. There is therefore no earlier opinion table to count and no last counted event. Wright is the first event by effective date; no same-date predecessor exists. No prior reported tally is used.
-
-| Justice | Count before assignment | Last counted event |
-|---|---:|---|
-| Stone-Zsela | 0 | No earlier event |
-| Stevens | 0 | No earlier event |
-| O'Connor | 0 | No earlier event |
-| Scalia | 0 | No earlier event |
-| Kennedy | 0 | No earlier event |
-| Souter | 0 | No earlier event |
-| Thomas | 0 | No earlier event |
-| Ginsburg | 0 | No earlier event |
-| Breyer | 0 | No earlier event |
-
-**Full-join eligibility:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer can carry every governing proposition in every part under their frozen reconciled commitments. All have count zero. Stone is in several judgment coalitions but the part-specific compatibility differences identified above prevent a full join in each part's actual propositions; absence of an envelope is not itself the eligibility test. His standing-fallback votes cannot confer authorship eligibility. He is additionally outside the machinegun-vacatur judgment coalition. He is therefore ineligible to write the lead or any of its assigned parts. Capability, reputation and prior authorship exclude no otherwise eligible Justice.
-
-| Assigned scope | Assignment authority and coalition | Eligible authors | Balance pool | Author |
-|---|---|---|---|---|
-| Parts I, III, IV and V: commerce/Tenth, registration, Ninth and sentencing | Chief Justice Stone-Zsela, a member of each nine-Justice judgment coalition | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | The same eight; all counts zero, minimum zero | Kennedy |
-| Part II: personal-invocation ground, machinegun vacatur and its dependent instruction treatment | Stevens, most senior Associate in the eight-Justice machinegun-vacatur coalition; the Chief does not assign the vacatur portion | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | The same eight for the coordinated lead; the Chief's balance rule does not independently bind Stevens's component assignment | Kennedy |
-
-**Selection:** Fit, rather than expansion, controls: the eight Associates already share the precise propositions and their retained reservations. Kennedy's Rybar opinion performs the directly analogous arms-and-commerce separation, and his Stinson and Koon opinions state the legal-error/commentary distinction central to both sentencing grounds. O'Connor is a strong alternative because her Hale opinion supplies the commerce, registration and arms separation; Kennedy's combined demonstrated work on the actual sentencing and arms-remedy questions gives him the concrete advantage for this single opinion. All eligible counts are equal. Stevens's component assignment uses the already-supported Rybar formulation he joined and permits a coherent common opinion without enlarging it; no unrecorded personal practice or dialogue is asserted. These are assembly inferences, not historical assignment claims. No expansion accommodation, changed join or reassignment occurs. Kennedy delivers the entire one counted lead opinion, counted once for future assignments; the separate writing adds no count.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Scope |
-|---|---|---|---|
-| Opinion of the Court, Parts I-V | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Full opinion: I commerce and derivative Tenth objection; II-A personal invocation and II-B machinegun remand with conditional instruction treatment; III independent registration conviction; IV Ninth Amendment; V-A legal-challenge rule and V-B sentence vacatur. Eight direct rationale votes throughout. |
-| Opinion concurring in the judgment in part and dissenting in part | Stone-Zsela | — | No join in the Court's opinion. Agrees with the registration affirmance, rejection of the commerce and Ninth objections, sentencing vacatur, derivative Tenth disposition and conditional instruction treatment. Dissents from vacating the machinegun-count affirmance and would sustain it under his own arms analysis. |
-
----
-
-<!-- source-record: fraternal_order_of_police_v_united_states_merits_1998-10-07.md -->
-
-**Case and dockets:** Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; judgment below, 152 F.3d 998.
-**Event and date:** Plenary merits decision after full merits briefing; 1998-10-07; October Term 1998, chunk 1.
-
-## Assignment under Engine section 8
-
-**Form chosen before counts:** One signed lead opinion after full merits review. Standing, the developed equality and arms challenges and the remedy concern one judgment and a common rationale; neither fragmentation nor per curiam disposition is warranted. No part or case is divided to affect eligibility.
-
-**Counted lead opinion:** Yes.
-
-**Fresh recount:** The only preceding counted opinion, taken from its Public Projection opinion table, is Kennedy's Wright lead, October 5, 1998. There is no same-date predecessor. The count before this assignment is:
-
-| Justice | Count |
-|---|---:|
-| Stone-Zsela | 0 |
-| Stevens | 0 |
-| O'Connor | 0 |
-| Scalia | 0 |
-| Kennedy | 1 |
-| Souter | 0 |
-| Thomas | 0 |
-| Ginsburg | 0 |
-| Breyer | 0 |
-
-**Authority, eligibility and pool:** The Chief is in the tentative judgment majority and assigns. All nine support every governing proposition in full, so all nine are eligible. The lowest eligible count is zero; all nine, including Kennedy at one, are within the pool. No fallback supplies Stone's eligibility.
-
-**Choice:** Souter. Fit controls because the coalition already shares the grounds; there is no necessary formulation accommodation or invented objection. His United Food opinion distinguishes real associational injury from individual-participation requirements, and his Heller/Romer work addresses a classification's relation to the actual disadvantage. Those are the central tasks in this record. Stone's concrete violence/official-access application is fully carried by that common formulation, and his authorship offers no demonstrated advantage over Souter for coordinating standing with the limited equality holding. Souter and Stone have equal zero counts; no lower-count alternative is bypassed for a mere office or subject preference. Kennedy's Rybar work is a useful alternative but his count is one and the distinctive work here is representative standing and fitted classification. Souter writes the complete opinion, with all final joins retained. The resulting count is Souter one and Kennedy one; each other Justice remains zero.
-
-## Opinion Topology
-
-| Writing | Author | Joined by | Scope |
-|---|---|---|---|
-| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Full opinion: standing, the developed official-use equality and arms objections, and the limited remand. |
-
-No separate writing issues. All nine directly join the stated controlling propositions.
-
----
-
-<!-- source-record: hiley_v_barrett_merits_1998-10-09.md -->
-
-**Case and dockets:** Hiley v. Barrett; Eleventh Circuit No. 97-9006; 155 F.3d 1276. No separately established Supreme Court docket.
-**Event and date:** Plenary merits decision after full merits briefing; 1998-10-09; October Term 1998, chunk 1.
-
-## Assignment under Engine section 8
-
-**Form first:** Before examining current-term opinion tables or counts, the actual ten component issues, common appellate judgment and supported grounds called for one signed lead opinion after full merits briefing. No part, proposition or case was divided or combined to alter counts or eligibility. Stone's additional grounds require a concurrence, not another lead opinion or division of authorship.
-
-**Counted lead opinion:** Yes.
-
-**Fresh recount:** The preceding dated Records' actual public opinion tables identify Kennedy as author of Wright, October 5, and Souter as author of Fraternal Order of Police, October 7. Each is a single signed plenary lead; no other earlier or same-date predecessor exists. The last counted event is Fraternal Order of Police, October 7, 1998. Earlier assignment tallies do not supply these counts.
+**Counted lead opinion:** Yes. **Last counted event:** None; Wright is the first OT1998 event and has no same-date predecessor.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -105,7 +182,107 @@ No separate writing issues. All nine directly join the stated controlling propos
 | Stevens | 0 |
 | O'Connor | 0 |
 | Scalia | 0 |
-| Kennedy | 1 |
+| Kennedy | 0 |
+| Souter | 0 |
+| Thomas | 0 |
+| Ginsburg | 0 |
+| Breyer | 0 |
+
+**Assignment authority:** The Chief participates in every tentative judgment coalition and assigns the whole lead opinion. **Eligible authors and balance pool:** Stone-Zsela, O'Connor, Kennedy, Souter and Ginsburg, each with zero; the other four do not join every governing proposition. **Author:** Stone-Zsela. His approved position supplies the exact integrated coverage, severity, practical-operation and categorical-boundary formulation adopted by the coalition, together with the limits reserving public carry and first-instance machinegun application. His authorship has a concrete precision and coordination advantage for that doctrinal development. O'Connor's Love/Hale and Kennedy's Rybar work make them strong alternatives in the same pool, but neither has a lower count and the Chief's own formulation supplies the adopted relationship among the components. One eligible author can carry every part, so the opinion is not divided. The lead counts once; separate writings add no count.
+
+### Context and preservation
+
+The initial neutral and reconciled handoffs remain physically frozen. Assembly receives the approved position and those handoffs; it does not claim neutral blindness. The separate reconciliation audit receives only neutral materials, the comparator, frozen commitments and a sanitized public legal formulation. No frozen vote is rewritten. Canonical Records control current law and assignment counts; derived handoffs carry their public substance.
+
+## Sources and validation status
+
+**Research cutoff:** October 5, 1998 for source facts and objective procedural events; September 28, 1998 for completed entering law. No later holding, fact or judicial action supplies a premise. Earlier public holdings in the authorized entering-law slice supply legal authority; the historical opinion's discussion of post-divergence Supreme Court doctrine is not adopted as in-world law.
+
+| Source | Proposition established and limit |
+|---|---|
+| [Frozen neutral packet](../freeze/WRIGHT_NEUTRAL.md) and [supplement](../freeze/WRIGHT_NEUTRAL_SUPPLEMENT.md) | Approved scope, scheduling, preserved components, two-count allocation, ordinary merits-briefing premise, and research limits; preparation does not itself establish a judicial action. |
+| [Original published opinion](https://openjurist.org/117/f3d/1265), background paragraphs 2-5 and footnotes 1, 4, 18 | Completed and disassembled weapons, charge, conditional plea and admission, derivative instruction and Tenth issues, and express nondecision of governmental justification. Its original sentencing disposition is superseded. |
+| [Official rehearing opinion](https://media.ca11.uscourts.gov/opinions/pub/files/19958397.MAN.pdf), also [saved full extraction](../runtime/preflight-sources/wright-rehearing-1998-01-28.pdf.txt) | Operative sentence affirmance, both independent grounds, competing readings of the quoted sentencing remarks and section 3E1.1 commentary. The entire saved extraction was read. The full original transcript was not recovered or represented as read. |
+| [Entering-law slice](../entering-law/OT_1998CHUNK1_BASE.md) | Relevant current holdings and standards, with original authority metadata. It remains a reading copy of the term-opening authorities. |
+| [Frozen commitments](../freeze/WRIGHT_COMMITMENTS.md) and [reconciliation](../freeze/WRIGHT_RECONCILED.md) | The eight Associates' component grounds, tested alternatives, join barriers and Justice-specific continuity. No same-matter historical Supreme Court merits lineup exists. |
+
+The published transcript passages support the bounded sentencing inquiry; no full transcript, new weapon finding or denied registration application is inferred. The ordinary merits-briefing premise remains identified under Engine section 14. The eight frozen disposition commitments, all nine final votes and part-specific rationale joins reconcile. The public holdings are copied unchanged below.
+
+### Public Opinion Topology
+
+| Writing | Author | Joined by | Scope |
+|---|---|---|---|
+| Opinion of the Court | Stone-Zsela | O'Connor, Kennedy, Souter, Ginsburg | All Parts I-V, including II-B's complete Core-Preservation Review, II-C's two-stage remand and III's incidental-regulation application. Five direct rationale votes throughout. |
+| Same opinion, partial joins | Stone-Zsela | Stevens, Scalia, Thomas, Breyer | I, II-A, IV and V in full; II-C's vacatur and bounded remand apart from its direction to use II-B; no join in III's severity classification. Their independent tax and registration ground appears in Part A of Stevens's separate opinion. They support every judgment but do not join II-B or its framework applications. |
+| Opinion concurring in part and concurring in the judgment, Part A | Stevens | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Independently sustains the registration conviction on Hale's tax-administration and registration grounds; eight direct rationale votes. |
+| Same opinion, Part B | Stevens | Breyer | Joins the specified common portions; supports the limited arms remand without adopting the general framework or categorical home rule. |
+| Opinion concurring in part and concurring in the judgment | Scalia | Thomas | Joins the specified common portions; requires text, history and the actual weapon-and-restriction inquiry, withholding assent to the severity tiers and the separately formulated categorical home rule. |
+
+---
+
+<!-- source-record: fraternal_order_of_police_v_united_states_merits_1998-10-07.md -->
+
+**Case and dockets:** Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; judgment below, 152 F.3d 998.
+
+**Event and date:** Plenary merits decision after full merits briefing; 1998-10-07; October Term 1998, chunk 1.
+
+### Assignment under Engine section 8
+
+**Form chosen before counts:** One signed lead opinion after full merits review. Standing, the developed equality and arms challenges and the remedy concern one judgment and a common rationale; neither fragmentation nor per curiam disposition is warranted. No part or case is divided to affect eligibility.
+
+**Counted lead opinion:** Yes.
+
+**Fresh recount:** The only preceding counted opinion, taken from its Public Projection opinion table, is Stone-Zsela's Wright lead, October 5, 1998. There is no same-date predecessor. The count before this assignment is:
+
+| Justice | Count |
+|---|---:|
+| Stone-Zsela | 1 |
+| Stevens | 0 |
+| O'Connor | 0 |
+| Scalia | 0 |
+| Kennedy | 0 |
+| Souter | 0 |
+| Thomas | 0 |
+| Ginsburg | 0 |
+| Breyer | 0 |
+
+**Authority, eligibility and pool:** The Chief is in the tentative judgment majority and assigns. All nine support every governing proposition in full, so all nine are eligible. The lowest eligible count is zero; all nine, including Stone-Zsela at one, are within the pool. No fallback supplies Stone's eligibility.
+
+**Choice:** Souter. Fit controls because the coalition already shares the grounds; there is no necessary formulation accommodation or invented objection. His United Food opinion distinguishes real associational injury from individual-participation requirements, and his Heller/Romer work addresses a classification's relation to the actual disadvantage. Those are the central tasks in this record. Stone's concrete violence/official-access application is fully carried by that common formulation, and his authorship offers no demonstrated advantage over Souter for coordinating standing with the limited equality holding. Souter has zero counted opinions and Stone-Zsela has one. Kennedy's Rybar work is a useful alternative at zero, but the distinctive work here combines representative standing with the conduct-specific application of Wright and the fitted equality classification. Souter writes the complete opinion, with all final joins retained. The resulting count is Souter one and Stone-Zsela one; each other Justice remains zero.
+
+### Public Opinion Topology
+
+| Writing | Author | Joined by | Scope |
+|---|---|---|---|
+| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Full opinion: standing, the developed official-use equality and arms objections, and the limited remand. |
+| Concurring opinion | Scalia | Thomas | Joins the Court in full; retains the methodological reservation stated in Wright while applying its controlling rule to this conduct-based disability. |
+| Concurring opinion | Stevens | Breyer | Joins the Court in full; emphasizes the concrete burden and justification presented by this conviction-defined class. |
+
+All nine directly join the stated controlling propositions; the concurrences withhold no part of this opinion.
+
+---
+
+<!-- source-record: hiley_v_barrett_merits_1998-10-09.md -->
+
+**Case and dockets:** Hiley v. Barrett; Eleventh Circuit No. 97-9006; 155 F.3d 1276. No separately established Supreme Court docket.
+
+**Event and date:** Plenary merits decision after full merits briefing; 1998-10-09; October Term 1998, chunk 1.
+
+### Assignment under Engine section 8
+
+**Form first:** Before examining current-term opinion tables or counts, the actual ten component issues, common appellate judgment and supported grounds called for one signed lead opinion after full merits briefing. No part, proposition or case was divided or combined to alter counts or eligibility. Stone's additional grounds require a concurrence, not another lead opinion or division of authorship.
+
+**Counted lead opinion:** Yes.
+
+**Fresh recount:** The preceding dated Records' actual public opinion tables identify Stone-Zsela as author of Wright, October 5, and Souter as author of Fraternal Order of Police, October 7. Each is a single signed plenary lead; no other earlier or same-date predecessor exists. The last counted event is Fraternal Order of Police, October 7, 1998. Earlier assignment tallies do not supply these counts.
+
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 1 |
+| Stevens | 0 |
+| O'Connor | 0 |
+| Scalia | 0 |
+| Kennedy | 0 |
 | Souter | 1 |
 | Thomas | 0 |
 | Ginsburg | 0 |
@@ -113,9 +290,9 @@ No separate writing issues. All nine directly join the stated controlling propos
 
 **Assignment authority:** Chief Justice Stone-Zsela is in every judgment coalition and assigns the single opinion. **Eligible authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, each of whom fully supports every governing proposition under the frozen commitments. Stone's judgment-only agreement does not qualify him to write the complete lead. The actual rationale differences above prevent full-opinion eligibility; the separate section 4 limit prevents attributing partial joins. **Balance pool:** all eight eligible Associates, whose counts are zero or one and thus no more than one above the eligible minimum of zero. **Chosen author:** O'Connor.
 
-Fit controls because the eight Associates already share settled grounds and no formulation accommodation is needed to secure them. O'Connor's Love and Hale writings distinguish personal protection, registration and commerce authority, while New York directly supplies the command/direct-regulation distinction needed here. Her equality and representative-standing joins support coordinated treatment of the other components. Souter is a strong alternative through United Food, Heller, Romer and Printz; O'Connor's combined work on the arms/commerce and state-command distinctions fits this opinion at least equally well and her count is lower. No office, topic preference or presumed inability excludes another author. No expansion, reassignment or changed non-Stone join occurs. O'Connor delivers one counted opinion; the concurrence does not count.
+Fit controls because the eight Associates already share settled grounds and no formulation accommodation is needed to secure them. O'Connor's Love and Hale writings distinguish personal protection, registration and commerce authority, while New York directly supplies the command/direct-regulation distinction needed here. Her equality and representative-standing joins support coordinated treatment of the other components. Souter is a strong alternative through United Food, Heller, Romer and Printz; O'Connor's combined work on the arms/commerce and state-command distinctions fits this opinion at least equally well and her count is lower. No office, topic preference or presumed inability excludes another author. The eight Associates support the opinion without a formulation accommodation. O'Connor delivers one counted opinion; the concurrence does not count.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
@@ -127,17 +304,18 @@ Fit controls because the eight Associates already share settled grounds and no f
 <!-- source-record: united_states_v_louisiana_supplemental_decree_1998-10-13.md -->
 
 **Case and dockets:** United States v. Louisiana (Texas Boundary Case); No. 9, Original.
+
 **Event and date:** Unsigned supplemental implementing decree; 1998-10-13; October Term 1998, chunk 1.
 
-## Form and assignment
+### Form and assignment
 
 **Form first:** The agreed implementation calls for one unsigned supplemental decree incorporating the complete instrument, not a signed plenary lead opinion. That legal form was selected before considering authorship or counts. There is no separately authored Court opinion, no lead-opinion assignment and no eligible-author balance pool to choose. The eight Associates and Stone support the same complete decretal action; no opinion is divided or made unsigned to alter counts.
 
 **Counted lead opinion:** No.
 
-No counted opinion is added. The prior counted leads remain Wright/Kennedy, FOP/Souter and Hiley/O'Connor, as their actual opinion tables establish; this statement does not assign a new opinion or replace later fresh recounts. The internal unanimous action is not published as a tally.
+No counted opinion is added. The prior counted leads are Wright/Stone-Zsela, FOP/Souter and Hiley/O'Connor, as their actual opinion tables establish; this statement does not assign a new opinion or replace later fresh recounts. The internal unanimous action is not published as a tally.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
@@ -148,23 +326,24 @@ No counted opinion is added. The prior counted leads remain Wright/Kennedy, FOP/
 <!-- source-record: peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md -->
 
 **Case and dockets:** Peoples Rights Organization, Inc. v. City of Columbus; Sixth Circuit Nos. 96-3468 and 96-3495; 152 F.3d 522. No separately established Supreme Court docket.
+
 **Event and date:** Plenary merits decision after full merits briefing; 1998-10-15; October Term 1998, chunk 1.
 
-## Form and balanced assignment
+### Form and balanced assignment
 
 **Form first:** Before inspecting counts or choosing an author, the component-dependent definitions, fault, exemptions and severability warranted one signed plenary lead opinion, with Stevens's classification dissent and Stone's distinct judgment and rationale preserved separately. These legally connected provisions receive one coordinated opinion; no part was divided or combined to alter eligibility or counts.
 
 **Counted lead opinion:** Yes.
 
-Fresh inspection of prior Records' actual public opinion tables and assignment markers counts Kennedy's Wright opinion of October 5, Souter's FOP opinion of October 7 and O'Connor's Hiley opinion of October 9, once each. Louisiana's October 13 unsigned implementing decree counts zero. The last counted event is Hiley, October 9; the last preceding completed event is Louisiana, October 13. Separate writings do not count.
+Fresh inspection of prior Records' actual public opinion tables and assignment markers counts Stone-Zsela's Wright opinion of October 5, Souter's FOP opinion of October 7 and O'Connor's Hiley opinion of October 9, once each. Louisiana's October 13 unsigned implementing decree counts zero. The last counted event is Hiley, October 9; the last preceding completed event is Louisiana, October 13. Separate writings do not count.
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 0 |
+| Stone-Zsela | 1 |
 | Stevens | 0 |
 | O'Connor | 1 |
 | Scalia | 0 |
-| Kennedy | 1 |
+| Kennedy | 0 |
 | Souter | 1 |
 | Thomas | 0 |
 | Ginsburg | 0 |
@@ -176,7 +355,7 @@ Fresh inspection of prior Records' actual public opinion tables and assignment m
 
 Thomas's Staples opinion supplies directly pertinent experience separating weapon characteristics, factual fault and legal knowledge; his Beach opinion supplies the bounded ordinary-review task needed for the registry claims. His frozen Fargo/Women's Medical positions support the missing-boundary versus unknown-fact distinction and ordinary severability. Souter, who wrote Fargo and Women's Medical, is the strongest alternative; Ginsburg's Staples concurrence also closely fits the characteristic/fault separation. Thomas can perform this coordinated statutory and classification work at least as well within the settled coalition, and has zero counted opinions to Souter's one. His two directly pertinent authored analyses supply the concrete fit advantage over the other zero-count candidates. The Associate assignment components rest on their own shared text, notice and reliance grounds, not on Stone's dissenting objectives. No general capability, ideology, seniority entitlement or enthusiasm excludes any pool member. Thomas receives one counted opinion, making his count one; the others remain unchanged.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
@@ -189,23 +368,24 @@ Thomas's Staples opinion supplies directly pertinent experience separating weapo
 <!-- source-record: united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md -->
 
 **Case and dockets:** United States v. Franklyn / United States v. Gonzalez; Second Circuit Nos. 97-1392 and 97-1427; 157 F.3d 90. No separate Supreme Court docket is established.
+
 **Event and date:** Consolidated plenary merits decision after full merits briefing; 1998-10-22; October Term 1998, chunk 1.
 
-## Opinion form and balanced assignment
+### Opinion form and balanced assignment
 
 **Form first:** Before any author or count was considered, the common consolidated record, eight supported issue groups and shared Associate grounds warranted one signed plenary lead opinion. The two defendants and each component remain separate within it. Stone's distinct scope requires one concurrence in the judgment; no non-Stone separate writing is needed. The case or any part was not split to affect eligibility or workload.
 
 **Counted lead opinion:** Yes.
 
-The actual preceding public opinion tables were freshly recounted: Kennedy/Wright October 5, Souter/FOP October 7, O'Connor/Hiley October 9, and Thomas/Peoples Rights October 15 each count once. The unsigned Louisiana decree of October 13 counts zero. Last counted event and last preceding effective event: Peoples Rights, October 15. No earlier tally substitutes for those tables and no separate writing counts.
+The actual preceding public opinion tables were freshly recounted: Stone-Zsela/Wright October 5, Souter/FOP October 7, O'Connor/Hiley October 9, and Thomas/Peoples Rights October 15 each count once. The unsigned Louisiana decree of October 13 counts zero. Last counted event and last preceding effective event: Peoples Rights, October 15. No earlier tally substitutes for those tables and no separate writing counts.
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 0 |
+| Stone-Zsela | 1 |
 | Stevens | 0 |
 | O'Connor | 1 |
 | Scalia | 0 |
-| Kennedy | 1 |
+| Kennedy | 0 |
 | Souter | 1 |
 | Thomas | 1 |
 | Ginsburg | 0 |
@@ -213,9 +393,9 @@ The actual preceding public opinion tables were freshly recounted: Kennedy/Wrigh
 
 **Assignment authority:** Chief Justice Stone-Zsela belongs to every judgment majority and assigns the single lead. **Eligible authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, all of whom fully support the complete opinion within the frozen conditions. Stone's judgment-only and fallback support does not make him eligible. **Balance pool:** all eight Associates; eligible minimum zero, with every count at most one. **Chosen author:** Ginsburg.
 
-The coalition is settled, so fit rather than expansion controls. Ginsburg's J.E.B. position supports the real intent/pretext distinction, while her Koon and Watts positions preserve legal-factor review, reliable proof and the opportunity to contest without inventing missing trial facts. Her shared machinegun and Hiley grounds complete the two commerce analyses. This combination fits the opinion's main work: coordinating supported findings with separate constitutional, evidentiary and Guidelines limits. Kennedy, author of Koon, Rybar and Wright, is the strongest alternative; he can carry all grounds but already has one counted opinion. Ginsburg can perform this bounded coordination at least as well on the frozen common grounds and has zero. Stevens and Scalia remain fully eligible despite separate positions in earlier sentencing cases; Breyer is also fully capable. Ginsburg's particular overlap in ultimate-purpose review and the preserved sentencing safeguards supplies the choice among the zero-count candidates, not a judgment about anyone's ability or an authoring entitlement from prior precedent. No accommodation, fictional circulation, expansion or reassignment occurs. Ginsburg receives one counted lead and her count becomes one.
+The coalition is settled, so fit rather than expansion controls. Ginsburg's J.E.B. position supports the real intent/pretext distinction, while her Koon and Watts positions preserve legal-factor review, reliable proof and the opportunity to contest without inventing missing trial facts. Her shared machinegun and Hiley grounds complete the two commerce analyses. This combination fits the opinion's main work: coordinating supported findings with separate constitutional, evidentiary and Guidelines limits. Kennedy, author of Koon and Rybar and a participant in Wright, is the strongest alternative; he can carry all grounds and has zero counted opinions. Ginsburg also has zero, and her combined purpose-review and sentencing work supplies the case-specific fit for the full opinion. Stevens and Scalia remain fully eligible despite separate positions in earlier sentencing cases; Breyer is also fully capable. Ginsburg's particular overlap in ultimate-purpose review and the preserved sentencing safeguards supplies the choice among the zero-count candidates, not a judgment about anyone's ability or an authoring entitlement from prior precedent. No accommodation, fictional circulation, expansion or reassignment occurs. Ginsburg receives one counted lead and her count becomes one.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
@@ -227,23 +407,24 @@ The coalition is settled, so fit rather than expansion controls. Ginsburg's J.E.
 <!-- source-record: united_states_v_griffin_and_langley_merits_1998-10-29.md -->
 
 **Case and dockets:** United States v. Griffin / United States v. Langley; Fourth Circuit Nos. 96-4803 and 96-4805; district Nos. CR-96-93 and CR-96-95. No separate Supreme Court docket or Federal Reporter citation is established.
+
 **Event and date:** Consolidated plenary merits decision after full merits briefing; 1998-10-29; October Term 1998, chunk 1.
 
-## Form first and balanced assignment
+### Form first and balanced assignment
 
 **Form first:** Before counts or author selection, the three independent questions within two consolidated appeals called for one signed plenary opinion, addressing each question and defendant distinctly. All nine support its complete reasoning and judgment. The lower court's per curiam form is not imported, and no component is divided or combined to alter authorship eligibility or counts.
 
 **Counted lead opinion:** Yes.
 
-Actual preceding Record opinion tables were freshly recounted: Kennedy/Wright October 5, Souter/FOP October 7, O'Connor/Hiley October 9, Thomas/Peoples Rights October 15 and Ginsburg/Franklyn October 22 each count once. Louisiana's unsigned October 13 decree counts zero. Last counted and last preceding effective event: Franklyn, October 22. Separate writings count zero; no earlier reported tally substitutes for this recount.
+Actual preceding Record opinion tables were freshly recounted: Stone-Zsela/Wright October 5, Souter/FOP October 7, O'Connor/Hiley October 9, Thomas/Peoples Rights October 15 and Ginsburg/Franklyn October 22 each count once. Louisiana's unsigned October 13 decree counts zero. Last counted and last preceding effective event: Franklyn, October 22. Separate writings count zero; no earlier reported tally substitutes for this recount.
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 0 |
+| Stone-Zsela | 1 |
 | Stevens | 0 |
 | O'Connor | 1 |
 | Scalia | 0 |
-| Kennedy | 1 |
+| Kennedy | 0 |
 | Souter | 1 |
 | Thomas | 1 |
 | Ginsburg | 1 |
@@ -251,9 +432,9 @@ Actual preceding Record opinion tables were freshly recounted: Kennedy/Wright Oc
 
 **Assignment authority:** Chief Justice Stone-Zsela belongs to each judgment majority and assigns the single opinion. **Eligible authors:** all nine Justices, whose approved or frozen positions support every proposition in full. **Balance pool:** all nine, with an eligible minimum of zero and all counts at most one. **Chosen author:** Stone-Zsela.
 
-Fit governs because the independent coalition already shares settled grounds; no expansion accommodation is required. The opinion's particular work is keeping three easily conflated propositions separate: the constitutional reason for regulating this class, the narrower enacted element the jury must find, and evidence independently proving that element for each defendant. Stone's approved formulation already carries that complete chain and its exact anti-provenance and no-new-instruction qualifications. His authorship provides a concrete advantage in preserving that integrated formulation without adding a different rationale or an exception. Scalia is the strongest zero-count alternative through his Lopez and subsequent mechanism positions and refusal to invent statutory elements; he has no lower count or demonstrated material advantage in this integrated formulation. Ginsburg, author of the directly governing Franklyn holding, is a strong coordination alternative but has one counted opinion and can accomplish the same bounded work. Stone's fit, rather than his office, interest in firearms or a desire to influence colleagues, supplies self-assignment. Stevens and Breyer remain capable pool members. No fictional draft exchange, accommodation or reassignment is claimed. Stone receives his first counted lead; all other counts remain unchanged.
+Fit governs because the independent coalition already shares settled grounds; no expansion accommodation is required. The opinion's particular work is keeping three easily conflated propositions separate: the constitutional reason for regulating this class, the narrower enacted element the jury must find, and evidence independently proving that element for each defendant. Stone's approved formulation already carries that complete chain and its exact anti-provenance and no-new-instruction qualifications. His authorship provides a concrete advantage in preserving that integrated formulation without adding a different rationale or an exception. Scalia is the strongest zero-count alternative through his Lopez and subsequent mechanism positions and refusal to invent statutory elements; he has the lower count, but Stone's approved complete formulation supplies the concrete coordination advantage for this opinion. Ginsburg, author of the directly governing Franklyn holding, is a strong coordination alternative but has one counted opinion and can accomplish the same bounded work. Stone's fit, rather than his office, interest in firearms or a desire to influence colleagues, supplies self-assignment. Stevens and Breyer remain capable pool members. No fictional draft exchange, accommodation or reassignment is claimed. Stone receives his second counted lead; all other counts remain unchanged.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
@@ -264,33 +445,42 @@ Fit governs because the independent coalition already shares settled grounds; no
 <!-- source-record: marquez_v_screen_actors_guild_merits_1998-11-03.md -->
 
 **Case and dockets:** Marquez v. Screen Actors Guild, Inc., No. 97-1056.
+
 **Event and date:** Merits decision; 1998-11-03. Argued October 5, 1998.
 
-## Assignment statement
+### Opinion form
+
+**Counted lead opinion:** Yes. One signed Opinion of the Court after plenary review.
+
+One signed Opinion of the Court after plenary review. The case was argued, and its two related but distinct legal questions require a precedential explanation applying the received fair-representation standard and separating judicial from Board responsibility. Neither legal question calls for a per curiam procedural disposition or a separate lead opinion. The two existing remands require preservation, not new opinion divisions. This form is fixed on the case's legal work before counts or an author are considered.
+
+No separate writing performs additional legal work in this opinion. The common opinion expressly preserves the substantive cautions supporting Kennedy and Thomas's reconciled full joins: lawful statutory wording provides no defense to a supported deception claim, and the wording may be relevant evidence of actual misconduct. Their historical separate writing is not imported automatically. No factual claim about communications to the employer is added.
+
+### Assignment statement
 
 The fixed form is one signed plenary lead. The Chief is a member of the tentative judgment coalition and directly supports the whole opinion, so Chief Justice Stone-Zsela assigns. The following counts were independently checked against the actual earlier Records' Public Projection opinion tables, with the no-Git counting helper as a cross-check; no prior assignment tally supplies a count.
 
 | Justice | Signed plenary leads before assignment | Eligible for entire lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes | Yes |
+| Stone-Zsela | 2 | Yes | No |
 | Stevens | 0 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 0 | Yes | Yes |
-| Kennedy | 1 | Yes | Yes |
+| Kennedy | 0 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
 | Breyer | 0 | Yes | Yes |
 
-Six earlier signed plenary leads count: Wright (Kennedy), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), and Griffin / Langley (Stone-Zsela). The last counted event is Griffin / Langley, October 29, 1998. The unsigned Louisiana supplemental decree and separate writings do not count. All nine directly support every governing proposition and qualification, so all nine are eligible; the minimum eligible count is zero, and the one-above-minimum pool includes all nine.
+Six earlier signed plenary leads count: Wright (Stone-Zsela), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), and Griffin / Langley (Stone-Zsela). The last counted event is Griffin / Langley, October 29, 1998. The unsigned Louisiana supplemental decree and separate writings do not count. All nine directly support every governing proposition and qualification, so all nine are eligible; the minimum eligible count is zero; the pool contains all eight Associates, while Stone-Zsela at two is outside it.
 
 **Assignment:** Stevens writes the entire Opinion of the Court. Fit governs: the common ground is settled, and no unresolved formulation objection requires expansion. The opinion must apply O'Neill's tripartite negotiation-duty framework while separating facial contract wording from actual enforcement and placing an independent statutory dispute with the Board without disabling a genuine representation action. Stevens's O'Neill opinion supplies concrete experience with the first distinction, and his full Beck join supports preserving the governing financial and judicial-action limits. This combination fits the actual coordination work; prior authorship itself is not an eligibility rule or automatic entitlement.
 
-Scalia and Breyer are the other zero-count candidates. Scalia can carry the statutory-language boundary and Breyer the Board/court allocation; neither has a recorded join objection that authorship must resolve. Stevens is selected for coordinating the negotiation standard with the unchanged actual-conduct protections, rather than adding a new textual code or administrative balancing inquiry. Stone's approved position also fully supports the separation of authority, merits and relief and would permit him to write. It supplies no unique accommodation or other concrete authorship advantage here; Stevens can carry that objective at the lower count. No candidate is excluded for experience, style, ability or historical authorship.
+Scalia, Kennedy and Breyer are the other zero-count candidates. Scalia can carry the statutory-language boundary and Breyer the Board/court allocation; neither has a recorded join objection that authorship must resolve. Stevens is selected for coordinating the negotiation standard with the unchanged actual-conduct protections, rather than adding a new textual code or administrative balancing inquiry. Stone's approved position also fully supports the separation of authority, merits and relief and would permit him to write. It supplies no unique accommodation or other concrete authorship advantage here; Stevens can carry that objective at the lower count. No candidate is excluded for experience, style, ability or historical authorship.
 
 Final compatibility confirms the assigned opinion retains all nine direct joins. No vote, governing proposition, form or remedy was changed to obtain this assignment, and no draft negotiation is invented.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
@@ -303,29 +493,98 @@ The author and all eight joining Justices directly support the entire opinion. N
 <!-- source-record: naacp_los_angeles_branch_v_jones_merits_1998-11-05.md -->
 
 **Case and dockets:** NAACP, Los Angeles Branch v. Jones, No. 97-1840; Ninth Circuit No. 96-56455; judgment below, 131 F.3d 1317.
+
 **Event and date:** Reasoned threshold decision after full merits briefing; 1998-11-05; October Term 1998, chunk 1.
+
+**Case and dockets:** NAACP, Los Angeles Branch v. Jones, No. 97-1840; Ninth Circuit No. 96-56455; judgment below, 131 F.3d 1317.
+**Event and date:** Reasoned threshold decision after full merits briefing; 1998-11-05; October Term 1998, chunk 1.
+**Result:** Vacate the Ninth Circuit judgment and remand for an actual Article III standing determination before any merits ruling, 9-0; both constitutional merits components remain unadjudicated.
+**Version / lineage:** Original decision completing the previously stopped matter. The user identifies commit 6dc56753 as the chunk 1 Run preserving the Associates' freezes and commit 95515c52 as the approved October 27, 2026 Stone revision. No completed NAACP adjudication is replaced; those commit references are supplied provenance, with Git verification reserved to the operator.
+
+## Event, channel and source boundaries
+
+This Record fills only NAACP's existing November 5, 1998 chronological slot. It changes no event date, creates no additional event and does not reopen another completed assignment. The prior grant is an opening inventory premise; this Run enters no grant order. Review is by certiorari of the Ninth Circuit's judgment affirming dismissal. The fixed neutral packet and its supplement establish the claim, judgment below and threshold defect. Research cutoff: November 5, 1998.
+
+The [original chunk preflight](../runtime/OT_1998CHUNK1_PREFLIGHT.md)'s bounded routine premise supplies completed ordinary merits briefing for the already-granted scheduled matter. It does not establish an argument date or a precise submission or briefing date. This is a signed, reasoned threshold disposition after that review, not a new summary grant or an interim-relief application. Its legal work is to apply actual-jurisdiction requirements while explaining why the record permits neither a merits affirmance nor immediate dismissal of every plaintiff. That work determines the single signed opinion form independently of assignment counts; it supplies no extra opinion part or case division.
+
+All nine Justices were seated at the assumed ordinary submission and remain seated on November 5: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No case-specific nonparticipation is established. Nine participants supply the six-member quorum; five votes would control the judgment. The August 3, 1994 circuit allotments remain unchanged. This is appellate review, not an Engine section 10 application; no separate Circuit Justice explanation or certification is required.
+
+## Posture, questions and entering law
+
+The plaintiffs challenge the absence of public funding for judicial campaigns and reimbursement for optional sample-ballot statements, seeking declaratory and injunctive relief. The published opinion describes Lindner as a former judicial candidate and the others as voters and voter associations. The District Court dismissed Secretary Jones for lack of pleaded conduct and the county defendants for lack of injury in fact. The Ninth Circuit treated the statewide challenge as encompassing Jones, expressly assumed standing and rejected the constitutional merits. The Court reviews that judgment without inventing the complete complaint, a future candidacy or additional prospective exposure.
+
+The [refreshed entering-law reading copy](../entering-law/NAACP_EFFECTIVE.md) copies the relevant opening law and identifies the earlier effective current-term decisions. *Lujan* supplies concrete personal injury, causation and likely redress, with support appropriate to each litigation stage; the operative Standards and Tests entry is **Concrete personal interests and procedural citizen-suit standing**, present operation effective June 12, 1992. Its procedural-right and citizen-suit qualifications are not invoked to create an exception for these election claims. *Bennett* applies supported pleading-stage causal and remedial links without demanding certainty of changed third-party choices. *Steel Co.*, effective June 2, 1997, forbids assumed disputed Article III power for contested merits and leaves nonmerits sequencing nonexhaustive. Its preserved *Norton* and *Avrech* settings require merits already controlled by other decisions; apparent weakness alone does not establish that setting. *Smith*, September 21, 1998, decides a different subsidy on its actual burden, not this claim or standing dispute.
+
+The eight earlier OT1998 events through Marquez have been checked through their current public law projections. FOP's supported official-supply injury, Hiley's redressable employment injury and Peoples Rights' supported pre-enforcement exposure do not determine standing in this complaint. The firearms, sentencing, original-boundary and labor holdings supply no displacement of the governing Article III rule. Coalition, Pfaff and Kravitz are later events and supply no entering law. The complaint's complete injury allegations remain unavailable in the published account; that source limit permits this bounded remand without deciding whether any named plaintiff actually has standing. No litigant default, new evidentiary hearing, amendment entitlement or production order is inferred from the source gap.
+
+## Stone's approved position and final compatibility
+
+The approved Section II was mechanically regenerated from the brief and copied, without substantive editing, into [the scoped Stone supplement](../runtime/OT_1998CHUNK1_NAACP_STONE.md). The October 27, 2026 revision expressly supports vacatur and remand for an actual standing determination under *Lujan* and *Steel Co.* before merits. It also directs that both merits questions remain open if jurisdiction is established. Stone joins the entire confined opinion and judgment on that express ground. No standing-fallback use, conditional merits adoption, substantive narrowing or clerical change is needed. His retained Issue 1 and Issue 2 merits views are not reached, are not published in a separate writing, do not control the remand and enter no current-law or public-position projection.
+
+## Judgment, opinions and law of the decision
+
+One judgment disposes of the threshold defect for both claims: vacatur and remand, 9-0. All nine support the same rule, remedy and nonreach. No merits vote is inferred from their threshold votes. Scalia writes for the Court; all eight other Justices join in full. No separate writing performs additional legal work. The controlling holding, explanation, exact precedent treatment, law after decision and procedural mandate are set out in full in the Public Projection below and form the controlling-holding section of this Record. There is no independently sufficient merits alternative and no Marks issue.
+
+| Component | Judgment or reach | Supporting Justices | Contrary position | Legal ground and remedy |
+|---|---|---|---|---|
+| Disputed Article III standing | Vacate and remand, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None | Actual standing determination under Lujan and Steel Co.; no merits ruling first |
+| Wealth-primary / campaign-financing merits | Not reached; same 9-Justice threshold disposition | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None | Remain open if jurisdiction is established; no funding order or merits affirmance |
+| Optional candidate-statement charge | Not reached; same 9-Justice threshold disposition | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None | Remains open if jurisdiction is established; no fee approval or free-publication order |
+
+## Continuity and downstream dependence
+
+This terminal Supreme Court review ends the formerly stopped grant-stage matter and returns the case to the Ninth Circuit under the bounded mandate. Ordinary lower-court proceedings remain; no new Supreme Court event, date, filing condition, roster change or allotment change is supplied. There are no published noncontrolling positions to carry from this decision.
+
+Every existing OT1998 Record dated on or after November 5 was checked: Coalition and Pfaff on November 10, and Kravitz on November 12. Coalition rests on supported injury findings and a fitted preliminary remedy; Pfaff presents an actual patent controversy; Kravitz rests on a real damages dispute while preserving proof of private injury and loss. None assumes the disputed standing left unresolved here. No later result changes. Section 8 expressly preserves their completed Breyer, Scalia and Kennedy assignments when this later-written Record enters with its earlier effective date. Their original assignment statements remain historical accounts, not tallies to be rewritten. This signed lead enters all future applicable recounts. The separate [assembly validation receipt](../audit/NAACP_ASSEMBLY_VALIDATION.md) records the full check and its limits.
+
+## Adaptive audit annex
+
+### Frozen Associates and reconciliation
+
+The frozen NAACP neutral packet, supplement, commitments and final reconciliation are reused unchanged. The original neutral/model and reconciliation stages remain physically separate; this resumed context performs assembly only. The next table is copied directly from the frozen final reconciliation, not reauthored.
+
+| Justice | Reconciled position and sufficient authority | Material boundary |
+|---|---|---|
+| Stevens | Vacate for actual standing determination; Steel Co.'s governing rule and Lujan apply. His Smith opinion supplies no complete resolution of this distinct claim. | His statutory-first Steel Co. position does not authorize constitutional merits on assumed power. No conversion of an unsuccessful legal theory into lack of factual injury. |
+| O'Connor | Same, under her Steel Co. Part I join and Lujan. | Preserve her nonexhaustive sequencing reservation and the confined already-controlled settings; neither resolves this contested claim. |
+| Scalia | Same, under his Steel Co. I–II position and Lujan. | No merits shortcut, invented prospective exposure or assumed omission from the full complaint. |
+| Kennedy | Same, under his Steel Co. Part I and Smith joins. | Preserve nonmerits sequencing flexibility; determine jurisdiction before this disputed pamphlet-burden merits question. |
+| Souter | Same, under governing Steel Co. law and Lujan. | His statutory-first position identifies no statutory disposition here; no advisory rejection of the financing claim. |
+| Thomas | Same, under Steel Co. and personal-injury requirements. | No jurisdiction supplied by a broad no-subsidy proposition or unsupported frivolousness label. |
+| Ginsburg | Same, applying Steel Co. and her Smith join. | A charge can cause injury even if constitutional; distinguish injury from ultimate entitlement. |
+| Breyer | Same, under Steel Co.'s actual-redress requirement and Smith's limited reach. | Practical merits simplicity does not establish an exceptional sequence; no universal ordering rule for every threshold issue. |
+
+Every Associate joins the entire final opinion: it decides only the actual-jurisdiction requirement, preserves stage-appropriate support and the nonexhaustive sequencing qualification, invents no complaint allegation, and requires no merits result. Stevens, Souter and Ginsburg's former statutory-first positions supply no statutory disposition of this constitutional challenge. O'Connor, Kennedy and Breyer retain their limits against a universal sequence for every nonmerits issue. Scalia and Thomas's personal-injury discipline supplies no finding about allegations the published account omits. These are compatibility checks against existing commitments; no vote or join changes, new accommodation, draft history or renewed reconciliation is claimed.
+
+There is no historical Supreme Court merits comparator or lineup for this supplied lower-court grant. The Ninth Circuit's judgment establishes posture, not a Justice's historical position. No Associate historical departure or imported authorship is recorded. The commitments' strongest merits-affirmance path remains unadopted; immediate dismissal would require an unsupported characterization of the full complaint. Harper, Bullock, Lubin and Buckley acquire no new treatment through this threshold decision.
 
 ### Section 8 assignment
 
-The shared ground and signed opinion form stated above precede the balance inquiry. Stone joins the judgment and every governing proposition, so he assigns. The seven preceding counted leads were independently recounted from the current term's actual opinion tables: Wright/Kennedy (October 5), FOP/Souter (October 7), Hiley/O'Connor (October 9), Peoples Rights/Thomas (October 15), Franklyn/Gonzalez/Ginsburg (October 22), Griffin/Langley/Stone-Zsela (October 29), and Marquez/Stevens (November 3). Louisiana's October 13 unsigned decree and all separate writings count zero. The last counted event is Marquez, November 3, 1998. The three November 10-12 leads are excluded from this November 5 assignment despite already having Records.
+The shared ground and signed opinion form stated above precede the balance inquiry. Stone joins the judgment and every governing proposition, so he assigns. The seven preceding counted leads were independently recounted from the current term's actual opinion tables: Wright/Stone-Zsela (October 5), FOP/Souter (October 7), Hiley/O'Connor (October 9), Peoples Rights/Thomas (October 15), Franklyn/Gonzalez/Ginsburg (October 22), Griffin/Langley/Stone-Zsela (October 29), and Marquez/Stevens (November 3). Louisiana's October 13 unsigned decree and all separate writings count zero. The last counted event is Marquez, November 3, 1998. The three November 10-12 leads are excluded from this November 5 assignment despite already having Records.
 
 | Justice | Count before assignment | Eligible for entire opinion | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes; express approved position | Yes |
+| Stone-Zsela | 2 | Yes; express approved position | Yes |
 | Stevens | 1 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 0 | Yes | Yes |
-| Kennedy | 1 | Yes | Yes |
+| Kennedy | 0 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
 | Breyer | 0 | Yes | Yes |
 
-All nine are eligible because each supports every proposition and limit of the proposed opinion. The minimum is zero and all nine lie no more than one above it. **Assignment: Scalia.** Fit governs; no expansion is necessary. His frozen position combines the jurisdiction-before-contested-merits rule with Lujan's personal-injury discipline and the refusal to infer missing allegations from an incomplete account. His date-eligible Lujan, Bennett and Steel Co. writings perform that precise work. Breyer is the strongest zero-count alternative through his actual-redress and confined-sequencing grounds; Scalia's combined position more directly addresses both reasons for this remand. Stone can carry the same rule, but has one counted lead, offers no necessary new accommodation, and has no concrete advantage over Scalia for this application. Earlier authorship is evidence of fit, not an eligibility restriction or automatic assignment. No later-career evidence is used.
+All nine are eligible because each supports every proposition and limit of the proposed opinion. The minimum is zero; all eight Associates are within one, while Stone-Zsela at two is outside the pool. **Assignment: Scalia.** Fit governs; no expansion is necessary. His frozen position combines the jurisdiction-before-contested-merits rule with Lujan's personal-injury discipline and the refusal to infer missing allegations from an incomplete account. His date-eligible Lujan, Bennett and Steel Co. writings perform that precise work. Breyer is the strongest zero-count alternative through his actual-redress and confined-sequencing grounds; Scalia's combined position more directly addresses both reasons for this remand. Stone can carry the same rule, but has two counted leads, offers no necessary new accommodation, and has no concrete advantage over Scalia for this application. Earlier authorship is evidence of fit, not an eligibility restriction or automatic assignment. No later-career evidence is used.
 
-The opinion remains one signed lead after full merits briefing although the constitutional merits are not reached. It counts once for Scalia in subsequent assignments. A Record committed later with an earlier effective date enters later counts and reopens no completed assignment. After all twelve current Records, future recounts include eleven leads: Scalia 2, Kennedy 2, and Stone-Zsela, Stevens, O'Connor, Souter, Thomas, Ginsburg and Breyer 1 each. These totals are a check, not a substitute for the next required recount.
+The opinion remains one signed lead after full merits briefing although the constitutional merits are not reached. It counts once for Scalia in subsequent assignments. A Record committed later with an earlier effective date enters later counts and reopens no completed assignment. After all twelve current Records, future recounts include eleven leads: Stone-Zsela and Scalia 2 each, and Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer 1 each. These totals are a check, not a substitute for the next required recount.
 
-## Opinion Topology
+## Sources and validation status
+
+The source map consists of the unchanged [neutral packet](../freeze/OT_1998CHUNK1_NAACP_NEUTRAL.md), [neutral supplement](../freeze/OT_1998CHUNK1_NAACP_NEUTRAL_SUPPLEMENT.md), [commitments](../freeze/OT_1998CHUNK1_NAACP_COMMITMENTS.md), [final reconciliation](../freeze/OT_1998CHUNK1_NAACP_RECONCILED.md), refreshed Stone copy and entering-law copy. The supplement's published Ninth Circuit source supplies procedural facts; the opening authorities and earlier effective current Records supply law. The ordinary briefing premise and final assignment are simulation inferences, not recovered historical filings or author facts. No original complaint or unreported allegation is claimed read. No fresh external fact, reconstruction of a material injury, post-event authority or statutory quotation is added.
+
+Validated substantive assembly: revised Stone compatibility; unchanged eight-Associate commitments; nine participants and nine full joins; component-specific nonreach and remedy; signed opinion form and balance pool; earlier-law confirmation; and no material dependence of a later result or author. Mechanical projection, preservation and workspace checks are recorded with actual results in the linked assembly validation receipt. The Record is durably written at `records/naacp_los_angeles_branch_v_jones_merits_1998-11-05.md` and incorporated in the current-term workspace on October 27, 2026, effective November 5, 1998. No Git command or repository commit is performed; Git provenance checking and commitment remain with the operator.
+
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -338,9 +597,10 @@ No partial join, judgment-only concurrence or separate writing issues.
 <!-- source-record: coalition_for_economic_equity_v_wilson_merits_1998-11-10.md -->
 
 **Case and dockets:** Coalition for Economic Equity v. Wilson; Ninth Circuit Nos. 97-15030 and 97-15031; 122 F.3d 692. No separately established Supreme Court docket.
+
 **Event and date:** Plenary merits review of preliminary-injunction appeal; 1998-11-10; October Term 1998, chunk 1.
 
-## Opinion form, assignment and circulation
+### Opinion form, assignment and circulation
 
 Before any count or author choice, one signed plenary opinion is selected: Parts I-II explain the distinct constitutional issues, Part III resolves the shared statutory question, and Part IV supplies the connected preliminary remedy. These are aspects of one appellate judgment. A single author can carry all majority propositions; no division or combination is used to alter author eligibility. A separate dissent preserves the four Associates' constitutional grounds and joins Part III. Final compatibility suffices; no fictional draft exchange or changed vote is asserted.
 
@@ -350,17 +610,17 @@ Fresh recount from actual prior public opinion tables gives seven signed leads. 
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 1 |
+| Stone-Zsela | 2 |
 | Stevens | 1 |
 | O'Connor | 1 |
 | Scalia | 0 |
-| Kennedy | 1 |
+| Kennedy | 0 |
 | Souter | 1 |
 | Thomas | 1 |
 | Ginsburg | 1 |
 | Breyer | 0 |
 
-**Eligible authors for the whole lead:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. All five support every constitutional, statutory and remedial proposition in full; Stone's eligibility comes from his approved complete core, not a fallback or a severable-part inference. The other four support Part III but oppose the other governing grounds, so they cannot carry this already fixed single opinion. **Balance pool:** all five eligible Justices; minimum zero, permitted maximum one. **Author chosen:** Breyer.
+**Eligible authors for the whole lead:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. All five support every constitutional, statutory and remedial proposition in full; Stone's eligibility comes from his approved complete core, not a fallback or a severable-part inference. The other four support Part III but oppose the other governing grounds, so they cannot carry this already fixed single opinion. **Balance pool:** Stevens, Souter, Ginsburg, Breyer; minimum 0, ceiling 1. **Author chosen:** Breyer.
 
 Breyer's frozen position expressly connects the supported political barrier with ordinary preliminary-relief prerequisites, separate sex analysis, lawful-program limits and the transition, existing-order, funding and severability provisions. His actual Romer and Hopwood joins and Engineering Contractors separate-opinion join support treating the legal force of subsidiary findings independently while preserving a fitted remedy. That is this opinion's principal coordination task. Souter is the strongest alternative because his Romer opinion supplies the direct political-process boundary, but Breyer can preserve that already shared boundary and the full remedial coordination equally well and has zero counted leads to Souter's one. Ginsburg's distinct sex-analysis position likewise fits, with one lead. Stone's approved formulation integrates the necessary distinctions, but the frozen coalition needs no new accommodation or specially personal explanation from him; Breyer can advance that exact approved objective equally well with the lower count. Office, controversy, perceived ability and a numerical need for a fifth vote supply no extra authorship preference. Breyer receives one counted lead; no other count changes.
 
@@ -368,7 +628,7 @@ O'Connor writes the separate partial concurrence/dissent, joined by Scalia, Kenn
 
 **Counted lead opinion:** Yes.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
@@ -380,31 +640,38 @@ O'Connor writes the separate partial concurrence/dissent, joined by Scalia, Kenn
 <!-- source-record: pfaff_v_wells_electronics_merits_1998-11-10.md -->
 
 **Case and dockets:** Pfaff v. Wells Electronics, Inc., No. 97-1130.
+
 **Event and date:** Plenary merits decision; 1998-11-10. Argued October 6, 1998.
 
-## Assignment statement
+### Opinion form
+
+**Counted lead opinion:** Yes.
+
+One signed plenary Opinion of the Court states a disputed statutory trigger, identifies its separate cumulative requirements and applies them to the supported record. No separate opinion or per curiam form is needed. This form and the governing propositions were fixed before counts or an author were considered.
+
+### Assignment statement
 
 Chief Justice Stone-Zsela directly supports the entire rationale and is in the judgment coalition, so he assigns. The actual prior Record opinion tables, independently inspected and cross-checked by the no-Git counting helper, give the following counts:
 
 | Justice | Signed plenary leads before assignment | Eligible for entire lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes | Yes |
+| Stone-Zsela | 2 | Yes | No |
 | Stevens | 1 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 0 | Yes | Yes |
-| Kennedy | 1 | Yes | Yes |
+| Kennedy | 0 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
 | Breyer | 1 | Yes | Yes |
 
-Eight prior signed leads count: Wright (Kennedy), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), Griffin / Langley (Stone-Zsela), Marquez (Stevens), and Coalition (Breyer). Coalition, November 10, 1998, is the last counted event and precedes Pfaff alphabetically. Louisiana's unsigned decree and separate writings do not count. All nine directly support every governing proposition, so all are eligible. The minimum is zero; all nine fall within the one-above-minimum balance pool.
+Eight prior signed leads count: Wright (Stone-Zsela), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), Griffin / Langley (Stone-Zsela), Marquez (Stevens), and Coalition (Breyer). Coalition, November 10, 1998, is the last counted event and precedes Pfaff alphabetically. Louisiana's unsigned decree and separate writings do not count. All nine directly support every governing proposition, so all are eligible. The minimum is zero; all eight Associates are in the balance pool, while Stone-Zsela at two is outside it.
 
 **Assignment:** Scalia writes the complete Opinion of the Court. Fit governs because the common ground is settled and no formulation disagreement requires expansion. His frozen analysis specifically preserves the separate statutory sale and invention conditions, rejects a commercial-strength balancing substitute and rejects an extra prototype condition absent from the statute. That is the work this opinion performs, with enabling readiness providing the objective boundary. His Markman and Warner-Jenkinson joins support the necessary claim-specific application without treating either case as already deciding timing.
 
 Souter's claim-construction work and O'Connor's Bonito Boats opinion also supply relevant capabilities, but no contested technical fact or broader patent-system reconstruction requires their authorship. Stone's approved position carries the same commercial-commitment and enabling-readiness distinction and would permit self-assignment. It supplies no unique necessary accommodation or other concrete advantage here; Scalia can implement that objective at the lower count. No Justice is excluded for experience, reputation, historical authorship or ability. Counts did not determine the form, divide the holding or alter eligibility. Final compatibility confirms nine direct joins without changed commitments or invented circulation negotiations.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
@@ -417,31 +684,38 @@ All nine Justices directly join the entire opinion. There are no separate writin
 <!-- source-record: merrill_lynch_v_kravitz_merits_1998-11-12.md -->
 
 **Case and dockets:** Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768.
+
 **Event and date:** Plenary merits decision after full merits briefing; 1998-11-12. No argument date is supplied.
 
-## Assignment statement
+### Opinion form
+
+**Counted lead opinion:** Yes.
+
+One signed plenary Opinion of the Court and one concurrence by Chief Justice Stone-Zsela issue. The lead resolves the sufficient knowing-deception theory, applies it to the summary-judgment record and states the private-action and contemporary-market limits. The concurrence preserves Stone's approved broader reckless-deception position. No separate Associate opinion or per curiam disposition is needed. Form and governing propositions were fixed before the recount or author selection. The concurrence is not another counted lead.
+
+### Assignment statement
 
 Chief Justice Stone-Zsela is in the judgment coalition and directly supports the full common opinion, so he assigns. A fresh independent recount of the actual prior Record opinion tables, cross-checked by the no-Git helper, gives:
 
 | Justice | Signed plenary leads before assignment | Eligible for entire lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes | Yes |
+| Stone-Zsela | 2 | Yes | No |
 | Stevens | 1 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 1 | Yes | Yes |
-| Kennedy | 1 | Yes | Yes |
+| Kennedy | 0 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
 | Breyer | 1 | Yes | Yes |
 
-The nine earlier counted leads are Wright (Kennedy), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), Griffin / Langley (Stone-Zsela), Marquez (Stevens), Coalition (Breyer), and Pfaff (Scalia). The November 10 events are ordered alphabetically, making Pfaff the last counted event. The unsigned Louisiana decree and separate writings are excluded. All nine support every proposition of the common lead, so all nine are eligible. The minimum is one, and all nine are within the balance pool.
+The nine earlier counted leads are Wright (Stone-Zsela), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), Griffin / Langley (Stone-Zsela), Marquez (Stevens), Coalition (Breyer), and Pfaff (Scalia). The November 10 events are ordered alphabetically, making Pfaff the last counted event. The unsigned Louisiana decree and separate writings are excluded. All nine support every proposition of the common lead, so all nine are eligible. The minimum is zero; all eight Associates are in the balance pool, while Stone-Zsela at two is outside it.
 
 **Assignment:** Kennedy writes the entire Opinion of the Court. Fit governs: the common knowing-deception ground and limits are supported without an unresolved accommodation needed to secure a join. His First Jersey opinion supplies direct experience identifying a broker's implied transaction representation and separating its deception from ordinary fiduciary unfairness. His frozen Kravitz commitment expressly distinguishes those proved SEC facts from the present private plaintiffs' still-unproved reliance, injury and damages. The actual task is to carry that distinction through Rule 56 and contemporary execution evidence, not merely to repeat a precedent or expand assistance liability.
 
-Stevens offers relevant deception and culpability experience through Central Bank and O'Hagan, but this disposition needs no broader assistance or source-deception route. Stone's approved position can carry the direct representation, practical availability and private-proof distinctions as well, and his full join makes him eligible. Kennedy's specific treatment of the implied broker transaction, paired with his recorded insistence on the private-action distinction, offers the more concrete fit for the common opinion. Stone's broader recklessness proposal remains separately published and is neither a necessary accommodation nor a reason to enlarge the lead. No author is excluded for capability, reputation or earlier authorship; equal counts do not create an automatic rotation or entitlement. The form, proposition scope and joins did not change to obtain this assignment.
+Stevens offers relevant deception and culpability experience through Central Bank and O'Hagan, but this disposition needs no broader assistance or source-deception route. Stone's approved position can carry the direct representation, practical availability and private-proof distinctions as well, and his full join makes him eligible. Kennedy's specific treatment of the implied broker transaction, paired with his recorded insistence on the private-action distinction, offers the more concrete fit for the common opinion. Stone's broader recklessness proposal remains separately published and is neither a necessary accommodation nor a reason to enlarge the lead. No author is excluded for capability, reputation or earlier authorship; counts do not create an automatic rotation or entitlement. The form, proposition scope and joins did not change to obtain this assignment.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
@@ -455,23 +729,24 @@ All nine Justices directly join both controlling holdings. Stone-Zsela's broader
 <!-- source-record: wright_v_universal_maritime_service_corp_merits_1998-11-16.md -->
 
 **Case and dockets:** Wright v. Universal Maritime Service Corp., No. 97-889; Fourth Circuit No. 96-2850; reported at 525 U.S. 70.
+
 **Event and date:** Merits decision, 1998-11-16; October Term 1998, chunk 2.
 
-## Form, opinion structure, and assignment eligibility
+### Form, opinion structure, and assignment eligibility
 
 The form is one signed plenary opinion because the Court resolves a contested arbitration-scope rule after argument and applies it to two independent instruments. The operative propositions and form precede any count. All nine support vacatur and remand and directly join the complete narrow rule, applications and limits. No separate writing is needed.
 
-## Final assignment under Engine section 8
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes | Yes |
+| Stone-Zsela | 2 | Yes | Yes |
 | Stevens | 1 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
@@ -479,11 +754,11 @@ The form is one signed plenary opinion because the Court resolves a contested ar
 
 Last counted event: Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, 1998-11-12, delivered by Kennedy. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Breyer.**
 
-Chief Justice Stone-Zsela assigns the complete opinion because he joins the unanimous judgment and every governing proposition on his approved core. Fit governs: no unresolved formulation objection requires expansion. Breyer's First Options and Mastrobuono opinions perform the precise work required here, separating antecedent assent from arbitration's advantages and reading different contractual instruments without supplying omitted language. His frozen position also preserves the independent statutory right and the unresolved enforceability question. Souter is the strongest equal-count alternative through his instrument-specific joins; Breyer's demonstrated coordination of assent, decisionmaker and instrument construction provides the concrete advantage for this opinion. Stone's approved clarity rule can be carried fully by either and adds no accommodation needing his authorship; Breyer has the same count and the more directly demonstrated fit for the two-instrument analysis. Neither historical authorship nor general subject preference supplies the choice. Breyer receives one counted lead.
+Chief Justice Stone-Zsela assigns the complete opinion because he joins the unanimous judgment and every governing proposition on his approved core. Fit governs: no unresolved formulation objection requires expansion. Breyer's First Options and Mastrobuono opinions perform the precise work required here, separating antecedent assent from arbitration's advantages and reading different contractual instruments without supplying omitted language. His frozen position also preserves the independent statutory right and the unresolved enforceability question. Souter is the strongest equal-count alternative through his instrument-specific joins; Breyer's demonstrated coordination of assent, decisionmaker and instrument construction provides the concrete advantage for this opinion. Stone's approved clarity rule can be carried fully by either and adds no accommodation needing his authorship; Breyer has the lower count and the more directly demonstrated fit for the two-instrument analysis. Neither historical authorship nor general subject preference supplies the choice. Breyer receives one counted lead.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -496,23 +771,24 @@ All nine join the opinion in full. No separate writing is filed.
 <!-- source-record: dodd_v_hood_river_county_merits_1998-11-19.md -->
 
 **Case and dockets:** Dodd v. Hood River County, No. 98-54; Ninth Circuit No. 97-35124; 136 F.3d 1219.
+
 **Event and date:** Merits decision, 1998-11-19; October Term 1998, chunk 2.
 
-## Form, opinion structure, and assignment eligibility
+### Form, opinion structure, and assignment eligibility
 
 The form is one signed plenary Court opinion with Part I on narrow preclusion, Parts II–IV on the independent federal grounds and actual duration, plus Stone's partial concurrence/dissent. This structure follows the distinct legal grounds and direct joins before any count. Part I has all nine; Parts II–IV have all eight Associates. The eight Associates support full affirmance; Stone joins the preclusion proposition and would remand the federal issues outside it. That proposition is a premise within the single reviewed judgment, not a separately executable disposition.
 
-## Final assignment under Engine section 8
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | No | No |
+| Stone-Zsela | 2 | No | No |
 | Stevens | 1 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
@@ -524,7 +800,7 @@ Stevens is the senior participating Associate in the eight-Justice coalition aff
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -539,19 +815,30 @@ All eight Associate Justices join the entire Court opinion. Stone-Zsela joins Pa
 <!-- source-record: wisconsin_right_to_life_v_paradise_merits_1998-11-24.md -->
 
 **Case and dockets:** Wisconsin Right to Life, Inc. v. Paradise, No. 98-118; Seventh Circuit No. 97-3668.
+
 **Event and date:** Post-grant merits decision, 1998-11-24; October Term 1998, chunk 2.
 
-## Final assignment under Engine section 8
+### Judgment, opinion form, and eligibility
+
+The form is a signed plenary opinion. Its legal work distinguishes two jurisdictional theories, corrects the characterization of a facial claim and explains a contested remand; it is not merely an unexplained procedural order. That form and the two governing propositions are fixed before any assignment count. Judgment: vacate and remand, supported by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; opposed by Scalia and Thomas, who would affirm jurisdictional dismissal without prejudice. Neither side decides Wisconsin's constitutional merits.
+
+The lead opinion states (1) credible personal injury and defendant-linked relief remain necessary in pre-enforcement speech litigation; and (2) the actual facial invalidity/nonenforcement request must receive the correct claim-specific inquiry, requiring this confined remand. The same seven Justices directly join both propositions, application, limits and mandate. Scalia and Thomas accept the general jurisdictional requirements but reject the remand application; their general agreement is not a lead-opinion join.
+
+Eligible under §8 for the complete lead opinion, and independently for each of its two propositions: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. All seven support every proposition in full on approved or frozen grounds. Scalia and Thomas are ineligible for this lead opinion because they oppose its operative application and remedy. Stone has assignment authority as Chief in the judgment coalition.  No lead division is necessary on the substantive compatibility established here.
+
+A substantive dissent by Scalia, joined by Thomas, faithfully expresses their identical frozen absent-threat and nonparty-redress objections. This dissent authorship is outside the balanced lead-assignment rule and introduces no changed vote or ground. No circulation exchange, revised objection or negotiated join is invented.
+
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes | Yes |
+| Stone-Zsela | 2 | Yes | Yes |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | No | No |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | No | No |
 | Ginsburg | 1 | Yes | Yes |
@@ -559,11 +846,11 @@ All eight Associate Justices join the entire Court opinion. Stone-Zsela joins Pa
 
 Last counted event: Dodd v. Hood River County, 1998-11-19, delivered by Stevens. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Stone-Zsela.**
 
-Chief Justice Stone-Zsela assigns because he joins the judgment and every governing proposition on his approved core. He assigns the complete opinion to himself on case-specific fit. Its central task is to separate an actual facial invalidity and nonenforcement claim from universal supervision of future state adjudication, while preserving credible injury, proper defendants, effective relief and the unreviewed abstention question. His approved position expressly coordinates those distinct limits and rejects both presumed standing and an automatic hearing. His actual Steel Co. opinion likewise separates judicial power, disputed merits and permissible relief. Souter is the strongest alternative at the same count: his standing and proper-defendant grounds fully support the result, but Stone's approved formulation more directly integrates the precise remedial misunderstanding with the retained adverse enforcement evidence. That concrete coordination advantage, rather than the Chief's office or the speech subject, supports self-assignment. O'Connor and Ginsburg also remain fully eligible at the same count; no lower-count member is bypassed. Fit governs because the seven already share the complete limited ground, and no new accommodation or expanded join is necessary. Stone-Zsela receives one counted lead.
+Chief Justice Stone-Zsela assigns because he joins the judgment and every governing proposition on his approved core. He assigns the complete opinion to himself on case-specific fit. Its central task is to separate an actual facial invalidity and nonenforcement claim from universal supervision of future state adjudication, while preserving credible injury, proper defendants, effective relief and the unreviewed abstention question. His approved position expressly coordinates those distinct limits and rejects both presumed standing and an automatic hearing. His actual Steel Co. opinion likewise separates judicial power, disputed merits and permissible relief. Souter is the strongest alternative at the lower count of one: his standing and proper-defendant grounds fully support the result, but Stone's approved formulation more directly integrates the precise remedial misunderstanding with the retained adverse enforcement evidence. That concrete coordination advantage, rather than the Chief's office or the speech subject, supports self-assignment. O'Connor, Kennedy and Ginsburg also have one counted lead. Stone's concrete coordination advantage supports the selection within the pool despite those lower counts. Fit governs because the seven already share the complete limited ground, and no new accommodation or expanded join is necessary. Stone-Zsela receives one counted lead.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -577,19 +864,26 @@ The complete Court-opinion coalition is Stone-Zsela, Stevens, O'Connor, Kennedy,
 <!-- source-record: att_universal_card_services_v_rembert_merits_1998-12-01.md -->
 
 **Case and dockets:** AT&T Universal Card Services v. Rembert, No. 98-352.
+
 **Event and date:** Post-grant merits decision, 1998-12-01; October Term 1998, chunk 2.
 
-## Final assignment under Engine section 8
+### Form, coalition, and eligibility
+
+The form is a signed plenary opinion because the Court resolves the statutory fraud standard and reviews its application to a completed trial record. That legal form and the two connected propositions are fixed before any assignment count. All nine Justices affirm. All nine directly join (1) the card-use representation and contemporaneous deceptive-intent rule and (2) affirmance on the supplied record under the correct review standards. The unanimous coalition also preserves the existing independent elements without making unnecessary findings on them. No separate opinion is required by the recorded differences over Field's earlier application.
+
+Eligible under §8 for the entire lead opinion and each of its propositions: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Each fully supports the operative rule, application, remedy and qualifications on approved or frozen grounds. The lead is not expanded into an independent determination of reliance, financial-condition liability, debt amount, presumptions or fees. Stone has assignment authority as Chief in the judgment coalition.  No substantive reason requires division of the lead opinion.
+
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
@@ -597,11 +891,11 @@ The complete Court-opinion coalition is Stone-Zsela, Stevens, O'Connor, Kennedy,
 
 Last counted event: Wisconsin Right to Life, Inc. v. Paradise, 1998-11-24, delivered by Stone-Zsela. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Souter.**
 
-The Chief joins every judgment and proposition and assigns the complete opinion to Souter. Fit governs because all nine already support the narrow fraud-intent rule and the same affirmance; no expansion accommodation is needed. Souter's Field opinion directly separates the statutory common-law fraud inquiry, recipient-specific reliance and review of findings under the correct legal rule. This opinion requires the same discipline: keep subjective repayment intent separate from ability to pay, permit circumstantial proof, and avoid converting the intent disposition into an unmade reliance finding. Ginsburg is the strongest equal-count alternative through her Field and actual-proof positions; Souter's demonstrated coordination of the fraud elements and review rule gives him the closer fit. Stone's approved rule can be expressed equally faithfully by Souter and supplies no unresolved accommodation requiring self-assignment. Souter also has one counted lead to Stone's two, favoring the equally capable lower-count author. Earlier authorship provides evidence of fit, not eligibility by subject ownership. Souter receives one counted lead.
+The Chief joins every judgment and proposition and assigns the complete opinion to Souter. Fit governs because all nine already support the narrow fraud-intent rule and the same affirmance; no expansion accommodation is needed. Souter's Field opinion directly separates the statutory common-law fraud inquiry, recipient-specific reliance and review of findings under the correct legal rule. This opinion requires the same discipline: keep subjective repayment intent separate from ability to pay, permit circumstantial proof, and avoid converting the intent disposition into an unmade reliance finding. Ginsburg is the strongest equal-count alternative through her Field and actual-proof positions; Souter's demonstrated coordination of the fraud elements and review rule gives him the closer fit. Stone's approved rule can be expressed equally faithfully by Souter and supplies no unresolved accommodation requiring self-assignment. Souter also has one counted lead to Stone's three, favoring the equally capable lower-count author. Earlier authorship provides evidence of fit, not eligibility by subject ownership. Souter receives one counted lead.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -614,9 +908,10 @@ All nine Justices join the opinion in full. No separate writing is filed.
 <!-- source-record: minnesota_v_carter_and_johns_merits_1998-12-01.md -->
 
 **Case and dockets:** Minnesota v. Carter and Minnesota v. Johns, No. 97-1147.
+
 **Event and date:** Merits decision, 1998-12-01; argued 1998-10-06.
 
-## Form, propositions and authorship eligibility before any assignment
+### Form, propositions and authorship eligibility before any assignment
 
 One signed lead opinion addresses both reviewed judgments. A topology table is necessary because proposition joins cross the ultimate judgment division and the search application remains fractured. The single petition, shared observation and shared legal questions support one opinion; Carter's proffer and each respondent's personal rights remain distinct. The form and four parts follow the legal structure, not counts.
 
@@ -629,17 +924,17 @@ One full carrier is available: Breyer supports every lead proposition and the op
 
 Assignment authority belongs to O'Connor as the most senior Associate in the actual vacatur coalition. The Chief is outside that judgment coalition. The privacy proposition is not a separately executable judgment component and supplies no separate Chief assignment.  The Associate assignment is not governed by the Chief's balance-pool restriction, but the resulting signed lead counts under §8.
 
-## Final assignment under Engine section 8
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | No | No |
+| Stone-Zsela | 3 | No | No |
 | Stevens | 2 | No | No |
 | O'Connor | 1 | No | No |
 | Scalia | 2 | No | No |
-| Kennedy | 2 | No | No |
+| Kennedy | 1 | No | No |
 | Souter | 2 | No | No |
 | Thomas | 1 | No | No |
 | Ginsburg | 1 | No | No |
@@ -651,7 +946,7 @@ O'Connor, the senior participating Associate in the actual vacatur coalition, as
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -671,23 +966,24 @@ Part I's five Justices are Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Pa
 <!-- source-record: equality_foundation_v_cincinnati_merits_1998-12-03.md -->
 
 **Case and dockets:** Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati; Sixth Circuit Nos. 94-3855 and 94-3973 (merits), No. 94-4280 (fees); 128 F.3d 289.
+
 **Event and date:** Merits decision, 1998-12-03; October Term 1998, chunk 2.
 
-## Form, opinion structure, and assignment eligibility
+### Form, opinion structure, and assignment eligibility
 
 The form is one signed plenary opinion resolving ordinary equal protection and its separate injunction and fee consequences; the governing propositions and single-case form are fixed before counting. Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer directly join all three propositions and all reviewed judgment components. Scalia and Thomas would affirm all components on their recorded rationality ground. A dissent by Scalia, joined by Thomas, expresses their full common position without a lead-assignment count.
 
-## Final assignment under Engine section 8
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | No | No |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 2 | Yes | Yes |
 | Thomas | 1 | No | No |
 | Ginsburg | 1 | Yes | Yes |
@@ -695,11 +991,11 @@ The form is one signed plenary opinion resolving ordinary equal protection and i
 
 Last counted event: Minnesota v. Carter and Minnesota v. Johns, 1998-12-01, delivered by Breyer. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Ginsburg.**
 
-Chief Justice Stone-Zsela assigns all portions from the common seven-Justice judgment coalition. Fit governs; the frozen full joins require no new accommodation. Ginsburg's Romer, Hurley and Coalition positions supply the precise distinction between an ordinary-protection barrier and a demand for preferences, while preserving genuine private expression and relief fitted to the violation. That combination fits both the municipal merits inquiry and the injunction's boundaries. O'Connor is the strongest equal-count alternative: her full Romer join and contrary Coalition position sharply distinguish the two operations, but the present full commitment requires no repair of her objection or expansion through her authorship. Stone's approved core is fully carried by Ginsburg's ordinary-rationality and fitted-relief formulation; his higher count remains eligible, but self-assignment supplies no additional precision or coalition accommodation. Ginsburg receives one counted lead; the common majority on the injunction and dependent fees supplies no reason to divide the opinion. Scalia's dissent, joined by Thomas, expresses their shared municipal-rationality ground and is not counted.
+Chief Justice Stone-Zsela assigns all portions from the common seven-Justice judgment coalition. Fit governs; the frozen full joins require no new accommodation. Ginsburg's Romer, Hurley and Coalition positions supply the precise distinction between an ordinary-protection barrier and a demand for preferences, while preserving genuine private expression and relief fitted to the violation. That combination fits both the municipal merits inquiry and the injunction's boundaries. O'Connor is the strongest equal-count alternative: her full Romer join and contrary Coalition position sharply distinguish the two operations, but the present full commitment requires no repair of her objection or expansion through her authorship. Stone's approved core is fully carried by Ginsburg's ordinary-rationality and fitted-relief formulation; his substantive eligibility remains, but his count of three places him outside the pool and he supplies no additional precision or coalition accommodation. Ginsburg receives one counted lead; the common majority on the injunction and dependent fees supplies no reason to divide the opinion. Scalia's dissent, joined by Thomas, expresses their shared municipal-rationality ground and is not counted.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -713,23 +1009,24 @@ The Court-opinion coalition is Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, 
 <!-- source-record: knowles_v_iowa_merits_1998-12-08.md -->
 
 **Case and dockets:** Knowles v. Iowa, No. 97-7597; 569 N.W.2d 601 (Iowa 1997); reported at 525 U.S. 113.
+
 **Event and date:** Merits decision, 1998-12-08; October Term 1998, chunk 2.
 
-## Form, opinion structure, and assignment eligibility
+### Form, opinion structure, and assignment eligibility
 
 The form is a signed plenary opinion, with Part I stating the constitutional rule and application, Part II the bounded ordinary-remedial-law return, and Stone's separate concurrence preserving his specific suppression direction. This structure follows the actual remedial distinction after argument and is fixed before counts. All nine support reversal and remand and directly join Part I. All eight Associates join Part II. Stone would make the remand expressly require suppression of the fruits and further proceedings on the remaining admissible record.
 
-## Final assignment under Engine section 8
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | No | No |
+| Stone-Zsela | 3 | No | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 2 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 2 | Yes | Yes |
@@ -741,7 +1038,7 @@ Chief Justice Stone-Zsela assigns from the common reversal-and-remand judgment c
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -756,13 +1053,22 @@ All eight Associate Justices join both parts. Stone-Zsela joins Part I only and 
 <!-- source-record: mosley_v_united_states_death_disposition_1998-12-08.md -->
 
 **Case and dockets:** Mosley v. United States, No. 97-7213.
+
 **Event and date:** Post-submission procedural disposition following death, 1998-12-08; October Term 1998, chunk 2.
 
-## Assignment classification
+### Form, disposition, and scope
+
+Before any count or author is considered, the legal work fixes the form as a short per curiam procedural disposition: death ends this personal petition, the granted review must be terminated, and no statutory offense-elements ruling or further relief is supported. This form is not selected for balance reasons. It is excluded from §8's signed plenary lead count and requires no individual lead author selection.
+
+Internal judgment coalition: all nine support vacating only the certiorari grant and dismissing the petition. All eight frozen Associates join M1–M3 at their stated scope; Stone's approved position supports the same action and limits. No person is treated as having joined a posthumous merits decision. No separate opinion is necessary. There is no publicly disclosed numerical tally or individual lineup for the order.
+
+The operative proposition is limited: the supported death after submission ends this personal certiorari proceeding without deciding the original elements question, while the Court disposes of the grant and petition without vacating the lower judgment. No independent holding governs death during appeal of right, substituted estate litigation, fines, restitution, collateral consequences or survivor rights. The complete public procedural rule and explanation appear below. No Marks analysis or other substantive merits holding arises.
+
+### Assignment classification
 
 **Counted lead opinion:** No. The per curiam procedural or summary form is fixed by this event's legal work. It has no signed plenary lead assignment; no opinion count changes.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Public joinder | Scope |
 |---|---|---|---|
@@ -775,25 +1081,26 @@ No separate writing is filed and no individual vote is announced.
 <!-- source-record: mcclellan_federal_credit_union_v_parker_merits_1998-12-09.md -->
 
 **Case and dockets:** McClellan Federal Credit Union v. Parker, No. 98-618.
+
 **Event and date:** Post-grant merits decision, 1998-12-09; October Term 1998, chunk 2.
 
-## Form, coalitions, and assignment eligibility
+### Form, coalitions, and assignment eligibility
 
 The form is a signed plenary opinion because it resolves the statutory election question, the distinct approval requirement and the creditor's appellate standing in a completed merits proceeding. Form and those three propositions are fixed on those legal grounds before considering counts. All nine support affirmance and fully join P1–P3 as frozen and qualified. No separate writing is needed.
 
 Eligible authors for each of P1, P2 and P3 and for the complete lead: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No judgment-only or partial join excludes a Justice. Chief Stone has assignment authority.  No lead division is substantively necessary.
 
-## Final assignment under Engine section 8
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 2 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 2 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 2 | Yes | Yes |
@@ -805,7 +1112,7 @@ Chief Justice Stone-Zsela assigns the complete unanimous opinion. Fit governs: t
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -818,15 +1125,34 @@ All nine join the opinion in full. No separate writing is filed.
 <!-- source-record: calderon_v_coleman_summary_merits_1998-12-14.md -->
 
 **Case and dockets:** Calderon v. Coleman, No. 98-437; Ninth Circuit Nos. 97-99013 and 97-99014; District Court No. C89-1906 RMW.
+
 **Event and date:** Certiorari grant and summary merits disposition, 1998-12-14, October Term 1998.
 
-## Assignment classification
+### Judgment, opinion form and direct joins
+
+The per curiam form follows the petition-stage, confined summary action. It is not selected to affect assignment counts. The action is not a pure unexplained GVR: it decides the governing rule and requires a substantive actual-effect inquiry. Its summary character does not prevent those adopted propositions from controlling.
+
+**Judgment:** Vacate the Ninth Circuit's judgment insofar as it sustains commutation-based relief from the death sentence, and remand, 7–2. Supporting: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Opposing: Stevens and Ginsburg, who would affirm sentence relief if the case is reached. The conviction-relief denial remains undisturbed.
+
+| Per curiam component | Direct joins | Limit |
+|---|---|---|
+| Part I: limited review, assumed constitutional trial error and absence of automatic structural relief | All nine | No underlying accuracy, Teague or default adjudication. |
+| Part II: State-borne Chapman for this defined capital-selection error, including conditional sentence relief if an available error fails that showing | Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer | Five direct joins. Ginsburg's join is doctrinal; she opposes vacatur and further application. |
+| Part III: substantive effect review needs neither prescribed words nor an automatic inference from error; actual record and evidence distinctions | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight joins to the standard-neutral principle and record limits, not unanimous agreement that the existing analysis is insufficient. Stone adds no separate join in this section. |
+| Part IV: existing judgment must be set aside for the unfinished effect inquiry, with the bounded remand and no present harmlessness determination | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Seven agree on the judgment and limited return. They do not all adopt the same harmlessness standard; Part II independently supplies the law governing the remand. |
+| Part V: application of Carriger's pending-capital temporal rule | All eight Associate Justices | Stone reaches the case but adds no independent temporal-law ground. No current-law gap results. |
+
+The actual-insufficiency finding supporting Part IV is confined to an unfinished legally requisite causal assessment. Three of its Associate supporters use different proposed burdens from Part II. The judgment does not manufacture a seven-Justice Chapman opinion or a majority finding that the State has already failed Chapman. Four remand supporters—Stone, O'Connor, Souter and Breyer—would order the Chapman application; Ginsburg independently joins the same rule while disagreeing that another application is needed. Five direct doctrinal joins make that rule governing law. No Marks synthesis or summation of substantial-injury and noncontribution standards supplies it.
+
+The eight-Associate Part III agreement does not become an eight-Justice agreement on Part IV. Stevens and Ginsburg read the actual lower reasons as sufficient under their respective standards. Scalia and Thomas prefer a prisoner substantial-injury showing; Kennedy and Stevens prefer demanding substantial-influence review with genuine grave doubt preventing harmlessness. Their different allocations are preserved in separate writings rather than merged because all concern effect.
+
+### Assignment classification
 
 **Counted lead opinion:** No. The per curiam procedural or summary form is fixed by this event's legal work. It has no signed plenary lead assignment; no opinion count changes.
 
 Thomas delivers the joint concurrence in part and in the judgment, with Scalia joining throughout. Their common O'Neal prisoner-showing position and custody-in-violation ground supply its complete rationale. Thomas's full supported formulation preserves the distinction between substantive correction and a burden of persuasion without importing Scalia's different omitted-purpose analysis from Roy. Kennedy, Stevens and Ginsburg each deliver their distinct positions. This allocation reflects the actual common and separate grounds, imports no historical Coleman authorship, and creates no counted lead. The per curiam form was fixed by the petition-stage summary action before assignment accounting.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope |
 |---|---|---|---|---|
@@ -847,31 +1173,38 @@ Part II controls through five direct doctrinal joins despite the disagreement ov
 <!-- source-record: haddle_v_garrison_merits_1998-12-14.md -->
 
 **Case and dockets:** Haddle v. Garrison, No. 97-1472; reported at 525 U.S. 121.
+
 **Event and date:** Merits decision, 1998-12-14; October Term 1998, chunk 2.
 
-## Final assignment under Engine section 8
+### Form, coalition, and eligibility
+
+The form is a signed plenary opinion because the Court answers the disputed meaning of statutory injury after argument and distinguishes a constitutional entitlement doctrine from the enacted civil remedy. The operative statutory proposition and its remedial reservations are fixed before counting. All nine support reversal and remand; all nine directly join the governing rule and each limit. No separate writing is necessary.
+
+Eligible for the complete lead and every governing portion: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Each fully supports the governing proposition, its application and the reserved elements. Chief Stone has assignment authority.  No substantive reason requires dividing the opinion.
+
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 2 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 2 | Yes | Yes |
 | Thomas | 2 | Yes | Yes |
 | Ginsburg | 2 | Yes | Yes |
-| Breyer | 3 | Yes | Yes |
+| Breyer | 3 | Yes | No |
 
-Last counted event: McClellan Federal Credit Union v. Parker, 1998-12-09, delivered by Thomas. The minimum eligible count is 2; the pool includes eligible authors at no more than 3. **Author chosen: Ginsburg.**
+Last counted event: McClellan Federal Credit Union v. Parker, 1998-12-09, delivered by Thomas. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Ginsburg.**
 
 Chief Justice Stone-Zsela assigns the complete unanimous opinion. Fit governs; all nine directly support the statutory injury rule and the bounded pleading-stage return, without a formulation dispute needing expansion. Ginsburg's Inter-Modal opinion performs the closely corresponding work of protecting an interest against a prohibited interference even though the employer otherwise could withdraw the benefit, while leaving the remaining statutory elements for adjudication. Her Robinson join reinforces the provision-specific protective inquiry. Stevens is the strongest equal-count alternative through Kush's federal-witness clause analysis, but the decisive obstacle here is the erroneous inference from lack of a constitutional employment entitlement, for which Ginsburg's Inter-Modal treatment offers the more direct fit. Stone's approved rejection of that obstacle and preserved conspiracy requirements are fully carried by this formulation; his authorship supplies no further precision or accommodation. Ginsburg remains within the balance pool and receives one counted lead. No separate writing or divided lead is required.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -884,31 +1217,38 @@ All nine join the opinion in full. No separate writing is filed.
 <!-- source-record: nynex_corp_v_discon_merits_1998-12-14.md -->
 
 **Case and dockets:** NYNEX Corp. v. Discon, Inc., No. 96-1570; reported at 525 U.S. 128.
+
 **Event and date:** Merits decision, 1998-12-14; October Term 1998, chunk 2.
 
-## Final assignment under Engine section 8
+### Form, coalition, and eligibility
+
+The form is a signed plenary opinion: the Court resolves the antitrust classification question after argument, explains why fraud alone is not competitive-process injury, and gives a limited multi-claim mandate. Form and N1–N3 are fixed before counts. All nine support both affected judgment components, directly join every controlling proposition and accept each scope limit. No separate writing is necessary.
+
+Eligible for the complete lead and every governing portion: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No judgment-only or partial join excludes any Justice. Chief Stone has assignment authority.  The shared full joins create no reason to divide the opinion.
+
+### Final assignment under Engine section 8
 
 **Counted lead opinion:** Yes. The signed plenary form and substantive propositions were fixed above before this recount. The following counts were freshly obtained from actual preceding Records' Public Projection opinion tables, including earlier same-date events alphabetically; no earlier assignment tally supplies a count.
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 2 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 2 | Yes | Yes |
 | Thomas | 2 | Yes | Yes |
-| Ginsburg | 3 | Yes | Yes |
-| Breyer | 3 | Yes | Yes |
+| Ginsburg | 3 | Yes | No |
+| Breyer | 3 | Yes | No |
 
-Last counted event: Haddle v. Garrison, 1998-12-14, delivered by Ginsburg. The minimum eligible count is 2; the pool includes eligible authors at no more than 3. **Author chosen: Scalia.**
+Last counted event: Haddle v. Garrison, 1998-12-14, delivered by Ginsburg. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Scalia.**
 
-Chief Justice Stone-Zsela assigns the complete unanimous opinion. Fit governs because the classification, competitive-injury requirement and limited two-component remand have settled full joins. Scalia's Business Electronics and actual Khan opinions perform the precise classification work required: distinguishing a vertical arrangement from a category justifying automatic condemnation while preserving proof of competitive harm under the appropriate analysis. His frozen position carries that distinction through the dependent section 2 rationale without dismissing claims outside the grant. Breyer is the strongest pool alternative through his competitive-characteristics analysis and distinction between deception and harm in the removal-services market. Scalia's demonstrated formulation of the threshold classification and its retained limits gives him the advantage for this complete opinion. Stone's approved limited correction is fully preserved; self-assignment adds no necessary coordination or refinement beyond it. Scalia is within the balance pool and receives one counted lead. Both judgment components share all nine joins, so the opinion is not divided.
+Chief Justice Stone-Zsela assigns the complete unanimous opinion. Fit governs because the classification, competitive-injury requirement and limited two-component remand have settled full joins. Scalia's Business Electronics and actual Khan opinions perform the precise classification work required: distinguishing a vertical arrangement from a category justifying automatic condemnation while preserving proof of competitive harm under the appropriate analysis. His frozen position carries that distinction through the dependent section 2 rationale without dismissing claims outside the grant. Kennedy is the strongest pool alternative at one counted lead and fully supports the settled competitive-characteristics and injury distinctions. Breyer's similar substantive support does not place him in the pool at three. Scalia's demonstrated formulation of the threshold classification and its retained limits gives him the advantage for this complete opinion. Stone's approved limited correction is fully preserved; self-assignment adds no necessary coordination or refinement beyond it. Scalia is within the balance pool and receives one counted lead. Both judgment components share all nine joins, so the opinion is not divided.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -921,9 +1261,10 @@ All nine join the opinion in full. No separate writing is filed.
 <!-- source-record: city_of_cincinnati_v_kruse_merits_1998-12-16.md -->
 
 **Case and dockets:** City of Cincinnati v. Kruse, No. 98-454; Sixth Circuit Nos. 97-3193, 97-3194 and 97-3210; 142 F.3d 907.
+
 **Event and date:** Plenary post-grant merits decision, 1998-12-16; October Term 1998, chunk 3.
 
-## Form first, assignment and final compatibility
+### Form first, assignment and final compatibility
 
 Before counts or authors were considered, the settled common rule and distinct municipal justifications called for one signed plenary opinion explaining the expenditure boundary and applying it to the accepted record. No case or proposition is divided or combined to alter eligibility. All nine support the entire judgment and rationale; the Chief assigns. Fit governs, with no unresolved accommodation or expansion bargain.
 
@@ -931,11 +1272,11 @@ Fresh recount from actual preceding current-term Record opinion tables, includin
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 2 |
 | O'Connor | 2 |
 | Scalia | 3 |
-| Kennedy | 2 |
+| Kennedy | 1 |
 | Souter | 2 |
 | Thomas | 2 |
 | Ginsburg | 3 |
@@ -943,13 +1284,13 @@ Fresh recount from actual preceding current-term Record opinion tables, includin
 
 Last counted event: NYNEX, December 14, 1998. Twenty-one signed plenary leads count; unsigned decrees, procedural opinions, summary dispositions and separate writings do not. [Recount source list](../runtime/OT_1998CHUNK3_KRUSE_ASSIGNMENT_RECOUNT.json) records the actual tables used, not prior reported tallies.
 
-**Eligible authors:** all nine; each supports every governing proposition in full. **Balance pool:** all nine, with minimum two and every eligible count no more than three. **Author selected:** Kennedy.
+**Eligible authors:** all nine; each supports every governing proposition in full. **Balance pool:** Stevens, O'Connor, Kennedy, Souter, Thomas; minimum 1, ceiling 2. **Author selected:** Kennedy.
 
-Kennedy's published Colorado Republican and Kentucky Right to Life positions distinguish candidate cash from a particular added burden on expression, which is the central work of this opinion. They also permit him to state the surviving contribution boundaries without converting this result into general financial-regulation immunity. O'Connor is a strong equal-count alternative through her transaction-specific preventive-regulation analysis; Kennedy's directly expressed distinction between the candidate's advocacy and the separate added restraint gives him the narrower case-specific fit. Stone's approved formulation faithfully supports the same work, but offers no concrete advantage over Kennedy's directly relevant published treatment at the same count. No Justice is excluded by experience, prior authorship or perceived ability. This is an assignment inference, not historical authorship.
+Kennedy's published Colorado Republican and Kentucky Right to Life positions distinguish candidate cash from a particular added burden on expression, which is the central work of this opinion. They also permit him to state the surviving contribution boundaries without converting this result into general financial-regulation immunity. O'Connor is a strong pool alternative at two counted leads through her transaction-specific preventive-regulation analysis; Kennedy's directly expressed distinction between the candidate's advocacy and the separate added restraint gives him the narrower case-specific fit. Stone's approved formulation faithfully supports the same work, but offers no concrete advantage over Kennedy's directly relevant published treatment at the lower count of one. No Justice is excluded by experience, prior authorship or perceived ability. This is an assignment inference, not historical authorship.
 
 Final compatibility is complete: each of the nine joins the actual rule, accepted-facts application, noncategorical official-work reservation and affirmance. There is no changed Associate commitment or fictional circulation exchange. Kennedy receives one counted lead; separate writings add none.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -962,9 +1303,12 @@ All nine Justices join the full opinion. No separate writing is filed.
 <!-- source-record: maine_initiative_qualification_admitted_source_1998-12-23.md -->
 
 **Case and dockets:** Maine Secretary of State determination concerning the initiative at issue in Hart v. Gwadosky, No. 98-676.
+
 **Event and date:** Admitted Source Record; administrative determination effective 1998-12-23.
 
-## Opinion Topology
+This source is durably preserved and admitted to current working state during this Run on October 27, 2026. It supplies no vote or opinion assignment and does not count as a Court event. Final deterministic term checks follow integration. Git provenance remains unverified by express instruction.
+
+### Public Opinion Topology
 
 No judicial opinion or vote accompanies the administrative determination.
 
@@ -973,9 +1317,10 @@ No judicial opinion or vote accompanies the administrative determination.
 <!-- source-record: mcclellan_v_cablevision_merits_1999-01-07.md -->
 
 **Case and dockets:** McClellan v. Cablevision of Connecticut, Inc.; Second Circuit No. 97-7156; 149 F.3d 161; no separate Supreme Court docket supplied.
+
 **Event and date:** Plenary post-grant merits decision, 1999-01-07; October Term 1998, chunk 3.
 
-## Form first, assignment and final compatibility
+### Form first, assignment and final compatibility
 
 Before counts and author selection, the statutory-remedy question and related remand require one signed plenary opinion. Its single holding preserves distinct action, remedy and content questions; no proposition is divided or combined to affect assignment.
 
@@ -985,23 +1330,23 @@ Fresh recount from actual preceding current-term opinion tables, including earli
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 2 |
 | O'Connor | 2 |
 | Scalia | 3 |
-| Kennedy | 3 |
+| Kennedy | 2 |
 | Souter | 2 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** City of Cincinnati v. Kruse, No. 98-454; Sixth Circuit Nos. 97-3193, 97-3194 and 97-3210; 142 F.3d 907. — 1998-12-16. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** Souter. [Actual recount sources](../runtime/OT_1998CHUNK3_MCCLELLAN_CABLEVISION_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** City of Cincinnati v. Kruse, No. 98-454; Sixth Circuit Nos. 97-3193, 97-3194 and 97-3210; 142 F.3d 907. — 1998-12-16. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Souter. [Actual recount sources](../runtime/OT_1998CHUNK3_MCCLELLAN_CABLEVISION_ASSIGNMENT_RECOUNT.json).
 
-Fit controls because all nine already share the complete bounded intent ground. Souter's own Suter, Franklin and Central Bank joins make the distinction between creating an action and developing a received remedy especially concrete. He can explain their coexistence while reserving actual alternative sources, the central work here. Stevens is an equally low-count strong alternative through Cannon; Souter's direct participation on both sides of the received-action/new-action distinction supplies the case-specific choice. Stone's approved separation is compatible but provides no added precision or coalition advantage over that supported formulation at the same count. Experience and perceived ability exclude no Justice, and no expansion accommodation is invented.
+Fit controls because all nine already share the complete bounded intent ground. Souter's own Suter, Franklin and Central Bank joins make the distinction between creating an action and developing a received remedy especially concrete. He can explain their coexistence while reserving actual alternative sources, the central work here. Stevens is an equally low-count strong alternative through Cannon; Souter's direct participation on both sides of the received-action/new-action distinction supplies the case-specific choice. Stone's approved separation is compatible but provides no added precision or coalition advantage over that supported formulation; Souter has two counted leads to Stone's three. Experience and perceived ability exclude no Justice, and no expansion accommodation is invented.
 
 Each Justice joins the text/structure/history ground together, not a categorical express-action rule. Every recorded objection is respected: section 532(d) alone is not decisive; local enforcement is not assumed adequate; Franklin and Central Bank retain their existing force; and remand neither grants nor extinguishes independent relief. No Associate commitment changes in circulation. This signed plenary lead counts once for its author. Separate writings add no count.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1014,9 +1359,10 @@ All nine join the full opinion. No separate writing is filed.
 <!-- source-record: buckley_v_american_constitutional_law_foundation_merits_1999-01-12.md -->
 
 **Case and dockets:** Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092.
+
 **Event and date:** Merits decision after argument, 1999-01-12; October Term 1998, chunk 3.
 
-## Form first, assignment and final compatibility
+### Form first, assignment and final compatibility
 
 Before counts and author selection, the provision-specific judgments require one signed plenary opinion with separate parts: I registration, II personal-name badge, III-A final individual reports and III-B monthly individual reports. A single eligible author carries all Court grounds, so no author division is warranted. Thomas's distinct method and O'Connor/Breyer's substantive opposition require the two separate writings below; they are not forms chosen for assignment balance.
 
@@ -1026,23 +1372,23 @@ Fresh recount from actual preceding current-term opinion tables, including earli
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 2 |
 | O'Connor | 2 |
 | Scalia | 3 |
-| Kennedy | 3 |
+| Kennedy | 2 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** McClellan v. Cablevision of Connecticut, Inc.; Second Circuit No. 97-7156; 149 F.3d 161; no separate Supreme Court docket supplied. — 1999-01-07. **Eligible full-rationale authors:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg. **Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg. **Chosen author:** Stevens. [Actual recount sources](../runtime/OT_1998CHUNK3_BUCKLEY_ACLF_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** McClellan v. Cablevision of Connecticut, Inc.; Second Circuit No. 97-7156; 149 F.3d 161; no separate Supreme Court docket supplied. — 1999-01-07. **Eligible full-rationale authors:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg. **Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg; minimum 2, ceiling 3. **Chosen author:** Stevens. [Actual recount sources](../runtime/OT_1998CHUNK3_BUCKLEY_ACLF_ASSIGNMENT_RECOUNT.json).
 
-Fit governs. Stevens's own Meyer opinion addresses the protected speaker pool, and his McIntyre opinion supplies the personal-attribution distinction. Together they give him a direct case-specific advantage in coordinating circulation, live identification and later financial reporting without merging their tests. Stone is the strongest equal-count alternative through his precise approved component formulation; it supplies no additional accommodation or fidelity advantage over Stevens's demonstrated treatment of the two controlling speech settings. Other eligible pool members remain fully capable. O'Connor, Breyer and Thomas are excluded from full-lead eligibility solely by their recorded proposition or method disagreements, not by skill or subject-matter reputation. No expansion bargain or fictional negotiation is claimed.
+Fit governs. Stevens's own Meyer opinion addresses the protected speaker pool, and his McIntyre opinion supplies the personal-attribution distinction. Together they give him a direct case-specific advantage in coordinating circulation, live identification and later financial reporting without merging their tests. Stone is a strong pool alternative at three counted leads to Stevens's two through his precise approved component formulation; it supplies no additional accommodation or fidelity advantage over Stevens's demonstrated treatment of the two controlling speech settings. Other eligible pool members remain fully capable. O'Connor, Breyer and Thomas are excluded from full-lead eligibility solely by their recorded proposition or method disagreements, not by skill or subject-matter reputation. No expansion bargain or fictional negotiation is claimed.
 
 Stevens, Stone-Zsela, Scalia, Kennedy, Souter and Ginsburg join every actual Court part. O'Connor and Breyer join only Part II's direct-speech/narrow-fit reasoning and its judgment, while opposing the other reviewed invalidations. Thomas joins no complete lead-method part and states his sufficient strict-scrutiny and alternative disclosure grounds separately. All component totals reconcile to those joins. No changed Associate vote is inferred from author choice. This signed plenary lead counts once for its author. Separate writings add no count.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1056,31 +1402,41 @@ Stevens, Stone-Zsela, Scalia, Kennedy, Souter and Ginsburg join every actual Cou
 <!-- source-record: el_al_israel_airlines_v_tseng_merits_1999-01-12.md -->
 
 **Case and dockets:** El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng; No. 97-475; OT1998.
+
 **Event and date:** Merits decision; 1999-01-12.
 
-## Final assignment and preceding-event validation
+### Public action, judgment and opinion form
+
+The judgment is reversal and remand for restoration of the personal-injury dismissal: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer support it; Stevens would affirm the permission for local-law proceedings. The baggage judgment is unchanged, not newly adjudicated.
+
+Form selected before any count: one signed Opinion of the Court, with Part I addressing exclusivity and the bodily-injury application and Part II rejecting the Article 25 route on this record without resolving its preservation or full legal operation. Stevens issues a dissent explaining the nonaccident-only distinction. These divisions reflect an actual excluded Stone issue; they are not created for assignment balance. No split authorship is necessary because seven Justices can carry the whole opinion.
+
+Assignment is completed in the final assignment section below.
+
+### Final assignment and preceding-event validation
 
 The signed form and governing propositions were selected on the legal grounds stated above before this fresh count. Stone-Zsela assigns from the judgment coalition. All earlier effective chunk events were checked; none changes this matter's substantive entering law or posture.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 3 |
 | O'Connor | 2 |
 | Scalia | 3 |
-| Kennedy | 3 |
+| Kennedy | 2 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092. — 1999-01-12. **Eligible full-rationale authors:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** O'Connor. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_TSENG_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092. — 1999-01-12. **Eligible full-rationale authors:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** O'Connor. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_TSENG_ASSIGNMENT_RECOUNT.json).
 
 Fit governs. O'Connor's own Saks and Zicherman opinions directly supply the distinction between the covered event, injury condition and domestic supplementation that the agreed opinion must coordinate. She and Thomas have the lowest eligible count, and both can carry the full opinion; her concrete authorship of those controlling distinctions favors her for this case. No disputed formulation requires expansion. Stone's excluded Article 25 ground makes him ineligible for the whole lead, rather than merely less suitable.
 
 Final compatibility preserves the exact proposition-level joins below. No new objection, circulation exchange, changed commitment or reassignment is invented. This signed plenary lead counts once for O'Connor; separate writings do not count.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court, Part I | O'Connor | Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Supports reversal and dismissal | Exclusivity within Article 17's field and application to the accepted absence of bodily injury; reserves accident classification and Article 25's operation. |
@@ -1092,37 +1448,39 @@ Final compatibility preserves the exact proposition-level joins below. No new ob
 <!-- source-record: city_of_west_covina_v_perkins_merits_1999-01-13.md -->
 
 **Case and dockets:** City of West Covina v. Perkins, No. 97-1230.
+
 **Event and date:** Merits decision, 1999-01-13; October Term 1998, chunk 3.
 
-## Judgment, topology and assignment
+### Judgment, topology and assignment
 
 Reverse and remand, 9–0: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Kennedy delivers a signed opinion of the Court, joined in full by the other six members of the Stone-Zsela/Stevens/O'Connor/Kennedy/Souter/Ginsburg/Breyer coalition. Scalia concurs in the judgment, joined by Thomas; their common negative rule and source reservation are stated separately rather than mislabeled full joins.
 
 **Form before counts:** A signed opinion is appropriate because the case draws the operative boundary between notice of government action and legal instruction, with a material constitutional-source reservation. The form and two holdings are fixed before balance counts. The Chief assigns from the judgment majority. Full-opinion eligible authors: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Scalia and Thomas are not eligible for a lead opinion that states the civil-due-process source reasoning they withhold. The final author and chronological recount appear below. The separate writing is assigned to Scalia because his Good writing's distinction between established sovereign procedure and additional civil-process inferences fits the reserved constitutional-source question; Thomas's narrower record-based position is fully compatible. No historical authorship or balance count chooses that separate author.
 
-## Final assignment and preceding-event validation
+### Final assignment and preceding-event validation
 
 The signed form and governing propositions were selected on the legal grounds stated above before this fresh count. Stone-Zsela assigns from the judgment coalition. All earlier effective chunk events were checked; none changes this matter's substantive entering law or posture.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 3 |
 | O'Connor | 3 |
 | Scalia | 3 |
-| Kennedy | 3 |
+| Kennedy | 2 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng; No. 97-475; OT1998. — 1999-01-12. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. **Chosen author:** Kennedy. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_WEST_COVINA_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng; No. 97-475; OT1998. — 1999-01-12. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Kennedy. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_WEST_COVINA_ASSIGNMENT_RECOUNT.json).
 
 Fit governs within the recorded pool. Kennedy's own Good opinion coordinates the independent notice-and-opportunity requirement with the separate warrant inquiry, which is the precise distinction this opinion must apply without carrying civil-forfeiture procedures wholesale into a criminal seizure. Stone's approved actual-access reservations and Souter's distinct-procedural-function analysis are strong alternatives; both can write the agreed opinion. Kennedy's direct work on the controlling source boundary gives him the concrete fit advantage. No necessary join depends on expansion, and Stone's self-assignment supplies no additional demonstrated advantage on this formulation.
 
 Final compatibility preserves the exact proposition-level joins below. No new objection, circulation exchange, changed commitment or reassignment is invented. This signed plenary lead counts once for Kennedy; separate writings do not count.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope |
 |---|---|---|---|---|
 | Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer | Reversal and remand | Entire opinion, including the procedural-due-process source explanation and both holdings |
@@ -1133,9 +1491,10 @@ Final compatibility preserves the exact proposition-level joins below. No new ob
 <!-- source-record: marcus_v_iowa_public_television_merits_1999-01-13.md -->
 
 **Case and dockets:** Marcus v. Iowa Public Television, No. 98-710.
+
 **Event and date:** Merits decision, 1999-01-13; October Term 1998, chunk 3.
 
-## Judgment, opinion topology and assignment
+### Judgment, opinion topology and assignment
 
 Affirm the Eighth Circuit's rejection of the common selection-policy claim and its derivative relief, 6–3. Supporting: Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer. Opposing: Stevens, Souter and Ginsburg, who would vacate rejection of the live common claim and remand under adequately constrained standards. The decision resolves neither an independent guide cause of action nor separate expired individual demands beyond the scope supplied.
 
@@ -1143,29 +1502,30 @@ O'Connor delivers one signed opinion of the Court with genuine proposition bound
 
 **Form before counts:** Signed form is warranted by the distinct Article III analysis and the reasoned application of Forbes to a fuller record with a continuing three-Justice standards disagreement. These three substantive parts follow the issues; they are not created to manipulate authorship. The Chief is in the judgment majority and assigns. Eligible to carry the whole opinion: O'Connor, Scalia, Kennedy, Thomas and Breyer. Each fully joins every part. Stone's threshold disposition-only support does not qualify him to author Part I, and no split authorship is warranted because five eligible authors can carry the entire opinion. Stevens, Souter and Ginsburg reject Part III and are not eligible. The final author, chronological recount, last event counted and balance pool appear below. Stevens authors the dissent because his published Forbes writing supplies the precise standards objection retained here; this is substantive continuity, not historical Marcus authorship.
 
-## Final assignment and preceding-event validation
+### Final assignment and preceding-event validation
 
 The signed form and governing propositions were selected on the legal grounds stated above before this fresh count. Stone-Zsela assigns from the judgment coalition. All earlier effective chunk events were checked; none changes this matter's substantive entering law or posture.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 3 |
 | O'Connor | 3 |
 | Scalia | 3 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** City of West Covina v. Perkins, No. 97-1230. — 1999-01-13. **Eligible full-rationale authors:** O'Connor, Scalia, Kennedy, Thomas, Breyer. **Balance pool:** O'Connor, Scalia, Thomas, Breyer. **Chosen author:** O'Connor. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_MARCUS_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** City of West Covina v. Perkins, No. 97-1230. — 1999-01-13. **Eligible full-rationale authors:** O'Connor, Scalia, Kennedy, Thomas, Breyer. **Balance pool:** O'Connor, Scalia, Kennedy, Thomas, Breyer; minimum 2, ceiling 3. **Chosen author:** O'Connor. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_MARCUS_ASSIGNMENT_RECOUNT.json).
 
 Fit governs. O'Connor's own Forbes opinion states the precise actual-selection rule and reserves pretext, comparator and open-access review; applying those boundaries to Iowa's fuller findings is the main legal work. Thomas, the lowest-count eligible Justice, is a strong alternative because his frozen commitment separates the committee's supported recurrence from the merits and permits contextual editorial judgment. Both can carry the whole opinion. O'Connor's direct formulation of the governing safeguards supplies the case-specific advantage within the pool; her assignment does not add or relax any required join. Stone is ineligible for the whole lead because his approved position does not supply Part I's recurrence rationale.
 
 Final compatibility preserves the exact proposition-level joins below. No new objection, circulation exchange, changed commitment or reassignment is invented. This signed plenary lead counts once for O'Connor; separate writings do not count.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope |
 |---|---|---|---|---|
 | Opinion of the Court, Part I | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reaches the merits | Committee-based capable-of-repetition rationale; eight Associates. Stone-Zsela agrees to reach the merits but does not join this explanation. |
@@ -1178,15 +1538,21 @@ Final compatibility preserves the exact proposition-level joins below. No new ob
 <!-- source-record: roberts_v_galen_of_virginia_merits_1999-01-13.md -->
 
 **Case and dockets:** Roberts v. Galen of Virginia, Inc., No. 97-53.
+
 **Event and date:** Merits decision, 1999-01-13; October Term 1998, chunk 3.
 
-## Public judgment, opinions and assignment
+### Public judgment, opinions and assignment
 
 Reverse and remand, 9–0: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Per curiam, joined in full by all nine. No separate opinion.
 
 **Form before counts:** Per curiam is selected because this is a narrow correction of an added statutory element, leaving the disputed statutory predicates and defenses to ordinary proceedings. The form follows that legal work, not assignment totals or historical authorship. No signed lead opinion is counted under Engine §8; no named author assignment or balance pool is required. The Chief participates in the judgment coalition.
 
-## Opinion Topology
+### Final form and preceding-event validation
+
+The narrow per curiam form was selected from the case's legal grounds before any assignment count. It creates no signed lead assignment or count. Earlier effective chunk events supply no intervening change to this matter's law or posture. Final compatibility and the eleven public blocks are validated below.
+
+### Public Opinion Topology
+
 Per curiam opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
 
 ---
@@ -1194,9 +1560,10 @@ Per curiam opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Conno
 <!-- source-record: state_street_bank_v_signature_financial_group_merits_1999-01-14.md -->
 
 **Case and dockets:** State Street Bank & Trust Co. v. Signature Financial Group, Inc.; Federal Circuit No. 96-1327; no separate Supreme Court docket supplied; OT1998.
+
 **Event and date:** Merits decision; 1999-01-14.
 
-## Public action, judgment and form before assignment
+### Public action, judgment and form before assignment
 
 All eight Associates reverse the Federal Circuit's eligibility-based reversal and sustain §101 invalidity of each issued claim on the limited mathematical-calculation ground. Stone opposes that disposition and would vacate for a new eligibility application under the corrected standard. The rejection of a business-use exclusion and useful-result sufficiency has nine proposition-level joins, but those common standards do not erase the remedial disagreement.
 
@@ -1204,29 +1571,30 @@ Form selected before counts: one signed Opinion of the Court, Part I-A on busine
 
 Assignment is completed in the final assignment section below.
 
-## Final assignment and preceding-event validation
+### Final assignment and preceding-event validation
 
 The signed form and governing propositions were selected on the legal grounds stated above before this fresh count. Stevens assigns from the judgment coalition. All earlier effective chunk events were checked; none changes this matter's substantive entering law or posture.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 3 |
 | O'Connor | 4 |
 | Scalia | 3 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** Marcus v. Iowa Public Television, No. 98-710. — 1999-01-13. **Eligible full-rationale authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stevens, Scalia, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** Stevens. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_STATE_STREET_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** Marcus v. Iowa Public Television, No. 98-710. — 1999-01-13. **Eligible full-rationale authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Stevens. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_STATE_STREET_ASSIGNMENT_RECOUNT.json).
 
 Stevens assigns as the senior Justice in the judgment coalition. His own Flook opinion directly addresses why a useful restricted numerical calculation does not itself supply a patentable application. He accepts the controlling Diehr whole-claim rule and the actual means-plus-function limitations, rather than importing his broader Diehr dissent. Souter's own Markman and Vitronics work makes him a strong alternative on claim meaning, but the eight Associates already share the full construction and identify no material unperformed factual task. Stevens chooses to state the governing calculation/application distinction and explain its application to all six retained combinations himself. That choice follows his date-eligible substantive position, not historical authorship of a Supreme Court State Street opinion, which does not exist. The Chief neither assigns nor joins the final invalidity judgment.
 
 The Chief's balance-pool restriction does not bind this Associate assignment; the pool is recorded for transparency. Final compatibility preserves the exact proposition-level joins below. No new objection, circulation exchange, changed commitment or reassignment is invented. This signed plenary lead counts once for Stevens; separate writings do not count.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court, Parts I-A and I-B | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Common legal standards; Stone-Zsela disagrees with the resulting disposition | No categorical business exclusion; usefulness alone is insufficient; actual whole-claim and means-plus-function scope must govern. |
@@ -1238,9 +1606,10 @@ The Chief's balance-pool restriction does not bind this Associate assignment; th
 <!-- source-record: california_public_employees_retirement_system_v_felzen_merits_1999-01-20.md -->
 
 **Case and dockets:** California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al., No. 97-1732.
+
 **Event and date:** Merits decision, 1999-01-20; October Term 1998, chunk 3.
 
-## Public judgment, opinion form and assignment
+### Public judgment, opinion form and assignment
 
 Affirm, 5–4. Supporting: Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. Opposing: Stevens, Souter, Ginsburg and Breyer. The opposing coalition would reverse the status dismissal and remand for further appellate proceedings under a limited representative-objector rule; it would not reject the settlement or decide the fee claims on their merits.
 
@@ -1248,29 +1617,30 @@ Stone-Zsela delivers the signed opinion of the Court, joined in full by the othe
 
 **Form before counts:** Signed form is selected for a reasoned resolution of the disputed relationship between the Rule 23.1 objection role and appellate party status, with a substantive competing construction supported by an existing circuit decision. The holdings and form are fixed before consulting authorship totals; neither a historical equal division nor assignment balance determines the form. The Chief is in the judgment majority and assigns. All five affirming Justices—Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas—fully join every proposition and are eligible for the whole opinion. The final author, fresh sequential counts, last event counted and balance pool appear below. Stevens authors the dissent because his own Tryforos opinion states the precise objection/prosecution distinction retained by the four dissenters. That choice does not import historical Felzen authorship; history contains no reasoned writing to import.
 
-## Final assignment and preceding-event validation
+### Final assignment and preceding-event validation
 
 The signed form and governing propositions were selected on the legal grounds stated above before this fresh count. Stone-Zsela assigns from the judgment coalition. All earlier effective chunk events were checked; none changes this matter's substantive entering law or posture.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 3 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** State Street Bank & Trust Co. v. Signature Financial Group, Inc.; Federal Circuit No. 96-1327; no separate Supreme Court docket supplied; OT1998. — 1999-01-14. **Eligible full-rationale authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas. **Balance pool:** Stone-Zsela, Scalia, Thomas. **Chosen author:** Stone-Zsela. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_FELZEN_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** State Street Bank & Trust Co. v. Signature Financial Group, Inc.; Federal Circuit No. 96-1327; no separate Supreme Court docket supplied; OT1998. — 1999-01-14. **Eligible full-rationale authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas. **Balance pool:** Stone-Zsela, Scalia, Kennedy, Thomas; minimum 2, ceiling 3. **Chosen author:** Stone-Zsela. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_FELZEN_ASSIGNMENT_RECOUNT.json).
 
-Fit supports self-assignment within the pool. Stone's own unanimous Richards opinion separates constitutional authority to bind absent persons from notice, shared interests and intervention, and his approved present position coordinates that rule with Izumi's party-status boundary without turning either into a universal bar on nonparty review. That exact coordination answers the four dissenters' limited-role argument while preserving their distinct constitutional concern. Thomas, at the same lowest count, is the strongest alternative: his Izumi/Richards joins and Harper separation of governing law from procedural remedies fit the necessary restraints. Stone's direct authorship of the representation boundary, coupled with his expressly fixed present distinction between objection and appellate status, gives a concrete advantage in stating the agreed narrow rule without silently foreclosing an independent due-process claim. Scalia is also eligible within the pool. No necessary join depends on a new concession or expansion.
+Fit supports self-assignment within the pool. Stone's own unanimous Richards opinion separates constitutional authority to bind absent persons from notice, shared interests and intervention, and his approved present position coordinates that rule with Izumi's party-status boundary without turning either into a universal bar on nonparty review. That exact coordination answers the four dissenters' limited-role argument while preserving their distinct constitutional concern. Thomas, at the lower count of two, is the strongest alternative: his Izumi/Richards joins and Harper separation of governing law from procedural remedies fit the necessary restraints. Stone's direct authorship of the representation boundary, coupled with his expressly fixed present distinction between objection and appellate status, gives a concrete advantage in stating the agreed narrow rule without silently foreclosing an independent due-process claim. Scalia is also eligible within the pool. No necessary join depends on a new concession or expansion.
 
 Final compatibility preserves the exact proposition-level joins below. No new objection, circulation exchange, changed commitment or reassignment is invented. This signed plenary lead counts once for Stone-Zsela; separate writings do not count.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Stone-Zsela | O'Connor, Scalia, Kennedy, Thomas | Affirms dismissal | Both holdings, their complete reasoning, qualifications and confined remedy. |
@@ -1281,37 +1651,39 @@ Final compatibility preserves the exact proposition-level joins below. No new ob
 <!-- source-record: department_of_the_army_v_blue_fox_merits_1999-01-20.md -->
 
 **Case and dockets:** Department of the Army v. Blue Fox, Inc.; No. 97-1642; OT1998.
+
 **Event and date:** Merits decision; 1999-01-20.
 
-## Judgment, form and assignment preparation
+### Judgment, form and assignment preparation
 
 All nine support reversal of the Army-lien ruling and remand for dismissal of that claim. There is no payment award, recreated fund, replacement lien or tracing hearing. The rejected SBA branch remains outside review. The independent §702/§704 agency-action, reviewability and adequate-remedy arguments, including Blue Fox's preservation objection, are not adjudicated as conceded or alternative holdings.
 
 Form chosen before counts: one signed Opinion of the Court, speaking on the limited waiver/remedy ground and its application. All nine join every proposition; no separate writing or multi-author division is required. The Chief assigns. Eligible full lead authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The final live sequential count and assignment appear below; no circulation event is invented.
 
-## Final assignment and preceding-event validation
+### Final assignment and preceding-event validation
 
 The signed form and governing propositions were selected on the legal grounds stated above before this fresh count. Stone-Zsela assigns from the judgment coalition. All earlier effective chunk events were checked; none changes this matter's substantive entering law or posture.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 3 |
+| Stone-Zsela | 4 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 3 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al., No. 97-1732. — 1999-01-20. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Scalia, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** Scalia. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_BLUE_FOX_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al., No. 97-1732. — 1999-01-20. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Scalia. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_BLUE_FOX_ASSIGNMENT_RECOUNT.json).
 
 Fit governs. Scalia's own Nordic Village opinion separates consent to the particular monetary remedy from jurisdiction, trust and property labels, while preserving genuine property proceedings. That is the actual legal work needed to classify the claimed Army lien without converting every equitable monetary remedy into damages. Thomas, the lowest-count eligible author, can carry the same agreed distinction; Souter's Lane opinion is another strong pool alternative on duty versus consent. Scalia's direct formulation of the closely analogous property-label problem supplies the concrete fit advantage. Stone's approved reservations fit the opinion but offer no additional self-assignment advantage over that record-specific source work. No expansion or accommodation is necessary.
 
 Final compatibility preserves the exact proposition-level joins below. No new objection, circulation exchange, changed commitment or reassignment is invented. This signed plenary lead counts once for Scalia; separate writings do not count.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand for dismissal of the Army lien claim | Full waiver rule, actual-remedy application and every stated reservation. |
@@ -1323,37 +1695,39 @@ All nine join; no separate writing is filed.
 <!-- source-record: humana_inc_v_forsyth_merits_1999-01-20.md -->
 
 **Case and dockets:** Humana Inc. v. Forsyth; No. 97-303; OT1998.
+
 **Event and date:** Merits decision; 1999-01-20.
 
-## Judgment, form and assignment preparation
+### Judgment, form and assignment preparation
 
 All nine affirm the reviewed permission for the Co-Payor RICO overpayment claim. The prior rejection of the Premium Payor branch and actual-overpayment limitation remain intact. The related conspiracy-amendment instruction follows without proving liability or guaranteeing amendment success. No liability, premium recovery, treble-damages amount or automatic new trial is ordered.
 
 Form selected before counts: one signed Opinion of the Court stating the actual-interference rule and the bounded Nevada application. All nine join every proposition and reservation. No separate writing, fracture or divided authorship is required. The Chief assigns; eligible full lead authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The final live sequential count and assignment appear below; no circulation is invented.
 
-## Final assignment and preceding-event validation
+### Final assignment and preceding-event validation
 
 The signed form and governing propositions were selected on the legal grounds stated above before this fresh count. Stone-Zsela assigns from the judgment coalition. All earlier effective chunk events were checked; none changes this matter's substantive entering law or posture.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 3 |
+| Stone-Zsela | 4 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 4 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** Department of the Army v. Blue Fox, Inc.; No. 97-1642; OT1998. — 1999-01-20. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** Ginsburg. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_HUMANA_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** Department of the Army v. Blue Fox, Inc.; No. 97-1642; OT1998. — 1999-01-20. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Ginsburg. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_HUMANA_ASSIGNMENT_RECOUNT.json).
 
 Fit governs. Ginsburg's own Barnett Bank opinion distinguishes the insurance-specific federal exception from the actual operation of the competing statutory schemes; she can preserve that distinction while applying Fabe to RICO's different, nonspecific status. Thomas, the lowest-count eligible author, and Souter, with his own Fabe position and later Barnett join, are strong alternatives within the pool. Ginsburg's prior coordination of McCarran-Ferguson's distinct clauses gives her the concrete advantage for this case's actual-interference inquiry and limited state-law premise. Stone's approved beyond-literal-conflict rule fits, but gives no added self-assignment advantage over that focused prior work. No new exclusive state remedy or retrospective state right is needed to secure the unanimous joins.
 
 Final compatibility preserves the exact proposition-level joins below. No new objection, circulation exchange, changed commitment or reassignment is invented. This signed plenary lead counts once for Ginsburg; separate writings do not count.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Affirms the surviving Co-Payor branch on the reviewed question | Complete impairment rule, bounded Nevada application and all temporal, claim and remedial limits. |
@@ -1365,9 +1739,10 @@ All nine join; no separate writing is filed.
 <!-- source-record: lopez_v_monterey_county_merits_1999-01-20.md -->
 
 **Case and dockets:** Lopez v. Monterey County; No. 97-1396; Northern District of California No. C-91-20559-RMW.
+
 **Event and date:** Merits decision after argument, 1999-01-20; October Term 1998, chunk 3.
 
-## Form first, assignment and final compatibility
+### Form first, assignment and final compatibility
 
 One signed Court opinion, with Parts I–V preserving the independent questions and actual joins, was selected before authors or counts. A signed opinion is warranted by the mandate, specific-submission and remedial issues, not assignment balance. No separate writing is necessary; partial joins are recorded directly.
 
@@ -1377,23 +1752,23 @@ Fresh recount from actual preceding current-term opinion tables, including earli
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 3 |
+| Stone-Zsela | 4 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 4 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 4 |
 | Breyer | 3 |
 
-**Last counted event:** Humana Inc. v. Forsyth; No. 97-303; OT1998. — 1999-01-20. **Eligible full-rationale authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Souter, Thomas, Breyer. **Chosen author:** Thomas. [Actual recount sources](../runtime/OT_1998CHUNK3_LOPEZ_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** Humana Inc. v. Forsyth; No. 97-303; OT1998. — 1999-01-20. **Eligible full-rationale authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Kennedy, Souter, Thomas, Breyer; minimum 2, ceiling 3. **Chosen author:** Thomas. [Actual recount sources](../runtime/OT_1998CHUNK3_LOPEZ_ASSIGNMENT_RECOUNT.json).
 
-Fit governs within the pool. Thomas's own full 1996 Lopez join accepted administration without local discretion and its specific-submission/nonuse mandate; his later Young and Foreman joins preserve the distinction between coverage and substantive preclearance. His present frozen grounds insist on applying that already-decided statutory duty without adding a new constitutional rationale, while keeping an actual independent judicial plan separate from adoption of governmental policy. Those precise boundaries fit the needed mandate-enforcement opinion. Souter and Breyer, the other eligible pool members, can perform the same work and offer strong alternatives on remedial implementation; Thomas's lowest count and exact match to the opinion's confined statutory task support this assignment among those capable alternatives. Earlier author Kennedy is outside this live pool, and no earlier authorship creates entitlement. Stone's partial rationale support excludes him from the whole lead. No expansion or new commitment is needed.
+Fit governs within the pool. Thomas's own full 1996 Lopez join accepted administration without local discretion and its specific-submission/nonuse mandate; his later Young and Foreman joins preserve the distinction between coverage and substantive preclearance. His present frozen grounds insist on applying that already-decided statutory duty without adding a new constitutional rationale, while keeping an actual independent judicial plan separate from adoption of governmental policy. Those precise boundaries fit the needed mandate-enforcement opinion. Souter, Kennedy and Breyer, the other eligible pool members, can perform the same work and offer strong alternatives on remedial implementation; Thomas's lowest count and exact match to the opinion's confined statutory task support this assignment among those capable alternatives. Earlier author Kennedy is in the pool at three; prior authorship creates no entitlement. Stone's partial rationale support excludes him from the whole lead. No expansion or new commitment is needed.
 
 The eight Associates join every governing proposition; Stone joins only the scopes authorized above and supports all disposition components. There is no Marks synthesis and no material change to reconciled Associate commitments. This signed plenary lead counts once for its author. Separate writings add no count.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1408,17 +1783,18 @@ No separate writing is filed. The Chief's disposition-only agreement on the coll
 <!-- source-record: citizens_for_a_constitutional_convention_v_yoshina_merits_1999-01-21.md -->
 
 **Case and dockets:** Citizens for a Constitutional Convention v. Yoshina; No. 98-671; Ninth Circuit Nos. 97-16408, 97-16543, 97-16540 and 97-16596.
+
 **Event and date:** Merits decision, 1999-01-21; OT1998, chunk 4.
 
-## Form, assignment and final compatibility
+### Form, assignment and final compatibility
 
 Before counting, the legal form was fixed as one signed lead opinion following plenary merits consideration, addressing the continuing controversy, record-specific due-process ground and independent First Amendment claim, with one remedial disposition. A single author can carry all propositions; no division for count purposes is warranted. The Chief is in the nine-Justice judgment coalition and assigns, but is ineligible to author the whole opinion because his fallback supplies no First Amendment rationale.
 
-The recount from actual current-term Public Projection opinion tables before this assignment gives Stone-Zsela 3; Stevens 4; O'Connor 4; Scalia 4; Kennedy 4; Souter 3; Thomas 3; Ginsburg 4; Breyer 3. The last counted event is Lopez v. Monterey County, January 20, 1999, authored by Thomas. All eight Associates are eligible for every lead proposition; all eight are in the pool, whose minimum is three and ceiling four. The Chief assigns Souter. His own Smiley opinion's treatment of interpretive authority and reliance, together with his Burdick and Spencer commitments, fits the central need to separate legal state construction, actual electoral injury and a surviving remedial interest. Breyer is an equally low-count alternative with a strong continuing-injury basis, but Souter's specific interpretive-and-reliance work gives him the closer fit. Stone has no eligibility-based self-assignment alternative. No expansion or change to a frozen commitment is needed.
+The recount from actual current-term Public Projection opinion tables before this assignment gives Stone-Zsela 4; Stevens 4; O'Connor 4; Scalia 4; Kennedy 3; Souter 3; Thomas 3; Ginsburg 4; Breyer 3. The last counted event is Lopez v. Monterey County, January 20, 1999, authored by Thomas. All eight Associates are eligible for every lead proposition; all eight are in the pool, whose minimum is three and ceiling four. The Chief assigns Souter. His own Smiley opinion's treatment of interpretive authority and reliance, together with his Burdick and Spencer commitments, fits the central need to separate legal state construction, actual electoral injury and a surviving remedial interest. Breyer is an equally low-count alternative with a strong continuing-injury basis, but Souter's specific interpretive-and-reliance work gives him the closer fit. Stone has no eligibility-based self-assignment alternative. No expansion or change to a frozen commitment is needed.
 
 Final compatibility preserves every recorded join barrier: no automatic mootness, no assumption that all abstainers were indifferent, no categorical insulation of later state construction, no rejection of guidance as irrelevant, no false attribution of blanks, and no invented collateral disposition. Every Associate joins the opinion in full; Stone joins Parts I and II and the remedy, and agrees only in the judgment on Part III. No new objections or draft history are invented. The judgment is nine to zero; Parts I and II have nine proposition-level votes, Part III eight. No Marks synthesis is required.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1431,19 +1807,20 @@ Stone-Zsela concurs in the judgment rejecting the First Amendment claim, without
 <!-- source-record: att_corp_v_iowa_utilities_board_merits_1999-01-25.md -->
 
 **Case and dockets:** AT&T Corp. v. Iowa Utilities Board; Nos. 97-826, 97-829, 97-830, 97-831, 97-1075, 97-1087, 97-1099 and 97-1141; including California respondents in the AT&T, MCI and FCC petitions.
+
 **Event and date:** Merits decision, 1999-01-25; OT1998, chunk 4.
 
-## Form, assignment and compatibility
+### Form, assignment and compatibility
 
 Before any count or author was considered, the form was fixed as one signed lead opinion following plenary review of the related dockets, with twelve substantive parts reflecting independently presented questions and a component judgment. One eligible author can carry all controlling grounds. Different Associate objections require the four separate writings listed in the opinion table; no part is split to alter authorship eligibility or balance. The Chief belongs to every prevailing judgment coalition and assigns the lead.
 
-The actual current-term public opinion-table recount immediately before assignment gives: Stone-Zsela 3; Stevens 4; O'Connor 4; Scalia 4; Kennedy 4; Souter 4; Thomas 3; Ginsburg 4; Breyer 3. The last counted event is Yoshina, January 21, 1999, authored by Souter. Eligible authors for the entire lead are Stevens, Scalia, Kennedy and Ginsburg; all four are in the balance pool (each has four counted opinions). Stone's judgment-only components prevent complete-lead eligibility; Souter's Rule 51.319 and presumption objections, O'Connor's allocation objection, and Thomas's and Breyer's authority objections prevent theirs. No author is excluded for craftsmanship or prior authorship.
+The actual current-term public opinion-table recount immediately before assignment gives: Stone-Zsela 4; Stevens 4; O'Connor 4; Scalia 4; Kennedy 3; Souter 4; Thomas 3; Ginsburg 4; Breyer 3. The last counted event is Yoshina, January 21, 1999, authored by Souter. Eligible authors for the entire lead are Stevens, Scalia, Kennedy and Ginsburg; all four are in the balance pool (Kennedy has three counted opinions and the others four). Stone's judgment-only components prevent complete-lead eligibility; Souter's Rule 51.319 and presumption objections, O'Connor's allocation objection, and Thomas's and Breyer's authority objections prevent theirs. No author is excluded for craftsmanship or prior authorship.
 
-The Chief assigns Scalia. His MCI majority/concurrence commitments distinguish a real delegation from erasure of limiting conditions; his Allentown Mack position preserves the actual governing standard; his Ohio Forestry and Bennett opinions give a concrete fit for the separate finality, ripeness and present-effect issue. Kennedy, with the same count and MCI/Allentown Mack joins, is the strongest alternative and could carry the opinion, but Scalia's own work on both the statutory-condition and threshold distinctions offers the closer fit for this combination. This choice does not import the historical author, enlarge a commitment or treat a close margin as an expansion problem. The frozen positions already permit the exact narrower remedies.
+The Chief assigns Scalia. His MCI majority/concurrence commitments distinguish a real delegation from erasure of limiting conditions; his Allentown Mack position preserves the actual governing standard; his Ohio Forestry and Bennett opinions give a concrete fit for the separate finality, ripeness and present-effect issue. Kennedy, with the lower count of three and MCI/Allentown Mack joins, is the strongest alternative and could carry the opinion, but Scalia's own work on both the statutory-condition and threshold distinctions offers the closer fit for this combination. This choice does not import the historical author, enlarge a commitment or treat a close margin as an expansion problem. The frozen positions already permit the exact narrower remedies.
 
 Final compatibility preserves each recorded limit. O'Connor's acceptance of express substantive access rules is not a general pricing join. Souter's general-authority join does not become acceptance of outside alternatives or the defective-presumption holding. Thomas and Breyer's superior-quality remand, and Breyer's new-combination remand, operate under the Court's governing framework without becoming Part I joins. Thomas retains his independent substantive new-combination objection. All eight adopt definite section 208 unripe dismissal after the clean refresh; no now-superseded open-remand or enforcement-merits commitment enters. Stone's fallback and partial scopes remain as stated. No frozen commitment changes in assembly, no invented circulation sequence occurs, and no Marks aggregation is required.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1462,17 +1839,18 @@ Stone-Zsela agrees only in the dispositions on the independent definition, own-f
 <!-- source-record: department_of_commerce_v_house_and_clinton_v_glavin_merits_1999-01-25.md -->
 
 **Case and dockets:** Department of Commerce v. United States House of Representatives; Clinton v. Glavin; Nos. 98-404 and 98-564.
+
 **Event and date:** Merits decision, 1999-01-25; OT1998, chunk 4.
 
-## Form, assignment and final compatibility
+### Form, assignment and final compatibility
 
 Form was fixed before counting: one signed lead opinion for these companion plenary appeals, with separate docket judgments and severable standing, statutory and constitutional parts. Their shared plan and statutory question justify one lead opinion; the differing thresholds and rationale joins require explicit parts, not separate lead opinions. The statutory plurality and Breyer's distinct ground are preserved. No form or division was selected to affect counts.
 
-The Chief is in both judgment coalitions and assigns. Souter and Ginsburg can carry every proposition of the lead opinion. Stone's judgment-only House assent, Stevens's and Breyer's House dissent, Breyer's refusal of the broader statutory rationale, and the four statutory-prohibition votes prevent the others from carrying the whole. Before assignment, a fresh reading of each prior counted Record's opinion table gives Stone-Zsela 3; Stevens 4; O'Connor 4; Scalia 5; Kennedy 4; Souter 4; Thomas 3; Ginsburg 4; Breyer 3. Last counted: AT&T Corp. v. Iowa Utilities Board, January 25, 1999, Scalia. Hughes is later alphabetically that day and is excluded from this count. Eligible authors and balance pool are Souter and Ginsburg, each at 4. The Chief assigns Souter. His Raines concurrence's concrete-injury reservation and his MCI/Smiley statutory reasoning give a case-specific fit for separating authorized institutional litigation from actual injury while preserving the permission/duty construction. Ginsburg can perform that work equally lawfully; Souter's express institutional reservation provides the closer fit. No expansion accommodation or altered commitment is needed. Stone is not eligible for the whole opinion and authorship is not divided to make him eligible.
+The Chief is in both judgment coalitions and assigns. Souter and Ginsburg can carry every proposition of the lead opinion. Stone's judgment-only House assent, Stevens's and Breyer's House dissent, Breyer's refusal of the broader statutory rationale, and the four statutory-prohibition votes prevent the others from carrying the whole. Before assignment, a fresh reading of each prior counted Record's opinion table gives Stone-Zsela 4; Stevens 4; O'Connor 4; Scalia 5; Kennedy 3; Souter 4; Thomas 3; Ginsburg 4; Breyer 3. Last counted: AT&T Corp. v. Iowa Utilities Board, January 25, 1999, Scalia. Hughes is later alphabetically that day and is excluded from this count. Eligible authors and balance pool are Souter and Ginsburg, each at 4. The Chief assigns Souter. His Raines concurrence's concrete-injury reservation and his MCI/Smiley statutory reasoning give a case-specific fit for separating authorized institutional litigation from actual injury while preserving the permission/duty construction. Ginsburg can perform that work equally lawfully; Souter's express institutional reservation provides the closer fit. No expansion accommodation or altered commitment is needed. Stone is not eligible for the whole opinion and authorship is not divided to make him eligible.
 
 The four permission Justices and Breyer expressly share the precise proposition that the described NRFU and ICM designs are statutorily permissible; III-A records that common legal conclusion without merging their explanations. III-B remains a four-Justice plurality. Breyer's positive supplementation permission is within the broader permission rationale's permitted class, but his asserted prohibition on replacement is not accepted by those four. Accordingly no Marks synthesis makes that negative boundary Court law, and no general supplemental-design test is manufactured from the convergence. The exact plan permission has five direct proposition-level supporters, and the distinct constitutional explanation also has five. The six House rationale votes independently suffice. No frozen Associate commitment changes in assembly, and no fictional circulation history is asserted. Separate writings preserve the recorded statutory, constitutional-doubt and institutional-standing disagreements.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1488,17 +1866,18 @@ Stone-Zsela agrees in the House judgment without joining Part II or adding a gro
 <!-- source-record: hughes_aircraft_co_v_jacobson_merits_1999-01-25.md -->
 
 **Case and dockets:** Hughes Aircraft Co. v. Jacobson; No. 97-1287; Ninth Circuit judgment, 105 F.3d 1288.
+
 **Event and date:** Merits decision, 1999-01-25; OT1998, chunk 4.
 
-## Form, assignment and final joins
+### Form, assignment and final joins
 
 One signed lead opinion after plenary merits review, resolving all six original claims with their separate statutory or plan predicates. The record supplies no reason to divide authorship, issue a per curiam disposition or treat amendment status as sufficient for every claim. Form fixed before the later recount; no author yet selected.
 
-The Chief is in the judgment coalition and assigns. All eight Associates are eligible to carry every proposition of the one lead opinion; Stone is not, because judgment-only agreement on its independent components supplies no rationale. Before assignment the actual opinion tables give: Stone-Zsela 3; Stevens 4; O'Connor 4; Scalia 5; Kennedy 4; Souter 4; Thomas 3; Ginsburg 4; Breyer 3. The last counted event is AT&T Corp. v. Iowa Utilities Board; Nos. 97-826, 97-829, 97-830, 97-831, 97-1075, 97-1087, 97-1099 and 97-1141; including California respondents in the AT&T, MCI and FCC petitions. (1999-01-25); its lead author is Scalia. The eligible set is Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The current balance pool is Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer. The Chief assigns Ginsburg. Her own Spink and John Hancock opinions identify the exact asset, function, genuine-payment and independent-claim distinctions that this original six-count complaint requires; her Varity join preserves actual administration and appropriate enforcement. Thomas is a lower-count pool alternative with strong statutory-predicate commitments, and Souter has the amendment-procedure and administration background. Ginsburg has the closer combined fit because she can apply, rather than flatten, the two governing opinions while giving each original statutory and contract theory its independent answer. The choice is within the pool and rests on those actual grounds, not historical authorship or an asserted inability of another Justice. No unresolved accommodation calls for expansion.
+The Chief is in the judgment coalition and assigns. All eight Associates are eligible to carry every proposition of the one lead opinion; Stone is not, because judgment-only agreement on its independent components supplies no rationale. Before assignment the actual opinion tables give: Stone-Zsela 4; Stevens 4; O'Connor 4; Scalia 5; Kennedy 3; Souter 4; Thomas 3; Ginsburg 4; Breyer 3. The last counted event is AT&T Corp. v. Iowa Utilities Board; Nos. 97-826, 97-829, 97-830, 97-831, 97-1075, 97-1087, 97-1099 and 97-1141; including California respondents in the AT&T, MCI and FCC petitions. (1999-01-25); its lead author is Scalia. The eligible set is Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The current balance pool is Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer. The Chief assigns Ginsburg. Her own Spink and John Hancock opinions identify the exact asset, function, genuine-payment and independent-claim distinctions that this original six-count complaint requires; her Varity join preserves actual administration and appropriate enforcement. Thomas is a lower-count pool alternative with strong statutory-predicate commitments, and Souter has the amendment-procedure and administration background. Ginsburg has the closer combined fit because she can apply, rather than flatten, the two governing opinions while giving each original statutory and contract theory its independent answer. The choice is within the pool and rests on those actual grounds, not historical authorship or an asserted inability of another Justice. No unresolved accommodation calls for expansion.
 
 Every Associate's final join retains the original claim-specific limitations: no employee-surplus ownership rule, no finding that surplus belongs to Hughes, no automatic exclusion of fiduciary asset control, no blanket plan-amendment defense to all claims, no removal of employee-contribution floors, no common-law termination substitute, no blanket payment exemption, and no dismissal of benefits enforcement solely because design is nonfiduciary. Souter and Breyer apply the governing Spink rule to genuine pension payments without reopening their reservation about other technical transactions. No substantive frozen commitment changes, no accommodation is invented, and no extra separate writing is needed to repeat preserved limits. Every merits disposition has nine votes; the separate rationale scopes are stated in the opinion table and each holding. No Marks synthesis is required.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1511,9 +1890,10 @@ Stone-Zsela agrees in the judgment on the remaining components without adding a 
 <!-- source-record: suster_v_marshall_merits_1999-01-28.md -->
 
 **Case and dockets:** Suster v. Marshall, No. 98-737; Sixth Circuit Nos. 96-4048, 96-4115, 96-4287, 96-4380 and 97-3174; 149 F.3d 523. The archived petition's caption is Marshall v. Suster.
+
 **Event and date:** Plenary post-grant merits decision, 1999-01-28; October Term 1998, chunk 4.
 
-## Form first, assignment and final joins
+### Form first, assignment and final joins
 
 Before author counts were considered, the case's distinct judicial-impartiality issue and interlocutory remedial boundaries called for one signed opinion following plenary merits review. One common rule and one preliminary judgment require no split into parts or additional opinions. The form does not depend on balance counts.
 
@@ -1523,11 +1903,11 @@ A fresh recount from the actual current-term Record opinion tables, in effective
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 3 |
+| Stone-Zsela | 4 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 5 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 5 |
 | Thomas | 3 |
 | Ginsburg | 5 |
@@ -1535,40 +1915,41 @@ A fresh recount from the actual current-term Record opinion tables, in effective
 
 The last counted event is Hughes Aircraft Co. v. Jacobson, January 25, 1999, authored by Ginsburg. Thirty-six signed plenary leads count. The newly written January 25 Census Record contributes Souter's lead before this assignment; its earlier effective date changes this fresh count but does not reopen any previously completed assignment, including Hughes. Per curiam and summary dispositions, procedural actions, separate writings and the formerly stopped Suster matter contribute no lead count.
 
-**Eligible authors:** all nine. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas and Breyer, whose counts do not exceed four, one above the eligible minimum of three. **Author selected:** Breyer.
+**Eligible authors:** all nine. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas, Breyer; minimum 3, ceiling 4. **Author selected:** Breyer.
 
 The opinion's particular work is to consider impartial adjudication as a real institutional interest while explaining why that interest does not fit this total ceiling, and to keep the legal holding distinct from final amended-law relief. Breyer's full Kruse and Colorado Republican Part I joins preserve expenditure protection and the transaction distinction; his published ACLF position gives administrative justifications their own fitted treatment. Those positions support a precise explanation of this institutional claim without weakening the shared expenditure rule or creating an empirical-waiting requirement. O'Connor is the strongest alternative through her own Kruse, Colorado Republican and ACLF positions and can perform the same work; Breyer is preferred at the lower count, three rather than four. Thomas's strong protection of direct advocacy is fully compatible with the opinion, but Breyer's recorded treatment of the asserted institutional justification supplies the more direct fit for this application's distinct issue. Stone's approved spending/source distinction and remedial limits also fit the task at count three, but offer no concrete advantage over Breyer's published integration of those expenditure and administrative principles. No Justice is excluded by perceived ability, experience or historical authorship. This is fit within the lawful pool, not an expansion assignment or a change in any commitment.
 
 Every final join matches the complete opinion and every frozen material limitation. No Associate's commitment changes, and no re-reconciliation is required. The signed plenary lead counts once for Breyer; separate writings add none.
 
-## Opinion Topology
+### Public Opinion Topology
 
 Breyer delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. No separate opinion is filed.
-
-### Exact additional lead-opinion table rows
-
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg | Unanimous affirmance of the preliminary expenditure protection | Complete rule, continuing-controversy application, actual scope and reserved questions |
 
 ---
 
 <!-- source-record: wright_v_ernst_and_young_merits_1999-02-04.md -->
 
 **Case and dockets:** Wright v. Ernst & Young LLP, No. 98-783.
+
 **Event and date:** Merits decision, 1999-02-04; October Term 1998, chunk 4.
+
+On certiorari under 28 U.S.C. §1254(1) to the Second Circuit, 152 F.3d 169, which affirmed final Rule 12(b)(6) dismissal of the amended complaint. The question is whether private approval of an issuer's publicly unattributed statement makes the outside auditor primarily liable under §10(b) and Rule 10b-5, with the preserved affirmative-assistance ground separately examined under governing law. Wright declined leave to replead; this Court neither supplies a different complaint nor reopens the separately deficient prospectus branch. The assigned decision date is the approved February 4, 1999 scheduling premise. Full post-grant merits consideration is established; no oral-argument date is supplied or invented.
 
 ### Form and assignment
 
-Before counting or choosing an author, the legal grounds require one signed opinion resolving the related primary-attribution, affirmative-assistance, and prospectus components after full merits review. Their shared nine-Justice rationale makes a single opinion appropriate. No separate writing is needed merely to repeat previously published disagreement with Central Bank's original foundation. No part is divided or combined to affect authorship counts.
-
-Chief Justice Stone-Zsela assigns from the unanimous tentative judgment coalition, whose members each support every governing proposition. Immediately before assignment, all qualifying earlier signed leads were recounted from the actual current-term Records' public opinion tables, including the three January 21–25 Records written earlier in this Run, in date and same-date alphabetical order. The count is 35 signed leads: Stone-Zsela 3; Stevens 4; O'Connor 4; Scalia 5; Kennedy 4; Souter 4; Thomas 3; Ginsburg 5; Breyer 3. The last counted event is Hughes Aircraft Co. v. Jacobson, January 25, 1999, Ginsburg's signed lead; AT&T precedes it that day. Per curiam and procedural events, separate opinions, and stopped matters supply no count.
+Chief Justice Stone-Zsela assigns from the unanimous tentative judgment coalition, whose members each support every governing proposition. Immediately before assignment, all qualifying earlier signed leads were recounted from the actual current-term Records' public opinion tables, including the three January 21–25 Records written earlier in this Run, in date and same-date alphabetical order. The count is 35 signed leads: Stone-Zsela 4; Stevens 4; O'Connor 4; Scalia 5; Kennedy 3; Souter 4; Thomas 3; Ginsburg 5; Breyer 3. The last counted event is Hughes Aircraft Co. v. Jacobson, January 25, 1999, Ginsburg's signed lead; AT&T precedes it that day. Per curiam and procedural events, separate opinions, and stopped matters supply no count.
 
 Eligible authors are all nine Justices, each of whom fully joins the same complete opinion. The eligible minimum is three. The balance pool is Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, and Breyer, each at no more than four; Scalia and Ginsburg are outside the pool at five. Thomas is assigned the whole opinion.
 
-This is a fit assignment, not an expansion assignment: the shared legal ground is settled and no necessary objection remains unresolved. The opinion must distinguish existing assistance responsibility from primary attribution, apply the demanding mental state without enlarging it, and confine the remedy to the actual preserved pleading. Thomas's frozen commitment expressly organizes those limits: no professional-status liability, investigation duty, broad remedial-purpose extension, negligence substitution, or new prospectus claim. That is a concrete fit for the opinion's boundary-setting work while applying precedent he originally opposed but later expressly preserved in First Jersey. His authorship does not withdraw that earlier objection or add a new statutory rationale. Stone's approved supplement is the strongest alternative for the same separation of liability and remedy; it supports the complete ground and makes him eligible at the same count, but supplies no accommodation or distinctive authorial gain beyond the ground all nine already share. Thomas can perform that work fully within the same lowest-count group. The form and all holdings preceded this choice; no historical Wright Supreme Court authorship exists to import.
+This is a fit assignment, not an expansion assignment: the shared legal ground is settled and no necessary objection remains unresolved. The opinion must distinguish existing assistance responsibility from primary attribution, apply the demanding mental state without enlarging it, and confine the remedy to the actual preserved pleading. Thomas's frozen commitment expressly organizes those limits: no professional-status liability, investigation duty, broad remedial-purpose extension, negligence substitution, or new prospectus claim. That is a concrete fit for the opinion's boundary-setting work while applying precedent he originally opposed but later expressly preserved in First Jersey. His authorship does not withdraw that earlier objection or add a new statutory rationale. Stone's approved supplement is the strongest alternative for the same separation of liability and remedy; it supports the complete ground and makes him eligible at four counted leads to Thomas's three, but supplies no accommodation or distinctive authorial gain beyond the ground all nine already share. Thomas can perform that work fully and shares the eligible minimum of three with Kennedy and Breyer. The form and all holdings preceded this choice; no historical Wright Supreme Court authorship exists to import.
 
-## Opinion Topology
+**Historical departure:** The assistance vacatur differs from the historical Second Circuit dismissal because the governing Central Bank decision preserves knowing or severely reckless affirmative substantial assistance. Stevens, Souter, and Ginsburg adopted that action; O'Connor, Scalia, Kennedy, and Thomas later joined First Jersey's express preservation of it despite their original dissent; Breyer joined that later preservation and is assigned no 1994 Supreme Court vote. No historical Supreme Court merits vote in Wright supplies a contrary commitment.
+
+The under-accrual, oral approval, recklessness, correction, and price decline are allegations or published recitations, not this Court's fraud findings. The lower characterization of assistance as tangential arose under the displaced legal rule; it is not an independent factual verdict. The post-grant date, Justice commitments, opinion form, assignment, and final legal application are simulation decisions, not recovered historical Supreme Court events. The source record supports this bounded remand without pretending the entire archived record was read in assembly. No unverified quotation is used. The later filing in another case reproduced in an archival supplemental brief is not treated as an SEC filing here.
+
+Final pleading sufficiency is an ordinary remand question, not an unresolved research blocker. Assembly validation passed for the case's approved Stone core, complete Associate compatibility, event-date law, jurisdiction and granted scope, participant and component arithmetic, form-before-count assignment, actual-Record balance pool, exact eleven-block public boundary, local link targets, absence of prohibited link types, and controlling-explanation ceilings. The frozen eight-Justice table was copied by script and compared to its source. No material adjudicative discrepancy remains. The Record is effective on the event date above. Coordinated workspace rebuilding, generated Render Input identity, and the full term checker are separate integration checks for control; this assembly receipt does not claim that they have already run. No Git command or hash-existence check was performed under the user's prohibition.
+
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1579,15 +1960,16 @@ This is a fit assignment, not an expansion assignment: the shared legal ground i
 <!-- source-record: hart_v_gwadosky_threshold_1999-02-11.md -->
 
 **Case and dockets:** Hart v. Gwadosky; No. 98-676; Maine Supreme Judicial Court No. Ken-98-280.
+
 **Event and date:** Threshold decision after post-grant consideration, 1999-02-11; OT1998, chunk 4.
 
-## Form, assignment and final compatibility
+### Form, assignment and final compatibility
 
 Before considering counts, the form is one signed threshold opinion after plenary post-grant consideration. The actual legal work requires a reasoned decision separating continuing federal injury from equitable treatment of a state judgment; it is not an unexplained remand for reconsideration. Related threshold and remedial holdings stay in one opinion because each Associate can carry both in full. A division to alter eligibility or counts is unwarranted.
 
-The Chief is in the unanimous judgment coalition and assigns. The fresh recount from the actual opinion tables of all prior effective OT1998 Records, including the Census and Suster Records written earlier in this Run, gives Stone-Zsela 3; Stevens 4; O'Connor 4; Scalia 5; Kennedy 4; Souter 5; Thomas 4; Ginsburg 5; Breyer 4. The last counted event is Wright v. Ernst & Young, February 4, 1999, authored by Thomas. Same-date cases were considered alphabetically. These new earlier-effective Records enter this count but reopen no completed later assignment.
+The Chief is in the unanimous judgment coalition and assigns. The fresh recount from the actual opinion tables of all prior effective OT1998 Records, including the Census and Suster Records written earlier in this Run, gives Stone-Zsela 4; Stevens 4; O'Connor 4; Scalia 5; Kennedy 3; Souter 5; Thomas 4; Ginsburg 5; Breyer 4. The last counted event is Wright v. Ernst & Young, February 4, 1999, authored by Thomas. Same-date cases were considered alphabetically. These new earlier-effective Records enter this count but reopen no completed later assignment.
 
-Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer are eligible for the whole opinion because each frozen reconciled commitment supports every governing proposition. Stone is not eligible because his Part II assent supplies only the remedial judgment. The eligible minimum is four; the pool ceiling is five. All eight Associates are therefore in the balance pool.
+Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer are eligible for the whole opinion because each frozen reconciled commitment supports every governing proposition. Stone is not eligible because his Part II assent supplies only the remedial judgment. The eligible minimum is three and the pool ceiling is four. Stevens, O'Connor, Kennedy, Thomas and Breyer form the pool; Scalia, Souter and Ginsburg remain eligible but have five leads.
 
 The Chief assigns O'Connor. Her Kentucky Right to Life opinion already separates a removed election injury from the distinct equities governing the lower judgment. Her date-eligible Oakes position also identifies the importance of respecting the actual remaining state proceeding, without importing its noncontrolling overbreadth theory. Those are concrete capabilities for this opinion's principal task: coordinating moot federal review, independent vacatur analysis and the limits of a state remand. Breyer, at the same count of four, is the strongest alternative because his Spencer opinion clearly states the recurrence requirements. O'Connor offers the closer fit for the additional state-judgment and equitable work that distinguishes Hart from a routine no-recurrence application. This is fit assignment; no unresolved objection requires expansion. Stone has no eligible self-assignment alternative. The single signed lead opinion counts once for O'Connor, although it has two differently joined parts.
 
@@ -1595,7 +1977,7 @@ For Section 8, this is a counted signed lead after the post-grant merits submiss
 
 The eight Associates retain every reconciled vote and ground. Part I has nine full joins. Part II has all eight Associates' full joins and Stone's remedial judgment vote. No revision of a frozen commitment, additional reconciliation or invented circulation history is needed. Both holdings directly command a majority; there is no Marks question. The judgment is nine to zero.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1609,21 +1991,41 @@ No separate writing is filed. No fractured-decision synthesis is needed: each co
 <!-- source-record: boring_v_buncombe_county_board_of_education_merits_1999-02-17.md -->
 
 **Case and dockets:** Boring v. Buncombe County Board of Education, No. 97-1835.
+
 **Event and date:** Merits decision, 1999-02-17; October Term 1998, chunk 4. Argued December 9, 1998.
+
+On certiorari under 28 U.S.C. §1254(1) to the Fourth Circuit en banc, 136 F.3d 364, February 13, 1998, amended March 18, 1998. That court affirmed final Rule 12(b)(6) dismissal of the First Amendment claim. Its former panel decision was vacated and is not the judgment under review. The approved grant date is October 5, 1998; argument and decision follow the authorized December 9, 1998 and February 17, 1999 schedule. Review concerns whether assigned school-play selection, production, and direction supply a teacher's personal First Amendment interest, and, conditionally, what standard governs if that interest exists. Other constitutional and state-law claims are outside the grant.
+
+[Focused entering law](../entering-law/OT_1998CHUNK4_B_FOCUSED.md) supplies the full Settle, Waters, Jeffries, and Brewster holdings and applicable standards. The [program-law supplement](../entering-law/OT_1998CHUNK4_B_BORING_PROGRAM_LAW.md) supplies Rosenberger and Finley at their actual published scope. These decisions leave the institutional attribution question open: a student's perspective within an assignment, unaffiliated citizen speech, an attendance-error report, private student publications, and selective private arts support do not automatically establish a teacher's personal right over the school's instructional production. Surviving Hazelwood, Pickering, Connick, Givhan, Mt. Healthy, Epperson, and Keyishian provide the identified contextual and constitutional boundaries. Event-date review includes [Yoshina](../entering-law/citizens_for_a_constitutional_convention_v_yoshina_merits_1999-01-21.md), [AT&T](../entering-law/att_corp_v_iowa_utilities_board_merits_1999-01-25.md), [Hughes](../entering-law/hughes_aircraft_co_v_jacobson_merits_1999-01-25.md), and [Wright v. Ernst & Young](../entering-law/wright_v_ernst_and_young_merits_1999-02-04.md), the last using only its bounded Public Projection. Yoshina's referendum attribution and concrete continuing-claim rules do not classify school instructional expression. AT&T's statutory allocation and contingent-forum ripeness questions supply no employee-speech rule. Hughes and Wright distinguish legal predicates, allegation status, and independent claims in their specific ERISA and securities settings; neither creates a teacher's personal curricular right or establishes actual motive here. Boring's final dismissal and granted First Amendment theory remain the same. No intervening effective event changes the frozen school-speech authorities, the facts or remedy, or Stone's fixed core. Hart, Suster, and Census remain stopped; no hypothetical disposition enters this review. No refreshed commitment or reconciliation is necessary.
+
+The approved [Boring supplement](../runtime/OT_1998CHUNK4_STONE.md) expressly requires affirmance: the assigned selection, production, and direction are institutional curricular expression, not this teacher's personal First Amendment speech. It requires nonreach of the conditional second question and preserves separate citizen speech, independent constitutional prohibitions, and other sources of employment protection. The Court's school-curriculum rule and exact reservations retain all those terms. Stone joins the whole opinion; no fallback, new alternative ground, or unauthorized narrowing is used. Alleged approval and compliance are accepted without treating them as a constitutional transfer of institutional control. The school is not found to have acted for a lawful motive or proved a same-decision defense. That distinction preserves Stone's stated Settle limit.
 
 ### Form and assignment
 
-Form first: this plenary constitutional decision issues in one signed Opinion of the Court, with one signed dissent because the four dissenters share a materially different antecedent-right rule and remedy. The Court's holding and the dissent's genuine-pedagogy alternative are settled before counting. No writing or part is created, split, or combined for balance.
-
-Chief Justice Stone-Zsela assigns from the five-Justice affirmance coalition after the governing propositions and form are settled. Immediately before this assignment, the signed leads were recounted from the actual public opinion tables of every qualifying earlier current-term Record, including Wright v. Ernst & Young, written earlier in this Run. The count is 36 signed leads: Stone-Zsela 3; Stevens 4; O'Connor 4; Scalia 5; Kennedy 4; Souter 4; Thomas 4; Ginsburg 5; Breyer 3. The last counted event is Wright v. Ernst & Young LLP, February 4, 1999, Thomas's signed lead. Dates and same-date alphabetical order control; stopped Suster, Hart, and Census matters and all uncounted forms supply no count.
+Chief Justice Stone-Zsela assigns from the five-Justice affirmance coalition after the governing propositions and form are settled. Immediately before this assignment, the signed leads were recounted from the actual public opinion tables of every qualifying earlier current-term Record, including Wright v. Ernst & Young, written earlier in this Run. The count is 36 signed leads: Stone-Zsela 4; Stevens 4; O'Connor 4; Scalia 5; Kennedy 3; Souter 4; Thomas 4; Ginsburg 5; Breyer 3. The last counted event is Wright v. Ernst & Young LLP, February 4, 1999, Thomas's signed lead. Dates and same-date alphabetical order control; stopped Suster, Hart, and Census matters and all uncounted forms supply no count.
 
 Eligible authors are Stone-Zsela, O'Connor, Scalia, Kennedy, and Thomas. Each fully supports every governing proposition of the confined institutional-curriculum opinion. Stevens, Souter, Ginsburg, and Breyer dissent on the antecedent-right question and are not eligible. The eligible minimum is three; the balance pool is Stone-Zsela, O'Connor, Kennedy, and Thomas, all at no more than four. Scalia is outside the pool at five. Stone-Zsela assigns the whole opinion to himself.
 
-This is a fit assignment with selective doctrinal leadership, not a claim that a numerically decisive vote demands authorship. Stone's approved supplement precisely states the legal development: distinguish this assigned institutional instructional choice from a personal speech interest, preserve independent constitutional limits, and leave the conditional scrutiny question unanswered. His writing can make that boundary explicit without converting curriculum into categorical immunity or importing a rule for all government employment. Kennedy is the strongest alternative because his frozen instructional-attribution ground distinguishes private editorial choice from the institution's program while preserving his Jeffries and Settle joins. Both can carry the full coalition without expansion. Stone has the lower count, three to Kennedy's four, and his approved formulation supplies a concrete advantage in stating the new attribution rule together with its nonreach. All four Associates' supported limits are adopted directly; authorship does not recruit a new join or erase the dissent. No part is divided for balance.
+This is a fit assignment with selective doctrinal leadership, not a claim that a numerically decisive vote demands authorship. Stone's approved supplement precisely states the legal development: distinguish this assigned institutional instructional choice from a personal speech interest, preserve independent constitutional limits, and leave the conditional scrutiny question unanswered. His writing can make that boundary explicit without converting curriculum into categorical immunity or importing a rule for all government employment. Kennedy is the strongest alternative because his frozen instructional-attribution ground distinguishes private editorial choice from the institution's program while preserving his Jeffries and Settle joins. Both can carry the full coalition without expansion. Stone has four counted leads to Kennedy's three; his approved formulation nevertheless supplies a concrete advantage within the pool in stating the new attribution rule together with its nonreach. All four Associates' supported limits are adopted directly; authorship does not recruit a new join or erase the dissent. No part is divided for balance.
 
-The dissent is written by Souter and joined by Stevens, Ginsburg, and Breyer. Its legal work is to distinguish final school control from a limited right against nonpedagogical retaliation after alleged approval. Souter's Settle and Jeffries opinions supply the case-specific connection between genuine institutional power, a protected expressive interest, and actual cause that his frozen Boring position develops. The four dissenters' complete shared rationale supports one writing; no extra opinion is created for counting, and the dissent does not count under §8.
+| Justice | Final commitment and own date-eligible support | Material join or refusal; remedy |
+|---|---|---|
+| Stevens | Vacate/remand; full Path B join. His Hazelwood majority join permits bounded school control; his full Settle join, Waters actual-speech position and Jeffries majority join require genuine constitutional limits and attention to actual cause. | Accept final school control and no universal curricular viewpoint neutrality. Refuse Path A's absence-of-personal-interest conclusion. No right to demand this play, strict scrutiny, liability finding or compulsory trial; independently sufficient defenses and conduct-date immunity remain. |
+| O'Connor | Affirm; full confined Path A join. Hazelwood and Rosenberger distinguish institutional activity from independent student expression; Waters and her Jeffries dissent examine the actual institutional role. Settle protects a student within an assignment without transferring control of the school's program. | Refuse Path B's antecedent personal entitlement. Also refuse legitimacy-by-definition, proven lawful motive, a same-decision finding or a universal rule for every assigned employee statement. Independent discrimination, separate citizen speech and student rights remain reserved. |
+| Scalia | Affirm; full confined Path A join. Hazelwood, Rosenberger and Settle distinguish the school's program from protected private participation; his Waters concurrence and Jeffries dissent preserve actual-ground rules where protection exists. | Approval and alleged hostility do not create constitutional delegation. No duty to perform a protected-speech balance before an antecedent interest is established, and no immunity for independently forbidden discrimination. No broader rule covering all government work. |
+| Kennedy | Affirm; full instructional-attribution Path A join. His Rosenberger opinion depends on private editorial attribution; his Settle and narrow Finley Court joins preserve contextual limits. His Jeffries majority join protects speech expressly outside assigned work, and his Waters concurrence join preserves causation after protection is established. | Refuse both Path B's claimed personal curricular interest and any blanket private-concern classification of all curricular subjects. No license to use curriculum as pretext against separate citizen advocacy; no universal professional-duty or university rule. |
+| Souter | Vacate/remand; full Path B join. His Settle opinion distinguishes real curricular power from constitutional immunity; his Jeffries opinion and Waters plurality join preserve contextual protection and actual cause. | The student/teacher distinction is material but does not extinguish the limited approved-expression interest he recognizes here. Refuse Path A and conceivable-reason deference. Mt. Healthy operates after protected conduct and its causal role are established; no compulsory trial, play approval or damages. |
+| Thomas | Affirm; full confined Path A join. His Rosenberger/Settle joins distinguish private expression within a program from administering the program; Waters and Jeffries dissent joins preserve actual institutional context without presumed causation. | Refuse Path B's personal curricular entitlement and the lower court's universal legitimacy rationale. No finding of policy violation, floor-damage cause or immunity; no all-employee-speech rule. |
+| Ginsburg | Vacate/remand; full Path B join. Her Settle, Waters plurality and Jeffries majority joins preserve bounded expressive protection and actual causation; her narrow Finley joins permit selection while retaining review of invidious applications. | No strict scrutiny for every content choice or automatic attribution of each character's views to Boring. Final school authority remains. Liability, municipal attribution and individual immunity are undecided; notice concerns 1991–1992 conduct. |
+| Breyer | Vacate/remand; full deferential Path B join. His Settle/Jeffries joins, Brewster opinion and narrow Finley opinion support institutional latitude with real constitutional boundaries and individualized defenses. | Refuse Path A's categorical absence of this limited interest. No required actual disruption in every curricular choice, compulsory evidentiary procedure or trial, or immunity notice drawn retrospectively from later law. |
 
-## Opinion Topology
+**Historical comparison:** The historical Supreme Court petition treatment provides no merits opinion or disclosed individual vote. The en banc lower court's 7–6 division cannot be assigned to these Justices. The majority reaches the lower judgment through the confined absence-of-personal-interest ground, not its alternative legitimacy-by-definition ground. The dissent's limited protection theory is supported by its members' own Settle, Waters, Jeffries, Brewster, and bounded Finley positions; it is not mechanically imported from the circuit dissent. No historical Supreme Court merits departure is invented.
+
+Research cutoff: February 17, 1999. The [full published en banc opinion](https://law.resource.org/pub/us/case/reporter/F3/136/136.F3d.364.95-2593.html), [saved text](../sources/chunk4_b/boring_lower.txt), [OpenJurist cross-check](https://openjurist.org/136/f3d/364), and [petition record](https://archive.org/details/micro_IA40386006_1533) establish the assignment, allegations, final dismissal, and competing reasons below. The [literal extracts](../sources/chunk4_b/B_SOURCE_EXTRACTS.md) and [download inventory](../sources/chunk4_b/B_SOURCE_INVENTORY.json) retain the research receipt. Published judicial recitation supports this confined decision under Engine §14; assembly does not claim full independent reading of every archived filing.
+
+Initial nonobjection, eventual approval with edits, compliance, the then scope of the controversial-materials policy, and retaliatory transfer are allegations or assumptions proper to Rule 12(b)(6), not trial findings. No finding establishes disobedience, actual lawful motive, or the auditorium-floor episode as an independent cause. No inference treats selection as personal endorsement of every dramatic character. The post-grant schedule, Justice positions, authorship, and legal application are simulation decisions rather than recovered historical Supreme Court events. No broader government-duty doctrine or later-law notice is imported. Under the dissent's proposed remand, personal immunity would concern the actual 1991–1992 conduct, not notice from later simulated decisions. Assembly validation passed for the case's approved Stone core, complete Associate compatibility, event-date law, jurisdiction and granted scope, participant and component arithmetic, form-before-count assignment, actual-Record balance pool, exact eleven-block public boundary, local link targets, absence of prohibited link types, and controlling-explanation ceilings. The frozen eight-Justice table was copied by script and compared to its source. No material adjudicative discrepancy remains. The Record is effective on the event date above. Coordinated workspace rebuilding, generated Render Input identity, and the full term checker are separate integration checks for control; this assembly receipt does not claim that they have already run. No Git command or hash-existence check was performed under the user's prohibition.
+
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1635,9 +2037,10 @@ The dissent is written by Souter and joined by Stevens, Ginsburg, and Breyer. It
 <!-- source-record: john_crane_inc_v_abate_merits_1999-02-18.md -->
 
 **Case and dockets:** John Crane, Inc. v. Abate; No. 98-873.
+
 **Event and date:** Merits decision, 1999-02-18; OT1998, chunk 4.
 
-## Form, opinion assignment and final joins
+### Form, opinion assignment and final joins
 
 A signed plenary opinion is selected before the assignment calculation because the Court resolves a preserved constitutional challenge on a developed trial record and defines the boundary between common findings and individual defenses. No separate writing is needed: all nine support the complete bounded rationale. This form is not selected to alter the assignment count.
 
@@ -1645,25 +2048,25 @@ Stone-Zsela assigns as Chief because he belongs to the judgment coalition on eve
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 5 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 4 |
 | Thomas | 4 |
 | Ginsburg | 5 |
 | Breyer | 3 |
 
-**Last counted event:** Boring v. Buncombe County Board of Education, No. 97-1835., 1999-02-17. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas and Breyer. **Selected author:** Breyer.
+**Last counted event:** Boring v. Buncombe County Board of Education, No. 97-1835., 1999-02-17. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer; minimum 3, ceiling 4. **Selected author:** Breyer.
 
 Fit governs: the complete bounded ground is already shared, so no expansion accommodation or new join is needed. Breyer is selected from the actual pool. His frozen Amchem-based position directly identifies the work this opinion requires: examine the procedure the appellate court actually reviewed, explain why corrected mistakes do not themselves show jury incapacity, and preserve the difference between a real opportunity to contest a common issue and aggregate convenience. His present commitment requires the Crane catalog explanation and does not treat later mini-trials as a cure for a lost defense. That supplies a concrete basis for carrying the record-sensitive rationale without broadening it.
 
-Stone, with four earlier counted opinions, is the strongest alternative for stating the meaningful-defense and individual-proof boundary. His approved core can carry the complete opinion, but it supplies no needed accommodation absent from Breyer's position and no distinct drafting advantage for this already settled coalition. Breyer can state that boundary equally faithfully and has the lower count of three, so the balance rule favors him. Other eligible pool members can also write the opinion; none is excluded for experience, style, earlier authorship or perceived ability. Scalia and Ginsburg are eligible but outside the current balance pool. The choice rests on the opinion's actual record-analysis task and permissible balance, not historical authorship or an invented circulation change.
+Kennedy, at three counted leads, is the strongest pool alternative and fully supports the meaningful-defense and individual-proof boundary. Stone supports that formulation but is outside the pool at five. His approved core can carry the complete opinion, but it supplies no needed accommodation absent from Breyer's position and no distinct drafting advantage for this already settled coalition. Breyer and Kennedy each have three counted leads; Breyer's demonstrated coordination of the common and individual proof questions supplies the stated fit advantage. Other eligible pool members can also write the opinion; none is excluded for experience, style, earlier authorship or perceived ability. Scalia and Ginsburg are eligible but outside the current balance pool. The choice rests on the opinion's actual record-analysis task and permissible balance, not historical authorship or an invented circulation change.
 
 Breyer writes the Court's opinion, joined in full by the other eight Justices. All nine support the same affirmance and each controlling proposition. There is no judgment-only coalition, plurality, or unresolved narrowest-ground question.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1676,9 +2079,10 @@ No separate opinion is filed.
 <!-- source-record: national_collegiate_athletic_association_v_smith_merits_1999-02-23.md -->
 
 **Case and dockets:** National Collegiate Athletic Association v. Smith; No. 98-84.
+
 **Event and date:** Merits decision, 1999-02-23; OT1998, chunk 4.
 
-## Form, assignment and final compatibility
+### Form, assignment and final compatibility
 
 A single signed plenary opinion is selected before considering counts because the argued case resolves a statutory coverage rule and its pleading-stage consequence. The preserved alternatives require qualifications, not separate judgments or opinions. All nine support the same bounded rule and remand; no separate writing performs additional legal work. The form and proposition boundaries are independent of assignment balance.
 
@@ -1686,25 +2090,25 @@ Stone-Zsela assigns as Chief because he belongs to the judgment coalition on eve
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 5 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 4 |
 | Thomas | 4 |
 | Ginsburg | 5 |
 | Breyer | 4 |
 
-**Last counted event:** John Crane, Inc. v. Abate; No. 98-873., 1999-02-18. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Selected author:** O'Connor.
+**Last counted event:** John Crane, Inc. v. Abate; No. 98-873., 1999-02-18. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer; minimum 3, ceiling 4. **Selected author:** O'Connor.
 
 Fit governs because all nine already share the operative receipt rule and bounded remand; no new accommodation is needed to obtain a necessary join. O'Connor is selected from the actual pool. Her frozen position combines the statutory conditions emphasized in her Kelley opinion and the recipient-acceptance and funding-notice premise of her Gebser position. The legal work is to explain why institution-wide coverage and indirect delivery do not dispense with actual receipt, while preserving genuinely different NYSP and control theories and their own procedural prerequisites. Her recorded commitment expressly preserves those alternatives and the distinction between coverage and damages, so this fit does not presume that she would foreclose the functional theories favored by other Justices.
 
-Stone is a strong alternative at the same count of four: his approved rule squarely separates dues from assistance and preserves the two alternatives. O'Connor offers a concrete advantage in stating the funding condition together with the distinction between covered institutional athletics and the separate association, without importing Gebser's attribution dispute. Her ability to carry the full reserved remand is already frozen, so selection changes no vote or ground. Stevens is also a strong alternative for the pro se pleading limits; those ordinary remand principles are settled here and do not require an expansion assignment. Every Justice is eligible and in the pool; none is excluded for style, prior authorship or experience. Historical authorship plays no role.
+Stone is substantively eligible but outside the pool at five: his approved rule squarely separates dues from assistance and preserves the two alternatives. O'Connor offers a concrete advantage in stating the funding condition together with the distinction between covered institutional athletics and the separate association, without importing Gebser's attribution dispute. Her ability to carry the full reserved remand is already frozen, so selection changes no vote or ground. Stevens is also a strong alternative for the pro se pleading limits; those ordinary remand principles are settled here and do not require an expansion assignment. Every Justice is eligible and in the pool; none is excluded for style, prior authorship or experience. Historical authorship plays no role.
 
 O'Connor writes for the Court; the other eight join in full. The precise final join is to the recipient/beneficiary distinction, the whole statutory and regulatory reading, reservation of properly presented alternatives, and ordinary remand. Each frozen Justice's objections to automatic association coverage, categorical immunity, an Article III dismissal, a guaranteed amendment, or an award without proof are preserved by those limits. No commitment changes and no invented circulation history is necessary. The statutory dues rule does not decide the different attribution question on which the Justices divided in Gebser.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1717,9 +2121,10 @@ No separate opinion is filed.
 <!-- source-record: your_home_visiting_nurse_services_v_shalala_merits_1999-02-23.md -->
 
 **Case and dockets:** Your Home Visiting Nurse Services, Inc. v. Shalala; No. 97-1489.
+
 **Event and date:** Merits decision, 1999-02-23; OT1998, chunk 4.
 
-## Form, assignment and final joins
+### Form, assignment and final joins
 
 A single signed plenary opinion is selected before counts because an argued case presents related but legally distinct review channels. Its whole-opinion author can carry each ground. The separate statutory and regulatory passages within Part I preserve an actual difference in supported assent; they are not separate opinions, counting units or an evasion of the explanation ceiling. No separate Stone writing adds legal work because his statutory ground and exact partial join are fully stated. No opinion form or scope is chosen to affect balance.
 
@@ -1727,21 +2132,21 @@ Stone-Zsela assigns as Chief because he belongs to the judgment coalition on eve
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 5 |
 | Scalia | 5 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 4 |
 | Thomas | 4 |
 | Ginsburg | 5 |
 | Breyer | 4 |
 
-**Last counted event:** National Collegiate Athletic Association v. Smith; No. 98-84., 1999-02-23. **Eligible authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Selected author:** Kennedy.
+**Last counted event:** National Collegiate Athletic Association v. Smith; No. 98-84., 1999-02-23. **Eligible authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stevens, Kennedy, Souter, Thomas, Breyer; minimum 3, ceiling 4. **Selected author:** Kennedy.
 
 Fit governs: the eight Associates already share every statutory, regulatory and remedial ground with the recorded exceptions, and no expansion accommodation is needed. Kennedy is selected from the actual pool. His frozen position expressly separates the Board's jurisdiction from reopening discretion and the original payment, keeps permissible interpretation distinct from amendment, and requires the actual agency ground to remain within binding law. His Thomas Jefferson, Guernsey and Auer opinions supply concrete examples of performing that work; prior authorship does not itself make him eligible or preferred. This opinion needs that same precise coordination of a statutory threshold, a supporting regulatory construction, three distinct alternative channels and the difference between substantive accuracy and a duty to reopen.
 
-Breyer is the strongest alternative, also with four counted opinions. His Regions opinion precisely separates correction of an input for future payments from a final annual payment and supports the finality analysis here. Kennedy offers the stronger combined fit for presenting all the channels without letting regulatory deference or a manual create statutory jurisdiction, while carrying the same finality distinction and preserving the mandatory regulatory triggers. That is a case-specific drafting advantage on settled grounds, not a presumed difference in ability or a needed new vote. The remaining eligible Associates are all within the pool. Stone cannot supply the opinion's independent grounds through his fallback, so self-assignment of the whole opinion is unavailable; no division is necessary because all eight Associates can carry it in full. Historical authorship supplies no premise.
+Breyer is the strongest alternative at four counted opinions, compared with Kennedy's three. His Regions opinion precisely separates correction of an input for future payments from a final annual payment and supports the finality analysis here. Kennedy offers the stronger combined fit for presenting all the channels without letting regulatory deference or a manual create statutory jurisdiction, while carrying the same finality distinction and preserving the mandatory regulatory triggers. That is a case-specific drafting advantage on settled grounds, not a presumed difference in ability or a needed new vote. Stevens, Souter and Thomas are also in the pool; O'Connor, Scalia and Ginsburg remain substantively eligible but are outside it at five. Stone cannot supply the opinion's independent grounds through his fallback, so self-assignment of the whole opinion is unavailable; no division is necessary because all eight Associates can carry it in full. Historical authorship supplies no premise.
 
 Stone is ineligible to author the complete opinion: his approved core joins Part I-A, but his standing fallback supplies no grounds for Parts II–IV and he does not join Part I-B. Each Associate can carry all parts, so division among authors is unnecessary.
 
@@ -1749,7 +2154,7 @@ Kennedy writes the Court's opinion. Stevens, O'Connor, Scalia, Kennedy, Souter, 
 
 The final compatibility test preserves every Associate's frozen boundary: review of the Board's jurisdiction is distinct from reopening review; the refusal claim was exhausted; no manual has legislative force; paragraphs (b) and (d) retain their commands; §1361 preclusion is left open; the compensation claim is not decided; no amount/grouping or necessary-party defect is manufactured. No frozen Associate position changes and no circulation history is invented.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1763,9 +2168,10 @@ No separate opinion is filed.
 <!-- source-record: reno_v_american_arab_anti_discrimination_committee_merits_1999-02-24.md -->
 
 **Case and dockets:** Reno v. American-Arab Anti-Discrimination Committee; No. 97-1252; Ninth Circuit judgment, 119 F.3d 1367.
+
 **Event and date:** Merits decision; 1999-02-24; OT1998 chunk 4.
 
-## Form, assignment and final joins
+### Form, assignment and final joins
 
 **Form first:** One signed opinion after plenary argument resolves an express jurisdictional restriction, the actual factual-review route, a disputed confined construction and distinct injunction consequences. The case is neither a routine summary application nor several opinions requiring separate assignment. Parts I, II and III-A state the eight Associates' shared legal ground; Parts III-B and IV state the five-Associate construction and remedy. These divisions reflect substantive differences before considering author counts. The separate writings preserve the incompatible remedial choices. There is no Marks aggregation and no opinion split to alter eligibility.
 
@@ -1773,11 +2179,11 @@ No separate opinion is filed.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 5 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 4 |
 | Thomas | 4 |
 | Ginsburg | 5 |
@@ -1805,7 +2211,7 @@ The [fresh actual-table recount](../runtime/OT_1998CHUNK4_RENO_ASSIGNMENT_RECOUN
 
 The final text answers every recorded ground-A join barrier by preserving the actual-barrier trigger, a live claimant, the stronger statutory text, the nonjurisdictional character of subsection (f), and separate individualized equitable treatment. The three ground-B Justices' contrary statutory construction and remedy remain published, not purportedly negotiated away. No non-Stone commitment changes after reconciliation; no new reconciliation audit is triggered. Final compatibility alone establishes these joins, without invented draft exchanges or circulation history.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1821,9 +2227,10 @@ The controlling constructions have direct majorities. The three-Justice limited-
 <!-- source-record: minns_v_united_states_merits_1999-02-25.md -->
 
 **Case and dockets:** Minns v. United States; No. 98-903; OT1998.
+
 **Event and date:** Merits decision; 1999-02-25.
 
-## Form and sequential assignment
+### Form and sequential assignment
 
 Before counting, the legal structure requires one signed lead: an Opinion of the Court in Part I on actual protected policy selection, and an opinion announcing the judgment in Part II on the remaining statutory application. O'Connor supplies a distinct Feres concurrence; Ginsburg supplies the shared partial dissent and Scalia a separate qualification. The grounds are not combined into a fictitious majority rationale. One author can carry every lead proposition; division among authors is unnecessary.
 
@@ -1831,19 +2238,20 @@ Stone is in the judgment coalition and assigns. The fresh opinion-table recount,
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 6 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 4 |
 | Ginsburg | 5 |
 | Breyer | 5 |
 
-Last counted event: Reno v. American-Arab Anti-Discrimination Committee, February 24, 1999, Souter. Eligible full-lead authors: O'Connor, Kennedy, Thomas and Breyer. Balance pool: Thomas, Kennedy and Breyer. Chosen author: Thomas. Fit governs: the lead must keep the enacted exception, policy characterization and reserved Feres question distinct; Thomas's frozen statutory ground carries precisely that work and every reservation. Kennedy's Aktepe authorship and Breyer's policy-sensitive statutory application are viable pool alternatives, but require no accommodation unavailable to Thomas and carry higher counts. Stone cannot carry this rationale from his approved position. The lead counts once for Thomas; separate writings do not count. Their authorship follows the distinct published grounds, not the balancing tally.
+Last counted event: Reno v. American-Arab Anti-Discrimination Committee, February 24, 1999, Souter. Eligible full-lead authors: O'Connor, Kennedy, Thomas and Breyer. Balance pool: Kennedy, Thomas, Breyer; minimum 4, ceiling 5. Chosen author: Thomas. Fit governs: the lead must keep the enacted exception, policy characterization and reserved Feres question distinct; Thomas's frozen statutory ground carries precisely that work and every reservation. Kennedy's Aktepe authorship and Breyer's policy-sensitive statutory application are viable pool alternatives, but require no accommodation unavailable to Thomas. Kennedy shares Thomas's count of four; Breyer has five. Stone cannot carry this rationale from his approved position. The lead counts once for Thomas; separate writings do not count. Their authorship follows the distinct published grounds, not the balancing tally.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court, Part I; opinion announcing the judgment, Part II | Thomas | Part I: Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer. Part II: O'Connor, Kennedy, Breyer. | Affirmance | Part I protects actual discretionary policy selection. Part II finds the remaining pleaded claims policy-dependent and sustains the whole dismissal. |
@@ -1856,27 +2264,35 @@ Last counted event: Reno v. American-Arab Anti-Discrimination Committee, Februar
 <!-- source-record: arizona_department_of_revenue_v_blaze_construction_merits_1999-03-02.md -->
 
 **Case and dockets:** Arizona Department of Revenue v. Blaze Construction Co.; No. 97-1536; OT1998.
+
 **Event and date:** Merits decision; 1999-03-02.
 
-## Sequential assignment
+### Stone, form and compatibility
+
+Stone's approved position reverses the tax invalidation, preserves a controlling federal exemption or genuine sovereign immunity, and distinguishes legal incidence from economic reimbursement. It permits this nondiscriminatory tax on the independent federal contractor. He joins every proposition below. The reservation for an actual contrary federal source does not authorize Bracker/Ramah interest balancing for these ordinary federal contracts. No affirmative treaty exemption, special regulatory immunity, discrimination finding or final tax amount is invented. No fallback is used.
+
+Before counting, one signed Opinion of the Court is selected on the common federal-contract rule, the specific asserted exemptions and the confined remand. The reconciled eight Associates and Stone share those grounds. The hypothetical interest-balancing path in the preliminary adversarial analysis is not an alternative holding. No separate opinion or divided authorship is needed.
+
+### Sequential assignment
 
 The Chief assigns. The [fresh actual opinion-table recount](../runtime/OT_1998CHUNK5_BLAZE_ASSIGNMENT_RECOUNT.json) includes Minns.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 6 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 5 |
 | Breyer | 5 |
 
-Last counted event: Minns, February 25, 1999, Thomas. All nine are eligible full-rationale authors. Balance pool: Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg and Breyer. Chosen author: Stevens. Fit governs. His Cotton opinion and Bracker/Ramah separate positions directly distinguish indirect fiscal burden from a controlling federal displacement and preserve different tribal transactions. That is the precise legal work of this opinion. He shares the lowest eligible count and can carry Stone's approved reservations without any accommodation or additional theory. Stone has no superior case-specific authorship claim. The signed lead counts once for Stevens. No invented circulation or post-reconciliation change occurs.
+Last counted event: Minns, February 25, 1999, Thomas. All nine are eligible full-rationale authors. Balance pool: Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer; minimum 4, ceiling 5. Chosen author: Stevens. Fit governs. His Cotton opinion and Bracker/Ramah separate positions directly distinguish indirect fiscal burden from a controlling federal displacement and preserve different tribal transactions. That is the precise legal work of this opinion. He shares the lowest eligible count and can carry Stone's approved reservations without any accommodation or additional theory. Stone has no superior case-specific authorship claim. The signed lead counts once for Stevens. No invented circulation or post-reconciliation change occurs.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and confined remand | Federal-contract rule, asserted federal exemptions, limits and credits. |
@@ -1886,27 +2302,35 @@ Last counted event: Minns, February 25, 1999, Thomas. All nine are eligible full
 <!-- source-record: holloway_v_united_states_merits_1999-03-02.md -->
 
 **Case and dockets:** Holloway v. United States; No. 97-7164; OT1998.
+
 **Event and date:** Merits decision; 1999-03-02.
 
-## Sequential assignment
+### Stone, form and final compatibility
+
+Stone approves affirmance on actual present conditional intent at the demand or taking, excluding intimidation alone, bluff, recklessness and later-formed intent. He joins the full seven-Justice formulation below. Rejecting a requirement that resistance itself be desired or likely implements that approved actual-purpose rule; it supplies no new fact or independent trial-error disposition. No fallback is used. His position does not join either dissent's narrower statutory reading.
+
+Form was selected before counts: one signed Opinion of the Court on the statute and actual instruction, with distinct Scalia and Thomas dissents because their ordinary-usage and settled-tradition grounds differ. No additional controlling constitutional ruling is necessary. All six reconciled affirming Associates join the common formulation in full. No circulation revision or additional join is invented.
+
+### Sequential assignment
 
 The Chief assigns. The [fresh actual opinion-table recount](../runtime/OT_1998CHUNK5_HOLLOWAY_ASSIGNMENT_RECOUNT.json) includes both earlier chunk decisions.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 5 |
 | O'Connor | 6 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 5 |
 | Breyer | 5 |
 
-Last counted event: Blaze, March 2, 1999, Stevens. Eligible full authors: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Balance pool: Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer. Chosen author: Ginsburg. Fit governs. Her Bousley work separates an offense's actual mental element from a different remedial question, and her Bryan dissent insists on preserving the enacted mental relation. Here that discipline permits a common conditional-purpose rule while refusing a gun-based presumption or an extra probability element. This is a concrete advantage in explaining why recognizing conditional purpose does not dilute specific intent. Stevens and Kennedy are capable pool alternatives; Stone's approved formulation is fully retained without a distinctive self-assignment advantage. The lead counts once for Ginsburg. Separate dissents do not count, and their authorship is based on their distinct grounds, not historical assignment.
+Last counted event: Blaze, March 2, 1999, Stevens. Eligible full authors: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Balance pool: Stone-Zsela, Stevens, Kennedy, Ginsburg, Breyer; minimum 4, ceiling 5. Chosen author: Ginsburg. Fit governs. Her Bousley work separates an offense's actual mental element from a different remedial question, and her Bryan dissent insists on preserving the enacted mental relation. Here that discipline permits a common conditional-purpose rule while refusing a gun-based presumption or an extra probability element. This is a concrete advantage in explaining why recognizing conditional purpose does not dilute specific intent. Stevens and Kennedy are capable pool alternatives; Stone's approved formulation is fully retained without a distinctive self-assignment advantage. The lead counts once for Ginsburg. Separate dissents do not count, and their authorship is based on their distinct grounds, not historical assignment.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Breyer | Affirmance | Actual conditional purpose, timing, proof, statutory argument and instruction limits. |
@@ -1918,9 +2342,10 @@ Last counted event: Blaze, March 2, 1999, Stevens. Eligible full authors: Stone-
 <!-- source-record: peguero_v_united_states_merits_1999-03-02.md -->
 
 **Case and dockets:** Peguero v. United States; No. 97-9217; OT1998.
+
 **Event and date:** Merits decision; 1999-03-02.
 
-## Form and sequential assignment
+### Form and sequential assignment
 
 Before counting, one signed Opinion of the Court is selected: Part I resolves the actual appellate channel with eight joins; Part II decides the collateral remedy with nine. The same eight Associates can carry every proposition, so author division is unnecessary. The Chief is in the judgment coalition and assigns.
 
@@ -1928,19 +2353,20 @@ The [fresh opinion-table recount](../runtime/OT_1998CHUNK5_PEGUERO_ASSIGNMENT_RE
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 5 |
 | O'Connor | 6 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 6 |
 | Breyer | 5 |
 
-Last counted event: Holloway, March 2, 1999, Ginsburg. Eligible full-lead authors: all eight Associate Justices; Stone is ineligible because his approved position supplies no Part I ground. Balance pool: all eight Associates, each at five or six. Chosen author: Scalia. Fit governs. His Hohn dissent expressly distinguishes permission to appeal from the appeal itself; here permission actually issued. His Bousley dissent also separates collateral constraints from automatic relief for a statutory or procedural error. He can explain both distinctions without treating consent as jurisdiction or likely success as causal prejudice. Ginsburg's Hohn and Bousley opinions provide a strong pool alternative but carry the higher count; no necessary accommodation gives another author a superior claim. The lead counts once for Scalia.
+Last counted event: Holloway, March 2, 1999, Ginsburg. Eligible full-lead authors: all eight Associate Justices; Stone is ineligible because his approved position supplies no Part I ground. Balance pool: Stevens, Scalia, Kennedy, Thomas, Breyer; minimum 4, ceiling 5. Chosen author: Scalia. Fit governs. His Hohn dissent expressly distinguishes permission to appeal from the appeal itself; here permission actually issued. His Bousley dissent also separates collateral constraints from automatic relief for a statutory or procedural error. He can explain both distinctions without treating consent as jurisdiction or likely success as causal prejudice. Kennedy is a lower-count pool alternative at four and fully supports the settled distinction. Ginsburg's Hohn and Bousley opinions show substantive fit, but her six leads place her outside the pool; no necessary accommodation defeats Scalia's stated fit advantage. The lead counts once for Scalia.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Scalia | Part I: Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer. Part II: those Justices and Stone-Zsela. | Reach and affirm | Part I addresses the issued certificate; Part II addresses mandatory advice and causal collateral loss. |
@@ -1952,9 +2378,10 @@ Stone-Zsela agrees with the Court's disposition of the issued-certificate object
 <!-- source-record: american_manufacturers_v_sullivan_merits_1999-03-03.md -->
 
 **Case and dockets:** American Manufacturers Mutual Insurance Co. v. Sullivan; No. 97-2000; OT1998.
+
 **Event and date:** Merits decision; 1999-03-03.
 
-## Form and sequential assignment
+### Form and sequential assignment
 
 Before counting, the supported form is one signed Opinion of the Court with distinct Part I and II coalitions, accompanied by Ginsburg's concurrence, Breyer's concurrence joined by Souter, and Stevens's opinion concurring in part and dissenting in part. No author split is needed because seven Justices can carry every lead proposition. The different reasons for rejecting categorical payment do not require a Marks synthesis.
 
@@ -1962,19 +2389,20 @@ The Chief assigns. The [fresh actual opinion-table recount](../runtime/OT_1998CH
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 5 |
 | O'Connor | 6 |
 | Scalia | 6 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 6 |
 | Breyer | 5 |
 
-Last counted event: Peguero, March 2, 1999, Scalia. Full-lead eligible authors: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Balance pool: Stone-Zsela, Kennedy, Thomas and Breyer. Chosen author: Kennedy. Fit governs. His Edmonson opinion identifies actual governmental participation in a nominally private act, and his current West Covina opinion separates a supported procedural objection from an additional categorical demand. Those are the two concrete distinctions this opinion must coordinate while preserving the public parties and existing claims. Thomas and Breyer can carry the same formulation; Kennedy's direct authorship of both kinds of distinction supplies the fit advantage. Stone's objectives are retained without a distinctive self-assignment claim. The lead counts once for Kennedy; separate writings do not count. No draft exchange, forced accommodation or post-reconciliation commitment change is invented.
+Last counted event: Peguero, March 2, 1999, Scalia. Full-lead eligible authors: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Balance pool: Stone-Zsela, Kennedy, Thomas, Breyer; minimum 4, ceiling 5. Chosen author: Kennedy. Fit governs. His Edmonson opinion identifies actual governmental participation in a nominally private act, and his current West Covina opinion separates a supported procedural objection from an additional categorical demand. Those are the two concrete distinctions this opinion must coordinate while preserving the public parties and existing claims. Thomas and Breyer can carry the same formulation; Kennedy's direct authorship of both kinds of distinction supplies the fit advantage. Stone's objectives are retained without a distinctive self-assignment claim. The lead counts once for Kennedy; separate writings do not count. No draft exchange, forced accommodation or post-reconciliation commitment change is invented.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Kennedy | Part I: Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Breyer. Part II: those Justices and Ginsburg. | Reversal and confined remand | I: particular private attribution. II: no unconditional advance payment inferred from general eligibility. Mandate retains each part's limits. |
@@ -1987,9 +2415,10 @@ Last counted event: Peguero, March 2, 1999, Scalia. Full-lead eligible authors: 
 <!-- source-record: cedar_rapids_v_garret_f_merits_1999-03-03.md -->
 
 **Case and dockets:** Cedar Rapids Community School District v. Garret F.; No. 96-1793; OT1998.
+
 **Event and date:** Merits decision; 1999-03-03.
 
-## Form and sequential assignment
+### Form and sequential assignment
 
 Before counting, one signed Opinion of the Court and a joint statutory/funding-notice dissent are selected. Part I states the service rule and actual remedy; Part II answers the distinct funding-notice objection. Six Associates can carry every lead proposition; Stone's judgment-only position on Part II does not require division of authorship.
 
@@ -1997,19 +2426,20 @@ The Chief assigns. The [fresh opinion-table recount](../runtime/OT_1998CHUNK5_CE
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 5 |
 | O'Connor | 6 |
 | Scalia | 6 |
-| Kennedy | 6 |
+| Kennedy | 5 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 6 |
 | Breyer | 5 |
 
-Last counted event: Sullivan, March 3, 1999, Kennedy. Eligible full authors: Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer. Balance pool: those six Associates, each at five or six counted opinions. Chosen author: Stevens. Fit governs. His Tatro participation accepted the related-services analysis while his separate position objected to deciding unpresented fees; that combination directly fits faithful treatment of Tatro and disciplined separation of the coverage duty from an unadjudicated monetary remedy. Breyer can present the agency and administrative findings, but Stevens's specific precedent-and-remedy work supplies the fit advantage. O'Connor's Carter opinion and the other pool members' full joins also support the work, but supply no necessary accommodation or closer combined precedent-and-remedy fit. Stone's approved operative IEP direction is retained; his fallback-only vote on notice excludes him from full-lead authorship. The lead counts once for Stevens; Thomas's dissent, joined by Kennedy, does not count.
+Last counted event: Sullivan, March 3, 1999, Kennedy. Eligible full authors: Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer. Balance pool: Stevens, O'Connor, Scalia, Souter, Ginsburg, Breyer; minimum 5, ceiling 6. Chosen author: Stevens. Fit governs. His Tatro participation accepted the related-services analysis while his separate position objected to deciding unpresented fees; that combination directly fits faithful treatment of Tatro and disciplined separation of the coverage duty from an unadjudicated monetary remedy. Breyer can present the agency and administrative findings, but Stevens's specific precedent-and-remedy work supplies the fit advantage. O'Connor's Carter opinion and the other pool members' full joins also support the work, but supply no necessary accommodation or closer combined precedent-and-remedy fit. Stone's approved operative IEP direction is retained; his fallback-only vote on notice excludes him from full-lead authorship. The lead counts once for Stevens; Thomas's dissent, joined by Kennedy, does not count.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Stevens | Part I: Stone-Zsela, O'Connor, Scalia, Souter, Ginsburg, Breyer. Part II: O'Connor, Scalia, Souter, Ginsburg, Breyer. | Affirmance | I: physician boundary, educational necessity, rejection of an added burden exclusion and qualified remedy. II: funding notice. |
@@ -2022,17 +2452,18 @@ Stone-Zsela agrees with rejecting the Spending Clause funding-notice objection w
 <!-- source-record: federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md -->
 
 **Case and dockets:** Federal Republic of Germany, Chrobog and Rudolph v. United States and Hull; No. 127, Original; A-736.
+
 **Event and date:** Original leave and interim order, 1999-03-03; OT1998, chunk 5.
 
-## Form and assignment
+### Form and assignment
 
 Before counting, the form is one original-proceeding order with signed explanations, including a five-Justice explanation of the two interim denials, a four-Justice dissent, and Stone's separate leave position. It is neither plenary merits adjudication nor a summary adjudication of the international dispute. The administrative printing and leave-reservation directions need no newly manufactured substantive opinion. The order is not divided to alter assignments.
 
-The Chief assigns the common interim explanation because he joins its judgment and every proposition. Eligible authors are Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. The fresh [assignment recount](../runtime/OT_1998CHUNK5_GERMANY_ASSIGNMENT_RECOUNT.json), from actual current-term opinion tables, gives Stone-Zsela 4; Stevens 6; O'Connor 6; Scalia 6; Kennedy 6; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. The last counted event is *Cedar Rapids*, March 3, 1999 (Stevens). The eligible minimum is four and the pool is Stone-Zsela and Thomas. Stone writes Part I: his approved case-specific analysis precisely separates the real original channel, domestic command and interim showing while preserving both new-duty and connected-officer questions. Thomas can carry that ground, but offers no superior accommodation and has the higher count. No expansion or altered join is asserted. This original interim explanation does not count as a plenary lead under §8.
+The Chief assigns the common interim explanation because he joins its judgment and every proposition. Eligible authors are Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. The fresh [assignment recount](../runtime/OT_1998CHUNK5_GERMANY_ASSIGNMENT_RECOUNT.json), from actual current-term opinion tables, gives Stone-Zsela 5; Stevens 6; O'Connor 6; Scalia 6; Kennedy 5; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. The last counted event is *Cedar Rapids*, March 3, 1999 (Stevens). The eligible minimum is four and the pool is Stone-Zsela and Thomas. Stone writes Part I: his approved case-specific analysis precisely separates the real original channel, domestic command and interim showing while preserving both new-duty and connected-officer questions. Thomas can carry that ground at the same count of five, but offers no superior accommodation. No expansion or altered join is asserted. This original interim explanation does not count as a plenary lead under §8.
 
 The eight-Associate retention of leave is an administrative direction without a substantive Court opinion; Stevens is its senior member. Stevens writes the four-Justice short-protection dissent, whose shared necessary-aid ground was frozen. Scalia writes the additional concurrence for the four who reject a further necessary-aid interval and his own separately identified affirmative-injunction qualification. These separate writings do not count, and no historical authorship is imported.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joins or signed adoption | Relationship and scope |
 |---|---|---|---|
@@ -2046,17 +2477,18 @@ The eight-Associate retention of leave is an administrative direction without a 
 <!-- source-record: nffe_and_flra_v_interior_merits_1999-03-03.md -->
 
 **Case and dockets:** National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior; Nos. 97-1184 and 97-1243.
+
 **Event and date:** Merits decision, 1999-03-03; OT1998, chunk 5.
 
-## Form and assignment
+### Form and assignment
 
 Before any count or author selection, the form is fixed as one signed plenary Opinion of the Court for both petitions. The two statutory questions are related but receive distinct holdings; one author can carry both and the common remand. O'Connor's separate statutory and deference grounds require one dissent with exact partial joins. The companion petitions, holding structure and writings are not divided or combined to affect counts.
 
 The Chief belongs to the tentative judgment coalition and assigns. The complete-lead eligible set, determined before counting, is **Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer**. Each supports every governing proposition in full. O'Connor, Scalia and Thomas are ineligible because they reject the statutory authority and remand grounds, not because of style or subject expertise. The coalition's legal grounds are settled, so fit rather than expansion governs.
 
-The fresh [sequential recount](../runtime/OT_1998CHUNK5_NFFE_ASSIGNMENT_RECOUNT.json) from actual current-term opinion tables gives Stone-Zsela 4; Stevens 6; O'Connor 6; Scalia 6; Kennedy 6; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. The last counted event is Cedar Rapids, March 3, 1999, authored by Stevens. Germany's original interim explanation is excluded under section 8. The eligible minimum is four; the balance pool is Stone-Zsela and Breyer. Stone assigns the complete opinion to himself. Both pool members support the actual agency-choice and corrected-framework remand work; Stone's approved distinction between statutory authority, contract coverage, negotiability and an unmade agency choice supplies a concrete fit for explaining why rejecting a categorical judicial prohibition does not itself validate the existing order. Breyer's reasoned-choice position can achieve the same result, but offers no necessary accommodation or superior case-specific advantage, and Stone has the lower count. No expansion or fictional circulation is used. This signed plenary lead adds one to Stone's count after this assignment. O'Connor authors the dissent on her own frozen statutory and deference grounds, with Scalia and Thomas joining only Part I; it does not count.
+The fresh [sequential recount](../runtime/OT_1998CHUNK5_NFFE_ASSIGNMENT_RECOUNT.json) from actual current-term opinion tables gives Stone-Zsela 5; Stevens 6; O'Connor 6; Scalia 6; Kennedy 5; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. The last counted event is Cedar Rapids, March 3, 1999, authored by Stevens. Germany's original interim explanation is excluded under section 8. The eligible minimum is five; Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer all form the balance pool. Stone assigns the complete opinion to himself. Both pool members support the actual agency-choice and corrected-framework remand work; Stone's approved distinction between statutory authority, contract coverage, negotiability and an unmade agency choice supplies a concrete fit for explaining why rejecting a categorical judicial prohibition does not itself validate the existing order. Breyer's reasoned-choice position can achieve the same result, but offers no necessary accommodation or superior case-specific advantage, and Stone and Breyer each have five counted leads. No expansion or fictional circulation is used. This signed plenary lead adds one to Stone's count after this assignment. O'Connor authors the dissent on her own frozen statutory and deference grounds, with Scalia and Thomas joining only Part I; it does not count.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2068,17 +2500,18 @@ The fresh [sequential recount](../runtime/OT_1998CHUNK5_NFFE_ASSIGNMENT_RECOUNT.
 <!-- source-record: stewart_v_lagrand_application_and_summary_merits_1999-03-03.md -->
 
 **Case and dockets:** Stewart v. LaGrand; No. 98-1412; distinct State application A-735.
+
 **Event and date:** Application disposition and summary merits decision, 1999-03-03; OT1998, chunk 5.
 
-## Opinion form and assignment
+### Opinion form and assignment
 
 Form is chosen before counts: one per curiam summary decision resolves the closely related application and limited summary-merits components, with Part I for the final election ground and Part II for the narrower independent injunction ground. Emergency review of these discrete grounds, without plenary merits submission or an empirical execution-method adjudication, supports summary form. The components are not split to alter assignment counts.
 
 O'Connor is the most senior Justice in both prevailing coalitions and directs the per curiam disposition. Stone and Stevens are outside those coalitions. Full-rationale eligible members for both Court parts are O'Connor, Scalia, Kennedy, Souter and Thomas; Ginsburg and Breyer are additionally eligible for Part I alone. No named author is assigned to the collective per curiam opinion. Kennedy writes his own Circuit Justice explanation by allotment, not by a claimed right to author the Court's opinion, and adds only his already frozen equity ground. His three concurrence joiners already support that precise alternative.
 
-The [fresh recount](../runtime/OT_1998CHUNK5_RESUMED_ASSIGNMENT_RECOUNT.json) reads actual opinion tables rather than prior tally statements. Before this decision the counts are Stone-Zsela 5; Stevens 6; O'Connor 6; Scalia 6; Kennedy 6; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. The last counted event is NFFE / FLRA v. Interior, March 3, 1999, Stone-Zsela. All five full-rationale eligible Associates lie in the illustrative minimum-plus-one pool, and all seven Part I eligible Associates lie in its pool. The pool restriction does not bind an Associate assigner; no Chief-assigned part exists. Per curiam summary disposition, separate writings and §10 explanation add no count. Same-day alphabetical assignment counting does not change the common entering-law baseline. Later-effective Jackson and Reform are excluded from this recount, and no committed assignment is reopened.
+The [fresh recount](../runtime/OT_1998CHUNK5_RESUMED_ASSIGNMENT_RECOUNT.json) reads actual opinion tables rather than prior tally statements. Before this decision the counts are Stone-Zsela 6; Stevens 6; O'Connor 6; Scalia 6; Kennedy 5; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. The last counted event is NFFE / FLRA v. Interior, March 3, 1999, Stone-Zsela. All five full-rationale eligible Associates lie in the illustrative minimum-plus-one pool, and all seven Part I eligible Associates lie in its pool. The pool restriction does not bind an Associate assigner; no Chief-assigned part exists. Per curiam summary disposition, separate writings and §10 explanation add no count. Same-day alphabetical assignment counting does not change the common entering-law baseline. Later-effective Jackson and Reform are excluded from this recount, and no committed assignment is reopened.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing or signed adoption | Author | Joined by / exact scope | Relationship to the two dispositions |
 |---|---|---|---|
@@ -2095,9 +2528,16 @@ The [fresh recount](../runtime/OT_1998CHUNK5_RESUMED_ASSIGNMENT_RECOUNT.json) re
 <!-- source-record: stewart_v_lagrand_certiorari_1999-03-03.md -->
 
 **Case and dockets:** Stewart v. LaGrand; No. 98-1412; distinct State application A-735.
+
 **Event and date:** Certiorari grant, 1999-03-03; OT1998, chunk 5.
 
-## Opinion Topology
+### Stone, public action and opinion form
+
+The approved merits supplement contains no separate express petition-stage vote. Engine §§3(B), 4 and 10 therefore use the separately frozen neutral Stone certiorari position. He votes to grant on the recurring relationship among a previously presented claim rejected as premature, later method election, successive-application limits and the operative gas injunction. The two neutral revalidations retain that confined institutional basis. No standing fallback or controlled merits rationale supplies his petition vote.
+
+The Court grants review of whether the Ninth Circuit's gas-specific injunction may stand in light of the presented method-election, procedural-default and antecedent habeas-review questions. The grant does not reach a new comprehensive empirical question about execution methods and does not authorize ordinary review of an actual §2244(b)(3) authorization order. The final poll contains six grants and three denials. Its tally, individual positions and merits implications are internal. No Justice files a public petition-stage writing. The form is an unexplained certiorari order; there is no Court opinion to assign or count under §8.
+
+### Public Opinion Topology
 
 The Court issues an order granting review without an accompanying opinion or publicly disclosed individual poll.
 
@@ -2106,13 +2546,14 @@ The Court issues an order granting review without an accompanying opinion or pub
 <!-- source-record: gable_v_patton_and_patton_v_gable_threshold_1999-03-04.md -->
 
 **Case and dockets:** Gable v. Patton / Patton v. Gable; Nos. 98-897 and 98-1072.
+
 **Event and date:** Threshold decision after post-grant merits consideration, 1999-03-04; OT1998, chunk 5.
 
-## Judgment, opinion form and assignment
+### Judgment, opinion form and assignment
 
 **Form first:** One signed opinion resolves the supervening Article III question after the scheduled post-grant merits consideration and explains the distinct treatment of both companion dockets. The cases share the same continuing-exposure dispute and remand rationale; no separate controlling opinion or artificial part is needed. This form is selected from the substantive jurisdictional and remedial work, before author counts. One signed dissent explains the opposing reach and merits position. No summary-reversal or certiorari form is used.
 
-Stone is outside the tentative judgment coalition. O'Connor, its most senior participating Associate, assigns the single Court opinion to Souter. The signed lead counts before this assignment are Stone-Zsela 5, Stevens 6, O'Connor 6, Scalia 6, Kennedy 6, Souter 6, Thomas 5, Ginsburg 6 and Breyer 5: 51 counted opinions in all. The last counted event is National Federation of Federal Employees / Federal Labor Relations Authority v. Department of the Interior, March 3, 1999, authored by Stone-Zsela. The recount uses current Records' opinion tables, effective dates and same-day alphabetical order, including the earlier-effective Hart Record written after the original chunk 5 Run. Stewart's March 3 per curiam summary disposition adds no counted opinion. The already completed March 16 Jackson and March 17 Reform assignments are excluded from this earlier-effective count and are not reopened. The [fresh recount receipt](../runtime/OT_1998CHUNK5_RESUMED_ASSIGNMENT_RECOUNT.json) preserves the counted source opinions.
+Stone is outside the tentative judgment coalition. O'Connor, its most senior participating Associate, assigns the single Court opinion to Souter. The signed lead counts before this assignment are Stone-Zsela 6, Stevens 6, O'Connor 6, Scalia 6, Kennedy 5, Souter 6, Thomas 5, Ginsburg 6 and Breyer 5: 51 counted opinions in all. The last counted event is National Federation of Federal Employees / Federal Labor Relations Authority v. Department of the Interior, March 3, 1999, authored by Stone-Zsela. The recount uses current Records' opinion tables, effective dates and same-day alphabetical order, including the earlier-effective Hart Record written after the original chunk 5 Run. Stewart's March 3 per curiam summary disposition adds no counted opinion. The already completed March 16 Jackson and March 17 Reform assignments are excluded from this earlier-effective count and are not reopened. The [fresh recount receipt](../runtime/OT_1998CHUNK5_RESUMED_ASSIGNMENT_RECOUNT.json) preserves the counted source opinions.
 
 Eligible authors are O'Connor, Scalia, Kennedy, Souter and Thomas, each supporting every proposition and remedy in the opinion. Thomas has the eligible minimum of 5; the comparison pool therefore contains all five at counts 5 or 6. Section 8's compulsory balance rule does not bind an Associate assigner, but the count, eligibility and pool are disclosed and the chosen author is within that pool. O'Connor selects Souter for the concrete task of separating supported threatened injury from a request for an abstract legal ruling, the distinction his Commerce/Glavin opinion already expresses, while preserving favorable consideration of genuine deterrence and ordinary factual resolution. His full frozen support for both docket-specific remedies permits one coherent opinion. No accommodation changes a commitment, and no importance or seniority presumption supplies authorship. Stevens writes the shared dissent; its arguments and exact limits are supported by each of its four joiners. Separate-writing authorship adds no lead count.
 
@@ -2128,7 +2569,7 @@ Eligible authors are O'Connor, Scalia, Kennedy, Souter and Thomas, each supporti
 
 Final compatibility preserves every frozen objection: the majority neither requires formal filing nor treats counsel's assertions as findings; the dissent neither finds a 1999 filing nor creates standing for every former candidate. The remand permits ordinary supported jurisdictional submissions, imposes no new evidentiary form and leaves equitable judgment treatment conditional on what is found. No draft history or changed Associate join is invented, and no new reconciliation is needed. Each controlling proposition has five direct joins; Marks supplies no missing merits majority.
 
-## Opinion Topology
+### Public Opinion Topology
 
 Souter delivers the Opinion of the Court, joined in full by O'Connor, Scalia, Kennedy and Thomas. The opinion controls both threshold dispositions and their complete remedial rationale. Stevens dissents, joined in full by Stone-Zsela, Ginsburg and Breyer; those four would reach the merits and affirm the reviewed judgment on both granted components. No constitutional merits rationale commands the Court through this decision.
 
@@ -2137,9 +2578,10 @@ Souter delivers the Opinion of the Court, joined in full by O'Connor, Scalia, Ke
 <!-- source-record: jackson_v_benson_merits_1999-03-16.md -->
 
 **Case and dockets:** Jackson v. Benson; No. 98-376; OT1998.
+
 **Event and date:** Merits decision; 1999-03-16.
 
-## Form, assignment and final joins
+### Form, assignment and final joins
 
 Before counts, the supported form is one signed lead opinion: Part I states the controlling financing rule and application; Part II supplies the five-Justice vacatur and confined remedy. Stone's separate opinion preserves his different reversal and payment direction. A joint dissent states the three affirmers' concrete private-benefit rationale. No new separate institutional-support critique is necessary to explain the five's shared ground; the prior published positions retain their actual scope.
 
@@ -2147,11 +2589,11 @@ Stevens, the senior Associate in the five-Justice vacatur coalition, assigns the
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 5 |
+| Stone-Zsela | 6 |
 | Stevens | 6 |
 | O'Connor | 6 |
 | Scalia | 6 |
-| Kennedy | 6 |
+| Kennedy | 5 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 6 |
@@ -2161,7 +2603,8 @@ Last counted event: NFFE / FLRA v. Interior, March 3, 1999, Stone-Zsela. Full-le
 
 O'Connor delivers both parts. Stevens, Souter, Ginsburg and Breyer join both; Stone joins Part I only. Kennedy's dissent is joined by Scalia and Thomas, whose frozen program-specific grounds fully coincide at that level. Stone's separate writing has no joiner. The lead counts once for O'Connor; the separate writings do not count.
 
-## Opinion Topology
+### Public Opinion Topology
+
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | O'Connor | Part I: Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. Part II: Stevens, Souter, Ginsburg, Breyer. | Vacatur and confined remand | I: funded-function rule and actual cost/instruction application. II: formal disposition and limited remedy. |
@@ -2173,9 +2616,10 @@ O'Connor delivers both parts. Stevens, Souter, Ginsburg and Breyer join both; St
 <!-- source-record: reform_party_v_democratic_national_committee_merits_1999-03-17.md -->
 
 **Case and dockets:** National Committee of the Reform Party of the United States of America v. Democratic National Committee; Ninth Circuit No. 98-15443; 168 F.3d 360.
+
 **Event and date:** Merits decision, 1999-03-17; OT1998, chunk 5.
 
-## Form and balanced assignment
+### Form and balanced assignment
 
 The [form determination](../runtime/OT_1998CHUNK5_REFORM_ASSEMBLY_SCOPE.md) precedes the fresh count: one signed lead following the post-grant merits submission, with three substantive parts, one antecedent channel part and a short scope concurrence. These are the actual distinct grounds of this case. No opinion is divided to alter eligibility or counts; eight Justices can carry the entire lead.
 
@@ -2183,11 +2627,11 @@ The Chief belongs to each judgment coalition and assigns. The [fresh recount](..
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 5 |
+| Stone-Zsela | 6 |
 | Stevens | 6 |
 | O'Connor | 7 |
 | Scalia | 6 |
-| Kennedy | 6 |
+| Kennedy | 5 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 6 |
@@ -2197,7 +2641,7 @@ Last counted event: Jackson v. Benson, March 16, 1999, O'Connor. Germany's origi
 
 Thomas writes. Fit, not expansion, governs because the eight full commitments already share the necessary ground. His Northeastern Florida opinion supplies the precise distinction between removal of an unequal barrier and a guarantee of appointment; his FEC v. NRA and Legi-Tech opinions supply experience separating statutory authority, actual agency action and the proper procedural route. His adopted Kentucky direct-contribution ground and Colorado channel qualification support preserving the narrow financing theory without converting it into a general money-category rule. Breyer, also at five, offers strong practical-burden analysis, but Thomas's combined appointment-opportunity and FEC-procedure work supplies the closer fit across this opinion's actual tasks. No accommodation or new objection is invented. The lead counts once for Thomas; Stone's concurrence does not count.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2210,9 +2654,10 @@ Thomas writes. Fit, not expansion, governs because the eight full commitments al
 <!-- source-record: central_state_university_v_aaup_certiorari_1999-03-22.md -->
 
 **Case and dockets:** Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.
+
 **Event and date:** Certiorari grant; 1999-03-22; October Term 1998, chunk 6; precedes the same-day summary merits decision.
 
-## Form, assignment, continuity and validation
+### Form, assignment, continuity and validation
 
 The access action is an unsigned order, selected for its petition-management function before any author or count is considered. No lead opinion is assigned. **Counted lead opinion:** No. The grant leaves the merits pending until the separate same-day summary decision. No briefing deadline, argument setting or additional question is ordered.
 
@@ -2220,7 +2665,7 @@ The neutral, commitment and reconciliation handoffs are the frozen chunk 6 A pac
 
 This file is durably written for the current Run, subject to the chunk's deterministic validation and the operator's repository verification and commitment. No Git command was run and no Git commitment is claimed. See `../audit/OT_1998CHUNK6_CONTROL.md` and the final chunk validation receipt when produced. No prior adjudication is changed.
 
-## Opinion Topology
+### Public Opinion Topology
 
 Unsigned certiorari order; no opinion accompanies this access action.
 
@@ -2229,9 +2674,23 @@ Unsigned certiorari order; no opinion accompanies this access action.
 <!-- source-record: central_state_university_v_aaup_summary_merits_1999-03-22.md -->
 
 **Case and dockets:** Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.
+
 **Event and date:** Per curiam summary merits decision; 1999-03-22; October Term 1998, chunk 6; follows the separate same-day certiorari grant.
 
-## Opinion Topology
+### Stone, final compatibility and opinion form
+
+The Run command approves the current Section II. Stone reaches the federal question, votes to reverse and remand, and fully joins the ordinary rationality rule and its application. His independent-state-law, other bargaining-rights and protected-union-activity limits are preserved in the Court's scope. The updated Equality Foundation baseline does not displace a premise of that approved position. No substantive narrowing, added ground, clerical correction or standing fallback is used.
+
+Before considering counts, the supported legal work warrants one reasoned per curiam summary opinion applying settled doctrine and one signed Stevens dissent addressing stage and scope. The common rule accommodates Ginsburg and Breyer's meaningful-review and state-law limits; no redundant concurrence is required. No named author is assigned to the per curiam. **Counted lead opinion:** No. Stevens's separate writing also adds no count. The preceding signed-lead counts remain Stone-Zsela 6, Stevens 6, O'Connor 7, Scalia 6, Kennedy 5, Souter 7, Thomas 6, Ginsburg 6 and Breyer 5, as freshly read from prior opinion tables. The last counted event is Reform Party, March 17, 1999; the intervening grant counts neither as an opinion nor as merits precedent.
+
+| Writing | Author | Joined by | Scope |
+|---|---|---|---|
+| Per curiam opinion of the Court | Per curiam | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Complete bounded federal rule, application and remand. |
+| Dissent | Stevens | None | Opposes summary reversal; would deny review or retain the granted matter for plenary consideration. He does not affirm the Ohio federal merits rule. |
+
+The controlling holding, explanation, precedent treatment and resulting law are stated in full in the corresponding Public Projection blocks below and incorporated as the Record's controlling-law section. The eight named full joins support every proposition there directly; no fractured-opinion inference is used.
+
+### Public Opinion Topology
 
 The per curiam opinion is joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stevens dissents from summary disposition.
 
@@ -2240,23 +2699,24 @@ The per curiam opinion is joined in full by Stone-Zsela, O'Connor, Scalia, Kenne
 <!-- source-record: kumho_tire_v_carmichael_merits_1999-03-23.md -->
 
 **Case and dockets:** Kumho Tire Co. v. Carmichael; No. 97-1709; OT1998.
+
 **Event and date:** Merits decision, 1999-03-23; argued 1998-12-07.
 
-## Form and assignment
+### Form and assignment
 
 **Form fixed before counting:** One signed plenary lead opinion, with Parts I–II stating the common Rule 702/review propositions and Part III addressing the distinct application and mandate components, now labeled III-A and III-B to identify their different joins precisely. The form and legal parts were fixed in ../runtime/OT_1998CHUNK6_EARLY_FORM_FIRST.txt before the recount. Two separate writings preserve the actual remedial disagreements. There is no reason to divide authorship if one eligible Justice can carry all parts. This case remains separate from South Central Bell's unrelated tax and preclusion questions.
 
-**Fresh count before assignment:** The actual prior OT1998 lead-opinion tables were recounted from scratch in event-date/alphabetical order using tmp/ot1998_chunk6_recount.py. Receipt: ../freeze/OT_1998CHUNK6_KUMHO_RECOUNT.json. Counts: Stone-Zsela 5; Stevens 6; O'Connor 7; Scalia 6; Kennedy 6; Souter 7; Thomas 6; Ginsburg 6; Breyer 5. Total counted opinions: 54. The last counted event is National Committee of the Reform Party of the United States of America v. Democratic National Committee, merits, March 17, 1999, Thomas. Central State's March 22 summary opinion and certiorari action do not count.
+**Fresh count before assignment:** The actual prior OT1998 lead-opinion tables were recounted from scratch in event-date/alphabetical order using tmp/ot1998_chunk6_recount.py. Receipt: ../freeze/OT_1998CHUNK6_KUMHO_RECOUNT.json. Counts: Stone-Zsela 6; Stevens 6; O'Connor 7; Scalia 6; Kennedy 5; Souter 7; Thomas 6; Ginsburg 6; Breyer 5. Total counted opinions: 54. The last counted event is National Committee of the Reform Party of the United States of America v. Democratic National Committee, merits, March 17, 1999, Thomas. Central State's March 22 summary opinion and certiorari action do not count.
 
 **Assignment bases and eligible pools:** The Chief participates in the reversal/common-rule coalition and assigns Parts I–II; all nine fully support those propositions. The Chief also participates in and assigns Part III-A's independently supported permissible-exclusion component, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. For Parts I–II the eligible authors are all nine and the balance pool is Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg and Breyer, each at the minimum five or one above it. For the bounded Part III-A proposition and its common unsupported-inference ground, the eligible authors are its eight supporters and the pool is Stone-Zsela, Scalia, Kennedy, Thomas, Ginsburg and Breyer. O'Connor and Souter, at seven, are outside both Chief-assigned pools; Stevens reserves the application and is ineligible for III-A. The seven Associates who support the conforming mandate and direct-disposition analysis constitute Part III-B's coalition; O'Connor is its senior Justice and assigns that part. Its full eligible authors are O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stone's different mandatory remedy and Stevens's reserved application make neither eligible for the entire lead opinion. Although the balance rule does not independently bind O'Connor's component assignment, any single author must satisfy the Chief's pools for the components he assigns. The common eligible pool capable of carrying the entire opinion is therefore Scalia, Kennedy, Thomas, Ginsburg and Breyer.
 
-**Choice:** Breyer writes all parts by the component-specific assignments. The settled common rule requires fit, not an invented accommodation. Breyer's full Joiner join and his concurrence distinguishing useful assistance from compulsory procedure support faithful explanation of tailored screening and its limits; his frozen K3 commitment supports the concrete application. Kennedy is the strongest alternative for integrating the uniform-review and inferential-fit rules he previously authored, but Breyer can perform that work equally within the frozen coalition and has the lower count, five rather than six. Stone is considered on the common rules: his precise method-to-conclusion explanation fits that work, but he cannot carry the operative remedy and Breyer supplies a single eligible author for the entire opinion. O'Connor's assignment preserves her full supported merits position without a needless division of a coherent opinion. No commitment changed, no draft exchange is invented, and authorship supplies no new join.
+**Choice:** Breyer writes all parts by the component-specific assignments. The settled common rule requires fit, not an invented accommodation. Breyer's full Joiner join and his concurrence distinguishing useful assistance from compulsory procedure support faithful explanation of tailored screening and its limits; his frozen K3 commitment supports the concrete application. Kennedy is the strongest alternative for integrating the uniform-review and inferential-fit rules he previously authored, but Breyer can perform that work equally within the frozen coalition and shares Kennedy's count of five. Stone is considered on the common rules: his precise method-to-conclusion explanation fits that work, but he cannot carry the operative remedy and Breyer supplies a single eligible author for the entire opinion. O'Connor's assignment preserves her full supported merits position without a needless division of a coherent opinion. No commitment changed, no draft exchange is invented, and authorship supplies no new join.
 
 **Precommit refinement:** The independent review in ../audit/OT_1998CHUNK6_EARLY_INDEPENDENT_REVIEW.md identified that the initial assembly bundled permissible exclusion with the conforming mandate. Before final validation and commitment of this same Run, the Record separates those already distinct components and expressly recognizes Stone's supported III-A join. No approved position, frozen Associate commitment, earlier adjudication, author or original-decision lineage changes. The full-opinion eligible intersection and Breyer selection remain the same. The assignment recount receipts preserve their original snapshots; the later South Central Bell count still includes exactly one Breyer lead, despite the more precise opinion rows. The durable refinement validation checks that unchanged author/count consequence without inventing a new assignment.
 
 **Counted lead opinion:** Yes. One signed plenary Opinion of the Court delivered by Breyer, counted once despite its proposition-specific joins. Separate writings do not count.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2271,13 +2731,14 @@ The per curiam opinion is joined in full by Stone-Zsela, O'Connor, Scalia, Kenne
 <!-- source-record: south_central_bell_v_alabama_merits_1999-03-23.md -->
 
 **Case and dockets:** South Central Bell Telephone Co. v. Alabama; No. 97-2045; OT1998.
+
 **Event and date:** Merits decision, 1999-03-23; argued 1999-01-19.
 
-## Form and assignment
+### Form and assignment
 
 **Form fixed before counting:** A single signed plenary opinion with distinct review, nonparty-preclusion, tax-discrimination, compensatory-defense and remedy propositions, including the independent compensation defects. Its form and legal scope were fixed in ../runtime/OT_1998CHUNK6_EARLY_FORM_FIRST.txt before either early assignment. The case remains separate from Kumho because the legal work is unrelated; no part or case was split or combined to alter an eligible pool.
 
-**Fresh count before assignment:** After the Kumho Record was written, tmp/ot1998_chunk6_recount.py freshly recounted actual prior lead-opinion tables by event date and same-date alphabetical order. Receipt: ../freeze/OT_1998CHUNK6_SOUTH_CENTRAL_BELL_RECOUNT.json. Counts: Stone-Zsela 5; Stevens 6; O'Connor 7; Scalia 6; Kennedy 6; Souter 7; Thomas 6; Ginsburg 6; Breyer 6. Total counted opinions: 55. Last counted event: Kumho Tire Co. v. Carmichael, merits, March 23, 1999, Breyer. Its two Court-opinion table rows count as one lead by the same author. No earlier assignment tally was substituted for this recount.
+**Fresh count before assignment:** After the Kumho Record was written, tmp/ot1998_chunk6_recount.py freshly recounted actual prior lead-opinion tables by event date and same-date alphabetical order. Receipt: ../freeze/OT_1998CHUNK6_SOUTH_CENTRAL_BELL_RECOUNT.json. Counts: Stone-Zsela 6; Stevens 6; O'Connor 7; Scalia 6; Kennedy 5; Souter 7; Thomas 6; Ginsburg 6; Breyer 6. Total counted opinions: 55. Last counted event: Kumho Tire Co. v. Carmichael, merits, March 23, 1999, Breyer. Its two Court-opinion table rows count as one lead by the same author. No earlier assignment tally was substituted for this recount.
 
 **Assignment authority and pool:** All nine Justices support the judgment and every governing proposition in full. The Chief assigns. Eligible authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The minimum is five; the balance pool is Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg and Breyer, each at five or six. O'Connor and Souter, at seven, are outside the pool. No Justice is excluded for style, difficulty or assumed inability.
 
@@ -2285,7 +2746,7 @@ The per curiam opinion is joined in full by Stone-Zsela, O'Connor, Scalia, Kenne
 
 **Counted lead opinion:** Yes. One signed plenary Opinion of the Court by Stone-Zsela; all five parts count once for that author.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2296,9 +2757,10 @@ The per curiam opinion is joined in full by Stone-Zsela, O'Connor, Scalia, Kenne
 <!-- source-record: jones_v_united_states_merits_1999-03-24.md -->
 
 **Case and dockets:** Jones v. United States; No. 97-6203; OT1998.
+
 **Event and date:** Merits decision, 1999-03-24; argued October 5, 1998; chunk 6.
 
-## Form and balanced assignment
+### Form and balanced assignment
 
 The [form determination](../runtime/OT_1998CHUNK6_JONES_ASSEMBLY_SCOPE.md) was written before the recount or author selection. One signed lead gives the six-Justice statutory classification, established-element safeguards and bounded remedy. A common four-Justice concurrence supplies a distinct definitive constitutional ground. A broader concurrence preserves Stevens's and Scalia's range principle and Stevens's separate capital position with exact partial joins. Stone's short concurrence preserves his approved maintained position without adding a decisional ground. One dissent states the three affirmers' shared statute-specific analysis. The form is neither divided nor combined to change counts.
 
@@ -2306,11 +2768,11 @@ The Chief joins the judgment coalition and assigns the lead. The [fresh actual-t
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 6 |
+| Stone-Zsela | 7 |
 | Stevens | 6 |
 | O'Connor | 7 |
 | Scalia | 6 |
-| Kennedy | 6 |
+| Kennedy | 5 |
 | Souter | 7 |
 | Thomas | 6 |
 | Ginsburg | 6 |
@@ -2320,11 +2782,11 @@ Last counted event: South Central Bell Telephone Co. v. Alabama, March 23, 1999,
 
 Eligible full-lead authors are Stone-Zsela, Stevens, Scalia, Souter, Thomas and Ginsburg. Their minimum is six, so all six are in the balance pool, including Souter at seven. Fit governs: every necessary statutory join is already settled, and no unaccepted accommodation is required. Scalia writes. His actual statutory/avoidance opinion in Almendarez-Torres performs the immediate analogue's offense-versus-penalty construction, and his Gaudin opinion supplies the resulting jury allocation. His recent Holloway dissent reinforces attention to the applicable enactment rather than transplanting a later formulation. These concrete tasks fit this lead even though his personal constitutional view is broader.
 
-Stone is a strong alternative at the same count: his approved core precisely separates statutory authority, the missing charge and verdict, and the bounded remedy. His position supplies no unresolved accommodation, however, and his authorship offers no concrete advantage over Scalia's combined direct statutory-analogue and element-allocation work. Thomas's confined statutory position also fits, but no preservation of his join depends on Thomas writing; all six accept the sufficient account. The Chief therefore selects Scalia within the pool. Earlier authorship is evidence of fit, not an eligibility restriction or an automatic entitlement. Historical Jones authorship supplies no premise.
+Stone is a strong pool alternative at seven counted leads to Scalia's six: his approved core precisely separates statutory authority, the missing charge and verdict, and the bounded remedy. His position supplies no unresolved accommodation, however, and his authorship offers no concrete advantage over Scalia's combined direct statutory-analogue and element-allocation work. Thomas's confined statutory position also fits, but no preservation of his join depends on Thomas writing; all six accept the sufficient account. The Chief therefore selects Scalia within the pool. Earlier authorship is evidence of fit, not an eligibility restriction or an automatic entitlement. Historical Jones authorship supplies no premise.
 
 Souter writes the common constitutional concurrence because his commitment states its exact current-offense boundary without the broader extensions. Stevens writes the broader concurrence, with Scalia joining Part I and no join to Stevens's distinct capital Part II. Kennedy writes the shared dissent; its independent current-injury defense reflects all three dissenters' frozen grounds. Separate writings add no lead count. No fictional circulation, changed commitment or new objection is attributed to any Justice.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Exact scope |
 |---|---|---|---|---|
@@ -2340,13 +2802,14 @@ Souter writes the common constitutional concurrence because his commitment state
 <!-- source-record: minnesota_v_mille_lacs_band_merits_1999-03-24.md -->
 
 **Case and dockets:** Minnesota v. Mille Lacs Band of Chippewa Indians; No. 97-1337.
+
 **Event and date:** Plenary merits decision; 1999-03-24; October Term 1998, chunk 6.
 
-## Assignment under Engine section 8
+### Assignment under Engine section 8
 
 ﻿**Form before count:** One signed lead Opinion of the Court on the four already fixed components: this combined 1850 order, the 1855 agreement, statehood and the bounded affirmance. The compatibility refinement was completed in ../runtime/OT_1998CHUNK6_MILLE_LACS_ASSEMBLY_DRAFT.md before the fresh count. All six affirming Justices join every part. The three dissenters share three independent extinction grounds, and Thomas's additional regulation objection requires its own writing. Neither form nor scope depends on the tally.
 
-**Fresh chronological recount:** After the completed Jones Record was confirmed by its assembler and the root operator, tmp/ot1998_chunk6_recount.py recounted the actual prior lead-opinion tables, including all earlier Records in this Run. Receipt: ../freeze/OT_1998CHUNK6_MILLE_LACS_RECOUNT.json. Counts before assignment: Stone-Zsela 6; Stevens 6; O'Connor 7; Scalia 7; Kennedy 6; Souter 7; Thomas 6; Ginsburg 6; Breyer 6. Total counted opinions: 57. Last counted event: Jones v. United States, merits, March 24, 1999, Scalia. Each author's lead is counted once; opinion-table component rows and separate writings do not multiply the count. Earlier reported assignment tallies were not used as authority.
+**Fresh chronological recount:** After the completed Jones Record was confirmed by its assembler and the root operator, tmp/ot1998_chunk6_recount.py recounted the actual prior lead-opinion tables, including all earlier Records in this Run. Receipt: ../freeze/OT_1998CHUNK6_MILLE_LACS_RECOUNT.json. Counts before assignment: Stone-Zsela 7; Stevens 6; O'Connor 7; Scalia 7; Kennedy 5; Souter 7; Thomas 6; Ginsburg 6; Breyer 6. Total counted opinions: 57. Last counted event: Jones v. United States, merits, March 24, 1999, Scalia. Each author's lead is counted once; opinion-table component rows and separate writings do not multiply the count. Earlier reported assignment tallies were not used as authority.
 
 **Authority, eligibility and pool:** The Chief joins the judgment and all four complete governing propositions and assigns the entire opinion. Eligible authors are Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. The minimum eligible count is six; all six are within one of that minimum and constitute the balance pool. Scalia, Kennedy and Thomas oppose the judgment and governing grounds and are ineligible for this lead. One eligible author can carry all parts, so authorship is not divided.
 
@@ -2356,7 +2819,7 @@ Souter writes the common constitutional concurrence because his commitment state
 
 **Counted lead opinion:** Yes. Stevens delivers one signed plenary Opinion of the Court, counted once across Parts I-IV. Neither dissent counts.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2369,29 +2832,38 @@ Souter writes the common constitutional concurrence because his commitment state
 <!-- source-record: brower_v_washington_merits_1999-03-25.md -->
 
 **Case and dockets:** Brower v. Washington; No. 98-1510; judgment below Brower v. State, 137 Wash. 2d 44, 969 P.2d 42.
+
 **Event and date:** Post-grant merits decision; 1999-03-25; October Term 1998, chunk 6.
 
-## Assignment under Engine section 8
+### Stone compatibility and opinion form
+
+Stone's approved supplement, [BROWER_STONE](../runtime/OT_1998CHUNK6_BROWER_STONE.md), affirms rejection of the federal challenge on this record. He expressly accepts Burdick's calibrated governing rule despite his disagreement with its write-in application. His conditions of equal franchise, viewpoint neutrality and meaningful participation match the common record-limited analysis. The three separate components are covered by his express treatment of access, campaign expression and unequal franchise; no standing fallback is used.
+
+The common formulation acknowledges the affiliate's consequential consent, identifies its financial function and separately tests the asserted unequal-vote characterization. It does not rely only on who counts ballots. It also preserves Stone's practical inability-to-campaign and deliberately disabling-calendar boundaries without converting hostile intent into a necessary element. The stated fiscal and public-administration interests bear on this supported arrangement; they are not an invented emergency justification for any calendar. All nine directly join all three grounds and the bounded affirmance. No Associate commitment changes, and no new Stone ground is supplied.
+
+Before any author count, the fixed form is one signed Opinion of the Court following plenary post-grant merits consideration, with three distinct federal holdings and no separate writing. The legal distinctions require the three holdings; counts do not create or divide them. All nine are eligible full-opinion authors, on approved or frozen grounds rather than fallback. The Chief belongs to the judgment coalition and assigns.
+
+### Assignment under Engine section 8
 
 The fresh recount in [BROWER_RECOUNT](../freeze/OT_1998CHUNK6_BROWER_RECOUNT.json) reads every preceding signed plenary lead from its actual opinion table, including the earlier Records written in this Run. There are 58 counted leads. The last event counted is Minnesota v. Mille Lacs Band of Chippewa Indians, March 24, 1999, delivered by Stevens. Earlier reported tallies do not supply the count.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 6 |
+| Stone-Zsela | 7 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 6 |
+| Kennedy | 5 |
 | Souter | 7 |
 | Thomas | 6 |
 | Ginsburg | 6 |
 | Breyer | 6 |
 
-The Chief assigns because he joins the complete judgment and rationale. All nine Justices are eligible to carry all three holdings. The minimum is six; each Justice has six or seven, so all nine belong to the balance pool. One author can carry the entire opinion. No division is justified.
+The Chief assigns because he joins the complete judgment and rationale. All nine Justices are eligible to carry all three holdings. The minimum is five; Kennedy, Thomas, Ginsburg and Breyer form the balance pool. The other five remain eligible but have seven leads. One author can carry the entire opinion. No division is justified.
 
 Kennedy writes. Fit governs because every necessary join is settled on the stated grounds and no unresolved formulation dispute requires expansion. His Burdick dissent and ACLF joins require examination of meaningful choice and actual political conversation, making him a concrete fit for the strongest objection here: the affiliate has consequential gatekeeping power even though ordinary citizens retain ballots and nominal alternatives. The opinion must explain why this specific financial contingency still leaves the claimed electoral access and public choice intact, then preserve practical-calendar review rather than treat nominal access as conclusive. His frozen commitment supplies that analysis in full.
 
-Souter is the strongest alternative: his Yoshina opinion distinguishes actual legal consequences from a claimed constitutional characterization, directly useful to the vote-weight component. Kennedy can perform that same functional inquiry while addressing the meaningful-choice objection at the lower count, six rather than seven. Stevens's ACLF work also fits, at seven. Stone is fully eligible at six, and his approved separation of finance, expression and public administration supplies precise limits. It adds no unresolved accommodation or concrete authorship advantage over Kennedy's supported work on real electoral choice. The Chief selects Kennedy on that case-specific comparison, not on office, interest, general style or an exclusion of any Justice's ability. No historical Supreme Court author exists to import, and no final commitment changes.
+Souter is the strongest alternative: his Yoshina opinion distinguishes actual legal consequences from a claimed constitutional characterization, directly useful to the vote-weight component. Kennedy can perform that same functional inquiry while addressing the meaningful-choice objection at the lower count, five rather than seven. Stevens's ACLF work also fits, at seven. Stone is fully eligible on the legal ground but outside the pool at seven, and his approved separation of finance, expression and public administration supplies precise limits. It adds no unresolved accommodation or concrete authorship advantage over Kennedy's supported work on real electoral choice. The Chief selects Kennedy on that case-specific comparison, not on office, interest, general style or an exclusion of any Justice's ability. No historical Supreme Court author exists to import, and no final commitment changes.
 
 **Counted lead opinion:** Yes. One signed plenary merits lead; no artificial division.
 
@@ -2401,7 +2873,7 @@ Souter is the strongest alternative: his Yoshina opinion distinguishes actual le
 
 The Public Projection's Holdings, Precedent Treatment and Law After Decision blocks supply this Record's full controlling-law section. All nine directly join each proposition; there is no aggregation of separate rationales.
 
-## Opinion Topology
+### Public Opinion Topology
 
 Kennedy delivers the unanimous Opinion of the Court. All nine Justices join the three holdings, their stated qualifications and the affirmance. No separate writing is issued.
 
@@ -2410,9 +2882,10 @@ Kennedy delivers the unanimous Opinion of the Court. All nine Justices join the 
 <!-- source-record: united_states_v_rodriguez_moreno_merits_1999-03-30.md -->
 
 **Case and dockets:** United States v. Rodriguez-Moreno, No. 97-1139.
+
 **Event and date:** merits decision, 1999-03-30; October Term 1998.
 
-## Form, assignment and final opinion table
+### Form, assignment and final opinion table
 
 The signed Opinion of the Court resolves one plenary merits venue question; a signed dissent states the competing simultaneity construction. Form, governing propositions and separate-writing function were fixed before the recount. Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer adopt the complete bounded R1 rule and conditional remedy; Stevens and Scalia adopt R2 and would affirm the venue vacatur. No split lead, per curiam disposition or Marks synthesis is needed.
 
@@ -2420,11 +2893,11 @@ The signed Opinion of the Court resolves one plenary merits venue question; a si
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 6 |
+| Stone-Zsela | 7 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 6 |
 | Ginsburg | 6 |
@@ -2436,9 +2909,9 @@ The signed Opinion of the Court resolves one plenary merits venue question; a si
 
 **Eligible complete-opinion authors:** Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
+**Balance pool:** Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 6, ceiling 7. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
 
-**Assignment:** Thomas. Fit governs because the entire seven-Justice coalition already accepts the settled bounded formulation; no necessary join depends on expansion. Thomas's frozen commitment directly explains why the continuing kidnapping is incorporated conduct without turning every element into a geographical act, and preserves the independent firearm requirement. That statutory distinction is the opinion's central work. Stone-Zsela was considered on equal terms: his approved complete-offense analysis and precise conditional remedy make him fully capable and eligible, at the same count of six. His objective requires no additional accommodation or personal drafting advantage here. Thomas can express that objective while directly answering the simultaneity objection, so the Chief assigns him within the balance pool. Historical authorship was not used as an assignment rule.
+**Assignment:** Thomas. Fit governs because the entire seven-Justice coalition already accepts the settled bounded formulation; no necessary join depends on expansion. Thomas's frozen commitment directly explains why the continuing kidnapping is incorporated conduct without turning every element into a geographical act, and preserves the independent firearm requirement. That statutory distinction is the opinion's central work. Stone-Zsela was considered on equal terms: his approved complete-offense analysis and precise conditional remedy make him fully capable and eligible, at seven counted leads to Thomas's six. His objective requires no additional accommodation or personal drafting advantage here. Thomas can express that objective while directly answering the simultaneity objection, so the Chief assigns him within the balance pool. Historical authorship was not used as an assignment rule.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2447,7 +2920,7 @@ The signed Opinion of the Court resolves one plenary merits venue question; a si
 
 Scalia states the dissent because his frozen statutory ground directly articulates the simultaneity objection while acknowledging both elements and possible continuing firearm conduct. Stevens joins that complete ground. This separate-writing choice carries no lead-opinion increment and does not alter either commitment. Final compatibility confirms every listed full join; no draft exchange or changed commitment is invented.
 
-## Opinion Topology
+### Public Opinion Topology
 
 Justice Thomas delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices O'Connor, Kennedy, Souter, Ginsburg and Breyer. Justice Scalia dissents, joined by Justice Stevens. Both writings retain their respective complete rules and remedies; there are no partial or judgment-only joins.
 
@@ -2456,9 +2929,10 @@ Justice Thomas delivers the Opinion of the Court, joined in full by Chief Justic
 <!-- source-record: conn_v_gabbert_merits_1999-04-05.md -->
 
 **Case and dockets:** Conn v. Gabbert, No. 97-1802; judgment below, 131 F.3d 793.
+
 **Event and date:** merits decision, 1999-04-05; October Term 1998.
 
-## Form, assignment and final opinion table
+### Form, assignment and final opinion table
 
 The opinion's form and scope were fixed before counting: one signed Opinion of the Court, one sufficient record-limited occupational-merits holding M, the separately scoped search-source explanation S, and Stevens's short concurrence in part. M and the disposition command nine direct joins; S commands eight, all except Stevens. S is not an independently sufficient ground absorbing the occupational claim. Qualified immunity is not reached, and no Marks synthesis or split lead is needed. Stone fully supports both M and S under his approved position; the standing fallback plays no role.
 
@@ -2466,11 +2940,11 @@ The opinion's form and scope were fixed before counting: one signed Opinion of t
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 6 |
+| Stone-Zsela | 7 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 6 |
@@ -2482,9 +2956,9 @@ The opinion's form and scope were fixed before counting: one signed Opinion of t
 
 **Eligible complete-opinion authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
+**Balance pool:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 6, ceiling 7. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
 
-**Assignment:** Stone-Zsela. Fit governs the settled bounded formulation; no commitment remains contingent on an unmade expansion. Stone-Zsela's approved core expressly separates the search standard, an independently protected occupational deprivation and official immunity, which are the three boundaries this opinion must preserve simultaneously. His published Lanier opinion already states the actual-coverage rule without categorically excluding independent due-process injuries. Personally carrying that precise distinction here advances his approved source-specific objective while preserving Stevens's M-only join and the seven Associates' confined S joins. Ginsburg is the strongest alternative considered: at the same count of six, her Albright position preserves meaningful specific protection and her Elder opinion keeps immunity's legal inquiry distinct. She could carry the opinion, but Stone's approved formulation addresses this exact three-way boundary and the limited Fourth Amendment remand together, giving self-assignment a concrete precision advantage. His office, interest in the case and prior authorship alone supply no claim; the selection rests on that supported case-specific work within the pool.
+**Assignment:** Stone-Zsela. Fit governs the settled bounded formulation; no commitment remains contingent on an unmade expansion. Stone-Zsela's approved core expressly separates the search standard, an independently protected occupational deprivation and official immunity, which are the three boundaries this opinion must preserve simultaneously. His published Lanier opinion already states the actual-coverage rule without categorically excluding independent due-process injuries. Personally carrying that precise distinction here advances his approved source-specific objective while preserving Stevens's M-only join and the seven Associates' confined S joins. Ginsburg is the strongest alternative considered: at the lower count of six, her Albright position preserves meaningful specific protection and her Elder opinion keeps immunity's legal inquiry distinct. She could carry the opinion, but Stone's approved formulation addresses this exact three-way boundary and the limited Fourth Amendment remand together, giving self-assignment a concrete precision advantage. His office, interest in the case and prior authorship alone supply no claim; the selection rests on that supported case-specific work within the pool.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2494,7 +2968,7 @@ The opinion's form and scope were fixed before counting: one signed Opinion of t
 
 Stevens authors his concurrence in part because it states his own frozen qualification: failure to establish this occupational deprivation is independent of possible unreasonable-search injury, and overlap cannot extinguish an otherwise established independent constitutional wrong. No other Justice joins that additional writing, no violation is asserted here and no immunity ground is published. The writing performs the recorded legal function rather than reproducing historical topology by default. Final compatibility preserves every frozen final join without an invented circulation exchange.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2507,9 +2981,10 @@ Stevens authors his concurrence in part because it states his own frozen qualifi
 <!-- source-record: mitchell_v_united_states_merits_1999-04-05.md -->
 
 **Case and dockets:** Mitchell v. United States; No. 97-7541; OT1998.
+
 **Event and date:** Merits decision, 1999-04-05; argued December 9, 1998; chunk 6.
 
-## Form and balanced assignment
+### Form and balanced assignment
 
 The [pre-count form determination](../runtime/OT_1998CHUNK6_MITCHELL_ASSEMBLY_SCOPE.md) selects one signed lead with three substantive parts, one partial dissent and Thomas's distinct prospective critique. No opinion is divided to manipulate eligibility. The Chief belongs to the judgment coalition and assigns.
 
@@ -2517,26 +2992,26 @@ The [fresh actual-table recount](../freeze/OT_1998CHUNK6_MITCHELL_RECOUNT.json) 
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 6 |
 | Breyer | 6 |
 
-Full-lead eligible authors are Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. All are in the balance pool: its minimum is six and ceiling seven. Fit governs because the necessary grounds are settled. Breyer writes. His Watts concurrence separates a lawful sentencing system from permission to use every source of proof; his Monge and Jones positions preserve judicial sentencing allocations while his present commitment independently protects silence. That combination precisely expresses the opinion's nonclassification ground.
+Full-lead eligible authors are Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. The pool is Stevens, Kennedy, Souter, Ginsburg and Breyer, with minimum six and ceiling seven; Stone-Zsela remains substantively eligible but is outside it at eight. Fit governs because the necessary grounds are settled. Breyer writes. His Watts concurrence separates a lawful sentencing system from permission to use every source of proof; his Monge and Jones positions preserve judicial sentencing allocations while his present commitment independently protects silence. That combination precisely expresses the opinion's nonclassification ground.
 
-Stone's separation of admitted guilt, disputed quantity and evidence-based relief is a strong fit. Kennedy's Balsys and Wright opinions likewise connect protected domestic exposure with an established lawful sentencing basis. Neither supplies a necessary accommodation or concrete advantage over Breyer's equally sufficient execution of those tasks; Breyer's lower count favors him. Ginsburg also qualifies at six, but Breyer's particular published sentencing-proof distinction is the closer combined fit. Historical Mitchell authorship plays no role. Scalia writes the common partial dissent; Thomas adds his distinct critique. Those writings do not count.
+Stone's separation of admitted guilt, disputed quantity and evidence-based relief is a strong fit. Kennedy's Balsys opinion and Wright join likewise connect protected domestic exposure with an established lawful sentencing basis. Neither supplies a necessary accommodation or concrete advantage over Breyer's equally sufficient execution of those tasks; Breyer has six counted leads, the same as Kennedy and fewer than Stone's eight; his closer combined fit supplies the choice between the equal-count candidates. Ginsburg also qualifies at six, but Breyer's particular published sentencing-proof distinction is the closer combined fit. Historical Mitchell authorship plays no role. Scalia writes the common partial dissent; Thomas adds his distinct critique. Those writings do not count.
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|
 | Opinion of the Court, Part I | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Bounded retained privilege and plea-waiver analysis |
 | Opinion of the Court, Parts II–III | Breyer | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg | Crime-facts inference prohibition, prejudice and sentencing remedy |
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Exact scope |
 |---|---|---|---|
@@ -2550,9 +3025,10 @@ Stone's separation of admitted guilt, disputed quantity and evidence-based relie
 <!-- source-record: murphy_brothers_v_michetti_pipe_stringing_merits_1999-04-05.md -->
 
 **Case and dockets:** Murphy Brothers, Inc. v. Michetti Pipe Stringing, Inc., No. 97-1909; judgment below, 125 F.3d 1396.
+
 **Event and date:** merits decision, 1999-04-05; October Term 1998.
 
-## Form, assignment and final opinion table
+### Form, assignment and final opinion table
 
 Form and scope were fixed before counting: one signed Opinion of the Court stating the complete two-branch original-pleading timing rule, and a signed dissent stating the receipt construction. The branches remain parts of one statutory holding, not artificially divided alternatives. Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer join the entire Court rule and remedy; Scalia and Thomas adopt the complete receipt rationale and would sustain the appellate remand direction. No partial join, additional concurrence or Marks synthesis is needed.
 
@@ -2560,11 +3036,11 @@ Form and scope were fixed before counting: one signed Opinion of the Court stati
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 6 |
@@ -2576,9 +3052,9 @@ Form and scope were fixed before counting: one signed Opinion of the Court stati
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
+**Balance pool:** Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer; minimum 6, ceiling 7. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
 
-**Assignment:** Ginsburg. Fit governs the settled seven-Justice formulation; no necessary join awaits expansion. Ginsburg's frozen position directly distinguishes informative receipt from an imposed litigation obligation while preserving the separate summons branch, its actual conditions and the absence of an equitable extension. That is the central drafting task, and her Henderson and Caterpillar joins support keeping service, prospective statutory compliance and jurisdiction separate. Stone-Zsela was expressly considered: his approved contextual construction and preserved jurisdictional remand can carry the same complete opinion, but no additional accommodation or personal authoring advantage requires self-assignment. Ginsburg can express his approved objective equally faithfully and has the lower count, six rather than seven. The Chief therefore assigns her within the balance pool. Her historical authorship is not an assignment rule.
+**Assignment:** Ginsburg. Fit governs the settled seven-Justice formulation; no necessary join awaits expansion. Ginsburg's frozen position directly distinguishes informative receipt from an imposed litigation obligation while preserving the separate summons branch, its actual conditions and the absence of an equitable extension. That is the central drafting task, and her Henderson and Caterpillar joins support keeping service, prospective statutory compliance and jurisdiction separate. Stone-Zsela was expressly considered: his approved contextual construction and preserved jurisdictional remand can carry the same complete opinion, but no additional accommodation or personal authoring advantage requires self-assignment. Ginsburg can express his approved objective equally faithfully and has the lower count, six rather than Stone's eight. The Chief therefore assigns her within the balance pool. Her historical authorship is not an assignment rule.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2587,7 +3063,7 @@ Form and scope were fixed before counting: one signed Opinion of the Court stati
 
 Thomas authors the dissent because his frozen Things Remembered and Henderson grounds directly distinguish the first branch's receipt language from the second branch's express service condition. Scalia fully joins that statutory objection. The writing states neither a contrary service fact nor a waiver, default, bad-faith or equitable-extension finding. It carries no lead increment. Final compatibility preserves the complete frozen joins without an invented circulation exchange.
 
-## Opinion Topology
+### Public Opinion Topology
 
 Justice Ginsburg delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Souter and Breyer. Justice Thomas dissents, joined by Justice Scalia. Each writing retains its complete statutory construction and remedy; there are no partial or judgment-only joins.
 
@@ -2596,25 +3072,26 @@ Justice Ginsburg delivers the Opinion of the Court, joined in full by Chief Just
 <!-- source-record: wyoming_v_houghton_merits_1999-04-05.md -->
 
 **Case and dockets:** Wyoming v. Houghton; No. 98-184.
+
 **Event and date:** Plenary merits decision; 1999-04-05; October Term 1998, chunk 6.
 
-## Form and assignment
+### Form and assignment
 
 Before examining counts, the legal work warrants one signed lead applying the existing automobile rule to this detached purse and one common dissent by Stone-Zsela, Stevens, Souter and Ginsburg proposing the specified qualification, its effect-or-passenger connection and the shared suppression judgment. The lead itself reserves worn or carried effects and person searches and treats historical practice as informative, not automatically conclusive. These limits answer Breyer's recorded boundaries without a redundant concurrence. No count determines the form or the scope of a proposition. Authors and assignments are stated below after the completed preceding events and fresh chronological recount.
 
 **Form before count:** One signed plenary lead applies the existing automobile rule to the detached purse and states the common person/effect and remedial limits. One four-Justice dissent proposes the already fixed known-passenger-effect modification and affirmance. Those forms and propositions were settled in the refined assembly draft before the recount or author choice; no part is divided to alter eligibility or an opinion count.
 
-**Fresh chronological recount:** After root confirmation that Murphy and every preceding event were complete, tmp/ot1998_chunk6_recount.py freshly recounted actual lead-opinion tables from all preceding OT1998 Records in effective-date and same-date alphabetical order. Receipt: ../freeze/OT_1998CHUNK6_HOUGHTON_RECOUNT.json. Counts before assignment: Stone-Zsela 7; Stevens 7; O'Connor 7; Scalia 7; Kennedy 7; Souter 7; Thomas 7; Ginsburg 7; Breyer 7. Total counted opinions: 63. Last counted event: Murphy Brothers, Inc. v. Michetti Pipe Stringing, Inc., merits, April 5, 1999, Ginsburg. Earlier reported tallies were not substituted for the actual tables; a single author is counted once despite any component rows.
+**Fresh chronological recount:** After root confirmation that Murphy and every preceding event were complete, tmp/ot1998_chunk6_recount.py freshly recounted actual lead-opinion tables from all preceding OT1998 Records in effective-date and same-date alphabetical order. Receipt: ../freeze/OT_1998CHUNK6_HOUGHTON_RECOUNT.json. Counts before assignment: Stone-Zsela 8; Stevens 7; O'Connor 7; Scalia 7; Kennedy 6; Souter 7; Thomas 7; Ginsburg 7; Breyer 7. Total counted opinions: 63. Last counted event: Murphy Brothers, Inc. v. Michetti Pipe Stringing, Inc., merits, April 5, 1999, Ginsburg. Earlier reported tallies were not substituted for the actual tables; a single author is counted once despite any component rows.
 
-**Authority, eligibility and pool:** Stone dissents from the judgment. O'Connor, the senior participating Associate in the five-Justice judgment coalition, assigns the entire Court opinion. All five members—O'Connor, Scalia, Kennedy, Thomas and Breyer—fully join its governing rule, application, limits and remedy and are eligible authors. Their counts are all seven, so all five also constitute the balance pool calculated at the minimum plus one. The selection lies within that pool. The Engine's Associate-assignment paragraph governs O'Connor's choice; the Chief neither assigns from the dissent nor supplies the criteria for her personal priorities. No eligible Justice is excluded for ability, difficulty or style.
+**Authority, eligibility and pool:** Stone dissents from the judgment. O'Connor, the senior participating Associate in the five-Justice judgment coalition, assigns the entire Court opinion. All five members—O'Connor, Scalia, Kennedy, Thomas and Breyer—fully join its governing rule, application, limits and remedy and are eligible authors. Kennedy has six counted leads and the other four seven, so all five also constitute the illustrative pool at the minimum plus one. The selection lies within that pool. The Engine's Associate-assignment paragraph governs O'Connor's choice; the Chief neither assigns from the dissent nor supplies the criteria for her personal priorities. No eligible Justice is excluded for ability, difficulty or style.
 
-**Choice and comparison:** O'Connor assigns the complete opinion to herself. Fit governs because the five already share H1 within its stated limits; there is no unresolved objection requiring a new doctrinal accommodation. Her Labron opinion directly states the object-based automobile rule now applied, and her Knowles opinion distinguishes an actual independent search ground from a citation or unused arrest authority. Those writings demonstrate the needed separation of personal privacy, the established search exception and the precise facts supplying its predicate. Her full Wellons join preserves the purse's privacy without turning that interest into an already existing exception. Breyer is the strongest alternative because his frozen position expressly preserves the detached-purse/person boundary and rejects automatic historical determinacy. Those limits are incorporated completely, and his correct ownership chronology is preserved; their inclusion does not depend on his authorship. O'Connor's directly demonstrated coordination of the governing automobile rule and independent search predicates supplies the case-specific reason for her choice at the identical count. Scalia, Kennedy and Thomas can carry the same settled grounds; no assumed defect excludes them. Historical authorship is not copied, and no frozen vote or ground changes.
+**Choice and comparison:** O'Connor assigns the complete opinion to herself. Fit governs because the five already share H1 within its stated limits; there is no unresolved objection requiring a new doctrinal accommodation. Her Labron opinion directly states the object-based automobile rule now applied, and her Knowles opinion distinguishes an actual independent search ground from a citation or unused arrest authority. Those writings demonstrate the needed separation of personal privacy, the established search exception and the precise facts supplying its predicate. Her full Wellons join preserves the purse's privacy without turning that interest into an already existing exception. Breyer is the strongest alternative because his frozen position expressly preserves the detached-purse/person boundary and rejects automatic historical determinacy. Those limits are incorporated completely, and his correct ownership chronology is preserved; their inclusion does not depend on his authorship. O'Connor's directly demonstrated coordination of the governing automobile rule and independent search predicates supplies the case-specific reason for her choice at the same count as Breyer. Scalia, Kennedy and Thomas can carry the same settled grounds; no assumed defect excludes them. Historical authorship is not copied, and no frozen vote or ground changes.
 
 **Common dissent:** Stevens writes, joined by Stone-Zsela, Souter and Ginsburg. His Acevedo dissent and the Ross/Labron scope he must now qualify supply a concrete basis for explaining the proposed change without restoring a universal luggage-warrant rule. The common writing preserves Stone's exact effect-or-passenger nexus, independently lawful search grounds, chronology and suppression remedy. It states all four dissenters' complete supported position; no separate Stone writing is manufactured. Separate-opinion authorship does not affect the lead-opinion count.
 
 **Counted lead opinion:** Yes. O'Connor delivers one signed plenary Opinion of the Court. The common dissent is not counted.
 
-## Opinion Topology
+### Public Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2626,9 +3103,10 @@ Before examining counts, the legal work warrants one signed lead applying the ex
 <!-- source-record: barnes_v_american_tobacco_co_merits_1999-04-07.md -->
 
 **Case and dockets:** Barnes v. American Tobacco Co., No. 98-1489; judgment below, 161 F.3d 127.
+
 **Event and date:** post-grant merits decision, 1999-04-07; October Term 1998.
 
-## Form, assignment and final opinion table
+### Form, assignment and final opinion table
 
 Before the recount, the case's form was fixed as one signed unanimous Opinion of the Court deciding the complete bounded B1 certification rule and remedy, with no separate writing or artificial part division. The authorized merits stage is full on-papers submission on the supplied merits presentation and both sides' arguments, as expressly stated above and in the frozen submission clarification; it is not counted merely because a grant occurred. No oral argument, historical Supreme Court filing or particular submission date is inferred. All nine Justices support every governing proposition through their case-specific approved or frozen position, not through Stone's fallback. No Marks analysis is needed.
 
@@ -2636,11 +3114,11 @@ Before the recount, the case's form was fixed as one signed unanimous Opinion of
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 7 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 7 |
@@ -2652,9 +3130,9 @@ Before the recount, the case's form was fixed as one signed unanimous Opinion of
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The lowest eligible count is 7; the pool includes eligible counts no more than one higher.
+**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 6, ceiling 7. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
 
-**Assignment:** Breyer. Fit governs the settled unanimous formulation; no necessary join remains contingent on a new expansion. Breyer's frozen commitment directly identifies the decisive boundary between individual questions affecting entitlement to the proposed monitoring relief and mere administration of an otherwise established common remedy. His published Amchem separate position requires attention to how the actual proposal operates, which makes him well placed to explain why this bounded affirmance follows while a denial resting only on imported predominance would require a different answer. Stone-Zsela was expressly considered at the same count of seven: his approved common-proof and individual-defense ground fully supports the opinion, but no additional accommodation or personal drafting advantage requires self-assignment. Breyer can preserve that objective and the indivisibility limit while giving the principal remand alternative its exact answer. Ginsburg's Castano law-and-proof treatment is another strong pool alternative; Breyer's recorded focus on the actual-relief-versus-administration distinction most directly addresses this opinion's remaining explanatory task. Neither his earlier authorship nor the subject's importance supplies independent entitlement.
+**Assignment:** Breyer. Fit governs the settled unanimous formulation; no necessary join remains contingent on a new expansion. Breyer's frozen commitment directly identifies the decisive boundary between individual questions affecting entitlement to the proposed monitoring relief and mere administration of an otherwise established common remedy. His published Amchem separate position requires attention to how the actual proposal operates, which makes him well placed to explain why this bounded affirmance follows while a denial resting only on imported predominance would require a different answer. Stone-Zsela supports the ground but is outside the pool at eight: his approved common-proof and individual-defense ground fully supports the opinion, but no additional accommodation or personal drafting advantage requires self-assignment. Breyer can preserve that objective and the indivisibility limit while giving the principal remand alternative its exact answer. Ginsburg's Castano law-and-proof treatment is another strong pool alternative; Breyer's recorded focus on the actual-relief-versus-administration distinction most directly addresses this opinion's remaining explanatory task. Neither his earlier authorship nor the subject's importance supplies independent entitlement.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -2662,6 +3140,6 @@ Before the recount, the case's form was fixed as one signed unanimous Opinion of
 
 No separate writing is issued. The opinion itself preserves the complete limits material to Stevens and Breyer, including no imported Rule 23(b)(3) requirement, categorical monitoring prohibition or universal individual-issues bar. The final compatibility check confirms all nine complete joins without an invented circulation exchange or changed frozen commitment.
 
-## Opinion Topology
+### Public Opinion Topology
 
 Justice Breyer delivers the unanimous Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine join the complete rule, record application, limits and remedy. No separate writing is issued.

@@ -62,23 +62,23 @@ There is no historical Supreme Court merits comparator or lineup for this suppli
 
 ### Section 8 assignment
 
-The shared ground and signed opinion form stated above precede the balance inquiry. Stone joins the judgment and every governing proposition, so he assigns. The seven preceding counted leads were independently recounted from the current term's actual opinion tables: Wright/Kennedy (October 5), FOP/Souter (October 7), Hiley/O'Connor (October 9), Peoples Rights/Thomas (October 15), Franklyn/Gonzalez/Ginsburg (October 22), Griffin/Langley/Stone-Zsela (October 29), and Marquez/Stevens (November 3). Louisiana's October 13 unsigned decree and all separate writings count zero. The last counted event is Marquez, November 3, 1998. The three November 10-12 leads are excluded from this November 5 assignment despite already having Records.
+The shared ground and signed opinion form stated above precede the balance inquiry. Stone joins the judgment and every governing proposition, so he assigns. The seven preceding counted leads were independently recounted from the current term's actual opinion tables: Wright/Stone-Zsela (October 5), FOP/Souter (October 7), Hiley/O'Connor (October 9), Peoples Rights/Thomas (October 15), Franklyn/Gonzalez/Ginsburg (October 22), Griffin/Langley/Stone-Zsela (October 29), and Marquez/Stevens (November 3). Louisiana's October 13 unsigned decree and all separate writings count zero. The last counted event is Marquez, November 3, 1998. The three November 10-12 leads are excluded from this November 5 assignment despite already having Records.
 
 | Justice | Count before assignment | Eligible for entire opinion | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes; express approved position | Yes |
+| Stone-Zsela | 2 | Yes; express approved position | Yes |
 | Stevens | 1 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 0 | Yes | Yes |
-| Kennedy | 1 | Yes | Yes |
+| Kennedy | 0 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
 | Breyer | 0 | Yes | Yes |
 
-All nine are eligible because each supports every proposition and limit of the proposed opinion. The minimum is zero and all nine lie no more than one above it. **Assignment: Scalia.** Fit governs; no expansion is necessary. His frozen position combines the jurisdiction-before-contested-merits rule with Lujan's personal-injury discipline and the refusal to infer missing allegations from an incomplete account. His date-eligible Lujan, Bennett and Steel Co. writings perform that precise work. Breyer is the strongest zero-count alternative through his actual-redress and confined-sequencing grounds; Scalia's combined position more directly addresses both reasons for this remand. Stone can carry the same rule, but has one counted lead, offers no necessary new accommodation, and has no concrete advantage over Scalia for this application. Earlier authorship is evidence of fit, not an eligibility restriction or automatic assignment. No later-career evidence is used.
+All nine are eligible because each supports every proposition and limit of the proposed opinion. The minimum is zero; all eight Associates are within one, while Stone-Zsela at two is outside the pool. **Assignment: Scalia.** Fit governs; no expansion is necessary. His frozen position combines the jurisdiction-before-contested-merits rule with Lujan's personal-injury discipline and the refusal to infer missing allegations from an incomplete account. His date-eligible Lujan, Bennett and Steel Co. writings perform that precise work. Breyer is the strongest zero-count alternative through his actual-redress and confined-sequencing grounds; Scalia's combined position more directly addresses both reasons for this remand. Stone can carry the same rule, but has two counted leads, offers no necessary new accommodation, and has no concrete advantage over Scalia for this application. Earlier authorship is evidence of fit, not an eligibility restriction or automatic assignment. No later-career evidence is used.
 
-The opinion remains one signed lead after full merits briefing although the constitutional merits are not reached. It counts once for Scalia in subsequent assignments. A Record committed later with an earlier effective date enters later counts and reopens no completed assignment. After all twelve current Records, future recounts include eleven leads: Scalia 2, Kennedy 2, and Stone-Zsela, Stevens, O'Connor, Souter, Thomas, Ginsburg and Breyer 1 each. These totals are a check, not a substitute for the next required recount.
+The opinion remains one signed lead after full merits briefing although the constitutional merits are not reached. It counts once for Scalia in subsequent assignments. A Record committed later with an earlier effective date enters later counts and reopens no completed assignment. After all twelve current Records, future recounts include eleven leads: Stone-Zsela and Scalia 2 each, and Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer 1 each. These totals are a check, not a substitute for the next required recount.
 
 ## Sources and validation status
 

@@ -29,17 +29,17 @@ The actual May17 and Maine public-law additions and [later dependency review](..
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 9 |
 | O'Connor | 10 |
 | Scalia | 9 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 9 |
 | Breyer | 10 |
 
-Last counted event: Cleveland v. Policy Management Systems Corp.; No. 97-1008. (1999-05-24), Stevens; `cleveland_v_policy_management_systems_merits_1999-05-24.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: Stevens, O'Connor, Souter, Ginsburg and Breyer. Balance pool: Stevens (9), O'Connor (10), Souter (10), Ginsburg (9) and Breyer (10). Chief Justice Stone-Zsela assigns Ginsburg. The Chief supports reversal and assigns, but his approved conjunctive severity formulation does not support every proposition in the complete severe-or-pervasive lead, so he is ineligible for that integrated opinion. Scalia, Kennedy and Thomas oppose the peer extension. All five eligible members fall within one of the minimum nine. Ginsburg's frozen ground distinctly separates the recipient's culpable response from imputation of the child's acts and retains causal and remedy limits without turning a proposed avoidable-harm defense into an automatic bar. That is the opinion's central attribution work. Stevens at the same count is the strongest alternative; both could carry the shared rule, but Ginsburg's precisely bounded recipient-response formulation supplies the case-specific fit. No vote is obtained by authorship and no broader theory is adopted to enlarge eligibility.
+Last counted event: Cleveland v. Policy Management Systems Corp.; No. 97-1008. (1999-05-24), Stevens; `cleveland_v_policy_management_systems_merits_1999-05-24.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: Stevens, O'Connor, Souter, Ginsburg and Breyer. Balance pool: Stevens, O'Connor, Souter, Ginsburg, Breyer; minimum 9, ceiling 10. Chief Justice Stone-Zsela assigns Ginsburg. The Chief supports reversal and assigns, but his approved conjunctive severity formulation does not support every proposition in the complete severe-or-pervasive lead, so he is ineligible for that integrated opinion. Scalia, Kennedy and Thomas oppose the peer extension. All five eligible members fall within one of the minimum nine. Ginsburg's frozen ground distinctly separates the recipient's culpable response from imputation of the child's acts and retains causal and remedy limits without turning a proposed avoidable-harm defense into an automatic bar. That is the opinion's central attribution work. Stevens at the same count is the strongest alternative; both could carry the shared rule, but Ginsburg's precisely bounded recipient-response formulation supplies the case-specific fit. No vote is obtained by authorship and no broader theory is adopted to enlarge eligibility.
 
 Stevens, O'Connor, Souter, Ginsburg and Breyer join all three parts. Stone joins Part I's sufficient actual-corrective-official-notice/culpable-response peer route and Part III's allegation-stage reversal; he does not join Part II's severe-or-pervasive threshold. His separate writing retains his severe-and-pervasive-and-objectively-offensive formulation and his additional willfully blind reporting-failure proposal. None of those differences moves a non-Stone commitment. Kennedy writes the dissent for Scalia and Thomas because his recorded objection distinctly explains the nonagent link and preserves the direct-discrimination distinction; this reason, not historical authorship, determines the separate writing.
 

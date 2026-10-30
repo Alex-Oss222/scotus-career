@@ -23,11 +23,11 @@ Form is fixed before assignment as one signed eight-Justice Opinion of the Court
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 9 |
 | Scalia | 8 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
@@ -41,9 +41,9 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+**Balance pool:** Kennedy, Thomas; minimum 6, ceiling 7. Lowest eligible count: 6; eligible counts at most 7 enter the pool.
 
-**Assignment:** Kennedy. Kennedy's frozen Nobelman and Noland/CF&I grounds distinguish value from the legal rights being allocated and reconcile the different statutory functions of proposal exclusivity and substantive confirmation. That is the precise work of this bounded opinion. Stone is fully eligible at eight, with his further market-testing position preserved separately; Kennedy is at seven and can carry the common rule with equally direct fit. Thomas is another seven-count candidate and fully supports the text-only formulation. Kennedy's recorded emphasis on compatible statutory roles and the distinction between cash value and the allocated opportunity gives him the better fit for answering Stevens's combined preservation and new-capital objection without broadening the common rule.
+**Assignment:** Kennedy. Kennedy's frozen Nobelman and Noland/CF&I grounds distinguish value from the legal rights being allocated and reconcile the different statutory functions of proposal exclusivity and substantive confirmation. That is the precise work of this bounded opinion. Stone is substantively eligible but outside the pool at nine, with his further market-testing position preserved separately; Kennedy is at six and can carry the common rule with equally direct fit. Thomas is another seven-count candidate and fully supports the text-only formulation. Kennedy's recorded emphasis on compatible statutory roles and the distinction between cash value and the allocated opportunity gives him the better fit for answering Stevens's combined preservation and new-capital objection without broadening the common rule.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

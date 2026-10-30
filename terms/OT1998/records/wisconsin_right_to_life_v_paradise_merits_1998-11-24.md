@@ -101,11 +101,11 @@ Internal handoffs: terms/OT1998/freeze/OT_1998CHUNK2_NEUTRAL.md (Paradise only);
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes | Yes |
+| Stone-Zsela | 2 | Yes | Yes |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | No | No |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | No | No |
 | Ginsburg | 1 | Yes | Yes |
@@ -113,7 +113,7 @@ Internal handoffs: terms/OT1998/freeze/OT_1998CHUNK2_NEUTRAL.md (Paradise only);
 
 Last counted event: Dodd v. Hood River County, 1998-11-19, delivered by Stevens. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Stone-Zsela.**
 
-Chief Justice Stone-Zsela assigns because he joins the judgment and every governing proposition on his approved core. He assigns the complete opinion to himself on case-specific fit. Its central task is to separate an actual facial invalidity and nonenforcement claim from universal supervision of future state adjudication, while preserving credible injury, proper defendants, effective relief and the unreviewed abstention question. His approved position expressly coordinates those distinct limits and rejects both presumed standing and an automatic hearing. His actual Steel Co. opinion likewise separates judicial power, disputed merits and permissible relief. Souter is the strongest alternative at the same count: his standing and proper-defendant grounds fully support the result, but Stone's approved formulation more directly integrates the precise remedial misunderstanding with the retained adverse enforcement evidence. That concrete coordination advantage, rather than the Chief's office or the speech subject, supports self-assignment. O'Connor and Ginsburg also remain fully eligible at the same count; no lower-count member is bypassed. Fit governs because the seven already share the complete limited ground, and no new accommodation or expanded join is necessary. Stone-Zsela receives one counted lead.
+Chief Justice Stone-Zsela assigns because he joins the judgment and every governing proposition on his approved core. He assigns the complete opinion to himself on case-specific fit. Its central task is to separate an actual facial invalidity and nonenforcement claim from universal supervision of future state adjudication, while preserving credible injury, proper defendants, effective relief and the unreviewed abstention question. His approved position expressly coordinates those distinct limits and rejects both presumed standing and an automatic hearing. His actual Steel Co. opinion likewise separates judicial power, disputed merits and permissible relief. Souter is the strongest alternative at the lower count of one: his standing and proper-defendant grounds fully support the result, but Stone's approved formulation more directly integrates the precise remedial misunderstanding with the retained adverse enforcement evidence. That concrete coordination advantage, rather than the Chief's office or the speech subject, supports self-assignment. O'Connor, Kennedy and Ginsburg also have one counted lead. Stone's concrete coordination advantage supports the selection within the pool despite those lower counts. Fit governs because the seven already share the complete limited ground, and no new accommodation or expanded join is necessary. Stone-Zsela receives one counted lead.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 

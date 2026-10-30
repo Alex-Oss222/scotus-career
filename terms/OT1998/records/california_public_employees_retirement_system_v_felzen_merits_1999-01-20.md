@@ -125,19 +125,19 @@ The signed form and governing propositions were selected on the legal grounds st
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 3 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** State Street Bank & Trust Co. v. Signature Financial Group, Inc.; Federal Circuit No. 96-1327; no separate Supreme Court docket supplied; OT1998. — 1999-01-14. **Eligible full-rationale authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas. **Balance pool:** Stone-Zsela, Scalia, Thomas. **Chosen author:** Stone-Zsela. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_FELZEN_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** State Street Bank & Trust Co. v. Signature Financial Group, Inc.; Federal Circuit No. 96-1327; no separate Supreme Court docket supplied; OT1998. — 1999-01-14. **Eligible full-rationale authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas. **Balance pool:** Stone-Zsela, Scalia, Kennedy, Thomas; minimum 2, ceiling 3. **Chosen author:** Stone-Zsela. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_FELZEN_ASSIGNMENT_RECOUNT.json).
 
-Fit supports self-assignment within the pool. Stone's own unanimous Richards opinion separates constitutional authority to bind absent persons from notice, shared interests and intervention, and his approved present position coordinates that rule with Izumi's party-status boundary without turning either into a universal bar on nonparty review. That exact coordination answers the four dissenters' limited-role argument while preserving their distinct constitutional concern. Thomas, at the same lowest count, is the strongest alternative: his Izumi/Richards joins and Harper separation of governing law from procedural remedies fit the necessary restraints. Stone's direct authorship of the representation boundary, coupled with his expressly fixed present distinction between objection and appellate status, gives a concrete advantage in stating the agreed narrow rule without silently foreclosing an independent due-process claim. Scalia is also eligible within the pool. No necessary join depends on a new concession or expansion.
+Fit supports self-assignment within the pool. Stone's own unanimous Richards opinion separates constitutional authority to bind absent persons from notice, shared interests and intervention, and his approved present position coordinates that rule with Izumi's party-status boundary without turning either into a universal bar on nonparty review. That exact coordination answers the four dissenters' limited-role argument while preserving their distinct constitutional concern. Thomas, at the lower count of two, is the strongest alternative: his Izumi/Richards joins and Harper separation of governing law from procedural remedies fit the necessary restraints. Stone's direct authorship of the representation boundary, coupled with his expressly fixed present distinction between objection and appellate status, gives a concrete advantage in stating the agreed narrow rule without silently foreclosing an independent due-process claim. Scalia is also eligible within the pool. No necessary join depends on a new concession or expansion.
 
 Final compatibility preserves the exact proposition-level joins below. No new objection, circulation exchange, changed commitment or reassignment is invented. This signed plenary lead counts once for Stone-Zsela; separate writings do not count.
 

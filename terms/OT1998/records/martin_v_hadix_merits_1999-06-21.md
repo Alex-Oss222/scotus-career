@@ -57,17 +57,17 @@ The Chief joins both tentative judgment coalitions and has assignment authority 
 
 | Justice | Count before assignment | Complete-opinion eligibility | Balance-pool status |
 |---|---:|---|---|
-| Stone-Zsela | 12 | Eligible | In pool |
+| Stone-Zsela | 13 | Eligible | In pool |
 | Stevens | 12 | Ineligible: opposes Part III | Outside eligible set |
 | O'Connor | 12 | Eligible | In pool |
 | Scalia | 12 | Eligible | In pool |
-| Kennedy | 12 | Eligible | In pool |
+| Kennedy | 11 | Eligible | In pool |
 | Souter | 12 | Eligible | In pool |
 | Thomas | 11 | Eligible | In pool; selected |
 | Ginsburg | 12 | Ineligible: opposes Part III | Outside eligible set |
 | Breyer | 13 | Eligible | Outside pool |
 
-The eligible minimum is Thomas's 11. The complete balance pool consists of Stone-Zsela, O'Connor, Scalia, Kennedy, Souter and Thomas, whose counts do not exceed 12; Breyer remains eligible on the law but is outside that pool. **The Chief assigns the complete lead opinion to Thomas.** His frozen relevant-activity analysis identifies the compensated legal services as this statute's object and supports the concrete distinction between completed and later work. That case-specific statutory fit permits him to carry the common narrow rule while preserving the separate general-methodology reservation. No new join or objection is invented, and the full opinion is not divided to change eligibility or counts. The settled common formulation is supported by all seven eligible Justices; the assignment changes none of those commitments.
+Kennedy and Thomas share the eligible minimum of eleven. The complete balance pool consists of O'Connor, Scalia, Kennedy, Souter and Thomas, whose counts do not exceed twelve; Stone-Zsela and Breyer remain eligible but are outside it at thirteen. **The Chief assigns the complete lead opinion to Thomas.** His frozen relevant-activity analysis identifies the compensated legal services as this statute's object and supports the concrete distinction between completed and later work. That case-specific statutory fit permits him to carry the common narrow rule while preserving the separate general-methodology reservation. No new join or objection is invented, and the full opinion is not divided to change eligibility or counts. The settled common formulation is supported by all seven eligible Justices; the assignment changes none of those commitments.
 
 Thomas also joins Scalia's separate relevant-activity explanation with Kennedy. That separate join preserves the stated methodological reservation without withdrawing his agreement with any concrete Court proposition or creating a second counted lead opinion. His assigned authorship rests on the current frozen grounds and lawful pool, not historical Martin authorship. Earlier completed assignments, including Jones while Acker was stopped, remain undisturbed; the present fresh recount includes both completed decisions as required.
 

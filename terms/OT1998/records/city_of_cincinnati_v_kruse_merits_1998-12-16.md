@@ -47,11 +47,11 @@ Fresh recount from actual preceding current-term Record opinion tables, includin
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 2 |
 | O'Connor | 2 |
 | Scalia | 3 |
-| Kennedy | 2 |
+| Kennedy | 1 |
 | Souter | 2 |
 | Thomas | 2 |
 | Ginsburg | 3 |
@@ -59,9 +59,9 @@ Fresh recount from actual preceding current-term Record opinion tables, includin
 
 Last counted event: NYNEX, December 14, 1998. Twenty-one signed plenary leads count; unsigned decrees, procedural opinions, summary dispositions and separate writings do not. [Recount source list](../runtime/OT_1998CHUNK3_KRUSE_ASSIGNMENT_RECOUNT.json) records the actual tables used, not prior reported tallies.
 
-**Eligible authors:** all nine; each supports every governing proposition in full. **Balance pool:** all nine, with minimum two and every eligible count no more than three. **Author selected:** Kennedy.
+**Eligible authors:** all nine; each supports every governing proposition in full. **Balance pool:** Stevens, O'Connor, Kennedy, Souter, Thomas; minimum 1, ceiling 2. **Author selected:** Kennedy.
 
-Kennedy's published Colorado Republican and Kentucky Right to Life positions distinguish candidate cash from a particular added burden on expression, which is the central work of this opinion. They also permit him to state the surviving contribution boundaries without converting this result into general financial-regulation immunity. O'Connor is a strong equal-count alternative through her transaction-specific preventive-regulation analysis; Kennedy's directly expressed distinction between the candidate's advocacy and the separate added restraint gives him the narrower case-specific fit. Stone's approved formulation faithfully supports the same work, but offers no concrete advantage over Kennedy's directly relevant published treatment at the same count. No Justice is excluded by experience, prior authorship or perceived ability. This is an assignment inference, not historical authorship.
+Kennedy's published Colorado Republican and Kentucky Right to Life positions distinguish candidate cash from a particular added burden on expression, which is the central work of this opinion. They also permit him to state the surviving contribution boundaries without converting this result into general financial-regulation immunity. O'Connor is a strong pool alternative at two counted leads through her transaction-specific preventive-regulation analysis; Kennedy's directly expressed distinction between the candidate's advocacy and the separate added restraint gives him the narrower case-specific fit. Stone's approved formulation faithfully supports the same work, but offers no concrete advantage over Kennedy's directly relevant published treatment at the lower count of one. No Justice is excluded by experience, prior authorship or perceived ability. This is an assignment inference, not historical authorship.
 
 Final compatibility is complete: each of the nine joins the actual rule, accepted-facts application, noncategorical official-work reservation and affirmance. There is no changed Associate commitment or fictional circulation exchange. Kennedy receives one counted lead; separate writings add none.
 

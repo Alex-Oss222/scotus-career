@@ -73,19 +73,19 @@ Fresh recount from actual preceding current-term opinion tables, including earli
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 2 |
 | O'Connor | 2 |
 | Scalia | 3 |
-| Kennedy | 3 |
+| Kennedy | 2 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** McClellan v. Cablevision of Connecticut, Inc.; Second Circuit No. 97-7156; 149 F.3d 161; no separate Supreme Court docket supplied. — 1999-01-07. **Eligible full-rationale authors:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg. **Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg. **Chosen author:** Stevens. [Actual recount sources](../runtime/OT_1998CHUNK3_BUCKLEY_ACLF_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** McClellan v. Cablevision of Connecticut, Inc.; Second Circuit No. 97-7156; 149 F.3d 161; no separate Supreme Court docket supplied. — 1999-01-07. **Eligible full-rationale authors:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg. **Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg; minimum 2, ceiling 3. **Chosen author:** Stevens. [Actual recount sources](../runtime/OT_1998CHUNK3_BUCKLEY_ACLF_ASSIGNMENT_RECOUNT.json).
 
-Fit governs. Stevens's own Meyer opinion addresses the protected speaker pool, and his McIntyre opinion supplies the personal-attribution distinction. Together they give him a direct case-specific advantage in coordinating circulation, live identification and later financial reporting without merging their tests. Stone is the strongest equal-count alternative through his precise approved component formulation; it supplies no additional accommodation or fidelity advantage over Stevens's demonstrated treatment of the two controlling speech settings. Other eligible pool members remain fully capable. O'Connor, Breyer and Thomas are excluded from full-lead eligibility solely by their recorded proposition or method disagreements, not by skill or subject-matter reputation. No expansion bargain or fictional negotiation is claimed.
+Fit governs. Stevens's own Meyer opinion addresses the protected speaker pool, and his McIntyre opinion supplies the personal-attribution distinction. Together they give him a direct case-specific advantage in coordinating circulation, live identification and later financial reporting without merging their tests. Stone is a strong pool alternative at three counted leads to Stevens's two through his precise approved component formulation; it supplies no additional accommodation or fidelity advantage over Stevens's demonstrated treatment of the two controlling speech settings. Other eligible pool members remain fully capable. O'Connor, Breyer and Thomas are excluded from full-lead eligibility solely by their recorded proposition or method disagreements, not by skill or subject-matter reputation. No expansion bargain or fictional negotiation is claimed.
 
 Stevens, Stone-Zsela, Scalia, Kennedy, Souter and Ginsburg join every actual Court part. O'Connor and Breyer join only Part II's direct-speech/narrow-fit reasoning and its judgment, while opposing the other reviewed invalidations. Thomas joins no complete lead-method part and states his sufficient strict-scrutiny and alternative disclosure grounds separately. All component totals reconcile to those joins. No changed Associate vote is inferred from author choice. This signed plenary lead counts once for its author. Separate writings add no count.
 

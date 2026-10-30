@@ -619,7 +619,7 @@ Source: `united_states_v_wright_merits_1998-10-05.md`.
 
 ## Holdings
 
-**Common authority.** Kennedy's Opinion of the Court, Parts I-V, is joined in full by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. Those eight Justices directly adopt every holding and controlling explanation below. Stone-Zsela does not join the Court's opinion. His agreement with several judgment components does not enlarge their rationale coalition. No fractured-decision inference is needed.
+**Common authority.** Stone-Zsela delivers the Opinion of the Court. O'Connor, Kennedy, Souter and Ginsburg join in full. Stevens, Scalia, Thomas and Breyer join Parts I, II-A, IV and V, the limited vacatur and remand in II-C apart from its framework direction, and separately adopt III's independent tax and registration grounds through Stevens's concurrence, Part A. II-B's complete framework, its application to registration, and the direction to apply both stages on the machinegun remand have five direct votes. No Marks inference is necessary.
 
 
 ### V-A. A reserved legal challenge alone does not defeat acceptance credit

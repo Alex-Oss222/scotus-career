@@ -2,24 +2,24 @@
   "event": "El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng",
   "date": "1999-01-12",
   "counts": {
-    "Stone-Zsela": 2,
+    "Stone-Zsela": 3,
     "Stevens": 3,
     "O'Connor": 2,
     "Scalia": 3,
-    "Kennedy": 3,
+    "Kennedy": 2,
     "Souter": 3,
     "Thomas": 2,
     "Ginsburg": 3,
     "Breyer": 3
   },
-  "last_counted_event": "Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092. \u2014 1999-01-12",
+  "last_counted_event": "Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092. — 1999-01-12",
   "counted_records": [
     [
       "1998-10-05",
       "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
       "united_states_v_wright_merits_1998-10-05.md",
       [
-        "Kennedy"
+        "Stone-Zsela"
       ]
     ],
     [

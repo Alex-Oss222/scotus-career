@@ -25,11 +25,11 @@ Form before count: One signed opinion after plenary direct review: a common summ
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 9 |
+| Kennedy | 8 |
 | Souter | 9 |
 | Thomas | 9 |
 | Ginsburg | 8 |
@@ -37,7 +37,7 @@ Form before count: One signed opinion after plenary direct review: a common summ
 
 Fresh receipt: [Hunt recount](../freeze/OT_1998CHUNK8_HUNT_RECOUNT.json), 78 counted leads. **Last event counted:** Florida v. White; No. 98-223; judgment below, 710 So. 2d 949. (1999-05-17), Thomas; [Record](florida_v_white_merits_1999-05-17.md). Goldsmith and White now enter; later-alphabetical Saenz does not.
 
-**Assignment authority:** Chief Justice Stone-Zsela, in both the unanimous vacatur and five-member governing-remand coalitions. **Eligible complete-opinion authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. **Author chosen:** Ginsburg. Her Johnson and Coalition positions preserve the distinction between a district's composition and a concrete political-access disability, which this opinion must explain without inventing either a new claim or forfeiture. Stone and Stevens have the same lower count and can carry the ground, but Ginsburg offers the direct fit for articulating that precise legal distinction and bounded remand. No necessary accommodation depends on changing an Associate's commitment; Stone's personal attachment to the governing position supplies no additional authorship preference. One eligible author can carry every part, so division of authorship is unnecessary.
+**Assignment authority:** Chief Justice Stone-Zsela, in both the unanimous vacatur and five-member governing-remand coalitions. **Eligible complete-opinion authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. **Author chosen:** Ginsburg. Her Johnson and Coalition positions preserve the distinction between a district's composition and a concrete political-access disability, which this opinion must explain without inventing either a new claim or forfeiture. Stone has nine counted leads and Stevens eight and can carry the ground, but Ginsburg offers the direct fit for articulating that precise legal distinction and bounded remand. No necessary accommodation depends on changing an Associate's commitment; Stone's personal attachment to the governing position supplies no additional authorship preference. One eligible author can carry every part, so division of authorship is unnecessary.
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

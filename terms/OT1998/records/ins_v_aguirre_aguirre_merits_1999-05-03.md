@@ -23,11 +23,11 @@ Before counting, form is fixed as one signed Opinion of the Court: Parts I–II 
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 9 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 8 |
 | Ginsburg | 8 |
@@ -41,9 +41,9 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 8; eligible counts at most 9 enter the pool.
+**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
 
-**Assignment:** Breyer. Breyer's frozen AT&T, NationsBank, Yang, NFFE and Haggar positions distinguish actual agency explanation from judicially imposed extra factors and preserve the review of a materially corrected record. That coordination is the precise work of this opinion. All complete-opinion candidates fall within the recounted pool. Stone is considered for the merits portions at eight but cannot author Part III's rationale through his fallback; Breyer can express the complete supported opinion without separating authors. Souter's reasoned-administration ground is a strong equal-count alternative; Breyer's stated insistence on the actual explanation and conditional record-error procedure most directly coordinates the two tasks here.
+**Assignment:** Breyer. Breyer's frozen AT&T, NationsBank, Yang, NFFE and Haggar positions distinguish actual agency explanation from judicially imposed extra factors and preserve the review of a materially corrected record. That coordination is the precise work of this opinion. All complete-opinion candidates fall within the recounted pool. Stone has nine counted leads for the merits portions but cannot author Part III's rationale through his fallback; Breyer can express the complete supported opinion without separating authors. Souter's reasoned-administration ground is a strong equal-count alternative; Breyer's stated insistence on the actual explanation and conditional record-error procedure most directly coordinates the two tasks here.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

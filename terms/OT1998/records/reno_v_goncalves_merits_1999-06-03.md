@@ -56,17 +56,17 @@ Research cutoff: June 3, 1999; no later substantive authority is used. The suppl
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 10 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 10 |
 | Thomas | 10 |
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-The last counted event is Bruneau v. South Kortright Central School District, June 3, 1999, signed lead by Thomas. The fresh count contains 89 leads. The lowest eligible count is Stone-Zsela's 8; every other eligible Justice has at least 10. The balance pool therefore consists only of Stone-Zsela, who must write under section 8. No outside-pool fit preference overrides that result. His approved separation of the retained jurisdiction, statutory eligibility and discretionary relief faithfully supplies the common opinion.
+The last counted event is Bruneau v. South Kortright Central School District, June 3, 1999, signed lead by Thomas. The fresh count contains 89 leads. The lowest eligible count is Stone-Zsela's nine. The pool is Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, with the four Associates at ten; O'Connor is outside it at eleven. Stone writes at the lowest count. Souter is a full-rationale alternative, but no different accommodation or superior fit displaces Stone's precise coordination of the common grounds. His approved separation of the retained jurisdiction, statutory eligibility and discretionary relief faithfully supplies the common opinion.
 
 The form-first decision also requires his distinct approved new-disability explanation to remain a separate concurrence. His authorship of both the Court's common opinion and that additional personal explanation changes neither coalition nor count; only the lead counts. No fifth Associate is inferred to adopt the additional explanation as an independent holding. Scalia's separate writing has the exact two joins stated. Final arithmetic: jurisdiction nine; temporal rule, deference application and affirmance six; merits dissent three. All approved core limits and all frozen Associate reservations are preserved.
 

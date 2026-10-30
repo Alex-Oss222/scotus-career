@@ -104,8 +104,8 @@ The judge also mentioned education, employment and drug use. Those references ar
 ## Precedent Treatment
 
 - **Lopez:** applied to require an identified interstate regulatory mechanism rather than general crime costs or a firearm label.
-- **Hale, Rybar, Kirk and Wright:** applied to the completed machinegun's transfer-and-stock setting. Their personal-arms holdings supply no new claim or automatic remand here.
-- **Hiley:** its supply-and-recipient method is applied to the separately identified sections 922(d)(1) and 922(g)(1) relationship; its domestic-violence holding is not recast as already deciding felon possession.
+- **Hale, Rybar, Kirk and Wright:** applied to the completed machinegun's transfer-and-stock setting. Wright separately establishes Core-Preservation Review; FOP applies that standard to a defined domestic-violence disability. No independent arms claim is decided here, so the Court neither classifies these restrictions under Wright nor grants an automatic arms remand. Kirk supplies no arms holding.
+- **Hiley:** its supply-and-recipient method is applied to the separately identified sections 922(d)(1) and 922(g)(1) relationship; its domestic-violence commerce holding does not already decide felon possession. Hiley's abandoned arms claim remains undecided, and a preserved arms challenge would require Wright's separate inquiry, as FOP applies it.
 - **Batson:** applied to the genuine ultimate racial-purpose inquiry and its unchanged persuasion burden.
 - **Hernandez:** applied for supported credibility findings and clear-error review; a merely facial-neutrality determination would not receive the same disposition.
 - **Trevino:** preserves actual objection context and ordinary Batson burdens; its pre-Batson preservation setting does not make this late objection timely.

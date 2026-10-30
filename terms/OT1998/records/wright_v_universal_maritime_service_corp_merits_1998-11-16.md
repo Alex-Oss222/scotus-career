@@ -76,11 +76,11 @@ Arithmetic: nine votes for the judgment and nine direct joins to the entire rule
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes | Yes |
+| Stone-Zsela | 2 | Yes | Yes |
 | Stevens | 1 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
@@ -88,7 +88,7 @@ Arithmetic: nine votes for the judgment and nine direct joins to the entire rule
 
 Last counted event: Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, 1998-11-12, delivered by Kennedy. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Breyer.**
 
-Chief Justice Stone-Zsela assigns the complete opinion because he joins the unanimous judgment and every governing proposition on his approved core. Fit governs: no unresolved formulation objection requires expansion. Breyer's First Options and Mastrobuono opinions perform the precise work required here, separating antecedent assent from arbitration's advantages and reading different contractual instruments without supplying omitted language. His frozen position also preserves the independent statutory right and the unresolved enforceability question. Souter is the strongest equal-count alternative through his instrument-specific joins; Breyer's demonstrated coordination of assent, decisionmaker and instrument construction provides the concrete advantage for this opinion. Stone's approved clarity rule can be carried fully by either and adds no accommodation needing his authorship; Breyer has the same count and the more directly demonstrated fit for the two-instrument analysis. Neither historical authorship nor general subject preference supplies the choice. Breyer receives one counted lead.
+Chief Justice Stone-Zsela assigns the complete opinion because he joins the unanimous judgment and every governing proposition on his approved core. Fit governs: no unresolved formulation objection requires expansion. Breyer's First Options and Mastrobuono opinions perform the precise work required here, separating antecedent assent from arbitration's advantages and reading different contractual instruments without supplying omitted language. His frozen position also preserves the independent statutory right and the unresolved enforceability question. Souter is the strongest equal-count alternative through his instrument-specific joins; Breyer's demonstrated coordination of assent, decisionmaker and instrument construction provides the concrete advantage for this opinion. Stone's approved clarity rule can be carried fully by either and adds no accommodation needing his authorship; Breyer has the lower count and the more directly demonstrated fit for the two-instrument analysis. Neither historical authorship nor general subject preference supplies the choice. Breyer receives one counted lead.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 

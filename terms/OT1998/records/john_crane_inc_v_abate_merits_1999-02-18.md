@@ -25,21 +25,21 @@ Stone-Zsela assigns as Chief because he belongs to the judgment coalition on eve
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 5 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 4 |
 | Thomas | 4 |
 | Ginsburg | 5 |
 | Breyer | 3 |
 
-**Last counted event:** Boring v. Buncombe County Board of Education, No. 97-1835., 1999-02-17. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas and Breyer. **Selected author:** Breyer.
+**Last counted event:** Boring v. Buncombe County Board of Education, No. 97-1835., 1999-02-17. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer; minimum 3, ceiling 4. **Selected author:** Breyer.
 
 Fit governs: the complete bounded ground is already shared, so no expansion accommodation or new join is needed. Breyer is selected from the actual pool. His frozen Amchem-based position directly identifies the work this opinion requires: examine the procedure the appellate court actually reviewed, explain why corrected mistakes do not themselves show jury incapacity, and preserve the difference between a real opportunity to contest a common issue and aggregate convenience. His present commitment requires the Crane catalog explanation and does not treat later mini-trials as a cure for a lost defense. That supplies a concrete basis for carrying the record-sensitive rationale without broadening it.
 
-Stone, with four earlier counted opinions, is the strongest alternative for stating the meaningful-defense and individual-proof boundary. His approved core can carry the complete opinion, but it supplies no needed accommodation absent from Breyer's position and no distinct drafting advantage for this already settled coalition. Breyer can state that boundary equally faithfully and has the lower count of three, so the balance rule favors him. Other eligible pool members can also write the opinion; none is excluded for experience, style, earlier authorship or perceived ability. Scalia and Ginsburg are eligible but outside the current balance pool. The choice rests on the opinion's actual record-analysis task and permissible balance, not historical authorship or an invented circulation change.
+Kennedy, at three counted leads, is the strongest pool alternative and fully supports the meaningful-defense and individual-proof boundary. Stone supports that formulation but is outside the pool at five. His approved core can carry the complete opinion, but it supplies no needed accommodation absent from Breyer's position and no distinct drafting advantage for this already settled coalition. Breyer and Kennedy each have three counted leads; Breyer's demonstrated coordination of the common and individual proof questions supplies the stated fit advantage. Other eligible pool members can also write the opinion; none is excluded for experience, style, earlier authorship or perceived ability. Scalia and Ginsburg are eligible but outside the current balance pool. The choice rests on the opinion's actual record-analysis task and permissible balance, not historical authorship or an invented circulation change.
 
 Breyer writes the Court's opinion, joined in full by the other eight Justices. All nine support the same affirmance and each controlling proposition. There is no judgment-only coalition, plurality, or unresolved narrowest-ground question.
 

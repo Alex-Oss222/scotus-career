@@ -27,19 +27,19 @@ The [fresh actual-table recount](../freeze/OT_1998CHUNK6_MITCHELL_RECOUNT.json) 
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 6 |
 | Breyer | 6 |
 
-Full-lead eligible authors are Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. All are in the balance pool: its minimum is six and ceiling seven. Fit governs because the necessary grounds are settled. Breyer writes. His Watts concurrence separates a lawful sentencing system from permission to use every source of proof; his Monge and Jones positions preserve judicial sentencing allocations while his present commitment independently protects silence. That combination precisely expresses the opinion's nonclassification ground.
+Full-lead eligible authors are Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. The pool is Stevens, Kennedy, Souter, Ginsburg and Breyer, with minimum six and ceiling seven; Stone-Zsela remains substantively eligible but is outside it at eight. Fit governs because the necessary grounds are settled. Breyer writes. His Watts concurrence separates a lawful sentencing system from permission to use every source of proof; his Monge and Jones positions preserve judicial sentencing allocations while his present commitment independently protects silence. That combination precisely expresses the opinion's nonclassification ground.
 
-Stone's separation of admitted guilt, disputed quantity and evidence-based relief is a strong fit. Kennedy's Balsys and Wright opinions likewise connect protected domestic exposure with an established lawful sentencing basis. Neither supplies a necessary accommodation or concrete advantage over Breyer's equally sufficient execution of those tasks; Breyer's lower count favors him. Ginsburg also qualifies at six, but Breyer's particular published sentencing-proof distinction is the closer combined fit. Historical Mitchell authorship plays no role. Scalia writes the common partial dissent; Thomas adds his distinct critique. Those writings do not count.
+Stone's separation of admitted guilt, disputed quantity and evidence-based relief is a strong fit. Kennedy's Balsys opinion and Wright join likewise connect protected domestic exposure with an established lawful sentencing basis. Neither supplies a necessary accommodation or concrete advantage over Breyer's equally sufficient execution of those tasks; Breyer has six counted leads, the same as Kennedy and fewer than Stone's eight; his closer combined fit supplies the choice between the equal-count candidates. Ginsburg also qualifies at six, but Breyer's particular published sentencing-proof distinction is the closer combined fit. Historical Mitchell authorship plays no role. Scalia writes the common partial dissent; Thomas adds his distinct critique. Those writings do not count.
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

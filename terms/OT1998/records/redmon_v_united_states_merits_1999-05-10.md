@@ -23,11 +23,11 @@ Form is fixed before counting as one signed five-Justice Opinion of the Court on
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 9 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 8 |
 | Ginsburg | 8 |
@@ -41,9 +41,9 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg. Lowest eligible count: 8; eligible counts at most 9 enter the pool.
+**Balance pool:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg; minimum 8, ceiling 9. Lowest eligible count: 8; eligible counts at most 9 enter the pool.
 
-**Assignment:** O'Connor. O'Connor's recorded Fields/Carter/Riley distinctions supply the specific accommodation: correct the legal work done by ordinary access and collection while retaining the known facts and withholding a conclusive search application. Her authorship has a concrete advantage in maintaining that exact boundary between the three Justices' further conclusion and the limited Court holding. Stone is considered at eight and supports the same bounded route, but O'Connor's own recorded reservation most directly defines the necessary formulation. She remains within one of the lowest eligible count; the higher count does not exclude this supported expansion choice. No Justice's vote changes because of the assigned author.
+**Assignment:** O'Connor. O'Connor's recorded Fields/Carter/Riley distinctions supply the specific accommodation: correct the legal work done by ordinary access and collection while retaining the known facts and withholding a conclusive search application. Her authorship has a concrete advantage in maintaining that exact boundary between the three Justices' further conclusion and the limited Court holding. Stone is considered at nine and supports the same bounded route, but O'Connor's own recorded reservation most directly defines the necessary formulation. She remains within one of the lowest eligible count; the higher count does not exclude this supported expansion choice. No Justice's vote changes because of the assigned author.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

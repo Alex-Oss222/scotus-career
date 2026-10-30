@@ -29,17 +29,17 @@ The Chief assigns. The [fresh opinion-table recount](../runtime/OT_1998CHUNK5_CE
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 5 |
 | O'Connor | 6 |
 | Scalia | 6 |
-| Kennedy | 6 |
+| Kennedy | 5 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 6 |
 | Breyer | 5 |
 
-Last counted event: Sullivan, March 3, 1999, Kennedy. Eligible full authors: Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer. Balance pool: those six Associates, each at five or six counted opinions. Chosen author: Stevens. Fit governs. His Tatro participation accepted the related-services analysis while his separate position objected to deciding unpresented fees; that combination directly fits faithful treatment of Tatro and disciplined separation of the coverage duty from an unadjudicated monetary remedy. Breyer can present the agency and administrative findings, but Stevens's specific precedent-and-remedy work supplies the fit advantage. O'Connor's Carter opinion and the other pool members' full joins also support the work, but supply no necessary accommodation or closer combined precedent-and-remedy fit. Stone's approved operative IEP direction is retained; his fallback-only vote on notice excludes him from full-lead authorship. The lead counts once for Stevens; Thomas's dissent, joined by Kennedy, does not count.
+Last counted event: Sullivan, March 3, 1999, Kennedy. Eligible full authors: Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer. Balance pool: Stevens, O'Connor, Scalia, Souter, Ginsburg, Breyer; minimum 5, ceiling 6. Chosen author: Stevens. Fit governs. His Tatro participation accepted the related-services analysis while his separate position objected to deciding unpresented fees; that combination directly fits faithful treatment of Tatro and disciplined separation of the coverage duty from an unadjudicated monetary remedy. Breyer can present the agency and administrative findings, but Stevens's specific precedent-and-remedy work supplies the fit advantage. O'Connor's Carter opinion and the other pool members' full joins also support the work, but supply no necessary accommodation or closer combined precedent-and-remedy fit. Stone's approved operative IEP direction is retained; his fallback-only vote on notice excludes him from full-lead authorship. The lead counts once for Stevens; Thomas's dissent, joined by Kennedy, does not count.
 
 ## Law, remedy and continuity
 

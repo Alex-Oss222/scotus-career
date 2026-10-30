@@ -9,7 +9,7 @@ The Third Circuit's en banc judgment, 135 F.3d 266, reversed summary judgment fo
 
 All nine Justices participate at merits submission and decision, with no established recusal or other nonparticipation. Quorum is met; all nine directly support the complete controlling rationale and disposition. The research cutoff is November 12, 1998. The class period, November 4, 1992 through November 4, 1994, fixes the transactions whose practical execution circumstances matter.
 
-The actual effective public decisions through November 11 were checked: Wright, FOP, Hiley, the Louisiana decree, Peoples Rights Organization, Franklyn / Gonzalez, Griffin / Langley, Marquez, Coalition and Pfaff. Both actual November 10 decisions enter this later case chronologically. Coalition's political-process, Title VII and confined preliminary-relief holdings create no securities-law or dispositive procedural change here; Pfaff's domestic commercial-offer and enabling-readiness rule creates no securities-fraud rule. The earlier firearms, sentencing, boundary and labor holdings likewise change no controlling premise. Hiley's repaired joins and Franklyn / Griffin's qualified supplier and offense connections remain at their actual scope. NAACP is not a completed decision and supplies no law. No pending event is treated as authority.
+The actual effective public decisions through November 11 were checked: Wright, FOP, Hiley, the Louisiana decree, Peoples Rights Organization, Franklyn / Gonzalez, Griffin / Langley, Marquez, Coalition and Pfaff. Both actual November 10 decisions enter this later case chronologically. Coalition's political-process, Title VII and confined preliminary-relief holdings create no securities-law or dispositive procedural change here; Pfaff's domestic commercial-offer and enabling-readiness rule creates no securities-fraud rule. The earlier firearms, sentencing, boundary and labor holdings likewise change no controlling premise. Hiley's joins and Franklyn / Griffin's qualified supplier and offense connections remain at their actual scope. NAACP is not a completed decision and supplies no law. No pending event is treated as authority.
 
 Central Bank's actual affirmative-assistance rule, O'Hagan's actual deception holding and the September 28 First Jersey primary implied-representation holding remain the controlling securities premises. Their historical alternatives are not substituted. Source and case-specific qualifications below preserve the separate private-action and SEC-enforcement settings.
 
@@ -25,21 +25,21 @@ Chief Justice Stone-Zsela is in the judgment coalition and directly supports the
 
 | Justice | Signed plenary leads before assignment | Eligible for entire lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes | Yes |
+| Stone-Zsela | 2 | Yes | No |
 | Stevens | 1 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 1 | Yes | Yes |
-| Kennedy | 1 | Yes | Yes |
+| Kennedy | 0 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
 | Breyer | 1 | Yes | Yes |
 
-The nine earlier counted leads are Wright (Kennedy), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), Griffin / Langley (Stone-Zsela), Marquez (Stevens), Coalition (Breyer), and Pfaff (Scalia). The November 10 events are ordered alphabetically, making Pfaff the last counted event. The unsigned Louisiana decree and separate writings are excluded. All nine support every proposition of the common lead, so all nine are eligible. The minimum is one, and all nine are within the balance pool.
+The nine earlier counted leads are Wright (Stone-Zsela), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), Griffin / Langley (Stone-Zsela), Marquez (Stevens), Coalition (Breyer), and Pfaff (Scalia). The November 10 events are ordered alphabetically, making Pfaff the last counted event. The unsigned Louisiana decree and separate writings are excluded. All nine support every proposition of the common lead, so all nine are eligible. The minimum is zero; all eight Associates are in the balance pool, while Stone-Zsela at two is outside it.
 
 **Assignment:** Kennedy writes the entire Opinion of the Court. Fit governs: the common knowing-deception ground and limits are supported without an unresolved accommodation needed to secure a join. His First Jersey opinion supplies direct experience identifying a broker's implied transaction representation and separating its deception from ordinary fiduciary unfairness. His frozen Kravitz commitment expressly distinguishes those proved SEC facts from the present private plaintiffs' still-unproved reliance, injury and damages. The actual task is to carry that distinction through Rule 56 and contemporary execution evidence, not merely to repeat a precedent or expand assistance liability.
 
-Stevens offers relevant deception and culpability experience through Central Bank and O'Hagan, but this disposition needs no broader assistance or source-deception route. Stone's approved position can carry the direct representation, practical availability and private-proof distinctions as well, and his full join makes him eligible. Kennedy's specific treatment of the implied broker transaction, paired with his recorded insistence on the private-action distinction, offers the more concrete fit for the common opinion. Stone's broader recklessness proposal remains separately published and is neither a necessary accommodation nor a reason to enlarge the lead. No author is excluded for capability, reputation or earlier authorship; equal counts do not create an automatic rotation or entitlement. The form, proposition scope and joins did not change to obtain this assignment.
+Stevens offers relevant deception and culpability experience through Central Bank and O'Hagan, but this disposition needs no broader assistance or source-deception route. Stone's approved position can carry the direct representation, practical availability and private-proof distinctions as well, and his full join makes him eligible. Kennedy's specific treatment of the implied broker transaction, paired with his recorded insistence on the private-action distinction, offers the more concrete fit for the common opinion. Stone's broader recklessness proposal remains separately published and is neither a necessary accommodation nor a reason to enlarge the lead. No author is excluded for capability, reputation or earlier authorship; counts do not create an automatic rotation or entitlement. The form, proposition scope and joins did not change to obtain this assignment.
 
 ## Stone compatibility and full-core determination
 

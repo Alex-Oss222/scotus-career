@@ -27,17 +27,17 @@ Stone is in the judgment coalition and assigns. The fresh opinion-table recount,
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 6 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 4 |
 | Ginsburg | 5 |
 | Breyer | 5 |
 
-Last counted event: Reno v. American-Arab Anti-Discrimination Committee, February 24, 1999, Souter. Eligible full-lead authors: O'Connor, Kennedy, Thomas and Breyer. Balance pool: Thomas, Kennedy and Breyer. Chosen author: Thomas. Fit governs: the lead must keep the enacted exception, policy characterization and reserved Feres question distinct; Thomas's frozen statutory ground carries precisely that work and every reservation. Kennedy's Aktepe authorship and Breyer's policy-sensitive statutory application are viable pool alternatives, but require no accommodation unavailable to Thomas and carry higher counts. Stone cannot carry this rationale from his approved position. The lead counts once for Thomas; separate writings do not count. Their authorship follows the distinct published grounds, not the balancing tally.
+Last counted event: Reno v. American-Arab Anti-Discrimination Committee, February 24, 1999, Souter. Eligible full-lead authors: O'Connor, Kennedy, Thomas and Breyer. Balance pool: Kennedy, Thomas, Breyer; minimum 4, ceiling 5. Chosen author: Thomas. Fit governs: the lead must keep the enacted exception, policy characterization and reserved Feres question distinct; Thomas's frozen statutory ground carries precisely that work and every reservation. Kennedy's Aktepe authorship and Breyer's policy-sensitive statutory application are viable pool alternatives, but require no accommodation unavailable to Thomas. Kennedy shares Thomas's count of four; Breyer has five. Stone cannot carry this rationale from his approved position. The lead counts once for Thomas; separate writings do not count. Their authorship follows the distinct published grounds, not the balancing tally.
 
 ## Law, remedy and continuity
 

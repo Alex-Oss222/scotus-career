@@ -23,11 +23,11 @@ Form is fixed before assignment as one signed Opinion of the Court: Part I state
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 8 |
 | Scalia | 8 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
@@ -41,9 +41,9 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stevens, O'Connor, Souter, Ginsburg, Breyer.
 
-**Balance pool:** Stevens, O'Connor, Souter, Ginsburg, Breyer. Lowest eligible count: 8; eligible counts at most 9 enter the pool.
+**Balance pool:** Stevens, O'Connor, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. Lowest eligible count: 8; eligible counts at most 9 enter the pool.
 
-**Assignment:** O'Connor. O'Connor's Kentucky Right to Life opinion and Colorado Republican ground distinguish direct contributions, aggregate intermediary restrictions and genuine independent expression. Those precise distinctions organize the settled five-Justice holdings here. All five complete-opinion candidates have eight prior leads. For the unanimous portion all nine are substantively eligible, and its min-plus-one pool also includes O'Connor: Kennedy and Thomas have seven, the others eight. Stone is considered for that portion at eight but cannot carry the other Court holdings because he opposes them. O'Connor's case-specific fit permits one coherent opinion without using counts to divide it or allowing Stone to assign outside his coalition.
+**Assignment:** O'Connor. O'Connor's Kentucky Right to Life opinion and Colorado Republican ground distinguish direct contributions, aggregate intermediary restrictions and genuine independent expression. Those precise distinctions organize the settled five-Justice holdings here. All five complete-opinion candidates have eight prior leads. For the unanimous portion all nine are substantively eligible, and its min-plus-one pool also includes O'Connor: Kennedy and Thomas have seven, the others eight. Stone has nine counted leads for that portion but cannot carry the other Court holdings because he opposes them. O'Connor's case-specific fit permits one coherent opinion without using counts to divide it or allowing Stone to assign outside his coalition.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

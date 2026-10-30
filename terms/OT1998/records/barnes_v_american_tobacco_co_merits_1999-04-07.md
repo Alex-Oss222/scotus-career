@@ -35,11 +35,11 @@ Before the recount, the case's form was fixed as one signed unanimous Opinion of
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 7 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 7 |
@@ -51,9 +51,9 @@ Before the recount, the case's form was fixed as one signed unanimous Opinion of
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The lowest eligible count is 7; the pool includes eligible counts no more than one higher.
+**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 6, ceiling 7. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
 
-**Assignment:** Breyer. Fit governs the settled unanimous formulation; no necessary join remains contingent on a new expansion. Breyer's frozen commitment directly identifies the decisive boundary between individual questions affecting entitlement to the proposed monitoring relief and mere administration of an otherwise established common remedy. His published Amchem separate position requires attention to how the actual proposal operates, which makes him well placed to explain why this bounded affirmance follows while a denial resting only on imported predominance would require a different answer. Stone-Zsela was expressly considered at the same count of seven: his approved common-proof and individual-defense ground fully supports the opinion, but no additional accommodation or personal drafting advantage requires self-assignment. Breyer can preserve that objective and the indivisibility limit while giving the principal remand alternative its exact answer. Ginsburg's Castano law-and-proof treatment is another strong pool alternative; Breyer's recorded focus on the actual-relief-versus-administration distinction most directly addresses this opinion's remaining explanatory task. Neither his earlier authorship nor the subject's importance supplies independent entitlement.
+**Assignment:** Breyer. Fit governs the settled unanimous formulation; no necessary join remains contingent on a new expansion. Breyer's frozen commitment directly identifies the decisive boundary between individual questions affecting entitlement to the proposed monitoring relief and mere administration of an otherwise established common remedy. His published Amchem separate position requires attention to how the actual proposal operates, which makes him well placed to explain why this bounded affirmance follows while a denial resting only on imported predominance would require a different answer. Stone-Zsela supports the ground but is outside the pool at eight: his approved common-proof and individual-defense ground fully supports the opinion, but no additional accommodation or personal drafting advantage requires self-assignment. Breyer can preserve that objective and the indivisibility limit while giving the principal remand alternative its exact answer. Ginsburg's Castano law-and-proof treatment is another strong pool alternative; Breyer's recorded focus on the actual-relief-versus-administration distinction most directly addresses this opinion's remaining explanatory task. Neither his earlier authorship nor the subject's importance supplies independent entitlement.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

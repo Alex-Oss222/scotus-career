@@ -77,19 +77,19 @@ Internal arithmetic: nine votes for each affected judgment component and nine di
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 2 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 2 | Yes | Yes |
 | Thomas | 2 | Yes | Yes |
-| Ginsburg | 3 | Yes | Yes |
-| Breyer | 3 | Yes | Yes |
+| Ginsburg | 3 | Yes | No |
+| Breyer | 3 | Yes | No |
 
-Last counted event: Haddle v. Garrison, 1998-12-14, delivered by Ginsburg. The minimum eligible count is 2; the pool includes eligible authors at no more than 3. **Author chosen: Scalia.**
+Last counted event: Haddle v. Garrison, 1998-12-14, delivered by Ginsburg. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Scalia.**
 
-Chief Justice Stone-Zsela assigns the complete unanimous opinion. Fit governs because the classification, competitive-injury requirement and limited two-component remand have settled full joins. Scalia's Business Electronics and actual Khan opinions perform the precise classification work required: distinguishing a vertical arrangement from a category justifying automatic condemnation while preserving proof of competitive harm under the appropriate analysis. His frozen position carries that distinction through the dependent section 2 rationale without dismissing claims outside the grant. Breyer is the strongest pool alternative through his competitive-characteristics analysis and distinction between deception and harm in the removal-services market. Scalia's demonstrated formulation of the threshold classification and its retained limits gives him the advantage for this complete opinion. Stone's approved limited correction is fully preserved; self-assignment adds no necessary coordination or refinement beyond it. Scalia is within the balance pool and receives one counted lead. Both judgment components share all nine joins, so the opinion is not divided.
+Chief Justice Stone-Zsela assigns the complete unanimous opinion. Fit governs because the classification, competitive-injury requirement and limited two-component remand have settled full joins. Scalia's Business Electronics and actual Khan opinions perform the precise classification work required: distinguishing a vertical arrangement from a category justifying automatic condemnation while preserving proof of competitive harm under the appropriate analysis. His frozen position carries that distinction through the dependent section 2 rationale without dismissing claims outside the grant. Kennedy is the strongest pool alternative at one counted lead and fully supports the settled competitive-characteristics and injury distinctions. Breyer's similar substantive support does not place him in the pool at three. Scalia's demonstrated formulation of the threshold classification and its retained limits gives him the advantage for this complete opinion. Stone's approved limited correction is fully preserved; self-assignment adds no necessary coordination or refinement beyond it. Scalia is within the balance pool and receives one counted lead. Both judgment components share all nine joins, so the opinion is not divided.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 

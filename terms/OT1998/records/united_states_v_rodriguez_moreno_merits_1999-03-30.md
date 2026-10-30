@@ -33,11 +33,11 @@ The signed Opinion of the Court resolves one plenary merits venue question; a si
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 6 |
+| Stone-Zsela | 7 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 6 |
 | Ginsburg | 6 |
@@ -49,9 +49,9 @@ The signed Opinion of the Court resolves one plenary merits venue question; a si
 
 **Eligible complete-opinion authors:** Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
+**Balance pool:** Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 6, ceiling 7. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
 
-**Assignment:** Thomas. Fit governs because the entire seven-Justice coalition already accepts the settled bounded formulation; no necessary join depends on expansion. Thomas's frozen commitment directly explains why the continuing kidnapping is incorporated conduct without turning every element into a geographical act, and preserves the independent firearm requirement. That statutory distinction is the opinion's central work. Stone-Zsela was considered on equal terms: his approved complete-offense analysis and precise conditional remedy make him fully capable and eligible, at the same count of six. His objective requires no additional accommodation or personal drafting advantage here. Thomas can express that objective while directly answering the simultaneity objection, so the Chief assigns him within the balance pool. Historical authorship was not used as an assignment rule.
+**Assignment:** Thomas. Fit governs because the entire seven-Justice coalition already accepts the settled bounded formulation; no necessary join depends on expansion. Thomas's frozen commitment directly explains why the continuing kidnapping is incorporated conduct without turning every element into a geographical act, and preserves the independent firearm requirement. That statutory distinction is the opinion's central work. Stone-Zsela was considered on equal terms: his approved complete-offense analysis and precise conditional remedy make him fully capable and eligible, at seven counted leads to Thomas's six. His objective requires no additional accommodation or personal drafting advantage here. Thomas can express that objective while directly answering the simultaneity objection, so the Chief assigns him within the balance pool. Historical authorship was not used as an assignment rule.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

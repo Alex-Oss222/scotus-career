@@ -25,11 +25,11 @@ The actual pre-May24 law and [later dependency review](../freeze/OT_1998CHUNK8_L
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 9 |
 | O'Connor | 11 |
 | Scalia | 9 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 10 |
@@ -37,7 +37,7 @@ The actual pre-May24 law and [later dependency review](../freeze/OT_1998CHUNK8_L
 
 Last counted event: Hanlon v. Berger; No. 97-1927. (1999-05-24), O'Connor; `hanlon_v_berger_merits_1999-05-24.md`. Counts were obtained afresh from actual Record opinion tables, including Hanlon's newly written signed lead, in effective-date and same-date caption order.
 
-O'Connor is the most senior Justice in the seven-vote affirmance coalition and assigns the complete lead to Scalia. Stone and Stevens oppose affirmance; their agreement with the merits holding does not authorize either to assign this lead. Eligible full-lead authors are O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The Chief's mandatory balance pool does not bind this Associate assignment; no mandatory pool is applied. For transparency, the minimum eligible count is nine and the within-one group would be Scalia (9), Kennedy (10), Souter (10), Thomas (9), Ginsburg (10) and Breyer (10), excluding O'Connor (11).
+O'Connor is the most senior Justice in the seven-vote affirmance coalition and assigns the complete lead to Scalia. Stone and Stevens oppose affirmance; their agreement with the merits holding does not authorize either to assign this lead. Eligible full-lead authors are O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The Chief's mandatory balance pool does not bind this Associate assignment; no mandatory pool is applied. For transparency, the minimum eligible count is nine and the within-one group would be Scalia (9), Kennedy (9), Souter (10), Thomas (9), Ginsburg (10) and Breyer (10), excluding O'Connor (11).
 
 Scalia's own Anderson opinion supplies the particularized distinction between an unconstitutional act and reasonable legal error; his Hicks reasoning also separates an additional intrusion from a claim that every photograph is a seizure. O'Connor's own Hunter commitment requires that the immunity opinion accept the supported nonassistance facts rather than invent a safety function. Scalia can carry that exact shared method and answer Bills and Prahl at their actual holdings. Thomas, at the same count, is a strong alternative on manner-of-entry limits, but Scalia's direct authorship of the operative fair-notice method provides concrete fit for the disputed part. This is O'Connor's case-specific selection, not a Chief balance assignment or transferred historical author.
 

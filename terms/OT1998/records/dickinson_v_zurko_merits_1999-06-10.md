@@ -25,11 +25,11 @@ The form, governing propositions, component coalitions and full-rationale eligib
 
 | Justice | Count before this assignment |
 |---|---:|
-| Stone-Zsela | 10 |
+| Stone-Zsela | 11 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 11 |
 | Thomas | 10 |
 | Ginsburg | 11 |
@@ -39,11 +39,11 @@ The form, governing propositions, component coalitions and full-rationale eligib
 
 **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer.
+**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer; minimum 10, ceiling 11.
 
 **Assigned author:** Scalia. Scalia is selected at 10 for the specific statutory work of distinguishing section 559 preservation of antecedent law from the separate expressness rule for later enactments, then testing whether the historical direct-review practice establishes the asserted exception. His reconciled grounds connect that inquiry to meaningful agency scrutiny under the actual governing standard without importing a patent exemption or deciding the APA subcategory. No unresolved join objection requires expansion.
 
-**Strongest eligible pool alternative and comparison:** The Chief, also at 10, is the strongest alternative: his approved agency-versus-court review distinction and whole-record remand would carry the same bounded opinion. Scalia offers a particularly direct integration of the source-specific savings inquiry and actual-standard analysis while preserving that objective. Breyer at 10 can likewise explain meaningful review without judicial factfinding; none of the eligible Justices is excluded for expertise or prior authorship.
+**Strongest eligible pool alternative and comparison:** The Chief, at eleven compared with Scalia's ten, is the strongest alternative: his approved agency-versus-court review distinction and whole-record remand would carry the same bounded opinion. Scalia offers a particularly direct integration of the source-specific savings inquiry and actual-standard analysis while preserving that objective. Breyer at 10 can likewise explain meaningful review without judicial factfinding; none of the eligible Justices is excluded for expertise or prior authorship.
 
 **Fresh-count evidence:** [recount](../runtime/OT_1998CHUNK9_ZURKO_FINAL_RECOUNT.json); every prior author was recounted from actual opinion tables and form classifications, not previous totals. Git verification remains deferred under the authorized no-Git workflow.
 

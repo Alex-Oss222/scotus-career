@@ -66,17 +66,17 @@ The signed form and governing propositions were selected on the legal grounds st
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 3 |
+| Stone-Zsela | 4 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 4 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** Department of the Army v. Blue Fox, Inc.; No. 97-1642; OT1998. — 1999-01-20. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** Ginsburg. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_HUMANA_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** Department of the Army v. Blue Fox, Inc.; No. 97-1642; OT1998. — 1999-01-20. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Ginsburg. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_HUMANA_ASSIGNMENT_RECOUNT.json).
 
 Fit governs. Ginsburg's own Barnett Bank opinion distinguishes the insurance-specific federal exception from the actual operation of the competing statutory schemes; she can preserve that distinction while applying Fabe to RICO's different, nonspecific status. Thomas, the lowest-count eligible author, and Souter, with his own Fabe position and later Barnett join, are strong alternatives within the pool. Ginsburg's prior coordination of McCarran-Ferguson's distinct clauses gives her the concrete advantage for this case's actual-interference inquiry and limited state-law premise. Stone's approved beyond-literal-conflict rule fits, but gives no added self-assignment advantage over that focused prior work. No new exclusive state remedy or retrospective state right is needed to secure the unanimous joins.
 

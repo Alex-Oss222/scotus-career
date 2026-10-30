@@ -29,21 +29,21 @@ Stone-Zsela assigns as Chief because he belongs to the judgment coalition on eve
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 5 |
 | Scalia | 5 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 4 |
 | Thomas | 4 |
 | Ginsburg | 5 |
 | Breyer | 4 |
 
-**Last counted event:** National Collegiate Athletic Association v. Smith; No. 98-84., 1999-02-23. **Eligible authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Selected author:** Kennedy.
+**Last counted event:** National Collegiate Athletic Association v. Smith; No. 98-84., 1999-02-23. **Eligible authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. **Balance pool:** Stevens, Kennedy, Souter, Thomas, Breyer; minimum 3, ceiling 4. **Selected author:** Kennedy.
 
 Fit governs: the eight Associates already share every statutory, regulatory and remedial ground with the recorded exceptions, and no expansion accommodation is needed. Kennedy is selected from the actual pool. His frozen position expressly separates the Board's jurisdiction from reopening discretion and the original payment, keeps permissible interpretation distinct from amendment, and requires the actual agency ground to remain within binding law. His Thomas Jefferson, Guernsey and Auer opinions supply concrete examples of performing that work; prior authorship does not itself make him eligible or preferred. This opinion needs that same precise coordination of a statutory threshold, a supporting regulatory construction, three distinct alternative channels and the difference between substantive accuracy and a duty to reopen.
 
-Breyer is the strongest alternative, also with four counted opinions. His Regions opinion precisely separates correction of an input for future payments from a final annual payment and supports the finality analysis here. Kennedy offers the stronger combined fit for presenting all the channels without letting regulatory deference or a manual create statutory jurisdiction, while carrying the same finality distinction and preserving the mandatory regulatory triggers. That is a case-specific drafting advantage on settled grounds, not a presumed difference in ability or a needed new vote. The remaining eligible Associates are all within the pool. Stone cannot supply the opinion's independent grounds through his fallback, so self-assignment of the whole opinion is unavailable; no division is necessary because all eight Associates can carry it in full. Historical authorship supplies no premise.
+Breyer is the strongest alternative at four counted opinions, compared with Kennedy's three. His Regions opinion precisely separates correction of an input for future payments from a final annual payment and supports the finality analysis here. Kennedy offers the stronger combined fit for presenting all the channels without letting regulatory deference or a manual create statutory jurisdiction, while carrying the same finality distinction and preserving the mandatory regulatory triggers. That is a case-specific drafting advantage on settled grounds, not a presumed difference in ability or a needed new vote. Stevens, Souter and Thomas are also in the pool; O'Connor, Scalia and Ginsburg remain substantively eligible but are outside it at five. Stone cannot supply the opinion's independent grounds through his fallback, so self-assignment of the whole opinion is unavailable; no division is necessary because all eight Associates can carry it in full. Historical authorship supplies no premise.
 
 Stone is ineligible to author the complete opinion: his approved core joins Part I-A, but his standing fallback supplies no grounds for Parts II–IV and he does not join Part I-B. Each Associate can carry all parts, so division among authors is unnecessary.
 

@@ -1,33 +1,26 @@
 # Hiley assembly validation
 
-**Record:** [Hiley v. Barrett, merits decision, October 9, 1998](../records/hiley_v_barrett_merits_1998-10-09.md).
-**Result:** PASS — the event-specific substantive and mechanical assembly checks are complete. No Hiley blocker remains.
-**Preservation:** Filesystem preservation only; no Git command or commit is claimed. Root integration remains responsible for workspace, generated chunk handoff and full-term check.
-**Pre-validation lineage:** The unfinished assembly draft's Stone partial joins were removed under the exact Engine section 4 envelope requirement before chunk completion. Earlier draft bytes are preserved only under tmp/ot1998-run/hiley-pre-validation-partial-join-draft/. Stone's approved grounds, all dispositions, non-Stone commitments, holdings substance, remedy and author are unchanged. No completed prior Run is being revised.
+**Record:** [Canonical decision](../records/hiley_v_barrett_merits_1998-10-09.md).
 
-## Checks actually completed
+**Result:** Event-specific checks pass; no source, vote, join or remedy blocker remains.
 
-- Exact four opening labels, natural-key file and exactly eleven bounded Public Projection headings in required order.
-- Ten judgment rows, each nine named supporters and zero opponents; all components, two abandonments and closed local claims are accounted for.
-- Opinion table: O'Connor plus seven full Associate joins gives eight throughout. Stone agrees in all component judgments, joins no part, and supplies an unjoined concurrence in the judgment.
-- Actual prior public opinion tables recount Kennedy/Wright October 5 and Souter/FOP October 7, one each. All other preassignment counts are zero; last counted event FOP October 7. All eight eligible Associates lie in the pool; O'Connor receives one counted lead. The form was chosen before the recount.
-- Internal holdings and Public Projection Holdings are identical. Ten controlling-explanation lengths: 108, 108, 159, 106, 130, 96, 83, 108, 117, 95 words; all at or below 350.
-- HILEY_EFFECTIVE.md is an exact mechanical copy of all eleven public blocks after its authority metadata.
-- Frozen handoff hashes recorded below; every available runtime counterpart is byte-identical. No frozen handoff was changed.
-- Public text contains no private handoff links, workflow/approval lineage, local-machine links, GitHub or OneDrive links. No retyped block quotation is present.
-- Relative file links checked on disk, including this receipt. Public citations point to the underlying published opinions and official Code sources; no broad live-network link audit is claimed.
-- Legal review distinguishes civil employment injury from prosecution, three equality theories, two abandonments, local settlement, actual current Printz/Lynce doctrine, statutory prerequisites and relief exceptions, a new supported supply/recipient commerce application, and distinct Ex Post Facto/attainder inquiries.
-- Stone's approved supplement contains no express partial-join discretion envelope. Fixed-core agreement therefore does not authorize severable joins under Engine section 4. His approved grounds remain in his concurrence, and no fallback is inferred from silence about a subsidiary reason when his judgment choice is express. No non-Stone commitment changed.
+## Substantive verification
 
-## Frozen identities
+All ten judgment components have nine supporters and no opponents. O'Connor delivers the single counted lead, joined by all seven other Associates. Stone-Zsela concurs only in the judgment on his approved grounds. The abandoned arms claim remains undecided; a preserved challenge would be governed by Wright's Core-Preservation Review as FOP applies it.
+
+Counts before assignment are Stone-Zsela 1 and Souter 1, with every other Justice at zero; the last counted event is FOP on October 7. The eight Associates are eligible and within the pool. O'Connor's assignment and the civil dismissal retain their stated scope. No criminal judgment, new arms cause, local-settlement reopening or individual restoration determination issues.
+
+## Mechanical verification
+
+The four opening labels, Original decision lineage, natural-key filename, event date and eleven public blocks are present. Internal Holdings and public Holdings match. Controlling-explanation word counts are 108, 166, 159, 106, 130, 96, 83, 108, 117, 95; all are within 350. The current effective-law copy and generated Render Input reproduce the Record's Public Projection. All component votes and opinion scopes were reviewed separately.
+
+The primary frozen handoffs retain their baseline bytes. No Git command was used; commit-existence verification is deferred to the operator. The term checker passes under the no-Git adapter.
+
+## Frozen handoff identities
 
 | Handoff | SHA-256 |
 |---|---|
-| HILEY_NEUTRAL.md | `692E7D3B96FBCC94ED96F1B6204E3203B1017943EB7B5A7038356CBD4F35AA01` |
-| HILEY_NEUTRAL_SUPPLEMENT.md | `0F22557D71DE6FFD3D30510F9308E059926B2C413889C162344734457D60B53F` |
-| HILEY_COMMITMENTS.md | `0145E9C97CDFEDFA8027939CC6DC34CDF6393EF4A51EB25586E18F71B89CC12C` |
-| HILEY_RECONCILED.md | `EE3F23B9B18D7E774F0CFE7120B80C2EBB1C48FB0B5970FFCFB8AAEA92104164` |
-
-## Source limits
-
-Original complaint, settlement and transcript were not recovered; published recitations establish the bounded adopted posture under Engine section 14.2. No new filing, waiver, deadline, criminal finding, claimant default or future proceeding is assumed.
+| HILEY_NEUTRAL.md | `692e7d3b96fbcc94ed96f1b6204e3203b1017943eb7b5a7038356cbd4f35aa01` |
+| HILEY_NEUTRAL_SUPPLEMENT.md | `0f22557d71de6ffd3d30510f9308e059926b2c413889c162344734457d60b53f` |
+| HILEY_COMMITMENTS.md | `0145e9c97cdfedfa8027939cc6dc34cdf6393ef4a51eb25586e18f71b89cc12c` |
+| HILEY_RECONCILED.md | `ee3f23b9b18d7e774f0cfe7120b80c2ebb1c48fb0b5970ffcfb8aaea92104164` |

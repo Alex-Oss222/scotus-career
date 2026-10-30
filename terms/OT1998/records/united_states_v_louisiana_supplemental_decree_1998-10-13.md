@@ -82,7 +82,7 @@ All eight commitments remain unchanged. Withholding entry would be supported by 
 
 **Counted lead opinion:** No.
 
-No counted opinion is added. The prior counted leads remain Wright/Kennedy, FOP/Souter and Hiley/O'Connor, as their actual opinion tables establish; this statement does not assign a new opinion or replace later fresh recounts. The internal unanimous action is not published as a tally.
+No counted opinion is added. The prior counted leads are Wright/Stone-Zsela, FOP/Souter and Hiley/O'Connor, as their actual opinion tables establish; this statement does not assign a new opinion or replace later fresh recounts. The internal unanimous action is not published as a tally.
 
 ## Continuity, source limits and validation
 

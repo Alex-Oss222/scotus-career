@@ -25,11 +25,11 @@ The form, governing propositions, component coalitions and full-rationale eligib
 
 | Justice | Count before this assignment |
 |---|---:|
-| Stone-Zsela | 10 |
+| Stone-Zsela | 11 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 11 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 11 |
 | Thomas | 11 |
 | Ginsburg | 11 |
@@ -39,11 +39,11 @@ The form, governing propositions, component coalitions and full-rationale eligib
 
 **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+**Balance pool:** Kennedy; minimum 9, ceiling 10.
 
-**Assigned author:** Kennedy. Kennedy is selected at 10 for the specific task of explaining why counsel retains meaningful personal review after final judgment while distinguishing that ordinary category from independently authorized exceptional remedies. His frozen grounds expressly preserve the attorney own eventual challenge and his separate qualification tests extraordinary hardship without turning it into a collateral-order exception. He can state both shared failures completely; the additional published qualification remains his own concurrence and is not enlarged into Court law. No expansion negotiation or commitment change is needed.
+**Assigned author:** Kennedy. Kennedy is selected at nine as the sole pool member for the specific task of explaining why counsel retains meaningful personal review after final judgment while distinguishing that ordinary category from independently authorized exceptional remedies. His frozen grounds expressly preserve the attorney own eventual challenge and his separate qualification tests extraordinary hardship without turning it into a collateral-order exception. He can state both shared failures completely; the additional published qualification remains his own concurrence and is not enlarged into Court law. No expansion negotiation or commitment change is needed.
 
-**Strongest eligible pool alternative and comparison:** The Chief, also at 10, is the strongest pool alternative: his approved separation of finality, interrelated discovery conduct and effective later correction would fully carry the opinion. Kennedy offers a direct integration of the common rule with its boundary against an assumption of universal remedilessness, while preserving the Chief materially different finality reservation. Both are equally capable; the remaining seven pool members at 11 also fully support both grounds and remain eligible.
+**Eligibility comparison:** There is no other pool member. The Chief, at eleven, is substantively eligible: his approved separation of finality, interrelated discovery conduct and effective later correction would fully carry the opinion. Kennedy offers a direct integration of the common rule with its boundary against an assumption of universal remedilessness, while preserving the Chief materially different finality reservation. The other eight Justices fully support the grounds but each has eleven leads, outside the minimum-nine, ceiling-ten pool.
 
 **Fresh-count evidence:** [recount](../runtime/OT_1998CHUNK9_CUNNINGHAM_FINAL_RECOUNT.json); every prior author was recounted from actual opinion tables and form classifications, not previous totals. Git verification remains deferred under the authorized no-Git workflow.
 

@@ -25,21 +25,21 @@ The fresh recount in [BROWER_RECOUNT](../freeze/OT_1998CHUNK6_BROWER_RECOUNT.jso
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 6 |
+| Stone-Zsela | 7 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 6 |
+| Kennedy | 5 |
 | Souter | 7 |
 | Thomas | 6 |
 | Ginsburg | 6 |
 | Breyer | 6 |
 
-The Chief assigns because he joins the complete judgment and rationale. All nine Justices are eligible to carry all three holdings. The minimum is six; each Justice has six or seven, so all nine belong to the balance pool. One author can carry the entire opinion. No division is justified.
+The Chief assigns because he joins the complete judgment and rationale. All nine Justices are eligible to carry all three holdings. The minimum is five; Kennedy, Thomas, Ginsburg and Breyer form the balance pool. The other five remain eligible but have seven leads. One author can carry the entire opinion. No division is justified.
 
 Kennedy writes. Fit governs because every necessary join is settled on the stated grounds and no unresolved formulation dispute requires expansion. His Burdick dissent and ACLF joins require examination of meaningful choice and actual political conversation, making him a concrete fit for the strongest objection here: the affiliate has consequential gatekeeping power even though ordinary citizens retain ballots and nominal alternatives. The opinion must explain why this specific financial contingency still leaves the claimed electoral access and public choice intact, then preserve practical-calendar review rather than treat nominal access as conclusive. His frozen commitment supplies that analysis in full.
 
-Souter is the strongest alternative: his Yoshina opinion distinguishes actual legal consequences from a claimed constitutional characterization, directly useful to the vote-weight component. Kennedy can perform that same functional inquiry while addressing the meaningful-choice objection at the lower count, six rather than seven. Stevens's ACLF work also fits, at seven. Stone is fully eligible at six, and his approved separation of finance, expression and public administration supplies precise limits. It adds no unresolved accommodation or concrete authorship advantage over Kennedy's supported work on real electoral choice. The Chief selects Kennedy on that case-specific comparison, not on office, interest, general style or an exclusion of any Justice's ability. No historical Supreme Court author exists to import, and no final commitment changes.
+Souter is the strongest alternative: his Yoshina opinion distinguishes actual legal consequences from a claimed constitutional characterization, directly useful to the vote-weight component. Kennedy can perform that same functional inquiry while addressing the meaningful-choice objection at the lower count, five rather than seven. Stevens's ACLF work also fits, at seven. Stone is fully eligible on the legal ground but outside the pool at seven, and his approved separation of finance, expression and public administration supplies precise limits. It adds no unresolved accommodation or concrete authorship advantage over Kennedy's supported work on real electoral choice. The Chief selects Kennedy on that case-specific comparison, not on office, interest, general style or an exclusion of any Justice's ability. No historical Supreme Court author exists to import, and no final commitment changes.
 
 **Counted lead opinion:** Yes. One signed plenary merits lead; no artificial division.
 

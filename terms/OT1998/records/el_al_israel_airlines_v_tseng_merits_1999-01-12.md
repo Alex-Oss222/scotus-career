@@ -66,17 +66,17 @@ The signed form and governing propositions were selected on the legal grounds st
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 3 |
 | O'Connor | 2 |
 | Scalia | 3 |
-| Kennedy | 3 |
+| Kennedy | 2 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092. — 1999-01-12. **Eligible full-rationale authors:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** O'Connor. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_TSENG_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092. — 1999-01-12. **Eligible full-rationale authors:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** O'Connor. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_TSENG_ASSIGNMENT_RECOUNT.json).
 
 Fit governs. O'Connor's own Saks and Zicherman opinions directly supply the distinction between the covered event, injury condition and domestic supplementation that the agreed opinion must coordinate. She and Thomas have the lowest eligible count, and both can carry the full opinion; her concrete authorship of those controlling distinctions favors her for this case. No disputed formulation requires expansion. Stone's excluded Article 25 ground makes him ineligible for the whole lead, rather than merely less suitable.
 

@@ -25,17 +25,17 @@ Fresh recount from actual prior public opinion tables gives seven signed leads. 
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 1 |
+| Stone-Zsela | 2 |
 | Stevens | 1 |
 | O'Connor | 1 |
 | Scalia | 0 |
-| Kennedy | 1 |
+| Kennedy | 0 |
 | Souter | 1 |
 | Thomas | 1 |
 | Ginsburg | 1 |
 | Breyer | 0 |
 
-**Eligible authors for the whole lead:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. All five support every constitutional, statutory and remedial proposition in full; Stone's eligibility comes from his approved complete core, not a fallback or a severable-part inference. The other four support Part III but oppose the other governing grounds, so they cannot carry this already fixed single opinion. **Balance pool:** all five eligible Justices; minimum zero, permitted maximum one. **Author chosen:** Breyer.
+**Eligible authors for the whole lead:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. All five support every constitutional, statutory and remedial proposition in full; Stone's eligibility comes from his approved complete core, not a fallback or a severable-part inference. The other four support Part III but oppose the other governing grounds, so they cannot carry this already fixed single opinion. **Balance pool:** Stevens, Souter, Ginsburg, Breyer; minimum 0, ceiling 1. **Author chosen:** Breyer.
 
 Breyer's frozen position expressly connects the supported political barrier with ordinary preliminary-relief prerequisites, separate sex analysis, lawful-program limits and the transition, existing-order, funding and severability provisions. His actual Romer and Hopwood joins and Engineering Contractors separate-opinion join support treating the legal force of subsidiary findings independently while preserving a fitted remedy. That is this opinion's principal coordination task. Souter is the strongest alternative because his Romer opinion supplies the direct political-process boundary, but Breyer can preserve that already shared boundary and the full remedial coordination equally well and has zero counted leads to Souter's one. Ginsburg's distinct sex-analysis position likewise fits, with one lead. Stone's approved formulation integrates the necessary distinctions, but the frozen coalition needs no new accommodation or specially personal explanation from him; Breyer can advance that exact approved objective equally well with the lower count. Office, controversy, perceived ability and a numerical need for a fifth vote supply no extra authorship preference. Breyer receives one counted lead; no other count changes.
 

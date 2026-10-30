@@ -29,11 +29,11 @@ The form, governing propositions, component coalitions and full-rationale eligib
 
 | Justice | Count before this assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 10 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 11 |
 | Thomas | 10 |
 | Ginsburg | 10 |
@@ -43,7 +43,7 @@ The form, governing propositions, component coalitions and full-rationale eligib
 
 **Eligible authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+**Balance pool:** Scalia, Kennedy, Thomas, Ginsburg, Breyer; minimum 9, ceiling 10.
 
 **Assigned author:** Ginsburg. Ginsburg is selected for the actual work of integrating the due-process authority-to-bind prerequisite with the separate ADEA written-consent command, while preserving ordinary merits defenses and the distinct venue disposition. Her frozen grounds address both the statutory opt-in condition and the divergence of the earlier employment interests. No unresolved formulation objection requires expansion.
 

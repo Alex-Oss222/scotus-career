@@ -83,19 +83,19 @@ Fresh recount from actual preceding current-term opinion tables, including earli
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 3 |
+| Stone-Zsela | 4 |
 | Stevens | 4 |
 | O'Connor | 4 |
 | Scalia | 4 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 4 |
 | Breyer | 3 |
 
-**Last counted event:** Humana Inc. v. Forsyth; No. 97-303; OT1998. — 1999-01-20. **Eligible full-rationale authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Souter, Thomas, Breyer. **Chosen author:** Thomas. [Actual recount sources](../runtime/OT_1998CHUNK3_LOPEZ_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** Humana Inc. v. Forsyth; No. 97-303; OT1998. — 1999-01-20. **Eligible full-rationale authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Kennedy, Souter, Thomas, Breyer; minimum 2, ceiling 3. **Chosen author:** Thomas. [Actual recount sources](../runtime/OT_1998CHUNK3_LOPEZ_ASSIGNMENT_RECOUNT.json).
 
-Fit governs within the pool. Thomas's own full 1996 Lopez join accepted administration without local discretion and its specific-submission/nonuse mandate; his later Young and Foreman joins preserve the distinction between coverage and substantive preclearance. His present frozen grounds insist on applying that already-decided statutory duty without adding a new constitutional rationale, while keeping an actual independent judicial plan separate from adoption of governmental policy. Those precise boundaries fit the needed mandate-enforcement opinion. Souter and Breyer, the other eligible pool members, can perform the same work and offer strong alternatives on remedial implementation; Thomas's lowest count and exact match to the opinion's confined statutory task support this assignment among those capable alternatives. Earlier author Kennedy is outside this live pool, and no earlier authorship creates entitlement. Stone's partial rationale support excludes him from the whole lead. No expansion or new commitment is needed.
+Fit governs within the pool. Thomas's own full 1996 Lopez join accepted administration without local discretion and its specific-submission/nonuse mandate; his later Young and Foreman joins preserve the distinction between coverage and substantive preclearance. His present frozen grounds insist on applying that already-decided statutory duty without adding a new constitutional rationale, while keeping an actual independent judicial plan separate from adoption of governmental policy. Those precise boundaries fit the needed mandate-enforcement opinion. Souter, Kennedy and Breyer, the other eligible pool members, can perform the same work and offer strong alternatives on remedial implementation; Thomas's lowest count and exact match to the opinion's confined statutory task support this assignment among those capable alternatives. Earlier author Kennedy is in the pool at three; prior authorship creates no entitlement. Stone's partial rationale support excludes him from the whole lead. No expansion or new commitment is needed.
 
 The eight Associates join every governing proposition; Stone joins only the scopes authorized above and supports all disposition components. There is no Marks synthesis and no material change to reconciled Associate commitments. This signed plenary lead counts once for its author. Separate writings add no count.
 

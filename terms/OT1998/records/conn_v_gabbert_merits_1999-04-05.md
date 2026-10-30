@@ -33,11 +33,11 @@ The opinion's form and scope were fixed before counting: one signed Opinion of t
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 6 |
+| Stone-Zsela | 7 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 6 |
@@ -49,9 +49,9 @@ The opinion's form and scope were fixed before counting: one signed Opinion of t
 
 **Eligible complete-opinion authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
+**Balance pool:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 6, ceiling 7. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
 
-**Assignment:** Stone-Zsela. Fit governs the settled bounded formulation; no commitment remains contingent on an unmade expansion. Stone-Zsela's approved core expressly separates the search standard, an independently protected occupational deprivation and official immunity, which are the three boundaries this opinion must preserve simultaneously. His published Lanier opinion already states the actual-coverage rule without categorically excluding independent due-process injuries. Personally carrying that precise distinction here advances his approved source-specific objective while preserving Stevens's M-only join and the seven Associates' confined S joins. Ginsburg is the strongest alternative considered: at the same count of six, her Albright position preserves meaningful specific protection and her Elder opinion keeps immunity's legal inquiry distinct. She could carry the opinion, but Stone's approved formulation addresses this exact three-way boundary and the limited Fourth Amendment remand together, giving self-assignment a concrete precision advantage. His office, interest in the case and prior authorship alone supply no claim; the selection rests on that supported case-specific work within the pool.
+**Assignment:** Stone-Zsela. Fit governs the settled bounded formulation; no commitment remains contingent on an unmade expansion. Stone-Zsela's approved core expressly separates the search standard, an independently protected occupational deprivation and official immunity, which are the three boundaries this opinion must preserve simultaneously. His published Lanier opinion already states the actual-coverage rule without categorically excluding independent due-process injuries. Personally carrying that precise distinction here advances his approved source-specific objective while preserving Stevens's M-only join and the seven Associates' confined S joins. Ginsburg is the strongest alternative considered: at the lower count of six, her Albright position preserves meaningful specific protection and her Elder opinion keeps immunity's legal inquiry distinct. She could carry the opinion, but Stone's approved formulation addresses this exact three-way boundary and the limited Fourth Amendment remand together, giving self-assignment a concrete precision advantage. His office, interest in the case and prior authorship alone supply no claim; the selection rests on that supported case-specific work within the pool.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

@@ -66,17 +66,17 @@ The signed form and governing propositions were selected on the legal grounds st
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 3 |
 | O'Connor | 4 |
 | Scalia | 3 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** Marcus v. Iowa Public Television, No. 98-710. — 1999-01-13. **Eligible full-rationale authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stevens, Scalia, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** Stevens. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_STATE_STREET_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** Marcus v. Iowa Public Television, No. 98-710. — 1999-01-13. **Eligible full-rationale authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Stevens. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_STATE_STREET_ASSIGNMENT_RECOUNT.json).
 
 Stevens assigns as the senior Justice in the judgment coalition. His own Flook opinion directly addresses why a useful restricted numerical calculation does not itself supply a patentable application. He accepts the controlling Diehr whole-claim rule and the actual means-plus-function limitations, rather than importing his broader Diehr dissent. Souter's own Markman and Vitronics work makes him a strong alternative on claim meaning, but the eight Associates already share the full construction and identify no material unperformed factual task. Stevens chooses to state the governing calculation/application distinction and explain its application to all six retained combinations himself. That choice follows his date-eligible substantive position, not historical authorship of a Supreme Court State Street opinion, which does not exist. The Chief neither assigns nor joins the final invalidity judgment.
 

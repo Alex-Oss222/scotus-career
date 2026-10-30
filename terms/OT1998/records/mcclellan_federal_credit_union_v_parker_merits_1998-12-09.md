@@ -87,11 +87,11 @@ Internal arithmetic: nine affirmances, nine direct joins to each of the three pr
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 2 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 2 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 2 | Yes | Yes |

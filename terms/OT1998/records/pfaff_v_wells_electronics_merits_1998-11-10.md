@@ -9,7 +9,7 @@ The reviewed Federal Circuit judgment, 124 F.3d 1429, held the patent claims und
 
 All nine Justices participated at argument and decision; no recusal or other nonparticipation is established. The quorum is met, and all nine support the judgment and complete rule. No separate threshold or preservation defect is supplied. The research cutoff is November 10, 1998.
 
-The entering-law baseline includes the effective decisions through November 9: Wright, FOP, Hiley, the Louisiana decree, Peoples Rights Organization, Franklyn / Gonzalez, Griffin / Langley and Marquez. Their actual public holdings supply no patent-law or dispositive procedural change affecting this case. Hiley's repaired opinion joins and Franklyn / Griffin's supplier and offense-connection qualifications remain intact; no rule from their distinct contexts is extended here. NAACP has no completed Record and supplies no law. Coalition and Pfaff are uncoordinated same-date events and use the same pre-November 10 legal baseline. Coalition's actual opinion table is counted solely for assignment under the alphabetical same-date rule; its holdings do not enter this adjudication.
+The entering-law baseline includes the effective decisions through November 9: Wright, FOP, Hiley, the Louisiana decree, Peoples Rights Organization, Franklyn / Gonzalez, Griffin / Langley and Marquez. Their actual public holdings supply no patent-law or dispositive procedural change affecting this case. Hiley's opinion joins and Franklyn / Griffin's supplier and offense-connection qualifications remain intact; no rule from their distinct contexts is extended here. NAACP has no completed Record and supplies no law. Coalition and Pfaff are uncoordinated same-date events and use the same pre-November 10 legal baseline. Coalition's actual opinion table is counted solely for assignment under the alphabetical same-date rule; its holdings do not enter this adjudication.
 
 ## Opinion form
 
@@ -23,17 +23,17 @@ Chief Justice Stone-Zsela directly supports the entire rationale and is in the j
 
 | Justice | Signed plenary leads before assignment | Eligible for entire lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 1 | Yes | Yes |
+| Stone-Zsela | 2 | Yes | No |
 | Stevens | 1 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 0 | Yes | Yes |
-| Kennedy | 1 | Yes | Yes |
+| Kennedy | 0 | Yes | Yes |
 | Souter | 1 | Yes | Yes |
 | Thomas | 1 | Yes | Yes |
 | Ginsburg | 1 | Yes | Yes |
 | Breyer | 1 | Yes | Yes |
 
-Eight prior signed leads count: Wright (Kennedy), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), Griffin / Langley (Stone-Zsela), Marquez (Stevens), and Coalition (Breyer). Coalition, November 10, 1998, is the last counted event and precedes Pfaff alphabetically. Louisiana's unsigned decree and separate writings do not count. All nine directly support every governing proposition, so all are eligible. The minimum is zero; all nine fall within the one-above-minimum balance pool.
+Eight prior signed leads count: Wright (Stone-Zsela), FOP (Souter), Hiley (O'Connor), Peoples Rights Organization (Thomas), Franklyn / Gonzalez (Ginsburg), Griffin / Langley (Stone-Zsela), Marquez (Stevens), and Coalition (Breyer). Coalition, November 10, 1998, is the last counted event and precedes Pfaff alphabetically. Louisiana's unsigned decree and separate writings do not count. All nine directly support every governing proposition, so all are eligible. The minimum is zero; all eight Associates are in the balance pool, while Stone-Zsela at two is outside it.
 
 **Assignment:** Scalia writes the complete Opinion of the Court. Fit governs because the common ground is settled and no formulation disagreement requires expansion. His frozen analysis specifically preserves the separate statutory sale and invention conditions, rejects a commercial-strength balancing substitute and rejects an extra prototype condition absent from the statute. That is the work this opinion performs, with enabling readiness providing the objective boundary. His Markman and Warner-Jenkinson joins support the necessary claim-specific application without treating either case as already deciding timing.
 

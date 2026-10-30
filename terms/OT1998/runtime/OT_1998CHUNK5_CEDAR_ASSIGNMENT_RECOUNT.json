@@ -2,11 +2,11 @@
   "before_date": "1999-03-03",
   "before_case": "Cedar Rapids Community School District v. Garret F.",
   "counts": {
-    "Stone-Zsela": 4,
+    "Stone-Zsela": 5,
     "Stevens": 5,
     "O'Connor": 6,
     "Scalia": 6,
-    "Kennedy": 6,
+    "Kennedy": 5,
     "Souter": 6,
     "Thomas": 5,
     "Ginsburg": 6,
@@ -26,7 +26,7 @@
       "case": "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
       "record": "united_states_v_wright_merits_1998-10-05.md",
       "authors": [
-        "Kennedy"
+        "Stone-Zsela"
       ]
     },
     {

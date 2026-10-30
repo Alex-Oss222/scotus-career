@@ -91,17 +91,17 @@ The signed form and governing propositions were selected on the legal grounds st
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 3 |
 | O'Connor | 3 |
 | Scalia | 3 |
-| Kennedy | 3 |
+| Kennedy | 2 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng; No. 97-475; OT1998. — 1999-01-12. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. **Chosen author:** Kennedy. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_WEST_COVINA_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng; No. 97-475; OT1998. — 1999-01-12. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Kennedy. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_WEST_COVINA_ASSIGNMENT_RECOUNT.json).
 
 Fit governs within the recorded pool. Kennedy's own Good opinion coordinates the independent notice-and-opportunity requirement with the separate warrant inquiry, which is the precise distinction this opinion must apply without carrying civil-forfeiture procedures wholesale into a criminal seizure. Stone's approved actual-access reservations and Souter's distinct-procedural-function analysis are strong alternatives; both can write the agreed opinion. Kennedy's direct work on the controlling source boundary gives him the concrete fit advantage. No necessary join depends on expansion, and Stone's self-assignment supplies no additional demonstrated advantage on this formulation.
 

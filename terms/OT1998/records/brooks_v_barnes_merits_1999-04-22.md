@@ -23,11 +23,11 @@ Before assignment, the form is one signed Opinion of the Court with a six-Justic
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 8 |
@@ -41,9 +41,9 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer.
 
-**Balance pool:** Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+**Balance pool:** Kennedy, Souter; minimum 6, ceiling 7. Lowest eligible count: 6; eligible counts at most 7 enter the pool.
 
-**Assignment:** Souter. For the six-member statutory portion, Souter's De Grandy and SCLC grounds directly connect local preferred-candidate opportunity, legal benchmarks and preserved state interests. Stevens selects him on that demonstrated fit. For the constitutional portion all nine are eligible at its complete supported-findings formulation, with all nine within the min-plus-one pool; Stone considers himself at eight following Haggar but selects Souter at seven because Souter can carry both components without splitting the opinion. The common complete-opinion eligibility and pool above are the six who join every portion. The choice keeps distinct statutory error and constitutional causation clear and imposes no Stone policy on Stevens's assignment.
+**Assignment:** Souter. For the six-member statutory portion, Souter's De Grandy and SCLC grounds directly connect local preferred-candidate opportunity, legal benchmarks and preserved state interests. Stevens selects him on that demonstrated fit. For the constitutional portion all nine are eligible at its complete supported-findings formulation, with Scalia, Kennedy, Souter and Thomas in its minimum-six, ceiling-seven pool. Stone has nine counted leads and is outside that pool. Souter at seven can carry both components without splitting the opinion. The common complete-opinion eligibility and pool above are the six who join every portion. The choice keeps distinct statutory error and constitutional causation clear and imposes no Stone policy on Stevens's assignment.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

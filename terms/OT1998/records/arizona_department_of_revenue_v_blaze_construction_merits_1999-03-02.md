@@ -23,17 +23,17 @@ The Chief assigns. The [fresh actual opinion-table recount](../runtime/OT_1998CH
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 4 |
 | O'Connor | 6 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 5 |
 | Breyer | 5 |
 
-Last counted event: Minns, February 25, 1999, Thomas. All nine are eligible full-rationale authors. Balance pool: Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg and Breyer. Chosen author: Stevens. Fit governs. His Cotton opinion and Bracker/Ramah separate positions directly distinguish indirect fiscal burden from a controlling federal displacement and preserve different tribal transactions. That is the precise legal work of this opinion. He shares the lowest eligible count and can carry Stone's approved reservations without any accommodation or additional theory. Stone has no superior case-specific authorship claim. The signed lead counts once for Stevens. No invented circulation or post-reconciliation change occurs.
+Last counted event: Minns, February 25, 1999, Thomas. All nine are eligible full-rationale authors. Balance pool: Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer; minimum 4, ceiling 5. Chosen author: Stevens. Fit governs. His Cotton opinion and Bracker/Ramah separate positions directly distinguish indirect fiscal burden from a controlling federal displacement and preserve different tribal transactions. That is the precise legal work of this opinion. He shares the lowest eligible count and can carry Stone's approved reservations without any accommodation or additional theory. Stone has no superior case-specific authorship claim. The signed lead counts once for Stevens. No invented circulation or post-reconciliation change occurs.
 
 ## Law, remedy and continuity
 

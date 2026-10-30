@@ -7,7 +7,7 @@
 
 The public section below is the canonical substantive statement of this event: its judgment, topology, controlling holdings and explanations, precedent treatment, law after decision, separate writings and mandate. It is copied mechanically to [PEOPLES_RIGHTS_EFFECTIVE.md](../entering-law/PEOPLES_RIGHTS_EFFECTIVE.md); no independent rewrite supplies effective law.
 
-The user-authorized post-grant placement and ordinary completed-merits-briefing premise supply this plenary event under 28 U.S.C. section 1254(1), not a recovered historical Supreme Court grant or argument. All nine seated Justices participate; the six-Justice quorum is met and five votes form a majority. The research cutoff is October 15, 1998. The frozen [opening neutral projection](../freeze/OPENING_NEUTRAL_PROJECTION.md), relevant [BASE](../entering-law/OT_1998CHUNK1_BASE.md) and [OTHER](../entering-law/OT_1998CHUNK1_OTHER.md) selections, and effective [Wright](../entering-law/WRIGHT_EFFECTIVE.md), [FOP](../entering-law/FOP_EFFECTIVE.md), [Hiley](../entering-law/HILEY_EFFECTIVE.md) and [Louisiana](../entering-law/LOUISIANA_EFFECTIVE.md) enter in date order. Hiley's final public scope gives its holdings eight Associate joins, with Stone judgment-only throughout. That join-only pre-validation repair changes no relevant holding. Louisiana adds no material premise to this dispute.
+The user-authorized post-grant placement and ordinary completed-merits-briefing premise supply this plenary event under 28 U.S.C. section 1254(1), not a recovered historical Supreme Court grant or argument. All nine seated Justices participate; the six-Justice quorum is met and five votes form a majority. The research cutoff is October 15, 1998. The frozen [opening neutral projection](../freeze/OPENING_NEUTRAL_PROJECTION.md), relevant [BASE](../entering-law/OT_1998CHUNK1_BASE.md) and [OTHER](../entering-law/OT_1998CHUNK1_OTHER.md) selections, and effective [Wright](../entering-law/WRIGHT_EFFECTIVE.md), [FOP](../entering-law/FOP_EFFECTIVE.md), [Hiley](../entering-law/HILEY_EFFECTIVE.md) and [Louisiana](../entering-law/LOUISIANA_EFFECTIVE.md) enter in date order. Hiley's holdings have eight Associate joins, with Stone judgment-only throughout. Wright supplies Core-Preservation Review, and FOP applies its intermediate tier to a defined domestic-violence disability; Hiley leaves its abandoned arms claim undecided. This case presents notice and equal-protection questions, not an independent substantive arms challenge. Louisiana adds no material premise to this dispute.
 
 The original complaint, affidavits and municipal compilation are not claimed recovered. The published opinion's quotations and recitations support the bounded proceeding under Engine section 14.2. Routine merits submission is the separate section 14.3 procedural premise; no waiver, default, new weapon, new factual finding or actual argument date is invented.
 
@@ -27,15 +27,15 @@ Stone's actual pre-enforcement, modification-defect and NFA grounds support agre
 
 **Counted lead opinion:** Yes.
 
-Fresh inspection of prior Records' actual public opinion tables and assignment markers counts Kennedy's Wright opinion of October 5, Souter's FOP opinion of October 7 and O'Connor's Hiley opinion of October 9, once each. Louisiana's October 13 unsigned implementing decree counts zero. The last counted event is Hiley, October 9; the last preceding completed event is Louisiana, October 13. Separate writings do not count.
+Fresh inspection of prior Records' actual public opinion tables and assignment markers counts Stone-Zsela's Wright opinion of October 5, Souter's FOP opinion of October 7 and O'Connor's Hiley opinion of October 9, once each. Louisiana's October 13 unsigned implementing decree counts zero. The last counted event is Hiley, October 9; the last preceding completed event is Louisiana, October 13. Separate writings do not count.
 
 | Justice | Count before assignment |
 |---|---|
-| Stone-Zsela | 0 |
+| Stone-Zsela | 1 |
 | Stevens | 0 |
 | O'Connor | 1 |
 | Scalia | 0 |
-| Kennedy | 1 |
+| Kennedy | 0 |
 | Souter | 1 |
 | Thomas | 0 |
 | Ginsburg | 0 |
@@ -200,12 +200,14 @@ The local automatic-firearm predicate includes a firearm designed or specificall
 - **Fargo** and **Women's Medical:** applied for separate definition, fault and substantive-validity inquiries; their abortion-specific facial-review rules are not transplanted. Women's Medical also supplies actual Ohio severability analysis.
 - **Staples:** applied for characteristic-specific culpability analysis, without importing its federal statutory knowledge requirement or a knowledge-of-illegality rule.
 - **Posters 'N' Things:** applied to objective design and distinct relevant knowledge; its complete federal knowledge rule and disputed exclusive intended-use construction are not imposed on the ordinance.
-- **Love, Hale, Rybar and Wright:** preserve personal arms invocation and the distinction between a right and a particular restriction; their remands supply no automatic remand or substantive result here.
+- **Love, Hale and Rybar:** preserve personal arms invocation and the distinct inquiry into coverage and regulation; their remands supply no automatic substantive result here.
+- **Wright:** establishes Core-Preservation Review, including practical-burden tiers and the categorical protection against abolishing meaningful ordinary defensive possession in the home. That arms framework does not replace the notice inquiry or the ordinary review of the particular grandfathering classification; no independent substantive arms claim is decided.
+- **Fraternal Order of Police:** applies Wright's intermediate tier to a defined domestic-violence disability and rejects a compelled official-use exception; it does not adjudicate this municipality's weapon restrictions under the arms guarantee.
 - **Nordlinger:** its independent reliance holding supports protection of documented expectations, without contractual immunity or a requirement that every grandfather classification survive.
 - **Dukes:** applied for a bounded grandfather protection of established reliance.
 - **Beach:** applied for rational legislative latitude without converting the test into permission for an unrelated distinction.
 - **Heller** and **Romer:** applied to require a relation between the actual classification and its stated purpose, without exact tailoring or a new comprehensive scrutiny tier.
-- **Fraternal Order of Police** and **Hiley:** their specific official-use and conviction-relief classifications remain in force; neither resolves the different municipal registry on its own.
+- **Hiley:** its conviction-relief classifications remain in force, and its abandoned arms claim remains unadjudicated. Neither its equal-protection analysis nor FOP's official-use ruling resolves the different municipal registry on its own.
 - **Springfield Armory**, the earlier Sixth Circuit decision: its invalidation of the former ordinance remains the historical legal setting; its suggested possibility of clearer generic definitions is not advance approval of this ordinance. **Arnold v. City of Cleveland** resolved a distinct Ohio constitutional challenge and supplies no controlling vagueness construction here.
 
 No Supreme Court precedent is overruled. The lower court's collective-only, no-incorporation premise is displaced by Love; its broad strict-liability and categorical-definition reasoning is rejected at the stated scopes.

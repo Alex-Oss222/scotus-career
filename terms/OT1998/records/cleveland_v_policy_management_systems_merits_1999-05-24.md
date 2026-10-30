@@ -23,17 +23,17 @@ The approved Cleveland section of [the Stone supplement](../runtime/OT_1998CHUNK
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 9 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 9 |
 | Breyer | 10 |
 
-Last counted event: California Dental Association v. Federal Trade Commission; No. 97-1625. (1999-05-24), Souter; `california_dental_association_v_ftc_merits_1999-05-24.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Balance pool: Stone-Zsela (8), Stevens (8), Scalia (9), Thomas (9) and Ginsburg (9). Chief Justice Stone-Zsela assigns Stevens. All nine support vacatur and the complete statutory-and-evidentiary rationale, including the Chief's approved position independently of fallback, so all are eligible. The minimum is eight. Stevens's frozen Bragdon-based position separates individual statutory elements from founded factual proof; that is the work needed to explain why the statutory disability label carries no special presumption while actual contradictions still require evidence. Stone is an equal-count alternative with a precise time/function/accommodation formulation. Stevens can fully carry that objective and gives the opinion a direct connection to the individual-element analysis the unanimous method requires; the Chief selects him on that concrete fit without changing the common rule or claiming a necessary accommodation. Justices at ten are outside this pool, irrespective of authorship capability.
+Last counted event: California Dental Association v. Federal Trade Commission; No. 97-1625. (1999-05-24), Souter; `california_dental_association_v_ftc_merits_1999-05-24.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Balance pool: Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg; minimum 8, ceiling 9. Chief Justice Stone-Zsela assigns Stevens. All nine support vacatur and the complete statutory-and-evidentiary rationale, including the Chief's approved position independently of fallback, so all are eligible. The minimum is eight. Stevens's frozen Bragdon-based position separates individual statutory elements from founded factual proof; that is the work needed to explain why the statutory disability label carries no special presumption while actual contradictions still require evidence. Stone is a pool alternative at nine counted leads to Stevens's eight with a precise time/function/accommodation formulation. Stevens can fully carry that objective and gives the opinion a direct connection to the individual-element analysis the unanimous method requires; the Chief selects him on that concrete fit without changing the common rule or claiming a necessary accommodation. Justices at ten are outside this pool, irrespective of authorship capability.
 
 Every Justice joins all stated propositions, qualification requirements, preserved factual-evidence limits and ordinary remand. No change from a frozen non-Stone commitment or special circulation is necessary. No separate writing is filed.
 

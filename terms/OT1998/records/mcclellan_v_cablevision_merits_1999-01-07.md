@@ -53,19 +53,19 @@ Fresh recount from actual preceding current-term opinion tables, including earli
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 2 |
 | O'Connor | 2 |
 | Scalia | 3 |
-| Kennedy | 3 |
+| Kennedy | 2 |
 | Souter | 2 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** City of Cincinnati v. Kruse, No. 98-454; Sixth Circuit Nos. 97-3193, 97-3194 and 97-3210; 142 F.3d 907. — 1998-12-16. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Chosen author:** Souter. [Actual recount sources](../runtime/OT_1998CHUNK3_MCCLELLAN_CABLEVISION_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** City of Cincinnati v. Kruse, No. 98-454; Sixth Circuit Nos. 97-3193, 97-3194 and 97-3210; 142 F.3d 907. — 1998-12-16. **Eligible full-rationale authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 2, ceiling 3. **Chosen author:** Souter. [Actual recount sources](../runtime/OT_1998CHUNK3_MCCLELLAN_CABLEVISION_ASSIGNMENT_RECOUNT.json).
 
-Fit controls because all nine already share the complete bounded intent ground. Souter's own Suter, Franklin and Central Bank joins make the distinction between creating an action and developing a received remedy especially concrete. He can explain their coexistence while reserving actual alternative sources, the central work here. Stevens is an equally low-count strong alternative through Cannon; Souter's direct participation on both sides of the received-action/new-action distinction supplies the case-specific choice. Stone's approved separation is compatible but provides no added precision or coalition advantage over that supported formulation at the same count. Experience and perceived ability exclude no Justice, and no expansion accommodation is invented.
+Fit controls because all nine already share the complete bounded intent ground. Souter's own Suter, Franklin and Central Bank joins make the distinction between creating an action and developing a received remedy especially concrete. He can explain their coexistence while reserving actual alternative sources, the central work here. Stevens is an equally low-count strong alternative through Cannon; Souter's direct participation on both sides of the received-action/new-action distinction supplies the case-specific choice. Stone's approved separation is compatible but provides no added precision or coalition advantage over that supported formulation; Souter has two counted leads to Stone's three. Experience and perceived ability exclude no Justice, and no expansion accommodation is invented.
 
 Each Justice joins the text/structure/history ground together, not a categorical express-action rule. Every recorded objection is respected: section 532(d) alone is not decisive; local enforcement is not assumed adequate; Franklin and Central Bank retain their existing force; and remand neither grants nor extinguishes independent relief. No Associate commitment changes in circulation. This signed plenary lead counts once for its author. Separate writings add no count.
 

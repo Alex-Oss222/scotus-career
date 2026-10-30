@@ -23,11 +23,11 @@ Form is fixed before counting as one signed Opinion of the Court with eight-Just
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 8 |
 | Ginsburg | 8 |
@@ -41,9 +41,9 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 8; eligible counts at most 9 enter the pool.
+**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
 
-**Assignment:** Souter. Souter's actual Reorganized CF&I reasoning separates an obligation's operation from its label and preserves enacted priority rather than a generic functional checklist. His frozen analysis here explains why the conditional Title 11 connector differs from that assessment while preserving the lien/stay alternative and the separate allowance task. Stevens selects him on that concrete fit for Parts I and III. Stone considers himself for Part II at eight but selects Souter, also at eight, who can carry the whole opinion and preserve the agreed debt-origin rule. All nine are eligible on Part II at that bounded rule; its min-plus-one pool excludes only O'Connor at ten. The common complete-opinion eligibility and pool above concern the eight who join all three parts. Earlier authorship itself supplies no entitlement.
+**Assignment:** Souter. Souter's actual Reorganized CF&I reasoning separates an obligation's operation from its label and preserves enacted priority rather than a generic functional checklist. His frozen analysis here explains why the conditional Title 11 connector differs from that assessment while preserving the lien/stay alternative and the separate allowance task. Stevens selects him on that concrete fit for Parts I and III. Stone supports Part II at nine counted leads but selects Souter at eight, who can carry the whole opinion and preserve the agreed debt-origin rule. All nine are eligible on Part II at that bounded rule; its minimum-seven, ceiling-eight pool contains Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; Stone-Zsela and Breyer at nine and O'Connor at ten are outside it. The common complete-opinion eligibility and pool above concern the eight who join all three parts. Earlier authorship itself supplies no entitlement.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

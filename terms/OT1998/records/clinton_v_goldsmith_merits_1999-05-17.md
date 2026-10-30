@@ -23,11 +23,11 @@ Form before count: One signed unanimous opinion after plenary review, with one s
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 9 |
 | Thomas | 8 |
 | Ginsburg | 8 |
@@ -35,7 +35,7 @@ Form before count: One signed unanimous opinion after plenary review, with one s
 
 Fresh recount: [Goldsmith receipt](../freeze/OT_1998CHUNK8_GOLDSMITH_RECOUNT.json); 76 counted leads, from actual Record opinion tables with effective-date and same-date alphabetical filtering. **Last event counted:** Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293. (1999-05-13), Souter; [Record](pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md). The later-alphabetical May 17 Saenz opinion is excluded; no existing assignment is reopened.
 
-**Assignment authority:** Chief Justice Stone-Zsela, in the unanimous judgment coalition. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Author chosen:** Kennedy. His McBryde and Your Home reasoning performs the needed distinction between review authority, an auxiliary remedy and the underlying claim. Stone's matching jurisdictional distinction makes him eligible, but Kennedy can carry the settled ground equally faithfully at the same count. No expansion accommodation or invented drafting exchange is needed. O'Connor is fully eligible but outside the balance pool.
+**Assignment authority:** Chief Justice Stone-Zsela, in the unanimous judgment coalition. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stevens, Scalia, Kennedy, Thomas, Ginsburg; minimum 7, ceiling 8. **Author chosen:** Kennedy. His McBryde and Your Home reasoning performs the needed distinction between review authority, an auxiliary remedy and the underlying claim. Stone's matching jurisdictional distinction makes him eligible, but Kennedy can carry the settled ground equally faithfully at seven counted leads, while Stone's nine places him outside the pool. No expansion accommodation or invented drafting exchange is needed. O'Connor is fully eligible but outside the balance pool.
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

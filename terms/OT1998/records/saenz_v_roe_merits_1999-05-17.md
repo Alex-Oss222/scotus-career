@@ -23,11 +23,11 @@ Before assignment, the form is one signed eight-Justice Opinion of the Court and
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 9 |
 | Thomas | 8 |
 | Ginsburg | 8 |
@@ -41,7 +41,7 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg, Breyer. Lowest eligible count: 8; eligible counts at most 9 enter the pool.
+**Balance pool:** Stevens, Scalia, Kennedy, Ginsburg; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
 
 **Assignment:** Kennedy. Kennedy's frozen Boerne ground separates constitutional enforcement from statutory replacement, while his equal-current-citizenship position ties that limit to the precise state classification. He can carry both holdings without enlarging the Clause or prescribing a welfare amount. Stone is fully eligible and considered on his direct equal-citizenship formulation; Kennedy can preserve that objective with equally concrete source-based precision and falls within the recounted pool. No accommodation changes a frozen vote, so fit rather than presumed coalition expansion governs.
 

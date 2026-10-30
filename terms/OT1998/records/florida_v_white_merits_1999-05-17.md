@@ -25,11 +25,11 @@ Form before count: One signed opinion after plenary review, deciding the public-
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 9 |
+| Kennedy | 8 |
 | Souter | 9 |
 | Thomas | 8 |
 | Ginsburg | 8 |

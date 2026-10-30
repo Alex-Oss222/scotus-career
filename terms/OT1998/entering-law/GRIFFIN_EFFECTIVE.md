@@ -65,8 +65,8 @@ Both separate judgments are affirmed. Neither conviction is reversed, and no acq
 
 - **Lopez:** applied to require a constitutional connection independent of remote provenance, generalized crime costs or a jurisdictional label; it creates no additional individual-effect element here.
 - **Franklyn**, Part II: directly applied to the same convicted-recipient supply and possession provisions. Its firearms-and-ammunition mechanism enters as law; its ammunition stipulation supplies no proof for either pistol.
-- **Hale, Rybar, Kirk and Wright:** preserve necessary inclusion in the different machinegun transfer-and-stock regime; their holdings do not automatically validate all firearm restrictions or require an arms remand.
-- **Hiley:** preserves its distinct domestic-violence-recipient application and separate enacted nexus; it supplies no universal status-disability holding.
+- **Hale, Rybar, Kirk and Wright:** preserve necessary inclusion in the different machinegun transfer-and-stock regime. Wright's separate Core-Preservation Review governs preserved arms claims; FOP applies its intermediate tier to a defined domestic-violence disability. This decision presents no arms claim and therefore neither classifies the felon restriction under those tiers nor declares it valid under the Second Amendment. No automatic arms remand follows; Kirk supplies no arms holding.
+- **Hiley:** preserves its distinct domestic-violence-recipient commerce application and separate enacted nexus. Its abandoned arms claim is not decided; its reference to Wright and FOP supplies no universal status-disability holding.
 - **Bass:** preserves the statutory commerce-connection requirement rather than permitting conviction without the enacted nexus.
 - **Scarborough:** applied for the retained prior-interstate-movement nexus, separately from the constitutional justification for regulating this class.
 - **Jackson v. Virginia:** applied to each pistol's evidence and the rational-jury, beyond-reasonable-doubt inquiry; the required proof is not supplied by the constitutionality of the statute.

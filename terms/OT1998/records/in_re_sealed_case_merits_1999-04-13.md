@@ -23,11 +23,11 @@ Before assignment, form is fixed as one signed unanimous Opinion of the Court af
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 7 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 7 |
@@ -41,9 +41,9 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg; minimum 6, ceiling 7. Lowest eligible count: 6; eligible counts at most 7 enter the pool.
 
-**Assignment:** Stevens. Stevens's frozen Jaffee and Swidler grounds directly explain why recognition precedes overcoming need while preserving both established privileges. All eligible authors are within the balance pool. Stone was considered at seven and fully supports the formulation; Stevens's demonstrated treatment of those two controlling relationships makes the crucial distinction especially clear without adding any Stone ground. Breyer's accommodation concern is expressly preserved and requires no separate authored portion.
+**Assignment:** Stevens. Stevens's frozen Jaffee and Swidler grounds directly explain why recognition precedes overcoming need while preserving both established privileges. All eligible authors are within the balance pool. Stone fully supports the formulation but is outside the pool at eight; Stevens's demonstrated treatment of those two controlling relationships makes the crucial distinction especially clear without adding any Stone ground. Breyer's accommodation concern is expressly preserved and requires no separate authored portion.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

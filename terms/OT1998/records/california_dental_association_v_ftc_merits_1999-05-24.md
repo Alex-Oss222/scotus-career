@@ -29,17 +29,17 @@ The actual pre-May24 public-law addition and [later dependency review](../freeze
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 9 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 9 |
 | Thomas | 9 |
 | Ginsburg | 9 |
 | Breyer | 10 |
 
-Last counted event: Maine Green Party v. Maine; First Circuit No. 98-1309. (1999-05-20), Breyer; `maine_green_party_v_maine_merits_1999-05-20.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: O'Connor, Scalia, Souter and Thomas. Balance pool: O'Connor (10), Scalia (9), Souter (9) and Thomas (9). Chief Justice Stone-Zsela assigns Souter. The Chief is in the vacatur coalition and assigns. He is not eligible for the complete lead because his fixed remedy does not join its appellate record-choice discussion. The four affirmers do not join its competitive-analysis holdings. Souter's frozen position supplies concrete fit for evaluating information costs, the distinction between potential efficiency and proved reasonableness, and the separation of supported Commission facts from legal sufficiency. Scalia supplies a strong equal-count alternative through his Khan/NYNEX classification work; Souter's direct focus on the unresolved professional-information mechanism provides the case-specific choice. All four eligible members are within one of the minimum nine; no necessary join is enlarged to create the pool.
+Last counted event: Maine Green Party v. Maine; First Circuit No. 98-1309. (1999-05-20), Breyer; `maine_green_party_v_maine_merits_1999-05-20.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: O'Connor, Scalia, Souter and Thomas. Balance pool: O'Connor, Scalia, Souter, Thomas; minimum 9, ceiling 10. Chief Justice Stone-Zsela assigns Souter. The Chief is in the vacatur coalition and assigns. He is not eligible for the complete lead because his fixed remedy does not join its appellate record-choice discussion. The four affirmers do not join its competitive-analysis holdings. Souter's frozen position supplies concrete fit for evaluating information costs, the distinction between potential efficiency and proved reasonableness, and the separation of supported Commission facts from legal sufficiency. Scalia supplies a strong equal-count alternative through his Khan/NYNEX classification work; Souter's direct focus on the unresolved professional-information mechanism provides the case-specific choice. All four eligible members are within one of the minimum nine; no necessary join is enlarged to create the pool.
 
 All nine directly join coverage. O'Connor, Scalia, Souter and Thomas join the complete lead; Stone joins its coverage and price/quality insufficiency holdings, but refuses the four-only choice permitting appellate assessment without Commission reconsideration. Stevens, Kennedy, Ginsburg and Breyer join coverage only and publish the complete affirmance rationale through Breyer's separate opinion. Breyer's selection reflects his frozen concrete actual-enforcement and justification-burden analysis, not historical authorship. The five vacatur votes agree that the existing liability judgment cannot stand and that the case returns for fuller restraint-sensitive consideration; they do not agree who must perform that examination. No opinion-sharing claim or Marks synthesis turns the four-only appellate option into a Court instruction.
 

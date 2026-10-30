@@ -25,11 +25,11 @@ Form before count: One signed unanimous opinion after plenary review, deciding o
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 9 |
+| Kennedy | 8 |
 | Souter | 9 |
 | Thomas | 9 |
 | Ginsburg | 9 |
@@ -37,7 +37,7 @@ Form before count: One signed unanimous opinion after plenary review, deciding o
 
 Fresh receipt: [Ruhrgas recount](../freeze/OT_1998CHUNK8_RUHRGAS_RECOUNT.json), 79 counted leads. **Last event counted:** Hunt v. Cromartie; No. 98-85; judgment below, 34 F. Supp. 2d 1029. (1999-05-17), Ginsburg; [Record](hunt_v_cromartie_merits_1999-05-17.md). Goldsmith, White and Hunt enter; the unsigned NJ decree does not count. Saenz remains later in same-date alphabetical assignment order and is excluded here.
 
-**Assignment authority:** Chief Justice Stone-Zsela. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Author chosen:** Scalia. His Steel Co. and Jones positions expressly identify the constitutional-power/contested-merits line without exhausting nonmerits sequencing. Explaining why this dismissal respects that line is the opinion's precise work. Stone and Stevens are equally low-count alternatives; Scalia can state the settled unanimous ground without changing it or borrowing a universal efficiency exception. Stone's interest in threshold ordering adds no independent authorship advantage. O'Connor remains eligible but outside the pool. No division or expansion accommodation is needed.
+**Assignment authority:** Chief Justice Stone-Zsela. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Author chosen:** Scalia. His Steel Co. and Jones positions expressly identify the constitutional-power/contested-merits line without exhausting nonmerits sequencing. Explaining why this dismissal respects that line is the opinion's precise work. Stone at nine and Stevens at eight are pool alternatives; Scalia can state the settled unanimous ground without changing it or borrowing a universal efficiency exception. Stone's interest in threshold ordering adds no independent authorship advantage. O'Connor remains eligible but outside the pool. No division or expansion accommodation is needed.
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

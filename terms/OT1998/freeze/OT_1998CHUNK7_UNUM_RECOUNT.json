@@ -2,11 +2,11 @@
   "before_date": "1999-04-20",
   "before_case": "UNUM Life Insurance Co. of America v. Ward",
   "counts": {
-    "Stone-Zsela": 7,
+    "Stone-Zsela": 8,
     "Stevens": 8,
     "O'Connor": 8,
     "Scalia": 7,
-    "Kennedy": 7,
+    "Kennedy": 6,
     "Souter": 7,
     "Thomas": 7,
     "Ginsburg": 7,
@@ -29,10 +29,10 @@
       "date": "1998-10-05",
       "case": "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
       "authors": [
-        "Kennedy"
+        "Stone-Zsela"
       ],
       "rows": [
-        "| Opinion of the Court, Parts I-V | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Full opinion: I commerce and derivative Tenth objection; II-A personal invocation and II-B machinegun remand with conditional instruction treatment; III independent registration conviction; IV Ninth Amendment; V-A legal-challenge rule and V-B sentence vacatur. Eight direct rationale votes throughout. |"
+        "| Opinion of the Court | Stone-Zsela | O'Connor, Kennedy, Souter, Ginsburg | All Parts I-V, including II-B's complete Core-Preservation Review, II-C's two-stage remand and III's incidental-regulation application. Five direct rationale votes throughout. |"
       ]
     },
     {

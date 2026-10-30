@@ -47,11 +47,11 @@ Chief Justice Stone-Zsela assigns because he joins the judgment and the entire g
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 10 |
 | Stevens | 10 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 10 |
+| Kennedy | 9 |
 | Souter | 10 |
 | Thomas | 10 |
 | Ginsburg | 10 |
@@ -59,9 +59,9 @@ Chief Justice Stone-Zsela assigns because he joins the judgment and the entire g
 
 The fresh recount takes each author from the public opinion topology of the currently written Records, in effective-date and same-date alphabetical order. It counts 90 signed plenary lead opinions. The last counted event is Reno v. Goncalves, June 3, 1999, delivered by Stone-Zsela. The [recount receipt](../freeze/OT_1998CHUNK9_AMOCO_RECOUNT.json) preserves that enumeration; no earlier assignment total is adopted and Git verification remains deferred.
 
-The minimum eligible count is Stone-Zsela's 9. The balance pool is Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas and Breyer, each at 9 or 10. O'Connor is eligible on substance but outside the pool at 11.
+The minimum eligible count is Kennedy's nine. The balance pool is Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas and Breyer, each at nine or ten. O'Connor is eligible on substance but outside the pool at 11.
 
-Stone-Zsela assigns the entire opinion to Stevens. This is a fit assignment on settled common ground, not an effort to change a colleague's commitment. Stevens's Western Nuclear dissent join supplies the concrete historical-setting distinction between the specific resource Congress reserved and a broader modern mineral category; his Yankton opinion supplies experience stating the consequences of the complete statutory transaction while preserving questions about other property interests. Those are the opinion's paired tasks here: explain why distinct gas falls outside the coal reservation and why that construction does not erase residual coal, access or compensation rights. Stone-Zsela is the strongest lower-count alternative: his approved position states the enacted-meaning distinction and the precise reservations, and fully supports the opinion. Stevens's demonstrated transaction-and-property analysis offers a case-specific authorship advantage over that alternative; the Chief's office or interest supplies no independent claim. No expansion accommodation or revised commitment is needed. Stevens delivers the single lead opinion, and the other seven full supporters join every proposition. The assignment adds one counted lead to Stevens, bringing his count to 11; no separate writing counts.
+Stone-Zsela assigns the entire opinion to Stevens. This is a fit assignment on settled common ground, not an effort to change a colleague's commitment. Stevens's Western Nuclear dissent join supplies the concrete historical-setting distinction between the specific resource Congress reserved and a broader modern mineral category; his Yankton opinion supplies experience stating the consequences of the complete statutory transaction while preserving questions about other property interests. Those are the opinion's paired tasks here: explain why distinct gas falls outside the coal reservation and why that construction does not erase residual coal, access or compensation rights. Stone-Zsela is a strong equal-count alternative at ten: his approved position states the enacted-meaning distinction and the precise reservations, and fully supports the opinion. Kennedy is also eligible at the lower count of nine; Stevens's demonstrated transaction-and-property coordination supplies the stated fit advantage. Stevens's demonstrated transaction-and-property analysis offers a case-specific authorship advantage over that alternative; the Chief's office or interest supplies no independent claim. No expansion accommodation or revised commitment is needed. Stevens delivers the single lead opinion, and the other seven full supporters join every proposition. The assignment adds one counted lead to Stevens, bringing his count to 11; no separate writing counts.
 
 
 The reconciliation corrected Ginsburg's independent provisional reversal to affirmance after testing her direct case-specific dominion/ambiguity premise against unchanged law and facts. The earlier general Yankton/MCI evidence did not supply a concrete reason to displace that premise. All participating historical Associates now retain their historical merits alignment; Breyer's historical nonparticipation establishes no present recusal or merits view. The historical author is not imported. Ginsburg's separate writing is warranted by her own frozen dissenting ground, not by a requirement to reproduce historical writings. No new historical-departure line is warranted at assembly.

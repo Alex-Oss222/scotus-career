@@ -92,17 +92,17 @@ Arithmetic is nine reversals and nine direct joins to the one governing proposit
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 2 | Yes | Yes |
 | Scalia | 2 | Yes | Yes |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 2 | Yes | Yes |
 | Thomas | 2 | Yes | Yes |
 | Ginsburg | 2 | Yes | Yes |
-| Breyer | 3 | Yes | Yes |
+| Breyer | 3 | Yes | No |
 
-Last counted event: McClellan Federal Credit Union v. Parker, 1998-12-09, delivered by Thomas. The minimum eligible count is 2; the pool includes eligible authors at no more than 3. **Author chosen: Ginsburg.**
+Last counted event: McClellan Federal Credit Union v. Parker, 1998-12-09, delivered by Thomas. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Ginsburg.**
 
 Chief Justice Stone-Zsela assigns the complete unanimous opinion. Fit governs; all nine directly support the statutory injury rule and the bounded pleading-stage return, without a formulation dispute needing expansion. Ginsburg's Inter-Modal opinion performs the closely corresponding work of protecting an interest against a prohibited interference even though the employer otherwise could withdraw the benefit, while leaving the remaining statutory elements for adjudication. Her Robinson join reinforces the provision-specific protective inquiry. Stevens is the strongest equal-count alternative through Kush's federal-witness clause analysis, but the decisive obstacle here is the erroneous inference from lack of a constitutional employment entitlement, for which Ginsburg's Inter-Modal treatment offers the more direct fit. Stone's approved rejection of that obstacle and preserved conspiracy requirements are fully carried by this formulation; his authorship supplies no further precision or accommodation. Ginsburg remains within the balance pool and receives one counted lead. No separate writing or divided lead is required.
 

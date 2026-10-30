@@ -61,11 +61,11 @@ The FRESH_RECONCILED handoff supplies no Supreme Court merits comparator for thi
 
 | Justice | Count before assignment | Eligible for complete lead | In balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 2 | Yes | Yes |
+| Stone-Zsela | 3 | Yes | No |
 | Stevens | 2 | Yes | Yes |
 | O'Connor | 1 | Yes | Yes |
 | Scalia | 2 | No | No |
-| Kennedy | 2 | Yes | Yes |
+| Kennedy | 1 | Yes | Yes |
 | Souter | 2 | Yes | Yes |
 | Thomas | 1 | No | No |
 | Ginsburg | 1 | Yes | Yes |
@@ -73,7 +73,7 @@ The FRESH_RECONCILED handoff supplies no Supreme Court merits comparator for thi
 
 Last counted event: Minnesota v. Carter and Minnesota v. Johns, 1998-12-01, delivered by Breyer. The minimum eligible count is 1; the pool includes eligible authors at no more than 2. **Author chosen: Ginsburg.**
 
-Chief Justice Stone-Zsela assigns all portions from the common seven-Justice judgment coalition. Fit governs; the frozen full joins require no new accommodation. Ginsburg's Romer, Hurley and Coalition positions supply the precise distinction between an ordinary-protection barrier and a demand for preferences, while preserving genuine private expression and relief fitted to the violation. That combination fits both the municipal merits inquiry and the injunction's boundaries. O'Connor is the strongest equal-count alternative: her full Romer join and contrary Coalition position sharply distinguish the two operations, but the present full commitment requires no repair of her objection or expansion through her authorship. Stone's approved core is fully carried by Ginsburg's ordinary-rationality and fitted-relief formulation; his higher count remains eligible, but self-assignment supplies no additional precision or coalition accommodation. Ginsburg receives one counted lead; the common majority on the injunction and dependent fees supplies no reason to divide the opinion. Scalia's dissent, joined by Thomas, expresses their shared municipal-rationality ground and is not counted.
+Chief Justice Stone-Zsela assigns all portions from the common seven-Justice judgment coalition. Fit governs; the frozen full joins require no new accommodation. Ginsburg's Romer, Hurley and Coalition positions supply the precise distinction between an ordinary-protection barrier and a demand for preferences, while preserving genuine private expression and relief fitted to the violation. That combination fits both the municipal merits inquiry and the injunction's boundaries. O'Connor is the strongest equal-count alternative: her full Romer join and contrary Coalition position sharply distinguish the two operations, but the present full commitment requires no repair of her objection or expansion through her authorship. Stone's approved core is fully carried by Ginsburg's ordinary-rationality and fitted-relief formulation; his substantive eligibility remains, but his count of three places him outside the pool and he supplies no additional precision or coalition accommodation. Ginsburg receives one counted lead; the common majority on the injunction and dependent fees supplies no reason to divide the opinion. Scalia's dissent, joined by Thomas, expresses their shared municipal-rationality ground and is not counted.
 
 All final joins remain within the approved and frozen grounds. No circulation history, changed commitment or new accommodation is invented. Separate writings add no counted lead.
 

@@ -22,18 +22,18 @@ Every signed lead was assigned in effective-date order, with same-date cases alp
 
 | Matter | Date | Lead author | Minimum eligible count | Author count before assignment |
 |---|---|---|---:|---:|
-| carter | 1998-12-01 | Breyer | 2 | 2 |
+| carter | 1998-12-01 | Breyer | 1 | 2 |
 | dodd | 1998-11-19 | Stevens | 1 | 1 |
 | equality | 1998-12-03 | Ginsburg | 1 | 1 |
-| haddle | 1998-12-14 | Ginsburg | 2 | 2 |
+| haddle | 1998-12-14 | Ginsburg | 1 | 2 |
 | knowles | 1998-12-08 | O'Connor | 1 | 1 |
-| nynex | 1998-12-14 | Scalia | 2 | 2 |
-| paradise | 1998-11-24 | Stone-Zsela | 1 | 1 |
+| nynex | 1998-12-14 | Scalia | 1 | 2 |
+| paradise | 1998-11-24 | Stone-Zsela | 1 | 2 |
 | parker | 1998-12-09 | Thomas | 1 | 1 |
 | rembert | 1998-12-01 | Souter | 1 | 1 |
 | wright | 1998-11-16 | Breyer | 1 | 1 |
 
-Mosley and Coleman are per curiam procedural/summary actions and add no count. The Louisiana decree from chunk 1 remains uncounted. There are 21 counted leads after this Run: Stone-Zsela 2, Stevens 2, O'Connor 2, Scalia 3, Kennedy 2, Souter 2, Thomas 2, Ginsburg 3, Breyer 3.
+Mosley and Coleman are per curiam procedural/summary actions and add no count. The Louisiana decree from chunk 1 remains uncounted. There are 21 counted leads after this Run: Stone-Zsela 3, Stevens 2, O'Connor 2, Scalia 3, Kennedy 1, Souter 2, Thomas 2, Ginsburg 3, Breyer 3.
 
 ## Deterministic validation
 

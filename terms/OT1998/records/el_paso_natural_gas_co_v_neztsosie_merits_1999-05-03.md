@@ -23,11 +23,11 @@ Form is fixed before assignment as one signed unanimous Opinion of the Court aft
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 8 |
+| Stone-Zsela | 9 |
 | Stevens | 8 |
 | O'Connor | 9 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
@@ -41,7 +41,7 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
 
 **Assignment:** Thomas. Thomas's frozen grounds give the express state-court removal language its full limit while explaining why a judicial comity rule cannot displace the federal coverage task. His complete support includes appeal scope, actual coverage, proper-party and remedy reservations. Stone is a complete-opinion candidate, but Thomas's lower count and equally direct statutory/institutional fit favor him. This assignment does not treat an author as better able merely because of general style or past authorship.
 

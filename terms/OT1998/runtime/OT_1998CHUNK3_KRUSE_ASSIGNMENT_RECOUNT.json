@@ -2,24 +2,24 @@
   "event": "City of Cincinnati v. Kruse",
   "date": "1998-12-16",
   "counts": {
-    "Stone-Zsela": 2,
+    "Stone-Zsela": 3,
     "Stevens": 2,
     "O'Connor": 2,
     "Scalia": 3,
-    "Kennedy": 2,
+    "Kennedy": 1,
     "Souter": 2,
     "Thomas": 2,
     "Ginsburg": 3,
     "Breyer": 3
   },
-  "last_counted_event": "NYNEX Corp. v. Discon, Inc., No. 96-1570; reported at 525 U.S. 128. \u2014 1998-12-14",
+  "last_counted_event": "NYNEX Corp. v. Discon, Inc., No. 96-1570; reported at 525 U.S. 128. — 1998-12-14",
   "counted_records": [
     [
       "1998-10-05",
       "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
       "united_states_v_wright_merits_1998-10-05.md",
       [
-        "Kennedy"
+        "Stone-Zsela"
       ]
     ],
     [

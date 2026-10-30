@@ -60,11 +60,11 @@ The Public Projection's Holdings, Precedent Treatment and Law After Decision blo
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 11 |
+| Stone-Zsela | 12 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 11 |
-| Kennedy | 11 |
+| Kennedy | 10 |
 | Souter | 12 |
 | Thomas | 11 |
 | Ginsburg | 11 |

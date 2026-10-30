@@ -23,17 +23,17 @@ The Chief assigns. The [fresh actual opinion-table recount](../runtime/OT_1998CH
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 4 |
+| Stone-Zsela | 5 |
 | Stevens | 5 |
 | O'Connor | 6 |
 | Scalia | 5 |
-| Kennedy | 5 |
+| Kennedy | 4 |
 | Souter | 6 |
 | Thomas | 5 |
 | Ginsburg | 5 |
 | Breyer | 5 |
 
-Last counted event: Blaze, March 2, 1999, Stevens. Eligible full authors: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Balance pool: Stone-Zsela, Stevens, Kennedy, Ginsburg and Breyer. Chosen author: Ginsburg. Fit governs. Her Bousley work separates an offense's actual mental element from a different remedial question, and her Bryan dissent insists on preserving the enacted mental relation. Here that discipline permits a common conditional-purpose rule while refusing a gun-based presumption or an extra probability element. This is a concrete advantage in explaining why recognizing conditional purpose does not dilute specific intent. Stevens and Kennedy are capable pool alternatives; Stone's approved formulation is fully retained without a distinctive self-assignment advantage. The lead counts once for Ginsburg. Separate dissents do not count, and their authorship is based on their distinct grounds, not historical assignment.
+Last counted event: Blaze, March 2, 1999, Stevens. Eligible full authors: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Balance pool: Stone-Zsela, Stevens, Kennedy, Ginsburg, Breyer; minimum 4, ceiling 5. Chosen author: Ginsburg. Fit governs. Her Bousley work separates an offense's actual mental element from a different remedial question, and her Bryan dissent insists on preserving the enacted mental relation. Here that discipline permits a common conditional-purpose rule while refusing a gun-based presumption or an extra probability element. This is a concrete advantage in explaining why recognizing conditional purpose does not dilute specific intent. Stevens and Kennedy are capable pool alternatives; Stone's approved formulation is fully retained without a distinctive self-assignment advantage. The lead counts once for Ginsburg. Separate dissents do not count, and their authorship is based on their distinct grounds, not historical assignment.
 
 ## Law, remedy and continuity
 

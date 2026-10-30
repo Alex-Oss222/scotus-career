@@ -112,17 +112,17 @@ The signed form and governing propositions were selected on the legal grounds st
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 2 |
+| Stone-Zsela | 3 |
 | Stevens | 3 |
 | O'Connor | 3 |
 | Scalia | 3 |
-| Kennedy | 4 |
+| Kennedy | 3 |
 | Souter | 3 |
 | Thomas | 2 |
 | Ginsburg | 3 |
 | Breyer | 3 |
 
-**Last counted event:** City of West Covina v. Perkins, No. 97-1230. — 1999-01-13. **Eligible full-rationale authors:** O'Connor, Scalia, Kennedy, Thomas, Breyer. **Balance pool:** O'Connor, Scalia, Thomas, Breyer. **Chosen author:** O'Connor. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_MARCUS_ASSIGNMENT_RECOUNT.json).
+**Last counted event:** City of West Covina v. Perkins, No. 97-1230. — 1999-01-13. **Eligible full-rationale authors:** O'Connor, Scalia, Kennedy, Thomas, Breyer. **Balance pool:** O'Connor, Scalia, Kennedy, Thomas, Breyer; minimum 2, ceiling 3. **Chosen author:** O'Connor. [Actual preceding opinion-table sources](../runtime/OT_1998CHUNK3_MARCUS_ASSIGNMENT_RECOUNT.json).
 
 Fit governs. O'Connor's own Forbes opinion states the precise actual-selection rule and reserves pretext, comparator and open-access review; applying those boundaries to Iowa's fuller findings is the main legal work. Thomas, the lowest-count eligible Justice, is a strong alternative because his frozen commitment separates the committee's supported recurrence from the merits and permits contextual editorial judgment. Both can carry the whole opinion. O'Connor's direct formulation of the governing safeguards supplies the case-specific advantage within the pool; her assignment does not add or relax any required join. Stone is ineligible for the whole lead because his approved position does not supply Part I's recurrence rationale.
 

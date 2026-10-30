@@ -35,11 +35,11 @@ Form and scope were fixed before counting: one signed Opinion of the Court stati
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 7 |
 | O'Connor | 7 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 6 |
@@ -51,9 +51,9 @@ Form and scope were fixed before counting: one signed Opinion of the Court stati
 
 **Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
+**Balance pool:** Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer; minimum 6, ceiling 7. The lowest eligible count is 6; the pool includes eligible counts no more than one higher.
 
-**Assignment:** Ginsburg. Fit governs the settled seven-Justice formulation; no necessary join awaits expansion. Ginsburg's frozen position directly distinguishes informative receipt from an imposed litigation obligation while preserving the separate summons branch, its actual conditions and the absence of an equitable extension. That is the central drafting task, and her Henderson and Caterpillar joins support keeping service, prospective statutory compliance and jurisdiction separate. Stone-Zsela was expressly considered: his approved contextual construction and preserved jurisdictional remand can carry the same complete opinion, but no additional accommodation or personal authoring advantage requires self-assignment. Ginsburg can express his approved objective equally faithfully and has the lower count, six rather than seven. The Chief therefore assigns her within the balance pool. Her historical authorship is not an assignment rule.
+**Assignment:** Ginsburg. Fit governs the settled seven-Justice formulation; no necessary join awaits expansion. Ginsburg's frozen position directly distinguishes informative receipt from an imposed litigation obligation while preserving the separate summons branch, its actual conditions and the absence of an equitable extension. That is the central drafting task, and her Henderson and Caterpillar joins support keeping service, prospective statutory compliance and jurisdiction separate. Stone-Zsela was expressly considered: his approved contextual construction and preserved jurisdictional remand can carry the same complete opinion, but no additional accommodation or personal authoring advantage requires self-assignment. Ginsburg can express his approved objective equally faithfully and has the lower count, six rather than Stone's eight. The Chief therefore assigns her within the balance pool. Her historical authorship is not an assignment rule.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

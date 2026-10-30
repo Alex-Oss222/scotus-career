@@ -7,11 +7,11 @@
   },
   "git": "DEFERRED by user instruction; no commands or hash verification",
   "counts": {
-    "Stone-Zsela": 8,
+    "Stone-Zsela": 9,
     "Stevens": 8,
     "O'Connor": 10,
     "Scalia": 9,
-    "Kennedy": 10,
+    "Kennedy": 9,
     "Souter": 9,
     "Thomas": 9,
     "Ginsburg": 9,
@@ -24,7 +24,7 @@
       "date": "1998-10-05",
       "case": "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
       "counted": true,
-      "author": "Kennedy"
+      "author": "Stone-Zsela"
     },
     {
       "record": "fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
