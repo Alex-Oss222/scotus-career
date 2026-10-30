@@ -550,7 +550,7 @@ The central *Lopez* proposition is therefore:
 
 #### Position and scope
 
-**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
+**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. The revised position stated below was user-approved 2026-10-30. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** Commerce Clause and Federalism.
 
@@ -562,7 +562,7 @@ This is the first major test of whether Lopez means federal criminal statutes no
 
 #### Disposition, application and preserved limits
 
-- **Stone's Controlled Judgment or Disposition:** AFFIRM the Fifth Circuit’s judgment.
+- **Stone's Controlled Judgment or Disposition:** AFFIRM the Fifth Circuit’s judgment. Stone writes the Opinion of the Court, whose Commerce rationale is his instrumentality ground stated below: Congress may protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the offense requires proof of the particular vehicle’s interstate connection.
 - **Stone's Remedy and Remand Instruction:** The convictions and consecutive sentences remain in force. No separate remedial instruction is required.
 
 #### Issue 1: Commerce Clause authority
