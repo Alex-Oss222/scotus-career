@@ -6,33 +6,33 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-30.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Affirm the convictions on the stated count-specific grounds; vacate the sentence and remand for lawful consideration of acceptance of responsibility.
-* **Stone's Remedy and Remand Position:** No acquittal, return of weapons or new trial follows. Reconsider sentencing under §3E1.1 without using the preserved legal objection alone to deny credit.
+* **Stone's Controlled Judgment or Disposition:** Affirm the pipe-bomb registration conviction; vacate the affirmance of the machinegun count and remand for application of Core-Preservation Review; vacate the sentence and remand for lawful consideration of acceptance of responsibility; reject the commerce, derivative Tenth Amendment and Ninth Amendment objections. Stone writes the Opinion of the Court.
+* **Stone's Remedy and Remand Position:** No acquittal, return of weapons or new trial follows. On remand the lower courts apply both stages of Core-Preservation Review to the machinegun count in the first instance, and reconsider sentencing under §3E1.1 without using the preserved legal objection alone to deny credit.
 
 ## C. ISSUE POSITIONS
 
-### Issue 1: The governing arms inquiry
+### Issue 1: The governing arms inquiry — Core-Preservation Review
 
 * **Threshold and Merits Reach:** Decide the preserved question within this proceeding; the proposed result is a position, not an entered Court judgment.
-* **Question Stone Resolves:** What protection and review should govern these restrictions?
-* **Stone's Legal Position:** Apply a personal-right, burden-and-fit inquiry; require the strongest justification for a prohibition that destroys ordinary lawful armed self-defense and a substantial, demonstrable fit for other serious burdens.
-* **Stone's Proposed Holding:** Apply a personal-right, burden-and-fit inquiry; require the strongest justification for a prohibition that destroys ordinary lawful armed self-defense and a substantial, demonstrable fit for other serious burdens.
-* **Essential Reasoning and Record Application:** Love establishes the holder and incorporation questions. Hale and Rybar prevent an answer based solely on militia membership or a weapon’s military utility. The next inquiry should examine what protected conduct is foreclosed, how severely, and whether the government’s actual justification fits that burden. Public safety is a weighty interest but cannot be an incantation. A complete prohibition of ordinary arms central to lawful defense requires the most demanding justification; narrower rules concerning dangerous uses, demonstrably dangerous persons or unusually hazardous weapon functions require a burden-sensitive examination of the reasons for their scope. History informs the protected interest and permissible regulation without replacing the constitutional analysis with a closed catalogue. This formulation develops questions the prior cases reserved; it is not attributed to them as an already adopted tier.
-* **Boundary or Reserved Question:** No universal numerical magazine limit, militia exclusion, categorical military-weapon immunity or comprehensive list of prohibited arms.
+* **Question Stone Resolves:** What standard governs a challenge to a restriction on the personal right to keep and bear arms?
+* **Stone's Legal Position:** Core-Preservation Review, in two stages. Stage 1, constitutional coverage: does the law interfere with protected keeping, bearing, acquisition, necessary ammunition, or transportation of arms? Courts answer from constitutional text, history and the Court's precedents, especially Love, Hale and Rybar. Stage 2, constitutional justification: if protected activity is burdened, the court determines how seriously the regulation interferes with it and applies the corresponding standard. A core deprivation — for example, prohibiting ordinary functional handguns in the home or effectively eliminating all lawful public carry — receives strict scrutiny: the government must show a compelling interest, narrow tailoring, and the absence of a comparably effective, materially less restrictive alternative. A substantial regulation receives intermediate scrutiny: an important governmental objective, a substantial relationship between the regulation and that objective, and a restriction that does not unnecessarily or effectively eliminate the protected activity. An incidental regulation that imposes no meaningful interference — routine equipment specifications, administrative procedures and minor requirements that do not materially obstruct the right — receives deferential reasonableness review, though arbitrary administration, discrimination or the cumulative destruction of the right remains unconstitutional. A law's practical operation, not its label, determines its category: a legislature cannot call an effective prohibition a minor safety regulation to obtain deferential review. Alongside the standard stands a categorical rule: government cannot abolish meaningful possession of ordinary functional defensive arms in the home. Judges then apply the governing standard to the facts and evidence of each case.
+* **Stone's Proposed Holding:** Restrictions on the personal arms right are reviewed under Core-Preservation Review: first constitutional coverage, then justification measured by the severity of the restriction's practical burden — strict scrutiny for a core deprivation, intermediate scrutiny for a substantial regulation, and deferential reasonableness review for an incidental regulation — with the categorical rule that government may not abolish meaningful possession of ordinary functional defensive arms in the home.
+* **Essential Reasoning and Record Application:** Love establishes the individual right, its incorporation and necessary acquisition. Hale requires weapon-specific analysis and holds that military usefulness does not automatically establish constitutional immunity. Rybar requires a genuine Second Amendment analysis and forbids disposing of the personal claim through militia affiliation. Those cases identified who holds the right and what may not end the inquiry; they reserved how a court measures a restriction once coverage is shown. Core-Preservation Review supplies that measure. History informs coverage and the permissible scope of regulation without replacing the constitutional analysis with a closed catalogue. Public safety is a weighty interest but cannot be an incantation: the government's actual justification must meet the level the burden calls for. The categorical rule, the standard of review and case-by-case application are three different things that work together.
+* **Boundary or Reserved Question:** This case presents no public-carry licensing system. How permits, safety instruction, examinations, demonstrated proficiency, refresher training and recertification for public carry are classified and justified under Stage 2 is reserved for a case that presents them; the examples above illustrate the categories and are not holdings about any particular law. No universal numerical rule, militia exclusion, categorical military-weapon immunity or comprehensive list of prohibited arms is adopted.
 
 ### Issue 2: These convictions
 
 * **Threshold and Merits Reach:** Decide the preserved question within this proceeding; the proposed result is a position, not an entered Court judgment.
-* **Question Stone Resolves:** Do the actual weapons and restrictions satisfy that inquiry?
-* **Stone's Legal Position:** Sustain the convictions on this admitted record, independently of the rejected militia premise.
-* **Stone's Proposed Holding:** Sustain the convictions on this admitted record, independently of the rejected militia premise.
-* **Essential Reasoning and Record Application:** The completed .223 automatic weapon supplies a concrete application: repeated fire with a single trigger function creates risks of rapid, difficult-to-control discharge beyond ordinary semiautomatic operation. Restricting additions to the civilian automatic-weapon stock directly addresses that characteristic while leaving ordinary defensive arms available. The post-1986 scope and existing-stock exception are part of the burden, not proof that military labels settle the issue. The separate pipe-bomb count enforces registration of explosive destructive devices; registering such devices does not extinguish ordinary defensive keeping. Hale’s registration distinction supports keeping that count separate. Nothing here decides all disassembled receivers or conversion parts: the admitted completed automatic weapon supports the machinegun count without that extension. Rybar’s earlier remand is obeyed by performing the previously missing arms analysis; it does not require the Court to send every adequate record back.
-* **Boundary or Reserved Question:** If the actual plea or charge does not independently establish the completed-weapon basis described, obtain that record before issuing the proposed count-specific mandate.
+* **Question Stone Resolves:** How does Core-Preservation Review apply to the two challenged counts on this record?
+* **Stone's Legal Position:** Sustain the pipe-bomb registration conviction; vacate the affirmance of the machinegun count and remand for the lower courts to apply both stages of Core-Preservation Review in the first instance.
+* **Stone's Proposed Holding:** Registration of explosive destructive devices is an incidental regulation that leaves ordinary defensive keeping untouched; it satisfies deferential reasonableness review, and the registration conviction stands. The machinegun count was affirmed without the arms analysis Love, Hale and Rybar require, so that affirmance is vacated and the count remanded for application of Core-Preservation Review.
+* **Essential Reasoning and Record Application:** The separate pipe-bomb count enforces registration of explosive destructive devices; registering such devices does not extinguish ordinary defensive keeping, and Hale's registration distinction supports keeping that count separate. On the machinegun count, the courts below never performed a genuine Second Amendment analysis. On remand they must decide first whether the completed automatic weapon is a covered arm under Hale's weapon-specific inquiry, without treating military usefulness as settling the question either way, and then classify the post-1986 transfer-and-possession restriction by its practical operation — including that ordinary defensive arms remain available — and apply the corresponding justification. The Court does not decide those questions in the first instance on this record.
+* **Boundary or Reserved Question:** Nothing here decides all disassembled receivers or conversion parts, and no acquittal, return of weapons or new trial follows from the remand.
 
 ### Issue 3: Commerce and Ninth Amendment
 
@@ -58,7 +58,7 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-30.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
@@ -81,10 +81,10 @@
 
 * **Threshold and Merits Reach:** Decide the preserved question within this proceeding; the proposed result is a position, not an entered Court judgment.
 * **Question Stone Resolves:** Does the personal right require an official-use exemption?
-* **Stone's Legal Position:** A qualifying domestic-violence conviction may justify this firearm disability; public employment does not erase that justification.
-* **Stone's Proposed Holding:** A qualifying domestic-violence conviction may justify this firearm disability; public employment does not erase that justification.
+* **Stone's Legal Position:** Under Wright's Core-Preservation Review, the disability covers protected keeping and bearing (Stage 1) and is a substantial regulation of particular persons, reviewed under intermediate scrutiny (Stage 2). A qualifying domestic-violence conviction satisfies that review; public employment does not erase that justification, and the personal right does not compel an official-use exception.
+* **Stone's Proposed Holding:** The domestic-violence disability satisfies intermediate scrutiny under Wright: preventing armed recurrence of domestic violence is an important objective; an adjudicated predicate involving force or a deadly-weapon threat, with conviction-process safeguards and restoration paths, bears a substantial relationship to it; and the restriction reaches only persons within that predicate rather than eliminating the right generally. Armed public employment is not itself protected keeping or bearing, so the Second Amendment does not require extending the official-use exception.
 * **Essential Reasoning and Record Application:** Love, Hale and Rybar require recognition of a personal claim, followed by examination of the restriction. A conviction for domestic violence supplies an adjudicated connection to violent misuse, rather than a speculative inference from unpopular identity. The statute uses force or deadly-weapon elements and includes counsel, jury-waiver and restoration safeguards. Preventing armed recurrence is directly related to that predicate. A service weapon remains accessible to its possessor; labeling its use official does not neutralize the danger. This serious burden therefore has a concrete safety justification. A distinct individual case concerning an improperly classified conviction or unavailable statutory safeguard remains open.
-* **Boundary or Reserved Question:** No presumption that any misdemeanor, mere accusation or unrelated offense permits disarmament.
+* **Boundary or Reserved Question:** No presumption that any misdemeanor, mere accusation or unrelated offense permits disarmament; a disqualification resting on such a predicate would face the same Stage 2 review on its own record.
 
 ### Issue 3: Equal protection and remedy
 
@@ -110,7 +110,7 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-30.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
@@ -136,7 +136,7 @@
 * **Stone's Legal Position:** Reject the preserved classification challenge and sustain this conviction-based disability on the stated grounds; do not adopt a categorical denial of personal arms protection.
 * **Stone's Proposed Holding:** Reject the preserved classification challenge and sustain this conviction-based disability on the stated grounds; do not adopt a categorical denial of personal arms protection.
 * **Essential Reasoning and Record Application:** Love protects persons, but does not render adjudicated violent conduct irrelevant. The statute targets force, attempted force or a deadly-weapon threat in a domestic relationship, with conviction-process protections and specified relief from disability. That connection supports preventing armed recurrence even when state law calls the offense a misdemeanor. Armed employment does not remove the risk. Different restoration systems and the absence of a prior loss of civil rights do not authorize rewriting retained rights as restored rights. Hiley’s specific predicate is treated as qualifying in this action; no unproved new disqualifying conviction is supplied.
-* **Boundary or Reserved Question:** This does not approve disarmament for any misdemeanor, allegation or nonviolent status. A genuinely different as-applied record remains open.
+* **Boundary or Reserved Question:** This does not approve disarmament for any misdemeanor, allegation or nonviolent status. A genuinely different as-applied record remains open. A preserved Second Amendment challenge to this disability would be governed by Wright's Core-Preservation Review, as Fraternal Order of Police applies it; Hiley abandoned that claim, so nothing further about arms protection is decided here.
 
 ### Issue 3: Commerce and the Tenth Amendment
 
