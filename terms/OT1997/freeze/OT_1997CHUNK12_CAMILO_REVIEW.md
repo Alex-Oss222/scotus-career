@@ -20,6 +20,10 @@ Section 4105's reported professional-duty, employee, governmental-entity and mal
 
 Legal review remains confined to properly identified plaintiff-favorable assumptions from the trial record. Extra-record material, factual-sufficiency review, default from missing opposition and new factual findings are excluded. Review identified one wording defect: Holding I initially made clarification mandatory. The assembler changed both copies to permissive clarification, matching the frozen commitment; required exclusion and dismissal limits remain. Final readback confirms the repair. Affirmance establishes no liability, causation, damages, compulsory discovery, hearing or trial, and creates no new costs order.
 
-Form was fixed before assignment. The independently rechecked actual-table baseline is 116: Scalia had 12 counted leads and every other Justice 13. The eight eligible Associates all fall within the minimum-plus-one pool; Stone assigns as a judgment supporter but is ineligible for the full rationale. Scalia's single counted lead produces **117 total, 13 for every Justice**.
+| Record | Counted leads before | Lead author | Eligible authors | Balance pool | Last counted event |
+|---|---:|---|---|---|---|
+| camilo_robles_v_hoyos_merits_1998-07-20.md | 116 | Scalia | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | monge_v_california_merits_1998-06-26.md |
+
+Counts after the final listed decision, including all earlier effective Records: Stone-Zsela 14; Stevens 13; O'Connor 13; Scalia 13; Kennedy 13; Souter 12; Thomas 13; Ginsburg 13; Breyer 13. Total 117.
 
 [The final check receipt](../../../tmp/chunk12_camilo_review_checks.json) confirms the four required labels, eleven level-two Public Projection blocks, unchanged internal/public holdings and six other substantive blocks, no placeholders or public workflow text, and stated research cutoffs. The longest controlling explanation is 237 words; Stone's summary is 281. The six June 25 texts and three normalized June 26 files match their protected review hashes. Coordinated workspace, Render Input and whole-term checks remain with control. No review blocker remains.

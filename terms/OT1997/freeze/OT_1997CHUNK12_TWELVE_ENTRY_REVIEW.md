@@ -4,7 +4,22 @@ All twelve completed entries pass this independent assignment, effective-date an
 
 The [final evidence](../../../tmp/chunk12_twelve_crosscheck.json) revalidates the actual topology excerpts of all 136 earlier Records and the raw hashes of the eleven previously reviewed new Records, then adds the final Brewster table. Counts are reconstructed from those actual tables and the previously independently reviewed legal classifications, never from totals reported by old assignment statements. The [eleven-entry interim evidence](../../../tmp/chunk12_eleven_crosscheck.json) is preserved.
 
-The 136 earlier Records supply 107 signed plenary merits lead credits, 13 excluded own-threshold dispositions, 14 excluded procedural/summary/application/source actions and two excluded per curiam decisions. Aktepe remains excluded despite its filename. Berryman counts once because it independently decides legal entitlement to an existing monetary sanctions award; that form classification was settled before assignment. All twelve new Records each count once. Total after Brewster: **119**, with **O'Connor 14, Breyer 14, and Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg 13 each**.
+| Record | Counted leads before | Lead author | Eligible authors | Balance pool | Last counted event |
+|---|---:|---|---|---|---|
+| bragdon_v_abbott_merits_1998-06-25.md | 106 | Kennedy | Stevens, Kennedy, Souter, Ginsburg, Breyer | Stevens, Kennedy, Souter, Ginsburg, Breyer | united_states_v_bajakajian_merits_1998-06-22.md |
+| clinton_v_city_of_new_york_merits_1998-06-25.md | 107 | Stevens | Stevens, Kennedy, Souter, Thomas, Ginsburg | Stevens, Kennedy, Souter, Thomas, Ginsburg | bragdon_v_abbott_merits_1998-06-25.md |
+| diamondstone_v_macaluso_merits_1998-06-25.md | 108 | Scalia | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | clinton_v_city_of_new_york_merits_1998-06-25.md |
+| eastern_enterprises_v_apfel_merits_1998-06-25.md | 109 | O'Connor | O'Connor, Scalia, Thomas | O'Connor, Scalia, Thomas | diamondstone_v_macaluso_merits_1998-06-25.md |
+| national_endowment_for_the_arts_v_finley_merits_1998-06-25.md | 110 | Breyer | Stevens, O'Connor, Kennedy, Breyer | Stevens, O'Connor, Kennedy, Breyer | eastern_enterprises_v_apfel_merits_1998-06-25.md |
+| united_states_v_balsys_merits_1998-06-25.md | 112 | Kennedy | Stevens, O'Connor, Kennedy, Souter | Stevens, O'Connor, Kennedy, Souter | swidler_berlin_v_united_states_merits_1998-06-25.md |
+| bauchman_v_west_high_school_merits_1998-06-26.md | 113 | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | united_states_v_balsys_merits_1998-06-25.md |
+| burlington_industries_inc_v_ellerth_merits_1998-06-26.md | 114 | Stone-Zsela | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | bauchman_v_west_high_school_merits_1998-06-26.md |
+| monge_v_california_merits_1998-06-26.md | 115 | Thomas | Stone-Zsela, O'Connor, Kennedy, Thomas, Breyer | O'Connor, Kennedy, Thomas, Breyer | burlington_industries_inc_v_ellerth_merits_1998-06-26.md |
+| camilo_robles_v_hoyos_merits_1998-07-20.md | 116 | Scalia | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | monge_v_california_merits_1998-06-26.md |
+| berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md | 117 | O'Connor | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | camilo_robles_v_hoyos_merits_1998-07-20.md |
+| brewster_v_board_of_education_merits_1998-08-17.md | 118 | Breyer | Stevens, Kennedy, Souter, Ginsburg, Breyer | Stevens, Kennedy, Souter, Ginsburg, Breyer | berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md |
+
+Counts after the final listed decision, including all earlier effective Records: Stone-Zsela 14; Stevens 13; O'Connor 14; Scalia 13; Kennedy 13; Souter 12; Thomas 13; Ginsburg 13; Breyer 14. Total 119.
 
 | New event | Effective date | Actual count before | Lead author | Count after |
 |---|---|---:|---|---:|

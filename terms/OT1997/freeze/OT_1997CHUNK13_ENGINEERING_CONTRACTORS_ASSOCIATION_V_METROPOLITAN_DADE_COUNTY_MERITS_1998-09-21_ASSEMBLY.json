@@ -1,11 +1,11 @@
 {
   "record": "terms/OT1997/records/engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md",
-  "sha256": "613094df93a9343ed504976c84589562420fdfab5f3178b233ccfd3f06571bf8",
-  "public_projection_sha256": "37287f53515a9b494ab09035ddfd66427cf610689ae206cfa44950198973ee54",
-  "author": "O'Connor",
+  "sha256": "16c314d7721d813a54e6fc87b80412a4d42613f3f16b92d5589d6ac4f6c1d331",
+  "public_projection_sha256": "38ebb36c8003767bbf7b12696046fa24a07da88797955cd808a662ca662502ea",
+  "author": "Kennedy",
   "eleven_blocks": true,
   "holdings_identity": true,
   "local_links": true,
   "maximum_explanation_words": 189,
-  "status": "provisional pending parent integration and term validation"
+  "status": "Completed Record and generated public projection validated."
 }

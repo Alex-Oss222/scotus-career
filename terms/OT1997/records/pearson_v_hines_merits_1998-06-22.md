@@ -23,9 +23,13 @@ The October 21, 2026 approved core requires affirmance of Pearson’s retaliatio
 
 Form fixed first: one signed opinion resolves the substantive retaliation claim and the actual jury judgment on the authorized plenary merits submission. No argument date is invented. This is a counted merits opinion under §8, with a settled unanimous rule and no separate-writing function. No proposition is divided or case combined to affect assignment.
 
-Before-assignment fresh recount after the durable Caron and Gebser Records: Stone-Zsela 12; Stevens 11; O'Connor 12; Scalia 11; Kennedy 11; Souter 12; Thomas 11; Ginsburg 11; Breyer 12. Last counted event: Gebser v. Lago Vista Independent School District, June 22, 1998. There are 103 counted opinions/credits. Pearson precedes Pennsylvania Board in the required alphabetical order. All nine are eligible for the full opinion, minimum 11, and all nine fall within the minimum-plus-one pool.
+Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 13; Stevens 11; O'Connor 12; Scalia 11; Kennedy 11; Souter 11; Thomas 11; Ginsburg 11; Breyer 12. Total counted leads: 103. Last counted event: Gebser v. Lago Vista Independent School District, No. 96-1866, 1998-06-22 (Stone-Zsela). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
 
-Chief Justice Stone-Zsela assigns to Ginsburg for fit. Her Kimberlin opinion established the competent-circumstantial-proof distinction now applied to this jury record; her Crawford-El join carries the actual same-decision burden without a special motive quantum. Stone’s authorship of Crawford-El makes him the strongest alternative, but Ginsburg can state the settled rule and preserve the postverdict posture equally well with the lower count. Stevens’s grievance/retaliation joins are also compatible. No expansion accommodation or vote change is needed. The opinion adds one lead credit for Ginsburg.
+Eligible complete-lead authors: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 11. Balance pool: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
+
+Pearson precedes Pennsylvania Board in the required alphabetical order.
+
+Chief Justice Stone-Zsela assigns to Ginsburg for fit. Her Kimberlin opinion established the competent-circumstantial-proof distinction now applied to this jury record; her Crawford-El join carries the actual same-decision burden without a special motive quantum. Stevens’s grievance/retaliation joins are also compatible. No expansion accommodation or vote change is needed. The opinion adds one lead credit for Ginsburg.
 
 ## Judgment and opinion topology
 

@@ -37,9 +37,9 @@ The clarification requests remain unanswered at this validation. Elapsed time wa
 
 ## Assignment and validation results
 
-Final census: 130 counted signed merits leads. Jordahl is a signed jurisdictional decision and adds no merits credit. Lucas has one complete signed lead: O’Connor alone could carry every governing portion, and the separate component assignment authorities were retained. Separate writings and stopped matters add no count.
+Final census: 133 counted signed merits leads. Jordahl is a signed jurisdictional decision and adds no merits credit. Lucas has one complete signed lead: O’Connor alone could carry every governing portion, and the separate component assignment authorities were retained. Separate writings and stopped matters add no count.
 
-Counts: Stone-Zsela 13; Stevens 15; O'Connor 16; Scalia 14; Kennedy 14; Souter 15; Thomas 14; Ginsburg 14; Breyer 15.
+Counts: Stone-Zsela 14; Stevens 15; O'Connor 16; Scalia 14; Kennedy 15; Souter 14; Thomas 15; Ginsburg 15; Breyer 15.
 
 The non-Git portion of check_term passed with zero warnings. Git commit-object verification was explicitly skipped for eighteen existing references, and ledger metadata was preserved without Git calls. The operator retains repository verification and commitment.
 

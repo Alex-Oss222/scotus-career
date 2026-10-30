@@ -132,21 +132,11 @@ Research cutoff: June 25, 1998. Historical reported facts, prior effective law a
 
 Before counts, the actual grounds require one signed Court opinion with disability, common objective-risk and special-public-health/source-remand portions. Stevens, Kennedy, Souter, Ginsburg and Breyer can deliver every portion. Stone joins the first two but not the distinct special-weight/source ground, and O'Connor, Scalia and Thomas oppose disability and the special-weight rationale. The Chief is in both judgment coalitions and assigns. Separate writings preserve Stone's exact method scope, Stevens/Breyer's affirmance preference despite full remand joins, Ginsburg's broader observations, O'Connor's classification disagreement and Scalia/Thomas's two disability objections with the three Associates' distinct risk method. No author is split merely to affect counts.
 
-**Assignment recount:** Recounted immediately before this assignment from actual current-term lead-opinion tables, through the inventory rebuilt by `python -B tmp/chunk12_assignment_inventory.py`; prior numeric assignment statements are not sources. The thirteen signed threshold exclusions, including Aktepe, remain excluded under their actual forms.
+Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 13; Stevens 11; O'Connor 12; Scalia 11; Kennedy 11; Souter 12; Thomas 12; Ginsburg 12; Breyer 12. Total counted leads: 106. Last counted event: United States v. Bajakajian; No. 96-1487, 1998-06-22 (Thomas). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
 
-| Justice | Count before assignment |
-|---|---:|
-| Stone-Zsela | 12 |
-| Stevens | 11 |
-| O'Connor | 12 |
-| Scalia | 11 |
-| Kennedy | 11 |
-| Souter | 13 |
-| Thomas | 12 |
-| Ginsburg | 12 |
-| Breyer | 12 |
+Eligible complete-lead authors: Stevens, Kennedy, Souter, Ginsburg, Breyer. Lowest eligible count: 11. Balance pool: Stevens, Kennedy, Souter, Ginsburg, Breyer. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
 
-Total credits: 106. Last counted event: United States v. Bajakajian; No. 96-1487. 1998-06-22 (united_states_v_bajakajian_merits_1998-06-22.md). Eligible full-lead authors: Stevens, Kennedy, Souter, Ginsburg, Breyer. Lowest eligible count: 11. Balance pool (minimum plus one): Stevens, Kennedy, Ginsburg, Breyer. Chosen author: Kennedy. Kennedy is selected for fit: the opinion must separate the three statutory disability elements and distinguish a source's stated proposition from a further scientific inference, work his actual Joiner opinion supports. Stevens is an equally eligible equal-count alternative and his preference for affirmance is not an authorship bar; Kennedy's full support for this precise source-based return offers the clearer fit. No new accommodation or vote change is claimed.
+Chosen author: Kennedy. Kennedy is selected for fit: the opinion must separate the three statutory disability elements and distinguish a source's stated proposition from a further scientific inference, work his actual Joiner opinion supports. No new accommodation or vote change is claimed.
 
 | Justice | Final ground and reconciliation |
 |---|---|

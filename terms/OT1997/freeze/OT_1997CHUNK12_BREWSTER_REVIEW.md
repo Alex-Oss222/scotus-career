@@ -16,7 +16,11 @@ The speech holding confronts the close relationship, reasonable forecasts and re
 
 December/January conduct remains distinct from later supported acts. NTEU's February 22, 1995 date and prospective-restraint scope are preserved; later cases provide no earlier notice. The legal/factual appellate boundary, unadjudicated personal-evidence alternatives, excluded union/state/failure-to-train claims and separate capacities remain intact. No liability, damages, repayment, reinstatement, compulsory trial, discovery or hearing is ordered.
 
-The signed plenary merits form was established before counting. A fresh recount from actual earlier opinion-table evidence gives 118 before Brewster: O'Connor 14 and every other Justice 13. Stevens assigns the exact Furuno reversal and both salary affirmances; the Chief assigns the other-individual vacatur. The five complete-rationale eligible authors all have 13 and form the pool. Breyer's combined review/process fit is stated against Souter's strongest alternative. This one lead gives 119: O'Connor and Breyer 14, all seven others 13.
+| Record | Counted leads before | Lead author | Eligible authors | Balance pool | Last counted event |
+|---|---:|---|---|---|---|
+| brewster_v_board_of_education_merits_1998-08-17.md | 118 | Breyer | Stevens, Kennedy, Souter, Ginsburg, Breyer | Stevens, Kennedy, Souter, Ginsburg, Breyer | berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md |
+
+Counts after the final listed decision, including all earlier effective Records: Stone-Zsela 14; Stevens 13; O'Connor 14; Scalia 13; Kennedy 13; Souter 12; Thomas 13; Ginsburg 13; Breyer 14. Total 119.
 
 Final checks establish the four opening labels, eleven exact level-two public blocks, exact internal/public Holdings identity, and eight public substantive blocks reproduced internally. The five controlling explanations contain 186, 192, 233, 282 and 210 words. Local links resolve; no placeholder or internal workflow disclosure was found in the Public Projection. All eleven earlier reviewed raw hashes remain unchanged. Detailed evidence is [the twelve-entry check](../../../tmp/chunk12_twelve_crosscheck.json).
 

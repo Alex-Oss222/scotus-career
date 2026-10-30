@@ -1,7 +1,7 @@
 **Case and dockets:** Newton County Wildlife Association v. Rogers; No. 97-774; Eighth Circuit Nos. 96-1994 and 96-3463.
 **Event and date:** Plenary merits decision on submission, 1998-09-28; October Term 1997, chunk 13.
 **Result:** Completed-plan request and superseded preliminary MBTA interval disposed of as moot with limited vacatur, 9–0; actual MBTA-claim dismissal vacated and remanded, 5–4.
-**Version / lineage:** Original decision; completes the existing event after the assembly stop. Frozen commitments and final reconciliation from user-identified commit 03644ede are unchanged; the revised Stone source is the user-identified f5ec2f74 approval. These provenance references await operator verification; no Git command was run.
+**Version / lineage:** Original decision.
 
 ## Decision kernel
 
@@ -33,15 +33,17 @@ The mechanically refreshed [approved scoped supplement](../runtime/chunk13-contr
 
 Form is fixed on legal grounds before the census: one signed lead after plenary merits submission, with Parts I–III resolving the common threshold and jurisdictional questions and Part IV stating the five-Justice statutory remand. A single author can join every governing proposition, so there is no reason to divide authorship. Stone is in every judgment coalition and assigns. Full-lead eligibility is Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; the other four disagree with the necessary statutory remand. Stone's eligibility rests on his approved express grounds, not fallback.
 
-The fresh [actual-opinion-table census](../freeze/OT_1997CHUNK13_REASSEMBLY_NEWTON_RECOUNT.json) counts 130 signed lead opinions before this assignment: Stone-Zsela 13; Stevens 15; O'Connor 17; Scalia 14; Kennedy 14; Souter 15; Thomas 13; Ginsburg 14; Breyer 15. The last counted event is Lucas v. Johnson, September 28, 1998. The recount uses the actual opinion tables and qualifying forms, including the Kentucky and Ino Ino Records written earlier in this Run, rather than earlier assignment tallies. The later-recorded September 14 Kentucky opinion enters this count without reopening any completed assignment. Same-day events are counted in case-name order; their substantive law remains a common entering baseline.
+Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 14; Stevens 15; O'Connor 16; Scalia 14; Kennedy 15; Souter 14; Thomas 13; Ginsburg 14; Breyer 15. Total counted leads: 130. Last counted event: Lucas v. Johnson; Fifth Circuit No. 96-10389; 132 F.3d 1069, 1998-09-28 (O'Connor). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
 
-The complete lead's eligible authors are Stone-Zsela 13, Stevens 15, Souter 15, Ginsburg 14 and Breyer 15. The lowest eligible count is 13; the balance pool consists only of Stone-Zsela and Ginsburg. Stevens, Souter and Breyer remain eligible but outside that pool. The dissenting four cannot carry Part IV, regardless of their counts.
+Eligible complete-lead authors: Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. Lowest eligible count: 14. Balance pool: Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
 
 Stone assigns the single lead to Ginsburg on fit. Her Swint opinion identifies the precise difference between independently answerable liability and genuinely necessary connected review; her frozen Newton analysis identifies the entered same-ground dismissal, separate appeal and absence of additional factual adjudication that satisfy this confined application. That gives her a concrete advantage in stating the review boundary accepted by all nine while keeping the five-Justice APA remand separate from an ultimate coverage holding. Her Bennett and Sweet Home joins also support retaining the distinct statutory channel, actual injury inquiry and limits on relief without importing ESA coverage.
 
-Stone is the strongest alternative in the lawful pool, with the lower count. His approved distinctions among authority, sovereign punishment, APA review and remedy support the whole opinion and would permit self-assignment. Ginsburg's precise prior treatment of the necessary-review reservation and her case-specific application offer a meaningful advantage in the opinion's central jurisdictional work, so the two are not treated as equally fitted and Stone's lower count is not ignored. No unresolved formulation objection requires expansion assignment. The frozen agreement already permits Ginsburg's opinion, and authorship is not used to enlarge any join.
+Stone's approved distinctions among authority, sovereign punishment, APA review and remedy support the whole opinion and would permit self-assignment. No unresolved formulation objection requires expansion assignment. The frozen agreement already permits Ginsburg's opinion, and authorship is not used to enlarge any join.
 
 O'Connor's separate opinion states the shared sovereign-agency permit-coverage disagreement with the other three dissenters. Their own frozen grounds support that common rationale; Scalia's and Thomas's concerns about statutory taking language are retained as limits rather than transformed into an incidental-killing holding. Stone's concurrence performs distinct work by identifying why his criminal-coverage view is compatible with, but does not decide, the APA remand. There is no invented circulation history, changed Associate commitment, lost coalition or reassignment.
+
+Stone is the strongest equal-count alternative, with a complete approved position distinguishing authority, sovereign punishment, APA review and relief. Ginsburg's Swint authorship supplies the direct connected-review fit without adopting an ultimate statutory-coverage result.
 
 ### Final compatibility and arithmetic
 

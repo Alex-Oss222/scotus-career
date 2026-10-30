@@ -428,10 +428,10 @@ Each injunction remains limited to the challenged program. Lawful neutral outrea
 
 | Writing | Author | Joined by | Scope and judgment relationship |
 |---|---|---|---|
-| Opinion of the Court, Parts I–III | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, subject to Scalia's Part II reservation | Review and standing; local strict scrutiny; common racial tailoring ground supporting BBE/HBE affirmance |
-| Same opinion, Part I limited join | O'Connor | Stone-Zsela | Equal-competition injury and separate factual/legal review only |
-| Same opinion, Part IV | O'Connor | Stone-Zsela, Scalia, Kennedy and Thomas in full; Stevens, Souter, Ginsburg and Breyer only as to the stated intermediate standard | WBE legal standard has nine votes; application and affirmance have five |
-| Same opinion, Part V | O'Connor | All seven other Associates for BBE/HBE; Stone-Zsela, Scalia, Kennedy and Thomas for WBE | Program-specific permanent relief and limits |
+| Opinion of the Court, Parts I–III | Kennedy | Stevens, Scalia, O'Connor, Souter, Thomas, Ginsburg and Breyer, subject to Scalia's Part II reservation | Review and standing; local strict scrutiny; common racial tailoring ground supporting BBE/HBE affirmance |
+| Same opinion, Part I limited join | Kennedy | Stone-Zsela | Equal-competition injury and separate factual/legal review only |
+| Same opinion, Part IV | Kennedy | Stone-Zsela, Scalia, O'Connor and Thomas in full; Stevens, Souter, Ginsburg and Breyer only as to the stated intermediate standard | WBE legal standard has nine votes; application and affirmance have five |
+| Same opinion, Part V | Kennedy | All seven other Associates for BBE/HBE; Stone-Zsela, Scalia, O'Connor and Thomas for WBE | Program-specific permanent relief and limits |
 | Concurrence | O'Connor | Scalia, Kennedy and Thomas | Additional noncontrolling racial evidentiary-insufficiency ground |
 | Concurrence in part and dissent in part | Stevens | Souter, Ginsburg and Breyer | Racial tailoring affirmance; WBE vacatur/remand; racial evidentiary sufficiency reserved |
 | Concurrence in part and dissent in part | Stone-Zsela | No other Justice | WBE affirmance; proposed replacement of local racial rule and bounded racial remand |
@@ -444,7 +444,7 @@ Scalia joins the controlling strict-scrutiny requirement and actual racial tailo
 
 **Holding and operative rule:** Regular bidders facing a supported likelihood of exclusion from equal competition have an injury even without proving that they would win a contract. The associations may seek common prospective relief where their members possess standing, the interest is germane, and the claims and relief do not require individual participation; facts may be stipulated, but jurisdiction may not.
 
-**Authority:** Part I of O'Connor's opinion has all eight Associates. Stone-Zsela joins the equal-competition injury proposition and the distinction between subsidiary factual review and constitutional legal review; he does not add a distinct associational-standing rationale.
+**Authority:** Part I of Kennedy's opinion has all eight Associates. Stone-Zsela joins the equal-competition injury proposition and the distinction between subsidiary factual review and constitutional legal review; he does not add a distinct associational-standing rationale.
 
 **Controlling explanation:** Northeastern Florida Chapter, Associated General Contractors v. Jacksonville identifies the denial of equal bidding opportunity as the injury. United Food & Commercial Workers Union Local 751 v. Brown Group preserves the association requirements and their distinct constitutional and prudential roles. The associations' regularly bidding members and stipulated likely future exclusion establish the necessary injury for all three programs, and the common justification challenge permits common prospective relief. No lost award or injury from every hypothetical contract mechanism is required. This does not confer standing to litigate every distinct operational challenge. Under §1254(1), the Court reviews the final appellate judgment. Subsidiary historical findings receive clear-error review; constitutional sufficiency, the level of scrutiny and remedial fit require independent legal assessment.
 

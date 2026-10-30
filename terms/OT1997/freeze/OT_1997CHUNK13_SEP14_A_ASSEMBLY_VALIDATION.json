@@ -8,8 +8,8 @@
   "records": [
     {
       "record": "terms/OT1997/records/clifton_v_federal_election_commission_merits_1998-09-14.md",
-      "sha256": "92884396da3c6ab380bd5a2782cf3f053d3826e9cc3c9b4c911ee9730483d15d",
-      "public_projection_sha256": "0120d965581330542c7c52ccb7076327c80408a2c660ed80aa6cd35cdfb6ef99",
+      "sha256": "c2f32e63dcd4aee904e6830d0e2d8225b785fb8ee3dbd2c84f233b0a00ee16d6",
+      "public_projection_sha256": "1a435590e8f5571f45dfcd2315e1f347d384b1d66cb55fe414e8278bf4e8adc6",
       "author": "Souter",
       "assignment_sequence": 1,
       "prior_counted_leads": 119,
@@ -30,8 +30,8 @@
     },
     {
       "record": "terms/OT1997/records/federal_election_commission_v_maine_right_to_life_committee_merits_1998-09-14.md",
-      "sha256": "43712ab0c5f6d98b81405a8deee3d284dd190dd8c62c9d726bb37961c654136a",
-      "public_projection_sha256": "daea67a0ec440d0529752ee69a6f46438ccf27edb90dbd0135f947ce2586b1ce",
+      "sha256": "babc2fe0ca079ccb07d37d832a1aaf6a1216af9291d7ec1b160cd7cdb232e94a",
+      "public_projection_sha256": "6ee7df3801e47a7fb9f94472ff6d6eb73c8740e44a3cdbf4f5c09482e7b26bdc",
       "author": "Stevens",
       "assignment_sequence": 2,
       "prior_counted_leads": 120,
@@ -52,8 +52,8 @@
     },
     {
       "record": "terms/OT1997/records/federal_election_commission_v_williams_merits_1998-09-14.md",
-      "sha256": "4ad72021460cd2ffdf05410b3b03c832f624ff4c8c1fa4873866f2a5aed9d6ab",
-      "public_projection_sha256": "5ad00f2533a2c8aa91f7a0e854cf2d495746fe23f61849ba5c089b675d71dd3b",
+      "sha256": "bb5e3fa88b1abf55c84f4a5c2c4bba97e99318160529ae466821832083ac270f",
+      "public_projection_sha256": "d62963ebe7c3a6796f31500aa5167e281bb920e0b7ecebbcadaf2150bfeb58fb",
       "author": "Breyer",
       "assignment_sequence": 3,
       "prior_counted_leads": 121,
@@ -74,8 +74,8 @@
     },
     {
       "record": "terms/OT1997/records/hadix_v_johnson_merits_1998-09-14.md",
-      "sha256": "69019f4452e00f18cda87aff937755aa3642edb5de4e9f2e1d759505f456084f",
-      "public_projection_sha256": "72622d89bff50a2954f821487a272aac8c17f1cf079b926efbdc2284e7a7ec81",
+      "sha256": "907f637647cc2605dd10b74d37c96f823d145ec2112a921ec16a7cf16b4ca7dc",
+      "public_projection_sha256": "503b842353a04b1f3a63d1eb1464c1f194e9be803276e19bfdbd17e23fa064d0",
       "author": "Scalia",
       "assignment_sequence": 4,
       "prior_counted_leads": 122,

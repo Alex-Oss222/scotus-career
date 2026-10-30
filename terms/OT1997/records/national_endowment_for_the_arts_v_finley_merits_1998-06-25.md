@@ -100,21 +100,13 @@ Research cutoff: June 25, 1998. Historical reported facts, prior effective law a
 
 Before counting, the legal grounds require one signed Court opinion with a narrow First Amendment part, a distinct supplementary spending discussion and a vagueness part; a separate Scalia/Thomas judgment concurrence; and a dissent with separate First Amendment and vagueness sections. Ginsburg excludes the spending discussion. Souter joins only the Court's narrow vagueness component and dissents on First Amendment invalidity. Stone joins only the dissent's First Amendment component and does not reach vagueness. Stevens, the senior Associate in the reversing coalition, assigns; the Chief's balance requirement does not bind this assignment. Stevens, O'Connor, Kennedy and Breyer can deliver every lead portion; Ginsburg cannot carry the supplementary spending discussion and Scalia/Thomas cannot carry the narrow grounds. The form reflects substantive partial joins, not count manipulation.
 
-**Assignment recount:** Recounted immediately before this assignment from actual current-term lead-opinion tables, through the inventory rebuilt by `python -B tmp/chunk12_assignment_inventory.py`; prior numeric assignment statements are not sources. The thirteen signed threshold exclusions, including Aktepe, remain excluded under their actual forms.
+Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 13; Stevens 12; O'Connor 13; Scalia 12; Kennedy 12; Souter 12; Thomas 12; Ginsburg 12; Breyer 12. Total counted leads: 110. Last counted event: Eastern Enterprises v. Apfel, No. 97-42, 1998-06-25 (O'Connor). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
 
-| Justice | Count before assignment |
-|---|---:|
-| Stone-Zsela | 12 |
-| Stevens | 12 |
-| O'Connor | 13 |
-| Scalia | 12 |
-| Kennedy | 12 |
-| Souter | 13 |
-| Thomas | 12 |
-| Ginsburg | 12 |
-| Breyer | 12 |
+Eligible complete-lead authors: Stevens, O'Connor, Kennedy, Breyer. Lowest eligible count: 12. Informational balance pool: Stevens, O'Connor, Kennedy, Breyer. The Associate assignment is not bound by the Chief's balance policy.
 
-Total credits: 110. Last counted event: Eastern Enterprises v. Apfel, No. 97-42. 1998-06-25 (eastern_enterprises_v_apfel_merits_1998-06-25.md). Eligible full-lead authors: Stevens, O'Connor, Kennedy, Breyer. Lowest eligible count: 12. Balance pool (minimum plus one): Stevens, O'Connor, Kennedy, Breyer. Chosen author: Breyer. Stevens assigns to Breyer. The assignment is by the senior Associate in the reversing coalition, so the Chief's balance rule does not bind it; the reported balance pool is informational. Breyer's actual Denver Area contextual analysis and Forbes join support explaining selective program judgments while retaining safeguards for concrete coercion and viewpoint discrimination. O'Connor is a full-scope alternative with direct program-boundary experience, but Breyer's complete reconciled position can express the common limited construction and artistic-imprecision rationale without broadening it. No historical author is imported and no new join is attributed to Ginsburg.
+Stevens, the senior Associate in the reversing coalition, assigns the opinion to Breyer. The numerical balance pool is informational because the Chief is outside that coalition.
+
+Chosen author: Breyer. Stevens assigns to Breyer. Breyer's actual Denver Area contextual analysis and Forbes join support explaining selective program judgments while retaining safeguards for concrete coercion and viewpoint discrimination. O'Connor is a full-scope alternative with direct program-boundary experience, but Breyer's complete reconciled position can express the common limited construction and artistic-imprecision rationale without broadening it. No historical author is imported and no new join is attributed to Ginsburg.
 
 | Justice | Final ground, join limit and reconciliation |
 |---|---|

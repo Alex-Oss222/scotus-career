@@ -1,0 +1,53 @@
+{
+  "event": "National Association of Home Builders v. Babbitt, 1998-06-08",
+  "status": "Completed; vacated and remanded, 5-4",
+  "checks": {
+    "original_dates_and_identity": true,
+    "later_results_preserved": true,
+    "render_order_and_unaffected_entries": true,
+    "generated_projection_identity": true,
+    "original_line_endings": true,
+    "frozen_home_builders_starting_positions": true,
+    "git_object_existence": "Not run; operator verification under no-Git instruction"
+  },
+  "errors": [],
+  "term_checks": {
+    "OT1997": {
+      "exit_code": 0,
+      "output": "Git-object existence check omitted under the no-Git instruction; operator verification remains pending.\r\nOK: OT1997; 0 warning(s)\r\n"
+    },
+    "OT1998": {
+      "exit_code": 0,
+      "output": "Git-object existence check omitted under the no-Git instruction; operator verification remains pending.\r\nOK: OT1998; 0 warning(s)\r\n"
+    }
+  },
+  "protected_roots_task_time_writes": [],
+  "record_count_in_scope": 49,
+  "public_entries": [
+    "National Association of Home Builders v. Babbitt, D.C. Circuit No. 96-5354",
+    "Engineering Contractors Association of South Florida v. Metropolitan Dade County, Nos. 97-1115 and 97-1160",
+    "Securities and Exchange Commission v. First Jersey Securities, Inc., No. 96-1862"
+  ],
+  "regenerated_chunks": [
+    "terms/OT1997/render-inputs/OT_1997CHUNK10.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK11.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK12.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK13.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK9.md",
+    "terms/OT1998/render-inputs/OT_1998CHUNK1.md",
+    "terms/OT1998/render-inputs/OT_1998CHUNK10.md",
+    "terms/OT1998/render-inputs/OT_1998CHUNK4.md"
+  ],
+  "OT1997_final_author_counts": {
+    "Stone-Zsela": 14,
+    "Stevens": 15,
+    "O'Connor": 16,
+    "Scalia": 14,
+    "Kennedy": 15,
+    "Souter": 14,
+    "Thomas": 15,
+    "Ginsburg": 15,
+    "Breyer": 15
+  },
+  "file_inventory": "HOME_BUILDERS_OPERATOR_SUMMARY.md"
+}

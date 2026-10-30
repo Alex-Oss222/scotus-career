@@ -628,9 +628,9 @@ Completed Wright and FOP create no securities-law change. No unentered event is 
 | Stevens | Affirm on the triable knowing implied-representation theory; his Central Bank and O'Hagan writings and First Jersey join require actual deception and culpability. | Private reliance, causation and loss remain separate; no fiduciary unfairness alone. |
 | O'Connor | Same, under her O'Hagan and First Jersey joins. | Her Central Bank disagreement is not converted into an assistance join; prove contemporary feasibility and avoid later-rule retroactivity. |
 | Scalia | Same, under his First Jersey join despite his distinct O'Hagan position. | Identify this defendant's knowing false undertaking to its customer; status, worse price or a newly announced duty alone are insufficient. No general recklessness rule. |
-| Kennedy | Same, under his First Jersey opinion and O'Hagan join. | SEC findings and enforcement rules cannot establish these customers' reliance, injury or damages. |
+| Kennedy | Same, under his First Jersey and O'Hagan joins. | SEC findings and enforcement rules cannot establish these customers' reliance, injury or damages. |
 | Souter | Same, under Central Bank, O'Hagan and First Jersey joins. | Custom is relevant evidence, neither conclusive immunity nor conclusive culpability. |
-| Thomas | Same, under his First Jersey join; direct customer representation distinguishes the broader theories he rejected elsewhere. | Preserve the knowing-deception sufficient ground; no expansion of accessory or source-deception liability and no primary-recklessness holding. |
+| Thomas | Same, under his First Jersey Court opinion; direct customer representation distinguishes the broader theories he rejected elsewhere. | Preserve the knowing-deception sufficient ground; no expansion of accessory or source-deception liability and no primary-recklessness holding. |
 | Ginsburg | Same, under Central Bank, O'Hagan and First Jersey joins. | Customer instructions and disclosed limits matter; a genuine dispute is not a liability or loss finding. |
 | Breyer | Same, under O'Hagan and First Jersey joins. | Actual market conditions matter, but future technology cannot prove past availability. No universal all-market search requirement. |
 

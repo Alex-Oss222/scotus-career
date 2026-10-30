@@ -1,72 +1,32 @@
 {
-  "scope": "National Association of Home Builders v. Babbitt, existing 1998-06-08 event",
+  "scope": "Home Builders, June 8, 1998, and effective dependencies through OT1998",
   "passed": true,
-  "existing_files_snapshotted": 155,
-  "changed_existing_files": [
-    "terms/OT1997/workspace/continuity.md",
-    "terms/OT1997/workspace/ledger.md",
-    "terms/OT1997/workspace/manifest.md",
-    "terms/OT1997/workspace/neutral-projection.md",
-    "terms/OT1997/render-inputs/OT_1997CHUNK10.md"
+  "checks": {
+    "original_dates_and_identity": true,
+    "later_results_preserved": true,
+    "render_order_and_unaffected_entries": true,
+    "generated_projection_identity": true,
+    "original_line_endings": true,
+    "frozen_home_builders_starting_positions": true,
+    "git_object_existence": "Not run; operator verification under no-Git instruction"
+  },
+  "public_entries": [
+    "National Association of Home Builders v. Babbitt, D.C. Circuit No. 96-5354",
+    "Engineering Contractors Association of South Florida v. Metropolitan Dade County, Nos. 97-1115 and 97-1160",
+    "Securities and Exchange Commission v. First Jersey Securities, Inc., No. 96-1862"
   ],
-  "existing_records_unchanged": 123,
-  "frozen_handoffs_and_stop_unchanged": true,
-  "brief_case_list_runtime_and_existing_renders_unchanged": true,
-  "other_chunk10_render_input_entries_byte_identical": 11,
-  "render_input_order": [
-    "cass_county_v_leech_lake_band_merits_1998-06-08.md",
-    "dooley_v_korean_air_lines_merits_1998-06-08.md",
-    "geissal_v_moore_medical_merits_1998-06-08.md",
-    "hopkins_v_reeves_merits_1998-06-08.md",
-    "muscarello_cleveland_v_united_states_merits_1998-06-08.md",
-    "national_association_of_home_builders_v_babbitt_merits_1998-06-08.md",
-    "new_mexico_ex_rel_ortiz_v_reed_summary_1998-06-08.md",
-    "united_states_v_bestfoods_merits_1998-06-08.md",
-    "judicial_council_v_mcbryde_merits_1998-06-10.md",
-    "ringuette_v_city_of_fall_river_merits_1998-06-11.md",
-    "at_and_t_v_central_office_telephone_inc_merits_1998-06-15.md",
-    "bryan_v_united_states_merits_1998-06-15.md"
+  "regenerated_chunks": [
+    "terms/OT1997/render-inputs/OT_1997CHUNK10.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK11.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK12.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK13.md",
+    "terms/OT1997/render-inputs/OT_1997CHUNK9.md",
+    "terms/OT1998/render-inputs/OT_1998CHUNK1.md",
+    "terms/OT1998/render-inputs/OT_1998CHUNK10.md",
+    "terms/OT1998/render-inputs/OT_1998CHUNK4.md"
   ],
-  "public_projection_identity": true,
-  "public_headings": [
-    "Event",
-    "Participation",
-    "Public Action",
-    "Judgment & Remedy",
-    "Opinion Topology",
-    "Holdings",
-    "Precedent Treatment",
-    "Law After Decision",
-    "Separate Writings",
-    "Procedure After Action",
-    "Source Notes"
-  ],
-  "controlling_explanation_word_count": 280,
-  "manifest_rows": 160,
-  "manifest_status_cells_changed": 1,
-  "completed_scheduled": 121,
-  "open_scheduled": 39,
-  "records": 124,
-  "court_action_records": 123,
-  "admitted_source_records": 1,
-  "existing_ledger_bytes_preserved": true,
-  "ledger_rows": 124,
-  "affirming": [
-    "Stone-Zsela",
-    "Stevens",
-    "Souter",
-    "Ginsburg",
-    "Breyer"
-  ],
-  "dissenting": [
-    "O'Connor",
-    "Scalia",
-    "Kennedy",
-    "Thomas"
-  ],
-  "local_links_checked": 30,
-  "current_standards_match_frozen_law": true,
-  "workspace_copies_of_public_blocks": true,
-  "git_commands_run": false,
-  "unperformed": "Git provenance, commit-reference existence and repository commit reserved to operator"
+  "unaffected_public_entries_byte_identical": true,
+  "event_dates_preserved": true,
+  "later_results_preserved": true,
+  "file_inventory": "../audit/HOME_BUILDERS_OPERATOR_SUMMARY.md"
 }

@@ -16,9 +16,9 @@ The census reads actual current-term opinion tables, with recorded forms determi
 
 | New assignment | Prior counted leads | Eligible complete-opinion pool | Last counted event |
 |---|---:|---|---|
-| Kentucky | 123 | O'Connor 14; Souter 14; Breyer 15 | Hadix, September 14 |
-| Ino Ino | 128 | Scalia 14; Kennedy 13; Thomas 13; Ginsburg 14 | Libertarian Party of Illinois, September 21 |
-| Newton County | 130 | Stone-Zsela 13; Ginsburg 14 | Lucas, September 28 |
+| Kentucky | 123 | O'Connor 14; Souter 13 | hadix_v_johnson_merits_1998-09-14.md |
+| Ino Ino | 128 | Scalia 14; Kennedy 14; Souter 14; Thomas 13; Ginsburg 14 | libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md |
+| Newton County | 130 | Stone-Zsela 14; Stevens 15; Souter 14; Ginsburg 14; Breyer 15 | lucas_v_johnson_merits_1998-09-28.md |
 
 The Records state each Justice's full count and the legal fit supporting each selection. The Ino census was performed after Kentucky's actual opinion table existed; Newton's census followed Ino's actual table. The common full-author approach respects each component's assignment authority and creates no artificial split.
 

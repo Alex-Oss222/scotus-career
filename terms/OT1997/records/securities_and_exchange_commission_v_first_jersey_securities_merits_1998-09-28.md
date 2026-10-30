@@ -9,7 +9,7 @@
 
 The controlling statutes are Securities Act §17(a), Exchange Act §10(b), Rule 10b-5 and the separate Exchange Act §20(a) controller provision. The two copied Standards modules retain their actual narrower domains: private affirmative assistance and source deception. Neither displaces the proved direct customer-deception theory. FEC v. Williams supplies the current independent preventive-remedy limit; Baker and Clifton preserve actual judgment/review boundaries. The monetary award is not reclassified under later law.
 
-All nine participate at submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Quorum is met; five votes are required for a controlling proposition. No separate oral-argument date, earlier grant order or private certiorari poll is invented. The current prior baseline includes the four September 14 and five September 21 public decisions incorporated by the final clean refresh. Kentucky remains stopped and supplies no law. September 28 peers supply no substantive precedent for one another.
+All nine participate at submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Quorum is met; five votes are required for a controlling proposition. No separate oral-argument date, earlier grant order or private certiorari poll is invented. The current prior baseline includes the four September 14 and five September 21 public decisions incorporated by the final clean refresh. Kentucky Right to Life concerns campaign-finance provisions and supplies no rule governing the securities questions presented here. September 28 peers supply no substantive precedent for one another.
 
 ## Controlled Stone position and source revalidation
 
@@ -21,13 +21,15 @@ Stone expressly supports the whole affirmance after ordinary preclusion review b
 
 Form fixed before counts: one signed lead with distinct Parts I–VI for preclusion, primary liability, independent controller liability, gains, retained-use interest and prevention; the favorable investigator reversal remains outside a new merits adjudication. All eight Associates join every lead proposition; Stone joins II–VI and concurs separately. The complete lead has eight eligible Associate authors. One can carry every part, so no author division is warranted. The Chief is in the unanimous affirmance coalition and assigns under §8; his partial rationale join does not make him an eligible full-lead author.
 
-Fresh [actual-opinion-table census](../freeze/OT_1997CHUNK13_SEC_RECOUNT.json), performed after the Lucas Record was written: Stone-Zsela 13, Stevens 15, O'Connor 16, Scalia 14, Kennedy 13, Souter 15, Thomas 13, Ginsburg 14, Breyer 15. There are 128 counted signed leads. The last event counted is Lucas v. Johnson, September 28, 1998, O'Connor's single lead across its parts. The actual author cells and narrative lead statements for the complete counted set were read, together with Lucas's component assignment and complete-lead eligibility statement; no earlier tally supplied these counts. Ino Ino and Newton remain stopped before assignment with no Records or opinion credit.
+Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 14; Stevens 15; O'Connor 16; Scalia 14; Kennedy 15; Souter 14; Thomas 13; Ginsburg 15; Breyer 15. Total counted leads: 131. Last counted event: Newton County Wildlife Association v. Rogers; No. 97-774; Eighth Circuit Nos. 96-1994 and 96-3463, 1998-09-28 (Ginsburg). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
 
-The Chief assigns because he joins the entire affirmance judgment. The full lead's eligible authors are Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stone is excluded only because his approved core supplies no full preclusion rationale join; a judgment vote does not establish that eligibility. The lowest eligible count is 13. The balance pool is Scalia 14, Kennedy 13, Thomas 13 and Ginsburg 14. Stevens 15, O'Connor 16, Souter 15 and Breyer 15 remain eligible outside the pool.
+Eligible complete-lead authors: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 13. Balance pool: Scalia, Souter, Thomas. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
 
-Kennedy writes the complete lead. His O'Hagan join directly supports retaining actual transaction-linked deception while separating it from status, his Baker concurrence distinguishes the actual judgment's scope from a newly asserted consequence, and his Lexecon opinion enforces the enacted allocation of authority. Those case-specific grounds fit the joined work: preserving the earlier judgment without expanding its release, separating primary from controller responsibility, and explaining statutory equity without an uncharged investigation. Thomas 13 is the strongest equally low-count alternative: his insistence on actual deception and Peacock's judgment-enforcement boundary could carry the shared narrow result. Kennedy's combination of the affirmative primary-fraud ground and judgment-scope reasoning gives the more direct fit for the whole lead; no disagreement needs a new accommodation. Scalia and Ginsburg can also carry the opinion, but neither offers a necessary coalition accommodation overcoming that fit and Kennedy's lower count. This is fit among the lawful pool, not an inferred vote change.
+The Chief assigns because he joins the entire affirmance judgment. Stone is excluded only because his approved core supplies no full preclusion rationale join; a judgment vote does not establish that eligibility.
 
 Chief self-assignment is unavailable because Stone does not join every governing proposition. No part is split or recombined to alter eligibility. Final circulation compatibility preserves the eight Associates' settled grounds, including actual benefit, conjunctive controller defense, independent prevention and the no-new-investigation boundary; Stone's separate explanation remains noncontrolling.
+
+Thomas writes the complete lead. His insistence on actual deception and Peacock's judgment-enforcement boundary directly fit the work of separating primary from controller responsibility, preserving the earlier judgment's actual scope and explaining statutory equity without an uncharged investigation. Scalia and Souter can carry the same settled grounds, but Thomas supplies the case-specific boundary analysis at the lowest eligible count. Kennedy's O'Hagan join, Baker concurrence and Lexecon opinion support his full join and demonstrate capability, but his fifteen counted opinions place him outside the minimum-plus-one pool. No accommodation changes a governing proposition or an Associate's position. Chief self-assignment is unavailable because Stone does not join the complete preclusion rationale.
 
 ## Operative Standards and Tests map
 
@@ -76,7 +78,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 | Writing | Author | Joins and exact scope |
 |---|---|---|
-| Opinion of the Court, Parts I–VI | Kennedy | The other seven Associates join throughout; Stone-Zsela joins Parts II–VI. Part I has eight rationale votes; Parts II–VI have nine. |
+| Opinion of the Court, Parts I–VI | Thomas | The other seven Associates join throughout; Stone-Zsela joins Parts II–VI. Part I has eight rationale votes; Parts II–VI have nine. |
 | Concurrence in part and in the judgment | Stone-Zsela | No joins. Supports the entire affirmance; no additional preclusion ground. Explains the investigation/adjudication limit without reopening the favorable investigator reversal. |
 
 ## Controlling holdings
@@ -85,7 +87,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** A judgment concerning earlier transactions does not bar an enforcement action for later distinct transactions merely because the alleged method resembles the earlier misconduct; a settlement releases additional conduct only within its actual scope. The 1979 proceeding and 1984 settlement therefore do not bar this action concerning the 1982–1985 transactions, and permission to supplement the earlier complaint imposed no obligation to add every later wrong.
 
-**Authority:** The eight Associate Justices adopt Kennedy's Part I: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees with rejection of the defense without adding a ground.
+**Authority:** The eight Associate Justices adopt Thomas's Part I: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees with rejection of the defense without adding a ground.
 
 **Controlling explanation:** Lawlor distinguishes later transactions from a second demand for recovery on the same claim. Moitie preserves the finality of an actual judgment; it does not immunize later conduct. Baker likewise requires respect for a judgment's lawful effect at its real scope. The earlier proceeding concerned different transactions, and the actual settlement language did not settle the later transactions now proved. Similarity of practices cannot enlarge that release. The defendants' argument that the SEC could have supplemented the old proceeding confuses procedural permission with an obligation to sue there. The Court preserves the earlier judgment while rejecting the proposed extension of its effect.
 
@@ -99,7 +101,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** A broker-dealer and the officer who knowingly directs its deceptive transactions are responsible for their proved primary securities fraud; office, ownership or assistance alone does not establish that violation. First Jersey's intentional concealment of its dominated markets, repurchases and coordinated splitting and resale plan, together with Brennan's knowing hands-on orchestration, supports the liability found under Securities Act §17(a)(1), Exchange Act §10(b) and Rule 10b-5.
 
-**Authority:** All nine Justices adopt Kennedy's Part II; nine direct rationale votes.
+**Authority:** All nine Justices adopt Thomas's Part II; nine direct rationale votes.
 
 **Controlling explanation:** The findings establish deceptive dealing in the six securities, rather than liability inferred from Brennan's title or wealth. The firm's transactions carried an implied representation that the prices reflected a competitive market. Its concealment of its own domination and coordinated repurchase, unbundling and resale plan made that representation misleading to both selling and purchasing customers; its duty was to disclose the facts needed to make those representations truthful. Its contemporaneous repurchase prices supply a supported market benchmark in that setting. Illiquidity within the firm's unilateral control does not establish an independent explanation defeating those findings. No automatic five-percent or ten-percent markup rule is adopted. Central Bank preserves its confined private affirmative-assistance action, but direct participation in the actual deception supplies liability here without enlarging that action or importing its private reliance requirements into SEC enforcement. O'Hagan preserves the need for actual deception, culpability and a connection to securities transactions; this case does not extend its source-deception theory to status alone.
 
@@ -112,7 +114,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** Section 20(a) permits the SEC, which falls within the Exchange Act's relevant definition of person, to enforce controller responsibility for the established §10(b) and Rule 10b-5 violation on proof of actual control and the deliberate culpable participation found here. Its defense requires both good faith and absence of direct or indirect inducement; Brennan cannot satisfy that defense on the supported findings.
 
-**Authority:** All nine Justices adopt Kennedy's Part III; nine direct rationale votes. This is an independently sufficient statutory ground at the stated scope, separate from his primary participation.
+**Authority:** All nine Justices adopt Thomas's Part III; nine direct rationale votes. This is an independently sufficient statutory ground at the stated scope, separate from his primary participation.
 
 **Controlling explanation:** Section 3(a)(9)'s definition includes governmental agencies, defeating the contention that the SEC cannot invoke this supported controller liability. Brennan exercised actual control and deliberately participated in the coordinated scheme. A compliance arrangement that deliberately failed to examine the relevant transactions does not establish good faith, and his active direction defeats the separate no-inducement requirement. The Court does not impose liability from passive shareholding alone, and the defense remains available to a controller who proves both good faith and absence of direct or indirect inducement. It need not settle every disputed culpable-participation pleading burden because that participation was proved. This Exchange Act controller ground does not become a rule supplying controller liability for every Securities Act claim.
 
@@ -125,7 +127,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** In the SEC's injunctive enforcement proceeding authorized by Securities Act §20(b), 15 U.S.C. §77t(b), and Exchange Act §21(d)(1), 15 U.S.C. §78u(d)(1), traditional ancillary restitution permits recovery of the reasonably approximated unlawful gains connected to the proved fraud, with credits preventing duplicate recovery. Joint and several responsibility is proper for First Jersey and Brennan's proved collaboration and benefit in this enterprise, not because every owner owes every corporate debt.
 
-**Authority:** All nine Justices adopt Kennedy's Part IV; nine direct rationale votes.
+**Authority:** All nine Justices adopt Thomas's Part IV; nine direct rationale votes.
 
 **Controlling explanation:** Sections 20(b) and 21(d)(1) authorize the SEC's suit for injunctive enforcement; their words do not expressly grant disgorgement. Porter and Mitchell recognize ancillary restitution within that statutory equity unless Congress displaces it. Mertens construed a different, expressly limited ERISA remedial provision; it does not remove this traditional gain-recovery function. The six-security profit approximation was $27,288,099. Crediting the $5 million class-settlement payment leaves $22,288,099 to be disgorged. Brennan's deliberate collaboration, complete ownership, unrestricted access to the enterprise funds and corresponding enrichment connect him to those gains. The defendants' strongest objection—that equity cannot take unrelated wealth or impose another person's unrelated gain—states a real limit but does not describe these findings. The award removes the proved benefit once; it supplies no recovery of unproved transactions, unrelated profits, wealth as such or every recipient's gross receipts. Deterrence alone supplies neither the amount nor an additional punitive component.
 
@@ -139,7 +141,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** Prejudgment interest may approximate the value of retaining unlawful gains, subject to the actual credit, causal connection and equitable fairness of the award. On these findings, the $52,689,894 award using the IRS underpayment measure is sustained, with interest on the credited $5 million ending when that amount was paid.
 
-**Authority:** All nine Justices adopt Kennedy's Part V; nine direct rationale votes.
+**Authority:** All nine Justices adopt Thomas's Part V; nine direct rationale votes.
 
 **Controlling explanation:** The $52,689,894 award is the prejudgment interest fixed in the July 17, 1995 District Court judgment, not a recalculation through today's decision. The defendants retained use of the remaining gains during that prejudgment period; interest on the $5 million paid in January 1987 ceased at that payment. A borrowing-cost measure addresses that benefit more directly than the lower rate the Government pays a lender; no identified legal or calculation error requires substitution of the Treasury rate. A large ratio to principal, or the passage of years while the benefit remains held, does not by itself transform retained-use compensation into punishment. The actual cessation of interest on the paid settlement credit prevents charging for money no longer retained. The Court makes neither the IRS rate nor interest during every possible litigation delay universally mandatory. Porter and Mitchell's gain-restoration principle supports this confined use-value component, not an unexplained surcharge.
 
@@ -152,7 +154,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** Under Securities Act §20(b), 15 U.S.C. §77t(b), and Exchange Act §21(d)(1), 15 U.S.C. §78u(d)(1), a prospective securities injunction requires the proper showing of a supported risk of future violations; past misconduct or a defendant's refusal to confess does not alone supply that basis. The systematic intentional violations, relevant prior sanctions, ongoing market activity, retained personnel and continuing control support the injunction entered here.
 
-**Authority:** All nine Justices adopt Kennedy's Part VI; nine direct rationale votes.
+**Authority:** All nine Justices adopt Thomas's Part VI; nine direct rationale votes.
 
 **Controlling explanation:** The governing provisions authorize the SEC to seek restraint of a person engaged or about to engage in covered violations and provide for injunctive relief on a proper showing without bond. The actual findings connect the deliberate course of conduct to continuing means and opportunity for recurrence. The injunction therefore prevents supported future securities violations rather than punishing wealth, corporate office or defense of the suit. FEC v. Williams preserves the separate requirement for a genuine preventive basis and does not classify every governmental equitable remedy as a penalty. Neither an industry-wide ban nor relief against unrelated actors is ordered. The Court sustains this decree on its supported predicates without creating an automatic injunction from a completed fraud judgment.
 
@@ -223,7 +225,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 | Writing | Author | Joins and exact scope |
 |---|---|---|
-| Opinion of the Court, Parts I–VI | Kennedy | The other seven Associates join throughout; Stone-Zsela joins Parts II–VI. Part I has eight rationale votes; Parts II–VI have nine. |
+| Opinion of the Court, Parts I–VI | Thomas | The other seven Associates join throughout; Stone-Zsela joins Parts II–VI. Part I has eight rationale votes; Parts II–VI have nine. |
 | Concurrence in part and in the judgment | Stone-Zsela | No joins. Supports the entire affirmance; no additional preclusion ground. Explains the investigation/adjudication limit without reopening the favorable investigator reversal. |
 
 
@@ -233,7 +235,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** A judgment concerning earlier transactions does not bar an enforcement action for later distinct transactions merely because the alleged method resembles the earlier misconduct; a settlement releases additional conduct only within its actual scope. The 1979 proceeding and 1984 settlement therefore do not bar this action concerning the 1982–1985 transactions, and permission to supplement the earlier complaint imposed no obligation to add every later wrong.
 
-**Authority:** The eight Associate Justices adopt Kennedy's Part I: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees with rejection of the defense without adding a ground.
+**Authority:** The eight Associate Justices adopt Thomas's Part I: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees with rejection of the defense without adding a ground.
 
 **Controlling explanation:** Lawlor distinguishes later transactions from a second demand for recovery on the same claim. Moitie preserves the finality of an actual judgment; it does not immunize later conduct. Baker likewise requires respect for a judgment's lawful effect at its real scope. The earlier proceeding concerned different transactions, and the actual settlement language did not settle the later transactions now proved. Similarity of practices cannot enlarge that release. The defendants' argument that the SEC could have supplemented the old proceeding confuses procedural permission with an obligation to sue there. The Court preserves the earlier judgment while rejecting the proposed extension of its effect.
 
@@ -247,7 +249,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** A broker-dealer and the officer who knowingly directs its deceptive transactions are responsible for their proved primary securities fraud; office, ownership or assistance alone does not establish that violation. First Jersey's intentional concealment of its dominated markets, repurchases and coordinated splitting and resale plan, together with Brennan's knowing hands-on orchestration, supports the liability found under Securities Act §17(a)(1), Exchange Act §10(b) and Rule 10b-5.
 
-**Authority:** All nine Justices adopt Kennedy's Part II; nine direct rationale votes.
+**Authority:** All nine Justices adopt Thomas's Part II; nine direct rationale votes.
 
 **Controlling explanation:** The findings establish deceptive dealing in the six securities, rather than liability inferred from Brennan's title or wealth. The firm's transactions carried an implied representation that the prices reflected a competitive market. Its concealment of its own domination and coordinated repurchase, unbundling and resale plan made that representation misleading to both selling and purchasing customers; its duty was to disclose the facts needed to make those representations truthful. Its contemporaneous repurchase prices supply a supported market benchmark in that setting. Illiquidity within the firm's unilateral control does not establish an independent explanation defeating those findings. No automatic five-percent or ten-percent markup rule is adopted. Central Bank preserves its confined private affirmative-assistance action, but direct participation in the actual deception supplies liability here without enlarging that action or importing its private reliance requirements into SEC enforcement. O'Hagan preserves the need for actual deception, culpability and a connection to securities transactions; this case does not extend its source-deception theory to status alone.
 
@@ -260,7 +262,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** Section 20(a) permits the SEC, which falls within the Exchange Act's relevant definition of person, to enforce controller responsibility for the established §10(b) and Rule 10b-5 violation on proof of actual control and the deliberate culpable participation found here. Its defense requires both good faith and absence of direct or indirect inducement; Brennan cannot satisfy that defense on the supported findings.
 
-**Authority:** All nine Justices adopt Kennedy's Part III; nine direct rationale votes. This is an independently sufficient statutory ground at the stated scope, separate from his primary participation.
+**Authority:** All nine Justices adopt Thomas's Part III; nine direct rationale votes. This is an independently sufficient statutory ground at the stated scope, separate from his primary participation.
 
 **Controlling explanation:** Section 3(a)(9)'s definition includes governmental agencies, defeating the contention that the SEC cannot invoke this supported controller liability. Brennan exercised actual control and deliberately participated in the coordinated scheme. A compliance arrangement that deliberately failed to examine the relevant transactions does not establish good faith, and his active direction defeats the separate no-inducement requirement. The Court does not impose liability from passive shareholding alone, and the defense remains available to a controller who proves both good faith and absence of direct or indirect inducement. It need not settle every disputed culpable-participation pleading burden because that participation was proved. This Exchange Act controller ground does not become a rule supplying controller liability for every Securities Act claim.
 
@@ -273,7 +275,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** In the SEC's injunctive enforcement proceeding authorized by Securities Act §20(b), 15 U.S.C. §77t(b), and Exchange Act §21(d)(1), 15 U.S.C. §78u(d)(1), traditional ancillary restitution permits recovery of the reasonably approximated unlawful gains connected to the proved fraud, with credits preventing duplicate recovery. Joint and several responsibility is proper for First Jersey and Brennan's proved collaboration and benefit in this enterprise, not because every owner owes every corporate debt.
 
-**Authority:** All nine Justices adopt Kennedy's Part IV; nine direct rationale votes.
+**Authority:** All nine Justices adopt Thomas's Part IV; nine direct rationale votes.
 
 **Controlling explanation:** Sections 20(b) and 21(d)(1) authorize the SEC's suit for injunctive enforcement; their words do not expressly grant disgorgement. Porter and Mitchell recognize ancillary restitution within that statutory equity unless Congress displaces it. Mertens construed a different, expressly limited ERISA remedial provision; it does not remove this traditional gain-recovery function. The six-security profit approximation was $27,288,099. Crediting the $5 million class-settlement payment leaves $22,288,099 to be disgorged. Brennan's deliberate collaboration, complete ownership, unrestricted access to the enterprise funds and corresponding enrichment connect him to those gains. The defendants' strongest objection—that equity cannot take unrelated wealth or impose another person's unrelated gain—states a real limit but does not describe these findings. The award removes the proved benefit once; it supplies no recovery of unproved transactions, unrelated profits, wealth as such or every recipient's gross receipts. Deterrence alone supplies neither the amount nor an additional punitive component.
 
@@ -287,7 +289,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** Prejudgment interest may approximate the value of retaining unlawful gains, subject to the actual credit, causal connection and equitable fairness of the award. On these findings, the $52,689,894 award using the IRS underpayment measure is sustained, with interest on the credited $5 million ending when that amount was paid.
 
-**Authority:** All nine Justices adopt Kennedy's Part V; nine direct rationale votes.
+**Authority:** All nine Justices adopt Thomas's Part V; nine direct rationale votes.
 
 **Controlling explanation:** The $52,689,894 award is the prejudgment interest fixed in the July 17, 1995 District Court judgment, not a recalculation through today's decision. The defendants retained use of the remaining gains during that prejudgment period; interest on the $5 million paid in January 1987 ceased at that payment. A borrowing-cost measure addresses that benefit more directly than the lower rate the Government pays a lender; no identified legal or calculation error requires substitution of the Treasury rate. A large ratio to principal, or the passage of years while the benefit remains held, does not by itself transform retained-use compensation into punishment. The actual cessation of interest on the paid settlement credit prevents charging for money no longer retained. The Court makes neither the IRS rate nor interest during every possible litigation delay universally mandatory. Porter and Mitchell's gain-restoration principle supports this confined use-value component, not an unexplained surcharge.
 
@@ -300,7 +302,7 @@ The proved primary fraud and independent §20(a) ground stand. Disgorgement is $
 
 **Holding and operative rule:** Under Securities Act §20(b), 15 U.S.C. §77t(b), and Exchange Act §21(d)(1), 15 U.S.C. §78u(d)(1), a prospective securities injunction requires the proper showing of a supported risk of future violations; past misconduct or a defendant's refusal to confess does not alone supply that basis. The systematic intentional violations, relevant prior sanctions, ongoing market activity, retained personnel and continuing control support the injunction entered here.
 
-**Authority:** All nine Justices adopt Kennedy's Part VI; nine direct rationale votes.
+**Authority:** All nine Justices adopt Thomas's Part VI; nine direct rationale votes.
 
 **Controlling explanation:** The governing provisions authorize the SEC to seek restraint of a person engaged or about to engage in covered violations and provide for injunctive relief on a proper showing without bond. The actual findings connect the deliberate course of conduct to continuing means and opportunity for recurrence. The injunction therefore prevents supported future securities violations rather than punishing wealth, corporate office or defense of the suit. FEC v. Williams preserves the separate requirement for a genuine preventive basis and does not classify every governmental equitable remedy as a penalty. Neither an industry-wide ban nor relief against unrelated actors is ordered. The Court sustains this decree on its supported predicates without creating an automatic injunction from a completed fraud judgment.
 

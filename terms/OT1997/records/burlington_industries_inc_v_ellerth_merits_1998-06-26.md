@@ -1,7 +1,7 @@
 **Case and dockets:** Burlington Industries, Inc. v. Ellerth, No. 97-569.
 **Event and date:** Plenary merits decision, 1998-06-26; OT1997 chunk 12.
 **Result:** Affirmed and remanded, 9–0; no liability finding or complete defense adopted.
-**Version / lineage:** First Canonical Decision Record for this event; supersedes no completed adjudication. No repository commit or hash is asserted.
+**Version / lineage:** Original decision.
 
 ## Event, participation and entering law
 
@@ -19,11 +19,15 @@ The [exact approved supplement](../freeze/OT_1997CHUNK12_STONE_ELLERTH.md), appr
 
 Form fixed before counting: one signed plenary Opinion of the Court applying the existing rule, limited policy disposition and ordinary remand; one concurrence expressing only Ginsburg, Souter and Breyer's additional recovery proposal. The common P1–P4 substance is grouped into three holdings without changing any proposition or eligibility. No component fracture or separate dissent is supported.
 
-Fresh actual-table recount after writing Bauchman used `python -B tmp/chunk12_assignment_inventory.py`. Counts: Stone-Zsela 12; Stevens 13; O'Connor 13; Scalia 12; Kennedy 13; Souter 13; Thomas 12; Ginsburg 13; Breyer 13. Total 114. Last counted event: Bauchman v. West High School, June 26, 1998, Ginsburg's signed plenary lead. No missing-author row. Each count comes from opinion-table authors, including the earlier same-day Record, not a preceding tally.
+Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 13; Stevens 13; O'Connor 13; Scalia 12; Kennedy 13; Souter 12; Thomas 12; Ginsburg 13; Breyer 13. Total counted leads: 114. Last counted event: Bauchman v. West High School; Tenth Circuit Nos. 95-4084 and 96-4101; 132 F.3d 542, 1998-06-26 (Ginsburg). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
 
-Chief Justice Stone-Zsela is in the unanimous judgment coalition and assigns. All nine support every proposition of the lead and are eligible; minimum 12, pool all nine within 13. Stone-Zsela writes. His Harrison opinion formulated the precise separation of actual authority, apparent authority and preserved defenses now required on a summary-judgment record; his approved position also articulates the ordinary-remand limit without confusing it with Faragher's conclusive findings. Breyer, author of Andrade and Faragher and a full supporter, is the strongest alternative and can carry the common rule, but has 13 counted opinions against Stone's 12. Stone's direct fit and lower count favor self-assignment without inventing a coalition accommodation. Scalia and Thomas are also at 12 and eligible; their actual-aid commitments do not provide a more case-specific authorship advantage than the Harrison formulation. No broader ground is assigned to secure a vote. Ginsburg authors the separate proposal she advanced in Gebser; it does not count under §8 and adds no lead-opinion eligibility requirement.
+Eligible complete-lead authors: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 12. Balance pool: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
+
+Chief Justice Stone-Zsela is in the unanimous judgment coalition and assigns. Stone-Zsela writes. His Harrison opinion formulated the precise separation of actual authority, apparent authority and preserved defenses now required on a summary-judgment record; his approved position also articulates the ordinary-remand limit without confusing it with Faragher's conclusive findings. No broader ground is assigned to secure a vote.
 
 Final language preserves each Associate's exact reconciled P1–P4 commitments. The recoverability difference remains in a concurrence rather than contaminating the common reservation. There is no changed Associate vote or join, invented circulation or need for a new no-Stone reconciliation audit.
+
+Stone's Harrison opinion formulated the precise separation of actual authority, apparent authority and preserved defenses required on this summary-judgment record. Breyer, the author of Andrade and Faragher, is the strongest alternative at the same count; Stone's directly applicable Harrison formulation and ordinary-remand limit provide the more concrete fit here. Scalia, Souter and Thomas are lower-count full supporters, but none supplies a closer case-specific authorship advantage for that formulation.
 
 ## Public action, judgment and opinions
 

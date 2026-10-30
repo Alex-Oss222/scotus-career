@@ -6,7 +6,14 @@ Four new Records were written sequentially in June 15 caption order: Forney, Hoh
 
 Form was determined before counts on each case’s legal function. Forney and Hohn are signed plenary threshold dispositions and add no merits credit. Yeskey decides substantive statutory coverage; Phillips decides substantive property ownership; each adds one counted lead credit. The fresh script recount ran before each assignment and read actual prior/current-Run opinion tables, not earlier tally paragraphs.
 
-Before Forney, Hohn and Yeskey: Stone-Zsela 10; Stevens 10; O’Connor 11; Scalia 10; Kennedy 12; Souter 12; Thomas 11; Ginsburg 11; Breyer 12. Last counted: Bryan, June 15; 99 credits. Before Phillips: O’Connor 12, all others unchanged; last counted Yeskey; 100 credits. After Phillips: Scalia 11, all others unchanged; last counted Phillips; 101 credits. Full eligible sets, pools, fit comparisons and authors are recorded per case.
+| Record | Counted leads before | Lead author | Eligible authors | Balance pool | Last counted event |
+|---|---:|---|---|---|---|
+| forney_v_apfel_threshold_1998-06-15.md | 98 | Scalia | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | bryan_v_united_states_merits_1998-06-15.md |
+| hohn_v_united_states_threshold_1998-06-15.md | 98 | Ginsburg | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg | bryan_v_united_states_merits_1998-06-15.md |
+| pennsylvania_department_of_corrections_v_yeskey_merits_1998-06-15.md | 98 | O'Connor | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | bryan_v_united_states_merits_1998-06-15.md |
+| phillips_v_washington_legal_foundation_merits_1998-06-15.md | 99 | Scalia | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas | Stone-Zsela, Scalia, Kennedy, Thomas | pennsylvania_department_of_corrections_v_yeskey_merits_1998-06-15.md |
+
+Counts after the final listed decision, including all earlier effective Records: Stone-Zsela 11; Stevens 10; O'Connor 12; Scalia 11; Kennedy 11; Souter 11; Thomas 11; Ginsburg 11; Breyer 12. Total 100.
 
 ## Substantive checks
 

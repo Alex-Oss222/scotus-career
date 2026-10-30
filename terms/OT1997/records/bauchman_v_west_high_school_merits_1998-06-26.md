@@ -1,7 +1,7 @@
 **Case and dockets:** Bauchman v. West High School; Tenth Circuit Nos. 95-4084 and 96-4101; 132 F.3d 542.
 **Event and date:** Plenary merits decision, 1998-06-26; OT1997 chunk 12.
 **Result:** Affirmed in part, vacated in part and remanded; federal dispositions 9–0; dependent state-claim direction vacated 8–1.
-**Version / lineage:** First Canonical Decision Record for this event; supersedes no completed adjudication. No repository commit or hash is asserted.
+**Version / lineage:** Original decision.
 
 ## Event, chronology and participation
 
@@ -21,9 +21,11 @@ The [exact approved supplement](../freeze/OT_1997CHUNK12_STONE_BAUCHMAN.md), rev
 
 Form fixed before counting: one signed plenary merits opinion, Parts I–IV resolving the federal questions and Part V addressing the dependent state-claim direction; one short Stone concurrence in part/dissent in part. The case's actual mixed remedy and partial join require this structure; counts play no part in it. All eight Associates support every proposition; Stone supports Parts I–IV only. No other separate writing performs unresolved legal work.
 
-Fresh actual-table recount used `python -B tmp/chunk12_assignment_inventory.py` before this assignment, with no missing-author rows. Counts: Stone-Zsela 12; Stevens 13; O'Connor 13; Scalia 12; Kennedy 13; Souter 13; Thomas 12; Ginsburg 12; Breyer 13. Total 113. Last counted event: United States v. Balsys, June 25, 1998 (Kennedy). Counts derive from current-term opinion tables, not earlier count statements.
+Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 13; Stevens 13; O'Connor 13; Scalia 12; Kennedy 13; Souter 12; Thomas 12; Ginsburg 12; Breyer 13. Total counted leads: 113. Last counted event: United States v. Balsys, No. 97-873, 1998-06-25 (Kennedy). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
 
-Chief Justice Stone-Zsela assigns Parts I–IV. Senior Associate Justice Stevens assigns Part V because Stone is outside that judgment coalition. A single author can carry the entire opinion; all eight Associates are eligible for all parts. For the Chief's parts Stone also has full substantive eligibility, with the same minimum of 12 and all nine in the balance pool. For the full lead, the eight Associates are eligible and all are within minimum-plus-one. Ginsburg is chosen for all parts: her Ingebretsen authorship directly addresses official devotional organization and bounded relief, and her Settle/Crawford-El joins and individual-responsibility limits support precise treatment of the original/amended distinction. Stone's detailed approved function-and-procedure account is a strong alternative for Parts I–IV, but Ginsburg can carry the complete opinion at the same lower count without splitting authorship. Stevens's Part V assignment to the same author preserves one coherent mandate and adopts no Chief-only assignment rule as binding on him. No expansion accommodation or invented draft history is needed.
+Eligible complete-lead authors: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 12. Balance pool: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
+
+Chief Justice Stone-Zsela assigns Parts I–IV. Senior Associate Justice Stevens assigns Part V because Stone is outside that judgment coalition. Ginsburg is chosen for all parts: her Ingebretsen authorship directly addresses official devotional organization and bounded relief, and her Settle/Crawford-El joins and individual-responsibility limits support precise treatment of the original/amended distinction. Stevens's Part V assignment to the same author preserves one coherent mandate and adopts no Chief-only assignment rule as binding on him. No expansion accommodation or invented draft history is needed.
 
 Final compatibility is tested at the wording below. Each Associate joins Parts I–V without changing the reconciled commitment. Stone's partial join is restricted exactly as stated. The Court's Part V is a dependent remedial adjustment after the granted federal ruling, not a newly decided Utah merits question. Stone's express nonreview position remains contrary to that adjustment. No material Associate revision requires a new reconciliation audit.
 

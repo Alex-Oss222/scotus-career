@@ -100,21 +100,11 @@ Research cutoff: June 25, 1998. Historical reported facts, prior effective law a
 
 The legal form was fixed before counting: one signed lead opinion with the common sufficient foreign-risk ground and general scope reservation; supplemental policy and illustrative cooperation portions supported by four Associates; a Breyer dissent joined by Ginsburg; and Ginsburg's short further dignity explanation. Stevens, O'Connor, Kennedy and Souter can carry every lead portion. Stone, Scalia and Thomas do not join the supplemental portions and cannot author the full lead. Their narrow joins are preserved without artificial separate lead authorship. Stone is in the reversing judgment coalition and assigns. The public topology identifies each actual part; it imports no historical authorship.
 
-**Assignment recount:** Recounted immediately before this assignment from actual current-term lead-opinion tables, through the inventory rebuilt by `python -B tmp/chunk12_assignment_inventory.py`; prior numeric assignment statements are not sources. The thirteen signed threshold exclusions, including Aktepe, remain excluded under their actual forms.
+Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 13; Stevens 13; O'Connor 13; Scalia 12; Kennedy 12; Souter 12; Thomas 12; Ginsburg 12; Breyer 13. Total counted leads: 112. Last counted event: Swidler & Berlin v. United States; No. 97-1192, 1998-06-25 (Stevens). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
 
-| Justice | Count before assignment |
-|---|---:|
-| Stone-Zsela | 12 |
-| Stevens | 13 |
-| O'Connor | 13 |
-| Scalia | 12 |
-| Kennedy | 12 |
-| Souter | 13 |
-| Thomas | 12 |
-| Ginsburg | 12 |
-| Breyer | 13 |
+Eligible complete-lead authors: Stevens, O'Connor, Kennedy, Souter. Lowest eligible count: 12. Balance pool: Stevens, O'Connor, Kennedy, Souter. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
 
-Total credits: 112. Last counted event: Swidler & Berlin v. United States; No. 97-1192. 1998-06-25 (swidler_berlin_v_united_states_merits_1998-06-25.md). Eligible full-lead authors: Stevens, O'Connor, Kennedy, Souter. Lowest eligible count: 12. Balance pool (minimum plus one): Stevens, O'Connor, Kennedy, Souter. Chosen author: Kennedy. Kennedy is selected for fit within the pool. The lead separates the protected person's status from the specific constitutional function, a distinction his Verdugo concurrence supplies, while retaining the carefully bounded cooperation discussion. Stevens is a fully eligible alternative, and his American-trial-fairness explanation remains within the supplemental account. Souter and O'Connor are not excluded for style or ability; eligibility and the current numerical pool, stated here, determine availability. No supplemental join is added to Stone, Scalia or Thomas.
+Chosen author: Kennedy. The lead separates the protected person's status from the specific constitutional function, a distinction his Verdugo concurrence supplies, while retaining the carefully bounded cooperation discussion. No supplemental join is added to Stone, Scalia or Thomas.
 
 | Justice | Frozen and final scope, supporting sources and reconciliation |
 |---|---|

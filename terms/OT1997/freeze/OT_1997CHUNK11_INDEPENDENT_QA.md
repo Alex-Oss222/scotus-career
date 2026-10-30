@@ -41,24 +41,24 @@ Each count was independently checked against actual opinion tables using the bou
 
 | Event in assignment order | Lead author | Credits before assignment | Counted lead credit |
 |---|---|---:|---:|
-| Forney | Scalia | 99 | 0 |
-| Hohn | Ginsburg | 99 | 0 |
-| Yeskey | O'Connor | 99 | 1 |
-| Phillips | Scalia | 100 | 1 |
-| Zeran | Stevens | 101 | 1 |
-| Caron | Stone-Zsela | 102 | 1 |
-| Gebser | Stone-Zsela | 103 | 1 |
-| Pearson | Ginsburg | 104 | 1 |
-| Scott | Souter | 105 | 1 |
-| Bajakajian | Thomas | 106 | 1 |
-| Schacht | Thomas | 107 | 0 |
-| Swidler | Stevens | 107 | 1 |
+| Forney | Scalia | 98 | 0 |
+| Hohn | Ginsburg | 98 | 0 |
+| Yeskey | O'Connor | 98 | 1 |
+| Phillips | Scalia | 99 | 1 |
+| Zeran | Stevens | 100 | 1 |
+| Caron | Stone-Zsela | 101 | 1 |
+| Gebser | Stone-Zsela | 102 | 1 |
+| Pearson | Ginsburg | 103 | 1 |
+| Scott | Souter | 104 | 1 |
+| Bajakajian | Thomas | 105 | 1 |
+| Schacht | Thomas | 106 | 0 |
+| Swidler | Stevens | 111 | 1 |
 
 Forney, Hohn and Schacht were reviewed as jurisdictional threshold dispositions, consistent with the existing term's distinction between threshold/procedural actions and counted decisions resolving substantive claims or remedies. Signed form or plenary argument alone was not treated as sufficient for a counted merits credit. Their current assignment statements still state the actual counts, eligible set, pool, authority and author. The classifications do not reopen existing assignments.
 
 Zeran is assigned by Stevens as senior Associate in the judgment coalition; the Chief's mandatory balance policy does not bind that assignment, although the count and whole-ground eligibility are stated. The other eleven assignments respect their Chief-assigned eligible pools. Gebser's complete lead has only Stone as an eligible author because the other four reversal supporters withhold its positive formulation and record application. Bajakajian excludes Stone from whole-opinion eligibility because he supplies no standalone appellate-review ground. The opinion forms and natural parts preserve substantive differences rather than manipulating credits.
 
-After these events, nine counted credits have been added. The final actual-table totals are Stone-Zsela 12; Stevens 12; O'Connor 12; Scalia 11; Kennedy 12; Souter 13; Thomas 12; Ginsburg 12; Breyer 12: 108 counted opinions/credits.
+Chunk 11 supplies nine counted credits. The full chronological totals through Swidler, including the preceding June 25 merits decisions, are Stone-Zsela 13; Stevens 13; O'Connor 13; Scalia 12; Kennedy 12; Souter 12; Thomas 12; Ginsburg 12; Breyer 13: 112 counted opinions.
 
 ## Mechanical and publication-interface results
 

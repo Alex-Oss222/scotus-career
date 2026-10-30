@@ -20,6 +20,10 @@ Review identified and verified two completeness repairs in both internal and pub
 
 The signed plenary lead counts once under Engine section 8 because the Court independently adjudicates the legal merits of an existing monetary sanctions award. The jurisdiction-only component supplies no separate credit. The conclusion rests on that mixed disposition, not on a filename, the opinion's length or whether the underlying civil-rights merits were reached. Threshold-only current-term comparisons do not decide the distinct collateral-award question, and no earlier classification is changed.
 
-Independent actual-table review confirms the preassignment total of 117, every Justice at 13, with Camilo as the last counted event. All nine fully support the complete opinion and belong to the eligible pool. O'Connor's source-specific sanctions work supports the stated choice. Her one lead credit yields **118 total: O'Connor 14, every other Justice 13**.
+| Record | Counted leads before | Lead author | Eligible authors | Balance pool | Last counted event |
+|---|---:|---|---|---|---|
+| berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md | 117 | O'Connor | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | camilo_robles_v_hoyos_merits_1998-07-20.md |
+
+Counts after the final listed decision, including all earlier effective Records: Stone-Zsela 14; Stevens 13; O'Connor 14; Scalia 13; Kennedy 13; Souter 12; Thomas 13; Ginsburg 13; Breyer 13. Total 118.
 
 [The final mechanical receipt](../../../tmp/chunk12_berryman_review_checks.json) confirms the four opening labels, eleven exact level-two Public Projection headings, unchanged internal/public Holdings and six other substantive blocks, stated cutoffs, no unresolved placeholders or public workflow leakage, and a maximum controlling explanation of 250 words. The ten previously reviewed Records match their protected hashes at the recorded comparison level. The assembler confirmed no further edits, and final readback matched this receipt's hash. Coordinated workspace, Render Input and whole-term validation remain with control. No review blocker remains.
