@@ -20,10 +20,10 @@ No private current Stone material, raw current Decision Record, other case's com
 
 | Input | Raw SHA-256 |
 |---|---|
-| [Independent commitments](OT_1996CHUNK13_HARRISON_COMMITMENTS.md) | `c44a23649af9acdb3b819e56e5f2d4d74b641f1dbcafd8bd4c9ede2dbf745743` |
-| [Model file-freeze receipt](OT_1996CHUNK13_HARRISON_MODEL_FREEZE.json) | `e31a24b4700c2499007856a7dd434830bcbafc7e111c71fea3617377f7a5cbe2` |
+| [Independent commitments](OT_1996CHUNK13_HARRISON_COMMITMENTS.md) | `15b879a2e77b911618b88111c58df46e9720a40f0ca70f4e66cbebfc8f33d399` |
+| [Model file-freeze receipt](OT_1996CHUNK13_HARRISON_MODEL_FREEZE.json) | `1affa9f57dbf0d14574b2215ac49895a4b802a2bacae6cf130c317bec1b871ff` |
 | [Harrison-only base neutral](OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md) | `2d63a68790f9b17b0eb2b946f4b0f7bf2b5243e08a72ae7dc24a33609eea0b15` |
-| [Final neutral refresh](OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md) | `d177dd01e413f083fe1e3641d4d95bae768ee7f20603beb59026b418acf34343` |
+| [Final neutral refresh](OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md) | `03a5cce4f3e672fdc1081f1b66cd6aa6efb29e949ab4c18da80a71b175f07879` |
 | [Selected entering law](../entering-law/OT_1996CHUNK13_C.md) | `0da152ad23aac40d8fba4e3c4b3bbcf2d7e6004f62ba55c1f1a36574af65f768` |
 | [Final Faragher public law](../entering-law/OT_1996CHUNK13_FARAGHER_PUBLIC_DELTA.md) | `29953dce0ff5f89a4f10138c3d7b3f9aa853bc93190f298033859a9de3885902` |
 | [Exact instruction attachment](../entering-law/OT_1996CHUNK13_HARRISON_INSTRUCTIONS.md) | `6a99d930e2bc91886f19cd783aa34fba41eea00d97831fe19104cf148e69723f` |

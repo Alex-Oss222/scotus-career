@@ -357,7 +357,7 @@ The Kennedy row in the released A3?A6 reconciliation addendum and aggregate A sa
 
 No vote, disposition, scope, writing commitment or factual premise changes. Released reconciliation bytes and immutable independent commitments are preserved; this separately frozen clerical source-attribution correction governs their reading. Assembly identified the slip before preparing the affected Record. No current Stone material was supplied to source control.
 
-<!-- frozen-source: OT_1997CHUNK5_B_RECONCILED.md; sha256: 48ad5961512f7f8f1507f1b3026aec38695084ea5364c90894f232444b706c57 -->
+<!-- frozen-source: OT_1997CHUNK5_B_RECONCILED.md; sha256: 94a9b7738b2bbd45c7412002947a1298858e72bc44e5dced3d6a7940f1b9cd53 -->
 
 # OT1997 chunk5 ? final aggregate B reconciliation
 
@@ -373,7 +373,7 @@ Historical-reconciliation context: no current Stone position, Stone handoff, com
 
 The independent five-matter text below is mechanically copied from the immutable B commitment file, removing only Hetzel's complete section. The reconciliation addendum following it controls the stated source correction and clarifications. The full original file remains unchanged. All eight Associates participate in each matter; no recusal fact is established.
 
-Independent full B input SHA256: `643e6bd4cf0cc597e928f548a6d67a63219e86cf805ca07f86edc3785b362c01`.
+Independent full B input SHA256: `f29266c59fcce5a2721c09000f796d6f66261ad9dd45c7827562592711ce1ece`.
 
 # OT1997 chunk 5 — independent non-Stone commitments, batch B
 
@@ -544,8 +544,8 @@ Source digests below identify bytes entering this stage; paths are relative to `
 | entering-law/CHUNK5/09_wp.md | 3AC348EFF7EC27725500BFA199460BF55D742E1877F98E8622E4FAB7872C1EAD |
 | entering-law/CHUNK5/10_hetzel.md | 1C86626DBBDBEC96487E867AB2F83B1ABAFF9805224B980E0FEF4319AF7AE880 |
 | entering-law/CHUNK5/11_caterpillar.md | 934DC16FC5F85E2BEAAE7ECFDB88FA5508775DE1AF75CC54ECB5FCBBCE06922E |
-| entering-law/CHUNK5/12_robinson.md | 3A4D8487996BEACEF4AF47CB01C043B69039A5C4F3043E388BDA5AE6333484D2 |
-| entering-law/CHUNK5/CURRENT_PUBLIC_LAW_B.md | 5CF03D2172F0DCEAAC709C7D9BF0070CE3BDD27D4E860FF78CBA7ED2E3C52551 |
+| entering-law/CHUNK5/12_robinson.md | C86652F4BA56AF88153A16438F8A759017E0A9EBEA9F48BCF524C5B71C74EE2D |
+| entering-law/CHUNK5/CURRENT_PUBLIC_LAW_B.md | C23188BD58AF7C2D9E293827D1C4035CC0DDA5511BE98169EC83AFB2A747B3D1 |
 | research/chunk5_control/NEUTRAL_SOURCE_FACTS_B_CLEAN.md | DE5D8746FB4B9CDA33A8209716DDBFBDE8B5F534ADD54BDE1AF154B1FB6E319C |
 | research/chunk5_control/WP_NEUTRAL_SOURCE_REVIEW.md | 9DCF395912D804C1C4545251593FA578A89ED725DD21FA943B17763C5846F6B7 |
 | research/chunk5_control/ROBINSON_FULL_READ.md | 85BFEF3A95AFB863338A0C05E4A2CAD6DC983F8231F7E80B958A6AE7AE756D50 |
@@ -634,8 +634,8 @@ Historical-reconciliation stage only. No current Chief/Stone position, Chief cer
 
 Input hashes:
 
-- Original B commitments: `643e6bd4cf0cc597e928f548a6d67a63219e86cf805ca07f86edc3785b362c01`.
-- Associate certiorari commitments: `1de081c49c7b96d49150fb38f97555a73e4157611a877f513b42c889c0c8fb74`.
+- Original B commitments: `f29266c59fcce5a2721c09000f796d6f66261ad9dd45c7827562592711ce1ece`.
+- Associate certiorari commitments: `4658afc0b879a7a80cd1c9f1296ee7e9deb0fa44f831b8b58c2fe9e06bd249d4`.
 - Preservation commitments: `81b66ca7b83d6723bcc2791b5b10a6c4e998df14f51b0aedf84157e0674cc5fb`.
 
 ## 4. Hetzel v. Prince William County — March 23, 1998
@@ -659,7 +659,7 @@ All eight would reverse the challenged mandamus constraint and remand. No sum is
 
 # Hetzel — independent Associate certiorari commitments
 
-Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `643e6bd4cf0cc597e928f548a6d67a63219e86cf805ca07f86edc3785b362c01`.
+Supplement to the immutable batch-B merits/threshold commitments; no change to their substantive positions. Prepared from the same clean neutral packet, its objective-source receipt, `entering-law/CHUNK5/10_hetzel.md`, and Engine §10. No comparator, same-matter Supreme Court outcome or current private Stone position was received. The frozen batch-B handoff has SHA-256 `f29266c59fcce5a2721c09000f796d6f66261ad9dd45c7827562592711ce1ece`.
 
 **Case:** Hetzel v. Prince William County, No. 97-954.
 **Scheduled action date:** March 23, 1998. No additional earlier grant date is invented.

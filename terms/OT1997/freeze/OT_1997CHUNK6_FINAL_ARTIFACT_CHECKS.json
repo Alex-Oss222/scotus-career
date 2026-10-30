@@ -67,8 +67,8 @@
     },
     {
       "record": "united_states_v_hinds_merits_1998-04-06.md",
-      "sha256": "1dc7354e9e7078b0562f1a80b6372cbc537570a6908700cc4b1ba6f1af838d87",
-      "public_projection_sha256": "04b15f788da2872c9b525e50be7865d18ac8f9b6c2a3d77b6ee774b4486944c0",
+      "sha256": "2a179e5f13e1e2703201776f1129537ef014664b5f388ad9849dfd738ad63603",
+      "public_projection_sha256": "2a179e5f13e1e2703201776f1129537ef014664b5f388ad9849dfd738ad63603",
       "ordered_blocks": 11,
       "controlling_explanation_words": [
         268,
@@ -113,7 +113,7 @@
     },
     {
       "file": "OT_1997CHUNK6_HINDS_RECONCILED.md",
-      "sha256": "2d15b1969f8705899a156afcd864b6890614a0e9bbaddc02247959b1e5f55a40"
+      "sha256": "7eecc813c2c8c3254d899989ae4a3908ecaf32f427e7e916c08054c27ccc29bc"
     },
     {
       "file": "OT_1997CHUNK6_BREARD_COMMITMENTS.md",
@@ -133,7 +133,7 @@
     },
     {
       "file": "OT_1997CHUNK6_RECONCILED.md",
-      "sha256": "d27c21cd2d44cd56f7219f57009bfc797250a68b6ed09624b317ebeca6497841"
+      "sha256": "7d62763ed0e619d872ab0625b45b18caa047247cd38042bbf547954792b8ee0e"
     }
   ],
   "scope": "New Record structure, public explanation ceilings and metadata boundary, local link target existence, frozen working-copy identity. Term checker supplies render coverage and exact projection identity separately. No Git operation."

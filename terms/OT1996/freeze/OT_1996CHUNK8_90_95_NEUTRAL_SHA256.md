@@ -3,9 +3,9 @@
 No Git operation. Five matters (90, 91, 93, 94, 95) prepared; 92 requires fresh neutral validation. Frozen source files must not be edited.
 
 - `OT_1996CHUNK8_90_91_93_94_95_NEUTRAL.md` — `90ca072122a151e722d86ef9c851ff2fd6c83fd193d28c726a2a0fff3304d7ff`
-- `OT_1996CHUNK8_90_95.md` — `dc09f611b3b72ffed1bb761c4a33df411872b1ee04965cdd5d1057e87b049907`
+- `OT_1996CHUNK8_90_95.md` — `2521cdc0bd1b701065980c1c2ecf1ca59a600e3c31479e6148698b185552a654`
 - `OT_1996CHUNK8_90_95_PREFLIGHT.md` — `fdcd226b1ca078a7bddbde84d9eb441b0a1637e18011908f7e722f2a8349b536`
-- `OT_1996CHUNK8_90_95_SELECTED.md` — `044e3c34321e020045ac0b6cb467a96a9776682cc644bbc0fffe1d0d28e17435`
+- `OT_1996CHUNK8_90_95_SELECTED.md` — `5a9929889be67d063bb8e57b9cb50ffe7469fbf0c68e4b559e5b09d0d5ad3f36`
 - `sources_90_95\Antoine.pdf` — `ecde19aa0216fef3e38b7c86d5844d76bb0f6ea645f1c8e7e7ea6c4f97e78f2f`
 - `sources_90_95\Antoine.txt` — `3f88abb28e3655b5dc20abc2653d6403adca73fde916d2fdb8ca70cd691955c5`
 - `sources_90_95\Forrester.pdf` — `ae46b188fd7182d45207cca6eeefcad1fadf16435638a306d8698be7967382bb`

@@ -6,11 +6,11 @@
 
 | Justice | Named Chief assignments in OT1994 |
 |---|---:|
-| Stone-Zsela | 5 |
+| Stone-Zsela | 7 |
 | Stevens | 11 |
-| O'Connor | 14 |
+| O'Connor | 13 |
 | Scalia | 5 |
-| Kennedy | 14 |
+| Kennedy | 13 |
 | Souter | 18 |
 | Thomas | 5 |
 | Ginsburg | 13 |

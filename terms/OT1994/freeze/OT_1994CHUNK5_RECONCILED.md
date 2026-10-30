@@ -716,11 +716,11 @@ The exact jury charge, complete indictment, preservation materials, separate kno
 
 ## Release and source separation
 
-**Final reconciled associate commitments for item 58, United States v. Pinson, assigned No. 94-164, May 8, 1995.** The actual-law chronology gate is complete for this case. The full final independent handoff, `freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md`, was read and its SHA-256 verified as `9aeb6ced90a263244ba48e346e455aea2b8d284e0024af98b84a2342123d40ac`. Its runtime copy has the same hash. This reconciliation retains each of the eight associates' selected disposition and sufficient ground. It is ready for the separate assembly stage, which must test actual compatibility after receiving the authorized current Stone position.
+**Final reconciled associate commitments for item 58, United States v. Pinson, assigned No. 94-164, May 8, 1995.** The actual-law chronology gate is complete for this case. The full final independent handoff, `freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md`, was read and its SHA-256 verified as `2c8a915f3d0fb241703908688487539ff2ab3ea90a376ec7a19251e49bd79d5a`. Its runtime copy has the same hash. This reconciliation retains each of the eight associates' selected disposition and sufficient ground. It is ready for the separate assembly stage, which must test actual compatibility after receiving the authorized current Stone position.
 
 This handoff selects no Chief vote, Court judgment, opinion author, assignment, publication decision or final opinion topology. The eight associates are Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; no case-specific nonparticipation is established. Hubbard remains outside this final release and still requires the actual immediately-before-May-15 law, including actual Pinson if completed, and its own clean final commitments and reconciliation.
 
-The research cutoff is immediately before May 8, 1995. The authorized actual-law reading copy is `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md`, SHA-256 `2050543f3cb961e9d045caf01b03685c6936fa848d5f7521200eaea959465425`. Its eight completed decisions are Kyles, Rubin and Stone v. INS on April 19; Morales and Williams on April 25; Travelers and Lopez on April 26; and Harris on April 27. The full newly released public fields, including Harris's holdings, grounds, limits, separate writings and procedure, were read; the earlier April 19 full-read receipt remains applicable. Robertson is unadjudicated and supplies no law. No forecast fills its absence, and no later thermal-imaging decision is used.
+The research cutoff is immediately before May 8, 1995. The authorized actual-law reading copy is `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md`, SHA-256 `e401be2d820c28b377565628a078718cbf5dfe96963699487e29fb707c902e44`. Its eight completed decisions are Kyles, Rubin and Stone v. INS on April 19; Morales and Williams on April 25; Travelers and Lopez on April 26; and Harris on April 27. The full newly released public fields, including Harris's holdings, grounds, limits, separate writings and procedure, were read; the earlier April 19 full-read receipt remains applicable. Robertson is unadjudicated and supplies no law. No forecast fills its absence, and no later thermal-imaging decision is used.
 
 AGENTS and the three governing foundation files were read at the outset. The current Engine's assignment clarification does not change this no-assignment stage. The authorized inputs are the Pinson section of the validated neutral packet and its validation receipt; the relevant entering-law and sanitized public-projection material; the final clean commitments; the assigned Pinson comparator; and the previously reviewed primary sources and public writings. The Pinson lower opinion was reread in full, including all footnotes and the separate sentencing section, for this final comparison. No private current Stone material, combined brief, raw Record, private ledger/continuity, or control/exposure file was opened. Links to raw Records in the reading copy were not followed. Earlier completed public writings were used only at their actual authority and date. No Git command was run. This is a durable filesystem freeze, not a claimed Git commit.
 
@@ -801,8 +801,8 @@ No newly discovered neutral material fact required a return to validation. The d
 
 | Preserved input or prior handoff | SHA-256 |
 |---|---|
-| Final `freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md` and identical runtime copy | `9aeb6ced90a263244ba48e346e455aea2b8d284e0024af98b84a2342123d40ac` |
-| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md` | `2050543f3cb961e9d045caf01b03685c6936fa848d5f7521200eaea959465425` |
+| Final `freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md` and identical runtime copy | `2c8a915f3d0fb241703908688487539ff2ab3ea90a376ec7a19251e49bd79d5a` |
+| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md` | `e401be2d820c28b377565628a078718cbf5dfe96963699487e29fb707c902e44` |
 | `runtime/OT_1994CHUNK5_COMPARATOR_58.md` | `d55b38633c3392b924031d18a90da6757e49d3ace3937252eda6f9a4f77587bf` |
 | Full Pinson lower text, `tmp/ot1994_chunk5_c/pinson.txt` | `cab8ccc8a75805734557158781d75cbb870896ba828e6c05c806755b7462ea38` |
 | Preserved `freeze/OT_1994CHUNK5_RECONCILED_PH_PRE_REFRESH.md` | `d34efdf0fa27a81fd9320e07221add2679579c8ac120d65524a1f72e22f240f4` |
@@ -824,7 +824,7 @@ The runtime and freeze copies of this final reconciliation must be byte-identica
 
 ## Final source lineage and completed chronology gate
 
-The final independent-model input is the paired runtime/freeze `OT_1994CHUNK5_COMMITMENTS_KANSAS.md`, SHA-256 `9d4de87765539e9f0f31f9165889a55a876e558f18c51d9b22ffa2f1487c852d`. Both copies are byte-identical. Its entire 180-line content was read in bounded portions, including its preserved substantive assessment and final Pinson application. It confirms that the clean model reviewed all nine actual earlier current-chunk decisions and changed no associate/component position. The former pending chronology condition is satisfied by completed public decisions and a completed independent refresh, not by predictions or an assumption of irrelevance.
+The final independent-model input is the paired runtime/freeze `OT_1994CHUNK5_COMMITMENTS_KANSAS.md`, SHA-256 `426b6e04aada6af6c6c13eca5cfaa25fb1bbaf8cf33cdb4ad1a4ae1132a101ab`. Both copies are byte-identical. Its entire 180-line content was read in bounded portions, including its preserved substantive assessment and final Pinson application. It confirms that the clean model reviewed all nine actual earlier current-chunk decisions and changed no associate/component position. The former pending chronology condition is satisfied by completed public decisions and a completed independent refresh, not by predictions or an assumption of irrelevance.
 
 The final actual-law reading copy is `entering-law/OT_1994CHUNK5_BEFORE_1995-05-15.md`, SHA-256 `bedcecf8a9db546baeb6c8029c0e3fbbc05914336c10350bf6d8010f953c9a71`. The completed earlier events are Kyles, Rubin and Stone v. INS (April 19); Morales and Williams (April 25); Travelers and Lopez (April 26); Harris (April 27); and Pinson (May 8). This reconciliation has reviewed their supplied public fields: the first three in the earlier authorized slice, Harris in the preceding continuation, and the complete Morales, Williams, Travelers, Lopez and Pinson public fields in the final slice. Control confirms the first eight events unchanged. Robertson remains unadjudicated and supplies no May 1 law. Same-date Hubbard supplies no entering law absent an expressly authorized sequence.
 
@@ -984,7 +984,7 @@ Validation completed: the final model was read fully and its runtime/freeze iden
 
 ## Final release, chronology and separation
 
-**Final reconciled associate commitments for Hubbard v. United States, No. 94-172, May 15, 1995.** The full 81,570-byte final independent handoff, `freeze/OT_1994CHUNK5_COMMITMENTS_HUBBARD.md`, was read in bounded sections. Its SHA-256 and that of its identical runtime copy are `8dea4517f585043e2a3540173e3ac98bb0a319c003823beef3c55750b4bf49b8`. This reconciliation corrects Kennedy from affirmance to reversal, Souter from reversal to affirmance, and Breyer from affirmance to reversal. It retains the other five dispositions, refines the exact grounds and partial-join limits, and adopts no independently sufficient lenity holding. These are corrections to independent commitments after the required qualitative historical comparison, not corrections to a completed adjudication.
+**Final reconciled associate commitments for Hubbard v. United States, No. 94-172, May 15, 1995.** The full 81,570-byte final independent handoff, `freeze/OT_1994CHUNK5_COMMITMENTS_HUBBARD.md`, was read in bounded sections. Its SHA-256 and that of its identical runtime copy are `0cb3397272d0f45a8cfd9e482369abc2b83547f52ebeadc6e7631fa2564d8322`. This reconciliation corrects Kennedy from affirmance to reversal, Souter from reversal to affirmance, and Breyer from affirmance to reversal. It retains the other five dispositions, refines the exact grounds and partial-join limits, and adopts no independently sufficient lenity holding. These are corrections to independent commitments after the required qualitative historical comparison, not corrections to a completed adjudication.
 
 The eight associates are Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; no case-specific nonparticipation is established. This document selects no current Chief vote, Court judgment, opinion author, assignment, publication decision or final topology. It is released to the separate assembly stage for testing compatibility with the authorized current Stone position. It records conclusions and legal bases, not deliberation transcripts.
 
@@ -1100,7 +1100,7 @@ Any newly discovered material neutral fact must return through clean validation 
 
 | Input or preserved handoff | SHA-256 |
 |---|---|
-| Final `OT_1994CHUNK5_COMMITMENTS_HUBBARD.md`, identical runtime/freeze | `8dea4517f585043e2a3540173e3ac98bb0a319c003823beef3c55750b4bf49b8` |
+| Final `OT_1994CHUNK5_COMMITMENTS_HUBBARD.md`, identical runtime/freeze | `0cb3397272d0f45a8cfd9e482369abc2b83547f52ebeadc6e7631fa2564d8322` |
 | Actual `entering-law/OT_1994CHUNK5_BEFORE_1995-05-15.md` | `bedcecf8a9db546baeb6c8029c0e3fbbc05914336c10350bf6d8010f953c9a71` |
 | Assigned `runtime/OT_1994CHUNK5_COMPARATOR_60.md` | `37497c727e0a6fd0d98d2460e6992ce11991e51ac3df4fe999b2ca62cde51974` |
 | Complete official Hubbard text | `e583792cf8cf7686bb23825391411d31340363e9257e2456b63f1b1e4a5a36dd` |
@@ -1108,6 +1108,6 @@ Any newly discovered material neutral fact must return through clean validation 
 | `OT_1994CHUNK5_NEUTRAL_VALIDATION_HUBBARD_UNIT.md` | `2d74e0b316fd080872135b7565cdffa5761817d9cff802c211ae1d26dd25f33e` |
 | Preserved `freeze/OT_1994CHUNK5_RECONCILED_PH_PRE_REFRESH.md` | `d34efdf0fa27a81fd9320e07221add2679579c8ac120d65524a1f72e22f240f4` |
 | Preserved `freeze/OT_1994CHUNK5_RECONCILED_PH_SOURCE_REFRESH.md` | `13131d957b5acfbc9342dd915b540660a0905f4214e792109e2aa734d727daa5` |
-| Preserved final `freeze/OT_1994CHUNK5_RECONCILED_PINSON.md` | `d9f2a113fe838db06a219561a55ea06b6fe7c1d41d42393df48ac2dcdc092d63` |
+| Preserved final `freeze/OT_1994CHUNK5_RECONCILED_PINSON.md` | `2587db1c66e57242bddc576d7aef059e530ebb14e6c8c87ba7fc67ca2aface6a` |
 
 The runtime and freeze copies of this final Hubbard handoff must be byte-identical; the final hash is reported externally to avoid self-reference. All prior freezes remain preserved. Assembly may proceed from these final associate conclusions, retaining every stated component, sufficient-ground, partial-join and remedial boundary.

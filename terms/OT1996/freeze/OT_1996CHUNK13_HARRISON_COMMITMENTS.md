@@ -15,7 +15,7 @@ The following authorized materials were read in full. Hashes identify raw file b
 | Input | Raw SHA-256 |
 |---|---|
 | [Harrison base neutral](OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md) | `2d63a68790f9b17b0eb2b946f4b0f7bf2b5243e08a72ae7dc24a33609eea0b15` |
-| [Harrison final neutral refresh](OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md) | `d177dd01e413f083fe1e3641d4d95bae768ee7f20603beb59026b418acf34343` |
+| [Harrison final neutral refresh](OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md) | `03a5cce4f3e672fdc1081f1b66cd6aa6efb29e949ab4c18da80a71b175f07879` |
 | [C entering-law slice](../entering-law/OT_1996CHUNK13_C.md) | `0da152ad23aac40d8fba4e3c4b3bbcf2d7e6004f62ba55c1f1a36574af65f768` |
 | [Final Faragher public dependency](../entering-law/OT_1996CHUNK13_FARAGHER_PUBLIC_DELTA.md) | `29953dce0ff5f89a4f10138c3d7b3f9aa853bc93190f298033859a9de3885902` |
 | [Exact reproduced instructions](../entering-law/OT_1996CHUNK13_HARRISON_INSTRUCTIONS.md) | `6a99d930e2bc91886f19cd783aa34fba41eea00d97831fe19104cf148e69723f` |

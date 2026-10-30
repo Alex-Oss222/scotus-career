@@ -1,7 +1,7 @@
 **Case and dockets:** Richards v. Wisconsin; No. 96-5955.
 **Event and date:** Merits decision, 1997-04-28; October Term 1996.
 **Result:** Affirmed, 9–0, on particularized destruction risk; categorical felony-drug exception rejected.
-**Version / lineage:** Original Canonical Decision Record; supersedes no adjudication. Written during this Run; no Git command or Git commitment is represented.
+**Version / lineage:** Original decision
 
 ## Decision kernel, entering law and Stone
 
@@ -75,7 +75,7 @@ Research cutoff: 1997-04-28; only date-eligible law and event facts support the 
 - `freeze/OT_1996CHUNK7_76_RECONCILED.md` — SHA-256 `94c7f06d24ae2da835405d39b8b6d2477e688b490b20cd16df4a298d50c497a6`.
 - `runtime/OT_1996CHUNK7_76_STONE.md` — SHA-256 `a00079f491d0c3ed9f71b1f886fdb17423a25970f7d13dc2f08d031e45ba2509`.
 - `entering-law/OT_1996CHUNK7_76_ENTERING_LAW.md` — SHA-256 `2ac3538f93326fcd4a1485e5d46655b74176eb4e2ea62f89ac005bcab311f5e4`.
-- `freeze/OT_1996CHUNK7_76_ASSIGNMENT_RECOUNT.json` — SHA-256 `9e3f3d06de324a20e04cd6c454bf078dcc5a46cc3b84cd01aacd32efb20f8513`.
+- `freeze/OT_1996CHUNK7_76_ASSIGNMENT_RECOUNT.json` — SHA-256 `b629c2008300b957e5f8ada96b244887603d6c7cd5b47294db014887dcca1160`.
 
 ## Public Projection
 

@@ -43,8 +43,8 @@ SHA-256 was captured before review and recomputed after both resumed Records exi
 | `caterpillar_v_uaw_dismissal_1998-03-23.md` | `cb31e8fb46a1c7450551c293773e81f7557b2ebdba3060159acbd8f160e8b491` |
 | `glendora_v_porzio_filing_order_1998-03-09.md` | `4613b6f02f00ad7b8f0355298dfbff9627c5a74ac1db4f2ae0022be12eb9aacf` |
 | `gray_v_maryland_merits_1998-03-09.md` | `36782bd881dc789dca09aefe486c7fd14a4a2161249c70c286a89f683c5d1845` |
-| `hetzel_v_prince_william_county_certiorari_1998-03-23.md` | `701ff07e809d875fbb9ae97a6e273653c091494ddf26d1906d5a671d6386d391` |
-| `hetzel_v_prince_william_county_summary_merits_1998-03-23.md` | `96508eda703222f3617e64d99ff81fe19268ffab80cbed21927e250d5734afe3` |
+| `hetzel_v_prince_william_county_certiorari_1998-03-23.md` | `5172e0ed96edbba048811c13f3bb1c90f8abd61222da119d7eacd1d0e6be4480` |
+| `hetzel_v_prince_william_county_summary_merits_1998-03-23.md` | `356f29cbf83a41cf5ed81bad5e8fca066b846a03ea8b9fdb31d6bd5ec0e5b589` |
 | `quality_king_distributors_v_lanza_research_international_merits_1998-03-09.md` | `64e6474e41240ea5930eb5aa7e9341abb7f03a18ed3b022ca49fc0916b3319fb` |
 | `united_states_v_robinson_merits_1998-03-23.md` | `3cb551d957ce6c6d86b78cc443f025ac9c2f6d6710150a576ea68907b5c6429f` |
 | `wp_v_verniero_merits_1998-03-16.md` | `9dad07f8bc22853ae33065758eda5c958abed2475ae538ae481f4929afa74aa4` |

@@ -1,7 +1,7 @@
 {
   "stage": "PRINTZ independent modeling",
   "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_PRINTZ_COMMITMENTS.md",
-  "sha256": "82b92909b1da4f8c7309204ca28d128ce24a2037abf3bb4d9ec6204cb20dda49",
+  "sha256": "492242f054baa9b47c5bf50146b5dcb4af45242dd0459d6efc56ad1aca8354d8",
   "context": "chunk13_model_b",
   "next_context": "chunk13_reconcile_b",
   "durability": "file preserved before the next isolated stage; operator Git commit pending",

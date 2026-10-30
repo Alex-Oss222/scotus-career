@@ -12,9 +12,9 @@
 |---|---|---|
 | [DORSAINVIL](OT_1997CHUNK6_RESUMED_DORSAINVIL_INDEPENDENT.md) | 1998-04-02 | `024fab5ac59f43443b0bd6569a52a4a64ea30496681f3f8bf2e4c688b79f41e3` |
 | [BIRD](OT_1997CHUNK6_RESUMED_BIRD_INDEPENDENT.md) | 1998-04-13 | `f7b2eedb7248f36eadef7f854d04eb20d80a39205452e038806b4592ab200f0e` |
-| [A732](OT_1997CHUNK6_RESUMED_A732_INDEPENDENT.md) | 1998-04-14 | `dc5b8d8335cb4294970ddb601b5d3cb513d2dce827b8649b7b0618a5a93b05ee` |
-| [CARRIGER](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md) | 1998-04-16 | `006d4833cf7224ffae0aabc9357e60164f59405368236e58052f18003d5e35e0` |
-| [Carriger acquisition clarification](OT_1997CHUNK6_RESUMED_CARRIGER_ACQUISITION_CHECK.md) | 1998-04-16 | `5012c907c0398f6caa63e2894bc0c8f45346aa5162b34e51f326b26871503b1f` |
+| [A732](OT_1997CHUNK6_RESUMED_A732_INDEPENDENT.md) | 1998-04-14 | `199a79ee71f829c05afed5c3e2f2ef41f8ca0331dc3bf1af108b75789d0c0373` |
+| [CARRIGER](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md) | 1998-04-16 | `cebb41e9b7ea3c70f6fdeb88c0d95f084df3ff279e83ac4bdd69cc137744c686` |
+| [Carriger acquisition clarification](OT_1997CHUNK6_RESUMED_CARRIGER_ACQUISITION_CHECK.md) | 1998-04-16 | `6ebacf6dd2cb2903bf3c9e06591d16c8c9652fa3c2538f5914da47408b0486bd` |
 
 
 ---
@@ -243,7 +243,7 @@ Every Associate can give the short signed explanation required for the actual re
 
 ## Validation and source-limit receipt
 
-The final packet hash was verified as `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c`; the entering-law slice hash was verified as `54e530a4ba53d2fbaf1c176935c4d5cfe22d46a74119cfd1fe856930c797b98d`. The full saved stay application and the identified supporting/opposing claim excerpts, District Claim IV, complete Article 36, Rules 22–23, exact C/E judicial text, complete Woodard and Coleman public positions, Lonchar public decision and applicable Standards modules were read. Teague supplements were read at the complete relevant entries.
+The final packet hash was verified as `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c`; the entering-law slice hash was verified as `496b844a176f4ceac43f632414501ba6dc9ae8a1d9fc43005aaf6fe75500c972`. The full saved stay application and the identified supporting/opposing claim excerpts, District Claim IV, complete Article 36, Rules 22–23, exact C/E judicial text, complete Woodard and Coleman public positions, Lonchar public decision and applicable Standards modules were read. Teague supplements were read at the complete relevant entries.
 
 No own-case historical Supreme Court result, private Stone position, comparator, reconciliation, prior provisional commitment, raw Record, ledger, continuity, runtime file or top-level private directory was accessed. No Git operation or unapproved source research occurred. Public earlier Stone writings present in the authorized source copies are earlier law/public positions, not current controlled material, and were not used to infer a current position. Long source quotations were not newly transcribed into this artifact; its conclusions are concise original doctrinal prose.
 
@@ -358,8 +358,8 @@ The clean Lindh supplement supplies Scalia's authored dissent, Kennedy's and Tho
 | Read source | SHA-256 |
 |---|---|
 | Final neutral handoff | `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c` |
-| Neutral validation receipt | `7b3781b31c33002c5c569984c9d3ce667e829561f2cf7582236c93a67d9263c5` |
-| Entering-law slice | `54e530a4ba53d2fbaf1c176935c4d5cfe22d46a74119cfd1fe856930c797b98d` |
+| Neutral validation receipt | `67fe696b809e2770d9d2055dc2e0052555430be43f16a938dfd2ff7ac0df7e50` |
+| Entering-law slice | `496b844a176f4ceac43f632414501ba6dc9ae8a1d9fc43005aaf6fe75500c972` |
 | Complete clean Carriger lower source | `d9df9ee923a9aba97e92fbf848a2295adf9fbbd0370ba10f2bd8997866d955d0` |
 | Fresh Lindh supplemental validation | `e2ce7ce2590f2147c8d4ca0acdb96a932324cebf8152921e90d886a4217cc1bb` |
 
@@ -372,7 +372,7 @@ The clean Lindh supplement supplies Scalia's authored dissent, Kennedy's and Tho
 
 **Stage and cutoff:** Independent non-Stone modeling; April 16, 1998. Supplemental clarification before historical reconciliation. No Stone position, comparator or new source has entered this context.
 
-**Primary artifact:** [OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md), SHA-256 `006d4833cf7224ffae0aabc9357e60164f59405368236e58052f18003d5e35e0`. Its bytes have not been changed. Read this supplement with it; the explicit reservations and remedial clarification below control any ambiguous suggestion in the primary artifact that the proposed acquisition duty has been rejected on its constitutional merits.
+**Primary artifact:** [OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md), SHA-256 `cebb41e9b7ea3c70f6fdeb88c0d95f084df3ff279e83ac4bdd69cc137744c686`. Its bytes have not been changed. Read this supplement with it; the explicit reservations and remedial clarification below control any ambiguous suggestion in the primary artifact that the proposed acquisition duty has been rejected on its constitutional merits.
 
 ## Result of the completeness check
 

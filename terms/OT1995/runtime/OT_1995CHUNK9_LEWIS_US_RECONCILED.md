@@ -7,7 +7,7 @@
 ## Frozen inputs and boundary
 
 - [Neutral packet](OT_1995CHUNK9_LEWIS_US_NEUTRAL.md), SHA-256 `e3518f8df86277ae61296d7535585e87227d92ae48bc81fd5c67d324301a02c0`.
-- [Independent commitments](OT_1995CHUNK9_LEWIS_US_COMMITMENTS.md), SHA-256 `c674907d950808309a605c184b90f73da81edd0e42c5a222bcf36554a0a69d14`.
+- [Independent commitments](OT_1995CHUNK9_LEWIS_US_COMMITMENTS.md), SHA-256 `5791421e8d0ac5704059db7482111b297b2d0a35ddc5c9449107f68ce7a05c8d`.
 - Relevant Lewis block, OT1995-089, of the historical comparator; complete lower judgment; relevant actual Nachtigal, Bagwell and Gaudin entries in the [criminal-law slice](../entering-law/OT_1995CHUNK9_JUNE24_CRIMINAL_LAW.md). The frozen independent analysis identifies the final pre-June-24 projection and the limited relevance of actual Markman, Rutledge and the June 20/21 decisions. None establishes a new statutory aggregation or sentencing-cap rule.
 
 No combined brief, current Stone handoff, private Decision Record or prohibited directory was opened. Earlier incidental exposure to the two family comparator blocks was disclosed during the first three reconciliations; it supplies no premise here. This context is a reconciliation context, not a representation of comparator-blind independent modeling.

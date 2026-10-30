@@ -1,7 +1,7 @@
 **Case and dockets:** Johnson v. Rodriguez; Fifth Circuit Nos. 95-50879 and 96-50382, 110 F.3d 299. No separate Supreme Court docket assigned.
 **Event and date:** Plenary merits decision on authorized submission, 1998-02-17; October Term 1997, chunk 4.
 **Result:** Protest-letter dismissal and fee vacatur affirmed; incompatible writ-writer directions vacated; remanded, 9–0 by component.
-**Version / lineage:** Original decision.
+**Version / lineage:** Original decision
 
 ## Event validation and entering law
 
@@ -11,7 +11,7 @@ Research cutoff: 1998-02-17. The seated Court consists of Chief Justice Stone-Zs
 
 ## Source separation and status
 
-Assembly received the [frozen neutral packet](../freeze/OT_1997CHUNK4_MODEL_A_NEUTRAL.md), [reconciled Associates](../freeze/OT_1997CHUNK4_A_RECONCILED.md), and only then the [scoped approved Stone supplement](../runtime/OT_1997CHUNK4_A_STONE.md). The reconciliation SHA-256 is c0286755f26108b21beabd48a024394fa5b9da0bedf43d1a0a6cfbd6c3096d71. Independent modeling and historical reconciliation occurred in separate scoped contexts. This assembly performs final compatibility; it claims no blindness to Stone or the comparator. The frozen commitments are unchanged. The complete individual commitments and legal grounds are preserved in the annex. No fictional circulation, bargain, or draft exchange is asserted.
+Assembly received the [frozen neutral packet](../freeze/OT_1997CHUNK4_MODEL_A_NEUTRAL.md), [reconciled Associates](../freeze/OT_1997CHUNK4_A_RECONCILED.md), and only then the [scoped approved Stone supplement](../runtime/OT_1997CHUNK4_A_STONE.md). The reconciliation SHA-256 is 097a7e301b94b4b1c48dca7a6e268f1888e0087183ade289867891b05e0ea6ad. Independent modeling and historical reconciliation occurred in separate scoped contexts. This assembly performs final compatibility; it claims no blindness to Stone or the comparator. The frozen commitments are unchanged. The complete individual commitments and legal grounds are preserved in the annex. No fictional circulation, bargain, or draft exchange is asserted.
 
 The dated event and public projection are durably preserved in this Record. Local checks cover identity, component disposition/ground/remedy, exact Stone joins, all eight Associate commitments, participation, vote arithmetic, form-first choice, actual-table assignment recount where applicable, and the eleven-block projection. Workspace integration, generated Render Input identity and the repository term checker remain pending root integration; this Record does not claim those unperformed checks passed. No git command or hash-existence claim is made. Sources support the facts identified; research limits establish no party default. The assembly validation receipt records the completed mechanical checks. Public separate positions below are the complete material noncontrolling continuity for this event; no other new roster, allotment or institutional change occurs.
 

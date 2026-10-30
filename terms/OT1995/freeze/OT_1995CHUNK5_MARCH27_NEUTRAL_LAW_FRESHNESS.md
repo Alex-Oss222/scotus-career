@@ -24,8 +24,8 @@ The March 25-to-March-26 comparison shows only the chronology/cutoff replacement
 | `../entering-law/PUBLIC_Meghrig_v_KFC_Western_Inc_merits_1996-03-19.md` | `d8dd49204799048234205b4c254d3783145a6f7053f43d68c287d865e317e685` |
 | `../entering-law/PUBLIC_Wisconsin_v_City_of_New_York_merits_1996-03-20.md` | `57e6e873debb69c6bf5c82817fd3a50d6c04755ed40a11c0b91be2b9a8ab3109` |
 | `../entering-law/PUBLIC_Barnett_Bank_of_Marion_County_v_Nelson_merits_1996-03-26.md` | `8499d463ba6a21bf3a56886650642a39caf8b075d9a1e30dbcb2b65863309de2` |
-| `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-25.md` | `218f863dd433e68b13d03406d7efeba982d770f014a60f07653f46db44b81e55` |
-| `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md` | `243708991f71b864854615e69e1b3c7fbc8d18b6b9269cead5c92f96e9d78f56` |
+| `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-25.md` | `40ff31f1219208f32106c4db803bd4b6b736dcf5133fc8c8ab79f8d9fcee02e7` |
+| `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md` | `b0d25e17851e189e2cde391e5848a95ead3e12bf677e7acbaa9e723e14afa259` |
 
 The Barnett and final-snapshot digests match the exact values supplied by root. The final snapshot's published account and the complete Barnett handoff agree on the protected-power rule, specific §92 conflict, McCarran-Ferguson exception, unresolved cross-appeals, and conditional relief. Snapshot descriptions of the other three new decisions likewise retain the material distinctions assessed below. No claim is made here to have read the private Records or independently compared the dated snapshot to the workspace projection; the root's sanitized release supplies that boundary.
 

@@ -71,7 +71,7 @@ File SHA256: 78101335d4f02a04a161a2aaec8a6301dd82371852c2d5a83a3089a7c4db0465
 ## United States v. Rybar; Third Circuit No. 95-3185; no separate Supreme Court docket assigned.
 Source Record: ../records/united_states_v_rybar_merits_1997-11-24.md
 Event: Plenary merits decision on authorized submission, 1997-11-24; October Term 1997.
-File SHA256: 6d5f29eac0937e871b283c1f071b906cc0c341b0077eaf579d7f089886976640
+File SHA256: 8782dc93cc5574136285443ed5a9165f86cde8c127c703e36f20608955a83283
 
 Kennedy delivers the opinion of the Court. All other Justices join Parts I–II on commerce power and personal invocation. Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, and Breyer join Part III's vacatur and remand. Stone-Zsela concurs in Parts I–II and dissents from Part III and the judgment.
 

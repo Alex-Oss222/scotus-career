@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. Pinson, No. 94-164; Eighth Circuit No. 93-2851.
 **Event and date:** Merits decision, 1995-05-08; October Term 1994, chunk 5.
 **Result:** Vacated insofar as the challenged suppression ruling and conviction affirmance rest on the no-search ground, and remanded, 7–2. Search coverage has seven votes; absence of an established warrant exception has six; the bounded mandate has seven. No automatic suppression, reopened affidavit-sufficiency proceeding, or independent sentencing relief.
-**Version / lineage:** Initial canonical adjudication; supersedes nothing. Preserved for operator verification and commitment. No Git command was run; repository verification and commitment remain with the operator. Close-audit correction 2026-09-30 (F09): completed validation status; replaces the prior wording in place without a new adjudication. User-authorized nonadjudicative correction, 2026-09-30 (F07, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
+**Version / lineage:** Original decision
 
 ## Event, posture, and record
 
@@ -15,7 +15,7 @@ Footnote 2 preserves the distinction between the presented search question and t
 
 ## Participation and entering law
 
-Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. The original preparation baseline was entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md, SHA-256 2050543F3CB961E9D045CAF01B03685C6936FA848D5F7521200EAEA959465425, together with the relevant C doctrinal slice. Its effective Kyles, Rubin, Stone v. INS, Morales, Williams, Travelers, Lopez, and Harris propositions retain their actual scope. The current effective baseline also includes [Robertson’s completed May 1, 1995 decision](United_States_v_Robertson_merits_1995-05-01.md); the [Robertson completion validation](../freeze/OT_1994CHUNK5_ROBERTSON_COMPLETION_VALIDATION.md) confirms no changed adjudicative predicate here. Katz/Karo coverage, Hicks's additional-examination boundary, the distinct aerial and canine analogies, Dickerson, Olano, Leon, and actual Evans remain applicable. No later thermal-imaging decision supplies a rule, factual assumption, or Justice position.
+Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participated. No nonparticipation is established. The same nine were eligible at argument or submission and decision. Six constitute a quorum; five votes decide a judgment. The original preparation baseline was entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md, SHA-256 E401BE2D820C28B377565628A078718CBF5DFE96963699487E29FB707C902E44, together with the relevant C doctrinal slice. Its effective Kyles, Rubin, Stone v. INS, Morales, Williams, Travelers, Lopez, and Harris propositions retain their actual scope. The current effective baseline also includes [Robertson’s completed May 1, 1995 decision](United_States_v_Robertson_merits_1995-05-01.md); the [Robertson completion validation](../freeze/OT_1994CHUNK5_ROBERTSON_COMPLETION_VALIDATION.md) confirms no changed adjudicative predicate here. Katz/Karo coverage, Hicks's additional-examination boundary, the distinct aerial and canine analogies, Dickerson, Olano, Leon, and actual Evans remain applicable. No later thermal-imaging decision supplies a rule, factual assumption, or Justice position.
 
 ## Stone: approved position and final compatibility
 
@@ -165,7 +165,7 @@ The case returns to the Eighth Circuit for lawful disposition of the preserved s
 
 ## Adaptive audit annex
 
-Final independent commitments: freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md, SHA-256 9AEB6CED90A263244BA48E346E455AEA2B8D284E0024AF98B84A2342123D40AC. Final reconciliation: freeze/OT_1994CHUNK5_RECONCILED_PINSON.md, SHA-256 D9F2A113FE838DB06A219561A55EA06B6FE7C1D41D42393DF48AC2DCDC092D63. Runtime and freeze copies match. The independent handoff was read fully during authorized preparation; the final reconciled handoff was read fully and verified before current Stone exposure. Its eight individual rows follow verbatim. No preliminary combined Pinson/Hubbard handoff substitutes for the final release.
+Final independent commitments: freeze/OT_1994CHUNK5_COMMITMENTS_PINSON.md, SHA-256 2C8A915F3D0FB241703908688487539FF2AB3EA90A376EC7A19251E49BD79D5A. Final reconciliation: freeze/OT_1994CHUNK5_RECONCILED_PINSON.md, SHA-256 2587DB1C66E57242BDDC576D7AEF059E530EBB14E6C8C87BA7FC67CA2AFACE6A. Runtime and freeze copies match. The independent handoff was read fully during authorized preparation; the final reconciled handoff was read fully and verified before current Stone exposure. Its eight individual rows follow verbatim. No preliminary combined Pinson/Hubbard handoff substitutes for the final release.
 
 | Associate | Final independent commitment | Final reconciliation | Individual legal basis, strongest contrary path and join boundary |
 |---|---|---|---|

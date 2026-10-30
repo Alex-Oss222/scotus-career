@@ -25,11 +25,11 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_B_NEUTRAL.md",
-        "sha256": "9d513cc9dfda57912c77defda933843d9d233a60a8ca046427cb300359633310"
+        "sha256": "730791234f2e8724b208b128d987aa74fd9979830689eea40b6b3ab04df8090a"
       },
       {
         "source": "freeze/OT_1996CHUNK13_B_NEUTRAL_VALIDATION.md",
-        "sha256": "686c1962889940f609e1b959b5b54d1e2be6ad23f6a5ef0bf6626a0de598939d"
+        "sha256": "65aff2657ca2985df2870e3f3e3332c36ad71483dde610da163995ecdb87c3d8"
       },
       {
         "source": "freeze/OT_1996CHUNK13_P_NEUTRAL.md",
@@ -49,7 +49,7 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_JUNE30_NEUTRAL_DEPENDENCY_REVIEW.md",
-        "sha256": "11b05aca49e3ee4bb64247dcf871fb5a06d1790f7e5ef998adc88b1dccccc60a"
+        "sha256": "a01e3cd454978a6756f26c03a10059b35eec42a26e05467af2799bfbae13ebe4"
       },
       {
         "source": "freeze/OT_1996CHUNK13_C_NEUTRAL.md",
@@ -61,7 +61,7 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_FARAGHER_NEUTRAL_REFRESH.md",
-        "sha256": "d30ba8789d9a3449333a74bd02eb850b9f1d7f8702553e1319fd8ba2bad1c1cd"
+        "sha256": "a80c24c66e44bc13bba0b415ce9e45eab3620b116eb2e56bb2113b2bbec5c790"
       },
       {
         "source": "freeze/OT_1996CHUNK13_HARRISON_BASE_NEUTRAL.md",
@@ -69,7 +69,7 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_HARRISON_NEUTRAL_REFRESH.md",
-        "sha256": "d177dd01e413f083fe1e3641d4d95bae768ee7f20603beb59026b418acf34343"
+        "sha256": "03a5cce4f3e672fdc1081f1b66cd6aa6efb29e949ab4c18da80a71b175f07879"
       }
     ]
   },
@@ -87,11 +87,11 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_PRINTZ_COMMITMENTS.md",
-        "sha256": "82b92909b1da4f8c7309204ca28d128ce24a2037abf3bb4d9ec6204cb20dda49"
+        "sha256": "492242f054baa9b47c5bf50146b5dcb4af45242dd0459d6efc56ad1aca8354d8"
       },
       {
         "source": "freeze/OT_1996CHUNK13_B2_COMMITMENTS.md",
-        "sha256": "8b14754be96efe09db26571c42cf9c02f62a9812fa304b62a9c7158032d5226b"
+        "sha256": "d321abcecddfa359ea39ac253015362c3544ce5edc79a8e97094bb4934b6f00b"
       },
       {
         "source": "freeze/OT_1996CHUNK13_FARAGHER_COMMITMENTS.md",
@@ -99,7 +99,7 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_HARRISON_COMMITMENTS.md",
-        "sha256": "c44a23649af9acdb3b819e56e5f2d4d74b641f1dbcafd8bd4c9ede2dbf745743"
+        "sha256": "15b879a2e77b911618b88111c58df46e9720a40f0ca70f4e66cbebfc8f33d399"
       }
     ]
   },
@@ -117,11 +117,11 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_PRINTZ_RECONCILED.md",
-        "sha256": "4ed14af60be02025ebd9d745ddb7778a4c6d083bcf4c4360e9ba74a60bd87e56"
+        "sha256": "0a122a8807c4247d5883eb89ae533d771220ed3ef99955856818a0b08f54e797"
       },
       {
         "source": "freeze/OT_1996CHUNK13_PRINTZ_POSTFREEZE_JOIN_AUDIT.md",
-        "sha256": "632931b41eba00fed93d014c9867cb5db14df1b48fc903bf8f3a16c9cc7283f2"
+        "sha256": "058bb1f7dabedef5870c2f3a47e7dd7853e8724a8730da98fbc4f7b99e1832a8"
       },
       {
         "source": "freeze/OT_1996CHUNK13_B2_RECONCILED.md",
@@ -129,7 +129,7 @@
       },
       {
         "source": "freeze/OT_1996CHUNK13_FARAGHER_RECONCILED.md",
-        "sha256": "7596068c48467117130ccdfc2089507498435014889f166926aaac6edc7fb823"
+        "sha256": "88eebb0a88f48b0620df760606434f78415e925776e527aedde0c81ed4e5fb42"
       },
       {
         "source": "freeze/OT_1996CHUNK13_HARRISON_RECONCILED.md",

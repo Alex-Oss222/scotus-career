@@ -7,12 +7,12 @@
     "Washington_v_Glucksberg_merits_1997-06-26.md": "cfa0d1858a665c8f4e76485a5c6fcabc4567b84f1c3ec69c6587c98a20f102a4",
     "Foreman_v_Dallas_County_summary_disposition_1997-06-27.md": "ccacc371915e25969646b86d7fa666b521075f2ce2b159146dfe144e95ae9ede",
     "Pounders_v_Watson_summary_disposition_1997-06-27.md": "e1ad11f60104913cf07136dd3b2794f019efb5e5b6fdadf352af8b6ad323dc10",
-    "Printz_v_United_States_Mack_v_United_States_merits_1997-06-27.md": "5850a662923bfe87a71e9a6aedf1efe66525817eb815d869330d15c7e2d9c4a8"
+    "Printz_v_United_States_Mack_v_United_States_merits_1997-06-27.md": "e35ae6c408f6ce864b8f34bf6374fe8d41450cef60aff9d5a09e389da898092d"
   },
   "independent_review": "freeze/OT_1996CHUNK13_REVIEW.md",
   "deterministic": "freeze/OT_1996CHUNK13_DETERMINISTIC.json",
   "date": "1997-06-27",
   "entering_law_delta": "entering-law/OT_1996CHUNK13_JUNE27_PUBLIC_DELTA.md",
-  "delta_sha256": "2433c0454029657ea38fbe0d1c3a8bae3557ef01f9c52d1e2bfb69ab15ca20af",
+  "delta_sha256": "73fbd9694ee80ac79529c54103e47979ca8c43fe4a332e0ea0e207e0dcab584b",
   "Git": "not invoked; operator commitment pending"
 }

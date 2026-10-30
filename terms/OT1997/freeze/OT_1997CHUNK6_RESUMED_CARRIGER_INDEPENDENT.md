@@ -104,8 +104,8 @@ The clean Lindh supplement supplies Scalia's authored dissent, Kennedy's and Tho
 | Read source | SHA-256 |
 |---|---|
 | Final neutral handoff | `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c` |
-| Neutral validation receipt | `7b3781b31c33002c5c569984c9d3ce667e829561f2cf7582236c93a67d9263c5` |
-| Entering-law slice | `54e530a4ba53d2fbaf1c176935c4d5cfe22d46a74119cfd1fe856930c797b98d` |
+| Neutral validation receipt | `67fe696b809e2770d9d2055dc2e0052555430be43f16a938dfd2ff7ac0df7e50` |
+| Entering-law slice | `496b844a176f4ceac43f632414501ba6dc9ae8a1d9fc43005aaf6fe75500c972` |
 | Complete clean Carriger lower source | `d9df9ee923a9aba97e92fbf848a2295adf9fbbd0370ba10f2bd8997866d955d0` |
 | Fresh Lindh supplemental validation | `e2ce7ce2590f2147c8d4ca0acdb96a932324cebf8152921e90d886a4217cc1bb` |
 

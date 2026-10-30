@@ -4,7 +4,7 @@
 
 **Stage:** Independent modeling completed for operator review and freeze. No historical reconciliation, Stone comparison, assignment, opinion author or final Court tally is supplied. These are supported provisional decisional conclusions, not an account of deliberations.
 
-**Freshness:** The operative public baseline is `entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md`, supplied freeze `099e65e`, SHA-256 `df9f42e54111b8773ed103bfe7cd6bd014dc05aea94c3e5dbaf0ea0cf1f33105`. The final clean release is `OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md`, supplied freeze `41fd22a`, SHA-256 `4c565d5384ea6897ab27a9521051adbee56725151fbdc0dfba31c4aae8b35bea`. Both hashes were independently checked. All eight Associates are seated at argument and decision; no case-specific exclusion is supplied. The other April 1 matters furnish no entering law.
+**Freshness:** The operative public baseline is `entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md`, supplied freeze `099e65e`, SHA-256 `9e2e801fd0307b13f34ee87761f5b0b83276438ae819c244211347988f0be6c3`. The final clean release is `OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md`, supplied freeze `41fd22a`, SHA-256 `6af8c69cb8e824a628a6456541c8a00f64cbaee88be9c3e849ce505555a9d4d6`. Both hashes were independently checked. All eight Associates are seated at argument and decision; no case-specific exclusion is supplied. The other April 1 matters furnish no entering law.
 
 ## Controlling materials and posture
 

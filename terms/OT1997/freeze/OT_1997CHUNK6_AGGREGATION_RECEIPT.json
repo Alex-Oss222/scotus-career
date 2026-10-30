@@ -25,7 +25,7 @@
     ]
   },
   "OT_1997CHUNK6_RECONCILED.md": {
-    "sha256": "d27c21cd2d44cd56f7219f57009bfc797250a68b6ed09624b317ebeca6497841",
+    "sha256": "7d62763ed0e619d872ab0625b45b18caa047247cd38042bbf547954792b8ee0e",
     "sources": [
       {
         "source": "OT_1997CHUNK6_A_RECONCILED.md",
@@ -37,7 +37,7 @@
       },
       {
         "source": "OT_1997CHUNK6_HINDS_RECONCILED.md",
-        "sha256": "2d15b1969f8705899a156afcd864b6890614a0e9bbaddc02247959b1e5f55a40"
+        "sha256": "7eecc813c2c8c3254d899989ae4a3908ecaf32f427e7e916c08054c27ccc29bc"
       },
       {
         "source": "OT_1997CHUNK6_BREARD_RECONCILED.md",

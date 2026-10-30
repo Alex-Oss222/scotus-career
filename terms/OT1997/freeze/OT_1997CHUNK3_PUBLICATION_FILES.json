@@ -125,7 +125,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_AFTER_INTERIM_STARTING_HASHES.json",
       "bytes": 59188,
-      "sha256": "b8083619ffb6cded5b4588896401751c2f0617f062b9ca41a9a730b72cf694a3"
+      "sha256": "aa8a13c96fefbf137ee29d9a574fd56e9d241ca35d5785ee94c6f9e097944804"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_ALEXANDER_EXPOSURE_RECEIPT.md",
@@ -505,7 +505,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_INTERIM_RENDER_FIDELITY_RECEIPT.json",
       "bytes": 4633,
-      "sha256": "50b579710e56923b8f3dc3f1eabaaebc318f69a3d897827d43a441f28c263ade"
+      "sha256": "b3b641cd26f5cb7d92ed1cebe4f393746cd78e371e0c25a86c1cf17db73cab04"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_INVENTORY_SUPPLEMENT.md",
@@ -540,7 +540,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_ASSIGNMENT_RECEIPT.json",
       "bytes": 41507,
-      "sha256": "19a65b1c26e0a781ee81f6f2ff606ee1377b94f73df926c3453a932f9fad3361"
+      "sha256": "b366d1406581dc24788f0cad09cfa670e2a49c115ffaab21be1c4844247e0864"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_MACARTHUR_FINAL_FORM_FIRST.md",
@@ -695,7 +695,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_PRESERVATION_CHECK.json",
       "bytes": 1371,
-      "sha256": "297c23cccca3e2679a44a2b551facaf987809187a3923388516229c83d6f5e7f"
+      "sha256": "91fab5e0a1946c4988db41d7b0ee5a59d701e0dde9f781f121826ef472b8c2d6"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_PRE_RENDER_CHECK.json",
@@ -1140,7 +1140,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_STARTING_HASHES.json",
       "bytes": 59037,
-      "sha256": "ccd9facb153069e1de8496a969233ad07c34411254694453daf74bfaf5dea3f8"
+      "sha256": "fdf1d04cb04c285c52346bc686e9249eb4e6a60301f5e15881a7288ddcfb4427"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_STOPPED_MATTERS.json",
@@ -2350,7 +2350,7 @@
     {
       "path": "terms/OT1997/workspace/ledger.md",
       "bytes": 22028,
-      "sha256": "c82f746eb4c6c3402cd4d088bc0ae925939fb61a51ef381257fe8c44d795d54b"
+      "sha256": "c1c1469009c563e7e02a9731d4a43a1048abbab38f9ec992e9f556ff3451313a"
     },
     {
       "path": "terms/OT1997/workspace/manifest.md",

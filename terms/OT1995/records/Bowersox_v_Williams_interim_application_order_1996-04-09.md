@@ -1,7 +1,7 @@
 **Case and dockets:** Bowersox v. Williams, application No. A-828; 517 U.S. 345; October Term 1995.
 **Event and date:** Interim application-processing order, 1996-04-09.
 **Result:** Final disposition reserved for immediate record examination. The eight Associates adopt the bounded two-hour supplementation/four-hour return procedure without a new Supreme Court execution stay. Stone-Zsela supports reservation and record examination but retains his different record directions and proposed administrative execution protection. The application remains pending.
-**Version / lineage:** Initial interim Record; supersedes no prior Court action. Assembly follows reconciliation frozen at 7f90a01; no final application disposition is entered.
+**Version / lineage:** Original decision
 
 ## Posture, participation and entering law
 
@@ -9,7 +9,7 @@ The State seeks vacatur of the Eighth Circuit's execution stay concerning Doyle 
 
 O'Connor is the Eighth Circuit Justice under the August 3, 1994 allotment and presents and refers the application under Rule 22 and the effective full-Court referral practice. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. Nine supply a quorum; five suffice for Court action. The Rule of Four does not govern this application. No unavailable or recused Justice, substitute, earlier individual temporary order or additional seat is invented.
 
-The [April 1 public snapshot](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md), committed at 24a465e, and [April 9 law-freshness certificate](../freeze/OT_1995CHUNK5_BOWERSOX_LAW_FRESHNESS_1996-04-09.md), c1d8d9b, supply entering law. The snapshot SHA-256 is `8012c6c0c65f2313d0d7772d764cd84530f7820a95d5fe81d74f692294b9a69b`. All earlier completed Chunk 5 Court events are effective. The April 1 group itself used the common March 27 baseline. April 9 precedes AEDPA; no later statute or certificate-of-appealability regime enters.
+The [April 1 public snapshot](../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md), committed at 24a465e, and [April 9 law-freshness certificate](../freeze/OT_1995CHUNK5_BOWERSOX_LAW_FRESHNESS_1996-04-09.md), c1d8d9b, supply entering law. The snapshot SHA-256 is `faba63469d5714f13743e6357d5ebb6ffda9d36aa1ed6f9c310aa6f1f0e1d083`. All earlier completed Chunk 5 Court events are effective. The April 1 group itself used the common March 27 baseline. April 9 precedes AEDPA; no later statute or certificate-of-appealability regime enters.
 
 The [neutral validation](../freeze/OT_1995CHUNK5_BOWERSOX_NEUTRAL_VALIDATED.md), 208dca9, [clean primary-source addendum](../freeze/OT_1995CHUNK5_BOWERSOX_PRIMARY_SOURCE_ADDENDUM.md), 2b143e5, [statutory addendum](../freeze/OT_1995CHUNK5_HABEAS_STATUTE_SOURCE_ADDENDUM.md), 34e8745, and [Barefoot qualification](../freeze/OT_1995CHUNK5_LONCHAR_BAREFOOT_SOURCE_ADDENDUM.md), ee9f1b5, establish the permitted frame. The superseded preparation memorandum is not authority for this assembly. The actual Rules 22–23 were checked directly in the official 1995 Rules; Rule 22.6 requires appropriately speedy advice to the parties but prescribes no two- or four-hour period.
 

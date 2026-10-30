@@ -1,6 +1,6 @@
 # OT1994 assignment review for Engine ?8
 
-Read solely for the preceding-term assignment restriction. Each opinion counts once when the Chief assigned any part. Day has separate Kennedy and Stone opinions; mixed Chief/Associate assignments to a single author count once. Five associate-only assignments, two Admitted Source Records, and one unattributed per curiam action are identified separately. Git verification is deferred to the operator.
+Read solely for the preceding-term assignment restriction. Each opinion counts once when the Chief assigned any part. Day has separate Kennedy and Stone opinions; mixed Chief/Associate assignments to a single author count once. Six associate-only assignments, two Admitted Source Records, and one unattributed per curiam action are identified separately. Git verification is deferred to the operator.
 
 | Record | Chief-assigned author |
 |---|---|
@@ -80,14 +80,14 @@ Read solely for the preceding-term assignment restriction. Each opinion counts o
 | [record](../../OT1994/records/Schlup_v_Delo_merits_1995-01-23.md) | Stevens |
 | [record](../../OT1994/records/Shalala_v_Guernsey_Memorial_Hospital_merits_1995-03-06.md) | Kennedy |
 | [record](../../OT1994/records/Shalala_v_Whitecotton_merits_1995-04-18.md) | O'Connor |
-| [record](../../OT1994/records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md) | Kennedy |
+| [record](../../OT1994/records/Stone_v_Immigration_and_Naturalization_Service_merits_1995-04-19.md) | Associate-only assignment; excluded |
 | [record](../../OT1994/records/Swanner_v_Anchorage_Equal_Rights_Commission_merits_1995-03-27.md) | Associate-only assignment; excluded |
 | [record](../../OT1994/records/Swint_v_Chambers_County_Commission_merits_1995-03-01.md) | Ginsburg |
 | [record](../../OT1994/records/Tome_v_United_States_merits_1995-01-10.md) | Kennedy |
 | [record](../../OT1994/records/United_States_v_Aguilar_merits_1995-06-21.md) | Ginsburg |
 | [record](../../OT1994/records/United_States_v_Gaudin_merits_1995-06-19.md) | Scalia |
-| [record](../../OT1994/records/United_States_v_Harris_merits_1995-04-27.md) | O'Connor |
-| [record](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md) | Kennedy |
+| [record](../../OT1994/records/United_States_v_Harris_merits_1995-04-27.md) | Stone-Zsela |
+| [record](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md) | Stone-Zsela |
 | [record](../../OT1994/records/United_States_v_Mezzanatto_merits_1995-01-18.md) | Thomas |
 | [record](../../OT1994/records/United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md) | Stevens |
 | [record](../../OT1994/records/United_States_v_Pinson_merits_1995-05-08.md) | Scalia |
@@ -106,8 +106,8 @@ Read solely for the preceding-term assignment restriction. Each opinion counts o
 | [record](../../OT1994/records/Witte_v_United_States_merits_1995-06-14.md) | O'Connor |
 | [record](../../OT1994/records/Young_v_Northern_Illinois_Conference_merits_1995-01-17.md) | Souter |
 
-Named Chief assignments: 94. One additional per curiam disposition has no named author. Neither denominator produces a Justice over half.
+Named Chief assignments: 93. One additional per curiam disposition has no named author. Neither denominator produces a Justice over half.
 
-Stevens: 11; Breyer: 8; Ginsburg: 13; Souter: 18; Kennedy: 15; Scalia: 5; O'Connor: 14; Thomas: 5; Stone-Zsela: 5.
+Stevens: 11; Breyer: 8; Ginsburg: 13; Souter: 18; Kennedy: 13; Scalia: 5; O'Connor: 13; Thomas: 5; Stone-Zsela: 7.
 
 No Justice triggers the consecutive-term restriction at the start of OT1995. Current assignments will still be assessed by fit and coalition needs, and tracked from the current Records.

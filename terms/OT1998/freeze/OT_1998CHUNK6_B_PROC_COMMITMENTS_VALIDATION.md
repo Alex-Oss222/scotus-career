@@ -8,7 +8,7 @@ Input digests identify the files containing the authorized reading portions; the
 
 | Input | SHA-256 |
 |---|---|
-| `freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md` | `95a72a889d336e19fd152d1dd7872b823e31b735e029863e7b893671b5139da6` |
+| `freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md` | `2169f50cdfeb2c3053eddcdd7133a18001a33a0bd4418dc7d57729337926b577` |
 | `runtime/OT_1998CHUNK6_B_NEUTRAL.md` | `a280e2f1866225cbe329ebb914233ecb1026261f58615c55c5fa1b2f6384b058` |
 | `entering-law/OT_1998CHUNK6_B_FRESH_SELECTED.md` | `31a968be74f1aa5180ecee5efba1ee59c7ad00bf6cd5ec790a652bdf5bb0bc97` |
 | `runtime/OT_1998CHUNK6_CONN_OBJECTIVE_RECORD.md` | `51dc0c9b1a3d7766c29c926551e3b169f1906ea0d1c67f0ac4fe8ed8ddf6a7b7` |

@@ -288,7 +288,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_BASELINE_IDENTITIES.json",
       "bytes": 431077,
-      "sha256": "75c5137b2ee51cfde26638de870c0a43d96fb29af735ae2a9a1297cff3d0be17"
+      "sha256": "57850c570abec5dac675f6c98705307e03a6c61bb3154d5dd73a03ba19ab9fb5"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_APPROVED_SECTION_I_VERBATIM.md",
@@ -588,12 +588,12 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_PRIOR_PUBLIC_SOURCES.json",
       "bytes": 12042,
-      "sha256": "205a872fc06f7a003265955a8c056465f23b0e25a0018e457000a49e9af02c10"
+      "sha256": "5845f1f9eb62e02dd880afda38d790748c337e18352aeb177375c861f3a4e8a0"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_PRIOR_RECORD_LINK_TARGETS.json",
       "bytes": 2983,
-      "sha256": "60a55ab296f2bbc7eca02c28ea4d744fc4fc7363543cde384a6815c5191c5430"
+      "sha256": "f1609e64147729979b39bfa5fb4b66c7564f54264218e90bee26f08f75ca2e11"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_RECONCILED.md",
@@ -618,7 +618,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_SOURCE_FRESHNESS.json",
       "bytes": 418668,
-      "sha256": "bc799733d6bc5dc9750dc12d002f06d044c25800bd607104fdef4d9ad58a920f"
+      "sha256": "2b48b7190c0016c364f29b0168ec334d9146af3efc006f71b9efb102e4a5162a"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_STAGE_PROVENANCE.md",

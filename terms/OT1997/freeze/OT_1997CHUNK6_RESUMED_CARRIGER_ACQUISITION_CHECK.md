@@ -2,7 +2,7 @@
 
 **Stage and cutoff:** Independent non-Stone modeling; April 16, 1998. Supplemental clarification before historical reconciliation. No Stone position, comparator or new source has entered this context.
 
-**Primary artifact:** [OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md), SHA-256 `006d4833cf7224ffae0aabc9357e60164f59405368236e58052f18003d5e35e0`. Its bytes have not been changed. Read this supplement with it; the explicit reservations and remedial clarification below control any ambiguous suggestion in the primary artifact that the proposed acquisition duty has been rejected on its constitutional merits.
+**Primary artifact:** [OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md](OT_1997CHUNK6_RESUMED_CARRIGER_INDEPENDENT.md), SHA-256 `cebb41e9b7ea3c70f6fdeb88c0d95f084df3ff279e83ac4bdd69cc137744c686`. Its bytes have not been changed. Read this supplement with it; the explicit reservations and remedial clarification below control any ambiguous suggestion in the primary artifact that the proposed acquisition duty has been rejected on its constitutional merits.
 
 ## Result of the completeness check
 

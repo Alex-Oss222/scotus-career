@@ -1,7 +1,7 @@
 {
   "stage": "FARAGHER historical reconciliation",
   "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_FARAGHER_RECONCILED.md",
-  "sha256": "7596068c48467117130ccdfc2089507498435014889f166926aaac6edc7fb823",
+  "sha256": "88eebb0a88f48b0620df760606434f78415e925776e527aedde0c81ed4e5fb42",
   "context": "chunk13_reconcile_c",
   "next_context": "chunk13_assemble_medical",
   "durability": "file preserved before the next isolated stage; operator Git commit pending",

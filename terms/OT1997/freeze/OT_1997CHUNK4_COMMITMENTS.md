@@ -4,7 +4,7 @@ This is a mechanical reading copy of the three named authoritative scoped freeze
 
 | Authoritative scoped freeze | SHA-256 |
 |---|---|
-| [OT_1997CHUNK4_A_COMMITMENTS.md](OT_1997CHUNK4_A_COMMITMENTS.md) | `e8f9c08695b2eac1cf5d484c81de10978ff5ff31117ed3ee8c8503c2649dbae0` |
+| [OT_1997CHUNK4_A_COMMITMENTS.md](OT_1997CHUNK4_A_COMMITMENTS.md) | `5cad99de0b05bd19ca079f4a3496cdf2d2b9b0802094663b52a32d15e39b849e` |
 | [OT_1997CHUNK4_B_COMMITMENTS.md](OT_1997CHUNK4_B_COMMITMENTS.md) | `488f555ae40c8f4ddb5c8404c3227d4d9fb9c502e24b6abbf25d3f3a692c2db5` |
 | [OT_1997CHUNK4_NCUA_COMMITMENTS.md](OT_1997CHUNK4_NCUA_COMMITMENTS.md) | `29e280cfa878a27a28e15fa4942decb58ba7e5447b17790ee86a7007d8b4bca9` |
 
@@ -236,7 +236,7 @@ The following SHA-256 values identify the files actually consulted, including ta
 | `foundation/ENGINE.md` | `505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c` |
 | `terms/OT1997/freeze/OT_1997CHUNK4_MODEL_A_NEUTRAL.md` | `c7fb022db98c538183168d9240a976db12ebb27c0982e10cb938c8a9f3944969` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_INDEX.md` | `29beab9939bc49291287a15ed6dca6be078867a1a62744dcf09229fb54f4608b` |
-| `terms/OT1997/entering-law/OT_1997CHUNK4_01_KIRK.md` | `6c6f87234158758224424f145fc3f22b6566a81ebad20a3f3e69c0882f7c9014` |
+| `terms/OT1997/entering-law/OT_1997CHUNK4_01_KIRK.md` | `85405e9e5e7c83479d191047532a666608025b6e8a91147a7bb181569ac89f6b` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_02_JOHNSON.md` | `d8afd2468957b039ee36e4e216dd7d55801d7b80bee3b8238bc6283f2ee406c7` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_03_NEWSWEEK.md` | `dd0d16f79d9b7bfddf36bf8c19cc367293ffb984fd6716e5f8714d5397f8f044` |
 | `terms/OT1997/entering-law/OT_1997CHUNK4_04_ARTEAGA.md` | `dc6c0087086ba213858a6175e3890dfd39fac53479831acad46d57df9d1ec12c` |

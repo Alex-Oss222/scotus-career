@@ -19,7 +19,7 @@
         155
       ],
       "public_blocks": 11,
-      "sha256": "4adf6d40fc29bd2ff1e19a5c9968f5fe2a0f4e35799a04b957a74511738f79e3"
+      "sha256": "c3dcbf044e5ab25188ad112d7ce2ce0e5be680fcb107c480f5aed13115e8d793"
     },
     {
       "record": "Kansas_v_Colorado_original_exceptions_1995-05-15.md",
@@ -37,7 +37,7 @@
         164
       ],
       "public_blocks": 11,
-      "sha256": "ffb0bb168031b43c1f7613bbe6135406be4736fe7ff00249ba3da74be4c7ab47"
+      "sha256": "adcd1e7d11de507531490c134bc9cef434c0e2b6c872b6e0b25962052410fcf0"
     },
     {
       "record": "Kyles_v_Whitley_merits_1995-04-19.md",
@@ -86,13 +86,13 @@
       "record": "United_States_v_Harris_merits_1995-04-27.md",
       "effective_date": "1995-04-27",
       "explanation_words": [
-        165,
+        289,
         166,
         161,
         156
       ],
       "public_blocks": 11,
-      "sha256": "d9f9a60338f1aafd3cff0963bb8abfcace6ffd105c41228ca30ca4ae14901ace"
+      "sha256": "eee1953f03cd3b0ef8c3d3d100e5af9c4b1155d62e8c91ffafc33def97e382e0"
     },
     {
       "record": "United_States_v_Lopez_merits_1995-04-26.md",
@@ -113,7 +113,7 @@
         162
       ],
       "public_blocks": 11,
-      "sha256": "b2c620c4eb7f9ca146a9521f75b7bc7f59ca310b21c3154084415b480361e809"
+      "sha256": "f3b9a26d8e5da08fb8003917bb9f1e82c2aff55853be5c0be1daf6ff5e67140b"
     },
     {
       "record": "United_States_v_Williams_merits_1995-04-25.md",

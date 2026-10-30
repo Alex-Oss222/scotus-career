@@ -61,7 +61,7 @@ This screen identifies no necessary alteration of either existing result or auth
 
 The following SHA-256 values identify the existing bytes examined:
 
-- Hinds: `1DC7354E9E7078B0562F1A80B6372CBC537570A6908700CC4B1BA6F1AF838D87`.
+- Hinds: `2A179E5F13E1E2703201776F1129537EF014664B5F388AD9849DFD738AD63603`.
 - Breard three-application Record: `BDE3469EFCE6A355ACD77FFAAE1BF265D41F4C1452BD22D4D8978AFEB870A78E`.
 
 No Git command was run. No existing Record, workspace projection, Render Input or public render was changed by this review. This new receipt is the sole written artifact of the dependency screen. No repository-commit verification, completed new adjudication or final legal validation is claimed.

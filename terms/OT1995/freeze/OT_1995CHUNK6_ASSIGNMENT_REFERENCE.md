@@ -8,11 +8,11 @@ Count each opinion once as Chief-assigned if the Chief assigned any portion. Dif
 
 | Justice | OT1994 named Chief assignments | OT1995 named Chief assignments through April 9 |
 |---|---:|---:|
-| Stone-Zsela | 5 | 2 |
+| Stone-Zsela | 7 | 2 |
 | Stevens | 11 | 4 |
-| O'Connor | 14 | 15 |
+| O'Connor | 13 | 15 |
 | Scalia | 5 | 1 |
-| Kennedy | 14 | 5 |
+| Kennedy | 13 | 5 |
 | Souter | 18 | 10 |
 | Thomas | 5 | 5 |
 | Ginsburg | 13 | 8 |
@@ -110,8 +110,8 @@ The April 9 interim Bowersox coordinated Kennedy opinion counts once because the
 | [Tome_v_United_States_merits_1995-01-10.md](../../OT1994/records/Tome_v_United_States_merits_1995-01-10.md) | Kennedy |
 | [United_States_v_Aguilar_merits_1995-06-21.md](../../OT1994/records/United_States_v_Aguilar_merits_1995-06-21.md) | Ginsburg |
 | [United_States_v_Gaudin_merits_1995-06-19.md](../../OT1994/records/United_States_v_Gaudin_merits_1995-06-19.md) | Scalia |
-| [United_States_v_Harris_merits_1995-04-27.md](../../OT1994/records/United_States_v_Harris_merits_1995-04-27.md) | O'Connor |
-| [United_States_v_Lopez_merits_1995-04-26.md](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md) | Kennedy |
+| [United_States_v_Harris_merits_1995-04-27.md](../../OT1994/records/United_States_v_Harris_merits_1995-04-27.md) | Stone-Zsela |
+| [United_States_v_Lopez_merits_1995-04-26.md](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md) | Stone-Zsela |
 | [United_States_v_Mezzanatto_merits_1995-01-18.md](../../OT1994/records/United_States_v_Mezzanatto_merits_1995-01-18.md) | Thomas |
 | [United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md](../../OT1994/records/United_States_v_National_Treasury_Employees_Union_merits_1995-02-22.md) | Stevens |
 | [United_States_v_Pinson_merits_1995-05-08.md](../../OT1994/records/United_States_v_Pinson_merits_1995-05-08.md) | Scalia |

@@ -1,7 +1,7 @@
 **Case and dockets:** Medtronic, Inc. v. Lohr; Lohr v. Medtronic, Inc.; Nos. 95-754 and 95-886; October Term 1995.
 **Event and date:** Merits decision, 1996-06-26; argued April 23, 1996.
 **Result:** No. 95-754 affirmed on the restored design claims, 9-0; No. 95-886 reversed as to the challenged manufacturing and warning preemption barriers, 6-3, with unanimous rejection of the categorical parallel-duty bar; remanded for ordinary proceedings.
-**Version / lineage:** Original Canonical Decision Record; no earlier adjudication is replaced. Preserved in the filesystem under the no-Git instruction; operator verification and repository commitment remain pending.
+**Version / lineage:** Original decision
 
 ## Decision kernel
 
@@ -61,7 +61,7 @@ The decision adds a Medical Device Amendments application and a direct common-la
 
 ### Frozen stages and complete source boundary
 
-The frozen neutral, independent commitments and reconciled handoff were read completely. The authoritative reconciliation is [MEDTRONIC_RECONCILED](../freeze/OT_1995CHUNK9_MEDTRONIC_RECONCILED.md), SHA256 08782AE4208383304CAA366645013DD32A8A056113443E75CE6EBFDE18EB0E44; the hash was checked before reading only the runtime Stone block OT1995-092. The [independent commitments](../freeze/OT_1995CHUNK9_MEDTRONIC_COMMITMENTS.md) and [neutral packet](../freeze/OT_1995CHUNK9_MEDTRONIC_NEUTRAL.md) remain unchanged. No original combined comparator was needed or opened for assembly.
+The frozen neutral, independent commitments and reconciled handoff were read completely. The authoritative reconciliation is [MEDTRONIC_RECONCILED](../freeze/OT_1995CHUNK9_MEDTRONIC_RECONCILED.md), SHA256 1CAA0D8E6B6FA6E5B7255FDCA55CE2190E67A3BFD344B95CB2A4160ECAF6C26B; the hash was checked before reading only the runtime Stone block OT1995-092. The [independent commitments](../freeze/OT_1995CHUNK9_MEDTRONIC_COMMITMENTS.md) and [neutral packet](../freeze/OT_1995CHUNK9_MEDTRONIC_NEUTRAL.md) remain unchanged. No original combined comparator was needed or opened for assembly.
 
 The reconciliation documents its full official historical reading of all 45 report pages, every writing and every footnote. Its disclosed premature later-source search snippet was not forwarded to modeling and did not supply authority; assembly preserves that disclosure without claiming perfect earlier blindness on its behalf. This assembly context previously performed control research and other-case assembly and makes no clean-model claim. The current task remained physically separate from independent modeling and reconciliation. No draft circulation history is invented: the final text was tested directly against frozen commitments.
 

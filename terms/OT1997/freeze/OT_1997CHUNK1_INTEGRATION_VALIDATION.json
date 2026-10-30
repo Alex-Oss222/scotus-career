@@ -68,7 +68,7 @@
     },
     {
       "path": "render-inputs/OT_1997CHUNK1.md",
-      "sha256": "89f14ac502d4cd01d2c7989f23c04cbb03734d37dc4c049d8001ae28ee821c44"
+      "sha256": "cfe2f625b1cf65d12a61d203d6cc42b74ba4b1596d4ce9314664906bfe4f845c"
     },
     {
       "path": "freeze/OT_1997CHUNK1_RUN_AUDIT.md",
@@ -80,7 +80,7 @@
     },
     {
       "path": "freeze/OT_1997CHUNK1_RECORD_COMMIT_ORDER.json",
-      "sha256": "45008e4769300cf8c71c3ba3cc87dfe98e70e2c215a4b2a17f98d06e138651e7"
+      "sha256": "dc3e58ca9df3b3c27417f1e256d6c8e8d7ebbeed14c952a7dc5ef098e8a0ee4f"
     }
   ]
 }

@@ -1377,7 +1377,7 @@
         "Kennedy"
       ],
       "counted": true,
-      "topology_sha256": "ff925c2d967ca67a4adc206e25fe38a2bc01f7859a52dd84d3a499249cd57db9"
+      "topology_sha256": "476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409"
     },
     {
       "file": "Richards_v_Wisconsin_merits_1997-04-28.md",
@@ -1386,7 +1386,7 @@
         "Breyer"
       ],
       "counted": true,
-      "topology_sha256": "614129bd8fd94e9c3f42f705a75c95d868c1050c31bac1e8103b2088002b7f51"
+      "topology_sha256": "4dfee13a32c11f963afb90d463ecddfd29b20c36cebc008d7625df983a67968f"
     },
     {
       "file": "Strate_v_A_1_Contractors_merits_1997-04-28.md",
@@ -1395,7 +1395,7 @@
         "Scalia"
       ],
       "counted": true,
-      "topology_sha256": "bd87652ce3454674293f8b83cb51027b30c3514c75e53aeb5fd89305932790dc"
+      "topology_sha256": "b372c26f6da31e4bf7570f01d76a922b2da1a84887cc1f8171db035cdcacf767"
     },
     {
       "file": "Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
@@ -1404,7 +1404,7 @@
         "Thomas"
       ],
       "counted": true,
-      "topology_sha256": "3cb1d9a20d2bb99b475f43977bb24da1195189940e87a7a730c5ea25da1cd2a0"
+      "topology_sha256": "90ee6006e8bf2622b107f69d9d5681a2a8514cf46cc9c9c70f040d119d43e4ef"
     },
     {
       "file": "Doe_v_SEPTA_merits_1997-05-05.md",
@@ -1413,7 +1413,7 @@
         "Kennedy"
       ],
       "counted": true,
-      "topology_sha256": "8fee919845ce95239e828d8335f98c9cf034f5858dcfc3e472ba46cb8fe2eb72"
+      "topology_sha256": "7384e242051ba655904a85eda89ae34da0bdf195bd00fb62e22f7b992ebc425e"
     },
     {
       "file": "Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md",
@@ -2552,7 +2552,7 @@
         "Kennedy"
       ],
       "event": "**Event and date:** Merits decision, 1997-04-28; October Term 1996.",
-      "topology_sha256": "ff925c2d967ca67a4adc206e25fe38a2bc01f7859a52dd84d3a499249cd57db9",
+      "topology_sha256": "476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409",
       "opinion_topology": "Opinion Topology\r\n\r\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\r\n|---|---|---|---|---|\r\n| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Affirmance | Entire opinion; all three holdings and their qualifications |\r\n\r\n"
     },
     {
@@ -2563,7 +2563,7 @@
         "Breyer"
       ],
       "event": "**Event and date:** Merits decision, 1997-04-28; October Term 1996.",
-      "topology_sha256": "614129bd8fd94e9c3f42f705a75c95d868c1050c31bac1e8103b2088002b7f51",
+      "topology_sha256": "4dfee13a32c11f963afb90d463ecddfd29b20c36cebc008d7625df983a67968f",
       "opinion_topology": "Opinion Topology\r\n\r\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\r\n|---|---|---|---|---|\r\n| Opinion of the Court | Breyer | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg; Stone-Zsela and Scalia except Part III | Affirmance | All nine join I, II and IV; seven Associates join III |\r\n| Concurrence in part and in the judgment | Scalia | No other Justice | Affirmance | Joins I, II and IV; withholds the appellate-method extension in III |\r\n| Concurrence in part and in the judgment | Stone-Zsela | No other Justice | Affirmance | Joins I, II and IV; adds his futility/escape assessment and advance-authorization qualification; supplies no additional appellate-method position |\r\n\r\n"
     },
     {
@@ -2574,7 +2574,7 @@
         "Scalia"
       ],
       "event": "**Event and date:** Merits decision, 1997-04-28; October Term 1996.",
-      "topology_sha256": "bd87652ce3454674293f8b83cb51027b30c3514c75e53aeb5fd89305932790dc",
+      "topology_sha256": "b372c26f6da31e4bf7570f01d76a922b2da1a84887cc1f8171db035cdcacf767",
       "opinion_topology": "Opinion Topology\r\n\r\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\r\n|---|---|---|---|---|\r\n| Opinion of the Court | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer; Stone-Zsela in I, III and IV | Affirmance and bounded remedial disposition | Eight Associates join all parts; all nine join I, III and IV |\r\n| Concurrence in part and in the judgment; dissent in part as to relief | Stone-Zsela | No other Justice | Agrees that the reviewed claim is outside tribal jurisdiction; favors affirmative prospective relief | Joins I, III and IV, supplies no general-ceiling join to II, and disagrees with V's injunctive reservation |\r\n\r\n"
     },
     {
@@ -2585,7 +2585,7 @@
         "Thomas"
       ],
       "event": "**Event and date:** Merits decision, 1997-04-28; October Term 1996.",
-      "topology_sha256": "3cb1d9a20d2bb99b475f43977bb24da1195189940e87a7a730c5ea25da1cd2a0",
+      "topology_sha256": "90ee6006e8bf2622b107f69d9d5681a2a8514cf46cc9c9c70f040d119d43e4ef",
       "opinion_topology": "Opinion Topology\r\n\r\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\r\n|---|---|---|---|---|\r\n| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer; Stevens, Souter and Ginsburg in I and III | Reversal and remand | Five join merits Part II; all eight Associates join live-controversy Part I and statutory-transition Part III; Stone-Zsela agrees to reach the merits without an additional statutory rationale |\r\n| Dissent | Stevens | Ginsburg throughout; Souter in I–II | Would affirm the as-applied constitutional judgment | I–II: nomination interest and inadequate fit; III: broader objection to preserving the established parties' competitive position |\r\n| Separate dissent | Souter | No other Justice | Would affirm | Joins Stevens I–II; reserves a demonstrated stability justification connected to effective governing |\r\n| Dissent | Stone-Zsela | No other Justice | Would affirm on contextual, nonsevere-burden review | Substantial but not severe burden; inadequate fit; prospective and format/consent limits |\r\n\r\n"
     },
     {
@@ -2596,7 +2596,7 @@
         "Kennedy"
       ],
       "event": "**Event and date:** Merits decision, 1997-05-05; October Term 1996.",
-      "topology_sha256": "8fee919845ce95239e828d8335f98c9cf034f5858dcfc3e472ba46cb8fe2eb72",
+      "topology_sha256": "7384e242051ba655904a85eda89ae34da0bdf195bd00fb62e22f7b992ebc425e",
       "opinion_topology": "Opinion Topology\r\n\r\n| Writing | Author | Joined by | Relationship to judgment | Scope joined |\r\n|---|---|---|---|---|\r\n| Opinion of the Court | Kennedy | O'Connor, Scalia, Thomas, Breyer | Affirmance | Entire expressly assumed-right, record-specific no-violation holding |\r\n| Concurrence | Scalia | Thomas | Affirmance | Joins Court opinion in full; additionally rejects an adequate constitutional source for the proposed internal-use extension |\r\n| Dissent | Stevens | Souter, Ginsburg | Would vacate and remand | Limited deliberate-medical-inquiry extension, with damages and genuinely remaining trial issues preserved |\r\n| Dissent | Stone-Zsela | No other Justice | Would reverse the Rule 50 direction and remand | Proportionate-connection extension; jury evidence sufficient; denial of judgment as a matter of law retained; preserved Rule 59/damages issues remain |\r\n\r\n"
     },
     {

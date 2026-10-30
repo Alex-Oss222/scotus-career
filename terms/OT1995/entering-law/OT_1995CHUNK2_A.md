@@ -9374,18 +9374,18 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 
 ### Armed vehicle taking and cumulative firearm punishment
 
-#### [United States v. Harris](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md)
+#### United States v. Harris
 
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
 
-For the other questions in this decision, see Constitutional Structure — Commerce power and armed vehicle taking (The vehicle-taking economic class supplies the commerce connection).
+For the other questions in this decision, see Constitutional Structure — Commerce power and armed vehicle taking (Direct protection of an interstate instrumentality against forcible taking).
 
 ##### Knowing participation and intentional assistance give the original offense definite content
 
 **Holding:** Original §2119 requires knowing armed participation in taking or attempting to take the covered vehicle from another's person or presence by force and violence or intimidation; aiding-and-abetting liability requires intentional assistance in that taking, not mere presence, association, or awareness of another's plan. Read with that ordinary criminal fault, the statute gives fair notice of the charged conduct and defeats the presented lack-of-fault and vagueness challenges without adding a profit motive, interstate-resale intention, knowledge of federal law, or the later intent-to-kill-or-seriously-injure element.
 
-**Proposition-level authority:** O'Connor and all seven other Associate Justices adopt the complete knowing-participation and intentional-assistance rule. Stone-Zsela additionally joins knowing participation, fair notice and rejection of a general legal-knowledge requirement, but not the separately stated intentional-assistance formulation.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes for the complete knowing-participation and intentional-assistance rule, fair notice and rejection of a general legal-knowledge requirement.
 
 **Treatment of earlier authority:**
 
@@ -9399,7 +9399,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 **Holding:** The offense-date §924(c) authorizes its additional, consecutive punishment for the original §2119 carjacking predicate even though firearm possession is integral to that predicate's definition. The Government must still establish firearm use or carrying during and in relation to a qualifying federally prosecutable predicate; this cumulative-authorization holding does not equate possession with every §924(c) condition or determine universal element overlap.
 
-**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on cumulative statutory authorization.
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous on cumulative statutory authorization.
 
 **Treatment of earlier authority:**
 
@@ -9411,7 +9411,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 **Holding:** Applying Missouri v. Hunter, the clearly authorized §2119 and §924(c) convictions and consecutive punishments imposed in this single prosecution do not violate the Double Jeopardy Clause even assuming overlap under Blockburger. This holding applies the governing same-trial precedent to the clear statutory direction and neither decides universal element overlap nor changes the rules for successive prosecutions.
 
-**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on the bounded application of Hunter.
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous on the bounded application of Hunter.
 
 **Treatment of earlier authority:**
 
@@ -10104,9 +10104,9 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Authority by component:**
 
-- Knowing participation and intentional assistance give the original offense definite content: [Knowing participation and intentional assistance give the original offense definite content](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md#public-projection), 1995-04-27. O’Connor's opinion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer, directly adopts the complete construction and its bounded application. Stone-Zsela additionally joins the knowing-participation and fair-notice propositions and rejection of a general legal-knowledge requirement; no additional Stone join is attributed to the separately stated intentional-assistance formulation. His separate conclusions concerning knowledge of the vehicle's interstate history and permanent deprivation have no additional joins and are not holdings of the Court.
-- Section 924(c) expressly adds a consecutive term for this armed carjacking: [Section 924(c) expressly adds a consecutive term for this armed carjacking](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md#public-projection), 1995-04-27. O’Connor's opinion, joined on this statutory holding by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes. The holding sustains the reviewed forty-one-month carjacking terms and additional sixty-month firearm terms, not an unreviewed weapon enhancement.
-- Hunter permits the clearly authorized punishment in this single prosecution: [Hunter permits the clearly authorized punishment in this single prosecution](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md#public-projection), 1995-04-27. O’Connor's opinion, joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this bounded application. Stevens joins the application of controlling Hunter while preserving his earlier objection to legislative multiplication of convictions; his reservation does not subtract a vote from this limited holding.
+- Knowing participation and intentional assistance give the original offense definite content: United States v. Harris, April 27, 1995. Chief Justice Stone-Zsela's opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes for the complete construction and its bounded application, including knowing participation, intentional assistance, fair notice and rejection of a general legal-knowledge requirement. Knowledge of the vehicle's interstate history and an independent permanent-deprivation requirement receive no controlling resolution.
+- Section 924(c) expressly adds a consecutive term for this armed carjacking: Section 924(c) expressly adds a consecutive term for this armed carjacking, 1995-04-27. Chief Justice Stone-Zsela's opinion, joined on this statutory holding by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes. The holding sustains the reviewed forty-one-month carjacking terms and additional sixty-month firearm terms, not an unreviewed weapon enhancement.
+- Hunter permits the clearly authorized punishment in this single prosecution: Hunter permits the clearly authorized punishment in this single prosecution, 1995-04-27. Chief Justice Stone-Zsela's opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this bounded application. Stevens joins the application of controlling Hunter while preserving his earlier objection to legislative multiplication of convictions; his reservation does not subtract a vote from this limited holding.
 
 **Present operation effective:** 1995-04-27; the component authorities identified above.
 

@@ -6,7 +6,7 @@
   "registries": [
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECORD_COMMIT_ORDER.json",
-      "sha256": "45008e4769300cf8c71c3ba3cc87dfe98e70e2c215a4b2a17f98d06e138651e7"
+      "sha256": "dc3e58ca9df3b3c27417f1e256d6c8e8d7ebbeed14c952a7dc5ef098e8a0ee4f"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK2_RECORD_COMMIT_ORDER.json",
@@ -71,7 +71,7 @@
     {
       "file": "terms/OT1997/records/united_states_v_rybar_merits_1997-11-24.md",
       "event_date": "1997-11-24",
-      "sha256": "e90f69c0e845ae0a2a6714d8a1958454d772d8b25a0a6f22427b05b57123d2e3",
+      "sha256": "8782dc93cc5574136285443ed5a9165f86cde8c127c703e36f20608955a83283",
       "event_line": "**Event and date:** Plenary merits decision on authorized submission, 1997-11-24; October Term 1997.",
       "opinion_topology": "Kennedy delivers the opinion of the Court. All other Justices join Parts I–II on commerce power and personal invocation. Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, and Breyer join Part III's vacatur and remand. Stone-Zsela concurs in Parts I–II and dissents from Part III and the judgment.",
       "counted": true,

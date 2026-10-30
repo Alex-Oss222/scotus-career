@@ -1,6 +1,6 @@
 # Chunk 8 authorized revision ? completed downstream dependency review
 
-Completed October 7, 2026 against the actual revised Vera and Leavitt Records and new Egelhoff Record, including every published separate position. The operator reviewed the replacements; an independent post-assembly context reviewed all six untargeted peers, first against Vera/Egelhoff and then Gray against the complete actual Leavitt Record, verified at SHA-256 `534b577df7856a5b01a8622d735894275c3054306a060e317677d312a827b4ca`. No Git command was performed.
+Completed October 7, 2026 against the actual revised Vera and Leavitt Records and new Egelhoff Record, including every published separate position. The operator reviewed the replacements; an independent post-assembly context reviewed all six untargeted peers, first against Vera/Egelhoff and then Gray against the complete actual Leavitt Record, verified at SHA-256 `a1c253b8df40d824f7cb277d10c0d70d692b5efc2061ba3db3b75d36ae9a7113`. No Git command was performed.
 
 The complete effective-date set contains nine Records dated June 13, 1996 or later: the three targeted matters and the six peers below. No additional completed later Record exists. The new Egelhoff Record completes its existing inventory slot. The common June 13 and June 17 groups remain uncoordinated same-day groups; file completion order supplies no entering law.
 

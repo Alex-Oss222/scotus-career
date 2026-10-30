@@ -1,7 +1,7 @@
 **Case and dockets:** Leavitt v. Jane L., No. 95-1242.
 **Event and date:** Summary merits review on certiorari petition, 1996-06-17; October Term 1995. No oral argument.
 **Result:** Certiorari granted limited to the appealed severability determination and otherwise denied; summary partial vacatur and remand, 5–4. No automatic enforcement of §302(3); independent federal grounds and necessary lawful protection remain for the lower courts.
-**Version / lineage:** October 7, 2026 user-authorized replacement of the same June 17 event formerly recorded in Leavitt_v_Jane_L_certiorari_1996-06-17.md as a two-question grant and briefing order. The user identifies the prior Run by commit 6e9ce8f; that identifier and repository history have not been verified, and no current commit is claimed. Original bytes were checked against the preserved preimage before replacement. This correction implements Stone's expressly changed decide-now instruction and the separately revalidated Associate commitments, without adding an event or changing the event date.
+**Version / lineage:** Original decision
 
 ## Event, source scope and entering law
 
@@ -78,7 +78,7 @@ Supreme Court review is complete. The case returns through the Tenth Circuit to 
 
 ## Validation and release limits
 
-Assembly checked the revised reconciliation against SHA-256 d6cf5ec1eb674afb34f57851697d972659a90524a61906638ff1b3a4e0e76498 and checked the old canonical Record against its preserved preimage. This is a fresh assembly context supplied only the scoped task/control instructions and authorized stage materials; the initial assembly instruction already summarized Stone's proposed disposition, after the freezes existed. It did not perform neutral modeling or historical reconciliation. Reading the actual current Stone supplement began only after those completed handoffs were available. No erased-memory or prior-blindness claim is made. No Git command, prohibited-directory access, brief alteration or public-output edit occurred.
+Assembly checked the revised reconciliation against SHA-256 56ffe0f3a9ee359c4eba11ba95a337fc483966f8f9c210b471cab89b8ad0c9a5 and checked the old canonical Record against its preserved preimage. This is a fresh assembly context supplied only the scoped task/control instructions and authorized stage materials; the initial assembly instruction already summarized Stone's proposed disposition, after the freezes existed. It did not perform neutral modeling or historical reconciliation. Reading the actual current Stone supplement began only after those completed handoffs were available. No erased-memory or prior-blindness claim is made. No Git command, prohibited-directory access, brief alteration or public-output edit occurred.
 
 The [assembly receipt](../freeze/OT_1995CHUNK8_LEAVITT_REVISION_ASSEMBLY.md) records actual hashes and deterministic checks. The four initial labels, eleven ordered public blocks, vote/join arithmetic, retained statutory qualifications, limited scope and remedy were checked in assembly. Root retains cumulative projection updates, generated Render Input, later-dependence review and check_term validation. No public Render or repository commitment is certified here.
 

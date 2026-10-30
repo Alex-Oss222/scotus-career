@@ -581,18 +581,18 @@ Merits decision, June 27, 1997
 
 #### Chronology and Posture
 
-Consolidated cases. Argued December 3, 1996; decided June 27, 1997. On writs of certiorari to the United States Court of Appeals for the Ninth Circuit. Its September 8, 1995 judgment, 66 F.3d 1025, sustained the Brady Act's interim duties imposed on chief law-enforcement officers and dismissed the sheriffs' severability appeals as moot. The questions are whether Congress may impose the mandatory interim background inquiry and related administrative duties, and what statutory consequences follow if a command is invalid.
+Printz v. United States, No. 95-1478; Mack v. United States, No. 95-1503. Consolidated cases. Argued December 3, 1996; decided June 27, 1997. On writs of certiorari to the United States Court of Appeals for the Ninth Circuit. Its September 8, 1995 judgment, 66 F.3d 1025, sustained the Brady Act's interim duties imposed on chief law-enforcement officers and dismissed the sheriffs' severability appeals as moot. The questions are whether Congress may impose the mandatory interim background inquiry and related administrative duties, and what statutory consequences follow if a command is invalid.
 
 The District Courts had invalidated the mandatory inquiry while leaving the conditional destruction and written-reasons provisions standing and severing rather than invalidating the entire Act. Both sides appealed. The sheriffs seek relief from compulsory officer duties; the United States seeks affirmance. Neither action is a class action. The officers assert an absence of budget provision for the federal work, exposure to liability for unauthorized expenditures, and state-law prohibitions on undertaking the responsibilities. Those assertions are not findings of cost, liability or state law. Montana and Arizona did not require implementation, and the officers chose not to implement the program; that general posture establishes neither receipt nor nonreceipt of a particular statement, records, determination or request.
 
-All nine Justices participated at argument and decision.
+All nine Justices participated at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
 
 #### Judgment
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Printz, No. 95-1478 | Vacated in the reviewed constitutional respect and remanded, 5–4 | O'Connor, Scalia, Kennedy, Souter and Thomas | Stone-Zsela, Stevens, Ginsburg and Breyer | Confined consideration of the existing budget and unauthorized-expenditure objections under Part I |
-| Mack, No. 95-1503 | Vacated in the reviewed constitutional respect and remanded, 5–4 | O'Connor, Scalia, Kennedy, Souter and Thomas | Stone-Zsela, Stevens, Ginsburg and Breyer | Confined consideration of the existing budget and unauthorized-expenditure objections under Part I |
+| Printz, No. 95-1478 | Vacated in the reviewed constitutional respect and remanded, 5–4 | O’Connor, Scalia, Kennedy, Souter, Thomas | Stone-Zsela, Stevens, Ginsburg, Breyer | Confined consideration of the existing budget and unauthorized-expenditure objections under Part I. |
+| Mack, No. 95-1503 | Vacated in the reviewed constitutional respect and remanded, 5–4 | O’Connor, Scalia, Kennedy, Souter, Thomas | Stone-Zsela, Stevens, Ginsburg, Breyer | The same confined consideration in this docket. |
 
 The four opposing Justices would affirm the judgments sustaining the limited interim duties.
 
@@ -607,8 +607,8 @@ The action does not reopen the out-of-grant criminal-vagueness ripeness disposit
 | Opinion of the Court on jurisdiction and Part I; opinion announcing the judgment in Part II | Souter | All other Justices on jurisdiction; Stone-Zsela, Stevens, Ginsburg and Breyer in Part I; no other Justice in Part II's fiscal rationale | Vacatur at the stated scope and confined remand | Jurisdiction has nine joins; Part I's source-and-function rule has five; Part II announces the binding mandate but its fair-value reasoning is Souter's alone |
 | Opinion concurring in the judgment and dissenting from Part I | O'Connor | Scalia, Kennedy and Thomas in the structural and conditional-judgment grounds; no other Justice in O'Connor's additional ministerial-reporting reservation | Accepts the stated vacatur and remand under Part I; would instead reverse on structural grounds | Rejects the limited-assistance rule and any supposed compensation cure; judgment-only agreement supplies no Part I join |
 | Opinion concurring in Part I and dissenting from the judgment | Stevens | Ginsburg and Breyer | Would affirm both judgments | Sustains the confined assistance and conditional protections; opposes the fiscal remand |
-| Opinion concurring in Part I and dissenting from the judgment | Stone-Zsela | Author alone | Would affirm both judgments | Confined statutory construction and incidental records-assistance ground; no severance or new fiscal proceeding |
-| Additional opinion concurring in Part I and dissenting from the judgment | Breyer | Author alone | Would affirm; also joins Stevens | Functional account of divided administration, supplementing the domestic constitutional ground |
+| Opinion concurring in Part I and dissenting from the judgment | Stone-Zsela | — | Would affirm both judgments | Confined statutory construction and incidental records-assistance ground; no severance or new fiscal proceeding |
+| Additional opinion concurring in Part I and dissenting from the judgment | Breyer | — | Would affirm; also joins Stevens | Functional account of divided administration, supplementing the domestic constitutional ground |
 
 #### Controlling Propositions and Authority
 
@@ -648,7 +648,7 @@ The reasonable-effort term, available-record language, interim context and absen
 
 - New York v. United States: retains the prohibition on compulsory state legislation or ownership/liability and its lawful-inducement and generally applicable regulation boundaries. Part I answers the distinct limited executive-assistance question without overruling that holding. Its independently operative remainder rule remains available when a proper severability question must be decided; it does not resolve absent parties' duties here.
 - United States v. Lopez: retains its connection-before-magnitude requirement and prohibition on adding a missing element. The direct handgun-transaction setting is distinguished from the school-possession/productivity chain.
-- United States v. Harris and United States v. Hale: retain their economic-class and integral transfer/stock grounds. Valid commercial regulation does not itself decide the propriety of every means used to implement it.
+- United States v. Harris and United States v. Hale: retain their direct-instrumentality and integral transfer/stock grounds, respectively. Valid commercial regulation does not itself decide the propriety of every means used to implement it.
 - Voting Rights Coalition v. Wilson: retains separate congressional-election and presidential-registration sources. Its mandatory duties are not converted into a general commerce-power exception based on administrative cost or convenience.
 - Garcia v. San Antonio Metropolitan Transit Authority and South Carolina v. Baker: preserve generally applicable federal regulation affecting state activity; no immunity for every traditional governmental function is revived.
 - FERC v. Mississippi: retains its adjudicative and cooperative setting in a federally preemptible field; it supplies context rather than automatic approval of every executive command.
@@ -791,18 +791,18 @@ Merits decision, June 30, 1997
 
 #### Chronology and Posture
 
-Consolidated review; district cases CR-95-00009-PGR and CR-95-00010-1-PGR. Argued May 27, 1997; decided June 30, 1997. On writ of certiorari under 28 U.S.C. §1254(1) to review the Ninth Circuit's September 5, 1996 judgment, 95 F.3d 787, reversing each separate indictment dismissal and remanding both prosecutions. The questions concern Congress's commerce power over the interstate support-payment obligation, the Tenth Amendment and domestic-relations objections, and the temporal limit necessary to lawful further proceedings.
+United States v. Mussari; United States v. Schroeder, consolidated review of Ninth Circuit Nos. 95-10479 and 95-10513; district cases CR-95-00009-PGR and CR-95-00010-1-PGR. Argued May 27, 1997; decided June 30, 1997. On writ of certiorari under 28 U.S.C. §1254(1) to review the Ninth Circuit's September 5, 1996 judgment, 95 F.3d 787, reversing each separate indictment dismissal and remanding both prosecutions. The questions concern Congress's commerce power over the interstate support-payment obligation, the Tenth Amendment and domestic-relations objections, and the temporal limit necessary to lawful further proceedings.
 
 Both indictments were returned January 11, 1995. Mussari's concerns support for two Arizona children and alleges nonpayment beginning November 1, 1988; Schroeder's concerns four Arizona children and alleges nonpayment beginning February 1, 1992. Both allege different-state residence and obligations exceeding $5,000 and unpaid longer than one year. Those are allegations, not findings of the offense. Each defendant seeks restoration of his dismissal; the United States seeks to preserve both trial remands.
 
-All nine Justices participated.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate. No Justice is excluded.
 
 #### Judgment
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| United States v. Mussari | Ninth Circuit reversal of the indictment dismissal affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Dismissal remains reversed; trial remand proceeds subject to post-enactment and proof limits |
-| United States v. Schroeder | Ninth Circuit reversal of the separate indictment dismissal affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Separate dismissal remains reversed; separate trial remand proceeds under the same limits |
+| United States v. Mussari | Affirmed, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | The Ninth Circuit’s reversal of the indictment dismissal stands; the trial remand proceeds subject to the post-enactment and proof limits. |
+| United States v. Schroeder | Affirmed, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | The Ninth Circuit’s reversal of the separate indictment dismissal stands; the separate trial remand proceeds under the same limits. |
 
 Neither affirmance enters a conviction, alters a State order or fixes a sentence or restitution amount.
 
@@ -816,13 +816,13 @@ Justice O'Connor delivers the opinion of the Court, Parts I–IV, joined in full
 
 **Holding and operative rule:** Congress may punish willful post-enactment failure to pay a legally fixed past-due child-support obligation when the obligor and child reside in different States, because §228 directly protects that cross-border economic payment obligation. The different-state relation is essential to this holding; the Court sustains neither regulation of every family debt nor federal creation or revision of the underlying support duty.
 
-**Authority:** The unanimous opinion of the Court identified above controls every holding and the affirmance in both prosecutions.
+**Authority:** Justice O'Connor's opinion of the Court, Parts I–IV, is joined in full by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. This common nine-Justice coalition controls every holding and the affirmance in both prosecutions.
 
 **Controlling explanation:** Section 228(a) requires willful failure to pay a past-due support obligation for a child residing in another State. Section 228(d)(1) requires an amount fixed by a court order or State-law administrative process for support of a child, or a child and custodial parent, unpaid longer than one year or exceeding $5,000. Those thresholds are alternatives; the indictments happen to allege both. Neither the amount nor duration substitutes for the interstate relation.
 
 The object regulated is the required cross-border payment itself. Different residence does constitutional work because the existing obligation calls for satisfaction between the obligor and children in another State. That is a legal characterization of the charged class, not a finding of actual transfer. A completed payment need not precede an offense addressing its willful withholding. The State-law origin and absence of a negotiated bargain do not erase the obligation's economic payment character.
 
-The strongest objection treats the default as a local family failure with a geographical label. Lopez rejects deriving federal power from remote chains through poverty, welfare expense, crime or productivity. The Court relies on none. Harris and Bishop/Stokes examine the actual economic vehicle-taking class and separately preserve the enacted vehicle element; Hale addresses possession integral to direct market regulation. They require attention to the actual object and relation, not an automatic commerce label for every debt or object with interstate history. The present due cross-border payment supplies that relation independently.
+The strongest objection treats the default as a local family failure with a geographical label. Lopez rejects deriving federal power from remote chains through poverty, welfare expense, crime or productivity. The Court relies on none. Harris and Bishop/Stokes protect the covered vehicle as an interstate instrumentality against direct forcible taking and require proof of the enacted vehicle element; Hale addresses possession integral to direct market regulation. They require attention to the actual object and relation, not an automatic commerce label for every debt or object with interstate history. The present due cross-border payment supplies that relation independently.
 
 Lopez also forbids rewriting a statute to supply a missing element. No flight, travel, voluntary State crossing, bank wire, particular instrument or motive to evade is added here. The Court decides no statute lacking the different-state condition and no unrelated obligation bearing only an incidental geographical feature. It makes no finding of deliberate evasion or ability to pay.
 
@@ -857,7 +857,7 @@ The constitutional ruling establishes neither defendant's willfulness, capacity 
 #### Precedent Treatment
 
 - United States v. Lopez is applied through its connection-before-magnitude sequence: §228's concrete statutory cross-border payment mechanism supplies the connection Lopez requires, without aggregation or a downstream-effects chain. Lopez's rejection of that chain for stand-alone school-zone possession and its prohibition on supplying a missing statutory commerce element are retained.
-- United States v. Harris and Bishop/Stokes preserve their actual economic vehicle-taking ground and proof of the enacted vehicle nexus. Their result is not converted into an automatic instrumentality rule or a holding about every debt.
+- United States v. Harris and Bishop/Stokes preserve their actual direct-instrumentality ground and proof of the enacted vehicle nexus. Their result is not converted into an automatic instrumentality rule or a holding about every debt.
 - United States v. Hale preserves its integral-market ground and rejection of a universal transaction-specific nexus requirement; the present payment relation must independently support federal power.
 - New York v. United States preserves the distinction between direct private regulation within enumerated power and compulsory State responsibility.
 - Printz/Mack's qualified source-and-function rule and confined fiscal mandate concern compelled public administration. They supply neither the commerce premise nor a fiscal remand for these private obligations; no compensation rule is adopted.
@@ -870,7 +870,7 @@ Section 228 may directly protect the legally fixed payment obligation owed acros
 
 #### Source Notes
 
-The [Ninth Circuit opinion, 95 F.3d 787](https://openjurist.org/95/f3d/787), supplies both indictments, their separate alleged periods and the appellate remands. Section 228 is applied as enacted by Pub. L. 102-521, §2, 106 Stat. 3403, on October 25, 1992; its unpaid-duration and amount thresholds are alternatives. The initial district dismissal is reported at 894 F. Supp. 1360 with a July 26, 1995 date, while the October 25 reconsideration opinion, 912 F. Supp. 1248, refers to a July 27 order. That one-day difference does not alter the identified appellate judgment or the scope of this review. The numbered appellate and district cases are lower-court identifiers.
+The [Ninth Circuit opinion, 95 F.3d 787](https://openjurist.org/95/f3d/787), supplies both indictments, their separate alleged periods and the appellate remands. Section 228 is applied as enacted by Pub. L. 102-521, §2, 106 Stat. 3403, on October 25, 1992; its unpaid-duration and amount thresholds are alternatives. The initial district dismissal is reported at 894 F. Supp. 1360 with a July 26, 1995 date, while the October 25 reconsideration opinion, 912 F. Supp. 1248, refers to a July 27 order. That one-day difference does not alter the identified appellate judgment or the scope of this review. The numbered appellate and district cases are lower-court identifiers; no separate Supreme Court docket number is supplied.
 
 #### Mandate, Remedy, and Stage
 

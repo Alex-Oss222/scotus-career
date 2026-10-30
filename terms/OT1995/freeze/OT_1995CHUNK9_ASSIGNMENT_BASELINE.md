@@ -10,11 +10,11 @@ Engine §8 counts each opinion once as Chief-assigned if the Chief assigned any 
 
 | Recipient | OT1994 named Chief assignments | Existing OT1995 named Chief assignments |
 |---|---:|---:|
-| Stone-Zsela | 5 | 3 |
+| Stone-Zsela | 7 | 3 |
 | Stevens | 11 | 7 |
-| O'Connor | 14 | 22 |
+| O'Connor | 13 | 22 |
 | Scalia | 5 | 5 |
-| Kennedy | 14 | 10 |
+| Kennedy | 13 | 10 |
 | Souter | 18 | 16 |
 | Thomas | 5 | 9 |
 | Ginsburg | 13 | 11 |

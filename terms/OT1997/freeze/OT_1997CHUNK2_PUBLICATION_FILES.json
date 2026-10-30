@@ -47,7 +47,7 @@
     {
       "path": "terms/OT1997/entering-law/OT_1997CHUNK1_RYBAR_EFFECTIVE.md",
       "bytes": 7941,
-      "sha256": "d2caa2463f5044b57721aec7e8b2acb7560f7ba1389fccef5f110d1a794d1b2a"
+      "sha256": "4eea655335fa3b7ba48c005b86707e0b776bfe91da14fd610158d21d30be3f35"
     },
     {
       "path": "terms/OT1997/entering-law/OT_1997CHUNK2_A.md",
@@ -182,12 +182,12 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK1_FREEZE_RECEIPTS.json",
       "bytes": 9883,
-      "sha256": "f6717a454f7137f7e4167724652cb3230dc67a9df62fe69d543654729748e71f"
+      "sha256": "15cc58cab1f5ff31c5729c9221047b5488f694a8d97a2e7877fb1a5e09a72208"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK1_INTEGRATION_VALIDATION.json",
       "bytes": 3747,
-      "sha256": "5f6bdee16d5e2dde2b4f2b9c49fc45eddd0a78ff641baf9e23de2f178aeda01d"
+      "sha256": "0365ccddbf71ebd1fe5c1f756f122bf254fefc075cd079869bdd81f3faf37dd6"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK1_JEFFERSON_RITCHIE_REMAND.md",
@@ -312,7 +312,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK1_RECORD_COMMIT_ORDER.json",
       "bytes": 3409,
-      "sha256": "45008e4769300cf8c71c3ba3cc87dfe98e70e2c215a4b2a17f98d06e138651e7"
+      "sha256": "dc3e58ca9df3b3c27417f1e256d6c8e8d7ebbeed14c952a7dc5ef098e8a0ee4f"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK1_RUN_AUDIT.md",
@@ -1117,7 +1117,7 @@
     {
       "path": "terms/OT1997/records/united_states_v_rybar_merits_1997-11-24.md",
       "bytes": 18487,
-      "sha256": "e90f69c0e845ae0a2a6714d8a1958454d772d8b25a0a6f22427b05b57123d2e3"
+      "sha256": "8782dc93cc5574136285443ed5a9165f86cde8c127c703e36f20608955a83283"
     },
     {
       "path": "terms/OT1997/records/valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md",
@@ -1127,7 +1127,7 @@
     {
       "path": "terms/OT1997/render-inputs/OT_1997CHUNK1.md",
       "bytes": 71891,
-      "sha256": "89f14ac502d4cd01d2c7989f23c04cbb03734d37dc4c049d8001ae28ee821c44"
+      "sha256": "cfe2f625b1cf65d12a61d203d6cc42b74ba4b1596d4ce9314664906bfe4f845c"
     },
     {
       "path": "terms/OT1997/render-inputs/OT_1997CHUNK2.md",
@@ -1302,7 +1302,7 @@
     {
       "path": "terms/OT1997/workspace/ledger.md",
       "bytes": 13590,
-      "sha256": "9504607fdcb293f8ca2b2fce6a1b53a2e8e2f1f14db346800e6d491c84d058d8"
+      "sha256": "c1c1469009c563e7e02a9731d4a43a1048abbab38f9ec992e9f556ff3451313a"
     },
     {
       "path": "terms/OT1997/workspace/manifest.md",

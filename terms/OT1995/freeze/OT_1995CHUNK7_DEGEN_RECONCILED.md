@@ -10,8 +10,8 @@ The [independent commitments](OT_1995CHUNK7_DEGEN_COMMITMENTS.md) at `20e2d30afc
 
 | Frozen input | Commit | SHA-256 |
 |---|---|---|
-| [Final Degen neutral](OT_1995CHUNK7_DEGEN_NEUTRAL_VALIDATED.md) | `9f2189b` | `2a837e8c5acc6b61d195ab846219bac14073178240d9eea6eb1b6c08bbf5b5b0` |
-| [Common June 10 entering law](../entering-law/OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md) | `e1bc5d6` | `47bb7dd0409c255ddc83ca64f0ab1ff230ec9c3a9c21baf532c52c7040acd758` |
+| [Final Degen neutral](OT_1995CHUNK7_DEGEN_NEUTRAL_VALIDATED.md) | `9f2189b` | `5904e3e43bc6fd1fef13710b39c522f14387928b1bc4ab974f1aceed505fcfec` |
+| [Common June 10 entering law](../entering-law/OT_1995CHUNK7_PRE_JUNE10_NEUTRAL_PROJECTION.md) | `e1bc5d6` | `83b81e0378440930840caa351c6d1950b8cf20804aa70a3cef9a915f35c73113` |
 | [Chronology clarification](../entering-law/OT_1995CHUNK7_PRE_JUNE10_CHRONOLOGY_NOTE.md) | `8fb1ac9` | `fa734ec368f7d5656b5912feb3befdb089c593115be9c0ebad34c509e2706313` |
 | [Degen full-read receipt](../sources/chunk7_comparators/FINAL_GROUP_VERIFIED.md) | `8f13c23` | `e17317c3dc535cca399b7fa4a79f627542b0f994ff59a7c9c2646fbde1140530` |
 | [Official historical text](../sources/chunk7_comparators/USREPORTS-517-820.txt) | `8f13c23` | `eabf9e25bc9fde2901fb6f5072ca654d5b3937e5fef8ec0d1029efa98bdf4054` |

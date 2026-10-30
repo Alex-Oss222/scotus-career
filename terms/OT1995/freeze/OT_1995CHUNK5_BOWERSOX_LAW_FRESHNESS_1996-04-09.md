@@ -4,7 +4,7 @@
 
 **Certified scope:** The supplied chronology's public-law refresh is complete through the actual April 1 releases and their committed dated neutral snapshot. All ten supported earlier chunk-five public decisions were read in full, and every change in the authorized snapshot sequence was reviewed. The April 1 snapshot identifies Bowersox as the next eligible inventory event. No material conflict or omission affecting this law refresh was found. This is a law-freshness certificate, not certification of the missing Bowersox record or general modeling readiness; it supplies no present relief, duration, service finding, individual position, or assignment.
 
-**Final snapshot:** `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md`, supplied committed reference `24a465e`, independently verified SHA-256 **`8012c6c0c65f2313d0d7772d764cd84530f7820a95d5fe81d74f692294b9a69b`**. The commit reference is supplied provenance; no Git operation was performed for this certificate.
+**Final snapshot:** `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md`, supplied committed reference `24a465e`, independently verified SHA-256 **`faba63469d5714f13743e6357d5ebb6ffda9d36aa1ed6f9c310aa6f1f0e1d083`**. The commit reference is supplied provenance; no Git operation was performed for this certificate.
 
 This certificate supplements the unchanged Bowersox neutral validation, habeas statutory source addendum and Bowersox primary-source addendum. It supplies the actual intervening-law check those artifacts reserved. Prepared positions and historical outcomes are not law entering this event.
 

@@ -472,24 +472,24 @@ Source: `state/holdings/federal-courts.md`.
 
 Source: `state/holdings/constitutional-structure.md`.
 
-#### [United States v. Harris](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md)
+#### United States v. Harris
 
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
 
 For the other questions in this decision, see Criminal Procedure — Armed vehicle taking and cumulative firearm punishment (Knowing participation and intentional assistance give the original offense definite content; Section 924(c) expressly adds a consecutive term for this armed carjacking; Hunter permits the clearly authorized punishment in this single prosecution).
 
-##### The vehicle-taking economic class supplies the commerce connection
+##### Direct protection of an interstate instrumentality against forcible taking
 
-**Holding:** Congress may regulate the armed forcible acquisition of the covered vehicle proved here as an economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme, while original §2119's enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved. Neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground. The decision creates no rival commerce test and no automatic instrumentality rule beyond these facts and the enacted nexus.
+**Holding:** Congress may protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the offense requires proof of the particular vehicle's interstate connection. Original §2119 therefore reaches the armed forcible taking of the covered vehicle proved here, provided its enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce is proved. The direct attack on possession and control of the vehicle and the vehicle-specific connection together supply the ground; neither remote movement alone nor generalized crime, insurance, travel, or productivity costs does so. The rule does not cover every offense in or near a vehicle or require a present interstate journey or intended interstate resale.
 
-**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices. Stone-Zsela concurs in the judgment on a narrower ground: he would sustain the application because the offense directly attacks possession and control of a covered motor vehicle functioning as an interstate transportation instrumentality or thing in commerce, and because the statute requires proof of the particular vehicle's interstate connection. He does not rely on remote historical movement alone.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes. Breyer, joined by Stevens, Souter and Ginsburg, also states an economic-class alternative in concurrence; those four votes do not make that alternative controlling.
 
 **Treatment of earlier authority:**
 
-- United States v. Lopez, April 26, 1995: applies its controlling connection-before-magnitude architecture for the first time, in a direct vehicle/instrumentality and economic vehicle-taking setting; the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme supplies the connection, and Lopez's inadequate stand-alone possession/downstream-effects chain is distinguished; no missing element is supplied.
-- Wickard v. Filburn, 317 U.S. 111 (1942): applies aggregation within a regulated economic class rather than demanding a substantial effect from each individual taking.
-- Perez v. United States, 402 U.S. 146 (1971): applies Congress's authority over the economic class despite an individual instance's local character.
+- United States v. Lopez, April 26, 1995: applies the retained power to protect interstate instrumentalities and distinguishes stand-alone possession supported only by remote downstream consequences. Congress enacted the vehicle-specific nexus here; the Court supplies no omitted element.
+- Wickard v. Filburn, 317 U.S. 111 (1942): retains its economic-class aggregation rule. The Court does not use that separate route to sustain this direct-instrumentality application.
+- Perez v. United States, 402 U.S. 146 (1971): retains its economic-class ground without making it the Court’s ground for this vehicle-taking decision.
 - Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves its distinction between actual commercial operation and remote object history; prior manufacture alone is not the constitutional ground here.
 
 **Operative remedy or transition:** Both convictions and each defendant's forty-one-month Count One term plus consecutive sixty-month Count Two term are affirmed on all three presented challenges. No merger, vacatur, concurrent conversion, sentence increase, resentencing, new trial or exploratory remand is ordered.
@@ -818,18 +818,18 @@ Source: `state/holdings/criminal-procedure.md`.
 
 Source: `state/holdings/criminal-procedure.md`.
 
-#### [United States v. Harris](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md)
+#### United States v. Harris
 
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
 
-For the other questions in this decision, see Constitutional Structure — Commerce power and armed vehicle taking (The vehicle-taking economic class supplies the commerce connection).
+For the other questions in this decision, see Constitutional Structure — Commerce power and armed vehicle taking (Direct protection of an interstate instrumentality against forcible taking).
 
 ##### Knowing participation and intentional assistance give the original offense definite content
 
 **Holding:** Original §2119 requires knowing armed participation in taking or attempting to take the covered vehicle from another's person or presence by force and violence or intimidation; aiding-and-abetting liability requires intentional assistance in that taking, not mere presence, association, or awareness of another's plan. Read with that ordinary criminal fault, the statute gives fair notice of the charged conduct and defeats the presented lack-of-fault and vagueness challenges without adding a profit motive, interstate-resale intention, knowledge of federal law, or the later intent-to-kill-or-seriously-injure element.
 
-**Proposition-level authority:** O'Connor and all seven other Associate Justices adopt the complete knowing-participation and intentional-assistance rule. Stone-Zsela additionally joins knowing participation, fair notice and rejection of a general legal-knowledge requirement, but not the separately stated intentional-assistance formulation.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes for the complete knowing-participation and intentional-assistance rule, fair notice and rejection of a general legal-knowledge requirement.
 
 **Treatment of earlier authority:**
 
@@ -843,7 +843,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 **Holding:** The offense-date §924(c) authorizes its additional, consecutive punishment for the original §2119 carjacking predicate even though firearm possession is integral to that predicate's definition. The Government must still establish firearm use or carrying during and in relation to a qualifying federally prosecutable predicate; this cumulative-authorization holding does not equate possession with every §924(c) condition or determine universal element overlap.
 
-**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on cumulative statutory authorization.
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous on cumulative statutory authorization.
 
 **Treatment of earlier authority:**
 
@@ -855,7 +855,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 **Holding:** Applying Missouri v. Hunter, the clearly authorized §2119 and §924(c) convictions and consecutive punishments imposed in this single prosecution do not violate the Double Jeopardy Clause even assuming overlap under Blockburger. This holding applies the governing same-trial precedent to the clear statutory direction and neither decides universal element overlap nor changes the rules for successive prosecutions.
 
-**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on the bounded application of Hunter.
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous on the bounded application of Hunter.
 
 **Treatment of earlier authority:**
 
@@ -1198,9 +1198,9 @@ The facility definition **includes** a hospital, clinic, physician's office or o
 
 **Authority:** Kennedy, Part I, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer: nine direct votes.
 
-**Controlling explanation:** The Court distinguishes the commercial service being obstructed from the objector's ideological purpose. Lopez requires the regulated class and its interstate mechanism to be identified before magnitude; it rejects the remote chain from stand-alone school firearm possession through education and productivity but does not disable protection of an actual services market. Harris applies the retained economic-class principle, while preserving the particular-vehicle nexus Congress enacted there. Reported legislative evidence here concerns interstate patients, personnel and supplies, and actual loss of service through obstruction and closure. That connection is direct: it comes from the conduct's object and operation on the service market itself, not from generalized healthcare costs, violent-crime costs, ideological motive or productivity effects. Local participation does not sever the regulated class from its commercial setting. Robertson confirms the significance of actual commercial operation without making every protester an interstate enterprise. The Court adds no element Congress omitted, treats no legislative statistic as conclusive, and adopts no exhaustive commerce formula or new balancing test. The separate persons-or-things-in-commerce theory and Fourteenth Amendment §5 ground need not be decided. New York's anti-compulsion rule remains intact: FACE regulates private actors rather than ordering States to legislate or administer a federal program.
+**Controlling explanation:** The Court distinguishes the commercial service being obstructed from the objector's ideological purpose. Lopez requires the regulated class and its interstate mechanism to be identified before magnitude; it rejects the remote chain from stand-alone school firearm possession through education and productivity but does not disable protection of an actual services market. Harris protects an interstate transportation instrumentality against direct forcible taking, with proof of the particular vehicle's enacted interstate connection. That distinct instrumentality ground does not decide this service-market application. Reported legislative evidence here concerns interstate patients, personnel and supplies, and actual loss of service through obstruction and closure. That connection is direct: it comes from the conduct's object and operation on the service market itself, not from generalized healthcare costs, violent-crime costs, ideological motive or productivity effects. Local participation does not sever the regulated class from its commercial setting. Robertson confirms the significance of actual commercial operation without making every protester an interstate enterprise. The Court adds no element Congress omitted, treats no legislative statistic as conclusive, and adopts no exhaustive commerce formula or new balancing test. The separate persons-or-things-in-commerce theory and Fourteenth Amendment §5 ground need not be decided. New York's anti-compulsion rule remains intact: FACE regulates private actors rather than ordering States to legislate or administer a federal program.
 
-**Precedent treatment:** Lopez (April 26, 1995) supplies the governing connection-before-magnitude sequence and is distinguished at its inadequate downstream-effects chain; Harris (April 27, 1995) remains a distinct economic vehicle-taking application; Robertson (May 1, 1995) remains a distinct direct-enterprise holding; New York v. United States (June 19, 1992) retains its anti-compulsion limit.
+**Precedent treatment:** Lopez (April 26, 1995) supplies the governing connection-before-magnitude sequence and is distinguished at its inadequate downstream-effects chain; Harris (April 27, 1995) remains a distinct direct-instrumentality application requiring proof of the particular vehicle's interstate connection; Robertson (May 1, 1995) remains a distinct direct-enterprise holding; New York v. United States (June 19, 1992) retains its anti-compulsion limit.
 
 ### The defined access restrictions survive the facial speech challenge
 
@@ -1285,7 +1285,7 @@ The facility definition **includes** a hospital, clinic, physician's office or o
 ## Precedent Treatment
 
 - **Lopez:** supplies the connection-before-magnitude sequence and the prohibition against adding an unexpressed element; direct interference with this services market supplies the interstate mechanism that the school-possession/productivity chain lacked.
-- **Harris:** remains a distinct economic vehicle-taking application; its enacted particular-vehicle nexus is not a universal condition of class regulation.
+- **Harris:** remains a distinct direct-instrumentality application; its enacted particular-vehicle nexus is not a universal condition of class regulation.
 - **Robertson:** retains its direct-enterprise rule; no protester is classified as an interstate business merely by inference.
 - **New York v. United States:** preserves the bar on compelled state legislation or administration; private conduct regulation is distinct.
 - **O'Brien and Ward:** apply the substantial nonsuppressive-interest and proportionate-burden standard for expressive conduct; no least-restrictive-conceivable-means requirement is added to speech scrutiny.

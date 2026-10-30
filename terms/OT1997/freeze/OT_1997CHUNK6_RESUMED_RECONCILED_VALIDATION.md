@@ -1,6 +1,6 @@
 # OT1997 chunk 6 resumed — final reconciliation validation
 
-**Validated frozen handoff:** [OT_1997CHUNK6_RESUMED_RECONCILED.md](OT_1997CHUNK6_RESUMED_RECONCILED.md), SHA-256 `ddcefc02d01786a50235e317f37bec29b27db07754498b69cacf6784288bb676`.
+**Validated frozen handoff:** [OT_1997CHUNK6_RESUMED_RECONCILED.md](OT_1997CHUNK6_RESUMED_RECONCILED.md), SHA-256 `65d998c7c6edbc68bd45293f4c78a105dad0e637c4b3a5a30b38574f444e331b`.
 
 **Scope:** Historical reconciliation of the eight Associates for Dorsainvil, Bird, Breard A-732 alone and Carriger, at their April 2, 13, 14 and 16, 1998 cutoffs. This receipt validates a pre-assembly handoff, not a Court judgment, final vote of nine, opinion assignment, Record, render or tracker change.
 
@@ -40,15 +40,15 @@ SHA-256 checks confirm that the neutral packet, slice and fresh commitments stil
 | Input or handoff | SHA-256 |
 |---|---|
 | Final neutral packet | `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c` |
-| Neutral validation | `7b3781b31c33002c5c569984c9d3ce667e829561f2cf7582236c93a67d9263c5` |
-| Entering-law slice | `54e530a4ba53d2fbaf1c176935c4d5cfe22d46a74119cfd1fe856930c797b98d` |
+| Neutral validation | `67fe696b809e2770d9d2055dc2e0052555430be43f16a938dfd2ff7ac0df7e50` |
+| Entering-law slice | `496b844a176f4ceac43f632414501ba6dc9ae8a1d9fc43005aaf6fe75500c972` |
 | Clean Lindh validation | `e2ce7ce2590f2147c8d4ca0acdb96a932324cebf8152921e90d886a4217cc1bb` |
-| Fresh commitments | `eaa39d5b87f5d90b8f37b9700aa4e5d594dda99a45b7bddc1333352672296ff0` |
-| Fresh commitments validation | `99783c77cade4d7335dc51c0c231c82e17f9aecc6c7fe4e085392330d2093701` |
+| Fresh commitments | `a5afad9e46f1e5674fc4bc73575004189379df0fe05dfd25aea15bf5304393ac` |
+| Fresh commitments validation | `a8e4cbdf64e039900f53896336cb03064e57189ca7bfc10b603b111e56152d3d` |
 | Comparator with full official report | `d4794495e0fd63e8be4f3e4e8685f2d9ccce3d89c79667f11ec389d49e3a540c` |
 | Clean A-732 filing/Claim IV extraction | `223865e78f03450b9d52b007252c333294fc82cf1f3eb0104284781b71b0f774` |
 | Clean C/E judicial-text source | `ee8df0d2b752502f1034ceaf67ca028ec29df0f81a0e0bfb9ba5421cc2e41e4a` |
-| Final reconciled handoff | `ddcefc02d01786a50235e317f37bec29b27db07754498b69cacf6784288bb676` |
+| Final reconciled handoff | `65d998c7c6edbc68bd45293f4c78a105dad0e637c4b3a5a30b38574f444e331b` |
 
 No term-wide Record, Public Projection, render identity, assignment count, Git-hash or `check_term.py` validation is claimed here; those concern the subsequent assembly/integration stage and were not run in this scoped reconciliation.
 

@@ -38,10 +38,10 @@ The append/check script read only the specified public or clean neutral sources 
 | Source | SHA-256 |
 |---|---|
 | Clean A-732 statutory judicial text | `ee8df0d2b752502f1034ceaf67ca028ec29df0f81a0e0bfb9ba5421cc2e41e4a` |
-| Prior group-B validated neutral packet | `874df941d2e98c54acf4fb41663cb4ef6d74fd90c1f4d9333ea95ea87711c5ba` |
+| Prior group-B validated neutral packet | `7a734799a1fb6a4dde345de441344d0e9aea475430e875403aa70af54f482471` |
 | Current Standards and Tests | `ef45877d1acf38406cd2013cde32d577214210674f21283b6eb19ed847873235` |
 | Canonical criminal-procedure Holdings | `fde1152ae7380cd4fff01f8454e4649261855a8e9cd116433f4364ca419f49ab` |
-| Existing resumed entering-law slice | `54e530a4ba53d2fbaf1c176935c4d5cfe22d46a74119cfd1fe856930c797b98d` |
+| Existing resumed entering-law slice | `496b844a176f4ceac43f632414501ba6dc9ae8a1d9fc43005aaf6fe75500c972` |
 | Final neutral handoff | `b93ae93f03275931d70fcb7fb860a803bc09c3ca90aed16f506981018970984c` |
 
 **Ready for distinct independent modeling.** No additional neutral-preparation blocker remains for the bounded paths stated. This is not authorization to fill an unresolved factual predicate or a controlled-position gap, and it makes no commitment about the final action. Any material new earlier event or genuinely necessary new fact must return through the affected clean stage before use.

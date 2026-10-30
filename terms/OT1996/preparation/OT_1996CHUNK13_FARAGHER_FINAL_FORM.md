@@ -1,6 +1,6 @@
 # Faragher — final form before assignment
 
-The final reconciled handoff is frozen at raw SHA-256 `7596068c48467117130ccdfc2089507498435014889f166926aaac6edc7fb823`. Stone's approved Faragher supplement has now entered assembly. No Harrison supplement or position is accessed.
+The final reconciled handoff is frozen at raw SHA-256 `88eebb0a88f48b0620df760606434f78415e925776e527aedde0c81ed4e5fb42`. Stone's approved Faragher supplement has now entered assembly. No Harrison supplement or position is accessed.
 
 One signed plenary opinion of the Court will resolve the single reviewed employer-liability judgment. Its four substantive parts follow the independently fixed propositions: I, actual authority materially aiding an actionable environment; II, the supported operational bench findings satisfy that rule; III, the present ineffective-policy contention fails while the existence, elements, burden, tangible-action relationship and remedial implications of a general defense remain open; IV, reverse only the appellate rejection of Faragher's Title VII judgment against the City and remand for reinstatement of the existing one-dollar judgment. No personal award, other claim or remaining appellate disposition is reopened.
 

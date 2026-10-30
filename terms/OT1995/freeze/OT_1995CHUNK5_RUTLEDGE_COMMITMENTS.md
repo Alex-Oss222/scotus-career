@@ -9,8 +9,8 @@
 | Authorized handoff | SHA-256 verified before commitment |
 |---|---|
 | `OT_1995CHUNK5_RUTLEDGE_NEUTRAL_VALIDATED.md` | `0d2a1f7258b5f4a3d6c6e96bedb031116104b431ee7c99b278b01bf617222d78` |
-| `OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md` | `846f14e9b43e080ae3d3b48b94702d72abafbcf8bf8a912507f8b4a0d84d9444` |
-| `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md` | `243708991f71b864854615e69e1b3c7fbc8d18b6b9269cead5c92f96e9d78f56` |
+| `OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md` | `7215cb2814b61690f3eb4e83d51f684b71b2582d60d0dc4bf2af88db79aca164` |
+| `../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md` | `b0d25e17851e189e2cde391e5848a95ead3e12bf677e7acbaa9e723e14afa259` |
 
 **Boundary:** This context received authorized neutral materials, safe predecision source copies, and prior public law and positions. It did not open the present matter's historical Supreme Court opinion, historical grant metadata, comparator, Stone material, another commitment, reconciliation, private Canonical Record, ledger, continuity, private control artifact, or historical archive directory. It made no agent-status listing or Git operation and changed no workspace projection. General model knowledge cannot be erased; each conclusion below rests on the identified authorized sources. The other March 27 matters provide no intervening law.
 

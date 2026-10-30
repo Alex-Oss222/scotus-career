@@ -1,7 +1,7 @@
 **Case and dockets:** Kansas v. Colorado, No. 105, Original.
 **Event and date:** Original proceeding on exceptions to the Special Master’s liability report, 1995-05-15; October Term 1994, chunk 5.
 **Result:** All seven exceptions overruled, the pumping liability and three unexcepted recommendations adopted on the stated grounds, and the original action recommitted to the Special Master for remedy; 9–0.
-**Version / lineage:** Initial canonical adjudication; supersedes nothing. Preserved for operator verification and commitment. No Git command was run; repository verification and commitment remain with the operator. User-authorized nonadjudicative correction, 2026-09-30 (F07, current 17-finding audit): replaces only the identified annex, chronology, status or wording defects in place. All adjudicated judgments, votes, coalitions and remedies are preserved.
+**Version / lineage:** Original decision
 
 ## Event, posture, and record
 
@@ -345,7 +345,7 @@ The Court retains the original action and recommits it to Special Master Arthur 
 
 ### Frozen sources and chronology
 
-Final model runtime/freeze SHA-256: `9d4de87765539e9f0f31f9165889a55a876e558f18c51d9b22ffa2f1487c852d`. Final reconciliation runtime/freeze SHA-256: `7f7ccc53eef5a04df216eee3f77c6355e56e01043e119671c7fab6d94c492e7c`. Both pairs were checked for identity. The complete final model and reconciliation were read before current Kansas Stone. The neutral packet SHA-256 is `0419d40822f894f87ac7246ddc5fbdb7cb2de7847a9667cc5e50c949e3d7806a`; its complete source-validation receipt remains operative. The original neutral’s March 21 argument date was checked by root against the certified official header; the validated replacement’s omission was not a conflicting date or a new merits premise.
+Final model runtime/freeze SHA-256: `426b6e04aada6af6c6c13eca5cfaa25fb1bbaf8cf33cdb4ad1a4ae1132a101ab`. Final reconciliation runtime/freeze SHA-256: `c29fa8df8ab45b27590572e34b5bdd127edfafb689ae95edaf4a2cd21dd626d9`. Both pairs were checked for identity. The complete final model and reconciliation were read before current Kansas Stone. The neutral packet SHA-256 is `0419d40822f894f87ac7246ddc5fbdb7cb2de7847a9667cc5e50c949e3d7806a`; its complete source-validation receipt remains operative. The original neutral’s March 21 argument date was checked by root against the certified official header; the validated replacement’s omission was not a conflicting date or a new merits premise.
 
 The original preparation’s pre-May-15 public-law release SHA-256 is `bedcecf8a9db546baeb6c8029c0e3fbbc05914336c10350bf6d8010f953c9a71`. The prior eight decisions were reviewed previously and confirmed unchanged; Pinson’s complete public fields were read now. Its search, justification and preservation-sensitive appellate disposition add no Compact standard, water-data duty or original-action waiver rule. The nine then-completed decisions in that preparation slice are Kyles, Rubin, Stone v. INS, Morales, Williams, Travelers, Lopez, Harris and Pinson. The current effective baseline also includes [Robertson’s completed May 1, 1995 decision](United_States_v_Robertson_merits_1995-05-01.md); the [Robertson completion validation](../freeze/OT_1994CHUNK5_ROBERTSON_COMPLETION_VALIDATION.md) confirms no changed adjudicative predicate. Same-date Hubbard is excluded. The stale term-opening recital in Stone’s immutable supplement does not replace this actual-law revalidation.
 

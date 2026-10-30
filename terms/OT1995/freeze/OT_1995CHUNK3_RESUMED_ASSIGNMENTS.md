@@ -12,11 +12,11 @@ The preceding term has **93 named Chief-assigned opinions**. No Justice received
 
 | Recipient | OT1994 Chief assignments | Existing OT1995 before Jan. 17 | Existing OT1995 before Feb. 5 | Existing OT1995 before Feb. 12 |
 |---|---:|---:|---:|---:|
-| Stone-Zsela | 5 | 1 | 1 | 1 |
+| Stone-Zsela | 7 | 1 | 1 | 1 |
 | Stevens | 11 | 1 | 1 | 1 |
-| O'Connor | 14 | 9 | 10 | 10 |
+| O'Connor | 13 | 9 | 10 | 10 |
 | Scalia | 5 | 1 | 1 | 1 |
-| Kennedy | 14 | 2 | 3 | 3 |
+| Kennedy | 13 | 2 | 3 | 3 |
 | Souter | 18 | 5 | 5 | 5 |
 | Thomas | 5 | 1 | 1 | 1 |
 | Ginsburg | 13 | 2 | 3 | 3 |

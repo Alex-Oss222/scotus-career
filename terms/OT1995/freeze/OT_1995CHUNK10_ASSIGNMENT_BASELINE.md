@@ -10,11 +10,11 @@ Each distinct opinion with an express Chief assignment is counted once. The exis
 
 | Recipient | OT1994 named Chief assignments | Existing OT1995 named Chief assignments |
 |---|---:|---:|
-| Stone-Zsela | 5 | 4 |
+| Stone-Zsela | 7 | 4 |
 | Stevens | 11 | 7 |
-| O'Connor | 14 | 25 |
+| O'Connor | 13 | 25 |
 | Scalia | 5 | 5 |
-| Kennedy | 14 | 11 |
+| Kennedy | 13 | 11 |
 | Souter | 18 | 20 |
 | Thomas | 5 | 9 |
 | Ginsburg | 13 | 11 |

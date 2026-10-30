@@ -606,24 +606,24 @@ Source: state/holdings/constitutional-structure.md
 
 ### Commerce power and armed vehicle taking
 
-#### [United States v. Harris](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md)
+#### United States v. Harris
 
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
 
 For the other questions in this decision, see Criminal Procedure — Armed vehicle taking and cumulative firearm punishment (Knowing participation and intentional assistance give the original offense definite content; Section 924(c) expressly adds a consecutive term for this armed carjacking; Hunter permits the clearly authorized punishment in this single prosecution).
 
-##### The vehicle-taking economic class supplies the commerce connection
+##### Direct protection of an interstate instrumentality against forcible taking
 
-**Holding:** Congress may regulate the armed forcible acquisition of the covered vehicle proved here as an economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme, while original §2119's enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved. Neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground. The decision creates no rival commerce test and no automatic instrumentality rule beyond these facts and the enacted nexus.
+**Holding:** Congress may protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the offense requires proof of the particular vehicle's interstate connection. Original §2119 therefore reaches the armed forcible taking of the covered vehicle proved here, provided its enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce is proved. The direct attack on possession and control of the vehicle and the vehicle-specific connection together supply the ground; neither remote movement alone nor generalized crime, insurance, travel, or productivity costs does so. The rule does not cover every offense in or near a vehicle or require a present interstate journey or intended interstate resale.
 
-**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices. Stone-Zsela concurs in the judgment on a narrower ground: he would sustain the application because the offense directly attacks possession and control of a covered motor vehicle functioning as an interstate transportation instrumentality or thing in commerce, and because the statute requires proof of the particular vehicle's interstate connection. He does not rely on remote historical movement alone.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes. Breyer, joined by Stevens, Souter and Ginsburg, also states an economic-class alternative in concurrence; those four votes do not make that alternative controlling.
 
 **Treatment of earlier authority:**
 
-- United States v. Lopez, April 26, 1995: applies its controlling connection-before-magnitude architecture for the first time, in a direct vehicle/instrumentality and economic vehicle-taking setting; the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme supplies the connection, and Lopez's inadequate stand-alone possession/downstream-effects chain is distinguished; no missing element is supplied.
-- Wickard v. Filburn, 317 U.S. 111 (1942): applies aggregation within a regulated economic class rather than demanding a substantial effect from each individual taking.
-- Perez v. United States, 402 U.S. 146 (1971): applies Congress's authority over the economic class despite an individual instance's local character.
+- United States v. Lopez, April 26, 1995: applies the retained power to protect interstate instrumentalities and distinguishes stand-alone possession supported only by remote downstream consequences. Congress enacted the vehicle-specific nexus here; the Court supplies no omitted element.
+- Wickard v. Filburn, 317 U.S. 111 (1942): retains its economic-class aggregation rule. The Court does not use that separate route to sustain this direct-instrumentality application.
+- Perez v. United States, 402 U.S. 146 (1971): retains its economic-class ground without making it the Court’s ground for this vehicle-taking decision.
 - Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves its distinction between actual commercial operation and remote object history; prior manufacture alone is not the constitutional ground here.
 
 **Operative remedy or transition:** Both convictions and each defendant's forty-one-month Count One term plus consecutive sixty-month Count Two term are affirmed on all three presented challenges. No merger, vacatur, concurrent conversion, sentence increase, resentencing, new trial or exploratory remand is ordered.

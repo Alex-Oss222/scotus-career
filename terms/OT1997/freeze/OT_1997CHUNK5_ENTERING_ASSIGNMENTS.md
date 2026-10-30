@@ -79,7 +79,7 @@ Stone does not belong to the five-member bounded-mandate coalition. **Stevens**,
 
 ## united_states_v_rybar_merits_1997-11-24.md
 
-Effective date: 1997-11-24. Source SHA-256: `6d5f29eac0937e871b283c1f071b906cc0c341b0077eaf579d7f089886976640`.
+Effective date: 1997-11-24. Source SHA-256: `8782dc93cc5574136285443ed5a9165f86cde8c127c703e36f20608955a83283`.
 
 ### Exact opinion topology
 
@@ -693,7 +693,7 @@ Kennedy is the strongest alternative. His Reich opinion gives concrete fit for s
 
 ## united_states_v_kirk_merits_1998-02-14.md
 
-Effective date: 1998-02-14. Source SHA-256: `246ff60a63c43462bbada3ae5b95556f54b965140bc8efef389ee934dec05e58`.
+Effective date: 1998-02-14. Source SHA-256: `0144d3171952543c7fa04827fccaafdcbdd3d7e3849f2e85c6c30b5d4ef88692`.
 
 ### Exact opinion topology
 
@@ -705,15 +705,15 @@ The [form-first receipt](../freeze/OT_1997CHUNK4_A_FORM_FIRST.md) fixed one sign
 
 ## johnson_v_rodriguez_merits_1998-02-17.md
 
-Effective date: 1998-02-17. Source SHA-256: `ad813b64942c2f5891703f1dd9d45074ee5c9e6e26e83471794d619abffa4a48`.
+Effective date: 1998-02-17. Source SHA-256: `21a8aafccde31ddc92fea68c324bc7dbd2ded345058daceded519649a557f34a`.
 
 ### Exact opinion topology
 
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer in full | Supports every component | Parts I–V |
-| Same opinion, partial joins | Kennedy | Stone-Zsela | Supports every disposition | I-A: no initial-release entitlement; I-B: protest-letter rejection; II-A: retaliation and Mt. Healthy; IV-A: standing, attributable practice and fitted relief; V's corresponding mandate. Agrees in correcting and remanding the writ-writer standard without joining II-B's additional assistance/petition grounds. Disposition only, with no additional ground, on III's separate writ-writer equality and IV-B's fee vacatur. |
-
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer in full | Supports every component | Parts I–V |
+| Same opinion, partial joins | Kennedy | Stone-Zsela | Supports every disposition | I-A: no initial-release entitlement; I-B: protest-letter rejection; II-A: retaliation and Mt. Healthy; IV-A: standing, attributable practice and fitted relief; V's corresponding mandate. Agrees in correcting and remanding the writ-writer standard without joining II-B's additional assistance/petition grounds. Disposition only, with no additional ground, on III's separate writ-writer equality and IV-B's fee vacatur. |
+
 No separate writing is filed. The eight Associates supply a direct majority for every part; Stone-Zsela's identified joins add a ninth vote only at that scope.
 
 ### Assignment statements
@@ -722,7 +722,7 @@ One signed plenary opinion, its governing parts and Stone's partial scope were f
 
 ## arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md
 
-Effective date: 1998-02-23. Source SHA-256: `9ee8f6eb04979453c6c90edfe375f72c7186662486021d0e955d451cf0652963`.
+Effective date: 1998-02-23. Source SHA-256: `ae5e7ab633a087dd7a69e3450a013f5e89c9e807d2f9597e91f62cc58eb74748`.
 
 ### Exact opinion topology
 
@@ -740,16 +740,16 @@ Form first: one reasoned per curiam order separates two current motions and one 
 
 ## newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md
 
-Effective date: 1998-02-23. Source SHA-256: `d150b72935c620861965268d0d6ab60ffb921034dd2c7dc21946ac653bdd5984`.
+Effective date: 1998-02-23. Source SHA-256: `a8c07f82aa9934ad67b2a570ceff4bd45c459115c79a68651a77d08fda41c0b5`.
 
 ### Exact opinion topology
 
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court, Part I | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Requires the postpayment opportunity and bounded remand | Reich rule, actual application, reasonable preannounced conditions and open remedial choices |
-| Opinion of the Court, Part II | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Vacates and remands | Formal disposition leaves the claim's merits and lawful conditions for adjudication |
-| Concurrence in Part I and remand; dissent from vacatur in place of reversal | Stone-Zsela | No other Justice | Would reverse and remand | Same governing rule and remedy limits; distinct formal judgment |
-
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Requires the postpayment opportunity and bounded remand | Reich rule, actual application, reasonable preannounced conditions and open remedial choices |
+| Opinion of the Court, Part II | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Vacates and remands | Formal disposition leaves the claim's merits and lawful conditions for adjudication |
+| Concurrence in Part I and remand; dissent from vacatur in place of reversal | Stone-Zsela | No other Justice | Would reverse and remand | Same governing rule and remedy limits; distinct formal judgment |
+
 The merits coalitions above disclose no certiorari poll.
 
 ### Assignment statements
@@ -758,7 +758,7 @@ The form-first receipt selects a per curiam summary merits decision because esta
 
 ## regions_hospital_v_shalala_merits_1998-02-24.md
 
-Effective date: 1998-02-24. Source SHA-256: `b6bbb4993799995f5efdad914019dab65963d5d8ded43521593b3f176856fd4f`.
+Effective date: 1998-02-24. Source SHA-256: `e2edd46bf3f3f16fec2685c8bf4b6afb6024f8875dea45ab3287c173be3b1921`.
 
 ### Exact opinion topology
 
@@ -778,7 +778,7 @@ Stone assigns from the six-Justice affirmance coalition. Eligible for the comple
 
 ## rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md
 
-Effective date: 1998-02-24. Source SHA-256: `fef004cabcdf5faba3090698b4bce089c78285d42be81ba7d688eccdfdf1fb45`.
+Effective date: 1998-02-24. Source SHA-256: `da4aba76464e1ef87de55dbb0ac63aa1d8f34864b79b9080052ec44445bedb0a`.
 
 ### Exact opinion topology
 

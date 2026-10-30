@@ -5,7 +5,7 @@
     {
       "path": "terms/OT1995/runtime/assembly/PUBLIC_DRAFT_American_Life_League_v_Reno_merits_1995-11-13.md",
       "bytes": 37078,
-      "sha256": "dc0c3e2c67d29fc3edeb3da5dfd0af3ba53336d1ecdcd8fcde91810d8f1e2096",
+      "sha256": "b74bad9b9af5f69d976e27cb69432db015cb67f5e0d924cc1ff443a41319134f",
       "eleven_blocks_exact": true,
       "controlling_explanations": [
         {
@@ -81,9 +81,9 @@
   ],
   "frozen_inputs_unchanged": {
     "OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md": "adab7fb54ef8b459020c55a4910b7ebcc94f3e46d4ab304b4a64e64b38d9cfd3",
-    "OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md": "3ba664d405e60b9595707f9692d2706bfefee6e190f654d4ed79664d0182ad12",
-    "OT_1995CHUNK1_ALL_TEXT_RECONCILED.md": "fbe53a45c2296d7c4f6ff37d3a99963bef3efa54f8c20049418e419cedc79604",
-    "OT_1995CHUNK1_B3_COMMITMENTS.md": "7d9c41968c406f92bdd52b38b3e397fbf4df5cd546fc028eec534efaf26e9435"
+    "OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md": "bca4e924ff290ca9b0d7322ba428785d7ca1278398ece4fc6fc757bd0f022085",
+    "OT_1995CHUNK1_ALL_TEXT_RECONCILED.md": "cf5dc4e89302b8ca519bd276111592671238e5d1609c010d6e255c634875a4b5",
+    "OT_1995CHUNK1_B3_COMMITMENTS.md": "3e8fd92c498ac1a94c582ff8c5a374a7af119ab65388fe11971a3cd8a83c7a47"
   },
   "effective_law_refreshes": [
     "OCT31_ACTUAL_ENTERING_LAW_REFRESH_RECEIPT.md",

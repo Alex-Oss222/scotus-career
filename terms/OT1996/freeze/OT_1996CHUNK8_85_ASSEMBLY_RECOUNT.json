@@ -820,7 +820,7 @@
       "author_evidence": [
         "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Affirmance | Entire opinion; all three holdings and their qualifications |"
       ],
-      "topology_sha256": "d58f151199e026ec476cd3d1db7b381d503e542b382708c50f8fd5b3fbc7db34"
+      "topology_sha256": "476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409"
     },
     {
       "record": "Richards_v_Wisconsin_merits_1997-04-28.md",
@@ -832,7 +832,7 @@
       "author_evidence": [
         "| Opinion of the Court | Breyer | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg; Stone-Zsela and Scalia except Part III | Affirmance | All nine join I, II and IV; seven Associates join III |"
       ],
-      "topology_sha256": "d262b4a9a65c77fdface6cad53796ef3ea63e6962875bd7fd284b42e373d6dfe"
+      "topology_sha256": "4dfee13a32c11f963afb90d463ecddfd29b20c36cebc008d7625df983a67968f"
     },
     {
       "record": "Strate_v_A_1_Contractors_merits_1997-04-28.md",
@@ -844,7 +844,7 @@
       "author_evidence": [
         "| Opinion of the Court | Scalia | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer; Stone-Zsela in I, III and IV | Affirmance and bounded remedial disposition | Eight Associates join all parts; all nine join I, III and IV |"
       ],
-      "topology_sha256": "be4c0675095940396818fa2d709214bb0a92bd7b64d41c285c18eda496a7c761"
+      "topology_sha256": "b372c26f6da31e4bf7570f01d76a922b2da1a84887cc1f8171db035cdcacf767"
     },
     {
       "record": "Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
@@ -856,7 +856,7 @@
       "author_evidence": [
         "| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Breyer; Stevens, Souter and Ginsburg in I and III | Reversal and remand | Five join merits Part II; all eight Associates join live-controversy Part I and statutory-transition Part III; Stone-Zsela agrees to reach the merits without an additional statutory rationale |"
       ],
-      "topology_sha256": "eba5c1eac6976bc388423fea90b74ea5e12d62ca70627f337e1ae386340818d0"
+      "topology_sha256": "90ee6006e8bf2622b107f69d9d5681a2a8514cf46cc9c9c70f040d119d43e4ef"
     },
     {
       "record": "Doe_v_SEPTA_merits_1997-05-05.md",
@@ -868,7 +868,7 @@
       "author_evidence": [
         "| Opinion of the Court | Kennedy | O'Connor, Scalia, Thomas, Breyer | Affirmance | Entire expressly assumed-right, record-specific no-violation holding |"
       ],
-      "topology_sha256": "643847a4f1b7ba35dd9018fb00548ece610417cb4751e53121373201c1d1d6c2"
+      "topology_sha256": "7384e242051ba655904a85eda89ae34da0bdf195bd00fb62e22f7b992ebc425e"
     },
     {
       "record": "Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md",

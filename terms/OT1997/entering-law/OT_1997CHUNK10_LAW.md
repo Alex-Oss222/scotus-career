@@ -89,7 +89,7 @@ Each digest covers the exact trimmed Public Projection text copied from the iden
 - `salinas_v_united_states_merits_1997-12-02.md`: `3b4298096852015c2e453868ba564b9890c8b4c9e1d2718396b444592a4cb1bc`.
 - `united_states_v_kirk_merits_1998-02-14.md`: `adc0f037f08e048b4e0c36b83862e1ed41a7c6dc41a5a8efeba3fed2b6121488`.
 - `united_states_v_robinson_merits_1998-03-23.md`: `3f0e89a730d14fe783211cc65b23606686942bce608452e1ec08d08176a9e600`.
-- `united_states_v_hinds_merits_1998-04-06.md`: `04b15f788da2872c9b525e50be7865d18ac8f9b6c2a3d77b6ee774b4486944c0`.
+- `united_states_v_hinds_merits_1998-04-06.md`: `2a179e5f13e1e2703201776f1129537ef014664b5f388ad9849dfd738ad63603`.
 - `united_states_v_bird_merits_1998-04-13.md`: `9612fc5bcf6564320878101b0f9a9f5e96a00c4ad675fee8a722b336625fdd59`.
 - `clanton_v_cooper_merits_1997-12-29.md`: `548cba824f5c56b7abcb1a69db4b0870b75ff51416d3cde2922aed2ab6296884`.
 - `smith_v_mattox_merits_1998-01-12.md`: `74632154153430e9c89d20c6306d9a7cd3ae1a0adeddf02b8253f3b70b64de40`.

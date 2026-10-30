@@ -319,7 +319,9 @@ Merits decision, April 28, 1997
 
 #### Chronology and Posture
 
-Review of Third Circuit No. 95-7137, 76 F.3d 1294 (February 13, 1996). Argued December 4, 1996. On writ of certiorari to the United States Court of Appeals for the Third Circuit under 28 U.S.C. §1254(1). Pic-A-State seeks declaratory and prospective injunctive relief against the Interstate Wagering Amendment to 18 U.S.C. §1301. The questions are whether the stopped procurement business presents a concrete pre-enforcement controversy, whether Congress may regulate its interstate procurement transmissions although the tickets remain in another State, and what effect the express interstate-agreement exception has on the dormant Commerce Clause objection.
+Pic-A-State Pennsylvania, Inc. v. Reno; review of Third Circuit No. 95-7137, 76 F.3d 1294 (February 13, 1996). Argued December 4, 1996; decided April 28, 1997. On writ of certiorari to the United States Court of Appeals for the Third Circuit under 28 U.S.C. §1254(1). Pic-A-State seeks declaratory and prospective injunctive relief against the Interstate Wagering Amendment to 18 U.S.C. §1301. The questions are whether the stopped procurement business presents a concrete pre-enforcement controversy, whether Congress may regulate its interstate procurement transmissions although the tickets remain in another State, and what effect the express interstate-agreement exception has on the dormant Commerce Clause objection.
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
 
@@ -331,7 +333,7 @@ The denial and dismissal of the requested federal declaratory and prospective in
 
 #### Opinion Topology
 
-Justice Kennedy delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. The unanimous opinion supplies all three holdings and their qualifications.
+Justice Kennedy delivers the opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. All nine join the entire opinion, including all three holdings and their qualifications. No separate writing is filed.
 
 #### Controlling Propositions and Authority
 
@@ -347,7 +349,7 @@ Justice Kennedy delivered the opinion of the Court, joined in full by Chief Just
 
 **Holding and operative rule:** Congress may prohibit a procurement business's knowing interstate or foreign transmission of information to obtain, for a person in one State, a ticket, chance, share or interest in a lottery, gift enterprise or similar scheme conducted by another State. The challenged commercial transmission is interstate commerce itself even when the physical ticket remains in the conducting State; the prohibition remains subject to the agreement exception and separate §1307 exemptions stated below.
 
-**Controlling explanation:** Champion v. Ames establishes congressional power to prohibit interstate commerce in lottery interests; Gibbons recognizes interstate commercial intercourse beyond the movement of tangible paper. Pic-A-State's computer communications accomplish the economic procurement transaction across state lines. The amendment closes that commercial route around the existing physical-ticket prohibition. Robertson confirms that an actual interstate business operation needs no independently substantial effect from each transaction. Lopez requires the regulated class's connection to commerce among the States to be identified before aggregation or substantiality performs constitutional work, and it rejects a remote chain from local possession through social costs; it does not displace direct regulation of interstate commerce itself, where no aggregation or substantial-effects analysis is required. Harris, Hale and American Life League likewise preserve genuine economic-class and direct-market grounds. Here the enacted knowing-transmission and procurement-business elements themselves supply the connection, without a judicially added element or an aggregation holding. Hodel permits rational means within that established power: closing the procurement gap and accommodating different state lottery choices meet that requirement. Revenue preservation alone would not establish federal power over local conduct. Congress need not prohibit every lottery, prove a particular revenue loss, or make transaction-specific findings to regulate this interstate business.
+**Controlling explanation:** Champion v. Ames establishes congressional power to prohibit interstate commerce in lottery interests; Gibbons recognizes interstate commercial intercourse beyond the movement of tangible paper. Pic-A-State's computer communications accomplish the economic procurement transaction across state lines. The amendment closes that commercial route around the existing physical-ticket prohibition. Robertson confirms that an actual interstate business operation needs no independently substantial effect from each transaction. Lopez requires the regulated class's connection to commerce among the States to be identified before aggregation or substantiality performs constitutional work, and it rejects a remote chain from local possession through social costs; it does not displace direct regulation of interstate commerce itself, where no aggregation or substantial-effects analysis is required. Harris preserves direct protection of a covered interstate instrumentality, while Hale and American Life League preserve their distinct market-regulation grounds. Here the enacted knowing-transmission and procurement-business elements themselves supply the connection, without a judicially added element or an aggregation holding. Hodel permits rational means within that established power: closing the procurement gap and accommodating different state lottery choices meet that requirement. Revenue preservation alone would not establish federal power over local conduct. Congress need not prohibit every lottery, prove a particular revenue loss, or make transaction-specific findings to regulate this interstate business.
 
 ##### III. The agreement exception supplies bounded congressional authorization
 
@@ -369,8 +371,8 @@ Section 1307(a)(1) separately exempts advertisements, prize lists or other infor
 - Champion v. Ames supports Congress's authority to prohibit interstate lottery commerce.
 - Gibbons v. Ogden supports regulation of interstate commercial intercourse beyond tangible paper, applied here to procurement information.
 - Lopez is applied at its first step: the knowing interstate procurement transmission is interstate commerce itself, so the connection is identified without a remote social-cost chain and no aggregation or substantial-effects analysis is required.
-- Harris retains its economic vehicle-taking-class ground, distinct from a remote social-cost chain.
-- Bishop/Stokes retains its application of that economic-class rule to the two charged vehicle takings.
+- Harris retains its direct-instrumentality ground and enacted vehicle-specific nexus, distinct from a remote social-cost chain.
+- Bishop/Stokes retains its application of Harris's direct-instrumentality rule to the two charged vehicle takings.
 - Hale retains its ground for possession integral to the direct transfer-and-stock regime.
 - Robertson supports evaluating the enterprise's actual interstate operation without a separately substantial effect from each transaction.
 - American Life League retains its direct-interference-with-the-medical-market ground; this case supplies no exhaustive commerce formula.

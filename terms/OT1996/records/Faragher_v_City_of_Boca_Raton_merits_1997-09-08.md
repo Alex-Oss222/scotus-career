@@ -1,7 +1,7 @@
 **Case and dockets:** Faragher v. City of Boca Raton; Eleventh Circuit No. 94-4878; no separate Supreme Court docket supplied; OT1996, chunk 13.
 **Event and date:** Plenary merits decision, 1997-09-08; argued September 8, 1997.
 **Result:** Reverse the reviewed Title VII disposition and remand for reinstatement of the existing one-dollar judgment, 8–1. All nine join the actual-authority rule; Stone-Zsela supports a different, conditional remand.
-**Version / lineage:** Initial Canonical Decision Record; supersedes no earlier adjudication.
+**Version / lineage:** Original decision
 
 ## Event, route and chronology
 
@@ -342,7 +342,7 @@ The complete [independent commitments](../freeze/OT_1996CHUNK13_FARAGHER_COMMITM
 
 Other inputs were the Faragher portion and applicable source map of [validated C neutral](../freeze/OT_1996CHUNK13_C_NEUTRAL.md), [C validation](../freeze/OT_1996CHUNK13_C_NEUTRAL_VALIDATION.md), [C entering law](../entering-law/OT_1996CHUNK13_C.md), the complete [June 30 public delta](../entering-law/OT_1996CHUNK13_JUNE30_PUBLIC_DELTA.md), [final Faragher refresh](../freeze/OT_1996CHUNK13_FARAGHER_NEUTRAL_REFRESH.md), [scoped comparator C](../runtime/OT_1996CHUNK13_COMPARATOR_C.md), and the Faragher section of [historical verification](../freeze/OT_1996CHUNK13_C_LATER_CONTROL_VERIFICATION.md). The refresh's clerical clarification applies: the nominal award is on Faragher's Title VII claim against the City. The original neutral bytes are preserved.
 
-Raw hashes verified during preparation: final refresh `d30ba8789d9a3449333a74bd02eb850b9f1d7f8702553e1319fd8ba2bad1c1cd`; June 30 delta `3597e5a77a65d9fd763060dc401e249cae4db3a0714caee9ccbd60e9e59b5023`. The nine earlier events add no changed Title VII attribution rule, affirmative defense, present remedy or Faragher-specific published position. Their actual limits remain intact.
+Raw hashes verified during preparation: final refresh `a80c24c66e44bc13bba0b415ce9e45eab3620b116eb2e56bb2113b2bbec5c790`; June 30 delta `4cd3296aa933f3385f5b8462d21c4ba4bfed5a469b120032edf35e6bf2be902d`. The nine earlier events add no changed Title VII attribution rule, affirmative defense, present remedy or Faragher-specific published position. Their actual limits remain intact.
 
 No private Stone input, raw Record, current Harrison commitment, or Git operation was accessed. During preparation a heading/Faragher search inadvertently displayed the adjacent Harrison historical GVR paragraph in the authorized verification receipt. That exposure was reported to control; it has not been used to determine any Faragher position. The claim of separation is from present Stone material, not from historical material permitted to this stage. General model knowledge cannot be erased. No new objective fact or reconstructed source passage is introduced here.
 

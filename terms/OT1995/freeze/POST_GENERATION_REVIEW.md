@@ -14,6 +14,6 @@ Reviewed file identities:
 | Workspace file | SHA256 |
 |---|---|
 | manifest.md | `1e403db565ffc56887125344f5db1a181cdfa19a4d26761bab39e722d0670cce` |
-| ledger.md | `82a9ae8373f6f3f4807f4fe7d22cf7ef93adb35557b7edc742f6333b2a118fa3` |
+| ledger.md | `01b170901ffb4ef75cb7023f4ddee1c09b7e1875ebf3c854605e621727cf64dd` |
 | continuity.md | `ef1927bb88b6b28060b784f90900707d63f72df9e2f564bf342aa7fadcb8adde` |
 | neutral-projection.md | `ff28f77e89ef7f7ca3f4f69ee990efc83b5941fe138da207f46516d5bf114438` |

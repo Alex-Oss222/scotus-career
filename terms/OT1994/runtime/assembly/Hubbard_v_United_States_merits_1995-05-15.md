@@ -212,7 +212,7 @@ The Sixth Circuit receives the case for lawful proceedings implementing reversal
 
 ## Adaptive audit annex
 
-The final independent model is freeze/OT_1994CHUNK5_COMMITMENTS_HUBBARD.md, SHA-256 8DEA4517F585043E2A3540173E3AC98BB0A319C003823BEEF3C55750B4BF49B8. Final reconciliation is freeze/OT_1994CHUNK5_RECONCILED_HUBBARD.md, SHA-256 3DF5AE7BF665AE3B62F91D5B3B96BD0BCF084A144236426287E3CCE5BE24580E. Paired runtime copies are byte-identical. Both complete handoffs were read; the final reconciliation read and hash checks preceded exact current Stone exposure. The before/after audit rows and exact associate support boundaries follow verbatim from the final reconciliation. Assembly makes no new associate commitment change.
+The final independent model is freeze/OT_1994CHUNK5_COMMITMENTS_HUBBARD.md, SHA-256 0CB3397272D0F45A8CFD9E482369ABC2B83547F52EBEADC6E7631FA2564D8322. Final reconciliation is freeze/OT_1994CHUNK5_RECONCILED_HUBBARD.md, SHA-256 4BDA7B4D065B02970E21DDBEF34B493FFC633BD507408D801162432379299810. Paired runtime copies are byte-identical. Both complete handoffs were read; the final reconciliation read and hash checks preceded exact current Stone exposure. The before/after audit rows and exact associate support boundaries follow verbatim from the final reconciliation. Assembly makes no new associate commitment change.
 
 | Associate | Final independent model | Historical evidence | Final reconciled disposition and sufficient individual ground |
 |---|---|---|---|

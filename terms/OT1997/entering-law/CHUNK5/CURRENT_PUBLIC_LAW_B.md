@@ -47,7 +47,7 @@ Further consideration may use the existing record or ordinary proceedings genuin
 ## Precedent Treatment
 
 - Hale is followed without enlargement: it supplies the anti-evasion/material-impairment rule for the post-1986 civilian machinegun market; its registration rule remains distinct from the possession prohibition.
-- Harris and Bishop/Stokes are distinguished as vehicle-taking cases with their own economic/instrumentality mechanism and enacted vehicle nexus.
+- Harris and Bishop/Stokes are distinguished as vehicle-taking cases with their direct-instrumentality mechanism and enacted vehicle-specific nexus.
 - American Life League is distinguished as direct interference with an interstate service market.
 - Love and Hale's personal-holder and acquisition principles displace a militia-affiliation prerequisite while preserving actual application.
 - Miller retains its actual weapon/record significance, without automatic military-use exclusion or immunity.
@@ -55,7 +55,7 @@ Further consideration may use the existing record or ordinary proceedings genuin
 
 ## Law After Decision
 
-The commerce challenge fails under Hale's existing anti-evasion/material-impairment rule; Rybar adds no new Commerce gateway or doctrine. As of this decision, Lopez supplies connection before magnitude and reserves genuine Necessary-and-Proper inclusion; Harris applies a direct vehicle and economic-taking mechanism with an enacted nexus, Stone-Zsela separately emphasizing the instrumentality mechanism; American Life League addresses direct obstruction of an interstate service market; Hale makes the anti-evasion/material-impairment doctrine operational; Bishop/Stokes applies Harris without a new rule; Pic-A-State treats an interstate procurement transmission as interstate commerce itself; Mussari/Schroeder directly protects a legally fixed cross-border payment obligation; and Rybar applies Hale. No interstate-externality branch has been adopted as controlling law. The personal-holder boundaries remain controlling, while the two weapons' ultimate protection against this possession restriction remains open on remand. The Court adopts no categorical automatic-weapons exclusion, general danger exception, universal scrutiny tier or automatic-remand rule.
+The commerce challenge fails under Hale's existing anti-evasion/material-impairment rule; Rybar adds no new Commerce gateway or doctrine. As of this decision, Lopez supplies connection before magnitude and reserves genuine Necessary-and-Proper inclusion; Harris applies the Court's direct-instrumentality ground to forcible vehicle taking with an enacted vehicle-specific nexus; American Life League addresses direct obstruction of an interstate service market; Hale makes the anti-evasion/material-impairment doctrine operational; Bishop/Stokes applies Harris without a new rule; Pic-A-State treats an interstate procurement transmission as interstate commerce itself; Mussari/Schroeder directly protects a legally fixed cross-border payment obligation; and Rybar applies Hale. No interstate-externality branch has been adopted as controlling law. The personal-holder boundaries remain controlling, while the two weapons' ultimate protection against this possession restriction remains open on remand. The Court adopts no categorical automatic-weapons exclusion, general danger exception, universal scrutiny tier or automatic-remand rule.
 
 ## Separate Writings
 

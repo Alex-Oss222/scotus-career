@@ -2,7 +2,7 @@
 
 **Status:** Supplemental independent non-Stone modeling complete. This supplement preserves the original frozen commitments and states the effect of the additional neutral authorities. It is not historical reconciliation, Stone assembly, an opinion assignment or a completed adjudication. Durable file freeze only; no Git operation is claimed or used.
 
-**Original handoff preserved:** `OT_1995CHUNK9_GASPERINI_COMMITMENTS.md`, previously frozen SHA-256 `3d20d2731a2d4fd672f9573729a2fea6d9d9e4980aedaf54bbed477e7313a6d4`. The original bytes are not edited. Read this supplement with that handoff; the explicit clarifications below control any inconsistent characterization of the state statute's trial-court operation.
+**Original handoff preserved:** `OT_1995CHUNK9_GASPERINI_COMMITMENTS.md`, previously frozen SHA-256 `084b01eb804f63ec28e80a115130be972b91f12a2de6cedbf454a67ec033751a`. The original bytes are not edited. Read this supplement with that handoff; the explicit clarifications below control any inconsistent characterization of the state statute's trial-court operation.
 
 ## Boundary and additional sources
 

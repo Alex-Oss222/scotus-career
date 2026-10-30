@@ -78,8 +78,8 @@
     {
       "path": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
       "date": "1995-11-13",
-      "record_sha256": "4a42fb233de7e10893f8b5800c53dc5ac7f8f07a3bbad3907ee28c8c9f1b861f",
-      "projection_sha256": "9722fed5a5f6e9bf18bc54d32cfc391824893b815d4e2cd01b103cc0d9b3c44f"
+      "record_sha256": "e66425a0cf07c072365d684372aa1724d5dea076e7c2200208ed765bb45a1a03",
+      "projection_sha256": "b217fcdf271cb8e7109f6720fd64a3a425436753b2b6c3b365a05ed6bdc4ae2d"
     },
     {
       "path": "terms/OT1995/records/A_St_P_C_v_B_C_merits_1995-11-20.md",
@@ -132,7 +132,7 @@
     {
       "path": "terms/OT1995/records/Bailey_and_Robinson_v_United_States_merits_1995-12-06.md",
       "date": "1995-12-06",
-      "record_sha256": "d3f445333daab85c0cb49ef2fd157cf91c5e8be190366ff0895408dcfa786a2c",
+      "record_sha256": "d60f56cff8059d2fcbb2c103caf1cb1224cca69fc2bb0bef90ca3032154e471e",
       "projection_sha256": "9d1c8b545058b91ca6b397af2d12b47c3aac9293d5667f5b28fafbcf2274bb61"
     },
     {
@@ -234,8 +234,8 @@
     {
       "path": "terms/OT1995/records/United_States_v_Bishop_and_Stokes_merits_1996-02-05.md",
       "date": "1996-02-05",
-      "record_sha256": "930f391b1fe8bef0cce2ba4734d469321b69d8576cdce8ddb8794df665f971cf",
-      "projection_sha256": "2764e2ee080f77d81b0796548c0c492ce0000709998b7ffa138332fefc898b72"
+      "record_sha256": "f1493e9e1a72e12ffacf1b9d3175dbd51088f979de2b0f7d5c12a44275dd6f22",
+      "projection_sha256": "dcbcc14b2e2dae2f52c481490381b2cdee66ebbbfe05f629dc8d7bc32f51820f"
     },
     {
       "path": "terms/OT1995/records/Telecommunications_Act_section_302_statutory_effectiveness_1996-02-08.md",
@@ -258,8 +258,8 @@
     {
       "path": "terms/OT1995/records/United_States_v_Hale_merits_1996-02-12.md",
       "date": "1996-02-12",
-      "record_sha256": "2977f7e14680e7e5a8a7d0fa2e898409b5b14b278980f63e183bb684125d3591",
-      "projection_sha256": "f612dc6e753ebcb9094f7615f325a8c1e264eecc1293158ff1e399cbb36a7cfd"
+      "record_sha256": "870a20a771893e2b867126cec95ce1654ef93d826a9f3adba65f7565677acc30",
+      "projection_sha256": "ffa5830de11ab396ef264cab8928598db7c2c6140516c20f4b05fc095f600564"
     },
     {
       "path": "terms/OT1995/records/Behrens_v_Pelletier_merits_1996-02-21.md",
@@ -378,13 +378,13 @@
     {
       "path": "terms/OT1995/records/Morse_v_Republican_Party_of_Virginia_merits_1996-03-27.md",
       "date": "1996-03-27",
-      "record_sha256": "2e0f9df24681e6de51782001ec531ff803c8c10ddc510baf028172ddfbf779f5",
+      "record_sha256": "315019a452752744aab0a6bdbcca2a7ec6d1cc8fc035a9b2026686fd2f2a6f36",
       "projection_sha256": "b8ca2604e07e8cab76fe9d00970bc79494a7e8ad0803ad1695710b505ce92182"
     },
     {
       "path": "terms/OT1995/records/Rutledge_v_United_States_merits_1996-03-27.md",
       "date": "1996-03-27",
-      "record_sha256": "71237b8a2a32b980d29c7f8306c3699d901d8b8f62d12185430c7890cfd9d37d",
+      "record_sha256": "dce41ea29a7766b0d4ac6ca5f02696e5d1b7a7bab4eedc06d763a1dc0b466020",
       "projection_sha256": "cb998b19a10a658c4d3ee1f39f272dc4d4c3225576db8d70eebb3437de65c683"
     },
     {
@@ -426,7 +426,7 @@
     {
       "path": "terms/OT1995/records/Bowersox_v_Williams_interim_application_order_1996-04-09.md",
       "date": "1996-04-09",
-      "record_sha256": "31378641440723f8d120ab79d4a258ed6703c4902f8462548b23ebccdc7cf2ca",
+      "record_sha256": "0b4d2be7c628027667d27ad38a6b5eb1b4e049800b543cf28f607a0a23c3248b",
       "projection_sha256": "bb489323d379ea39168498b2f745a4e5d948c08491b976b847eaf08e47d2d0b6"
     },
     {
@@ -564,7 +564,7 @@
     {
       "path": "terms/OT1995/records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md",
       "date": "1996-06-03",
-      "record_sha256": "2e61a9f3587b9bf4f7385abc8fb1329e527f750b0e533834f1960b57508a81fc",
+      "record_sha256": "8f6d04c7728e7b88b1de6daed93cea08c9a902d230a508f6be91fa7640c0daf3",
       "projection_sha256": "571b043c07699a3b3b5e2eaf46b9032df59cf8f2a59a2b149fb459493808b793"
     },
     {
@@ -576,7 +576,7 @@
     {
       "path": "terms/OT1995/records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md",
       "date": "1996-06-10",
-      "record_sha256": "b6f489a546357c480a5be93a05cba61190729cbbd305489dcc830a7a89be1d89",
+      "record_sha256": "179870811e3fdfe07ef872f1979e59141f8a99cc45d5a85dfb552430a628bd8d",
       "projection_sha256": "946aedf6885034d410958d06cb411a7c8ce1fbfbe5d94a9076ffc8d0b327fdf4"
     },
     {

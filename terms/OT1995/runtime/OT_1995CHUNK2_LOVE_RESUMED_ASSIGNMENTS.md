@@ -1204,7 +1204,7 @@ Chief-accounted named opinion: O'Connor (one).
 Source line 85:
 
 > Stone joins the unanimous tentative coalition reversing the use-based appellate affirmances and assigns the opinion to O'Connor.
-> Her current Smith opinion gives the closest direct authorship fit for explaining why barter actively employs a firearm while protective storage does not; her Harris opinion supplies the distinction between the predicate and independently proved §924(c) conduct.
+> Her current Smith opinion gives the closest direct authorship fit for explaining why barter actively employs a firearm while protective storage does not; Harris supplies the distinction between the predicate and independently proved §924(c) conduct.
 > The common statutory ground is settled, and the Chief's different conviction-vacatur remedy cannot be resolved by relabeling an appellate reversal.
 
 Source line 87:
@@ -1410,7 +1410,7 @@ Source line 55:
 
 > Stone is in the nine-Justice tentative judgment coalition on every component and assigns the single Court opinion to O'Connor.
 > Fit governs because the eight Associates already share all five grounds, while Stone supports the commerce and limited arms portions.
-> O'Connor's actual Harris authorship and Wright authorship give a concrete advantage in coordinating the two principal constitutional analyses while preserving the distinction between statutory admissibility and confrontation.
+> O'Connor's actual Love and Wright authorship gives a concrete advantage in coordinating the two principal constitutional analyses while preserving the distinction between statutory admissibility and confrontation.
 
 ### OT1995/Behrens_v_Pelletier_merits_1996-02-21.md
 

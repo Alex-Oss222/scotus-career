@@ -24,7 +24,7 @@
     "author_evidence": [
       "| Opinion of the Court | Breyer | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg; Stone-Zsela and Scalia except Part III | Affirmance | All nine join I, II and IV; seven Associates join III |"
     ],
-    "topology_sha256": "d262b4a9a65c77fdface6cad53796ef3ea63e6962875bd7fd284b42e373d6dfe"
+    "topology_sha256": "4dfee13a32c11f963afb90d463ecddfd29b20c36cebc008d7625df983a67968f"
   },
   "counted": [
     {
@@ -818,7 +818,7 @@
       "author_evidence": [
         "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Affirmance | Entire opinion; all three holdings and their qualifications |"
       ],
-      "topology_sha256": "d58f151199e026ec476cd3d1db7b381d503e542b382708c50f8fd5b3fbc7db34"
+      "topology_sha256": "476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409"
     },
     {
       "record": "Richards_v_Wisconsin_merits_1997-04-28.md",
@@ -830,7 +830,7 @@
       "author_evidence": [
         "| Opinion of the Court | Breyer | Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg; Stone-Zsela and Scalia except Part III | Affirmance | All nine join I, II and IV; seven Associates join III |"
       ],
-      "topology_sha256": "d262b4a9a65c77fdface6cad53796ef3ea63e6962875bd7fd284b42e373d6dfe"
+      "topology_sha256": "4dfee13a32c11f963afb90d463ecddfd29b20c36cebc008d7625df983a67968f"
     }
   ],
   "excluded_by_form_or_procedure": [

@@ -30,8 +30,8 @@ The review checks dependence, not the correctness of every pre-existing adjudica
 
 ### `Doe_v_SEPTA_merits_1997-05-05.md`
 
-Before SHA-256: `c05bfd58668aff21689c58c488cb578032ff9096414dd363e5c4436120d44d58`.
-After SHA-256: `92decfc9ad476f26d3d4d01d581feee5e0883bc1369c21c83197732a621d35fb`.
+Before SHA-256: `7384e242051ba655904a85eda89ae34da0bdf195bd00fb62e22f7b992ebc425e`.
+After SHA-256: `7384e242051ba655904a85eda89ae34da0bdf195bd00fb62e22f7b992ebc425e`.
 Unchanged Public Projection SHA-256: `e44c788ad7158e9f640aa1e1edae59f577e8c182ce367d47490ddedebc3aa944`.
 Original bytes preserved at `tmp/brown_v2_before/Doe_v_SEPTA_merits_1997-05-05.md` for independent comparison.
 
@@ -61,8 +61,8 @@ The original rolling-law review preceded substantive assembly of Doe/SEPTA. The 
 
 ### `Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md`
 
-Before SHA-256: `db85a79bcad6cec9d24751d33fd391092b41dc1d4c7838417c2a79627285facb`.
-After SHA-256: `9a6a3cf3a7b009263215ff8b57a91d2b8b94029584396bc9c899f6a078b328e3`.
+Before SHA-256: `476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409`.
+After SHA-256: `476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409`.
 Unchanged Public Projection SHA-256: `e5137771d3da84621839ef024fca66afa329f5bffc362e90e79bb97a85cb8a80`.
 Original bytes preserved at `tmp/brown_v2_before/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md` for independent comparison.
 
@@ -82,15 +82,15 @@ Brown's same-day reargument order supplies no entering law for this uncoordinate
 
 | Existing Record | Before SHA-256 | After SHA-256 | Public Projection unchanged |
 |---|---|---|---|
-| `Doe_v_SEPTA_merits_1997-05-05.md` | `c05bfd58668aff21689c58c488cb578032ff9096414dd363e5c4436120d44d58` | `92decfc9ad476f26d3d4d01d581feee5e0883bc1369c21c83197732a621d35fb` | Yes: `e44c788ad7158e9f640aa1e1edae59f577e8c182ce367d47490ddedebc3aa944` |
+| `Doe_v_SEPTA_merits_1997-05-05.md` | `7384e242051ba655904a85eda89ae34da0bdf195bd00fb62e22f7b992ebc425e` | `7384e242051ba655904a85eda89ae34da0bdf195bd00fb62e22f7b992ebc425e` | Yes: `e44c788ad7158e9f640aa1e1edae59f577e8c182ce367d47490ddedebc3aa944` |
 | `Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md` | `30be8ea0502c98db23c1ec3ab6b856d6f8fef6838930a28873d75c367ffe4ea7` | `30be8ea0502c98db23c1ec3ab6b856d6f8fef6838930a28873d75c367ffe4ea7` | Yes: `0104af2561746ac44a69bdf008414c62f04efaf1db65c94782b5d12f762dfbe0` |
 | `Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md` | `9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3` | `9bb23e5bcfbc9f6bf3669916fb8973989dcd183bc56722707041736933ed73f3` | Yes: `6f862caebd25587e38a604aa5215de689ade12864e96d5aa577e6a0e8ff1c8bd` |
 | `Johnson_v_United_States_merits_1997-05-12.md` | `57c37b024f1ddde41b5fdc7bb18da303d1f27689caff2f3aa40b55c659ec814f` | `57c37b024f1ddde41b5fdc7bb18da303d1f27689caff2f3aa40b55c659ec814f` | Yes: `bd0aaab0a9acdc75e3f660babdc85999bfc897acace8179d25bd15af3aadb630` |
 | `Lambrix_v_Singletary_merits_1997-05-12.md` | `dcac44374c15198571269c8a503fa8b6edfd01567dd3f59354eabfbb53f71dc7` | `dcac44374c15198571269c8a503fa8b6edfd01567dd3f59354eabfbb53f71dc7` | Yes: `eb5b7db64fe0bd133dd707974b7bbb798493d897220f8f4d9c988e4b229a5ded` |
-| `Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md` | `db85a79bcad6cec9d24751d33fd391092b41dc1d4c7838417c2a79627285facb` | `9a6a3cf3a7b009263215ff8b57a91d2b8b94029584396bc9c899f6a078b328e3` | Yes: `e5137771d3da84621839ef024fca66afa329f5bffc362e90e79bb97a85cb8a80` |
-| `Richards_v_Wisconsin_merits_1997-04-28.md` | `a9c3efc1ee4a0511b228d0a8cb7e4414b964ca9c733ec257214f653892bebc7e` | `a9c3efc1ee4a0511b228d0a8cb7e4414b964ca9c733ec257214f653892bebc7e` | Yes: `9e2dd77187b7720410dabd815b38c69cd4801b8fa0b21eee911f0b1e7bb1e21e` |
-| `Strate_v_A_1_Contractors_merits_1997-04-28.md` | `8478316af7436aecd03f5a3ce922153244d6d8c58b96d450dcb2e6db60e68bd3` | `8478316af7436aecd03f5a3ce922153244d6d8c58b96d450dcb2e6db60e68bd3` | Yes: `754df81c49bb30ce282b7aaa68d7ece826222bd19c41b322ad6db646fcdb3ba0` |
-| `Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md` | `80a8b84cf5a2fe60ffe8bc8c9ab96a14c067093b720080e1f7319155fa38c1b0` | `80a8b84cf5a2fe60ffe8bc8c9ab96a14c067093b720080e1f7319155fa38c1b0` | Yes: `fbeb0beb75f971505753fb4a6173d6beb755bfb72a611ce16d03245147629dcf` |
+| `Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md` | `476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409` | `476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409` | Yes: `e5137771d3da84621839ef024fca66afa329f5bffc362e90e79bb97a85cb8a80` |
+| `Richards_v_Wisconsin_merits_1997-04-28.md` | `4dfee13a32c11f963afb90d463ecddfd29b20c36cebc008d7625df983a67968f` | `4dfee13a32c11f963afb90d463ecddfd29b20c36cebc008d7625df983a67968f` | Yes: `9e2dd77187b7720410dabd815b38c69cd4801b8fa0b21eee911f0b1e7bb1e21e` |
+| `Strate_v_A_1_Contractors_merits_1997-04-28.md` | `b372c26f6da31e4bf7570f01d76a922b2da1a84887cc1f8171db035cdcacf767` | `b372c26f6da31e4bf7570f01d76a922b2da1a84887cc1f8171db035cdcacf767` | Yes: `754df81c49bb30ce282b7aaa68d7ece826222bd19c41b322ad6db646fcdb3ba0` |
+| `Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md` | `90ee6006e8bf2622b107f69d9d5681a2a8514cf46cc9c9c70f040d119d43e4ef` | `90ee6006e8bf2622b107f69d9d5681a2a8514cf46cc9c9c70f040d119d43e4ef` | Yes: `fbeb0beb75f971505753fb4a6173d6beb755bfb72a611ce16d03245147629dcf` |
 
 For each changed file, the replacement strings occur exactly once before `## Public Projection`. Reversing only the listed substitutions reconstructs the original bytes exactly, proving that all unlisted internal content and all adjudicative content are unchanged. For every file, the Public Projection hash equals its initial hash. The other seven complete-file hashes equal their initial hashes. UTF-8 encoding, any byte-order mark and original line endings are preserved because replacements operate on exact bytes.
 

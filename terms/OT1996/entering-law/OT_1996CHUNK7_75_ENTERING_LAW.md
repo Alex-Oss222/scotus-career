@@ -17,7 +17,7 @@ A court may not save an unambiguous federal offense by inserting an omitted comm
 **Authority by component:**
 
 - Architecture; connection before magnitude; recognition of necessary inclusion; no-insertion rule: United States v. Lopez, April 26, 1995; Chief Justice Stone-Zsela’s Opinion of the Court joined by O’Connor, Scalia, Kennedy, and Thomas.
-- Economic vehicle-taking class and enacted vehicle nexus: United States v. Harris, April 27, 1995; O’Connor’s eight-Justice commerce rationale. Stone concurs in the judgment on the narrower direct-instrumentality/vehicle-specific nexus ground.
+- Direct protection of an interstate instrumentality and enacted vehicle-specific nexus: United States v. Harris, April 27, 1995; Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes
 - Direct interference with an interstate service market: American Life League v. Reno, November 13, 1995; Kennedy Part I, unanimous.
 - Application of Harris without new doctrine: United States v. Bishop; United States v. Stokes, February 5, 1996; O’Connor Part II, unanimous.
 - Anti-evasion/material-impairment rule for the post-1986 machinegun regime: United States v. Hale, February 12, 1996; O’Connor Part I, unanimous.
@@ -40,7 +40,7 @@ A court may not save an unambiguous federal offense by inserting an omitted comm
 **Material development:**
 
 - April 26, 1995 — Lopez: ADDED / CHANGED. Added the controlling decision sequence of regulated class → interstate mechanism → magnitude/aggregation → fit/boundary. Changed the prior substantial-effects law only to the extent necessary to reject aggregation of generalized downstream consequences as a substitute for the missing Commerce connection. Preserved Wickard and Perez within their genuine economic-class settings. Reserved fuller Necessary-and-Proper inclusion questions.
-- April 27, 1995 — Harris: CLARIFIED / APPLIED. Clarified that Lopez does not disable direct regulation of an economic vehicle-taking class connected to an interstate motor-vehicle regime when the statute separately requires a particular-vehicle interstate nexus. Stone’s narrower concurrence emphasizes direct protection of the transportation instrumentality. No general remote-movement rule is added.
+- April 27, 1995 — Harris: CLARIFIED / APPLIED. Congress may protect an interstate transportation instrumentality against a direct intrastate forcible taking when the offense requires proof of the particular vehicle's interstate connection. Stone-Zsela's opinion states the Court's instrumentality ground; the Fifth Circuit's aggregate-effects reasoning is rejected. No general remote-movement rule is added.
 - November 13, 1995 — American Life League: CLARIFIED / APPLIED. Clarified that intentional obstruction directed at provision or receipt of services can be regulated when it directly interferes with an actual interstate service market. This is not downstream crime-cost aggregation.
 - February 5, 1996 — Bishop/Stokes: APPLIED ONLY. Applied Harris. No new Commerce rule.
 - February 12, 1996 — Hale: ADDED. Added the first operational anti-evasion/material-impairment doctrine. Intrastate possession may be included where excluding it would materially undermine or permit evasion of a valid federal interstate market regime. This development uses the Necessary and Proper Clause together with Commerce authority. Hale does not create a general firearm possession power.
@@ -60,22 +60,22 @@ Authority reading source: state/holdings/constitutional-structure.md
 
 For the other questions in this decision, see Criminal Procedure — Armed vehicle taking and cumulative firearm punishment (Knowing participation and intentional assistance give the original offense definite content; Section 924(c) expressly adds a consecutive term for this armed carjacking; Hunter permits the clearly authorized punishment in this single prosecution).
 
-##### The vehicle-taking economic class supplies the commerce connection
+##### Direct protection of an interstate instrumentality against forcible taking
 
-**Holding:** Congress may regulate the armed forcible acquisition of the covered vehicle proved here as an economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme, while original §2119's enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved. Neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground. The decision creates no rival commerce test and no automatic instrumentality rule beyond these facts and the enacted nexus.
+**Holding:** Congress may protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the offense requires proof of the particular vehicle's interstate connection. Original §2119 therefore reaches the armed forcible taking of the covered vehicle proved here, provided its enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce is proved. The direct attack on possession and control of the vehicle and the vehicle-specific connection together supply the ground; neither remote movement alone nor generalized crime, insurance, travel, or productivity costs does so. The rule does not cover every offense in or near a vehicle or require a present interstate journey or intended interstate resale.
 
-**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices. Stone-Zsela concurs in the judgment on a narrower ground: he would sustain the application because the offense directly attacks possession and control of a covered motor vehicle functioning as an interstate transportation instrumentality or thing in commerce, and because the statute requires proof of the particular vehicle's interstate connection. He does not rely on remote historical movement alone.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes. Breyer, joined by Stevens, Souter and Ginsburg, also states an economic-class alternative in concurrence; those four votes do not make that alternative controlling.
 
 **Treatment of earlier authority:**
 
-- United States v. Lopez, April 26, 1995: applies its controlling connection-before-magnitude architecture for the first time, in a direct vehicle/instrumentality and economic vehicle-taking setting; the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme supplies the connection, and Lopez's inadequate stand-alone possession/downstream-effects chain is distinguished; no missing element is supplied.
-- Wickard v. Filburn, 317 U.S. 111 (1942): applies aggregation within a regulated economic class rather than demanding a substantial effect from each individual taking.
-- Perez v. United States, 402 U.S. 146 (1971): applies Congress's authority over the economic class despite an individual instance's local character.
+- United States v. Lopez, April 26, 1995: applies the retained power to protect interstate instrumentalities and distinguishes stand-alone possession supported only by remote downstream consequences. Congress enacted the vehicle-specific nexus here; the Court supplies no omitted element.
+- Wickard v. Filburn, 317 U.S. 111 (1942): retains its economic-class aggregation rule. The Court does not use that separate route to sustain this direct-instrumentality application.
+- Perez v. United States, 402 U.S. 146 (1971): retains its economic-class ground without making it the Court’s ground for this vehicle-taking decision.
 - Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves its distinction between actual commercial operation and remote object history; prior manufacture alone is not the constitutional ground here.
 
 **Operative remedy or transition:** Both convictions and each defendant's forty-one-month Count One term plus consecutive sixty-month Count Two term are affirmed on all three presented challenges. No merger, vacatur, concurrent conversion, sentence increase, resentencing, new trial or exploratory remand is ordered.
 
-Authority reading source: state/holdings/constitutional-structure.md
+Authority reading source: terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md
 
 ### Commerce power and school-zone firearm possession
 
@@ -188,7 +188,7 @@ Authority reading source: state/holdings/business-and-commercial-law.md
 - Gulf Oil Corp. v. Copp Paving Co., 419 U.S. 186, 195 (1974): applies its direct-engagement distinction; local economic effects and direct participation remain different inquiries.
 - United States v. Lopez, April 26, 1995: distinguishes the stand-alone school-possession offense and generalized social-cost chain from this proved interstate enterprise connection; its controlling connection-before-magnitude architecture remains intact.
 - Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves attention to actual multistate commercial operation and its reserved constitutional ceiling; the FAA’s broader involving-commerce wording is not substituted for §1962(a).
-- United States v. Harris, April 27, 1995: preserves the economic-class vehicle-taking holding and refusal to make remote vehicle history alone conclusive; this decision instead concerns the enterprise’s own present interstate operations.
+- United States v. Harris, April 27, 1995: preserves protection of an interstate transportation instrumentality against direct forcible taking when the offense requires proof of the particular vehicle’s interstate connection, and refuses to make remote vehicle history alone conclusive; this decision instead concerns the enterprise’s own present interstate operations.
 
 **Limits and questions not reached:** The cumulative ground makes an independently sufficient procurement-only holding unnecessary. The Court does not decide whether a purely intrastate enterprise with only remote economic consequences satisfies §1962(a), establish a universal owner-activity attribution rule, or make a jurisdictional phrase substitute for proof. Predicate drug commerce alone is not enterprise commerce. Neither an out-of-state nugget sale, a precise output percentage, productive use of the wrecked Cadillac, mine use of the airplane, nor traced downstream refinery shipment is necessary or found. The Court decides no other RICO appellate claim, Guidelines issue or claim arising under a different RICO subsection.
 

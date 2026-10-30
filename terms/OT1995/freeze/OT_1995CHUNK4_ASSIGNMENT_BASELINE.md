@@ -10,11 +10,11 @@ The canonical OT1994 Records establish **93 named Chief assignments**, and the 3
 
 | Recipient | OT1994 named Chief assignments | OT1995 before February 21 | OT1995 already made at chunk 4 opening |
 |---|---:|---:|---:|
-| Stone-Zsela | 5 | 1 | 1 |
+| Stone-Zsela | 7 | 1 | 1 |
 | Stevens | 11 | 1 | 1 |
-| O'Connor | 14 | 12 | 12 |
+| O'Connor | 13 | 12 | 12 |
 | Scalia | 5 | 1 | 1 |
-| Kennedy | 14 | 3 | 3 |
+| Kennedy | 13 | 3 | 3 |
 | Souter | 18 | 5 | 5 |
 | Thomas | 5 | 2 | 3 |
 | Ginsburg | 13 | 3 | 4 |
@@ -200,7 +200,7 @@ All quotations below were checked against the current canonical Record at prepar
 
 **Classification:** O'Connor. **Source:** [canonical Record](../records/United_States_v_Bishop_and_Stokes_merits_1996-02-05.md).
 
-> **Chief assignment:** Stone belongs to the tentative judgment majority for Bishop's reach and commerce components and Stokes's commerce, statutory cumulative-punishment, same-prosecution and both identification components. He assigns Parts I–IV of one opinion to O'Connor. Their sufficient grounds are settled before assignment; no unresolved join requires an expansion accommodation. Her Harris authorship directly fits application of its separate commerce and punishment holdings, and her authored Thompson decision supports clear separation of accepted findings and constitutional application. Her Muniz joins give relevant experience preserving physical/testimonial and administrative limits across the opinion's remaining parts.
+> **Chief assignment:** Stone belongs to the tentative judgment majority for Bishop's reach and commerce components and Stokes's commerce, statutory cumulative-punishment, same-prosecution and both identification components. He assigns Parts I–IV of one opinion to O'Connor. Their sufficient grounds are settled before assignment; no necessary join requires an accommodation. Her authored Thompson opinion supports separation of accepted historical findings from constitutional application, the principal work in assessing the identifications and booking evidence. Her Muniz physical/testimonial and administrative joins, tested against her Quarles position, support the bounded distinctions needed across the remaining parts. Harris supplies controlling instrumentality and punishment law, which she applies at its adopted scope.
 > **Associate assignments:** Stone and Stevens are outside the seven-Justice statement-affirmance coalition. O'Connor is its senior participating Associate and assigns Part V and the same-answer scope qualification in Part VI-C to herself. Her precise Muniz administrative joins, together with the contrary limit of her Quarles position, make her a fit for the bounded rule the seven already support. This is an assignment inference from those actual date-eligible positions, not a historical authorship fact or invented circulation bargain. Stone is outside the eight-Justice independent-video affirmance coalition, but Stevens belongs to it and is its senior Associate. Stevens assigns Parts VI-A and VI-B to O'Connor, whose Muniz joins sustain exactly the physical/testimonial separation he accepts while preserving his dissent on the answer. Coordinating those separable portions in one opinion does not transfer Stevens's assignment power to the Chief or count Stevens as joining the statement ground.
 
 ### 1996-02-12 — Sherman_v_Community_Consolidated_School_District_21_merits_1996-02-12
@@ -214,7 +214,7 @@ All quotations below were checked against the current canonical Record at prepar
 **Classification:** O'Connor. **Source:** [canonical Record](../records/United_States_v_Hale_merits_1996-02-12.md).
 
 > Engine §8 assigns by the tentative **judgment coalition**, not by the number of opinion joins. Stone is in the nine-Justice coalitions rejecting the power and registration challenges and sustaining the evidence rulings; he assigns Parts I, II, IV, V and VI, including the five components on which he supplies only a judgment vote. On the thirteen-count arms remand, Stone is outside the eight-Justice judgment coalition, and Stevens is its most senior participating Justice; Stevens assigns Part III. Stone's join in III-A's common personal-holder/no-automatic-immunity propositions does not put him in the distinct remand judgment coalition or transfer assignment authority for Part III. No Justice assigns from a judgment coalition he does not join.
-> Both assignment bases produce one coordinated opinion by O'Connor. The task is to separate congressional power, the personal holder, weapon coverage, permissible regulation, the tax-registration duty, and exception-sensitive evidence law while coordinating their remedies. O'Connor's actual Love opinion supplies the precise reserved-application structure the eight retain; her Harris and Bishop opinions supply the bounded commerce work and her Wright authorship supplies the relevant evidence distinction. This is a case-specific fit assignment with shared grounds already settled, not expansion by changing a Justice's position. Stevens's assignment preserves the actual Love inquiry and his own federal-case distinction from the state-nonapplication position he took in Love.
+> Both assignment bases produce one coordinated opinion by O'Connor. The task is to separate congressional power, the personal holder, weapon coverage, permissible regulation, the tax-registration duty, and exception-sensitive evidence law while coordinating their remedies. O'Connor's actual Love opinion supplies the precise reserved-application structure the eight retain; her Bishop opinion applies Harris’s bounded instrumentality ground, while her present commitment supplies the distinct integral-market analysis and her Wright authorship supplies the relevant evidence distinction. This is a case-specific fit assignment with shared grounds already settled, not expansion by changing a Justice's position. Stevens's assignment preserves the actual Love inquiry and his own federal-case distinction from the state-nonapplication position he took in Love.
 
 ### 1996-02-21 — Behrens_v_Pelletier_merits_1996-02-21
 
@@ -288,8 +288,8 @@ Each assignment quotation in the preceding [bounded census](OT_1995CHUNK3_RESUME
 | [California_Department_of_Corrections_v_Morales_merits_1995-04-25](../../OT1994/records/California_Department_of_Corrections_v_Morales_merits_1995-04-25.md) | O'Connor |
 | [United_States_v_Williams_merits_1995-04-25](../../OT1994/records/United_States_v_Williams_merits_1995-04-25.md) | Ginsburg |
 | [New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26](../../OT1994/records/New_York_State_Conference_of_Blue_Cross_Blue_Shield_Plans_v_Travelers_Insurance_Co_merits_1995-04-26.md) | Souter |
-| [United_States_v_Lopez_merits_1995-04-26](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md) | Kennedy |
-| [United_States_v_Harris_merits_1995-04-27](../../OT1994/records/United_States_v_Harris_merits_1995-04-27.md) | O'Connor |
+| [United_States_v_Lopez_merits_1995-04-26](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md) | Stone-Zsela |
+| [United_States_v_Harris_merits_1995-04-27](../../OT1994/records/United_States_v_Harris_merits_1995-04-27.md) | Stone-Zsela |
 | [United_States_v_Robertson_merits_1995-05-01](../../OT1994/records/United_States_v_Robertson_merits_1995-05-01.md) | Breyer |
 | [United_States_v_Pinson_merits_1995-05-08](../../OT1994/records/United_States_v_Pinson_merits_1995-05-08.md) | Scalia |
 | [City_of_Edmonds_v_Oxford_House_merits_1995-05-15](../../OT1994/records/City_of_Edmonds_v_Oxford_House_merits_1995-05-15.md) | Ginsburg |

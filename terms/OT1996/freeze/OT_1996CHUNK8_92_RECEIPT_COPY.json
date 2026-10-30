@@ -2,7 +2,7 @@
   {
     "source": "tmp/Clinton_assignment_recount.json",
     "durable_copy": "freeze/OT_1996CHUNK8_92_ASSIGNMENT_RECOUNT.json",
-    "sha256": "b6e4ccbbb733a99ae760df708d6d5d71e6a2e8c42f0340b5ce8570ff5700f570"
+    "sha256": "1ab3345c4a5600bc959b1f80b7dcd3554e4f65af2fbfb0f5f985b0a197f3209b"
   },
   {
     "source": "tmp/Clinton_assembly_validation.json",

@@ -107,7 +107,7 @@ A court may not save an unambiguous federal offense by inserting an omitted comm
 **Authority by component:**
 
 - Architecture; connection before magnitude; recognition of necessary inclusion; no-insertion rule: United States v. Lopez, April 26, 1995; Chief Justice Stone-Zsela’s Opinion of the Court joined by O’Connor, Scalia, Kennedy, and Thomas.
-- Economic vehicle-taking class and enacted vehicle nexus: United States v. Harris, April 27, 1995; O’Connor’s eight-Justice commerce rationale. Stone concurs in the judgment on the narrower direct-instrumentality/vehicle-specific nexus ground.
+- Direct protection of an interstate instrumentality and enacted vehicle-specific nexus: United States v. Harris, April 27, 1995; Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes
 - Direct interference with an interstate service market: American Life League v. Reno, November 13, 1995; Kennedy Part I, unanimous.
 - Application of Harris without new doctrine: United States v. Bishop; United States v. Stokes, February 5, 1996; O’Connor Part II, unanimous.
 - Anti-evasion/material-impairment rule for the post-1986 machinegun regime: United States v. Hale, February 12, 1996; O’Connor Part I, unanimous.
@@ -132,7 +132,7 @@ A court may not save an unambiguous federal offense by inserting an omitted comm
 **Material development:**
 
 - April 26, 1995 — Lopez: ADDED / CHANGED. Added the controlling decision sequence of regulated class → interstate mechanism → magnitude/aggregation → fit/boundary. Changed the prior substantial-effects law only to the extent necessary to reject aggregation of generalized downstream consequences as a substitute for the missing Commerce connection. Preserved Wickard and Perez within their genuine economic-class settings. Reserved fuller Necessary-and-Proper inclusion questions.
-- April 27, 1995 — Harris: CLARIFIED / APPLIED. Clarified that Lopez does not disable direct regulation of an economic vehicle-taking class connected to an interstate motor-vehicle regime when the statute separately requires a particular-vehicle interstate nexus. Stone’s narrower concurrence emphasizes direct protection of the transportation instrumentality. No general remote-movement rule is added.
+- April 27, 1995 — Harris: CLARIFIED / APPLIED. Congress may protect an interstate transportation instrumentality against a direct intrastate forcible taking when the offense requires proof of the particular vehicle's interstate connection. Stone-Zsela's opinion states the Court's instrumentality ground; the Fifth Circuit's aggregate-effects reasoning is rejected. No general remote-movement rule is added.
 - November 13, 1995 — American Life League: CLARIFIED / APPLIED. Clarified that intentional obstruction directed at provision or receipt of services can be regulated when it directly interferes with an actual interstate service market. This is not downstream crime-cost aggregation.
 - February 5, 1996 — Bishop/Stokes: APPLIED ONLY. Applied Harris. No new Commerce rule.
 - February 12, 1996 — Hale: ADDED. Added the first operational anti-evasion/material-impairment doctrine. Intrastate possession may be included where excluding it would materially undermine or permit evasion of a valid federal interstate market regime. This development uses the Necessary and Proper Clause together with Commerce authority. Hale does not create a general firearm possession power.

@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. Virginia, No. 94-1941; Virginia v. United States, No. 94-2107; 518 U.S. 515.
 **Event and date:** Argued merits decision, 1996-06-26; October Term 1995, chunk 9; argued 1996-01-17.
 **Result:** No. 94-2107 affirmed, 7–1; No. 94-1941 reversed and remanded, 7–1. O'Connor for seven; Scalia dissents; Thomas does not participate.
-**Version / lineage:** Initial filesystem-preserved Canonical Decision Record; no earlier Virginia adjudication superseded. Assembly follows the preserved neutral, independent-commitment and reconciled handoffs identified below. No Git command or new commit was made or verified; operator verification and repository commitment remain pending.
+**Version / lineage:** Original decision
 
 ## Event, reach and entering law
 
@@ -9,7 +9,7 @@ The two docket judgments are distinct. The original trial court rejected the con
 
 The event date and argument date come from the approved packet. The event-date roster is Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Eight participate at argument and decision; Thomas takes no part and no reason is supplied or inferred. Eight satisfies the six-Justice quorum; five participating votes are sufficient for a majority. This is plenary merits review, not an application, certiorari poll or summary-action vote.
 
-The material entering law is the coordinated OT1994 close through June 29, 1995, as supplied in the authorized reading slice, plus effective OT1995 law through June 25, 1996. The operative common snapshot is `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`, SHA-256 `FE8C6A3B7F59B70BBE344C9A97F44718E8972935886739D96EA98B262E9A159C`. The opening slice is `../entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md`, SHA-256 `61F7E7E93072AB33C5C660B90C808CB88BF9B0E193B0A425B0EF14C89B69889F`. These derived copies are not independent authority. No same-day Medtronic doctrine enters; assignment accounting establishes no merits sequence.
+The material entering law is the coordinated OT1994 close through June 29, 1995, as supplied in the authorized reading slice, plus effective OT1995 law through June 25, 1996. The operative common snapshot is `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`, SHA-256 `DC8F8769E6F9CE5C7DBCF4101DC543CD3DA4D518FA1712D431019354C50A7ED9`. The opening slice is `../entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md`, SHA-256 `61F7E7E93072AB33C5C660B90C808CB88BF9B0E193B0A425B0EF14C89B69889F`. These derived copies are not independent authority. No same-day Medtronic doctrine enters; assignment accounting establishes no merits sequence.
 
 **Doe completion entering-law note:** The identified snapshot remains the preserved original reading set and predates completion of Doe. Supplemental entering-law review accounts for its June 21 threshold dismissal without importing its unresolved adult-right merits or another same-day peer. It changes no jurisdiction, equal-protection, educational-opportunity or remedial premise of these federal cross-petitions. [Doe completion addendum](../entering-law/OT_1995CHUNK9_DOE_COMPLETION_LAW_ADDENDUM.md) supplies the exact public action and limits; the original snapshot and its recorded hash remain unchanged.
 
@@ -100,8 +100,8 @@ Separately, assuming liability remains established, he would affirm the existing
 | Frozen handoff | SHA-256 verified by assembly |
 |---|---|
 | [Neutral](../freeze/OT_1995CHUNK9_VIRGINIA_NEUTRAL.md) | `C638C3D7DFEEC371FC6D2235AF79CFFE16FAA99F6A7C3947A5A0F955DC787A7A` |
-| [Independent commitments](../freeze/OT_1995CHUNK9_VIRGINIA_COMMITMENTS.md) | `282E9A72E5D8E37448A04BA0BCDB1C4F6D963FB8994C540860E6BC31574F845E` |
-| [Reconciled commitments](../freeze/OT_1995CHUNK9_VIRGINIA_RECONCILED.md) | `04B694A2FCA3432BF82122DF6F598537106227E14CAFB61FDF0EE53E9F1BB0FE` |
+| [Independent commitments](../freeze/OT_1995CHUNK9_VIRGINIA_COMMITMENTS.md) | `89BC6BAAFB8BDA3A5948B9C2AA4BE9CBBF050C35E5DC7D496893E323CA2BE08E` |
+| [Reconciled commitments](../freeze/OT_1995CHUNK9_VIRGINIA_RECONCILED.md) | `D007204C207C421617F202BA7D97BECC2111A6CE158589B20A0BECE49505E40E` |
 
 The supplied workflow used physically separated neutral modeling, historical reconciliation and current-Stone assembly. The independent handoff excludes the Virginia comparator and current Stone; the reconciliation handoff excludes current Stone and independently reports reading all 89 pages of the official historical report, including every writing and footnote. Assembly read the full preserved handoffs, including bounded supplemental reads after combined output truncation, before the scoped Stone block. General background knowledge is not claimed erased. This context does not claim to have personally reread the entire original report, briefs or appendices.
 

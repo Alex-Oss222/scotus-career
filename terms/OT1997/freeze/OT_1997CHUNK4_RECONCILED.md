@@ -4,7 +4,7 @@ This is a mechanical reading copy of the three named authoritative scoped freeze
 
 | Authoritative scoped freeze | SHA-256 |
 |---|---|
-| [OT_1997CHUNK4_A_RECONCILED.md](OT_1997CHUNK4_A_RECONCILED.md) | `c0286755f26108b21beabd48a024394fa5b9da0bedf43d1a0a6cfbd6c3096d71` |
+| [OT_1997CHUNK4_A_RECONCILED.md](OT_1997CHUNK4_A_RECONCILED.md) | `097a7e301b94b4b1c48dca7a6e268f1888e0087183ade289867891b05e0ea6ad` |
 | [OT_1997CHUNK4_B_RECONCILED.md](OT_1997CHUNK4_B_RECONCILED.md) | `952fa983417f39a31d6c4b5f569bbecde603d77886a14553a66c4c544ec9e1ab` |
 | [OT_1997CHUNK4_NCUA_RECONCILED.md](OT_1997CHUNK4_NCUA_RECONCILED.md) | `8df1ea7ef8f64366bc43b7782998aefabdb260af7a08180358f1964ee42ac89e` |
 
@@ -264,7 +264,7 @@ Peacock supplies the need for independent statutory authority in a later action 
 ## Reconciliation input and source receipt
 
 - `freeze/OT_1997CHUNK4_MODEL_A_NEUTRAL.md`: SHA-256 `c7fb022db98c538183168d9240a976db12ebb27c0982e10cb938c8a9f3944969`.
-- `freeze/OT_1997CHUNK4_A_COMMITMENTS.md`: SHA-256 `e8f9c08695b2eac1cf5d484c81de10978ff5ff31117ed3ee8c8503c2649dbae0`.
+- `freeze/OT_1997CHUNK4_A_COMMITMENTS.md`: SHA-256 `5cad99de0b05bd19ca079f4a3496cdf2d2b9b0802094663b52a32d15e39b849e`.
 - `runtime/OT_1997CHUNK4_A_COMPARATOR.md`: SHA-256 `573c561c1f87cd4753ad7ef40a94cadd4f58970cb9d41303ece2806c06d0b1ae`.
 - `research/chunk4_control/ARTEAGA_ARCHIVE_NEUTRAL_FACTS.md`: SHA-256 `bdd277199a96c3939630354025d9476fd92706636b9a432bdce9f84debc27103`.
 

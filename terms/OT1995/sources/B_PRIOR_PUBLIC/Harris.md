@@ -32,11 +32,12 @@ The commerce predicate remains federally prosecutable on the holding reached. Th
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | O’Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer throughout; Stone-Zsela in the precise fault/notice propositions and cumulative-punishment holdings identified below | Affirms all three components | Commerce economic-class ground: eight. Complete fault/intentional-assistance construction: eight, with Stone-Zsela additionally joining knowing participation, fair notice, and rejection of general legal knowledge. Statutory cumulative authorization and narrow Hunter application: nine. |
-| Opinion concurring in part and in the judgment | Stone-Zsela | No other Justice | Affirms each component and joins the specified portions of the Court's reasoning | Distinct instrumentality ground; additional no-interstate-history-knowledge and no-permanent-deprivation conclusions; preserves the proof and remedy limits stated in his writing |
-| Concurring opinion | Stevens | No other Justice | Joins the Court's bounded opinion and unanimous affirmance | Applies controlling Hunter while preserving his earlier constitutional objection to multiplication of convictions; no new dissenting judgment vote |
+| Opinion of the Court | Stone-Zsela | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer throughout | Affirms all three components | Direct protection of the transportation instrumentality against forcible taking, with the enacted particular-vehicle connection. Knowing participation, intentional assistance, fair notice, statutory cumulative authorization and the bounded Hunter application each receive nine direct votes. |
+| Concurring opinion | Breyer | Stevens, Souter and Ginsburg | Joins the Court’s opinion and unanimous affirmance | Accepts the qualified instrumentality ground while retaining the economic vehicle-acquisition ground as independently sufficient and preserving his broader Lopez position. |
+| Concurring opinion | Stone-Zsela | None | Joins the Court’s judgment and states additional fault conclusions | No knowledge of the vehicle’s interstate history or separate permanent-deprivation intent; his view of the evidence of knowing participation. These additional conclusions do not control. |
+| Concurring opinion | Stevens | None | Joins the Court’s bounded cumulative-punishment holdings and unanimous affirmance | Applies controlling Hunter while preserving his constitutional objection to legislative multiplication of convictions. |
 
-The eight-Justice commerce opinion controls directly. Stone-Zsela's distinct commerce rationale is not an alternative holding of the Court and is not combined with it under Marks. Every controlling proposition has its own direct majority.
+The instrumentality rule has a direct majority at the stated level of generality. It does not depend on combining different commerce rationales under Marks. Every common fault and cumulative-punishment proposition commands nine direct votes. Stone’s further fault conclusions have no additional joins.
 
 #### Controlling Propositions and Authority
 

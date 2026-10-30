@@ -253,7 +253,7 @@ Peacock supplies the need for independent statutory authority in a later action 
 ## Reconciliation input and source receipt
 
 - `freeze/OT_1997CHUNK4_MODEL_A_NEUTRAL.md`: SHA-256 `c7fb022db98c538183168d9240a976db12ebb27c0982e10cb938c8a9f3944969`.
-- `freeze/OT_1997CHUNK4_A_COMMITMENTS.md`: SHA-256 `e8f9c08695b2eac1cf5d484c81de10978ff5ff31117ed3ee8c8503c2649dbae0`.
+- `freeze/OT_1997CHUNK4_A_COMMITMENTS.md`: SHA-256 `5cad99de0b05bd19ca079f4a3496cdf2d2b9b0802094663b52a32d15e39b849e`.
 - `runtime/OT_1997CHUNK4_A_COMPARATOR.md`: SHA-256 `573c561c1f87cd4753ad7ef40a94cadd4f58970cb9d41303ece2806c06d0b1ae`.
 - `research/chunk4_control/ARTEAGA_ARCHIVE_NEUTRAL_FACTS.md`: SHA-256 `bdd277199a96c3939630354025d9476fd92706636b9a432bdce9f84debc27103`.
 

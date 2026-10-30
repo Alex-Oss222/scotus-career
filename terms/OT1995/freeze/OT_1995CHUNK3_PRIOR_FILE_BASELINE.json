@@ -5,7 +5,7 @@
   },
   {
     "path": "terms/OT1995/records/American_Life_League_v_Reno_merits_1995-11-13.md",
-    "sha256": "4a42fb233de7e10893f8b5800c53dc5ac7f8f07a3bbad3907ee28c8c9f1b861f"
+    "sha256": "e66425a0cf07c072365d684372aa1724d5dea076e7c2200208ed765bb45a1a03"
   },
   {
     "path": "terms/OT1995/records/A_St_P_C_v_B_C_merits_1995-11-20.md",
@@ -13,7 +13,7 @@
   },
   {
     "path": "terms/OT1995/records/Bailey_and_Robinson_v_United_States_merits_1995-12-06.md",
-    "sha256": "d3f445333daab85c0cb49ef2fd157cf91c5e8be190366ff0895408dcfa786a2c"
+    "sha256": "d60f56cff8059d2fcbb2c103caf1cb1224cca69fc2bb0bef90ca3032154e471e"
   },
   {
     "path": "terms/OT1995/records/Citizens_Bank_of_Maryland_v_Strumpf_merits_1995-10-31.md",
@@ -97,7 +97,7 @@
   },
   {
     "path": "terms/OT1995/output/OT_1995CHUNK1.md",
-    "sha256": "3ebe40a1fa424c784cd497c0b9e3777053557148f829f5f784ab7d34f6dc1fef"
+    "sha256": "55ea354f106948789f71d7e55f7c56c1cb7e630acc815dabc7ecc39bc0e5cf77"
   },
   {
     "path": "terms/OT1995/output/OT_1995CHUNK2.md",
@@ -105,7 +105,7 @@
   },
   {
     "path": "terms/OT1995/render-inputs/OT_1995CHUNK1.md",
-    "sha256": "2b9aed34067708c9535ec7d4969176bf252534f9b97e39edd62547f1470ffd93"
+    "sha256": "a75237f53edead87980545d71a0a7291080121b8baee2b13bec64350316aab06"
   },
   {
     "path": "terms/OT1995/render-inputs/OT_1995CHUNK2.md",

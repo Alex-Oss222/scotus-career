@@ -53,7 +53,7 @@
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_A_BASE_VOLUMES.md",
       "bytes": 3751983,
-      "sha256": "dd5bbdfdc8d3a33a1bfaa844993242bab8a65397f1d5827720130c0507ed8258"
+      "sha256": "ecaac7447936cdb5eb6e0b705a6a7b8d712b3c7435598d1d13e69adc7774529d"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_A_CURRENT_LAW.md",
@@ -108,7 +108,7 @@
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_B_AUTHORIZED_VOLUMES.md",
       "bytes": 3310826,
-      "sha256": "e63b055f01a849f87ecc1a8b856cf4fb880cd20a8e2c91b6c7b1175f480aa208"
+      "sha256": "c15c267f0c0902559d7061f801067ec75c96a864d54a4082f86d4ce67b6008e3"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_B_CURRENT.md",
@@ -548,12 +548,12 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_PRIOR_PUBLIC_SOURCES.json",
       "bytes": 11908,
-      "sha256": "65aff9f6b026479cf7a97f7a513777c886ac23d68e143ddfd3c2861573955dd8"
+      "sha256": "0d7ddf32f7a5ab1b3c1f90f2c4c2fec2b440fa9ff24fb728fe77630050b02dad"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_PRIOR_RECORD_LINK_TARGETS.json",
       "bytes": 2849,
-      "sha256": "c3f2ddae8cb4b15c5cbea4bbcdf71d8b93c13352ab5de07ad25e654cb5a204c0"
+      "sha256": "d3adc4b6a179265b32636f86d87ddcc771d40695e054630c7ff01745cb0ad5ca"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_PUBLIC_PROJECTION_INTEGRITY.json",
@@ -598,7 +598,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SOURCE_FRESHNESS.json",
       "bytes": 469095,
-      "sha256": "e02b816a11b3f9cb1de3af60e9c52999361ddc3168773743e1eba1d6a0c17a53"
+      "sha256": "fb9d13a0697b8afebe26ceb0c02beec66301b7bf641690cbae3c6762d07eaee3"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_STAGE_PROVENANCE.md",

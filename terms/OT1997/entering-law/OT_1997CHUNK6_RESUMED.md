@@ -17,7 +17,7 @@ A court may not save an unambiguous federal offense by inserting an omitted comm
 **Authority by component:**
 
 - Architecture; connection before magnitude; recognition of necessary inclusion; no-insertion rule: United States v. Lopez, April 26, 1995; Chief Justice Stone-Zsela’s Opinion of the Court joined by O’Connor, Scalia, Kennedy, and Thomas.
-- Economic vehicle-taking class and enacted vehicle nexus: United States v. Harris, April 27, 1995; O’Connor’s eight-Justice commerce rationale. Stone concurs in the judgment on the narrower direct-instrumentality/vehicle-specific nexus ground.
+- Direct protection of an interstate instrumentality and enacted vehicle-specific nexus: United States v. Harris, April 27, 1995; Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes
 - Direct interference with an interstate service market: American Life League v. Reno, November 13, 1995; Kennedy Part I, unanimous.
 - Application of Harris without new doctrine: United States v. Bishop; United States v. Stokes, February 5, 1996; O’Connor Part II, unanimous.
 - Anti-evasion/material-impairment rule for the post-1986 machinegun regime: United States v. Hale, February 12, 1996; O’Connor Part I, unanimous.
@@ -42,7 +42,7 @@ A court may not save an unambiguous federal offense by inserting an omitted comm
 **Material development:**
 
 - April 26, 1995 — Lopez: ADDED / CHANGED. Added the controlling decision sequence of regulated class → interstate mechanism → magnitude/aggregation → fit/boundary. Changed the prior substantial-effects law only to the extent necessary to reject aggregation of generalized downstream consequences as a substitute for the missing Commerce connection. Preserved Wickard and Perez within their genuine economic-class settings. Reserved fuller Necessary-and-Proper inclusion questions.
-- April 27, 1995 — Harris: CLARIFIED / APPLIED. Clarified that Lopez does not disable direct regulation of an economic vehicle-taking class connected to an interstate motor-vehicle regime when the statute separately requires a particular-vehicle interstate nexus. Stone’s narrower concurrence emphasizes direct protection of the transportation instrumentality. No general remote-movement rule is added.
+- April 27, 1995 — Harris: CLARIFIED / APPLIED. Congress may protect an interstate transportation instrumentality against a direct intrastate forcible taking when the offense requires proof of the particular vehicle's interstate connection. Stone-Zsela's opinion states the Court's instrumentality ground; the Fifth Circuit's aggregate-effects reasoning is rejected. No general remote-movement rule is added.
 - November 13, 1995 — American Life League: CLARIFIED / APPLIED. Clarified that intentional obstruction directed at provision or receipt of services can be regulated when it directly interferes with an actual interstate service market. This is not downstream crime-cost aggregation.
 - February 5, 1996 — Bishop/Stokes: APPLIED ONLY. Applied Harris. No new Commerce rule.
 - February 12, 1996 — Hale: ADDED. Added the first operational anti-evasion/material-impairment doctrine. Intrastate possession may be included where excluding it would materially undermine or permit evasion of a valid federal interstate market regime. This development uses the Necessary and Proper Clause together with Commerce authority. Hale does not create a general firearm possession power.
@@ -564,7 +564,7 @@ Source: `state/holdings/constitutional-structure.md`; exact heading `American Li
 
 **Operative remedy or transition:** Affirm the commerce/federalism dismissal. FACE's remaining speech, vagueness, civil-remedy, free-exercise and RFRA questions are under First Amendment, American Life League, November 13, 1995, Fourth Circuit No. 94-1869.
 
-**Treatment of earlier authority:** As the first post-Lopez application recognizing a direct market-interference mechanism, the decision applies Lopez's connection-before-magnitude architecture and distinguishes its inadequate downstream-effects chain. Harris's economic vehicle-taking class and enacted vehicle nexus are a distinct mechanism; Robertson's direct-enterprise rule is distinct and does not classify every protester as an enterprise. New York's anti-compulsion limit remains intact.
+**Treatment of earlier authority:** As the first post-Lopez application recognizing a direct market-interference mechanism, the decision applies Lopez's connection-before-magnitude architecture and distinguishes its inadequate downstream-effects chain. Harris's direct-instrumentality rule and enacted vehicle-specific nexus are a distinct mechanism; Robertson's direct-enterprise rule is distinct and does not classify every protester as an enterprise. New York's anti-compulsion limit remains intact.
 
 ## Canonical Holdings reading copy
 
@@ -610,7 +610,7 @@ For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth
 
 **Limits and questions not reached:** No flight, travel, voluntary crossing, bank wire, particular instrument, evasion motive or ability finding is added. This is not a rule for all family debt or incidental geographic connections.
 
-**Treatment of earlier authority:** Lopez's connection-before-magnitude architecture is applied through a concrete statutory mechanism, not a general interstate-obligation category detached from Lopez; its rejection of remote effects chains and prohibition on supplying missing elements are retained. Harris and Bishop/Stokes retain their economic vehicle-taking class and enacted nexus; Hale retains its anti-evasion/material-impairment ground. None creates an automatic commerce label for every obligation.
+**Treatment of earlier authority:** Lopez's connection-before-magnitude architecture is applied through a concrete statutory mechanism, not a general interstate-obligation category detached from Lopez; its rejection of remote effects chains and prohibition on supplying missing elements are retained. Harris and Bishop/Stokes retain their direct-instrumentality vehicle-taking rule and enacted nexus; Hale retains its anti-evasion/material-impairment ground. None creates an automatic commerce label for every obligation.
 
 ##### Whether direct regulation of private obligors commandeers a State
 

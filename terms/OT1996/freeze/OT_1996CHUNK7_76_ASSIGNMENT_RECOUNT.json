@@ -24,7 +24,7 @@
     "author_evidence": [
       "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Affirmance | Entire opinion; all three holdings and their qualifications |"
     ],
-    "topology_sha256": "d58f151199e026ec476cd3d1db7b381d503e542b382708c50f8fd5b3fbc7db34"
+    "topology_sha256": "476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409"
   },
   "counted": [
     {
@@ -818,7 +818,7 @@
       "author_evidence": [
         "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Affirmance | Entire opinion; all three holdings and their qualifications |"
       ],
-      "topology_sha256": "d58f151199e026ec476cd3d1db7b381d503e542b382708c50f8fd5b3fbc7db34"
+      "topology_sha256": "476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409"
     }
   ],
   "excluded_by_form_or_procedure": [

@@ -46,27 +46,27 @@
     {
       "path": "terms/OT1996/records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md",
       "bytes": 29317,
-      "sha256": "db85a79bcad6cec9d24751d33fd391092b41dc1d4c7838417c2a79627285facb"
+      "sha256": "476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409"
     },
     {
       "path": "terms/OT1996/records/Richards_v_Wisconsin_merits_1997-04-28.md",
       "bytes": 32668,
-      "sha256": "a9c3efc1ee4a0511b228d0a8cb7e4414b964ca9c733ec257214f653892bebc7e"
+      "sha256": "4dfee13a32c11f963afb90d463ecddfd29b20c36cebc008d7625df983a67968f"
     },
     {
       "path": "terms/OT1996/records/Strate_v_A_1_Contractors_merits_1997-04-28.md",
       "bytes": 38200,
-      "sha256": "8478316af7436aecd03f5a3ce922153244d6d8c58b96d450dcb2e6db60e68bd3"
+      "sha256": "b372c26f6da31e4bf7570f01d76a922b2da1a84887cc1f8171db035cdcacf767"
     },
     {
       "path": "terms/OT1996/records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
       "bytes": 38117,
-      "sha256": "80a8b84cf5a2fe60ffe8bc8c9ab96a14c067093b720080e1f7319155fa38c1b0"
+      "sha256": "90ee6006e8bf2622b107f69d9d5681a2a8514cf46cc9c9c70f040d119d43e4ef"
     },
     {
       "path": "terms/OT1996/records/Doe_v_SEPTA_merits_1997-05-05.md",
       "bytes": 30526,
-      "sha256": "c05bfd58668aff21689c58c488cb578032ff9096414dd363e5c4436120d44d58"
+      "sha256": "7384e242051ba655904a85eda89ae34da0bdf195bd00fb62e22f7b992ebc425e"
     },
     {
       "path": "terms/OT1996/records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md",
@@ -93,7 +93,7 @@
     {
       "path": "terms/OT1996/render-inputs/OT_1996CHUNK7.md",
       "bytes": 187183,
-      "sha256": "bdf1e7d1aba0835ff717e2a162feb179b2fca100491521bf1865c708010b6878"
+      "sha256": "c258ec595c4fe55a1f3e295dcc8dba012663cb87607dc69c39ba0e84e66f895a"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_ASSIGNMENT_AND_PRESERVATION_VALIDATION.md",
@@ -108,12 +108,12 @@
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_75_79_ASSEMBLY_VALIDATION.json",
       "bytes": 10724,
-      "sha256": "91e385d16fd7f31da5ffbd8bba913509eaf401d97210333c0416827b7d42de42"
+      "sha256": "70ce6d746be3dcb616dd51e48ac84afc125b1e5ebfb59cdc8f2371bb93b96eab"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_80_83_ASSEMBLY_VALIDATION.json",
       "bytes": 10230,
-      "sha256": "1a7d8f7f8f78b30cec76427a4bc6d5ae12acfe463b70413ebf4775da370c4f11"
+      "sha256": "74da4e829c61884532eb6ecaedb50c1b91be2a9d4b17b429563fb48e6e59a427"
     },
     {
       "path": "terms/OT1996/workspace/manifest.md",
@@ -123,27 +123,27 @@
     {
       "path": "terms/OT1996/workspace/ledger.md",
       "bytes": 52494,
-      "sha256": "b46e2e13463a776673d1ce63a3682bc904028e274353a4b94642938b9036f48f"
+      "sha256": "4d6452340ed7ab4309b08fae8ec5790d3781ecee14daecdac445987201894e8f"
     },
     {
       "path": "terms/OT1996/workspace/continuity.md",
       "bytes": 898711,
-      "sha256": "2dc72cb544af571dfc0c4c1e1c19c9404cc692020eee2bd43f3655ee0f4a409b"
+      "sha256": "d2055242e69cf722697b8baa536037941fbc7c0b6835f2dd959dc6bbcdcef824"
     },
     {
       "path": "terms/OT1996/workspace/neutral-projection.md",
       "bytes": 868792,
-      "sha256": "20f4c603ee4d6ac7befd54544af9b157939f0e177cb7283b132fc696d291fd23"
+      "sha256": "c2bba408305b8b08468433e964d80d20966dfedc51052ae267142aed381e86e5"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_COMMITMENTS.md",
       "bytes": 293737,
-      "sha256": "8f43e046ab83fb6efc445209a26ff9586140eb232b8c6f21996c577213772898"
+      "sha256": "f13ae9f266f1a25f83dc1f161d24a8bd2bd5949cc46959e8448fae6c220fc552"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_RECONCILED.md",
       "bytes": 400324,
-      "sha256": "f7d7c922725d94826d65e3508d3f6cc6ff38db574c543fa7c17e8ba4437d9375"
+      "sha256": "3788a9e04416d301dbd1576b92998b434b63de74794a6950ae32e75e952536fe"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_83_MANDATE_RECONCILIATION_AUDIT.md",
