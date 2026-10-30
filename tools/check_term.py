@@ -42,12 +42,13 @@ STABLE_ID_CASE_ROW = re.compile(r"^\|\s*\d+\s*\|\s*OT\d{4}-\d+\s*\|\s*\[Chunk\s+
 def chunks(path: Path):
     return {int(m.group(2)): p for p in path.glob("OT_*CHUNK*.md") if (m := CHUNK.match(p.name))}
 
-SHA_TOKEN = re.compile(r"(?<![0-9A-Za-z])([0-9a-f]{7,40})(?![0-9A-Za-z])")
+SHA_TOKEN = re.compile(r"(?<![0-9A-Za-z_])([0-9a-f]{7,40})(?![0-9A-Za-z_])")
 COMMIT_WORD = re.compile(r"\bcommit\s+$", re.I)
 
 def commit_refs(text: str) -> set[str]:
-    """Lowercase hex tokens that look like commit references: a standalone token mixing letters
-    and digits, or any standalone hex token written directly after the word "commit"."""
+    """Lowercase hex tokens that look like commit references: a standalone token (no adjacent letter,
+    digit or underscore, so file names such as lower_90f3d963.txt are skipped) mixing letters and
+    digits, or any standalone hex token written directly after the word "commit"."""
     refs = set()
     for m in SHA_TOKEN.finditer(text):
         sha = m.group(1)
