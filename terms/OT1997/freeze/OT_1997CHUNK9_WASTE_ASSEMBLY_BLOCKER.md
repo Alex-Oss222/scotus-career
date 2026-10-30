@@ -6,4 +6,4 @@
 
 **Assignment:** Stone-Zsela authors the Opinion of the Court, joined by O'Connor, Souter, Ginsburg and Breyer. This signed plenary lead contributes one Stone-Zsela opinion to the term's Section 8 count. Separate writings contribute no lead count.
 
-**Legal compatibility:** The [assembly validation](OT_1997CHUNK9_WASTE_ASSEMBLY_VALIDATION.md) and [scoped reconciliation audit](OT_1997CHUNK9_WASTE_PUBLIC_GROUND_AUDIT.md) state the supported joins and validation results.
+**Legal compatibility:** The [assembly validation](OT_1997CHUNK9_WASTE_ASSEMBLY_VALIDATION.md) and [reconciliation](OT_1997CHUNK9_RECONCILED_WASTE.md) state the supported joins and validation results.

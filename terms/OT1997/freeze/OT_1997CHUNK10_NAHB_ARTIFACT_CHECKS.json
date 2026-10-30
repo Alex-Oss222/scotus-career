@@ -27,6 +27,5 @@
   ],
   "unaffected_public_entries_byte_identical": true,
   "event_dates_preserved": true,
-  "later_results_preserved": true,
-  "file_inventory": "../audit/HOME_BUILDERS_OPERATOR_SUMMARY.md"
+  "later_results_preserved": true
 }

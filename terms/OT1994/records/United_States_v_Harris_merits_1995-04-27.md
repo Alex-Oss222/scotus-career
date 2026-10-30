@@ -221,7 +221,7 @@ The independent individual commitments are preserved in `freeze/OT_1994CHUNK5_CO
 
 ### Final commerce compatibility
 
-The independent [reconciliation audit](../freeze/OT_1994CHUNK5_HARRIS_JOIN_AUDIT.md) supports every Associate’s join in the qualified instrumentality rule and its application. The following responses are adjudicative inferences from each Justice’s date-eligible public positions and the neutral record, not historical Supreme votes or accounts of private exchanges. Each Justice retains the stated judgment and record limits. Their sufficient economic-acquisition conclusions do not preclude a join in this separately justified direct-protection ground; a public alternative holding requires published joins, not an aggregation of unexpressed positions.
+The [reconciliation](../freeze/OT_1994CHUNK5_RECONCILED_HARRIS.md) supports every Associate’s join in the qualified instrumentality rule and its application. The following responses are adjudicative inferences from each Justice’s date-eligible public positions and the neutral record, not historical Supreme votes or accounts of private exchanges. Each Justice retains the stated judgment and record limits. Their sufficient economic-acquisition conclusions do not preclude a join in this separately justified direct-protection ground; a public alternative holding requires published joins, not an aggregation of unexpressed positions.
 
 | Justice | Supported join and own date-eligible basis | Boundary retained |
 |---|---|---|

@@ -156,7 +156,7 @@ The full-join inference rests on the legal formulation: constitutional coverage 
 
 ### Historical reconciliation
 
-The frozen comparator supplies no historical Supreme Court merits vote, opinion or Justice-specific lineup for Wright. No such alignment is invented and no historical departure is claimed. The published lower court's militia-affiliation premise is displaced by Love, Hale and Rybar; each Associate's own joins support the bounded remand. The sentencing question remains governed by Stinson and Koon on the published remarks. The [fresh scoped reconciliation audit](../freeze/WRIGHT_PUBLIC_GROUND_AUDIT.md) confirms the public formulation against those handoffs and date-eligible public positions without receiving a private Stone supplement. Its Burdick, Madsen and Ladue analogies are evidence of the Justices' own methods, not additional arms precedents or transferred holdings.
+The frozen comparator supplies no historical Supreme Court merits vote, opinion or Justice-specific lineup for Wright. No such alignment is invented and no historical departure is claimed. The published lower court's militia-affiliation premise is displaced by Love, Hale and Rybar; each Associate's own joins support the bounded remand. The sentencing question remains governed by Stinson and Koon on the published remarks. The [reconciliation](../freeze/WRIGHT_RECONCILED.md) supports the public formulation against those handoffs and date-eligible public positions. Its Burdick, Madsen and Ladue analogies are evidence of the Justices' own methods, not additional arms precedents or transferred holdings.
 
 ### Form, assignment and balance
 

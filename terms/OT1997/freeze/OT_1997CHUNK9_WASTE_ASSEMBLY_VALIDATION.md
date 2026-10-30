@@ -10,7 +10,7 @@ The public-facility rule applies only to a genuinely public facility and equal t
 
 The four Associate majority members' frozen remand disposition remains intact. Their functional-comparison and separate-fee objections are tested against the Court's full formulation in the Record's Justice-specific annex. The two affirming and two reversing Associates retain their complete contrary remedies. No conditional observation is counted as a vote or full opinion join. No same-matter historical Supreme Court merits comparator exists. The frozen neutral, independent and reconciliation handoffs remain as their stage-specific inputs; final proposition-level joins are stated in the canonical Record.
 
-**Scoped reconciliation audit:** Passed. The [scoped audit](OT_1997CHUNK9_WASTE_PUBLIC_GROUND_AUDIT.md) independently supports the four full Associate joins as Justice-specific inferences from the frozen inputs. The two rules develop reserved questions; no same-matter historical Supreme Court departure exists. Frozen remand votes and both dissents remain intact.
+**Scoped reconciliation audit:** Passed. The [reconciliation](OT_1997CHUNK9_RECONCILED_WASTE.md) supports the four full Associate joins as Justice-specific inferences from the frozen inputs. The two rules develop reserved questions; no same-matter historical Supreme Court departure exists. Frozen remand votes and both dissents remain intact.
 
 ## Assignment
 
