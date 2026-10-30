@@ -7549,17 +7549,17 @@ For the other questions in United States v. Griffin / United States v. Langley, 
 
 **Holding:** A sentencing court may not deny an otherwise warranted section 3E1.1 acceptance-of-responsibility adjustment solely because the defendant presents a nonfrivolous legal or constitutional challenge unrelated to admitted factual guilt. A guilty plea reserving such a challenge does not automatically disqualify the defendant, but neither the plea nor the prosecutor's recommendation guarantees the adjustment.
 
-**Proposition-level authority:** Kennedy's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela joins no part of the opinion.
+**Proposition-level authority:** Stone-Zsela's opinion of the Court; all nine Justices join this holding.
 
 ##### The asserted remorse ground does not independently preserve this sentence
 
 **Holding:** Where the reported sentencing remarks intertwine acceptance with an erroneous affiliation premise and do not establish a sufficiently independent lawful remorse determination, the sentence cannot be preserved by characterizing those same remarks as a conclusive factual alternative. Wright's sentence and its appellate affirmance must be vacated for lawful reconsideration under section 3E1.1, coordinated with the machinegun count's disposition.
 
-**Proposition-level authority:** Kennedy's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela joins no part of the opinion.
+**Proposition-level authority:** Stone-Zsela's opinion of the Court; all nine Justices join this holding.
 
 **Limits and questions not reached:** The sentencing court may assess actual remorse, candor, sincerity and conduct on supported lawful grounds, with appropriate deference to genuine factual findings. The Court orders no two- or three-level reduction, prescribed term of imprisonment or conclusive finding of acceptance. It does not resolve credibility anew, and supported contrary conduct may outweigh evidence favoring credit.
 
-**Limits and questions not reached:** No comprehensive arms scrutiny tier, closed weapons catalogue or categorical exclusion of dangerous arms is adopted. The statutory exceptions and registration limits stated below remain intact. The Court orders no acquittal, release, return of arms, new trial, automatic hearing, acceptance adjustment or particular sentence; the machinegun count and sentence return on their distinct grounds. A reserved legal challenge does not immunize false factual denials or other conduct inconsistent with actual acceptance.
+**Limits and questions not reached:** Core-Preservation Review governs restrictions on protected activity. The tier and ultimate validity of this machinegun restriction remain undecided; no closed weapons catalogue or categorical exclusion of dangerous arms is adopted. The applicable statutory exceptions and registration limits remain intact. The Court orders no acquittal, release, return of arms, new trial, automatic hearing, acceptance adjustment or particular sentence; the machinegun count and sentence return on their distinct grounds. A reserved legal challenge does not immunize false factual denials or other conduct inconsistent with actual acceptance.
 
 For the other questions in United States v. Wright, decided 1998-10-05, Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket., see Constitutional Structure, Civil Rights.
 

@@ -10245,7 +10245,7 @@ For the other questions in Florida Prepaid Postsecondary Education Expense Board
 
 **Proposition-level authority:** Souter's unanimous opinion of the Court.
 
-**Limits and questions not reached:** The holding concerns the developed official-use controversy, not every privately held weapon of a public employee. No universal arms-disability tier, individual conviction-classification or restoration ruling, private-possession application, or unresolved commerce or commandeering ground is decided. Section 928 does not authorize extending an exemption the developed objections do not invalidate.
+**Limits and questions not reached:** The holding concerns the developed official-use controversy, not every privately held weapon of a public employee. No individual conviction-classification or restoration ruling, private-possession application, or unresolved commerce or commandeering ground is decided. Section 928 does not authorize extending an exemption the developed objections do not invalidate.
 
 For the other questions in Fraternal Order of Police v. United States, decided 1998-10-07, D.C. Circuit No. 97-5304; judgment below, 152 F.3d 998., see Civil Rights.
 
@@ -10372,13 +10372,17 @@ The mandate does not direct dismissal of the state action under Article III. Res
 
 **Holding:** Hiley's continuing exclusion from armed-deputy work, traceable to application of the federal disability and redressable through the settlement's restoration-if-successful condition, establishes a concrete controversy despite his reassignment to detention work. NAGE may pursue this uniform prospective legal challenge through affected members where the claim is germane to its representative purpose and neither the claim nor the requested relief requires individual participation; the already operative injury makes the controversy ripe.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
 
-##### Correcting the arms premise does not revive abandoned claims
+##### Personal arms protection does not revive abandoned claims
 
-**Holding:** The recorded abandonment of strict-scrutiny review and the separately recorded abandonment of procedural due process limit this review; correcting the lower court's collective-only arms premise neither withdraws those abandonments nor creates a separately preserved Second Amendment claim. The surviving federal challenges remain for decision, while claims against the county and sheriff settled and dismissed with prejudice remain closed.
+**Holding:** The recorded abandonment of strict-scrutiny review and the separately recorded abandonment of procedural due process limit this review; rejecting the lower court's collective-only arms premise neither withdraws those abandonments nor creates a separately preserved Second Amendment claim. The surviving federal challenges remain for decision, while claims against the county and sheriff settled and dismissed with prejudice remain closed.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
+
+**Material application:** *Love*, *Hale* and *Rybar* recognize personal invocation of the arms guarantee independently of militia affiliation. *Wright* supplies Core-Preservation Review: first determine constitutional coverage, then measure justification against the severity of the restriction's practical burden. *Fraternal Order of Police* applies that rule to a qualifying domestic-violence disability as a substantial regulation satisfying intermediate scrutiny, and holds that personal protection does not require an official-use exception. A preserved Second Amendment challenge here would be governed by that framework and application.
+
+Hiley abandoned the arms claim, and the incorporated district order's footnotes 11 and 16 separately record the abandonments of strict-scrutiny review and procedural due process. The Court rejects the collective-only premise without withdrawing those abandonments. It decides the surviving equality and employment theories at their preserved scope; it does not apply intermediate scrutiny to an unpreserved arms claim, decide Hiley's private-possession rights, or reopen the local settlement. The reference to *Wright* and *Fraternal Order of Police* identifies governing law rather than an additional holding on the abandoned claim.
 
 **Limits and questions not reached:** The case decides the preserved civil challenges and no criminal prosecution, notice or mental-state defense. No separate abandoned strict-scrutiny or procedural-due-process claim is revived; the local claims settled with prejudice stay closed. No individual conviction-relief entitlement, never-lost-rights construction or universal firearms disability is established.
 

@@ -4,17 +4,17 @@
 **Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
 **Edition:** October 29, 2026
 **Next baseline:** Opening OT1999, before its first supplied event. This close does not open or adjudicate OT1999.
-**Publication:** The coordinated state and indexes were published and verified at [the state-publication commit](https://github.com/Alex-Oss222/scotus-career/commit/9faa6f4a3f53909398d669aba4b4007f1553976b). Candidate files and temporary pass notes are removed in the final cleanup commit; their reviewed and corrected versions remain at the pinned revisions below.
+**Publication:** The coordinated trackers and doctrinal volumes publish the controlling law through the common cutoff. The linked Records supply the authority for each decision; the close indexes provide navigation.
 
-## Authority and retained history
+## Authority and sources
 
-The canonical Records control this close. All 130 Court-event Records and the admitted source are preserved without modification. Public renders are cross-checks, and generated indexes are navigation aids. Every current Record retains its authoritative opening lineage; detailed earlier versions remain in repository history. No Record-level correction or new adjudication was introduced during close.
+The canonical Records control this close. All 130 Court-event Records and the admitted source supply the term's authoritative actions. Public renders are cross-checks, and generated indexes are navigation aids.
 
-The [first-review snapshot](https://github.com/Alex-Oss222/scotus-career/tree/b86c7f3a7207649193d9bdc2605c3d4ccf8f1dcf/terms/OT1998/close) preserves the initial candidates, chronological Holdings pass snapshots, independent Standards derivation, input identities and initial findings. The [verified corrections](https://github.com/Alex-Oss222/scotus-career/tree/9cec1909d55fdde1db3a1b92458563192acd4f3e/terms/OT1998/close) preserve corrected candidate bytes, correction receipts and the bounded verification. These historical files remain evidence after final candidate cleanup.
+The [close preparation](https://github.com/Alex-Oss222/scotus-career/tree/b86c7f3a7207649193d9bdc2605c3d4ccf8f1dcf/terms/OT1998/close) and [verification materials](https://github.com/Alex-Oss222/scotus-career/tree/9cec1909d55fdde1db3a1b92458563192acd4f3e/terms/OT1998/close) retain the source identities, independent derivations and verification evidence supporting the close.
 
 ## Term-opening trackers
 
-The opening baseline was the completed OT1997 state. The following immutable versions, together with their doctrinal volumes at that revision, supplied OT1998 entering law.
+The opening baseline was the completed OT1997 state. The following tracker sources and their corresponding doctrinal volumes supplied OT1998 entering law.
 
 | Opening tracker | SHA-256 |
 |---|---|
@@ -22,21 +22,25 @@ The opening baseline was the completed OT1997 state. The following immutable ver
 | [STANDARDS_AND_TESTS](https://github.com/Alex-Oss222/scotus-career/blob/b86c7f3a7207649193d9bdc2605c3d4ccf8f1dcf/state/STANDARDS_AND_TESTS.md) | `baeb6c3d6b9c3977218fc62568f131124c45b4e58c2e36a2d6f05d634974dbb3` |
 | [STANDING_STATE](https://github.com/Alex-Oss222/scotus-career/blob/b86c7f3a7207649193d9bdc2605c3d4ccf8f1dcf/state/STANDING_STATE.md) | `69b23afd370a04c7a2f70ac9694efcf1b3811ea9d8a0b165ed06cc6c987c9dcc` |
 
-## Coordinated replacement
+## Coordinated publication
 
-All three publication headers match exactly. The corrected Holdings candidate was split into the eighteen canonical doctrinal volumes; `python -B tools/holdings_volumes.py check` passed. The doctrinal index header was synchronized. Holdings and Standards preserve the distinct controlling coalitions and valid fractures; Standing State preserves the existing institutional setting and fourteen genuinely pending matters.
+All three publication headers match exactly. Holdings is published in the continuous register and eighteen canonical doctrinal volumes. Holdings and Standards preserve the distinct controlling coalitions and valid fractures; Standing State preserves the existing institutional setting and fourteen genuinely pending matters.
 
 | Published tracker | SHA-256 |
 |---|---|
-| [HOLDINGS](../../../state/HOLDINGS.md) | `1054c9eea24d3dd41cb79cb4c2453b3a325aa54561cfb98e104bedab69f9d7fd` |
-| [STANDARDS_AND_TESTS](../../../state/STANDARDS_AND_TESTS.md) | `5f7d313948d8fbbcba4379d7c7e454ea3e27ad55beaea2657b877b225c3e85e8` |
+| [HOLDINGS](../../../state/HOLDINGS.md) | `b0643c1390c017b76d80282583b965a43f3fae175e358ef8c5b1feef279dfe04` |
+| [STANDARDS_AND_TESTS](../../../state/STANDARDS_AND_TESTS.md) | `a87c7161c1bd862502a7aa95dab839bc2517722649c9413d25a4dc831021dd4a` |
 | [STANDING_STATE](../../../state/STANDING_STATE.md) | `102295da767d405e04b8a8d1df25e56b8e389b2e7c4c333e40c6abc4d296054d` |
 
-## Authorized close corrections
+## Controlling arms decisions
 
-The user reviewed the first audit and authorized six corrections: the older Franklin/Title IX reservation now accounts for Davis; Tseng identifies its separate seven-Associate Part II authority; Holloway leaves preservation undetermined; the manifest uses Sullivan docket 97-2000 and Hanlon’s signed merits form; and fifteen Holdings remedy tables have corrected Markdown headers. A fresh scoped review passed all six. The exact text changes preserve all unrelated candidate content and all adjudicated outcomes and votes.
+**United States v. Wright, October 5, 1998.** Stone-Zsela delivers the Court's opinion. O'Connor, Kennedy, Souter and Ginsburg join the complete Core-Preservation Review framework: coverage at Stage 1, followed by justification according to practical burden at Stage 2, with a separate categorical home boundary and reserved public-carry licensing questions. All nine support the judgments. The machinegun-count affirmance is vacated for both stages in the first instance, without deciding the applicable tier or ultimate arms result. The pipe-bomb registration conviction is affirmed under the five-Justice incidental-regulation application and the independent tax-administration and registration ground adopted by all eight Associates in Stevens's Part A. The sentence is vacated for lawful acceptance-of-responsibility reconsideration. Stevens and Breyer, and separately Scalia and Thomas, concur in the common grounds and judgments while reserving the framework.
 
-The [final audit](AUDIT.md) retains four nonblocking notes and the first review’s disclosed filename-discovery limitation. Those notes do not establish a need to change a completed adjudication.
+**Fraternal Order of Police v. United States, October 7, 1998.** All nine join Souter's opinion reversing the extension of the governmental-use exception and remanding. The Court treats the qualifying domestic-violence disability as a substantial regulation of particular persons that satisfies Wright's intermediate scrutiny on this record. The statutory conviction safeguards and relief qualifications remain operative; the decision does not resolve unpresented private-possession or individual classification and restoration claims. Scalia, joined by Thomas, and Stevens, joined by Breyer, concur without withholding any part of the Court's opinion.
+
+**Hiley v. Barrett, October 9, 1998.** The Court unanimously affirms dismissal of the surviving civil constitutional action. O'Connor's opinion has all eight Associates' full joins; Stone-Zsela concurs only in the judgments. The commerce holding rests on the connection between prohibited supply and possession by qualifying recipients; the distinct equality, employment, prospective-conduct, attainder and state-administration grounds retain their own limits. Wright and Fraternal Order of Police govern preserved arms challenges, but do not revive Hiley's abandoned claim. Stone-Zsela's additional arms application and never-lost-rights construction are noncontrolling.
+
+The [final audit](AUDIT.md) records four nonblocking notes and its disclosed filename-discovery limitation.
 
 ## Final continuity and carry-forward
 
@@ -48,7 +52,7 @@ The [final audit](AUDIT.md) retains four nonblocking notes and the first review�
 
 ## Effective-order source inventory
 
-The following 131 linked Records contain every validated completed Court event and admitted source. Listing same-day matters does not create a dependency between decisions that used a common entering-law baseline. The input snapshot and unchanged canonical bytes preserve their exact identities.
+The following 131 linked Records contain every validated completed Court event and admitted source. Listing same-day matters does not create a dependency between decisions that used a common entering-law baseline. The source links identify the authoritative event files.
 
 | Effective date | Type | Case and authoritative Record |
 |---|---|---|
@@ -211,6 +215,6 @@ The following 131 linked Records contain every validated completed Court event a
 
 ## Validation and cleanup
 
-The first audit and subsequent bounded correction verification support the coordinated close. Candidate/source identities, all 197 Holdings navigation links, exact correction scope, header synchronization and fourteen carryovers passed their checks. The correction-stage canonical checker passed with zero errors; two warnings concerned reporter-filename fragments quoted in a temporary preparation report, which final cleanup removes.
+The [close audit](AUDIT.md) and [validation receipt](FINAL_VALIDATION.json) retain the verification of the coordinated close, including source identities, navigation, synchronized headers and fourteen carryovers. The canonical Records govern the substance of each published tracker entry and generated index.
 
-Final publication verification, canonical state/volume checking and removal of staged candidates and temporary pass notes are recorded in the [final audit](AUDIT.md) and [validation receipt](FINAL_VALIDATION.json). Historical preparation and corrected candidates remain available at the pinned revisions above. No Git command was used.
+Candidate files and temporary pass notes are absent from the completed close. The linked preparation and verification materials retain the close evidence.

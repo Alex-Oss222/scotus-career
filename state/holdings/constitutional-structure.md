@@ -2641,25 +2641,25 @@ For the other questions in Department of Commerce v. United States House of Repr
 
 **Holding:** The presented facial commerce challenge to section 922(g)(9) fails because possession by the qualifying recipient class is a fitted anti-evasion and anti-impairment component of the valid federal restriction on supplying firearms and ammunition to that class. The Commerce and Necessary and Proper Clauses permit that inclusion, while section 922(g)'s enacted interstate conditions remain separate requirements rather than an automatic constitutional cure.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
 
 ##### The prohibition governs later firearm conduct, not punishment for the earlier battery
 
 **Holding:** Applying section 922(g)(9) to firearm conduct after its September 30, 1996 effective date does not violate the Ex Post Facto Clause merely because the qualifying conviction occurred earlier. The conviction identifies the regulated class; the statute neither criminalizes completed preenactment firearm possession nor increases the sentence for Hiley's 1995 battery.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
 
 ##### This restriction is not legislative punishment without trial
 
 **Holding:** The general, prospective firearm disability tied to adjudicated qualifying domestic violence is not a bill of attainder under the historical, functional and purpose inquiries. Its fitted prevention of further violence and its serious but incidental employment consequences do not establish legislative occupational punishment or a congressional adjudication of guilt for a future firearm offense.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
 
 ##### The federal rule does not command the sheriff's administration
 
 **Holding:** The challenged possession-and-supply rule does not violate the Tenth Amendment on the asserted staffing theory because it does not command the sheriff to terminate Hiley, legislate, prosecute federal offenses, administer background checks or appropriate funds. Its consequences for lawful staffing choices do not themselves make it a federal direction to administer a regulatory program.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
 
 **Limits and questions not reached:** The case decides the preserved civil challenges and no criminal prosecution, notice or mental-state defense. No separate abandoned strict-scrutiny or procedural-due-process claim is revived; the local claims settled with prejudice stay closed. No individual conviction-relief entitlement, never-lost-rights construction or universal firearms disability is established.
 
@@ -2674,10 +2674,11 @@ Section 925(a)(1)'s governmental-use exception does not extend to sections 922(d
 **Treatment of earlier authority:**
 
 - **Hunt** and **United Food & Commercial Workers v. Brown Group:** applied to the uniform prospective representative claim, preserving real member injury and the distinct participation requirement; United Food's WARN exception is not generalized.
-- **Love, Hale, Rybar and Wright:** applied to reject a collective-only arms premise and distinguish personal invocation from a particular restriction. None revives abandoned claims or supplies an automatic remand. Love's state-interest/federal-right distinction also governs the employment theory.
+- **Love, Hale and Rybar:** applied to reject a collective-only arms premise and distinguish personal invocation from a particular restriction. Love's state-interest/federal-right distinction also governs the employment theory.
+- **Wright:** its Core-Preservation Review governs a preserved arms challenge; constitutional coverage precedes justification measured by practical burden. It supplies no decision or automatic remand on Hiley's abandoned claim.
 - **Lopez:** applied for the identified interstate mechanism and the boundary against generalized crime costs or jurisdictional words alone.
 - **Hale** and **Kirk:** their necessary-inclusion method is extended to the particular prohibited-supply/recipient relationship established here. Their machinegun-stock holdings are not treated as already deciding section 922(g)(9).
-- **Fraternal Order of Police (October 7, 1998):** retained at its developed official-use scope. Its resolved express classification is distinct from Hiley's uneven occupational-effects theory; its reservation of the different commerce question is resolved here only for the presented facial challenge.
+- **Fraternal Order of Police (October 7, 1998):** its application of Wright treats the qualifying domestic-violence disability as a substantial regulation satisfying intermediate scrutiny and rejects an official-use exception. That arms rule governs a preserved challenge, which Hiley does not present. Its resolved express classification is distinct from Hiley's uneven occupational-effects theory; its reservation of the different commerce question is resolved here only for the presented facial challenge.
 - **Lee Optical** and **Beach:** applied for rational incremental regulation, without eliminating the need for a relevant justification.
 - **Heller v. Doe** and **Romer:** applied for a relation to the actual disadvantage; their distinct operative holdings remain, and no narrower-alternative or mandatory-animus test replaces ordinary review.
 - **Caron:** applied only for the jurisdictional selector and federal consequences; its actual residual-firearms restriction holding does not answer whether never-lost rights are restored.
@@ -2812,25 +2813,25 @@ No general ownership precedent is overruled. The statutory immobilization conseq
 
 **Holding:** Section 922(o) may reach the admitted machinegun stock without proof of a defendant-specific interstate or commercial transaction because excluding possession would permit acquisition, retention, concealment or continued circulation that materially impairs Congress's valid national restriction on additions to civilian machinegun stock. The Commerce Clause together with the Necessary and Proper Clause supplies that authority; the derivative Tenth Amendment objection fails because it identifies no independent interference with state administration.
 
-**Proposition-level authority:** Kennedy's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela joins no part of the opinion.
+**Proposition-level authority:** Stone-Zsela's opinion of the Court; all nine Justices join this holding.
 
 **Limits and questions not reached:** Section 922(o)(2)(A) excepts transfers to or by, and possession by or under the authority of, the United States or its departments or agencies, or a State or its departments, agencies or political subdivisions. Section 922(o)(2)(B) separately excepts lawful transfer or possession of a machinegun lawfully possessed before May 19, 1986; earlier manufacture alone is insufficient. No exception is newly established here. No interstate element, general firearms police power, universal formal-findings requirement, or constitutional conclusion about every receiver, conversion part or incomplete assembly is adopted. Commerce authority does not resolve the arms challenge.
 
 ##### The separate pipe-bomb registration conviction remains valid
 
-**Holding:** The personal character of the arms guarantee and the asserted military usefulness of the three pipe bombs do not exempt their possession from the separate NFA registration requirements administering lawful making and transfer. Section 5861(d)'s prohibition of receipt or possession of a covered firearm not registered to the possessor has an independent tax-administration basis where it supports assessment, collection and tracing of taxable making and transfer; these presented objections therefore do not disturb the registration conviction.
+**Holding:** Registration of these explosive destructive devices is an incidental regulation that leaves ordinary defensive keeping meaningfully available and satisfies deferential reasonableness review.  The personal character of the arms guarantee and the asserted military usefulness of the three pipe bombs do not exempt their possession from the separate NFA registration requirements administering lawful making and transfer. Section 5861(d)'s prohibition of receipt or possession of a covered firearm not registered to the possessor has an independent tax-administration basis where it supports assessment, collection and tracing of taxable making and transfer; these presented objections therefore do not disturb the registration conviction.
 
-**Proposition-level authority:** Kennedy's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela joins no part of the opinion.
+**Proposition-level authority:** Stone-Zsela, O'Connor, Kennedy, Souter and Ginsburg adopt the Core-Preservation Review application in Part III. Stevens's separate opinion, Part A, is joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; those eight independently adopt the tax-administration and registration ground stated here. All nine support the conviction affirmance; Stone adds no independent tax ground.
 
 **Limits and questions not reached:** Section 5841 registers a transferred firearm to the transferee through the transferor; it does not impose a universal duty on each possessor to seek late registration. Section 5812 requires advance transfer approval and denial if transfer, receipt or possession would violate law. Section 5822 separately requires advance making approval and denial if making or possession would violate law. A prosecution involving registration that could not lawfully be approved remains a different question. No unpreserved statutory element, tax exemption, knowledge issue or registration-impossibility defense is decided.
 
-**Limits and questions not reached:** No comprehensive arms scrutiny tier, closed weapons catalogue or categorical exclusion of dangerous arms is adopted. The statutory exceptions and registration limits stated below remain intact. The Court orders no acquittal, release, return of arms, new trial, automatic hearing, acceptance adjustment or particular sentence; the machinegun count and sentence return on their distinct grounds. A reserved legal challenge does not immunize false factual denials or other conduct inconsistent with actual acceptance.
+**Limits and questions not reached:** Core-Preservation Review governs restrictions on protected activity. The tier and ultimate validity of this machinegun restriction remain undecided; no closed weapons catalogue or categorical exclusion of dangerous arms is adopted. The applicable statutory exceptions and registration limits remain intact. The Court orders no acquittal, release, return of arms, new trial, automatic hearing, acceptance adjustment or particular sentence; the machinegun count and sentence return on their distinct grounds. A reserved legal challenge does not immunize false factual denials or other conduct inconsistent with actual acceptance.
 
 **Treatment of earlier authority:**
 
-- **Love v. Pepersack (December 11, 1995):** applied for the personal holder of the arms guarantee without formal militia affiliation; its incorporation and necessary-acquisition rules remain intact, and incorporation is unnecessary in this federal prosecution.
-- **United States v. Hale (February 12, 1996):** applied for the fitted possession/transfer mechanism, independent tax-administration and registration grounds, and separation of personal coverage from the actual weapons restriction. Its statutory exceptions and unresolved registration-impossibility question remain intact.
-- **United States v. Rybar (November 24, 1997):** applied for the same commerce mechanism and the limited arms remand when an invalid affiliation ground lacks an adequate independent application. Its completed weapons do not establish either automatic affirmance or an automatic-remand rule.
+- **Love v. Pepersack (December 11, 1995):** applied for the personal holder of the arms guarantee without formal militia affiliation; its incorporation and necessary-acquisition rules remain intact, and incorporation is unnecessary in this federal prosecution. Core-Preservation Review develops the justification standard that Love left open.
+- **United States v. Hale (February 12, 1996):** applied for the fitted possession/transfer mechanism, independent tax-administration and registration grounds, and separation of personal coverage from the actual weapons restriction. Its statutory exceptions and unresolved registration-impossibility question remain intact. Its separation of coverage and justification supplies the structure of the two-stage inquiry; it did not itself adopt the tiers.
+- **United States v. Rybar (November 24, 1997):** applied for the same commerce mechanism and the limited arms remand when an invalid affiliation ground lacks an adequate independent application. Its completed weapons do not establish either automatic affirmance or an automatic-remand rule. Wright supplies the previously reserved justification standard without deciding Rybar's weapon-specific application.
 - **United States v. Kirk (February 14, 1998):** applied for possession of prohibited completed stock without a defendant-specific sale or interstate transaction. It supplies no Second Amendment holding.
 - **United States v. Lopez (April 26, 1995):** preserved and applied for a constitutionally identifiable commerce connection before aggregation and against judicial addition of an absent interstate element. The decision does not revive generalized downstream crime-cost reasoning.
 - **United States v. Miller, 307 U.S. 174 (1939):** applied through the surviving weapon-and-record inquiry, without a formal-enrollment prerequisite, categorical military-weapon immunity or exclusion based on military usefulness alone.

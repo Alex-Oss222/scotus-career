@@ -2602,6 +2602,8 @@ For the other questions in Kimberlin v. Quinlan, decided June 12, 1995, No. 93-2
 
 **Limits and questions not reached:** The principle neither protects every handgun nor guarantees purchase from every seller, prohibits investigation or licensing, or supplies a scrutiny tier, comprehensive weapons classification or closed regulatory list. Stone-Zsela's affirmative infringement application is not adopted.
 
+**Later-authority backlinks:** United States v. Wright, decided 1998-10-05, Part II-B, supplies Core-Preservation Review for justification of restrictions on the personal arms right; constitutional coverage remains a separate inquiry.
+
 **Treatment of earlier authority:** Miller's scope inquiry survives. Andrews's purchase, ammunition, repair and related-transport discussion supplies qualified historical evidence without adoption of its whole state-law analysis or broader separate opinion.
 
 ##### Return of the individual-capacity arms claim for constitutional application
@@ -2639,6 +2641,8 @@ For the other questions in Kimberlin v. Quinlan, decided June 12, 1995, No. 93-2
 **Proposition-level authority:** O'Connor's Part III-B, joined by all seven other Associate Justices; eight Justices. Stone-Zsela dissents from the remand.
 
 **Limits and questions not reached:** No exhaustive weapons classification, scrutiny tier or categorical public-safety rule is adopted. Through §921(a)(23), §5845(b) includes a weapon shooting, designed to shoot or readily restorable to shoot more than one shot automatically without manual reloading by a single trigger function; its frame or receiver; a part designed and intended solely and exclusively, or combination of parts designed and intended, for conversion; and an assembly combination possessed or controlled by one person. Each branch keeps its distinct predicates. The lower courts must use actual count-specific objects and statutory branches as necessary, without creating a new offense element or reopening every established finding.
+
+**Later-authority backlinks:** United States v. Wright, decided 1998-10-05, Part II-B, supplies Core-Preservation Review for justification of restrictions on the personal arms right; constitutional coverage remains a separate inquiry.
 
 **Operative remedy or transition:** Vacate the appellate affirmance of the thirteen §922(o) counts solely for the preserved arms application under Love and Miller. Existing-record decision or ordinary further proceedings remain available as necessary; no automatic hearing, acquittal, release, new trial or resentencing follows. Consequential sentencing treatment depends on lawful disposition of those counts.
 
@@ -3795,6 +3799,8 @@ The Court makes no final finding on purpose, access, population, medical benefit
 **Material application:** The Chinese Type 54 and U.S. Military M-3 are identified completed automatic weapons, and the gun-show transactions are settled facts. Their known functional characteristics may bear on the constitutional application, but classification or military provenance alone does not resolve the restriction’s validity.
 
 **Limits and questions not reached:** No new universal scrutiny tier, empirical study requirement, comprehensive weapons catalogue, automatic-remand rule, general danger exception, or categorical automatic-weapons exclusion is adopted. The Court does not decide receivers, conversion parts, accessories, ordinary semiautomatic arms, or every application of § 922(o).
+
+**Later-authority backlinks:** United States v. Wright, decided 1998-10-05, Part II-B, supplies Core-Preservation Review for justification of restrictions on the personal arms right; constitutional coverage remains a separate inquiry.
 
 **Operative remedy or transition:** Further consideration may use the existing record or ordinary proceedings genuinely needed. The remand orders no acquittal, release, return of weapons, new trial, automatic hearing, or resentencing. Any consequential relief depends on the lawful disposition of the affected possession counts. Dismissed NFA transfer Counts II and IV remain outside the judgment. The admitted weapon characteristics and transactions need not be relitigated.
 
@@ -5197,11 +5203,17 @@ The existing relief remains confined to the three challenged ranks and classific
 
 **Proposition-level authority:** Souter's unanimous opinion of the Court.
 
-##### Personal arms protection does not compel this governmental-use exception
+##### Core-Preservation Review permits this conduct-based disability and official-use exclusion
 
-**Holding:** Recognition of an individual's arms right does not itself require a governmental-use exemption for persons with a qualifying domestic-violence conviction. On this developed official-use claim, the adjudicated connection to violent misuse and the statute's conviction safeguards supply a concrete justification for retaining the exclusion; public employment does not eliminate that connection or make a service weapon inaccessible to its possessor.
+**Holding:** The qualifying domestic-violence disability is a substantial regulation of particular persons under Wright's Core-Preservation Review and satisfies intermediate scrutiny on the developed official-use challenge. Keeping and bearing remain covered at Stage 1; at Stage 2, preventing armed recurrence is an important objective, the adjudicated violent-conduct predicate and conviction safeguards substantially connect the restriction to that objective, and the defined eligibility and relief limits constrain its burden; the personal right does not compel an official-use exception.
 
 **Proposition-level authority:** Souter's unanimous opinion of the Court.
+
+**Material application:** *Love* recognizes personal protection, *Hale* distinguishes coverage from regulation, and *Rybar* rejects a setting-based denial of the right. Keeping or bearing does not lose protection merely because it occurs at work. There is, however, no independent fundamental entitlement to an armed public job. *Wright* measures justification by practical burden. This serious disability, confined by its adjudicated conduct predicate and statutory safeguards, is a substantial regulation of particular persons rather than incidental paperwork or a general abolition of ordinary defensive arms. The developed claim concerns access through the governmental channel for armed service; no individual's ordinary home-possession application is presented.
+
+Intermediate scrutiny requires an important objective, a substantial relationship to it, and a restriction that does not unnecessarily or effectively eliminate protected activity. Preventing renewed armed domestic violence is important. The force, attempted-force or threatened-deadly-weapon predicate within defined domestic relationships, counsel and jury-where-entitled protections, and statutory conviction-relief qualifications supply the substantial connection and constrain this conduct-based restriction. The classification rests on those limits, not merely on the availability of arms to other people. No particular claimant's access to relief is found.
+
+The contrary argument confuses an individual right with immunity from a justified conduct-based restriction. A service weapon remains accessible to its possessor; official employment does not neutralize the risk established by qualifying conduct. Intermediate scrutiny is satisfied on the presented record, independently of ordinary equality review. This does not authorize disarmament for any misdemeanor, a mere allegation or an unrelated offense. An improperly classified conviction, an unavailable statutory safeguard or a genuinely different individual private-possession record remains open. Wright's prohibition of a general abolition of meaningful home possession remains intact; no public-carry licensing, training or recertification question is presented.
 
 ##### Remedy and questions not reached
 
@@ -5209,7 +5221,7 @@ The existing relief remains confined to the three challenged ranks and classific
 
 **Proposition-level authority:** Souter's unanimous opinion of the Court.
 
-**Limits and questions not reached:** The holding concerns the developed official-use controversy, not every privately held weapon of a public employee. No universal arms-disability tier, individual conviction-classification or restoration ruling, private-possession application, or unresolved commerce or commandeering ground is decided. Section 928 does not authorize extending an exemption the developed objections do not invalidate.
+**Limits and questions not reached:** The holding concerns the developed official-use controversy, not every privately held weapon of a public employee. No individual conviction-classification or restoration ruling, private-possession application, or unresolved commerce or commandeering ground is decided. Section 928 does not authorize extending an exemption the developed objections do not invalidate.
 
 **Limits and questions not reached:** The holding concerns firearms and ammunition in the governmental channels defined by section 925(a)(1): transportation, shipment, receipt, possession or importation of items imported for, sold or shipped to, or issued for the use of the United States or its departments or agencies, or a State or its departments, agencies or political subdivisions. That provision separately withholds its exception for sections 922(d)(9), 922(g)(9), and provisions concerning firearms prohibited by section 922(p). It is not an exemption for every privately held weapon of a public employee and is distinct from the machinegun exceptions in section 922(o)(2).
 
@@ -5227,7 +5239,10 @@ A conviction does not count when expunged or set aside, or when the person was p
 - *FCC v. Beach Communications* and *Williamson v. Lee Optical* permit fitted incremental regulation; they do not make a generic public-safety assertion conclusive.
 - *Heller v. Doe* retains both its actual proof-burden and family-participation holdings; its requirement of a rational relation to the challenged disadvantage is applied here.
 - *Romer v. Evans* retains its protection against the unrelated blanket exclusion it addressed; this conduct-defined access restriction is distinguished by its actual regulatory connection.
-- *Love*, *Hale*, *Rybar* and *Wright* are applied to personal invocation and separate examination of a restriction. None supplies a universal scrutiny tier, categorical misdemeanor rule or automatic arms remand. Their machinegun commerce and tax-registration grounds do not decide this separate statute's constitutional power question.
+- *Love* is applied for personal invocation and necessary acquisition; recognition of the holder supplies no unconditional official-use exemption.
+- *Hale* is applied for the distinction between coverage and permissible regulation; its machinegun and registration holdings do not decide this different statute's commerce question.
+- *Rybar* is applied for the rule that the setting alone does not extinguish personal invocation; its machinegun holding neither decides this disability nor orders automatic remand.
+- *Wright* is applied through both stages of Core-Preservation Review and extended to restrictions on particular persons. The qualifying domestic-violence disability is a substantial regulation satisfying intermediate scrutiny on the developed official-use claim. Its prohibition of a general abolition of meaningful home possession and reservations concerning public-carry licensing, training and recertification retain their scope; no automatic remand or universal misdemeanor exception follows.
 
 For the other questions in Fraternal Order of Police v. United States, decided 1998-10-07, D.C. Circuit No. 97-5304; judgment below, 152 F.3d 998., see Federal Courts.
 
@@ -5288,25 +5303,25 @@ For the other questions and complete operative scope in Hanlon v. Berger, 1999-0
 
 **Holding:** On the preserved ordinary-review challenge, Congress may restrict firearm access following a qualifying domestic-violence misdemeanor without extending the restriction to every other violent misdemeanor at the same time. The specified violent-conduct and domestic-relationship predicates rationally connect this classification to preventing further violence.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
 
 ##### Different restoration systems do not invalidate this federal selector
 
 **Holding:** Congress may recognize the convicting jurisdiction's expungement, set-aside, pardon and qualified civil-rights-restoration arrangements without guaranteeing identical firearm consequences across States or between offenses that do and do not cause loss of civil rights. The presented facial equality challenge based on those differences fails; the Court need not decide whether rights never lost can count as restored in a particular statutory application.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
 
 ##### The distinct occupational-effects theory lacks a discriminatory-purpose allegation
 
 **Holding:** The greater employment effect of a qualifying-conviction firearm restriction on occupations requiring weapons does not itself establish the asserted occupational discrimination where the rule applies beyond those occupations and the complaint alleges no purpose to disadvantage law-enforcement officers. That uneven-effects theory fails without changing the separate analysis of an express statutory classification.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
 
 ##### Public employment alone supplies no fundamental substantive entitlement
 
 **Holding:** A state-created employment interest and a wish to retain an armed public position do not alone establish a fundamental substantive federal right to that position. The qualifying-conduct firearm restriction rationally serves prevention of armed recurrence, so the preserved legislative employment claim fails.
 
-**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees in the judgments without joining the opinion.
 
 **Limits and questions not reached:** The case decides the preserved civil challenges and no criminal prosecution, notice or mental-state defense. No separate abandoned strict-scrutiny or procedural-due-process claim is revived; the local claims settled with prejudice stay closed. No individual conviction-relief entitlement, never-lost-rights construction or universal firearms disability is established.
 
@@ -5761,13 +5776,25 @@ The Court affirms dismissal of both presented coverage theories. Stevens and Bre
 
 **Holding:** Wright may invoke the personal arms guarantee without proving membership in, service to, or preparation for a militia actively maintained and trained by a State. Military usefulness neither excludes an arm from the guarantee nor gives an unrestricted exemption from regulation; the actual weapon, conduct and restriction must be considered.
 
-**Proposition-level authority:** Kennedy's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela joins no part of the opinion.
+**Proposition-level authority:** Stone-Zsela's opinion of the Court; all nine Justices join this holding.
 
-##### The machinegun-count affirmance requires a preserved arms application
+##### Core-Preservation Review governs restrictions on the personal arms right
 
-**Holding:** When the appellate affirmance of this machinegun conviction materially rests on the invalid affiliation requirement and supplies no adequate independent application of the personal arms guarantee to the actual weapons and restriction, that affirmance must be vacated for the preserved constitutional application. On this record, the lower courts must assess the completed weapon and the disassembled weapon under their actual statutory bases where material, keeping constitutional coverage distinct from the justification for the restriction.
+**Holding:** Stage 1 asks whether the law interferes with protected keeping, bearing, acquisition, necessary ammunition or transportation of arms, with constitutional coverage determined from text, history and the Court's precedents. If protected activity is burdened, Stage 2 requires justification corresponding to the severity of the restriction's practical operation, subject to the independent categorical rule that government may not abolish meaningful possession of ordinary functional defensive arms in the home.
 
-**Proposition-level authority:** Kennedy's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela joins no part of the opinion.
+**Operative qualifications:** A core deprivation receives strict scrutiny: the government must establish a compelling interest, narrow tailoring and the absence of a comparably effective, materially less restrictive alternative. A substantial regulation receives intermediate scrutiny: an important governmental objective, a substantial relationship between the regulation and that objective, and a restriction that does not unnecessarily or effectively eliminate the protected activity. An incidental regulation imposing no meaningful interference receives deferential reasonableness review; arbitrary administration, discrimination and cumulative destruction of the right remain unconstitutional. Routine equipment specifications, administrative procedures and minor requirements qualify for that last category only when they do not materially obstruct the right. Actual operation controls: calling an effective prohibition a safety measure or administrative rule cannot reduce its level of review.
+
+**Proposition-level authority:** Part II-B is joined by O'Connor, Kennedy, Souter and Ginsburg as well as its author, Stone-Zsela. These five adopt the entire framework, including each tier, the practical-operation rule and the categorical home boundary. The rule is direct majority law, not a synthesis of separate opinions.
+
+**Material application:** Love identifies the personal holder, incorporates the guarantee and protects acquisition necessary to exercise it. Hale requires attention to the actual weapon and keeps coverage distinct from lawful regulation; military usefulness decides neither immunity nor exclusion. Rybar requires a genuine application instead of disposing of the claim through militia affiliation. Those decisions leave the measure of justification open. The Court now supplies that measure because a remand must identify how protected activity and permissible regulation relate. Text and history inform coverage and regulatory limits without creating a closed catalogue. A real individual guarantee requires protection against practical destruction, while regulation that leaves its exercise meaningfully available calls for a justification fitted to its actual burden. Public safety is important, but its invocation alone does not establish that fit. Conversely, recognizing a personal right does not subject every equipment rule or administrative step to strict scrutiny. Registration and a possession prohibition must be examined separately. The home boundary protects a meaningful core; it does not grant immunity to every weapon, person or use. Necessary ammunition and transportation receive protection as incidents of protected keeping or bearing, not through coverage of every item or transport method. That boundary, the graduated standard and the application to particular facts perform different functions.
+
+**Limits and questions not reached:** Prohibiting ordinary functional handguns in the home and effectively eliminating all lawful public carry illustrate core burdens; no particular public-carry law is before the Court. Public-carry licensing, safety instruction, examinations, demonstrated proficiency, refresher training and recertification, including their classification and justification, are expressly reserved. No universal numerical rule, militia exclusion, military-weapon immunity or comprehensive prohibited-arms list is adopted.
+
+##### The machinegun-count affirmance requires both stages in the first instance
+
+**Holding:** When the appellate affirmance of this machinegun conviction materially rests on the invalid affiliation requirement and supplies no adequate independent application of the personal arms guarantee to the actual weapons and restriction, that affirmance must be vacated for the preserved constitutional application. On remand, the lower courts must apply both stages of Core-Preservation Review in the first instance: determine constitutional coverage of the completed automatic weapon under Hale, address the disassembled weapon and its actual statutory branch where material, and then classify and justify any burden on protected activity by its practical operation.
+
+**Proposition-level authority:** Stone-Zsela's Part II-C, joined by O'Connor, Kennedy, Souter and Ginsburg, controls the direction to apply both stages of Core-Preservation Review. Stevens, Scalia, Thomas and Breyer also join the vacatur and bounded remand apart from that framework direction; the judgment is unanimous.
 
 **Limits and questions not reached:** Only the appellate affirmance of the one section 922(o) count is vacated. The existing record may suffice; ordinary additional proceedings are permitted only as needed. The Court creates no new statutory element, second machinegun count or severance of the conditional plea, and does not reopen admitted possession. It orders no empirical study, hearing, new trial, acquittal, release or return of arms. The alternative jury-instruction request returns only insofar as it remains procedurally material under the preserved plea after lawful disposition of the arms claim; no particular instruction or trial is ordered. This is not an automatic-remand rule for every arms case.
 
@@ -5775,9 +5802,9 @@ The Court affirms dismissal of both presented coverage theories. Stevens and Bre
 
 **Holding:** Invoking privacy and natural self-defense under the Ninth Amendment does not itself establish an independent constitutional immunity for this machinegun possession and destructive-device nonregistration. The asserted exemption fails without resolving the separately preserved Second Amendment application.
 
-**Proposition-level authority:** Kennedy's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela joins no part of the opinion.
+**Proposition-level authority:** Stone-Zsela's opinion of the Court; all nine Justices join this holding.
 
-**Limits and questions not reached:** No comprehensive arms scrutiny tier, closed weapons catalogue or categorical exclusion of dangerous arms is adopted. The statutory exceptions and registration limits stated below remain intact. The Court orders no acquittal, release, return of arms, new trial, automatic hearing, acceptance adjustment or particular sentence; the machinegun count and sentence return on their distinct grounds. A reserved legal challenge does not immunize false factual denials or other conduct inconsistent with actual acceptance.
+**Limits and questions not reached:** Core-Preservation Review governs restrictions on protected activity. The tier and ultimate validity of this machinegun restriction remain undecided; no closed weapons catalogue or categorical exclusion of dangerous arms is adopted. The applicable statutory exceptions and registration limits remain intact. The Court orders no acquittal, release, return of arms, new trial, automatic hearing, acceptance adjustment or particular sentence; the machinegun count and sentence return on their distinct grounds. A reserved legal challenge does not immunize false factual denials or other conduct inconsistent with actual acceptance.
 
 For the other questions in United States v. Wright, decided 1998-10-05, Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket., see Constitutional Structure, Criminal Procedure.
 
