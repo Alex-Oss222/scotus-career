@@ -38,7 +38,7 @@ Uncoordinated January 25 matters retained the common pre-group law baseline. The
 
 Each assignment follows Engine section 8. The signed plenary form and supportable opinion scope were selected before assignment; actual current-term Record opinion tables supplied the counts, eligibility, applicable pool and fit. Same-day assignment order was observed. Census drafts counted as no opinion. The Chief was outside Reno's judgment majority, so Stevens assigned its lead opinion. There was no historical-authorship default.
 
-The final counted signed leads are Stone-Zsela 4, Stevens 4, O'Connor 5, Scalia 5, Kennedy 5, Souter 5, Thomas 4, Ginsburg 5 and Breyer 4: 41 leads, with Reno/Souter last. Each Record preserves its own preassignment snapshot and any limited or judgment-only joins.
+The final counted signed leads are Stone-Zsela 5, Stevens 4, O'Connor 5, Scalia 5, Kennedy 4, Souter 5, Thomas 4, Ginsburg 5 and Breyer 4: 41 leads, with Reno/Souter last. Each Record preserves its own preassignment snapshot and any limited or judgment-only joins.
 
 The [independent nine-Record review](OT_1998CHUNK4_RECORD_REVIEW.md) found no unresolved defect in final votes, opinion joins, Stone compatibility, governing qualifications, remedies, assignment or Justice-specific departures. During this unfinished Run's validation, AT&T Holding IX's two descriptions were expanded to state the already-supplied exceptions' complete triggers and comparators. This clarified the original coverage without changing a frozen ground, vote, controlling proposition, remedy or assignment. Both core and public occurrences match. The internal note records the clarification; no workflow label enters the public text.
 

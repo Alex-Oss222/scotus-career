@@ -73,11 +73,11 @@
   "assignment": {
     "assigning_justice": "Stone-Zsela",
     "prior_counts": {
-      "Stone-Zsela": 12,
+      "Stone-Zsela": 13,
       "Stevens": 12,
       "O'Connor": 12,
       "Scalia": 12,
-      "Kennedy": 13,
+      "Kennedy": 12,
       "Souter": 12,
       "Thomas": 12,
       "Ginsburg": 12,
@@ -95,7 +95,7 @@
       "Kennedy"
     ],
     "chosen_author": "O'Connor",
-    "basis": "Fit: her Hazen Paper opinion performs the central distinction between intentional conduct and knowing/reckless illegality without extra outrage; her frozen Meritor-based punitive-agency position supports every lead proposition. She has the lower count than Kennedy and no unresolved join barrier."
+    "basis": "Fit: her Hazen Paper opinion performs the central distinction between intentional conduct and knowing/reckless illegality without extra outrage; her frozen Meritor-based punitive-agency position supports every lead proposition. She and Kennedy have the same count and no unresolved join barrier."
   },
   "delegated_new_stone_substance_used": false,
   "checks": {

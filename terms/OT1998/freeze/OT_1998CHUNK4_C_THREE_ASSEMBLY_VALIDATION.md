@@ -6,13 +6,13 @@ Scope: these three final C matters only. Reno is excluded. This is an internal v
 
 | Event | Author | Counts immediately before assignment: Stone / Stevens / O'Connor / Scalia / Kennedy / Souter / Thomas / Ginsburg / Breyer | Last counted event |
 |---|---|---|---|
-| Abate, February 18 | Breyer | 4 / 4 / 4 / 5 / 4 / 4 / 4 / 5 / 3 | Boring, February 17 |
-| NCAA, February 23 | O'Connor | 4 / 4 / 4 / 5 / 4 / 4 / 4 / 5 / 4 | Abate, February 18 |
-| Your Home, February 23 | Kennedy | 4 / 4 / 5 / 5 / 4 / 4 / 4 / 5 / 4 | NCAA, February 23 |
+| Abate, February 18 | Breyer | 5 / 4 / 4 / 5 / 3 / 4 / 4 / 5 / 3 | Boring, February 17 |
+| NCAA, February 23 | O'Connor | 5 / 4 / 4 / 5 / 3 / 4 / 4 / 5 / 4 | Abate, February 18 |
+| Your Home, February 23 | Kennedy | 5 / 4 / 5 / 5 / 3 / 4 / 4 / 5 / 4 | NCAA, February 23 |
 
-Each count was recomputed from actual earlier opinion tables before the assignment. Abate's eligible set was all nine and its pool excluded only Scalia and Ginsburg. NCAA's eligible set and pool were all nine. Your Home's eligible set and pool were the eight Associates; Stone's approved grounds did not support the complete opinion. The Records supply case-specific fit comparisons. Each form was fixed as one signed plenary opinion before counting; neither the internal section boundaries nor the count routine created another opinion.
+Each count was recomputed from actual earlier opinion tables before the assignment. Abate's eligible set was all nine and its pool excluded Stone, Scalia and Ginsburg. NCAA's eligible set was all nine and its pool excluded Stone, Scalia and Ginsburg. Your Home's eligible set was the eight Associates and its pool excluded O'Connor, Scalia and Ginsburg; Stone's approved grounds did not support the complete opinion. The Records supply case-specific fit comparisons. Each form was fixed as one signed plenary opinion before counting; neither the internal section boundaries nor the count routine created another opinion.
 
-Final counts through February 23 are 4 / 4 / 5 / 5 / 5 / 4 / 4 / 5 / 4, last counted Your Home. Stopped matters provide no count.
+Final counts through February 23 are 5 / 4 / 5 / 5 / 4 / 4 / 4 / 5 / 4, last counted Your Home. Stopped matters provide no count.
 
 ## Chronology and substance
 

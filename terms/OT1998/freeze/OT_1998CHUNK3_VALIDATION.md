@@ -23,7 +23,7 @@ Assignments were made one at a time from the actual preceding opinion tables, us
 | Humana v. Forsyth | Affirm surviving Co-Payor branch on reviewed question, 9–0 | Ginsburg | Actual impairment inquiry; no retrospective Nevada private remedy or revival of rejected claims. |
 | Lopez v. Monterey County | Reverse dismissal and remand; set aside dependent tenure disposition to stated extent, 9–0 | Thomas | Eight Associates join all parts. Stone's express grounds and limited disposition-only fallback are separately identified. |
 
-After these eleven new signed leads, the term totals are Stone-Zsela 3, Stevens 4, O'Connor 4, Scalia 4, Kennedy 4, Souter 3, Thomas 3, Ginsburg 4 and Breyer 3. Roberts adds no count. No Chief assignment falls outside its eligible balance pool; Stevens's State Street assignment is properly outside the Chief's assignment authority and still counts.
+After these eleven new signed leads, the term totals are Stone-Zsela 4, Stevens 4, O'Connor 4, Scalia 4, Kennedy 3, Souter 3, Thomas 3, Ginsburg 4 and Breyer 3. Roberts adds no count. No Chief assignment falls outside its eligible balance pool; Stevens's State Street assignment is properly outside the Chief's assignment authority and still counts.
 
 ## Effective isolated handoffs
 

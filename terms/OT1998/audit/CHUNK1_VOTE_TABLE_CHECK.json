@@ -13,7 +13,7 @@
       "errors": [],
       "unaudited": [],
       "checked_vote_rows": 3,
-      "checked_opinion_rows": 1
+      "checked_opinion_rows": 3
     },
     {
       "record": "hiley_v_barrett_merits_1998-10-09.md",
@@ -85,7 +85,7 @@
       "errors": [],
       "unaudited": [],
       "checked_vote_rows": 6,
-      "checked_opinion_rows": 2
+      "checked_opinion_rows": 5
     }
   ],
   "errors": 0,

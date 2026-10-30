@@ -26,7 +26,7 @@ Potential lead structure, subject to Stone's actual approved joins: Part I, name
 
 ## Assignment data only
 
-Actual Record opinion-table recount preceding February 24, 1999: Stone-Zsela 4; Stevens 4; O'Connor 5; Scalia 5; Kennedy 5; Souter 4; Thomas 4; Ginsburg 5; Breyer 4. The last counted event is Your Home Visiting Nurse Services v. Shalala, February 23, 1999, Kennedy. Forty signed lead opinions count; summary, per curiam and procedural acts do not. Among the five full ground-A Associates the minimum is four and all five are within one of it. Stone's eligibility, assignment authority and comparison remain dependent on his approved position. No author is selected in this note.
+Actual Record opinion-table recount preceding February 24, 1999: Stone-Zsela 5; Stevens 4; O'Connor 5; Scalia 5; Kennedy 4; Souter 4; Thomas 4; Ginsburg 5; Breyer 4. The last counted event is Your Home Visiting Nurse Services v. Shalala, February 23, 1999, Kennedy. Forty signed lead opinions count; summary, per curiam and procedural acts do not. Among the five full ground-A Associates the minimum is four and all five are within one of it. Stone's eligibility, assignment authority and comparison remain dependent on his approved position. No author is selected in this note.
 
 ## Public and internal boundaries
 

@@ -14,14 +14,14 @@ Authors came from actual OT1998 public opinion tables, once per delivering Justi
 
 | Before assignment | Stone-Zsela | Stevens | O'Connor | Scalia | Kennedy | Souter | Thomas | Ginsburg | Breyer | Author |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---|
-| Minns | 4 | 4 | 6 | 5 | 5 | 6 | 4 | 5 | 5 | Thomas |
-| Blaze | 4 | 4 | 6 | 5 | 5 | 6 | 5 | 5 | 5 | Stevens |
-| Holloway | 4 | 5 | 6 | 5 | 5 | 6 | 5 | 5 | 5 | Ginsburg |
-| Peguero | 4 | 5 | 6 | 5 | 5 | 6 | 5 | 6 | 5 | Scalia |
-| Sullivan | 4 | 5 | 6 | 6 | 5 | 6 | 5 | 6 | 5 | Kennedy |
-| Cedar Rapids | 4 | 5 | 6 | 6 | 6 | 6 | 5 | 6 | 5 | Stevens |
+| Minns | 5 | 4 | 6 | 5 | 4 | 6 | 4 | 5 | 5 | Thomas |
+| Blaze | 5 | 4 | 6 | 5 | 4 | 6 | 5 | 5 | 5 | Stevens |
+| Holloway | 5 | 5 | 6 | 5 | 4 | 6 | 5 | 5 | 5 | Ginsburg |
+| Peguero | 5 | 5 | 6 | 5 | 4 | 6 | 5 | 6 | 5 | Scalia |
+| Sullivan | 5 | 5 | 6 | 6 | 4 | 6 | 5 | 6 | 5 | Kennedy |
+| Cedar Rapids | 5 | 5 | 6 | 6 | 5 | 6 | 5 | 6 | 5 | Stevens |
 
-All six count tables and last-event statements match. Full-lead pools: Minns?Thomas, Kennedy, Breyer; Blaze?Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer; Holloway?Stone-Zsela, Stevens, Kennedy, Ginsburg, Breyer; Peguero?all eight Associates; Sullivan?Stone-Zsela, Kennedy, Thomas, Breyer; Cedar Rapids?the six affirming Associates. Every selected author qualifies. No author division is required. After Cedar the counts in table order are 4, 6, 6, 6, 6, 6, 5, 6, 5.
+All six count tables and last-event statements match. Full-lead pools: Minns?Thomas, Kennedy, Breyer; Blaze?Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg, Breyer; Holloway?Stone-Zsela, Stevens, Kennedy, Ginsburg, Breyer; Peguero?Stevens, Scalia, Kennedy, Thomas, Breyer; Sullivan?Stone-Zsela, Kennedy, Thomas, Breyer; Cedar Rapids?the six affirming Associates. Every selected author qualifies. No author division is required. After Cedar the counts in table order are 5, 6, 6, 6, 5, 6, 5, 6, 5.
 
 ## Legal and projection checks
 

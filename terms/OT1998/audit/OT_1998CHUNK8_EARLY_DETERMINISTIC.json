@@ -107,14 +107,14 @@
   },
   "GOLDSMITH": {
     "actual_counts": {
-      "Kennedy": 8,
-      "Souter": 9,
+      "Stone-Zsela": 9,
+      "Stevens": 8,
       "O'Connor": 10,
+      "Scalia": 8,
+      "Kennedy": 7,
+      "Souter": 9,
       "Thomas": 8,
       "Ginsburg": 8,
-      "Stone-Zsela": 8,
-      "Stevens": 8,
-      "Scalia": 8,
       "Breyer": 9
     },
     "receipt_counts_match": true,
@@ -145,14 +145,14 @@
   },
   "WHITE": {
     "actual_counts": {
-      "Kennedy": 9,
-      "Souter": 9,
+      "Stone-Zsela": 9,
+      "Stevens": 8,
       "O'Connor": 10,
+      "Scalia": 8,
+      "Kennedy": 8,
+      "Souter": 9,
       "Thomas": 8,
       "Ginsburg": 8,
-      "Stone-Zsela": 8,
-      "Stevens": 8,
-      "Scalia": 8,
       "Breyer": 9
     },
     "receipt_counts_match": true,
@@ -183,14 +183,14 @@
   },
   "HUNT": {
     "actual_counts": {
-      "Kennedy": 9,
-      "Souter": 9,
+      "Stone-Zsela": 9,
+      "Stevens": 8,
       "O'Connor": 10,
+      "Scalia": 8,
+      "Kennedy": 8,
+      "Souter": 9,
       "Thomas": 9,
       "Ginsburg": 8,
-      "Stone-Zsela": 8,
-      "Stevens": 8,
-      "Scalia": 8,
       "Breyer": 9
     },
     "receipt_counts_match": true,
@@ -221,14 +221,14 @@
   },
   "RUHRGAS": {
     "actual_counts": {
-      "Kennedy": 9,
-      "Souter": 9,
+      "Stone-Zsela": 9,
+      "Stevens": 8,
       "O'Connor": 10,
+      "Scalia": 8,
+      "Kennedy": 8,
+      "Souter": 9,
       "Thomas": 9,
       "Ginsburg": 9,
-      "Stone-Zsela": 8,
-      "Stevens": 8,
-      "Scalia": 8,
       "Breyer": 9
     },
     "receipt_counts_match": true,

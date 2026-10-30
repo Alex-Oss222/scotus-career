@@ -9,11 +9,11 @@
   "recount": "freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECOUNT.json",
   "recount_sha256": "ea21ba70d9d3ab2c0e002b74dfbc7e8f3ccfffdfa0a2ac2c7f419dee5502be31",
   "fresh_counts": {
-    "Stone-Zsela": 13,
+    "Stone-Zsela": 14,
     "Stevens": 12,
     "O'Connor": 14,
     "Scalia": 12,
-    "Kennedy": 14,
+    "Kennedy": 13,
     "Souter": 13,
     "Thomas": 12,
     "Ginsburg": 13,

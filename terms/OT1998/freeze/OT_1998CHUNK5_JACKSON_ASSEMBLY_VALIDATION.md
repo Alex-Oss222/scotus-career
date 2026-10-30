@@ -12,9 +12,9 @@ The cost formula was checked in the complete supplied period statute. It pays ed
 
 ## Assignment and arithmetic
 
-Immediately before assignment, actual prior Record opinion tables were freshly recounted in effective-date/alphabetical order. The saved recount lists 51 signed leads, with counts Stone-Zsela 5; Stevens 6; O'Connor 6; Scalia 6; Kennedy 6; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. NFFE/FLRA, March 3, Stone-Zsela, is the last counted event. The Germany original/interim explanation, Stewart certiorari order, per curiam/unsigned actions and separate writings do not count. Gable supplies no count.
+Immediately before assignment, actual prior Record opinion tables were freshly recounted in effective-date/alphabetical order. The saved recount lists 51 signed leads, with counts Stone-Zsela 6; Stevens 6; O'Connor 6; Scalia 6; Kennedy 5; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. NFFE/FLRA, March 3, Stone-Zsela, is the last counted event. The Germany original/interim explanation, Stewart certiorari order, per curiam/unsigned actions and separate writings do not count. Gable supplies no count.
 
-Stevens assigns as senior in the actual vacatur coalition. Full-lead eligibility is Stevens, O'Connor, Souter, Ginsburg and Breyer. All five meet the illustrative balance-pool range, though that Chief-only rule does not bind Stevens. O'Connor is selected for her own private-benefit/expenditure and fitted-remedy writings; this carries the existing narrow common ground without inventing a changed join. One O'Connor lead counts. Counts after Jackson are 5, 6, 7, 6, 6, 6, 5, 6, 5 in the same order.
+Stevens assigns as senior in the actual vacatur coalition. Full-lead eligibility is Stevens, O'Connor, Souter, Ginsburg and Breyer. All five meet the illustrative balance-pool range, though that Chief-only rule does not bind Stevens. O'Connor is selected for her own private-benefit/expenditure and fitted-remedy writings; this carries the existing narrow common ground without inventing a changed join. One O'Connor lead counts. Counts after Jackson are 6, 6, 7, 6, 5, 6, 5, 6, 5 in the same order.
 
 ## Current law and source limits
 

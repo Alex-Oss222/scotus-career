@@ -4,18 +4,26 @@
   "lead_author": "Kennedy",
   "judgment": "9–0 on all three federal components",
   "count_before": {
-    "Stone-Zsela": 6,
+    "Stone-Zsela": 7,
     "Stevens": 7,
     "O'Connor": 7,
     "Scalia": 7,
-    "Kennedy": 6,
+    "Kennedy": 5,
     "Souter": 7,
     "Thomas": 6,
     "Ginsburg": 6,
     "Breyer": 6
   },
   "last_counted": "minnesota_v_mille_lacs_band_merits_1999-03-24.md",
-  "eligible_and_pool": [
+  "explanation_words": [
+    175,
+    153,
+    145
+  ],
+  "git_used": false,
+  "fallback_used": false,
+  "associate_commitments_changed": false,
+  "eligible_authors": [
     "Stone-Zsela",
     "Stevens",
     "O'Connor",
@@ -26,12 +34,10 @@
     "Ginsburg",
     "Breyer"
   ],
-  "explanation_words": [
-    175,
-    153,
-    145
-  ],
-  "git_used": false,
-  "fallback_used": false,
-  "associate_commitments_changed": false
+  "balance_pool": [
+    "Kennedy",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ]
 }
