@@ -69,7 +69,7 @@
     "case": "Kravitz",
     "stage": "COMMITMENTS",
     "source": "OT_1998CHUNK1_KRAVITZ_COMMITMENTS.md",
-    "sha256": "faf22b30bf527f5e28b4a215c395c41e73855de69d949548e057415e62a45342"
+    "sha256": "f8f478664c4c1af1fd25bd89428a03bc65fed41529c85bb94f7419805028627f"
   },
   {
     "case": "Wright",
@@ -141,6 +141,6 @@
     "case": "Kravitz",
     "stage": "RECONCILED",
     "source": "OT_1998CHUNK1_KRAVITZ_RECONCILED.md",
-    "sha256": "8ddc6dc0b78db1778eb592782631f2a89e69220d68ee809abc616a3943bdafff"
+    "sha256": "48194a865b34503d6b7661dcc1424542d849277d5b39df464eea01964c5ce5af"
   }
 ]

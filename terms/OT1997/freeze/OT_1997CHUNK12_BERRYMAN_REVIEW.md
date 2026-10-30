@@ -1,6 +1,6 @@
 # OT1997 chunk 12 — independent Berryman review
 
-No unresolved substantive, join, remedy, form or assignment discrepancy remains in [the August 3 Berryman Record](../records/berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md). Final raw-file SHA-256: `a5831b0f696bd76e90931827136bbfdfb49eb90184b0117103e3dcf4ab19546e`.
+No unresolved substantive, join, remedy, form or assignment discrepancy remains in [the August 3 Berryman Record](../records/berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md). Final raw-file SHA-256: `17eb06b23543c7348f9695b911c5a0cb2ebfed1f26b19aaf7c73b01fad4c55f0`.
 
 Review used the final reconciled commitments, exact scoped Stone supplement, frozen August 3 neutral packet and exact sanctions-law blocks, the relevant dated public-law context, Engine sections 4 and 8, and the complete final Record. The August 3 snapshot hash matches `cc478638a604ee836754a24fc3b9edb5242cf8a66612726aa561b184a595e4e3`. This review does not claim recovery of missing original papers or a historical Supreme Court disposition. No Record, earlier review artifact or protected adjudication was edited by the reviewer; no Git operation, top-level private-path access or future Brewster Stone access occurred.
 

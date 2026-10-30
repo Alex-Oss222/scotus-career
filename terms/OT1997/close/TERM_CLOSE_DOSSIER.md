@@ -36,9 +36,9 @@ Publication preserves each audited candidate apart from the three common header 
 |---|---|
 | [case-list.md](../case-list.md) | `605d4b01437126f628a5db5bf800c362a00877d1f12e98306c84ca1c940cf381` |
 | [workspace/manifest.md](../workspace/manifest.md) | `f1295ba248b698a1216ceb0ea15e4478f7ec4bb027271ab1696aaaf1e80d6978` |
-| [workspace/ledger.md](../workspace/ledger.md) | `22a28c0fc1fd0e439fb3f3dac4a98728a8df1626ccf435627da083d030193e66` |
-| [workspace/continuity.md](../workspace/continuity.md) | `cd297e851876749c30697e47daf87623d9f6ad6261d46e1d44ce372809df5229` |
-| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `6dc811d4d0f38dc3f7754eadd4786b80b5f4f937521088e536cdde4506fac109` |
+| [workspace/ledger.md](../workspace/ledger.md) | `7291f3195b7b9bf0d677dd1fe2ac50dfa9878afef91590e4f3fa762dacd80370` |
+| [workspace/continuity.md](../workspace/continuity.md) | `ce0969f643599749ceddab181fd356677af4edd5e4a75a1ab834da11e31aea34` |
+| [workspace/neutral-projection.md](../workspace/neutral-projection.md) | `cc2e5f58d9346489128d8e4d110701e02dc117ada9bff33c9c0eff9d64221922` |
 
 The final manifest marks all 160 scheduled rows completed. The final continuity note preserves the public positions and source limits of all thirteen chunks and the effective statutory admission. Its date cursor is not an exhaustive external-event search. Those inputs remain unchanged during publication. The pending docket below is copied from the audited Standing State candidate; completion of a financial motion, interim application or remand supplies no additional terminal Supreme Court action.
 
@@ -231,8 +231,8 @@ Each Record linked below is incorporated in full, including its exact judgment, 
 | 1998-09-28 | [Ino Ino, Inc. v. City of Bellevue; No. 97-858; Washington Nos. 62941-2, 62939-1 and 62940-4.](../records/ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md) | Operational and narrowed-overbreadth rulings affirmed, 9–0; protected-expression application of the outdoor-visibility prohibition reversed, 8–1; both fee dispositions vacated to the stated extent and remanded, 9–0; independent state protection untouched. | `de2354bd0adff5775090c125d5a69432d0dc8654140b10709141d9cc0a77d9db` |
 | 1998-09-28 | [Lucas v. Johnson; Fifth Circuit No. 96-10389; 132 F.3d 1069.](../records/lucas_v_johnson_merits_1998-09-28.md) | Affirm specified live-claim denials; claim 9 affirmed 5–4; claim 15 vacated/remanded 5–4; death-only requests moot 9–0 with partial vacatur 8–1; no writ or hearing ordered. | `5cd6a7ddb076d7efe1752370f016fafa0d655aa3336c3af70a69c11b89a9df79` |
 | 1998-09-28 | [Newton County Wildlife Association v. Rogers; No. 97-774; Eighth Circuit Nos. 96-1994 and 96-3463.](../records/newton_county_wildlife_association_v_rogers_merits_1998-09-28.md) | Completed-plan request and superseded preliminary MBTA interval disposed of as moot with limited vacatur, 9–0; actual MBTA-claim dismissal vacated and remanded, 5–4. | `24b46bcb5302bd9f1cb8ddbd9e2b65a3013770c46dc52ac9762ceedcc7f4b196` |
-| 1998-09-28 | [Securities and Exchange Commission v. First Jersey Securities, Inc.; No. 96-1862.](../records/securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md) | Affirm the Second Circuit judgment, 9–0; preserve its reversal of the investigative Special Agent appointment. | `77a7473300f3b1cfff854bf3a0a79858035e863ef7f015963c91a04ffd230cfe` |
-| 1998-09-28 | [United States ex rel. McKenzie v. BellSouth Telecommunications, Inc.; No. 97-850.](../records/united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md) | Vacate the qui tam dismissal, affirm the separate retaliation reversal, and remand, 9–0. | `d388889802d400f15256c50109987bf0ae65e4a3cf5fa6c6a1bf3e0296f4ec9e` |
+| 1998-09-28 | [Securities and Exchange Commission v. First Jersey Securities, Inc.; No. 96-1862.](../records/securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md) | Affirm the Second Circuit judgment, 9–0; preserve its reversal of the investigative Special Agent appointment. | `45008e537172922063c42d326080d4bb335ede6550601187777da7a927ba4d0e` |
+| 1998-09-28 | [United States ex rel. McKenzie v. BellSouth Telecommunications, Inc.; No. 97-850.](../records/united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md) | Vacate the qui tam dismissal, affirm the separate retaliation reversal, and remand, 9–0. | `decfbaafb297dfcc45e0a4df26042747f4d7449d74d382a0260f2cd0d0a6a123` |
 
 ## Controlling Commerce decisions
 
@@ -447,7 +447,7 @@ Published-file identities:
 | [state/HOLDINGS.md](../../../state/HOLDINGS.md) | `8dc4728d390a81db736fe62e7ab9dc03b8107fdd346d1e73bfa150610550bf07` |
 | [state/STANDARDS_AND_TESTS.md](../../../state/STANDARDS_AND_TESTS.md) | `baeb6c3d6b9c3977218fc62568f131124c45b4e58c2e36a2d6f05d634974dbb3` |
 | [state/STANDING_STATE.md](../../../state/STANDING_STATE.md) | `f2ec2f1fb8545492e3d166e7ec02795824e7ac644bc8ebc43148b4834e1907cd` |
-| [terms/OT1997/INDEX.md](../INDEX.md) | `545ea3007924914dac9014286773019cd8ac377b4a101c7a17b75f501d06b47b` |
+| [terms/OT1997/INDEX.md](../INDEX.md) | `591ccbd6379e510783e558900ad5f1210f750d7ed6a956906d2e9678cfb49abc` |
 | [terms/OT1997/close/SEPARATE_WRITINGS.md](SEPARATE_WRITINGS.md) | `ccab512654f022cf8eb31d8766ea5664c275db1b6ce8f68d3dca77687a49cc41` |
 | [terms/OT1997/close/DEPARTURES.md](DEPARTURES.md) | `1a5a3b5965393c96eafe7ad586b831c458660d7c9903adca4fd6ef7a072ddf65` |
 | [terms/OT1997/close/CONSEQUENCES.md](CONSEQUENCES.md) | `99a9bb54552c8c6def29ba4838c143c223707e68b2f31b25870e6f671be33c4c` |

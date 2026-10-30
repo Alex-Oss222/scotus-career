@@ -8,11 +8,11 @@ Input digests identify the files containing the authorized reading portions; the
 
 | Input | SHA-256 |
 |---|---|
-| `freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md` | `2169f50cdfeb2c3053eddcdd7133a18001a33a0bd4418dc7d57729337926b577` |
+| `freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md` | `c1ddce3f826da7a82d7e3a58b27f0eb2fec1554642f7159df76c005994a6f758` |
 | `runtime/OT_1998CHUNK6_B_NEUTRAL.md` | `a280e2f1866225cbe329ebb914233ecb1026261f58615c55c5fa1b2f6384b058` |
 | `entering-law/OT_1998CHUNK6_B_FRESH_SELECTED.md` | `31a968be74f1aa5180ecee5efba1ee59c7ad00bf6cd5ec790a652bdf5bb0bc97` |
 | `runtime/OT_1998CHUNK6_CONN_OBJECTIVE_RECORD.md` | `51dc0c9b1a3d7766c29c926551e3b169f1906ea0d1c67f0ac4fe8ed8ddf6a7b7` |
 | `runtime/OT_1998CHUNK6_OBJECTIVE_HEADERS.md` | `989737a45c70a58a50515e60cef13de582bd679ce2fc7b059b1bfeb322f6fc11` |
-| `workspace/neutral-projection.md` | `20daee432e5e68ea22e09e757e540db81dad6f4fdeeeba49ab6b5cefcda2540d` |
+| `workspace/neutral-projection.md` | `eb94a144cea4d2661570748d97db5eff933803937698299d030f9376aec34c11` |
 
 Pending controls: historical reconciliation, Stone assembly, final event-date law review and adjudication-stage validation. No Git operation was used.

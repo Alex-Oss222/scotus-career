@@ -180,7 +180,7 @@ The seven sustaining Associates identify no admission error on the claims they r
 
 ---
 
-<!-- frozen-source: OT_1995CHUNK3_RESUMED_HALE_RECONCILED.md; sha256: ba14b1b0c78dbc574b6ac8331ad7c20a88f22e4ba70f562ce22be070b390f1a2 -->
+<!-- frozen-source: OT_1995CHUNK3_RESUMED_HALE_RECONCILED.md; sha256: 491b5fbab1e63f209fe9371bdfe3064400f4ec91e2c764b7c24ca65db7a7c032 -->
 # United States v. Hale — historical reconciliation
 
 **Event:** Expressly assigned merits review, February 12, 1996; Eighth Circuit No. 91-3830, 978 F.2d 1016. No separate Supreme Court docket, grant wording or argument date is established.
@@ -308,7 +308,7 @@ SHA256 values identify the permitted frozen bytes read in this stage. No source,
 
 | Input | SHA256 |
 |---|---|
-| `freeze/OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_INPUT.md` | `39053dded045ceca3f0428d61b1196e411cdb5dbffc51593e9163e3a8de3d129` |
+| `freeze/OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_INPUT.md` | `9c460168499c2e0149cd8b304bb5d21adbd8498b4944260c1aa9833a2fd5885e` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_PRIOR_NEUTRAL_ADDENDUM.md` | `ac52f488edfd3024f3bf10d8806ab5c0af85d6cc272900ad2e1763755011692d` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_NEUTRAL_VALIDATED.md` | `6684c66a6103f6a8b79d692fd10ab2a4f8a25426fd2589edada442fcc6472fbd` |
 | `freeze/OT_1995CHUNK3_RESUMED_HALE_COMMITMENTS.md` | `5c142f0b1da62464282e42f0ddcc1d2ebaa4a21a35f8a19be397f25f850c0eda` |

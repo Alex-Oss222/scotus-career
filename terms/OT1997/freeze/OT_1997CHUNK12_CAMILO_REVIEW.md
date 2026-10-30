@@ -1,6 +1,6 @@
 # OT1997 chunk 12 — independent Camilo-Robles review
 
-No unresolved substantive, join, remedy, assignment or format discrepancy remains in [the July 20 Camilo-Robles Record](../records/camilo_robles_v_hoyos_merits_1998-07-20.md). Final raw-file SHA-256: `8f3efea595f1474dbb3f1783ff4a20e2da0cf4f78f9174e33b3428bdadc0cdf1`.
+No unresolved substantive, join, remedy, assignment or format discrepancy remains in [the July 20 Camilo-Robles Record](../records/camilo_robles_v_hoyos_merits_1998-07-20.md). Final raw-file SHA-256: `ffc40075ae8fa8912e6f7d59838d31a473531012e141f9477c3c22f9833944e2`.
 
 The reviewer read the final reconciled commitments, exact scoped Stone supplement, July 20 neutral packet, preconduct-authority addendum, relevant actual public authority in the July 20 entering-law slice, and the final Record. The slice's checked hash remains `3b5c1cb7ef55311cd67d209fea7199f270bb8dcf10057bbfee4ac9a48b14ef2b`. This was assembly review, not renewed modeling, source recovery or a full-term audit. No future-case Stone material, top-level private directory or Git operation was used. The reviewer edited no Record.
 

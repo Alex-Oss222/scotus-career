@@ -4,7 +4,7 @@
   "final_snapshot_commit_reference_as_supplied": "24a465e",
   "final_snapshot": {
     "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md",
-    "sha256": "8012c6c0c65f2313d0d7772d764cd84530f7820a95d5fe81d74f692294b9a69b"
+    "sha256": "faba63469d5714f13743e6357d5ebb6ffda9d36aa1ed6f9c310aa6f1f0e1d083"
   },
   "public_decisions_read_in_full": [
     {
@@ -61,23 +61,23 @@
   "authorized_snapshot_chain": [
     {
       "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_CURRENT_LAW.md",
-      "sha256": "cf4ddd067dffc1745958bed4b0ccb5d7fa5ede4573c7f279b8439485911e4bca"
+      "sha256": "b613d5ca31ad3b90786e06b8d39e6375e567321bdba4367d6433a2de8de8e430"
     },
     {
       "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-25.md",
-      "sha256": "218f863dd433e68b13d03406d7efeba982d770f014a60f07653f46db44b81e55"
+      "sha256": "40ff31f1219208f32106c4db803bd4b6b736dcf5133fc8c8ab79f8d9fcee02e7"
     },
     {
       "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md",
-      "sha256": "243708991f71b864854615e69e1b3c7fbc8d18b6b9269cead5c92f96e9d78f56"
+      "sha256": "b0d25e17851e189e2cde391e5848a95ead3e12bf677e7acbaa9e723e14afa259"
     },
     {
       "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md",
-      "sha256": "df9f42e54111b8773ed103bfe7cd6bd014dc05aea94c3e5dbaf0ea0cf1f33105"
+      "sha256": "9e2e801fd0307b13f34ee87761f5b0b83276438ae819c244211347988f0be6c3"
     },
     {
       "path": "terms/OT1995/entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-04-01.md",
-      "sha256": "8012c6c0c65f2313d0d7772d764cd84530f7820a95d5fe81d74f692294b9a69b"
+      "sha256": "faba63469d5714f13743e6357d5ebb6ffda9d36aa1ed6f9c310aa6f1f0e1d083"
     }
   ],
   "snapshot_review": "All changes between the authorized March 18 baseline and supplied March 25, March 26, March 27 and April 1 snapshots were personally reviewed. No material public-law conflict or omitted supplied earlier event found.",

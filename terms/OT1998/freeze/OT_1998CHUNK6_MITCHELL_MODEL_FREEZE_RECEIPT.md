@@ -20,7 +20,7 @@ The digests below are content identities, not repository-history identifiers. Th
 |---|---|
 | terms/OT1998/runtime/OT_1998CHUNK6_MITCHELL_NEUTRAL.md | bfa745a4d6d9d42c3a9f24c8c8a69e0a03208677269f25f5d468798318e58988 |
 | terms/OT1998/runtime/OT_1998CHUNK6_MITCHELL_OBJECTIVE_RECORD.md | 2da3b115cc64ce7264502d00bca84229d2d6770bf1166a71d172f402692a7c43 |
-| terms/OT1998/freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md | 2169f50cdfeb2c3053eddcdd7133a18001a33a0bd4418dc7d57729337926b577 |
+| terms/OT1998/freeze/OT_1998CHUNK6_B_FRESH_PREFLIGHT.md | c1ddce3f826da7a82d7e3a58b27f0eb2fec1554642f7159df76c005994a6f758 |
 | terms/OT1998/entering-law/OT_1998CHUNK6_B_FRESH_SELECTED.md | 31a968be74f1aa5180ecee5efba1ee59c7ad00bf6cd5ec790a652bdf5bb0bc97 |
 | terms/OT1998/entering-law/jones_v_united_states_merits_1999-03-24.md | a57d38ea3380e1d8174269862ba6e492cc2cee3fafb0e455962652492206497e |
 | terms/OT1998/entering-law/OT_1998CHUNK6_EFFECTIVE_THROUGH_1999-03-30.md | 7ad66e802423645fbd9c6750b2c2ac62f6e93c702b4e125c288fb56f0dac70f4 |

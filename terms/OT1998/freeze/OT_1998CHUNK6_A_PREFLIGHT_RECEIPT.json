@@ -19,7 +19,7 @@
     {
       "source": "terms/OT1998/runtime/OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
-      "sha256": "bd7280f8fbc37b8c5e2043e7acd05f6162fd260d6da31d2a894fe40543adc6b8",
+      "sha256": "a39ab973dca779c7cb9a5a9b91097d7278af7a8a21e28abfabfa28e3bbd4e7c5",
       "bytes": 31617
     },
     {
@@ -43,7 +43,7 @@
     {
       "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
-      "sha256": "ef92efea31bcae7cbde9612f105c4e87cb288bb1c75d34e29e4cd0fc79caa1a7",
+      "sha256": "b6d562048244845de760de19ea5dbff58beb374d0ec8186f2f65da5868700021",
       "bytes": 34193
     },
     {
@@ -59,6 +59,6 @@
       "bytes": 53023
     }
   ],
-  "neutral_projection_sha256": "20daee432e5e68ea22e09e757e540db81dad6f4fdeeeba49ab6b5cefcda2540d",
+  "neutral_projection_sha256": "eb94a144cea4d2661570748d97db5eff933803937698299d030f9376aec34c11",
   "large_tool_generated_slice_sha256": "429aa3e1c94df9195edc08b6e43099fdf40c71642f1ee16098175ad59bd4fd9a"
 }

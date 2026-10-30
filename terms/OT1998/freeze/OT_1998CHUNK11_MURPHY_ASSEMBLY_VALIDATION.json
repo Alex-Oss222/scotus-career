@@ -153,13 +153,13 @@
     "foundation/RENDER_CONTRACT.md": "a689b0680371a70cdcf6a7351466f80194d94426e96c1afe3ce6858921ea3db4",
     "foundation/COURT_COMPOSITION.md": "1d5f10f2060f661abc44060e62b8ebcb9afd348c1dbfc2cfe51eca0d4ebf6c99",
     "terms/OT1998/freeze/OT_1998CHUNK11_MURPHY_NEUTRAL.md": "23428340c55483b1d17995c8eec2e55127eaff72784035f3d001bf6be5e12c5a",
-    "terms/OT1998/entering-law/OT_1998CHUNK11_MURPHY.md": "b28625e474f4c42f3b5e2b6e0b4f29ae705a69af1a454354ab9f72194e15c7a1",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_MURPHY.md": "f6ea30f31f5c8c70ee371a08cdb157f1cd4f71709403003cb1ef2dfc19a63502",
     "terms/OT1998/freeze/OT_1998CHUNK11_MURPHY_COMMITMENTS.md": "2390db1f57a4fdf88e3805655f8b71b915997381cc80ff1c430760f7a5b00e33",
     "terms/OT1998/freeze/OT_1998CHUNK11_MURPHY_RECONCILED.md": "917ed0e6f94a7325a34b4f22df2d88e9cd26b1cf8176144ca5cc8579faeb1d89",
     "terms/OT1998/runtime/chunk11-scoped/MURPHY_STONE.md": "0ed7acf550f8bf04630427e4a0fe28253a584d0ba17ba6bd5154bb2069fdf887",
     "terms/OT1998/sources/chunk11-root-scope/MURPHY_SCOPE_FACTS.md": "5a4a3a946145a490afb6dcda2f4118c241e03d1d15420f356fa87de90200aa3d",
     "terms/OT1998/runtime/chunk11-scoped/murphy_lower_opinion.txt": "02bc87f67e61a21f078897b4adc7b3d55fbe6167b6bdce2c8686fb4c70c51358",
-    "terms/OT1998/freeze/OT_1998CHUNK11_MURPHY_RECOUNT.json": "ae66e6776d95053d6b968b6663c6695c04716e4a3d0c7999aa863c484d39cd04"
+    "terms/OT1998/freeze/OT_1998CHUNK11_MURPHY_RECOUNT.json": "97400c71349f7949176a95a88e725855f5254089945eff1f2c55048b50219068"
   },
   "component_votes": [
     {
@@ -312,7 +312,7 @@
     }
   ],
   "record_path": "terms/OT1998/records/murphy_v_united_parcel_service_inc_merits_1999-06-22.md",
-  "record_sha256": "30a32a1f4eb9d938d4bfa32bf9356a0cb3f9d38e6d261af36d82dca294b98747",
+  "record_sha256": "cb241610727c92dffba5d15e9d732cc2bb0663df688f1a4a6fb01f717a2e3608",
   "research_cutoff": "1999-06-22 before uncoordinated events",
   "source_limits": [
     "No independent full medical-file, trial-transcript or unseen DOT-cover-letter recovery; verified neutral recitations retain source status.",

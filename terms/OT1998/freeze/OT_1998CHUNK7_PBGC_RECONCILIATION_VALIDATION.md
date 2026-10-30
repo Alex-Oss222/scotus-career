@@ -22,7 +22,7 @@ No material blocker remains for the bounded three-component judgment. Complete o
 ## Input hashes
 
 - `terms/OT1998/freeze/OT_1998CHUNK7_PBGC_COMMITMENTS.md`: d5caaf060b92b801103f855ff2a48b5df28fafa9178b2e05040609797b065dc1
-- `terms/OT1998/freeze/OT_1998CHUNK7_PBGC_MODEL_VALIDATION.md`: 0b0d65b4e0544af229433c0df30c69cf1b19fb6cd065419cebce60cd7eb63422
+- `terms/OT1998/freeze/OT_1998CHUNK7_PBGC_MODEL_VALIDATION.md`: e1ec4d94f983dcaa608cead979b1b8732dfb74e30ff9060d85d8920a3581d165
 - `terms/OT1998/freeze/OT_1998CHUNK7_NEUTRAL.md`: c53c3d46c8f7996578d52f33b93673cf6bc5009cd9d3d5539b00d15cf49113af
 - `terms/OT1998/freeze/OT_1998CHUNK7_NEUTRAL_PREFLIGHT.md`: b4e1761f79f736e6c8c38c2f7f4df30f01d22565270be8efa94a2d0b72563ff4
 - `terms/OT1998/freeze/OT_1998CHUNK7_NEUTRAL_SUPPLEMENT_B.md`: cc2c17046804550d3df033cf86e3b12b39df7a99d281b0131300c6c2e7aea1dd
@@ -30,7 +30,7 @@ No material blocker remains for the bounded three-component judgment. Complete o
 - `terms/OT1998/freeze/OT_1998CHUNK7_COMMON.md`: bfb5b3c4989e6ca498c033416eece50ab952fc8eaf6f3422c70f7b2c7758aa07
 - `terms/OT1998/entering-law/OT_1998CHUNK7_LAW_11_pbgc.md`: d835744454029ddeb8b195bcda73416f409ba81809329b3de5e4a1ca72e79fcd
 - `terms/OT1998/entering-law/OT_1998CHUNK7_UNUM_PUBLIC.md`: a048652be0623a75cb63e07fcd3bde86b5e19bb6bf5737ab528a07bab0064bf1
-- `terms/OT1998/entering-law/OT_1998CHUNK7_HAGGAR_PUBLIC.md`: ac1d26d3a66f1bc86416a2620ca41d3de2d086d6292cdd33041f82087ef4f2e3
+- `terms/OT1998/entering-law/OT_1998CHUNK7_HAGGAR_PUBLIC.md`: e88361b06b64fdde7b5be7640d5e5b7dbd20581d38d0a3ad87ff0433a5945e76
 - `terms/OT1998/entering-law/OT_1998CHUNK7_LASALLE_PUBLIC.md`: ddd6309238280f1c33184e74f5bb557a10bb703c8535bb628504eaade42a8773
 - `terms/OT1998/runtime/OT_1998CHUNK7_COMPARATOR.md`: 8961ed3f7f2cfad5907aee15065ae057f5b09de6c025bc8c9ab3344714034fc6
 - `terms/OT1998/sources/chunk7-control/pbgc_resource.txt`: 868b3afe7ddb71c835147190e358701973ad7e192c6ccab909a3f847c5138f00

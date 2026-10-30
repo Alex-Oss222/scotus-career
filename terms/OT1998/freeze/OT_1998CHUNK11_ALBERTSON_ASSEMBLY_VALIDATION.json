@@ -145,7 +145,7 @@
     "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_RECONCILED.md": "d0a2199a90a7a375e50756e28ee26379991cf6e2e44befb77e3f4224887a15c0",
     "terms/OT1998/runtime/chunk11-scoped/ALBERTSON_STONE.md": "c7506ba4350abf7f2455f4179a89f6aad59825ac44f98c0e591685b00b5a87c2",
     "terms/OT1998/runtime/chunk11-neutral-sources/albertson-lower-clean.txt": "65792e207454e2af3b75309e5ea46dcf7b9772fc13de4f5e1259ec14b9d252cf",
-    "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_RECOUNT.json": "34177c92a5b489dd44550db6b23407257de05c5e1a78c2acded3a731d8bdcbdd"
+    "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_RECOUNT.json": "939f5a36e0abc4e7b7c3a4d588c1261b71c7c3779241d7545000f8af26e1b4d2"
   },
   "component_votes": [
     {
@@ -257,7 +257,7 @@
     "Historical source full-review verification supplied by reconciled handoff; assembly does not claim a separate complete historical-source review."
   ],
   "record_path": "terms/OT1998/records/albertsons_inc_v_kirkingburg_merits_1999-06-22.md",
-  "record_sha256": "b45e22d511892c4a1fc6bf5a0585f4b7acddb59be0e91efbc03e43ca77230ea2",
+  "record_sha256": "fa1391c33e48f5a6f695ab7aa9accef06acd85fa8c8b156a3cd5de834100ddaa",
   "research_cutoff": "1999-06-22 before uncoordinated events",
   "workspace_and_render_integration": "not_performed_by_assembly",
   "remaining_steps": "Controller integration and chunk-level checks only; no substantive assembly blocker."

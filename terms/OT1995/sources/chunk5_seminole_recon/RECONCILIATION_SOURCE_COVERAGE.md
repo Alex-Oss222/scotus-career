@@ -38,12 +38,12 @@ The parent read the complete independent commitment file, complete validated neu
 
 | Immutable input | Supplied release | Verified SHA-256 |
 |---|---|---|
-| `OT_1995CHUNK5_SEMINOLE_COMMITMENTS.md` | 658039b | `83c23c76c8d2dc0ff9e5ed4a32a02f862b1864c8344fcba8da27e68841e77cc1` |
+| `OT_1995CHUNK5_SEMINOLE_COMMITMENTS.md` | 658039b | `1fbe0faf5941578e8d268888099ff7f628e081508ceca54794ed8a4c2179894f` |
 | `OT_1995CHUNK5_SEMINOLE_NEUTRAL_VALIDATED.md` | 208dca9 | `371046c332b529c28ada8e2a2536074986fd4579f05a0d4ab95b4d68860e1253` |
 | `OT_1995CHUNK5_SEMINOLE_US_SOURCE_ADDENDUM.md` | d5570ad | `eeac4a9d8330dcee6512322fa8bbbe9b7e3904a25fce12e4175fce3fee356160` |
 | `OT_1995CHUNK5_SEMINOLE_ARTICLE_III_SOURCE_ADDENDUM.md` | 2104134 | `62325bb44f9547310eafa934a3173cab455afed869d3074ae38c014163fc06e9` |
-| `OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md` | 45ca332 | `846f14e9b43e080ae3d3b48b94702d72abafbcf8bf8a912507f8b4a0d84d9444` |
-| `OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md` | 71a1954 | `243708991f71b864854615e69e1b3c7fbc8d18b6b9269cead5c92f96e9d78f56` |
+| `OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md` | 45ca332 | `7215cb2814b61690f3eb4e83d51f684b71b2582d60d0dc4bf2af88db79aca164` |
+| `OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md` | 71a1954 | `b0d25e17851e189e2cde391e5848a95ead3e12bf677e7acbaa9e723e14afa259` |
 | `OT_1995CHUNK5_SEMINOLE_COMPARATOR.md` | Current authorized runtime | `d0eda576bb793c30f77bb476a79191f0874cbd4cdda4802c983e467eff5d2cd4` |
 
 The large dated snapshot and 18,887-line opening entering-law slice were read **selectively**, not represented as fully read. The dated snapshot's chronology, material public-law entries and relevant recent published-position sections were checked. All four complete recent PUBLIC decisions were personally read: Varity (103 lines), Meghrig (90), Wisconsin (109), and Barnett (121), including topology, limits, remedies and source notes. Their earlier public Stone portions were permissible public law; no private material was opened.

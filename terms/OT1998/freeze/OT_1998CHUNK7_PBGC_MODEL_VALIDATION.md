@@ -17,7 +17,7 @@ Matching hashes confirm byte identity. The frozen file is the authoritative hand
 |---|---|
 | `entering-law/OT_1998CHUNK7_LAW_11_pbgc.md` | `d835744454029ddeb8b195bcda73416f409ba81809329b3de5e4a1ca72e79fcd` |
 | `entering-law/OT_1998CHUNK7_UNUM_PUBLIC.md` | `a048652be0623a75cb63e07fcd3bde86b5e19bb6bf5737ab528a07bab0064bf1` |
-| `entering-law/OT_1998CHUNK7_HAGGAR_PUBLIC.md` | `ac1d26d3a66f1bc86416a2620ca41d3de2d086d6292cdd33041f82087ef4f2e3` |
+| `entering-law/OT_1998CHUNK7_HAGGAR_PUBLIC.md` | `e88361b06b64fdde7b5be7640d5e5b7dbd20581d38d0a3ad87ff0433a5945e76` |
 | `entering-law/OT_1998CHUNK7_LASALLE_PUBLIC.md` | `ddd6309238280f1c33184e74f5bb557a10bb703c8535bb628504eaade42a8773` |
 | `sources/chunk7-control/pbgc_resource.txt` | `868b3afe7ddb71c835147190e358701973ad7e192c6ccab909a3f847c5138f00` |
 

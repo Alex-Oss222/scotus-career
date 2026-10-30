@@ -20,8 +20,8 @@ The source archive was supplied at `b83142b`. Its official URL is https://www.go
 | `freeze/OT_1995CHUNK5_SHIEH_COMMITMENTS.md` | `2dd30adf55d24e05d9b559452698408559bb892a7f7afa3cbae7c0f302cdb553` |
 | `freeze/OT_1995CHUNK5_SHIEH_NEUTRAL_VALIDATED.md` | `164b8604359744045cd2eea64a195c3a1f155b5a786f5caef187b194bd0ccb55` |
 | `freeze/OT_1995CHUNK5_APRIL1_PREPARATION.md` | `57188356c4693984f771ac70db69f08895548bfb6c216c5aea603ca0d7eaa962` |
-| `freeze/OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md` | `4c565d5384ea6897ab27a9521051adbee56725151fbdc0dfba31c4aae8b35bea` |
-| `entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md` | `df9f42e54111b8773ed103bfe7cd6bd014dc05aea94c3e5dbaf0ea0cf1f33105` |
+| `freeze/OT_1995CHUNK5_APRIL1_LAW_FRESHNESS.md` | `6af8c69cb8e824a628a6456541c8a00f64cbaee88be9c3e849ce505555a9d4d6` |
+| `entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-27.md` | `9e2e801fd0307b13f34ee87761f5b0b83276438ae819c244211347988f0be6c3` |
 | `runtime/OT_1995CHUNK5_SHIEH_COMPARATOR.md` | `b3445a0ef4a84126594d758fb615cd5c1709228ce1a259671411e2bf3bd46a68` |
 
 **Boundary outcome:** The historical Rule 39.8 rationale, April 22 paid-filing opportunity, prospective noncriminal restriction and Stevens dissent were compared, not admitted as current law or current votes. Historical earlier Supreme Court denials/warnings were not imported into the in-world record. The absence of an admitted event or an accessible source was not treated as proof of historical nonoccurrence. No new material neutral premise was extracted from the historical opinion; inherited missing-source limits remain.

@@ -4,7 +4,7 @@ Both immutable freezes are complete after the clean June 23 final entering-law s
 
 | Frozen handoff | Bytes | SHA256 | Verified input identities |
 |---|---:|---|---:|
-| `freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md` | 22544 | `d53bc1572db91d7f236cf9ecfcac7f0f3f826f5da15946a9ccf6240c149c858e` | 6 |
-| `freeze/OT_1998CHUNK11_ORTIZ_COMMITMENTS.md` | 31162 | `e720e299be1fa779ae3b40a834483099d6ce0cf3c8d72c09bbebc5f2d801e872` | 7 |
+| `freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md` | 22544 | `93afd683b35ff96a6db895541a05c02a22f1aaae44e249c0a4e0abaab653f4b0` | 6 |
+| `freeze/OT_1998CHUNK11_ORTIZ_COMMITMENTS.md` | 31162 | `f548a14fb2c99659deb75e110f0f82c724f6fd1249e6aaebf5ffa51a7077a2fe` | 7 |
 
 All eight individual rows in each freeze and all listed input byte counts/hashes were checked. The final-status markers were checked. No material neutral gap remains for the bounded modeled grounds; reconciliation remains the next separate stage. No Git operation was used.

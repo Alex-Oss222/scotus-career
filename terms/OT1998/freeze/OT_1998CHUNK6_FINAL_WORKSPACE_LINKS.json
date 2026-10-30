@@ -13,9 +13,9 @@
     }
   ],
   "workspace_hashes": {
-    "continuity.md": "3b8d75f996a0b50dc3e14a1c234e24fe25fe6bc70f46fd892f24447b1a1417e2",
+    "continuity.md": "311ad2f84eda33df71c45bc148cf94112e2f5d1de155a5b4c79f05bcccf07868",
     "ledger.md": "7101d21f9cbf38f1ecc9002f598c0d320c81a89e857eff7896c91d0e181fd504",
     "manifest.md": "6471a0561c764ae84549ce3ab966e914e9930107a366bf7b2f114a876830fcea",
-    "neutral-projection.md": "7d6c5e54fba5f5e5ff651661016de73218c139e96edf8abade1aa722844cf615"
+    "neutral-projection.md": "023021367376537b339fc000ac85be16885d01f21ef84e8375dc6318a9fa7d0f"
   }
 }

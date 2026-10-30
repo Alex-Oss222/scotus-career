@@ -3,7 +3,7 @@
   "approved_input_exports_unchanged": true,
   "records": {
     "clifton_v_federal_election_commission_merits_1998-09-14.md": {
-      "sha256": "3991dd525c520a122873f625b60fc16e3389428b57682ec4616ec1acb36c1b00",
+      "sha256": "c2f32e63dcd4aee904e6830d0e2d8225b785fb8ee3dbd2c84f233b0a00ee16d6",
       "public_normalized_sha256": "6b1f7b9f0a92abe1fe77d5e3c774a9790b5bd63262a98ef0f178141d28a41a9f",
       "ordered_blocks": [
         "Event",
@@ -20,7 +20,7 @@
       ]
     },
     "federal_election_commission_v_maine_right_to_life_committee_merits_1998-09-14.md": {
-      "sha256": "d88e597064afb03753d97645268a73ff1232589f5189a68eb54e22362b003733",
+      "sha256": "babc2fe0ca079ccb07d37d832a1aaf6a1216af9291d7ec1b160cd7cdb232e94a",
       "public_normalized_sha256": "4f8242e2bf013a6ac90256bd6841a2e4fa8ec34361cf35ee55edd28b4f288e70",
       "ordered_blocks": [
         "Event",
@@ -37,7 +37,7 @@
       ]
     },
     "federal_election_commission_v_williams_merits_1998-09-14.md": {
-      "sha256": "6de2f6c6ac3d85fae85c0ffa2670462f5b3bd55e84b39d602a7a5568fa26f6d9",
+      "sha256": "bb5e3fa88b1abf55c84f4a5c2c4bba97e99318160529ae466821832083ac270f",
       "public_normalized_sha256": "5cb957e828afa22e5d148dc6e510ceae9ca5bd802d5b956e52b69837a27a1fbd",
       "ordered_blocks": [
         "Event",
@@ -54,7 +54,7 @@
       ]
     },
     "hadix_v_johnson_merits_1998-09-14.md": {
-      "sha256": "9acec8d7504970e2ff0a866304d2d4f528b8087e68acfdb6b2337ea42b482558",
+      "sha256": "907f637647cc2605dd10b74d37c96f823d145ec2112a921ec16a7cf16b4ca7dc",
       "public_normalized_sha256": "9583045c5282608712c2e2f872cd9ba7b5793b2cbf0735abd4dd1c39c75b5268",
       "ordered_blocks": [
         "Event",
@@ -71,7 +71,7 @@
       ]
     },
     "engineering_contractors_association_v_metropolitan_dade_county_merits_1998-09-21.md": {
-      "sha256": "e27fb44dd8fb2e8d312413e1a145452d57d78021e497bd60a0c3e8b4285d47d3",
+      "sha256": "16c314d7721d813a54e6fc87b80412a4d42613f3f16b92d5589d6ac4f6c1d331",
       "public_normalized_sha256": "f7e5c95de989e57f03d6ec18d4fc9d4efd8a56fb2f35e48de4d9ea0c60f5bb55",
       "ordered_blocks": [
         "Event",
@@ -88,7 +88,7 @@
       ]
     },
     "equal_employment_opportunity_commission_v_johnson_and_higgins_merits_1998-09-21.md": {
-      "sha256": "30b0a0e3d1b014331df0cdbcc6ff9ff890d6406e52a099c0e779b6f3466d2815",
+      "sha256": "e7b396943b88c7b7d801a4c035d788875971c747442270fd97f75d9122f747be",
       "public_normalized_sha256": "27e9c14bcacf3dacbf254cc1344500a2427c7c96e9753803c9fed6322ed1726c",
       "ordered_blocks": [
         "Event",
@@ -105,7 +105,7 @@
       ]
     },
     "jordahl_v_democratic_party_of_virginia_jurisdiction_1998-09-21.md": {
-      "sha256": "706d9b61d6a72349f026cd1d19144a4b2da8338562689710d07c6dfd2001eed3",
+      "sha256": "27971b28811bcf43018978f6616097cc0d6b047e2b7cef6db531ad42944a4163",
       "public_normalized_sha256": "70275a0590b7149d0e6985bf06dc98378f6199e0a6dc53ece7dbb500ab7ef0b0",
       "ordered_blocks": [
         "Event",
@@ -122,7 +122,7 @@
       ]
     },
     "libertarian_party_of_florida_v_smith_merits_1998-09-21.md": {
-      "sha256": "aecf4d07a12dab998bdb4c602b2df2e7c58cba45ca5f77f197cba4de929bfd61",
+      "sha256": "70c283c1dbcde2441b28a16f9098c694f957513769cdcda941f4fd0565997eea",
       "public_normalized_sha256": "fa9ecc7d9e30ff3ff3d37dbd0d2b26421a01462c9ae4bf8eb2daf91c1a51737d",
       "ordered_blocks": [
         "Event",
@@ -139,7 +139,7 @@
       ]
     },
     "libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md": {
-      "sha256": "dde95bded14a12ca186b9035b1b407bd34d2e0fbe02b1fba7e670e5b46ef256a",
+      "sha256": "8cddd49a404d047250857264d8c540742fd3524f42da55db9625bae77b434b09",
       "public_normalized_sha256": "56b0cb86c8de9879ce5ea2f4f693058debe2d18a65a4974a14994eac614e8559",
       "ordered_blocks": [
         "Event",
@@ -156,7 +156,7 @@
       ]
     },
     "lucas_v_johnson_merits_1998-09-28.md": {
-      "sha256": "553564c2ec895bd83f9bd2e51055373a2acbcaf44c7a4df5e7ff39eebb2a299a",
+      "sha256": "5cd6a7ddb076d7efe1752370f016fafa0d655aa3336c3af70a69c11b89a9df79",
       "public_normalized_sha256": "a7d99decd0b79d38569febf7349356805ce3c0c04fb46055652167897089bbc5",
       "ordered_blocks": [
         "Event",
@@ -173,7 +173,7 @@
       ]
     },
     "securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md": {
-      "sha256": "44ff7d02e3635c691e92047cb76cf81653ed987f9743f3623532a1e766aed8f2",
+      "sha256": "45008e537172922063c42d326080d4bb335ede6550601187777da7a927ba4d0e",
       "public_normalized_sha256": "2acee83cfb91ef8c39a8191ae4a5e62098e62b61953367aa88aea4393ef2eeb9",
       "ordered_blocks": [
         "Event",
@@ -190,7 +190,7 @@
       ]
     },
     "united_states_ex_rel_mckenzie_v_bellsouth_telecommunications_merits_1998-09-28.md": {
-      "sha256": "495725969704924866fc093b07f9f5bc4d407de63d008a82080616ed29997350",
+      "sha256": "decfbaafb297dfcc45e0a4df26042747f4d7449d74d382a0260f2cd0d0a6a123",
       "public_normalized_sha256": "a0f57391b3bb24f7652bfbeab43fcc91d0bcc42b9cd4acae802a3e844d3cb620",
       "ordered_blocks": [
         "Event",

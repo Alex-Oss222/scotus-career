@@ -32,9 +32,9 @@ Counts after the final listed decision, including all earlier effective Records:
 
 | Record | SHA-256 |
 |---|---|
-| Zeran | `f4ad3b6828f98f95c342f1aee2b27e964363e812b60fd2b8552daf56444b5d80` |
-| Caron | `a260d737615db3e9ada3beb19b2d8cbb844778cfe1a643e6f3d8b52d62f326aa` |
-| Gebser | `19ce6bcc66d5a7f487c9a0c6cce8e9cb627eac090677d3fd00d192881a50a2bf` |
+| Zeran | `2cbe940594fcf9d57f7d8d274c4502a95836689bc1d13ee64bf30027924833bf` |
+| Caron | `d2d525e513e22b9052b88d4e107ea3bdd2f0ed7638855292939e062514ed0218` |
+| Gebser | `1c0d5d926c9f96e8540fbed37c07cfbc83ab59c3c02df9e3505878e2de780704` |
 
 ## Remaining coordinated work
 

@@ -10,10 +10,10 @@ AGENTS.md was read completely in bounded follow-up reads. The initial combined E
 
 | Source | Supplied freeze | Verified SHA-256 | Byte-identical to named commit |
 |---|---|---|---|
-| `../../freeze/OT_1995CHUNK5_RUTLEDGE_COMMITMENTS.md` | `8e012ce` | `f6d9159ac4253a29ce3262baca803b93a42c205eadcaadfc91cb139a4889df31` | Yes |
+| `../../freeze/OT_1995CHUNK5_RUTLEDGE_COMMITMENTS.md` | `8e012ce` | `07b76973c9066656faa792b7055717b8ad6536c0de376517ac57396ac3d7ea18` | Yes |
 | `../../freeze/OT_1995CHUNK5_RUTLEDGE_NEUTRAL_VALIDATED.md` | `208dca9` | `0d2a1f7258b5f4a3d6c6e96bedb031116104b431ee7c99b278b01bf617222d78` | Yes |
-| `../../freeze/OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md` | `45ca332` | `846f14e9b43e080ae3d3b48b94702d72abafbcf8bf8a912507f8b4a0d84d9444` | Yes |
-| `../../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md` | `71a1954` | `243708991f71b864854615e69e1b3c7fbc8d18b6b9269cead5c92f96e9d78f56` | Yes |
+| `../../freeze/OT_1995CHUNK5_MARCH27_NEUTRAL_LAW_FRESHNESS.md` | `45ca332` | `7215cb2814b61690f3eb4e83d51f684b71b2582d60d0dc4bf2af88db79aca164` | Yes |
+| `../../entering-law/OT_1995CHUNK5_NEUTRAL_AFTER_1996-03-26.md` | `71a1954` | `b0d25e17851e189e2cde391e5848a95ead3e12bf677e7acbaa9e723e14afa259` | Yes |
 
 ## Complete current-matter historical coverage
 

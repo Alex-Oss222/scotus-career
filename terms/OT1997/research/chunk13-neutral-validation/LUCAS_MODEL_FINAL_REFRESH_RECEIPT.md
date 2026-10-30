@@ -38,5 +38,5 @@ The final handoff is operative for separate historical reconciliation and subseq
 ## Identities
 
 * Preserved `freeze/OT_1997CHUNK13_COMMITMENTS_LUCAS.md`: `53396b749e3b74da1cdaeee18a1bf7dba35f849dcd0cc7e230c606cdbdc7a05c`.
-* New `entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md`: `30b72a3f47a0af82ad4b25893e3fa5291bef93588500d75e6a5dbde8b798a357`.
-* Operative `freeze/OT_1997CHUNK13_COMMITMENTS_LUCAS_FINAL.md`: `3b53be30de8bb8f8c989dd82506f3afca79105360d1779b872e438b348e557a2`.
+* New `entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md`: `3ee5437efb4df00d0e010a2e41766a10751995fff1bf4a99a7fdf28a68807654`.
+* Operative `freeze/OT_1997CHUNK13_COMMITMENTS_LUCAS_FINAL.md`: `8a71fd80305dc9396b7300a24cd67f3c94027db8bb739afe8f34e32c9bb2101d`.

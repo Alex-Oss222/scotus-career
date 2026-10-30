@@ -1,6 +1,6 @@
 # OT1997 chunk 12 — independent Brewster review
 
-No unresolved substantive, join, remedy, assignment or structural discrepancy remains in the [August 17 Brewster Record](../records/brewster_v_board_of_education_merits_1998-08-17.md). Final raw SHA-256: `72e5394b0d8cd4d43b259ab52bfb52598b8a919f700c9a6771d2a8f9d44aea11`.
+No unresolved substantive, join, remedy, assignment or structural discrepancy remains in the [August 17 Brewster Record](../records/brewster_v_board_of_education_merits_1998-08-17.md). Final raw SHA-256: `c509a2cd63e9abc5c1f37b21d0c7ecc1d76d036995f6d07118ad287077aebae1`.
 
 The reviewer received the final reconciliation before the scoped Stone supplement. Checked input hashes are reconciliation `cf0088423b72ce4789abbf32145c7aa4663a8b7832aa2ec39e6de48730581575`, Stone `d278fed2598d75768058f56184fa916b7fd44dda4e17cc80e8921343a96b8cdb`, final neutral `4b58c68074d5474f64a69f96bd8ebbc77f107a70a73ea8da7eee52b026c60c83`, and August 17 entering law `3c4ea6dcba31a73180198235d87f51c8bad1efe38a1b4de2e0a0ca50f774cc77`. Relevant actual public authority, the final Record and its final precedent-treatment diff were read. This is independent assembly review, not new modeling, reconciliation, source recovery or a full-term audit. The reviewer edited no Record and used neither Git nor the prohibited top-level private directory.
 

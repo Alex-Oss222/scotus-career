@@ -4,7 +4,7 @@
 
 **Stage and scope:** Final modeling-stage runtime/freeze handoff for later reconciliation. No current Stone position, comparator, reconciliation, other context's commitments, raw current Decision Record, private continuity or control material was read. The prior public opinions and publicly recorded joins consulted here are date-eligible individual evidence. No final Court coalition, Court author or assignment is determined. Preservation under freeze is a filesystem freeze, not a Git commit; no Git command was used.
 
-**Preserved lineage:** The separate provisional files `OT_1994CHUNK5_COMMITMENTS_HR_PRE_REFRESH.md` and `OT_1994CHUNK5_COMMITMENTS_HARRIS_LOPEZ_REFRESH.md` remain unchanged. The PRE runtime/freeze SHA256 is `99e283180c88041fdfde577636491725db78683d7e31c97796177134c93dd87d`. The preparatory Lopez-refresh runtime SHA256 is `01a106982d1df64dfc2dee6a878b6af19938953fc26864bea781e1cc14f4a88b`. This document states the final current-law analysis directly; the provisional files are not substituted for its final grounds.
+**Preserved lineage:** The separate provisional files `OT_1994CHUNK5_COMMITMENTS_HR_PRE_REFRESH.md` and `OT_1994CHUNK5_COMMITMENTS_HARRIS_LOPEZ_REFRESH.md` remain unchanged. The PRE runtime/freeze SHA256 is `e5f2f910ececdd20d412fb5d8795169a62f9ba2ef420b43be114903946e5bd12`. The preparatory Lopez-refresh runtime SHA256 is `9604f850a79e8cd5beea4621431fd3693cdc74a1d681f155f54ade2cc4c79bb7`. This document states the final current-law analysis directly; the provisional files are not substituted for its final grounds.
 
 ## Sources, chronology and final review scope
 

@@ -157,12 +157,12 @@ The appended hash receipt fixes the bytes of the authorized freezes, law copies 
 |---|---|
 | `freeze/OT_1998CHUNK10_JONES_VALIDATED_NEUTRAL.md` | `670d7a8d5918ee83e9531eb3e9f3166967ec7d5cf6c2f113bfb2157885c154e6` |
 | `freeze/OT_1998CHUNK10_JONES_CLOSING_NEUTRAL_ADDENDUM.md` | `995302a4690c349bce5abd6e04752971e3520bb19aca472b04269c8d3bdff9e9` |
-| `freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md` | `638754c1cb6c8b8bf49fb4b3fe4c8875f2170bc7261b19cb94a4d9b685856d2c` |
-| `freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md` | `a10e7169e7d134b195d198092ba3dffcc6cfa28cbbc51626f8f97c8fa3e47383` |
-| `freeze/OT_1998CHUNK10_JONES_RECONCILIATION_SOURCE_HANDOFF.md` | `f1dfc3a4866b998e04781f39cc5d586e022ab7acb1fdfb30587bc44150f580ce` |
-| `entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `2d3a4bb88bba06ed12dbcd3861f437889bba9acd8e92aae2c68e178757208f1f` |
+| `freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md` | `245161c8be62c8f225fd0805dd73959bdb1ce9175c114d29e5fdd0cc389cef22` |
+| `freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md` | `1af7f6ecf76398c05d7c8f7a26a6564f391079ab1fbccf068fe55aaaea44acd3` |
+| `freeze/OT_1998CHUNK10_JONES_RECONCILIATION_SOURCE_HANDOFF.md` | `f15327fbcec93b4af8c8ffa3804156cd5ba71fb1610d4487a1ba5d4e4edec3f7` |
+| `entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `39b8a00adefcafa968953028f79d5fbc1cc89fe9bd9ccbcf29722b9e2fc31527` |
 | `entering-law/OT_1998CHUNK10_B_STANDARDS.md` | `842304a9e90878fe5d347c795320649f3341170f87835964ca416a69099cb7c9` |
-| `entering-law/OT_1998CHUNK10_B_CURRENT.md` | `6453039c43223d569561beeca2627c3e6ec439864836ac83ab90123e50f617b5` |
+| `entering-law/OT_1998CHUNK10_B_CURRENT.md` | `09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5` |
 | `entering-law/west_v_gibson_merits_1999-06-14.md` | `61fe69c95a36eb06b44dfb05cc40e195588e0516d6e18235ece9f160cac183a4` |
 | `entering-law/schleifer_v_city_of_charlottesville_merits_1999-06-15.md` | `a7fc7382d31ac3a7ae81453b18c0ebb9f0f95c504be60c413632cfb5c0bac7da` |
 | `entering-law/grupo_mexicano_de_desarrollo_sa_v_alliance_bond_fund_inc_merits_1999-06-17.md` | `69d20395149c4a6a0ad056e09ff3be89d80b8eb62f1510ec32e6a291b5e7f16a` |

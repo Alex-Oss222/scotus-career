@@ -4,7 +4,7 @@
   "cases": {
     "MAINE": {
       "record": "maine_green_party_v_maine_merits_1999-05-20.md",
-      "sha256": "635ff70237a7f80a5b5c13c007466b117f92d8b288ec4122ccc07a2880e54a8a",
+      "sha256": "78603f55bb7c955a8f7f5470d783466943cb31a007bb3fed3dd66e68892cc4b0",
       "headers": [
         "Event",
         "Participation",
@@ -59,7 +59,7 @@
     },
     "DENTAL": {
       "record": "california_dental_association_v_ftc_merits_1999-05-24.md",
-      "sha256": "a4ec9e7dd2c838a10c5f7bad81cf54d2baf520ebd253e4d268ce9ac1325e31dd",
+      "sha256": "82faa52e390724a99345d235a7fd2afae99635170731191bd716352e33c7dd89",
       "headers": [
         "Event",
         "Participation",
@@ -121,7 +121,7 @@
     },
     "CLEVELAND": {
       "record": "cleveland_v_policy_management_systems_merits_1999-05-24.md",
-      "sha256": "002f4407fb00b758b8e65a1b0fa2eb82fa0b75c75788660aa22631c16c2cccdf",
+      "sha256": "021e296812f962f81e99ea09e17ca8e6d6d2b1197249c84a85aac0b9c716c38a",
       "headers": [
         "Event",
         "Participation",
@@ -175,7 +175,7 @@
     },
     "DAVIS": {
       "record": "davis_v_monroe_county_board_of_education_merits_1999-05-24.md",
-      "sha256": "64cac6b4dfd76e31a4b976712d52d653d7eba4b2f1c07a8204e9a7240d89d23b",
+      "sha256": "f9ba90ee0d26af979640976735b024d288d6ead5a4c2f625a017cecff1e45b63",
       "headers": [
         "Event",
         "Participation",
@@ -233,7 +233,7 @@
     },
     "HANLON": {
       "record": "hanlon_v_berger_merits_1999-05-24.md",
-      "sha256": "4d84f61f353ce381b7b69be251686cc2ac6ffcf01c969f67af73ae5cc403b0b8",
+      "sha256": "27a421e91908d693d718ffc56a209697defbe9c582b3bb5356786246b0b2a3d8",
       "headers": [
         "Event",
         "Participation",
@@ -295,7 +295,7 @@
     },
     "WILSON": {
       "record": "wilson_v_layne_merits_1999-05-24.md",
-      "sha256": "ac1129ca94563334e5ba05cd0166e909e3a4022fdfd7878173cb2bfccec5faca",
+      "sha256": "e7e6280ae0100cc290e7fa3a5b0e5d0b87a1e4c2c398e9126d5cc8fe4a07db1d",
       "headers": [
         "Event",
         "Participation",
