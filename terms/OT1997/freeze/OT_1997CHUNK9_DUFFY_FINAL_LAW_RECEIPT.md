@@ -8,7 +8,7 @@
 - `entering-law/OT_1997CHUNK9_LACY_PUBLIC.md`: exact validated May 28 Public Projection.
 - `entering-law/OT_1997CHUNK9_NEW_JERSEY_PUBLIC.md`: exact validated May 26 Public Projection.
 
-Only these public projections were received for this check. No full Decision Record, audit annex, private Stone supplement, comparator, reconciliation or assignment material was opened. The effective-law cutoff remains June 3, 1998. Waste has produced no completed decision and supplies no current law.
+Only these public projections were received for this check. No full Decision Record, audit annex, private Stone supplement, comparator, reconciliation or assignment material was opened. The effective-law cutoff remains June 3, 1998. Waste's completed May 27 public-facility and diversion-cost decision supplies no issue-specific legal predicate here.
 
 ## Florence: relevant limits preserved; no changed commitment
 

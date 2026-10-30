@@ -143,13 +143,13 @@ Authority reading source: state/holdings/constitutional-structure.md
 
 ##### Harris sustains application of original §2119 to both defendants
 
-**Holding:** Congress may apply original §2119 to the armed vehicle taking at issue as regulation of the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme. The separately enacted requirement that the particular vehicle have been transported, shipped or received in interstate or foreign commerce remains necessary; remote vehicle history alone and generalized crime, insurance or productivity costs do not supply this holding's constitutional ground.
+**Holding:** Congress may apply original §2119 to the armed vehicle taking at issue as protection of an instrumentality of interstate commerce against a direct intrastate forcible taking. The separately enacted requirement that the particular vehicle have been transported, shipped or received in interstate or foreign commerce remains necessary; remote vehicle history alone and generalized crime, insurance or productivity costs do not supply this holding's constitutional ground.
 
-**Proposition-level authority:** O'Connor's Part II, unanimous.
+**Proposition-level authority:** O'Connor's Part II, joined by every other Justice named in Opinion Topology: nine direct votes for this application of Harris, without enlarging its rule.
 
-**Limits and questions not reached:** No automatic vehicle-instrumentality theory, new Commerce Clause test or unpresented sufficiency determination is adopted.
+**Limits and questions not reached:** No rule covers every offense in or near a vehicle. No new Commerce Clause test or unpresented sufficiency determination is adopted.
 
-**Treatment of earlier authority:** Harris is applied within its economic-class and enacted-element limits without creating a new Commerce Clause rule; the decision does not enlarge Lopez or the instrumentality route. Lopez retains its connection-before-magnitude architecture and its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League's distinct direct market-interference ground does not change §2119's text.
+**Treatment of earlier authority:** Harris is applied within its direct-instrumentality and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez remain economic-class precedents and supply no independent ground for this application; American Life League's distinct direct market-interference ground does not change §2119's text.
 
 #### United States v. Hale, judgment below 978 F.2d 1016
 

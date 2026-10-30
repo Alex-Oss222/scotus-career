@@ -23,14 +23,14 @@ The Chief's separate criminal sufficiency discussion has no additional joins and
 
 | Associate | Kansas comparison |
 |---|---|
-| Stevens | His concurrence applies controlling Hunter while preserving his earlier constitutional objection, and his economic-class join does not withdraw his broader Lopez dissent. Neither changes his water-case respect for the Master's technical record or his objection to abstract methodology prescriptions. All ten Kansas grounds remain. |
+| Stevens | His concurrence applies controlling Hunter while preserving his earlier constitutional objection, and his join in Breyer’s economic-class concurrence does not withdraw his broader Lopez dissent. Neither changes his water-case respect for the Master's technical record or his objection to abstract methodology prescriptions. All ten Kansas grounds remain. |
 | O'Connor | Her authored opinion keeps commerce, enacted factual elements, ordinary criminal fault, cumulative authorization and remedy separate. It supplies no new sovereign-fact quantum or water remedy. All ten Kansas grounds remain. |
 | Scalia | His eight-associate ground does not join the separate instrumentality or additional fault propositions. No broad doctrine of implied administrative obligations follows. His ten component commitments and existing delegation limits remain. |
 | Kennedy | His join applies the limited Lopez boundary rather than altering compact authority. It creates no general remote-effects test for proving depletion. His ten component commitments remain. |
 | Souter | His join is to the stated criminal statutory and constitutional grounds, not a new rule for hydrologic inference, administrative impasse or historical acquiescence. His ten component commitments remain. |
 | Thomas | His join does not make every statutory silence strict liability or authorize adding missing requirements. It does not resolve the asserted Trinidad command or the general Compact proof quantum. His ten component commitments remain. |
 | Ginsburg | Her join leaves unknown instructions, sufficiency and additional fault questions outside the majority holding. It changes no reserved Kansas claim or entitlement to money. Her ten component commitments remain. |
-| Breyer | His economic-class join can coexist with his broader Lopez dissent; it does not replace adjudicative proof with legislative rationality. His existing paired-model and actual-operation qualifications, and all ten component commitments, remain. |
+| Breyer | His economic-class concurrence can coexist with his broader Lopez dissent; it does not replace adjudicative proof with legislative rationality. His existing paired-model and actual-operation qualifications, and all ten component commitments, remain. |
 
 ## Remaining gate
 

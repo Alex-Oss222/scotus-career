@@ -1,6 +1,6 @@
 # OT1997 chunk 9 — independent final-four assembly audit
 
-**Scope:** The final Florence, Cabrales, Duffy and Beggerly Records, their final frozen reconciliations and authorized neutral portions, their separately scoped approved position handoffs, Duffy's final effective-law reconciliation receipt, the assignment evidence/recount, and the later mechanical heading-normalization receipt. This completes the bounded review of the eleven new completed chunk-9 Records when read with `OT_1997CHUNK9_FIRST5_INDEPENDENT_AUDIT.md` and `OT_1997CHUNK9_MAY28_INDEPENDENT_AUDIT.md`. It is not the term-close audit, a public render, or certification of final workspace and generated-interface integration.
+**Scope:** The final Florence, Cabrales, Duffy and Beggerly Records, their final frozen reconciliations and authorized neutral portions, their separately scoped approved position handoffs, Duffy's final effective-law reconciliation receipt, the assignment evidence/recount, and the later mechanical heading-normalization receipt. This completes the bounded review of the twelve completed chunk-9 Records when read with `OT_1997CHUNK9_FIRST5_INDEPENDENT_AUDIT.md` and `OT_1997CHUNK9_MAY28_INDEPENDENT_AUDIT.md`. It is not the term-close audit, a public render, or certification of final workspace and generated-interface integration.
 
 **Boundary:** No Git command, top-level private position directory, unsplit brief or unrelated Stone material was used. Duffy and Beggerly's scoped positions were read only after their final Records were released for this audit. The auditor changed no Record or existing frozen handoff. No independent historical retrieval is claimed; substantive completeness was assessed against the authorized frozen handoffs, their source limits and the governing assembly and projection rules.
 
@@ -45,25 +45,25 @@ Full semantic review and automated public-boundary screening found no private wo
 | Record | Explanation words |
 |---|---|
 | Florence / Stemler | 250; 190; 206; 130 |
-| Cabrales | 275 |
-| Duffy | 177; 152; 270 |
-| Beggerly | 152; 269; 218; 137 |
+| Cabrales | 84 | All nine eligible; minimum 9; all nine at 9 or 10 belong to the pool. Stone is selected at 9 for the complete conduct/circumstance and remedial formulation; Scalia is the strongest alternative at the equal count. | 85 |
+| Duffy | 85 | Eight full-join Associates support the complete operative judgment; Stevens assigns as senior member of that coalition. The eligible minimum is 9, with all eight within minimum plus one; Stone's opposing remedy excludes him. Stevens's lead counts once. | 86 |
+| Beggerly | 92 | Same-date alphabetical sequencing includes Home Builders and the preceding June 8 leads. The eight Associates are eligible; minimum 10; all eight at 10 or 11 belong to the pool. Breyer is selected at 11 for statute-specific timing fit, with Scalia the strongest lower-count alternative. | 93 |
 
 Every explanation is below the ordinary 350-word ceiling. Judgment votes, opinion joins, partial joins and the actual remedial differences were compared separately rather than inferred from one another. No unexplained Marks synthesis is needed.
 
 ## Assignment verification
 
-The prior audit independently extracted the 76 opening counted authors from the copied actual opinion topologies. The current check extracted the ten new counted lead authors from the eleven actual new Record opinion topologies; Ashmus remains a threshold disposition and contributes no count. Waste remains stopped, with no assigned or counted opinion.
+The prior audit independently extracted the 76 opening counted authors from the copied actual opinion topologies. The twelve completed chunk-9 Records contribute eleven signed merits leads; Ashmus remains a threshold disposition and contributes no count. Waste is Stone-Zsela's counted May 27 lead, bringing the chronological total to 81 before DeCarlo.
 
 | Event | Pre-event total | Assignment and pool conclusion | Post-event total |
 |---|---:|---|---:|
-| Florence | 82 | All nine eligible; minimum 8; Souter and Ginsburg at 10 excluded from the Chief's pool; O'Connor at 9 is within it. The stated Pinder/actual-restraint coordination reason addresses Stone's lower-count alternative. | 83 |
-| Cabrales | 83 | All nine eligible; minimum 8; O'Connor, Souter and Ginsburg at 10 excluded; Stone at 8 is within the pool. The conduct/circumstance self-assignment comparison identifies Scalia as the strongest alternative and preserves all elements. | 84 |
-| Duffy | 84 | The eight full-join Associates form the complete operative judgment coalition. Stevens, its most senior member, assigns. Stone's opposing remedy supplies no full-opinion eligibility; the Chief's mandatory pool rule does not bind this Associate assignment. Stevens's lead counts once. | 85 |
-| Beggerly | 85 | The Chief is in the complete reversal coalition, but his partial rationale and monetary fallback exclude him from whole-opinion eligibility. All eight Associates are eligible at 9 or 10 and within minimum plus one. Breyer at 9 is validly selected on the statute-specific timing fit. | 86 |
+| Florence | 83 | All nine eligible; minimum 9; all nine at 9 or 10 belong to the pool. O'Connor is selected at 9 for the stated Pinder/actual-restraint coordination advantage; Stone is the strongest alternative at the equal count. | 84 |
+| Cabrales | 84 | All nine eligible; minimum 9; all nine at 9 or 10 belong to the pool. Stone is selected at 9 for the complete conduct/circumstance and remedial formulation; Scalia is the strongest alternative at the equal count. | 85 |
+| Duffy | 85 | Eight full-join Associates support the complete operative judgment; Stevens assigns as senior member of that coalition. The eligible minimum is 9, with all eight within minimum plus one; Stone's opposing remedy excludes him. Stevens's lead counts once. | 86 |
+| Beggerly | 92 | Same-date alphabetical sequencing includes Home Builders and the preceding June 8 leads. The eight Associates are eligible; minimum 10; all eight at 10 or 11 belong to the pool. Breyer is selected at 11 for statute-specific timing fit, with Scalia the strongest lower-count alternative. | 93 |
 
-Each Record fixes form and governing propositions before counting. The current independently recomputed total matches `runtime/OT_1997CHUNK9_ASSEMBLY_RECOUNT.json`: Stone-Zsela 9; Stevens 10; O'Connor 10; Scalia 9; Kennedy 9; Souter 10; Thomas 9; Ginsburg 10; Breyer 10. The total is 86, ending with Beggerly on June 8, 1998. Same-date alphabetical sequencing affects assignment counts without turning an uncoordinated same-day decision into entering law. No earlier assignment is reopened.
+Each Record fixes form and governing propositions before counting. The chunk-9-only cumulative census is 87: Stone-Zsela 10; Stevens 10; O'Connor 10; Scalia 9; Kennedy 9; Souter 10; Thomas 9; Ginsburg 10; Breyer 10. Beggerly's chronological assignment includes the six preceding June 8 leads in chunk 10 and therefore yields 93: Stone-Zsela 11; Stevens 10; O'Connor 10; Scalia 10; Kennedy 10; Souter 10; Thomas 10; Ginsburg 10; Breyer 12. Same-date alphabetical sequencing affects assignments while independent peers share the pre-group substantive law.
 
 ## Remaining integration scope
 
-No further substantive repair is required by this audit. The earlier Ashmus internal wording issue was resolved in the first-five review, and the public heading compatibility issue is resolved by the verified current structure. The stopped Waste matter and New Jersey's later decree stage must retain their actual open status. This receipt does not treat completion of the eleven Records as resolution of either open matter or as completion of the operator's final workspace, Render Input or whole-term checks.
+No unresolved substantive discrepancy is identified for these four Records. New Jersey's later decree stage retains its recorded open status. Waste Management is completed on May 27 with a five-Justice public-facility and diversion-cost opinion by Stone-Zsela. Final workspace, Render Input and whole-term integration checks remain distinct from this bounded review.

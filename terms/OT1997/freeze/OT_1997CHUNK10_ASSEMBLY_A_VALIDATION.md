@@ -7,7 +7,7 @@ The five June 8 Records were written sequentially in alphabetical order after th
 | `cass_county_v_leech_lake_band_merits_1998-06-08.md` | Scalia | Reverse/remand, 9–0 | 86 | 207 |
 | `dooley_v_korean_air_lines_merits_1998-06-08.md` | Kennedy | Affirm, 9–0 | 87 | 231 |
 | `geissal_v_moore_medical_merits_1998-06-08.md` | Thomas | Count I vacatur 8, Stone reversal; Count II vacatur 9 | 88 | 229 |
-| `hopkins_v_reeves_merits_1998-06-08.md` | Stone-Zsela | Reverse/remand, 8–1 | 89 | 247 |
+| `hopkins_v_reeves_merits_1998-06-08.md` | Breyer | Reverse/remand, 8–1 | 89 | 247 |
 | `muscarello_cleveland_v_united_states_merits_1998-06-08.md` | Breyer | Affirm each docket, 6–3 | 90 | 255 |
 
 The exact forms and governing propositions were fixed in `OT_1997CHUNK10_ASSEMBLY_A_FORMS.md` before assignment recounts. Each individual assignment evidence JSON reread actual public opinion topologies, including the newly written prior Records. The post-five recount before National Association of Home Builders reports 91 counted leads: every Justice has ten except Breyer, who has eleven. Same-day Beggerly sorts later and was excluded.

@@ -104,7 +104,7 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **United States v. Harris**
 
-**Holding:** Congress may regulate the armed forcible acquisition of the covered vehicle proved here as an economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme, while original §2119's enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce must be proved. Neither remote movement alone nor generalized crime, insurance, or productivity costs independently supplies this holding's constitutional ground. The decision creates no rival commerce test and no automatic instrumentality rule beyond these facts and the enacted nexus.
+**Holding:** The Commerce Clause permits Congress to protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the federal offense requires proof of the particular instrumentality’s interstate connection. Original §2119 is constitutional as applied to the forcible taking of the Buick proved here; the judgment is affirmed without adopting the Fifth Circuit’s aggregate-effects rationale.
 
 **Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices. Stone-Zsela concurs in the judgment on a narrower ground: he would sustain the application because the offense directly attacks possession and control of a covered motor vehicle functioning as an interstate transportation instrumentality or thing in commerce, and because the statute requires proof of the particular vehicle's interstate connection. He does not rely on remote historical movement alone.
 

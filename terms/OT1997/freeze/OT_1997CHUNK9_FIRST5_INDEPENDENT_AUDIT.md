@@ -42,8 +42,9 @@ Form precedes counts in all five Records. The assignments proceed alphabetically
 
 The independent sum after New Jersey is 80: Stone-Zsela 8; Stevens 9; O'Connor 9; Scalia 9; Kennedy 9; Souter 10; Thomas 8; Ginsburg 9; Breyer 9. This matches `runtime/OT_1997CHUNK9_ASSEMBLY_RECOUNT.json` as read. Prior assignments are not reopened.
 
-## Separate bounded review: Waste Management blocker
+## Separate bounded review: Waste Management
 
-The internal assembly blocker was compared with `OT_1997CHUNK9_RECONCILED_WASTE.md`, the frozen remedial clarification, and the approved scoped Waste position. Its arithmetic and compatibility conclusion are supported: four Associates require renewed Commerce adjudication; two affirm; two would terminate the reviewed Commerce grounds; Stone's approved reversal and conditional fee position does not supply a fifth vote for the four-Justice comparative remand. Even placing Stone with the two reversing votes yields four/three/two on each complete disposition, not a majority. No missing judgment vote can be supplied through Marks or by counting conditional substantive observations as mandate joins.
+The May 27 Record vacates and remands both reviewed Commerce Clause determinations, 5–4, under Stone-Zsela's Opinion of the Court. O'Connor, Souter, Ginsburg and Breyer join the full public-facility and independent diversion-cost rules. Stevens and Kennedy would affirm; Scalia and Thomas would reverse and terminate the reviewed negative-Commerce grounds. Stone's separate preference for outright reversal does not qualify his full opinion or mandate join.
 
-The blocker correctly creates no Record, assignment, opinion count, altered injunction, enforcement permission or terminal event. The exact open blocker must be carried into manifest and chunk metadata. This separate check does not independently certify the entire Waste neutral research corpus or any future procedural resolution.
+The genuine-public inquiry, separate fee nexus, purchasing and compensation limits and remaining appropriate scrutiny govern the remand. The excluded takings and ripeness rulings remain undisturbed. Waste contributes one Stone-Zsela lead and raises the May 27 count from 80 to 81.
+

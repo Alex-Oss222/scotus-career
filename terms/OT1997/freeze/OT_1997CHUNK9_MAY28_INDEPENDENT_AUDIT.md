@@ -35,10 +35,10 @@ Each explanation is within the ordinary 350-word ceiling. Existing amendment per
 
 ## Assignment verification
 
-The earlier independent first-five review extracted the 76 opening authors from copied actual opinion-topology text. Adding the validated May 26 leads yields 80 before DeCarlo: Stone-Zsela 8; Stevens 9; O'Connor 9; Scalia 9; Kennedy 9; Souter 10; Thomas 8; Ginsburg 9; Breyer 9. Ashmus and the stopped Waste matter add no count.
+The independent first-five review extracted the 76 opening authors from copied actual opinion-topology text. The May 26 leads yield 80; Waste Management adds Stone-Zsela's May 27 lead and yields 81 before DeCarlo: Stone-Zsela 9; Stevens 9; O'Connor 9; Scalia 9; Kennedy 9; Souter 10; Thomas 8; Ginsburg 9; Breyer 9. Ashmus contributes no counted merits lead.
 
-DeCarlo fixes one signed merits opinion before counting. The eight Associates are eligible for its whole rationale; Stone's partial grounds do not qualify him. Thomas's eight is the eligible minimum, so Souter at ten is excluded and Ginsburg at nine is within the pool. The stated case-specific fit comparison addresses Thomas's lower count. Ginsburg's opinion brings the total to 81 and her count to ten.
+DeCarlo fixes one signed merits opinion before counting. The eight Associates are eligible for its whole rationale; Stone's partial grounds do not qualify him. Thomas's eight is the eligible minimum, so Souter at ten is excluded and Ginsburg at nine is within the pool. The stated case-specific fit comparison addresses Thomas's lower count. Ginsburg's opinion brings the total to 82 and her count to ten.
 
-Lacy follows DeCarlo alphabetically on the same date while retaining their common pre-group entering law. All nine are eligible; the minimum is eight. Souter and Ginsburg at ten are outside the pool, and Thomas at eight is eligible. The stated fit comparison includes Scalia and Stone. Thomas's lead brings the total to 82.
+Lacy follows DeCarlo alphabetically on the same date while retaining their common pre-group entering law. All nine are eligible; the minimum is eight. Souter and Ginsburg at ten are outside the pool, and Thomas at eight is eligible. The stated fit comparison includes Scalia and Stone. Thomas's lead brings the total to 83.
 
-The independently recomputed total matches `runtime/OT_1997CHUNK9_ASSEMBLY_RECOUNT.json` as read: Stone-Zsela 8; Stevens 9; O'Connor 9; Scalia 9; Kennedy 9; Souter 10; Thomas 9; Ginsburg 10; Breyer 9. No previous assignment is reopened, and no count is supplied by an uncompleted matter.
+The independently recomputed total through Lacy is 83: Stone-Zsela 9; Stevens 9; O'Connor 9; Scalia 9; Kennedy 9; Souter 10; Thomas 9; Ginsburg 10; Breyer 9. Waste is included as the counted May 27 Stone-Zsela lead.

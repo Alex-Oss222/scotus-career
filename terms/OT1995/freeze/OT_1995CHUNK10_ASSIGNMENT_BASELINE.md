@@ -1472,11 +1472,11 @@ Every named classification is supported by the excerpted assignment statement. N
 
 ### United_States_v_Harris_merits_1995-04-27
 
-**Count classification:** O'Connor.
+**Count classification:** Stone-Zsela.
 
-[Record](../../OT1994/records/United_States_v_Harris_merits_1995-04-27.md), line 240:
+[Record](../../OT1994/records/United_States_v_Harris_merits_1995-04-27.md), line 255:
 
-> The Chief joins each nine-Justice judgment coalition and therefore assigns each component under either assignment version identified by the control protocol. Fit favors O’Connor for the coordinated opinion: her actual Smith authorship preserves the independent firearm relation requirement, her Shabani authorship distinguishes participation from association, and her Hunter majority join supports precise application of the same-trial rule.
+> The Chief belongs to each judgment majority and assigns the signed Court opinion to himself. His direct-instrumentality formulation supplies the common commerce rule while preserving the meaningful limit that a remote interstate fact cannot sustain an unrelated local offense. His authorship coordinates that application with Lopez, whose governing opinion he delivered the preceding day, and carries the common fault and cumulative-punishment holdings without enlarging them. The two solo concurrences preserve distinct positions that the common opinion does not adopt. Every published join rests on the proposition identified above, not the author’s identity. No fictional conference dialogue or draft exchange is represented.
 
 ### United_States_v_Robertson_merits_1995-05-01
 

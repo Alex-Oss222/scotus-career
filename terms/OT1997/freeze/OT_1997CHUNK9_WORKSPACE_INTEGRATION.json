@@ -5,6 +5,7 @@
     "county_of_sacramento_v_lewis_merits_1998-05-26.md",
     "kiowa_tribe_v_manufacturing_technologies_merits_1998-05-26.md",
     "new_jersey_v_new_york_original_merits_1998-05-26.md",
+    "waste_management_v_nashville_merits_1998-05-27.md",
     "decarlo_v_fry_merits_1998-05-28.md",
     "united_states_v_lacy_merits_1998-05-28.md",
     "city_of_florence_v_chipman_merits_1998-06-01.md",
@@ -13,14 +14,12 @@
     "united_states_v_beggerly_merits_1998-06-08.md"
   ],
   "scheduled_total": 160,
-  "scheduled_completed": 108,
-  "scheduled_open": 52,
-  "court_action_records": 110,
+  "scheduled_completed": 109,
+  "scheduled_open": 51,
+  "court_action_records": 111,
   "admitted_sources": 1,
-  "total_records": 111,
-  "stopped": {
-    "Waste Management": "No majority supports one complete disposition and mandate on either the compulsory-routing or outside-system-fee Commerce Clause component. Further supported Court consideration is required before a decision can be entered; the matter remains open."
-  },
+  "total_records": 112,
+  "stopped": {},
   "public_projection_copy_sha256": {
     "air_line_pilots_association_v_miller_merits_1998-05-26.md": "6b809b9ad403294294f9578c0ee03c04126bc42c9de94630403c99eae57714c7",
     "calderon_v_ashmus_threshold_1998-05-26.md": "ca0f8a94d5aa5c779b4f7ca20a2ee720a0fa8982d91698af36c1f16b5339843f",

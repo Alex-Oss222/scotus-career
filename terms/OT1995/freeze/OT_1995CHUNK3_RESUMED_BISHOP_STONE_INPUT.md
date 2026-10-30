@@ -16,7 +16,7 @@ Here Stone splits the two defendants.
 
 Bishop: affirm.
 
-His Commerce Clause challenge is controlled by the simulation's Harris precedent. Harris already held that § 2119 constitutionally reaches armed vehicle taking as part of the economic vehicle-taking class connected to the interstate motor-vehicle theft regime, while expressly refusing to rely on remote vehicle history alone. (Holdings)
+His Commerce Clause challenge is controlled by the simulation's Harris precedent. Harris already held that § 2119 constitutionally protects an interstate transportation instrumentality against direct forcible taking when the enacted particular-vehicle interstate connection is proved, while expressly refusing to rely on remote vehicle history alone. (Holdings)
 
 Stone's Commerce roadmap itself says Bishop should simply be upheld under Harris, deliberately creating no new Commerce doctrine.
 
