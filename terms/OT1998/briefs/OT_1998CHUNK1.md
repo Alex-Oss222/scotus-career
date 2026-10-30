@@ -854,7 +854,7 @@ Separate statutory proof from constitutional adequacy. Connecticut manufacture c
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-30.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
@@ -869,7 +869,7 @@ Separate statutory proof from constitutional adequacy. Connecticut manufacture c
 * **Threshold and Merits Reach:** Decide the preserved question within this proceeding; the proposed result is a position, not an entered Court judgment.
 * **Question Stone Resolves:** Can the convictions rest solely on remote provenance?
 * **Stone's Legal Position:** Sustain the prohibition as a fitted component of the national restrictions on supplying firearms to convicted felons, not solely because the pistols once crossed a border.
-* **Stone's Proposed Holding:** Sustain the prohibition as a fitted component of the national restrictions on supplying firearms to convicted felons, not solely because the pistols once crossed a border.
+* **Stone's Proposed Holding:** Sustain the prohibition as a fitted component of the national restrictions on supplying firearms to convicted felons, not solely because the pistols once crossed a border. A firearm's remote interstate movement can satisfy the nexus Congress enacted in §922(g), but it is not by itself the constitutional basis for regulating the possession class: Congress cannot evade Lopez merely by adding a jurisdictional element, and the constitutional authority here is the fitted supply-and-recipient mechanism.
 * **Essential Reasoning and Record Application:** The statutory class is convicted felons possessing firearms with the enacted interstate nexus. Congress restricts supply to that class; permitting recipients freely to acquire and retain prohibited firearms would frustrate that rule through private redistribution and concealment. The possession provision addresses that identified enforcement mechanism. Extending Hale’s anti-evasion reasoning requires this explanation and does not equate all firearm possession with commerce. The burglary facts make the prosecution concrete but do not supply an uncharged commercial element or a general federal burglary power.
 * **Boundary or Reserved Question:** No Second Amendment holding or universal approval of every status disability.
 
