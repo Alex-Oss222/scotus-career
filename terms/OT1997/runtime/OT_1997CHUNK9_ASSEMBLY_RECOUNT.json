@@ -1,6 +1,6 @@
 {
   "counts": {
-    "Stone-Zsela": 9,
+    "Stone-Zsela": 10,
     "Stevens": 10,
     "O'Connor": 10,
     "Scalia": 9,
@@ -10,7 +10,7 @@
     "Ginsburg": 10,
     "Breyer": 10
   },
-  "counted_opinions": 86,
+  "counted_opinions": 87,
   "last_counted": {
     "case": "**Case and dockets:** United States v. Beggerly, No. 97-731; Fifth Circuit No. 95-60625, 114 F.3d 484.",
     "date": "1998-06-08",
@@ -286,7 +286,7 @@
       ]
     },
     {
-      "case": "Aponte Matos v. Toledo D\u00e1vila; First Circuit No. 97-1645.",
+      "case": "Aponte Matos v. Toledo Dávila; First Circuit No. 97-1645.",
       "date": "1998-02-26",
       "authors": [
         "Ginsburg"
@@ -419,7 +419,7 @@
       ]
     },
     {
-      "case": "Women\u2019s Medical Professional Corp. v. Voinovich; Sixth Circuit Nos. 96-3157 and 96-3159; no separate Supreme Court docket assigned.\r",
+      "case": "Women’s Medical Professional Corp. v. Voinovich; Sixth Circuit Nos. 96-3157 and 96-3159; no separate Supreme Court docket assigned.\r",
       "date": "1998-04-20",
       "authors": [
         "Souter"
@@ -577,6 +577,13 @@
       "date": "1998-05-26",
       "authors": [
         "Souter"
+      ]
+    },
+    {
+      "case": "Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County; Sixth Circuit Nos. 95-5863 and 95-5900, 130 F.3d 731; no separate Supreme Court docket supplied.",
+      "date": "1998-05-27",
+      "authors": [
+        "Stone-Zsela"
       ]
     },
     {

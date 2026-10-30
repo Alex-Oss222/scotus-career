@@ -1,7 +1,7 @@
 **Case and dockets:** Hopkins v. Reeves; No. 96-1693.
 **Event and date:** Plenary merits decision, 1998-06-08; argued February 23, 1998; OT1997.
 **Result:** Reverse and remand the Eighth Circuit's Beck-based conditional habeas grant, 8–1; Stevens dissents.
-**Version / lineage:** Original decision; supersedes no completed adjudication.
+**Version / lineage:** Original decision
 
 ## Decision kernel
 
@@ -21,7 +21,7 @@ Before counting, the case was fixed as one signed plenary Opinion of the Court o
 
 | Justice | Count before assignment | Last own counted event | Eligible | Balance pool | Chosen |
 |---|---:|---|---|---|---|
-| Stone-Zsela | 9 | Cabrales, June 1 | Yes | Yes | Yes |
+| Stone-Zsela | 10 | Cabrales, June 1 | Yes | Yes | No |
 | Stevens | 10 | Duffy, June 3 | No: dissents | No | No |
 | O'Connor | 10 | City of Florence, June 1 | Yes | Yes | No |
 | Scalia | 10 | Cass County, June 8 | Yes | Yes | No |
@@ -29,9 +29,9 @@ Before counting, the case was fixed as one signed plenary Opinion of the Court o
 | Souter | 10 | New Jersey v. New York, May 26 | Yes | Yes | No |
 | Thomas | 10 | Geissal, June 8 | Yes | Yes | No |
 | Ginsburg | 10 | DeCarlo, May 28 | Yes | Yes | No |
-| Breyer | 10 | Waste Management, May 27 | Yes | Yes | No |
+| Breyer | 9 | Kiowa Tribe, May 26 | Yes | Yes | Yes |
 
-The eligible minimum is nine; all eight eligible Justices are in the pool. Stone writes. The exact work is to preserve Beck's real instructional protection, distinguish the guilt offense from death eligibility, and retain review of genuinely arbitrary exclusions while rejecting these nonincluded alternatives. His approved position states those boundaries expressly. Scalia is the strongest alternative through Gaudin's element analysis, but that analysis alone does not address the distinct capital-reliability reservation; Stone's full formulation performs both tasks at the lower count. This is a case-specific fit judgment, not authorship by office or importance. Every majority Justice already accepts these limits; no expansion, changed join or imagined draft exchange is needed. Stevens writes his dissent because it states his own distinct and otherwise unrepresented constitutional ground.
+The eligible minimum is nine; all eight eligible Justices are in the pool. Breyer writes for fit and balance. His Gaudin join preserves the distinction between offense elements and punishment; his Buchanan dissent recognizes the practical risk of misleading capital instructions. Together they support the complete adopted rule: Beck protects legally available, evidence-supported lesser options, but does not create a nonincluded offense, and an actually arbitrary exclusion remains independently reviewable. Stone's explicit guilt/eligibility and reliability distinctions make him the strongest alternative. Breyer's frozen full H1 commitment carries those same limits as faithfully at nine counted leads against Stone's ten, so the lower-count preference selects Breyer. No additional proposition or accommodation is needed. Stevens's separate dissent retains its capital-culpability ground.
 
 ## Adaptive audit annex
 
@@ -88,7 +88,7 @@ The Beck-based instruction ground cannot sustain the reviewed relief. The decisi
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | Entire opinion |
+| Opinion of the Court | Breyer | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reversal and remand | Entire opinion |
 | Dissent | Stevens | No other Justice | Would preserve conditional habeas relief | Capital-culpability basis for the second-degree instruction |
 
 ## Holdings
@@ -97,7 +97,7 @@ The Beck-based instruction ground cannot sustain the reviewed relief. The decisi
 
 **Holding and operative rule.** Beck does not require a capital trial court to instruct on second-degree murder or manslaughter when those offenses are not lesser included offenses of the charged felony murder under Nebraska's governing elements. Its protection against withholding a legally available, evidence-supported lesser included option remains intact, as does independent constitutional review of a genuinely arbitrary exclusion.
 
-**Authority.** Stone-Zsela's Opinion of the Court, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies eight direct votes for this rule and explanation.
+**Authority.** Breyer's Opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, supplies eight direct votes for this rule and explanation.
 
 **Controlling explanation.** Beck invalidated a capital-only withdrawal of otherwise available lesser included instructions. Nebraska's generally applicable offense definitions present a different question. Felony murder does not require independent proof of intent to kill, and the requested crimes are not included under the State's settled definitions. A less severe punishment does not by itself make a different offense a lawful alternative verdict.
 

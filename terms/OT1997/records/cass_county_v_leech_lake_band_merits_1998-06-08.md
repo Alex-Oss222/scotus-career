@@ -1,7 +1,7 @@
 **Case and dockets:** Cass County v. Leech Lake Band of Chippewa Indians; No. 97-174.
 **Event and date:** Plenary merits decision, 1998-06-08; argued February 24, 1998; OT1997.
 **Result:** Reverse and remand concerning the eight Nelson Act sale parcels, 9–0, for parcel-specific application of the statutory authorization and independent federal protection.
-**Version / lineage:** Original decision; supersedes no completed adjudication.
+**Version / lineage:** Original decision
 
 ## Decision kernel
 
@@ -21,7 +21,7 @@ One signed Opinion of the Court was selected before recounting, for the single s
 
 | Justice | Count before assignment | Last own counted event | Eligible for complete opinion | Balance pool | Chosen |
 |---|---:|---|---|---|---|
-| Stone-Zsela | 9 | Cabrales, June 1 | Yes | Yes | No |
+| Stone-Zsela | 10 | Cabrales, June 1 | Yes | Yes | No |
 | Stevens | 10 | Duffy, June 3 | Yes | Yes | No |
 | O'Connor | 10 | City of Florence, June 1 | Yes | Yes | No |
 | Scalia | 9 | Gavin, May 21 | Yes | Yes | Yes |
@@ -29,9 +29,9 @@ One signed Opinion of the Court was selected before recounting, for the single s
 | Souter | 10 | New Jersey v. New York, May 26 | Yes | Yes | No |
 | Thomas | 9 | Lacy, May 28 | Yes | Yes | No |
 | Ginsburg | 10 | DeCarlo, May 28 | Yes | Yes | No |
-| Breyer | 10 | Waste Management, May 27 | Yes | Yes | No |
+| Breyer | 9 | Kiowa Tribe, May 26 | Yes | Yes | No |
 
-Minimum eligible count is nine; every eligible author is within one. Scalia writes because the legal work is to apply the exact source and incidence boundary his Yakima opinion states to a different federal disposal statute without broadening that boundary. His frozen commitment already supplies that precise treatment. Stone's parcel-specific formulation is compatible, but Scalia offers the concrete advantage of coordinating the new statutory application with the existing controlling formulation at an equal count. No unresolved objection requires an expansion assignment. Final compatibility establishes every join without invented circulation exchanges.
+Minimum eligible count is nine; every eligible author is within one. Scalia writes because the legal work is to apply the exact source and incidence boundary his Yakima opinion states to a different federal disposal statute without broadening that boundary. His frozen commitment already supplies that precise treatment. Stone's parcel-specific formulation is compatible, but Scalia offers the concrete advantage of coordinating the new statutory application with the existing controlling formulation at the lower count. No unresolved objection requires an expansion assignment. Final compatibility establishes every join without invented circulation exchanges.
 
 ## Adaptive audit annex
 

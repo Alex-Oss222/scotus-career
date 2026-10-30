@@ -109,7 +109,7 @@ Operator-reviewed qualifying form and authors taken from each Record Opinion Top
 | 1998-05-26 | county_of_sacramento_v_lewis_merits_1998-05-26.md | Kennedy | Signed lead merits opinion |
 | 1998-05-26 | kiowa_tribe_v_manufacturing_technologies_merits_1998-05-26.md | Breyer | Signed lead merits opinion |
 | 1998-05-26 | new_jersey_v_new_york_original_merits_1998-05-26.md | Souter | Signed lead merits opinion |
-| 1998-05-27 | waste_management_v_nashville_merits_1998-05-27.md | Breyer | Signed lead merits opinion |
+| 1998-05-27 | waste_management_v_nashville_merits_1998-05-27.md | Stone-Zsela | Signed lead merits opinion |
 | 1998-05-28 | decarlo_v_fry_merits_1998-05-28.md | Ginsburg | Signed lead merits opinion |
 | 1998-05-28 | united_states_v_lacy_merits_1998-05-28.md | Thomas | Signed lead merits opinion |
 | 1998-06-01 | city_of_florence_v_chipman_merits_1998-06-01.md | O'Connor | Signed lead merits opinion |
@@ -118,7 +118,7 @@ Operator-reviewed qualifying form and authors taken from each Record Opinion Top
 | 1998-06-08 | cass_county_v_leech_lake_band_merits_1998-06-08.md | Scalia | Signed lead merits opinion |
 | 1998-06-08 | dooley_v_korean_air_lines_merits_1998-06-08.md | Kennedy | Signed lead merits opinion |
 | 1998-06-08 | geissal_v_moore_medical_merits_1998-06-08.md | Thomas | Signed lead merits opinion |
-| 1998-06-08 | hopkins_v_reeves_merits_1998-06-08.md | Stone-Zsela | Signed lead merits opinion |
+| 1998-06-08 | hopkins_v_reeves_merits_1998-06-08.md | Breyer | Signed lead merits opinion |
 | 1998-06-08 | muscarello_cleveland_v_united_states_merits_1998-06-08.md | Breyer | Signed lead merits opinion |
 | 1998-06-08 | national_association_of_home_builders_v_babbitt_merits_1998-06-08.md | Souter | Signed lead merits opinion |
 | 1998-06-08 | new_mexico_ex_rel_ortiz_v_reed_summary_1998-06-08.md |  | Excluded: threshold, procedural, summary, per curiam or admitted source |

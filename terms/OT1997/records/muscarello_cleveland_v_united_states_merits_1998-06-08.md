@@ -1,7 +1,7 @@
 **Case and dockets:** Muscarello v. United States, No. 96-1654; Cleveland et al. v. United States, No. 96-8837.
 **Event and date:** Consolidated plenary merits decision, 1998-06-08; both dockets argued March 23, 1998; OT1997.
 **Result:** Affirm both appellate judgments on the reviewed carrying issue, 6–3; Scalia, Souter and Ginsburg dissent.
-**Version / lineage:** Original decision; supersedes no completed adjudication.
+**Version / lineage:** Original decision
 
 ## Decision kernel
 
@@ -21,7 +21,7 @@ Before counting, the two dockets were fixed as one signed plenary Opinion of the
 
 | Justice | Count before assignment | Last own counted event | Eligible | Balance pool | Chosen |
 |---|---:|---|---|---|---|
-| Stone-Zsela | 10 | Hopkins, June 8 | Yes | Yes | No |
+| Stone-Zsela | 10 | Cabrales, June 1 | Yes | Yes | No |
 | Stevens | 10 | Duffy, June 3 | Yes | Yes | No |
 | O'Connor | 10 | City of Florence, June 1 | Yes | Yes | No |
 | Scalia | 10 | Cass County, June 8 | No: dissents | No | No |
@@ -29,7 +29,7 @@ Before counting, the two dockets were fixed as one signed plenary Opinion of the
 | Souter | 10 | New Jersey v. New York, May 26 | No: dissents | No | No |
 | Thomas | 10 | Geissal, June 8 | Yes | Yes | No |
 | Ginsburg | 10 | DeCarlo, May 28 | No: dissents | No | No |
-| Breyer | 10 | Waste Management, May 27 | Yes | Yes | Yes |
+| Breyer | 10 | Hopkins, June 8 | Yes | Yes | Yes |
 
 All six eligible authors are at the minimum, ten. Breyer writes for fit: his frozen ground states the ordinary conveyance meaning while making personal accompaniment, knowledge and the independent offense connection do separate work; his Bay Area Laundry statutory-sequence writing demonstrates the capability needed to explain related statutory requirements without merging them. O'Connor is a strong alternative through Smith and Bailey, but their use-prong work creates no unique authorship advantage for defining this separate conduct. Stone's approved construction is equally compatible and supplies no needed accommodation unavailable to Breyer. No expansion assignment, historical authorship import or fictional circulation is used.
 

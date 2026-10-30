@@ -1,7 +1,7 @@
 **Case and dockets:** Dooley v. Korean Air Lines Co.; No. 97-704.
 **Event and date:** Plenary merits decision, 1998-06-08; argued April 27, 1998; OT1997.
 **Result:** Affirm rejection of the general maritime survival claim for predeath pain and suffering, 9–0.
-**Version / lineage:** Original decision; supersedes no completed adjudication.
+**Version / lineage:** Original decision
 
 ## Decision kernel
 
@@ -21,7 +21,7 @@ One signed plenary Opinion of the Court and one survival holding were fixed befo
 
 | Justice | Count before assignment | Last own counted event | Eligible | Balance pool | Chosen |
 |---|---:|---|---|---|---|
-| Stone-Zsela | 9 | Cabrales, June 1 | Yes | Yes | No |
+| Stone-Zsela | 10 | Cabrales, June 1 | Yes | Yes | No |
 | Stevens | 10 | Duffy, June 3 | Yes | Yes | No |
 | O'Connor | 10 | City of Florence, June 1 | Yes | Yes | No |
 | Scalia | 10 | Cass County, June 8 | Yes | Yes | No |
@@ -29,7 +29,7 @@ One signed plenary Opinion of the Court and one survival holding were fixed befo
 | Souter | 10 | New Jersey v. New York, May 26 | Yes | Yes | No |
 | Thomas | 9 | Lacy, May 28 | Yes | Yes | No |
 | Ginsburg | 10 | DeCarlo, May 28 | Yes | Yes | No |
-| Breyer | 10 | Waste Management, May 27 | Yes | Yes | No |
+| Breyer | 9 | Kiowa Tribe, May 26 | Yes | Yes | No |
 
 The eligible minimum is nine; all nine are in the balance pool. Kennedy writes. His frozen ground squarely distinguishes the estate's injury from the beneficiaries' loss before explaining why the actual statutory compensation arrangement still forecloses this judicial supplement. His Miles, Yamaha and Zicherman joins support that work. O'Connor is a strong alternative through her prior writings, but Kennedy can preserve the same field and remedial distinctions at the lower count. Stone supplies a compatible design-based rationale; Kennedy performs it equally well and requires no expansion accommodation. No fabricated circulation or change in commitment is asserted.
 

@@ -246,7 +246,7 @@ The Beck-based instruction ground cannot sustain the reviewed relief. The decisi
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | Entire opinion |
+| Opinion of the Court | Breyer | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reversal and remand | Entire opinion |
 | Dissent | Stevens | No other Justice | Would preserve conditional habeas relief | Capital-culpability basis for the second-degree instruction |
 
 ## Holdings
@@ -255,7 +255,7 @@ The Beck-based instruction ground cannot sustain the reviewed relief. The decisi
 
 **Holding and operative rule.** Beck does not require a capital trial court to instruct on second-degree murder or manslaughter when those offenses are not lesser included offenses of the charged felony murder under Nebraska's governing elements. Its protection against withholding a legally available, evidence-supported lesser included option remains intact, as does independent constitutional review of a genuinely arbitrary exclusion.
 
-**Authority.** Stone-Zsela's Opinion of the Court, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies eight direct votes for this rule and explanation.
+**Authority.** Breyer's Opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, supplies eight direct votes for this rule and explanation.
 
 **Controlling explanation.** Beck invalidated a capital-only withdrawal of otherwise available lesser included instructions. Nebraska's generally applicable offense definitions present a different question. Felony murder does not require independent proof of intent to kill, and the requested crimes are not included under the State's settled definitions. A less severe punishment does not by itself make a different offense a lawful alternative verdict.
 

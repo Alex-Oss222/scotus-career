@@ -1,7 +1,7 @@
 **Case and dockets:** Geissal v. Moore Medical Corp.; No. 97-689.
 **Event and date:** Plenary merits decision, 1998-06-08; argued April 29, 1998; OT1997.
 **Result:** Vacate and remand the reviewed Rule 54(b) judgment; eight Justices favor vacatur on Count I and Stone would reverse that component; Count II is vacated unanimously without an independent estoppel holding.
-**Version / lineage:** Original decision; supersedes no completed adjudication.
+**Version / lineage:** Original decision
 
 ## Decision kernel
 
@@ -27,7 +27,7 @@ Stevens, the senior Associate in Count I's eight-member vacatur coalition, assig
 
 | Justice | Count before assignment | Last own counted event | Eligible for complete opinion | Balance pool | Chosen |
 |---|---:|---|---|---|---|
-| Stone-Zsela | 9 | Cabrales, June 1 | No: Count I remedy differs; Count II is judgment-only | No | No |
+| Stone-Zsela | 10 | Cabrales, June 1 | No: Count I remedy differs; Count II is judgment-only | No | No |
 | Stevens | 10 | Duffy, June 3 | Yes | Yes | No |
 | O'Connor | 10 | City of Florence, June 1 | Yes | Yes | No |
 | Scalia | 10 | Cass County, June 8 | Yes | Yes | No |
@@ -35,7 +35,7 @@ Stevens, the senior Associate in Count I's eight-member vacatur coalition, assig
 | Souter | 10 | New Jersey v. New York, May 26 | Yes | Yes | No |
 | Thomas | 9 | Lacy, May 28 | Yes | Yes | Yes |
 | Ginsburg | 10 | DeCarlo, May 28 | Yes | Yes | No |
-| Breyer | 10 | Waste Management, May 27 | Yes | Yes | No |
+| Breyer | 9 | Kiowa Tribe, May 26 | Yes | Yes | No |
 
 The eligible minimum is nine, so all eight Associates qualify for the pool. Thomas's frozen Inter-Modal and Bay Area Laundry joins support the exact statutory event, distinct qualification and restrained remand required here. The work calls for enforcing the sequence and identifying what it does not decide, not importing Varity's fiduciary theory. Souter is a strong alternative through that benefit-administration work, but Thomas can perform this narrower textual task at the lower count. Stevens's assignment likewise reflects the shared text-based statutory resolution and bounded relief, rather than a Chief-imposed substantive change. The separate Stone remedy is preserved; no expansion or fictional draft exchange is claimed.
 

@@ -17205,7 +17205,7 @@ Bousley v. United States, No. 96-8516. Decided 1998-05-18: misdescribed offense 
 
 **Holding:** Beck does not require a capital trial court to instruct on second-degree murder or manslaughter when those offenses are not lesser included offenses of the charged felony murder under Nebraska's governing elements. Its protection against withholding a legally available, evidence-supported lesser included option remains intact, as does independent constitutional review of a genuinely arbitrary exclusion.
 
-**Proposition-level authority:** Stone-Zsela's Opinion of the Court, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies eight direct votes for this rule and explanation.
+**Proposition-level authority:** Breyer's Opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, supplies eight direct votes for this rule and explanation.
 
 **Limits and questions not reached:** The Court does not approve withholding a genuine, supported lesser included instruction. An unpresented manslaughter-arbitrariness claim, the Teague question, any separate challenge to a presumption of intent, and the independent validity of judge sentencing remain undecided. Judicial selection of the sentence is an additional factual distinction, not a categorical cure for an unreliable guilt choice. The death-eligibility culpability requirement does not itself change the elements of the guilt offense.
 

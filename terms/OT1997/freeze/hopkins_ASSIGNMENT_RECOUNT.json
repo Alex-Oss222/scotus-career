@@ -1,6 +1,6 @@
 {
   "counts": {
-    "Stone-Zsela": 9,
+    "Stone-Zsela": 10,
     "Stevens": 10,
     "O'Connor": 10,
     "Scalia": 10,
@@ -8,7 +8,7 @@
     "Souter": 10,
     "Thomas": 10,
     "Ginsburg": 10,
-    "Breyer": 10
+    "Breyer": 9
   },
   "counted_opinions": 89,
   "last_counted_event": {
@@ -326,7 +326,7 @@
     },
     {
       "file": "aponte_matos_v_toledo_davila_merits_1998-02-26.md",
-      "case": "Aponte Matos v. Toledo D\u00e1vila; First Circuit No. 97-1645.",
+      "case": "Aponte Matos v. Toledo Dávila; First Circuit No. 97-1645.",
       "date": "1998-02-26",
       "authors": [
         "Ginsburg"
@@ -665,7 +665,7 @@
       "case": "Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County; Sixth Circuit Nos. 95-5863 and 95-5900, 130 F.3d 731; no separate Supreme Court docket supplied.",
       "date": "1998-05-27",
       "authors": [
-        "Breyer"
+        "Stone-Zsela"
       ]
     },
     {

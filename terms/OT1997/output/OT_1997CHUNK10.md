@@ -223,9 +223,11 @@ Argued February 23, 1998. On writ of certiorari to the United States Court of Ap
 
 Reeves was convicted of two Nebraska felony murders arising from sexual assault or attempted sexual assault. The trial court refused instructions on second-degree murder and manslaughter because Nebraska does not classify them as lesser included offenses of felony murder. A three-judge panel later imposed death. The Eighth Circuit rejected a separate due-process ground but granted conditional habeas relief on the instruction theory. The question is whether Beck requires these nonincluded alternatives in a capital prosecution.
 
-All nine Justices participated at argument and decision.
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
+
+The Court reverses the conditional habeas judgment on the reviewed instruction ground and remands for further proceedings consistent with its decision.
 
 **Reversed and remanded, 8–1.**
 
@@ -235,15 +237,20 @@ All nine Justices participated at argument and decision.
 
 The Beck-based instruction ground cannot sustain the reviewed relief. The decision does not reinstate the separately rejected due-process theory, determine an unrelated habeas claim, order unconditional discharge or set an execution date.
 
-Chief Justice Stone-Zsela delivered the opinion of the Court, joined in full by Justices O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Justice Stevens dissented and would preserve conditional habeas relief on a capital-culpability ground for the second-degree instruction.
+#### Opinion Topology
 
-#### Holdings
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Breyer | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reversal and remand | Entire opinion |
+| Dissent | Stevens | No other Justice | Would preserve conditional habeas relief | Capital-culpability basis for the second-degree instruction |
+
+#### Controlling Propositions and Authority
 
 ##### Beck does not require creation of a nonincluded offense
 
 **Holding and operative rule.** Beck does not require a capital trial court to instruct on second-degree murder or manslaughter when those offenses are not lesser included offenses of the charged felony murder under Nebraska's governing elements. Its protection against withholding a legally available, evidence-supported lesser included option remains intact, as does independent constitutional review of a genuinely arbitrary exclusion.
 
-**Authority.** The eight-Justice Opinion of the Court identified above controls this rule and explanation.
+**Authority.** Breyer's Opinion of the Court, joined in full by the eight Justices identified above, supplies eight direct votes for this rule and explanation.
 
 **Controlling explanation.** Beck invalidated a capital-only withdrawal of otherwise available lesser included instructions. Nebraska's generally applicable offense definitions present a different question. Felony murder does not require independent proof of intent to kill, and the requested crimes are not included under the State's settled definitions. A less severe punishment does not by itself make a different offense a lawful alternative verdict.
 
@@ -271,17 +278,19 @@ Capital reliability requires the protections Beck actually establishes, includin
 
 #### Separate Writings
 
-**Justice Stevens, dissenting.** He would preserve the conditional habeas relief. He accepts the ordinary state-law distinction between felony murder and second-degree murder but considers a prosecution seeking death materially different. Enmund's intent requirement and Tison's culpability equivalent—major participation in the underlying felony combined with reckless indifference to human life—limit capital punishment. In his view, that capital culpability removes the justification for denying the second-degree alternative in this prosecution. Beck's concern about a jury choosing a capital conviction over acquittal therefore remains substantial. Spaziano's time-barred alternative does not answer that objection. He proposes neither a universal right to instructions on unrelated crimes nor a separate ruling that judicial sentencing is unconstitutional.
-
-#### Source Notes
-
-The reported facts, Nebraska offense distinction and review posture appear at [524 U.S. 88](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-88.pdf). [Spaziano v. Florida, 468 U.S. 447](https://www.govinfo.gov/content/pkg/USREPORTS-468/pdf/USREPORTS-468-447.pdf), supplies the earlier legal-availability discussion. The account of Nebraska law is not a new finding that the jury determined actual intent to kill or a decision on an unpresented presumption challenge.
+Stevens would preserve the conditional habeas relief. He accepts the ordinary state-law distinction between felony murder and second-degree murder but considers a prosecution seeking death materially different. Enmund's intent requirement and Tison's culpability equivalent—major participation in the underlying felony combined with reckless indifference to human life—limit capital punishment. In his view, that capital culpability removes the justification for denying the second-degree alternative in this prosecution. Beck's concern about a jury choosing a capital conviction over acquittal therefore remains substantial. Spaziano's time-barred alternative does not answer that objection. He proposes neither a universal right to instructions on unrelated crimes nor a separate ruling that judicial sentencing is unconstitutional.
 
 #### Mandate, Remedy, and Stage
 
 The Eighth Circuit's conditional habeas judgment is reversed on the reviewed instruction theory and the case remanded. Properly remaining proceedings must respect the nonincluded-offense holding; no other habeas ground or execution schedule is resolved.
 
-**End of entry: Hopkins v. Reeves, Plenary merits decision, June 8, 1998.**
+#### Source Notes
+
+The reported facts, Nebraska offense distinction and review posture appear at [524 U.S. 88](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-88.pdf). [Spaziano v. Florida, 468 U.S. 447](https://www.govinfo.gov/content/pkg/USREPORTS-468/pdf/USREPORTS-468-447.pdf), supplies the earlier legal-availability discussion. The account of Nebraska law is not a new finding that the jury determined actual intent to kill or a decision on an unpresented presumption challenge.
+
+**End of entry: Hopkins v. Reeves, No. 96-1693, plenary merits decision, June 8, 1998.**
+
+---
 
 ---
 

@@ -1460,14 +1460,14 @@
       "file": "waste_management_v_nashville_merits_1998-05-27.md",
       "date": "1998-05-27",
       "title": "Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County; Sixth Circuit Nos. 95-5863 and 95-5900, 130 F.3d 731; no separate Supreme Court docket supplied.",
-      "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion announcing the judgment; plurality rationale | Breyer | O'Connor, Souter, Ginsburg | Supports vacatur and remand of both components | Full actual-service comparison, conditional scrutiny and independent fee analysis; four rationale votes |\n| Concurrence in the judgment | Stone-Zsela | No other Justice | Joins both vacaturs and the complete remand mandate | No join in the plurality rationale; favors outright reversal on public-system and cost-bound fee grounds |\n| Dissent | Kennedy | Stevens | Would affirm both reviewed determinations | Discrimination in compelled private transactions and failure of the separate fee defense |\n| Dissent | Thomas | Scalia | Would reverse both determinations and end the reviewed Commerce grounds | Constitutional objection to the judicial negative Commerce Clause; no join in the renewed-Commerce mandate |\n\nThe plurality and Kennedy's dissent supply six direct supporters for the two limited purchasing and compensation propositions below. That agreement creates no additional opinion join or vote for the remand judgment.",
+      "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Stone-Zsela | O'Connor, Souter, Ginsburg, Breyer | Vacates and remands both reviewed determinations | Entire opinion: public-facility rule, genuine-public inquiry, independent diversion-cost requirement, purchasing and compensation limits, and remand scrutiny |\n| Concurrence | Stone-Zsela | No other Justice | Joins the complete remand judgment; prefers outright reversal | Personal remedial preference only; no qualification of the Court's rule or finding that either enacted measure is valid |\n| Dissent | Kennedy | Stevens | Would affirm both reviewed determinations | Discrimination in compelled private transactions and failure of the separate fee defense |\n| Dissent | Thomas | Scalia | Would reverse both determinations and end the reviewed Commerce grounds | Constitutional objection to the judicial negative Commerce Clause; no join in the renewed-Commerce mandate |\n\nEvery holding below is supported directly by the five Justices joining the Opinion of the Court in full. No fractured-opinion synthesis is needed. Stevens and Kennedy also accept the limited purchasing and compensation applications, without joining the Court's rule or judgment.",
       "event": "Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County; Sixth Circuit Nos. 95-5863 and 95-5900, 130 F.3d 731. Decided May 27, 1998, on full merits submission. No separate Supreme Court docket or argument date is established. Review under 28 U.S.C. §1254(1) concerns the Sixth Circuit's November 5, 1997 Commerce Clause determinations against compulsory routing to Metro's waste-to-energy facility and the separate fee on disposal outside its system. The court of appeals exercised §1292(a)(1) jurisdiction over the injunction rulings, reversing denial of the routing injunction and affirming the fee injunction. Its separate passenger-car/pickup takings and ripeness remand is outside this review.\n\nMetro owns the facility; Nashville Thermal Transfer Corporation operates it. Residential routing permits the Director's specific written authorization for another destination. Nonresidential routing is limited to allocations needed for the reported 6,300-ton weekly requirement, based on monthly reporting, at-least-quarterly pro rata calculations using the best available data, and advance facility and collector notices. The separate charge is $2 per cubic yard or $8 per ton on the specified waste generated or collected within Metro and disposed at non-Metro facilities inside or outside Metro; NTTC and other Metro-owned sites are exempt.",
       "tables": "",
       "counted": true,
       "authors": [
-        "Breyer"
+        "Stone-Zsela"
       ],
-      "sha256": "5838482560c76cf359dc5afe44d9e54b299b932ced9341dc069891888cb52b4c",
+      "sha256": "b02de10c336a9d11ae5cd87717fc893976fdfc278f8c1ed070f0aa398034b688",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1481,7 +1481,7 @@
       "authors": [
         "Ginsburg"
       ],
-      "sha256": "c1c1a15ca33aff773ac6b61ec12c92c047e5e91b103ab13e6e929a88b8dc2ef8",
+      "sha256": "5f5f9114d75933bd1a1fefb6f91d3a9658e2c993af3240150559d66e88722231",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1495,7 +1495,7 @@
       "authors": [
         "Thomas"
       ],
-      "sha256": "365bf66312f1f632d28788a4132a2eef0cb5a6631738e1e93affc329a2441be3",
+      "sha256": "55177aba937f5c350ce8a23f297ee0542ad4757e48ec1fb0ec4a013db52b712f",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1509,7 +1509,7 @@
       "authors": [
         "O'Connor"
       ],
-      "sha256": "991957451a00f41efbe077141a8983ab2774ef828c6fd409fbbb7845bf936dac",
+      "sha256": "b8198f48bc54ebec5775ce2a8b55ccc64f59102666526588395d5e4bef2dc591",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1523,7 +1523,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "sha256": "3a4f8a8ff937a740b726e8f7a589d51a44f944beafdd948583b8a49874d43f42",
+      "sha256": "4d750e4e7bdec01b5aaad28c887b517d49e71c06d90e72a012d9887e3687dab9",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1537,7 +1537,7 @@
       "authors": [
         "Stevens"
       ],
-      "sha256": "5588bf6118bcf3fdc02b6063dcb9750de0ea74c8a0dab8ba6b000e0cbe47bdf4",
+      "sha256": "cde34026e145b390b11a6409983d49ae01a542b49d4560cf5fa81b528fd68452",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1551,7 +1551,7 @@
       "authors": [
         "Scalia"
       ],
-      "sha256": "0ca805c5d35a271dc2968e2ca29e3edbea8e0b03d6252bb724750d0d4c5eb129",
+      "sha256": "eecf1b48cb6fe5c5e09cc963c1953c46d9897a9c5dc7cc78a79eac8f64ad2e34",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1565,7 +1565,7 @@
       "authors": [
         "Kennedy"
       ],
-      "sha256": "1bed6d4f8b89fbcf65147e27ade9f37af9701b564ea8f78f07690c831429efe2",
+      "sha256": "396359e86d109a113497cb1838d3657dde079e5414076b2bfae86131adc22599",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1579,21 +1579,21 @@
       "authors": [
         "Thomas"
       ],
-      "sha256": "616d9aa5f93cdf2de935160f02cdd39de9ca76875d683b30be57a69ea1749032",
+      "sha256": "39b54d0106ad66a46fc9203b7de3d6ea663fdc1084e06c63c7d2ee18f19333cb",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
       "file": "hopkins_v_reeves_merits_1998-06-08.md",
       "date": "1998-06-08",
       "title": "Hopkins v. Reeves; No. 96-1693.",
-      "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | Entire opinion |\n| Dissent | Stevens | No other Justice | Would preserve conditional habeas relief | Capital-culpability basis for the second-degree instruction |",
+      "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court | Breyer | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reversal and remand | Entire opinion |\n| Dissent | Stevens | No other Justice | Would preserve conditional habeas relief | Capital-culpability basis for the second-degree instruction |",
       "event": "Hopkins v. Reeves, No. 96-1693. Plenary merits decision, June 8, 1998. Argued February 23, 1998. On writ of certiorari to the United States Court of Appeals for the Eighth Circuit.\n\nReeves was convicted of two Nebraska felony murders arising from sexual assault or attempted sexual assault. The trial court refused instructions on second-degree murder and manslaughter because Nebraska does not classify them as lesser included offenses of felony murder. A three-judge panel later imposed death. The Eighth Circuit rejected a separate due-process ground but granted conditional habeas relief on the instruction theory. The question is whether Beck requires these nonincluded alternatives in a capital prosecution.",
       "tables": "",
       "counted": true,
       "authors": [
-        "Stone-Zsela"
+        "Breyer"
       ],
-      "sha256": "fac600f10900706c2584246c1e2537c2512cb321ecb1507fa2a3c8ea1cf27d21",
+      "sha256": "2d94c1e41c07036838dfe6b6accd7ea04e4e2bc06ce08ce96abf216cd3c8aeac",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1607,7 +1607,7 @@
       "authors": [
         "Breyer"
       ],
-      "sha256": "8c10c24a01def3f563860b20fa4972dbe6028367837264ce30f288789115464c",
+      "sha256": "be3d466690e3fc538f3ad4417a7966dbde267b570010cdcfb31dce4b28b03b89",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     }
   ]
