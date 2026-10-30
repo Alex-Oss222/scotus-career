@@ -1617,13 +1617,13 @@ For the other questions in AT&T Corp. v. Iowa Utilities Board, decided 1999-01-2
 
 **Holding:** A formally promulgated Customs regulation implementing Congress's actual delegation receives Chevron review in tariff litigation: courts first enforce unambiguous statutory requirements and the delegation's boundaries, then assess a reasonable agency choice within genuine ambiguity. The Court of International Trade's duty to decide on its own record does not repeal that legal framework; agency labels and notice and comment alone do not establish authority or validity.
 
-**Proposition-level authority:** Chief Justice Stone-Zsela's opinion, Parts I–III, unanimous.
+**Proposition-level authority:** Kennedy's opinion, Parts I–III, unanimous.
 
 ##### This regulation's statutory fit and actual application require the corrected inquiry
 
 **Holding:** The judgment must be vacated because categorical nondeference left unresolved whether the regulation reasonably respects the tariff's incidental-assembly allowance and lawfully applies to this process. On remand the courts must enforce the enacted conditions, examine the regulation's actual introductory terms and examples, and resolve relevant application questions under the proper review standards; neither regulatory validity nor the claimed exemption is established in advance.
 
-**Proposition-level authority:** Chief Justice Stone-Zsela's Part IV, joined by O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer (seven Justices).
+**Proposition-level authority:** Kennedy's Part IV, joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas and Breyer (seven Justices).
 
 **Limits and questions not reached:** The tariff requires United States fabricated components exported ready for assembly without further fabrication, retention of physical identity and no foreign advancement or improvement except assembly and incidental operations including cleaning, lubricating and painting. The allowance reduces duties by qualifying component cost or value, with proportional treatment of specific/compound rates; it does not exempt the entire article. Regulation §10.16(b) permits incidental operations before, during or after assembly, including ordinary final pressing/folding; §10.16(c)'s significant nonassembly processes and unrelated processes retain their introductory conditions despite chemical-treatment examples. Timing after sewing alone does not decide the issue. Informal letters and later administrative doctrines are not decided.
 

@@ -28,8 +28,8 @@ All three publication headers match exactly. Holdings is published in the contin
 
 | Published tracker | SHA-256 |
 |---|---|
-| [HOLDINGS](../../../state/HOLDINGS.md) | `b0643c1390c017b76d80282583b965a43f3fae175e358ef8c5b1feef279dfe04` |
-| [STANDARDS_AND_TESTS](../../../state/STANDARDS_AND_TESTS.md) | `a87c7161c1bd862502a7aa95dab839bc2517722649c9413d25a4dc831021dd4a` |
+| [HOLDINGS](../../../state/HOLDINGS.md) | `00832cd77766b25d57a9de0f64673e61edd0883e755a65769097f32bc6d16eb6` |
+| [STANDARDS_AND_TESTS](../../../state/STANDARDS_AND_TESTS.md) | `9a4063ebff7d0db2025d426d45e113bb78630618fb182782ca737a5f2ce484e5` |
 | [STANDING_STATE](../../../state/STANDING_STATE.md) | `102295da767d405e04b8a8d1df25e56b8e389b2e7c4c333e40c6abc4d296054d` |
 
 ## Controlling arms decisions
@@ -41,6 +41,14 @@ All three publication headers match exactly. Holdings is published in the contin
 **Hiley v. Barrett, October 9, 1998.** The Court unanimously affirms dismissal of the surviving civil constitutional action. O'Connor's opinion has all eight Associates' full joins; Stone-Zsela concurs only in the judgments. The commerce holding rests on the connection between prohibited supply and possession by qualifying recipients; the distinct equality, employment, prospective-conduct, attainder and state-administration grounds retain their own limits. Wright and Fraternal Order of Police govern preserved arms challenges, but do not revive Hiley's abandoned claim. Stone-Zsela's additional arms application and never-lost-rights construction are noncontrolling.
 
 The [final audit](AUDIT.md) records four nonblocking notes and its disclosed filename-discovery limitation.
+
+## Controlling Commerce decision
+
+[United States v. Griffin / United States v. Langley](../records/united_states_v_griffin_and_langley_merits_1998-10-29.md), October 29, 1998. Chief Justice Stone-Zsela delivers the unanimous opinion of the Court, Parts I?III. Both judgments are affirmed, with no separate writing.
+
+Effective October 29, 1998, the sections 922(d)(1) and 922(g)(1) supply-and-recipient mechanism supplies constitutional authority over these two local pistol possessions. Remote interstate movement may satisfy the enacted nexus but does not alone justify regulation of the possession class; Congress cannot evade Lopez merely by adding a jurisdictional element. Constitutional authority, the enacted nexus and evidence proving that nexus remain separate inquiries. No contemporaneous movement or individual direct-effect element is added, while proof beyond a reasonable doubt remains necessary for each firearm.
+
+Both convictions stand on the expert testimony concerning both Connecticut-manufactured pistols and their separate North Carolina possession. The decision supplies no new arms claim, universal approval of every status restriction, recipient mental-state rule, replacement jury charge or sentencing holding.
 
 ## Final continuity and carry-forward
 

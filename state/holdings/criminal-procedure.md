@@ -3340,13 +3340,13 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
 
-For the other questions in this decision, see Constitutional Structure — Commerce power and armed vehicle taking (The vehicle-taking economic class supplies the commerce connection).
+For the other questions in this decision, see Constitutional Structure — Commerce power and armed vehicle taking (Congress may protect the transportation instrumentality against this direct forcible taking).
 
 ##### Knowing participation and intentional assistance give the original offense definite content
 
 **Holding:** Original §2119 requires knowing armed participation in taking or attempting to take the covered vehicle from another's person or presence by force and violence or intimidation; aiding-and-abetting liability requires intentional assistance in that taking, not mere presence, association, or awareness of another's plan. Read with that ordinary criminal fault, the statute gives fair notice of the charged conduct and defeats the presented lack-of-fault and vagueness challenges without adding a profit motive, interstate-resale intention, knowledge of federal law, or the later intent-to-kill-or-seriously-injure element.
 
-**Proposition-level authority:** O'Connor and all seven other Associate Justices adopt the complete knowing-participation and intentional-assistance rule. Stone-Zsela additionally joins knowing participation, fair notice and rejection of a general legal-knowledge requirement, but not the separately stated intentional-assistance formulation.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for knowing participation, intentional assistance, fair notice, and rejection of a general legal-knowledge requirement. The Chief Justice’s additional conclusions about knowledge of interstate history and permanent deprivation appear only in his separate concurrence and have no additional joins.
 
 **Treatment of earlier authority:**
 
@@ -3360,7 +3360,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 **Holding:** The offense-date §924(c) authorizes its additional, consecutive punishment for the original §2119 carjacking predicate even though firearm possession is integral to that predicate's definition. The Government must still establish firearm use or carrying during and in relation to a qualifying federally prosecutable predicate; this cumulative-authorization holding does not equate possession with every §924(c) condition or determine universal element overlap.
 
-**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on cumulative statutory authorization.
+**Proposition-level authority:** Stone-Zsela's opinion, joined on this statutory holding by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes. The holding sustains the reviewed forty-one-month carjacking terms and additional sixty-month firearm terms, not an unreviewed weapon enhancement.
 
 **Treatment of earlier authority:**
 
@@ -3372,7 +3372,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 **Holding:** Applying Missouri v. Hunter, the clearly authorized §2119 and §924(c) convictions and consecutive punishments imposed in this single prosecution do not violate the Double Jeopardy Clause even assuming overlap under Blockburger. This holding applies the governing same-trial precedent to the clear statutory direction and neither decides universal element overlap nor changes the rules for successive prosecutions.
 
-**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on the bounded application of Hunter.
+**Proposition-level authority:** Stone-Zsela's opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this bounded application. Stevens joins the application of controlling Hunter while preserving his earlier objection to legislative multiplication of convictions; his reservation does not subtract a vote from this limited holding.
 
 **Treatment of earlier authority:**
 
@@ -4446,7 +4446,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** Congress did not authorize cumulative convictions and punishment under §§846 and 848 for the included agreement here. Concurrent imprisonment does not cure the unauthorized second conviction.
 
-**Proposition-level authority:** Stevens's Part II, joined by all eight Associates. Stone-Zsela also joins Ball's second-conviction and concurrency propositions and the invalidity of these two judgments on his narrower charged-and-tried basis.
+**Proposition-level authority:** Stevens's Part II, joined by the other seven Associate Justices. Stone-Zsela also joins Ball's second-conviction and concurrency propositions and the invalidity of these two judgments on his narrower charged-and-tried basis.
 
 **Treatment of earlier authority:** Hunter supplies the single-prosecution authorization inquiry; Blockburger and Whalen supply the elements comparison and presumption against cumulation. Jeffers's no-cumulative-punishment conclusion applies, while retention of its unreviewed earlier judgment establishes no contrary dual-conviction rule. Ball makes the second conviction consequential despite concurrency. Garrett and Felix preserve the distinct substantive-predicate and agreement/substantive-offense rules. Harris and Bishop/Stokes concern a different pairing expressly authorized by §924(c). Witte's authorized relevant-conduct sentencing is distinct from another conviction, and Dixon's retained Grady rule is unchanged. No independent constitutional punishment rule beyond congressional authorization is adopted.
 
@@ -4454,7 +4454,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** The mandatory $50 assessment on the second felony conviction is actual additional punishment and may be considered in the preserved challenge to both judgments even though not separately challenged below. Vacatur must remove the selected count's assessment.
 
-**Proposition-level authority:** Stevens's Part III, joined by all eight Associates. Stone-Zsela joins actual additional punishment and removal of the assessment, but not the separate presentation ruling.
+**Proposition-level authority:** Stevens's Part III, joined by the other seven Associate Justices. Stone-Zsela joins actual additional punishment and removal of the assessment, but not the separate presentation ruling.
 
 **Limits and questions not reached:** The automatic consequence answers the claim of no additional punishment; it creates no general preservation exception, freestanding refund claim or finding about payment, collection or expiration. Ball makes speculative collateral-consequence prediction unnecessary given the concrete assessment.
 
@@ -4462,7 +4462,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** The District Court must vacate either Count 1 or Count 2, its entire corresponding life sentence and its $50 assessment, initially choosing within lawful discretion. Vacating only a sentence, staying its execution or combining labels does not remove the unauthorized second judgment.
 
-**Proposition-level authority:** Stevens's Part IV, joined by all eight Associates. Stone-Zsela joins required removal of one judgment, sentence and assessment without reopening Counts 3–6, but would require conspiracy-only vacatur.
+**Proposition-level authority:** Stevens's Part IV, joined by the other seven Associate Justices. Stone-Zsela joins required removal of one judgment, sentence and assessment without reopening Counts 3–6, but would require conspiracy-only vacatur.
 
 **Operative remedy or transition:** Reverse the dual-conviction ruling, 9–0; either-count discretion commands eight votes. The assessment total falls from $300 to $250. The surviving challenged count and Counts 3–6, including Count 3's independent life term, remain intact. No release, acquittal, trial, general resentencing or reopening of unrelated objections follows.
 
@@ -4472,7 +4472,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** In an appropriate case, an appellate court may direct entry of judgment on a valid lesser included offense when reversal rests on a defect affecting only the greater offense. That corrective authority supplies no entitlement to retain two convictions now and no automatic later reinstatement.
 
-**Proposition-level authority:** Stevens's Part V, joined by all eight Associates; Stone-Zsela does not join.
+**Proposition-level authority:** Stevens's Part V, joined by the other seven Associate Justices; Stone-Zsela does not join.
 
 **Limits and questions not reached:** A defect tainting the agreement or lesser verdict cannot be ignored. Exact future procedural vehicle, limits, contested reinstatement, retrial, compelled lesser judgment and harmlessness remain open. Duplication vacatur is not an evidentiary acquittal. Earlier separate conspiracy prosecution, previously unknown CCE facts and a noncoterminous enterprise are not decided.
 
@@ -6257,7 +6257,7 @@ Bousley v. United States, No. 96-8516. Decided 1998-05-18: misdescribed offense 
 
 **Holding:** Beck does not require a capital trial court to instruct on second-degree murder or manslaughter when those offenses are not lesser included offenses of the charged felony murder under Nebraska's governing elements. Its protection against withholding a legally available, evidence-supported lesser included option remains intact, as does independent constitutional review of a genuinely arbitrary exclusion.
 
-**Proposition-level authority:** Stone-Zsela's Opinion of the Court, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies eight direct votes for this rule and explanation.
+**Proposition-level authority:** Breyer's Opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, supplies eight direct votes for this rule and explanation.
 
 **Limits and questions not reached:** The Court does not approve withholding a genuine, supported lesser included instruction. An unpresented manslaughter-arbitrariness claim, the Teague question, any separate challenge to a presumption of intent, and the independent validity of judge sentencing remain undecided. Judicial selection of the sentence is an additional factual distinction, not a categorical cure for an unreliable guilt choice. The death-eligibility culpability requirement does not itself change the elements of the guilt offense.
 
