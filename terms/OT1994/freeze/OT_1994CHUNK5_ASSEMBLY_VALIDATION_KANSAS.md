@@ -4,12 +4,12 @@
 
 **Draft:** `terms/OT1994/runtime/assembly/Kansas_v_Colorado_original_exceptions_1995-05-15.md`
 
-**SHA-256:** `adcd1e7d11de507531490c134bc9cef434c0e2b6c872b6e0b25962052410fcf0`
+**SHA-256:** `0b80710231feb86692f9eaf8cc3f28993563d0aacf229e51d591c0208bbbd38f`
 
 ## Inputs and order
 
-- Full final model read before Kansas Stone; paired runtime/freeze hash verified: `426b6e04aada6af6c6c13eca5cfaa25fb1bbaf8cf33cdb4ad1a4ae1132a101ab`.
-- Full final reconciliation read before Kansas Stone; paired runtime/freeze hash verified: `c29fa8df8ab45b27590572e34b5bdd127edfafb689ae95edaf4a2cd21dd626d9`. The initial combined output was truncated; the affected middle sections were reread in bounded excerpts.
+- Full final model read before Kansas Stone; paired runtime/freeze hash verified: `ec7c52ff66b8e66129ef1e630eb84a84051482a3735ccafcb730f4464a4d9cf9`.
+- Full final reconciliation read before Kansas Stone; paired runtime/freeze hash verified: `5a55f7effdd9e076b7af83edf7dc58fd374392ede26491537ca8c82bf326a061`. The initial combined output was truncated; the affected middle sections were reread in bounded excerpts.
 - Validated neutral packet and validation receipt read completely in preparation. Kansas supplement read in full; relevant C baseline and actual earlier law through Harris reviewed. Final Pinson public fields read completely before Kansas Stone. No same-date Hubbard or unadjudicated Robertson law used.
 - Only then read current case 59 Section II. The helper copies the exact assigned Stone section privately; no words in the immutable supplement were edited.
 - Root verified March 21, 1995 argument against the original neutral chronology and certified official header. This is an omitted date in the replacement packet, not a conflicting date or new merits premise.

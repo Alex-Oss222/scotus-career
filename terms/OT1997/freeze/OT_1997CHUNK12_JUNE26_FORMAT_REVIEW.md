@@ -8,9 +8,9 @@ Every saved original matches both its normalization-receipt hash and its hash in
 
 | Record | Current SHA-256 |
 |---|---|
-| Bauchman | `b5e967ab2aadf4d5ddce9c7da72fd23b03f2d3971cd65295ab1033064257ab25` |
-| Burlington / Ellerth | `d0ffac454f7446701ebaea3a1156e8c4cc6ecec1639855b7aec4c5dce1b2ccc7` |
-| Monge | `6e5bfeafd512d685a88cd23c299a012698b39e45c3b4f2e651b269e90c8ee56c` |
+| Bauchman | `2e8dc0473b2e63a9578c7bdb3f3f426373ebade03370af44e1ef8b755b4e6ce8` |
+| Burlington / Ellerth | `af072c2b8481aef9d6c207d5fa0c82720487c5c79cf76af2b84ec57b94d10c66` |
+| Monge | `92d2496a8434c2bd55d3072358e0b006af463bb1f888650a782d4f7f9eb96f28` |
 
 The mechanical evidence is saved in [chunk12_june26_format_review_checks.json](../../../tmp/chunk12_june26_format_review_checks.json). The prior review memo remains SHA-256 `a45bcdaf7e2d7649cc83d4692c265e5b94004aa469a31f8fd75cb0746fd9759f`.
 

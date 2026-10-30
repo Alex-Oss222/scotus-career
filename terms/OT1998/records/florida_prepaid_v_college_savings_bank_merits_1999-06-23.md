@@ -51,39 +51,17 @@ All nine participate at argument and decision. No case-specific nonparticipation
 
 ## Form first, fresh count, and assignment
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+**Pre-count legal determination:** The settled preparation selected a signed opinion announcing the judgment, common statutory/property/scope Part I, four-Justice affirmative §5 Part II, and independently sufficient four-Justice consent Part III; Stone's independent Patent Clause concurrence; and the negative four's limited-vacatur dissent. Five affirm, with no majority amenability rationale and no Marks synthesis. Those choices were fixed before any count, and no part or companion was divided or combined to alter the pool. Florida Prepaid remains one separately decided case and one signed lead.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the five-Justice affirmance coalition, even though he does not join the lead's complete rationale. A signed opinion announcing a majority judgment is subject to Engine §8 balance. The eligibility inquiry concerns every proposition of the lead, including both actual affirmative alternative grounds, not judgment agreement alone.
 
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+**Fresh recount:** `freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECOUNT.json`, generated after reading the approved helper and after the College Savings final gate, recounts from zero using actual canonical author evidence. Counts immediately before this assignment: Stone-Zsela 13; Stevens 12; O'Connor 14; Scalia 12; Kennedy 14; Souter 13; Thomas 12; Ginsburg 13; Breyer 13. The last counted event is `college_savings_bank_v_florida_prepaid_merits_1999-06-23.md`; 116 qualifying signed leads precede this one. The predecessor's recorded and actual SHA256 is `a937f930985990723e17e3c60d7711dac6bf1adb3dcb223d8652aad7dcc015d6`. No old tally was reused and no peer substance was read for this count.
 
-The actual counted source opinions yield 116 leads before this assignment.
+**Eligible authors and balance pool:** Stevens (12), Souter (13), Ginsburg (13), and Breyer (13) each support the full lead, including its complete §5 and commercial-consent grounds and limits. The minimum eligible count is 12, so all four are in the pool at no more than one above the minimum. Stone is ineligible to carry the full lead because he does not join either affirmative alternative ground; the negative four oppose the judgment and those grounds. Agreement with Part I does not create full-lead eligibility. No partitioned authorship is needed because four eligible Justices can carry every part.
 
-| Justice | Count before assignment |
-|---|---:|
-| Stone-Zsela | 13 |
-| Stevens | 12 |
-| O'Connor | 14 |
-| Scalia | 12 |
-| Kennedy | 14 |
-| Souter | 13 |
-| Thomas | 12 |
-| Ginsburg | 13 |
-| Breyer | 13 |
+**Chosen author: Stevens.** Fit governs, not expansion: the four lead supporters already share the same operative grounds and limits, with no unresolved accommodation needed to retain those joins. Stevens's adopted position carries the precise separation among patent property, constitutional deprivation, preventive §5 enforcement, and a distinct prospective-consent ground, preserving each statutory-remedy limit and the Daniels reservation. Souter, Ginsburg, and Breyer can faithfully perform that same work; none has an identified formulation advantage requiring the additional assignment despite the lower eligible count of Stevens. Ginsburg's respondent-defense experience and Souter's immunity distinctions are useful but the common scope text is settled, while Breyer's practical-remedy reasoning is already fully retained. Stevens supplies equally supported full-framework fit at the lowest eligible count. Historical authorship does not select the writer; the frozen grounds and current balance do. Stone cannot self-assign a lead whose actual sufficient propositions he does not adopt. No reassignment occurred.
 
-**Last counted event:** College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board, No. 98-149; October Term 1998. 1999-06-23; author Stone-Zsela; [Record](college_savings_bank_v_florida_prepaid_merits_1999-06-23.md).
-
-**Eligible authors for the complete lead:** Stevens, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, Souter, Ginsburg, Breyer; minimum 12, ceiling 13. **Chosen author:** Stevens.
-
-**Fit:** Stone is ineligible to carry the full lead because he does not join either affirmative alternative ground; the negative four oppose the judgment and those grounds. Agreement with Part I does not create full-lead eligibility. No partitioned authorship is needed because four eligible Justices can carry every part.
-
-**Chosen author: Stevens.** Fit governs, not expansion: the four lead supporters already share the same operative grounds and limits, with no unresolved accommodation needed to retain those joins. Stevens's adopted position carries the precise separation among patent property, constitutional deprivation, preventive §5 enforcement, and a distinct prospective-consent ground, preserving each statutory-remedy limit and the Daniels reservation. Ginsburg's respondent-defense experience and Souter's immunity distinctions are useful but the common scope text is settled, while Breyer's practical-remedy reasoning is already fully retained. Historical authorship does not select the writer; the frozen grounds and current balance do. Stone cannot self-assign a lead whose actual sufficient propositions he does not adopt. No reassignment occurred.
-
-**Separate writings:** Stone writes his own distinct Article I concurrence. Kennedy writes the dissent joined by O'Connor, Scalia, and Thomas because his adopted Boerne substantive-fit analysis and Hilton coverage/consent distinction fit its two legal objections; the current-law limited remand faithfully preserves all four commitments. No Justice is asked to join an unadopted Article I overruling or a new waiver test.
-
-The complete lead counts once for Stevens; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** `freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECOUNT.json`.
+**Separate writings:** Stone writes his own distinct Article I concurrence. Kennedy writes the dissent joined by O'Connor, Scalia, and Thomas because his adopted Boerne substantive-fit analysis and Hilton coverage/consent distinction fit its two legal objections; the current-law limited remand faithfully preserves all four commitments. This choice is not a second balanced lead assignment and does not add a count. No Justice is asked to join an unadopted Article I overruling or a new waiver test.
 
 ## Authority, continuity, and remedy audit
 

@@ -6,7 +6,7 @@ Historical-reconciliation context: no current Stone position, Stone handoff, com
 
 The independent five-matter text below is mechanically copied from the immutable B commitment file, removing only Hetzel's complete section. The reconciliation addendum following it controls the stated source correction and clarifications. The full original file remains unchanged. All eight Associates participate in each matter; no recusal fact is established.
 
-Independent full B input SHA256: `f29266c59fcce5a2721c09000f796d6f66261ad9dd45c7827562592711ce1ece`.
+Independent full B input SHA256: `109e037ea32a4cd01c9c3aa7d2cde35d716514b285fd2baebce82504f40311e0`.
 
 # OT1997 chunk 5 — independent non-Stone commitments, batch B
 
@@ -177,7 +177,7 @@ Source digests below identify bytes entering this stage; paths are relative to `
 | entering-law/CHUNK5/09_wp.md | 3AC348EFF7EC27725500BFA199460BF55D742E1877F98E8622E4FAB7872C1EAD |
 | entering-law/CHUNK5/10_hetzel.md | 1C86626DBBDBEC96487E867AB2F83B1ABAFF9805224B980E0FEF4319AF7AE880 |
 | entering-law/CHUNK5/11_caterpillar.md | 934DC16FC5F85E2BEAAE7ECFDB88FA5508775DE1AF75CC54ECB5FCBBCE06922E |
-| entering-law/CHUNK5/12_robinson.md | C86652F4BA56AF88153A16438F8A759017E0A9EBEA9F48BCF524C5B71C74EE2D |
+| entering-law/CHUNK5/12_robinson.md | C7F172A1E8927F2F61A51AC40B0F15CC8CC322A1ACC52EA900247959918C5839 |
 | entering-law/CHUNK5/CURRENT_PUBLIC_LAW_B.md | C23188BD58AF7C2D9E293827D1C4035CC0DDA5511BE98169EC83AFB2A747B3D1 |
 | research/chunk5_control/NEUTRAL_SOURCE_FACTS_B_CLEAN.md | DE5D8746FB4B9CDA33A8209716DDBFBDE8B5F534ADD54BDE1AF154B1FB6E319C |
 | research/chunk5_control/WP_NEUTRAL_SOURCE_REVIEW.md | 9DCF395912D804C1C4545251593FA578A89ED725DD21FA943B17763C5846F6B7 |

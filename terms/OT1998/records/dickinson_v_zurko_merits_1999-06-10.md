@@ -19,15 +19,11 @@
 
 ## Assignment
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+The form, governing propositions, component coalitions and full-rationale eligibility were established before the count. The Chief joins the judgment majority and assigns this lead opinion.
 
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 94 leads before this assignment.
-
-| Justice | Count before assignment |
+| Justice | Count before this assignment |
 |---|---:|
 | Stone-Zsela | 10 |
 | Stevens | 11 |
@@ -39,17 +35,19 @@ The actual counted source opinions yield 94 leads before this assignment.
 | Ginsburg | 11 |
 | Breyer | 10 |
 
-**Last counted event:** City of Chicago v. Morales, No. 97-1121. 1999-06-10; author Stone-Zsela; [Record](city_of_chicago_v_morales_merits_1999-06-10.md).
+**Last counted event:** City of Chicago v. Morales, No. 97-1121. (1999-06-10), authored by Stone-Zsela; [Record](../records/city_of_chicago_v_morales_merits_1999-06-10.md).
 
-**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer; minimum 10, ceiling 11. **Chosen author:** Scalia.
+**Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer.
 
-**Fit:** Scalia is selected for the specific statutory work of distinguishing section 559 preservation of antecedent law from the separate expressness rule for later enactments, then testing whether the historical direct-review practice establishes the asserted exception. His reconciled grounds connect that inquiry to meaningful agency scrutiny under the actual governing standard without importing a patent exemption or deciding the APA subcategory. No unresolved join objection requires expansion.
+**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer; minimum 10, ceiling 11.
 
-Scalia offers a particularly direct integration of the source-specific savings inquiry and actual-standard analysis while preserving that objective.
+**Assigned author:** Scalia. Scalia is selected at 10 for the specific statutory work of distinguishing section 559 preservation of antecedent law from the separate expressness rule for later enactments, then testing whether the historical direct-review practice establishes the asserted exception. His reconciled grounds connect that inquiry to meaningful agency scrutiny under the actual governing standard without importing a patent exemption or deciding the APA subcategory. No unresolved join objection requires expansion.
 
-The complete lead counts once for Scalia; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+**Strongest eligible pool alternative and comparison:** The Chief, also at 10, is the strongest alternative: his approved agency-versus-court review distinction and whole-record remand would carry the same bounded opinion. Scalia offers a particularly direct integration of the source-specific savings inquiry and actual-standard analysis while preserving that objective. Breyer at 10 can likewise explain meaningful review without judicial factfinding; none of the eligible Justices is excluded for expertise or prior authorship.
 
-**Count evidence:** [recount](../runtime/OT_1998CHUNK9_ZURKO_FINAL_RECOUNT.json).
+**Fresh-count evidence:** [recount](../runtime/OT_1998CHUNK9_ZURKO_FINAL_RECOUNT.json); every prior author was recounted from actual opinion tables and form classifications, not previous totals. Git verification remains deferred under the authorized no-Git workflow.
+
+**Dated-law checkpoint:** June 1 Richardson, June 3 Goncalves and Bruneau, and June 7 Amoco and OSullivan have been checked in their public copies. Goncalves preserves ordinary delegated legal interpretation and does not determine PTO fact-review standards; Amoco expressly supplies no general Interior-deference rule. No changed section 559 premise or Stone condition follows. Tice and Morales enter the assignment count only and supply no substantive APA dependency.
 
 ## Law of the decision
 **APA review of PTO factual findings.** Direct Federal Circuit review of PTO factual findings is governed by the applicable APA court-agency standard, not the clearly-erroneous standard used to review district-court findings. Section 559 preserves additional requirements imposed by statute or otherwise recognized by law, but the asserted pre-APA direct-review requirement has not been sufficiently established; the Federal Circuit must identify and apply the proper §706 category on the whole record.
@@ -116,7 +114,7 @@ Authority: [frozen reconciled commitments](../freeze/OT_1998CHUNK9_ZURKO_RECONCI
 | Stevens | Reverse and remand under Z1. | His Allentown policy/application distinction and unanimous Haggar join preserve judicial scrutiny without transferring agency factfinding wholesale to courts. Section 559 protects established additional law, but the lower survey mixes interference suits, equity proceedings, direct appeals and varying deference language. Neither a preference for judicial uniformity nor later court practice demonstrates the claimed preserved direct-review requirement. Leaves the §706(A)/(E) choice and obviousness open. |
 | O'Connor | Reverse and remand under Z1. | Authored Greenwich Collieries; joined Allentown's whole-record holding and Haggar. A specific statutory departure must actually be shown, not inferred from a favorable policy or loose historical vocabulary. Section 559's first sentence does preserve prior legal requirements, but the actual Morgan rule concerned priority in a subsequent suit and is not a categorical §141 clear-error rule. Will not state that §559 can never preserve common law or that §706 review is perfunctory. |
 | Scalia | Affirm the use of clear-error review under Z2 and the judgment within the granted question. | Authored Allentown's insistence on the actual legal standard; joined Greenwich's statutory-primacy holding and Haggar. Section 559 itself supplies the textual saving provision: requiring an identical modern phrase would deprive otherwise recognized by law of its work. The lower survey's recurrent own-record, clear/manifest-mistake review is an identifiable additional demand despite varying terminology and procedures. He does not claim every PTO action is exempt, rely on legislative purpose alone, or independently decide obviousness. |
-| Kennedy | Affirm under Z2 at the direct patent-fact-review scope. | Joined Greenwich, Allentown's whole-record rule and Haggar's distinction between legal deference and factual adjudication. The practice's repeated judicial examination for clear or manifest factual error, continued through the specialized statutory review structure, gives §559's preservation language an operative object. Stability of that legally recognized practice reinforces the textual saving clause; specialization by itself is insufficient. His strongest objection to Z1 is that it demands an artificially uniform label instead of a substantive preserved requirement. No extension to every administrative action or APA exemption for legal questions follows. |
+| Kennedy | Affirm under Z2 at the direct patent-fact-review scope. | Joined Greenwich and Allentown's whole-record rule and authored Haggar's distinction between legal deference and factual adjudication. The practice's repeated judicial examination for clear or manifest factual error, continued through the specialized statutory review structure, gives §559's preservation language an operative object. Stability of that legally recognized practice reinforces the textual saving clause; specialization by itself is insufficient. His strongest objection to Z1 is that it demands an artificially uniform label instead of a substantive preserved requirement. No extension to every administrative action or APA exemption for legal questions follows. |
 | Souter | Reverse and remand under Z1. | His Allentown and Haggar joins retain agency policy/fact roles while insisting that courts enforce statutory limits. The heterogeneous early descriptions do not demonstrate that direct review required a court/court clear-error relationship in 1946. Morgan's special equity/priority setting is not erased but does not answer this appeal. Lower-court stare decisis cannot create the asserted statutory exception if its premise is unestablished. No choice of APA substandard or final patentability conclusion. |
 | Thomas | Reverse and remand under Z1. | Joined Greenwich's actual-departure rule, Allentown's review discipline and Haggar. The APA applies to the agency and its factual decisions absent the claimed saved additional legal rule; uncertain historical descriptions and later specialization do not establish that exception. His join requires addressing §559 on its own terms rather than imposing a nonexistent express-statement rule on all pre-APA law. Review must remain on the whole record under the actual APA provision. |
 | Ginsburg | Reverse and remand under Z1. | Joined Greenwich's statutory analysis, Allentown's permissible-policy holding and Haggar's legal-review framework. The available statute supplies ordinary agency review; the separate civil-action route cannot silently change the standard in this direct appeal. Continuity and uniformity cannot substitute for identifying the additional requirement §559 saves. No mandatory new agency hearing or patent grant is ordered. |

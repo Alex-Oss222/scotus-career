@@ -8,7 +8,7 @@
   "records": [
     {
       "record": "terms/OT1997/records/clifton_v_federal_election_commission_merits_1998-09-14.md",
-      "sha256": "c2f32e63dcd4aee904e6830d0e2d8225b785fb8ee3dbd2c84f233b0a00ee16d6",
+      "sha256": "04e54e393ad6faf1994ac45061aef916c679c32415052132a6643be96b01bed6",
       "public_projection_sha256": "1a435590e8f5571f45dfcd2315e1f347d384b1d66cb55fe414e8278bf4e8adc6",
       "author": "Souter",
       "assignment_sequence": 1,
@@ -30,7 +30,7 @@
     },
     {
       "record": "terms/OT1997/records/federal_election_commission_v_maine_right_to_life_committee_merits_1998-09-14.md",
-      "sha256": "babc2fe0ca079ccb07d37d832a1aaf6a1216af9291d7ec1b160cd7cdb232e94a",
+      "sha256": "46afb1c302c9377fd6cdafbf9d0b472b4cf7ce1c94bf9672bf76b7aea3df3f99",
       "public_projection_sha256": "6ee7df3801e47a7fb9f94472ff6d6eb73c8740e44a3cdbf4f5c09482e7b26bdc",
       "author": "Stevens",
       "assignment_sequence": 2,
@@ -52,7 +52,7 @@
     },
     {
       "record": "terms/OT1997/records/federal_election_commission_v_williams_merits_1998-09-14.md",
-      "sha256": "bb5e3fa88b1abf55c84f4a5c2c4bba97e99318160529ae466821832083ac270f",
+      "sha256": "80900f819d27681b8d5452f2559c932b73bdd2e9a2848458c0252fa03c022fde",
       "public_projection_sha256": "d62963ebe7c3a6796f31500aa5167e281bb920e0b7ecebbcadaf2150bfeb58fb",
       "author": "Breyer",
       "assignment_sequence": 3,
@@ -74,7 +74,7 @@
     },
     {
       "record": "terms/OT1997/records/hadix_v_johnson_merits_1998-09-14.md",
-      "sha256": "907f637647cc2605dd10b74d37c96f823d145ec2112a921ec16a7cf16b4ca7dc",
+      "sha256": "f844f091c4ade632028d09b92d5ea5a592b278e64579e6734e83adfbb3ef4aa3",
       "public_projection_sha256": "503b842353a04b1f3a63d1eb1464c1f194e9be803276e19bfdbd17e23fa064d0",
       "author": "Scalia",
       "assignment_sequence": 4,

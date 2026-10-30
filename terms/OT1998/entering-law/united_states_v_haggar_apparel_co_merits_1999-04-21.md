@@ -25,7 +25,7 @@ All nine reject categorical exclusion of Chevron review. The Court leaves the re
 | Writing | Author | Joins | Scope |
 |---|---|---|---|
 | Opinion of the Court, Parts I–III | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Delegation, statutory limits and Chevron framework |
-| Opinion of the Court, Part IV | Kennedy | O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Breyer | Unresolved validity/application and remand |
+| Opinion of the Court, Part IV | Kennedy | Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Breyer | Unresolved validity/application and remand |
 | Concurrence in part and dissent in part | Stevens | Ginsburg | Joins Parts I–III; would sustain validity and actual denial now |
 
 ## Holdings

@@ -34,7 +34,7 @@ Every assignment used the actual eligible current-term Records, refreshed in eff
 | Hanlon | O'Connor |
 | Wilson | Scalia |
 
-The [final independent recount](OT_1998CHUNK8_FINAL_ASSIGNMENT_COUNTS.json) finds 87 counted leads: Stone-Zsela 9, Stevens 9, O'Connor 11, Scalia 10, Kennedy 9, Souter 10, Thomas 9, Ginsburg 10 and Breyer 10. Each Record states eligibility, assignment authority, the fresh counts and the applicable section 8 choice. Split judgments are not converted into whole-opinion joins: Maine has no majority rationale for affirmance; Dental's institutional-remand choice lacks five votes; Davis's educational-harm rule has five direct supporters; Hanlon separates eight votes for limited vacatur from seven for immunity. New Jersey's internal tally is omitted from its public account.
+The [final independent recount](OT_1998CHUNK8_FINAL_ASSIGNMENT_COUNTS.json) finds 87 counted leads: Stone-Zsela 8, Stevens 9, O'Connor 11, Scalia 10, Kennedy 10, Souter 10, Thomas 9, Ginsburg 10 and Breyer 10. Each Record states eligibility, assignment authority, the fresh counts and the applicable section 8 choice. Split judgments are not converted into whole-opinion joins: Maine has no majority rationale for affirmance; Dental's institutional-remand choice lacks five votes; Davis's educational-harm rule has five direct supporters; Hanlon separates eight votes for limited vacatur from seven for immunity. New Jersey's internal tally is omitted from its public account.
 
 ## Deterministic validation
 

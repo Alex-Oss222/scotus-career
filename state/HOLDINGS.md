@@ -1082,7 +1082,6 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 **Operative remedy or transition:** The state enforcement judgment is reversed and remanded, 7–2. Set aside the challenged compulsory route against Carbone and adjust the injunction consistently, preserving independent valid rules and severability. No damages, refund, unconditional operating injunction, contract rescission or substitute financing method is ordered.
 
-
 **Later-authority backlinks:** Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County, May 27, 1998, holdings 1-4: resolves the genuine-public-facility question, preserves the private-service and government-purchase limits, and requires independent diversion-cost and remaining Commerce Clause scrutiny.
 
 ### Legislative reopening of final judgments
@@ -1677,7 +1676,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 **Operative remedy or transition:** Affirm the commerce/federalism dismissal. FACE's remaining speech, vagueness, civil-remedy, free-exercise and RFRA questions are under First Amendment, American Life League, November 13, 1995, Fourth Circuit No. 94-1869.
 
-**Treatment of earlier authority:** Lopez (April 26, 1995) supplies the governing connection-before-magnitude sequence and is distinguished at its inadequate downstream-effects chain; Harris (April 27, 1995) remains a distinct direct-instrumentality application requiring proof of the particular vehicle's interstate connection; Robertson (May 1, 1995) remains a distinct direct-enterprise holding; New York v. United States (June 19, 1992) retains its anti-compulsion limit.
+**Treatment of earlier authority:** As the first post-Lopez application recognizing a direct market-interference mechanism, the decision applies Lopez's connection-before-magnitude architecture and distinguishes its inadequate downstream-effects chain. Harris's direct-instrumentality ground and enacted vehicle nexus are a distinct mechanism; Robertson's direct-enterprise rule is distinct and does not classify every protester as an enterprise. New York's anti-compulsion limit remains intact.
 
 ### Federal regulation of economic activity
 
@@ -1691,11 +1690,11 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 **Holding:** Congress may apply original §2119 to the armed vehicle taking at issue as protection of an instrumentality of interstate commerce against a direct intrastate forcible taking. The separately enacted requirement that the particular vehicle have been transported, shipped or received in interstate or foreign commerce remains necessary; remote vehicle history alone and generalized crime, insurance or productivity costs do not supply this holding's constitutional ground.
 
-**Proposition-level authority:** O'Connor's Part II, joined by every other Justice named in Opinion Topology: nine direct votes for this application of Harris, without enlarging its rule.
+**Proposition-level authority:** O'Connor's Part II, unanimous.
 
-**Treatment of earlier authority:** Harris is applied within its direct-instrumentality and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez remain economic-class precedents and supply no independent ground for this application; American Life League's distinct direct market-interference ground does not change §2119's text.
+**Limits and questions not reached:** No automatic rule covering every offense in or near a vehicle, new Commerce Clause test or unpresented sufficiency determination is adopted.
 
-**Limits and questions not reached:** No rule covers every offense in or near a vehicle. No new Commerce Clause test or unpresented sufficiency determination is adopted.
+**Treatment of earlier authority:** Harris is applied within its direct-instrumentality and enacted-element limits without creating a new Commerce Clause rule; the decision does not enlarge Lopez or the instrumentality route. Lopez retains its connection-before-magnitude architecture and its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League's distinct direct market-interference ground does not change §2119's text.
 
 #### United States v. Hale, judgment below 978 F.2d 1016
 
@@ -1817,7 +1816,6 @@ For the separate questions in General Motors Corp. v. Tracy, No. 95-1232 decided
 **Operative remedy or transition:** Affirm both components: the purchased destination term survives the constitutional challenge and the ordinance remains invalid. Only properly pending and legally available contract/payment proceedings remain. No breach, diversion, debt, withheld-payment award, damages, rescission, automatic trial or replacement program is established. Antitrust immunity, CERCLA liability and a general subcontract rule remain undecided.
 
 **Treatment of earlier authority:** Carbone's private-processing rule and justification requirement are applied without change, with Oregon Waste's distinction between discrimination and justification intact. West Lynn's scrutiny of linked arrangements does not make the Town's genuine purchases identical to the ordinance's compulsion. Pike remains available for genuinely evenhanded incidental burdens; no separate Pike holding is made here.
-
 
 **Later-authority backlinks:** Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County, May 27, 1998, holdings 1-4: resolves the genuine-public-facility question, preserves the private-service and government-purchase limits, and requires independent diversion-cost and remaining Commerce Clause scrutiny.
 
@@ -2065,7 +2063,6 @@ For the other questions in Walmer v. Department of Defense, Tenth Circuit No. 93
 
 **Treatment of earlier authority:** Fulton separates invalidity from lawful state remedial choices. McKesson requires backward correction when payment preceded meaningful review; Reich independently protects a clearly held-out postpayment route even after voluntary payment, subject to reasonable preannounced conditions and fair prospective change.
 
-
 **Later-authority backlinks:** Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County, May 27, 1998, holdings 1-4: resolves the genuine-public-facility question, preserves the private-service and government-purchase limits, and requires independent diversion-cost and remaining Commerce Clause scrutiny.
 
 ### Interstate lottery procurement
@@ -2222,7 +2219,7 @@ For the officers' concrete-injury holding in Printz/Mack, June 27, 1997, Nos. 95
 
 **Limits and questions not reached:** The rule decides no compulsory field investigation, permanent enforcement organization or general policy-administration command. The word including is not reduced to only, and no independent investigative power is supplied. No cheap-command exception, constitutional payment entitlement, state-law veto or universal validation of ancillary duties follows. New York, distinct election and state-court sources, valid preemption, generally applicable regulation, voluntary cooperation and lawful spending remain intact.
 
-**Treatment of earlier authority:** New York's state-legislation and ownership/liability prohibition remains controlling; the limited executive function is distinct. Lopez retains its connection-before-magnitude and no-added-element rules; United States v. Harris and United States v. Hale: retain their direct-instrumentality and integral transfer/stock grounds, respectively. Valid commercial regulation does not itself decide the propriety of every means used to implement it. Voting Rights Coalition retains its distinct election powers. Garcia and Baker preserve generally applicable state-activity regulation. FERC and Testa retain adjudicative and cooperative settings without automatically authorizing executive commands. Alaska Airlines retains its remainder-and-design severability inquiry, which is not decided for absent parties here.
+**Treatment of earlier authority:** New York's state-legislation and ownership/liability prohibition remains controlling; the limited executive function is distinct. Lopez retains its connection-before-magnitude and no-added-element rules; Harris and Hale retain their direct-instrumentality and anti-evasion/material-impairment grounds without validating every implementing means. Voting Rights Coalition retains its distinct election powers. Garcia and Baker preserve generally applicable state-activity regulation. FERC and Testa retain adjudicative and cooperative settings without automatically authorizing executive commands. Alaska Airlines retains its remainder-and-design severability inquiry, which is not decided for absent parties here.
 
 ##### What authority supports the limited fiscal remand
 
@@ -2254,7 +2251,7 @@ For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth
 
 **Limits and questions not reached:** No flight, travel, voluntary crossing, bank wire, particular instrument, evasion motive or ability finding is added. This is not a rule for all family debt or incidental geographic connections.
 
-**Treatment of earlier authority:** Lopez's connection-before-magnitude architecture is applied through a concrete statutory mechanism, not a general interstate-obligation category detached from Lopez; its rejection of remote effects chains and prohibition on supplying missing elements are retained. United States v. Harris and Bishop/Stokes preserve their actual direct-instrumentality ground and proof of the enacted vehicle nexus. Their result is not converted into an automatic instrumentality rule or a holding about every debt.  Hale retains its anti-evasion/material-impairment ground. None creates an automatic commerce label for every obligation.
+**Treatment of earlier authority:** Lopez's connection-before-magnitude architecture is applied through a concrete statutory mechanism, not a general interstate-obligation category detached from Lopez; its rejection of remote effects chains and prohibition on supplying missing elements are retained. Harris and Bishop/Stokes retain their direct-instrumentality ground and enacted nexus; Hale retains its anti-evasion/material-impairment ground. None creates an automatic commerce label for every obligation.
 
 ##### Whether direct regulation of private obligors commandeers a State
 
@@ -2285,11 +2282,10 @@ For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth
 
 **Treatment of earlier authority:** *Lopez* requires the Court to identify the statutory class and the interstate mechanism before aggregation or downstream magnitude can perform constitutional work. The mechanism here is not gun violence, fear, insurance cost, productivity, marketability in the abstract, or presumed foreign or military provenance. It is the fitted relationship between possession and enforcement of the valid national machinegun-transfer/stock regime. *Hale* controls. Rybar does not create a broader Commerce category and does not enlarge Hale’s anti-evasion rule. It demonstrates that the rule applies when the defendant’s possession occurs in actual commercial transfer circumstances at the core of the regulated market.
 
-- Harris and Bishop/Stokes are distinguished as vehicle-taking cases with their direct-instrumentality mechanism and enacted vehicle-specific nexus.
+- **United States v. Harris / Bishop-Stokes:** distinguished as vehicle-taking cases with their direct-instrumentality mechanism and enacted vehicle-specific nexus.
 - **American Life League v. Reno:** distinguished as direct interference with an interstate service market.
 
 **Operative remedy or transition:** The commerce objection fails, but does not dispose of the separate arms claim. For the personal-holder rule and vacatur of the affirmance of Counts I and III, see United States v. Rybar, Third Circuit No. 95-3185, decided November 24, 1997, under Civil Rights, personal arms protection and machinegun possession.
-
 
 **Later-authority backlinks:** National Association of Home Builders v. Babbitt, June 8, 1998, Parts II-III: preserves this fitted anti-evasion rule and adopts a distinct, materially supported substantial-interstate-externality route.
 
@@ -2473,7 +2469,7 @@ For the state-order and domestic-relations boundary in Parker, Third Circuit No.
 
 **Limits and questions not reached:** The Court determines neither measure's ultimate validity and grants no blanket public-system immunity. The excluded takings and ripeness rulings remain undisturbed.
 
-**Operative remedy or transition:** Both reviewed determinations are vacated and remanded, 5-4, for separate application of the public-facility and diversion-cost rules and the appropriate remaining scrutiny.
+**Operative remedy or transition:** Both reviewed determinations are vacated and remanded, 5–4, for separate application of the public-facility and diversion-cost rules and the appropriate remaining scrutiny.
 
 **Treatment of earlier authority:**
 
@@ -2527,7 +2523,7 @@ The second route requires identification of the regulated class; a concrete cros
 
 The distinct threatened-species protections, section 7 agency and incidental-take provisions, scientific permissions, experimental-population provisions and enforcement channels receive no new application here. Sweet Home's reserved section 6(g)(2) question remains reserved; deciding its terms or application would require the operative official text and applicable State-agreement record. The Court inserts no commercial element into section 9 and announces no categorical immunity for traditional State subjects.
 
-**Operative remedy or transition:** Vacated and remanded, 5-4; Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer support the disposition. The existing legislative and adjudicative record must be examined for material support of either eligible mechanism; neither categorical invalidation nor judicial invention of missing facts is permitted.
+**Operative remedy or transition:** Vacated and remanded, 5–4; Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer support the disposition. The existing legislative and adjudicative record must be examined for material support of either eligible mechanism; neither categorical invalidation nor judicial invention of missing facts is permitted.
 
 **Treatment of earlier authority:**
 
@@ -2545,6 +2541,7 @@ The distinct threatened-species protections, section 7 agency and incidental-tak
 - **United States v. Bird, April 13, 1998:** Preserved for direct interference with an actual service market. Its conduct-and-purpose mechanism remains distinct from the two noneconomic-conduct routes addressed here.
 
 Sweet Home's habitat-injury and conditional-permission holdings remain at Environmental Law, Endangered wildlife and habitat-caused injury. The present entry concerns only the Commerce Clause applications.
+
 
 ### Congressional amendment of prospective prison relief
 
@@ -2779,7 +2776,7 @@ For the other questions in United States v. Franklyn / United States v. Gonzalez
 
 ##### The supply restriction and recipient-possession rule supply the constitutional connection
 
-**Holding:** Congress may regulate these qualifying convicted recipients' possession under section 922(g)(1) as a fitted counterpart to section 922(d)(1)'s convicted-person supply restriction, which forbids sale or other disposition of firearms or ammunition when the supplier knows or has reasonable cause to believe the recipient has been convicted of a crime punishable by imprisonment exceeding one year. A firearm's remote interstate movement can satisfy the nexus Congress enacted in §922(g), but it is not by itself the constitutional basis for regulating the possession class: Congress cannot evade Lopez merely by adding a jurisdictional element, and the constitutional authority here is the fitted supply-and-recipient mechanism.
+**Holding:** Congress may regulate these qualifying convicted recipients' possession under section 922(g)(1) as a fitted counterpart to section 922(d)(1)'s convicted-person supply restriction, which forbids sale or other disposition of firearms or ammunition when the supplier knows or has reasonable cause to believe the recipient has been convicted of a crime punishable by imprisonment exceeding one year. Preventing the recipients' acquisition and retention from defeating that supply restriction supplies the Commerce and Necessary and Proper Clause connection; a pistol's former interstate movement, burglary or generalized dangerousness alone does not supply it. A firearm's remote interstate movement can satisfy the nexus Congress enacted in §922(g), but it is not by itself the constitutional basis for regulating the possession class: Congress cannot evade Lopez merely by adding a jurisdictional element, and the constitutional authority here is the fitted supply-and-recipient mechanism.
 
 **Proposition-level authority:** Chief Justice Stone-Zsela's unanimous opinion of the Court.
 
@@ -2787,7 +2784,7 @@ For the other questions in United States v. Franklyn / United States v. Gonzalez
 
 **Treatment of earlier authority:**
 
-- **Lopez:** applied to forbid evasion of its constitutional limits merely by adding a jurisdictional element. Remote movement may satisfy the enacted nexus but cannot alone justify regulation of this possession class; the fitted supply-and-recipient mechanism supplies that justification. Lopez creates no additional individual-effect element here.
+- **Lopez:** applied to require a constitutional connection independent of remote provenance, generalized crime costs or a jurisdictional label; it creates no additional individual-effect element here.
 - **Franklyn**, Part II: directly applied to the same convicted-recipient supply and possession provisions. Its firearms-and-ammunition mechanism enters as law; its ammunition stipulation supplies no proof for either pistol.
 - **Hale, Rybar, Kirk and Wright:** preserve necessary inclusion in the different machinegun transfer-and-stock regime. Wright's separate Core-Preservation Review governs preserved arms claims; FOP applies its intermediate tier to a defined domestic-violence disability. This decision presents no arms claim and therefore neither classifies the felon restriction under those tiers nor declares it valid under the Second Amendment. No automatic arms remand follows; Kirk supplies no arms holding.
 - **Hiley:** preserves its distinct domestic-violence-recipient commerce application and separate enacted nexus. Its abandoned arms claim is not decided; its reference to Wright and FOP supplies no universal status-disability holding.
@@ -11873,7 +11870,7 @@ For AT&T v. Central Office Telephone, Inc., decided June 15, 1998, No. 97-679, o
 
 **Holding:** Regular bidders facing a supported likelihood of exclusion from equal competition have an injury even without proving that they would win a contract. The associations may seek common prospective relief where their members possess standing, the interest is germane, and the claims and relief do not require individual participation; facts may be stipulated, but jurisdiction may not.
 
-**Proposition-level authority:** Opinion of the Court (Kennedy). Part I of Kennedy's opinion has all eight Associates. Stone-Zsela joins the equal-competition injury proposition and the distinction between subsidiary factual review and constitutional legal review; he does not add a distinct associational-standing rationale.
+**Proposition-level authority:** Opinion of the Court (O'Connor). Part I of O'Connor's opinion has all eight Associates. Stone-Zsela joins the equal-competition injury proposition and the distinction between subsidiary factual review and constitutional legal review; he does not add a distinct associational-standing rationale.
 
 **Material application:** Northeastern Florida Chapter, Associated General Contractors v. Jacksonville identifies the denial of equal bidding opportunity as the injury. United Food & Commercial Workers Union Local 751 v. Brown Group preserves the association requirements and their distinct constitutional and prudential roles. The associations' regularly bidding members and stipulated likely future exclusion establish the necessary injury for all three programs, and the common justification challenge permits common prospective relief. No lost award or injury from every hypothetical contract mechanism is required. This does not confer standing to litigate every distinct operational challenge. Under §1254(1), the Court reviews the final appellate judgment. Subsidiary historical findings receive clear-error review; constitutional sufficiency, the level of scrutiny and remedial fit require independent legal assessment.
 
@@ -12010,7 +12007,7 @@ Related questions in Engineering Contractors Association of South Florida v. Met
 
 **Holding:** A judgment concerning earlier transactions does not bar an enforcement action for later distinct transactions merely because the alleged method resembles the earlier misconduct; a settlement releases additional conduct only within its actual scope. The 1979 proceeding and 1984 settlement therefore do not bar this action concerning the 1982–1985 transactions, and permission to supplement the earlier complaint imposed no obligation to add every later wrong.
 
-**Proposition-level authority:** Opinion of the Court (Thomas). The eight Associate Justices adopt Thomas's Part I: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees with rejection of the defense without adding a ground.
+**Proposition-level authority:** Opinion of the Court (Kennedy). The eight Associate Justices adopt Kennedy's Part I: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela agrees with rejection of the defense without adding a ground.
 
 **Material application:** Lawlor distinguishes later transactions from a second demand for recovery on the same claim. Moitie preserves the finality of an actual judgment; it does not immunize later conduct. Baker likewise requires respect for a judgment's lawful effect at its real scope. The earlier proceeding concerned different transactions, and the actual settlement language did not settle the later transactions now proved. Similarity of practices cannot enlarge that release. The defendants' argument that the SEC could have supplemented the old proceeding confuses procedural permission with an obligation to sue there. The Court preserves the earlier judgment while rejecting the proposed extension of its effect.
 
@@ -18358,7 +18355,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** Congress did not authorize cumulative convictions and punishment under §§846 and 848 for the included agreement here. Concurrent imprisonment does not cure the unauthorized second conviction.
 
-**Proposition-level authority:** Stevens's Part II, joined by the other seven Associate Justices. Stone-Zsela also joins Ball's second-conviction and concurrency propositions and the invalidity of these two judgments on his narrower charged-and-tried basis.
+**Proposition-level authority:** Stevens's Part II, joined by all eight Associates. Stone-Zsela also joins Ball's second-conviction and concurrency propositions and the invalidity of these two judgments on his narrower charged-and-tried basis.
 
 **Treatment of earlier authority:** Hunter supplies the single-prosecution authorization inquiry; Blockburger and Whalen supply the elements comparison and presumption against cumulation. Jeffers's no-cumulative-punishment conclusion applies, while retention of its unreviewed earlier judgment establishes no contrary dual-conviction rule. Ball makes the second conviction consequential despite concurrency. Garrett and Felix preserve the distinct substantive-predicate and agreement/substantive-offense rules. Harris and Bishop/Stokes concern a different pairing expressly authorized by §924(c). Witte's authorized relevant-conduct sentencing is distinct from another conviction, and Dixon's retained Grady rule is unchanged. No independent constitutional punishment rule beyond congressional authorization is adopted.
 
@@ -18366,7 +18363,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** The mandatory $50 assessment on the second felony conviction is actual additional punishment and may be considered in the preserved challenge to both judgments even though not separately challenged below. Vacatur must remove the selected count's assessment.
 
-**Proposition-level authority:** Stevens's Part III, joined by the other seven Associate Justices. Stone-Zsela joins actual additional punishment and removal of the assessment, but not the separate presentation ruling.
+**Proposition-level authority:** Stevens's Part III, joined by all eight Associates. Stone-Zsela joins actual additional punishment and removal of the assessment, but not the separate presentation ruling.
 
 **Limits and questions not reached:** The automatic consequence answers the claim of no additional punishment; it creates no general preservation exception, freestanding refund claim or finding about payment, collection or expiration. Ball makes speculative collateral-consequence prediction unnecessary given the concrete assessment.
 
@@ -18374,7 +18371,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** The District Court must vacate either Count 1 or Count 2, its entire corresponding life sentence and its $50 assessment, initially choosing within lawful discretion. Vacating only a sentence, staying its execution or combining labels does not remove the unauthorized second judgment.
 
-**Proposition-level authority:** Stevens's Part IV, joined by the other seven Associate Justices. Stone-Zsela joins required removal of one judgment, sentence and assessment without reopening Counts 3–6, but would require conspiracy-only vacatur.
+**Proposition-level authority:** Stevens's Part IV, joined by all eight Associates. Stone-Zsela joins required removal of one judgment, sentence and assessment without reopening Counts 3–6, but would require conspiracy-only vacatur.
 
 **Operative remedy or transition:** Reverse the dual-conviction ruling, 9–0; either-count discretion commands eight votes. The assessment total falls from $300 to $250. The surviving challenged count and Counts 3–6, including Count 3's independent life term, remain intact. No release, acquittal, trial, general resentencing or reopening of unrelated objections follows.
 
@@ -18384,7 +18381,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** In an appropriate case, an appellate court may direct entry of judgment on a valid lesser included offense when reversal rests on a defect affecting only the greater offense. That corrective authority supplies no entitlement to retain two convictions now and no automatic later reinstatement.
 
-**Proposition-level authority:** Stevens's Part V, joined by the other seven Associate Justices; Stone-Zsela does not join.
+**Proposition-level authority:** Stevens's Part V, joined by all eight Associates; Stone-Zsela does not join.
 
 **Limits and questions not reached:** A defect tainting the agreement or lesser verdict cannot be ignored. Exact future procedural vehicle, limits, contested reinstatement, retrial, compelled lesser judgment and harmlessness remain open. Duplication vacatur is not an evidentiary acquittal. Earlier separate conspiracy prosecution, previously unknown CCE facts and a noncoterminous enterprise are not decided.
 
@@ -26058,7 +26055,7 @@ For the other questions decided in this same case, docket and date, see Criminal
 
 **Holding:** Local racial and ethnic contracting classifications must rest on a supported compelling justification and narrowly fitted means. General social inequality, numerical imbalance and good intentions alone do not establish that justification; a supported local system of exclusion in which the County participates can permit fitted repair without invariably requiring a prior formal judgment of liability.
 
-**Proposition-level authority:** Opinion of the Court (Kennedy). Part II has all eight Associates for strict scrutiny and the federal/local distinction. Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join the affirmative remedial proposition; Scalia reserves the permissible extent of racial remediation beyond the grounds needed to reject these programs. Stone-Zsela does not join this local rule.
+**Proposition-level authority:** Opinion of the Court (O'Connor). Part II has all eight Associates for strict scrutiny and the federal/local distinction. Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join the affirmative remedial proposition; Scalia reserves the permissible extent of racial remediation beyond the grounds needed to reject these programs. Stone-Zsela does not join this local rule.
 
 **Material application:** City of Richmond v. J. A. Croson Co. governs local contracting preferences, and Hopwood v. Texas preserves supported justification, individual equality and narrow fit for state racial classifications. Adarand Constructors, Inc. v. Peña sustained its distinct federal arrangement under Metro Broadcasting, Inc. v. FCC's important-objective and substantial-relationship standard. Adarand expressly preserved Croson; its federal rule cannot be transferred to Dade County merely because the County describes its purpose as corrective. The Court declines the proposed replacement of local strict scrutiny. This decision creates neither a right to proportionate contracts nor a prohibition on every properly supported local repair program.
 
@@ -26073,7 +26070,7 @@ For the other questions decided in this same case, docket and date, see Criminal
 
 **Holding:** Before using these racial and ethnic contracting preferences, the County must seriously consider reasonably available race-neutral measures responsive to the exclusion it identifies and provide a supported explanation of their inadequacy. This record does not satisfy that requirement for either BBE or HBE; it requires considered alternatives, not trial and exhaustion of every conceivable measure.
 
-**Proposition-level authority:** Opinion of the Court (Kennedy). Part III has all eight Associates. Stone-Zsela would vacate and remand under a different proposed local rule. Four Associates also find the racial evidence insufficient, but that additional ground does not control.
+**Proposition-level authority:** Opinion of the Court (O'Connor). Part III has all eight Associates. Stone-Zsela would vacate and remand under a different proposed local rule. Four Associates also find the racial evidence insufficient, but that additional ground does not control.
 
 **Material application:** Croson's narrow-fit requirement and Hopwood's fitted-repair principle require attention to measures addressing the actual problem. The record identifies procurement information, financing, bonding, payment and discriminatory-treatment obstacles. The County's limited technical and financial assistance and conclusory treatment of alternatives do not show serious assessment of responsive neutral measures; HBE lacks such consideration. Flexibility, waivers, annual review and five-year continuation review cannot supply the missing inquiry. The possibility that an existing BBE program reduced observed disparities matters to evidence, but cannot cure this distinct tailoring defect. The Court therefore need not decide whether the combined racial evidence would otherwise establish a sufficient remedial predicate. It does not constitutionalize a statistical-significance threshold, numerical parity, a requirement of a prior discrimination judgment or a duty to exhaust every possible neutral course.
 
@@ -26086,7 +26083,7 @@ For the other questions decided in this same case, docket and date, see Criminal
 
 **Holding:** A sex-conscious contracting measure requires an actual important governmental objective and a substantial relationship between that objective and the classification, with a demanding governmental burden. On independent assessment of the accepted findings and combined evidence, the County has not adequately substantiated the identified gender exclusion needed to justify this three-sector WBE preference; its invalidation is affirmed.
 
-**Proposition-level authority:** Opinion of the Court (Kennedy). All nine accept the stated intermediate standard. Part IV's application and affirmance have five direct votes: Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. Stevens, Souter, Ginsburg and Breyer would vacate and remand for a different independent assessment of the combined record.
+**Proposition-level authority:** Opinion of the Court (O'Connor). All nine accept the stated intermediate standard. Part IV's application and affirmance have five direct votes: Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. Stevens, Souter, Ginsburg and Breyer would vacate and remand for a different independent assessment of the combined record.
 
 **Material application:** Kelley v. Board of Trustees, Klinger v. Department of Corrections and United States v. Virginia require actual important purposes and a substantial relationship, without importing racial strict scrutiny or least restrictive means. The Court independently examines the constitutional sufficiency of the evidence while retaining subsidiary findings not shown clearly erroneous. Firm-size adjustments largely explain award-dollar differences; the surviving WBE SIC 15 disparity, women's entry disparity and accounts of refusing to deal with female owners matter but do not adequately justify this program's allocation across all three construction sectors. The subcontract denominator and broader marketplace pool do not reliably identify the relevant procurement comparison. The conclusion does not rest merely on calling the trial judge's ultimate constitutional view permissible. Nor does it impose a numerical minimum or rule out sufficient nonstatistical proof. The court of appeals rejected strict racial tailoring for WBE and found its flexibility capable of satisfying substantial relationship if the evidentiary predicate existed. The present failure is that predicate, not the racial alternatives defect, an excessive 11 percent goal, or an obligation to exhaust neutral measures. A later supported and differently designed women's program is not decided.
 
@@ -26100,7 +26097,7 @@ For the other questions decided in this same case, docket and date, see Criminal
 
 **Holding:** The judgments and permanent injunctions against the challenged BBE, HBE and WBE programs are affirmed on their respective grounds. The relief addresses the operative programs and established likely future unequal exclusion; it neither prohibits unexamined future corrective measures nor awards a contract, damages or an individual discrimination judgment.
 
-**Proposition-level authority:** Opinion of the Court (Kennedy). Part V has the eight-Associate coalition for BBE/HBE and the five-Justice WBE coalition identified above. Stone-Zsela would maintain the racial restraints temporarily during his proposed remand, rather than affirm their present permanent disposition.
+**Proposition-level authority:** Opinion of the Court (O'Connor). Part V has the eight-Associate coalition for BBE/HBE and the five-Justice WBE coalition identified above. Stone-Zsela would maintain the racial restraints temporarily during his proposed remand, rather than affirm their present permanent disposition.
 
 **Material application:** Concrete future exclusion, not past injury alone, supplies a preventive basis for relief. Hopwood's independent prospective-relief requirements and Federal Election Commission v. Williams's insistence on an actual preventive foundation are satisfied by the still-operative programs and stipulated future exposure. Williams supplies no campaign-finance limitation rule here. Lawful race-neutral outreach and procurement measures remain available. No court is directed to adopt a new preference program, and the separate evidentiary bases are not merged.
 
@@ -41911,7 +41908,7 @@ For AT&T v. Central Office Telephone, Inc., decided June 15, 1998, No. 97-679, o
 
 **Holding:** A broker-dealer and the officer who knowingly directs its deceptive transactions are responsible for their proved primary securities fraud; office, ownership or assistance alone does not establish that violation. First Jersey's intentional concealment of its dominated markets, repurchases and coordinated splitting and resale plan, together with Brennan's knowing hands-on orchestration, supports the liability found under Securities Act §17(a)(1), Exchange Act §10(b) and Rule 10b-5.
 
-**Proposition-level authority:** Opinion of the Court (Thomas). All nine Justices adopt Thomas's Part II; nine direct rationale votes.
+**Proposition-level authority:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part II; nine direct rationale votes.
 
 **Material application:** The findings establish deceptive dealing in the six securities, rather than liability inferred from Brennan's title or wealth. The firm's transactions carried an implied representation that the prices reflected a competitive market. Its concealment of its own domination and coordinated repurchase, unbundling and resale plan made that representation misleading to both selling and purchasing customers; its duty was to disclose the facts needed to make those representations truthful. Its contemporaneous repurchase prices supply a supported market benchmark in that setting. Illiquidity within the firm's unilateral control does not establish an independent explanation defeating those findings. No automatic five-percent or ten-percent markup rule is adopted. Central Bank preserves its confined private affirmative-assistance action, but direct participation in the actual deception supplies liability here without enlarging that action or importing its private reliance requirements into SEC enforcement. O'Hagan preserves the need for actual deception, culpability and a connection to securities transactions; this case does not extend its source-deception theory to status alone.
 
@@ -41922,7 +41919,7 @@ For AT&T v. Central Office Telephone, Inc., decided June 15, 1998, No. 97-679, o
 
 **Independent alternative holding:** Section 20(a) permits the SEC, which falls within the Exchange Act's relevant definition of person, to enforce controller responsibility for the established §10(b) and Rule 10b-5 violation on proof of actual control and the deliberate culpable participation found here. Its defense requires both good faith and absence of direct or indirect inducement; Brennan cannot satisfy that defense on the supported findings.
 
-**Proposition-level authority for alternative holding:** Opinion of the Court (Thomas). All nine Justices adopt Thomas's Part III; nine direct rationale votes. This is an independently sufficient statutory ground at the stated scope, separate from his primary participation.
+**Proposition-level authority for alternative holding:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part III; nine direct rationale votes. This is an independently sufficient statutory ground at the stated scope, separate from his primary participation.
 
 **Material application:** Section 3(a)(9)'s definition includes governmental agencies, defeating the contention that the SEC cannot invoke this supported controller liability. Brennan exercised actual control and deliberately participated in the coordinated scheme. A compliance arrangement that deliberately failed to examine the relevant transactions does not establish good faith, and his active direction defeats the separate no-inducement requirement. The Court does not impose liability from passive shareholding alone, and the defense remains available to a controller who proves both good faith and absence of direct or indirect inducement. It need not settle every disputed culpable-participation pleading burden because that participation was proved. This Exchange Act controller ground does not become a rule supplying controller liability for every Securities Act claim.
 
@@ -41935,7 +41932,7 @@ For AT&T v. Central Office Telephone, Inc., decided June 15, 1998, No. 97-679, o
 
 **Holding:** In the SEC's injunctive enforcement proceeding authorized by Securities Act §20(b), 15 U.S.C. §77t(b), and Exchange Act §21(d)(1), 15 U.S.C. §78u(d)(1), traditional ancillary restitution permits recovery of the reasonably approximated unlawful gains connected to the proved fraud, with credits preventing duplicate recovery. Joint and several responsibility is proper for First Jersey and Brennan's proved collaboration and benefit in this enterprise, not because every owner owes every corporate debt.
 
-**Proposition-level authority:** Opinion of the Court (Thomas). All nine Justices adopt Thomas's Part IV; nine direct rationale votes.
+**Proposition-level authority:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part IV; nine direct rationale votes.
 
 **Material application:** Sections 20(b) and 21(d)(1) authorize the SEC's suit for injunctive enforcement; their words do not expressly grant disgorgement. Porter and Mitchell recognize ancillary restitution within that statutory equity unless Congress displaces it. Mertens construed a different, expressly limited ERISA remedial provision; it does not remove this traditional gain-recovery function. The six-security profit approximation was $27,288,099. Crediting the $5 million class-settlement payment leaves $22,288,099 to be disgorged. Brennan's deliberate collaboration, complete ownership, unrestricted access to the enterprise funds and corresponding enrichment connect him to those gains. The defendants' strongest objection—that equity cannot take unrelated wealth or impose another person's unrelated gain—states a real limit but does not describe these findings. The award removes the proved benefit once; it supplies no recovery of unproved transactions, unrelated profits, wealth as such or every recipient's gross receipts. Deterrence alone supplies neither the amount nor an additional punitive component.
 
@@ -41949,7 +41946,7 @@ For AT&T v. Central Office Telephone, Inc., decided June 15, 1998, No. 97-679, o
 
 **Holding:** Prejudgment interest may approximate the value of retaining unlawful gains, subject to the actual credit, causal connection and equitable fairness of the award. On these findings, the $52,689,894 award using the IRS underpayment measure is sustained, with interest on the credited $5 million ending when that amount was paid.
 
-**Proposition-level authority:** Opinion of the Court (Thomas). All nine Justices adopt Thomas's Part V; nine direct rationale votes.
+**Proposition-level authority:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part V; nine direct rationale votes.
 
 **Material application:** The $52,689,894 award is the prejudgment interest fixed in the July 17, 1995 District Court judgment, not a recalculation through today's decision. The defendants retained use of the remaining gains during that prejudgment period; interest on the $5 million paid in January 1987 ceased at that payment. A borrowing-cost measure addresses that benefit more directly than the lower rate the Government pays a lender; no identified legal or calculation error requires substitution of the Treasury rate. A large ratio to principal, or the passage of years while the benefit remains held, does not by itself transform retained-use compensation into punishment. The actual cessation of interest on the paid settlement credit prevents charging for money no longer retained. The Court makes neither the IRS rate nor interest during every possible litigation delay universally mandatory. Porter and Mitchell's gain-restoration principle supports this confined use-value component, not an unexplained surcharge.
 
@@ -41962,7 +41959,7 @@ For AT&T v. Central Office Telephone, Inc., decided June 15, 1998, No. 97-679, o
 
 **Holding:** Under Securities Act §20(b), 15 U.S.C. §77t(b), and Exchange Act §21(d)(1), 15 U.S.C. §78u(d)(1), a prospective securities injunction requires the proper showing of a supported risk of future violations; past misconduct or a defendant's refusal to confess does not alone supply that basis. The systematic intentional violations, relevant prior sanctions, ongoing market activity, retained personnel and continuing control support the injunction entered here.
 
-**Proposition-level authority:** Opinion of the Court (Thomas). All nine Justices adopt Thomas's Part VI; nine direct rationale votes.
+**Proposition-level authority:** Opinion of the Court (Kennedy). All nine Justices adopt Kennedy's Part VI; nine direct rationale votes.
 
 **Material application:** The governing provisions authorize the SEC to seek restraint of a person engaged or about to engage in covered violations and provide for injunctive relief on a proper showing without bond. The actual findings connect the deliberate course of conduct to continuing means and opportunity for recurrence. The injunction therefore prevents supported future securities violations rather than punishing wealth, corporate office or defense of the suit. FEC v. Williams preserves the separate requirement for a genuine preventive basis and does not classify every governmental equitable remedy as a penalty. Neither an industry-wide ban nor relief against unrelated actors is ordered. The Court sustains this decree on its supported predicates without creating an automatic injunction from a completed fraud judgment.
 

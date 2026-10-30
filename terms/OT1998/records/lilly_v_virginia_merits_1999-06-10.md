@@ -19,15 +19,11 @@
 
 ## Assignment
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+The form, governing propositions, component coalitions and full-rationale eligibility were established before the count. The Chief joins the judgment majority and assigns this lead opinion.
 
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 95 leads before this assignment.
-
-| Justice | Count before assignment |
+| Justice | Count before this assignment |
 |---|---:|
 | Stone-Zsela | 10 |
 | Stevens | 11 |
@@ -39,17 +35,19 @@ The actual counted source opinions yield 95 leads before this assignment.
 | Ginsburg | 11 |
 | Breyer | 10 |
 
-**Last counted event:** Dickinson v. Zurko, No. 98-377. 1999-06-10; author Scalia; [Record](dickinson_v_zurko_merits_1999-06-10.md).
+**Last counted event:** Dickinson v. Zurko, No. 98-377. (1999-06-10), authored by Scalia; [Record](../records/dickinson_v_zurko_merits_1999-06-10.md).
 
-**Eligible authors for the complete lead:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 10, ceiling 11. **Chosen author:** Breyer.
+**Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer.
 
-**Fit:** Breyer is selected to carry the complete existing-framework analysis while keeping its distinct exception, intrinsic-reliability and remedy coalitions explicit. His frozen position affirmatively applies received confrontation doctrine to the actual interrogation pressures and blame allocation without making broader reconsideration part of this case. That supports the required narrow reliability holding and preservation-qualified relief without confusing the two judgment-only constitutional grounds with joins. No new commitment or expansion negotiation is needed.
+**Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 10, ceiling 11.
 
-Both can carry the exact opinion; Breyer can express that objective with equal fidelity while preserving the received-framework boundary and distinct remedy inquiry. The fact that the Chief supplies a necessary vote does not itself require self-assignment.
+**Assigned author:** Breyer. Breyer is selected at 10 to carry the complete existing-framework analysis while keeping its distinct exception, intrinsic-reliability and remedy coalitions explicit. His frozen position affirmatively applies received confrontation doctrine to the actual interrogation pressures and blame allocation without making broader reconsideration part of this case. That supports the required narrow reliability holding and preservation-qualified relief without confusing the two judgment-only constitutional grounds with joins. No new commitment or expansion negotiation is needed.
 
-The complete lead counts once for Breyer; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+**Strongest eligible pool alternative and comparison:** The Chief, also at 10, is the strongest pool alternative: his approved formulation supplies the same intrinsic-guarantee analysis and the necessary fifth direct rationale vote. Both can carry the exact opinion; Breyer can express that objective with equal fidelity while preserving the received-framework boundary and distinct remedy inquiry. The fact that the Chief supplies a necessary vote does not itself require self-assignment. Stevens, Souter and Ginsburg are fully eligible at 11 and likewise support the complete grounds.
 
-**Count evidence:** [recount](../runtime/OT_1998CHUNK9_LILLY_FINAL_RECOUNT.json).
+**Fresh-count evidence:** [recount](../runtime/OT_1998CHUNK9_LILLY_FINAL_RECOUNT.json); every prior author was recounted from actual opinion tables and form classifications, not previous totals. Git verification remains deferred under the authorized no-Git workflow.
+
+**Dated-law checkpoint:** Richardson June 1 reserves harmlessness availability for its distinct predicate-unanimity defect and does not displace the established Chapman treatment of this confrontation trial error. Goncalves and Bruneau June 3, and Amoco and OSullivan June 7, change no preserved direct-review premise here. The June 10 B decisions already written enter the author count, with no material confrontation dependency. No altered Stone condition or Associate commitment is identified.
 
 ## Law of the decision
 **The asserted firmly rooted exception.** A State cannot establish a firmly rooted federal constitutional hearsay exception merely by placing an unavailable accomplice's custodial, self-exculpatory and blame-shifting accusations within its declaration-against-penal-interest exception. Genuinely disserving admissions and accusations of another cannot automatically be treated as one reliable narrative; genuinely self-inculpatory, equally inculpatory and noncustodial statements remain subject to their actual circumstances.
@@ -126,7 +124,7 @@ Authority: [frozen reconciled commitments](../freeze/OT_1998CHUNK9_LILLY_RECONCI
 
 **Threshold and distinct components.** All eight reach the preserved Confrontation Clause challenge to Mark Lilly's custodial accusations admitted substantively at Benjamin's separate trial. This is not Bruton redaction or limiting-instruction adjudication. Firm-rootedness, particularized trustworthiness, scope of constitutional reconstruction and harmlessness are separate. Mark's privilege establishes the supplied unavailability; it does not establish reliability. No express immunity bargain or promise of leniency is found.
 
-**Law entering.** The register Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions, present operation effective Hale, February 12, 1996, preserves White's January 15, 1992 exception-sensitive framework and its rejection of a categorical formal-affidavit-only limit. Assertion-specific declarations against penal interest, effective Williamson, June 27, 1994, concerns federal Rule 804(b)(3), not Virginia evidence or a previously decided constitutional firm-rootedness question. Lee v. Illinois supplies the danger of accomplice blame shifting. Idaho v. Wright requires constitutional guarantees from the circumstances surrounding the statement, not independent trial corroboration; its majority was O'Connor's, joined by Stevens and Scalia among present Justices. Stone-Zsela's Wright dissent supports a broader contextual reliability inquiry but is not governing law. Gray, March 9, 1998, separates error from a preservation-qualified Chapman remand.
+**Law entering.** The register Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions, present operation effective Hale, February 12, 1996, preserves White's January 15, 1992 exception-sensitive framework and its rejection of a categorical formal-affidavit-only limit. Assertion-specific declarations against penal interest, effective Williamson, June 27, 1994, concerns federal Rule 804(b)(3), not Virginia evidence or a previously decided constitutional firm-rootedness question. Lee v. Illinois supplies the danger of accomplice blame shifting. Idaho v. Wright requires constitutional guarantees from the circumstances surrounding the statement, not independent trial corroboration; its majority was O'Connor's, joined by Stevens and Scalia among present Justices. Kennedy's Wright dissent supports a broader contextual reliability inquiry but is not governing law. Gray, March 9, 1998, separates error from a preservation-qualified Chapman remand.
 
 **Operative propositions and material distinctions.**
 

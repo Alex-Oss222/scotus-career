@@ -8,7 +8,7 @@
 
 - `freeze/FRANKLYN_NEUTRAL.md`: `659CA3F5BF5F9B30A9E4CBD079292C290C4C5D4368D0621DC9B7BFF609BE6788`.
 - `freeze/FRANKLYN_NEUTRAL_SUPPLEMENT.md`: `6CE51DA57957523DED5BB66129E3BFD9736976E2450AE36D1F7F7094F5416FD8`.
-- `freeze/FRANKLYN_COMMITMENTS.md`: `896199151AFD4C363BCF812931EA8353CD2487E3078B9A917697568549F692FD`, confirmed before comparator exposure.
+- `freeze/FRANKLYN_COMMITMENTS.md`: `C395E3FA1C28EFEC0D429084FD642E2101C0A8D5B95E639AE791F25F7B0F4464`, confirmed before comparator exposure.
 - `runtime/FRANKLYN_COMPARATOR_SANITIZED.md`: `A52138C2F062E1C2864A8EF70A2364AAAD46D484EA4F212100CAED1F1E9CCB5D`.
 
 The complete C1–C8 component statements, strongest alternatives, limits, remedies and Justice-specific commitments in the frozen commitments are incorporated by reference, subject only to the citation-attribution clarification below. Relevant checks used the authorized BASE selections, `FRANKLYN_STRIKES.md`, the relevant-conduct Standards supplement and Hiley's effective public reading copy. The model's recorded final chronological refresh remains incorporated; this context does not claim to have reread every effective copy. Applicable Engine sections 3, 7 and 14 govern this review.

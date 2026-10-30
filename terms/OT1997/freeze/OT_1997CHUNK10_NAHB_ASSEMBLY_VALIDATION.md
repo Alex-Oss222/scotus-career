@@ -1,4 +1,4 @@
-# Home Builders: original assembly compatibility audit
+# OT1997 chunk 10 — Home Builders assembly validation
 
 **Event:** National Association of Home Builders v. Babbitt, lower No. 96-5354; June 8, 1998.
 
@@ -6,7 +6,7 @@
 
 ## Scope and standard
 
-Reviewed: the Home Builders portions of the frozen neutral packet, commitments B, reconciliation B and lower-court comparator; and the Commerce and NAHB assembly entering-law copies. The cited historical Lopez writings supply individual-position evidence only. The legal cutoff is June 8, 1998. No private supplement, private core, brief, Home Builders Decision Record, repository history or master jurisprudence file was read. No Git command was used. The initial governing-file retrieval returned the whole Engine rather than only sections 7-9; that governing-file exposure was disclosed and supplied no matter-specific merits material.
+Reviewed: the Home Builders portions of the frozen neutral packet, commitments B, reconciliation B and lower-court comparator; and the Commerce and NAHB assembly entering-law copies. The cited historical Lopez writings supply individual-position evidence only. The legal cutoff is June 8, 1998. No private Stone supplement or Home Builders Decision Record was read.
 
 Engine sections 7-9 permit a supported formulation-sensitive inference without identical historical wording. An opinion join and a judgment vote remain separate. A Justice may accept the legal consequence of an independently controlling proposition while disagreeing with that proposition; the acceptance must be an affirmative judicial choice, not an automatically transferred vote. The packet expressly supplies that choice for Ginsburg and Breyer.
 
@@ -59,6 +59,6 @@ This audit confirms the Associate compatibility described in the public packet. 
 
 ## Assignment and integration
 
-Stone-Zsela delivers every part. The preassignment census is 91 signed leads: ten for each Justice except Breyer, eleven. Muscarello/Cleveland is the last counted event. Stone-Zsela, O'Connor and Kennedy support every governing part and the judgment; each has ten counted opinions and is within the balance pool. Stone's formulation supplies the shared two-route rule while preserving the distinct class and remedial positions. The single signed lead counts once.
+Stone-Zsela delivers every part. The preassignment census is 91 signed leads: ten for each Justice except Breyer, eleven. Muscarello/Cleveland is the last counted event. Only Stone-Zsela is eligible for the complete opinion: his approved position joins every governing proposition and the judgment, while the frozen reconciled commitments of O'Connor, Scalia, Kennedy and Thomas rest on Path B alone and those of Stevens, Souter, Ginsburg and Breyer affirm on Path A. O'Connor's and Kennedy's full joins, and Ginsburg's and Breyer's joins in Parts II-IV, come from final compatibility. Stone-Zsela, at ten, is the only balance-pool member. His formulation supplies the shared two-route rule while preserving the distinct class and remedial positions. The single signed lead counts once.
 
-The event occupies June 8, 1998, with no additional Court event. The controlling Record contains the full rule, all statutory qualifications, exact joins, separate positions and vacatur/remand. The active dependency receipt covers completed later matters through OT1998. Final generated-projection and term-check results are recorded in the operator file inventory. Git-object verification remains with the operator; no Git command is run.
+The event occupies June 8, 1998, with no additional Court event. The controlling Record contains the full rule, all statutory qualifications, exact joins, separate positions and vacatur/remand. The [dependency review](OT_1997CHUNK10_NAHB_DEPENDENCY_REVIEW.md) covers the same-day and later chunk-10 Records.

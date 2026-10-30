@@ -558,7 +558,7 @@ This audit thus identifies proposition-level compatibility, not a completed Cour
 
 ## 7. Thomas — supported conditional judgment-only vacatur
 
-**Frozen objection and preferred disposition.** Thomas's New York and Lopez joins reject this compulsory State-office means; his Harris/Hale joins preserve actual market regulation without extending it to every implementing directive. He would reverse the compulsory inquiry and implicit acceptance, and he rejects presumed ancillary triggers or a new general compensation regime.
+**Frozen objection and preferred disposition.** Thomas's New York and Lopez joins reject this compulsory State-office means; his Harris/Hale joins preserve distinct instrumentality and integral-market regulation without extending it to every implementing directive. He would reverse the compulsory inquiry and implicit acceptance, and he rejects presumed ancillary triggers or a new general compensation regime.
 
 **Changed legal premise.** The conditional proposal operates only if the Court makes the contrary limited-assistance rule governing law while leaving an actual existing objection unresolved. It does not ask him to recast a federal command as voluntary or to endorse a new exercise of commerce power.
 

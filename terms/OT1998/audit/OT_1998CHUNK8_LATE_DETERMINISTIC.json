@@ -4,7 +4,7 @@
   "cases": {
     "MAINE": {
       "record": "maine_green_party_v_maine_merits_1999-05-20.md",
-      "sha256": "78603f55bb7c955a8f7f5470d783466943cb31a007bb3fed3dd66e68892cc4b0",
+      "sha256": "c308ec82e5326f765bef7cce181ff640e9b4235a43d2531717c6a96b9b3bf39f",
       "headers": [
         "Event",
         "Participation",
@@ -33,11 +33,11 @@
       ],
       "forbidden_links": [],
       "counts": {
-        "Stone-Zsela": 9,
+        "Stone-Zsela": 8,
         "Stevens": 8,
         "O'Connor": 10,
         "Scalia": 9,
-        "Kennedy": 9,
+        "Kennedy": 10,
         "Souter": 9,
         "Thomas": 9,
         "Ginsburg": 9,
@@ -59,7 +59,7 @@
     },
     "DENTAL": {
       "record": "california_dental_association_v_ftc_merits_1999-05-24.md",
-      "sha256": "82faa52e390724a99345d235a7fd2afae99635170731191bd716352e33c7dd89",
+      "sha256": "b904f26257ea107ee407f0d58518b6e5e8a9f1e46e18d77129ca06ced0b85298",
       "headers": [
         "Event",
         "Participation",
@@ -96,11 +96,11 @@
       "private_tokens": [],
       "forbidden_links": [],
       "counts": {
-        "Stone-Zsela": 9,
+        "Stone-Zsela": 8,
         "Stevens": 8,
         "O'Connor": 10,
         "Scalia": 9,
-        "Kennedy": 9,
+        "Kennedy": 10,
         "Souter": 9,
         "Thomas": 9,
         "Ginsburg": 9,
@@ -121,7 +121,7 @@
     },
     "CLEVELAND": {
       "record": "cleveland_v_policy_management_systems_merits_1999-05-24.md",
-      "sha256": "021e296812f962f81e99ea09e17ca8e6d6d2b1197249c84a85aac0b9c716c38a",
+      "sha256": "c5cbc52c3dac56afa6c9b404ed01c9a0045ba6de73c943662aa6e53305877c6b",
       "headers": [
         "Event",
         "Participation",
@@ -150,11 +150,11 @@
       "private_tokens": [],
       "forbidden_links": [],
       "counts": {
-        "Stone-Zsela": 9,
+        "Stone-Zsela": 8,
         "Stevens": 8,
         "O'Connor": 10,
         "Scalia": 9,
-        "Kennedy": 9,
+        "Kennedy": 10,
         "Souter": 10,
         "Thomas": 9,
         "Ginsburg": 9,
@@ -175,7 +175,7 @@
     },
     "DAVIS": {
       "record": "davis_v_monroe_county_board_of_education_merits_1999-05-24.md",
-      "sha256": "f9ba90ee0d26af979640976735b024d288d6ead5a4c2f625a017cecff1e45b63",
+      "sha256": "cfdb714d0b83070c8d5e95e6499cee2de2240405654b8cb1e73f27c177284b24",
       "headers": [
         "Event",
         "Participation",
@@ -208,11 +208,11 @@
       "private_tokens": [],
       "forbidden_links": [],
       "counts": {
-        "Stone-Zsela": 9,
+        "Stone-Zsela": 8,
         "Stevens": 9,
         "O'Connor": 10,
         "Scalia": 9,
-        "Kennedy": 9,
+        "Kennedy": 10,
         "Souter": 10,
         "Thomas": 9,
         "Ginsburg": 9,
@@ -233,7 +233,7 @@
     },
     "HANLON": {
       "record": "hanlon_v_berger_merits_1999-05-24.md",
-      "sha256": "27a421e91908d693d718ffc56a209697defbe9c582b3bb5356786246b0b2a3d8",
+      "sha256": "d320fb80454712c716df6ef807d3a088751d608330ad1578c976ae9d092dbcf5",
       "headers": [
         "Event",
         "Participation",
@@ -270,11 +270,11 @@
       "private_tokens": [],
       "forbidden_links": [],
       "counts": {
-        "Stone-Zsela": 9,
+        "Stone-Zsela": 8,
         "Stevens": 9,
         "O'Connor": 10,
         "Scalia": 9,
-        "Kennedy": 9,
+        "Kennedy": 10,
         "Souter": 10,
         "Thomas": 9,
         "Ginsburg": 10,
@@ -295,7 +295,7 @@
     },
     "WILSON": {
       "record": "wilson_v_layne_merits_1999-05-24.md",
-      "sha256": "e7e6280ae0100cc290e7fa3a5b0e5d0b87a1e4c2c398e9126d5cc8fe4a07db1d",
+      "sha256": "335791c238766a9d84bab5ca79b260cb7f9f8089360119d08c40e919cf966c2b",
       "headers": [
         "Event",
         "Participation",
@@ -324,11 +324,11 @@
       "private_tokens": [],
       "forbidden_links": [],
       "counts": {
-        "Stone-Zsela": 9,
+        "Stone-Zsela": 8,
         "Stevens": 9,
         "O'Connor": 11,
         "Scalia": 9,
-        "Kennedy": 9,
+        "Kennedy": 10,
         "Souter": 10,
         "Thomas": 9,
         "Ginsburg": 10,

@@ -1,6 +1,6 @@
 # OT1997 chunk 12 — independent Brewster review
 
-No unresolved substantive, join, remedy, assignment or structural discrepancy remains in the [August 17 Brewster Record](../records/brewster_v_board_of_education_merits_1998-08-17.md). Final raw SHA-256: `c509a2cd63e9abc5c1f37b21d0c7ecc1d76d036995f6d07118ad287077aebae1`.
+No unresolved substantive, join, remedy, assignment or structural discrepancy remains in the [August 17 Brewster Record](../records/brewster_v_board_of_education_merits_1998-08-17.md). Final raw SHA-256: `5bbb172f18db7195c9ae0718587f1a5cac0f8b5a8a7c0d35b8b783c527479050`.
 
 The reviewer received the final reconciliation before the scoped Stone supplement. Checked input hashes are reconciliation `cf0088423b72ce4789abbf32145c7aa4663a8b7832aa2ec39e6de48730581575`, Stone `d278fed2598d75768058f56184fa916b7fd44dda4e17cc80e8921343a96b8cdb`, final neutral `4b58c68074d5474f64a69f96bd8ebbc77f107a70a73ea8da7eee52b026c60c83`, and August 17 entering law `3c4ea6dcba31a73180198235d87f51c8bad1efe38a1b4de2e0a0ca50f774cc77`. Relevant actual public authority, the final Record and its final precedent-treatment diff were read. This is independent assembly review, not new modeling, reconciliation, source recovery or a full-term audit. The reviewer edited no Record and used neither Git nor the prohibited top-level private directory.
 
@@ -16,11 +16,7 @@ The speech holding confronts the close relationship, reasonable forecasts and re
 
 December/January conduct remains distinct from later supported acts. NTEU's February 22, 1995 date and prospective-restraint scope are preserved; later cases provide no earlier notice. The legal/factual appellate boundary, unadjudicated personal-evidence alternatives, excluded union/state/failure-to-train claims and separate capacities remain intact. No liability, damages, repayment, reinstatement, compulsory trial, discovery or hearing is ordered.
 
-| Record | Counted leads before | Lead author | Eligible authors | Balance pool | Last counted event |
-|---|---:|---|---|---|---|
-| brewster_v_board_of_education_merits_1998-08-17.md | 118 | Breyer | Stevens, Kennedy, Souter, Ginsburg, Breyer | Stevens, Kennedy, Souter, Ginsburg, Breyer | berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md |
-
-Counts after the final listed decision, including all earlier effective Records: Stone-Zsela 14; Stevens 13; O'Connor 14; Scalia 13; Kennedy 13; Souter 12; Thomas 13; Ginsburg 13; Breyer 14. Total 119.
+The signed plenary merits form was established before counting. A fresh recount from actual earlier opinion-table evidence gives 118 before Brewster: Stone-Zsela and O'Connor 14, Souter 12 and every other Justice 13. Stevens assigns the exact Furuno reversal and both salary affirmances; the Chief assigns the other-individual vacatur. The five complete-rationale eligible authors, Souter at 12 and the others at 13, form the pool. Breyer's combined review/process fit is stated against Souter's strongest alternative. This one lead gives 119: Stone-Zsela, O'Connor and Breyer 14, Souter 12, the other five 13.
 
 Final checks establish the four opening labels, eleven exact level-two public blocks, exact internal/public Holdings identity, and eight public substantive blocks reproduced internally. The five controlling explanations contain 186, 192, 233, 282 and 210 words. Local links resolve; no placeholder or internal workflow disclosure was found in the Public Projection. All eleven earlier reviewed raw hashes remain unchanged. Detailed evidence is [the twelve-entry check](../../../tmp/chunk12_twelve_crosscheck.json).
 

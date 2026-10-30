@@ -19,13 +19,9 @@ O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer join the Court's bounded W1
 
 ## Form, assignment and opinion table
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Form before count: One signed opinion after plenary review, deciding the public-place vehicle-seizure question; a scope concurrence and a dissent. Search execution, ultimate forfeiture and independent process claims remain outside the holding.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
-
-**Assignment authority:** O'Connor, the senior participating Associate in the six-Justice judgment coalition, assigns. Stone-Zsela dissents. The Chief's compulsory balance-pool rule does not bind this Associate assignment.
-
-The actual counted source opinions yield 77 leads before this assignment.
+**Counted lead opinion:** Yes; signed lead after plenary review.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -39,15 +35,9 @@ The actual counted source opinions yield 77 leads before this assignment.
 | Ginsburg | 8 |
 | Breyer | 9 |
 
-**Last counted event:** Clinton v. Goldsmith; No. 98-347; judgment below, 48 M.J. 84. 1999-05-17; author Kennedy; [Record](clinton_v_goldsmith_merits_1999-05-17.md).
+Fresh receipt: [White recount](../freeze/OT_1998CHUNK8_WHITE_RECOUNT.json), 77 counted leads. **Last event counted:** Clinton v. Goldsmith; No. 98-347; judgment below, 48 M.J. 84. (1999-05-17), Kennedy; [Record](clinton_v_goldsmith_merits_1999-05-17.md). The recount includes Goldsmith written earlier in this Run and excludes later-alphabetical same-date Saenz and unwritten events.
 
-**Eligible authors for the complete lead:** O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer. **Illustrative within-one group:** Scalia, Kennedy, Souter, Thomas, Breyer; minimum 8, ceiling 9. **Chosen author:** Thomas.
-
-**Fit:** His frozen position directly connects probable cause to the object actually taken while preserving his Good reservation about unlimited forfeiture fictions. O'Connor's own Labron rationale requires precisely that bounded extension; Thomas can carry it without enlarging it to all statutory contraband or abandoning the separate property interest. His lower current workload is compatible with the assignment, not a substitute for that substantive fit. Historical authorship supplies no assignment ground.
-
-The complete lead counts once for Thomas; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** [White recount](../freeze/OT_1998CHUNK8_WHITE_RECOUNT.json).
+**Assignment authority:** O'Connor, the senior participating Associate in the six-Justice judgment coalition; the Chief dissents. **Eligible authors:** O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer. **Balance pool if the Chief's rule applied:** Scalia, Kennedy, Souter, Thomas, Breyer, minimum 8, ceiling 9; the rule does not bind O'Connor's assignment. **Author chosen:** Thomas. His frozen position directly connects probable cause to the object actually taken while preserving his Good reservation about unlimited forfeiture fictions. O'Connor's own Labron rationale requires precisely that bounded extension; Thomas can carry it without enlarging it to all statutory contraband or abandoning the separate property interest. His lower current workload is compatible with the assignment, not a substitute for that substantive fit. Historical authorship supplies no assignment ground.
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

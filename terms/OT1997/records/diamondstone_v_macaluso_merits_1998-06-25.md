@@ -137,11 +137,21 @@ Research cutoff: June 25, 1998. Historical reported facts, prior effective law a
 
 Before counting, one signed Court opinion carries the complete shared eight-Associate grounds. Stone's concurrence in part and in the judgment carries the exact common proposition joins and his proposed defense. All eight Associates can author every governing lead proposition; Stone cannot because he does not adopt its retained immunity framework or fallback components' rationale. Stone is in the unanimous judgment coalition and assigns. Mixed underlying remedies and proposition-specific Stone joins require tables. There is no Marks problem and no legal basis to divide lead authorship.
 
-Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 13; Stevens 12; O'Connor 12; Scalia 11; Kennedy 12; Souter 12; Thomas 12; Ginsburg 12; Breyer 12. Total counted leads: 108. Last counted event: Clinton v. City of New York, No. 97-1374; consolidated New York and Snake River actions, 1998-06-25 (Stevens). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
+**Assignment recount:** Recounted immediately before this assignment from actual current-term lead-opinion tables, through the inventory rebuilt by `python -B tmp/chunk12_assignment_inventory.py`; prior numeric assignment statements are not sources. The thirteen signed threshold exclusions, including Aktepe, remain excluded under their actual forms.
 
-Eligible complete-lead authors: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 11. Balance pool: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 13 |
+| Stevens | 12 |
+| O'Connor | 12 |
+| Scalia | 11 |
+| Kennedy | 12 |
+| Souter | 12 |
+| Thomas | 12 |
+| Ginsburg | 12 |
+| Breyer | 12 |
 
-Chosen author: Scalia. The lead must preserve Anderson's objectively reasonable-mistake protection while explaining why an identical factual precedent is unnecessary and why stop-specific judicial communications matter. His Anderson and actual Smith positions directly support that legal work. No colleague adopts Stone's replacement defense.
+Total credits: 108. Last counted event: Clinton v. City of New York, No. 97-1374; consolidated New York and Snake River actions. 1998-06-25 (clinton_v_city_of_new_york_merits_1998-06-25.md). Eligible full-lead authors: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Lowest eligible count: 11. Balance pool (minimum plus one): Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Chosen author: Scalia. Scalia is selected for fit and his lower eligible count. The lead must preserve Anderson's objectively reasonable-mistake protection while explaining why an identical factual precedent is unnecessary and why stop-specific judicial communications matter. His Anderson and actual Smith positions directly support that legal work. Ginsburg is the strongest alternative on defendant-specific notice under Elder, DeCarlo and Ringuette, but has one more counted lead; both can carry the complete shared opinion. No colleague adopts Stone's replacement defense.
 
 All eight Associates retain the complete reconciled common grounds. Stone adds only the supported proposition-level joins and disposition votes described above. No non-Stone position changes in assembly.
 

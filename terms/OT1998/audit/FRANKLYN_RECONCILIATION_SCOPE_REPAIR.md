@@ -8,4 +8,4 @@ That fresh context independently retained all eight component commitments and ph
 
 The source comparator was checked for comparable explicit private-direction markers; the identified sentence was confined to Franklyn. A separate exact Griffin-only comparator was prepared for its later clean reconciliation. No Git command or commit is represented as performed. The original exposure is disclosed rather than erased by the successful replacement stage.
 
-**Identities:** Sanitized Franklyn comparator SHA-256 `A52138C2F062E1C2864A8EF70A2364AAAD46D484EA4F212100CAED1F1E9CCB5D`; independent commitments `896199151AFD4C363BCF812931EA8353CD2487E3078B9A917697568549F692FD`; clean reconciled handoff `EE8F45C29A7077A534285BA8CF4E550FBCA18487239E7D123A9FF5949AAD4E8B`.
+**Identities:** Sanitized Franklyn comparator SHA-256 `A52138C2F062E1C2864A8EF70A2364AAAD46D484EA4F212100CAED1F1E9CCB5D`; independent commitments `C395E3FA1C28EFEC0D429084FD642E2101C0A8D5B95E639AE791F25F7B0F4464`; clean reconciled handoff `42C1DC18D0296C5799CDBB22FB71FF6C99DB0260367C3D430918BB934F6237A5`.

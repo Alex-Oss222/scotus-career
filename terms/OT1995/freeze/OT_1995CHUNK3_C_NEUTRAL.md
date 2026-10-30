@@ -108,19 +108,19 @@ Public judicial texts are used in Sections I and II only for verifiable record, 
 
 **Holding:** The Commerce Clause permits Congress to protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the federal offense requires proof of the particular instrumentality’s interstate connection. Original §2119 is constitutional as applied to the forcible taking of the Buick proved here; the judgment is affirmed without adopting the Fifth Circuit’s aggregate-effects rationale.
 
-**Proposition-level authority:** O'Connor's commerce portion, joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: eight Justices. Stone-Zsela concurs in the judgment on a narrower ground: he would sustain the application because the offense directly attacks possession and control of a covered motor vehicle functioning as an interstate transportation instrumentality or thing in commerce, and because the statute requires proof of the particular vehicle's interstate connection. He does not rely on remote historical movement alone.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes for the qualified instrumentality rule and its application. The four-Justice economic-acquisition concurrence joins this holding and does not limit those joins.
 
 **Holding:** Original §2119 requires knowing armed participation in taking or attempting to take the covered vehicle from another's person or presence by force and violence or intimidation; aiding-and-abetting liability requires intentional assistance in that taking, not mere presence, association, or awareness of another's plan. Read with that ordinary criminal fault, the statute gives fair notice of the charged conduct and defeats the presented lack-of-fault and vagueness challenges without adding a profit motive, interstate-resale intention, knowledge of federal law, or the later intent-to-kill-or-seriously-injure element.
 
-**Proposition-level authority:** O'Connor and all seven other Associate Justices adopt the complete knowing-participation and intentional-assistance rule. Stone-Zsela additionally joins knowing participation, fair notice and rejection of a general legal-knowledge requirement, but not the separately stated intentional-assistance formulation.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for knowing participation, intentional assistance, fair notice, and rejection of a general legal-knowledge requirement.
 
 **Holding:** The offense-date §924(c) authorizes its additional, consecutive punishment for the original §2119 carjacking predicate even though firearm possession is integral to that predicate's definition. The Government must still establish firearm use or carrying during and in relation to a qualifying federally prosecutable predicate; this cumulative-authorization holding does not equate possession with every §924(c) condition or determine universal element overlap.
 
-**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on cumulative statutory authorization.
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous on cumulative statutory authorization.
 
 **Holding:** Applying Missouri v. Hunter, the clearly authorized §2119 and §924(c) convictions and consecutive punishments imposed in this single prosecution do not violate the Double Jeopardy Clause even assuming overlap under Blockburger. This holding applies the governing same-trial precedent to the clear statutory direction and neither decides universal element overlap nor changes the rules for successive prosecutions.
 
-**Proposition-level authority:** Opinion of the Court (O’Connor), unanimous on the bounded application of Hunter.
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous on the bounded application of Hunter.
 
 **Limits and questions not reached:** The Court decides no independent instruction, indictment, preservation, harmlessness, sufficiency, or intradistrict-venue question. It determines neither knowledge of the vehicle's interstate history nor an independent permanent-deprivation requirement by a majority. No later carjacking intent amendment, later firearm tier, new short-barrel classification, serious-injury or death enhancement, or different charging pair is adjudicated.
 

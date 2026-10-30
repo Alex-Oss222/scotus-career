@@ -6,10 +6,10 @@
 
 | Artifact | SHA-256 |
 |---|---|
-| `freeze/OT_1998CHUNK7_AGUIRRE_ADDITIVE_COMMITMENTS.md` | `19bde2b2cc9533c4f0e3d7a41eefe3cb1816f4b190a9135b67163b6930087ea7` |
-| Identical `runtime/OT_1998CHUNK7_AGUIRRE_ADDITIVE_COMMITMENTS.md` | `19bde2b2cc9533c4f0e3d7a41eefe3cb1816f4b190a9135b67163b6930087ea7` |
-| Unchanged original `freeze/OT_1998CHUNK7_AGUIRRE_COMMITMENTS.md` | `bb7cb13fe974df5cfcc7682a4a0dd44aa6f244c7c3dad8e284872eb5c423d1b2` |
-| Unchanged separate `freeze/OT_1998CHUNK7_PBGC_COMMITMENTS.md` | `d5caaf060b92b801103f855ff2a48b5df28fafa9178b2e05040609797b065dc1` |
+| `freeze/OT_1998CHUNK7_AGUIRRE_ADDITIVE_COMMITMENTS.md` | `bddf75eb861464b14179b9de20f573c44ce6c038fe2c5f784e27cad1cf426949` |
+| Identical `runtime/OT_1998CHUNK7_AGUIRRE_ADDITIVE_COMMITMENTS.md` | `bddf75eb861464b14179b9de20f573c44ce6c038fe2c5f784e27cad1cf426949` |
+| Unchanged original `freeze/OT_1998CHUNK7_AGUIRRE_COMMITMENTS.md` | `64976c4ef9a858a304d6c61029ea7c9f4af4d9b9c7aac990af5f137ed3278dd8` |
+| Unchanged separate `freeze/OT_1998CHUNK7_PBGC_COMMITMENTS.md` | `dffa5cae6291966302504b82734ae608b35655b9da4b15bf98636f0b2cb31a2f` |
 
 The additive freeze is authoritative for its stated refinements; the original remains authoritative for unchanged A1–A3 and must be read with this addition. All eight Associates retain reversal and a bounded judicial remand, with full joins to the stated rules and limits. No author, Stone vote or final Court coalition is assigned.
 
@@ -22,7 +22,7 @@ The additive freeze is authoritative for its stated refinements; the original re
 
 Both inputs were read completely. The last sixteen Handbook lines were reread separately after a combined tool output truncated a small tail passage. The updated underlying source extraction was not substituted retroactively for the bytes available during original modeling. The additive analysis relies on these frozen neutral copies and does not claim recovery of an earlier overwritten source-extract version, complete Handbook paragraphs, original motion contents or verified transcript corrections.
 
-The complete focused LAW07 was previously read; its Yang authority and scope were checked again against the actual selected unanimous Parts II–III before finalizing the individual rows. The original Haggar public-law bytes are preserved at `freeze/OT_1998CHUNK7_HAGGAR_PUBLIC_BEFORE_EDITORIAL_CLARIFICATION.md`, SHA-256 `645c69f057dbe24a33e13e4c507efcd270dd448e816ec2dbb50c3ad55b36615c`. The later explicit naming of the statute's cleaning, lubricating and painting examples is editorial and does not change the framework used here. No same-day LaSalle or Neztsosie law is used in Aguirre.
+The complete focused LAW07 was previously read; its Yang authority and scope were checked again against the actual selected unanimous Parts II–III before finalizing the individual rows. The original Haggar public-law bytes are preserved at `freeze/OT_1998CHUNK7_HAGGAR_PUBLIC_BEFORE_EDITORIAL_CLARIFICATION.md`, SHA-256 `3f207cfa874a61ec1deaae7ceddb1706080bf0113b7cc8cdc1441e3983433a00`. The later explicit naming of the statute's cleaning, lubricating and painting examples is editorial and does not change the framework used here. No same-day LaSalle or Neztsosie law is used in Aguirre.
 
 ## Material checks
 

@@ -2,10 +2,10 @@
   "stage": "Independent model freeze, historical reconciliation freeze and completed assembly preserved; Git commitments deferred",
   "git": "prohibited; file durability only; operator will commit",
   "files": {
-    "freeze/OT_1994CHUNK5_ROBERTSON_VERIFIED_COMMITMENTS.md": "f6f8781dafe83cd3dda4281bf1f9d58840ca8bf470163da5e0646cc39757100e",
+    "freeze/OT_1994CHUNK5_ROBERTSON_VERIFIED_COMMITMENTS.md": "b76e8743aa217a200ae0c0949158967761b030f14f6ba77553367bc51bc8f939",
     "freeze/OT_1994CHUNK5_ROBERTSON_VERIFIED_SOURCE_REPORT.md": "e7187efe0c891faba3bd177f948223c65d1d119f4c7471a4a45b52146ba1713b",
     "entering-law/OT_1994CHUNK5_ROBERTSON_VERIFIED_OPENING.md": "222810ff03681c2b195baa1160cc1444da0b375fe5cea3b84a6a6198f7c13ae0",
-    "entering-law/OT_1994CHUNK5_ROBERTSON_VERIFIED_CURRENT.md": "535f6d22b64e3665f4fcd42555807b72c3922ff6718d2235efaa23c6e0b2947b",
+    "entering-law/OT_1994CHUNK5_ROBERTSON_VERIFIED_CURRENT.md": "a5043e554c8d7a97ac96be48e243170ca02b81ba28200be979bc86c11649195e",
     "freeze/OT_1994CHUNK5_ROBERTSON_VERIFIED_RECONCILED.md": "3e985bb03c9068f935d09003fe49302af68b63eb14b9d42059a9ecbe5856bc0e",
     "freeze/OT_1994CHUNK5_ROBERTSON_ASSEMBLY_REVIEW.md": "57c3a15720ec9409beb6ff6f81ff4d4c142511703eb35cf776d4c8b25b272a19",
     "records/United_States_v_Robertson_merits_1995-05-01.md": "77c1a83f765f3602f60a8b413a4d30e4303a1d919e1f26c8ca9c86f1c218adaa",

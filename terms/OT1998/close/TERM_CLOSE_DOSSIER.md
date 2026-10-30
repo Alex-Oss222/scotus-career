@@ -42,14 +42,6 @@ All three publication headers match exactly. Holdings is published in the contin
 
 The [final audit](AUDIT.md) records four nonblocking notes and its disclosed filename-discovery limitation.
 
-## Controlling Commerce decision
-
-[United States v. Griffin / United States v. Langley](../records/united_states_v_griffin_and_langley_merits_1998-10-29.md), October 29, 1998. Chief Justice Stone-Zsela delivers the unanimous opinion of the Court, Parts I?III. Both judgments are affirmed, with no separate writing.
-
-Effective October 29, 1998, the sections 922(d)(1) and 922(g)(1) supply-and-recipient mechanism supplies constitutional authority over these two local pistol possessions. Remote interstate movement may satisfy the enacted nexus but does not alone justify regulation of the possession class; Congress cannot evade Lopez merely by adding a jurisdictional element. Constitutional authority, the enacted nexus and evidence proving that nexus remain separate inquiries. No contemporaneous movement or individual direct-effect element is added, while proof beyond a reasonable doubt remains necessary for each firearm.
-
-Both convictions stand on the expert testimony concerning both Connecticut-manufactured pistols and their separate North Carolina possession. The decision supplies no new arms claim, universal approval of every status restriction, recipient mental-state rule, replacement jury charge or sentencing holding.
-
 ## Final continuity and carry-forward
 
 - [Full-Term Event Manifest](../workspace/manifest.md): 128 scheduled matters, with 126 completed matters, Germany’s original leave expressly carried, and Del Monte Dunes reconciled without a new Court event.

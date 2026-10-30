@@ -22,8 +22,8 @@ Eligible authors are Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer. The bal
 
 The Record contains exactly the eleven required Public Projection blocks in their prescribed order, two nine-member 5–4 component judgments, five complete Court-opinion joins and both two-member dissents. The four controlling explanations are 239, 208, 86 and 184 words, below the ordinary 350-word ceiling. No unknown cost, contract term, litigant default, automatic hearing or additional Supreme Court event is supplied.
 
-The chunk Render Inputs carry the Record projections in event order. The Waste Management and Hopkins public entries preserve their complete holdings and explanations. Workspace and entering-law excerpts carry the controlling public-facility and diversion-cost rules and the applicable opinion authority.
+The chunk Render Inputs carry the Record projections in event order. Workspace and entering-law excerpts carry the controlling public-facility and diversion-cost rules and the applicable opinion authority.
 
-The assignment evidence establishes 80 leads before Waste and 89 before Hopkins. Waste adds Stone-Zsela's counted May 27 lead, bringing the total to 81. Hopkins is assigned to Breyer at nine prior leads against Stone-Zsela's ten. Full-rationale eligibility and the chronological count follow the current Records.
+The assignment evidence establishes 80 leads before Waste. Waste adds Stone-Zsela's counted May 27 lead, bringing the total to 81.
 
 The Record's Public Projection has the required eleven blocks, complete judgment components, controlling grounds and exact opinion joins. Recorded file digests remain a separate validation responsibility.

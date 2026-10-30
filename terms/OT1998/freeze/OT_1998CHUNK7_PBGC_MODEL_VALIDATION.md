@@ -6,8 +6,8 @@
 
 | File | SHA-256 |
 |---|---|
-| `freeze/OT_1998CHUNK7_PBGC_COMMITMENTS.md` | `d5caaf060b92b801103f855ff2a48b5df28fafa9178b2e05040609797b065dc1` |
-| `runtime/OT_1998CHUNK7_PBGC_COMMITMENTS.md` | `d5caaf060b92b801103f855ff2a48b5df28fafa9178b2e05040609797b065dc1` |
+| `freeze/OT_1998CHUNK7_PBGC_COMMITMENTS.md` | `dffa5cae6291966302504b82734ae608b35655b9da4b15bf98636f0b2cb31a2f` |
+| `runtime/OT_1998CHUNK7_PBGC_COMMITMENTS.md` | `dffa5cae6291966302504b82734ae608b35655b9da4b15bf98636f0b2cb31a2f` |
 
 Matching hashes confirm byte identity. The frozen file is the authoritative handoff. All eight Associates receive individual P1/P2/P3 rows with result, eligible source basis, strongest contrary route, join limits and remedy; no author or Stone vote is assigned.
 
@@ -17,7 +17,7 @@ Matching hashes confirm byte identity. The frozen file is the authoritative hand
 |---|---|
 | `entering-law/OT_1998CHUNK7_LAW_11_pbgc.md` | `d835744454029ddeb8b195bcda73416f409ba81809329b3de5e4a1ca72e79fcd` |
 | `entering-law/OT_1998CHUNK7_UNUM_PUBLIC.md` | `a048652be0623a75cb63e07fcd3bde86b5e19bb6bf5737ab528a07bab0064bf1` |
-| `entering-law/OT_1998CHUNK7_HAGGAR_PUBLIC.md` | `e88361b06b64fdde7b5be7640d5e5b7dbd20581d38d0a3ad87ff0433a5945e76` |
+| `entering-law/OT_1998CHUNK7_HAGGAR_PUBLIC.md` | `778d9f9bf4f15fb8b59293c8eb721ca4a547111ffe3ffa6abf1cf3bf3f23a33a` |
 | `entering-law/OT_1998CHUNK7_LASALLE_PUBLIC.md` | `ddd6309238280f1c33184e74f5bb557a10bb703c8535bb628504eaade42a8773` |
 | `sources/chunk7-control/pbgc_resource.txt` | `868b3afe7ddb71c835147190e358701973ad7e192c6ccab909a3f847c5138f00` |
 
@@ -39,6 +39,6 @@ Rechecked unchanged after writing PBGC:
 |---|---|
 | `freeze/OT_1998CHUNK7_B_INDEPENDENT_COMMITMENTS.md` | `8efa539396b454c5de079ee31ca0420efc9443350cb32d6b511acd1152433e16` |
 | `freeze/OT_1998CHUNK7_LASALLE_REMODELED_COMMITMENTS.md` | `ee53c5d69c897395d54d0551bbe3583d1b95184e2fcbd71dbf4b69b10bb6482f` |
-| `freeze/OT_1998CHUNK7_AGUIRRE_COMMITMENTS.md` | `bb7cb13fe974df5cfcc7682a4a0dd44aa6f244c7c3dad8e284872eb5c423d1b2` |
+| `freeze/OT_1998CHUNK7_AGUIRRE_COMMITMENTS.md` | `64976c4ef9a858a304d6c61029ea7c9f4af4d9b9c7aac990af5f137ed3278dd8` |
 
 No Git command, direct or indirect, was run. No top-level `stone/` access occurred. No combined brief, comparator, reconciliation, ledger, private Stone material, raw Decision Record or audit annex was read. All writes for this handoff are under `terms/OT1998/`. The pending additive Aguirre procedural review is a different handoff and does not reopen this freeze.

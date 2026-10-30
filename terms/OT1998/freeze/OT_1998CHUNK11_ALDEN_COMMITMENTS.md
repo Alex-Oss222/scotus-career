@@ -72,7 +72,7 @@ The exact source bytes used for the final handoff are recorded below. Paths are 
 |---|---:|---|
 | `freeze/OT_1998CHUNK11_ALDEN_NEUTRAL.md` | 21461 | `0787c56077d861ee1eebcdd31a427f07d7d5de3db8cd517d506df200d559307d` |
 | `entering-law/OT_1998CHUNK11_ALDEN.md` | 87027 | `46044514347866797d5e84a69e9eb5c331d124aa5375007d662640df5956361e` |
-| `freeze/OT_1998CHUNK11_OPENING_NEUTRAL_PROJECTION.md` | 947957 | `90219aeb5885f2ed3fff2671788a55afe0f297c95dec4b7cfc50b3e030b31f58` |
+| `freeze/OT_1998CHUNK11_OPENING_NEUTRAL_PROJECTION.md` | 947957 | `065ae74b030c3dc7d58f027cdb7bf822251d187e4b30aacdd466d0c64583a8b5` |
 | `freeze/OT_1998CHUNK11_JUNE23_FINAL_NEUTRAL_SCREEN.md` | 18350 | `fee710a8bbcfe44a4707a2d3246a78407a59f0a4dfa3e563f8787714de1bdcf3` |
 | `entering-law/OT_1998CHUNK11_JUNE23_COMPLETED_PUBLIC_LAW.md` | 112581 | `30b93a744fabf74c97bb67774bd11a81c53de25abaff4e9371a8148f359a6adb` |
 | `runtime/chunk11-control/alden-maine-lower-neutral.txt` | 26833 | `b3ac424e09b5e9a508f0f6708bf3fa5000cd7abeba0cc04184ea6ea5f1329e0f` |

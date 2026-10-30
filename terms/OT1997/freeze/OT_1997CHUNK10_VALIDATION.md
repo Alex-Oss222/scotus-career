@@ -1,9 +1,30 @@
-# OT1997 chunk 10 - validation
+# OT1997 chunk 10 — final Run validation
 
-**Status:** Twelve scheduled matters are completed in their existing dated Records. Home Builders is vacated and remanded on June 8, 1998; its two-route rule and disposition each command the stated majority. There is no stopped chunk-10 matter.
+**Status:** Twelve scheduled matters completed in twelve Canonical Decision Records. The workspace contains 121 completed scheduled matters out of 160, with 39 open, and 124 Records comprising 123 Court actions and one admitted source. The next unprocessed chunk is 11; the earliest unresolved scheduled matter is Forney v. Apfel on June 15.
 
-The frozen neutral, commitment and reconciliation handoffs retain their stage boundaries. The Home Builders Associate compatibility audit receives the public legal grounds and frozen inputs without private Stone material. Its final part-specific joins preserve each Justice's stated disagreement. The Canonical Decision Record states Stone's approved grounds, exact opinion authority and assignment.
+## Scope and stage boundaries
 
-The four workspace projections carry current public law, procedure and the existing chronological inventory. The twelve Public Projections are generated into the chunk Render Input by tools/build_render_input.py. Public output uses only that generated input. The final operator inventory supplies the byte-preservation, chronology, generated-input and checker results for this pass. No additional Court action or event date is created. Separate pending proceedings retain their recorded conditions.
+The approved brief was mechanically split. Operator-selected entering-law slices were built from the current governing authorities and earlier effective public Records. Neutral validation, non-Stone modeling, historical reconciliation and assembly used separate scoped contexts. The preparation-stage exposure receipts disclose the two affected contexts; fresh unexposed validation replaced the affected Home Builders and Geissal work before modeling. No affected validation is represented as blind. The corrected statute-only extract and frozen sanitized neutral packet supplied the subsequent stages.
 
-No Git command is run. Git-object existence and repository commitment remain for the operator. No published tracker, term-close artifact or OT1999 file is written.
+The frozen commitments and reconciliations preceded Stone's introduction in assembly. Their four component files retain their frozen digests; all six corresponding runtime copies match their frozen files, and the combined handoffs contain the component handoffs unchanged. Actual intervening public decisions were copied and screened before the later event dates; no material changed premise required renewed modeling. Independent same-day decisions supply no new substantive law merely through processing order.
+
+## Completed checks
+
+- The independent [assembly audit](OT_1997CHUNK10_ASSEMBLY_AUDIT.md) cleared all eleven Records, including component judgments, grounds, joins, Stone's fixed positions and limited fallback uses, remedies, source limits, and balanced opinion assignments. Its two narrow Ringuette wording findings were repaired before clearance.
+- Each counted assignment used a fresh recount of actual opinion tables and the eligible author pool. The eleven new signed leads bring the term total to 98; Reed's per curiam summary disposition adds no signed lead.
+- The no-Git adapter executed the current `check_term.py` logic, including its in-process split and Holdings synchronization checks. All non-Git deterministic checks passed. The [captured result](OT_1997CHUNK10_CHECK_TERM.txt) expressly defers 22 commit-reference occurrences, representing 16 candidate strings, without claiming those references were verified.
+- All 112 earlier Records remain byte-identical to the pre-Run snapshot. The ledger preserves its 112 existing rows verbatim and appends twelve rows marked pending operator commit. The manifest has 160 inventory rows: 121 completed and 39 open.
+- The twelve new Records have the required four opening labels and eleven Public Projection blocks. The generated [Render Input](../render-inputs/OT_1997CHUNK10.md) contains exactly those twelve Public Projections, unchanged.
+- Continuity and the neutral projection retain earlier substance and carry the new public law, writings, procedure and source limits. The neutral projection contains no private Home Builders positions. Earlier carryovers and separately pending stages remain open.
+
+## Home Builders
+
+**National Association of Home Builders v. Babbitt:** Vacated and remanded, 5–4. Stone-Zsela delivers the Opinion of the Court with the part-specific joins stated in the Canonical Decision Record.
+
+The [assembly validation](OT_1997CHUNK10_NAHB_ASSEMBLY_VALIDATION.md) records the final compatibility review and assignment; the [assembly status receipt](OT_1997CHUNK10_NAHB_ASSEMBLY_STOP.md) records the completed action.
+
+## Operator handoff
+
+No Git command was run. Git ordering, commitment, history and commit-reference verification remain with the operator. New artifacts are saved but no repository commit is claimed. Writes were confined to this term and ignored scratch space; the locked top-level private directory was not accessed. No foundation, state, brief, case-index or earlier Record was changed. The obsolete runtime working draft was removed; frozen handoffs and their exposure receipts remain.
+
+This task was Run only. No chunk-10 public render was created; Render is a separate task using the generated Render Input.

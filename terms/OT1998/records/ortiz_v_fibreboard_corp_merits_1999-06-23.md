@@ -31,37 +31,29 @@ Stone joins Parts I, II-A, III, IV and V. He does not join Part II-B's treatment
 
 ## Form, assignment and fresh recount
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Before any count or author was considered, the prepared form was fixed as a signed plenary lead addressing the complete qualified limited-fund construction, the independent financial/equitable application, definitive inadequate representation and the confined remedy; a Stone qualification concurrence and the opposing reserved dissent complete the topology. The distinct presumptive/departure qualification remains severable from the independent-maximum and application propositions because the positions themselves require that distinction, not to alter an assignment or count. No lead opinion is divided between authors and no June 23 cases are combined.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+The tentative judgment coalition was Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. The Chief therefore assigns. Full-rationale eligibility, established before the recount, consists of O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg: each joins every governing lead proposition, including the qualified framework. Stone's material partial support does not make him eligible to deliver this complete lead. Stevens and Breyer oppose its operative applications and remedy and are likewise ineligible.
 
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+The fresh recount was performed from zero with [ot1998_chunk11_recount.py](../audit/ot1998_chunk11_recount.py), whose source and instructions were read first, and preserved in [OT_1998CHUNK11_ORTIZ_RECOUNT.json](../freeze/OT_1998CHUNK11_ORTIZ_RECOUNT.json). It verifies unchanged canonical author evidence and extracts the new Records' opinion-table authors; prior assignment totals are never reused as counts. It covers 117 counted opinions. The last counted event is Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank, June 23, 1999. The required same-date predecessors appear in Alden → College Savings → Florida Prepaid order before Ortiz.
 
-The actual counted source opinions yield 117 leads before this assignment.
+| Justice | Count before Ortiz | Full lead eligible | Balance pool |
+|---|---:|---|---|
+| Stone-Zsela | 13 | No: material partial support | No |
+| Stevens | 13 | No: opposed applications and disposition | No |
+| O'Connor | 14 | Yes | No |
+| Scalia | 12 | Yes | Yes |
+| Kennedy | 14 | Yes | No |
+| Souter | 13 | Yes | Yes |
+| Thomas | 12 | Yes | Yes |
+| Ginsburg | 13 | Yes | Yes |
+| Breyer | 13 | No: opposed applications and disposition | No |
 
-| Justice | Count before assignment |
-|---|---:|
-| Stone-Zsela | 13 |
-| Stevens | 13 |
-| O'Connor | 14 |
-| Scalia | 12 |
-| Kennedy | 14 |
-| Souter | 13 |
-| Thomas | 12 |
-| Ginsburg | 13 |
-| Breyer | 13 |
+The eligible minimum is twelve; the pool is Scalia, Souter, Thomas and Ginsburg. The Chief assigns Thomas. Fit, rather than expansion, governs because the six already share settled legal ground and no necessary join turns on an unresolved drafting accommodation. Thomas's actual Amchem opinion performs the closest legal work: separating settlement benefits from mandatory prerequisites, giving independent effect to materially conflicting bargaining interests, and preserving the antecedent nonmerits sequence without assuming substantive jurisdiction. Those concrete tasks recur here alongside the new limited-fund construction.
 
-**Last counted event:** Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank; No. 98-531. 1999-06-23; author Stevens; [Record](florida_prepaid_v_college_savings_bank_merits_1999-06-23.md).
+Scalia is the strongest equal-count alternative: his full commitments and rule/Enabling Act reasoning can carry the entire opinion. Thomas has the more direct demonstrated connection to the combined settlement, adequacy and sequencing work this opinion must coordinate. Souter's historical Ortiz writing demonstrates capability but supplies no entitlement to assignment; Ginsburg's Castano work supplies strong certification capability. Neither higher-count alternative provides a necessary accommodation or other advantage warranting preference over Thomas at twelve. O'Connor and Kennedy remain excluded by the pool, not by their capabilities. Stone's inability to join Part II-B makes self-assignment unavailable for the complete lead. No historical authorship is imported as an assignment instruction.
 
-**Eligible authors for the complete lead:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg. **Complete-opinion balance pool:** Scalia, Souter, Thomas, Ginsburg; minimum 12, ceiling 13. **Chosen author:** Thomas.
-
-**Fit:** The Chief assigns Thomas. Fit, rather than expansion, governs because the six already share settled legal ground and no necessary join turns on an unresolved drafting accommodation. Thomas's actual Amchem opinion performs the closest legal work: separating settlement benefits from mandatory prerequisites, giving independent effect to materially conflicting bargaining interests, and preserving the antecedent nonmerits sequence without assuming substantive jurisdiction. Those concrete tasks recur here alongside the new limited-fund construction.
-
-Thomas has the more direct demonstrated connection to the combined settlement, adequacy and sequencing work this opinion must coordinate. Souter's historical Ortiz writing demonstrates capability but supplies no entitlement to assignment; Ginsburg's Castano work supplies strong certification capability. Stone's inability to join Part II-B makes self-assignment unavailable for the complete lead. No historical authorship is imported as an assignment instruction.
-
-The complete lead counts once for Thomas; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** [ot1998_chunk11_recount.py](../audit/ot1998_chunk11_recount.py); [OT_1998CHUNK11_ORTIZ_RECOUNT.json](../freeze/OT_1998CHUNK11_ORTIZ_RECOUNT.json).
+The separate dissent is assigned to Breyer for his supported settlement-sensitive appraisal and explanation of the existing findings, joined by Stevens. It is not counted. Stone authors the concurrence necessary to preserve his own material requirement. Scalia and Kennedy's practical sympathy adds no operative qualification to their complete lead joins; no redundant separate concurrence is created from the historical comparator.
 
 ## Final circulation, opinions and proposition authority
 
@@ -125,7 +117,7 @@ The contemporaneous lower quotation supplies Rule 23(a)(4) and (b)(1)(B); §2072
 
 The exact reconciled handoff reports full comparative reading of the historical Cornell writings and bounded official-reporter verification. This assembly relied on that frozen comparison and consulted [the archived Court-opinion text](../runtime/chunk11-control/historical-sources/ortiz-ZO.txt) only for the specified traditional limited-fund illustrations and Trilateral/Rudd boundary. It does not claim a duplicate full historical-source review. Historical facts, governing earlier Court law, this decision's new law and assembly inferences remain distinct. Research cutoff: immediately before June 23, 1999.
 
-The immutable [bounded preparation](../runtime/chunk11-assembly-preparation/ORTIZ_PREPARED.md) is 39,194 bytes, SHA256 798d50ccff91359fce75d43bffd1f6e6f191f49966a3ceb0a4f6f7c7bf792ebb. The authoritative reconciliation is 35,555 bytes, SHA256 286de1ab3facbabc08ec2afc4f6ba200842b7c0dfd7731bf057c6f9adf6b49f9. Their identities were verified before assembly. The Florida predecessor identity matched the released 53,632-byte Record and SHA256 9f9587b749224c87aea365727d5c517b004b9415e5b1a066ddf7c1404283a899. Alden, College Savings and Florida author evidence is included in the fresh recount and was used solely for assignment arithmetic.
+The immutable [bounded preparation](../runtime/chunk11-assembly-preparation/ORTIZ_PREPARED.md) is 39,194 bytes, SHA256 747f04af332a938226e8ad05959d7203f43a55e11bd1265f78c50daf27878604. The authoritative reconciliation is 35,555 bytes, SHA256 a84ebe5590c9ce9580b8ce42cf8fccbc4f199b877e348fa4dffb3c0b15f566a7. Their identities were verified before assembly. The Florida predecessor identity matched the released 53,632-byte Record and SHA256 5b51967c159281c845a0170fedb40d1463b721d38eb00d1aa068c7e4703e5e96. Alden, College Savings and Florida author evidence is included in the fresh recount and was used solely for assignment arithmetic.
 
 Completed legal checks: actual participation and reach; approval and exact Stone scope; final judgment/rationale separation; all nine final positions; six/seven component arithmetic; preservation of definitive inadequacy and the independent limited-fund application; retained-value reservation; dissenting conditional/reserved positions; review/remedy fit; no imported June 23 law; and no material post-reconciliation Associate change. Form, eligibility and pool checks were performed in the required order. No invented draft exchange or source-dependent default supplies a proposition.
 

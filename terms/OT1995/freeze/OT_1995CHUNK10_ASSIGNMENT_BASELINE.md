@@ -1464,11 +1464,11 @@ Every named classification is supported by the excerpted assignment statement. N
 
 ### United_States_v_Lopez_merits_1995-04-26
 
-**Count classification:** Kennedy.
+**Count classification:** Stone-Zsela.
 
-[Record](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md), line 209:
+[Record](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md), line 580:
 
-> The Chief is within the five-member affirmance coalition and assigns Kennedy.
+> The Chief is within the five-member affirmance coalition and assigns the Opinion of the Court to himself.
 
 ### United_States_v_Harris_merits_1995-04-27
 

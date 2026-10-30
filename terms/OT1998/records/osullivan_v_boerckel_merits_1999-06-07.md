@@ -49,13 +49,7 @@ Six support reversal, three oppose; all nine are accounted for. Five Associates 
 
 ## Assignment and fresh term count
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
-
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
-
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 91 leads before this assignment.
+Chief Justice Stone-Zsela assigns because he supports the judgment. The single signed lead and its three proposition-based parts were selected before counts or authors, to preserve the genuine difference between deciding the ordinary Illinois process and reserving the express-opt-out question. Eligible authors for the entire lead, including that reservation, are O'Connor, Scalia, Kennedy, Souter and Thomas. Stone-Zsela's partial join does not qualify him to deliver the whole lead. Because five eligible authors can carry every part, there is no basis to divide authorship.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -69,17 +63,14 @@ The actual counted source opinions yield 91 leads before this assignment.
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-**Last counted event:** Amoco Production Co. v. Southern Ute Indian Tribe; No. 98-830; Tenth Circuit en banc judgment, 151 F.3d 1251. 1999-06-07; author Stevens; [Record](amoco_production_co_v_southern_ute_indian_tribe_merits_1999-06-07.md).
+The fresh recount takes each author from the public opinion topology of the currently written Records, in effective-date and same-date alphabetical order. It counts 91 signed plenary lead opinions. The last counted event is Amoco Production Co. v. Southern Ute Indian Tribe, June 7, 1999, delivered by Stevens and written before this assignment. The [recount receipt](../freeze/OT_1998CHUNK9_OSULLIVAN_RECOUNT.json) preserves that enumeration; no earlier assignment total is adopted and Git verification remains deferred.
 
-**Eligible authors for the complete lead:** O'Connor, Scalia, Kennedy, Souter, Thomas. **Complete-opinion balance pool:** O'Connor, Scalia, Kennedy, Souter, Thomas; minimum 10, ceiling 11. **Chosen author:** Souter.
+The minimum eligible count is 10. All five eligible authors form the balance pool: O'Connor at 11, and Scalia, Kennedy, Souter and Thomas at 10. The Chief assigns the entire lead to Souter. This is a fit assignment on the reconciled common ground. Souter's Gray opinion supplies the specific work of separating claims, identifying the actual default predicate and preserving the distinction between default and the merits. His express reconciled reservation also states precisely the boundary between an ordinary available petition and an express state opt-out retaining occasional relief. Carrying those distinctions together is the legal work of this opinion and its bounded remand. O'Connor is the strongest alternative: her Coleman opinion and Rose framework support a complete state opportunity and the consequences of an expired remedy. Souter supplies the closer combined fit for the claim-specific gateway posture and the expressly unresolved opt-out issue, while also having the lower count. No new objection is answered, no commitment is altered and no expansion history is invented. Souter delivers all three parts; O'Connor, Scalia, Kennedy and Thomas join throughout, and Stone-Zsela additionally joins Parts I–II. The assignment adds one counted lead to Souter, bringing his count to 11. Stevens writes the dissent on his own Coleman and fair-opportunity ground with Ginsburg and Breyer's compatible joins; neither that dissent nor Stone-Zsela's concurrence counts.
 
-**Fit:** Chief Justice Stone-Zsela assigns because he supports the judgment. Eligible authors for the entire lead, including that reservation, are O'Connor, Scalia, Kennedy, Souter and Thomas. Stone-Zsela's partial join does not qualify him to deliver the whole lead. Because five eligible authors can carry every part, there is no basis to divide authorship.
 
-The Chief assigns the entire lead to Souter. This is a fit assignment on the reconciled common ground. Souter's Gray opinion supplies the specific work of separating claims, identifying the actual default predicate and preserving the distinction between default and the merits. His express reconciled reservation also states precisely the boundary between an ordinary available petition and an express state opt-out retaining occasional relief. Carrying those distinctions together is the legal work of this opinion and its bounded remand. No new objection is answered, no commitment is altered and no expansion history is invented. Souter delivers all three parts; O'Connor, Scalia, Kennedy and Thomas join throughout, and Stone-Zsela additionally joins Parts I–II.
+Reconciliation verified that all eight Associates retain their historical merits alignment after independently examining former section 2254, Illinois procedure, the omitted claims and the actual gateway history. Historical reliance on amended subsection numbering is not imported into this pre-AEDPA case. Souter's precise opt-out reservation is preserved, not generalized into an adopted rule. No historical-departure line is warranted. Stone's different affirmative opt-out position is controlled by his supplement, not a reconstructed historical Chief vote.
 
-The complete lead counts once for Souter; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** [recount receipt](../freeze/OT_1998CHUNK9_OSULLIVAN_RECOUNT.json).
+Continuity should retain Stone's noncontrolling affirmative clear-state-rule and extraordinary/futility qualifications, the three dissenters' fair-opportunity construction, and the five Associates' unresolved express-opt-out question. These are published positions at their stated scope, not new controlling exceptions. No later matter's predicate is expressly displaced.
 
 ## Sources, limits and validation receipt
 

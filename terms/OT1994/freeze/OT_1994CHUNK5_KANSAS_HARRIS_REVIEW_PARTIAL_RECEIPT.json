@@ -1,13 +1,13 @@
 {
   "stage": "Harris-only intermediate review",
   "source": "terms\\OT1994\\entering-law\\OT_1994CHUNK5_BEFORE_1995-05-08.md",
-  "source_sha256": "e401be2d820c28b377565628a078718cbf5dfe96963699487e29fb707c902e44",
+  "source_sha256": "95710cd4ee81cab5961e545531b7c2cc214706238a206f8fe97213cccbe63b6d",
   "inclusive_lines_read": [
     424,
     512
   ],
   "note": "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_HARRIS_REVIEW_PARTIAL.md",
-  "note_sha256": "cebf3d5f15816ae21cbc228fd49c95b4c59aeefb0734e68606daeb5e5b9ae542",
+  "note_sha256": "7c7cba465ab770b41a40b3bec5f7d74f52e9bba3012d68ab1bc3f1979e53c901",
   "prior_artifacts_unchanged": {
     "OT_1994CHUNK5_COMMITMENTS_KANSAS_PRE_REFRESH.md": true,
     "OT_1994CHUNK5_KANSAS_ACTUAL_LAW_REVIEW_1995-04-26_PARTIAL.md": true,

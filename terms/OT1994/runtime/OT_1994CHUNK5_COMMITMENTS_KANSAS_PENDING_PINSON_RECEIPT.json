@@ -1,7 +1,7 @@
 {
   "stage": "pending Pinson; preparation only",
   "candidate": "terms\\OT1994\\runtime\\OT_1994CHUNK5_COMMITMENTS_KANSAS_PENDING_PINSON.md",
-  "candidate_sha256": "13d9bd4443025ad9926007aa689bf753fa0603d01dc9d0f6cd75c53bf9200515",
+  "candidate_sha256": "f015fa0ed4092f0fe0769ad7fccb9543e48f6281e1d7c623a7eaf2a5bf1da445",
   "preserved_substantive_body_exact": true,
   "associate_rows": 8,
   "component_cells": 80,
@@ -9,7 +9,7 @@
     "terms\\OT1994\\freeze\\OT_1994CHUNK5_COMMITMENTS_KANSAS_PRE_REFRESH.md": "e599c46349f352010e09598a4e0339f6e0011a5785b339fc8e9b8c4e657f6a20",
     "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_ACTUAL_LAW_REVIEW_1995-04-26_PARTIAL.md": "fe373c0fc991711f18f824c269822ccebb40b0429011daad749745a7c18f0233",
     "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_TRAVELERS_REVIEW_PARTIAL.md": "0e1a9a304e63840732c53292de6276fa306f1906c7498d49bd7c4c60fe533989",
-    "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_HARRIS_REVIEW_PARTIAL.md": "cebf3d5f15816ae21cbc228fd49c95b4c59aeefb0734e68606daeb5e5b9ae542"
+    "terms\\OT1994\\freeze\\OT_1994CHUNK5_KANSAS_HARRIS_REVIEW_PARTIAL.md": "7c7cba465ab770b41a40b3bec5f7d74f52e9bba3012d68ab1bc3f1979e53c901"
   },
   "final_release": false,
   "git_commands_run": false

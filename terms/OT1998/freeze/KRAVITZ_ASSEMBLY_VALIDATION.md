@@ -12,6 +12,6 @@
 
 **Checks passed:** Exact four opening labels; ASCII header tally; exact counted-lead marker; explicit topology table with Kennedy and eight unique full joiners plus Stone's unjoined concurrence; eleven exact Public Projection blocks; no placeholders; controlling explanations of 242 and 271 words; full-core compatibility and remedy checks; no public workflow metadata; exact Public Projection identity in `entering-law/KRAVITZ_EFFECTIVE.md`.
 
-Record SHA256: E4A20E8C879BC23650AA94C816BFB7C5233308CEB47E8E0387DA90D6E63CFBA4. Effective-copy SHA256: 692567740E4EF1D724634BA0CFC3673C13B30A0032E732C3D8914A0FE2BDEA8B.
+Record SHA256: BD2B9F8191D601BE989AE166FA798649BD97BC0D35DB4B9BB1E9407112B98464. Effective-copy SHA256: 692567740E4EF1D724634BA0CFC3673C13B30A0032E732C3D8914A0FE2BDEA8B.
 
 **Wrapper cleanup:** The generated effective-copy heading separator was repaired from an encoding placeholder to an ASCII hyphen; its bounded public body is byte-unchanged. The effective-copy fingerprint above reflects this metadata-only repair.

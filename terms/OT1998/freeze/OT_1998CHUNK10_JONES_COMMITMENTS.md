@@ -196,6 +196,6 @@ Hashes identify exact authorized copies, not a representation that every unrelat
 | `terms/OT1998/research/OT_1998CHUNK10_B_FDPA3593_1994.txt` | `37deb285347eb56cc70cec36aa5969d47ff0d508b332e7aedc7d2b6df669781b` |
 | `terms/OT1998/research/OT_1998CHUNK10_B_FDPA3594_1994.txt` | `c1095bbc499663392d84c567a89f28c596c5ee6c1575e4a3b6a5dbc5c175df58` |
 | `terms/OT1998/research/OT_1998CHUNK10_B_FDPA3595_1994.txt` | `4a0d61d7fa483f7c337db63e7f715476bab4cf92a3058fed53087384dca7f305` |
-| `terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `39b8a00adefcafa968953028f79d5fbc1cc89fe9bd9ccbcf29722b9e2fc31527` |
+| `terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md` | `2d3a4bb88bba06ed12dbcd3861f437889bba9acd8e92aae2c68e178757208f1f` |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_STANDARDS.md` | `842304a9e90878fe5d347c795320649f3341170f87835964ca416a69099cb7c9` |
 | `terms/OT1998/entering-law/OT_1998CHUNK10_B_CURRENT.md` | `09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5` |

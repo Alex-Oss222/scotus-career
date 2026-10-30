@@ -25,14 +25,6 @@ The approved Maine section of [the current Stone supplement](../runtime/OT_1998C
 Five affirm the judgment and four would vacate. Four procedural affirmers and Stone's merits concurrence supply no common judgment-supporting rationale. Neither a factual-preservation bar nor a contextual merits affirmance is a logical subset of the other: either can apply where the other's premise fails. Marks therefore supplies no narrower affirmance rule. Independently, Stone and the four remand supporters directly adopt the same limited legal-argument preservation proposition, with the disputed exclusive-local factual premise expressly unresolved. This direct five-vote proposition is not a Marks synthesis or a finding that every later factual assertion is preserved. It does not command a remand against the five votes affirming the actual judgment.
 ## Assignment and final compatibility
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
-
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
-
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 81 leads before this assignment.
-
 | Justice | Count before assignment |
 |---|---:|
 | Stone-Zsela | 8 |
@@ -45,15 +37,9 @@ The actual counted source opinions yield 81 leads before this assignment.
 | Ginsburg | 9 |
 | Breyer | 9 |
 
-**Last counted event:** Saenz v. Roe; No. 98-97; judgment below, Roe v. Anderson, 134 F.3d 1400. 1999-05-17; author Kennedy; [Record](saenz_v_roe_merits_1999-05-17.md).
-
-**Eligible authors for the complete lead:** O'Connor, Scalia, Thomas, Breyer. **Complete-opinion balance pool:** O'Connor, Scalia, Thomas, Breyer; minimum 9, ceiling 10. **Chosen author:** Breyer.
-
-**Fit:** Breyer's frozen complete-system position specifically explains why a claimed change in national aims matters to the factual burden analysis; that supplies concrete fit for a narrow preservation opinion without endorsing the retention rule. Scalia offers a strong alternative on the claim/argument distinction; Breyer can perform that same procedural work while explaining the materiality of the disputed premise. Fit, not a new accommodation or altered commitment, determines this selection.
+Last counted event: Saenz v. Roe; No. 98-97; judgment below, Roe v. Anderson, 134 F.3d 1400. (1999-05-17), Kennedy; `saenz_v_roe_merits_1999-05-17.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: O'Connor, Scalia, Thomas and Breyer. Balance pool: O'Connor, Scalia, Thomas, Breyer; minimum 9, ceiling 10. Chief Justice Stone-Zsela assigns Breyer. The Chief supports affirmance and therefore assigns the lead, but does not qualify to write the plurality's preservation ground. Stevens, Kennedy, Souter and Ginsburg oppose affirmance. Among the eligible authors the minimum is nine, so all four are within one. Breyer's frozen complete-system position specifically explains why a claimed change in national aims matters to the factual burden analysis; that supplies concrete fit for a narrow preservation opinion without endorsing the retention rule. Scalia offers a strong alternative on the claim/argument distinction; Breyer can perform that same procedural work while explaining the materiality of the disputed premise. O'Connor's Yee experience supplies no exception to the lower-count preference. Fit, not a new accommodation or altered commitment, determines this selection.
 
 All four procedural affirmance supporters join Breyer's lead in full. Stone concurs only in the judgment, preserving his view that the legal organizational-autonomy argument is available and that the facial challenge fails on this record. Stevens writes for Kennedy, Souter and Ginsburg in dissent, reflecting his preserved-argument and ordinary-remand ground. That separate authorship is a formulation of their frozen shared position, not imported historical authorship. No one is given a new merits join. Five directly agree only that refining the legal organizational-autonomy objection within the original claim does not itself forfeit it; none of those five finds the new exclusive-local factual premise established. The four procedural affirmers disagree with that application. The five-proposition agreement does not become a shared ground for the affirmance.
-
-The complete lead counts once for Breyer; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
 ## Adaptive audit annex
 

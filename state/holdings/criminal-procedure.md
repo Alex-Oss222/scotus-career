@@ -4446,7 +4446,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** Congress did not authorize cumulative convictions and punishment under §§846 and 848 for the included agreement here. Concurrent imprisonment does not cure the unauthorized second conviction.
 
-**Proposition-level authority:** Stevens's Part II, joined by the other seven Associate Justices. Stone-Zsela also joins Ball's second-conviction and concurrency propositions and the invalidity of these two judgments on his narrower charged-and-tried basis.
+**Proposition-level authority:** Stevens's Part II, joined by all eight Associates. Stone-Zsela also joins Ball's second-conviction and concurrency propositions and the invalidity of these two judgments on his narrower charged-and-tried basis.
 
 **Treatment of earlier authority:** Hunter supplies the single-prosecution authorization inquiry; Blockburger and Whalen supply the elements comparison and presumption against cumulation. Jeffers's no-cumulative-punishment conclusion applies, while retention of its unreviewed earlier judgment establishes no contrary dual-conviction rule. Ball makes the second conviction consequential despite concurrency. Garrett and Felix preserve the distinct substantive-predicate and agreement/substantive-offense rules. Harris and Bishop/Stokes concern a different pairing expressly authorized by §924(c). Witte's authorized relevant-conduct sentencing is distinct from another conviction, and Dixon's retained Grady rule is unchanged. No independent constitutional punishment rule beyond congressional authorization is adopted.
 
@@ -4454,7 +4454,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** The mandatory $50 assessment on the second felony conviction is actual additional punishment and may be considered in the preserved challenge to both judgments even though not separately challenged below. Vacatur must remove the selected count's assessment.
 
-**Proposition-level authority:** Stevens's Part III, joined by the other seven Associate Justices. Stone-Zsela joins actual additional punishment and removal of the assessment, but not the separate presentation ruling.
+**Proposition-level authority:** Stevens's Part III, joined by all eight Associates. Stone-Zsela joins actual additional punishment and removal of the assessment, but not the separate presentation ruling.
 
 **Limits and questions not reached:** The automatic consequence answers the claim of no additional punishment; it creates no general preservation exception, freestanding refund claim or finding about payment, collection or expiration. Ball makes speculative collateral-consequence prediction unnecessary given the concrete assessment.
 
@@ -4462,7 +4462,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** The District Court must vacate either Count 1 or Count 2, its entire corresponding life sentence and its $50 assessment, initially choosing within lawful discretion. Vacating only a sentence, staying its execution or combining labels does not remove the unauthorized second judgment.
 
-**Proposition-level authority:** Stevens's Part IV, joined by the other seven Associate Justices. Stone-Zsela joins required removal of one judgment, sentence and assessment without reopening Counts 3–6, but would require conspiracy-only vacatur.
+**Proposition-level authority:** Stevens's Part IV, joined by all eight Associates. Stone-Zsela joins required removal of one judgment, sentence and assessment without reopening Counts 3–6, but would require conspiracy-only vacatur.
 
 **Operative remedy or transition:** Reverse the dual-conviction ruling, 9–0; either-count discretion commands eight votes. The assessment total falls from $300 to $250. The surviving challenged count and Counts 3–6, including Count 3's independent life term, remain intact. No release, acquittal, trial, general resentencing or reopening of unrelated objections follows.
 
@@ -4472,7 +4472,7 @@ The trial findings establish increased drug use and discipline difficulties, ath
 
 **Holding:** In an appropriate case, an appellate court may direct entry of judgment on a valid lesser included offense when reversal rests on a defect affecting only the greater offense. That corrective authority supplies no entitlement to retain two convictions now and no automatic later reinstatement.
 
-**Proposition-level authority:** Stevens's Part V, joined by the other seven Associate Justices; Stone-Zsela does not join.
+**Proposition-level authority:** Stevens's Part V, joined by all eight Associates; Stone-Zsela does not join.
 
 **Limits and questions not reached:** A defect tainting the agreement or lesser verdict cannot be ignored. Exact future procedural vehicle, limits, contested reinstatement, retrial, compelled lesser judgment and harmlessness remain open. Duplication vacatur is not an evidentiary acquittal. Earlier separate conspiracy prosecution, previously unknown CCE facts and a noncoterminous enterprise are not decided.
 

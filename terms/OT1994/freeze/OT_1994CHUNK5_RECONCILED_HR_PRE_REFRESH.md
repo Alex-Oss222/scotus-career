@@ -4,7 +4,7 @@
 
 **Scope:** United States v. Harris, No. 94-297, prospective merits event April 27, 1995; United States v. Robertson, No. 94-251, prospective merits event May 1, 1995. Eight Associates only: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer. No final Court coalition, author, assignment, or final opinion topology is selected. No private current Stone material, combined brief, raw Decision Record, private continuity, unassigned comparator, or historical Harris petition action was opened or researched. Public prior-law material remains admissible at its stated scope.
 
-**Frozen input:** `freeze/OT_1994CHUNK5_COMMITMENTS_HR_PRE_REFRESH.md`, SHA256 `99E283180C88041FDFDE577636491725DB78683D7E31C97796177134C93DD87D`, verified before review and not altered. Its own preliminary-status restriction remains in force. The parent authorized preliminary comparison, not treatment of that file as final modeling.
+**Frozen input:** `freeze/OT_1994CHUNK5_COMMITMENTS_HR_PRE_REFRESH.md`, SHA256 `E5F2F910ECECDD20D412FB5D8795169A62F9BA2EF420B43BE114903946E5BD12`, verified before review and not altered. Its own preliminary-status restriction remains in force. The parent authorized preliminary comparison, not treatment of that file as final modeling.
 
 ## Authorized sources and review receipt
 

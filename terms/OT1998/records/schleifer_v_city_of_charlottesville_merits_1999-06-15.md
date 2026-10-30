@@ -52,13 +52,11 @@ The Public Projection's Holdings, Precedent Treatment and Law After Decision blo
 
 ## Assignment and reconciled-ground audit
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+**Form first:** One signed lead after plenary review addresses a common facial issue in Part I and records the three-Justice substantive rationale in Part II. The necessary separate writings preserve the two additional substantive affirmers, the three substantive partial dissenters and Stone's facial dissent. Form and proposition boundaries were fixed before the recount or author selection; they are not divided to change eligibility or counts.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+**Counted lead opinion:** Yes.
 
-**Assignment authority:** O'Connor, the most senior participating Associate in the judgment coalition, assigns; Stone-Zsela is outside that coalition. The Chief's compulsory balance-pool rule does not bind this assignment.
-
-The actual counted source opinions yield 100 leads before this assignment.
+**Fresh source recount:** OT_1998CHUNK10_SCHLEIFER_RECOUNT.json recomputes from zero using the baseline's exact unchanged quoted author evidence plus the now-written West opinion table. It includes 111 prior Records, 100 qualifying signed leads; the last counted event is West v. Gibson, June 14, 1999. No earlier tally supplies an increment.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -72,13 +70,7 @@ The actual counted source opinions yield 100 leads before this assignment.
 | Ginsburg | 11 |
 | Breyer | 11 |
 
-**Last counted event:** West v. Gibson; No. 98-238; review of 137 F.3d 992 (7th Cir. 1998). 1999-06-14; author Souter; [Record](west_v_gibson_merits_1999-06-14.md).
-
-**Eligible authors for the complete lead:** O'Connor, Kennedy, Breyer. **Illustrative within-one group:** O'Connor, Kennedy, Breyer; minimum 11, ceiling 12. **Chosen author:** O'Connor.
-
-**Fit:** Stone is outside the affirming judgment coalition and does not assign. O'Connor, its senior Associate Justice, assigns the lead to herself. The complete substantive rationale is supported by O'Connor, Kennedy and Breyer; all eight Associates support Part I. O'Connor's own Glucksberg assumed-interest formulation fits the exact accommodation here: take minor and parent interests seriously, assess the actual protective operation, and avoid broad nonfundamentality or strict-scrutiny declarations. Kennedy could carry it, but O'Connor's already articulated method supplies the precise shared formulation. Historical authorship supplies no answer because no historical merits opinion exists.
-
-The complete lead counts once for O'Connor; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+Stone is outside the affirming judgment coalition and does not assign. O'Connor, its senior Associate Justice, assigns the lead to herself. The Chief's balance-pool restriction does not bind this assignment; no mandatory balance pool applies. The complete substantive rationale is supported by O'Connor, Kennedy and Breyer; all eight Associates support Part I. O'Connor's own Glucksberg assumed-interest formulation fits the exact accommodation here: take minor and parent interests seriously, assess the actual protective operation, and avoid broad nonfundamentality or strict-scrutiny declarations. Kennedy could carry it, but O'Connor's already articulated method supplies the precise shared formulation. Historical authorship supplies no answer because no historical merits opinion exists. The resulting signed lead counts once for O'Connor.
 
 | Justice | Frozen ground, final compatibility and historical limit |
 |---|---|

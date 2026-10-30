@@ -158,37 +158,11 @@ The strongest alternative to P2 is that actual-condition review must include pre
 
 ## Form, authorship and assignment
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Form and complete propositions were settled before viewing the new counts: one signed lead with six supporters throughout and severable nine-Justice perceived-class and Supreme-nonreach portions; two substantive separate writings preserve the dissenters’ different actual-disability conclusions and remedies. No proposition or case was divided to influence eligibility, and no split author is required. No expansion accommodation or revised commitment is needed.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+**Assignment:** Justice O’Connor assigns as the most senior participating Associate in the six-Justice affirmance coalition. The Chief and Stevens oppose affirmance. The [fresh recount](../freeze/OT_1998CHUNK11_MURPHY_RECOUNT.json), run from actual canonical author evidence after legal form/propositions were fixed, gives all nine prior counts: Stone-Zsela 12; Stevens 12; O’Connor 13; Scalia 12; Kennedy 13; Souter 12; Thomas 12; Ginsburg 12; Breyer 13. Last counted event: Kolstad v. American Dental Association, merits, June 22, 1999 (`kolstad_v_american_dental_association_merits_1999-06-22.md`), earlier alphabetically. Eligible authors: O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, who support the entire lead. Balance pool: O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg; minimum 12, ceiling 13. Chosen author: O’Connor.
 
-**Assignment authority:** O'Connor, the most senior participating Associate in the judgment coalition, assigns; Stone-Zsela is outside that coalition. The Chief's compulsory balance-pool rule does not bind this assignment.
-
-The actual counted source opinions yield 111 leads before this assignment.
-
-| Justice | Count before assignment |
-|---|---:|
-| Stone-Zsela | 12 |
-| Stevens | 12 |
-| O'Connor | 13 |
-| Scalia | 12 |
-| Kennedy | 13 |
-| Souter | 12 |
-| Thomas | 12 |
-| Ginsburg | 12 |
-| Breyer | 13 |
-
-**Last counted event:** Kolstad v. American Dental Association; No. 98-208. 1999-06-22; author O'Connor; [Record](kolstad_v_american_dental_association_merits_1999-06-22.md).
-
-**Eligible authors for the complete lead:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg. **Illustrative within-one group:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg; minimum 12, ceiling 13. **Chosen author:** O'Connor.
-
-**Fit:** Justice O’Connor assigns as the most senior participating Associate in the six-Justice affirmance coalition. The Chief and Stevens oppose affirmance. American Dental Association, merits, June 22, 1999 (`kolstad_v_american_dental_association_merits_1999-06-22.md`), earlier alphabetically. Eligible authors: O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, who support the entire lead. Chosen author: O’Connor.
-
-The self-assignment is a case-specific assignment inference grounded in her demonstrated statutory and question-scope work: Hazen Paper distinguishes statutory elements and legal standards, while her Caspari and Madsen opinions define included questions and nonreach. Those capabilities fit this opinion’s separation of mitigation construction, ungranted factual sufficiency and supported alternative coverage reasoning. Her full frozen joins carry every proposition without a coalition change. Historical authorship is not an entitlement, and no fictional assignment exchange or later-career legal premise is supplied.
-
-The complete lead counts once for O'Connor; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** [fresh recount](../freeze/OT_1998CHUNK11_MURPHY_RECOUNT.json).
+The self-assignment is a case-specific assignment inference grounded in her demonstrated statutory and question-scope work: Hazen Paper distinguishes statutory elements and legal standards, while her Caspari and Madsen opinions define included questions and nonreach. Those capabilities fit this opinion’s separation of mitigation construction, ungranted factual sufficiency and supported alternative coverage reasoning. Her full frozen joins carry every proposition without a coalition change. Historical authorship is not an entitlement, and no fictional assignment exchange or later-career legal premise is supplied. The Associate assignment counts once for O’Connor in subsequent recounts; separate writings do not count.
 
 ## Material Published Noncontrolling Positions
 

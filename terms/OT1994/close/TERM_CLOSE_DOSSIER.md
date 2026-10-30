@@ -10,12 +10,6 @@
 
 [U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership](../records/US_Bancorp_Mortgage_Co_v_Bonner_Mall_Partnership_mootness_vacatur_1994-11-08.md) concerns §2106 equitable disposition of a judgment lawfully before an appellate court. It creates no collateral reopening procedure, displaces no independently applicable Rule 60 requirement, and does not make a settlement agreement itself sufficient grounds for vacatur. [Celotex Corp. v. Edwards](../records/Celotex_Corp_v_Edwards_merits_1995-04-19.md) preserves lawful review of an effective bankruptcy restraint; the bounded securities reinstatement decisions supply no self-help exception.
 
-## Controlling Commerce decision
-
-[United States v. Harris](../records/United_States_v_Harris_merits_1995-04-27.md), April 27, 1995. Chief Justice Stone-Zsela delivers the unanimous opinion of the Court. Breyer, Stone-Zsela and Stevens also write separately; their additional grounds retain the joins and limits stated in the Record.
-
-Congress may protect an interstate transportation instrumentality against a direct intrastate forcible taking when the offense requires proof of that particular instrumentality’s interstate connection. That rule sustains the original §2119 prosecution here; it does not make past interstate movement alone sufficient, federalize every offense in or near a vehicle, or adopt the Fifth Circuit’s general crime-cost rationale. The original statute requires knowing participation and intentional assistance for aiding-and-abetting liability. Knowledge of the vehicle’s interstate history and a separate permanent-deprivation requirement receive no majority resolution. Clear §924(c) cumulative and consecutive authorization governs this §2119 pairing, and Hunter permits the resulting same-trial punishment. Existing successive-prosecution law remains unchanged. No later statutory amendment or unproved trial defect becomes law through this affirmance.
-
 ## Term scope
 
 All **99 OT1994 inventory Court events are closed as inventory events**, with **two additional Admitted Source Records**, for **101 current Records**. Nine chunks contain 12 events apiece in chunks 1–8 and three in chunk 9. The last adjudicative date is June 29, 1995. Completion of an inventory event does not terminate the underlying proceedings that its Record leaves open.

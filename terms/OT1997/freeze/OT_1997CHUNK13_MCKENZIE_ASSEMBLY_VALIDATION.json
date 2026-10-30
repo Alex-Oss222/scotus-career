@@ -7,10 +7,10 @@
     "Stevens": 15,
     "O'Connor": 16,
     "Scalia": 14,
-    "Kennedy": 15,
+    "Kennedy": 14,
     "Souter": 14,
-    "Thomas": 14,
-    "Ginsburg": 15,
+    "Thomas": 13,
+    "Ginsburg": 14,
     "Breyer": 15
   },
   "eligible": [
@@ -24,16 +24,14 @@
     "Breyer"
   ],
   "pool": [
-    "Stevens",
     "Scalia",
     "Kennedy",
     "Souter",
     "Thomas",
-    "Ginsburg",
-    "Breyer"
+    "Ginsburg"
   ],
   "last_counted": "securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md",
-  "prior_signed_leads": 132,
+  "prior_signed_leads": 129,
   "public_blocks": 11,
   "holdings_identity": true,
   "explanation_words": [
@@ -44,7 +42,7 @@
   "statutory_conditions_present": true,
   "internal_links_resolve": true,
   "final_reconciliation_identity": true,
-  "canonical_sha256": "decfbaafb297dfcc45e0a4df26042747f4d7449d74d382a0260f2cd0d0a6a123",
+  "canonical_sha256": "b4bb1de3b03d9d5f36ec7c21a5418597d0bf4169d8f35eb10cad0129bb03dd75",
   "workspace_or_render_written": false,
   "summary_wording": "Qui tam dismissal vacated; overall judgment affirmed in part and vacated in part.",
   "holdings_preserved_after_summary_clarification": true

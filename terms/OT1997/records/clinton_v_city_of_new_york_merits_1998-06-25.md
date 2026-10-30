@@ -138,11 +138,21 @@ Research cutoff: June 25, 1998. Historical reported facts, prior effective law a
 
 The case's grounds require one signed Court opinion with separate statutory-channel, New York standing, Snake River standing and common Article I parts, plus Scalia/O'Connor's separate threshold and New York merits opposition, Breyer's separate validity opinion and Kennedy's structural-liberty concurrence. One complete lead is possible: Stevens, Kennedy, Souter, Thomas and Ginsburg can each deliver all governing portions. Stone cannot because his channel vote is disposition-only; Breyer rejects Article I invalidity. Stone is in both affirming judgment coalitions and assigns. Distinct component votes and conditional merits positions require a topology table. Counts do not alter opinion form or select a certiorari workaround.
 
-Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 13; Stevens 11; O'Connor 12; Scalia 11; Kennedy 12; Souter 12; Thomas 12; Ginsburg 12; Breyer 12. Total counted leads: 107. Last counted event: Bragdon v. Abbott, No. 97-156, 1998-06-25 (Kennedy). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
+**Assignment recount:** Recounted immediately before this assignment from actual current-term lead-opinion tables, through the inventory rebuilt by `python -B tmp/chunk12_assignment_inventory.py`; prior numeric assignment statements are not sources. The thirteen signed threshold exclusions, including Aktepe, remain excluded under their actual forms.
 
-Eligible complete-lead authors: Stevens, Kennedy, Souter, Thomas, Ginsburg. Lowest eligible count: 11. Balance pool: Stevens, Kennedy, Souter, Thomas, Ginsburg. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 13 |
+| Stevens | 11 |
+| O'Connor | 12 |
+| Scalia | 11 |
+| Kennedy | 12 |
+| Souter | 12 |
+| Thomas | 12 |
+| Ginsburg | 12 |
+| Breyer | 12 |
 
-Chosen author: Stevens. The work requires separating the statutory channel, two concrete injury theories and executive execution from legal nullification while preserving the actual Plaut/Hechinger boundaries. His complete reconciled position carries all parts. No author is made ineligible by subject or historical authorship.
+Total credits: 107. Last counted event: Bragdon v. Abbott, No. 97-156. 1998-06-25 (bragdon_v_abbott_merits_1998-06-25.md). Eligible full-lead authors: Stevens, Kennedy, Souter, Thomas, Ginsburg. Lowest eligible count: 11. Balance pool (minimum plus one): Stevens, Kennedy, Souter, Thomas, Ginsburg. Chosen author: Stevens. Stevens is selected for fit and the lower count within the eligible pool. The work requires separating the statutory channel, two concrete injury theories and executive execution from legal nullification while preserving the actual Plaut/Hechinger boundaries. His complete reconciled position carries all parts. Kennedy can perform the same work but has the higher count after Bragdon; Kennedy's distinct liberty explanation remains a separate concurrence. No author is made ineligible by subject or historical authorship.
 
 | Justice | Final components and reconciliation |
 |---|---|

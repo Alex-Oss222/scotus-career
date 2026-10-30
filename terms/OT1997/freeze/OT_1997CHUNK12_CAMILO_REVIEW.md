@@ -1,6 +1,6 @@
 # OT1997 chunk 12 — independent Camilo-Robles review
 
-No unresolved substantive, join, remedy, assignment or format discrepancy remains in [the July 20 Camilo-Robles Record](../records/camilo_robles_v_hoyos_merits_1998-07-20.md). Final raw-file SHA-256: `ffc40075ae8fa8912e6f7d59838d31a473531012e141f9477c3c22f9833944e2`.
+No unresolved substantive, join, remedy, assignment or format discrepancy remains in [the July 20 Camilo-Robles Record](../records/camilo_robles_v_hoyos_merits_1998-07-20.md). Final raw-file SHA-256: `eb9bb5dffa36488eba92c4776eb3adfdeacde2427fdaad0ab5b5ba50b4827c17`.
 
 The reviewer read the final reconciled commitments, exact scoped Stone supplement, July 20 neutral packet, preconduct-authority addendum, relevant actual public authority in the July 20 entering-law slice, and the final Record. The slice's checked hash remains `3b5c1cb7ef55311cd67d209fea7199f270bb8dcf10057bbfee4ac9a48b14ef2b`. This was assembly review, not renewed modeling, source recovery or a full-term audit. No future-case Stone material, top-level private directory or Git operation was used. The reviewer edited no Record.
 
@@ -20,10 +20,6 @@ Section 4105's reported professional-duty, employee, governmental-entity and mal
 
 Legal review remains confined to properly identified plaintiff-favorable assumptions from the trial record. Extra-record material, factual-sufficiency review, default from missing opposition and new factual findings are excluded. Review identified one wording defect: Holding I initially made clarification mandatory. The assembler changed both copies to permissive clarification, matching the frozen commitment; required exclusion and dismissal limits remain. Final readback confirms the repair. Affirmance establishes no liability, causation, damages, compulsory discovery, hearing or trial, and creates no new costs order.
 
-| Record | Counted leads before | Lead author | Eligible authors | Balance pool | Last counted event |
-|---|---:|---|---|---|---|
-| camilo_robles_v_hoyos_merits_1998-07-20.md | 116 | Scalia | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | monge_v_california_merits_1998-06-26.md |
-
-Counts after the final listed decision, including all earlier effective Records: Stone-Zsela 14; Stevens 13; O'Connor 13; Scalia 13; Kennedy 13; Souter 12; Thomas 13; Ginsburg 13; Breyer 13. Total 117.
+Form was fixed before assignment. The independently rechecked actual-table baseline is 116: Stone-Zsela had 14 counted leads, Scalia and Souter 12 each, and every other Justice 13. The eight eligible Associates all fall within the minimum-plus-one pool; Stone assigns as a judgment supporter but is ineligible for the full rationale. Scalia's single counted lead produces **117 total: Stone-Zsela 14, Souter 12, every other Justice 13**.
 
 [The final check receipt](../../../tmp/chunk12_camilo_review_checks.json) confirms the four required labels, eleven level-two Public Projection blocks, unchanged internal/public holdings and six other substantive blocks, no placeholders or public workflow text, and stated research cutoffs. The longest controlling explanation is 237 words; Stone's summary is 281. The six June 25 texts and three normalized June 26 files match their protected review hashes. Coordinated workspace, Render Input and whole-term checks remain with control. No review blocker remains.

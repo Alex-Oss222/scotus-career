@@ -84,7 +84,7 @@ The immediately-before-May-8 actual-law release is a reading copy, not new autho
 
 | Source or preserved handoff | SHA-256 |
 |---|---|
-| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md`, complete file bytes | `e401be2d820c28b377565628a078718cbf5dfe96963699487e29fb707c902e44` |
+| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md`, complete file bytes | `95710cd4ee81cab5961e545531b7c2cc214706238a206f8fe97213cccbe63b6d` |
 | Harris section of that release, UTF-8 normalized newlines and one terminal newline | `6fe76438f35121ed26196f13ac8ae5153517afc10e063f3e2c0e6b3ee991aeb2` |
 | Pinson-only section of `runtime/OT_1994CHUNK5_NEUTRAL_C_VALIDATED.md`, from its case heading to the next case heading or EOF, UTF-8 normalized newlines and one terminal newline | `21de1d66c63ad7471cf013d45525349bbed34044b4ac75ea3cae876334d4b615` |
 | `freeze/OT_1994CHUNK5_NEUTRAL_VALIDATION_C.md` | `0f47b5224084ba3ddf048a0b5ecb6020e933aa5103917039608fd0d631404af9` |

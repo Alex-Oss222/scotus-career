@@ -12,7 +12,7 @@ Governing AGENTS.md and the three foundation files were read; the current chunk 
 | `freeze/OT_1994CHUNK5_NEUTRAL_VALIDATION_KANSAS.md` | `3235ddb0a0870995e1043bc0088f562a6b9f0c0bd2bf8314e51f3ea22a158852` |
 | `entering-law/OT_1994CHUNK5_KANSAS_SUPPLEMENT.md` | `306eba018136dfbf8e9a2e0ecc778d6b6ea3f4b77f1e4024115584849c050eea` |
 | `entering-law/OT_1994CHUNK5_C.md` | `7b99d4bd3055c45e0957d69fd172e0f7f74e161d90c280563564411775d3b14b` |
-| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md` | `e401be2d820c28b377565628a078718cbf5dfe96963699487e29fb707c902e44` |
+| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md` | `95710cd4ee81cab5961e545531b7c2cc214706238a206f8fe97213cccbe63b6d` |
 
 Source support is the validated packet, its full-reading certificate, and the actual public-law copies. This assembly preparation does not claim a new personal full reading of the underlying trial record, hydrological exhibits, or primary source files. The validator's completed sources include all three report volumes, the separately recovered Appendix, Kansas and Colorado exceptions, the United States response, the complete Compact, and the certified earlier opinions. Texas v. New Mexico, 462 U.S. 554, and Oklahoma v. New Mexico, 501 U.S. 221, were not certified as completely read; their mere presence on disk does not support a new decisive proposition. Do not reconstruct missing H-I calculations or certify a final depletion quantity from the excerpts.
 

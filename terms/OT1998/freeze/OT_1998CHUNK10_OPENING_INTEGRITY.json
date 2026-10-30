@@ -3,8 +3,8 @@
   "approved_brief_sha256": "954d0ab9519d5daf4fef14dd424afa3ab23c73f959a9a3be1dd1df1c339bba1e",
   "baseline_workspace_sha256": {
     "manifest": "4589a5af6ea4d9f4dca34054844b0b35a2471c74509c8581874a5a90da7b130a",
-    "ledger": "feefe6ef4b37aa31f3461e8d9b7561a4d3de7ab6cc1c1a49009ff0a315d0c57f",
-    "continuity": "51ed702f6aa811a9bc74be7671569bf4dae362871f12e87e319fda7c1be7702e",
-    "neutral-projection": "406aed9762419e89ed7bbeb58f2b2fbfe34b9bfddaed18a7a3a2af549e709962"
+    "ledger": "e4697f71689158ca279a23732eef7c8847d2a41dabcea62f6ef8b7f8a769dc86",
+    "continuity": "22f79b809754f9fe32a1a48cb6540d7830e6c52c62ab78c50acac6bdce7198cc",
+    "neutral-projection": "c799e8b1c62a66b13fba6f23718b3ac22200b5d4ce4aeebb4288a87f0267df27"
   }
 }

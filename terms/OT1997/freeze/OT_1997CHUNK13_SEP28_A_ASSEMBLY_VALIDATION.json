@@ -1,7 +1,7 @@
 {
   "scope": "September 28 assembly A: Ino Ino stopped before assignment; Lucas locally complete",
   "record": "terms/OT1997/records/lucas_v_johnson_merits_1998-09-28.md",
-  "record_sha256": "5cd6a7ddb076d7efe1752370f016fafa0d655aa3336c3af70a69c11b89a9df79",
+  "record_sha256": "f665a33eda2505327ac13c2e9ffcfc5c81870ab90640f30139dd4d914f5efba3",
   "public_projection_sha256": "84d1079d5f9ba060bc3c9d91cf9d741581e7e1f38ecd2073588ee7497b50a4a0",
   "local_validation": "pass; parent substantive review passed; Holding 3 completeness refinement validated; integration pending",
   "form": "one signed complete plenary merits lead fixed before the census",
@@ -19,7 +19,7 @@
     "Stevens": 15,
     "O'Connor": 15,
     "Scalia": 14,
-    "Kennedy": 15,
+    "Kennedy": 13,
     "Souter": 14,
     "Thomas": 13,
     "Ginsburg": 14,
@@ -30,13 +30,13 @@
     "Stevens": 15,
     "O'Connor": 16,
     "Scalia": 14,
-    "Kennedy": 15,
+    "Kennedy": 13,
     "Souter": 14,
     "Thomas": 13,
     "Ginsburg": 14,
     "Breyer": 15
   },
-  "last_counted_before": "ino_ino_inc_v_city_of_bellevue_merits_1998-09-28.md",
+  "last_counted_before": "libertarian_party_of_illinois_v_rednour_merits_1998-09-21.md",
   "last_counted_after": "lucas_v_johnson_merits_1998-09-28.md",
   "all_seventeen_claims": {
     "1": "moot; death-only federal merits vacated 8-1",

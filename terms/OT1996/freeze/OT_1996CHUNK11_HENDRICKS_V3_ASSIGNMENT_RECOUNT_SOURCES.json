@@ -2585,7 +2585,7 @@
       "all_opinion_tables_crosscheck": [
         "Kennedy"
       ],
-      "evidence_sha256": "476ec12f533cca7d87cd7d7248160d3f909ebe40bb56ae7438e89721d387c409",
+      "evidence_sha256": "034513ba5d24095131ba42904c42f0eb4bf8639bf01fd2d15128f33e58f3b3d3",
       "event_ordinal": 63
     },
     {
@@ -2623,7 +2623,7 @@
       "all_opinion_tables_crosscheck": [
         "Breyer"
       ],
-      "evidence_sha256": "4dfee13a32c11f963afb90d463ecddfd29b20c36cebc008d7625df983a67968f",
+      "evidence_sha256": "7f6f4809765b197f06468936a9fea75979a1fdde0fce7c531132607e77481be6",
       "event_ordinal": 64
     },
     {
@@ -2661,7 +2661,7 @@
       "all_opinion_tables_crosscheck": [
         "Scalia"
       ],
-      "evidence_sha256": "b372c26f6da31e4bf7570f01d76a922b2da1a84887cc1f8171db035cdcacf767",
+      "evidence_sha256": "27984c404754e19e5c3cb3e50df784e8104ff2a85fe014ef3d4be5090c819568",
       "event_ordinal": 65
     },
     {
@@ -2699,7 +2699,7 @@
       "all_opinion_tables_crosscheck": [
         "Thomas"
       ],
-      "evidence_sha256": "90ee6006e8bf2622b107f69d9d5681a2a8514cf46cc9c9c70f040d119d43e4ef",
+      "evidence_sha256": "552dd4611899a6f39d7b3f752e6b93983f8cc2c87504602f385727091f6c85a8",
       "event_ordinal": 66
     },
     {
@@ -2737,7 +2737,7 @@
       "all_opinion_tables_crosscheck": [
         "Kennedy"
       ],
-      "evidence_sha256": "7384e242051ba655904a85eda89ae34da0bdf195bd00fb62e22f7b992ebc425e",
+      "evidence_sha256": "54cf93edc30b6ab530cb2bf27a66ee1ea598750aadc7d7dde37a386accd1c536",
       "event_ordinal": 67
     },
     {

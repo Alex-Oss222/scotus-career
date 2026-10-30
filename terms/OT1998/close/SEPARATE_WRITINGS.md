@@ -306,15 +306,15 @@ They accept that the absence of an entitlement ordinarily differs from a prohibi
 
 ## 1999-03-03 — Stewart v. LaGrand; No. 98-1412; distinct State application A-735.
 
+No separate writing accompanies the petition order.
+
+## 1999-03-03 — Stewart v. LaGrand; No. 98-1412; distinct State application A-735.
+
 **Kennedy, joined by O'Connor, Scalia and Thomas.** Kennedy adopts both Court grounds as his Circuit Justice explanation. His concurrence also concludes that, even assuming an available procedural route, the renewed opportunity to avoid the particular gas method through an alternative unchallenged here defeats continued support for this restraint. *Gomez* permits a distinct equitable assessment; *Lonchar* preserves that inquiry while requiring genuinely necessary process. The earlier election prerequisite explains the renewed timing, so this concurrence finds neither universal delay nor abusive motive. This additional interim rationale has four supporters and does not independently control.
 
 **Stevens, joined by Stone-Zsela.** The dissent would deny immediate vacatur and retain the existing gas-only protection on its actual terms while the serious consent and constitutional-limit question receives full briefing and argument. The earlier appellate court made selection a prerequisite to considering the gas claim. That sequence makes summary treatment of selection as surrender of the objection especially problematic. The dissent accepts that unfavorable precedent or later election-based ripeness alone does not establish cause, but would not remove protection on that correction before proper claim-specific consideration. It adopts neither a universal nonwaivability rule nor a categorical judgment about gas, and creates no general execution stay.
 
 **Stone-Zsela's additional signed statement.** Choosing among statutory methods does not, without more, establish knowledgeable relinquishment of an Eighth Amendment objection to the selected method. The record also does not establish an adequate, independent and unexcused state bar on the later gas-related ineffective-assistance claim, including any applicable exception and its relationship to the earlier representation-choice proceedings. He therefore denies the application and opposes summary reversal, joining Stevens's dissent and seeking proper consideration on a developed record with the existing gas-only protection retained on its actual terms. This reasoning supplies neither a categorical method holding nor automatic excuse from an actually established default.
-
-## 1999-03-03 — Stewart v. LaGrand; No. 98-1412; distinct State application A-735.
-
-No separate writing accompanies the petition order.
 
 ## 1999-03-04 — Gable v. Patton / Patton v. Gable; Nos. 98-897 and 98-1072.
 
@@ -340,11 +340,11 @@ Stone-Zsela joins Parts I-III and the judgment. He agrees that the presented sub
 
 ## 1999-03-22 — Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.
 
-No separate writing accompanies this order.
+Stevens dissents from the Court's summary treatment. He would deny review or, after the grant, permit plenary consideration of the occupational distinction and the state court's rationale. His Beach and Nordlinger positions require attention to the actual comparison between faculty and other workers; a general management objective should not obscure that inquiry. He acknowledges the possible force of the teaching-management connection and does not decide that Ohio's exclusion ultimately fails federal equal protection. His objection does not adopt an empirical-proof requirement or establish a separate academic-freedom holding.
 
 ## 1999-03-22 — Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.
 
-Stevens dissents from the Court's summary treatment. He would deny review or, after the grant, permit plenary consideration of the occupational distinction and the state court's rationale. His Beach and Nordlinger positions require attention to the actual comparison between faculty and other workers; a general management objective should not obscure that inquiry. He acknowledges the possible force of the teaching-management connection and does not decide that Ohio's exclusion ultimately fails federal equal protection. His objection does not adopt an empirical-proof requirement or establish a separate academic-freedom holding.
+No separate writing accompanies this order.
 
 ## 1999-03-23 — Kumho Tire Co. v. Carmichael; No. 97-1709; OT1998.
 

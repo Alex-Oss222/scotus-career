@@ -5,7 +5,7 @@
   "term": "OT1998",
   "status": "assembly_finalized",
   "record": "terms/OT1998/records/olmstead_v_lc_merits_1999-06-22.md",
-  "record_sha256": "9043cef62816df445b772ce881d9e9b17b859299ecbfea0a5ea4e4f9a5506e2f",
+  "record_sha256": "fc44cef8ea5fee4930ee64a2b8a38a85a93332b53c71076ebf1c50f5bcfd98a7",
   "entering_law_cutoff": "1999-06-21",
   "same_day_peer_law_imported": false,
   "form_fixed_before_recount": true,
@@ -17,11 +17,11 @@
   "assignment": {
     "assigning_justice": "Stone-Zsela",
     "counts_before": {
-      "Stone-Zsela": 13,
+      "Stone-Zsela": 12,
       "Stevens": 12,
       "O'Connor": 14,
       "Scalia": 12,
-      "Kennedy": 12,
+      "Kennedy": 13,
       "Souter": 12,
       "Thomas": 12,
       "Ginsburg": 12,
@@ -218,16 +218,16 @@
   ],
   "source_sha256": {
     "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_NEUTRAL.md": "b5936dbc10cf9a45978540b215385e7115ab09a4350f3142bc9c690a124ea44f",
-    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_COMMITMENTS.md": "f9a5d128c2e7520489f29a1a0fd2daed52e4e097b71dd29754b3f41bf08d6d0f",
-    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_RECONCILED.md": "5eba982d7650b33bacbba9157b60652ef55946ef8f007a7bc2ea4893a3d71873",
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_COMMITMENTS.md": "b4ff8172b54e18ff41b4929728c65b72c8a92dd0cc2b649ea1ec8831a3feb804",
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_RECONCILED.md": "4af532df954ad4d35bd09ee9f91e45b36780e2de68d885b6e29438cd9c087707",
     "terms/OT1998/entering-law/OT_1998CHUNK11_OLMSTEAD_NEUTRAL.md": "495621fc002e9684120d0591df5cb1d1d8919039c945113d436afdbc8eab4a4c",
     "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_INTRACLASS_NEUTRAL_ADDENDUM.md": "8de60627f25fbc7d399effcd151b1d09305a844becea26a93c564692ad44e081",
     "terms/OT1998/entering-law/OT_1998CHUNK11_OLMSTEAD_INTRACLASS.md": "8d2e11f13b4a63d8c4bf8e0d69838152eddd1ca713164a980b74429f323f0b6f",
-    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_INTRACLASS_COMMITMENTS_REFRESH.md": "70894d6c878fe30c5826caee743845c9f500dbf1a55f5bb8b93cc327a257c6db",
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_INTRACLASS_COMMITMENTS_REFRESH.md": "e2b2a43ce6a8b070b21134b7e411edcada4d28e11191b1271a6877e13a95d683",
     "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_STONE.md": "b101ffdc496e5012b9513345884299c11fa193e65b67815747a3490e5093da47",
     "terms/OT1998/sources/chunk11-root-scope/OLMSTEAD_SCOPE_FACTS.md": "7b3dc88ba4368defa5590f414a3d2c3c8f52b9ddaff5b2d21f022a25862ffbfa",
     "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-lower-clean.txt": "181ceceea2306bbf08f22a17dd9d95896a603da85b102dd9f4a468e72c8ed0ed",
-    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_RECOUNT.json": "9416ad3df4396209dcbb83f246a1721e1f568860e92553eca1edb1a7daa8c4e3"
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_RECOUNT.json": "d69a222f667d2364ee4591303396df6892723c1f64514f7a6814697822aed400"
   },
   "checks": {
     "exact_four_opening_labels": true,

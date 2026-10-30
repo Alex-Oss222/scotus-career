@@ -1,16 +1,16 @@
 {
   "record": "terms\\OT1997\\records\\securities_and_exchange_commission_v_first_jersey_securities_merits_1998-09-28.md",
   "event": "1998-09-28",
-  "author": "Thomas",
+  "author": "Kennedy",
   "counts_before": {
     "Stone-Zsela": 14,
     "Stevens": 15,
     "O'Connor": 16,
     "Scalia": 14,
-    "Kennedy": 15,
+    "Kennedy": 13,
     "Souter": 14,
     "Thomas": 13,
-    "Ginsburg": 15,
+    "Ginsburg": 14,
     "Breyer": 15
   },
   "eligible": [
@@ -25,11 +25,13 @@
   ],
   "pool": [
     "Scalia",
+    "Kennedy",
     "Souter",
-    "Thomas"
+    "Thomas",
+    "Ginsburg"
   ],
-  "last_counted": "newton_county_wildlife_association_v_rogers_merits_1998-09-28.md",
-  "prior_signed_leads": 131,
+  "last_counted": "lucas_v_johnson_merits_1998-09-28.md",
+  "prior_signed_leads": 128,
   "public_blocks": 11,
   "holdings_identity": true,
   "explanation_words": [
@@ -49,6 +51,6 @@
   },
   "internal_links_resolve": true,
   "final_reconciliation_identity": true,
-  "canonical_sha256": "45008e537172922063c42d326080d4bb335ede6550601187777da7a927ba4d0e",
+  "canonical_sha256": "503fda3b8596e637d32e357a92084db6a0a863402f509bbd2a87cdfcfd97dfd3",
   "workspace_or_render_written": false
 }

@@ -23,15 +23,11 @@
 
 ## Assignment
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+The form, governing propositions, component coalitions and full-rationale eligibility were established before the count. The Chief joins the judgment majority and assigns this lead opinion.
 
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 92 leads before this assignment.
-
-| Justice | Count before assignment |
+| Justice | Count before this assignment |
 |---|---:|
 | Stone-Zsela | 9 |
 | Stevens | 11 |
@@ -43,17 +39,19 @@ The actual counted source opinions yield 92 leads before this assignment.
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-**Last counted event:** O'Sullivan v. Boerckel; No. 97-2048; Seventh Circuit judgment, 135 F.3d 1194. 1999-06-07; author Souter; [Record](osullivan_v_boerckel_merits_1999-06-07.md).
+**Last counted event:** O'Sullivan v. Boerckel; No. 97-2048; Seventh Circuit judgment, 135 F.3d 1194. (1999-06-07), authored by Souter; [Record](../records/osullivan_v_boerckel_merits_1999-06-07.md).
 
-**Eligible authors for the complete lead:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 10, ceiling 11. **Chosen author:** Ginsburg.
+**Eligible authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Fit:** Ginsburg is selected for the actual work of integrating the due-process authority-to-bind prerequisite with the separate ADEA written-consent command, while preserving ordinary merits defenses and the distinct venue disposition. Her frozen grounds address both the statutory opt-in condition and the divergence of the earlier employment interests. No unresolved formulation objection requires expansion.
+**Balance pool:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 10, ceiling 11.
 
-Ginsburg supplies a particularly direct integration of the opt-in requirement with the record-sensitive representation problem; both remain fully capable. Stevens, OConnor and Souter are also eligible but have 11.
+**Assigned author:** Ginsburg. Ginsburg is selected for the actual work of integrating the due-process authority-to-bind prerequisite with the separate ADEA written-consent command, while preserving ordinary merits defenses and the distinct venue disposition. Her frozen grounds address both the statutory opt-in condition and the divergence of the earlier employment interests. No unresolved formulation objection requires expansion.
 
-The complete lead counts once for Ginsburg; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+**Strongest eligible pool alternative and comparison:** Thomas, also at 10, can carry both the statutory-text and constitutional-relationship grounds. Ginsburg supplies a particularly direct integration of the opt-in requirement with the record-sensitive representation problem; both remain fully capable. Stevens, OConnor and Souter are also eligible but have 11. The Chief has 9 but is ineligible for the independent statutory portion, so his lower total does not put him in the whole-lead pool.
 
-**Count evidence:** [recount](../runtime/OT_1998CHUNK9_TICE_FINAL_RECOUNT.json).
+**Fresh-count evidence:** [recount](../runtime/OT_1998CHUNK9_TICE_FINAL_RECOUNT.json); every prior author was recounted from actual opinion tables and form classifications, not previous totals. Git verification remains deferred under the authorized no-Git workflow.
+
+**Dated-law checkpoint:** Richardson effective June 1, Goncalves and Bruneau effective June 3, and Amoco and OSullivan effective June 7 were read through their public copies. None changes the nonparty relationship requirement or this granted scope. Same-date B cases are not presumed to precede this event. No changed Stone premise or frozen Associate commitment is identified.
 
 ## Law of the decision
 

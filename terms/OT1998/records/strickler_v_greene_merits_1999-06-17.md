@@ -35,39 +35,13 @@ He dissents from Part III and sentence affirmance. His separate remedy is a dist
 
 ## Assignment and final compatibility
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+The fresh zero-based `../freeze/OT_1998CHUNK10_STRICKLER_RECOUNT.json` follows the preselected form. Counts before assignment: Stone-Zsela 11; Stevens 11; O'Connor 12; Scalia 12; Kennedy 11; Souter 12; Thomas 11; Ginsburg 11; Breyer 12. The last counted event is NASA, June 17, Breyer; 103 signed lead opinions precede this assignment. Counts come from exact canonical author evidence, including the newly completed Records, not earlier reported tallies.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+Stone assigns the conviction/cause portion because he joins the unanimous conviction judgment. For those propositions the full-rationale eligible authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Thomas's refusal of cause excludes him from that combined portion. All eight are within one of the minimum 11 and are in its pool. Stone cannot assign the penalty opinion because he opposes that component. Stevens is the senior Associate in its six-Justice judgment coalition and assigns it independently; Thomas can carry its merits ground only as an alternative, while Stevens, O'Connor, Scalia, Ginsburg and Breyer support the full cause-plus-merits rationale.
 
-**Assignment authority:** Chief Justice Stone-Zsela assigns the common conviction/cause portion; Stevens assigns the penalty portion, whose disposition Stone opposes. For the Chief-assigned conviction/cause portion, eligible authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer; its binding pool is Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer (minimum 11, ceiling 12). 
+A single author can carry the complete opinion: Stevens, O'Connor, Scalia, Ginsburg and Breyer are the common full-rationale eligible set. Its minimum is 11 and all five are in the Chief's balance pool. No split author is necessary. Stone selects Stevens for the common portion: his Kyles join and Tuggle opinion supply concrete capacity to distinguish cumulative confidence from bare sufficiency and guilt from selection, and he shares the full corrected penalty analysis. Stone cannot carry that complete rationale; Stevens's lower count also favors him over otherwise suitable higher-count authors. Ginsburg is an equally low-count alternative, but Stevens's actual authorship separating eligibility from a different penalty injury is particularly apt to the present divided application.
 
-The actual counted source opinions yield 103 leads before this assignment.
-
-| Justice | Count before assignment |
-|---|---:|
-| Stone-Zsela | 11 |
-| Stevens | 11 |
-| O'Connor | 12 |
-| Scalia | 12 |
-| Kennedy | 11 |
-| Souter | 12 |
-| Thomas | 11 |
-| Ginsburg | 11 |
-| Breyer | 12 |
-
-**Last counted event:** National Aeronautics and Space Administration v. Federal Labor Relations Authority, No. 98-369. 1999-06-17; author Breyer; [Record](nasa_v_flra_merits_1999-06-17.md).
-
-**Eligible authors for the complete lead:** Stevens, O'Connor, Scalia, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, O'Connor, Scalia, Ginsburg, Breyer; minimum 11, ceiling 12. **Chosen author:** Stevens.
-
-**Fit:** Stone assigns the conviction/cause portion because he joins the unanimous conviction judgment. For those propositions the full-rationale eligible authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Thomas's refusal of cause excludes him from that combined portion. Stone cannot assign the penalty opinion because he opposes that component. Stevens is the senior Associate in its six-Justice judgment coalition and assigns it independently; Thomas can carry its merits ground only as an alternative, while Stevens, O'Connor, Scalia, Ginsburg and Breyer support the full cause-plus-merits rationale.
-
-A single author can carry the complete opinion: Stevens, O'Connor, Scalia, Ginsburg and Breyer are the common full-rationale eligible set. No split author is necessary. Stone selects Stevens for the common portion: his Kyles join and Tuggle opinion supply concrete capacity to distinguish cumulative confidence from bare sufficiency and guilt from selection, and he shares the full corrected penalty analysis.
-
-As senior penalty assigner, Stevens assigns that portion to himself, preserving one coherent treatment of the actual evidence and the distinct death-choice inquiry. That choice rests on his supported prior attention to the separate penalty function and his complete present no-materiality ground; it does not impose the Chief's policy on an Associate assignment or import historical authorship. Every frozen qualification survives; no new join, authored dialogue or circulation revision is invented.
-
-The complete lead counts once for Stevens; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** `../freeze/OT_1998CHUNK10_STRICKLER_RECOUNT.json`.
+As senior penalty assigner, Stevens assigns that portion to himself, preserving one coherent treatment of the actual evidence and the distinct death-choice inquiry. That choice rests on his supported prior attention to the separate penalty function and his complete present no-materiality ground; it does not impose the Chief's policy on an Associate assignment or import historical authorship. The result counts once for Stevens. Every frozen qualification survives; no new join, authored dialogue or circulation revision is invented.
 
 ## Adaptive audit annex
 

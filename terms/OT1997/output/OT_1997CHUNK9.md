@@ -430,15 +430,13 @@ The matter is recommitted to the Special Master for a proposed decree implementi
 
 ### Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County; Sixth Circuit Nos. 95-5863 and 95-5900, 130 F.3d 731
 
-Decision on full merits submission, May 27, 1998
+Merits decision on submission, May 27, 1998
 
 #### Chronology and Posture
 
-No separate Supreme Court docket or argument date is established. Review under 28 U.S.C. §1254(1) concerns the Sixth Circuit's November 5, 1997 Commerce Clause determinations against compulsory routing to Metro's waste-to-energy facility and the separate fee on disposal outside its system. The court of appeals exercised §1292(a)(1) jurisdiction over the injunction rulings, reversing denial of the routing injunction and affirming the fee injunction. Its separate passenger-car/pickup takings and ripeness remand is outside this review.
+On full merits submission. Review under 28 U.S.C. §1254(1) concerns the Sixth Circuit's November 5, 1997 Commerce Clause determinations against compulsory routing to Metro's waste-to-energy facility and the separate fee on disposal outside its system. The court of appeals exercised §1292(a)(1) jurisdiction over the injunction rulings, reversing denial of the routing injunction and affirming the fee injunction. Its separate passenger-car/pickup takings and ripeness remand is outside this review.
 
 Metro owns the facility; Nashville Thermal Transfer Corporation operates it. Residential routing permits the Director's specific written authorization for another destination. Nonresidential routing is limited to allocations needed for the reported 6,300-ton weekly requirement, based on monthly reporting, at-least-quarterly pro rata calculations using the best available data, and advance facility and collector notices. The separate charge is $2 per cubic yard or $8 per ton on the specified waste generated or collected within Metro and disposed at non-Metro facilities inside or outside Metro; NTTC and other Metro-owned sites are exempt.
-
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
 
 #### Judgment
 
@@ -462,7 +460,9 @@ Stevens and Kennedy would affirm both injunction determinations. Scalia and Thom
 
 Every holding below is supported directly by the five Justices joining the Opinion of the Court in full. No fractured-opinion synthesis is needed. Stevens and Kennedy also accept the limited purchasing and compensation applications, without joining the Court's rule or judgment.
 
-#### Controlling Propositions and Authority
+#### Holdings
+
+**Common authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Souter, Ginsburg and Breyer, controls each of the following four holdings by five direct votes.
 
 ##### 1. Genuine public routing with equal treatment of private processors is not facial discrimination
 
@@ -512,9 +512,9 @@ Routing locally generated waste to a genuinely public facility is not facial dis
 
 Public ownership does not establish a government purchase, and the existing compensation defense fails for want of an identified corresponding intrastate burden. The appropriate evenhanded-burden or discrimination rules remain available according to the actual classification. Both reviewed determinations are vacated for separate application of this law. The excluded takings and ripeness rulings remain undisturbed. The Court's five-Justice rule controls directly; the concurrence and dissents do not qualify its authority.
 
-#### Separate Writings
+#### Separate Positions Relevant to the Decision
 
-**Stone-Zsela, concurring.** The Chief Justice joins the full remand judgment and the Court's entire rule. He separately states that he would reverse outright on the view that routing to an actual public facility does not facially discriminate merely by excluding local and out-of-state private alternatives alike, and that an origin-neutral charge is permissible when it genuinely corresponds to diversion-related costs. Public title cannot conceal private favoritism, and a protectionist or origin-based fee remains impermissible. His preference adds no finding about NTTC's economics, actual control, cost correspondence or the permissible amount of this fee. It does not change the Court's remand or its refusal to declare either enacted measure valid or invalid. He expresses no view on the excluded takings questions.
+**Stone-Zsela, concurring.** The Chief Justice joins the full remand judgment and the Court's entire rule. He separately states that he would reverse outright on the view that routing to an actual public facility does not facially discriminate merely by excluding local and out-of-state private alternatives alike, and that a diversion charge is permissible when its incidence is nondiscriminatory and it genuinely corresponds to diversion-related costs. Public title cannot conceal private favoritism, and a protectionist or origin-based fee remains impermissible. His preference adds no finding about NTTC's economics, actual control, cost correspondence or the permissible amount of this fee. It does not change the Court's remand or its refusal to declare either enacted measure valid or invalid. He expresses no view on the excluded takings questions.
 
 **Kennedy, joined by Stevens, dissenting.** The dissent would affirm both determinations. Actual public ownership does not convert generators' and haulers' independent purchases into government purchases. Carbone protects competition in those compelled transactions; SSC's protection extends to performance the government actually buys. The dissent confronts the reserved public-system category but finds no supported difference in this offering sufficient to remove the compulsory transactions from discrimination scrutiny. Tracy and Camps do not make public title or stated fuel and environmental purposes decisive.
 
@@ -524,17 +524,15 @@ Once discrimination is found, the reported alternatives defeat the claimed neces
 
 Their comparative observations under existing precedent do not supply assent to renewed service classification, discrimination justification or Pike balancing. Ordinary mandate proceedings on independently preserved matters may continue, but these Commerce claims would end. Ginsburg's narrower comparison position does not join this constitutional repudiation. Thomas's tentative Import-Export alternative in Camps supplies no disposition of these routing and per-ton measures: no preserved presentation, established import/export status or definitive applicable rule is supplied here.
 
+#### Source Notes
+
+The complete [Sixth Circuit opinion, 130 F.3d 731](https://static.case.law/f3d/130/html/0731-01.html), including its footnotes, supplies the stipulated operational facts, enactment qualifications, injunction posture and reported alternatives. The appellate narrative's $36 tipping fee is distinct from the reproduced $44 enacted rate effective January 1, 1995; neither establishes a quantified interstate burden. The absence of an identified compensating intrastate burden does not establish that Metro incurs no public-service costs. A complete operating contract, original merits briefs and a joint appendix are not independently available here; no unknown term or adverse inference is drawn from that limit. The question descriptions state the scope of review.
+
 #### Mandate, Remedy, and Stage
 
 The case returns to the Sixth Circuit for proceedings implementing vacatur of both reviewed Commerce Clause determinations and renewed, separate consideration of the routing and fee claims under the Court's public-facility and diversion-cost rules and the applicable remaining scrutiny. Any injunction modification must implement that mandate; no interim enforcement status or permission pending mandate is determined here. The passenger-car/pickup takings and ripeness remand remains undisturbed. No automatic evidentiary hearing, trial, damages, refund, contract recovery, substitute tax, new procurement, title transfer, guaranteed business or compelled acceptance of waste is ordered. No additional Supreme Court event or return date is set.
 
-#### Source Notes
-
-The complete [Sixth Circuit opinion, 130 F.3d 731](https://static.case.law/f3d/130/html/0731-01.html), including its footnotes, supplies the stipulated operational facts, enactment qualifications, injunction posture and reported alternatives. The appellate narrative's $36 tipping fee is distinct from the reproduced $44 enacted rate effective January 1, 1995; neither establishes a quantified interstate burden. The absence of an identified compensating intrastate burden does not establish that Metro incurs no public-service costs. A complete operating contract, original merits briefs and a joint appendix are not independently supplied; no unknown term or adverse inference is drawn from that limit. The question descriptions state the scope of review and are not quotations from a petition.
-
-**End of entry: Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County; Sixth Circuit Nos. 95-5863 and 95-5900, 130 F.3d 731, decision on full merits submission, May 27, 1998.**
-
----
+**End of entry: Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County, Merits decision on submission, May 27, 1998.**
 
 ---
 

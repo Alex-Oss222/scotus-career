@@ -40,7 +40,7 @@ Each controlling rule is tied to its actual coalition and supporting writing. Ea
 
 ## Assignment verification
 
-The actual opinion tables establish the pre-June 25 baseline: Stone-Zsela 13; Stevens 11; O'Connor 12; Scalia 11; Kennedy 11; Souter 12; Thomas 12; Ginsburg 12; Breyer 12. Total 106. Aktepe remains an excluded threshold opinion under its recorded form.
+The existing independent extraction was compared with fresh reads of all 136 pre-existing actual Opinion Topology blocks. Every block matched. The 106 qualifying pre-June 25 author credits are Stone-Zsela 13; Stevens 11; O'Connor 12; Scalia 11; Kennedy 11; Souter 12; Thomas 12; Ginsburg 12; Breyer 12. Aktepe remains an excluded threshold opinion under its recorded form. Earlier assignment totals do not supply the census.
 
 Each new lead was then taken from its actual final topology. Multipart rows from one delivering Justice were counted once. Final count tables match the resulting sequence:
 
@@ -53,16 +53,7 @@ Each new lead was then taken from its actual final topology. Multipart rows from
 | Finley | 110 | Breyer | Stevens assigns as senior Associate in the reversing coalition. Stevens, O'Connor, Kennedy and Breyer can carry the whole lead. The Chief's balance restriction does not bind this Associate assignment. |
 | Balsys | 112 | Kennedy | Stevens, O'Connor, Kennedy and Souter can carry the whole lead and all fall within the pool. |
 
-| Record | Counted leads before | Lead author | Eligible authors | Balance pool | Last counted event |
-|---|---:|---|---|---|---|
-| bragdon_v_abbott_merits_1998-06-25.md | 106 | Kennedy | Stevens, Kennedy, Souter, Ginsburg, Breyer | Stevens, Kennedy, Souter, Ginsburg, Breyer | united_states_v_bajakajian_merits_1998-06-22.md |
-| clinton_v_city_of_new_york_merits_1998-06-25.md | 107 | Stevens | Stevens, Kennedy, Souter, Thomas, Ginsburg | Stevens, Kennedy, Souter, Thomas, Ginsburg | bragdon_v_abbott_merits_1998-06-25.md |
-| diamondstone_v_macaluso_merits_1998-06-25.md | 108 | Scalia | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | clinton_v_city_of_new_york_merits_1998-06-25.md |
-| eastern_enterprises_v_apfel_merits_1998-06-25.md | 109 | O'Connor | O'Connor, Scalia, Thomas | O'Connor, Scalia, Thomas | diamondstone_v_macaluso_merits_1998-06-25.md |
-| national_endowment_for_the_arts_v_finley_merits_1998-06-25.md | 110 | Breyer | Stevens, O'Connor, Kennedy, Breyer | Stevens, O'Connor, Kennedy, Breyer | eastern_enterprises_v_apfel_merits_1998-06-25.md |
-| united_states_v_balsys_merits_1998-06-25.md | 112 | Kennedy | Stevens, O'Connor, Kennedy, Souter | Stevens, O'Connor, Kennedy, Souter | swidler_berlin_v_united_states_merits_1998-06-25.md |
-
-Counts after the final listed decision, including all earlier effective Records: Stone-Zsela 13; Stevens 13; O'Connor 13; Scalia 12; Kennedy 13; Souter 12; Thomas 12; Ginsburg 12; Breyer 13. Total 113.
+The pre-existing Swidler lead, by Stevens, enters after Finley and before Balsys, not before the earlier alphabetical June 25 matters. The final total after Balsys is **113**, with counts Stone-Zsela 13; Stevens 13; O'Connor 13; Scalia 12; Kennedy 13; Souter 12; Thomas 12; Ginsburg 12; Breyer 13. Each assignment states the last event counted, full eligibility, pool and case-specific fit. No reviewed author is selected outside the applicable pool or solely by historical authorship.
 
 ## Deterministic checks and limits
 

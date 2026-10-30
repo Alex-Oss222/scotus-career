@@ -30,17 +30,17 @@
         },
         {
           "file": "OT_1994CHUNK5_COMMITMENTS_PINSON.md",
-          "sha256": "2c8a915f3d0fb241703908688487539ff2ab3ea90a376ec7a19251e49bd79d5a",
+          "sha256": "b205fb6681562e09fccf6f8b3cbba2b8a9af23fe65ad45b896eeb73af3b2272d",
           "runtime_freeze_identical": true
         },
         {
           "file": "OT_1994CHUNK5_COMMITMENTS_KANSAS.md",
-          "sha256": "426b6e04aada6af6c6c13eca5cfaa25fb1bbaf8cf33cdb4ad1a4ae1132a101ab",
+          "sha256": "ec7c52ff66b8e66129ef1e630eb84a84051482a3735ccafcb730f4464a4d9cf9",
           "runtime_freeze_identical": true
         },
         {
           "file": "OT_1994CHUNK5_COMMITMENTS_HUBBARD.md",
-          "sha256": "0cb3397272d0f45a8cfd9e482369abc2b83547f52ebeadc6e7631fa2564d8322",
+          "sha256": "4348b68ff1a5bac7acdd5b34e60cafa0217d5853a702ffdd4a943289dcc13f23",
           "runtime_freeze_identical": true
         }
       ],
@@ -75,17 +75,17 @@
         },
         {
           "file": "OT_1994CHUNK5_RECONCILED_PINSON.md",
-          "sha256": "2587db1c66e57242bddc576d7aef059e530ebb14e6c8c87ba7fc67ca2aface6a",
+          "sha256": "1f48c298d41edec6f7d95a0fbe27c9947e0d6a39653af46ef871b8ffd64cf574",
           "runtime_freeze_identical": true
         },
         {
           "file": "OT_1994CHUNK5_RECONCILED_KANSAS.md",
-          "sha256": "c29fa8df8ab45b27590572e34b5bdd127edfafb689ae95edaf4a2cd21dd626d9",
+          "sha256": "5a55f7effdd9e076b7af83edf7dc58fd374392ede26491537ca8c82bf326a061",
           "runtime_freeze_identical": true
         },
         {
           "file": "OT_1994CHUNK5_RECONCILED_HUBBARD.md",
-          "sha256": "4bda7b4d065b02970e21ddbef34b493ffc633bd507408d801162432379299810",
+          "sha256": "c53ec2b0bf22c64a95b7e1eec4dc6edc429561571aee9999afd9c7355c6052ca",
           "runtime_freeze_identical": true
         }
       ],

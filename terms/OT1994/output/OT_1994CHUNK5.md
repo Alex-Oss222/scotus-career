@@ -824,7 +824,7 @@ Merits decision, April 27, 1995
 
 #### Chronology and Posture
 
-United States v. Harris, No. 94-297. Merits decision, April 27, 1995. On review of the United States Court of Appeals for the Fifth Circuit's June 29, 1994 judgment in United States v. Harris, 25 F.3d 1275, No. 93-7554. The questions concern Congress's commerce authority to enact the original armed-carjacking offense, its criminal-fault and fair-notice requirements, and cumulative convictions and consecutive punishment under §§2119 and 924(c). The defendants seek relief from their convictions and sentences; the Government seeks affirmance.
+On review of the United States Court of Appeals for the Fifth Circuit's June 29, 1994 judgment in United States v. Harris, 25 F.3d 1275, No. 93-7554. The questions concern Congress's commerce authority to enact the original armed-carjacking offense, its criminal-fault and fair-notice requirements, and cumulative convictions and consecutive punishment under §§2119 and 924(c). The defendants seek relief from their convictions and sentences; the Government seeks affirmance.
 
 The offense occurred December 12, 1992. The borrowed 1976 Buick Electra was manufactured in Flint, Michigan and titled in Arkansas and Mississippi. The trial evidence recounted by the Fifth Circuit placed Harris with a sawed-off shotgun and Hoskins with an ax handle at the confrontation: the occupants were ordered out, Hoskins drove away, and Harris pursued the occupants. The defendants' retaliation/afterthought account and Harris's claimed ignorance were defenses, not accepted contrary findings. Each defendant was convicted of aiding and abetting carjacking and of using or carrying a firearm during a crime of violence, receiving forty-one months on Count One and sixty months on Count Two, consecutive.
 
@@ -838,11 +838,13 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 #### Judgment
 
+The Court affirms the Fifth Circuit's judgment unanimously on all three presented challenges. Both defendants' convictions and consecutive sentences remain in force. No new trial, resentencing, or further merits remand is ordered.
+
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Commerce challenge to original §2119 and the dependent federal predicate | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Both counts survive this challenge; no constitutional vacatur or Lopez remand. |
-| Presented criminal-fault and fair-notice challenges | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | No instruction-based relief, new trial, indictment amendment, or exploratory remand. |
-| Cumulative convictions and consecutive punishment | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Each defendant's forty-one-month Count One and consecutive sixty-month Count Two terms remain; no merger, count vacatur, concurrent conversion, sentence increase, or resentencing. |
+| Commerce challenge to original §2119 and the dependent federal predicate | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Both counts survive this challenge; no constitutional vacatur or Lopez remand. |
+| Presented criminal-fault and fair-notice challenges | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | No instruction-based relief, new trial, indictment amendment, or exploratory remand. |
+| Cumulative convictions and consecutive punishment | Reject and affirm, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Each defendant's forty-one-month Count One and consecutive sixty-month Count Two terms remain; no merger, count vacatur, concurrent conversion, sentence increase, or resentencing. |
 
 The commerce predicate remains federally prosecutable on the holding reached. The conditional consequence of an invalid federal predicate for §924(c) is therefore not triggered.
 
@@ -852,8 +854,8 @@ The commerce predicate remains federally prosecutable on the holding reached. Th
 |---|---|---|---|---|
 | Opinion of the Court | Stone-Zsela | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer throughout | Affirms all three components | Direct protection of the transportation instrumentality against forcible taking, with the enacted particular-vehicle connection. Knowing participation, intentional assistance, fair notice, statutory cumulative authorization and the bounded Hunter application each receive nine direct votes. |
 | Concurring opinion | Breyer | Stevens, Souter and Ginsburg | Joins the Court’s opinion and unanimous affirmance | Accepts the qualified instrumentality ground while retaining the economic vehicle-acquisition ground as independently sufficient and preserving his broader Lopez position. |
-| Concurring opinion | Stone-Zsela | — | Joins the Court’s judgment and states additional fault conclusions | No knowledge of the vehicle’s interstate history or separate permanent-deprivation intent; his view of the evidence of knowing participation. These additional conclusions do not control. |
-| Concurring opinion | Stevens | — | Joins the Court’s bounded cumulative-punishment holdings and unanimous affirmance | Applies controlling Hunter while preserving his constitutional objection to legislative multiplication of convictions. |
+| Concurring opinion | Stone-Zsela | No other Justice | Author of the Court’s opinion; writes separately on fault questions the Court does not reach | No knowledge of the vehicle’s interstate history or separate permanent-deprivation intent; his view of the evidence of knowing participation. These additional conclusions do not control. |
+| Concurring opinion | Stevens | No other Justice | Joins the Court’s bounded cumulative-punishment holdings and unanimous affirmance | Applies controlling Hunter while preserving his constitutional objection to legislative multiplication of convictions. |
 
 The instrumentality rule has a direct majority at the stated level of generality. It does not depend on combining different commerce rationales under Marks. Every common fault and cumulative-punishment proposition commands nine direct votes. Stone’s further fault conclusions have no additional joins.
 
@@ -928,17 +930,15 @@ The holding does not make every crime in or near a vehicle federal, and past int
 
 **Limits and questions not reached:** The Court decides no independent instruction, indictment, preservation, harmlessness, sufficiency, or intradistrict-venue question. It determines neither knowledge of the vehicle's interstate history nor an independent permanent-deprivation requirement by a majority. No later carjacking intent amendment, later firearm tier, new short-barrel classification, serious-injury or death enhancement, or different charging pair is adjudicated.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 Lopez’s connection-before-magnitude architecture governs: its instrumentality category supports protection against the direct taking proved here, while generalized downstream crime costs do not supply the connection and no absent nexus element may be inserted. Allied-Bruce’s remote-history reservation remains intact. Wickard and Perez retain their economic-class scope without becoming an alternative holding in this case. Staples, X-Citement Video and Shabani support the stated culpability boundaries; Ratzlaf retains its distinct willfulness and residual-lenity rules. Smith keeps firearm use or carrying and relation to the predicate separate. Deal’s conviction-sequence holding does not decide this statutory pair. Hunter governs the clearly authorized one-trial cumulative punishment; Blockburger and Whalen do not override the express direction. Dixon and Grady retain their distinct successive-prosecution operation. No precedent is overruled.
-
-#### Law After Decision
 
 Congress may protect an interstate transportation instrumentality against a direct intrastate forcible taking when the offense requires proof of that particular instrumentality’s interstate connection. That rule sustains the original §2119 prosecution here; it does not make past interstate movement alone sufficient, federalize every offense in or near a vehicle, or adopt the Fifth Circuit’s general crime-cost rationale. The original statute requires knowing participation and intentional assistance for aiding-and-abetting liability. Knowledge of the vehicle’s interstate history and a separate permanent-deprivation requirement receive no majority resolution. Clear §924(c) cumulative and consecutive authorization governs this §2119 pairing, and Hunter permits the resulting same-trial punishment. Existing successive-prosecution law remains unchanged. No later statutory amendment or unproved trial defect becomes law through this affirmance.
 
 #### Separate Positions Relevant to the Decision
 
-Chief Justice Stone-Zsela concurs separately. He concludes that this original statute requires neither knowledge that the vehicle traveled interstate nor a separate intent permanently to deprive. Ratzlaf's distinct willfulness language supplies no such requirements, and Staples's concern with apparently innocent possession turning on an unknown physical characteristic differs from pointing a shotgun at occupants and ordering them out. He finds the jury evidence sufficient to establish knowing participation beyond a reasonable doubt. That explanation does not convert the Court's bounded statute-level ruling into a separate majority adjudication of evidentiary sufficiency or of an unknown instruction. He does not eliminate fault from a fact Congress makes part of the wrongful conduct. His additional nexus-knowledge and deprivation-duration conclusions are noncontrolling. He joins the statutory authorization and bounded Hunter application sustaining the consecutive punishment and reserves a different pair lacking clear authorization.
+Chief Justice Stone-Zsela, who delivers the opinion of the Court, also writes separately on fault questions the Court does not reach. He concludes that this original statute requires neither knowledge that the vehicle traveled interstate nor a separate intent permanently to deprive. Ratzlaf's distinct willfulness language supplies no such requirements, and Staples's concern with apparently innocent possession turning on an unknown physical characteristic differs from pointing a shotgun at occupants and ordering them out. He finds the jury evidence sufficient to establish knowing participation beyond a reasonable doubt. That explanation does not convert the Court's bounded statute-level ruling into a separate majority adjudication of evidentiary sufficiency or of an unknown instruction. He does not eliminate fault from a fact Congress makes part of the wrongful conduct. His additional nexus-knowledge and deprivation-duration conclusions are noncontrolling.
 
 Justice Stevens concurs. He joins the Court's statutory construction and its limited application of Hunter as governing precedent. He does not withdraw his Hunter dissenting position: multiple convictions can create stigma, risks, and collateral consequences distinct from the total authorized prison term, and his earlier view would give the same-offense protection content independent of legislative authorization. The present opinion neither denies those consequences nor announces unlimited legislative power to multiply convictions. Its application of existing precedent to this clear cumulative command permits his join without deciding again the constitutional foundation on which he previously disagreed. His preserved constitutional objection remains noncontrolling; he supports affirmance of both convictions and the consecutive terms here.
 
@@ -954,7 +954,7 @@ They also regard the economic vehicle-acquisition ground as independently suffic
 
 The Fifth Circuit's affirmance remains in force. Each defendant's two convictions, forty-one-month Count One sentence, and consecutive sixty-month Count Two sentence are undisturbed. The Court issues no further merits remand, new trial, revised sentencing direction, or relief on a separate sufficiency or venue claim. The Supreme Court merits proceeding ends without an additional nonroutine act or condition.
 
-**End of entry: United States v. Harris, merits decision, April 27, 1995.**
+**End of entry: United States v. Harris, No. 94-297, Merits decision, April 27, 1995.**
 
 ---
 
@@ -964,7 +964,7 @@ Merits decision, May 1, 1995
 
 #### Chronology and Posture
 
-United States v. Robertson, No. 94-251. Argued February 27, 1995; decided May 1, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, reviewing 15 F.3d 862 (February 1, 1994). The question is whether the Alaska gold mine was an enterprise engaged in interstate commerce within 18 U.S.C. §1962(a).
+Argued February 27, 1995; decided May 1, 1995. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, reviewing 15 F.3d 862 (February 1, 1994). The question is whether the Alaska gold mine was an enterprise engaged in interstate commerce within 18 U.S.C. §1962(a).
 
 The mine obtained some equipment and supplies in California and transported them to Alaska for mining use. It repeatedly recruited workers from outside Alaska, and Robertson and mine employees traveled between Alaska and the lower 48 States during its operation. Robertson, its sole proprietor, carried approximately $30,000 of its gold nuggets out of Alaska. Most gold was sold to Alaska refiners. No out-of-state sale or precise export percentage is found; most equipment was acquired locally.
 
@@ -972,11 +972,11 @@ Chief Justice Alex-Lamar Stone-Zsela and Justices Stevens, O’Connor, Scalia, K
 
 #### Judgment
 
-**Reversed in part and remanded, 9–0.**
+The Court reverses the Ninth Circuit insofar as it reversed the Count Six RICO conviction for insufficient enterprise-commerce evidence, 9–0, and remands for the remaining appellate proceedings.
 
-**Supporting:** Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
-
-The Ninth Circuit’s reversal of the Count Six RICO conviction for insufficient enterprise-commerce evidence is reversed. The commerce ground no longer bars reinstatement, subject to the remaining preserved appellate claims.
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Count Six enterprise-commerce reversal | Reverse and remand, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice | Remove the insufficient-commerce ground; the RICO conviction may be reinstated subject to remaining preserved appellate claims. |
 
 The Court does not unconditionally reinstate the RICO conviction or sentence. Six undecided RICO claims remain: refusal of a special verdict; venue; severance of the RICO and continuing-criminal-enterprise counts; exclusion of Agent Devetko’s testimony; denial of Criminal Justice Act funds to locate the claimed owner of the Cadillac used for predicate act six; and constitutional vagueness. The government’s unresolved argument that RICO conduct continued after November 1, 1987 and therefore attracted the Sentencing Guidelines remains for appellate consideration. No Guidelines applicability ruling is made.
 
@@ -984,7 +984,11 @@ The convictions on Counts One–Four remain affirmed; their independent sentence
 
 #### Opinion Topology
 
-Justice Breyer delivers the opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine join the direct enterprise-commerce rule, cumulative input, labor and output application, reservation of the separate effects question, and bounded remedy. No separate writing issues.
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Breyer | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reverse the Count Six commerce ruling and remand | Direct enterprise-commerce rule, cumulative input/labor/output application, reservation of the separate effects question and bounded remedy. |
+
+All nine directly join the same controlling proposition. No separate writing issues; no fractured-decision analysis is necessary.
 
 #### Controlling Propositions and Authority
 
@@ -1006,11 +1010,9 @@ Justice Breyer delivers the opinion of the Court, joined by Chief Justice Stone-
 
 **Limits and questions not reached:** The cumulative ground makes an independently sufficient procurement-only holding unnecessary. The Court does not decide whether a purely intrastate enterprise with only remote economic consequences satisfies §1962(a), establish a universal owner-activity attribution rule, or make a jurisdictional phrase substitute for proof. Predicate drug commerce alone is not enterprise commerce. Neither an out-of-state nugget sale, a precise output percentage, productive use of the wrecked Cadillac, mine use of the airplane, nor traced downstream refinery shipment is necessary or found. The Court decides no other RICO appellate claim, Guidelines issue or claim arising under a different RICO subsection.
 
-#### Precedent Treatment
+#### Precedent Treatment and Current-Law Effect
 
 American Building Maintenance and Gulf Oil supply the direct-engagement distinction; their narrower statutory settings remain identified. Actual interstate operation controls this application. Allied-Bruce, Lopez and Harris retain their stated scopes. The commerce condition remains independent under National Organization for Women v. Scheidler; Reves’s direction requirement for §1962(c) is not imported into §1962(a). Holmes’s direct-injury requirement for civil RICO damages does not determine this criminal enterprise-commerce question. No precedent is overruled.
-
-#### Law After Decision
 
 Section 1962(a)’s direct-engagement alternative is satisfied by the proved cumulative interstate operation of this mine. A separate substantial-effects showing for this individual enterprise is unnecessary under that alternative. The separate affecting-commerce route and its constitutional reach remain undecided. The decision adds no independently sufficient procurement-only rule and no rule making every proprietor’s private conduct enterprise activity. Lopez’s connection-before-magnitude holding and Harris’s distinct direct-instrumentality holding remain effective; this statutory decision adds no new Commerce Clause test.
 
@@ -1018,15 +1020,15 @@ Section 1962(a)’s separate income, participation and investment conditions rem
 
 #### Source Notes
 
-The [government merits brief](https://archive.org/download/micro_IA40385013_0551/micro_IA40385013_0551%205.%20Petitioners%20Brief.pdf), pp. 4–5, 18–23, and [respondent merits brief](https://archive.org/download/micro_IA40385013_0551/micro_IA40385013_0551%206.%20Respondents%20Brief.pdf), pp. 2–3, 20–23, supply the interstate equipment, hiring, operational travel and retained-gold accounts and competing attribution arguments. The government's printed citation at p. 21 n.8–p. 22 n.8 is Tr.774–784, 1723. The briefs report trial testimony; the underlying witness transcript is not reproduced in those sources. No out-of-state sale, shipping document or exact export proportion is supplied.
+The [government merits brief](https://archive.org/download/micro_IA40385013_0551/micro_IA40385013_0551%205.%20Petitioners%20Brief.pdf), pp. 4–5, 18–23, and [respondent merits brief](https://archive.org/download/micro_IA40385013_0551/micro_IA40385013_0551%206.%20Respondents%20Brief.pdf), pp. 2–3, 20–23, supply the interstate equipment, hiring, operational travel and retained-gold accounts and competing attribution arguments. The printed government p. 21 n.8–p. 22 n.8 citation is Tr.774–784, 1723; the text extraction’s 1728 is an OCR error. The briefs cite trial testimony; the underlying witness transcript was not independently inspected. No out-of-state sale, shipping document or exact export proportion is supplied.
 
-The [petition and lower-opinion collection](https://archive.org/details/micro_IA40385013_0551), Appendix A pp. 1a–36a, supplies the Ninth Circuit’s disposition, remaining claims at p. 11a n.3, Rule 32 remedy at pp. 25a–26a, and unresolved sentencing argument at pp. 26a–27a. The [Joint Appendix](https://archive.org/download/micro_IA40385013_0551/micro_IA40385013_0551%204.%20Joint%20Appendix.pdf), pp. 36–37, 60–61 and 74–78, supplies indictment, commerce instructions and district judgment; it contains no mining witness testimony. American Building Maintenance and Gulf Oil are surviving authorities; Allied-Bruce, Lopez and Harris retain the current-law scope stated above.
+The [petition and lower-opinion collection](https://archive.org/details/micro_IA40385013_0551), Appendix A pp. 1a–36a, supplies the Ninth Circuit’s disposition, remaining claims at p. 11a n.3, Rule 32 remedy at pp. 25a–26a, and unresolved sentencing argument at pp. 26a–27a. The [Joint Appendix](https://archive.org/download/micro_IA40385013_0551/micro_IA40385013_0551%204.%20Joint%20Appendix.pdf), pp. 36–37, 60–61 and 74–78, supplies indictment, commerce instructions and district judgment; it contains no mining witness testimony. American Building Maintenance and Gulf Oil are surviving authorities; Allied-Bruce, Lopez and Harris supply the specified current-law context.
 
 #### Mandate, Remedy, and Stage
 
 The case returns to the Ninth Circuit for remaining preserved RICO appellate claims and the unresolved government RICO sentencing argument. The commerce-based reversal no longer bars reinstatement, but the Court orders neither unconditional reinstatement nor a particular RICO sentence. The independent drug-sentence vacatur and actual-resentencing mandate remain effective. Ordinary Supreme Court merits review ends; further appellate proceedings remain below. No new trial, acquittal, forfeiture or substantive sentencing ruling is ordered.
 
-**End of entry: United States v. Robertson, merits decision, May 1, 1995.**
+**End of entry: United States v. Robertson, No. 94-251, Merits decision, May 1, 1995.**
 
 ---
 

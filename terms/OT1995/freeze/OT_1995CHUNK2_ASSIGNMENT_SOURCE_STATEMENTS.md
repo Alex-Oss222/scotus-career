@@ -350,12 +350,12 @@ Stone assigns Scalia.
 
 ### OT1994/United_States_v_Harris_merits_1995-04-27.md
 
-The Chief joins each nine-Justice judgment coalition and therefore assigns each component under either assignment version identified by the control protocol.
+The Chief belongs to each judgment majority and assigns the signed Court opinion to himself.
 
 
 ### OT1994/United_States_v_Lopez_merits_1995-04-26.md
 
-The Chief is within the five-member affirmance coalition and assigns Kennedy.
+The Chief is within the five-member affirmance coalition and assigns the Opinion of the Court to himself.
 
 
 ### OT1994/United_States_v_Mezzanatto_merits_1995-01-18.md

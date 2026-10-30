@@ -2,7 +2,7 @@
 
 **Event:** June 17, 1999; No. 98-369; review of 120 F.3d 1208. **Readiness:** all eight model commitments retained; ready for assembly following review of any material earlier Chunk10 public-law update. The frozen review scope includes both investigator coverage and the separately presented Headquarters responsibility/order issue. No final Court decision, assignment or Stone position is supplied. Immutable on release.
 
-**Model:** `OT_1998CHUNK10_NASA_COMMITMENTS.md`, SHA256 `5cf62e89b9bbccca6288e011bebd9aba7ff4a9ee8e965580433876c2e4c3bfec`.
+**Model:** `OT_1998CHUNK10_NASA_COMMITMENTS.md`, SHA256 `f72f88b86b1ae0a4bde457411dc113d5f0018c1621654c0693f6327c8491c7b6`.
 
 **Neutral:** section 3, NASA only, of `OT_1998CHUNK10_A_NEUTRAL.md`; complete-file SHA256 `b02026a67d1426bfbd8f6bac6046560246ab0040296cc26e47653a6475432b64`. Exact UTF-8 slice from `## 3. NASA` through the character before the newline introducing `## 4.`, SHA256 `3a26b51cdfe4d770defc604818c8f08a7ae36c692a611cafb86441e8c4d607cb`.
 

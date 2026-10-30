@@ -17,20 +17,16 @@
   },
   "last_counted": "muscarello_cleveland_v_united_states_merits_1998-06-08.md",
   "eligibility": [
-    "Stone-Zsela",
-    "O'Connor",
-    "Kennedy"
+    "Stone-Zsela"
   ],
   "minimum_eligible": 10,
   "pool_ceiling": 11,
   "pool": [
-    "Stone-Zsela",
-    "O'Connor",
-    "Kennedy"
+    "Stone-Zsela"
   ],
-  "recommendation": "Stone-Zsela",
-  "recommendation_basis": "The three eligible authors support every governing proposition and the judgment. Stone-Zsela supplies the precise two-route formulation and the distinction between the independent class majority and the partial remedial joins, giving his authorship the concrete coalition-formulation advantage.",
-  "scope": "Original June 8, 1998 merits decision; one signed lead counted in chronological and same-date alphabetical order.",
+  "recommendation": "Stone-Zsela, the only eligible author and balance-pool member; final selection remains with assembly.",
+  "recommendation_basis": "Only Stone-Zsela's approved position joins every governing proposition and the full disposition. The frozen reconciled commitments of O'Connor, Scalia, Kennedy and Thomas rest on Path B alone, and those of Stevens, Souter, Ginsburg and Breyer affirm on Path A; O'Connor's and Kennedy's full joins, and Ginsburg's and Breyer's joins in Parts II-IV, arise in final compatibility. As the only balance-pool member he writes. The opinion must retain O'Connor and Kennedy's enacted-class and enforceable-boundary requirements while enabling Ginsburg and Breyer to accept the doctrinal and remedial consequences of Part I without surrendering their economic-application position.",
+  "scope": "No Git command used. No preexisting Record, assignment, freeze, or projection modified.",
   "records": [
     {
       "file": "brown_v_williams_filing_order_1997-10-20.md",
@@ -869,7 +865,7 @@
       "tables": "",
       "counted": false,
       "authors": [],
-      "sha256": "5172e0ed96edbba048811c13f3bb1c90f8abd61222da119d7eacd1d0e6be4480",
+      "sha256": "f665ec9967c515c4fcbbb7096cd162364a9e4c5373bf6b2d14e67257249912e3",
       "classification": "Certiorari grant."
     },
     {
@@ -881,7 +877,7 @@
       "tables": "| Opinion of the Court, Part I | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reaches later mandamus challenge | Limited earlier-petition/mandate-scope ground; Stone-Zsela agrees with disposition only |\n| Opinion of the Court, Part II | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reverses the constraint and remands | Common remittitur election, remedy and stated limits |",
       "counted": false,
       "authors": [],
-      "sha256": "356f29cbf83a41cf5ed81bad5e8fca066b846a03ea8b9fdb31d6bd5ec0e5b589",
+      "sha256": "d80b0a49db0cc5774604339aad93e9e462334117479ba0dfa1fedeaa06cb1646",
       "classification": "Summary merits disposition; per curiam."
     },
     {
@@ -1463,7 +1459,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "sha256": "b02de10c336a9d11ae5cd87717fc893976fdfc278f8c1ed070f0aa398034b688",
+      "sha256": "bdc5f4dbd48fd3003f323015f511c52a7e4c26ea3d664bbc836dce1856010268",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {

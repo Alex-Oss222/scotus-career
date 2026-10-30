@@ -6783,15 +6783,15 @@
         "opinion_authorship": [
           {
             "lines": [
-              244
+              243
             ],
             "quote": "| Opinion of the Court, Parts I–III | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Delegation, statutory limits and Chevron framework |"
           },
           {
             "lines": [
-              245
+              244
             ],
-            "quote": "| Opinion of the Court, Part IV | Kennedy | O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Breyer | Unresolved validity/application and remand |"
+            "quote": "| Opinion of the Court, Part IV | Kennedy | Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Breyer | Unresolved validity/application and remand |"
           }
         ],
         "assignment_classification": [
@@ -6799,12 +6799,12 @@
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "11a740df4a0a45e4be98e1643da5f34dab7f8c2b96e8b402defb58ba2aa6b58e",
+      "bounded_extract_sha256": "aa4d3ca036c46417b3f2ab21b974a597604225c7f264a5d1857dd5a4d84a52a5",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6872,13 +6872,13 @@
         "opinion_authorship": [
           {
             "lines": [
-              170
+              167
             ],
             "quote": "| Opinion of the Court, Parts I–II | Souter | Stevens, O'Connor, Kennedy, Ginsburg, Breyer | Section 2 and remand |"
           },
           {
             "lines": [
-              171
+              168
             ],
             "quote": "| Opinion of the Court, Part III | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Constitutional claims |"
           }
@@ -6888,12 +6888,12 @@
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "37dcacc71c9f086eb0ee76b2f2dab19a9ebbb0870f7a4e798fd2fb54a71779a7",
+      "bounded_extract_sha256": "18a10830bd603ca5d6e40d53ac43926fa436df6db77a01cc6be211868f2ea315",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6958,18 +6958,25 @@
             "quote": "**Event and date:** merits decision, 1999-04-27; October Term 1998."
           }
         ],
-        "opinion_authorship": [],
+        "opinion_authorship": [
+          {
+            "lines": [
+              50
+            ],
+            "quote": "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous judgment | Complete holdings, application, qualifications and remedy |"
+          }
+        ],
         "assignment_classification": [
           {
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "1c0165884497563dd8d3df6581f60390e9c4677dd42cd8f945e0826c06175677",
+      "bounded_extract_sha256": "3c52546acc52d59abe703f7f6d6b10d3feec086f1363050e199107d59fb87fff",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7037,13 +7044,13 @@
         "opinion_authorship": [
           {
             "lines": [
-              328
+              325
             ],
             "quote": "| Opinion of the Court, Part I | O'Connor | All other Justices | Governing standard; two invalidated candidate categories |"
           },
           {
             "lines": [
-              329
+              326
             ],
             "quote": "| Opinion of the Court, Parts II–IV | O'Connor | Stevens, Souter, Ginsburg, Breyer | Residual $100, ordinary-PAC receipts and small-donor differential |"
           }
@@ -7053,12 +7060,12 @@
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "daada7172992e1c8b3a97ae416250ac0e2155317f18e49422b35ae5f4ad588a7",
+      "bounded_extract_sha256": "f6e482108f3f8853fcaa2ffbdb127231555b33f6044d14138e31614def6fdfc7",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7123,18 +7130,25 @@
             "quote": "**Event and date:** merits decision, 1999-05-03; October Term 1998."
           }
         ],
-        "opinion_authorship": [],
+        "opinion_authorship": [
+          {
+            "lines": [
+              50
+            ],
+            "quote": "| Opinion of the Court | Kennedy | Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | Complete bounded exclusive-opportunity property/causation rule, reservations and remedy |"
+          }
+        ],
         "assignment_classification": [
           {
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "92e02c38b60e118cff221957329c1050d546b03dad76a7ae73c50bb5e4e89f8d",
+      "bounded_extract_sha256": "1e0523a5c0dd2681f08ffc55c98374c5e7ce334f01607b6a018ea4eb30cee62d",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7199,18 +7213,25 @@
             "quote": "**Event and date:** merits decision, 1999-05-03; October Term 1998."
           }
         ],
-        "opinion_authorship": [],
+        "opinion_authorship": [
+          {
+            "lines": [
+              50
+            ],
+            "quote": "| Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous judgment | Complete holdings, application, qualifications and remedy |"
+          }
+        ],
         "assignment_classification": [
           {
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "83230293840d8dbfd71b2e3e8a671b9f29ae1932eca8b3ddaede6d17c53e733e",
+      "bounded_extract_sha256": "e25fa53f0437080a2a723ae9a353a5801e0b0480a4cde2bc2a20e865573cc091",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7275,18 +7296,31 @@
             "quote": "**Event and date:** merits decision, 1999-05-03; October Term 1998."
           }
         ],
-        "opinion_authorship": [],
+        "opinion_authorship": [
+          {
+            "lines": [
+              50
+            ],
+            "quote": "| Opinion of the Court, Parts I–II | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reversal and appellate remand | Complete A1–A3 rules and bounded agency-review application |"
+          },
+          {
+            "lines": [
+              51
+            ],
+            "quote": "| Opinion of the Court, Part III | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Late translation contention left undecided through existing agency-motion route | Eight direct rationale joins; Stone-Zsela joins this component's disposition only and adds no ground |"
+          }
+        ],
         "assignment_classification": [
           {
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "15ad46611e9b3e0620e805541e671c6c1faa07011d5a79ce1ccd04664b3e6736",
+      "bounded_extract_sha256": "4c9564494558ab2ba4c13b667803a1bdcb92d100b3af2747b8c1031f7aeb6952",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7354,7 +7388,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              193
+              192
             ],
             "quote": "| Opinion of the Court | O'Connor | Stone-Zsela, Stevens, Souter, Ginsburg | Negative access/discard rule, legal correction and minimum vacatur/remand |"
           }
@@ -7364,12 +7398,12 @@
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "cba38d42905b1838481184d97bbba16cefc2a53a80332d14a61264fb3b1a2fb2",
+      "bounded_extract_sha256": "dcb3f035ff852b3f2ca535087cb1b220adf0fb52136948d16c0cb3c468022804",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7437,13 +7471,13 @@
         "opinion_authorship": [
           {
             "lines": [
-              339
+              336
             ],
             "quote": "| Opinion of the Court, Parts I and III | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Tax linkage and valuation vacatur/remand |"
           },
           {
             "lines": [
-              340
+              337
             ],
             "quote": "| Opinion of the Court, Part II | Souter | All other Justices | Additional administrative-priority denial on debt origin |"
           }
@@ -7453,12 +7487,12 @@
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "e1ce141db955505b8bbd00c30c1ee9a8bbeceab41648a1fb67772864923f8b7e",
+      "bounded_extract_sha256": "0f164f1a72eac4eea5c2a0ec987b7a87c669df050ee5e1413fc60127a37f711f",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7526,7 +7560,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              149
+              139
             ],
             "quote": "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Entire opinion |"
           }
@@ -7536,12 +7570,12 @@
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "1368fce1e506359411cb34b41893a9e668de86cc73b93de3aa79e1b1ec522ae1",
+      "bounded_extract_sha256": "b56ecdaaa8866b14c90ab5526fec8374435c8986502a605d4d1fe114222ddfa2",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7609,7 +7643,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              150
+              140
             ],
             "quote": "| Opinion of the Court | Thomas | O'Connor, Scalia, Kennedy, Souter, Breyer | Entire opinion |"
           }
@@ -7619,12 +7653,12 @@
             "lines": [
               24
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "81beed093fb13cda8711cc837c9d2fb680969417fb3d008312251827cd831cc7",
+      "bounded_extract_sha256": "9873ce113700d0469bc669965e041b6d661ff768386819434102fe3cd7eb197a",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7692,13 +7726,13 @@
         "opinion_authorship": [
           {
             "lines": [
-              163
+              153
             ],
             "quote": "| Opinion of the Court, Part I | Ginsburg | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common vacatur and ordinary summary-judgment protections |"
           },
           {
             "lines": [
-              164
+              154
             ],
             "quote": "| Opinion of the Court, Parts II–III | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer | Constitutional rule and governing remand |"
           }
@@ -7708,12 +7742,12 @@
             "lines": [
               24
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary direct review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "90866f0ec5230e2c2f92d899d91bd8574a479aa95f384c8a12aba15d55c56944",
+      "bounded_extract_sha256": "78c866eb8913317e9fad538ede51e10b793843de1e509412190b3953b23e1ea5",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7855,7 +7889,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              178
+              168
             ],
             "quote": "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Entire opinion |"
           }
@@ -7865,12 +7899,12 @@
             "lines": [
               24
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "7a1ce6569602dcf4a3e980347e0d4372fa52351ebaf353883694a78c7240eda1",
+      "bounded_extract_sha256": "a3189cfea656075ad1f043316c72029e80c1b213c67d7a2caa2d1cc84d12f76f",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7935,18 +7969,25 @@
             "quote": "**Event and date:** merits decision, 1999-05-17; October Term 1998."
           }
         ],
-        "opinion_authorship": [],
+        "opinion_authorship": [
+          {
+            "lines": [
+              50
+            ],
+            "quote": "| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg, Breyer | Affirmance | Complete narrow equal-citizenship rule, federal-permission limit and preliminary remedy |"
+          }
+        ],
         "assignment_classification": [
           {
             "lines": [
               22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes; signed lead after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "d889ea42fde69d58e78440943d0f260faf1ec7be517779f9ec6bd8db0ac6757d",
+      "bounded_extract_sha256": "46016229fc1185edf3bfbe60e5a746bd20b0a4df34c6b3799a440efb171f3022",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -8014,7 +8055,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              151
+              137
             ],
             "quote": "| Lead opinion announcing the judgment | Breyer | O'Connor, Scalia, Thomas | Supports affirmance | Procedural preservation ground only; no constitutional merits holding. |"
           }
@@ -8022,14 +8063,20 @@
         "assignment_classification": [
           {
             "lines": [
-              30
+              14
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes."
+          },
+          {
+            "lines": [
+              14
+            ],
+            "quote": "Signed lead opinion announcing the judgment after post-grant merits consideration of the submitted record; no Supreme Court argument date is supplied."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "3b975f8fe80709f973ec80bfc1889245b5e5449acd49bb741f308f8e1d8413b5",
+      "bounded_extract_sha256": "0ccb35ec674dc3666a95eaa93d79710983e1b45c8a2786780e416e2535251d54",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -8097,19 +8144,19 @@
         "opinion_authorship": [
           {
             "lines": [
-              270
+              256
             ],
             "quote": "| Opinion of the Court on statutory coverage | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Unanimous coverage determination | Complete coverage rule and limits. |"
           },
           {
             "lines": [
-              271
+              257
             ],
             "quote": "| Opinion of the Court on competitive analysis | Souter | Stone-Zsela, O'Connor, Scalia, Thomas | Supports vacatur of both advertising components | Flexible inquiry and both insufficiency applications; no final liability. |"
           },
           {
             "lines": [
-              272
+              258
             ],
             "quote": "| Lead opinion's remedial allocation discussion | Souter | O'Connor, Scalia, Thomas | Supports vacatur and further proceedings | Ninth Circuit choice between existing-record assessment and further Commission analysis; four Justices only. |"
           }
@@ -8117,14 +8164,20 @@
         "assignment_classification": [
           {
             "lines": [
-              32
+              14
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes."
+          },
+          {
+            "lines": [
+              14
+            ],
+            "quote": "Signed lead after plenary review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "46299f272a17497f5e3b8914483b92279b4bbd16a04cecf6c9762fefbdcbe62f",
+      "bounded_extract_sha256": "413c95d342b10becc87b4433c9b6b2fd0f2048bd1167da7949342096314c62b2",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -8192,7 +8245,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              136
+              124
             ],
             "quote": "| Opinion of the Court | Stevens | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous vacatur and remand | Both holdings, their proof limits and ordinary remand. |"
           }
@@ -8200,14 +8253,20 @@
         "assignment_classification": [
           {
             "lines": [
-              26
+              14
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes."
+          },
+          {
+            "lines": [
+              14
+            ],
+            "quote": "One signed Opinion of the Court after plenary argument, resolving the statutory-estoppel question, the ordinary explanation requirement and their remand together."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "196cfd7883354f3d2e08f3dc52c9dd1e2c19e0e60baa9de584a3a3f6b62ae9cd",
+      "bounded_extract_sha256": "055586bfe3be3385cfd46f327f543d51f093b2171b26a8ccfc7dcf31c61a667e",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -8275,19 +8334,19 @@
         "opinion_authorship": [
           {
             "lines": [
-              181
+              167
             ],
             "quote": "| Opinion of the Court, Part I | Ginsburg | Stone-Zsela, Stevens, O'Connor, Souter, Breyer | Supports reversal | Sufficient actual-notice recipient-fault route for controlled peer harassment, including control, culpability, causation and limits. |"
           },
           {
             "lines": [
-              182
+              168
             ],
             "quote": "| Opinion of the Court, Part II | Ginsburg | Stevens, O'Connor, Souter, Breyer | Supplies the governing educational-harm standard | Severe-or-pervasive, objectively abusive and actually experienced environment impairing educational access or benefit. |"
           },
           {
             "lines": [
-              183
+              169
             ],
             "quote": "| Opinion of the Court, Part III | Ginsburg | Stone-Zsela, Stevens, O'Connor, Souter, Breyer | Supports ordinary reversal/remand | Sufficiency of these allegations and the bounded remedy; no final element or liability finding. |"
           }
@@ -8295,14 +8354,20 @@
         "assignment_classification": [
           {
             "lines": [
-              32
+              14
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes."
+          },
+          {
+            "lines": [
+              14
+            ],
+            "quote": "One signed Opinion of the Court after plenary argument."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "c14620699c8b01d5d80ca71cb4839925b2feed8273621a086239e919af9fd235",
+      "bounded_extract_sha256": "e0395ba992f4a45e499e1c6995ead1f24dc44a2c7bd2868011be33b9a3c8b72f",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 9,
@@ -8370,19 +8435,19 @@
         "opinion_authorship": [
           {
             "lines": [
-              176
+              168
             ],
             "quote": "| Opinion of the Court, Parts I–II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common constitutional principles across the disposition split | Protected-space nonassisting-media intrusion and actual-interest/open-fields limits. |"
           },
           {
             "lines": [
-              177
+              169
             ],
             "quote": "| Opinion of the Court, Part III | O'Connor | Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Directs personal immunity | March 1993 fair-notice conclusion on the reviewed media-participation theory. |"
           },
           {
             "lines": [
-              178
+              170
             ],
             "quote": "| Opinion of the Court, Part IV | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common limited vacatur/remand | Reviewed-component boundary and separation of distinct acts; Stevens does not join Part III's immunity direction. |"
           }
@@ -8390,14 +8455,20 @@
         "assignment_classification": [
           {
             "lines": [
-              34
+              14
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes."
+          },
+          {
+            "lines": [
+              14
+            ],
+            "quote": "An independent signed lead after merits consideration is warranted because the protected-space, actual-interest, distinct-recording and bounded-mandate questions require an account of their own."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "a1813df2918db87243c5e7ddb1db5ee53fddd0fafa09d754232831ab8288fe14",
+      "bounded_extract_sha256": "62f0c6a3c1b393dd20f9a5a79fb1f6c78fbc2551ed4e4204ebd07b44e1cc4e9c",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 9,
@@ -8465,13 +8536,13 @@
         "opinion_authorship": [
           {
             "lines": [
-              152
+              144
             ],
             "quote": "| Opinion of the Court, Part I | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous constitutional determination | Added home-entry rule, actual application and complete qualifications. |"
           },
           {
             "lines": [
-              153
+              145
             ],
             "quote": "| Opinion of the Court, Part II | Scalia | O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Seven-Justice affirmance | Particularized April 1992 immunity inquiry, result and confined remedy. |"
           }
@@ -8479,14 +8550,20 @@
         "assignment_classification": [
           {
             "lines": [
-              28
+              14
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes."
+          },
+          {
+            "lines": [
+              14
+            ],
+            "quote": "One independent signed Opinion of the Court after plenary argument, resolving the merits and the distinct immunity inquiry in separate parts of the same opinion."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "ca3d3c00667d55866463404db4d172028cce45c76088cf654d9d4690b7eb174a",
+      "bounded_extract_sha256": "dd771f1d38e4daa94bba991325aadf26392af73d7187f9a963196f74314b40d5",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 9,
@@ -8554,7 +8631,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              146
+              140
             ],
             "quote": "| Opinion of the Court | Stevens | Stone-Zsela, Scalia, Souter, Thomas, Breyer | Complete statutory holding and limited vacatur/remand; neither harmlessness question decided. |"
           }
@@ -8562,14 +8639,20 @@
         "assignment_classification": [
           {
             "lines": [
-              22
+              20
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes."
+          },
+          {
+            "lines": [
+              20
+            ],
+            "quote": "Form first: this is an argued plenary merits decision on a single statutory question with a shared mandate."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "ffd55168485f21c96dc6241a6eab44e5ca83612ce16f6755502d187818bcba13",
+      "bounded_extract_sha256": "bbee1ec94bda903a7c039d65eb24d504ed97ad42613590f5f49fbe644eb75e46",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 9,
@@ -8637,13 +8720,13 @@
         "opinion_authorship": [
           {
             "lines": [
-              191
+              183
             ],
             "quote": "| Opinion of the Court: independent constitutional right and common remedial limits | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous constitutional reversal; preserves unreviewed judgments and ordinary elements/defenses. |"
           },
           {
             "lines": [
-              192
+              184
             ],
             "quote": "| Opinion of the Court: statutory-right enforcement | Thomas | Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Eight-Justice statutory reversal; the Chief does not join this portion. |"
           }
@@ -8651,14 +8734,20 @@
         "assignment_classification": [
           {
             "lines": [
-              22
+              20
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes."
+          },
+          {
+            "lines": [
+              20
+            ],
+            "quote": "Form first: a signed plenary opinion addresses the distinct constitutional and statutory enforcement questions with their common remedial limits."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "07938dcb758d46ccaf39fe7bd1834302e778bff93941087748c6856386c00eae",
+      "bounded_extract_sha256": "cd885694326c4e260a5bc468f2654f27be2b0a58ebb8478b287ec5d999a4159a",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 10,
@@ -8726,13 +8815,13 @@
         "opinion_authorship": [
           {
             "lines": [
-              129
+              119
             ],
             "quote": "| Opinion of the Court, Part I | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg and Breyer; also Scalia, Kennedy and Thomas | Sustains actual section 2241 jurisdiction | Entire jurisdiction part; all nine |"
           },
           {
             "lines": [
-              130
+              120
             ],
             "quote": "| Opinion of the Court, Parts II–III | Stone-Zsela | Stevens, O'Connor, Souter, Ginsburg and Breyer | Affirms the eligibility construction and administrative remand | Entire temporal, deference and remedy parts; six |"
           }
@@ -8740,14 +8829,14 @@
         "assignment_classification": [
           {
             "lines": [
-              57
+              55
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes: a signed lead after plenary argued merits review. The distinct jurisdiction and temporal/deference parts and the additional separate writings were fixed before this count, as the form-first section records. The Chief is in the judgment majority and assigns the complete lead. Its eligible authors are Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, each of whom joins every governing proposition. Scalia, Kennedy and Thomas join only Part I and are not eligible to carry the full lead."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "76811efc549150bafb8e13fca39c4207ee215b0d390f9fc5989dee762779ab6b",
+      "bounded_extract_sha256": "fefc96110728ebd83de52a2a2b8de20e15696c51dd4a7637f20f69fe997f5cad",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 10,
@@ -8814,7 +8903,14 @@
             "quote": "**Event and date:** Merits decision, 1999-06-07; October Term 1998."
           }
         ],
-        "opinion_authorship": [],
+        "opinion_authorship": [
+          {
+            "lines": [
+              111
+            ],
+            "quote": "Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. The complete Court-opinion coalition is Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Ginsburg filed a dissent."
+          }
+        ],
         "assignment_classification": [
           {
             "lines": [
@@ -8825,7 +8921,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "01a3314948384f74f05a01bc8ca48710b29a4eea54c3cd6bc97e3de9e0f1954d",
+      "bounded_extract_sha256": "0661d1dd16479007d6df3bed1ff689d7566a6abd0be6c67c6111de29803b5722",
       "counts_before_source": {
         "Stone-Zsela": 9,
         "Stevens": 10,
@@ -8893,13 +8989,13 @@
         "opinion_authorship": [
           {
             "lines": [
-              138
+              129
             ],
             "quote": "| Opinion of the Court, Parts I–II | Souter | O'Connor, Scalia, Kennedy and Thomas; also Stone-Zsela | Reverses on ordinary Illinois review and the resulting claim-specific default | Entire ordinary-review, actual-unavailability, application and remand propositions; six |"
           },
           {
             "lines": [
-              139
+              130
             ],
             "quote": "| Opinion of the Court, Part III | Souter | O'Connor, Scalia, Kennedy and Thomas | Preserves the scope of the decision | Reserves the effect of an express state opt-out retaining occasional discretionary relief; five |"
           }
@@ -8914,7 +9010,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "ed320633b400156a5f15e73136a9e97ee255d0e7c4fdbc47d2fe123530310cea",
+      "bounded_extract_sha256": "ba31e7a4937507365e604f4bcb0d664fec7bb1a05f9e34773d50e806a63c7a7b",
       "counts_before_source": {
         "Stone-Zsela": 9,
         "Stevens": 11,
@@ -8982,7 +9078,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              181
+              179
             ],
             "quote": "| Opinion of the Court | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer; Stone-Zsela in part | Affirmance | All eight Associate Justices join the constitutional rule, statutory rule, application and remedy. Stone-Zsela joins the constitutional rule, its application and remedy, but not the independent written-consent statutory ground. |"
           }
@@ -8990,14 +9086,14 @@
         "assignment_classification": [
           {
             "lines": [
-              28
+              26
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "3a7f794ac2fa728e71a58c494b41bc5302c8afa4bbe8c0bfaa3a3dd46e0ae62c",
+      "bounded_extract_sha256": "719c6eaaab7d38260b35997756326b6d934dbc347e27d16b48c586a2a4cc2c12",
       "counts_before_source": {
         "Stone-Zsela": 9,
         "Stevens": 11,
@@ -9148,7 +9244,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              173
+              171
             ],
             "quote": "| Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Souter, Thomas, Breyer | Reversal and remand | Complete APA-framework holding and bounded remedy |"
           }
@@ -9156,14 +9252,14 @@
         "assignment_classification": [
           {
             "lines": [
-              24
+              22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "b75a51baa6c5a1cb833042937367a1369ec9f7edf880f6b68dcf3e4e26a00841",
+      "bounded_extract_sha256": "bf0feee332757079b1fc36d08b0a4f94cea870c78c50e6c25bb327e0e073bbeb",
       "counts_before_source": {
         "Stone-Zsela": 10,
         "Stevens": 11,
@@ -9231,7 +9327,7 @@
         "opinion_authorship": [
           {
             "lines": [
-              206
+              204
             ],
             "quote": "| Opinion of the Court | Breyer | Stone-Zsela, Stevens, Souter, Ginsburg; O'Connor and Kennedy in part | Reversal; present error; conditional relief | Full rationale: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. O'Connor and Kennedy additionally join only the narrow firmly rooted-exception ruling and the legal Chapman rule after established error, withholding the present trustworthiness application. |"
           }
@@ -9239,14 +9335,14 @@
         "assignment_classification": [
           {
             "lines": [
-              24
+              22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "7878f19b7c144070e98909a3bb125f900c7fff7544bc2abbfef9d8397c47c5b3",
+      "bounded_extract_sha256": "3ed64433f67fe7de1983251c1ee6a0b89ae71bde0171bc3f0069b889cbf24ce2",
       "counts_before_source": {
         "Stone-Zsela": 10,
         "Stevens": 11,
@@ -9314,31 +9410,31 @@
         "opinion_authorship": [
           {
             "lines": [
-              441
+              431
             ],
             "quote": "| Opinion of the Court, Parts I and II | Thomas | Common whole-opinion coalition above; also Stone-Zsela, Scalia, Ginsburg | Unanimous fraud-element reversal; common jury-error and preserved-burden holdings | Statutory materiality and boundaries; jury allocation, preservation, and Government's Chapman burden |"
           },
           {
             "lines": [
-              442
+              432
             ],
             "quote": "| Opinion of the Court, Part III | Thomas | Common whole-opinion coalition; also Stone-Zsela | Controlling seven-Justice review method | These materiality errors are trial error; qualified whole-record actual-verdict inquiry beyond necessary equivalence |"
           },
           {
             "lines": [
-              443
+              433
             ],
             "quote": "| Opinion of the Court, Part IV | Thomas | Common whole-opinion coalition | Tax affirmance, 6–3 | Actual-verdict noncontribution on counts 86 and 87; no holding that the jury necessarily made the omitted materiality determination |"
           },
           {
             "lines": [
-              444
+              434
             ],
             "quote": "| Opinion of the Court, Part V-A | Thomas | Common whole-opinion coalition; also Scalia, Ginsburg | Limited fraud remand, 8–1 | Initial count-specific appellate review and bounded conditional remedy; no present fraud harmlessness determination |"
           },
           {
             "lines": [
-              445
+              435
             ],
             "quote": "| Opinion of the Court, Part V-B | Thomas | Common whole-opinion coalition | Controlling direction governing the fraud remand | Apply Part III's qualified actual-verdict method and Government's burden |"
           }
@@ -9346,14 +9442,14 @@
         "assignment_classification": [
           {
             "lines": [
-              38
+              36
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review, delivered throughout by Thomas."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "ac42f1c8a4477a319129c80a5f6b679f6a6f5c958e8d05d3d48513235f1a80bc",
+      "bounded_extract_sha256": "e7b9f44cd4799eaee2cdffac20edccd6514892794b7e8d8f7742b72d775d4112",
       "counts_before_source": {
         "Stone-Zsela": 10,
         "Stevens": 11,
@@ -9429,14 +9525,14 @@
         "assignment_classification": [
           {
             "lines": [
-              24
+              22
             ],
-            "quote": "**Counted lead opinion:** Yes; one signed lead after plenary merits review."
+            "quote": "**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review."
           }
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "9cce03dd4d5252f6650f9320a8132adb6b1874e074e2151ca8f3050b18ed3ae1",
+      "bounded_extract_sha256": "4c5fe351d601d53fa64320afabfe48221c1dfd5404bd6bb26ddc2c06cc9611a6",
       "counts_before_source": {
         "Stone-Zsela": 10,
         "Stevens": 11,

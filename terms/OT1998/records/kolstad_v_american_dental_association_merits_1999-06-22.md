@@ -169,39 +169,11 @@ The statutory alternative based on exceptional punitive character has Thomas’s
 
 ## Opinion form and assignment
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Before viewing counts, form and governing propositions were fixed in the validation artifact: one signed lead opinion after plenary review, with separate mental-state, managerial-attribution/compliance, additional Restatement/burden, common disposition and application portions. The distinct parts track actual frozen legal disagreements, including Stone’s fixed employer-showing position. The separate writings perform legal work on burden, statutory threshold and trial remedy. No issue, part or case was divided to change an author count or make Stone eligible, and no split authorship is necessary because three eligible Justices can carry the entire lead.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+**Assignment:** Chief Justice Stone-Zsela assigns from the tentative eight-Justice vacatur/common-remand coalition. The [fresh recount](../freeze/OT_1998CHUNK11_KOLSTAD_RECOUNT.json), run after form/propositions were settled and immediately before assignment, counts actual canonical authors from zero. Prior counts for all nine: Stone-Zsela 12; Stevens 12; O’Connor 12; Scalia 12; Kennedy 13; Souter 12; Thomas 12; Ginsburg 12; Breyer 13. Last counted event: Albertson’s, Inc. v. Kirkingburg, merits, June 22, 1999 (`albertsons_inc_v_kirkingburg_merits_1999-06-22.md`), earlier alphabetically. Eligible authors: O’Connor, Scalia and Kennedy, who join every part of the lead. Balance pool: O'Connor, Scalia, Kennedy; minimum 12, ceiling 13. Chosen author: O’Connor. Her Hazen Paper opinion demonstrates concrete fit for the central distinction between intentional conduct and knowing/reckless illegality without extra outrage; her frozen Meritor-based agency position supports every stated punitive limitation and reservation. She has the lower count than Kennedy and no unresolved formulation barrier. Scalia is also eligible; O’Connor’s demonstrated execution of the specific enhanced-remedy distinction supports selection among these pool members.
 
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 110 leads before this assignment.
-
-| Justice | Count before assignment |
-|---|---:|
-| Stone-Zsela | 12 |
-| Stevens | 12 |
-| O'Connor | 12 |
-| Scalia | 12 |
-| Kennedy | 13 |
-| Souter | 12 |
-| Thomas | 12 |
-| Ginsburg | 12 |
-| Breyer | 13 |
-
-**Last counted event:** Albertson's, Inc. v. Kirkingburg; No. 98-591. 1999-06-22; author Kennedy; [Record](albertsons_inc_v_kirkingburg_merits_1999-06-22.md).
-
-**Eligible authors for the complete lead:** O'Connor, Scalia, Kennedy. **Complete-opinion balance pool:** O'Connor, Scalia, Kennedy; minimum 12, ceiling 13. **Chosen author:** O'Connor.
-
-**Fit:** The distinct parts track actual frozen legal disagreements, including Stone’s fixed employer-showing position. The separate writings perform legal work on burden, statutory threshold and trial remedy.
-
-Chief Justice Stone-Zsela assigns from the tentative eight-Justice vacatur/common-remand coalition. Kirkingburg, merits, June 22, 1999 (`albertsons_inc_v_kirkingburg_merits_1999-06-22.md`), earlier alphabetically. Eligible authors: O’Connor, Scalia and Kennedy, who join every part of the lead. Chosen author: O’Connor. Her Hazen Paper opinion demonstrates concrete fit for the central distinction between intentional conduct and knowing/reckless illegality without extra outrage; her frozen Meritor-based agency position supports every stated punitive limitation and reservation.
-
-Stone’s exact Part II-C nonjoin excludes him from authorship of this whole lead. The four trial proponents do not join its agency or specific application portions. Thomas opposes the judgment and M1. No expansion accommodation or post-reconciliation commitment change is necessary.
-
-The complete lead counts once for O'Connor; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** [fresh recount](../freeze/OT_1998CHUNK11_KOLSTAD_RECOUNT.json).
+Stone’s exact Part II-C nonjoin excludes him from authorship of this whole lead. The four trial proponents do not join its agency or specific application portions. Thomas opposes the judgment and M1. No expansion accommodation or post-reconciliation commitment change is necessary. Fit decides within the pool; no historical author entitlement, later-career legal position or previous tally substitutes for the fresh recount. O’Connor’s one signed lead counts once; separate writings do not count.
 
 ## Material Published Noncontrolling Positions
 

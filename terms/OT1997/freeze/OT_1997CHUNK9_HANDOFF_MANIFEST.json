@@ -10,7 +10,7 @@
     },
     {
       "file": "OT_1997CHUNK9_NEUTRAL_MAY26_LAW.md",
-      "sha256": "60ec0ede790cc7ef6cda50978750a498299581c488402ccb89ac2b2921352d68"
+      "sha256": "a1c7c3cfcf414196cca828778c3735271013fc6c83f7d166ccc0f77503e69eff"
     },
     {
       "file": "OT_1997CHUNK9_NEUTRAL_NEW_JERSEY.md",
@@ -30,11 +30,11 @@
     },
     {
       "file": "OT_1997CHUNK9_NEUTRAL_SUPPLEMENT_LAW.md",
-      "sha256": "6d4e5e1548338bb9ffa09dcc8b8edb26508203d096d235b4929235ef5cea324f"
+      "sha256": "d2ade52bda9c637832bfdecaad4b1740c200a551c639007ca3dc02b1d1f90228"
     },
     {
       "file": "OT_1997CHUNK9_NEUTRAL_WASTE_CAMPS_SUPPLEMENT.md",
-      "sha256": "11f7f32c947273bf4b74a242682b68555bda1a810b8737bf0f61f48da647e25a"
+      "sha256": "6928221df8f38929ec8f53d2e5415242f2c802cac76df768f15ae2ac6a517e95"
     },
     {
       "file": "OT_1997CHUNK9_NEUTRAL_FLORENCE_REFRESHED.md",
@@ -64,11 +64,11 @@
     },
     {
       "file": "OT_1997CHUNK9_COMMITMENTS_WASTE_REFRESHED.md",
-      "sha256": "4d5b0815c7e8e5b0f68b414bc1a26518d84cd79035afb5a2272382f0d9f83189"
+      "sha256": "84324c88ad48b51baacd29e59c7e220b4cc472319dc374b6e44032281af80cfb"
     },
     {
       "file": "OT_1997CHUNK9_COMMITMENTS_WASTE_REMEDY_CLARIFICATION.md",
-      "sha256": "585f746478efb2d5adc622f7b2cda8a2ea778d1fef792441b751665ae5a7924d"
+      "sha256": "5d49b294df8ac1bcecd48e8dcf7f6b023f05c9e293b3054ae274fd5fdd756443"
     },
     {
       "file": "OT_1997CHUNK9_COMMITMENTS_DECARLO.md",
@@ -96,7 +96,7 @@
     },
     {
       "file": "OT_1997CHUNK9_MODEL_MAY26_REFRESH_RECEIPT.md",
-      "sha256": "5fdd36c58be67fca078fb4efe0ee41930ebe3a016d4a54a66e4b296af8f0260c"
+      "sha256": "8b3ce766e783067460b70361b617eceb1d3250a7b573c7349096e3d41e591b09"
     },
     {
       "file": "OT_1997CHUNK9_FLORENCE_MODEL_REFRESH_RECEIPT.md",
@@ -134,7 +134,7 @@
     },
     {
       "file": "OT_1997CHUNK9_RECONCILED_WASTE.md",
-      "sha256": "63689a658214b80e5e209534947ab0a80c6c44ae5c87f86f286ee47614797fdf"
+      "sha256": "8c8449a332e400b67b326b78d221982bee0823376c978199685e9c46d9b22a7d"
     },
     {
       "file": "OT_1997CHUNK9_RECONCILED_DECARLO.md",

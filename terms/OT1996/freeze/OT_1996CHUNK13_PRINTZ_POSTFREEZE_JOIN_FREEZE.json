@@ -1,7 +1,7 @@
 {
   "stage": "Printz isolated postfreeze conditional-join audit",
   "artifact": "terms/OT1996/freeze/OT_1996CHUNK13_PRINTZ_POSTFREEZE_JOIN_AUDIT.md",
-  "sha256": "058bb1f7dabedef5870c2f3a47e7dd7853e8724a8730da98fbc4f7b99e1832a8",
+  "sha256": "56e4c54f5dab4c9c2c198a32469fed5e519c5b6e327d073f9f199e67f2754d9e",
   "context": "chunk13_reconcile_b",
   "next_context": "chunk13_assemble_medical",
   "durability": "Preserved before final assembly compatibility; original reconciliation unchanged; operator Git commit pending",

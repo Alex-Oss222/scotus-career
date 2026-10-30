@@ -10,6 +10,6 @@
 
 **Checks passed:** Exact four opening labels; ASCII header tally; exact counted-lead marker; explicit topology table with Scalia and eight unique joiners; eleven Public Projection blocks in exact order; no unresolved placeholders; 229-word controlling explanation; complete operative rule, authority and precedent treatment; no public workflow metadata; reviewed-claims and remedy limits; exact Public Projection identity in `entering-law/PFAFF_EFFECTIVE.md`.
 
-Record SHA256: 9A1FC3120CF2749E6F7A19761105D8FB15FE3079E0568D3642FC24E1C85048FB. Effective-copy SHA256: 1ECD0B5D3AECC3DEE9C833DC0A9251D06A9DDBAF8E5F4061153A70C641C9C8DB.
+Record SHA256: 6FC36D7C77A39171BE43F8F633BDA4B59612FD9EE5471663B5D309D59566C95D. Effective-copy SHA256: 1ECD0B5D3AECC3DEE9C833DC0A9251D06A9DDBAF8E5F4061153A70C641C9C8DB.
 
 **Wrapper cleanup:** The generated effective-copy heading separator was repaired from an encoding placeholder to an ASCII hyphen; its bounded public body is byte-unchanged. The effective-copy fingerprint above reflects this metadata-only repair.

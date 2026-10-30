@@ -117,7 +117,7 @@ Effective June 23, the added proposition concerns this expressly authorized FLSA
 
 ## Adaptive audit: frozen commitments and final joins
 
-The [independent commitments](../freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md) and [released reconciliation](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) remain unchanged. The latter’s exact supplied SHA256 is 6a869bc957b2e66cbd697b4ffb81652813b7af4fbbbb1391fab7533ba706d663. Each final position below preserves the frozen ground and limit; the table reports compatibility, not invented circulation events.
+The [independent commitments](../freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md) and [released reconciliation](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) remain unchanged. The latter’s exact supplied SHA256 is 9a66769ceb4e74b85636a73148e22f3d7a2a4e49a52048303abc2a49ef2e78de. Each final position below preserves the frozen ground and limit; the table reports compatibility, not invented circulation events.
 
 | Justice | Frozen sufficient ground and own prior support | Final joins and disposition; preserved objection |
 |---|---|---|
@@ -140,41 +140,13 @@ The reconciliation reports full historical source review: complete Cornell opini
 
 ## Form and assignment
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Before the recount, [the form receipt](../freeze/OT_1998CHUNK11_ALDEN_FORM_BEFORE_ASSIGNMENT.json) fixed one signed plenary merits lead, the complete governing propositions and the nine/five section joins. The constitutional question requires a reasoned answer and five Justices share the operative rationale; neither count balancing nor expected authorship chose this form, scope or division. No separate Court opinion or per curiam resolution is needed.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+**Assignment:** Assigning Justice: Chief Justice Stone-Zsela, a member of the reversal coalition. Every prior count from the fresh recount is Stone-Zsela: 12; Stevens: 12; O'Connor: 14; Scalia: 12; Kennedy: 14; Souter: 12; Thomas: 12; Ginsburg: 13; Breyer: 13. Last counted event: Sutton v. United Air Lines, Inc., merits decision of June 22, 1999 (`sutton_v_united_air_lines_inc_merits_1999-06-22.md`); 114 qualifying signed lead opinions were counted. Eligible authors for the complete lead: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, each supporting every governing proposition and remedy. Balance pool: Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 12, ceiling 13. Chosen author: Souter. The [fresh recount](../freeze/OT_1998CHUNK11_ALDEN_RECOUNT.json) starts from zero and verifies actual canonical author evidence, including all four newly completed June 22 Records and Sutton in proper alphabetical order; no earlier tally is an authority.
 
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+Fit controls because the shared ground is settled; no identifiable objection requires an expansion accommodation. Souter’s public Seminole Part IV expressly analyzes deliberate congressional displacement of nontextual immunity, while his officer holding and this case’s accrued-compensation posture explain why direct-State adjudication is now necessary. His Hilton join supports accurate state-forum enforcement and preserved statutory reliance. Those are concrete advantages for this opinion’s constitutional, precedent and remedy work. Stone is fully eligible and at the same count, with his approved state-forum analysis and Hilton join a strong alternative; Souter’s own developed public treatment of the precise displacement issue supplies the better case-specific fit. Stevens’s wider Hans critique is unnecessary to the shared rule. Ginsburg and Breyer can carry the whole opinion, but share Souter’s pertinent earlier analysis and have the higher count. All are capable; none is excluded for experience, style or a historical role.
 
-The actual counted source opinions yield 114 leads before this assignment.
-
-| Justice | Count before assignment |
-|---|---:|
-| Stone-Zsela | 12 |
-| Stevens | 12 |
-| O'Connor | 14 |
-| Scalia | 12 |
-| Kennedy | 14 |
-| Souter | 12 |
-| Thomas | 12 |
-| Ginsburg | 13 |
-| Breyer | 13 |
-
-**Last counted event:** Sutton v. United Air Lines, Inc.; No. 97-1943; OT1998. 1999-06-22; author Kennedy; [Record](sutton_v_united_air_lines_inc_merits_1999-06-22.md).
-
-**Eligible authors for the complete lead:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 12, ceiling 13. **Chosen author:** Souter.
-
-**Fit:** Before the recount, [the form receipt](../freeze/OT_1998CHUNK11_ALDEN_FORM_BEFORE_ASSIGNMENT.json) fixed one signed plenary merits lead, the complete governing propositions and the nine/five section joins. No separate Court opinion or per curiam resolution is needed.
-
-Assigning Justice: Chief Justice Stone-Zsela, a member of the reversal coalition. Eligible authors for the complete lead: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, each supporting every governing proposition and remedy. Chosen author: Souter. The [fresh recount](../freeze/OT_1998CHUNK11_ALDEN_RECOUNT.json) starts from zero and verifies actual canonical author evidence, including all four newly completed June 22 Records and Sutton in proper alphabetical order; no earlier tally is an authority.
-
-Fit controls because the shared ground is settled; no identifiable objection requires an expansion accommodation. Souter’s public Seminole Part IV expressly analyzes deliberate congressional displacement of nontextual immunity, while his officer holding and this case’s accrued-compensation posture explain why direct-State adjudication is now necessary. His Hilton join supports accurate state-forum enforcement and preserved statutory reliance. Those are concrete advantages for this opinion’s constitutional, precedent and remedy work. Stevens’s wider Hans critique is unnecessary to the shared rule. All are capable; none is excluded for experience, style or a historical role.
-
-Kennedy’s separate writing performs the four dissenters’ actual legal work of explaining the state-forum structural position while retaining his own Hilton settlement. No fictional draft, concession, lost coalition, reassignment or authorship-induced vote change is asserted.
-
-The complete lead counts once for Souter; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** [fresh recount](../freeze/OT_1998CHUNK11_ALDEN_RECOUNT.json).
+Kennedy’s separate writing performs the four dissenters’ actual legal work of explaining the state-forum structural position while retaining his own Hilton settlement. It is not a counted lead or a Court assignment. No fictional draft, concession, lost coalition, reassignment or authorship-induced vote change is asserted.
 
 ## Material Published Noncontrolling Positions
 

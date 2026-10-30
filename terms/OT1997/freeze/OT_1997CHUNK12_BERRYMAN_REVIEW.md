@@ -1,6 +1,6 @@
 # OT1997 chunk 12 — independent Berryman review
 
-No unresolved substantive, join, remedy, form or assignment discrepancy remains in [the August 3 Berryman Record](../records/berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md). Final raw-file SHA-256: `17eb06b23543c7348f9695b911c5a0cb2ebfed1f26b19aaf7c73b01fad4c55f0`.
+No unresolved substantive, join, remedy, form or assignment discrepancy remains in [the August 3 Berryman Record](../records/berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md). Final raw-file SHA-256: `bfbfd3422171b97295b4f49cc500fc63a39bd69cbdf7370be77311c507333e5e`.
 
 Review used the final reconciled commitments, exact scoped Stone supplement, frozen August 3 neutral packet and exact sanctions-law blocks, the relevant dated public-law context, Engine sections 4 and 8, and the complete final Record. The August 3 snapshot hash matches `cc478638a604ee836754a24fc3b9edb5242cf8a66612726aa561b184a595e4e3`. This review does not claim recovery of missing original papers or a historical Supreme Court disposition. No Record, earlier review artifact or protected adjudication was edited by the reviewer; no Git operation, top-level private-path access or future Brewster Stone access occurred.
 
@@ -20,10 +20,6 @@ Review identified and verified two completeness repairs in both internal and pub
 
 The signed plenary lead counts once under Engine section 8 because the Court independently adjudicates the legal merits of an existing monetary sanctions award. The jurisdiction-only component supplies no separate credit. The conclusion rests on that mixed disposition, not on a filename, the opinion's length or whether the underlying civil-rights merits were reached. Threshold-only current-term comparisons do not decide the distinct collateral-award question, and no earlier classification is changed.
 
-| Record | Counted leads before | Lead author | Eligible authors | Balance pool | Last counted event |
-|---|---:|---|---|---|---|
-| berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md | 117 | O'Connor | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | camilo_robles_v_hoyos_merits_1998-07-20.md |
-
-Counts after the final listed decision, including all earlier effective Records: Stone-Zsela 14; Stevens 13; O'Connor 14; Scalia 13; Kennedy 13; Souter 12; Thomas 13; Ginsburg 13; Breyer 13. Total 118.
+Independent actual-table review confirms the preassignment total of 117, with Stone-Zsela at 14, Souter at 12 and every other Justice at 13, and Camilo as the last counted event. All nine fully support the complete opinion and are eligible; all except Stone-Zsela, at 14, belong to the pool. O'Connor's source-specific sanctions work supports the stated choice. Her one lead credit yields **118 total: Stone-Zsela and O'Connor 14, Souter 12, every other Justice 13**.
 
 [The final mechanical receipt](../../../tmp/chunk12_berryman_review_checks.json) confirms the four opening labels, eleven exact level-two Public Projection headings, unchanged internal/public Holdings and six other substantive blocks, stated cutoffs, no unresolved placeholders or public workflow leakage, and a maximum controlling explanation of 250 words. The ten previously reviewed Records match their protected hashes at the recorded comparison level. The assembler confirmed no further edits, and final readback matched this receipt's hash. Coordinated workspace, Render Input and whole-term validation remain with control. No review blocker remains.

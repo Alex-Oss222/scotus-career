@@ -8,5 +8,5 @@ Checked: identities, consolidated scope, review channels, dates as facts versus 
 
 Readiness: neutral framing and bounded source support validated. Before independent modeling, control must supply a dated relevance refresh from effective June 26 law for June 27 matters and from effective June 27 law for June 30 matters. This is an ordinary chronology gate, not a merits determination or requirement to recover every original. A broader Foreman completed-election remedy, a final 1972 baseline finding, expanded Printz claims, or an unsupported Cohen fraud remand would require additional evidence. The assigned June 30 Cohen decision date is an authorized scheduling premise, not history.
 
-Incoming source-copy SHA-256: `f9737eddbea847f4c98a298d5fb7aa1c1ee6e479b503fbc9240f7d7be712abc5`.
-Validated neutral SHA-256: `730791234f2e8724b208b128d987aa74fd9979830689eea40b6b3ab04df8090a`.
+Incoming source-copy SHA-256: `625643305223d28cf608f22e4c3199eda6c9a92513fa5d91cdc7c65a2ea261e0`.
+Validated neutral SHA-256: `d0e8df14eac99ecd38039eb824b8323c83a23d893bdd3fe96bcfb0d46aeda0c1`.

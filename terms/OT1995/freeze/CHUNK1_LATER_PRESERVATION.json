@@ -22,8 +22,8 @@
   },
   {
     "record": "American_Life_League_v_Reno_merits_1995-11-13.md",
-    "sha256": "e66425a0cf07c072365d684372aa1724d5dea076e7c2200208ed765bb45a1a03",
-    "public_sha256": "e66425a0cf07c072365d684372aa1724d5dea076e7c2200208ed765bb45a1a03",
+    "sha256": "a7e7c1d894333fd6530a654989bd2d83533010213f33d320f3fad1769326d3a2",
+    "public_sha256": "a7e7c1d894333fd6530a654989bd2d83533010213f33d320f3fad1769326d3a2",
     "audit_receipt": "ALL_PUBLIC_DRAFT_CHECKS.json",
     "status": "durably preserved; operator Git commitment pending"
   },

@@ -2,7 +2,7 @@
 
 This is a mechanically copied reading annex to NEUTRAL_MAY26. It is authority only through its identified source. No same-day May 26 decision enters another. The underlying source files remain controlling.
 
-Source SHA-256: entering-law 9c29cc37a0fe5025aea84c30dc9dc930c9978f57e8a3716d1bd9c3f7044324f1; neutral projection 92026c6446a07a02a0c9698b01d33aa98ebd7310da651b25b88eb14c6375f8fa.
+Source SHA-256: entering-law 8de8a8a810d1cc0acef3093df650de10a31e5dcec430a231ab9c3c5101c9d460; neutral projection 92026c6446a07a02a0c9698b01d33aa98ebd7310da651b25b88eb14c6375f8fa.
 
 ## Inherited Holdings — verbatim selected sections
 

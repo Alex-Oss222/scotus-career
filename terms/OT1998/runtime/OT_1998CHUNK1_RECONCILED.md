@@ -16,7 +16,7 @@ Mechanically assembled navigation copy of the physically frozen, case-specific h
 
 - `freeze/WRIGHT_NEUTRAL.md`, SHA-256 `2BA45C64873C791821B95FD6304ED412B4D04F900D9EE9890A56C07C5F6F681D`.
 - `freeze/WRIGHT_NEUTRAL_SUPPLEMENT.md`, SHA-256 `C7460B0E9233225FE37F6BF622C4F7B9AACFAFAB35C3FFCBD317BF17722839C7`.
-- `freeze/WRIGHT_COMMITMENTS.md`, SHA-256 `E65228E68E438749B0EAF4B20093A3093CB77CDDF16C33C86E7E8EB1A234253E`.
+- `freeze/WRIGHT_COMMITMENTS.md`, SHA-256 `91883F8C83592AD2645F2DA5C4227663371A32AB811F30EFC672E68CFBC464C6`.
 - Wright portion only of `runtime/OT_1998CHUNK1_COMPARATOR.md`.
 - `entering-law/OT_1998CHUNK1_BASE.md`: the relevant Love, Hale, Lopez, Rybar, Kirk, Stinson and Koon/Powell holdings and selected Commerce, registration, arms and Guidelines standards; opening `workspace/neutral-projection.md` for setting and chronology. The unrelated Confrontation standard performs no work.
 
@@ -257,7 +257,7 @@ The motion establishes September 1998, not an exact filing day; no argument date
 
 # Peoples Rights Organization — reconciled non-Stone commitments
 
-**Stage and cutoff:** Historical reconciliation for the October 15, 1998 event. The case-only neutral packet, supplement and independent commitments were physically frozen before the corresponding comparator was opened. The commitment SHA-256 is `13DF4BE2EFDC9802D1C2740F9C85A1686DB092ECC2CAD1146ED46862BABA0ADA`. No private Stone material, combined brief or raw current Record entered this context. This handoff supplies no Stone position or opinion assignment.
+**Stage and cutoff:** Historical reconciliation for the October 15, 1998 event. The case-only neutral packet, supplement and independent commitments were physically frozen before the corresponding comparator was opened. The commitment SHA-256 is `82F2BB64070BDC885A5185F702975476A50697BC3BBEE021B186B60027EA84CC`. No private Stone material, combined brief or raw current Record entered this context. This handoff supplies no Stone position or opinion assignment.
 
 **Controlling handoff:** Incorporate `PEOPLES_RIGHTS_NEUTRAL.md`, `PEOPLES_RIGHTS_NEUTRAL_SUPPLEMENT.md` and `PEOPLES_RIGHTS_COMMITMENTS.md` in this freeze directory in full, including their exact statutory branches, adverse-path analysis, Justice-specific grounds and qualifications. Reconciliation changes no commitment. The effective Wright, FOP, Hiley and Louisiana refreshes stated in the commitments remain operative; Louisiana adds no material premise to this dispute.
 
@@ -313,7 +313,7 @@ For **E1/E2**, seven sustain the actual former-city-registration firearm and rel
 
 - `freeze/FRANKLYN_NEUTRAL.md`: `659CA3F5BF5F9B30A9E4CBD079292C290C4C5D4368D0621DC9B7BFF609BE6788`.
 - `freeze/FRANKLYN_NEUTRAL_SUPPLEMENT.md`: `6CE51DA57957523DED5BB66129E3BFD9736976E2450AE36D1F7F7094F5416FD8`.
-- `freeze/FRANKLYN_COMMITMENTS.md`: `896199151AFD4C363BCF812931EA8353CD2487E3078B9A917697568549F692FD`, confirmed before comparator exposure.
+- `freeze/FRANKLYN_COMMITMENTS.md`: `C395E3FA1C28EFEC0D429084FD642E2101C0A8D5B95E639AE791F25F7B0F4464`, confirmed before comparator exposure.
 - `runtime/FRANKLYN_COMPARATOR_SANITIZED.md`: `A52138C2F062E1C2864A8EF70A2364AAAD46D484EA4F212100CAED1F1E9CCB5D`.
 
 The complete C1–C8 component statements, strongest alternatives, limits, remedies and Justice-specific commitments in the frozen commitments are incorporated by reference, subject only to the citation-attribution clarification below. Relevant checks used the authorized BASE selections, `FRANKLYN_STRIKES.md`, the relevant-conduct Standards supplement and Hiley's effective public reading copy. The model's recorded final chronological refresh remains incorporated; this context does not claim to have reread every effective copy. Applicable Engine sections 3, 7 and 14 govern this review.
@@ -376,7 +376,7 @@ All eight Associates support affirming Franklyn's judgments against his presente
 
 - `freeze/GRIFFIN_NEUTRAL.md`: `5BE96B20950172730CA1F11C39580628A124F9DF6DA7FED91E4B73D8805A3A16`.
 - `freeze/GRIFFIN_NEUTRAL_SUPPLEMENT.md`: `889EF49811CA25D4715442B5AAA07872492F5E4A82B53443C561FDD17E5B6BA3`.
-- `freeze/GRIFFIN_COMMITMENTS.md`: `FA39A1B51C21BC48C39142381AB4A6709073F64CD86B4B8D564E5A0BCAD3DB51`, confirmed before comparator exposure.
+- `freeze/GRIFFIN_COMMITMENTS.md`: `3FAC2D2F4EFC00817375E07B1A8A031817C6736F55DE0B3052EF37817AF2A977`, confirmed before comparator exposure.
 - `runtime/GRIFFIN_COMPARATOR_SCOPED.md`: `624D62B3684C6DDDD809B00A59BE5ED1725B667AE6ECC2272B1E96531F3FD564`.
 - `entering-law/FRANKLYN_EFFECTIVE.md`: `8BAED28F97EB4A6C96D4CEE941D0155EF66F338B10C9382796BA800636CC7D37`.
 
@@ -628,9 +628,9 @@ Completed Wright and FOP create no securities-law change. No unentered event is 
 | Stevens | Affirm on the triable knowing implied-representation theory; his Central Bank and O'Hagan writings and First Jersey join require actual deception and culpability. | Private reliance, causation and loss remain separate; no fiduciary unfairness alone. |
 | O'Connor | Same, under her O'Hagan and First Jersey joins. | Her Central Bank disagreement is not converted into an assistance join; prove contemporary feasibility and avoid later-rule retroactivity. |
 | Scalia | Same, under his First Jersey join despite his distinct O'Hagan position. | Identify this defendant's knowing false undertaking to its customer; status, worse price or a newly announced duty alone are insufficient. No general recklessness rule. |
-| Kennedy | Same, under his First Jersey and O'Hagan joins. | SEC findings and enforcement rules cannot establish these customers' reliance, injury or damages. |
+| Kennedy | Same, under his First Jersey opinion and O'Hagan join. | SEC findings and enforcement rules cannot establish these customers' reliance, injury or damages. |
 | Souter | Same, under Central Bank, O'Hagan and First Jersey joins. | Custom is relevant evidence, neither conclusive immunity nor conclusive culpability. |
-| Thomas | Same, under his First Jersey Court opinion; direct customer representation distinguishes the broader theories he rejected elsewhere. | Preserve the knowing-deception sufficient ground; no expansion of accessory or source-deception liability and no primary-recklessness holding. |
+| Thomas | Same, under his First Jersey join; direct customer representation distinguishes the broader theories he rejected elsewhere. | Preserve the knowing-deception sufficient ground; no expansion of accessory or source-deception liability and no primary-recklessness holding. |
 | Ginsburg | Same, under Central Bank, O'Hagan and First Jersey joins. | Customer instructions and disclosed limits matter; a genuine dispute is not a liability or loss finding. |
 | Breyer | Same, under O'Hagan and First Jersey joins. | Actual market conditions matter, but future technology cannot prove past availability. No universal all-market search requirement. |
 

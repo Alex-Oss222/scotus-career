@@ -1,7 +1,7 @@
 {
   "status": "Final twelve-entry structural, protection, actual-table and assignment recount checks passed; legal review supplied separately",
   "record": "terms\\OT1997\\records\\brewster_v_board_of_education_merits_1998-08-17.md",
-  "raw_sha256": "c509a2cd63e9abc5c1f37b21d0c7ecc1d76d036995f6d07118ad287077aebae1",
+  "raw_sha256": "5bbb172f18db7195c9ae0718587f1a5cac0f8b5a8a7c0d35b8b783c527479050",
   "public_blocks": [
     "Event",
     "Participation",
@@ -53,7 +53,7 @@
     {
       "file": "bragdon_v_abbott_merits_1998-06-25.md",
       "date": "1998-06-25",
-      "raw_sha256": "dd0a3fcfec6bbc9e34bd03396b3505da4a13e668dadcbac9e81897fc136336d7",
+      "raw_sha256": "2855e5ed6672856003d1bcf9bd08e487efeae14f08354984d83970c31b8e8530",
       "actual_authors": [
         "Kennedy"
       ],
@@ -104,7 +104,7 @@
     {
       "file": "clinton_v_city_of_new_york_merits_1998-06-25.md",
       "date": "1998-06-25",
-      "raw_sha256": "a7f48a57e77513dd7aacdb215aa20ab2cc6296819286ffc865341a8b8bfe3b1e",
+      "raw_sha256": "ea8aa58cbe08b0040f724dcf6f8084c4ac7802ad5b7ee9d9d4d823bc4e98b2b2",
       "actual_authors": [
         "Stevens"
       ],
@@ -155,7 +155,7 @@
     {
       "file": "diamondstone_v_macaluso_merits_1998-06-25.md",
       "date": "1998-06-25",
-      "raw_sha256": "d55fe3005a5d4f8b294500fff6c7639bb09eb423973b14791c16b87684171109",
+      "raw_sha256": "12aad28f139edd75b584d9b33441df09bd76a4756be2d34534d22431d21421ef",
       "actual_authors": [
         "Scalia"
       ],
@@ -212,7 +212,7 @@
     {
       "file": "eastern_enterprises_v_apfel_merits_1998-06-25.md",
       "date": "1998-06-25",
-      "raw_sha256": "606ddde517be25fd29a0bbb167b994c91753988badb44614af7c264cb1e44552",
+      "raw_sha256": "48bdfa4ca56cd131a35e065e494c266cdcf4d259c7a0890a0283d840e2feea2d",
       "actual_authors": [
         "O'Connor"
       ],
@@ -259,7 +259,7 @@
     {
       "file": "national_endowment_for_the_arts_v_finley_merits_1998-06-25.md",
       "date": "1998-06-25",
-      "raw_sha256": "9f74aff95facd17b48d36d239e67f8e715e623ab476d098317ae9108effe6668",
+      "raw_sha256": "6d5c0a80623ee6052c9980a958a2ac456f4ee9f7f53c659410a23a98746570c8",
       "actual_authors": [
         "Breyer"
       ],
@@ -308,7 +308,7 @@
     {
       "file": "united_states_v_balsys_merits_1998-06-25.md",
       "date": "1998-06-25",
-      "raw_sha256": "dc866dacd52aba917392a149206f5ad28b14e26b813ce1db84e716f2d6ed21fa",
+      "raw_sha256": "d386a992140a4f3dce1df9261b99dfb438227b9bf030da8d8a4f559a2a8f1ccd",
       "actual_authors": [
         "Kennedy"
       ],
@@ -357,7 +357,7 @@
     {
       "file": "bauchman_v_west_high_school_merits_1998-06-26.md",
       "date": "1998-06-26",
-      "raw_sha256": "b5e967ab2aadf4d5ddce9c7da72fd23b03f2d3971cd65295ab1033064257ab25",
+      "raw_sha256": "2e8dc0473b2e63a9578c7bdb3f3f426373ebade03370af44e1ef8b755b4e6ce8",
       "actual_authors": [
         "Ginsburg"
       ],
@@ -414,7 +414,7 @@
     {
       "file": "burlington_industries_inc_v_ellerth_merits_1998-06-26.md",
       "date": "1998-06-26",
-      "raw_sha256": "d0ffac454f7446701ebaea3a1156e8c4cc6ecec1639855b7aec4c5dce1b2ccc7",
+      "raw_sha256": "af072c2b8481aef9d6c207d5fa0c82720487c5c79cf76af2b84ec57b94d10c66",
       "actual_authors": [
         "Stone-Zsela"
       ],
@@ -473,7 +473,7 @@
     {
       "file": "monge_v_california_merits_1998-06-26.md",
       "date": "1998-06-26",
-      "raw_sha256": "6e5bfeafd512d685a88cd23c299a012698b39e45c3b4f2e651b269e90c8ee56c",
+      "raw_sha256": "92d2496a8434c2bd55d3072358e0b006af463bb1f888650a782d4f7f9eb96f28",
       "actual_authors": [
         "Thomas"
       ],
@@ -523,7 +523,7 @@
     {
       "file": "camilo_robles_v_hoyos_merits_1998-07-20.md",
       "date": "1998-07-20",
-      "raw_sha256": "ffc40075ae8fa8912e6f7d59838d31a473531012e141f9477c3c22f9833944e2",
+      "raw_sha256": "eb9bb5dffa36488eba92c4776eb3adfdeacde2427fdaad0ab5b5ba50b4827c17",
       "actual_authors": [
         "Scalia"
       ],
@@ -580,7 +580,7 @@
     {
       "file": "berryman_v_rieger_jurisdiction_and_sanctions_1998-08-03.md",
       "date": "1998-08-03",
-      "raw_sha256": "17eb06b23543c7348f9695b911c5a0cb2ebfed1f26b19aaf7c73b01fad4c55f0",
+      "raw_sha256": "bfbfd3422171b97295b4f49cc500fc63a39bd69cbdf7370be77311c507333e5e",
       "actual_authors": [
         "O'Connor"
       ],
@@ -638,7 +638,7 @@
     {
       "file": "brewster_v_board_of_education_merits_1998-08-17.md",
       "date": "1998-08-17",
-      "raw_sha256": "c509a2cd63e9abc5c1f37b21d0c7ecc1d76d036995f6d07118ad287077aebae1",
+      "raw_sha256": "5bbb172f18db7195c9ae0718587f1a5cac0f8b5a8a7c0d35b8b783c527479050",
       "actual_authors": [
         "Breyer"
       ],

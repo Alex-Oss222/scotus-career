@@ -223,11 +223,9 @@ Argued February 23, 1998. On writ of certiorari to the United States Court of Ap
 
 Reeves was convicted of two Nebraska felony murders arising from sexual assault or attempted sexual assault. The trial court refused instructions on second-degree murder and manslaughter because Nebraska does not classify them as lesser included offenses of felony murder. A three-judge panel later imposed death. The Eighth Circuit rejected a separate due-process ground but granted conditional habeas relief on the instruction theory. The question is whether Beck requires these nonincluded alternatives in a capital prosecution.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+All nine Justices participated at argument and decision.
 
 #### Judgment
-
-The Court reverses the conditional habeas judgment on the reviewed instruction ground and remands for further proceedings consistent with its decision.
 
 **Reversed and remanded, 8–1.**
 
@@ -237,20 +235,15 @@ The Court reverses the conditional habeas judgment on the reviewed instruction g
 
 The Beck-based instruction ground cannot sustain the reviewed relief. The decision does not reinstate the separately rejected due-process theory, determine an unrelated habeas claim, order unconditional discharge or set an execution date.
 
-#### Opinion Topology
+Justice Breyer delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Justice Stevens dissented and would preserve conditional habeas relief on a capital-culpability ground for the second-degree instruction.
 
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Breyer | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reversal and remand | Entire opinion |
-| Dissent | Stevens | No other Justice | Would preserve conditional habeas relief | Capital-culpability basis for the second-degree instruction |
-
-#### Controlling Propositions and Authority
+#### Holdings
 
 ##### Beck does not require creation of a nonincluded offense
 
 **Holding and operative rule.** Beck does not require a capital trial court to instruct on second-degree murder or manslaughter when those offenses are not lesser included offenses of the charged felony murder under Nebraska's governing elements. Its protection against withholding a legally available, evidence-supported lesser included option remains intact, as does independent constitutional review of a genuinely arbitrary exclusion.
 
-**Authority.** Breyer's Opinion of the Court, joined in full by the eight Justices identified above, supplies eight direct votes for this rule and explanation.
+**Authority.** The eight-Justice Opinion of the Court identified above controls this rule and explanation.
 
 **Controlling explanation.** Beck invalidated a capital-only withdrawal of otherwise available lesser included instructions. Nebraska's generally applicable offense definitions present a different question. Felony murder does not require independent proof of intent to kill, and the requested crimes are not included under the State's settled definitions. A less severe punishment does not by itself make a different offense a lawful alternative verdict.
 
@@ -278,19 +271,17 @@ Capital reliability requires the protections Beck actually establishes, includin
 
 #### Separate Writings
 
-Stevens would preserve the conditional habeas relief. He accepts the ordinary state-law distinction between felony murder and second-degree murder but considers a prosecution seeking death materially different. Enmund's intent requirement and Tison's culpability equivalent—major participation in the underlying felony combined with reckless indifference to human life—limit capital punishment. In his view, that capital culpability removes the justification for denying the second-degree alternative in this prosecution. Beck's concern about a jury choosing a capital conviction over acquittal therefore remains substantial. Spaziano's time-barred alternative does not answer that objection. He proposes neither a universal right to instructions on unrelated crimes nor a separate ruling that judicial sentencing is unconstitutional.
-
-#### Mandate, Remedy, and Stage
-
-The Eighth Circuit's conditional habeas judgment is reversed on the reviewed instruction theory and the case remanded. Properly remaining proceedings must respect the nonincluded-offense holding; no other habeas ground or execution schedule is resolved.
+**Justice Stevens, dissenting.** He would preserve the conditional habeas relief. He accepts the ordinary state-law distinction between felony murder and second-degree murder but considers a prosecution seeking death materially different. Enmund's intent requirement and Tison's culpability equivalent—major participation in the underlying felony combined with reckless indifference to human life—limit capital punishment. In his view, that capital culpability removes the justification for denying the second-degree alternative in this prosecution. Beck's concern about a jury choosing a capital conviction over acquittal therefore remains substantial. Spaziano's time-barred alternative does not answer that objection. He proposes neither a universal right to instructions on unrelated crimes nor a separate ruling that judicial sentencing is unconstitutional.
 
 #### Source Notes
 
 The reported facts, Nebraska offense distinction and review posture appear at [524 U.S. 88](https://www.govinfo.gov/content/pkg/USREPORTS-524/pdf/USREPORTS-524-88.pdf). [Spaziano v. Florida, 468 U.S. 447](https://www.govinfo.gov/content/pkg/USREPORTS-468/pdf/USREPORTS-468-447.pdf), supplies the earlier legal-availability discussion. The account of Nebraska law is not a new finding that the jury determined actual intent to kill or a decision on an unpresented presumption challenge.
 
-**End of entry: Hopkins v. Reeves, No. 96-1693, plenary merits decision, June 8, 1998.**
+#### Mandate, Remedy, and Stage
 
----
+The Eighth Circuit's conditional habeas judgment is reversed on the reviewed instruction theory and the case remanded. Properly remaining proceedings must respect the nonincluded-offense holding; no other habeas ground or execution schedule is resolved.
+
+**End of entry: Hopkins v. Reeves, Plenary merits decision, June 8, 1998.**
 
 ---
 
@@ -370,8 +361,6 @@ Plenary merits decision, June 8, 1998
 
 On review of the D.C. Circuit's December 5, 1997 judgment, 130 F.3d 1041, affirming summary judgment sustaining application of ESA section 9(a)(1)(B) to the challenged development projects affecting the Delhi Sands flower-loving fly. The question is whether Congress may prohibit the intrastate taking of an endangered species confined to one State and not traded, based on asserted aggregate effects on interstate commerce. The reviewed applications involve hospital, road and commercial development. The builders seek reversal and declaratory relief against those applications. No separate Supreme Court docket or argument date is established.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
-
 #### Judgment
 
 **Vacated and remanded, 5-4.**
@@ -395,7 +384,7 @@ The lower courts must identify the interstate mechanism actually asserted for th
 | Dissent | Stevens | Souter | Would affirm on the economic-habitat-conversion ground; joins no part of the Court opinion. |
 | Opinion concurring in Parts I and II-A, and dissenting from Parts II-B, III and IV and the judgment | Scalia | Thomas | Joins the class ruling and regime route; rejects the independent externality route and would reverse and remand for confined relief. |
 
-#### Controlling Propositions and Authority
+#### Holdings
 
 Chief Justice Stone-Zsela delivers the Opinion of the Court. Part I is joined by O'Connor, Scalia, Kennedy and Thomas; Part II-A by those four plus Ginsburg and Breyer; Parts II-B, III and IV by O'Connor, Kennedy, Ginsburg and Breyer. Each coalition supplies a majority for the proposition attributed to it below. No narrowest-ground analysis or combination of incompatible rationales supplies authority.
 
@@ -468,7 +457,7 @@ Noneconomic intrastate conduct may fall within federal Commerce authority throug
 
 This decision develops the question Lopez left open and preserves Hale's regime route. It decides no categorical validity or invalidity of intrastate ESA applications. Sweet Home's statutory injury, causation and permission requirements remain intact. The challenged applications require the record-based mechanism inquiry on remand; neither dissent supplies the governing rule or remedy.
 
-#### Separate Positions Relevant to the Decision
+#### Separate Writings
 
 **Kennedy, concurring, joined by O'Connor.** They join both routes, the Government's responsibility and the remand in full. Lopez requires a meaningful distinction between commerce among the States and a general police power. Hale demonstrates one way a local act may be necessary to interstate regulation; American Life League, Robinson and Bird identify other concrete interstate relationships from a prohibition's actual operation. No one mechanism is an exhaustive taxonomy. A substantial burden that escapes ordinary territorial control may have the interstate character the Constitution requires even though the source activity is local and noneconomic.
 
@@ -490,7 +479,7 @@ They reject the independent externality route. A substantial ecological burden t
 
 #### Source Notes
 
-The lower proceedings, project distinctions and separate lower-court analyses are reported in [National Association of Home Builders v. Babbitt, 130 F.3d 1041](https://law.resource.org/pub/us/case/reporter/F3/130/130.F3d.1041.96-5354.html). The substation's existing permit is distinct from the intersection/corridor controversy. The reported abbreviated chronology establishes no independent default or timeliness conclusion. June 8 is the merits date; no separate argument date or Supreme Court docket is established. The absence of trade in the fly does not establish the absence of economic development, and the account establishes no particular interstate purchase or cross-border ecological finding.
+The lower proceedings, project distinctions and separate lower-court analyses are reported in [National Association of Home Builders v. Babbitt, 130 F.3d 1041](https://law.resource.org/pub/us/case/reporter/F3/130/130.F3d.1041.96-5354.html). The substation's existing permit is distinct from the intersection/corridor controversy. The reported abbreviated chronology establishes no independent default or timeliness conclusion. The Court's calendar places the merits decision on June 8; the available chronology establishes no separate argument date or Supreme Court docket. The absence of trade in the fly does not establish the absence of economic development, and the account establishes no particular interstate purchase or cross-border ecological finding.
 
 #### Mandate, Remedy, and Stage
 

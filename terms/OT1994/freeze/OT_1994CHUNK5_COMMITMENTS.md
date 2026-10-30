@@ -760,7 +760,7 @@ The immediately-before-May-8 actual-law release is a reading copy, not new autho
 
 | Source or preserved handoff | SHA-256 |
 |---|---|
-| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md`, complete file bytes | `e401be2d820c28b377565628a078718cbf5dfe96963699487e29fb707c902e44` |
+| `entering-law/OT_1994CHUNK5_BEFORE_1995-05-08.md`, complete file bytes | `95710cd4ee81cab5961e545531b7c2cc214706238a206f8fe97213cccbe63b6d` |
 | Harris section of that release, UTF-8 normalized newlines and one terminal newline | `6fe76438f35121ed26196f13ac8ae5153517afc10e063f3e2c0e6b3ee991aeb2` |
 | Pinson-only section of `runtime/OT_1994CHUNK5_NEUTRAL_C_VALIDATED.md`, from its case heading to the next case heading or EOF, UTF-8 normalized newlines and one terminal newline | `21de1d66c63ad7471cf013d45525349bbed34044b4ac75ea3cae876334d4b615` |
 | `freeze/OT_1994CHUNK5_NEUTRAL_VALIDATION_C.md` | `0f47b5224084ba3ddf048a0b5ecb6020e933aa5103917039608fd0d631404af9` |
@@ -812,10 +812,10 @@ The substantive assessment below is copied mechanically without changes from PRE
 Prior files remain preserved; these SHA-256 values identify file bytes, not Git commits:
 
 - `terms/OT1994/freeze/OT_1994CHUNK5_COMMITMENTS_KANSAS_PRE_REFRESH.md` ? `e599c46349f352010e09598a4e0339f6e0011a5785b339fc8e9b8c4e657f6a20`.
-- `terms/OT1994/runtime/OT_1994CHUNK5_COMMITMENTS_KANSAS_PENDING_PINSON.md` ? `13d9bd4443025ad9926007aa689bf753fa0603d01dc9d0f6cd75c53bf9200515`.
+- `terms/OT1994/runtime/OT_1994CHUNK5_COMMITMENTS_KANSAS_PENDING_PINSON.md` ? `f015fa0ed4092f0fe0769ad7fccb9543e48f6281e1d7c623a7eaf2a5bf1da445`.
 - `terms/OT1994/freeze/OT_1994CHUNK5_KANSAS_ACTUAL_LAW_REVIEW_1995-04-26_PARTIAL.md` ? `fe373c0fc991711f18f824c269822ccebb40b0429011daad749745a7c18f0233`.
 - `terms/OT1994/freeze/OT_1994CHUNK5_KANSAS_TRAVELERS_REVIEW_PARTIAL.md` ? `0e1a9a304e63840732c53292de6276fa306f1906c7498d49bd7c4c60fe533989`.
-- `terms/OT1994/freeze/OT_1994CHUNK5_KANSAS_HARRIS_REVIEW_PARTIAL.md` ? `cebf3d5f15816ae21cbc228fd49c95b4c59aeefb0734e68606daeb5e5b9ae542`.
+- `terms/OT1994/freeze/OT_1994CHUNK5_KANSAS_HARRIS_REVIEW_PARTIAL.md` ? `7c7cba465ab770b41a40b3bec5f7d74f52e9bba3012d68ab1bc3f1979e53c901`.
 - `terms/OT1994/freeze/OT_1994CHUNK5_KANSAS_PINSON_FINAL_REVIEW.md` ? `8fbaea36828280b3c6da003271ff0db4713a8be3351bdf7752a11e08b2958836`.
 
 Final actual-law source: `terms/OT1994/entering-law/OT_1994CHUNK5_BEFORE_1995-05-15.md` ? `bedcecf8a9db546baeb6c8029c0e3fbbc05914336c10350bf6d8010f953c9a71`.
@@ -1242,7 +1242,7 @@ The mechanically incorporated source versions are:
 | SOURCE_REFRESH freeze | `c2f1c205564ae3bd2aa0bda41db9844ddb76b2f11b6f95134656092f464cea75` |
 | April 26 law-refresh freeze | `d41827eb9241e2046029052e90bebcffc67ab89244e48377ef19d4e7f86ece11` |
 | Travelers runtime intermediate note | `e33298173ea45f16384b823a64aaa1857400c470989cf38013dfdec4989ca06f` |
-| Released pre-May-8 actual-law slice, complete bytes | `e401be2d820c28b377565628a078718cbf5dfe96963699487e29fb707c902e44` |
+| Released pre-May-8 actual-law slice, complete bytes | `95710cd4ee81cab5961e545531b7c2cc214706238a206f8fe97213cccbe63b6d` |
 | Harris public section, normalized newlines and one terminal newline | `6fe76438f35121ed26196f13ac8ae5153517afc10e063f3e2c0e6b3ee991aeb2` |
 | Validated Hubbard section 151 supplement | `48640692540e3f94ba1bcb1fb329dee8ed0779e098195f9c652e979004ff587e` |
 | Section 151 validation receipt | `2d74e0b316fd080872135b7565cdffa5761817d9cff802c211ae1d26dd25f33e` |
@@ -1253,7 +1253,7 @@ The offense-date text is drawn only from the bounded Hubbard section of `OT_1994
 
 | Finalization source | SHA-256 |
 |---|---|
-| Preserved `runtime/OT_1994CHUNK5_COMMITMENTS_HUBBARD_PENDING_PINSON.md`, 65,230 bytes | `b357a27a45a8d5bc05172f4608dc2809d108d473d2386d29338693af8220690a` |
+| Preserved `runtime/OT_1994CHUNK5_COMMITMENTS_HUBBARD_PENDING_PINSON.md`, 65,230 bytes | `4e8f91f21ef3517d11e14992e73b5db8fa19f15cb232aac2682b5fdc18176582` |
 | `entering-law/OT_1994CHUNK5_BEFORE_1995-05-15.md`, complete bytes | `bedcecf8a9db546baeb6c8029c0e3fbbc05914336c10350bf6d8010f953c9a71` |
 | Actual Pinson public section in that release, UTF-8 normalized newlines and one terminal newline | `021009273ebf9959ebfcca5a75deac12c0169d28f653daf480f44f7882afe52a` |
 | Hubbard-only validated neutral section through its end marker, UTF-8 normalized newlines without appended newline | `419bd3a2a9e950d4da46a01f697251ffd4e12f2c08a63edb48450ecd9d3d6946` |

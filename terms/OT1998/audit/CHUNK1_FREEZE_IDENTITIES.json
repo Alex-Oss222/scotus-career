@@ -3,7 +3,7 @@
     "case": "Wright",
     "stage": "COMMITMENTS",
     "source": "WRIGHT_COMMITMENTS.md",
-    "sha256": "cc379dafe6d61135283a8954a0c83c0099c7c6c1946941bd9aff695aef1aab8b"
+    "sha256": "91883f8c83592ad2645f2da5c4227663371a32ab811f30efc672e68cfbc464c6"
   },
   {
     "case": "Fraternal Order of Police",
@@ -33,7 +33,7 @@
     "case": "Franklyn / Gonzalez",
     "stage": "COMMITMENTS",
     "source": "FRANKLYN_COMMITMENTS.md",
-    "sha256": "23ee804ac9a985f2b289b7d6e879451f363969efb693693d4457b72e0ea54fe6"
+    "sha256": "c395e3fa1c28efec0d429084fd642e2101c0a8d5b95e639ae791f25f7b0f4464"
   },
   {
     "case": "Griffin / Langley",
@@ -69,13 +69,13 @@
     "case": "Kravitz",
     "stage": "COMMITMENTS",
     "source": "OT_1998CHUNK1_KRAVITZ_COMMITMENTS.md",
-    "sha256": "f8f478664c4c1af1fd25bd89428a03bc65fed41529c85bb94f7419805028627f"
+    "sha256": "faf22b30bf527f5e28b4a215c395c41e73855de69d949548e057415e62a45342"
   },
   {
     "case": "Wright",
     "stage": "RECONCILED",
     "source": "WRIGHT_RECONCILED.md",
-    "sha256": "9de450ad8f037173a613157f1518d4fb0e7bbb73541326e9f7a989c71f44861b"
+    "sha256": "cd2f3c37be643eff3679d40f70109b30a6a3d6a654f406c3bbc15a251d7e8b9d"
   },
   {
     "case": "Fraternal Order of Police",
@@ -99,19 +99,19 @@
     "case": "Peoples Rights Organization",
     "stage": "RECONCILED",
     "source": "PEOPLES_RIGHTS_RECONCILED.md",
-    "sha256": "1da56e5dda0d7e58829dc66bd7b6b09d4306ce733a5778d95e94e55da67c36b5"
+    "sha256": "2d0164da6e7f5fbe530f31c01c1edd035a9f1231159564fcaa1665341ca22fe4"
   },
   {
     "case": "Franklyn / Gonzalez",
     "stage": "RECONCILED",
     "source": "FRANKLYN_RECONCILED.md",
-    "sha256": "56853e622285b52e51e422fa8c473c01ee740cc02b8259b62bd7192107acba55"
+    "sha256": "42c1dc18d0296c5799cdbb22fb71ff6c99db0260367c3d430918bb934f6237a5"
   },
   {
     "case": "Griffin / Langley",
     "stage": "RECONCILED",
     "source": "GRIFFIN_RECONCILED.md",
-    "sha256": "54e4504e0702ffc03dd6326dbcd5ae3b236e6246850b4076ea5540c83286aafb"
+    "sha256": "55fb71e8fe7a0fcbfbcf2341660e0d2ca632f5364646acfff1732919f0772727"
   },
   {
     "case": "Marquez",
@@ -141,6 +141,6 @@
     "case": "Kravitz",
     "stage": "RECONCILED",
     "source": "OT_1998CHUNK1_KRAVITZ_RECONCILED.md",
-    "sha256": "48194a865b34503d6b7661dcc1424542d849277d5b39df464eea01964c5ce5af"
+    "sha256": "8ddc6dc0b78db1778eb592782631f2a89e69220d68ee809abc616a3943bdafff"
   }
 ]

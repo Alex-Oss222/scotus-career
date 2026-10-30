@@ -12,11 +12,11 @@ Fresh recounts read actual opinion tables before each assignment. Form was decid
 
 | Assignment | Counts before: Stone-Zsela / Stevens / O’Connor / Scalia / Kennedy / Souter / Thomas / Ginsburg / Breyer | Last counted | Author | Credits after |
 |---|---|---|---|---:|
-| Pearson | 13 / 11 / 12 / 11 / 11 / 11 / 11 / 11 / 12 | gebser_v_lago_vista_independent_school_district_merits_1998-06-22.md | Ginsburg | 104 |
-| Scott | 13 / 11 / 12 / 11 / 11 / 11 / 11 / 12 / 12 | pearson_v_hines_merits_1998-06-22.md | Souter | 105 |
-| Bajakajian | 13 / 11 / 12 / 11 / 11 / 12 / 11 / 12 / 12 | pennsylvania_board_of_probation_parole_v_scott_merits_1998-06-22.md | Thomas | 106 |
-| Schacht | 13 / 11 / 12 / 11 / 11 / 12 / 12 / 12 / 12 | united_states_v_bajakajian_merits_1998-06-22.md | Thomas; excluded threshold | 106 |
-| Swidler | 13 / 12 / 13 / 12 / 12 / 12 / 12 / 12 / 13 | national_endowment_for_the_arts_v_finley_merits_1998-06-25.md | Stevens | 112 |
+| Pearson | 13 / 11 / 12 / 11 / 12 / 11 / 11 / 11 / 12 | Gebser | Ginsburg | 105 |
+| Scott | 13 / 11 / 12 / 11 / 12 / 11 / 11 / 12 / 12 | Pearson | Souter | 106 |
+| Bajakajian | 13 / 11 / 12 / 11 / 12 / 12 / 11 / 12 / 12 | Scott | Thomas | 107 |
+| Schacht | 13 / 11 / 12 / 11 / 12 / 12 / 12 / 12 / 12 | Bajakajian | Thomas; excluded threshold | 107 |
+| Swidler | 13 / 11 / 12 / 11 / 12 / 12 / 12 / 12 / 12 | Bajakajian | Stevens | 108 |
 
 Each Record identifies all eligible authors, the minimum-plus-one pool, the actual fit comparison and assignment authority. Bajakajian’s full-opinion author eligibility excludes Stone because he has no approved join in the standalone appellate-review rationale; five affirming Associates can carry every part. Its one author receives one credit.
 

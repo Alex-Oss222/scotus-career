@@ -81,10 +81,10 @@ The federal constitutional action ends with affirmance of dismissal. No injuncti
 Research cutoff: 1997-04-28; only date-eligible law and event facts support the decision. Authorized frozen neutral/reconciled packets, the matching law slice and the exact released Stone extract supply this assembly. No raw comparator, later Stone extract, original brief or top-level Stone directory was read. An earlier form inspection exposed Metropolitan's completed-case Stone and audit sections beyond the intended opinion-table/assignment-only boundary; the limitation is disclosed and neither supplies law nor changes any present commitment. The non-Stone freezes preceded all Stone disclosure and remain unmodified. Historical and scheduling source limits are retained in the event-specific audit and public source notes. The opinion form and propositions were fixed before the fresh count and author choice; final joins preserve the frozen positions. Local checks verify the four labels, eleven ordered blocks, opinion author and explanation ceilings. Coordinated workspace and term validation remain the integrating operator's work; this Record does not claim they have already occurred. Durable original file: `records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md`.
 
 - `freeze/OT_1996CHUNK7_75_NEUTRAL.md` — SHA-256 `28d1466d53b3e3ec4b738c00270d63e8d8477b2838a32886b005ff0555ae15c2`.
-- `freeze/OT_1996CHUNK7_75_RECONCILED.md` — SHA-256 `ef4ef3e34b94a94cea3d0b8f4c77e29641bfdfa934bd9487d263287de8c957e0`.
+- `freeze/OT_1996CHUNK7_75_RECONCILED.md` — SHA-256 `73f7983f487726e505ce9bb8cf00d4c14e20633431eb14430f87d478aea42612`.
 - `runtime/OT_1996CHUNK7_75_STONE.md` — SHA-256 `2ca2e07ef2ded37a2e38ae625c5708e1251da9f6a0a971c3ea6f49c0e3b33a89`.
-- `entering-law/OT_1996CHUNK7_75_ENTERING_LAW.md` — SHA-256 `0f1ceba7e85a5b52f1ad5defea16876f03d5043d010f4c01ccbfb2e12765f1d2`.
-- `freeze/OT_1996CHUNK7_75_ASSIGNMENT_RECOUNT.json` — SHA-256 `661883644c9fc56129e5bd0a57a44f0ee951ffbaae4669ba6668f24da649d9dd`.
+- `entering-law/OT_1996CHUNK7_75_ENTERING_LAW.md` — SHA-256 `dad0d0ea4f287233e7b362a4df1fe75362afda837f83c3331d715ad07eae9fa3`.
+- `freeze/OT_1996CHUNK7_75_ASSIGNMENT_RECOUNT.json` — SHA-256 `a6c96900353abd843e3943a20635441a4d4420697584609c5d18fb4237f7cd98`.
 
 ## Public Projection
 

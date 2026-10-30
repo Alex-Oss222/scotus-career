@@ -212,7 +212,7 @@ The seven others find no trial error on the claims decided and therefore neither
 
 ---
 
-<!-- frozen-source: OT_1995CHUNK3_RESUMED_HALE_COMMITMENTS.md; sha256: 5c142f0b1da62464282e42f0ddcc1d2ebaa4a21a35f8a19be397f25f850c0eda -->
+<!-- frozen-source: OT_1995CHUNK3_RESUMED_HALE_COMMITMENTS.md; sha256: d2f528fcc7c59d374e52db9f7c3e8eb5ab57162aa7194ff1ad920c557302dd7c -->
 # United States v. Hale — independent non-Stone commitments
 
 **Event:** Expressly assigned merits review, February 12, 1996; Eighth Circuit No. 91-3830, 978 F.2d 1016. No separate Supreme Court docket or argument date is supplied.

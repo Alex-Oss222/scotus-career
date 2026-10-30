@@ -319,9 +319,7 @@ Merits decision, April 28, 1997
 
 #### Chronology and Posture
 
-Pic-A-State Pennsylvania, Inc. v. Reno; review of Third Circuit No. 95-7137, 76 F.3d 1294 (February 13, 1996). Argued December 4, 1996; decided April 28, 1997. On writ of certiorari to the United States Court of Appeals for the Third Circuit under 28 U.S.C. §1254(1). Pic-A-State seeks declaratory and prospective injunctive relief against the Interstate Wagering Amendment to 18 U.S.C. §1301. The questions are whether the stopped procurement business presents a concrete pre-enforcement controversy, whether Congress may regulate its interstate procurement transmissions although the tickets remain in another State, and what effect the express interstate-agreement exception has on the dormant Commerce Clause objection.
-
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+Review of Third Circuit No. 95-7137, 76 F.3d 1294 (February 13, 1996). Argued December 4, 1996. On writ of certiorari to the United States Court of Appeals for the Third Circuit under 28 U.S.C. §1254(1). Pic-A-State seeks declaratory and prospective injunctive relief against the Interstate Wagering Amendment to 18 U.S.C. §1301. The questions are whether the stopped procurement business presents a concrete pre-enforcement controversy, whether Congress may regulate its interstate procurement transmissions although the tickets remain in another State, and what effect the express interstate-agreement exception has on the dormant Commerce Clause objection.
 
 #### Judgment
 
@@ -333,7 +331,7 @@ The denial and dismissal of the requested federal declaratory and prospective in
 
 #### Opinion Topology
 
-Justice Kennedy delivers the opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. All nine join the entire opinion, including all three holdings and their qualifications. No separate writing is filed.
+Justice Kennedy delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer. The unanimous opinion supplies all three holdings and their qualifications.
 
 #### Controlling Propositions and Authority
 

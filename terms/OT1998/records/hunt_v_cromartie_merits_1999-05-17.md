@@ -19,13 +19,9 @@ Stevens, Souter, Ginsburg and Breyer join Parts I–III in full. O'Connor, Scali
 
 ## Form, assignment and final opinion table
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Form before count: One signed opinion after plenary direct review: a common summary-judgment portion; a majority constitutional and remand portion; one partial concurrence stating the competing constitutional rule and remand.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
-
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 78 leads before this assignment.
+**Counted lead opinion:** Yes; one signed lead after plenary direct review.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -39,15 +35,9 @@ The actual counted source opinions yield 78 leads before this assignment.
 | Ginsburg | 8 |
 | Breyer | 9 |
 
-**Last counted event:** Florida v. White; No. 98-223; judgment below, 710 So. 2d 949. 1999-05-17; author Thomas; [Record](florida_v_white_merits_1999-05-17.md).
+Fresh receipt: [Hunt recount](../freeze/OT_1998CHUNK8_HUNT_RECOUNT.json), 78 counted leads. **Last event counted:** Florida v. White; No. 98-223; judgment below, 710 So. 2d 949. (1999-05-17), Thomas; [Record](florida_v_white_merits_1999-05-17.md). Goldsmith and White now enter; later-alphabetical Saenz does not.
 
-**Eligible authors for the complete lead:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. **Chosen author:** Ginsburg.
-
-**Fit:** Her Johnson and Coalition positions preserve the distinction between a district's composition and a concrete political-access disability, which this opinion must explain without inventing either a new claim or forfeiture. No necessary accommodation depends on changing an Associate's commitment; Stone's personal attachment to the governing position supplies no additional authorship preference. One eligible author can carry every part, so division of authorship is unnecessary.
-
-The complete lead counts once for Ginsburg; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** [Hunt recount](../freeze/OT_1998CHUNK8_HUNT_RECOUNT.json).
+**Assignment authority:** Chief Justice Stone-Zsela, in both the unanimous vacatur and five-member governing-remand coalitions. **Eligible complete-opinion authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. **Author chosen:** Ginsburg. Her Johnson and Coalition positions preserve the distinction between a district's composition and a concrete political-access disability, which this opinion must explain without inventing either a new claim or forfeiture. Stone and Stevens have the same lower count and can carry the ground, but Ginsburg offers the direct fit for articulating that precise legal distinction and bounded remand. No necessary accommodation depends on changing an Associate's commitment; Stone's personal attachment to the governing position supplies no additional authorship preference. One eligible author can carry every part, so division of authorship is unnecessary.
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

@@ -17,13 +17,9 @@ Stone's approved Section II directs reversal and dissolution because the adminis
 
 ## Form, assignment and final opinion table
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Form before count: One signed unanimous opinion after plenary review, with one statutory-jurisdiction holding and no additional adequacy-of-other-remedies holding.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
-
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 76 leads before this assignment.
+**Counted lead opinion:** Yes; signed lead after plenary review.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -37,15 +33,9 @@ The actual counted source opinions yield 76 leads before this assignment.
 | Ginsburg | 8 |
 | Breyer | 9 |
 
-**Last counted event:** Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293. 1999-05-13; author Souter; [Record](pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md).
+Fresh recount: [Goldsmith receipt](../freeze/OT_1998CHUNK8_GOLDSMITH_RECOUNT.json); 76 counted leads, from actual Record opinion tables with effective-date and same-date alphabetical filtering. **Last event counted:** Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293. (1999-05-13), Souter; [Record](pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md). The later-alphabetical May 17 Saenz opinion is excluded; no existing assignment is reopened.
 
-**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Chosen author:** Kennedy.
-
-**Fit:** His McBryde and Your Home reasoning performs the needed distinction between review authority, an auxiliary remedy and the underlying claim. No expansion accommodation or invented drafting exchange is needed.
-
-The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
-
-**Count evidence:** [Goldsmith receipt](../freeze/OT_1998CHUNK8_GOLDSMITH_RECOUNT.json).
+**Assignment authority:** Chief Justice Stone-Zsela, in the unanimous judgment coalition. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Author chosen:** Kennedy. His McBryde and Your Home reasoning performs the needed distinction between review authority, an auxiliary remedy and the underlying claim. Stone's matching jurisdictional distinction makes him eligible, but Kennedy can carry the settled ground equally faithfully at the same count. No expansion accommodation or invented drafting exchange is needed. O'Connor is fully eligible but outside the balance pool.
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

@@ -6,17 +6,17 @@
   "records": [
     {
       "file": "american_airlines_inc_v_tice_merits_1999-06-10.md",
-      "sha256": "be0e52a4f8f4681e2a202781ff992d643c990bb8ac9ee6323ed73452abedd065",
+      "sha256": "2b9f6754aadbc44e344c6ff28293e0a193789a12f9a8513f61f47ad147be0bb2",
       "public_words": 903
     },
     {
       "file": "amoco_production_co_v_southern_ute_indian_tribe_merits_1999-06-07.md",
-      "sha256": "ca44234f005b4152ee950d4f58136a7e7d82285193ea81aaf95954dfcd3708a5",
+      "sha256": "085dfc2474ed6d6e74ffa60d6b535ad6f07d6be11953035fdf227a4dd5998c39",
       "public_words": 1348
     },
     {
       "file": "bruneau_v_south_kortright_central_school_district_merits_1999-06-03.md",
-      "sha256": "9157bec0bca2ec8d729515d209eaae19f3ede11584776636aa2c4fda78e165ca",
+      "sha256": "0c5ede176a513e8d6243af64887a702fc469e15b4f02eb179b2afcc2765c3841",
       "public_words": 1690
     },
     {
@@ -26,12 +26,12 @@
     },
     {
       "file": "cunningham_v_hamilton_county_merits_1999-06-14.md",
-      "sha256": "19b6613afac1281d3117e69ee0b5384b9289e02beefca3a09b27a1feb8d44956",
+      "sha256": "435eca976d52193ab337e5d064bd1c7c7de5b698fc33c88b16205d6f7f7e173c",
       "public_words": 1026
     },
     {
       "file": "dickinson_v_zurko_merits_1999-06-10.md",
-      "sha256": "41a6de7b0542f997f774d0569f4c369e48366ef671d2f8f231a360968165428b",
+      "sha256": "b1f8947623fa2443affa73422b58a7a6e5acb81c0670d495d02442a7be2ba370",
       "public_words": 935
     },
     {
@@ -41,27 +41,27 @@
     },
     {
       "file": "lilly_v_virginia_merits_1999-06-10.md",
-      "sha256": "c50a42966eac5ce6cb9543e35f990b3d93baafc1cc1636dbe1f7d0978da4f357",
+      "sha256": "a211f49e223198776db7a73146f3b6afbcddde2716bf0db64728a26136709915",
       "public_words": 1772
     },
     {
       "file": "neder_v_united_states_merits_1999-06-10.md",
-      "sha256": "e8a3fa98b59aef66f9df89d3d88786b8bebca00219865557d505d62afa8de09f",
+      "sha256": "5202a585cce091c3bfa74fc9184428007c2f622cec9bc43e82692985b10cf139",
       "public_words": 4063
     },
     {
       "file": "osullivan_v_boerckel_merits_1999-06-07.md",
-      "sha256": "029444c37d8210d2e1287acba7ee5f1c378a527ca124ee93a38d719629fe86f4",
+      "sha256": "b10cb006aff7ec6e920af4aa4ff08dc5175478093f9f58a4c13db7da8bcdc4ac",
       "public_words": 1926
     },
     {
       "file": "reno_v_goncalves_merits_1999-06-03.md",
-      "sha256": "2c13a3dda924c6f30fab3996dc8967d7d347786dc0b36de1df03bfa05898bac1",
+      "sha256": "3679ed49bd5e95bae2bcecac47d5b78ff71a907311c93b9896b2e789ac939b67",
       "public_words": 1983
     },
     {
       "file": "richardson_v_united_states_merits_1999-06-01.md",
-      "sha256": "10c8b39321bbe4a24094d973f3c472d694c4b5bb3a8fc461c4cf79b8939eaa7b",
+      "sha256": "f27301802e1d6b200abe77674dc31dd083baf73ca77d26c625b9f3fc1ed2f31c",
       "public_words": 1365
     }
   ],

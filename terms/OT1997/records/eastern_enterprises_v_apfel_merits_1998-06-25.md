@@ -93,13 +93,23 @@ Research cutoff: June 25, 1998. Historical reported facts, prior effective law a
 
 Form was fixed before counting: one signed opinion announcing the judgment on the three-Justice contextual takings ground; one Kennedy opinion concurring in the judgment, with a distinct property section and a due-process section; and one dissent stating the four affirmers' complete grounds. The lead's constitutional ground is supported by O'Connor, Scalia and Thomas. All three can deliver it in full; Stone and Kennedy cannot because they do not join its takings or compensation-channel analysis. Stone participates in the reversing judgment and assigns the lead under §8. No multiplication of lead authors or artificial division changes the count. The independent five-Justice negative Takings proposition is identified across writings, without pretending those Justices agree on the judgment.
 
-Before assignment, the chronological census of signed plenary merits lead opinions is: Stone-Zsela 13; Stevens 12; O'Connor 12; Scalia 12; Kennedy 12; Souter 12; Thomas 12; Ginsburg 12; Breyer 12. Total counted leads: 109. Last counted event: Diamondstone v. Macaluso, No. 97-7216 below; no separate Supreme Court docket established, 1998-06-25 (Scalia). Same-date opinions are counted in alphabetical case-name order; their independent substantive-law baselines remain unchanged.
+**Assignment recount:** Recounted immediately before this assignment from actual current-term lead-opinion tables, through the inventory rebuilt by `python -B tmp/chunk12_assignment_inventory.py`; prior numeric assignment statements are not sources. The thirteen signed threshold exclusions, including Aktepe, remain excluded under their actual forms.
 
-Eligible complete-lead authors: O'Connor, Scalia, Thomas. Lowest eligible count: 12. Balance pool: O'Connor, Scalia, Thomas. The Chief's balanced-assignment rule governs the complete opinion, including any separately assigned Associate component.
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 13 |
+| Stevens | 12 |
+| O'Connor | 12 |
+| Scalia | 12 |
+| Kennedy | 12 |
+| Souter | 12 |
+| Thomas | 12 |
+| Ginsburg | 12 |
+| Breyer | 12 |
 
-Chosen author: O'Connor. Her Concrete Pipe position and actual Carlton warning about substantially longer retrospective burdens support precision about remoteness without importing a fixed deadline. The selection does not combine distinct constitutional grounds or manufacture a controlling rationale.
+Total credits: 109. Last counted event: Diamondstone v. Macaluso, No. 97-7216 below; no separate Supreme Court docket established. 1998-06-25 (diamondstone_v_macaluso_merits_1998-06-25.md). Eligible full-lead authors: O'Connor, Scalia, Thomas. Lowest eligible count: 12. Balance pool (minimum plus one): O'Connor, Scalia, Thomas. Chosen author: O'Connor. O'Connor is selected from the equally counted eligible group for fit with the complete contextual taking analysis and bounded equitable remedy. Her Concrete Pipe position and actual Carlton warning about substantially longer retrospective burdens support precision about remoteness without importing a fixed deadline. Scalia and Thomas are fully eligible alternatives; their due-process objections are preserved and no reason excludes them. The selection does not combine distinct constitutional grounds or manufacture a controlling rationale.
 
-The final judgment has Stone, O'Connor, Scalia, Kennedy and Thomas for bounded reversal; Stevens, Souter, Ginsburg and Breyer for affirmance. O'Connor, Scalia and Thomas adopt the same contextual takings and equitable-channel propositions. Kennedy's due-process rationale has Stone's supported join. Kennedy's property section and the four dissenters directly agree on the same antecedent proposition: unspecified general payment liability appropriates no particular property interest. The two invalidating rationales are not logical subsets: each may invalidate a liability the other would sustain, and the three takings proponents do not adopt Kennedy's due-process rule. Marks supplies no controlling affirmative invalidity rationale.
+The final judgment has Stone, O'Connor, Scalia, Kennedy and Thomas for bounded reversal; Stevens, Souter, Ginsburg and Breyer for affirmance. O'Connor, Scalia and Thomas adopt the same contextual takings and equitable-channel propositions. Kennedy's due-process rationale has Stone's supported join. Kennedy's property section and the four dissenters directly agree on the same antecedent proposition: unspecified general payment liability appropriates no particular property interest. Stone is not counted there. The two invalidating rationales are not logical subsets: each may invalidate a liability the other would sustain, and the three takings proponents do not adopt Kennedy's due-process rule. Marks supplies no controlling affirmative invalidity rationale.
 
 | Justice | Frozen ground, final join and historical reconciliation |
 |---|---|

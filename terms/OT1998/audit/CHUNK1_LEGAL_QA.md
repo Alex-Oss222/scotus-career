@@ -26,4 +26,4 @@ Peoples Rights retains its notice and classification decisions. Franklyn/Gonzale
 
 ## Mechanical findings
 
-The six Public Projections and generated input match; opinion rationale coalitions remain distinct from disposition votes. All controlling explanations are within 350 words. Internal duplicated holdings match the public Holdings blocks. Event labels are identical to the baseline; twelve events remain in the same order. Unaffected rendered entries are byte-identical. The separate full-term assignment audit leaves Haggar, Morales and Greater New Orleans Broadcasting unresolved without writing an author or result change; the manifest gives their exact blockers. Git verification remains deferred by instruction.
+The six Public Projections and generated input match; opinion rationale coalitions remain distinct from disposition votes. All controlling explanations are within 350 words. Internal duplicated holdings match the public Holdings blocks. Event labels are identical to the baseline; twelve events remain in the same order. Unaffected rendered entries are byte-identical. Git verification remains deferred by instruction.

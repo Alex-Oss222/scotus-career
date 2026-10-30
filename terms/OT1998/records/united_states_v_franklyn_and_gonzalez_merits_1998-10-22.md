@@ -11,11 +11,11 @@ The user-authorized grant and October 22 placement supply review under 28 U.S.C.
 
 The complete published appellate source and its footnotes establish the bounded findings under section 14.2. No independent transcript, PSR or strike explanations are claimed recovered. Their absence creates neither litigant default nor a missing ultimate finding where the supported published account expressly reports one. The frozen official Guidelines check supplies the offender-characteristic qualification; it creates no unpreserved claim. Further juror-specific reconstruction or a new offender-characteristic claim would require its actual source and the affected-stage return, not inference.
 
-## Stone's fixed core and compatibility
+## Stone's fixed core, citation correction and compatibility
 
 Only this case's section of [the current Stone handoff](../runtime/OT_1998CHUNK1_STONE.md) was read after root confirmed the physical clean reconciliation freeze. The approved disposition affirms the consolidated judgments on the stated grounds, with each appellant separate and no new trial or resentencing on the reported record. His core supplies the stock mechanism, the genuine ultimate discrimination condition and associated prejudice ground, and the bounded joint-conduct, discharge and explained-history grounds. The exact transcript limitation remains both here and in his published concurrence.
 
-The historical Purkett reference in that supplement is not current authority: no adoption is established, and the actual lower opinion relies on Batson and Hernandez. It supplies no ground for the decision. The approved legal proposition—that facial neutrality cannot replace a genuine ultimate discrimination finding—remains fully preserved under those eligible authorities. No changed burden, judgment, remedy or essential reasoning is supplied; this does not require reapproval. The published source expressly reports the ultimate finding, satisfying rather than bypassing Stone's condition. Earlier current-term decisions add no conflicting controlled premise.
+The historical Purkett reference in that supplement is not current authority: no adoption is established, and the actual lower opinion relies on Batson and Hernandez. It is omitted as a nonoperative citation correction only. The approved legal proposition—that facial neutrality cannot replace a genuine ultimate discrimination finding—remains fully preserved under those eligible authorities. No changed burden, judgment, remedy or essential reasoning is supplied; this does not require reapproval. The published source expressly reports the ultimate finding, satisfying rather than bypassing Stone's condition. Earlier current-term decisions add no conflicting controlled premise.
 
 **Standing fallback:** Gonzalez's separately preserved section 922(g) commerce claim is not expressly addressed by Stone's machinegun-commerce issue; the fallback supplies concurrence in its disposition and no ground. The distinct C8 other-trial-evidence and within-range-selection components likewise receive only the fallback disposition, without attributing the Court's evidence rule or a flight rationale to him. His express sentence affirmance already fixes the overall result; the fallback supplies no additional reason or new enhancement. His stated joint-activity, discharge and history grounds govern C5-C7 and are not replaced by fallback.
 
@@ -62,7 +62,7 @@ All eight Associates retain C1-C8 and the complete frozen strongest alternatives
 
 The earlier reconciliation context encountered a Section II sentence in the original comparator and was discarded before a final reconciliation or Record. A fresh clean child received the scoped frozen inputs and sanitized comparator and wrote the authoritative FRANKLYN_RECONCILED.md; root confirmed its physical freeze before this assembly opened Stone. No earlier contaminated conclusions supply a vote or join here. Neutral modeling remained separate. This is an internal repair only and appears nowhere in the public section.
 
-Kennedy authored Koon, and O'Connor joined the pertinent propositions. Those writings support the commitments at the scope identified above.
+The clean reconciliation corrects the commitments' nonmaterial phrase calling Koon O'Connor's opinion: Kennedy authored it; O'Connor joined the pertinent propositions. That source-attribution correction changes no legal premise or commitment. The original frozen commitments remain unchanged, and the actual attribution is used throughout this Record.
 
 No historical Supreme Court merits comparator exists. The Second Circuit affirmance supplies lower-court context and supported findings, not eight Supreme Court votes or historical authorship. No Justice-specific historical departure or later-case consequence is invented. Final compatibility establishes the unchanged joins without fictional draft exchanges. No Marks rule is needed.
 
@@ -72,7 +72,7 @@ The [validation receipt](../freeze/FRANKLYN_ASSEMBLY_VALIDATION.md) records actu
 
 ## Pre-validation completeness clarification
 
-Part V states section 1B1.3(a)(1)'s offense-connection condition and applies it to the contemporaneous episode; the [validation receipt](../freeze/FRANKLYN_COMPLETENESS_VALIDATION.md) verifies that scope. Part II includes section 922(d)(1)'s supplier knowledge-or-reasonable-cause condition, as verified in the [supplier-condition receipt](../freeze/SUPPLIER_CONDITION_VALIDATION.md).
+Final QA made the existing section 1B1.3(a)(1) offense-connection condition explicit in Part V; the contemporaneous episode already supplies its application. The frozen commitments, grounds, votes, author and remedies are unchanged. This is a completeness repair before final chunk validation, not a change to an earlier completed Run. See [validation receipt](../freeze/FRANKLYN_COMPLETENESS_VALIDATION.md). Final QA also states section 922(d)(1)'s exact supplier knowledge-or-reasonable-cause condition in Part II; see the [joint supplier-condition receipt](../freeze/SUPPLIER_CONDITION_VALIDATION.md).
 
 ## Public Projection
 

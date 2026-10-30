@@ -29,14 +29,6 @@ The actual earlier-event law and [pre-May24 dependency review](../freeze/OT_1998
 **Historical departure:** Stevens accepts limited vacatur of the reviewed undifferentiated official-media determination while continuing to deny immunity for a supported unauthorized physical media intrusion. His own Carter and Redmon commitments now require separation of personal interest, actual intrusion and conditional remedies, supporting that limited procedural correction rather than an undifferentiated affirmance; those intervening premises do not change his physical-entry fair-notice conclusion. The seven immunity supporters retain their reconciled substantive positions. The Chief's separate fixed disposition remains distinct.
 ## Assignment and final compatibility
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
-
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
-
-**Assignment authority:** Stevens assigns the common constitutional and bounded-vacatur portions; O'Connor assigns the distinct immunity-direction portion. Stone-Zsela opposes those dispositions and assigns neither. These Associate assignments are not bound by the Chief's compulsory balance-pool rule.
-
-The actual counted source opinions yield 85 leads before this assignment.
-
 | Justice | Count before assignment |
 |---|---:|
 | Stone-Zsela | 8 |
@@ -49,13 +41,13 @@ The actual counted source opinions yield 85 leads before this assignment.
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-**Last counted event:** Davis v. Monroe County Board of Education; No. 97-843. 1999-05-24; author Ginsburg; [Record](davis_v_monroe_county_board_of_education_merits_1999-05-24.md).
+Last counted event: Davis v. Monroe County Board of Education; No. 97-843. (1999-05-24), Ginsburg; `davis_v_monroe_county_board_of_education_merits_1999-05-24.md`. The recount was made afresh from actual prior Record opinion tables in effective-date/caption order.
 
-**Eligible authors for the complete lead:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Illustrative within-one group:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 9, ceiling 10. **Chosen author:** O'Connor.
+Stevens, the most senior Associate in the eight-vote minimum-vacatur coalition, assigns the common constitutional and bounded-vacatur portions to O'Connor. O'Connor, the most senior Justice in the distinct seven-vote immunity-direction coalition, assigns that portion to herself. The Chief opposes both removal of the reviewed denial and the immunity direction, so assigns neither; agreement with a constitutional proposition does not place him in those judgment coalitions. Stevens cannot assign the immunity portion he rejects. The eligible authors for the complete lead are O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, each joining all lead propositions; Stevens's eligibility is limited to the common portions and the Chief is not a full-lead candidate. These Associate assignments are not bound by the Chief's balance-pool rule. There is no mandatory pool; all seven full-lead candidates would in any event fall within one of their minimum count of nine.
 
-**Fit:** O'Connor's own Redmon opinion separates actual protected space from access assumptions and her Hunter commitment supplies a legal immunity decision on the owners' favorable version. Those are the distinct tasks requiring coordination here. Stevens can entrust her with the shared actual-space correction without endorsing her immunity answer; his own concurrence expressly preserves that refusal. For the immunity portion, O'Connor's supported-record distinction gives concrete fit for avoiding a factual rejection of the Bergers' case. Scalia's Anderson framework is a strong alternative, but the specific overlap of actual-space correction and favorable-record immunity supports one coherent lead by O'Connor. No historical author or per-curiam form is transferred.
+O'Connor's own Redmon opinion separates actual protected space from access assumptions and her Hunter commitment supplies a legal immunity decision on the owners' favorable version. Those are the distinct tasks requiring coordination here. Stevens can entrust her with the shared actual-space correction without endorsing her immunity answer; his own concurrence expressly preserves that refusal. For the immunity portion, O'Connor's supported-record distinction gives concrete fit for avoiding a factual rejection of the Bergers' case. Scalia's Anderson framework is a strong alternative, but the specific overlap of actual-space correction and favorable-record immunity supports one coherent lead by O'Connor. No historical author or per-curiam form is transferred.
 
-The complete lead counts once for O'Connor; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+All nine join Parts I–II's bounded protected-space and actual-interest propositions. Seven Associates join Part III's immunity rule. All eight Associates join Part IV's minimum partial vacatur and unreviewed-claim boundary, with Stevens expressly refusing the immunity direction. The Chief withholds Parts III–IV because his fixed disposition affirms the reviewed denial of immunity; he publishes his separate remand position. No change to a non-Stone commitment is made, and no one infers agreement on immunity from the common appellate verb. Stevens's own separate position requires no additional join by Stone because their formal remedies differ.
 
 ## Adaptive audit annex
 

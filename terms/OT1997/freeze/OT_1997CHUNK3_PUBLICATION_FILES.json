@@ -125,7 +125,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_AFTER_INTERIM_STARTING_HASHES.json",
       "bytes": 59188,
-      "sha256": "aa8a13c96fefbf137ee29d9a574fd56e9d241ca35d5785ee94c6f9e097944804"
+      "sha256": "44d69eb2752073eb0954dcc9699b97bbb5728a3e940ba5fccb8906d0c8a03f85"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_ALEXANDER_EXPOSURE_RECEIPT.md",
@@ -505,7 +505,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_INTERIM_RENDER_FIDELITY_RECEIPT.json",
       "bytes": 4633,
-      "sha256": "b3b641cd26f5cb7d92ed1cebe4f393746cd78e371e0c25a86c1cf17db73cab04"
+      "sha256": "d5f296f10be92ba362d2cfaacff75f3a8549e8d3cdc4b102f948dfa91d29d805"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_INVENTORY_SUPPLEMENT.md",
@@ -695,7 +695,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_PRESERVATION_CHECK.json",
       "bytes": 1371,
-      "sha256": "91fab5e0a1946c4988db41d7b0ee5a59d701e0dde9f781f121826ef472b8c2d6"
+      "sha256": "9a075ef8928fc9e26b32ea1c0d75ec22e3bf86a3db1f108a1986b643637e4886"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_PRE_RENDER_CHECK.json",
@@ -1140,7 +1140,7 @@
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_STARTING_HASHES.json",
       "bytes": 59037,
-      "sha256": "fdf1d04cb04c285c52346bc686e9249eb4e6a60301f5e15881a7288ddcfb4427"
+      "sha256": "dd9706732f4f741cb7bd4bb42c5e38972f473a03c29559b76268e0481391b8f9"
     },
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK3_STOPPED_MATTERS.json",
@@ -2350,7 +2350,7 @@
     {
       "path": "terms/OT1997/workspace/ledger.md",
       "bytes": 22028,
-      "sha256": "c1c1469009c563e7e02a9731d4a43a1048abbab38f9ec992e9f556ff3451313a"
+      "sha256": "4985f988a2e9cc1f151d602ca902897121746f5ceca62fab3c1c1323f46fa82b"
     },
     {
       "path": "terms/OT1997/workspace/manifest.md",

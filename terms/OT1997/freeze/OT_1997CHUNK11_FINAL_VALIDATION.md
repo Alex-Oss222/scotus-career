@@ -17,7 +17,7 @@ The generated [Render Input](../render-inputs/OT_1997CHUNK11.md) copies the boun
 
 ## Opinion assignment
 
-Form was fixed before each count and author selection. Fresh counts came from actual prior and earlier-in-Run opinion tables. June 22 order was Caron, Gebser, Pearson, Pennsylvania Board of Probation and Parole v. Scott, United States v. Bajakajian, Wisconsin Department of Corrections v. Schacht; an initial control ordering mistake was corrected before any affected assignment or Record. Forney, Hohn and Schacht are signed threshold dispositions excluded from merits credits, while their assignments still apply section 8. Chunk 11 supplies nine counted opinions. The full chronological census through Swidler, including the preceding June 25 merits opinions, totals 112 credits. The independent review records each assignment and the final per-Justice totals.
+Form was fixed before each count and author selection. Fresh counts came from actual prior and earlier-in-Run opinion tables. June 22 order was Caron, Gebser, Pearson, Pennsylvania Board of Probation and Parole v. Scott, United States v. Bajakajian, Wisconsin Department of Corrections v. Schacht; an initial control ordering mistake was corrected before any affected assignment or Record. Forney, Hohn and Schacht are signed threshold dispositions excluded from merits credits, while their assignments still apply section 8. Nine counted opinions were added, producing 108 credits. The independent review records each assignment and the final per-Justice totals.
 
 ## Isolation and substantive limits
 

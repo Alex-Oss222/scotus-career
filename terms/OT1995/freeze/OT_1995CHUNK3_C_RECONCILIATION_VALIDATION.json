@@ -10,16 +10,16 @@
   ],
   "mode": "isolated-context historical reconciliation with disclosed Sherman comparator exposure; Sherman excluded",
   "freeze": "filesystem only; no Git commands or subprocesses",
-  "reconciled_sha256": "15b5d8886f370f294c72284cb9e7b77b884d88b45e92129a2cc8cd3d189458d9",
+  "reconciled_sha256": "6b5d45e7fd6a49e7edf334d2d38d24df0044b8840dcdb1d15728fd6b8442b352",
   "runtime_identical": true,
   "input_sha256": {
-    "freeze/OT_1995CHUNK3_C_COMMITMENTS.md": "94d431b60804e9623f6041f53fb6d37c92e56091f94fb90dca4ca4a5c3cc88bd",
+    "freeze/OT_1995CHUNK3_C_COMMITMENTS.md": "f8dec64323c0dfd102bbe62deec0147e47d64b35c659d59b0a283b66911236ab",
     "freeze/OT_1995CHUNK3_LUNDY_COMMITMENTS.md": "b91249eb3c55cd54fec4c73dd8bc62d9153b31c6a88614d0bac57125c422e20a",
     "freeze/OT_1995CHUNK3_C_NEUTRAL_ADDENDUM.md": "dd095c6c93bedefb0142477fdb4fb53fbb9a172f0b14ba8c94d3a069b9ad52aa",
     "freeze/OT_1995CHUNK3_LUNDY_NEUTRAL_FACT_PATCH.md": "e94a14b8afdf18d9e16735d0ab4f4c279cb574d76348d890cc27f0923dee4d29",
     "freeze/OT_1995CHUNK3_C_COMPARATOR_INPUT.md": "b6f1104a9a23a07d267902dba3f5d6e7c3caf868e0125e582212d24885226a15",
     "freeze/OT_1995CHUNK3_A_NEUTRAL.md": "4ae3e26a0d54d6ca4e8d9bee6059400cb3ae8f4bfcfa389e883b539a142e0c9a",
-    "freeze/OT_1995CHUNK3_C_NEUTRAL.md": "fa47367535a7e001660de9ec0e0d0afed34e474179950c4bf459c878127f479b"
+    "freeze/OT_1995CHUNK3_C_NEUTRAL.md": "a4cfe8fd39fc5f0bda9061d76c3ea8047a3369e63b7db057dd57f7aff2973b7f"
   },
   "coalitions": {
     "Lundy": {

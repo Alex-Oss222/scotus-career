@@ -44,7 +44,6 @@ The independent sum after New Jersey is 80: Stone-Zsela 8; Stevens 9; O'Connor 9
 
 ## Separate bounded review: Waste Management
 
-The May 27 Record vacates and remands both reviewed Commerce Clause determinations, 5–4, under Stone-Zsela's Opinion of the Court. O'Connor, Souter, Ginsburg and Breyer join the full public-facility and independent diversion-cost rules. Stevens and Kennedy would affirm; Scalia and Thomas would reverse and terminate the reviewed negative-Commerce grounds. Stone's separate preference for outright reversal does not qualify his full opinion or mandate join.
+The May 27 Record was compared with `OT_1997CHUNK9_RECONCILED_WASTE.md`, the frozen remedial clarification, and the approved scoped Waste position. Its arithmetic and compatibility conclusions are supported: Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Souter, Ginsburg and Breyer, vacates and remands both reviewed Commerce Clause determinations, 5–4, under the public-facility and independent diversion-cost rules; two Justices would affirm; two would terminate the reviewed Commerce grounds. Stone's separate preference for outright reversal qualifies neither his full opinion join nor his mandate vote. No judgment vote is supplied through Marks or by counting conditional substantive observations as mandate joins.
 
-The genuine-public inquiry, separate fee nexus, purchasing and compensation limits and remaining appropriate scrutiny govern the remand. The excluded takings and ripeness rulings remain undisturbed. Waste contributes one Stone-Zsela lead and raises the May 27 count from 80 to 81.
-
+The Record's signed lead counts once for Stone-Zsela, raising the count from 80 to 81 before DeCarlo. This separate check does not independently certify the entire Waste neutral research corpus.

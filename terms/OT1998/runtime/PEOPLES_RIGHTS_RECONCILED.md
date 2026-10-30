@@ -1,6 +1,6 @@
 # Peoples Rights Organization — reconciled non-Stone commitments
 
-**Stage and cutoff:** Historical reconciliation for the October 15, 1998 event. The case-only neutral packet, supplement and independent commitments were physically frozen before the corresponding comparator was opened. The commitment SHA-256 is `13DF4BE2EFDC9802D1C2740F9C85A1686DB092ECC2CAD1146ED46862BABA0ADA`. No private Stone material, combined brief or raw current Record entered this context. This handoff supplies no Stone position or opinion assignment.
+**Stage and cutoff:** Historical reconciliation for the October 15, 1998 event. The case-only neutral packet, supplement and independent commitments were physically frozen before the corresponding comparator was opened. The commitment SHA-256 is `82F2BB64070BDC885A5185F702975476A50697BC3BBEE021B186B60027EA84CC`. No private Stone material, combined brief or raw current Record entered this context. This handoff supplies no Stone position or opinion assignment.
 
 **Controlling handoff:** Incorporate `PEOPLES_RIGHTS_NEUTRAL.md`, `PEOPLES_RIGHTS_NEUTRAL_SUPPLEMENT.md` and `PEOPLES_RIGHTS_COMMITMENTS.md` in this freeze directory in full, including their exact statutory branches, adverse-path analysis, Justice-specific grounds and qualifications. Reconciliation changes no commitment. The effective Wright, FOP, Hiley and Louisiana refreshes stated in the commitments remain operative; Louisiana adds no material premise to this dispute.
 

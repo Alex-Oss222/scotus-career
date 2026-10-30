@@ -663,40 +663,42 @@ Merits decision, November 13, 1995
 
 On review of the Fourth Circuit's judgment in No. 94-1869, affirming dismissal with prejudice of the second amended complaint under Rule 12(b)(6). The questions concern congressional authority, speech and association, facial vagueness and overbreadth, constitutional religious exercise, and RFRA's distinct protection against threatened enforcement. The plaintiffs allege future prayer, counseling, demonstrations and peaceful physical obstruction; this is not a prosecution of adjudged violent conduct.
 
+All nine Justices participate: Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+
+#### Statutory Provisions
+
 The challenged reproductive-service provisions of the Freedom of Access to Clinic Entrances Act, 18 U.S.C. §248, apply to conduct on or after May 26, 1994. Section (a)(1) requires force, threat of force or physical obstruction; intentional injury, intimidation, interference or attempt; and either action because a person is or has been obtaining or providing reproductive health services, or action intended to intimidate that person, another person or a class from doing so. Section (a)(3)'s challenged branch separately covers intentional damage or destruction of a facility's property, or attempt, because the facility provides those services. The parallel worship branches are outside this review.
 
 Interference means restricting freedom of movement; intimidation means reasonable apprehension of bodily harm to oneself or another; physical obstruction means making ingress to or egress from a reproductive-service facility or place of worship impassable, or passage to or from it unreasonably difficult or hazardous. Services include medical, surgical, counseling and referral services relating to reproduction, pregnancy or its termination, provided in a hospital, clinic, physician's office or other facility. The inclusive facility definition covers those reproductive-service establishments and the building or structure in which the facility is located; it does not separately add grounds or worship premises. The passage provisions do not depend on that addition and create no indoor-only limit or outdoor immunity. A parent or legal guardian of a minor is exempt from **all penalties and civil remedies under §248**, including private damages and governmental or private injunctions, for the described activities insofar as they are directed **exclusively at that minor**. This grants no immunity under other law or constitutional parental veto.
 
 The ordinary criminal maximum is one year for a first offense and three years after a prior conviction under the section, with the applicable title 18 fine or both. Exclusively nonviolent physical obstruction instead carries maxima of six months and $10,000 for the first offense, and eighteen months and $25,000 for a subsequent offense, with imprisonment, fine or both. If bodily injury results, imprisonment may reach ten years; if death results, any term of years or life. No criminal sentence is before the Court.
 
-An aggrieved person's §248(a)(1) civil action is limited to persons involved in providing or seeking to provide, or obtaining or seeking to obtain, services in a reproductive-health facility. A court may award appropriate injunctive relief, compensatory and punitive damages, costs and reasonable attorney and expert fees. Before final judgment, the claimant may elect $5,000 per violation in lieu of actual compensatory damages. All of these remedies remain subject to the full parent/guardian exception. Federal enforcement requires the Attorney General's reasonable cause to believe a person or group is being, has been or may be injured by a violation; state Attorneys General may proceed on that basis as parens patriae for natural-person residents. Government civil relief may include injunctions and compensation; civil-penalty maxima are $10,000 for a first nonviolent obstruction and $15,000 for a subsequent one, or $15,000 and $25,000 for other first and subsequent violations. These are distinct from private elected damages and criminal punishment. The unchallenged §248(a)(2) branch concerns force, threats or obstruction of lawful religious exercise at a place of worship; its private action is limited to persons lawfully exercising or seeking that right or the entity owning or operating the place. Section (a)(3) separately addresses worship-property damage or destruction; these branches are described, not adjudicated.
+An aggrieved person's §248(a)(1) civil action is limited to persons involved in providing or seeking to provide, or obtaining or seeking to obtain, services in a reproductive-health facility. A court may award appropriate injunctive relief, compensatory and punitive damages, costs and reasonable attorney and expert fees. Before final judgment, the claimant may elect $5,000 per violation in lieu of actual compensatory damages. All of these remedies remain subject to the full parent/guardian exception. Federal enforcement requires the Attorney General's reasonable cause to believe a person or group is being, has been or may be injured by a violation; state Attorneys General may proceed on that basis on behalf of natural-person residents. Government civil relief may include injunctions and compensation; civil-penalty maxima are $10,000 for a first nonviolent obstruction and $15,000 for a subsequent one, or $15,000 and $25,000 for other first and subsequent violations. These are distinct from private elected damages and criminal punishment. The unchallenged §248(a)(2) branch concerns force, threats or obstruction of lawful religious exercise at a place of worship; its private action is limited to persons lawfully exercising or seeking that right or the entity owning or operating the place. Section (a)(3) separately addresses worship-property damage or destruction; these branches are described, not adjudicated.
 
 Section 248(d) preserves First Amendment-protected expressive conduct, including peaceful picketing and demonstrations; creates no new remedy for interference with protected speech or religious exercise outside a facility, regardless of viewpoint, and limits no existing remedy; makes neither penalties nor civil remedies exclusive and preempts no state or local penalties or remedies; and does not interfere with state or local regulation of abortion or other reproductive services. Severability covers provisions and applications. None of these clauses alone establishes the validity of every possible enforcement.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in submission and decision. All nine participated; no recusal or absence applies.
-
 #### Judgment
 
-The Fourth Circuit's judgment is **affirmed in part, vacated in part, and remanded**.
+**Affirmed in part, vacated in part, and remanded.**
 
-| Component | Disposition | Supporting | Opposing | Count |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Presented facial constitutional challenges: commerce/federalism, speech and overbreadth, due-process vagueness and constitutional free exercise | Affirm dismissal | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | 9–0 |
-| Categorical First Amendment objection to elected statutory damages, with attribution limits | Affirm dismissal | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | 9–0 |
-| RFRA prospective-enforcement claim | Vacate dismissal and remand for the separate statutory inquiry | O'Connor, Scalia, Kennedy, Souter, Thomas | Stone-Zsela, Stevens, Ginsburg, Breyer | 5–4 |
+| Presented facial constitutional challenges: commerce/federalism, speech and overbreadth, due-process vagueness and constitutional free exercise | Dismissal affirmed, **9–0** | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Dismissals remain in place. |
+| Categorical First Amendment objection to elected statutory damages, with attribution limits | Dismissal affirmed, **9–0** | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Dismissal remains in place; no particular award is adjudicated. |
+| RFRA prospective-enforcement claim | Dismissal vacated; remanded, **5–4** | O’Connor, Scalia, Kennedy, Souter, Thomas | Stone-Zsela, Stevens, Ginsburg, Breyer | Separate statutory inquiry in the district court. |
 
 The district court must identify the live person-and-application claim, resolve a genuinely contested substantial burden, and, if necessary, require the government's compelling-interest and least-restrictive-means showing. The remaining dismissals stay in place. FACE remains operative; the Court grants no exemption, injunction, damages, penalty or finding of unlawful conduct. The unchallenged worship branches, the reasonableness of the elected amount and any particular award remain outside this judgment. A materially different application has its own claim and ordinary procedural requirements.
 
 #### Opinion Topology
 
-| Writing / portion | Author | Joins at the stated level | Status |
-|---|---|---|---|
-| Parts I, II, III-A and IV-B: commerce/federalism, speech, overbreadth and attribution | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Opinion of the Court, nine |
-| Parts III-B, IV-A and V-A: vagueness, elected-damages rationale and facial religious targeting | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Opinion of the Court, eight; Stone-Zsela agrees only in the relevant dispositions |
-| Part V-B: broader constitutional exemption | Kennedy | Stevens, Scalia, Thomas, Ginsburg, Breyer | Opinion of the Court, six; O'Connor and Souter reserve the question |
-| RFRA rule, application and remand | O'Connor | Scalia, Kennedy, Souter, Thomas | Opinion of the Court, five |
-| Constitutional-exemption reservation | O'Connor | Souter | Concurrence in part; no new constitutional rule |
-| RFRA application and opposition to remand | Stone-Zsela | Stevens, Ginsburg, Breyer | Dissent in part; accepts RFRA's governing standard |
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Parts I, II, III-A and IV-B | Kennedy | Stone-Zsela, Stevens, O’Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Court, nine | Commerce/federalism, speech, overbreadth and attribution. |
+| Opinion of the Court, Parts III-B, IV-A and V-A | Kennedy | Stevens, O’Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Court, eight; Stone-Zsela agrees only in the relevant dispositions | Vagueness, elected-damages rationale and facial religious targeting. |
+| Opinion of the Court, Part V-B | Kennedy | Stevens, Scalia, Thomas, Ginsburg, Breyer | Court, six; O’Connor and Souter reserve the question | Broader constitutional exemption. |
+| Opinion of the Court on RFRA | O’Connor | Scalia, Kennedy, Souter, Thomas | Court, five | RFRA rule, application and remand. |
+| Concurrence in part | O’Connor | Souter | Accepts facial constitutional judgment; no new constitutional rule | Constitutional-exemption reservation. |
+| Dissent in part | Stone-Zsela | Stevens, Ginsburg, Breyer | Opposes RFRA remand | RFRA application; accepts its governing standard. |
 
 Stone-Zsela joins the disposition only on the constitutional free-exercise and due-process vagueness components, adding no ground. His rejection of the categorical damages speech challenge adds no general statutory-damages rationale; he joins the stated attribution limit. O'Connor and Souter agree with the facial constitutional judgment while reserving the broader exemption question. Every controlling proposition has the direct majority identified above; no combination of distinct opinions supplies an additional rule.
 
@@ -839,7 +841,7 @@ This is a pre-enforcement pleading case. Substantial burden is assumed for revie
 
 The mandate returns the case through the Fourth Circuit for district-court proceedings on the RFRA prospective-enforcement claim alone, with ordinary standing and appropriate-relief requirements. A remand is not interim injunctive relief: any such request needs its own legal showing. The Court sets no further proceeding or deadline and adjudicates no unchallenged worship provision or previously unpresented damages application.
 
-**End of entry: American Life League v. Reno, merits decision, November 13, 1995.**
+**End of entry: American Life League v. Reno, Merits decision, November 13, 1995.**
 
 ---
 

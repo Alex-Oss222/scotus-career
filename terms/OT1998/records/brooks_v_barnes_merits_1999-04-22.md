@@ -17,13 +17,9 @@ Stone expressly affirms both components on this record without categorical runof
 
 ## Form, assignment and final opinion table
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Before assignment, the form is one signed Opinion of the Court with a six-Justice statutory portion and unanimous constitutional portion, plus two necessary separate writings. Six Justices can carry every controlling portion, so no author division is justified. The statutory component's assigner is Stevens, the senior participating Associate in that majority; Stone is outside it. Stone assigns only the constitutional component. Both component authorities select Souter for the single opinion.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
-
-**Assignment authority:** Stevens assigns the statutory vacatur portion; Chief Justice Stone-Zsela assigns the constitutional affirmance portion. Each acts within the corresponding judgment coalition. For the Chief-assigned constitutional portion, eligible authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; its binding pool is Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer (minimum 7, ceiling 8). 
-
-The actual counted source opinions yield 68 leads before this assignment.
+**Counted lead opinion:** Yes; signed lead after plenary merits review.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -37,17 +33,17 @@ The actual counted source opinions yield 68 leads before this assignment.
 | Ginsburg | 8 |
 | Breyer | 8 |
 
-**Last counted event:** United States v. Haggar Apparel Co.; No. 97-2044; judgment below, 127 F.3d 1460. 1999-04-21; author Kennedy; [Record](united_states_v_haggar_apparel_co_merits_1999-04-21.md).
+The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_BROOKS_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 68 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
 
-**Eligible authors for the complete lead:** Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer; minimum 7, ceiling 8. **Chosen author:** Souter.
+**Last event counted:** United States v. Haggar Apparel Co.; No. 97-2044; judgment below, 127 F.3d 1460.; 1999-04-21; lead author Kennedy. [Record](united_states_v_haggar_apparel_co_merits_1999-04-21.md).
 
-**Fit:** Before assignment, the form is one signed Opinion of the Court with a six-Justice statutory portion and unanimous constitutional portion, plus two necessary separate writings. Six Justices can carry every controlling portion, so no author division is justified. The statutory component's assigner is Stevens, the senior participating Associate in that majority; Stone is outside it. Stone assigns only the constitutional component. Both component authorities select Souter for the single opinion.
+**Assignment authority:** Stevens for statutory vacatur; Chief Justice Stone-Zsela for constitutional affirmance, each acting only within the component coalition.
 
-Souter. For the six-member statutory portion, Souter's De Grandy and SCLC grounds directly connect local preferred-candidate opportunity, legal benchmarks and preserved state interests. Stevens selects him on that demonstrated fit. The choice keeps distinct statutory error and constitutional causation clear and imposes no Stone policy on Stevens's assignment.
+**Eligible complete-opinion authors:** Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer.
 
-The complete lead counts once for Souter; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+**Balance pool:** Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
 
-**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_BROOKS_RECOUNT.json).
+**Assignment:** Souter. For the six-member statutory portion, Souter's De Grandy and SCLC grounds directly connect local preferred-candidate opportunity, legal benchmarks and preserved state interests. Stevens selects him on that demonstrated fit. For the constitutional portion all nine are eligible at its complete supported-findings formulation, with all nine within the min-plus-one pool; Stone considers himself at eight but selects Souter at seven because Souter can carry both components without splitting the opinion. The common complete-opinion eligibility and pool above are the six who join every portion. The choice keeps distinct statutory error and constitutional causation clear and imposes no Stone policy on Stevens's assignment.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -57,6 +53,7 @@ The complete lead counts once for Souter; separate writings count zero. Final co
 | Concurrence in part and dissent in part | Thomas | Scalia | Would affirm Section 2 also | Maintained statutory noncoverage ground; joins constitutional opinion |
 
 The six statutory joins are complete and direct. Stone's disagreement concerns the sufficiency and legal effect of the existing findings; Thomas and Scalia maintain a distinct noncoverage ground. All nine join the constitutional portion. No dissent is silently converted into concurrence by a shared rejection of automatic liability; no Marks holding or hypothetical coalition is needed.
+
 
 ## Controlling holdings, remedy and continuity
 

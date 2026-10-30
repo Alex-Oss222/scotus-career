@@ -20,7 +20,7 @@ Count each opinion once as Chief-assigned if the Chief assigned any portion. Dif
 
 Named totals: **93** preceding term; **50** current term. The maximum preceding-term recipient is Souter, 18 of 93. No Justice exceeded one half, so no Justice triggers §8’s consecutive-term concentration ceiling in OT1995. Fit and coalition needs still govern each assignment, and workload remains a tie-breaker. Counting the one preceding-term unattributed per curiam in a broad denominator would not change that conclusion; it supplies no named-author increment.
 
-The older OT1994_ASSIGNMENT_REVIEW incorrectly classifies Stone v. INS as Chief-assigned. The actual Record says Stevens is senior because the Chief dissents and assigns Kennedy. This reference follows that controlling statement, consistent with the later corrected references; the older file is not edited. Kennedy has 14, not 15, and the named total is 93, not 94. No adjudication or assignment itself is changed.
+The older OT1994_ASSIGNMENT_REVIEW incorrectly classifies Stone v. INS as Chief-assigned. The actual Record says Stevens is senior because the Chief dissents and assigns Kennedy. This reference follows that controlling statement, consistent with the later corrected references; the older file is not edited. Kennedy has 13, not 14, and the named total is 93, not 94. No adjudication or assignment itself is changed.
 
 The April 9 interim Bowersox coordinated Kennedy opinion counts once because the Chief assigns its common component. The separate final Bowersox O’Connor explanation is required by Circuit allotment and expressly excluded from ordinary assignment; current counts remain 50. No second O’Connor increment is created.
 

@@ -94,7 +94,7 @@ The exact source bytes used for the final handoff are recorded below. Paths are 
 |---|---:|---|
 | `freeze/OT_1998CHUNK11_ORTIZ_NEUTRAL.md` | 23993 | `6ac0138eba5dfecb4b21e5dd4d6d05731cd4b2348f051d1ed0921b57405c105d` |
 | `entering-law/OT_1998CHUNK11_ORTIZ.md` | 34788 | `760d197e20b2c1fac8fa6c5acfd9acd1ea2bfb0b7ed46266d440205c00077388` |
-| `freeze/OT_1998CHUNK11_OPENING_NEUTRAL_PROJECTION.md` | 947957 | `90219aeb5885f2ed3fff2671788a55afe0f297c95dec4b7cfc50b3e030b31f58` |
+| `freeze/OT_1998CHUNK11_OPENING_NEUTRAL_PROJECTION.md` | 947957 | `065ae74b030c3dc7d58f027cdb7bf822251d187e4b30aacdd466d0c64583a8b5` |
 | `freeze/OT_1998CHUNK11_JUNE23_FINAL_NEUTRAL_SCREEN.md` | 18350 | `fee710a8bbcfe44a4707a2d3246a78407a59f0a4dfa3e563f8787714de1bdcf3` |
 | `entering-law/OT_1998CHUNK11_JUNE23_COMPLETED_PUBLIC_LAW.md` | 112581 | `30b93a744fabf74c97bb67774bd11a81c53de25abaff4e9371a8148f359a6adb` |
 | `sources/chunk11-neutral/ortiz/lower_90f3d963.txt` | 281753 | `b74228cd71f9020d4986973497eead7956385ea935f9c285ef2b93d3c17aec17` |

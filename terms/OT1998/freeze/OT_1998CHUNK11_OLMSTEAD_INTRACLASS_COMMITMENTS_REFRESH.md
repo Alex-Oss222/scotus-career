@@ -4,7 +4,7 @@
 
 **Result of this bounded refresh:** The added *O'Connor* and *Oncale* authorities supply express prior public support for rejecting an indispensable outside-protected-group comparator and for preserving independent proof of prohibited discrimination. They require no change to any Associate's frozen disposition, sufficient integration ground or objection, resource-defense position, remedy, or proposition-level join. The original commitments already rejected the categorical nondisabled-comparator premise, including in Scalia's and Thomas's statutory objections. The exact supplemental support and limits below accompany those commitments; they are not a new Court holding or an instruction to change a judgment.
 
-**Preservation:** Every unaffected commitment in [the original frozen handoff](OT_1998CHUNK11_OLMSTEAD_COMMITMENTS.md), sections 1–11, is retained verbatim by reference. That file was not rewritten. Its SHA256 is `f9a5d128c2e7520489f29a1a0fd2daed52e4e097b71dd29754b3f41bf08d6d0f`. This refresh is a separate immutable modeling handoff for renewed reconciliation.
+**Preservation:** Every unaffected commitment in [the original frozen handoff](OT_1998CHUNK11_OLMSTEAD_COMMITMENTS.md), sections 1–11, is retained verbatim by reference. That file was not rewritten. Its SHA256 is `b4ff8172b54e18ff41b4929728c65b72c8a92dd0cc2b649ea1ec8831a3feb804`. This refresh is a separate immutable modeling handoff for renewed reconciliation.
 
 ## 1. Added authority and exact analogical proposition
 

@@ -2,7 +2,7 @@
   "records": [
     {
       "record": "coalition_for_economic_equity_v_wilson_merits_1998-11-10.md",
-      "sha256": "33359c6bc51c435a48928526e2e661f398e7013eaf4fbed7dd7adea3684ba9cc",
+      "sha256": "54ecc18a14274e44b11d1266f8b22739a9c311c565e9b0a00f408bd60c04f1ca",
       "public_projection_sha256": "29518bf730194d3f336ec03b5d785386b17321376ebce822da9456c7e0081cc7"
     },
     {
@@ -17,12 +17,12 @@
     },
     {
       "record": "marquez_v_screen_actors_guild_merits_1998-11-03.md",
-      "sha256": "8224ee8b93453b60232c58b8cb55b90f8297851d41d7a8a5f9c63e785f1022b4",
+      "sha256": "5a41390e00a0a8ba4b3b370007a17e75c9e263db19aa9ab8908da3e3183b6682",
       "public_projection_sha256": "180b9f88e0ec23d50422dcd096a94b8ce19eb4a1df74b692a98b6bf3d844b92f"
     },
     {
       "record": "merrill_lynch_v_kravitz_merits_1998-11-12.md",
-      "sha256": "48c080e98b22281b67a8922029442df883c63a97533b38b5094b87679b47ec5a",
+      "sha256": "bd2b9f8191d601be989ae166fa798649bd97bc0d35db4b9bb1e9407112b98464",
       "public_projection_sha256": "31e4dba57a8103845e5a41771e4809717768129974520cdb0a1abd4ecfdc1dc7"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "record": "united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md",
-      "sha256": "3ea82d006d99564d592b087faba08aa22333d3ed737ef355387d9324fcd0b7c4",
+      "sha256": "a4986fee5a6caf1d678605ed88ab4b880e36bcb65aba2aff3790b3d4a68c5c66",
       "public_projection_sha256": "53acffeda3ea07b611adbfdf74119a29072da95aa7e01c9f11443cd87a88f367"
     },
     {
       "record": "united_states_v_griffin_and_langley_merits_1998-10-29.md",
-      "sha256": "ecd2b2003a490a4b6e3c29ccd9b3c6fa1bcb91bddb76253224897e777a8e284a",
+      "sha256": "21e72b31a5615d3232c43781918c6113e5ede1a5a80cb8d29ca91f47a45434f4",
       "public_projection_sha256": "d138c4df0773c619bd25535d9f2ad439f0af01c051382c446c775316a4acbad7"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "record": "united_states_v_wright_merits_1998-10-05.md",
-      "sha256": "4eea211ed875ad068140e827663a3f9c139be0ed8d6f0109a1fa99f85c7a5cda",
+      "sha256": "12ba34778ff63b3f873479421524b1a3a7744446319a257147496a39e3e03ee2",
       "public_projection_sha256": "4717390084d1842188d70b22f5a16fc95a960121d681ffc68ee42e0881e515ff"
     }
   ],

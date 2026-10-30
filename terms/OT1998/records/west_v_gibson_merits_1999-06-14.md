@@ -34,13 +34,11 @@ The Holdings and Precedent Treatment blocks in the Public Projection below are t
 
 ## Assignment and frozen-ground audit
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+**Form first:** The presented statutory-power question and its distinct preserved-ground remand warrant one signed lead opinion after plenary review. The opinion states the coordinated-enactment authority rule and the limited vacatur/remand; these propositions and form were fixed before counting or selecting an author.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+**Counted lead opinion:** Yes.
 
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 99 leads before this assignment.
+**Recount:** The frozen assignment baseline's 110 source records were reviewed afresh through their bounded identity, classification and actual-author extracts. Ninety-nine qualifying signed leads contribute 99 increments. Each table author cell was compared with its extracted author; Amoco's explicit narrative authorship was checked separately. Prior tally fields were not used to compute the following counts. The last qualifying event is Greater New Orleans Broadcasting Association, Inc. v. United States, June 14, 1999, following Cunningham alphabetically. No new Chunk10 Record precedes West.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -54,13 +52,7 @@ The actual counted source opinions yield 99 leads before this assignment.
 | Ginsburg | 11 |
 | Breyer | 11 |
 
-**Last counted event:** Greater New Orleans Broadcasting Association, Inc. v. United States, No. 98-387. 1999-06-14; author Stone-Zsela; [Record](greater_new_orleans_broadcasting_association_inc_v_united_states_merits_1999-06-14.md).
-
-**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer; minimum 11, ceiling 12. **Chosen author:** Souter.
-
-**Fit:** Stone assigns as a member of the judgment majority. Souter writes. His Lane analysis directly supplies the work required here: identify express remedy-specific consent and distinguish coverage from the administering channel without weakening the consent standard. Breyer is the strongest alternative for coordinating broad administrative-remedy language with the later statute; Souter's precise treatment of the objection already settled in Lane offers the more case-specific fit. Stone can carry the opinion but supplies no additional accommodation or advantage over Souter on this record. No expansion assignment or invented circulation history is needed. Kennedy writes the dissent because his frozen objection specifically develops the interaction of forum-specific consent and the unavailable government avenue for demanding a jury; historical authorship does not determine this selection.
-
-The complete lead counts once for Souter; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+Stone assigns as a member of the judgment majority. Eligible authors and the balance pool are identical: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, each supporting every governing proposition and accommodation in full and each at the minimum count. Souter writes. His Lane analysis directly supplies the work required here: identify express remedy-specific consent and distinguish coverage from the administering channel without weakening the consent standard. Breyer is the strongest alternative for coordinating broad administrative-remedy language with the later statute; Souter's precise treatment of the objection already settled in Lane offers the more case-specific fit. Stone can carry the opinion but supplies no additional accommodation or advantage over Souter on this record. No expansion assignment or invented circulation history is needed. Kennedy writes the dissent because his frozen objection specifically develops the interaction of forum-specific consent and the unavailable government avenue for demanding a jury; historical authorship does not determine this selection.
 
 | Justice | Frozen reconciled ground; final join and historical reconciliation |
 |---|---|

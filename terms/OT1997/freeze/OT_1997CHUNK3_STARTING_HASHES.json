@@ -704,7 +704,7 @@
     "bytes": 4381
   },
   "terms/OT1997/freeze/OT_1997CHUNK2_PUBLICATION_FILES.json": {
-    "sha256": "5d7a63ce62e98ba481ef929ea1ebf10615242479b01bc132ac32e8e31631db09",
+    "sha256": "32e53cca83e3a8047d86fc592353287f2c8ef0cd0f768ca395b0f363dd51fb0c",
     "bytes": 110700
   },
   "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_JEFFERSON_ADDENDUM.md": {
@@ -1368,7 +1368,7 @@
     "bytes": 120345
   },
   "terms/OT1997/workspace/ledger.md": {
-    "sha256": "c1c1469009c563e7e02a9731d4a43a1048abbab38f9ec992e9f556ff3451313a",
+    "sha256": "4985f988a2e9cc1f151d602ca902897121746f5ceca62fab3c1c1323f46fa82b",
     "bytes": 13590
   },
   "terms/OT1997/workspace/neutral-projection.md": {

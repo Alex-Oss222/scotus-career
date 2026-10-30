@@ -548,9 +548,9 @@ All 101 OT1994 canonical Record filenames are accounted for below: 92 Records ha
 
 ### 1995-04-26 — United_States_v_Lopez_merits_1995-04-26
 
-**Count classification:** Kennedy. **Source:** [Record](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md), line 209.
+**Count classification:** Stone-Zsela. **Source:** [Record](../../OT1994/records/United_States_v_Lopez_merits_1995-04-26.md), line 580.
 
-> The Chief is within the five-member affirmance coalition and assigns Kennedy.
+> The Chief is within the five-member affirmance coalition and assigns the Opinion of the Court to himself.
 
 ### 1995-04-27 — United_States_v_Harris_merits_1995-04-27
 

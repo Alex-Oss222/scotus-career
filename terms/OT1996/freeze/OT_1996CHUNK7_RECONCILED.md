@@ -364,7 +364,7 @@ The procedural proposal has four Associate supporters and four Associate opponen
 
 ---
 
-<!-- frozen-source: OT_1996CHUNK7_75_RECONCILED.md; SHA256: ef4ef3e34b94a94cea3d0b8f4c77e29641bfdfa934bd9487d263287de8c957e0 -->
+<!-- frozen-source: OT_1996CHUNK7_75_RECONCILED.md; SHA256: 73f7983f487726e505ce9bb8cf00d4c14e20633431eb14430f87d478aea42612 -->
 # OT1996 chunk 7 ? matter 75 ? historical reconciliation
 
 **Case:** Pic-A-State Pennsylvania, Inc. v. Reno; Third Circuit No. 95-7137, 76 F.3d 1294. No separate Supreme Court docket supplied.

@@ -17,13 +17,9 @@ Stone affirms the D.C. Circuit, requires a concrete official-act link, rejects a
 
 ## Form, assignment and final opinion table
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Form is fixed as one signed unanimous Opinion of the Court after argument, including the statutory holding, instructional error and bounded rejection of harmlessness. No separate writing or artificial division is warranted.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
-
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 69 leads before this assignment.
+**Counted lead opinion:** Yes; signed lead after plenary merits review.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -37,21 +33,24 @@ The actual counted source opinions yield 69 leads before this assignment.
 | Ginsburg | 8 |
 | Breyer | 8 |
 
-**Last counted event:** Brooks v. Barnes; No. 98-1521; judgment below, Brooks v. Miller, 158 F.3d 1230. 1999-04-22; author Souter; [Record](brooks_v_barnes_merits_1999-04-22.md).
+The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_SUN_DIAMOND_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 69 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
 
-**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 7, ceiling 8. **Chosen author:** Scalia.
+**Last event counted:** Brooks v. Barnes; No. 98-1521; judgment below, Brooks v. Miller, 158 F.3d 1230.; 1999-04-22; lead author Souter. [Record](brooks_v_barnes_merits_1999-04-22.md).
 
-**Fit:** Scalia. Scalia's frozen Gaudin ground and his offense-specific textual analysis identify the missing jury element while preserving the distinction between gratuity and bribery. His Aguilar disagreement concerned implied language in a different statute and creates no join barrier where §201 expressly names the official act.
+**Assignment authority:** Chief Justice Stone-Zsela, a member of the judgment majority.
 
-The complete lead counts once for Scalia; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+**Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
 
-**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_SUN_DIAMOND_RECOUNT.json).
+**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+
+**Assignment:** Scalia. Scalia's frozen Gaudin ground and his offense-specific textual analysis identify the missing jury element while preserving the distinction between gratuity and bribery. Stone fully supports the complete opinion and is considered at eight; Scalia's seven-count position and concrete textual fit favor his assignment. His Aguilar disagreement concerned implied language in a different statute and creates no join barrier where §201 expressly names the official act.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous judgment | Complete holdings, application, qualifications and remedy |
 
 All nine join the identifiable-act rule, the rejection of the instruction and the stated harmlessness analysis. O'Connor, Kennedy and Breyer's Jones sentencing views do not create a disagreement about this express offense element. The opinion announces no universal classification of omitted-element error.
+
 
 ## Controlling holdings, remedy and continuity
 

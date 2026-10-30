@@ -17,13 +17,9 @@ Stone rejects the Federal Circuit's categorical refusal to consider Chevron and 
 
 ## Form, assignment and final opinion table
 
-One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+Form is fixed before counting as one signed Opinion of the Court, unanimous in Parts I–III on the review framework and supported by seven in Part IV on unresolved validity/application and remand. Stevens writes a concurrence in part and dissent in part joined by Ginsburg. The seven complete-opinion supporters can carry every controlling portion; no author division is needed.
 
-**Counted lead opinion:** Yes; one signed lead after plenary merits review.
-
-**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
-
-The actual counted source opinions yield 67 leads before this assignment.
+**Counted lead opinion:** Yes; signed lead after plenary merits review.
 
 | Justice | Count before assignment |
 |---|---:|
@@ -37,23 +33,26 @@ The actual counted source opinions yield 67 leads before this assignment.
 | Ginsburg | 8 |
 | Breyer | 8 |
 
-**Last counted event:** UNUM Life Insurance Co. of America v. Ward; No. 97-1868; judgment below, 135 F.3d 1276. 1999-04-20; author Ginsburg; [Record](unum_life_insurance_co_v_ward_merits_1999-04-20.md).
+The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_HAGGAR_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 67 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
 
-**Eligible authors for the complete lead:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer. **Complete-opinion balance pool:** Scalia, Kennedy, Souter, Thomas; minimum 6, ceiling 7. **Chosen author:** Kennedy.
+**Last event counted:** UNUM Life Insurance Co. of America v. Ward; No. 97-1868; judgment below, 135 F.3d 1276.; 1999-04-20; lead author Ginsburg. [Record](unum_life_insurance_co_v_ward_merits_1999-04-20.md).
 
-**Fit:** Kennedy's reconciled position separates the applicability of Chevron from the still-unresolved reasonableness and application of this regulation. His MCI/NCUA, NationsBank and NFFE joins preserve enacted conditions while recognizing delegated choice; his date-eligible writing on this tariff question demonstrates the same framework-and-remand work. Souter is the strongest alternative through NationsBank and his distinction between discretion and its exercise. Both can carry the settled grounds faithfully; Kennedy has the lower count, six to seven. Stone supports the complete rationale but is outside the pool. No necessary join depends on a new accommodation.
+**Assignment authority:** Chief Justice Stone-Zsela, a member of the judgment majority.
 
-The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+**Eligible complete-opinion authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer.
 
-**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_HAGGAR_RECOUNT.json).
+**Balance pool:** Scalia, Kennedy, Souter, Thomas. Lowest eligible count: 6; eligible counts at most 7 enter the pool.
+
+**Assignment:** Kennedy. Kennedy's reconciled position separates the applicability of Chevron from the still-unresolved reasonableness and application of this regulation, and his MCI/NCUA, NationsBank and NFFE joins distinguish removal of a statutory condition from reasoned delegated choice within an open category. That sequence is the concrete work needed to reject both categorical nondeference and automatic regulatory validation while leaving validity and application for remand. Souter, at seven, is the strongest alternative because his NationsBank ground distinguishes authority and lawful classification. Kennedy's express separation of the framework from the unresolved application offers the clearest coordination of those inquiries and the reserved remedy. Stone supports the complete rationale but is outside the pool at eight. No claimed persuasion of Stevens or Ginsburg or exceptional importance supports the choice.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court, Parts I–III | Kennedy | Stevens, O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Ginsburg, Breyer | Common framework | Chevron applies within delegated authority and statutory limits; factfinding remains distinct |
-| Opinion of the Court, Part IV | Kennedy | O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Breyer | Vacatur and remand | Regulation reasonableness and actual application remain open |
+| Opinion of the Court, Parts I–III | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Common framework | Chevron applies within delegated authority and statutory limits; factfinding remains distinct |
+| Opinion of the Court, Part IV | Kennedy | Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Breyer | Vacatur and remand | Regulation reasonableness and actual application remain open |
 | Concurrence in part and dissent in part | Stevens | Ginsburg | Would reverse outright | Joins Parts I–III; would sustain regulation and actual Customs denial |
 
 The nine framework joins and seven remand joins are direct. The final wording rejects the independent remodel's direct-validity proposal because reconciliation found no concrete changed premise supporting it for the six remanding Associates. Stevens and Ginsburg retain their actual-application conclusion in a separate writing. No assumed compromise, blanket deference, unprovided shipment defect or new hearing condition is added.
+
 
 ## Controlling holdings, remedy and continuity
 
@@ -242,7 +241,7 @@ All nine reject categorical exclusion of Chevron review. The Court leaves the re
 | Writing | Author | Joins | Scope |
 |---|---|---|---|
 | Opinion of the Court, Parts I–III | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Delegation, statutory limits and Chevron framework |
-| Opinion of the Court, Part IV | Kennedy | O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Breyer | Unresolved validity/application and remand |
+| Opinion of the Court, Part IV | Kennedy | Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Breyer | Unresolved validity/application and remand |
 | Concurrence in part and dissent in part | Stevens | Ginsburg | Joins Parts I–III; would sustain validity and actual denial now |
 
 ## Holdings
