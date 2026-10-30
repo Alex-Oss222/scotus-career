@@ -7,11 +7,11 @@
   },
   "git": "DEFERRED by user instruction; no commands or hash verification",
   "counts": {
-    "Stone-Zsela": 11,
+    "Stone-Zsela": 10,
     "Stevens": 11,
     "O'Connor": 11,
     "Scalia": 11,
-    "Kennedy": 9,
+    "Kennedy": 10,
     "Souter": 11,
     "Thomas": 10,
     "Ginsburg": 11,
@@ -563,7 +563,7 @@
       "date": "1999-04-21",
       "case": "United States v. Haggar Apparel Co.; No. 97-2044; judgment below, 127 F.3d 1460.",
       "counted": true,
-      "author": "Stone-Zsela"
+      "author": "Kennedy"
     },
     {
       "record": "brooks_v_barnes_merits_1999-04-22.md",

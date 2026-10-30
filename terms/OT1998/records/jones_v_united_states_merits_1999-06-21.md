@@ -31,13 +31,35 @@ The distinct statutory consequence of an actual jury deadlock, including §3593(
 
 ## Form and assignment fixed before count
 
-One signed lead opinion after plenary review states the actual-deadlock statutory construction (Part I-A), rejection of a universal script (Part I-B), and the five-Justice shared case-specific duty to correct this misleading charge upon the preserved request, with a new penalty proceeding (Part II). The common opinion does not attribute constitutional/plain-error reasoning to Breyer. Souter's separate concurrence carries those four votes and the distinct three-Justice factor objection. Thomas's dissent separates four-Justice instruction/cure grounds from three-Justice factor validity. These divisions follow real grounds and were fixed before counts; they do not manipulate eligibility.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
-The Chief joins the sentence-relief judgment and assigns. Whole-lead eligible authors are Stevens, Souter, Ginsburg and Breyer: all directly support every Court proposition. Stone's fallback-only statutory agreement does not qualify him; the four affirmers oppose Part II and the remedy. The required from-zero recount is `freeze/OT_1998CHUNK10_JONES_RECOUNT.json`, drawn from unchanged canonical author evidence and actual preceding Records, not any old tally. Before assignment: Stone-Zsela13, Stevens12, O’Connor12, Scalia12, Kennedy11, Souter12, Thomas11, Ginsburg11, Breyer12. There are106 counted lead opinions; the last is Dallas, June18. Eligible minimum11 makes all four eligible authors the within-one pool.
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
 
-The Chief assigns Breyer. Retaining the necessary fifth opinion join requires limiting the common instruction ground to the accurate corrective response actually requested and preserving Breyer's refusal to adopt plain error. Breyer's own preserved-refusal position supplies that accommodation and gives his authorship a concrete advantage in expressing the narrow shared duty without silently converting the other four's constitutional analysis into his. He can also carry the statutory deadlock and no-universal-duty holdings. Ginsburg's lower count leaves her in the same pool and does not override the permissible within-one expansion choice. No Justice is excluded for ability, experience or tone. Souter's distinct Simmons/Shannon/Sochor analysis supports the concurrence; Thomas's Neder/Sochor analysis supports the dissent's actual-understanding cure, with actual partial joins retained.
+The actual counted source opinions yield 106 leads before this assignment. The same-date Acker Record was not yet entered at this assignment and is excluded.
+
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 12 |
+| Stevens | 12 |
+| O'Connor | 12 |
+| Scalia | 12 |
+| Kennedy | 12 |
+| Souter | 12 |
+| Thomas | 11 |
+| Ginsburg | 11 |
+| Breyer | 12 |
+
+**Last counted event:** City of Dallas v. Dallas Fire Fighters Association, No. 98-966. 1999-06-18; author Kennedy; [Record](city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md).
+
+**Eligible authors for the complete lead:** Stevens, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, Souter, Ginsburg, Breyer; minimum 11, ceiling 12. **Chosen author:** Breyer.
+
+**Expansion:** Retaining the necessary fifth opinion join requires limiting the common instruction ground to the accurate corrective response actually requested and preserving Breyer's refusal to adopt plain error. Breyer's own preserved-refusal position supplies that accommodation and gives his authorship a concrete advantage in expressing the narrow shared duty without silently converting the other four's constitutional analysis into his. He can also carry the statutory deadlock and no-universal-duty holdings. No Justice is excluded for ability, experience or tone. Souter's distinct Simmons/Shannon/Sochor analysis supports the concurrence; Thomas's Neder/Sochor analysis supports the dissent's actual-understanding cure, with actual partial joins retained.
+
+The complete lead counts once for Breyer; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** `freeze/OT_1998CHUNK10_JONES_RECOUNT.json`.
 
 ## Adaptive audit annex — frozen commitments and final joins
 

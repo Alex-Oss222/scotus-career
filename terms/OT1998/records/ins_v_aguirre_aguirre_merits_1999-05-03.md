@@ -1,7 +1,7 @@
 **Case and dockets:** INS v. Aguirre-Aguirre; No. 97-1754; judgment below, 121 F.3d 521.
 **Event and date:** merits decision, 1999-05-03; October Term 1998.
 **Result:** Reversed and remanded, 9–0; late translation claim left to the pending BIA motion, with Stone joining that disposition only.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen preparation handoffs below establish stage lineage. No Git command or repository commitment is claimed; verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, reach, record and entering law
 
@@ -17,33 +17,37 @@ Stone's approved merits position reverses the Ninth Circuit's additional mandato
 
 ## Form, assignment and final opinion table
 
-Before counting, form is fixed as one signed Opinion of the Court: Parts I–II carry nine direct merits/framework joins; Part III carries eight direct procedural-rationale joins with Stone concurring in that component's disposition only. No separate substantive writing is needed for a disposition-only assent that adds no ground. The eight Associates can carry every Court proposition, so authorship is not divided.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary merits review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 73 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 9 |
 | Scalia | 8 |
-| Kennedy | 7 |
+| Kennedy | 8 |
 | Souter | 8 |
 | Thomas | 8 |
 | Ginsburg | 8 |
 | Breyer | 8 |
 
-The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_AGUIRRE_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 73 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
+**Last counted event:** El Paso Natural Gas Co. v. Neztsosie; No. 98-6; judgment below, 136 F.3d 610. 1999-05-03; author Thomas; [Record](el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md).
 
-**Last event counted:** El Paso Natural Gas Co. v. Neztsosie; No. 98-6; judgment below, 136 F.3d 610.; 1999-05-03; lead author Thomas. [Record](el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md).
+**Eligible authors for the complete lead:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Chosen author:** Breyer.
 
-**Assignment authority:** Chief Justice Stone-Zsela, a member of the judgment majority.
+**Fit:** Before counting, form is fixed as one signed Opinion of the Court: Parts I–II carry nine direct merits/framework joins; Part III carries eight direct procedural-rationale joins with Stone concurring in that component's disposition only. No separate substantive writing is needed for a disposition-only assent that adds no ground. The eight Associates can carry every Court proposition, so authorship is not divided.
 
-**Eligible complete-opinion authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+Breyer. Breyer's frozen AT&T, NationsBank, Yang, NFFE and Haggar positions distinguish actual agency explanation from judicially imposed extra factors and preserve the review of a materially corrected record. That coordination is the precise work of this opinion.
 
-**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+The complete lead counts once for Breyer; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Assignment:** Breyer. Breyer's frozen AT&T, NationsBank, Yang, NFFE and Haggar positions distinguish actual agency explanation from judicially imposed extra factors and preserve the review of a materially corrected record. That coordination is the precise work of this opinion. All complete-opinion candidates fall within the recounted pool. Stone has nine counted leads for the merits portions but cannot author Part III's rationale through his fallback; Breyer can express the complete supported opinion without separating authors. Souter's reasoned-administration ground is a strong equal-count alternative; Breyer's stated insistence on the actual explanation and conditional record-error procedure most directly coordinates the two tasks here.
+**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_AGUIRRE_RECOUNT.json).
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -51,7 +55,6 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 | Opinion of the Court, Part III | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Late translation contention left undecided through existing agency-motion route | Eight direct rationale joins; Stone-Zsela joins this component's disposition only and adds no ground |
 
 The eight Associates directly support all final merits and procedural propositions. Stone directly supports the complete merits rules and appellate remand; the late-claim component receives his disposition-only fallback vote. No abstract recognition of agency discretion becomes an automatic affirmance of every finding, and no burden is inferred from failure to file a Board brief. There is no Marks issue or separate substantive Stone rationale on the late claim.
-
 
 ## Controlling holdings, remedy and continuity
 

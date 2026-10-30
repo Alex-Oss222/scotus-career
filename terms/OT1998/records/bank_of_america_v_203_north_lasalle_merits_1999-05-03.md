@@ -1,7 +1,7 @@
 **Case and dockets:** Bank of America National Trust & Savings Ass’n v. 203 North LaSalle Street Partnership; No. 97-1418; judgment below, 126 F.3d 955.
 **Event and date:** merits decision, 1999-05-03; October Term 1998.
 **Result:** Reversed and remanded, 8–1; confirmation cannot stand on the exclusive old-equity investment opportunity.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen preparation handoffs below establish stage lineage. No Git command or repository commitment is claimed; verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, reach, record and entering law
 
@@ -17,33 +17,35 @@ Stone reverses confirmation and requires the exclusive old-equity opportunity to
 
 ## Form, assignment and final opinion table
 
-Form is fixed before assignment as one signed eight-Justice Opinion of the Court on the bounded property-and-causation rule, Stone's concurrence preserving his additional market-exposure position, and Stevens's dissent. All eight reversing Justices support every Court proposition; no Marks synthesis or artificial opinion division is required.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary merits review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 71 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 9 |
 | Scalia | 8 |
-| Kennedy | 6 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
 | Breyer | 8 |
 
-The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_LASALLE_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 71 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
+**Last counted event:** Russell v. Burris; Nos. 98-397 and 98-399; companion Citizens for Clean Government v. Russell; judgment below, 146 F.3d 563. 1999-04-28; author O'Connor; [Record](russell_v_burris_merits_1999-04-28.md).
 
-**Last event counted:** Russell v. Burris; Nos. 98-397 and 98-399; companion Citizens for Clean Government v. Russell; judgment below, 146 F.3d 563.; 1999-04-28; lead author O'Connor. [Record](russell_v_burris_merits_1999-04-28.md).
+**Eligible authors for the complete lead:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 7, ceiling 8. **Chosen author:** Kennedy.
 
-**Assignment authority:** Chief Justice Stone-Zsela, a member of the judgment majority.
+**Fit:** Kennedy. Kennedy's frozen Nobelman and Noland/CF&I grounds distinguish value from the legal rights being allocated and reconcile the different statutory functions of proposal exclusivity and substantive confirmation. That is the precise work of this bounded opinion. Kennedy's recorded emphasis on compatible statutory roles and the distinction between cash value and the allocated opportunity gives him the better fit for answering Stevens's combined preservation and new-capital objection without broadening the common rule.
 
-**Eligible complete-opinion authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Balance pool:** Kennedy, Thomas; minimum 6, ceiling 7. Lowest eligible count: 6; eligible counts at most 7 enter the pool.
-
-**Assignment:** Kennedy. Kennedy's frozen Nobelman and Noland/CF&I grounds distinguish value from the legal rights being allocated and reconcile the different statutory functions of proposal exclusivity and substantive confirmation. That is the precise work of this bounded opinion. Stone is substantively eligible but outside the pool at nine, with his further market-testing position preserved separately; Kennedy is at six and can carry the common rule with equally direct fit. Thomas is another seven-count candidate and fully supports the text-only formulation. Kennedy's recorded emphasis on compatible statutory roles and the distinction between cash value and the allocated opportunity gives him the better fit for answering Stevens's combined preservation and new-capital objection without broadening the common rule.
+**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_LASALLE_RECOUNT.json).
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -52,7 +54,6 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 | Dissent | Stevens | None | Would affirm | New-capital construction and unchallenged findings; no additional distributed opportunity requiring competition |
 
 Thomas and Scalia fully join because the Court opinion contains their sufficient textual ground and omits the historical-method and speculative-market propositions to which they objected. The other five reversing Associates support that same sufficient ground; no commitment to an omitted broader theory is inferred. Stone's concurrence preserves his additional rule without changing their joins. Stevens's source-corrected affirmance remains a substantive disagreement, not a vote change produced by authorship. The final table reconciles eight reversals and one affirmance.
-
 
 ## Controlling holdings, remedy and continuity
 

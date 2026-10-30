@@ -55,25 +55,35 @@ Ginsburg delivers the complete lead. Scalia's separate opinion, joined by Souter
 
 ## Assignment, recount and timing
 
-The Chief joins the judgment coalition on every component and assigns the whole lead. The complete-opinion eligible authors are **Stone-Zsela, Stevens, Kennedy and Ginsburg**. Each fully supports removal, the collector-action tax-forum ruling, the §111 characterization, the confined treatment of the renewed defense and the limited remand. O'Connor and Breyer oppose the merits rule; Scalia, Souter and Thomas oppose removal despite later conditional joins. Their partial support cannot qualify them for this whole opinion.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-The required fresh recount was completed before assignment and is preserved in `freeze/OT_1998CHUNK10_ACKER_RECOUNT.json`. It recounts from zero using actual canonical author evidence and current completed Record opinion-table authors, not previous reported tallies. It examines 117 preceding event Records and counts 106 lead opinions under the canonical date/caption filter. The last counted event is City of Dallas v. Dallas Fire Fighters Association, June 18, 1999.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
-| Justice | Count before assignment | Full-opinion eligibility | Balance-pool status |
-|---|---:|---|---|
-| Stone-Zsela | 13 | Eligible | In pool |
-| Stevens | 12 | Eligible | In pool |
-| O'Connor | 12 | Ineligible: opposes Parts III–IV | Outside eligible set |
-| Scalia | 12 | Ineligible: opposes Part I | Outside eligible set |
-| Kennedy | 11 | Eligible | In pool |
-| Souter | 12 | Ineligible: opposes Part I | Outside eligible set |
-| Thomas | 11 | Ineligible: opposes Part I | Outside eligible set |
-| Ginsburg | 11 | Eligible | In pool; selected |
-| Breyer | 12 | Ineligible: opposes Parts III–IV | Outside eligible set |
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
 
-The eligible minimum is eleven. Stevens, Kennedy and Ginsburg form the pool at eleven or twelve; Stone-Zsela is eligible but outside it at thirteen. **Assigned author: Ginsburg.** The settled substantive coalition calls for fit in coordinating removal, statutory consent, source discrimination and a renewed respondent alternative. Her current full agreement with both removal and tax grounds, and her own X-Citement Video favorable-judgment analysis, make her well suited to express the independent scope and preservation inquiries while applying the actual tax comparison. Her authorship does not rely on the historical Acker author, numerically necessary membership, general style or exclusion of another Justice for capability. No new join or changed frozen vote is obtained through assignment.
+The actual counted source opinions yield 106 leads before this assignment.
 
-**Timing:** Acker was stopped when Jones's already-completed assignment and Record were made. The later express remedial revalidation permitted this original Acker event to be completed. The canonical same-date alphabetical recount for Acker excludes Jones even though Jones was physically written earlier, because Jones follows Jefferson County v. Acker in the required caption order. Engine §8 preserves the previously completed Jones assignment and does not reopen it retrospectively. This Acker Record enters subsequent applicable recounts; no Jones Record or assignment is rewritten. Physical writing order supplies neither same-day entering law nor a fictional earlier completion of Acker.
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 12 |
+| Stevens | 12 |
+| O'Connor | 12 |
+| Scalia | 12 |
+| Kennedy | 12 |
+| Souter | 12 |
+| Thomas | 11 |
+| Ginsburg | 11 |
+| Breyer | 12 |
+
+**Last counted event:** City of Dallas v. Dallas Fire Fighters Association, No. 98-966. 1999-06-18; author Kennedy; [Record](city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md).
+
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, Kennedy, Ginsburg. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Kennedy, Ginsburg; minimum 11, ceiling 12. **Chosen author:** Ginsburg.
+
+**Fit:** **Assigned author: Ginsburg.** The settled substantive coalition calls for fit in coordinating removal, statutory consent, source discrimination and a renewed respondent alternative. Her current full agreement with both removal and tax grounds, and her own X-Citement Video favorable-judgment analysis, make her well suited to express the independent scope and preservation inquiries while applying the actual tax comparison. Her authorship does not rely on the historical Acker author, numerically necessary membership, general style or exclusion of another Justice for capability. No new join or changed frozen vote is obtained through assignment.
+
+The complete lead counts once for Ginsburg; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** `freeze/OT_1998CHUNK10_ACKER_RECOUNT.json`.
 
 ## Adaptive audit annex: reconciled Associate commitments
 

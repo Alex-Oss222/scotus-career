@@ -43,33 +43,43 @@ The public action, exact component judgment, complete joins and remedies appear 
 
 ## Form fixed before counting and assignment
 
-One signed lead opinion after plenary review addresses a single statutory temporal dispute with distinct earlier- and later-service judgment components. It is a counted lead opinion upon completion of this Record. The case-specific holdings and opinion scope are fixed here without consulting counts.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-Use one lead author for the whole opinion. Part I addresses the absence of sufficient statutory direction to reprice completed work and the provision-specific structural inquiry. Part II protects completed pre-enactment services. Part III applies the ceiling to later services in pending litigation and gives the allocation/remand rule. Parts I and II are joined by all nine; Part III by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. The common opinion stays at the concrete service-date level and does not announce an unqualified general expectations framework. All seven full-rule supporters can carry every governing proposition; splitting the lead would be unwarranted.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
-Scalia writes a concurrence joined by Kennedy and Thomas, explaining the relevant-activity method and making clear why their complete joins in this concrete opinion do not endorse a broader expectations inquiry. The concurrence supplies a distinct publicly preserved methodological position. Choosing Scalia for that explanation rests on his individually frozen method and his published Landgraf explanation, not on historical Martin authorship or balance. Ginsburg writes a concurrence in part and dissent in part, joined by Stevens, explaining the undertaking-of-representation alternative; her individual frozen rationale and Lindh structural analysis support that role. Neither separate writing is a counted lead opinion.
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
 
-No fifth vote for a new general methodology is inferred from the seven service-date votes. No Marks synthesis is needed: the concrete temporal propositions receive direct majority joins in the lead opinion.
+The actual counted source opinions yield 108 leads before this assignment.
+
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 12 |
+| Stevens | 12 |
+| O'Connor | 12 |
+| Scalia | 12 |
+| Kennedy | 12 |
+| Souter | 12 |
+| Thomas | 11 |
+| Ginsburg | 12 |
+| Breyer | 13 |
+
+**Last counted event:** Jones v. United States; No. 97-9361; federal capital sentencing. 1999-06-21; author Breyer; [Record](jones_v_united_states_merits_1999-06-21.md).
+
+**Eligible authors for the complete lead:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer. **Complete-opinion balance pool:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas; minimum 11, ceiling 12. **Chosen author:** Thomas.
+
+**Fit:** Use one lead author for the whole opinion. Part I addresses the absence of sufficient statutory direction to reprice completed work and the provision-specific structural inquiry. Part II protects completed pre-enactment services. Parts I and II are joined by all nine; Part III by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. The common opinion stays at the concrete service-date level and does not announce an unqualified general expectations framework. All seven full-rule supporters can carry every governing proposition; splitting the lead would be unwarranted.
+
+Scalia writes a concurrence joined by Kennedy and Thomas, explaining the relevant-activity method and making clear why their complete joins in this concrete opinion do not endorse a broader expectations inquiry. The concurrence supplies a distinct publicly preserved methodological position. Choosing Scalia for that explanation rests on his individually frozen method and his published Landgraf explanation, not on historical Martin authorship or balance. Ginsburg writes a concurrence in part and dissent in part, joined by Stevens, explaining the undertaking-of-representation alternative; her individual frozen rationale and Lindh structural analysis support that role.
 
 The Chief joins both tentative judgment coalitions and has assignment authority for the entire lead. The eligible authors are Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer, each of whom fully supports every concrete governing proposition. Stevens and Ginsburg oppose Part III. No Justice is excluded for experience, ability, subject-matter ownership, expected quality or prior authorship of an applied precedent.
 
-**Required recount and selection:** The fresh recount in `freeze/OT_1998CHUNK10_MARTIN_RECOUNT.json` was completed before this assignment for June 21, 1999, caption Martin v. Hadix. It begins at zero and uses actual canonical author evidence and completed Record opinion tables rather than earlier reported tallies. It includes both completed Acker and Jones in the required alphabetical sequence, examines 119 preceding event Records and counts 108 lead opinions. The last counted event is Jones v. United States, June 21, 1999. Neither same-date decision supplies Martin's substantive entering law.
+**The Chief assigns the complete lead opinion to Thomas.** His frozen relevant-activity analysis identifies the compensated legal services as this statute's object and supports the concrete distinction between completed and later work. That case-specific statutory fit permits him to carry the common narrow rule while preserving the separate general-methodology reservation. The settled common formulation is supported by all seven eligible Justices; the assignment changes none of those commitments.
 
-| Justice | Count before assignment | Complete-opinion eligibility | Balance-pool status |
-|---|---:|---|---|
-| Stone-Zsela | 13 | Eligible | In pool |
-| Stevens | 12 | Ineligible: opposes Part III | Outside eligible set |
-| O'Connor | 12 | Eligible | In pool |
-| Scalia | 12 | Eligible | In pool |
-| Kennedy | 11 | Eligible | In pool |
-| Souter | 12 | Eligible | In pool |
-| Thomas | 11 | Eligible | In pool; selected |
-| Ginsburg | 12 | Ineligible: opposes Part III | Outside eligible set |
-| Breyer | 13 | Eligible | Outside pool |
+Thomas also joins Scalia's separate relevant-activity explanation with Kennedy. Earlier completed assignments, including Jones while Acker was stopped, remain undisturbed; the present fresh recount includes both completed decisions as required.
 
-Kennedy and Thomas share the eligible minimum of eleven. The complete balance pool consists of O'Connor, Scalia, Kennedy, Souter and Thomas, whose counts do not exceed twelve; Stone-Zsela and Breyer remain eligible but are outside it at thirteen. **The Chief assigns the complete lead opinion to Thomas.** His frozen relevant-activity analysis identifies the compensated legal services as this statute's object and supports the concrete distinction between completed and later work. That case-specific statutory fit permits him to carry the common narrow rule while preserving the separate general-methodology reservation. No new join or objection is invented, and the full opinion is not divided to change eligibility or counts. The settled common formulation is supported by all seven eligible Justices; the assignment changes none of those commitments.
+The complete lead counts once for Thomas; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-Thomas also joins Scalia's separate relevant-activity explanation with Kennedy. That separate join preserves the stated methodological reservation without withdrawing his agreement with any concrete Court proposition or creating a second counted lead opinion. His assigned authorship rests on the current frozen grounds and lawful pool, not historical Martin authorship. Earlier completed assignments, including Jones while Acker was stopped, remain undisturbed; the present fresh recount includes both completed decisions as required.
+**Count evidence:** `freeze/OT_1998CHUNK10_MARTIN_RECOUNT.json`.
 
 ## Adaptive audit annex: frozen commitments and joins
 

@@ -33,11 +33,37 @@ Stone joins Parts I and II in full and votes to reverse and remand. His approved
 
 ## Assignment and final compatibility
 
-Stone assigns because he joins the reversal coalition. The fresh zero-based recount is `../freeze/OT_1998CHUNK10_GRUPO_RECOUNT.json`, generated after form/propositions were established by the inspected bounded recount script. It derives authors from exact canonical opinion evidence, not prior tallies, including West and Schleifer. Before assignment: Stone-Zsela 12; Stevens 11; O'Connor 12; Scalia 11; Kennedy 10; Souter 12; Thomas 11; Ginsburg 11; Breyer 11. Last counted event: Schleifer v. City of Charlottesville, June 15, 1999, O'Connor. There are 101 previously counted signed lead opinions.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-The eligible full-opinion authors are Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas; each joins both operative propositions in full. The minimum is ten. Scalia, Kennedy and Thomas form the pool; Stone-Zsela and O'Connor remain eligible but are outside it at twelve. Scalia is selected for the concrete work of separating traditional remedial categories from an injunction's label, reconciling Deckert/De Beers/First National City Bank, and preserving statutory and proprietary alternatives; his Mertens and Blue Fox work supplies directly relevant capability. Stone's separation of source, merits and relief fits the same work, but supplies no coalition accommodation or precision advantage over Scalia's demonstrated classification work. No expansion assignment is necessary. O'Connor's twelve leads exclude her from the pool; her different Mertens position concerns traditional trust relief absent here. Assignment does not import historical authorship.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
-Each frozen join is tested against the actual propositions: the four reversing Associates retain the missing-power ground despite strong collection facts; the four affirming Associates accept only Part I and retain their independently sourced adaptable-equity disagreement. Stone's source-and-object limit is fully carried. No circulated objection was revised, no commitment was changed, and no draft history is invented. Ginsburg's separate authorship organizes the four existing preservation grounds; separate writing does not count toward balance.
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 101 leads before this assignment.
+
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 11 |
+| Stevens | 11 |
+| O'Connor | 12 |
+| Scalia | 11 |
+| Kennedy | 11 |
+| Souter | 12 |
+| Thomas | 11 |
+| Ginsburg | 11 |
+| Breyer | 11 |
+
+**Last counted event:** Schleifer v. City of Charlottesville; No. 98-1146; review of 159 F.3d 843 (4th Cir. 1998). 1999-06-15; author O'Connor; [Record](schleifer_v_city_of_charlottesville_merits_1999-06-15.md).
+
+**Eligible authors for the complete lead:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas. **Complete-opinion balance pool:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas; minimum 11, ceiling 12. **Chosen author:** Scalia.
+
+**Fit:** The eligible full-opinion authors are Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas; each joins both operative propositions in full. Scalia is selected for the concrete work of separating traditional remedial categories from an injunction's label, reconciling Deckert/De Beers/First National City Bank, and preserving statutory and proprietary alternatives; his Mertens and Blue Fox work supplies directly relevant capability. Stone's separation of source, merits and relief fits the same work, but supplies no coalition accommodation or precision advantage over Scalia's demonstrated classification work. No expansion assignment is necessary. Assignment does not import historical authorship.
+
+Each frozen join is tested against the actual propositions: the four reversing Associates retain the missing-power ground despite strong collection facts; the four affirming Associates accept only Part I and retain their independently sourced adaptable-equity disagreement. Stone's source-and-object limit is fully carried. No circulated objection was revised, no commitment was changed, and no draft history is invented.
+
+The complete lead counts once for Scalia; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** `../freeze/OT_1998CHUNK10_GRUPO_RECOUNT.json`.
 
 ## Adaptive audit annex
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Ruhrgas AG v. Marathon Oil Co.; No. 98-470; judgment below, 145 F.3d 211.
 **Event and date:** merits decision, 1999-05-17; October Term 1998.
 **Result:** En banc sequencing judgment reversed and remanded, 9–0; actual jurisdictional determinations left for further appellate review.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen handoffs identified below establish stage lineage. Repository verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, participation and entering law
 
@@ -19,25 +19,35 @@ All eight reconciled Associates fully join that rule, its application and reserv
 
 ## Form, assignment and final opinion table
 
-Form before count: One signed unanimous opinion after plenary review, deciding only permissible ordering of nonmerits jurisdictional grounds and a bounded appellate remand.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 79 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 9 |
 | Souter | 9 |
 | Thomas | 9 |
 | Ginsburg | 9 |
 | Breyer | 9 |
 
-Fresh receipt: [Ruhrgas recount](../freeze/OT_1998CHUNK8_RUHRGAS_RECOUNT.json), 79 counted leads. **Last event counted:** Hunt v. Cromartie; No. 98-85; judgment below, 34 F. Supp. 2d 1029. (1999-05-17), Ginsburg; [Record](hunt_v_cromartie_merits_1999-05-17.md). Goldsmith, White and Hunt enter; the unsigned NJ decree does not count. Saenz remains later in same-date alphabetical assignment order and is excluded here.
+**Last counted event:** Hunt v. Cromartie; No. 98-85; judgment below, 34 F. Supp. 2d 1029. 1999-05-17; author Ginsburg; [Record](hunt_v_cromartie_merits_1999-05-17.md).
 
-**Assignment authority:** Chief Justice Stone-Zsela. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Author chosen:** Scalia. His Steel Co. and Jones positions expressly identify the constitutional-power/contested-merits line without exhausting nonmerits sequencing. Explaining why this dismissal respects that line is the opinion's precise work. Stone at nine and Stevens at eight are pool alternatives; Scalia can state the settled unanimous ground without changing it or borrowing a universal efficiency exception. Stone's interest in threshold ordering adds no independent authorship advantage. O'Connor remains eligible but outside the pool. No division or expansion accommodation is needed.
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Chosen author:** Scalia.
+
+**Fit:** His Steel Co. and Jones positions expressly identify the constitutional-power/contested-merits line without exhausting nonmerits sequencing. Explaining why this dismissal respects that line is the opinion's precise work. Stone's interest in threshold ordering adds no independent authorship advantage. No division or expansion accommodation is needed.
+
+The complete lead counts once for Scalia; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** [Ruhrgas recount](../freeze/OT_1998CHUNK8_RUHRGAS_RECOUNT.json).
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

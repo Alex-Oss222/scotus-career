@@ -1,7 +1,7 @@
 **Case and dockets:** Wilson v. Layne; No. 98-83.
 **Event and date:** Merits decision, 1999-05-24; October Term 1998.
 **Result:** Qualified-immunity judgment affirmed, 7–2; all nine hold added nonassisting media home entry unconstitutional.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen handoffs identified below establish stage lineage. Repository verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, participation and law entering
 
@@ -23,25 +23,33 @@ The approved Wilson section of [the Stone supplement](../runtime/OT_1998CHUNK8_S
 The actual pre-May24 law and [later dependency review](../freeze/OT_1998CHUNK8_LATE_DEPENDENCY_REVIEW.md) were reviewed; the automobile-seizure, other May17 and Maine rules create no authority for unrelated domestic media access. Hanlon is independently decided on the same baseline and supplies neither governing entering law nor April 1992 notice. Research and comparison preserve April 16, 1992 as the notice date, with all later law kept in its present-review role. No material historical departure by an Associate is established.
 ## Assignment and final compatibility
 
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** O'Connor, the most senior participating Associate in the judgment coalition, assigns; Stone-Zsela is outside that coalition. The Chief's compulsory balance-pool rule does not bind this assignment.
+
+The actual counted source opinions yield 86 leads before this assignment.
+
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 9 |
 | O'Connor | 11 |
 | Scalia | 9 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-Last counted event: Hanlon v. Berger; No. 97-1927. (1999-05-24), O'Connor; `hanlon_v_berger_merits_1999-05-24.md`. Counts were obtained afresh from actual Record opinion tables, including Hanlon's newly written signed lead, in effective-date and same-date caption order.
+**Last counted event:** Hanlon v. Berger; No. 97-1927. 1999-05-24; author O'Connor; [Record](hanlon_v_berger_merits_1999-05-24.md).
 
-O'Connor is the most senior Justice in the seven-vote affirmance coalition and assigns the complete lead to Scalia. Stone and Stevens oppose affirmance; their agreement with the merits holding does not authorize either to assign this lead. Eligible full-lead authors are O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The Chief's mandatory balance pool does not bind this Associate assignment; no mandatory pool is applied. For transparency, the minimum eligible count is nine and the within-one group would be Scalia (9), Kennedy (9), Souter (10), Thomas (9), Ginsburg (10) and Breyer (10), excluding O'Connor (11).
+**Eligible authors for the complete lead:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Illustrative within-one group:** Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 9, ceiling 10. **Chosen author:** Scalia.
 
-Scalia's own Anderson opinion supplies the particularized distinction between an unconstitutional act and reasonable legal error; his Hicks reasoning also separates an additional intrusion from a claim that every photograph is a seizure. O'Connor's own Hunter commitment requires that the immunity opinion accept the supported nonassistance facts rather than invent a safety function. Scalia can carry that exact shared method and answer Bills and Prahl at their actual holdings. Thomas, at the same count, is a strong alternative on manner-of-entry limits, but Scalia's direct authorship of the operative fair-notice method provides concrete fit for the disputed part. This is O'Connor's case-specific selection, not a Chief balance assignment or transferred historical author.
+**Fit:** Scalia's own Anderson opinion supplies the particularized distinction between an unconstitutional act and reasonable legal error; his Hicks reasoning also separates an additional intrusion from a claim that every photograph is a seizure. O'Connor's own Hunter commitment requires that the immunity opinion accept the supported nonassistance facts rather than invent a safety function. Scalia can carry that exact shared method and answer Bills and Prahl at their actual holdings. This is O'Connor's case-specific selection, not a Chief balance assignment or transferred historical author.
 
-All nine join Part I's complete constitutional rule, assistance/consent/independent-authority qualifications and application. O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join Part II's complete immunity rule and affirmance. Stevens writes a dissent joined by Stone-Zsela on their shared obvious-warrant-limit ground and ordinary remaining-liability remand. The Chief's explicit fair-notice analysis fits that writing in full; no change to any frozen non-Stone commitment or required separate Stone-only ground occurs. No conditional join or objection is silently removed.
+The complete lead counts once for Scalia; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
 ## Adaptive audit annex
 

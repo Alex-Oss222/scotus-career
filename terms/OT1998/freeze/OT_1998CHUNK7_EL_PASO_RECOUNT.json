@@ -2,11 +2,11 @@
   "before_date": "1999-05-03",
   "before_case": "El Paso Natural Gas Co. v. Neztsosie",
   "counts": {
-    "Stone-Zsela": 9,
+    "Stone-Zsela": 8,
     "Stevens": 8,
     "O'Connor": 9,
     "Scalia": 8,
-    "Kennedy": 7,
+    "Kennedy": 8,
     "Souter": 8,
     "Thomas": 7,
     "Ginsburg": 8,
@@ -787,13 +787,11 @@
       "date": "1999-04-21",
       "case": "United States v. Haggar Apparel Co.; No. 97-2044; judgment below, 127 F.3d 1460.",
       "authors": [
-        "Stone-Zsela"
+        "Kennedy"
       ],
       "rows": [
-        "| Opinion of the Court, Parts I–III | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common framework | Chevron applies within delegated authority and statutory limits; factfinding remains distinct |",
-        "| Opinion of the Court, Part IV | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Vacatur and remand | Regulation reasonableness and actual application remain open |",
-        "| Opinion of the Court, Parts I–III | Stone-Zsela | All eight Associate Justices | Delegation, statutory limits and Chevron framework |",
-        "| Opinion of the Court, Part IV | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Unresolved validity/application and remand |"
+        "| Opinion of the Court, Parts I–III | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Delegation, statutory limits and Chevron framework |",
+        "| Opinion of the Court, Part IV | Kennedy | O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Breyer | Unresolved validity/application and remand |"
       ]
     },
     {

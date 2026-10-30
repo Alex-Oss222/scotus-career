@@ -2,15 +2,15 @@
 
 Bounded assignment-only baseline immediately before West v. Gibson, June 14, 1999; all 110 prior completed OT1998 Records, including the two June 14 prior-chunk events.
 
-Fresh recount: **99 signed plenary/submitted merits leads; Stone-Zsela 12, Kennedy 10, and each other Justice 11.** Eleven of 110 prior completed events are excluded. Actual table authors supply the count, with the explicit Amoco narrative-topology exception documented below. Old assignment tallies do not supply any number.
+Fresh recount: **99 signed plenary/submitted merits leads; each Justice 11.** Eleven of 110 prior completed events are excluded. Actual table authors supply the count, with the explicit Amoco narrative-topology exception documented below. Old assignment tallies do not supply any number.
 
 | Justice | Count before West |
 |---|---:|
-| Stone-Zsela | 12 |
+| Stone-Zsela | 11 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 11 |
-| Kennedy | 10 |
+| Kennedy | 11 |
 | Souter | 11 |
 | Thomas | 11 |
 | Ginsburg | 11 |
@@ -112,7 +112,7 @@ The JSON companion records source paths, exact line locations, classification, a
 | 1999-04-07 | [Barnes v. American Tobacco Co](../records/barnes_v_american_tobacco_co_merits_1999-04-07.md) | Yes | Breyer |
 | 1999-04-13 | [In re Sealed Case](../records/in_re_sealed_case_merits_1999-04-13.md) | Yes | Stevens |
 | 1999-04-20 | [UNUM Life Insurance Co. of America v. Ward](../records/unum_life_insurance_co_v_ward_merits_1999-04-20.md) | Yes | Ginsburg |
-| 1999-04-21 | [United States v. Haggar Apparel Co](../records/united_states_v_haggar_apparel_co_merits_1999-04-21.md) | Yes | Stone-Zsela |
+| 1999-04-21 | [United States v. Haggar Apparel Co](../records/united_states_v_haggar_apparel_co_merits_1999-04-21.md) | Yes | Kennedy |
 | 1999-04-22 | [Brooks v. Barnes](../records/brooks_v_barnes_merits_1999-04-22.md) | Yes | Souter |
 | 1999-04-27 | [United States v. Sun-Diamond Growers of California](../records/united_states_v_sun_diamond_growers_merits_1999-04-27.md) | Yes | Scalia |
 | 1999-04-28 | [Russell v. Burris](../records/russell_v_burris_merits_1999-04-28.md) | Yes | O'Connor |
@@ -1788,7 +1788,7 @@ Counted lead: Yes. Author: Ginsburg.
 
 Source: [Record](../records/united_states_v_haggar_apparel_co_merits_1999-04-21.md).
 
-Counted lead: Yes. Author: Stone-Zsela.
+Counted lead: Yes. Author: Kennedy.
 
 #### Identity
 
@@ -1798,13 +1798,13 @@ Counted lead: Yes. Author: Stone-Zsela.
 
 #### Opinion Authorship
 
-> | Opinion of the Court, Parts I–III | Stone-Zsela | All eight Associate Justices | Delegation, statutory limits and Chevron framework |
+> | Opinion of the Court, Parts I–III | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Delegation, statutory limits and Chevron framework |
 
-> | Opinion of the Court, Part IV | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Unresolved validity/application and remand |
+> | Opinion of the Court, Part IV | Kennedy | O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Breyer | Unresolved validity/application and remand |
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-04-22 — Brooks v. Barnes
 
@@ -1826,7 +1826,7 @@ Counted lead: Yes. Author: Souter.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-04-27 — United States v. Sun-Diamond Growers of California
 
@@ -1840,13 +1840,9 @@ Counted lead: Yes. Author: Scalia.
 
 > **Event and date:** merits decision, 1999-04-27; October Term 1998.
 
-#### Opinion Authorship
-
-> | Opinion of the Court | Scalia | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous judgment | Complete holdings, application, qualifications and remedy |
-
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-04-28 — Russell v. Burris
 
@@ -1868,7 +1864,7 @@ Counted lead: Yes. Author: O'Connor.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-03 — Bank of America National Trust & Savings Ass’n v. 203 North LaSalle Street Partnership
 
@@ -1882,13 +1878,9 @@ Counted lead: Yes. Author: Kennedy.
 
 > **Event and date:** merits decision, 1999-05-03; October Term 1998.
 
-#### Opinion Authorship
-
-> | Opinion of the Court | Kennedy | Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Reversal and remand | Complete bounded exclusive-opportunity property/causation rule, reservations and remedy |
-
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-03 — El Paso Natural Gas Co. v. Neztsosie
 
@@ -1902,13 +1894,9 @@ Counted lead: Yes. Author: Thomas.
 
 > **Event and date:** merits decision, 1999-05-03; October Term 1998.
 
-#### Opinion Authorship
-
-> | Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous judgment | Complete holdings, application, qualifications and remedy |
-
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-03 — INS v. Aguirre-Aguirre
 
@@ -1922,15 +1910,9 @@ Counted lead: Yes. Author: Breyer.
 
 > **Event and date:** merits decision, 1999-05-03; October Term 1998.
 
-#### Opinion Authorship
-
-> | Opinion of the Court, Parts I–II | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Reversal and appellate remand | Complete A1–A3 rules and bounded agency-review application |
-
-> | Opinion of the Court, Part III | Breyer | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Late translation contention left undecided through existing agency-motion route | Eight direct rationale joins; Stone-Zsela joins this component's disposition only and adds no ground |
-
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-10 — Redmon v. United States
 
@@ -1950,7 +1932,7 @@ Counted lead: Yes. Author: O'Connor.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-13 — Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc
 
@@ -1972,7 +1954,7 @@ Counted lead: Yes. Author: Souter.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-17 — Clinton v. Goldsmith
 
@@ -1992,7 +1974,7 @@ Counted lead: Yes. Author: Kennedy.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-17 — Florida v. White
 
@@ -2012,7 +1994,7 @@ Counted lead: Yes. Author: Thomas.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-17 — Hunt v. Cromartie
 
@@ -2034,7 +2016,7 @@ Counted lead: Yes. Author: Ginsburg.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; one signed lead after plenary direct review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-17 — New Jersey v. New York
 
@@ -2070,7 +2052,7 @@ Counted lead: Yes. Author: Scalia.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-17 — Saenz v. Roe
 
@@ -2084,13 +2066,9 @@ Counted lead: Yes. Author: Kennedy.
 
 > **Event and date:** merits decision, 1999-05-17; October Term 1998.
 
-#### Opinion Authorship
-
-> | Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg, Breyer | Affirmance | Complete narrow equal-citizenship rule, federal-permission limit and preliminary remedy |
-
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes; signed lead after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-20 — Maine Green Party v. Maine
 
@@ -2110,9 +2088,7 @@ Counted lead: Yes. Author: Breyer.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes.
-
-> Signed lead opinion announcing the judgment after post-grant merits consideration of the submitted record; no Supreme Court argument date is supplied.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-24 — California Dental Association v. Federal Trade Commission
 
@@ -2136,9 +2112,7 @@ Counted lead: Yes. Author: Souter.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes.
-
-> Signed lead after plenary review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-24 — Cleveland v. Policy Management Systems Corp
 
@@ -2158,9 +2132,7 @@ Counted lead: Yes. Author: Stevens.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes.
-
-> One signed Opinion of the Court after plenary argument, resolving the statutory-estoppel question, the ordinary explanation requirement and their remand together.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-24 — Davis v. Monroe County Board of Education
 
@@ -2184,9 +2156,7 @@ Counted lead: Yes. Author: Ginsburg.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes.
-
-> One signed Opinion of the Court after plenary argument.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-24 — Hanlon v. Berger
 
@@ -2210,9 +2180,7 @@ Counted lead: Yes. Author: O'Connor.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes.
-
-> An independent signed lead after merits consideration is warranted because the protected-space, actual-interest, distinct-recording and bounded-mandate questions require an account of their own.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-05-24 — Wilson v. Layne
 
@@ -2234,9 +2202,7 @@ Counted lead: Yes. Author: Scalia.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes.
-
-> One independent signed Opinion of the Court after plenary argument, resolving the merits and the distinct immunity inquiry in separate parts of the same opinion.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-06-01 — Richardson v. United States
 
@@ -2256,9 +2222,7 @@ Counted lead: Yes. Author: Stevens.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes.
-
-> Form first: this is an argued plenary merits decision on a single statutory question with a shared mandate.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-06-03 — Bruneau v. South Kortright Central School District
 
@@ -2280,9 +2244,7 @@ Counted lead: Yes. Author: Thomas.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes.
-
-> Form first: a signed plenary opinion addresses the distinct constitutional and statutory enforcement questions with their common remedial limits.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-06-03 — Reno v. Goncalves
 
@@ -2304,7 +2266,7 @@ Counted lead: Yes. Author: Stone-Zsela.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes: a signed lead after plenary argued merits review. The distinct jurisdiction and temporal/deference parts and the additional separate writings were fixed before this count, as the form-first section records. The Chief is in the judgment majority and assigns the complete lead. Its eligible authors are Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, each of whom joins every governing proposition. Scalia, Kennedy and Thomas join only Part I and are not eligible to carry the full lead.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-06-07 — Amoco Production Co. v. Southern Ute Indian Tribe
 
@@ -2317,10 +2279,6 @@ Counted lead: Yes. Author: Stevens.
 > **Case and dockets:** Amoco Production Co. v. Southern Ute Indian Tribe; No. 98-830; Tenth Circuit en banc judgment, 151 F.3d 1251.
 
 > **Event and date:** Merits decision, 1999-06-07; October Term 1998.
-
-#### Opinion Authorship
-
-> Stevens delivers the opinion of the Court, joined in full by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. The complete Court-opinion coalition is Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Ginsburg filed a dissent.
 
 #### Assignment Classification
 
@@ -2366,7 +2324,7 @@ Counted lead: Yes. Author: Ginsburg.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-06-10 — City of Chicago v. Morales
 
@@ -2406,7 +2364,7 @@ Counted lead: Yes. Author: Scalia.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-06-10 — Lilly v. Virginia
 
@@ -2426,7 +2384,7 @@ Counted lead: Yes. Author: Breyer.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-06-10 — Neder v. United States
 
@@ -2454,7 +2412,7 @@ Counted lead: Yes. Author: Thomas.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes. One signed lead opinion after plenary merits review, delivered throughout by Thomas.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-06-14 — Cunningham v. Hamilton County
 
@@ -2474,7 +2432,7 @@ Counted lead: Yes. Author: Kennedy.
 
 #### Assignment Classification
 
-> **Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
+> **Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
 ### 1999-06-14 — Greater New Orleans Broadcasting Association, Inc. v. United States
 

@@ -1,7 +1,7 @@
 **Case and dockets:** Albertson’s, Inc. v. Kirkingburg; No. 98-591.
 **Event and date:** Plenary merits decision; OT1998; 1999-06-22; argued 1999-04-28.
 **Result:** Reversed and remanded, 9–0, with instructions to implement judgment for Albertson’s on the reviewed federal qualification claim.
-**Version / lineage:** Original canonical decision; no prior decision in this matter is superseded.
+**Version / lineage:** Original decision.
 
 ## Event, posture and participation
 
@@ -114,11 +114,37 @@ The employee’s strongest path treats the actual waiver and strong driving reco
 
 ## Opinion form and assignment
 
-Form and propositions were fixed before opening counts: one signed lead opinion after argument, a dispositive qualification part and severable nonessential disability-method discussion, plus Stone’s substantive disagreement and Thomas’s additional qualification concurrence. The disability issue was separately presented and has six supported proponents; its presence preserves their expressed position without making it a ground for relief. No proposition, opinion or case was divided or combined to affect assignment. Because six eligible authors can carry all parts, no split authorship is warranted. No expansion assignment is needed: all required common grounds and limits were already frozen and no unresolved formulation objection changes a join.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Assignment:** Chief Justice Stone-Zsela assigns because he joins the unanimous judgment coalition. The immediately preceding [fresh recount](../freeze/OT_1998CHUNK11_ALBERTSON_RECOUNT.json) starts at zero and extracts actual current canonical opinion authors, including alphabetically earlier same-day events; no old assignment tally is used. Prior counts for all nine: Stone-Zsela 13; Stevens 12; O’Connor 12; Scalia 12; Kennedy 11; Souter 12; Thomas 12; Ginsburg 12; Breyer 13. Last counted event: Martin v. Hadix, merits, June 21, 1999 (`martin_v_hadix_merits_1999-06-21.md`). Eligible authors: O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Each supports every lead-opinion proposition and limit. All six eligible Associates form the pool: Kennedy has eleven leads and the others twelve. Chosen author: Kennedy. His Bragdon opinion supplies concrete fit for this case’s actual work: keeping individual substantial limitation, official source function and independent legal qualification distinct while preserving the evidence and express limits. All six can write the opinion; Kennedy’s demonstrated execution of these distinctions supports the selection at the lowest eligible count. Stone is ineligible for the whole opinion because he rejects Part II-B; Stevens and Breyer are ineligible because they reserve Part II. No historical authorship entitlement or later-career legal position is used.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
-Final compatibility is assessed against the text and fixed commitments, not an invented draft exchange. The signed lead counts once for Kennedy; separate writings do not count.
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 109 leads before this assignment.
+
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 12 |
+| Stevens | 12 |
+| O'Connor | 12 |
+| Scalia | 12 |
+| Kennedy | 12 |
+| Souter | 12 |
+| Thomas | 12 |
+| Ginsburg | 12 |
+| Breyer | 13 |
+
+**Last counted event:** Martin v. Hadix, No. 98-262; October Term 1998. 1999-06-21; author Thomas; [Record](martin_v_hadix_merits_1999-06-21.md).
+
+**Eligible authors for the complete lead:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg. **Complete-opinion balance pool:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg; minimum 12, ceiling 13. **Chosen author:** Kennedy.
+
+**Fit:** The disability issue was separately presented and has six supported proponents; its presence preserves their expressed position without making it a ground for relief. No proposition, opinion or case was divided or combined to affect assignment. Because six eligible authors can carry all parts, no split authorship is warranted. No expansion assignment is needed: all required common grounds and limits were already frozen and no unresolved formulation objection changes a join.
+
+Chief Justice Stone-Zsela assigns because he joins the unanimous judgment coalition. The immediately preceding [fresh recount](../freeze/OT_1998CHUNK11_ALBERTSON_RECOUNT.json) starts at zero and extracts actual current canonical opinion authors, including alphabetically earlier same-day events; no old assignment tally is used. Hadix, merits, June 21, 1999 (`martin_v_hadix_merits_1999-06-21.md`). Eligible authors: O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Each supports every lead-opinion proposition and limit. Chosen author: Kennedy. His Bragdon opinion supplies concrete fit for this case’s actual work: keeping individual substantial limitation, official source function and independent legal qualification distinct while preserving the evidence and express limits. Stone is ineligible for the whole opinion because he rejects Part II-B; Stevens and Breyer are ineligible because they reserve Part II. No historical authorship entitlement or later-career legal position is used.
+
+The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** [fresh recount](../freeze/OT_1998CHUNK11_ALBERTSON_RECOUNT.json).
 
 ## Material Published Noncontrolling Positions
 

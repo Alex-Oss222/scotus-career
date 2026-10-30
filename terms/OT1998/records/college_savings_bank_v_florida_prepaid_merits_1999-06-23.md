@@ -70,25 +70,37 @@ The law and complete public explanations are set out in the Holdings, Precedent 
 
 ## Assignment under Engine §8
 
-The Chief assigns because he belongs to the five-Justice reversal coalition. The signed form and all governing propositions were fixed first in the legal-preparation receipt. The fresh [recount](../freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_RECOUNT.json) starts at zero and uses only actual author evidence from earlier qualifying Records, including alphabetically preceding same-day Alden. No prior tally is reused. There are 115 counted opinions from 128 preceding Records; the last counted event is Alden v. Maine, merits, June 23, 1999, `alden_v_maine_merits_1999-06-23.md`, whose released SHA256 is `40db0920c98efafaf86ad256326e8f76365c3489b6c1eec277033c37256e753a`.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 115 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 13 |
+| Stone-Zsela | 12 |
 | Stevens | 12 |
 | O'Connor | 14 |
 | Scalia | 12 |
-| Kennedy | 13 |
+| Kennedy | 14 |
 | Souter | 13 |
 | Thomas | 12 |
 | Ginsburg | 13 |
 | Breyer | 13 |
 
-**Assigning Justice:** Chief Justice Stone-Zsela. **Eligible authors for the entire lead:** Stone-Zsela only. **Balance pool:** Stone-Zsela; minimum 13, ceiling 14. **Chosen author:** Stone-Zsela. **Last event counted:** Alden v. Maine, June 23, 1999. This is a mandatory sole-pool assignment, not a preference based on importance, office or subject interest.
+**Last counted event:** Alden v. Maine; No. 98-436; 527 U.S. 706. 1999-06-23; author Souter; [Record](alden_v_maine_merits_1999-06-23.md).
 
-Stone fully supports every actual lead proposition and the reversal remedy. Stevens refuses the adverse §5 and consent portions and does not adopt the Article I route; Souter, Ginsburg and Breyer refuse the adverse consent portion and do not adopt that route. O'Connor, Scalia, Kennedy and Thomas are outside the reversal coalition and reject its Article I scope basis. Their agreement with particular negative portions does not make them eligible to deliver this whole lead. Because one eligible author can carry every part, §8 does not permit dividing authorship merely to obtain different pools. No adverse majority-supported portion is dropped to enlarge eligibility, and no consent rationale is attributed to Stone.
+**Eligible authors for the complete lead:** Stone-Zsela. **Complete-opinion balance pool:** Stone-Zsela; minimum 12, ceiling 13. **Chosen author:** Stone-Zsela.
 
-Breyer's separate concurrence gives the four actual commercial-condition supporters' shared reasoning; its meaningful-choice and clear-notice formulation fits his supported position. Stevens states his distinct property/prevention ground separately. O'Connor's dissent states the four actual scope positions and their resulting affirmance, consistent with her date-eligible question-presentation and immunity distinctions. These are separate writings, do not announce the Court's judgment, and do not count. No historical authorship or fictional circulation episode supplies the assignments.
+**Fit:** Stone fully supports every actual lead proposition and the reversal remedy. Stevens refuses the adverse §5 and consent portions and does not adopt the Article I route; Souter, Ginsburg and Breyer refuse the adverse consent portion and do not adopt that route. O'Connor, Scalia, Kennedy and Thomas are outside the reversal coalition and reject its Article I scope basis. Their agreement with particular negative portions does not make them eligible to deliver this whole lead. Because one eligible author can carry every part, §8 does not permit dividing authorship merely to obtain different pools. No adverse majority-supported portion is dropped to enlarge eligibility, and no consent rationale is attributed to Stone.
+
+Breyer's separate concurrence gives the four actual commercial-condition supporters' shared reasoning; its meaningful-choice and clear-notice formulation fits his supported position. Stevens states his distinct property/prevention ground separately. O'Connor's dissent states the four actual scope positions and their resulting affirmance, consistent with her date-eligible question-presentation and immunity distinctions. No historical authorship or fictional circulation episode supplies the assignments.
+
+The complete lead counts once for Stone-Zsela; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** [recount](../freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_RECOUNT.json).
 
 ## Frozen-commitment compatibility and historical reconciliation
 

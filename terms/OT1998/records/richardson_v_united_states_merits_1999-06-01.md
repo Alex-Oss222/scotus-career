@@ -1,7 +1,7 @@
 **Case and dockets:** Richardson v. United States; No. 97-8629.
 **Event and date:** Merits decision, 1999-06-01; October Term 1998.
 **Result:** The Seventh Circuit judgment concerning the challenged CCE conviction is vacated and the case is remanded, 6-3.
-**Version / lineage:** Original adjudication; supersedes no completed event. Stage lineage is the frozen neutral, independent and reconciled handoffs identified below. Repository verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, route and entering law
 
@@ -17,27 +17,33 @@ The current Section II is approved by the Run command and is mechanically preser
 
 ## Opinion form, coalition and assignment
 
-Form first: this is an argued plenary merits decision on a single statutory question with a shared mandate. A signed, undivided opinion states the common rule; one dissent states the competing enterprise construction. The rule, scope, parts and form were fixed without consulting counts. **Counted lead opinion:** Yes.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-The Chief belongs to the six-Justice judgment coalition and assigns. The tentative ground is the independently unlawful violations required by the statute, with no requirement of agreement on every evidentiary detail and no present harmlessness classification. All six support every proposition stated for the Court. Their different possible approaches to a later harmlessness inquiry remain reservations, not objections to the actual remand. No accommodation enlarges a frozen commitment.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 87 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 9 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-Last counted event: Wilson v. Layne, May 24, 1999, signed lead by Scalia. Fresh recount: 87 counted leads from 98 existing Records. Eligible authors: Stone-Zsela, Stevens, Scalia, Souter, Thomas and Breyer. Lowest eligible count: 9. Balance pool: Stone-Zsela, Stevens, Scalia, Souter, Thomas, Breyer; minimum 9, ceiling 10. Author selected: Stevens.
+**Last counted event:** Wilson v. Layne; No. 98-83. 1999-05-24; author Scalia; [Record](wilson_v_layne_merits_1999-05-24.md).
 
-Fit: the settled common ground calls for distinguishing the statutory agreement and series requirements while preserving the jury's role and a precisely reserved remedy. Stevens's Rutledge opinion and Schad position give him a case-specific advantage in explaining that distinction. Stone is the strongest alternative in the pool: his approved violations analysis and separation of merits from remedy fit the work, but Stevens's directly relevant CCE analysis supplies the more concrete advantage. Thomas can state the same textual ground; no unique formulation from him is needed to secure joins. The selection is within the pool and relies on fit, not historical authorship, importance or a claim that any Justice lacks ability. There is no identified disagreement requiring expansion.
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, Scalia, Souter, Thomas, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Thomas; minimum 8, ceiling 9. **Chosen author:** Stevens.
 
-Kennedy states the three dissenters' shared enterprise construction, supported by their Schad and statutory-classification positions. His dissent is not a counted lead or a separate Chief-assigned Court component. Final circulation preserves the complete six-Justice join and the three dissenters' refusal; no vote or join is invented from conditional remedial acceptance.
+**Fit:** Fit: the settled common ground calls for distinguishing the statutory agreement and series requirements while preserving the jury's role and a precisely reserved remedy. Stevens's Rutledge opinion and Schad position give him a case-specific advantage in explaining that distinction. Thomas can state the same textual ground; no unique formulation from him is needed to secure joins. There is no identified disagreement requiring expansion.
+
+The complete lead counts once for Stevens; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
 ## Controlling holdings
 

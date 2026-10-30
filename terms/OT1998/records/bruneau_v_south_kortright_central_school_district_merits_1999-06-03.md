@@ -1,7 +1,7 @@
 **Case and dockets:** Bruneau v. South Kortright Central School District; No. 98-1541.
 **Event and date:** Merits decision, 1999-06-03; October Term 1998.
 **Result:** District/Board section 1983 displacement dismissal reversed and remanded: 9-0 on independent Equal Protection claims, 8-1 on the statutory-right route. The separate Title IX verdict and individual immunity affirmance are undisturbed.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen stage handoffs identified below; repository verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, authority and entering state
 
@@ -17,27 +17,35 @@ The corrected lower record does not displace his approved component choice: Race
 
 ## Opinion form, component assignments and final joins
 
-Form first: a signed plenary opinion addresses the distinct constitutional and statutory enforcement questions with their common remedial limits. One Justice can carry both controlling parts; there is no legal reason to divide authorship. **Counted lead opinion:** Yes. The parts and scope were fixed before the count.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-The Chief is in the unanimous constitutional judgment coalition and assigns that portion and the common scope/remedy. He is not in the eight-Justice statutory reversal coalition. Stevens, the senior participating Associate in that coalition, assigns the statutory portion. Thomas delivers the undivided lead opinion with the different joins expressly stated.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns the constitutional and common scope/remedy portion; Stevens assigns the statutory reversal portion, which Stone opposes. For the Chief-assigned constitutional/common portion, eligible authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; its binding pool is Stone-Zsela, Thomas (minimum 8, ceiling 9). 
+
+The actual counted source opinions yield 88 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 10 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-The last counted event is Richardson v. United States, June 1, 1999, signed lead by Stevens. The fresh recount totals 88 leads. All nine are eligible for the constitutional/common portion; its minimum is nine and its pool is Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, at nine or ten. The statutory portion's full eligible set is Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; Stone's opposed disposition and statutory ground exclude him. Its minimum is 9 and the corresponding balance range includes Kennedy and Thomas (9 each), and Stevens, Scalia, Souter, Ginsburg and Breyer (10 each); O'Connor has 11. The Associate's assignment is not independently bound by the Chief's pool rule, but the joint single-author selection satisfies both component ranges.
+**Last counted event:** Richardson v. United States; No. 97-8629. 1999-06-01; author Stevens; [Record](richardson_v_united_states_merits_1999-06-01.md).
 
-Thomas is the only member of the Chief's constitutional pool who can carry every governing proposition of the undivided opinion. He is therefore chosen. His full Blessing join and insistence that the statutory vehicle retain the underlying recipient limits supply a faithful explanation of the shared rights-and-remedies distinction. Stevens's assignment of the statutory portion is supported by Thomas's accepted operative framework and ability to express that preserved limitation, not by a claim of historical authorship or a new ideological criterion. Ginsburg's existing Kinman/Davis work is a strong case-specific alternative for the full analysis, but she is outside the pool for the Chief-assigned constitutional portion at this assignment. No division is invented to alter those counts.
+**Eligible authors for the complete lead:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 9, ceiling 10. **Chosen author:** Thomas.
 
-Final joins: every Associate joins both holdings and the limited mandate. Stone joins only the constitutional/common portions and refuses statutory reversal for the reason fixed in Section II. The majority answers the evasion objection by preserving all actual statutory limits; that answer does not convert Stone's expressly constitutional-only remand into support for the statutory route. No circulation revision, fallback or invented objection expands his approved position. His separate writing performs the work of preserving that dissent and his operative qualifications.
+**Fit:** Form first: a signed plenary opinion addresses the distinct constitutional and statutory enforcement questions with their common remedial limits. One Justice can carry both controlling parts; there is no legal reason to divide authorship.
+
+He is therefore chosen. His full Blessing join and insistence that the statutory vehicle retain the underlying recipient limits supply a faithful explanation of the shared rights-and-remedies distinction. Stevens's assignment of the statutory portion is supported by Thomas's accepted operative framework and ability to express that preserved limitation, not by a claim of historical authorship or a new ideological criterion.
+
+The complete lead counts once for Thomas; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
 ## Controlling holdings
 

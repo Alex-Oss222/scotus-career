@@ -24,9 +24,3 @@ Twelve Court events are recorded in their existing chronological positions throu
 The October 5 lead is Stone-Zsela's; the October 7 lead is Souter's; the October 9 lead is O'Connor's. Each counts once. The unsigned Louisiana decree and all separate writings count zero. The eleven counted chunk 1 leads give Stone-Zsela and Scalia two each and every other Justice one. Each assignment retains its recorded eligible coalition and form; same-date alphabetical counting does not supply same-date entering law. Later-entered earlier-date Records are treated under section 8's nonreopening rule.
 
 Wright's complete Core-Preservation Review commands five direct votes; all its dispositions are unanimous. FOP applies intermediate scrutiny to the qualifying domestic-violence disability in the developed official-use challenge and reverses and remands unanimously. Hiley affirms unanimously without adjudicating its abandoned arms claim. Peoples Rights, Franklyn/Gonzalez and Griffin/Langley preserve their distinct questions and do not decide an unpresented arms challenge.
-
-## Verification scope
-
-All six affected public entries retain every component disposition, opinion scope, material qualification and remedy. The other six chunk 1 entries and every other chunk render retain their baseline bytes. All eleven chunk Render Inputs have been regenerated from their source Records, preserving event order; unaffected public blocks retain their substance. The term checker passes with Git object verification disabled by instruction. Primary frozen commitments, approved briefs and close files retain their baseline bytes. No Git command or prohibited-path access was used.
-
-The manifest records three later section 8 assignment blockers: Haggar, Morales and Greater New Orleans Broadcasting. Their Records and authors remain intact; subsequent tallies count those existing opinions pending resolution. This does not add a Court event or alter a disposition.

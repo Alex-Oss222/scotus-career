@@ -19,35 +19,37 @@
 
 ## Assignment
 
-**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-The form, governing propositions, component coalitions and full-rationale eligibility were established before the count. The Chief joins the judgment majority and assigns this lead opinion.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
-| Justice | Count before this assignment |
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 94 leads before this assignment.
+
+| Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 11 |
+| Stone-Zsela | 10 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 11 |
 | Thomas | 10 |
 | Ginsburg | 11 |
 | Breyer | 10 |
 
-**Last counted event:** City of Chicago v. Morales, No. 97-1121. (1999-06-10), authored by Stone-Zsela; [Record](../records/city_of_chicago_v_morales_merits_1999-06-10.md).
+**Last counted event:** City of Chicago v. Morales, No. 97-1121. 1999-06-10; author Stone-Zsela; [Record](city_of_chicago_v_morales_merits_1999-06-10.md).
 
-**Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer.
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer; minimum 10, ceiling 11. **Chosen author:** Scalia.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Breyer; minimum 10, ceiling 11.
+**Fit:** Scalia is selected for the specific statutory work of distinguishing section 559 preservation of antecedent law from the separate expressness rule for later enactments, then testing whether the historical direct-review practice establishes the asserted exception. His reconciled grounds connect that inquiry to meaningful agency scrutiny under the actual governing standard without importing a patent exemption or deciding the APA subcategory. No unresolved join objection requires expansion.
 
-**Assigned author:** Scalia. Scalia is selected at 10 for the specific statutory work of distinguishing section 559 preservation of antecedent law from the separate expressness rule for later enactments, then testing whether the historical direct-review practice establishes the asserted exception. His reconciled grounds connect that inquiry to meaningful agency scrutiny under the actual governing standard without importing a patent exemption or deciding the APA subcategory. No unresolved join objection requires expansion.
+Scalia offers a particularly direct integration of the source-specific savings inquiry and actual-standard analysis while preserving that objective.
 
-**Strongest eligible pool alternative and comparison:** The Chief, at eleven compared with Scalia's ten, is the strongest alternative: his approved agency-versus-court review distinction and whole-record remand would carry the same bounded opinion. Scalia offers a particularly direct integration of the source-specific savings inquiry and actual-standard analysis while preserving that objective. Breyer at 10 can likewise explain meaningful review without judicial factfinding; none of the eligible Justices is excluded for expertise or prior authorship.
+The complete lead counts once for Scalia; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Fresh-count evidence:** [recount](../runtime/OT_1998CHUNK9_ZURKO_FINAL_RECOUNT.json); every prior author was recounted from actual opinion tables and form classifications, not previous totals. Git verification remains deferred under the authorized no-Git workflow.
-
-**Dated-law checkpoint:** June 1 Richardson, June 3 Goncalves and Bruneau, and June 7 Amoco and OSullivan have been checked in their public copies. Goncalves preserves ordinary delegated legal interpretation and does not determine PTO fact-review standards; Amoco expressly supplies no general Interior-deference rule. No changed section 559 premise or Stone condition follows. Tice and Morales enter the assignment count only and supply no substantive APA dependency.
+**Count evidence:** [recount](../runtime/OT_1998CHUNK9_ZURKO_FINAL_RECOUNT.json).
 
 ## Law of the decision
 **APA review of PTO factual findings.** Direct Federal Circuit review of PTO factual findings is governed by the applicable APA court-agency standard, not the clearly-erroneous standard used to review district-court findings. Section 559 preserves additional requirements imposed by statute or otherwise recognized by law, but the asserted pre-APA direct-review requirement has not been sufficiently established; the Federal Circuit must identify and apply the proper §706 category on the whole record.

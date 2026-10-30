@@ -133,7 +133,7 @@ Exact controlling propositions, coalitions, qualifications, precedent treatment 
 
 ### United States v. Griffin / United States v. Langley — 1998-10-29
 
-Effective October 29, 1998, the sections 922(d)(1) and 922(g)(1) supply-and-recipient mechanism governs these two local pistol possessions. The constitutional basis, the enacted nexus and evidence proving that nexus remain separate inquiries. No contemporaneous movement or individual direct-effect element is added, while proof beyond a reasonable doubt remains necessary for each firearm.
+Effective October 29, 1998, the sections 922(d)(1) and 922(g)(1) supply-and-recipient mechanism supplies constitutional authority over these two local pistol possessions. Remote interstate movement may satisfy the enacted nexus but does not alone justify regulation of the possession class; Congress cannot evade Lopez merely by adding a jurisdictional element. Constitutional authority, the enacted nexus and evidence proving that nexus remain separate inquiries. No contemporaneous movement or individual direct-effect element is added, while proof beyond a reasonable doubt remains necessary for each firearm.
 
 Both convictions stand on the expert testimony concerning both Connecticut-manufactured pistols and their separate North Carolina possession. The decision supplies no new arms claim, universal approval of every status restriction, recipient mental-state rule, replacement jury charge or sentencing holding.
 

@@ -64,25 +64,37 @@ Kennedy's signed plenary lead opinion counts once. Separate dissents do not coun
 
 ## Assignment
 
-The judgment coalition supporting affirmance is O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Each supports all governing propositions of the single signed Court opinion, including the mitigation rule and actual-seeing application, the statutory-fit treatment of Appendix guidance, and the regarded-as-working rule and application. These six are eligible authors. Stone-Zsela is outside that coalition, and Stevens and Breyer reject its operative mitigation rule. O’Connor, the senior participating Associate in the judgment coalition, therefore assigns the opinion.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-The mandatory recount was completed from zero immediately before assignment after the preceding Records, using canonical opinion-author evidence rather than old tallies. It counted 109 qualifying signed lead opinions; the last counted event was Martin v. Hadix, June 21, 1999. The separately granted and summarily decided Dyson actions are noncounting. The preserved recount is `freeze/OT_1998CHUNK10_SUTTON_RECOUNT.json`.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** O'Connor, the most senior participating Associate in the judgment coalition, assigns; Stone-Zsela is outside that coalition. The Chief's compulsory balance-pool rule does not bind this assignment.
+
+The actual counted source opinions yield 109 leads before this assignment. The same-date Albertson's, Kolstad, Murphy and Olmstead Records were not yet entered at this assignment and are excluded.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 13 |
+| Stone-Zsela | 12 |
 | Stevens | 12 |
-| O’Connor | 12 |
+| O'Connor | 12 |
 | Scalia | 12 |
-| Kennedy | 11 |
+| Kennedy | 12 |
 | Souter | 12 |
 | Thomas | 12 |
 | Ginsburg | 12 |
 | Breyer | 13 |
 
-Kennedy has eleven counted leads and the other five twelve; all six form the illustrative minimum-eleven, ceiling-twelve pool. The Chief's mandatory balanced-assignment restriction does not bind this Associate assignment. The pool disclosure records the actual counts and does not imply that the Chief assigned outside his coalition.
+**Last counted event:** Martin v. Hadix, No. 98-262; October Term 1998. 1999-06-21; author Thomas; [Record](martin_v_hadix_merits_1999-06-21.md).
 
-O’Connor assigns **Kennedy** for case-specific fit. His Bragdon opinion articulated the impairment, major-activity and individual-substantiality sequence while expressly leaving mitigation open. That authoring work equips him to distinguish Bragdon's supported residual limitation from Sutton's pleaded normal corrected vision without repudiating its holding, while retaining actual adverse effects and coverage/qualification boundaries. The present opinion also requires precise enforcement of original statutory limits against the agency argument and separation of a broad job class from a specialized alleged category. All six necessary joins are settled at that scope; no disagreement needs an expansion accommodation. The selection uses his date-eligible legal work, not historical authorship, and excludes no eligible Justice for ability, style or expected quality. The form and propositions were fixed before these counts or this choice were considered.
+**Eligible authors for the complete lead:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg. **Illustrative within-one group:** O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg; minimum 12, ceiling 13. **Chosen author:** Kennedy.
+
+**Fit:** The judgment coalition supporting affirmance is O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Each supports all governing propositions of the single signed Court opinion, including the mitigation rule and actual-seeing application, the statutory-fit treatment of Appendix guidance, and the regarded-as-working rule and application. These six are eligible authors. Stone-Zsela is outside that coalition, and Stevens and Breyer reject its operative mitigation rule. O’Connor, the senior participating Associate in the judgment coalition, therefore assigns the opinion.
+
+O’Connor assigns **Kennedy** for case-specific fit. His Bragdon opinion articulated the impairment, major-activity and individual-substantiality sequence while expressly leaving mitigation open. That authoring work equips him to distinguish Bragdon's supported residual limitation from Sutton's pleaded normal corrected vision without repudiating its holding, while retaining actual adverse effects and coverage/qualification boundaries. The present opinion also requires precise enforcement of original statutory limits against the agency argument and separation of a broad job class from a specialized alleged category. All six necessary joins are settled at that scope; no disagreement needs an expansion accommodation. The selection uses his date-eligible legal work, not historical authorship, and excludes no eligible Justice for ability, style or expected quality.
+
+The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** `freeze/OT_1998CHUNK10_SUTTON_RECOUNT.json`.
 
 ## Adaptive audit annex: frozen commitments, reconciliation and final joins
 

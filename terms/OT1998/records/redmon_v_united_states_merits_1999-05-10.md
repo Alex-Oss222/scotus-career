@@ -1,7 +1,7 @@
 **Case and dockets:** Redmon v. United States; No. 98-243; judgment below, United States v. Redmon, 138 F.3d 1109.
 **Event and date:** merits decision, 1999-05-10; October Term 1998.
 **Result:** Vacated and remanded, 5–4; three majority Justices also conclude the inspection was a search, but that application is not a Court holding.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen preparation handoffs below establish stage lineage. No Git command or repository commitment is claimed; verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, reach, record and entering law
 
@@ -17,33 +17,35 @@ Stone requires vacatur and remand for proper classification of residential prote
 
 ## Form, assignment and final opinion table
 
-Form is fixed before counting as one signed five-Justice Opinion of the Court on the negative access/discard rule, legal correction and vacatur/remand; a concurrence by Stevens joined by Souter and Ginsburg preserves their conclusive search application; a dissent by Kennedy joined by Scalia, Thomas and Breyer preserves fact-specific affirmance. The Court leaves the search application open, but the three concurring Justices do not abandon their own answer. The form rests on express minimum-relief compatibility, not aggregation of incompatible dispositions or Marks.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary merits review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 74 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 9 |
 | Scalia | 8 |
-| Kennedy | 7 |
+| Kennedy | 8 |
 | Souter | 8 |
 | Thomas | 8 |
 | Ginsburg | 8 |
 | Breyer | 9 |
 
-The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_REDMON_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 74 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
+**Last counted event:** INS v. Aguirre-Aguirre; No. 97-1754; judgment below, 121 F.3d 521. 1999-05-03; author Breyer; [Record](ins_v_aguirre_aguirre_merits_1999-05-03.md).
 
-**Last event counted:** INS v. Aguirre-Aguirre; No. 97-1754; judgment below, 121 F.3d 521.; 1999-05-03; lead author Breyer. [Record](ins_v_aguirre_aguirre_merits_1999-05-03.md).
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg. **Complete-opinion balance pool:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg; minimum 8, ceiling 9. **Chosen author:** O'Connor.
 
-**Assignment authority:** Chief Justice Stone-Zsela, a member of the judgment majority.
+**Expansion:** O'Connor. O'Connor's recorded Fields/Carter/Riley distinctions supply the specific accommodation: correct the legal work done by ordinary access and collection while retaining the known facts and withholding a conclusive search application. Her authorship has a concrete advantage in maintaining that exact boundary between the three Justices' further conclusion and the limited Court holding. No Justice's vote changes because of the assigned author.
 
-**Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg.
+The complete lead counts once for O'Connor; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Balance pool:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg; minimum 8, ceiling 9. Lowest eligible count: 8; eligible counts at most 9 enter the pool.
-
-**Assignment:** O'Connor. O'Connor's recorded Fields/Carter/Riley distinctions supply the specific accommodation: correct the legal work done by ordinary access and collection while retaining the known facts and withholding a conclusive search application. Her authorship has a concrete advantage in maintaining that exact boundary between the three Justices' further conclusion and the limited Court holding. Stone is considered at nine and supports the same bounded route, but O'Connor's own recorded reservation most directly defines the necessary formulation. She remains within one of the lowest eligible count; the higher count does not exclude this supported expansion choice. No Justice's vote changes because of the assigned author.
+**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_REDMON_RECOUNT.json).
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -52,7 +54,6 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 | Dissent | Kennedy | Scalia, Thomas, Breyer | Would affirm | Actual open approach and deliberate collection exposure suffice on these facts |
 
 All five majority Justices join the common negative rule, its application to the lower legal analysis and setting aside the adverse suppression determination. Stevens, Souter and Ginsburg expressly accept that minimum relief; they do not join a claim that the search issue is undecidable in their own views. Only three adopt the affirmative-search application. The four dissenters agree with the abstract limit on discard intent but find the combined actual facts sufficient; they do not join the set-aside holding. Thus neither nine votes for vacatur nor five for an affirmative search can be reported. No logical-subset or Marks claim is made.
-
 
 ## Controlling holdings, remedy and continuity
 

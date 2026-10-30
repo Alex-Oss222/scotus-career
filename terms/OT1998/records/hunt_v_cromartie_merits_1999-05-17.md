@@ -1,7 +1,7 @@
 **Case and dockets:** Hunt v. Cromartie; No. 98-85; judgment below, 34 F. Supp. 2d 1029.
 **Event and date:** merits decision, 1999-05-17; October Term 1998.
 **Result:** Summary judgment and injunction vacated 9–0; governing constitutional rule and remand 5–4.
-**Version / lineage:** Original adjudication; supersedes no completed event. Prepublication validation completed the replacement-plan procedural source account without changing any vote, holding, remedy or assignment. Frozen handoffs and the supplemental neutral receipt below establish stage lineage. Repository verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, participation and entering law
 
@@ -19,25 +19,35 @@ Stevens, Souter, Ginsburg and Breyer join Parts I–III in full. O'Connor, Scali
 
 ## Form, assignment and final opinion table
 
-Form before count: One signed opinion after plenary direct review: a common summary-judgment portion; a majority constitutional and remand portion; one partial concurrence stating the competing constitutional rule and remand.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; one signed lead after plenary direct review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 78 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 8 |
+| Kennedy | 9 |
 | Souter | 9 |
 | Thomas | 9 |
 | Ginsburg | 8 |
 | Breyer | 9 |
 
-Fresh receipt: [Hunt recount](../freeze/OT_1998CHUNK8_HUNT_RECOUNT.json), 78 counted leads. **Last event counted:** Florida v. White; No. 98-223; judgment below, 710 So. 2d 949. (1999-05-17), Thomas; [Record](florida_v_white_merits_1999-05-17.md). Goldsmith and White now enter; later-alphabetical Saenz does not.
+**Last counted event:** Florida v. White; No. 98-223; judgment below, 710 So. 2d 949. 1999-05-17; author Thomas; [Record](florida_v_white_merits_1999-05-17.md).
 
-**Assignment authority:** Chief Justice Stone-Zsela, in both the unanimous vacatur and five-member governing-remand coalitions. **Eligible complete-opinion authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. **Author chosen:** Ginsburg. Her Johnson and Coalition positions preserve the distinction between a district's composition and a concrete political-access disability, which this opinion must explain without inventing either a new claim or forfeiture. Stone has nine counted leads and Stevens eight and can carry the ground, but Ginsburg offers the direct fit for articulating that precise legal distinction and bounded remand. No necessary accommodation depends on changing an Associate's commitment; Stone's personal attachment to the governing position supplies no additional authorship preference. One eligible author can carry every part, so division of authorship is unnecessary.
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. **Chosen author:** Ginsburg.
+
+**Fit:** Her Johnson and Coalition positions preserve the distinction between a district's composition and a concrete political-access disability, which this opinion must explain without inventing either a new claim or forfeiture. No necessary accommodation depends on changing an Associate's commitment; Stone's personal attachment to the governing position supplies no additional authorship preference. One eligible author can carry every part, so division of authorship is unnecessary.
+
+The complete lead counts once for Ginsburg; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** [Hunt recount](../freeze/OT_1998CHUNK8_HUNT_RECOUNT.json).
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

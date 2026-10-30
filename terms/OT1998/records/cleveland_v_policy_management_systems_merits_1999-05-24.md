@@ -1,7 +1,7 @@
 **Case and dockets:** Cleveland v. Policy Management Systems Corp.; No. 97-1008.
 **Event and date:** Merits decision, 1999-05-24; October Term 1998.
 **Result:** Federal ADA judgment vacated and remanded, 9–0; no SSDI estoppel presumption, with ordinary adequate-explanation requirement.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen handoffs identified below establish stage lineage. Repository verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, participation and law entering
 
@@ -21,21 +21,33 @@ The final component counts and opinion joins below were checked against all nine
 The approved Cleveland section of [the Stone supplement](../runtime/OT_1998CHUNK8_STONE.md) directs vacatur and an opportunity to explain materially inconsistent representations, followed by ordinary ADA adjudication without a liability finding. The shared rule rejects both automatic estoppel and the special adverse presumption because the schemes ask different questions. It preserves the Chief's demand for reconciliation tied to time, functions and accommodation, and allows renewed summary judgment if the explanation fails. He joins fully; no fallback or broader estoppel exception is used. The [pre-May24 dependency review](../freeze/OT_1998CHUNK8_LATE_DEPENDENCY_REVIEW.md) confirms no material change from Maine or the actual May17 law. Same-day Dental supplies no premise.
 ## Assignment and final compatibility
 
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 83 leads before this assignment.
+
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 9 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 9 |
 | Breyer | 10 |
 
-Last counted event: California Dental Association v. Federal Trade Commission; No. 97-1625. (1999-05-24), Souter; `california_dental_association_v_ftc_merits_1999-05-24.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Balance pool: Stone-Zsela, Stevens, Scalia, Kennedy, Thomas, Ginsburg; minimum 8, ceiling 9. Chief Justice Stone-Zsela assigns Stevens. All nine support vacatur and the complete statutory-and-evidentiary rationale, including the Chief's approved position independently of fallback, so all are eligible. The minimum is eight. Stevens's frozen Bragdon-based position separates individual statutory elements from founded factual proof; that is the work needed to explain why the statutory disability label carries no special presumption while actual contradictions still require evidence. Stone is a pool alternative at nine counted leads to Stevens's eight with a precise time/function/accommodation formulation. Stevens can fully carry that objective and gives the opinion a direct connection to the individual-element analysis the unanimous method requires; the Chief selects him on that concrete fit without changing the common rule or claiming a necessary accommodation. Justices at ten are outside this pool, irrespective of authorship capability.
+**Last counted event:** California Dental Association v. Federal Trade Commission; No. 97-1625. 1999-05-24; author Souter; [Record](california_dental_association_v_ftc_merits_1999-05-24.md).
 
-Every Justice joins all stated propositions, qualification requirements, preserved factual-evidence limits and ordinary remand. No change from a frozen non-Stone commitment or special circulation is necessary. No separate writing is filed.
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Scalia, Thomas, Ginsburg; minimum 8, ceiling 9. **Chosen author:** Stevens.
+
+**Fit:** Stevens's frozen Bragdon-based position separates individual statutory elements from founded factual proof; that is the work needed to explain why the statutory disability label carries no special presumption while actual contradictions still require evidence. Stevens can fully carry that objective and gives the opinion a direct connection to the individual-element analysis the unanimous method requires; the Chief selects him on that concrete fit without changing the common rule or claiming a necessary accommodation.
+
+The complete lead counts once for Stevens; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
 ## Adaptive audit annex
 

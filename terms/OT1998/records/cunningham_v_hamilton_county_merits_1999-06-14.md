@@ -19,35 +19,35 @@
 
 ## Assignment
 
-**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-The form, governing propositions, component coalitions and full-rationale eligibility were established before the count. The Chief joins the judgment majority and assigns this lead opinion.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
-| Justice | Count before this assignment |
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 97 leads before this assignment.
+
+| Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 11 |
+| Stone-Zsela | 10 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 11 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 11 |
 | Thomas | 11 |
 | Ginsburg | 11 |
 | Breyer | 11 |
 
-**Last counted event:** Neder v. United States, No. 97-1985. (1999-06-10), authored by Thomas; [Record](../records/neder_v_united_states_merits_1999-06-10.md).
+**Last counted event:** Neder v. United States, No. 97-1985. 1999-06-10; author Thomas; [Record](neder_v_united_states_merits_1999-06-10.md).
 
-**Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 10, ceiling 11. **Chosen author:** Kennedy.
 
-**Balance pool:** Kennedy; minimum 9, ceiling 10.
+**Fit:** Kennedy is selected for the specific task of explaining why counsel retains meaningful personal review after final judgment while distinguishing that ordinary category from independently authorized exceptional remedies. His frozen grounds expressly preserve the attorney own eventual challenge and his separate qualification tests extraordinary hardship without turning it into a collateral-order exception. He can state both shared failures completely; the additional published qualification remains his own concurrence and is not enlarged into Court law. No expansion negotiation or commitment change is needed.
 
-**Assigned author:** Kennedy. Kennedy is selected at nine as the sole pool member for the specific task of explaining why counsel retains meaningful personal review after final judgment while distinguishing that ordinary category from independently authorized exceptional remedies. His frozen grounds expressly preserve the attorney own eventual challenge and his separate qualification tests extraordinary hardship without turning it into a collateral-order exception. He can state both shared failures completely; the additional published qualification remains his own concurrence and is not enlarged into Court law. No expansion negotiation or commitment change is needed.
+The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Eligibility comparison:** There is no other pool member. The Chief, at eleven, is substantively eligible: his approved separation of finality, interrelated discovery conduct and effective later correction would fully carry the opinion. Kennedy offers a direct integration of the common rule with its boundary against an assumption of universal remedilessness, while preserving the Chief materially different finality reservation. The other eight Justices fully support the grounds but each has eleven leads, outside the minimum-nine, ceiling-ten pool.
-
-**Fresh-count evidence:** [recount](../runtime/OT_1998CHUNK9_CUNNINGHAM_FINAL_RECOUNT.json); every prior author was recounted from actual opinion tables and form classifications, not previous totals. Git verification remains deferred under the authorized no-Git workflow.
-
-**Dated-law checkpoint:** The complete public Neder decision effective June 10 was reviewed after Richardson June 1, Goncalves and Bruneau June 3, and Amoco and OSullivan June 7. Its fraud-element and actual-verdict harmlessness holdings change no Rule 37 collateral-order premise. The earlier June 10 B decisions likewise change no applicable finality rule. This June 14 decision uses no same-date peer as substantive entering law. No altered Stone condition or frozen Associate commitment is identified.
+**Count evidence:** [recount](../runtime/OT_1998CHUNK9_CUNNINGHAM_FINAL_RECOUNT.json).
 
 ## Law of the decision
 **Complete separation from the merits.** A monetary Rule 37 discovery sanction against counsel during ongoing litigation is not immediately appealable under §1291's collateral-order doctrine merely because counsel's representation has ended. The category does not satisfy the requirement of an important question completely separate from the merits when review of discovery relevance, responses and compliance remains intertwined with the case's substantive issues and litigation record.

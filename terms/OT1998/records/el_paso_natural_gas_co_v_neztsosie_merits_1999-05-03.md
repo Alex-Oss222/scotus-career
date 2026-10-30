@@ -1,7 +1,7 @@
 **Case and dockets:** El Paso Natural Gas Co. v. Neztsosie; No. 98-6; judgment below, 136 F.3d 610.
 **Event and date:** merits decision, 1999-05-03; October Term 1998.
 **Result:** Vacated and remanded, 9–0; federal coverage first and no enlargement for non-cross-appellants.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen preparation handoffs below establish stage lineage. No Git command or repository commitment is claimed; verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, reach, record and entering law
 
@@ -17,40 +17,43 @@ Stone expressly reverses the tribal-exhaustion ruling, vacates the unauthorized 
 
 ## Form, assignment and final opinion table
 
-Form is fixed before assignment as one signed unanimous Opinion of the Court after argument, resolving two independently material errors in one vacatur/remand. The shared complete coalition needs no divided authorship.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary merits review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 72 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 9 |
 | Scalia | 8 |
-| Kennedy | 7 |
+| Kennedy | 8 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
 | Breyer | 8 |
 
-The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_EL_PASO_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 72 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
+**Last counted event:** Bank of America National Trust & Savings Ass'n v. 203 North LaSalle Street Partnership; No. 97-1418; judgment below, 126 F.3d 955. 1999-05-03; author Kennedy; [Record](bank_of_america_v_203_north_lasalle_merits_1999-05-03.md).
 
-**Last event counted:** Bank of America National Trust & Savings Ass’n v. 203 North LaSalle Street Partnership; No. 97-1418; judgment below, 126 F.3d 955.; 1999-05-03; lead author Kennedy. [Record](bank_of_america_v_203_north_lasalle_merits_1999-05-03.md).
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 7, ceiling 8. **Chosen author:** Thomas.
 
-**Assignment authority:** Chief Justice Stone-Zsela, a member of the judgment majority.
+**Fit:** Form is fixed before assignment as one signed unanimous Opinion of the Court after argument, resolving two independently material errors in one vacatur/remand. The shared complete coalition needs no divided authorship.
 
-**Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+Thomas. Thomas's frozen grounds give the express state-court removal language its full limit while explaining why a judicial comity rule cannot displace the federal coverage task. His complete support includes appeal scope, actual coverage, proper-party and remedy reservations. This assignment does not treat an author as better able merely because of general style or past authorship.
 
-**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+The complete lead counts once for Thomas; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Assignment:** Thomas. Thomas's frozen grounds give the express state-court removal language its full limit while explaining why a judicial comity rule cannot displace the federal coverage task. His complete support includes appeal scope, actual coverage, proper-party and remedy reservations. Stone is a complete-opinion candidate, but Thomas's lower count and equally direct statutory/institutional fit favor him. This assignment does not treat an author as better able merely because of general style or past authorship.
+**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_EL_PASO_RECOUNT.json).
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Thomas | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Unanimous judgment | Complete holdings, application, qualifications and remedy |
 
 All nine join both grounds and the remedy. The opinion neither rewrites state-court removal as an express tribal-removal provision nor adopts a universal tribal-tort exclusion. It decides no universal jurisdictional status of the cross-appeal requirement. These express limits preserve every frozen join.
-
 
 ## Controlling holdings, remedy and continuity
 

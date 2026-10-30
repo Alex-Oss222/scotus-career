@@ -33,13 +33,39 @@ Stone joins Parts I–III and both independent racial grounds. All Associates sh
 
 ## Assignment and final compatibility
 
-Stone assigns because he joins each affirmance coalition. Form and operative propositions were settled before the fresh zero-based `../freeze/OT_1998CHUNK10_DALLAS_RECOUNT.json`. Counts before assignment: Stone-Zsela 13; Stevens 12; O'Connor 12; Scalia 12; Kennedy 10; Souter 12; Thomas 11; Ginsburg 11; Breyer 12. Last counted event: Valdespino, June 17, Stone-Zsela; 105 signed lead opinions precede this assignment. Exact canonical author evidence, including all four new June 17 Records, supplies the count.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-The full-opinion eligible authors are Stone-Zsela, O'Connor, Kennedy and Thomas, who join all governing propositions and applications, including the bounded affirmative repair statement. Scalia's reservation excludes him from that full rationale without excluding his five-Justice application vote. The four racial remanders do not join Part II. The eligible minimum is ten. Kennedy and Thomas form the pool; Stone-Zsela and O'Connor remain eligible but are outside it at thirteen and twelve, respectively. Kennedy is selected for the concrete work of distinguishing acknowledged entry exclusion from a sufficient connection to each current promotion opportunity, preserving the independent fit ground and keeping the sex predicate separate. His Engineering Contractors Court opinion supplies direct authoring evidence for the separate racial and sex frameworks, and his additional-evidence concurrence join supplies particularly relevant supported reasoning; he can state the retained repair possibility without enlarging it or treating the prior four-Justice evidence ground as precedent.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
-O'Connor offers relevant capability through her Engineering Contractors concurrence and Klinger opinion, but she is outside the pool and her count is higher and Kennedy can carry these already settled grounds without a missing accommodation. Stone likewise has a higher count and no advantage in coalition formulation; his additional sex-fit ground is not shared and remains separate. Thomas is fully eligible at eleven compared with Kennedy's ten, but Kennedy's expressly recorded attention to the missing present-opportunity connection better matches the opinion's central independent ground. No expansion assignment or division among authors is needed. The separate Stevens, Scalia and Stone writings remain uncounted.
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 105 leads before this assignment.
+
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 12 |
+| Stevens | 12 |
+| O'Connor | 12 |
+| Scalia | 12 |
+| Kennedy | 11 |
+| Souter | 12 |
+| Thomas | 11 |
+| Ginsburg | 11 |
+| Breyer | 12 |
+
+**Last counted event:** Valdespino v. Alamo Heights Independent School District; lower docket 98-50227. 1999-06-17; author Stone-Zsela; [Record](valdespino_v_alamo_heights_independent_school_district_merits_1999-06-17.md).
+
+**Eligible authors for the complete lead:** Stone-Zsela, O'Connor, Kennedy, Thomas. **Complete-opinion balance pool:** Stone-Zsela, O'Connor, Kennedy, Thomas; minimum 11, ceiling 12. **Chosen author:** Kennedy.
+
+**Fit:** The full-opinion eligible authors are Stone-Zsela, O'Connor, Kennedy and Thomas, who join all governing propositions and applications, including the bounded affirmative repair statement. Scalia's reservation excludes him from that full rationale without excluding his five-Justice application vote. The four racial remanders do not join Part II. Kennedy is selected for the concrete work of distinguishing acknowledged entry exclusion from a sufficient connection to each current promotion opportunity, preserving the independent fit ground and keeping the sex predicate separate. His Engineering Contractors Court opinion supplies direct authoring evidence for the separate racial and sex frameworks, and his additional-evidence concurrence join supplies particularly relevant supported reasoning; he can state the retained repair possibility without enlarging it or treating the prior four-Justice evidence ground as precedent.
+
+No expansion assignment or division among authors is needed. The separate Stevens, Scalia and Stone writings remain uncounted.
 
 All four racial affirming Associates retain the two independent application grounds; the four racial remanders preserve their actual distinction from Engineering Contractors' unperformed-alternatives record. Actual Dallas measures do not establish success, but they remove the prior case's exact factual premise and make the dissent's combined-proof reassessment supportable. The unanimous sex ground cannot borrow a sex discrimination finding from a racial letter. Scalia's reservation survives without converting his rejection vote into a categorical ban on remediation. Stone's extra sex-fit ground remains his own. No frozen objection is revised and no imaginary circulation history or new join is supplied.
+
+The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** `../freeze/OT_1998CHUNK10_DALLAS_RECOUNT.json`.
 
 ## Adaptive audit annex
 

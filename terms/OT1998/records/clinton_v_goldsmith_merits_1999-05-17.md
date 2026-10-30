@@ -1,7 +1,7 @@
 **Case and dockets:** Clinton v. Goldsmith; No. 98-347; judgment below, 48 M.J. 84.
 **Event and date:** merits decision, 1999-05-17; October Term 1998.
 **Result:** CAAF judgment reversed and drop-from-rolls injunction vacated, 9–0.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen handoffs identified below establish stage lineage. Repository verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, participation and entering law
 
@@ -17,25 +17,35 @@ Stone's approved Section II directs reversal and dissolution because the adminis
 
 ## Form, assignment and final opinion table
 
-Form before count: One signed unanimous opinion after plenary review, with one statutory-jurisdiction holding and no additional adequacy-of-other-remedies holding.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 76 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 7 |
+| Kennedy | 8 |
 | Souter | 9 |
 | Thomas | 8 |
 | Ginsburg | 8 |
 | Breyer | 9 |
 
-Fresh recount: [Goldsmith receipt](../freeze/OT_1998CHUNK8_GOLDSMITH_RECOUNT.json); 76 counted leads, from actual Record opinion tables with effective-date and same-date alphabetical filtering. **Last event counted:** Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293. (1999-05-13), Souter; [Record](pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md). The later-alphabetical May 17 Saenz opinion is excluded; no existing assignment is reopened.
+**Last counted event:** Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293. 1999-05-13; author Souter; [Record](pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md).
 
-**Assignment authority:** Chief Justice Stone-Zsela, in the unanimous judgment coalition. **Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Balance pool:** Stevens, Scalia, Kennedy, Thomas, Ginsburg; minimum 7, ceiling 8. **Author chosen:** Kennedy. His McBryde and Your Home reasoning performs the needed distinction between review authority, an auxiliary remedy and the underlying claim. Stone's matching jurisdictional distinction makes him eligible, but Kennedy can carry the settled ground equally faithfully at seven counted leads, while Stone's nine places him outside the pool. No expansion accommodation or invented drafting exchange is needed. O'Connor is fully eligible but outside the balance pool.
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Chosen author:** Kennedy.
+
+**Fit:** His McBryde and Your Home reasoning performs the needed distinction between review authority, an auxiliary remedy and the underlying claim. No expansion accommodation or invented drafting exchange is needed.
+
+The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** [Goldsmith receipt](../freeze/OT_1998CHUNK8_GOLDSMITH_RECOUNT.json).
 
 | Writing | Author | Joined by | Scope |
 |---|---|---|---|

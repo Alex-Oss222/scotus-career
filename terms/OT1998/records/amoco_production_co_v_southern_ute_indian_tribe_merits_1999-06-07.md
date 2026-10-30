@@ -1,7 +1,7 @@
 **Case and dockets:** Amoco Production Co. v. Southern Ute Indian Tribe; No. 98-830; Tenth Circuit en banc judgment, 151 F.3d 1251.
 **Event and date:** Merits decision, 1999-06-07; October Term 1998.
 **Result:** Reverse and remand on the statutory ownership question, 8–1.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen modeling and reconciliation handoffs identified below establish stage lineage. Repository commitment and hash verification are deferred under the no-Git instruction.
+**Version / lineage:** Original decision.
 
 ## Decision kernel and chronology
 
@@ -43,30 +43,35 @@ Seven reconciled Associates plus Stone support reversal and the same rationale; 
 
 ## Assignment and fresh term count
 
-Chief Justice Stone-Zsela assigns because he joins the judgment and the entire governing rationale. The signed single-opinion form, statutory ownership rule and property-rights limits were settled before counting or selecting an author. The eligible full-opinion authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Ginsburg dissents and is ineligible.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 90 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 10 |
+| Stone-Zsela | 9 |
 | Stevens | 10 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 10 |
 | Thomas | 10 |
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-The fresh recount takes each author from the public opinion topology of the currently written Records, in effective-date and same-date alphabetical order. It counts 90 signed plenary lead opinions. The last counted event is Reno v. Goncalves, June 3, 1999, delivered by Stone-Zsela. The [recount receipt](../freeze/OT_1998CHUNK9_AMOCO_RECOUNT.json) preserves that enumeration; no earlier assignment total is adopted and Git verification remains deferred.
+**Last counted event:** Reno v. Goncalves; No. 98-835; First Circuit judgment, 144 F.3d 110. 1999-06-03; author Stone-Zsela; [Record](reno_v_goncalves_merits_1999-06-03.md).
 
-The minimum eligible count is Kennedy's nine. The balance pool is Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas and Breyer, each at nine or ten. O'Connor is eligible on substance but outside the pool at 11.
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Breyer; minimum 9, ceiling 10. **Chosen author:** Stevens.
 
-Stone-Zsela assigns the entire opinion to Stevens. This is a fit assignment on settled common ground, not an effort to change a colleague's commitment. Stevens's Western Nuclear dissent join supplies the concrete historical-setting distinction between the specific resource Congress reserved and a broader modern mineral category; his Yankton opinion supplies experience stating the consequences of the complete statutory transaction while preserving questions about other property interests. Those are the opinion's paired tasks here: explain why distinct gas falls outside the coal reservation and why that construction does not erase residual coal, access or compensation rights. Stone-Zsela is a strong equal-count alternative at ten: his approved position states the enacted-meaning distinction and the precise reservations, and fully supports the opinion. Kennedy is also eligible at the lower count of nine; Stevens's demonstrated transaction-and-property coordination supplies the stated fit advantage. Stevens's demonstrated transaction-and-property analysis offers a case-specific authorship advantage over that alternative; the Chief's office or interest supplies no independent claim. No expansion accommodation or revised commitment is needed. Stevens delivers the single lead opinion, and the other seven full supporters join every proposition. The assignment adds one counted lead to Stevens, bringing his count to 11; no separate writing counts.
+**Fit:** Stone-Zsela assigns the entire opinion to Stevens. This is a fit assignment on settled common ground, not an effort to change a colleague's commitment. Stevens's Western Nuclear dissent join supplies the concrete historical-setting distinction between the specific resource Congress reserved and a broader modern mineral category; his Yankton opinion supplies experience stating the consequences of the complete statutory transaction while preserving questions about other property interests. Those are the opinion's paired tasks here: explain why distinct gas falls outside the coal reservation and why that construction does not erase residual coal, access or compensation rights. Stevens's demonstrated transaction-and-property analysis offers a case-specific authorship advantage over that alternative; the Chief's office or interest supplies no independent claim. No expansion accommodation or revised commitment is needed. Stevens delivers the single lead opinion, and the other seven full supporters join every proposition.
 
+The complete lead counts once for Stevens; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-The reconciliation corrected Ginsburg's independent provisional reversal to affirmance after testing her direct case-specific dominion/ambiguity premise against unchanged law and facts. The earlier general Yankton/MCI evidence did not supply a concrete reason to displace that premise. All participating historical Associates now retain their historical merits alignment; Breyer's historical nonparticipation establishes no present recusal or merits view. The historical author is not imported. Ginsburg's separate writing is warranted by her own frozen dissenting ground, not by a requirement to reproduce historical writings. No new historical-departure line is warranted at assembly.
-
-Continuity should preserve Ginsburg's noncontrolling position that the coal owner's historical control of and responsibility for hazardous methane makes later-value separation insufficiently clear, with the sovereign-grant canon resolving that genuine ambiguity. Her position concerns the originally reserved federal estate, not a general tribal enlargement rule or blanket deference to Interior. No later matter's necessary predicate is expressly displaced.
+**Count evidence:** [recount receipt](../freeze/OT_1998CHUNK9_AMOCO_RECOUNT.json).
 
 ## Sources, limitations and validation receipt
 

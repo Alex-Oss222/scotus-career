@@ -1,7 +1,7 @@
 **Case and dockets:** Neder v. United States, No. 97-1985.
 **Event and date:** Merits decision, 1999-06-10; October Term 1998.
 **Result:** Tax instructional judgment affirmed 6–3; fraud no-materiality ruling reversed 9–0; affected fraud affirmance vacated and remanded for initial harmlessness review 8–1.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen stage handoffs and retained source receipts establish lineage below. Git operations and commitment verification are deferred by instruction.
+**Version / lineage:** Original decision.
 
 ## Decision kernel and assembly audit
 
@@ -33,31 +33,41 @@
 
 ## Assignment
 
-**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review, delivered throughout by Thomas.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Component-specific assignment authority:** The Chief joins the statutory reversal and its common jury-error premise and assigns Parts I and II. He does not join tax affirmance or the fraud-remand disposition. Stevens is the senior participating Associate in the six-Justice tax coalition and eight-Justice fraud-remand coalition and assigns Parts III through V. Part III supplies the method supporting those remedial judgments; the Chief's join in that method does not give him assignment authority from judgment coalitions whose dispositions he opposes. Because one lead author can carry all parts, the coordinated assignments select one author; no division of delivery is warranted. The Chief assigns part of the opinion, so Engine §8 balance applies to the whole lead. Stevens's assignment preserves his supported actual-verdict approach and first-instance fraud inquiry while keeping his extra tax ground separate, rather than demanding adoption of it as a price of his assignment.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns Parts I-II; Stevens assigns Parts III-V for the tax-affirmance and fraud-remand coalitions. Stone's agreement with the shared method gives him no assignment authority for dispositions he opposes. For the Chief-assigned Parts I-II, eligible authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; its binding pool is Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer (minimum 10, ceiling 11). 
+
+The actual counted source opinions yield 96 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 11 |
+| Stone-Zsela | 10 |
 | Stevens | 11 |
 | O'Connor | 11 |
 | Scalia | 11 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 11 |
 | Thomas | 10 |
 | Ginsburg | 11 |
 | Breyer | 11 |
 
-**Last event counted:** Lilly v. Virginia, June 10, 1999, lead authored by Breyer; [Record](../records/lilly_v_virginia_merits_1999-06-10.md). Fresh count: 96 signed leads. The [recount](../freeze/OT_1998CHUNK9_NEDER_RECOUNT.json) derives authors from actual opinion tables and form classifications of preceding Records, including earlier same-date captions alphabetically, without adopting earlier assignment totals. Git status and hash existence were not inspected.
+**Last counted event:** Lilly v. Virginia, No. 98-5881. 1999-06-10; author Breyer; [Record](lilly_v_virginia_merits_1999-06-10.md).
 
-**Eligibility:** Parts I–II: all nine; Part III: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer; Part IV and V-B: Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer; V-A: all eight Associates. The intersection eligible to deliver the complete lead is Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer. The Chief's otherwise eligible statute/method position does not qualify him to deliver tax affirmance or the further fraud inquiry; Scalia and Ginsburg do not join the broader method or tax application.
+**Eligible authors for the complete lead:** Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer. **Complete-opinion balance pool:** Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer; minimum 10, ceiling 11. **Chosen author:** Thomas.
 
-**Balance pool:** Kennedy, Thomas; minimum 9, ceiling 10. Kennedy has the lowest eligible count of nine; Thomas at ten is the other pool member. Stevens, O'Connor, Souter and Breyer remain eligible but are outside the pool at eleven. No eligible Justice is excluded for general style, ability, prior authorship, or policy interest.
+**Fit:** **Component-specific assignment authority:** The Chief joins the statutory reversal and its common jury-error premise and assigns Parts I and II. He does not join tax affirmance or the fraud-remand disposition. Stevens is the senior participating Associate in the six-Justice tax coalition and eight-Justice fraud-remand coalition and assigns Parts III through V. Part III supplies the method supporting those remedial judgments; the Chief's join in that method does not give him assignment authority from judgment coalitions whose dispositions he opposes. Because one lead author can carry all parts, the coordinated assignments select one author; no division of delivery is warranted. The Chief assigns part of the opinion, so Engine §8 balance applies to the whole lead. Stevens's assignment preserves his supported actual-verdict approach and first-instance fraud inquiry while keeping his extra tax ground separate, rather than demanding adoption of it as a price of his assignment.
 
-**Assigned author and fit:** Thomas, at 10. The settled shared ground requires a provision-specific explanation of why fraud carries materiality while Wells's §1014 construction remains valid, followed by a faithful Roy inquiry with different tax and fraud applications. His own Wells reasoning supplies concrete capacity to distinguish the enactments without adding a generic materiality requirement, and his frozen Roy commitment supports the entire qualified inquiry and both remedies. He can carry the common tax ground without pretending the jury made the omitted materiality finding or importing Stevens's additional view. His assignment serves those combined legal tasks; no expansion of a frozen commitment is required.
+No eligible Justice is excluded for general style, ability, prior authorship, or policy interest.
 
-**Strongest alternative and comparison:** Souter, at eleven and outside the pool, supplies a strong methodological comparison: his Roy opinion supplies the precise instructional-focus qualification and permits the specific tax inference without a necessary-equivalence fiction. Both can carry all necessary joins. Thomas is selected because this case additionally requires the central Wells/fraud textual distinction he has already articulated, while fully retaining Souter's existing method, and has the lower count than Souter, though Kennedy has nine. Kennedy, at nine, supplies the strongest pool alternative for separating actual contribution from substitute factfinding; Thomas has the more direct demonstrated fit for coordinating that method with the distinct statutory work. Stevens's extra rationale does not require his authorship, and the other full-join members remain eligible. There is no author-based prediction of a changed vote.
+The settled shared ground requires a provision-specific explanation of why fraud carries materiality while Wells's §1014 construction remains valid, followed by a faithful Roy inquiry with different tax and fraud applications. His own Wells reasoning supplies concrete capacity to distinguish the enactments without adding a generic materiality requirement, and his frozen Roy commitment supports the entire qualified inquiry and both remedies. He can carry the common tax ground without pretending the jury made the omitted materiality finding or importing Stevens's additional view. His assignment serves those combined legal tasks; no expansion of a frozen commitment is required.
+
+Both can carry all necessary joins. Stevens's extra rationale does not require his authorship, and the other full-join members remain eligible. There is no author-based prediction of a changed vote.
+
+The complete lead counts once for Thomas; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** [recount](../freeze/OT_1998CHUNK9_NEDER_RECOUNT.json).
 
 ## Law of the decision
 

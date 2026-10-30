@@ -1,7 +1,7 @@
 **Case and dockets:** Russell v. Burris; Nos. 98-397 and 98-399; companion Citizens for Clean Government v. Russell; judgment below, 146 F.3d 563.
 **Event and date:** merits decision, 1999-04-28; October Term 1998.
 **Result:** Affirmed in part, reversed in part, and remanded; unanimous invalidation of $300 list and two appellate-office $100 limits; 5–4 on residual $100/PAC receipts, 5–3–1 on small-donor allowance.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen preparation handoffs below establish stage lineage. No Git command or repository commitment is claimed; verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, reach, record and entering law
 
@@ -17,33 +17,37 @@ Stone would invalidate every reviewed $100/$300 candidate cap and the ordinary-P
 
 ## Form, assignment and final opinion table
 
-Form is fixed before assignment as one signed Opinion of the Court: Part I states governing standards and unanimous invalidation of two candidate categories; Parts II–IV carry five-Justice decisions on residual $100 offices, ordinary-PAC receipts and the small-donor differential. Stone and Kennedy issue distinct separate writings, the latter joined by Scalia and Thomas. The same five can carry every controlling portion, so no divided authorship is warranted. Stone assigns Part I only; Stevens, the senior Associate in the other component majorities, assigns Parts II–IV. Both select O'Connor for the single opinion.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary merits review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns the unanimously invalidated candidate categories; Stevens assigns the residual candidate limits and both PAC components. For the Chief-assigned unanimous portion, eligible authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; its binding pool is Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer (minimum 7, ceiling 8). 
+
+The actual counted source opinions yield 70 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 8 |
 | Scalia | 8 |
-| Kennedy | 6 |
+| Kennedy | 7 |
 | Souter | 8 |
 | Thomas | 7 |
 | Ginsburg | 8 |
 | Breyer | 8 |
 
-The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_RUSSELL_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 70 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
+**Last counted event:** United States v. Sun-Diamond Growers of California; No. 98-131; judgment below, 138 F.3d 961. 1999-04-27; author Scalia; [Record](united_states_v_sun_diamond_growers_merits_1999-04-27.md).
 
-**Last event counted:** United States v. Sun-Diamond Growers of California; No. 98-131; judgment below, 138 F.3d 961.; 1999-04-27; lead author Scalia. [Record](united_states_v_sun_diamond_growers_merits_1999-04-27.md).
+**Eligible authors for the complete lead:** Stevens, O'Connor, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, O'Connor, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. **Chosen author:** O'Connor.
 
-**Assignment authority:** Chief Justice Stone-Zsela for the unanimously invalidated candidate categories; Stevens for residual candidate limits and both PAC components.
+**Fit:** Form is fixed before assignment as one signed Opinion of the Court: Part I states governing standards and unanimous invalidation of two candidate categories; Parts II–IV carry five-Justice decisions on residual $100 offices, ordinary-PAC receipts and the small-donor differential. Stone and Kennedy issue distinct separate writings, the latter joined by Scalia and Thomas. The same five can carry every controlling portion, so no divided authorship is warranted. Stone assigns Part I only; Stevens, the senior Associate in the other component majorities, assigns Parts II–IV. Both select O'Connor for the single opinion.
 
-**Eligible complete-opinion authors:** Stevens, O'Connor, Souter, Ginsburg, Breyer.
+O'Connor. O'Connor's Kentucky Right to Life opinion and Colorado Republican ground distinguish direct contributions, aggregate intermediary restrictions and genuine independent expression. Those precise distinctions organize the settled five-Justice holdings here.
 
-**Balance pool:** Stevens, O'Connor, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. Lowest eligible count: 8; eligible counts at most 9 enter the pool.
+The complete lead counts once for O'Connor; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Assignment:** O'Connor. O'Connor's Kentucky Right to Life opinion and Colorado Republican ground distinguish direct contributions, aggregate intermediary restrictions and genuine independent expression. Those precise distinctions organize the settled five-Justice holdings here. All five complete-opinion candidates have eight prior leads. For the unanimous portion all nine are substantively eligible, and its min-plus-one pool also includes O'Connor: Kennedy and Thomas have seven, the others eight. Stone has nine counted leads for that portion but cannot carry the other Court holdings because he opposes them. O'Connor's case-specific fit permits one coherent opinion without using counts to divide it or allowing Stone to assign outside his coalition.
+**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_RUSSELL_RECOUNT.json).
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -53,7 +57,6 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 | Concurrence in part and dissent in part | Kennedy | Scalia, Thomas | Would affirm all invalidations | Candidate burden, chosen-PAC association and recipient-end committee influence |
 
 Five direct votes support each validating holding; no sixth is manufactured from Stone's small-donor remand position. His affirmative support for distinct analysis does not endorse present validation. Kennedy, Scalia and Thomas preserve each separate objection. The Court's source-category repair changes the application labels and scope, not an absent judicial fact or their broader fit grounds. No Marks analysis is needed because each controlling proposition has a direct majority.
-
 
 ## Controlling holdings, remedy and continuity
 

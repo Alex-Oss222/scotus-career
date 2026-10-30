@@ -1,7 +1,7 @@
 **Case and dockets:** Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293.
 **Event and date:** merits decision, 1999-05-13; October Term 1998.
 **Result:** Affirmed in part, vacated in part, and remanded: tax priority and valuation vacated 8–1; additional administrative-priority denial affirmed 9–0.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen preparation handoffs below establish stage lineage. No Git command or repository commitment is claimed; verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, reach, record and entering law
 
@@ -17,33 +17,37 @@ Stone affirmatively rejects additional tax and administrative priorities and wou
 
 ## Form, assignment and final opinion table
 
-Form is fixed before counting as one signed Opinion of the Court with eight-Justice tax and valuation portions, a unanimous administrative-origin portion, and Stone's concurrence in part and dissent in part. The eight Associates can carry every Court proposition. Stevens, the senior Associate in the tax and valuation majorities, assigns those portions; Stone assigns only the unanimous administrative portion. Both select Souter for the single lead.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary merits review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Stevens assigns Parts I and III; Chief Justice Stone-Zsela assigns Part II, each within the corresponding judgment coalition. For the Chief-assigned administrative-priority portion, eligible authors are Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; its binding pool is Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer (minimum 8, ceiling 9). 
+
+The actual counted source opinions yield 75 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 7 |
+| Kennedy | 8 |
 | Souter | 8 |
 | Thomas | 8 |
 | Ginsburg | 8 |
 | Breyer | 9 |
 
-The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_PBGC_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 75 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
+**Last counted event:** Redmon v. United States; No. 98-243; judgment below, United States v. Redmon, 138 F.3d 1109. 1999-05-10; author O'Connor; [Record](redmon_v_united_states_merits_1999-05-10.md).
 
-**Last event counted:** Redmon v. United States; No. 98-243; judgment below, United States v. Redmon, 138 F.3d 1109.; 1999-05-10; lead author O'Connor. [Record](redmon_v_united_states_merits_1999-05-10.md).
+**Eligible authors for the complete lead:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 8, ceiling 9. **Chosen author:** Souter.
 
-**Assignment authority:** Stevens for Parts I and III; Chief Justice Stone-Zsela for Part II, each within that component's judgment coalition.
+**Fit:** Form is fixed before counting as one signed Opinion of the Court with eight-Justice tax and valuation portions, a unanimous administrative-origin portion, and Stone's concurrence in part and dissent in part. The eight Associates can carry every Court proposition. Stevens, the senior Associate in the tax and valuation majorities, assigns those portions; Stone assigns only the unanimous administrative portion. Both select Souter for the single lead.
 
-**Eligible complete-opinion authors:** Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+Souter. Souter's actual Reorganized CF&I reasoning separates an obligation's operation from its label and preserves enacted priority rather than a generic functional checklist. His frozen analysis here explains why the conditional Title 11 connector differs from that assessment while preserving the lien/stay alternative and the separate allowance task. Stevens selects him on that concrete fit for Parts I and III. Earlier authorship itself supplies no entitlement.
 
-**Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+The complete lead counts once for Souter; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Assignment:** Souter. Souter's actual Reorganized CF&I reasoning separates an obligation's operation from its label and preserves enacted priority rather than a generic functional checklist. His frozen analysis here explains why the conditional Title 11 connector differs from that assessment while preserving the lien/stay alternative and the separate allowance task. Stevens selects him on that concrete fit for Parts I and III. Stone supports Part II at nine counted leads but selects Souter at eight, who can carry the whole opinion and preserve the agreed debt-origin rule. All nine are eligible on Part II at that bounded rule; its minimum-seven, ceiling-eight pool contains Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg; Stone-Zsela and Breyer at nine and O'Connor at ten are outside it. The common complete-opinion eligibility and pool above concern the eight who join all three parts. Earlier authorship itself supplies no entitlement.
+**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_PBGC_RECOUNT.json).
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -52,7 +56,6 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 | Concurrence in part and dissent in part | Stone-Zsela | None | Would affirm tax and valuation as well | Bankruptcy incorporation/function and prudent-investor allowance; no new award |
 
 All eight Associates directly join the complete tax and valuation grounds and their preserved alternatives; Thomas's contrary tax position in the earlier CF&I case is not treated as assent to its majority's rationale. The actual connector supplies his independent textual basis here. All nine join the present debt-origin holding, which does not require estate benefit in every Reading case. No count for a categorical rule or final PBGC amount is inferred from agreement on remand.
-
 
 ## Controlling holdings, remedy and continuity
 

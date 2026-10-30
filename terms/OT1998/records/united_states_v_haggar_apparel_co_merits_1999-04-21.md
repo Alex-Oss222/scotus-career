@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. Haggar Apparel Co.; No. 97-2044; judgment below, 127 F.3d 1460.
 **Event and date:** merits decision, 1999-04-21; October Term 1998.
 **Result:** Vacated and remanded, 7–2; all nine reject categorical exclusion of Chevron review.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen preparation handoffs below establish stage lineage. No Git command or repository commitment is claimed; verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, reach, record and entering law
 
@@ -17,42 +17,43 @@ Stone rejects the Federal Circuit's categorical refusal to consider Chevron and 
 
 ## Form, assignment and final opinion table
 
-Form is fixed before counting as one signed Opinion of the Court, unanimous in Parts I–III on the review framework and supported by seven in Part IV on unresolved validity/application and remand. Stevens writes a concurrence in part and dissent in part joined by Ginsburg. The seven complete-opinion supporters can carry every controlling portion; no author division is needed.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary merits review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 67 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 7 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 8 |
 | Scalia | 7 |
-| Kennedy | 7 |
+| Kennedy | 6 |
 | Souter | 7 |
 | Thomas | 7 |
 | Ginsburg | 8 |
 | Breyer | 8 |
 
-The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_HAGGAR_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 67 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
+**Last counted event:** UNUM Life Insurance Co. of America v. Ward; No. 97-1868; judgment below, 135 F.3d 1276. 1999-04-20; author Ginsburg; [Record](unum_life_insurance_co_v_ward_merits_1999-04-20.md).
 
-**Last event counted:** UNUM Life Insurance Co. of America v. Ward; No. 97-1868; judgment below, 135 F.3d 1276.; 1999-04-20; lead author Ginsburg. [Record](unum_life_insurance_co_v_ward_merits_1999-04-20.md).
+**Eligible authors for the complete lead:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer. **Complete-opinion balance pool:** Scalia, Kennedy, Souter, Thomas; minimum 6, ceiling 7. **Chosen author:** Kennedy.
 
-**Assignment authority:** Chief Justice Stone-Zsela, a member of the judgment majority.
+**Fit:** Kennedy's reconciled position separates the applicability of Chevron from the still-unresolved reasonableness and application of this regulation. His MCI/NCUA, NationsBank and NFFE joins preserve enacted conditions while recognizing delegated choice; his date-eligible writing on this tariff question demonstrates the same framework-and-remand work. Souter is the strongest alternative through NationsBank and his distinction between discretion and its exercise. Both can carry the settled grounds faithfully; Kennedy has the lower count, six to seven. Stone supports the complete rationale but is outside the pool. No necessary join depends on a new accommodation.
 
-**Eligible complete-opinion authors:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer.
+The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Balance pool:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
-
-**Assignment:** Stone-Zsela. Stone's approved position supplies the opinion's precise separation of statutory delegation, unambiguous limits, reasonable administrative choice and factual review. That sequence is the concrete work needed to reject both categorical nondeference and automatic regulatory validation. Souter, also at seven, is the strongest alternative because his NationsBank ground distinguishes authority and lawful classification. Stone's express case-specific sequence offers the clearest coordination of those three inquiries and the reserved remedy, a concrete fit advantage for self-assignment within the pool. No claimed persuasion of Stevens or Ginsburg, exceptional importance or generic Chief entitlement supports the choice.
+**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_HAGGAR_RECOUNT.json).
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court, Parts I–III | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common framework | Chevron applies within delegated authority and statutory limits; factfinding remains distinct |
-| Opinion of the Court, Part IV | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Vacatur and remand | Regulation reasonableness and actual application remain open |
+| Opinion of the Court, Parts I–III | Kennedy | Stevens, O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Ginsburg, Breyer | Common framework | Chevron applies within delegated authority and statutory limits; factfinding remains distinct |
+| Opinion of the Court, Part IV | Kennedy | O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Breyer | Vacatur and remand | Regulation reasonableness and actual application remain open |
 | Concurrence in part and dissent in part | Stevens | Ginsburg | Would reverse outright | Joins Parts I–III; would sustain regulation and actual Customs denial |
 
 The nine framework joins and seven remand joins are direct. The final wording rejects the independent remodel's direct-validity proposal because reconciliation found no concrete changed premise supporting it for the six remanding Associates. Stevens and Ginsburg retain their actual-application conclusion in a separate writing. No assumed compromise, blanket deference, unprovided shipment defect or new hearing condition is added.
-
 
 ## Controlling holdings, remedy and continuity
 
@@ -240,8 +241,8 @@ All nine reject categorical exclusion of Chevron review. The Court leaves the re
 
 | Writing | Author | Joins | Scope |
 |---|---|---|---|
-| Opinion of the Court, Parts I–III | Stone-Zsela | All eight Associate Justices | Delegation, statutory limits and Chevron framework |
-| Opinion of the Court, Part IV | Stone-Zsela | O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Unresolved validity/application and remand |
+| Opinion of the Court, Parts I–III | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Delegation, statutory limits and Chevron framework |
+| Opinion of the Court, Part IV | Kennedy | O'Connor, Scalia, Stone-Zsela, Souter, Thomas, Breyer | Unresolved validity/application and remand |
 | Concurrence in part and dissent in part | Stevens | Ginsburg | Joins Parts I–III; would sustain validity and actual denial now |
 
 ## Holdings
@@ -250,7 +251,7 @@ All nine reject categorical exclusion of Chevron review. The Court leaves the re
 
 **Holding and operative rule:** A formally promulgated Customs regulation implementing Congress's actual delegation receives Chevron review in tariff litigation: courts first enforce unambiguous statutory requirements and the delegation's boundaries, then assess a reasonable agency choice within genuine ambiguity. The Court of International Trade's duty to decide on its own record does not repeal that legal framework; agency labels and notice and comment alone do not establish authority or validity.
 
-**Authority:** Stone-Zsela's Parts I–III are joined by all eight Associates and control this complete framework.
+**Authority:** Kennedy's Parts I–III are joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer and control this complete framework.
 
 **Controlling explanation:** The Court distinguishes governing law from judicial determination of facts. Sections 1500(b) and 1502(a) and the tariff delegation provisions authorize implementing rules within their scope. Section 2640(a)(1)'s own-record review does not assign all substantive tariff lawmaking exclusively to courts, and §10.11's preservation of judicial review does not require disregarding a lawful regulation. Chevron supplies the division of responsibility; NationsBank permits reasonable gap filling within actual authority. MCI and NCUA require courts to enforce enacted limits before deferring. The importer correctly insists that review remain independent on those limits and effective on the facts. That does not justify categorically withholding the weight due a sufficiently authoritative delegated rule. Conversely, recognizing that framework does not make every Customs interpretation lawful. Informal classification letters and later administrative doctrines are not decided.
 
@@ -258,7 +259,7 @@ All nine reject categorical exclusion of Chevron review. The Court leaves the re
 
 **Holding and operative rule:** The judgment must be vacated because categorical nondeference left unresolved whether the regulation reasonably respects the tariff's incidental-assembly allowance and lawfully applies to this process. On remand the courts must enforce the enacted conditions, examine the regulation's actual introductory terms and examples, and resolve relevant application questions under the proper review standards; neither regulatory validity nor the claimed exemption is established in advance.
 
-**Authority:** Stone-Zsela's Part IV is joined by O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer, seven votes. Stevens and Ginsburg do not join this holding or remedy.
+**Authority:** Kennedy's Part IV is joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas and Breyer, seven votes. Stevens and Ginsburg do not join this holding or remedy.
 
 **Controlling explanation:** The tariff requires United States fabricated components exported ready for assembly without further fabrication, retention of physical identity, and no advancement in value or improvement abroad except through assembly and incidental operations, including cleaning, lubricating and painting. The allowance reduces duties by qualifying component cost or value, with proportional treatment for specific or compound rates; it does not exempt the whole article. Regulation §10.16(b) permits incidental operations before, during or after assembly, including ordinary final pressing and folding. Section 10.16(c) addresses a significant nonassembly process whose primary purpose is fabrication, completion or physical or chemical improvement, or a significant process unrelated to assembly. Its chemical-treatment examples, including permapressing, do not erase those introductory alternatives. Timing after sewing alone settles nothing, and ordinary pressing is not necessarily resin-activating permapressing. The significance, purpose, relationship to assembly and new characteristics of the actual process bear on the statutory-regulatory boundary, not merely on duty arithmetic. NationsBank's framework does not answer those unfinished questions. AT&T distinguishes general authority from particular validity; NFFE distinguishes available discretion from its actual lawful exercise without requiring a new agency proceeding here. Both questions were granted, but that scope does not make this intertwined inquiry complete. The lower courts must undertake it without the erroneous categorical premise. The Court commands no new evidentiary hearing, burden, deadline or finding that existing litigation papers are missing.
 

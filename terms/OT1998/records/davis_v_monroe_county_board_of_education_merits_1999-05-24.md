@@ -1,7 +1,7 @@
 **Case and dockets:** Davis v. Monroe County Board of Education; No. 97-843.
 **Event and date:** Merits decision, 1999-05-24; October Term 1998.
 **Result:** Appealed recipient Title IX dismissal reversed and remanded, 6–3; five retain severe-or-pervasive educational-harm rule.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen handoffs identified below establish stage lineage. Repository verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, participation and law entering
 
@@ -27,21 +27,35 @@ The actual May17 and Maine public-law additions and [later dependency review](..
 **Historical departure:** Stevens, O'Connor, Souter, Ginsburg and Breyer retain their own unanimously joined Kinman severe-or-pervasive educational-environment rule rather than historical Davis's conjunctive severity formula. That already controlling rule is the changed premise for each of the five; O'Connor's narrower institutional concerns are preserved by actual corrective-official notice, culpability, control and causation, while the other four's prior broader attribution positions also support this sufficient route. Kennedy's provisional departure was corrected in the frozen reconciliation because his teacher cases did not answer his nonagent-peer attribution objection.
 ## Assignment and final compatibility
 
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 84 leads before this assignment.
+
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 9 |
 | O'Connor | 10 |
 | Scalia | 9 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 10 |
 | Thomas | 9 |
 | Ginsburg | 9 |
 | Breyer | 10 |
 
-Last counted event: Cleveland v. Policy Management Systems Corp.; No. 97-1008. (1999-05-24), Stevens; `cleveland_v_policy_management_systems_merits_1999-05-24.md`. The recount reads each actual earlier Record's opinion table afresh in effective-date and same-date alphabetical order. Eligible authors: Stevens, O'Connor, Souter, Ginsburg and Breyer. Balance pool: Stevens, O'Connor, Souter, Ginsburg, Breyer; minimum 9, ceiling 10. Chief Justice Stone-Zsela assigns Ginsburg. The Chief supports reversal and assigns, but his approved conjunctive severity formulation does not support every proposition in the complete severe-or-pervasive lead, so he is ineligible for that integrated opinion. Scalia, Kennedy and Thomas oppose the peer extension. All five eligible members fall within one of the minimum nine. Ginsburg's frozen ground distinctly separates the recipient's culpable response from imputation of the child's acts and retains causal and remedy limits without turning a proposed avoidable-harm defense into an automatic bar. That is the opinion's central attribution work. Stevens at the same count is the strongest alternative; both could carry the shared rule, but Ginsburg's precisely bounded recipient-response formulation supplies the case-specific fit. No vote is obtained by authorship and no broader theory is adopted to enlarge eligibility.
+**Last counted event:** Cleveland v. Policy Management Systems Corp.; No. 97-1008. 1999-05-24; author Stevens; [Record](cleveland_v_policy_management_systems_merits_1999-05-24.md).
+
+**Eligible authors for the complete lead:** Stevens, O'Connor, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stevens, O'Connor, Souter, Ginsburg, Breyer; minimum 9, ceiling 10. **Chosen author:** Ginsburg.
+
+**Fit:** Ginsburg's frozen ground distinctly separates the recipient's culpable response from imputation of the child's acts and retains causal and remedy limits without turning a proposed avoidable-harm defense into an automatic bar. That is the opinion's central attribution work. No vote is obtained by authorship and no broader theory is adopted to enlarge eligibility.
 
 Stevens, O'Connor, Souter, Ginsburg and Breyer join all three parts. Stone joins Part I's sufficient actual-corrective-official-notice/culpable-response peer route and Part III's allegation-stage reversal; he does not join Part II's severe-or-pervasive threshold. His separate writing retains his severe-and-pervasive-and-objectively-offensive formulation and his additional willfully blind reporting-failure proposal. None of those differences moves a non-Stone commitment. Kennedy writes the dissent for Scalia and Thomas because his recorded objection distinctly explains the nonagent link and preserves the direct-discrimination distinction; this reason, not historical authorship, determines the separate writing.
+
+The complete lead counts once for Ginsburg; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
 ## Adaptive audit annex
 

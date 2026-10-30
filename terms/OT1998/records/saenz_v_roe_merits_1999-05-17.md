@@ -1,7 +1,7 @@
 **Case and dockets:** Saenz v. Roe; No. 98-97; judgment below, Roe v. Anderson, 134 F.3d 1400.
 **Event and date:** merits decision, 1999-05-17; October Term 1998.
 **Result:** Affirmed, 8–1; preliminary injunction against first-year unequal benefits remains in force.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen preparation handoffs below establish stage lineage. No Git command or repository commitment is claimed; verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Event, reach, record and entering law
 
@@ -17,33 +17,37 @@ Stone's approved ground is equal state citizenship immediately upon bona fide re
 
 ## Form, assignment and final opinion table
 
-Before assignment, the form is one signed eight-Justice Opinion of the Court and Thomas's necessary dissent, with two controlling holdings and preliminary relief retained. The historical participation of a replaced Chief supplies no vote or authorship.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes; signed lead after plenary merits review.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 76 leads before this assignment. The same-date Goldsmith, White, Hunt and Ruhrgas Records were not yet entered at this assignment and are excluded.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 8 |
 | O'Connor | 10 |
 | Scalia | 8 |
-| Kennedy | 7 |
+| Kennedy | 8 |
 | Souter | 9 |
 | Thomas | 8 |
 | Ginsburg | 8 |
 | Breyer | 9 |
 
-The fresh recount reads actual dated Record opinion tables, including earlier decisions written in this Run. Receipt: [sequential recount](../freeze/OT_1998CHUNK7_SAENZ_RECOUNT.json). Every exclusion is identified in that receipt; the total before this assignment is 76 counted leads. Same-date assignment ordering is alphabetical, while same-date peer holdings do not enter the common substantive baseline.
+**Last counted event:** Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293. 1999-05-13; author Souter; [Record](pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md).
 
-**Last event counted:** Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293.; 1999-05-13; lead author Souter. [Record](pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md).
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg, Breyer; minimum 8, ceiling 9. **Chosen author:** Kennedy.
 
-**Assignment authority:** Chief Justice Stone-Zsela, a member of the judgment majority.
+**Fit:** Before assignment, the form is one signed eight-Justice Opinion of the Court and Thomas's necessary dissent, with two controlling holdings and preliminary relief retained. The historical participation of a replaced Chief supplies no vote or authorship.
 
-**Eligible complete-opinion authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer.
+Kennedy. Kennedy's frozen Boerne ground separates constitutional enforcement from statutory replacement, while his equal-current-citizenship position ties that limit to the precise state classification. He can carry both holdings without enlarging the Clause or prescribing a welfare amount. No accommodation changes a frozen vote, so fit rather than presumed coalition expansion governs.
 
-**Balance pool:** Stevens, Scalia, Kennedy, Ginsburg; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
+The complete lead counts once for Kennedy; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
-**Assignment:** Kennedy. Kennedy's frozen Boerne ground separates constitutional enforcement from statutory replacement, while his equal-current-citizenship position ties that limit to the precise state classification. He can carry both holdings without enlarging the Clause or prescribing a welfare amount. Stone is fully eligible and considered on his direct equal-citizenship formulation; Kennedy can preserve that objective with equally concrete source-based precision and falls within the recounted pool. No accommodation changes a frozen vote, so fit rather than presumed coalition expansion governs.
+**Count evidence:** [sequential recount](../freeze/OT_1998CHUNK7_SAENZ_RECOUNT.json).
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -51,7 +55,6 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 | Dissent | Thomas | None | Would reverse | No established constitutional violation on his narrower Clause/travel analysis |
 
 The eight majority Justices directly adopt the narrow Privileges or Immunities rule; no alternative equal-protection or travel rationale is counted through Marks. O'Connor's source-specific settlement analysis and Scalia's textual limit are retained in the Court opinion. Thomas agrees Congress cannot authorize a proved constitutional violation but disputes the antecedent here; that abstract agreement is not a ninth vote for this holding or judgment.
-
 
 ## Controlling holdings, remedy and continuity
 

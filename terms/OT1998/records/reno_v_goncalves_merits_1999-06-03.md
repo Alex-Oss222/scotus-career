@@ -1,7 +1,7 @@
 **Case and dockets:** Reno v. Goncalves; No. 98-835; First Circuit judgment, 144 F.3d 110.
 **Event and date:** Merits decision, 1999-06-03; October Term 1998.
 **Result:** The First Circuit judgment is affirmed, 6-3; all nine sustain the actual section 2241 habeas jurisdiction.
-**Version / lineage:** Original adjudication; supersedes no completed event. Frozen stage handoffs establish lineage; repository verification and commitment remain with the operator.
+**Version / lineage:** Original decision.
 
 ## Decision kernel and chronology
 
@@ -52,25 +52,35 @@ Research cutoff: June 3, 1999; no later substantive authority is used. The suppl
 
 ## Balanced assignment and final validation
 
-**Counted lead opinion:** Yes: a signed lead after plenary argued merits review. The distinct jurisdiction and temporal/deference parts and the additional separate writings were fixed before this count, as the form-first section records. The Chief is in the judgment majority and assigns the complete lead. Its eligible authors are Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, each of whom joins every governing proposition. Scalia, Kennedy and Thomas join only Part I and are not eligible to carry the full lead.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
+
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
+
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
+
+The actual counted source opinions yield 89 leads before this assignment.
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 9 |
+| Stone-Zsela | 8 |
 | Stevens | 10 |
 | O'Connor | 11 |
 | Scalia | 10 |
-| Kennedy | 9 |
+| Kennedy | 10 |
 | Souter | 10 |
 | Thomas | 10 |
 | Ginsburg | 10 |
 | Breyer | 10 |
 
-The last counted event is Bruneau v. South Kortright Central School District, June 3, 1999, signed lead by Thomas. The fresh count contains 89 leads. The lowest eligible count is Stone-Zsela's nine. The pool is Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, with the four Associates at ten; O'Connor is outside it at eleven. Stone writes at the lowest count. Souter is a full-rationale alternative, but no different accommodation or superior fit displaces Stone's precise coordination of the common grounds. His approved separation of the retained jurisdiction, statutory eligibility and discretionary relief faithfully supplies the common opinion.
+**Last counted event:** Bruneau v. South Kortright Central School District; No. 98-1541. 1999-06-03; author Thomas; [Record](bruneau_v_south_kortright_central_school_district_merits_1999-06-03.md).
 
-The form-first decision also requires his distinct approved new-disability explanation to remain a separate concurrence. His authorship of both the Court's common opinion and that additional personal explanation changes neither coalition nor count; only the lead counts. No fifth Associate is inferred to adopt the additional explanation as an independent holding. Scalia's separate writing has the exact two joins stated. Final arithmetic: jurisdiction nine; temporal rule, deference application and affirmance six; merits dissent three. All approved core limits and all frozen Associate reservations are preserved.
+**Eligible authors for the complete lead:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela; minimum 8, ceiling 9. **Chosen author:** Stone-Zsela.
 
-The eleven ordered blocks, legal labels, proposition-level coalitions and explanation ceilings have been checked before canonical publication. Public content contains no draft, approval or workflow annotation. Original freezes remain unchanged. Filesystem preservation occurs in the present Run; effective law begins June 3, 1999. The final chunk validation records the executed non-Git checks; Git history verification and repository commitment remain with the operator.
+**Fit:** South Kortright Central School District, June 3, 1999, signed lead by Thomas. Souter is a full-rationale alternative, but no different accommodation or superior fit displaces Stone's precise coordination of the common grounds. His approved separation of the retained jurisdiction, statutory eligibility and discretionary relief faithfully supplies the common opinion.
+
+The form-first decision also requires his distinct approved new-disability explanation to remain a separate concurrence. No fifth Associate is inferred to adopt the additional explanation as an independent holding. Scalia's separate writing has the exact two joins stated. Final arithmetic: jurisdiction nine; temporal rule, deference application and affirmance six; merits dissent three. All approved core limits and all frozen Associate reservations are preserved.
+
+The complete lead counts once for Stone-Zsela; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
 
 ## Controlling holdings
 

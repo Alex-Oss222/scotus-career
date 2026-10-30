@@ -31,21 +31,37 @@ Stone joins Part I in full and Part II in full, supports both ordered judgment c
 
 ## Opinion Form and Assignment
 
-**Form fixed before counts.** A single signed lead Opinion of the Court resolves the statutory integration question and the related resource correction after plenary review. Part I states the integration, statutory, individual, and ordinary-defense propositions; Part II states the full programwide corrective rationale and its confined remedial consequence. The distinct plan-sufficiency proposal appears in a separate concurrence because it lacks the five complete joins supporting Part II. Separate writings also preserve Stone's qualification, Stevens's remand objection, Kennedy's distinct liability inquiry and clinical cautions, and Scalia/Thomas's statutory objection. These choices were settled and reported before the recount; no controlling part is divided among authors or altered for balance.
+One signed lead opinion follows plenary merits review. Its form, governing propositions, judgment coalitions and exact join boundaries are fixed before the count; no part or opinion is divided to alter eligibility. The existing substantive sections and opinion topology state those boundaries.
 
-**Counted lead opinion:** Yes.
+**Counted lead opinion:** Yes; one signed lead after plenary merits review.
 
-**Assigning Justice:** Chief Justice Stone-Zsela, who supports the integration affirmance and the confined resource vacatur/remand. The integration judgment coalition is Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, and Breyer. The resource-remand coalition also includes Kennedy, with Stevens judgment-only and Kennedy on his distinct ground. Assignment follows the settled shared legal ground, not those judgment votes alone.
+**Assignment authority:** Chief Justice Stone-Zsela assigns because he belongs to the judgment coalition.
 
-**Fresh prior counts:** Stone-Zsela 13; Stevens 12; O'Connor 14; Scalia 12; Kennedy 12; Souter 12; Thomas 12; Ginsburg 12; Breyer 13. The [fresh recount](../freeze/OT_1998CHUNK11_OLMSTEAD_RECOUNT.json) starts from zero and extracts actual canonical author evidence; it does not use prior reported totals. It includes 112 qualifying prior opinions. **Last event counted:** Murphy v. United Parcel Service, Inc., merits decision, June 22, 1999, `murphy_v_united_parcel_service_inc_merits_1999-06-22.md`. The recount was run only after Murphy's finalization signal.
+The actual counted source opinions yield 112 leads before this assignment.
 
-**Eligible authors:** Stone-Zsela, O'Connor, Souter, Ginsburg, and Breyer, each of whom joins every proposition in Parts I–II. Stevens's Part I and judgment-only resource support do not qualify him for the complete opinion; Kennedy's partial resource agreement and different liability theory do not qualify him. Scalia and Thomas reject the governing integration proposition.
+| Justice | Count before assignment |
+|---|---:|
+| Stone-Zsela | 12 |
+| Stevens | 12 |
+| O'Connor | 14 |
+| Scalia | 12 |
+| Kennedy | 13 |
+| Souter | 12 |
+| Thomas | 12 |
+| Ginsburg | 12 |
+| Breyer | 13 |
 
-**Balance pool:** Stone-Zsela, Souter, Ginsburg, Breyer; minimum 12, ceiling 13. The eligible minimum is 12, and the permitted ceiling is 13; O'Connor's 14 excludes her from this pool. **Chosen author:** Ginsburg.
+**Last counted event:** Murphy v. United Parcel Service, Inc.; No. 97-1992. 1999-06-22; author O'Connor; [Record](murphy_v_united_parcel_service_inc_merits_1999-06-22.md).
 
-**Fit and expansion:** The necessary five complete joins already share sufficiently settled ground; no expansion accommodation is needed, and the plan disagreement remains in separate writings. Ginsburg's frozen position directly connects the statutory integration direction, individual qualification, and the practical distribution of services without either a universal benefit entitlement or a purely per-person cost rule. Her supported Bragdon distinction between participation interests and individual statutory proof fits that work. Souter can also carry the opinion; his Heller work concerns confinement safeguards rather than the distinct service-delivery relationship here. Breyer can perform the administrative work but has the higher pool count. Stone's explicit core precisely supports the common rule and makes him fully eligible, but his additional plan-proof position is not the coalition's rule and supplies no concrete authorship advantage over Ginsburg's ability at the lower count of twelve to express the settled common ground. Ginsburg is selected for that actual statutory and remedial fit, not because historical authorship dictates the choice.
+**Eligible authors for the complete lead:** Stone-Zsela, O'Connor, Souter, Ginsburg, Breyer. **Complete-opinion balance pool:** Stone-Zsela, Souter, Ginsburg, Breyer; minimum 12, ceiling 13. **Chosen author:** Ginsburg.
 
-The single lead opinion has one author, Ginsburg. All its governing propositions have the complete support necessary for that author to carry them. The separate writings are not Section 8 assignments and are not counted. Their authorship records the public positions identified below; no fictional circulation, draft exchange, lost coalition, or reassignment is asserted. Final compatibility suffices.
+**Fit:** **Fit and expansion:** The necessary five complete joins already share sufficiently settled ground; no expansion accommodation is needed, and the plan disagreement remains in separate writings. Ginsburg's frozen position directly connects the statutory integration direction, individual qualification, and the practical distribution of services without either a universal benefit entitlement or a purely per-person cost rule. Her supported Bragdon distinction between participation interests and individual statutory proof fits that work. Souter can also carry the opinion; his Heller work concerns confinement safeguards rather than the distinct service-delivery relationship here. Ginsburg is selected for that actual statutory and remedial fit, not because historical authorship dictates the choice.
+
+The single lead opinion has one author, Ginsburg. All its governing propositions have the complete support necessary for that author to carry them. Their authorship records the public positions identified below; no fictional circulation, draft exchange, lost coalition, or reassignment is asserted. Final compatibility suffices.
+
+The complete lead counts once for Ginsburg; separate writings count zero. Final compatibility preserves every established judgment, governing proposition, qualification and published separate position.
+
+**Count evidence:** [fresh recount](../freeze/OT_1998CHUNK11_OLMSTEAD_RECOUNT.json).
 
 ## Adaptive Audit Annex
 
