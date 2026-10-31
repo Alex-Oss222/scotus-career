@@ -220,7 +220,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 #### Position and scope
 
-**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. No Court judgment, vote, rationale or coalition is created by this supplement.
+**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. The revised position stated below was user-approved 2026-10-30. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** Equal opportunity and remedies.
 
@@ -230,7 +230,7 @@ Historical questions. What equal-protection standard governs federal race-based 
 
 #### Selected approach and status
 
-Stone selects a common standard of substantial justification that permits supported action addressing documented barriers to market access. His preferred disposition is vacate and remand under that new standard, with the Stevens-based affirmance fallback specified below if the Court does not adopt the proposed replacement standard. These are alternative Stone positions for the simulation, not completed holdings, assumed coalitions, or instructions for another Justice's vote.
+Stone selects a common standard of substantial justification that permits supported action addressing documented barriers to market access. His disposition is vacate and remand under that new standard, and Stone writes the Opinion of the Court adopting it for federal, state and local government. This is Stone's position for the simulation, not a completed holding, an assumed coalition, or an instruction for another Justice's vote.
 
 #### Role in this build
 
@@ -272,29 +272,15 @@ Examine continued justification. Determine whether the program can respond when 
 State the consequence of a failure. If government cannot establish the required objective, substantial relationship, or justification for the burden, the challenged racial treatment fails. Relief must address the invalid provision or application under ordinary remedial and severability rules. A court does not acquire authority to redesign all procurement policy or supervise every future contract merely because it finds a defect.
 These directions require judgment about evidence and operation, not a numerical score. No single disparity ratio, regression method, commissioned study, least-restrictive-means formula, mandatory consultation procedure, or permanent judicial monitoring system is constitutionalized. Existing records may suffice. Participation, transparent reasons, and independent review can improve administration, but cannot replace the substantive justification owed to an affected bidder.
 
-#### Stevens fallback: trigger and disposition
-
-If the Court does not adopt Stone's proposed replacement standard, Stone's authorized alternative is to affirm the Tenth Circuit's judgment on the preserved record using the Stevens rationale, rather than support invalidation merely because race affected competition. Stone may state that position in a controlling opinion, concurrence, or dissent as the actual disposition and joins permit. This instruction neither assumes that Stevens writes or joins an opinion nor supplies votes for either approach.
-
-#### Stevens fallback: reasoning
-
-Follow the substance of Stevens's historical Adarand dissent: efforts to overcome supported exclusion are constitutionally different from measures maintaining racial subordination, and Congress's authority and institutional competence warrant substantial respect. Apply Fullilove and Metro Broadcasting rather than displacing their support for the judgment with categorical suspicion of all federal corrective action. On the preserved record, rely on the program's disadvantage-based eligibility, rebuttable presumptions, access for qualifying firms outside the presumptive groups, and flexible incentive structure, together with the evidentiary and delegation concessions. These features support affirmance of this challenge; goodwill alone would not.
-
-The fallback preserves meaningful review of purpose, fit, and burdens. It is not rational-basis review, a universal exemption for programs called benign, or an assumption that an optional incentive cannot injure a competitor. It does not import every proposition in Stevens's dissent into Stone's broader framework.
-
-#### Relationship between the two positions
-
-The preferred branch changes the governing standard and therefore calls for remand on unresolved matters material to that change. The fallback would decide the preserved challenge through the inherited precedents and the Stevens explanation of why this program can be sustained. It is an alternative basis and disposition, not an additional holding that automatically validates the program under the new rule. If the new rule becomes controlling and the government later fails to justify the program under it, that failure does not activate the fallback.
-
 #### Precedent treatment and downstream consequences
 
-Under the preferred branch, Stone expressly rejects Metro Broadcasting's selection of a lower tier based on federal sponsorship of a benign classification and departs from Croson's categorical strict-scrutiny formulation for every state or local remedial racial classification. He retains Croson's demand for relevant evidence, Wygant's attention to actual burdens, Paradise's attention to flexibility and fit, and Fullilove's recognition of supported congressional remedial action. The new substantive standard is a proposed doctrinal change, not a claim that those fractured authorities already established it.
+Stone expressly rejects Metro Broadcasting's selection of a lower tier based on federal sponsorship of a benign classification and departs from Croson's categorical strict-scrutiny formulation for every state or local remedial racial classification. He retains Croson's demand for relevant evidence, Wygant's attention to actual burdens, Paradise's attention to flexibility and fit, and Fullilove's recognition of supported congressional remedial action. The new substantive standard is a proposed doctrinal change, not a claim that those fractured authorities already established it.
 
-Under the fallback, the proposed displacement of Croson and Metro does not become law merely because it appears in this build. The actual controlling judgment and reasoning determine later cases. Any later related dispute requires its actual procedural history; do not assume that the simulation produces a remand or subsequent regulatory controversy. The completed simulated Shaw governs the design-only districting proposition entering this event. Miller is scheduled later and supplies no entering law; Jenkins affects this event only through an actual earlier effective same-day decision concerning correction of an adjudicated segregation violation. Neither supplies an exemption from justification here, and this decision does not silently decide the validity of every later school, employment, or contracting program.
+Any later related dispute requires its actual procedural history; do not assume that the simulation produces a remand or subsequent regulatory controversy. The completed simulated Shaw governs the design-only districting proposition entering this event. Miller is scheduled later and supplies no entering law; Jenkins affects this event only through an actual earlier effective same-day decision concerning correction of an adjudicated segregation violation. Neither supplies an exemption from justification here, and this decision does not silently decide the validity of every later school, employment, or contracting program.
 
 #### Sources and research boundaries
 
-The Tenth Circuit opinion, 16 F.3d 1537, supplies the judgment below, statutory distinctions, and concessions. The historical Supreme Court opinion identifies the competitive injury and unresolved certification issues; its strict-scrutiny holding is the comparator, not Stone's proposed rule. Stevens's dissent supplies the fallback rationale and affirmance position; Souter's dissent emphasizes the preserved issues and concessions. These sources do not predetermine simulated votes.
+The Tenth Circuit opinion, 16 F.3d 1537, supplies the judgment below, statutory distinctions, and concessions. The historical Supreme Court opinion identifies the competitive injury and unresolved certification issues; its strict-scrutiny holding is the comparator, not Stone's proposed rule. Stevens's dissent supplies the historical affirmance rationale; Souter's dissent emphasizes the preserved issues and concessions. These sources do not predetermine simulated votes.
 
 Contemporary theoretical context includes Michel Rosenfeld's Affirmative Action and Justice (1991) and Cass Sunstein's “The Anticaste Principle” (1994). The 1994 GAO highway DBE review supplies related administrative context about developing firms capable of independent competition, not findings about the precise challenged arrangement. Scholarship is not controlling authority, and later studies or later updates on source pages do not enter the 1995 evidentiary record.
 <!-- END_SECTION II -->
