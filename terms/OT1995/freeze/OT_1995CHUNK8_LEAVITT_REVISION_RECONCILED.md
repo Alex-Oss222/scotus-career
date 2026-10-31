@@ -6,7 +6,7 @@
 
 ## Source scope, reuse and comparator correction
 
-The released independent file was checked at SHA-256 `172ecba1168845b9a61beb4b1ccba9a149b5cd13218ecb0f9acdfd1489fb7690`. This context read it, the unchanged [validated neutral packet](OT_1995CHUNK8_LEAVITT_NEUTRAL_VALIDATED.md), the scoped [regenerated comparator](../runtime/OT_1995CHUNK8_REVISION_LEAVITT_COMPARATOR.md), complete [original reconciliation](OT_1995CHUNK8_LEAVITT_RECONCILED.md), and Leavitt section of the [verified comparator receipt](OT_1995CHUNK8_C_COMPARATOR_VERIFIED.md). The original independent analysis is incorporated through the released revalidation and original reconciliation; it is not represented as a freshly repeated full modeling exercise.
+The released independent file was checked at SHA-256 `fceeca0a5552389b7a6574d025060b37678fb2ce8696a7a5c477633b1b590177`. This context read it, the unchanged [validated neutral packet](OT_1995CHUNK8_LEAVITT_NEUTRAL_VALIDATED.md), the scoped [regenerated comparator](../runtime/OT_1995CHUNK8_REVISION_LEAVITT_COMPARATOR.md), complete [original reconciliation](OT_1995CHUNK8_LEAVITT_RECONCILED.md), and Leavitt section of the [verified comparator receipt](OT_1995CHUNK8_C_COMPARATOR_VERIFIED.md). The original independent analysis is incorporated through the released revalidation and original reconciliation; it is not represented as a freshly repeated full modeling exercise.
 
 The original reconciliation records complete reading of the official 518 U.S. 137–148 opinion text, every note and Stevens's complete dissent. Its verified historical source work is reused; this context did not reread that official text or every original petition paper. Its previously documented complete HB206, Casey/Fargo, Dalton, Miller and other unchanged-public-law work is also reused within the source limits it states. The independent revalidation freshly compared the unchanged neutral and opening law and supplied its actual-law gate. This receipt does not claim a full rereading of the 102 indexed public copies, underlying raw Records, original exhibits or medical materials.
 
@@ -84,13 +84,13 @@ The reproduced substantive block retains every original individual row, exact su
 
 | Reviewed source | SHA-256 |
 |---|---|
-| Released revised independent commitments | `172ecba1168845b9a61beb4b1ccba9a149b5cd13218ecb0f9acdfd1489fb7690` |
+| Released revised independent commitments | `fceeca0a5552389b7a6574d025060b37678fb2ce8696a7a5c477633b1b590177` |
 | Unchanged validated neutral | `33f38e86b32057c045241c663050d1d9c7223a9f91780d85c444ef190ae2c682` |
 | Scoped regenerated comparator | `9ccffeb59b6e8b06baf1b5884e4bfd03313d9255f2113b8a998d41bceac4b1b2` |
 | Original reconciliation | `eb0e4d342fc9d6f3257ccde43cd8dae96b5569541bc4df0e69194448b826d32a` |
 | Verified comparator file; Leavitt section | `8fb9689416b531a85885357b9b2d47c94108bb08844697544a4da60d539efa80` |
 | Actual final Egelhoff public copy | `df106d031cedb45501684a72bb4cb5fe8fe8e021792a1c5c71ce3450f61c16c5` |
-| Actual final Vera public copy | `1c27402f25f89a545f8babe922756ff3be6e2b1fdb991c5bdda60d05b5df8ac2` |
+| Actual final Vera public copy | `6c27d385521e572edde6dfa4abfce60b690758a4bdef6ff13c171763cce30c80` |
 
 Review performed October 7, 2026. Hashes identify source bytes, not legal correctness or repository commitment. No raw-record or Git durability verification is claimed.
 

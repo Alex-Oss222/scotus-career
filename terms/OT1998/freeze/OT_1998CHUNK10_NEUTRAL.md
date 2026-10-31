@@ -43,7 +43,7 @@ Only section 6 is the Valdespino packet.
 
 Valdespino is dated June17, not June18; final earlier-public-law screen governs chronology.
 
-- [OT_1998CHUNK10_B_DALLAS_NEUTRAL.md](../freeze/OT_1998CHUNK10_B_DALLAS_NEUTRAL.md) — 10199 bytes; SHA-256 `4a8583f3c9f383cec06bb57a89150d4be6df944ad71a6d7bac823f8d871a8335`.
+- [OT_1998CHUNK10_B_DALLAS_NEUTRAL.md](../freeze/OT_1998CHUNK10_B_DALLAS_NEUTRAL.md) — 10199 bytes; SHA-256 `be11fce0db34a4b6d1e923d740cb02611736a7454b5e7128fa32f9a9abdd5d61`.
 
 ## Acker
 

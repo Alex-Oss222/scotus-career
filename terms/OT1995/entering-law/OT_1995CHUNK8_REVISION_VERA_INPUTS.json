@@ -4,7 +4,7 @@
   "coverage_status": "Complete as to Records presently on disk at the stated strict-before cutoff.",
   "slice": "terms/OT1995/entering-law/OT_1995CHUNK8_REVISION_VERA.md",
   "slice_sha256": "420bea1d0b8db3d7d3b124dc817f4af8c97bb81547886d060f13991e91b96caf",
-  "baseline_sha256": "60d7a77240ff3c2a2eae7caad8647b79cbdb87f3161b582f74ef42a5555a9261",
+  "baseline_sha256": "d0d660d1b56c6c45c052a91c7495cd434c6c851caa81783db85cada204c0346f",
   "selected": {
     "holdings-area": [
       "election-law"
@@ -18,7 +18,7 @@
     "standing-heading": []
   },
   "inputs": {
-    "terms/OT1995/entering-law/OT_1995CHUNK8_A_VERA.md": "60d7a77240ff3c2a2eae7caad8647b79cbdb87f3161b582f74ef42a5555a9261",
+    "terms/OT1995/entering-law/OT_1995CHUNK8_A_VERA.md": "d0d660d1b56c6c45c052a91c7495cd434c6c851caa81783db85cada204c0346f",
     "state/holdings/election-law.md": "31d5b1cbab12c2744cdb1069bad48c94669056d4f741f3b9e21251fa87a3885f",
     "state/STANDARDS_AND_TESTS.md": "63ac91ba699d81363221fc054f0b68e53be2689da214de4856f26e4820929034",
     "tools/build_entering_law.py": "b6f19fc552b200e1c50b28369c3d9f734ccb3580b182db4cb37072bf78802abc"
@@ -528,8 +528,8 @@
     {
       "path": "terms/OT1995/records/Romer_v_Evans_merits_1996-05-20.md",
       "date": "1996-05-20",
-      "record_sha256": "0fde99e9b2445c8ebb5b1f67f3e86f0672ea8be4ecc9141842c5d57e2a57797c",
-      "projection_sha256": "28e7a61481b71e25f6e1c630090bafe2974ca0e963745a3562dbe38e094384eb"
+      "record_sha256": "6674c61867d23bddf979638ea0284deede09ba670003d84f8b2f94cdec97be08",
+      "projection_sha256": "53338eb4fc53f13eefd626d3fef74266a16388633a23b6c9cf22732d69218915"
     },
     {
       "path": "terms/OT1995/records/Pinder_v_Johnson_merits_1996-05-21.md",
@@ -564,7 +564,7 @@
     {
       "path": "terms/OT1995/records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md",
       "date": "1996-06-03",
-      "record_sha256": "8f6d04c7728e7b88b1de6daed93cea08c9a902d230a508f6be91fa7640c0daf3",
+      "record_sha256": "6ce591cbce14f8ff2735d0bf6f1d056f57f4117e5b5e05808ccad32f120b4c55",
       "projection_sha256": "571b043c07699a3b3b5e2eaf46b9032df59cf8f2a59a2b149fb459493808b793"
     },
     {
@@ -576,7 +576,7 @@
     {
       "path": "terms/OT1995/records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md",
       "date": "1996-06-10",
-      "record_sha256": "179870811e3fdfe07ef872f1979e59141f8a99cc45d5a85dfb552430a628bd8d",
+      "record_sha256": "2c39d6920333a5b3576a04587460c2b8456ae233f66b48dcb25c70f5d1b08b13",
       "projection_sha256": "946aedf6885034d410958d06cb411a7c8ce1fbfbe5d94a9076ffc8d0b327fdf4"
     },
     {

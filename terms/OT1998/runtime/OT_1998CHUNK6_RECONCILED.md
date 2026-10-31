@@ -11,9 +11,9 @@ This mechanically generated index identifies the operative case-specific frozen 
 | Mille Lacs | [case-specific scope](../freeze/OT_1998CHUNK6_MILLE_LACS_RECONCILED.md) | `ff7b2f0123c956da514c8f5919effa5422d5ba6bddb5764248483fc584ca3841` |
 | Brower | [case-specific scope](../freeze/OT_1998CHUNK6_BROWER_REFRESH_RECONCILED.md) | `88ef92890e28cd3ff15cc36f8321ff98fb8dcfcd645d54458c73821e608b097d` |
 | Rodriguez-Moreno | [case-specific scope](../freeze/OT_1998CHUNK6_B_CLEAN_RECONCILED.md) | `f76516c11cc6a016e3dcfc9861b3597d19c93fd89243419077d59421335d1b2f` |
-| Conn | [case-specific scope](../freeze/OT_1998CHUNK6_CONN_REFRESH_RECONCILED.md) | `7199930cf600e5a7cd7ceb6c0e0da998f62fd2b8cb6bf145e97c95ac59ffd1cf` |
+| Conn | [case-specific scope](../freeze/OT_1998CHUNK6_CONN_REFRESH_RECONCILED.md) | `c174b5312f6516ba53533d9557e4925c991a5a563952bcc3c118c9887fdf0374` |
 | Mitchell | [case-specific scope](../freeze/OT_1998CHUNK6_MITCHELL_RECONCILED.md) | `803bac70a559ee016e167ab7dce8dcf4dbd5f88e1c16f1fee92c65448de3e81a` |
-| Murphy Brothers | [case-specific scope](../freeze/OT_1998CHUNK6_B_PROC_RECONCILED.md) | `07bed51b400cc1f85707e3cbea04233135622126c7472d939f55045d807624fd` |
+| Murphy Brothers | [case-specific scope](../freeze/OT_1998CHUNK6_B_PROC_RECONCILED.md) | `261709d0a0c0514881bbad558d0cee41f15e966f8474312979cceaea95eee90c` |
 | Wyoming v. Houghton | [case-specific scope](../freeze/OT_1998CHUNK6_B_CLEAN_RECONCILED.md) | `f76516c11cc6a016e3dcfc9861b3597d19c93fd89243419077d59421335d1b2f` |
 | Barnes | [case-specific scope](../freeze/OT_1998CHUNK6_B_CLEAN_RECONCILED.md) | `f76516c11cc6a016e3dcfc9861b3597d19c93fd89243419077d59421335d1b2f` |
 

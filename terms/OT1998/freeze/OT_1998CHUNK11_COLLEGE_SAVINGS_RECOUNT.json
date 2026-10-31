@@ -138,7 +138,7 @@
       "authors": [
         "Breyer"
       ],
-      "source_sha256": "54ecc18a14274e44b11d1266f8b22739a9c311c565e9b0a00f408bd60c04f1ca",
+      "source_sha256": "53934b1feaeea2da8701153d0275cd0727d899b812c7c22b5bc11613dc69fa7b",
       "author_evidence": [
         "| Opinion of the Court, Parts I-IV | Breyer | Stone-Zsela, Stevens, Souter and Ginsburg; O'Connor, Scalia, Kennedy and Thomas as to Part III only | Five votes for the constitutional holdings and remedy; all nine for rejection of blanket Title VII preemption |"
       ]
@@ -1551,12 +1551,12 @@
       "authors": [
         "Kennedy"
       ],
-      "source_sha256": "01122b1752b11f9b9baf1b3c95a9360216c620cad1d64707d5d9884a69c97fa9",
+      "source_sha256": "d1475b8c5c8480ce95ccada4a2c39f7eef8f0e4a657ce8d3c11f9d78755f83e8",
       "author_evidence": [
         "| O'Connor | Affirms both. Joins complete lead opinion: independent racial connection and fit failures; separate sex-predicate failure. | Engineering Contractors opinion and concurrence require relevant opportunity proof and fit; Kelley/Klinger keep sex separate. Neither prior liability nor resistance nor exhaustion of every alternative is required. No historical merits vote is inferred. |",
         "| Thomas | Affirms both; joins complete lead opinion. | His actual Engineering Contractors affirmative-remediation join remains bounded; general reputation supplies no categorical ban. Good intentions do not establish fit; Kelley/Klinger preserve separate sex review. No historical merits vote is inferred. |",
         "| Opinion of the Court, Part I | Kennedy | All eight other Justices join the separate scrutiny standards and rejection of an invariable prior-adjudication or egregious-resistance prerequisite. Scalia reserves the full affirmative scope of permissible racial repair; the other eight accept that bounded proposition. |",
-        "| Opinion of the Court, Part II | Kennedy | Stone-Zsela, O'Connor, Scalia and Thomas; independent racial-evidence and narrow-fit grounds |",
+        "| Opinion of the Court, Part II | Kennedy | Stone-Zsela, O'Connor, Scalia and Thomas; independent racial-evidence and fit grounds |",
         "| Opinion of the Court, Part III | Kennedy | All eight other Justices; inadequate connected sex-specific justification |"
       ]
     },
@@ -1583,7 +1583,7 @@
       "authors": [
         "Breyer"
       ],
-      "source_sha256": "6e81fbf092370d1b2f698203fd6bddf96fb67a207b2106007aaf4034c5b6f2a0",
+      "source_sha256": "dc7f8768739e32efb141d4bfd09db66c7a7db71b5a2ada787aa01a58ac482833",
       "author_evidence": [
         "| Opinion of the Court, Part I-A | Breyer | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg: statutory nondeath consequence of actual deadlock; Stone-Zsela agrees with that disposition only |",
         "| Opinion of the Court, Part I-B | Breyer | All eight other Justices: no universal deadlock-instruction formula |",
@@ -1610,7 +1610,7 @@
       "caption": "Maryland v. Dyson",
       "qualifying": false,
       "authors": [],
-      "source_sha256": "88fabc0e8cd4d2c1d85e2abbcce7d4778f781dcb47a3bba836de6b11bf291857",
+      "source_sha256": "c6462ceed17c8fb49307d09b38472193f4ac6b9b8bb4643045d4c55533bf9454",
       "author_evidence": []
     },
     {
@@ -1724,7 +1724,7 @@
       "authors": [
         "Souter"
       ],
-      "source_sha256": "a277b1e7e5f2c5958a6e4a66ac07c9bd7313aa55a621fa7a57c8acb3b119b42f",
+      "source_sha256": "904b9e4dd3a95f843cdec1984c36b7e8a8e4f3d78caf80da6847d4b983934a78",
       "author_evidence": [
         "| Opinion of the Court, Part I — review, distinct proceedings and express statutory authorization | Souter | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; unanimous. |",
         "| Opinion of the Court, Parts II–III — constitutional state-forum rule and reversal/remand | Souter | Stone-Zsela, Stevens, Ginsburg and Breyer; five Justices including the author. |",

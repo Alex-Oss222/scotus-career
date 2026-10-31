@@ -27,10 +27,10 @@ All paths in this table are relative to `terms/OT1995/`. The independent neutral
 | Input | SHA-256 |
 |---|---|
 | `freeze/OT_1995CHUNK9_VIRGINIA_NEUTRAL.md` | `C638C3D7DFEEC371FC6D2235AF79CFFE16FAA99F6A7C3947A5A0F955DC787A7A` |
-| `freeze/OT_1995CHUNK9_VIRGINIA_COMMITMENTS.md` | `89BC6BAAFB8BDA3A5948B9C2AA4BE9CBBF050C35E5DC7D496893E323CA2BE08E` |
-| `entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md` | `DC8F8769E6F9CE5C7DBCF4101DC543CD3DA4D518FA1712D431019354C50A7ED9` |
-| `entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md` | `61F7E7E93072AB33C5C660B90C808CB88BF9B0E193B0A425B0EF14C89B69889F` |
-| `entering-law/OT_1995CHUNK9_VIRGINIA_MODEL_SOURCE_RECEIPT.md` | `4997A49E6D945E656261D148AEA4A418198ED12FC439B5626F2D9DC228D85C49` |
+| `freeze/OT_1995CHUNK9_VIRGINIA_COMMITMENTS.md` | `3AAFDACC9B8D820641BE132DF4AB1249F703AE6D55FC72AA246DE817B805F07C` |
+| `entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md` | `1DF791C8D711FB8E1C86764EFB1AA73125456A33796AD2557A6C1ABDCACC2542` |
+| `entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md` | `FF22F6E487AB522E310FF204EE88DD8C2B814957AD3B43D52F66C1FE6AE643DC` |
+| `entering-law/OT_1995CHUNK9_VIRGINIA_MODEL_SOURCE_RECEIPT.md` | `68B7E910611B304CB63E6F20329196E437A66D2AAFB6B87C17279157EF0FEDDF` |
 | `freeze/OT_1995CHUNK9_VIRGINIA_COMPARATOR_SCOPED.md` | `CCEA50E40EEE1AF5937F5E44C114A67342244DEBFECB3175CC13E206A72AA904` |
 
 The initial authorization permitted extraction of exactly the OT1995-093 heading-bounded block from `runtime/OT_1995CHUNK9_COMPARATOR.md`. A script mechanically loaded that file and returned only that block; no neighboring block or whole-file text entered this context. The subsequent instruction supplied the separate scoped file above, which was then used as the durable comparator input. The earlier extraction is disclosed rather than described as a wholly unopened combined file. No combined brief, current Chief Justice input, private Canonical Decision Record, other Virginia reconciliation, or another context's conclusions was read. The earlier Settle reconciliation was this context's own completed task; its conclusions were not used to predict Virginia. Settle enters here only through the subsequently supplied public neutral projection.

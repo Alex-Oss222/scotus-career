@@ -18,9 +18,9 @@ Signed lead assignments were recounted from zero using actual canonical opinion 
 
 ## Generated handoff and isolated Render
 
-The final [Render Input](../render-inputs/OT_1998CHUNK10.md) contains exactly thirteen generated source-record blocks, in chronological/caption order, and no stopped-matter metadata. Each block is the exact bounded Public Projection from its canonical Record. It is 165,226 bytes; SHA-256 `523cebc9cc891e8de1d5796b226e1255af62fac9de7a53a7e615e5919653614d`.
+The final [Render Input](../render-inputs/OT_1998CHUNK10.md) contains exactly thirteen generated source-record blocks, in chronological/caption order, and no stopped-matter metadata. Each block is the exact bounded Public Projection from its canonical Record. It is 165,226 bytes; SHA-256 `abda2750ce3bfdba94c0e1e87af6b7178ea18f670d1c3ce3799bad6020f75752`.
 
-The isolated [public Render](../output/OT_1998CHUNK10.md) contains all thirteen events, June 14–22, with no Workflow Blockers section. It is 164,920 bytes; SHA-256 `71abd1d56bf907fe3f938662e102f528083e7d95776933457b662f4b6c77b703`. The renderer used only the canonical Render Input, the Render Contract and the three permitted AGENTS presentation sections. It completed one final consistency review against the complete handoff; no additional factual or legal ground was supplied. No Record, brief, research source, runtime handoff, tracker or private approval was read by Render.
+The isolated [public Render](../output/OT_1998CHUNK10.md) contains all thirteen events, June 14–22, with no Workflow Blockers section. It is 164,920 bytes; SHA-256 `dd190b332591f95d9331ed19811f82a6300f5f87a2b164f9097b1b95d10069a8`. The renderer used only the canonical Render Input, the Render Contract and the three permitted AGENTS presentation sections. It completed one final consistency review against the complete handoff; no additional factual or legal ground was supplied. No Record, brief, research source, runtime handoff, tracker or private approval was read by Render.
 
 ## Deterministic checks and source-control limits
 

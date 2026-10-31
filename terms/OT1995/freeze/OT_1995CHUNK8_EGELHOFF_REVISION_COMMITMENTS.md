@@ -45,8 +45,8 @@ The original packet did not certify complete trial-transcript or original-merits
 
 - Validated neutral packet: `b1bf6f9a54256ae65dbd2204b4d39e1020e8e448d0397f697f49bc42a63f1a25`.
 - Original immutable commitments: `1528e3964dc9be2b2dc4440f6c1ef459ea74f3af427cf67c70e09eb6aab92460`.
-- Regenerated whole neutral runtime at review: `e15da6dc0537e5aa99af88ccd1343639ac697eed18e9dd6c8b08a1ab49521567`.
-- Pre-June 13 snapshot: `89b85f0db59850a10cf07d1a777806996c7319f7eae85d6cc45967552cca8951`.
+- Regenerated whole neutral runtime at review: `98391276cbe1585cd3addb108b7b41f7f40c1b1301575234947d7d407cc6e353`.
+- Pre-June 13 snapshot: `5157eff22e740afdb340a9e2dfa7b8463fcce34d526cc030302330fb9d61f186`.
 - Refreshed Egelhoff slice: `7b5f6a88c77b191b08e9ecad611039171f8abf99b343be4e2ff42eba05491b91`.
 
 **Release:** The neutral facts and operative law do not require remodeling. All eight original individual commitments, their analytical qualifications and the common remedy reservations are adopted for separate historical reconciliation. Leavitt is not released by this handoff and remains gated on the actual new June 13 public law.

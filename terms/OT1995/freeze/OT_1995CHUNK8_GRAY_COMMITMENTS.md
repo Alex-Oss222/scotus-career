@@ -108,8 +108,8 @@ These updates leave every provisional judgment position and substantive join bar
 
 | Read artifact | SHA-256 at final gate |
 |---|---|
-| Pre-June17 neutral projection | `889e3af7c5a4c1c2b3e4f7fcf45365e141c2eac033751e6ae13a639ca16a3624` |
-| Pre-June20 neutral projection | `d8e29d76806203afaa56badbe102b2771aafe2fed02c60661b9a7fd95d1f2e65` |
+| Pre-June17 neutral projection | `4691c0a05c1d05ed892ab6edcccc239b01ded741b9ad537d6fc0efe68641c069` |
+| Pre-June20 neutral projection | `1c473bb3aae7b94632b03b971b47c850160c0e86f4ef2d535bf1f43ee10164d6` |
 | Public Rise | `7c24bdca1706ade3ae922f180547a816744442f28b86942fbc0558167789e9ff` |
 | Public Melendez | `3635c0a5d7ac1b5679819e6664cd82ce8745a03751bccf1773b5813a900644a4` |
 | Public Leavitt | `c218b553c04810b58025aff0043606e723ddea6376c768c1717b98572082901a` |

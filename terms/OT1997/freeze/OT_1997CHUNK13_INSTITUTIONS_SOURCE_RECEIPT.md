@@ -26,13 +26,13 @@ Paths are repository-relative. A whole-neutral-projection digest printed inside 
 
 | Path | SHA256 |
 |---|---|
-| `terms/OT1997/runtime/chunk13-neutral/154.md` | `abfa5214049797dabeba75946c09f6ff969f7de0b16d5cef710398e7977f9664` |
+| `terms/OT1997/runtime/chunk13-neutral/154.md` | `1fc630bc2aaf18eea5921176e5189208671d3a1c9d3489693fe4397ba79fb305` |
 | `terms/OT1997/runtime/chunk13-neutral/155.md` | `b4791cbd07654addd391f4abf9a879e9e0b6872e709e9e33578a21602e572edd` |
-| `terms/OT1997/runtime/chunk13-neutral/154_PREPARATION_INSTITUTIONS.md` | `b0de3196d59242bb6945b42645a971c81c3f5294bec64e066bc83dcb0b8938c7` |
+| `terms/OT1997/runtime/chunk13-neutral/154_PREPARATION_INSTITUTIONS.md` | `3aed82173f432115ff49a52a177992616a27cfa48cd1ff7423f05ded3babd1e8` |
 | `terms/OT1997/runtime/chunk13-neutral/155_PREPARATION_INSTITUTIONS.md` | `ff0b4f70ce56e913054225afb8b564bfca3b85eda94cb6a0a20eb4291b304b8c` |
 | `terms/OT1997/runtime/chunk13-neutral/155_STATUTORY_TEXT_INSTITUTIONS.md` | `5324f0901c93f3e6ceecfdf92f579ec3d39f2e93fde0f79d255d4d7b4c6ca163` |
 | `terms/OT1997/runtime/chunk13-neutral/INSTITUTIONS_SEP14_REFRESH.md` | `58d954e60f5d13e1054fa0eae908e61a1732576d673b29efea06cd7099afd4aa` |
-| `terms/OT1997/entering-law/OT_1997CHUNK13_154.md` | `317ddab81b2a2e16b335f345963258584e6e3e56d0ef041f1707c03c484251b7` |
+| `terms/OT1997/entering-law/OT_1997CHUNK13_154.md` | `bda9acd53224434bd25052ece8544879dc1b04c50bc33d0920a2425104d807d9` |
 | `terms/OT1997/entering-law/OT_1997CHUNK13_155.md` | `55866f0d1e2a04a3cf5b1977ea35c8c8d45981cbff7008eaa1a660a92b97f5c7` |
 | `terms/OT1997/entering-law/OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md` | `16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71` |
 | `state/STANDARDS_AND_TESTS.md` | `ef45877d1acf38406cd2013cde32d577214210674f21283b6eb19ed847873235` |

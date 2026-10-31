@@ -569,7 +569,7 @@ Relief remains confined to the three challenged ranks and classifications. No ne
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court, Part I | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Supplies distinct scrutiny standards | All join the standards and rejection of an invariable prior-adjudication or egregious-resistance prerequisite; Scalia reserves the full affirmative scope of permissible racial repair, which the other eight accept in bounded form |
-| Opinion of the Court, Part II | Kennedy | Stone-Zsela, O'Connor, Scalia and Thomas | Affirms racial/ethnic invalidation | Independent racial-evidence and narrow-fit grounds |
+| Opinion of the Court, Part II | Kennedy | Stone-Zsela, O'Connor, Scalia and Thomas | Affirms racial/ethnic invalidation | Independent racial-evidence and fit grounds |
 | Opinion of the Court, Part III | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer | Affirms sex-based invalidation | Inadequate connected sex-specific justification |
 | Concurrence in part and dissent in part | Stevens | Souter, Ginsburg and Breyer | Would remand racial component | Joins standards and sex holding |
 | Concurrence | Scalia | Unjoined | Joins actual rejection | Reserves affirmative-repair reach |
@@ -597,7 +597,7 @@ The DOJ letter identifies serious entry barriers, and the internal ladder provid
 
 Engineering Contractors requires independent assessment of the actual record; its separate four-Justice evidence conclusion did not settle this case. Here the five-Justice coalition finds the combined showing insufficient for the particular preferences. That conclusion does not deny the reality of earlier exclusion, deem all comparisons conclusive, or impose a statistical-only standard. It does not make the absence of a reproduced dataset a failure by the City or resolve a genuine material factual dispute against it. The legal connection required for these actual departures remains inadequately established on the record presented.
 
-##### The racial/ethnic preferences also fail independent narrow fit
+##### The racial/ethnic preferences also fail independent fit
 
 Even assuming an adequate remedial objective, the record does not sufficiently explain why the actual rank departures, beneficiaries and allocation limits repair the identified exclusion. Qualification and score bands, duration and percentage limits do not independently establish the required fit.
 
@@ -609,7 +609,7 @@ A qualified candidate within a score band is eligible, but qualification does no
 
 ##### The sex preferences lack an independently supported actual justification
 
-The identified record does not adequately establish a connected sex-specific remedial justification for the challenged out-of-rank promotions. The sex component is affirmed under demanding intermediate scrutiny, independently of the racial evidence and narrow-fit conclusions.
+The identified record does not adequately establish a connected sex-specific remedial justification for the challenged out-of-rank promotions. The sex component is affirmed under demanding intermediate scrutiny, independently of the racial evidence and fit conclusions.
 
 **Authority:** Kennedy's Part III is joined by all eight other Justices. The Court does not independently decide sex fit after this predicate fails; Stone-Zsela's additional fit position is separate.
 

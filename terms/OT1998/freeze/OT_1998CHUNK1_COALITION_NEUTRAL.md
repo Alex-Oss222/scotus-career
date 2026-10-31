@@ -33,7 +33,7 @@
 
 ### Issue 2: Permissible repair is not compulsory preference
 
-* **Controlling Simulated Law:** Engineering Contractors preserves Croson strict scrutiny for local racial preferences and distinct demanding intermediate scrutiny for sex classifications. Hopwood requires a supported justification and fitted repair; Adarand retains its distinct federal rule.
+* **Controlling Simulated Law:** Engineering Contractors applies Adarand’s common substantial-justification standard, which retains Croson’s evidentiary demands, to local racial preferences and distinct demanding intermediate scrutiny to sex classifications. Hopwood requires a supported justification and fitted repair; Adarand’s standard governs federal, state and local racial classifications alike.
 * **Current Reusable Doctrine:** Some preferences may be invalid and none becomes mandatory merely because it is permitted. But the constitutional validity of an underlying program and the validity of a discriminatory political restructuring are separate issues.
 * **Other Governing Law:** Title VII; United States v. Virginia; Croson.
 

@@ -37,7 +37,7 @@ SHA256 identities of exact local inputs and reconciled output:
 | `research/chunk13-elections/maine_appeal.txt` | `935af8b24c6a025f7821514c0b3ee9ab0059549b1630d5c1e8fd4bc292e069bd` |
 | `research/chunk13-elections/williams.txt` | `da06e00f48fd4c5c9341dcdb9ab2d647d769610317da8aad1e9a299a72fca832` |
 | `entering-law/OT_1997CHUNK13_INSTITUTIONS.md` | `761f2eee442a93674a7687cadf30d289996d3675b9b5eafadb2e72dbc2b8361a` |
-| `entering-law/OT_1997CHUNK13_ELECTIONS.md` | `8a07f5ea3ec8d46c23357d178faa6db869f62bf00aeed84d98c3f0d4c18758fe` |
+| `entering-law/OT_1997CHUNK13_ELECTIONS.md` | `70bec8b52f66cc7853c54615e21c8bf7b432059ad44bd533ccf3de09c0d06cf8` |
 | `entering-law/OT_1997CHUNK13_ELECTIONS_FOCUS.md` | `29f8aa23081ceb4f4b5e9bcbe388bf72f949af379d3f0d93c7562a829ba2eb92` |
 | `entering-law/OT_1997CHUNK13_ELECTIONS_CURRENT.md` | `31a6ced025233ad5e80890927e771e59cc6236af8ebdc234721f449cbe4e9bca` |
 | `freeze/OT_1997CHUNK13_RECONCILED_SEP14_A.md` | `d06613bde811f27b2c4af2a1c00234076ba71bf2f688ec0aa824fc275e223122` |

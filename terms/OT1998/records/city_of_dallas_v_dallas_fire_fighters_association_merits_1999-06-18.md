@@ -17,7 +17,7 @@ The City connects entry exclusion and present disparities through the closed int
 
 The actual earlier public holdings have been examined. West (June 14) supplies coordinated Title VII administrative compensation authority and reserves procedural questions; it decides neither the ungranted Title VII claim here nor constitutional promotion justification. Schleifer (June 15) distinguishes an enacted curfew trigger from a missing enforcement criterion and adopts no universal substantive scrutiny standard; it changes none of Dallas's distinct scrutiny rules. Grupo (June 17) limits general-equity prejudgment security for an unsecured purely monetary private claim, reserving independent remedial sources; it does not govern the existing constitutional relief here. NASA (June 17) separately establishes OIG interview coverage and limited Headquarters compliance; agency membership and retained supervision do not supply the required Dallas remedial-causation or fit findings. Strickler (June 17) applies suppression-specific cause and cumulative phase-specific Brady materiality; it changes no equal-protection burden, promotion evidence or civil remedy. Valdespino (June 17) expressly permits a rigorously proved single-group functional capacity route under Section 2 and preserves independent evidence rulings on bounded remand; it creates no equal-protection preference entitlement, relaxed local racial scrutiny, numerical remediation rule or mandatory evidence reopening. Its actual June 17 date governs despite the stale June 18 reference in Dallas's earlier handoff. None of those actual holdings changes a material frozen Dallas premise. No fresh substantive stage is required; June 18 uncoordinated peers supply no entering law.
 
-**Form before recount:** One signed lead opinion: Part I states the common distinct standards and preserves the bounded repair proposition at its actual join scope; Part II applies independent racial-evidence and narrow-fit grounds; Part III applies the unanimous sex-justification ground. A four-Justice partial dissent seeks racial reconsideration; Scalia preserves his broader affirmative-repair reservation while joining the actual rejection. Stone joins the Court and separately states his additional sex-fit ground. These forms reflect frozen differences, not count manipulation.
+**Form before recount:** One signed lead opinion: Part I states the common distinct standards and preserves the bounded repair proposition at its actual join scope; Part II applies independent racial-evidence and fit grounds; Part III applies the unanimous sex-justification ground. A four-Justice partial dissent seeks racial reconsideration; Scalia preserves his broader affirmative-repair reservation while joining the actual rejection. Stone joins the Court and separately states his additional sex-fit ground. These forms reflect frozen differences, not count manipulation.
 
 **Counted lead opinion:** Yes. One signed lead opinion after plenary merits review, delivered throughout by Kennedy.
 
@@ -104,7 +104,7 @@ The existing relief remains confined to the three challenged ranks and classific
 | Writing | Author | Joins and scope |
 |---|---|---|
 | Opinion of the Court, Part I | Kennedy | All eight other Justices join the separate scrutiny standards and rejection of an invariable prior-adjudication or egregious-resistance prerequisite. Scalia reserves the full affirmative scope of permissible racial repair; the other eight accept that bounded proposition. |
-| Opinion of the Court, Part II | Kennedy | Stone-Zsela, O'Connor, Scalia and Thomas; independent racial-evidence and narrow-fit grounds |
+| Opinion of the Court, Part II | Kennedy | Stone-Zsela, O'Connor, Scalia and Thomas; independent racial-evidence and fit grounds |
 | Opinion of the Court, Part III | Kennedy | All eight other Justices; inadequate connected sex-specific justification |
 | Concurrence in part and dissent in part | Stevens | Souter, Ginsburg, Breyer; joins standards and sex holding, would remand racial component |
 | Concurrence | Scalia | Unjoined; affirmative-repair reservation, with actual rejection joined |
@@ -132,7 +132,7 @@ The DOJ letter identifies serious entry barriers, and the internal ladder provid
 
 Engineering Contractors requires independent assessment of the actual record; its separate four-Justice evidence conclusion did not settle this case. Here the five-Justice coalition finds the combined showing insufficient for the particular preferences. That conclusion does not deny the reality of earlier exclusion, deem all comparisons conclusive, or impose a statistical-only standard. It does not make the absence of a reproduced dataset a failure by the City or resolve a genuine material factual dispute against it. The legal connection required for these actual departures remains inadequately established on the record presented.
 
-### The racial/ethnic preferences also fail independent narrow fit
+### The racial/ethnic preferences also fail independent fit
 
 Even assuming an adequate remedial objective, the record does not sufficiently explain why the actual rank departures, beneficiaries and allocation limits repair the identified exclusion. Qualification and score bands, duration and percentage limits do not independently establish the required fit.
 
@@ -144,7 +144,7 @@ A qualified candidate within a score band is eligible, but qualification does no
 
 ### The sex preferences lack an independently supported actual justification
 
-The identified record does not adequately establish a connected sex-specific remedial justification for the challenged out-of-rank promotions. The sex component is affirmed under demanding intermediate scrutiny, independently of the racial evidence and narrow-fit conclusions.
+The identified record does not adequately establish a connected sex-specific remedial justification for the challenged out-of-rank promotions. The sex component is affirmed under demanding intermediate scrutiny, independently of the racial evidence and fit conclusions.
 
 **Authority:** Kennedy's Part III is joined by all eight other Justices. The Court does not independently decide sex fit after this predicate fails; Stone-Zsela's additional fit position is separate.
 

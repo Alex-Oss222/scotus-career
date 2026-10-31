@@ -8,8 +8,8 @@
 ## Inputs and source boundary
 
 - Frozen packet: `OT_1995CHUNK9_VIRGINIA_NEUTRAL.md`, SHA256 `C638C3D7DFEEC371FC6D2235AF79CFFE16FAA99F6A7C3947A5A0F955DC787A7A`.
-- Common law snapshot: `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`, SHA256 `DC8F8769E6F9CE5C7DBCF4101DC543CD3DA4D518FA1712D431019354C50A7ED9`.
-- Opening slice: `../entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md`, SHA256 `61F7E7E93072AB33C5C660B90C808CB88BF9B0E193B0A425B0EF14C89B69889F`.
+- Common law snapshot: `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`, SHA256 `1DF791C8D711FB8E1C86764EFB1AA73125456A33796AD2557A6C1ABDCACC2542`.
+- Opening slice: `../entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md`, SHA256 `FF22F6E487AB522E310FF204EE88DD8C2B814957AD3B43D52F66C1FE6AE643DC`.
 - Exact source and reading-scope receipt: `../entering-law/OT_1995CHUNK9_VIRGINIA_MODEL_SOURCE_RECEIPT.md`. The separately screened original lower opinions, the Virginia portion of the clean objective addendum, primary Hogan/Craig/Sweatt, and the actual earlier simulated public writings described there supply the sources.
 
 The Virginia context has received no current Stone material, Virginia comparator, same-case Supreme Court opinion or outcome, or private Canonical Decision Record. Prior published simulated positions are eligible inputs and are not current private positions. A lower dissent's reference to seeking Supreme Court review supplies filing history only. No historical disposition is inferred. Original-source reading is bounded as stated in the receipt; no claim is made that every original district page, petition, brief, or appendix was independently read.

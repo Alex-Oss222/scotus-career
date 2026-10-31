@@ -10,9 +10,9 @@ This assembly context had earlier performed mechanical tooling/preservation and 
 |---|---|
 | Revised validated neutral | `ae5d66fd1023aee45cb4e46e3bd21c41e840747d61d6d8c9eb34b66671055d8e` |
 | Revised independent commitments | `1921b268e51239be7e2bc8b11cdc54e01cd08ca75c76a5421b57b311c490ee6a` |
-| Revised reconciliation | `121c583606a2a9070f77a12d9fa1706ab90ef97845a23e2eb4935e1353030231` |
+| Revised reconciliation | `05986acebafeb2b5125d3c94c9973c2e7023a0df74152c7bbd0b1cba27bde300` |
 | Approved Stone runtime | `7abdad7ef9fc735a4ad4b5adb954b8e9a1a80612faf44c02e0219fd9e89e2751` |
-| Replacement canonical Record | `ad84885fc495f2f009308d04e57df1982ba8687de7d96f6d994b10a322fe4f6f` |
+| Replacement canonical Record | `6764b09c9ad1e588d2a6615cab1035e959abac812a8527a0060c6e33b2b330c7` |
 
 The original canonical filename was removed only after resolving its exact parent to this term's `records/`, checking its exact basename, confirming the new Record existed, and matching its bytes to the initial preservation inventory's SHA-256. No recursive deletion or Record alias was used. Root had already reported copying the original under `tmp/chunk8_revision_before`; the initial preservation inventory records its byte identity. Repository history is operator-reported and was not independently verified. The new Record's lineage names the superseded filename and user-supplied Run identifier truthfully.
 

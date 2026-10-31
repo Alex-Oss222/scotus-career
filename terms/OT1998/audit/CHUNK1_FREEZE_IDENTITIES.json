@@ -3,7 +3,7 @@
     "case": "Wright",
     "stage": "COMMITMENTS",
     "source": "WRIGHT_COMMITMENTS.md",
-    "sha256": "c0e8fb8026de249f9df41856149abdd5410cb15e3247dc04f9f4b6d037a2acbe"
+    "sha256": "0f711d09145d760cf6289679e820375383204118fae0fd01335c8eda34ca9d58"
   },
   {
     "case": "Fraternal Order of Police",
@@ -57,7 +57,7 @@
     "case": "Coalition",
     "stage": "COMMITMENTS",
     "source": "OT_1998CHUNK1_COALITION_COMMITMENTS.md",
-    "sha256": "5c1ea64181c8d489a6ed29778dde711681753c64cae02ad2fe79720007980586"
+    "sha256": "0061e7a0b461dc6428a679ecdfc43a3cd7e058a52396554c0fbd10b0e4ca2e87"
   },
   {
     "case": "Pfaff",
@@ -75,7 +75,7 @@
     "case": "Wright",
     "stage": "RECONCILED",
     "source": "WRIGHT_RECONCILED.md",
-    "sha256": "d50f240d4bcc2bd96d1c447495d440b83afe932e6006315e6c65041db9371882"
+    "sha256": "b91fa94a60a3e06e7fa5dc54d32ff02c18e822a5d251e277072df55fa918751c"
   },
   {
     "case": "Fraternal Order of Police",
@@ -129,7 +129,7 @@
     "case": "Coalition",
     "stage": "RECONCILED",
     "source": "OT_1998CHUNK1_COALITION_RECONCILED.md",
-    "sha256": "d2c87739b4c4a0e334783779cc479b7340c4cb10342c9bbdb04ebc3d7a6aa4c7"
+    "sha256": "a5e9c03099c1fc98fcd08a6ca5cb4f2dde08528475f01dba5bf35fc0784f21f7"
   },
   {
     "case": "Pfaff",

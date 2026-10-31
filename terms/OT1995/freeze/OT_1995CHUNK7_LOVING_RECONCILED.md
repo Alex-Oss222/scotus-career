@@ -10,8 +10,8 @@ The [independent commitments](OT_1995CHUNK7_LOVING_COMMITMENTS.md), frozen at `1
 
 | Other frozen input | Commit | SHA-256 |
 |---|---|---|
-| [Final Loving neutral](OT_1995CHUNK7_LOVING_NEUTRAL_VALIDATED.md) | `18c4969` | `4caaa82040e42394918fd22542d0f5e4ebe85f3c8de9b49b824da365663addca` |
-| [Common completed-May 28 public law](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md) | `7ee25af` | `cd850ccad125c1d5c811ca8066961f2b3a3d8b2fe57771ab10554f2862670148` |
+| [Final Loving neutral](OT_1995CHUNK7_LOVING_NEUTRAL_VALIDATED.md) | `18c4969` | `d3ffaec40a4d508d6e95eb9f30f3f2b7869925ad7987382ff1fabd12c3cccc61` |
+| [Common completed-May 28 public law](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md) | `7ee25af` | `3563d4b050c94fbd263660b192466b7b7703c14af2169f92674e6685b783a739` |
 | [Capital-law supplement](../entering-law/OT_1995CHUNK7_LOVING_CAPITAL_SUPPLEMENT.md) | `18c4969` | `37cd0175ee01c7f3dbfccd6f09d6031a81d5c5a041427e134630b6c6bb12dd3b` |
 | [Loving comparator receipt](../sources/chunk7_comparators/LOVING_AUCIELLO_VERIFIED.md) | `8f13c23` | `daa22c1efcc176b2392c13506db58aea53bbfaf6e7aad9e2e0cc25943ba248ec` |
 | [Complete comparator verification](OT_1995CHUNK7_COMPARATOR_VERIFICATION.md) | `8f13c23` | `1413925319ab6461e4e1545b50a65dc57a6b6cdf57630033c0c29ed1fd852a33` |

@@ -131,4 +131,4 @@ The claim chart covers all 17 numbered claims and separates claim 4's death-only
 ### Final refresh source identities
 
 * Preserved provisional freeze SHA-256: `53396b749e3b74da1cdaeee18a1bf7dba35f849dcd0cc7e230c606cdbdc7a05c`.
-* `terms/OT1997/entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md` SHA-256: `30b72a3f47a0af82ad4b25893e3fa5291bef93588500d75e6a5dbde8b798a357`.
+* `terms/OT1997/entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md` SHA-256: `3152168622ac4f2d79bafd3d7ccd9e410e0f39bf04fd673ce1954e7248dc9184`.

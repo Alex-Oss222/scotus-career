@@ -5934,7 +5934,7 @@ For the other questions in this decision, see Criminal Procedure — False state
 **Docket or dockets:** No. 93-1841.
 **Decided:** June 12, 1995.
 
-For the other questions in Adarand Constructors, Inc. v. Peña, decided June 12, 1995, No. 93-1841. see Civil Rights — Governmental racial classifications (The common substantial-justification standard).
+For the other questions in Adarand Constructors, Inc. v. Peña, decided June 12, 1995, No. 93-1841. see Civil Rights — Governmental racial classifications (The common substantial-justification standard; Vacatur and bounded remand under the common standard).
 
 ##### Equal competitive opportunity and prospective standing
 
@@ -23873,9 +23873,13 @@ For the other questions in Adarand Constructors, Inc. v. Peña, decided June 12,
 
 ##### The common substantial-justification standard
 
-**Holding:** When government changes an individual's competitive opportunity through a racial classification, government must establish an important objective within its lawful authority and a substantial, evidence-supported relationship between the racial treatment and that objective. Government must justify the measure's coverage and the actual burdens it imposes, including its response to concrete, practicable alternatives that would comparably advance the objective with materially less racial disadvantage. This standard governs federal, state and local government alike. A corrective purpose alone does not make a program valid. Metro Broadcasting's lower federal tier is overruled, and Croson's categorical strict-scrutiny formulation is displaced while its demand for relevant evidence is retained. The Tenth Circuit's judgment is vacated and the case is remanded to apply the common standard to the actual program and preserved challenge, without deciding every certification route or conferring a general exemption on measures called benign.
+**Holding:** When government changes an individual's competitive opportunity through a racial classification, government must establish an important objective within its lawful authority and a substantial, evidence-supported relationship between the racial treatment and that objective. Government must justify the measure's coverage and the actual burdens it imposes, including its response to concrete, practicable alternatives that would comparably advance the objective with materially less racial disadvantage. Unsupported assertion, administrative convenience alone, or an inclusive label does not satisfy that burden. Racial hierarchy, stereotypes, hostility, political favoritism, and racial allocation for its own sake are impermissible objectives.
 
-**Proposition-level authority:** Chief Justice Stone-Zsela's opinion of the Court, joined in full by Justices Stevens, Souter, Ginsburg and Breyer; these five adopt the complete common standard and its operative qualifications. All nine Justices support vacatur and remand; O'Connor, Scalia, Kennedy and Thomas concur in the judgment on strict-scrutiny grounds and do not join that standard.
+Supported correction of discrimination and exclusion, prevention of their recurrence, and supported efforts to overcome continuing barriers to meaningful market participation are permissible objectives. An adjudicated violation by every implementing office, proof that each beneficiary personally suffered discrimination, and a prior judgment against each private contractor are not universal prerequisites. The government must identify the relevant barrier or condition and explain why the racial measure substantially addresses it. This is constitutional permission within lawful governmental authority, not a constitutional command to adopt preferences or a freestanding power to regulate every private inequality.
+
+This standard governs federal, state and local government alike. A corrective purpose alone does not make a program valid. Metro Broadcasting's lower federal tier is overruled, and Croson's categorical strict-scrutiny formulation is displaced while its demand for relevant evidence is retained.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's opinion of the Court, joined in full by Justices Stevens, Souter, Ginsburg and Breyer; these five adopt the complete common standard and its operative qualifications. O'Connor, Scalia, Kennedy and Thomas concur in the judgment on strict-scrutiny grounds and do not join that standard.
 
 **Limits and questions not reached:** The optional incentive differs from STURAA's expenditure command and a mandatory subcontracting duty. The Court preserves Fullilove's supported fractured judgment, Wygant and Paradise, without a general benign-purpose exemption, unconditional concessions, a finding of Gonzales's certification route, or approval of all future applications. The distinct certification and payment limits below remain; conflicting section 8(d) regulations are unresolved.
 
@@ -23890,8 +23894,22 @@ SBA §8(a) presumes social disadvantage but requires individual proof of economi
 - City of Richmond v. J. A. Croson Co., 488 U.S. 469 (1989): displaces its categorical strict-scrutiny formulation with the common standard while retaining its demand for relevant evidence.
 - Wygant v. Jackson Board of Education, 476 U.S. 267 (1986): retains attention to the actual burdens imposed by racial treatment.
 - United States v. Paradise, 480 U.S. 149 (1987): retains attention to flexibility and fit.
+- Shaw v. Reno (June 28, 1993): leaves its rejection of the design-only districting claim untouched; the Voting Rights Act's statutory elements also remain unchanged.
 
-**Operative remedy or transition:** Vacate the Tenth Circuit judgment and remand, 9–0, for application of the common standard. No program redesign, injunction, damages or award of a subcontract is ordered.
+##### Vacatur and bounded remand under the common standard
+
+**Holding:** The Tenth Circuit's judgment is vacated and the case is remanded to apply the common standard to the actual program and preserved challenge, respecting concessions and supported findings in their actual scope and allowing further proceedings only as needed under ordinary procedural rules. Vacatur neither holds the arrangement unconstitutional nor directs any injunction; interim or final relief requires its own legal and equitable basis.
+
+**Proposition-level authority:** All nine Justices support vacatur and remand. The Court's five-Justice coalition adopts the common-standard directions; O'Connor, Scalia, Kennedy and Thomas concur in the judgment on strict-scrutiny grounds and do not join that standard.
+
+**Material application:** The lower judgment, which applied the inherited federal framework, cannot settle the preserved challenge under the common standard without examining the arrangement's operation. Gonzales's certification route is unknown, and the overlapping rules' treatment of economic disadvantage remains unresolved; neither establishes an irrebuttable presumption or a lack of congressional evidence. The Tenth Circuit's recorded stipulation that section 502 satisfied Fullilove's evidentiary requirements and the concession that the agency stayed within delegated authority keep their ordinary force in their actual scope. Courts must neither fabricate an unconditional waiver nor treat the change of standard as erasing evidence or supported findings, and a stipulation under the inherited rule does not necessarily resolve every question under the common standard. Further proceedings require identification of a genuinely unresolved material issue and an explanation of why the existing record, findings or concessions do not resolve it. Existing records may suffice.
+
+**Treatment of earlier authority:**
+
+- Fullilove v. Klutznick: preserves the actual scope of the section 502 evidentiary stipulation without treating it as resolution of every question under the common standard.
+- Metro Broadcasting, Inc. v. FCC: its federal tier no longer supplies the rule for final judgment; application of the common standard remains necessary.
+
+**Operative remedy or transition:** Vacate the Tenth Circuit judgment and remand, 9–0, for application of the common standard. The remand directions require the court to identify the actual program and preserved challenge; assess the supported objective and the evidence connecting the measure's beneficiaries, categories and scope to it; examine presumptions, certification routes and review in operation; examine burdens and concrete, practicable alternatives; and examine continued justification. If government cannot establish the required objective, substantial relationship or justification for the burden, the challenged racial treatment fails, and relief addresses the invalid provision or application under ordinary remedial and severability rules. No single disparity ratio, regression method, commissioned study, least-restrictive-means formula, mandatory consultation procedure or permanent judicial monitoring system is constitutionalized. No program redesign, injunction, damages or award of a subcontract is ordered.
 
 ### Qualified immunity and motive evidence
 
@@ -26085,13 +26103,13 @@ For the other questions decided in this same case, docket and date, see Criminal
 
 **Proposition-level authority:** Opinion of the Court (O'Connor). All nine accept the stated intermediate standard. Part IV's application and affirmance have five direct votes: Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas. Stevens, Souter, Ginsburg and Breyer would vacate and remand for a different independent assessment of the combined record.
 
-**Material application:** Kelley v. Board of Trustees, Klinger v. Department of Corrections and United States v. Virginia require actual important purposes and a substantial relationship, without importing racial strict scrutiny or least restrictive means. The Court independently examines the constitutional sufficiency of the evidence while retaining subsidiary findings not shown clearly erroneous. Firm-size adjustments largely explain award-dollar differences; the surviving WBE SIC 15 disparity, women's entry disparity and accounts of refusing to deal with female owners matter but do not adequately justify this program's allocation across all three construction sectors. The subcontract denominator and broader marketplace pool do not reliably identify the relevant procurement comparison. The conclusion does not rest merely on calling the trial judge's ultimate constitutional view permissible. Nor does it impose a numerical minimum or rule out sufficient nonstatistical proof. The court of appeals rejected strict racial tailoring for WBE and found its flexibility capable of satisfying substantial relationship if the evidentiary predicate existed. The present failure is that predicate, not the racial alternatives defect, an excessive 11 percent goal, or an obligation to exhaust neutral measures. A later supported and differently designed women's program is not decided.
+**Material application:** Kelley v. Board of Trustees, Klinger v. Department of Corrections and United States v. Virginia require actual important purposes and a substantial relationship, without importing the racial-classification standard or least restrictive means. The Court independently examines the constitutional sufficiency of the evidence while retaining subsidiary findings not shown clearly erroneous. Firm-size adjustments largely explain award-dollar differences; the surviving WBE SIC 15 disparity, women's entry disparity and accounts of refusing to deal with female owners matter but do not adequately justify this program's allocation across all three construction sectors. The subcontract denominator and broader marketplace pool do not reliably identify the relevant procurement comparison. The conclusion does not rest merely on calling the trial judge's ultimate constitutional view permissible. Nor does it impose a numerical minimum or rule out sufficient nonstatistical proof. The court of appeals rejected strict racial tailoring for WBE and found its flexibility capable of satisfying substantial relationship if the evidentiary predicate existed. The present failure is that predicate, not the racial alternatives defect, an excessive 11 percent goal, or an obligation to exhaust neutral measures. A later supported and differently designed women's program is not decided.
 
 **Treatment of earlier authority:**
 
 - Kelley retains demanding intermediate scrutiny and rejects stereotyped or merely numerical justification; it supplies no strict-scrutiny or statistical-only prerequisite.
 - Klinger retains that distinct intermediate standard and actual-justification requirement, without a statistical-only prerequisite.
-- Virginia retains demanding intermediate scrutiny and rejection of stereotyped justification, without importing racial strict scrutiny or least restrictive means.
+- Virginia retains demanding intermediate scrutiny and rejection of stereotyped justification, without importing the racial-classification standard or least restrictive means.
 
 ##### The existing injunctions remain confined to these programs
 
@@ -26502,7 +26520,7 @@ For the other questions in Cedar Rapids Community School District v. Garret F., 
 
 **Proposition-level authority:** Kennedy's Part II is joined by Stone-Zsela, O'Connor, Scalia and Thomas; five Justices adopt this application and the independent fit ground below.
 
-##### The racial/ethnic preferences also fail independent narrow fit
+##### The racial/ethnic preferences also fail independent fit
 
 **Independent alternative holding:** Even assuming an adequate remedial objective, the record does not sufficiently explain why the actual rank departures, beneficiaries and allocation limits repair the identified exclusion. Qualification and score bands, duration and percentage limits do not independently establish the required fit.
 
@@ -26510,7 +26528,7 @@ For the other questions in Cedar Rapids Community School District v. Garret F., 
 
 ##### The sex preferences lack an independently supported actual justification
 
-**Holding:** The identified record does not adequately establish a connected sex-specific remedial justification for the challenged out-of-rank promotions. The sex component is affirmed under demanding intermediate scrutiny, independently of the racial evidence and narrow-fit conclusions.
+**Holding:** The identified record does not adequately establish a connected sex-specific remedial justification for the challenged out-of-rank promotions. The sex component is affirmed under demanding intermediate scrutiny, independently of the racial evidence and fit conclusions.
 
 **Proposition-level authority:** Kennedy's Part III is joined by all eight other Justices. The Court does not independently decide sex fit after this predicate fails; Stone-Zsela's additional fit position is separate.
 
@@ -31039,7 +31057,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 **Limits and questions not reached:** Actual exclusion, intentional dilution, materially unequal participation, inferior civic status or another recognized deprivation may be complete in governmental conduct without a second act, monetary loss or changed election winner. None supplies an independent basis for this decree. Shape remains evidence, not an automatic wrong; formal access is not a complete equality guarantee. Lawful voluntary consideration of racial conditions needs no exact federal map command. Sections 2 and 5 retain separate coverage, proof, comparison, totality and enforcement requirements without a new constitutional-injury prerequisite, maximization duty, proportional-results entitlement or conclusive proportionality safe harbor.
 
-**Treatment of earlier authority:** Shaw's territorial-design boundary, Miller's predominance application and SCLC's statutory/remedial distinctions are applied unchanged. Croson and Adarand retain their opportunity-allocation rules. Gomillion protects against exclusion accomplished by boundaries; Anderson, White and McLaurin protect operative equality beyond a changed winner or formal access. Voinovich preserves permission versus federal compulsion. Gingles, Growe, Holder and De Grandy retain claim-specific statutory requirements; Beer, Pleasant Grove, Morris and Morse retain distinct nonretrogression, purpose, preclearance and review rules.
+**Treatment of earlier authority:** Shaw's territorial-design boundary, Miller's predominance application and SCLC's statutory/remedial distinctions are applied unchanged. Adarand's common opportunity-allocation standard, which retains Croson's evidentiary demands, remains intact. Gomillion protects against exclusion accomplished by boundaries; Anderson, White and McLaurin protect operative equality beyond a changed winner or formal access. Voinovich preserves permission versus federal compulsion. Gingles, Growe, Holder and De Grandy retain claim-specific statutory requirements; Beer, Pleasant Grove, Morris and Morse retain distinct nonretrogression, purpose, preclearance and review rules.
 
 ##### What relief survives failure of the sole adjudicated design-only claim?
 

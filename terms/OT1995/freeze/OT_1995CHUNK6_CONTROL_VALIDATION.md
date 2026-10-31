@@ -10,7 +10,7 @@ AGENTS.md and Engine §§1–8, 14–15 govern this review. All nine Justices ar
 
 Source hashes before assembly:
 
-- `terms/OT1995/briefs/OT_1995CHUNK6.md`: `3ec4313814607456370b9e5e855fd7e8359a79261be81dd28f117598561e9605`
+- `terms/OT1995/briefs/OT_1995CHUNK6.md`: `2238978eaaa8068dcae7caebbb6dc529f360bcae91482ea9d9a2e02a25ae6177`
 - `terms/OT1995/runtime/OT_1995CHUNK6_STONE.md`: `7ae1cd931eca45eec69200c9697bbd88e8d8665758e9441748c0a3225b0355ef`
 - `terms/OT1995/runtime/OT_1995CHUNK6_COMPARATOR.md`: `660a81595cb22558217a3514e17024ea59abfdca85e2f7d9cd38bbc09907e373`
 

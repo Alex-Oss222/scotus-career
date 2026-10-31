@@ -16,7 +16,7 @@ All three bounded public handoffs have now been reviewed. No raw Records were op
 
 ## Miller
 
-Reviewed `OT_1994CHUNK9_MILLER_PUBLIC.md`, SHA256 `C427FCB6218C629F1726AA11C91B98866AB5B0CDAD14C9A317B8F4386D948C8D`.
+Reviewed `OT_1994CHUNK9_MILLER_PUBLIC.md`, SHA256 `7750040BD4989BD16EABD6A289F37731B82A708E0FBA0AC21A0833FE37BB2C9D`.
 
 **Concrete overstatement of the conditional lower finding:** Part VI's summary says that the accepted lower-court conclusion is that the district “was not reasonably necessary to fulfill section 5’s substantive obligation.” The reconstructed judgment supplies two more limited propositions: section 5 did not require this particular district, and reliance on DOJ's demands did not establish that the chosen district was reasonably necessary to satisfy the substantive obligation. Failure to establish reasonable necessity should not become an affirmative factual finding of unnecessary means. Replace that clause with the two admitted propositions, retaining the expressly conditional status and failed-fit conclusion. This correction does not change the conditional answer, votes or mandate.
 
@@ -29,7 +29,7 @@ All six questions are otherwise expressly answered. The nine-Justice threshold/c
 Reviewed the differences between each preserved initial public handoff and its separately released final copy.
 
 - `OT_1994CHUNK9_PINETTE_PUBLIC_FINAL.md`, SHA256 `18A4BFE90972758C553B4D2D133399D9D6ACD084900A75D4A74E91F201651D6E`: the lower-court citation now correctly reads *Pinette v. Capitol Square Review and Advisory Board*. Apart from the handoff title, this is the sole changed public passage. Pinette's reported issue is resolved.
-- `OT_1994CHUNK9_MILLER_PUBLIC_FINAL.md`, SHA256 `372F9B0426104675193CC449FA0CBCBF683E8A8E778484322BE6CFCF2F794807`: Part VI now states section 5's lack of a command for this particular district and the State's failure to establish reasonable necessity through DOJ demands, without an affirmative finding of unnecessary means. Holding 5, its precedent treatment and Part VI now distinguish section 14(b)'s channel from Morris's review restriction. Both reported issues are resolved. The final caption *Johnson v. Miller* accurately identifies the losing challengers' review posture while retaining the existing docket identifiers; no new docket, date or claim is added. All six answers, counts and remedy remain unchanged.
+- `OT_1994CHUNK9_MILLER_PUBLIC_FINAL.md`, SHA256 `8DB4B6AC451D4E859E747E0284B16DA7C42C77B5210591E2EED8A98982DB9624`: Part VI now states section 5's lack of a command for this particular district and the State's failure to establish reasonable necessity through DOJ demands, without an affirmative finding of unnecessary means. Holding 5, its precedent treatment and Part VI now distinguish section 14(b)'s channel from Morris's review restriction. Both reported issues are resolved. The final caption *Johnson v. Miller* accurately identifies the losing challengers' review posture while retaining the existing docket identifiers; no new docket, date or claim is added. All six answers, counts and remedy remain unchanged.
 
 ## Chabad
 

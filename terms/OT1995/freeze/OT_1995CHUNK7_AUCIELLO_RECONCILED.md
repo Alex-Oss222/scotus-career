@@ -10,8 +10,8 @@ The entire independent analysis in [the commitments](OT_1995CHUNK7_AUCIELLO_COMM
 
 | Input | Immutable version and SHA-256 |
 |---|---|
-| [Final validated neutral packet](OT_1995CHUNK7_AUCIELLO_NEUTRAL_VALIDATED.md) | `18c4969a08680a582104fa112823207f8af2574d`; `fe498428d8df917d6170a2453ab1899ec04e8e27a3aa6f47ba0d58fd69cf0a95` |
-| [Common completed-May28 public law](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md) | `7ee25afc82d03b8096cffe425c410290badcab83`; `cd850ccad125c1d5c811ca8066961f2b3a3d8b2fe57771ab10554f2862670148` |
+| [Final validated neutral packet](OT_1995CHUNK7_AUCIELLO_NEUTRAL_VALIDATED.md) | `18c4969a08680a582104fa112823207f8af2574d`; `ebfe7fbb4ea752d76769582256332613c8e9993fdff124a87e58283dd3d04b03` |
+| [Common completed-May28 public law](../entering-law/OT_1995CHUNK7_POST_MAY28_NEUTRAL_PROJECTION.md) | `7ee25afc82d03b8096cffe425c410290badcab83`; `3563d4b050c94fbd263660b192466b7b7703c14af2169f92674e6685b783a739` |
 | [Complete bounded presumption extract](../sources/chunk7_b/AUCIELLO_PRESUMPTION_SAFE_EXTRACT.md) | `ea321a0`; `f49c8b5579b3df41007e110f98b5d0afefa364f4480873c58e938ec050a98636` |
 | [Verified historical comparison receipt](../sources/chunk7_comparators/LOVING_AUCIELLO_VERIFIED.md), Auciello section | `8f13c23`; `daa22c1efcc176b2392c13506db58aea53bbfaf6e7aad9e2e0cc25943ba248ec` |
 | [Official historical Auciello opinion text](../sources/chunk7_comparators/USREPORTS-517-781.txt) | `8f13c23`; `564e37df1d1fffbc9e141d3335ae17070f60cec102ea2739a92ff8f6bbae36e4` |

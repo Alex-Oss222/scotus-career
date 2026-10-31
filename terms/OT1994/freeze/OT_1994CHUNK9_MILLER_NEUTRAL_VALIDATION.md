@@ -2,11 +2,11 @@
 
 Packet: `OT_1994CHUNK9_MILLER_NEUTRAL.md`.
 
-SHA256: `73d344710634c53359c9db1f98088700d0fe5fe0f849d9b90057e2106fa73da7`.
+SHA256: `5379403e5ad0ac4f7b3caffcaab67343ae0fa563923e10d44f83d0384fb44e26`.
 
 Entering-law copy: `../entering-law/OT_1994CHUNK9_MILLER.md`.
 
-SHA256: `250eebc051cfc7948e65ccd85c19c1e2bb2b02ef3d50ddd84c49176540683de3`.
+SHA256: `79a0566b55d26a4d1715ec6bf25df9609ee176e588c23d9da16e74bee4670618`.
 
 The original Section I is preserved as an exact substring and all six numbered questions remain. Added independently validated objective facts and their compatibility limits, including four Eleventh-District resident eligible voters and DeLoach's corrected Tenth-District residence, actual panel designation, notice/service chronology, hearings and trial. No historical merits or standing conclusion is adopted; no separate campaign injury is added. Notice mailing returns are not falsely certified. Article III, substantiality, and any consequence of an actual notice defect remain legal inquiries for independent modeling.
 

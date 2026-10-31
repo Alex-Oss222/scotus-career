@@ -225,9 +225,9 @@ The historical certiorari action supplies no merits holding or inferable non-Sto
 ## Inputs, clean return and source boundary
 
 - [Frozen neutral](OT_1995CHUNK9_GASPERINI_NEUTRAL.md), SHA-256 `c25326a512ce041ae7a9bdf8d72825dc4509846f9b5f78ac826377f32091f9e9`.
-- [Original independent commitments](OT_1995CHUNK9_GASPERINI_COMMITMENTS.md), SHA-256 `084b01eb804f63ec28e80a115130be972b91f12a2de6cedbf454a67ec033751a`.
+- [Original independent commitments](OT_1995CHUNK9_GASPERINI_COMMITMENTS.md), SHA-256 `95e1a6e8c999d4d632cbc13fc01e94943eef314040dc3815787693af96139caf`.
 - [Neutral state-law return](OT_1995CHUNK9_GASPERINI_NEUTRAL_RETURN.md), SHA-256 `7001bfcc5fbe4aa471a4b31e777a71e53953ee697377bec1a3b2e9aa26961c5e`.
-- [Independent commitments supplement](OT_1995CHUNK9_GASPERINI_COMMITMENTS_SUPPLEMENT.md), SHA-256 `9766e66386af25f40a422fca97e406ddc794242d36cd4b7add94f71b0683421a`. It confirms the original dispositions after clean reconsideration and corrects any exclusively-appellate description of the state's rule.
+- [Independent commitments supplement](OT_1995CHUNK9_GASPERINI_COMMITMENTS_SUPPLEMENT.md), SHA-256 `3fdb6569ebddd18d91624203d2d95ff30a53daccd60cb922fc6b8c9366d3dd50`. It confirms the original dispositions after clean reconsideration and corrects any exclusively-appellate description of the state's rule.
 
 Reconciliation identified a material omitted neutral premise: published New York decisions apply §5501(c)'s material-deviation measure at trial as well as on appeal. That premise was not inserted into a commitment here. Complete primary state opinions were supplied in the neutral-only return to a separate Gasperini modeling context, which read them and froze the independent supplement before this reconciliation was completed. The original freeze was not overwritten. No other newly material neutral fact or ground remains unresolved.
 
@@ -484,7 +484,7 @@ The research cutoff for adjudication is June 24, 1996, using the common pre-June
 ## Frozen inputs and boundary
 
 - [Neutral packet](OT_1995CHUNK9_LEWIS_US_NEUTRAL.md), SHA-256 `e3518f8df86277ae61296d7535585e87227d92ae48bc81fd5c67d324301a02c0`.
-- [Independent commitments](OT_1995CHUNK9_LEWIS_US_COMMITMENTS.md), SHA-256 `5791421e8d0ac5704059db7482111b297b2d0a35ddc5c9449107f68ce7a05c8d`.
+- [Independent commitments](OT_1995CHUNK9_LEWIS_US_COMMITMENTS.md), SHA-256 `52d514dc8551ba5b9f225800ee6ccf1341d6b3635f45c90f1b0e1d325326cb6b`.
 - Relevant Lewis block, OT1995-089, of the historical comparator; complete lower judgment; relevant actual Nachtigal, Bagwell and Gaudin entries in the [criminal-law slice](../entering-law/OT_1995CHUNK9_JUNE24_CRIMINAL_LAW.md). The frozen independent analysis identifies the final pre-June-24 projection and the limited relevance of actual Markman, Rutledge and the June 20/21 decisions. None establishes a new statutory aggregation or sentencing-cap rule.
 
 No combined brief, current Stone handoff, private Decision Record or prohibited directory was opened. Earlier incidental exposure to the two family comparator blocks was disclosed during the first three reconciliations; it supplies no premise here. This context is a reconciliation context, not a representation of comparator-blind independent modeling.
@@ -552,7 +552,7 @@ The complete independent handoff was read and its SHA256 verified before the sco
 - `OT_1995CHUNK9_MEDTRONIC_COMMITMENTS.md`: `8718FF0E7D23A02E801EE234BD93C13ECF04934137F34F3107BB5803670DFE09`.
 - `OT_1995CHUNK9_MEDTRONIC_NEUTRAL.md`: `0C1761F5DA3B779566CC7E4355D2561BB3146A9DF8AFF3CCE0DC19ACCCF20972`.
 - `OT_1995CHUNK9_MEDTRONIC_COMPARATOR_SCOPED.md`: `B5038C7AE491EEA7A4D091393FEE2CF00CC7EAA055985B4A3602CB5165D308B1`.
-- `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`: `DC8F8769E6F9CE5C7DBCF4101DC543CD3DA4D518FA1712D431019354C50A7ED9`.
+- `../entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md`: `1DF791C8D711FB8E1C86764EFB1AA73125456A33796AD2557A6C1ABDCACC2542`.
 - `../entering-law/OT_1995CHUNK9_JUNE26_MEDTRONIC_LAW.md`: `6E28644985B5D73B03CD863DBE23290944480BC1F99B4D3CBAE4E3CC91724D83`.
 
 The official [518 U.S. 470 report](https://www.govinfo.gov/content/pkg/USREPORTS-518/pdf/USREPORTS-518-470.pdf) was downloaded without substitution to `../research/chunk9_reconcile_med/USREPORTS-518-470.pdf`, SHA256 `35C294358B6F8CA3535B460D7D3A45E871335344F2B2EFFA28C5021422F59E57`. Its complete 45 pages, numbered 470–514, were read through the accompanying complete text extraction: syllabus and appearances; Stevens's Parts I–VII and footnotes 1–19, including the full printed continuation of footnote 18; Breyer's separate opinion; and O'Connor's separate opinion. Neither separate opinion contains numbered footnotes. The [Cornell syllabus](https://www.law.cornell.edu/supct/html/95-754.ZS.html) was also opened for source identification. The official report supplies the verified topology; no aggregator summary decides it.
@@ -978,10 +978,10 @@ All paths in this table are relative to `terms/OT1995/`. The independent neutral
 | Input | SHA-256 |
 |---|---|
 | `freeze/OT_1995CHUNK9_VIRGINIA_NEUTRAL.md` | `C638C3D7DFEEC371FC6D2235AF79CFFE16FAA99F6A7C3947A5A0F955DC787A7A` |
-| `freeze/OT_1995CHUNK9_VIRGINIA_COMMITMENTS.md` | `89BC6BAAFB8BDA3A5948B9C2AA4BE9CBBF050C35E5DC7D496893E323CA2BE08E` |
-| `entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md` | `DC8F8769E6F9CE5C7DBCF4101DC543CD3DA4D518FA1712D431019354C50A7ED9` |
-| `entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md` | `61F7E7E93072AB33C5C660B90C808CB88BF9B0E193B0A425B0EF14C89B69889F` |
-| `entering-law/OT_1995CHUNK9_VIRGINIA_MODEL_SOURCE_RECEIPT.md` | `4997A49E6D945E656261D148AEA4A418198ED12FC439B5626F2D9DC228D85C49` |
+| `freeze/OT_1995CHUNK9_VIRGINIA_COMMITMENTS.md` | `3AAFDACC9B8D820641BE132DF4AB1249F703AE6D55FC72AA246DE817B805F07C` |
+| `entering-law/OT_1995CHUNK9_PRE_19960626_NEUTRAL_PROJECTION.md` | `1DF791C8D711FB8E1C86764EFB1AA73125456A33796AD2557A6C1ABDCACC2542` |
+| `entering-law/OT_1995CHUNK9_JUNE26_VIRGINIA_LAW.md` | `FF22F6E487AB522E310FF204EE88DD8C2B814957AD3B43D52F66C1FE6AE643DC` |
+| `entering-law/OT_1995CHUNK9_VIRGINIA_MODEL_SOURCE_RECEIPT.md` | `68B7E910611B304CB63E6F20329196E437A66D2AAFB6B87C17279157EF0FEDDF` |
 | `freeze/OT_1995CHUNK9_VIRGINIA_COMPARATOR_SCOPED.md` | `CCEA50E40EEE1AF5937F5E44C114A67342244DEBFECB3175CC13E206A72AA904` |
 
 The initial authorization permitted extraction of exactly the OT1995-093 heading-bounded block from `runtime/OT_1995CHUNK9_COMPARATOR.md`. A script mechanically loaded that file and returned only that block; no neighboring block or whole-file text entered this context. The subsequent instruction supplied the separate scoped file above, which was then used as the durable comparator input. The earlier extraction is disclosed rather than described as a wholly unopened combined file. No combined brief, current Chief Justice input, private Canonical Decision Record, other Virginia reconciliation, or another context's conclusions was read. The earlier Settle reconciliation was this context's own completed task; its conclusions were not used to predict Virginia. Settle enters here only through the subsequently supplied public neutral projection.

@@ -43,7 +43,7 @@ Original plus listed later supplements; later supplements control only their exp
 
 Original plus listed later supplements; later supplements control only their expressly superseded components. These are independent provisional Associate positions, before historical reconciliation.
 
-- [OT_1998CHUNK10_DALLAS_COMMITMENTS.md](../freeze/OT_1998CHUNK10_DALLAS_COMMITMENTS.md) — 17325 bytes; SHA-256 `1857770f33682a023c648f00aeb17837f7af7f858bfb5d7aab52e2d9b3cbf944`.
+- [OT_1998CHUNK10_DALLAS_COMMITMENTS.md](../freeze/OT_1998CHUNK10_DALLAS_COMMITMENTS.md) — 17325 bytes; SHA-256 `90a39b361c6936f59c750681923f8ef6e7e0479e72b9e66bcb95db2a13226aa3`.
 
 ## Acker
 
@@ -56,8 +56,8 @@ Original plus listed later supplements; later supplements control only their exp
 
 Original plus listed later supplements; later supplements control only their expressly superseded components. These are independent provisional Associate positions, before historical reconciliation.
 
-- [OT_1998CHUNK10_JONES_COMMITMENTS.md](../freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md) — 55855 bytes; SHA-256 `caa0d629b47cd3b8d2adea125d3ce8454a882b7db496ea9b54dda02c9ba0eb77`.
-- [OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md](../freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md) — 37639 bytes; SHA-256 `df0b5c4d75c9de99c83f3449394e3fe6cad5b3dc82b950d24ad6b465ac4563f3`.
+- [OT_1998CHUNK10_JONES_COMMITMENTS.md](../freeze/OT_1998CHUNK10_JONES_COMMITMENTS.md) — 55855 bytes; SHA-256 `daba2a5529efb36df658ff9ba5275f8e1038377f99ec3b9bd15206a50a35f88c`.
+- [OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md](../freeze/OT_1998CHUNK10_JONES_COMMITMENTS_CLOSING_REFRESH.md) — 37639 bytes; SHA-256 `b8d332d68186bb7df39462bdea3f21448bb6a7053492fa8d010b7f39358c2ff0`.
 
 ## Martin
 

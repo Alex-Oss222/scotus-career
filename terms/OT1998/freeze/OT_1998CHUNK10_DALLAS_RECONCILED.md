@@ -2,9 +2,9 @@
 
 **Matter:** City of Dallas v. Dallas Fire Fighters Association, No. 98-966; simulated merits decision June 18, 1999. **Readiness:** reconciled on the supplied baseline, conditionally ready for assembly after the required review of effective June 17 law. All eight non-Stone commitments are retained. No final Court judgment, opinion assignment or Stone position is supplied. This artifact is immutable on release.
 
-**Model:** `OT_1998CHUNK10_DALLAS_COMMITMENTS.md`, SHA256 `1857770f33682a023c648f00aeb17837f7af7f858bfb5d7aab52e2d9b3cbf944`.
+**Model:** `OT_1998CHUNK10_DALLAS_COMMITMENTS.md`, SHA256 `90a39b361c6936f59c750681923f8ef6e7e0479e72b9e66bcb95db2a13226aa3`.
 
-**Neutral:** `OT_1998CHUNK10_B_DALLAS_NEUTRAL.md`, SHA256 `4a8583f3c9f383cec06bb57a89150d4be6df944ad71a6d7bac823f8d871a8335`.
+**Neutral:** `OT_1998CHUNK10_B_DALLAS_NEUTRAL.md`, SHA256 `be11fce0db34a4b6d1e923d740cb02611736a7454b5e7128fa32f9a9abdd5d61`.
 
 **Comparator:** Dallas section only, `OT_1998CHUNK10_APPROVED_COMPARATOR.md`, complete-file SHA256 `e8f8da7e014ade73a1e2e296036b266512911eb720c68d9b34d8d1e36cf02076`.
 

@@ -4,7 +4,7 @@
   "coverage_status": "Refreshed after operator confirmation that June 13 Vera and Egelhoff assembly is complete; every presently existing Record strictly before June 17 is included.",
   "slice": "terms/OT1995/entering-law/OT_1995CHUNK8_REVISION_LEAVITT.md",
   "slice_sha256": "54bdb7d4e5acb46fd0d5d0c4668ceceb164cb91aef6a0a130abdd9adf8554a76",
-  "baseline_sha256": "cfd4be42cc271266fe9b4dfcb1a6960d4b08c359d81fb7dac6f5cddb34724f99",
+  "baseline_sha256": "f796544bc39292922bbd9cd335243c6703f7b2e5718a38e4d19d76ec0c2bf624",
   "selected": {
     "holdings-area": [
       "federal-courts",
@@ -23,7 +23,7 @@
     "standing-heading": []
   },
   "inputs": {
-    "terms/OT1995/entering-law/OT_1995CHUNK8_C_ENTERING_LAW.md": "cfd4be42cc271266fe9b4dfcb1a6960d4b08c359d81fb7dac6f5cddb34724f99",
+    "terms/OT1995/entering-law/OT_1995CHUNK8_C_ENTERING_LAW.md": "f796544bc39292922bbd9cd335243c6703f7b2e5718a38e4d19d76ec0c2bf624",
     "state/holdings/federal-courts.md": "5dd61b8a52bd0739f7d94540d1b7c2a405d21276bcf685738adece118f91b552",
     "state/holdings/criminal-procedure.md": "cd91b0b05e90260218d2aa54bf270a5abb64c2b97ce1beaebb5abfb87955796b",
     "state/holdings/civil-rights.md": "b0e75c4475d25c3dfe177bc76214d66717b1436707e8678b41f753e5c8d6679b",
@@ -535,8 +535,8 @@
     {
       "path": "terms/OT1995/records/Romer_v_Evans_merits_1996-05-20.md",
       "date": "1996-05-20",
-      "record_sha256": "0fde99e9b2445c8ebb5b1f67f3e86f0672ea8be4ecc9141842c5d57e2a57797c",
-      "projection_sha256": "28e7a61481b71e25f6e1c630090bafe2974ca0e963745a3562dbe38e094384eb"
+      "record_sha256": "6674c61867d23bddf979638ea0284deede09ba670003d84f8b2f94cdec97be08",
+      "projection_sha256": "53338eb4fc53f13eefd626d3fef74266a16388633a23b6c9cf22732d69218915"
     },
     {
       "path": "terms/OT1995/records/Pinder_v_Johnson_merits_1996-05-21.md",
@@ -571,7 +571,7 @@
     {
       "path": "terms/OT1995/records/Smiley_v_Citibank_South_Dakota_NA_merits_1996-06-03.md",
       "date": "1996-06-03",
-      "record_sha256": "8f6d04c7728e7b88b1de6daed93cea08c9a902d230a508f6be91fa7640c0daf3",
+      "record_sha256": "6ce591cbce14f8ff2735d0bf6f1d056f57f4117e5b5e05808ccad32f120b4c55",
       "projection_sha256": "571b043c07699a3b3b5e2eaf46b9032df59cf8f2a59a2b149fb459493808b793"
     },
     {
@@ -583,7 +583,7 @@
     {
       "path": "terms/OT1995/records/Exxon_Co_USA_v_Sofec_Inc_merits_1996-06-10.md",
       "date": "1996-06-10",
-      "record_sha256": "179870811e3fdfe07ef872f1979e59141f8a99cc45d5a85dfb552430a628bd8d",
+      "record_sha256": "2c39d6920333a5b3576a04587460c2b8456ae233f66b48dcb25c70f5d1b08b13",
       "projection_sha256": "946aedf6885034d410958d06cb411a7c8ce1fbfbe5d94a9076ffc8d0b327fdf4"
     },
     {
@@ -638,7 +638,7 @@
       "path": "terms/OT1995/records/Vera_and_consolidated_merits_1996-06-13.md",
       "date": "1996-06-13",
       "record_sha256": "09bc00bd426a4c1670e94bef03bbb1ab34cfd7343eef8e49b5edc93e0e1d1dc9",
-      "projection_sha256": "1c27402f25f89a545f8babe922756ff3be6e2b1fdb991c5bdda60d05b5df8ac2"
+      "projection_sha256": "6c27d385521e572edde6dfa4abfce60b690758a4bdef6ff13c171763cce30c80"
     },
     {
       "path": "terms/OT1995/records/Rise_v_Oregon_merits_1996-06-14.md",

@@ -10,7 +10,7 @@
 
 - `freeze/WRIGHT_NEUTRAL.md`, SHA-256 `2BA45C64873C791821B95FD6304ED412B4D04F900D9EE9890A56C07C5F6F681D`.
 - `freeze/WRIGHT_NEUTRAL_SUPPLEMENT.md`, SHA-256 `C7460B0E9233225FE37F6BF622C4F7B9AACFAFAB35C3FFCBD317BF17722839C7`.
-- `freeze/WRIGHT_COMMITMENTS.md`, SHA-256 `C0E8FB8026DE249F9DF41856149ABDD5410CB15E3247DC04F9F4B6D037A2ACBE`.
+- `freeze/WRIGHT_COMMITMENTS.md`, SHA-256 `0F711D09145D760CF6289679E820375383204118FAE0FD01335C8EDA34CA9D58`.
 - Wright portion only of `runtime/OT_1998CHUNK1_COMPARATOR.md`.
 - `entering-law/OT_1998CHUNK1_BASE.md`: the relevant Love, Hale, Lopez, Rybar, Kirk, Stinson and Koon/Powell holdings and selected Commerce, registration, arms and Guidelines standards; opening `workspace/neutral-projection.md` for setting and chronology. The unrelated Confrontation standard performs no work.
 

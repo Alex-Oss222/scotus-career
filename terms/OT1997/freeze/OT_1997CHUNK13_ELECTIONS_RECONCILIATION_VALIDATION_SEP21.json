@@ -1,12 +1,12 @@
 {
   "scope": "151-153 historical reconciliation; September 21, 1998",
   "context_scope": "Frozen neutral, preparation, source hashes, non-Stone commitments, three scoped comparators; no private Stone material, raw Decision Records, full brief or other control files",
-  "neutral_manifest_sha256": "2e13a700c39d86dab7c1d3d2bf8192e374d2d82e48fecb2f18dcb012ab7335b6",
+  "neutral_manifest_sha256": "10ec8aa96353fc19dafeb83af641e348015f096c6e113ebda2703e7d96e3853f",
   "source_hash_checks": [
     {
       "path": "terms/OT1997/freeze/OT_1997CHUNK13_ELECTIONS_SEP21_SOURCE_OT_1997CHUNK13_ELECTIONS_SEP21_BASE.md",
-      "expected_sha256": "ed13d9fc9440a8d564ef04101d06091d7d6e05f2654f3269f0d5dcd9970874ed",
-      "actual_sha256": "ed13d9fc9440a8d564ef04101d06091d7d6e05f2654f3269f0d5dcd9970874ed",
+      "expected_sha256": "52b3855bbeec6c29e7e7fb5bf64013c4f2f747d568588baf97d6f75c43d0b697",
+      "actual_sha256": "52b3855bbeec6c29e7e7fb5bf64013c4f2f747d568588baf97d6f75c43d0b697",
       "bytes": 1232347,
       "pass": true
     },

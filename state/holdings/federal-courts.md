@@ -3062,7 +3062,7 @@ For the other questions in this decision, see Criminal Procedure — False state
 **Docket or dockets:** No. 93-1841.
 **Decided:** June 12, 1995.
 
-For the other questions in Adarand Constructors, Inc. v. Peña, decided June 12, 1995, No. 93-1841. see Civil Rights — Governmental racial classifications (The common substantial-justification standard).
+For the other questions in Adarand Constructors, Inc. v. Peña, decided June 12, 1995, No. 93-1841. see Civil Rights — Governmental racial classifications (The common substantial-justification standard; Vacatur and bounded remand under the common standard).
 
 ##### Equal competitive opportunity and prospective standing
 

@@ -677,11 +677,11 @@ The controlling Court decisions include *Norman v. Reed* (1992), protecting auth
 
 ## B. Law entering the case
 
-The governing distinction in this Court's decisions is between state and local racial preferences under *City of Richmond v. J.A. Croson Co.* and the separate federal remedial arrangement in *Adarand Constructors, Inc. v. Peña* (1995). The latter was decided under the retained *Metro Broadcasting* federal important-objective and substantial-relationship standard, not a new federal strict-scrutiny rule. The *Northeastern Florida Chapter of Associated General Contractors v. Jacksonville* (1993) decision recognizes unequal competitive opportunity as a constitutional injury without proving the contract would otherwise have been awarded.
+This Court's *Adarand Constructors, Inc. v. Peña* (1995) adopted a common substantial-justification standard for federal, state and local racial classifications, overruling *Metro Broadcasting*'s lower federal tier and displacing the categorical strict-scrutiny formulation of *City of Richmond v. J.A. Croson Co.* while retaining *Croson*'s demand for relevant evidence. The *Northeastern Florida Chapter of Associated General Contractors v. Jacksonville* (1993) decision recognizes unequal competitive opportunity as a constitutional injury without proving the contract would otherwise have been awarded.
 
 ### Issue 1: Racial and ethnic contracting preferences
 
-- **Governing law:** *City of Richmond v. J.A. Croson Co.*, 488 U.S. 469 (1989), subjects local race-conscious contracting to strict scrutiny, requiring identified remedial injury and narrow fit. In this Court's *Adarand Constructors, Inc. v. Peña* (1995), a separate federal optional subcontracting incentive was sustained under *Metro Broadcasting*'s important-government-objective and substantial-relationship standard. *Adarand* expressly retained the distinct *Croson* rule for state and local measures; it did not extend federal strict scrutiny to every remedial classification. Local Dade County remains governed by *Croson* unless that rule is expressly reconsidered.
+- **Governing law:** Under this Court's *Adarand Constructors, Inc. v. Peña* (1995), a racial classification affecting competitive opportunity requires an important objective within lawful authority, a substantial, evidence-supported relationship between the classification and that objective, justified coverage and burdens, and a justified response to concrete, practicable alternatives that would comparably advance the objective with materially less racial disadvantage. A corrective purpose alone does not establish validity, and supported correction need not prove that every beneficiary personally suffered discrimination. *City of Richmond v. J.A. Croson Co.*, 488 U.S. 469 (1989), retains its demand for relevant evidence, but its categorical strict-scrutiny formulation no longer governs. Local Dade County is governed by that common standard.
 - **Open point:** Statistical evidence both reflects the operation of an existing long-running BBE program and can be distorted by firm-size composition; whether available studies demonstrate sufficient discrimination in the relevant procurement market is contested.
 
 ### Issue 2: Sex-conscious contracting preferences
@@ -704,7 +704,7 @@ The governing distinction in this Court's decisions is between state and local r
 ## D. Lawful paths and uncertainty
 
 1. Affirm all programs' invalidation under *Croson*, *Adarand*, and intermediate sex scrutiny, accepting trial findings absent clear error.
-2. Reconsider *Croson*'s rule for a properly supported local remedial classification, openly stating and defending any doctrinal change; if a modified rule is adopted, vacate racial components and remand for actual evidence, corrective fit and nonbeneficiaries' opportunities. This would not follow automatically from the distinct federal *Adarand* holding.
+2. If the lower courts' assessment of a properly supported local remedial classification rested on *Croson*'s categorical strict-scrutiny formulation, which *Adarand* displaced, vacate racial components and remand for application of the common standard to actual evidence, corrective fit and nonbeneficiaries' opportunities. A remand would not presume that the County's existing record satisfies that standard.
 3. Any remand must avoid presuming findings absent from the record, automatically reinstating the County's entire scheme, or treating evidence sufficient for one target group as sufficient for all.
 
 ## E. Sources

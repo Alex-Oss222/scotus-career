@@ -380,8 +380,8 @@ This file is the complete Taxman reconciliation freeze for assembly. It is not a
 - `terms/OT1996/freeze/OT_1996CHUNK11_COMMITMENTS_TAXMAN_REFRESH.md`: `9214f20e0e7e1f6810837512d571633bbb5d870747f732d986384968ae5cc7ae`.
 - `terms/OT1996/freeze/OT_1996CHUNK11_TAXMAN_HOPWOOD_NEUTRAL_REFRESH.md`: `eab181e088829d45fabe6f92783be7ac8b861cca9bb6cacde675d09e80b0f3a9`.
 - `terms/OT1996/entering-law/OT_1996CHUNK11_HOPWOOD_PUBLIC.md`: `6938b3620bfdcfcaee2f647ed678a95f9556d7d96bb7450ef99cccd8a66efcf0`.
-- `terms/OT1996/freeze/OT_1996CHUNK11_RECONCILED_JUNE16.md`: `bbac4b0dfbb568e37e577ca93d974f7298af3fb5ba15bbc54d8b6b7092e0224f`.
-- `terms/OT1996/freeze/OT_1996CHUNK11_NEUTRAL_JUNE16.md`: `b6b7784ce26a2ae0787a995af32ddafe02c92fff645ae8ec4fc435effdd64971`.
+- `terms/OT1996/freeze/OT_1996CHUNK11_RECONCILED_JUNE16.md`: `205350e16819c95e4d512cb9e1be3118f3168d59acc0540d61b4d11d71bdcf9e`.
+- `terms/OT1996/freeze/OT_1996CHUNK11_NEUTRAL_JUNE16.md`: `d53256c3004fa0c674f64e6875882efd8c2119927af33da1e88db88b13525ef5`.
 
 ### Approved Stone supplement — exact case section
 

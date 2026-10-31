@@ -8,7 +8,7 @@ Research cutoff: September 21, 1998. Runtime source text is copied exactly; labe
 
 Copied source: `terms/OT1997/runtime/chunk13-neutral/154.md`
 
-SHA256: `abfa5214049797dabeba75946c09f6ff969f7de0b16d5cef710398e7977f9664`
+SHA256: `1fc630bc2aaf18eea5921176e5189208671d3a1c9d3489693fe4397ba79fb305`
 
 # Neutral scope control
 
@@ -38,11 +38,11 @@ Scheduled merits date and current governing trackers supersede stale imported pe
 
 ## B. Law entering the case
 
-The governing distinction in this Court's decisions is between state and local racial preferences under *City of Richmond v. J.A. Croson Co.* and the separate federal remedial arrangement in *Adarand Constructors, Inc. v. Peña* (1995). The latter was decided under the retained *Metro Broadcasting* federal important-objective and substantial-relationship standard, not a new federal strict-scrutiny rule. The *Northeastern Florida Chapter of Associated General Contractors v. Jacksonville* (1993) decision recognizes unequal competitive opportunity as a constitutional injury without proving the contract would otherwise have been awarded.
+This Court's *Adarand Constructors, Inc. v. Peña* (1995) adopted a common substantial-justification standard for federal, state and local racial classifications, overruling *Metro Broadcasting*'s lower federal tier and displacing the categorical strict-scrutiny formulation of *City of Richmond v. J.A. Croson Co.* while retaining *Croson*'s demand for relevant evidence. The *Northeastern Florida Chapter of Associated General Contractors v. Jacksonville* (1993) decision recognizes unequal competitive opportunity as a constitutional injury without proving the contract would otherwise have been awarded.
 
 ### Issue 1: Racial and ethnic contracting preferences
 
-- **Governing law:** *City of Richmond v. J.A. Croson Co.*, 488 U.S. 469 (1989), subjects local race-conscious contracting to strict scrutiny, requiring identified remedial injury and narrow fit. In this Court's *Adarand Constructors, Inc. v. Peña* (1995), a separate federal optional subcontracting incentive was sustained under *Metro Broadcasting*'s important-government-objective and substantial-relationship standard. *Adarand* expressly retained the distinct *Croson* rule for state and local measures; it did not extend federal strict scrutiny to every remedial classification. Local Dade County remains governed by *Croson* unless that rule is expressly reconsidered.
+- **Governing law:** Under this Court's *Adarand Constructors, Inc. v. Peña* (1995), a racial classification affecting competitive opportunity requires an important objective within lawful authority, a substantial, evidence-supported relationship between the classification and that objective, justified coverage and burdens, and a justified response to concrete, practicable alternatives that would comparably advance the objective with materially less racial disadvantage. A corrective purpose alone does not establish validity, and supported correction need not prove that every beneficiary personally suffered discrimination. *City of Richmond v. J.A. Croson Co.*, 488 U.S. 469 (1989), retains its demand for relevant evidence, but its categorical strict-scrutiny formulation no longer governs. Local Dade County is governed by that common standard.
 - **Open point:** Statistical evidence both reflects the operation of an existing long-running BBE program and can be distorted by firm-size composition; whether available studies demonstrate sufficient discrimination in the relevant procurement market is contested.
 
 ### Issue 2: Sex-conscious contracting preferences
@@ -65,7 +65,7 @@ The governing distinction in this Court's decisions is between state and local r
 ## D. Lawful paths and uncertainty
 
 1. Affirm all programs' invalidation under *Croson*, *Adarand*, and intermediate sex scrutiny, accepting trial findings absent clear error.
-2. Reconsider *Croson*'s rule for a properly supported local remedial classification, openly stating and defending any doctrinal change; if a modified rule is adopted, vacate racial components and remand for actual evidence, corrective fit and nonbeneficiaries' opportunities. This would not follow automatically from the distinct federal *Adarand* holding.
+2. If the lower courts' assessment of a properly supported local remedial classification rested on *Croson*'s categorical strict-scrutiny formulation, which *Adarand* displaced, vacate racial components and remand for application of the common standard to actual evidence, corrective fit and nonbeneficiaries' opportunities. A remand would not presume that the County's existing record satisfies that standard.
 3. Any remand must avoid presuming findings absent from the record, automatically reinstating the County's entire scheme, or treating evidence sufficient for one target group as sufficient for all.
 
 ## E. Sources
@@ -88,7 +88,7 @@ The governing distinction in this Court's decisions is between state and local r
 
 Copied source: `terms/OT1997/runtime/chunk13-neutral/154_PREPARATION_INSTITUTIONS.md`
 
-SHA256: `b0de3196d59242bb6945b42645a971c81c3f5294bec64e066bc83dcb0b8938c7`
+SHA256: `3aed82173f432115ff49a52a177992616a27cfa48cd1ff7423f05ded3babd1e8`
 
 # Engineering Contractors neutral preparation — not a frozen commitment
 
@@ -132,7 +132,7 @@ Original petitions, trial transcript and complete exhibits were not read; publis
 
 Copied source: `terms/OT1997/entering-law/OT_1997CHUNK13_154.md`
 
-SHA256: `317ddab81b2a2e16b335f345963258584e6e3e56d0ef041f1707c03c484251b7`
+SHA256: `bda9acd53224434bd25052ece8544879dc1b04c50bc33d0920a2425104d807d9`
 
 # Entering-Law Reading Slice
 
@@ -1626,7 +1626,7 @@ Result: no affected substantive premise requiring a changed neutral conclusion. 
 
 Copied source: `terms/OT1997/freeze/OT_1997CHUNK13_INSTITUTIONS_SOURCE_RECEIPT.md`
 
-SHA256: `ec7ec0a7736b9e95d65f2eca62f5b1ed0230982ceb8b9ce6d318d3cd0092a76a`
+SHA256: `9915121382abbe8b27ae4d1ecd5ca6d94106a54d5127335fc4955bb113265d7a`
 
 # Institutions neutral source and preparation receipt
 
@@ -1656,13 +1656,13 @@ Paths are repository-relative. A whole-neutral-projection digest printed inside 
 
 | Path | SHA256 |
 |---|---|
-| `terms/OT1997/runtime/chunk13-neutral/154.md` | `abfa5214049797dabeba75946c09f6ff969f7de0b16d5cef710398e7977f9664` |
+| `terms/OT1997/runtime/chunk13-neutral/154.md` | `1fc630bc2aaf18eea5921176e5189208671d3a1c9d3489693fe4397ba79fb305` |
 | `terms/OT1997/runtime/chunk13-neutral/155.md` | `b4791cbd07654addd391f4abf9a879e9e0b6872e709e9e33578a21602e572edd` |
-| `terms/OT1997/runtime/chunk13-neutral/154_PREPARATION_INSTITUTIONS.md` | `b0de3196d59242bb6945b42645a971c81c3f5294bec64e066bc83dcb0b8938c7` |
+| `terms/OT1997/runtime/chunk13-neutral/154_PREPARATION_INSTITUTIONS.md` | `3aed82173f432115ff49a52a177992616a27cfa48cd1ff7423f05ded3babd1e8` |
 | `terms/OT1997/runtime/chunk13-neutral/155_PREPARATION_INSTITUTIONS.md` | `ff0b4f70ce56e913054225afb8b564bfca3b85eda94cb6a0a20eb4291b304b8c` |
 | `terms/OT1997/runtime/chunk13-neutral/155_STATUTORY_TEXT_INSTITUTIONS.md` | `5324f0901c93f3e6ceecfdf92f579ec3d39f2e93fde0f79d255d4d7b4c6ca163` |
 | `terms/OT1997/runtime/chunk13-neutral/INSTITUTIONS_SEP14_REFRESH.md` | `58d954e60f5d13e1054fa0eae908e61a1732576d673b29efea06cd7099afd4aa` |
-| `terms/OT1997/entering-law/OT_1997CHUNK13_154.md` | `317ddab81b2a2e16b335f345963258584e6e3e56d0ef041f1707c03c484251b7` |
+| `terms/OT1997/entering-law/OT_1997CHUNK13_154.md` | `bda9acd53224434bd25052ece8544879dc1b04c50bc33d0920a2425104d807d9` |
 | `terms/OT1997/entering-law/OT_1997CHUNK13_155.md` | `55866f0d1e2a04a3cf5b1977ea35c8c8d45981cbff7008eaa1a660a92b97f5c7` |
 | `terms/OT1997/entering-law/OT_1997CHUNK13_SEP14_FOUR_PUBLIC.md` | `16a48512a2f28afe0d50e3b2a456673d72a7404677c3b539b137f88553b00e71` |
 | `state/STANDARDS_AND_TESTS.md` | `ef45877d1acf38406cd2013cde32d577214210674f21283b6eb19ed847873235` |

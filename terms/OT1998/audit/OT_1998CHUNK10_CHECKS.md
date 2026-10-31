@@ -39,7 +39,7 @@ The six locally deferred Git-dependent checks are satisfied by the separate API 
 
 ## Final complete Render
 
-The isolated renderer completed all thirteen events, June 14–22, with no Workflow Blockers section, and completed its single final consistency review against the exact final Render Input. The final output is 164,920 bytes, SHA-256 `71abd1d56bf907fe3f938662e102f528083e7d95776933457b662f4b6c77b703`. No case substance changed during Render.
+The isolated renderer completed all thirteen events, June 14–22, with no Workflow Blockers section, and completed its single final consistency review against the exact final Render Input. The final output is 164,920 bytes, SHA-256 `dd190b332591f95d9331ed19811f82a6300f5f87a2b164f9097b1b95d10069a8`. No case substance changed during Render.
 
 Command: `python -B terms/OT1998/audit/ot1998_chunk10_no_git.py check`
 

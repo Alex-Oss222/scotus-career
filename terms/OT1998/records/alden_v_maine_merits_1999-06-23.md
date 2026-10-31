@@ -117,7 +117,7 @@ Effective June 23, the added proposition concerns this expressly authorized FLSA
 
 ## Adaptive audit: frozen commitments and final joins
 
-The [independent commitments](../freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md) and [released reconciliation](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) remain unchanged. The latter’s exact supplied SHA256 is 9a66769ceb4e74b85636a73148e22f3d7a2a4e49a52048303abc2a49ef2e78de. Each final position below preserves the frozen ground and limit; the table reports compatibility, not invented circulation events.
+The [independent commitments](../freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md) and [released reconciliation](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) remain unchanged. The latter’s exact supplied SHA256 is 8701d5046c84e4b9ea83e9a88731718f0871d24e383357e579c9ea3417ddb132. Each final position below preserves the frozen ground and limit; the table reports compatibility, not invented circulation events.
 
 | Justice | Frozen sufficient ground and own prior support | Final joins and disposition; preserved objection |
 |---|---|---|

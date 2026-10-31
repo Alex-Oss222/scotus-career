@@ -118,7 +118,7 @@ Review date: October 7, 2026. Hashes identify reviewed bytes, not legal correctn
 | Verified comparator file; Vera section | `a2b2e2bb44b242f54c45bde00926d4d424cc5ebc671b54384b62acbc45d9939d` |
 | Regenerated Vera comparator | `0a251070fe7d7020094cd52c42e05095a6beaa9471fb74a8e2ea8c428192e93c` |
 | Refreshed entering-law slice | `420bea1d0b8db3d7d3b124dc817f4af8c97bb81547886d060f13991e91b96caf` |
-| OT1994 chunk 9 public output; Miller portions | `9dd03e639f5632fab13649b0a74cde06580921145418a4664926310636f966c2` |
+| OT1994 chunk 9 public output; Miller portions | `fa657b8dc1d9fd47177adb80ad6467ebfdc2f273e965a426a7d2185b5fc3df7d` |
 | SCLC public projection | `c027e980d66d5843ad0f0f19ba940d170732220f3d65fc374f93bc0915a76923` |
 
 **Validation and release:** The eight rows cover standing and merits in all three appeals. Their fit and remedy selections are complete; historical rationale refinements are explicit, and no unsupported unanimous factual agreement is inferred. The fresh neutral and independent scope controls over the old standing-only artifacts. Ready for separate assembly; no affected commitment remains stopped.

@@ -4,7 +4,7 @@ Prepared October 25, 2026; adjudicative cutoff September 28, 1998. Scope: matter
 
 ## Inputs and chronology
 
-The complete five public decisions in `../entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md` were read, including every operative qualification, published separate position, remedial limitation and source note: Engineering Contractors, EEOC v. Johnson & Higgins, Jordahl, Libertarian Party of Florida v. Smith and Libertarian Party of Illinois v. Rednour. The supplied file's SHA-256 is verified as `30b72a3f47a0af82ad4b25893e3fa5291bef93588500d75e6a5dbde8b798a357`.
+The complete five public decisions in `../entering-law/OT_1997CHUNK13_SEP21_PUBLIC.md` were read, including every operative qualification, published separate position, remedial limitation and source note: Engineering Contractors, EEOC v. Johnson & Higgins, Jordahl, Libertarian Party of Florida v. Smith and Libertarian Party of Illinois v. Rednour. The supplied file's SHA-256 is verified as `3152168622ac4f2d79bafd3d7ccd9e410e0f39bf04fd673ce1954e7248dc9184`.
 
 The operative input was `OT_1997CHUNK13_COMMITMENTS_SEP28_REFRESH_SEP14.md`, SHA-256 `e76d3447a00c17c9b6a8cf4ba2eee973b513d7c14a18285eba6bfa41726b1ae0`. Its four effective September 14 decisions remain included. The September 21 additions complete the requested chronological law review. Kentucky Right to Life remains stopped and supplies no law. The four September 28 matters are peers: none supplies authority to another. No raw Record, comparator, controlled present-case position, unscreened Newton source or locked directory was accessed. No new external research was needed for this bounded review.
 
