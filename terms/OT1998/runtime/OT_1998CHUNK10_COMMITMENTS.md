@@ -77,4 +77,4 @@ Original plus listed later supplements; later supplements control only their exp
 
 Original plus listed later supplements; later supplements control only their expressly superseded components. These are independent provisional Associate positions, before historical reconciliation.
 
-- [OT_1998CHUNK10_SUTTON_COMMITMENTS.md](../freeze/OT_1998CHUNK10_SUTTON_COMMITMENTS.md) — 19160 bytes; SHA-256 `fb9136a9034e9490bf80584afe2f98903969511a5c759a90eb88aff161308c95`.
+- [OT_1998CHUNK10_SUTTON_COMMITMENTS.md](../freeze/OT_1998CHUNK10_SUTTON_COMMITMENTS.md) — 19720 bytes; SHA-256 `fb9136a9034e9490bf80584afe2f98903969511a5c759a90eb88aff161308c95`.

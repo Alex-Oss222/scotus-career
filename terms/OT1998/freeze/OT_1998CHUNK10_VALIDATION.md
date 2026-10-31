@@ -6,7 +6,7 @@
 
 The completed-event range is June 14 through June 22,1999. The term now contains 122 Court events and one separately admitted nonjudicial source event, represented by 123 Records. Nine scheduled inventory matters and thirteen undated carryovers remain unresolved. Germany’s original leave request remains open. Del Monte Dunes remains reconciled from its prior adjudication without a new Court event. All 116 inventory rows outside this chunk retain their exact opening row text.
 
-The next runnable scheduled matter is Albertson’s, Inc. v. Kirkingburg, No. 98-591, in Chunk 11 on June 22. Uncoordinated June 14, June 17, June 21 and June 22 matters retain common law effective before each date group. In particular, Sutton supplies no entering law to its uncoordinated June 22 peers in Chunk 11. No future hearing, filing, execution, collection or final disposition was invented.
+The next runnable scheduled matter is Albertson’s, Inc. v. Kirkingburg, No. 98-591, in Chunk 11 on June 22. Uncoordinated June 14, June 17, June 21 and June 22 matters retain common law effective before each date group. Sutton’s 5–4 vacatur and remand of the actual-seeing dismissal and 9–0 affirmance of the regarded-as-working dismissal supply no entering law to its uncoordinated June 22 peers in Chunk 11. No future hearing, filing, execution, collection or final disposition was invented.
 
 The exact finalized Record list, component-to-inventory mapping, public-copy identities and continuing-state counts are in the [workspace integration receipt](../audit/OT_1998CHUNK10_WORKSPACE_INTEGRATION.json). The guarded ledger builder indexes all 123 Records while preserving prior local order and first-record cells; it does not claim to reconstruct Git commitment order.
 

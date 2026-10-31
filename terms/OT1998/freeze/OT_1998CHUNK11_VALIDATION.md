@@ -22,7 +22,7 @@ The final [Render Input](../render-inputs/OT_1998CHUNK11.md) contains exactly ei
 
 The final [public Render](../output/OT_1998CHUNK11.md) contains all eight events and no Workflow Blockers section. It is 158,745 bytes, SHA-256 `b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515`. The four earlier rendered entries are byte-identical. Renderer access was confined to the generated public handoff, its own output, the Render Contract and the three authorized AGENTS presentation sections.
 
-The renderer self-check and [required final fidelity check](../audit/OT_1998CHUNK11_RENDER_FIDELITY.md) passed without discrepancy. The final comparison retained passed unchanged-entry checks, incorporated the fresh Murphy/Olmstead replacement, and reviewed only the four additions and complete metadata/coverage. All render/fidelity workers have finished; no additional review remains pending.
+The renderer self-check and [required final fidelity check](../audit/OT_1998CHUNK11_RENDER_FIDELITY.md) passed without discrepancy. The final comparison retained passed unchanged-entry checks, incorporated Murphy’s 5–4 actual-disability vacatur and remand and 6–3 regarded-as affirmance alongside Olmstead, and reviewed only the four additions and complete metadata/coverage. All render/fidelity workers have finished; no additional review remains pending.
 
 ## Deterministic checks, preservation and release
 

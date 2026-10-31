@@ -14,7 +14,7 @@ Same-day peers retain common entering law. All June 23 handoffs incorporate the 
 
 ## Murphy
 
-- [OT_1998CHUNK11_MURPHY_RECONCILED.md](../freeze/OT_1998CHUNK11_MURPHY_RECONCILED.md) — 27842 bytes; SHA-256 `9a64911475a05eabee8df24da6b33604e51f7f0cd31feb2dc979464139530e71`.
+- [OT_1998CHUNK11_MURPHY_RECONCILED.md](../freeze/OT_1998CHUNK11_MURPHY_RECONCILED.md) — 27388 bytes; SHA-256 `9a64911475a05eabee8df24da6b33604e51f7f0cd31feb2dc979464139530e71`.
 
 ## Olmstead
 

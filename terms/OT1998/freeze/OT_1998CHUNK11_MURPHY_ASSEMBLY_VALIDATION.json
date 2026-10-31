@@ -2,33 +2,31 @@
   "case": "Murphy v. United Parcel Service, Inc.",
   "event_date": "1999-06-22",
   "status": "assembly_finalized",
-  "form": "One signed lead after plenary review, with six-Justice actual-disability construction/scope and regarded-as application, shared perceived-class framework and Supreme Court nonreach reservations, and six-Justice affirmance. Separate Stevens concurrence in part/dissent joined Breyer and Stone concurrence in part/dissent preserve different remedies.",
-  "form_legal_basis": "Distinct coverage routes, legal mitigation construction versus ungranted treated-state sufficiency, and actual partial joins require severable sections; no part is divided to affect author counts.",
+  "form": "One signed lead after plenary review: five-Justice actual-disability vacatur, six-Justice regarded-as affirmance, and nine-Justice perceived-class framework and Supreme Court nonreach. Stevens concurs with Breyer; Stone concurs in part and dissents from P5; O\u2019Connor concurs in P4/P5/P6 and dissents from actual-disability vacatur with Scalia, Kennedy and Thomas.",
+  "form_legal_basis": "Distinct component coalitions require severable portions within one lead; a common author joins each. No part is divided to affect author counts.",
   "governing_propositions": {
-    "I": "P1-P3 measures actually employed count, treated-state sufficiency outside grant, bounded guidance treatment. Six direct joins.",
+    "I": "P1/P3 underlying impairment without beneficial mitigation; individualized proof, statutory construction and vacatur for reassessment. Five direct joins; no separate P2 holding.",
     "II-A": "P4 perceived-class-of-jobs framework only, no P5 application. Nine direct compatible joins.",
     "II-B": "P5 insufficient breadth/perception proof on this record. Six direct joins.",
-    "III": "P6 Supreme nondecision of qualification/DOT defenses and their separation from coverage. Nine direct joins to nonreach/limits, no common remand position.",
-    "IV": "Affirm judgment, six votes; no Court remand.",
-    "Stevens_Breyer": "D1 untreated evidence taken true establishes actual disability; D2 reverse/remand for remaining issues. P4/P6 joins but no P5 application or alternative treated-state remand.",
-    "Stone": "Vacate coverage judgment and reassess without beneficial mitigation; preserved regarded-as elements and qualification/safety on remand. P4 framework/P6 Supreme nonreach joins only; no P2 or D1 final application."
+    "III": "P6 Supreme nondecision of qualification/DOT defenses and their separation from coverage. Nine direct joins to nonreach and limits; necessary preserved issues remain below after actual-disability vacatur.",
+    "IV": "Affirm in part and vacate in part: actual-disability vacatur and remand, five votes; regarded-as affirmance, six votes.",
+    "Stevens_Breyer": "Join P1/P3 actual-disability vacatur, P4/P6, and no P5 application. D1 persuasive guidance; D2 individualized reassessment without a final disability finding.",
+    "Stone": "Join P1/P3 actual-disability vacatur and P4/P6. Dissent from P5: any preserved regarded-as theory should be resolved on its elements, with necessary qualification/safety/accommodation questions on remand; no automatic award or waiver."
   },
   "tentative_judgment_support": [
-    "O'Connor",
-    "Scalia",
-    "Kennedy",
+    "Stone-Zsela",
+    "Stevens",
     "Souter",
-    "Thomas",
-    "Ginsburg"
+    "Ginsburg",
+    "Breyer"
   ],
   "tentative_opinion_support": {
     "I": [
-      "O'Connor",
-      "Scalia",
-      "Kennedy",
+      "Stone-Zsela",
+      "Stevens",
       "Souter",
-      "Thomas",
-      "Ginsburg"
+      "Ginsburg",
+      "Breyer"
     ],
     "II-A": [
       "Stone-Zsela",
@@ -60,25 +58,30 @@
       "Ginsburg",
       "Breyer"
     ],
-    "IV": [
-      "O'Connor",
-      "Scalia",
-      "Kennedy",
-      "Souter",
-      "Thomas",
-      "Ginsburg"
-    ]
+    "IV": {
+      "actual_disability": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "regarded_as": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    }
   },
   "eligible_before_counts": [
-    "O'Connor",
-    "Scalia",
-    "Kennedy",
     "Souter",
-    "Thomas",
     "Ginsburg"
   ],
   "assignment": {
-    "assigning_justice": "O'Connor",
+    "assigning_justice": "Stone-Zsela for actual disability; O\u2019Connor for regarded-as coverage",
     "prior_counts": {
       "Stone-Zsela": 12,
       "Stevens": 12,
@@ -92,18 +95,17 @@
     },
     "last_counted": "kolstad_v_american_dental_association_merits_1999-06-22.md",
     "eligible": [
-      "O'Connor",
-      "Scalia",
-      "Kennedy",
       "Souter",
-      "Thomas",
       "Ginsburg"
     ],
-    "pool": null,
-    "pool_rule_applicable": false,
-    "pool_explanation": "Chief does not assign; the senior participating Associate in the affirmance coalition assigns.",
-    "chosen_author": "O'Connor",
-    "basis": "Associate self-assignment inference grounded in her date-eligible Hazen Paper statutory distinctions and Caspari/Madsen question-scope opinions; she supports every proposition and can maintain the legal-rule/application boundary without expanding the grant. No historical authorship entitlement is used."
+    "pool": [
+      "Souter",
+      "Ginsburg"
+    ],
+    "pool_rule_applicable": true,
+    "pool_explanation": "The Chief assigns the actual-disability component from Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; minimum 12, ceiling 13. O\u2019Connor assigns P5. A single author must join both components; Souter and Ginsburg constitute the common eligible pool, minimum 12 and ceiling 13.",
+    "chosen_author": "Ginsburg",
+    "basis": "Both assigners choose Ginsburg for her independent W3 perceived-occupation conclusion rejecting the motive shortcut, F1 no-finding vacatur on the unreconciled regimen and residual evidence, Bragdon continuing-impairment concurrence and X-Citement Video scope analysis. Souter is the strongest alternative; Ginsburg\u2019s independent support for P5 supplies the closer fit. Counts play no part in the choice."
   },
   "delegated_new_stone_substance_used": false,
   "checks": {
@@ -119,32 +121,32 @@
     "assignment_authority": true,
     "associate_balance_exception_correct": true,
     "record_natural_key": true,
-    "single_actual_lead_author": "O'Connor",
+    "single_actual_lead_author": "Ginsburg",
     "lead_count_increment": 1,
     "controlling_explanation_word_counts": [
-      218,
-      145,
+      215,
+      151,
       131,
       140,
-      136
+      135
     ],
     "manual_legal_checks_completed": [
       "section1254(1) channel and limited petitionQ1/Q4 grant",
       "all nine participation, quorum six, majority five",
       "preJune22 law; no same-day peer precedent or later ADA amendment",
-      "actual-treated rule distinct from ungranted application; medical dispute preserved",
+      "underlying-impairment mitigation rule and individualized reassessment; medical dispute preserved",
       "perceived-class proof distinct from regulatory motive and job qualification",
-      "all frozen reconciliation corrections and independent file preserved",
-      "Stone P4framework/P6Supreme-nonreach joins with mandatory directions on his proposed remand",
-      "Stevens/Breyer D1actual finding and reversal distinct from Stone vacatur; no inferred P5 vote",
-      "six direct majority grounds; nine limited common propositions; no Marks synthesis",
+      "final frozen component positions and Justice-specific historical grounds",
+      "Stone P1/P3 vacatur and P4/P6 joins; P5 dissent preserves his proposed regarded-as remand",
+      "Stevens/Breyer join vacatur without a final finding; no inferred P5 application",
+      "five actual-disability joins, six P5 joins, nine P4/P6 joins; no Marks synthesis",
       "no new certification, waiver, defense, employment, award or production order"
     ],
     "bounded_required_pre_finalization_review": {
       "completed": true,
       "reviewer": "fresh scoped gpt-6-astra ultra context",
-      "scope": "exact Stone P4/P6 compatibility, no P2/D1 finding, different dissent remedies and no inferred regarded-as application",
-      "result": "No substantive conflict when framework and Supreme nonreach joins exclude remedy-specific statements."
+      "scope": "Stone P1/P3 reassessment and P4/P6 compatibility, no final disability finding, P5 partial dissent and no inferred Stevens/Breyer application join",
+      "result": "Exact component joins preserve individualized reassessment, Supreme Court nonreach and the distinct regarded-as positions."
     }
   },
   "source_hashes": {
@@ -163,30 +165,25 @@
   },
   "component_votes": [
     {
-      "component": "overall_employer_judgment",
-      "disposition": "affirm",
+      "component": "actual_disability_vacatur",
+      "disposition": "vacate_and_remand",
       "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
         "O'Connor",
         "Scalia",
         "Kennedy",
-        "Souter",
-        "Thomas",
-        "Ginsburg"
+        "Thomas"
       ],
-      "oppose": [
-        "Stone-Zsela",
-        "Stevens",
-        "Breyer"
-      ],
-      "count": "6-3",
+      "count": "5-4",
       "opposing_dispositions": {
-        "vacate_and_remand": [
-          "Stone-Zsela"
-        ],
-        "reverse_and_remand": [
-          "Stevens",
-          "Breyer"
-        ]
+        "vacate_and_remand": [],
+        "reverse_and_remand": []
       }
     },
     {
@@ -195,17 +192,16 @@
         "O'Connor",
         "Scalia",
         "Kennedy",
-        "Souter",
-        "Thomas",
-        "Ginsburg"
+        "Thomas"
       ],
       "vacate_for_reassessment": [
-        "Stone-Zsela"
-      ],
-      "reverse_actual_disability_established_on_untreated_evidence": [
+        "Stone-Zsela",
         "Stevens",
+        "Souter",
+        "Ginsburg",
         "Breyer"
       ],
+      "reverse_actual_disability_established_on_untreated_evidence": [],
       "treated_state_supreme_finding": false
     },
     {
@@ -229,8 +225,24 @@
   ],
   "opinion_joins": [
     {
-      "writing": "Opinion of the Court, Parts I, II-B and IV",
-      "author": "O'Connor",
+      "writing": "Opinion of the Court, Parts I and IV as to actual disability",
+      "author": "Ginsburg",
+      "including_author": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "frozen_propositions": [
+        "P1",
+        "P3"
+      ],
+      "authority": "controlling"
+    },
+    {
+      "writing": "Opinion of the Court, Part II-B and IV as to regarded-as coverage",
+      "author": "Ginsburg",
       "including_author": [
         "O'Connor",
         "Scalia",
@@ -240,16 +252,13 @@
         "Ginsburg"
       ],
       "frozen_propositions": [
-        "P1",
-        "P2",
-        "P3",
         "P5"
       ],
       "authority": "controlling"
     },
     {
       "writing": "Opinion of the Court, Part II-A",
-      "author": "O'Connor",
+      "author": "Ginsburg",
       "including_author": [
         "Stone-Zsela",
         "Stevens",
@@ -269,7 +278,7 @@
     },
     {
       "writing": "Opinion of the Court, Part III",
-      "author": "O'Connor",
+      "author": "Ginsburg",
       "including_author": [
         "Stone-Zsela",
         "Stevens",
@@ -288,27 +297,41 @@
       "remedy_specific_language_excluded_from_common_join": true
     },
     {
-      "writing": "Concurrence in part and dissent",
+      "writing": "Concurring opinion",
       "author": "Stevens",
       "including_author": [
         "Stevens",
         "Breyer"
       ],
       "frozen_propositions": [
-        "D1",
-        "D2"
+        "D1 persuasive guidance",
+        "D2 individualized reassessment; P1/P3/P4/P6 joins"
       ],
       "authority": "noncontrolling",
       "no_P5_application": true
     },
     {
-      "writing": "Concurrence in part and dissent",
+      "writing": "Concurrence in part and dissent in part",
       "author": "Stone-Zsela",
       "including_author": [
         "Stone-Zsela"
       ],
       "authority": "noncontrolling",
-      "scope": "No beneficial mitigation; vacate coverage for actual reassessment, preserved perceived-class inquiry, and remaining qualification/safety/accommodation elements; no D1 final finding."
+      "scope": "Joins P1/P3 actual-disability rule and vacatur and P4/P6. Dissents from P5; would resolve any preserved regarded-as theory on its elements, with separate qualification/safety/accommodation inquiries and no final disability finding or automatic award."
+    },
+    {
+      "writing": "Concurrence in part and dissent in part",
+      "author": "O'Connor",
+      "including_author": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "frozen_propositions": [
+        "T1/T3 actual-measures-used construction; P4/P5/P6 joins"
+      ],
+      "authority": "noncontrolling"
     }
   ],
   "record_path": "terms/OT1998/records/murphy_v_united_parcel_service_inc_merits_1999-06-22.md",

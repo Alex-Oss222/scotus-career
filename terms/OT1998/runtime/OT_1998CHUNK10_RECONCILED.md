@@ -13,6 +13,6 @@ This mechanical index identifies the final case-specific historical-reconciliati
 - **Jones:** [OT_1998CHUNK10_JONES_RECONCILED.md](../freeze/OT_1998CHUNK10_JONES_RECONCILED.md) — 44339 bytes; SHA-256 `eccf443cb2f602c29064e1359129211743ae9fbe45e2e8b41f151e861fcd11d7`.
 - **Martin:** [OT_1998CHUNK10_MARTIN_RECONCILED.md](../freeze/OT_1998CHUNK10_MARTIN_RECONCILED.md) — 14128 bytes; SHA-256 `0767043f65bdbf2e9cbd95d02b4174ed03009143014d5e81584481f9feb20329`.
 - **Dyson:** [OT_1998CHUNK10_DYSON_RECONCILED.md](../freeze/OT_1998CHUNK10_DYSON_RECONCILED.md) — 16504 bytes; SHA-256 `f51e61c6a6a33a66d4c909e0ec3e8a597be315790759f30bac83ad0917a131d4`.
-- **Sutton:** [OT_1998CHUNK10_SUTTON_RECONCILED.md](../freeze/OT_1998CHUNK10_SUTTON_RECONCILED.md) — 13314 bytes; SHA-256 `4d3e09e442f9ae8b8929602a2488c363912ad99dcd73d8fc664240ec5cc016ce`.
+- **Sutton:** [OT_1998CHUNK10_SUTTON_RECONCILED.md](../freeze/OT_1998CHUNK10_SUTTON_RECONCILED.md) — 14193 bytes; SHA-256 `4d3e09e442f9ae8b8929602a2488c363912ad99dcd73d8fc664240ec5cc016ce`.
 
 The final Strickler reconciliation supersedes the earlier cause/guilt-only handoff and penalty reservation. Jones was completed in a fresh reconciliation context after the prior context ended without a final Jones freeze; the source and stage receipts preserve that boundary. No current Chief position or petition-only Chief handoff is part of this Associate index.

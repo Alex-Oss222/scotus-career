@@ -14,7 +14,7 @@ June 22 matters share pre-June22 law, excluding Sutton as uncoordinated peer law
 
 ## Murphy
 
-- [OT_1998CHUNK11_MURPHY_COMMITMENTS.md](../freeze/OT_1998CHUNK11_MURPHY_COMMITMENTS.md) — 25421 bytes; SHA-256 `50f8ad025b4a486c6dea717853230d57470a50379bbdaf99becdc4972f37df40`.
+- [OT_1998CHUNK11_MURPHY_COMMITMENTS.md](../freeze/OT_1998CHUNK11_MURPHY_COMMITMENTS.md) — 26309 bytes; SHA-256 `50f8ad025b4a486c6dea717853230d57470a50379bbdaf99becdc4972f37df40`.
 
 ## Olmstead
 

@@ -18,7 +18,7 @@
 | June 21, 1999 | Martin v. Hadix, No. 98-262 | Merits decision | Affirmed in part, reversed in part; fee allocation remanded |
 | June 21, 1999 | Maryland v. Dyson, No. 98-1062 | Certiorari granted | Petition stage resolved; separate same-date merits decision |
 | June 21, 1999 | Maryland v. Dyson, No. 98-1062 | Reasoned summary merits decision | State appellate judgment reversed; remanded |
-| June 22, 1999 | Sutton v. United Air Lines, Inc., No. 97-1943 | Merits decision | Dismissal of both presented coverage theories affirmed |
+| June 22, 1999 | Sutton v. United Air Lines, Inc., No. 97-1943 | Merits decision | Actual-disability judgment vacated and remanded; regarded-as-working dismissal affirmed |
 
 ## Decisions and Dispositions
 
@@ -1091,7 +1091,7 @@ Merits decision, June 22, 1999
 
 #### Chronology and Posture
 
-Argued April 28, 1999; decided June 22. On certiorari to the Tenth Circuit, 130 F.3d 893, which affirmed dismissal under Rule 12(b)(6). The questions concern mitigating measures in the original ADA's actual-disability definition, the proper weight of the contrary EEOC Appendix guidance, and the sufficiency of the pleaded regarded-as-working theory.
+Argued April 28, 1999; decided June 22. On certiorari to the Tenth Circuit, 130 F.3d 893, which affirmed dismissal under Rule 12(b)(6). The questions concern mitigating measures in the original ADA's actual-disability definition, the proper weight of the EEOC Appendix guidance, and the sufficiency of the pleaded regarded-as-working theory.
 
 The twin applicants allege uncorrected right-eye vision of 20/200 or worse and left-eye vision of 20/400 or worse, corrected vision of 20/20, commercial experience and first-class FAA medical certificates. United requires uncorrected visual acuity of 20/100 or better for the hiring at issue. The complaint alleges actual disability substantially limiting seeing and a perceived disability substantially limiting working. The lower court's assumption that United rejected the applicants from all its pilot positions is maintained for this appeal. Those allegations and assumptions are not adjudicated findings of unsafe flight, employer intent or universal airline qualification.
 
@@ -1099,51 +1099,57 @@ All nine Justices participated at argument and decision.
 
 #### Judgment
 
-**Affirmed, 6–3.**
+**Affirmed in part and vacated in part.**
 
-**Supporting:** O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Actual disability — seeing (Parts I–II) | Vacated and remanded, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O’Connor, Scalia, Kennedy, Thomas | Reassessment without beneficial correction eliminating the underlying limitation; individual substantial limitation remains to be established |
+| Regarded as substantially limited in working (Part III) | Affirmed, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Regarded-as-working dismissal stands |
 
-**Opposing:** Stone-Zsela, Stevens and Breyer.
-
-The Court affirms dismissal of both presented coverage theories. Stevens and Breyer would reverse and remand on actual disability without deciding the separate regarded-as application. Stone-Zsela would vacate the adverse coverage judgment and remand, agreeing only that exclusion from the specialized global-airline-pilot position alone does not establish a broad working limitation. The decision orders no remand, employment, reinstatement, accommodation, damages or new evidentiary proceeding and does not validate every airline hiring criterion.
+The judgment is affirmed in part and vacated in part. The actual-disability claim returns for reassessment without treating beneficial correction as eliminating the underlying limitation; the applicants must establish individual substantial limitation. Qualification, accommodation and legitimate safety defenses are resolved on their own elements. The regarded-as-working dismissal stands. No automatic hiring, reinstatement, accommodation, damages or new evidentiary proceeding is ordered, and no airline hiring criterion is categorically validated.
 
 #### Opinions and Joins
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Kennedy | O'Connor, Scalia, Souter, Thomas and Ginsburg | Affirms dismissal of both presented theories | Complete opinion: mitigation rule, actual-seeing application, statutory treatment of guidance, and regarded-as-working rule and application |
-| Dissent | Stevens | Breyer | Would reverse and remand the actual-disability theory | Underlying-impairment rule; regarded-as application reserved |
-| Dissent | Stone-Zsela | Unjoined | Would vacate and remand | Underlying-impairment rule, separate elements of preserved coverage routes and qualification, and narrow agreement with the specialized-position principle |
+| Opinion of the Court, Parts I–II | Stone-Zsela | Stevens, Souter, Ginsburg and Breyer | Vacates and remands the actual-disability claim | Underlying-impairment rule, individual substantial limitation and bounded reassessment |
+| Opinion of the Court, Part III | Stone-Zsela | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Affirms the regarded-as-working dismissal | Perceived-class rule and dismissal application |
+| Opinion concurring in Part III and dissenting from Parts I–II | Kennedy | O’Connor, Scalia and Thomas | Would affirm actual-disability dismissal; joins regarded-as affirmance | Actual-measures-used rule and actual-disability application; agrees with Part III’s rule and application |
+| Concurrence | Stevens | Breyer | Joins the Court in full | Persuasive agency guidance without making deference a ground of the Court’s decision |
 
-Stone-Zsela's narrow agreement supplies no join in the Court's complete regarded-as dismissal holding. All controlling propositions have the six direct votes of the Court-opinion coalition; no combination of separate rationales is necessary.
+Parts I–II have five direct votes; Part III has nine. No plurality or narrowest-ground synthesis is necessary.
 
 #### Controlling Propositions and Authority
 
-##### Holding 1— Measures actually used are part of individual actual-disability assessment
+##### Holding 1— Beneficial mitigation does not eliminate underlying-impairment coverage
 
-**Holding and operative rule:** Under the original 42 U.S.C. §12102(2)(A), an individual's actual substantial limitation must be assessed with the mitigating measures the individual actually uses, including their beneficial and adverse effects. Effective correction does not erase an impairment or categorically foreclose disability; coverage still depends on an actual substantial limitation of that person's major life activity.
+**Holding and operative rule:** Under the original 42 U.S.C. §12102(2)(A), successful mitigating measures do not erase the underlying impairment: whether it substantially limits a major life activity is assessed without treating beneficial correction or medication as eliminating that limitation. Individual proof of substantial limitation remains necessary; this is not a categorical rule that every eyeglass wearer is disabled.
 
-**Authority:** Kennedy’s Opinion of the Court commands the complete agreement of O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. These six directly adopt this rule and its limits.
+Evaluate the qualifying impairment without treating beneficial correction or medication as eliminating coverage. The protections of the Americans with Disabilities Act do not disappear because an individual has successfully treated or mitigated an impairment. The existence of a qualifying disability must be distinguished from the individual’s capacity to perform particular employment duties. Effective treatment does not itself establish that the underlying impairment is outside the statute’s protection.
 
-**Controlling explanation:** The original statute requires an impairment that substantially limits the individual. The existence of an impairment and the magnitude of its present effect are distinct questions. Assessing the person as if an effective measure were absent replaces that individualized inquiry with a hypothetical condition. Conversely, acknowledging correction does not mean that treatment always removes substantial limitation: residual restrictions and adverse effects remain part of the person's actual condition. Bragdon required individual substantial limitation and left this general mitigation issue open because even the treated transmission danger supported Abbott's specific reproductive limitation.
+**Authority:** Part I of Chief Justice Stone-Zsela’s Opinion of the Court, joined by Stevens, Souter, Ginsburg and Breyer. All five adopt the rule, individualized-proof requirement and separation of coverage from qualification, accommodation and safety.
 
-The EEOC Appendix's contrary interpretation does not overcome the enacted individualized limitation requirement. Haggar requires courts to enforce statutory boundaries before accepting an agency construction. The Court therefore need not decide the general extent of EEOC authority to define disability, the force of every regulation or Appendix statement, or whether every term of the regulatory framework warrants deference. The guidance's protective aim and the Act's distinct qualification and accommodation provisions do not eliminate the threshold Congress enacted. Those latter inquiries remain separate once coverage exists.
+**Controlling explanation:** The statute asks whether the underlying impairment substantially limits a major life activity of the individual. A person does not cease to have an impairment because lenses make ordinary activity possible. Making protection disappear when treatment enables work would merge disability with the separate question whether a person can perform the employment duties with accommodation. The original Act separates those inquiries. It still requires a substantial limitation in this individual, not merely a diagnosis or the use of glasses.
 
-##### Holding 2 — These allegations do not state an actual substantial limitation of seeing
+Arline’s functional protection supports examining the impairment without confusing coverage with qualification or justified exclusion. Bragdon supplies the individualized sequence of impairment, major activity and substantial limitation; it expressly reserved mitigation, so its recognition of a substantial treated reproductive risk does not resolve this question against the underlying-impairment rule. The twins’ severe uncorrected myopia and dependence on lenses must therefore be assessed without corrected acuity eliminating the underlying limitation. Their individual substantiality remains for reassessment.
 
-**Holding and operative rule:** The actual-disability theory fails where these applicants allege corrected vision and visual functioning equivalent to people without their impairment and identify no additional actual substantial limitation. Their severe uncorrected myopia and continuing dependence on corrective lenses do not, on these allegations, establish the required limitation of seeing under the governing mitigation rule.
+The present-function argument properly insists on individual proof, but it treats the effectiveness of an aid as the absence of the limitation the aid addresses. Actual corrected performance belongs in the separate qualification, accommodation and safety inquiries. The Court adopts this construction from the original statute, without making agency deference its ground. The EEOC Appendix’s interpretation does not require a ruling on general definitional authority or the binding force of every regulatory or Appendix statement; Haggar’s actual-authority and statutory-fit requirements remain intact.
 
-**Authority:** The same six-Justice Court-opinion coalition directly adopts this application; Stone-Zsela, Stevens and Breyer reject the beneficial-mitigation premise.
+##### Holding 2 — The actual-disability claim requires reassessment under the underlying-impairment rule
 
-**Controlling explanation:** The Court accepts the severe underlying myopia, the use of lenses and the favorable allegations concerning corrected function. It does not reject myopia as an impairment; United does not press that separate contention. The complaint's own account of normal corrected seeing supplies the decisive distinction from an impairment with actual residual limitations or adverse effects. Constant dependence on lenses, without an alleged actual substantial restriction inconsistent with that normal function, does not supply the missing limitation. The Court makes no finding that all lenses, medication or other treatment eliminate disability.
+**Holding and operative rule:** The dismissal of the actual-disability claim is vacated and the claim remanded for reassessment without beneficial mitigation eliminating the underlying visual limitation, with individual proof that the impairment substantially limits seeing. Qualification, reasonable accommodation and legitimate safety defenses must be resolved on their own elements; the remand awards no automatic hiring, reinstatement or accommodation.
 
-FAA certification and commercial experience do not establish statutory disability, while United's uncorrected-acuity criterion does not itself prove dangerousness or lawful exclusion. Qualification, accommodation, business necessity and direct threat are distinct matters and need not be decided after the asserted coverage theory fails. No record-of claim or regarded-as-seeing theory is created to replace the theories presented.
+**Authority:** Part II of the Court’s opinion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. These five adopt the vacatur and bounded reassessment; O’Connor, Scalia, Kennedy and Thomas dissent from this component.
+
+**Controlling explanation:** The complaint’s allegations of severe uncorrected myopia and continued dependence on corrective lenses must be considered under the statutory rule just stated. Normal corrected seeing does not itself defeat the claim. The Court vacates the dismissal so the lower courts can assess individual substantial limitation under the proper rule; it does not conclusively determine disability or the sufficiency of every allegation.
+
+The FAA certificates and commercial experience concern the applicants’ performance and qualifications; neither establishes the separate disability element nor invalidates every employer criterion. United may contest qualification, accommodation and a supported safety defense, but those distinct inquiries cannot erase the coverage question. Arline supports the separation of disability from qualification and justified exclusion; Bragdon supplies individualized assessment and preserves the distinct objective-risk inquiry within its own setting. No record-of claim, regarded-as-seeing theory, finding of dangerousness or ultimate employment entitlement is supplied.
 
 ##### Holding 3 — The alleged perceived restriction is confined to a specialized job category
 
 **Holding and operative rule:** Assuming working is a major life activity, a regarded-as-working claim requires an alleged perceived restriction in a class or broad range of jobs; exclusion from the specialized global-airline-pilot category alleged here does not suffice. The pleaded exclusion remains insufficient even under the assumption that United rejected these applicants for all of its pilot positions.
 
-**Authority:** The same six-Justice Court-opinion coalition directly adopts the governing rule and this dismissal application. Stone-Zsela agrees only with the specialized-position principle in his separate dissent; Stevens and Breyer leave this application unresolved because their actual-disability disposition would require remand.
+**Authority:** Part III of the Court’s opinion commands all nine Justices: Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Each joins both the perceived-class rule and the dismissal application.
 
 **Controlling explanation:** Perceiving an impairment is not necessarily perceiving a substantial limitation of working. The distinction reflected in 29 C.F.R. §1630.2(j) and (l) separates a class or broad range of jobs from a particular specialized occupation. The alleged perception concerns the global-airline-pilot category, while other pilot work provides context for why that category is specialized. The Court does not hold that actual employment elsewhere conclusively proves United's belief, require rejection by every employer, or decide disputed facts about its mental state. The complaint fails because the alleged perceived limitation does not reach the required breadth, even accepting the favorable scope assumption below.
 
@@ -1151,28 +1157,29 @@ This is a coverage ruling on the theory actually presented. It does not decide w
 
 #### Precedent Treatment
 
-- **Bragdon v. Abbott:** Applies its individualized disability framework and resolves the general mitigation question it expressly reserved. Its reproduction holding, substantial residual-risk application and distinct Title III objective direct-threat rules remain intact.
-- **United States v. Haggar Apparel Co. and Chevron:** Preserve actual delegation and statutory fit as conditions of accepting an agency construction. The contrary Appendix interpretation fails the statutory reading adopted here; the Court makes no general decision about ADA definitional authority or every EEOC regulation.
+- **School Board of Nassau County v. Arline:** Applies its functional protection and individualized assessment while keeping disability distinct from qualification and supported exclusion; its actual setting and limits remain intact.
+- **Bragdon v. Abbott:** Applies its individualized disability framework and resolves the reserved mitigation question through the underlying-impairment rule. Its reproduction holding, substantial residual-risk application and distinct Title III objective direct-threat rules remain intact.
+- **United States v. Haggar Apparel Co. and Chevron:** Preserve actual delegation and statutory fit as conditions of agency deference. The Court rests on its construction of the original ADA and makes no general decision about ADA definitional authority or the binding force of every EEOC regulation or Appendix statement.
 
 #### Law After Decision
 
-Under the original ADA, actual-disability assessment accounts for mitigating measures actually used, including their beneficial and adverse effects, while continuing to require a substantial limitation of that individual's major life activity. This resolves Bragdon's express mitigation reservation; it neither erases an impairment nor excludes every successfully treated condition. The actual-seeing allegations here fail under that rule.
+Under the original ADA, beneficial mitigating measures do not eliminate an underlying impairment’s substantial limitation for actual-disability coverage. Individual substantiality remains required, and coverage is distinct from qualification, reasonable accommodation and legitimate safety standards. This resolves Bragdon’s express mitigation reservation without automatic coverage for every corrected condition. The actual-seeing claim returns for reassessment under that rule.
 
 Assuming working is a major life activity, the regarded-as theory presented here also fails because the alleged perception concerns a specialized global-airline-pilot category rather than a class or broad range of jobs. Separate coverage branches, individual proof, qualification and lawful defenses retain their distinct elements. No precedent is overruled; no general delegation or airline-safety rule is decided.
 
 #### Separate Positions Relevant to the Decision
 
-**Stevens, joined by Breyer, dissenting.** They would reverse and remand the actual-disability theory because severe underlying myopia can substantially limit seeing even when corrective lenses permit ordinary activity. The statute's protection and accommodation structure separates the existence of a substantially limiting condition from the person's ability to perform a job with assistance. Otherwise effective self-management can remove protection against impairment-based exclusion precisely when it enables work. The administrative guidance and legislative materials persuasively support that reading; the dissent does not require a general holding that all Appendix language has controlling force. Individual substantiality remains necessary, so every person who wears glasses does not automatically qualify. Qualification, accommodation, business necessity, direct threat, causation and relief remain for ordinary proceedings. The dissent does not order hiring or damages and need not decide the separate regarded-as-working application to support its remand.
+**Kennedy, joined by O’Connor, Scalia and Thomas, concurring in Part III and dissenting from Parts I–II.** They would assess substantial limitation with the measures the individual actually uses, including beneficial and adverse effects. The statutory requirement concerns this person’s present limitation; treating effective lenses as absent substitutes a hypothetical untreated condition for actual function. This does not erase an impairment or exclude every treated condition: residual limitations and treatment burdens can still be substantial. Bragdon found substantial reproductive risk even with treatment and reserved the general mitigation question. Here the complaint alleges normal corrected seeing and no additional substantial limitation inconsistent with that function. Constant dependence on lenses does not supply the missing present limitation under their construction. The protection and accommodation structure cannot eliminate the threshold Congress separately enacted, and contrary Appendix guidance cannot override that statutory reading under Haggar. They would affirm the actual-disability dismissal without deciding general EEOC power, qualification or safety. They join Part III’s perceived-class rule and regarded-as affirmance.
 
-**Stone-Zsela, dissenting.** He would vacate the adverse coverage judgment and remand. Beneficial lenses or medication should not eliminate actual-disability coverage where the underlying impairment substantially limits the person's major life activity. Arline's functional protection and Bragdon's individualized method support examining these applicants' severe visual limitation while retaining proof of substantiality; the construction does not cover every eyeglass wearer. Actual functioning remains relevant to qualification, accommodation and supported safety defenses, which cannot erase the separate coverage inquiry. He agrees that exclusion from the global-airline-pilot position alone does not establish inability to work in a broad class of occupations. The actual seeing theory nevertheless requires assessment under the proper mitigation rule, and any preserved regarded-as theory must satisfy its own elements. He would award no automatic hiring, reinstatement or accommodation.
+**Stevens, joined by Breyer, concurring.** They join the Court in full. The agency guidance and legislative explanations persuasively reinforce the underlying-impairment reading because the statute separates protected status from the ability to perform work with assistance. Successful management should not itself defeat protection against impairment-based exclusion. Haggar’s requirements of actual authority and statutory fit do not prevent consideration of that persuasive reasoning, and no conclusion that all Appendix language has binding force is needed. Individual substantiality, the bounded reassessment, the independent regarded-as affirmance and ordinary qualification and safety defenses remain as the Court states them.
 
 #### Record Limits
 
-The governing provisions are the original 42 U.S.C. §§12102(2), 12111(8) and 12112, with the relevant 29 C.F.R. §1630.2 definitions and Appendix guidance. FAA certification does not establish the validity of every employer qualification, and an employer's safety contention is not a finding of actual risk.
+The judgment below, 130 F.3d 893, and the petition appendix, joint appendix and merits briefs supply the complaint allegations, all-pilot-positions assumption, United's acuity requirement and competing statutory and agency arguments. The governing provisions are the original 42 U.S.C. §§12102(2), 12111(8) and 12112 and the relevant 29 C.F.R. §1630.2 definitions and Appendix guidance. The actual-seeing and regarded-as-working theories retain their distinct scope. FAA certification does not establish the validity of every employer qualification, and an employer's safety contention is not a finding of actual risk.
 
 #### Mandate, Remedy, and Stage
 
-The Tenth Circuit's judgment affirming Rule 12(b)(6) dismissal remains effective. Supreme Court merits review is complete, subject to ordinary mandate procedure. No further factual inquiry, amended pleading, new trial or adjudication of the employer's safety and qualification defenses is directed.
+The actual-disability portion of the Tenth Circuit’s judgment is vacated and remanded for reassessment under the underlying-impairment rule. The regarded-as-working dismissal is affirmed. Supreme Court merits review is complete, subject to ordinary mandate procedure. The lower courts address individual substantial limitation and any properly presented qualification, accommodation or safety issues on their own elements; no employment award, automatic trial, new-evidence entitlement or amended pleading is directed.
 
 **End of entry: Sutton v. United Air Lines, Inc., Merits decision, June 22, 1999.**
 
