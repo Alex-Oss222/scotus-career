@@ -1185,13 +1185,13 @@ Actual impairment, residual burdens of correction and the asserted major life ac
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-30.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Vacate the adverse coverage judgment and remand under the original ADA’s proper mitigation rule.
-* **Stone's Remedy and Remand Position:** Reassess the actual-disability claim without using beneficial mitigation to defeat coverage; resolve any preserved regarded-as theory, qualification, accommodation and safety defense on its own elements.
+* **Stone's Controlled Judgment or Disposition:** Vacate the dismissal of the actual-disability claim and remand under the original ADA’s proper mitigation rule; affirm the dismissal of the regarded-as-working claim. Stone writes the Opinion of the Court.
+* **Stone's Remedy and Remand Position:** Reassess the actual-disability claim without using beneficial mitigation to defeat coverage, with individual proof that the underlying impairment substantially limits seeing; qualification, accommodation and safety defenses are resolved on their own elements. The regarded-as-working dismissal stands. No automatic hiring, reinstatement or accommodation award.
 
 ## C. ISSUE POSITIONS
 
@@ -1200,7 +1200,7 @@ Actual impairment, residual burdens of correction and the asserted major life ac
 * **Threshold and Merits Reach:** Decide the preserved question within this proceeding; the proposed result is a position, not an entered Court judgment.
 * **Question Stone Resolves:** How should substantial limitation be assessed?
 * **Stone's Legal Position:** Evaluate the qualifying impairment without treating beneficial correction or medication as eliminating coverage.
-* **Stone's Proposed Holding:** Evaluate the qualifying impairment without treating beneficial correction or medication as eliminating coverage.
+* **Stone's Proposed Holding:** Evaluate the qualifying impairment without treating beneficial correction or medication as eliminating coverage. The protections of the Americans with Disabilities Act do not disappear because an individual has successfully treated or mitigated an impairment. The existence of a qualifying disability must be distinguished from the individual’s capacity to perform particular employment duties. Effective treatment does not itself establish that the underlying impairment is outside the statute’s protection.
 * **Essential Reasoning and Record Application:** The twins allege severe uncorrected myopia. A person does not cease to have an impairment because lenses make ordinary activity possible. Reading coverage to turn on successful correction makes protection disappear precisely when treatment enables work, and improperly merges coverage with the separate question whether a person can perform the job with accommodation. Arline’s functional protection and Bragdon’s individualized approach support examining the underlying visual limitation while requiring proof that it is substantial. This construction rests on the original Act; it is not a categorical rule that every eyeglass wearer is disabled.
 * **Boundary or Reserved Question:** Beneficial mitigation is disregarded for this coverage inquiry; actual functioning remains relevant to qualification, accommodation and safety.
 
@@ -1208,8 +1208,8 @@ Actual impairment, residual burdens of correction and the asserted major life ac
 
 * **Threshold and Merits Reach:** Decide the preserved question within this proceeding; the proposed result is a position, not an entered Court judgment.
 * **Question Stone Resolves:** What remains after correcting the coverage rule?
-* **Stone's Legal Position:** Remand the adverse coverage judgment; require the elements of each actual-disability and regarded-as theory.
-* **Stone's Proposed Holding:** Remand the adverse coverage judgment; require the elements of each actual-disability and regarded-as theory.
+* **Stone's Legal Position:** Remand the actual-disability claim; affirm dismissal of the regarded-as-working claim because exclusion from the specialized global-airline-pilot category does not establish a perceived limitation across a class or broad range of jobs; each coverage theory requires its own elements.
+* **Stone's Proposed Holding:** Remand the actual-disability claim; affirm dismissal of the regarded-as-working claim because exclusion from the specialized global-airline-pilot category does not establish a perceived limitation across a class or broad range of jobs; each coverage theory requires its own elements.
 * **Essential Reasoning and Record Application:** Exclusion from the global-airline-pilot position alone does not show inability to work in a broad class of occupations. The claim concerning seeing is nevertheless independent and must be considered under the correct mitigation rule. The employer may contest qualification and defend a supported safety standard, but cannot use those defenses to erase the separate coverage question.
 * **Boundary or Reserved Question:** No automatic hiring, reinstatement or accommodation award.
 
