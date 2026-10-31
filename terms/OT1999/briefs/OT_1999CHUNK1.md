@@ -427,30 +427,31 @@
 
 * **Version:** OT_1999 reconciliation — Paul P. v. Verniero — October 31, 2026
 * **Approval Status:** Approved
-* **Approval Date or Turn:** October 31, 2026 — express user approval of all current stances in this chat.
+* **Approval Date or Turn:** October 31, 2026 — express user approval of all current stances in this chat. The revised position stated below was user-approved 2026-10-31.
 * **Current-Through Baseline:** June 23, 1999; subject to any actual, earlier effective OT_1999 judgment before this event.
 * **Conditions:** The judgment, holding, and remedy remain subject to the issue-specific record limits, reservations, and effective earlier same-term precedent stated in this brief.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Affirm in part, vacate in part, and remand.
+* **Stone's Controlled Judgment or Disposition:** Affirm in part, vacate in part, and remand. Affirm insofar as the judgment holds public conviction information unprotected, recognizes the public-safety notification objective, and remands for consideration of dissemination safeguards. Vacate the affirmance of summary judgment for the State insofar as it held, on the compelling-interest balance alone, that the claim against disclosure of compiled nonpublic home-address and identifying information fails as a matter of law; remand for further proceedings in which that claim is resolved in the District Court under the fitted-safeguards rule, together with the safeguards remand. The vacatur imposes no injunction or interim restraint on notification. The Part IV family-relationships ruling is outside the questions granted and is left undisturbed.
 * **Stone's Remedy and Remand Position:** Extend limited informational privacy; apply balancing within the governing rule; remand for dissemination safeguards.
+* **Stone's Authorized Partial Join:** Stone may join a Court opinion’s propositions recognizing the limited residential interest, the protective objective and fitted safeguards, and its retention of the safeguards remand, while dissenting from affirmance of summary judgment on the disclosure claim.
 
 ## C. ISSUE POSITIONS
 
 ### Issue 1: Privacy protection for home-address information
 
 * **Threshold and Merits Reach:** Stone reaches the merits of this issue. No separate threshold or vehicle bar identified in Section I prevents decision.
-* **Stone's Legal Position:** Affirm in part, vacate in part, and remand. Public safety can justify targeted notification after the individualized risk procedures required by *W.P.*, but the State must fit access to an actual safety need and maintain meaningful controls on recipients, use, scope, confidentiality, and redistribution. Stone would not prohibit all address disclosure, but neither would he treat compiled residential information as public merely because the underlying conviction is public.
+* **Stone's Legal Position:** Affirm in part, vacate in part, and remand, as stated in Section II.B. Public safety can justify targeted notification after the individualized risk procedures required by *W.P.* at *W.P.*’s actual scope, but the State must fit access to an actual safety need and maintain meaningful controls on recipients, use, scope, confidentiality, and redistribution. Stone would not prohibit all address disclosure, but neither would he treat compiled residential information as public merely because the underlying conviction is public.
 * **Stone's Proposed Holding:** Compiled nonpublic home-address and identifying information carries a limited privacy interest. Higher-tier notification may disclose it to persons with a concrete safety need only through safeguards reasonably fitted to the notification's protective function.
-* **Essential Reasoning and Record Application:** Affirm in part, vacate in part, and remand. Public safety can justify targeted notification after the individualized risk procedures required by *W.P.*, but the State must fit access to an actual safety need and maintain meaningful controls on recipients, use, scope, confidentiality, and redistribution. Stone would not prohibit all address disclosure, but neither would he treat compiled residential information as public merely because the underlying conviction is public. Stone carries W.P.’s process protection into the consequences actually at stake, while treating the home address as a separate disclosure interest. Safeguards must respond to the identified risk of unnecessary redisclosure, not suppress all legitimate notification or create perpetual secrecy for public convictions.
+* **Essential Reasoning and Record Application:** Affirm in part, vacate in part, and remand, as stated in Section II.B. Public safety can justify targeted notification after the individualized risk procedures required by *W.P.* at *W.P.*’s actual scope, but the State must fit access to an actual safety need and maintain meaningful controls on recipients, use, scope, confidentiality, and redistribution. Stone would not prohibit all address disclosure, but neither would he treat compiled residential information as public merely because the underlying conviction is public. Stone carries W.P.’s process protection into the consequences actually at stake, while treating the home address as a separate disclosure interest. Safeguards must respond to the identified risk of unnecessary redisclosure, not suppress all legitimate notification or create perpetual secrecy for public convictions.
 * **Boundary or Reserved Question:** The position does not conceal public conviction information, create a general secrecy right, or bar individualized notification to persons genuinely exposed to risk.
 ### Issue 2: Balancing and dissemination safeguards
 
 * **Threshold and Merits Reach:** Stone reaches the merits of this issue. No separate threshold or vehicle bar identified in Section I prevents decision.
-* **Stone's Legal Position:** Affirm in part, vacate in part, and remand. Public safety can justify targeted notification after the individualized risk procedures required by *W.P.*, but the State must fit access to an actual safety need and maintain meaningful controls on recipients, use, scope, confidentiality, and redistribution. Stone would not prohibit all address disclosure, but neither would he treat compiled residential information as public merely because the underlying conviction is public.
+* **Stone's Legal Position:** Affirm in part, vacate in part, and remand, as stated in Section II.B. Public safety can justify targeted notification after the individualized risk procedures required by *W.P.* at *W.P.*’s actual scope, but the State must fit access to an actual safety need and maintain meaningful controls on recipients, use, scope, confidentiality, and redistribution. Stone would not prohibit all address disclosure, but neither would he treat compiled residential information as public merely because the underlying conviction is public.
 * **Stone's Proposed Holding:** Compiled nonpublic home-address and identifying information carries a limited privacy interest. Higher-tier notification may disclose it to persons with a concrete safety need only through safeguards reasonably fitted to the notification's protective function.
-* **Essential Reasoning and Record Application:** Affirm in part, vacate in part, and remand. Public safety can justify targeted notification after the individualized risk procedures required by *W.P.*, but the State must fit access to an actual safety need and maintain meaningful controls on recipients, use, scope, confidentiality, and redistribution. Stone would not prohibit all address disclosure, but neither would he treat compiled residential information as public merely because the underlying conviction is public.
+* **Essential Reasoning and Record Application:** Affirm in part, vacate in part, and remand, as stated in Section II.B. Public safety can justify targeted notification after the individualized risk procedures required by *W.P.* at *W.P.*’s actual scope, but the State must fit access to an actual safety need and maintain meaningful controls on recipients, use, scope, confidentiality, and redistribution. Stone would not prohibit all address disclosure, but neither would he treat compiled residential information as public merely because the underlying conviction is public.
 * **Boundary or Reserved Question:** The position does not conceal public conviction information, create a general secrecy right, or bar individualized notification to persons genuinely exposed to risk.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
@@ -1039,13 +1040,13 @@
 * **October Term:** 1999
 * **Entry Stage and Event:** Pre-vote merits consideration at the historical delivery-date placement; no simulated judgment entered by this brief.
 * **Simulated Event Date:** 2000-01-11 — Historical event date as recorded in supplied term materials.
-* **Question Presented:** Whether defense counsel may waive the Interstate Agreement on Detainers’ requirement that a prisoner transferred under Article IV be brought to trial within 120 days of arrival by agreeing to a trial date outside that period, without the defendant’s personal assent.
-* **Question Granted:** Whether defense counsel may waive the Interstate Agreement on Detainers’ requirement that a prisoner transferred under Article IV be brought to trial within 120 days of arrival by agreeing to a trial date outside that period, without the defendant’s personal assent.
-* **Court and Judgment Under Review:** The New York Court of Appeals reversed Hill’s conviction and directed dismissal of the indictment, holding that counsel’s agreement to a later trial date did not waive the Article IV(c) deadline without Hill’s personal waiver.
+* **Question Presented:** Whether defense counsel may waive the Interstate Agreement on Detainers’ requirement that a prisoner who has requested final disposition under Article III be brought to trial within 180 days after the request by agreeing to a trial date outside that period, without the defendant’s personal assent.
+* **Question Granted:** Whether defense counsel may waive the Interstate Agreement on Detainers’ requirement that a prisoner who has requested final disposition under Article III be brought to trial within 180 days after the request by agreeing to a trial date outside that period, without the defendant’s personal assent.
+* **Court and Judgment Under Review:** The New York Court of Appeals, 92 N.Y.2d 406, 704 N.E.2d 542 (1998), reversed Hill’s conviction and directed dismissal of the indictment, holding that the Agreement’s speedy-trial rights may be waived either explicitly or by an affirmative request for treatment contrary to or inconsistent with them, and that counsel’s agreement to the later trial date was not such an affirmative request and so did not waive them.
 * **Relief Requested:** New York seeks reversal and reinstatement of the conviction, subject to any preserved issues not resolved by the state court.
-* **Material Record:** Alma Hill was serving a federal sentence when New York lodged a detainer and obtained his temporary custody under Article IV of the Interstate Agreement on Detainers. At a scheduling conference attended by Hill and counsel, defense counsel agreed to a trial date outside the 120-day period. Hill did not personally object at that time. After conviction, he sought dismissal under the Agreement’s anti-delay provisions.
+* **Material Record:** Michael Hill was a prisoner in Ohio when New York lodged a detainer against him. He signed a request for final disposition under Article III of the Interstate Agreement on Detainers and was returned to New York to face murder and robbery charges. Article III(a) provides a 180-day period after the prisoner’s request; this record does not involve Article IV(c)’s separate 120-day period after arrival. Several defense motions tolled the period during their pendency, and that tolling is uncontested. On January 9, 1995, the prosecutor and defense counsel appeared in court to set a trial date; the prosecutor proposed May 1, 1995, defense counsel expressly agreed when the court asked about that date, and the court set trial for May 1. The record does not establish that Hill personally attended that appearance or objected there. On April 17, 1995, before trial, Hill moved to dismiss the indictment, claiming that the statutory period had expired. The trial court found that 167 nonexcludable days had run when the date was set on January 9, so that the 180-day period would have elapsed if the later interval was chargeable to New York; that count is the trial court’s computation, not an independently reconstructed one. A jury then convicted Hill of second-degree murder and first-degree robbery, and the Appellate Division affirmed, 244 App. Div. 2d 927, 668 N.Y.S.2d 126 (1997).
 * **Threshold, Preservation, and Vehicle Matters:** The Agreement is congressionally sanctioned federal law. The question concerns waiver of a scheduling deadline, not waiver of trial, guilty plea, jury, counsel, or the right to insist on dismissal after an unexcused violation. The record must support that counsel actually agreed to the date and that no separate objection or condition preserved the deadline.
-* **Relevant Dates:** The scheduling agreement occurred after Hill’s transfer to New York custody; the New York Court of Appeals entered the judgment under review in 1998; the simulated decision date is January 11, 2000.
+* **Relevant Dates:** Defense counsel agreed to the May 1 trial date on January 9, 1995; Hill moved to dismiss on April 17, 1995; the New York Court of Appeals entered the judgment under review in 1998; the simulated decision date is January 11, 2000.
 * **Companion or Related Matters:** None identified.
 * **Participation Matter:** No recusal or nonparticipation is identified.
 
@@ -1056,18 +1057,18 @@
 * **Unresolved Same-Term Dependencies:** No particular earlier pending matter is identified as necessary to resolve this case. Any subsequently completed, materially relevant decision must be applied only from its effective date.
 * **Institutional or Procedural Law:** Ordinary jurisdiction, preservation, standard-of-review, and remedial rules applicable to Criminal procedure — counsel’s waiver of the Interstate Agreement on Detainers trial deadline.
 
-### Issue 1: Counsel’s authority to waive the Article IV(c) scheduling deadline
+### Issue 1: Counsel’s authority to waive the Article III(a) scheduling deadline
 
 * **Controlling Simulated Law:** Fex v. Michigan establishes the compact’s federal character and treats its trial-period trigger as a statutory rule. Reed v. Farley keeps statutory violation, preservation, and collateral consequence distinct. United States v. Mezzanatto recognizes that statutory protections may be knowingly waived unless text, structure, or public policy makes the protection nonwaivable.
 * **Current Reusable Doctrine:** Decisions concerning ordinary scheduling and trial management ordinarily fall within counsel’s authority, while waivers that define the fundamental objective of the defense or surrender a right reserved to the accused personally require the defendant’s own informed choice.
-* **Other Governing Law:** Interstate Agreement on Detainers, Article IV(c) and Article V(c); the Sixth Amendment allocation between counsel and accused.
+* **Other Governing Law:** Interstate Agreement on Detainers, Article III(a) and Article V(c); the Sixth Amendment allocation between counsel and accused.
 * **Material Other Authority:** Taylor v. Illinois and New York v. Hill’s state-court authorities concerning counsel’s control over tactical and scheduling matters.
-* **Open Point:** Entering law does not expressly decide whether Article IV(c) is personally waivable only or may be waived through counsel’s agreement to a trial date.
+* **Open Point:** Entering law does not expressly decide whether Article III(a) is personally waivable only or may be waived through counsel’s agreement to a trial date.
 
 ## C. DECISION-MATERIAL LITIGATION POSITIONS
 
-* **Controlling reasoning below:** The New York Court of Appeals reversed Hill’s conviction and directed dismissal of the indictment, holding that counsel’s agreement to a later trial date did not waive the Article IV(c) deadline without Hill’s personal waiver.
-* **Petitioner’s or appellant’s strongest supported position:** When defense counsel expressly agrees to a trial date outside Article IV(c)’s period, the defendant may not obtain dismissal on the ground that the agreed date exceeded the statutory deadline, absent a preserved objection, conflict, or showing that counsel lacked authority in the particular proceeding.
+* **Controlling reasoning below:** The New York Court of Appeals, 92 N.Y.2d 406, 704 N.E.2d 542 (1998), reversed Hill’s conviction and directed dismissal of the indictment, holding that the Agreement’s speedy-trial rights may be waived either explicitly or by an affirmative request for treatment contrary to or inconsistent with them, and that counsel’s agreement to the later trial date was not such an affirmative request and so did not waive them.
+* **Petitioner’s or appellant’s strongest supported position:** When defense counsel expressly agrees to a trial date outside Article III(a)’s period, the defendant may not obtain dismissal on the ground that the agreed date exceeded the statutory deadline, absent a preserved objection, conflict, or showing that counsel lacked authority in the particular proceeding.
 * **Respondent’s or appellee’s strongest supported position:** The party defending the judgment relies on the lower court’s stated rule, the record findings and procedural posture summarized above, and the argument that the requested change would exceed the governing source or remedy.
 * **Necessary concessions and limiting principles:** The presented question does not require the Court to hold that counsel may waive the Agreement wholesale, consent to indefinite or bad-faith delay, surrender the right to counsel, or override a defendant’s express timely objection. Nor does the holding excuse delay not attributable to a genuine agreement or another statutory exception.
 * **Solicitor General or amicus position:** No separate position is included unless it performs work in the cited record or governing authorities.
@@ -1079,7 +1080,7 @@
 * **Merits path favoring reversal or vacatur:** Apply the competing rule stated above if it controls and the record permits final application.
 * **Judgment consequence:** The disposition must match the court and judgment under review and may not decide an unpresented claim.
 * **Remedial consequence:** Remand is required when a material factual finding, preserved alternative ground, damages issue, or remedy cannot be resolved on the existing record.
-* **Material uncertainty:** Entering law does not expressly decide whether Article IV(c) is personally waivable only or may be waived through counsel’s agreement to a trial date.
+* **Material uncertainty:** Entering law does not expressly decide whether Article III(a) is personally waivable only or may be waived through counsel’s agreement to a trial date.
 
 ## E. SOURCES
 
@@ -1093,24 +1094,24 @@
 
 * **Version:** OT_1999 reconciliation — New York v. Hill — October 31, 2026
 * **Approval Status:** Approved
-* **Approval Date or Turn:** October 31, 2026 — express user approval of all current stances in this chat.
+* **Approval Date or Turn:** October 31, 2026 — express user approval of all current stances in this chat. The revised position stated below was user-approved 2026-10-31.
 * **Current-Through Baseline:** June 23, 1999; subject to any actual, earlier effective OT_1999 judgment before this event.
 * **Conditions:** The judgment, holding, and remedy remain subject to the issue-specific record limits, reservations, and effective earlier same-term precedent stated in this brief.
 
 ## B. JUDGMENT AND REMEDY
 
 * **Stone's Controlled Judgment or Disposition:** Reverse the judgment of the New York Court of Appeals.
-* **Stone's Remedy and Remand Position:** Reinstate the conviction as against the Article IV(c) dismissal ground and remand for any preserved state or federal issue not resolved by the court below.
+* **Stone's Remedy and Remand Position:** Reinstate the conviction as against the Article III(a)/Article V(c) dismissal ground and remand for any preserved state or federal issue not resolved by the court below.
 
 ## C. ISSUE POSITIONS
 
-### Issue 1: Counsel’s authority to waive the Article IV(c) scheduling deadline
+### Issue 1: Counsel’s authority to waive the Article III(a) scheduling deadline
 
-* **Threshold and Merits Reach:** Stone reaches the federal statutory question because the state court’s dismissal rests on the premise that counsel lacked authority to agree to the later date.
-* **Stone's Legal Position:** The 120-day provision protects the accused against prosecutorial delay, but selecting a trial date within the ordinary management of a represented case is a matter counsel may handle. A represented defendant need not personally repeat counsel’s agreement before the court may rely on it.
-* **Stone's Proposed Holding:** When defense counsel expressly agrees to a trial date outside Article IV(c)’s period, the defendant may not obtain dismissal on the ground that the agreed date exceeded the statutory deadline, absent a preserved objection, conflict, or showing that counsel lacked authority in the particular proceeding.
-* **Essential Reasoning and Record Application:** The Agreement contains no personal-waiver command for this scheduling provision. Counsel must be able to coordinate preparation, witnesses, competing proceedings, and the court’s calendar. Treating every scheduling accommodation as ineffective without a personal colloquy would impair representation and create a dismissal trap unrelated to the delay the compact targets. Hill was present, counsel agreed to the date, and the record identifies no contemporaneous reservation of the 120-day objection.
-* **Boundary or Reserved Question:** Stone does not hold that counsel may waive the Agreement wholesale, consent to indefinite or bad-faith delay, surrender the right to counsel, or override a defendant’s express timely objection. Nor does the holding excuse delay not attributable to a genuine agreement or another statutory exception.
+* **Threshold and Merits Reach:** Stone reaches the federal statutory question because the state court’s dismissal rests on the premise that counsel’s express agreement to the later date did not waive the Article III(a) period.
+* **Stone's Legal Position:** The 180-day provision protects the accused against prosecutorial delay, but selecting a trial date within the ordinary management of a represented case is a matter counsel may handle. A represented defendant need not personally attend, or personally repeat, counsel’s agreement before the court may rely on it.
+* **Stone's Proposed Holding:** When defense counsel expressly agrees to a trial date outside Article III(a)’s period, the defendant may not obtain dismissal on the ground that the agreed date exceeded the statutory deadline, absent a contemporaneous objection or reservation when the date is set, conflict, or showing that counsel lacked authority in the particular proceeding.
+* **Essential Reasoning and Record Application:** The Agreement contains no personal-waiver command for this scheduling provision. Counsel must be able to coordinate preparation, witnesses, competing proceedings, and the court’s calendar. Treating every scheduling accommodation as ineffective without a personal colloquy would impair representation and create a dismissal trap unrelated to the delay the compact targets. Counsel expressly agreed in court on January 9, 1995 to the May 1 date, and the record identifies no contemporaneous objection or reservation of the 180-day objection. Hill’s personal attendance is not established and is not required. His April 17 motion came after the period, on the trial court’s count, would already have run if the agreed interval were chargeable to New York; it is neither a contemporaneous reservation nor a timely objection to the agreed date.
+* **Boundary or Reserved Question:** Stone does not hold that counsel may waive the Agreement wholesale, consent to indefinite or bad-faith delay, surrender the right to counsel, or override a defendant’s express timely objection. Nor does the holding excuse delay not attributable to a genuine agreement or another statutory exception. Stone does not decide any Article IV(c) question or whether an agreed date itself establishes good cause for an Article III(a) continuance.
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -1118,7 +1119,7 @@
 
 * **Historical Outcome and Vote:** Reversed, 9–0.
 * **Historical Opinion Structure:** Justice Scalia delivered the opinion for a unanimous Court.
-* **Historical Holding:** Defense counsel’s agreement to a trial date outside the Interstate Agreement on Detainers’ 120-day period waives the defendant’s right to obtain dismissal on that ground; scheduling is ordinarily entrusted to counsel.
+* **Historical Holding:** Defense counsel’s agreement to a trial date outside the Interstate Agreement on Detainers’ Article III(a) 180-day period waives the defendant’s right to obtain dismissal on that ground; scheduling is ordinarily entrusted to counsel.
 * **Historical Authority:** Opinion of the Court.
 * **Historical Sources:** [Official U.S. Reports source](https://www.govinfo.gov/app/details/USREPORTS-528/USREPORTS-528-110); Official U.S. Reports, 528 U.S. 110 (2000).
 

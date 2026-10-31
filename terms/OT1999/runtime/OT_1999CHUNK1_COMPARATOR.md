@@ -192,7 +192,7 @@
 
 * **Historical Outcome and Vote:** Reversed, 9–0.
 * **Historical Opinion Structure:** Justice Scalia delivered the opinion for a unanimous Court.
-* **Historical Holding:** Defense counsel’s agreement to a trial date outside the Interstate Agreement on Detainers’ 120-day period waives the defendant’s right to obtain dismissal on that ground; scheduling is ordinarily entrusted to counsel.
+* **Historical Holding:** Defense counsel’s agreement to a trial date outside the Interstate Agreement on Detainers’ Article III(a) 180-day period waives the defendant’s right to obtain dismissal on that ground; scheduling is ordinarily entrusted to counsel.
 * **Historical Authority:** Opinion of the Court.
 * **Historical Sources:** [Official U.S. Reports source](https://www.govinfo.gov/app/details/USREPORTS-528/USREPORTS-528-110); Official U.S. Reports, 528 U.S. 110 (2000).
 
