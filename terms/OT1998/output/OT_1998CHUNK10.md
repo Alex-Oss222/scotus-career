@@ -1123,9 +1123,7 @@ Parts I–II have five direct votes; Part III has nine. No plurality or narrowes
 
 ##### Holding 1— Beneficial mitigation does not eliminate underlying-impairment coverage
 
-**Holding and operative rule:** Under the original 42 U.S.C. §12102(2)(A), successful mitigating measures do not erase the underlying impairment: whether it substantially limits a major life activity is assessed without treating beneficial correction or medication as eliminating that limitation. Individual proof of substantial limitation remains necessary; this is not a categorical rule that every eyeglass wearer is disabled.
-
-Evaluate the qualifying impairment without treating beneficial correction or medication as eliminating coverage. The protections of the Americans with Disabilities Act do not disappear because an individual has successfully treated or mitigated an impairment. The existence of a qualifying disability must be distinguished from the individual’s capacity to perform particular employment duties. Effective treatment does not itself establish that the underlying impairment is outside the statute’s protection.
+**Holding and operative rule:** Under the original 42 U.S.C. §12102(2)(A), successful mitigating measures do not erase the underlying impairment: whether it substantially limits a major life activity is assessed without treating beneficial correction or medication as eliminating that limitation. The protections of the Americans with Disabilities Act do not disappear because an individual has successfully treated or mitigated an impairment. The existence of a qualifying disability must be distinguished from the individual’s capacity to perform particular employment duties. Effective treatment does not itself establish that the underlying impairment is outside the statute’s protection. Individual proof of substantial limitation remains necessary; this is not a categorical rule that every eyeglass wearer is disabled.
 
 **Authority:** Part I of Chief Justice Stone-Zsela’s Opinion of the Court, joined by Stevens, Souter, Ginsburg and Breyer. All five adopt the rule, individualized-proof requirement and separation of coverage from qualification, accommodation and safety.
 
@@ -1175,7 +1173,7 @@ Assuming working is a major life activity, the regarded-as theory presented here
 
 #### Record Limits
 
-The judgment below, 130 F.3d 893, and the petition appendix, joint appendix and merits briefs supply the complaint allegations, all-pilot-positions assumption, United's acuity requirement and competing statutory and agency arguments. The governing provisions are the original 42 U.S.C. §§12102(2), 12111(8) and 12112 and the relevant 29 C.F.R. §1630.2 definitions and Appendix guidance. The actual-seeing and regarded-as-working theories retain their distinct scope. FAA certification does not establish the validity of every employer qualification, and an employer's safety contention is not a finding of actual risk.
+The governing provisions are the original 42 U.S.C. §§12102(2), 12111(8) and 12112, with the relevant 29 C.F.R. §1630.2 definitions and Appendix guidance. FAA certification does not establish the validity of every employer qualification, and an employer's safety contention is not a finding of actual risk.
 
 #### Mandate, Remedy, and Stage
 

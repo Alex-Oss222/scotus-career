@@ -19,12 +19,12 @@
     "counts_before": {
       "Stone-Zsela": 12,
       "Stevens": 12,
-      "O'Connor": 14,
+      "O'Connor": 13,
       "Scalia": 12,
       "Kennedy": 13,
       "Souter": 12,
       "Thomas": 12,
-      "Ginsburg": 12,
+      "Ginsburg": 13,
       "Breyer": 13
     },
     "last_counted": "murphy_v_united_parcel_service_inc_merits_1999-06-22.md",
@@ -39,6 +39,7 @@
     "minimum_eligible_count": 12,
     "pool": [
       "Stone-Zsela",
+      "O'Connor",
       "Souter",
       "Ginsburg",
       "Breyer"

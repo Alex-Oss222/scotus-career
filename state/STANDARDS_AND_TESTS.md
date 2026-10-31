@@ -3342,12 +3342,12 @@ A parent or legal guardian is exempt from every FACE penalty and civil remedy, i
 
 **Governing question:** Whether actual-disability coverage under original §12102(2)(A) is assessed with measures the individual uses.
 
-**Current rule:** Substantial limitation is assessed with the mitigating measures the individual actually employs, including beneficial effects, residual restrictions and adverse treatment effects. Effective correction neither erases the impairment nor categorically excludes disability; the actual individual still must have a substantial limitation of a major life activity. The inquiry imputes no different drug, higher dosage, perfect normalization or obligation to accept additional treatment. Untreated severity alone does not establish actual disability when the actual treated condition lacks substantial limitation.
+**Current rule:** Successful mitigating measures do not erase the underlying impairment. Whether it substantially limits a major life activity is assessed without treating the beneficial effects of correction or medication as eliminating that limitation. The individual still must prove a substantial limitation of a major life activity; a diagnosis or the use of lenses or a prescription alone does not establish disability, and no corrected or treated condition is automatically covered. Actual functioning with treatment remains relevant to qualification, reasonable accommodation and legitimate safety standards, which are resolved on their own elements. No duty to stop treatment follows.
 
 **Authority by component:**
 
-- Murphy v. United Parcel Service, Inc. — Canonical Decision Record, Holdings, “Actual disability is assessed with the mitigating measures the individual actually uses”, 1999-06-22; O’Connor Part I with Scalia, Kennedy, Souter, Thomas and Ginsburg.
-- Sutton v. United Air Lines, Inc. — Canonical Decision Record, Holdings, “Holding 1— Measures actually used are part of individual actual-disability assessment”, 1999-06-22; Kennedy with O’Connor, Scalia, Souter, Thomas and Ginsburg. The same-day decisions independently resolve Bragdon’s general mitigation reservation.
+- Murphy v. United Parcel Service, Inc. — Canonical Decision Record, Holdings, “Actual disability is assessed without treating successful mitigation as eliminating the underlying limitation”, 1999-06-22; Ginsburg Part I with Stone-Zsela, Stevens, Souter and Breyer.
+- Sutton v. United Air Lines, Inc. — Canonical Decision Record, Holdings, “Holding 1— Beneficial mitigation does not eliminate underlying-impairment coverage”, 1999-06-22; Stone-Zsela Part I with Stevens, Souter, Ginsburg and Breyer. The same-day decisions independently resolve Bragdon’s general mitigation reservation.
 
 **Present operation effective:** Murphy and Sutton, June 22, 1999.
 
@@ -3355,7 +3355,7 @@ A parent or legal guardian is exempt from every FACE penalty and civil remedy, i
 
 **Related current rules:** Actual disability and substantial limitation of reproduction retains Bragdon’s individual reproductive-risk application; Objective assessment of an ADA direct threat remains distinct from coverage.
 
-**Holdings navigation:** [Murphy v. United Parcel Service, Inc. — Actual disability is assessed with the mitigating measures the individual actually uses](HOLDINGS.md#actual-disability-is-assessed-with-the-mitigating-measures-the-individual-actually-uses-1); [Sutton v. United Air Lines, Inc. — Holding 1— Measures actually used are part of individual actual-disability assessment](HOLDINGS.md#holding-1-measures-actually-used-are-part-of-individual-actual-disability-assessment-1).
+**Holdings navigation:** [Murphy v. United Parcel Service, Inc. — Actual disability is assessed without treating successful mitigation as eliminating the underlying limitation](HOLDINGS.md#actual-disability-is-assessed-without-treating-successful-mitigation-as-eliminating-the-underlying-limitation-1); [Sutton v. United Air Lines, Inc. — Holding 1— Beneficial mitigation does not eliminate underlying-impairment coverage](HOLDINGS.md#holding-1-beneficial-mitigation-does-not-eliminate-underlying-impairment-coverage-1).
 
 ### Title II integration and fundamental alteration
 
@@ -9962,7 +9962,7 @@ Closing a contributory benefit structure to new entrants while the plan and obli
 **Authority by component:**
 
 - Murphy v. United Parcel Service, Inc. — Canonical Decision Record, Holdings, “Regarded-as coverage requires a perceived substantial occupational limitation”, 1999-06-22; Part II-A, all nine Justices. Supplies the perceived-class framework on the assumed regulatory definitions.
-- Sutton v. United Air Lines, Inc. — Canonical Decision Record, Holdings, “Holding 3 — The alleged perceived restriction is confined to a specialized job category”, 1999-06-22; Kennedy with O’Connor, Scalia, Souter, Thomas and Ginsburg. Supplies the specialized-category limit while assuming working is a major life activity.
+- Sutton v. United Air Lines, Inc. — Canonical Decision Record, Holdings, “Holding 3 — The alleged perceived restriction is confined to a specialized job category”, 1999-06-22; Stone-Zsela Part III, all nine Justices. Supplies the specialized-category limit while assuming working is a major life activity.
 
 **Present operation effective:** Murphy and Sutton, June 22, 1999.
 

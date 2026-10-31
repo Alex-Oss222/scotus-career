@@ -74,17 +74,17 @@ The Chief assigns because he belongs to the five-Justice reversal coalition. The
 
 | Justice | Count before assignment |
 |---|---:|
-| Stone-Zsela | 12 |
+| Stone-Zsela | 13 |
 | Stevens | 12 |
-| O'Connor | 14 |
+| O'Connor | 13 |
 | Scalia | 12 |
-| Kennedy | 14 |
+| Kennedy | 13 |
 | Souter | 13 |
 | Thomas | 12 |
-| Ginsburg | 13 |
+| Ginsburg | 14 |
 | Breyer | 13 |
 
-**Assigning Justice:** Chief Justice Stone-Zsela. **Eligible authors for the entire lead:** Stone-Zsela only. **Balance pool:** Stone-Zsela; minimum 12, ceiling 13. **Chosen author:** Stone-Zsela. **Last event counted:** Alden v. Maine, June 23, 1999. This is a mandatory sole-pool assignment, not a preference based on importance, office or subject interest.
+**Assigning Justice:** Chief Justice Stone-Zsela. **Eligible authors for the entire lead:** Stone-Zsela only. **Balance pool:** Stone-Zsela; minimum 13, ceiling 14. **Chosen author:** Stone-Zsela. **Last event counted:** Alden v. Maine, June 23, 1999. This is a mandatory sole-pool assignment, not a preference based on importance, office or subject interest.
 
 Stone fully supports every actual lead proposition and the reversal remedy. Stevens refuses the adverse §5 and consent portions and does not adopt the Article I route; Souter, Ginsburg and Breyer refuse the adverse consent portion and do not adopt that route. O'Connor, Scalia, Kennedy and Thomas are outside the reversal coalition and reject its Article I scope basis. Their agreement with particular negative portions does not make them eligible to deliver this whole lead. Because one eligible author can carry every part, §8 does not permit dividing authorship merely to obtain different pools. No adverse majority-supported portion is dropped to enlarge eligibility, and no consent rationale is attributed to Stone.
 
@@ -260,7 +260,7 @@ They answer the objection that Congress alone imposed liability by treating this
 
 He accepts the distinction between prevention and constitutional redefinition, rather than substituting general rational-basis review for Boerne. Haddle's statutory-injury distinction does not deny existing business property, and Sullivan's protection of substantive claims reinforces the need to identify and protect that interest. He would sustain the challenged §5 application as an independent ground for reversal. He finds neither the allegations true nor any remedy presently due. No other Justice joins this ground.
 
-**O'Connor, joined by Scalia, Kennedy and Thomas, dissenting.** They join the statutory clarity, §5 and consent holdings but would affirm within the two questions presented. Direct Article I abrogation identifies a different constitutional source; it answers neither whether Congress validly exercised §5 nor whether Florida actually consented. The same claim and the usefulness of an alternative do not themselves establish fair inclusion or an independently justified exception. Lebron concerns an included legal argument, while X-Citement Video permits a prevailing respondent to defend the same favorable judgment; CSB seeks reversal. Murphy and Olmstead reinforce attention to the actual grant rather than preservation or briefing alone.
+**O'Connor, joined by Scalia, Kennedy and Thomas, dissenting.** They join the statutory clarity, §5 and consent holdings but would affirm within the two questions presented. Direct Article I abrogation identifies a different constitutional source; it answers neither whether Congress validly exercised §5 nor whether Florida actually consented. The same claim and the usefulness of an alternative do not themselves establish fair inclusion or an independently justified exception. Lebron concerns an included legal argument, while X-Citement Video permits a prevailing respondent to defend the same favorable judgment; CSB seeks reversal. Murphy and Olmstead reinforce attention to the actual grant; each leaves a presented but ungranted question undecided.
 
 Their affirmance does not apply a categorical Seminole prohibition that the Court never adopted. Union Gas survives, and they leave the distinct Article I route undecided in this review. They preserve genuine voluntary waiver, valid §5 enforcement and properly available officer relief while finding neither of the presented routes sufficient for this claim. They would leave only the reviewed federal immunity dismissal in force and decide no underlying advertising violation, broader TRCA application or separate proceeding.
 

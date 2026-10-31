@@ -70,7 +70,7 @@ The verified petition presents §5 power for the own-product false-advertising a
 
 The exact **“Presented questions, subsidiary arguments and exceptional Supreme Court review”** Standard retains Lebron's February 21, 1995 included-argument discretion, X-Citement Video's November 29, 1994 unchanged-favorable-judgment defense, and Izumi/Caspari/Madsen's separate components. The new June 22 illustrations have been considered on their actual facts:
 
-- Murphy's expressly limited grant did not include a separate treated-state evidentiary issue merely because preserved and briefed; it nevertheless preserved properly supported respondent alternatives. This is relevant but does not turn the generic IP grant into Murphy's express exclusion of two petition questions.
+- Murphy's expressly limited grant left its two presented but ungranted petition questions undecided; it nevertheless preserved properly supported respondent alternatives. This is relevant but does not turn the generic IP grant into Murphy's express exclusion of two petition questions.
 - Kolstad treated punitive employer attribution as part of the very punitive-remedy inquiry granted. That shows actual inclusion depends on the legal work of the ground, rather than the fact that it is separately formulated.
 - Olmstead treated the express fundamental-alteration limit as fairly included in the granted statutory duty question, while leaving the separate §5 question outside the grant. A duty's own limitation differs from an independent constitutional source supporting a different immunity answer.
 

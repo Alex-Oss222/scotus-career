@@ -64,14 +64,14 @@
   "fresh_recount": {
     "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_RECOUNT.json",
     "counts": {
-      "Stone-Zsela": 13,
+      "Stone-Zsela": 14,
       "Stevens": 13,
-      "O'Connor": 14,
+      "O'Connor": 13,
       "Scalia": 12,
-      "Kennedy": 14,
+      "Kennedy": 13,
       "Souter": 13,
       "Thomas": 12,
-      "Ginsburg": 13,
+      "Ginsburg": 14,
       "Breyer": 13
     },
     "counted_opinions": 117,
@@ -104,10 +104,11 @@
     "assigner": "Stone-Zsela",
     "eligible_minimum": 12,
     "pool": [
+      "O'Connor",
       "Scalia",
+      "Kennedy",
       "Souter",
-      "Thomas",
-      "Ginsburg"
+      "Thomas"
     ],
     "author": "Thomas",
     "basis": "Fit: actual Amchem settlement-prerequisite, representation and antecedent nonmerits work; Scalia strongest equal-count alternative; no necessary expansion accommodation"

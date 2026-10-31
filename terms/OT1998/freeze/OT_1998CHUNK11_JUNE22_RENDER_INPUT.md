@@ -242,7 +242,7 @@ The judgment is affirmed in part and vacated in part. The actual-disability cove
 
 **Affirmed in part and vacated in part.**
 
-| Coverage component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+| Coverage component | Disposition and vote | Supporting Justices | Opposing or other positions | Remedy or remand |
 |---|---|---|---|---|
 | Actual disability | Vacated and remanded, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O’Connor, Scalia, Kennedy, Thomas | Individualized reassessment without beneficial mitigation defeating coverage; no final disability finding |
 | Regarded-as coverage | Affirmed, 6–3 | O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stone-Zsela, Stevens, Breyer | Rejection on perceived occupational-breadth proof stands; Stone-Zsela would remand this route, while Stevens and Breyer make no independent application decision |
@@ -254,7 +254,7 @@ All nine join the perceived-class framework and nonreach of Questions 2–3. The
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court, Parts I and IV as to actual disability | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer | Vacates and remands the actual-disability judgment | Underlying impairment without beneficial mitigation; individualized proof and reassessment; separate qualification, accommodation and safety elements |
-| Opinion of the Court, Part II-B and IV as to regarded-as coverage | Ginsburg | O’Connor, Scalia, Kennedy, Souter, Thomas | Affirms the regarded-as rejection | Insufficient perceived occupational-breadth proof on this record |
+| Opinion of the Court, Parts II-B and IV as to regarded-as coverage | Ginsburg | O’Connor, Scalia, Kennedy, Souter, Thomas | Affirms the regarded-as rejection | Insufficient perceived occupational-breadth proof on this record |
 | Opinion of the Court, Part II-A | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common legal framework; three Justices do not join the application | Perceived substantial limitation of a class or broad range of jobs, distinct from regulatory motive |
 | Opinion of the Court, Part III | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common Supreme Court nonreach | Qualification and DOT defenses reserved, no automatic certification or waiver determination |
 | Concurring opinion | Stevens | Breyer | Joins actual-disability vacatur and Parts II-A and III; no Part II-B join | Persuasive guidance supports the underlying-impairment rule; individualized reassessment without a final disability finding |

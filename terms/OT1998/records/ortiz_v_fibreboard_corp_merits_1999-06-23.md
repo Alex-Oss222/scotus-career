@@ -39,19 +39,19 @@ The fresh recount was performed from zero with [ot1998_chunk11_recount.py](../au
 
 | Justice | Count before Ortiz | Full lead eligible | Balance pool |
 |---|---:|---|---|
-| Stone-Zsela | 13 | No: material partial support | No |
+| Stone-Zsela | 14 | No: material partial support | No |
 | Stevens | 13 | No: opposed applications and disposition | No |
-| O'Connor | 14 | Yes | No |
+| O'Connor | 13 | Yes | Yes |
 | Scalia | 12 | Yes | Yes |
-| Kennedy | 14 | Yes | No |
+| Kennedy | 13 | Yes | Yes |
 | Souter | 13 | Yes | Yes |
 | Thomas | 12 | Yes | Yes |
-| Ginsburg | 13 | Yes | Yes |
+| Ginsburg | 14 | Yes | No |
 | Breyer | 13 | No: opposed applications and disposition | No |
 
-The eligible minimum is twelve; the pool is Scalia, Souter, Thomas and Ginsburg. The Chief assigns Thomas. Fit, rather than expansion, governs because the six already share settled legal ground and no necessary join turns on an unresolved drafting accommodation. Thomas's actual Amchem opinion performs the closest legal work: separating settlement benefits from mandatory prerequisites, giving independent effect to materially conflicting bargaining interests, and preserving the antecedent nonmerits sequence without assuming substantive jurisdiction. Those concrete tasks recur here alongside the new limited-fund construction.
+The eligible minimum is twelve; the pool is O'Connor, Scalia, Kennedy, Souter and Thomas. The Chief assigns Thomas. Fit, rather than expansion, governs because the six already share settled legal ground and no necessary join turns on an unresolved drafting accommodation. Thomas's actual Amchem opinion performs the closest legal work: separating settlement benefits from mandatory prerequisites, giving independent effect to materially conflicting bargaining interests, and preserving the antecedent nonmerits sequence without assuming substantive jurisdiction. Those concrete tasks recur here alongside the new limited-fund construction.
 
-Scalia is the strongest equal-count alternative: his full commitments and rule/Enabling Act reasoning can carry the entire opinion. Thomas has the more direct demonstrated connection to the combined settlement, adequacy and sequencing work this opinion must coordinate. Souter's historical Ortiz writing demonstrates capability but supplies no entitlement to assignment; Ginsburg's Castano work supplies strong certification capability. Neither higher-count alternative provides a necessary accommodation or other advantage warranting preference over Thomas at twelve. O'Connor and Kennedy remain outside the pool at fourteen. Stone's inability to join Part II-B makes self-assignment unavailable for the complete lead. No historical authorship is imported as an assignment instruction.
+Scalia is the strongest equal-count alternative: his full commitments and rule/Enabling Act reasoning can carry the entire opinion. Thomas has the more direct demonstrated connection to the combined settlement, adequacy and sequencing work this opinion must coordinate. Kennedy's full Amchem join and representation cases support the adequacy holding, and O'Connor's Richards and Matsushita work supports binding absent claimants only through lawful protection; neither has Thomas's own Amchem work on settlement prerequisites, conflicting interests and nonmerits sequencing, and O'Connor did not participate in Amchem. Souter's historical Ortiz writing demonstrates capability but supplies no entitlement to assignment, necessary accommodation or other advantage warranting preference over Thomas. Ginsburg's Castano work supplies strong certification capability, but she is outside the pool. Stone's inability to join Part II-B makes self-assignment unavailable for the complete lead. No historical authorship is imported as an assignment instruction.
 
 The separate dissent is assigned to Breyer for his supported settlement-sensitive appraisal and explanation of the existing findings, joined by Stevens. It is not counted. Stone authors the concurrence necessary to preserve his own material requirement. Scalia and Kennedy's practical sympathy adds no operative qualification to their complete lead joins; no redundant separate concurrence is created from the historical comparator.
 

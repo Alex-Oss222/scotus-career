@@ -81,7 +81,7 @@
     "Ginsburg"
   ],
   "assignment": {
-    "assigning_justice": "Stone-Zsela for actual disability; O\u2019Connor for regarded-as coverage",
+    "assigning_justice": "Stone-Zsela for actual disability; O'Connor for regarded-as coverage",
     "prior_counts": {
       "Stone-Zsela": 12,
       "Stevens": 12,
@@ -105,7 +105,7 @@
     "pool_rule_applicable": true,
     "pool_explanation": "The Chief assigns the actual-disability component from Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; minimum 12, ceiling 13. O\u2019Connor assigns P5. A single author must join both components; Souter and Ginsburg constitute the common eligible pool, minimum 12 and ceiling 13.",
     "chosen_author": "Ginsburg",
-    "basis": "Both assigners choose Ginsburg for her independent W3 perceived-occupation conclusion rejecting the motive shortcut, F1 no-finding vacatur on the unreconciled regimen and residual evidence, Bragdon continuing-impairment concurrence and X-Citement Video scope analysis. Souter is the strongest alternative; Ginsburg\u2019s independent support for P5 supplies the closer fit. Counts play no part in the choice."
+    "basis": "Both assigners choose Ginsburg for her independent W3 perceived-occupation conclusion rejecting the motive shortcut, T2/F3 no-finding vacatur on the unreconciled regimen and material residual evidence, Bragdon continuing-impairment concurrence and X-Citement Video scope analysis. Souter is the strongest alternative; Ginsburg\u2019s independent support for P5 supplies the closer fit. Counts play no part in the choice."
   },
   "delegated_new_stone_substance_used": false,
   "checks": {
@@ -241,7 +241,7 @@
       "authority": "controlling"
     },
     {
-      "writing": "Opinion of the Court, Part II-B and IV as to regarded-as coverage",
+      "writing": "Opinion of the Court, Parts II-B and IV as to regarded-as coverage",
       "author": "Ginsburg",
       "including_author": [
         "O'Connor",

@@ -5,7 +5,7 @@
 
 ## Record status
 
-Canonical merits decision for June 22, 1999. Chief Justice Stone-Zsela assigns himself the signed Opinion of the Court after the form, governing propositions and component coalitions are fixed. Parts I–II command five votes for the underlying-impairment rule and actual-disability vacatur; Part III commands all nine votes for the regarded-as-working affirmance. This Record is authoritative at its stated scope.
+Canonical merits decision finalized for the June 22, 1999 event. The complete pre-June 22 public-law screen confirms the frozen commitments and Stone's approved core. The required from-zero assignment recount is preserved in `freeze/OT_1998CHUNK10_SUTTON_RECOUNT.json`; no recount was repeated at finalization. Chief Justice Stone-Zsela assigns himself the signed Opinion of the Court after the form, governing propositions and component coalitions were fixed. Parts I–II command five votes for the underlying-impairment rule and actual-disability vacatur; Part III commands all nine votes for the regarded-as-working affirmance. This Record is authoritative at its stated scope; downstream workspace and render generation remain the controller's separate tasks.
 
 ## Event, posture and reach
 
@@ -44,7 +44,7 @@ The exact June 21 Jones, Acker and Martin public decisions have also been screen
 
 ## Stone: approved core, compatibility and public scope
 
-Source: the complete Sutton Section II in `briefs/OT_1998CHUNK10.md`. The approved core requires vacatur and remand of actual disability under the underlying-impairment rule, individual proof of substantial limitation, and affirmance of the regarded-as-working dismissal. Arline’s functional protection and Bragdon’s individualized analysis support the statutory construction. Actual functioning remains relevant to qualification, accommodation and safety, and no automatic hiring, reinstatement or accommodation award follows.
+Source: only the Sutton section mechanically extracted from `freeze/OT_1998CHUNK10_APPROVED_STONE.md`. The approved core requires vacatur and remand of actual disability under the underlying-impairment rule, individual proof of substantial limitation, and affirmance of the regarded-as-working dismissal. Arline’s functional protection and Bragdon’s individualized analysis support the statutory construction. Actual functioning remains relevant to qualification, accommodation and safety, and no automatic hiring, reinstatement or accommodation award follows.
 
 Stone-Zsela joins every proposition of the Court’s opinion. The actual-seeing claim must be reassessed without treating beneficial correction as eliminating the underlying limitation. Exclusion from the specialized global-airline-pilot category does not establish a perceived restriction across a class or broad range of jobs, even assuming exclusion from all United pilot positions; that independent dismissal stands. No unpleaded regarded-as-seeing theory, new allegation or amendment entitlement is supplied.
 
@@ -195,9 +195,7 @@ Parts I–II have five direct votes; Part III has nine. No plurality or narrowes
 
 ### Holding 1— Beneficial mitigation does not eliminate underlying-impairment coverage
 
-**Holding and operative rule:** Under the original 42 U.S.C. §12102(2)(A), successful mitigating measures do not erase the underlying impairment: whether it substantially limits a major life activity is assessed without treating beneficial correction or medication as eliminating that limitation. Individual proof of substantial limitation remains necessary; this is not a categorical rule that every eyeglass wearer is disabled.
-
-Evaluate the qualifying impairment without treating beneficial correction or medication as eliminating coverage. The protections of the Americans with Disabilities Act do not disappear because an individual has successfully treated or mitigated an impairment. The existence of a qualifying disability must be distinguished from the individual’s capacity to perform particular employment duties. Effective treatment does not itself establish that the underlying impairment is outside the statute’s protection.
+**Holding and operative rule:** Under the original 42 U.S.C. §12102(2)(A), successful mitigating measures do not erase the underlying impairment: whether it substantially limits a major life activity is assessed without treating beneficial correction or medication as eliminating that limitation. The protections of the Americans with Disabilities Act do not disappear because an individual has successfully treated or mitigated an impairment. The existence of a qualifying disability must be distinguished from the individual’s capacity to perform particular employment duties. Effective treatment does not itself establish that the underlying impairment is outside the statute’s protection. Individual proof of substantial limitation remains necessary; this is not a categorical rule that every eyeglass wearer is disabled.
 
 **Authority:** Part I of Chief Justice Stone-Zsela’s Opinion of the Court, joined by Stevens, Souter, Ginsburg and Breyer. All five adopt the rule, individualized-proof requirement and separation of coverage from qualification, accommodation and safety.
 

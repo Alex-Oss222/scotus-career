@@ -3,14 +3,14 @@
   "before_caption": "College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board",
   "method": "Recount from zero using exact unchanged canonical author evidence and current new Record opinion-table authors; prior tallies never used. Human supplied form classification only.",
   "counts": {
-    "Stone-Zsela": 12,
+    "Stone-Zsela": 13,
     "Stevens": 12,
-    "O'Connor": 14,
+    "O'Connor": 13,
     "Scalia": 12,
-    "Kennedy": 14,
+    "Kennedy": 13,
     "Souter": 13,
     "Thomas": 12,
-    "Ginsburg": 13,
+    "Ginsburg": 14,
     "Breyer": 13
   },
   "record_count": 128,
@@ -1676,16 +1676,18 @@
       "caption": "Murphy v. United Parcel Service, Inc",
       "qualifying": true,
       "authors": [
-        "O'Connor"
+        "Ginsburg"
       ],
       "source_sha256": "a630b55211689fad85c6ed9143c60c9702f86e82e905933e37dfb3dab06d04ac",
       "author_evidence": [
-        "| Opinion of the Court, Parts I, II-B and IV | O’Connor | Scalia, Kennedy, Souter, Thomas, Ginsburg | Affirms employer summary judgment | Actual mitigation rule, treated-state scope limitation, guidance treatment, perceived-breadth application and affirmance |",
-        "| Opinion of the Court, Part II-A | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common legal framework; dissenters do not join the application or judgment | Perceived substantial limitation of a class or broad range of jobs, distinct from regulatory motive |",
-        "| Opinion of the Court, Part III | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common Supreme Court nonreach; remedies remain different | Qualification and DOT defenses reserved, no automatic certification or waiver determination |",
-        "| Opinion of the Court, Parts I, II-B and IV | O’Connor | Scalia, Kennedy, Souter, Thomas, Ginsburg | Affirms employer summary judgment | Actual mitigation rule, treated-state scope limitation, guidance treatment, perceived-breadth application and affirmance |",
-        "| Opinion of the Court, Part II-A | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common legal framework; dissenters do not join the application or judgment | Perceived substantial limitation of a class or broad range of jobs, distinct from regulatory motive |",
-        "| Opinion of the Court, Part III | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Common Supreme Court nonreach; remedies remain different | Qualification and DOT defenses reserved, no automatic certification or waiver determination |"
+        "| Opinion of the Court, Parts I and IV as to actual disability | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer | Vacates and remands the actual-disability judgment | Underlying impairment without beneficial mitigation; individualized proof and reassessment; separate qualification, accommodation and safety elements |",
+        "| Opinion of the Court, Parts II-B and IV as to regarded-as coverage | Ginsburg | O’Connor, Scalia, Kennedy, Souter, Thomas | Affirms the regarded-as rejection | Insufficient perceived occupational-breadth proof on this record |",
+        "| Opinion of the Court, Part II-A | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common legal framework; three Justices do not join the application | Perceived substantial limitation of a class or broad range of jobs, distinct from regulatory motive |",
+        "| Opinion of the Court, Part III | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common Supreme Court nonreach | Qualification and DOT defenses reserved, no automatic certification or waiver determination |",
+        "| Opinion of the Court, Parts I and IV as to actual disability | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer | Vacates and remands the actual-disability judgment | Underlying impairment without beneficial mitigation; individualized proof and reassessment; separate qualification, accommodation and safety elements |",
+        "| Opinion of the Court, Parts II-B and IV as to regarded-as coverage | Ginsburg | O’Connor, Scalia, Kennedy, Souter, Thomas | Affirms the regarded-as rejection | Insufficient perceived occupational-breadth proof on this record |",
+        "| Opinion of the Court, Part II-A | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common legal framework; three Justices do not join the application | Perceived substantial limitation of a class or broad range of jobs, distinct from regulatory motive |",
+        "| Opinion of the Court, Part III | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common Supreme Court nonreach | Qualification and DOT defenses reserved, no automatic certification or waiver determination |"
       ]
     },
     {
@@ -1708,12 +1710,12 @@
       "caption": "Sutton v. United Air Lines, Inc",
       "qualifying": true,
       "authors": [
-        "Kennedy"
+        "Stone-Zsela"
       ],
       "source_sha256": "059affa5096b8d90937f7b70560e879eaca0cd213d7d498fff4ce9921e3edf73",
       "author_evidence": [
-        "| Opinion of the Court | Kennedy | O’Connor, Scalia, Souter, Thomas and Ginsburg join the complete opinion: mitigation rule, actual-seeing application, statutory-fit treatment of guidance and regarded-as-working rule and application. |",
-        "| Opinion of the Court | Kennedy | O’Connor, Scalia, Souter, Thomas and Ginsburg join the complete opinion: mitigation rule, actual-seeing application, statutory-fit treatment of guidance and regarded-as-working rule and application. |"
+        "| Opinion of the Court | Stone-Zsela | Stevens, Souter, Ginsburg and Breyer join in full; O’Connor, Scalia, Kennedy and Thomas also join Part III, the regarded-as-working rule and affirmance. |",
+        "| Opinion of the Court | Stone-Zsela | Stevens, Souter, Ginsburg and Breyer join in full; O’Connor, Scalia, Kennedy and Thomas also join Part III, the regarded-as-working rule and affirmance. |"
       ]
     },
     {

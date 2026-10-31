@@ -4412,7 +4412,7 @@ For Ringuette v. City of Fall River, decided June 11, 1998, lower No. 96-1107, o
 
 **Treatment of earlier authority:** The ordinary individual-definition and Rule 56 requirements remain; neither institutional coverage nor a diagnosis substitutes for the supported personal limitation.
 
-**Later-authority backlinks:** Sutton v. United Air Lines, Inc., No. 97-1943, June 22, 1999: resolves the reserved general mitigation question under the original ADA by considering actually used measures and their beneficial and adverse effects; Bragdon's reproduction holding and residual-risk application remain intact. Murphy v. United Parcel Service, Inc., No. 97-1992, June 22, 1999, independently adopts the actually-used-measures rule and preserves residual restrictions and adverse effects. Albertson's, No. 98-591, supplies no additional disability-method holding.
+**Later-authority backlinks:** Sutton v. United Air Lines, Inc., No. 97-1943, June 22, 1999: resolves the reserved general mitigation question under the original ADA through the underlying-impairment rule: beneficial mitigating measures do not eliminate the underlying impairment's substantial limitation, and individual proof of that limitation remains required; Bragdon's reproduction holding and residual-risk application remain intact. Murphy v. United Parcel Service, Inc., No. 97-1992, June 22, 1999, independently adopts the underlying-impairment rule and requires individualized proof without treating beneficial medication as eliminating the limitation. Albertson's, No. 98-591, supplies no additional disability-method holding.
 
 ##### Direct threat requires objective individualized assessment, not professional sincerity
 
@@ -5402,24 +5402,24 @@ The punitive component returns through the D.C. Circuit under the controlling st
 
 No punitive sum, §1981a compensatory award, cap determination, new instatement/fees ruling or constitutional amount decision is entered. There is no mandated pleading amendment, discovery supplementation or special compliance hearing, and no finding of effective compliance or forfeiture. The liability verdict and backpay are not retried.
 
-### Actual disability is assessed with the mitigating measures the individual actually uses
+### Actual disability is assessed without treating successful mitigation as eliminating the underlying limitation
 
 #### Murphy v. United Parcel Service, Inc.
 
 **Docket or dockets:** No. 97-1992.
 **Decided:** 1999-06-22.
 
-##### Actual disability is assessed with the mitigating measures the individual actually uses
+##### Actual disability is assessed without treating successful mitigation as eliminating the underlying limitation
 
-**Holding:** Section 12102(2)(A) requires assessment of substantial limitation with reference to mitigating measures the individual actually employs. The severity of untreated hypertension does not alone establish actual disability when the treated condition lacks a substantial limitation; residual restrictions and adverse effects of the actual treatment remain part of the individual inquiry.
+**Holding:** Under original 42 U.S.C. §12102(2)(A), successful medication does not erase the underlying impairment: substantial limitation of a major life activity is assessed without treating medication’s beneficial effects as eliminating that limitation. The claimant must still prove an individualized substantial limitation; neither hypertension as a diagnostic label nor use of a prescription alone establishes disability, and coverage remains separate from qualification, reasonable accommodation and legitimate safety standards.
 
-**Proposition-level authority:** Part I of O’Connor’s Opinion of the Court, joined by Scalia, Kennedy, Souter, Thomas and Ginsburg: six direct joins to the mitigation rule, interpretive grounds and question-scope ruling below.
+**Proposition-level authority:** Part I of Ginsburg’s Opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Breyer: five direct joins to the underlying-impairment rule and its individual-proof limits.
 
-##### The grant does not separately present treated-state evidentiary sufficiency
+##### The actual-disability judgment must be reassessed under the underlying-impairment rule
 
-**Holding:** Granted Question 1 challenges the legal choice to assess hypertension in its medicated rather than unmedicated state. It does not separately present whether Murphy’s residual limitations or medication effects establish disability under the treated-state rule; the Court therefore leaves the lower court’s application determination undisturbed after rejecting the granted legal challenge.
+**Holding:** Because the actual-disability judgment rests on counting medication’s beneficial effects to defeat coverage, that judgment is vacated and remanded for individualized reassessment under the underlying-impairment rule. Qualification, essential functions, accommodation and legitimate safety defenses retain their own elements and are addressed below if necessary; the Court orders no automatic hiring, reinstatement, accommodation, certification, waiver or damages award.
 
-**Proposition-level authority:** The same six-Justice Part I adopts this scope ruling and the resulting affirmance on the actual-disability route.
+**Proposition-level authority:** Parts I and IV’s actual-disability disposition, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: five direct joins to vacatur and reassessment, without a final finding of actual disability.
 
 ##### Regarded-as coverage requires a perceived substantial occupational limitation
 
@@ -5437,30 +5437,26 @@ No punitive sum, §1981a compensatory award, cap determination, new instatement/
 
 **Limits and questions not reached:** Questions 2 and 3 concerning regulatory justification and qualification or essential functions were presented in the petition but were not granted; the circuit also left them undecided. No qualification finding, essential-function determination, categorical DOT defense, entitlement to temporary certification or waiver/exhaustion ruling supplies an independent ground of this decision.
 
-**Proposition-level authority:** All nine Justices join Part III’s Supreme Court nonreach and separation of these issues from coverage. That common join supplies no common remand position: the six affirm on coverage, Stevens and Breyer would reverse on actual disability, and Stone-Zsela would vacate for coverage reassessment and preserved remaining issues.
+**Proposition-level authority:** All nine Justices join Part III’s Supreme Court nonreach and separation of these issues from coverage. That common join concerns Supreme Court nonreach and does not erase the distinct actual-disability vacatur and regarded-as affirmance or Stone-Zsela’s broader proposed remand.
 
 **Treatment of earlier authority:**
 
-Bragdon v. Abbott remains controlling on individualized substantial limitation and the separation of coverage from supported safety grounds. Its expressly reserved general mitigation question is resolved here by reference to the measures the individual actually uses; its reproduction application and Title III direct-threat holdings are not overruled or transferred into a decision of this DOT defense. Arline’s individual approach supplies no previously settled contrary mitigation rule.
+Bragdon v. Abbott remains controlling on individualized substantial limitation and the separation of coverage from supported safety grounds. Its expressly reserved general mitigation question is resolved here without subtracting medication’s beneficial effects from the underlying limitation; its reproduction application and Title III direct-threat holdings are not overruled or transferred into a decision of this DOT defense. Arline supports individualized examination of impairment while keeping qualification and safety distinct.
 
 Cleveland v. Policy Management Systems Corp. preserves distinct ADA elements and ordinary proof; its SSDI explanation requirement is not triggered. Auer v. Robbins, United States v. Haggar Apparel Co. and NFFE retain their boundaries separating actual delegated interpretive authority from a lawful exercise of it. The Court does not replace those frameworks with categorical nondeference to agency guidance or amicus positions.
 
-Izumi, Caspari, Madsen and Lebron are applied at their actual question-scope limits: preservation or usefulness alone does not enlarge review, and a fairly included legal argument differs from a separate application issue. X-Citement Video permits supported respondent alternatives without establishing the disputed DOT and qualification grounds here. The lower circuit’s mitigation rule is sustained on the Court’s independent statutory construction; its regulatory-motive shortcut on regarded-as coverage is not adopted. No Supreme Court precedent is overruled.
+X-Citement Video permits supported respondent alternatives without establishing the disputed DOT and qualification grounds here. Questions 2 and 3 remain outside the grant; the Court announces no independent treated-state sufficiency holding. The lower circuit’s mitigation rule is rejected on the Court’s independent statutory construction; its regulatory-motive shortcut on regarded-as coverage is not adopted. No Supreme Court precedent is overruled.
 
-**Limits and questions not reached:** Actual-disability coverage under the original ADA is assessed with measures the person actually employs, including residual limitations and adverse treatment effects; no hypothetical more effective regimen or duty to undertake one follows. The individual still must establish substantial limitation, and no final Supreme Court finding about Murphy’s treated-state evidence is made under this grant. Regarded-as working coverage requires the employer’s perception of the requisite occupational breadth; regulatory motive alone is no defense to that definition. This record does not satisfy that perceived-breadth showing. Qualification, accommodation, safety defenses and other coverage branches retain their distinct elements and the stated nonreach limits.
+**Limits and questions not reached:** Actual-disability coverage under the original ADA requires individualized proof of the underlying substantial limitation without treating beneficial medication as eliminating it. There is no diagnosis-only coverage, duty to stop treatment or final Supreme Court disability finding. Actual functioning remains relevant to qualification, accommodation and safety. Regarded-as working coverage requires the employer’s perception of the requisite occupational breadth; regulatory motive alone is no defense to that definition. This record does not satisfy that perceived-breadth showing. Qualification, accommodation, safety defenses and other coverage branches retain their distinct elements and the stated nonreach limits.
 
-**Operative remedy or transition:** **Affirmed, 6–3.**
+**Operative remedy or transition:** **Affirmed in part and vacated in part.**
 
-**Supporting:** O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg.
+| Coverage component | Disposition and vote | Supporting Justices | Opposing or other positions | Remedy or remand |
+|---|---|---|---|---|
+| Actual disability | Vacated and remanded, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O’Connor, Scalia, Kennedy, Thomas | Individualized reassessment without beneficial mitigation defeating coverage; no final disability finding |
+| Regarded-as coverage | Affirmed, 6–3 | O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stone-Zsela, Stevens, Breyer | Rejection on perceived occupational-breadth proof stands; Stone-Zsela would remand this route, while Stevens and Breyer make no independent application decision |
 
-**Opposing:** Stone-Zsela, who would vacate and remand; Stevens and Breyer, who would reverse and remand.
-
-| Coverage component | Court’s disposition and supporting Justices | Other positions |
-|---|---|---|
-| Actual disability | Affirmed on the legal mitigation answer and limited grant: O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stone-Zsela would reassess without beneficial mitigation; Stevens and Breyer would find actual disability on the untreated evidence taken as true and reverse |
-| Regarded-as coverage | Affirmed on insufficient perceived occupational-breadth proof: O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stone-Zsela would return preserved coverage issues; Stevens and Breyer make no independent application decision |
-
-The Court makes no fresh treated-state sufficiency finding, no qualification or temporary-certification ruling, and no employment, accommodation or damages award. The employer judgment remains in place. The dissenting alternatives do not create a common remand or a Court instruction to reopen other defenses.
+All nine join the perceived-class framework and nonreach of Questions 2–3. The Court makes no fresh treated-state sufficiency finding, no qualification or temporary-certification ruling, and no employment, accommodation or damages award. The actual-disability remand leaves necessary preserved remaining elements and defenses for ordinary proceedings; the regarded-as affirmance remains binding.
 
 ### I. Ordinary membership dues do not alone establish receipt of federal assistance
 
@@ -5745,43 +5741,49 @@ Subsection (d)(2)(A) permits the person directly harmed by a participating hospi
 
 The facial vagueness/expression theory is rejected 8–1 by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, with Stone-Zsela dissenting. On the substantive claims, O'Connor, Kennedy and Breyer sustain the judgment on assumed significant interests and case-specific protective fit; Scalia and Thomas sustain it under ordinary review. Stevens, Souter and Ginsburg would grant fitted relief for supported parent-authorized lawful activity. Stone-Zsela does not reach those substantive questions. The affirmed final judgment requires no new injunction, damages award or remedial remand.
 
-### Holding 1— Measures actually used are part of individual actual-disability assessment
+### Holding 1— Beneficial mitigation does not eliminate underlying-impairment coverage
 
 #### Sutton v. United Air Lines, Inc.
 
 **Docket or dockets:** No. 97-1943
 **Decided:** 1999-06-22.
 
-##### Holding 1— Measures actually used are part of individual actual-disability assessment
+##### Holding 1— Beneficial mitigation does not eliminate underlying-impairment coverage
 
-**Holding:** Under the original 42 U.S.C. §12102(2)(A), an individual's actual substantial limitation must be assessed with the mitigating measures the individual actually uses, including their beneficial and adverse effects. Effective correction does not erase an impairment or categorically foreclose disability; coverage still depends on an actual substantial limitation of that person's major life activity.
+**Holding:** Under the original 42 U.S.C. §12102(2)(A), successful mitigating measures do not erase the underlying impairment: whether it substantially limits a major life activity is assessed without treating beneficial correction or medication as eliminating that limitation. The protections of the Americans with Disabilities Act do not disappear because an individual has successfully treated or mitigated an impairment. The existence of a qualifying disability must be distinguished from the individual’s capacity to perform particular employment duties. Effective treatment does not itself establish that the underlying impairment is outside the statute’s protection. Individual proof of substantial limitation remains necessary; this is not a categorical rule that every eyeglass wearer is disabled.
 
-**Proposition-level authority:** Kennedy’s Opinion of the Court commands the complete agreement of O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. These six directly adopt this rule and its limits.
+**Proposition-level authority:** Part I of Chief Justice Stone-Zsela’s Opinion of the Court, joined by Stevens, Souter, Ginsburg and Breyer. All five adopt the rule, individualized-proof requirement and separation of coverage from qualification, accommodation and safety.
 
-##### Holding 2 — These allegations do not state an actual substantial limitation of seeing
+##### Holding 2 — The actual-disability claim requires reassessment under the underlying-impairment rule
 
-**Holding:** The actual-disability theory fails where these applicants allege corrected vision and visual functioning equivalent to people without their impairment and identify no additional actual substantial limitation. Their severe uncorrected myopia and continuing dependence on corrective lenses do not, on these allegations, establish the required limitation of seeing under the governing mitigation rule.
+**Holding:** The dismissal of the actual-disability claim is vacated and the claim remanded for reassessment without beneficial mitigation eliminating the underlying visual limitation, with individual proof that the impairment substantially limits seeing. Qualification, reasonable accommodation and legitimate safety defenses must be resolved on their own elements; the remand awards no automatic hiring, reinstatement or accommodation.
 
-**Proposition-level authority:** The same six-Justice Court-opinion coalition directly adopts this application; Stone-Zsela, Stevens and Breyer reject the beneficial-mitigation premise.
+**Proposition-level authority:** Part II of the Court’s opinion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. These five adopt the vacatur and bounded reassessment; O’Connor, Scalia, Kennedy and Thomas dissent from this component.
 
 ##### Holding 3 — The alleged perceived restriction is confined to a specialized job category
 
 **Holding:** Assuming working is a major life activity, a regarded-as-working claim requires an alleged perceived restriction in a class or broad range of jobs; exclusion from the specialized global-airline-pilot category alleged here does not suffice. The pleaded exclusion remains insufficient even under the assumption that United rejected these applicants for all of its pilot positions.
 
-**Proposition-level authority:** The same six-Justice Court-opinion coalition directly adopts the governing rule and this dismissal application. Stone-Zsela agrees only with the specialized-position principle in his separate dissent; Stevens and Breyer leave this application unresolved because their actual-disability disposition would require remand.
+**Proposition-level authority:** Part III of the Court’s opinion commands all nine Justices: Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Each joins both the perceived-class rule and the dismissal application.
 
 **Treatment of earlier authority:**
 
-- **Bragdon v. Abbott:** Applies its individualized disability framework and resolves the general mitigation question it expressly reserved. Its reproduction holding, substantial residual-risk application and distinct Title III objective direct-threat rules remain intact.
-- **United States v. Haggar Apparel Co. and Chevron:** Preserve actual delegation and statutory fit as conditions of accepting an agency construction. The contrary Appendix interpretation fails the statutory reading adopted here; the Court makes no general decision about ADA definitional authority or every EEOC regulation.
+- **School Board of Nassau County v. Arline:** Applies its functional protection and individualized assessment while keeping disability distinct from qualification and supported exclusion; its actual setting and limits remain intact.
+- **Bragdon v. Abbott:** Applies its individualized disability framework and resolves the reserved mitigation question through the underlying-impairment rule. Its reproduction holding, substantial residual-risk application and distinct Title III objective direct-threat rules remain intact.
+- **United States v. Haggar Apparel Co. and Chevron:** Preserve actual delegation and statutory fit as conditions of agency deference. The Court rests on its construction of the original ADA and makes no general decision about ADA definitional authority or the binding force of every EEOC regulation or Appendix statement.
 
-**Limits and questions not reached:** Under the original ADA, actual-disability assessment accounts for mitigating measures actually used, including their beneficial and adverse effects, while continuing to require a substantial limitation of that individual's major life activity. This resolves Bragdon's express mitigation reservation; it neither erases an impairment nor excludes every successfully treated condition. The actual-seeing allegations here fail under that rule.
+**Limits and questions not reached:** Under the original ADA, beneficial mitigating measures do not eliminate an underlying impairment’s substantial limitation for actual-disability coverage. Individual substantiality remains required, and coverage is distinct from qualification, reasonable accommodation and legitimate safety standards. This resolves Bragdon’s express mitigation reservation without automatic coverage for every corrected condition. The actual-seeing claim returns for reassessment under that rule.
 
 Assuming working is a major life activity, the regarded-as theory presented here also fails because the alleged perception concerns a specialized global-airline-pilot category rather than a class or broad range of jobs. Separate coverage branches, individual proof, qualification and lawful defenses retain their distinct elements. No precedent is overruled; no general delegation or airline-safety rule is decided.
 
-**Operative remedy or transition:** Affirmed, 6–3. Supporting: O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Opposing: Stone-Zsela, Stevens and Breyer.
+**Operative remedy or transition:**
 
-The Court affirms dismissal of both presented coverage theories. Stevens and Breyer would reverse and remand on actual disability without deciding the separate regarded-as application. Stone-Zsela would vacate the adverse coverage judgment and remand, agreeing only that exclusion from the specialized global-airline-pilot position alone does not establish a broad working limitation. The decision orders no remand, employment, reinstatement, accommodation, damages or new evidentiary proceeding and does not validate every airline hiring criterion.
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices |
+|---|---|---|---|
+| Actual disability — seeing (Parts I–II) | Vacated and remanded, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O’Connor, Scalia, Kennedy, Thomas |
+| Regarded as substantially limited in working (Part III) | Affirmed, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
+
+The judgment is affirmed in part and vacated in part. The actual-disability claim returns for reassessment without treating beneficial correction as eliminating the underlying limitation; the applicants must establish individual substantial limitation. Qualification, accommodation and legitimate safety defenses are resolved on their own elements. The regarded-as-working dismissal stands. No automatic hiring, reinstatement, accommodation, damages or new evidentiary proceeding is ordered, and no airline hiring criterion is categorically validated.
 
 ### Personal invocation does not depend on state-militia affiliation
 
