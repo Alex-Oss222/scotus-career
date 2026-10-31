@@ -2,7 +2,7 @@
   "operator_only": true,
   "canonical_matcher": "tools/check_term.py commit_refs: generic mixed letter/digit hex tokens",
   "record": "terms/OT1998/records/ortiz_v_fibreboard_corp_merits_1999-06-23.md",
-  "record_sha256": "98f2bfec39f0a51cc4d1b239ca6710db91ac2eaf4978cb56867a1d0f77847785",
+  "record_sha256": "293c4d449f0b96ff5d805de2f8af8726fef517a1bbac9a35bf5b434788ec3566",
   "source_line": 114,
   "classified_non_commit_tokens": [
     {

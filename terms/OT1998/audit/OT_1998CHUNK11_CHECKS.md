@@ -14,7 +14,7 @@ The transparent command `python -B terms/OT1998/audit/ot1998_chunk11_no_git.py l
 
 `python -B terms/OT1998/audit/ot1998_chunk11_integrate_workspace.py --records ...` received all eight exact released Record basenames. It ran the canonical manifest builder through the bounded status adapter and rebuilt continuity and neutral projections from immutable opening snapshots and finalized public substance. The [integration receipt](OT_1998CHUNK11_WORKSPACE_INTEGRATION.json) records all exact inputs, eight completed rows, 120 unchanged unrelated rows, one scheduled unresolved matter and thirteen undated carryovers. Germany’s original leave remains under consideration; Del Monte Dunes remains reconciled without a new Court event.
 
-`python -B tools/build_render_input.py terms/OT1998/render-inputs/OT_1998CHUNK11.md ...` received the eight canonical Records and generated the full handoff. The final RIN is 160,327 bytes, SHA-256 `901fc3e292d8d42dc9dc440732f5e7c4679627254a8adf845614cd98732c252d`.
+`python -B tools/build_render_input.py terms/OT1998/render-inputs/OT_1998CHUNK11.md ...` received the eight canonical Records and generated the full handoff. The final RIN is 160,327 bytes, SHA-256 `14503e31bfda09f770ef42b12bece5fd1c85e875051e2d6f4d7e29714496ae9f`.
 
 The final full-Run invocation `python -B terms/OT1998/audit/ot1998_chunk11_no_git.py check` returned:
 
@@ -29,7 +29,7 @@ All enabled canonical checks passed, including approved-brief/runtime freshness,
 
 ## Render and final fidelity
 
-The isolated renderer’s [final receipt](../freeze/OT_1998CHUNK11_RENDER_RECEIPT.json) records eight rendered events, June 22–23, and a completed self-check with no blockers. Final output is 158,745 bytes, SHA-256 `b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515`. All four June 22 entries are byte-identical to their released partial-render entries.
+The isolated renderer’s [final receipt](../freeze/OT_1998CHUNK11_RENDER_RECEIPT.json) records eight rendered events, June 22–23, and a completed self-check with no blockers. Final output is 158,745 bytes, SHA-256 `ca3a4f3c669228c372623e08eceef149cfe6e9230ad3916e80846fc08b9d3d4c`. All four June 22 entries are byte-identical to their released partial-render entries.
 
 The [final isolated fidelity report](OT_1998CHUNK11_RENDER_FIDELITY.md) passed with no discrepancies. It verifies the preserved first-four hashes, the four additions, all eight events and final metadata, exact supplied judgment/proposition/topology distinctions, holdings, precedent treatment, law after, selected separate writings, remedy, source limits and explanation ceilings. A default-fork Murphy/Olmstead helper was replaced by the [fresh scoped check](OT_1998CHUNK11_MURPHY_OLMSTEAD_FIDELITY_REFRESH.md); no private exposure or content discrepancy occurred and no rendered bytes changed. Only those affected presentation checks were repeated. No additional substantive audit was performed after the required checks passed.
 

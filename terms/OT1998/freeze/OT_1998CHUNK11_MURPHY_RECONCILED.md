@@ -90,6 +90,6 @@ The historical opinion's procedural shorthand is not substituted for the verifie
 
 **Checks:** Eight distinct Associates appear once in the final table. Four join P1/P3 and actual-disability vacatur; four retain the actual-measures rule and oppose that vacatur. Six join P5, and all eight join P4/P6. Stevens and Breyer’s nondecision supplies no P5 join. Granted Questions 1/4, excluded Questions 2/3, individual proof, treatment-regimen distinctions, separate employment elements and the absence of a same-day precedent are preserved. No new neutral fact, research default or future-law rule is introduced. Opinion form and assignment remain separate from these component commitments.
 
-**Independent-freeze SHA256 before reconciliation:** `50f8ad025b4a486c6dea717853230d57470a50379bbdaf99becdc4972f37df40`.
+**Independent-freeze SHA256 before reconciliation:** `42b2511d7b32b570808e39614e1433be901392e22612899177b6dd09eb2f8c56`.
 
 **Executed deterministic validation:** Eight unique Justice rows appear in the stated roster order; four support actual-disability vacatur and four oppose it, six support P5, and all eight support P4/P6. All local source links retain their targets. The component propositions and historical-departure audit are present. These checks concern consistency, not the legal judgments themselves.

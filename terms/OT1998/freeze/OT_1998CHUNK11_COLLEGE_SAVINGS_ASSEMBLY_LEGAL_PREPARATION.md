@@ -2,7 +2,7 @@
 
 **Status:** Legal form and propositions fixed before any count, author selection, recount-helper access, or assignment evidence. Assignment and final Record remain withheld pending the parent’s express Alden-final signal. No June 23 peer law is used.
 
-**Sources:** The immutable College Savings neutral, independent and reconciled freezes; the authorized case-specific Stone supplement; the College Savings/IP entering-law guides and exact public slices; the Union Gas/Welch/Hilton neutral addendum; and the final June 22 neutral screen with relevant completed public-law compilation. Governing AGENTS, Engine §§1–4, 8–9, 11–15, Composition and Render Contract were read. The reconciled source SHA256 matches a7f439d21755c2b2a89f77a8beea6d99d249a645b9be2e38fa31c7cf97748225.
+**Sources:** The immutable College Savings neutral, independent and reconciled freezes; the authorized case-specific Stone supplement; the College Savings/IP entering-law guides and exact public slices; the Union Gas/Welch/Hilton neutral addendum; and the final June 22 neutral screen with relevant completed public-law compilation. Governing AGENTS, Engine §§1–4, 8–9, 11–15, Composition and Render Contract were read. The reconciled source SHA256 matches 1a948de84c465e676e17034b042fa7f9e7ced215bbe13dc71a00174e85a68479.
 
 ## Form determined on legal grounds
 

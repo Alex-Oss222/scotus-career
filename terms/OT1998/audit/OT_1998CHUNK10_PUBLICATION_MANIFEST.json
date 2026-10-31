@@ -3,7 +3,7 @@
     {
       "path": "terms/OT1998/audit/OT_1998CHUNK10_CHECKS.md",
       "bytes": 3704,
-      "sha256": "16b268f02dc64e4e541d02069a343445414f939e6bc2c6178ee4c128ec107cb8"
+      "sha256": "2e89b5fa97c90666cca8010c5910d06f72c0b605b4fcbba78c63d248dba63936"
     },
     {
       "path": "terms/OT1998/audit/OT_1998CHUNK10_WORKSPACE_HELPER_UPDATE.json",
@@ -13,7 +13,7 @@
     {
       "path": "terms/OT1998/audit/OT_1998CHUNK10_WORKSPACE_INTEGRATION.json",
       "bytes": 6686,
-      "sha256": "597ef704295fecc495e65990e288d02645701dcf290590d2a27725fb10a64edb"
+      "sha256": "63c38b08376ffb8eab5f628ed9a7155741d4f50e21f1dbbabad5bebb7a1ccaca"
     },
     {
       "path": "terms/OT1998/audit/ot1998_chunk10_integrate_workspace.py",
@@ -183,7 +183,7 @@
     {
       "path": "terms/OT1998/entering-law/sutton_v_united_air_lines_inc_merits_1999-06-22.md",
       "bytes": 13289,
-      "sha256": "72766416c636761835ae7fbb8c83ce51d3de5526186cb978e1cb9e17ac28788a"
+      "sha256": "c5fbcebee8e601d16bc5525261ee4f4c1a54330e85ef87234e04dad9e991d5c1"
     },
     {
       "path": "terms/OT1998/entering-law/valdespino_v_alamo_heights_independent_school_district_merits_1999-06-17.md",
@@ -253,7 +253,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_APPROVED_STONE.md",
       "bytes": 43929,
-      "sha256": "a28e74f41a08724e442aeb71cd9317451d6af1e74e188c4d3d1769698a539cc4"
+      "sha256": "91a24c85f77d788ef662d28407e9e7f53ec06a28ad0f38e61486eb51579f805f"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_ASSIGNMENT_BASELINE.json",
@@ -333,7 +333,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_COMMITMENTS.md",
       "bytes": 6290,
-      "sha256": "66870ecf154b905a95a24c7c816433be8238ad6633ac9273808ed364b8ff1e68"
+      "sha256": "35557c326ddaec7a7c47b5e1a01c16cddbb31c3bc53ad33eb772ae9f8d77dae6"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_COMMIT_REFERENCE_API_RECEIPT.json",
@@ -518,7 +518,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_INTEGRITY.json",
       "bytes": 540,
-      "sha256": "68cc91757a3020535744207623966d943282004abc2799f1817b9b2867fbaad7"
+      "sha256": "8d3dfa676bcfb235abd4c33722a31ca52829b6769af73139ab3acd731516b9eb"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_LEDGER.md",
@@ -563,12 +563,12 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_RECONCILED.md",
       "bytes": 3291,
-      "sha256": "04bb494c96efc5ad0c2c1eff6094f7408f59dffb00030362d330d9154f552c8b"
+      "sha256": "1bdfc433fae075801dcd8d539b0fff3f7624970921ee895a0c89dd0e57e02264"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_RECONCILE_B_ISOLATION_INCIDENT.md",
       "bytes": 2993,
-      "sha256": "15e79448b7fe97bf3fd879841a1795756835591cd4cc6787ef5f7fc8bbfd85d0"
+      "sha256": "941d3cbfd03bebfe9e39fa33e673f77ca94385088860ceec4ab383bc2d575f94"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_RECONCILIATION_EARLIER_LAW_SCREEN.md",
@@ -598,7 +598,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SOURCE_FRESHNESS.json",
       "bytes": 469095,
-      "sha256": "92044a3c2badd01021f973f9616e2cbf6f2e66893e131910289ea62964cc8fae"
+      "sha256": "2bd3c82cd4ea2e5608fe819db33c14319678cba25e9c1d037344199585c884f8"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_STAGE_PROVENANCE.md",
@@ -643,12 +643,12 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SUTTON_COMMITMENTS.md",
       "bytes": 19160,
-      "sha256": "fb9136a9034e9490bf80584afe2f98903969511a5c759a90eb88aff161308c95"
+      "sha256": "a3bce50d01bb4698c1ec206c5b08389dac8c6cbaf7ff9ef33287cc59930d7822"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SUTTON_RECONCILED.md",
       "bytes": 13314,
-      "sha256": "4d3e09e442f9ae8b8929602a2488c363912ad99dcd73d8fc664240ec5cc016ce"
+      "sha256": "da31d1cf40915162912f793b836aeaa531eb51e564e4baedcade0b6cd490bde6"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SUTTON_RECOUNT.json",
@@ -673,7 +673,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_VALIDATION.md",
       "bytes": 7009,
-      "sha256": "4a4d96b5ce7a534de1005fc88ac19a81f4ffa9b93883a004e84460dc1ae8286a"
+      "sha256": "b949d01b801ea0cc66ca6e754d34e2292227f2ff19b55f5fa8ba71acc4ba448e"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_WEST_COMMITMENTS.md",
@@ -698,7 +698,7 @@
     {
       "path": "terms/OT1998/output/OT_1998CHUNK10.md",
       "bytes": 164920,
-      "sha256": "dd190b332591f95d9331ed19811f82a6300f5f87a2b164f9097b1b95d10069a8"
+      "sha256": "77562d04fb2a39aafb46dcae51ef85a33389bea4e8d3a9a9ebcf809e305c2145"
     },
     {
       "path": "terms/OT1998/records/city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md",
@@ -753,7 +753,7 @@
     {
       "path": "terms/OT1998/records/sutton_v_united_air_lines_inc_merits_1999-06-22.md",
       "bytes": 43913,
-      "sha256": "059affa5096b8d90937f7b70560e879eaca0cd213d7d498fff4ce9921e3edf73"
+      "sha256": "9bc7ebd476a03d0e91f5beeb1c763e10a25c589926ea1c2edd4410a2f5ca7c28"
     },
     {
       "path": "terms/OT1998/records/valdespino_v_alamo_heights_independent_school_district_merits_1999-06-17.md",
@@ -768,7 +768,7 @@
     {
       "path": "terms/OT1998/render-inputs/OT_1998CHUNK10.md",
       "bytes": 165226,
-      "sha256": "abda2750ce3bfdba94c0e1e87af6b7178ea18f670d1c3ce3799bad6020f75752"
+      "sha256": "1d84b14dfaada6b622a561ca29b0e25d936304f976c34be82e5253a1cc5be8e3"
     },
     {
       "path": "terms/OT1998/research/JONES_FRESH_HISTORICAL_COURT.txt",
@@ -1343,7 +1343,7 @@
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK10_COMMITMENTS.md",
       "bytes": 6290,
-      "sha256": "66870ecf154b905a95a24c7c816433be8238ad6633ac9273808ed364b8ff1e68"
+      "sha256": "35557c326ddaec7a7c47b5e1a01c16cddbb31c3bc53ad33eb772ae9f8d77dae6"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK10_COMPARATOR.md",
@@ -1358,22 +1358,22 @@
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK10_RECONCILED.md",
       "bytes": 3291,
-      "sha256": "04bb494c96efc5ad0c2c1eff6094f7408f59dffb00030362d330d9154f552c8b"
+      "sha256": "1bdfc433fae075801dcd8d539b0fff3f7624970921ee895a0c89dd0e57e02264"
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK10_STONE.md",
       "bytes": 43929,
-      "sha256": "a28e74f41a08724e442aeb71cd9317451d6af1e74e188c4d3d1769698a539cc4"
+      "sha256": "91a24c85f77d788ef662d28407e9e7f53ec06a28ad0f38e61486eb51579f805f"
     },
     {
       "path": "terms/OT1998/workspace/continuity.md",
       "bytes": 943678,
-      "sha256": "84df61d275c06055c5b4b31517c2b0b9297d5dd4b1ea0695e73c03ebbde584ee"
+      "sha256": "f21eee32e5c8968da1da6a53cb09b716a9c067fa47624559ffd635155e5f22bf"
     },
     {
       "path": "terms/OT1998/workspace/ledger.md",
       "bytes": 66271,
-      "sha256": "a30a11599d5aa9513a7b419b22349d319213b667364c4d177c0776bbc756e769"
+      "sha256": "218792cc1e258165322426e04e5d3ba7dfa91980259e2a9563694ee9f6407722"
     },
     {
       "path": "terms/OT1998/workspace/manifest.md",
@@ -1383,7 +1383,7 @@
     {
       "path": "terms/OT1998/workspace/neutral-projection.md",
       "bytes": 947957,
-      "sha256": "0c70d00852856f3a6bfc0e0cb78bb3f9fadda1e3c817b812faf15ccb2abec5e6"
+      "sha256": "7f96d0c0ec5a450d0e578542892b18b047a623901e69deee9101448f256c120d"
     }
   ],
   "file_count": 277,

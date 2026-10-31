@@ -4,10 +4,10 @@
   "event_date": "1999-06-23",
   "status": "FINAL; required bounded assembly checks completed; no unresolved blocker",
   "record": "records/florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
-  "record_bytes": 53123,
-  "record_sha256": "59de2e36f4bfdad5dc3db5498d12d1b927d0cce7bf72e98181944cfcfd796fb8",
+  "record_bytes": 57773,
+  "record_sha256": "0928330208d540b2590ac97bd5ae2086652ceb61fbf815e94a9792dfbee811ad",
   "recount": "freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECOUNT.json",
-  "recount_sha256": "4a0a80354806510a7c3426755a78375a65f1af60925fe0af8714588f0cebc445",
+  "recount_sha256": "31a6be3033cdb98c7387b6980c0770dfdc10cef23eb61677e77cbe5269bc335e",
   "fresh_counts": {
     "Stone-Zsela": 14,
     "Stevens": 12,
@@ -21,10 +21,11 @@
   },
   "last_counted": "college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
   "counted_opinions_before_assignment": 116,
-  "form_determined_before_counts": "Signed opinion of the Court; unanimous Part I; five-Justice independent §5 Part II and Article I Part III; four-Justice consent plurality Part IV, joined by Stevens, Souter, Ginsburg and Breyer only.",
+  "form_determined_before_counts": "Signed opinion of the Court; unanimous Part I; five-Justice independent §5 Part II and Article I Part III; unanimous Part IV applying College Savings Part III to reject consent from continued commercial participation, preserving actual consent and leaving litigation-conduct waiver undecided.",
   "assignment": {
     "assigner": "Stone-Zsela",
     "eligible": [
+      "Stone-Zsela",
       "Stevens",
       "Souter",
       "Ginsburg",
@@ -37,7 +38,7 @@
     ],
     "minimum_eligible_count": 12,
     "author": "Stevens",
-    "basis": "Settled common grounds; Stevens fits the precise separation of property, constitutional deprivation, preventive §5 enforcement, Article I authority and consent. His Union Gas and Seminole positions support the Article I account. The Chief Justice assigns from the judgment coalition; counts are recorded without supplying a reason for the choice."
+    "basis": "Settled common grounds; Stevens fits the precise separation of property, constitutional deprivation, preventive §5 enforcement, Article I authority and consent, and states Part IV's application of College Savings Part III, which he accepts as controlling. His Union Gas and Seminole positions support the Article I account. The Chief Justice assigns from the judgment coalition; counts are recorded without supplying a reason for the choice."
   },
   "judgment": {
     "disposition": "Affirm immunity denial and return for ordinary patent proceedings",
@@ -83,7 +84,7 @@
       "Thomas"
     ]
   },
-  "delegated_choice": "Stone joins Part II’s §5 holding and Part III’s independent Article I holding, does not join the Part IV consent plurality, and writes no separate opinion. Neither constitutional ground depends on consent.",
+  "delegated_choice": "Stone joins Part II’s §5 holding, Part III’s independent Article I holding and Part IV’s consent holding, as his approved Section II states, and writes no separate opinion. Part IV applies his College Savings Part III, preserves actual consent and leaves litigation-conduct waiver undecided. Neither constitutional ground depends on consent.",
   "deterministic_checks": {
     "four_exact_opening_labels": "passed",
     "eleven_public_blocks_in_order": "passed",
@@ -102,7 +103,8 @@
       104,
       127,
       210,
-      252
+      252,
+      188
     ],
     "ordinary_350_word_ceiling": "passed",
     "bounded_internal_artifact_references": "passed"
@@ -111,7 +113,7 @@
     {
       "check": "Chronology, reachability and lawful channel",
       "result": "passed",
-      "basis": "April20 argument; June23 decision after completed June22 baseline; no same-day peer merits law; §1254(1), collateral-order immunity appeal, §1295 route; preserved respondent alternatives with actual grant limits."
+      "basis": "April20 argument; June23 decision after completed June22 baseline; no same-day peer merits law apart from College Savings Part III, announced earlier the same day and applied in Part IV; §1254(1), collateral-order immunity appeal, §1295 route; preserved respondent alternatives with actual grant limits."
     },
     {
       "check": "Participation and vote threshold",
@@ -121,17 +123,17 @@
     {
       "check": "Stone fixed core and exact joins",
       "result": "passed",
-      "basis": "Affirmance; independent §5 prevention and Article I enforcement holdings; Patent Clause and Necessary and Proper Clause application; valid obligation/enforcement measure and unmistakable State-exposure limits; no patent merits, damages entitlement, enhancement or fees decided; no consent join or separate opinion."
+      "basis": "Affirmance; independent §5 prevention and Article I enforcement holdings; Patent Clause and Necessary and Proper Clause application; valid obligation/enforcement measure and unmistakable State-exposure limits; no patent merits, damages entitlement, enhancement or fees decided; joins Part IV's rejection of commercial-participation consent, with actual consent preserved and litigation-conduct waiver undecided; no separate opinion."
     },
     {
       "check": "Frozen Associate fidelity and departures",
       "result": "passed",
-      "basis": "Stevens, Souter, Ginsburg and Breyer join each independent constitutional ground and the consent plurality. Their actual Article I joins rest on individual Union Gas, Seminole and public displacement positions. Four dissenters retain limited vacatur; their conditional Article I opposition remains distinct from an independent overruling."
+      "basis": "Stevens, Souter, Ginsburg and Breyer join each independent constitutional ground and, in Part IV, accept College Savings Part III as controlling on Justice-specific stare decisis bases. Their actual Article I joins rest on individual Union Gas, Seminole and public displacement positions. Four dissenters retain limited vacatur; their conditional Article I opposition remains distinct from an independent overruling."
     },
     {
       "check": "Authority and Marks",
       "result": "passed",
-      "basis": "Nine common statutory/property/scope joins; five joins in each independent §5 and Article I holding; four consent joins in Part IV. Express majority holdings require no Marks aggregation. Stone concurrence has no members because no such writing is filed."
+      "basis": "Nine common statutory/property/scope joins; five joins in each independent §5 and Article I holding; nine joins in Part IV's consent holding. Express majority holdings require no Marks aggregation. Stone concurrence has no members because no such writing is filed."
     },
     {
       "check": "Remedy and scope",
@@ -151,7 +153,7 @@
     {
       "check": "Public legal substance and continuity",
       "result": "passed",
-      "basis": "All controlling rules, authority, explanations, precedent treatment, resulting law, consent-plurality and dissent grounds, limits and final stage appear in eleven public blocks. Parts II and III independently sustain the action; no Stone separate writing appears."
+      "basis": "All controlling rules, authority, explanations, precedent treatment, resulting law, Part IV consent holding and dissent grounds, limits and final stage appear in eleven public blocks. Parts II and III independently sustain the action; no Stone separate writing appears."
     }
   ],
   "not_performed": [
@@ -159,5 +161,5 @@
     "No workspace, ledger, manifest, Render Input or output integration; reserved to controller."
   ],
   "remaining_blockers": [],
-  "scope": "No Git operation, prohibited-directory access, other-case private-file read, same-day peer-law import, or post-final extra review. Only authorized current-term artifacts written."
+  "scope": "No Git operation, prohibited-directory access, other-case private-file read, same-day peer-law import apart from College Savings Part III, announced earlier the same day and applied in Part IV, or post-final extra review. Only authorized current-term artifacts written."
 }

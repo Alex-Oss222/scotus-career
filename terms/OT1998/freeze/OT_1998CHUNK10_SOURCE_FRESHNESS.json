@@ -608,13 +608,13 @@
       "path": "terms/OT1998/briefs/OT_1998CHUNK10.md",
       "sha": "7cda687774f7cb2437af88a3bff65adc6ddc4e49",
       "size": 146834,
-      "sha256": "3f7dcb13e6a2b42f97c61006501cbe36dc4be625fe4031805794dfdaa34883de"
+      "sha256": "aa16478723ff936955778f77e1707f0466b52522376f9d1ba126e20ac420360f"
     },
     {
       "path": "terms/OT1998/briefs/OT_1998CHUNK11.md",
       "sha": "6487f1ac70b35a69a64662dfb7d2ba1d81260a4c",
       "size": 81358,
-      "sha256": "47105eac1e2a9bcd018ed062f0fbb5a0ee85ccb975e53721c46cace3214f48d1"
+      "sha256": "99dbacde46c035809c2224aefc33f7f81baa608fc521d90a1f19e2837695e84b"
     },
     {
       "path": "terms/OT1998/briefs/OT_1998CHUNK2.md",
@@ -3656,7 +3656,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_BASELINE.json",
       "sha": "d3534fee68030f109c3528a6270dc6e6b18b899e",
       "size": 17991,
-      "sha256": "8fa610e3543a7c0c92b31c55bddea317309f7cc20f8900a01f205682c31b37ac"
+      "sha256": "b891b97e4bcd405a507351c71b2eb73a1ade94ecfdc42eebfb3c0d432e42463f"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK6_BROWER_ASSEMBLY_VALIDATION.json",
@@ -4202,7 +4202,7 @@
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_BASELINE.json",
       "sha": "85d2bc9436c7f3e045683df42dd69b6008889523",
       "size": 13450,
-      "sha256": "a03d53b1706a91837429706ff96044f7c7c258cb294c6cc9651381df44077197"
+      "sha256": "580e69f10cb8a924b6a02830773a24bdb15837f1a3e3cd1519bef9867bc95950"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK7_BROOKS_RECOUNT.json",

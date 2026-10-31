@@ -2,7 +2,7 @@
 
 This index was assembled mechanically after all eight separate historical reconciliations were released. Each listed constituent is immutable and controls its own reconciled Associate positions. The index adds no facts, votes, rationale or law and does not alter the earlier independent commitments. None of the reconciliation contexts received Stone’s supplement.
 
-Same-day peers retain common entering law. All June 23 handoffs incorporate the complete June 22 public-law screen; no College Savings, Florida Prepaid, Alden or Ortiz decision is treated as law entering another June 23 matter.
+Same-day peers retain common entering law. All June 23 handoffs incorporate the complete June 22 public-law screen; no College Savings, Florida Prepaid, Alden or Ortiz decision is treated as law entering another June 23 matter, except that the Florida Prepaid handoff applies College Savings Part III's consent holding, announced earlier the same day.
 
 ## Albertson’s
 
@@ -14,7 +14,7 @@ Same-day peers retain common entering law. All June 23 handoffs incorporate the 
 
 ## Murphy
 
-- [OT_1998CHUNK11_MURPHY_RECONCILED.md](../freeze/OT_1998CHUNK11_MURPHY_RECONCILED.md) — 27388 bytes; SHA-256 `9a64911475a05eabee8df24da6b33604e51f7f0cd31feb2dc979464139530e71`.
+- [OT_1998CHUNK11_MURPHY_RECONCILED.md](../freeze/OT_1998CHUNK11_MURPHY_RECONCILED.md) — 27388 bytes; SHA-256 `b7dab036697004a54b0b7208ad487d0aca6d6134d1616af71a6b924919f8e6e7`.
 
 ## Olmstead
 
@@ -22,17 +22,17 @@ Same-day peers retain common entering law. All June 23 handoffs incorporate the 
 
 ## Alden
 
-- [OT_1998CHUNK11_ALDEN_RECONCILED.md](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) — 36342 bytes; SHA-256 `8701d5046c84e4b9ea83e9a88731718f0871d24e383357e579c9ea3417ddb132`.
+- [OT_1998CHUNK11_ALDEN_RECONCILED.md](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) — 36342 bytes; SHA-256 `17edf1ab8af0c296c155752f0451b191dddf133ddee0c371880973bf1be9f33c`.
 
 ## College Savings Bank
 
-- [OT_1998CHUNK11_COLLEGE_SAVINGS_RECONCILED.md](../freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_RECONCILED.md) — 28188 bytes; SHA-256 `a7f439d21755c2b2a89f77a8beea6d99d249a645b9be2e38fa31c7cf97748225`.
+- [OT_1998CHUNK11_COLLEGE_SAVINGS_RECONCILED.md](../freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_RECONCILED.md) — 28188 bytes; SHA-256 `1a948de84c465e676e17034b042fa7f9e7ced215bbe13dc71a00174e85a68479`.
 
 ## Florida Prepaid
 
-- [OT_1998CHUNK11_FLORIDA_PREPAID_RECONCILED.md](../freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECONCILED.md) — 37924 bytes; SHA-256 `87bd609c214d00ff18d7d4a9dc7b608507bff05dc35a70c24826a98d091e8f22`.
+- [OT_1998CHUNK11_FLORIDA_PREPAID_RECONCILED.md](../freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECONCILED.md) — 39668 bytes; SHA-256 `225fd2efc800f4ed989fb7bdba86d66a580fcdd9df526b76e7a133cf4e2ac7b1`.
 
 ## Ortiz
 
-- [OT_1998CHUNK11_ORTIZ_RECONCILED.md](../freeze/OT_1998CHUNK11_ORTIZ_RECONCILED.md) — 35555 bytes; SHA-256 `9135fd66f7e9dc120d0f2d1ea652ce7559184f94f6aec4e61062140a1e91d5b9`.
+- [OT_1998CHUNK11_ORTIZ_RECONCILED.md](../freeze/OT_1998CHUNK11_ORTIZ_RECONCILED.md) — 35555 bytes; SHA-256 `b54c6b680898f62c29a187dede3b57def43dfe968edfa7c7b86df4be2b847721`.
 

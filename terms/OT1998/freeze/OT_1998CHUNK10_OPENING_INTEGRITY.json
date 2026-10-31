@@ -1,6 +1,6 @@
 {
   "base_main": "b4388b175a3b71b3bc308f9d28cdbae269e77f0a",
-  "approved_brief_sha256": "3f7dcb13e6a2b42f97c61006501cbe36dc4be625fe4031805794dfdaa34883de",
+  "approved_brief_sha256": "aa16478723ff936955778f77e1707f0466b52522376f9d1ba126e20ac420360f",
   "baseline_workspace_sha256": {
     "manifest": "4589a5af6ea4d9f4dca34054844b0b35a2471c74509c8581874a5a90da7b130a",
     "ledger": "e4697f71689158ca279a23732eef7c8847d2a41dabcea62f6ef8b7f8a769dc86",

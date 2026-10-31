@@ -8118,19 +8118,22 @@ The recipient-possession restrictions in §§922(g)(1) and (g)(9) have a distinc
 
 **Governing question:** Whether explicit prospective regulation and continued ordinary commercial activity establish State consent to private federal enforcement.
 
-**Current rule:** A State’s continued operation of an otherwise lawful commercial undertaking is not unequivocal submission to federal jurisdiction merely because Congress clearly and prospectively subjects that activity to private federal enforcement, even if the undertaking is realistically optional. Unmistakable congressional intent remains distinct from the State’s voluntary act of consent; an opportunity to leave ordinary commerce does not itself constitute acceptance of a specifically offered federal benefit or voluntary invocation of judicial authority.
+**Current rule:** A State’s continued operation of an otherwise lawful commercial undertaking is not unequivocal submission to federal jurisdiction merely because Congress clearly and prospectively subjects that activity to private federal enforcement, even if the undertaking is realistically optional. Unmistakable congressional intent remains distinct from the State’s voluntary act of consent; an opportunity to leave ordinary commerce does not itself constitute acceptance of a specifically offered federal benefit or voluntary invocation of judicial authority. A State’s continued commercial participation after Congress authorizes federal patent suit likewise is not consent. Actual consent through a distinct State choice, such as an express waiver or voluntary invocation of federal jurisdiction, remains available.
 
 **Authority by component:**
 
 - College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board — Canonical Decision Record, Holdings, “Continued ordinary commerce is not unequivocal consent to federal suit”, 1999-06-23; Part III with Stone-Zsela, O’Connor, Scalia, Kennedy and Thomas.
+- Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank — Canonical Decision Record, Holdings, “Continued commercial participation does not supply consent to this suit”, 1999-06-23; Stevens Part IV, all nine Justices. Applies College Savings Bank Part III to continued operation of the prepaid-tuition program after the express patent remedy took effect; Stevens, Souter, Ginsburg and Breyer accept that holding as controlling.
 
-**Present operation effective:** College Savings Bank, June 23, 1999.
+**Present operation effective:** College Savings Bank and Florida Prepaid, June 23, 1999.
 
-**Exceptions and limits:** Actual voluntary waiver, properly conditioned federal benefits and interstate compacts remain distinct. The decision reaches no particular funding or coercion question, litigation-waiver act or governmental-function classification. Hilton’s retained FELA coverage and specialized state-court enforcement remain intact.
+**Exceptions and limits:** Actual voluntary waiver, properly conditioned federal benefits and interstate compacts remain distinct. Neither decision reaches a particular funding or coercion question, litigation-waiver act or governmental-function classification. Hilton’s retained FELA coverage and specialized state-court enforcement remain intact.
 
 **Former-rule note:** The residual Parden inference of federal-forum consent from ordinary commercial participation fails even under the new explicit prospective enactment. This does not wholesale overrule retained substantive FELA coverage or Hilton’s state-court rule.
 
-**Holdings navigation:** [College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board — Continued ordinary commerce is not unequivocal consent to federal suit](HOLDINGS.md#continued-ordinary-commerce-is-not-unequivocal-consent-to-federal-suit).
+**Open question:** Whether a State’s litigation conduct—appearance, a §1404(a) transfer request or requests for declarations of invalidity, noninfringement and unenforceability—waives immunity remains undecided. Florida Prepaid need not decide it because its Section 5 and Article I holdings sustain the judgment, and it makes no waiver finding.
+
+**Holdings navigation:** [College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board — Continued ordinary commerce is not unequivocal consent to federal suit](HOLDINGS.md#continued-ordinary-commerce-is-not-unequivocal-consent-to-federal-suit); [Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank — Continued commercial participation does not supply consent to this suit](HOLDINGS.md#continued-commercial-participation-does-not-supply-consent-to-this-suit).
 
 ### Express State coverage under federal intellectual-property remedies
 

@@ -4,7 +4,7 @@ Configuration: fresh isolated gpt-6-astra agent; reasoning effort ultra; fork_tu
 
 Reviewed identities:
 
-- `terms/OT1998/freeze/OT_1998CHUNK11_JUNE22_RENDER_INPUT.md`: 78,074 bytes; SHA-256 `bf4362a4e068de1e598de5bcc5a70233db1fbf7901e66172a016f1232f7dfb6b`.
+- `terms/OT1998/freeze/OT_1998CHUNK11_JUNE22_RENDER_INPUT.md`: 78,074 bytes; SHA-256 `d7852c0cebfea1fa73a8820dfbcdc7492d25929a2db8b9e518b6b10597bf14dd`.
 - `terms/OT1998/output/OT_1998CHUNK11.md`: 76,841 bytes; SHA-256 `07a9933f2c7ccc36864318f3149097b5ae47e93fd4c019f7a258bfd8dbacf9ed`.
 
 Exact substantive scope: Murphy input lines 225–354 and output lines 237–368; Olmstead input lines 359–482 and output lines 370–495; `foundation/RENDER_CONTRACT.md`; and only the Render form, Holdings writing standard, and Voice sections of `AGENTS.md`. Whole-file input identities were checked without reviewing other case entries. No Git, research, Records, briefs, private inputs, Stone directories, MASTER_JURISPRUDENCE, or other files were consulted. This was projection review only, without legal reconsideration or supplementation.

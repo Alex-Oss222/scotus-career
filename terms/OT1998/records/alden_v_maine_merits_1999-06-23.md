@@ -13,7 +13,7 @@ The lower court’s constitutional reasoning drew materially on the historical c
 
 The independently entered state judgment supplies the actual vehicle. Mills is not the judgment under review; no transfer, reopening, vacatur, merits adjudication or substitute federal dismissal is invented. The source recitation of its historical jurisdictional dismissal is not a ruling that the same constitutional reasoning compelled that event in this timeline. Stage before decision: submitted merits review of the final state immunity judgment. Stage after: reversed and remanded for ordinary state FLSA proceedings, with no special deadline, new hearing or continuing Supreme Court supervision.
 
-Research cutoff is immediately before June 23, 1999. All completed June 22 public law enters, including Sutton, Albertson’s, Kolstad, Murphy and Olmstead. Alden, College Savings, Florida Prepaid and Ortiz are uncoordinated June 23 matters and use a common pre-June 23 legal baseline. Their alphabetical assignment sequence supplies no same-day legal dependency.
+Research cutoff is immediately before June 23, 1999. All completed June 22 public law enters, including Sutton, Albertson’s, Kolstad, Murphy and Olmstead. Alden, College Savings, Florida Prepaid and Ortiz are uncoordinated June 23 matters and use a common pre-June 23 legal baseline. Their alphabetical assignment sequence supplies no same-day legal dependency for Alden; Florida Prepaid separately applies College Savings Part III, announced earlier the same day.
 
 ## Participation and issue-specific law entering
 
@@ -117,7 +117,7 @@ Effective June 23, the added proposition concerns this expressly authorized FLSA
 
 ## Adaptive audit: frozen commitments and final joins
 
-The [independent commitments](../freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md) and [released reconciliation](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) remain unchanged. The latter’s exact supplied SHA256 is 8701d5046c84e4b9ea83e9a88731718f0871d24e383357e579c9ea3417ddb132. Each final position below preserves the frozen ground and limit; the table reports compatibility, not invented circulation events.
+The [independent commitments](../freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md) and [released reconciliation](../freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md) remain unchanged. The latter’s exact supplied SHA256 is 17edf1ab8af0c296c155752f0451b191dddf133ddee0c371880973bf1be9f33c. Each final position below preserves the frozen ground and limit; the table reports compatibility, not invented circulation events.
 
 | Justice | Frozen sufficient ground and own prior support | Final joins and disposition; preserved objection |
 |---|---|---|

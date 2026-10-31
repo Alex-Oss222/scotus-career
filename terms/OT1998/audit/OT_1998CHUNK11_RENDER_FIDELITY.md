@@ -6,8 +6,8 @@ Operator-only result: **PASS. No projection discrepancy or render blocker found.
 
 | File | Bytes | SHA-256 |
 |---|---:|---|
-| `render-inputs/OT_1998CHUNK11.md` | 160327 | `901fc3e292d8d42dc9dc440732f5e7c4679627254a8adf845614cd98732c252d` |
-| `output/OT_1998CHUNK11.md` | 158745 | `b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515` |
+| `render-inputs/OT_1998CHUNK11.md` | 160327 | `14503e31bfda09f770ef42b12bece5fd1c85e875051e2d6f4d7e29714496ae9f` |
+| `output/OT_1998CHUNK11.md` | 158745 | `ca3a4f3c669228c372623e08eceef149cfe6e9230ad3916e80846fc08b9d3d4c` |
 
 Both match the controller’s immutable releases and final mechanical receipt. All eight public-entry identities match the receipt. The first four input-event hashes and first four public-entry hashes exactly match the baselines in `audit/OT_1998CHUNK11_RENDER_FIDELITY_PARTIAL.md`; their substantive checks were not repeated.
 
@@ -19,10 +19,10 @@ For every new entry, Opinion Topology, Holdings, Precedent Treatment, Law After 
 
 - **Alden:** Preserves the unanimous Part I propositions, five-Justice constitutional holding and 5–4 reversal; separate state review and Mills, ordinary FLSA adjudication and the absence of a wage award remain distinct.
 - **College Savings Bank:** Preserves the 5–4 reversal, unanimous statutory proposition, eight-Justice §5 rejection, five-Justice consent rejection and absence of a common affirmative amenability rationale. Part IV, the four-Justice consent ground, Stevens’s separate ground and the review-scope disagreement remain noncontrolling as supplied. Lanham merits and remedies remain undecided; the other proceedings are unaffected.
-- **Florida Prepaid:** Preserves the 5–4 affirmance, unanimous Part I propositions, the five-Justice Section 5 and Article I holdings, each independently sufficient, and the four-Justice Part IV commercial-consent ground as a noncontrolling plurality. Stone-Zsela writes no separate opinion. The dissent’s limited vacatur/remand differs from the Court’s ordinary patent proceedings; no liability, remedy, constitutional-tort prerequisite or required waiver adjudication is created.
+- **Florida Prepaid:** Preserves the 5–4 affirmance, unanimous Part I propositions, the five-Justice Section 5 and Article I holdings, each independently sufficient, and the unanimous Part IV holding rejecting consent from continued commercial participation. Stone-Zsela writes no separate opinion. The dissent’s limited vacatur/remand differs from the Court’s ordinary patent proceedings; no liability, remedy, constitutional-tort prerequisite or required waiver adjudication is created.
 - **Ortiz:** Preserves the 7–2 reversal, six-Justice complete framework, seven-Justice shared portions, Stone-Zsela’s precise partial join and both independently sufficient certification failures. The Global certification/approval remedy, dependent restraints, separate Rudd/Trilateral proceedings, inventory settlements and absence of a directed replacement or payment remain distinct.
 
-Every new ordinary controlling explanation is within 350 words (whitespace counts in displayed order): Alden 103/96/239/123; College Savings Bank 119/217/203; Florida Prepaid 112/104/127/210/252; Ortiz 104/166/212/203. The input has no length designation. Selected separate summaries retain the supplied substance without invented grounds, authority or quotations. Source Notes remain public support and legally material limits, and supply no new holding, vote or remedy. No prohibited private/workflow material or dedicated personal account is introduced.
+Every new ordinary controlling explanation is within 350 words (whitespace counts in displayed order): Alden 103/96/239/123; College Savings Bank 119/217/203; Florida Prepaid 112/104/127/210/252/188; Ortiz 104/166/212/203. The input has no length designation. Selected separate summaries retain the supplied substance without invented grounds, authority or quotations. Source Notes remain public support and legally material limits, and supply no new holding, vote or remedy. No prohibited private/workflow material or dedicated personal account is introduced.
 
 ## Inherited checks and corrected fork provenance
 

@@ -72,9 +72,9 @@ The exact source bytes used for the final handoff are recorded below. Paths are 
 |---|---:|---|
 | `freeze/OT_1998CHUNK11_ALDEN_NEUTRAL.md` | 21461 | `0787c56077d861ee1eebcdd31a427f07d7d5de3db8cd517d506df200d559307d` |
 | `entering-law/OT_1998CHUNK11_ALDEN.md` | 87027 | `46044514347866797d5e84a69e9eb5c331d124aa5375007d662640df5956361e` |
-| `freeze/OT_1998CHUNK11_OPENING_NEUTRAL_PROJECTION.md` | 947957 | `0c70d00852856f3a6bfc0e0cb78bb3f9fadda1e3c817b812faf15ccb2abec5e6` |
-| `freeze/OT_1998CHUNK11_JUNE23_FINAL_NEUTRAL_SCREEN.md` | 18350 | `fee710a8bbcfe44a4707a2d3246a78407a59f0a4dfa3e563f8787714de1bdcf3` |
-| `entering-law/OT_1998CHUNK11_JUNE23_COMPLETED_PUBLIC_LAW.md` | 112581 | `30b93a744fabf74c97bb67774bd11a81c53de25abaff4e9371a8148f359a6adb` |
+| `freeze/OT_1998CHUNK11_OPENING_NEUTRAL_PROJECTION.md` | 947957 | `7f96d0c0ec5a450d0e578542892b18b047a623901e69deee9101448f256c120d` |
+| `freeze/OT_1998CHUNK11_JUNE23_FINAL_NEUTRAL_SCREEN.md` | 18350 | `eece64e5cb2f9f537cb21c9470b16860233c5702a7bff43b47463f530f1c2603` |
+| `entering-law/OT_1998CHUNK11_JUNE23_COMPLETED_PUBLIC_LAW.md` | 112581 | `985f79089f404d8384caa1c98142dfef4ff1d4e0de36eeb50c4bd39d6117963b` |
 | `runtime/chunk11-control/alden-maine-lower-neutral.txt` | 26833 | `b3ac424e09b5e9a508f0f6708bf3fa5000cd7abeba0cc04184ea6ea5f1329e0f` |
 
 The controlling core sources are the validated Alden packet and its exact law slice, including official §§203 and 216(b), Hilton, Seminole, New York, Printz and South Central Bell. The controlled Maine source supplies the separate state proceeding, paragraphs 4–13 majority reasoning/no-waiver construction and paragraphs 14–23 dissent; its historical Supreme Court descriptions remain lower reasoning, not imported governing adjudications. The opening projection’s Tice entry adds the §216(b) party-consent distinction without finding a defect here. The final screen supplies chronology; the public-law compilation supplies the completed June 22 authorities, complete Hilton entry, and exact question-scope Standard, “Presented questions, subsidiary arguments and exceptional Supreme Court review,” with its stated effective component authorities.

@@ -4,7 +4,7 @@
 
 **Event:** No. 97-1704; merits decision dated June 23, 1999; argued December 8, 1998; certiorari review of 134 F.3d 668 (5th Cir. 1998). All nine Justices participate. Six constitute a quorum; five are necessary for judgment or a governing proposition. The issue summaries concern Rule 23(b)(1)(B) limited-fund certification and Rule 23(a)(4) representation; they are not represented as a recovered verbatim grant.
 
-**Controlling preparation input:** `freeze/OT_1998CHUNK11_ORTIZ_RECONCILED.md`, 35,555 bytes, SHA256 `9135fd66f7e9dc120d0f2d1ea652ce7559184f94f6aec4e61062140a1e91d5b9`. The original independent positions remain audit history only. The six reconciled Associates adopt the complete qualified traditional limited-fund construction, its present financial/equitable application and definitive inadequate-representation application. Stevens and Breyer oppose reversal on those certification grounds and preserve their additional-issue reservation. No eight-Justice corrective-review/vacatur position survives.
+**Controlling preparation input:** `freeze/OT_1998CHUNK11_ORTIZ_RECONCILED.md`, 35,555 bytes, SHA256 `b54c6b680898f62c29a187dede3b57def43dfe968edfa7c7b86df4be2b847721`. The original independent positions remain audit history only. The six reconciled Associates adopt the complete qualified traditional limited-fund construction, its present financial/equitable application and definitive inadequate-representation application. Stevens and Breyer oppose reversal on those certification grounds and preserve their additional-issue reservation. No eight-Justice corrective-review/vacatur position survives.
 
 ## Governing form, actual common ground and limits
 
