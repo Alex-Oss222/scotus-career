@@ -27,7 +27,7 @@ Current Standards titles, current wording and authority dates are included exact
 
 | Matter | Operative neutral SHA256 | Verbatim approved source SHA256 |
 |---|---|---|
-| FLORIDA_PREPAID | `876c14c31c23f388d24bea4a2a7a2e8115cc15b205a3e48c42c479dbb2580f2d` | `325de01d9aa91a830c5358c453596bfafc73f18c30ba33366cf10b61012b09ac` |
+| FLORIDA_PREPAID | `34dfb40b056a83e504e1d50edbde106c7dd4f87b80a6b4b07137070b3d93e10b` | `325de01d9aa91a830c5358c453596bfafc73f18c30ba33366cf10b61012b09ac` |
 | COLLEGE_SAVINGS | `7316a5c1201590e667a20cbc5ef49a4851c0e1a12eae9f1dca6c803fd135dd81` | `23d451ee346cf091c87ede5983dcffa1a5423f75a1b88b1265d3630c1c877a2b` |
 
 **Pending action:** reactivate this context with only the completed June22 sanitized public-law increment; refresh affected legal material and issue a final readiness receipt. Do not supply raw Records, comparator, commitments, reconciliation or controlled-position material.

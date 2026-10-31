@@ -35,14 +35,14 @@ No Git command was run. Git-object existence, repository commitment status and G
 |---|---|
 | alaska_v_native_village_of_venetie_tribal_government_merits_1998-02-25.md | `9dde27feef0ab5b80fbdaf73af1ad3c0af55d490a17445d59a0056b8ae1e8c81` |
 | aponte_matos_v_toledo_davila_merits_1998-02-26.md | `03d246e83d3fb2411144c591322b1d3e772a739edf3f812f295f3d03a9a1a8fe` |
-| arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md | `ae5e7ab633a087dd7a69e3450a013f5e89c9e807d2f9597e91f62cc58eb74748` |
+| arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md | `8a87f17cb79ee4951f3130ceaca283d9416dc6142732583d0b5ce16ce7acf9c1` |
 | bogan_v_scott_harris_merits_1998-03-03.md | `127e784437815ce26ad9d78f9760b2f06839de5bcec65404f9e8fd218551143d` |
-| johnson_v_rodriguez_merits_1998-02-17.md | `21a8aafccde31ddc92fea68c324bc7dbd2ded345058daceded519649a557f34a` |
+| johnson_v_rodriguez_merits_1998-02-17.md | `6945b6b8ebc8adfedbe4ac7be074f43549386b030f450f2433a7bba460a0f077` |
 | lexecon_inc_v_milberg_weiss_bershad_hynes_lerach_merits_1998-03-03.md | `cf024adbaaaa8eb2b8b110646873a1243454756315c3f0e900890e0f0615e54f` |
 | national_credit_union_administration_v_first_national_bank_trust_co_merits_1998-02-25.md | `31d3fe29cfa0e28f5adeb094eca5e2514bcc141cea9a1692f64b3f1f0d0c54b7` |
-| newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md | `a8c07f82aa9934ad67b2a570ceff4bd45c459115c79a68651a77d08fda41c0b5` |
-| regions_hospital_v_shalala_merits_1998-02-24.md | `e2edd46bf3f3f16fec2685c8bf4b6afb6024f8875dea45ab3287c173be3b1921` |
-| rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md | `da4aba76464e1ef87de55dbb0ac63aa1d8f34864b79b9080052ec44445bedb0a` |
+| newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md | `2f17b37aedbb4f9ce3ae60eabcd061fad4ea615ed3fab540882c081418d88144` |
+| regions_hospital_v_shalala_merits_1998-02-24.md | `29c6b8787a207859aff2450f4e1ce459fc7314741bed7db6de52389d423f1590` |
+| rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md | `30a6e29bad248e6ec16c881c9b9a7e4cc76432ca0fbbdea3a96b77e6fb286d2e` |
 | shahar_v_bowers_merits_1998-03-02.md | `4f2ac0c5771f6e63645185bd0cd68fdedaf717fa3e5670d85151b7e4dc4da562` |
 | spencer_v_kemna_mootness_1998-03-03.md | `0bb6a849ba0e734a0426495c61845134291fb30264082125c54b6f060ef18721` |
-| united_states_v_kirk_merits_1998-02-14.md | `0144d3171952543c7fa04827fccaafdcbdd3d7e3849f2e85c6c30b5d4ef88692` |
+| united_states_v_kirk_merits_1998-02-14.md | `aaf253d9a10648353e068ee201a5118371f8748482089d8a0e4069274e3ff237` |

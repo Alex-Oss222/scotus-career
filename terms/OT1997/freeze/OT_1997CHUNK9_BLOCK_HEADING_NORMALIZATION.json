@@ -45,7 +45,7 @@
     "record": "united_states_v_lacy_merits_1998-05-28.md",
     "heading_depth_changed": true,
     "before_sha256": "6819c17dfcc56317cb6ff8b16e7ec04894404d47a4ea4458878412d4de51449e",
-    "after_sha256": "55177aba937f5c350ce8a23f297ee0542ad4757e48ec1fb0ec4a013db52b712f",
+    "after_sha256": "4dec1cb1a6e82ca965bbf4396d7c1a9f96bb80716765d36f8110d86d781900ac",
     "substantive_text_unchanged": true
   },
   {
@@ -72,8 +72,8 @@
   {
     "record": "united_states_v_beggerly_merits_1998-06-08.md",
     "heading_depth_changed": false,
-    "before_sha256": "f0e7a0d1803cd526ef92202dfdb6a2bd1d761d16acda0b82bdb77105bf8b104f",
-    "after_sha256": "f0e7a0d1803cd526ef92202dfdb6a2bd1d761d16acda0b82bdb77105bf8b104f",
+    "before_sha256": "df5b0735a086c85f688403e2dcd392ab008027b9044ed97c9724c046d1b24aec",
+    "after_sha256": "df5b0735a086c85f688403e2dcd392ab008027b9044ed97c9724c046d1b24aec",
     "substantive_text_unchanged": true
   }
 ]

@@ -28,8 +28,8 @@ All three publication headers match exactly. Holdings is published in the contin
 
 | Published tracker | SHA-256 |
 |---|---|
-| [HOLDINGS](../../../state/HOLDINGS.md) | `00832cd77766b25d57a9de0f64673e61edd0883e755a65769097f32bc6d16eb6` |
-| [STANDARDS_AND_TESTS](../../../state/STANDARDS_AND_TESTS.md) | `9a4063ebff7d0db2025d426d45e113bb78630618fb182782ca737a5f2ce484e5` |
+| [HOLDINGS](../../../state/HOLDINGS.md) | `0bcb73e6047fcf0c58557a30f2f45fb48d8162de6e9b360c16e0f12905b180ab` |
+| [STANDARDS_AND_TESTS](../../../state/STANDARDS_AND_TESTS.md) | `b3b7f8b1e6a1f773c6eb83c53eb1b9c09edb627c9dde140160bfe4865181ca14` |
 | [STANDING_STATE](../../../state/STANDING_STATE.md) | `102295da767d405e04b8a8d1df25e56b8e389b2e7c4c333e40c6abc4d296054d` |
 
 ## Controlling arms decisions

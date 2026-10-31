@@ -1255,7 +1255,7 @@ The offense-date text is drawn only from the bounded Hubbard section of `OT_1994
 
 | Finalization source | SHA-256 |
 |---|---|
-| Preserved `runtime/OT_1994CHUNK5_COMMITMENTS_HUBBARD_PENDING_PINSON.md`, 65,230 bytes | `4e8f91f21ef3517d11e14992e73b5db8fa19f15cb232aac2682b5fdc18176582` |
+| Preserved `runtime/OT_1994CHUNK5_COMMITMENTS_HUBBARD_PENDING_PINSON.md`, 65,244 bytes | `4e8f91f21ef3517d11e14992e73b5db8fa19f15cb232aac2682b5fdc18176582` |
 | `entering-law/OT_1994CHUNK5_BEFORE_1995-05-15.md`, complete bytes | `bedcecf8a9db546baeb6c8029c0e3fbbc05914336c10350bf6d8010f953c9a71` |
 | Actual Pinson public section in that release, UTF-8 normalized newlines and one terminal newline | `021009273ebf9959ebfcca5a75deac12c0169d28f653daf480f44f7882afe52a` |
 | Hubbard-only validated neutral section through its end marker, UTF-8 normalized newlines without appended newline | `419bd3a2a9e950d4da46a01f697251ffd4e12f2c08a63edb48450ecd9d3d6946` |

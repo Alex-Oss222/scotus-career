@@ -6,8 +6,8 @@ Operator-only result: **PASS. No projection discrepancy or render blocker found.
 
 | File | Bytes | SHA-256 |
 |---|---:|---|
-| `render-inputs/OT_1998CHUNK11.md` | 165836 | `14503e31bfda09f770ef42b12bece5fd1c85e875051e2d6f4d7e29714496ae9f` |
-| `output/OT_1998CHUNK11.md` | 164850 | `ca3a4f3c669228c372623e08eceef149cfe6e9230ad3916e80846fc08b9d3d4c` |
+| `render-inputs/OT_1998CHUNK11.md` | 165836 | `8cdb00f27d174cc43b8eb424b755cc62c4ff5756fd18bd028f929298b76a99a2` |
+| `output/OT_1998CHUNK11.md` | 164850 | `b55b9cb8d6dac665798c1a8f25e1eb5adb60c250aabd15202973139c0813f23e` |
 
 Both match the controller’s immutable releases and final mechanical receipt. All eight public-entry identities match the receipt. The first four input-event hashes and first four public-entry hashes exactly match the baselines in `audit/OT_1998CHUNK11_RENDER_FIDELITY_PARTIAL.md`; their substantive checks were not repeated.
 

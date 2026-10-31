@@ -46,7 +46,7 @@
     },
     {
       "path": "terms/OT1997/entering-law/OT_1997CHUNK1_RYBAR_EFFECTIVE.md",
-      "bytes": 7941,
+      "bytes": 9137,
       "sha256": "4eea655335fa3b7ba48c005b86707e0b776bfe91da14fd610158d21d30be3f35"
     },
     {
@@ -1116,7 +1116,7 @@
     },
     {
       "path": "terms/OT1997/records/united_states_v_rybar_merits_1997-11-24.md",
-      "bytes": 18487,
+      "bytes": 21678,
       "sha256": "8782dc93cc5574136285443ed5a9165f86cde8c127c703e36f20608955a83283"
     },
     {
@@ -1126,7 +1126,7 @@
     },
     {
       "path": "terms/OT1997/render-inputs/OT_1997CHUNK1.md",
-      "bytes": 71891,
+      "bytes": 75146,
       "sha256": "cfe2f625b1cf65d12a61d203d6cc42b74ba4b1596d4ce9314664906bfe4f845c"
     },
     {
@@ -1301,8 +1301,8 @@
     },
     {
       "path": "terms/OT1997/workspace/ledger.md",
-      "bytes": 13590,
-      "sha256": "4985f988a2e9cc1f151d602ca902897121746f5ceca62fab3c1c1323f46fa82b"
+      "bytes": 77427,
+      "sha256": "7e7c83da4f970e91eb92db962485c3bf7b7f9514612156ef590166d61df80297"
     },
     {
       "path": "terms/OT1997/workspace/manifest.md",

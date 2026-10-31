@@ -693,7 +693,7 @@ Kennedy is the strongest alternative. His Reich opinion gives concrete fit for s
 
 ## united_states_v_kirk_merits_1998-02-14.md
 
-Effective date: 1998-02-14. Source SHA-256: `0144d3171952543c7fa04827fccaafdcbdd3d7e3849f2e85c6c30b5d4ef88692`.
+Effective date: 1998-02-14. Source SHA-256: `aaf253d9a10648353e068ee201a5118371f8748482089d8a0e4069274e3ff237`.
 
 ### Exact opinion topology
 
@@ -705,7 +705,7 @@ The [form-first receipt](../freeze/OT_1997CHUNK4_A_FORM_FIRST.md) fixed one sign
 
 ## johnson_v_rodriguez_merits_1998-02-17.md
 
-Effective date: 1998-02-17. Source SHA-256: `21a8aafccde31ddc92fea68c324bc7dbd2ded345058daceded519649a557f34a`.
+Effective date: 1998-02-17. Source SHA-256: `6945b6b8ebc8adfedbe4ac7be074f43549386b030f450f2433a7bba460a0f077`.
 
 ### Exact opinion topology
 
@@ -722,7 +722,7 @@ One signed plenary opinion, its governing parts and Stone's partial scope were f
 
 ## arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md
 
-Effective date: 1998-02-23. Source SHA-256: `ae5e7ab633a087dd7a69e3450a013f5e89c9e807d2f9597e91f62cc58eb74748`.
+Effective date: 1998-02-23. Source SHA-256: `8a87f17cb79ee4951f3130ceaca283d9416dc6142732583d0b5ce16ce7acf9c1`.
 
 ### Exact opinion topology
 
@@ -740,7 +740,7 @@ Form first: one reasoned per curiam order separates two current motions and one 
 
 ## newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md
 
-Effective date: 1998-02-23. Source SHA-256: `a8c07f82aa9934ad67b2a570ceff4bd45c459115c79a68651a77d08fda41c0b5`.
+Effective date: 1998-02-23. Source SHA-256: `2f17b37aedbb4f9ce3ae60eabcd061fad4ea615ed3fab540882c081418d88144`.
 
 ### Exact opinion topology
 
@@ -758,7 +758,7 @@ The form-first receipt selects a per curiam summary merits decision because esta
 
 ## regions_hospital_v_shalala_merits_1998-02-24.md
 
-Effective date: 1998-02-24. Source SHA-256: `e2edd46bf3f3f16fec2685c8bf4b6afb6024f8875dea45ab3287c173be3b1921`.
+Effective date: 1998-02-24. Source SHA-256: `29c6b8787a207859aff2450f4e1ce459fc7314741bed7db6de52389d423f1590`.
 
 ### Exact opinion topology
 
@@ -778,7 +778,7 @@ Stone assigns from the six-Justice affirmance coalition. Eligible for the comple
 
 ## rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md
 
-Effective date: 1998-02-24. Source SHA-256: `da4aba76464e1ef87de55dbb0ac63aa1d8f34864b79b9080052ec44445bedb0a`.
+Effective date: 1998-02-24. Source SHA-256: `30a6e29bad248e6ec16c881c9b9a7e4cc76432ca0fbbdea3a96b77e6fb286d2e`.
 
 ### Exact opinion topology
 

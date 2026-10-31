@@ -559,7 +559,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "sha256": "0144d3171952543c7fa04827fccaafdcbdd3d7e3849f2e85c6c30b5d4ef88692",
+      "sha256": "aaf253d9a10648353e068ee201a5118371f8748482089d8a0e4069274e3ff237",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -573,7 +573,7 @@
       "authors": [
         "Kennedy"
       ],
-      "sha256": "21a8aafccde31ddc92fea68c324bc7dbd2ded345058daceded519649a557f34a",
+      "sha256": "6945b6b8ebc8adfedbe4ac7be074f43549386b030f450f2433a7bba460a0f077",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -585,7 +585,7 @@
       "tables": "",
       "counted": false,
       "authors": [],
-      "sha256": "ae5e7ab633a087dd7a69e3450a013f5e89c9e807d2f9597e91f62cc58eb74748",
+      "sha256": "8a87f17cb79ee4951f3130ceaca283d9416dc6142732583d0b5ce16ce7acf9c1",
       "classification": "Filing order; per curiam."
     },
     {
@@ -597,7 +597,7 @@
       "tables": "",
       "counted": false,
       "authors": [],
-      "sha256": "a8c07f82aa9934ad67b2a570ceff4bd45c459115c79a68651a77d08fda41c0b5",
+      "sha256": "2f17b37aedbb4f9ce3ae60eabcd061fad4ea615ed3fab540882c081418d88144",
       "classification": "Summary merits disposition; per curiam."
     },
     {
@@ -611,7 +611,7 @@
       "authors": [
         "Breyer"
       ],
-      "sha256": "e2edd46bf3f3f16fec2685c8bf4b6afb6024f8875dea45ab3287c173be3b1921",
+      "sha256": "29c6b8787a207859aff2450f4e1ce459fc7314741bed7db6de52389d423f1590",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -625,7 +625,7 @@
       "authors": [
         "Scalia"
       ],
-      "sha256": "da4aba76464e1ef87de55dbb0ac63aa1d8f34864b79b9080052ec44445bedb0a",
+      "sha256": "30a6e29bad248e6ec16c881c9b9a7e4cc76432ca0fbbdea3a96b77e6fb286d2e",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -865,7 +865,7 @@
       "tables": "",
       "counted": false,
       "authors": [],
-      "sha256": "f665ec9967c515c4fcbbb7096cd162364a9e4c5373bf6b2d14e67257249912e3",
+      "sha256": "cb3590bd8bcc82571491912575cb897b093e6c96e265377db25b3923f3818992",
       "classification": "Certiorari grant."
     },
     {
@@ -877,7 +877,7 @@
       "tables": "| Opinion of the Court, Part I | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reaches later mandamus challenge | Limited earlier-petition/mandate-scope ground; Stone-Zsela agrees with disposition only |\n| Opinion of the Court, Part II | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Reverses the constraint and remands | Common remittitur election, remedy and stated limits |",
       "counted": false,
       "authors": [],
-      "sha256": "d80b0a49db0cc5774604339aad93e9e462334117479ba0dfa1fedeaa06cb1646",
+      "sha256": "b33bfa7a4afa707b1b06b41ca3a1f8c68f0df6ada88e968301bfcafe9d203b00",
       "classification": "Summary merits disposition; per curiam."
     },
     {
@@ -999,7 +999,7 @@
       "authors": [
         "Stevens"
       ],
-      "sha256": "2a179e5f13e1e2703201776f1129537ef014664b5f388ad9849dfd738ad63603",
+      "sha256": "3d42cd5f3a62cc20a91ecf35e7ea34548192450ed0d7db699c6d506c7d5aac3f",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {
@@ -1487,7 +1487,7 @@
       "authors": [
         "Thomas"
       ],
-      "sha256": "55177aba937f5c350ce8a23f297ee0542ad4757e48ec1fb0ec4a013db52b712f",
+      "sha256": "4dec1cb1a6e82ca965bbf4396d7c1a9f96bb80716765d36f8110d86d781900ac",
       "classification": "Signed plenary merits lead; each author counted once despite multiple portions or joins."
     },
     {

@@ -1,6 +1,6 @@
 # Preparation A source/control continuation receipt
 
-Matter 73: removed the entire paragraph beginning `The prepared Abebe-Jira position` from the derivative, without reproducing its contents or framing the matter. In the authorized runtime source, the exact zero-based Unicode-character half-open interval is [13632, 14003), line 94, length 371 characters. Source SHA-256: 5dad5373c2d6251a6c99a86e3558c4b81c264211708aee9bc08813d75df931f5. Derivative: OT_1996CHUNK7_73_NEUTRAL_UNVALIDATED.md. Fresh recovery is required.
+Matter 73: removed the entire paragraph beginning `The prepared Abebe-Jira position` from the derivative, without reproducing its contents or framing the matter. In the authorized runtime source, the exact zero-based Unicode-character half-open interval is [13632, 14003), line 94, length 371 characters. Source SHA-256: 75e48445428d99ee2e9d1d1a28ac6396dbf88f76143747d13807e150b96cc8b3. Derivative: OT_1996CHUNK7_73_NEUTRAL_UNVALIDATED.md. Fresh recovery is required.
 
 Matter 76: the recovered petitioner merits p.1 and JA p.110 exposed historical target grant/scheduling metadata. No target Supreme Court merits outcome or reasoning was read. Control was notified and directed this context to source/control only for 76; no final neutral76 was produced. The new source handoff records exactly what was read, distinguishes disputed testimony from findings, and mechanically copies supporting primary passages. Full petition and reply remain unread here. No absence conclusion is made.
 

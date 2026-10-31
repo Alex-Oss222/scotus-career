@@ -355,7 +355,7 @@
       "public_sha256": "ce3f543fb13b848b44e2113fdfa70090c2e4c52b641c69ed781c34e52405fb7c"
     },
     "records/Hopwood_v_Texas_merits_1996-11-25.md": {
-      "sha256": "da55373d2e2cd8ce689b0ddce7ad3816dcac8443fb65c9b22d7638a2d4e17e06",
+      "sha256": "38a5579732ba9420262cb3a49876b980308f03cac53e29e6d3e56191fd83abb9",
       "bytes": 78264,
       "event_date": "1996-11-25",
       "result": "**Result:** Affirm in part, vacate in part, and remand; actual-process invalidity unanimous; diversity-direction vacatur 7\u20132; remedial-unit correction 8\u20131; remaining individual-remedy components unanimous with the opinion joins distinguished below.\r",
@@ -857,7 +857,7 @@
     },
     "briefs/OT_1996CHUNK1.md": {
       "sha256": "82399c1ee3c2500ed8dc9a794f7add13d21f23fe8f87ab26acaee7ad116618d2",
-      "bytes": 195081
+      "bytes": 195600
     },
     "briefs/OT_1996CHUNK10.md": {
       "sha256": "724be4e53e482cf9cb69634e4edbbc32eb4f5505961f24ee7f2972e7dec376cd",
@@ -872,8 +872,8 @@
       "bytes": 194159
     },
     "briefs/OT_1996CHUNK13.md": {
-      "sha256": "ede06b650593d2067e5ddba22403f8299080fd5a6144cd5cfaeeb898af7f2121",
-      "bytes": 197563
+      "sha256": "b23f418b449d747a065b291e9cd5f4600ead5b595d2fe88a8782b95f66f9e08d",
+      "bytes": 197898
     },
     "briefs/OT_1996CHUNK2.md": {
       "sha256": "e21189a0ca269d54ec30a3c3213a5d66e477bd93284910f8e027cab315df8fe1",
@@ -896,8 +896,8 @@
       "bytes": 164364
     },
     "briefs/OT_1996CHUNK7.md": {
-      "sha256": "6b11404b50a5386a6a91927764b7a20fd357d9563efe4fbc54206ea5ec67a073",
-      "bytes": 157998
+      "sha256": "ea7a0df76dd8fdac7e9fcb6c7ccecc34595626369afaaff4eefc59169fca69c2",
+      "bytes": 157997
     },
     "briefs/OT_1996CHUNK8.md": {
       "sha256": "4960742d43d42768ed6734604580563ad0dbf8af6bd6c7045c77acaf59b960d2",
@@ -913,7 +913,7 @@
     },
     "output/OT_1996CHUNK1.md": {
       "sha256": "60c8ef5d863a97610e0f295fc1bd034ff304697177ae8428cd12d004e82eeb48",
-      "bytes": 180500
+      "bytes": 180682
     },
     "output/OT_1996CHUNK10.md": {
       "sha256": "dd1eee1d56c08ef929e715cd17a472a282859b5b450ade18d2eb5a83c54e4bda",
@@ -941,7 +941,7 @@
     },
     "output/OT_1996CHUNK7.md": {
       "sha256": "543d9099b2fb1997ab4568835808689b77fd23aa1eb7e946e319a9c221635951",
-      "bytes": 184815
+      "bytes": 185317
     },
     "output/OT_1996CHUNK8.md": {
       "sha256": "e622623e6814fbdf1459f68653944f42bcd7361ca7b1031b82f0cd84a4c5df45",
@@ -1013,14 +1013,14 @@
     },
     "runtime/OT_1996CHUNK1_HOPWOOD_STONE.md": {
       "sha256": "1224afd28c4dca8f050f77df4fe74fda7691d4b9656f2110ea2cbfbf3c33314a",
-      "bytes": 14193
+      "bytes": 14253
     },
     "runtime/OT_1996CHUNK1_NEUTRAL.md": {
       "sha256": "120884aec36bac20c47564871c51c1da12a3dc52df31f5406dcabd8c37cc0f95",
-      "bytes": 117967
+      "bytes": 118426
     },
     "runtime/OT_1996CHUNK1_RECONCILED.md": {
-      "sha256": "d2c87529cae8c3503b6e0960c9cac004880fa9c3ef0ff8e76a75636ca5aa2de7",
+      "sha256": "a0d4db0aab1709788576f3afe0ed809cc8d29f2cecc3d64323233a7f20e92ba7",
       "bytes": 1596
     },
     "runtime/OT_1996CHUNK1_ROY_COMPARATOR.md": {
@@ -1033,7 +1033,7 @@
     },
     "runtime/OT_1996CHUNK1_STONE.md": {
       "sha256": "f4e8f5f3d661fa274067adea4d54477698297b133512626df09cbfe283dc11c6",
-      "bytes": 67189
+      "bytes": 67249
     },
     "runtime/OT_1996CHUNK1_YANG_STONE.md": {
       "sha256": "6c0f5bba8cebe9c21c99dbc486ab87148098c7940b9e003dec0edc746951fbd5",
@@ -1456,8 +1456,8 @@
       "bytes": 11300
     },
     "runtime/OT_1996CHUNK7_NEUTRAL.md": {
-      "sha256": "5dad5373c2d6251a6c99a86e3558c4b81c264211708aee9bc08813d75df931f5",
-      "bytes": 99244
+      "sha256": "75e48445428d99ee2e9d1d1a28ac6396dbf88f76143747d13807e150b96cc8b3",
+      "bytes": 99243
     },
     "runtime/OT_1996CHUNK7_RECONCILED.md": {
       "sha256": "f4138bc6026d5264910d7438dc0aec1738f5c0ac6936e3a34f1b6f4e6d5eaf7a",
@@ -1625,7 +1625,7 @@
     },
     "runtime/OT_1996CHUNK8_ASSIGNMENT_BASELINE.md": {
       "sha256": "a53aefd9d36f7833ba4aaf6b2e0aac6ed983cc791696af7802a2884547703b48",
-      "bytes": 263083
+      "bytes": 263315
     },
     "runtime/OT_1996CHUNK8_COMMITMENTS.md": {
       "sha256": "b89045a09210c5473d508b6007764f5075014bd08591be6bfdd509aeb341d9e8",
@@ -1813,7 +1813,7 @@
     },
     "runtime/assembly/Hopwood_DRAFT.md": {
       "sha256": "028003740c90384ef7f4455fbe5c359ffa433b1e06a48d04327ca028532a136d",
-      "bytes": 77772
+      "bytes": 78309
     },
     "runtime/assembly/Humane_Society_DRAFT.md": {
       "sha256": "e1cb2158a674fb53b45160dfe8ac1d3caac708b83279a8f2da133e705f369b04",
@@ -1837,7 +1837,7 @@
     },
     "runtime/assembly/OT_1996CHUNK4_RESUMPTION_ASSIGNMENT_SOURCES.md": {
       "sha256": "cac57a7ad840a2b4710d597bda3e35f309053b9d64b9a51967f88e2aa67590eb",
-      "bytes": 287857
+      "bytes": 287974
     },
     "runtime/assembly/OT_1996CHUNK4_RESUMPTION_STONE.md": {
       "sha256": "e602ca34d6e8f001c2f763bbe2c04c1ee3b76b1f834afc1a9f71f4ea6fcf8456",
@@ -1845,7 +1845,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_60_ASSIGNMENT.md": {
       "sha256": "da39ff17ec65b934377531aec858f9fb6913bcedb98c557f30204dd1fc23a2e2",
-      "bytes": 134949
+      "bytes": 134958
     },
     "runtime/assembly/OT_1996CHUNK6_60_STONE.md": {
       "sha256": "32ac8588e9442c4f2d4d99cadc8b1b6a23855f372e41985fd73fd76fc22b7cc5",
@@ -1861,7 +1861,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_62_ASSIGNMENT.md": {
       "sha256": "490a5ba3c99dd2c41cdbd6db57c49b08c473dee43a2f279e7521fb4e174dd4bd",
-      "bytes": 136467
+      "bytes": 136476
     },
     "runtime/assembly/OT_1996CHUNK6_62_STONE.md": {
       "sha256": "e2ba8c24220ebdc3adf344ba25ff109b8c3021cd63dce9658538db95d3f97e05",
@@ -1869,7 +1869,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_63_ASSIGNMENT.md": {
       "sha256": "c869a3de875516c67f4dc00577eb78c8bb75077c2fa5cd26552d2bd22bd0a933",
-      "bytes": 137653
+      "bytes": 137662
     },
     "runtime/assembly/OT_1996CHUNK6_63_STONE.md": {
       "sha256": "b29623717ab65760fd494037b251ea0d639571b5c84f2918a834b588367a0bb7",
@@ -1877,7 +1877,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_64_ASSIGNMENT.md": {
       "sha256": "67acdf8a478d0643f649ba34c8ee805565dfae2d4a9d53ca0ec80300fa2c9cd0",
-      "bytes": 139785
+      "bytes": 139794
     },
     "runtime/assembly/OT_1996CHUNK6_64_STONE.md": {
       "sha256": "0f3222eb4de3e6058f14ad238070738f4f2242a0f155fd8b4d3a9d1949f484ed",
@@ -1885,7 +1885,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_65_ASSIGNMENT.md": {
       "sha256": "1ae84620e625023ce22b1389e37852a88ac626b00d259f9e932d067f9a42fb29",
-      "bytes": 145888
+      "bytes": 145897
     },
     "runtime/assembly/OT_1996CHUNK6_65_STONE.md": {
       "sha256": "295f36113f2b604a2f9e33f647115e5df2abfe4bdfd9cd54d24aad7085b58cc5",
@@ -1893,7 +1893,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_66_ASSIGNMENT.md": {
       "sha256": "20e793e2d8059079f750e7c15a47e9af618e697d7d3d1315c31bde4273de4d1a",
-      "bytes": 147202
+      "bytes": 147211
     },
     "runtime/assembly/OT_1996CHUNK6_66_STONE.md": {
       "sha256": "6e8b793e206d724c625d518e4e891a2014146b3b629446f08164dc117f2e3e87",
@@ -1901,7 +1901,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_67_ASSIGNMENT.md": {
       "sha256": "8b601f6f567eabd8a690279ed110d5562061a861a0c9ea300b4857ddb176dde7",
-      "bytes": 148526
+      "bytes": 148535
     },
     "runtime/assembly/OT_1996CHUNK6_67_STONE.md": {
       "sha256": "2605974f990eadf2894d48a942cf86ed3c8f0af58c441ca1457b1ad20b138cb9",
@@ -1909,7 +1909,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_68_ASSIGNMENT_SOURCES.md": {
       "sha256": "e6caf5d23f420ea97a8a7660a1f8c27a54f02086355828820c1fb458bbb22c0c",
-      "bytes": 309538
+      "bytes": 309552
     },
     "runtime/assembly/OT_1996CHUNK6_68_FINANCIAL_STONE.md": {
       "sha256": "808fe65ad1810f6c9993de729e294cef8d12237c154eef4e8effaad57652d48d",
@@ -1921,7 +1921,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_69_ASSIGNMENT.md": {
       "sha256": "65503eb2a256d544366537a8125bfa9c355e09f34f109f4b7e2351a859123607",
-      "bytes": 150259
+      "bytes": 150268
     },
     "runtime/assembly/OT_1996CHUNK6_69_STONE.md": {
       "sha256": "28685d4a40d07271fd2d80a540ebe8de6da92789ff0288f666d7233e57b4a293",
@@ -1929,7 +1929,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_70_ASSIGNMENT.md": {
       "sha256": "9207bab3ece710e82fe9c79d1ab828f4d537c058efa1c4923a268d7576e48c0b",
-      "bytes": 151772
+      "bytes": 151781
     },
     "runtime/assembly/OT_1996CHUNK6_70_STONE.md": {
       "sha256": "5ca7a3e7ceb37c4f4f34e33a18b6319fdd45ad8539440d050dd99f1f070e9dea",
@@ -1937,7 +1937,7 @@
     },
     "runtime/assembly/OT_1996CHUNK6_71_ASSIGNMENT.md": {
       "sha256": "252c9be49ebc283245c5da634999d34756ebdbc605b68eabdfaaf360684fa68a",
-      "bytes": 153826
+      "bytes": 153835
     },
     "runtime/assembly/OT_1996CHUNK6_71_STONE.md": {
       "sha256": "9904eb5cafff3ac1fad4e32cb8424fac478e0d622a8066070639c99673c38050",
@@ -2229,47 +2229,47 @@
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-02_Citizens_for_a_Better_Environment_v_Steel_Co.json": {
       "sha256": "3b5ec933ac00ffcb8f300944658dd60c36cc73fd888b1f3a683ba6f6146491a6",
-      "bytes": 106352
+      "bytes": 106361
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-02_Doe_v_District_of_Columbia.json": {
       "sha256": "5b0593ca0f2d3f4b90be1ef3b156179ee1c1e3eb639537f3d3f1566e3936c9f2",
-      "bytes": 108769
+      "bytes": 108778
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-09_Bracy_v_Gramley.json": {
       "sha256": "7cee2ef9213bf6ca88aa5d1cbb86382f20bd1f0069c2beb6231b07a6ff0a68b6",
-      "bytes": 112946
+      "bytes": 112955
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-09_Gilbert_v_Homar.json": {
       "sha256": "d4aefadb3797a15586e4fcd4290c9c6227f3e35dcd330beff27df6edc77c61c6",
-      "bytes": 113455
+      "bytes": 113464
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-09_Johnson_v_Fankell.json": {
       "sha256": "d96be897ea90e744c3412b02911301dc745cdfdf5ec5a807fa6858a9993a9cd3",
-      "bytes": 114579
+      "bytes": 114588
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-09_Vey_v_Clinton.json": {
       "sha256": "95ce4009eec06f79909177e1fa02b88cd4aa08759f02b7d4e942a798a8df40d6",
-      "bytes": 115094
+      "bytes": 115103
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-12_Chalmers_v_Tulon_Co_of_Richmond.json": {
       "sha256": "853f1d98355e82246e303f40f81e78805d445bb50732868cae799c22a5d5e340",
-      "bytes": 116883
+      "bytes": 116892
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-16_Associates_Commercial_Corp_v_Rash.json": {
       "sha256": "b3076f8146199cee21d9ba8b9a58c1aefff5a3b8a498696ebabef17350d19235",
-      "bytes": 118465
+      "bytes": 118474
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-16_Crawford_El_v_Britton.json": {
       "sha256": "51ea0de4bccf047ae4baf1739762ba4ab7bae043bd12e2469774324077488ac1",
-      "bytes": 120911
+      "bytes": 120920
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-16_Hughes_Aircraft_Co_v_United_States_ex_rel_Schumer.json": {
       "sha256": "d28afa242522adb2a81244fbf559d45df3eb3ecf7cd4ee809cd8c447a2cc879e",
-      "bytes": 123786
+      "bytes": 123795
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_1997-06-16_Mazurek_v_Armstrong.json": {
       "sha256": "816442deeab8e7a516985cb9eea9d88a4054e5c3aa05a22590d1bb918e1f11f1",
-      "bytes": 126575
+      "bytes": 126584
     },
     "freeze/OT_1996CHUNK10_ASSIGNMENT_BASE.md": {
       "sha256": "194c9eac55f0e4872dbdb9f8828e71cd55bbb3b2356845d17e38ddc11509c1f6",
@@ -2509,7 +2509,7 @@
     },
     "freeze/OT_1996CHUNK1_ASSIGNMENT_STATEMENTS.md": {
       "sha256": "6bfd54df6fad50685926731bc9d308103234f426ce98a724ed22782a224f4f4f",
-      "bytes": 171210
+      "bytes": 171300
     },
     "freeze/OT_1996CHUNK1_COMMITMENTS.md": {
       "sha256": "15c560b9a70a483a9e6b8c85af9796f66053c8dada162126ef0d2a80596a8c0a",
@@ -2529,7 +2529,7 @@
     },
     "freeze/OT_1996CHUNK1_COMMITMENTS_HOPWOOD.md": {
       "sha256": "e93a21a62c53ee60ff65586a822772a7029d603e707a145c1ba9d129dd22218d",
-      "bytes": 42387
+      "bytes": 42783
     },
     "freeze/OT_1996CHUNK1_COMMITMENTS_REPAIRS.md": {
       "sha256": "47c044f5561fe34db65303ff6865f38843489025d9b91ee18a5e18019e141c8b",
@@ -2545,15 +2545,15 @@
     },
     "freeze/OT_1996CHUNK1_HOPWOOD_EXTRACT.md": {
       "sha256": "bba0c76133d59b7335a612c713758771f64c10b7fa95b82df0bd229659449ce4",
-      "bytes": 17932
+      "bytes": 18391
     },
     "freeze/OT_1996CHUNK1_HOPWOOD_PRIOR_PUBLIC.md": {
       "sha256": "48677f4724aa927545d22ed576f7edb204c2f1e886b45b2e2a534c7aa2919289",
-      "bytes": 43505
+      "bytes": 53770
     },
     "freeze/OT_1996CHUNK1_HOPWOOD_VALIDATED.md": {
       "sha256": "21965ee092fdb033ac6aac583b90afc104dfc7bb8382f4e63f3078373987726b",
-      "bytes": 21811
+      "bytes": 22024
     },
     "freeze/OT_1996CHUNK1_NEUTRAL_A.md": {
       "sha256": "5ccf7a2fc42dbea712938e831150c7c73d5c394231770638ab74a6d7a31f5e86",
@@ -2576,7 +2576,7 @@
       "bytes": 73643
     },
     "freeze/OT_1996CHUNK1_RECONCILED.md": {
-      "sha256": "d2c87529cae8c3503b6e0960c9cac004880fa9c3ef0ff8e76a75636ca5aa2de7",
+      "sha256": "a0d4db0aab1709788576f3afe0ed809cc8d29f2cecc3d64323233a7f20e92ba7",
       "bytes": 1596
     },
     "freeze/OT_1996CHUNK1_RECONCILED_ASKIN.md": {
@@ -2596,8 +2596,8 @@
       "bytes": 37842
     },
     "freeze/OT_1996CHUNK1_RECONCILED_HOPWOOD.md": {
-      "sha256": "8d2f37cff8e6e46280ec5a97f3da8ea37601428a8da797290f124ee302bc7a82",
-      "bytes": 8105
+      "sha256": "8b55137f4a7f304693fce5a9a4f0e4179b90b86012dc8e8fbceb4777d77d3d44",
+      "bytes": 8235
     },
     "freeze/OT_1996CHUNK1_RECONCILED_ROY_REPAIR.md": {
       "sha256": "c93cb138fe87146d73bf2c28d711dfe1122a6bf2b7e4c18106f168717d1660f8",
@@ -2613,7 +2613,7 @@
     },
     "freeze/OT_1996CHUNK2_ASSIGNMENT_STATEMENTS.md": {
       "sha256": "69d7e9d4f51012cafd822d28bbef7d42a2a4c9188fad6a1600067046f2c6ed1a",
-      "bytes": 423593
+      "bytes": 424030
     },
     "freeze/OT_1996CHUNK2_ATHERTON_CONTROL_SOURCE_FACTS.md": {
       "sha256": "abc3324c6f2b091a1acc665c3a791a1b902cb28f32b82627ceacfa9311f7547e",
@@ -2945,7 +2945,7 @@
     },
     "freeze/OT_1996CHUNK4_ASSIGNMENT_BASELINE.md": {
       "sha256": "7bb69061cec6142fd55b66b5fe4ea9a6e37542fc08475b0ba2610eaf452ac532",
-      "bytes": 73331
+      "bytes": 73340
     },
     "freeze/OT_1996CHUNK4_ASSIGNMENT_LAVAS_CHRONOLOGY.md": {
       "sha256": "e8d554e8a5fb31cdf021a49cf33f3eeb965b1d3ebabe8692f09f25574e99de82",
@@ -3156,7 +3156,7 @@
       "bytes": 5760
     },
     "freeze/OT_1996CHUNK4_PROTECTED_BASELINE.json": {
-      "sha256": "74c239329c41c9bf8afe86525bbfa858dcf12e53baf0d5a7bf29489f7b252578",
+      "sha256": "41e60b1e551b034f3ea6ad48b960d710d5bbe750e78fed84fbf8920c33f7c9eb",
       "bytes": 10985
     },
     "freeze/OT_1996CHUNK4_RECONCILED.md": {
@@ -3232,7 +3232,7 @@
       "bytes": 5784
     },
     "freeze/OT_1996CHUNK4_RESUMPTION_BASELINE.json": {
-      "sha256": "5cb3d240c8817a18bada3552713149fe625a4c6da6a03dfdfd87c6571ca6773e",
+      "sha256": "827dd341748a88b31f2d2c908e7e687b19b4450aca88dc28060386a5ef8d6ae0",
       "bytes": 110565
     },
     "freeze/OT_1996CHUNK4_RESUMPTION_CHECKS.json": {
@@ -3345,7 +3345,7 @@
     },
     "freeze/OT_1996CHUNK5_FINAL_ASSIGNMENT_COUNT.json": {
       "sha256": "46674f36a5b151ca7bf57a8f6cac0517f202968b1a8c12d0e67ae90dce6bd814",
-      "bytes": 51332
+      "bytes": 51344
     },
     "freeze/OT_1996CHUNK5_HUBERT_REGULATION_VALIDATED.md": {
       "sha256": "9d662274bbfcd9143db9f445158679184f8b2630d7e0710d4b4fff77ff8985c5",
@@ -3452,7 +3452,7 @@
       "bytes": 6793
     },
     "freeze/OT_1996CHUNK5_PROTECTED_BASELINE.json": {
-      "sha256": "199b23943bb94d1c24a5da84b80bcc25dcee0a8522a83ba86216a8ef8feeb0e4",
+      "sha256": "e0fcc9c4937129c4d31689f5ac44d699669e625f91099f5218b4b37c9ca61f3f",
       "bytes": 9933
     },
     "freeze/OT_1996CHUNK5_RECONCILED.md": {
@@ -3528,8 +3528,8 @@
       "bytes": 6701
     },
     "freeze/OT_1996CHUNK6_60_ASSIGNMENT.json": {
-      "sha256": "7f3a86fff7bee0061077caabe36734d4649a5d6d7a1771140d5ad727c9f03550",
-      "bytes": 76738
+      "sha256": "5718ce274c91d567ab75ac41f03caa00060f290df69e345305209ec700ff05b4",
+      "bytes": 76747
     },
     "freeze/OT_1996CHUNK6_60_COMMITMENTS.md": {
       "sha256": "ee0b4a9cce07dcc5962a68d00f59504b119a66f51efb2278d15d518b618239f4",
@@ -3544,8 +3544,8 @@
       "bytes": 9201
     },
     "freeze/OT_1996CHUNK6_61_ASSIGNMENT.json": {
-      "sha256": "0cb3b7f9000181719020b5f7d93dfc277c4f4583d481679d9974c7f8295385eb",
-      "bytes": 74883
+      "sha256": "545d3bd821b8c44b9fe25104baf538bf51a75877563baebb08b8381350a5f38a",
+      "bytes": 74892
     },
     "freeze/OT_1996CHUNK6_61_COMMITMENTS.md": {
       "sha256": "6e7494a3215243722e59420df2ba864bded1f586f79184d3da12470216f7a324",
@@ -3564,8 +3564,8 @@
       "bytes": 4254
     },
     "freeze/OT_1996CHUNK6_62_ASSIGNMENT.json": {
-      "sha256": "6c935765e703ae4b25e67f1c3339f02d223b7aa60dbf573335e04a52768b1c2a",
-      "bytes": 77764
+      "sha256": "2173555bd581e908d7b0979e466b18b72a1be4ce12998415c315d239ea201d62",
+      "bytes": 77773
     },
     "freeze/OT_1996CHUNK6_62_COMMITMENTS.md": {
       "sha256": "2efb32cda5ee1480901d60bec3239ee53bc2f0a01405284c63659393801938c6",
@@ -3580,8 +3580,8 @@
       "bytes": 8337
     },
     "freeze/OT_1996CHUNK6_63_ASSIGNMENT.json": {
-      "sha256": "1283c623e62b4bdb09b648dd518ce10181e4173456b78c024729b4333ee6435a",
-      "bytes": 78485
+      "sha256": "bcef2c71bc7fdff3d82c142db84295943c95520d7d40436741bc54c8eab8caa0",
+      "bytes": 78494
     },
     "freeze/OT_1996CHUNK6_63_COMMITMENTS.md": {
       "sha256": "c7b8ddf388e1ad7d4389a6153bedb2a0e9aded7b64cc0cce1b6d2b0c2bfadca7",
@@ -3616,8 +3616,8 @@
       "bytes": 6275
     },
     "freeze/OT_1996CHUNK6_64_ASSIGNMENT.json": {
-      "sha256": "7e92b161ec7660dbd56487eae3d35a42147d7422ddd36bd808f77a38db8fb470",
-      "bytes": 79915
+      "sha256": "b1f402ff4181b36634136470d9b75045c8017b529a7206de4d0ce43cf4d6e12d",
+      "bytes": 79924
     },
     "freeze/OT_1996CHUNK6_64_COMMITMENTS.md": {
       "sha256": "12e5053b19b86e66dd3fe7a0ae722606aec099b2388ac35c66de91b8855603d1",
@@ -3644,8 +3644,8 @@
       "bytes": 2982
     },
     "freeze/OT_1996CHUNK6_65_ASSIGNMENT.json": {
-      "sha256": "4c03918ffb773e0003d56263e04540933caf70a29419d4617c46b6ec67dd9072",
-      "bytes": 81179
+      "sha256": "c140af89a5de88a65a7bffe9b25f001cb6889dc96ecc3116b08c7e983a8ce3f5",
+      "bytes": 81188
     },
     "freeze/OT_1996CHUNK6_65_COMMITMENTS.md": {
       "sha256": "3be018fa1558304832163c0933c61cb28e2a6e3a3f833f2a10a08ab6c9d27978",
@@ -3660,8 +3660,8 @@
       "bytes": 10493
     },
     "freeze/OT_1996CHUNK6_66_ASSIGNMENT.json": {
-      "sha256": "588bb02b5eff2174825df6cfc54bde5ca87919619fad5c87ca599184602682c9",
-      "bytes": 82121
+      "sha256": "d51186b56f31b3e4b2a6131b036a392065968122f1fcae730d2242b5e0d4b7eb",
+      "bytes": 82130
     },
     "freeze/OT_1996CHUNK6_66_COMMITMENTS.md": {
       "sha256": "38d0f13bb02eb14153f985a4e844288185bd47c71b1edf9ac3959c1486c747dc",
@@ -3684,8 +3684,8 @@
       "bytes": 13290
     },
     "freeze/OT_1996CHUNK6_67_ASSIGNMENT.json": {
-      "sha256": "3c82f9d10697466db37960c873a4fa352483aeb62870ea6b8b013f409629e1a2",
-      "bytes": 83090
+      "sha256": "3c4f9d6fbab1ca21f73f1efe647f30b8063ccbe8f414c32df7a844c23e59bcdb",
+      "bytes": 83099
     },
     "freeze/OT_1996CHUNK6_67_COMMITMENTS.md": {
       "sha256": "5f1f3036cd072066d5c4df3e3fd6ded6a4f1c015f1a6b6c1ecb839137f85451d",
@@ -3736,7 +3736,7 @@
       "bytes": 8548
     },
     "freeze/OT_1996CHUNK6_68_RESUMPTION_BASELINE.json": {
-      "sha256": "4181079132eb84c38bcb145e32501a9d3b2717f5a74be9625cae5786b086fce2",
+      "sha256": "34394695319770cf10a42a256be07c8491a24327f5db7d5e6a2072e39190a07d",
       "bytes": 190277
     },
     "freeze/OT_1996CHUNK6_68_RESUMPTION_CHECK.json": {
@@ -3764,8 +3764,8 @@
       "bytes": 3894
     },
     "freeze/OT_1996CHUNK6_69_ASSIGNMENT.json": {
-      "sha256": "5c1085aafbf5b4f08f685c88945f5a5fd1567b0b505a60781d2dec4919f5a5aa",
-      "bytes": 84184
+      "sha256": "49f0a2e9dc7922c0e3aa8928ded05075214cea89891112695295540b382974a2",
+      "bytes": 84193
     },
     "freeze/OT_1996CHUNK6_69_COMMITMENTS.md": {
       "sha256": "0ad467bd34e157a9d11c340b12d7ae6690f0ef0d0bf30012ec6435e88631d1dd",
@@ -3780,8 +3780,8 @@
       "bytes": 6657
     },
     "freeze/OT_1996CHUNK6_70_ASSIGNMENT.json": {
-      "sha256": "9b8ed1798cc26efcb9ebc4997f6977be15996717c5678d9cf8272be3e942b6fa",
-      "bytes": 85141
+      "sha256": "a63416a04f92b9381620811e616a8bfe29dae8cba64bdd0527ca9951c6629827",
+      "bytes": 85150
     },
     "freeze/OT_1996CHUNK6_70_COMMITMENTS.md": {
       "sha256": "ba3751ddad3757ca5fa0b7ddc5a38fa32a40039c0121aa4cfb4880c29055abd8",
@@ -3800,8 +3800,8 @@
       "bytes": 17125
     },
     "freeze/OT_1996CHUNK6_71_ASSIGNMENT.json": {
-      "sha256": "913d2e9ba84363f3d8d25fa6ee1086e974b074277c6bb95874b0766dc2d90d96",
-      "bytes": 86182
+      "sha256": "21d6aac0ec246021676b1b6a439b797e189c312a39ce54d0958615c60ceffad1",
+      "bytes": 86191
     },
     "freeze/OT_1996CHUNK6_71_COMMITMENTS.md": {
       "sha256": "ba2f6d355ebfcfe5f81b31033afa95c0ed623838b1f7a5efdee5b0297078d953",
@@ -3816,11 +3816,11 @@
       "bytes": 6858
     },
     "freeze/OT_1996CHUNK6_ASSIGNMENT_BASELINE.json": {
-      "sha256": "f9b74cd88eefaa98bd9ffcbe9544c2e54efeb45e69dd585dc09204096716125e",
-      "bytes": 74229
+      "sha256": "d67c93fb49571ee156928958c21b6645020cb821203b790d351fdfd01b284868",
+      "bytes": 74238
     },
     "freeze/OT_1996CHUNK6_ASSIGNMENT_FINAL_CHECK.json": {
-      "sha256": "ef6e2c1eac327168fdeee026b132afaad275d693e4cd6913c0338ed874738bbc",
+      "sha256": "bfc64b9a822097a8ec193e0a86a7fe76f053fc3592d5f3b0ecca98370e11fcb5",
       "bytes": 9104
     },
     "freeze/OT_1996CHUNK6_COMMITMENTS.md": {
@@ -3892,7 +3892,7 @@
       "bytes": 3709
     },
     "freeze/OT_1996CHUNK6_VALIDATION.json": {
-      "sha256": "dabfd5daae32d90c3cc57ce4ccf8257f322e4fb48ab07c653cf784e158447e63",
+      "sha256": "1b4c9e40ffefe3391dd1599c5e8f88143151fb83663ffda13e80394458710ea2",
       "bytes": 7809
     },
     "freeze/OT_1996CHUNK6_VALIDATION.md": {
@@ -3905,7 +3905,7 @@
     },
     "freeze/OT_1996CHUNK7_72_ASSIGNMENT_RECOUNT.json": {
       "sha256": "5a8e15688a6d3044ac2a83355232c0f3f7f70aed3cbeff29fe9441c01ce26612",
-      "bytes": 43387
+      "bytes": 43399
     },
     "freeze/OT_1996CHUNK7_72_COMMITMENTS.md": {
       "sha256": "67fc60f01da66f28dc5c732e29f61df654bea6079f2c5b242c93947a1cbab0bb",
@@ -3925,7 +3925,7 @@
     },
     "freeze/OT_1996CHUNK7_73_ASSIGNMENT_RECOUNT.json": {
       "sha256": "0667e86f3c2792202d7fd510641aa6d3140fb34bc7f85a5977cf35c0c8a78b71",
-      "bytes": 41567
+      "bytes": 41579
     },
     "freeze/OT_1996CHUNK7_73_COMMITMENTS.md": {
       "sha256": "8695190aad9b7e047aa3cbdfdfd2bcb4471e1a8b7490d7e24487e094ff4e6f15",
@@ -4033,7 +4033,7 @@
     },
     "freeze/OT_1996CHUNK7_75_ASSIGNMENT_RECOUNT.json": {
       "sha256": "2364e598d6b9415bf72e6e07c8517827fb24cdd434e6636b6c6c6023850364ee",
-      "bytes": 44276
+      "bytes": 44288
     },
     "freeze/OT_1996CHUNK7_75_COMMITMENTS.md": {
       "sha256": "30d43eb0e01686ffd9faf4a5c29a74e81cd4b3e55c4e8d9f33266576001203a4",
@@ -4041,7 +4041,7 @@
     },
     "freeze/OT_1996CHUNK7_75_NEUTRAL.md": {
       "sha256": "28d1466d53b3e3ec4b738c00270d63e8d8477b2838a32886b005ff0555ae15c2",
-      "bytes": 12427
+      "bytes": 12477
     },
     "freeze/OT_1996CHUNK7_75_RECONCILED.md": {
       "sha256": "73f7983f487726e505ce9bb8cf00d4c14e20633431eb14430f87d478aea42612",
@@ -4053,7 +4053,7 @@
     },
     "freeze/OT_1996CHUNK7_76_ASSIGNMENT_RECOUNT.json": {
       "sha256": "a721a8fd56776ca85ae703cbcf94f70260673958ee15a4b0022a2115be9b1ab3",
-      "bytes": 44768
+      "bytes": 44780
     },
     "freeze/OT_1996CHUNK7_76_COMMITMENTS.md": {
       "sha256": "a62b49fb45aa8a5a5da78f54fe23a00a76c3cae6e08504d683b96c3cfdba4a49",
@@ -4097,7 +4097,7 @@
     },
     "freeze/OT_1996CHUNK7_77_ASSIGNMENT_RECOUNT.json": {
       "sha256": "bea2905659f40d77535894b1d7fc0ee2dd4dd3c1536720d84d8580e6bd57a890",
-      "bytes": 45290
+      "bytes": 45302
     },
     "freeze/OT_1996CHUNK7_77_COMMITMENTS.md": {
       "sha256": "3fde9832460f143a4a225580fabaec508439079e15932e89267727a621788a3b",
@@ -4133,7 +4133,7 @@
     },
     "freeze/OT_1996CHUNK7_78_ASSIGNMENT_RECOUNT.json": {
       "sha256": "2e06477729311d5ec6e85e88bfb002c6782353012e1bd611bd2c5561af7ba959",
-      "bytes": 45928
+      "bytes": 45940
     },
     "freeze/OT_1996CHUNK7_78_COMMITMENTS.md": {
       "sha256": "3c2bb40eab754faf8168d1ae1d695fbfae32f70b3bce855e0ef74c1913be45f6",
@@ -4161,7 +4161,7 @@
     },
     "freeze/OT_1996CHUNK7_79_ASSIGNMENT_RECOUNT.json": {
       "sha256": "b7ccfee8bac6bec92805f02cafe4762798a51158e4c1bd12efee1fca10fb2554",
-      "bytes": 46762
+      "bytes": 46774
     },
     "freeze/OT_1996CHUNK7_79_COMMITMENTS.md": {
       "sha256": "cf79eb568a6ef7879e9658a205618fc5a9f3606da6aee4eb2dd430c8dba043cf",
@@ -4193,7 +4193,7 @@
     },
     "freeze/OT_1996CHUNK7_80_ASSIGNMENT_RECOUNT.json": {
       "sha256": "efa21f9aab9742b575c5b8ead57ab58b1eaa591e338db54696d14c968e2611e2",
-      "bytes": 47075
+      "bytes": 47087
     },
     "freeze/OT_1996CHUNK7_80_COMMITMENTS.md": {
       "sha256": "3925ef5fbd2a7a32bcbfb79b9da8751ab228b04a3c3690bb48bb90aca029d920",
@@ -4257,7 +4257,7 @@
     },
     "freeze/OT_1996CHUNK7_81_ASSIGNMENT_RECOUNT.json": {
       "sha256": "d1a0ac0c6f0008170de95c6366def62ef36f7ba96b6f69e996c2e2bc3691811d",
-      "bytes": 48067
+      "bytes": 48079
     },
     "freeze/OT_1996CHUNK7_81_COMMITMENTS.md": {
       "sha256": "ecd9e5af70b58a223701b2f45a4fbe3284ac620c707a92cb917a3351796e17b1",
@@ -4285,7 +4285,7 @@
     },
     "freeze/OT_1996CHUNK7_82_ASSIGNMENT_RECOUNT.json": {
       "sha256": "ed3351179dea166c7c4793fecedb87ce6620dffbb4b2cd86e483d9b200b8ddc5",
-      "bytes": 48746
+      "bytes": 48758
     },
     "freeze/OT_1996CHUNK7_82_COMMITMENTS.md": {
       "sha256": "05b5b9af01c113ac4f598804b8a46905ee80723d4aceca579023b48dd7062aec",
@@ -4309,7 +4309,7 @@
     },
     "freeze/OT_1996CHUNK7_83_ASSIGNMENT_RECOUNT.json": {
       "sha256": "68079c2f0d8a6e9e9e95ca60cc95ea80084c9341eaba8a6e35103be7cfc78906",
-      "bytes": 49370
+      "bytes": 49382
     },
     "freeze/OT_1996CHUNK7_83_AUTHORITY_SUPPLEMENT_FOR_NEUTRAL.md": {
       "sha256": "8a78927260ea352985b66d0acde22a6efd2c738cb6beddc374bb2d0bc30de2c5",
@@ -4365,14 +4365,14 @@
     },
     "freeze/OT_1996CHUNK7_ASSIGNMENT_SOURCES.md": {
       "sha256": "1e406d0dfbecd895ccc5896d437b6e5e979cc4f00a0e0405aa215bba4d8778f4",
-      "bytes": 216272
+      "bytes": 216280
     },
     "freeze/OT_1996CHUNK7_A_PREPARATION_RECEIPT.md": {
       "sha256": "1af45033a7e9ebae0c0c867400de0843dd865e1784b8aeedd895fb1c41017323",
       "bytes": 2578
     },
     "freeze/OT_1996CHUNK7_A_SOURCE_CONTROL_RECEIPT.md": {
-      "sha256": "5bb0945b14fe93cc9b9852429db3e09b70fdb5ec43ecd9feb5581f47c7a7ae4e",
+      "sha256": "1d5bafc1d56ddb18bd7d8ac8175b9570b931195069476dae1b1ebed7651c8896",
       "bytes": 1657
     },
     "freeze/OT_1996CHUNK7_B_RECONCILIATION_CONTROL_RECEIPT.md": {
@@ -4412,8 +4412,8 @@
       "bytes": 7509
     },
     "freeze/OT_1996CHUNK7_VALIDATION.json": {
-      "sha256": "93f7a21c94e885d41995da242bc8e8b54abd77e25547ae3c37e5fc58f9dae8ea",
-      "bytes": 7164
+      "sha256": "53b3f67870ebcaa1e7f181887fff114db269d52b926e2e4a2720014f625bac55",
+      "bytes": 7166
     },
     "freeze/OT_1996CHUNK8_84_85_86_88_89_RECONCILED.md": {
       "sha256": "b2426ebdf9a296f1db97b95a6f74f178a39d4ebad87dca90079626560f4cbcf0",
@@ -4449,15 +4449,15 @@
     },
     "freeze/OT_1996CHUNK8_85_ASSEMBLY_RECOUNT.json": {
       "sha256": "3924994ad259b4be23213abad0bb7b20ee924c53f4281ba8b1838a90d36f654e",
-      "bytes": 52598
+      "bytes": 52610
     },
     "freeze/OT_1996CHUNK8_86_ASSEMBLY_RECOUNT.json": {
       "sha256": "9eee678726cfba3bfa175a48914c2b2a89d6da358dddb175d4c0924d59050372",
-      "bytes": 52065
+      "bytes": 52077
     },
     "freeze/OT_1996CHUNK8_87_ASSEMBLY_RECOUNT.json": {
       "sha256": "222cc1a5f0b83a629b661711dc9676de9f0a2c426ab6998c7750864fa778a920",
-      "bytes": 54084
+      "bytes": 54096
     },
     "freeze/OT_1996CHUNK8_87_COMMITMENTS_REFRESH.md": {
       "sha256": "c7696adec0ad1ef83d781a5c4b6478e088e0835234955a00aef11d75e980b1ae",
@@ -4489,11 +4489,11 @@
     },
     "freeze/OT_1996CHUNK8_88_ASSEMBLY_RECOUNT.json": {
       "sha256": "f710a00f5d2d01fc473be0c1d09421a7c6aacca3b5a4c92b302702208016bf1b",
-      "bytes": 54449
+      "bytes": 54461
     },
     "freeze/OT_1996CHUNK8_89_ASSEMBLY_RECOUNT.json": {
       "sha256": "f4298495098332fa20a91b5e10393d1c1ffeaefa2b48a73b6cacf0c427479806",
-      "bytes": 55012
+      "bytes": 55024
     },
     "freeze/OT_1996CHUNK8_90_94_RECONCILED.md": {
       "sha256": "cb365b520facd4e5b5e76f40893c3a2e75b3021da492d93f95b2a7a9f074ec13",
@@ -4533,7 +4533,7 @@
     },
     "freeze/OT_1996CHUNK8_90_ASSIGNMENT_RECOUNT.json": {
       "sha256": "75523e11895548e02d632f413bc99e2496cc977aef5b07985e74a514a9286987",
-      "bytes": 55671
+      "bytes": 55683
     },
     "freeze/OT_1996CHUNK8_91_ASSEMBLY_VALIDATION.json": {
       "sha256": "798f80cc4584c424b9b1b75ce8a7ef644685abae021db20485db0884cb93a7ee",
@@ -4541,7 +4541,7 @@
     },
     "freeze/OT_1996CHUNK8_91_ASSIGNMENT_RECOUNT.json": {
       "sha256": "2d554578add384de7aa2d712f78837537a65fd31d5ce716a42a819d364768da7",
-      "bytes": 56342
+      "bytes": 56354
     },
     "freeze/OT_1996CHUNK8_92_ASSEMBLY_VALIDATION.json": {
       "sha256": "c59016f8001a4bbbe81d3335182c30b0b2654bbf46ce6c31b500f480537155de",
@@ -4549,7 +4549,7 @@
     },
     "freeze/OT_1996CHUNK8_92_ASSIGNMENT_RECOUNT.json": {
       "sha256": "3697751f7dedbc49465a774a530366302754160c08ed3e4e6b0978b7af9278e4",
-      "bytes": 57023
+      "bytes": 57035
     },
     "freeze/OT_1996CHUNK8_92_COMMITMENTS.md": {
       "sha256": "0ad621a002892d402c88a18dc2d7cff9abdd34de76d202d1b0161574f5a1f32b",
@@ -4581,7 +4581,7 @@
     },
     "freeze/OT_1996CHUNK8_93_ASSIGNMENT_RECOUNT.json": {
       "sha256": "19889dfb8a4b3aa4d10c06e7aba9535b320dd35c057f6f77d69cc99a35fb9289",
-      "bytes": 57407
+      "bytes": 57419
     },
     "freeze/OT_1996CHUNK8_94_ASSEMBLY_VALIDATION.json": {
       "sha256": "7bc2ae187e24aa3ef4e89c1ac58e7d2ce16f4be20d198c30e34c169caccb5863",
@@ -4589,7 +4589,7 @@
     },
     "freeze/OT_1996CHUNK8_94_ASSIGNMENT_RECOUNT.json": {
       "sha256": "2833503bbb93b1bfd27ea8577a4299d25a966d8cfd630c0c5ac0c54759e366a3",
-      "bytes": 57918
+      "bytes": 57930
     },
     "freeze/OT_1996CHUNK8_95_ASSEMBLY_VALIDATION.json": {
       "sha256": "57b7e12d57d4f5f40e33f67a5d988b85f2a428081c3e224c0efb82d6bcb40007",
@@ -4597,7 +4597,7 @@
     },
     "freeze/OT_1996CHUNK8_95_ASSIGNMENT_RECOUNT.json": {
       "sha256": "0a63d6235cbde939b8e11511ba7efd1abfcd01aeec316496f35600618a94ab1f",
-      "bytes": 58375
+      "bytes": 58387
     },
     "freeze/OT_1996CHUNK8_95_COMMITMENTS.md": {
       "sha256": "89521ced284eb8156c0ce3ee32a5846f7d4660510e8eb19a98162758d6df328c",
@@ -4624,7 +4624,7 @@
       "bytes": 2679
     },
     "freeze/OT_1996CHUNK8_ASSIGNMENT_BASELINE_RECEIPT.json": {
-      "sha256": "1ccf0d0afd034868382a746dcdb9461b472a39c79340c27c5e8f3ba353aee012",
+      "sha256": "326c5d4e0bb40efa3d2cb5dad1283dbc0e2aec2ce7038f15df416f3bc93ec182",
       "bytes": 17976
     },
     "freeze/OT_1996CHUNK8_BEFORE_19970519_PUBLIC_LAW_RECEIPT.json": {
@@ -4697,11 +4697,11 @@
     },
     "freeze/OT_1996CHUNK9_100_ASSIGNMENT_RECOUNT.json": {
       "sha256": "0ef3e27259c25ef4f0ce9d7f3db26160b1dc0d4a38496efa225576c5437b8d0b",
-      "bytes": 57514
+      "bytes": 57526
     },
     "freeze/OT_1996CHUNK9_100_QA_RECOUNT.json": {
       "sha256": "67ddfc8370944489d4bbe631d29a9089b9475012061abe3602ff30671312d35a",
-      "bytes": 59135
+      "bytes": 59147
     },
     "freeze/OT_1996CHUNK9_101_ASSEMBLY_VALIDATION.json": {
       "sha256": "1095891a75e2c847a4014728521b5aa56bb2cf604305558925db115ae6c919f9",
@@ -4709,7 +4709,7 @@
     },
     "freeze/OT_1996CHUNK9_101_ASSIGNMENT_RECOUNT.json": {
       "sha256": "91b07a437d343905ea8c1a327cd902db914ba1e8ce62ccfd0e04e79388fd4005",
-      "bytes": 64284
+      "bytes": 64296
     },
     "freeze/OT_1996CHUNK9_101_CALENDAR_SOURCE_RECEIPT.json": {
       "sha256": "fb91fbd5468a969e28ff540f82943982421fa5515690b615100b1c14a8c5a648",
@@ -4717,7 +4717,7 @@
     },
     "freeze/OT_1996CHUNK9_101_QA_RECOUNT.json": {
       "sha256": "7db75339086a7373172576bea5ef66f228649887b2ea93f3a2f657bd182e8d02",
-      "bytes": 64573
+      "bytes": 64585
     },
     "freeze/OT_1996CHUNK9_102_ASSEMBLY_STOPPED.md": {
       "sha256": "4e910da30d6548132b0d296ab4331debde333d969d1293e90525ff80515dfeaa",
@@ -4740,11 +4740,11 @@
       "bytes": 4388
     },
     "freeze/OT_1996CHUNK9_102_V2_ASSIGNMENT_EXTRACT.json": {
-      "sha256": "c40d647e4bcd876e6058d0622512799cfbaaf7eec5669cc3b9a3df2614fcaf4a",
-      "bytes": 524684
+      "sha256": "d8a9984a30d3969f927a8260a1942a0080e262b3391c5b6645b188554185ad48",
+      "bytes": 524927
     },
     "freeze/OT_1996CHUNK9_102_V2_ASSIGNMENT_RECOUNT.json": {
-      "sha256": "96491b2d08bccea565398c1e1e07bd7702c02879f864c9a29ff10fd8b3fea802",
+      "sha256": "a3a507332314c6f83902d8c9a43f0bc62fb2d1edf564a00e930308fb828c32c6",
       "bytes": 40721
     },
     "freeze/OT_1996CHUNK9_102_V2_STONE_COPY_RECEIPT.json": {
@@ -4757,7 +4757,7 @@
     },
     "freeze/OT_1996CHUNK9_103_ASSIGNMENT_RECOUNT.json": {
       "sha256": "007f086ee7b135183ca94e158e417aa2a3db7b52b57ba3330121441cd281c518",
-      "bytes": 65278
+      "bytes": 65290
     },
     "freeze/OT_1996CHUNK9_103_CONTROL_EXPOSURE_A.json": {
       "sha256": "710a6ce0c5c4d03c9aa17942d2448e8f7f9aea8bd34fbacf22ba70dd3829f439",
@@ -4765,7 +4765,7 @@
     },
     "freeze/OT_1996CHUNK9_103_QA_RECOUNT.json": {
       "sha256": "a8ce2426b3e1cc67f6086cf2547cab467b2a854ba7f1158237070db80d371918",
-      "bytes": 65573
+      "bytes": 65585
     },
     "freeze/OT_1996CHUNK9_104_ASSEMBLY_VALIDATION.json": {
       "sha256": "5a67b14af353964a70b1573f28812e7641e221a61cee791580cb8b785f1c05f6",
@@ -4773,7 +4773,7 @@
     },
     "freeze/OT_1996CHUNK9_104_ASSIGNMENT_RECOUNT.json": {
       "sha256": "03c332e34dc2ef99db2e5af976d2d78124de6182aec8d5182e682e2d60d9fc55",
-      "bytes": 66056
+      "bytes": 66068
     },
     "freeze/OT_1996CHUNK9_105_ASSEMBLY_VALIDATION.json": {
       "sha256": "78770e355d08b37bff241a2bb1f7568738353f608a7edc9f0f0e7b1322670305",
@@ -4781,7 +4781,7 @@
     },
     "freeze/OT_1996CHUNK9_105_ASSIGNMENT_RECOUNT.json": {
       "sha256": "a3fa8c06f5e592d89df9dc1584e99bc91964ca15c32ac029c131fc1c14f17477",
-      "bytes": 66343
+      "bytes": 66355
     },
     "freeze/OT_1996CHUNK9_105_CALENDAR_SOURCE_RECEIPT.json": {
       "sha256": "c3a8d0d9656f04d83fdc721aecb1b64b03669b94a8f41e1250f2c892e97a295b",
@@ -4789,7 +4789,7 @@
     },
     "freeze/OT_1996CHUNK9_105_QA_RECOUNT.json": {
       "sha256": "bbd033eb434a4572869a3bb9702b94073bd6236c6bf16d8b602c497a1626e2ae",
-      "bytes": 66581
+      "bytes": 66593
     },
     "freeze/OT_1996CHUNK9_106_ASSEMBLY_VALIDATION.json": {
       "sha256": "c430495c71be1095692837bc29e8e8ee221849f556a5c53f55a0b9dcbe621d71",
@@ -4797,7 +4797,7 @@
     },
     "freeze/OT_1996CHUNK9_106_ASSIGNMENT_RECOUNT.json": {
       "sha256": "70940468ae8732185dc092d1bc7f97da93b887d8ba0cb02c9a63c4e925f4b6a2",
-      "bytes": 66852
+      "bytes": 66864
     },
     "freeze/OT_1996CHUNK9_106_CALENDAR_SOURCE_RECEIPT.json": {
       "sha256": "251faafce44851e6e84c2eaa7ec857eb7bb0f1e262096164be64f0468a188ff5",
@@ -4805,7 +4805,7 @@
     },
     "freeze/OT_1996CHUNK9_106_QA_RECOUNT.json": {
       "sha256": "08e469b0338b689d6f6dde8f5f21d52b0bca5b6aee745d536856737f6f677bd8",
-      "bytes": 67124
+      "bytes": 67136
     },
     "freeze/OT_1996CHUNK9_96_ASSEMBLY_VALIDATION.json": {
       "sha256": "7ae90082a49f629db4a79567d7151cea4e4872f9202d4cebc7485f77e2053237",
@@ -4813,11 +4813,11 @@
     },
     "freeze/OT_1996CHUNK9_96_ASSIGNMENT_RECOUNT.json": {
       "sha256": "41f5c4ca53a8b3da64beeab84fc9d80f8272dcc4b4fbf0142c27282469b18fae",
-      "bytes": 58918
+      "bytes": 58930
     },
     "freeze/OT_1996CHUNK9_96_QA_RECOUNT.json": {
       "sha256": "4c1c0f8ff9cd9b64ff634c27f10fb977f99c5f621f15b8b501fc65b57cf8e564",
-      "bytes": 60325
+      "bytes": 60337
     },
     "freeze/OT_1996CHUNK9_97_ASSEMBLY_VALIDATION.json": {
       "sha256": "68d69585b1f0fe9586e7614e0a6055d491aed93bba60343752d22dc30fbc375e",
@@ -4825,11 +4825,11 @@
     },
     "freeze/OT_1996CHUNK9_97_ASSIGNMENT_RECOUNT.json": {
       "sha256": "0b9d4c67a69f74a68c20c11fd6dbedb78244d7bcdb47f74f54f6c09279934340",
-      "bytes": 63619
+      "bytes": 63631
     },
     "freeze/OT_1996CHUNK9_97_QA_RECOUNT.json": {
       "sha256": "58e7bd7d562dcf0fc2b899f52f5719d51cbce1a412151f05cf28c672c5b19f3d",
-      "bytes": 64161
+      "bytes": 64173
     },
     "freeze/OT_1996CHUNK9_98_ASSEMBLY_VALIDATION.json": {
       "sha256": "4aa67bb09cc98ff9cdfb1470aa84a33b191dfa020e66cd72d04aef1c342b88e3",
@@ -4837,11 +4837,11 @@
     },
     "freeze/OT_1996CHUNK9_98_ASSIGNMENT_RECOUNT.json": {
       "sha256": "b81d7bd73e7a955c7b6c547782e9d750d718ee4edd998d0cc14044b7b9bcdaef",
-      "bytes": 60160
+      "bytes": 60172
     },
     "freeze/OT_1996CHUNK9_98_QA_RECOUNT.json": {
       "sha256": "e95b6dcb725d114309993e240fb5b281aedbf46bdeb93592bdbbd78bd3886361",
-      "bytes": 61329
+      "bytes": 61341
     },
     "freeze/OT_1996CHUNK9_99_ASSEMBLY_VALIDATION.json": {
       "sha256": "a08f6f0a49b0fc6b5ca51ccfdb4968ef16613616c366d9efd9faf5db08289dc8",
@@ -4849,11 +4849,11 @@
     },
     "freeze/OT_1996CHUNK9_99_ASSIGNMENT_RECOUNT.json": {
       "sha256": "52434edf6b035c81c286310633ef325c18d98f3e21aad69bb53e88f5551aa743",
-      "bytes": 61822
+      "bytes": 61834
     },
     "freeze/OT_1996CHUNK9_99_QA_RECOUNT.json": {
       "sha256": "547e9f7040dd890b736e8f48bcc9b2426816e0b1419e80467de093ee4c2470ce",
-      "bytes": 62689
+      "bytes": 62701
     },
     "freeze/OT_1996CHUNK9_ASSEMBLY_QA.md": {
       "sha256": "5f7b4934ffdcf4edff947a66087da64c1640ea3921c24ff5ba2348f80bfb01f6",
@@ -5268,7 +5268,7 @@
       "bytes": 244
     },
     "freeze/OT_1996CHUNK9_VALIDATION.json": {
-      "sha256": "9f89f6222d0ba6902fd0daaad6a10f20d73a1867a07bd779ca36f4e8979f3709",
+      "sha256": "a4925f097085bd7942801b1b3a82ccb0e4dc0b43810c7e1dc3c1286f3d0551e1",
       "bytes": 7870
     },
     "freeze/OT_1996_MANIFEST.md": {
@@ -5361,7 +5361,7 @@
     },
     "freeze/OT_1996CHUNK8_90_95_NEUTRAL_SOURCES/OT_1996CHUNK8_90_95.md": {
       "sha256": "8c4b5c3484291045e0fe73abdab09b66ab94a9b00d37bfd10f0d497fd67d66aa",
-      "bytes": 1286082
+      "bytes": 1293696
     },
     "freeze/OT_1996CHUNK8_90_95_NEUTRAL_SOURCES/OT_1996CHUNK8_90_95_PREFLIGHT.md": {
       "sha256": "fdcd226b1ca078a7bddbde84d9eb441b0a1637e18011908f7e722f2a8349b536",
@@ -5369,7 +5369,7 @@
     },
     "freeze/OT_1996CHUNK8_90_95_NEUTRAL_SOURCES/OT_1996CHUNK8_90_95_SELECTED.md": {
       "sha256": "5a9929889be67d063bb8e57b9cb50ffe7469fbf0c68e4b559e5b09d0d5ad3f36",
-      "bytes": 210808
+      "bytes": 211310
     },
     "freeze/sources/Boddie_401US371.html": {
       "sha256": "02bac35d6db5e2c2bef34d5987bd8793824cab862a8ac6e9441ba7fe831f3117",
@@ -6245,7 +6245,7 @@
     },
     "render-inputs/OT_1996CHUNK1.md": {
       "sha256": "55c06847ea6d6660a7f90a9d4147e8e5ab4f7c5a7c2a93c75e65b36de2c55556",
-      "bytes": 191769
+      "bytes": 191951
     },
     "render-inputs/OT_1996CHUNK10.md": {
       "sha256": "4f2043c58cda89755bc3b1819c37506b1b034f8e9869fd649808b6432f29a1f0",
@@ -6273,7 +6273,7 @@
     },
     "render-inputs/OT_1996CHUNK7.md": {
       "sha256": "c258ec595c4fe55a1f3e295dcc8dba012663cb87607dc69c39ba0e84e66f895a",
-      "bytes": 189185
+      "bytes": 189687
     },
     "render-inputs/OT_1996CHUNK8.md": {
       "sha256": "57e2f40f2789c48ae6efd028edb689872371404f45a278ed548c45892547f6c4",

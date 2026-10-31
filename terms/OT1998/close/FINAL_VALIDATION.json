@@ -41,13 +41,13 @@
     "published_tracker_identities": {
       "HOLDINGS": {
         "path": "state/HOLDINGS.md",
-        "sha256": "1054c9eea24d3dd41cb79cb4c2453b3a325aa54561cfb98e104bedab69f9d7fd",
-        "bytes": 5126957
+        "sha256": "0bcb73e6047fcf0c58557a30f2f45fb48d8162de6e9b360c16e0f12905b180ab",
+        "bytes": 5155547
       },
       "STANDARDS_AND_TESTS": {
         "path": "state/STANDARDS_AND_TESTS.md",
-        "sha256": "5f7d313948d8fbbcba4379d7c7e454ea3e27ad55beaea2657b877b225c3e85e8",
-        "bytes": 1794145
+        "sha256": "b3b7f8b1e6a1f773c6eb83c53eb1b9c09edb627c9dde140160bfe4865181ca14",
+        "bytes": 1818252
       },
       "STANDING_STATE": {
         "path": "state/STANDING_STATE.md",

@@ -16,7 +16,7 @@ The exact existing question-scope Standard and prior-authority Standards selecti
 |---|---:|---|
 | [albertsons_inc_v_kirkingburg_merits_1999-06-22.md](albertsons_inc_v_kirkingburg_merits_1999-06-22.md) | 14107 | `dbd9f5dde148e9ce9a7f34c3f0a00b7ef6c949b6538965e4d82c1945a5c9b9b8` |
 | [kolstad_v_american_dental_association_merits_1999-06-22.md](kolstad_v_american_dental_association_merits_1999-06-22.md) | 21941 | `0fd8eedab410767717211357d17cbeec801dc76e07b07e7accd808d149508f70` |
-| [murphy_v_united_parcel_service_inc_merits_1999-06-22.md](murphy_v_united_parcel_service_inc_merits_1999-06-22.md) | 22308 | `47accbe72deccc92820dbd08c05c4abcbb3f65be63b471d8d15b5ba7fc359fab` |
+| [murphy_v_united_parcel_service_inc_merits_1999-06-22.md](murphy_v_united_parcel_service_inc_merits_1999-06-22.md) | 22308 | `76ecf89414771d15b31644063466633e6e401a5365b978da02cf734bdc04d376` |
 | [olmstead_v_lc_merits_1999-06-22.md](olmstead_v_lc_merits_1999-06-22.md) | 21178 | `b921b78188682fe8285deda87c9492b5b07282d029cb1f7098883794d10e8b81` |
 | [sutton_v_united_air_lines_inc_merits_1999-06-22.md](sutton_v_united_air_lines_inc_merits_1999-06-22.md) | 14935 | `c5fbcebee8e601d16bc5525261ee4f4c1a54330e85ef87234e04dad9e991d5c1` |
 

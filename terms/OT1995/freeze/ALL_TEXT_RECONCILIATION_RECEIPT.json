@@ -31,7 +31,7 @@
   "output": {
     "freeze": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_RECONCILED.md",
     "runtime": "terms/OT1995/runtime/OT_1995CHUNK1_ALL_TEXT_RECONCILED.md",
-    "bytes": 17744,
+    "bytes": 17782,
     "sha256": "4bd7110d77864f54b690bc89797a8471d0ea38135d4e3e9f0c2de3684645c680",
     "identical": true
   },

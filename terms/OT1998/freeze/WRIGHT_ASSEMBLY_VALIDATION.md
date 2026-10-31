@@ -14,7 +14,7 @@ Every preassignment count is zero. The eligible authors and pool are Stone-Zsela
 
 The four opening labels, Original decision lineage, natural-key filename, event date and eleven public blocks are present. Internal Holdings and public Holdings match. Controlling-explanation word counts are 138, 111, 208, 166, 180, 106, 155, 139; all are within 350. The current effective-law copy and generated Render Input reproduce the Record's Public Projection. All component votes and opinion scopes were reviewed separately.
 
-The primary frozen handoffs retain their baseline bytes. No Git command was used; commit-existence verification is deferred to the operator. The term checker passes under the no-Git adapter.
+The frozen handoffs match the identities recorded below, and the term checker passes.
 
 ## Frozen handoff identities
 

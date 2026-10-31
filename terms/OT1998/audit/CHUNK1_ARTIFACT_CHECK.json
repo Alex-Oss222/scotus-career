@@ -7,12 +7,12 @@
     },
     {
       "record": "fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
-      "sha256": "5ad17b1ef6c927c3927780fb5af541574930e02ca96aae3c33526582728d5cad",
+      "sha256": "cc18557261af557f2e79b76e31555f0aab133412b69ccff85822d0ed7bd85d7a",
       "public_projection_sha256": "c38c309cf9d87d4344ce651835f9c254d0fddeb16ca93943c634471768bc92ea"
     },
     {
       "record": "hiley_v_barrett_merits_1998-10-09.md",
-      "sha256": "7317277ae43694411e066cdb468be88886e74e5f6ea1aeafb8644800cc88df84",
+      "sha256": "03126c71dde3278672df67c9f6210f66ab7b7e976c5f984a53307feba3f79942",
       "public_projection_sha256": "887cac7834c76a6474e82b962f72d738792ef32825f6f6cd868a071452723fcd"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "record": "united_states_v_wright_merits_1998-10-05.md",
-      "sha256": "4eea211ed875ad068140e827663a3f9c139be0ed8d6f0109a1fa99f85c7a5cda",
+      "sha256": "539efc66607d5583a17430745f0250fd76672b162b80512b67b74386bb6efb21",
       "public_projection_sha256": "4717390084d1842188d70b22f5a16fc95a960121d681ffc68ee42e0881e515ff"
     }
   ],

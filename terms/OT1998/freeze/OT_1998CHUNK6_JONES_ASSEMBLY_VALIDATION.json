@@ -40,7 +40,7 @@
     "freeze/OT_1998CHUNK6_JONES_REFRESH_PREFLIGHT.md": "cea672825173d46ce430472440daae736d589d43260736bb9d3dfcc132be3613",
     "runtime/OT_1998CHUNK6_JONES_STONE.md": "0f149b0a478d5b021c4640ccb7c36e8e89cdee7fc8829787c455fc48884d0de3",
     "runtime/OT_1998CHUNK6_JONES_ASSEMBLY_SCOPE.md": "af7ae618b9b8f458c148075661041e42400ad512f3d987dec2ab664697730a5e",
-    "freeze/OT_1998CHUNK6_JONES_RECOUNT.json": "f69f11720d24354aa10242effc20025f9ba55582868953e2f2304d37f659fe44"
+    "freeze/OT_1998CHUNK6_JONES_RECOUNT.json": "a15ca5a712eeeedfb292c19f103d9218e68c3726c66a6a2a4c8de26f002330c0"
   },
   "limitations": [
     "Whole-term check and workspace integration remain for root operator.",

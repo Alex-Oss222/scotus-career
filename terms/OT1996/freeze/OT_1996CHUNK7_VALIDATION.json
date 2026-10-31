@@ -35,37 +35,37 @@
   "records": [
     {
       "path": "terms/OT1996/records/Kadic_and_Doe_v_Karadzic_merits_1997-04-21.md",
-      "bytes": 46511,
+      "bytes": 46391,
       "sha256": "95faccaaa69b3feea8cc8fb212889c98a43a4d440ea0811196d6a65f8c45b6a8"
     },
     {
       "path": "terms/OT1996/records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04-21.md",
-      "bytes": 43825,
+      "bytes": 43705,
       "sha256": "6e365ca27f223d2cd1e625f5367fd8316e9f30544498b18d680eac4be829149c"
     },
     {
       "path": "terms/OT1996/records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md",
-      "bytes": 29317,
+      "bytes": 30159,
       "sha256": "65633ae8c837d053907c05ce09c1095167489f7c7aae0e56ce5e2c6afd54c47a"
     },
     {
       "path": "terms/OT1996/records/Richards_v_Wisconsin_merits_1997-04-28.md",
-      "bytes": 32668,
+      "bytes": 32548,
       "sha256": "1f76ac620e3f86b292b8bddcbc79b588cce2d31f1cb68822a59921a8a11933f1"
     },
     {
       "path": "terms/OT1996/records/Strate_v_A_1_Contractors_merits_1997-04-28.md",
-      "bytes": 38200,
+      "bytes": 38080,
       "sha256": "e6546a8a19a1f41d363d57d1825ddef95c78dc46dde99d26f22f2fcf3844e689"
     },
     {
       "path": "terms/OT1996/records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
-      "bytes": 38117,
+      "bytes": 37997,
       "sha256": "1a3015f75689b661511ee8acacca43cbf8cd5ace1de892702d684be6cd57c02b"
     },
     {
       "path": "terms/OT1996/records/Doe_v_SEPTA_merits_1997-05-05.md",
-      "bytes": 30526,
+      "bytes": 30594,
       "sha256": "56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279"
     },
     {
@@ -92,7 +92,7 @@
   "artifacts": [
     {
       "path": "terms/OT1996/render-inputs/OT_1996CHUNK7.md",
-      "bytes": 187183,
+      "bytes": 189687,
       "sha256": "c258ec595c4fe55a1f3e295dcc8dba012663cb87607dc69c39ba0e84e66f895a"
     },
     {
@@ -122,27 +122,27 @@
     },
     {
       "path": "terms/OT1996/workspace/ledger.md",
-      "bytes": 52494,
-      "sha256": "8e2ed204510b953741835dff77745091374f3fd7040e9d9a9c102d7f6d19d75f"
+      "bytes": 67064,
+      "sha256": "c175b19fa9ad2af11ad5f03693287f07e01af47c40372644a52d827f26d96035"
     },
     {
       "path": "terms/OT1996/workspace/continuity.md",
-      "bytes": 898711,
+      "bytes": 1721455,
       "sha256": "35cc95d0b7e1338c3a3e54f3a5a70b9f8ed6e7257c90af3d2a266c9aa8784295"
     },
     {
       "path": "terms/OT1996/workspace/neutral-projection.md",
-      "bytes": 868792,
+      "bytes": 1668327,
       "sha256": "b9f39f05279c8d62d8e4f589fe459e2b38eee66b1970cd45287df330149163b1"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_COMMITMENTS.md",
-      "bytes": 293737,
+      "bytes": 293983,
       "sha256": "f13ae9f266f1a25f83dc1f161d24a8bd2bd5949cc46959e8448fae6c220fc552"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_RECONCILED.md",
-      "bytes": 400324,
+      "bytes": 400615,
       "sha256": "f4138bc6026d5264910d7438dc0aec1738f5c0ac6936e3a34f1b6f4e6d5eaf7a"
     },
     {

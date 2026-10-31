@@ -6,7 +6,7 @@ Operator-only result: **PASS for the four finalized June 22, 1999 entries. No di
 
 | Authorized file | Bytes | SHA-256 |
 |---|---:|---|
-| `freeze/OT_1998CHUNK11_JUNE22_RENDER_INPUT.md` | 79985 | `d7852c0cebfea1fa73a8820dfbcdc7492d25929a2db8b9e518b6b10597bf14dd` |
+| `freeze/OT_1998CHUNK11_JUNE22_RENDER_INPUT.md` | 79985 | `47de82c70b71e134834e788eccc005b4c0514d008921dda11489316a1590c775` |
 | `output/OT_1998CHUNK11.md` | 76841 | `07a9933f2c7ccc36864318f3149097b5ae47e93fd4c019f7a258bfd8dbacf9ed` |
 
 Both actual identities match the supplied handoff. The mechanical receipt was used only for entry identities; every rendered-entry byte count and digest matches it.

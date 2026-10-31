@@ -10,7 +10,7 @@
   ],
   "mode": "isolated-context historical reconciliation with disclosed Sherman comparator exposure; Sherman excluded",
   "freeze": "filesystem only; no Git commands or subprocesses",
-  "reconciled_sha256": "6b5d45e7fd6a49e7edf334d2d38d24df0044b8840dcdb1d15728fd6b8442b352",
+  "reconciled_sha256": "2dfd179c42ff159d4b6cb60a1a092414462da1bc6b673d27414852d975316290",
   "runtime_identical": true,
   "input_sha256": {
     "freeze/OT_1995CHUNK3_C_COMMITMENTS.md": "f8dec64323c0dfd102bbe62deec0147e47d64b35c659d59b0a283b66911236ab",

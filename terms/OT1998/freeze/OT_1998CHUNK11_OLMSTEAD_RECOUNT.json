@@ -25,7 +25,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "source_sha256": "4eea211ed875ad068140e827663a3f9c139be0ed8d6f0109a1fa99f85c7a5cda",
+      "source_sha256": "539efc66607d5583a17430745f0250fd76672b162b80512b67b74386bb6efb21",
       "author_evidence": [
         "| Opinion of the Court | Stone-Zsela | O'Connor, Kennedy, Souter, Ginsburg | All Parts I-V, including II-B's complete Core-Preservation Review, II-C's two-stage remand and III's incidental-regulation application. Five direct rationale votes throughout. |"
       ]
@@ -38,7 +38,7 @@
       "authors": [
         "Souter"
       ],
-      "source_sha256": "5ad17b1ef6c927c3927780fb5af541574930e02ca96aae3c33526582728d5cad",
+      "source_sha256": "cc18557261af557f2e79b76e31555f0aab133412b69ccff85822d0ed7bd85d7a",
       "author_evidence": [
         "| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Full opinion: standing, the developed official-use equality and arms objections, and the limited remand. |"
       ]
@@ -51,7 +51,7 @@
       "authors": [
         "O'Connor"
       ],
-      "source_sha256": "7317277ae43694411e066cdb468be88886e74e5f6ea1aeafb8644800cc88df84",
+      "source_sha256": "03126c71dde3278672df67c9f6210f66ab7b7e976c5f984a53307feba3f79942",
       "author_evidence": [
         "| Opinion of the Court, Parts I-X | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer in full | Eight direct votes throughout; Stone-Zsela concurs in every component judgment without joining the opinion. |"
       ]
@@ -1678,7 +1678,7 @@
       "authors": [
         "Ginsburg"
       ],
-      "source_sha256": "d244b529981e6f761ae6853a1462cd199855457a024575dc71efd23edea0704a",
+      "source_sha256": "bc3370e0365b23597d82d3d7672e7eb723003e2245137209b91720dc5b7fccf1",
       "author_evidence": [
         "| Opinion of the Court, Parts I and IV as to actual disability | Ginsburg | Stone-Zsela, Stevens, Souter, Breyer | Vacates and remands the actual-disability judgment | Underlying impairment without beneficial mitigation; individualized proof and reassessment; separate qualification, accommodation and safety elements |",
         "| Opinion of the Court, Parts II-B and IV as to regarded-as coverage | Ginsburg | O’Connor, Scalia, Kennedy, Souter, Thomas | Affirms the regarded-as rejection | Insufficient perceived occupational-breadth proof on this record |",

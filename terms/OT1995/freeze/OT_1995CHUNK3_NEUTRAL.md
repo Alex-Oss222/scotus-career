@@ -569,7 +569,7 @@ Only an actually completed, relevant earlier OT1995 decision can supplement the 
 
 **Same-term continuity:** Carry actual earlier effective OT1995 law across chunk boundaries. Same-day file order and proposed dispositions create no dependency.
 
-**Application of the entering law:** The Commerce Clause permits Congress to protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the federal offense requires proof of the particular instrumentality’s interstate connection. Original §2119 is constitutional as applied to the forcible taking of the Buick proved here; the judgment is affirmed without adopting the Fifth Circuit’s aggregate-effects rationale.
+**Application of the entering law:** Harris's nine-Justice controlling rationale protects the transportation instrumentality against a direct intrastate forcible taking and requires the enacted vehicle-history element. Breyer's concurrence, joined by Stevens, Souter and Ginsburg, retains the economic vehicle-acquisition ground as independently sufficient; that view supplies no additional Court holding.
 
 
 **Lopez**

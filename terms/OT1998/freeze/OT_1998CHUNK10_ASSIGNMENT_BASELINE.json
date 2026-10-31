@@ -95,7 +95,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "75f1d3e72693f63aa624aab40b8db2a9206d4e42ac665321a848e66f97db01fe",
+      "bounded_extract_sha256": "3eba4140ee8b0fb545b71030e59f31f116e39f484e4e984f04333e242823f6ae",
       "counts_before_source": {
         "Stone-Zsela": 0,
         "Stevens": 0,
@@ -172,7 +172,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "8bfe186bcdab0dc656d4136f698080c00d132123d2af09ffacd6ac75be4d2e98",
+      "bounded_extract_sha256": "b607023ebca6c28c2f1e50181fdde89b87dd30f78f473937598d5859f220dc44",
       "counts_before_source": {
         "Stone-Zsela": 1,
         "Stevens": 0,
@@ -254,7 +254,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "c8f581d56d49043604dd6826d56ee80b935fe1efc2f470e82b0ebfbaa41dfc68",
+      "bounded_extract_sha256": "3d703539ee459024e2c44b02b90c1e6bc4b9da04c0731ebefcf4e4777ac9472b",
       "counts_before_source": {
         "Stone-Zsela": 1,
         "Stevens": 0,
@@ -326,7 +326,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "809683685a7334b218f64fcc1f18c28bfb7018d3adcee23506ba00646a13408f",
+      "bounded_extract_sha256": "f75ca01325da43bca46c45bbcdb1a46cee2d6db139801d11edd2b807bb3fbc1d",
       "counts_before_source": {
         "Stone-Zsela": 1,
         "Stevens": 0,
@@ -407,7 +407,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "08fcf506944446f7e3afee2a47381bd335a5088348c86db9e873680295389855",
+      "bounded_extract_sha256": "5d15a342efe879dd2082ae32ba03d2f708488cec865acceb5e3395764bb24742",
       "counts_before_source": {
         "Stone-Zsela": 1,
         "Stevens": 0,
@@ -488,7 +488,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "c9f8f0f3753249fda4754407c0292021570ce7baf89d8f3edad8bb97803fa256",
+      "bounded_extract_sha256": "bd2adca69b0c6b944c3e19c9784518538af819373ed29f161318514434965e1e",
       "counts_before_source": {
         "Stone-Zsela": 1,
         "Stevens": 0,
@@ -569,7 +569,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "6af696c36b616f28eaf4c2e1036b19eeecb66a2ef03b367ea9e09e8130f8f39c",
+      "bounded_extract_sha256": "706a30dcf3582ad3b79d591730ca4e0ea6fee062cc47ae8fce29fe40946522f6",
       "counts_before_source": {
         "Stone-Zsela": 1,
         "Stevens": 0,
@@ -646,7 +646,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "8ca4286c4d9b8f32430c385c4832f16395bdb79088e9505335a9ca48137a5223",
+      "bounded_extract_sha256": "e44646ef1cdb0cb89fda9285f6e4764325229758347d6315c4c470e89129f64b",
       "counts_before_source": {
         "Stone-Zsela": 2,
         "Stevens": 0,
@@ -727,7 +727,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "af98631ff25c88b04ec450ebec3dc2082d966f2ab3281877088f453430a5296d",
+      "bounded_extract_sha256": "0ad5157322907b0c5022ee5338b208f376d8fc67f1283e49cb15e13f989ec5c1",
       "counts_before_source": {
         "Stone-Zsela": 2,
         "Stevens": 1,
@@ -804,7 +804,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "ac28f9c8086b361114c43b4f218e9f4eedf933552ff9bdaefadd321fe8e7c0c0",
+      "bounded_extract_sha256": "96fba4aa47295a1a695af889a97386eb56c228ef22019e8739ea8b2a75fa6485",
       "counts_before_source": {
         "Stone-Zsela": 2,
         "Stevens": 1,
@@ -881,7 +881,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "d372e089a1c17bd99dc7ba336ca48728967eea6fc8297f6b60d8f616dd25a981",
+      "bounded_extract_sha256": "ff73560c460035c8e3da3e8e88195fd23df634ffe21431c05f68a14d7383d7d6",
       "counts_before_source": {
         "Stone-Zsela": 2,
         "Stevens": 1,
@@ -958,7 +958,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "a3544265b7d77e5617e9273249a498de36cfa05e252b747d442a17c9bbd226c2",
+      "bounded_extract_sha256": "07fffd4c8894160f650f8a8ee4e44cce53ba0183787321d90a15e0b9525015ac",
       "counts_before_source": {
         "Stone-Zsela": 2,
         "Stevens": 1,
@@ -1035,7 +1035,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "46fea27b362f1734a46df432d841ae0470761c9a61a9216fa26e10867bb5efa0",
+      "bounded_extract_sha256": "a3085e7da3371dfbf394d822fb8d9285943279a95e65de3c4b58e32e830ce048",
       "counts_before_source": {
         "Stone-Zsela": 2,
         "Stevens": 1,
@@ -1118,7 +1118,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "64be9be5d3759ff06e7b0bf464ee2fd57038a58e9f69b581e39b4af5c1716118",
+      "bounded_extract_sha256": "b47f9af47d7f32c34d18eb88df52057a7f7f29b03d03fc4a697cabdbd7474e54",
       "counts_before_source": {
         "Stone-Zsela": 2,
         "Stevens": 1,
@@ -1195,7 +1195,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "b65dd806ab6213b8bbcab061476e8449d1d8db4e30b1a2ad20f46a81504fed24",
+      "bounded_extract_sha256": "8fca3590df0269d4422513494ee17a12ac781d966ddf6edb0c0c77d60a18a577",
       "counts_before_source": {
         "Stone-Zsela": 2,
         "Stevens": 2,
@@ -1272,7 +1272,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "7b4384251964f58604873beaab5aae63256d7275001cca24e56f990b6534d671",
+      "bounded_extract_sha256": "a7bc66d0f541a2ac4a59990a3d34d5c7dcde40ea28ace9ee75c2e861199272b7",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -1378,7 +1378,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "c722939411384370c8da0ba794da18074b9c148ce6ee38c755a17a2874bae04d",
+      "bounded_extract_sha256": "1ff9b8dd6b2c7ab7848d6615c202c7e6ddf9702aaebad53ac0f1f9dcee502be9",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -1455,7 +1455,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "33d988911922d911ce25db5a58bc222f2ad4ad9dcdcbbc4c1263916bb7fbd7bd",
+      "bounded_extract_sha256": "0059802949f764ff8b750f287a318d8528a37b1945402d06f6166cfed7d21312",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -1538,7 +1538,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "1b4fff26e6c0fa590578980e2fa4507138c117fcfc0203127d041ae0dfb41222",
+      "bounded_extract_sha256": "d4f6fea92f6719ca66e569f2b5c9f33946a101952f88162dfe311fd9c0ee63fc",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -1606,7 +1606,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "afb9a761bf8082b30f8641c3a780c9c7d4895494a7b7b3d95b6523d4ea2ff356",
+      "bounded_extract_sha256": "827b0521a4fc0b080e1f117186abd0c63b8c185cd5932e644bf469d718a5b1a3",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -1683,7 +1683,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "224e1d3ec3ab1b900967818b453dd8b767d90f6019a5711bc120045afbafa84f",
+      "bounded_extract_sha256": "a5f9170a0dbc3b2fa1c81d2f2f6e168bd9d6b835046d3210d936b68e39b41a42",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -1751,7 +1751,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "f0eaaa5462d4fae1de6d0870b43477056a9e39b28c05f159c815b88523130c7f",
+      "bounded_extract_sha256": "a7431fdb298ce6911c72b80b1ce89cab679ec9f03be85b07836bca1f510d05ed",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -1828,7 +1828,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "03c80e961acd02df726d9d93073efc027d783b6b73d033bc8397574e42c3944a",
+      "bounded_extract_sha256": "bd0b80db392dba9d32cc33a1adc6a91f17d8f0f76997abc324596ac07f489442",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -1905,7 +1905,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "10a8d91fe8ba34ec2ee04368c79a4cd7fc419dcf04c3403edc11d651efb404cf",
+      "bounded_extract_sha256": "f3b53c66a3d03e141e1b35a7ddec9ea6889ef666713d1e7c890da958d03405b3",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -1986,7 +1986,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "73ecc5842ebe1f4d34a380525b0b7a2503b6c4fa54f428af64c66b3542fde277",
+      "bounded_extract_sha256": "20286230157deeac1fed5110eef1f1cc91cea0263e2e51283c631754e86b1276",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -2054,7 +2054,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "f13fe570fda4867464a941524be8dfe478dcc88c53361a0c0573b341c60d7bed",
+      "bounded_extract_sha256": "c0dbd16733a7886f9189f68faf572a76bd184374b775ef1306d88413af93a0cf",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -2135,7 +2135,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "17fbe82bec6a6db0283c0427acbed4cdffe2afe2c854fe8172fbff0b48d39718",
+      "bounded_extract_sha256": "2d611da2d81958334e670ea28c6c4f309b1a89b960e3f765b739f57f10e97eb7",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -2222,7 +2222,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "08ebb99fdf7a2241b9ea2eadf5048f8dab9bb328130b176aff88b6cdef878eb3",
+      "bounded_extract_sha256": "08485d752888ab8717b12bebcda8422df24f7cd584009e6f5f52c4cefcec6419",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 2,
@@ -2309,7 +2309,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "171c806d91af4a275b08b96fe95cf92cc7e58ee0b3989348d9746488ffba8bdd",
+      "bounded_extract_sha256": "c241e751560131af3db8192e41624aa3d64b81cb5759466f722f1340ec712086",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 3,
@@ -2392,7 +2392,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "bf956a019f2b4f28c204ef52f24c3eb47f5be20d2a566e004f1909f92081ffc1",
+      "bounded_extract_sha256": "6078f5052c0c25f8740ab05ccb81e7cf957b7d071c94a3d9211e5de283d5d9c6",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 3,
@@ -2481,7 +2481,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "5e029f03836ee476aa61a672ccb2038d4b856b8804bc717a3b5399c89582fd08",
+      "bounded_extract_sha256": "7af6411ba427c485bea378364da49de83464f69a0a2433b529e351cf4c5bfd54",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 3,
@@ -2549,7 +2549,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "096a57da569fd031c392408985b67eafc49002221a7ad16392203f56769f7b46",
+      "bounded_extract_sha256": "7b16016705da1886c4b5ad79cf77c56abae274cece76d795a0500584d02ed990",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 3,
@@ -2636,7 +2636,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "8cd040584ba1eff5225bd32e628c578880c79038fbf95731acda730f783e48a6",
+      "bounded_extract_sha256": "011fe797a547403a622977c20565d90ea6b9d5b99efcca8b6fd70f7f064e033c",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 3,
@@ -2713,7 +2713,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "684ebe860895feb11a2fb58c3af493f69a71269208cb3219466fb2b57bce7885",
+      "bounded_extract_sha256": "641c730d1a115945cb084a76e5eeebd75a8c13b652377fcbe0eba11b7905ef01",
       "counts_before_source": {
         "Stone-Zsela": 3,
         "Stevens": 4,
@@ -2794,7 +2794,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "1c4c7d3465dcadc28c163efbff1192b3eae3b562568a099f8e3a03cea8fd821a",
+      "bounded_extract_sha256": "75f07dd974159a418eea9b62ab650ef7f8404bbfefcfcfb352969802f61226d8",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -2875,7 +2875,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "b487097e8a6d71cbbcefad1d6e629639a58549de06917a69cbd337a54fd0f033",
+      "bounded_extract_sha256": "c95d0d4b6e67ca16aaf281ab4f3fab31e22f418afe02198882415ef933ba11e2",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -2968,7 +2968,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "473fbf216c2b32e8f41c8b95344b767ad9d131d651631e91223abe4ed12bb6c2",
+      "bounded_extract_sha256": "ea27c9adffe282cafe2fe35f5f00993e905c4853816122b80cb8f17e3ce311f1",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -3045,7 +3045,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "dd5f1bb4d3b5f879b8469a30052e4e7cce97bd6e326bf32e901648825349ca45",
+      "bounded_extract_sha256": "eabf5f6000dacaea6ff80d0113000e3f7c71489e766506f01720a87c86dbd029",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -3122,7 +3122,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "465d3ccb95f0950fb0eba5d969064a4331b0803aa9623585bbf24f297a0524f0",
+      "bounded_extract_sha256": "00b447dfe52b4cc2f0f26bf73266beed870f4545fa76c62db15c6eb50eb197e8",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -3200,7 +3200,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "f9af2ae9df3fd779913dd90c2bdb11084ed1dc85a5f4fa9a398adeb82e9f6a23",
+      "bounded_extract_sha256": "b0e25214ff0c62923b91eb5f242c5c344e4ec594e118f120b3db14eb76896cd0",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -3281,7 +3281,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "8591703d99b77bbe52bc0b4ec348d437b6d20d6592882f4089cea201138fe00c",
+      "bounded_extract_sha256": "7bd53ca1b7582c54b5a6fc4653725b164915b4319f3cd0528df0bc7bbf9cab8a",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -3362,7 +3362,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "d2a0004a347020489a2caec2e8d1f6a6edda89773821e82376521313a6d958eb",
+      "bounded_extract_sha256": "195cd3b9671aed06320d0e215a4678cae12658ae312cf7a2ee6fb100eba5ba9c",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -3443,7 +3443,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "a589e5688070aaa9f6c3da1734f06548ddaeb9ae95fbbc70c8e484f47bedab30",
+      "bounded_extract_sha256": "dc305df87cce08541d5c2f64ad9c640aef8fe09da8d2126f0fb184d493f3c51f",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -3530,7 +3530,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "31d2e04f3dde5edf7a80e9678223c48aedf3e8ff14817049ada6ddc0cb9c9012",
+      "bounded_extract_sha256": "bf47a5c42ab155280ef42bab2599a4c5bdedad3446840a7ccc692ef54c19ea1d",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -3607,7 +3607,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "cd93e703f526acc593697bdec67e24d7abe771b223bbbf233bfded14c9e291d4",
+      "bounded_extract_sha256": "85d9e9563758fdabefc3fbec7a508823ec9f62bd1e4421a85f396a3f113b1deb",
       "counts_before_source": {
         "Stone-Zsela": 4,
         "Stevens": 4,
@@ -3688,7 +3688,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "69ed1953e964611c32c2440ca825763043c17fa3a74a55dcacd1f5e92af17d1d",
+      "bounded_extract_sha256": "0f47400e11f8ff156801d81ad4f5795015b9ce8535f7c2c6bc090ea7a953f665",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 4,
@@ -3769,7 +3769,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "2a06ea2b981efd95fafabbcbdcd6bb730858b0670187b241e395d2cd325d50c1",
+      "bounded_extract_sha256": "3213bc073ff03bfef8e072e75e588e890e710a0c3571da3a018e7beb470ce197",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 4,
@@ -3850,7 +3850,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "68e21ee6a3d5b48069af76f8eb67dbffa89daab95674f1858cf5bd8a5bf1b467",
+      "bounded_extract_sha256": "15684a18e44eb5d2cb0b830b25f27e82afb2c1d80cfe4709f2efd2dca1d826e9",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 4,
@@ -3935,7 +3935,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "7a71add0fd05711bead2be5256accc5b746cf987caa92d5ba225c5d736151552",
+      "bounded_extract_sha256": "e8deeea839147dd4d0ee03ef1a93070ad595c07f34b6d88defed6e118e6eb0a2",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 4,
@@ -4023,7 +4023,7 @@
           }
         ]
       },
-      "bounded_extract_sha256": "8e62bc618e446c2e2398d27bf6b5dd478fa7b3b631ef96de96d28d6e024584d7",
+      "bounded_extract_sha256": "705f2a3820bce64c4f16f4bbdc93f8ba1973f006cf4fdc26097394cdc20081b3",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 4,
@@ -4107,7 +4107,7 @@
           }
         ]
       },
-      "bounded_extract_sha256": "59fe00cd46ecbcd04b9baad9f2a2f4052908c32b20732c2c4d24b9bfc263498f",
+      "bounded_extract_sha256": "73e9f69bdd8cb77bbed8599e10f1960bb19c25322bf53bb13eb22d358597a529",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 4,
@@ -4189,7 +4189,7 @@
           }
         ]
       },
-      "bounded_extract_sha256": "c616463d278971ae3501d64378168741e07b0892933bd6d0fc980bf8f8f17cbb",
+      "bounded_extract_sha256": "e8e8e87bf01d7906300b899369a67e0bd1c8a19c25942d8b2425966ffbdc22d4",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 5,
@@ -4277,7 +4277,7 @@
           }
         ]
       },
-      "bounded_extract_sha256": "20e88318157e0a51d1a71b4b7bb568a7a4a619f759c9c9239467816eb24971b7",
+      "bounded_extract_sha256": "cc219a36eecbaf2edceea47fae3f647a118d71b35ea96a5be1c403ad5a6abd16",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 5,
@@ -4363,7 +4363,7 @@
           }
         ]
       },
-      "bounded_extract_sha256": "26b63f299e1cc1daf219d53bad843c24ea591c6014f5a58f4c028fee08c6f75f",
+      "bounded_extract_sha256": "c7712ae49312af92becde139ad7bd42bf1b773857f9ca703dfcf3b57289c61a2",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 5,
@@ -4449,7 +4449,7 @@
           }
         ]
       },
-      "bounded_extract_sha256": "8100f8e3148054408e17a9fb4161c21dba3a75e61222bb31caa6cba6cc213e82",
+      "bounded_extract_sha256": "ec63786e54e24a69ea568713af3a22720ab11416a395c45471276b3e8189d245",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 5,
@@ -4521,7 +4521,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "f63b53fff3321ee4b1b73eef52f8069b8a951533f1640f6723e6476e3d62c52c",
+      "bounded_extract_sha256": "aa1dcd967124326f3b0c4853df45a77ac6f1b9d8221bac8023f0486f4bca0d44",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 6,
@@ -4602,7 +4602,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "2548d0133530c85fe276033b15587cd1d7cbf7adba46fb560d47f49759baa3e2",
+      "bounded_extract_sha256": "41d5484d46d0749acd879012806f341d9221d7eccd590b256061eb68449b52dd",
       "counts_before_source": {
         "Stone-Zsela": 5,
         "Stevens": 6,
@@ -4670,7 +4670,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "a4a09082e4db63dc0a01952d2cc518ee90191b680828d5293263a9475fad96eb",
+      "bounded_extract_sha256": "50a00da3c9f918e84917ee0a54efcee8f6c493f810ce0e93af99259c721b88d6",
       "counts_before_source": {
         "Stone-Zsela": 6,
         "Stevens": 6,
@@ -4742,7 +4742,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "ce4f46a890f2a5b8add64506fc9b0dc65df326b5fea4eb2f9ce7ad9a9540d15a",
+      "bounded_extract_sha256": "32bdc1ecfdfde4088e3d9cd81851a981ffdac02fc14240bd48994fdee8325d35",
       "counts_before_source": {
         "Stone-Zsela": 6,
         "Stevens": 6,
@@ -4819,7 +4819,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "73d75e1ec3f8cfd30d84dcf838d738a638e57e91149cc297beb01bafc5f17adf",
+      "bounded_extract_sha256": "c7cc889a98166090ce81bf46d8320d72f72ffb6909312492bb445cec3e25593d",
       "counts_before_source": {
         "Stone-Zsela": 6,
         "Stevens": 6,
@@ -4907,7 +4907,7 @@
           }
         ]
       },
-      "bounded_extract_sha256": "674d1b55264a8402abc63fb4570740193f6cacf1da23f2e918cacdab2cd8be49",
+      "bounded_extract_sha256": "545cf1549a8d19d4e85974becbb0a3e0e348bd77e8734411728919b8f77409ad",
       "counts_before_source": {
         "Stone-Zsela": 6,
         "Stevens": 6,
@@ -4994,7 +4994,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "4b9bc35eaed742618475b38777a2f090b4579c72a947dfca2ab07a94d0b2b84b",
+      "bounded_extract_sha256": "1573c09f1df6daa50fe8aca811682eb86c0d26546cf904010f4238b82901e659",
       "counts_before_source": {
         "Stone-Zsela": 6,
         "Stevens": 6,
@@ -5066,7 +5066,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "934837951e81df4d954cb75097151bb93ebbffdf7a0896794c7fd2260d50e3ff",
+      "bounded_extract_sha256": "364529e445ca421e7f187e648ae2fa9898537d02481396f6b60639c0487362a3",
       "counts_before_source": {
         "Stone-Zsela": 6,
         "Stevens": 6,
@@ -5134,7 +5134,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "12e3228b1e48995070ed75189e7d208cdc29b671b855a286f607d984753c40d4",
+      "bounded_extract_sha256": "682bc8f3e9e6cfde25748e96fa4a72595630b2ef38cf9efcf6a1c8ed42a1d883",
       "counts_before_source": {
         "Stone-Zsela": 6,
         "Stevens": 6,
@@ -5226,7 +5226,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "f4405622bb97a5164e6d8d5497dc6f8c76bcbdc482a6cce6a381f9044b55ba30",
+      "bounded_extract_sha256": "4856567c456071cefe18056dd7f6db3dee5397397287d168fd8f49028f7fb588",
       "counts_before_source": {
         "Stone-Zsela": 6,
         "Stevens": 6,
@@ -5304,7 +5304,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "08ebc1148e7e2d82516ca1927ae0ed43371e000874eafee7ec4d32c5e5217c71",
+      "bounded_extract_sha256": "e970e8dfcce8548448eb66e925e6eabc2ec6e97f6e5e96655608c7c9aecb7189",
       "counts_before_source": {
         "Stone-Zsela": 6,
         "Stevens": 6,
@@ -5386,7 +5386,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "54a495106555e50f71ed15e1f27441444431ec07ced2eb41956caf1fe9b4fb87",
+      "bounded_extract_sha256": "a0c651f59b7182da87c1c6ca1281b024130f171452aa2b529d1767e581e624ad",
       "counts_before_source": {
         "Stone-Zsela": 7,
         "Stevens": 6,
@@ -5464,7 +5464,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "708415c7ca8c70300d54f73f1e7fc8e83982c4c5e2495d2acab79f525b451a52",
+      "bounded_extract_sha256": "b0b9db3be578c5bbeea3e1111509578c343483ab84c8b5032f2ce467991eca56",
       "counts_before_source": {
         "Stone-Zsela": 7,
         "Stevens": 6,
@@ -5541,7 +5541,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "f2d8fb50f1f2cdba1952c702047f1c0e40ad3a2ede1e40cacb40317a0ecb3443",
+      "bounded_extract_sha256": "38007fb41254bccd5a036689074e8dc82468aa3ab8664c6257ea5aebedb561de",
       "counts_before_source": {
         "Stone-Zsela": 7,
         "Stevens": 7,
@@ -5618,7 +5618,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "a1ed898a39525fdc5f12ac5f96999792030e0bd1acfb35ffd418a4e461a9d85d",
+      "bounded_extract_sha256": "8baf2e0f1f77d65e4e6f58022afee33fb43dd9758104b127e656bd9fb76ec08b",
       "counts_before_source": {
         "Stone-Zsela": 7,
         "Stevens": 7,
@@ -5695,7 +5695,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "574ef44cbc998f7c38e7308c1984b520a13350ac2e5f9f0ff2b59d9c99ceba0a",
+      "bounded_extract_sha256": "f0821d35f9d4a391f5eb519a0b53317cf300c2ef78097f333ff3690354210c90",
       "counts_before_source": {
         "Stone-Zsela": 7,
         "Stevens": 7,
@@ -5778,7 +5778,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "890201b5ff676800c5a519092ad27722f0ad97625d6877ef343b1ed9b6d35824",
+      "bounded_extract_sha256": "ee017d20f22319d9e5912c15d3aa2fc7cdabd78a461f0601100e28063c14858e",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 7,
@@ -5855,7 +5855,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "e08b01222b7a4f21710ce6af8a8a670990abdc7be31dae9149d962e7a1d706cc",
+      "bounded_extract_sha256": "6acb6c2f89d804a5b328e4df0c44f0abaeda74eb5e1534791e2180b6863b47ac",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 7,
@@ -5937,7 +5937,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "040cf7361434107fe8303ce87392a8686c84401b1f948b900dea2f137e2ad453",
+      "bounded_extract_sha256": "0a18c3977b100ba5acd454ee940536d3d16bf4ad178cac62ceb491b9e2880d58",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 7,
@@ -6014,7 +6014,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "c487c5c210b40830ea0d4cbde4b03b74919ea29db16689caa8e368b4e339443d",
+      "bounded_extract_sha256": "679b4ad174b443b1fedcbc9d4dd51c8f465dff261fe635eefc42838068a765f9",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 7,
@@ -6091,7 +6091,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "dcab5f470379e8222cfb1423b7bbf95dbba6374ccf8b42148d735cddbb5b9fdf",
+      "bounded_extract_sha256": "abb35e04145544f4b5df20e9523fa40ed0bb38d743714136b3831ade21bc6fed",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 7,
@@ -6168,7 +6168,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "5ec37884956c760febdd0aaed3ad43253f64261cc7c1bc99818c0719a8ee244f",
+      "bounded_extract_sha256": "d6897079599008b057408c1e29f0bc6682306e9ecd9c5d6945be23c66c6d327e",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6251,7 +6251,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "aa4d3ca036c46417b3f2ab21b974a597604225c7f264a5d1857dd5a4d84a52a5",
+      "bounded_extract_sha256": "432f6015048f9095a62b29c801df8432c9ae27a02316200246d38fe4736430ce",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6334,7 +6334,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "18a10830bd603ca5d6e40d53ac43926fa436df6db77a01cc6be211868f2ea315",
+      "bounded_extract_sha256": "3d254792bd1f347c5ce0ed84fd97f2cdcaa2227741574cb8d0e75afb9ff3dc3b",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6411,7 +6411,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "3c52546acc52d59abe703f7f6d6b10d3feec086f1363050e199107d59fb87fff",
+      "bounded_extract_sha256": "af6abd7a76720d7777a549b9bc226470c5dec51169952d809468a7f8c54e0ca3",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6494,7 +6494,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "f6e482108f3f8853fcaa2ffbdb127231555b33f6044d14138e31614def6fdfc7",
+      "bounded_extract_sha256": "cf0d6a34e85405d5c626231e0a25c114e2b3618f1f5f0acadd775476670da6d7",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6571,7 +6571,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "1e0523a5c0dd2681f08ffc55c98374c5e7ce334f01607b6a018ea4eb30cee62d",
+      "bounded_extract_sha256": "07ab2feafaa4475487e925eaf4e122c6d66b2ae2fdd9e729990368f8e7e5bc34",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6648,7 +6648,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "e25fa53f0437080a2a723ae9a353a5801e0b0480a4cde2bc2a20e865573cc091",
+      "bounded_extract_sha256": "3dfe50a70720eec039dbab331b79ea37b24e8e5a69adda4cb7efa88ce6bd37a9",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6731,7 +6731,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "4c9564494558ab2ba4c13b667803a1bdcb92d100b3af2747b8c1031f7aeb6952",
+      "bounded_extract_sha256": "0b3b97ebe85411bdbc44c1957b43a64eed528d9b27c64aea2b16ad9d0a0b7887",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6808,7 +6808,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "dcb3f035ff852b3f2ca535087cb1b220adf0fb52136948d16c0cb3c468022804",
+      "bounded_extract_sha256": "1767be317da405f96a85852b68fe6e3cca3f91be32ea464cd27f78c53fdcaa6d",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6891,7 +6891,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "0f164f1a72eac4eea5c2a0ec987b7a87c669df050ee5e1413fc60127a37f711f",
+      "bounded_extract_sha256": "808fdde6e0a14adec7ce0c289301a3516c1b647d95a685d805f03fcf6f685f37",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -6968,7 +6968,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "b56ecdaaa8866b14c90ab5526fec8374435c8986502a605d4d1fe114222ddfa2",
+      "bounded_extract_sha256": "087ed6bcc0227304a1cb2e3415289f2fdb55203445a455745a9d840aa519190e",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7045,7 +7045,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "9873ce113700d0469bc669965e041b6d661ff768386819434102fe3cd7eb197a",
+      "bounded_extract_sha256": "f9652c53da9dd1c41087727faaf53080a84dd6c064180930f67e66f64b494aad",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7128,7 +7128,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "78c866eb8913317e9fad538ede51e10b793843de1e509412190b3953b23e1ea5",
+      "bounded_extract_sha256": "dcddabdafb4ebfe51be3579ba70755a301426035d48ddcd1bfe2cfe3a9857de6",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7196,7 +7196,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "cbbf257c78b086278bb2afe8f9ec6561779de0c9afe711b29ea8d91e037d244a",
+      "bounded_extract_sha256": "87b9c07174bc252dee5fe54ee4668d03a696128a7131856163bff954cd182a89",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7273,7 +7273,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "a3189cfea656075ad1f043316c72029e80c1b213c67d7a2caa2d1cc84d12f76f",
+      "bounded_extract_sha256": "f96feb305a12c5854b8c09939f3322b57386f36ad77291729d64e0edd5ed2039",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7350,7 +7350,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "46016229fc1185edf3bfbe60e5a746bd20b0a4df34c6b3799a440efb171f3022",
+      "bounded_extract_sha256": "7186cae4485febb1fb0ba371af43e879dbdb66b95dc94df80583e9f02494bfca",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7431,7 +7431,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "0ccb35ec674dc3666a95eaa93d79710983e1b45c8a2786780e416e2535251d54",
+      "bounded_extract_sha256": "2a9d621433942e2114779fbe3f83aa8695c2c48d4b9a673753f4f9d16c5ba8ab",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7524,7 +7524,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "413c95d342b10becc87b4433c9b6b2fd0f2048bd1167da7949342096314c62b2",
+      "bounded_extract_sha256": "5766da1125904b0c935af413f0f168c4d882385d25cbd4db43d5444919ceb5a4",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7605,7 +7605,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "055586bfe3be3385cfd46f327f543d51f093b2171b26a8ccfc7dcf31c61a667e",
+      "bounded_extract_sha256": "0528671b8a23bd636fce19181b6382dc7063e317b428a3da3c6b7d7f3246d7ee",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 8,
@@ -7698,7 +7698,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "e0395ba992f4a45e499e1c6995ead1f24dc44a2c7bd2868011be33b9a3c8b72f",
+      "bounded_extract_sha256": "29bdb129ad95212111660213fa1189f1a74ce3e23d869d6f1ae27855d96fb6d7",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 9,
@@ -7791,7 +7791,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "62f0c6a3c1b393dd20f9a5a79fb1f6c78fbc2551ed4e4204ebd07b44e1cc4e9c",
+      "bounded_extract_sha256": "a71e493c1db54912f4e874bb51e81d3ce2d50db384fa597a5e672a8e68162a19",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 9,
@@ -7878,7 +7878,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "dd771f1d38e4daa94bba991325aadf26392af73d7187f9a963196f74314b40d5",
+      "bounded_extract_sha256": "2a404ea75d1758c0fc84419f1e1da2d41ca323144d655c307946b1c84f837f40",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 9,
@@ -7959,7 +7959,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "bbee1ec94bda903a7c039d65eb24d504ed97ad42613590f5f49fbe644eb75e46",
+      "bounded_extract_sha256": "ff69cd50a306d51a1101462c87b866abfb7f6e711832842188bf497800083eea",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 9,
@@ -8046,7 +8046,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "cd885694326c4e260a5bc468f2654f27be2b0a58ebb8478b287ec5d999a4159a",
+      "bounded_extract_sha256": "66fb7b15e42d5a2d98ff01a2dd8962cc5d9b23e4ba7616d3992ea18a01dc15e6",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 10,
@@ -8129,7 +8129,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "fefc96110728ebd83de52a2a2b8de20e15696c51dd4a7637f20f69fe997f5cad",
+      "bounded_extract_sha256": "ef1bf95e04d2c1075e30cb946b4bc117fe881a027546ca2b0a1b0cb36bf1c2d4",
       "counts_before_source": {
         "Stone-Zsela": 8,
         "Stevens": 10,
@@ -8208,7 +8208,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "0661d1dd16479007d6df3bed1ff689d7566a6abd0be6c67c6111de29803b5722",
+      "bounded_extract_sha256": "e90bd2d7d1d46566915aa82cb601dcc8fef144a363192fe2e33e5bd02b5fe457",
       "counts_before_source": {
         "Stone-Zsela": 9,
         "Stevens": 10,
@@ -8291,7 +8291,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "ba31e7a4937507365e604f4bcb0d664fec7bb1a05f9e34773d50e806a63c7a7b",
+      "bounded_extract_sha256": "b40116dcfe7dfae76e95234e9628bba2554ebba828b7c2d32c887d255897d0e3",
       "counts_before_source": {
         "Stone-Zsela": 9,
         "Stevens": 11,
@@ -8368,7 +8368,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "719c6eaaab7d38260b35997756326b6d934dbc347e27d16b48c586a2a4cc2c12",
+      "bounded_extract_sha256": "a44512ac3dc8372ea550521ab634c9caee14c32a4a4dcb06fafbc819626fdf4f",
       "counts_before_source": {
         "Stone-Zsela": 9,
         "Stevens": 11,
@@ -8445,7 +8445,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "0bb8bcc25f3f1c310865d093b9fb7e1f95d52317c53f0c5da9158cc967cc0251",
+      "bounded_extract_sha256": "0ee4b58a9c16e2621d764937fadb9142c078a8dad4f7c2269f622c93bd6c52e7",
       "counts_before_source": {
         "Stone-Zsela": 9,
         "Stevens": 11,
@@ -8522,7 +8522,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "bf0feee332757079b1fc36d08b0a4f94cea870c78c50e6c25bb327e0e073bbeb",
+      "bounded_extract_sha256": "f3535170b37a2d217ff2043fb23d68148e256f84b068baaa98728fe79e81e554",
       "counts_before_source": {
         "Stone-Zsela": 10,
         "Stevens": 11,
@@ -8599,7 +8599,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "3ed64433f67fe7de1983251c1ee6a0b89ae71bde0171bc3f0069b889cbf24ce2",
+      "bounded_extract_sha256": "bc00ac27f4bd2ce3c2d314e02ffb816bf3886cd5888ee5ad1b9102afe33c5596",
       "counts_before_source": {
         "Stone-Zsela": 10,
         "Stevens": 11,
@@ -8700,7 +8700,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "e7b9f44cd4799eaee2cdffac20edccd6514892794b7e8d8f7742b72d775d4112",
+      "bounded_extract_sha256": "838c699c94bbdca1bc6b05dabdbc2e703e68e9dd0f15fb8bca01411c962f2bc1",
       "counts_before_source": {
         "Stone-Zsela": 10,
         "Stevens": 11,
@@ -8777,7 +8777,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "4c5fe351d601d53fa64320afabfe48221c1dfd5404bd6bb26ddc2c06cc9611a6",
+      "bounded_extract_sha256": "3fe1a9430f36718b635d69a4d5885e867297b7a1c94981002aaaf65d6afc40dd",
       "counts_before_source": {
         "Stone-Zsela": 10,
         "Stevens": 11,
@@ -8854,7 +8854,7 @@
         ],
         "plenary_predicate": []
       },
-      "bounded_extract_sha256": "d46015dcb0bb740ab48144320cdaa70c2e819a265b06712504184bf3f0ff0839",
+      "bounded_extract_sha256": "43ec8937acc5605ca126a40bcae6a47e15c75f637013973407dc24e4458c492d",
       "counts_before_source": {
         "Stone-Zsela": 10,
         "Stevens": 11,

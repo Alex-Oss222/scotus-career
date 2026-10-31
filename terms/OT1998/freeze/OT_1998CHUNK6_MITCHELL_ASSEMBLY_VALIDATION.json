@@ -44,7 +44,7 @@
     "freeze/OT_1998CHUNK6_MITCHELL_RECONCILIATION_RECEIPT.md": "5393316676124784679ad5d65bbd9b247839dfd1e545463e8bee7376e82bf0ce",
     "runtime/OT_1998CHUNK6_MITCHELL_STONE.md": "9e214f270933ed90baaffff875644c1023b4d1fc17ed8f1b0d7f14b01c965323",
     "runtime/OT_1998CHUNK6_MITCHELL_ASSEMBLY_SCOPE.md": "11d1ceecbbc16e45ae07478832f8c10d38e9439e1ac20b055fcd10b440034036",
-    "freeze/OT_1998CHUNK6_MITCHELL_RECOUNT.json": "105fa5d06a9a014794c6d0d5a841ca61bca21d8f612aaf1e4874e2b064c437a3"
+    "freeze/OT_1998CHUNK6_MITCHELL_RECOUNT.json": "5d093bffb52f3b5805e55dcfbb5cd63b94bfa4a4a157ab1608604636c4fc9f01"
   },
   "remaining": [
     "Whole-term checking and workspace integration belong to root operator."

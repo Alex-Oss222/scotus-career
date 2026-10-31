@@ -114,8 +114,8 @@
     },
     {
       "path": "terms/OT1998/records/fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
-      "sha256": "5ad17b1ef6c927c3927780fb5af541574930e02ca96aae3c33526582728d5cad",
-      "bytes": 28462
+      "sha256": "cc18557261af557f2e79b76e31555f0aab133412b69ccff85822d0ed7bd85d7a",
+      "bytes": 32864
     },
     {
       "path": "terms/OT1998/records/gable_v_patton_and_patton_v_gable_threshold_1999-03-04.md",
@@ -134,8 +134,8 @@
     },
     {
       "path": "terms/OT1998/records/hiley_v_barrett_merits_1998-10-09.md",
-      "sha256": "7317277ae43694411e066cdb468be88886e74e5f6ea1aeafb8644800cc88df84",
-      "bytes": 69095
+      "sha256": "03126c71dde3278672df67c9f6210f66ab7b7e976c5f984a53307feba3f79942",
+      "bytes": 71350
     },
     {
       "path": "terms/OT1998/records/holloway_v_united_states_merits_1999-03-02.md",
@@ -304,8 +304,8 @@
     },
     {
       "path": "terms/OT1998/records/united_states_v_wright_merits_1998-10-05.md",
-      "sha256": "4eea211ed875ad068140e827663a3f9c139be0ed8d6f0109a1fa99f85c7a5cda",
-      "bytes": 73244
+      "sha256": "539efc66607d5583a17430745f0250fd76672b162b80512b67b74386bb6efb21",
+      "bytes": 82085
     },
     {
       "path": "terms/OT1998/records/wisconsin_right_to_life_v_paradise_merits_1998-11-24.md",
@@ -334,7 +334,7 @@
     },
     {
       "path": "terms/OT1998/output/OT_1998CHUNK1.md",
-      "sha256": "a876597dcca1c4df8d0a069c9555331681af19624eaee166fcf237f26f1825d6",
+      "sha256": "7c510f3f7df0f5741f18a5b02510ab5c7552db8c2d42e961988bcc7a18f9ed1b",
       "bytes": 222431
     },
     {
@@ -360,22 +360,22 @@
     {
       "path": "terms/OT1998/workspace/continuity.md",
       "sha256": "2993de5eedefb0bcba6bc22c32a2e4a0fdd15876e3a7eb79727ab4c275ac3609",
-      "bytes": 395541
+      "bytes": 397489
     },
     {
       "path": "terms/OT1998/workspace/ledger.md",
       "sha256": "edc6e9faa6e9ebdc6b41d13479487085ab06118b31ef42f145045d408cc4de05",
-      "bytes": 35573
+      "bytes": 34117
     },
     {
       "path": "terms/OT1998/workspace/manifest.md",
       "sha256": "95d1659bf4b56d9238acd81ae35ff98913b43b455531cfc3f0cd498789025beb",
-      "bytes": 83153
+      "bytes": 83184
     },
     {
       "path": "terms/OT1998/workspace/neutral-projection.md",
       "sha256": "dfa77e31adf56165c3dea23c540491ee19f28ca24fa24abb1a013b165da2298a",
-      "bytes": 395977
+      "bytes": 397925
     },
     {
       "path": "terms/OT1998/briefs/.gitkeep",
@@ -394,7 +394,7 @@
     },
     {
       "path": "terms/OT1998/briefs/OT_1998CHUNK11.md",
-      "sha256": "99dbacde46c035809c2224aefc33f7f81baa608fc521d90a1f19e2837695e84b",
+      "sha256": "ca05d63e6407b39ecf4c747ac8650205a838c088b3fadefc87c8b35d75c8277a",
       "bytes": 83683
     },
     {

@@ -425,7 +425,7 @@
       "file": "united_states_v_kirk_merits_1998-02-14.md",
       "date": "1998-02-14",
       "case": "United States v. Kirk; Fifth Circuit No. 94-50472, 105 F.3d 997. No separate Supreme Court docket assigned.",
-      "sha256": "0144d3171952543c7fa04827fccaafdcbdd3d7e3849f2e85c6c30b5d4ef88692",
+      "sha256": "aaf253d9a10648353e068ee201a5118371f8748482089d8a0e4069274e3ff237",
       "counted": true,
       "authors": [
         "Stone-Zsela"
@@ -436,7 +436,7 @@
       "file": "johnson_v_rodriguez_merits_1998-02-17.md",
       "date": "1998-02-17",
       "case": "Johnson v. Rodriguez; Fifth Circuit Nos. 95-50879 and 96-50382, 110 F.3d 299. No separate Supreme Court docket assigned.",
-      "sha256": "21a8aafccde31ddc92fea68c324bc7dbd2ded345058daceded519649a557f34a",
+      "sha256": "6945b6b8ebc8adfedbe4ac7be074f43549386b030f450f2433a7bba460a0f077",
       "counted": true,
       "authors": [
         "Kennedy"
@@ -447,7 +447,7 @@
       "file": "arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md",
       "date": "1998-02-23",
       "case": "Arteaga v. United States Court of Appeals for the Ninth Circuit, No. 97-6749; separate Arteaga v. Wilson fee motion, no separate Supreme Court docket supplied.",
-      "sha256": "ae5e7ab633a087dd7a69e3450a013f5e89c9e807d2f9597e91f62cc58eb74748",
+      "sha256": "8a87f17cb79ee4951f3130ceaca283d9416dc6142732583d0b5ce16ce7acf9c1",
       "counted": false,
       "authors": [],
       "topology": "| Writing | Author | Joined by | Relationship to action | Scope joined |\n|---|---|---|---|---|\n| Opinion and order of the Court, Part I | Per curiam | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Denies each present fee motion separately | Particular-paper Rule 39.8 applications and paid-compliance opportunity |\n| Opinion and order of the Court, Part II | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Declines the proposed prospective condition | Applicant-specific fit and inadequacy-of-individual-treatment ground |\n| Dissent from Part I, joining Part II | Stevens | Stone-Zsela | Would grant both fee motions | Discretionary financial-access ground; no merits, default-excuse or certiorari ruling |\n\nThese are the published opinion joins; they disclose no vote on either underlying certiorari petition."
@@ -456,7 +456,7 @@
       "file": "newsweek_inc_v_florida_department_of_revenue_summary_merits_1998-02-23.md",
       "date": "1998-02-23",
       "case": "Newsweek, Inc. v. Florida Department of Revenue, No. 97-663.",
-      "sha256": "a8c07f82aa9934ad67b2a570ceff4bd45c459115c79a68651a77d08fda41c0b5",
+      "sha256": "2f17b37aedbb4f9ce3ae60eabcd061fad4ea615ed3fab540882c081418d88144",
       "counted": false,
       "authors": [],
       "topology": "| Writing | Author | Joined by | Relationship to judgment | Scope joined |\n|---|---|---|---|---|\n| Opinion of the Court, Part I | Per curiam | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Requires the postpayment opportunity and bounded remand | Reich rule, actual application, reasonable preannounced conditions and open remedial choices |\n| Opinion of the Court, Part II | Per curiam | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Vacates and remands | Formal disposition leaves the claim's merits and lawful conditions for adjudication |\n| Concurrence in Part I and remand; dissent from vacatur in place of reversal | Stone-Zsela | No other Justice | Would reverse and remand | Same governing rule and remedy limits; distinct formal judgment |\n\nThe merits coalitions above disclose no certiorari poll."
@@ -465,7 +465,7 @@
       "file": "regions_hospital_v_shalala_merits_1998-02-24.md",
       "date": "1998-02-24",
       "case": "Regions Hospital v. Shalala, No. 96-1375.",
-      "sha256": "e2edd46bf3f3f16fec2685c8bf4b6afb6024f8875dea45ab3287c173be3b1921",
+      "sha256": "29c6b8787a207859aff2450f4e1ce459fc7314741bed7db6de52389d423f1590",
       "counted": true,
       "authors": [
         "Breyer"
@@ -476,7 +476,7 @@
       "file": "rivet_v_regions_bank_of_louisiana_merits_1998-02-24.md",
       "date": "1998-02-24",
       "case": "Rivet v. Regions Bank of Louisiana, No. 96-1971.",
-      "sha256": "da4aba76464e1ef87de55dbb0ac63aa1d8f34864b79b9080052ec44445bedb0a",
+      "sha256": "30a6e29bad248e6ec16c881c9b9a7e4cc76432ca0fbbdea3a96b77e6fb286d2e",
       "counted": true,
       "authors": [
         "Scalia"

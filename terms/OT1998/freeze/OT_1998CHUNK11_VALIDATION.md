@@ -18,9 +18,9 @@ The [stage/source receipt](OT_1998CHUNK11_STAGE_PROVENANCE.md) describes the act
 
 ## Generated handoff and isolated public Render
 
-The final [Render Input](../render-inputs/OT_1998CHUNK11.md) contains exactly eight generated source-record blocks in date/caption order, with no stopped-matter metadata. It is 165,836 bytes, SHA-256 `14503e31bfda09f770ef42b12bece5fd1c85e875051e2d6f4d7e29714496ae9f`.
+The final [Render Input](../render-inputs/OT_1998CHUNK11.md) contains exactly eight generated source-record blocks in date/caption order, with no stopped-matter metadata. It is 165,836 bytes, SHA-256 `8cdb00f27d174cc43b8eb424b755cc62c4ff5756fd18bd028f929298b76a99a2`.
 
-The final [public Render](../output/OT_1998CHUNK11.md) contains all eight events and no Workflow Blockers section. It is 164,850 bytes, SHA-256 `ca3a4f3c669228c372623e08eceef149cfe6e9230ad3916e80846fc08b9d3d4c`. The four earlier rendered entries are byte-identical. Renderer access was confined to the generated public handoff, its own output, the Render Contract and the three authorized AGENTS presentation sections.
+The final [public Render](../output/OT_1998CHUNK11.md) contains all eight events and no Workflow Blockers section. It is 164,850 bytes, SHA-256 `b55b9cb8d6dac665798c1a8f25e1eb5adb60c250aabd15202973139c0813f23e`. The four earlier rendered entries are byte-identical. Renderer access was confined to the generated public handoff, its own output, the Render Contract and the three authorized AGENTS presentation sections.
 
 The renderer self-check and [required final fidelity check](../audit/OT_1998CHUNK11_RENDER_FIDELITY.md) passed without discrepancy. The final comparison retained passed unchanged-entry checks, incorporated the fresh Murphy/Olmstead replacement, and reviewed only the four additions and complete metadata/coverage. All render/fidelity workers have finished; no additional review remains pending.
 

@@ -149,7 +149,7 @@
   },
   "terms/OT1997/records/united_states_v_rybar_merits_1997-11-24.md": {
     "sha256": "8782dc93cc5574136285443ed5a9165f86cde8c127c703e36f20608955a83283",
-    "bytes": 18487
+    "bytes": 21678
   },
   "terms/OT1997/records/valot_v_southeast_local_school_district_board_of_education_merits_1998-01-05.md": {
     "sha256": "f47627d913a1d2db19d4c6b4f2f47eb463f9fb5dbd596f8b898a908eb07dcf92",
@@ -185,7 +185,7 @@
   },
   "terms/OT1997/render-inputs/OT_1997CHUNK1.md": {
     "sha256": "cfe2f625b1cf65d12a61d203d6cc42b74ba4b1596d4ce9314664906bfe4f845c",
-    "bytes": 71891
+    "bytes": 75146
   },
   "terms/OT1997/tools/run_tool.py": {
     "sha256": "5df45b5ea1f7e6390b128b0bab9b3a86d939c212d35e8652fdd7b37e8b628736",
@@ -704,7 +704,7 @@
     "bytes": 4381
   },
   "terms/OT1997/freeze/OT_1997CHUNK2_PUBLICATION_FILES.json": {
-    "sha256": "32e53cca83e3a8047d86fc592353287f2c8ef0cd0f768ca395b0f363dd51fb0c",
+    "sha256": "c71f78c0a3a33b4f1dad7601c785d3c7a6cd9c8cd3386520c520195d1af09173",
     "bytes": 110700
   },
   "terms/OT1997/freeze/OT_1997CHUNK1_COMMITMENTS_JEFFERSON_ADDENDUM.md": {
@@ -1249,7 +1249,7 @@
   },
   "terms/OT1997/entering-law/OT_1997CHUNK1_RYBAR_EFFECTIVE.md": {
     "sha256": "4eea655335fa3b7ba48c005b86707e0b776bfe91da14fd610158d21d30be3f35",
-    "bytes": 7941
+    "bytes": 9137
   },
   "terms/OT1997/entering-law/OT_1997CHUNK1_C.md": {
     "sha256": "ee10bd8ab386810c17207836c8b6ff426dc7f29ab520fa74fe9fb127491414af",
@@ -1368,8 +1368,8 @@
     "bytes": 120345
   },
   "terms/OT1997/workspace/ledger.md": {
-    "sha256": "4985f988a2e9cc1f151d602ca902897121746f5ceca62fab3c1c1323f46fa82b",
-    "bytes": 13590
+    "sha256": "7e7c83da4f970e91eb92db962485c3bf7b7f9514612156ef590166d61df80297",
+    "bytes": 77427
   },
   "terms/OT1997/workspace/neutral-projection.md": {
     "sha256": "00ff15f2eaacdc63723e4dcc5d808c44eaf4e83c6995f21cc6b27a23983849d6",

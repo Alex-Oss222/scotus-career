@@ -51,13 +51,13 @@
     {
       "file": "hetzel_v_prince_william_county_certiorari_1998-03-23.md",
       "event_date": "1998-03-23",
-      "sha256": "f665ec9967c515c4fcbbb7096cd162364a9e4c5373bf6b2d14e67257249912e3",
+      "sha256": "cb3590bd8bcc82571491912575cb897b093e6c96e265377db25b3923f3818992",
       "status": "Validated durable Record; operator repository verification and commit pending"
     },
     {
       "file": "hetzel_v_prince_william_county_summary_merits_1998-03-23.md",
       "event_date": "1998-03-23",
-      "sha256": "d80b0a49db0cc5774604339aad93e9e462334117479ba0dfa1fedeaa06cb1646",
+      "sha256": "b33bfa7a4afa707b1b06b41ca3a1f8c68f0df6ada88e968301bfcafe9d203b00",
       "status": "Validated durable Record; operator repository verification and commit pending"
     },
     {

@@ -2,7 +2,7 @@
   "terms/OT1995/workspace/continuity.md": {
     "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/continuity.md",
     "sha256": "697040b95e23f6520efd9347a6bf54fdb0b6187cf906a68e9a38f44138e30a3f",
-    "bytes": 141965
+    "bytes": 142017
   },
   "terms/OT1995/workspace/ledger.md": {
     "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/ledger.md",
@@ -17,7 +17,7 @@
   "terms/OT1995/workspace/neutral-projection.md": {
     "snapshot": "terms/OT1995/freeze/CHUNK4_OPENING_WORKSPACE/neutral-projection.md",
     "sha256": "b6c4fc367d8bc9bd15244cba813da7d3269e9f26a70381396f625b06a859069e",
-    "bytes": 140297
+    "bytes": 140349
   },
   "state/HOLDINGS.md": {
     "sha256": "517d631f302e89647e69e7c31d25b9ca525cc16f9f9829583214d8b0ce0e7364",

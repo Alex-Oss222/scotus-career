@@ -228,7 +228,7 @@
     "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_STONE.md": "b101ffdc496e5012b9513345884299c11fa193e65b67815747a3490e5093da47",
     "terms/OT1998/sources/chunk11-root-scope/OLMSTEAD_SCOPE_FACTS.md": "7b3dc88ba4368defa5590f414a3d2c3c8f52b9ddaff5b2d21f022a25862ffbfa",
     "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-lower-clean.txt": "181ceceea2306bbf08f22a17dd9d95896a603da85b102dd9f4a468e72c8ed0ed",
-    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_RECOUNT.json": "6e130f3c5773da21562c772428098005d30d95229cc6caa7e6b53fbcffe2af29"
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_RECOUNT.json": "d6a8b44baf15b3945805c5c8a5e2f8962c9e5d9e286a4a4f4b57977e594c5469"
   },
   "checks": {
     "exact_four_opening_labels": true,
