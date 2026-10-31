@@ -99,7 +99,7 @@ Merits decision, June 12, 1995
 
 Argued January 17, 1995. On writ of certiorari to the United States Court of Appeals for the Tenth Circuit, 16 F.3d 1537 (1994), affirming summary judgment for federal respondents. The admitted question is what equal-protection scrutiny governs the federal subcontractor compensation arrangement and whether this record permits final judgment. The prime selected a certified firm instead of Adarand's low bid; no particular certification route is found.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 #### Judgment
 
@@ -124,7 +124,7 @@ The preserved constitutional challenge returns for application of the common sta
 
 ##### Equal competitive opportunity and prospective standing
 
-**Holding and operative rule:** A bidder able and ready to compete suffers a personal injury when a governmental racial preference denies equal competitive opportunity; it need not prove that it would have received the contract. Prospective relief also requires a real, sufficiently imminent renewed exposure to that preference, which Adarand's repeated bidding and continuing opportunity to encounter the challenged incentive establish here.
+**Controlling proposition:** A bidder able and ready to compete suffers a personal injury when a governmental racial preference denies equal competitive opportunity; it need not prove that it would have received the contract. Prospective relief also requires a real, sufficiently imminent renewed exposure to that preference, which Adarand's repeated bidding and continuing opportunity to encounter the challenged incentive establish here.
 
 **Authority:** Standing portion of Chief Justice Stone-Zsela's opinion of the Court, joined by Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; all nine adopt the holding and its reasoning.
 
@@ -132,7 +132,7 @@ The preserved constitutional challenge returns for application of the common sta
 
 ##### The common substantial-justification standard
 
-**Holding and operative rule:** When government changes an individual's competitive opportunity through a racial classification, government must establish an important objective within its lawful authority and a substantial, evidence-supported relationship between the racial treatment and that objective. Government must justify the measure's coverage and the actual burdens it imposes, including its response to concrete, practicable alternatives that would comparably advance the objective with materially less racial disadvantage. Unsupported assertion, administrative convenience alone, or an inclusive label does not satisfy that burden. Racial hierarchy, stereotypes, hostility, political favoritism, and racial allocation for its own sake are impermissible objectives.
+**Controlling proposition:** When government changes an individual's competitive opportunity through a racial classification, government must establish an important objective within its lawful authority and a substantial, evidence-supported relationship between the racial treatment and that objective. Government must justify the measure's coverage and the actual burdens it imposes, including its response to concrete, practicable alternatives that would comparably advance the objective with materially less racial disadvantage. Unsupported assertion, administrative convenience alone, or an inclusive label does not satisfy that burden. Racial hierarchy, stereotypes, hostility, political favoritism, and racial allocation for its own sake are impermissible objectives.
 
 Supported correction of discrimination and exclusion, prevention of their recurrence, and supported efforts to overcome continuing barriers to meaningful market participation are permissible objectives. An adjudicated violation by every implementing office, proof that each beneficiary personally suffered discrimination, and a prior judgment against each private contractor are not universal prerequisites. The government must identify the relevant barrier or condition and explain why the racial measure substantially addresses it. This is constitutional permission within lawful governmental authority, not a constitutional command to adopt preferences or a freestanding power to regulate every private inequality.
 
@@ -148,7 +148,7 @@ The objection that common review either erases Congress's role or weakens indivi
 
 ##### Vacatur and bounded remand under the common standard
 
-**Holding and operative rule:** The Tenth Circuit's judgment is vacated and the case is remanded to apply the common standard to the actual program and preserved challenge, respecting concessions and supported findings in their actual scope and allowing further proceedings only as needed under ordinary procedural rules. Vacatur neither holds the arrangement unconstitutional nor directs any injunction; interim or final relief requires its own legal and equitable basis.
+**Controlling proposition:** The Tenth Circuit's judgment is vacated and the case is remanded to apply the common standard to the actual program and preserved challenge, respecting concessions and supported findings in their actual scope and allowing further proceedings only as needed under ordinary procedural rules. Vacatur neither holds the arrangement unconstitutional nor directs any injunction; interim or final relief requires its own legal and equitable basis.
 
 **Authority:** All nine Justices support vacatur and remand. The Court's five-Justice coalition adopts the common-standard directions; O'Connor, Scalia, Kennedy and Thomas concur in the judgment on strict-scrutiny grounds and do not join that standard.
 
@@ -185,7 +185,7 @@ Justice Ginsburg concurs, joined by Justice Breyer, and joins the Court's opinio
 
 #### Source Notes
 
-Sources: Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp. 1–24 and actual appellate reply at p. 43; joint appendix pp. 1–36, including SCC pp. 24–26 and prime declaration pp. 30–31; petitioner merits brief pp. 16–24; respondent merits brief pp. 12–19 and 29–35. The lower court recorded concessions, but the actual limited statement and merits disputes are preserved. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson, Wygant and Paradise supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route are unresolved.
+Tenth Circuit opinion, 16 F.3d 1537, petition appendix pp. 1–24 and actual appellate reply at p. 43; joint appendix pp. 1–36, including SCC pp. 24–26 and prime declaration pp. 30–31; petitioner merits brief pp. 16–24; respondent merits brief pp. 12–19 and 29–35. The lower court recorded concessions, but the actual limited statement and merits disputes are preserved. Constitutional and statutory sources include the Fifth Amendment, Small Business Act and operative certification regulations. Fullilove, Metro, Croson, Wygant and Paradise supply precedent within the limits stated above. The §8(d) regulatory conflict and actual certification route are unresolved.
 
 #### Mandate, Remedy, and Stage
 
