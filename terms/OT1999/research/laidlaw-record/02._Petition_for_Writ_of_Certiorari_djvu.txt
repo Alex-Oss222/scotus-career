@@ -1,0 +1,3193 @@
+Supreme Co 
+
+
+, Pree rt, U8. 
+\ ) 9 
+8 82 
+No. 2 NOV 9 1996 
+DERE OE HHE C1 Fag 
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1998 
+
+
+FRIENDS OF THE EARTH, et al., 
+Petitioners, 
+V. 
+
+
+LAIDLAW ENVIRONMENTAL SERVICES (TOC), INC., 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Fourth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Bruce J. Terris* James S. Chandler, Jr. 
+Carolyn Smith Pravlik SOUTH CAROLINA 
+Kathleen L. Millian ENVIRONMENTAL LAW 
+TERRIS, PRAVLIK & PROJECT 
+
+MILLIAN, LLP P.O. Box 279 
+1121 12th Street, N.W. Pawleys Island, S.C. 29585 
+
+
+Washington, D.C. 20005 (843) 527-0078 
+(202) 682-2100 
+
+
+*Counsel of Record Counsel for Petitioners 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+l. Whether a citizen suit seeking civil penalties 
+under Section 505 of the Clean Water Act is constitutionally 
+moot under Stee/ Co. v. Citizens for Better Environment, 118 
+S. Ct. 1003 (1998), due to lack of redressability, where 
+plaintiffs had standing at the time of the complaint and have 
+shown continuing injury-in-fact but have not obtained 
+injunctive relief. 
+
+
+2. Whether a citizen suit seeking civil penalties 
+under Section 505 of the Clean Water Act is constitutionally 
+moot under Stee/ Co., due to lack of redressability, when the 
+district court has rendered a declaratory judgment as to 
+liability and the issue of liability was contested. 
+
+
+3. Whether plaintiffs could not be awarded 
+attorneys’ fees or litigation costs because the case was 
+dismissed for mootness, even if the litigation was responsible 
+for bringing the defendant into compliance with the Clean 
+Water Act. 
+
+
+ii 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+The plaintiffs are Friends of the Earth, Citizens Local 
+Environmental Action Network, Inc. ("CLEAN"), and the 
+Sierra Club. The defendant was Laidlaw Environmental 
+
+
+Services (TOC), Inc., now Safety-Kleen (Roebuck), Inc. 
+
+
+TABLE OF CONTENTS 
+
+
+APPENDIX 
+
+
+JUDGMENT AND DECISIONS BELOW .... 
+STATUES INVOLVED ................ 
+
+
+SUPPLEMENTAL BRIEF FOR THE U.S. AS 
+
+
+AMICUS CURIAE IN COURT.OF APPEALS .. . 
+
+
+REPLY BRIEF FOR PETITIONER IN 
+GWALTNEY OF SMITHFIELD, LTD. vy. 
+
+
+CHESAPEAKE BAY FOUNDATION ....... 
+
+
+iv 
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+American Council for the Blind of Colorado, 
+
+Inc. v. Romer, 992 F.2d 249 (10th Cir. 1993), 
+
+certiorari denied, 510 U.S. 864 (1993) ....----- 24 
+Atlantic States Legal Foundation, Inc. v. Pan 
+
+American Tanning Corp., 993 F.2d 1017 
+
+
+(2d Cir. 1993)... ee eee ee tree een eeeee 13 
+Atlantic States Legal Foundation, Inc. v. Stroh 
+Die Casting Co., 116 F.3d 814 (7th Cir. 1997), 
+certiorari denied, 118 S. Ct. 442 (1997) .....--- 13 
+Atlantic States Legal Foundation, Inc. v. Tyson 
+Foods, Inc., 897 F.2d 1128 (11th Cir. 1990) ..... 13 
+Baumgartner v. Harrisburg Housing Authority, 21 F.3d 
+541, (3d Cir. 1994) 2... eee ees 24 
+Cardinal Chemical Co. v. Morton International, Inc., 
+508 U.S. 83 (1993)... 1. eee eee eee ees 18 
+Carr v. Alta Verde Industries, Inc., 931 F.2d 1055 
+(Sth Cir. 1991)... ee eee eee eee eee eees 13 
+Chesapeake Bay Foundation, Inc. v. Gwaltney of 
+Smithfield, Ltd., 890 F.2d 690 
+(4th Cir. 1989) 2... 2 eee eee ees 8,11, 17 
+Citizens Against Tax Waste v. Westerville City School, 
+985 F.2d 255 (6th Cir. 1993) 6. ee ee ee eee eee 24 
+Comfort Lake Ass'n, Inc. v. Dresel Contracting, Inc., 
+138 F.3d 351 (8th Cir. 1998) .....-----ss 13, 24 
+Craig v. Gregg County, Texas, 988 F.2d 18 
+(Sth Cir. 1993) 2... ee eee eee eee ees 24 
+Dubois v. U.S. Dep't of Agriculture, D.N.H., 
+ber 30, 1998, 1990 U.S. Dist. 
+oc. Ot), Se 11, 27 
+Farrar v. Hobby, 506 U.S. 103 (1992) ..... 21, 24, 25 
+
+
+Seen ee 
+
+
+Vv 
+
+
+Friends of the Earth v. Laidlaw Environmental j 
+(TOC), Inc., 149 F.3d 303 (4th Cir. 1998) . ms _ 
+Friends of the Earth v. Laidlaw Environmental Services 
+(TOC), Inc., 890 F. Supp. 470 (D.S.C. 1995) ... | 
+Friends of the Earth v. Laidlaw Environmental Services 
+(TOC), Inc., 956 F. Supp. 588 (D.S.C. 1997) .. Passim 
+Gwaltney of Smithfield, Ltd. v. Chesapeake Bay 
+
+
+Foundation, Inc., 484 U.S. 49 (1987) i 
+
+. S. 49 (1987) ...... Passim 
+Hanrahan v. Hampton, 446 U.S. 754 (1979) ...... 23 
+Hewitt v. Helms, 482 U.S. 755 0 22 
+LaRouche v. Kezer, 20 F.3d 68 (2d Cir. 1994) — 
+
+
+Little Rock School District v. Pulaski C. 
+
+Special School District, 17 F.34 260” 
+
+(8th Cir. 1994) ................... 24 
+Lundon v. Meehan, 980 F.2d 1450 (D.C. Cir. 1992). 25 
+Maduka v. Meissner, 114 F.3d 1240 (D.C. Cir. 1997) 24 
+Maher v. Gagne, 448 U.S. 122 (1980)... ... 23 
+Natural Resources Defense Council, Inc. v. T. xaco ie 
+
+Refining and Manufacturing, Inc., 2 F.3d 493 
+
+
+ae 13, 26 
+Paris v. U.S. Department of Housing and Urban 
+Development, 988 F.2d 236 (Ist Cir. 1993) .... 24 
+Pawtuxent Cove Marina, Inc. v. Ciba-Geigy Corp, 
+807 F.2d 1089 (Ist Cir. 1986) .......... — 
+Pembroke v. Wood County, Texas, 981F24d225. 
+(Sth Cir. 1993) .................. 24 
+Powell v. McCormick, 395 U.S. 486 (1969) ....__. 15 
+Preseault v. Interstate Commerce Commission. 
+494 U.S.1(1990)................. : 16 
+$14 $2 v. State Board of Education, 21 F.3449_ 
+Steel Co. v. Citizens for Better Environment, 1 18 ares. e 
+S.Ct. 1003 (1998) ................... Passim 
+
+
+Student Public Interest Research Group of 
+New Jersey v. AT&T Bell Laboratories, 842 F.2d 
+
+
+vi 
+
+
+1436, 1448-1449 (3d Cir. 1988) .............. 29 
+Tull v. United States, 481 U.S. 412 (1987) —_.. .... .. . . 15 
+United States v. Concentrated Phosphate Export 
+
+Ass'n, 393 U.S. 199 (1968) ww ww ee eee ees 10, 18 
+
+
+United States v. Munsingwear, 340 U.S. 36 (1950) ...9 
+United States v. W.T. Grant Co., 345 U.S. 629 
+
+Se eceevbevecuneeseeennes ees 7, 10, 12, 18 
+Weinberger v. Romero-Barcelo, 456 U.S. 305 (1982) . 15 
+W.G. ex rel. D.G. v. Senatore, 18 F.3d 60 
+
+
+- lo 3 aa cee ae owed ee hee 25 
+Zinn by Blankenship v. Shalala, 35 F.3d 273 
+
+Pre rr TT TT eT TTT er rey 24 
+Statutes 
+I a sh es Oe ee heed | 
+ha se ie a ads wen chines | 
+i i ee i eee ie wee ke 2, 22 
+i Cet ie tee ed ie eee hw ae 2 
+0 Ee 2 
+I. tis. 6ude eeeew enna debe ee 2 
+ole eet re es wees slats 2 
+PR ane i éeedewennktesde de suncaees 2 
+i so ids cid eh hn eae alee Passim 
+a ee i eer 2 
+ee er ee 2 
+Legislative Material 
+
+
+A Legislative History of the Water Quality Act 
+of 1987, 100th Cong., 2d Sess., Sen. Print 
+PEPE SUED Geeeeeeceotsdoenevcscesen 22 
+
+
+S. Rep. No. 50, 90th Cong., Ist Sess. 28 
+“AS yanae mn iors, Scene ene Se 15, 22 
+
+
+Vii 
+
+
+S. Rep. No. 228, 101st Cong., Ist Sess. 373 
+(1989) 
+
+
+tee Ay es Ta 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Plaintiffs petition for a writ of certiorari to review the 
+judgment of the United States Court of Appeals for the 
+Fourth Circuit. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals was published at 
+149 F.3d 303 (4th Cir. 1998) and is reprinted in the 
+Appendix ("App.") at la. The standing decision of the 
+district court was unpublished. The preclusion decision of 
+the district court was published at 890 F. Supp. 470 (D.S.C. 
+1995). The relief decision of the district court was published 
+at 956 F. Supp. 588 (D.S.C. 1997). 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+July 16, 1998 (App. 3a). The jurisdiction of this Court is 
+invoked under 28 U.S.C. 1254(1). 28 U.S.C. 2403(a) applies 
+to this action. The court of appeals did not certify this action 
+pursuant to 28 U.S.C. 2403(a). 
+
+
+On October 7, 1998, plaintiffs were granted an 
+extension of time to file their petition for a writ of certiorari. 
+
+
+2 
+STATUTES INVOLVED 
+
+
+The relevant sections of the Federal Water Pollution 
+Control Act, 33 U.S.C. 1365(a), 1365(d), 1365(g), and 
+1319(d) are set forth in the Appendix at 10a. 
+
+
+STATUTORY BACKGROUND 
+
+
+Section 301(a) of the Clean Water Act, 33 U.S.C. 
+1311(a), states: 
+
+
+Except as in compliance with this section and 
+sections 302, 306, 307, 318, 402 and 404 of 
+this act, the discharge of any pollutant by any 
+person shall be unlawful. 
+
+
+"The Act makes unlawful the discharge of any pollutant into 
+navigable waters except as authorized by specific sections of 
+the Act." Gwaltney of Smithfield, Ltd. v. Chesapeake Bay 
+Foundation, Inc. 484 U.S. 49, 52 (1987). The Act provides 
+for the issuance of discharge permits. 33 U.S.C. 1341-1345. 
+Compliance with a permit issued pursuant to one of the 
+permit programs established by the Act is deemed compliance 
+with Section 301 of the Act and allows discharges which 
+would otherwise be unlawful. See 33 U.S.C. 1342(k), 
+1344(p). | Conversely, noncompliance with a permit 
+constitutes noncompliance with Section 301 and is a violation 
+of the Act. 
+
+
+Section 402(a) of the Act, 33 U.S.C. 1342(a), 
+provides for the issuance of Natural Pollutant Discharge 
+Elimination System ("NPDES") permits to allow the 
+discharge of wastewater. The Act requires each NPDES 
+permit to: (a) include discharge limitations; (b) require the 
+permittee to be in compliance with the discharge limitations 
+
+
+3 
+
+
+in the permit; and (c) require the permittee to monitor its 
+discharges as the United States Environmental Agency 
+("EPA") requires and report the results accurately to EPA and 
+the state in its discharge monitoring reports ("DMR’s"). 33 
+U.S.C. 1342. 
+
+
+Section 505(a) of the Act, 33 U.S.C. 1365(a) (App. 
+10a), allows any "citizen" to bring suit to enforce any 
+limitation in an NPDES permit. That section specifically 
+authorizes the courts to issue injunctive relief and impose 
+civil penalties. Section 505(g), 33 U.S.C. 1365(g) (App. 
+lla), defines citizen as "a person or persons having an 
+interest which is or may be adversely affected." 
+
+
+STATEMENT OF THE CASE 
+
+
+Defendant Laidlaw operates a hazardous waste 
+incinerator. 956 F. Supp. at 593. As part of its operation, 
+Laidlaw discharges wastewater into the North Tyger River 
+pursuant to the NPDES permit issued by the South Carolina 
+Department of Health and Environmental Control ("DHEC"). 
+Ibid. The applicable permit limited the discharge of specified 
+pollutants, including mercury, lead, nickel, arsenic, cadmium, 
+chromium and zinc. /bid. It also required Laidlaw to monitor 
+its discharge and report the level of pollutants discharged to 
+EPA and DHEC. /bid. From January 1986 through January 
+1995, Laidlaw violated its permit limitation for mercury 489 
+times. 956 F. Supp. at 613-621. Laidlaw also violated its 
+non-mercury metals discharge limitations and its pH 
+limitation 439 times. J.A. 380-392. In addition, it violated 
+the monitoring requirements of its permit 420 times and the 
+reporting requirements 503 times. 956 F. Supp. at 610. 
+
+
+Laidlaw’s discharge violations were due to an 
+inadequate treatment system and its failure to control 
+
+
+4 
+
+
+adequately its mercury feed rate, i.e., the amount of mercury 
+in the waste fed into the incinerator. 890 F. Supp. at 478. 
+Laidlaw gradually added treatment equipment from 1987 to 
+1991. Jd. at 482. The Lancy system, installed in 1991, 
+corrected most of Laidlaw’s non-mercury metals violations. 
+Id. at 483. However, Laidlaw’s mercury violations increased 
+in early 1992. Laidlaw violated its mercury limitation 103 
+times from January 1992 through May 1992, the period 
+immediately prior to the filing of the complaint in this case, 
+including violations as much as 13 times over its permit 
+limitation. Jd. at 619-621. The increase in violations is 
+explained by Laidlaw’s failure to control its mercury feed 
+rate, which it knew was needed to achieve compliance after 
+the installation of the Lancy system. J.A. 598; Def. Exs. 
+105, 144; Pl. Ex. 143; Pl. Ex. 126, figure 1; Stipulation of 
+December 11, 1996, Appendix 1, pp. 16-19. 
+
+
+In July 1992, a month after plaintiffs filed suit, 
+Laidlaw reduced its mercury feed rate and installed new 
+carbon adsorption equipment. 890 F. Supp. at 483; Pl. Ex. 
+126, figure 1; Pl. Ex. 143. In January 1993, Laidlaw 
+installed equipment that aided the performance of the carbon 
+filters in removing mercury. 890 F. Supp. at 483. As a 
+result, the number and severity of its mercury violations 
+dropp i. 956 F. Supp. at 621. Nonetheless, Laidlaw 
+violated the mercury discharge limitations in its permit 13 
+times after the complaint was filed. Jbid. 
+
+
+Plaintiffs, Friends of the Earth, CLEAN and the Sierra 
+Club, brought this action on June 12, 1992, under the citizen 
+suit provision of the Clean Water Act, Section 505, 33 
+U.S.C. 1365 (App. 10a), to enforce the terms and conditions 
+of Laidlaw’s permit. Laidlaw moved to dismiss Friends of 
+the Earth, but not the other plaintiffs, for lack of standing on 
+the ground that its members had not suffered injury-in-fact. 
+
+
+| 
+
+
+5 
+
+
+On June 30, 1993, the district court denied the motion. J.A. 
+13. 
+
+
+Laidlaw subsequently moved to dismiss under Section 
+505(b)(1)(B) of the Act, 33 U.S.C. 1365(b)(1)(B), on the 
+ground that the suit was precluded because the State had 
+brought an action in state court against Laidlaw three days 
+before plaintiffs’ action was filed. 890 F. Supp. at 474. The 
+complaint in the state case had been drafted and filed by 
+Laidlaw’s counsel and the filing fee was paid by Laidlaw. 
+Id. at 479. The complaint was filed at the request of Laidlaw 
+for the purpose of barring plaintiffs’ suit. Jd. at 478. The 
+district court denied the motion after a seven-day evidentiary 
+hearing on the ground that the state action had not been 
+diligently prosecuted for a number of reasons, but primarily 
+because the $100,000 penalty did not remove the economic 
+benefit enjoyed by Laidlaw as the result of its delayed 
+compliance. Jd. at 489-491, 497-499. 
+
+
+On June 27, 1995, the district court denied plaintiffs’ 
+motion for summary judgment for Laidlaw’s violations. J.A. 
+23. On that same date, the district court granted Laidlaw’s 
+motion for summary judgment on all of its non-mercury 
+discharge violations based on this Court’s decision in 
+Gwaltney, since none of the other permit limitations had been 
+violated subsequent to the filing of the complaint. 956 F. 
+Supp. at 592. 
+
+
+On July 31, 1995, the district court began a three-day 
+trial on liability and relief. 956 F. Supp at 592. At the 
+conclusion of the testimony, the district court reserved 
+decision until a decision was issued in a state administrative 
+proceeding involving a challenge to a change in the mercury 
+limitation in Laidlaw’s permit. Jbid. As a result, the district 
+court did not issue its decision until January 22, 1997. 
+
+
+6 
+
+
+The district court found that Laidlaw had violated the 
+mercury limitations in its permit 489 times, including 13 
+times after the complaint in this case was filed. 956 F. Supp. 
+at 600, 621. The court also found that Laidlaw had violated 
+the monitoring requirements in its permit 420 times and the 
+reporting requirements 503 times, including 13 monitoring 
+and 10 reporting violations after the complaint was filed. /d. 
+at 600-601. The court found that Laidlaw had enjoyed an 
+economic benefit of $1,092,581 from its violation of its 
+permit. /d. at 606. However, the court concluded that a 
+penalty of $405,800 was an adequate deterrent, when 
+considered with the attorneys’ fees award that Laidlaw would 
+be required to pay to plaintiffs and Laidlaw’s own litigation 
+expenses. /d. at 610-611. The district court denied 
+plaintiffs’ request for injunctive relief because Laidlaw had 
+achieved substantial compliance with its permit. /d. at 611. 
+
+
+Both sides appealed the district court’s decisions. 
+Laidlaw appealed, inter alia, on the ground that Friends of 
+the Earth lacked standing because of its alleged failure to 
+show injury-in-fact. The day before oral argument in the 
+court of appeals, on March 4, 1998, this Court decided Stee/ 
+Co. v. Citizens for a Better Environment, 118 S. Ct. 1003 
+(1998). On March 10, 1998, plaintiffs filed a motion asking 
+the court of appeals for the opportunity to submit a brief 
+showing that the decision in Stee/ Co. had no application. 
+Laidlaw responded that Stee/ Co. "is largely irrelevant to the 
+standing issue before this Court." Defendant-Appellee’s 
+Opposition to Plaintiffs’ Motion for Leave to File an 
+Additional Brief, March 18, 1998, p. 1. On April 7, 1998, 
+the court of appeals granted plaintiffs’ motion and directed 
+the parties to brief the applicability of Steel Co. 
+
+
+In addition to the parties, the United States filed a 
+brief as amicus curiae, arguing that Steel Co. did not apply 
+
+
+eer alas pe 
+
+
+~~ —- 
+
+
+7 
+
+
+since that decision addressed standing at the time the case 
+was filed as opposed to mootness later in the litigation. 
+Supplemental Brief for the United States as Amicus Curiae in 
+Support of Plaintiffs-Appellants, Friends of the Earth, Inc v. 
+Laidlaw Environmental Services (TOC), Inc., 4th Cir., Nos. 
+97-1246 and 97-1261, pp. 8-9 (App. 28a). The United States 
+further contended that post-complaint compliance and the 
+absence of injunctive relief do not render a request for civil 
+penalties moot, unless the "defendant has carried its heavy 
+burden of demonstrating that violations cannot reasonably be 
+expected to recur * * *." /d., p. 9 (App. 29a). The United 
+States explained: "Where a defendant has a direct financial 
+incentive to resume conduct that is illegal, cessation of illegal 
+activity -- even if accompanied by a substantial period of 
+compliance during the lawsuit -- is unlikely to be sufficient 
+to make ‘absolutely clear’ that there is *no reasonable 
+expectation that the wrong will be repeated. See Gwaltney, 
+484 U.S. at 66-67; see also W.T. Grant Co., 345 U.S. at 632- 
+33 * * *." Id, p. 10 (App. 29a-30a). 
+
+
+The court of appeals vacated and remanded with 
+instructions to dismiss on the ground that the case was moot 
+based on this Court’s decision in Steel Co. App. 8a-9a. In 
+doing so, it ignored the distinction between initial standing 
+and mootness and applied the standing analysis in Steel Co. 
+to the issue whether a case has become moot. It assumed 
+"without deciding that Plaintiffs had standing to initiate this 
+action and have proven a continuous injury in fact." App. 
+7a, n. 3. It reasoned that "[b]ecause Plaintiffs have not 
+appealed the denial of declaratory and injunctive relief, the 
+only potential relief that may be available to redress their 
+claimed injuries is the civil penalty imposed upon Laidlaw" 
+and "[{sluch penalties * * * cannot redress any injury suffered 
+by a citizen plaintiff." App. 7a. 
+
+
+8 
+REASONS FOR GRANTING THE PETITION 
+
+
+l. The court of appeals’ decision is directly 
+inconsistent with this Court’s decision in Gwaltney. The 
+court of appeals assumed that plaintiffs’ members had 
+suffered injury-in-fact and that the injury was continuing at 
+the time the complaint was filed. App. 7a, n. 3. Nevertheless 
+it decided that plaintiffs had not satisfied the redressability 
+requirement for standing and that therefore plaintiffs’ request 
+for civil penalties was moot solely on the ground that the 
+district court had not granted declaratory or injunctive relief 
+and the denial of such relief had not been appealed. This 
+application of the Steel Co. standing analysis to a post- 
+complaint mootness issue puts the decision below in direct 
+conflict with this Court’s decision in Gwaltney, where, 
+despite facts nearly identical to those here, this Court 
+concluded that the case was not moot.” 
+
+
+In Gwaltney, as in this case, the district court had not 
+issued injunctive relief and the plaintiffs had not appealed the 
+issue to the court of appeals. Chesapeake Bay Foundation, 
+Inc. v. Gwaltney of Smithfield, Ltd., 890 F.2d 690, 692 (4th 
+Cir. 1989). Consequently, by the time the case reached this 
+Court, there was no possibility that injunctive relief would 
+issue and the sole remaining claim was for civil penalties. 
+This fact was specifically pointed out by petitioner in this 
+Court. Gwaltney of Smithfield, Ltd. v. Chesapeake Bay 
+Foundation, No. 86-473, Oct. Term 1987, Reply Br. for 
+Petitioner, p. 16 (App. 40a). See 484 U.S. at 66. Moreover, 
+
+
+1/The only difference between Gwaltney and the present case 
+is, as we will discuss below (p. 17), that Laidlaw’s violations 
+continued after the complaint was filed whereas, in Gwaltney, 
+the last violation was a month before the filing of the 
+complaint. 484 U.S. at 53-54. 
+
+
+9 
+
+
+the petitioner in Gwaltney made the identical redressability 
+argument that the court of appeals adopted in the present 
+case. /bid. 
+
+
+Nonetheless, this Court specifically held that the 
+piaintiffs had constitutional standing under Article III to 
+impose civil penalties despite the fact that injunctive relief 
+was no longer being sought. 484 U.S. at 64-66. The Court 
+further made clear that the case was not moot, despite the 
+fact that the possibility of injunctive relief had been 
+eliminated from the case. In response to petitioner's 
+mootness argument, which specifically raised the issue of 
+redressability, this Court discussed the applicability of 
+mootness to citizen suits generally under the Clean Water 
+Act. 484 U.S. at 66-67. See Gwaltney of Smithfield, Ltd. v. 
+Chesapeake Bay Foundation, No. 86-473, Oct. Term 1987, 
+Reply Br. for Petitioner, pp. 15-18 (App. 39a-43a). The 
+Court did not find that the case was moot since, in the 
+paragraph immediately following the discussion of mootness, 
+it stated that it was remanding the case for a determination 
+whether the complaint’s allegation of continuing violations 
+was made in good faith. 484 U.S. 67. If the absence of 
+injunctive relief ipso facto rendered the case moot, there 
+would have been no possible purpose to a remand. 
+
+
+Even if this Court had not specifically discussed the 
+applicability of the mootness doctrine to citizen suits under 
+the Clean Water Act in Gwaltney, it would have still been 
+clear that the Court necessarily rejected the mootness 
+argument of the petitioners in that case. This Court 
+emphasized in Stee! Co. that it is the practice of this Court to 
+determine jurisdictional issues before dealing with the merits. 
+118 S. Ct. at 1012-1013. This rule applies just as much to 
+mootness as to standing. As the Court stated in United States 
+v. Munsingwear, 340 U.S. 36, 39 (1950): 
+
+
+10 
+
+
+The established practice of this Court in 
+dealing with a civil case from a court in the 
+federal system which has become moot on its 
+way here or pending our decision on the 
+merits is to reverse or vacate the judgment 
+below and remain vith a direction to dismiss. 
+
+
+It would therefore have been inconsistent with Article III of 
+the Constitution and this Court’s "established practice" for the 
+Court to have ignored in Gwaltney a substantial jurisdictional 
+issue that had been specifically raised before it. 
+
+
+This Court’s refusal to dismiss Gwaltney on the 
+ground of mootness because no injunctive relief had issued 
+is consistent with the difference in the standards for issuing 
+injunctions and dismissing on the ground of mootness. 
+Injunctive relief requires plaintiffs to prove the likelihood of 
+irreparable harm. As we will see below (pp. 17-19), 
+mootness requires proof by defendants to a virtual certainty 
+that the risk of harm has ceased. Thus, there are numerous 
+intermediate situations where neither injunctive relief nor 
+dismissal based on mootness is proper. See, e.g., United 
+States v. Concentrated Phosphate Export Ass'n, 393 U.S. 
+199, 203 (1968)(even though the defendant on remand might 
+be able to show that injunctive relief was inappropriate, the 
+case was not moot); United States v. W.T. Grant Co., 345 
+U.S. 629, 635-636 (1953) ("We conclude that, although the 
+actions were not moot, no abuse of discretion has been 
+demonstrated in the trial court’s refusal to award injunctive 
+relief"). 
+
+
+The court of appeals in the instant case did not 
+discuss or address Gwaltney, despite its direct relevance to 
+
+
+1] 
+the court of appeals’ mootness determination.” 
+
+
+Instead, it based its decision on Steel Co. However, Steel 
+Co. clearly did not overrule Gwaltney. This Court explicitly 
+stated in Stee/ Co. that "Article III] standing was * * * found 
+[in Gwaltney]." 118 S. Ct. at 1011. Moreover, the Court 
+relied in Steel Co. on the holding in Gwaltney in its detailed 
+discussion of the requirement that courts must determine 
+standing as a threshold matter before considering other issues 
+in the case. /d. at 1009-1016. 
+
+
+Steel Co. involved the issue of standing, whereas 
+Gwaltney involved mootness. Steel Co. involved a situation 
+
+
+2/Plaintiffs relied heavily on Gwaltney throughout their brief 
+on the Steel Co. issue in the court below. See Second 
+Supplemental Brief for Appellants, April 24, 1998. In 
+response, the court of appeals did not even mention 
+Gwaltney, except to reject it with a "but see" citation on the 
+separate attorneys’ fee issue. See pp. 20-22 below. Plaintiffs 
+submit that this was not an oversight; Gwaltney simply 
+cannot be squared with the court of appeals’ holding. 
+
+Indeed, a district court has held that the decision of 
+the court of appeals in the present case implicitly overturned 
+the court of appeals’ prior decision in Chesapeake Bay 
+Foundation, Inc. v. Gwaltney of Smithfield, Ltd., supra, 890 
+F.2d at 696-697, which held that "the mooting of a claim for 
+injunctive relief does not moot a claim for CWA civil 
+penalties" (emphasis in original). Dubois v. U.S. Dep't of 
+Agriculture, D.N.H., September 30, 1998, 1990 U.S. Dist. 
+LEXIS 15198, * 12, n. 4. The district court did not note, 
+however, that the court of appeals in the present case 
+— overturned this Court’s decision in Gwaltney as 
+well. 
+
+
+12 
+
+
+where the complaint contained no allegation of a continuing 
+violation as this Court emphasized repeatedly. 118 S. Ct. at - 
+1008, 1011, 1019. In Gwaltney, the complaint alleged 
+continuing violation. 484 U.S. at 54. 
+
+
+This Court in Steel Co. emphasized the difference 
+between standing and mootness (118 S. Ct. at 1019-1020): 
+
+
+The United States, as amicus curiae, 
+argues that the injunctive relief does constitute 
+remediation because "there is a presumption of 
+future injury when this defendant has 
+voluntarily ceased its illegal activity in 
+response to litigation," even if that occurs 
+before a complaint is filed. * * * The 
+“presumption” the Government refers to has 
+been applied to refute the assertion of 
+mootness by a defendant who, when sued in a 
+complaint that alleges present or threatened 
+injury, ceases the complained-of activity. See 
+e.g., United States v. W.T. Grant Co., 345 
+U.S. 629 (1953). It is an immense and 
+unacceptable stretch to call the presumption 
+into service as a substitute for the allegation of 
+present or threatened injury upon which initial 
+standing must be based. 
+
+
+Thus, Steel Co. carefully distinguished between initial 
+standing and mootness. /d. at 1020. 
+
+
+The facts in the case are like those in Gwaltney, not 
+Steel Co., except that here there were post-complaint 
+violations. The complaint here alleged continuing violations. 
+The court of appeals here assumed standing and continuing 
+violations at the time the complaint was filed. App. 7a, n. 3. 
+
+
+13 
+
+
+The issue here is therefore not standing as in Stee/ Co. but 
+mootness as in Gwaltney. The issue is whether plaintiffs’ 
+request for civil penalties became moot on appeal because no 
+injunctive relief had issued. Thus, the decision of the court 
+of appeals below is not supported by Steel Co. and is directly 
+inconsistent with Gwaltney. 
+
+
+2. Six courts of appeals have held that claims for 
+penalties in citizen suits under the Clean Water Act are not 
+moot even through claims for injunctive relief were no longer 
+viable because the defendants had brought themselves into 
+compliance with the Act. Comfort Lake Ass'n, Inc. v. Dresel 
+Contracting, Inc., 138 F.3d 351, 356 (8th Cir. 1998); Atlantic 
+States Legal Foundation, Inc. v. Stroh Die Casting Co., 116 
+F.3d 814, 820 (7th Cir. 1997), certiorari denied, 118 S. Ct. 
+442 (1997); Natural Resources Defense Council, Inc. v. 
+Texaco Refining and Manufacturing, Inc., 2 F.3d 493, 503- 
+504 (3d Cir. 1993); Atlantic States Legal Foundation, Inc. v. 
+Pan American Tanning Corp., 993 F.2d 1017, 1020-1021 (2d 
+Cir. 1993); Atlantic States Legal Foundation, Inc. v. Tyson 
+Foods, Inc., 897 F.2d 1128, 1135-1136 (11th Cir. 1990); 
+Pawtuxent Cove Marina, Inc. v. Ciba-Geigy Corp., 807 F.2d 
+1089, 1094 (1st Cir. 1986), certiorari denied, 484 U.S. 975 
+(1987). See also Carr v. Alta Verde Industries, Inc., 931 
+F.2d 1055, 1065, n. 9 (Sth Cir. 1991)(dictum). The decision 
+of the court of appeals in this case is directly inconsistent 
+with these decisions. 
+
+
+These cases are directly supported by the holding of 
+this Court in Powell v. McCormick, 395 U.S. 486, 498-499 
+(1969). There, the Court held that a case is not moot where, 
+as here, a monetary remedy is “hotly contested." /d. at 498. 
+This Court said that an outstanding issue of monetary relief 
+was itself sufficient to supply the constitutional requirement 
+of a case or controversy, even though the primary remedy 
+
+
+14 
+
+
+sought in the case, injunctive relief, was no longer needed. 
+Thus, this Court, like the six court of appeals, separated the 
+issue of mootness for civil penalties from mootness for 
+injunctive relief. 
+
+
+As noted above, this Court discussed in Gwaltney the 
+applicability of the mootness doctrine to citizen suits under 
+the Clean Water Act. However, in doing so, it did not 
+indicate that it was dealing with civil penalties. All of the 
+cases cited related to injunctive relief. Thus, there was no 
+suggestion that claims for civil penalties based on violations 
+over which the federal courts had jurisdiction could be barred 
+retroactively based on mootness. 
+
+
+3. The court below concluded that civil penalties 
+could not support redressability on the ground that this Court 
+in Steel Co. had found that “any civil penalties imposed 
+would be payable to the United States Treasury and not to 
+the plaintiff and therefore that the penalties would not benefit 
+the plaintiff." App. 8a. This holding was based on this 
+Court’s statement in Steel Co., that the plaintiff's claim for 
+civil penalties did not satisfy the redressability requirement 
+for standing because (118 S. Ct. at 1018-1019): 
+
+
+By the mere bringing of his suit, every 
+plaintiff demonstrates his belief that a 
+favorable judgment will make him happier. 
+But although a suitor may derive great 
+comfort and joy from the fact that the United 
+States Treasury is not cheated, that a 
+wrongdoer gets his just deserts, or that the 
+nation’s laws are faithfully enforced, that 
+psychic satisfaction is not an acceptable 
+Article III remedy because it does not redress 
+any cognizable Article III injury. (emphasis 
+
+
+15 
+in original) 
+
+
+However, that statement was made by the Court in 
+determining the initial standing of the plaintiff. The Court 
+sharply distinguished in Steel Co. the situation where the 
+plaintiff has not alleged a continuing violation from the 
+situation where a continuing violation has been alleged and 
+the violation and injury-in-fact continued after the filing of 
+the complaint. 118 S. Ct. at 1019, 1020. 
+
+
+The interpretation by the court of appeals of this 
+Court’s holding in Steel Co. would make that decision 
+directly inconsistent with this Court’s decisions in Tull v. 
+United States, 481 U.S. 412, 422-423 (1987), and Weinberger 
+v. Romero-Barcelo, 456 U.S. 305, 314 (1982). In 
+Weinberger v. Romero-Barcelo, this Court, in a similar 
+citizen suit under the Clean Water Act, stated that "[a]n 
+injunction is not the only means of ensuring compliance" and 
+then cited penalties. 456 U.S. at 314. Here, the court of 
+appeals entirely ignored the fact that civil penalties, like 
+injunctive relief, redress harm to the plaintiff by deterring 
+continued and future violation of the statute. This Court in 
+Tull and Romero-Barcelo explicitly noted the deterrent effect 
+of civil penalties imposed under the Clean Water Act on 
+future violations. Congress likewise has specifically 
+conciuded, in discussing civil penalties under the Water Act, 
+that citizen suits "have deterred violators and achieved 
+significant compliance gains." S. Rep. No. 50, 90th Cong., 
+Ist Sess. 28 (1985). See also S. Rep. No. 228, 101st Cong., 
+Ist Sess. 373 (1989) "[t]he assessment of civil penalties for 
+violations of the [Clean Air] Act [is] necessary for 
+
+
+16 
+
+
+deterrence, restitution and retribution").2 Thus, where 
+violations are alleged in the complaint and are in fact 
+continuing after the suit has been filed, civil penalties 
+effectively bring violators into compliance and induce them 
+to continue to comply. Therefore, civil penalties, according 
+to both this Court and Congress, provide redress for the harm 
+to the plaintiffs. 
+
+
+Even, if contrary to our argument above, this Court’s 
+decision in Gwaltney did not determine that the case was not 
+moot, it surely determined that civil penalties could redress 
+violations that continued subsequent to the filing of the 
+complaint. Since, as we have noted (p. 8), civil penalties 
+were the sole relief left in the case and this Court upheld 
+plaintiffs’ standing, it necessarily held that civil penalties can 
+provide redressability for the defendant’s continuing 
+violations. 
+
+
+Here, the district court made clear that, in denying 
+injunctive relief, it was not finding that violations of the 
+permit would not occur in the future. It specifically stated 
+that "a defendant in substantial compliance with its NPDES 
+permit is not required to show that there is no chance of a 
+future permit violation in order to defeat a request for 
+injunctive relief." 956 F. Supp. at 611. It further stated that 
+"[t]aken together, this court believes the above penalty, 
+potential fee awards, and Laidlaw’s own direct and indirect 
+litigation expenses provide adequate deterrence under the 
+circumstances of this case." /bid. Thus, the district court 
+specifically found that the penalty it imposed would be a 
+deterrent to possible future violations. 
+
+
+3/Congress’ determination as to the effect of civil penalties 
+is entitled to substantial deference. See, e.g., Preseault v. 
+Interstate Commerce Commission, 494 U.S. 1, 17 (1990). 
+
+
+17 
+
+
+4. Even if the court of appeals had not assumed 
+continuing injury but had decided that no continuing injury 
+existed, its decision to dismiss this case ‘would still have been 
+directly inconsistent with this Court’s decision in Gwaltney. 
+In Gwaltney, the defendant’s last violation had occurred a 
+month before the complaint was filed and 3 and 1/2 years 
+before this Court issued its decision. 484 U.S. at 53-54. 
+Nevertheless, as noted above, this Court did not dismiss, but 
+instead remanded the case to determine whether the allegation 
+of continuing violations in the complaint was made in good 
+faith. Jd. at 67. Subsequently, on remand, the Court of 
+Appeals for the Fourth Circuit affirmed the district court’s 
+holding that the plaintiff had proved a continuing violation at 
+the time of the complaint, even though there had been -no 
+violations for 5 and 1/2 years. Chesapeake Bay Foundation, 
+Inc. v. Gwaltney of Smithfield, Ltd., supra, 890 F.2d at 695. 
+
+
+In comparison, Laidlaw’s last violation occurred in 
+January 1995. 956 F. Supp. at 621. Thirty-six of Laidlaw’s 
+violations occurred after the complaint was filed. Jd. at 600- 
+601. There were numerous violations for 4 months and 
+sporadic violations for 2 and 1/2 years after the complaint 
+was filed. /d. at 621. Thus, if, as this Court necessarily 
+found, the plaintiffs in Gwaltney were suffering continuing 
+injury, based on pre-complaint violations sufficient to prevent 
+mootness, a fortiori, so were plaintiffs in the present case. 
+
+
+5. This Court’s decisions in Gwaltney and Steel 
+Co. explain why plaintiffs in Gwaltney and in this case have 
+suffered continuing injury. In Gwaltney, this Court set forth 
+the following strict limitation on the applicability of the 
+mootness doctrine in terminating cases as to which the 
+federal courts had jurisdiction when the suit was brought (484 
+U.S. at 66): 
+
+
+18 
+
+
+Long-standing principles of mootness * * * 
+prevent the maintenance of suit when "there is 
+no reasonable expectation that the wrong will 
+be repeated." United States v. W.T. Grant 
+Co., 345 U.S. 629, 633 (1953) * * *. In 
+seeking to have a case dismissed as moot, 
+however, the defendant’s burden "is a heavy 
+one." 345 U.S. at 633. The defendant must 
+demonstrate that it is "absolutely clear that the 
+allegedly wrongful behavior could not be 
+reasonably expected to recur." United States 
+v. Phosphate Export Ass'n, Inc., 393 U.S. 199, 
+203 (1968) (emphasis added [by this Court in 
+Gwaltney}). 
+
+
+As we have seen above (p. 12), this Court in Stee/ Co. 
+made clear the difference between the strict limitations of the 
+mootness doctrine and the standing principles that apply to 
+the initiation of a case. Citing United States v. W.T. Grant 
+Co., just as in Gwaltney, the Court approved the 
+government’s contention that there is a presumption "of 
+{future} injury when the defendant has voluntarily ceased its 
+illegal activity in response to litigation." 118 S. Ct. at 1019. 
+Since plaintiffs here alleged future violations and defendant’s 
+violations in fact continued after the complaint was filed, the 
+presumption of future injury referred to by the United States, 
+and recognized by the Court in both Gwaltney and Steel Co., 
+applies. See also Cardinal Chemical Co. v. Morton 
+International, Inc., 508 U.S. 83, 98 (1993) ("If a party to an 
+appeal suggests that the controversy has, since the rendering 
+of judgment below, become moot, that party bears the burden 
+of coming forward with the subsequent events that have 
+produced that alleged result"). The decision of the court of 
+appeals below ignores the distinction between standing and 
+
+
+mootness. 
+
+
+19 
+
+
+There is no evidence in the present case that makes it 
+"absolutely clear that the allegedly wrongful behavior could 
+not be reasonably expected to recur." On the contrary, a 
+substantial part of Laidlaw’s remedy for its violations 
+involved its decision to reduce the mercury content of the 
+waste it fed into its incinerator. 890 F. Supp. at 478, 483; 
+J.A. 124. Laidlaw had reduced the mercury content in the 
+past and subsequently increased it. J.A. 598; Pl. Ex. 131- 
+132; Def. Exs. 105, 144. Laidlaw could easily change its 
+practice again at any time in the future. 
+
+
+6. This Court held in Stee/ Co. that a declaratory 
+judgment as to liability does not support the redressability 
+requirement of standing where the issue of liability was not 
+contested (118 S. Ct. at 1018): 
+
+
+There being no controversy over whether 
+petitioner failed to file reports, or over 
+whether such a failure constitutes a violation, 
+the declaratory judgment is not only worthless 
+to respondent, it is seemingly worthless to all 
+the world. 
+
+
+Here, plaintiffs sought a declaratory judgment as to 
+liability. J.A. 8. Laidlaw’s answer denied all of allegations 
+in plaintiffs’ amended complaint that Laidlaw had violated 
+the discharge, monitoring and reporting requirements of its 
+permit. Amended Complaint, para. 27; Answer, para. 26. 
+When plaintiffs moved for partial summary judgment on all 
+of Laidlaw’s violations, Laidlaw opposed summary judgment 
+on its mercury discharge violations on the ground that the 
+permit was erroneous. Defendant’s Response in Opposition 
+to Plaintiffs’ Motion for Partial Summary Judgment, June 7, 
+1995, p. 3. Laidlaw argued that "most of the alleged 
+monitoring violations are incorrect" (ibid.) and that most of 
+
+
+20 
+
+
+the reporting violations likewise did not occur (id., p. 5). At 
+trial, Laidlaw continued to dispute the monitoring and 
+reporting violations. Tr., 7/31/95, p. 11. After trial, while 
+it no longer disputed the discharge violations, Laidlaw 
+continued to dispute most of the monitoring and reporting 
+violations. Defendant’s Proposed Findings of Fact and 
+Conclusions of Law, October 13, 1995, pp. 12-15. Thus, 
+defendant did not concede its mercury discharge violations 
+until three years after the start of the litigation and never 
+conceded its monitoring and reporting violations. 
+
+
+Contrary to the conclusion of the court of appeals, the 
+district court did effectively issue a declaratory judgment. It 
+determined that Laidlaw was liable for 489 discharge, 420 
+monitoring, and 503 reporting violations. 956 F. Supp. at 
+610, 613-621. This determination was far from worthless; it 
+determined that defendant had engaged in repeated, flagrant 
+and long-standing violation of federal law. Thus, the 
+decision of the court of appeals is in conflict with Steel Co. 
+even if Steel Co. fully applies to cases where the plaintiffs 
+have standing and the issue involves mootness because of the 
+defendant’s subsequent compliance. 
+
+
+7. In Gwaltney, this Court stated (484 U.S. at 67, 
+n. 6): 
+
+
+Under the Act, plaintiffs are also protected 
+from the suddenly repentant defendant by the 
+authority of the district courts to award 
+litigation costs "whenever the court determines 
+such award is appropriate." 33 U.S.C. § 
+1365(d). The legislative history of this 
+provision states explicitly that the award of 
+costs" should extend to plaintiffs in action 
+
+
+21 
+
+
+which result in successful abatement but do 
+not reach a verdict. For instance, if as a result 
+of a citizen proceeding and believe a verdict is 
+issued, a defendant abated a violation, the 
+court may award litigation expenses borne by 
+the plaintiff in prosecuting such actions." S. 
+Rep. No. 92-414, p. 81 (1971), 2 Leg. Hist. 
+1499. 
+
+
+The court of appeals’ decision that plaintiffs are not 
+entitled to attorneys’ fees is directly inconsistent with this 
+dictum, other decisions of this Court and decisions of nine 
+other circuits. 
+
+
+The court of appeals held that "Plaintiffs’ failure to 
+obtain relief on the merits of their claims precludes any 
+recovery of attorneys’ fees or other litigation costs because 
+such an award is available only to a ‘prevailing or 
+substantially prevailing party.’ 33 U.S.C.A. §1365(d) * * *." 
+App. 9a, n. 5. The court of appeals relied on this Court’s 
+decision in Farrar v. Hobby, 506 U.S. 103 (1992), and an 
+earlier decision of its own, S-/ & S-2 v. State Board of 
+Education, 21 F.3d 49 (1994)(en banc), in which it had held 
+that plaintiffs who had obtained a judgment that was 
+subsequently vacated because of mootness were not 
+prevailing parties. App. 9a, n. 5. 
+
+
+The court of appeals implicitly, but clearly, admitted 
+that its decision on attorneys’ fees was inconsistent with this 
+Court’s dictum in Gwaltney. It did so by prefacing its 
+citation to Gwaltney with "But see." App. 9a, n. 5. Such a 
+citation of an opinion of this Court by a court of appeals is, 
+to say the least, unusual. The court of appeals’ only 
+explanation for doing so was to note that this Court discussed 
+the prior language of Section 505(d) of the Act, rather than 
+
+
+22 
+
+
+the language of the 1987 amendment to Section 505(d), 
+which had been passed shortly before this Court’s opinion. 
+Thus, the court of appeals decided to ignore this Court’s 
+dictum in Gwaltney because it believed that the dictum was 
+erroneous. 
+
+
+This Court’s dictum in Gwaltney was not erroneous. 
+The legislative history of the 1987 amendment to Section 
+505(d) shows that the change in the language of Section 
+505(d) was intended merely to clarify Congress’ intent that 
+citizen plaintiffs not receive attorneys’ fee awards when the 
+plaintiffs had lost the litigation. S. Rep. No. 50, 99th Cong., 
+Ist Sess. 33 (1985); S. Rep. No. 233, 98th Cong., Ist Sess. 
+24-25 (1983); A Legislative History of the Water Quality 
+Act of 1987, 100th Cong., 2d Sess., Sen. Print 144 (Nov. 
+1988), vol. 2, pp. 1311-1312 (remarks of Senator Chafee, the 
+sponsor of the legislation).* The Senate reports specifically 
+state that the plaintiff may prevail as the result of settlement 
+rather than through a court order. It equally follows that a 
+citizen prevails through the defendant bringing itself into 
+compliance with the statute. 
+
+
+In addition to this Court’s dictum in Gwaltney, the 
+decision below conflicts with other decisions of this Court. 
+In Hewitt v. Helms, 482 U.S. 755, 760-761 (1987), this Court 
+
+
+stated: 
+
+
+It is settled law, of course, that relief need not 
+
+
+4/Congress’ compiled legislative history of the 1987 
+amendments includes Senate Report 50 and Senate Report 
+233. See A Legislative History of the Water Quality Act of 
+1987 (Public Law 100-4) Including Public Law 97-440; 
+Public Law 97-117; Public Law 96-483; and Public Law 96- 
+148, pp. 1420-1545, 2195-2216 (November 1988). 
+
+
+23 
+
+
+be judicially decreed in order to justify a fee 
+award under § 1988. A lawsuit sometimes 
+produces voluntary action by the defendant 
+that affords the plaintiff all or some of the 
+relief he sought through a judgment - e.g., * 
+* * a change in conduct that redresses the 
+plaintiff's grievances. When that occurs, the 
+plaintiff is deemed to have prevailed despite 
+the absence of a formal judgment in his favor. 
+
+
+The Court went on to say that "in a declaratory judgment 
+action: if the defendant, under pressure of the lawsuit, alters 
+his conduct (or threatened conduct) towards the plaintiff that 
+was the basis for the suit, the plaintiff will have prevailed. 
+That is the proper equivalent of a judicial judgment which 
+would produce the same effect * * *" (emphasis in original). 
+Id. at 761.7 
+
+
+In Maher v. Gagne, 448 U.S. 122, 129 (1980), in 
+holding that a settlement was adequate to confer prevailing 
+party status, the Court quoted a Senate report that stated that 
+"for purposes of the award of counsel fees, parties may be 
+considered to have prevailed when they vindicate rights * * 
+* without formally obtaining relief." See S. Rep. No. 1011, 
+94th Cong., 2d Sess. 5 (1976). Accord Hanrahan vy. 
+Hampton, 446 U.S. 754, 756-757 (1979). See also H. Rep. 
+No. 1558, 94th Cong., 2d Sess. 7 (1976) ("Similarly, after a 
+complaint is filed a defendant might voluntarily cease the 
+
+
+5/The plaintiff in Hewitt was denied fees because the changes 
+in prison policies would not benefit him since he was no 
+longer in custody. 482 U.S. at 763. However, here, since 
+plaintiffs’ members continue to use the affected waters, they 
+— from defendant’s compliance with the Clean Water 
+
+
+24 
+
+
+unlawful practice. A court might still award fees even 
+though it might conclude, as a matter of equity that no 
+formal relief, such as an injunction, is needed”). 
+
+
+Moreover, the position of the Court of Appeals for the 
+Fourth Circuit in the decision below and S-/] & S-2 v. State 
+Board of Education is inconsistent with the decisions of nine 
+other Circuits which have been decided subsequent to this 
+Court’s decision in Farrar. Comfort Lake Ass'n, Inc. v. 
+Dresel Contracting, Inc., supra, 138 F.3d at 357-358; 
+Maduka v. Meissner, 114 F.3d 1240, 1241 (D.C. Cir. 1997); 
+Zinn by Blankenship v. Shalala, 35 F.3d 273, 274-276 (7th 
+Cir. 1994); Baumgartner v. Harrisburg Housing Authority, 21 
+F.3d 541, 546-550 (3d Cir. 1994); LaRouche v. Kezer, 20 
+F.3d 68, 71, n. 4 (2d Cir. 1994); Little Rock School District 
+v. Pulaski County Special School District, 17 F.3d 260, 263 
+and n. 2 (8th Cir. 1994); American Council for the Blind of 
+Colorado, Inc. v. Romer, 992 F.2d 249, 250 (10th Cir. 1993), 
+certiorari denied, 510 U.S. 864 (1993); Craig v. Gregg 
+County, Texas, 988 F.2d 18, 20-21 (Sth Cir. 1993); Paris v. 
+U.S. Department of Housing and Urban Development, 988 
+F.2d 236, 240-241 (list Cir. 1993); Pembroke v. Wood 
+County, Texas, 981 F.2d 225, 231, n. 27 (Sth Cir. 1993), 
+certiorari denied, 508 U.S. 973 (1993); Citizens Against Tax 
+Waste v. Westerville City School, 985 F.2d 255, 257-258 (6th 
+Cir. 1993). These decisions hold that, even if the plaintiff 
+has not obtained relief from the court, it is entitled to 
+attorneys’ fees if it has in fact obtained a significant part of 
+the relief requested and the litigation was a catalytic or 
+substantial factor in obtaining that relief.” 
+
+
+6/However, the courts of appeals have held that plaintiffs are 
+not entitled to attorneys’ fees, even if they have obtained 
+relief because of the litigation, if the court lacked jurisdiction 
+
+
+25 
+
+
+The decisions of the nine other Circuits are fully 
+consistent with this Court’s decision in Farrar. In Farrar, 
+the Court stated that "to qualify as a prevailing party, a civil 
+rights plaintiff must obtain at least some relief on the merits 
+of his claim." 506 U.S. at 111. However, the Court went on 
+to say (ibid.): 
+
+
+Whatever relief the plaintiff secures must 
+directly benefit him at the time of the 
+judgment or settlement. Otherwise the 
+judgment or settlement cannot be said to 
+“affec(t] the behavior of the defendant toward 
+the plaintiff." Only under these circumstances 
+can civil rights litigation effect "the material 
+alteration of the legal relationship of the 
+parties" and thereby transform the plaintiff 
+into a prevailing party. (citations omitted) 
+
+
+This is a case which was properly brought. As the 
+district court held and the court of appeals assumed, the 
+district court had jurisdiction when the case was filed. 
+Plaintiffs obtained relief by bringing Laidlaw into 
+compliance. In other words, as a result of the suit, Laidlaw 
+took the actions the suit was designed to effectuate. The fact 
+that the relief plaintiffs obtained was vacated is irrelevant, 
+since the vacation of the judgment occurred precisely because 
+the suit had been successful in obtaining Laidlaw’s 
+compliance with the statute. 
+
+
+from the start of the litigation. E.g., Lundon v. Meehan, 980 
+F.2d 1450, 1461-1462 (D.C. Cir. 1992); W.G. ex rel. D.G. v. 
+Senatore, 18 F.3d 60, 64 (2d Cir. 1994). Since the court 
+below assumed that plaintiffs had standing to initiate this 
+action (App. 7a, n. 3), these cases are inapplicable. 
+
+
+26 
+
+
+8. The decision of the court of appeals below is 
+of devastating consequence to citizen suits under the Clean 
+Water Act and other environmental statutes. 
+
+
+The determination that any suit must be dismissed as 
+moot simply because no injunctive relief issued would allow 
+defendants to win virtually any citizen suit by delaying the 
+determination as to injunctive relief long enough to allow it 
+to bring itself sufficiently into compliance so that irreparable 
+injury to the plaintiffs could no longer be shown. As this 
+case well illustrates, such issues as notice, standing, 
+preclusion and numerous other possible defenses can be used 
+to delay injunctive relief, even when violations are continuing 
+to occur, because the plaintiff's success is not yet sufficiently 
+clear to support an injunction. As this case also 
+unfortunately illustrates, resolution of liability and relief in 
+the district courts in Clean Water Act and other 
+environmental cases often takes many years.” 
+
+
+The decision of the court below will only encourage 
+defendants to take every possible step to delay resolution of 
+injunctive relief. The Court of Appeals for the Third Circuit 
+has stated (Natural Resources Defense Council, Inc. v. 
+Texaco Refining and Manufacturing, Inc., supra, 2 F.3d at 
+503-504): 
+
+
+A citizen suit would lose much of its 
+effectiveness if a defendant could avoid 
+
+
+7/Piaintiffs’ counsel in this litigation has a similar case 
+pending in the District Court for the District of New Jersey 
+which was filed in May 1989, and which is awaiting decision 
+concerning the civil penalty to be imposed after a trial in 
+February 1997. PIRG v. Hercules, Inc., D.N.J., Civil No. 89- 
+2291. 
+
+
+27 
+
+
+paying any penalties by post-complaint 
+compliance. If penalty claims could be 
+mooted, polluters would be encouraged to 
+"delay litigation as long as possible, knowing 
+that they will thereby escape liability even for 
+post-complaint violations, so long as violations 
+have ceased at the time the suit comes to 
+trial." Moreover, whether or not damage 
+claims are mooted would depend on the 
+vagaries of when the district court happens to 
+set the case for trial. We cannot embrace a 
+rule that would weaken the deterrent effect of 
+the Act by diminishing incentives for citizens 
+to sue and encourage dilatory tactics by 
+defendants. (footnotes and citations omitted)*® 
+
+
+Even more important, however, the decision of the 
+court of appeals is almost certain to lead environmental 
+groups to cease bringing citizen suits. It makes little sense 
+for citizen groups to seek to enforce the Clean Water Act and 
+other environmental laws when, after years of litigation, a 
+company that has repeatedly violated the statute for a long 
+period of time avoids any penalty for its violations. This 
+case unfortunately illustrates the problem all too well. After 
+six years of litigation, and, we emphasize, successful 
+
+
+8/A recent decision of the District Court for the District of 
+New Hampshire has recently gone even further by holding, 
+in reliance on the decision of the court of appeals in the 
+present case, that, even where injunctive relief has been 
+granted, the mootness doctrine bars a citizen suit under the 
+Clean Water Act for civil penalties once the violations have 
+ceased because the injunction assures that violations are not 
+likely to recur. Dubois v. U.S. Dep't of Agriculture, supra, 
+* 12-14. 
+
+
+28 
+
+
+litigation which led the defendant to cease its violations and 
+required it to pay a substantial penalty, the case has been 
+dismissed without any penalty being imposed for Laidlaw’s 
+hundreds of violations.” 
+
+
+The further determination of the court of appeals that, 
+contrary to the law in other circuits, plaintiffs are not entitled 
+to attorneys’ fees, would virtually assure that few citizen suits 
+will be brought. As again this case illustrates, enforcement 
+suits under the Clean Water Act and other environmental 
+statutes are major, complex litigation requiring substantial 
+resources. The expert witness’ fees of citizen-plaintiffs 
+customarily are at least tens of thousands of dollars. The 
+attorneys’ fees would be hundreds of thousands of dollars or 
+more if citizen-plaintiffs could compensate their attorneys. 
+Since citizen-plaintiffs rarely have such resources, most 
+citizen enforcement suits are brought on the basis of the 
+attorneys being compensated solely by court awards if the 
+suits are successful. Extremely few lawyers will be willing 
+to bear large costs in the form of expert witness’ fees and 
+their own uncompensated time only to find that their suit has 
+led the defendant to comply with the statute and therefore, 
+for this very reason, the case must be dismissed without any 
+award of attorneys’ fees or expenses. 
+
+
+In passing the provision of the Clean Water Act 
+providing for the payment of the attorneys’ fees and expert 
+
+
+9/Laidlaw did pay a penalty of $100,000 to the State. 890 F. 
+Supp. at 479. The district court found that the state suit did 
+not preclude this action largely because of the clear 
+inadequacy of this penalty. 890 F. Supp. at 490-498. 
+However, in the overwhelming majority of cases, no penalty 
+will be paid if the case is dismissed as moot because the 
+defendant has finally come into compliance. 
+
+
+29 
+
+
+witness fees of successful plaintiffs, Congress intended to 
+induce attorneys to be willing to bring these cases. Student 
+Public Interest Research Group of New Jersey v. AT&T Bell 
+Laboratories, 842 F.2d 1436, 1448-1449 (3d Cir. 1988). 
+Congress did this by providing for compensation at market 
+rates so that attorneys handling these cases would be 
+compensated, when the litigation was successful, to the same 
+degree as when they did other legal work. See ibid. The 
+decision of the Court below deeply undermines this 
+inducement. It means that even when the litigation is fully 
+successful, it will often result in no compensation to the 
+plaintiff's attorneys. Such a result is not only obviously 
+unfair but directly contrary to Congress’ intent. 
+
+
+Finally, the decision of the court of appeals on the 
+attorneys’ fees issue will affect the willingness of lawyers to 
+bring not only citizen suits under environmental statutes but 
+suits under civil rights statutes and other statutes where 
+Congress has provided for fee-shifting. 
+
+CONCLUSION 
+
+
+It is respectfully submitted that the petition for a writ 
+of certiorari should be granted. 
+
+
+Respectfully submitted, 
+Bruce J. Terris 
+Carolyn Smith Pravlik 
+Kathleen L. Millian 
+James S. Chandler, Jr. 
+
+
+Counsel for Petitioners 
+
+
+APPENDIX 
+
+
+la 
+
+
+PUBLISHED 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+FRIENDS OF THE EARTH, 
+INCORPORATED; CITIZENS LOCAL 
+ENVIRONMENTAL ACTION NETWORK, 
+INCORPORATED, SIERRA CLUB, 
+
+Plaintiffs-Appellees, 
+
+
+Vv. 
+
+
+LAIDLAW ENVIRONMENTAL SERVICES 
+(TOC), INCORPORATED, 
+Defendant-Appellant. 
+
+
+SOUTH CAROLINA CHAMBER OF 
+COMMERCE; ENVIRONMENTAL 
+MANAGEMENT ASSOCIATION OF SOUTH 
+CAROLINA; SOUTH CAROLINA 
+MANUFACTURERS ALLIANCE; 
+CALIFORNIA PUBLIC INTEREST 
+RESEARCH GROUP; FLORIDA PUBLIC 
+INTEREST RESEARCH GROUP; ILLINOIS 
+PUBLIC INTEREST RESEARCH GROUP; 
+MASSACHUSETTS PUBLIC INTEREST 
+RESEARCH GROUP; PUBLIC INTEREST 
+RESEARCH GROUP IN MICHIGAN; 
+PUBLIC INTEREST RESEARCH GROUP OF 
+NEW JERSEY; OHIO PUBLIC INTEREST 
+RESEARCH GROUP; OREGON STATE 
+PUBLIC INTEREST RESEARCH GROUP; 
+WASHINGTON PUBLIC INTEREST 
+RESEARCH GROUP, UNITED STATES OF 
+AMERICA; SOUTH CAROLINA 
+DEPARTMENT OF HEALTH AND 
+ENVIRONMENTAL CONTROL, 
+
+
+No. 97-1246 
+
+
+Amici Curiae. 
+
+
+lll tlt a a a ee 
+
+
+Pee eS ape i # 
+. ae ide Loess ideas deaths A 
+ge ey, de ld te GPE sD ow’ * 
+
+
+2a 
+
+
+FRIENDS OF THE EARTH, 
+INCORPORATED; CITIZENS LOCAL 
+ENVIRONMENTAL ACTION NETWORK, 
+INCORPORATED; SIERRA CLUB, 
+
+Plaintiffs-Appellees, 
+
+
+Vv. 
+
+
+LAIDLAW ENVIRONMENTAL SERVICES 
+(TOC), INCORPORATED, 
+Defendant-Appellant. 
+
+
+SOUTH CAROLINA CHAMBER OF 
+COMMERCE; ENVIRONMENTAL 
+MANAGEMENT ASSOCIATION OF SOUTH 
+CAROLINA; SOUTH CAROLINA 
+MANUFACTURERS ALLIANCE; 
+CALIFORNIA PUBLIC INTEREST 
+RESEARCH GROUP; FLORIDA PUBLIC 
+INTEREST RESEARCH GROUP; ILLINOIS 
+PUBLIC INTEREST RESEARCH GROUP; 
+MASSACHUSETTS PUBLIC INTEREST 
+RESEARCH GROUP; PUBLIC INTEREST 
+RESEARCH GROUP IN MICHIGAN; 
+PUBLIC INTEREST RESEARCH GROUP OF 
+NEW JERSEY; OHIO PUBLIC INTEREST 
+RESEARCH GROUP; OREGON STATE 
+PUBLIC INTEREST RESEARCH GROUP; 
+WASHINGTON PUBLIC INTEREST 
+RESEARCH GROUP; UNITED STATES OF 
+AMERICA; SOUTH CAROLINA 
+DEPARTMENT OF HEALTH AND 
+ENVIRONMENTAL CONTROL, 
+
+Amici Curiae. 
+
+
+eee ee ee i i OS aw wr Sr 
+
+
+Appeals from the United States District Court 
+for the District of South Carolina at Columbia. 
+Joseph F. Anderson, Jr., District Judge. 
+(CA-92-1697-3-17) 
+
+
+3a 
+Argued: March 5, 1998 
+Decided: July 16, 1998 
+Before WILKINS and HAMILTON, Circuit Judges, and 
+
+
+BROADWATER, United States District Judge for the 
+Northern District of West Virginia, sitting by designation. 
+
+
+Vacated and remanded by published opinion. Judge 
+Wilkins wrote the opinion, in which Judge Hamilton and 
+Judge Broadwater joined. 
+
+
+COUNSEL 
+
+
+ARGUED: Bruce J. Terris, TERRIS, PRAVLIK & 
+WAGNER, Washington, D.C., for Appellants. Donald Alan 
+Cockrill, OGLETREE, DEAKINS, NASH, SMOAK & 
+STEWART, P.C., Greenville, South Carolina, for Appellee. 
+ON BRIEF: Carolyn Smith Pravlik, TERRIS, PRAVLIK & 
+WAGNER, Washington, D.C.; James S. Chandler, Jr., 
+SOUTH CAROLINA ENVIRONMENTAL LAW PROJECT, 
+Pawleys Island, South Carolina, for Appellants. Kristofer K. 
+Strasser, Jack D. Todd, OGLETREE, DEAKINS, NASH, 
+SMOAK & STEWART, P.C., Greenville, South Carolina for 
+Appellee. Deborah Ann Hottel, MCNAIR LAW FIRM, P.A., 
+Columbia, South Carolina; Thomas S. Mullikin, MULLIKIN 
+LAW FIRM, Camden, South Carolina, for Amici Curiae 
+Chamber of Commerce, et al. Charles C. Caldart, David A. 
+Nicholas, NATIONAL ENVIRONMENTAL LAW CENTER, 
+Boston, Massachusetts, for Amici Curiae California 
+
+
+4a 
+
+
+Public Interest, et al. Lois J. Schiffer, Assistant Attorney 
+General, James F. Simon, Deputy Assistant Attorney General, 
+Martin W. Matzen, Thomas A. Mariani, Jr., Julie B. Kaplan, 
+‘UNITED STATES DEPARTMENT OF JUSTICE, 
+Washington, D.C.; Susan Lepow, Associate General Counsel, 
+Richard Witt, Office of General Counsel, David Drelich, 
+Senior Attorney, Office of Enforcement and Compliance 
+Assurance, UNITED STATES ENVIRONMENTAL 
+PROTECTION AGENCY, Washington, D.C., for Amicus 
+Curiae United States. Carlisle Roberts, Jr., Samuel L. 
+Finklea, III, William A. Ready, III, SOUTH CAROLINA 
+DEPARTMENT OF HEALTH AND ENVIRONMENTAL 
+CONTROL, Columbia, South Carolina, for Amicus Curiae 
+Department of Health. 
+
+
+OPINION 
+WILKINS, Circuit Judge: 
+
+
+Plaintiffs Friends of the Earth, Inc. (FOE), Citizens Local 
+Environmental Action Network, Inc. (CLEAN), and Sierra 
+Club appeal an order of the district court penalizing Laidlaw 
+Environmental Services (*TOC), Inc. (Laidlaw) for violations 
+of a National Pollutant Discharge Elimination System 
+(NPDES) permit, arguing that the district court abused its 
+discretion by imposing what Plaintiffs assert was an 
+inadequate penalty. Laidlaw cross appeals, claiming, inter 
+alia, that Plaintiffs lacked standing to institute this action 
+because they suffered no injury in fact and that this suit 
+should have been barred because the South Carolina 
+Department of Health and Environmental Control (DHEC) 
+diligently prosecuted a prior action regarding the same 
+
+
+Sa 
+
+
+violations, see 33 U.S.C.A. § 1365(b)(1)(B) (West 1986). 
+We conclude that this action is now moot; accordingly, we 
+vacate the order of the district court and remand with 
+instructions to dismiss. 
+
+
+I. 
+
+
+Plaintiffs brought this enforcement action against Laidlaw’ 
+pursuant to the citizen-suit provision of the Federal Water 
+Pollution Control Act, see 33 U.S.C.A. § 1365(a)(1) (West 
+1986 & Supp. 1998), alleging ongoing violations by Laidlaw 
+of an NPDES permit and seeking imposition of monetary 
+penalties as well as declaratory and injunctive relief and 
+attorneys’ fees and costs. After a seven-day hearing, the 
+district court ruled that the prior suit by DHEC that Laidlaw 
+alleged barred the current action had not been “diligently 
+prosecuted" within the meaning of § 1365(b)(1)(B)’ and 
+therefore would not serve to bar present suit. See Friends of 
+the Earth, Inc. v. Laidlaw Envtl. Servs. (TOC), Inc., 890 F. 
+Supp. 470, 498 (D.S.C. 1995). Following a bench trial, the 
+district court found that Laidlaw had committed numerous 
+permit violations and imposed a penalty of $405,800. See 
+Friends of the Earth, Inc. v. Laidlaw Envil. Servs. (TOC), 
+Inc., 956 F. Supp. 588, 600-01, 610 (D.S.C. 1997). 
+However, because the court found that Laidlaw’s violations 
+
+
+'FOE and CLEAN initiated the suit, and Sierra Club 
+subsequently joined as an additional plaintiff. See Fed. R. 
+Civ. P. 21. 
+
+
+*Section 1365(b)(1)(B) provides that a citizen suit under the 
+Federal Water Pollution Control Act may not be commenced 
+when the "State has commenced and is diligently prosecuting 
+a civil ... action in a court of the ... State to require 
+compliance." 33 U.S.C.A. §1365(b)(1)(B). 
+
+
+6a 
+
+
+had not harmed the environment and that Laidlaw had been 
+in substantial compliance for several years at the time of the 
+issuance of its final order, the court denied Plaintiffs’ request 
+for declaratory and injunctive relief. See id at 611. Ina 
+separate order, the court stayed the time for a petition for 
+attorney’s fees until the time for appeal had expired or, if 
+either party appealed, until the appeal was resolved. This 
+
+
+appeal followed. 
+Il. 
+
+
+The Constitution provides that "[t]he judicial Power" 
+of the federal courts of the United States extends only to 
+specified "Cases" and "Controversies." U.S. Const. art. III, 
+§ 2, cl. 1; see In re Pruett, 133 F.3d 275, 278 (4th Cir. 
+1997). "The doctrine of standing has always been an 
+essential component of [the] case or controversy requirement 
+of federal jurisdiction." Marshall v. Meadows, 105 F.3d 904, 
+906 (4th Cir. 1997). In order to have standing, a plaintiff 
+must have suffered an actual or threatened injury in fact; the 
+injury must have been caused by the defendant’s complained- 
+of conduct; and the injury must be redressable by the relief 
+sought. See Steel Co. v. Citizens for a Better Env't, 118 S. 
+Ct. 1003, 1016-17 (1998). Moreover, these elements must 
+continue to exist at every stage of review, not merely at the 
+time of the filing of the complaint. See Arizonans for 
+Official English v. Arizona, 117 S. Ct. 1055, 1068 (1997); 
+Suarez Corp. Indus v. McGraw, 125 F.3d 222, 228 (4th Cir. 
+1997). Otherwise, the action becomes moot. See United 
+States Parole Comm'n v. Geraghty, 445 U.S. 338, 397 (1980) 
+(explaining that mootness has been described as "the doctrine 
+of standing set in a time frame: The requisite personal 
+interest that must exist at the commencement of the litigation 
+(standing) must continue throughout its existence (mootness)" 
+(internal quotation marks omitted)). The continued presence 
+
+
+7a 
+
+
+of these elements ensures that the plaintiff has "such a 
+personal stake in the outcome of the controversy as to assure 
+that concrete adverseness which sharpens the presentation of 
+issues." Baker v. Carr, 369 U.S. 186, 204 (1962). 
+
+
+Here, we focus on the continued existence of the third 
+element, redressability. | Because Plaintiffs have not 
+appealed the denial of declaratory and injunctive relief, the 
+only potential relief that may be available to redress their 
+claimed injuries is the civil penalty imposed upon Laidlaw, 
+which would be paid to the United States Treasury. See 
+Atlantic States Legal Found., Inc. v. Tyson Foods, Inc., 897 
+F.2d 1128, 1131 n.5 (11th Cir. 1990). Such penalties, 
+however, cannot redress any injury suffered by a citizen 
+plaintiff. See Steel Co., 118 S. Ct. at 1018-19. 
+
+
+In Steel Co., the Supreme Court held that a plaintiff lacked 
+standing to prosecute a private enforcement action under the 
+
+
+*Laidlaw claims that Plaintiffs were never injured by its 
+permit violations because the violations caused no harm to 
+the environment. Laidlaw also asserts that even if Plaintiffs 
+had been injured by the violations in the past, they no longer 
+have any stake in prosecuting this action because Laidlaw has 
+been in compliance with its permit for several years. For 
+purposes of this appeal, we assume without deciding that 
+Plaintiffs had standing to initiate this action and have proven 
+a continuous injury in fact. See Arizonans for Official 
+English, 117 S. Ct. at 1068 (deciding the case on the basis of 
+mootness without first determining whether appellants had 
+"standing to appeal because the former question, like the 
+latter, goes to the Article III jurisdiction of this Court and the 
+courts below, not to the merits of the case"). 
+
+
+8a 
+
+
+citizen-suit provision of the Emergency Planning and 
+Community Right-To-Know Act of 1986, see 42 U.S.C.A. § 
+11046(a)(1) (West 1995), because the relief requested could 
+not redress the injury plaintiff had allegedly suffered. See 
+Steel Co., 118 S. Ct. at 1017-20. In particular, the Court 
+noted that any civil penalties imposed would be payable to 
+the United States Treasury and not to the plaintiff and 
+therefore that the penalties would not benefit the plaintiff. 
+See id. at 1018-19. The Court reasoned that 
+
+
+although a suitor may derive great comfort 
+
+and joy from the fact that the United States 
+Treasury is not cheated, that a wrongdoer get 
+his just deserts, or that the nation’s laws are 
+faithfully enforced, that psychic satisfaction is 
+not an acceptable Article III] remedy because 
+it does not redress a cognizable Article III 
+
+
+injury. 
+
+
+Id. at 1019. Applying the reasoning of Steel Co., we 
+conclude that this action is moot because the only remedy 
+
+
+*Prior to Stee! Co., which was decided after the district court 
+rendered its decision in the case at bar, this court had held 
+that because "penalties can be an important deterren(t] against 
+future violation," they could redress a private plaintiff's 
+injury from violations even though the penalties are not paid 
+to the plaintiff. Sierra Club v. Simkins Indus., Inc., 847 F.2d 
+1109, 1113 (4th Cir. 1988). Because Steel Co., constitutes "a 
+superseding contrary decision of the Supreme Court," we are 
+required to follow it. Hoffman v. Hunt, 126 F.3d 575, 584 
+(4th Cir. 1997) (internal quotation marks omitted), cert. 
+denied, 66 U.S.L.W. __ (U.S. May 26, 1998) (No. 97- 
+1322). 
+
+
+9a 
+
+
+currently available to Plaintiffs--civil penalties payable to the 
+government--would not redress any injury Plaintiffs have 
+suffered. We therefore vacate the order of the district court 
+and remand with instructions to dismiss this action.’ See 
+Arizonans for Official English, 117 S. Ct. at 1071. 
+
+
+VACATED AND REMANDED 
+
+
+*Plaintiffs’ failure to obtain relief on the merits of their 
+claims precludes any recovery of attorneys’ fees or other 
+litigation costs because such an award is available only to a 
+“prevailing or substantially prevailing party." 33 U.S.C.A. 
+§1365(d) (West Supp. 1998); cf Farrar v. Hobby, 506 U.S. 
+103, 111 (1992) (explaining that "to qualify as a prevailing 
+party, a civil rights plaintiff must obtain at least some relief 
+on the merits of his claim"); S-] & S-2 v. State Bd. of Educ., 
+21 F.3d 49, 51 (4th Cir. 1994) (en banc) (per curiam) 
+(adopting the dissenting opinion reported at 6 F.3d 160, 168- 
+72 (4th Cir. 1993), wherein Judge Wilkinson concluded that 
+Farrar dictates that civil rights plaintiffs who obtained a 
+judgment against a defendant that was subsequently vacated 
+by this court on mootness grounds were not "prevailing 
+part[ies]" entitled to an award of litigation costs). But see 
+Gwaltney of Smithfield, Ltd. v. Chesapeake Bay Found., Inc., 
+484 U.S. 49, 67 n.6 (1987) (citing 1971 legislative history for 
+the proposition that an award of litigation costs could be 
+allowed under §1365(d) when a case becomes moot because 
+the defendant violator voluntarily came into compliance with 
+the law, but not discussing the 1987 amendment to §1365(d) 
+requiring a plaintiff to be a "prevailing or substantially 
+prevailing party" to receive an award of litigation costs). 
+
+
+10a 
+STATUTES INVOLVED 
+The following are the relevant statutory provisions of the 
+Federal Water Pollution Control Act: 
+33 U.S.C. 1365: 
+§ 1365. Citizen suits 
+
+
+(a) Authorization; jurisdiction 
+Except as provided in subsection (b) of this section and 
+section 1319(g)(6) of this title, any citizen may commence a 
+civil action on his own behalf-- 
+
+(1) against any person including (i) the United States, 
+and (ii) any other governmental instrumentality or agency to 
+the extent permitted by the eleventh amendment to the 
+Constitution) who is alleged to be in violation of (A) an 
+effluent standard or limitation under this chapter or (B) an 
+order issued by the Administrator or a State with respect to 
+such a standard or limitation, * * *. 
+
+
+* * * 
+
+
+The district courts shall have jurisdiction, without regard to 
+the amount in controversy or the citizenship of the parties, to 
+enforce such an effluent standard or limitation, or such an 
+order, or to order the Administrator to perform such act or 
+duty, as the case may be, and to apply any appropriate civil 
+penalties under section 1319(d) of this title. 
+
+
+(d) Litigation Costs. ; 
+The court, in issuing any final order in any action brought 
+pursuant to this section, may award costs of litigation 
+
+
+lla 
+
+
+(including reasonable attorney and expert witness fees) to any 
+prevailing or substantially prevailing party, whenever the 
+court determines such award is appropriate. * * * 
+
+
+(g)"Citizen" defined. 
+
+
+For the purposes of this section the term "citizen" 
+means a person or persons having an interest which is or may 
+be adversely affected. 
+
+
+33 U.S.C. 1319(D): 
+
+
+(d) Civil penalties; factors considered in determining 
+amount. 
+
+
+Any person who violates section 1311, 1312, 1316, 
+1317, 1318, 1328, or 1345 of this title, or any permit 
+condition or limitation implementing any of such sections in 
+a permit issued under section 1342 of this title by the 
+Administrator, or by a State, or in a permit issued under 
+section 1344 of this title by a State, or any requirement 
+imposed in a pretreatment program approved under section 
+1342(a)(3) or 1342(b)(8) of this title, and any person who 
+violates any order issued by the Administrator under 
+subsection (a) of this section, shall be subject to a civil 
+penalty not to exceed $25,000 per day for each violation. In 
+determining the amount of a civil penalty the court shall 
+consider the seriousness of the violation or violations, the 
+economic benefit (if any) resulting from the violation, any 
+history of such violations, any good-faith efforts to comply 
+with the applicable requirements, the economic impact of the 
+penalty or the violator, and such other matters as justice may 
+require. * * * 
+
+
+12a 
+
+
+Nos. 97-1246 and 97-1261 
+
+
+IN THE UNITED STATES COURT OF APPEALS 
+
+
+FOR THE FOURTH CIRCUIT 
+
+
+Friends of the Earth, Inc., Citizens Local 
+Environmental Action Network, Inc., 
+and Sierra Club 
+Plaintiffs-Appellants, 
+V. 
+
+
+Laidlaw Environmental Services (TOC), Inc., 
+
+
+Defendant-Appellee. 
+
+
+ON APPEAL FROM THE UNITED STATES DISTRICT 
+COURT FOR THE DISTRICT OF SOUTH CAROLINA, 
+COLUMBIA DIVISION 
+
+
+SUPPLEMENTAL BRIEF FOR THE UNITED STATES 
+
+
+AS AMICUS CURIAE 
+IN SUPPORT OF PLAINTIFFS-APPELLANTS 
+
+
+Lois J. Schiffer 
+er Ato’ 5 
+
+
+l3a 
+
+
+JAMES F. SIMON 
+i tt eneral 
+
+
+GREER GOLDMAN 
+
+DAVID C. SHILTON 
+
+MICHAEL E. WALL 
+
+Attorneys, Department of Justice 
+
+Environment & Natural Resources 
+Division 
+
+P.O. Box 4390 
+
+Washington, DC 20044-4390 
+
+(202) 514-0424 
+
+
+l4a 
+
+
+TABLE OF CONTENTS 
+
+
+, | gf  QrewerrvrrrrrrirrT cir il 
+I GE ED ooo cade esencetercevesesees l 
+Interest of the United States ...............0205. 2 
+gf TTT TTR ee Te 2 
+ere ee rere aa eae ee 3 
+
+
+Laidlaw’s Post-Complaint Compliance Is Not 
+Relevant to FOE’s Standing, Because Standing Is 
+Evaluated Based on the Facts at the Time of the 
+
+
+GED wn ck eceendccenceeeeeeasenes 3 
+
+
+Standing Turns on the Facts as They Existed at the 
+Time of the Complaint, While Post-Complaint 
+Factual Developments Go to Mootness ....... 3 
+
+
+Laidlaw’s Post-Complaint Compliance Is Irrelevant 
+EE Gh bade bere ede aee sass 6 
+
+
+The Issuance of the 1993 and 1994 Permits Did Not 
+Necessarily Moot This Case ............... 7 
+
+
+A Defendant’s Voluntary, Post-Complaint Cessation 
+of Illegal Activity Does Not Moot a Case Unless 
+the Defendant Proves That the Wrongful Behavior 
+Could Not Reasonably Be Expected to Recur ... 7 
+
+
+The Defendant Carries the Burden of Demonstrating 
+that Post-Complaint Compliance Moots a Plaintiff's 
+Se au Peds eee Reta a ehehen ees 7 
+
+
+lSa 
+
+
+Mere “Protestations of Repentance and Reform” Do 
+Not Demonstrate That A Controversy Is Moot .. 9 
+
+
+The Denial of An Injunction Is Not Equivalent to A 
+Factual Finding that the Controversy Is Moot .. 10 
+Both An Injunction Against Future Violations And 
+An Award of Civil Penalties May Redress Injuries 
+From Threatened Future Violations ......... 1] 
+
+
+os er 2 ee aera. et 15 
+
+
+16a 
+TABLE OF AUTHORITIES 
+
+
+FEDERAL CASES 
+
+
+Albemarle Paper Co. v. Moody, 422 U.S. 405 (1975) .. 14 
+Allen v. Wright, 468 U.S. 737, 104 S. Ct. 3315 (1984) 4,5 
+
+
+rican | d te v. Envi tal 
+Protection Agency, 115 F.3d 979 (D.C. Cir. 1997) ..... 8 
+
+
+Arizonans for Official English v. Arizona, 117 S. Ct. 1055 
+reer rrr rrT TTT te Te Tree 5 
+Atlantic Stat al Foundation v. St ie ti : 
+Tt A | es errr reer Tree 14 
+Atlantic States Legal Foundation v. Tyson Foods, Inc., 897 
+Fk. 5. 1. | reer ee 14 
+Bell v. Hood, 327 U.S. 678 (1946) .............. 11 
+Bender v. Williamsport Area School District, 475 U.S. 534 
+DE tence hinadeesad dc ceeded CORO RE EON Oe 5 
+
+
+Binderup v. Pathe Exchange. Inc., 263 U.S. 291 (1923) 11 
+Burke v. Barnes, 479 U.S. 361, 107 S. Ct. 734 (1987) .. 6 
+
+
+Cardinal Chemical Co. v. Morton International, Inc., 508 
+
+
+Cf ara ere re. Tee 7 
+Carr v. Alta Verde Industries, Inc., 931 F.2d 1055 (Sth Cir. 
+Pt cacuancans Rha £6660 b ooh Oke Oe eS 4 
+Che e Bay Foundati _ Vv. Gwaltn ithfiel 
+Lid., 890 F.2d 690 (4th Cir. 1989) ................ 8 
+City of Mesquite v. Aladdins Castle, Inc., 455 U.S. 283 
+DT tet ecetenensceeéeedeaeceees 8, 10 
+Comfort Associati Vv. | Contracti . 
+So ae ee GE EE ce cccesenesecesecs 14 
+County of Riverside v. McLaughlin, 500 U.S. 44 (1991) 4, 5 
+Diamond v. Charles, 476 U.S. 54 (1986) ........... 5 
+Flast v. Cohen, 392 U.S. 83 (1968) ............... 3 
+Friends of the Earth v. Laidlaw, 956 F. Supp 588 (D.S.C. 
+PPR PPT eT TTT TUT TTT Te 6, 10 
+
+
+Gwaltney of Smithfield v. Chesapeake Bay Foundation, 484 
+
+
+17a 
+
+Ulinois Central R.R. Co. v. Adams, 180 U.S. 28 (1901) 11 
+Lewis v. Continental Bank Corp., 494 U.S. 472 (1990) .. 4 
+Los Angeles County v. Davis, 440 U.S. 625 (1979) .... 4 
+rn nae ee 904 US. 555 (1992) . 3,4 
+
+Vv lokai 
+
+Inc., 891 F. Supp. 1389 (D. cone 1995) PSOE rE 15 
+Natura Refini 
+
+& Marketing, Inc., 2 F.3d 493 (3d Cir nn geese 8, 14 
+O'Shea v. Littleton, 414 U.S. 488 (1974) Dl a os 4 
+Pawt Vv Vv ; 
+
+807 F.2d 1089 (Ist Cir. 1986) .................. 15 
+Save Our Bays and Beaches v. City and County of 
+Honolulu, 904 F. Supp. 1098 (D. Haw. 1994). ....... 15 
+Smith v. Sperling, 354 U.S. 91 (1957) ............. 4 
+Spencer v. Kemna, 118 S. Ct. 978 (1998) ......... 5,6 
+St. Paul Mercury Indemnity Co. v. Red Cab Co., 303 U.S. 
+i  ncae 4 
+
+tee v. Citi tter Environment 
+
+118 S. Ce. 1003 (1998) ........... 2, 6, 7, 9, 11, 12, 13 
+
+Tull v. United States, 481 U.S. 412 (1987) ....... 12, 13 
+United States Parole Commission v. Geraghty, 445 U.S. 
+REI Se Ss ae aa 6, 7 
+United States v. Concentrated Phosphate Export 
+Association, 393 U.S. 199(1968) ............ 8,9, 11 
+United States v. W. T. Grant Co., 345 U.S. 629 
+PLOT a eee roa eh irs son's 6d esse ene 8, 10, 11 
+
+
+Weinberger v. Romero-Barcelo, 456 U.S. 305 (1982) 12, 13 
+
+
+FEDERAL STATUTES 
+Clean Water Act 
+PRE Tae Be 0 2 
+PP Us DP UPUUED ccc ceecccccececcece 14 
+
+
+18a 
+
+
+MISCELLANEOUS 
+
+
+C. Wright, A. Miller & E. Cooper, Federal Practice and 
+
+
+Procedure 93533, at 211 (2d ed. 1984) 
+
+
+19a 
+
+
+IN THE UNITED STATES COURT OF APPEALS 
+
+
+FOR THE FOURTH CIRCUIT 
+
+
+Nos. 97-1246 and 97-1261 
+
+
+Friends of the Earth, Inc., Citizens Local 
+Environmental Action Network, Inc., 
+and Sierra Club 
+
+
+Plaintiffs-Appellants 
+
+
+v. 
+Laidlaw Environmental Services (TOC), Inc., 
+
+
+Defendant-Appellee 
+
+
+ON APPEAL FROM THE UNITED STATES DISTRICT 
+
+
+COURT FOR THE DISTRICT OF SOUTH CAROLINA, 
+
+
+COLUMBIA DIVISION 
+
+
+SUPPLEMENTAL BRIEF FOR THE UNITED STATES 
+AS AMICUS CURIAE IN SUPPORT OF PLAINTIFFS- 
+APPELLANTS 
+
+
+20a 
+
+
+STATEMENT OF ISSUES 
+
+
+I. Whether a defendant’s post-complaint compliance 
+with a Clean Water Act discharge permit deprives a 
+citizen plaintiff of standing to enforce violations that 
+were ongoing when the plaintiff filed the complaint? 
+
+
+II. Whether, in an action to enforce a Clean Water Act 
+discharge permit, the expiration of that permit and the 
+issuance of a new permit necessarily moots the citizen 
+plaintiff's claim? . 
+
+
+INTEREST OF THE UNITED STATES 
+
+
+The United States, with the states, implements and has 
+the lead role in enforcing the Clean Water Act (“Act” or 
+“CWA”), 33 U.S.C. § 1251 et_seg. Congress also has 
+authorized affected persons to enforce many of the Act’s 
+requirements. Such “citizen suits” allow persons who are or 
+may be injured by violations to protect their health, 
+environmental, and other interests, and encourage compliance 
+with the Act. Because resource limitations do not allow the 
+government to pursue all violations that warrant enforcement, 
+the United States has a strong interest in ensuring that 
+citizens may enforce the Act to the full extent intended by 
+Congress and allowed by the Constitution. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The recent decision in Steel Company v. Citizens for 
+A Better Environment, 118 S. Ct. 1003 (1998), does not 
+undermine standing in this case. A defendant’s post- 
+complaint compliance with the law cannot deprive a citizen 
+
+
+2la 
+
+
+plaintiff of standing, because under a long line of 
+unquestioned precedent, standing depends upon the facts that 
+existed when the complaint was filed. While a case or 
+controversy must exist at all stages in the litigation, courts 
+evaluate post-complaint changes in fact and law through the 
+mootness doctrine, rather than by revisiting standing. 
+
+
+The United States takes no position on whether the 
+particular facts of this case render the controversy moot, but 
+notes that, as a rule, voluntary, post-complaint cessation of 
+illegal activity does not render a claim moot unless the 
+defendant carries its “heavy burden” of proving that the post- 
+complaint change makes “absolutely clear that the allegedly 
+wrongful behavior could not reasonably be expected to 
+recur.” Gwaltney of Smithfield, Ltd. v. Chesapeake Bay 
+Found., 484 U.S. 49, 66 (1987) (quoting United States v. 
+
+
+Concentrated Phosphate Export Ass’n, 393 U.S. 199, 203 
+(1968)). One factor a court should consider in deciding 
+
+
+whether the defendant has met that burden is whether the 
+defendant would have a financial incentive to resume its 
+illegal conduct. The mere fact that the district court decided 
+not to issue an injunction does not demonstrate that this case 
+is moot. Both injunctive relief and civil penalties may 
+redress the prospect of future violations through specific 
+deterrence. Thus, prayers for both types of relief may 
+support Article III jurisdiction, even where a court denies one 
+or both forms of relief on the merits. 
+
+
+Article III limits the judicial power of federal courts 
+to “cases” or “controversies.” This requirement serves to 
+“limit the business of the federal courts to questions 
+presented in an adversary context and in a form historically 
+viewed as capable of resolution through the judicial process” 
+and also “to assure that the federal courts will not intrude 
+into areas committed to other branches of government.” Flast 
+v. Cohen, 392 U.S. 83, 95 (1968). One aspect of the case-or- 
+controversy requirement is the doctrine of standing, under 
+which a plaintiff seeking to invoke the jurisdiction of a 
+federal court must show either a present or threatened future 
+“injury in fact” that is “causal[ly] connect[ed]” to the 
+challenged conduct and that “likely” would be redressed by 
+a favorable decision. Lujan v. Defenders of Wildlife, 504 
+U.S. 555, 560 (1992) (emphasis omitted). 
+
+
+The facts that must be alleged, supported, and 
+ultimately proven to support standing are the facts as they 
+existed at the time the plaintiff filed its complaint and sought 
+to trigger the court’s jurisdiction. See, e.g., Lujan., 504 U.S. 
+at 569 n.4; County of Riverside v. McLaughlin, 500 U.S. 44, 
+50-51 (1991); Gwaltney of Smithfield v. Chesapeake Bay 
+
+
+23a 
+
+
+Found., 484 U.S. 49, 69 (1987) (Scalia, J., concurring in part 
+and in the judgement); cf. Allen v. Wright, 468 U.S. 737, 
+751-52 (1984) (“In most cases the standing question can be 
+answered chiefly by comparing the allegations of the 
+particular complaint to those made in prior standing cases.” 
+(emphasis added)); O’Shea v. Littleton, 414 U.S. 488, 496 
+(1974) (holding that plaintiffs lacked standing where 
+
+“[nJeither the complaint nor respondents’ counsel suggested 
+that any of the named plaintiffs at the time the complaint was 
+filed were themselves serving an allegedly illegal sentence or 
+were on trial or awaiting trial before petitioners.” (emphasis 
+added)); Smith v. Sperling, 354 U.S. 91, 93 n. 1 (1957); St. 
+Paul Mercury Indemnity Co. 
+
+
+v. Red Cab Co., 303 U.S. 283, 
+289-90 (1938). 
+
+
+The Article III case-or-controversy requirement subsists 
+“through all stages of federal judicial proceedings,” Lewis v. 
+Continental Bank Corp., 494 U.S. 472, 477, 478 (1990) 
+(internal quote marks omitted), but post-complaint changes in 
+the facts or law that may eliminate any “case” or 
+“controversy” are uniformly assessed through the lens of 
+mootness rather than standing. See, generally Los Angeles 
+County v. Davis, 440 U.S. 625, 631 (1979) (“{JJurisdiction, 
+property acquired, may abate if the case becomes moot *** 
+(internal quote marks and citations omitted)); Carr v. Alta 
+Verde Industries. Inc. 931 F.2d 1055, 1061 (Sth Cir. 1991); 
+
+
+13A C. Wright, A. Miller & E. Cooper, Federal Practice and 
+Procedure 93533, at 211 (2d ed. 1984). The cases that 
+
+
+evaluate post-complaint developments under the mootness 
+rubric are numerous and unquestioned. See, e.g., Spencer v. 
+Kemna, 118 S. Ct. 978, 983 (1998). For example, in County 
+of Riverside v. McLaughlin, 500 U.S. 44, 50-52 (1991), the 
+Court held that the plaintiff had standing even though, as a 
+result of post-complaint developments, the case was moot. 
+
+
+24a 
+
+
+Likewise, in Arizonans for Official English v. Arizona, 117 
+S. Ct. 1055 (1997), a state employee sued the state to 
+challenge a state law that she believed required her to speak 
+English at work. While the case was on appeal, the plaintiff 
+left state employment, and the Supreme Court determined 
+that her challenge was “moot.” Id, at 1068-69.' And in 
+Gwaltney, after addressing standing, the Supreme Court 
+invoked the mootness doctrine as the right tool for resolving 
+the defendant’s concern that citizens should not “press their 
+suit to conclusion” where the “allegations of ongoing 
+noncompliance become false at some later point in the 
+litigation.” 484 U.S. at 66-67. 
+
+Mootness and standing have common origins and related 
+contours. Allen v. Wright, 468 U.S. 737, 750, 104 S. 
+Ct. 3315, 3324 (1984). The Supreme Court has on occasion 
+described mootness “as the doctrine of standing set in a time 
+
+
+25a 
+
+
+frame.’” Arizonans for Official English, 117 S. Ct. at 1068- 
+69 (quoting United States Parole Comm’n v. Geraghty, 
+445 U.S. 388, 397 (1980)).' But while the contours of these 
+two doctrines sometimes overlap, the Supreme Court has 
+consistently inquired whether post-complaint changes deprive 
+the court of jurisdiction through the “mootness,” not the 
+“standing,” lens. Steel Company specifically recognized and 
+implicitly reaffirmed this distinction, in holding that an 
+exception to the mootness doctrine did not apply to the 
+standing inquiry. See 118 S. Ct. at 1020; see also Burke v. 
+Barnes, 479 U.S. 361, 364 n.*, 107S. Ct. 734, 736 n.* 
+(1987) (“We reject respondents’ argument that the questions 
+of mootness and standing are necessarily intertwined.”). 
+
+
+B. —Laidlaw’s_Post-Complaint Compliance Is 
+Irrelevant to FOE’s Standi 
+
+
+FOE did not “lose standing” once Laidlaw came into 
+compliance with the company’s 1986 permit. As discussed 
+supra, a plaintiff's standing depends on the facts that existed 
+when the plaintiff filed its complaint. FOE filed its 
+complaint on June 12, 1992, and joined Sierra Club as a 
+plaintiff on November 19, 1992. 956 F. Supp. at 592. 
+Laidlaw violated its permit limits for mercury fourteen times 
+in June 1992, including on the very day the complaint was 
+filed and on several subsequent days during that month, and 
+
+
+l The Supreme Court sometimes even has incorporated 
+the tripartite standing test into the mootness inquiry. See, 
+e.g., Spencer v. Kemna, 118 S. Ct. 978, 983 (1998) (Scalia, 
+
+
+J.). Compare United States Parole Comm’n v. Geraghty, 445 
+U.S. 388, 403 (1980) (using a test specific to the mootness 
+
+
+inquiry). 
+
+
+26a 
+
+
+violated its mercury limit on at least six more days in the 
+following four months. Id. at 621. Laidlaw substantially 
+reduced its violations shortly after FOE sued, see id. at 611, 
+but did not consistently comply with its permit limit for 
+mercury discharges until 1995. Ibid. Thus, Laidlaw did not 
+“come into compliance with the 1986 permit” until after FOE 
+sued, and Laidlaw’s post-complaint compliance is inapposite 
+to FOE’s standing. Put another way, if FOE had standing on 
+the facts as they existed when FOE filed its complaint, no 
+subsequent change in the facts — not even Laidlaw’s post- 
+complaint compliance — could eliminate that standing. The 
+Steel Company Court’s recognition of the difference between 
+mootness and standing, see 118 S. Ct. at 1020, buttresses this 
+
+
+conclusion. 
+
+
+Il. The ance of and 1994 Permits Did 
+Not Necessarily Moot This Cas 
+
+
+A. A Defendant’s V t- 
+Moot a Case Unless the Defendant Proves 
+That the W 1 vi t 
+Re t 
+
+
+1. The Defendant Carries the Burden 
+
+
+- 
+~ 
+
+
+A case becomes moot “‘when the issues presented are 
+no longer “live” or the parties lack a legally cognizable 
+interest in the outcome.”” United States Parole Commission 
+v. Geraghty, 445 U.S. 388, 395-96 (1980) (quoting Powell v. 
+McCormack, 395 U.S. 486, 496 (1969)). The mootness 
+doctrine, like that of standing, derives from the Article III 
+
+
+> 
+Fd 
+
+
+#N 
+/ ' 
+tel 
+
+
+27a 
+
+
+case-or-controversy requirement, but the two are not the 
+same: 
+
+
+[W)hile the initial burden of establishing the trial 
+court's jurisdiction rests on the party invoking that 
+jurisdiction, once that burden has been met courts are 
+entitled to presume, absent further information, that 
+jurisdiction continues. If a party to an appeal 
+Suggests that the controversy has, since the rendering 
+of judgment below, become moot, that party bears the 
+burden of coming forward with the subsequent events 
+that have produced that alleged result. 
+
+
+Cardinal Chemical Co. v. Morton Int’L., Inc., 508 U.S. 83, 98 
+(1993). 
+
+
+In keeping with this shifted burden, the Supreme 
+
+Court long has recognized that a defendant who voluntarily 
+halts challenged conduct only after being sued generally does 
+not thereby “deprive the tribunal of power to hear and 
+determine the case.” United States v. W. T. Grant Co., 345 
+U.S. 629, 632 (1953); accord City of Mesquite v. Aladdin’s 
+Castle, Inc., 455 U.S. 283, 289 (1982): United States v. 
+n ’n, 393 U.S. 199, 203 
+(1968). Rather, a defendant who seeks to moot a lawsuit by 
+voluntarily halting challenged activity only after being sued 
+must carry the “heavy burden” of showing “that it is 
+absolutely clear that the allegedly wrongful behavior could 
+not reasonably be expected to recur.” Gwaltney, 484 U.S. at 
+66 (emphasis in original; internal quote marks omitted); 
+accord, e.g., Chesapeake Bay Foundation, Inc. v. Gwaltney 
+of Smithfield, Ltd., 890 F.2d 690, 697 (4th Cir. 1989); 
+American Iron & Steel Inst. v. Environmental Protection 
+Agency, 115 F.3d 979, 1007 (D.C. Cir. 1997). This rule 
+
+
+28a 
+
+
+“protects plaintiffs from defendants who seek to evade 
+sanction by predictable protestations of repentance and 
+
+a reform,” Gwaltney, 484 U.S. at 67, while promoting 
+judicial economy and fairness. As the Third Circuit has 
+explained: 
+
+
+A citizen suit would lose much of its effectiveness if 
+a defendant could avoid paying any penalties by 
+post-complaint compliance. *** [PJolluters would be 
+encouraged to delay litigation as long as possible, 
+knowing that they will thereby escape liability even 
+for post-complaint violations, so long as violations 
+have ceased at the time the suit comes to trial. 
+Moreover, whether or not damage claims are mooted 
+would depend on the vagaries of when the district 
+court happens to set the case for trial. 
+
+
+Natural Resource Defense Council v. Texaco Ref. ' 
+Inc., 2 F.3d 493, 503 (3d Cir. 1993) (citations and quotations 
+
+
+omitted). 
+
+
+Steel Company supports application of the “voluntary 
+cessation” mootness rule to this case. The Steel Company 
+Court declined to extend the “voluntary cessation” rule to 
+support a claim of standing where the plaintiff did not allege 
+any likelihood of future violations. See 118 S. Ct. at 1020. 
+But Steel Company preserved without questioning the long- 
+standing application of the voluntary cessation rule “to refute 
+the assertion of mootness by a defendant who, when sued in 
+a complaint that alleges present or threatened injury, ceases 
+the complained-of activity.” Ibid. This is such a case. 
+
+
+The question whether Laidlaw’s present compliance 
+moots any controversy with respect to future violations turns 
+on two subsidiary questions: First, is Laidlaw’s post 
+
+
+29a 
+
+
+-complaint compliance attributable solely to a permanent 
+change in the law (i.e., the change in Laidlaw’s 1994 permit), 
+or did Laidlaw’s post-complaint compliance result at least in 
+part from Laidlaw’s “voluntary cessation” of illegal activity 
+after FOE sued? If “voluntary cessation” was a factor, then 
+the voluntary cessation doctrine applies. The United States 
+leaves that fact-specific inquiry to the parties. Second, if 
+Laidlaw’s compliance was attributable at least in part to 
+Laidlaw’s “voluntary cessation” of illegal activity, has 
+Laidlaw proved that its violations cannot reasonably be 
+expected to recur? If Laidlaw has not carried that burden, 
+this case remains “live.” 
+
+
+2. _ Mere “Protestations of Re c 
+t versy is 
+
+
+In evaluating whether a defendant has carried its 
+heavy burden of demonstrating that violations cannot 
+reasonably be expected to recur, one factor a court should 
+consider is whether the defendant would have an incentive to 
+resume its illegal activity — especially any economic 
+incentive like one the defendant may have had immediately 
+before the complaint — if the case (and the accompanying 
+imminent threat of sanctions) were dismissed. Cf. 
+Concentrated Phosphate Export Ass’n, 393 U.S. at 202-03 
+(holding that the defendants’ mere assertion that the prior 
+illegal practice was no longer economical did not suffice to 
+moot an enforcement action). Where a defendant has a direct 
+financial incentive to resume conduct that is illegal, cessation 
+of illegal activity — even if accompanied by a substantial 
+period of compliance during the lawsuit — is unlikely to be 
+sufficient to make “absolutely clear” that there is “no 
+reasonable expectation that the wrong will be repeated.” See 
+
+
+Gwaltney, 484 U.S. at 66-67; see also W.T. Grant Co., 345 
+
+
+30a 
+
+
+U.S. at 632-33; cf. Gwaltney, 484 U.S. at 69 (Scalia, J., 
+concurring in part and in the judgement) (“A good or lucky 
+day is not a state of compliance. Nor is the dubious state in 
+which a past effluent problem is not recurring at the moment 
+but the cause of that problem has not been completely and 
+clearly eradicated.”). 
+
+
+The district court’s decision not to enjoin Laidlaw 
+does not necessarily mean that Laidlaw had carried its burden 
+of proving mootness. The district court correctly recognized 
+that “a defendant in substantial compliance with its NPDES 
+permit is not required to show that there is no chance of 
+future permit violations in order to defeat a request for 
+injunctive relief.” 956 F. Supp. at 611. Abandonment of 
+illegal activity “is an important factor bearing on the question 
+whether a court should exercise its power to enjoin the 
+defendant from renewing the practice, but that is a matter 
+relating to the exercise rather than the existence of judicial 
+power.” City of Mesquite, 455 U.S. at 289. Thus, even in 
+cases in which a court determines that an injunction is 
+inappropriate, claims regarding future violations generally are 
+not mooted by a defendant’s “voluntary cessation” of illegal 
+activity. See Concentrated Phosphate Export Ass'n, 393 U.S. 
+at 203; W.T. Grant Co., 345 U.S. at 633-34, 635-36 (“We 
+conclude that, although the actions were not moot, no abuse 
+of discretion has been demonstrated in the trial court’s refusal 
+to award injunctive relief.”); see also Illinois Central R.R. 
+Co. v. Adams, 180 U.S. 28, 30-32 (1901) (reasoning that the 
+court had jurisdiction, despite the respondent’s argument that 
+
+
+3la 
+
+
+“the very things the bill was filed to prevent are 
+accomplished facts, and the [petitioner] cannot be injured,” 
+because those “accomplished facts” went to the merits rather 
+than to jurisdiction). Steel Company reaffirmed that Article 
+Ill redressability turns on the relief the plaintiff requests — 
+unless the request is wholly frivolous — even if the court 
+
+ultimately dismisses the case on the merits. 118 S. Ct. at 
+
+1010; see also Bell v. Hood, 327 U.S. 678, 682-83 (1946); 
+
+
+Binderup v._Pathe Exchange, Inc., 263 U.S. 291, 305-06 
+(1923). 
+B Both An Injunction Against Future 
+Violati — - 
+Seen ek hen heen of Ont alties May Redress Injuries F 
+
+
+Both injunctions and civil penalties deter threatened 
+future violations by a defendant, and thereby redress injuries 
+from those threatened future violations. The Steel Company 
+Court recently reiterated that the deterrent effect of an order 
+regarding future compliance satisfies the Article III standing 
+requirement for redressability where the plaintiff alleges a 
+continuing violation or the imminence of a future violation. 
+Steel Co., 118 S. Ct. at 1019. Thus, if FOE has an injury 
+from the threat of Laidlaw’s future violations, that injury 
+would be redressed by an injunction against Laidlaw. 
+
+
+Civil penalties also would redress injuries from 
+threatened future violations, by deterring those future 
+violations. As the Supreme Court has noted, injunctions are 
+not the only means of obtaining compliance with the Clean 
+Water Act — penalties also can specifically deter future 
+violations by a defendant. Weinberger v. Romero-Barcelo, 
+456 U.S. 305, 314 (1982); see also Tull v. United States, 481 
+U.S. 412, 422-23 (1987) (citing 123 Cong. Rec. 39191 
+
+
+32a 
+
+
+(1977)) (“Congress wanted the district court to consider the 
+need for retribution and deterrence, in addition to restitution, 
+when it imposed civil penalties [under the Clean Water 
+Act].”). It was for this reasons that Congress empowered 
+district courts to “seek to deter future violations by basing the 
+penalty on its economic impact.” Tull, 481 U.S. at 423. 
+
+
+Relying on language in Steel Company, Laidlaw 
+argues that civil penalties cannot redress a citizen’s injuries 
+because penalties are paid to the Treasury and any deterrent 
+effect is not cognizable under Article III. See Laidlaw’s 2d 
+Supp. Br. 4. Laidlaw’s argument misreads Steel Company, 
+which stated that the plaintiff's prayer for penalties, in a 
+complaint that did not allege future violations, “seeks not 
+remediation of [plaintiff's] own injury *** but vindication of 
+the rule of law — the ‘undifferentiated public interest’ in 
+faithful execution of EPCRA.” 118 S. Ct. at 1018. 
+
+
+This does not suffice. Justice Stevens thinks it is 
+enough that respondents will be gratified by seeing 
+petitioner punished for its infractions and that the 
+punishment will deter the risk. of future harm. ees ° 
+[SJuch a principle would make the redressability 
+requirement vanish. By the mere bringing of the suit, 
+every plaintiff demonstrates his belief that a favorable 
+judgment will make him happier. But although a 
+suitor may derive great comfort and joy from the fact 
+that the United States Treasury is not cheated, that a 
+wrongdoer gets his just deserts, or that the nation’s 
+laws are faithfully enforced, that psychic satisfaction 
+is not an acceptable Article III remedy because it does 
+not redress a cognizable Article III injury. 
+
+
+118 S. Ct. at 1018-19. 
+
+
+33a 
+
+
+This language must be read in light of Steel 
+Company's facts and other aspects of the opinion. The 
+Supreme Court explicitly decided Steel Company on the basis 
+that the plaintiff had not alleged a threat of future violations. 
+Id. at 1019, 1020. It was obvious that penalties could not 
+deter continuing or future violations by the defendant: There 
+were no continuing or future violations by the defendant to 
+deter. On those facts, the only deterrent effect that penalties 
+could have had would have been to deter violations by the 
+population at large — speculative violations by unknown, 
+unrelated persons who might never cause the plaintiffs any 
+injury. Consistent with longstanding principles of standing, 
+the Steel Company Court rejected the notion that such an 
+indistinct possibility satisfies the standing doctrine’ s injury-in- 
+fact requirement, reasoning that the “great comfort” that a 
+plaintiff may receive from knowing “the nation’s laws are 
+faithfully enforced” simply “is not an acceptable Article III 
+injury.” Id. at 1019. 
+
+
+The fact that Article III is not satisfied by the chance 
+that penalties may generally deter speculative violations that 
+have not even been alleged cannot be read as a rejection of 
+the concept that specific deterrence provides cognizable 
+redress for a plaintiff's injury from continuing or future 
+violations by the defendant. Steel Company specifically 
+reaffirmed that, “[i]f respondent had alleged a continuing 
+violation or the imminence of a future violation,” then 
+judicial relief designed to deter a future violation “would 
+remedy that alleged harm.” 118 S. Ct. at 1019. While the 
+Court made this statement in discussing injunctive relief, the 
+Court has always recognized that penalties and the threat of 
+penalties, including Clean Water Act penalties, specifical!y 
+deter misconduct by persons who are, or may be, penalized. 
+See, e.g., Tull, 481 U.S. at 423; Romero-Barcelo, 456 U.S. 
+
+
+at 314 (“An injunction is not the only means of ensuring 
+
+
+34a 
+
+
+compliance. The [Clean Water Act] itself, for example, 
+provides for fines and criminal penalties.”); accord Texaco 
+Refining, 2 F.3d at 503 n. 9 (“Citizens file actions primarily 
+to deter future violations by the named defendant and by 
+other potential polluters, and the imposition of penalties 
+significantly enhances the deterrent effect of a citizen suit.”). 
+If violators “faced only the prospect of an injunctive order, 
+they would have little incentive to shun practices of dubious 
+
+
+legality.” Albemarle Paper Co. v. Moody, 422 U.S. 405, 417 
+(1975). That is because the deterrent effect of even 
+
+
+injunctions depends partly on the penalties that may give 
+those injunctions teeth.’ Penalties specifically deter future 
+illegal activity by a defendant, and under Steel Company's 
+reasoning, specific deterrence may redress injuries caused by 
+the threat of a defendant’s future violations.’ Steel 
+Company's holding — that some possible general deterrent 
+effect on the world at large does not cognizably redress 
+injuries from past violations — does not implicitly overrule 
+the established law that penalties do specifically deter, or 
+Steel Company’s clear statement that specific deterrence is 
+
+
+2 Similarly, declaratory relief would specifically deter 
+future violations. A declaration that Laidlaw had violated the 
+Clean Water Act could subject it to increased penalties if it 
+committed violations again. 33 U.S.C. § 1319(d). 
+
+
+3 Indeed, this case seems to illustrate that principle: 
+Laidlaw did not come into compliance until faced with the 
+concrete prospect of penalties from the state and citizen 
+enforcement actions. 
+
+
+35a 
+
+
+adequate Article III redress for continuing or threatened 
+future violations.‘ 
+
+
+CONCLUSION 
+
+
+a... defendant’s post-complaint compliance does not 
+deprive a citizen plaintiff of standing, because standing 
+depends upon the facts as they were when the complaint was 
+filed. Post-complaint voluntary cessation of illegal activity 
+moots a citizen plaintiff's claims for prospective relief only 
+where the defendant carries the heavy burden of proving that 
+the change makes absolutely clear that the wrongful behavior 
+could not reasonably be expected to recur. 
+
+
+4 Five courts of appeals have unanimously rejected the 
+argument that post-complaint compliance strips a federal 
+court of jurisdiction to hear a Clean Water Act plaintiff's 
+claims for civil penalties for violations that were continuing 
+at the time the plaintiff filed suit. 
+
+
+See Comfort Lake Assoc... 
+af gy yr 138 F.3d 351, 356 (8th 
+ir Auantic States Legal Found. v._Stroh Die 
+Casting Co., 116 F.3d 814, 820 (7th Cir. 1997); Natural 
+Resource Defense Council v. Texaco Ref. & Mktg., Inc., 2 
+F.3d 493, 503-04 (3rd Cir. 1993); Atlantic States Legal 
+Found. v. Tyson Foods, Inc., 897 F.2d 1128, 1135 (11th 
+
+
+Cir. 1990); Pawtuxet Cove Marina, Inc. v. Ciba-Geigy, 
+Corp., 807 F.2d 1089, 1091 (ist Cir. 1986); see also 
+
+
+Molokai Chamber of Commerce v. Kukui (Molokai), Inc., 
+891 F. Supp. 1389, 1406 (D. Hawaii 1995); Save Our Bays 
+& Beaches v. City and County of Honolulu, 904 F. Supp. 
+1098, 1119 (D. Haw. 1994). 
+
+
+90- 12-098 
+JUNE 1998 
+
+
+36a 
+
+
+Respectfully Submitted, 
+LOIS J. SCHIFFER 
+Assistant Attorney General 
+
+
+JAMES F. SIMON 
+Deputy Assistant Attorney General 
+
+
+GREER GOLDMAN 
+DAVID C. SHILTON 
+MICHAEL E. WALL 
+
+
+Attorneys, Department of Justice 
+
+
+’ Environment and Natural Resources 
+
+
+Division 
+P.O. Box 4390 
+Washington, D.C. 20044-4390 
+(202) 514-0424 
+
+
+* Counsel of Record 
+
+
+37a 
+
+
+No. 86-473 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1987 
+
+
+GWALTNEY OF SMITHFIELD, LTD., 
+
+
+Petitioner, 
+v. 
+
+
+CHESAPEAKE BAY FOUNDATION, INC., 
+and 
+NATURAL RESOURCES DEFENSE COUNCIL, 
+Respondents. 
+
+
+On Writ of Certiorari to the United States 
+Court of Appeals for the Fourth Circuit 
+
+
+REPLY BRIEF FOR PETITIONER 
+
+
+E. BARRETT PRETTYMAN, JR* 
+RICHARD J.M. POULSON 
+PATRICK M. RAHER 
+
+DAVID J. HAYES 
+CATHERINE JAMES LACROIX 
+
+
+Washington, D.C. 20004 
+(202) 637-5685 
+
+
+Counsel for Petitioner 
+
+
+—~ 38a 39a 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+TABLE OF AUTHORITIES ..........--++ee05: il 
+
+REIS cccccccccesnseneseesccesesoss l 
+Citizen Suits Are Limited to Ongoing 
+
+WHS ccc tccccccsverecesscocees l 
+
+
+Jurisdictional Allegations That Turn Out To Be 
+
+
+Untrue Cannot Sustain A Citizen Suit ....... 12 
+
+Permitting Citizen Suits For Purely Past Violations 
+
+Would Contravene The Constitution ........ 15 
+CS. Cc ccoocs cen bs ebeeneeen deen 19 
+
+
+Permitting Citizen Suits For Purely Past Violations 
+Would Contravene The Constitution 
+
+
+1. We agree with the Solicitor General that if the citizen 
+suit provision were interpreted to permit citizen penalty 
+actions for wholly past violations, it would violate the 
+constitutional standing requirements of Article III. Gov. Br. 
+21-22 n.34. To satisfy Article III, a plaintiff must show not 
+only an injury to himself but also that the injury "is likely to 
+be redressed by a favorable decision." Simon v. Eastern 
+Kentucky Welfare Rights Org., 426 U.S. 26, 38 (1976). Even 
+if a citizen plaintiff can show that he was injured by past 
+
+
+40a 
+
+
+violations, penalties payable only to the Treasury cannot 
+redress those injuries to that plaintiff. 
+
+
+"The necessity that the plaintiff who seeks to invoke 
+judicial power stand to profit in some personal interest 
+remains an Art. III requirement.’"*' Because respondents 
+sued on the basis of purely past violations, App. 7a, 17a, they 
+could not and did ont obtain the injunction they sought 
+barring future violations. App. 83a. Damages are never 
+recoverable under the Act. Middlesex County, 453 U.S. at 
+18,21. The redressability requirement of Article III cannot 
+be satisfied by any interest in general deterrence or law 
+enforcement, no matter how keenly held, Diamond v. 
+Charles, 106 S.Ct. 1697, 1706 (1986), nor by recovery of 
+attorney’s fees and costs.” While it would appear that 
+penalties payable to the Treasury can never redress injury to 
+citizen plaintiffs, it is certain that at least in the case of 
+"citizen suits like the one at bar, seeking civil penalties for 
+permit violations committed entirely in the past," App. 17a, 
+the plaintiff does not and cannot "stand to profit in some 
+
+
+personal interest" sufficient to satisfy Article III. Allen v. 
+
+
+Wright, 468 U.S. at 766. 
+
+
+We also agree with the Solicitor General that permitting 
+citizens to seek penalties for purely past violations would 
+intrude upon the Executive’s responsibility to "take Care that 
+the Laws be faithfully executed," U.S. Const. Art. II § 3. 
+
+
+21Allenv. Wright, 468 U.S. 737, 766 (1984) (quoting Simon v. Eastern Kentucky 
+Welfare Rights Org., 426 U.S. at 39). 
+
+
+22id. at 1708; White v. New Hampshire Dept. of Employment Security, 455 U.S. 
+455, 452 (1982). 
+
+
+4la 
+
+
+Gov. Br. 21-22 n. 34” Such an interpretation would allow 
+any unaccountable citizen to engage in the essentially 
+prosecutorial function of punishing permit holders for past 
+— See Tull v. United States, 107 S.Ct. 1831, 1838 
+
+
+2. Respondents do not even address these concerns, 
+arguing that the constitutional issues are not before the 
+Court.“ Interpreting the statute as urged by Gwaltney 
+would indeed avoid the necessity of reaching the 
+constitutional issues in this case. The Court would simply 
+hold that Gwaltney’s motion to dismiss should have been 
+granted, because the citizen plaintiffs sought penalties that the 
+statute did not authorize. If the Court accepts respondents’ 
+view of the statute, however, it must address and resolve the 
+constitutional arguments. Questions of Article III standing 
+can never be waived, and this Court has an obligation to 
+satisfy itself that the requirements of Article II] have been 
+met in every case before it.” 
+
+
+23See Brief of Amici Curiae Bethlehem Steel Corporation, et al.; Brief of Amicus 
+Curiae Rollins Environmental Services (NJ) Inc. 
+
+
+24Resp. Br. 9 n.4. Respondents do include a cursory citation to United States ex 
+rel. Marcus v. Hess, 317 U.S. 537 (1943), as the "full answer" to the 
+constitutional concerns. That case is wholly beside the point, since the statute at 
+issue there granted the citizen plaintiff half of any damages recovered. See id. at 
+540. Damages are not recoverable in citizen suits under the Clean Water Act, and 
+all penalties go to the Treasury. 
+
+
+25"*This question the court is bound to ask and answer for itself, even when not 
+otherwise suggested, and without respect to the relation of the parties to it.’" 
+Bender v. WilliamsportArea School Dist., 106 S. Ct. 1326, 1334 (1986) (quoting 
+MansfieldC. & L.M.R. Co. v. Swan, 111 U.S. 379, 382 (1884)). 
+
+
+i 
+
+
+42a 
+
+
+3. The Government recognizes that an ongoing violation is 
+an Article III predicate to a constitutional citizen suit, but 
+then suggests that Article III redressability concerns are 
+satisfied when the citizen plaintiff alleges that he is adversely 
+affected by an ongoing violation--even if the allegation turns 
+out to be untrue. Gov. Br. 21 n.34. This Court, however, 
+has repeatedly stressed that mere allegations are insufficient 
+to meet the requirements of Article III. The facts 
+establishing an Article II] case or controversy "must 
+affirmatively appear in the record,” and "it is not “sufficient 
+that jurisdiction may be inferred argumentatively from 
+averments in the pleadings.’"”’Here it is "undisputed" that 
+Gwaltney’s violations ceased before suit. App. 7a. Any 
+allegations to the contrary cannot be relied upon to satisfy the 
+redressability requirement of Article III. 
+
+
+Over the long run, even the Government finds its theory 
+untenable. As the Government puts it, jurisdiction acquired 
+on the basis of allegations may "abate," and the cessation of 
+violations may render a case "nonjusticiable." Gov. Br. 27- 
+28. These principles, the Government notes, "embrace core 
+Article III concerns." Jd. at 28. If the absence of an ongoing 
+violation has constitutional significance at a /ater point in the 
+litigation, however, it must have the same significance at the 
+
+
+26See, e.g.. Warthy. Seldin, 422 U.S. 490, 502 (1975) (plaintiffs "must allege and 
+show that they personally have been injured” (emphasis supplied); United States 
+v. Students Challenging Regulatory Agency Procedures,412 U.S. 669, 689 (1973) 
+(standing allegations “must be true and capable of proof at trial"); Los Angeles v. 
+Lyons, 461 U.S. 95, 107 n.8 (1983) ("It is the reality of the threat of repeated 
+injury that is relevant to the standing inquiry, not the plaintiff's subjective 
+apprehensions”) (emphasis in original). 
+
+
+27Bender v. Williamsport Area School Dist., 106 S.Ct. at 1334 (quoting Grace v. 
+American Central Ins. Co., 109 U.S. 278, 284 (1983)). 
+
+
+43a 
+
+
+outset of the litigation. The Government simp! attem 
+
+transform the plaintiff's burden of naidie on ies 
+violation, and thereby jurisdiction, into a burden on the 
+defendant to prove the absence of an ongoing violation and 
+the lack of jurisdiction. If one thing is clear, however, it is 
+that since it is the plaintiff who "is seeking relief subject to 
+[the court’s] supervision, it follows that he must carry 
+throughout the litigation the burden of showing that he is 
+properly in court.". McNutt v. General Motors Acceptance 
+
+
+Corp., 298 U.S. at 189. Respondents failed to meet that 
+burden. 
+
+

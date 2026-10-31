@@ -1,0 +1,550 @@
+Supreme Court, U.S, 
+; FILED 
+1D 
+JUN TS 1999 
+No. 98-822 
+K 
+
+
+IN THE 
+Supreme Court of Che United States 
+
+
+FRIENDS OF THE EARTH, et al., 
+Petitioners, 
+V. 
+
+
+LAIDLAW ENVIRONMENTAL SERVICES (TOC), INC., 
+
+
+Respondent. 
+On Writ of Certiorari 
+to the United States Court of Appeals 
+for the Fourth Circuit 
+PETITIONERS’ RESPONSE TO 
+SUGGESTION OF MOOTNESS 
+Bruce J. Terris* James S. Chandler, Jr. 
+Carolyn Smith Pravlik SOUTH CAROLINA 
+Monica Wagner ENVIRONMENTAL LAW 
+TERRIS, PRAVLIK & PROJECT 
+MILLIAN, LLP P.O. Box 279 
+1121 12th Street, N.W. Pawleys Island, S.C. 29585 
+
+
+Washington, D.C. 20005 (843) 527-0078 
+(202) 682-2100 
+
+
+*Counsel of Record Counsel for Petitioners 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES 
+INTRODUCTION 
+ARGUMENT 
+
+
+I. 
+
+
+IV. 
+
+
+THE CLOSURE OF THE FACILITY WAS 
+BRIEFED BY THE PARTIES BEFORE THE 
+PETITION WAS GRANTED 
+
+
+A SUGGESTION OF MOOTNESS IN A 
+CASE ALREADY ADJUDGED TO BE 
+MOOT IS UNWARRANTED 
+
+
+. IN SPITE OF THE CLOSURE, LAIDLAW 
+ITSELF, AS WELL AS ANY SUCCESSOR 
+
+
+TO ITS PERMIT, WILL BE DETERRED 
+FROM VIOLATING THE CLEAN WATER 
+
+
+TABLE OF AUTHORITIES 
+Cases: Page 
+American Frozen Food Institute v. Train, 
+
+§39 F.2d 107 (D.C. Cir. 1976) ......... cece cece 10 
+American Iron and Steel Institute v. EPA, 
+
+§26 F.2d 1027 (3d Cir. 1975) ....... cece eee ecees 10 
+Calderon v. Moore, 116 S. Ct. 2066 (1996) ............ 8 
+Church of Scientology of California v. United States, 
+
+$06 U.S. 9 (1992) .. nce cccccccnccvcccensecvens 8 
+Friends of the Earth v. Laidlaw Envtl. Services 
+(TOC), Inc., 956 F. Supp. 610 (D.S.C. 1997) .....---. l 
+Friends of the Earth v. Laidlaw Envil. Services 
+(TOC), Inc., 149 F.3d 303 (4th Cir. 1998) ........ 1.4.9 
+Gwaltney of Smithfield, Ltd. v. Chesapeake 
+Bay Found., 484 U.S. 49 (1987) «0.6.66 eee ee eens 4 
+Government of the Virgin Islands v. Virgin 
+Islands Paving, Inc., 714 F.2d 283 (3d Cir. 1983) ..... 7 
+Honig v. Doe, 484 U.S. 305 (1988) «0.6... eee eee eee 3 
+Steel Co. v. Citizens for Better Env t, 
+y)} See Tl. | eee 1,2, 5,6 
+United States v. Concentrated Phosphate 
+
+Export Ass'n, 393 U.S. 199 (1968) ....------ 5-065 5,7 
+United States v. W.T. Grant Co., 
+
+BOS UD. GRO CIGSS) 2. occ cece ccccscccccvevccvees 5 
+Federal Statutes and Regulations: 
+DE UIBE. UZGL, GOGO, occ ccccescccccsccececccrscions l 
+State Statutes and Regulations: 
+S.C. Reg. 61-9.122.61-122.62 (1996) .....---- see eee: 7 
+Legislative History: 
+
+
+A Legislative History of the Water Pollution 
+Control Act Amendments of 1972, 
+93d Cong., Ist Sess., vol. 1 (1973) ....------- 0-005 10 
+
+
+INTRODUCTION 
+
+
+Plaintiffs brought this action under the Clean Water Act, 33 
+U.S.C. 1251, et seqg.. to enforce the National Pollutant 
+Discharge Elimination System (NPDES) permit issued to 
+respondent Laidlaw Environmental Services (TOC), Inc. 
+("Laidlaw"). The district court found that Laidlaw had violated 
+the mercury limitation in its permit 489 times. Friends of the 
+Earth v. Laidlaw Envtl. Services (TOC), Inc., 956 F. Supp. 610, 
+613-621 (D.S.C. 1997)(J.A.158, 185-196). The district court 
+denied plaintiffs’ request for injunctive relief due to the fact 
+that Laidlaw had achieved substantial compliance with the 
+permit, but imposed a civil penalty to deter Laidlaw from future 
+violations. /d. at 610-611 (J.A. 181-183). 
+
+Because injunctive relief was denied and the denial was not 
+appealed by plaintiffs, the Court of Appeals for the Fourth 
+Circuit vacated and remanded with instructions to dismiss on 
+the ground that the case was moot based on this Court's 
+decision in Steel Co. v. Citizens for Better Env't, 118 S. Ct. 
+1003 (1998). The court of appeals reasoned that "[b]ecause 
+Plaintiffs have not appealed the denial of declaratory and 
+injunctive relief, the only potential relief that may be available 
+to redress their claimed injuries is the civil penalty imposed 
+upon Laidlaw" and "[s)uch penalties * * * cannot redress any 
+injury suffered by a citizen plaintiff." Friends of the Earth v. 
+Laidlaw Envil. Services (TOC), Inc., 149 F.3d 303, 306 (Pet. 
+App. 7a). 
+
+On March |, 1999, this Court granted certiorari on the 
+foiiowing questions (Br. for Pet., p. i): 
+
+
+1. Whether a citizen suit seeking civil penalties under 
+Section 505 of the Clean Water Act is constitutionally 
+moot under Stee! Co. v. Citizens for Better Environment, 
+118 S. Ct. 1003 (1998), due to lack of redressability, 
+where plaintiffs had standing at the time of the complaint 
+and have shown continuing injury-in-fact but have not 
+obtained injunctive relief. 
+
+
+2 
+
+
+2. Whether a citizen suit seeking civil penalties under 
+Section 505 of the Clean Water Act is constitutionally 
+moot under Stee/ Co., due to lack of redressability, when 
+the district court has rendered a declaratory judgment as 
+to liability and the issue of liability was contested. 
+
+
+3. Whether plaintiffs -ould not be awarded attorneys’ 
+fees or litigation costs because the case was dismissed for 
+mootness, even if the litigation was responsible for 
+bringing the defendant into compliance with the Clean 
+Water Act. 
+
+
+Pursuant to Rule 21 of the Rules of this Court, Laidlaw now 
+files a suggestion of mootness based on its claim that it has 
+closed its facility. Suggestion of Mootness, p. 1. Laidlaw 
+claims that closure of the facility raises an issue of mootness in 
+addition to the issue of mootness already before the Court. 
+Ibid Laidlaw also claims that plaintiffs raised this new issue 
+of mootness in the Brief for Petitioners. /bid 
+
+In Part I below, we show that these are not new facts. They 
+were argued by the parties and amici in the briefing on the 
+Petition for a Writ of Certiorari. In Part Il, we show that a 
+Suggestion of Mootness in a case already held to be moot, 
+albeit on alternative grounds, is unwarranted. In Part III, we 
+show that the closure of the facility does not moot the case 
+because the civil penalty continues to deter future violation of 
+the Act by Laidlaw, as well as any successor to the permit. In 
+Part IV, we show that even if the merits of the case are 
+determined to be moot, the attorneys’ fees issue is indisputably 
+not moot. 
+
+
+3 
+
+
+ARGUMENT 
+
+
+I. THE CLOSURE OF THE FACILITY WAS BRIEFED 
+BY THE PARTIES BEFORE THE PETITION WAS 
+GRANTED 
+
+
+The purpose of a suggestion of mootness is to raise for the 
+first time an issue of mootness. It is not an opportunity to raise 
+an issue of mootness previously presented to the Court. In its 
+Suggestion of Mootness, Laidlaw suggests that the case is moot 
+because it closed or shut down its incinerator. Yet, both it and 
+the amici curiae supporting it raised exactly this point in 
+Opposition to the Petition for a Writ of Certiorari. See Resp. 
+Br. in Opp., p. 1, n.1 and p. 10; Br. of Amici Curiae South 
+Carolina Chamber of Commerce, et al. in Support of Resp., p. 
+7. Plaintiffs responded at length in their Reply Brief (pp. 4-7) 
+showing how the closure of the facility did not moot the case. 
+
+Thus, the issue that Laidlaw now presents in its Suggestion 
+of Mootness was previously presented to this Court and this 
+Court decided to issue a writ of certiorari. Since this Court has 
+already determined that the closure of the facility was not a bar 
+to the granting of certiorari, there is no basis for revisiting this 
+issue.+ 
+
+
+1 In his concurring opinion in Honig v. Doe, 484 U.S. 305, 331-332 (1988), 
+Chief Justice Rehnquist urged adoption of an exception to the mootness 
+doctrine for cases “where the events which render the case moot have 
+supervened since our grant of certiorari or noting of probable jurisdiction 
+in the case.” Here, the events which Laidlaw argues render the case moot 
+did not supervene the grant of certiorari. Instead, the events occurred 
+before the petition was filed and were addressed by the parties during the 
+briefing on the petition. The circumstances here present an even stronger 
+argument for this Court preceding to the merits than the exception urged by 
+Chief Justice Rehnquist. 
+
+
+4 
+
+
+Il. A SUGGESTION OF MOOTNESS IN A CASE 
+ALREADY ADJUDGED TO BE MOOT IS 
+UNWARRANTED 
+
+
+The court of appeals determined that this case was moot. 
+149 F.3d at 306-307 (Pet. App. 8a). Two of the three questions 
+upon which this Court granted certiorari involve mootness. See 
+Br. for Pet., p. i. Since the case has already been adjudged to 
+be moot and since this Court will be addressing mootness 
+pursuant to its grant of certiorari, there is no basis for a 
+suggestion of mootness. A suggestion of mootness is for cases 
+not previously adjudged to be moot where the circumstances 
+have changed so as to create an issue of mootness during the 
+pendency of the case before this Court. 
+
+That is not the situation here. Not only was the case 
+previously adjudged to be moot, but the circumstances have not 
+changed. As discussed above (p. 3), Laidlaw and its supporting 
+amici raised this issue at the petition stage. Indeed, if 
+Laidlaw’s argument had merit, it could have raised the closure 
+of the facility before the court of appeals since it claims that its 
+decision to close the facility was made by June 2, 1997 
+(Suggestion of Mootness, p. 7), over a year before the court of 
+appeals issued its decision on July 16, 1998. 
+
+Since the case has already been adjudged to be moot, the 
+Suggestion of Mootness merely raises an alternative ground for 
+the court of appeals’ finding of mootness. It is not a basis upon 
+which this Court must decline to reach the mootness issues 
+already presented by the Petition. 
+
+Moreover, the basis for mootness presented in the 
+Suggestion of Mootness is closely related to the mootness 
+issues presented by the Petition. Laidlaw’s Suggestion of 
+Mootness is premised on the fact that civil penalty relief is 
+moot when "‘there is no reasonable expectation that the wrong 
+will be repeated." Suggestion of Mootness, p. 3 (quoting 
+
+Gwaltney of Smithfield, Ltd. v. Chesapeake Bay Found., 484 
+
+
+5 
+
+
+U.S. 49, 66 (1987), which in turn was quoting United States v. 
+W.T. Grant Co., 345 U.S. 629, 633 (1953)). This is the test for 
+when injunctive relief is moot. See, e.g. United States v. 
+Concentrated Phosphate Export Ass'n, 393 U.S. 199, 203 
+(1968); W.T. Grant, 345 U.S. at 633. However, this Court has 
+not determined when civil penalty relief becomes moot. That 
+is precisely the issue presented by this case. 
+
+In order to resolve both the merits of the mootness issues 
+presented by the Petition and that presented in the Suggestion 
+of Mootness, this Court must determine when civil penalty 
+relief becomes moot in a citizen suit. More specifically, as 
+discussed more fully below, this Court must determine the legal 
+standard to be applied in ascertaining when a civil penalty 
+payable to the United States Treasury provides a deterrent 
+against future violations so as to satisfy the requirement of 
+redressability for purposes of mootness. Thus, this Court’s 
+decision as to the issues on which the writ of certiorari was 
+granted will significantly affect the resolution of the issue 
+Laidlaw raises in its Suggestion of Mootness. 
+
+
+Ill. IN SPITE OF THE CLOSURE, LAIDLAW ITSELF, 
+AS WELL AS ANY SUCCESSOR TO ITS PERMIT, 
+WILL BE DETERRED FROM VIOLATING THE 
+CLEAN WATER ACT 
+
+
+In Steel Co., this Court held that civil penalties did not 
+satisfy redressability in a case where the defendant was not 
+violating the statute at the time of the complaint and there was 
+no allegation in the complaint of continuing violation. 118 
+S.Ct. at 1017-1018. In analyzing the redressability issue 
+relating to civil penalties, the Court emphasized that the 
+penalties were paid to the United States Treasury rather than 
+the plaintiff. /d at 1018. This analysis suggests that general 
+deterrence, the effect of the imposition of a civil penalty on 
+other dischargers, does not support redressability. See also id 
+at 1019. However, in view of this Court's emphasis on the fact 
+
+
+6 
+
+
+that Steel Co. involved only initial standing and not mootness 
+after initial standing had been shown (id. at 1019-1020), it is 
+not clear whether this determination affects the present case. 
+Assuming arguendo that Steel Co. establishes that general 
+deterrence does not satisfy the requirement of redressability for 
+purposes of mootness, the imposition of a civil penalty in this 
+case provides specific deterrence. 
+
+In determining whether the penalty will deter future 
+violations, the focus must be on Laidlaw itself, not its facility. 
+Analysis of the specific deterrent value of a speeding ticket 
+focuses on the driver, not on his vehicle. A speeder who has 
+suffered the consequences of a speeding ticket is deterred from 
+speeding regardless whether he sells or no longer drives the 
+vehicle in which he was speeding. He is deterred when he 
+drives another of his vehicles or when he buys and drives anew 
+vehicle. Thus, the issue here is whether the civil penalty will 
+serve to deter Laidlaw from violating the Clean Water Act in 
+the future. 
+
+Even though Laidlaw has closed its facility, it continues to 
+be deterred by the penalty imposed by the district court in 
+several ways. 
+
+First, although Laidlaw has closed the facility and 
+dismantled the incinerator, Laidlaw continues to hold its 
+NPDES permit. It has not taken any action to terminate the 
+NPDES permit. Indeed, Laidlaw admits that the permit is still 
+active. Suggestion of Mootness, pp. 4-5 and App. B, p. 6a. 
+Since its permit is still in effect, it has the right to discharge in 
+the future whenever it cares to do so. 
+
+Laidlaw argues that this is not the case because it has sold or 
+discarded its equipment. Suggestion of Mootness, p. 4. The 
+sale or disposal of its equipment does not eliminate the 
+possibility that Laidlaw could discharge in the future. By 
+keeping its NPDES permit active, Laidlaw is keeping its 
+
+
+7 
+
+
+options open.* Laidlaw could assemble other equipment and 
+reconstitute its operation. See Government of the Virgin 
+Islands v. Virgin Islands Paving, Inc., 714 F.2d 283, 284-285 
+(3d Cir. 1983)(no mootness where defendants had moved the 
+equipment out of the Virgin Islands and had ceased the 
+offending operation because the defendants had not surrendered 
+the lease to the property and could resume the challenged 
+operations). The fact that Laidlaw may have to obtain permits 
+and other government approvals before resuming operations on 
+the site does not mean that it would not be "free to return to 
+[its] old ways."* Concentrated Phosphate, 393 U.S. at 203. It 
+just may take a few more steps to get there. 
+
+Second, even if the permit is transferred to a purchaser, 
+Laidlaw’s payment of a civil penalty would serve to deter 
+violations by the purchaser. Unlike a general deterrent as to 
+dischargers not connected to this permit, a purchaser would be 
+discharging under the permit which Laidlaw was penalized for 
+violating. Laidlaw’s successor, knowing that Laidlaw had been 
+penalized for violating the permit it now holds, would be 
+specifically deterred from repeating the same kinds of 
+violations that caused Laidlaw to be penalized. 
+
+
+’ Laidlaw claims that it has kept its NPDES permit alive, not because it 
+intends to discharge in the future, but "because to do so might make the site 
+more attractive to a prospective purchaser." Suggestion of Mootness, App. 
+B, p. 6a. It is extremely unlikely that the NPDES permit could be 
+transferred to a prospective purchaser of the site, since the purchaser would 
+not be purchasing an ongoing operation using the same equipment. See S.C. 
+Reg. 61-9.122.61-122.62 (1996). In any event, Laidlaw’s statement of its 
+
+
+present intent cannot be controlling when it is free to change its position at 
+any time. 
+
+
+7 In the injunction context, the test for mootness is a stringent one-- 
+injunctive relief is not moot as long as the defendant is free to return to his 
+old ways. Concentrated Phosphate, 393 U.S. at 203. The remoteness of 
+that possibility is relevant to the issue of whether injunctive relief should be 
+granted, not whether it is moot. /bid 
+
+
+8 
+
+
+Third, even if Laidlaw never revived its operation at this 
+location, it has at least has at least 16 other NPDES permitted 
+facilities. Friends of the Earth and Sierra Club have members 
+who use the waters affected by Laidlaw/Safety-Kleen’s* 
+discharges from some of these facilities and their use and 
+enjoyment of these waters is adversely affected by illegal 
+discharges from these facilities. See Reply Br. in Support of 
+Pet. for Writ of Cert., App. 33a. The issuance of civil penalties 
+in this case would deter Laidlaw from violating the statute at 
+these other facilities. 
+
+Laidlaw claims in its Suggestion of Mootness that it has no 
+other facilities and that plaintiffs have not cited any authority 
+for claiming that civil penalties imposed on one company 
+might have a deterrent effect on another company. Suggestion 
+of Mootness, p. 5. Laidlaw’s argument is disingenuous. While 
+the particular Laidlaw subsidiary that owns the South Carolina 
+facility may not presently own any other facility, its parent 
+corporation and sibling subsidiary corporations, all of which 
+are wholly owned by the parent corporation (Resp. Br. in Opp.. 
+p. ii), own the other facilities. Since a civil penalty paid by a 
+wholly-owned subsidiary reduces the profits of the parent 
+company, a civil penalty paid by a wholly-owned subsidiary 
+constitutes a specific deterrent for the parent and all sibling 
+subsidiary corporations. 
+
+An appeal must be dismissed as moot when an intervening 
+event makes it impossible for the court to grant "‘any effectual 
+relief whatever’ in favor of the appellant." Calderon v. Moore, 
+116S. Ct. 2066, 2067 (1996)(quoting Church of Scientology of 
+California v. United States, 506 U.S. 9, 13 (1992)). The 
+remedy does not need to be "‘fully satisfactory’" to avoid 
+mootness. /bid. The relief still at stake here, a substantial civil 
+penalty, is certainly effectual relief. Since the relief here 
+provides specific deterrence against the possibility of future 
+
+
++ Laidlaw is now doing business as Safety-Kleen. Resp. Br. in Opp., p. ii. 
+
+
+9 
+
+
+violations, this case is not moot. 
+IV. THE ATTORNEYS’ FEES ISSUE IS NOT MOOT 
+
+
+In its Suggestion of Mootness, Laidlaw fa!s even to mention 
+the attorneys’ fees issue upon which this Court also granted 
+certiorari. That issue is not affected in any way by closure of 
+the facility. 
+
+When it vacated the district court’s order and remanded with 
+instructions to dismiss, the court of appeals decided that 
+"[pJlaintiffs’ failure to obtain relief on the merits of their claims 
+precludes any recovery of attorneys’ fees or other litigation 
+costs because such an award is available only to a ‘prevailing 
+or substantially prevailing party.’" 149 F.3d at 307, n. 5 (Pet. 
+App. 9a, n. 5). This Court granted certiorari on the issue of 
+"(whether plaintiffs could not be awarded attorneys’ fees or 
+litigation costs because the case was dismissed for mootness, 
+even if the litigation was responsible for bringing the defendant 
+into compliance with the Clean Water Act." Br. for Pet., p. i. 
+
+If this Court holds that the case is moot, either for the reason 
+decided by the court of appeals or the reason set forth in 
+Laidlaw’s Suggestion of Mootness, the attorneys’ fees issue is 
+squarely presented.* Laidlaw does not, and could not, argue 
+
+
+> Plaintiffs have argued that the attorneys’ fees issue should be resolved 
+even if this Court reverses the court of appeals’ ruling on mootness and 
+holds the case not moot. Br. for Pet. 50, n. 28. 
+
+An order vacating the court of appeals’ mootness decision will not 
+eliminate the precedential value of the fees ruling since it is based on an 
+earlier similar ruling by the court of appeals. See Br. for Pet., p. 43. 
+Leaving this ruling in place when all other circuits have upheld the catalyst 
+theory -- except the Eleventh and Federal Circuits which have not addressed 
+the issue -- creates a situation where the Clean Water Act will not be 
+uniformly enforced nationwide. Asa result, enforcement of the Act, which 
+heavily depends on citizen enforcement (see id, pp. 35-38), would be 
+substantially reduced in the Fourth Circuit. This, in turn, undermines 
+Congress’ intent that the Act be uniformly enforced to prevent forum 
+shopping by dischargers seeking to avoid the requirements of the Act. See 
+
+
+10 
+
+
+the contrary. For the reasons set forth in the Brief for 
+Petitioners (pp. 42-50), the court of appeals’ ruling on the fees 
+issue must be reversed. 
+
+CONCLUSION 
+
+
+For the foregoing reasons, the Suggestion of Mootness 
+should be denied and briefing on the merits should proceed as 
+scheduled.® 
+
+
+Respectfully submitted, 
+
+
+Bruce J. Terris 
+Carolyn Smith Pravlik 
+Monica Wagner 
+
+
+James S. Chandler, Jr. 
+Counsel for Petitioners 
+June 15, 1999 
+
+
+A Legislative History of the Water Pollution Control Act Amendments of 
+1972, 93d Cong., Ist Sess., vol. 1, pp. 355-356, 433, 452-453 (1973). See 
+also American Frozen F ood Institute v. Train, 539 F.2d 107, 129 (D.C. Cir. 
+1976); American Iron and Steel Institute v. EPA, 526 F.2d 1027, 1044 (3d 
+Cir. 1975). 
+
+
+°'In its Suggestion of Mootness (p. 1), Laidlaw requests that the Court 
+suspend the remainder of the briefing schedule pending disposition of the 
+Suggestion. There is no basis for suspending briefing when the facts giving 
+rise to the Suggestion of Mootness were previously considered during the 
+petition stage, the mootness issue presented by the Suggestion is closely 
+related to the mootness issue upon which certiorari was granted and the fees 
+issue would remain. 
+
+

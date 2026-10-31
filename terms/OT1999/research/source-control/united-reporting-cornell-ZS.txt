@@ -1,0 +1,46 @@
+
+
+LOS ANGELES POLICE DEPT. V. UNITED REPORTINGPUBLISHING CORP.
+
+LII
+
+Supreme Court
+
+LOS ANGELES POLICE DEPT. V. UNITED REPORTINGPUBLISHING CORP. (98-678) 
+146 F.3d 1133, reversed.
+Syllabus
+ Opinion
+ [ Rehnquist ]Concurrence
+ [ Scalia ]Concurrence
+ [ Ginsburg ]Dissent
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+LOS ANGELES POLICE DEPARTMENT v. UNITED REPORTING PUBLISHING CORP.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 98—678. Argued October 13, 1999–Decided December 7, 1999
+
+Respondent publishing company provides the names and addresses of recently arrested individuals to its customers, who include attorneys, insurance companies, drug and alcohol counselors, and driving schools. It received this information from petitioner and other California state and local law enforcement agencies until the State amended Cal. Govt. Code §6254(f)(3) to require that a person requesting an arrestee’s address declare that the request is being made for one of five prescribed purposes and that the address will not be used directly or indirectly to sell a product or service. Respondent sought declaratory and injunctive relief to hold the amendment unconstitutional under the First and Fourteenth Amendments. The Federal District Court ultimately granted respondent summary judgment, having construed respondent’s claim as presenting a facial challenge to amended §6254(f). In affirming, the Ninth Circuit concluded that the statute unconstitutionally restricts commercial speech.
+
+Held: Respondent was not, under this Court’s cases, entitled to prevail on a “facial attack” on §6254(f)(3). The allowance of a First Amendment overbreadth challenge to a statute is an exception to the traditional rule that “a person to whom a statute may constitutionally be applied may not challenge that statute on the ground that it may conceivably be applied unconstitutionally to others in situations not before the Court.” New York v. Ferber, 458 U.S. 747, 767. The overbreadth doctrine is strong medicine that should be employed only as a last resort. At least for the purposes of facial invalidation, petitioner is correct that §6254(f)(3) is not an abridgment of anyone’s right to engage in speech, but simply a law regulating access to information in the government’s hands. This is not a case in which the government is prohibiting a speaker from conveying information that the speaker already possesses. California law merely requires respondent to qualify under the statute if it wishes to obtain arrestees’ addresses. California could decide not to give out arrestee information at all without violating the First Amendment. Cf. Houchins v. KQED, Inc., 438 U.S. 1, 14. To the extent that respondent’s “facial challenge” seeks to rely on the statute’s effect on parties not before the court–respondent’s potential customers, for example–its claim does not fall within the case law allowing courts to entertain facial challenges. No threat of prosecution, see Gooding v. Wilson, 405 U.S. 518, 520—521, or cut off of funds, see National Endowment for Arts v. Finley, 524 U.S. 569, hangs over their heads. The alternative bases for affirmance urged by respondent will remain open on remand if properly presented and preserved in the Ninth Circuit. Pp. 5—8.
+
+146 F.3d 1133, reversed.
+
+ Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Souter, Thomas, Ginsburg, and Breyer, JJ., joined. Scalia, J., filed a concurring opinion, in which Thomas, J., joined. Ginsburg, J., filed a concurring opinion, in which O’Connor, Souter, and Breyer, JJ., joined. Stevens, J., filed a dissenting opinion, in which Kennedy, J., joined.
+

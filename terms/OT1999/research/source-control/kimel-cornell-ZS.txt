@@ -1,0 +1,64 @@
+
+
+KIMEL v. FLORIDA BD. OF REGENTS
+
+1">
+
+LII
+
+Supreme Court
+
+KIMEL v. FLORIDA BD. OF REGENTS (98-791)
+139 F.3d 1426, affirmed. 
+SyllabusOpinion
+[ O’Connor ]Other
+[ Stevens ]Other
+[ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+KIMEL et al. v. FLORIDA BOARD OF REGENTS et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+No. 98—791. Argued October 13, 1999–Decided January 11, 20001
+
+The Age Discrimination in Employment Act of 1967 (ADEA or Act), as amended, makes it unlawful for an employer, including a State, “to fail or refuse to hire or to discharge any individual or otherwise discriminate against any individual … because of such individual’s age.” 29 U.S.C. § 623(a)(1). Petitioners, three sets of plaintiffs, filed suit under the ADEA against respondents, their state employers. Petitioners’ suits sought money damages for respondents’ alleged discrimination on the basis of age. Respondents in all three cases moved to dismiss the suits on the basis of the Eleventh Amendment. The District Court in one case granted the motion to dismiss, while in each of the remaining cases the District Court denied the motion. All three decisions were appealed and consolidated before the Eleventh Circuit. Petitioner United States intervened on appeal to defend the constitutionality of the ADEA’s abrogation of the States’ Eleventh Amendment immunity. In a divided panel opinion, the Eleventh Circuit held that the ADEA does not abrogate the States’ Eleventh Amendment immunity.
+
+Held: Although the ADEA does contain a clear statement of Congress’ intent to abrogate the States’ immunity, that abrogation exceeded Congress’ authority under §5 of the Fourteenth Amendment. Pp. 
+7—28.
+
+ (a) The ADEA satisfies the simple but stringent test this Court uses to determine whether a federal statute properly subjects States to suits by individuals: Congress made its intention to abrogate the States’ immunity unmistakably clear in the language of the statute. Dellmuth v. Muth, 491 U.S. 223, 228. The ADEA states that its provisions “shall be enforced in accordance with the powers, remedies, and procedures provided in sections 211(b), 216 (except for subsection (a) thereof), and 217 of this title, and subsection (c) of this section.” 29 U.S.C. § 626(b). Section 216(b), in turn, authorizes employees to maintain actions for backpay “against any employer (including a public agency) in any Federal or State court of competent jurisdiction … .” Section 203(x) defines “public agency” to include “the government of a State or political subdivision thereof,” and “any agency of … a State, or a political subdivision of a State.” The text of §626(b) forecloses respondents’ claim that the existence of an enforcement provision in the ADEA itself renders Congress’ intent to incorporate §216(b)’s clear statement of abrogation ambiguous. Congress’ use of the phrase “court of competent jurisdiction” in §216(b) also does not render its intent to abrogate less than clear. Finally, because the clear statement inquiry focuses on what Congress did enact, not when it did so, the Court will not infer ambiguity from the sequence in which a clear textual statement is added to a statute. Pp. 8—13.
+
+ (b) This Court held in EEOC v. Wyoming, 460 U.S. 226, 243, that the ADEA constitutes a valid exercise of Congress’ Article I Commerce Clause power. Congress’ powers under Article I, however, do not include the power to subject States to suit at the hands of private individuals. Seminole Tribe of Fla. v. Florida, 517 U.S. 44, 72—73. Section 5 of the Fourteenth Amendment does grant Congress the authority to abrogate the States’ sovereign immunity. Fitzpatrick v. Bitzer, 427 U.S. 445, 456. Pp. 13—16.
+
+ (c) Section 5 of the Fourteenth Amendment is an affirmative grant of power to Congress. City of Boerne v. Flores, 521 U.S. 507, 517. That power includes the authority both to remedy and to deter the violation of rights guaranteed thereunder by prohibiting a somewhat broader swath of conduct, including that which is not itself forbidden by the Amendment’s text. Congress cannot, however, decree the substance of the Fourteenth Amendment’s restrictions on the States. Id., at 519. The ultimate interpretation and determination of the Amendment’s substantive meaning remains the province of the Judicial Branch. This Court has held that for remedial legislation to be appropriate under §5, “[t]here must be a congruence and proportionality between the injury to be prevented or remedied and the means adopted to that end.” Id., at 520. Pp. 16—18.
+
+ (d) The ADEA is not “appropriate legislation” under §5 of the Fourteenth Amendment. The ADEA’s purported abrogation of the States’ sovereign immunity is accordingly invalid. Pp. 18—27.
+
+ (1) The substantive requirements the ADEA imposes on state and local governments are disproportionate to any unconstitutional conduct that conceivably could be targeted by the Act. Age is not a suspect classification under the Equal Protection Clause. See, e.g., Gregory v. Ashcroft, 501 U.S. 452, 470. States therefore may discriminate on the basis of age without offending the Fourteenth Amendment if the age classification in question is rationally related to a legitimate state interest. The rationality commanded by the Equal Protection Clause does not require States to match age distinctions and the legitimate interests they serve with razorlike precision. Rather, a State may rely on age as a proxy for other qualities, abilities, or characteristics that are relevant to the State’s legitimate interests. That age proves to be an inaccurate proxy in any individual case is irrelevant. Judged against the backdrop of this Court’s equal protection jurisprudence, it is clear that the ADEA is “so out of proportion to a supposed remedial or preventive object that it cannot be understood as responsive to, or designed to prevent, unconstitutional behavior.” City of Boerne, supra, at 532. The Act, through its broad restriction on the use of age as a discriminating factor, prohibits substantially more state employment decisions and practices than would likely be held unconstitutional under the applicable equal protection, rational basis standard. Petitioners’ reliance on the “bona fide occupational qualification” defense of §623(f)(1) is misplaced. This Court’s decision in Western Air Lines, Inc. v. Criswell, 472 U.S. 400, conclusively demonstrates that the defense is a far cry from the rational basis standard the Court applies to age discrimination under the Equal Protection Clause. Although it is true that the existence of the defense makes the ADEA’s prohibition of age discrimination less than absolute, the Act’s substantive requirements nevertheless remain at a level akin to the Court’s heightened scrutiny cases under the Equal Protection Clause. The exception in §623(f)(1) that permits employers to engage in conduct otherwise prohibited by the Act “where the differentiation is based on reasonable factors other than age” confirms, rather than disproves, the conclusion that the ADEA extends beyond the requirements of the Equal Protection Clause. That exception makes clear that the employer cannot rely on age as a proxy for an employee’s characteristics, Hazen Paper Co. v. Biggins, 507 U.S. 604, 611, whereas the Constitution permits such reliance, see, e.g., Gregory, supra, at 473. Pp. 18—24.
+
+ (2) That the ADEA prohibits very little conduct likely to be held unconstitutional, while significant, does not alone provide the answer to the §5 inquiry. Difficult and intractable problems often require powerful remedies, and this Court has never held that §5 precludes Congress from enacting reasonably prophylactic legislation. One means by which the Court has determined the difference between a statute that constitutes an appropriate remedy and one that attempts to substantively redefine the States’ legal obligations is by examining the legislative record containing the reasons for Congress’ action. See, e.g., City of Boerne, supra, at 530—531. A review of the ADEA’s legislative record as a whole reveals that Congress had virtually no reason to believe that state and local governments were unconstitutionally discriminating against their employees on the basis of age. Congress never identified any pattern of age discrimination by the States, much less any discrimination whatsoever that rose to the level of constitutional violation. That failure confirms that Congress had no reason to believe that broad prophylactic legislation was necessary in this field. Pp. 24—27.
+
+ (e) Today’s decision does not signal the end of the line for employees who find themselves subject to age discrimination at the hands of their state employers. Those employees are protected by state age discrimination statutes, and may recover money damages from their state employers, in almost every State of the Union. Pp. 27—28.
+
+139 F.3d 1426, affirmed.
+
+ O’Connor, J., delivered the opinion of the Court, Parts I, II, and IV of which were joined by Rehnquist, C. J., and Scalia, Kennedy, and Thomas, JJ., and Part III of which was joined by Rehnquist, C. J., and Stevens, Scalia, Souter, Ginsburg, and Breyer, JJ. Stevens, J., filed an opinion dissenting in part and concurring in part, in which Souter, Ginsburg, and Breyer, JJ., joined. Thomas, J., filed an opinion concurring in part and dissenting in part, in which Kennedy, J., joined. 
+
+Notes
+
+1. Together with No. 98—796, United States v. Florida Board of Regents et al., also on certiorari to the same court. 
+

@@ -1,0 +1,1595 @@
+”_—— + ont i 
+
+
+~ FILED 
+98108 6 DEC 2 21998 
+
+
+OFFICE OF THE ClckK 
+
+
+No. 
+
+
+IN THE 
+
+
+Supreme Court of the Gnited States 
+OCTOBER TERM, 1998 
+
+
+THE STATE OF ILLINOIS, 
+
+
+Petitioner, 
+Vs. 
+
+
+SAM WARDLOW, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari 
+to the Supreme Court of Illinois 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+JAMES E. RYAN 
+
+
+Attorney General 
+State of Illinois 
+WiLLIAM L. BROWERS 
+Assistant Attorney General 
+100 West Randolph Street 
+Suite 1200 
+Chicago, Illinois 60601 
+
+RICHARD A. DEVINE Attorneys for Petitioner 
+
+State’s Attorney 
+
+Cook County, Illinois 
+
+RENEE GOLDFARB* 
+
+VERONICA XIMENA CALDERON 
+
+THEODORE FOTIOS BURTZOS 
+
+Assistant State’s Attorneys 
+
+309 Richard J. Daley Center 
+
+Chicago, Illinois 60602 
+
+(312) 603-5496 
+
+Of Counsel *Counsel of Record 
+
+
+Midwest Law Printing Co., Chicago 60610, (312) 321-0220 a¢ 
+
+
+i 
+QUESTION PRESENTED FOR REVIEW 
+
+
+Whether a person’s sudden and unprovoked flight 
+from a clearly identifiable police officer, who is patrol- 
+ling a high crime area, is sufficiently suspicious to 
+justify a temporary investigatory stop pursuant to Terry 
+v. Ohio. 
+
+
+il 
+
+
+TABLE OF CONTENTS 
+
+
+PAGE 
+QUESTION PRESENTED FOR REVIEW ........ i 
+TABLE OF CONTENTS ..ccccccccsvcccceces ii 
+TABLE OF AUTHORITIES .............006: iii 
+OPTNIOSGD DGAP occ cence vvdvaceseeneaune 1 
+STATEMENT OF JURISDICTION ............. 1 
+CONSTITUTIONAL PROVISION INVOLVED ....2 
+STATEMENT OF THE CASE .............+++:- 2 
+REASONS FOR GRANTING THE WRIT ........ 5 
+
+
+I. 
+
+
+THE PRESENT ISSUE HAS BEEN LEFT 
+OPEN BY THIS COURT IN TWO PRIOR CAS- 
+
+
+ PPPPeErEevrrerrrcy le ro 5 
+Il. 
+
+
+THE FEDERAL AND STATE COURTS THAT 
+HAVE CONSIDERED THE PRESENT ISSUE 
+ARE IN CONFLICT .......2ececeeeeeeees 7 
+
+
+Ill. 
+
+
+THE ILLINOIS SUPREME COURT'S OPIN- 
+ION CONCERNS AN IMPORTANT QUESTION 
+OF FEDERAL CONSTITUTIONAL LAW 
+WHICH SHOULD BE DECIDED BY THIS 
+COURT TO GIVE NEEDED GUIDANCE TO 
+LOWER COURTS AND LAW ENFORCEMENT 
+
+
+OFFICIALS THROUGHOUT OUR NATION .... 10 
+COMCRAMIBON .. . cca vusstdevewnay oe 12 
+APPUMIME ......0cccectsnueeeee infra 
+
+
+TABLE OF AUTHORITIES 
+
+Cases: PAGE(S) 
+Britt v. State, 673 So. 2d 934 
+
+EE SE a ee i) 
+California v. Hodari D., 
+
+ee 6, 7, 11 
+Dimascio v. Municipality of Anchorage, 
+
+813 P.2d 696 (Alaska App. 1991) ............ ) 
+Harris v. State, 205 Ga. App. 813, 
+
+cr ecceee 8 
+
+Hopkins v. State, 661 Sv.28 774 
+
+re Oe ck oe ewe SS) 
+Michigan v. Chesternut, 486 U.S. 567 
+
+DUPE s oes atiebeee 6660000 5, 6, 7, 11 
+People v. Holmes, 81 N.Y.2d 1056, 
+
+PC cles cccccsccececcce ) 
+People v. Shabaz, 378 N.W.2d 451 
+
+EI ree i) 
+People v. Souza, 9 Cal. 4th 224, 
+
+Ee i kes cecees 8 
+People v. Wilson, 784 P.2d 325 (Colo. 1989) ...... 4 
+Platt v. State, 589 N.E.2d 222 (Ind. 1992) ..... 8, 11 
+
+
+State v. Anderson, 155 Wisc. 2d 77, 
+464 N.W.2d 763 (1900) .............. 7, 8,11 
+
+
+iv 
+
+
+State v Andrews, 565 N.E.2d 1271 
+
+
+CG, TE 6 bow cd eadbhs 66 bbs bo oes een 5 
+State v. Butler, 415 &.F.2d 719 (N.C. 1992)....... 8 
+Stcte v. Hicks, 241 Neb. 3f7, 
+
+488 N.W.2d 359 (1992) ..... cc cece eens 4 
+State v. Jackson, 147 Wis.2d 824, 
+
+434 N.W.2d 386 (1989) .... 2... cee eee eee R 
+State v. Johnson, 444 N.W.2d 824 
+
+ie See . . cancsbsivedoedecevatentens 8 
+State v. Little, 806 P.2d 749 (Wash. 1991) ....... i 
+State v. Stinnett, 104 Nev. 398, 
+
+. Fs & ') eases ee ra 8 
+State v. Talbot, 792 P.2d 489 
+
+(Utah App. 1900) ........ccccccccecccees 4 
+State v. Tucker, 136 N.J. 158, 
+
+" VR Ff |, a2 r rere Tere a] 
+State v. White, 660 So. 2d 515 
+
+(La. Ct. App. 1905) .. 0... ccc ccveccceces 8 
+State v. Williamson, 524 A.2d 655 
+
+(Conn. App. 1987) ...... 2. cece cececccees 8 
+
+Terry v. Ohio, 392 U.S. 1 (1968) .......6- 0 eeeee 5 
+
+
+Tom v. Voida, 963 F.2d 952 (7th Cir. 1992) ....... 7 
+
+
+v 
+
+
+United States v. Cardona-Rivera, 
+
+
+904 F.2d 1149 (7th Cir. 1990) .............. 4 
+United States v. Green, 670 F.2d 1148 
+
+Sees MEE: SRUR Ss Feeet es ceebenc whe 10 
+United States v. Haye, 825 F.2d 32 
+
+Se ee NE coat See babes oak euacus 4 
+United Staizs v. Jackson, 741 F.2d 223 
+
+I ee, Pee nee ee 4 
+United States v. Lane, 909 F.2d 895 
+
+RES ae a ee eee 4 
+United States v. Pope, 561 F.2d 663 
+
+BRR PAE cine 4 
+United States v. Rundel, 461 F.2d 860 
+
+a6 ko a te eee 9, 10 
+United States v. Vasquez, 534 F.2d 1142 
+
+EE in aGP bh wae oe Gh iow’ anddwe 4 
+United States v. Williams, 314 F.2d 795 
+
+Gee ee Ss 0 25% Cae be wae ci ore ae 
+Watkins v. State, 420 A2d 270 (Md. 1980) ....... a] 
+Constitutional Provision: 
+Sees i NNN TET Dn Ges cbc chckicieebe 2 
+
+
+Other Authorities: 
+
+
+Harris, Factors for Reasonable Suspicion: 
+When Black and Poor Means Stopped 
+and Frisked, 69 Ind. L.J. 659 (1994) ........ 
+
+
+Wayne R. LaFave, SEARCH AND SEIZURE, 
+sec. 9.4(f) (8rd Ed. 1996) ..........-+-+++- 
+
+
+1 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Petitioner, the State of Illinois, prays for a Writ of 
+Certiorari to review the judgment and order of the 
+Illinois Supreme Court which was entered on September 
+24, 1998. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Illinois Supreme Court, which af- 
+firmed the Illinois Appellate Court’s suppression of the 
+evidence order and reversed respondent’s conviction, 
+was entered on £2ptember 24, 1998 and is reported at 
+183 Ill.2d 306, 701 N.E.2d 484 and reproduced in Ap- 
+pendix A of this Petition. 
+
+The opinion of the Illinois Appellate Court, First Dis- 
+trict, which suppressed the evidence and reversed re- 
+spondent’s conviction, was entered on March 18, 1997 
+and is reported at 287 [ll.App.3d 367, 678 N.E.2d 65 
+and reproduced in Appendix B of this Petition. 
+
+The order of the circuit court denying respondent’s 
+motion to suppress is unreported. 
+
+
+STATEMENT OF JURISDICTION - 
+
+
+The order and judgment of the Illinois Supreme Court 
+was entered on September 24, 1998. No Petition for 
+Rehearing was filed. This Petition for a Writ of Cer- 
+tiorari is filed within 90 days of that order as required 
+by Rule i3(1) of the rules of the Supreme Court. The 
+decision of the Illinois Supreme Court was explicitly 
+based on federal Constitutional law, in particular on the 
+Fourth Amendment. Accordingly, the jurisdiction of this 
+Court is invoked under 28 U.S.C. sec. 1257 (a). 
+
+
+2 
+
+
+CONSTITUTIONAL PROVISION INVOLVED 
+
+
+The Fourth Amendment to the United States Consti- 
+tution. 
+
+
+The right of the people to be secure in their persons, 
+houses, papers, and effects, against tinreasonable 
+searches and seizures, shall not be violated, and no 
+Warrants shall issue, but upon probable cause, support- 
+ed by Oath or affirmation, and particularly describing 
+the place to be searched, and the person or things to be 
+seized. 
+
+
+STATEMENT OF THE CASE 
+
+
+Respondent, Sam Wardlow, was charged with two 
+counts of Unlawful Use of Weapon by a Felon and two 
+counts of Unlawful Use of Weapon under Indictment 
+Number 95-CR-26952. (CL. 9-14) Respondent filed a pre- 
+trial Motion to Suppress Physical Evidence and a hear- 
+ing was held on this motion on October 25, 1995. (R. Al, 
+CL. 22) 
+
+
+The only witness called upon to testify at the hearing 
+was a nine year veteran Chicago police officer, Timothy 
+Nolan. (R. A4, All) Officer Nolan testified that on Sep- 
+tember 9, 1995 he was assigned to the Special Opera- 
+tions Section of the Chicago Police Department’s Elev- 
+enth District. (R. A4) On that day Officer Nolan was 
+adorned in his full police uniform which included his 
+badge, name tag and a Chicago Police Department patch 
+on his arm. (R. All) Officer Nolan stated that one of the 
+locations in the 11th District that has “high narcotics 
+traffic” is in the area of 4035 West Van Buren. (R. A8, 
+AQ) 
+
+
+3 
+
+
+Officer Nolan stated that his assignment on Septem- 
+ber 9, 1995 was to investigate narcotics sales in this 
+area of the 11th District. (R. A9) As such, Officer Nolan 
+and seven other officers converged on this area in four 
+separate cars. (R. A9) As these four police cars were 
+driving east on Van Buren Street, Officer Nolan and his 
+partner, Officer Harvey, were in the last car. (R. A4, A9, 
+A10) He could not recall if their police car was marked 
+or unmarked. (R. A4-A5) Officer Nolan explained that 
+the purpose for having four cars converge on the same 
+location at the same time is because normally there is 
+an enormous amount of people in such areas, some of 
+whom are there as customers while others served as 
+lookouts. (R. A9) 
+
+
+As the officers were cruising down Van Buren Street, 
+Officer Nolan saw the respondent standing near the 
+front of 4035 West Van Buren Street. (R. A8-A9) Re- 
+spondent then looked at the officers and took off run- 
+ning. (R. A6, Al0) Officer Nolan could see that the re- 
+spondent was carrying a white opaque bag under his 
+arm while he was running. (R. A7, A8, A10) 
+
+
+Officer Nolan then turned his police car southbound 
+and saw the respondent running down a gangway. (R. 
+A6, Al0) As he kept driving, he then saw the respon- 
+dent running southbound through an alley. (R. A6) Offi- 
+cer Nolan and his partner were eventually able to catch 
+up to and corner the respondent in the vicinity of 4036 
+West Congress Street. (R. A6, A10) 
+
+
+‘- Still dressed in uniform, with his badge, patch and 
+
+
+name tag visible, Officer Nolan exited his vehicle and 
+stopped the respondent for the purpose of conducting a 
+field interview. (R. A7, Al1) Officer Nolan stated that it 
+
+
+4 
+
+
+was common to find weapons in the vicinity where 
+narcotics are sold. (R. Al3) Without announcing his 
+office or asking the respondent any questions, Officer 
+Nolan conducted a “protective pat-down” search “for 
+[his] own safety.” (R. A7) He did this by squeezing the 
+outside of the white opaque plastic bag that respondent 
+was holding under his arm. (R. A7, Al1) The object that 
+Officer Nolan felt inside the bag was hard, heavy and 
+similar in shape to a revolver. (R. All) Officer Nolan 
+then looked inside the bag and found a Colt .38 caliber 
+handgun loaded with five live bullets. (R. A12) It was at 
+that time that the officer placed the respondent under 
+arrest. (R. A8)’ 
+
+
+The parties presented their arguments to the trial 
+judge on October 25th and December 6th of 1995. (R. 
+A14-A18, B5-B12) After hearing the respective argu- 
+ments, the trial court judge denied respondent’s sup- 
+pression motion. (R. B13) In denying respondent’s 
+motion, the trial judge observed that it is common 
+knowledge that police officers know of the areas in 
+which drugs are being sold, and do have knowledge of 
+the general areas where contraband, including weapons, 
+are being carried. (R. B12) The judge noted that police 
+officers have a right to drive up to these areas. The 
+judge also observed that anybody can identify a police 
+car, be it marked or unmarked. (R. B13) Under all of 
+the attendant circumstances, including respondent’s 
+awareness of the circumstances that brought about the 
+
+
+' The transcript of the Report of Proceedings does not indicate 
+the precise time of defendant’s arrest. However, Officer 
+Nolan’s Arrest Report indicates that defendant was arrested 
+at 12:15 p.m. (CL. C4) 
+
+
+5 
+
+
+officers’ presence in that area and his flight upon look- 
+ing in their direction, the trial judge concluded that the 
+officers had a right to stop and question respondent, and 
+in doing so, they had a right to protect themselves by 
+conducting a pat-down search. (R. B13) Finally, the 
+judge noted that once a person flees, after having looked 
+in the direction of a police officer, “there’s reasons to 
+think there’s a problem [; the officers] have a right to 
+make inquiry.” (R. B14) 
+
+
+Following a stipulated bench trial, the respondent was 
+found guilty of Unlawful Use of a Weapon by a Felon 
+and sentenced to two years imprisonment. 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+THE PRESENT ISSUE HAS BEEN LEFT OPEN BY 
+THIS COURT IN TWO PRIOR CASES. 
+
+The present case squarely presents this Court with an 
+issue that has twice eluded it. Specifically, the issue is 
+whether police officers, who are patrolling a high crime 
+area, are justified in temporarily stopping a person pur- 
+suant to Terry v. Ohio, 392 U.S. 1 (1968), when that 
+person, suddenly and without provocation, breaks and 
+runs away at the mere sight of the police. 
+
+
+First, in Michigan v. Chesternut, 486 U.S. 567 (1988), 
+this Court granted a writ of certiorari to consider the 
+following two questions: 
+
+
+“whether the officers’ pursuit of respondent 
+constituted a seizure implicating Fourth Amend- 
+ment protections, and, if so, whether the act of 
+fleeing, by itself, was sufficient to constitute rea- 
+sonable suspicion justifying that seizure.” (em- 
+phasis added) 486 U.S. at 572. 
+
+
+6 
+
+
+This Court answered the first question by holding that 
+Respondent Chesternut had not been seized by the 
+police during the pursuit. Accordingly, this Court noted 
+that, 
+
+
+“[blecause we conclude that the officers’ con- 
+duct did not constitute a seizure, we need not 
+reach the second question.” 486 U.S. at 572. 
+
+Second, in California v. Hodari D., 499 U.S. 621 
+(1991), the two potential issues for resolution were 
+whether Respondent Hodari had been seized at the time 
+he dropped the drugs and, ‘f he had, whether Hodari’s 
+flight gave the officer sufficient reasonable suspicion to 
+justify the seizure. 499 U.S. at 623. This Court stated 
+that, “[a]s this case comes to us, the only issue present- 
+ed is whether, at the time he dropped the drugs, Hodari 
+had been ‘seized’ within the meaning of the Fourth 
+Amendment”. 499 U.S. at 623. This was so because the 
+State of California had conceded “that Officer Petoso did 
+not have the ‘re se ble suspicion’ required to justify 
+stopping Hodari [under Terry v. Ohio)”. 499 U.S. at 623 
+nl. Although Justice Scalia, writing for the majority, 
+opined “[t]hat it would be unreasonable to stop, for brief 
+inquiry, young men who scatter in panic upon the mere 
+sighting of the police is not self-evident, and arguably 
+contradicts proverbial commonsense. See Proverbs 28:1 
+(‘The wicked flee when no man pursueth’)”, he noted 
+that “[w]e do not decide that point here but rely entirely 
+upon the State’s concession.” 499 U.S. at 623 nl. Con- 
+sequently, it is apparent that, on two occasions and for 
+two different reasons, the present issue has escaped this 
+Court’s scrutiny. In the instant case, however, the ques- 
+tion surrounding respondent’s sudden flight from the 
+police in a high crime area is the only issue to be re- 
+
+
+7 
+
+
+solved. Further, the petitioner, unlike the State of Cali- 
+fornia, is by no means conceding that reasonable sus- 
+picion was lacking for a temporary investigative stop. 
+Thus, the present case will enable this Court to finally 
+address this important issue. 
+
+
+Il. 
+
+
+THE FEDERAL AND STATE COURTS THAT HAVE 
+CONSIDERED THE PRESENT ISSUE ARE IN CON- 
+FLICT. 
+
+Two members of this Court have suggested that flight 
+from a clearly identified police officer in a high crime 
+area can, in and of itself, furnish sufficient ground for a 
+limited investigatory stop. Michigan v. Chesternut, 486 
+U.S. at 576 (Justice Kennedy, concurring, joined by Jus- 
+tice Scalia) (“It is no bold step to conclude, as the Court 
+does, that the evidence should have been admitted, for 
+respondent’s unprovoked flight gave the police ample 
+cause to stop him.”) See also California v. Hodari D., 
+499 U.S. at 623 nl. However, as noted supra, this Court 
+has yet to address this specific issue. See Tom v. Voida, 
+963 F.2d 952, 985 (7th Cir. 1992) (Federal Court of 
+Appeals acknowledges that Supreme Court “has not de- 
+cided whether flight alone may support a finding of rea- 
+sonable suspicion.”) In this Court’s absence, the deci- 
+sions of the several state and federal courts that have 
+ruled on this issue have produced mixed results. 
+
+
+On the one hand are state court opinions which hold 
+that flight from a police officer in a high crime area can 
+be sufficient for an investigatory stop. Typical of these 
+is State v. Anderson, 155 Wisc. 2d 77, 454 N.W.2d 763 
+(1990) where the Supreme Court of Wisconsin stated 
+that: 
+
+
+8 
+
+
+Flight at the sight of police is undeniably sus- 
+picious behavior. Although many innocent expla- 
+nations could be hypothesized as the reason for 
+the flight, a reasonable police officer who is 
+charged with enforcing the law as well as main- 
+taining peace and order cannot ignore the infer- 
+ence that criminal activity may well be afoot. 
+Although it does not rise to a level of probable 
+cause, flight at the sight of a police officer 
+certainly gives rise to a reasonable suspicion 
+that all is not well. Under these circumstances, 
+“[i]t would be poor police work indeed for an 
+officer . . . to have failed to investigate further.” 
+(citing Terry, 392 U.S. at 23) 
+
+
+**# * * 
+
+
+Accordingly, we hold that behavior which evinces 
+in the mind of a reasonable police officer an in- 
+tent to flee from the police is sufficiently sus- 
+picious in and of itself to justify a temporary 
+investigative stop by the police. Such flight, 
+although not illegal, gives rise to a reasonable — 
+suspicion that some sort of wrongful activity is 
+afoot. Anderson, 454 N.W.2d at 766, 768. 
+State cases that have ruled similarly include Platt v. 
+State, 589 N.E.2d 222 (Ind. 1992); State v. Little, 806 
+P.2d 749 (Wash. 1991); State v. Andrews, 565 N.E.2d 
+1271 (Ohio 1991); State v. Stinnett, 104 Nev. 398, 760 
+P.2d 124 (1988); State v. Williamson, 524 A.2d 655 
+(Conn. App. 1987); State v. Johnson, 444 N.W.2d 824 
+(Minn. 1989); Harris v. State, 205 Ga. App. 813, 423 
+S.E.2d 723 (1992); State v. White, 660 So. 2d 515 (La. 
+Ct. App. 1995); People v. Souza, 9 Cal. 4th 224, 885 
+P.2d 982 (1994); State v. Jackson, 147 Wis.2d 824, 434 
+N.W.2d 386 (1989); State v. Butler, 415 S.E.2d 719 
+(N.C. 1992). 
+
+
+9 
+
+
+On the other hand are state court opinions which hold 
+that flight from the police in a high crime area is 
+insufficient for an investigatory stop. Typical of these is 
+the instant case where the Illinois Supreme Court, in 
+interpreting the Fourth Amendment, held that breaking 
+and running away from a police officer, in a high crime 
+area, can never be alone sufficient to conduct a tempo- 
+rary investigative stop. The Illinois Supreme Court 
+reasoned that, while flight in a high crime area may 
+produce an inference of guilt, the officer must be “able 
+to point tw specific facts corroborating the inference of 
+guilt gleaned from defendant’s flight” before he can 
+make a lawful investigatory stop. (App. 12) State cases 
+that have similarly held include State v. Hicks, 241 
+Neb. 357, 488 N.W.2d 359 (1992); State v. Tucker, 136 
+N.J. 158, 642 A.2d 401 (1994); People v. Shabaz, 378 
+N.W.2d 451 (Mich. 1985); State v. Talbot, 792 P.2d 489 
+(Utah App. 1990); Britt v. State, 673 So. 2d 934 (Fla. 
+App. 1996); Hopkins v. State, 661 So.2d 774 (Ala. App. 
+1994); Dimascio v. Municipality of Anchorage, 813 P.2d 
+696 (Alaska App. 1991); People v. Wilson, 784 P.2d 325 
+(Colo. 1989); People v. Holmes, 81 N.Y.2d 1056, 619 
+
+
+_ N.E.2d 396 (1993); Watkins v. State, 420 A2d 270 (Md. 
+
+
+1980). 
+
+
+The federal courts are also divided on this issue. 
+Cases holding that flight can be sufficient for a tempo- 
+rary stop include United States v. Cardona-Rivera, 904 
+F.2d 1149 (7th Cir. 1990); United States v. Lane, 909 
+F.2d 895 (6th Cir. 1990); United States v. Jackson, 741 
+F.2d 223 (8th Cir. 1984); United States v. Pope, 561 
+F.2d 663 (éth Cir. 1977); United States v. Vasquez, 534 
+F.2d 1142 (5th Cir. 1976); United States v. Haye, 825 
+F.2d 32 (4th Cir. 1987) United States v. Rundel, 461 
+
+
+10 
+
+
+F.2d 860 (3rd Cir. 1972). Federal cases holding that 
+flight is insufficient include United States v. Green, 670 
+F.2d 1148 (D.C. Cir. 1981) and United States v. Wil- 
+liams, 314 F.2d 795 (6th Cir. 1963). 
+
+
+Additionally, Professor Wayne R. LaFave has reviewed 
+and discussed several of these conflicting cases in his 
+treatise on search and seizure. 4 Wayne R. LaFave, 
+SEARCH AND SEIZURE, sec. 9.4(f) at 176-182 (3rd Ed. 
+1996). Finally, one legal commentator has discussed the 
+instant issue and the conflicting cases and has made 
+various proposals to resolve this problem. See Harris, 
+Factors for Reasonable Suspicion: When Black and Poor 
+Means Stopped and Frisked, 69 Ind. L.J. 659, 671-675, 
+681 (1994). 
+
+
+In short, state and federal courts are in irreconcilable 
+conflict over the instant issue. As such, given the im- 
+portance and frequency of occurrence of this issue, the 
+existing conflict warrants this Court’s resolution. 
+
+
+Ill. 
+
+
+THE ILLINOIS SUPREME COURT’S OPINION CON- 
+CERNS AN IMPORTANT QUESTION OF FEDERAL 
+CONSTITUTIONAL LAW WHICH SHOULD BE DE- 
+CIDED BY THIS COURT TO GIVE NEEDED GUID- 
+ANCE TO LOWER COURTS AND LAW ENFORCEMENT 
+OFFICIALS THROUGHOUT OUR NATION. 
+
+Every single day law enforcement officers at all levels 
+throughout our country are confronted with the issue 
+presented in the instant case: whether to chase and 
+temporarily stop a person in a high crime area who runs 
+away at the mere sight of the police. The present case 
+presents this Court with the perfect vehicle to visit and 
+resolve this important and constantly reoccurring ques- 
+
+
+tion. 
+
+
+ll 
+
+
+First, it is beyond question that the Illinois Supreme 
+Court decided the present case under federal Constitu- 
+tional law. (App. 3-4, 12) See Michigan v. Chesternut, 
+486 U.S. at 571 n3. Second, the factual matrix of the 
+present case is virtually identical to that of Michigan v. 
+Chesternut, supra, and California v. Hodari D., supra. 
+‘he only noteworthy difference is that, while Respon- 
+dents Chesternut and Hodari dropped the contraband 
+drugs while they were being pursued, Respondent Ward- 
+low kept the contraband gun in his possession until he 
+was stopped and patted down. (App. 1, 2, 14) Third, the 
+type of flight from police in issue here is of the most 
+extreme kind: running at full speed. The present case 
+does not involve a lesser means of movement such as 
+walking away, whether slowly or swiftly, from a police 
+officer. Fourth, a further delay in considering this issue 
+will only increase and polarize the present conflict 
+among the lower courts, while adding nothing to the 
+debate. Said otherwise, this issue is ripe for this Court’s 
+review. Fifth, lower courts are relying on the suggestion 
+of two members of this Court, noted supra at 7, that 
+flight in a high crime area is sufficient for a temporary 
+investigative stop. See Platt v. State, 589 N.E.2d at 226, 
+State v. Anderoon, 454 N.W.2d at 767. Petitioner sub- 
+mits that it would be prudent for this Court to grant the 
+present ;etition and determine whether or not this is 
+also the view of the majority of this Court. 
+
+
+Finally, the present Illinois Supreme Court opinion 
+essentially gives citizens the license, when they see a 
+peace officer in a high crime area, to just break and run 
+away. This puts the officers in the unenviable position 
+of having to shrug their shoulders and helplessly stand 
+watching while such persons escape. The Petitioner re- 
+
+
+12 
+
+
+spectfully submits that the present case presents this 
+Court with the ideal means to address and rectify this 
+untenable state of affairs. 
+
+
+CONCLUSION 
+
+
+For all the foregoing reasons, the Petitioner respect- 
+fully prays that this Honorable Court grant the instant 
+petition for Writ of Certiorari to review the judgment of 
+the Illinois Supreme Court. 
+
+
+Respectfully submitted, 
+JAMES E. RYAN 
+Attorney General 
+State of Illinois 
+WILLIAM L. BROWERS 
+Assistant Attorney General 
+100 West Randolph Street 
+Suite 1200 
+Chicago, Illinois 60601 
+Attorneys for Petitioner 
+RICHARD A. DEVINE 
+State’s Attorney 
+Cook County, Illinois 
+RENEE GOLDFARB* 
+VERONICA XIMENA CALDERON 
+THECDORE FOTIOS BURTZOS 
+Assistant State’s Attorneys 
+
+
+309 Richard J. Daley Center 
+Chicago, Illinois 60602 
+(312) 603-5496 
+Of Counsel *Counsel of Record 
+
+
+APPENDICES 
+
+
+App. 1 
+APPENDIX A 
+
+
+Opinion of The Illinois Supreme Court 
+Docket No. 83061, Filed September 24, 1998 
+THE PEOPLE OF THE STATE OF ILLINOIS, 
+
+Appellant, v. SAM WARDLOW, Appellee. 
+
+
+JUSTICE HARRISON delivered the opinion of the 
+court: 
+
+
+Defendant, Sam Wardlow, was convicted of unlawful 
+use of a weapon by a felon (720 ILCS 5/24-1.l(a) (West 
+1994)) following a stipulated bench trial in Cook County 
+and was sentenced to a term of two years’ imprison- 
+ment. On appeal, the appellate court reversed defen- 
+dant’s conviction, finding that defendant’s motion to 
+suppress evidence should have been granted because 
+the revolver seized from him was discovered as a result 
+of an improper investigatory stop. 287 Ill. App. 3d 367. 
+We allowed the State’s petition for leave to appeal. 166 
+Ill. 2d R. 315(a); 145 Ill. 2d R. 604(a\(2). 
+
+
+At the hearing on defendant’s motion to suppress, 
+Cfficer Timothy Nolan testified that on September 9, 
+1395, he and his partner, Officer Harvey, were assigned 
+to the special operations section of the Chicago police 
+department. On that date, Nolar and Harvey were 
+ainong eight officers in four cars travelling eastbound 
+on West Van Buren Street with the purpose of inves- 
+tigating narcotics sales in that area. Nolan stated that 
+he was working in uniform, but did not recall whether 
+the police car he drove, the last in the “caravan,” was 
+marked or unmarked. 
+
+
+Nolan testified that as he was driving, he observed 
+defendant standing in front of 4035 West Van Buren. 
+
+
+App. 2 
+
+
+Defendant, who did not appear to be violating any laws, 
+looked in the officers’ direction and then fled. Nolan 
+turned his vehicle southbound toward Congress Ave- 
+nue, continuing to observe defendant, who ran south- 
+bound through a gangway and then through an alley. 
+Nolan stated that defendant, who was carrying a white 
+opaque bag under his arm, was cornered in the vicinity 
+of 4036 West Congress when he “ran right towards us.” 
+
+
+Nolan exited his car and stopped defendant. Without 
+announcing his office or asking any questions, he con- 
+ducted a protective pat-down search of defendant. 
+Nolan testified that he could not see inside the bag 
+defendant was carrying so he “squeezed” the bag and 
+felt a very heavy, hard object ‘that had a similar shape 
+to a revolver or a gun.” Believing the object to be a 
+weapon, Nolan opened the bag and found a .38-caliber 
+handgun containing five live rounds of ammunition. 
+Nolan then placed defendant under arrest.’ 
+
+
+Responding to the State’s question as to why he “went 
+to that location on that date and time,” Nolan answered 
+that it was “one of the areas in the 11th District that’s 
+high narcotics traffic.” Nolan further testified that, 
+based upon his experience in investigating areas in 
+which narcotics were sold, it was common for there to 
+be weapons “in the near vicinity” and he considered 
+that fact as he approached “that specific scene.” After 
+hearing arguments by the parties, the trial court denied 
+defendant’s motion to suppress. 
+
+
+' While no testimony was presented as to the precise time of 
+defendant’s arrest, the record contains Nolan’s arrest report, 
+which indicates a time of 12:15 p.m. 
+
+
+App. 3 
+
+
+Generally, a trial court’s ruling on a motion to sup- 
+press evidence is subject to reversal only if manifestly 
+erroneous. People v. Dilworth, 169 Ill. 2d 195, 201 
+(1996). This clearly erroneous or manifestly erroneous 
+test is based on the understanding that suppression 
+motions usually raise mixed questions of law and fact. 
+See People v. Frazier, 248 Ill. App. 3d 6, 12 (1993). 
+However, where, as here, neither the facts nor the 
+credibility of the witnesses is contested, the determina- 
+tion of whether there is reasonable suspicion warrant- 
+ing an investigatory stop is a legal question which a 
+reviewing court may consider de novo. See In re D.G., 
+144 Ill. 2d 404, 408-09 (1991); People v. Foskey, 136 Il. 
+2d 66, 76 (1990); see also People v. Besser, 273 Ill. App. 
+3d 164, 167 (1995). 
+
+
+The fourth amendment to the United States Constitu- 
+tion guarantees the “right of the people to be secure in 
+their persons, houses, papers, and effects, against un- 
+reasonable searches and seizures.” U.S. Const., amend. 
+IV. This provision applies to all seizures of the person, 
+including seizures that involve only a brief detention 
+short of traditional arrest. United States v. Brignoni- 
+Ponce, 422 U.S. 873, 878, 45 L. Ed. 2d 607, 614, 95 
+S. Ct. 2574, 2578 (1975); People v. Smithers, 83 Ill. 2d 
+430, 433-34 (1980). In Terry v. Ohio, 392 U.S. 1, 20 L. 
+Ed. 2d 889, 88 S. Ct. 1868 (1968), the United States 
+Supreme Court held that the public’s interest in ef- 
+fective law enforcement makes it reasonable to detain 
+and question individuals under certain circumstances 
+in which probable cause to arrest is lacking. However, 
+in order to protect “the individual’s right to personal 
+security free from arbitrary interference by law officers” 
+(Brignoni-Ponce , 422 U.S. at 878, 45 L. Ed. 2d at 615, 
+
+
+App. 4 
+
+
+95 S. Ct at 2579), the Terry Court held that such lim- 
+ited investigatory stops are permissible only upon a 
+reasonable suspicion based upon specific and articulable 
+facts that the person has committed, or is about to 
+commit, a crime. Terry, 392 U.S. at 21-22, 20 L. Ed. 2d 
+at 906, 88 S. Ct. at 1880; Smithers, 83 Ill. 2d at 434. 
+
+
+This Terry standard has been codified in our Code of 
+Criminal Procedure of 1963. People v. Flowers, 179 Ill. 
+2d 257, 262 (1997); People v. Long, 99 Ill. 2d 219, 228 
+(1983). Section 107-14 of the Code provides, in perti- 
+nent part: “A peace officer *** may stop any person in 
+a public place for a reasonable period of time when the 
+officer reasonably infers from the circumstances that 
+the person is committing, is about to commit or has 
+committed an offense ***.” 725 ILCS 5/107-14 (West 
+1994). The same standard is applied in determining the 
+propriety of an investigatory stop under article I, sec- 
+tion 6, of the Illinois Constitution of 1970 (Ill. Const. 
+1970, art. I, §6). See People v. Tisler, 103 Ill. 2d 226, 
+242-43 (1984) (the protection against unreasonable 
+searches and seizures under the Illinois Constitution is 
+measured by the same standards as are used in defin- 
+ing the protections contained in the fourth amendment 
+to the United States Constitution). 
+
+
+Turning to the case before us, defendant contended on 
+direct appeal that the trial court erred in denying his 
+motion to suppress because his presence in a high-crime 
+area and flight from police were insufficient to justify 
+his investigatory stop. The appellate court agreed, but 
+found the record “simply too vague to support the in- 
+ference that defendant was in a location with a high 
+incidence of narcotics trafficking” and limited its hold- 
+
+
+ee er ee oe ee ee 
+
+
+App. 5 
+
+
+ing accordingly. 287 Ill. App. 3d at 370-71. However, we 
+believe Officer Nolan’s uncontradicted and undisputed 
+testimony, which was accepted by the trial court, was 
+sufficient to establish that the incident occurred in a 
+high-crime area. See Ornelas v. United States, 517 U.S. 
+690, 699, 134 L. Ed. 2d 911, 920, 116 S. Ct. 1657, 1663 
+(1996) (as a general matter determinations of reason- 
+able suspicion and probable cause should be reviewed 
+de novo on appeal, but reviewing court should take care 
+both to review findings of fact only for clear error and 
+to give due weight to inferences drawn from those facts 
+by judges and local law enforcement officers). Thus, the 
+issue presented by this appeal is whether an individu- 
+al’s flight upon the approach of a police vehicle patrol- 
+ling a high-crime area is sufficient to justify an investi- 
+gative stop of the person. Defendant contends that such 
+flight alone is insufficient to create a reasonable sus- 
+picion of involvement in criminal conduct. We agree. 
+
+
+A majority of jurisdictions addressing this issue have 
+held that flight alone is insufficient to justify a Terry 
+stop. See, e.g., State v. Tucker, 136 N.J. 158, 642 A.2d 
+401 (1994); State v. Hicks, 241 Neb. 357, 488 N.W.2d 
+359 (1992); People v. Shabaz, 424 Mich. 42, 378 N.W.2d 
+451 (1985); People v. Aldridge, 35 Cal. 3d 473, 674 P.2d 
+240, 198 Cal. Rptr. 538 (1984); People v. Thomas, 660 
+P.2d 1272 (Colo. 1983); Watkins v. State, 288 Md. 597, 
+420 A.2d 270 (1980). “Instead, courts require proof of 
+some independently suspicious circumstance to corrobo- 
+rate the inference of a guilty conscience associated with 
+flight at the sight of the police. [Citations.]” Hicks, 241 
+Neb. at 362-63, 488 N.W.2d at 363; see also Tucker, 
+136 N.J. at 169, 642 A.2d at 407 (for departure to take 
+on the legal significance of flight, there must be some 
+
+
+App. 6 
+
+
+circumstances present and unexplained which, in con- 
+junction with the leaving, reasonably justify an infer- 
+ence that it was done with a consciousness of guilt and 
+pursuant to an effort to avoid an accusation based on 
+that guilt). 
+
+
+In Hicks, the Nebraska Supreme Court examined a 
+number of these “location plus evasion” cases and, in a 
+well-reasoned opinion, concluded: 
+
+
+“(Ajllowing flight alone to justify an investiga- 
+tive stop would undercut the very values Terry 
+sought to safeguard. Terry is based in part upon 
+the proposition that the right to freedom from 
+arbitrary governmental intrusion is as valuable 
+on the street as it is in the home. Thus, while 
+a police officer does not violate the Fourth 
+Amendment by approaching an individual in a 
+public place and asking if the person will an- 
+swer some questions, neither is the person 
+under any obligation to answer. Florida v. 
+Royer, 460 U.S. 491, 103 S. Ct. 1319, 75 L. Ed. 
+2d 229 (1983). The person may decline to listen 
+to the questions at all and simply go on his or 
+her way. Jd. If the option to ‘move on’ is chosen, 
+the person ‘may not be detained even momen- 
+tarily without reasonable, objective grounds for 
+doing so; and his refusal to listen or answer 
+
+
+does not, without more, furnish those grounds.’ 
+460 U.S. at 498. 
+
+
+*** Flight upon approach of a police officer 
+may simply reflect the exercise—‘at top speed’— 
+of the person’s constitutional right to ‘“move 
+on.”’ Shabaz, 424 Mich. at 63, 378 N.W.2d at 
+460. Terry and Royer stand for the proposition 
+that exercise of this constitutional right may not 
+
+
+ee ee 
+
+
+App. 7 
+
+
+itself provide the basis for more intrusive police 
+activity. 
+KKK 
+
+
+A prime concern underlying the Terry decision 
+is protecting the right of law-abiding citizens to 
+eschew interactions with the police. Authorizing 
+the police to chase down and question all those 
+who take flight upon their approach would un- 
+
+
+dercut this important right and upset the bal- 
+ance struck in Terry between the individual’s 
+right to personal security and the public’s inter- 
+est in prevention of crime. We therefore join 
+those jurisdictions holding that flight from a po- 
+lice officer is sufficient to justify an investiga- 
+tory stop only when coupled with specific knowl- 
+edge connecting the person to involvement in 
+criminal conduct. [Citations.]” Hicks, 241 Neb. 
+at 363-64, 488 N.W.2d at 363-64. 
+
+
+Although no Illinois court has specifically considered 
+whether sudden flight from police in a high-crime area 
+justifies a stop, we agree with the appellate court that 
+“{iJn Illinois, neither a person’s mere presence in an 
+area where drugs are sold (People v. Harper, 237 IIl. 
+App. 3d 202, 205, 603 N.E.2d 115 (1992)) nor sudden 
+flight (People v. Rivera, 233 Ill. App. 3d 69, 77, 598 
+N.E.2d 423 (1992)) alone will justify a Terry stop.” 287 
+Ill. App. 3d at 370; see also People v. Fox, 97 Ill. App. 
+3d 58 (1981) (driving away at approach of marked 
+police vehicle not a justification for stop). Moreover, 
+this court has recently emphasized the importance of 
+protecting the freedom to engage in such harmless 
+activities as “loafing, loitering, and nightwalking” and 
+other personal liberties of citizens, including the right 
+to travel, to locomotion, to freedom of movement, and to 
+
+
+App. 8 
+
+
+associate with others. City of Chicago v. Morales, 177 
+Ill. 2d 440, 459-60 (1997), cert. granted, _ _ U.S. _, 
+140 L. Ed. 2d 664, 118 S. Ct. 15. 
+
+
+In Morales, we found that a City of Chicago ordinance 
+which prohibited certain individuals from loitering in 
+public places violated substantive due process because 
+it unreasonably infringed on “the personal liberty of 
+being able to freely walk the streets and associate with 
+friends.” Morales, 177 Ill. 2d at 460-61. We find similar- 
+ly unreasonable the State’s proposal, in the instant 
+case, that every person observed in “sudden and un- 
+provoked flight” from an officer may be stopped regard- 
+less of whether the surrounding circumstances indicate 
+the person is involved in criminal activity. Cf. People v. 
+Holdman, 73 [ll. 2d 213 (1978) (defendants’ flight fol- 
+lowing officers’ shining bright light into vehicle they 
+reasonably believed to be associated with fugitive for 
+whom they had warrant was indication of criminal 
+activity requiring police pursuit). As defendant sug- 
+gests, “[i]f the police cannot constitutionally force other- 
+wise law-abiding citizens to move, the police cannot 
+force those same citizens to stand still at the appear- 
+ance of an officer.” Therefore, because we agree with 
+the majority of courts that view the unequivocal flight 
+of a suspect upon seeing police as not alone indicative 
+of criminal activity, we now examine the record herein 
+to determine if there are corroborating circumstances 
+sufficient to create the reasonable suspicion necessary 
+for the stop of defendant. 
+
+
+The case before us is factually similar to People v. 
+Mamon, 173 Mich. App. 429, 435 N.W.2d 12 (1988), 
+rev'd on other grounds, 435 Mich. 1, 457 N.W.2d 623 
+
+
+App. 9 
+
+
+(1990). There, two police officers were driving on rou- 
+tine patrol in a marked squad car through an area 
+known for narcotics activity. As the officers approached 
+the defendant, Mamon, standing on corner near a pub- 
+lic phone, he took off running. The officers pursued the 
+defendant on foot, noticing that he removed a case from 
+his pocket and dropped it during the chase. The officers 
+ultimately caught the defendant and retrieved the case, 
+which contained cocaine. The trial court quashed an in- 
+formation charging the defendant with possession of a 
+controlled substance, and the State appealed. 
+
+
+The Michigan appeals court affirmed the trial court’s 
+decision, first addressing the circumstances existing be- 
+fore the defendant began to run. Though the incident 
+occurred in a high-crime neighborhood, the court deter- 
+mined that a person’s presence in such an area cannot, 
+by itself, provide the basis for an investigatory stop. In 
+so doing, the court noted that the officers were not 
+responding to a particular complaint of wrongdoing in 
+the area and that the defendant made no furtive ges- 
+tures prior to seeing the officers. Concluding that the 
+officers lacked an articulable basis for stopping the de- 
+fendant as he stood on the corner, the court turned to 
+the significance of his flight upon their approach. Not- 
+ing the ambiguous nature of flight as an indicator of 
+guilt, the court held that the act of running at the sight 
+of police patrolling a high-crime area did not provide 
+the particularized grounds necessary to support a 
+reasonable suspicion that criminal activity was afoot. 
+Mamon, 173 Mich. App. at 435-35, 435 N.W.2d at 14- 
+16. 
+
+
+Here, similar to Mamon, Officers Nolan and Harvey 
+were “caravaning” with several other police vehicles 
+
+
+App. 10 
+
+
+when the incident occurred: They were not responding 
+to any call or report of suspicious activity in the area. 
+Though Officer Nolan testified that that area of the 
+11th District is known for “high narcotics traffic,” we 
+agree with our appellate court’s opinion in Harper, 237 
+Ill. App. 3d at 205-06, and the numerous decisions from 
+other jurisdictions, holding that a person’s presence in 
+such an area by itself does not warrant a suspicion that 
+that person is involved in crime. See Brown v. Texas, 
+443 U.S. 47, 61 L. Ed. 2d 357, 99 S. Ct. 2637 (1979); 
+Hicks, 241 Neb. at 366, 488 N.W.2d at 365; Shabaz, 424 
+Mich. at 60, 378_N.W.2d at 459; see also In re D.dJ., 532 
+A.2d 138, 143 (D.C. App. 1987) (innocent activities do 
+not become sinister by the mere fact that they take 
+place in a high-crime area). 
+
+
+It is also clear that defendant herein gave no outward 
+indication of involvement in illicit activity prior to the 
+approach of Officer Nolan’s vehicle. Defendant was sim- 
+ply standing in front of a building when the officers 
+drove by. As in Mamon, the officers lacked an artic- 
+ulable basis for suspecting defendant of involvement in 
+criminal activity prior to the point at which he turned 
+and ran. 
+
+
+In Fox, the Illinois case which most closely approxi- 
+mates the issue presented herein, the appellate court 
+foreshadowed our concerns, stating: 
+
+
+“At the time of the stop, the investigating of- 
+ficers were aware that ‘partying and littering’ 
+had recently occurred in the *** area and also 
+that the vehicle in which the defendant was rid- 
+ing as a passenger exited the area at a speed 
+which one officer believed to be unreasonable 
+upon the approach of a squad car. But, the of- 
+
+
+App. 11 
+
+
+ficers testifying on behalf of the State did not 
+relate that any additional suspicious or unusual 
+activities that would have alerted the police to 
+the possibility of criminality were carried on by 
+the occupants of the automobile. *** 
+
+
+In short, the evidence adduced in this case 
+does not support the State’s contention that the 
+police were aware of specific and articulable 
+facts to justify the stop here. Rather, the evi- 
+dence suggests that the police officers were 
+operating under a suspicion or hunch that the 
+vehicle contained someone who had committed 
+or was about to commit a crime.” (Emphasis 
+added.) Fox, 97 Ill. App. 3d at 63-64. 
+
+
+Here, as in Fox, in the absence of circumstances cor- 
+roborating the conclusion that defendant was involved 
+in criminal activity, Officer Nolan’s testimony reveals 
+nothing more than a hunch. 
+
+
+As our brethren on the Supreme Court of Colorado 
+have so aptly stated: 
+
+
+“We are aware that the weighty social objec- 
+tive of crime prevention might well be served by 
+permitting stops and detentions without any re- 
+quirement of a reasonable suspicion that crimi- 
+nal activity has occurred or is about to take 
+place. In the absence of specific and articulable 
+facts supporting the reasonable suspicion, how- 
+ever, ‘the balance between the public interest 
+and (defendant’s] right to personal security and 
+privacy tilts in favor of freedom from police 
+interference.’ Brown v. Texas, [443 U.S.)} at 52, 
+99 S. Ct. at 2641, 61 L. Ed. 2d at 363.” Thomas, 
+660 P.2d at 1277. 
+
+
+App. 12 
+
+
+Where, as here, the police stop is not based upon ob- 
+jective criteria pointing to a reasonable suspicion of 
+criminal activity, “the risk of arbitrary and abusive 
+police practices exceeds tolerable limits.” Brown v. 
+Texas, 443 U.S. at 52, 61 L. Ed. 2d at 363, 99 S. Ct. at 
+2641. 
+
+
+Therefore, because Officer Nolan was not able to 
+point to specific facts corroborating the inference of 
+guilt gleaned from defendant’s flight, his stop and sub- 
+sequent arrest of defendant were constitutionally in- 
+firm. U.S. Const., amend. IV; Ill. Const 1970, art. I, $6. 
+The appellate court, therefore, properly reversed the 
+trial court’s denial of defendant’s motion to suppress 
+evidence. The weapon that was the basis for defen- 
+dant’s conviction should have been suppressed as the 
+product of the unconstitutional seizure of his person. 
+Wong Sun v. United States, 371 U.S. 471, 488, 9 L.Ed. 
+2d 441, 455, 83 S.Ct. 407, 417 (1963). 
+
+
+For the foregoing reasons, the judgment of the appel- 
+late court, reversing the judgment of the circuit court, 
+is affirmed. 
+
+
+Appellate court judgment affirmed. 
+
+
+App. 13 
+APPENDIX B 
+
+
+Opinion of The Appellate Court of Illinois 
+First District, Second Division 
+No. 1-96-0094, Filed March 18, 1997 
+
+
+PEOPLE OF THE 
+STATE OF ILLINOIS, 
+
+
+Plaintiff-Appellee, 
+
+
+Appeal from the 
+Circuit Court of 
+Cook County 
+
+
+No. 95 CR 26952 
+v. 
+
+
+SAM WARDLOW, 
+Defendant-Appellant. 
+
+
+we ee ee ee ee ee ee ee ee” 
+
+
+JUSTICE DiVITO delivered the opinion of the court: 
+
+
+Following a bench trial, defendaat Sam Wardlow was 
+found guilty of unlawful use of a weapon by a felon and 
+was sentenced to two years’ imprisonment. The sole 
+issue in this appeal is whether the circuit court erred 
+in denying defendant’s motion to suppress the gun that 
+was seized from him during an investigatory stop. For 
+the reasons that follow, we conclude that defendant’s 
+motion to suppress should have been granted and we 
+reverse his conviction. 
+
+
+At the hearing on defendant’s motion to suppress, 
+Officer Timothy Nolan testified tnat on September 9, 
+1995, he and his partner, Officer Harvey, were assigned 
+to the special operations section of the Chicago police 
+department. They were among eight officers in four 
+cars who were driving eastbound on West Van Buren. 
+Officer Nolan’s car was iast in the line of vehicles 
+driving in the area. Although Officer Nolan could not 
+
+
+App. 14 
+
+
+recall whether his car was marked, he and his partner 
+were in uniform. There was no evidence concerning 
+whether any of the other cars were marked or concern- 
+ing the clothing of the other officers. 
+
+
+The cars were “caravaning” eastbound down Van 
+Buren, when Officer Nolan observed defendant, who 
+was not violating any laws, standing near the front of 
+4035 West Van Buren Street. Defendant looked in the 
+officers’ direction, then fled. Holding a white bag under 
+his arm, he ran through a gangway and then through 
+an alley. Officer Nolan drove south, observing defen- 
+dant as he ran. Near 4036 West Congress, defendant 
+ran towards him. 
+
+
+Officer Nolan exited his car and stopped defendant. 
+Without announcing his office or asking any questions, 
+he conducted a protective pat-down search of defendant. 
+He could not see inside the plastic bag that defendant 
+was carrying. He patted the outside of the bag and “felt 
+a hard object that had a similar shape to a revolver or 
+a gun.” Officer Nolan believed the object, which was 
+very heavy, to be a weapon. He looked inside the bag 
+and found a .38-caliber handgun containing five live 
+rounds of ammunition. He then placed defendant under 
+arrest. 
+
+
+Officer Nolan testified that he and the other officers 
+had gone to the area because it was “one of the areas 
+in the 11th District that’s high narcotics traffic.” Based 
+upor his experience with investigation of areas in 
+which narcotics are sold, Officer Nolan knew that it 
+was common to find weapons in the vicinity of such 
+areas. 
+
+
+App. 15 
+
+
+The police report indicated that defendant, who was 
+44 years old, was arrested at 12:15 p.m. 
+
+
+The circuit court denied the motion to suppress. A 
+stipulated bench trial followed, and defendant was 
+found guilty of unlawful use of a weapon by a felon and 
+was sentenced to a two-year term of imprisonment. 
+
+
+In this appeal, defendant contends that the circuit 
+court erred in denying his motion to suppress because 
+his presence in a high crime area and flight from the 
+police officers were insufficient to justify his investiga- 
+tory stop. We note that although no Illinois court has 
+considered whether sudden flight from police officers in 
+a high crime area justifies a stop, other jurisdictions 
+are divided on the question. Compare Harris v. State, 
+205 Ga. App. 813, 423 S.E.2d 723 (1992), and State ° 
+White, 660 So. 2d 515 (La. Ct. App. 1995) (flight from 
+police officers in high crime area justifies investigatory 
+stop), with People v. Holmes, 81 N.Y.2d 1056, 619 
+N.E.2d 396, 601 N.Y.S.2d 459 (1993), affirmed, 89 
+N.Y.2d 838 (1996), Hopkins v. State, 661 So. 2d 774 
+(Ala. Crim. App. 1994), Britt v. State, 673 So. 2d 934 
+(Fla. App. 1996), and State v. Hicks, 241 Neb. 357, 488 
+N.W.2d 359 (1992) (flight from police officers in high 
+crime area does not justify stop). 
+
+
+Where, as here, there is no challenge to the facts or 
+the credibility of the witnesses, we review a motion to 
+suppress de novo. People v. Foskey, 136 Ill. 2d 66, 76, 
+554 N.E.2d 192 (1990); Ornelas v. United States, 517 
+US.__, ___, 184 L. Ed. 2d 911, 920, 116 S. Ct. 1657, 
+1663 (1996). 
+
+
+Under Terry v. Ohio, 392 U.S. 1, 20 L. Ed. 2d 889, 88 
+S. Ct. 1868 (1968) (codified at 725 ILCS 5/107-14 (West 
+
+
+App. 16 
+
+
+1994)), a police officer may stop and detain a person for 
+temporary questioning if the officer reasonably infers 
+from the situation that the person is committing, is 
+about to commit, or has committed a crime. Terry, 392 
+U.S. at 22, 20 L. Ed. 2d at 906-07, 88 S. Ct. at 1880. To 
+justify an investigatory stop, the police officer must be 
+able to point to specific and articulable facts that rea- 
+sonably warrant the intrusion. Terry, 392 U.S. at 21, 20 
+L. Ed. 2d at 906, 88 S. Ct. at 1880. In determining 
+whether a stop is reasonable, the court employs an ob- 
+jective standard: would an officer of reasonable caution, 
+knowing the facts available at the time of the stop, 
+believe the action was appropriate? People v. Rivera, 
+272 Ill. App. 3d 502, 504-05, 650 N.E.2d 1084 (1995), 
+appeal denied, 164 Ul. 2d 577, 660 N.E.2d 1277 (1995). 
+
+
+In Illinois, neither a person’s mere presence in an 
+area where drugs are sold (People v. Harper, 237 Ill. 
+App. 3d 202, 205, 603 N.E.2d 115 (1992)) nor sudden 
+flight (People v. Rivera, 233 Ill. App. 3d 69, 77, 598 
+N.E.2d 423 (1992)) alone will justify a Terry stop. Past 
+criminal activity in an area (People v. Hunt, 188 III. 
+App. 3d 359, 362, 544 N.E.2d 118 (1989), appeal denied, 
+128 Ill. 2d 668, 548 N.E.2d 1074 (1989)) and flight 
+(Rivera, 233 Il. App. 3d at 77), however, are relevant 
+factors to be ccnsidered in determining whether circum- 
+stances justify an investigatory stop. 
+
+
+For example, in People v. Rivera, 233 Ill. App. 3d 69, 
+76-77, 598 N.E.2d 423 (1992), police officers entered the 
+defendant’s bar, having received information that co- 
+caine was stored in the basement and the defendant 
+was involved in its sale and distribution. According to 
+the testimony of the police officers, the defendant ap- 
+
+
+ee ee 
+
+
+i i 
+
+
+a 
+
+
+App. 17 
+
+
+peared frightened and fled when they entered the bar. 
+Rivera, 233 Ill. App. 3d at 77. The court found that the 
+flight of defendant, combined with the information 
+known to the officers, provided the requisite reasonable 
+suspicicn. Rivera, 233 Ill. App. 3d at 77. 
+
+
+From the record before us, we cannot discern the 
+precise location of the area known by the officers to 
+have a high incidence of narcotics trafficking. After he 
+testified that he noticed defendant at 4035 West Van 
+Buren, Officer Nolan was asked why he went to that 
+area. He responded that it was one of the areas in the 
+llth District that had “high narcotics traffic.” His 
+testimony indicates only that the officers were headed 
+somewhere in the general area. There was no evidence 
+that the officers were investigating the specific area 
+where defendant had been standing or that any of the 
+police cars had stopped at that location or that defen- 
+dant had any basis for believing that police were in- 
+terested in his activity. 
+
+
+Officer Nolan testified that he was “caravaning” down 
+West Van Buren when he noticed defendant. He did not 
+testify that the officers were targeting 4035 West Van 
+Buren because it was known to be a location where 
+drugs were sold. From the evidence elicited at the 
+hearing on the motion to suppress, it appears that the 
+officers were simply driving by, on their way to some 
+unidentified location, when they noticed defendant 
+standing at 4035 West Van Buren. The record here is 
+simply too vague to support the inference that defen- 
+dant was in a location with a high incidence of narcot- 
+ics trafficking or, for that matter, that defendant’s 
+flight was related to his expectation of police focus on 
+him. 
+
+
+App. 18 
+
+
+Because we find no support in the record for the 
+contention that defendant was in a high crime location, 
+we are left only with the fact of his sudden flight from 
+an area past which police officers were driving. That 
+circumstance alone does not satisfy the requirements 
+for a lawful investigatory stop. Rivera, 233 Ill. App. 3d 
+at 77. Accordingly, the circuit court erred in denying 
+defendant’s motion to suppress. 
+
+
+We emphasize the limited nature of our holding. Be- 
+cause we recognize the importance of the police interest 
+in investigating crime, we do not hold that the presence 
+of a suspect in a high crime location, together with his 
+subsequent flight from police, is never grounds for a 
+Terry stop. Certainly, a “high crime area is a place in 
+which the character of the area gives color to conduct 
+which might not otherwise raise the suspicion of an 
+officer.” White, 660 So. 2d at 519. To pass constitution- 
+al muster, however, the high crime area should be a 
+sufficiently localized and identifiable location. This lim- 
+itation is necessary to “assure that an individual’s rea- 
+sonable expectation of privacy is not subject to arbi- 
+trary invasions solely at the unfettered discretion of 
+officers in the field,” simply because he or she happens 
+to live in a neighborhood where crime is prevalent. 
+Brown v. Texas, 443 U.S. 47, 51, 61 L. Ed. 2d 357, 362, 
+99 S. Ct. 2637, 2640 (1979). 
+
+
+Accordingly, the weapon that was the basis for de- 
+fendant’s conviction should have been suppressed be- 
+cause it was discovered as a result of an unjustified 
+investigative stop. Wong Sun v. United States, 371 U.S. 
+471, 488, 9 L. Ed. 2d 441, 455, 83 S. Ct. 407, 417 
+(1963). Rather than remanding, we reverse defendant's 
+
+
+App. 19 
+
+
+conviction outright because the State will not be able 
+to prevail without the recovered evidence. People v. 
+Evans, 259 Ill. App. 3d 650, 659, 631 N.E.2d 872 
+
+
+(1994). 
+The judgment of the circuit court is reversed. 
+Reversed. 
+RAKOWSKI and McNULTY, JJ., concur. 
+
+

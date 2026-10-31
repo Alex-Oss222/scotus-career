@@ -1,0 +1,11 @@
+# United Reporting — assembly status, no effective event
+
+The final reconciled non-Stone positions and the complete approved Stone supplement have been read. No Canonical Decision Record, opinion assignment, counted lead, new Court order or effective holding has been entered for this matter. Earlier Records remain the only current-term authority.
+
+The four open-commercial-merits commitments intentionally call for appellate vacatur and reconsideration of actual relief. Two other Associates would reverse the adjudicated commercial application on its merits, and two would affirm that application while confining relief. Stone's fixed facial-reversal and injunction-vacatur instruction remains distinct; it cannot silently supply the fifth vote for the four-Justice mandate. General agreement on further proceedings and scrutiny does not establish agreement on the operative application or complete remedy. No common complete majority mandate has been established in assembly.
+
+The clean confirmation of maintained own-injury claims satisfies a condition already present in Stone's approved position. It is not itself a displaced core premise. The unrecovered signed decree supplies no finding that approved relief is impossible, that the decree was universal or plaintiff-only, or that the Attorney General's separate restraint can be dissolved. A source-qualified account may identify the injunction reviewed in LAPD's appeal; it may not change fixed vacatur into reconsideration without approval. The different legal rationale is preserved as disagreement, not rewritten as a source fact.
+
+Further consideration or a supported final mandate requires its own authorized Engine process. This status file is not a Court action, certiorari disposition, plurality judgment, equal division or terminal closure. Control is assessing the precise outstanding disposition issue. Later unrelated events proceed with no effective United Reporting authority and no authorship count. A later earlier-dated Record would require chronology/dependency review and the Engine's actual-written-Record count rule.
+
+Operator-facing blocker: **United Reporting remains open because the final positions do not yet establish a common majority disposition and complete mandate for the commercial application and existing relief; no Court event or opinion assignment has been entered.**

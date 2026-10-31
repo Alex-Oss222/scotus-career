@@ -1,0 +1,284 @@
+[
+  {
+    "name": "flippo-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-11.pdf",
+    "status": "saved",
+    "bytes": 197457,
+    "text_chars": 9206
+  },
+  {
+    "name": "flippo-cornell-ZPC",
+    "url": "https://www.law.cornell.edu/supct/html/98-8770.ZPC.html",
+    "status": "saved",
+    "bytes": 10775,
+    "text_chars": 7468
+  },
+  {
+    "name": "lesage-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-18.pdf",
+    "status": "saved",
+    "bytes": 199852,
+    "text_chars": 10237
+  },
+  {
+    "name": "lesage-cornell-ZPC",
+    "url": "https://www.law.cornell.edu/supct/html/98-1111.ZPC.html",
+    "status": "saved",
+    "bytes": 11149,
+    "text_chars": 7876
+  },
+  {
+    "name": "fiore-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-23.pdf",
+    "status": "saved",
+    "bytes": 210863,
+    "text_chars": 17540
+  },
+  {
+    "name": "fiore-cornell-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-942.ZS.html",
+    "status": "saved",
+    "bytes": 5793,
+    "text_chars": 2980
+  },
+  {
+    "name": "fiore-cornell-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-942.ZO.html",
+    "status": "saved",
+    "bytes": 18531,
+    "text_chars": 13982
+  },
+  {
+    "name": "united-reporting-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-32.pdf",
+    "status": "saved",
+    "bytes": 243246,
+    "text_chars": 39800
+  },
+  {
+    "name": "united-reporting-cornell-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-678.ZS.html",
+    "status": "saved",
+    "bytes": 8036,
+    "text_chars": 4180
+  },
+  {
+    "name": "united-reporting-cornell-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-678.ZO.html",
+    "status": "saved",
+    "bytes": 22923,
+    "text_chars": 16294
+  },
+  {
+    "name": "united-reporting-cornell-ZC",
+    "url": "https://www.law.cornell.edu/supct/html/98-678.ZC.html",
+    "status": "saved",
+    "bytes": 6007,
+    "text_chars": 2762
+  },
+  {
+    "name": "united-reporting-cornell-ZC1",
+    "url": "https://www.law.cornell.edu/supct/html/98-678.ZC1.html",
+    "status": "saved",
+    "bytes": 7420,
+    "text_chars": 3976
+  },
+  {
+    "name": "united-reporting-cornell-ZD",
+    "url": "https://www.law.cornell.edu/supct/html/98-678.ZD.html",
+    "status": "saved",
+    "bytes": 15710,
+    "text_chars": 10322
+  },
+  {
+    "name": "drye-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-49.pdf",
+    "status": "saved",
+    "bytes": 228572,
+    "text_chars": 29672
+  },
+  {
+    "name": "drye-cornell-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-1101.ZS.html",
+    "status": "saved",
+    "bytes": 12179,
+    "text_chars": 8422
+  },
+  {
+    "name": "drye-cornell-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-1101.ZO.html",
+    "status": "saved",
+    "bytes": 28633,
+    "text_chars": 21498
+  },
+  {
+    "name": "kimel-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-62.pdf",
+    "status": "saved",
+    "bytes": 323437,
+    "text_chars": 105095
+  },
+  {
+    "name": "kimel-cornell-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-791.ZS.html",
+    "status": "saved",
+    "bytes": 14909,
+    "text_chars": 10028
+  },
+  {
+    "name": "kimel-cornell-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-791.ZO.html",
+    "status": "saved",
+    "bytes": 69889,
+    "text_chars": 54907
+  },
+  {
+    "name": "kimel-cornell-ZX",
+    "url": "https://www.law.cornell.edu/supct/html/98-791.ZX.html",
+    "status": "saved",
+    "bytes": 19319,
+    "text_chars": 14310
+  },
+  {
+    "name": "kimel-cornell-ZX1",
+    "url": "https://www.law.cornell.edu/supct/html/98-791.ZX1.html",
+    "status": "saved",
+    "bytes": 30693,
+    "text_chars": 22248
+  },
+  {
+    "name": "hill-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-110.pdf",
+    "status": "saved",
+    "bytes": 218875,
+    "text_chars": 19316
+  },
+  {
+    "name": "hill-cornell-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-1299.ZS.html",
+    "status": "saved",
+    "bytes": 6561,
+    "text_chars": 3579
+  },
+  {
+    "name": "hill-cornell-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-1299.ZO.html",
+    "status": "saved",
+    "bytes": 21739,
+    "text_chars": 15992
+  },
+  {
+    "name": "wardlow-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-119.pdf",
+    "status": "saved",
+    "bytes": 256197,
+    "text_chars": 49344
+  },
+  {
+    "name": "wardlow-cornell-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-1036.ZS.html",
+    "status": "saved",
+    "bytes": 7993,
+    "text_chars": 4578
+  },
+  {
+    "name": "wardlow-cornell-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-1036.ZO.html",
+    "status": "saved",
+    "bytes": 15906,
+    "text_chars": 11071
+  },
+  {
+    "name": "wardlow-cornell-ZX",
+    "url": "https://www.law.cornell.edu/supct/html/98-1036.ZX.html",
+    "status": "saved",
+    "bytes": 40775,
+    "text_chars": 32040
+  },
+  {
+    "name": "laidlaw-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-167.pdf",
+    "status": "saved",
+    "bytes": 328083,
+    "text_chars": 109220
+  },
+  {
+    "name": "laidlaw-cornell-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-822.ZS.html",
+    "status": "saved",
+    "bytes": 19841,
+    "text_chars": 14756
+  },
+  {
+    "name": "laidlaw-cornell-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-822.ZO.html",
+    "status": "saved",
+    "bytes": 58885,
+    "text_chars": 47849
+  },
+  {
+    "name": "laidlaw-cornell-ZC",
+    "url": "https://www.law.cornell.edu/supct/html/98-822.ZC.html",
+    "status": "saved",
+    "bytes": 8185,
+    "text_chars": 4390
+  },
+  {
+    "name": "laidlaw-cornell-ZC1",
+    "url": "https://www.law.cornell.edu/supct/html/98-822.ZC1.html",
+    "status": "saved",
+    "bytes": 4590,
+    "text_chars": 1449
+  },
+  {
+    "name": "laidlaw-cornell-ZD",
+    "url": "https://www.law.cornell.edu/supct/html/98-822.ZD.html",
+    "status": "saved",
+    "bytes": 47225,
+    "text_chars": 37491
+  },
+  {
+    "name": "torres-osg",
+    "url": "https://www.justice.gov/osg/brief/torres-v-sablan-motion-affirm",
+    "status": "saved",
+    "bytes": 106453,
+    "text_chars": 28088
+  },
+  {
+    "name": "torres-official",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-1110.pdf",
+    "status": "rejected: retrieved govinfo error document, not judicial source; false source files removed",
+    "bytes": 44172,
+    "text_chars": 1813
+  },
+  {
+    "name": "paul-p-openjurist",
+    "url": "https://openjurist.org/170/f3d/396/paul-q-v-verniero",
+    "status": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "steamfitters-openjurist",
+    "url": "https://openjurist.org/171/f3d/912/steamfitters-local-union-no-welfare-fund",
+    "status": "HTTP Error 403: Forbidden",
+    "verification": "Entire judicial text, appendix and notes 1-24 read with web browser retrieval; direct download refused."
+  },
+  {
+    "name": "paul-p-reprint",
+    "url": "https://www.sillscummis.com/wp-content/uploads/2021/07/170_F3d_396.pdf",
+    "status": "saved",
+    "bytes": 55159,
+    "text_chars": 40405
+  },
+  {
+    "name": "steamfitters-crosscheck",
+    "url": "https://app.midpage.ai/document/steamfitters-local-union-no-420-762629",
+    "status": "HTTP Error 429: Too Many Requests",
+    "verification": "Web retrieval confirmed caption, panel, date, docket and opening judicial text."
+  },
+  {
+    "name": "torres-journal",
+    "url": "https://www.supremecourt.gov/orders/journal/jnl99.pdf",
+    "status": "web-read printed page 491, PDF page 473",
+    "verification": "January 18, 2000; No. 99-475; Appeal; judgment affirmed. No named vote or separate statement printed."
+  }
+]

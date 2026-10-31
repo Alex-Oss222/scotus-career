@@ -1,16 +1,15 @@
 # OT1999 Term Working Ledger
 
-**Posture:** Opening OT1999; no current-term Record has been committed.  
-**Court events:** 0.  
-**Admitted source events:** 0.  
-**Effective chronology cursor:** Before the first supplied OT1999 event; the governing prior-term cutoff is June 23, 1999.
+Generated from canonical Records in the operator-supplied durable assembly order. Git history was not queried because the user prohibited all Git operations. Records control if this index conflicts with them.
 
-The published trackers identified in the [continuity note](continuity.md) supply the opening baseline. Prior-term events and the established grant/direct-appeal stages are not re-entered as new OT1999 Records. The [manifest](manifest.md) schedules 104 matters and preserves thirteen additional unscheduled pending matters; no planned item is marked complete.
-
-## Committed Records
-
-None.
-
-## Continuation
-
-At Run, preserve each completed Court event or admitted source in its own authoritative Record and rebuild this ledger in commitment order, retaining effective dates. The manifest and neutral projection supply the effective-order view. No repository commit or commit hash is asserted by this opening; operator verification and committing are separate from writing these projections.
+| Durable order | Effective date | Case and dockets | Event | Result | Version / lineage | Git history status | Record |
+|---:|---|---|---|---|---|---|---|
+| 1 | 1999-10-18 | Flippo v. West Virginia; No. 98-8770; Fayette County Circuit Court indictment No. 96-F-119 | Summary merits disposition, 1999-10-18; October Term 1999, chunk 1. | Certiorari granted; reversed and remanded, 9–0. | Original decision. Durable file handoff; no repository commit is asserted. | Not queried: Git prohibited | [record](../records/flippo-v-west-virginia_merits_1999-10-18.md) |
+| 2 | 1999-11-29 | Texas v. Lesage; No. 98-1111 | Summary merits disposition, 1999-11-29; October Term 1999, chunk 1. | Reversed in the stated respect and remanded, 9–0. | Original decision. Durable file handoff; no repository commit is asserted. | Not queried: Git prohibited | [record](../records/texas-v-lesage_merits_1999-11-29.md) |
+| 3 | 1999-11-30 | Fiore v. White; No. 98-942 | Certification of state-law question, 1999-11-30; October Term 1999, chunk 1. | Certified question; jurisdiction retained; federal judgment and relief reserved, unanimously. | Original decision. Durable file handoff; no repository commit is asserted. | Not queried: Git prohibited | [record](../records/fiore-v-white_certification_1999-11-30.md) |
+| 4 | 1999-12-07 | Drye v. United States; No. 98-1101 | Plenary merits decision, 1999-12-07; October Term 1999, chunk 1. | Affirmed, 9–0. | Original decision. Durable file handoff; no repository commit is asserted. | Not queried: Git prohibited | [record](../records/drye-v-united-states_merits_1999-12-07.md) |
+| 5 | 1999-12-13 | Rayphand v. Sablan / Torres v. Sablan; No. 99-475; below No. 97-0029, 95 F. Supp. 2d 1133 | Plenary direct-appeal merits decision, 1999-12-13; October Term 1999, chunk 1. | Affirmed, 8–1; direct appellate jurisdiction sustained unanimously. | Original decision. Durable file handoff; no repository commit is asserted. | Not queried: Git prohibited | [record](../records/rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md) |
+| 6 | 2000-01-10 | Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc.; Third Circuit No. 98-1426; 171 F.3d 912; no Supreme Court docket supplied | Plenary merits decision, 2000-01-10; October Term 1999, chunk 1. | Federal RICO and Clayton Act dismissals affirmed, 9–0. | Original decision. Durable file handoff; no repository commit is asserted. | Not queried: Git prohibited | [record](../records/steamfitters-v-philip-morris_merits_2000-01-10.md) |
+| 7 | 2000-01-11 | Kimel v. Florida Board of Regents / United States v. Florida Board of Regents; Nos. 98-791 and 98-796 | Plenary merits decision, 2000-01-11; October Term 1999, chunk 1. | Reversed and remanded, 5–4. | Original decision. Durable file handoff; no repository commit is asserted. | Not queried: Git prohibited | [record](../records/kimel-v-florida-board-of-regents_merits_2000-01-11.md) |
+| 8 | 2000-01-12 | Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc.; No. 98-822 | Plenary merits decision, 2000-01-12; October Term 1999, chunk 1. | Reversed and remanded, 7–2; district penalty judgment returned to ordinary unresolved appellate review. | Original decision. Durable file handoff; no repository commit is asserted. | Not queried: Git prohibited | [record](../records/friends-of-the-earth-v-laidlaw_merits_2000-01-12.md) |
+| 9 | 2000-01-12 | Illinois v. Wardlow; No. 98-1036 | Plenary merits decision, 2000-01-12; October Term 1999, chunk 1. | Affirmed, 5–4. | Original decision. Durable file handoff; no repository commit is asserted. | Not queried: Git prohibited | [record](../records/illinois-v-wardlow_merits_2000-01-12.md) |

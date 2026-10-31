@@ -1,0 +1,68 @@
+Source: https://www.govinfo.gov/content/pkg/USCODE-1999-title28/html/USCODE-1999-title-app-dup3.htm
+Rule 62. Stay of Proceedings To Enforce a Judgment 
+ 
+ 
+ (a)  Automatic Stay; Exceptions—Injunctions, Receiverships, and Patent Accountings . Except as stated herein, no execution shall issue upon a judgment nor shall proceedings be taken for its enforcement until the expiration of 10 days after its entry. Unless otherwise ordered by the court, an interlocutory or final judgment in an action for an injunction or in a receivership action, or a judgment or order directing an accounting in an action for infringement of letters patent, shall not be stayed during the period after its entry and until an appeal is taken or during the pendency of an appeal. The provisions of subdivision (c) of this rule govern the suspending, modifying, restoring, or granting of an injunction during the pendency of an appeal. 
+ (b)  Stay on Motion for New Trial or for Judgment . In its discretion and on such conditions for the security of the adverse party as are proper, the court may stay the execution of or any proceedings to enforce a judgment pending the disposition of a motion for a new trial or to alter or amend a judgment made pursuant to Rule 59, or of a motion for relief from a judgment or order made pursuant to Rule 60, or of a motion for judgment in accordance with a motion for a directed verdict made pursuant to Rule 50, or of a motion for amendment to the findings or for additional findings made pursuant to Rule 52(b). 
+ (c)  Injunction Pending Appeal . When an appeal is taken from an interlocutory or final judgment granting, dissolving, or denying an injunction, the court in its discretion may suspend, modify, restore, or grant an injunction during the pendency of the appeal upon such terms as to bond or otherwise as it considers proper for the security of the rights of the adverse party. If the judgment appealed from is rendered by a district court of three judges specially constituted pursuant to a statute of the United States, no such order shall be made except (1) by such court sitting in open court or (2) by the assent of all the judges of such court evidenced by their signatures to the order. 
+ (d)  Stay Upon Appeal . When an appeal is taken the appellant by giving a supersedeas bond may obtain a stay subject to the exceptions contained in subdivision (a) of this rule. The bond may be given at or after the time of filing the notice of appeal or of procuring the order allowing the appeal, as the case may be. The stay is effective when the supersedeas bond is approved by the court. 
+ (e)  Stay in Favor of the United States or Agency Thereof . When an appeal is taken by the United States or an officer or agency thereof or by direction of any department of the Government of the United States and the operation or enforcement of the judgment is stayed, no bond, obligation, or other security shall be required from the appellant. 
+ (f)  Stay According to State Law . In any state in which a judgment is a lien upon the property of the judgment debtor and in which the judgment debtor is entitled to a stay of execution, a judgment debtor is entitled, in the district court held therein, to such stay as would be accorded the judgment debtor had the action been maintained in the courts of that state. 
+ (g)  Power of Appellate Court Not Limited . The provisions in this rule do not limit any power of an appellate court or of a judge or justice thereof to stay proceedings during the pendency of an appeal or to suspend, modify, restore, or grant an injunction during the pendency of an appeal or to make any order appropriate to preserve the status quo or the effectiveness of the judgment subsequently to be entered. 
+ (h)  Stay of Judgment as to Multiple Claims or Multiple Parties . When a court has ordered a final judgment under the conditions stated in Rule 54(b), the court may stay enforcement of that judgment until the entering of a subsequent judgment or judgments and may prescribe such conditions as are necessary to secure the benefit thereof to the party in whose favor the judgment is entered. 
+ 
+ 
+ (As amended Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 17, 1961, eff. July 19, 1961; Mar. 2, 1987, eff. Aug. 1, 1987.) 
+ 
+ 
+ 
+ Notes of Advisory Committee on Rules—1937 
+ Note to Subdivision (a ). The first sentence states the substance of the last sentence of U.S.C., Title 28, [former] §874 (Supersedeas). The remainder of the subdivision states the substance of the last clause of U.S.C., Title 28, [former] §227 (Appeals in proceedings for injunctions; receivers; and admiralty), and of [former] §227a (Appeals in suits in equity for infringement of letters patent for inventions; stay of proceedings for accounting), but extended to include final as well as interlocutory judgments. 
+ Note to Subdivision (b ). This modifies U.S.C., Title 28, [former] §840 (Executions; stay on conditions). 
+ Note to Subdivision (c ). Compare [former] Equity Rule 74 (Injunction Pending Appeal); and  Cumberland Telephone and Telegraph Co. v. Louisiana Public Service Commission , 260 U.S. 212 (1922). See Simkins,  Federal Practice  (1934) §916 in regard to the effect of appeal on injunctions and the giving of bonds. See U.S.C., [former] Title 6 (Official and Penal Bonds) for bonds by surety companies. For statutes providing for a specially constituted district court of three judges, see: 
+ 
+ U.S.C., Title 7: 
+  §217 (Proceedings for suspension of orders of Secretary of Agriculture under Stockyards Act)—by reference. 
+  §499k (Injunctions; application of injunction laws governing orders of Interstate Commerce Commission to orders of Secretary of Agriculture under Perishable Commodities Act)—by reference. 
+ 
+ U.S.C., Title 15: 
+  §28 (Antitrust laws; suits against monopolies expedited) 
+ 
+ U.S.C., Title 28: 
+  §47 [now 2325] (Injunctions as to orders of Interstate Commerce Commission, etc.) 
+  §380 [now 2284] (Injunctions; alleged unconstitutionality of State statutes.) 
+  §380a [now 2284] (Same; constitutionality of federal statute) 
+ 
+ U.S.C., Title 49: 
+  §44 [former] (Suits in equity under interstate commerce laws; expedition of suits) 
+ 
+ Note to Subdivision (d ). This modifies U.S.C., Title 28, [former] §874 (Supersedeas). See Rule 36(2), Rules of the Supreme Court of the United States, which governs supersedeas bonds on direct appeals to the Supreme Court, and Rule 73(d), of these rules, which governs supersedeas bonds on appeals to a circuit court of appeals. The provisions governing supersedeas bonds in both kinds of appeals are substantially the same. 
+ Note to Subdivision (e ). This states the substance of U.S.C., Title 28, §870 [now 2408] (Bond; not required of the United States). 
+ Note to Subdivision (f ). This states the substance of U.S.C., Title 28, [former] §841 (Executions; stay of one term) with appropriate modification to conform to the provisions of Rule 6(c) as to terms of court. 
+ 
+ 
+ Notes of Advisory Committee on Rules—1946 Amendment 
+ Subdivision (a ). [This subdivision not amended]. Sections 203 and 204 of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 U.S.C. [App.] §501  et seq . [§§523, 524]) provide under certain circumstances for the issuance and continuance of a stay of execution of any judgment or order entered against a person in military service. See  Bowsman v. Peterson  (D.Neb. 1942) 45 F.Supp. 741. Section 201 of the Act [50 U.S.C. App. §521] permits under certain circumstances the issuance of a stay of any action or proceeding at any stage thereof, where either the plaintiff or defendant is a person in military service. See also Note to Rule 64 herein. 
+ Subdivision (b ). This change was necessary because of the proposed addition to Rule 59 of subdivision (e). 
+ Subdivision (h ). In proposing to revise Rule 54(b), the Committee thought it advisable to include a separate provision in Rule 62 for stay of enforcement of a final judgment in cases involving multiple claims. 
+ Notes of Advisory Committee on Rules—1948 Amendment 
+ Section 210 of the Judicial Code, as amended, U.S.C., Title 28, §47a, is repealed by revised Title 28 and its provisions that stays pending appeals to the Supreme Court in Interstate Commerce Commission cases may be granted only by that court or a justice thereof are not included in revised Title 28. Prior to this repeal the additional general reference in subdivision (g) to “other statutes of the United States”, was needed as a safety residual provision due to the specific reference to Section 210 of the Judicial Code. With the repeal of this latter section there is no need for the residual provision, which has no present applicability; and to the extent that any statute is enacted providing “that stays pending appeals to the Supreme Court may be granted only by that court or a justice thereof” it will govern and will not be inconsistent or repugnant to subdivision (g) as amended. 
+ Notes of Advisory Committee on Rules—1961 Amendment 
+ These changes conform to the amendment of Rule 54(b). 
+ Notes of Advisory Committee on Rules—1987 Amendment 
+ The amendment is technical. No substantive change is intended. 
+ 
+ 
+ Cross References 
+ Deposit of bonds or notes of United States in lieu of surety, see section 9303 of Title 31, Money and Finance. 
+ Execution, see rule 69. 
+ Security not required of United States, see section 2408 of this title. 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 

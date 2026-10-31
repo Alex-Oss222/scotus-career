@@ -1,0 +1,133 @@
+**Case and dockets:** Flippo v. West Virginia; No. 98-8770; Fayette County Circuit Court indictment No. 96-F-119
+**Event and date:** Summary merits disposition, 1999-10-18; October Term 1999, chunk 1.
+**Result:** Certiorari granted; reversed and remanded, 9–0.
+**Version / lineage:** Original decision. Durable file handoff; no repository commit is asserted.
+
+## Event, participation, and entering law
+
+Submitted without oral argument on the preserved federal suppression question. The operative judgment is the Fayette County Circuit Court's after the Supreme Court of Appeals of West Virginia denied discretionary review on January 13, 1999. The Court reaches only the categorical homicide-scene justification and the closed-container inference. Entering law is the June 23, 1999 opening baseline, including Mincey, Thompson, Hicks, Chapman and Dickerson's authorized-intrusion limit. No earlier OT1999 Record exists. The 1996 emergency entry is accepted; the later secured-cabin evidentiary search lasted more than sixteen hours. Findings needed for independent consent, inventory, exigency and harmlessness remain absent, without proving those defenses false.
+
+All nine Justices participate at submission and decision: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer. The nine-member Court has a quorum; five votes supply a majority. No recusal or nonparticipation is supplied.
+
+## Stone's approved position and final action
+
+The October 31, 2026 approved supplement directs grant, reversal and remand on both stated issues. Stone joins the complete per curiam: emergency aid and properly supported protective or evidence-preservation measures retain their own predicates, but homicide alone and a visible unlocked closed briefcase authorize no further search. He reserves preserved independent exceptions, attenuation, harmlessness and unpresented retrial questions. No standing fallback or substantive narrowing is used; the existing approved core supports every joined proposition.
+
+## OPINION TABLE
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Per curiam opinion | The Court | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous reversal and remand | Entire opinion |
+
+**Counted signed plenary lead:** No
+
+## Assignment and final compatibility
+
+**Form first:** Reasoned per curiam summary reversal: the categorical homicide-scene rule is foreclosed by Mincey and Thompson, and the unresolved alternatives require ordinary remand. Form and F1–F3 were selected before any assignment count. No signed plenary lead is warranted by this settled-rule summary disposition.
+
+**Assignment authority:** Stone-Zsela. The Chief is in the judgment coalition.
+
+**Recount from actual earlier Record opinion tables:** Stone-Zsela: 0; Stevens: 0; O'Connor: 0; Scalia: 0; Kennedy: 0; Souter: 0; Thomas: 0; Ginsburg: 0; Breyer: 0.
+
+**Last counted event:** No counted event precedes this assignment.
+
+**Eligible authors:** No individual author; institutional per curiam disposition.
+
+**Balance pool:** Not applicable to this per curiam disposition.
+
+**Author selected:** Per curiam. No individual authorship is assigned to this institutional summary disposition.
+
+**Final compatibility:** Stone's approved F1–F3 positions and each of the eight frozen Associate positions support the complete categorical-rule, closed-container and bounded-remand rationale. All nine join the per curiam in full. No revision of a frozen commitment and no separate writing is needed. The incident grant is stated without a petition poll.
+
+## Controlling decision kernel and continuity
+
+The controlling holdings, proposition-level authority, exact judgment and remedy, precedent treatment, and post-action stage are the bounded Public Projection below; they are part of this canonical kernel without alteration. No new general warrant exception or suppression remedy is created. The resulting state proceeding remains open on preserved alternative justifications and harmlessness. There is no published noncontrolling position. Later Wardlow analysis must keep the initial stop and later frisk distinct, but this application changes no Terry standard.
+
+## Sources, research cutoff, and validation
+
+Material factual and procedural support: the frozen neutral Flippo packet, Fayette County suppression order dated May 28, 1997, and state discretionary denial identified there. The final reconciliation verifies the published record at 528 U.S. 11 as source evidence, not as the authority for this Court's vote. No original filing is represented as independently read by assembly. The frozen neutral validation confirms the bounded remand path.
+
+Research cutoff: 1999-10-18. The frozen neutral packet, neutral validation, supplements and final reconciled handoff govern the identified source limits. Original-record facts, published recitations, reconstructed scheduling and this Court's legal conclusions remain distinct. No later historical action is admitted. Local validation checks the four opening labels, eleven-block order, authored topology, assignment arithmetic from actual earlier opinion tables, and durable sequence; the operator performs the coordinated workspace and term checks. Durably preserved October 31, 2026, for current-term integration. No Git command or repository-commit verification is performed by assembly.
+
+## Adaptive audit annex
+
+The following applicable final reconciled section is copied mechanically from the frozen handoff. It supplies each non-Stone Justice's ground, historical reconciliation, and limits. Assignment and final Stone compatibility above are assembly conclusions; no non-Stone commitment is silently changed.
+
+## Flippo v. West Virginia — October 18, 1999
+
+**Reach and components.** Review the Fayette County Circuit Court's final operative judgment after the state high court's discretionary denial. Grant certiorari as the incident necessary to the submitted summary action; no separate published petition tally is proposed. F1 rejects the categorical homicide-scene exception. F2 rejects the premise that seeing a closed container permits opening it. F3 reverses the judgment insofar as it rests on that categorical rationale and remands for preserved independent exceptions and harmlessness. It does not finally direct exclusion, acquittal, a new trial, or findings against the State on unadjudicated alternatives.
+
+**Common sufficient rule.** An actual emergency may justify entry and a search within its scope. The discovery of a homicide does not authorize a subsequent general evidentiary search after that justification ends. A closed briefcase's visibility does not expose its contents. Mincey and Thompson supply the categorical answer; Hicks supplies the observation/further-search distinction. Dickerson's governing scope rule applies the same requirement that evidence be discovered during an authorized intrusion. Consent, a properly confined inventory, another genuine exigency and Chapman harmlessness require their own supported application. The packet's absence of findings is not proof that those defenses are factually false.
+
+| Justice | Commitment on F1–F3 and own date-eligible support | Material limit or join barrier |
+|---|---|---|
+| Stevens | Reverse and remand; join F1–F3. His Dickerson joins distinguish an authorized protective intrusion from later investigative manipulation and support applying Mincey to the closed briefcase. | No final suppression order without resolution of independent preserved grounds. |
+| O'Connor | Reverse and remand; join F1–F3. Her Dickerson joins and Ornelas opinion preserve the legal limit while leaving unmade factual findings to the proper tribunal. | No inference that requesting emergency assistance necessarily consents to a sixteen-hour evidence search. |
+| Scalia | Reverse and remand; join F1–F3. His Hicks opinion and Dickerson joins prohibit creating probable cause or lawful access through the additional search. | His Ornelas review objection does not defend the categorical homicide rule; no new general appellate-review holding is needed. |
+| Kennedy | Reverse and remand; join F1–F3. His Dickerson and Ornelas joins support a distinct authorization for the later intrusion and a remand bounded by actual findings. | Preserve the possibility of a valid independent exception without finding it. |
+| Souter | Reverse and remand; join F1–F3. His Dickerson joins distinguish discovery during lawful contact from an independent search after the protective purpose ended. | Do not conflate the admissibility question with the photographs' effect on the verdict. |
+| Thomas | Reverse and remand; join F1–F3. His Dickerson Part II join accepts the authorized-intrusion limit. His nonjoin in that case's final suppression application supplies no reason to preserve an expressly invalid categorical rule here. | Remand allows the distinct factual and harmlessness questions; it is not a finding that all evidence is suppressible. |
+| Ginsburg | Reverse and remand; join F1–F3. Her Ornelas and Fields joins separate constitutional sufficiency from historical findings; Mincey and Thompson leave no open homicide exception. | No appellate invention of consent, inventory practice or exigency. |
+| Breyer | Reverse and remand; join F1–F3. His Ornelas and Fields joins support the same division between a settled legal rule and unresolved independent justifications. | The initial emergency entry remains accepted; the holding concerns the later evidence search. |
+
+**Alternative path.** Affirmance would require an independent exception or harmlessness established on undisputed findings. The packet affirmatively identifies the absence of findings adequate to make that determination here. A categorical homicide rule is not a lawful substitute. Conversely, immediate unconditional suppression would decide the reserved alternatives without their necessary findings. A short reasoned summary reversal with ordinary remand preserves both limits.
+
+**Historical reconciliation — retained.** All eight named rows and F1–F3 remain as independently frozen. The per curiam at 528 U.S. 11 rejects the same categorical theory and leaves properly raised alternative exceptions and harmless error for remand. No material changed premise or contrary historical individual position is established. The opinion publishes no separate writing or named dissent; the comparator's conventional 9–0 metadata is not a published individual petition poll. The final Reports' Fayette County caption controls the preliminary Cornell discrepancy. This adjudicates the categorical rule and the closed-container inference needed here, not every potential exception.
+
+## Public Projection
+
+## Event
+
+Flippo v. West Virginia, No. 98-8770. Summary merits disposition, October 18, 1999. Submitted without oral argument. On writ of certiorari to the Circuit Court of West Virginia, Fayette County, after the State Supreme Court denied discretionary review. The question is whether a general homicide-scene exception permitted the prolonged warrantless evidentiary search of the secured cabin and opening of a closed briefcase.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer participate.
+
+## Public Action
+
+The petition for certiorari is granted. The Court summarily reverses and remands by a reasoned per curiam opinion. No individual petition vote is disclosed.
+
+## Judgment & Remedy
+
+Reversed and remanded, 9–0. Supporting: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer. The Circuit Court's judgment cannot rest on a general homicide-scene exception. The state courts may consider preserved, legally supported independent warrant exceptions and harmless error. No acquittal, unconditional suppression, new trial, or resolution of unpresented retrial questions is ordered.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Per curiam opinion | The Court | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous reversal and remand | Entire opinion |
+
+## Holdings
+
+**Emergency authority does not become general investigative authority.** Police may enter to render emergency aid, locate victims or a dangerous person, and take supported protective or evidence-preservation measures within their actual justification. Once that justification ends, the occurrence of a homicide does not authorize a prolonged warrantless evidentiary search.
+
+**Authority:** The unanimous per curiam opinion supplies the controlling rule and its application.
+
+**Controlling explanation:** Mincey and Thompson reject an exception based on the crime's gravity. Here the cabin had been secured before the extended evidence-gathering search, and the trial court authorized a search of everything at the scene without tying it to an existing emergency. Dickerson likewise confines a lawful initial intrusion to its authorized purpose. The accepted emergency entry therefore cannot sustain the later categorical search. This conclusion preserves properly supported emergency action on its own facts.
+
+**A closed briefcase requires separate search authority.** Seeing an unlocked but closed briefcase does not expose the photographs and negatives concealed within it. Opening it requires a warrant or a separately established exception.
+
+**Authority:** The same unanimous opinion controls.
+
+**Controlling explanation:** Hicks distinguishes observation from an additional search. The briefcase's location near the body and unlocked condition did not reveal its contents or create authority to inspect them. The trial court made no findings adequate for this Court to resolve implied consent, standardized inventory, another exigency, or harmlessness. Those preserved questions remain for the state courts; absence of findings does not establish that every alternative fails.
+
+## Precedent Treatment
+
+Mincey v. Arizona and Thompson v. Louisiana are applied to reject a homicide-scene exception. Minnesota v. Dickerson is applied for the limit imposed by an intrusion's actual authorization. Arizona v. Hicks is applied to distinguish viewing a container from searching concealed contents. Chapman v. California remains the standard for any properly presented harmless constitutional error. No precedent is overruled or broadened into an unconditional suppression rule.
+
+## Law After Decision
+
+The warrant default and recognized, fact-dependent exceptions remain unchanged. A secured homicide scene and a closed container cannot be searched on a categorical crime-scene rationale; independent justifications and harmlessness retain their separate requirements.
+
+## Separate Writings
+
+
+
+## Procedure After Action
+
+The case returns to the state courts for proceedings consistent with the rejection of the categorical rationale, including only preserved and legally supported alternative exceptions and harmlessness. Attenuation and other unpresented remedial questions are not decided.
+
+## Source Notes
+
+The Fayette County suppression order and the state denial of discretionary review establish the route and the grounds addressed below. The published record at 528 U.S. 11 supports the cabin, briefcase, and unresolved-alternative facts. Mincey, 437 U.S. 385; Thompson, 469 U.S. 17; Hicks, 480 U.S. 321; and Chapman, 386 U.S. 18 supply the identified surviving rules.

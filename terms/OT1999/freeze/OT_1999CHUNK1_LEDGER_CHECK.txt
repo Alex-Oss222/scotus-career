@@ -1,0 +1,13 @@
+C:\Users\alexl\Projects\scotus-career\terms\OT1999\workspace\ledger.md: 9 records
+Ledger uses supplied durable assembly order; no Git-history order is asserted.
+Git operations were prohibited. Git history and referenced-commit existence were not verified.
+Suppressed Git calls before process launch: 9.
+DEFERRED: Record first-commit history: terms/OT1999/records/drye-v-united-states_merits_1999-12-07.md
+DEFERRED: Record first-commit history: terms/OT1999/records/fiore-v-white_certification_1999-11-30.md
+DEFERRED: Record first-commit history: terms/OT1999/records/flippo-v-west-virginia_merits_1999-10-18.md
+DEFERRED: Record first-commit history: terms/OT1999/records/friends-of-the-earth-v-laidlaw_merits_2000-01-12.md
+DEFERRED: Record first-commit history: terms/OT1999/records/illinois-v-wardlow_merits_2000-01-12.md
+DEFERRED: Record first-commit history: terms/OT1999/records/kimel-v-florida-board-of-regents_merits_2000-01-11.md
+DEFERRED: Record first-commit history: terms/OT1999/records/rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md
+DEFERRED: Record first-commit history: terms/OT1999/records/steamfitters-v-philip-morris_merits_2000-01-10.md
+DEFERRED: Record first-commit history: terms/OT1999/records/texas-v-lesage_merits_1999-11-29.md

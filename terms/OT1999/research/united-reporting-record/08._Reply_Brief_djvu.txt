@@ -1,0 +1,1007 @@
+ee eee 
+
+
+Supreme Court, U.& 
+FIDED 
+
+
+j AUS 23 1999 ° 
+
+
+BOE OF THE che 
+BOE OF THE CLERK 
+
+
+er. 
+
+
+No. 98-678 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1999 
+
+
+Los Angeles Police Department, 
+Petitioner, 
+
+
+Vv. 
+
+
+United Reporting Publishing Corp.., 
+Respondent. 
+
+
+On Writ of Certiorari 
+to the United States Court of Appeals 
+for the Ninth Circuit 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+James K. Hahn Thomas C. Goldstein 
+Fredrick N. Merkin (Counsel of Record) 
+Office of the City Attorney Samuel C. Kaplan 
+
+1800 City Hall East Boies & Schiller, LLP 
+
+200 N. Main St. 5301 Wisconsin Ave., NW 
+Los Angeles, CA 90012 Suite 570 
+
+
+Washington, D.C. 20015 
+(202) 237-5677 
+
+
+August 23, 1999 
+
+
+TABLE OF CONTENTS 
+
+
+Pages 
+ee ae Ce ercrtcerenenernennecscsenscseqnecicenmmnmetnnnnne i 
+PRE Ce FER CRE ED errs rsesetcensencecenevmenssessesseserenens il 
+PRR eS COE BUMS WEEE OE Bese Oia cccccccccecssessrsensevevcesonescossscnssense l 
+
+
+I. Section 6254 Is A Valid Restriction On Access To 
+Government Records That Balances Individual 
+Privacy And Benefits To The Public. ................::cc::cceceee 2 
+
+
+[I. The Historical Evidence Establishes Only That There 
+Is No First Amendment Right Of Public Access To 
+
+
+I TE, seerctccestrtnneniemnmimnnmmennnen 13 
+III. Respondent’s Remaining Arguments Are Not Properly 
+ITE CHI AIS ccnepnnscsscessssennseenensmamuiiosionooissiacen 16 
+
+
+Se esnrnccsascncsnesensnsoneceumaseswevevescesseesssusonsienessemnensns 18 
+
+
+TABLE OF AUTHORITIES 
+Pages 
+Cases 
+
+City of Cincinnati v. Discovery Network, 507 US 410 
+
+CIB Pa coccscoseseussnceassseessnssnosensenieiistsiasansiiemsaniiiinaniniamiaiasaiaia 10 
+El Vocero De Puerto Rico v. Puerto Rico, 508 US 147 
+
+(SFIS) GRGE CIID .cccevccsescepsecsnsinntatennnennininimmeneinags 15 
+Florida Star v. BJF, 491 US 524 (1989) oo... ccccccceceeeeeeeeeeeeees sf) 
+Greater New Orleans Broadcasting Assn. v. United States, 
+
+BPD BCR, FRR Cie pi cccrnscicsunsiteviissineenicecnmnetnniniindibapaiiuntaania 9 
+Houchins v. KOED, 438 US 1 (1978) .o..cccccecccceeessseeeeeeeeeeeees 5 
+Press-Enterprise Co. v. Superior Court, 478 US 1 
+
+(REID cocnccnvscesenssnsscenssniiensenniessnsesiiineniaitiaasiantaninaanaaaall 14,15 
+Regan v. Taxation With Representation, 461 US 540 
+
+CTD Pa ccvcsesecssesccnsenaseonssessensensnsseeiisaeianeninnnsnniiiianaaniaiasaaniae 5 
+Richmond Newspapers v. Virginia, 448 US 555 (1980)......... 6 
+Rubin v. Coors Brewing Co., 514 US 476 (1995)... 9 
+Seattle Times Co. v. Rhinehart, 467 US 20 (1984)................. 5 
+Turner Broadcasting System v. FCC, 512 US 622 (1994).....6 
+United States Department of Justice v. Reporter's 
+
+Committee for Freedom of the Press, 489 US 749 
+
+CR TIID A. cccconscsscusansneesnnnssntiaseetensiitnisiaaamaanaal 11, 12, 16 
+Whalen v. Roe, 429 US 589 (1972) ........ccccssscceessseeceessseeesneees 2 
+
+Statutes 
+
+D URE, BiB cccercccnsssasesncosensesesensentecssasiisuaneesenmiaasainianaanal 6, 17 
+Cal, Gay's Cae GIG .ccoconssssessnsesocssineniinmnieimsennsaaaantl passim 
+
+
+Cal, LA, Cae 45B. 7 ..cccecesceosessssessnssuenseonsessneaidaimmesnaeasaiani 8 
+
+
+Other Authorities 
+
+
+EE ee 
+
+
+Carol S. Steiker, Second Thoughts About First Principles, 
+
+
+107 Harv. L. Rev. 820 (1994) 
+
+
+REPLY OF THE PETITIONER 
+
+
+None of the arguments advanced by Respondent and its 
+supporting amici (collectively “Respondent”) justify the 
+Ninth Circuit's decision invalidating Cal. Gov't Code 
+6254(f(3) under the First Amendment. Three arguments 
+merit discussion here. First, Respondent is triply wrong when 
+it claims that Section 6254 irrationally restricts the use of ar- 
+rest records in commercial speech while permitting the use of 
+the same information for many other purposes. In reality, the 
+statute (i) restricts access to (not use of ) government records, 
+(ii) does so only for two pieces of information — the victim's 
+and arrestee’s addresses, and (iii) is not directed at commer- 
+cial speech at al!. Second, the historical evidence collected by 
+Respondent does not come close to establishing that there is a 
+First Amendment right of general public access to the infor- 
+mation in question here: the addresses of arrestees and crime 
+victims. Third, Respondent's allegations that certain provi- 
+sions of Section 6254 are unconstitutionally vague or improp- 
+erly discriminate against Respondent's publication, “The 
+Register,” are not properly presented by this facial challenge 
+to the statute. ' 
+
+Before expanding on those points, Petitioner emphasizes 
+again that this Court’s precedents properly leave it to legisla- 
+tures to determine whether and how to release government 
+records that contain private information. This Court has long 
+been aware “of the threat to privacy implicit in the accumula- 
+
+
+For obvious reasons, Petitioner will not address Respon- 
+dent’s argument that Section 6254 violates the California Constitu- 
+tion. Resp. Br. 48. Petitioner also will not address several theories 
+that Respondent advances in passing, none of which were discussed 
+by the lower courts. These include the arguments that Section 6254 
+violates Respondent's rights to due process and equal protection, 
+and also is unconstitutionally overbroad and underinclusive. /d. 
+45-48. 
+
+
+2 
+
+
+tion of vast amounts of personal information in computerized 
+data banks or other massive government files,” including 
+through “the enforcement of the criminal laws.” Whalen v. 
+Roe, 429 US 589, 605 (1972). This case presents the question 
+whether, in the face of ever-changing technology and con- 
+cerns for privacy, this Court should constitutionalize a nght of 
+access to this information for all those who wish to profit 
+from its dissemination. It simply cannot be that California’s 
+efforts to ensure that the public is informed about crime re- 
+quire the state to support a private business in its efforts to 
+sell private information about the citizenry. Such a holding 
+would contravene this Court’s repeated admonition that the 
+release of government records is a matter of legislative grace 
+and that the government's decision not to subsidize speech 
+does not implicate the First Amendment. The judgment be- 
+low accordingly should be reversed. 
+
+
+I. Section 6254 Is A Valid Restriction On Access To 
+Government Records That Balances Individual Pri- 
+yacy And Benefits To The Public. 
+
+
+Respondent proceeds from the false premise that Section 
+6254 restricts commercial speech. Although Respondent 
+never acknowledges this basic point, there is no question that 
+the statute does not actually regulate speech. Instead, Section 
+6254 is a restriction on access to government records. Re- 
+spondent therefore is reduced to arguing that Section 6254 is 
+invalid because it purported!y permits access to arrestee ad- 
+dresses for essentially any purpose other than commercial 
+speech. 
+
+Respondent’s view - which the lower courts accepted - 
+misreads Section 6254. In reality, the statute unambiguously 
+requires that almost all information about crimes, crime vic- 
+tims, and arrestees be released to all persons and entities, in- 
+cluding Respondent. But Section 6254 withholds two pieces 
+of personal information - the arrestee’s and victim’s ad- 
+dresses - except in limited instances in which release would 
+
+
+3 
+
+
+produce an overriding public benefit. The statute thus limits 
+access to only a small subset of crime-related information and 
+simply does not create the commercial / noncommercial and 
+speech / non-speech distinctions that Respondent envisions. 
+Instead, Section 6254 reasonably balances the public’s right 
+to know with the right to individual privacy. 
+
+
+a. Section 6254 requires the release of essentially all in- 
+formation regarding crimes, crime victims, and arrestees to 
+any person and for any purpose. Respecting the crime and the 
+victim, this information includes: 
+
+the time, substance, and location of all complaints or re- 
+
+quests for assistance received by the agency and the time 
+
+and nature of the response thereto, including * * * the 
+time, date, and location of the occurrence, the time and 
+date of the report, the name and age of the victim, the 
+factual circumstances surrounding the crime or incident, 
+and a general description of any injuries, property, or 
+weapons involved. 
+
+Cal. Gov’t Code 6254(f)(2). Respecting the arrestee, the state 
+
+must release: 
+
+
+[t]he full name and occupation of every individual ar- 
+rested by the agency, the individual’s physical descrip- 
+tion including date of birth, color of eyes and hair, sex, 
+height and weight, the time and date of arrest, the time 
+and date of booking, the location of the arrest, the fac- 
+tual circumstances surrounding the arrest, the amount of 
+bail set, the time and manner of release or the location 
+where the individual is currently being held, and all 
+charges the individual is being help upon, including any 
+outstanding warrants from other jurisdictions and parole 
+or probation holds. 
+
+
+Id. § 6254(f)(1). 
+
+With respect to the addresses of arrestees and crime vic- 
+tims, that information must be released for any “scholarly, 
+journalistic, political, or governmental purpose, or * * * for 
+
+
+4 
+
+
+investigation purposes by a licensed private investigator.” No 
+person may request address information for one of these per- 
+mitted purposes absent a certification that the requester will 
+not use the information “to sell a product or service.” Cal. 
+Gov't Code 6254(f)(3).” 
+
+
+b. Respondent plainly is wrong to allege that Section 6254 
+is a speech restriction. Although the Ninth Circuit character- 
+ized the speech interest at stake in this case as Respondent’s 
+ability to advertise, Pet. App. 29a, Respondent contends here 
+that its sale of addresses to third parties is itself speech. Even 
+accepting that as true, Section 6254 is not a speech restriction 
+because the statute simply restricts the ability to acquire, not 
+to sell or to transmit, addresses. The statute limits only the 
+
+
+Respondent thus is not correct when it argues that “section 
+6254(f3) does not prohibit any specific use of arrestee address 
+information lawfully obtained - regardless how invasive or embar- 
+rassing - except to sell a product or service.” Resp. Br. 23 (empha- 
+sis in original). The statute restricts only access to (not use of) ad- 
+dress information and permits access only for the few purposes set 
+out in the statute. 
+
+
+Of all Respondents’ other mischaracterizations of Section 
+6254, only two require a direct reply. First, Respondent wrongly 
+contends that Petitioner’s defense of Section 6254 “is tantamount to 
+arguing that a gravely ill person should be spared information about 
+possible treatment.” Resp. Br. 24. The jate analogy is that 
+if the state requires gravely ill people to identify themselves to the 
+government, Petitioner believes those persons have an interest in 
+maintaining their privacy and in deciding for themselves whether 
+and how to seek treatment. Second, amicus Reporter’s Committee 
+for Freedom of the Press ef al., at 26 n.26, states without any ex- 
+planation that “Petitioner apparently assumes, contrary to the pre- 
+sumption of innocence afforded by our Constitution, that a pre- 
+sumption of guilt attaches upon arrest.” Precisely the opposite is 
+true. Persons who are arrested (as opposed to convicted) or who 
+are the victims of crime have an interest in maintaining that as a 
+private fact. 
+
+
+5 
+
+
+State’s assistance and does so only in the sense that the gov- 
+ernment’s failure to provide a private party with any resource 
+indirectly limits the sale of that resource.’ 
+
+
+Respondent therefore must contend that every restriction 
+on the release of any government record (whether for national 
+security, privacy, or any other reason) is a speech restriction 
+subject to the First Amendment. But there can be no real 
+question that the state could withhold access to address rec- 
+ords entirely. As this Court repeatedly has held, access to 
+government aid in obtaining private information is a matter of 
+“legislative grace,” Seattle Times Co. v. Rhinehart, 467 US 
+20, 34 (1984), the Constitution is “neither a Freedom of In- 
+formation Act nor an Official Secrets Act,” Houchins v. 
+KQED, 438 US 1, 14 (1978) (plurality opinion), and a right of 
+access to government proceedings only attaches when there 
+has been an “unbroken, uncontradicted” tradition of access, 
+
+
+* In this context, Respondent’s argument must be that the 
+
+
+state, by not releasing addresses, is itself refusing to speak to Re- 
+spondent, which in turn interferes with Respondent’s ability to 
+speak to others by selling the information received from the gov- 
+ernment. As such, this case is governed by this Court’s decisions 
+holding that the government need not subsidize speech. See gener- 
+ally Pet. Open. Br. 26-30 (discussing cases holding that government 
+may refuse to fund one type of speech so long as it does not penal- 
+ize speech). “The reasoning * * * is simple: ‘although government 
+may not place obstacles in the path of a person’s exercise of 
+speech, it need not remove those not of its own making.’” Regan v. 
+Taxation With Representation, 461 US 540, 549-50 (1983) (quoting 
+Harris v. McRae, 448 US 297, 316 (1980) (alterations omitted)). It 
+therefore is no answer that the state could recoup the costs of pro- 
+viding address records through a fee. Resp. Br. 3 n.4. Instead, the 
+relevant point is that the First Amendment does not require the 
+government to facilitate speech. Here, even if California were to 
+charge Respondent, the state nonetheless would be “subsidizing” 
+Respondent’s activities by providing Respondent with a cost- 
+efficient means of acquiring address information. 
+
+
+6 
+
+
+Richmond Newspapers v. Virginia, 448 US 555, 572 (1980). 
+See generally Pet. Open. Br. 16-25.‘ 
+
+
+Respondent’s only answer is that Section 6254 1s unique 
+because, at bottom, the statute is intended to operate as a 
+speech restriction by preventing the commercial solicitation 
+of arrestees. Contra Turner Broadcasting System v. FCC, 
+512 US 622, 652 (1994) (“It is a familiar principle of consti- 
+tutional law that this Court will not strike down an otherwise 
+constitutional statute on the basis of an alleged illicit legisla- 
+tive motive.”). That is true only insofar as every restriction 
+on the release of government records purposefully prevents 
+the further dissemination of that information. In other words, 
+the government restricts the release of personal medical rec- 
+ords, 5 USC 552(b)(6), not just to avoid misuse by the initial 
+recipient but also because that recipient may forward the rec- 
+ords to 500 other people as an act of “free speech.” 
+
+
+In this case, Respondent specifically misconstrues Califor- 
+nia’s effort to protect individual privacy. It is common 
+ground that the address information withheld under Section 
+6254 is useful for two purposes: (i) as a means of positive 
+identification (distinguishing between multiple individuals 
+with conmimon names); and (ii) as a point of contact. The 
+California legislature has determined that positive identifica- 
+tion and contact of arrestees and crime victims constitute an 
+unwarranted invasion of privacy. Importantly, Section 6254 
+limits such privacy invasions whether or not they arise from 
+speech: Respondent cannot acquire addresses to sell them to 
+employers who want to determine if job applicants have been 
+
+
+* Respondent erroneously claims that Petitioner is relying on 
+
+
+the syllogism that “greater power includes the lesser.” This is not a 
+case in which the government claims that the ability to prohibit 
+primary conduct (e.g., gambling) confers the power to restrict 
+speech regarding that conduct (e.g., gambling advertisements). 
+
+
+J 
+
+
+arrested, nor are addresses available to curiosity seekers or 
+vigilantes.” 
+
+
+c. This suit arises only because California has taken the 
+further step of releasing address information - and thereby 
+facilitating positive identification and providing a point of 
+contact - in a limited set of instances, each of which fulfills 
+an overriding public purpose. Critically, these purposes are 
+unrelated to the recipients’ viewpoint, the content of their 
+speech, or indeed speech at all. Address information is col- 
+lected principally for the “governmental” uses permitted by 
+Section 6254. In addition, scholarship and journalism inform 
+the public regarding police practices, arrest patterns, and the 
+effect of crime on victims. “Political” uses of address infor- 
+mation relate directly to the process of governing, not private 
+gain. Finally, legitimate investigations by private investiga- 
+tors are government-licensed adjuncts to the state’s own law 
+enforcement efforts. 
+
+
+These categories defy Respondent’s claim that Section 
+6254 distinguishes between commercial and noncommercial 
+uses of address information.® The obvious example is that the 
+
+
+Although Respondent focuses on its clients’ desire to contact 
+arrestees, which the state deems an invasion of privacy, positive 
+identification has substantial effects on individual privacy as well. 
+(nce in possession of the address, one can link arrestees and crime 
+victims with the other demographic information contained in arrest 
+repts. as well as data collected from third parties. It is this possi- 
+bility that gives mse to the state’s interest in not making govern- 
+ment records available to facilitate the creation of informational 
+databases about individuals. This concern is even more grave with 
+respect to other classes of records collected in the Appendix to the 
+Petition for Certiorari that states consistently withhold from com- 
+mercial users, such as welfare rolls and election contribution lists. 
+
+6 
+
+
+Even Respondent seems to acknowledge this point in arguing 
+that Section 6254 restricts access for “noncommercial” purposes, 
+including “legal, medical, religious, literary, scientific, philosophi- 
+cal and artistic” uses of address information. Resp. Br. 14. 
+
+
+8 
+
+
+statute equally restricts access for all of Respondent’s cus- 
+tomers, whether commercial (e.g., law firms) or noncommer- 
+cial (e.g., religious counselors). Although the statute does not 
+permit access to address information for most commercial 
+uses, including an employer’s unlawful attempt to determine 
+whether an applicant or employee has been arrested,’ those 
+purposes involve private gain. By contrast, when commercial 
+uses result in an overriding public benefit - such as private 
+investigations and journalism (which Respondent notes is a 
+profit-making enterprise) - the state grants access. Similarly, 
+the statute forbids access for noncommercial uses for private 
+gain (such as curiosity seeking) but permits access for public 
+benefit (such as scholarship and politics). 
+
+
+Respondent is equally wrong to claim that Section 6254 
+distinguishes between speech-related and non-speech related 
+uses of address information. The statute permits access to 
+address records for many other speech-related purposes that 
+have an overriding public benefit, including journalism, pub- 
+lished scholarship, and political advocacy. Section 6254 also 
+withholds access for some non-speech related purposes (e.g., 
+idle curiosity and employment decisions by businesses) but 
+grants access for others (e.g., private investigation). In each 
+respect, the lines drawn by the statute turn not on the view- 
+point of the party requesting address information but instead 
+on the Legislature’s studied conclusion that some — but not all 
+~ uses of address information have a public benefit that is suf- 
+ficiently weighty to overcome the interest in individual pri- 
+vacy. 
+
+
+Compare Resp. Br. 36 (arrest records “assist in filling sensi- 
+tive employment positions”) and Amicus Br. of Individual Refer- 
+ence Services Group ef al. 2 (explaining that amicus’ members ob- 
+tain arrest report “information from certain states for use for em- 
+ployment screening of, for example, school bus drivers, child care 
+workers, and nursing home orderlies”) with Cal. Lab. Code 432.7 
+(forbidding employers from asking job applicants about arrests). 
+
+
+9 
+
+
+Respondent’s contrary view of the statute apparently stems 
+from a clause in Section 6254 that requires that parties with a 
+permissible basis for requesting address information also cer- 
+tify they will not use the addresses “to sell a product or serv- 
+ice.” Cal. Gov’t Code 6254(f)(3). But this clause simply en- 
+sures that a party will not circum’. the statute’s carefully 
+defined limitations by requesting access to address informa- 
+tion for a permitted purpose (such as journalism) only to also 
+make wider use of the information when the resulting inva- 
+sion of privacy would outweigh any public benefit. For ex- 
+ample, assuming that Respondent has a legitimate journalistic 
+purpose in requesting address information for its publication, 
+“The Register,” see infra at 17-18, the clause in question is 
+the most reasonable means of preventing Respondent from 
+subsequently selling the addresses for a profit. California’s 
+only alternative to this access restriction would be to ban the 
+use Of lawfully possessed address information in selling a 
+product or service, which, if anything, would be more trou- 
+bling as a restriction on speech. See Florida Star v. BJF, 491 
+US 524, 534 (1989) (encouraging states to adopt restrictions 
+on access to government records “as a less drastic means than 
+punishing truthful publication [to] guard[] against the dis- 
+semination of private facts”). 
+
+
+d. Respondent also is wrong to rely on this Court’s deci- 
+sions holding that a commercial speech restriction is invalid 
+when it “distinguishes among the indistinct, permitting a vari- 
+ety of speech that poses the same risks the Government pur- 
+ports to fear, while banning messages unlikely to cause any 
+harm at all.” Greater New Orleans Broadcasting Assn. v. 
+United States, 119 S. Ct. 1923, 1935 (1999) (restriction on 
+broadcast advertisement of private casino gambling, but not 
+state-run, tribal, nonprofit, and occasional casino gambling); 
+see also Rubin v. Coors Brewing Co., 514 U.S. 476 (1995). 
+Unlike Section 6254, the statutes presented in those cases 
+were direct speech restrictions. But just as important, those 
+statutes were “so pierced by exemptions and inconsistencies 
+
+
+10 
+
+
+that the Government [could not] hope to exonerate [them].” 
+Greater New Orleans, 119 S. Ct. at 1933. Section 6254, by 
+contrast, permits access to address information only in limited 
+circumstances that differ both in kind and in degree from Re- 
+spondent’s desire to sell addresses in bulk.* 
+
+
+This lawsuit is proof positive of the statute’s rationality. 
+Respondent maintains that Section 6254 irrationally mandates 
+the release of address information for many purposes, result- 
+ing in widespread public dissemination through newspapers, 
+television, scholarship, and by priv2ie investigators. But Re- 
+spondent also maintains that Section 6254 completely blocks 
+its access to address information. Those two positions cannot 
+be reconciled: if the statutory exceptions emphasized by Re- 
+spondent in fact led to the general public dissemination of ad- 
+dress information, Respondent and its customers would have 
+access to the material and hence no cause to complain. 
+
+
+The truth of the matter is that Respondent is simply wrong 
+to contend that Section 6254 leads to the widespread release 
+of address information. Respondent presented no such evi- 
+dence to the district court.” The California First Amendment 
+Coalition advised the Legislature that “newspapers seldom 
+print exact addresses nowadays.” Ct. App. Supp. Excerpts 
+Rec. 382. Respondent and its six amici have identified only 
+
+
+* For the same reason, this case is very different from City of 
+
+
+Cincinnati v. Discovery Network, in which the government sought 
+to restrict commercial newsracks, but not noncommercial news- 
+racks, based solely on an asserted higher value for noncommercial 
+speech. 507 US 410, 424 (1993) (restriction was invalid because it 
+bore “no relationship whatsoever to the particular interests” as- 
+
+
+serted). 
+
+
+y 
+Instead, the lower courts ruled based on the erroneous as- 
+
+
+sumption, Pet. App. lla (district court), 25a (court of appeals), 
+which Respondent no longer defends as correct, that Section 6254 
+requires the release of arrest records for any purpose other than 
+commercial speech, including curiosity seeking. 
+
+
+11 
+
+
+one California newspaper that publishes any arrestee ad- 
+dresses (the Sacramento Bee'®) and no examples involving 
+scholars, politicians, or private investigators, which is a far 
+cry from the constant, en masse, and state-wide disclosure 
+that Respondent demands here. The most that Respondent 
+can say is that, under Section 6254, newspapers, scholars, and 
+politicians “could” engage in the dissemination of address 
+information, not that they actually do so, which is the relevant 
+inquiry.'' In reality, the marketplace makes Respondent a 
+viable commercial enterprise precisely because it distributes 
+arrestee address information on a different order of magnitude 
+than any other type of recipient. Even if there is any doubt 
+about this point, it is precisely the kind of determination that 
+appropriately is left to the studied judgment of legislators, and 
+there is ample record evidence supporting the judgments em- 
+bodied by Section 6254. See Pet. Open. Br. 2-5. 
+
+
+This case accordingly cannot fairly be distinguished from 
+United States Department of Justice v. Reporter's Committee 
+for Freedom of the Press, which approved the FBI’s policy of 
+withholding criminal “rap sheets” even insofar as they contain 
+information that “is a matter of public record.” 489 US 749, 
+757 (1989). This Court found that a privacy interest justified 
+withholding rap sheets, notwithstanding that they (i) were 
+“used in the preparation of press releases and publicity de- 
+signed to assist in the apprehension of wanted fugitives,” and 
+(ii) were released to (a) various banks, (b) state and local gov- 
+ernments, (c) self-regulatory organizations in the securities 
+
+
+'° Contrary to Respondent's claim, Resp. Br. 30 n.21, the 
+Fresno Bee prints only the names (not addresses) of men and 
+women arrested for prostitution offenses. Ct. App. Supp. Excerpts 
+Rec. 479. 
+
+
+'' Nor can Respondent even hypothesize circumstances in 
+
+
+which the statute results in the public dissemination of crime vic- 
+tims’ addresses, but the logic of the ruling below would mandate 
+that this information be provided to Respondent as well. 
+
+
+eee eee ee 
+
+
+12 
+
+
+industry, and (d) licensees and applicants before the Nuclear 
+Regulatory Commission. /d. at 752. Respondent attempts to 
+distinguish Reporter's Committee only by quoting the Court's 
+explanation that “plainly there is a vast difference between 
+the public records that might be found after a diligent search 
+of courthouse files, county archives, and local police stations 
+throughout the country and a computerized summary located 
+in a single clearinghouse of information.” /d. at 764. But the 
+reasoning of Reporter's Committee is fully applicable here: 
+there is an equally “vast difference” between the limited 
+number of arrestee addresses that Respondent can gather 
+through a “diligent search” of news reports and occasional 
+scholarly publications and the en masse disclosures that Re- 
+spondent receives absent a provision such as Section 6254. 
+See also id. (Indeed, if the summaries were ‘freely avail- 
+able,’ there would be no reason to invoke the FOIA to obtain 
+access to the information they contain.”). 
+
+
+Respondent's argument also relies on a mischaracterization 
+of the state interests furthered by Section 6254. Respondent 
+contends that the statutory exceptions that permit the release 
+of addresses to journalists and scholars irrationally permit in- 
+vasions of privacy. But Respondent ignores entirely the ex- 
+planation in Petitioner's opening brief that Section 6254 is 
+designed not to further individual privacy at the sacrifice of 
+all other interests, but instead to balance individual privacy 
+against the public benefits available from the targeted release 
+of address information, including informing the public about 
+crime.'* California releases addresses to journalists, scholars, 
+
+
+California’s effort to balance these interests is clear from the 
+history of Section 6254(f\3), which Petitioner detailed in its open- 
+ing brief, at 2-5, but which Respondent ignores. The State initially 
+considered completely prohibiting the release of address informa- 
+tion, but ultimately adopted certain exceptions (including for jour- 
+nalists and private investigators) as a more “tailored” remedy for 
+the evils the state sought to prevent. Substantial record evidence 
+was presented to the California legislature demonstrating that de- 
+
+
+13 
+
+
+and political advocates, whose protection is the First 
+Amendment's core concern.'’ Respondent further ignores the 
+fact that although the statute permits news outlets to publish 
+lists of the names and addresses of some arrestees, every indi- 
+cation is that only a few do so, and even then only for more 
+important, newsworthy crimes. Moreover, even if that were 
+not correct, the state would retain legitimate interests in not 
+participating in the for-profit dissemination of the addresses 
+of arrestees and crime victims, and in not being perceived as 
+facilitating such a business, particularly when it is the gov- 
+ernment that compels arrestees and crime victims to provide 
+the personal information in question. 
+
+
+ll. The Historical Evidence Does Not Establish A First 
+Amendment Right Of Public Access To Arrestee And 
+Crime Victim Addresses. 
+
+
+Respondent contends that there is a First Amendment right 
+of access to the information withheld under Section 6254, an 
+argument that was squarely rejected below.'* But, as in the 
+
+
+mands for the release of address information had increased by 
+1200%, Ct. App. Supp. Excerpts Rec. 307, and that as a result ar- 
+restees frequently received from |2 to 16 solicitations each, id 334, 
+361. Pet. Open. Br. 2-5. Contra Resp. Br. 5, 20 (claiming that 
+“[njo evidence in the record supports the existence of any ‘solicita- 
+tion invasion’ problem” and that “Petitioner produced no evidence 
+that any privacy invasion had existed before the statute's enact- 
+ment”). 
+
+
+'’ A prohibition on such exceptions would, ironically, give 
+
+
+legislatures a substantial incentive to prohibit the release of address 
+information altogether, which would only undermine the speech 
+interests of journalists and scholars. 
+
+14 
+
+
+In point of fact, Respondent principally argues that there is a 
+common law right of access, Resp. Br. 36-37, leaving it to an ami- 
+cus to address the asserted First Amendment right of access Re- 
+
+
+garding Respondent's argument, any common law right of access 
+has been supplanted by Section 6254. 
+
+
+14 
+
+
+lower courts, Respondent has failed to establish here that “the 
+place and process have historically been open to the press and 
+the general public.” Press-Enterprise Co. v. Superior Court, 
+478 US 1, 8 (1986). In the first instance, this entire line of 
+authority is limited to events — such as trials, preliminary 
+hearings, and jury voir dires — rather than government rec- 
+ords, which are neither a “place” nor a “process.” In any 
+event, it is telling that the historical tradition and right of ac- 
+cess asserted by Respondent never have been recognized by 
+any judge in any state or federal court or (to Petitioner's 
+knowledge) identified in any of the scholarly literature re- 
+garding this nation’s history. 
+
+Respondent first explains that in colonial times there was 
+not uniformly an organized police force, such that law en- 
+forcement duties sometimes were handled by the citizenry. 
+Br. of Investigative Reporters & Editors, Inc. as Amicus Cu- 
+riae 8-12. If anything, this would prove only that the citi- 
+zenry had access to address information insofar as it partici- 
+pated in “serving as constables during the day or watchmen 
+during the night.” Carol S. Steiker, Second Thoughts About 
+First Principles, 107 Harv. L. Rev. 820, 825 (1994). There is 
+no evidence of a broader public right to, or interest in, address 
+information. To the extent this early private law enforcement 
+has a modern analogue, it is carried on by private investiga- 
+tors, who are provided address information under Section 
+6254. 
+
+
+Respondent also contends that in later periods arrestee ad- 
+dresses were published by the press. But this argument fails 
+to prove Respondent's point, as Section 6254 itself grants the 
+press access to address information and the question instead is 
+whether there traditionally was a broader right of public ac- 
+cess, including a right to use address information for profit. 
+Respondent has produced no evidence that this was the case. 
+Moreover, even the newspaper quotations invoked by Re- 
+spondent are anecdotal and are a far cry from the tradition 
+“throughout the United States” required by this Court's 
+
+
+= e 
+
+
+* 2 
+
+
+precedents. El] Vocero De Puerto Rico v. Puerto Rico, 508 
+US 147, 150 (1993) (per curiam). Respondent’s examples 
+also frequently are inapposite, as a majority do not contain 
+addresses or do not involve arrests.'° Nor is there any evi- 
+dence at all regarding what sources provided the press with 
+the information, including particularly whether the govern- 
+ment regarded the press as possessing a right to review police 
+blotters. 
+
+As a separate matter, Respondent has not established that 
+“public access plays a significant positive role in the func- 
+tioning of the particular process in question.” Press- 
+Enterprise Co., supra, 478 US at 8. Section 6254 not only 
+requires the uniform release of almost all information about 
+crimes, crime victims, and arrestees, but also requires that 
+newspapers and scholars have access to the victim's and ar- 
+restee’s addresses. Respondent does not assert that the 
+broader release of address information is necessary to serve 
+any public interest, including to inform the public adequately 
+about crime. Section 6254 thus provides for an informed pub- 
+lic by mandating the uniform disclosure of almost all crime 
+information (such as the date and type of each reported crime, 
+the location of the crime, the name and description of the ar- 
+restee, and the name of the victim), but does not uniformly 
+require that the state facilitate efforts by the general public 
+and businesses such as Respondent to identify and to contact 
+arrestees and crime victims. The Legislature determined that 
+such widespread release of address information would con- 
+stitute an unwarranted invasion of privacy. 
+
+
+'’ E.g., Br. of Investigative Reporters & Editors, Inc. as Amicus 
+Curiae 12-17 (examples of Esther M’Connell, William Kerr, and 
+Zechariah Allen not involving addresses; examples of John Gos- 
+ling, Simeon Belknap, John Jones, Thomas Walsh, and Selah 
+Sheldon not involving arrest reports). 
+
+
+16 
+
+
+In addition, Respondent clearly seeks address information 
+to profit, not to assist in the arrest process. As this Court ex- 
+plained in Reporter's Committee: 
+
+
+In this case -- and presumably in the typical case in 
+which one private citizen is seeking information about 
+another -- the requester does not intend to discover any- 
+thing about the conduct of the agency that has posses- 
+sion of the requested records. Indeed, response to this 
+request would not shed any light on the conduct of any 
+Government agency or official. 
+
+
+489 US at 749. In these circumstances, no right of access 
+to government records arises. 
+
+
+Ill. Respondent’s Remaining Arguments Are Not Prop- 
+erly Presented In This Court. 
+
+
+Several of Respondent's remaining arguments are not 
+properly presented to this Court because they rest on a misun- 
+derstanding of the holding below. The lower courts invali- 
+dated Section 6254 on its face and therefore never addressed 
+the statute's application to Respondent's different uses of ad- 
+dress information. See Pet. App. 22 (district court opinion 
+declining to reach Respondent's remaining claims “[s]ince the 
+Court finds Cal. Gov. Code § 6254(f)(3) unconstitutional as 
+an impermissible limitation on commercial speech”); id 36 
+(court of appeals opinion affirming “[h]aving concluded that 
+§ 6254(f)(3) violates Central Hudson”). The lower courts 
+specifically had no cause to distinguish between Respon- 
+dent’s sales of addresses through an information service and 
+its distribution of its publication, “The Register.” 
+
+
+Respondent now contends that even if Section 6254 is valid 
+as applied to Respondent's information service, the statute 
+nonetheless is invalid as applied to “The Register.”'° That 
+
+
+‘© We note that Respondent did not raise this issue, which 
+would seem to require modifying the lower courts’ judgment that 
+
+
+ee ee ee re) 
+
+
+17 
+
+
+issue, however, is not properly presented to this Court be- 
+cause Respondent may be entitled to acquire addresses for use 
+in “The Register.” Respondent's complaint sought a declara- 
+tion that “The Register” fell within the statutory exceptions 
+for journalism and scholarship,'’ but as noted, the lower 
+courts never reached that question and specifically never 
+made any factual findings about the nature of “The Register.” 
+Respondent acknowledges that it never has requested address 
+information under the journalism and scholarship provisions. 
+Resp. Br. 46 n.31.'* Because neither the parties nor the Court 
+know at this point whether Section 6254 permits Respondent 
+to acquire address information for use in “The Register,” this 
+Court should not in the first instance adopt a potentially unin- 
+formed and unnecessary holding that the Constitution man- 
+dates access to records for that purpose. 
+
+
+Similarly, there is no basis for addressing, much less 
+adopting, Respondent's assertion that the categories set out in 
+Section 6254 (i.e., journalism, scholarship, and politics) are 
+unconstitutionally vague. These classifications are easily de- 
+finable. Cf 5 USC 552(a4)(iiMI1) (FOIA provision based 
+on category of “representative of the news media”); 28 CFR 
+16.11(b)(6) (regulation further defining statutory category). 
+
+
+Section 6254 is invalid on its face, through a cross-petition for cer- 
+tiorari. 
+
+Ct. App. Excerpts Rec. 334, 9 5 (requesting a declaration 
+“that the publication of plaintiff, “Register, * * * falls within the 
+provisions of the Amendment”); see also id. 699, 4 4 (declaration 
+submitted by Respondent asserting that “[i}t is United Reporting’s 
+intent that the ‘JailMail’ Register be informative, journalistic as 
+well as scholarly”). 
+
+
+'* Respondent states that “United Reporting could not sign the 
+declarations required by section 6254(f\3) for fear of criminal li- 
+ability,” Resp. Br. 46 n.31, which Petitioner takes to mean only that 
+Respondent also intended to sell addresses for a profit, which pro- 
+hibits Respondent from receiving address information under the 
+statute. 
+
+
+Any ambiguities exist only because this litigation resulted in a 
+prompt injunction against enforcement of Section 6254 and 
+therefore made it impossible for California's law enforcement 
+agencies to address any questions regarding the statute's 
+scope.'” Certainly, this is not an instance in which it is ap- 
+propriate for courts to intervene prior to the application of a 
+statute, as when a law impermissibly has granted officials the 
+unfettered discretion to apply a vague speech restriction or 
+when the statute's mere existence chills expressive activity. 
+
+
+CONCLUSION 
+
+
+For these reasons, as well as those set forth in Petitioner's 
+opening brief, the judgment of the Ninth Circuit should be 
+reversed. 
+
+
+Respectfully submitted, 
+James K. Hahn Thomas C. Goldstein 
+Frederick N. Merkin (Counsel of Record) 
+Office of the City Attorney Samuel C. Kaplan 
+1800 City Hall East Boies & Schiller, LLP 
+200 N. Main St. 5301 Wisconsin Ave, NW 
+Los Angeles, CA 90012 Suite 570 
+
+
+Washington, D.C. 20015 
+(202) 237-5677 
+
+
+David Boies 
+
+Boies & Schiller LLP 
+
+80 Business Park Dr. 
+
+Suite 110 
+
+Armonk, NY 10504 
+August 23, 1999 (914) 273-9800 
+
+
+_ 
+
+
+'’ For example, the State never has had the opportunity to ad- 
+dress whether reference services retained by journalists fall within 
+the statute's journalism provision, a point that was first raised in the 
+amicus curiae submissions in this Court. 
+
+

@@ -1,0 +1,2921 @@
+¥ Supreme Court, U.S. 
+
+
+FILED 
+BS 678 OCI 23199 
+No. 98-__ 
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+
+Los Angeles Police Department, 
+Petitioner, 
+
+
+V. 
+
+
+United Reporting Publishing Corp., 
+Respondent. 
+
+
+Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Ninth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+James K. Hahn David Boies 
+
+Frederick N. Merkin (Counsel of Record) 
+Byron R. Boeckman BOIES & SCHILLER LLP 
+Office of the City Attorney 80 Business Park Dr. 
+
+1800 City Hall East Suite 110 
+
+200 N. Main St Armonk, NY 10504 
+
+Los Angeles, CA 90012 (914) 273-9800 
+
+
+(additional counsel on inside cover) 
+
+
+October 23, 1998 
+
+
+Balmar Legal Publishing Services, Washington, D.C. (202) 682-9800 
+
+
+(Counsel for Petitioner continued) 
+Jonathan D. Schiller 
+
+Thomas C. Goldstein 
+
+BOIES & SCHILLER LLP 
+
+5301 Wisconsin Ave., NW 
+
+Suite 570 
+
+Washington, DC 20015 
+
+
+ue 
+
+
+i 
+QUESTION PRESENTED 
+
+
+The Ninth Circuit in this case declared unconstitutional 
+Cal. Gov’t Code 6254(f)(3), under which persons may receive 
+the addresses of arrestees and crime victims “for a scholarly, 
+journalistic, political, or governmental purpose, [or] for 
+investigation purposes by a licensed private investigator,” but 
+only if they agree not to use the information “directly or 
+indirectly to sell a product or service.” The Ninth Circuit 
+invalidated Section 6254(f)(3) on the ground that the statute 
+violates the commercial speech rights of persons and 
+businesses that wish to sell address information to lawyers, 
+insurance companies, and others. There is a widely 
+acknowledged and irreconcilable conflict in the lower courts 
+on the issue: the Fifth and Eleventh Circuits have struck 
+down the parallel statutes of Texas and Georgia; the Tenth 
+Circuit, Louisiana Supreme Court, and South Carolina 
+Supreme Court have reached the opposite conclusion. 
+
+
+The question presented is whether the government 
+violates the First Amendment when it releases records but 
+forbids their commercial use? 
+
+
+TABLE OF CONTENTS 
+
+Pages 
+QUESTION PRESENTED.........cccsssssssssssssssessssseeeeeseseseeeecc.... i 
+TABLE OF AUTHORITIES ......000-cccccccccsssssssoseeeeeeeecccc ill 
+a l 
+I ctsacticsscsensesceseceesesceonsevesoeeampesonemeemenece..... 2 
+STATUTES INVOLVED .......cssccosssssssssssssssssssisteseeeeeeseccccnn. 2 
+ST iret itressoscescnincssssesnatséniainanemmmeesneeesee...... 3 
+REASONS FOR GRANTING THE a 7 
+
+
+I. The Circuits And State Su 
+preme Courts Are 
+Irreconcilably Divided On This Important And 
+
+
+Frequently Recurring Question Of Federal eee 7 
+II. The Decision Below Is Erroneous...........0............. 13 
+CONCLUSION ..........0..csccsesssssoseeossseeess..,. 17 
+
+
+iii 
+TABLE OF AUTHORITIES 
+
+
+Cases | Pages 
+Amelkin v. Commissioner, 936 F. Supp. 428 (W.D. 
+
+Ky. 1996), on remand from Amelkin v. McClure, 
+
+No. 94-6161, 1996 U.S. App. LEXIS 141 (6th Cir. 
+
+
+Bees, Gi Bie nccncnsnsctseneensenensnenienesnatatnananiasatenmmisnctesnamnsie’ 8, 10 
+Board of Trustees v. Fox, 492 U.S. 469 (1989) ........ccccecee 14 
+Babkes v. Satz, 944 F. Supp. 909 (S.D. Fla. 1996)............ 8, 10 
+Central Hudson Gas & Electric Corp. v. Public Service 
+
+Commission of New York, 447 U.S. 557 (1980) ....... passim 
+Condon v. Reno, 155 F.3d 453 (4th Cir. 1998) ............0006 13 
+DeSalvo v. Louisiana, 624 So. 2d 897 (La. 1993), 
+
+cert. denied, 510 U.S. 1117 (1994)............cccecceeceeeeeeeees 8,10 
+FEC v. International Funding Institute, 969 F.2d 1110 
+
+(D.C. Cir.), cert. denied, 506 U.S. 1001 (1992) ............. 12 
+FEC v. Political Contributions Data, 943 F.2d 190 (2d 
+
+ee 12 
+Florida Star v. BJF, 491 U.S. 524 (1989) oo... ccccccccccceseeeeeneees 14 
+Houchins v. KOED, 438 U.S. 1 (1978) .......:cccccccceceeeeeneeneeneees 14 
+
+
+Greater New Orleans Broadcasting Ass'n v. United 
+States, 149 F.3d 334 (Sth Cir.), pet. for cert. pending, 
+
+
+No. 98-387 (Sept. 2, 1998) ........cccccccesseseseeeereeeesenseneeneenenes 11 
+Innovative Database Systems v. Morales, 990 F.2d 217 
+
+CDRs Cit. BB BB Da nnccccccccsccccnsescecsoscccccesosesescosescsosssssesnnssensssees 7,9 
+Lanphere & Urbaniak v. Colorado, 21 F.3d 1508 (10th 
+
+Cir.), cert. denied, 513 U.S. 1044 (1994) .......... passim 
+LaSalle v. Udell, Case No. 94-0404-M, Unpublished 
+
+Opinion and Order (D.N.M. Feb. 16, 1996) .........cccceeeens 8 
+
+
+Loving v. United States, No. 97-6060, 1997 U.S. App. 
+LEXIS 23639 (10th Cir. Sept. 8, 1997) .........ccccccccceeeeeeeeees 13 
+
+
+iv 
+Moore v. Morales, 843 F. Supp. 1124 (S.D. Tex. 1994) 
+
+
+on appeal of separate issue, aff'd in part and rev'd in 
+
+
+part, 63 F.3d 358 (Sth Cir. 199 , 
+U.S. 1115 (1996) 5), cert. denied, 516 
+
+
+Nixon v. Warner Communications, 435 U.S. 589 (1978)......16 
+Northern Kentucky Chiropractic v. Ramey, No. 95-5645 
+
+
+1997 U.S. App. LEXIS 1734 (6th Cir. Jan. 29, 1997)....... ll. 
+
+
+Ohio v. Akron Center for Reproducti 
+00 ciao i productive Health, 497 U.S. 
+
+
+Rubin v Coors Brewing Co., 514 U.S. 476 (1995) ......... 16 
+
+
+Ryan v. Kirkpatri 
+whe kpatrick, 669 S.W.2d 215 (Mo. 1984) (en 
+
+
+Seattle Times Co. v. Rhinehart, 467 U.S. 20 (1984)... 14,15 
+
+
+Speer v. Miller, 15 F.3d 1007 (1 i 
+, Ith Cir. 1994), on 
+remand, 864 F. Supp. 1294 (N.D. Ga. ee passim 
+
+
+_— Detective Agency v. Miller, No. 96-cv-1033 
+fee ), Order (N.D. Ga. Aug. 12, 1998), ruling on 
+interlocutory appeal, 115 F.3d 904 (11th Cir. ERE! 8 
+
+
+Valley Broadcasting Co. v. United States, 107 F.3d 1328 
+
+
+(9th Cir. 1997), cert. deni 
+cee nied, 118 S. Ct. 1050 
+
+
+Virginia Pharmacy Board v. Virginia Citi 
+. nia Cit 
+Council, 425 U.S. 748 (1976) a Citizens Consumer 
+
+
+Walker v. South Carolina Department of Highways & 
+Public Transportation, 466 S.E.2d 346 (S.C. 1995)......8, 11 
+
+
+Zackheim v. Forbes, 895 P.2 
+nn 2d 793 (Ore. Ct. App. 
+
+
+a ~~ ————_/, 
+
+
+Vv 
+
+Statutes, Regulations, and Rules 
+
+2 U.S.C. § 438 (1998) .....ccccccceseseserenensersensenensnsnennannanennes 12, 12a 
+5 U.S.C. app. § 105 (1998) .........ececsecseeeesssnssestenenananernsennnsnes 3a 
+18 U.S.C. §§ 2721, 2722 (1998) ......-ecceceecerererernennennnnenerennnns 4a 
+42 U.S.C. § 13060 (1998) .........-cccccceeeneecesresnsnenennnnnanenesennnens 3a 
+5 C.F.R. § 2634.603 (1998) ........ccccecesereecenenssenenennnnsnanenenenenens 4a 
+32 C.F.R. § 84.21 (1998) ......ccccceceseeeserseseensnsnenennananannansnsnsess 4a 
+32 C.F.R. pt. 1293 app. D. (1998).........cecccsssreneeenensenensnsnnens 4a 
+45 C.F.R. §§ 205.50, 706.24 (1998) .......ccecececeeeeeeennnnenenerensnns 4a 
+47 C.F.R. §§ 0.460, 19.743 (1998) ......ccccccceseseresenensnnenennnnnes 4a 
+Ala. Code. § 17-22A-11 (1997) ........:ccessesessesessnenenenenennenenenes 3a 
+Ariz. Rev. Stat. §§ 28-452, 667, 36-136 (1998) ........ la, 2a, 4a 
+Ariz. Rev. Stat. § 39-121.03 (1997).......cceceeerenenenentennenenees 2a 
+Ark. Code Ann. § 27-14-412 (Michie 1997) .......-.-:-:-se0 2a 
+Cal. Gov’t Code §§ 6253- 6255 (Deering 1997) ........--. passim 
+Colo. Rev. Stat. §§ 1-45-111 to -112, 24-72-305.5 
+
+(1997) ....cccscecscssscssssessssssenensssssensnnensnsnsnnenenensnssnnanansnesenss la, 3a 
+Conn. Gen. Stat. § 1-20b (1997) .........cecccecceeseeseeneennenennnnnenens 3a 
+Conn. Pub. Act 97-99, substitute H. Bill 6883, 
+
+1997 Reg. SESS. .......c-ccssssssessessserssnensssesnnsensssnsnnnnanenanerensnsess 3a 
+D.C. Code Ann. §§ 1-1433, -1456 (1998) ........c-ecceceeeeerenenens 3a 
+Fla. Stat. chs. 98.095, 119.105, 316.066, 316.650, 
+
+327.301 (1998).......ecccececesceserssensssenssnesnnsnnsensnensnenanees la, 4a 
+Ga. Code Ann. §§ 33-24-53, 35-1-9, 49-4-14 (1998)...... la, 3a 
+Haw. Rev. Stat. §§ 11-193, 286-172 (1997).......----e0e+00 la, 3a 
+Idaho Code § 34-437 (1997) ........:::esesseseesessesenneenenennnnenenenes 4a 
+Ind. Code. Ann. §§ 3-9-4-5, 5-14-3-5, 12-14-22-8 
+
+(Michie 1998)..........2cccseccssesestsnsesesensesnsnenensnanennes 3a, 4a, Sa 
+305 Il. Comp. Stat. 5/1 1-12 (West 1998)......-..-.-eseeeeeeseserens 3a 
+625 Ill. Comp. Stat. 5/2-123 (West 1998)........-..e-seeeeeereereees 2a 
+
+
+all 
+
+
+vi 
+
+lowa Code § 68B.32A (1997)...........cccccccccccsesssesesssecesseeeeeeeees 4a 
+Kan. Stat. Ann. §§ 25-2320a, 4154, 4186 (1997) 0.0.0... 4a 
+Ky. Rev. Stat. Ann. §§ 61.870, 189.635 (Michie 1996)........ la 
+La. Rev. Stat. Ann. §§ 32:398, 46:56 (West 1998)................ la 
+Md. Code Ann. art. 33, § 3-22 (1997) .00......cccccccesseceescesseeeees 4a 
+Md. Code Ann., State Gov't §§ 9-1015, 10-616 (1997)........ 2a 
+Be cet ieeertecneetditericenntiaitte ididdilial Sa 
+Mich. Stat. Ann. §§ 4.1703(16), .1704(11), 4.480(8), 
+
+16.464, 24.1012 (Law. Co-op. 1997) ..0.......cccccceeee 3a, 4a, Sa 
+Minn. Stat. §10A.02 (Supp. 1997). ...........cccccccccceceeseseeeeeseeees 4a 
+Mo. Rev. Stat. §§ 115.158, 130.056 (1997)..........ccccccceceeeees 4a 
+N.M. Stat. Ann. § 14-2A-1, 3-51.1 (Michie 1998) ....000000...... 2a 
+N.Y. Pub. Off. Law § 89 (Consol. 1998)....00..0..ccccccccccceeeeeees 2a 
+N.Y. Soc. Serv. Law § 136 (Consol. 1998) .0.......00ccccccccccseeee. 3a 
+Neb. Rev. Stat. Ann. §§ 49-14, 132, 32-330, 68-313.01 
+
+SETI TTE UII UTTT TE lireiccsnetettitestecteniiatiatanneespeaiehiateneatinniadeamansenisiainsiaiiasinl 4a 
+N.C. Gen. Stat. §§ 108A-80, 132-1.4 (1997). 000... 3a, Sa 
+Okla. Stat. tit. 51, § 24A.8 (1997)... ccccccceeeeeseeeseeeeenees 2a 
+Okla. Stat. tit. 74, § 4253 (1997)..........ccccsccsscsssssssscssssesceeeees 3a 
+Okla. H. Bill 1665, 46th Leg., 2d. Sess. (1997)......0..00cccccc0e. 2a 
+Ore. Rev. Stat. §§ 192.501, 247.955, 314.865 (1997)....4a, 5a 
+eae 3a 
+RI. Gem. Laws § 38-2-6 (1997) ........cccccrccocccscscssccccccssecssecssees 2a 
+S.C. Code Ann. §§ 30-4-40, 50, 56-5-1275 (Law. Co-op. 
+
+Se iccocmndhininttiniattadietiittimiadaiiainaieihdidtaidaaitliaaatia aia 2a, 5a 
+S.D. Codified Laws § 12-25-34 (Michie 1998) .........0.00000000.. 4a 
+Tex. Bus. & Com. Code Ann. § 35.54 (West 1998) ..0.000....... 2a 
+Utah Code Ann. § 41-1a-116 (1998) ooo... ccccccceecececeeeneeeeees 3a 
+
+
+Va. Code Ann. § 55-370 (Michie 1998) .00............cccccceseeseeees Sa 
+
+
+vi 
+
+
+Vt. Stat. Arn. tit. 33 § 111 (1997) ....cccececcereneeensresennenenennnnes 3a 
+Wash. Admin. Code. § 292-10-040 (1997)....---.::+sssssesereeree 2a 
+Wash. Rev. Code Ann. §§ 19.182.010, 42.17.260, 
+
+$2. 32.330 (Michie 1997).........-s-sececesnerernenersnesnenenensnenes 2a, 5a 
+Wash. H. Bill 3076, 55th Leg. (1997)....------sssseesserereneenenes 3a 
+Wis. Stat. §§ 11.21-.22, 49.32 (1997)......ccssseserereeeeereseees 3a, 4a 
+1997 Wyo. Stat. Ann. § 22-2-1 13 (Michie 1997)..........:0-0+++ 4a 
+
+
+No. 98- 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+
+Los Angeles Police Department, 
+Petitioner, 
+
+
+V. 
+
+
+United Reporting Publishing Corp.., 
+Respondent. 
+
+
+Petition for a Writ of Certiorari 
+to the United States Court of Appeals 
+for the Ninth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+The Los Angeles Police Department respectfully petitions 
+for a Writ of Certiorari to review the judgment of the United 
+States Court of Appeals for the Ninth Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The district court’s opinion (Pet. App. 9a-23a (per 
+Brewster, J.)) is published at 946 F. Supp. 822. The Ninth 
+Circuit’s opinion (Pet. App. 24a-36a (per O’Scannlain, J., 
+joined by Farris and Fernandez, JJ.)) is published at 146 F.3d 
+1133. 
+
+
+2 
+JURISDICTION 
+
+
+The Ninth Circuit entered its j 
+} judgment on June 25, 1998. 
+On September 15, 1998, Justice O’Connor extended the time to 
+file this Petition to and including October 23, 1998. 
+
+
+Application No. A-231. Petitioner invoke ag 
+s th d 
+this Court under 28 USC 1254(1). e jurisdiction of 
+
+
+Pursuant to S. Ct. R. 14(e)(v), Petitioner not 
+because this action calls into question the conatieatemaliee ve . 
+state statute, 28 USC 2403(b) may apply. In compliance with 
+S. Ct. R. 29.4(c), this Petition is being served on the Attorne 
+General of the State of California. Although the Ninth Circuit 
+did not certify to the State Attorney General the fact that the 
+constitutionality of a state statute was drawn into question (see 
+S. Ct. R. 29.4(c)), the State Attorney General (1) was a party to 
+the district court proceedings, (ii) is subject to the injunction 
+entered by the district court, and (iii) declined to appeal the 
+district court’s ruling to the Ninth Circuit. 
+
+
+STATUTES AND CONSTITUTIONAL 
+PROVISIONS INVOLVED 
+
+
+The First Amendment to the U.S. Constitution provides: 
+
+
+Congress shall make no law respecti 
+
+qn pecting an 
+establishment of religion, or prohibiting roy free 
+exercise thereof; or abridging the freedom of speech 
+or of the press; or the right of the people peaceably to 
+
+
+assemble, and to petition the Government for a 
+redress of grievances. 
+
+
+The statute relevant to this Petition. Cal . 
+
+1 ' . Gov’t Code 
+6254(f)(3) is reprinted in full in the Appendix (6a-8a), but is 
+reproduced here in relevant part: 
+
+
+[S]tate and local law enforcement agencies shall make 
+public the following information . . . . 
+
+
+(3) [T]he current address of every individual arrested 
+by the agency and the current address of the victim of 
+a crime, where the requester declares under penalty of 
+perjury that the request is made for a scholarly, 
+
+
+3 
+
+
+journalistic, political, or governmental purpose, or 
+that the request is made for investigation purposes by 
+a licensed private investigator . . . , except that the 
+address of the victim of [certain specified crimes] 
+shall remain confidential. | Address information 
+obtained pursuant to this paragraph shall not be used 
+directly or indirectly to sell a product or service to 
+any individual or group of individuals, and the 
+requester shall execute a declaration to that effect 
+under penalty of perjury. 
+STATEMENT 
+
+
+1. Law enforcement officials around the country collect a 
+wide variety of information in the ordinary course of their 
+duties, including the addresses of crime victims and of suspects 
+who are arrested. In 1996, California amended its public 
+records laws to limit carefully the disclosure of this address 
+information. Cal. Gov’t Code 6254(f)(3) now provides that 
+addresses of arrestees and crime victims shall not be publicly 
+available but instead may be disclosed only “for a scholarly, 
+journalistic, political, or governmental purpose, Or . . . for 
+investigation purposes by a licensed private investigator.” Any 
+recipient of addresses under this provision must furthermore 
+certify that the information will “not be used directly or 
+indirectly to sell a product or service.” /d. 
+
+
+By providing for the release of various government 
+records to the press and others so long as those records are not 
+used for commercial or solicitation purposes, Section 
+6254(f)(3) mirrors more than eighty statutes adopted by the 
+federal government and thirty-eight different states. Pet. App. 
+la-5Sa. Thirteen states, including California, specifically apply 
+this restriction to some or all police report information. /d. la. 
+Statutes in ten states prohibit the commercial use of not just 
+police reports but most government records. Id. Dozens of 
+other federal and state statutes similarly prohibit the 
+commercial use of several other classes of government records, 
+including election and public assistance records. /d. 3a-4a. 
+
+
+4 
+
+
+2. Prior to the enactment of Section 625 
+Respondent United Reporting Publishing Corporation aie 
+of the names and addresses of arrestees to attorneys, insurance 
+companies, driving schools, and others. Pet. App. lla. Upon 
+the statute's enactment, Respondent sued Petitioner Los 
+Angeles Police Department and others in federal district court 
+alleging that the statute would prevent it from lawfully selling 
+address information. Respondent alleged, inter alia, that the 
+statute was facially invalid under the First Amendment because 
+it infringed upon Respondent’s commercial speech right to 
+disseminate this information. /d | 
+
+
+The district court agreed and permanently enjoined the 
+enforcement of Section 6254(f)(3). The district court began by 
+acknowledging not only that “[cJourts have uniformly” 
+concluded that “there is no constitutional right, and specifically 
+no First Amendment right, of access to all governmental 
+records, but also that “[t]he First Amendment directly protects 
+the expression of information already obtained; it does not 
+guarantee access to the sources of information.” Pet. App. 12a- 
+13a. _The court also recognized that Section 6254(f)(3) 
+prohibits only the acquisition of a government record. not any 
+communication by Respondent. The district court therefore 
+acknowledged that California “could constitutionally prevent 
+everyone from having access to this information.” Jd 14a. 
+
+
+The district court nonetheless found that the statute 
+implicates the First Amendment because it “makes all arrestee 
+information public, but then limits access only to those who 
+plan to use arrestee addresses in commercial speech.” Jd. 14a! 
+
+
+' The district court did not provide any explanation for i statemen 
+Section 6254(f\(3) prohibits only the patntine ~ of or tana ene ' a 
+plain text of the statute provides that address information shall be released only “for 
+a scholarly, journalistic, political, or governmental purpose, [or] for inant 
+purposes by a licensed private investigator.” Respondent has asserted on as 
+categories of permissible recipients set forth in Section 6254(f(3) are so v that, 
+7 effect, only commercial users are excluded. E.g., Resp. C.A. > 3 
+Pony arid «a no authority or explanation for this claim, and we submit 
+pent ne _— 6254(f)(3) are unambiguous. To take the simplest case, 
+pea © question that a member of the general public engaged in curiosity seeking 
+
+prohibited by Section 6254(f(3) from receiving address information. In any 
+
+
+a ——————— 
+
+
+5 
+
+
+Based on its view that Section 6254(f)(3) implicates 
+
+
+Respondent’s commercial speech rights, the court analyzed the 
+statute under the four-part test set forth by this Court in Central 
+Hudson Gas & Electric Corp. v. Public Service Commission of 
+New York, 447 U.S. 557 (1980): 
+
+
+[1] At the outset, we must determine whether 
+the expression is protected by the First Amendment. 
+For commercial speech to come within that provision, 
+it at least must concern lawful activity and not be 
+misleading. [2] Next, we ask whether the asserted 
+governmental interest i: substantial. [3] If both 
+inquiries yield positive answers, we must determine 
+whether the regulation directly advances the 
+governmental interest asserted, and [4] whether it is 
+
+not more extensive than is necessary to serve that 
+
+interest. 
+
+Id. at 566. The district court found the first two Central 
+Hudson prongs to be satisfied in this case: the parties did not 
+dispute that Respondent’s sales of arrestee information were 
+lawful and not misleading; and the court found that California 
+has a substantial interest in, inter alia, protecting the privacy of 
+arrestees by restricting the dissemination of address 
+information. Pet. App. 17a. 
+
+Regarding the third Central Hudson prong, the district 
+court recognized that the courts which have “dealt with statutes 
+substantially similar to Cal. Gov. Code § 6254(f) split on 
+whether the statutes materially advanced the state’s interest in 
+protecting the privacy of its citizens.” Pet. App. 19a. For 
+example, in Lanphere & Urbaniak v. Colorado, 21 F.3d 1508, 
+cert. denied, 513 U.S. 1044 (1994), the Tenth Circuit upheld 
+Colorado’s parallel statute on the ground that the state’s 
+interest in protecting privacy is directly advanced when the 
+State no longer allows access to the names and addresses of 
+arrestees. Pet. App. 19a (citing Lanphere, 21 F.3d at 1515). 
+
+
+event, when as here the plaintiff challenges the facial validity of a statute, courts 
+properly construe the statute to avoid constitutional concerns, not create them. 
+Ohio v. Akron Ctr. For Reproductive Health, 497 U.S. 502, 514 (1990). 
+
+
+6 
+
+
+The district court in this case considered but expressly rejected 
+the Tenth Circuit’s view, reasoning that Section 6254(f)(3) 
+“still allows [the individual’s] name and address to be 
+published in the newspapers, broadcast on television, and/or 
+obtained by an employer or even an enemy. These are 
+potentially much more pervasive invasions of privacy, yet the 
+statute allows them.” /d 21a. The district court also doubted 
+that Respondent’s conduct led to unwarranted invasions on 
+individual privacy: “If [the recipients] don’t like the 
+solicitation, they can simply throw it away.” Jd On this basis, 
+the district court concluded that Section 6254(f)(3) fails the 
+Central Hudson inquiry and is unconstitutional. Pet. App. 
+22a. 
+
+
+3. On Petitioner’s appeal, the Ninth Circuit affirmed, 
+agreeing with the district court that Section 6254(f)(3) fails to 
+advance materially the state’s interest in privacy. Pet. App. 
+24a. The court reasoned from its earlier decision in Valley 
+Broadcasting Co. v. United States, 107 F.3d 1328 (9th Cir. 
+1997), cert. denied, 118 S. Ct. 1050 (1998). Valley 
+Broadcasting invalidated a federal ban on_ broadcast 
+advertisements of casino gambling on the ground that statutory 
+exceptions for other forms of gaming advertisements rendered 
+the statute ineffectual. According to the opinion below, 
+“Likewise here, we are compelled to hold that the numerous 
+exceptions to § 6254(f)(3) for journalistic, scholarly, political, 
+governmental, and investigative purposes render the statute 
+unconstitutional under the First Amendment.” /d. at 35a. The 
+court continued: 
+
+
+It is not rational for a statute which purports to 
+advance the governmental interest in protecting the 
+privacy of arrestees to allow the names and addresses 
+
+
+> The district court also raised a concern that the statute may have “been 
+intended to prevent arrestees from obtaining counsel because law enforcement 
+agencies find it easier to deal with arrestees who are not represented by counsel.” 
+Pet. App. 21a. This is an unfair characterization of the statute, which equally 
+restricts the release of the addresses of crime victims. In any event, the Ninth Circuit 
+did not echo this concern on appeal, and it therefore did not play any part in the 
+judgment below. 
+
+
+pe, ee 
+
+
+i CAB LPN a ey sxe 
+
+
+7 
+
+
+of the same to be published in any newspaper, article, 
+or magazine in the country so long as the information 
+is not used for commercial purposes. Having one’s 
+name, crime, and address printed in the local paper is 
+a far greater affront to privacy than receiving a letter 
+from an attorney, substance abuse counselor, or 
+driving school eager to help one overcome his present 
+difficulties (for a fee, naturally). 
+
+
+Id. 
+
+The Ninth Circuit recognized that the Tenth Circuit had 
+upheld Colorado’s parallel statute in the Lanphere case. Pet. 
+App. 33a-34a & n.4. The Ninth Circuit concluded, however, 
+that because the Tenth Circuit’s analysis conflicted with 
+Supreme Court precedent and with the Ninth Circuit's own 
+decision in Valley Broadcasting, “[t}he district court was 
+correct not to follow Lanphere.” Id. 
+
+
+This Petition followed. 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+I. THE CIRCUITS AND STATE SUPREME COURTS 
+ARE IRRECONCILABLY DIVIDED ON THIS 
+FREQUENTLY RECURRING QUESTION OF 
+FEDERAL LAW. 
+
+
+1. This Court should grant certiorari to resolve the well- 
+recognized division in the lower courts over whether, under the 
+First Amendment, the government may release police reports 
+for journalistic and other purposes but not for commercial use. 
+Eighteen such statutes exist in thirteen states. Pet. App. la-2a. 
+Eleven such statutes have been challenged on First Amendment 
+grounds. /d. 
+
+
+The split in the appellate courts on the constitutionality of 
+statutes prohibiting the commercial use of police report 
+information is three to three. The Tenth Circuit, Louisiana 
+Supreme Court, and South Carolina Supreme Court have found 
+such measures to be constitutional. Lanphere & Urbaniak v. 
+Colorado, 21 F.3d 1508 (10th Cir.), cert. denied, 513 U.S. 
+
+
+1044 (1994); DeSalvo v. Louisiana, 624 So. 2d 897 (La. 1993), 
+cert. denied, 510 U.S. 1117 (1994); Walker v. South Carolina 
+Department of Highways & Public Transportation, 466 S.E.2d 
+346 (S.C. 1995). On the other hand, the Fifth, Ninth, and 
+Eleventh Circuits have struck down the statutes of Texas, 
+California, and Georgia. Pet. App. 24a; Speer v. Miller, 15 
+F.3d 1007 (11th Cir. 1994); Innovative Database Systems. v. 
+Morales, 990 F.2d 217 (Sth Cir. 1993). District courts have 
+struck down separate Georgia and Texas statutes, as well as the 
+statutes of Florida, Kentucky, and New Mexico.’ Statewide 
+Detective Agency v. Miller, No. 96-cv-1033 (WBH), Order 
+(N.D. Ga. Aug. 12, 1998); Babkes v. Satz, 944 F. Supp. 909 
+(S.D. Fla. 1996); Amelkin v. Commissioner, 936 F. Supp. 428 
+(W.D. Ky. 1996); Moore v. Morales, 843 F. Supp. 1124 (S.D. 
+Tex. 1994), on appeal of separate issue, aff'd in part and rev'd 
+in part, 63 F.3d 358 (Sth Cir. 1995), cert. denied, 516 U.S. 
+1115 (1996); LaSalle v. Udell, Case No. 9%4-0404-M. 
+Unpublished Opinion and Order (D.N.M. Feb. 16, 1996).‘ 
+
+
+2. In Lanphere & Urbaniak v. Colorado, 2\ F.3d 1508, 
+the Tenth Circuit sustained a Colorado statute providing that 
+law enforcement records “and the names, addresses, telephone 
+numbers, and other information in such records shall not be 
+used by any person for the purpose of soliciting business for 
+pecuniary gain.” Unlike the Ninth Circuit, which subjected 
+
+
+> The Oregon Court of Appeals invalidated that state’s statute based on the 
+free speech provision of the state Constitution. Zackheim v. Forbes, 895 P.2d 793 
+(1995). The statute subsequently was repealed. 
+
+
+__* Petitioner notes for the Court’s benefit a few additional facts about the 
+history and procedural posture of these district court cases. First, the district court’s 
+Amelkin decision, which invalidated the Kentucky statute, currently is on appeal to 
+the Sixth Circuit, which has twice previously invalidated injunctions against the 
+same statute's enforcement fot failure to follow FRCP 65. Northern Kentucky 
+Chiropractic v. Ramey, No. 95-5645, 1997 U.S. App. LEXIS 1734 (6th Cir. Jan. 29 
+1997); Amelkin v. McClure, No. 94-6161, 1996 U.S. App. LEXIS 1414 (6th Cir. Jan 
+9, 1996). Second, in an interlocutory appeal of Statewide Detective Agency v. 
+Miller, the Eleventh Circuit sustained a preliminary injunction entered by the district 
+court against the enforcement of the Georgia statute. 115 F.3d 904 (1997). Third, 
+the Texas statute at issue in the Moore v. Morales case (Tex. Civ. Stat. Ann. Art 
+6701(d), § 45(a)) subsequently was repealed. ; 
+
+
+9 
+
+
+Cal. Gov't Code § 6254(f)(3) to stringent review as a ban on 
+commercial speech, the Tenth Circuit concluded that it was 
+inappropriate to require a strict “fit” between the Colorado 
+statute’s means and ends because the state “has not completely 
+banned direct mail solicitation for pecuniary gain of any 
+particular group. The State has instead established an indirect 
+barrier to commercial speech by not making certain records 
+available for that purpose.” /d. at 1515. The Tenth Circuit also 
+expressly rejected the contention, which is central to the Ninth 
+Circuit's ruling in this case, that various exceptions render the 
+statute ineffectual: 
+
+
+Plaintiffs contend that the State’s asserted 
+privacy interest is only chimerical because the 
+identity of those charged may be available through 
+other sources such as local newspapers. However, 
+even if the information is available to some degree 
+through other sources, the state’s interest in not aiding 
+in the dissemination of the information for 
+commercial purposes remains. We presume that 
+plaintiffs would not be involved in this litigation if the 
+information they seek is so widely available that the 
+privacy of the accused is no longer at issue. 
+
+
+Id. at 1514. 
+
+
+The district court and Ninth Circuit in this case both 
+openly acknowledged a square conflict with the Tenth Circuit's 
+decision in Lanphere. Pet. App. 19a, 33a-34a. Prior to the 
+ruling in this case, the conflict between Lanphere and the Fifth 
+and Eleventh Circuits’ decisions in Speer and /nnovative 
+Database Systems was widely recognized. As the district court 
+for the Western District of Kentucky explained in analyzing 
+that state’s commercial-use prohibition: 
+
+A close question is presented to the Court as to 
+
+the constitutionality of the statutes challenged by the 
+
+plaintiffs. There is a conflict in the decisions of the 
+
+Eleventh Circuit and the Tenth Circuit as evidenced 
+
+by the decisions in Speer v. Miller, 15 F.3d 1007 
+
+(11th Cir. 1994), and Lanphere & Urbaniak v. State 
+
+
+10 
+
+
+of Colorado, 21 F.3d 1508 (10th Cir. 1994). In 
+addition, the decisions in Moore v. Morales, 843 F. 
+Supp. 1124 (S.D. Texas 1994), and J/nnovative 
+Database Systems v. Morales, 990 F.2d 217 (5th Cir. 
+1993), hold that Texas may not prohibit chiropractors 
+or attorneys from receiving access to motor vehicle 
+accident reports on the grounds that they will use the 
+information for financial gain. 
+
+
+Amelkin v. Commissioner, 936 F. Supp. 428, 429 (W.D. Ky. 
+1996). A federal court reviewing one of Georgia’s several 
+commercial-use prohibitions similarly has recognized that the 
+Eleventh Circuit’s Speer ruling “is in conflict with the Tenth 
+Circuit's finding that the Colorado statute banning lawyers but 
+not the media from accessing certain government records 
+advanced a substantial interest in protecting the privacy of the 
+peopie listed in the protected government records.” Speer v. 
+Miller, 864 F. Supp. 1294, 1301 (N.D. Ga. 1994). And, in a 
+challenge to one of Florida’s commercial-use prohibitions, the 
+state similarly “urge[d] the Court to follow Lanphere & 
+Urbaniak v. Colorado,” but the court refused, explaining that 
+“[t}his argument ignores that Speer v. Miller, 15 F.3d 1007 
+(11th Cir. 1994) is binding precedent on this Court.” Babkes v. 
+Satz, 944 F. Supp. 909, 913 n.4 (S.D. Fla. 1996). 
+
+3. The Ninth Circuit’s decision in this case also is in 
+direct conflict with rulings of two state supreme courts. 
+DeSalvo v. Louisiana, 624 So. 2d 897 (La. 1993), cert. denied, 
+510 U.S. 1117 (1994), sustained a statute that permitted the 
+release of accident reports to parties involved in the accident, 
+insurers, driving records contractors, and the press, but not to 
+businesses for commercial purposes. /d at 898. The Louisiana 
+Supreme Court applied a “less stringent test” in reviewing the 
+statute because the commercial-use prohibition only “indirectly 
+results in a stricture upon the flow of information or ideas 
+because of a government measure seeking a goal independent 
+of the communicative content or impact of the speech.” /d. at 
+900. Under this test, the court sustained the statute because it 
+“narrowly focuses on the state’s substantial interest in 
+protecting the right of privacy of individuals. ... The plenary 
+
+
+power of the legislature, in exercising the police power of the 
+state, to make all laws necessary and proper to that end is broad 
+and sweeping.” /d. at 901 (citing Frisby v. Schultz, 487 U.S. 
+474, 484 (1988) (“The State’s interest in protecting the well 
+being, tranquility, and privacy of the home is certainly of the 
+highest order in a free and civilized society.”)); see also 
+Northern Kentucky Chiropractic v. Ramey, No. 95-5645, 1997 
+U.S. App. LEXIS 1734 (6th Cir. Jan. 29, 1997) (Nelson, J., 
+concurring) (recognizing that DeSalvo and Lanphere conflict 
+with decisions of Fifth and Eleventh Circuits). 
+
+
+In Walker v. South Carolina Department of Highways & 
+Public Transportation, 466 S.E.2d 346 (1995), the South 
+Carolina Supreme Court similarly sustained a_ statute 
+prohibiting the release of police accident reports “for 
+commercial solicitation purposes.” The court concluded that 
+the statute did not implicate the First Amendment because it 
+“regulates only access to information; it in no way inhibits [the 
+plaintiff's] exercise of her free speech rights in the form of 
+direct mail to prospective clients.” /d at 348. Moreover, 
+citing the Tenth Circuit's decision in Lanphere, the court made 
+clear that it would sustain the statute under a First Amendment 
+analysis: “Even if the first amendment applied, the State's 
+interest in protecting the privacy of victims is sufficient to 
+justify the statute’s restriction on commercial solicitation.” /d. 
+
+3. Certiorari also is warranted because the decision below 
+directly implicates two other important conflicts in the lower 
+courts. First, the circuits disagree over whether restrictions on 
+commercial speech are invalid if they contain exceptions 
+permitting the publication of similar information in other 
+forms. The Ninth Circuit in Valley Broadcasting Co. v. United 
+States, 107 F.3d 1328, cert. denied, 118 S. Ct. 1050 (1998), 
+invalidated a federal ban on casino gambling because the 
+statute permits other forms of gaming advertisements. See 
+supra at 3. The Fifth Circuit, however, recently upheld the 
+same statute, expressly rejecting the stringent test applied by 
+the Ninth Circuit. Greater New Orleans Broadcasting Ass'n v. 
+United States, 149 F.3d 334, pet. for cert. pending, No. 98-387 
+(Sept. 2, 1998). That conflict applies fully here. Applying 
+
+
+12 
+
+
+Valley Broadcasting, the Ninth Circuit in this case invalidated 
+Section 6254(f)(3) because the statute contains exceptions 
+under which the state provides address information to the press, 
+scholars, and investigators. Pet. App. 35a. The Tenth Circuit 
+and Louisiana and South Carolina Supreme Courts, by contrast, 
+have refused to review such exceptions stringently and have 
+concluded that the statutes sufficiently advance the 
+government's interest in protecting individual privacy. 
+
+
+Second, the lower courts have divided over the 
+constitutionality of a closely related commercial-use_prohi- 
+bition involving campaign records. The federal government 
+and many states permit the re. ase of campaign contribution 
+records, but only so long as the recipient agrees not to use the 
+information for commercial or solicitation purposes. Pet. App. 
+3a-4a. The en banc D.C. Circuit upheld the federal statute in 
+FEC vy. International Funding Institute, 969 F.2d 1110, cert. 
+denied, 506 U.S. 1001 (1992), despite the fact that “[t}he 
+information in the report submitted by a political committee 
+may freely be copied, published, and with one exception, used 
+in any way.” /d at 1117. The Supreme Court of Missouri, 
+however, invalidated that state’s parallel statute in Ryan v. 
+Kirkpatrick, 669 S.W.2d 215 (1984) (en banc), and the Second 
+Circuit has narrowly construed the federal provision in light of 
+serious concerns about its constitutionality, FEC v. Political 
+Contributions Data, 943 F.2d 190 (1991). 
+
+
+4. The extraordinary importance of this question to the 
+administration of state and federal public records law is beyond 
+question. Thirteen states prohibit the use of police report 
+information for commercial purposes. Pet. App. la-2a. 
+Moreover, the principle at stake has far greater application 
+because so many state and federal laws permit the release of 
+
+
+* Then-Judge Ruth Bader Ginsburg joined the Court’s opinion but also 
+concurred separately to note that the commercial-use restriction was valid because it 
+does not have “the effect of favoring a particular speaker or set of ideas.” 969 F.2d 
+at 1119. Moreover, the statute permits solicitors to “contact{] the very individuals 
+whose names appear on the FEC lists they inspect (so long as the solicitees’ names 
+are obtained from an independent source).” Jd 
+
+
+13 
+
+
+government records but forbid their use for commercial 
+purposes. Campaign contribution statutes of the kind at issue 
+in the /nternational Funding Institute and Ryan cases are just 
+one example.° In total, the federal government and thirty-eight 
+different states prohibit the use of various government records 
+for commercial purposes through more than eighty different 
+statutes. Pet. App. la-Sa. 
+
+
+5. No purpose is served by permitting the conflict to 
+percolate further in the lower courts, which already have 
+addressed the constitutionality of e/even indistinguishable 
+statutes that prohibit the commercial use of police report 
+information. Pet. App. la-2a. The question has been 
+addressed by four different federal courts of appeals and two 
+state supreme courts, which have sustained the statutes of 
+Colorado, Louisiana, and South Carolina, but invalidated those 
+of California, Georgia, and Texas. See supra. Only a decision 
+by this Court can produce a consistent and coherent application 
+of the First Amendment regarding this important and recurring 
+issue. 
+
+
+Il. THE DECISION BELOW IS ERRONEOUS. 
+
+
+Certiorari also is warranted because the ruling below 
+conflicts with this Court’s First Amendment precedents. The 
+constitutionality of Section 6254(f)(3) can be analyzed under 
+the four-prong test set forth by this Court in Central Hudson. 
+But any such analysis must account for the state’s wide 
+discretion in releasing government records and also the 
+extremely indirect burden on Respondent’s speech that Section 
+6254(f)(3) imposes. The Ninth Circuit, however, analyzed 
+Section 6254(f(3) as if it were a complete prohibition on 
+
+
+* For example, two First Amendment challenges recently have been brought 
+against a provision of the Driver's Privacy Protection Act that permits the release of 
+state driver's license information, but not for commercial purposes. 18 U.S.C. §§ 
+2721-22; Condon v. Reno, 155 F.3d 453 (4th Cir. 1998) (disposing of case on — 
+alternative Tenth Amendment ground), Loving v. United States, No. 97-6060, 1997 
+U.S. App. LEXIS 23639 (10th Cir. Sept. 8, 1997) (disposing of case on standing 
+
+
+grounds). 
+
+
+14 
+
+
+Respondent’s speech. In so extending the protections afforded 
+to commercial speech, the Ninth Circuit seriously undermined 
+this Court’s decisions governing the right of access to public 
+records. Moreover, the stringent review applied by the Ninth 
+Circuit erroneously led it to conclude that Section 6254(f)(3), 
+by providing address information to the press, scholars, and 
+investigators, fails to advance the state’s interest in protecting 
+individual privacy. 
+
+1. Restrictions on the release of government records do 
+not violate the First Amendment. “This Court has never 
+intimated a First Amendment guarantee of a right of access to 
+all sources of information within government control.” 
+Houchins v. KQED, 438 U.S. 1, 8 (1978) (plurality opinion). 
+To the contrary, when the government decides to release 
+information, “the processes thereunder are a matter of 
+legislative grace.” Seattle Times Co. v. Rhinehart, 467 U.S. 20, 
+32 (1984). In fact, the Court has encouraged state governments 
+to “establish and enforce procedures” governing the release of 
+“sensitive information [in their] custody,” as “a less drastic 
+means than punishing truthful publication [to] guard{] against 
+the dissemination of private facts.” Florida Star v. BJF, 49| 
+U.S. 524, 534 (1989). 
+
+
+The Ninth Circuit ignored these precedents and instead 
+recast Section 6254(f)(3) as a restriction on Respondent’s right 
+to disseminate address information, notwithstanding that the 
+statute does not restrict commercial speech in any sense 
+previously recognized by this Court. “[T]he test for identifying 
+commercial speech” is whether the subject of government 
+regulation “propose[s] a commercial transaction.” Board of 
+Trustees v. Fox, 492 U.S. 469, 473 (1989) (quoting Virginia 
+Pharmacy Bd. v. Virginia Citizens Consumer Council, 425 
+U.S. 748, 762 (1976)). Respondent proposes a commercial 
+transaction when it advertises to attorneys, insurance 
+companies, and others that it has address information for sale. 
+As the Ninth Circuit itself recognized, Respondent’s “speech 
+can be reduced to, ‘I [United Reporting] will sell you [client] 
+the X [names and addresses of arrestees] at the Y price.’” Pet. 
+App. 29a (alterations in original). Section 6254(f)(3) does not 
+
+
+15 
+
+
+interfere with such an advertisement. To the contrary, 
+Respondent “may disseminate the identical information . . . as 
+long as the information is gained through means independent 
+of” state arrest records. Seattle Times Co., 467 U.S. at 33. 
+
+
+Nor does Section 6254(f)(3) constitute an impermissible 
+indirect burden on Respondent’s speech. Respondent contends 
+that it cannot advertise that it has address information available 
+for sale for the simple reason that Section 6254(f)(3) forbids 
+Respondent from acquiring that information. But such a 
+restriction does not violate the First Amendment; as with all 
+government determinations regarding the release of records, it 
+is a matter of legislative grace. Thus, in Zemel v. Rusk, the 
+Court rejected the argument that the federal ban on travel to 
+Cuba interfered with the First Amendment right to gather 
+information about the effects of U.S. policy: 
+
+
+[There] are few restrictions on action which 
+could not be clothed by ingenious argument in the 
+garb of decreased data flow. For example, the 
+prohibition of unauthorized entry into the White 
+House diminishes the citizen’s opportunities to gather 
+information he might find relevant to his opinion of 
+the way the country is being run, but that does not 
+make entry into the White House a First Amendment 
+right. The right to speak and publish does not carry 
+with it the unrestrained right to gather information. 
+
+
+381 U.S. 1, 16-17 (1965). 
+
+
+2. The remaining contention of the court of appeals — that 
+Section 6254(f)(3) is invalid because it is irrational — is 
+erroneous as well. According to the Ninth Circuit, “[i]t is not 
+rational for a statute which purports to advance the 
+governmental interest in protecting the privacy of arrestees to 
+allow the names and addresses of the same to be published in 
+any newspaper, article, or magazine in the country so long as 
+the information is not used for commercial purposes.” Pet. 
+App. 35a. But although the press may frequently report the 
+names of persons who have been arrested, experience suggests 
+that such reports rarely include the arrested person’s address, 
+
+
+16 
+
+
+which is the one piece of information withheld from 
+Respondent by Section 6254(f)(3). For this reason, California 
+(like the other states with similar statutes) reasonably could 
+conclude that commercial access to address information would 
+result in direct solicitations of arrestees or the creation of 
+unreliable data banks of criminal history data, and that these 
+commercial uses of address information would constitute an 
+invasion of privacy of a different order of magnitude than any 
+reporting by the press. Accord Lanphere, 15 F.3d at 1514 
+(“[P)}laintiffs would not be involved in this litigation if the 
+information they seek is so widely available that the privacy of 
+the accused is no longer at issue.”). 
+
+
+The Ninth Circuit’s contrary conclusion — that the 
+government must make such records available to everyone or 
+to no one at all — is not supported by this Court’s precedents. 
+For example, in Nixon v. Warner Communications, 435 U.S. 
+589, 594, 609 (1978), the Court refused to require the release 
+of the Nixon tapes to businesses seeking to “sell to the public 
+the portions of the tape played at the trial [of various White 
+House officials]” despite the fact that “the contents of the tapes 
+were given wide publicity by all elements of the media.” 
+Rubin v. Coors Brewing Co., 514 U.S. 476 (1995), is not to the 
+contrary. In that case, the government irrationally attempted to 
+distinguish within classes of commercial speech in several 
+respects: by permitting the publication of alcohol-strength data 
+in advertisements but not on beer labels; by nonetheless 
+permitting the use of the phrase “malt liquor” on beer labels as 
+an indicator of strength; and by requiring that strength 
+information appear on labels of many distilled spirits. /d. at 
+488-89. Section 6254(f)(3) does not suffer from any such 
+irrationality: the statute incrementally increases individual 
+privacy by minimizing the instances in which address 
+information is unnecessarily disclosed. 
+
+The Ninth Circuit’s analysis also ignores the state’s efforts 
+to strike a balance between maintaining individual privacy and 
+furthering core First Amendment values. California 
+unquestionably could adopt a complete prohibition on access to 
+arrestee address records, which would more completely protect 
+
+
+17 
+
+
+the privacy of arrestees. /d 14a. (Ironically, that may 
+ultimately be the state’s response if the decision below is 
+allowed to stand.) But such a prohibition would deprive the 
+press of address information, which although it would be 
+constitutional would be inimical to the fundamental goals of 
+the First Amendment. Section 6254(f)(3) constitutes a 
+reasoned effort to avoid interfering with the press while at the 
+same time preserving individual privacy where possible. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the Petition for a Writ of 
+Certiorari should be granted. 
+
+
+Respectfully submitted, 
+James K. Hahn David Boies 
+Frederick N. Merkin (Counsel of Record) 
+Byron R. Boeckman BOIES & SCHILLER LLP 
+Office of the City Attorney 80 Business Park Dr. 
+1800 City Hall East Suite 110 
+200 N. Main St. Armonk, NY 10504 
+Los Angeles, CA 90012 (914) 273-9800 
+
+
+Jonathan D. Schiller 
+Thomas C. Goldstein 
+BOIES & SCHILLER LLP 
+5301 Wisconsin Ave., NW 
+Suite 570 
+
+Washington, DC 20015 
+
+
+October 23, 1998 
+
+
+APPENDIX OF RELATED STATUTES 
+
+
+A. POLICE REPORT STATUTES 
+1. Ariz. Rev. Stat. § 28-667 (1998). 
+
+
+2. Cal. Gov't Code § 6254 (Deering 1997) 
+(invalidated by 
+Corp. v. California Hgwy. Patrol, 146 F.3d 1133 
+(9th Cir.1998), aff g 946 F. Supp. 822 (S.D. 
+Cal. 1996)). 
+Colo. Rev. Stat. § 24-72-305.5 (1997) (sustained 
+by Lanphere & Urbaniak v. Colorado, 21 F.3d 
+1508 (10th Cir.), cert. denied, 513 U.S. 1044 
+(1994)). 
+Fla. Stat. chs. 119.105, 316.066, 316.650, 
+327.301 (1998) (ch 316.650(11) invalidated by 
+Babkes v. Satz, 944 F. Supp. 909 (S.D. Fla. 
+1996)). 
+Ga. Code Ann. §§ 33-24-53, 35-1-9 (1998) (§ 
+33-24-53(c) invalidated by Statewide Detective 
+Agency v. Miller, No. 96-Civ-1033 (WBH), 
+Order (N.D. Ga. Aug. 12, 1998); § 35-1-9 
+invalidated by Speer v. Miller, 15 F.3d 1007 
+
+
+(11th Cir. 1994), on remand, 864 F. Supp. 1294 
+(N.D. Ga. 1994)). 
+
+
+Haw. Rev. Stat. Ann. § 286-172 (Michie 1997). 
+
+
+Ky. Rev. Stat. Ann. § 189.635 (Michie 1996) 
+(invalidated by Amelkin v. Commissioner, 
+Dep’t of St. Police, 936 F. Supp. 428 (W.D. Ky. 
+1996), on remand from Amelkin v. McClure, 
+No. 94-6161, 1996 U.S. App. LEXIS 1414 (6th 
+
+
+Cir. Jan. 9, 1996)). 
+
+
+La. Rev. Stat. Ann. § 32:398 (West 1998) 
+
+
+(sustained by DeSalvo v. Louisiana, 624 So. 2d 
+
+
+897 (La. 1993), cert. denied, 510 U.S. 1117 
+(1994)). 
+
+
+10. 
+
+
+11. 
+
+
+13. 
+
+
+2a 
+
+
+Md. Code Ann., State Gov’t § 10-616 (1997). 
+N.M. Stat. Ann. § 14-2A-1 (Michie 1998) 
+
+
+(invalidated by Lavalle v. Udall, Civ. A. No. 94- 
+
+
+0404-M, Order (D.N.M Feb. 16, 1996)). 
+
+
+Okla. Stat. tit. 51, § 24A.8 (1997); H.Bill 1665, 
+46th Leg., 2d. Sess. (Okla. 1997). 
+
+
+S.C. Code Ann. § 56-5-1275 (Law. Co-op. 
+1997) (sustained in Walker v. South Carolina 
+
+
+Dep't of Highways & Pub. Trans., 466 S.E.2d 
+346 (S.C. 1995)). 
+Tex. Bus. & Com. Code Ann. § 35.54 (West 
+
+
+1998) (invalidated by Innovative Database Sys. 
+v. Morales, 990 F.2d 217 (Sth Cir. 1993)). 
+
+
+GENERAL PUBLIC RECORD STATUTES 
+
+
+ee Pn~ PY FP YP = 
+
+
+> 
+
+
+Ariz. Rev. Stat. § 39-121.03 (1997). 
+
+Cal. Gov't Code §§ 6253, 6255 (Deering 1997). 
+Ky. Rev. Stat. Ann. § 61.870 (Michie 1996). 
+Md. Code Ann., State Gov’t § 9-1015 (1997). 
+N.M. Stat. Ann. § 14-3-15.1 (Michie 1998). 
+N.Y. Pub. Off. Law § 89 (Consol. 1998). 
+
+R.I. Gen. Laws § 38-2-6 (1997). 
+
+S.C. Code Ann. §§ 30-4-50 (Law Co-op. 1997). 
+Wash. Admin. Code. § 292-10-040 (1997) 
+
+
+Wash. Rev. Code Ann. § 42.17.260 (Michie 
+1997). 
+
+
+MOTOR VEHICLE STATUTES 
+
+
+1. 
+
+
+2. 
+3. 
+4 
+
+
+18 U.S.C. 2721, 2722 (1998). 
+
+Ark. Code Ann. § 27-14-412 (Michie 1997). 
+Ariz. Rev. Stat. § 28-452 (1998). 
+
+625 Ill. Comp. Stat. 5/2-123 (West 1998). 
+
+
+| 
+} 
+
+
+5. 
+6. 
+| 
+
+
+3a 
+Mich. Stat. Ann §4.480(8) (Law. Co-op 1997). 
+75 Pa. Cons. Stat. § 6114 (1997). 
+Utah Code Ann. § 41-la-116 (1998). 
+
+
+D. PUBLIC ASSISTANCE STATUTES 
+
+
+l. 
+
+
+IDWS wH 
+
+
+Oo 9 
+
+
+10. 
+11. 
+12. 
+
+
+42 U.S.C.S. § 1306a (1998) (stating that state 
+legislation governing public access to state 
+disbursement records may include provisions 
+
+
+restricting access for commercial purposes); See 
+also, 45 C.F.R. § 205.50 (1998). 
+
+
+Ga. Code. Ann. § 49-4-14 (1997). 
+
+305 Ill. Comp. Stat. 5/11-12 (West 1998). 
+
+Ind. Code. Ann. § 12-14-22-8 (Michie 1998). 
+La. Rev. Stat. Ann. § 46:56 (West 1998). 
+Mich. Stat. Ann. § 16.464 (Law. Co-op. 1997). 
+
+
+Neb. Rev. Stat. Ann. § 68-313.01 (Michie 
+1997). 
+
+
+N.Y. Soc. Serv. Law § 136 (Consol. 1998). 
+N.C. Gen. Stat. § 108A-80 (1997). 
+
+Vt. Stat. Ann. tit. 33 § 111 (1997). 
+
+H. Bill 3076, 55th Leg. (Wash. 1997). 
+Wis. Stat. § 49.32 (1997). 
+
+
+E. ELECTION STATUTES 
+
+
+l. 
+
+
+"PY 
+
+
+2 U.S.C. § 438 (1998) (regarding administrative 
+provisions related to disclosure of federal 
+campaign funds). 
+
+
+Ala. Code. § 17-22A-11 (1997). 
+
+Colo. Rev. Stat. §§ 1-45-111 to 112 (1997). 
+D.C. Code Ann. §§ 1-1433, 1456 (1998). 
+Haw. Rev. Stat. § 11-193 (1997). 
+
+
+4a 
+
+6. Fila. Stat. ch. 98.095 (1997). 
+
+7. Idaho Code § 34-437 (1997). 
+
+8. Ind. Code. Ann. § 3-9-4-5 (Michie 1998). 
+
+9. lowa Code § 68B.32A (1997). 
+
+10. Kan. Stat. Ann. §§ 25-2320a, 4154, 4186 
+(1997). 
+
+11. Md. Code Ann. art. 33, § 3-22 (1997). 
+
+12. Mich. Stat. Ann. §§ 4.1703(16), .1704(11) 
+(1997). 
+
+13. Minn. Stat. §10A.02 (Supp. 1997). 
+
+14. Mo. Rev. Stat. §§ 115.158, 130.056 (1997). 
+
+15. Neb. Rev. Stat. Ann. § 32-330 (Michie 1997); 
+Neb. Rev. Stat. Ann. § 49-14, 132 (Michie 
+1998). 
+
+16. Okla. Stat. tit. 74 § 4253 (1997). 
+
+17. Or. Rev. Stat. § 247.955 (1997). 
+
+18. S.D. Codified Laws § 12-25-34 (Michie 1998). 
+
+19. Wis. Stat. §§ 11.21- .22 (1997). 
+
+20. Wyo. Stat. Ann. § 22-2-113 (Michie 1997). 
+
+MISCELLANEOUS 
+
+1 5 U.S.C. app. § 105 (1998) (stating the 
+requirements for public access to federal 
+employee financial disclosure records); see also 
+5 C.F.R. 2634.603 (1998); 32 C.F.R. § 84.21 
+(1998); 32 C.F.R. pt. 1293 app. D. (1998); 45 
+C.F.R. 706.24 (1998); 47 C.F.R. 0.460, 19.743 
+(1998). 
+
+2. Ariz. Rev. Stat. § 36-136 (1998). 
+
+3. Conn. Gen. Stat. § 1-20b (1997); Pub. Act 97- 
+
+
+99, substitute H. Bill 6883, 1997 Reg. Sess. 
+(Conn.). 
+
+
+_. a 
+
+
+Sa 
+Ind. Code. Ann. § 5-14-3-5 (Michie 1998). 
+Md. R. Ann. 511 (1997). 
+Mich. Stat. Ann. § 24.1012 (Law/ Co-op. 1997). 
+N.C. Gen. Stat. § 132-1.4 (1997). 
+Or. Rev. Stat. §§ 192.501, 314.865 (1997). 
+S.C. Code Ann. § 30-4-40 (Law. Co-op. 1997). 
+Va. Code Ann. § 55-370 (Michie 1998). 
+
+
+_ Wash. Rev. Code Ann. §§  19.182.010, 
+
+
+82.32.330 (Michie 1997). 
+
+
+6a 
+Cal. Gov. Code § 6254 
+
+
+Except as provided in Sections 6254.7 and 6254.13, 
+
+
+nothing in this chapter shall be construed to require disclosure 
+of records that are any of the following: 
+
+
+(f) 
+
+
+Records of complaints to, or investigations conducted by, 
+or records of intelligence information or security 
+procedures of, the office of the Attorney General and the 
+Department of Justice, and any state or local police 
+agency, or any investigatory or security files compiled by 
+any other state or local police agency, or any 
+investigatory or security files compiled by any other state 
+or local agency for correctional, law enforcement, or 
+licensing purposes, except that state and local law 
+enforcement agencies shall disclose the names and 
+addresses of persons involved in, or witnesses other than 
+confidential informants to, the incident, the description of 
+any property involved, the date, time, and location of the 
+incident, all diagrams, statements of the parties involved 
+in the incident, the statements of all witnesses, other than 
+confidential informants, to the victims of an incident, or 
+an authorized representative thereof, an insurance carrier 
+against which a claim has been or might be made, and 
+any person suffering bodily injury or property damage or 
+loss, as the result of the incident caused by arson, 
+burglary, fire, explosion, larceny, robbery, carjacking, 
+vandalism, vehicle theft, or a crime as defined by 
+subdivision (c) of Section 13960, unless the disclosure 
+would endanger the safety of a witness or other person 
+involved in the investigation, or unless disclosure would 
+endanger the successful completion of the investigation 
+or a related investigation. However, nothing in this 
+division shall require the disclosure of that portion of 
+
+
+a | 
+
+
+7a 
+
+
+those investigative files that reflect the analysis or 
+conclusions of the investigating officer. 
+
+
+Other provisions of this subdivision notwithstanding, 
+state and local law enforcement agencies shall make public the 
+following information, except to the extent that disclosure of a 
+particular item of information would endanger the safety of a 
+person involved in an investigatior or would endanger the 
+successful completion of the investigation or a related 
+investigation: 
+
+
+(1) 
+
+
+(2) 
+
+
+The full name and occupation of every individual 
+arrested by the agency, the individual's physical 
+description including date of birth, color of eyes 
+and hair, sex, height and weight, the time and date 
+of arrest, the time and date of booking, the 
+location of the arrest, the factual circumstances 
+surrounding the arrest, the amount of bail set, the 
+time and manner of release or the location where 
+the individual is currently being held, and all 
+charges the individual is being held upon, 
+including any outstanding warrants from other 
+jurisdictions and parole or probation holds. 
+
+Subject to the restrictions imposed by Section 
+841.5 of the Penal Code, the time, substance, and 
+location of all complaints or requests for 
+assistance received by the agency and the time 
+and nature of the response thereto, including, to 
+the extent the information regarding crimes 
+alleged or committed or any other incident 
+investigated is recorded, the time, date, and 
+location of occurrence, the time and date of the 
+report, the name and age of the victim, the factual 
+circumstances surrounding the crime or incident, 
+and a general description of any injuries, 
+property, or weapons involved. The name of a 
+victim of any crime defined by Section 220, 261, 
+
+
+(3) 
+
+
+8a 
+
+
+262, 264, 264.1, 273a, 273d, 273.5, 286, 288, 
+288a, 289, 422.6, 422.7, 422.75, or 646.9 of the 
+Penal Code may be withheld at the victim’ s 
+request, or at the request of the victim's parent or 
+guardian if the victim is a minor. When a person 
+is the victim of more than one crime, information 
+disclosing that the person is a victim of a crime 
+defined by Section 220, 261, 262, 264, 264.1, 
+273a, 273d, 286, 288, 288a, 289, 422.6, 422.7, 
+422.75, or 646.9 of the Penal Code may be 
+deleted at the request of the victim, or the victim's 
+parent or guardian if the victim is a minor, in 
+making the report of the crime, or of any crime or 
+incident accompanying the crime, available to the 
+public in compliance with the requirements of 
+this paragraph. 
+
+Subject to the restrictions of Section 841.5 of the 
+Penal Code and this subdivision, the current 
+address of every individual arrested by the agency 
+and the current address of the victim of a crime, 
+where the requester declares under penalty of 
+perjury that the request is made for a scholarly, 
+journalistic, political, or governmental purpose, or 
+that the request is made for investigation purposes 
+by a licensed private investigator as described in 
+Chapter 11.3 (commencing with Section 7512) of 
+Division 3 of the Business and Professions Code, 
+except that the address of the victim of any crime 
+defined by Section 220, 261, 262, 264, 264.1, 
+273a, 273d, 273.5, 286, 288, 288a, 289, 422.6, 
+422.7, 422.75, or 646.9 of the Penal Code shall 
+remain confidential, Address information 
+obtained pursuant to this paragraph shall not be 
+used directly or indirectly to sell a product or 
+service to any individual or group of individuals, 
+and the requester shall execute a declaration to 
+that effect under penalty of perjury. 
+
+
+9a 
+
+
+UNITED REPORTING PUBLISHING CORP., a 
+California Corporation, Plaintiff, vs. DANIEL E. 
+LUNGREN, Attorney General for the State of 
+California, THE CALIFORNIA HIGHWAY PATROL; 
+DWIGHT O. HELMICK, JR., Commissioner of the 
+California Highway Patrol; POLICE DEPARTMENT 
+FOR THE CITY OF ALHAMBRA; POLICE 
+DEPARTMENT FOR THE CITY OF CHULA VISTA; 
+
+POLICE DEPARTMENT FOR THE CITY OF DALY ~~ 
+CITY; POLICE DEPARTMENT FOR THE CITY OF 
+DOWNEY; POLICE DEPARTMENT FOR THE CITY 
+OF DUBLIN; POLICE DEPARTMENT FOR THE 
+CITY OF FREMONT; POLICE DEPARTMENT FOR 
+THE CITY OF HAYWARD; POLICE DEPARTMENT 
+FOR THE CITY OF LOS ANGELES, POLICE 
+DEPARTMENT FOR THE CITY OF LOS GATOS, 
+POLICE DEPARTMENT FOR THE CITY OF 
+MOUNTAIN VIEW; POLICE DEPARTMENT FOR 
+THE CITY OF OAKLAND; POLICE DEPARTMENT 
+FOR THE CITY OF OCEANSIDE; POLICE 
+DEPARTMENT FOR THE CITY OF PALO ALTO; 
+POLICE DEPARTMENT FOR THE CITY OF 
+PLEASANTON; SHERIFF'S DEPARTMENT FOR 
+THE COUNTY OF RIVERSIDE; POLICE 
+DEPARTMENT FOR THE CITY OF SAN 
+FRANCISCO; POLICE DEPARTMENT FOR THE 
+CITY OF SOUTH SAN FRANCISCO; SHERIFF'S 
+DEPARTMENT FOR THE COUNTY OF SAN 
+BERNARDINO; SHERIFF'S DEPARTMENT FOR 
+THE COUNTY OF SAN DIEGO; SHERIFF'S 
+DEPARTMENT FOR THE COUNTY OF SAN 
+JOAQUIN; POLICE DEPARTMENT FOR THE CITY 
+OF SAN PABLO; POLICE DEPARTMENT FOR THE 
+CITY OF SANTA MONICA; SHERIFF'S 
+DEPARTMENT FOR THE COUNTY OF SANTA 
+CLARA; POLICE DEPARTMENT FOR THE CITY OF 
+SUNNYVALE; Defendants. 
+
+
+10a 
+Civ. No. 96-0888B (AJB) 
+
+
+UNITED STATES DISTRICT COURT FOR THE 
+SOUTHERN DISTRICT OF CALIFORNIA 
+
+
+946 F. Supp. 822 
+November 27, 1996, FILED 
+
+
+COUNSEL: Guylyn R. Cummins, San Diego. Ben P. 
+Jones, San Diego, For Plaintiff. 
+
+
+James K. Hahn, Los Angeles. Frederick N. Merkin, Los 
+Angeles. Bryon R. Broeckman, Los Angeles. Linda A. Cabatic, 
+
+
+Sacramento. Allen Sumner, Sacramento. lan Fan, San Diego, 
+For Defendant. 
+
+
+JUDGES: Rudi M. Brewster, UNITED STATES 
+DISTRICT JUDGE 
+
+
+This case presents a facial challenge to a provision of 
+the California Public Records Act, California Government 
+Code § 6254, as that provision was amended, effective July 1, 
+1996, pursuant to Senate Bill 1059. The Court, having 
+reviewed the moving and opposing papers and the oral 
+arguments of counsel hereby GRANTS plaintiff's motion for 
+summary judgment and DENIES defendants' motions for 
+summary judgment. 
+
+
+I. Background 
+
+
+Prior to July 1, 1996, the California Public Records 
+Act provided that "state and local law enforcement agencies 
+shall make public . . . the full name, current address, and 
+
+
++ ee, a 
+
+
+occupation of every individual arrested by the agency|.]" Cal. 
+Gov. Code § 6254. This made arrestee addresses available to 
+anyone for any purpose. Cal. Gov. Code § 6254(f) was 
+amended, effective July 1, 1996, to prohibit the release of 
+arrestee addresses only to people who intend to use those 
+addresses for commercial purposes. Cal. Gov. Code § 
+6254(f)(3) provides that state and local law enforcement 
+agencies shall make public: 
+
+
+the current address of every individual arrested by 
+the agency and the current address of the victim of 
+a crime, where the requester declares under 
+penalties of perjury that the request is made for a 
+scholarly, journalistic, political, or governmental 
+purpose, or that the request is made for 
+investigation purposes by a licensed private 
+investigator. . . . Address information obtained 
+pursuant to this paragraph shall not be used directly 
+or indirectly to sell a product or service to any 
+individual or group of individuals, and _ the 
+requester shall execute a declaration to that effect 
+under penalty of perjury. 
+
+Plaintiff United Reporting Publishing Corp. ("United 
+Reporting") is a private publishing service that has been 
+providing, under the former version of this statute, the names 
+and addresses of recently arrested individuals to its clients. 
+These clients include attorneys, insurance companies, drug and 
+alcohol counselors, religious counselors, driving schools, and 
+others. The defendants remaining in this action are various 
+state and local law enforcement agencies. 
+
+
+Plaintiff's complaint seeks declaratory judgment and 
+injunctive relief pursuant to 42 U.S.C. § 1983 to hold the 
+amendment to section 6254 unconstitutional under the First 
+Amendment to the United States Constitution (first cause of 
+action), and unconstitutional under the Fourteenth Amendment 
+to the United States Constitution (second, third, and fourth 
+causes of action). 
+
+
+l2a 
+
+
+Plaintiff United Reporting and defendants County of 
+San Diego Sheriff's Department, California Highway Patrol, 
+and Los Angeles Police Department have filed cross-motions 
+for summary judgment. 
+
+
+II. Issue 
+
+
+Is the amendment to Cal. Gov. Code § 6254 an 
+unconstitutional limitation on plaintiff's commercial speech? 
+
+
+HI. Discussion 
+A. Scope of First Amendment Protection 
+
+
+Courts have historically recognized a common law 
+right, but not an absolute right, of access to certain government 
+records, including judicial records. See Nixon vv. Warner 
+Communications, Inc., 435 U.S. 589, 597-98 (1978). In this 
+case, this common law right has been supplanted by the 
+California Public Records Act of 1968 which made public all 
+arrest records of law enforcement agencies. The issue, 
+therefore, is whether plaintiff is protected by an overriding 
+federal constitutional right of access to this particular 
+government information. 
+
+
+Courts have uniformly answered this question in the 
+negative: there is no constitutional right, and specifically no 
+First Amendment right, of access to all governmental records. 
+Houchins v. KQED, Inc., 438 U.S. 1, 9, 14 (1978) ("This Court 
+has never intimated a First Amendment guarantee of a right of 
+access to all sources of information within government control. 
+
+. . [Accordingly], there is no discernible basis for a 
+constitutional duty to disclose, or for standards governing 
+disclosure of or access to information"); Lanphere & Urbaniak 
+v. Colorado, 21 F.3d 1508, 1511 (10th Cir. 1994) (same); 
+Calder v. LR.S., 890 F.2d 781, 783-84 (Sth Cir. 1989) ("the 
+right to speak and publish does not carry with it an unrestricted 
+license to gather information"); Speer v. Miller, 864 F. Supp. 
+1294, 1297-98 (N.D. Ga. 1994). The First Amendment directly 
+protects the expression of information already obtained; it does 
+
+
+l3a 
+
+
+not guarantee access to the sources of information. Houchins, 
+438 U.S. at 10 ("reference to a public entitlement to 
+information mean[s] no more than that the government cannot 
+restrain communication of whatever information the media 
+acquire--and which [the government] elect[s] to reveal"). As 
+explained by the Supreme Court: 
+
+
+There is no constitutional right to have 
+access to particular government information, or to 
+require openness from the bureaucracy ... . The 
+public's interest in knowing about its government is 
+protected by the guarantee of a Free Press, but the 
+protection is indirect. The Constitution itself is 
+neither a Freedom of Information Act nor an 
+Official Secrets Act. 
+
+
+The Constitution, in other words, 
+establishes the contest, not its resolution. Congress 
+may provide a resolution, at least in some 
+instances, through carefully drawn legislation. For 
+the rest, we must rely, as so often in our system we 
+must, on the tug and pull of the political forces in 
+American society. 
+
+
+Id. at 14-15, (quoting Hon. Potter Stewart, Or of the Press, 26 
+HASTINGS L.J. 631, 636 (1975)).' 
+
+
+' Two exceptions have been crafted to the general rule that there is no 
+First Amendment right of access to government information. First, the Supreme 
+Court has found a constitutional right of public access to criminal trials and court 
+proceedings. See, e.g., Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555, 575- 
+78 (1980) ("In guaranteeing freedoms such as those of speech and press, the First 
+Amendment can be read as protecting the right of everyone to attend trials so as to 
+give meaning to those guarantees. ); Gannett v. Depasquale, 443 U.S. 368 (1979) (no 
+right to attend suppression hearing); Press-Enterprise Co. v. Superior Court, 464 
+U.S. 501 (1984) (right to attend jury voir dire); Associated Press v. United States 
+Dist. Court, 705 F.2d 1143 (9th Cir. 1983) (right of access to pretrial criminal 
+proceedings and pretrial documents). 
+
+
+Second, courts have found a First Amendment right of access to 
+judicial records. See United States v. Hickey, 767 F.2d 705, 708 (10th Cir. 1985) 
+(finding a common law right to inspect and copy judicial records); Globe Newspaper 
+Co. v. Pokaski, 868 F.2d 497, 502 (1st Cir. 1989) (finding a First Amendment right 
+of access to records of criminal cases); Associated Press, 705 F.2d at 1145 (finding a 
+
+
+i4a 
+
+
+The Court concludes that the First Amendment does 
+not provide plaintiff with a blanket constitutional mght of 
+access to arrestee addresses; the state could constitutionally 
+prevent everyone from having access to this information. This 
+does not, however, foreclose plaintiff's claim. As previously 
+outlined, the instant statute is an amendment to the California 
+Public Records Act which makes all arrestee information 
+public, but then limits access only to those who plan to use 
+arrestee addresses in commercial speech. The amended statute 
+states that "address information obtained pursuant to this 
+paragraph shall not be used directly or indirectly to sell a 
+product or service to any individual or group of individuals{.]" 
+Cal. Gov. Code § 6254(f)(3). Functionally, this is a limitation 
+on commercial speech. The government is the only source of 
+this information and by statute is disseminating it to everyone 
+except commercial users. The government cannot denominate 
+this a limitation on access in order to achieve a limitation on 
+non-preferred speech. This limitation on access constitutes an 
+indirect limitation on commercial speech. 
+
+
+Recently, two circuits held similar statutes limiting 
+the right of access to government arrest information indirectly 
+implicate First Amendment concerns because such statutes 
+indirectly "punish" certain (commercial), but not all, uses of 
+the information.” Lanphere & Urbaniak v. Colorado, 21 F.3d 
+1508 (10th Cir. 1994), and Speer v. Miller, 15 F.3d 1007 (11th 
+
+
+right of access to pretrial documents); in re Washington Post Co., 807 F.2d 383, 390 
+(4th Cir. 1986) (right of access to plea hearings and sentencing hearings). 
+
+
+Neither of these exceptions to the general Houchins rule assists plaintiff. Both 
+of these exceptions are premised on the long tradition of open trials dating back to 
+England and the colonial United States. The Third Circuit, in Capital Cities Media, 
+Inc. v. Chester, 797 F.2d 1164 (3rd Cir. 1986), created a two prong test for 
+determining whether the public has a constitutional right of access to judicial 
+proceedings or documents. First, there must be a tradition of access to these items, 
+and second, public access must play a significant role in the functioning of the 
+particular process in question. /d. at 1174. While there is a long tradition of access 
+to documents placed in official court records, there has been no showing that there is 
+a long tradition of public access to law enforcement blotter sheets and arrest records, 
+or that the public has played a significant role in the arrest process. 
+
+
+. There appears to be no Ninth Circuit authority on this issue. 
+
+
+lSa 
+
+
+Cir. 1994), on remand, 864 F. Supp. 1294 (N.D. Ga. 1994),° 
+both involved state statutes that denied commercial users 
+access to criminal records. In both cases, the courts 
+acknowledged that there is no general First Amendment right 
+of access to criminal justice records. Lanphere, 21 F.3d at 
+1512; Speer, 864 F. Supp. at 1297-98. Both courts, however, 
+went on to conclude that the First Amendment was implicated 
+by the respective state statutes. As explained by Lanphere, the 
+First Amendment is implicated because a direct ban on access 
+to information can serve as an indirect ban on the usage of such 
+information in speech, and therefore can _ constitute 
+impermissible content-based regulation of speech: 
+
+
+Although criminal justice records 
+themselves do not constitute speech, the Colorado 
+Legislature has drawn a regulatory line based on 
+the speech use of such records. [The challenged 
+statute] disallows the release of records to those 
+wishing to use them for commercial speech, while 
+allowing the release of the same records to those 
+having a noncommercial purpose. Because 
+commercial speech is protected under the First 
+Amendment (though it is accorded lesser 
+protection than ‘core’ First Amendment speech), 
+and because such speech includes direct mail 
+
+
+’ The Speer decision of the District Court is after remand from the 
+Eleventh Circuit which vacated a contrary first decision of the District Court. In 
+vacating and remanding the District Court's first decision, the Eleventh Circuit 
+stated “[a] mere reading of this statute indicates that it probably impinges upon 
+Speer's commercial speech.” Speer v. Miller, 15 F.3d 1007, 1010 (1 1th Cir. 1994). 
+
+
+. In Lanphere, the state statute in question required the government 
+
+
+custodian to "deny any person access to records of official actions and criminal 
+justice records unless such person signs a statement which affirms that such records 
+shall not be used for the direct solicitation of business for pecuniary gain.” 21 F.3d 
+at 1510-11. In Speer, the statute in question declared it "unlawtul for any person to 
+inspect or copy any records of a law enforcement agency to which the public has a 
+right of access . . . for the purpose of obtaining the names and addresses of the 
+victims of crimes or persons charged with crimes . . . for any commercial solicitation 
+of such individuals or relatives of such individuals.” 15 F.3d at 1009 
+
+
+l6a 
+
+
+solicit .on, what we have in the end is a content- 
+based restriction on protected speech. 
+
+
+21 F.3d at 1513 (citations omitted); see Speer, 864 F. Supp. at 
+1299; see also Minneapolis Star v. Minnesota Dept. of 
+Revenue, 460 U.S. 575 (1983) (use tax on paper and ink levied 
+only on producers of periodic publications singled out the press 
+for differential treatment and was an unconstitutional indirect 
+limitation on speech). 
+
+
+The Court concludes that the amended Cal. Gov. Code 
+§ 6254(f) is a content-based indirect limitation on commercial 
+speech which implicates the First Amendment. 
+
+
+B. Central Hudson Commercial Speech Test 
+
+
+Since First Amendment commercial speech interests 
+are implicated by the amended Cal. Gov. Code § 6254, the 
+statute must be subjected to the four part test set out in Central 
+Hudson Gas & Electric Corp. v. Public Service Comm'n of 
+New York, 447 U.S. 557, 566 (1980). 
+
+
+[1] At the outset, we must determine whether 
+the expression is protected by the First 
+Amendment. For commercial speech to come 
+within that provision, it at least must concern 
+lawful activity and not be misleading. [2] Next, we 
+ask whether the asserted governmental interest is 
+substantial. [3] If both inquiries yield positive 
+answers, we must determine whether the regulation 
+directly advances the governmental interest 
+asserted, and [4] whether it is not more extensive 
+than is necessary to serve that interest. 
+
+
+ld. at 566. 
+
+
+1. Is Plaintiff's Commercial Speech Activity Lawful? 
+
+
+There is no contention that Plaintiff's proposed use of 
+this information is misleading or is not a lawful activity. 
+
+
+17a 
+
+
+2. Are the Governmental Interests Substantial? 
+
+
+The defendants advance two substantial government 
+interests which they claim support this statute. The legislative 
+history quotes Senator Peace as follows: 
+
+
+From a law enforcement perspective, the 
+processing of the requests puts a tremendous strain 
+on already scarcely allocated time and resources. 
+From a consumer perspective, this is an invasion of 
+privacy. While these records are justifiably public 
+in many ways, the unsolicited direct mail 
+advertisements are unwarranted. 
+
+
+Legislative History (June 4, 1996 letter), p. 4. Both the Speer 
+and Lanphere courts found that the governmental interest in 
+protecting the privacy of arrestees was substantial. Speer, 864 
+F. Supp. at 1302; Lanphere, 21 F.3d at 1514-15; see also 
+Florida Bar v. Went for It, Inc., 132 L. Ed. 2d 541, 115 S. Ct. 
+2371, 2376-80 (1995) (upholding 30 day ban on direct mail 
+attorney solicitations based on the government's substantial 
+interest in protecting the privacy and tranquility of personal 
+injury victims); Carey v. Brown, 447 U.S. 455, 471, 65 L. Ed. 
+2d 263, 100 S. Ct. 2286 (1980) ("the State's interest in 
+protecting the well-being, tranquility, and privacy of the home 
+is certainly of the highest order in a free and civilized society"). 
+With respect to the government's concern about the fiscal 
+burden of producing arrestee information, the direct costs of 
+duplicating would be paid by plaintiff, but the costs of 
+aggregating and organizing all of the information and the labor 
+involved in duplicating are presently borne by the law 
+enforcement agencies. Given the strictures of governmental 
+budgets, the government has an interest in minimizing these 
+costs. 
+
+
+3. Whether the Restriction Directly and Materially 
+Advances the Governmental Interests 
+
+
+To establish that the restriction on commercial 
+speech advances the above-identified government interests in a 
+
+
+direct and material way, the government body must 
+demonstrate that the harms are real and that the restrictions 
+will, in fact, alleviate those harms to a material degree. Florida 
+Bar, 115 S. Ct. at 2377. 
+
+
+First, it is doubtful that this amended statute will save 
+defendants any money at all. The costs of gathering and 
+preparing arrestee information will still be incurred under this 
+statute because law enforcement agencies will still have to 
+compile the identical arrestee data for journalists, government 
+employees and other non-commercial users of the information. 
+The additional costs of making copies for commercial users 
+would be marginal, especially when they can be charged all of 
+the costs of duplication. Moreover, under this statute the law 
+enforcement agencies still have to compile and copy all 
+arrestee information for commercial users except for addresses. 
+The simple omission of addresses will not minimize law 
+enforcement agency expenses.” 
+
+
+Second, the amended statute also fails to advance the 
+state's interest in protecting the privacy and tranquility of its 
+residents. In its most recent pronouncement on commercial 
+speech, the Supreme Court upheld a statute prohibiting lawyers 
+from sending direct mail solicitations to accident victims 
+within 30 days of the accident. Florida Bar, 115 S. Ct. at 2381. 
+The asserted state interest behind the statute was to protect "the 
+personal privacy and tranquility of [Florida's] citizens from 
+crass commercial intrusion by attorneys upon their personal 
+grief in times of trauma." /d. at 2379. The Supreme Court 
+concluded that the statute directly and materially advanced this 
+interest by requiring attorneys to wait 30 days before sending 
+direct mail solicitations to victims. /d. 
+
+
+The Supreme Court's holding in Florida Bar does not 
+control the outcome in this case for two reasons. First, the ban 
+
+
+’ If this were the state's real concern, they could appropriately charge 
+commercial users for the copies and use the additional revenue to cover the marginal 
+cost increase, if any. Plaintiff has expressed its willingness to pay any additional 
+costs incurred because of its information requests. 
+
+
+19a 
+
+
+at issue in Florida Bar only lasted for 30 days after the 
+accident, whereas the ban on publication of arrestee addresses 
+in section 6254(f(3) is permanent. Permanent bans on 
+attorney direct mail solicitation have been _ invalidated. 
+Zauderer v. Office of Disciplinary Counsel of Supreme Court 
+of Ohio, 471 U.S. 626, 85 L. Ed. 2d 652, 105 S. Ct. 2265 
+(1985); Shapero v. Kentucky Bar Ass'n, 486 U.S. 466, 100 L. 
+Ed. 2d 475, 108 S. Ct. 1916 (1988). Second, the purpose of the 
+statute in Florida Bar was to protect vulnerable victims from 
+offensive attorney solicitation practices. Presumably accident 
+victims would be most vulnerable immediately after the 
+accident and would seldom require immediate legal 
+representation, but once they have had a month to recover, they 
+should be able to evaluate attorney solicitations more 
+effectively. Arrestees, in contrast, potentially could need 
+immediate legal assistance to prevent them from making self- 
+incriminating statements, to help them obtain bail, and to 
+prepare for any subsequent criminal proceedings. This interest 
+so heavily outweighs any concern that arrestees may find such 
+attorney solicitations offensive that the defendants’ justification 
+borders on the disingenuous. 
+
+
+The two courts that dealt with statutes substantially 
+similar to Cal. Gov. Code § 6254(f) split on whether the 
+statutes materially advanced the state's interest in protecting the 
+privacy of its citizens. In Lanphere, the Tenth Circuit held that 
+the state's interest in protecting privacy is directly advanced 
+when the State no longer allows access to names and addresses 
+of those charged with misdemeanor traffic violations and DUI. 
+Further, refusing access to such information reasonably directly 
+advances the State's interest in lessening the danger of 
+overreaching by solicitors where potential solicitation 
+recipients may be particularly vulnerable. 21 F.3d at 1515.° 
+The Speer court reached the opposite conclusion. 
+
+
+° In Lanphere, the state statute in question required the government 
+
+
+custodian to “deny any person access to records of official actions and criminal 
+justice records unless such person s\ 1s a statement which affirms that such records 
+shall not be used for the direct solicitation of business for pecuniary gain.” 21 F.3d 
+at 1510-11 
+
+
+20a 
+
+
+This Court believes that the narrow and 
+selective manner in which the Georgia statute 
+attempts to further the asserted interest of 
+protecting people's privacy betrays the state's true 
+focus and its inability to serve the state's asserted 
+interest. The State does not restrict all (or probably 
+even most) possible invasions of a person's 
+privacy. Anyone may access the records in 
+question so long as they do not do so with an eye 
+towards using the information for certain types of 
+commercial solicitations. The media may peruse 
+and report the records, academicians may employ 
+them in their research, statisticians may gather their 
+contents for inclusion in their computations, 
+inventive entrepreneurs may use their contents for 
+the commercial solicitation of individuals neither 
+named nor related to persons named therein, 
+curiosity seekers may browse through them in 
+search of titillation, or personal enemies may even 
+extract information from them for diabolical (yet 
+otherwise lawful) purposes. Only entities intending 
+to use the names and addresses of those mentioned 
+therein to solicit those people or their relatives for 
+commercial purposes are denied access. The 
+restriction's exceedingly narrow scope betrays it as 
+a statute designed not to protect privacy but, 
+instead, to prevent solicitation practices. And as 
+Shapero teaches, a person's privacy is not infringed 
+by the solicitation, but by the solicitor's discovery 
+of the information that leads to the solicitation. 
+
+
+Accordingly, the Court finds that the 
+Georgia statute does not directly advance the state's 
+asserted interest because it advances that interest 
+hardly at all and because it attempts to protect 
+those named in the records primarily by preventing 
+solicitations rather than by preventing significant 
+access. 
+
+
+864 F. Supp. at 1302. 
+
+
+2la 
+
+
+The Court agrees with the reasoning of the Speer 
+court. It is hard to see how direct mail solicitations invade the 
+privacy of arrestees. If they don't like the solicitation, they can 
+simply throw it away. See Bolger v. Youngs Drug Products 
+Corp., 463 U.S. 60, 72, 77 L. Ed. 2d 469, 103 S. Ct. 2875 
+(1983) (the short though regular journey from mail box to trash 
+can is an acceptable burden, at least as far as the Constitution is 
+concerned). At worst, it could be somewhat embarrassing for 
+them to receive a letter from an attorney offering services to 
+them now that they are a ‘suspected criminal.’ It may also be 
+embarrassing for arrestees to have their addresses published in 
+newsletters, but it would only be marginally more 
+embarrassing, if at all, than just having their name published. 
+Further, the statute still allows their name and address to be 
+published in newspapers, broadcast on television, and/or 
+obtained by an employer or even an enemy. These are 
+potentially much more pervasive invasions of privacy, yet the 
+statute allows them. Moreover, United Reporting attaches 
+affidavits from many arrestees stating that they do not feel that 
+the solicitations invaded their privacy and that they found them 
+helpful in obtaining legal representation or other services. 
+Defendants filed no contrary affidavits. The Speer court 
+appears correct that one of the-real reasons behind the statute is 
+to prevent the solicitations themselves because vulnerable 
+people are lured into bad deals with lawyers. The statute may 
+also have been intended to prevent arrestees from obtaining 
+counsel because law enforcement agencies find it easier to deal 
+with arrestees who are not represented by counsel.’ The Court 
+concludes that the statute, rather than protecting the privacy of 
+its citizens, actually hinders the ability of arrestees to obtain 
+needed counsel and advice to deal with their legal problems. 
+
+
+Since Cal. Gov. Code § 6254(f)(3) does not directly 
+and materially advance the state's asserted interests in 
+
+
+’ The Court notes that it was state and local law enforcement agencies 
+
+
+and district attorneys’ offices which proposed this amendment to § 6254. 
+
+
+22a 
+
+
+minimizing costs and protecting the privacy of arrestees, it fails 
+the third prong of the Central Hudson test. 
+
+
+4. Whether the Regulation is Narrowly Drawn 
+
+
+The final prong of the analysis is whether the statute 
+is narrowly drawn. This test requires a ‘reasonable fit' between 
+the legislature's ends and the means chosen to accomplish those 
+ends. Florida Bar, 115 S. Ct. at 2380. There is not a 
+reasonable fit between the cost rationale and prohibiting access 
+to commercial users of the information. The law enforcement 
+agencies must still compile and reproduce the information for 
+non-commercial users. They must still provide all information 
+except for the addresses to commercial users. Moreover, 
+commercial users can be charged fees for any additional costs 
+incurred. The amendment is not narrowly drawn because it 
+does not decrease expenses of law enforcement agencies. 
+
+
+Whether there is a reasonable fit between the privacy 
+rationale and prohibiting access to commercial users of the 
+information collapses into the same analysis as whether the 
+statute directly and materially advances the state interest. 
+Since the prohibition on commercial use of the information 
+does not materially advance the state's interest in protecting the 
+privacy of its citizens, there is not a reasonable fit between the 
+legislature's means and ends. 
+
+
+Since Cal. Gov. Code § 6254(f)(3) is more extensive 
+than necessary to accomplish its asserted purpose, it also fails 
+the fourth prong of the Central Hudson test. 
+
+
+The Court therefore finds Cal. Gov. Code § 
+6254(f)(3) to be an unconstitutional limitation on commercial 
+speech. 
+
+
+C. Plaintiff's other causes of action 
+
+
+Since the Court finds Cal. Gov. Code § 6254(f)(3) 
+unconstitutional as an impermissible limitation on commercial 
+speech, the Court does not reach plaintiffs other causes of 
+action. 
+
+
+IV. Conclusion 
+
+
+For the foregoing reasons, the Court finds that Cal. 
+Gov. Code § 6254(f)(3) is an impermissible restriction on 
+commercial speech which violates the First Amendment. For 
+this reason, the Court hereby GRANTS plaintiff's motion for 
+summary judgment and DENIES defendants’ motions for 
+summary judgment. 
+
+
+Plaintiff shall lodge a proposed judgment of 
+declaratory and injunctive relief within twenty days with 
+counsel and the Court. Defendants shall have ten days to object 
+to the form of the judgment, whereupon it shall stand submitted 
+for Court revision and signature. 
+
+
+IT IS SO ORDERED. 
+Dated: NOV 27 1996 
+
+
+Rudi M. Brewster 
+UNITED STATES DISTRICT JUDGE 
+
+
+24a 
+
+
+UNITED REPORTING PUBLISHING CORP., a 
+California corporation, Plaintiff-Appellee, v. CALIFORNIA 
+HIGHWAY PATROL, Defendant, and LOS ANGELES 
+POLICE DEPARTMENT, Defendant-Appellant. 
+
+
+No. 97-55111 
+
+
+UNITED STATES COURT OF APPEALS FOR THE 
+NINTH CIRCUIT 
+
+
+146 F.3d 1133 
+June 25, 1998, Filed 
+
+
+COUNSEL: Byron R. Boeckman, James K. Hahn, 
+Fredrick N. Merkin, City Attorneys, Los Angeles, California, 
+for defendant-appellant Los Angeles Police Department. 
+
+
+Guylyn R. Cummins, Ben P. Jones, Gray, Cary, Ware & 
+Freidenrich, San Diego, California, for plaintiff-appellee 
+United Reporting. 
+
+
+JUDGES: Before: Jerome Farris, Diarmuid FF. 
+O'Scannlain, and Ferdinand F. Fernandez, Circuit Judges. 
+Opinion by Judge O'Scannilain. 
+
+
+O'SCANNLAIN, Circuit Judge: 
+
+
+We must decide whether a state regulation that 
+prohibits the release of arrest information for commercial 
+purposes violates the First Amendment. 
+
+
+25a 
+
+
+Prior to July 1, 1996, California Government Code § 
+6254 provided that "state and local law enforcement agencies 
+shall make public . . . the full name, current address, and 
+occupation of every individual arrested by the agency." Cal. 
+Gov. Code § 6254(f). This provision made arrestee addresses 
+availabie to anyone for any purpose. On July 1, 1996, 
+however, California Government Code § 6254(f) was 
+amended to prohibit the release of arrestee addresses to people 
+who intend to use those addresses for commercial purposes. 
+California Government Code § 6254(f) now provides that state 
+and local law enforcement agencies shall make public: 
+
+
+the current address of every individual arrested by 
+the agency and the current address of the victim of a 
+crime, where the register declares under penalties of 
+perjury that the request is made for a scholarly, 
+journalistic, political, or governmental purpose, or that 
+the request is made for investigation purposes by a 
+licensed private investigator . . . . Address information 
+obtained pursuant to this paragraph shall not be used 
+directly or indirectly to sell a product or service to any 
+individual or group of individuals, and the requester 
+shall execute a declaration to that effect under penalty 
+of perjury. 
+
+Cal. Gov. Code § 6254(f)(3) (emphasis added). 
+
+United Reporting Publishing Corporation ("United 
+Reporting") is a private publishing service that had been 
+providing, under the old version of the statute, the names and 
+addresses of recently arrested individuals to its clients. These 
+clients include attorneys, insurance companies, drug and 
+alcohol counselors, religious counselors, and driving schools. 
+The Los Angeles Police Department ("LAPD") maintains 
+certain records relating to arrestees, including names, 
+addresses, and the charges of arrest. 
+
+
+Pursuant to 42 U.S.C. § 1983, United Reporting filed 
+a complaint before the district court seeking declaratory 
+judgment and injunctive relief on the grounds that the 
+amendment to § 6254 was unconstitutional under the First 
+
+
+26a 
+
+
+Amendment and the Fourteenth Amendment to the United 
+States Constitution. The district court agreed, holding that 
+California Government Code § 6254(f)(3) violated the First 
+Amendment. See United Reporting Publishing Corp. v. 
+Lungren, 946 F. Supp. 822, 829 (S.D. Cal. 1996). The district 
+court did not reach United Reporting's Fourteenth Amendment 
+argument. The LAPD timely appealed.’ 
+
+
+Il 
+
+
+The LAPD contends that the district court erred in 
+holding that § 6254(f)(3) violates the First Amendment right to 
+freedom of expression. Specifically, the LAPD maintains that 
+the district court misapplied the four-part test laid down by the 
+Supreme Court in Central Hudson Gas and Electric 
+Corporation v. Public Service Commission of New York, 447 
+U.S. 557 (1980), for analyzing the constitutionality of 
+government regulations limiting so-called "commercial" 
+speech. 
+
+For its part, United Reporting argues that, contrary to 
+the district court's finding, the activity in which it engages, 
+selling arrestee information to clients, is not commercial 
+speech at all, but noncommercial speech, the regulation of 
+which is subject to strict scrutiny under the United States and 
+California constitutions. In the alternative, United Reporting 
+claims that § 6254(f)(3) burdens its dissemination of truthful, 
+nonmisleading commercial speech concerning the right to 
+retain competent counsel and other assistance in violation of 
+the United States and California constitutions. 
+
+
+Ill 
+
+
+We start with a comment on the protection provided 
+under the First Amendment to what has been commonly 
+
+
+', Before the district court, the LAPD was joined by the San Diego 
+Sheriff's Department and the California Highway Patrol. The LAPD is the only party 
+to appeal the district court's decision. 
+
+
+27a 
+
+
+designated "commercial" speech. Although the Supreme Court 
+once held that the First Amendment did not protect commercial 
+speech, see Valentine v. Chrestensen, (1942), it repudiated that 
+position in Virginia State Bd. of Pharmacy v. Virginia Citizens 
+Consumer Council, Inc., 425 U.S. 748, 765 (1976). The current 
+debate centers not on whether commercial speech is a form of 
+expression entitled to constitutional protection, but on the 
+validity of the distinction between commercial and 
+noncommercial speech. See, e.g., 44 Liquormart, Inc. v. Rhode 
+Island, 517 U.S. 484 (1996) (Thomas, J., concurring) ("J do not 
+see a philosophical or historical basis for asserting that 
+‘commercial’ speech is of ‘lower value’ than ‘noncommercial’ 
+speech. Indeed, some historical materials suggest to the 
+contrary."); Kozinski & Banner, Who's Afraid of Commercial 
+Speech?, 76 VA. L. REV. 627, 634-38 (1990) (questioning basis 
+for distinction). We are compelled, however, under the 
+Supreme Court's current jurisprudence, to afford commercial 
+speech less protection from governmental regulation than some 
+other forms of expression. See, e.g., United States v. Edge 
+Broadcasting Co., 509 U.S. 418, 426 (1993) ("Our decisions . . 
+. have recognized the ‘common-sense’ distinction between 
+speech proposing a commercial transaction, which occurs in an 
+area traditionally subject to government regulation, and other 
+varieties of speech. The Constitution therefore affords a lesser 
+protection to commercial speech than to other constitutionally 
+guaranteed expression.") (citations oinitted). Consequently, 
+restrictions that might be violative of the First Amendment in 
+other areas of expression may be tolerated in the realm of 
+commercial speech. See Valley Broadcasting Co. v. United 
+States, 107 F.3d 1328, 1330 (9th Cir. 1997). 
+
+
+As an initial matter, we must address United 
+Reporting's claim that it uses arrestee information to engage in 
+fully-protected noncommercial speech, the regulation of which 
+is subject to strict scrutiny under the United States and 
+California constitutions, not commercial speech, and that the 
+district court erred in holding otherwise. United Reporting 
+maintains that commercial speech has been "defined and 
+limited" by the Supreme Court to "speech which does 'no more 
+
+
+28a 
+
+
+than propose a commercial transaction.” Virginia State Bd., 
+425 U.S. at 762 (citations omitted). According to United 
+Reporting, speech which goes beyond the mere proposal of 
+such a transaction and involves the passing of ideas and 
+information - including ideas and information necessary to the 
+exercise of the Sixth Amendment right to retain the assistance 
+of counsel - cannot be considered mere commercial speech. 
+
+
+The definition of commercial speech is not as settled 
+as United Reporting would have us believe, however. 
+Although "there is no longer any room to doubt that what has 
+come to be known as ‘commercial speech’ is entitled to the 
+protection of the First Amendment . . . more subject to doubt . . 
+. are the precise bounds of the category of expression that may 
+be termed commercial speech... ." Zauderer v. Office of 
+Disciplinary Counsel of the Supreme Court of Ohio, 471 U.S. 
+626, 637 (1985). United Reporting is correct that speech which 
+"merely proposes a commercial transaction" falls within the 
+boundaries of commercia! speech; indeed, this is the "core 
+notion" of commercial speech. Bolger v. Youngs Drug 
+Products, 463 U.S. 60, 66, 77 L. Ed. 2d 469, 103 S. Ct. 2875 
+(1983). This "core notion" is the beginning of our inquiry, 
+however, not the end, as United Reporting claims. In Central 
+Hudson, the Supreme Court indicated that it would regard as 
+commercial speech any “expression related solely to the 
+economic interests of the speaker and its audience." 447 U.S. at 
+561. This is obviously broader than speech which proposes a 
+commercial transaction; people often discuss their economic 
+interests without proposing commercial transactions. The 
+Supreme Court has abstained from creating bright-line rules in 
+this area and so should we. See Bolger, 463 U.S. at 66-68 
+(noting that advertisements are not necessarily commercial 
+speech despite fact that advertiser has an economic motivation 
+and that linking advertisements to important public issues does 
+not necessarily entitle speech to constitutional protection 
+afforded noncommercial speech). Hence, we must examine the 
+disputed communication in light of its surrounding 
+circumstances to determine whether it is entitled to the 
+qualified protection accorded to commercial speech. 
+
+
+29a 
+
+
+That said, United Reporting's speech would be 
+considered commercial under either a broad or a narrow 
+definition. United Reporting makes an effort to link its speech 
+to that of its clients’ solicitations to arrestees in an effort to 
+demonstrate that it does more than propose an economic 
+transaction. This effort fails. United Reporting sells arrestee 
+information to clients; nothing more. Its speech can be reduced 
+to, "I [United Reporting] will sell you [client] the X [names 
+and addresses of arrestees] at the Y price." See Virginia State 
+Bd., 425 U.S. at 762. This is a pure economic transaction, see 
+Ficker v. Curran, Jr., 119 F.3d 1150, 1153 (4th Cir. 1997), 
+comfortably within the "core notion" of commercial speech. 
+Bolger, 463 U.S. at 66. Although this does not disqualify 
+United Reporting from First Amendment protection, see 
+Virginia State Bd., 425 U.S. at 762, it does mean that its speech 
+is entitled to only "a limited measure of protection, 
+commensurate with its subordinate position in the scale of First 
+Amendment values." Ohralik v. Ohio State Bar Ass'n, 436 
+U.S. 447, 456, 56 L. Ed. 2d 444, 98 S. Ct. 1912 (1978). 
+
+
+IV 
+
+
+In Central Hudson, the Supreme Court articulated a 
+four-part test under which to analyze the constitutionality of 
+government regulations limiting commercial speech: 
+
+
+At the outset, (1) we must determine whether the 
+expression is protected by the First Amendment. For 
+commercial speech to come within that provision, it at 
+least must concern lawful activity and not be misleading. 
+Next, (2) we ask whether the asserted governmental 
+interest is substantial. If both inquiries yield positive 
+
+
+: It is not at all clear that the clients are engaging in noncommercial 
+
+
+speech in any event. Every other court which has considered a statute similar to § 
+6254(f(3) has found that atiorney solicitation of arrestees under these circumstances 
+constitutes commercial speech. See, e.g, Moore v. Morales, 63 F.3d 358, 361 (Sth 
+Cir. 1995); Lanphere & Urbaniak v. Colorado, 2\ F.3d 1508, 1513 (10th Cir. 1994); 
+Speer v. Miller, 15 F.3d 1007, 1010 (1 1th Cir. 1994). 
+
+
+30a 
+
+
+answers, (3) we must determine whether the regulation 
+directly advances the governmental interest asserted, and 
+(4) whether it is not more extensive than is necessary to 
+serve that interest. 
+
+
+447 U.S. at 566 (enumeration added). 
+
+
+The parties agree that the speech at issue is neither 
+illegal nor misleading under the first prong. Rather, their 
+dispute centers around the remaining three prongs of Central 
+Hudson. 
+
+
+A Before the district court, the LAPD and its 
+codefendants advanced two governmental interests in support 
+of § 6254(f)(3): 
+
+
+From a law enforcement perspective, (1) the 
+processing of the requests puts a tremendous strain on 
+already scarcely allocated time and resources. From a 
+consumer perspective, (2) this is a invasion of privacy. 
+While these records are justifiably public in many ways, 
+the unsolicited direct mail advertisements are 
+unwarranted. 
+
+
+United Reporting, 946 F. Supp. at 826 (enumeration and 
+emphasis added) (quoting Legislative History of § 6254(f)(3)). 
+Only the second interest, protecting the privacy of arrestees, 
+need concer us here.” 
+
+
+The LAPD has failed to challenge this finding on 
+appeal. Consequently, it has waived any challenge to the 
+district court's finding on the cost issue. See Officers for Justice 
+v. Civil Service Commission, 979 F.2d 721, 726 (9th Cir. 1992) 
+
+
+’ Although the district court found the asserted governmental interest in 
+minimizing the costs of producing arrestee information to be substantial, see United 
+Reporting, 946 F. Supp. at 826, it held that § 6254(f(3) does not directly and 
+materially advance this interest and, therefore, failed the third Central Hudson 
+prong. See id. at 829. 
+
+
+3la 
+
+
+(holding that failure to raise argument in opening brief 
+constitutes waiver). Hence, the only interest at issue here is the 
+asserted governmental interest in protecting the privacy of 
+arrestees. 
+
+
+The district court found the interest in protecting the 
+privacy of arrestees to be substantial. See United Reporting, 
+946 F. Supp. at 826. The district court was persuaded by the 
+fact that numerous other courts considering similar statutes 
+have reached the same conclusion. /d. (citing Florida Bar v. 
+Went For It, Inc., 515 U.S. 618, 625-33 (1995); Lanphere & 
+Urbaniak v. Colorado, 21 F.3d 1508, 1513-14 (10th Cir. 1994); 
+Speer v. Miller, 864 F. Supp. 1294, 1297-98 (N.D. Ga. 1994)). 
+Its finding is well-grounded: "The State's interest in protecting 
+the well-being, tranquility, and privacy of the home is certainly 
+of the highest order in a free and civilized society." Carey v. 
+Brown, 447 U.S. 455, 471, 65 L. Ed. 2d 263, 100 S. Ct. 2286 
+(1980). Indeed, "[the Supreme Court's] precedents . . . leave no 
+room for doubt that 'the protection of potential clients’ privacy 
+is a substantial state interest." Florida Bar, 515 U.S. at 625. 
+The Court has "noted that 'a special benefit of the privacy all 
+citizens enjoy within their own walls, which the State may 
+legislate to protect, is an ability to avoid intrusions." /d. 
+(quoting Frisby v. Schultz, 487 U.S. 474, 484-85, 101 L. Ed. 
+2d 420, 108 S. Ct. 2495 (1988)). Hence, we hold that the 
+district court was correct in finding the privacy interest of 
+arrestees to be substantial. 
+
+
+B Determining the asserted interest in privacy to be 
+substantial does not end our inquiry, however. Rather, we now 
+turn to Central Hudson’s third prong, whether the challenged 
+regulation "advances the Government's interest 'in a direct and 
+material way."" Rubin v. Coors Brewing, 514 U.S. 476, 487 
+(1995) (quoting Edenfield v. Fane, 507 U.S. 761, 767 (1993)). 
+The LAPD, the "party seeking to uphold [the] restriction on 
+commercial speech[,] carries the burden of justifying it." 
+Bolger, 463 U.S. at 71 n.20. This burden may not be satisfied 
+by "mere speculation or conjecture." Edenfield, 507 U.S. at 
+
+
+32a 
+
+
+770. Instead, "'a governmental body seeking to sustain a 
+restriction on commercial speech must demonstrate that the 
+harms it recites are real and that its restriction will in fact 
+alleviate them to a material degree." Coors Brewing, 514 U.S. 
+at 487 (quoting Edenfield, 507 U.S. 761 at 770). “The 
+regulation may not be sustained if it provides only ineffective 
+or remote support for the government's purpose." Edenfield, 
+507 U.S. at 770 (quoting Central Hudson, 447 U.S. at 564). 
+
+
+The district court found that the amended statute does 
+not directly and materially advance the government's interest in 
+protecting the privacy and tranquility of its residents. See 
+United Reporting, 946 F. Supp. at 827-29. The LAPD claims 
+that the district court erred in so finding, arguing that a 
+prohibition against the release of arrestee information "reduces 
+the opportunity for commercial interests to create and maintain 
+an unreliable criminal history information bank which could 
+have the effect of destroying the employment potential of the 
+innocent, the reformed, the pardoned and the young" and 
+prevents the "direct intrusion into the private lives and homes 
+of arrestees and victims." 
+
+
+First, the LAPD has provided no evidence 
+whatsoever in support of its contention that there is a danger 
+that commercial interests would create "unreliable criminal 
+history information banks" if they had access to arrestee 
+addresses. In fact, these addresses were available to 
+commercial interests prior to the amendment of § 6254 and, as 
+far as we can tell, no commercial interests have ever 
+maintained the aforementioned "criminal history information 
+banks." This asserted harm appears to be no more than 
+speculation and conjecture, which is insufficient to sustain a 
+restriction on commercial speech. See Coors Brewing, 514 
+U.S. at 487. Because the LAPD has failed to sustain its burden 
+of proving that this harm is real, we need not consider whether 
+the restriction will alleviate the asserted harm to a material 
+degree. See id. 
+
+
+The second harm asserted by the LAPD, preventing 
+the "direct intrusion into the private lives and homes of 
+
+
+33a 
+
+
+arrestees and victims," is somewhat more weighty. The district 
+court rejected the contention that § 6254(f)(3) directly and 
+materially advances the governmental interest in protecting the 
+privacy and tranquility of its residents. See United Reporting, 
+946 F. Supp. at 827. The district court found that § 6254(f)(3) 
+does not restrict all (or probably even most) possible invasions 
+of a person's privacy. See id. at 828. It noted that ‘anyone may 
+access the records in question so long as they do not do so with 
+an eye towards using the information for certain types of 
+commercial solicitations.” /d. (quoting Speer, 864 F. Supp. at 
+1302). The fact that journalists, academicians, curiosity 
+seekers, and other noncommercial users may peruse and report 
+on arrestee records, the district court observed, belies the 
+LAPD's claim that the statute is actually intended to protect the 
+privacy interests of arrestees. See id. Instead, it appears to be 
+more directed at preventing solicitation practices. See id The 
+district court also noted that "it is hard to see how direct mail 
+solicitations invade the privacy of arrestees. If they don't like 
+the solicitation, they can simply throw it away." /d.; see also 
+Bolger, 463 U.S. at 72 ("The First Amendment does not permit 
+the government to prohibit speech as intrusive unless the 
+‘captive’ audience cannot avoid objectionable speech. 
+Recipients of objectionable mailings, however, may effectively 
+avoid further bombardment of their sensibilities simply by 
+averting their eyes. Consequently, the short, though regular 
+journey from the mail box to the trash can . . . is an acceptable 
+burden, at least so far as the Constitution is concerned.") 
+(citations omitted). The district court correctly remarked that 
+the privacy of arrestees was not invaded by the solicitation 
+itself, but by the solicitor's discovery of the information that led 
+to the solicitation. See United Reporting, 946 F. Supp. at 828 
+(citing Shapero v. Kentucky Bar Ass'n, 486 U.S. 466, 476 
+(1988) ("The [privacy] invasion, if any, occurs when the 
+lawyer discovers the recipient's legal affairs, not when he 
+confronts the recipient with the discovery [through a targeted 
+direct-mail solicitation].")).* For these reasons, the district 
+
+
+The LAPD claims that the district court erred in not following the 
+
+
+34a 
+
+
+court held that § 6254(f)(3) failed the third prong of Central 
+Hudson. See 946 F. Supp. 829. 
+
+
+We agree with the district court. The myriad of 
+exceptions to § 6254(f)(3) precludes the statute from directly 
+and materially advancing the government's purported privacy 
+interest. See Valley Broadcasting Co., 107 F.3d at 1334. We 
+take our direction from Coors Brewing, 514 U.S. 476, 131 L. 
+Ed. 2d 532, 115 S. Ct. 1585, in which the Supreme Court held 
+that 27 U.S.C. § 205(e)(2), which prohibited brewers from 
+disclosing the alcohol content of beers on their labels, violated 
+the First Amendment. See id at 487-89. The Court held that 
+the government's asserted interest in avoiding alcohol "strength 
+wars" was substantial, but that § 205(e)(2) did not directly 
+advance that interest "because of the overall irrationality of the 
+Government's regulatory scheme." /d. at 488. In reaching its 
+decision, the Court emphasized the numerous exceptions to § 
+205(e\(2), including the exception for wines and distilled 
+spirits, which were allowed to list alcohol content on their 
+
+
+Tenth Circuit's decision in Lanphere & Urbaniak, 21 F.3d 1508, which concerned a 
+similar statute. In that case, the Tenth Circuit held that it had “no trouble” finding 
+that the state's interest in protecting privacy was directly advanced by the statute in 
+question. Unfortunately, our sister circuit failed to provide any analysis in support of 
+its conclusion. See id. at 1515. Instead, the court simply asserted: 
+
+
+The State's interest in protecting privacy is directly 
+advanced when the State no longer allows access to the names 
+and addresses of those charged with misdemeanor traffic 
+violations and [Driving Under the Influence]. Further, refusing 
+access to such information reasonably directly advances the 
+State's interest in lessening the danger of overreaching by 
+solicitors where potential solicitation recipients may be 
+particularly vulnerable. 
+
+
+Id (emphasis added). The district court was correct not to follow Lanphere. 
+Lanphere fails to take into account the Supreme Court's decision in Edenfield, 507 
+U.S. at 767 (holding that the second prong of Central Hudson requires the 
+challenged regulation to advance the state interests "in a direct and material way,” 
+not merely a direct or “reasonably” direct way), and is in conflict with Coors 
+Brewing, 514 U.S. 476, 131 L. Ed. 2d 532, 115 S. Ct. 1585, and our decision in 
+Valley Broadcasting, 107 F.3d 1328, which we will discuss infra. 
+
+
+35a 
+
+
+labels, and the failure to extend the ban on disclosing alcohol 
+content to advertisements. See id The Court held that "there 
+is little chance that [the regulation at issue] can directly and 
+materially advance its aim, while other provisions of the same 
+act directly undermine and counteract its effects." /d at 489. 
+
+
+In Valley Broadcasting, we considered whether 
+federal regulations which criminalized the broadcast of 
+advertisements for casino gambling violated the First 
+Amendment. See Valley Broadcasting, 107 F.3d at 1336. 
+Applying Coors Brewing, we held that the federal ban on 
+broadcast advertisements did not directly and materially 
+advance the government's interests in reducing public 
+participation in commercial lotteries and in protecting those 
+states which chose not to permit casino gambling within their 
+borders. See Valley Broadcasting, 107 F.3d at 1334-36. We 
+were compelled to reach this result in light of the numerous 
+exceptions to the ban, including those for state-run lotteries, 
+fishing contests, not-for-profit lotteries, and gaming conducted 
+by Indian tribes. See id As did the Court in Coors Brewing, 
+we held that the regulatory scheme could not directly and 
+materially advance its aim while other provisions of the same 
+statute directly undermined a.id counteracted its effects. See 
+Valley Broadcasting, 107 F.3d at 1334. 
+
+
+Likewise here, we are compelled to hold that the 
+numerous exceptions to § 6254(f)(3) for journalistic, scholarly, 
+political, governmental, and investigative purposes render the 
+Statute unconstitutional under the First Amendment. It is not 
+rational for a statute which purports to advance the 
+governmental interest in protecting the privacy of arrestees to 
+allow the names and addresses of the same to be published in 
+any newspaper, article, or magazine in the country so long as 
+the information is not used for commercial purposes. Having 
+one's name, crime, and address printed in the local paper is a 
+far greater affront to privacy than receiving a letter from an 
+attorney, substance abuse counselor, or driving school eager to 
+help one overcome his present difficulties (for a fee, naturally). 
+The exceptions to § 6254(f)(3) "undermine and counteract" the 
+asserted governmental interest in preserving privacy just as 
+
+
+36a 
+
+
+surely as did the exceptions in Coors Brewing and Valley 
+Broadcasting. We must therefore conclude that § 6254(f)(3) 
+fails to satisfy Central Hudson.” 
+
+
+Vv 
+
+
+Having concluded that § 6254(f)(3) violates Central 
+Hudson, the district court properly struck it down as an 
+unconstitutional infringement of United Reporting's First 
+Amendment rights.” 
+
+
+AFFIRMED. 
+
+
+Because we conclude that the challenged regulation does not directly 
+advance the asserted governmental interests, we need not reach the final prong of 
+Central Hudson. See Valley Broadcasting, 107 F.3d at 1336 n.9. 
+
+
+° Because we hold that the challenged regulation violates the First 
+
+
+Amendment, we do not reach United Reporting's equal protection, due process, or 
+overbreadth arguments. 
+
+

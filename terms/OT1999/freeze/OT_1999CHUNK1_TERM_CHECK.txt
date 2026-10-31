@@ -1,0 +1,3 @@
+OK: OT1999 non-Git checks; 0 warning(s)
+Git operations were prohibited. Git history and referenced-commit existence were not verified.
+Suppressed Git calls before process launch: 0.

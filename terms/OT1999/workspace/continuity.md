@@ -1,36 +1,74 @@
 # OT1999 Term Continuity Note
 
-**Status:** Opening projection; zero completed current-term events. Records control over this projection.
+Records control over this cumulative projection. Nine events are completed; three matters are stopped, and Fiore remains pending after certification.
 
-## Opening law and chronology
+## Scope and Chronology Cursor
 
-The opening authorities are the current [doctrinal Holdings volumes](../../../state/holdings/), their synchronized [continuous Holdings register](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). [Court Composition](../../../foundation/COURT_COMPOSITION.md) controls membership, seniority and circuit allotments. These are the published OT1998-close trackers, with the OT1999 docket additions expressly carried in Standing State section 4. The case index's descriptions of other source files do not replace them.
+The opening [Holdings volumes](../../../state/holdings/), synchronized [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md) are the OT1998-close set: processed through June 23, 1999; edition October 29, 2026. They remain unchanged. Current-term Records supplement that baseline from their effective dates. [Court Composition](../../../foundation/COURT_COMPOSITION.md) controls the roster and allotments.
 
-**Last completed October Term:** 1998  
-**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.  
-**Edition:** October 29, 2026  
-**Divergence point:** October 7, 1991; Alex-Lamar Stone-Zsela replaces Rehnquist as Chief Justice.  
-**Latest completed effective date:** 1999-06-23.  
-**OT1999 chronology cursor:** Before the first supplied event, Flippo v. West Virginia, scheduled for 1999-10-18. No OT1999 Court event or admitted source has been completed.
+The [manifest](manifest.md) retains all 104 scheduled items and thirteen additional unscheduled carryovers. Its nine completed rows and three stopped rows reflect this Run. The [ledger](ledger.md) preserves actual durable assembly order without a Git-history claim.
 
-All controlling law through the common cutoff remains in the trackers. No OT1999 holding, vote, grant rationale, remedy or disposition is created by opening the workspace. Earlier effective OT1999 Records will supplement that baseline at Run; a scheduled date or prepared position supplies no current law.
+The latest completed event is Illinois v. Wardlow, January 12, 2000, following Friends of the Earth v. Laidlaw alphabetically on that date. The next scheduled group is chunk 2's remaining January 12 matters: Adarand, Martinez and Reno v. Condon in alphabetical assignment order. These uncoordinated same-day matters share the law entering January 12; Laidlaw and Wardlow do not enter their substantive baseline. No new admitted noncase-law source or institutional change was entered. A later earlier-dated completion requires dependency review and enters only later assignment recounts under Engine section 8.
 
-The [OT1998 final audit](../../OT1998/close/AUDIT.md) reports no unresolved discrepancy. Its retained notes are nonblocking. This Open validates the published baseline and does not repeat the close audit or reopen completed adjudications.
+## Completed Events and Admitted Sources
 
-## Latest completed events in earlier terms
+| Effective date | Event and authority | Result |
+|---|---|---|
+| 1999-10-18 | [Flippo v. West Virginia](../records/flippo-v-west-virginia_merits_1999-10-18.md) | Certiorari granted; reversed and remanded, 9–0. |
+| 1999-11-29 | [Texas v. Lesage](../records/texas-v-lesage_merits_1999-11-29.md) | Reversed in the stated respect and remanded, 9–0. |
+| 1999-11-30 | [Fiore v. White](../records/fiore-v-white_certification_1999-11-30.md) | Certified question; jurisdiction retained; federal judgment and relief reserved, unanimously. |
+| 1999-12-07 | [Drye v. United States](../records/drye-v-united-states_merits_1999-12-07.md) | Affirmed, 9–0. |
+| 1999-12-13 | [Rayphand v. Sablan / Torres v. Sablan](../records/rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md) | Affirmed, 8–1; direct appellate jurisdiction sustained unanimously. |
+| 2000-01-10 | [Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc.](../records/steamfitters-v-philip-morris_merits_2000-01-10.md) | Federal RICO and Clayton Act dismissals affirmed, 9–0. |
+| 2000-01-11 | [Kimel v. Florida Board of Regents / United States v. Florida Board of Regents](../records/kimel-v-florida-board-of-regents_merits_2000-01-11.md) | Reversed and remanded, 5–4. |
+| 2000-01-12 | [Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc.](../records/friends-of-the-earth-v-laidlaw_merits_2000-01-12.md) | Reversed and remanded, 7–2; district penalty judgment returned to ordinary unresolved appellate review. |
+| 2000-01-12 | [Illinois v. Wardlow](../records/illinois-v-wardlow_merits_2000-01-12.md) | Affirmed, 5–4. |
 
-| Earlier term | Latest completed effective date | Final event or same-day group | Source |
-| --- | --- | --- | --- |
-| OT1991 | 1992-07-17 | Benten v. Kessler — referred application to vacate stay | [Term-Close Dossier](../../OT1991/close/TERM_CLOSE_DOSSIER.md) |
-| OT1992 | 1993-07-26 | DeBoer v. DeBoer — A-64 | [Term-Close Dossier](../../OT1992/close/TERM_CLOSE_DOSSIER.md) |
-| OT1993 | 1994-06-30 | McFarland; Holder; De Grandy; Madsen; Bagwell; Tuilaepa / Proctor | [Term-Close Dossier](../../OT1993/close/TERM_CLOSE_DOSSIER.md) |
-| OT1994 | 1995-06-29 | Sweet Home; Rosenberger; Pinette; Chabad-Lubavitch; Miller consolidated matters | [Term-Close Dossier](../../OT1994/close/TERM_CLOSE_DOSSIER.md) |
-| OT1995 | 1996-07-01 | Labron / Kilgore; Winstar | [Term-Close Dossier](../../OT1995/close/TERM_CLOSE_DOSSIER.md) |
-| OT1996 | 1997-09-15 | Harrison v. Eddy Potash | [Term-Close Dossier](../../OT1996/close/TERM_CLOSE_DOSSIER.md) |
-| OT1997 | 1998-09-28 | Ino Ino; Lucas; Newton County Wildlife; First Jersey Securities; McKenzie | [Term-Close Dossier](../../OT1997/close/TERM_CLOSE_DOSSIER.md) |
-| OT1998 | 1999-06-23 | Alden; College Savings Bank; Florida Prepaid; Ortiz | [Term-Close Dossier](../../OT1998/close/TERM_CLOSE_DOSSIER.md) |
+No adjudication was corrected, and no Admitted Source Record was entered in this chunk.
 
-## Court, participation and standing practice
+## Current Law
+
+- **Flippo v. West Virginia — October 18, 1999; unanimous per curiam.** The Court rejects a categorical homicide-scene exception. Actual emergency aid, victim/assailant searches, protective action and evidence preservation retain their own predicates and scope; an ended emergency does not authorize the subsequent prolonged evidence search. Visibility and an unlocked condition do not expose a closed briefcase's contents. Mincey and Thompson supply the categorical rule, Hicks the observation/search distinction, and Dickerson the authorized-intrusion boundary. The judgment is reversed and remanded for preserved and legally supported independent exceptions and harmlessness, without finding those alternatives false or ordering unconditional suppression, acquittal or a new trial. [Record](../records/flippo-v-west-virginia_merits_1999-10-18.md)
+
+- **Texas v. Lesage — November 29, 1999; unanimous per curiam.** Existing Hopwood law governs: after an unconstitutional admissions process is established, the school bears the preponderance burden to prove the same rejection under a specified constitutional process, including any race use governing law permits. Success defeats admission and compensation for that denial and its consequences but does not erase an independently established unequal-process injury. Nominal/declaratory recognition still requires a lawful cause, proper defendant and immunity analysis; prospective relief requires concrete continuing or imminent exposure and an equitable basis. The Fifth Circuit's irrelevance rule is reversed, but Texas's evidence is not newly found conclusive and the whole defense judgment is not reinstated. Sections 1981 and 1983, Title VI, source-specific relief, and possible cessation or abandonment remain distinct. No admissions standard or counterfactual becomes race-neutral-only. [Record](../records/texas-v-lesage_merits_1999-11-29.md)
+
+- **Fiore v. White — November 30, 1999; unanimous opinion by Stevens.** In an existing live federal controversy the Court may certify whether the State Supreme Court's later interpretation stated the law at conviction finality or changed it, retain jurisdiction and reserve the dependent federal judgment. Arizonans supplies the live-controversy certification rule; certification creates no jurisdiction and delegates no federal constitutional decision. The Pennsylvania meaning, Winship/Jackson application, retroactivity, notice and habeas remedy remain wholly undecided. No later answer is admitted. [Record](../records/fiore-v-white_certification_1999-11-30.md)
+
+- **Drye v. United States — December 7, 1999; unanimous opinion by Souter.** The existing state-created power to accept inherited value or direct it elsewhere by disclaimer is a right to property reached by §6321. State law defines the control; federal lien law classifies it, and relation back cannot erase already existing control. National Bank of Commerce supplies that division; Irvine is analogous without importing its gift-tax reasonable-time exception. Romani's specific priority protection remains separate. Affirmance decides no prior expectancy, disclaimer before legally cognizable control, spendthrift interest, valuation, recipient liability or competing priority. [Record](../records/drye-v-united-states_merits_1999-12-07.md)
+
+- **Rayphand v. Sablan / Torres v. Sablan — December 13, 1999; Kennedy opinion.** All nine sustain §1253 direct review of the heard injunction denial by the required three-judge court, applying Title 48, §2284 and Calero-Toledo's autonomous-commonwealth analogy. Section 902 consultation is not an exclusive rights remedy; §202 preserves judicial consistency review. Eight Associates affirm the specific territorial accommodation: equal municipal representation in one chamber alongside population representation in the other is permissible within this expressly protected federal settlement. Section 203(c) supplies equal representation; §501(a) applies Fourteenth Amendment §1 as if a State where it does not apply of its own force, while §501(b) preserves §203's validity and Congress's power to consent. That statutory interaction does not itself decide constitutional power. Reynolds and Board of Estimate retain their state/local force; the context-sensitive territorial framework permits this confined accommodation without excluding residents from constitutional protection. Section 105 consent is relevant but not a waiver of individual rights. No universal territorial exemption, ordinary-state analogue, numerical deviation rule, replacement map, election, ouster or invalidation of past enactments follows. Stone-Zsela dissents from merits/remedy, not jurisdiction. [Record](../records/rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md)
+
+- **Steamfitters v. Philip Morris — January 10, 2000; unanimous opinion by Thomas.** Holmes's contextual direct-relation rule defeats the pleaded RICO medical-expenditure chain through participants' smoking, illness and treatment. Intent to shift costs, real property loss, limited duplication and lack of participants' RICO bodily-injury recovery do not eliminate those intervening links. The distinct cessation theory also fails because the alleged payments depend on different fund action, changed participant behavior and avoided illness/treatment; no independent direct fund loss is pleaded. The funds' property loss is recognized, and the District Court's contrary rationale is not adopted. Entity capacity and benefit duties do not transfer bodily injuries or dispense with causation. AGC independently defeats the Clayton Act chain; consumer/competitor labels are not exclusive and McCready's scheme-implementing reimbursement denial remains distinct. No antitrust-injury requirement enters RICO; no three-element, universal third-party-payer or aggregate-proof bar is created. Only the federal dismissals are affirmed; state claims and hypothetical amendment remain outside review. [Record](../records/steamfitters-v-philip-morris_merits_2000-01-10.md)
+
+- **Kimel / United States v. Florida Board of Regents — January 11, 2000; Ginsburg opinion.** Seven Justices—Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer—hold that §630(b), §626(b)–(c), incorporated §216(b) and §203(x) together unmistakably authorize the private federal action against state employers. Coverage alone is not the holding. Section 626(b)'s liquidated damages require willfulness. Section 626(c)(1)'s EEOC-commencement termination and the separately incorporated §216(b) Secretary/§217 wage-delay or §215(a)(3) retaliation termination retain their distinct predicates; no such filing is adjudicated. Five—Stone-Zsela, Stevens, Souter, Ginsburg and Breyer—apply Florida Prepaid's Article I rule to the valid commerce-based employment duty and its express enforcement measure, reversing both immunity judgments. The subject's change from patents to employment supplies no patent-only exception. Alden creates no state-forum exhaustion condition; College Savings bars constructive consent from continued employment. Section 5 is reserved, and no discrimination, defense or award is established. Ordinary statutory and award-specific constitutional limits remain. [Record](../records/kimel-v-florida-board-of-regents_merits_2000-01-11.md)
+
+- **Friends of the Earth v. Laidlaw — January 12, 2000; O'Connor opinion, 7–2.** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer hold that supported loss of identified local river use through reasonable concern about ongoing mercury discharges supplies personal injury without separately proving environmental damage. Unexplained concern or abstract compliance interests do not suffice. Curtis's nonpollution childhood cessation, Moore's limited visits and the scientific findings remain part of the actual record; no universal downstream standing or property-valuation finding is made. An authorized Treasury penalty can redress supported threatened personal injury through likely deterrence; Steel Co.'s prefiling-cure case is distinguished, and wholly past violations without a remedial connection, punitive satisfaction and fees alone remain insufficient. Voluntary cessation requires it to be absolutely clear that challenged injurious conduct cannot reasonably recur. Later closure, dismantling, retained permit and the 1997 agreement's conditional alternative-treatment permission require factual assessment. Reversal removes the appellate vacatur/dismissal direction and returns the district penalty judgment to unresolved ordinary appellate review, without final amount approval, immediate collection or a new stay. Preserved diligent prosecution, amount, closure/mootness and fee questions remain; the unappealed injunction denial is not reopened. Article II and the broader postcessation penalty-survival rule remain unadjudicated by the Court. [Record](../records/friends-of-the-earth-v-laidlaw_merits_2000-01-12.md)
+
+- **Illinois v. Wardlow — January 12, 2000; Stone-Zsela opinion.** All nine join the governing Terry totality rule: flight and a demonstrated narcotics setting may be considered, location alone is insufficient, and no universal rule follows from any flight plus a high-crime label. Ornelas supplies independent ultimate review with historical-fact respect and grounded local inferences; the discovered gun supplies no retrospective justification. Five—Stone-Zsela, Stevens, Souter, Ginsburg and Breyer—find this actual pre-stop combination insufficiently particularized and affirm suppression. Recognition is a permissible inference, not an admission; the testimony supplies no marked vehicles, actual crowd, observed transaction or pre-stop contraband. The holding creates no third-factor requirement, flight exclusion or innocent-motive finding. Frisk and bag-search validity remain outside review. Laidlaw's same-day processing supplies no entering authority here. [Record](../records/illinois-v-wardlow_merits_2000-01-12.md)
+
+## Material Published Noncontrolling Positions
+
+- **Stone-Zsela, Torres dissent in part, December 13, 1999.** The extreme unequal weight of individual votes in a general territorial legislature cannot be justified merely by federal approval, smaller-island geography or the founding bargain. Reynolds and Board of Estimate support the individual-right/function analysis; Flores de Otero supplies a constitutional basis for territorial equality without making every State/territory rule identical. He would reverse the challenged inequality, allow political-branch design and require lawful transition without indefinite continuation; he would dictate no seat total, invalidate no unrelated Covenant provision or autonomous local island institution, and void no past enactment. He joins jurisdiction. [Record](../records/rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md)
+
+- **O'Connor, joined by Scalia, Kennedy and Thomas, Kimel constitutional dissent, January 11, 2000.** They distinguish regulation of a State from a nonconsensual private treasury action and expressly seek reconsideration of Florida Prepaid's Article I rule and the Union Gas conclusion, rather than posit an existing patent-only exception. They independently reject §5 on the fit between rational-basis age protection and the broader statute/private remedy, evaluating the identified legislative subjects without a formal or quantitative findings requirement, state-law-validity inference, exhaustive-record assumption or individual constitutional-tort prerequisite. The narrower occupational qualification, reasonable-factors-other-than-age, good-cause, foreign-workplace, seniority and benefit-plan defenses retain their actual predicates; none is found satisfied. The bona fide seniority/benefit rules preserve non-evasion, hiring, involuntary-retirement and employer-burden limits. The equal-benefit route compares actual older/younger payment or cost for each benefit/package under 29 C.F.R. §1625.10 as in effect June 22, 1989; the voluntary-incentive alternative remains separate. O'Connor and Scalia join the Court's authorization holding. [Record](../records/kimel-v-florida-board-of-regents_merits_2000-01-11.md)
+
+- **Thomas, joined by Kennedy, Kimel statutory dissent, January 11, 2000.** They find the ADEA incorporation insufficiently unmistakable because §626(c) supplies a separate action, the 1967 incorporation precedes the 1974 §216(b) change, the competent-court language remains, and the later-removed §255 incorporation matters to their construction. They impose no universal one-section requirement. This statutory objection independently supports affirmance; their joined constitutional grounds are alternatives. [Record](../records/kimel-v-florida-board-of-regents_merits_2000-01-11.md)
+
+- **Stevens, Laidlaw concurrence, January 12, 2000.** In addition to joining the Court, he would preserve a valid penalty judgment despite postjudgment cessation and preserve a properly initiated monetary penalty claim even if cessation occurs before judgment. Tull's monetary/prospective distinction supports that analogy. Initial standing and the statutory prosecution bar remain necessary; no uninjured citizen action, fee-based jurisdiction, final amount approval or unconditional collection follows. He alone adopts this broader survival theory. [Record](../records/friends-of-the-earth-v-laidlaw_merits_2000-01-12.md)
+
+- **Scalia, joined by Thomas, Laidlaw dissent, January 12, 2000.** The scientific findings and use/deposition qualifications do not establish the necessary objective connection to personal use loss. Independently, even assuming injury, governmental enforcement, the State's penalty, compliance and litigation exposure make the added federal penalty's marginal deterrent redress too speculative. They accept the legal possibility of deterrent redress under Steel Co.; no categorical Treasury-penalty bar or Article II holding follows. Conditional acceptance of cessation factfinding if standing were assumed supplies no operative reversal/remand vote. [Record](../records/friends-of-the-earth-v-laidlaw_merits_2000-01-12.md)
+
+- **O'Connor, joined by Scalia, Kennedy and Thomas, Wardlow dissent in part, January 12, 2000.** The immediate look-and-run sequence, route through the gangway/alley and credited narcotics setting permit an individualized investigative inference despite possible innocent explanations. They assume no additional observed facts and use no racial or retrospective-gun premise. They apply controlling Ornelas, while Scalia retains his prior allocation objection. They would reverse the initial-stop ruling and remand for properly remaining matters, not automatically reinstate the conviction or decide the frisk. [Record](../records/illinois-v-wardlow_merits_2000-01-12.md)
+
+## Current Procedure and Institution
+
+Nine events are recorded in effective chronological order. Flippo and Lesage return for their bounded state/federal appellate proceedings. Drye, Torres, Steamfitters and Wardlow leave the reviewed judgments in force at the specified scope. Kimel returns both immunity matters for ordinary ADEA merits and remedy proceedings. Laidlaw returns the existing penalty judgment to unresolved ordinary appeal and cross-appeal, under ordinary transmission, mandate and applicable stay rules; no unverified mandate, bond, execution stay or immediate collection is presumed.
+
+**Fiore remains open in this Court.** The Supreme Court of Pennsylvania's answer to the certified historical-meaning question is the next established condition; no answer, deadline, habeas judgment or later federal disposition is supplied.
+
+**Paul P., United Reporting and Hill remain unadjudicated open matters.** Paul requires specification of the exact partial-vacatur component before a complete controlled remedy can be entered. United Reporting has no established common majority operative disposition and complete mandate; no equal division or further-consideration order is inferred. Hill requires revalidation on the corrected Article III(a) 180-day premise and fresh affected stages. None supplies effective law, a published opinion or an authorship count. Their complete operator blockers are maintained separately; no stopped matter is terminally closed.
+
+The January 12 group continues into the next chunk. Uncoordinated same-day matters share the entering baseline regardless of alphabetical assignment order. An eventual earlier-dated decision for a stopped matter requires chronology/dependency review; no proposed holding is retroactively imported into these completed Records.
 
 All nine seats are occupied. No vacancy or new-oath participation condition applies, and the opening setting establishes no additional case-specific nonparticipation. Each event still requires its own supported participation determination. Seniority is:
 
@@ -46,7 +84,7 @@ All nine seats are occupied. No vacancy or new-oath participation condition appl
 | 8 | Ruth Bader Ginsburg | Associate Justice | White line | August 10, 1993 | August 10, 1993 | Composition register; seated at the OT1999 opening. |
 | 9 | Stephen G. Breyer | Most-junior Associate Justice | Blackmun line | August 3, 1994 | August 3, 1994 | Composition register; took seat August 3, 1994. |
 
-For each judgment component, the Chief assigns when in the judgment majority; otherwise the most senior participating Associate in that majority assigns. Opinion assignments follow Engine section 8. No OT1999 assignment has been made.
+For each judgment component, the Chief assigns when in the judgment majority; otherwise the most senior participating Associate in that majority assigns. Opinion assignments follow Engine section 8.
 
 The August 3, 1994 circuit-allotment order remains in force:
 
@@ -68,17 +106,15 @@ The August 3, 1994 circuit-allotment order remains in force:
 
 A membership change requires complete reallotment; circuits do not pass automatically with a seat. No new membership or allotment change is supplied for OT1999.
 
-The standing referral practice remains effective from October 7, 1991, with the signed-explanation and certification requirements effective October 2, 1995. An inventory-listed request for interim relief is referred by the Circuit Justice to the full Court and decided by a majority of participating Justices. The Court's order names the presenting Circuit Justice. Referral permits necessary temporary individual action by the Circuit Justice or the substitute designated by the term-effective Rules while the Court considers the application. Each action receives short signed explanations, including the Circuit Justice's explanation at final disposition whether prevailing or dissenting, and each participating Justice's statement on each Court action deciding relief. The Chief or the Chief's substitute certifies issuance. Participation begins on the judicial oath date. Applications outside the inventory remain subject to ordinary Circuit Justice practice. Engine section 10 and Standing State section 3 supply the governing requirements. No application is added by this opening.
+The standing referral practice remains effective from October 7, 1991, with the signed-explanation and certification requirements effective October 2, 1995. An inventory-listed request for interim relief is referred by the Circuit Justice to the full Court and decided by a majority of participating Justices. The Court's order names the presenting Circuit Justice. Referral permits necessary temporary individual action by the Circuit Justice or the substitute designated by the term-effective Rules while the Court considers the application. Each action receives short signed explanations, including the Circuit Justice's explanation at final disposition whether prevailing or dissenting, and each participating Justice's statement on each Court action deciding relief. The Chief or the Chief's substitute certifies issuance. Participation begins on the judicial oath date. Applications outside the inventory remain subject to ordinary Circuit Justice practice. Engine section 10 and Standing State section 3 supply the governing requirements. No covered application was decided in chunk 1.
 
-## Docket and pending procedure
+### Remaining opening grants
 
-The [manifest](manifest.md) carries 104 scheduled matters: 101 MERITS, one DIRECT APPEAL and two ORIGINAL. Twenty-three are already granted under Standing State; Rayphand / Torres, No. 99-475, is a direct appeal to be heard on the merits. These 24 matters are included once in the inventory, without an invented grant date, poll or rationale.
+Rayphand/Torres and Steamfitters have reached the completed decisions above. The remaining listed opening grants retain their carried stage; no grant date, poll or rationale is invented.
 
-| Inventory row | Matter | Scheduled date | Opening stage |
+| Inventory row | Matter | Scheduled date | Carried stage |
 | --- | --- | --- | --- |
 | 4 | Paul P. v. Verniero | 1999-12-06 | Granted — to be heard on the merits. |
-| 7 | Rayphand v. Sablan / Torres v. Sablan | 1999-12-13 | To be heard on the merits. |
-| 8 | Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc. | 2000-01-10 | Granted — to be heard on the merits. |
 | 16 | Fraternal Order of Police v. United States | 2000-01-18 | Granted — to be heard on the merits. |
 | 23 | U.S. West, Inc. v. Federal Communications Commission | 2000-02-07 | Granted — to be heard on the merits. |
 | 24 | Richards v. United States | 2000-02-14 | Granted — to be heard on the merits. |
@@ -101,7 +137,7 @@ The [manifest](manifest.md) carries 104 scheduled matters: 101 MERITS, one DIREC
 | 94 | Hawkins v. Freeman | 2000-06-19 | Granted — to be heard on the merits. |
 | 99 | Henerey v. City of St. Charles, School District | 2000-06-26 | Granted — to be heard on the merits. |
 
-The fourteen prior pending matters retain their exact opening stages. Alaska overlaps the scheduled inventory, leaving thirteen additional unscheduled matters and 117 distinct open matters in all.
+### Opening pending matters retained
 
 | Matter and docket | Opening stage | Scheduled treatment | Authority |
 | --- | --- | --- | --- |
@@ -120,15 +156,9 @@ The fourteen prior pending matters retain their exact opening stages. Alaska ove
 | *Republic of Paraguay v. Gilmore*, No. 125, Original | Motion for leave to file an original complaint pending. | Unscheduled; no chunk or event date supplied. | *Breard v. Greene and related applications*, A-771, Decision Record, April 14, 1998. |
 | *Federal Republic of Germany, et al. v. United States, et al.*, No. 127, Original | Motion for leave to file an original complaint remains under consideration. | Unscheduled; no chunk or event date supplied. | *Federal Republic of Germany*, original leave and interim order, Decision Record, March 3, 1999. |
 
-Pending matters are not terminated by an absent source or the passage of time. New Jersey's completed decree presentation is not carried again; general retained implementation jurisdiction alone is not a pending request. No additional noncase-law or institutional change has been supplied. Any effective new source must be admitted before the first dependent event.
+Alaska overlaps the 104 scheduled matters; the other thirteen are additional unscheduled pending matters. All fourteen stay open at the stated stage. The scheduled date for Alaska does not establish that a proposed decree has been submitted or entered. Separate Arteaga submissions and Paraguay dockets remain distinct. No terminal event, compliant filing, default, mootness or execution is inferred. General retained jurisdiction in a completed matter does not itself supply another pending request.
 
-## Current-term law and continuation
-
-There are no OT1999 holdings, Records, opinion assignments or published Justice-specific positions to project. Relevant prior-term public positions must be taken from those terms' public renders; the law comes from the opening trackers. Historical Supreme Court dispositions after divergence do not enter current law merely because the calendar names them.
-
-Process events by effective date. The supplied order breaks same-day display ties only. Uncoordinated events on the same date share the law entering that date, even when they fall in different chunks; combine their effects only prospectively. A same-day dependency requires express support and an established sequence. If a new item predates the chronology cursor, reconcile it under Engine section 2 before dependent adjudication.
-
-The following groups cross chunk boundaries:
+### Cross-chunk same-day groups
 
 | Date | Inventory rows | Chunks |
 | --- | --- | --- |
@@ -139,8 +169,34 @@ The following groups cross chunk boundaries:
 | 2000-06-12 | 84–89 | 7, 8 |
 | 2000-06-26 | 95–99 | 8, 9 |
 
-Before each Run, build the entering-law slice from the opening trackers and all earlier effective current-term Records. Revalidate event posture, participation and any dependency against that effective baseline. The manifest's anticipated event descriptions do not settle the action the Court will take. Keep neutral modeling, reconciliation and assembly in their separate authorized contexts. Runtime handoffs are generated from the approved brief at Run; none is required for this Open.
+### Counted lead opinions after this chunk
 
-## Opening validation and source limits
+Each assignment was made after its opinion form and propositions were fixed and after recounting actual earlier Record opinion tables. The durable sequence is recorded separately in `OT_1999CHUNK1_RECORD_ORDER.txt`. Six signed plenary leads count; the two per curiams and Stevens's signed procedural Fiore opinion do not.
 
-See the [opening validation](../audit/OPEN_VALIDATION.md). Every identifiable scheduled item and every Standing State carryover is accounted for. Eight unnamed legacy entries in the case index have no supplied identifying information and are not invented. References there to external preparation filenames are not opening authorities. Tool-input normalization is confined to scratch; the original case index, briefs, published state, governing files and prior terms remain unchanged.
+| Justice | Counted signed plenary leads | Counted decision |
+|---|---:|---|
+| Stone-Zsela | 1 | Wardlow |
+| Stevens | 0 | — |
+| O'Connor | 1 | Laidlaw |
+| Scalia | 0 | — |
+| Kennedy | 1 | Torres |
+| Souter | 1 | Drye |
+| Thomas | 1 | Steamfitters |
+| Ginsburg | 1 | Kimel |
+| Breyer | 0 | — |
+
+The last counted event is Illinois v. Wardlow, January 12, 2000. Stevens assigned the Torres merits opinion as the senior Associate in that judgment coalition; its resulting Kennedy lead counts. The Chief made the other counted assignments, including the Wardlow self-assignment after comparison with eligible alternatives and actual counts.
+
+## Blockers and Revalidation Needs
+
+**Paul P. v. Verniero:** The approved disposition does not identify the portion of the lower judgment to be vacated; that controlled remedy must be specified before a complete decision can be entered.
+
+**Los Angeles Police Department v. United Reporting Publishing Corp.:** The final positions do not yet establish a common majority disposition and complete mandate for the commercial application and existing relief; the matter remains open without an entered Court event.
+
+**New York v. Hill:** The approved position requires revalidation on the corrected Article III(a) 180-day record; it cannot be transferred from the materially different Article IV(c) 120-day premise.
+
+See the [assembly blockers](../runtime/OT_1999CHUNK1_ASSEMBLY_BLOCKERS.md) for the precise remedial or statutory issue and the authorized next stage. No stopped position enters current law. United Reporting's absence of a majority mandate is not an equal division or a missing Stone vote. Any material non-Stone change requires the prescribed separate reconciliation review. Later completion of an earlier-dated event requires dependency review before its effect is projected.
+
+## Source and Research Cutoff
+
+Research cutoffs are event-specific, from October 18, 1999 through January 12, 2000, as stated in the Records. Continue from the opening trackers and effective Records, with published prior-term positions consulted only when relevant. The frozen source maps and original-record validations distinguish complete recovered documents, published recitations and unavailable underlying material. No current or future historical Supreme Court action is admitted merely because a source reports it. Git history and referenced-commit existence remain unverified at the operator's express direction; no repository commit is claimed.

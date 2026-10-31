@@ -1,0 +1,16 @@
+# Hill: bounded objective-record correction for neutral validation
+
+This handoff contains objective historical facts and the relevant statutory distinction only. Control checked the named anchors programmatically in the saved complete source. The factual sentences below are paraphrases; they do not supply the Court's outcome, rationale, vote, or remedy and do not alter the approved brief.
+
+- The respondent is **Michael Hill**, not Alma Hill. He was imprisoned in **Ohio**, not federal custody.
+- New York lodged a detainer. Hill signed a request for disposition under **Article III** of the Interstate Agreement on Detainers and was returned to New York to face murder and robbery charges.
+- **Article III(a)** provides a **180-day** period after the prisoner's request, subject to its terms, including necessary or reasonable continuances for good cause shown in open court with the prisoner or counsel present. **Article IV(c)** separately provides a **120-day** period after the prisoner's arrival when the charging jurisdiction obtains temporary custody under Article IV. Those are distinct triggers and provisions; this record concerns the former.
+- The pendency of several defense motions tolled the period; that tolling was uncontested in the reported record.
+- On **January 9, 1995**, the prosecutor and defense counsel appeared in court to select a trial date. The prosecutor proposed **May 1, 1995** based on the regular prosecutor's calendar. When the court asked defense counsel about that date, counsel expressly agreed. The court scheduled trial for May 1. The source does not state that Hill personally attended this scheduling appearance.
+- On **April 17, 1995**, Hill moved to dismiss, claiming that the statutory period had expired. That motion preceded his jury trial and conviction; the approved packet's account that he first sought dismissal after conviction is inaccurate.
+- The trial court found **167 nonexcludable days** had run when the date was set on January 9, and that the 180-day period would have elapsed if the later interval was chargeable to New York. This is the trial court's computation, not an independently reconstructed computation.
+- The source identifies the New York Court of Appeals decision as **92 N.Y.2d 406, 704 N.E.2d 542 (1998)** and the Supreme Court docket as **98-1299**.
+
+Source provenance: [published record recitation, Part I](https://www.law.cornell.edu/supct/html/98-1299.ZO.html), corroborated by [official U.S. Reports, 528 U.S. 110, pp. 111–113](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-110.pdf). Control saved the full source; the neutral stage receives only this bounded handoff. Retrieval date: October 31, 2026. Event cutoff: January 11, 2000. Source-text SHA-256: `00a0358a228939b862eae76f7979e9947340f523af40f6eb9b2a539245db739c`.
+
+Scope limit: the source recitation does not establish a distinct Article IV(c) transfer, a 120-day computation, federal sending custody, Hill's personal presence at the scheduling conference, or a personal express objection there. No such fact is reconstructed. The approved packet's Article IV(c)/120-day formulation therefore needs correction or an expressly selected distinct case premise before it is used as the historical record.

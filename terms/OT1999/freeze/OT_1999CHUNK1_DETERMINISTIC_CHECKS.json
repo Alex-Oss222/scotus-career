@@ -1,0 +1,32 @@
+{
+  "errors": [],
+  "record_count": 9,
+  "counted_leads": {
+    "Stone-Zsela": 1,
+    "Stevens": 0,
+    "O'Connor": 1,
+    "Scalia": 0,
+    "Kennedy": 1,
+    "Souter": 1,
+    "Thomas": 1,
+    "Ginsburg": 1,
+    "Breyer": 0
+  },
+  "record_sha256": {
+    "flippo-v-west-virginia_merits_1999-10-18.md": "8fc379081baf192f30c1dd132d312b7d8671e5372ee775d839568ae0e9ce9c1e",
+    "texas-v-lesage_merits_1999-11-29.md": "cfbb4ca635f73599e70b44830674fa857e9049a09af75a3f269eb5d390ee3e3b",
+    "fiore-v-white_certification_1999-11-30.md": "5f3f7d212a444aeabf87e21c3b0ce53bd39ef0c66561fcfcbc19ffc5f6d539c8",
+    "drye-v-united-states_merits_1999-12-07.md": "cbe1d933825721626d84d9971c383b11f5ba386433a8f498454ffde90663c6ca",
+    "rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md": "b8f8ce6ada81306f12acb842df25d387da84277dd33eb8c01c0c8d7cfae0b786",
+    "steamfitters-v-philip-morris_merits_2000-01-10.md": "38887bc32e4c932fc1a284032f6da2821c8dd9398621badd298fe0028d38938b",
+    "kimel-v-florida-board-of-regents_merits_2000-01-11.md": "30899343c7924fac00d7447dde6e9978d387798baf3bfdade5f785de531d872f",
+    "friends-of-the-earth-v-laidlaw_merits_2000-01-12.md": "722d88b86a047776ad44f6e914160c08edf935a7ff24f516e67c81f4d92208d3",
+    "illinois-v-wardlow_merits_2000-01-12.md": "5f5c25d518248d214c174d9bc40b6ae55037bee7cd2d82ce1997a3e232fb6bb5"
+  },
+  "links_checked": 74,
+  "inventory_rows": 104,
+  "manifest_completed": 9,
+  "manifest_stopped": 3,
+  "git_checks": "Not run; prohibited by operator",
+  "render": "Not requested; no public output written"
+}

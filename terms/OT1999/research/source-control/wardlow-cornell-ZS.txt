@@ -1,0 +1,42 @@
+
+
+ILLINOIS V. WARDLOW
+
+LII
+
+Supreme Court
+
+ILLINOIS V. WARDLOW (98-1036) 
+183 Ill. 2d 306, 701 N. E. 2d 484, reversed and remanded.
+Syllabus
+ Opinion
+ [ Rehnquist ]Other
+ [ Opinion of Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+ILLINOIS v. WARDLOW
+
+CERTIORARI TO THE SUPREME COURT OF ILLINOIS
+
+No. 98—1036. Argued November 2, 1999–Decided January 12, 2000
+
+Respondent Wardlow fled upon seeing a caravan of police vehicles converge on an area of Chicago known for heavy narcotics trafficking. When Officers Nolan and Harvey caught up with him on the street, Nolan stopped him and conducted a protective pat-down search for weapons because in his experience there were usually weapons in the vicinity of narcotics transactions. Discovering a handgun, the officers arrested Wardlow. The Illinois trial court denied his motion to suppress, finding the gun was recovered during a lawful stop and frisk. He was convicted of unlawful use of a weapon by a felon. In reversing, the State Appellate Court found that Nolan did not have reasonable suspicion to make the stop under Terry v. Ohio, 392 U.S. 1. The State Supreme Court affirmed, determining that sudden flight in a high crime area does not create a reasonable suspicion justifying a Terry stop because flight may simply be an exercise of the right to “go on one’s way,” see Florida v. Royer, 460 U.S. 491. 
+
+Held: The officers’ actions did not violate the Fourth Amendment. This case, involving a brief encounter between a citizen and a police officer on a public street, is governed by Terry, under which an officer who has a reasonable, articulable suspicion that criminal activity is afoot may conduct a brief, investigatory stop. While “reasonable suspicion” is a less demanding standard than probable cause, there must be at least a minimal level of objective justification for the stop. An individual’s presence in a “high crime area,” standing alone, is not enough to support a reasonable, particularized suspicion of criminal activity, but a location’s characteristics are relevant in determining whether the circumstances are sufficiently suspicious to warrant further investigation, Adams v. Williams, 407 U.S. 143, 144, 147—148. In this case, moreover, it was also Wardlow’s unprovoked flight that aroused the officers’ suspicion. Nervous, evasive behavior is another pertinent factor in determining reasonable suspicion, e.g., United States v. Brignoni-Ponce, 422 U.S. 873, 885, and headlong flight is the consummate act of evasion. In reviewing the propriety of an officer’s conduct, courts do not have available empirical studies dealing with inferences from suspicious behavior, and this Court cannot reasonably demand scientific certainty when none exists. Thus, the reasonable suspicion determination must be based on commonsense judgments and inferences about human behavior. See United States v. Cortez, 449 U.S. 411, 418. Officer Nolan was justified in suspecting that Wardlow was involved in criminal activity, and, therefore, in investigating further. Such a holding is consistent with the decision in Florida v. Royer, supra, at 498, that an individual, when approached, has a right to ignore the police and go about his business. Unprovoked flight is the exact opposite of “going about one’s business.” While flight is not necessarily indicative of ongoing criminal activity, Terry recognized that officers can detain individuals to resolve ambiguities in their conduct, 392 U.S., at 30, and thus accepts the risk that officers may stop innocent people. If they do not learn facts rising to the level of probable cause, an individual must be allowed to go on his way. But in this case the officers found that Wardlow possessed a handgun and arrested him for violating a state law. The propriety of that arrest is not before the Court. Pp. 3—6.
+
+183 Ill. 2d 306, 701 N. E. 2d 484, reversed and remanded.
+
+ Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, and Thomas, JJ., joined. Stevens, J., filed an an opinion concurring in part and dissenting in part, in which Souter, Ginsburg, and Breyer, JJ., joined.
+

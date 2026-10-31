@@ -1,0 +1,2360 @@
+No. 98-1036 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+
+STATE OF ILLINOIS, 
+
+
+Petitioner, 
+vs. 
+
+
+WILLIAM WARDLOW, aka SAM WARDLOW, 
+Respondent. 
+
+
+On Writ of Certiorari to the Supreme Court of Illinois 
+
+
+BRIEF FOR PETITIONER 
+
+
+JAMES E. RYAN 
+Attorney General 
+
+State of Illinois 
+
+JOEL D. BERTOC CHI 
+Solicitor General 
+
+100 West Randolph Street 
+12th Floor 
+
+Chicago, IIlinois 60601 
+
+
+Counsel for Petitioner 
+
+
+RICHARD A. DEVINE* 
+
+Cook County State’s Attorney 
+
+309 Richard J. Daley Center 
+
+Chicago, Illinois 60602 
+
+(312) 603-5496 
+
+RENEE G. GOLDFARB 
+
+THEODORE FOTIOS BURTZOS 
+
+VERONICA XIMENA CALDERON 
+
+Assistant State’s Attorneys 
+
+Of Counsel *Counsel of Record 
+
+
+Midwest Law Printing Co., Chicago 60610, (312) 321-0220 | 
+
+
+QUESTION PRESENTED FOR REVIEW 
+
+
+Whether a person’s unprovoked flight from a clearly 
+identifiable police officer, who is patrolling a high crime 
+area, is sufficiently suspicious to justify a temporary in- 
+vestigatory stop pursuant to Terry v. Ohio. 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+PAGE 
+QUESTION PRESENTED FOR REVIEW ......... i 
+e ũ õůͤhhn ve eeccesecee ii 
+TABLE OF AUTHORITIES .............005:: iv 
+r » 1 
+STATEMENT OF JURISDICTION .............. 1 
+CONSTITUTIONAL PROVISIONS INVOLVED ..... 1 
+STATEMENT OF THE CASE ttt 2 
+SUMMARY OF ARGUMENT ...............05. 5 
+, é W- 7 
+
+
+A PERSON’S UNPROVOKED FLIGHT FROM 
+A CLEARLY IDENTIFIABLE POLICE OFFI- 
+CER, WHO IS PATROLLING A HIGH CRIME 
+AREA, IS SUFFICIENTLY SUSPICIOUS TO 
+JUSTIFY A TEMPORARY INVESTIGATORY 
+STOP PURSUANT TO TERRY v. OHIO ....... 7 
+
+
+A. 
+
+
+— Respondent's Unprovoked Flight From A 
+Clearly Identifiable Police Officer Was Suffi- 
+cient, Standing Alone, To Warrant A Tempo- 
+rary Investigatory Stop Under The Fourth 
+EE el 5 5 it.. 7 
+
+
+iii 
+(1). 
+
+
+A Bright-Line Rule Permitting Police Offi- 
+cers To Conduct A Temporary Investigatory 
+Stop Of A Person Who Flees At The Mere 
+Sight Of The Police Would Have Been Re- 
+garded As A Lawful Seizure Under The Com- 
+mon Law When The Fourth Amendment Was 
+r saan eune os 
+
+
+(2). 
+
+
+A Bright-Line Rule Permitting Police Offi- 
+cers To Conduct A Terry Stop Of A Person 
+Who, Without Provocation, Flees At The Mere 
+Sight Of The Police Strikes A Proper Balance 
+Between A Citizen’s Privacy Interests And 
+The Government’s Interest In Fostering Good 
+Police Work And Facilitating Crime Preven- 
+r ele 
+
+
+If A Person’s Flight Alone Is Insufficient To 
+Justify A Terry Stop, Then Flight In A High 
+Crime Area Provides The Particularized 
+Grounds Necessary To Support A Reasonable 
+Suspicion That Criminal Activity May Be 
+sh é neh ne pbs bdnb 0 eb bbCA0 bbeheunel 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Cases: PAGE(S) 
+Adams v. Williams, 407 U.S. 143 (1972) ...... 14, 28 
+Alberty v. United States, 162 U.S. 499 (1896) ..... 19 
+Allen v. United States, 164 U.S. 492 (189 19 
+
+
+Au Yi Lau v. United States Immigration and 
+Naturalization Service, 445 F.2d 217 
+
+
+ILL 25 
+Berke mer v. McCarthy, 468 U.S. 420 (1984) 30 
+Brinegar v. United States, 338 U.S. 160 (19499 38 
+Britt v. State, 673 So.2d 934 (Fla. 1996) ......... 26 
+California v. Hodari D., 499 U.S. 621 
+
+e 11, 15, 32, 33, 34 
+Carroll v. United States, 267 U.S. 132 (1925) ..... 38 
+City of St. Paul v. Vaughn, 237 N.W.2d 365 
+
+.... ...es e e ee 26 
+County Court v. Allen, 442 U.S. 140 (19799 20 
+Florida v. White, __ U.S. __, 119 S.Ct. 1555, 
+
+143 L.Ed.748 (1999 00õſ 13, 25, 29 
+Harris v. State, 423 S.E.2d 723 (Ga. 1992) ....... 26 
+
+
+Hickory v. United States, 160 U.S. 408 (1896) .. 19, 20 
+
+
+In re Apollon, 22 U.S. 362 (182) 38 
+
+
+* 
+
+
+Maryland v. Wilson, 519 U.S. 408 (1997) 11 
+Michigan v. Chesternut, 486 U.S. 567 (1991) 33, 34 
+Michigan v. Summers, 452 U.S. 692 (19817 11 
+New Jersey b. T. L. O., 469 U.S. 325 (1985) 8, 22, 23 
+Ornelas v. United States, 517 U.S. 690 
+
+
+. 11. 12, 31. 40 
+Pennsylvania v. Mimms, 434 U.S. 106 (1977) ..... 11 
+People v. Holmes, 619 N. E. 2d 396 (N.Y. 1993) 26 
+
+
+People v. Shabaz, 378 N. W. 2d 451 (Mich. 
+1985), cert. granted, 475 U.S. 1094, 
+
+
+CG, Gs A ED bc ecewewescdedi 26 
+Platt v. State, 589 N.E.2d 222 (Ind. 1992) ..... 26, 29 
+Sibron v. New York, 392 U.S. 40 (1968) ......... 24 
+Smith v. United States, 558 A.2d 312 
+
+// ve bwercctecwes 39 
+Starr v. United States, 164 U.S. 627 (1897) 19 
+State v. Anderson, 454 N.W.2d 763 
+
+D — eine we deeb een 26, 27, 29, 31 
+State v. Hewston, No. 59095, 1990 Ohio App. 
+
+LEXIS 3192 (Ohio App. August 2, 1990) ...... 39 
+State v. Hicks, 488 N.W.2d 359 (Neb. 1992) ...... 26 
+
+
+State v. Stinnett, 760 P.2d 124 (Nev. 1988) ....... 26 
+
+
+vi 
+
+State v. Wade, 390 So.2d 1309 (La. 1980) ........ 39 
+Terry v. Ohio, 392 U.S. 1 (19680) . passim 
+United States v. Bennett, 514 A.2d 414 
+
+(D.C. Court of Appeals, 1986) .............. 26 
+United States v. Brignoni-Ponce, 
+
+Ge Se, Bee 3. 24s bs ab dese ea 8 38, 39 
+United States v. Cortez, 449 U.S. 411 
+
+Sn. «tua cewebea ub woeewes 8, 22, 23, 36, 37 
+United States v. Embry, 546 F.2d 552 
+
+, ˙ .... ale ewig 26 
+United States v. Jackson, 741 F.2d 223 
+
+Gee. De cuseecssoeesveievééeeseoses 25 
+United States v. Lane, 909 F.2d 895 
+
+r ] . 39 
+United States v. Pope, 561 F. 2d 663 
+
+eee obne 64 0600008 4 eke eC 23, 25 
+United States v. Price, 599 F.2d 494 
+
+r ene eee 28 
+United States v. Quinn, 83 F.3d 917 
+
+Ol errs rer. 26 
+United States v. Ross, 456 U.S. 798 (1982) ....... 11 
+
+
+United States v. Sharpe, 470 U.S. 675 (1985) .. 39, 43 
+
+
+United States v. Sokolow, 490 U.S. 1 
+„„. eee 8, 22, 27 
+
+
+vii 
+United States v. Tookes, 633 F.2d 712 
+
+
+e 25 
+Vernonia School Dist. 47J v. Acton, 
+
+e 6, 13, 14, 21 
+Wilson v. Arkansas, 514 U.S. 927 (1995) ....... 5, 13 
+
+
+Wong Sun v. United States, 371 U.S. 471 
+A » nn 24, 25 
+
+
+Wyoming v. Houghton, 526 U.S. 119 
+S.Ct. 1297, 143 L.E.2d 408 (1999) ... 11, 13, 14, 21 
+
+
+Constitutional Provisions: 
+r e 1. 13— 
+JI ee ve eabta 2,13 
+Miscellaneous: 
+W.R. LaFave, Search and Seizure 
+eee ee cues 9, 32, 40 
+A.M. Burrill, Circumstantial Evidence 
+Es beh Cb eee een 15, 16, 17, 19 
+W. M. Best, Law of Evidence (5th Ed. 1870) 15 
+
+
+William Blackstone, Commentaries on the 
+Laws of England (1765-1769) ........... 17, 30 
+
+
+Funk & Wagnalls Standard Desk Dictionary 
+c . 9 
+
+
+viii 
+
+
+The American Heritage College Dictionary, 
+III 
+
+
+Websters Ninth New Collegiate Dictionary 
+PE ese eee er es ee 
+
+
+Chambers Concise Dictionary (19925ʒꝗ5ꝶœ . 
+
+
+The Oxford English Dictionary, 2d Ed. (1989) ...... 
+
+
+1 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Illinois Supreme Court, which 
+affirmed the Illinois Appellate Court’s order suppressing 
+evidence and reversed Respondent’s conviction, was 
+entered on September 24, 1998 and is reported at 183 
+III. 2d 306, 701 N.E.2d 484. 
+
+
+The opinion of the Illinois Appellate Court, First Dis- 
+trict, which suppressed the evidence and reversed Nespon- 
+dent’s conviction, was entered on March 18, 1997 and is 
+reported at 287 Ill.App.3d 367, 678 N.E.2d 65. 
+
+
+The order of the circuit court denying Respondent's 
+motion to suppress is unreported. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The order and judgment of the Illinois Supreme Court 
+was entered on September 24, 1998. No Petition for 
+Rehearing was filed. The Petition for a Writ of Certiorari 
+was submitted on December 22, 1998 and was granted by 
+this Court on May 3, 1999. 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+The Fourth Amendment to the United States Constitu- 
+tion provides that: 
+
+
+“The right of the people to be secure in their persons, 
+houses, papers, and effects, against unreasonable searches 
+and seizures, shall not be violated, and no Warrants shall 
+issue, but upon probable cause, supported by Oath or 
+affirmation, and particularly describing the place to be 
+searched, and the person or things to be seized.” 
+
+
+The Fourteenth Amendment to the United States Con- 
+stitution, in pertinent part, provides that: 
+
+
+2 
+
+
+„ No state shall make or enforce any law which shall 
+abridge the privileges or immunities of citizens of the 
+United States; nor shall any state deprive any person of 
+life, liberty, or property, without due process of law; nor 
+deny to any person within its jurisdiction the equal 
+protection of the laws.” 
+
+
+STATEMENT OF THE CASE 
+
+
+Respondent, William Wardlow, was charged with two 
+counts of Unlawful Use of Weapon by a Felon and two 
+counts of Unlawful Use of Weapon under Indictment 
+Number 95-CR-26952. (CLR. C9-C14) Respondent filed a 
+pretrial Motion to Suppress Physical Evidence and a 
+hearing was held on this motion on October 25, 1995. 
+(J.A. 2, CLR. C22) 
+
+
+The only witness called to testify at the hearing was a 
+nine-year veteran Chicago police officer, Timothy Nolan. 
+(J. A. 3, 10) Officer Nolan testified that he was a member 
+of the Chicago Police Department’s Special Operations 
+Section. (J.A. 4) On September 9, 1995, he was specifically 
+assigned to the 11th Police District. (J.A. 4) 
+
+
+Officer Nolan testified that one of the locations inside 
+the 11th District that has “high narcotics traffic” is in the 
+vicinity of 4035 West Van Buren. (J.A. 7-8) Officer Nolan 
+stated that his specific assignment on September 9, 1995 
+was to investigate narcotics sales in this area of the 11th 
+District. (J.A. 8) He also stated that, in his experience, it 
+was common to find weapons in the vicinity where nar- 
+cotics are sold. (J.A. 11) 
+
+
+Officer Nolan and seven other officers converged on this 
+area in four separate cars. (J.A. 8) As these four police 
+cars were driving east on Van Buren Street, Officer Nolan 
+and his partner, Officer Harvey, were in the last car. (J.A. 
+
+
+3 
+
+
+4, 8) He could not recall if their police car was marked or 
+unmarked. (J.A. 4) However, on that day Officer Nolan 
+was adorned in his full police uniform which included his 
+badge, name tag and a Chicago Police Department patch 
+on his arm. (J.A. 9) Officer Nolan explained that the pur- 
+pose for having four cars converge on the same location at 
+the same time is because normally there is an enormous 
+amount of people in such areas, some of whom are there 
+as customers while others serve as lookouts. (J.A. 8) 
+
+
+As the officers were cruising down Van Buren Street, 
+Officer Nolan saw Respondent standing near the front of 
+4035 West Van Buren Street. (J.A. 7) Respondent looked 
+at the officers and took off running. (J.A. 5,9) Officer 
+Nolan could see that Respondent was carrying a white 
+opaque bag under his arm as he was running. (J.A. 7,9) 
+
+
+Officer Nolan drove his police car southbound toward 
+Congress Street and observed Respondent as he was run- 
+ning down a gangway. (J.A. 6,9) As he kept driving, Of- 
+ficer Nolan then observed Respondent running through an 
+alley. (J.A. 6) Officer Nolan and his partner were even- 
+tually able to catch up to and corner Respondent in the 
+vicinity of 4036 West Congress Street because “[hlje ran 
+right towards us.” (J.A. 6,9) 
+
+
+Still dressed in uniform, with his badge, patch and 
+name tag visible, Officer Nolan exited his vehicle and 
+stopped Respondent for the purpose of conducting a field 
+interview. (J.A. 6,9,10) Without announcing his office or 
+asking Respondent any questions, Officer Nolan conducted 
+a “protective pat-down” search “for [his] own safety.” (J.A. 
+6) He did this by squeezing the outside of the white 
+opaque plastic bag that Respondent was holding under his 
+arm. (J.A. 7,10) The object that Officer Nolan felt inside 
+the bag was hard, heavy and similar in shape to a re- 
+volver. (J.A. 10) Officer Nolan then looked inside the bag 
+and found a Colt .38 caliber handgun loaded with five live 
+
+
+4 
+
+
+bullets. (J.A. 11) It was at that time that the officer 
+placed Respondent under arrest. (J.A. 7)' 
+
+
+The parties presented their arguments to the trial court 
+judge on October 26th and December 6th of 1995. (R. 
+A14-A18, B5-B12) After hearing the respective arguments, 
+the trial judge denied Respondent’s suppression motion. 
+(J.A. 14) In denying Respondent’s motion, the trial judge 
+found it common knowledge that police officers know of 
+the areas in which drugs are being sold, and do have 
+knowledge of the general areas where contraband, includ- 
+ing weapons, are being carried. (J.A. 14) The judge noted 
+that police officers have a right to drive up to these areas. 
+The judge also observed that anybody can identify a police 
+car, be it marked or unmarked. (J.A. 14) Under all of the 
+attendant circumstances, including Respondent’s aware- 
+ness of the circumstances that brought about the officers’ 
+presence in that area and his flight upon looking in their 
+direction, the trial judge concluded that the officers had a 
+right to stop and question Respondent, and in doing so, 
+they had a right to protect themselves by conducting a 
+pat-down search. (J.A. 14) Finally, the judge noted that 
+once a person flees, after having looked in the direction of 
+a police officer, “there’s reasons to think there’s a problem 
+the officers] have a right to make inquiry.” (J. A. 15) 
+
+
+Following a stipulated bench trial, Respondent was 
+found guilty of Unlawful Use of Weapon by a Felon and 
+sentenced to two years imprisonment. (R. B19, B20) 
+
+
+The transcript of Officer Nolan’s testimony does not indicate 
+the precise time of Respondent's arrest. However, Officer Nolan's 
+Arrest Report, as well as the prosecutor’s closing argument, indi- 
+cate that Respondent was arrested at 12:15 p.m. (R.B5,CLR. C4) 
+
+
+5 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In affirming the Illinois Appellate Court’s suppression 
+order, the Illinois Supreme Court held that Respondent’s 
+unprovoked flight from a clearly identifiable police officer, 
+alone or in combination with the fact that his flight oc- 
+curred in a high crime area, could never be sufficient for 
+
+
+a temporary investigatory stop. (J.A.22,25) The Illinois 
+
+
+Supreme Court required that flight, even in a high crime 
+area, be corroborated by additional facts or circumstances 
+which indicate that Respondent was involved in criminal 
+activity before a stop could be made. (J.A.27) 
+
+
+Petitioner contends that a person’s unprovoked flight at 
+the mere sight of a police officer is such innately and 
+objectively suspicious behavior that it alone justifies a 
+temporary investigative stop. Further, even if unprovoked 
+flight could never be alone sufficient justification ‘or the 
+stop, it undoubtedly would be if this flight occurred in a 
+high crime area. 
+
+
+In Terry v. Ohio, 392 U.S. 1 (1968) this Court created a 
+limited exception to the Fourth Amendment’s probable 
+cause requirement for seizures by providing law enforce- 
+ment officials with the intermediate response of briefly 
+stopping a suspicious individual to maintain the status 
+quo, while ascertaining his identity and obtaining any 
+additional information to verify or dispel their suspicions. 
+The propriety of these temporary seizures is governed by 
+the Fourth Amendment’s “reasonableness” requirement. 
+
+
+This Court has stated that in determining the propriety 
+of a seizure, the first inquiry is whether the law enforce- 
+ment official’s activity would have been regarded as a 
+lawful seizure under the common law when our founding 
+fathers framed the Fourth Amendment. Wilson v. Arkan- 
+sas, 514 U.S. 927, 931 (1995). In the present case, even 
+though the intermediate response permitted in Terry did 
+not exist at the time the Framers wrote the Fourth 
+
+
+6 
+
+
+Amendment, there can be no serious dispute that, by 
+examining certain historical writings and early opinions 
+from this Court, the inherent suspicion attached to a per- 
+son’s flight not only existed in the common law at the 
+time the Fourth Amendment was written, but could be 
+traced back to biblical times (“The wicked flee when no 
+man pursueth, but the innocent are as bold as a lion.” 
+Proverbs 28:1). Indeed, the common law would have re- 
+garded unprovoked flight as culpable conduct. Accordingly, 
+the Framers would have wholeheartedly embraced the 
+principle that a person’s unprovoked flight from the auth- 
+orities, standing alone, would have provided sufficient 
+reasonable suspicion for a temporary investigatory stop. 
+
+
+Nevertheless, where it cannot be determined if the 
+Framers would have considered flight to be alone suffi- 
+cient for a Terry stop, this Court has stated that the 
+reasonableness of the officer’s action should be determined 
+by balancing the degree to which it is needed, for the 
+advancement of legitimate governmental interests, against 
+the degree of this intrusion upon a person’s privacy. 
+Vernonia School Dist. 47J v. Acton, 515 U.S. 646, 652-653 
+(1995). As to the governmental interest, a person’s un- 
+provoked flight at the mere sight of a policeman undeni- 
+ably demonstrates and exposes that person’s conscious- 
+ness of guilt and is a sure signal that criminal activity 
+may be afoot. Accordingly, in the interest of crime detec- 
+tion and prevention, an officer should be entitled to briefly 
+stop that person and make inquiry. Further, a person’s 
+unprovoked flight can precipitate a street pursuit which 
+will place the officers, the suspect and the general public 
+at risk. Thus, such flight should be discouraged. 
+
+
+On the other hand, a Terry stop is a minimal intrusion 
+upon a suspect’s privacy interest because it typically 
+occurs in a public place as opposed to the home. Further, 
+the stop is typically brief and merely consists of the officer 
+asking questions to confirm or dispel his suspicions. Ac- 
+
+
+7 
+
+
+cordingly, on balance, the Government’s interest in fos- 
+tering good police work and facilitating the prevention 
+and detection of crime outweighs a person’s privacy in- 
+terest. 
+
+
+Finally, even if it is determined that unprovoked flight 
+can never alone justify a Terry stop, the fact that the 
+flight occurs in a high crime location provides a sufficient 
+amalgam of facts to support the temporary investigative 
+stop. This Court has long observed that location is a 
+highly relevant factor in determir’.g the propriety of a 
+seizure. This observation has been choed by several lower 
+courts as well as commentators. The term “high crime 
+area” is not arbitrary or ephemeral because it can be 
+quantitatively verified. Accordingly, when unprovoked 
+flight occurs in a location plagued by high crime, then 
+these two factors should be sufficient to justify a Terry 
+stop. 
+
+
+ARGUMENT 
+
+
+A PERSON’S UNPROVOKED FLIGHT FROM A CLEAR- 
+LY IDENTIFIABLE POLICE OFFICER, WHO IS PA- 
+TROLLING A HIGH CRIME AREA, IS SUFFICIENTLY 
+SUSPICIOUS TO JUSTIFY A TEMPORARY INVESTIGA- 
+TORY STOP PURSUANT TO TERRY v. OHIO. 
+
+
+A. 
+
+
+Respondent's Unprovoked Flight From A Clearly 
+Identifiable Police Officer Was Sufficient, Standing 
+Alone, To Warrant A Temporary Investigatory Stop 
+Under The Fourth Amendment. 
+
+
+One of the crucial questions presented to this Court is 
+whether a person’s unprovoked flight upon seeing a 
+clearly identifiable police officer, standing alone, justifies 
+an investigatory stop pursuant to Terry v. Ohio, 392 U.S. 
+1 (1968). As evidenced by Terry and other Fourth Amend- 
+ment authority, the legality of a seizure must be scruti- 
+
+
+8 
+
+
+nized from the point of view of a reasonable police officer.’ 
+Petitioner contends that, when viewed from the perspec- 
+tive of a reasonable police officer, an individual’s unpro- 
+voked flight at the sight of the police is not only unusual, 
+but innately and objectively suspicious behavior that jus- 
+tifies a temporary investigatory stop. 
+
+
+However, in order to effectively conduct an analysis that 
+stems from the point of view of a police officer, it is 
+important to attain a firm understanding of that unique 
+perspective. During a routine patrol, a uniformed police 
+officer will encounter countless citizens on a daily basis. 
+Certainly, an officer who works the day shift in an urban 
+community, like Chicago, passes by hundreds of citizens. 
+In most instances, an officer’s encounter with a citizen is 
+uneventful. A citizen’s reaction to a uniformed police offi- 
+cer typically constitutes a glance. Those citizens, who feel 
+reassured by the presence of the police in their communi- 
+ty, may even greet an officer. Others, who are distrustful, 
+may avoid eye contact or even sneer at the sight of an 
+officer. However, most citizens, regardless of their person- 
+al attitude toward the police, do not react by fleeing at the 
+mere sight of a clearly identifiable police officer. A per- 
+son’s unprovoked flight from a police officer is such an 
+extreme reaction that it unquestionably falls outside the 
+boundaries of normal human conduct. Moreover, such a 
+reaction constitutes aberrant behavior whether it takes 
+place in an urban or rural setting. Thus, from the objec- 
+tive point of view of any reasonable police officer, applying 
+a common sense conclusion about human behavior, such 
+an abnormal reaction is highly suspicious requiring an 
+investigation. 
+
+
+2 See Terry, 392 U.S. at 21-22; United States v. Cortez, 449 U.S. 
+411, 418 (1981); New Jersey v. T.L.O., 469 U.S. 325, 346 (1985); 
+United States v. Sokolow, 490 U.S. 1, 9-10 (1989). 
+
+
+The issue presented to this Court does not address an 
+attempt to simply avoid the police, but rather an individu- 
+al's decision to take flight upon the mere sight of a clearly 
+identifiable police officer. The avoidance of the police is a 
+general factual category that includes a wide spectrum of 
+conduct.’ A person who avoids eye contact with the police 
+falls at one end of the spectrum. Of course, such conduct 
+alone cannot give rise to an inherent suspicion justifying 
+a temporary investigatory stop. In the middle of the spec- 
+trum lie those instances where a person turns around or 
+walks away to avoid contact with the police. Again, such 
+acts of avoidance would certainly require support from 
+other suspicious factors in order to justify a temporary 
+investigatory stop. However, running away from a clearly 
+identifiable police officer belongs on the opposite end of 
+the spectrum and constitutes an innately suspicious re- 
+action to the presence of police.‘ 
+
+
+Indeed, flight is defined as: “the act of fleeing or escap- 
+ing from danger,” Funk & Wagnalls Standard Desk Dic- 
+tionary, 243 (1989); “the act or instance of running away; 
+an escape,” The American Heritage College Dictionary, 
+3rd Ed. 520 (1993); “an act or instance of running away,” 
+Webster's Ninth New Collegiate Dictionary, 473 (1988); 
+“to flee; to disappear quickly,” Chambers Concise Dictio- 
+nary, 395 (1992). “Flee” means “to pass away quickly and 
+suddenly; to disappear, vanish.” The Oxford English Dic- 
+tionary, 2d Ed. 1037 (1989). 
+
+
+See W.R. LaFave, Search and Seizure, Police Observations of 
+Other Suspicious Circumstances,” Sec. 9.4(f), 176-187 (West 
+1996). 
+
+
+* When a person takes flight upon the mere sight of the police, 
+it is reasonable for an officer to suspect that the fleeing person 
+may be, inter alia, (1) an escapee from jail; (2) wanted on a war- 
+rant, (3) in possession of contraband, (i.e drugs, weapons, stolen 
+goods, etc.); or (4) someone who has just committed another type 
+of crime. 
+
+
+10 
+
+
+There is no question that in the instant case Respon- 
+dent took flight upon merely seeing a fully uniformed 
+police officer. A brief summary of the facts establishes 
+that four police cars were driving behind one another in 
+the area of 4035 West Van Buren Street in Chicago. 
+(J.A.8) In the last car were two officers: Officer Timothy 
+Nolan, who was wearing his uniform and badge and 
+Officer Harvey. (J.A.4,8,9) Officer Nolan saw Respondent 
+standing in front of 4035 West Van Buren. (J.A.7) Respon- 
+dent looked in the uniformed officer’s direction and im- 
+mediately began to run away. (J.A.5,9) Officer Nolan gave 
+chase and saw Respondent run southbound through a 
+gangway, and then through an alley. (J.A.6,9) During this 
+time, Nolan saw that Respondent was holding a white 
+plastic bag under his arm. (J.A.7,9) The officers eventually 
+cornered and stopped Respondent and, upon patting down 
+the plastic bag, recovered a loaded .38 caliber handgun. 
+(J.A.9,11)° Hence, from the perspective of Officers Nolan 
+and Harvey, Respondent’s unprovoked flight at the mere 
+sight of the police did not reflect innocent conduct, but 
+constituted an inherently suspicious — ln —— 
+
+resence justifying a temporary investigatory under 
+Fourth ptm am! jurisprudence. The conduct of Officers 
+Nolan and Harvey was unquestionably reasonable. Any 
+other response, Petitioner maintains, would have con- 
+stituted a dereliction in their duties as law enforcement 
+officers. 
+
+Finally, in advocating this position, Petitioner asks this 
+Court to adopt a bright-line rule. Significantly, bright-line 
+rules are no stranger to Fourth Amendment jurispru- 
+
+
+In the instant case, the propriety of the search conducted sub- 
+sequent to the Terry stop is not an issue before this Court. 
+
+
+11 
+
+
+dence.* While some may see tension between a bright-line 
+rule when reasonable suspicion exits and this Court’s 
+
+
+reliance on the “totality of circumstances” in a given case, 
+
+
+bright-line rules are to some degree implicit in the 
+doctrine that reasonableness ultimately constitutes a legal 
+question reviewed de novo by appeliate courts. Ornelas v. 
+United States, 517 U.S. 690, 699 (1996) In fact, the de 
+novo standard of review compels an unequivocal answer 
+to the issue before this Court. The unification of prece- 
+dent, which is the primary purpose of de novo review, 
+would be severely defeated if this Court fails to answer 
+the question of whether flight upon the sight of a clearly 
+identifiable officer, as a matter of law, justifies a Terry 
+stop. In discussing the disadvantages of applying a defer- 
+ential standard of review as opposed to de novo review in 
+
+
+probable cause and reasonah' suspicion cases, this Court 
+stated: 
+
+
+See e.g. United States v. Ross, 456 U.S. 798 (1982) (Given prob- 
+
+cause, every part and contents of a vehicle can be searched 
+that are capable of the object of that search.); Wyo- 
+
+v. Houghton, 526 U.S. 119 S.Ct. 1297, 143 L.Ed.2d 408 
+(1999) (Given probable cause to seize and search driver and his 
+4 ———— en. 
+searched as long as said property is capable of concealing the 
+object of that search.), California v. Hodari D, 499 U.S. 621 
+(1991) (Show of authority can never amount to a seizure where 
+the subject does not yield.); Pennsylvania v. Mimms, 434 U.S. 106 
+
+
+F 
+5 
+: 
+: 
+f 
+: 
+
+
+vehicle to exit as a matter of course.); Maryland v. Wilson, 519 
+
+
+12 
+
+
+a defined “set of rules which, in most instances, 
+makes it possible to reach a correct determination 
+beforehand as to whether an invasion of privacy is 
+justified in the interest of law enforcement.” Ornelas, 
+
+
+517 U.S. at 697. 
+
+
+Most law enforcement officers, at one point or another, 
+encounter an individual who flees at the sight of the 
+police. Officers should know beforehand whether such an 
+abnormal reaction to their presence justifies a temporary 
+stop. Moreover, due to its uncomplicated nature, the issue 
+should not be subjected to varied results. The failure to 
+answer the question, as a matter of law, only encourages 
+ad hoc rulings in similar factual scenarios. Thus, in order 
+to attain uniformity, the lower courts also need to know 
+whether an individual’s unprovoked flight from a clearly 
+identifiable police officer, in and of itself, justifies a tem- 
+porary investigatory stop under Terry. A Fourth Amend- 
+ment analysis of the issue demonstrates that a person's 
+flight from authorities is so innately suspicious that it has 
+been historically viewed as proof of guilt giving rise to 
+dire legal consequences under the early common law. In 
+fact, the bright-line rule advocated by Petitioner would 
+have been wholeheartedly accepted by the Framers of our 
+Constitution. Furthermore, assuming, arguendo, an in- 
+quiry into the common law fails to establish the propriety 
+of the seizure at hand, the Government's interest in fos- 
+tering good police work and facilitating the detection and 
+prevention of crime overwhelmingly outweighs the limited 
+intrusion of a temporary investigatory stop. 
+
+
+13 
+
+
+(1). 
+
+
+A Bright-Line Rule Permitting Police Officers To 
+Conduct A Temporary Investigatory Stop Of A Person 
+Who Flees At The Mere Sight Of The Police Would 
+Have Been Regarded As A Lawful Seizure Under The 
+— Law When The Fourth Amendment Was 
+
+ram * 
+
+
+The Illinois Supreme Court erroneously held that Re- 
+spondent's unprovoked flight upon seeing the police can 
+never alone justify a temporary investigatory stop. The 
+decision of the Illinois Supreme Court is contrary to the 
+common law upon which this Court’s Fourth Amendment 
+jurisprudence is based. A proper analysis of the issue 
+establishes that Fourth Amendment jurisprudence un- 
+equivocally supports the bright-line rule that a person's 
+unprovoked flight at the mere sight of a clearly identifi- 
+ble police officer constitutes such a rare and unnatural 
+,eaction to the presence of the police that it, standing 
+alone, justifies a temporary investigatory stop. 
+
+
+The propriety of any seizure or search rests on the 
+fundamental principle of “reasonableness.” The Fourth 
+Amendment to the United States Constitution, as it ap- 
+plies to the states through the Fourteenth Amendment, 
+protects “[t)he right of the people to be secure in their 
+persons, houses, papers and effects, against unreasonable 
+searches and seizures.” U.S. Const., amend. IV; U.S. 
+Const., amend XIV. In deciding whether a particular 
+governmental action complies with the Fourth Amend- 
+ment, this Court first inquires whether the action was 
+regarded as a lawful search or seizure under the common 
+law when the Amendment was framed. Vernonia School 
+Dist. 47J v. Acton, 515 U.S. 646, 652-653 (1995); Wilson 
+v. Arkansas, 514 U.S. 927, 931 (1995); Wyoming v. 
+Houghton, 526 U.S. __, __, 119 S.Ct. 1297, 1300, 143 
+L.Ed.2d 408, 414 (1999); Florida v. White. U.S. 
+119 S.Ct. 1555, 1558, 143 L.Ed.2d 748, (1999). Where 
+that inquiry yields no answer, this Court then turns, in 
+
+
+14 
+
+
+the alternative, to a balancing test where it evaluates the 
+search or seizure under traditional standards of reason- 
+ableness by assessing, on the one hand, the degree to 
+which it intrudes upon an individual’s privacy and, on the 
+other, the degree to which it is needed to advance legiti- 
+mate governmental interests. Acton, 515 U.S. at 652-653; 
+Houghton, 119 S.Ct. at 1300; 143 L.Ed.2d at 414. Peti- 
+tioner maintains that the issue of whether a person’s un- 
+provoked flight from a clearly identifiable police officer 
+constitutes reasonable suspicion justifying a temporary in- 
+vestigative stop is decisively answered by the first inquiry. 
+
+
+Obviously, the temporary investigatory stop authorized 
+by this Court in Terry did not exist at the time the 
+Framers adopted the Fourth Amendment. In Terry, this 
+Court carved out a limited exception to the Fourth 
+Amendment probable cause requirement for seizures. 392 
+U.S. at 30. In doing so, this Court determined that, in 
+order to foster good police work and facilitate crime pre- 
+vention, it was necessary to provide law enforcement with 
+an intermediate response. As this Court has stated: 
+
+
+“The Fourth Amendment does not require a policeman 
+who lacks the precise level of information necessary 
+for probable cause to arrest to simply shrug his 
+shoulders and allow crime to occur or a criminal! to 
+escape. On the contrary, Terry recognized that it may 
+be the essence of good police work to adopt an inter- 
+mediate response.” Adams v. Williams, 407 U.S. 143, 
+145 (1972). 
+
+
+Thus, pursuant to Terry, a police officer can briefly stop 
+a suspicious individual in order to ascertain his identity 
+or to maintain the status quo while obtaining additional 
+information. 392 U.S. at 22. 
+
+
+The fact that there was no Terry doctrine at the time 
+the Fourth Amendment was drafted in no way deters the 
+resolution of the instant issue under the first inquiry. An 
+examination of certain historical writings and early opin- 
+
+
+15 
+
+
+ions of this Court proves that, under the common law, it 
+would have been lawful to seize a person who takes flight 
+to escape detection by the Government. In fact, under the 
+common law, those who fled faced remarkably severe legal 
+consequences for such behavior. 
+
+
+Contemporaneous with the adoption of the Fourth 
+Amendment, a person's flight was considered inherently 
+suspicious behavior constituting conclusive proof of guilt. 
+As pointed out in California v. Hodari D., 499 U.S. 621, 
+624 nl (1991), the inherent suspicion attached to a 
+person's flight dates back to biblical times: “The wicked 
+flee where no man pursueth, but the innocent are as bold 
+as a lion.” Proverbs 28:1. Significantly, this common sense 
+appraisal of human conduct developed into a legal pre- 
+sumption of guilt that was firmly embedded in the com- 
+mon law at the time the Framers adopted the Fourth 
+Amendment. An 1868 historical writing reveals that the 
+early common law adopted the maxim that “flight from 
+justice was equivalent to confession of guilt: Fatetur 
+facinus qui judicium furit.” A.M. Burrill, Circumstantial 
+Evidence, Ch. 1, Part II. Section XXII, 472 (1868); see also 
+W.M. Best, Law of Evidence, 5th Ed. 582 (1870) (“Our 
+ancestors, observing that guilty persons commonly fled 
+justice, adopted the hasty conclusion that it was only the 
+guilty who did so.). 
+
+
+Additionally, the following comments found in Burrill’s 
+Circumstantial Evidence illustrate that, despite its ex- 
+treme and inflexible character, the conclusive effect at- 
+tached to flight rests on a common sense evaluation of 
+human nature: 
+
+
+“Perhaps no proposition is more easily deducible from 
+the constitution of human nature and the structure of 
+the human mind, or more constantly confirmed by 
+observation of criminal conduct, and even of culpable 
+conduct in daily life, than this,—that delinquency and 
+
+
+16 
+
+
+guilt naturally shun investigation and seek conceal- 
+ment. The most instinctive impulse which leads the 
+perpetrator of a crime to destroy or otherwise get rid 
+of evidence which would convict him of its commis- 
+sion, has already been alluded to. Where it becomes 
+impossible to conceal a crime by expedients of this 
+description, the criminal consults his safety by con- 
+cealing himself and where no facilities for such con- 
+cealment are found, resorts to actual flight. 
+
+
+Concealment and flight, as observation constantly 
+shows, are, in themselves, closely connected circum- 
+stances; the one aiding the other, and serving as a 
+means of rendering it more effectual, in attaining the 
+common end of both. The criminal flies from the scene 
+of the crime, to reach a place of concealment, even if 
+near at hand; and he often conceals himself tempo- 
+rarily, and sometimes, in one hiding-place after anoth- 
+er, with view to further or final and effectual flight, 
+beyond the reach of justice and the danger of pursuit.” 
+A.M. Burrill, Circumstantial Evidence, Ch. 1, Part II, 
+Section XXII; 469 (1868) (emphasis in original) 
+
+
+In pointing out that there are situations where criminals 
+have refused to flee, Burrill further noted: 
+
+
+“But cases like these are manifest exceptions to what 
+may be called the general rule, course or habit of 
+criminal conduct. If it be true that some criminals do 
+not conceal themselves or fly, it is equally true that 
+the vast majority do. It is sufficient to refer to daily 
+observation and the police reports in the daily prints, 
+for confirmation of this familiar fact. 
+
+
+In minor crimes, variation from this general rule or 
+habit of criminal conduct is of still more rare occur- 
+rence. The incendiary, the burglar, robber and thief, 
+uniformly fly, or at least attempt to fly from the scene 
+of the crime to places of concealment. So natural is 
+this course, and so constantly is it looked for and 
+counted on, that any possible exception to it would 
+
+
+17 
+
+
+undoubtedly be set down as evi im- 
+dea ily dence of mental im 
+Concealment and flight may, in short, be considered 
+as parts of that grand policy of secrecy which has 
+already been described as the natural characteristic of 
+all criminal action, from its earliest stages to its latest 
+consummations.” A.M. Burrill, Circumstantial Evi- 
+dence, Ch. 1, Part II, Section XXII, 471-472 (1868) 
+(emphasis in original) 
+William Blackstone’s Commentaries on the Laws of 
+England further supports the determination that in the 
+1700's, the common law attached a strong presumption of 
+guilt to an individual's flight. In his Commentaries, Black- 
+stone specifically noted: 
+
+
+“For flight also, on an accusation of treason, felony, or 
+even petit larciny, whether the party be found guilty 
+or acquitted, if the jury finds the flight, the party 
+shall forfeit his goods or chattels: for the very flight 
+is an offence, carrying with it a strong presump- 
+tion of guilt, and is at least an endeavour to 
+elude and stifle the course of justice prescribed 
+by law.” William Blackstone, 4 Commentaries on the 
+Laws of England, 380 (1765-1769) (emphasis added). 
+
+
+The fact that a person, whether found guilty or acquitted 
+of the underlying criminal offense, lost his goods or 
+chattel proves that, at the time the Framers adopted the 
+Fourth Amendment, the common law endeavored to attach 
+very severe legal consequences to a person’s flight. In fact, 
+this per se forfeiture rule demonstrates that the common 
+law from its earliest inception sought to discourage a 
+— flight from authorities by adopting a bright-line 
+rule. 
+
+
+In light of the common law tradition to consider flight 
+to be conclusive proof of guilt, as well as the common 
+law’s per se forfeiture rule aimed at discouraging flight 
+from authorities, it is evident that at the time the Fourth 
+Amendment was framed, a repugnance to flight was so 
+
+
+18 
+
+
+deeply embedded in the common law that those who fled 
+faced harsh and sweeping legal consequences. In compar- 
+ison, Petitioner’s position appears mild but, nonetheless, 
+in harmony with the early common law. If a person’s 
+flight constituted conclusive proof of guilt—that being 
+proof beyond a reasonable doubt—it almost certainly 
+would have met the lower standard of probable cause 
+justifying a full blown arrest under the common law. 
+Needless to say, there can be no question that, under the 
+common law, flight from the police would unquestionably 
+have given rise to the even lower standard of reasonable 
+suspicion, justifying the less intrusive seizure of a tempo- 
+rary investigative stop. As a result, such a seizure would 
+have been considered lawful action under the common law 
+and readily accepted by the Framers of our Constitution. 
+
+
+However, as Burrill also discusses, as the common law 
+evolved, the conclusive effect that was attached to flight 
+was abandoned. In its place, the common law adopted a 
+less severe position by providing that a person’s flight 
+established only a factual presumption of guilt. In discuss- 
+ing this evolution, Burrill stated: 
+
+
+“So impressed was the old common law with consider- 
+ations of this kind, that it laid down the rule, which 
+passed into a maxim,—that flight from justice was 
+equivalent to confession of guilt: Fatetur facinus qui 
+judicium furit. But this maxim, (like some others,) 
+was undoubtedly expressed in too general and sweep- 
+ing terms. It was defective in not taking notice of, and 
+proving for certain important exceptions, having as 
+clear a ground of truth as the maxim itself. For, as we 
+have seen that guilty persons do not, in all cases, 
+conceal themselves or fly so it is equally true that 
+persons sometimes do betake themselves to these ex- 
+pedients, who are not, in fact, guilty persons; or, in 
+other words, that all who hide themselves or fly are 
+not necessarily and invariably guilty. 
+
+
+19 
+
+
+In the modern law of evidence, due attention has 
+been given to these considerations and the exceptions 
+established by them; and rare as they may in fact be, 
+such prominence and weight are allowed to them, as 
+to take from the circumstance of flight, in particular, 
+the conclusive effect formerly attached to it, and to 
+leave it merely its natural presumptive character, as 
+an evidence of criminal agency.” A.M. Burrill, Circum- 
+stantial Evidence, Ch. 1, Part II, Section XXII, 469- 
+473 (1868) (emphasis in original) 
+
+
+Importantly, a quartet of cases decided by this Court, 
+within a 12-month period, reveal that the strong and 
+inflexible legal presumption attached to flight by English 
+common law was firmly interwoven into the fabric of 
+American law. See Hickory v. United States, 160 U.S. 408, 
+422 (1896); (reversing a murder conviction because the 
+instructions given to the jury concerning flight were “tan- 
+tamount to saying to the jury that flight created a legal 
+presumption of guilt, so strong and so conclusive, that it 
+was the duty of the jury to act on it as an axiomatic 
+truth”); Alberty v. United States, 162 U.S. 499, 510 (1896) 
+(again faced with jury instructions that affixed a conclu- 
+sive presumption of guilt to flight, this Court stated: “we 
+think it was especially misleading of the court to charge 
+the jury that, from the fact of absconding, they might 
+infer the fact of guilt, and that flight, ‘is silent admission 
+by defendant that he is unwilling or unable to face the 
+case against him’”.); Starr v. United States, 164 U.S. 627, 
+63 1-632 (1897) (reversing a murder conviction because the 
+instructions given to the jury were identical to those given 
+in Hickory and Alberty) and Allen v. United States, 164 
+U.S. 492, 499 (1896) (re-affirming Hickory and Alberty but 
+clarifying that in neither case “was it intimated that flight 
+of the accused was not a circumstance proper to be laid 
+before the jury. . . Indeed, the law is entirely well settled 
+that flight of the accused is competent evidence against 
+him as having the tendency to prove guilt.”) Accordingly, 
+this Court did not renounce the conclusive effect attached 
+
+
+20 
+
+
+to flight until almost thirty years after Burrill’s critical 
+writings and only to the extent that flight alone could not 
+conclusively establish guilt beyond a reasonable doubt.’ 
+
+
+Additionally, in Hickory, this Court, citing to the follow- 
+ing historical textbooks, explicitly recognized that the con- 
+clusive presumption of guilt attached to flight in American 
+criminal law dates back to English common law: Best, 
+Presumption, 323; Burrill, Circumstantial Evidence, 473; 
+and Wills, Circumstantial Evidence, 70. This Court spe- 
+cifically noted that under the common law: 
+
+
+flight was considered so strong a presumption of 
+guilt, that in cases of treason and felony it carried a 
+forfeiture of the party’s goods, whether he was found 
+guilty or acquitted; and the officer always, until the 
+abolition of the practice of the statute, called upon the 
+jury, after the verdict of acquittal, to state whether 
+the party had fled on account of the charge.’” Hickory, 
+160 U.S. at 418, citing Wills, Circumstantial Evidence, 
+70, quoting Baron Gourney, Regina v. Belany. 
+
+
+Opponents of the bright-line rule, advocated by Petition- 
+er, nay be able to point to the hasty and inflexible nature 
+of the conclusive presumption of guilt historically attached 
+to flight; however, they cannot escape the one and only 
+relevant conclusion to the present analysis: when the 
+Fourth Amendment was framed, the common law viewed 
+flight as conclusive proof oi guilt and boldly adopted a per 
+se forfeiture law in order to deter flight from authorities. 
+Although the legal significance that the common law 
+affixed to flight was harsh and has since been abandoned, 
+the above-mentioned historical writings and opinions of 
+
+
+The abandonment of the common law tradition is probably due 
+to the fact that an irrefutable presumption is at odds with the 
+constitutional mandate that the Government bears the burden of 
+establishing guilt beyond a reasonable doubt, based on evidence 
+that proves every essential element of the offense charged. See 
+County Court v. Allen, 442 U.S. 140 (1979). 
+
+
+21 
+
+
+this Court unmistakably show that, when the Fourth 
+Amendment was framed, the common law would have 
+regarded a person’s unprovoked flight from the police as 
+highly suspicious behavior evjncing conclusive proof of 
+guilt, or at the very least, strong presumptive proof of 
+guilt that would have constituted probable cause justify- 
+ing a full blown arrest. Also, in light of the per se forfei- 
+ture rule, the common law places no barriers to the 
+adoption of a bright-line rule that is aimed at discourag- 
+ing flight from the police. Hence, it takes no great leap in 
+logic or reliance on speculation to conclude that the 
+Framers would have accepted the notion that such an 
+unprovoked flight from authorities meets the lower stan- 
+dard of reasonable suspicion permitting the less intrusive 
+seizure of a temporary investigatory stop. 
+
+
+(2). 
+
+
+A Bright-Line Rule Permitting Police Officers To 
+Conduct A Terry Stop Of A Person Who, Without 
+Provocation, Flees At The Mere Sight Of The Police 
+Strikes A Proper Balance Between A Citizen’s Privacy 
+Interests And The Government’s Interest In Fostering 
+Good Police Work And Facilitating Crime Prevention 
+And Detection. 
+
+
+If an examination of the common law at the time the 
+Fourth Amendment was framed fails to establish that a 
+seizure was lawful, this Court turns, in the alternative, to 
+a balancing test to evaluate the search or seizure under 
+traditional standards of reasonableness by assessing, on 
+the one hand, the degree to which it is needed for the 
+advancement of legitimate governmental interests and, on 
+the other, the degree to which it intrudes upon an individ- 
+ual’s privacy. Vernonia School Dist. 47J v. Acton, 515 U.S. 
+646, 652-653 (1995); Wyoming v. Houghton, 526 U.S. 
+— 119 S.Ct. 1297, 1300, 143 L.E.2d 408, 414 (1999). 
+Assuming, arguendo, an inquiry into the common law fails 
+
+
+22 
+
+
+to establish the propriety of the seizure at hand, the tra- 
+ditional standards of reasonableness unquestionably sup- 
+port this Court’s adoption of the bright-line rule advocated 
+by Petitioner In fact, the Government's interest in fos- 
+tering good police work and facilitating the prevention 
+and detection of crime overwhelmingly outweighs the lim- 
+ited intrusion of a temporary investigatory stop. 
+
+
+In evaluating the reasonableness of any seizure or 
+search, it is important to recognize that the “reasonable- 
+ness” of a particular intrusion must be judged by an 
+objective standard, namely, whether the facts available to 
+the police officer at the moment of the search or seizure 
+warrant a person of reasonable caution to believe that the 
+action taken was appropriate. Terry, 392 U.S. at 21-22. 
+Hence, the officer’s conduct must be reasonable under the 
+circumstances known to the officer at the time he initiated 
+the stop. Jd. at 22. Reasonable suspicion may emerge from 
+seemingly innocent, noncriminal conduct. Sokolow, 490 
+U.S. at 9-10. The question for a court to answer is the 
+degree of suspicion which attaches to the circumstances 
+surrounding a defendant’s action. Id. at 10. As a result, 
+“the requirement of reasonable suspicion is not a require- 
+ment of absolute certainty: ‘sufficient probability, not cer- 
+tainty, is the touchstone of reasonableness under the 
+Fourth Amendment’. . .” New Jersey v. T.L.O., 469 U.S. 
+325, 346 (1985). Reasonable suspicion encompasses a “sort 
+
+
+* Petitioner recognizes that this Court has traditionally favored 
+
+a totality-of-the-facts analysis in determining the of rea- 
+
+sonable suspicion. United States v. Cortez, 449 U.S. 411, 417 
+
+(1981); United States v. Sokolow, 490 U.S. 1, 8 (1989) (The va- 
+
+lidity of step lo evaluated under “the tetellty of the creme 
+
+stances—the whole pi .”). However, this 
+
+ruled out the ty that one circumstance —— — —— 
+overri significance that it could alone provide 
+
+— —— stop. or said otherwise, that one 
+
+piece of the puzzle can give away the whole picture. 
+
+
+23 
+
+
+of ‘common sense conclusioln] about human behavior’ 
+upon which ‘practical people—including government offi- 
+cials—are entitled to rely,’” rather than “an ‘inchoate and 
+unparticularized suspicion or hunch’ .. .” T.L.O., 469 U.S. 
+at 346, quoting United States v. Cortez, 449 U.S. at 418 
+and Terry v. Ohio, 392 U.S. at 27. 
+
+
+In the instant case, the Illinois Supreme Court explicitly 
+rejected the bright-line rule that permits a police officer 
+to condnect a Terry stop of an individual who flees, without 
+provocation, at the mere sight of a clearly identifiable 
+police officer. People v. Wardlow, (J.A. 27). However, the 
+Illinois Supreme Court’s decision, with all due respect, 
+lacks insight into human behavior and unduly curtails the 
+function of the intermediate response that this Court 
+embraced in Terry by ignoring the limited nature and 
+scope of a temporary investigatory stop. 
+
+
+Although the Illinois Supreme Court acknowledged that 
+Respondent’s flight from a clearly identifiable officer gives 
+rise to an “inference of guilt,” the court also held that 
+such flight does not constitute reasonable suspicion for a 
+temporary investigatory stop. (J.A. 27) Petitioner main- 
+tains that such reasoning is illogical. It is inexplicable 
+how a person’s flight could be considered proof of guilt in 
+one instance, but deemed incapable of providing an officer 
+with a “reasonable suspicion” that criminal activity may 
+be afoot in another instance. Indeed, the court totally 
+disregarded the legal significance that has been historical- 
+ly attached to flight. (See Petitioner’s Arg. A.(1)) Unpro- 
+voked flight at the sight of the police is not only unusual, 
+but innately suspicious behavior. In fact, it has been said 
+that “(flight invites pursuit and colors conduct which 
+hitherto has appeared innocent.” United States v. Pope, 
+561 F.2d 663 (6th Cir. 1977). This statement is based both 
+on common sense and a keen understanding of human 
+behavior. Unlike any other noncriminal human reaction, 
+an individual's flight from an officer provides a strong 
+
+
+f 
+
+
+24 
+
+
+indication that criminal activity may be afoot.’ From the 
+perspective of a trained police officer, applying a common 
+sense conclusion about human behavior, an innocent 
+person would certainly not flee at the mere sight of the 
+police. Therefore, it is no surprise that, in the companion 
+case to Terry, this Court also recognized that “deliberately 
+furtive actions and flight at the approach of strangers or 
+law officers are strong indicia of mens rea and coupled 
+with specific knowledge on the part of the officer relating 
+the suspect to the evidence of crime, they are proper 
+factors to be considered in the decision to make an 
+arrest.” Sibron b. New York, 392 U.S. 40, 66-67 (1968). 
+
+
+* Notably, in denying defendant’s motion to arrest and 
+suppress evidence, the trial court found that once a person flees 
+after having looked at the direction of a officer, “there is 
+reason to think there's a problem, [and have a right to 
+make inquiry.” (J.A. 15) 
+10 : . . — . 
+Significantly, the Sibron opinion clarifies any confusion that 
+may have been created by — — v. United States, 371 U.S. 
+471 (1963), with respect to this 
+flight is evidence of a guilty state of mind. In Wong Sun, the peti- 
+tioner, James Wah Toy, argued that his flight when the officers 
+
+
+identify himself as a law enforcement officer, Toy slammed the 
+door and fied down the hallway through the laundry into his 
+apartment where his wife and child were sleeping in the bedroom. 
+Id. at 474. 
+
+Since the agent affirmatively misrepresented his mission and 
+“never adequately dispelled the misimpression engendered by his 
+own ruse,” this Court viewed Toy’s flight as ambiguous conduct 
+that “signified a guilty knowledge no more clearly than it did a 
+
+(continued...) 
+
+
+Here, the officer did not rely on Respondent’s unprovoked 
+flight to make a full blown arrest, but simply to conduct 
+a temporary investigatory stop in order to determine the 
+cause of the suspicious flight. 
+
+Additionally, many federal and state courts have held 
+that a person’s unprovoked flight at the mere sight of the 
+police is sufficient to justify a temporary investigatory 
+stop. See United States v. Jackson, 741 F. 2d 223, 224 (8th 
+Cir. 1984) (flight alone is sufficient for a Terry stop); 
+United States v. Tookes, 633 F.2d 712, 716 (5th Cir. 1980) 
+(defendant’s flight justified the officers’ decision to chase 
+him and ask further questions); United States v. Pope, 
+561 F.2d 663, 668-669 (6th Cir. 1977) (flight from a 
+clearly identifiable police officer sufficient for a Terry 
+stop); Au Yi Lau v. United States Immigration and 
+Naturalization Service, 445 F.2d 217, 233 n.10 (D.C. Cir. 
+1971) (suggesting that flight has the capacity to provide 
+
+
+1% (continued) 
+
+
+natural desire to repel an apparently unauthorized intrusion.” Id 
+at 482-483. Under these circumstances, this Court found that 
+Toy’s flight did not establish probable cause to arrest. 
+
+
+The fact that Toys flight did not rise to the level of probable 
+— Xx — 1 —1— Gas © umes 
+
+
+ö agent 
+
+failed to adequately dispel any misimpression. Second, the stop 
+of Toy took place in his living quarters where his wife and daugh- 
+ter slept. Thus, the seizure in Wong Sun was far more intrusive 
+than the Terry stop of Respondent which took place on a public 
+Se SS Ss Se See Caen Sanna, Say Sees 
+officials have greater latitude in exercising their duties in public 
+places. Florida v. White, __ U.S. __, 119 S.Ct. 1555, 1559 
+(1999). Hence, the Wong Sun opinion does not thwart the bright- 
+line rule advocated by Petitioner because it has no bearing on the 
+issue at hand. 
+
+
+26 
+
+
+reasonable suspicion for a temporary investigatory stop); 
+Platt v. State, 589 N.E.2d 222 (Ind. 1992) (hasty flight 
+sufficient for a Terry stop); Harris v. State, 423 S.E.2d 
+723 (Ga. 1992) (flight from police sufficient reason to 
+conduct a Terry stop); State v. Anderson, 454 N.W.2d 763 
+(Wis. 1990) (flight alone is sufficient to warrant a tempo- 
+rary investigative stop); State v. Stinnett, 760 P.2d 124 
+(Nev. 1988) (suggesting that unprovoked flight would 
+justify an investigative stop); City of St. Paul v. Vaughn, 
+237 N.W.2d 365 (Minn. 1975) (recognizing that flight from 
+the police will serve to furnish the basis for an investiga- 
+tive stop). But see United States v. Quinn, 83 F.3d 917, 
+921-922 (7th Cir. 1996) (recognizing that while flight is 
+not necessarily enough standing alone for a Terry stop, it 
+is a relevant and probative factor in establishing reason- 
+able suspicion); United States v. Bennett, 514 A.2d 414, 
+416-417 (D.C. Court of Appeals, 1986) (although flight 
+alone is insufficient, it may be considered among other 
+factors in order to justify a Terry stop); United States v. 
+Embry, 546 F.2d 552, 555-556 (3rd Cir. 1976) (flight one 
+factor to consider in determining reasonable suspicion); 
+Britt v. State, 673 So. 2d 934 (Fla. 1996) (noting that 
+flight from the police is not alone enough to support a 
+Terry stop); People v. Holmes, 619 N.E.2d 396 (N.Y. 1993) 
+(flight not alone sufficient to justify police pursuit); State 
+v. Hicks, 488 N.W.2d 359 (Neb. 1992) (flight not sufficient 
+standing alone to justify a Terry stop); People v. Shabaz, 
+378 N.W.2d 451 (Mich. 1985), cert. granted, 475 U.S. 
+1094, cert. vacated, 478 U.S. 1017 (flight alone not suffi- 
+cient for a Terry stop). 
+
+
+In refusing to recognize the innately suspicious nature 
+of a person’s flight, some courts have unsoundly reasoned 
+that flight is an ambiguous act and, therefore, is insuf- 
+ficient to justify an investigatory stop. See People v. 
+Shabaz, 378 N.W.2d 451 (Mich. 1985). However, such 
+reasoning lacks common sense and an understanding of 
+
+
+27 
+
+
+police work. “{S)uspicious conduct by its very nature is 
+ambiguous, and the principle function of the investigative 
+stop is to quickly resolve that ambiguity.” State v. Ander- 
+son, 454 N.W.2d at 766. In addressing this very issue in 
+Anderson, the Supreme Court of Wisconsin also stated: 
+
+
+Flight at the sight of police is undeniably suspicious 
+behavior. Although many explanations could be hy- 
+pothesized as the reason for the flight, a reasonable 
+officer who is charged with enforcing the law as well 
+as maintaining peace and order cannot ignore the 
+inference that criminal activity may well be afoot. 
+Although it does not rise to a level o probable cause, 
+flight at the sight of a police officer certainly gives 
+rise to a reasonable suspicion that all is not well. 
+Under these circumstances, “[{i}t would be poor police 
+work indeed for an officer . to have failed to investi- 
+71 1 — 454 N. W. ad at 766, citing Terry, 392 
+
+S. at 23. 
+
+
+The Supreme Court of Wisconsin, therefore, held that 
+sudden flight at the sight of the police officer, as a matter 
+of law, justifies a temporary investigatory stop under the 
+Terry doctrine. 
+
+
+Furthermore, as made evident by the factual scenario in 
+Terry, the determination that a person’s unprovoked flight 
+from the police is ambiguous and susceptible to innocent 
+interpretation does not defeat the position that such 
+unusual conduct establishes reasonable suspicion, because 
+reasonable suspicion may emerge from seemingly inno- 
+cent, noncriminal conduct. Sokolow, 490 U.S. 17-18. In 
+Terry, the factors that justified the defendant’s limited 
+
+
+_ seizure were that the defendant walked down the street, 
+
+
+looked inside a store window several times and spoke to 
+another person on the corner. Terry’s conduct was suscep- 
+tible to innocent explanations. Defendant Terry could have 
+been an indecisive shopper, or a disgruntled customer 
+looking for the person who sold him defective goods. He 
+could have been a snoopy competitor sizing up his compe- 
+
+
+28 
+
+
+tition. He could have been a prospective buyer of the 
+business and curious about its present success or failure. 
+He could have been the store’s lessor checking on the 
+lessee. He could have been waiting to meet a friend after 
+work. He could have been a jealous boyfriend or husband 
+checking upon his girlfriend or wife. In fact, there are a 
+myriad of innocent explanations for Terry’s conduct. 
+However, the focus in the Court’s analysis was not to 
+determine whether Terry had innocent intentions, but 
+rather to assess the reasonableness of the officer’s suspi- 
+cions. As one court astutely noted, lilt must be rare 
+indeed that an officer observes behavior consistent only 
+with guilt and incapable of innocent interpretation.” 
+United States v. Price, 599 F.2d 494, 502 (2nd Cir. 1979) 
+(emphasis in original). Moreover, this Court in Terry 
+recognized the fact that the officer was a trained profes- 
+sional with a unique perspective and determined that it 
+would have been “poor police work” if the officer had not 
+conducted an investigation. 392 U.S. at 23. 
+
+
+Moreover, due to the limited scope of a Terry stop, the 
+Government’s interests in fostering good police work and 
+facilitating the prevention and detection of crime over- 
+whelmingly outweigh an individual’s privacy interests. A 
+temporary investigatory stop is based on the determina- 
+tion that “(t]he Fourth Amendment does not require a 
+policeman who lacks the precise level of information 
+necessary for probable cause to arrest to simply shrug his 
+shoulders and allow crime to occur or a criminal to 
+escape.” Adams v. Williams, 407 U.S. 143, 145 (1972). 
+This Court, therefore, recognized that may be “the 
+essence of good police work to adopt al. intermediate 
+response.” Id. As c result, a police officer can briefly stop 
+a suspicious individual in order to ascertain his identity 
+or to maintain the status quo while obtaining additional 
+information. Id. at 146. Therefore, police officers are en- 
+titled to conduct Terry stops “where a police officer ob- 
+
+
+serves unusual conduct which leads him reasonably to 
+conclude in light of his experience that criminal activity 
+may be afoot.” 392 U.S. at 30 (emphasis added). Respon- 
+dent’s unprovoked flight at the mere sight of the police 
+constitutes such unusual conduct. 
+
+
+Certainly, the authority to conduct a temporary investi- 
+gatory stop, after an unprovoked flight, does not give 
+police officers “carte blanche to make arbitrary or capri- 
+cious stops,” nor does it alter what constitutes probable 
+cause. Platt, 589 N.E.2d at 226. As pointed out by the 
+Indiana Supreme Court, the temporary stop authorized by 
+Terry is just that: temporary. It is not, without more, an 
+arrest. The stop authorizes only a limited intrusion for the 
+purpose of conducting an investigation of the individual’s 
+suspicious conduct. In other words, “(i]t is the right to 
+temporarily freeze the situation in order to make investi- 
+gative inquiry.” Anderson, 454 N.W.2d at 768. 
+
+
+In holding to the contrary, the Illinois Supreme Court 
+determined that: 
+
+
+Lalllowing flight alone to justify an investigative sto 
+would it the very values Terry sought to — 
+guard. Terry is based in part upon the proposition 
+that the right to freedom from arbitrary governmental 
+intrusion is as valuable on the street as it is in the 
+home. Thus, while the police officer does not violate 
+the Fourth Amendment by ap hing an individual 
+in a public place and asking if the person will answer 
+questions, neither is the person under any obligation 
+to answer.” Wardlow, J.A. 21, quoting, State v. Hicks, 
+488 N.W.2d 359, 364 (Neb. 1992). 
+
+
+However, this reasoning disregards the fact that 
+Fourth Amendment jurisprudence has consistently ac- 
+corded law enforcement officials greater latitude in ex- 
+ercising their duties in public places.” Florida v. White, 
+— U.S. 119 S.Ct. at 1559. This Court has drawn a 
+definite “distinction between warrantless seizure in an 
+
+
+30 
+
+
+open area and such seizure on private premises.” Id. 
+Under the Illinois Supreme Court’s rationale, which fails 
+to make this distinction, any warrantless seizure or 
+search conducted on the street, absent exigent circum- 
+stances, would be unconstitutional. However, law enforce- 
+ment officers are indeed given greater latitude in exercis- 
+ing their duties in public streets because a search or 
+seizure on the street is less intrusive than one conducted 
+in a private residence. Simply put, a person has greater 
+privacy interests in his own home than on a public 
+street." 
+
+
+Moreover, the bright-line rule advocated by Petitioner 
+does not alter the limited nature of a Terry stop. In 
+Berkemer v. McCarthy, 468 U.S. 420 (1984), this Court 
+discussed the narrow scope of a Terry stop, and stated 
+that: 
+
+
+“T]he stop and inquiry must be ‘reasonably related 
+in scope to the justification for their initiation.’” (cita- 
+tions omitted) Typically, this means that the officer 
+may ask the detainee a moderate number of questions 
+to determine his identity and to try to obtain informa- 
+tion confirming or dispelling the officer’s suspicions. 
+But the detainee is not obligated to respond. And, 
+unless the detainee’s answers provide the officer with 
+probable cause to arrest him, he must then be re- 
+leased.” 468 U.S. at 439-440. 
+
+
+In fact, in the instant case, had the officers not found a 
+weapon during the Terry patdown, Respondent would 
+have been free to decide not to answer questions and to go 
+on his way. Petitioner’s bright-line rule speaks to the 
+factors that trigger a Terry stop, not to the limited nature 
+of the stop itself. 
+
+
+* Even English common law recognized that in criminal 
+causes, the public safety supersedes the private.“ Blackstone, 4 
+Commentaries on the Laws of England at 223. 
+
+
+31 
+
+
+Additionally, Petitioner's position comports with the re- 
+quirement that an officer's “reasonable suspicion” be 
+founded on a particularized and objective basis that 
+criminal activity may be afoot. This Court has instructed 
+that “reasonable suspicion” is a commonsense, nontech- 
+nical concept that deals with “the factual and practical 
+considerations of everyday life in which reasonable and 
+prudent men, not legal technicians act.” Ornelas v. United 
+States, 517 U.S. 690, 695 (1996). This Court has described 
+the standard as “a particularized and objective basis” for 
+suspecting that criminal activity may be afoot. 517 U.S. at 
+695. As pointed out by the Supreme Court of Wisconsin, 
+a police officer’s stop of an individual, who suddenly, and 
+without provocation, flees at the mere sight of the police, 
+does not represent an “inchoate and unparticularized 
+hunch” condemned by the Terry Court: 
+
+
+“Rather, it furnishes an affirmative answer to the 
+question in Terry: whether a reasonably prudent 
+person in the circumstances of the officer would be 
+warranted in the belief that the action taken was 
+appropriate. 
+
+
+Accordingly, we hold that behavior which evinces in 
+the mind of a reasonable officer an intent to flee from 
+police is sufficiently suspicious in and of itself to 
+justify a temporary investigative stop by the police. 
+Such t, although not illegal, gives rise to a 
+reasonable suspicion that some sort of wrongful 
+activity is afoot.” Anderson, 454 N.W.2d at 768. 
+
+
+Thus, when an officer can point to objective evidence that 
+an individual has taken flight in direct response to the 
+known presence of the police, a temporary investigatory 
+stop complies with the strictures found in Terry.” 
+
+
+' Notably, criminal law scholar Wayne R. LaFave opines that a 
+person’s flight from the police is sufficient, standing alone, to 
+(continued...) 
+
+
+32 
+
+
+Significantly, Justices of this Court have recognized not 
+only the innately suspicious nature of flight at the sight 
+of the police, but also the right of a police officer to 
+conduct a temporary investigatory stop under such cir- 
+cumstances. Although not asked to address the instant 
+issue in California v. Hodari D., 499 U.S. 621 (1991), this 
+Court was faced with a remarkably similar factual 
+scenario. In that case, Hodari and a group of other youths 
+fled at the approach of an unmarked police car, occupied 
+by two police officers. Hodari D., 499 U.S. at 622-623. The 
+officers were suspicious and gave chase. At the time, the 
+officers were wearing jackets with “Police” embossed on 
+their front. One of the officers left the car. Id. He did not 
+follow Hodari directly but took a circuitous route that 
+brought the two face to face on a parallel street. Hodari, 
+however, was looking behind him as he ran and did not 
+
+
+2 (continued) 
+
+
+justify a temporary investigatory stop. In that regard, LaFave 
+
+states: 
+“It has been held that ‘behavior which evinces in the mind of 
+a reasonable police officer an intent to flee is sufficiently 
+suspicious in and of itself to justify a temporary investigative 
+stop by the police.’ This is a correct conclusion if read liter- 
+ally, but should not be construed to cover instances in which 
+the suspect, at best, merely manifested a desire ‘to avoid 
+contact with the police.’ The Rule is not objectionable on the 
+ground that the flight may not suggest a particular variety 
+of criminal conduct, for ‘nothing in the fourth amendment 
+* * * requires that a police officer s suspicions relate to a par- 
+ticular criminal activity. W. R. LaFave, Search and Seizure, 
+Sec. 9.4(f), 181-182 (West 1996) (citation omitted) 
+
+
+As pointed out earlier, the bright-line rule, advocated by Peti- 
+— does not encompass conduet aimed at merely avoiding the 
+police, but rather, a person’s unprovoked flight at the mere sight 
+of a clearly identifiable police officer. Such conduct certainly is a 
+form of concealment and manifests a clear intent to avoid law 
+enforcement detection. As a result, Petitioner's position is not 
+objectionable in LaFave’s opinion. See, Petitioner's Argument I. 
+A. (1). 
+
+
+33 
+
+
+turn to see the officer until the officer was almost upon 
+him. Jd. At that point, Hodari tossed away a small rock. 
+The officer tackled him, and the police recovered the rock, 
+which proved to be crack cocaine. Id. 
+
+
+In reviewing the legality of Hodari’s seizure, this Court 
+considered only the issue of whether Hodari, at the time 
+he dropped the drugs, had been “seized” within the 
+meaning of the Fourth Amendment. This Court deter- 
+mined that the chase did not constitute a seizure for 
+Fourth Amendment purposes. Jd. at 626. While not ad- 
+dressing the present issue, the majority of this Court, 
+aptly noted: 
+
+
+“That it would be unreasonable to stop, for brief 
+inquiry, young men who scatter in panic upon the 
+mere sighting of the police is not self-evident, and 
+arguably contradicts common sense. See Proverbs 28:1 
+(“The wicked flee when no man pursueth”).” 499 U.S. 
+at 623-624 n.1. 
+
+
+In Michigan v. Chesternut, 486 U.S. 567 (1991), this 
+Court also dealt with the issue of whether an officer’s 
+pursuit of an individual constituted a “seizure” implicating 
+the Fourth Amendment protections. In that case, four 
+officers riding in a marked police car were engaged in 
+routine patrol duties. Jd. at 569. As their squad car came 
+to an intersection, one of the officers saw a car pull over 
+to the curb. A man got out of the car and approached 
+Chesternut, who was standing alone on the corner. When 
+Chesternut saw the patrol car nearing the corner where 
+he stood, he turned around and began to run. The patrol 
+car followed Chesternut, quickly caught up with him and 
+drove alongside him for a short distance. Jd. As the squad 
+car drove beside him, the officers saw Chesternut discard 
+a number of packets he pulled from his right-hand pocket. 
+One of the officers got out of the car and examined the 
+packets and discovered they contained pills, which he be- 
+lieved contained codeine. Jd. Meanwhile, Chesternut ran 
+a few paces further, stopped, and was placed under arrest. 
+
+
+34 
+
+
+This Court determined that Chesternut was not unlaw- 
+fully seized during the initial pursuit for Fourth Amend- 
+ment purposes. Significantly, in a concurring opinion, 
+joined by Justice Scalia, Justice Kennedy stated: 
+
+
+“It is no bold step to conclude, as the Court does, 
+that the evidence should have been admitted, for 
+[Chesternut's] unprovoked flight gave the police 
+ample cause to stop him.” 486 U.S. at 576. (empha- 
+sis added) 
+
+
+Both Hodari D. and Chesternut also reflect the balance 
+that this Court has struck between the opposing interests 
+of an individual’s right to avoid contact with the police 
+and the Government’s interest in the prevention and 
+detection of crime. Of course, in deciding that pursuit of 
+a fleeing individual was not a “seizure” for Fourth Amend- 
+ment purposes, this Court had to balance these competing 
+interests. Significantly, this Court ruled in a manner to 
+restrict the definition of “seizure” under the Fourth 
+An: endment. In determining that the officers’ pursuit of 
+a fleeing youth was not a seizure, this Court in Hodari D. 
+stated that “[s]treet pursuits always place the public at 
+some risk, and compliance with police orders to stop 
+should therefore be encouraged.” Hodari D., 499 U.S. at 
+627. Thus, with respect to the issue at bar, giving police 
+officers the right to conduct an investigatory stop in the 
+instant scenario comports with the balance struck in 
+Hodari D. and Chesternut. 
+
+
+In ad dition to placing the public and potential suspects at risk, 
+the fai! ure to encourage comp liance with police orders places 
+police officers in danger. The 1998 Unified ane Report, sub- 
+mitted by the Federal Bureau of Investigation, disclosed that in 
+1997, 65 officers were killed in the line of duty. Significantly, 9 
+were slain while investigating suspicious persons or circum- 
+stances. Uniformed Crime Report, 2 I. Law Enforcement Offi- 
+cers Killed,“ p. 3. 
+
+
+35 
+
+
+As evidenced by the preceding discussion, both an in- 
+quiry into the common law at the time the Fourth Amend- 
+ment was framed, as well as the traditional standards of 
+reasonableness, support the bright-line rule advocated by 
+Petitioner. Hence, Fourth Amendment jurisprudence fully 
+supports the determination that a persons’s unprovoked 
+flight at the mere sight of a clearly identifiable police 
+officer is sufficient, in and of itself, to justify a temporary 
+investigatory stop under Terry. Under such an investiga- 
+tory stop, an officer is given the opportunity to conduct a 
+brief inquiry aimed at confirming or dispelling his sus- 
+picion. Notably, in such an inquiry an officer could gain 
+further information that may raise his suspicion to the 
+level of probable cause. However, it is equally true that 
+the officer may learn that his suspicion was incorrect or 
+even that the person who fled was in need of police 
+assistance. Terry did not discourage street encounters 
+between the police and citizens, but set forth certain 
+boundaries to the intermediate response of a temporary 
+investigatory stop. In the context of flight, such an 
+intermediate response is a necessary law enforcement tool 
+in community policing. 
+
+
+Turning to the facts of this case, Officer Nolan’s testi- 
+mony unquestionably proves that Respondent, without 
+provocation, took flight in direct response to the presence 
+of Chicago police officers. Officer Nolan testified that on 
+September 9, 1995, around 12:00 in the afternoon, he and 
+his partner were in a police car. Although the officer could 
+not recall whether the car was a marked or unmarked 
+police car, he was travelling in a caravan of four police 
+cars. Even if all the cars were unmarked, they were still 
+clearly identifiable.'* Officer Nolan was in full uniform 
+
+
+In denying Respondent’s motion to suppress, the trial court 
+
+
+specifically noted that Jallmost anybody can identify a police 
+car({,] marked or obviously unmarked just as obviously.” (R. B13). 
+
+
+36 
+
+
+and was wearing his badge as the caravan of police cars 
+drove near the area of 4035 West Van Buren. Officer 
+Nolan stated that as his police car drove past that area, 
+Respondent looked in the uniformed officer’s direction and 
+immediately ran away. Officer Nolan turned his police car 
+southbound to follow Respondent. He saw Respondent run 
+southbound through a gangway, and then through an 
+alley. (R. A6) 
+
+
+Under these circumstances, it was reasonable for Officer 
+Nolan to conclude, when he saw Respondent immediately 
+run away at the mere sight of the police, that criminal 
+activity may be afoot. Pursuant to Terry, Officer Nolan 
+was entitled to stop Respondent and conduct a field 
+interview. Said otherwise, police officers would be left no 
+other alternative but to shrug their shoulders and stand 
+by helplessly while crime occurs and a potential criminal 
+escapes. Petitioner, therefore, respectfully asks this Hon- 
+orable Court to reverse the decision of the Illinois Su- 
+preme Court. 
+
+
+If A Person’s Flight Alone Is Insufficient To Justify 
+A Terry Stop, Then Flight In A High Crime Area 
+Provides The Particularized Grounds Necessary To 
+Support A Reasonable Suspicion That Criminal 
+Activity May Be Afoot. 
+
+
+If this Court declines to embrace the bright-line rule 
+advocated by Petitioner, the fact that Respondent's un- 
+provoked flight from the police took place in a location 
+where there was a high incidence of narcotics trafficking 
+provides the particularized grounds necessary to support 
+a reasonable suspicion. This Court has indicated that the 
+assessment of the totality of circumstances or the “whole 
+picture” contains two elements, each of which must be 
+present before a stop is permissible. United States v. 
+
+
+37 
+
+
+Cortez, 449 U.S. 411, 418 (1981). First, the assessment 
+must be based upon all the circumstances and second, the 
+assessment of the totality of the circumstances “must 
+raise a suspicion that the particular individual being 
+stopped is engaged in wrongdoing.” Jd. at 418. In other 
+words, Jan investigatory stop must be justified by some 
+objective manifestation that the person stopped is or is 
+about to be engaged in criminal activity.” Jd. at 417. In 
+this regard, a trained police officer is given great latitude 
+in assessing the “whole picture,” including the consider- 
+ation of “various objective observations, information from 
+police reports, if such are available, and consideration of 
+the modes or patterns of operation of certain kind of 
+lawbreakers.” Jd. at 418. This Court noted that “{fjrom 
+these data, a trained officer draws inferences and makes 
+deductions—inferences and deductions that might elude 
+an untrained person.” Id. 
+
+
+It is no secret that drug traffickers and other criminal 
+agents (i.e. prostitution, illegal gambling rings, etc.) en- 
+gage in a pattern of operation that often includes concen- 
+trating their illegal activities in certain designated areas. 
+The identification of such areas is a critical tool in the 
+execution of law enforcement duties. The lack of such 
+intelligence not only cripples the fight against crime, but 
+also places law enforcement officers in danger. Therefore, 
+under Fourth Amendment jurisprudence, a geographic 
+area’s reputation for criminal activity is a highly relevant 
+factor in determining the propriety of a seizure or search. 
+As early as 1824, in assessing the existence of probable 
+cause to seize a vessel, this Court noted that: 
+
+
+“It has been very justly observed at the bar, that the 
+Court is bound to take notice of public facts and geo- 
+graphical positions; and that this remote part of the 
+country has been infested, at different periods, by 
+smugglers, is matter of general notoriety, and may be 
+
+
+38 
+
+
+gathered from the public documents.” In re Apollon, 
+22 U.S. 362, 374 (1824). 
+
+
+Significantly, in Carroll v. United States, 267 U.S. 132 
+(1925), this Court relied on the above-quoted language 
+found in Apollon to take judicial notice that: 
+
+
+Grand Rapids is about 152 miles from Detroit 
+and that Detroit and its neighborhood along the 
+Detroit River, which is the International Boundary, is 
+one of the most active centers for introducing illegally 
+into this country spirituous liquors for distribution 
+into the interior.” 267 U.S. at 160. 
+Hence, this Court relied on the reputation of a geographic 
+area, in addition to other factors, to find that there was 
+probable cause to stop a driver, known to be a “bootlegger” 
+and search the car which was found to illegally contain 68 
+bottles of liquor. Also see Brinegar v. United States, 338 
+U.S. 160, 167-170 (1949) (fact that the area was known to 
+be one of the worst active centers for bootleggers was 
+relevant to the probable cause determination). 
+
+
+Therefore, it is no surprise that upon the development 
+of the law respecting Terry stops, this Court explicitly 
+identified the characteristics of a geographic area as a 
+relevant factor in determining the existence of reasonable 
+suspicion. In United States v. Brignoni-Ponce, 422 U.S. 
+873 (1975), this Court was faced with the propriety of a 
+
+
+Although this Court recognized that a area's 
+reputation for criminal activity is an appropriate to con- 
+sider in determining probable cause, this Court in Apollon found 
+that the question of whether the vessel intended to engage in 
+unlawful traffic “must be decided by the evidence in this record, 
+
+
+Border Patrol’s Terry stop of a car near the Mexican 
+border. In that case, this Court explained: 
+
+
+“Any number of factors may be taken into account in 
+deciding whether there is reasonable suspicion to stop 
+a car in the border area. Officers may consider the 
+characteristics of the area in which they encounter a 
+vehicle. Its proximity to the border, the usual patterns 
+of traffic on the particular road, and previous experi- 
+ence with alien traffic are all relevant. They may also 
+consider information about recent illegal border cross- 
+ings in the area. The driver's behavior may be rele- 
+vant, as erratic driving or obvious attempts to evade 
+officers can support reasonable suspicion.” 422 U.S. at 
+885 (citations omitted). 
+See also United States v. Sharpe, 470 U.S. 675, 682-683 
+(1985) (Court noting that defendants’ flight and evasive 
+actions coupled with the fact that their cars were travel- 
+ling in an area near the coast known to be frequented by 
+drug traffickers were relevant in establishing reasonable 
+suspicion); United States v. Lane, 909 F.2d 895 (6th Cir. 
+1990) (reasonable suspicion existed where officers, pursu- 
+ant to an unverified tip, entered a building known to be 
+a location for drug trafficking and saw four men, who 
+stood inside a building, run at the sight of the officers); 
+State v. Wade, 390 So.2d 1309 (La. 1980) (defendant’s 
+evasive conduct and flight at the mere sight of the police 
+in a high crime area provided the reasonable suspicion to 
+justify a Terry stop). But see State v. Hewston, No. 59095. 
+1990 Ohio App. LEXIS 3192 (Ohio App. August 2, 1990) 
+(per curiam) (fact that defendant, who was standing with 
+two men on a street corner of a high drug area, fled at the 
+sight of approaching officers did not constitute reasonable 
+suspicion); Smith v. United States, 558 A:2d 312 (D.C. 
+App. 1987) (defendant’s attempt to leave hurriedly when 
+officers suddenly appeared in an area that was plagued 
+with high narcotics trafficking did not provide reasonable 
+suspicion). 
+
+
+40 
+
+
+Notably, Professor Wayne R. LaFave recognizes that 
+“the area in which the suspect is found is itself a highly 
+relevant consideration.” W.R. LaFave, Search and Seizure, 
+“Police Observations of Other Suspicious Circumstances,” 
+Sec. 9.4(f), 189 (West 1996). LaFave explains that the 
+character of the area may cast a different light upon 
+certain conduct. Jd. at 189. However, LaFave cautions 
+that “[u)nspecific assertions that there is a crime problem 
+in a particular area should be given little weight, at least 
+compared to more particular indications that a certain 
+type of criminal conduct of the kind specified is prevalent 
+in that area.” Jd. at 189-190. 
+
+
+Significantly, LaFave’s concerns about vague assertions 
+of a high crime area are unfounded in the instant case 
+because Officer Timothy Nolan’s testimony provides over- 
+whelming evidence that Respondent was encountered in 
+an area that is afflicted with a high incidence of drug 
+trafficking. In fact, Officer Nolan’s testimony concerning 
+the reputation of the geographic area, where Respondent 
+stood just p v to taking flight, is uncontradicted and 
+undisputed. chus provides the objective manifestation 
+that Respona..it fled from the police because he was 
+engaged, or was about to engage, in criminal activity. 
+
+
+In denying t's motion to quash arrest and 
+evidence, the trial court stated that “(ijt is common know 
+— 1 —— 2 
+have knowledge where contraband, including weapons, are being 
+carried.” (J.A. 14) Notably, the Illinois Appellate Court erroneous- 
+Sr 
+
+
+occurred in a high- crime area.” (J. A. 20) See Ornelas v. United 
+States, 517 U.S. at 699 (noting that in reviewing determinations 
+of reasonable suspicion and probable cause, reviewing courts 
+
+(continued...) 
+
+
+41 
+
+
+On September 9, 1995, Officer Nolan and seven other 
+police officers were assigned to the Special Operations 
+Section of the Chicago Police Department to investigate 
+narcotics sales in the 11th District. (J.A. 4,7-8) With that 
+specific purpose in mind, four police cars, containing eight 
+officers, converged on the general vicinity of 4035 West 
+Van Buren Street. (J.A. 8) Officer Nolan knew that this 
+particular area of his police district was plagued with a 
+high incidence of narcotics trafficking. In fact, the officers 
+travelled together in a caravan of four police cars because 
+they expected to confront a large number of people, 
+including customers and lookouts. (J.A. 8) Officer Nolan, 
+who was in full uniform, with his badge, patch and name 
+tag visible, observed Respondent standing near the front 
+of 4035 West Van Buren Street. (J.A. 4,7,9) Respondent 
+then looked in the officers’ direction, at which time he 
+began to run away. (J.A. 5,9) Officer Nolan turned his 
+car southbound and saw Respondent run through a gang- 
+way, and then through an alley. (J.A. 6) At this point, 
+Officer Nolan noticed that Respondent was holding a 
+white, plastic bag under his arm. (J.A. 9) Officer Nolan 
+eventually cornered Respondent on the street in the 
+vicinity of 4036 West Congress. (J. A. 9) Thus, looking at 
+the totality of the circumstances or the “whole picture,” 
+the fact that Respondent fled at the mere sight of the 
+police, in an area that was plagued with a high incidence 
+of drug trafficking, established the necessary particular- 
+ized suspicion to justify a temporary investigatory stop. 
+
+In determining that no reasonable suspicion existed, the 
+Illinois Supreme Court noted that “the officers were not 
+responding to any call or report of suspicious activity in 
+the area.” (J.A. 24) This assessment totally disregards the 
+
+
+* (..continued) 
+should take care to give due weight to inferences drawn from 
+those facts by judges and local law enforcement officers). 
+
+
+42 
+
+
+fact that the officers were assigned to a special operation 
+aimed at investigating narcotics sales in the area where 
+they encountered Respondent. In light of the fact that 
+Officer Nolan and seven other officers of the Special 
+Operations Section were specifically assigned to investi- 
+gate the narcotics sales in the vicinity of 4035 West Van 
+Buren, it is obvious that Officer Nolan’s characterization 
+of that area is based both on his personal experience and 
+departmental intelligence. 
+
+
+Additionally, the Illinois Supreme Court erroneously 
+stated that Respondent “gave no outward indication of 
+involvement in illicit activity.” (J.A. 25) However, this 
+assessment totally disregards the fact that Respondent, 
+without provocation, fled at the mere sight of a clearly 
+identifiable police officer. Respondent's unprovoked flight 
+at the mere sight of the police is certainly an objective 
+manifestation that he was involved in criminal activity. 
+Hence, applying a common sense understanding about 
+human behavior, it was reasonable for Officer Nolan and 
+his partner to conclude, based on their experience and 
+knowledge of the area in question and Respondent's 
+aberrant reaction to the presence of the police, that 
+Respondent sought to escape law enforcement detection 
+because he was engaged, or was about to engage, in 
+criminal activity. 
+
+
+'’ Significantly, “‘high crime areas’ are absolutely not determined 
+in an arbitrary and capricious manner, but are so defined based 
+on verifiable quantitative and qualitative factors, as well as 
+strong anecdotal evidence.” See Amicus Curiae Brief of the Na- 
+tional Association of Police Organizations, Police Benevolent and 
+Protective Association of Illinois and Illinois Police Association, 
+Argument II. B. 19-26. Indeed, law enforcement agencies’ iden- 
+tification of crime areas is based on verifiable and objective 
+criteria, incl statistical data and sophisticated mapping 
+techniques. 
+
+
+43 
+
+
+Furthermore, the fact that Respondent was holding a 
+bag under his arm provides further objective manifesta- 
+tion that he was engaged or was about to engage in illegal 
+activity. The bag could have contained either narcotics or 
+a weapon. Officer Nolan testified that, based on his ex- 
+perience in the investigation of drug trafficking areas, “it 
+is common for there to be weapons in the vicinity.” (J.A. 
+11) Importantly, the factual scenario in United States v. 
+Sharpe, 470 U.S. at 682-683, provides a strong indication 
+that this factor further supports the existence of rea- 
+sonable suspicion in the instant case. In that case, Drug 
+Enforcement Agents observed two vehicles traveling in 
+tandem for twenty miles in an area near the coast known 
+to be frequented by drug trafficking. 470 U.S. at 682-683. 
+A DEA agent testified that pick-up trucks with camper 
+shells were frequently used to transport large quantities 
+of marijuana. One of the vehicles was a pick-up truck that 
+appeared to be heavily loaded, and the windows of the 
+truck were covered with bedsheets instead of curtains. 
+Although the existence of reasonable suspicion was not an 
+issue in Sharpe, this Court stated that these factors es- 
+tablished a reasonable suspicion justifying a temporary 
+investigatory stop. Jd. The bag under Respondent’s arm, 
+like the heavy loaded truck in Sharpe, in conjunction with 
+Respondent’s unprovoked flight in a drug trafficking area, 
+unquestionably establishes reasonable suspicion. 
+
+
+As the preceding discussion demonstrates, under Fourth 
+Amendment jurisprudence, the inherently suspicious na- 
+ture of a person’s flight at the mere sight of the police, in 
+conjunction with the person’s presence in a high crime 
+area, gives rise to reasonable suspicion justifying the lim- 
+ited intrusion of a temporary investigatory stop. There- 
+fore, the Petitioner respectfully requests that this Honor- 
+able Court reverse the Illinois Supreme Court’s decision. 
+
+
+44 
+
+
+CONCLUSION 
+
+
+The judgment of the Illinois Supreme Court should be 
+reversed. 
+
+
+Respectfully submitted, 
+
+
+JAMES E. RYAN 
+
+Attorney General 
+
+State of Illinois 
+
+JOEL D. BERTOCCHI 
+Solicitor General 
+
+100 West Randolph Street 
+12th Floor 
+
+Chicago, Illinois 60601 
+
+
+Counsel for Petitioner 
+
+
+RICHARD A. DEVINE* 
+
+Cook County State’s Attorney 
+
+309 Richard J. Daley Center 
+
+Chicago, Illinois 60602 
+
+(312) 603-5496 
+
+RENEE G. GOLDFARB 
+
+THEODORE FOTIOS BURTZOS 
+
+VERONICA XIMENA CALDERON 
+
+Assistant State’s Attorneys 
+
+Of Counsel *Counsel of Record 
+
+
+June 1999 
+
+

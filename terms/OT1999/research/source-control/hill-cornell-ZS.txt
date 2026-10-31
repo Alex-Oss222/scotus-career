@@ -1,0 +1,40 @@
+
+
+NEW YORK V. HILL
+
+LII
+
+Supreme Court
+
+NEW YORK V. HILL (98-1299) 
+92 N. Y. 2d 406, 704 N. E. 2d 542, reversed.
+Syllabus
+ Opinion
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+NEW YORK v. HILL
+
+CERTIORARI TO THE COURT OF APPEALS OF NEW YORK
+
+No. 98—1299. Argued November 2, 1999–Decided January 11, 2000
+
+New York lodged a detainer against respondent, an Ohio prisoner, under the Interstate Agreement on Detainers (IAD). Respondent signed a request for disposition of the detainer pursuant to IAD Article III and was returned to New York to face murder and robbery charges. Article III(a) provides, inter alia, that, upon such a request, the prisoner must be brought to trial within 180 days, “provided that for good cause shown … , the prisoner or his counsel being present, the court … may grant any necessary or reasonable continuance.” Although respondent’s counsel initially agreed to a trial date set beyond the 180-day period, respondent subsequently moved to dismiss the indictment, arguing that the IAD’s time limit had expired. In denying the motion, the trial court concluded that defense counsel’s explicit agreement to the trial date constituted a waiver or abandonment of respondent’s IAD rights. After respondent was convicted of both charges, the New York Supreme Court, Appellate Division, affirmed the trial court’s refusal to dismiss for lack of a timely trial. The State Court of Appeals, however, reversed and ordered that the indictment be dismissed; counsel’s agreement to a later trial date, it held, did not waive respondent’s IAD speedy trial rights.
+
+Held: Defense counsel’s agreement to a trial date outside the IAD period bars the defendant from seeking dismissal on the ground that trial did not occur within that period. This Court has articulated a general rule that presumes the availability of waiver, United States v. Mezzanatto, 513 U.S. 196, 200—201, and has recognized that the most basic rights of criminal defendants are subject to waiver, Peretz v. United States, 501 U.S. 923, 936. For certain fundamental rights, the defendant must personally make an informed waiver, but scheduling matters are plainly among those for which agreement by counsel generally controls. Requiring the defendant’s express assent for routine and often repetitive scheduling determinations would consume time to no apparent purpose. The text of the IAD, by allowing the court to grant “good-cause continuances” when either “prisoner or his counsel” is present, contemplates that scheduling questions may be left to counsel. Art. III(a) (emphasis added). The Court rejects respondent’s arguments for affirmance: (1) that the IAD’s provision for “good-cause continuances” is the sole means for extending the time period; (2) that the defendant should not be allowed to waive the time limits given that they benefit not only the defendant but society generally; and (3) that waiver of the IAD’s time limits can be effected only by an affirmative request for treatment contrary to, or inconsistent with, those limits. Pp. 3—8.
+
+92 N. Y. 2d 406, 704 N. E. 2d 542, reversed.
+
+ Scalia, J., delivered the opinion for a unanimous Court.
+

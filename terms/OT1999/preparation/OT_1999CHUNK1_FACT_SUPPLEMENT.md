@@ -1,0 +1,39 @@
+# Bounded factual supplement: Wardlow and Laidlaw
+
+Control extracted these objective record recitations from saved published sources and checked the named source anchors programmatically. These paraphrases add no Supreme Court result, rationale, coalition, or proposed judicial choice. A fresh neutral context must validate them before modeling. No original affidavit, transcript, or pleading is represented as independently recovered here.
+
+## Illinois v. Wardlow
+
+- On September 9, 1995, uniformed Chicago officers Nolan and Harvey were in the last vehicle of a four-car caravan investigating narcotics transactions in an area described as known for heavy narcotics trafficking. The officers expected people including customers and lookouts.
+- At 4035 West Van Buren, Nolan saw Wardlow standing beside a building carrying an opaque bag. Wardlow looked toward the officers and ran. Nolan and Harvey drove south, watched him run through a gangway and alley, and caught up with him on a street. Nolan left the car and stopped him.
+- Nolan immediately performed a pat-down. His reported explanation was his experience that weapons were commonly near narcotics transactions. He squeezed the bag, felt a heavy, hard object shaped like a gun, opened the bag, and found a .38-caliber handgun with five live rounds. The officers then arrested Wardlow.
+- The trial court denied suppression. Following a stipulated bench trial, Wardlow was convicted of unlawful use of a weapon by a felon. The Illinois Appellate Court reversed because it found no adequate reasonable suspicion for the initial stop, 287 Ill. App. 3d 367, 678 N.E.2d 65 (1997). The Illinois Supreme Court affirmed that appellate result, 183 Ill. 2d 306, 701 N.E.2d 484 (1998), although it rejected the intermediate court's conclusion that this was not a high-crime area. That court treated flight as potentially an exercise of the right to decline a police encounter and found no other independently suspicious circumstances.
+- Keep the initial stop, the bag frisk, and the subsequent arrest distinct. The granted question is the initial stop's reasonable-suspicion basis. The recitation supplies no observed narcotics sale by Wardlow or observed contraband before the stop. This limitation is about the reported evidence, not an assumption that undisclosed evidence exists.
+
+Source: [published record recitation](https://www.law.cornell.edu/supct/html/98-1036.ZO.html); [official U.S. Reports, 528 U.S. 119, pp. 121–123](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-119.pdf). Event cutoff January 12, 2000.
+
+## Friends of the Earth v. Laidlaw
+
+The following are affidavit/deposition assertions as reported in the published record, not independent findings of pollution-caused environmental harm:
+
+| Member | Reported use or loss |
+|---|---|
+| Kenneth Lee Curtis (FOE) | Lived half a mile from the facility; said the river looked and smelled polluted; formerly used it as a teenager; wished to fish, camp, swim, and picnic at identified downstream places, including a particular childhood fishing spot, but refrained because of concern about Laidlaw's discharges. |
+| Angela Patterson (CLEAN) | Lived two miles away; formerly picnicked, walked, watched birds, and waded near the river; stopped because of concern about discharged pollutants; also refrained, with her husband, from a proposed home purchase near the river partly for that reason. |
+| Judy Pruitt (CLEAN) | Lived a quarter mile away and said she refrained from desired fishing, hiking, and picnicking along the river because of the discharges. |
+| Linda Moore (FOE) | Lived 20 miles from Roebuck; described desired hiking, picnicking, camping, swimming, boating, and driving near or in the river south of Roebuck, curtailed because of concerns about harmful pollutants. |
+| Gail Lee (CLEAN) | Said her nearby home was worth less than comparable homes farther from the facility and attributed part of the difference to the discharges. This was her asserted belief, not a separate judicial valuation finding. |
+| Norman Sharp (Sierra Club) | Had canoed about 40 miles downstream and wished to canoe closer to the discharge point but refrained because of concern about harmful pollutants. |
+
+- Laidlaw's permit became effective January 1, 1987. The District Court later found 489 mercury-limit violations between 1987 and 1995. FOE gave notice April 10, 1992 and filed this citizen suit June 12, 1992. Violations were occurring when filed. The reported postfiling record included 13 mercury-limit violations, 13 monitoring violations, and 10 reporting violations before the January 22, 1997 judgment.
+- DHEC and Laidlaw settled the State's separate proceeding on June 9, 1992 for $100,000 and an undertaking to try to comply. The District Court found that the state action was not diligently prosecuted. It found that Laidlaw prompted that action, drafted its complaint and settlement, paid the filing fee, and that DHEC did not calculate or recover the economic benefit of noncompliance. These are the District Court's findings, not inferred litigant misconduct beyond them.
+- The District Court's January 22, 1997 judgment found economic benefit of $1,092,581 and assessed a $405,800 civil penalty. It denied injunctive relief based on substantial compliance since at least August 1992 and referred to deterrence, litigation expense, and expected fee reimbursement when fixing the penalty.
+- In setting the penalty, the District Court found no demonstrated environmental harm or health risk from the violations. The member-use assertions above and this no-demonstrated-harm finding are distinct parts of the record and must both remain visible.
+- FOE appealed the amount of the penalty but did not appeal denial of declaratory or injunctive relief. Laidlaw cross-appealed, including its objections to Article III standing and the treatment of DHEC's prior proceeding. The Fourth Circuit's July 16, 1998 judgment assumed initial standing without deciding it, then treated the case as moot because only Treasury-paid penalties remained; it vacated and directed dismissal, 149 F.3d 303.
+- Laidlaw later asserted in its suggestion of mootness that, after the July 16, 1998 appellate judgment but before certiorari was granted, the incinerator facility had permanently closed, been dismantled, and been offered for sale, and all discharges had permanently ceased. The source gives this relative sequence, not an exact closure day. These are Laidlaw's assertions, not lower-court findings that permanent cessation had been proved.
+- FOE disputed the effect of compliance and closure on recurrence and pointed out that Laidlaw retained its NPDES permit; the reported source says Laidlaw did not appear to contest permit retention. Neither the effect of substantial compliance nor the later closure on possible recurrence had been resolved below on a developed record.
+- The District Court stayed the time for a fee petition pending expiration or resolution of appeals. No district-court fee award or denial was before the Fourth Circuit when it discussed fees. Keep the fees issue and its timing distinct from the existing civil-penalty judgment.
+
+Source: [published record recitations, Parts I.B and II.A–C](https://www.law.cornell.edu/supct/html/98-822.ZO.html); [official U.S. Reports, 528 U.S. 167, especially pp. 175–183, 193–195](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-167.pdf). Event cutoff January 12, 2000. The reported evidence identifies Record documents 21 and 71 and Fourth Circuit Appendix pages 207–208; original attachments have not been separately recovered in this control task.
+
+Retrieval date: October 31, 2026. Saved text SHA-256 values: Wardlow `513324530f10acd9be4461f916f4483fbe4711b3f81f14edfa907563454d88d7`; Laidlaw `87df50aa985e49aceddd8e1ef0c47c14f010753eff59ca72684a3e2a260c057c`.
