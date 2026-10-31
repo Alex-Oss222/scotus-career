@@ -52,12 +52,12 @@
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_A_BASE_VOLUMES.md",
-      "bytes": 3751983,
+      "bytes": 3759357,
       "sha256": "f05a5399349f8ca718711c8bddf40f8df6b5fcb8aa2d4a3f5880162d0320a0d6"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_A_CURRENT_LAW.md",
-      "bytes": 108791,
+      "bytes": 108842,
       "sha256": "ac410b24bf336374f6f3976abf383e57b8f6f957d0e963b1c1c63387b512ee32"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_A_NASA_CURRENT.md",
-      "bytes": 35644,
+      "bytes": 35695,
       "sha256": "871dc6706038d46ab42fb8233d88817b3d6093e4d73869a81d207656b2391f1e"
     },
     {
@@ -107,32 +107,32 @@
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_B_AUTHORIZED_VOLUMES.md",
-      "bytes": 3310826,
+      "bytes": 3318071,
       "sha256": "a3a768b91170dde94cfe57814f3b05753dc9d1aebb8c7725003f47c16d6f3718"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_B_CURRENT.md",
-      "bytes": 63913,
+      "bytes": 63964,
       "sha256": "09c290b7b0d69af840b6ee71e596d36b4ff07c9606465d00e3cdeaf850547be5"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_B_PUBLISHED_POSITIONS.md",
-      "bytes": 87563,
+      "bytes": 88520,
       "sha256": "9b43ddf0dd1ca56d9a4eb824f0d4ca12f90fcc4ba79b2ab9ce8d00866707a265"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md",
-      "bytes": 90924,
+      "bytes": 92155,
       "sha256": "1f554f65a42e8063a12e4f9e79c1f310c8428c399c225345a166e2983433ccc9"
     },
     {
       "path": "terms/OT1998/entering-law/OT_1998CHUNK10_B_STANDARDS.md",
-      "bytes": 32583,
+      "bytes": 32596,
       "sha256": "2e32005759f5e4c56b2dd503c69297ff65ea752b9945996ffc841729e8929de3"
     },
     {
       "path": "terms/OT1998/entering-law/city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md",
-      "bytes": 14443,
+      "bytes": 14445,
       "sha256": "d27a85c6c6142253acfd9539ee1423c8d5e70bee78b5945f4f95085f75cf8e4e"
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "path": "terms/OT1998/entering-law/sutton_v_united_air_lines_inc_merits_1999-06-22.md",
-      "bytes": 13289,
+      "bytes": 14935,
       "sha256": "c5fbcebee8e601d16bc5525261ee4f4c1a54330e85ef87234e04dad9e991d5c1"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_ACKER_RECOUNT.json",
-      "bytes": 85395,
+      "bytes": 85271,
       "sha256": "d63c7dfea8228aceac79dd2d4ffc8044ef969db98fbe2e228b093584dfbb638e"
     },
     {
@@ -252,17 +252,17 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_APPROVED_STONE.md",
-      "bytes": 43929,
+      "bytes": 45188,
       "sha256": "91a24c85f77d788ef662d28407e9e7f53ec06a28ad0f38e61486eb51579f805f"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_ASSIGNMENT_BASELINE.json",
-      "bytes": 338433,
+      "bytes": 331165,
       "sha256": "6bb6185321d91733bc4bc26fd675b9499b5e7ae0f96b20b1dcebca7191878eae"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_ASSIGNMENT_BASELINE.md",
-      "bytes": 174063,
+      "bytes": 126650,
       "sha256": "bbffc1c781a58daea813e0a5f30e3602946987ba48ed2fd28df62f91618f66ba"
     },
     {
@@ -297,7 +297,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_B_DALLAS_NEUTRAL.md",
-      "bytes": 10199,
+      "bytes": 10183,
       "sha256": "be11fce0db34a4b6d1e923d740cb02611736a7454b5e7128fa32f9a9abdd5d61"
     },
     {
@@ -317,7 +317,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_B_NEUTRAL.md",
-      "bytes": 33782,
+      "bytes": 33766,
       "sha256": "c4717c710b960902b75b69032e6a1cd86c421f5874284841ea9d3e5ce0fa8575"
     },
     {
@@ -342,17 +342,17 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_DALLAS_COMMITMENTS.md",
-      "bytes": 17325,
+      "bytes": 17283,
       "sha256": "90a39b361c6936f59c750681923f8ef6e7e0479e72b9e66bcb95db2a13226aa3"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_DALLAS_RECONCILED.md",
-      "bytes": 13603,
+      "bytes": 13511,
       "sha256": "c9a3ad1c3ebb68ccbdf390f1cc035247e5bb6062ec1233f663eb9548d4b282ea"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_DALLAS_RECOUNT.json",
-      "bytes": 83692,
+      "bytes": 83575,
       "sha256": "ed13148bd6861133366c31b4bd854dbd74652a628d3fa379883540dcedbb8677"
     },
     {
@@ -417,7 +417,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_GRUPO_RECOUNT.json",
-      "bytes": 80602,
+      "bytes": 80485,
       "sha256": "ee933cc8782f505821be138844f6cbb462481216984ab35502bf630e818e1106"
     },
     {
@@ -467,7 +467,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_JONES_RECOUNT.json",
-      "bytes": 85392,
+      "bytes": 85268,
       "sha256": "ce4eb2d57cfcb855eb69d263d05c8eb2ea9c84d1006ba7deb4bc2e6173a362ce"
     },
     {
@@ -487,12 +487,12 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_MARTIN_RECOUNT.json",
-      "bytes": 87315,
+      "bytes": 87191,
       "sha256": "a1ac60d4f5e3a15bb0817844bc00a6e9778572051e9e1382d7950649514f7847"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_NASA_COMMITMENTS.md",
-      "bytes": 21626,
+      "bytes": 21633,
       "sha256": "f72f88b86b1ae0a4bde457411dc113d5f0018c1621654c0693f6327c8491c7b6"
     },
     {
@@ -502,7 +502,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_NASA_RECOUNT.json",
-      "bytes": 81422,
+      "bytes": 81305,
       "sha256": "25e97de42895637dd5d612662d00c7250aad9360275c48e283f69c6c45daf046"
     },
     {
@@ -512,7 +512,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_CONTINUITY.md",
-      "bytes": 790346,
+      "bytes": 792345,
       "sha256": "22f79b809754f9fe32a1a48cb6540d7830e6c52c62ab78c50acac6bdce7198cc"
     },
     {
@@ -522,17 +522,17 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_LEDGER.md",
-      "bytes": 60815,
+      "bytes": 54541,
       "sha256": "e4697f71689158ca279a23732eef7c8847d2a41dabcea62f6ef8b7f8a769dc86"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_MANIFEST.md",
-      "bytes": 111013,
+      "bytes": 111044,
       "sha256": "4589a5af6ea4d9f4dca34054844b0b35a2471c74509c8581874a5a90da7b130a"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_OPENING_NEUTRAL_PROJECTION.md",
-      "bytes": 792123,
+      "bytes": 794122,
       "sha256": "c799e8b1c62a66b13fba6f23718b3ac22200b5d4ce4aeebb4288a87f0267df27"
     },
     {
@@ -587,7 +587,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SCHLEIFER_RECOUNT.json",
-      "bytes": 79604,
+      "bytes": 79487,
       "sha256": "f54b3aa152053a726b76a24ed1cd4747fe14d554c7af682c03c5d93dd0b40bbe"
     },
     {
@@ -597,7 +597,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SOURCE_FRESHNESS.json",
-      "bytes": 469095,
+      "bytes": 469097,
       "sha256": "2bd3c82cd4ea2e5608fe819db33c14319678cba25e9c1d037344199585c884f8"
     },
     {
@@ -637,22 +637,22 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_STRICKLER_RECOUNT.json",
-      "bytes": 82063,
+      "bytes": 81946,
       "sha256": "ce08505ce4f2323a08a0a5213a71aece3dadea0afec8cdcaafbe8330b6e3944c"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SUTTON_COMMITMENTS.md",
-      "bytes": 19160,
+      "bytes": 19750,
       "sha256": "a3bce50d01bb4698c1ec206c5b08389dac8c6cbaf7ff9ef33287cc59930d7822"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SUTTON_RECONCILED.md",
-      "bytes": 13314,
+      "bytes": 14193,
       "sha256": "da31d1cf40915162912f793b836aeaa531eb51e564e4baedcade0b6cd490bde6"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_SUTTON_RECOUNT.json",
-      "bytes": 88654,
+      "bytes": 88530,
       "sha256": "f72a03bdefa022b09b6342ecf4ce0787df9bd7aa29a85272b3ed6b545dd96e00"
     },
     {
@@ -667,7 +667,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_VALDESPINO_RECOUNT.json",
-      "bytes": 82915,
+      "bytes": 82798,
       "sha256": "592d85fc27afe386311edbc8923eb12c74698aa907379b75fc9683c6964f2104"
     },
     {
@@ -687,7 +687,7 @@
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK10_WEST_RECOUNT.json",
-      "bytes": 78978,
+      "bytes": 78861,
       "sha256": "9512d117ebc09d25689ac693da9b692d5d9ef69aeebe8a96a9ca40c707a791c9"
     },
     {
@@ -697,22 +697,22 @@
     },
     {
       "path": "terms/OT1998/output/OT_1998CHUNK10.md",
-      "bytes": 164920,
+      "bytes": 166999,
       "sha256": "77562d04fb2a39aafb46dcae51ef85a33389bea4e8d3a9a9ebcf809e305c2145"
     },
     {
       "path": "terms/OT1998/records/city_of_dallas_v_dallas_fire_fighters_association_merits_1999-06-18.md",
-      "bytes": 35146,
+      "bytes": 35238,
       "sha256": "d1475b8c5c8480ce95ccada4a2c39f7eef8f0e4a657ce8d3c11f9d78755f83e8"
     },
     {
       "path": "terms/OT1998/records/grupo_mexicano_de_desarrollo_sa_v_alliance_bond_fund_inc_merits_1999-06-17.md",
-      "bytes": 28603,
+      "bytes": 28631,
       "sha256": "e725a5c42766b102e90b60571553d0927de9ffa0262626fff107535c1346423f"
     },
     {
       "path": "terms/OT1998/records/jefferson_county_v_acker_merits_1999-06-21.md",
-      "bytes": 50808,
+      "bytes": 50806,
       "sha256": "b19b9d6b4f287681a6caa2fb0c78e07f1424710b305fff17e1cc6c81c6f4b03b"
     },
     {
@@ -722,7 +722,7 @@
     },
     {
       "path": "terms/OT1998/records/martin_v_hadix_merits_1999-06-21.md",
-      "bytes": 39843,
+      "bytes": 39847,
       "sha256": "ed70e226c2b7144006d3d7ec78fe25392aca5385bd263ef843446ad15c5b3fdd"
     },
     {
@@ -737,7 +737,7 @@
     },
     {
       "path": "terms/OT1998/records/nasa_v_flra_merits_1999-06-17.md",
-      "bytes": 28149,
+      "bytes": 28137,
       "sha256": "26c10eacd4f83b90905830514ec5aa45c2cbcdcc8e5a98c69cbb6a4ce13634cc"
     },
     {
@@ -747,27 +747,27 @@
     },
     {
       "path": "terms/OT1998/records/strickler_v_greene_merits_1999-06-17.md",
-      "bytes": 37774,
+      "bytes": 37873,
       "sha256": "806b9d793e17e1a02749d5f97184d2ae2a7b945950864b1a6cc74933f13ca61f"
     },
     {
       "path": "terms/OT1998/records/sutton_v_united_air_lines_inc_merits_1999-06-22.md",
-      "bytes": 43913,
+      "bytes": 47492,
       "sha256": "9bc7ebd476a03d0e91f5beeb1c763e10a25c589926ea1c2edd4410a2f5ca7c28"
     },
     {
       "path": "terms/OT1998/records/valdespino_v_alamo_heights_independent_school_district_merits_1999-06-17.md",
-      "bytes": 32805,
+      "bytes": 32823,
       "sha256": "fb06daa4b9591b68e2914d3586e1f338b05c8e7c91696a4efad0b559bb3843ab"
     },
     {
       "path": "terms/OT1998/records/west_v_gibson_merits_1999-06-14.md",
-      "bytes": 22068,
+      "bytes": 22113,
       "sha256": "118efd729fed0e01672397c43fd102a18075f2db35a9906df5c1344483fea563"
     },
     {
       "path": "terms/OT1998/render-inputs/OT_1998CHUNK10.md",
-      "bytes": 165226,
+      "bytes": 166874,
       "sha256": "1d84b14dfaada6b622a561ca29b0e25d936304f976c34be82e5253a1cc5be8e3"
     },
     {
@@ -1352,7 +1352,7 @@
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK10_NEUTRAL.md",
-      "bytes": 86680,
+      "bytes": 86777,
       "sha256": "3f904a67085d3c823489a963ffa021cc64badacf1cba0e1dd1fb7381d5ebd33b"
     },
     {
@@ -1362,7 +1362,7 @@
     },
     {
       "path": "terms/OT1998/runtime/OT_1998CHUNK10_STONE.md",
-      "bytes": 43929,
+      "bytes": 45188,
       "sha256": "91a24c85f77d788ef662d28407e9e7f53ec06a28ad0f38e61486eb51579f805f"
     },
     {

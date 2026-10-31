@@ -1,7 +1,7 @@
 **Case and dockets:** Regions Hospital v. Shalala, No. 96-1375.
 **Event and date:** Plenary merits decision, 1998-02-24; argued 1997-12-01; October Term 1997, chunk 4.
 **Result:** Affirmed, 6–3; closed payments preserved, corrected base permitted for future and independently open later determinations.
-**Version / lineage:** Original decision
+**Version / lineage:** Original decision.
 
 ## Event validation and entering law
 

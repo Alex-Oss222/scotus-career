@@ -6,8 +6,8 @@ Operator-only result: **PASS. No projection discrepancy or render blocker found.
 
 | File | Bytes | SHA-256 |
 |---|---:|---|
-| `render-inputs/OT_1998CHUNK11.md` | 160327 | `14503e31bfda09f770ef42b12bece5fd1c85e875051e2d6f4d7e29714496ae9f` |
-| `output/OT_1998CHUNK11.md` | 158745 | `ca3a4f3c669228c372623e08eceef149cfe6e9230ad3916e80846fc08b9d3d4c` |
+| `render-inputs/OT_1998CHUNK11.md` | 165836 | `14503e31bfda09f770ef42b12bece5fd1c85e875051e2d6f4d7e29714496ae9f` |
+| `output/OT_1998CHUNK11.md` | 164850 | `ca3a4f3c669228c372623e08eceef149cfe6e9230ad3916e80846fc08b9d3d4c` |
 
 Both match the controller’s immutable releases and final mechanical receipt. All eight public-entry identities match the receipt. The first four input-event hashes and first four public-entry hashes exactly match the baselines in `audit/OT_1998CHUNK11_RENDER_FIDELITY_PARTIAL.md`; their substantive checks were not repeated.
 
@@ -38,11 +38,11 @@ Scope: exact UTF-8 bytes from the level-three case heading through the closing d
 |---|---:|---|
 | Albertson’s, Inc. v. Kirkingburg | 13974 | `58d801b519d6414a3615086f9f43ca3f65fab4ebd863f0a6281a133b5597a2d5` |
 | Kolstad v. American Dental Association | 21715 | `bd6af8403ff0b6b67fce0d60f271715160a4f6fbe99990f8d8a75f21fb1fbe98` |
-| Murphy v. United Parcel Service, Inc. | 19643 | `df37d383bae9f1a014ee0580333b192e6c2b7a6c6aec9be4ce953875c2587878` |
+| Murphy v. United Parcel Service, Inc. | 22186 | `c36e9a5031afde2d9e5bc1f39e7b5023b33e61d56cba541810966386d0134b10` |
 | Olmstead v. L.C. | 20676 | `6ebd81b4d7110bc782014e4ce2b090509843bba8c88b75383b6d9e8c2469b62f` |
 | Alden v. Maine | 15661 | `52bab31484ee0f588a9e0f002350363e70d278a48d47f91bc0f3e88627bb20d4` |
-| College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board | 22488 | `1213bd4fc188758d84b8bc98ff5063764992677909f511d32ddbda91d5950655` |
-| Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank | 22914 | `7b76a7a3711673b61cf9f43f7ad41ffd4a5109cbd46ab64f1661c9a07c09416e` |
+| College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board | 22503 | `f48ca4b5214ac4b641a0e4f4ffd732f2214777db9a06a7f6204e1ea366f589e2` |
+| Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank | 26427 | `f16fcb429ae11a60ac06067b86a2c16fa7ae8d7107c0369b75425e5ada00ff31` |
 | Ortiz v. Fibreboard Corp. | 20134 | `cedb99a208f1af2a99e79e57ae582d9f547384def68a2d59342af3d354fdee9b` |
 
 ## Discrepancies and access boundary

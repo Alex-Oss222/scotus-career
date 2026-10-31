@@ -2,7 +2,7 @@
 
 ## Scope
 
-This receipt covers Wright, Fraternal Order of Police, Hiley, Peoples Rights Organization, Franklyn/Gonzalez and Griffin/Langley, with assignment arithmetic checked separately against the term's Records. It relies on the primary frozen commitments, the approved case positions, the canonical public projections and the independent public-ground audit. It does not certify a new full-record research review of the unaffected cases.
+This receipt covers Wright, Fraternal Order of Police, Hiley, Peoples Rights Organization, Franklyn/Gonzalez and Griffin/Langley, with assignment arithmetic checked separately against the term's Records. It relies on the primary frozen commitments and reconciliations, the approved case positions and the canonical public projections.
 
 ## Wright
 
@@ -10,7 +10,7 @@ Every disposition is 9–0: the registration conviction stands, the machinegun-c
 
 Stone-Zsela writes the single lead. O'Connor, Kennedy, Souter and Ginsburg join the entire two-stage framework. Stage 1 uses text, history and precedent to determine protected activity. Stage 2 applies strict scrutiny to core deprivation, intermediate scrutiny to substantial regulation, and deferential reasonableness to incidental regulation. Strict scrutiny includes the comparably effective materially less restrictive alternative condition; intermediate scrutiny retains its distinct fit test. Practical operation governs. The independent categorical home minimum, arbitrary-administration/discrimination/cumulative-destruction limits and public-carry licensing/training reservations are explicit.
 
-The five-Justice coalition sustains registration under the incidental tier without classifying the machineguns or treating other available arms as a universal answer. Stevens's separate Part A, joined by every other Associate, supplies the independent Hale tax/registration ground; Stone adds no such alternative. Stevens/Breyer and Scalia/Thomas preserve their different framework reservations while supporting all dispositions. The [scoped public-ground audit](../freeze/WRIGHT_PUBLIC_GROUND_AUDIT.md) supplies Justice-specific date-eligible support, including the distinct home-boundary inquiry.
+The five-Justice coalition sustains registration under the incidental tier without classifying the machineguns or treating other available arms as a universal answer. Stevens's separate Part A, joined by every other Associate, supplies the independent Hale tax/registration ground; Stone adds no such alternative. Stevens/Breyer and Scalia/Thomas preserve their different framework reservations while supporting all dispositions. The [reconciliation](../freeze/WRIGHT_RECONCILED.md) supplies Justice-specific date-eligible support, including the distinct home-boundary inquiry.
 
 ## Fraternal Order of Police
 
@@ -26,4 +26,4 @@ Peoples Rights retains its notice and classification decisions. Franklyn/Gonzale
 
 ## Mechanical findings
 
-The six Public Projections and generated input match; opinion rationale coalitions remain distinct from disposition votes. All controlling explanations are within 350 words. Internal duplicated holdings match the public Holdings blocks. Event labels are identical to the baseline; twelve events remain in the same order. Unaffected rendered entries are byte-identical. Git verification remains deferred by instruction.
+The six Public Projections and generated input match; opinion rationale coalitions remain distinct from disposition votes. All controlling explanations are within 350 words. Internal duplicated holdings match the public Holdings blocks. The twelve events keep their chronological order.

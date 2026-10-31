@@ -4,7 +4,7 @@
 
 **Status:** Derived reading copy, not an adjudication or independent source of authority. Each decision below is reproduced verbatim from its authorized final Canonical Record Public Projection copy. The copies’ internal links and Source Notes remain unchanged; they are provenance, not an instruction to consult target historical opinions. No raw Record, private commitment, reconciliation, comparator, or controlled position was read. The original neutral freezes and law slices remain unchanged.
 
-**Chronology:** Uncoordinated June 22 decisions used their common entering-law baseline; their completed holdings combine prospectively for June 23. The four uncoordinated June 23 matters also share one baseline. Their processing order does not make any June 23 peer govern another.
+**Chronology:** Uncoordinated June 22 decisions used their common entering-law baseline; their completed holdings combine prospectively for June 23. The four uncoordinated June 23 matters also share one baseline. Their processing order does not make any June 23 peer govern another, apart from College Savings Part III, which Florida Prepaid's Part IV applies as a holding announced earlier the same day.
 
 **Use with:** [Final neutral dependency screen](../freeze/OT_1998CHUNK11_JUNE23_FINAL_NEUTRAL_SCREEN.md); [Alden slice](OT_1998CHUNK11_ALDEN.md); [Ortiz slice](OT_1998CHUNK11_ORTIZ.md); [Florida Prepaid guide](OT_1998CHUNK11_FLORIDA_PREPAID_LAW.md); [College Savings guide](OT_1998CHUNK11_COLLEGE_SAVINGS_LAW.md); [neutral prior-authority addendum](../freeze/OT_1998CHUNK11_IP_UNION_GAS_WELCH_HILTON_ADDENDUM.md); [additional public excerpts](OT_1998CHUNK11_IP_ADDITIONAL_PUBLIC_EXCERPTS.md).
 
@@ -16,9 +16,9 @@ The exact existing question-scope Standard and prior-authority Standards selecti
 |---|---:|---|
 | [albertsons_inc_v_kirkingburg_merits_1999-06-22.md](albertsons_inc_v_kirkingburg_merits_1999-06-22.md) | 14107 | `dbd9f5dde148e9ce9a7f34c3f0a00b7ef6c949b6538965e4d82c1945a5c9b9b8` |
 | [kolstad_v_american_dental_association_merits_1999-06-22.md](kolstad_v_american_dental_association_merits_1999-06-22.md) | 21941 | `0fd8eedab410767717211357d17cbeec801dc76e07b07e7accd808d149508f70` |
-| [murphy_v_united_parcel_service_inc_merits_1999-06-22.md](murphy_v_united_parcel_service_inc_merits_1999-06-22.md) | 20397 | `47accbe72deccc92820dbd08c05c4abcbb3f65be63b471d8d15b5ba7fc359fab` |
+| [murphy_v_united_parcel_service_inc_merits_1999-06-22.md](murphy_v_united_parcel_service_inc_merits_1999-06-22.md) | 22308 | `47accbe72deccc92820dbd08c05c4abcbb3f65be63b471d8d15b5ba7fc359fab` |
 | [olmstead_v_lc_merits_1999-06-22.md](olmstead_v_lc_merits_1999-06-22.md) | 21178 | `b921b78188682fe8285deda87c9492b5b07282d029cb1f7098883794d10e8b81` |
-| [sutton_v_united_air_lines_inc_merits_1999-06-22.md](sutton_v_united_air_lines_inc_merits_1999-06-22.md) | 13289 | `c5fbcebee8e601d16bc5525261ee4f4c1a54330e85ef87234e04dad9e991d5c1` |
+| [sutton_v_united_air_lines_inc_merits_1999-06-22.md](sutton_v_united_air_lines_inc_merits_1999-06-22.md) | 14935 | `c5fbcebee8e601d16bc5525261ee4f4c1a54330e85ef87234e04dad9e991d5c1` |
 
 ## Completed public authority 1: Albertson’s — new completed increment
 
@@ -287,11 +287,11 @@ All nine join the perceived-class framework and nonreach of Questions 2–3. The
 | Opinion of the Court, Parts II-B and IV as to regarded-as coverage | Ginsburg | O’Connor, Scalia, Kennedy, Souter, Thomas | Affirms the regarded-as rejection | Insufficient perceived occupational-breadth proof on this record |
 | Opinion of the Court, Part II-A | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common legal framework; three Justices do not join the application | Perceived substantial limitation of a class or broad range of jobs, distinct from regulatory motive |
 | Opinion of the Court, Part III | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common Supreme Court nonreach | Qualification and DOT defenses reserved, no automatic certification or waiver determination |
-| Concurring opinion | Stevens | Breyer | Joins actual-disability vacatur and Parts II-A and III; no Part II-B join | Persuasive guidance supports the underlying-impairment rule; individualized reassessment without a final disability finding |
+| Opinion concurring in part | Stevens | Breyer | Joins actual-disability vacatur and Parts II-A and III; does not join Part II-B | Persuasive guidance supports the underlying-impairment rule; individualized reassessment without a final disability finding |
 | Opinion concurring in part and dissenting in part | Stone-Zsela | Author alone | Joins actual-disability vacatur and Parts II-A and III; dissents from Part II-B | Would return any preserved regarded-as theory for resolution on its own elements |
 | Opinion concurring in part and dissenting in part | O’Connor | Scalia, Kennedy, Thomas | Joins Parts II-A, II-B and III; dissents from actual-disability vacatur | Actual measures used govern coverage; would affirm actual-disability judgment |
 
-Ginsburg delivers one signed lead opinion. Souter joins every controlling portion; the other Justices join the components identified above. The five-Justice actual-disability coalition shares vacatur for reassessment, while the six-Justice regarded-as coalition affirms that distinct rejection.
+Ginsburg delivers one signed lead opinion. Souter joins every controlling portion; Stone-Zsela, Stevens and Breyer join Parts I, II-A and III and Part IV as to actual disability, and O’Connor, Scalia, Kennedy and Thomas join Parts II-A, II-B and III and Part IV as to regarded-as coverage. The five-Justice actual-disability coalition shares vacatur for reassessment, while the six-Justice regarded-as coalition affirms that distinct rejection.
 
 ## Holdings
 
@@ -361,7 +361,7 @@ Actual-disability coverage under the original ADA requires individualized proof 
 
 ## Separate Writings
 
-**Stevens, joined by Breyer, concurring.** They join the underlying-impairment rule and actual-disability vacatur. The original Act’s separation of protected status from qualification and safety, the contemporaneous guidance and legislative explanation support examining the impairment without subtracting medication’s beneficial effects. The guidance is persuasive; their concurrence supplies no agency-deference ground for the Court. Individual substantial limitation remains necessary, and the lower courts must reassess Murphy’s own evidence without a final Supreme Court disability finding. They require neither stopping medication nor a finding of existing end-organ injury.
+**Stevens, joined by Breyer, concurring in part.** They join the underlying-impairment rule and actual-disability vacatur. The original Act’s separation of protected status from qualification and safety, the contemporaneous guidance and legislative explanation support examining the impairment without subtracting medication’s beneficial effects. The guidance is persuasive; their concurrence supplies no agency-deference ground for the Court. Individual substantial limitation remains necessary, and the lower courts must reassess Murphy’s own evidence without a final Supreme Court disability finding. They require neither stopping medication nor a finding of existing end-organ injury.
 
 Successful treatment remains relevant to qualification, accommodation and safety. Their vacatur leaves necessary preserved remaining matters for ordinary proceedings without employment, damages, certification, accommodation, a mandatory trial or final liability. They join the perceived-class framework and Supreme Court nonreach but make no independent regarded-as application or contrary triability ruling.
 

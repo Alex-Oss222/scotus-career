@@ -38,7 +38,7 @@ The strongest statute-supporting path emphasizes established exclusive property,
 
 ## Common entering law, institutional facts, and controls
 
-The operative cutoff is immediately before June 23, 1999, using the opening neutral projection through the completed Sutton event on June 22 plus the separately required four-event June 22 refresh. All four June 23 matters share this baseline; neither same-day IP companion supplies an earlier precedent. The approved Section I's September 28, 1998-only statement is superseded for this packet. Earlier completed adjudications remain intact.
+The operative cutoff is immediately before June 23, 1999, using the opening neutral projection through the completed Sutton event on June 22 plus the separately required four-event June 22 refresh. All four June 23 matters share this baseline; apart from College Savings Part III, which Florida Prepaid's Part IV applies as a holding announced earlier the same day, neither same-day IP companion supplies an earlier precedent. The approved Section I's September 28, 1998-only statement is superseded for this packet. Earlier completed adjudications remain intact.
 
 All nine Justices are seated at argument on April 20, 1999 and at the proposed June 23 decision: Chief Justice Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Standing State §1 and the Composition register establish service/seniority; no case-specific nonparticipation is established in the authorized materials. Quorum is six; with nine participants the judgment requires five. This packet assigns no votes. Historical lineup is not a source of simulated participation.
 

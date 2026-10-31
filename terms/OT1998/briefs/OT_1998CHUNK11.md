@@ -443,7 +443,7 @@ A valid direct-violation application, a properly fitted preventive rule and any 
 
 ## A. STATUS
 
-* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-30.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-30 and 2026-10-31.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY

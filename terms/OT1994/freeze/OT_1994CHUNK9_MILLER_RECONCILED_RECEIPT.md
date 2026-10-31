@@ -4,7 +4,7 @@ Frozen artifact: [OT_1994CHUNK9_MILLER_RECONCILED.md](OT_1994CHUNK9_MILLER_RECON
 
 SHA256: `83CF03F4CD3D060095FE33AB04B568C1E1EF4CB3E544D2F4BE35E29B42E028BB`.
 
-The artifact is 53,085 bytes and 238 lines. It was frozen after the independently released clean commitments, whose input SHA256 is `59B4D7CFD957FE3443870E6C7A16B58B95260261ADE77C6A78DA6CAAFE514CAF`. Frozen neutral SHA256 is `5379403E5AD0AC4F7B3CAFFCAAB67343AE0FA563923E10D44F83D0384FB44E26`; entering-law SHA256 is `79A0566B55D26A4D1715EC6BF25DF9609EE176E588C23D9DA16E74BEE4670618`. All three hashes were independently checked against the files before release. No input freeze was rewritten.
+The artifact is 53,331 bytes and 238 lines. It was frozen after the independently released clean commitments, whose input SHA256 is `59B4D7CFD957FE3443870E6C7A16B58B95260261ADE77C6A78DA6CAAFE514CAF`. Frozen neutral SHA256 is `5379403E5AD0AC4F7B3CAFFCAAB67343AE0FA563923E10D44F83D0384FB44E26`; entering-law SHA256 is `79A0566B55D26A4D1715EC6BF25DF9609EE176E588C23D9DA16E74BEE4670618`. All three hashes were independently checked against the files before release. No input freeze was rewritten.
 
 The full official comparator text was read in bounded successive portions, all 2,031 lines. Its SHA256 is `3D2090CCA8F5AEEBDF374D4DD0B25DE8B3659F3409C071DE3224887236C755DF`. The entire neutral packet, entering-law copy, commitments and relevant clean receipts were read. No new exhibit fact was imported from historical material; no neutral correction is requested.
 

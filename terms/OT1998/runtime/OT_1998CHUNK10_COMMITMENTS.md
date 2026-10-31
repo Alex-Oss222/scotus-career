@@ -24,7 +24,7 @@ Original plus listed later supplements; later supplements control only their exp
 
 Original plus listed later supplements; later supplements control only their expressly superseded components. These are independent provisional Associate positions, before historical reconciliation.
 
-- [OT_1998CHUNK10_NASA_COMMITMENTS.md](../freeze/OT_1998CHUNK10_NASA_COMMITMENTS.md) — 21626 bytes; SHA-256 `f72f88b86b1ae0a4bde457411dc113d5f0018c1621654c0693f6327c8491c7b6`.
+- [OT_1998CHUNK10_NASA_COMMITMENTS.md](../freeze/OT_1998CHUNK10_NASA_COMMITMENTS.md) — 21633 bytes; SHA-256 `f72f88b86b1ae0a4bde457411dc113d5f0018c1621654c0693f6327c8491c7b6`.
 
 ## Strickler
 
@@ -43,7 +43,7 @@ Original plus listed later supplements; later supplements control only their exp
 
 Original plus listed later supplements; later supplements control only their expressly superseded components. These are independent provisional Associate positions, before historical reconciliation.
 
-- [OT_1998CHUNK10_DALLAS_COMMITMENTS.md](../freeze/OT_1998CHUNK10_DALLAS_COMMITMENTS.md) — 17325 bytes; SHA-256 `90a39b361c6936f59c750681923f8ef6e7e0479e72b9e66bcb95db2a13226aa3`.
+- [OT_1998CHUNK10_DALLAS_COMMITMENTS.md](../freeze/OT_1998CHUNK10_DALLAS_COMMITMENTS.md) — 17283 bytes; SHA-256 `90a39b361c6936f59c750681923f8ef6e7e0479e72b9e66bcb95db2a13226aa3`.
 
 ## Acker
 
@@ -77,4 +77,4 @@ Original plus listed later supplements; later supplements control only their exp
 
 Original plus listed later supplements; later supplements control only their expressly superseded components. These are independent provisional Associate positions, before historical reconciliation.
 
-- [OT_1998CHUNK10_SUTTON_COMMITMENTS.md](../freeze/OT_1998CHUNK10_SUTTON_COMMITMENTS.md) — 19720 bytes; SHA-256 `a3bce50d01bb4698c1ec206c5b08389dac8c6cbaf7ff9ef33287cc59930d7822`.
+- [OT_1998CHUNK10_SUTTON_COMMITMENTS.md](../freeze/OT_1998CHUNK10_SUTTON_COMMITMENTS.md) — 19750 bytes; SHA-256 `a3bce50d01bb4698c1ec206c5b08389dac8c6cbaf7ff9ef33287cc59930d7822`.

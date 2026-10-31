@@ -103,11 +103,11 @@ Chief Justice Stone-Zsela and Justices Stevens, O’Connor, Scalia, Kennedy, Sou
 
 #### Judgment
 
-**Vacated and remanded, 9–0.**
+The Tenth Circuit's judgment is vacated and the case is remanded for application of the common standard, 9–0 on the judgment.
 
-**Supporting:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
-
-The preserved constitutional challenge returns for application of the common standard under the directions below. The Court does not hold the arrangement unconstitutional, order an injunction or damages, or award a subcontract.
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Preserved constitutional challenge | Vacate and remand, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | None | Apply the common standard to the preserved challenge under the directions below; no holding of unconstitutionality, injunction, damages or award of a subcontract |
 
 #### Opinion Topology
 
@@ -130,6 +130,11 @@ The preserved constitutional challenge returns for application of the common sta
 
 **Controlling explanation:** The Court holds that unequal opportunity to compete is an injury even when the award remains uncertain. Northeastern Florida identifies the governmental barrier, rather than proof of the award that would follow its removal, as the relevant competitive injury. Adarand submitted the low bid, but the prime contractor selected a certified disadvantaged business in response to the financial incentive. The contractor could decline that incentive; its optional character does not remove its effect on competitive opportunity. Lujan requires the connection to be concrete and the requested relief appropriate to a continuing or threatened injury. Adarand's recurring bids and the likelihood of encountering the challenged clause again satisfy that prospective requirement on this record. The Court does not infer a guaranteed future award, an entitlement to damages, or a waiver of sovereign immunity. Nor does accepting this competitive injury establish that the challenged preference is unconstitutional; justification remains a separate question.
 
+**Precedent treatment:**
+
+- Northeastern Florida Chapter, AGC v. Jacksonville (June 14, 1993): applies its equal-opportunity injury rule; no guaranteed contract award is required.
+- Lujan v. Defenders of Wildlife (June 12, 1992): retains concrete injury, causal connection and stage-appropriate proof; prospective relief requires sufficiently imminent renewed exposure.
+
 ##### The common substantial-justification standard
 
 **Controlling proposition:** When government changes an individual's competitive opportunity through a racial classification, government must establish an important objective within its lawful authority and a substantial, evidence-supported relationship between the racial treatment and that objective. Government must justify the measure's coverage and the actual burdens it imposes, including its response to concrete, practicable alternatives that would comparably advance the objective with materially less racial disadvantage. Unsupported assertion, administrative convenience alone, or an inclusive label does not satisfy that burden. Racial hierarchy, stereotypes, hostility, political favoritism, and racial allocation for its own sake are impermissible objectives.
@@ -146,6 +151,15 @@ Croson supplies the demand for relevant evidence; Wygant supplies attention to a
 
 The objection that common review either erases Congress's role or weakens individual protection fails. Congress may justify a national remedial category through authority and evidence unavailable to a municipality's independently designed measure. An agency need not reproduce Congress's entire evidentiary case for each project, but must remain within its delegation and justify materially different or unsupported implementation. Courts retain responsibility for constitutional sufficiency. Conversely, the affected competitor's actual burden must be justified even when correction is important. Supported barriers may warrant action before discrimination against every beneficiary has been adjudicated. This decision supplies no universal exemption for corrective measures, no constitutional duty to adopt preferences, and no power over every private inequality. It leaves the arrangement's validity for application of the standard on remand.
 
+**Precedent treatment:**
+
+- Metro Broadcasting, Inc. v. FCC, 497 U.S. 547 (1990): overrules its selection of a lower tier for benign federal racial classifications; federal sponsorship supplies no exemption from the common standard.
+- City of Richmond v. J. A. Croson Co., 488 U.S. 469 (1989): displaces its categorical strict-scrutiny formulation with the common standard while retaining its demand for relevant evidence.
+- Wygant v. Jackson Board of Education, 476 U.S. 267 (1986): retains attention to the actual burdens imposed by racial treatment.
+- United States v. Paradise, 480 U.S. 149 (1987): retains attention to flexibility and fit.
+- Fullilove v. Klutznick, 448 U.S. 448 (1980): retains recognition of supported congressional remedial action at its supported scope; no single universal rationale is attributed to the fractured decision.
+- Shaw v. Reno (June 28, 1993): leaves its rejection of the design-only districting claim untouched; the Voting Rights Act's statutory elements also remain unchanged.
+
 ##### Vacatur and bounded remand under the common standard
 
 **Controlling proposition:** The Tenth Circuit's judgment is vacated and the case is remanded to apply the common standard to the actual program and preserved challenge, respecting concessions and supported findings in their actual scope and allowing further proceedings only as needed under ordinary procedural rules. Vacatur neither holds the arrangement unconstitutional nor directs any injunction; interim or final relief requires its own legal and equitable basis.
@@ -156,20 +170,16 @@ The objection that common review either erases Congress's role or weakens indivi
 
 The Tenth Circuit recorded a stipulation that section 502 satisfied Fullilove's evidentiary requirements and a concession that the agency stayed within delegated authority. Their ordinary force is preserved in their actual scope. The appellate statement accepted evidence for discussion while disputing tailoring, and the merits brief disputes the delegation characterization. Courts must neither fabricate an unconditional waiver nor treat the change of standard as erasing evidence or supported findings. A stipulation under the inherited rule does not necessarily resolve every question under the common standard. Further proceedings require identification of a genuinely unresolved material issue and an explanation of why the existing record, findings or concessions do not resolve it. Existing records may suffice. Vacatur is not a finding that the arrangement is unconstitutional, and interim or final relief requires its own legal and equitable basis.
 
+**Precedent treatment:**
+
+- Fullilove v. Klutznick: preserves the actual scope of the section 502 evidentiary stipulation without treating it as resolution of every question under the common standard.
+- Metro Broadcasting, Inc. v. FCC: its federal tier no longer supplies the rule for final judgment; application of the common standard remains necessary.
+
 #### Precedent Treatment and Current-Law Effect
 
-- Northeastern Florida Chapter, AGC v. Jacksonville (June 14, 1993): applies its equal-opportunity injury rule; no guaranteed contract award is required.
-- Lujan v. Defenders of Wildlife (June 12, 1992): retains concrete injury, causal connection and stage-appropriate proof; prospective relief requires sufficiently imminent renewed exposure.
-- Metro Broadcasting, Inc. v. FCC, 497 U.S. 547 (1990): overrules its selection of a lower tier for benign federal racial classifications; federal sponsorship supplies no exemption from the common standard, which must govern final judgment on remand.
-- City of Richmond v. J. A. Croson Co., 488 U.S. 469 (1989): displaces its categorical strict-scrutiny formulation with the common standard while retaining its demand for relevant evidence.
-- Wygant v. Jackson Board of Education, 476 U.S. 267 (1986): retains attention to the actual burdens imposed by racial treatment.
-- United States v. Paradise, 480 U.S. 149 (1987): retains attention to flexibility and fit.
-- Fullilove v. Klutznick, 448 U.S. 448 (1980): retains recognition of supported congressional remedial action at its supported scope; no single universal rationale is attributed to the fractured decision. The section 502 evidentiary stipulation retains its actual scope but does not necessarily resolve every question under the common standard.
-- Shaw v. Reno (June 28, 1993): leaves its rejection of the design-only districting claim untouched; the Voting Rights Act's statutory elements also remain unchanged.
+Metro Broadcasting's selection of a lower tier for benign federal classifications is overruled. Croson's categorical strict-scrutiny formulation is displaced by the common standard while its demand for relevant evidence is retained. Wygant's attention to actual burdens, Paradise's attention to flexibility and fit, and Fullilove's recognition of supported congressional remedial action are retained. Shaw's design-only rule and the Voting Rights Act's statutory elements are untouched. This decision does not replace sex-equality doctrine or other source-specific protections and does not decide the validity of later school, employment or contracting programs.
 
-This decision does not replace sex-equality doctrine or other source-specific protections and does not decide the validity of later school, employment or contracting programs.
-
-The common substantial-justification standard governs federal, state and local racial classifications affecting competitive opportunity from June 12, 1995. The arrangement's validity remains for remand; the decision does not resolve every certification route, all future applications, sovereign immunity, damages, or any program-wide injunction. The compensation clause is an optional incentive, distinct from STURAA's expenditure command or a mandatory subcontracting duty. DBE subcontracts must total more than 10% of the original prime contract; compensation is 10% of approved final DBE subcontract amounts, capped at 1.5% of the original contract for one DBE and 2% for two or more. It compensates the stated assistance and documentation duties and requires certification evidence and a certified executed subcontract copy. Compensation is confined to DBE-performed work; adjustment may apply to non-DBE second-tier work, with full compensation permitted where only insignificant portions are subcontracted and the DBE performs the major portion. No finding is made that every duty was performed or every payment is constitutional.
+From June 12, 1995, the common substantial-justification standard governs federal, state and local racial classifications affecting competitive opportunity: an important lawful objective, a substantial evidence-supported relationship, justified coverage, operation and actual burdens, and a justified response to concrete, practicable alternatives that would comparably advance the objective with materially less racial disadvantage. Supported correction may proceed without proof that every beneficiary personally suffered discrimination, but corrective purpose alone does not establish validity. Metro's lower federal tier no longer governs, and Croson's categorical formulation is displaced as stated above. The arrangement's validity remains for remand; the decision does not resolve every certification route, all future applications, sovereign immunity, damages, or any program-wide injunction. The compensation clause is an optional incentive, distinct from STURAA's expenditure command or a mandatory subcontracting duty. DBE subcontracts must total more than 10% of the original prime contract; compensation is 10% of approved final DBE subcontract amounts, capped at 1.5% of the original contract for one DBE and 2% for two or more. It compensates the stated assistance and documentation duties and requires certification evidence and a certified executed subcontract copy. Compensation is confined to DBE-performed work; adjustment may apply to non-DBE second-tier work, with full compensation permitted where only insignificant portions are subcontracted and the DBE performs the major portion. No finding is made that every duty was performed or every payment is constitutional.
 
 SBA §8(a) presumes social disadvantage but requires individual proof of economic disadvantage. DOT state certification rebuttably presumes both, and third parties may challenge actual disadvantage. The §8(d) regulations remain in tension: 13 CFR §124.106(b) appears to require individual economic proof while 48 CFR §19.703(a)(2) appears to presume both. Nonminority applicants may establish disadvantage. Other governmental, county or city certification is accepted individually only on the contracting officer's finding of an acceptable and viable certification program. Mandatory §8(a) review, urged but nonmandatory DOT state review, and the absence of an identified separate §8(d) review provision remain distinct. Gonzales's actual route is unknown. The Court does not find irrebuttability, lack of actual disadvantage, or resolve the conflicting §8(d) rules.
 

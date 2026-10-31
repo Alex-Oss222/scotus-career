@@ -1,7 +1,7 @@
 **Case and dockets:** Hetzel v. Prince William County, No. 97-954.
 **Event and date:** Summary merits decision, 1998-03-23; OT1997 chunk 5.
 **Result:** Reversed in the reviewed respect and remanded, 9–0.
-**Version / lineage:** Original decision
+**Version / lineage:** Original decision.
 
 ## Event, participation and entering law
 

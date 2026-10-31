@@ -1,7 +1,7 @@
 **Case and dockets:** Johnson v. Rodriguez; Fifth Circuit Nos. 95-50879 and 96-50382, 110 F.3d 299. No separate Supreme Court docket assigned.
 **Event and date:** Plenary merits decision on authorized submission, 1998-02-17; October Term 1997, chunk 4.
 **Result:** Protest-letter dismissal and fee vacatur affirmed; incompatible writ-writer directions vacated; remanded, 9–0 by component.
-**Version / lineage:** Original decision
+**Version / lineage:** Original decision.
 
 ## Event validation and entering law
 

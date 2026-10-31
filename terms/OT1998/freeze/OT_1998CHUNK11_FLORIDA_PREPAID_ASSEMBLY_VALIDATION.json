@@ -4,7 +4,7 @@
   "event_date": "1999-06-23",
   "status": "FINAL; required bounded assembly checks completed; no unresolved blocker",
   "record": "records/florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
-  "record_bytes": 57773,
+  "record_bytes": 58427,
   "record_sha256": "0928330208d540b2590ac97bd5ae2086652ceb61fbf815e94a9792dfbee811ad",
   "recount": "freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECOUNT.json",
   "recount_sha256": "31a6be3033cdb98c7387b6980c0770dfdc10cef23eb61677e77cbe5269bc335e",
@@ -76,7 +76,17 @@
       "Ginsburg",
       "Breyer"
     ],
-    "Stone concurrence": [],
+    "Part IV": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
     "Kennedy dissent": [
       "Kennedy",
       "O'Connor",
@@ -84,7 +94,7 @@
       "Thomas"
     ]
   },
-  "delegated_choice": "Stone joins Part II’s §5 holding, Part III’s independent Article I holding and Part IV’s consent holding, as his approved Section II states, and writes no separate opinion. Part IV applies his College Savings Part III, preserves actual consent and leaves litigation-conduct waiver undecided. Neither constitutional ground depends on consent.",
+  "delegated_choice": "No delegated choice is used; Stone’s approved Section II supplies each of these choices. He joins Part II’s §5 holding, Part III’s independent Article I holding and Part IV’s consent holding and writes no separate opinion. Part IV applies his College Savings Part III, preserves actual consent and leaves litigation-conduct waiver undecided. Neither constitutional ground depends on consent.",
   "deterministic_checks": {
     "four_exact_opening_labels": "passed",
     "eleven_public_blocks_in_order": "passed",
@@ -133,7 +143,7 @@
     {
       "check": "Authority and Marks",
       "result": "passed",
-      "basis": "Nine common statutory/property/scope joins; five joins in each independent §5 and Article I holding; nine joins in Part IV's consent holding. Express majority holdings require no Marks aggregation. Stone concurrence has no members because no such writing is filed."
+      "basis": "Nine common statutory/property/scope joins; five joins in each independent §5 and Article I holding; nine joins in Part IV's consent holding. Express majority holdings require no Marks aggregation. Stone files no separate writing."
     },
     {
       "check": "Remedy and scope",

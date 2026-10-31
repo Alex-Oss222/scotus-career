@@ -220,7 +220,7 @@ These are approved Stone character inputs. They do not state or predetermine the
 
 #### Position and scope
 
-**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition, reasoning and express alternatives are recorded as preparation instructions. The revised position stated below was user-approved 2026-10-30. No Court judgment, vote, rationale or coalition is created by this supplement.
+**Approval Status:** USER-SUPPLIED POSITION. The supplied disposition and reasoning are recorded as preparation instructions. The revised position stated below was user-approved 2026-10-30. No Court judgment, vote, rationale or coalition is created by this supplement.
 
 **Build:** Equal opportunity and remedies.
 
@@ -236,7 +236,7 @@ Stone selects a common standard of substantial justification that permits suppor
 
 Adarand develops the justification required when governmental racial treatment changes an individual's competitive opportunity. The inquiry must state an enforceable standard, not merely list subjects for judicial discussion. Its breadth is deliberate: supported corrective and prospective action may be permissible even when no judgment has established discrimination against each beneficiary. Government must nevertheless justify the racial treatment and its actual burdens. This does not revive the rejected racial-design-only claim in Shaw or replace the VRA's statutory elements, sex-equality doctrine, or other source-specific protections.
 
-#### Stone's preferred disposition
+#### Stone's disposition
 
 Vacate the Tenth Circuit's judgment sustaining the challenged subcontracting compensation arrangement and remand for application of the new standard. Vacatur does not hold the arrangement unconstitutional or direct a program-wide injunction. The lower courts must identify the unresolved questions material to the new standard, retain the ordinary force of existing concessions and supported findings, and permit additional proceedings only as needed under the governing procedural rules. Any interim or final relief requires its own legal and equitable basis.
 

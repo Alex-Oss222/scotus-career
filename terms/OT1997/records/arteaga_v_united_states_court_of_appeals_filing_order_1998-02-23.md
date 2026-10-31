@@ -1,7 +1,7 @@
 **Case and dockets:** Arteaga v. United States Court of Appeals for the Ninth Circuit, No. 97-6749; separate Arteaga v. Wilson fee motion, no separate Supreme Court docket supplied.
 **Event and date:** Filing-administration order, 1998-02-23; October Term 1997, chunk 4.
 **Result:** Both current fee motions denied 7–2; proposed future noncriminal condition declined unanimously; underlying petitions remain open.
-**Version / lineage:** Original decision
+**Version / lineage:** Original decision.
 
 ## Event validation and entering law
 

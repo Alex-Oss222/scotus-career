@@ -8,7 +8,7 @@
 
 All six judgment components have nine supporters and no opponents. Stone-Zsela delivers the single counted lead. O'Connor, Kennedy, Souter and Ginsburg join the full framework; its three tiers, practical-operation rule, categorical home minimum and reserved public-carry questions have five direct votes. Stevens's concurrence Part A has eight Associates for the independent registration ground; Part B has Stevens and Breyer for the broader-framework reservation. Scalia's concurrence is joined by Thomas. Stone adds no independent tax ground.
 
-Every preassignment count is zero. The eligible authors and pool are Stone-Zsela, O'Connor, Kennedy, Souter and Ginsburg; the Chief assigns the whole opinion. The framework, registration application and first-instance machinegun remand are within the confirmed public-ground audit. The conditional instruction request alone uses Stone's standing fallback. The sentence returns for lawful reconsideration, with no mandatory adjustment or new credibility finding.
+Every preassignment count is zero. The eligible authors and pool are Stone-Zsela, O'Connor, Kennedy, Souter and Ginsburg; the Chief assigns the whole opinion. The framework, registration application and first-instance machinegun remand are within the reconciliation's recorded final-compatibility joins. The conditional instruction request alone uses Stone's standing fallback. The sentence returns for lawful reconsideration, with no mandatory adjustment or new credibility finding.
 
 ## Mechanical verification
 

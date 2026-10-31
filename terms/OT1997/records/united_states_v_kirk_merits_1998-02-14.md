@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. Kirk; Fifth Circuit No. 94-50472, 105 F.3d 997. No separate Supreme Court docket assigned.
 **Event and date:** Plenary merits decision on authorized submission, 1998-02-14; October Term 1997, chunk 4.
 **Result:** Affirmed on the preserved Commerce Clause question, 9–0.
-**Version / lineage:** Original decision
+**Version / lineage:** Original decision.
 
 ## Event validation and entering law
 

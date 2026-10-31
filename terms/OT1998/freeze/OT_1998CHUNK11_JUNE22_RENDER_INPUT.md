@@ -257,11 +257,11 @@ All nine join the perceived-class framework and nonreach of Questions 2–3. The
 | Opinion of the Court, Parts II-B and IV as to regarded-as coverage | Ginsburg | O’Connor, Scalia, Kennedy, Souter, Thomas | Affirms the regarded-as rejection | Insufficient perceived occupational-breadth proof on this record |
 | Opinion of the Court, Part II-A | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common legal framework; three Justices do not join the application | Perceived substantial limitation of a class or broad range of jobs, distinct from regulatory motive |
 | Opinion of the Court, Part III | Ginsburg | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Common Supreme Court nonreach | Qualification and DOT defenses reserved, no automatic certification or waiver determination |
-| Concurring opinion | Stevens | Breyer | Joins actual-disability vacatur and Parts II-A and III; no Part II-B join | Persuasive guidance supports the underlying-impairment rule; individualized reassessment without a final disability finding |
+| Opinion concurring in part | Stevens | Breyer | Joins actual-disability vacatur and Parts II-A and III; does not join Part II-B | Persuasive guidance supports the underlying-impairment rule; individualized reassessment without a final disability finding |
 | Opinion concurring in part and dissenting in part | Stone-Zsela | Author alone | Joins actual-disability vacatur and Parts II-A and III; dissents from Part II-B | Would return any preserved regarded-as theory for resolution on its own elements |
 | Opinion concurring in part and dissenting in part | O’Connor | Scalia, Kennedy, Thomas | Joins Parts II-A, II-B and III; dissents from actual-disability vacatur | Actual measures used govern coverage; would affirm actual-disability judgment |
 
-Ginsburg delivers one signed lead opinion. Souter joins every controlling portion; the other Justices join the components identified above. The five-Justice actual-disability coalition shares vacatur for reassessment, while the six-Justice regarded-as coalition affirms that distinct rejection.
+Ginsburg delivers one signed lead opinion. Souter joins every controlling portion; Stone-Zsela, Stevens and Breyer join Parts I, II-A and III and Part IV as to actual disability, and O’Connor, Scalia, Kennedy and Thomas join Parts II-A, II-B and III and Part IV as to regarded-as coverage. The five-Justice actual-disability coalition shares vacatur for reassessment, while the six-Justice regarded-as coalition affirms that distinct rejection.
 
 ## Holdings
 
@@ -331,7 +331,7 @@ Actual-disability coverage under the original ADA requires individualized proof 
 
 ## Separate Writings
 
-**Stevens, joined by Breyer, concurring.** They join the underlying-impairment rule and actual-disability vacatur. The original Act’s separation of protected status from qualification and safety, the contemporaneous guidance and legislative explanation support examining the impairment without subtracting medication’s beneficial effects. The guidance is persuasive; their concurrence supplies no agency-deference ground for the Court. Individual substantial limitation remains necessary, and the lower courts must reassess Murphy’s own evidence without a final Supreme Court disability finding. They require neither stopping medication nor a finding of existing end-organ injury.
+**Stevens, joined by Breyer, concurring in part.** They join the underlying-impairment rule and actual-disability vacatur. The original Act’s separation of protected status from qualification and safety, the contemporaneous guidance and legislative explanation support examining the impairment without subtracting medication’s beneficial effects. The guidance is persuasive; their concurrence supplies no agency-deference ground for the Court. Individual substantial limitation remains necessary, and the lower courts must reassess Murphy’s own evidence without a final Supreme Court disability finding. They require neither stopping medication nor a finding of existing end-organ injury.
 
 Successful treatment remains relevant to qualification, accommodation and safety. Their vacatur leaves necessary preserved remaining matters for ordinary proceedings without employment, damages, certification, accommodation, a mandatory trial or final liability. They join the perceived-class framework and Supreme Court nonreach but make no independent regarded-as application or contrary triability ruling.
 

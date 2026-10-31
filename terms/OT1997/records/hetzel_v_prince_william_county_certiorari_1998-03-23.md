@@ -1,7 +1,7 @@
 **Case and dockets:** Hetzel v. Prince William County, No. 97-954.
 **Event and date:** Certiorari grant, 1998-03-23; OT1997 chunk 5.
 **Result:** Limited certiorari granted; poll undisclosed.
-**Version / lineage:** Original decision
+**Version / lineage:** Original decision.
 
 ## Event, participation and petition-stage basis
 

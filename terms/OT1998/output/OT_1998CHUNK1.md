@@ -25,19 +25,19 @@ Merits decision, October 5, 1998
 
 #### Chronology and Posture
 
-On writ of certiorari to the United States Court of Appeals for the Eleventh Circuit after merits briefing. The judgment below is reported at 117 F.3d 1265 (July 24, 1997); its sentencing portion was replaced on limited rehearing on January 28, 1998. No oral-argument or precise submission date is established.
+On writ of certiorari to the United States Court of Appeals for the Eleventh Circuit after merits briefing. The judgment below, 117 F.3d 1265 (July 24, 1997), was modified as to sentencing on limited rehearing January 28, 1998.
 
 The judgment under review affirmed the Northern District of Georgia's two convictions and, after rehearing, its 41-month sentence. The questions are whether the personal arms guarantee permits the machinegun-possession and destructive-device-registration convictions; whether section 922(o) is within the commerce power, including the derivative Tenth Amendment objection; whether the Ninth Amendment supplies an independent defense; and whether denial of acceptance-of-responsibility credit rested on lawful grounds. The derivative request for an arms instruction is addressed within the preserved plea's procedural limits.
 
-Wright pleaded guilty while reserving constitutional challenges. The admitted machinegun count includes the completed .223-caliber Olympic Arms automatic weapon and the disassembled .50-caliber machinegun; the separate registration count concerns three pipe bombs. No companion case is added.
+Wright pleaded guilty while reserving constitutional challenges. The admitted machinegun count includes the completed .223-caliber Olympic Arms automatic weapon and the disassembled .50-caliber machinegun; the separate registration count concerns three pipe bombs.
 
-Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at merits submission and decision. All nine participate. No case-specific nonparticipation is established.
+All nine Justices participated.
 
 #### Judgment
 
 The judgment is affirmed in part, vacated in part and remanded. The Court issues a signed opinion after merits briefing, preserving the separate conviction and sentencing grounds stated below.
 
-| Component | Disposition | Vote | Supporting | Opposing |
+| Judgment component | Disposition and remedy | Vote | Supporting Justices | Opposing Justices |
 |---|---|---|---|---|
 | One section 922(o) machinegun count, preserved arms challenge | Vacate the appellate affirmance and remand for both stages of Core-Preservation Review in the first instance | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
 | One section 5861(d) count concerning three pipe bombs | Affirm the conviction against the presented objections | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
@@ -60,7 +60,7 @@ The machineguns form one possession count; the three pipe bombs form the distinc
 
 #### Controlling Propositions and Authority
 
-**Common authority.** Stone-Zsela delivers the Opinion of the Court. O'Connor, Kennedy, Souter and Ginsburg join in full. Stevens, Scalia, Thomas and Breyer join Parts I, II-A, IV and V, the limited vacatur and remand in II-C apart from its framework direction, and separately adopt III's independent tax and registration grounds through Stevens's concurrence, Part A. II-B's complete framework, its application to registration, and the direction to apply both stages on the machinegun remand have five direct votes. Its authority rests on those majority joins, without combining the separate rationales.
+**Authority:** Stone-Zsela's Opinion of the Court controls every holding below with the coalitions identified above. O'Connor, Kennedy, Souter and Ginsburg join in full. Stevens, Scalia, Thomas and Breyer join Parts I, II-A, IV and V and the limited vacatur and remand in II-C apart from its framework direction, and separately adopt III's independent tax and registration grounds through Stevens's concurrence, Part A. II-B's complete framework, its application to registration, and the direction to apply both stages on the machinegun remand have five direct votes.
 
 ##### I. Congress may reach this machinegun possession through the national transfer-and-stock regime
 
@@ -100,7 +100,7 @@ The machineguns form one possession count; the three pipe bombs form the distinc
 
 **Holding and operative rule:** Registration of these explosive destructive devices is an incidental regulation that leaves ordinary defensive keeping meaningfully available and satisfies deferential reasonableness review.  The personal character of the arms guarantee and the asserted military usefulness of the three pipe bombs do not exempt their possession from the separate NFA registration requirements administering lawful making and transfer. Section 5861(d)'s prohibition of receipt or possession of a covered firearm not registered to the possessor has an independent tax-administration basis where it supports assessment, collection and tracing of taxable making and transfer; these presented objections therefore do not disturb the registration conviction.
 
-**Authority:** The five Justices joining the full opinion adopt the Core-Preservation Review application in Part III. Stevens's separate opinion, Part A, is joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; those eight independently adopt the tax-administration and registration ground stated here. All nine support the conviction affirmance; The Chief Justice adds no independent tax ground.
+**Authority:** The five Justices joining the full opinion adopt the Core-Preservation Review application in Part III. Stevens's separate opinion, Part A, is joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; those eight independently adopt the tax-administration and registration ground stated here. All nine support the conviction affirmance; Stone adds no independent tax ground.
 
 **Controlling explanation:** For the independent eight-Justice ground, *Hale* supplies both the taxing-power basis and the distinction between personal arms protection and registration. The lower court's affiliation rationale is erroneous, but the valid registration ground does not depend on it. The count concerns three pipe bombs, not machinegun registration or an asserted inability to register post-1986 machineguns. The supported record establishes no refusal of a registration application or inability lawfully to approve these destructive devices. Thus vacating this conviction merely because the lower court used an invalid general arms premise would disregard the independently sufficient rule already governing the precise registration objection. The Court need not hold every explosive device outside constitutional protection to sustain this duty. Even assuming protected activity is implicated, this registration obligation does not materially obstruct ordinary defensive possession. Identification and tracing of explosive devices reasonably serve lawful tax administration and public safety. No arbitrary administration, discrimination or cumulative destruction is established. The five-Justice framework coalition therefore sustains the count at Stage 2 under deferential reasonableness review, without using that conclusion to resolve machinegun coverage or the possession prohibition.
 
@@ -147,7 +147,7 @@ The machinegun-count affirmance returns for application of both stages in the fi
 
 A nonfrivolous legal challenge unrelated to admitted factual guilt alone cannot disqualify an otherwise deserving defendant from section 3E1.1 credit. Genuine acceptance remains individualized, and the legally compromised sentence returns for lawful reconsideration. The Ninth Amendment ruling rejects the asserted independent exemption without adopting a general theory of unenumerated rights.
 
-#### Separate Writings
+#### Separate Positions Relevant to the Decision
 
 **Stevens, concurring in part and concurring in the judgment.** Part A, joined by all seven other Associates, independently sustains the pipe-bomb registration conviction under Hale's tax-administration and registration rules. Registration identifies and traces lawful making and transfer; personal possession and military usefulness do not establish an exemption. No denied application or legal inability to register these devices is established, and no universal late-registration duty is imposed. The eight adopt that sufficient ground without requiring exclusion of every explosive device from coverage.
 
@@ -165,7 +165,7 @@ The published remarks, rather than an independently available complete sentencin
 
 The merits review is complete. The mandate returns the case to the Eleventh Circuit for proceedings consistent with the decision: the one machinegun-count appellate affirmance is vacated for both stages of Core-Preservation Review in the first instance, the separate registration conviction remains affirmed, and the sentence is vacated for lawful section 3E1.1 reconsideration coordinated with the machinegun count's disposition. Existing-record adjudication or ordinary further proceedings may be used as genuinely needed; no hearing, new trial or particular charge is compelled. The conditional instruction request has no independent entitlement beyond its continuing procedural relevance under the preserved plea. No future Supreme Court return or filing date is established.
 
-**End of entry: United States v. Wright, Merits decision, October 5, 1998.**
+**End of entry: United States v. Wright, merits decision, October 5, 1998.**
 
 ---
 
@@ -175,15 +175,15 @@ Merits decision, October 7, 1998
 
 #### Chronology and Posture
 
-On review of the August 28, 1998 judgment of the United States Court of Appeals for the District of Columbia Circuit, 152 F.3d 998, reversing summary judgment for the United States and extending the official-use exception. The matter is considered on merits briefs; no oral-argument date is established. The questions concern the chiefs' representative standing and whether equality and the personal arms guarantee require that exception for the domestic-violence-misdemeanor category. The association seeks extension of the exception; the United States defends the statutory exclusion.
+On review of the D.C. Circuit's August 28, 1998 judgment, 152 F.3d 998, reversing summary judgment for the United States and extending the official-use exception. The matter is considered on merits briefs. The questions concern the chiefs' representative standing and whether equality and the personal arms guarantee require that exception for the domestic-violence-misdemeanor category. The association seeks extension of the exception; the United States defends the statutory exclusion.
 
-All nine Justices participate at submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer.
+All nine Justices participated.
 
 #### Judgment
 
 The Court reverses the judgment extending the official-use exception and remands, unanimously.
 
-| Component | Disposition | Vote | Supporting | Opposing |
+| Judgment component | Disposition and remedy | Vote | Supporting Justices | Opposing Justices |
 |---|---|---|---|---|
 | Standing for the developed official-use controversy | Recognized through the chief members and the association | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
 | Official-use exclusion challenged under equal protection and the personal arms guarantee | Sustain the exclusion; reverse the judgment extending the exception | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
@@ -191,19 +191,13 @@ The Court reverses the judgment extending the official-use exception and remands
 
 The judgment of the Court of Appeals is reversed and the case remanded. The Court neither enlarges section 925(a)(1) nor automatically reinstates every ground of the District Court's judgment. It decides no individual conviction-classification or restoration claim and no unpresented private-possession application.
 
-#### Opinion Topology
+#### Opinion of the Court
 
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Supports every judgment component. | Full opinion: standing, the developed official-use equality and arms objections, and the limited remand. |
-| Concurring opinion | Scalia | Thomas | Joins the Court in full. | Joins the Court in full; retains the methodological reservation stated in Wright while applying its controlling rule to this conduct-based disability. |
-| Concurring opinion | Stevens | Breyer | Joins the Court in full. | Joins the Court in full; emphasizes the concrete burden and justification presented by this conviction-defined class. |
-
-All nine directly join the stated controlling propositions; the concurrences withhold no part of this opinion.
+Justice Souter delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. The opinion covers standing, the developed official-use equality and arms objections, and the limited remand. Justice Scalia, joined by Justice Thomas, and Justice Stevens, joined by Justice Breyer, filed concurring opinions described below; the concurrences withhold no part of the Court's opinion.
 
 #### Controlling Propositions and Authority
 
-**Common authority:** Souter's Opinion of the Court is joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. Every holding below has nine direct joins; no judgment-only aggregation or fractured-decision rule is used.
+**Authority:** Souter's unanimous Opinion of the Court controls every holding below.
 
 ##### Standing for this official-use controversy
 
@@ -215,7 +209,7 @@ All nine directly join the stated controlling propositions; the concurrences wit
 
 **Holding and operative rule:** Congress may withhold section 925(a)(1)'s governmental-use exception from the domestic-violence-misdemeanor supply and possession provisions while retaining that exception for the felony provision when the distinction rationally closes a practical gap in restrictions on access to weapons. The Fifth Amendment does not require Congress simultaneously to perfect every older exemption, and the challenged exclusion satisfies that rule on the developed official-use claim.
 
-**Controlling explanation:** Domestic-violence misdemeanants are not a suspect class. *Beach* and *Lee Optical* permit incremental regulation on a conceivable legitimate ground, while *Heller v. Doe* and *Romer* require a relation between the actual disadvantage and a legitimate end. The covered offenses concern force, attempted force or threatened deadly-weapon use within the statutory domestic relationships, with the conviction safeguards and relief qualifications stated below. Congress could address violent conduct treated as a misdemeanor even though the older felony regime and overlapping state or professional rules already remove many felons from armed work. Preventing official issuance from defeating the newly enacted disability fits that gap.
+**Controlling explanation:** Domestic-violence misdemeanants are not a suspect class. *Beach* and *Lee Optical* permit incremental regulation on a conceivable legitimate ground, while *Heller v. Doe* and *Romer* require a relation between the actual disadvantage and a legitimate end. The covered offenses concern force, attempted force or threatened deadly-weapon use within the statutory domestic relationships, with the conviction safeguards and relief qualifications stated below. Congress could address violent conduct treated as a misdemeanor even though the older felony regime and overlapping state or professional rules already remove many felons from armed work. Preventing official issuance from defeating the newly enacted disability fits that gap. This is a conceivable justification, not a finding that Congress adopted it or that the government advanced it in its brief.
 
 The contrary comparison is substantial: a less serious offense may produce a heavier official-use disability, and state restrictions and relief differ. But Congress need not conclude that misdemeanants are more dangerous than felons to close an inadequately covered route of access. The solution's incompleteness does not make that connection irrational. The Court assumes neither that every State excludes every felon nor that a public-safety label alone answers equality review. The statutory avenues for conviction relief also foreclose describing this disability as literally without relief. No claim of a universal constitutional restoration procedure is decided.
 
@@ -262,7 +256,7 @@ A conviction does not count when expunged or set aside, or when the person was p
 
 Effective October 7, 1998, the developed official-use exclusion survives the equality and personal-arms challenges, and the judicial extension of section 925(a)(1) is reversed. The Court applies associational-standing and rationality doctrine to this uniform official-supply controversy, and Wright's Core-Preservation Review separately governs the arms objection. The qualifying domestic-violence disability is a substantial regulation of particular persons satisfying intermediate scrutiny on this record; personal protection does not compel an official-use exception. All statutory conviction safeguards, relief exclusions and governmental-channel qualifications remain operative. Private-possession applications, individual classification and restoration disputes, never-lost civil rights, and any properly preserved unresolved commerce or commandeering ground remain outside this decision's merits holding.
 
-#### Separate Writings
+#### Separate Positions Relevant to the Decision
 
 **Justice Scalia, concurring, joined by Justice Thomas.** They join the Court's opinion in full. They retain their Wright objection to a general tiered methodology and their preference for text and history, but accept Wright as the governing rule. The present restriction rests on adjudicated violent conduct, process safeguards and the practical availability of an official weapon, rather than denial of personal protection or an unbounded public-safety assertion. That concrete ground supports the Court's intermediate-scrutiny application without an absolute official-use entitlement. Their concurrence decides no broader category of disqualified persons.
 
@@ -270,7 +264,7 @@ Effective October 7, 1998, the developed official-use exclusion survives the equ
 
 #### Source Notes
 
-The August 28, 1998 D.C. Circuit opinion establishes the original judgment, chief members' asserted injury, developed official-use controversy and limits of the broader theories. The statutory provisions are the 1997 versions of 18 U.S.C. sections 921, 922, 925 and 928. Their printed section 921(a)(33)(A) cross-reference to subparagraph (C) has no identified counterpart; no issue concerning that anomaly is decided. The published record supplies no individual officer's complete conviction, rehabilitation or private-possession facts.
+The August 28, 1998 D.C. Circuit opinion establishes the original judgment, chief members' asserted injury, developed official-use controversy and limits of the broader theories. The statutory provisions are the 1997 versions of 18 U.S.C. sections 921, 922, 925 and 928. Their printed section 921(a)(33)(A) cross-reference to subparagraph (C) has no counterpart in the statutory text available here; no issue concerning that anomaly is decided. The published record supplies no individual officer's complete conviction, rehabilitation or private-possession facts.
 
 [Original D.C. Circuit opinion](https://www.govinfo.gov/content/pkg/USCOURTS-caDC-97-05304/pdf/USCOURTS-caDC-97-05304-0.pdf); [section 921](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec921.pdf); [section 922](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec922.pdf); [section 925](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec925.pdf); [section 928](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec928.pdf).
 
@@ -278,7 +272,7 @@ The August 28, 1998 D.C. Circuit opinion establishes the original judgment, chie
 
 The case returns to the D.C. Circuit for proceedings consistent with this opinion, including any properly preserved and undecided grounds. No statutory exception is enlarged. Undeveloped or abandoned theories are not revived; no individual restoration, conviction-validity or private-possession claim is adjudicated.
 
-**End of entry: Fraternal Order of Police v. United States, Merits decision, October 7, 1998.**
+**End of entry: Fraternal Order of Police v. United States, merits decision, October 7, 1998.**
 
 ---
 
@@ -288,19 +282,19 @@ Merits decision, October 9, 1998
 
 #### Chronology and Posture
 
-On writ of certiorari to the United States Court of Appeals for the Eleventh Circuit after merits briefing. The September 21, 1998 appellate judgment, 155 F.3d 1276, adopted the July 2, 1997 order in National Association of Government Employees, Inc. v. Barrett, 968 F. Supp. 1564, dismissing the surviving constitutional action. No argument or precise submission date is established.
+On writ of certiorari to the United States Court of Appeals for the Eleventh Circuit after merits briefing. The September 21, 1998 appellate judgment, 155 F.3d 1276, adopted the July 2, 1997 order in National Association of Government Employees, Inc. v. Barrett, 968 F. Supp. 1564, dismissing the surviving constitutional action.
 
 Hiley pleaded no contest to misdemeanor domestic battery in August 1995 and received twelve months of nonreporting probation. After enactment of the federal disability, the sheriff removed him from armed-deputy work in January 1997. Settlement rescinded termination, reassigned him to detention work and provided restoration to the deputy position if he prevailed. Claims against the county and sheriff were dismissed with prejudice. NAGE represents similarly affected members.
 
 The surviving questions concern commerce, three equality theories, substantive employment rights, ex post facto, attainder and the Tenth Amendment. The separate abandonments of strict scrutiny and procedural due process limit review. This is a prospective civil challenge arising from employment injury, not a firearm prosecution or a newly preserved private-possession claim.
 
-All nine Justices participate at submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No case-specific nonparticipation is established.
+All nine Justices participated.
 
 #### Judgment
 
 The Court affirms the judgment dismissing the surviving federal constitutional action, unanimously, on the separate grounds stated below.
 
-| Component | Disposition | Vote | Supporting | Opposing |
+| Judgment component | Disposition and remedy | Vote | Supporting Justices | Opposing Justices |
 |---|---|---|---|---|
 | Hiley and NAGE standing; ripeness | Retain jurisdiction over the live federal prospective action | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
 | Strict-scrutiny request, procedural due process and settled local claims | Respect the separate abandonments and closed settlement; no new arms claim | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
@@ -319,12 +313,12 @@ The Eleventh Circuit judgment affirming dismissal of the surviving federal const
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court, Parts I-X | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer in full | Supports every judgment component. | Eight direct votes throughout; Stone-Zsela concurs in every component judgment without joining the opinion. |
-| Opinion concurring in the judgment | Stone-Zsela | — | Agrees in every judgment component; joins no part of the Court opinion. | Supports the complete affirmance on his stated grounds; joins no part of the Court's opinion. |
+| Opinion of the Court, Parts I-X | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer in full | Affirms dismissal of the surviving action. | Eight direct votes throughout; Stone-Zsela concurs in every component judgment without joining the opinion. |
+| Opinion concurring in the judgment | Stone-Zsela | — | Concurs in every component judgment; joins no part of the Court opinion. | Supports the complete affirmance on his stated grounds; joins no part of the Court's opinion. |
 
 #### Controlling Propositions and Authority
 
-**Authority:** O'Connor's Opinion of the Court, Parts I-X, is joined in full by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Those eight Justices adopt every holding below. Stone-Zsela agrees in every component judgment without joining the opinion and states his grounds separately. No fractured-decision inference supplies controlling law.
+**Authority:** O'Connor's Opinion of the Court, with the eight-Justice coalition identified above, controls every holding below. The Chief Justice concurs in the judgment without joining the opinion.
 
 ##### I. The continuing employment injury supports standing and present review
 
@@ -422,9 +416,9 @@ Effective October 9, 1998, section 922(g)(9) survives the presented facial comme
 
 The three preserved equality theories and the substantive employment claim fail on their separate grounds. The prospective conduct rule survives the Ex Post Facto challenge, and the distinct attainder inquiry finds no legislative punishment here. The direct rule commands no state administration on the presented record. Wright's Core-Preservation Review and Fraternal Order of Police's intermediate-scrutiny application remain governing for preserved arms challenges. This decision does not adjudicate Hiley's abandoned arms claim. Other abandoned claims, a genuinely different private-possession application, individual qualification and restoration disputes, and criminal notice or mental-state questions remain unadjudicated. Stone-Zsela's additional personal-right application and never-lost-rights interpretation are noncontrolling.
 
-#### Separate Writings
+#### Separate Positions Relevant to the Decision
 
-**Chief Justice Stone-Zsela, concurring in the judgment, unjoined.** He agrees with the entire affirmance on his stated grounds without joining the Court's opinion. He preserves a distinct personal-right and classification ground. *Love* protects persons but does not make adjudicated violent conduct irrelevant. The force, attempted-force or deadly-weapon predicate within a domestic relationship, together with counsel and jury-where-entitled protections and the statute's relief provisions, connects the disability to preventing armed recurrence. A misdemeanor label and armed employment do not eliminate that connection. Hiley's particular predicate is treated as qualifying here; no different conviction is before the Court.
+**Chief Justice Stone-Zsela, concurring in the judgment, unjoined.** He agrees with the entire affirmance on his stated grounds without joining the Court's opinion. He preserves a distinct personal-right and classification ground. *Love* protects persons but does not make adjudicated violent conduct irrelevant. The force, attempted-force or deadly-weapon predicate within a domestic relationship, together with counsel and jury-where-entitled protections and the statute's relief provisions, connects the disability to preventing armed recurrence. A misdemeanor label and armed employment do not eliminate that connection. Hiley's particular predicate is treated as qualifying in this action.
 
 He would not rewrite retained civil rights as restored rights merely because state systems differ or some misdemeanors caused no initial rights loss. That statutory position goes beyond the Court's decision to leave the never-lost-rights construction unresolved. His personal-right discussion supplies his alternative ground for rejecting the preserved classification challenge; it does not adjudicate an arms cause or revive procedural due process. He recognizes that a preserved Second Amendment challenge would be governed by Wright's Core-Preservation Review as Fraternal Order of Police applies it; Hiley abandoned that claim, so no further arms question is decided here. He approves no disarmament based on any misdemeanor, an allegation or a nonviolent status, and leaves a genuinely different as-applied record open.
 
@@ -434,13 +428,13 @@ He retains jurisdiction because successful federal relief would restore Hiley's 
 
 The [September 21, 1998 appellate opinion](https://hallapproved.com/us/cases/ca11/1998/7071256/) adopts the [July 2, 1997 district order](https://hallapproved.com/ga/cases/federal/district/1997/1948100/). The latter supplies the employment and settlement posture, the three equality theories, and footnotes 6, 11, 16 and 18 concerning injury, the two abandonments and the separate punishment inquiries. The authorities quoted in the lower opinion do not displace the Court's governing decisions.
 
-The [official 1997 section 921](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec921.pdf), [section 922](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec922.pdf) and [section 925](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec925.pdf) supply the statutory conditions. Section 921(a)(33)(A)'s printed reference to subparagraph (C) has no identified counterpart; no question about that anomaly is decided. The published recitations support the described posture; no additional term from an unavailable original complaint, settlement or transcript is inferred.
+The [official 1997 section 921](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec921.pdf), [section 922](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec922.pdf) and [section 925](https://www.govinfo.gov/content/pkg/USCODE-1997-title18/pdf/USCODE-1997-title18-partI-chap44-sec925.pdf) supply the statutory conditions. Section 921(a)(33)(A)'s printed reference to subparagraph (C) has no counterpart in the statutory text available here; no question about that anomaly is decided. The published recitations establish the described posture. The original complaint, settlement and transcript are unavailable beyond those recitations.
 
 #### Mandate, Remedy, and Stage
 
 The dismissal of the surviving federal action is affirmed. No preliminary or permanent injunction, reinstatement, damages award or merits remand issues. The county and sheriff claims remain dismissed with prejudice under the settlement. No firearm conviction or sentence, later criminal notice defense, settlement-breach claim or new private-arms cause is adjudicated. No further Supreme Court proceeding is directed.
 
-**End of entry: Hiley v. Barrett, Merits decision, October 9, 1998.**
+**End of entry: Hiley v. Barrett, merits decision, October 9, 1998.**
 
 ---
 
@@ -520,19 +514,19 @@ Merits decision, October 15, 1998
 
 #### Chronology and Posture
 
-On writ of certiorari to the United States Court of Appeals for the Sixth Circuit after full merits briefing. The July 15, 1998 appellate judgment, 152 F.3d 522, reviewed the district judgment at 925 F. Supp. 1254, sustained pre-enforcement review, invalidated the five assault-weapon definitions and former-city-registration classifications, and sustained the remaining magazine exceptions. No argument or precise submission date is established.
+On writ of certiorari to the United States Court of Appeals for the Sixth Circuit after full merits briefing. The July 15, 1998 appellate judgment, 152 F.3d 522, reviewed the district judgment at 925 F. Supp. 1254, sustained pre-enforcement review, invalidated the five assault-weapon definitions and former-city-registration classifications, and sustained the remaining magazine exceptions.
 
 The questions concern present review, fair notice and enforcement guidance under the separate weapon definitions, and the firearm and magazine grandfather classifications. Section 2323.31(A) prohibits selling, offering or displaying for sale, giving, lending, transferring ownership of, acquiring or possessing an assault weapon. Smolak owns a four-round detachable-magazine hunting rifle and knows of no larger compatible magazine. Walker owns an M1 carbine originally using fifteen-round magazines for which later thirty-round magazines exist. Members also identify uncertainty about handgun design history. The City expressly intends prosecutions; the former registration window closed in November 1989. The owners seek declaratory and injunctive relief, not damages.
 
 No independent federal Second Amendment claim is adjudicated. The lower court's Ohio constitutional disposition is outside these federal questions. Personal arms protection nevertheless forms part of the governing legal context.
 
-All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No case-specific nonparticipation is established.
+All nine Justices participated.
 
 #### Judgment
 
 The Court announces its signed merits decision affirming in part, reversing in part and remanding.
 
-| Component | Disposition | Vote | Supporting | Opposing |
+| Judgment component | Disposition and remedy | Vote | Supporting Justices | Opposing Justices |
 |---|---|---|---|---|
 | Pre-enforcement standing and ripeness | Affirm present review | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
 | Section 2323.11(G)(1): rifle or carbine | Reverse categorical vagueness invalidation under the actual-magazine and fault conditions | 8-1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela |
@@ -555,13 +549,13 @@ The Sixth Circuit judgment is affirmed in part and reversed in part. Its relief 
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court, Parts I-XI | Thomas | O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer in full; Stevens except Part IX | Supports the component judgments; Stevens dissents from the two city-registration outcomes. | Eight direct rationale votes in Parts I-VIII and X-XI; seven in Part IX, which sustains both former-city-registration selectors. |
-| Opinion concurring in part and dissenting in part | Stevens | — | Agrees in all other components and in the common severability direction. | Joins Parts I-VIII and X-XI; dissents from Part IX and would affirm invalidity of both former-city-registration classifications. |
-| Opinion concurring in the judgment in part and dissenting in part | Stone-Zsela | — | Agrees and dissents at the component scopes stated here; joins no part of the Court opinion. | Joins no part of the Court's opinion. Agrees on present review, both modification-branch invalidations and the surviving NFA and inert-object magazine exceptions; would affirm invalidity of the other challenged definitions and both former-city-registration selectors. |
+| Opinion of the Court, Parts I-XI | Thomas | O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer in full; Stevens except Part IX | Affirms in part, reverses in part and remands. | Eight Justices join Parts I-VIII and X-XI; seven join Part IX, which sustains both former-city-registration selectors. |
+| Opinion concurring in part and dissenting in part | Stevens | — | Concurs except as to both former-city-registration classifications; supports the common severability direction. | Joins Parts I-VIII and X-XI; dissents from Part IX and would affirm invalidity of both former-city-registration classifications. |
+| Opinion concurring in the judgment in part and dissenting in part | Stone-Zsela | — | Concurs in the judgment in part; dissents in part and would affirm the broader relief below. | Joins no part of the Court's opinion. Agrees on present review, both modification-branch invalidations and the surviving NFA and inert-object magazine exceptions; would affirm invalidity of the other challenged definitions and both former-city-registration selectors. |
 
 #### Controlling Propositions and Authority
 
-**Authority:** Thomas's Opinion of the Court is joined in full by O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. Stevens joins every part except Part IX. Accordingly, eight Justices directly adopt Parts I-VIII and X-XI; seven directly adopt Part IX. Stone-Zsela's component judgment votes add no opinion join. Each holding below is majority law on that direct support; no fractured-decision inference is needed.
+**Authority:** Thomas's Opinion of the Court controls every holding below: Parts I-VIII and X-XI have the eight-Justice coalition identified above; Part IX has seven. The Chief Justice joins no part of the opinion.
 
 ##### I. The identified owners may seek present review
 
@@ -573,7 +567,7 @@ The Sixth Circuit judgment is affirmed in part and reversed in part. Its relief 
 
 **Holding and operative rule:** Section 2323.31(A)'s silence does not plainly negate section 2301.21(B)'s enacted recklessness default: culpability is unnecessary only where the offense plainly indicates strict liability; otherwise recklessness suffices for the silent offense. In applying these definitions, the City must prove heedless indifference and perverse disregard of a known risk that the prohibited circumstance was likely to exist; that fault condition can address ignorance of an intelligibly defined characteristic but cannot supply an undefined legal boundary.
 
-**Controlling explanation:** Deletion of the former express knowledge term, while the magazine offense retains one, establishes different wording but does not by itself erase the express default. The lower court's strict-liability conclusion was its construction, not an enacted command. The City's first invocation of the default on appeal and its inconsistent proposed knowledge gloss are distinct: the Court applies the enacted default, not a prosecutor-created amendment. *Fargo* and *Women's Medical* require separate examination of definition, fault and substantive validity. *Grayned* supplies notice and practical guidance; *Kolender* independently requires standards constraining enforcement. *Hoffman Estates* makes context, sanctions and protected activity relevant without automatically invalidating every criminal prohibition. *Staples* separates knowledge of characteristics from knowledge of illegality but does not impose its federal actual-knowledge construction on this ordinance. *Love* defeats the premise that personal keeping has no constitutional protection; it supplies neither First Amendment overbreadth nor the abortion-specific *Casey* facial test. The following rulings depend on the constructions stated here; no earlier authoritative Ohio interpretation establishes them. No universal knowledge-of-illegality or actual-knowledge minimum is adopted.
+**Controlling explanation:** Deletion of the former express knowledge term, while the magazine offense retains one, establishes different wording but does not by itself erase the express default. The lower court's strict-liability conclusion was its construction, not an enacted command. The City's first invocation of the default on appeal and its inconsistent proposed knowledge gloss are distinct: the Court applies the enacted default, not a prosecutor-created amendment. *Fargo* and *Women's Medical* require separate examination of definition, fault and substantive validity. *Grayned* supplies notice and practical guidance; *Kolender* independently requires standards constraining enforcement. *Hoffman Estates* makes context, sanctions and protected activity relevant without automatically invalidating every criminal prohibition. *Staples* separates knowledge of characteristics from knowledge of illegality but does not impose its federal actual-knowledge construction on this ordinance. *Love* defeats the premise that personal keeping has no constitutional protection; it supplies neither First Amendment overbreadth nor the abortion-specific *Casey* facial test. The following rulings depend on the Court's express constructions; no earlier authoritative Ohio narrowing interpretation is established. No universal knowledge-of-illegality or actual-knowledge minimum is adopted.
 
 ##### III. An existing compatible rifle magazine supplies an intelligible criterion
 
@@ -585,7 +579,7 @@ The Sixth Circuit judgment is affirmed in part and reversed in part. Its relief 
 
 **Holding and operative rule:** Section 2323.11(G)(2) covers a semiautomatic shotgun whose magazine accepts more than six rounds of actual compatible ammunition, subject to the enacted fault condition. Different lengths of compatible shells do not make that physical-capacity criterion facially unintelligible; imaginary ammunition or an unproved alteration cannot establish it.
 
-**Controlling explanation:** The owners urge a single measuring shell. The enacted criterion instead asks whether the magazine can hold more than six compatible rounds of an actual length. That inquiry is measurable despite different available lengths. Fault remains separate, so an owner's unknowing encounter with a shorter shell is not strict liability. *Fargo* and *Women's Medical* distinguish an intelligible criterion from proof of fault about its application. The Court adopts no new measuring standard or universal knowledge requirement, and assumes no hypothetical weapon alteration. A disputed individual application remains subject to proof of every applicable element.
+**Controlling explanation:** The owners urge a single measuring shell. The enacted criterion instead asks whether the magazine can hold more than six compatible rounds of an actual length. That inquiry is measurable despite different available lengths. Fault remains separate, so an owner's unknowing encounter with a shorter shell is not strict liability. *Fargo* and *Women's Medical* distinguish an intelligible criterion from proof of fault about its application. The Court adopts no new measuring standard or universal knowledge requirement and assumes no hypothetical weapon alteration. A disputed individual application remains subject to proof of every applicable element.
 
 ##### V. Both modification branches lack the relationship that defines the offense
 
@@ -605,7 +599,7 @@ The local automatic-firearm predicate includes a firearm designed or specificall
 
 **Holding and operative rule:** Section 2323.11(G)(4) reaches an existing firearm capable of restoration to a former operable condition satisfying an independently valid (G)(1), (G)(2) or (G)(3)(b) definition, with separate fault. It does not permit enforcement based on an invalid modification predicate, raw materials treated as a restored firearm, or unsupported theoretical reconstruction.
 
-**Controlling explanation:** Restoration denotes return to a former condition, and the word may states actual capability. The absence of a readily qualifier broadens the range beyond easy repair; it does not erase that intelligible relationship. *Grayned* does not demand a numerical standard for every practical criterion. The City must establish the former covered condition and real capability of return. The Court does not invent a universal time, cost, skill or machine-shop threshold. Disagreement about necessary work can present an application question, but the lower court's blanket invalidity does not follow. References to the invalid modification branches remain unavailable as independent predicates.
+**Controlling explanation:** Restoration denotes return to a former condition, and the word may states actual capability. The absence of a readily qualifier broadens the range beyond easy repair; it does not erase that intelligible relationship. *Grayned* does not demand a numerical standard for every practical criterion. The City must establish the former covered condition and real capability of return. The Court sets no universal time, cost, skill or machine-shop threshold. Disagreement about necessary work can present an application question, but the lower court's blanket invalidity does not follow. References to the invalid modification branches remain unavailable as independent predicates.
 
 ##### VIII. The two parts branches retain different conditions
 
@@ -660,7 +654,7 @@ Effective October 15, 1998, the two undefined handgun-modification branches rema
 
 The two former-city-registration exceptions and the distinct NFA and inert-object magazine alternatives survive the presented ordinary equality challenges. No new registry, individual exemption adjudication or substantive assault-weapon ruling is created. Love's personal protection remains governing. A materially different construction or prosecution cannot claim validation from this decision. Ohio severability and conforming relief remain for the lower courts.
 
-#### Separate Writings
+#### Separate Positions Relevant to the Decision
 
 **Justice Stevens, concurring in part and dissenting in part, unjoined.** He joins the Court's threshold, fault, definition and noncity-exception analyses and its common severability principles. He would affirm invalidity of both former-city-registration selectors. His Nordlinger objection to entrenched ownership and family preferences and his Heller and Romer positions require a meaningful relation to an impartial public purpose. Lawful pre-existing owners who registered and those unable to identify the invalid old duty are alike in the ownership reliance invoked here. Owners first covered by the replacement ordinance had no meaningful opportunity to enter the only registry. For him those defects disconnect the closed registry from the claimed protection, even though actual registration occurred. A clear prospective cutoff or an opportunity for all covered prior owners would present a different case. He does not require universal grandfathering, invalidate the independent NFA or inert-object exceptions, or design a replacement scheme.
 
@@ -668,19 +662,19 @@ The two former-city-registration exceptions and the distinct NFA and inert-objec
 
 In his view, the rifle definition does not choose among actual magazine possession, commercial availability and merely possible manufacture; the shotgun definition does not select a measuring shell length. Undefined modification and inaccessible original handgun-design history compound the handgun defect. Restoration and parts provisions inherit those uncertainties and add uncertain assembly conditions. Criminal exposure without a clear culpability safeguard makes those defects consequential for ordinary owners and grants enforcement discretion the text does not constrain. The City's conflicting suggested knowledge standard cannot rewrite the ordinance. He therefore does not adopt the Court's default-fault and definition constructions. Love reinforces intelligible notice for protected keeping but establishes neither a right to every listed weapon nor a judicially chosen capacity limit.
 
-He rejects grandfathering based on success in guessing an invalid 1989 registration duty. That objection reaches section 2323.31(B)(3) and the matching city clause in section 2323.32(B)(2). NFA registration instead supplies an independent, intelligible reliance basis. Its broader coverage than magazines individually used with the registered firearm survives ordinary rationality under Romer without exact tailoring. He also agrees with the judgment sustaining the separate related inert-object magazine exception, adding no ground on that component. He would implement the declaratory and injunctive relief for the invalid provisions, preserve separable valid exceptions, and enact neither damages nor a fresh registry. He decides no unpresented substantive arms claim and joins no part of the Court's opinion.
+He rejects grandfathering based on success in guessing an invalid 1989 registration duty. That objection reaches section 2323.31(B)(3) and the matching city clause in section 2323.32(B)(2). NFA registration instead supplies an independent, intelligible reliance basis. Its broader coverage than magazines individually used with the registered firearm survives ordinary rationality under Romer without exact tailoring. He also agrees with the judgment sustaining the separate related inert-object magazine exception. He would implement the declaratory and injunctive relief for the invalid provisions, preserve separable valid exceptions, and enact neither damages nor a fresh registry. He decides no unpresented substantive arms claim and joins no part of the Court's opinion.
 
 #### Source Notes
 
 The [published July 15, 1998 appellate opinion](https://openjurist.org/152/f3d/522), including the dissent and footnotes, supplies the ordinance text, procedural history, reported affidavits, express enforcement threat and account of the district judgment at 925 F. Supp. 1254. The quoted municipal text in the appellate opinion is the statutory source for the provisions addressed; no additional original compilation, affidavit or authoritative Ohio narrowing decision is established.
 
-Section 2323.32(B)(2) is the magazine exemption; the appellate discussion's isolated (B)(3) label does not change the provision. Section 2323.11(G)(3)(a)'s printed (a)(1) cross-reference is read as (G)(1), as explained in that opinion's footnote 2. The decision resolves the identified federal claims; it adjudicates no new Ohio constitutional or independent federal arms count.
+Section 2323.32(B)(2) is the magazine exemption; the appellate discussion's isolated (B)(3) label does not change the provision. Section 2323.11(G)(3)(a)'s printed (a)(1) cross-reference is read as (G)(1), as explained in that opinion's footnote 2. The decision resolves the identified federal claims, without a new Ohio constitutional or independent federal arms count.
 
 #### Mandate, Remedy, and Stage
 
 The judgment is affirmed in part and reversed in part, and the cause is remanded through the Sixth Circuit for Ohio severability and conforming declaratory and injunctive relief. The two modification-branch defects remain established. No independent enforcement can rest on those predicates, and reversal of the other categorical rulings does not itself establish any owner's criminal liability or direct blanket enforcement. No filing deadline, mandatory new evidentiary hearing or later Supreme Court return is ordered.
 
-**End of entry: Peoples Rights Organization, Inc. v. City of Columbus, Merits decision, October 15, 1998.**
+**End of entry: Peoples Rights Organization, Inc. v. City of Columbus, merits decision, October 15, 1998.**
 
 ---
 
@@ -690,7 +684,7 @@ Consolidated merits decision, October 22, 1998
 
 #### Chronology and Posture
 
-On writ of certiorari to the United States Court of Appeals for the Second Circuit after full merits briefing. The September 11, 1998 appellate judgment, 157 F.3d 90, affirmed the Southern District of New York judgments. No argument or exact submission date is established.
+On writ of certiorari to the United States Court of Appeals for the Second Circuit after full merits briefing. The September 11, 1998 appellate judgment, 157 F.3d 90, affirmed the Southern District of New York judgments.
 
 Robert Franklyn, also known as Franklin, was convicted by a jury in March 1997 of Count One, machinegun possession under 18 U.S.C. sections 922(o) and 2, and Count Two, felon ammunition possession under sections 922(g) and 2. Ralph Gonzalez, also known as Raphael Quinones, pleaded guilty on February 24, 1997 to Count Three, felon ammunition possession under sections 922(g) and 2; he received 63 months on July 2, 1997.
 
@@ -698,13 +692,13 @@ On March 9, 1996, Bronx officers responding to gunfire saw Franklyn drop a duffe
 
 The questions concern Franklyn's machinegun-commerce, racial-strike and related counsel claims; Gonzalez's separate ammunition-commerce objection; and his base offense level, discharge departure, criminal-history departure and objection to use of evidence from Franklyn's trial. His within-range selection remains distinct from an obstruction enhancement. No Second Amendment claim is presented.
 
-All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No case-specific nonparticipation is established.
+All nine Justices participated.
 
 #### Judgment
 
 The Court announces its signed decision affirming both consolidated judgments.
 
-| Component | Disposition | Vote | Supporting | Opposing |
+| Judgment component | Disposition and remedy | Vote | Supporting Justices | Opposing Justices |
 |---|---|---|---|---|
 | Franklyn: Count One, section 922(o) commerce objection | Affirm conviction against the presented commerce challenge | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
 | Gonzalez: Count Three, separate section 922(g) commerce objection | Affirm ammunition conviction against that challenge | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
@@ -716,18 +710,18 @@ The Court announces its signed decision affirming both consolidated judgments.
 | Gonzalez: evidence from Franklyn's trial | Reject categorical exclusion; preserve reliability, burden and opportunity requirements | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
 | Gonzalez: final range and sentence | Affirm 63 months within the 51–63-month range; no new obstruction enhancement | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
 
-Both appellate judgments are affirmed. Franklyn's two convictions remain undisturbed against his presented issues; Gonzalez's separate ammunition conviction and 63-month sentence remain undisturbed against his issues. No new trial, sentencing hearing, resentencing, acquittal or remand is ordered. The Court addresses no separate sentencing claim by Franklyn and grants no relief on an unpresented arms claim.
+Both appellate judgments are affirmed. Franklyn's two convictions remain undisturbed against his presented issues; Gonzalez's separate ammunition conviction and 63-month sentence remain undisturbed against his issues. No new trial, sentencing hearing, resentencing, acquittal or remand is ordered. The Court grants no relief on an unpresented arms claim.
 
 #### Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court, Parts I-VIII | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Supports every judgment component. | Full opinion: the two distinct commerce grounds; ultimate racial-purpose finding; counsel prejudice; base level; discharge; bounded criminal-history review; other-trial evidence and within-range selection. Eight direct rationale votes throughout. |
-| Opinion concurring in the judgment | Stone-Zsela | — | Agrees in every judgment component; joins no part of the Court opinion. | Agrees in all component judgments on his stated grounds and qualifications, adding no ground on the separately identified ammunition-commerce and other-trial-evidence/range components. Joins no part of the Court's opinion. |
+| Opinion of the Court, Parts I-VIII | Ginsburg | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Affirms both judgments. | Full opinion: the two distinct commerce grounds; ultimate racial-purpose finding; counsel prejudice; base level; discharge; bounded criminal-history review; other-trial evidence and within-range selection. All eight join the entire opinion. |
+| Opinion concurring in the judgment | Stone-Zsela | — | Concurs in every component judgment; joins no part of the Court opinion. | Agrees in all component judgments on his stated grounds and qualifications. Joins no part of the Court's opinion. |
 
 #### Controlling Propositions and Authority
 
-**Authority:** Ginsburg's Opinion of the Court, Parts I-VIII, is joined in full by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Those eight Justices directly adopt every holding and independently sufficient ground below. Stone-Zsela agrees in the judgments without joining the opinion; no inference from his votes supplies additional rationale support. No fractured-decision analysis is necessary.
+**Authority:** Ginsburg's Opinion of the Court, with the eight-Justice coalition identified above, controls every holding and independently sufficient ground below. The Chief Justice concurs in the judgments without joining the opinion.
 
 ##### I. Franklyn's retained machinegun falls within the transfer-and-stock mechanism
 
@@ -741,13 +735,13 @@ Section 922(o)(2) retains transfers to or by, and possession by or under the aut
 
 **Holding and operative rule:** Section 922(g)(1)'s restriction on a qualifying convicted recipient's acquisition and retention of firearms and ammunition is a fitted anti-evasion component of section 922(d)(1)'s convicted-person supply restriction, which forbids sale or other disposition of firearms or ammunition when the supplier knows or has reasonable cause to believe the recipient has been convicted of a crime punishable by imprisonment exceeding one year. That connection defeats Gonzalez's separate commerce objection; the stipulated interstate movement of the ammunition satisfies the enacted nexus here, but past movement alone is not the constitutional mechanism.
 
-**Controlling explanation:** For the convicted-person branch at issue, section 922(d)(1) prohibits sale or other disposition when the supplier knows or has reasonable cause to believe the recipient has the qualifying conviction. For the qualifying convicted-person class at issue, a corresponding possession restriction prevents the recipient from defeating that supply rule by acquiring and retaining the prohibited supply. *Hiley* establishes the method for the different domestic-violence-recipient structure; this is an application to the separately identified felon-supply provision, not a claim that Hiley already decided section 922(g)(1). The machinegun-stock rule of Part I does not automatically answer this count. The independent nexus remains part of the enacted offense, and no new conviction category, conviction-status finding or mental-state rule is supplied. Gonzalez's plea does not replace examination of his presented constitutional objection. No independent arms claim is decided.
+**Controlling explanation:** For the convicted-person branch at issue, section 922(d)(1) prohibits sale or other disposition when the supplier knows or has reasonable cause to believe the recipient has the qualifying conviction. For the qualifying convicted-person class at issue, a corresponding possession restriction prevents the recipient from defeating that supply rule by acquiring and retaining the prohibited supply. *Hiley* establishes the method for the different domestic-violence-recipient structure; this is an application to the separately identified felon-supply provision, not a claim that Hiley already decided section 922(g)(1). The machinegun-stock rule of Part I does not automatically answer this count. The independent nexus remains part of the enacted offense. The Court adopts no new conviction category or mental-state rule and makes no new conviction-status finding. Gonzalez's plea does not replace examination of his presented constitutional objection. No independent arms claim is decided.
 
 ##### III. The actual ultimate discrimination finding sustains rejection of Franklyn's Batson claim
 
 **Holding and operative rule:** After explanations are offered, the court must actually determine whether purposeful racial discrimination has been proved; facially neutral wording alone does not complete that inquiry. A supported ultimate credibility and purpose finding is reviewed for clear error, and the actual finding of no purposeful discrimination here supplies an independent ground to reject Franklyn's claim.
 
-**Controlling explanation:** *Batson* preserves the initial inference, production of explanations and ultimate persuasion inquiry. *Hernandez* requires attention to the actual credibility finding and supports clear-error review. The Government used three of six peremptory strikes against three of four Black panel members. That pattern requires examination; it is not dismissed as irrelevant. The trial judge heard explanations and separately found no discriminatory intent, and the appellate court examined that determination. No identified clear error warrants displacement of that finding on the supported record. The published account does not reproduce the individual explanations and cannot support a juror-by-juror comparison of them. *Trevino* and *McCollum* retain the ordinary staged burdens; *J.E.B.* confirms that a neutral label cannot defeat supported pretext, without converting this racial inquiry into a cause challenge. If the transcript established only facial neutrality, the missing ultimate finding could not be replaced by deference. The reported actual finding supports this disposition. Counsel's objection came after voir dire, dismissal of the challenged jurors and lunch recess, impairing contemporaneous correction. The alternative merits ground makes a universal objection deadline unnecessary; no categorical forfeiture rule is announced.
+**Controlling explanation:** *Batson* preserves the initial inference, production of explanations and ultimate persuasion inquiry. *Hernandez* requires attention to the actual credibility finding and supports clear-error review. The Government used three of six peremptory strikes against three of four Black panel members. That pattern requires examination; it is not dismissed as irrelevant. The trial judge heard explanations and separately found no discriminatory intent, and the appellate court examined that determination. No identified clear error warrants displacement of that finding on the supported record. The published account does not reproduce the individual strike explanations. The Court's decision rests on the reported ultimate discrimination finding, without additional strike reasons or a comparative-juror analysis. *Trevino* and *McCollum* retain the ordinary staged burdens; *J.E.B.* confirms that a neutral label cannot defeat supported pretext, without converting this racial inquiry into a cause challenge. If the transcript established only facial neutrality, the missing ultimate finding could not be replaced by deference. The reported actual finding supports this disposition. Counsel's objection came after voir dire, dismissal of the challenged jurors and lunch recess, impairing contemporaneous correction. The alternative merits ground makes a universal objection deadline unnecessary; no categorical forfeiture rule is announced.
 
 ##### IV. The related counsel claim fails on prejudice, not on lateness alone
 
@@ -806,7 +800,7 @@ Effective October 22, 1998, the machinegun-stock rule sustains Franklyn's sectio
 
 The actual ultimate discrimination finding and the independent Strickland prejudice inquiry sustain Franklyn's two convictions against the jury-selection claims. Gonzalez's supported attribution, discharge and total-history determinations survive at their stated scopes, with the offender-characteristic nonreach and evidentiary safeguards intact. His 63-month sentence is affirmed; the decision creates no new enhancement, sentencing fact, universal attribution rule or categorical permission for neighborhood-, education-, employment- or drug-status departures.
 
-#### Separate Writings
+#### Separate Positions Relevant to the Decision
 
 **Chief Justice Stone-Zsela, concurring in the judgment, unjoined.** He agrees that the consolidated judgments should be affirmed while keeping each appellant's issues separate. Franklyn's completed automatic weapon falls within the national stock restriction: without the possession rule, prohibited new stock could be retained and circulated beyond transfer enforcement. Hale, Rybar and Kirk therefore supply the fitted mechanism, without a new interstate-travel element or a general claim that local violence affects national productivity. He supplies no Second Amendment ruling.
 
@@ -814,11 +808,11 @@ He regards the late strike objection, made after the venire members had been exc
 
 For Gonzalez's sentence, jointly undertaken conduct and foreseeability must connect the machinegun and discharge to him; physical proximity alone cannot do so. The ammunition and coordinated episode supply the reported basis. Actual discharge adds danger not exhausted by the possession calculation, supporting section 5K2.6. Separately, prior weapons and drug conduct insufficiently reflected in the initial criminal-history score can support section 4A1.3 if the selected category is explained. Koon permits respect for the contextual decision while forbidding an unexplained increase or repeated punishment for an already-counted factor. He adds no factual finding, increases no sentence and adopts no automatic rule for all ammunition offenders.
 
-He also agrees with the dispositions of Gonzalez's separate section 922(g) commerce objection and the other-trial-evidence and within-range-selection components, adding no grounds on those components. No new trial or resentencing follows from the reported record. He joins no part of the Court's opinion.
+He also agrees with the dispositions of Gonzalez's separate section 922(g) commerce objection and the other-trial-evidence and within-range-selection components. No new trial or resentencing follows from the reported record. He joins no part of the Court's opinion.
 
 #### Source Notes
 
-The [published September 11, 1998 Second Circuit opinion](https://openjurist.org/157/f3d/90), through its footnotes, supplies the counts, factual findings, actual ultimate discrimination determination and sentencing rulings. Footnote 4 supplies Gonzalez's distinct commerce challenge; footnote 6 supplies his other-trial-evidence objection. Individual strike explanations, the full trial transcript and presentence report are not independently established beyond that published account. That account does not support a juror-specific comparison or additional sentencing facts.
+The [published September 11, 1998 Second Circuit opinion](https://openjurist.org/157/f3d/90), through its footnotes, supplies the counts, factual findings, actual ultimate discrimination determination and sentencing rulings. Footnote 4 supplies Gonzalez's distinct commerce challenge; footnote 6 supplies his other-trial-evidence objection. The published opinion does not reproduce the individual strike explanations, full trial transcript or presentence report. No juror-specific comparison or additional sentencing finding forms part of this decision.
 
 The [official 1995 Guidelines Manual](https://www.ussc.gov/sites/default/files/pdf/guidelines-manual/1995/1995_Guidelines_Manual_Full.pdf) supplies the cited relevant-conduct, base-level, departure, criminal-history and offender-characteristic provisions. The statutory machinegun exceptions remain intact; the lower source's isolated mistaken subsection label does not establish a new exception or burden.
 
@@ -826,7 +820,7 @@ The [official 1995 Guidelines Manual](https://www.ussc.gov/sites/default/files/p
 
 The Second Circuit judgments are affirmed. Franklyn's Counts One and Two and Gonzalez's separate Count Three and 63-month sentence remain in place. The Supreme Court proceedings end without remand, a new trial, a new hearing or resentencing. No future filing condition, new criminal charge, deadline or institutional action is ordered.
 
-**End of entry: United States v. Franklyn / United States v. Gonzalez, Consolidated merits decision, October 22, 1998.**
+**End of entry: United States v. Franklyn / United States v. Gonzalez, consolidated merits decision, October 22, 1998.**
 
 ---
 
@@ -836,19 +830,19 @@ Consolidated merits decision, October 29, 1998
 
 #### Chronology and Posture
 
-On writ of certiorari to the United States Court of Appeals for the Fourth Circuit after full merits briefing. The unpublished January 22, 1998 unsigned opinion affirmed the Middle District of North Carolina judgments in Nos. CR-96-93 and CR-96-95. No argument or exact submission date is established, and no Federal Reporter citation is established in the record.
+On writ of certiorari to the United States Court of Appeals for the Fourth Circuit after full merits briefing. The unpublished January 22, 1998 unsigned opinion affirmed the Middle District of North Carolina judgments in Nos. CR-96-93 and CR-96-95.
 
 William Lumas Griffin and George David Langley, Jr., were arrested after breaking into a restaurant in Burlington, North Carolina. Each wore a shoulder holster containing a pistol and each had a prior conviction punishable by more than one year. A firearms expert testified that both pistols were manufactured in Connecticut.
 
 Each defendant presents three questions: whether section 922(g)(1) exceeds Congress's commerce power as applied to his possession; whether the jury should have been instructed to require a direct interstate effect beyond manufacture outside North Carolina; and whether the evidence satisfied the enacted nexus sufficiently to defeat his motion for acquittal. No separate Second Amendment or sentencing claim is presented.
 
-All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No case-specific nonparticipation is established.
+All nine Justices participated.
 
 #### Judgment
 
 The Court announces its unanimous signed decision affirming both judgments.
 
-| Component | Disposition | Vote | Supporting | Opposing |
+| Judgment component | Disposition and remedy | Vote | Supporting Justices | Opposing Justices |
 |---|---|---|---|---|
 | Griffin: constitutional commerce challenge | Affirm rejection of the as-applied challenge on the supply-and-recipient ground | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
 | Griffin: requested additional nexus instruction | Affirm refusal of the reported direct-effect instruction | 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
@@ -859,17 +853,13 @@ The Court announces its unanimous signed decision affirming both judgments.
 
 Both separate judgments are affirmed. Neither conviction is reversed, and no acquittal, new trial, replacement instruction, sentencing recalculation or remand is ordered. The two dockets remain in this consolidated matter; no unpresented claim is decided.
 
-#### Opinion Topology
+#### Opinion of the Court
 
-| Writing | Author | Joined by | Relationship to judgment | Scope joined |
-|---|---|---|---|---|
-| Opinion of the Court, Parts I-III | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports every judgment component. | Full opinion: independent constitutional mechanism; requested additional instruction; separate evidentiary sufficiency for each pistol. Nine direct rationale votes throughout. |
-
-No separate writing issues; all nine Justices join the complete opinion.
+Chief Justice Stone-Zsela delivered the opinion of the Court, Parts I-III, joined in full by Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. It addresses the independent constitutional mechanism, the requested additional instruction and separate evidentiary sufficiency for each pistol.
 
 #### Controlling Propositions and Authority
 
-**Authority:** Chief Justice Stone-Zsela's Opinion of the Court, Parts I-III, is joined in full by all eight Associates. All nine Justices directly adopt each holding and its qualifications below; no judgment-only agreement or fractured-decision inference supplies authority.
+**Authority:** Chief Justice Stone-Zsela's unanimous Opinion of the Court controls each holding and its qualifications below.
 
 ##### I. The supply restriction and recipient-possession rule supply the constitutional connection
 
@@ -887,7 +877,7 @@ No separate writing issues; all nine Justices join the complete opinion.
 
 **Holding and operative rule:** Viewed favorably to the verdict under *Jackson v. Virginia*, testimony that each pistol was manufactured in Connecticut, together with each defendant's possession of his pistol in North Carolina, permits a rational jury to find that firearm's prior interstate movement beyond a reasonable doubt. Neither a precise shipment date, carrier or seller nor a personal state-line crossing by the defendant is necessary to establish this nexus; both motions for acquittal were properly denied.
 
-**Controlling explanation:** The expert's testimony concerned both weapons. Connecticut manufacture followed by North Carolina possession permits the interstate inference for Griffin's pistol and separately for Langley's. *Scarborough* identifies the statutory fact to be proved, while *Jackson* supplies the rational-jury sufficiency standard. Constitutional authority over the class does not itself prove that fact, and one pistol's history could not substitute for evidence about the other. No disputed expert qualification, authentication failure or defect arising from contrary evidence is established in this record. Gonzalez's ammunition stipulation in *Franklyn* establishes no fact in these appeals. The absence of a detailed shipping record does not defeat this supported inference. The Court makes no additional credibility finding or ruling on possession knowledge, the prior-conviction element, conviction exclusions, weapon classification or sentence.
+**Controlling explanation:** The expert's testimony concerned both weapons. Connecticut manufacture followed by North Carolina possession permits the interstate inference for Griffin's pistol and separately for Langley's. *Scarborough* identifies the statutory fact to be proved, while *Jackson* supplies the rational-jury sufficiency standard. Constitutional authority over the class does not itself prove that fact, and one pistol's history could not substitute for evidence about the other. The record described here identifies no dispute over the expert's qualifications, authentication failure or contrary-evidence defect. Gonzalez's ammunition stipulation in *Franklyn* establishes no fact in these appeals. The absence of a detailed shipping record does not defeat this supported inference. The Court makes no additional credibility finding or ruling on possession knowledge, the prior-conviction element, conviction exclusions, weapon classification or sentence.
 
 #### Precedent Treatment
 
@@ -912,13 +902,13 @@ Both convictions stand on the expert testimony concerning both Connecticut-manuf
 
 The [official Fourth Circuit opinion of January 22, 1998](https://www.ca4.uscourts.gov/opinions/Unpublished/964803.U.pdf), Nos. 96-4803 and 96-4805, supplies the two defendants, three appellate questions and testimony addressing both pistols. The [published text copy](https://hallapproved.com/us/cases/ca4/1998/993999/) agrees on those matters. The opinion describes the requested instruction's substance without printing the proposed charge verbatim. That limitation permits review of the described additional condition, not reconstruction of other instructions or a replacement charge.
 
-No Federal Reporter citation is established in the record. The appellate account establishes no additional trial-transcript detail; no separate arms claim is before the Court. The lower opinion's unpublished and nonbinding circuit status does not change the judgment under review; its reported sentences add no sentencing question to these appeals.
+The decision rests on the identified consolidated opinion; the available account contains no additional trial-transcript detail. No separate arms claim is presented. The lower opinion's unpublished and nonbinding circuit status does not change the judgment under review; its reported sentences add no sentencing question to these appeals.
 
 #### Mandate, Remedy, and Stage
 
 The Fourth Circuit judgments in Nos. 96-4803 and 96-4805 are affirmed, leaving both district judgments in place. The Supreme Court proceedings conclude without remand, acquittal, a new trial or a sentencing change. No new filing, evidentiary hearing, instruction mandate or future Supreme Court return is ordered.
 
-**End of entry: United States v. Griffin / United States v. Langley, Consolidated merits decision, October 29, 1998.**
+**End of entry: United States v. Griffin / United States v. Langley, consolidated merits decision, October 29, 1998.**
 
 ---
 

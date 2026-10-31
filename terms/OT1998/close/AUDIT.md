@@ -25,7 +25,7 @@ The governing canonical checker passed the correction stage with zero errors. It
 
 The first audit's four notes remain nonblocking: Richardson's retained provisional table is followed by the correct final reconciliation; Knowles's old continuity review flag is stale against consistent current projections; the FOP statutory description could be more explicit without establishing a different rule; and CF&I could carry an additional PBGC clarification without changing its preserved original holding. No new correction to those adjudications was authorized or needed for close.
 
-The same-day ADA and sovereign-immunity groups remain consistent. Sutton and Murphy supply the mitigation rule; Albertson's unnecessary discussion does not compete with it. College Savings' negative consent rule remains distinct from the banks' fractured affirmative grounds. Alden retains its separately controlling state-court holding.
+The same-day ADA and sovereign-immunity groups remain consistent. Sutton and Murphy supply the mitigation rule; Albertson's unnecessary discussion does not compete with it. College Savings' negative consent rule remains distinct from College Savings' fractured affirmative grounds; Florida Prepaid's Part IV applies it, and its Section 5 and Article I holdings control independently. Alden retains its separately controlling state-court holding.
 
 Fourteen matters carry forward into OT1999. New Jersey's completed decree presentation is removed; general retained implementation jurisdiction is not itself a pending request. No unsupplied OT1999 case inventory was invented.
 

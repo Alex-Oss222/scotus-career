@@ -8,7 +8,7 @@ Mechanically copied after corresponding reconciled freeze; approved text unchang
 
 ## A. STATUS
 
-* **Version:** OT1997 researched reconstruction, 2026-10-21; operative disposition revised 2026-10-24 and 2026-10-30
+* **Version:** OT1997 researched reconstruction, 2026-10-21; operative disposition revised 2026-10-24
 
 * **Approval Status:** USER-APPROVED — 2026-10-21. The user expressly approved the current Stone positions for all 146 active OT1997 matters, including existing reconstructed reasoning. This approves Stone’s personal position and proposed disposition, not a Court decision, vote count, certiorari grant, or new binding precedent. See OT_1997_STONE_APPROVALS.json. The revised operative disposition stated below was user-approved 2026-10-24. The revised position stated below was user-approved 2026-10-30.
 

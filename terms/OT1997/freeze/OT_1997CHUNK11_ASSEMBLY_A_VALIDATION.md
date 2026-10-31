@@ -6,7 +6,7 @@ Four new Records were written sequentially in June 15 caption order: Forney, Hoh
 
 Form was determined before counts on each case’s legal function. Forney and Hohn are signed plenary threshold dispositions and add no merits credit. Yeskey decides substantive statutory coverage; Phillips decides substantive property ownership; each adds one counted lead credit. The fresh script recount ran before each assignment and read actual prior/current-Run opinion tables, not earlier tally paragraphs.
 
-Before Forney, Hohn and Yeskey: Stone-Zsela 11; Stevens 10; O’Connor 11; Scalia 10; Kennedy 12; Souter 11; Thomas 11; Ginsburg 11; Breyer 12. Last counted: Bryan, June 15; 99 credits. Before Phillips: O’Connor 12, all others unchanged; last counted Yeskey; 100 credits. After Phillips: Scalia 11, all others unchanged; last counted Phillips; 101 credits. Full eligible sets, pools, fit comparisons and authors are recorded per case.
+Before Forney, Hohn and Yeskey: Stone-Zsela 11; Stevens 10; O’Connor 11; Scalia 10; Kennedy 11; Souter 11; Thomas 11; Ginsburg 11; Breyer 12. Last counted: Bryan, June 15; 98 credits. Before Phillips: O’Connor 12, all others unchanged; last counted Yeskey; 99 credits. After Phillips: Scalia 11, all others unchanged; last counted Phillips; 100 credits. Full eligible sets, pools, fit comparisons and authors are recorded per case.
 
 ## Substantive checks
 

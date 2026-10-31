@@ -3,12 +3,12 @@
   "pass": "final_eight_event_render",
   "input": {
     "path": "terms/OT1998/render-inputs/OT_1998CHUNK11.md",
-    "bytes": 160327,
+    "bytes": 165836,
     "sha256": "14503e31bfda09f770ef42b12bece5fd1c85e875051e2d6f4d7e29714496ae9f"
   },
   "render": {
     "path": "terms/OT1998/output/OT_1998CHUNK11.md",
-    "bytes": 158745,
+    "bytes": 164850,
     "sha256": "ca3a4f3c669228c372623e08eceef149cfe6e9230ad3916e80846fc08b9d3d4c"
   },
   "rendered_entries": [
@@ -33,8 +33,8 @@
       "docket": "97-1992",
       "event": "Merits decision",
       "date": "1999-06-22",
-      "bytes": 19643,
-      "sha256": "df37d383bae9f1a014ee0580333b192e6c2b7a6c6aec9be4ce953875c2587878"
+      "bytes": 22186,
+      "sha256": "c36e9a5031afde2d9e5bc1f39e7b5023b33e61d56cba541810966386d0134b10"
     },
     {
       "case": "Olmstead v. L.C.",
@@ -57,16 +57,16 @@
       "docket": "98-149",
       "event": "Merits decision",
       "date": "1999-06-23",
-      "bytes": 22488,
-      "sha256": "1213bd4fc188758d84b8bc98ff5063764992677909f511d32ddbda91d5950655"
+      "bytes": 22503,
+      "sha256": "f48ca4b5214ac4b641a0e4f4ffd732f2214777db9a06a7f6204e1ea366f589e2"
     },
     {
       "case": "Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank",
       "docket": "98-531",
       "event": "Merits decision",
       "date": "1999-06-23",
-      "bytes": 22914,
-      "sha256": "7b76a7a3711673b61cf9f43f7ad41ffd4a5109cbd46ab64f1661c9a07c09416e"
+      "bytes": 26427,
+      "sha256": "f16fcb429ae11a60ac06067b86a2c16fa7ae8d7107c0369b75425e5ada00ff31"
     },
     {
       "case": "Ortiz v. Fibreboard Corp.",

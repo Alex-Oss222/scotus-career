@@ -8,7 +8,7 @@
 
 ## A. STATUS
 
-- **Approval Status:** Source-designated approved position, preserved subject to the express precedent conflicts identified below. This packet does not enter a Court decision.
+- **Approval Status:** Source-designated approved position, preserved subject to the express precedent conflicts identified below. The revised position stated below was user-approved 2026-10-31. This packet does not enter a Court decision.
 
 ## B. JUDGMENT, REASONING, AND REMEDY
 
@@ -34,7 +34,7 @@
 
 ## D. VERIFIED PRECEDENT APPLICATION AND POSITION STATUS
 
-Stone's preserved proposal sustains §228 through protection of the interstate payment obligation, but must candidly distinguish his Harris instrumentality concurrence from the Court's economic-class ground. His answer is that the very duty allegedly frustrated requires interstate satisfaction, whereas Lopez's possession offense depended on remote social consequences. This is a proposed application of the commerce power to the enacted §228 category; an assertion that any interstate residence difference automatically federalizes domestic conduct would overstate it. Harris/Bishop preserve economic-class analysis and Hale shows that no universal offense-specific nexus requirement exists. The state order remains the predicate, not an object of federal revision, and the post-enactment limit and proof of willfulness remain independent conditions of the proposed prosecution remand.
+Stone's preserved proposal sustains §228 through protection of the interstate payment obligation, but must candidly distinguish it from his Harris opinion for the Court, which protects a transportation instrumentality against direct forcible taking on a vehicle-specific interstate nexus. His answer is that the very duty allegedly frustrated requires interstate satisfaction, whereas Lopez's possession offense depended on remote social consequences. This is a proposed application of the commerce power to the enacted §228 category; an assertion that any interstate residence difference automatically federalizes domestic conduct would overstate it. Harris/Bishop preserve economic-class analysis and Hale shows that no universal offense-specific nexus requirement exists. The state order remains the predicate, not an object of federal revision, and the post-enactment limit and proof of willfulness remain independent conditions of the proposed prosecution remand.
 
 ## E. REBRIEF ANSWERS AND POSITION STATUS
 

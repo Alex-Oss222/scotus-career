@@ -168,7 +168,7 @@ The full-join inference rests on the legal formulation: constitutional coverage 
 
 ### Historical reconciliation
 
-The frozen comparator supplies no historical Supreme Court merits vote, opinion or Justice-specific lineup for Wright. No such alignment is invented and no historical departure is claimed. The published lower court's militia-affiliation premise is displaced by Love, Hale and Rybar; each Associate's own joins support the bounded remand. The sentencing question remains governed by Stinson and Koon on the published remarks. The [fresh scoped reconciliation audit](../freeze/WRIGHT_PUBLIC_GROUND_AUDIT.md) confirms the public formulation against those handoffs and date-eligible public positions without receiving a private Stone supplement. Its Burdick, Madsen and Ladue analogies are evidence of the Justices' own methods, not additional arms precedents or transferred holdings.
+The frozen comparator supplies no historical Supreme Court merits vote, opinion or Justice-specific lineup for Wright. No such alignment is invented and no historical departure is claimed. The published lower court's militia-affiliation premise is displaced by Love, Hale and Rybar; each Associate's own joins support the bounded remand. The sentencing question remains governed by Stinson and Koon on the published remarks. The [reconciliation](../freeze/WRIGHT_RECONCILED.md) supports the public formulation against those handoffs and date-eligible public positions. Its Burdick, Madsen and Ladue analogies are evidence of the Justices' own methods, not additional arms precedents or transferred holdings.
 
 ### Form, assignment and balance
 
@@ -192,7 +192,7 @@ The frozen comparator supplies no historical Supreme Court merits vote, opinion 
 
 ### Context and preservation
 
-The initial neutral and reconciled handoffs remain physically frozen. Assembly receives the approved position and those handoffs; it does not claim neutral blindness. The separate reconciliation audit receives only neutral materials, the comparator, frozen commitments and a sanitized public legal formulation. No frozen vote is rewritten. Canonical Records control current law and assignment counts; derived handoffs carry their public substance.
+The initial neutral and reconciled handoffs remain physically frozen. Assembly receives the approved position and those handoffs; it does not claim neutral blindness. The reconciliation receives only neutral materials, the comparator, frozen commitments and the public legal formulation tested in its final-compatibility section. No frozen vote is rewritten. Canonical Records control current law and assignment counts; derived handoffs carry their public substance.
 
 ## Sources and validation status
 

@@ -182,7 +182,7 @@
       "sha256": "0787c56077d861ee1eebcdd31a427f07d7d5de3db8cd517d506df200d559307d"
     },
     "freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md": {
-      "bytes": 22544,
+      "bytes": 22525,
       "sha256": "45675b89e08411ed232d04be1835fcbe6855415b92268bb331a30a559d05f770"
     },
     "freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md": {
@@ -194,15 +194,15 @@
       "sha256": "1d37f2f8906592d49e56c14f5bbb9562900b04c28ab6fd114547422add845981"
     },
     "entering-law/OT_1998CHUNK11_ALDEN.md": {
-      "bytes": 87027,
+      "bytes": 87133,
       "sha256": "46044514347866797d5e84a69e9eb5c331d124aa5375007d662640df5956361e"
     },
     "freeze/OT_1998CHUNK11_JUNE23_FINAL_NEUTRAL_SCREEN.md": {
-      "bytes": 18350,
+      "bytes": 18446,
       "sha256": "eece64e5cb2f9f537cb21c9470b16860233c5702a7bff43b47463f530f1c2603"
     },
     "entering-law/OT_1998CHUNK11_JUNE23_COMPLETED_PUBLIC_LAW.md": {
-      "bytes": 112581,
+      "bytes": 116260,
       "sha256": "985f79089f404d8384caa1c98142dfef4ff1d4e0de36eeb50c4bd39d6117963b"
     },
     "freeze/OT_1998CHUNK11_ALDEN_FORM_BEFORE_ASSIGNMENT.json": {
@@ -210,7 +210,7 @@
       "sha256": "27a9c487b4b08153a1ee6456cb199a7546562f9ff0f5d4d0adea3b892e6d2c11"
     },
     "freeze/OT_1998CHUNK11_ALDEN_RECOUNT.json": {
-      "bytes": 99985,
+      "bytes": 100309,
       "sha256": "35ddc25ed5e447226c9ab81d30f6e3f67fe64933adf9c27bb7ad923415c57ea1"
     }
   },

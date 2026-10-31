@@ -3,7 +3,7 @@
   "pass": "authorized_initial_four_event_render",
   "input": {
     "path": "terms/OT1998/freeze/OT_1998CHUNK11_JUNE22_RENDER_INPUT.md",
-    "bytes": 78074,
+    "bytes": 79985,
     "sha256": "d7852c0cebfea1fa73a8820dfbcdc7492d25929a2db8b9e518b6b10597bf14dd"
   },
   "render": {
@@ -33,8 +33,8 @@
       "docket": "97-1992",
       "event": "Merits decision",
       "date": "1999-06-22",
-      "bytes": 19643,
-      "sha256": "df37d383bae9f1a014ee0580333b192e6c2b7a6c6aec9be4ce953875c2587878"
+      "bytes": 22186,
+      "sha256": "c36e9a5031afde2d9e5bc1f39e7b5023b33e61d56cba541810966386d0134b10"
     },
     {
       "case": "Olmstead v. L.C.",

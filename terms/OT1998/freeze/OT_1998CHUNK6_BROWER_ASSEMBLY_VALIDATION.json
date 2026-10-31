@@ -15,14 +15,6 @@
     "Breyer": 6
   },
   "last_counted": "minnesota_v_mille_lacs_band_merits_1999-03-24.md",
-  "explanation_words": [
-    175,
-    153,
-    145
-  ],
-  "git_used": false,
-  "fallback_used": false,
-  "associate_commitments_changed": false,
   "eligible_authors": [
     "Stone-Zsela",
     "Stevens",
@@ -39,5 +31,13 @@
     "Thomas",
     "Ginsburg",
     "Breyer"
-  ]
+  ],
+  "explanation_words": [
+    175,
+    153,
+    145
+  ],
+  "git_used": false,
+  "fallback_used": false,
+  "associate_commitments_changed": false
 }

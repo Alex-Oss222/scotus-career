@@ -20,7 +20,7 @@
       "source": "terms/OT1998/runtime/OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
       "sha256": "a39ab973dca779c7cb9a5a9b91097d7278af7a8a21e28abfabfa28e3bbd4e7c5",
-      "bytes": 31617
+      "bytes": 31952
     },
     {
       "source": "terms/OT1998/runtime/OT_1998CHUNK6_KUMHO_OBJECTIVE_RECORD.md",
@@ -44,7 +44,7 @@
       "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
       "sha256": "ef7eb4049d2a616bf48bb6ed9baf004460f0160993112167ec76c32f90b6e957",
-      "bytes": 34193
+      "bytes": 35230
     },
     {
       "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_PUBLISHED_POSITIONS.md",

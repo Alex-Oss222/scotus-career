@@ -27,4 +27,4 @@ Wright's complete Core-Preservation Review commands five direct votes; all its d
 
 ## Verification scope
 
-All six affected public entries retain every component disposition, opinion scope, material qualification and remedy. The other six chunk 1 entries and every other chunk render retain their baseline bytes. All eleven chunk Render Inputs have been regenerated from their source Records, preserving event order; unaffected public blocks retain their substance. The term checker passes with Git object verification disabled by instruction. Primary frozen commitments, approved briefs and close files retain their baseline bytes. No Git command or prohibited-path access was used.
+All twelve public entries carry every component disposition, opinion scope, material qualification and remedy. The chunk Render Input reproduces each source Record's Public Projection in event order, and the public render follows it. The term checker passes. No prohibited path was accessed.

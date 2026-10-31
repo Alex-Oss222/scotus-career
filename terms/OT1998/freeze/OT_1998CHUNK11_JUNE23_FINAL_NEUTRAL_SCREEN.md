@@ -8,7 +8,7 @@
 
 ## 1. Chronology and authority
 
-Engine §§2 and 3G require a common entering-law baseline for uncoordinated same-day matters. The June 22 holdings combine prospectively for June 23; their sequential preparation does not make one June 22 peer govern another. Likewise, Alden, Ortiz, Florida Prepaid, and College Savings do not govern each other. No pending or subsequently prepared June 23 result belongs in any of their snapshots.
+Engine §§2 and 3G require a common entering-law baseline for uncoordinated same-day matters. The June 22 holdings combine prospectively for June 23; their sequential preparation does not make one June 22 peer govern another. Likewise, Alden, Ortiz, Florida Prepaid, and College Savings do not govern each other, apart from College Savings Part III, which Florida Prepaid's Part IV applies as a holding announced earlier the same day. No pending or subsequently prepared June 23 result belongs in any of their snapshots.
 
 The compilation copies the five completed June 22 public texts verbatim, with source paths and hashes, and reproduces the recovered complete Hilton public entry and existing exact Standards selections. It is a reading aid; the completed public authorities and underlying dated law control. Published separate positions inform continuity only within their actual propositions and joins. Judgment agreement supplies no extra rationale, and no noncontrolling proposal becomes law by combination.
 

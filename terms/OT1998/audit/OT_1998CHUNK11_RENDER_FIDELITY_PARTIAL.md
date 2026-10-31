@@ -6,7 +6,7 @@ Operator-only result: **PASS for the four finalized June 22, 1999 entries. No di
 
 | Authorized file | Bytes | SHA-256 |
 |---|---:|---|
-| `freeze/OT_1998CHUNK11_JUNE22_RENDER_INPUT.md` | 78074 | `d7852c0cebfea1fa73a8820dfbcdc7492d25929a2db8b9e518b6b10597bf14dd` |
+| `freeze/OT_1998CHUNK11_JUNE22_RENDER_INPUT.md` | 79985 | `d7852c0cebfea1fa73a8820dfbcdc7492d25929a2db8b9e518b6b10597bf14dd` |
 | `output/OT_1998CHUNK11.md` | 76841 | `07a9933f2c7ccc36864318f3149097b5ae47e93fd4c019f7a258bfd8dbacf9ed` |
 
 Both actual identities match the supplied handoff. The mechanical receipt was used only for entry identities; every rendered-entry byte count and digest matches it.
@@ -28,7 +28,7 @@ Input-event scope: exact UTF-8 bytes from the source-record comment through the 
 |---|---:|---|---:|---|
 | Albertson’s, Inc. v. Kirkingburg | 14181 | `4dcb34f761faa09a5979dfe4b138afa7ad85b73c799379a9187f407912a8b003` | 13974 | `58d801b519d6414a3615086f9f43ca3f65fab4ebd863f0a6281a133b5597a2d5` |
 | Kolstad v. American Dental Association | 22024 | `a713539df92061bf564839b9b9ed19a3530383e011672e53f8589e7b68052fe0` | 21715 | `bd6af8403ff0b6b67fce0d60f271715160a4f6fbe99990f8d8a75f21fb1fbe98` |
-| Murphy v. United Parcel Service, Inc. | 20477 | `8310e4718421a87eb1ae9f763441d10a6b3ece07d03be62c27367785a4e60b72` | 19643 | `df37d383bae9f1a014ee0580333b192e6c2b7a6c6aec9be4ce953875c2587878` |
+| Murphy v. United Parcel Service, Inc. | 22388 | `147fddd076a03fbb844b182b4f2c789bd8a081d5f8848957af38fac80439f7ac` | 22186 | `c36e9a5031afde2d9e5bc1f39e7b5023b33e61d56cba541810966386d0134b10` |
 | Olmstead v. L.C. | 21237 | `50ae51137aa99e365b9c729d70a71a170de6bf740da0925446324d6747cc20de` | 20676 | `6ebd81b4d7110bc782014e4ce2b090509843bba8c88b75383b6d9e8c2469b62f` |
 
 ## Discrepancies and next scope

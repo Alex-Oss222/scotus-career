@@ -140,7 +140,7 @@ The neutral packet, exact statute, filed questions and sanitized docket-scope re
 
 The legal research cutoff is June 23, 1999 before the uncoordinated group. Retrieval provenance remains internal; no later doctrine enters. Exact source identities, component-vote sets, opinion joins, projection structure, assignment arithmetic and scoped validation results are recorded in [the assembly validation](../freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_ASSEMBLY_VALIDATION.json). Source hashes identify the inputs actually used; they are not public authority. The final checks establish the durable Record's readiness for Current Term State integration, with workspace and Render Input updates left to the authorized parent integration stage.
 
-The judgment and directly adopted statutory, §5 and consent propositions take effect June 23. No new roster, allotment, filing deadline, external proceeding, same-day legal dependency or consequence for an unexamined later matter is created. The remand leaves only ordinary adjudication of the federal cause and lawful relief; the independent dismissed matters and patent proceeding retain their separate status.
+The judgment and directly adopted statutory, §5 and consent propositions take effect June 23. No new roster, allotment, filing deadline, external proceeding or consequence for an unexamined later matter is created; Florida Prepaid, decided later the same day, applies Part III. The remand leaves only ordinary adjudication of the federal cause and lawful relief; the independent dismissed matters and patent proceeding retain their separate status.
 
 ## Public Projection
 

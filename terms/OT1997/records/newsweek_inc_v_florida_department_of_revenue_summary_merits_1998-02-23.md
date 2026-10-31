@@ -1,7 +1,7 @@
 **Case and dockets:** Newsweek, Inc. v. Florida Department of Revenue, No. 97-663.
 **Event and date:** Certiorari grant and summary merits disposition, 1998-02-23; October Term 1997, chunk 4; no oral argument.
 **Result:** Certiorari granted; vacated and remanded 8–1 on formal disposition, with unanimous Reich rule; Stone-Zsela would reverse and remand.
-**Version / lineage:** Original decision
+**Version / lineage:** Original decision.
 
 ## Event validation and entering law
 

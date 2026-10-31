@@ -373,16 +373,16 @@ The lower courts must identify the interstate mechanism actually asserted for th
 
 #### Opinion Topology
 
-| Writing or part | Author | Joined by | Scope and relationship |
-|---|---|---|---|
-| Opinion of the Court, Part I | Stone-Zsela | O'Connor, Scalia, Kennedy, Thomas | Enacted taking class and rejection of the economic-subset ground; five Justices. |
-| Opinion of the Court, Part II-A | Stone-Zsela | O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Reasonably necessary anti-evasion/material-impairment route; seven Justices. |
-| Opinion of the Court, Parts II-B and III | Stone-Zsela | O'Connor, Kennedy, Ginsburg, Breyer | Independent substantial-interstate-externality route; the Government's material-support responsibility, independent eligibility review and legislative latitude; five Justices for each part. |
-| Opinion of the Court, Part IV | Stone-Zsela | O'Connor, Kennedy, Ginsburg, Breyer | Vacatur/remand and preserved statutory limits; five Justices. |
-| Concurrence | Kennedy | O'Connor | Joins the complete Court opinion and judgment; explains the concrete interstate boundary and territorial-control requirement. |
-| Opinion concurring in Parts II, III and IV and the judgment, and dissenting from Part I | Breyer | Ginsburg | Retains the economic-application objection to Part I, but affirmatively joins both routes, the support/deference rule and remand as the proper consequence of the Court's independently controlling class ruling. |
-| Dissent | Stevens | Souter | Would affirm on the economic-habitat-conversion ground; joins no part of the Court opinion. |
-| Opinion concurring in Parts I and II-A, and dissenting from Parts II-B, III and IV and the judgment | Scalia | Thomas | Joins the class ruling and regime route; rejects the independent externality route and would reverse and remand for confined relief. |
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Stone-Zsela | O'Connor, Scalia, Kennedy, Thomas | Supports vacatur and remand | Enacted taking class and rejection of the economic-subset ground; five Justices |
+| Opinion of the Court, Part II-A | Stone-Zsela | O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Supports vacatur and remand | Reasonably necessary anti-evasion/material-impairment route; seven Justices |
+| Opinion of the Court, Parts II-B and III | Stone-Zsela | O'Connor, Kennedy, Ginsburg, Breyer | Supports vacatur and remand | Independent substantial-interstate-externality route; the Government's material-support responsibility, independent eligibility review and legislative latitude; five Justices for each part |
+| Opinion of the Court, Part IV | Stone-Zsela | O'Connor, Kennedy, Ginsburg, Breyer | Supports vacatur and remand | Vacatur/remand and preserved statutory limits; five Justices |
+| Concurrence | Kennedy | O'Connor | Joins the complete Court opinion and judgment | Explains the concrete interstate boundary and territorial-control requirement |
+| Opinion concurring in Parts II, III and IV and the judgment, and dissenting from Part I | Breyer | Ginsburg | Concurs in the judgment; dissents from Part I | Retains the economic-application objection to Part I, but affirmatively joins both routes, the support/deference rule and remand as the proper consequence of the Court's independently controlling class ruling |
+| Dissent | Stevens | Souter | Would affirm on the economic-habitat-conversion ground | Joins no part of the Court opinion |
+| Opinion concurring in Parts I and II-A, and dissenting from Parts II-B, III and IV and the judgment | Scalia | Thomas | Would reverse and remand for confined relief | Joins the class ruling and regime route; rejects the independent externality route |
 
 #### Holdings
 

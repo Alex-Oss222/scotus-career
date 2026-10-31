@@ -53,16 +53,16 @@ Every explanation is below the ordinary 350-word ceiling. Judgment votes, opinio
 
 ## Assignment verification
 
-The prior audit independently extracted the 76 opening counted authors from the copied actual opinion topologies. The current check extracted the eleven new counted lead authors from the twelve actual new Record opinion topologies; Ashmus remains a threshold disposition and contributes no count. Waste Management is Stone-Zsela's counted May 27 lead.
+The prior audit independently extracted the 76 opening counted authors from the copied actual opinion topologies. The current check extracted the eleven new counted lead authors from the twelve actual new Record opinion topologies; Ashmus remains a threshold disposition and contributes no count. Waste Management is Stone-Zsela's counted May 27 lead. National Association of Home Builders v. Babbitt, Stone-Zsela's June 8 lead, is counted before Beggerly in same-date alphabetical order.
 
 | Event | Pre-event total | Assignment and pool conclusion | Post-event total |
 |---|---:|---|---:|
 | Florence | 83 | All nine eligible; minimum 9; all nine at 9 or 10 are within the Chief's pool. The stated Pinder/actual-restraint coordination reason addresses Stone's equal-count alternative. | 84 |
 | Cabrales | 84 | All nine eligible; minimum 9; all nine at 9 or 10 are within the pool, including Stone at 9. The conduct/circumstance self-assignment comparison identifies Scalia as the strongest alternative and preserves all elements. | 85 |
 | Duffy | 85 | The eight full-join Associates form the complete operative judgment coalition. Stevens, its most senior member, assigns. Stone's opposing remedy supplies no full-opinion eligibility; the Chief's mandatory pool rule does not bind this Associate assignment. Stevens's lead counts once. | 86 |
-| Beggerly | 86 | The Chief is in the complete reversal coalition, but his partial rationale and monetary fallback exclude him from whole-opinion eligibility. All eight Associates are eligible at 9 or 10 and within minimum plus one. Breyer at 9 is validly selected on the statute-specific timing fit. | 87 |
+| Beggerly | 87 | The Chief is in the complete reversal coalition, but his partial rationale and monetary fallback exclude him from whole-opinion eligibility. All eight Associates are eligible at 9 or 10 and within minimum plus one. Breyer at 9 is validly selected on the statute-specific timing fit. | 88 |
 
-Each Record fixes form and governing propositions before counting. The current independently recomputed total matches `runtime/OT_1997CHUNK9_ASSEMBLY_RECOUNT.json`: Stone-Zsela 10; Stevens 10; O'Connor 10; Scalia 9; Kennedy 9; Souter 10; Thomas 9; Ginsburg 10; Breyer 10. The total is 87, ending with Beggerly on June 8, 1998. Same-date alphabetical sequencing affects assignment counts without turning an uncoordinated same-day decision into entering law. No earlier assignment is reopened.
+Each Record fixes form and governing propositions before counting. The current independently recomputed total matches `runtime/OT_1997CHUNK9_ASSEMBLY_RECOUNT.json`: Stone-Zsela 11; Stevens 10; O'Connor 10; Scalia 9; Kennedy 9; Souter 10; Thomas 9; Ginsburg 10; Breyer 10. The total is 88, ending with Beggerly on June 8, 1998. Same-date alphabetical sequencing affects assignment counts without turning an uncoordinated same-day decision into entering law. No earlier assignment is reopened.
 
 ## Remaining integration scope
 

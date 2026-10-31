@@ -1,7 +1,7 @@
 **Case and dockets:** United States v. Hinds; Fourth Circuit No. 97-4030; Middle District of North Carolina No. CR-96-148. No separate Supreme Court docket supplied.
 **Event and date:** Plenary merits decision, 1998-04-06; October Term 1997, chunk 6.
 **Result:** Fourth Circuit affirmance vacated and remanded, 8–1, for bounded review of the existing trial record. Stone-Zsela would reverse and direct acquittal on the §844(i) count.
-**Version / lineage:** Original decision
+**Version / lineage:** Original decision.
 
 ## Event, authority and entering law
 

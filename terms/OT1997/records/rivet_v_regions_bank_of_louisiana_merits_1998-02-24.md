@@ -1,7 +1,7 @@
 **Case and dockets:** Rivet v. Regions Bank of Louisiana, No. 96-1971.
 **Event and date:** Plenary merits decision, 1998-02-24; argued 1998-01-21; October Term 1997, chunk 4.
 **Result:** Reversed and remanded 9–0; all dependent federal merits judgments vacated; action must return to state court.
-**Version / lineage:** Original decision
+**Version / lineage:** Original decision.
 
 ## Event validation and entering law
 
