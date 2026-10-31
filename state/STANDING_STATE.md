@@ -53,7 +53,7 @@ The order effective August 3, 1994 governs at the OT1999 opening.
 
 ## 4. Docket of Cases Brought Up
 
-Fourteen matters remain pending before the Court.
+Fourteen matters remain pending before the Court. The twenty-three sim-granted cases in the OT1999 inventory are granted and to be heard on the merits, as is its direct appeal in *Rayphand v. Sablan / Torres v. Sablan*.
 
 | Case or matter | Court below and judgment | Why on the docket | Stage at opening | Source |
 |---|---|---|---|---|
@@ -71,3 +71,27 @@ Fourteen matters remain pending before the Court.
 | *In re Breard*, No. 97-8660 | Original habeas petition; no lower-court judgment under appellate review. | Carried from OT1998; original habeas petition left pending. | Original habeas petition pending. | *Breard v. Greene and related applications*, A-767, Decision Record, April 14, 1998. |
 | *Republic of Paraguay v. Gilmore*, No. 125, Original | Original action; no lower-court judgment under review. | Carried from OT1998; leave-to-file request left pending. | Motion for leave to file an original complaint pending. | *Breard v. Greene and related applications*, A-771, Decision Record, April 14, 1998. |
 | *Federal Republic of Germany, et al. v. United States, et al.*, No. 127, Original | Original action; no lower-court judgment under review. | Carried from OT1998; original leave left pending. | Motion for leave to file an original complaint remains under consideration. | *Federal Republic of Germany*, original leave and interim order, Decision Record, March 3, 1999. |
+| *Paul P. v. Verniero* | Third Circuit, 170 F.3d 396 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 4. |
+| *Rayphand v. Sablan / Torres v. Sablan*, No. 99-475 | District Court for the Northern Mariana Islands, No. 97-0029, 95 F. Supp. 2d 1133 (1999). | Direct appeal in the OT1999 inventory. | To be heard on the merits. | User instruction; OT1999 case index No. 7. |
+| *Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc.* | Third Circuit, 171 F.3d 912 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 8. |
+| *Fraternal Order of Police v. United States* | D.C. Circuit, 173 F.3d 898 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 16. |
+| *U.S. West, Inc. v. Federal Communications Commission* | Tenth Circuit, 182 F.3d 1224 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 23. |
+| *Richards v. United States*, No. 99-731 | Third Circuit, No. 98-7235, 176 F.3d 652 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 24. |
+| *Strout v. Albanese* | First Circuit, 178 F.3d 57 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 32. |
+| *Adams v. Commissioner of Internal Revenue*, No. 99-798 | Third Circuit, No. 98-7200, 170 F.3d 173 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 37. |
+| *Carter v. City of Philadelphia* | Third Circuit, 181 F.3d 339 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 38. |
+| *Browne v. United States*, No. 99-632 | Second Circuit, No. 98-6124, 176 F.3d 25 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 43. |
+| *Powell v. Ridge* | Third Circuit, 189 F.3d 387 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 48. |
+| *Reform Party of Allegheny County v. Allegheny County Department of Elections* | Third Circuit (en banc), 174 F.3d 305 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 49. |
+| *Gillespie v. City of Indianapolis*, No. 99-626 | Seventh Circuit, No. 98-2691, 185 F.3d 693 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 52. |
+| *Doe v. Rosenberg* | Second Circuit, 166 F.3d 507 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 55. |
+| *North Carolina Right to Life, Inc. v. Bartlett* | Fourth Circuit, 168 F.3d 705 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 62. |
+| *National Mining Association v. United States Department of the Interior* | D.C. Circuit, 177 F.3d 1 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 63. |
+| *Saenz v. Heldenfels Brothers, Inc.* | Fifth Circuit, 183 F.3d 389 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 64. |
+| *United States v. McIver* | Ninth Circuit, 186 F.3d 1119 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 69. |
+| *United States v. Barrett* | First Circuit, 178 F.3d 34 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 75. |
+| *Eisenberg v. Montgomery County Public Schools* | Fourth Circuit, 197 F.3d 123 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 78. |
+| *Mixon v. Ohio* | Sixth Circuit, 193 F.3d 389 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 83. |
+| *Bradley v. Arkansas Department of Education* | Eighth Circuit, 189 F.3d 745 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 89. |
+| *Hawkins v. Freeman* | Fourth Circuit (en banc), 195 F.3d 732 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 94. |
+| *Henerey v. City of St. Charles, School District* | Eighth Circuit, 200 F.3d 1128 (1999). | Sim-granted lower-court case in the OT1999 inventory. | Granted — to be heard on the merits. | User instruction; OT1999 case index No. 99. |
