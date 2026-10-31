@@ -113,7 +113,7 @@ The preserved constitutional challenge returns for application of the common sta
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Chief Justice Stone-Zsela | Stevens, Souter, Ginsburg and Breyer in full; O'Connor, Scalia, Kennedy and Thomas in the standing part | Vacatur and remand | Standing commands nine votes; the common standard and its remand directions command five |
+| Opinion of the Court | Stone-Zsela | Stevens, Souter, Ginsburg and Breyer in full; O'Connor, Scalia, Kennedy and Thomas in the standing part | Vacatur and remand | Standing commands nine votes; the common standard and its remand directions command five |
 | Concurrence | Souter | Ginsburg, Breyer | Joins the Court's opinion in full | Additional precedent and preservation explanation |
 | Concurrence | Ginsburg | Breyer | Joins the Court's opinion in full | Additional remedial-competence explanation |
 | Concurrence in part and concurrence in the judgment | O'Connor | Kennedy throughout; Scalia and Thomas only in the uniform-scrutiny and bounded-remand portions | Joins the Court's standing part and concurs in vacatur and remand | Rejects the common standard in favor of strict scrutiny for every racial classification; her particular stare-decisis explanation is joined only by Kennedy |

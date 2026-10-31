@@ -102,7 +102,7 @@ The Tenth Circuit's judgment is vacated and the case is remanded for application
 
 | Writing | Author | Joined by | Relationship and scope |
 |---|---|---|---|
-| Opinion of the Court | Chief Justice Stone-Zsela | Stevens, Souter, Ginsburg and Breyer in full; O'Connor, Scalia, Kennedy and Thomas in the standing part | Standing commands nine votes; the common standard and its remand directions command five; all nine concur in vacatur and remand |
+| Opinion of the Court | Stone-Zsela | Stevens, Souter, Ginsburg and Breyer in full; O'Connor, Scalia, Kennedy and Thomas in the standing part | Standing commands nine votes; the common standard and its remand directions command five; all nine concur in vacatur and remand |
 | Concurrence | Souter | Ginsburg, Breyer | Joins the Court's opinion; additional precedent/preservation explanation |
 | Concurrence | Ginsburg | Breyer | Joins the Court's opinion; additional remedial-competence explanation |
 | Concurrence in part and concurrence in the judgment | O'Connor | Kennedy throughout; Scalia and Thomas only uniform scrutiny and bounded remand | Joins the Court's standing part; rejects the common standard in favor of strict scrutiny for every racial classification; concurs in vacatur and remand; particular stare-decisis explanation supported only by O'Connor and Kennedy |
