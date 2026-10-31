@@ -1,6 +1,6 @@
 # OT1994 chunk7 B assembly validation
 
-Adarand_Constructors_Inc_v_Pena: four header labels, eleven public blocks, identical kernel/public Holdings; explanation word counts [150, 164].
+Adarand_Constructors_Inc_v_Pena: four header labels, eleven public blocks, identical kernel/public Holdings; explanation word counts [150, 306, 198].
 
 Wilton_v_Seven_Falls_Co: four header labels, eleven public blocks, identical kernel/public Holdings; explanation word counts [152, 153].
 
@@ -8,7 +8,7 @@ Metropolitan_Stevedore_Co_v_Rambo: four header labels, eleven public blocks, ide
 
 Johnson_v_Jones: four header labels, eleven public blocks, identical kernel/public Holdings; explanation word counts [166].
 
-Adarand: named judgment arithmetic 5-4; 0 nonparticipant.
+Adarand: named judgment arithmetic 9-0; 0 nonparticipant.
 
 Wilton: named judgment arithmetic 8-0; 1 nonparticipant.
 

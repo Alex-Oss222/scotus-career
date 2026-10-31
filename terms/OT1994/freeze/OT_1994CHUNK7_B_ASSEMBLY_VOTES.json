@@ -5,14 +5,13 @@
       "Stevens",
       "Souter",
       "Ginsburg",
-      "Breyer"
-    ],
-    "oppose": [
+      "Breyer",
       "O'Connor",
       "Scalia",
       "Kennedy",
       "Thomas"
-    ]
+    ],
+    "oppose": []
   },
   "Wilton": {
     "support": [
