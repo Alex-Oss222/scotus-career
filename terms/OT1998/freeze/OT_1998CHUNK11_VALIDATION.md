@@ -14,7 +14,7 @@ Each final assembly completed the case-specific Engine §15 checks before releas
 
 Uncoordinated June 22 matters share pre-June22 law, excluding Sutton as peer law; every June 23 freeze includes the complete final June22 screen. Uncoordinated June23 matters do not import one another’s law. All original approved briefs, earlier Records and public entries remain unchanged.
 
-The [stage/source receipt](OT_1998CHUNK11_STAGE_PROVENANCE.md) describes the actual isolated boundaries, repaired initial source exposures, necessary clean neutral/model refreshes, recovered prior public authority, truthful delegated Stone selections, and the targeted presentation-fork repair. It neither claims erased general model knowledge nor conceals the original exposures. The Florida consent consistency check preserved explicit Stone commitments and selected supported nonreach without changing an Associate, importing peer law or manufacturing a majority rationale.
+The [stage/source receipt](OT_1998CHUNK11_STAGE_PROVENANCE.md) describes the actual isolated boundaries, repaired initial source exposures, necessary clean neutral/model refreshes, recovered prior public authority, truthful delegated Stone selections, and the targeted presentation-fork repair. It neither claims erased general model knowledge nor conceals the original exposures. Florida Prepaid is affirmed by Stone-Zsela, Stevens, Souter, Ginsburg, and Breyer; Stevens’s Parts II and III independently sustain the action under Section 5 and Article I. Part IV’s commercial-consent ground has Stevens, Souter, Ginsburg, and Breyer only; Stone-Zsela writes no separate opinion.
 
 ## Generated handoff and isolated public Render
 
