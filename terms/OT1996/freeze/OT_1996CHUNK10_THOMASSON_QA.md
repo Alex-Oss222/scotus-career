@@ -31,6 +31,6 @@ These are review-stage hashes. Parent integration may update only the internal v
 | OT_1996CHUNK10_THOMASSON_STONE_V2_ASSEMBLY.md | `3afcc1a9b1f715423adc32716aae40b5dd86a440521b914e74c7a5c1fa157b04` |
 | OT_1996CHUNK10_C_RECONCILED.md | `965679bdfd7d383189b4005fb024fd8663165583ef1be36775756f8ce073b97a` |
 | OT_1996CHUNK10_THOMASSON_ASSIGNMENT_CENSUS.md | `f326145ba50e7b537949ec040420483bbf0f0199ebe7f82afeb0494ede6c81c6` |
-| OT_1996CHUNK10_THOMASSON_ASSIGNMENT_EXCERPTS.md | `e8abaec07694fb28c2d033998398814a377043b3f1a2dbc0de12bba9cb474945` |
+| OT_1996CHUNK10_THOMASSON_ASSIGNMENT_EXCERPTS.md | `8a3d8bd8f253899e7ae17ea63a012347086f6ef8c9a75b43e15e15163f282d76` |
 
 Git history, object existence and commitment are unperformed under the user's instruction, not passed checks. No Git command was run and the top-level private-position directory was not accessed. This reviewer wrote only the earlier task-local tooling adapter and this receipt, both beneath terms/OT1996/.

@@ -7,7 +7,7 @@
 ## A. STATUS
 
 * **Version:** OT1996 supplemental draft 1.0
-* **Approval Status:** proposed to the Court and user-approved
+* **Approval Status:** proposed to the Court and user-approved. The revised position stated below was user-approved 2026-10-30.
 * **Current-Through Baseline:** November 25, 1996, subject to same-term and Standing State revalidation.
 * **Conditions:** The exact Standing State grant wording was not supplied. This position answers the reconstructed merits questions only; any narrower grant controls.
 
@@ -21,7 +21,7 @@
 ### Part I: The 1992 system is invalid
 
 * **Threshold and Merits Reach:** The undisputed design and trial findings permit application without new factfinding.
-* **Stone's Legal Position:** Apply strict scrutiny to the State's admissions classification under the surviving state-classification and admissions authorities, while acknowledging that simulated Adarand retained a different federal standard and created no two-lane rule. Admissions decisions distribute limited seats to identified applicants, and race effectively determined access in the 1992 system.
+* **Stone's Legal Position:** Apply the common substantial-justification standard that simulated Adarand adopted for federal, state and local racial classifications to the State's admissions classification, together with the surviving admissions authorities; simulated Adarand created no two-lane rule. Admissions decisions distribute limited seats to identified applicants, and race effectively determined access in the 1992 system.
 * **Stone's Proposed Holding:** The 1992 system fails narrow tailoring because it used materially different presumptive thresholds, separate review machinery, racial coding, separate waiting-list practices, and numerical aspirations that made race decisional across broad categories without a sufficiently supported remedial predicate, genuinely individualized comparison, demonstrated necessity, or adequate consideration of workable alternatives.
 * **Essential Reasoning and Record Application:** The process did not merely widen access to consideration. It altered the legal and practical terms on which identified applicants competed for particular seats. The record does not connect the magnitude and operation of those preferences to identified present effects within the Law School, and the separate tracks undermine the individualized educational judgment the defendants invoke. The State cannot replace missing fit with the general truth that Texas once maintained de jure exclusion.
 * **Boundary or Reserved Question:** The holding does not invalidate outreach, barrier removal, race-neutral contextual review, collection of demographic information, or a materially different individualized program supported under the standard in the following parts.
@@ -30,9 +30,9 @@
 
 * **Question Stone Resolves:** Whether the Fifth Circuit's categorical rule that educational diversity can never be compelling is inherited law.
 * **Stone's Legal Position:** Bakke prevents treating that categorical prohibition as inherited law, while the Reconstruction guarantee forbids treating race as an administrative proxy for merit, viewpoint, or entitlement. As a source-grounded extension in a question squarely presented, a public university may pursue concrete and demonstrated educational benefits associated with meaningful institutional inclusion, but it must explain the benefit, the mechanism by which the classification advances it, and the actual burdens imposed. Racial arithmetic, generalized societal discrimination, reputation, hostility outside the institution, and assumptions that racial identity predicts viewpoint are insufficient.
-* **Stone's Proposed Holding:** A public university's interest in the concrete educational benefits of a genuinely diverse student body is cognizable and, on a proper record, capable of being compelling. It is not categorically forbidden. The university must establish the objective and a fitted design; racial balance does not suffice.
+* **Stone's Proposed Holding:** A public university's interest in the concrete educational benefits of a genuinely diverse student body is cognizable and, on a proper record, capable of being an important objective. It is not categorically forbidden. The university must establish the objective and a fitted design; racial balance does not suffice.
 * **Essential Reasoning and Record Application:** Stone's rule does not presume validity or invalidity from a program's label. It demands a supported objective and a design fitted to actual operation, and it identifies this recognition as an extension stated openly and not as a holding that any program is valid.
-* **Boundary or Reserved Question:** Stone does not decide the validity of any later Texas admissions program, prescribe a universal admissions model, require race-conscious action, or convert broad educational aspiration into a compelling interest without evidence and fit.
+* **Boundary or Reserved Question:** Stone does not decide the validity of any later Texas admissions program, prescribe a universal admissions model, require race-conscious action, or convert broad educational aspiration into an important objective without evidence and fit.
 
 ### Part III: Operation controls, not labels
 
@@ -61,14 +61,14 @@
 
 ### Part VI: Questions reserved
 
-* **Stone's Position:** The Court does not decide the validity of any later Texas program; whether holistic individualized review with race as one factor is valid; whether the same standard governs federal, state, and local classifications; admissions in other levels of education; or whether race-conscious employment decisions can be justified on a similar basis. This case concerns a public university's admissions. Employment decisions are governed by the employment statute and the cases construing it.
+* **Stone's Position:** The Court does not decide the validity of any later Texas program; whether holistic individualized review with race as one factor is valid; admissions in other levels of education; or whether race-conscious employment decisions can be justified on a similar basis. This case concerns a public university's admissions. Employment decisions are governed by the employment statute and the cases construing it.
 
 ## D. VERIFIED PRECEDENT APPLICATION AND POSITION STATUS
 
-Stone's rationale openly uses the governing state-classification framework and identifies the recognition of an educational-benefit objective as an extension. It does not rely on nonexistent Adarand lanes or on an unverified later Ayers disposition. Fordice applies at its actual scope, with its traceability and practicable-removal limits, and supplies a continuing duty and a relevant actor, not a permission for any particular preference. The parts are written to be severable, so that disagreement with one does not defeat the others. His individual causation inquiry for compensatory relief remains distinct from equal-competition standing and nominal recognition of unequal process.
+Stone's rationale openly uses the governing Adarand standard and identifies the recognition of an educational-benefit objective as an extension. It does not rely on nonexistent Adarand lanes or on an unverified later Ayers disposition. Fordice applies at its actual scope, with its traceability and practicable-removal limits, and supplies a continuing duty and a relevant actor, not a permission for any particular preference. The parts are written to be severable, so that disagreement with one does not defeat the others. His individual causation inquiry for compensatory relief remains distinct from equal-competition standing and nominal recognition of unequal process.
 
 ## E. REBRIEF ANSWERS AND POSITION STATUS
 
-**Questions 1 and 2.** Part II recognizes the concrete educational benefits of a genuinely diverse institution as a cognizable objective that may be compelling on a proper record, not a bare diversity label or racial balancing. Part IV permits remediation of traceable continuing remnants of a former dual system by the State that operated it, within Fordice's limits, and makes no finding that any remnant exists. Generalized societal disadvantage does not suffice.
+**Questions 1 and 2.** Part II recognizes the concrete educational benefits of a genuinely diverse institution as a cognizable objective that may qualify as important on a proper record, not a bare diversity label or racial balancing. Part IV permits remediation of traceable continuing remnants of a former dual system by the State that operated it, within Fordice's limits, and makes no finding that any remnant exists. Generalized societal disadvantage does not suffice.
 
 **Question 3.** Part I holds the separate presumptive thresholds, committee, coding, and wait lists invalid because they made race decisional without the required individualized fit. Stone would affirm that invalidity, vacate the categorical ban on every future consideration of race, and preserve nominal and declaratory relief and a causally supported damages inquiry. He would not award admission or compensatory damages from the unequal process alone or adjudicate an unidentified replacement program.

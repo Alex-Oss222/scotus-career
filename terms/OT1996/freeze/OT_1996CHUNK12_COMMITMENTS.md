@@ -305,7 +305,7 @@ The neutral base, the corrected record supplement, both full-reading source memo
 | `freeze/OT_1996CHUNK12_LAWYER_APPELLANT_SOURCES.md` | `7c850a11008ab4aa989e6be1d4cb01faba2019be4f92bcfe99bc2c1c1964a6a7` |
 | `freeze/OT_1996CHUNK12_LAWYER_APPELLEE_SOURCES.md` | `ffd945dcf4f35a72c8597b1bf3cc36b87bb3a5e13ee33dc754f8854560fac131` |
 | `entering-law/OT_1996CHUNK12_LAWYER_FOCUSED.md` | `eb387452dcb763ef3ecf686340d7c79baeaed52a9d36cb13cab107b980febe62` |
-| `entering-law/OT_1996CHUNK12_LAWYER_PRIOR_PUBLIC_POSITIONS.md` | `1780812b649d3de876c6a7e26e45332283874af080d6675b9d06cd3d8fc181e3` |
+| `entering-law/OT_1996CHUNK12_LAWYER_PRIOR_PUBLIC_POSITIONS.md` | `e4726018c06f0011fa50de2cb23b99094cc98880eccdd4a3add838fdad68292c` |
 | JA OCR, `sources/chunk12-lawyer-control/micro_IA40385013_0774 07. Joint Appendix_djvu.txt` | `79bfed0e20cf538eae3f560054620baf239708e9e046e778ccd4732f3d5673ea` |
 | Official Firefighters OCR, `sources/chunk12-lawyer-control/firefighters-v-cleveland-478-us-501-official-loc.txt` | `6922ea0aba3e378ecf8cd694ede470a1a453400bc13291c3ad2544fe1045b369` |
 | `foundation/ENGINE.md` | `505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c` |

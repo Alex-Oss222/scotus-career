@@ -37,7 +37,7 @@ Under Stone's proposed **Contextual Fair-Notice and Reasonable-Conduct Test**, q
 
 ## A. STATUS
 
-- **Approval Status:** Approved by the user on October 11, 2026 as Stone's proposed position, reasoning, and stated fallback. It remains a proposal to the Court, not decided simulated law.
+- **Approval Status:** Approved by the user on October 11, 2026 as Stone's proposed position, reasoning, and stated fallback. The revised position stated below was user-approved 2026-10-30. It remains a proposal to the Court, not decided simulated law.
 
 ## B. ANSWERS AND APPLICATION
 
@@ -47,7 +47,7 @@ Under Stone's proposed **Contextual Fair-Notice and Reasonable-Conduct Test**, q
 
 3. **Weber and Johnson remain intact.** Nothing here overrules them, requires proof of a past violation by the employer, or forbids a remedial layoff arrangement supported by a manifest imbalance in a traditionally segregated category.
 
-4. **Separate part: statutory and constitutional standards differ.** Title VII is not the Equal Protection Clause, and this decision rests on the statute. It holds nothing about whether diversity can ever justify race consideration by a public institution and decides no constitutional question. A university's educational mission and an employer's workforce layoff present different questions. If the Court has by then recognized an educational-benefit interest for a public university, that recognition rests on the institution's academic function and does not transfer to a decision to discharge an incumbent. Simulated Adarand's actual federal holding provides no exemption for this local employment decision, and historical Adarand is not imported.
+4. **Separate part: statutory and constitutional standards differ.** Title VII is not the Equal Protection Clause, and this decision rests on the statute. It holds nothing about whether diversity can ever justify race consideration by a public institution and decides no constitutional question. A university's educational mission and an employer's workforce layoff present different questions. If the Court has by then recognized an educational-benefit interest for a public university, that recognition rests on the institution's academic function and does not transfer to a decision to discharge an incumbent. Simulated Adarand's actual holding provides no exemption for this local employment decision, and historical Adarand is not imported.
 
 ## C. PRECISE PROPOSED DISPOSITION
 

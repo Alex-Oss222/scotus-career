@@ -1,7 +1,7 @@
 **Case and dockets:** Metropolitan Life Insurance Co. v. Robertson-Ceco Corp.; Second Circuit No. 95-7370; companion petition identifiers 96-306 and 96-472.
 **Event and date:** Merits decision — 1997-04-21; October Term 1996, chunk 7, inventory 72.
 **Result:** Reversal and remand, six votes; Stone-Zsela would vacate and remand; Ginsburg and Breyer would affirm. All nine leave the discovery limit undisturbed.
-**Version / lineage:** Initial original Canonical Decision Record; no prior adjudication superseded. No Git command was run and no commit provenance is claimed.
+**Version / lineage:** Original decision
 
 ## Decision kernel and entering law
 
@@ -67,7 +67,7 @@ Assembly used only the authorized frozen neutral/reconciled and entering-law han
 - `runtime/OT_1996CHUNK7_72_STONE.md` — SHA-256 `e036cf1843861a5d68ccde43d81d1a9c539dc8568f0000482a7711ce219c2101`.
 - `freeze/OT_1996CHUNK7_72_STONE_COPY_RECEIPT.json` — SHA-256 `d8c34d1da4cdb2e964d1e1abd1f367e2a4d2c834908eccc231f76cbcfc9e14ba`.
 - `entering-law/OT_1996CHUNK7_72_ENTERING_LAW.md` — SHA-256 `fe5d51d824f266cf2d49bdfe0ff6c20151fa5f7790c206f099c5029dd81f051d`.
-- `freeze/OT_1996CHUNK7_72_ASSIGNMENT_RECOUNT.json` — SHA-256 `b91059832368c1763c5dfc2451cbea75b68bdb981e81d08431d4dcaed0472952`.
+- `freeze/OT_1996CHUNK7_72_ASSIGNMENT_RECOUNT.json` — SHA-256 `5a8e15688a6d3044ac2a83355232c0f3f7f70aed3cbeff29fe9441c01ce26612`.
 
 ## Public Projection
 

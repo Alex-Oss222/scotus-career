@@ -6,12 +6,12 @@
   },
   {
     "source": "terms/OT1994/output/OT_1994CHUNK9.md",
-    "source_sha256": "9dd03e639f5632fab13649b0a74cde06580921145418a4664926310636f966c2",
-    "entry_sha256": "461682f0fbe95ff8cc0d8bf78450714e2f0846fa08a4912307789480a7f05d35"
+    "source_sha256": "fa657b8dc1d9fd47177adb80ad6467ebfdc2f273e965a426a7d2185b5fc3df7d",
+    "entry_sha256": "8a9654ff69bf5220d72000c908db2fa901881b8c68ba23dc439d85e0b4708766"
   },
   {
     "source": "terms/OT1995/output/OT_1995CHUNK8.md",
-    "source_sha256": "bf2d9f46c7e9a3b47b5f72c23870cecf0a483e1a52fb289ec678eba5874b8f28",
-    "entry_sha256": "5d32292689587be69cd39f5011db93c5844d2c1b9ef1532b39f22c263944a357"
+    "source_sha256": "26e9711e068ca0290e196b249c1ab9ab4efc44bfb0f3ec0a398e24a15e6052c8",
+    "entry_sha256": "d0b54f81468cf17e950218e435d5560e8b898c6df3a7983aa6107610473c97c3"
   }
 ]

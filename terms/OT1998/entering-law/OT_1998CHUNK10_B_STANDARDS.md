@@ -8,11 +8,11 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Governing question:** Constitutional justification and fit for local racial or ethnic contracting classifications.
 
-**Current rule:** Local racial or ethnic contracting preferences require a supported compelling justification and narrowly fitted means. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Before adopting preferences, the government must seriously consider reasonably available race-neutral measures responsive to the identified exclusion and explain their inadequacy; it need not try and exhaust every conceivable measure.
+**Current rule:** Local racial or ethnic contracting preferences must satisfy Adarand's common substantial-justification standard. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Before adopting preferences, the government must seriously consider reasonably available race-neutral measures responsive to the identified exclusion and explain their inadequacy; it need not try and exhaust every conceivable measure.
 
 **Authority by component:**
 
-- Engineering Contractors Holdings 2–3: local strict scrutiny, supported repair and neutral alternatives: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
+- Engineering Contractors Holdings 2–3: application of Adarand's common standard, supported repair and neutral alternatives: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
 
 **Present operation effective:** 1998-09-21.
 

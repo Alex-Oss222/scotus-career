@@ -307,7 +307,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 - Shaw v. Reno: applies its territorial-design rule and independent-injury qualification; the rule is retained despite the dissent’s express proposal to replace it.
 - Gomillion v. Lightfoot: preserves review of boundaries that themselves accomplish racial exclusion.
-- Richmond v. J.A. Croson Co. and Adarand Constructors v. Peña: distinguished by the operative allocation of opportunities; their own governing standards remain intact.
+- Richmond v. J.A. Croson Co. and Adarand Constructors v. Peña: distinguished by the operative allocation of opportunities; Adarand’s common standard, which retains Croson’s evidentiary demands, remains intact and is not extended to territorial design alone.
 
 ##### The asserted sorting, status and representation inferences do not establish a distinct deprivation here
 
@@ -4512,9 +4512,9 @@ The operative succession claim arose with Dorothy's 1979 death and the 1980 orde
 
 **Proposition-level authority:** O'Connor's Part I, unanimous.
 
-**Limits and questions not reached:** No equal-protection claim is decided. Hopwood's supported public-university diversity interest and strict scrutiny of actual means remain intact; its reservation of employment and other educational levels is neither statutory permission nor a constitutional prohibition.
+**Limits and questions not reached:** No equal-protection claim is decided. Hopwood's supported public-university diversity interest and review of actual means under Adarand's common standard remain intact; its reservation of employment and other educational levels is neither statutory permission nor a constitutional prohibition.
 
-**Treatment of earlier authority:** Hopwood and its preserved Bakke competitive-consideration proposition do not amend Title VII or import admissions proof and remedy rules. Adarand's federal constitutional rule supplies no local employment exemption.
+**Treatment of earlier authority:** Hopwood and its preserved Bakke competitive-consideration proposition do not amend Title VII or import admissions proof and remedy rules. Adarand's constitutional rule supplies no local employment exemption.
 
 ##### The nonremedial race-selected discharge violates Title VII on two independent grounds
 

@@ -195,7 +195,7 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-30.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
@@ -211,7 +211,7 @@
 * **Question Stone Resolves:** Do the challenged promotion preferences have a sufficient predicate?
 * **Stone's Legal Position:** The race- and sex-based out-of-rank promotions are invalid on the record presented.
 * **Stone's Proposed Holding:** The race- and sex-based out-of-rank promotions are invalid on the record presented.
-* **Essential Reasoning and Record Application:** Croson and the completed Engineering Contractors decision require a local government to identify discrimination for which it may constitutionally provide a remedy, supported by evidence related to the relevant qualified labor and promotion pool. General workforce imbalance or a desire for representational parity is not enough. Federal remedial latitude under the retained Metro Broadcasting/Adarand framework does not migrate to Dallas. The proof here does not establish the required justification for bypassing the higher-ranked candidates in the challenged categories.
+* **Essential Reasoning and Record Application:** Croson and the completed Engineering Contractors decision require a local government to identify discrimination for which it may constitutionally provide a remedy, supported by evidence related to the relevant qualified labor and promotion pool. General workforce imbalance or a desire for representational parity is not enough. Adarand’s common standard, which retains Croson’s demand for relevant evidence, governs Dallas as it governs every level of government, and a remedial purpose alone does not establish validity. The proof here does not establish the required justification for bypassing the higher-ranked candidates in the challenged categories.
 * **Boundary or Reserved Question:** The deputy-chief appointment sustained separately below is outside the present grant.
 
 ### Issue 2: Fit and distinct sex analysis
@@ -220,7 +220,7 @@
 * **Question Stone Resolves:** Do the measures satisfy their separate constitutional standards?
 * **Stone's Legal Position:** Affirm the invalidation of the challenged race- and sex-conscious promotions without merging their standards.
 * **Stone's Proposed Holding:** Affirm the invalidation of the challenged race- and sex-conscious promotions without merging their standards.
-* **Essential Reasoning and Record Application:** Even a valid remedial objective must explain why the actual rank departures and beneficiaries repair the identified discrimination. A score band may identify qualified candidates but cannot itself establish a remedial constitutional predicate or justify racial allocation within that band. The sex classifications require an important governmental objective and a substantial relationship supported by an exceedingly persuasive justification; they do not receive strict scrutiny merely because racial preferences are also challenged. The evidence and fit do not sustain the challenged promotions under either applicable route.
+* **Essential Reasoning and Record Application:** Even a valid remedial objective must explain why the actual rank departures and beneficiaries repair the identified discrimination. A score band may identify qualified candidates but cannot itself establish a remedial constitutional predicate or justify racial allocation within that band. The sex classifications require an important governmental objective and a substantial relationship supported by an exceedingly persuasive justification; they do not receive Adarand’s racial-classification standard merely because racial preferences are also challenged. The evidence and fit do not sustain the challenged promotions under either applicable route.
 * **Boundary or Reserved Question:** No approval or invalidation of every component of the plan, Title VII claim, Texas-law claim or promotion outside the grant.
 
 # Martin v. Hadix

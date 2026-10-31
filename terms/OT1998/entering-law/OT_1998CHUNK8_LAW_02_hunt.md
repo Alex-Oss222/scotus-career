@@ -26,7 +26,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 - Shaw v. Reno: applies its territorial-design rule and independent-injury qualification; the rule is retained despite the dissent’s express proposal to replace it.
 - Gomillion v. Lightfoot: preserves review of boundaries that themselves accomplish racial exclusion.
-- Richmond v. J.A. Croson Co. and Adarand Constructors v. Peña: distinguished by the operative allocation of opportunities; their own governing standards remain intact.
+- Richmond v. J.A. Croson Co. and Adarand Constructors v. Peña: distinguished by the operative allocation of opportunities; Adarand’s common standard, which retains Croson’s evidentiary demands, remains intact and is not extended to territorial design alone.
 
 ##### The asserted sorting, status and representation inferences do not establish a distinct deprivation here
 
@@ -199,7 +199,7 @@ The lower courts must address the supported present burden on ordinary political
 
 **Rule:** The racial political-process rule does not by itself resolve a challenge to removing authority over sex-conscious measures. The lower court must examine the asserted sex-based barrier on its own terms, applying the important-objective and substantial-relationship standard to an actual sex classification without presuming that every statewide policy withdrawal creates such a classification.
 
-**Controlling explanation:** Virginia and Engineering Contractors require a genuine important governmental objective and a substantial relationship between that objective and a sex classification; they do not treat a stereotype as justification. Hunter and Seattle concern racial political structure and do not automatically decide every sex-conscious policy. The appellate categorical treatment omitted the separate inquiry. Section 31(c) preserves bona fide sex qualifications reasonably necessary to normal governmental operations in the three covered fields; it is neither a general permission for sex preferences nor proof that the initiative rests on a stereotype. The Court remands the distinct theory without finding all sex-neutrality rules invalid or extending racial strict scrutiny to them.
+**Controlling explanation:** Virginia and Engineering Contractors require a genuine important governmental objective and a substantial relationship between that objective and a sex classification; they do not treat a stereotype as justification. Hunter and Seattle concern racial political structure and do not automatically decide every sex-conscious policy. The appellate categorical treatment omitted the separate inquiry. Section 31(c) preserves bona fide sex qualifications reasonably necessary to normal governmental operations in the three covered fields; it is neither a general permission for sex preferences nor proof that the initiative rests on a stereotype. The Court remands the distinct theory without finding all sex-neutrality rules invalid or extending the racial-classification standard to them.
 
 ### III. Federal permission does not establish blanket preemption
 
@@ -221,11 +221,11 @@ The lower courts must address the supported present burden on ordinary political
 - Washington v. Seattle School District is applied to selective relocation of racial remedial authority; a voluntary underlying policy is not outside its concern for that reason alone.
 - Crawford v. Board of Education is distinguished at its policy-withdrawal scope, which remains effective without erasing Seattle's structural inquiry.
 - Romer v. Evans is applied as preserving those racial precedents while rejecting a universal entitlement to favorable law at every governmental level.
-- City of Richmond v. J. A. Croson Co. remains the local racial-classification standard; the political-process ruling excuses no defective program.
+- Croson's evidentiary demands remain part of Adarand's common standard for state and local racial classifications; the political-process ruling excuses no defective program.
 - Hopwood v. Texas retains its supported educational-diversity justification and required fit; permission does not compel a program.
-- Engineering Contractors retains local racial strict scrutiny and the distinct demanding intermediate scrutiny for sex classifications; its limits govern affected measures on remand.
+- Engineering Contractors applies Adarand's common standard to local racial classifications and retains the distinct demanding intermediate scrutiny for sex classifications; its limits govern affected measures on remand.
 - United States v. Virginia supplies the genuine-objective and substantial-relationship requirement for sex classifications, not an automatic racial political-process rule.
-- Adarand Constructors v. Pena retains its distinct federal standard; that standard is not transferred to state or local programs.
+- Adarand Constructors v. Pena supplies the common standard for federal, state and local racial classifications; the political-process ruling neither relaxes nor displaces it.
 - United Steelworkers v. Weber and Johnson v. Transportation Agency are applied as permission for defined voluntary measures, not a universal command or a complete preemption rule.
 
 ## Law After Decision

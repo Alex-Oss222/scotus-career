@@ -1,7 +1,7 @@
 **Case and dockets:** Kadic v. Karadzic; Doe v. Karadzic; Second Circuit Nos. 94-9035 and 94-9069.
 **Event and date:** Merits decision — 1997-04-21; October Term 1996, chunk 7, inventory 73.
 **Result:** Affirm the reversal of dismissal and remand both actions, 7–2; all nine support the common jurisdictional, justiciability, surviving official-torture/TVPA, immunity and qualified procedural grounds.
-**Version / lineage:** Initial original Canonical Decision Record; no prior adjudication superseded. No Git command was run and no commit provenance is claimed.
+**Version / lineage:** Original decision
 
 ## Decision kernel and entering law
 
@@ -65,7 +65,7 @@ The first assembly context read the frozen neutral/reconciled handoffs and the a
 - `runtime/OT_1996CHUNK7_73_STONE.md` — SHA-256 `2980d1b95899dc713cfe65fa7449ac0a3a15d3156acca16d0da98c44b6e5feac`.
 - `freeze/OT_1996CHUNK7_73_STONE_COPY_RECEIPT.json` — SHA-256 `6f300ab548252231ac98d1239222e397184f6dbe21b8821f3abf16b7564ff22c`.
 - `entering-law/OT_1996CHUNK7_73_READING.md` — SHA-256 `77fc131fa47599dda6af6483245e25594462fcd407dc2307550baabe21ddeee1`.
-- `freeze/OT_1996CHUNK7_73_ASSIGNMENT_RECOUNT.json` — SHA-256 `d5d41e42a49a9358de3640604dfd80ddc6d29fb073ffc2da361be795ab50bd15`.
+- `freeze/OT_1996CHUNK7_73_ASSIGNMENT_RECOUNT.json` — SHA-256 `0667e86f3c2792202d7fd510641aa6d3140fb34bc7f85a5977cf35c0c8a78b71`.
 
 ## Public Projection
 

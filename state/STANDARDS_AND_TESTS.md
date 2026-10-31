@@ -7529,11 +7529,11 @@ For the full-accommodation route, actual demonstrated interests, abilities and c
 
 **Governing question:** Justification of a State university’s admissions classification and remedies for a proved unequal process.
 
-**Current rule:** A State university’s racial admissions classifications require a compelling objective and narrowly fitted means. Concrete educational benefits of genuine student diversity can supply that objective on a supported record, but a label, numerical racial balance or assumptions that race determines viewpoint cannot. Applicants must receive genuinely competitive individual consideration; unjustified separate racial decision systems fail. After an unconstitutional admissions process is established, the school must prove by a preponderance that each applicant would have been rejected under a specified constitutional process to defeat relief for denied admission and its consequences. Plaintiffs must still prove actual compensable loss under an available cause against a proper defendant. A successful same-decision defense does not erase the process injury; failure of the defense awards neither automatic damages nor unconditional admission. Deliberate unequal racial treatment satisfies the presented Title VI intent requirement despite good faith or a beneficial aim; remedial elements, defendants and immunity remain separate.
+**Current rule:** A State university’s racial admissions classifications must satisfy Adarand’s common substantial-justification standard. Concrete educational benefits of genuine student diversity can supply an important objective within the university’s lawful authority on a supported record, but a label, numerical racial balance or assumptions that race determines viewpoint cannot. Applicants must receive genuinely competitive individual consideration; unjustified separate racial decision systems fail. After an unconstitutional admissions process is established, the school must prove by a preponderance that each applicant would have been rejected under a specified constitutional process to defeat relief for denied admission and its consequences. Plaintiffs must still prove actual compensable loss under an available cause against a proper defendant. A successful same-decision defense does not erase the process injury; failure of the defense awards neither automatic damages nor unconditional admission. Deliberate unequal racial treatment satisfies the presented Title VI intent requirement despite good faith or a beneficial aim; remedial elements, defendants and immunity remain separate.
 
 **Authority by component:**
 
-- Strict scrutiny and equal competition: Hopwood v. Texas — Hopwood v. Texas — I. The established unequal admissions process, November 25, 1996; O’Connor, all nine.
+- Governing standard and equal competition: Hopwood v. Texas — Hopwood v. Texas — I. The established unequal admissions process, November 25, 1996; O’Connor, all nine.
 - Affirmative educational-interest rule: Hopwood — Hopwood v. Texas — II. A supported educational-diversity interest is constitutionally available; O’Connor, Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Kennedy’s judgment vote is not an affirmative-interest join.
 - Same-decision burden: Hopwood v. Texas — IV-A. Individual causation and the same-decision burden; Title VI intent: Hopwood v. Texas — IV-B. Purposeful treatment and statutory intent; O’Connor and all seven other Associates. Source-specific process relief: Hopwood v. Texas — IV-D. Source-specific relief and undecided defenses, all nine. 
 - Preserved punitive-culpability alternatives: Hopwood, November 25, 1996, O’Connor and all seven other Associates. Hopwood v. Texas — IV-C. The punitive request on this record. 
@@ -7541,7 +7541,7 @@ For the full-accommodation route, actual demonstrated interests, abilities and c
 
 **Present operation effective:** Hopwood, November 25, 1996.
 
-**Exceptions and limits:** No particular later holistic program is approved and no institution must use race. Prospective relief independently requires concrete future exposure, a supported record and an equitable basis. Existing federal-classification rules remain distinct. Punitive liability retains Smith v. Wade’s evil-motive-or-intent or reckless-or-callous-indifference alternatives; beneficial purpose is not a universal defense and purposeful treatment alone does not prove punitive culpability.
+**Exceptions and limits:** No particular later holistic program is approved and no institution must use race. Prospective relief independently requires concrete future exposure, a supported record and an equitable basis. Federal classifications, other educational levels and employment lie outside this rule’s scope. Punitive liability retains Smith v. Wade’s evil-motive-or-intent or reckless-or-callous-indifference alternatives; beneficial purpose is not a universal defense and purposeful treatment alone does not prove punitive culpability.
 
 **Related current rules:** Dismantling a formerly segregated public university system supplies the State’s separate, causally bounded remedial duty.
 
@@ -7567,11 +7567,11 @@ For the full-accommodation route, actual demonstrated interests, abilities and c
 
 **Governing question:** Constitutional justification and fit for local racial or ethnic contracting classifications.
 
-**Current rule:** Local racial or ethnic contracting preferences require a supported compelling justification and narrowly fitted means. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Before adopting preferences, the government must seriously consider reasonably available race-neutral measures responsive to the identified exclusion and explain their inadequacy; it need not try and exhaust every conceivable measure.
+**Current rule:** Local racial or ethnic contracting preferences must satisfy Adarand's common substantial-justification standard. General inequality, imbalance and good intentions alone are insufficient; a supported local system of exclusion in which the government participates may permit fitted repair without an invariably required prior liability judgment. Before adopting preferences, the government must seriously consider reasonably available race-neutral measures responsive to the identified exclusion and explain their inadequacy; it need not try and exhaust every conceivable measure.
 
 **Authority by component:**
 
-- Engineering Contractors Holdings 2–3: local strict scrutiny, supported repair and neutral alternatives: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
+- Engineering Contractors Holdings 2–3: application of Adarand's common standard, supported repair and neutral alternatives: Engineering Contractors Association of South Florida v. Metropolitan Dade County — controlling Holdings, 1998-09-21.
 
 **Present operation effective:** 1998-09-21.
 

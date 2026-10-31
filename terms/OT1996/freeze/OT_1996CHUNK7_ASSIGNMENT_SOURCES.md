@@ -832,7 +832,7 @@ Source: `terms/OT1996/records/Hopwood_v_Texas_merits_1996-11-25.md`
 
 | Writing or part | Author | Joined by | Relationship and exact scope |
 |---|---|---|---|
-| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; state strict scrutiny. |
+| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; Adarand’s governing standard. |
 | Opinion of the Court, Part II | O’Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Six-Justice affirmative educational-diversity rule and actual Bakke treatment. Kennedy concurs only in vacating the categorical direction. |
 | Opinion of the Court, Part III | O’Connor | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice continuing-duty/unit rule and claim-linked further inquiry. Scalia does not join. |
 | Opinion of the Court, Parts IV-A, IV-B and IV-C | O’Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice causation/preponderance rule; Title VI intent; complete punitive standard and bounded denial. Stone-Zsela agrees with the respective dispositions only. |
@@ -850,7 +850,7 @@ The Chief is in each prevailing judgment coalition, including the individual-rem
 
 Source lines 42–42:
 
-Fit favors O’Connor’s own Croson opinion and Wygant concurrence: they perform the precise evidence, governmental-purpose, individual-burden, alternatives and remedial-fit work needed to distinguish a possibly compelling educational objective from an unconstitutional admissions implementation. Her Metro dissent distinguishes individualized higher-education diversity from a racial viewpoint proxy. Her present commitment supports every Court part without an unresolved accommodation. Souter is the strongest alternative for precedent scope and institutional remedy through his actual Adarand concurrence and Jenkins authorship. Stone is a serious alternative for practical operation and separating injury from remedy, but his additional operational/repair conditions and unadopted proof quantum would require more partial principal-opinion sections. O’Connor’s already shared scrutiny-and-fit formulation offers the concrete coordination advantage. This is fit, not an invented expansion history or a workload quota.
+Fit favors O’Connor’s own Croson opinion and Wygant concurrence: they perform the precise evidence, governmental-purpose, individual-burden, alternatives and remedial-fit work needed to distinguish a possibly important educational objective from an unconstitutional admissions implementation. Her Metro dissent distinguishes individualized higher-education diversity from a racial viewpoint proxy. Her present commitment supports every Court part without an unresolved accommodation. Souter is the strongest alternative for precedent scope and institutional remedy through his actual Adarand concurrence and Jenkins authorship. Stone is a serious alternative for practical operation and separating injury from remedy, but his additional operational/repair conditions and unadopted proof quantum would require more partial principal-opinion sections. O’Connor’s already shared scrutiny-and-fit formulation offers the concrete coordination advantage. This is fit, not an invented expansion history or a workload quota.
 
 Source lines 44–44:
 

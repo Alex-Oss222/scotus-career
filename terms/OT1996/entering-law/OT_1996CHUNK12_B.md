@@ -874,7 +874,7 @@ For the other questions in Johnson v. Miller (Miller v. Johnson / Abrams v. John
 
 - Shaw v. Reno: applies its territorial-design rule and independent-injury qualification; the rule is retained despite the dissent’s express proposal to replace it.
 - Gomillion v. Lightfoot: preserves review of boundaries that themselves accomplish racial exclusion.
-- Richmond v. J.A. Croson Co. and Adarand Constructors v. Peña: distinguished by the operative allocation of opportunities; their own governing standards remain intact.
+- Richmond v. J.A. Croson Co. and Adarand Constructors v. Peña: distinguished by the operative allocation of opportunities; Adarand’s common standard, which retains Croson’s evidentiary demands, remains intact and is not extended to territorial design alone.
 
 ##### The asserted sorting, status and representation inferences do not establish a distinct deprivation here
 

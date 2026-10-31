@@ -5,7 +5,7 @@ Only sentences recording actual assignments are copied. Complete assignment coun
 
 ### OT1994/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md
 
-Stone is in the judgment majority and assigns the Court opinion to Stevens.
+The Chief Justice is in the judgment majority and assigns the opinion of the Court to himself on fit: his formulation is the complete rule the five-Justice coalition adopts, and his authorship gives precise expression to its justification, precedent treatment and remand directions.
 
 
 ### OT1994/Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md

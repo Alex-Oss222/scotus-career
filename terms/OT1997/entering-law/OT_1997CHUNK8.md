@@ -2863,13 +2863,13 @@ For the other questions in this decision, see Criminal Procedure — False state
 **Docket or dockets:** No. 93-1841.
 **Decided:** June 12, 1995.
 
-For the other questions in Adarand Constructors, Inc. v. Peña, decided June 12, 1995, No. 93-1841. see Civil Rights — Federal remedial racial classifications (The inherited federal remedial standard sustains this challenge).
+For the other questions in Adarand Constructors, Inc. v. Peña, decided June 12, 1995, No. 93-1841. see Civil Rights — Governmental racial classifications (The common substantial-justification standard).
 
 ##### Equal competitive opportunity and prospective standing
 
 **Holding:** A bidder able and ready to compete suffers a personal injury when a governmental racial preference denies equal competitive opportunity; it need not prove that it would have received the contract. Prospective relief also requires a real, sufficiently imminent renewed exposure to that preference, which Adarand's repeated bidding and continuing opportunity to encounter the challenged incentive establish here.
 
-**Proposition-level authority:** Threshold portion of Justice Stevens's opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Souter, Ginsburg and Breyer; five Justices adopt the proposition. Justices O'Connor, Scalia, Kennedy and Thomas independently agree with this threshold conclusion in their dissenting positions.
+**Proposition-level authority:** Standing portion of Chief Justice Stone-Zsela's opinion of the Court, joined by Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; all nine adopt the holding and its reasoning.
 
 **Limits and questions not reached:** Standing proves no entitlement to the contract, damages or waiver of sovereign immunity and does not establish unconstitutional discrimination.
 
@@ -2878,7 +2878,7 @@ For the other questions in Adarand Constructors, Inc. v. Peña, decided June 12,
 - Northeastern Florida Chapter, AGC v. Jacksonville (June 14, 1993): applies its equal-opportunity injury rule; no guaranteed contract award is required.
 - Lujan v. Defenders of Wildlife (June 12, 1992): retains concrete injury, causal connection and stage-appropriate proof; prospective relief requires sufficiently imminent renewed exposure.
 
-**Operative remedy or transition:** Affirm the Tenth Circuit judgment rejecting the preserved constitutional challenge, 5–4. No remand, program redesign, injunction, damages or award of a subcontract follows.
+**Operative remedy or transition:** Vacate the Tenth Circuit judgment and remand, 9–0, for application of the common standard. No program redesign, injunction, damages or award of a subcontract is ordered.
 
 ### Antecedent grounds and constitutional avoidance
 
@@ -19837,9 +19837,9 @@ The operative succession claim arose with Dorothy's 1979 death and the 1980 orde
 
 **Proposition-level authority:** O'Connor's Part I, unanimous.
 
-**Limits and questions not reached:** No equal-protection claim is decided. Hopwood's supported public-university diversity interest and strict scrutiny of actual means remain intact; its reservation of employment and other educational levels is neither statutory permission nor a constitutional prohibition.
+**Limits and questions not reached:** No equal-protection claim is decided. Hopwood's supported public-university diversity interest and review of actual means under Adarand's common standard remain intact; its reservation of employment and other educational levels is neither statutory permission nor a constitutional prohibition.
 
-**Treatment of earlier authority:** Hopwood and its preserved Bakke competitive-consideration proposition do not amend Title VII or import admissions proof and remedy rules. Adarand's federal constitutional rule supplies no local employment exemption.
+**Treatment of earlier authority:** Hopwood and its preserved Bakke competitive-consideration proposition do not amend Title VII or import admissions proof and remedy rules. Adarand's constitutional rule supplies no local employment exemption.
 
 ##### The nonremedial race-selected discharge violates Title VII on two independent grounds
 

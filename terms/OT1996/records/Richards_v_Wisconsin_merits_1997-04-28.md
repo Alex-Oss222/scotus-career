@@ -75,7 +75,7 @@ Research cutoff: 1997-04-28; only date-eligible law and event facts support the 
 - `freeze/OT_1996CHUNK7_76_RECONCILED.md` — SHA-256 `94c7f06d24ae2da835405d39b8b6d2477e688b490b20cd16df4a298d50c497a6`.
 - `runtime/OT_1996CHUNK7_76_STONE.md` — SHA-256 `a00079f491d0c3ed9f71b1f886fdb17423a25970f7d13dc2f08d031e45ba2509`.
 - `entering-law/OT_1996CHUNK7_76_ENTERING_LAW.md` — SHA-256 `2ac3538f93326fcd4a1485e5d46655b74176eb4e2ea62f89ac005bcab311f5e4`.
-- `freeze/OT_1996CHUNK7_76_ASSIGNMENT_RECOUNT.json` — SHA-256 `9e3f3d06de324a20e04cd6c454bf078dcc5a46cc3b84cd01aacd32efb20f8513`.
+- `freeze/OT_1996CHUNK7_76_ASSIGNMENT_RECOUNT.json` — SHA-256 `a721a8fd56776ca85ae703cbcf94f70260673958ee15a4b0022a2115be9b1ab3`.
 
 ## Public Projection
 

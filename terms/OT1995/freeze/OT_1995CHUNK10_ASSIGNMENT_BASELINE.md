@@ -10,8 +10,8 @@ Each distinct opinion with an express Chief assignment is counted once. The exis
 
 | Recipient | OT1994 named Chief assignments | Existing OT1995 named Chief assignments |
 |---|---:|---:|
-| Stone-Zsela | 7 | 4 |
-| Stevens | 11 | 7 |
+| Stone-Zsela | 8 | 4 |
+| Stevens | 10 | 7 |
 | O'Connor | 13 | 25 |
 | Scalia | 5 | 5 |
 | Kennedy | 13 | 11 |
@@ -1616,11 +1616,11 @@ Every named classification is supported by the excerpted assignment statement. N
 
 ### Adarand_Constructors_Inc_v_Pena_merits_1995-06-12
 
-**Count classification:** Stevens.
+**Count classification:** Stone-Zsela.
 
-[Record](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md), line 81:
+[Record](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md), line 118:
 
-> Stone is in the judgment majority and assigns the Court opinion to Stevens.
+> The Chief Justice is in the judgment majority and assigns the opinion of the Court to himself on fit: his formulation is the complete rule the five-Justice coalition adopts, and his authorship gives precise expression to its justification, precedent treatment and remand directions.
 
 ### City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12
 

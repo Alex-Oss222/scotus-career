@@ -4,7 +4,7 @@ Read solely for the preceding-term assignment restriction. Each opinion counts o
 
 | Record | Chief-assigned author |
 |---|---|
-| [record](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md) | Stevens |
+| [record](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md) | Stone-Zsela |
 | [record](../../OT1994/records/Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md) | Breyer |
 | [record](../../OT1994/records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md) | Stevens |
 | [record](../../OT1994/records/American_Airlines_Inc_v_Wolens_merits_1995-01-18.md) | Ginsburg |
@@ -108,6 +108,6 @@ Read solely for the preceding-term assignment restriction. Each opinion counts o
 
 Named Chief assignments: 94. One additional per curiam disposition has no named author. Neither denominator produces a Justice over half.
 
-Stevens: 11; Breyer: 8; Ginsburg: 13; Souter: 18; Kennedy: 14; Scalia: 5; O'Connor: 13; Thomas: 5; Stone-Zsela: 7.
+Stevens: 10; Breyer: 8; Ginsburg: 13; Souter: 18; Kennedy: 14; Scalia: 5; O'Connor: 13; Thomas: 5; Stone-Zsela: 8.
 
 No Justice triggers the consecutive-term restriction at the start of OT1995. Current assignments will still be assessed by fit and coalition needs, and tracked from the current Records.

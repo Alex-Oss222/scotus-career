@@ -1,7 +1,7 @@
 {
   "73": {
     "record": "Kadic_and_Doe_v_Karadzic_merits_1997-04-21.md",
-    "sha256": "2cb6e3e47630c915feba62ea231acf8f42cd7d4587164a1d585767c9281908e9",
+    "sha256": "95faccaaa69b3feea8cc8fb212889c98a43a4d440ea0811196d6a65f8c45b6a8",
     "header": "pass",
     "public_blocks": [
       "Event",
@@ -32,7 +32,7 @@
   },
   "72": {
     "record": "Metropolitan_Life_v_Robertson_Ceco_merits_1997-04-21.md",
-    "sha256": "eb3da42dde5a7744221e9a1266183bcd36506c9beb5426197f865adaf3025f8c",
+    "sha256": "6e365ca27f223d2cd1e625f5367fd8316e9f30544498b18d680eac4be829149c",
     "header": "pass",
     "public_blocks": [
       "Event",

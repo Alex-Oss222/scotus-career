@@ -10,8 +10,8 @@ The canonical OT1994 Records establish **93 named Chief assignments**, and the 3
 
 | Recipient | OT1994 named Chief assignments | OT1995 before February 21 | OT1995 already made at chunk 4 opening |
 |---|---:|---:|---:|
-| Stone-Zsela | 7 | 1 | 1 |
-| Stevens | 11 | 1 | 1 |
+| Stone-Zsela | 8 | 1 | 1 |
+| Stevens | 10 | 1 | 1 |
 | O'Connor | 13 | 12 | 12 |
 | Scalia | 5 | 1 | 1 |
 | Kennedy | 13 | 3 | 3 |
@@ -307,7 +307,7 @@ Each assignment quotation in the preceding [bounded census](OT_1995CHUNK3_RESUME
 | [United_States_v_Wellons_merits_1995-05-30](../../OT1994/records/United_States_v_Wellons_merits_1995-05-30.md) | Stone-Zsela |
 | [Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05](../../OT1994/records/Metropolitan_Washington_Airports_Authority_v_Hechinger_merits_1995-06-05.md) | Stevens |
 | [Reno_v_Koray_merits_1995-06-05](../../OT1994/records/Reno_v_Koray_merits_1995-06-05.md) | ASSOCIATE Thomas |
-| [Adarand_Constructors_Inc_v_Pena_merits_1995-06-12](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md) | Stevens |
+| [Adarand_Constructors_Inc_v_Pena_merits_1995-06-12](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md) | Stone-Zsela |
 | [City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12](../../OT1994/records/City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md) | Stevens |
 | [Johnson_v_Jones_merits_1995-06-12](../../OT1994/records/Johnson_v_Jones_merits_1995-06-12.md) | Breyer |
 | [Kimberlin_v_Quinlan_merits_1995-06-12](../../OT1994/records/Kimberlin_v_Quinlan_merits_1995-06-12.md) | Ginsburg |

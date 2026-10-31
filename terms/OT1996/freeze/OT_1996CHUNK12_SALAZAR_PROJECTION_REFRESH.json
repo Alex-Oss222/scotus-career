@@ -4,8 +4,8 @@
   "projection_refreshes": [
     {
       "path": "terms/OT1996/workspace/continuity.md",
-      "before_sha256": "d2055242e69cf722697b8baa536037941fbc7c0b6835f2dd959dc6bbcdcef824",
-      "after_sha256": "d2055242e69cf722697b8baa536037941fbc7c0b6835f2dd959dc6bbcdcef824",
+      "before_sha256": "35cc95d0b7e1338c3a3e54f3a5a70b9f8ed6e7257c90af3d2a266c9aa8784295",
+      "after_sha256": "35cc95d0b7e1338c3a3e54f3a5a70b9f8ed6e7257c90af3d2a266c9aa8784295",
       "fields": [
         "Salazar-Haro Holdings",
         "Salazar-Haro Law After Decision"
@@ -14,8 +14,8 @@
     },
     {
       "path": "terms/OT1996/workspace/neutral-projection.md",
-      "before_sha256": "c2bba408305b8b08468433e964d80d20966dfedc51052ae267142aed381e86e5",
-      "after_sha256": "c2bba408305b8b08468433e964d80d20966dfedc51052ae267142aed381e86e5",
+      "before_sha256": "b9f39f05279c8d62d8e4f589fe459e2b38eee66b1970cd45287df330149163b1",
+      "after_sha256": "b9f39f05279c8d62d8e4f589fe459e2b38eee66b1970cd45287df330149163b1",
       "fields": [
         "Salazar-Haro Holdings",
         "Salazar-Haro Law After Decision"

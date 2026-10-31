@@ -87,13 +87,13 @@
         "O'Connor"
       ],
       "author_evidence": [
-        "| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; state strict scrutiny. |",
+        "| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; Adarand’s governing standard. |",
         "| Opinion of the Court, Part II | O’Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Six-Justice affirmative educational-diversity rule and actual Bakke treatment. Kennedy concurs only in vacating the categorical direction. |",
         "| Opinion of the Court, Part III | O’Connor | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice continuing-duty/unit rule and claim-linked further inquiry. Scalia does not join. |",
         "| Opinion of the Court, Parts IV-A, IV-B and IV-C | O’Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice causation/preponderance rule; Title VI intent; complete punitive standard and bounded denial. Stone-Zsela agrees with the respective dispositions only. |",
         "| Opinion of the Court, Parts IV-D and V | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice source-specific remedial reservations, retained broad-injunction refusal and limits on future-program directions. |"
       ],
-      "topology_sha256": "ec06a8181ec251990a0a2459a20f931250f24d5acde0204f5de300ab09950f97"
+      "topology_sha256": "f3826474abe72df93724a46658f91d1c3046c2787d1ccfefda1e9e918f82e397"
     },
     {
       "record": "Tyler_Murray_v_Montrose_County_School_District_merits_1996-12-02.md",

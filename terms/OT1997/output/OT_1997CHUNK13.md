@@ -557,8 +557,8 @@ All nine Justices participate.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Black-owned business program (BBE) | Affirm invalidation and permanent injunction for insufficient narrow fit, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Stone-Zsela | Program-specific permanent injunction remains; Stone-Zsela would vacate and remand under his proposed local rule, maintaining interim restraint. |
-| Hispanic-owned business program (HBE) | Affirm invalidation and permanent injunction for insufficient narrow fit, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Stone-Zsela | Program-specific permanent injunction remains; Stone-Zsela would vacate and remand under the same proposal, maintaining interim restraint. |
+| Black-owned business program (BBE) | Affirm invalidation and permanent injunction for failure to answer concrete practicable neutral alternatives, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Stone-Zsela | Program-specific permanent injunction remains; Stone-Zsela would vacate and remand for program-specific application of Adarand's standard, maintaining interim restraint. |
+| Hispanic-owned business program (HBE) | Affirm invalidation and permanent injunction for failure to answer concrete practicable neutral alternatives, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Stone-Zsela | Program-specific permanent injunction remains; Stone-Zsela would vacate and remand on the same ground, maintaining interim restraint. |
 | Women-owned business program (WBE) | Affirm invalidation and injunction for inadequate evidentiary justification under intermediate scrutiny, 5–4 | Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas | Stevens, Souter, Ginsburg and Breyer | Program-specific injunction remains; the dissenters would vacate and remand for independent intermediate review. |
 
 Each injunction remains limited to the challenged program. Lawful neutral outreach and procurement measures remain available. No unexamined future program, individual liability, contract award or damages claim is decided.
@@ -567,15 +567,15 @@ Each injunction remains limited to the challenged program. Lawful neutral outrea
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court, Parts I–III | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Supports review and the BBE/HBE affirmances | Review and standing; local strict scrutiny; common racial tailoring ground. Scalia reserves Part II's full affirmative remedial proposition beyond the rejection needed here. |
+| Opinion of the Court, Parts I–III | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Supports review and the BBE/HBE affirmances | Review and standing; Adarand's common standard for local racial classifications; common racial tailoring ground. Scalia reserves Part II's full affirmative remedial proposition beyond the rejection needed here. |
 | Same opinion, Part I limited join | O'Connor | Stone-Zsela | Agreement on threshold review | Equal-competition injury and the distinction between subsidiary factual review and constitutional legal review only; no distinct associational-standing rationale. |
 | Same opinion, Part IV | O'Connor | Stone-Zsela, Scalia, Kennedy and Thomas in full; Stevens, Souter, Ginsburg and Breyer as to the intermediate standard only | WBE affirmance has five votes; the governing standard has nine | All accept the stated intermediate standard. The five-Justice coalition adopts its application and the WBE affirmance; the four other Associates would vacate and remand. |
 | Same opinion, Part V | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer for BBE/HBE; Stone-Zsela, Scalia, Kennedy and Thomas for WBE | Program-specific affirmances and permanent relief | The respective program's injunction and the stated limits on relief. |
 | Concurrence | O'Connor | Scalia, Kennedy and Thomas | Additional ground for BBE/HBE affirmance | Racial evidentiary insufficiency after independent constitutional review; this four-Justice ground does not control. |
 | Concurrence in part and dissent in part | Stevens | Souter, Ginsburg and Breyer | Supports BBE/HBE affirmance; would vacate and remand WBE | Racial tailoring alone; independent intermediate review of the combined WBE evidence; racial evidentiary sufficiency reserved. |
-| Concurrence in part and dissent in part | Stone-Zsela | Unjoined | Supports WBE affirmance; would vacate and remand BBE/HBE while preserving interim restraint | WBE intermediate-scrutiny ground; proposed replacement of the local racial rule and bounded, program-specific racial remand. |
+| Concurrence in part and dissent in part | Stone-Zsela | Unjoined | Supports WBE affirmance; would vacate and remand BBE/HBE while preserving interim restraint | WBE intermediate-scrutiny ground; application of Adarand's common standard and bounded, program-specific racial remand. |
 
-Scalia joins the controlling strict-scrutiny requirement and actual racial tailoring holding, but not the full affirmative remedial proposition beyond the rejection needed here. Every controlling proposition has direct majority support; no combined-rationale rule is needed.
+Scalia joins the controlling Adarand-standard requirement and actual racial tailoring holding, but not the full affirmative remedial proposition beyond the rejection needed here. Every controlling proposition has direct majority support; no combined-rationale rule is needed.
 
 #### Controlling Propositions and Authority
 
@@ -592,32 +592,31 @@ Scalia joins the controlling strict-scrutiny requirement and actual racial tailo
 - Northeastern Florida applies unequal-competition injury; its standing rule does not decide the preferences' validity.
 - Brown Group applies the association requirements at their stated scope; its standing rule does not decide the preferences' validity.
 
-##### 2. The local racial classifications remain subject to strict scrutiny
+##### 2. The local racial classifications are subject to Adarand's common standard
 
-**Holding and operative rule:** Local racial and ethnic contracting classifications must rest on a supported compelling justification and narrowly fitted means. General social inequality, numerical imbalance and good intentions alone do not establish that justification; a supported local system of exclusion in which the County participates can permit fitted repair without invariably requiring a prior formal judgment of liability.
+**Holding and operative rule:** Local racial and ethnic contracting classifications must satisfy Adarand's common substantial-justification standard: an important objective within lawful authority, a substantial, evidence-supported relationship between the classification and that objective, and justified coverage and burdens, including a justified response to concrete, practicable alternatives. General social inequality, numerical imbalance and good intentions alone do not establish that justification; a supported local system of exclusion in which the County participates can permit fitted repair without invariably requiring a prior formal judgment of liability.
 
-**Authority:** Part II has all eight Associates for strict scrutiny and the federal/local distinction. Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join the affirmative remedial proposition; Scalia reserves the permissible extent of racial remediation beyond the grounds needed to reject these programs. Stone-Zsela does not join this local rule.
+**Authority:** Part II has all eight Associates for applying Adarand's common standard to local classifications; O'Connor, Scalia, Kennedy and Thomas apply it as governing precedent while maintaining their preference for strict scrutiny. Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer join the affirmative remedial proposition; Scalia reserves the permissible extent of racial remediation beyond the grounds needed to reject these programs. Stone-Zsela agrees that Adarand's standard governs but does not join Part II.
 
-**Controlling explanation:** City of Richmond v. J. A. Croson Co. governs local contracting preferences, and Hopwood v. Texas preserves supported justification, individual equality and narrow fit for state racial classifications. Adarand Constructors, Inc. v. Peña sustained its distinct federal arrangement under Metro Broadcasting, Inc. v. FCC's important-objective and substantial-relationship standard. Adarand expressly preserved Croson; its federal rule cannot be transferred to Dade County merely because the County describes its purpose as corrective. The Court declines the proposed replacement of local strict scrutiny. This decision creates neither a right to proportionate contracts nor a prohibition on every properly supported local repair program.
+**Controlling explanation:** Adarand Constructors, Inc. v. Peña adopted a common substantial-justification standard for federal, state and local racial classifications, displacing City of Richmond v. J. A. Croson Co.'s categorical strict-scrutiny formulation while retaining Croson's demand for relevant evidence, and Hopwood v. Texas preserves supported justification, individual equality and fit for state racial classifications. A corrective purpose alone does not satisfy that standard; the County must identify the relevant barrier and explain why its racial measure substantially addresses it. This decision creates neither a right to proportionate contracts nor a prohibition on every properly supported local repair program.
 
 **Precedent treatment:**
 
-- Croson remains controlling for local racial classifications.
+- Croson's retained demand for relevant evidence applies to local racial classifications under Adarand's standard.
 - Hopwood remains controlling for state racial classifications and fitted repair.
-- Adarand retains its bounded federal application; it is neither overruled nor enlarged.
-- Metro Broadcasting retains the different federal standard; it is neither overruled nor enlarged.
+- Adarand supplies the common standard governing local racial classifications; it is neither overruled nor enlarged.
 
-##### 3. The BBE and HBE programs fail the independent narrow-fit requirement
+##### 3. The BBE and HBE programs fail the governing standard's alternatives requirement
 
 **Holding and operative rule:** Before using these racial and ethnic contracting preferences, the County must seriously consider reasonably available race-neutral measures responsive to the exclusion it identifies and provide a supported explanation of their inadequacy. This record does not satisfy that requirement for either BBE or HBE; it requires considered alternatives, not trial and exhaustion of every conceivable measure.
 
-**Authority:** Part III has all eight Associates. Stone-Zsela would vacate and remand under a different proposed local rule. Four Associates also find the racial evidence insufficient, but that additional ground does not control.
+**Authority:** Part III has all eight Associates. Stone-Zsela would vacate and remand for program-specific application of Adarand's standard. Four Associates also find the racial evidence insufficient, but that additional ground does not control.
 
-**Controlling explanation:** Croson's narrow-fit requirement and Hopwood's fitted-repair principle require attention to measures addressing the actual problem. The record identifies procurement information, financing, bonding, payment and discriminatory-treatment obstacles. The County's limited technical and financial assistance and conclusory treatment of alternatives do not show serious assessment of responsive neutral measures; HBE lacks such consideration. Flexibility, waivers, annual review and five-year continuation review cannot supply the missing inquiry. The possibility that an existing BBE program reduced observed disparities matters to evidence, but cannot cure this distinct tailoring defect. The Court therefore need not decide whether the combined racial evidence would otherwise establish a sufficient remedial predicate. It does not constitutionalize a statistical-significance threshold, numerical parity, a requirement of a prior discrimination judgment or a duty to exhaust every possible neutral course.
+**Controlling explanation:** Adarand's requirement of a justified response to concrete practicable alternatives, applied with Croson's evidentiary demands and Hopwood's fitted-repair principle, requires attention to measures addressing the actual problem. The record identifies procurement information, financing, bonding, payment and discriminatory-treatment obstacles. The County's limited technical and financial assistance and conclusory treatment of alternatives do not show serious assessment of responsive neutral measures; HBE lacks such consideration. Flexibility, waivers, annual review and five-year continuation review cannot supply the missing inquiry. The possibility that an existing BBE program reduced observed disparities matters to evidence, but cannot cure this distinct tailoring defect. The Court therefore need not decide whether the combined racial evidence would otherwise establish a sufficient remedial predicate. It does not constitutionalize a statistical-significance threshold, numerical parity, a requirement of a prior discrimination judgment or a duty to exhaust every possible neutral course.
 
 **Precedent treatment:**
 
-- Croson applies to the unperformed alternatives inquiry without making corrective contracting preferences categorically invalid.
+- Adarand's alternatives element governs, and Croson's evidentiary demands inform, the unperformed inquiry without making corrective contracting preferences categorically invalid.
 - Hopwood applies its fitted-repair principle to that inquiry without categorical invalidation of corrective preferences.
 
 ##### 4. The WBE program fails the distinct intermediate-scrutiny inquiry on this record
@@ -649,10 +648,9 @@ Scalia joins the controlling strict-scrutiny requirement and actual racial tailo
 
 #### Precedent Treatment
 
-- City of Richmond v. J. A. Croson Co.: retains local strict scrutiny, supported remedial justification and narrow fit.
-- Hopwood v. Texas: retains state strict scrutiny, fitted repair and independent prospective-relief requirements.
-- Adarand Constructors, Inc. v. Peña: retains its bounded federal application; no local extension follows.
-- Metro Broadcasting, Inc. v. FCC: retains the separate federal standard.
+- City of Richmond v. J. A. Croson Co.: its retained demand for relevant evidence and supported remedial justification applies under Adarand's common standard.
+- Hopwood v. Texas: retains supported justification for state racial classifications, fitted repair and independent prospective-relief requirements.
+- Adarand Constructors, Inc. v. Peña: its common substantial-justification standard governs local racial classifications.
 - Northeastern Florida Chapter, Associated General Contractors v. Jacksonville: applies unequal-competition injury.
 - United Food & Commercial Workers Union Local 751 v. Brown Group: applies the association requirements.
 - Kelley v. Board of Trustees: preserves distinct demanding intermediate scrutiny without a statistical-only prerequisite.
@@ -662,7 +660,7 @@ Scalia joins the controlling strict-scrutiny requirement and actual racial tailo
 
 #### Law After Decision
 
-Local racial and ethnic contracting preferences remain subject to strict scrutiny, including serious assessment of responsive neutral alternatives without exhaustion of every imaginable measure. Sex classifications retain the separate important-objective/substantial-relationship test. These programs' injunctions stand on different grounds; no numerical constitutional minimum, exact-parity requirement or categorical ban on future supported repair is adopted. The four-Justice additional racial evidence ground and Stone-Zsela's replacement framework are noncontrolling.
+Local racial and ethnic contracting preferences are subject to Adarand's common substantial-justification standard, with Croson's retained evidentiary demands, including serious assessment of responsive neutral alternatives without exhaustion of every imaginable measure. Sex classifications retain the separate important-objective/substantial-relationship test. These programs' injunctions stand on different grounds; no numerical constitutional minimum, exact-parity requirement or categorical ban on future supported repair is adopted. The four-Justice additional racial evidence ground and Stone-Zsela's separate application of the standard are noncontrolling.
 
 #### Separate Writings
 
@@ -670,9 +668,9 @@ O'Connor, joined by Scalia, Kennedy and Thomas, concurs in the racial judgment o
 
 Stevens, joined by Souter, Ginsburg and Breyer, concurs in the BBE/HBE judgment on tailoring alone and dissents from the WBE affirmance. The significant women's entry disparity, surviving general-building disparity and reports of refusing to deal with women require an independent intermediate-scrutiny assessment of their combined force. Firm size may itself reflect barriers to obtaining capacity; controlling for size answers a question different from whether such barriers existed. They preserve supported subsidiary findings and invent neither a corrected regression nor a finding that the program is valid. They would vacate the WBE declaration and injunction for prompt reconsideration, with any necessary interim restraint separately assessed below. They do not direct immediate operation or a right to the entire program and reserve the additional racial evidence question because tailoring suffices.
 
-Stone-Zsela concurs in the WBE judgment and its intermediate-scrutiny ground but dissents from the BBE/HBE affirmances. He would expressly replace Croson's local rule for supported corrective contracting measures with a requirement of lawful local authority, objective evidence of identified exclusion or its continuing effects in the relevant procurement market, a substantial relationship to actual remedy, reasonable eligibility and duration limits, and meaningful opportunity for nonbeneficiaries. The County would bear the burden. Neutral alternatives would inform fit without automatically invalidating a supported program. This is a proposed change, not an extension already accomplished by Adarand.
+Stone-Zsela concurs in the WBE judgment and its intermediate-scrutiny ground but dissents from the BBE/HBE affirmances. He agrees that Adarand's common standard governs and would apply it to supported corrective contracting measures through a requirement of lawful local authority, objective evidence of identified exclusion or its continuing effects in the relevant procurement market, a substantial relationship to actual remedy, reasonable eligibility and duration limits, and meaningful opportunity for nonbeneficiaries. The County would bear the burden. Neutral alternatives would inform fit without automatically invalidating a supported program. Because the courts below assessed the record through Croson's strict-scrutiny frame, he would not treat the alternatives omission as dispositive before program-specific application of the governing standard.
 
-He would vacate the racial invalidations and remand for program-specific legal assessment of the existing record, preserving ordinary clear-error treatment of subsidiary findings and permitting further findings only as ordinary procedure and the record allow. Quantitative studies, earlier Black-firm receipt and owner-income disparities, and possible effects of an existing program merit reassessment; they do not establish that either BBE or HBE succeeds. He would keep the racial injunctions in force pending adequate findings, permitting narrowing or dissolution only as a supported program is shown to fit. He would leave the WBE injunction in force and preserve lawful neutral measures. His proposed local framework receives no other join and changes no governing law.
+He would vacate the racial invalidations and remand for program-specific legal assessment of the existing record, preserving ordinary clear-error treatment of subsidiary findings and permitting further findings only as ordinary procedure and the record allow. Quantitative studies, earlier Black-firm receipt and owner-income disparities, and possible effects of an existing program merit reassessment; they do not establish that either BBE or HBE succeeds. He would keep the racial injunctions in force pending adequate findings, permitting narrowing or dissolution only as a supported program is shown to fit. He would leave the WBE injunction in force and preserve lawful neutral measures. His separate application of the governing standard receives no other join.
 
 #### Source Notes
 

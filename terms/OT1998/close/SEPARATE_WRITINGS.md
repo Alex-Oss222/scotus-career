@@ -624,7 +624,7 @@ Stevens, joined by Souter, Ginsburg and Breyer, concurs in the standards and sex
 
 Scalia concurs in the actual rejection and governing scrutiny while reserving the broader affirmative extent of permissible racial repair. He does not make a categorical prohibition necessary to his vote.
 
-Stone-Zsela concurs in the Court's opinion and adds that the sex-based rank departures also lack a supported substantial relationship to the identified objective. A score band or qualification can show eligibility without establishing that preferential allocation repairs actual sex discrimination. This separate ground applies the demanding sex standard and creates neither racial strict scrutiny nor an exhaustion requirement. It is not a holding of the Court.
+Stone-Zsela concurs in the Court's opinion and adds that the sex-based rank departures also lack a supported substantial relationship to the identified objective. A score band or qualification can show eligibility without establishing that preferential allocation repairs actual sex discrimination. This separate ground applies the demanding sex standard and imports neither the racial-classification standard nor an exhaustion requirement. It is not a holding of the Court.
 
 ## 1999-06-21 — Jefferson County v. Acker, No. 98-10; October Term 1998.
 

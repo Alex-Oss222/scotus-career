@@ -278,7 +278,7 @@ The Chief is in each prevailing judgment coalition, including the individual-rem
 
 | Writing or part | Author | Joined by | Relationship and exact scope |
 |---|---|---|---|
-| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; state strict scrutiny. |
+| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; Adarand’s governing standard. |
 | Opinion of the Court, Part II | O’Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Six-Justice affirmative educational-diversity rule and actual Bakke treatment. Kennedy concurs only in vacating the categorical direction. |
 | Opinion of the Court, Part III | O’Connor | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice continuing-duty/unit rule and claim-linked further inquiry. Scalia does not join. |
 | Opinion of the Court, Parts IV-A, IV-B and IV-C | O’Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice causation/preponderance rule; Title VI intent; complete punitive standard and bounded denial. Stone-Zsela agrees with the respective dispositions only. |

@@ -397,7 +397,7 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-30.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
@@ -432,7 +432,7 @@
 * **Stone's Legal Position:** Vacate the appellate judgment and remand to conform preliminary relief to the supported racial political-process claim.
 * **Stone's Proposed Holding:** Vacate the appellate judgment and remand to conform preliminary relief to the supported racial political-process claim.
 * **Essential Reasoning and Record Application:** The threatened loss of access to otherwise available remedial policymaking is a present constitutional injury on the district court’s findings. Relief should prevent enforcement of the selective racial foreclosure while leaving the discrimination ban, unchallenged exceptions and independently valid provisions operative to the extent state severability law permits. The lower court must distinguish this interim protection from permanent validation of any affirmative-action program. The sex and concrete preemption questions remain for their own adjudication.
-* **Boundary or Reserved Question:** No wholesale repeal of Proposition 209, permanent program entitlement or transfer of Adarand’s federal standard to state programs.
+* **Boundary or Reserved Question:** No wholesale repeal of Proposition 209, permanent program entitlement or relaxation of Adarand’s common standard for state programs.
 
 # Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz
 

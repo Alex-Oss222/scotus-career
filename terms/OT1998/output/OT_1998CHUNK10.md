@@ -579,11 +579,11 @@ Relief remains confined to the three challenged ranks and classifications. No ne
 
 ##### Local racial and sex classifications retain distinct constitutional standards
 
-Municipal racial and ethnic promotion preferences require a supported compelling justification and narrow fit; general inequality, imbalance and good intentions alone are insufficient. Sex preferences separately require an actual important objective and a substantial relationship supported by an exceedingly persuasive justification, without importing racial strict scrutiny or a statistical-only proof rule.
+Municipal racial and ethnic promotion preferences must satisfy Adarand's common substantial-justification standard; general inequality, imbalance and good intentions alone are insufficient. Sex preferences separately require an actual important objective and a substantial relationship supported by an exceedingly persuasive justification, without importing the racial-classification standard or a statistical-only proof rule.
 
 **Authority:** Kennedy's Part I has all nine Justices for these distinct standards and for rejecting an invariably required prior liability judgment or egregious resistance. Eight Justices other than Scalia also accept the bounded affirmative proposition that supported local exclusion may permit fitted repair; Scalia reserves its full reach beyond the rejection necessary here.
 
-Croson and Engineering Contractors govern local racial measures. Adarand preserved a distinct federal arrangement under Metro Broadcasting and did not transfer that latitude to municipalities. A government must connect the exclusion it identifies to the opportunity and remedy at issue. It must seriously consider reasonably available responsive neutral measures and explain their inadequacy, but need not try and exhaust every conceivable alternative. A prior adjudication or resistance to litigation is not an invariable condition of constitutional repair.
+Adarand's common standard governs local racial measures, retaining Croson's evidentiary demands as applied in Engineering Contractors. A government must connect the exclusion it identifies to the opportunity and remedy at issue. It must seriously consider reasonably available responsive neutral measures and explain their inadequacy, but need not try and exhaust every conceivable alternative. A prior adjudication or resistance to litigation is not an invariable condition of constitutional repair.
 
 Kelley, Klinger, Virginia and Engineering Contractors require a separate inquiry into the government's actual sex-based justification. Racial evidence cannot be relabeled as a sex finding, and underrepresentation alone supplies no automatic justification. Neither a numerical minimum nor statistics as the exclusive form of proof is required. Subsidiary factual support remains distinct from independent constitutional assessment; summary judgment permits no adverse resolution of a genuine material factual dispute. The Court decides the challenged promotions under their actual standards, not the validity of every employment measure or future remedial program.
 
@@ -619,16 +619,16 @@ Engineering Contractors applied a distinct sex inquiry and preserved the possibi
 
 #### Precedent Treatment
 
-- City of Richmond v. J. A. Croson Co.: applies local racial strict scrutiny, supported remedial justification and narrow fit without an invariable prior-adjudication prerequisite.
+- City of Richmond v. J. A. Croson Co.: applies its retained evidentiary demands, supported remedial justification and fit within Adarand's common standard, without an invariable prior-adjudication prerequisite.
 - Engineering Contractors Association of South Florida v. Metropolitan Dade County: applies its distinct racial and sex rules and responsive-neutral-measures requirement; its prior four-Justice additional racial evidence ground remains noncontrolling, and Dallas's actual neutral efforts are assessed on their own facts.
-- Adarand Constructors, Inc. v. Peña and Metro Broadcasting, Inc. v. FCC: preserve the bounded federal rule; it does not govern Dallas's municipal preferences.
+- Adarand Constructors, Inc. v. Peña: supplies the common standard governing Dallas's municipal preferences; Metro Broadcasting's overruled federal tier supplies none.
 - Kelley v. Board of Trustees: applies demanding actual sex justification without stereotypes, strict scrutiny or statistics alone.
 - Klinger v. Department of Corrections: applies the actual-sex-classification branch while preserving the separate program-specific setting of its comparison rules.
-- United States v. Virginia: applies the requirement of an exceedingly persuasive sex-based justification without converting intermediate scrutiny into racial strict scrutiny.
+- United States v. Virginia: applies the requirement of an exceedingly persuasive sex-based justification without converting intermediate scrutiny into the racial-classification standard.
 
 #### Law After Decision
 
-These racial/ethnic promotions fail independently for insufficient connected justification and narrow fit; the sex promotions fail their separate actual-justification inquiry. The local racial rule and demanding sex standard retain distinct operation. Actual neutral efforts matter, but their existence and continued imbalance do not establish inadequacy, constitutional necessity or fit. The judgment creates no universal ban on supported repair and adjudicates neither the full plan nor future or ungranted promotions.
+These racial/ethnic promotions fail independently for insufficient connected justification and fit; the sex promotions fail their separate actual-justification inquiry. Adarand's racial standard and the demanding sex standard retain distinct operation. Actual neutral efforts matter, but their existence and continued imbalance do not establish inadequacy, constitutional necessity or fit. The judgment creates no universal ban on supported repair and adjudicates neither the full plan nor future or ungranted promotions.
 
 #### Separate Positions Relevant to the Decision
 
@@ -636,7 +636,7 @@ Stevens, joined by Souter, Ginsburg and Breyer, concurs in the standards and sex
 
 Scalia concurs in the actual rejection and governing scrutiny while reserving the broader affirmative extent of permissible racial repair. He does not make a categorical prohibition necessary to his vote.
 
-Stone-Zsela concurs in the Court's opinion and adds that the sex-based rank departures also lack a supported substantial relationship to the identified objective. A score band or qualification can show eligibility without establishing that preferential allocation repairs actual sex discrimination. This separate ground applies the demanding sex standard and creates neither racial strict scrutiny nor an exhaustion requirement. It is not a holding of the Court.
+Stone-Zsela concurs in the Court's opinion and adds that the sex-based rank departures also lack a supported substantial relationship to the identified objective. A score band or qualification can show eligibility without establishing that preferential allocation repairs actual sex discrimination. This separate ground applies the demanding sex standard and imports neither the racial-classification standard nor an exhaustion requirement. It is not a holding of the Court.
 
 #### Record Limits
 

@@ -165,7 +165,7 @@
     },
     {
       "record": "Hopwood_v_Texas_merits_1996-11-25.md",
-      "record_sha256": "9bd899b1334cca54618605b1483603a4384e5719e118b4916e0c639f7e90a840",
+      "record_sha256": "da55373d2e2cd8ce689b0ddce7ad3816dcac8443fb65c9b22d7638a2d4e17e06",
       "case_and_dockets": "Hopwood v. Texas; Fifth Circuit No. 94-50664, 78 F.3d 932; no invented Supreme Court docket; OT1996, chunk 1, matter 6.",
       "case_name": "Hopwood v. Texas",
       "event_and_date": "Merits decision, 1996-11-25, supplied term-calendar scheduling premise; October Term 1996.",
@@ -179,13 +179,13 @@
         "O'Connor"
       ],
       "opinion_table_author_evidence": [
-        "| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; state strict scrutiny. |",
+        "| Opinion of the Court, Part I | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice narrow actual-process invalidity and equal-competition injury; Adarand’s governing standard. |",
         "| Opinion of the Court, Part II | O’Connor | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | Six-Justice affirmative educational-diversity rule and actual Bakke treatment. Kennedy concurs only in vacating the categorical direction. |",
         "| Opinion of the Court, Part III | O’Connor | Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice continuing-duty/unit rule and claim-linked further inquiry. Scalia does not join. |",
         "| Opinion of the Court, Parts IV-A, IV-B and IV-C | O’Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Eight-Justice causation/preponderance rule; Title VI intent; complete punitive standard and bounded denial. Stone-Zsela agrees with the respective dispositions only. |",
         "| Opinion of the Court, Parts IV-D and V | O’Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Nine-Justice source-specific remedial reservations, retained broad-injunction refusal and limits on future-program directions. |"
       ],
-      "opinion_topology_sha256": "adee66a8903599da1b15499745193ede382f598a1828acb84dcf9ce8e596814f",
+      "opinion_topology_sha256": "14c099d9fc31539cfa20f85e3e68d35ba12ef66ccf0023c07b760a266d14ba4e",
       "form_evidence": []
     },
     {

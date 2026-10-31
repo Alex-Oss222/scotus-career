@@ -10,7 +10,7 @@
 
 ## Final commitments
 
-All eight Associates reach the granted three-rank constitutional promotion dispute, applying local racial strict scrutiny separately from demanding intermediate scrutiny of sex classifications. They reject an invariable prior-adjudication or egregious-resistance prerequisite. The federal Metro Broadcasting rule preserved by simulated Adarand does not govern Dallas. All eight affirm the sex component for the identified failure of a connected sex-specific justification, without importing racial scrutiny, demanding statistical proof alone, or deciding fit independently after that predicate fails.
+All eight Associates reach the granted three-rank constitutional promotion dispute, applying Adarand's common racial standard separately from demanding intermediate scrutiny of sex classifications. They reject an invariable prior-adjudication or egregious-resistance prerequisite. All eight affirm the sex component for the identified failure of a connected sex-specific justification, without importing racial scrutiny, demanding statistical proof alone, or deciding fit independently after that predicate fails.
 
 On the racial/ethnic component, O'Connor, Scalia, Kennedy and Thomas affirm on independent insufficiency of the connection between this record, the present preferences and their fit. Stevens, Souter, Ginsburg and Breyer vacate and remand for correct independent consideration of the identified entry exclusion, internal promotion ladder, actual neutral efforts and challenged limits. The latter four neither find the preferences valid nor order new evidence. The 4–4 Associate division is not an equal-division Court judgment; Stone has not entered reconciliation.
 
@@ -51,7 +51,7 @@ The frozen model uses effective sanitized law through June 14, 1999. Before June
 
 - Frozen neutral/model and Dallas comparator section, with exact hashes above.
 - `../entering-law/OT_1998CHUNK10_B_PUBLISHED_POSITIONS.md`: complete Engineering Contractors public entry, including the distinct controlling components and separate published positions.
-- `../entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md`: Kelley constitutional inquiry and Adarand's bounded federal rule; the model and neutral also identify Engineering Contractors there. No contracting-specific fact is converted into a firefighter requirement.
+- `../entering-law/OT_1998CHUNK10_B_SELECTED_HOLDINGS.md`: Kelley constitutional inquiry and Adarand's common standard; the model and neutral also identify Engineering Contractors there. No contracting-specific fact is converted into a firefighter requirement.
 - `../entering-law/OT_1998CHUNK10_B_STANDARDS.md`: exact “Race-conscious local public-contracting preferences,” effective September 21, 1998, and actual-sex-classification branch of “Program-specific prison comparisons and sex classifications,” Klinger effective December 4, 1995.
 - `../research/OT_1998CHUNK10_B_DALLAS_DYSON_SUTTON_SOURCES.md`: Dallas section only; screened provenance for the original petition/opposition, DOJ letter, agreement, lower opinions and remedies. Reconciliation relies on the frozen packet and that receipt for original record facts; it does not claim a fresh reading of all originals.
 - Historical primary writing: https://www.law.cornell.edu/supct/html/98-966.ZD.html, read completely. The approved comparator separately supplies the lower reported judgment and historical denial context. The historical grant-stage writing supplies comparison evidence, not governing merits law.

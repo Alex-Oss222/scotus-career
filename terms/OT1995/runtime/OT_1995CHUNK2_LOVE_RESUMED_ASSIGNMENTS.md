@@ -759,11 +759,9 @@ Source line 87:
 
 Event date: 1995-06-12.
 
-Source line 81:
+Source line 118:
 
-> Stone is in the judgment majority and assigns the Court opinion to Stevens.
-> Stevens's frozen distinction between supported remedial action and subordination, together with Metro/Fullilove fidelity and close-fit review, supports authorship.
-> The opinion is circulated at the bounded inherited-law level accepted by all five.
+> The Chief Justice is in the judgment majority and assigns the opinion of the Court to himself on fit: his formulation is the complete rule the five-Justice coalition adopts, and his authorship gives precise expression to its justification, precedent treatment and remand directions.
 
 ### OT1994/City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12.md
 

@@ -8,8 +8,8 @@ Count each opinion once as Chief-assigned if the Chief assigned any portion. Dif
 
 | Justice | OT1994 named Chief assignments | OT1995 named Chief assignments through April 9 |
 |---|---:|---:|
-| Stone-Zsela | 7 | 2 |
-| Stevens | 11 | 4 |
+| Stone-Zsela | 8 | 2 |
+| Stevens | 10 | 4 |
 | O'Connor | 13 | 15 |
 | Scalia | 5 | 1 |
 | Kennedy | 13 | 5 |
@@ -28,7 +28,7 @@ The April 9 interim Bowersox coordinated Kennedy opinion counts once because the
 
 | Record assignment statement | Chief-count treatment |
 |---|---|
-| [Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md) | Stevens |
+| [Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md) | Stone-Zsela |
 | [Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md](../../OT1994/records/Allied_Bruce_Terminix_Cos_v_Dobson_merits_1995-01-18.md) | Breyer |
 | [Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md](../../OT1994/records/Ambassador_Books_Video_Inc_v_City_of_Little_Rock_merits_1995-03-20.md) | Stevens |
 | [American_Airlines_Inc_v_Wolens_merits_1995-01-18.md](../../OT1994/records/American_Airlines_Inc_v_Wolens_merits_1995-01-18.md) | Ginsburg |

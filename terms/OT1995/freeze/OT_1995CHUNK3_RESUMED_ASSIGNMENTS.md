@@ -12,8 +12,8 @@ The preceding term has **93 named Chief-assigned opinions**. No Justice received
 
 | Recipient | OT1994 Chief assignments | Existing OT1995 before Jan. 17 | Existing OT1995 before Feb. 5 | Existing OT1995 before Feb. 12 |
 |---|---:|---:|---:|---:|
-| Stone-Zsela | 7 | 1 | 1 | 1 |
-| Stevens | 11 | 1 | 1 | 1 |
+| Stone-Zsela | 8 | 1 | 1 | 1 |
+| Stevens | 10 | 1 | 1 | 1 |
 | O'Connor | 13 | 9 | 10 | 10 |
 | Scalia | 5 | 1 | 1 | 1 |
 | Kennedy | 13 | 2 | 3 | 3 |
@@ -662,9 +662,9 @@ All 101 OT1994 canonical Record filenames are accounted for below: 92 Records ha
 
 ### 1995-06-12 — Adarand_Constructors_Inc_v_Pena_merits_1995-06-12
 
-**Count classification:** Stevens. **Source:** [Record](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md), line 81.
+**Count classification:** Stone-Zsela. **Source:** [Record](../../OT1994/records/Adarand_Constructors_Inc_v_Pena_merits_1995-06-12.md), line 118.
 
-> Stone is in the judgment majority and assigns the Court opinion to Stevens.
+> The Chief Justice is in the judgment majority and assigns the opinion of the Court to himself on fit: his formulation is the complete rule the five-Justice coalition adopts, and his authorship gives precise expression to its justification, precedent treatment and remand directions.
 
 ### 1995-06-12 — City_of_Milwaukee_v_Cement_Division_National_Gypsum_Co_merits_1995-06-12
 

@@ -36,37 +36,37 @@
     {
       "path": "terms/OT1996/records/Kadic_and_Doe_v_Karadzic_merits_1997-04-21.md",
       "bytes": 46511,
-      "sha256": "2cb6e3e47630c915feba62ea231acf8f42cd7d4587164a1d585767c9281908e9"
+      "sha256": "95faccaaa69b3feea8cc8fb212889c98a43a4d440ea0811196d6a65f8c45b6a8"
     },
     {
       "path": "terms/OT1996/records/Metropolitan_Life_v_Robertson_Ceco_merits_1997-04-21.md",
       "bytes": 43825,
-      "sha256": "eb3da42dde5a7744221e9a1266183bcd36506c9beb5426197f865adaf3025f8c"
+      "sha256": "6e365ca27f223d2cd1e625f5367fd8316e9f30544498b18d680eac4be829149c"
     },
     {
       "path": "terms/OT1996/records/Pic_A_State_Pennsylvania_v_Reno_merits_1997-04-28.md",
       "bytes": 29317,
-      "sha256": "034513ba5d24095131ba42904c42f0eb4bf8639bf01fd2d15128f33e58f3b3d3"
+      "sha256": "65633ae8c837d053907c05ce09c1095167489f7c7aae0e56ce5e2c6afd54c47a"
     },
     {
       "path": "terms/OT1996/records/Richards_v_Wisconsin_merits_1997-04-28.md",
       "bytes": 32668,
-      "sha256": "7f6f4809765b197f06468936a9fea75979a1fdde0fce7c531132607e77481be6"
+      "sha256": "1f76ac620e3f86b292b8bddcbc79b588cce2d31f1cb68822a59921a8a11933f1"
     },
     {
       "path": "terms/OT1996/records/Strate_v_A_1_Contractors_merits_1997-04-28.md",
       "bytes": 38200,
-      "sha256": "27984c404754e19e5c3cb3e50df784e8104ff2a85fe014ef3d4be5090c819568"
+      "sha256": "e6546a8a19a1f41d363d57d1825ddef95c78dc46dde99d26f22f2fcf3844e689"
     },
     {
       "path": "terms/OT1996/records/Timmons_v_Twin_Cities_Area_New_Party_merits_1997-04-28.md",
       "bytes": 38117,
-      "sha256": "552dd4611899a6f39d7b3f752e6b93983f8cc2c87504602f385727091f6c85a8"
+      "sha256": "1a3015f75689b661511ee8acacca43cbf8cd5ace1de892702d684be6cd57c02b"
     },
     {
       "path": "terms/OT1996/records/Doe_v_SEPTA_merits_1997-05-05.md",
       "bytes": 30526,
-      "sha256": "54cf93edc30b6ab530cb2bf27a66ee1ea598750aadc7d7dde37a386accd1c536"
+      "sha256": "56032dc73400f99bce75e2105122950e34b9b309a3c994717f423ebb62bc3279"
     },
     {
       "path": "terms/OT1996/records/Harbor_Tug_and_Barge_v_Papai_merits_1997-05-12.md",
@@ -103,17 +103,17 @@
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_72_73_ASSEMBLY_VALIDATION.json",
       "bytes": 1977,
-      "sha256": "d6e375a524dcbaedaee6b1992dd494a9100bd091aa805bf666282a93d7087927"
+      "sha256": "016daeb550bc7ca60eceb282201f2b3ca59da7a72d978358e2debc8431c5f175"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_75_79_ASSEMBLY_VALIDATION.json",
       "bytes": 10724,
-      "sha256": "1c7f9e914c4f008f0e6d8fa0ce0097f6265317e050c46c50cef67a38c1d7c780"
+      "sha256": "00d88a0d1deb458897f20779347428186cfae652b47184de24a44bc3b5b37714"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_80_83_ASSEMBLY_VALIDATION.json",
       "bytes": 10230,
-      "sha256": "1a7d8f7f8f78b30cec76427a4bc6d5ae12acfe463b70413ebf4775da370c4f11"
+      "sha256": "6fcdeec48e49950ce839036ca40da0e0c4a31769f4ef04ffffc96c3d4a60822a"
     },
     {
       "path": "terms/OT1996/workspace/manifest.md",
@@ -128,12 +128,12 @@
     {
       "path": "terms/OT1996/workspace/continuity.md",
       "bytes": 898711,
-      "sha256": "d2055242e69cf722697b8baa536037941fbc7c0b6835f2dd959dc6bbcdcef824"
+      "sha256": "35cc95d0b7e1338c3a3e54f3a5a70b9f8ed6e7257c90af3d2a266c9aa8784295"
     },
     {
       "path": "terms/OT1996/workspace/neutral-projection.md",
       "bytes": 868792,
-      "sha256": "c2bba408305b8b08468433e964d80d20966dfedc51052ae267142aed381e86e5"
+      "sha256": "b9f39f05279c8d62d8e4f589fe459e2b38eee66b1970cd45287df330149163b1"
     },
     {
       "path": "terms/OT1996/freeze/OT_1996CHUNK7_COMMITMENTS.md",
