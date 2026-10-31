@@ -15593,9 +15593,9 @@ All twelve chunk-8 scheduled matters are complete; none is stopped. Benjamin and
 
 **Waste Management, May 27, 1998:** Routing locally generated waste to a genuinely public facility is not facial discrimination when local private and out-of-state processors receive equal treatment. Actual ownership, control, financing, public-service responsibility, revenues and the absence of concealed private favoritism determine genuine public status; title alone is insufficient. Diversion fees require an independent, genuine relationship between their incidence and amount and diversion-related costs, without interstate-origin discrimination or protectionism. The decision supplies neither blanket public-system immunity nor a finding that Metro's measures meet these conditions.
 
-Public ownership does not establish a government purchase, and the existing compensation defense fails for want of an identified corresponding intrastate burden. The appropriate evenhanded-burden or discrimination rules remain available according to the actual classification. Both reviewed determinations are vacated for separate application of this law. The excluded takings and ripeness rulings remain undisturbed. The Court's five-Justice rule controls directly; the concurrence and dissents do not qualify its authority.
+Public ownership does not establish a government purchase, and the existing compensation defense fails for want of an identified corresponding intrastate burden. The appropriate evenhanded-burden or discrimination rules remain available according to the actual classification. Both reviewed determinations are vacated for separate application of this law. The Court's five-Justice rule controls directly; the concurrence and dissents do not qualify its authority.
 
-Waste Management leaves the excluded takings and ripeness rulings undisturbed. The later DeCarlo, Lacy, Florence, Cabrales, Duffy and Beggerly decisions present distinct questions; their results and remedies remain as stated in their Records. No additional Supreme Court event follows from the remand.
+Waste Management leaves the excluded takings and ripeness rulings undisturbed. The later DeCarlo, Lacy, Florence, Cabrales, Duffy and Beggerly decisions have no material dependency on its case-specific mandate or public-facility and diversion-cost rules. No event date or additional Supreme Court event follows from the remand.
 
 New Jersey’s May 26 disposition resolves the exceptions within its stated limits and recommits the matter for a conforming proposed decree. The original action remains open; no final acreage, final survey decree or next action date is supplied. The five opening carryovers, Brown, both Arteaga petitions, Glendora and the Breard companion requests retain their recorded stages.
 
@@ -15605,7 +15605,7 @@ Later affected packets must carry the full propositions, partial joins, publishe
 
 ### Chunk-10 completion and later revalidation
 
-National Association of Home Builders v. Babbitt is complete at its June 8 slot. Vacated and remanded, 5-4, for determination whether the existing legislative and adjudicative record supports either of the Court's two interstate mechanisms. The June 8 peers use the common pre-group law. No stopped matter remains in chunk 10.
+National Association of Home Builders v. Babbitt is complete at its June 8 slot: vacatur and remand, 5–4, for determination whether the existing legislative and adjudicative record supports either of the Court's two interstate mechanisms. The completed June 8 peers retain their common pre-group law. No stopped matter remains in chunk 10.
 
 The June 8 peers use the common law effective before June 8. The June 15 peers in chunks 10 and 11 likewise share pre-group law; processing order does not make AT&T or Bryan govern a same-day peer. Later matters must use the new public holdings from their effective dates, with the exact rationale and remedy limits preserved above. Separate pending matters retain their recorded stages.
 

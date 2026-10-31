@@ -1,18 +1,18 @@
 {
   "record": "American_Life_League_v_Reno_merits_1995-11-13.md",
-  "record_sha256": "77e1e1b69d625365fc493e772c76cc807fea6008e123df0e59dab167d8f5956d",
+  "record_sha256": "a49f3645b339c538d11da1eae8e48d8cfb5ccf044ab234a7709700276bb8d01b",
   "record_bytes": 99297,
   "input_sha256": {
     "freeze/OT_1995CHUNK1_ALL_TEXT_NEUTRAL_SUPPLEMENT.md": "adab7fb54ef8b459020c55a4910b7ebcc94f3e46d4ab304b4a64e64b38d9cfd3",
-    "freeze/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md": "f22142e14f55848ad51e5f979601c535e0580798478cdd37439aec58f84ed05c",
-    "freeze/OT_1995CHUNK1_ALL_TEXT_RECONCILED.md": "9b616e0e7154c34f538f1f641e2801e6bcc68c03b4b2099f39970b7bfc5eca1e",
+    "freeze/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md": "2829d19ac8ad6a2b39bbb79d732ba53d42e4c65ba3166cf0797d89077124a446",
+    "freeze/OT_1995CHUNK1_ALL_TEXT_RECONCILED.md": "4bd7110d77864f54b690bc89797a8471d0ea38135d4e3e9f0c2de3684645c680",
     "freeze/ALL_TEXT_RECONCILIATION_RECEIPT.json": "6bcc3c49f395bbcb50ee210eafc072675854b88702cb4bb3a71421a2edcf815e",
-    "freeze/ALL_TEXT_REFRESH_CONTEXT_CLARIFICATION.md": "6cb09351d5674abb8781563ab4a7b5dd0550af49c5d79151062c40f549ab30a7",
-    "freeze/OT_1995CHUNK1_B_RECONCILED.md": "65c836dc723a8ae24cb299d678f8c16ca82867e1f25880f7525451532a77a645",
+    "freeze/ALL_TEXT_REFRESH_CONTEXT_CLARIFICATION.md": "93fcd05f9ff6d5e1ade286cc094cba1908c014c562f0ad4ad4531290e562a3da",
+    "freeze/OT_1995CHUNK1_B_RECONCILED.md": "598d0e91e6e59b1943f9149ca9be78d717b141acfff4d6771a2728c162c8f5b1",
     "freeze/OT_1995CHUNK1_B_NEUTRAL_VALIDATED.md": "6d3a89b0f8df66ebac8db6948cdcd6bf40bd05e959cdd4e65c0549bd988527ed",
     "freeze/OT_1995CHUNK1_B_STONE_INPUT.md": "f1973d78b7aec35fa06bee7017819362001cf892e1d8724ff8eeb2ba7a11f81c",
     "freeze/OT1994_ASSIGNMENT_REVIEW.md": "3244f822af2643af7ecba74fdad89b55616dd0e05b01b02ae46d7a44811f4483",
-    "entering-law/OT_1995CHUNK1_B.md": "6666d9695c81f8218b170b506372d6a68668950a4cbc7f44632e19dd47dd718b",
+    "entering-law/OT_1995CHUNK1_B.md": "70eda63e3d903a45d643970407060886142f308a1daa60b97fe0b56f404f24bf",
     "entering-law/OT_1995CHUNK1_B_SUPPLEMENT.md": "bc073bfd6bb7f10a28848f2e778e28b870fafbe3d293841a0f76f5561a96f1aa",
     "sources/B_AMERICAN_LIFE_LEAGUE_OBJECTIVE_SOURCE_ADDENDUM.md": "ce25079f979c1b50370f2f8ee3decf44892ab25f3a2b9be1debd484bb9f79da3",
     "sources/preflight_b/B_FACE_1994.txt": "b235e3651e7c4252deac0f2ac6a6c643bb50ef88588c22f2ca7054377e4fffa7",
@@ -32,7 +32,7 @@
     "RFRA requires further adjudication of the prospective-enforcement claim": 243
   },
   "checks": "Eleven blocks, exact Holdings identity, component arithmetic, controlling joins, eight Associate rows, explanation ceilings, input preservation, public workflow exclusion passed.",
-  "public_draft_sha256": "77e1e1b69d625365fc493e772c76cc807fea6008e123df0e59dab167d8f5956d",
+  "public_draft_sha256": "a49f3645b339c538d11da1eae8e48d8cfb5ccf044ab234a7709700276bb8d01b",
   "restarted_from": "Corrected neutral, independent refresh and ALL-only reconciliation frozen before this authorized restart; original freezes unchanged.",
   "pending": "Root actual B effective-law/assignment refresh and final preservation review; no output render created."
 }

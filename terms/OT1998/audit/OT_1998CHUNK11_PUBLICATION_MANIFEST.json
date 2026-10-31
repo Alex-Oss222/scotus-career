@@ -208,7 +208,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_ASSEMBLY_VALIDATION.json",
       "bytes": 9480,
-      "sha256": "1b5b0626603286091c2236675e80f8f30b21deec2f096767b9477cb62ecd5a4e"
+      "sha256": "dceb9b91c1ecbd3c73257d950459d3149ac4be2395ccd15e9259e691942b378b"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_COMMITMENTS.md",
@@ -228,7 +228,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_RECOUNT.json",
       "bytes": 88656,
-      "sha256": "e311fea289604388c1b2c15944a9197400b42cb953220329b01ae86c82745221"
+      "sha256": "58489ff3b50ff538eeb4f1a29e7d642f72b6697c8ba190381cfde4a62d385719"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_VERIFIED_COMPARATOR.md",
@@ -238,7 +238,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ALDEN_ASSEMBLY_VALIDATION.json",
       "bytes": 6323,
-      "sha256": "6dce5baf16cb668b9ad2661470190d1ea753a7c8bbde6f077bc59c73b4811042"
+      "sha256": "5ce36aa19944e2c82794e252037a3ad6391d3df1d8b15a2ee476bdd52861165d"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md",
@@ -268,7 +268,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ALDEN_RECOUNT.json",
       "bytes": 99985,
-      "sha256": "ce340b9af010dbf42e2a20b8d0fe55761cc692fedc9d7b827492521ef076a6bb"
+      "sha256": "56065d62bb39561262ae3ac616a673f1f38e844610b62995c50c997120b89eda"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ALDEN_VERIFIED_COMPARATOR.md",
@@ -288,7 +288,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_BASELINE_IDENTITIES.json",
       "bytes": 431077,
-      "sha256": "35e5c28d5387b1d8514fb12604405486b11a5a486e298e9ba3cccd67a89a9c0f"
+      "sha256": "685bb1fbd39ef53a82c562dba1342238ec7bccd54563925e1080624910fa99ad"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_APPROVED_SECTION_I_VERBATIM.md",
@@ -303,7 +303,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_ASSEMBLY_VALIDATION.json",
       "bytes": 9689,
-      "sha256": "8a770f56948c26e7cf795adbdfd6d1f8438bc7d6d70e155b6fb738af5e97739d"
+      "sha256": "7fc6a1850cf30347a8bccffb2f9f6df3ffbd2ae04f72152accee26c28d383931"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_COMMITMENTS.md",
@@ -323,7 +323,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_RECOUNT.json",
       "bytes": 101184,
-      "sha256": "feba7e5dd18aa102eb51049b303ead19f8a652a65171c79465424b310f95e7b4"
+      "sha256": "ab804b02f8e984f7fe314864e10f1f9844ae28ab2dee4790506d168c1c9db4fc"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_VERIFIED_COMPARATOR.md",
@@ -338,7 +338,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_COMMIT_TOKEN_CLASSIFICATION.json",
       "bytes": 1300,
-      "sha256": "d71e6ffbe0d77f3433bad16e7a7da988ac0e98f0c7c0afd67cd36d6699d5d44f"
+      "sha256": "8972730effd4c739826dff136aeeb4f5f0bb3a8f08c07b1a7c6908aaf5a8902e"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_FLORIDA_PREPAID_APPROVED_SECTION_I_VERBATIM.md",
@@ -348,7 +348,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_FLORIDA_PREPAID_ASSEMBLY_VALIDATION.json",
       "bytes": 6950,
-      "sha256": "4495fe8ad17fafb9c9e8676a19d56c1c831f078d44d63010b3dda048bb85dd76"
+      "sha256": "79434d1efe5cde4c1ad5b7784568b354533b35146fa4ce0c346c7b48ce50e833"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_FLORIDA_PREPAID_COMMITMENTS.md",
@@ -368,7 +368,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECOUNT.json",
       "bytes": 104309,
-      "sha256": "24d2ee3d806ec26b1f1c895756b28e9cff01b3d557b0334bc190d94bec94ef72"
+      "sha256": "adbb2176e4a46b556dda6c1ff48a0067ad2ffb1c35107ce2dcd9096c132fb4a5"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_FLORIDA_PREPAID_VERIFIED_COMPARATOR.md",
@@ -403,7 +403,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_KOLSTAD_ASSEMBLY_VALIDATION.json",
       "bytes": 11507,
-      "sha256": "bd9fbd36b3a20de08d765ea080f0963b9b85c53b931c75073e13503d6583b18c"
+      "sha256": "0cde995cbba8b598f6932bd95fad3e3b35f032dfb70dfb5236f3637a492148c5"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_KOLSTAD_COMMITMENTS.md",
@@ -428,7 +428,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_KOLSTAD_RECOUNT.json",
       "bytes": 93284,
-      "sha256": "cafa23ea78f42798cd4547f5abaf8c4deedd5d2d9a18f8651d70521aaf265fab"
+      "sha256": "fb2f77da67127f9230adc1731a24ddf55118f0687278a4e4575d5474e427451d"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_KOLSTAD_STATUTORY_ADDENDUM.md",
@@ -448,7 +448,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_MURPHY_ASSEMBLY_VALIDATION.json",
       "bytes": 11312,
-      "sha256": "0b744331f1c4c1fc827983228dacaecaeb9371240fdb21d1b214d5e415090b74"
+      "sha256": "f99d802bb5b5f0103abaeda6d979f620831c1ebe9822442ee339a498a94c666a"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_MURPHY_COMMITMENTS.md",
@@ -473,7 +473,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_MURPHY_RECOUNT.json",
       "bytes": 96274,
-      "sha256": "f946ebfa796db597c614b28374af09fabd4bb55f77fd5249dd2d67907a628031"
+      "sha256": "bea7e6fc9bec22c1430085babfb3941fe485623d1b551fdf4c57e0f22e9e43d3"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_MURPHY_VERIFIED_COMPARATOR.md",
@@ -483,7 +483,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_ASSEMBLY_VALIDATION.json",
       "bytes": 10761,
-      "sha256": "51f63d3333a49fb1269eacf380a72198a3d9339bef3859be1064845b0464ae10"
+      "sha256": "77f9ed0b8cded40c24eb1f22ca02064d93a59fbb4e2ce9d90747238e60d1905c"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_COMMITMENTS.md",
@@ -518,7 +518,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_RECOUNT.json",
       "bytes": 98367,
-      "sha256": "d69a222f667d2364ee4591303396df6892723c1f64514f7a6814697822aed400"
+      "sha256": "f1de19ce661354029e23d004814c15083eff0965c7e58fc887070f0213c2a28a"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_VERIFIED_COMPARATOR.md",
@@ -553,7 +553,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_ASSEMBLY_VALIDATION.json",
       "bytes": 7323,
-      "sha256": "104f2df416bdb311207e95f2334ed6918c2cbddb171504d32e0f308e3ba1c7a2"
+      "sha256": "be190bd9d88298ba7c4fae28bb722e2b1265b301434ccf1b46f2ab3038c716da"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_COMMITMENTS.md",
@@ -573,7 +573,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_RECOUNT.json",
       "bytes": 105279,
-      "sha256": "1287f7275ae89198a0feb944f840bd6acad55a5dc310ebc701eb7fe285152430"
+      "sha256": "b1e38f4b2c35cf0b3bc8ce028a293540843b297e8683651b03cc015612d333f8"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_VERIFIED_COMPARATOR.md",
@@ -588,7 +588,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_PRIOR_PUBLIC_SOURCES.json",
       "bytes": 12042,
-      "sha256": "4f9c6289e6b4278e4592ff5fceb22d41ced92593f119c31fbb7efaaa8183f5b4"
+      "sha256": "4e12c8ac9cfff2dd5ed8d271048244d1b1cc3f012e8944e87c6e205b0704c6db"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_PRIOR_RECORD_LINK_TARGETS.json",
@@ -603,7 +603,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_RELEASED_RECORD_IDENTITIES.json",
       "bytes": 1729,
-      "sha256": "8235dc27a2fdeacd7d2289c2683a581b92de49931f5ccb5c863dfaa1b7be96bd"
+      "sha256": "8af85a524aa43852c8ce57807adddac563cd609bdadacd800a2af6731e74fe2e"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_RENDER_RECEIPT.json",
@@ -618,7 +618,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_SOURCE_FRESHNESS.json",
       "bytes": 418668,
-      "sha256": "d4ab3507628304b552ecb6d221ba29baa9cde06b82500d055f842fc5e149237b"
+      "sha256": "3ca73daf8d28188e9e9a045f537c8add14619c205ae07df4ce87ec4ffe575f74"
     },
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_STAGE_PROVENANCE.md",
@@ -643,27 +643,27 @@
     {
       "path": "terms/OT1998/records/albertsons_inc_v_kirkingburg_merits_1999-06-22.md",
       "bytes": 45607,
-      "sha256": "e50b4810d2ea7e108608a3ac9bedbf7b867ebcd9bee72466df65a179403a80fa"
+      "sha256": "71f83b59b5184e9070cd5fdd96d22277e0e18677aca157465524717048cbff71"
     },
     {
       "path": "terms/OT1998/records/alden_v_maine_merits_1999-06-23.md",
       "bytes": 50602,
-      "sha256": "bc57b55521ff2c8fb16c4d604d5d408a661b59074477ed3a92f118471436fa87"
+      "sha256": "a277b1e7e5f2c5958a6e4a66ac07c9bd7313aa55a621fa7a57c8acb3b119b42f"
     },
     {
       "path": "terms/OT1998/records/college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
       "bytes": 51686,
-      "sha256": "a937f930985990723e17e3c60d7711dac6bf1adb3dcb223d8652aad7dcc015d6"
+      "sha256": "7ffd608c587dd383cb87192e7f2fef267d5068f382bbfaa9424761dd35e2bdb7"
     },
     {
       "path": "terms/OT1998/records/florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
       "bytes": 53632,
-      "sha256": "5b51967c159281c845a0170fedb40d1463b721d38eb00d1aa068c7e4703e5e96"
+      "sha256": "959e3c15daa140f71df48addfd5b3313747e9d0ad86105382c882377b95ab086"
     },
     {
       "path": "terms/OT1998/records/kolstad_v_american_dental_association_merits_1999-06-22.md",
       "bytes": 64844,
-      "sha256": "6caccbdc904701df91970816b3615ad9bcbaeba3a596daf32c646cef13fdde65"
+      "sha256": "07e8a13d78b85d91c2af1a62146b7ee564568d46a3df08144564f6bf977bf6aa"
     },
     {
       "path": "terms/OT1998/records/murphy_v_united_parcel_service_inc_merits_1999-06-22.md",
@@ -673,12 +673,12 @@
     {
       "path": "terms/OT1998/records/olmstead_v_lc_merits_1999-06-22.md",
       "bytes": 49287,
-      "sha256": "fc44cef8ea5fee4930ee64a2b8a38a85a93332b53c71076ebf1c50f5bcfd98a7"
+      "sha256": "fb572b8dd7e1cbfbfb13d5b922e76be17f0146678e2533a0c8bfcedd0fbeeaf0"
     },
     {
       "path": "terms/OT1998/records/ortiz_v_fibreboard_corp_merits_1999-06-23.md",
       "bytes": 50168,
-      "sha256": "8f0e85e56b3c7678566135a25ea262f65dc93f2afc7c38e698783836824ceabe"
+      "sha256": "25b04cc0e0fd0188c4d146992c782bdae2cbe31377393433060baa72cd65aafd"
     },
     {
       "path": "terms/OT1998/render-inputs/OT_1998CHUNK11.md",

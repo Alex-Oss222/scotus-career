@@ -37,8 +37,8 @@ Reviewed byte identities:
 | Inspected file | SHA-256 |
 |---|---|
 | records/richardson_v_united_states_merits_1999-06-01.md | f27301802e1d6b200abe77674dc31dd083baf73ca77d26c625b9f3fc1ed2f31c |
-| records/bruneau_v_south_kortright_central_school_district_merits_1999-06-03.md | 0c5ede176a513e8d6243af64887a702fc469e15b4f02eb179b2afcc2765c3841 |
-| runtime/OT_1998CHUNK9_GONCALVES_FINAL_DRAFT.md | 3679ed49bd5e95bae2bcecac47d5b78ff71a907311c93b9896b2e789ac939b67 |
+| records/bruneau_v_south_kortright_central_school_district_merits_1999-06-03.md | 6100c6e4b5f1d2bd15dedb8bae17d9a6f3beb46688ff857c58200225715786c5 |
+| runtime/OT_1998CHUNK9_GONCALVES_FINAL_DRAFT.md | 44723ad34c636a3d50eb6f35ecbfa68b2c3aa3af809c80c9e361271300f4fdc5 |
 
 ## Remaining operator checks
 

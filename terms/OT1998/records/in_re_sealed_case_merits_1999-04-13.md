@@ -43,7 +43,7 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Balance pool:** Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg; minimum 6, ceiling 7. Lowest eligible count: 6; eligible counts at most 7 enter the pool.
 
-**Assignment:** Stevens. Stevens's frozen Jaffee and Swidler grounds directly explain why recognition precedes overcoming need while preserving both established privileges. All eligible authors are within the balance pool. Stone fully supports the formulation but is outside the pool at eight; Stevens's demonstrated treatment of those two controlling relationships makes the crucial distinction especially clear without adding any Stone ground. Breyer's accommodation concern is expressly preserved and requires no separate authored portion.
+**Assignment:** Stevens. Stevens's frozen Jaffee and Swidler grounds directly explain why recognition precedes overcoming need while preserving both established privileges. Stone fully supports the formulation but is outside the pool at eight; Stevens's demonstrated treatment of those two controlling relationships makes the crucial distinction especially clear without adding any Stone ground. Breyer's accommodation concern is expressly preserved and requires no separate authored portion.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

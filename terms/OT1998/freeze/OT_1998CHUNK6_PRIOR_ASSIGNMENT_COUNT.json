@@ -37,7 +37,7 @@
       "record": "terms/OT1998/records/united_states_v_wright_merits_1998-10-05.md",
       "date": "1998-10-05",
       "case_and_dockets": "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
-      "source_sha256": "12ba34778ff63b3f873479421524b1a3a7744446319a257147496a39e3e03ee2",
+      "source_sha256": "4eea211ed875ad068140e827663a3f9c139be0ed8d6f0109a1fa99f85c7a5cda",
       "authors": [
         "Stone-Zsela"
       ],
@@ -427,7 +427,7 @@
       "record": "terms/OT1998/records/el_al_israel_airlines_v_tseng_merits_1999-01-12.md",
       "date": "1999-01-12",
       "case_and_dockets": "El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng; No. 97-475; OT1998.",
-      "source_sha256": "1201d0b90bad7f766231b3117115ab52fc8634ce29fc740c1787b9051ae8cb3b",
+      "source_sha256": "86e49215bd767e3d91c16a6e937b6005944c8102faf4600e8ad3a23f4a8ec0b1",
       "authors": [
         "O'Connor"
       ],
@@ -706,7 +706,7 @@
       "record": "terms/OT1998/records/national_collegiate_athletic_association_v_smith_merits_1999-02-23.md",
       "date": "1999-02-23",
       "case_and_dockets": "National Collegiate Athletic Association v. Smith; No. 98-84.",
-      "source_sha256": "4bac60e88fd9d7ec690eae9414c6431572da5025a1eb1f5c5885e3982467bdc1",
+      "source_sha256": "8c09312b1b634eb95b295bcf74852332b2e3ef56ecee972e002b4f9ae6943cf3",
       "authors": [
         "O'Connor"
       ],
@@ -851,7 +851,7 @@
       "record": "terms/OT1998/records/nffe_and_flra_v_interior_merits_1999-03-03.md",
       "date": "1999-03-03",
       "case_and_dockets": "National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior; Nos. 97-1184 and 97-1243.",
-      "source_sha256": "aa3db221c7ace968115df6e6ff5d5fea77e773cb3de8d404234de564a8a50b71",
+      "source_sha256": "5dbc96b4f44a9ed637dfb72198d61c5b0358a98fc36c68b8a7f8d3eb178bc654",
       "authors": [
         "Stone-Zsela"
       ],
@@ -953,7 +953,7 @@
       "record": "terms/OT1998/records/federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
       "date": "1999-03-03",
       "case_and_dockets": "Federal Republic of Germany, Chrobog and Rudolph v. United States and Hull; No. 127, Original; A-736.",
-      "source_sha256": "545e5be25318193c8fd84d3ec7b2e1cc1aaca12550f99d91f367b1456675775f",
+      "source_sha256": "2647b32101a30210bc75d5913e3814ee2fcabf366f59f4714acebf17a61748d2",
       "reason": "Original leave/interim order and Section 10 signed explanations, not plenary merits leads."
     },
     {

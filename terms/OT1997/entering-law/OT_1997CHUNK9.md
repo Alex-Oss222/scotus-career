@@ -12464,11 +12464,11 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 ##### Harris sustains application of original §2119 to both defendants
 
-**Holding:** Congress may apply original §2119 to the armed vehicle taking at issue as regulation of the economic vehicle-taking class within the interstate motor-vehicle theft-prevention scheme. The separately enacted requirement that the particular vehicle have been transported, shipped or received in interstate or foreign commerce remains necessary; remote vehicle history alone and generalized crime, insurance or productivity costs do not supply this holding's constitutional ground.
+**Holding:** Congress may apply original §2119 to the armed vehicle taking at issue as protection of an instrumentality of interstate commerce against a direct intrastate forcible taking. The separately enacted requirement that the particular vehicle have been transported, shipped or received in interstate or foreign commerce remains necessary; remote vehicle history alone and generalized crime, insurance or productivity costs do not supply this holding's constitutional ground.
 
 **Proposition-level authority:** O'Connor's Part II, unanimous.
 
-**Limits and questions not reached:** No automatic vehicle-instrumentality theory, new Commerce Clause test or unpresented sufficiency determination is adopted.
+**Limits and questions not reached:** No automatic rule covering every offense in or near a vehicle, new Commerce Clause test or unpresented sufficiency determination is adopted.
 
 **Treatment of earlier authority:** Harris is applied within its direct-instrumentality and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez remain economic-class precedents and supply no independent ground for this application; American Life League's distinct direct market-interference ground does not change §2119's text.
 
@@ -25249,9 +25249,9 @@ For federal collateral review, Gardner and Skipper dictated this confined effect
 
 **Authority by component:**
 
-- Knowing participation and intentional assistance give the original offense definite content: United States v. Harris, April 27, 1995. Chief Justice Stone-Zsela's opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes for the complete construction and its bounded application, including knowing participation, intentional assistance, fair notice and rejection of a general legal-knowledge requirement. Knowledge of the vehicle's interstate history and an independent permanent-deprivation requirement receive no controlling resolution.
-- Section 924(c) expressly adds a consecutive term for this armed carjacking: Section 924(c) expressly adds a consecutive term for this armed carjacking, 1995-04-27. Chief Justice Stone-Zsela's opinion, joined on this statutory holding by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes. The holding sustains the reviewed forty-one-month carjacking terms and additional sixty-month firearm terms, not an unreviewed weapon enhancement.
-- Hunter permits the clearly authorized punishment in this single prosecution: Hunter permits the clearly authorized punishment in this single prosecution, 1995-04-27. Chief Justice Stone-Zsela's opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this bounded application. Stevens joins the application of controlling Hunter while preserving his earlier objection to legislative multiplication of convictions; his reservation does not subtract a vote from this limited holding.
+- Knowing participation and intentional assistance give the original offense definite content: Knowing participation and intentional assistance give the original offense definite content, 1995-04-27. Stone-Zsela's opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer, directly adopts the complete construction and its bounded application. His separate conclusions concerning knowledge of the vehicle's interstate history and permanent deprivation have no additional joins and are not holdings of the Court.
+- Section 924(c) expressly adds a consecutive term for this armed carjacking: Section 924(c) expressly adds a consecutive term for this armed carjacking, 1995-04-27. Stone-Zsela's opinion, joined on this statutory holding by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes. The holding sustains the reviewed forty-one-month carjacking terms and additional sixty-month firearm terms, not an unreviewed weapon enhancement.
+- Hunter permits the clearly authorized punishment in this single prosecution: Hunter permits the clearly authorized punishment in this single prosecution, 1995-04-27. Stone-Zsela's opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this bounded application. Stevens joins the application of controlling Hunter while preserving his earlier objection to legislative multiplication of convictions; his reservation does not subtract a vote from this limited holding.
 
 **Present operation effective:** 1995-04-27; the component authorities identified above.
 

@@ -80,7 +80,7 @@ The mandatory recount was completed from zero immediately before assignment afte
 | Ginsburg | 12 |
 | Breyer | 13 |
 
-All six eligible authors have 12 counted opinions; the illustrative within-one-of-lowest pool is therefore O’Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. The Chief's mandatory balanced-assignment restriction does not bind this Associate assignment. The pool disclosure records the actual counts and does not imply that the Chief assigned outside his coalition.
+Each of the six has twelve counted leads; all six form the illustrative minimum-twelve, ceiling-thirteen pool. The Chief's mandatory balanced-assignment restriction does not bind this Associate assignment. The pool disclosure records the actual counts and does not imply that the Chief assigned outside his coalition.
 
 O’Connor assigns **Kennedy** for case-specific fit. His Bragdon opinion articulated the impairment, major-activity and individual-substantiality sequence while expressly leaving mitigation open. That authoring work equips him to distinguish Bragdon's supported residual limitation from Sutton's pleaded normal corrected vision without repudiating its holding, while retaining actual adverse effects and coverage/qualification boundaries. The present opinion also requires precise enforcement of original statutory limits against the agency argument and separation of a broad job class from a specialized alleged category. All six necessary joins are settled at that scope; no disagreement needs an expansion accommodation. The selection uses his date-eligible legal work, not historical authorship, and excludes no eligible Justice for ability, style or expected quality. The form and propositions were fixed before these counts or this choice were considered.
 

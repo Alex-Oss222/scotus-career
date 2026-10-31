@@ -101,7 +101,7 @@ Derived reading copy only. The cited state files and effective current-term Reco
 
 **Governing question:** The commerce connection required for the original school-zone possession prohibition and the distinct armed-vehicle-taking class.
 
-**Current rule:** The Court first identifies the class Congress actually regulated and the interstate mechanism asserted to connect that class to commerce among the several States; aggregate magnitude may measure the effect of a class only after a constitutionally sufficient connection has been identified. A stand-alone local school-zone possession prohibition without an enacted commerce connection therefore cannot be sustained by a generalized chain through crime costs, education and productivity to the national economy. Congress may also include intrastate conduct when inclusion is reasonably necessary to prevent evasion or material impairment of a valid federal interstate regulatory regime; that route is recognized but not yet fully defined. Courts cannot save the unambiguous original §922(q)(1)(A) offense by adding an unexpressed commerce element. This rule does not categorically exclude noneconomic intrastate conduct or require formal legislative findings in every case. The Commerce Clause permits Congress to protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the federal offense requires proof of the particular instrumentality’s interstate connection. Original §2119 is constitutional as applied to the forcible taking of the Buick proved here; the judgment is affirmed without adopting the Fifth Circuit’s aggregate-effects rationale.
+**Current rule:** The Court first identifies the class Congress actually regulated and the interstate mechanism asserted to connect that class to commerce among the several States; aggregate magnitude may measure the effect of a class only after a constitutionally sufficient connection has been identified. A stand-alone local school-zone possession prohibition without an enacted commerce connection therefore cannot be sustained by a generalized chain through crime costs, education and productivity to the national economy. Congress may also include intrastate conduct when inclusion is reasonably necessary to prevent evasion or material impairment of a valid federal interstate regulatory regime; that route is recognized but not yet fully defined. Courts cannot save the unambiguous original §922(q)(1)(A) offense by adding an unexpressed commerce element. This rule does not categorically exclude noneconomic intrastate conduct or require formal legislative findings in every case. Protection of the interstate transportation instrumentality against a direct forcible taking supplies a distinct sufficient commerce ground for original §2119, whose enacted particular-vehicle interstate-history requirement must also be proved.
 
 **Authority by component:**
 
@@ -606,14 +606,14 @@ Source: state/holdings/constitutional-structure.md
 
 ### Commerce power and armed vehicle taking
 
-#### United States v. Harris
+#### [United States v. Harris](https://github.com/Alex-Oss222/scotus-career/blob/main/terms/OT1994/records/United_States_v_Harris_merits_1995-04-27.md)
 
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
 
 For the other questions in this decision, see Criminal Procedure — Armed vehicle taking and cumulative firearm punishment (Knowing participation and intentional assistance give the original offense definite content; Section 924(c) expressly adds a consecutive term for this armed carjacking; Hunter permits the clearly authorized punishment in this single prosecution).
 
-##### Direct protection of an interstate instrumentality against forcible taking
+##### Congress may protect the transportation instrumentality against this direct forcible taking
 
 **Holding:** Congress may protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the offense requires proof of the particular vehicle's interstate connection. Original §2119 therefore reaches the armed forcible taking of the covered vehicle proved here, provided its enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce is proved. The direct attack on possession and control of the vehicle and the vehicle-specific connection together supply the ground; neither remote movement alone nor generalized crime, insurance, travel, or productivity costs does so. The rule does not cover every offense in or near a vehicle or require a present interstate journey or intended interstate resale.
 

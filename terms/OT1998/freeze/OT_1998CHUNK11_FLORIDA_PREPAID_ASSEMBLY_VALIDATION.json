@@ -5,9 +5,9 @@
   "status": "FINAL; required bounded assembly checks completed; no unresolved blocker",
   "record": "records/florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
   "record_bytes": 53632,
-  "record_sha256": "5b51967c159281c845a0170fedb40d1463b721d38eb00d1aa068c7e4703e5e96",
+  "record_sha256": "959e3c15daa140f71df48addfd5b3313747e9d0ad86105382c882377b95ab086",
   "recount": "freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECOUNT.json",
-  "recount_sha256": "24d2ee3d806ec26b1f1c895756b28e9cff01b3d557b0334bc190d94bec94ef72",
+  "recount_sha256": "adbb2176e4a46b556dda6c1ff48a0067ad2ffb1c35107ce2dcd9096c132fb4a5",
   "fresh_counts": {
     "Stone-Zsela": 13,
     "Stevens": 12,

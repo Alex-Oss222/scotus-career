@@ -1,6 +1,6 @@
 {
   "counts": {
-    "Stone-Zsela": 10,
+    "Stone-Zsela": 11,
     "Stevens": 10,
     "O'Connor": 10,
     "Scalia": 10,
@@ -10,7 +10,7 @@
     "Ginsburg": 10,
     "Breyer": 12
   },
-  "counted_opinions": 92,
+  "counted_opinions": 93,
   "last_counted_event": {
     "file": "united_states_v_beggerly_merits_1998-06-08.md",
     "case": "United States v. Beggerly, No. 97-731; Fifth Circuit No. 95-60625, 114 F.3d 484.",
@@ -746,6 +746,14 @@
       "date": "1998-06-08",
       "authors": [
         "Breyer"
+      ]
+    },
+    {
+      "file": "national_association_of_home_builders_v_babbitt_merits_1998-06-08.md",
+      "case": "National Association of Home Builders v. Babbitt; D.C. Circuit No. 96-5354; no separate Supreme Court docket assigned.",
+      "date": "1998-06-08",
+      "authors": [
+        "Stone-Zsela"
       ]
     },
     {

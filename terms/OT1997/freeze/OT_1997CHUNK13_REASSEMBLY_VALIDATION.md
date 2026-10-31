@@ -16,7 +16,7 @@ The census reads actual current-term opinion tables, with recorded forms determi
 
 | New assignment | Prior counted leads | Eligible complete-opinion pool | Last counted event |
 |---|---:|---|---|
-| Kentucky | 123 | O'Connor 14; Souter 13; Breyer 15 | Hadix, September 14 |
+| Kentucky | 123 | O'Connor 14; Souter 13 | Hadix, September 14 |
 | Ino Ino | 128 | Scalia 14; Kennedy 13; Souter 14; Thomas 13; Ginsburg 14 | Libertarian Party of Illinois, September 21 |
 | Newton County | 130 | Stone-Zsela 14; Stevens 15; Souter 14; Ginsburg 14; Breyer 15 | Lucas, September 28 |
 

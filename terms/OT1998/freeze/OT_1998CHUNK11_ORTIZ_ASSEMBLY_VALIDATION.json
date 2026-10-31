@@ -3,7 +3,7 @@
   "record": {
     "path": "terms/OT1998/records/ortiz_v_fibreboard_corp_merits_1999-06-23.md",
     "bytes": 50168,
-    "sha256": "8f0e85e56b3c7678566135a25ea262f65dc93f2afc7c38e698783836824ceabe"
+    "sha256": "25b04cc0e0fd0188c4d146992c782bdae2cbe31377393433060baa72cd65aafd"
   },
   "event_date": "1999-06-23",
   "research_cutoff": "Immediately before June 23, 1999; June 23 peer law excluded",
@@ -46,7 +46,7 @@
     {
       "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_RECOUNT.json",
       "bytes": 105279,
-      "sha256": "1287f7275ae89198a0feb944f840bd6acad55a5dc310ebc701eb7fe285152430"
+      "sha256": "b1e38f4b2c35cf0b3bc8ce028a293540843b297e8683651b03cc015612d333f8"
     }
   ],
   "form_before_counts": {
@@ -82,21 +82,21 @@
         "authors": [
           "Souter"
         ],
-        "source_sha256": "bc57b55521ff2c8fb16c4d604d5d408a661b59074477ed3a92f118471436fa87"
+        "source_sha256": "a277b1e7e5f2c5958a6e4a66ac07c9bd7313aa55a621fa7a57c8acb3b119b42f"
       },
       {
         "record": "college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
         "authors": [
           "Stone-Zsela"
         ],
-        "source_sha256": "a937f930985990723e17e3c60d7711dac6bf1adb3dcb223d8652aad7dcc015d6"
+        "source_sha256": "7ffd608c587dd383cb87192e7f2fef267d5068f382bbfaa9424761dd35e2bdb7"
       },
       {
         "record": "florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
         "authors": [
           "Stevens"
         ],
-        "source_sha256": "5b51967c159281c845a0170fedb40d1463b721d38eb00d1aa068c7e4703e5e96"
+        "source_sha256": "959e3c15daa140f71df48addfd5b3313747e9d0ad86105382c882377b95ab086"
       }
     ]
   },

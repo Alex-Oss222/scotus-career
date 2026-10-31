@@ -43,7 +43,7 @@ The fresh recount reads actual dated Record opinion tables, including earlier de
 
 **Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer; minimum 7, ceiling 8. Lowest eligible count: 7; eligible counts at most 8 enter the pool.
 
-**Assignment:** Scalia. Scalia's frozen Gaudin ground and his offense-specific textual analysis identify the missing jury element while preserving the distinction between gratuity and bribery. Stone fully supports the complete opinion and is considered at eight; Scalia's seven-count position and concrete textual fit favor his assignment. His Aguilar disagreement concerned implied language in a different statute and creates no join barrier where §201 expressly names the official act.
+**Assignment:** Scalia. Scalia's frozen Gaudin ground and his offense-specific textual analysis identify the missing jury element while preserving the distinction between gratuity and bribery. Stone fully supports the complete opinion and is within the pool at eight; Scalia's seven-count position and concrete textual fit favor his assignment. His Aguilar disagreement concerned implied language in a different statute and creates no join barrier where §201 expressly names the official act.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|

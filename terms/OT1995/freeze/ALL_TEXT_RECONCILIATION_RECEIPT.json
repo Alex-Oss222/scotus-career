@@ -9,12 +9,12 @@
     },
     {
       "path": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_REFRESH_COMMITMENTS.md",
-      "sha256": "f22142e14f55848ad51e5f979601c535e0580798478cdd37439aec58f84ed05c",
+      "sha256": "2829d19ac8ad6a2b39bbb79d732ba53d42e4c65ba3166cf0797d89077124a446",
       "unchanged": true
     },
     {
       "path": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_PRIOR_RECONCILIATION_SCOPED.md",
-      "sha256": "c20f5c38a7b37c0e6cb4452dd15dd83571611cbbc2149f01c0f21009e138896a",
+      "sha256": "9a2703677de1c830b64433f47246f525505d5757bb289269a80dcca47d54555a",
       "unchanged": true
     },
     {
@@ -24,7 +24,7 @@
     },
     {
       "path": "terms/OT1995/freeze/OT_1995CHUNK1_B3_COMMITMENTS.md",
-      "sha256": "8099914c38163fbc5e9a0344e73005da49b87d12378f81ebcad15218dfd1c54e",
+      "sha256": "489597bbb9704dff712ec9734bec9914ea62c1f15b987b624772feeb3581a9de",
       "unchanged": true
     }
   ],
@@ -32,7 +32,7 @@
     "freeze": "terms/OT1995/freeze/OT_1995CHUNK1_ALL_TEXT_RECONCILED.md",
     "runtime": "terms/OT1995/runtime/OT_1995CHUNK1_ALL_TEXT_RECONCILED.md",
     "bytes": 17744,
-    "sha256": "9b616e0e7154c34f538f1f641e2801e6bcc68c03b4b2099f39970b7bfc5eca1e",
+    "sha256": "4bd7110d77864f54b690bc89797a8471d0ea38135d4e3e9f0c2de3684645c680",
     "identical": true
   },
   "reading_extent": "Complete scoped comparator and receipt; entire substantive prior ALL reconciliation, with truncated A5/A6 middle reread in bounded return; preceding complete official enactment and prior-public reading receipts retained. No newly claimed full petition/opposition/lower-appendix reading.",

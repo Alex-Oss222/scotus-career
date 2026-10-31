@@ -363,7 +363,7 @@ On review of the D.C. Circuit's December 5, 1997 judgment, 130 F.3d 1041, affirm
 
 #### Judgment
 
-**Vacated and remanded, 5-4.**
+**Vacated and remanded, 5–4.**
 
 **Supporting:** Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer.
 
@@ -475,7 +475,7 @@ The Court's enacted-class approach, in their view, treats the breadth of the tak
 
 **Scalia, concurring in Parts I and II-A and dissenting from Parts II-B, III and IV and the judgment, joined by Thomas.** They would reverse and remand for relief confined to the challenged applications. They join the Court's ruling that the taking class cannot be reconstructed from these projects' economic attributes and its rule allowing reasonably necessary inclusion within a valid interstate regime. Lopez's no-insertion rule and the Hale line require a connection grounded in the enacted prohibition, not the actor's expenditures, motive or the national importance of the subject. They accept necessary inclusion of local conduct when a demonstrated relationship to a valid interstate regime exists, but find no such relationship established here.
 
-They reject the independent externality route. A substantial ecological burden that States cannot reasonably confine does not, for them, establish commerce or necessary protection of an existing commerce regime. The territorial-control inquiry risks substituting the need for national regulation for the enumerated power to undertake it. The Court's evidentiary requirements narrow that concern but do not resolve it. They would grant confined relief against the reviewed applications on the grounds offered, rather than remit the case for the Court's additional route. They obey Sweet Home's statutory construction, do not overrule the Lopez/Hale rules, and propose no facial invalidation of the ESA, categorical intrastate-species immunity or blanket development permit.
+They reject the independent externality route. A substantial ecological burden that States cannot reasonably confine does not, for them, establish commerce or necessary protection of an existing commerce regime. The territorial-control inquiry risks substituting the need for national regulation for the enumerated power to undertake it. The Court's evidentiary requirements narrow that concern but do not resolve it. They would grant confined relief against the reviewed applications on the grounds offered, rather than remit the case for the Court's additional route. They obey Sweet Home's statutory construction, do not overrule the entering Lopez/Hale architecture, and propose no facial invalidation of the ESA, categorical intrastate-species immunity or blanket development permit.
 
 #### Source Notes
 

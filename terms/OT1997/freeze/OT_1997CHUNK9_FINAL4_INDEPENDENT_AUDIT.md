@@ -58,7 +58,7 @@ The prior audit independently extracted the 76 opening counted authors from the 
 | Event | Pre-event total | Assignment and pool conclusion | Post-event total |
 |---|---:|---|---:|
 | Florence | 83 | All nine eligible; minimum 9; all nine at 9 or 10 are within the Chief's pool. The stated Pinder/actual-restraint coordination reason addresses Stone's equal-count alternative. | 84 |
-| Cabrales | 84 | All nine eligible; minimum 9; all nine at 9 or 10 are within the pool, including Stone at 9. The conduct/circumstance self-assignment comparison identifies Scalia as the strongest alternative at the equal count and preserves all elements. | 85 |
+| Cabrales | 84 | All nine eligible; minimum 9; all nine at 9 or 10 are within the pool, including Stone at 9. The conduct/circumstance self-assignment comparison identifies Scalia as the strongest alternative and preserves all elements. | 85 |
 | Duffy | 85 | The eight full-join Associates form the complete operative judgment coalition. Stevens, its most senior member, assigns. Stone's opposing remedy supplies no full-opinion eligibility; the Chief's mandatory pool rule does not bind this Associate assignment. Stevens's lead counts once. | 86 |
 | Beggerly | 86 | The Chief is in the complete reversal coalition, but his partial rationale and monetary fallback exclude him from whole-opinion eligibility. All eight Associates are eligible at 9 or 10 and within minimum plus one. Breyer at 9 is validly selected on the statute-specific timing fit. | 87 |
 

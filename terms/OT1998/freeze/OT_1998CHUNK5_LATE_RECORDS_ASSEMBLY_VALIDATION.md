@@ -13,7 +13,7 @@
 
 ## Assignment and mechanical verification
 
-The fresh recount reads actual opinion-topology authors, deduplicates multiple lead parts by author, and orders effective dates and same-date case names. It confirms 50 counted leads before Germany and NFFE: Stone-Zsela 4; Stevens 6; O'Connor 6; Scalia 6; Kennedy 6; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. Cedar Rapids is the last counted event. Germany's eligible pool is Stone-Zsela/Thomas; NFFE's is Stone-Zsela/Breyer. Both recorded assignments are valid. Germany's original/interim explanation and Stewart's certiorari order are excluded; NFFE adds one to Stone's count. After March 3, there are 51 counted leads, with Stone at five and every other count unchanged. This agrees with the independent Jackson recount.
+The fresh recount reads actual opinion-topology authors, deduplicates multiple lead parts by author, and orders effective dates and same-date case names. It confirms 50 counted leads before Germany and NFFE: Stone-Zsela 5; Stevens 6; O'Connor 6; Scalia 6; Kennedy 5; Souter 6; Thomas 5; Ginsburg 6; Breyer 5. Cedar Rapids is the last counted event. Germany's eligible pool is all five eligible authors; NFFE's is Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. Both recorded assignments are valid. Germany's original/interim explanation and Stewart's certiorari order are excluded; NFFE adds one to Stone's count. After March 3, there are 51 counted leads, with Stone at six and every other count unchanged. This agrees with the independent Jackson recount.
 
 All four Records have the four required opening labels, exactly eleven Public Projection blocks in the required order, resolving relative links, and no local-machine, OneDrive or GitHub links. The Public Projections contain no internal workflow terminology. Controlling-explanation counts are Germany 229; NFFE 239 and 277; Cedar Rapids 251 and 121 words, all within the ordinary ceiling. Stewart has no substantive holding. Final Germany substantive/printing, NFFE and Stewart reconciliation freezes match their runtime copies byte-for-byte.
 
@@ -21,7 +21,7 @@ Reviewed Record SHA256 values:
 
 | Record | SHA256 |
 |---|---|
-| Germany | `545e5be25318193c8fd84d3ec7b2e1cc1aaca12550f99d91f367b1456675775f` |
+| Germany | `2647b32101a30210bc75d5913e3814ee2fcabf366f59f4714acebf17a61748d2` |
 | NFFE | `949d8f67388a9995bc82523dd785954e09eab7bedc9e5f5f97d62862fd5801ec` |
 | Stewart certiorari | `a1491688bc448a255a7e00c89d895ce3fc4e673e1817949325a4e039a7efd19c` |
 | Cedar Rapids | `65ca9e559e021a06b9f4744b977c2bd15d9a2cb9c3a2141f55e0b6795b75572f` |

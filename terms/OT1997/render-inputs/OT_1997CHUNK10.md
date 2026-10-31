@@ -378,7 +378,7 @@ The judgment is vacated, and the case is remanded.
 
 ## Judgment & Remedy
 
-**Vacated and remanded, 5-4.** Supporting: Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer. Opposing: Stevens, Souter, Scalia and Thomas.
+**Vacated and remanded, 5–4.** Supporting: Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer. Opposing: Stevens, Souter, Scalia and Thomas.
 
 The lower courts must identify the interstate mechanism actually asserted for the challenged section 9(a)(1)(B) applications and determine whether the existing legislative and adjudicative record materially supports either of the Court's two routes. Stevens and Souter would affirm on the economic-habitat-conversion ground. Scalia and Thomas would reverse and remand for relief confined to the reviewed applications. The Court neither categorically invalidates the applications nor sustains them on a mechanism it supplies by inference. No blanket development permit, actual-taking finding or permit entitlement follows.
 

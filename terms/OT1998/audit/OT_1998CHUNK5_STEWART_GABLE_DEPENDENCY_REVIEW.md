@@ -34,8 +34,8 @@ The following SHA-256 values identify the preexisting Records as read. They are 
 |---|---|
 | Sullivan | `f681bf20ace6e24cc9e0e957d899a0e87e4bbdb3d9787fa1709376a020937612` |
 | Cedar Rapids | `65ca9e559e021a06b9f4744b977c2bd15d9a2cb9c3a2141f55e0b6795b75572f` |
-| Germany | `545e5be25318193c8fd84d3ec7b2e1cc1aaca12550f99d91f367b1456675775f` |
-| NFFE / FLRA | `aa3db221c7ace968115df6e6ff5d5fea77e773cb3de8d404234de564a8a50b71` |
+| Germany | `2647b32101a30210bc75d5913e3814ee2fcabf366f59f4714acebf17a61748d2` |
+| NFFE / FLRA | `5dbc96b4f44a9ed637dfb72198d61c5b0358a98fc36c68b8a7f8d3eb178bc654` |
 | Stewart certiorari | `a1491688bc448a255a7e00c89d895ce3fc4e673e1817949325a4e039a7efd19c` |
 | Jackson | `c1998772d414c274038e6fb3a31723fcc057a7be6b3bc85202321a1b4648ef76` |
 | Reform | `ebf42fc2826827490a92b3d0af05d41cbf1b17b7a108ea893583f43092984cc5` |

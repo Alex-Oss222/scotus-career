@@ -3232,7 +3232,7 @@
       "bytes": 5784
     },
     "freeze/OT_1996CHUNK4_RESUMPTION_BASELINE.json": {
-      "sha256": "e34dcbe29e6effd37cd701af2028d00d561e4ab16dbd1e83686920787288e974",
+      "sha256": "5fea0185d9761d81a1298f3ce303c127acc6f313d39957d4ee396bfd603ff767",
       "bytes": 110565
     },
     "freeze/OT_1996CHUNK4_RESUMPTION_CHECKS.json": {
@@ -3736,7 +3736,7 @@
       "bytes": 8548
     },
     "freeze/OT_1996CHUNK6_68_RESUMPTION_BASELINE.json": {
-      "sha256": "7054a08ec3974874a10f579cef0c02e91a6fa100f6e1e42692693883ccd35e52",
+      "sha256": "60c0494995f1a012e8a83affa05c7a3f3ee72f09aec90ad4b04994820eacd03f",
       "bytes": 190277
     },
     "freeze/OT_1996CHUNK6_68_RESUMPTION_CHECK.json": {
@@ -3892,7 +3892,7 @@
       "bytes": 3709
     },
     "freeze/OT_1996CHUNK6_VALIDATION.json": {
-      "sha256": "12591696c5dfeda2c1e20afab4a049117f6ee37108b8ac52181b7e54074a09fa",
+      "sha256": "d4908ec76fcad4702de9469b1f1e2bd7b8148eef093766cda81bd4d0defc4947",
       "bytes": 7809
     },
     "freeze/OT_1996CHUNK6_VALIDATION.md": {
@@ -4412,7 +4412,7 @@
       "bytes": 7509
     },
     "freeze/OT_1996CHUNK7_VALIDATION.json": {
-      "sha256": "4254dc3efd64f38157f2281e2877be144fc95bb5aa2d840c5992ff58abd4331a",
+      "sha256": "8990b298e5eb65a9dd56e29117ee2ee48c7902b93f8d0127417a818337472ee3",
       "bytes": 7164
     },
     "freeze/OT_1996CHUNK8_84_85_86_88_89_RECONCILED.md": {
@@ -5268,7 +5268,7 @@
       "bytes": 244
     },
     "freeze/OT_1996CHUNK9_VALIDATION.json": {
-      "sha256": "1fb96bf47b28d18e481839928cca6df707429a9b69104bc2e8c8da5212d92675",
+      "sha256": "38360cb5929269db4783cf1f185b53808f771cb063c6a060bea995a2beac9677",
       "bytes": 7870
     },
     "freeze/OT_1996_MANIFEST.md": {

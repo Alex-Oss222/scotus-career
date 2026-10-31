@@ -43,7 +43,7 @@
     {
       "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
       "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
-      "sha256": "b6d562048244845de760de19ea5dbff58beb374d0ec8186f2f65da5868700021",
+      "sha256": "ef7eb4049d2a616bf48bb6ed9baf004460f0160993112167ec76c32f90b6e957",
       "bytes": 34193
     },
     {
@@ -60,5 +60,5 @@
     }
   ],
   "neutral_projection_sha256": "dfa77e31adf56165c3dea23c540491ee19f28ca24fa24abb1a013b165da2298a",
-  "large_tool_generated_slice_sha256": "c203ad08435b0fe2c77fcb88b013289dce75fe0098fbf4fab9b4d0b62eae8c62"
+  "large_tool_generated_slice_sha256": "984a8f71d92472ff32af071473b44942ccbdc09f67047a6c6a50b6128a96029b"
 }

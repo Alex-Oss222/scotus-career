@@ -38,13 +38,13 @@ Fresh recounts used `python -B tmp/ot1997_chunk10_recount.py` and the actual pub
 | Hopkins | 89 | Breyer | Eight eligible majority members in pool; Breyer's case-specific fit at the lower count is preferred over Stone-Zsela, the strongest alternative |
 | Muscarello/Cleveland | 90 | Breyer | Six complete-ground majority members, each at ten; consolidated opinion counts once |
 | Reed | Not applicable | Per curiam | Summary disposition contributes no signed-lead count |
-| Bestfoods | 92 | Thomas | Beggerly now precedes this case alphabetically; Breyer at twelve is outside pool, others at ten |
+| Bestfoods | 93 | Thomas | Home Builders and Beggerly precede this case alphabetically; Breyer at twelve is outside pool, Stone-Zsela at eleven and others at ten remain inside |
 | McBryde | 94 | Kennedy | All nine eligible; Breyer excluded from pool, Stone-Zsela and Thomas at eleven remain inside |
 | Ringuette | 95 | Ginsburg | Eight Associates eligible; Stone's distinct/fallback-only grounds do not qualify; Breyer outside pool |
 | AT&T | 96 | Souter | Six whole-opinion eligible authors; Chief's Part I and Scalia's Part II assignments choose the same eligible author; Breyer outside pool |
 | Bryan | 97 | O'Connor | Six whole-opinion eligible Associates; Stone's partial join and fallback do not qualify; Breyer outside pool |
 
-The verified pre-Cass counts are Stone-Zsela 10, Stevens 10, O'Connor 10, Scalia 9, Kennedy 9, Souter 10, Thomas 9, Ginsburg 10 and Breyer 9. All later changes follow actual counted authorship; Home Builders' signed Stone-Zsela lead enters the later-date McBryde, Ringuette, AT&T and Bryan counts. Reed and separate writings contribute no lead count.
+The verified pre-Cass counts are Stone-Zsela 10, Stevens 10, O'Connor 10, Scalia 9, Kennedy 9, Souter 10, Thomas 9, Ginsburg 10 and Breyer 9. All later changes follow actual counted authorship; Home Builders' signed Stone-Zsela lead enters the same-date Bestfoods count, which follows it alphabetically, and the later-date McBryde, Ringuette, AT&T and Bryan counts. Reed and separate writings contribute no lead count.
 
 ## Projection checks and repaired findings
 

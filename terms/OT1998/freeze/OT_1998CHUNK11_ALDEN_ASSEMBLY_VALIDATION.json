@@ -4,7 +4,7 @@
   "event_date": "1999-06-23",
   "status": "assembly_finalized",
   "record": "terms/OT1998/records/alden_v_maine_merits_1999-06-23.md",
-  "record_sha256": "bc57b55521ff2c8fb16c4d604d5d408a661b59074477ed3a92f118471436fa87",
+  "record_sha256": "a277b1e7e5f2c5958a6e4a66ac07c9bd7313aa55a621fa7a57c8acb3b119b42f",
   "counted_lead_opinion": true,
   "lead_authors": [
     "Souter"
@@ -212,7 +212,7 @@
     },
     "freeze/OT_1998CHUNK11_ALDEN_RECOUNT.json": {
       "bytes": 99985,
-      "sha256": "ce340b9af010dbf42e2a20b8d0fe55761cc692fedc9d7b827492521ef076a6bb"
+      "sha256": "56065d62bb39561262ae3ac616a673f1f38e844610b62995c50c997120b89eda"
     }
   },
   "source_scope": "Assembly read the frozen neutral/commitment/reconciliation/Stone files, relevant dated law selections and complete final screen; historical full-read work belongs to reconciliation. No original pleading/payroll/grant possession claimed.",

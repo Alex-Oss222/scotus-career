@@ -25,7 +25,7 @@
     "authors": [
       "Stone-Zsela"
     ],
-    "record_sha256": "aa3db221c7ace968115df6e6ff5d5fea77e773cb3de8d404234de564a8a50b71"
+    "record_sha256": "5dbc96b4f44a9ed637dfb72198d61c5b0358a98fc36c68b8a7f8d3eb178bc654"
   },
   "counted_records": [
     {
@@ -35,7 +35,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "record_sha256": "12ba34778ff63b3f873479421524b1a3a7744446319a257147496a39e3e03ee2"
+      "record_sha256": "4eea211ed875ad068140e827663a3f9c139be0ed8d6f0109a1fa99f85c7a5cda"
     },
     {
       "record": "records/fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
@@ -251,7 +251,7 @@
       "authors": [
         "O'Connor"
       ],
-      "record_sha256": "1201d0b90bad7f766231b3117115ab52fc8634ce29fc740c1787b9051ae8cb3b"
+      "record_sha256": "86e49215bd767e3d91c16a6e937b6005944c8102faf4600e8ad3a23f4a8ec0b1"
     },
     {
       "record": "records/city_of_west_covina_v_perkins_merits_1999-01-13.md",
@@ -404,7 +404,7 @@
       "authors": [
         "O'Connor"
       ],
-      "record_sha256": "4bac60e88fd9d7ec690eae9414c6431572da5025a1eb1f5c5885e3982467bdc1"
+      "record_sha256": "8c09312b1b634eb95b295bcf74852332b2e3ef56ecee972e002b4f9ae6943cf3"
     },
     {
       "record": "records/your_home_visiting_nurse_services_v_shalala_merits_1999-02-23.md",
@@ -485,7 +485,7 @@
       "authors": [
         "Stone-Zsela"
       ],
-      "record_sha256": "aa3db221c7ace968115df6e6ff5d5fea77e773cb3de8d404234de564a8a50b71"
+      "record_sha256": "5dbc96b4f44a9ed637dfb72198d61c5b0358a98fc36c68b8a7f8d3eb178bc654"
     }
   ],
   "later_records_excluded": [
@@ -521,7 +521,7 @@
       "effective_date": "1999-03-03",
       "case": "Federal Republic of Germany, Chrobog and Rudolph v. United States and Hull",
       "authors": [],
-      "record_sha256": "545e5be25318193c8fd84d3ec7b2e1cc1aaca12550f99d91f367b1456675775f"
+      "record_sha256": "2647b32101a30210bc75d5913e3814ee2fcabf366f59f4714acebf17a61748d2"
     },
     {
       "record": "records/maine_initiative_qualification_admitted_source_1998-12-23.md",

@@ -10872,6 +10872,8 @@ For the other questions in Northwest Airlines, Inc. v. County of Kent, 1994-01-2
 
 **Operative remedy or transition:** The state enforcement judgment is reversed and remanded, 7–2. Set aside the challenged compulsory route against Carbone and adjust the injunction consistently, preserving independent valid rules and severability. No damages, refund, unconditional operating injunction, contract rescission or substitute financing method is ordered.
 
+**Later-authority backlinks:** Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County, May 27, 1998, holdings 1-4: resolves the genuine-public-facility question, preserves the private-service and government-purchase limits, and requires independent diversion-cost and remaining Commerce Clause scrutiny.
+
 ### Legislative reopening of final judgments
 
 #### Morgan Stanley & Co. v. Pacific Mutual Life Insurance Co., 511 U.S. 658
@@ -11054,18 +11056,20 @@ For the other questions in Ryder v. United States, decided June 12, 1995, No. 94
 
 For the other questions in this decision, see Criminal Procedure — Armed vehicle taking and cumulative firearm punishment (Knowing participation and intentional assistance give the original offense definite content; Section 924(c) expressly adds a consecutive term for this armed carjacking; Hunter permits the clearly authorized punishment in this single prosecution).
 
-##### Direct protection of an interstate instrumentality against forcible taking
+##### Congress may protect the transportation instrumentality against this direct forcible taking
 
-**Holding:** Congress may protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the offense requires proof of the particular vehicle's interstate connection. Original §2119 therefore reaches the armed forcible taking of the covered vehicle proved here, provided its enacted requirement that the particular vehicle have been transported, shipped, or received in interstate or foreign commerce is proved. The direct attack on possession and control of the vehicle and the vehicle-specific connection together supply the ground; neither remote movement alone nor generalized crime, insurance, travel, or productivity costs does so. The rule does not cover every offense in or near a vehicle or require a present interstate journey or intended interstate resale.
+**Holding:** The Commerce Clause permits Congress to protect an instrumentality of interstate commerce against a direct intrastate forcible taking when the federal offense requires proof of the particular instrumentality’s interstate connection. Original §2119 is constitutional as applied to the forcible taking of the Buick proved here; the judgment is affirmed without adopting the Fifth Circuit’s aggregate-effects rationale.
 
-**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes. Breyer, joined by Stevens, Souter and Ginsburg, also states an economic-class alternative in concurrence; those four votes do not make that alternative controlling.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Justices Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes for the qualified instrumentality rule and its application. The four-Justice economic-acquisition concurrence joins this holding and does not limit those joins.
 
 **Treatment of earlier authority:**
 
-- United States v. Lopez, April 26, 1995: applies the retained power to protect interstate instrumentalities and distinguishes stand-alone possession supported only by remote downstream consequences. Congress enacted the vehicle-specific nexus here; the Court supplies no omitted element.
-- Wickard v. Filburn, 317 U.S. 111 (1942): retains its economic-class aggregation rule. The Court does not use that separate route to sustain this direct-instrumentality application.
-- Perez v. United States, 402 U.S. 146 (1971): retains its economic-class ground without making it the Court’s ground for this vehicle-taking decision.
-- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves its distinction between actual commercial operation and remote object history; prior manufacture alone is not the constitutional ground here.
+- United States v. Lopez, April 26, 1995: applies its recognized authority to protect instrumentalities against direct attacks and its requirement of a constitutionally identifiable connection before aggregation. The direct taking and enacted vehicle connection distinguish the stand-alone school-zone possession offense; no missing element is inserted.
+- Allied-Bruce Terminix Cos. v. Dobson, January 18, 1995: preserves its reservation that remote interstate object history alone is not constitutionally conclusive. Here the vehicle’s transportation function and the direct attack on its control supply independent constitutional work.
+- Wickard v. Filburn, 317 U.S. 111 (1942): preserves its economic-class scope; no economic-class alternative holding is necessary here.
+- Perez v. United States, 402 U.S. 146 (1971): preserves its economic-class rule allowing class regulation without an independently substantial effect from each instance; it does not supply this holding’s instrumentality ground.
+
+**Limits and questions not reached:** The direct attack on the vehicle and its transportation function perform constitutional work independent of its past interstate movement. The rule does not make every offense in or near a vehicle federal; no current interstate journey, profit motive or intended interstate resale is required.
 
 **Operative remedy or transition:** Both convictions and each defendant's forty-one-month Count One term plus consecutive sixty-month Count Two term are affirmed on all three presented challenges. No merger, vacatur, concurrent conversion, sentence increase, resentencing, new trial or exploratory remand is ordered.
 
@@ -11462,7 +11466,7 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 **Operative remedy or transition:** Affirm the commerce/federalism dismissal. FACE's remaining speech, vagueness, civil-remedy, free-exercise and RFRA questions are under First Amendment, American Life League, November 13, 1995, Fourth Circuit No. 94-1869.
 
-**Treatment of earlier authority:** As the first post-Lopez application recognizing a direct market-interference mechanism, the decision applies Lopez's connection-before-magnitude architecture and distinguishes its inadequate downstream-effects chain. Harris's direct-instrumentality rule and enacted vehicle-specific nexus are a distinct mechanism; Robertson's direct-enterprise rule is distinct and does not classify every protester as an enterprise. New York's anti-compulsion limit remains intact.
+**Treatment of earlier authority:** As the first post-Lopez application recognizing a direct market-interference mechanism, the decision applies Lopez's connection-before-magnitude architecture and distinguishes its inadequate downstream-effects chain. Harris's direct-instrumentality ground and enacted vehicle nexus are a distinct mechanism; Robertson's direct-enterprise rule is distinct and does not classify every protester as an enterprise. New York's anti-compulsion limit remains intact.
 
 ### Federal regulation of economic activity
 
@@ -11476,11 +11480,11 @@ Members must have aviation and airport-user experience, frequently use the metro
 
 **Holding:** Congress may apply original §2119 to the armed vehicle taking at issue as protection of an instrumentality of interstate commerce against a direct intrastate forcible taking. The separately enacted requirement that the particular vehicle have been transported, shipped or received in interstate or foreign commerce remains necessary; remote vehicle history alone and generalized crime, insurance or productivity costs do not supply this holding's constitutional ground.
 
-**Proposition-level authority:** O'Connor's Part II, joined by every other Justice named in Opinion Topology: nine direct votes for this application of Harris, without enlarging its rule.
+**Proposition-level authority:** O'Connor's Part II, unanimous.
 
-**Limits and questions not reached:** No rule covers every offense in or near a vehicle. No new Commerce Clause test or unpresented sufficiency determination is adopted.
+**Limits and questions not reached:** No automatic rule covering every offense in or near a vehicle, new Commerce Clause test or unpresented sufficiency determination is adopted.
 
-**Treatment of earlier authority:** Harris is applied within its direct-instrumentality and enacted-element limits; Lopez retains its rejection of the remote downstream-effects theory; Wickard and Perez remain economic-class precedents and supply no independent ground for this application; American Life League's distinct direct market-interference ground does not change §2119's text.
+**Treatment of earlier authority:** Harris is applied within its direct-instrumentality and enacted-element limits without creating a new Commerce Clause rule; the decision does not enlarge Lopez or the instrumentality route. Lopez retains its connection-before-magnitude architecture and its rejection of the remote downstream-effects theory; Wickard and Perez retain their economic-class scope; American Life League's distinct direct market-interference ground does not change §2119's text.
 
 #### United States v. Hale, judgment below 978 F.2d 1016
 
@@ -11602,6 +11606,8 @@ For the separate questions in General Motors Corp. v. Tracy, No. 95-1232 decided
 **Operative remedy or transition:** Affirm both components: the purchased destination term survives the constitutional challenge and the ordinance remains invalid. Only properly pending and legally available contract/payment proceedings remain. No breach, diversion, debt, withheld-payment award, damages, rescission, automatic trial or replacement program is established. Antitrust immunity, CERCLA liability and a general subcontract rule remain undecided.
 
 **Treatment of earlier authority:** Carbone's private-processing rule and justification requirement are applied without change, with Oregon Waste's distinction between discrimination and justification intact. West Lynn's scrutiny of linked arrangements does not make the Town's genuine purchases identical to the ordinance's compulsion. Pike remains available for genuinely evenhanded incidental burdens; no separate Pike holding is made here.
+
+**Later-authority backlinks:** Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County, May 27, 1998, holdings 1-4: resolves the genuine-public-facility question, preserves the private-service and government-purchase limits, and requires independent diversion-cost and remaining Commerce Clause scrutiny.
 
 ### Census enumeration
 
@@ -11847,6 +11853,8 @@ For the other questions in Walmer v. Department of Defense, Tenth Circuit No. 93
 
 **Treatment of earlier authority:** Fulton separates invalidity from lawful state remedial choices. McKesson requires backward correction when payment preceded meaningful review; Reich independently protects a clearly held-out postpayment route even after voluntary payment, subject to reasonable preannounced conditions and fair prospective change.
 
+**Later-authority backlinks:** Waste Management, Inc. of Tennessee v. Metropolitan Government of Nashville and Davidson County, May 27, 1998, holdings 1-4: resolves the genuine-public-facility question, preserves the private-service and government-purchase limits, and requires independent diversion-cost and remaining Commerce Clause scrutiny.
+
 ### Interstate lottery procurement
 
 #### Pic-A-State Pennsylvania, Inc. v. Reno
@@ -12001,7 +12009,7 @@ For the officers' concrete-injury holding in Printz/Mack, June 27, 1997, Nos. 95
 
 **Limits and questions not reached:** The rule decides no compulsory field investigation, permanent enforcement organization or general policy-administration command. The word including is not reduced to only, and no independent investigative power is supplied. No cheap-command exception, constitutional payment entitlement, state-law veto or universal validation of ancillary duties follows. New York, distinct election and state-court sources, valid preemption, generally applicable regulation, voluntary cooperation and lawful spending remain intact.
 
-**Treatment of earlier authority:** New York's state-legislation and ownership/liability prohibition remains controlling; the limited executive function is distinct. Lopez retains its connection-before-magnitude and no-added-element rules; United States v. Harris and United States v. Hale: retain their direct-instrumentality and integral transfer/stock grounds, respectively. Valid commercial regulation does not itself decide the propriety of every means used to implement it. Voting Rights Coalition retains its distinct election powers. Garcia and Baker preserve generally applicable state-activity regulation. FERC and Testa retain adjudicative and cooperative settings without automatically authorizing executive commands. Alaska Airlines retains its remainder-and-design severability inquiry, which is not decided for absent parties here.
+**Treatment of earlier authority:** New York's state-legislation and ownership/liability prohibition remains controlling; the limited executive function is distinct. Lopez retains its connection-before-magnitude and no-added-element rules; Harris and Hale retain their direct-instrumentality and anti-evasion/material-impairment grounds without validating every implementing means. Voting Rights Coalition retains its distinct election powers. Garcia and Baker preserve generally applicable state-activity regulation. FERC and Testa retain adjudicative and cooperative settings without automatically authorizing executive commands. Alaska Airlines retains its remainder-and-design severability inquiry, which is not decided for absent parties here.
 
 ##### What authority supports the limited fiscal remand
 
@@ -12033,7 +12041,7 @@ For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth
 
 **Limits and questions not reached:** No flight, travel, voluntary crossing, bank wire, particular instrument, evasion motive or ability finding is added. This is not a rule for all family debt or incidental geographic connections.
 
-**Treatment of earlier authority:** Lopez's connection-before-magnitude architecture is applied through a concrete statutory mechanism, not a general interstate-obligation category detached from Lopez; its rejection of remote effects chains and prohibition on supplying missing elements are retained. United States v. Harris and Bishop/Stokes preserve their actual direct-instrumentality ground and proof of the enacted vehicle nexus. Their result is not converted into an automatic instrumentality rule or a holding about every debt.  Hale retains its anti-evasion/material-impairment ground. None creates an automatic commerce label for every obligation.
+**Treatment of earlier authority:** Lopez's connection-before-magnitude architecture is applied through a concrete statutory mechanism, not a general interstate-obligation category detached from Lopez; its rejection of remote effects chains and prohibition on supplying missing elements are retained. Harris and Bishop/Stokes retain their direct-instrumentality ground and enacted nexus; Hale retains its anti-evasion/material-impairment ground. None creates an automatic commerce label for every obligation.
 
 ##### Whether direct regulation of private obligors commandeers a State
 
@@ -12064,10 +12072,12 @@ For the domestic-relations limitation in Mussari/Schroeder, June 30, 1997, Ninth
 
 **Treatment of earlier authority:** *Lopez* requires the Court to identify the statutory class and the interstate mechanism before aggregation or downstream magnitude can perform constitutional work. The mechanism here is not gun violence, fear, insurance cost, productivity, marketability in the abstract, or presumed foreign or military provenance. It is the fitted relationship between possession and enforcement of the valid national machinegun-transfer/stock regime. *Hale* controls. Rybar does not create a broader Commerce category and does not enlarge Hale’s anti-evasion rule. It demonstrates that the rule applies when the defendant’s possession occurs in actual commercial transfer circumstances at the core of the regulated market.
 
-- Harris and Bishop/Stokes are distinguished as vehicle-taking cases with their direct-instrumentality mechanism and enacted vehicle-specific nexus.
+- **United States v. Harris / Bishop-Stokes:** distinguished as vehicle-taking cases with their direct-instrumentality mechanism and enacted vehicle-specific nexus.
 - **American Life League v. Reno:** distinguished as direct interference with an interstate service market.
 
 **Operative remedy or transition:** The commerce objection fails, but does not dispose of the separate arms claim. For the personal-holder rule and vacatur of the affirmance of Counts I and III, see United States v. Rybar, Third Circuit No. 95-3185, decided November 24, 1997, under Civil Rights, personal arms protection and machinegun possession.
+
+**Later-authority backlinks:** National Association of Home Builders v. Babbitt, June 8, 1998, Parts II-III: preserves this fitted anti-evasion rule and adopts a distinct, materially supported substantial-interstate-externality route.
 
 ### Discriminatory nonresident income taxation
 
@@ -12223,43 +12233,33 @@ For the state-order and domestic-relations boundary in Parker, Third Circuit No.
 **Docket or dockets:** Sixth Circuit Nos. 95-5863 and 95-5900; no separate Supreme Court docket supplied.
 **Decided:** 1998-05-27.
 
-**Common authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Souter, Ginsburg and Breyer, controls each of the following four holdings by five direct votes.
-
 ##### 1. Genuine public routing with equal treatment of private processors is not facial discrimination
 
-**Holding and operative rule:** Routing locally generated waste to a genuinely public facility does not facially discriminate against interstate commerce when local private processors and out-of-state processors are treated alike. Whether the facility is genuinely public turns on its actual ownership, control, financing, public-service responsibility and revenues, and the absence of concealed private favoritism; public title alone does not settle the question.
+**Holding:** Routing locally generated waste to a genuinely public facility does not facially discriminate against interstate commerce when local private processors and out-of-state processors are treated alike. Whether the facility is genuinely public turns on its actual ownership, control, financing, public-service responsibility and revenues, and the absence of concealed private favoritism; public title alone does not settle the question.
 
-**Controlling explanation:** The Court distinguishes public provision of a waste-disposal service from a command reserving private business for a favored local enterprise. Carbone condemns the latter and leaves the genuinely public category open; excluding local private competitors does not cure favoritism toward a selected private processor. That reasoning does not compel the same classification when the service is actually public and all private processors are treated alike. Tracy requires attention to the actual service and its obligations, rather than the physical process alone. Camps likewise preserves genuinely different public systems while refusing to let a public-benefit label justify private commercial discrimination.
-
-The inquiry therefore concerns who actually owns and controls the facility, how its financing and financial risks are allocated, who bears responsibility for providing the public service, where its revenues go, and whether the arrangement conceals private favoritism. These considerations implement the public-service distinction; a deed is not conclusive, and employing a private operator does not itself establish either genuine public operation or a private preference. Metro owns the plant and NTTC operates it, but the supplied record does not settle the operator's economics, risk allocation or every contractual obligation. The Court supplies none of those facts. The lower court erred by treating public ownership as categorically immaterial under Carbone; on remand it must apply the genuine-public inquiry rather than presume either its satisfaction or its failure. This holding addresses facial discrimination, not blanket immunity from every Commerce Clause claim.
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Souter, Ginsburg and Breyer, controls this holding by five direct votes.
 
 ##### 2. A diversion fee must correspond to diversion-related costs, independently of the routing rule
 
-**Holding and operative rule:** A diversion fee survives only insofar as its actual incidence and amount are genuinely tied to diversion-related costs rather than interstate origin or protection of local commerce. A permissible public routing distinction does not establish that connection, and a compensatory-tax defense separately requires an identified actual intrastate burden, rough approximation without excess, and substantially equivalent taxable events reasonably treated as mutually exclusive proxies.
+**Holding:** A diversion fee survives only insofar as its actual incidence and amount are genuinely tied to diversion-related costs rather than interstate origin or protection of local commerce. A permissible public routing distinction does not establish that connection, and a compensatory-tax defense separately requires an identified actual intrastate burden, rough approximation without excess, and substantially equivalent taxable events reasonably treated as mutually exclusive proxies.
 
-**Controlling explanation:** The Court examines the fee itself, not merely the facility it finances. A charge that applies without regard to interstate origin and genuinely corresponds to diversion-related costs is distinct from a surcharge protecting local commerce. Equal nominal treatment of private destinations cannot conceal a different actual incidence, and a revenue shortfall does not by itself prove costs caused by diversion. The Court adopts no accounting formula, assumed cost amount or finding that this charge satisfies the required relationship.
-
-Oregon Waste and Fulton supply the cumulative compensation requirements; neither a financing need nor aggregate public expense replaces an identified matching intrastate burden. Metro's existing compensation defense fails because no corresponding burden is identified. That failure does not establish that Metro incurs no costs, nor does it decide whether this enacted fee fits the separate diversion-cost rule. The lower courts must test the $2-per-cubic-yard or $8-per-ton charge on specified Metro-generated or collected waste sent to non-Metro facilities, including destinations inside Metro, while accounting for the NTTC and Metro-owned-site exemptions. The inquiry must fit that incidence and the actual record; the Court does not rewrite the enactment into a different fee. An origin-based or protectionist charge remains subject to the governing discrimination rule, and public ownership supplies no excuse for it.
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Souter, Ginsburg and Breyer, controls this holding by five direct votes.
 
 ##### 3. Public ownership is distinct from government purchase of private transactions
 
-**Holding and operative rule:** Ownership of a disposal facility does not establish that the government purchases independent generators' and haulers' transactions compelled by a routing requirement or burdened by a diversion fee. SSC's government-purchase protection therefore cannot rest on public title alone, although the genuine public character of a facility remains independently material to discrimination analysis.
+**Holding:** Ownership of a disposal facility does not establish that the government purchases independent generators' and haulers' transactions compelled by a routing requirement or burdened by a diversion fee. SSC's government-purchase protection therefore cannot rest on public title alone, although the genuine public character of a facility remains independently material to discrimination analysis.
 
-**Controlling explanation:** SSC protects collection and disposal that the government actually purchases; it separately applies Carbone to regulation reserving independent private business. Metro's ownership does not show a municipal purchase of every private transaction its rules reach. Neither an operator's performance nor the government's investment supplies the missing purchase. The public-facility rule concerns the character of the favored service and equal treatment of private alternatives, not a fictional purchase of all their transactions. Actual government procurement retains its existing protection, and no unproved procurement contract is supplied here.
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Souter, Ginsburg and Breyer, controls this holding by five direct votes.
 
 ##### 4. Both claims return for application of the rule and the appropriate remaining scrutiny
 
-**Holding and operative rule:** The lower courts must separately reconsider routing and the diversion fee under the public-facility and diversion-cost rules. A genuinely evenhanded measure remains subject to Pike's inquiry whether its supported interstate burden is clearly excessive in relation to local benefits; where discrimination is established, the government must show a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve, rather than rely on Pike balancing.
+**Holding:** The lower courts must separately reconsider routing and the diversion fee under the public-facility and diversion-cost rules. A genuinely evenhanded measure remains subject to Pike's inquiry whether its supported interstate burden is clearly excessive in relation to local benefits; where discrimination is established, the government must show a legitimate local purpose that reasonable nondiscriminatory alternatives cannot adequately serve, rather than rely on Pike balancing.
 
-**Controlling explanation:** The Court's classification rule resolves the governing legal question without deciding the missing factual predicates or either measure's ultimate validity. The routing requirement includes the Director's specific written-authorization exception for residential waste and the reported nonresidential allocations needed for the 6,300-ton weekly requirement, with monthly reporting, at-least-quarterly pro rata calculations from the best available data, and advance notices. The fee has its own incidence and cost inquiry. Neither may be treated as an unconditional all-waste command or an automatically valid public financing measure.
+**Proposition-level authority:** Chief Justice Stone-Zsela's Opinion of the Court, joined in full by O'Connor, Souter, Ginsburg and Breyer, controls this holding by five direct votes.
 
-Pike supplies the rule for an evenhanded burden; Oregon Waste and Camps require the distinct legitimate-purpose and adequate-alternatives inquiry for discrimination. Reliable disposal, fuel supply and the State's 25-percent reduction requirement are supported objectives. The reported alternatives—competitive charges, increased municipal collection or contracts, and a generator/container tax—are not assumed costless, immediate or equally profitable, and the law does not demand disproof of every imaginable substitute. Vacatur permits proper application of these rules without requiring an automatic evidentiary hearing, deciding a monetary remedy or prescribing a replacement program. The separate passenger-car/pickup takings and ripeness rulings were outside the grant and remain untouched.
+**Limits and questions not reached:** The Court determines neither measure's ultimate validity and grants no blanket public-system immunity. The excluded takings and ripeness rulings remain undisturbed.
 
-**Current force:** Routing locally generated waste to a genuinely public facility is not facial discrimination when local private and out-of-state processors receive equal treatment. Actual ownership, control, financing, public-service responsibility, revenues and the absence of concealed private favoritism determine genuine public status; title alone is insufficient. Diversion fees require an independent, genuine relationship between their incidence and amount and diversion-related costs, without interstate-origin discrimination or protectionism. The decision supplies neither blanket public-system immunity nor a finding that Metro's measures meet these conditions.
-
-Public ownership does not establish a government purchase, and the existing compensation defense fails for want of an identified corresponding intrastate burden. The appropriate evenhanded-burden or discrimination rules remain available according to the actual classification. Both reviewed determinations are vacated for separate application of this law. The excluded takings and ripeness rulings remain undisturbed. The Court's five-Justice rule controls directly; the concurrence and dissents do not qualify its authority.
-
-**Operative remedy or transition:** The case returns to the Sixth Circuit for proceedings implementing vacatur of both reviewed Commerce Clause determinations and renewed, separate consideration of the routing and fee claims under the Court's public-facility and diversion-cost rules and the applicable remaining scrutiny. Any injunction modification must implement that mandate; no interim enforcement status or permission pending mandate is determined here. The passenger-car/pickup takings and ripeness remand remains undisturbed. No automatic evidentiary hearing, trial, damages, refund, contract recovery, substitute tax, new procurement, title transfer, guaranteed business or compelled acceptance of waste is ordered. No additional Supreme Court event or return date is set.
+**Operative remedy or transition:** Both reviewed determinations are vacated and remanded, 5–4, for separate application of the public-facility and diversion-cost rules and the appropriate remaining scrutiny.
 
 **Treatment of earlier authority:**
 
@@ -12273,67 +12273,49 @@ Public ownership does not establish a government purchase, and the existing comp
 
 No precedent is overruled. The genuine-public question reserved in the earlier waste-service decisions is resolved at the stated scope.
 
-### Commerce authority over noneconomic intrastate conduct
+### Commerce authority over intrastate endangered-species takings
 
 #### National Association of Home Builders v. Babbitt
 
+**Docket or dockets:** D.C. Circuit No. 96-5354; no separate Supreme Court docket assigned.
+
 **Decided:** 1998-06-08.
 
-**Authority source:** [Canonical Decision Record](../../OT1997/records/national_association_of_home_builders_v_babbitt_merits_1998-06-08.md#public-projection).
+##### I. The enacted taking class is not made economic by the projects' commercial features
 
-##### Holdings
+**Holding:** For this challenge to section 9(a)(1)(B), the regulated class is the taking of listed wildlife, including habitat-caused injury, without a commercial element. The economic character of the reviewed development projects does not by itself supply a constitutionally sufficient connection fitted to that enacted class; the asserted mechanism for these applications must be identified independently of those commercial features.
 
-Chief Justice Stone-Zsela delivers the Opinion of the Court. Part I is joined by O'Connor, Scalia, Kennedy and Thomas; Part II-A by those four plus Ginsburg and Breyer; Parts II-B, III and IV by O'Connor, Kennedy, Ginsburg and Breyer. Each coalition supplies a majority for the proposition attributed to it below. No narrowest-ground analysis or combination of incompatible rationales supplies authority.
+**Proposition-level authority:** Part I, joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas: five Justices. Ginsburg and Breyer do not join this part, although they join the remaining holdings and the judgment.
 
-#### I. The enacted taking class is not made economic by the projects' commercial features
+##### II. Two supported interstate mechanisms can authorize regulation of noneconomic intrastate conduct
 
-**Holding and operative rule.** For this challenge to section 9(a)(1)(B), the regulated class is the taking of listed wildlife, including habitat-caused injury, without a commercial element. The economic character of the reviewed development projects does not by itself supply a constitutionally sufficient connection fitted to that enacted class; the asserted mechanism for these applications must be identified independently of those commercial features.
-
-**Authority.** Part I, joined by Stone-Zsela, O'Connor, Scalia, Kennedy and Thomas: five Justices. Ginsburg and Breyer do not join this part, although they join the remaining holdings and the judgment.
-
-**Controlling explanation.** The Court holds that the relevant class is the prohibition Congress enacted. Lopez requires a constitutionally sufficient connection fitted to that class before aggregation measures magnitude. Section 9 makes injury to listed wildlife its predicate whether the actor undertakes an exchange, construction or private noneconomic conduct. Sweet Home's habitat construction identifies an injury-causing act but supplies no commercial element. A court cannot treat the actual expenditures or development function of these projects as though Congress had defined an economic land-conversion class.
-
-The contrary as-applied argument has force because the construction itself alters the habitat, rather than merely financing some unrelated act. But that factual identity does not answer the legal fit question. Hinds requires the enacted predicate to perform its own work; an owner's economic relations do not substitute for it. Here the injury predicate likewise remains distinct from an economic-development classification. Wickard and Perez preserve aggregation of properly defined economic classes, and Hodel preserves regulation of economic activity for environmental ends. Those authorities do not establish that this taking class acquires the necessary commerce connection from the commercial features of particular projects. The Court adds no statutory element, makes no categorical rule against regulation of intrastate species, and leaves supported alternative interstate mechanisms to the following parts.
-
-#### II. Two supported interstate mechanisms can authorize regulation of noneconomic intrastate conduct
-
-**Holding and operative rule.** Congress may regulate noneconomic intrastate conduct when its inclusion is reasonably necessary to prevent evasion or material impairment of a valid federal regulation of interstate commerce. Congress may also regulate such conduct when it reasonably identifies, on a materially adequate legislative or adjudicative basis, a substantial interstate externality generated by the regulated class that individual States cannot reasonably confine or internalize, and the federal prohibition reasonably fits that demonstrated spillover.
+**Holding:** Congress may regulate noneconomic intrastate conduct when its inclusion is reasonably necessary to prevent evasion or material impairment of a valid federal regulation of interstate commerce. Congress may also regulate such conduct when it reasonably identifies, on a materially adequate legislative or adjudicative basis, a substantial interstate externality generated by the regulated class that individual States cannot reasonably confine or internalize, and the federal prohibition reasonably fits that demonstrated spillover.
 
 The second route requires identification of the regulated class; a concrete cross-border ecological, commercial or comparable interstate effect; why that effect is substantial rather than speculative or merely nationally interesting; why the affected States cannot reasonably internalize or control it through ordinary territorial authority; and the reasonable fit of the federal prohibition to that effect. Biodiversity's importance, speculative scientific or future economic value, tourism, development pressure, the statute's comprehensiveness, and the occurrence of similar problems in many States are insufficient by themselves. The rule requires no fixed number of States, incidents, dollars or species, market percentage or scientific threshold.
 
-**Authority.** Part II-A's regime rule is joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: seven Justices. Part II-B's independent externality rule and its complete limits are joined by Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer: five Justices. Ginsburg and Breyer join both rules as the appropriate inquiry given the Court's independently controlling Part I, while preserving their disagreement with Part I.
+**Proposition-level authority:** Part II-A's regime rule is joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer: seven Justices. Part II-B's independent externality rule and its complete limits are joined by Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer: five Justices. Ginsburg and Breyer join both rules as the appropriate inquiry given the Court's independently controlling Part I, while preserving their disagreement with Part I.
 
-**Controlling explanation.** The Court holds that local conduct is not beyond congressional power merely because it is noneconomic, but national importance does not establish an interstate mechanism. Hale supplies the first route: inclusion reasonably necessary to prevent evasion or material impairment may protect a valid interstate regime. Rybar and Kirk apply it to possession integrated with restrictions on prohibited machinegun stock. A comprehensive conservation program alone establishes no comparable relationship.
+##### III. The Government must identify and support the mechanism; legislative latitude does not supply missing facts
 
-The second route addresses a different connection left open by Lopez. A concrete burden crossing jurisdictional lines, or operating through an inherently interstate system beyond reasonable territorial control, can itself connect the regulated class to commerce among the States. Substantiality, territorial limitation and statutory fit distinguish that mechanism from generalized downstream effects through health, productivity or consumption. No balancing of national desirability against local preference replaces those requirements. The same problem occurring in several States does not show that its effects cross their authority.
+**Holding:** The Government must identify and support whichever interstate mechanism it invokes with a materially adequate legislative or adjudicative basis. Courts independently determine whether the asserted mechanism is constitutionally eligible; Congress receives substantial latitude on predictive and empirical questions, magnitude and practical regulatory design once an eligible mechanism is identified, but a court may not invent a market, externality, causal pathway or anti-evasion necessity absent from the relevant record.
 
-The dissent favoring reversal correctly demands an actual mechanism but would deny independent constitutional force to a demonstrated interstate externality. The Court concludes that requiring an independently established market-regime relationship in every such case is too narrow: a regulated class may itself produce a concrete interstate burden beyond reasonable territorial control, supplying a distinct connection. The Court requires the Government to support that relationship; regulatory need alone does not establish it. The absence of an adequate determination below does not justify treating the bounded route as categorically unavailable. The Court makes neither every ecosystem national nor every species a commodity. Actual interstate sale, transport, trafficking, migratory movement and another independently sufficient Commerce mechanism remain distinct.
+**Proposition-level authority:** Part III, joined by Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer: five Justices.
 
-#### III. The Government must identify and support the mechanism; legislative latitude does not supply missing facts
+**Limits and questions not reached:** For the regime route, the Government must identify the valid interstate regulation and explain with support why excluding the challenged class would permit evasion or materially impair it. For the externality route, it must support each part of the cross-border mechanism and fit described in Holding II. General claims that endangered species are valuable, that people travel to see wildlife, or that research might produce future commercial uses do not perform that work by themselves. No universal formal-legislative-findings requirement, defendant-specific congressional-findings requirement, clear-and-convincing burden or numerical benchmark is imposed. The obligation concerns support for the invoked mechanism; it does not presume that every individual act must cross a state boundary or produce a separately substantial effect.
 
-**Holding and operative rule.** The Government must identify and support whichever interstate mechanism it invokes with a materially adequate legislative or adjudicative basis. Courts independently determine whether the asserted mechanism is constitutionally eligible; Congress receives substantial latitude on predictive and empirical questions, magnitude and practical regulatory design once an eligible mechanism is identified, but a court may not invent a market, externality, causal pathway or anti-evasion necessity absent from the relevant record.
+##### IV. The judgment must be vacated for application of the two routes to the existing record
 
-**Authority.** Part III, joined by Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer: five Justices.
+**Holding:** Where the judgments sustaining these challenged applications have not adequately determined whether the existing legislative and adjudicative record supports either eligible interstate mechanism, the proper disposition is to vacate and remand for that inquiry. The lower courts must identify the mechanism actually asserted and determine whether the record materially supports its required connection and reasonable fit; neither categorical invalidation nor judicial invention of missing facts is permitted.
 
-**Controlling explanation.** The Court holds that a constitutional label is not proof of the connection it names. Lopez separates the judicial identification of an eligible mechanism from legislative judgment within the resulting power. The first task is not discharged by accumulating national benefits. The second does not require judges to redo environmental science or choose the best policy. A reasoned legislative or adjudicative basis may support predictive conclusions even though scientific uncertainty remains; deference does not turn an unsupported assertion into a demonstrated interstate relationship.
+**Proposition-level authority:** Part IV, joined by Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer: five Justices.
 
-For the regime route, the Government must identify the valid interstate regulation and explain with support why excluding the challenged class would permit evasion or materially impair it. For the externality route, it must support each part of the cross-border mechanism and fit described in Holding II. General claims that endangered species are valuable, that people travel to see wildlife, or that research might produce future commercial uses do not perform that work by themselves. No universal formal-legislative-findings requirement, defendant-specific congressional-findings requirement, clear-and-convincing burden or numerical benchmark is imposed. The obligation concerns support for the invoked mechanism; it does not presume that every individual act must cross a state boundary or produce a separately substantial effect.
-
-#### IV. The judgment must be vacated for application of the two routes to the existing record
-
-**Holding and operative rule.** Where the judgments sustaining these challenged applications have not adequately determined whether the existing legislative and adjudicative record supports either eligible interstate mechanism, the proper disposition is to vacate and remand for that inquiry. The lower courts must identify the mechanism actually asserted and determine whether the record materially supports its required connection and reasonable fit; neither categorical invalidation nor judicial invention of missing facts is permitted.
-
-**Authority.** Part IV, joined by Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer: five Justices.
-
-**Controlling explanation.** The Court holds that the existing judgments cannot be sustained by substituting the projects' economic importance, biodiversity value or the breadth of the ESA for the required mechanism. The published record establishes development-related habitat modification and the absence of trade in this fly. It does not adequately resolve whether destruction of this intrastate species produces a substantial cross-border effect beyond reasonable State control, or whether excluding the challenged conduct would permit evasion or materially impair a valid interstate species-market or ecosystem regime. The Court finds neither proposition true or false on an invented factual premise.
-
-Remand permits the courts below to evaluate the existing legislative and adjudicative basis under the governing standard. It is not a declaration that section 9 is constitutional or unconstitutional in every intrastate application. Sweet Home's statutory construction remains binding: a permissible reading of the harm prohibition does not itself settle Congress's constitutional power in every case. No actual taking, liability, permit entitlement or blanket development permission is decided. The Court directs no new event or filing deadline and prescribes no numerical threshold.
-
-**Statutory and remedial limits.** Sweet Home requires significant habitat modification or degradation that actually kills or injures protected wildlife by significantly impairing essential behavior, including breeding, feeding or sheltering. Proximate causation and ordinary foreseeability remain required; speculative future harm or bare but-for linkage does not suffice. An omission requires an independently existing legal duty, and this decision creates no general habitat-maintenance duty. No actual injury, liability or permit entitlement is newly found. Otherwise lawful development alone is not an exemption. Section 10(a)(1)(B) permission remains confined to taking incidental to, rather than the purpose of, otherwise lawful activity. A conservation plan must state likely impacts, minimization and mitigation measures and funding, alternatives considered and reasons rejected, and other necessary appropriate measures. After public comment the Secretary must find incidental taking, maximum-practicable minimization and mitigation, adequate funding, no appreciable reduction in survival-and-recovery likelihood in the wild, fulfillment of other required measures and receipt of assurances. Those findings require issuance with necessary or appropriate conditions and reporting; noncompliance requires revocation. The substation's existing permit decides no entitlement concerning the separate intersection/corridor controversy.
+**Limits and questions not reached:** Sweet Home requires significant habitat modification or degradation that actually kills or injures protected wildlife by significantly impairing essential behavior, including breeding, feeding or sheltering. Proximate causation and ordinary foreseeability remain required; speculative future harm or bare but-for linkage does not suffice. An omission requires an independently existing legal duty, and this decision creates no general habitat-maintenance duty. No actual injury, liability or permit entitlement is newly found. Otherwise lawful development alone is not an exemption. Section 10(a)(1)(B) permission remains confined to taking incidental to, rather than the purpose of, otherwise lawful activity. A conservation plan must state likely impacts, minimization and mitigation measures and funding, alternatives considered and reasons rejected, and other necessary appropriate measures. After public comment the Secretary must find incidental taking, maximum-practicable minimization and mitigation, adequate funding, no appreciable reduction in survival-and-recovery likelihood in the wild, fulfillment of other required measures and receipt of assurances. Those findings require issuance with necessary or appropriate conditions and reporting; noncompliance requires revocation. The substation's existing permit decides no entitlement concerning the separate intersection/corridor controversy.
 
 The distinct threatened-species protections, section 7 agency and incidental-take provisions, scientific permissions, experimental-population provisions and enforcement channels receive no new application here. Sweet Home's reserved section 6(g)(2) question remains reserved; deciding its terms or application would require the operative official text and applicable State-agreement record. The Court inserts no commercial element into section 9 and announces no categorical immunity for traditional State subjects.
 
-##### Precedent Treatment
+**Operative remedy or transition:** Vacated and remanded, 5–4; Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer support the disposition. The existing legislative and adjudicative record must be examined for material support of either eligible mechanism; neither categorical invalidation nor judicial invention of missing facts is permitted.
+
+**Treatment of earlier authority:**
 
 - **United States v. Lopez, April 26, 1995:** Applied and developed. Its connection-before-magnitude sequence, enacted-class fit, independent judicial eligibility inquiry and no-insertion rule remain controlling. The Court resolves its open question concerning a materially supported substantial interstate externality; generalized downstream effects remain insufficient.
 - **United States v. Hale, February 12, 1996:** Applied as the first route for necessary inclusion of local conduct in a valid interstate regime. Its anti-evasion and material-impairment requirement is preserved; statutory comprehensiveness alone does not establish it.
@@ -12348,21 +12330,7 @@ The distinct threatened-species protections, section 7 agency and incidental-tak
 - **United States v. Hinds, April 6, 1998:** Applied for the independent work of the enacted predicate and the insufficiency of an owner's economic associations by themselves. Its property-use construction does not insert a use element into the ESA.
 - **United States v. Bird, April 13, 1998:** Preserved for direct interference with an actual service market. Its conduct-and-purpose mechanism remains distinct from the two noneconomic-conduct routes addressed here.
 
-##### Law After Decision
-
-Noneconomic intrastate conduct may fall within federal Commerce authority through reasonably necessary inclusion in a valid interstate regime or through a materially supported substantial interstate externality that individual States cannot reasonably confine or internalize. The Government must identify and support the asserted mechanism, and courts independently test eligibility and reasonable fit while respecting Congress's supported predictive judgments. No numerical threshold or universal formal-findings requirement applies. The enacted class comes first; economic features of these projects, national biodiversity value and comprehensiveness alone do not establish the required connection.
-
-This decision develops the question Lopez left open and preserves Hale's regime route. It decides no categorical validity or invalidity of intrastate ESA applications. Sweet Home's statutory injury, causation and permission requirements remain intact. The challenged applications require the record-based mechanism inquiry on remand; neither dissent supplies the governing rule or remedy.
-
-##### Judgment & Remedy
-
-**Vacated and remanded, 5-4.** Supporting: Stone-Zsela, O'Connor, Kennedy, Ginsburg and Breyer. Opposing: Stevens, Souter, Scalia and Thomas.
-
-The lower courts must identify the interstate mechanism actually asserted for the challenged section 9(a)(1)(B) applications and determine whether the existing legislative and adjudicative record materially supports either of the Court's two routes. Stevens and Souter would affirm on the economic-habitat-conversion ground. Scalia and Thomas would reverse and remand for relief confined to the reviewed applications. The Court neither categorically invalidates the applications nor sustains them on a mechanism it supplies by inference. No blanket development permit, actual-taking finding or permit entitlement follows.
-
-##### Procedure After Action
-
-The D.C. Circuit's judgment is vacated. The case returns for the lower courts to identify the mechanism actually invoked and determine whether the existing legislative and adjudicative record supports either route, applying the Court's evidentiary responsibility, legislative-latitude and fit requirements. The Court supplies no missing factual finding, numerical benchmark, new filing deadline, blanket permission, injunction or actual-taking adjudication. Supreme Court merits review of this event is complete; the directed proceedings below remain.
+Sweet Home's habitat-injury and conditional-permission holdings remain at Environmental Law, Endangered wildlife and habitat-caused injury. The present entry concerns only the Commerce Clause applications.
 
 ### Congressional amendment of prospective prison relief
 
@@ -20538,13 +20506,13 @@ For the other questions in Cavanaugh v. Roller, 1993-11-30, No. 92-1510, see Fed
 **Docket or dockets:** No. 94-297.
 **Decided:** April 27, 1995.
 
-For the other questions in this decision, see Constitutional Structure — Commerce power and armed vehicle taking (Direct protection of an interstate instrumentality against forcible taking).
+For the other questions in this decision, see Constitutional Structure — Commerce power and armed vehicle taking (Congress may protect the transportation instrumentality against this direct forcible taking).
 
 ##### Knowing participation and intentional assistance give the original offense definite content
 
 **Holding:** Original §2119 requires knowing armed participation in taking or attempting to take the covered vehicle from another's person or presence by force and violence or intimidation; aiding-and-abetting liability requires intentional assistance in that taking, not mere presence, association, or awareness of another's plan. Read with that ordinary criminal fault, the statute gives fair notice of the charged conduct and defeats the presented lack-of-fault and vagueness challenges without adding a profit motive, interstate-resale intention, knowledge of federal law, or the later intent-to-kill-or-seriously-injure element.
 
-**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer: nine direct votes for the complete knowing-participation and intentional-assistance rule, fair notice and rejection of a general legal-knowledge requirement.
+**Proposition-level authority:** Chief Justice Stone-Zsela’s opinion of the Court, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for knowing participation, intentional assistance, fair notice, and rejection of a general legal-knowledge requirement. The Chief Justice’s additional conclusions about knowledge of interstate history and permanent deprivation appear only in his separate concurrence and have no additional joins.
 
 **Treatment of earlier authority:**
 
@@ -20558,7 +20526,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 **Holding:** The offense-date §924(c) authorizes its additional, consecutive punishment for the original §2119 carjacking predicate even though firearm possession is integral to that predicate's definition. The Government must still establish firearm use or carrying during and in relation to a qualifying federally prosecutable predicate; this cumulative-authorization holding does not equate possession with every §924(c) condition or determine universal element overlap.
 
-**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous on cumulative statutory authorization.
+**Proposition-level authority:** Stone-Zsela's opinion, joined on this statutory holding by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes. The holding sustains the reviewed forty-one-month carjacking terms and additional sixty-month firearm terms, not an unreviewed weapon enhancement.
 
 **Treatment of earlier authority:**
 
@@ -20570,7 +20538,7 @@ For the other questions in this decision, see Constitutional Structure — Comme
 
 **Holding:** Applying Missouri v. Hunter, the clearly authorized §2119 and §924(c) convictions and consecutive punishments imposed in this single prosecution do not violate the Double Jeopardy Clause even assuming overlap under Blockburger. This holding applies the governing same-trial precedent to the clear statutory direction and neither decides universal element overlap nor changes the rules for successive prosecutions.
 
-**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous on the bounded application of Hunter.
+**Proposition-level authority:** Stone-Zsela's opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer: nine direct votes for this bounded application. Stevens joins the application of controlling Hunter while preserving his earlier objection to legislative multiplication of convictions; his reservation does not subtract a vote from this limited holding.
 
 **Treatment of earlier authority:**
 

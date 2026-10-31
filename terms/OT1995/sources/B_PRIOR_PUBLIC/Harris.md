@@ -33,9 +33,9 @@ The commerce predicate remains federally prosecutable on the holding reached. Th
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court | Stone-Zsela | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer throughout | Affirms all three components | Direct protection of the transportation instrumentality against forcible taking, with the enacted particular-vehicle connection. Knowing participation, intentional assistance, fair notice, statutory cumulative authorization and the bounded Hunter application each receive nine direct votes. |
-| Concurring opinion | Breyer | Stevens, Souter and Ginsburg | Joins the Court’s opinion and unanimous affirmance | Accepts the qualified instrumentality ground while retaining the economic vehicle-acquisition ground as independently sufficient and preserving his broader Lopez position. |
 | Concurring opinion | Stone-Zsela | No other Justice | Author of the Court’s opinion; writes separately on fault questions the Court does not reach | No knowledge of the vehicle’s interstate history or separate permanent-deprivation intent; his view of the evidence of knowing participation. These additional conclusions do not control. |
-| Concurring opinion | Stevens | No other Justice | Joins the Court’s bounded cumulative-punishment holdings and unanimous affirmance | Applies controlling Hunter while preserving his constitutional objection to legislative multiplication of convictions. |
+| Concurring opinion | Stevens | No other Justice | Joins the Court's bounded opinion and unanimous affirmance | Applies controlling Hunter while preserving his earlier constitutional objection to multiplication of convictions; no new dissenting judgment vote |
+| Concurring opinion | Breyer | Stevens, Souter and Ginsburg | Joins the Court’s opinion and unanimous affirmance | Accepts the qualified instrumentality ground while retaining the economic vehicle-acquisition ground as independently sufficient and preserving his broader Lopez position. |
 
 The instrumentality rule has a direct majority at the stated level of generality. It does not depend on combining different commerce rationales under Marks. Every common fault and cumulative-punishment proposition commands nine direct votes. Stone’s further fault conclusions have no additional joins.
 

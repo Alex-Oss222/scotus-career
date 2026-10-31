@@ -348,7 +348,7 @@ Merits decision, November 24, 1997
 
 #### Chronology and Posture
 
-United States v. Rybar, Third Circuit No. 95-3185. Merits decision, November 24, 1997. The Court reviews under 28 U.S.C. §1254(1) the December 30, 1996 judgment, 103 F.3d 273, sustaining possession convictions under 18 U.S.C. §922(o). Conditional pleas preserve the Commerce Clause and Second Amendment challenges to Counts I and III.
+The Court reviews under 28 U.S.C. §1254(1) the December 30, 1996 judgment, 103 F.3d 273, sustaining possession convictions under 18 U.S.C. §922(o). Conditional pleas preserve the Commerce Clause and Second Amendment challenges to Counts I and III.
 
 All nine Justices participate at submission and decision.
 
@@ -356,19 +356,19 @@ All nine Justices participate at submission and decision.
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Commerce challenge | Rejected, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | No relief on this ground. |
-| Personal invocation of the arms guarantee | Recognized, 9–0 | Stone-Zsela, Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | The claim proceeds to application. |
-| Arms application to Counts I and III | Appellate affirmance vacated and remanded, 8–1 | Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, who would affirm | Further consideration of the preserved Second Amendment application. |
+| Commerce Clause challenge | Rejected, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer |  | No transaction-specific interstate-crossing element added |
+| Personal invocation of the arms guarantee | Recognized, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer |  | Claim proceeds to application |
+| Appellate affirmance of possession Counts I and III | Vacated and remanded on the arms question, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela would affirm Counts I and III | Preserved Second Amendment application |
 
 The remand orders no acquittal, release, return of weapons, new trial, automatic hearing, or resentencing. Any consequential relief depends on the lawful disposition of the affected possession counts. Dismissed NFA transfer Counts II and IV remain outside the judgment.
 
 #### Opinion Topology
 
-| Writing or portion | Author | Joined by | Relationship to judgment | Scope joined |
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court, Parts I–II | Kennedy | Stone-Zsela, Stevens, O’Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Rejects the commerce challenge and recognizes personal invocation | Commerce power and personal invocation of the arms guarantee. |
-| Opinion of the Court, Part III | Kennedy | Stevens, O’Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Vacates and remands the arms application | Bounded return of Counts I and III. |
-| Opinion concurring in part and dissenting in part | Stone-Zsela | — | Would affirm both possession convictions | Joins Parts I–II; dissents from Part III and the judgment on his independent arms application. |
+| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Rejects commerce challenge and recognizes personal invocation of the arms guarantee | Parts I–II: commerce power and personal invocation |
+| Opinion of the Court | Kennedy | Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Vacates appellate affirmance and remands | Part III: vacatur and remand |
+| Concurrence in part and dissent in part | Stone-Zsela |  | Would affirm Counts I and III; dissents from Part III and the judgment | Concurs in Parts I–II; offers an independent constitutional application against remand |
 
 #### Controlling Propositions and Authority
 
@@ -380,28 +380,29 @@ The Court does not rewrite §922(o) to require proof that the particular machine
 
 **The personal arms claim requires a separate application.** Part II, joined by all nine Justices, holds that Rybar may invoke the personal guarantee without militia enrollment or service. Military usefulness neither excludes an arm nor makes it immune from regulation; a commercial setting does not categorically erase the claim. Necessary acquisition remains connected to protected keeping. Love, Hale and the preserved Miller inquiry require assessment of the actual weapons, conduct and restriction independently of commerce authority and registration duties.
 
-**The displaced affiliation premise requires a bounded return here.** Part III, joined by eight Justices, vacates the appellate affirmance because its material militia requirement is invalid and its additional discussion supplies no adequate independent weapon-and-restriction application. The Chinese Type 54 and U.S. Military M-3 are identified completed automatic weapons, and their transactions are settled inputs. Their known characteristics strengthen the arguments for regulation, but classification alone does not resolve the constitutional restriction. Hale's registration holding does not establish the possession prohibition's validity.
+**The displaced affiliation premise requires a bounded return here.** Part III, joined by eight Justices, vacates the appellate affirmance because its material militia requirement is invalid and its additional discussion supplies no adequate independent weapon-and-restriction application. The Chinese Type 54 and U.S. Military M-3 are identified completed automatic weapons, and their transactions are settled facts. Their known characteristics strengthen the arguments for regulation, but classification alone does not resolve the constitutional restriction. Hale's registration holding does not establish the possession prohibition's validity.
 
 Further consideration may use the existing record or ordinary proceedings genuinely needed. No empirical study, new universal scrutiny tier or comprehensive weapons catalogue is required. The Court does not decide ultimate validity or invalidity, make every lower legal error demand remand, or resolve receivers, conversion parts, accessories, ordinary semiautomatic arms or every §922(o) application.
 
 #### Precedent Treatment
 
-- Hale is followed without enlargement: it supplies the anti-evasion/material-impairment rule for the post-1986 civilian machinegun market; its registration rule remains distinct from the possession prohibition.
+- Hale is followed without enlargement: it supplies the anti-evasion/material-impairment rule for the post-1986 civilian machinegun market; its registration rule remains distinct from the possession prohibition. Its personal-holder and acquisition principles displace a militia-affiliation prerequisite while preserving actual application.
 - Harris and Bishop/Stokes are distinguished as vehicle-taking cases with their direct-instrumentality mechanism and enacted vehicle-specific nexus.
 - American Life League is distinguished as direct interference with an interstate service market.
-- Love and Hale's personal-holder and acquisition principles displace a militia-affiliation prerequisite while preserving actual application.
+- Love's personal-holder and acquisition principles displace a militia-affiliation prerequisite while preserving actual application.
 - Miller retains its actual weapon/record significance, without automatic military-use exclusion or immunity.
-- Lopez is applied through the Court's controlling sequence: the regulated class and interstate mechanism come first, and downstream consequences cannot create the missing connection. Staples remains a statutory culpability decision and supplies no constitutional weapon classification.
+- Lopez is applied through the Court's controlling sequence: the regulated class and interstate mechanism come first, and downstream consequences cannot create the missing connection.
+- Staples remains a statutory culpability decision and supplies no constitutional weapon classification.
 
-#### Law After Decision
+#### Current Law
 
 The commerce challenge fails under Hale's existing anti-evasion/material-impairment rule; Rybar adds no new Commerce gateway or doctrine. As of this decision, Lopez supplies connection before magnitude and reserves genuine Necessary-and-Proper inclusion; Harris applies the Court's direct-instrumentality ground to forcible vehicle taking with an enacted vehicle-specific nexus; American Life League addresses direct obstruction of an interstate service market; Hale makes the anti-evasion/material-impairment doctrine operational; Bishop/Stokes applies Harris without a new rule; Pic-A-State treats an interstate procurement transmission as interstate commerce itself; Mussari/Schroeder directly protects a legally fixed cross-border payment obligation; and Rybar applies Hale. No interstate-externality branch has been adopted as controlling law. The personal-holder boundaries remain controlling, while the two weapons' ultimate protection against this possession restriction remains open on remand. The Court adopts no categorical automatic-weapons exclusion, general danger exception, universal scrutiny tier or automatic-remand rule.
 
 #### Separate Positions Relevant to the Decision
 
-**Stone-Zsela, concurring in part and dissenting in part.** Stone-Zsela would affirm both possession convictions through an independent constitutional application. Rybar holds the personal right without militia affiliation, and a substantial possession restriction cannot be justified merely by calling it commercial regulation. Fully automatic operation—repeated discharge through a single trigger function—is a relevant functional characteristic. Limiting additions to civilian stocks of these completed weapons directly addresses the distinctive risks of sustained automatic fire. Registration can identify and trace arms; licensing and recordkeeping do not themselves prevent additions to that stock. He finds that preventive fit sufficient for this substantial burden in these transactions.
+Stone-Zsela would affirm both possession convictions through an independent constitutional application. Rybar holds the personal right without militia affiliation, and a substantial possession restriction cannot be justified merely by calling it commercial regulation. Fully automatic operation—repeated discharge through a single trigger function—is a relevant functional characteristic. Limiting additions to civilian stocks of these completed weapons directly addresses the distinctive risks of sustained automatic fire. Registration can identify and trace arms; licensing and recordkeeping do not themselves prevent additions to that stock. He finds that preventive fit sufficient for this substantial burden in these transactions.
 
-He treats preservation of prior lawful stock as a transition limiting expansion, not evidence that older weapons are safer; age alone establishes no exception. Government channels do not make civilian military usefulness either disqualifying or immune. The continuing availability of ordinary firearms describes the restriction's reach, but substitutes alone would not justify prohibiting a protected arm. His conclusion rests on the identified weapons and mechanism, not invented casualty findings. It establishes no universal rule for dangerous or military arms, no equivalence between machineguns and ordinary semiautomatic firearms, and no result for receivers, conversion components or accessories. The dismissed transfer charges provide no alternative basis for conviction. This independent application is his ground for dissent from remand, not a holding of the Court.
+He treats preservation of prior lawful stock as a transition limiting expansion, not evidence that older weapons are safer; age alone establishes no exception. Government channels do not make civilian military usefulness either disqualifying or immune. The continuing availability of ordinary firearms describes the restriction's reach, but substitutes alone would not justify prohibiting a protected arm. His conclusion rests on the identified weapons and mechanism, without casualty findings. It establishes no universal rule for dangerous or military arms, no equivalence between machineguns and ordinary semiautomatic firearms, and no result for receivers, conversion components or accessories. The dismissed transfer charges provide no alternative basis for conviction. This independent application is his ground for dissent from remand, not a holding of the Court.
 
 #### Source Notes
 
@@ -409,9 +410,9 @@ United States v. Rybar, 103 F.3d 273 (3d Cir. 1996), identifies the two complete
 
 #### Mandate, Remedy, and Stage
 
-The case returns for the preserved arms inquiry under the governing personal-right rules. The admitted weapon characteristics and transactions need not be relitigated. Ultimate relief follows the lawful resolution of Counts I and III; dismissed Counts II and IV are not revived.
+The case returns for the preserved arms inquiry under the corrected personal-right rules. The admitted weapon characteristics and transactions need not be relitigated. Ultimate relief follows the lawful resolution of Counts I and III; dismissed Counts II and IV are not revived.
 
-**End of entry: United States v. Rybar, merits decision, November 24, 1997.**
+**End of entry: United States v. Rybar, Merits decision, November 24, 1997.**
 
 ---
 
