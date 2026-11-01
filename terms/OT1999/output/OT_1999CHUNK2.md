@@ -7,11 +7,15 @@
 | 2000-01-12 | Adarand Constructors, Inc. v. Slater, No. 99-295 | Summary merits disposition | Remanded to the Tenth Circuit for preserved issues and the district decree's lawful effect under the existing mandate. |
 | 2000-01-12 | Martinez v. Court of Appeal of California, Fourth Appellate District, No. 98-7809 | Merits decision | Denial of mandate affirmed; direct appeal proceeds through appointed counsel. |
 | 2000-01-12 | Reno v. Condon, No. 98-1464 | Merits decision | Remanded to dissolve the injunction and enter judgment for the United States on the facial challenge; statutory transitions remain controlling. |
+| 2000-01-18 | Fraternal Order of Police v. United States, D.C. Circuit No. 97-5304 | Plenary merits decision | D.C. Circuit judgment affirmed on the preserved Commerce Clause and staffing-based structural grounds; no further factual inquiry ordered. |
 | 2000-01-19 | Gutierrez v. Ada, No. 99-51 | Merits decision | Runoff order reversed; remanded under the gubernatorial-vote denominator. |
+| 2000-01-19 | Smith v. Robbins, No. 98-1037 | Merits decision | Conditional appellate-process relief affirmed; remand on eleven remaining exhausted trial claims stands. |
 | 2000-01-19 | United States v. Martinez-Salazar, No. 98-1255 | Merits decision | Lost-peremptory ground reversed; remanded for any properly remaining proceedings. |
+| 2000-01-19 | Weeks v. Angelone, No. 99-5746 | Merits decision | Sentencing-response judgment vacated and remanded for independent statutory and, if necessary, causal review; no present writ or sentence vacatur. |
 | 2000-01-24 | Nixon v. Shrink Missouri Government PAC, No. 98-963 | Merits decision | Remanded for judgment for state officials on the presented ceiling; any operative pending-appeal restraint vacated. |
 | 2000-01-24 | Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board, Nos. 98-405 and 98-406 | Merits decision | Both appeals remanded with directions to deny preclearance to the 1992 plan. |
 | 2000-02-07 | U.S. West, Inc. v. Federal Communications Commission | Merits decision | Remanded for unresolved takings and administrative-law claims and relief conforming to intervening instruments. |
+| 2000-02-14 | Richards v. United States, No. 99-731 | Merits decision | Road-operation and equipment theories remanded; military permission and order dismissals affirmed. |
 
 ## Decisions and Dispositions
 
@@ -245,6 +249,81 @@ The final decision supplies the decision event to which section 350(g) refers. I
 
 ---
 
+### Fraternal Order of Police v. United States, D.C. Circuit No. 97-5304
+
+Plenary merits decision, January 18, 2000
+
+#### Chronology and Posture
+
+Review granted October 12, 1999; submitted December 13, 1999. On review of the D.C. Circuit return judgment, 173 F.3d 898, after the October 7, 1998 mandate. The granted questions concern the preserved Commerce Clause and anti-commandeering objections to section 922(g)(9); the already decided standing, official-use arms and equal-protection questions are not reopened.
+
+All nine Justices participate at submission and decision.
+
+#### Judgment
+
+**Affirmed, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The prospective Commerce Clause and staffing-based structural objections fail. The October 7, 1998 holdings remain undisturbed. No individual prosecution, new injunction, sanction or additional factual proceeding is ordered.
+
+#### Opinion Topology
+
+Justice O'Connor delivers the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. There is no separate writing.
+
+#### Controlling Propositions and Authority
+
+**Authority:** The unanimous opinion identified above controls both holdings and the bounded affirmance.
+
+##### The recipient possession restriction fits the valid federal supply prohibition
+
+**Holding and operative rule:** Section 922(g)(9)'s restriction on possession by persons with qualifying misdemeanor convictions for domestic violence is within Congress's Commerce and Necessary and Proper Clause authority because it is a fitted anti-evasion and anti-impairment component of the valid prohibition on supplying firearms and ammunition to that class. This prospective associational judgment establishes no individual's commerce connection; the Government must prove the applicable enacted commerce element in an actual prosecution.
+
+**Controlling explanation:** The Court holds that Hiley supplies the constitutional ground for this facial challenge. A prohibition on supplying firearms to the defined recipients would be materially impaired if their complementary acquisition and retention were outside the fitted prohibition. The relationship between the possession rule and the valid supply restriction, rather than a firearm's remote passage across a border, supplies the necessary connection. Lopez requires that connection to be identified before generalized economic effects can establish federal authority. Hale and Kirk preserve Congress's authority to include intrastate conduct necessary to an identified valid regime; they do not create a general possession power.
+
+The association objects that local possession is not economic activity and that the lower court treated the statutory jurisdictional words as sufficient by themselves. The latter shortcut is unnecessary and is not adopted. Hiley addresses this very recipient-and-supply relationship without relying on generalized domestic-violence costs. The association's uniform prospective claim fails under that rule; it is not an individual prosecution needing a finding that a particular firearm crossed a border.
+
+Section 922(g) separately addresses shipment or transportation in interstate or foreign commerce, possession in or affecting commerce, and receipt of an item shipped or transported in interstate or foreign commerce. Those enacted elements retain their force. The Court neither inserts a different nexus nor imports section 922(d)(9)'s knowledge-or-reasonable-cause supply element into the possession offense. No individual's culpability, qualifying conviction, restoration entitlement or liability is decided.
+
+##### A substantive firearm disability does not assign the State a federal enforcement program
+
+**Holding and operative rule:** Applying section 922(g)(9) to state and local officers does not commandeer state government where the federal law directly restricts possession and requires no state legislation, termination, investigation, prosecution, firearm seizure or administration of a federal program. The loss of an armed-duty staffing option is a consequence of the valid substantive restriction, not itself a federal command to govern others.
+
+**Controlling explanation:** The Court holds that Hiley's no-command rule governs the staffing objection. The State retains its employment choices within the valid firearm restriction. Federal authorities enforce that restriction; the reported direction to contact ATF when a local agency lacks seizure authority does not supply a compulsory state enforcement duty. The record establishes no command requiring a State to appropriate funds, investigate disabilities or prosecute federal offenses.
+
+New York forbids compulsory state legislation or compulsory ownership and liability, while Garcia and South Carolina v. Baker preserve valid regulation of state activity. Condon likewise distinguishes regulation of the State's own conduct from conscription to regulate other persons. The association's concern about selecting and equipping officers does not erase that distinction or turn an existing statutory exemption into a constitutional entitlement.
+
+Printz/Mack addresses a different arrangement: affirmative direction for confined temporary records assistance, with fiscal objections and broader administration reserved. That limited holding is neither expanded nor displaced. This case requires no decision about the validity of an actual administrative command or an agency instruction exceeding its statutory authority. Such an application would require its own legal and factual predicates.
+
+**Limits and questions not reached:** The October 7, 1998 judgment remains controlling on the developed standing, official-use arms and equal-protection questions. Those questions receive no second merits adjudication. Private possession outside that controversy, conviction classification, restoration, individual commerce proof and any actual compulsory state-administration order remain outside this judgment.
+
+#### Precedent Treatment
+
+- Hiley v. Barrett, October 9, 1998 — applied to the fitted recipient/supply mechanism and absence of a state-administration command; neither holding is enlarged.
+- Fraternal Order of Police v. United States, October 7, 1998 — its mandate and settled standing, official-use arms and equal-protection holdings remain fully effective.
+- United States v. Lopez — applied to require an identifiable constitutional connection before aggregate magnitude; no bare jurisdictional-word or remote-movement rule replaces it.
+- United States v. Hale and United States v. Kirk — their necessary-inclusion reasoning supports the identified regulatory relationship; their machinegun holdings supply no universal possession power.
+- New York v. United States — its prohibition of compulsory legislation or ownership and liability, and its preserved field of direct regulation, remain intact.
+- Garcia v. San Antonio Metropolitan Transit Authority and South Carolina v. Baker — applied to distinguish regulation of state activity from compulsory government of others.
+- Reno v. Condon, January 12, 2000 — its direct-regulation distinction is applied without extending its separate information-market holding.
+- Printz v. United States / Mack v. United States — distinguished at its confined records-assistance and reserved fiscal boundaries; no broader compulsory-administration rule follows.
+
+#### Law After Decision
+
+Hiley continues to govern the recipient possession restriction and the staffing objection. The constitutional justification and the enacted offense elements remain distinct: this facial judgment finds no individual nexus proved and removes no prosecution burden. The developed official-use arms and equality holdings retain their existing force. No new general firearm-disability test or categorical rule about every federal direction to a state executive is adopted.
+
+#### Source Notes
+
+The reported D.C. Circuit opinion, 173 F.3d 898, supplies the associational posture, staffing claim, federal-enforcement account and statutory discussion. The docket materials are preserved in the Records and Briefs collection, docket 99-106, item micro_IA40386005_0586. The return is considered within the October 7, 1998 mandate; the lower opinion’s treatment of already settled arms and equality matters does not enlarge the present questions. No individual prosecution record supplies a finding about a particular firearm’s commerce connection.
+
+#### Mandate, Remedy, and Stage
+
+The D.C. Circuit judgment stands on the preserved grounds. The mandate requires no further factual inquiry or new Court proceeding. Any future individual enforcement or distinct preserved administrative challenge must satisfy its own statutory, constitutional and procedural predicates; none is adjudicated here.
+
+**End of entry: Fraternal Order of Police v. United States, plenary merits decision, January 18, 2000.**
+
+---
+
 ### Gutierrez v. Ada, No. 99-51
 
 Merits decision, January 19, 2000
@@ -296,6 +375,112 @@ The operative election paragraph appears in the official [1994 United States Cod
 The Ninth Circuit's runoff order is reversed. The matter is remanded for recognition that the existing certified Gutierrez slate obtained the statutory majority under the gubernatorial-vote denominator, removing the all-general-election-ballot ground for upsetting that certification and requiring a runoff. No first or additional certificate, new election, factual hearing, unsupported final officeholding decree or disposition of a distinct invalid-vote or fraud claim is ordered. Any distinct preserved implementation question remains for the lower court under the corrected statutory construction; missing reproduced numerical totals do not themselves require a new evidentiary proceeding.
 
 **End of entry: Gutierrez v. Ada, merits decision, January 19, 2000.**
+
+---
+
+### Smith v. Robbins, No. 98-1037
+
+Merits decision, January 19, 2000
+
+#### Chronology and Posture
+
+Argued October 5, 1999. On writ of certiorari to the Ninth Circuit, which affirmed a conditional habeas writ on the appellate-counsel claim and remanded the remaining exhausted trial claims. The question is whether California may employ a procedure different from Anders, including whether Wende supplies constitutionally adequate appellate advocacy. The State also asserts Teague nonretroactivity. The federal application preceded April 24, 1996; amended section 2254(d) does not govern.
+
+All nine Justices participate at argument and decision.
+
+#### Judgment
+
+**Affirmed, 5–4.**
+
+**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer.
+**Opposing:** O'Connor, Scalia, Kennedy and Thomas.
+
+The conditional entitlement is to constitutionally adequate counsel-assisted appellate consideration, not a successful appeal or compulsory briefing of frivolous claims. The existing remand on eleven remaining exhausted trial claims stands. The Court adds no separate remedial instruction, new clock or immediate-release command.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Stevens | Stone-Zsela, Souter, Ginsburg and Breyer throughout; O'Connor, Scalia, Kennedy and Thomas in Part I only | Five-Justice affirmance | Part I: equivalent alternatives; Part II: Wende's inadequacy; Part III: old-rule Teague holding; Part IV: conditional process and remaining-claims remand |
+| Dissent from Parts II–IV | Thomas | O'Connor, Scalia and Kennedy | Would reverse the categorical appellate-counsel ground and remand | Validates Wende; requires ordinary individual Strickland review; joins Part I and reserves an additional Teague ruling |
+
+#### Controlling Propositions and Authority
+
+##### I. Equivalent safeguards may replace the precise Anders format
+
+**Holding and operative rule:** A State may use a procedure different from the precise filing, withdrawal and labeling arrangements described in Anders if it preserves meaningful assistance by an appellate advocate and supplies an equivalent means of determining whether the first appeal as of right is wholly frivolous. The Constitution protects the function, not a mandatory title or verbatim filing form.
+
+**Authority:** Part I of Justice Stevens's opinion is joined by all nine Justices. Chief Justice Stone-Zsela and Justices Souter, Ginsburg and Breyer also join Parts II–IV; Justices O'Connor, Scalia, Kennedy and Thomas join Part I only.
+
+**Controlling explanation:** Douglas protects counsel on the first appeal a State supplies, and Evitts requires effective assistance in that appeal. Anders applies those protections when counsel believes that further advocacy would be frivolous. McCoy explains the reviewing court's two tasks: determining that counsel diligently searched for possible grounds and that the conclusion of frivolousness is sound. Those functions permit genuinely equivalent safeguards without requiring every State to reproduce each procedural detail. Neither counsel nor the court must advance a frivolous claim. The agreement on permissible alternatives does not settle whether California's particular procedure is equivalent.
+
+##### II. Wende omits necessary counsel-assisted legal screening
+
+**Holding and operative rule:** Before a first appeal as of right is disposed of as frivolous, appointed counsel must supply meaningful legal assistance concerning issues that might arguably support the appeal, or participate in a genuinely equivalent safeguard allowing the court to test the conclusion of frivolousness. Wende is inadequate because it permits counsel to identify no such issue or legal ground and shifts that examination to the court and indigent appellant; a cited factual narrative, continued appointment, independent judicial review and a personal submission opportunity do not supply the missing advocate's function.
+
+**Authority:** Part II of the Court's opinion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, controls with five direct votes.
+
+**Controlling explanation:** The Court holds that an advocate must assist the legal assessment that determines whether further represented appellate consideration is withheld. Anders rejects counsel's unsupported conclusion followed by judicial review as an adequate substitute. McCoy makes that duty concrete: the court must be able to evaluate both the diligence of counsel's search and the legal soundness of the frivolousness conclusion. Penson preserves those screening functions independently of its additional circumstance that the court had found arguable claims.
+
+Counsel here performed real work, reviewed the record, supplied a cited narrative, remained appointed and available, and consulted an appellate project. Wende also permits Robbins to submit his own points, requires judicial examination of the record and calls for further briefing if the court discovers a nonfrivolous issue. The defect is therefore not literal withdrawal or the absence of every form of assistance. It is that the tribunal receives no required legal guidance from counsel about potentially supportive grounds before it makes the decisive screening determination. Further advocacy depends on the court first identifying an issue without that assistance. Actual project consultation does not establish that the tribunal received an equivalent legal assessment.
+
+The State's safeguards have value, but neither nominal retention nor judicial issue-spotting supplies the missing adversarial contribution. No particular Anders form, merits argument for a frivolous claim or finding that Robbins will prevail is required. The lower courts identified possible library-access and counsel-waiver-withdrawal issues; this Court makes no finding that either is legally available, nonfrivolous or likely to succeed. The State asserts that Robbins failed to preserve the library-access claim by objecting at trial; the lower federal courts did not address that contention when identifying possible issues. That assertion is not a finding of waiver or default and remains distinct from the counsel-waiver-withdrawal ground.
+
+##### III. The defined protection and restoration of its process apply as old law
+
+**Holding and operative rule:** Teague does not bar relief restoring the counsel-assisted appellate screening required here because Anders, McCoy and Penson already dictated that specific protection and its restoration before Robbins's conviction could have become final. This application creates neither a new procedural template nor a new exception to nonretroactivity.
+
+**Authority:** Part III of the Court's opinion is joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Five Justices reject the asserted bar on its terms, assuming it properly entertainable; no presentation waiver is found.
+
+**Controlling explanation:** The Court holds that the relevant old rule is the advocate's meaningful legal assistance in determining whether an indigent first appellant may be denied further represented consideration. It is not merely the general right to a lawyer. Anders required adequate assistance in that determination and restored appellate consideration without requiring this Court first to find an available nonfrivolous issue. McCoy explained the necessary legal-screening functions; Penson reinforced them before addressing its separate finding of arguable claims. All three preceded Robbins's 1990 conviction and thus any possible later finality date.
+
+The State argues that Wende's retained counsel and substantial review distinguish those cases and that restoration without an established nonfrivolous ground extends their remedies. Those distinctions inform the merits disagreement but do not change the function the prior cases required. Counsel's legal contribution is necessary to test the very conclusion on which further advocacy depends. Requiring Robbins to establish the issue through the deficient process before obtaining that process would withhold the earlier protection.
+
+Teague and Caspari require comparison of the particular protection and remedy with earlier law; disagreement alone does not establish novelty, and genuine new extensions remain subject to the bar. Schiro and Caspari keep presentation history distinct from novelty. The Court assumes proper consideration of the defense and rejects it without determining its earlier presentation history. No watershed or substantive exception is invoked, and later appellate-assistance cases supply no missing prefinality entitlement.
+
+##### IV. The conditional appellate-process relief and remaining-claims remand stand
+
+**Holding and operative rule:** The omission of the required advocate-assisted screening function warrants restoration of constitutionally adequate appellate consideration without requiring Robbins first to prove that a particular omitted issue probably would have changed the appellate outcome. The Ninth Circuit's judgment affirming the conditional writ and remanding the remaining exhausted trial claims is affirmed; adequate screening may still find all available appellate issues frivolous.
+
+**Authority:** Part IV of the Court's opinion is joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer and supplies the five-Justice remedy.
+
+**Controlling explanation:** Anders supplies the restoration of adequate appellate consideration. McCoy and Penson explain the necessary function that is missing, while Strickland and Cronic distinguish that deprivation from defective performance within an otherwise supplied function. The remedy restores counsel's role at the screening stage; it is not an award of a successful appeal or a declaration that an identified issue must receive merits briefing regardless of lawful preservation rules.
+
+The State's strongest remedial objection is that counsel remained appointed and performed substantial work, making any defect an individual performance-and-prejudice question. But the Court's holding concerns the absence of the specific legal-assistance function necessary to the screening decision. Robbins need not prove the outcome of the process that must now be supplied. This conclusion does not transform every technical departure from Anders into a deprivation requiring this remedy.
+
+The State's unresolved library objection receives its proper treatment if that issue is relied upon. The separate counsel-waiver-withdrawal issue and the eleven remaining exhausted trial claims retain their own predicates. Relief on those claims may make a further appellate process unnecessary. No immediate release, new deadline, mandatory evidentiary hearing or merits finding on those claims is ordered.
+
+#### Precedent Treatment
+
+- Douglas v. California and Evitts v. Lucey — applied to meaningful assistance on a first appeal as of right; neither requires advocacy for a frivolous claim.
+- Anders v. California — its advocacy and adequate-screening protections, and restoration of the missing process, are applied; its precise procedural format is not exclusive.
+- McCoy v. Court of Appeals of Wisconsin — applied to counsel's assistance in testing diligent search and legal frivolousness; a screening submission remains distinct from a merits brief.
+- Penson v. Ohio — its screening functions are applied; its additional finding of arguable claims is not imported as a fact about Robbins.
+- Strickland v. Washington and United States v. Cronic — their distinction between deficient performance and loss of a necessary assistance function governs the limited remedy; no general exemption from prejudice for technical defects follows.
+- Teague v. Lane and Caspari v. Bohlen — applied through a specific prefinality rule-and-remedy comparison, without a new exception or novelty inferred merely from disagreement.
+- Schiro v. Farley — presentation of a nonjurisdictional nonretroactivity defense remains distinct from its merits; no late assertion or waiver is found here.
+- Lindh v. Murphy — the chapter 153 temporal rule is applied to this noncapital federal application filed before April 24, 1996; amended section 2254(d) does not govern it.
+- Martinez v. Court of Appeal, January 12, 2000 — its rejection of a constitutional right to personal appellate representation does not decide or diminish the adequacy of appointed appellate advocacy reserved there.
+
+#### Law After Decision
+
+Equivalent alternatives to Anders remain permissible, but Wende fails the required advocate-assisted legal-screening function. Restoration of that process is an application of prefinality law and does not depend on first proving a successful or nonfrivolous appellate ground. Ordinary Strickland principles continue to govern defective performance within an otherwise provided assistance function. Lawful preservation rules, the merits of the eleven remaining trial claims, and any materially distinct nonretroactivity question retain their independent force.
+
+#### Separate Positions Relevant to the Decision
+
+Justice Thomas dissents from Parts II–IV and the affirmance, joined by Justices O'Connor, Scalia and Kennedy. They join Part I's recognition of equivalent alternatives to Anders. The dissent evaluates Wende's full safeguards together: counsel reviews the record, supplies a cited narrative, communicates the available personal-submission route, remains appointed and available, and must provide further briefing if the court identifies a nonfrivolous issue; the court independently examines the entire record. These protections, in their view, adequately preserve representation without compulsory identification of issues counsel believes frivolous.
+
+The dissent distinguishes Penson's actual deprivation of representation from counsel's substantial work here. It would reverse the categorical appellate-counsel basis of the conditional writ and remand the individual ineffective-assistance claim for Strickland's performance and reasonable-probability prejudice inquiry, together with the remaining trial claims. Any material question whether a missed ground was legally available, including the unresolved library objection, belongs in that inquiry. The dissent finds neither actual adequate performance nor lack of prejudice now. Because it rejects the asserted procedure-wide entitlement on the merits, it does not decide an additional Teague ground, declare the majority's rule new merely because it disagrees, or invoke a watershed exception. Its ordinary Strickland remand does not make every future elaboration of ineffective assistance retroactive.
+
+#### Source Notes
+
+The Ninth Circuit proceedings are reported at 146 F.3d 1142. The record recitation in the official Reports, 528 U.S. 259, establishes counsel’s work and continued appointment, the possible appellate grounds, the unresolved library-preservation argument and the separate remaining-claims remand. Anders, 386 U.S. 738; McCoy, 486 U.S. 429; and Penson, 488 U.S. 75, supply the earlier appellate-assistance authorities. The precise finality day and complete presentation history of the Teague defense are not findings here: the substantive authorities predate the 1990 conviction, and the defense is rejected assuming proper consideration.
+
+#### Mandate, Remedy, and Stage
+
+The Ninth Circuit judgment and its remand remain in force. The lower court proceeds on the remaining exhausted trial claims; relief on them may make further appellate consideration unnecessary. The existing conditional appellate-process relief remains bounded by the requirement of adequate counsel-assisted consideration. The Court decides no trial claim, grants no immediate release and sets no new deadline or mandatory evidentiary hearing.
+
+**End of entry: Smith v. Robbins, merits decision, January 19, 2000.**
 
 ---
 
@@ -362,6 +547,122 @@ The official report at [528 U.S. 304](https://www.govinfo.gov/content/pkg/USREPO
 The Ninth Circuit's lost-peremptory basis for relief is reversed. The conviction remains undisturbed as against this jury-selection claim, and the matter returns for any proceedings properly remaining under the ordinary mandate. The Court adjudicates no additional claim and orders no new trial, additional strike or factual hearing on this record. Ordinary disposition of any properly remaining matter is left to the court below without a finding that such another matter exists.
 
 **End of entry: United States v. Martinez-Salazar, merits decision, January 19, 2000.**
+
+---
+
+### Weeks v. Angelone, No. 99-5746
+
+Merits decision, January 19, 2000
+
+#### Chronology and Posture
+
+Argued December 6, 1999. On writ of certiorari to the United States Court of Appeals for the Fourth Circuit, 176 F.3d 249, which affirmed denial of federal habeas relief. The question is whether the response to the capital jury's inquiry about life after an aggravator left a reasonable likelihood that the jury could not give mitigation its lawful effect. The federal application was filed February 7, 1997; the state merits adjudication occurred November 4, 1994. The conviction and separate expert-assistance claim are outside this review.
+
+All nine Justices participate at argument and decision.
+
+#### Judgment
+
+**Vacated in the stated respect and remanded, 5–4.**
+
+**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer.
+**Opposing:** O'Connor, Scalia, Kennedy and Thomas, who would affirm on both the constitutional and independent statutory grounds.
+
+The denial of the sentencing-response claim is set aside, including the adverse constitutional and statutory determinations supporting it. On return, the constitutional error and rejection of the actual presentation, exhaustion, default and Teague defenses are fixed. The receiving court must independently determine whether §2254(d)(1) permits relief; it may deny relief if neither statutory alternative is met. If statutory relief is available, it must determine whole-record causal effect under the law applicable to this still-unsettled error category, resolving the governing standard, burden and treatment of uncertainty before deciding effect. No majority prescribes a new Chapman extension or a unified substantial-effect burden. The reservation neither rejects Chapman nor permits an arbitrary choice between standards. Stone-Zsela agrees with this remand judgment while retaining his own conclusions that statutory eligibility and prejudicial effect are established.
+
+Only an available harmful violation can support conditional sentence relief allowing a reasonable prospective opportunity for constitutionally adequate sentencing or a lawful noncapital disposition. This judgment issues no writ, vacates no sentence, fixes no resentencing deadline, directs no evidentiary hearing and enters no stay or release order. Guilt and unrelated claims remain undisturbed.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Lead, Part I | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Opinion of the Court, nine | presentation/default and amended-statute applicability. |
+| Lead, Part II | Breyer | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg | Opinion of the Court, six | defined mitigation claim is not a new rule barred by Teague. |
+| Lead, Part III | Breyer | Stone-Zsela, Stevens, Souter, Ginsburg | Opinion of the Court, five | constitutional error in the jury response. |
+| Lead, Part IV | Breyer | Stevens, Souter, Ginsburg | Four-Justice rationale for statutory return and effect-standard reservation; announces the five-Justice judgment. | Stone-Zsela agrees with that judgment only. |
+| Concurrence in part and in the judgment | Stone-Zsela | No other Justice | Concurs in part and in the judgment | Joins lead I–III; states present statutory eligibility and substantial injurious effect; accepts the remand judgment without joining IV's rationale. |
+| Concurrence | Souter | Ginsburg, Breyer | Concurs | Joins the lead; proposes State-borne Chapman review for this category, while accepting the remand without adoption of that extension. |
+| Concurrence | Stevens | No other Justice | Concurs | Joins the lead; favors substantial-influence review with genuine grave doubt preventing harmlessness. |
+| Concurrence in part and dissent in part, Part I | O'Connor | Scalia, Kennedy, Thomas | Joins lead I–II herself; the other three join lead I only. | Common dissent would affirm for no error and independently under §2254(d)(1). |
+| Concurrence in part and dissent in part, Part II | O'Connor | No other Justice | Concurs in part and dissents in part | Conditional support for the confined Chapman extension; no vote for vacatur or present eligibility. |
+| Dissent | Kennedy | No other Justice | Dissents | Also joins the common dissent; states conditional substantial-influence and grave-doubt position. |
+| Dissent | Thomas | Scalia | Dissents | Also join the common dissent; retain prisoner-borne substantial injurious effect and reject relief on an evenly balanced showing. |
+
+#### Controlling Propositions and Authority
+
+##### I. This response claim was fairly presented and is not procedurally defaulted
+
+**Rule and authority.** A federal claim is fairly presented when the state submission identifies the challenged conduct and the same federal protection later invoked; a merits rejection without an actual independent state procedural ground supplies no such bar. Part I of Breyer's opinion, joined by all eight other Justices, holds that assignment 44 presented this subsequent question-and-response claim, incorporated assignment 41's federal effective-mitigation grounds, and received a state merits adjudication. The asserted nonexhaustion and default defenses therefore fail on their predicates.
+
+**Controlling explanation.** Picard and Harless require the substance of the same federal claim, not facts from which an unrelated claim might be constructed. Assignment 44 identified the later inquiry, requested clarification and refusal, and incorporated the federal mitigation argument. The State's objection that this challenged only the original charge overlooks that identified conduct. The state court distinguished assignments it would not consider from those, including 44, that it considered and rejected on the merits. Harris and Coleman preserve actual adequate independent procedural grounds even when a state court also addresses the merits; none rests on this claim. Gray preserves distinct claims rather than splitting this express response challenge from its incorporated federal ground. O'Sullivan's complete-review principle does not require repetitive collateral presentation after an ordinary review round is complete. The later untimely collateral petition does not undo the direct presentation. Amended §2254(b)(2) permits, but does not require, merits denial despite nonexhaustion; that permission does not itself authorize a grant. Section 2254(b)(1) separately preserves relief when no available state corrective process exists or circumstances render it ineffective to protect the applicant's rights. Section 2254(b)(3) permits no deemed State waiver or estoppel without counsel's express waiver. No exception or waiver is needed here. The renewed request and objection preserve the response issue; initial use of the charge does not waive it.
+
+##### II. Amended §2254(d)(1) remains an independent condition on relief
+
+**Rule and authority.** Because the federal application was filed after April 24, 1996 and the state court adjudicated this claim on the merits, a writ requires satisfaction of §2254(d)(1): a state decision contrary to, or involving an unreasonable application of, clearly established federal law determined by this Court. The unanimous Part I holds that a brief state merits explanation does not remove that restriction and a constitutional-error finding does not itself satisfy it.
+
+**Controlling explanation.** Lindh and Carriger preserve the specified pre-enactment applications; this February 7, 1997 application is outside that premise. The relevant state decision is the November 4, 1994 adjudication. The earlier mitigation authorities, not later Buchanan or a later construction of §2254(d), supply the clearly established law for that task. Both statutory alternatives retain independent meaning. Competing readings of undisputed instructions establish no factual-unreasonableness ground under §2254(d)(2) or hearing entitlement under §2254(e). The Court does not adopt the Fourth Circuit's general reasonable-jurists or minimal-consistency formulations, and does not establish a comprehensive replacement construction. The five-Justice judgment permits independent statutory reconsideration and denial on return; the four Associates' reasons for withholding a present eligibility finding are not Stone-Zsela's reasons or a five-Justice statutory rationale.
+
+##### III. The effective-mitigation protection applied here is not a new rule
+
+**Rule and authority.** The requirement that the capital sentencing mechanism permit effective use of relevant mitigation applies to a response reasonably likely to leave that function unavailable; it creates no new entitlement to particular words or mandatory rephrasing of an adequate instruction. Part II, joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, rejects the asserted Teague bar on that defined claim without invoking an exception.
+
+**Controlling explanation.** Lockett and Eddings protect mitigating use, and Boyde supplies contextual review of an allegedly restrictive instruction. Those authorities preceded the state adjudication and any subsequent finality. Graham applies the existing protected function rather than inserting a new procedural formula at finality. Saffle's distinction between unrestricted sympathy and relevant culpability mitigation remains; this claim demands the latter. Caspari retains the dictated-at-finality inquiry, and Gray and Lambrix distinguish a functional application from a new procedural entitlement. The Court assumes the asserted defense is properly considered and rejects it substantively. It neither infers waiver from alleged lateness nor changes Schiro's discretionary treatment of a genuinely late defense. No exact later finality date, retrospective use of Buchanan or Teague exception is necessary.
+
+##### IV. The referral left a reasonable likelihood that mitigation could not authorize life
+
+**Rule and authority.** When a capital jury asks whether an aggravator makes death mandatory, the response, read with the complete charge and trial, must resolve a reasonable likelihood that the jury cannot give supported mitigation effect in choosing life. Part III, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, holds that this response failed that requirement. No particular wording is required; reference to an existing instruction may suffice when it unambiguously resolves the actual difficulty.
+
+**Controlling explanation.** Lockett and Eddings prohibit legal exclusion of mitigating effect while leaving weight to the sentencer. Graham requires a route for material culpability mitigation independent of eligibility for death. Boyde asks whether prohibited operation is reasonably likely in the charge and trial as a whole, not merely possible and not proved through a juror's subjective thoughts. Buchanan sustained a complete charge that supplied a lawful post-aggravator life choice; evidence and advocacy reinforced that judicial route rather than curing a restriction.
+
+Instruction 2's accurate life alternative and B1's broad consideration command are substantial reasons supporting the State. But the later question expressly asked whether proof of an aggravator left a punishment choice after hearing those instructions and both arguments. Returning the jury to the same conditional paragraph did not resolve that expressed relationship. B1 directed consideration and left weight to the jury without independently answering the post-aggravator choice. The complete record therefore establishes a reasonable likelihood that the jury treated eligibility as requiring death. Counsel's explanations, further deliberation, the mitigation recital and polling do not conclusively remove that likelihood. Bollenbach underscores the importance of answering an expressed difficulty, but its federal direct-review ruling does not create a universal state constitutional duty to rephrase. The holding concerns this later response, preserves Buchanan's original-charge ruling, requires no favorable mitigation weight and establishes neither automatic structural relief nor present causal effect on the sentence.
+
+##### V. Authority and limits of the return
+
+The five-Justice judgment fixes the constitutional error but leaves statutory availability and causal effect for independent adjudication. The court below may deny the claim if a necessary condition fails. Breyer's Part IV, joined by Stevens, Souter and Ginsburg, explains that the lower court's minimal-consistency formulation and reliance on later Buchanan did not separately evaluate the 1994 adjudication under the enacted alternatives. The accurate paragraph remains a substantial argument for statutory denial despite constitutional error. Stone-Zsela agrees with the return only in the judgment, on his separately stated grounds. That disagreement supplies no controlling Marks rationale on present statutory eligibility.
+
+No single effect standard or allocation of uncertainty commands a majority for this jury-response category. Brecht's Chapman holding concerns preserved Doyle error; O'Neal and Roy cover the defined personal-intent category; Calderon v. Coleman adds commutation misinformation. Their whole-record and causal distinctions remain, but none conclusively selects the standard for this different category. If statutory eligibility is established, the receiving court must resolve the open effect-standard question, including the governing burden and treatment of uncertainty, on a legal basis consistent with those defined holdings. The reservation neither rejects Chapman nor permits an arbitrary choice between standards; this mandate prescribes neither a categorical Chapman extension nor a general substantial-and-injurious-effect rule. The proposed burdens are not combined into a controlling narrowest-ground rule. Identifying Boyde error alone is insufficient to issue a writ. Any lawful effect determination must concern the actual sentence and the complete record, including the charge, mitigation, prosecution theory and jury inquiry; neither permissible death eligibility nor strong aggravation alone resolves it.
+
+#### Precedent Treatment
+
+- Picard v. Connor and Anderson v. Harless are applied to the substance of the same federal claim; incorporation here accompanies an express challenge to the later response.
+- Harris v. Reed and Coleman v. Thompson preserve actual independent state procedural grounds; no such ground supports this claim's rejection.
+- Gray v. Netherland preserves claim identity, functional protection and independent statutory conditions; it supplies no automatic writ here.
+- O'Sullivan v. Boerckel preserves ordinary complete review without requiring repetitive collateral presentation; its former-statute holding is not converted into a new amended-statute exception.
+- Lindh v. Murphy and Carriger v. Stewart retain their pre-enactment application boundaries; this later filing is distinguished.
+- Lockett v. Ohio and Eddings v. Oklahoma supply effective mitigating use without favorable-weight requirements.
+- Graham v. Collins supplies the independent culpability route and its preexisting-law character; its holdings remain intact.
+- Boyde v. California supplies the reasonable-likelihood inquiry in the complete charge and trial; no subjective-juror finding or mere-possibility test replaces it.
+- Buchanan v. Angelone is distinguished by this later express inquiry; its original-charge holding remains binding and is not backdated to the state adjudication.
+- Bollenbach v. United States supports accurate attention to an expressed difficulty; its federal direct-review setting supplies no universal constitutional rephrasing command.
+- Teague v. Lane and Caspari v. Bohlen retain the dictated-at-finality requirement and contemporary exceptions; this claim needs neither exception. Saffle v. Parks retains the distinction between unrestricted sympathy and protected mitigation. Lambrix v. Singletary preserves functional old-rule analysis and the separate nature of default. Schiro v. Farley retains discretion over a genuinely late defense without a mandatory waiver rule.
+- Brecht v. Abrahamson, O'Neal v. McAninch, California v. Roy and Calderon v. Coleman retain their defined Chapman categories. No majority extends them to this category or converts them into a blanket substantial-effect rule. Coleman's distinction between identifying instructional error and determining actual effect remains material.
+
+#### Law After Decision
+
+The effective-mitigation rule now governs this express post-charge question and inadequate response: a lawful life option must remain effectively available under Boyde's contextual standard. Buchanan's approval of its original charge survives. The actual presentation/default and Teague defenses cannot support renewed denial of this claim. Amended §2254(d)(1) remains independently applicable; constitutional error does not itself authorize a writ. The statutory rationale beyond applicability and the effect-standard choice lack a common five-Justice rationale. No automatic relief, new wording requirement, general Chapman extension or general substantial-effect rule is adopted.
+
+#### Separate Positions Relevant to the Decision
+
+**Stone-Zsela, concurring in part and in the judgment.** He joins the threshold and constitutional holdings. The jury's expressed mandatory-death confusion and the inadequate response, considered with the whole charge, establish an unreasonable application of Boyde, Lockett and Eddings. He separately finds substantial and injurious influence on the death verdict from the whole penalty record. He would grant sentence-only conditional relief requiring constitutionally adequate sentencing or a lawful noncapital sentence within a reasonable period. He nevertheless accepts the Court's remand, including possible denial upon independent statutory or causal review, without joining the Associates' reasoning that leaves those questions unresolved. He requires no present writ or sentence vacatur through that judgment and adopts no new Chapman extension. His invocation of a Brecht substantial-effect approach is his separate position, not the Court's description of Brecht's limited controlling holding.
+
+**Souter, joined by Ginsburg and Breyer, concurring.** They would extend State-borne Chapman review to this defined interference with the capital jury's lawful nondeath choice. The State should establish beyond reasonable doubt from the whole penalty record that the error did not contribute to the actual death sentence. Coleman supplies a functional analogy, not an already controlling classification of this claim. The constitutional error does not establish causal contribution, and no accepted lower-court effect determination supports present relief. They accept the return without a Court-selected standard while preserving their objection to substantial-influence review as the appropriate rule. Their concurrence supplies no controlling extension.
+
+**Stevens, concurring.** He joins the lead but favors demanding whole-record substantial-influence review, with genuine grave doubt about effect preventing a finding of harmlessness. His Coleman position distinguishes the error's existence from its impact on the sentence. Unlike that case's completed lower-court analysis, the present denial supplies no accepted independent effect determination supporting an immediate writ. He therefore accepts the statutory-first return and reservation without joining the proposed Chapman extension.
+
+**O'Connor, joined in Part I by Scalia, Kennedy and Thomas, concurring in part and dissenting in part.** The specific reference sent the jury to the very paragraph authorizing life after an aggravator, reinforced by B1's express mitigation command. Under Boyde and Buchanan, the complete judicial directions supply the route; testimony and advocacy confirm it rather than cure a legal restriction. The question does not itself prove the answer failed, just as the poll does not conclusively prove understanding. Independently, the accurate paragraph and targeted reference make the state application of preexisting mitigation law reasonable under §2254(d)(1), even if another reviewing court would find constitutional error. They would affirm without approving the Fourth Circuit's every statutory formula. O'Connor alone adds that, if an otherwise available violation reaches effect review, she would join the confined Chapman extension and return for that inquiry. This conditional position supplies neither statutory eligibility nor a vote for vacatur. Scalia applies the governing mitigation rule while retaining his previously stated disagreement with its constitutional foundation.
+
+**Kennedy, dissenting.** He joins the common affirmance grounds. If an available violation required effect review, his Coleman position calls for demanding substantial-influence analysis and treats genuine grave doubt as preventing harmlessness. The actual sentence, charge, mitigation and prosecution theory matter; death eligibility alone does not answer the question. He rejects both the proposed Chapman extension and a rule requiring denial whenever the showing is evenly balanced.
+
+**Thomas, joined by Scalia, dissenting.** They join the common affirmance grounds. Their conditional effect position requires the prisoner to establish substantial injurious influence; an evenly balanced showing is insufficient. Thomas's Coleman writing grounds that allocation in habeas relief's custody requirement without claiming the statutory text expressly supplies a tie-breaker. They preserve the established Chapman categories but oppose extending them here. They make no present causal-effect finding and support no automatic relief.
+
+#### Source Notes
+
+[Records and Briefs, No. 99-5746](https://archive.org/details/micro_IA40385014_0395), particularly Joint Appendix volume II, pp. 190–200, 217, 219–228, 265–275 and 337–346, supports the charge, inquiry, answer, objection, state presentation and lower-court treatment. The petition and both merits briefs supply the filing accounts and descriptions of testimony and advocacy. The state decision is reported at 248 Va. 460, 450 S.E.2d 379; the federal appellate decision at 176 F.3d 249. [Public Law 104-132](https://www.govinfo.gov/content/pkg/PLAW-104publ132/html/PLAW-104publ132.htm), §104, supplies the amended statutory conditions. [Boyde](https://www.law.cornell.edu/supremecourt/text/494/370), [Eddings](https://www.law.cornell.edu/supremecourt/text/455/104) and [Bollenbach](https://www.law.cornell.edu/supremecourt/text/326/607) supply the identified preexisting principles. No exact subsequent finality date is needed for the old-rule holding. The appellate court's express account establishes the District Court's merits treatment without attributing unrecovered wording to it. Testimony accounts do not establish every disputed fact or a particular juror's subjective understanding.
+
+#### Mandate, Remedy, and Stage
+
+The Fourth Circuit judgment is vacated only as to this sentencing-response claim. Further proceedings must preserve the constitutional-error conclusion and rejected defenses, independently apply §2254(d)(1), and, if necessary, resolve the still-open effect-standard question, including burden and treatment of uncertainty, and perform whole-record causal review. That legal determination must respect the defined existing holdings; it is not an arbitrary choice or a mandate to reject Chapman. Denial remains available when a necessary condition is not met. A qualifying harmful violation calls for conditional penalty relief with a reasonable prospective opportunity for lawful sentencing or a noncapital disposition; no present writ, sentence vacatur, deadline, hearing, stay or release is ordered. The conviction and unrelated claims remain undisturbed.
+
+**End of entry: Weeks v. Angelone, merits decision, January 19, 2000.**
 
 ---
 
@@ -683,12 +984,99 @@ The Tenth Circuit's judgment is reversed insofar as it vacated the challenged ap
 
 ---
 
-## Workflow Blockers
+### Richards v. United States, No. 99-731
 
-| Case or matter | Exact blocker |
-|---|---|
-| Fraternal Order of Police v. United States | Stone must supply a disposition and Commerce Clause ground for the association's uniform prospective challenge, including whether the existing Hiley facial rule governs while individual nexus proof is left for an actual enforcement case. The recovered source adjudicates no individual's statutory commerce nexus. |
-| Weeks v. Angelone | Stone must address the governing amended 28 U.S.C. §2254(d)(1) threshold and the resulting availability of sentence relief. |
-| Smith v. Robbins | The State's Teague defense was omitted from the neutral packet. Stone must decide whether the requested protection in Wende's retained-counsel procedure was dictated by prior holdings when the conviction became final, and supply the resulting disposition. |
-| Richards v. United States | Stone must apply the incident-to-service rule and specify the resulting disposition on the complete lower opinion's facts: authorized early departure without a pass or furlough, travel from the duty station in the claimant's own vehicle, an on-base public road, and a homeward personal purpose accepted for dismissal. The government's disputed tuition-assistance destination cannot resolve that application. |
+Merits decision, February 14, 2000
+
+#### Chronology and Posture
+
+Submitted January 10, 2000; decided February 14, 2000. Certiorari was granted November 1, 1999 to review the Third Circuit’s affirmance, 176 F.3d 652, of dismissal under Feres. The question is whether the accepted authorized personal journey home was incident to service and how that inquiry applies to the five pleaded negligence theories. The Court does not undertake a general reconsideration of Feres or decide liability.
+
+All nine Justices participate at submission and decision.
+
+#### Judgment
+
+The judgment is affirmed in part and reversed in part, and the case is remanded.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Negligent operation; negligent maintenance; knowingly permitting an unsafe truck on public roads, with derivative family claims | Reverse Feres dismissal, 5–4 | Stone-Zsela, Stevens, Scalia, Souter, Ginsburg | O'Connor, Kennedy, Thomas, Breyer | Remand through the Third Circuit for the remaining FTCA requirements and defenses |
+| Permission for an allegedly unlicensed soldier to drive this truck class; order to drive despite inadequate skill or experience, with derivative family claims | Affirm dismissal, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela | These two command theories remain dismissed under Shearer |
+
+The accepted personal destination governs dismissal review. No negligence, causation, damages or independent discretionary-function ruling is made; the admitted scope of Potts's federal employment remains intact.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Scalia | Stevens, Souter and Ginsburg throughout; Stone-Zsela in Part I; O'Connor, Kennedy, Thomas and Breyer in Part II | Five-Justice partial reversal and eight-Justice partial affirmance | Part I: road-operation/equipment theories and limited remand; Part II: permission/order theories and derivative dismissals |
+| Dissent from Part II | Stone-Zsela | No other Justice | Would reverse the Feres dismissal in full | Joins Part I; applies the actual private-travel classification to the entire dismissal |
+| Dissent from Part I | O'Connor | Kennedy, Thomas and Breyer | Would affirm the dismissal in full | Joins Part II; finds the whole injury incident to service on the combined circumstances |
+
+#### Controlling Propositions and Authority
+
+##### I. The ordinary road-operation and equipment theories may proceed
+
+**Holding and operative rule:** Feres does not bar the pleaded negligent-operation, negligent-maintenance and knowingly-unsafe-road-use theories arising from Richards's authorized personal journey home in his own car on a public road after permission to leave work early. His continuing active-duty status, lack of a formal pass or furlough and location within the installation bear on the connection with service but do not make this accepted private journey service-incident; the dismissal of those theories and their derivative claims is reversed and remanded for the remaining FTCA requirements and defenses.
+
+**Authority:** Part I of Justice Scalia's opinion is joined by Chief Justice Stone-Zsela and Justices Stevens, Souter and Ginsburg. Those five Justices join both the operative rule and its limited remand.
+
+**Controlling explanation:** The Court holds that the journey's actual character matters. Feres bars injuries incident to military service; Brooks preserves claims arising outside that relationship. Richards had permission to leave early, drove his own automobile, and was traveling home for a family purpose accepted on dismissal review. The road was publicly used, state-maintained and state-patrolled. Uniform, active status, lack of formal leave and location within Fort Knox weigh toward service, but do not overcome those combined circumstances for the ordinary road-safety duties alleged here.
+
+The Government's strongest argument joins the departure from a military workplace to continuing nonfurlough service within the installation. Its additional account places the home on the main post and the journey on a connecting road. Even assuming that geography, without finding it established, the accepted release and private purpose remain. No required residence, prescribed route or assigned errand is established. The disputed Education Center destination cannot support dismissal as a fact already found.
+
+Johnson preserves the service-incident bar regardless of the tortfeasor's civilian or military status. Stanley forecloses demanding a further showing of actual disciplinary disruption once service incidence is established; its implied-constitutional-remedy ruling does not settle this different FTCA threshold. This decision rests on that threshold, not an additional disruption requirement. It creates neither a general commuting exception nor an assigned-task-only test, and neither all public-road injuries nor all private purposes receive automatic exemption.
+
+The maintenance and unsafe-use allegations concern roadworthy equipment, not an established policy choice. Minns preserves independent protected-policy defenses but supplies no automatic immunity for military vehicles. Potts's scope of federal employment is admitted; negligence, causation, local-law entitlement, contributory negligence, damages and independent FTCA defenses remain for ordinary proceedings. No liability finding, compelled discovery, hearing, deadline or benefit offset follows. A genuinely material destination dispute may be addressed below. The command theories receive their separate treatment in Part II.
+
+##### II. The military permission and order theories remain barred
+
+**Holding and operative rule:** Shearer bars the theories that the Army negligently allowed an allegedly unlicensed soldier to drive this class of truck and negligently ordered him to drive despite inadequate skill or experience. Those allegations directly challenge military selection and direction of a servicemember for an assignment; the dismissal of those theories and their derivative claims is affirmed notwithstanding the injured member's accepted private travel.
+
+**Authority:** Part II of Justice Scalia's opinion is joined by Justices Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. Those eight Justices adopt the Shearer ground; Chief Justice Stone-Zsela dissents from this component.
+
+**Controlling explanation:** The Court holds that these two allegations put military command decisions themselves in issue. Shearer looks to the actual challenge to the military's supervision and control of servicemembers; an off-duty victim or ordinary-negligence label does not remove that challenge. Permitting an allegedly unqualified soldier to perform a military driving assignment and ordering him to do so despite inadequate skill require examination of that selection and direction. Those are the allegations presented, not grounds inferred merely from truck ownership.
+
+The contrary argument treats every theory as an ordinary traffic claim because Richards's journey was private and the accident occurred on a public road. That describes the injured person's activity but does not erase the separate command duties these theories ask a court to review. The Court therefore preserves Brooks's nonservice boundary for the road-operation and equipment theories while applying Shearer to the actual permission and order claims. Claim labels alone do not govern either conclusion.
+
+This holding neither finds the allegations true nor decides whether a specific military directive existed or was violated. It requires no additional holding that the same conduct also falls within the discretionary-function exception. Minns retains its own protected-choice and binding-direction qualifications; no independent section 2680(a) disposition is made here. The family losses arise from Richards's death and follow the component treatment of that injury; the claimants suffered no separate civilian bodily injury. The surviving claims may proceed on remand, but these two command theories remain dismissed.
+
+#### Precedent Treatment
+
+- Feres v. United States — retained as the bar for service-incident injuries; neither active status nor installation geography alone supplies its threshold.
+- Brooks v. United States — applied to the accepted independent personal journey and ordinary road-safety claims; it does not create a universal public-road, commuting or formal-leave rule.
+- United States v. Brown — its distinction between military causal history and the later wrong is preserved; its postdischarge facts do not make Richards a civilian.
+- Stencel Aero Engineering Corp. v. United States — distinguished because its indemnity holding begins with a service-incident injury and does not decide the disputed classification here.
+- United States v. Johnson — retained: the tortfeasor's civilian status supplies no exception for an injury already incident to service; no such exception is adopted for this military driver.
+- United States v. Stanley — retained as foreclosing an additional case-specific disruption requirement once service incidence is established; its Bivens holding concerns an implied constitutional remedy, and its FTCA jurisdictional ruling does not decide Richards's classification.
+- United States v. Shearer — applied to the actual permission and order theories; off-duty character and ordinary-negligence terminology do not remove a direct command challenge.
+- Minns v. United States — its controlling protection of actual policy discretion, subject to binding-direction and protected-choice requirements, remains in force; its fragmented judgment supplies no controlling Feres extension or automatic military-vehicle immunity.
+
+#### Law After Decision
+
+Feres continues to bar service-incident injuries. Its application to the accepted authorized private journey permits the three ordinary road-operation and equipment theories to proceed, while Shearer separately bars the actual military permission and order challenges. Neither commuting, public-road geography, formal leave nor an assigned task becomes a categorical test. Once service incidence is established, no further actual-disruption showing is required. Minns retains its separate qualified protection of policy discretion, and the surviving FTCA requirements and defenses remain open.
+
+#### Separate Positions Relevant to the Decision
+
+**Chief Justice Stone-Zsela, dissenting from Part II; no other Justice joins.**
+
+Stone-Zsela joins Part I and dissents from Part II. He would reverse the Feres dismissal in full and remand for all remaining FTCA requirements and defenses. His ground is the actual character of this authorized personal trip: active-duty status, lack of a pass or furlough, and on-base location matter but do not override the accepted private journey home in his own car on a public road. Brooks preserves that distinction. His disagreement with the partial affirmance rests on that incident-to-service classification; he adds no separate rule exempting every command allegation, no general commuting exception, and no requirement that only an assigned task can be service-incident. He would decide neither negligence nor damages, and would preserve independently applicable FTCA defenses.
+
+**Justice O'Connor, dissenting from Part I, joined by Justices Kennedy, Thomas and Breyer.**
+
+O'Connor dissents from Part I, joined by Kennedy, Thomas and Breyer, and joins Part II. They would affirm the entire Feres dismissal. The immediate departure from a military duty station while still on the installation in active service without pass or furlough remains sufficiently connected with service despite authorized early release, a private automobile and the accepted family purpose. Feres and Johnson extend beyond an immediate assigned task; Stanley requires no additional demonstration of actual discipline interference after the service relationship is established. The added on-post-home and connecting-road account reinforces that view if assumed, but is not necessary to it and is not treated as a fact found.
+
+The dissent accepts Brooks's nonservice boundary and rejects an absolute rule for every on-base injury, every private purpose or every absence of formal furlough. It disagrees with the majority's application to this combination of circumstances. The admitted employment scope of the driver does not decide the injured member's relationship to service. Compensation and the federal relationship support the dissent's Feres analysis but create no universal benefits election or offset. The dissent independently joins the Shearer dismissal of the permission and order theories, adopts no unadjudicated discretionary-function ground, and makes no finding of negligence or liability.
+
+#### Source Notes
+
+The Third Circuit’s full opinion, 176 F.3d 652, supplies the accepted early release and private homeward purpose, active-duty and uniform status without pass or furlough, public-road setting, five theories, scope admission and grounds below. The United States’ published account additionally places the home on the main post and identifies the connecting route, citing C.A. Appendix 79–80 and 83–85; that account is considered only for argument, not as a claimant concession or fact found. The competing Education Center destination and denied fault allegations remain unresolved. Feres, 340 U.S. 135; Brooks, 337 U.S. 49; Shearer, 473 U.S. 52; Johnson, 481 U.S. 681; and Stanley, 483 U.S. 669, supply the surviving boundaries. No unreproduced police report, licensing directive or maintenance order is treated as proved.
+
+#### Mandate, Remedy, and Stage
+
+The case returns through the Third Circuit for ordinary proceedings on negligent operation, negligent maintenance and knowingly unsafe road use and their derivative claims. The permission and order dismissals stand. The lower courts may address any genuinely material destination dispute and the remaining negligence, causation, local-law, contributory-negligence, damages and independent FTCA questions. Potts’s admitted federal employment scope is not reopened by this mandate. No new filing deadline, discovery entitlement, evidentiary hearing, benefit offset or damages award is ordered.
+
+**End of entry: Richards v. United States, merits decision, February 14, 2000.**
+
+---
 
