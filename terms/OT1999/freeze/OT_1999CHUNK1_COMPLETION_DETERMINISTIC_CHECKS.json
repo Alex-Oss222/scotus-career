@@ -1,0 +1,94 @@
+{
+  "errors": [],
+  "modified_existing_files": [
+    "terms/OT1999/render-inputs/OT_1999CHUNK1.md",
+    "terms/OT1999/workspace/continuity.md",
+    "terms/OT1999/workspace/ledger.md",
+    "terms/OT1999/workspace/manifest.md",
+    "terms/OT1999/workspace/neutral-projection.md"
+  ],
+  "new_files": [
+    "terms/OT1999/entering-law/OT_1999CHUNK1_HILL.md",
+    "terms/OT1999/freeze/OT_1999CHUNK1_COMPLETION_DETERMINISTIC_CHECKS.json",
+    "terms/OT1999/freeze/OT_1999CHUNK1_COMPLETION_WORKSPACE_VALIDATION.md",
+    "terms/OT1999/freeze/OT_1999CHUNK1_HILL_ASSEMBLY_RECEIPT.md",
+    "terms/OT1999/freeze/OT_1999CHUNK1_HILL_COMMITMENTS.md",
+    "terms/OT1999/freeze/OT_1999CHUNK1_HILL_MODEL_DEPENDENCY_RECEIPT.md",
+    "terms/OT1999/freeze/OT_1999CHUNK1_HILL_NEUTRAL_PREFLIGHT.md",
+    "terms/OT1999/freeze/OT_1999CHUNK1_HILL_RECONCILED.md",
+    "terms/OT1999/freeze/OT_1999CHUNK1_PAUL_ASSEMBLY_RECEIPT.md",
+    "terms/OT1999/freeze/OT_1999CHUNK1_PAUL_COMPONENT_CLARIFICATION.md",
+    "terms/OT1999/freeze/OT_1999CHUNK1_UNITED_REPORTING_ASSEMBLY_RECEIPT.md",
+    "terms/OT1999/preparation/HILL_NEUTRAL_AS_OF_2000-01-11.md",
+    "terms/OT1999/preparation/OT_1999CHUNK1_HILL_EARLIER_LAW_ADDENDUM.md",
+    "terms/OT1999/records/los-angeles-police-department-v-united-reporting_merits_1999-12-07.md",
+    "terms/OT1999/records/new-york-v-hill_merits_2000-01-11.md",
+    "terms/OT1999/records/paul-p-v-verniero_merits_1999-12-06.md",
+    "terms/OT1999/preparation/hill-neutral-sources/brookhart-1966.pdf",
+    "terms/OT1999/preparation/hill-neutral-sources/brookhart-1966.txt",
+    "terms/OT1999/preparation/hill-neutral-sources/iad-1970.pdf",
+    "terms/OT1999/preparation/hill-neutral-sources/iad-1970.txt",
+    "terms/OT1999/preparation/hill-neutral-sources/iad-public-law-91-538.pdf",
+    "terms/OT1999/preparation/hill-neutral-sources/iad-public-law-91-538.txt",
+    "terms/OT1999/preparation/hill-neutral-sources/jones-barnes-1983.pdf",
+    "terms/OT1999/preparation/hill-neutral-sources/jones-barnes-1983.txt",
+    "terms/OT1999/preparation/hill-neutral-sources/taylor-1988.pdf",
+    "terms/OT1999/preparation/hill-neutral-sources/taylor-1988.txt"
+  ],
+  "existing_files_checked": 260,
+  "new_event_count": 3,
+  "render_input_events": 12,
+  "old_render_input_event_blocks_checked": 9,
+  "old_output_byte_identical": true,
+  "paul_component_support": [
+    9,
+    7,
+    8,
+    7
+  ],
+  "united_reporting_votes": [
+    [
+      7,
+      2
+    ],
+    [
+      5,
+      4
+    ]
+  ],
+  "assignment_recounts_from_opinion_tables": {
+    "paul-p-v-verniero_merits_1999-12-06.md": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 0,
+      "Scalia": 0,
+      "Kennedy": 0,
+      "Souter": 0,
+      "Thomas": 0,
+      "Ginsburg": 0,
+      "Breyer": 0
+    },
+    "los-angeles-police-department-v-united-reporting_merits_1999-12-07.md": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 0,
+      "Scalia": 0,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 0,
+      "Ginsburg": 0,
+      "Breyer": 0
+    },
+    "new-york-v-hill_merits_2000-01-11.md": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 0,
+      "Scalia": 0,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 1
+    }
+  }
+}
