@@ -1,0 +1,54 @@
+{
+  "adarand-constructors-v-slater_summary-merits_2000-01-12.md": {
+    "eleven_blocks": true,
+    "opening_labels": true,
+    "public_private_separation": true,
+    "ordinary_explanation_words": [
+      262
+    ],
+    "internal_public_holdings_identical": true,
+    "markdown_links_resolve": true,
+    "source_paths": true,
+    "nine_judgment_votes": true,
+    "lead_author_and_joins": true,
+    "assignment_recount_matches": true,
+    "counted_author": null
+  },
+  "martinez-v-court-of-appeal_merits_2000-01-12.md": {
+    "eleven_blocks": true,
+    "opening_labels": true,
+    "public_private_separation": true,
+    "ordinary_explanation_words": [
+      171,
+      173
+    ],
+    "internal_public_holdings_identical": true,
+    "markdown_links_resolve": true,
+    "source_paths": true,
+    "nine_judgment_votes": true,
+    "lead_author_and_joins": true,
+    "assignment_recount_matches": true,
+    "counted_author": "Thomas"
+  },
+  "reno-v-condon_merits_2000-01-12.md": {
+    "eleven_blocks": true,
+    "opening_labels": true,
+    "public_private_separation": true,
+    "ordinary_explanation_words": [
+      257,
+      227
+    ],
+    "internal_public_holdings_identical": true,
+    "markdown_links_resolve": true,
+    "source_paths": true,
+    "nine_judgment_votes": true,
+    "lead_author_and_joins": true,
+    "assignment_recount_matches": true,
+    "counted_author": "Scalia"
+  },
+  "handoff": {
+    "exact_mechanical_public_projection_copy": true,
+    "completed_events": 3,
+    "order_file_each_once_in_assembly_order": true
+  }
+}

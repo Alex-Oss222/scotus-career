@@ -1,0 +1,2746 @@
+
+
+Federal Register, Volume 64 Issue 190 (Friday, October 1, 1999)
+
+
+[Federal Register Volume 64, Number 190 (Friday, October 1, 1999)]
+[Rules and Regulations]
+[Pages 53242-53264]
+From the Federal Register Online via the Government Publishing Office [www.gpo.gov]
+[FR Doc No: 99-25232]
+
+
+-----------------------------------------------------------------------
+
+FEDERAL COMMUNICATIONS COMMISSION
+
+47 CFR Part 64
+
+[CC Docket No. 96-115; FCC 99-223]
+
+
+Telecommunications Carriers' Use of Customer Proprietary Network 
+Information and Other Customer Information
+
+AGENCY: Federal Communications Commission.
+
+ACTION: Final rule.
+
+-----------------------------------------------------------------------
+
+SUMMARY: This document reconsiders the first CPNI order, addresses 
+petitions for forbearance from the requirements of that order, and 
+establishes rules to implement section 222. The intended effect is to 
+further Congress' goals of fostering competition in telecommunications 
+markets and ensure the privacy of customer information.
+
+DATES: All of these rules contain information collection requirements 
+that have not yet been approved by the Office of Management and Budget 
+(OMB). The Commission will publish a document in the Federal Register 
+announcing the effective date of these rules.
+
+FOR FURTHER INFORMATION CONTACT: Eric Einhorn, Attorney Adviser, Common 
+Carrier Bureau, Policy and Program Planning Division, (202) 418-1580 or 
+via the Internet at [email protected]. Further information may also be 
+obtained by calling the Common Carrier Bureau's TTY number: 202-418-
+0484.
+
+SUPPLEMENTARY INFORMATION: This is a summary of the Commission's Order 
+adopted August 16, 1999, and released September 3, 1999. The full text 
+of this Order on Reconsideration is available for inspection and 
+copying during normal business hours in the FCC Reference Center, 445 
+12th Street, S. W., Room CY-A257, Washington, D.C. The complete text 
+also may be obtained through the World Wide Web, at http://www.fcc.gov/
+Bureaus/Common Carrier/Orders/fcc99223.wp, or may be
+
+[[Page 53243]]
+
+purchased from the Commission's copy contractor, International 
+Transcription Service, Inc., (202) 857-3800, 1231 20th St., N. W., 
+Washington, D.C. 20036.
+
+Regulatory Flexibility Certification:
+
+    As required by the Regulatory Flexibility Act, the Order contains a 
+Final Regulatory Flexibility. A brief description of the analysis 
+follows. Pursuant to section 604 of the Regulatory Flexibility Act, the 
+Commission performed a comprehensive analysis of the Order with regard 
+to small entities. This analysis includes: (1) A succinct statement of 
+the need for, and objectives of, the Commission's decisions in the 
+Order; (2) a summary of the significant issues raised by the public 
+comments in response to the initial regulatory flexibility analysis, a 
+summary of the Commission's assessment of these issues, and a statement 
+of any changes made in the Order as a result of the comments; (3) a 
+description of and an estimate of the number of small entities to which 
+the Order will apply; (4) a description of the projected reporting, 
+recordkeeping and other compliance requirements of the Order, including 
+an estimate of the classes of small entities which will be subject to 
+the requirement and the type of professional skills necessary for 
+compliance with the requirement; (5) a description of the steps the 
+Commission has taken to minimize the significant economic impact on 
+small entities consistent with the stated objectives of applicable 
+statutes, including a statement of the factual, policy, and legal 
+reasons for selecting the alternative adopted in the Order and why each 
+one of the other significant alternatives to each of the Commission's 
+decisions which affect small entities was rejected.
+
+Synopsis of Order
+
+I. Introduction
+
+    1. On February 26, 1998, the Commission released the CPNI Order, 63 
+FR 20326, April 24, 1998, adopting rules implementing the new statutory 
+framework governing carrier use and disclosure of customer proprietary 
+network information (CPNI) created by section 222 of the Communications 
+Act (hereinafter ``the Act''). CPNI includes, among other things, to 
+whom, where, and when a customer places a call, as well as the types of 
+service offerings to which the customer subscribes and the extent the 
+service is used.
+    2. This order on reconsideration is issued in response to a number 
+of petitions for reconsideration, forbearance, and/or clarification of 
+the CPNI Order. In this order we modify the CPNI Order, in part, to 
+preserve the consumer protections mandated by Congress while more 
+narrowly tailoring our rules, where necessary, to enable 
+telecommunications carriers to comply with the law in a more flexible 
+and less costly manner.
+    3. The Telecommunications Act of 1996 (1996 Act) became law on 
+February 8, 1996. Although most of the provisions in the 1996 Act aim 
+to implement Congress' intent that the 1996 Act ``provide for a pro-
+competitive, de-regulatory national policy framework designed to 
+accelerate rapidly private sector deployment of advanced 
+telecommunications and information technologies and services to all 
+Americans by opening all telecommunications markets to competition,'' 
+section 222 addresses a different and additional goal. CPNI is 
+extremely personal to customers as well as commercially valuable to 
+carriers. As we stated in the CPNI Order: Congress recognized * * * 
+that the new competitive market forces and technology ushered in by the 
+1996 Act had the potential to threaten consumer privacy interests. 
+Congress, therefore, enacted section 222 to prevent consumer privacy 
+protections from being inadvertently swept away along with the prior 
+limits on competition.
+    4. As the Commission previously noted in the CPNI Order, section 
+222 is largely a consumer protection provision that establishes 
+restrictions on carrier use and disclosure of personal customer 
+information. The aim of section 222 stands in contrast to the other 
+provisions of the 1996 Act that seek primarily to ``[open] all 
+telecommunications markets to competition,'' and mandate competitive 
+access to facilities and services. Section 222 reflects Congress' view 
+that as competition increases, it brings with it the potential that 
+consumer privacy interests will not be adequately protected by the 
+marketplace. Thus, section 222 requires all carriers, whether or not a 
+market is competitive, to protect CPNI and embodies the principle that 
+customers must be able to control their personal information from 
+unauthorized use, disclosure, and access by carriers. Where information 
+is not specific to the customer, or where the customer so directs, 
+section 222 permits the free flow or dissemination of information 
+beyond the existing customer-carrier relationship.
+    5. In most circumstances, the constraints placed on carriers by 
+section 222 only restrict the use or disclosure of CPNI without 
+customer approval. When carriers are prevented from using a customer's 
+CPNI by section 222, and the rules we promulgated in the CPNI Order, 
+carriers need only obtain the customer's approval to use that 
+customer's CPNI. Once a carrier has acquired customer approval, carrier 
+use or disclosure of CPNI, in most cases, is unrestricted. Thus, 
+section 222 enables customers to relinquish the presumption of privacy 
+as they see fit.
+    6. Congress' determination in section 222 to balance competitive 
+interests with consumers' interests in privacy and control over CPNI 
+governed the Commission's reasoning and conclusions in the CPNI Order. 
+This order is no different: we seek to carry out vigilantly Congress' 
+consumer protection and privacy aims, while simultaneously reducing the 
+burden of carrier compliance with section 222 by eliminating 
+unnecessary expense and administrative oversight where customer privacy 
+and control will not be sacrificed.
+
+II. Overview
+
+    7. By this order, we respond to the requests for reconsideration, 
+clarification and forbearance as follows:
+    (a) We deny the petitions for reconsideration which ask us to amend 
+the CPNI rules to differentiate among telecommunications carriers.
+    (b) We decline to modify or forbear from the total service approach 
+adopted in the CPNI Order because the total service approach keeps 
+control over the use of CPNI with the customer and best protects 
+privacy while furthering fair competition. We also clarify a number of 
+aspects of the total service approach in response to petitioners' 
+requests.
+    (c) We grant, in part, the petitions for reconsideration which 
+request that we allow all carriers to use CPNI to market customer 
+premises equipment (CPE) and information services under section 
+222(c)(1) without customer approval. We conclude that all carriers may 
+use CPNI, without customer approval, to market CPE. We further conclude 
+that CMRS carriers may use CPNI, without customer approval, to market 
+all information services, while wireline carriers may do so for certain 
+information services. We deny the petitions for forbearance on these 
+issues.
+    (d) We eliminate the restrictions on a carrier's ability to use 
+CPNI to regain customers who have switched to another carrier, 
+contained in Section 64.2005(b)(3) of our rules. We find that 
+``winback'' campaigns are consistent with Section 222(c)(1). The Order 
+concludes, however, that if a carrier uses information regarding a 
+customer's decision to switch carriers derived from its wholesale 
+operations to retain the
+
+[[Page 53244]]
+
+customer, such conduct violates the prohibitions in section 222(b) 
+against use of proprietary information gained from another carrier in 
+marketing efforts.
+    (e) We address various aspects of a customer's approval to use CPNI 
+consistent with section 222. We also grandfather a limited set of pre-
+existing notifications to use CPNI and adopt the conclusions reached in 
+the Common Carrier Bureau's Clarification Order, 63 FR 33890, June 22, 
+1998. We also eliminate, in an effort to reduce confusion and 
+regulatory micro-management, Sec. 64.2007(f)(4) of our rules, which 
+requires a carrier's solicitation for approval, if written, to be on 
+the same document as the carrier's notification. Further, we affirm our 
+decision to exercise our preemption authority on a case-by-case basis 
+for state rules that conflict with our own.
+    (f) We lessen the regulatory burden of various CPNI safeguards 
+while continuing to require that carriers protect customer privacy. We 
+modify our flagging requirement so that carriers must clearly establish 
+the status of a customer's CPNI approval prior to the use of CPNI, but 
+leave the specific details of compliance with the carriers. In so 
+doing, we allow the carriers the flexibility to adapt their record 
+keeping systems in a manner most conducive to their individual size, 
+capital resources, culture and technological capabilities. Similarly, 
+we amend our rules to eliminate the electronic audit trail requirement 
+and instead require carriers to maintain a record of their sales and 
+marketing campaigns that use CPNI.
+    (g) We affirm our conclusion in the CPNI Order that the most 
+reasonable interpretation of the interplay between sections 222 and 272 
+is that section 272 does not impose any additional obligations on the 
+Bell operating companies (BOCs) when they share their CPNI with their 
+section 272 affiliates. We also adopt the Common Carrier Bureau's 
+conclusion in the Clarification Order that a customer's name, address 
+and telephone number are ``information'' for the purposes of section 
+272(c)(1), and consequently, if a BOC makes such information available 
+to its 272 affiliate, it must then make it available to non-affiliated 
+entities.
+    (h) We find that the relationship of sections 222 and 254 does not 
+confer any special status to carriers seeking to use CPNI to market 
+enhanced services and CPE in rural exchanges to select customers. 
+Moreover, the Order rejects the contention that the Commission should 
+apply the requirements of sections 201(b), 202(a) and 272 to incumbent 
+local exchange carriers (ILECs) to impose a duty on ILECs to 
+electronically transmit a customer's CPNI to any other entity that 
+obtains a customer's oral approval to do so.
+
+III. Background
+
+A. The CPNI Order
+
+    8. On May 17, 1996, the Commission initiated a rulemaking, in 
+response to various formal requests for guidance from the 
+telecommunications industry, regarding the obligation of carriers under 
+section 222 and related issues. The Commission subsequently released 
+the CPNI Order on February 26, 1998. The CPNI Order addressed the scope 
+and meaning of section 222, and promulgated regulations to implement 
+that section. It concluded, among other things, as follows: (a) 
+Carriers are permitted to use CPNI, without customer approval, to 
+market offerings that are related to, but limited by, the customers' 
+existing service relationship; (b) before carriers may use CPNI to 
+market outside the customer's existing service relationship, carriers 
+must obtain express written, oral, or electronic customer approval; (c) 
+prior to soliciting customer approval, carriers must provide a one-time 
+notification to customers of their CPNI rights; (d) in light of the 
+comprehensive regulatory scheme established in section 222, the 
+Computer III CPNI framework is unnecessary; and (e) sections 272 and 
+274 impose no additional CPNI requirements on the Bell Operating 
+Companies (BOCs) beyond those imposed by section 222.
+
+B. The Clarification Order
+
+    9. On May 21, 1998, in response to a number of requests for 
+clarification of the CPNI Order, the Common Carrier Bureau released a 
+Clarification Order. This order addressed several issues. It concluded 
+that independently-derived information regarding customer premises 
+equipment (CPE) and information services is not CPNI and may be used to 
+market CPE and information services to customers in conjunction with 
+bundled offerings. In addition, it clarified that a customer's name, 
+address, and telephone number are not CPNI. Moreover, it stated that a 
+carrier has met the requirements for notice and approval under section 
+222 and the Commission's rules if it has both provided annual 
+notification to, and obtained prior written authorization from, 
+customers with more than 20 access lines in accordance with the 
+Commission's former CPNI rules. Finally, it determined that carriers 
+are not required to file their certifications of corporate compliance, 
+which carriers are required to issue by the CPNI Order, with the 
+Commission.
+
+C. The Stay Order
+
+    10. In the CPNI Order, the Commission required, among other things, 
+that carriers develop and implement software systems that ``flag'' 
+customer service records in connection with CPNI and that carriers 
+maintain an electronic audit mechanism (``audit trail'') that tracks 
+access to customer accounts. The Commission chose to defer the 
+enforcement of these rules until eight months after the effective date 
+of the rules: January 26, 1999. On September 24, 1998, however, the 
+Commission stayed, until six months after the release date of an order 
+addressing these issues on reconsideration, the enforcement of actions 
+against carriers for noncompliance with applicable requirements set 
+forth in the Commission's rules.
+
+IV. Consistent Treatment for All Carriers
+
+A. Incumbents vs. CLECs
+
+    11. Section 222(c)(1) restricts the ability of telecommunications 
+carriers to use CPNI without customer approval. In the CPNI Order, we 
+concluded that ``Congress did not intend to, and we should not at this 
+time, distinguish among carriers for the purpose of applying Section 
+222(c)(1).'' We found, based upon the language of the statute itself, 
+that section 222 applies to all carriers equally and, with few 
+exceptions, does not distinguish among classes of carriers. Various 
+parties on reconsideration, however, seek reversal of this conclusion. 
+One group of petitioners advocates that we impose stricter CPNI 
+restrictions on incumbent carriers than competitors, based upon the 
+greater potential for anticompetitive use or disclosure of CPNI by 
+ILECs. We previously rejected this very argument in the CPNI Order. 
+These parties have not raised any arguments or facts that persuade us 
+to reverse our conclusion that section 222 is intended to apply to all 
+segments of the telecommunications marketplace regardless of the level 
+of competition present in any segment. Accordingly, we affirm that 
+section 222 does not distinguish between classes of carriers and 
+applies to all carriers equally.
+
+B. Wireline vs. Wireless
+
+    12. Congress enacted section 222 at a time when the wireless 
+industry had been subject to less regulatory requirements than wireline 
+carriers. Congress was fully aware that CMRS
+
+[[Page 53245]]
+
+providers, and CLECs for that matter, were to evolve in more 
+competitive environments. Notwithstanding, there is nothing in the 
+statute or its legislative history to indicate that Congress intended 
+that the CPNI requirements in section 222 should not apply to wireless 
+carriers. Given the opportunity to exclude competitive carriers from 
+the scope of section 222, we must give meaning to the fact that 
+Congress did not exempt them. Moreover, the underlying policy objective 
+of section 222 is to protect consumers, while balancing competitive 
+interests. We believe that the privacy interests of CMRS customers are 
+no less deserving of protection than those of wireline customers, 
+although the differences in customer expectations may warrant different 
+approaches. We note too that this reconsideration lightens the impact 
+of compliance with the CPNI rules on all carriers by providing 
+flexibility for technological differences in administrative systems 
+with regard to the electronic safeguards rules, which should be 
+beneficial to all companies, including independent CMRS providers. 
+Finally, we note that a few parties urge the Commission to forbear from 
+enforcing CPNI obligations on CMRS providers generally. We address 
+these arguments in Part V.B.3.d. Therefore, we deny those petitions for 
+reconsideration that seek different treatment for CMRS carriers.
+
+C. Small and Rural Carriers
+
+    13. As we noted in the CPNI Order, the Commission's CPNI rules 
+apply to small carriers just as they apply to other sized carriers 
+``because we are unpersuaded that customers of small businesses have 
+less meaningful privacy interests in their CPNI.'' Petitioners have not 
+raised any new arguments or facts that persuade us to reverse this 
+conclusion with respect to these carriers. Thus, we will not 
+distinguish among carriers based upon the number or density of lines 
+they serve either.
+
+V. Carrier's Right to Use CPNI Without Customer Approval
+
+A. The Total Service Approach
+
+1. Background
+    14. In the CPNI Order, the Commission addressed the instances in 
+which a carrier could use, disclose, or permit access to CPNI without 
+prior customer approval under section 222(c)(1)(A). Section 222(c)(1) 
+provides that a telecommunications carrier that receives or obtains 
+CPNI by virtue of its ``provision of a telecommunications service shall 
+only use, disclose, or permit access to individually identifiable 
+[CPNI] in the provision of (A) the telecommunications service from 
+which such information is derived, or (B) services necessary to, or 
+used in, the provision of such telecommunications service, including 
+the publication of directories.''
+    15. After considering the record, statutory language, history, and 
+structure of section 222, we concluded that Congress intended that a 
+carrier's use of CPNI without customer approval should depend on the 
+service subscribed to by the customer. Accordingly, the Commission 
+adopted the ``total service approach'' which allows carriers to use a 
+customer's entire record, derived from complete service subscribed to 
+from that carrier, to market improved services within the parameters of 
+the existing customer-carrier relationship. The total service approach 
+permits carriers to use CPNI to market offerings related to the 
+customer's existing service to which the customer presently subscribes. 
+Under the total service approach, the customer retains ultimate control 
+over the permissible marketing use of CPNI, a balance which best 
+protects customer privacy interests while furthering fair competition. 
+Presented with the opportunity to permit or prevent a carrier from 
+accessing CPNI for marketing purposes, the customer has the ability to 
+determine the bounds of the carrier's use of CPNI.
+2. Petitions for Reconsideration
+    16. GTE urges the Commission to reconsider the total service 
+approach to allow carriers to use, without customer consent, CPNI 
+derived from the provision of a package of telecommunications services 
+in order to market other telecommunications services to which a 
+customer does not subscribe. This ``package approach'' is only a slight 
+variation of the ``single category approach,'' which we specifically 
+analyzed and rejected in the CPNI Order. The single category approach 
+would have permitted carriers to use CPNI obtained from the provision 
+of any telecommunications service, including local or long distance or 
+CMRS, to market any other service offered by the carrier, regardless of 
+whether the customer subscribes to such service from that carrier.
+    17. We decline to grant GTE reconsideration on this issue because 
+that would vitiate the total service approach and the attendant 
+protection of a customer's sensitive information. The hallmark of the 
+total service approach is that the customer, whose privacy is at issue, 
+establishes the bounds of his or her relationship with the carrier. We 
+note, however, that to the extent a customer already subscribes to a 
+particular service or subscribes across services, GTE or any carrier 
+can use the customer's CPNI to market or create enhancements to those 
+services. Congress could not have intended an interpretation of section 
+222 that leaves the consumer without privacy protection. We concluded 
+in the CPNI Order, and nothing has persuaded us otherwise here, that 
+the total service approach best protects customer privacy while 
+furthering fair competition. GTE seeks to use CPNI derived from the 
+provision of certain telecommunications services to market other 
+telecommunications services to which the customer does not subscribe. 
+We conclude that this would not further the privacy goals that Congress 
+sought to achieve in section 222. Over time, the total service approach 
+rewards successful carriers who offer integrated packages by enabling 
+marketing in more than one category but in a manner that respects 
+customer privacy.
+    18. GTE requests, in the alternative, that the Commission adopt a 
+rule that permits the use of CPNI for the limited purpose of 
+identifying customers from whom it would like to solicit express, 
+affirmative approval to use their CPNI for marketing out-of-category 
+services. We conclude that such use of CPNI is implicit in section 
+222(c)(1) because the solicitation of approval is a logical 
+prerequisite to actually obtaining approval. The carrier's use of CPNI 
+under these limited circumstances, therefore, is merely a part of the 
+process of obtaining approval. Thus, the use of CPNI for solicitations 
+of approval to use CPNI to market services outside the bounds of the 
+existing customer-carrier relationship necessarily falls under the 
+customer approval exception stated in section 222(c)(1).
+    19. NTCA urges us to reconsider the total service approach because 
+it is particularly disadvantageous to small, rural LECs looking to 
+launch new service offerings. We addressed and rejected this argument 
+in the CPNI Order. NTCA has presented no new evidence to persuade us 
+that its members are disproportionately affected in any cognizable way 
+by these requirements.
+3. Petitions for Forbearance
+    20. Alternatively, GTE and Ameritech seek forbearance from the 
+application of the total service approach to the marketing of out-of-
+category packages or service enhancements to customers. After careful 
+review, we believe the forbearance test is not met. Forbearance
+
+[[Page 53246]]
+
+under section 10 of the Act is required where:
+    (1) Enforcement of such regulation or provision is not necessary to 
+ensure that the charges, practices, classifications, or regulations by, 
+for, or in connection with that telecommunications carrier or 
+telecommunications service are just and reasonable and are not unjustly 
+or unreasonably discriminatory;
+    (2) Enforcement of such regulation or provision is not necessary 
+for the protection of consumers; and
+    (3) Forbearance from applying such provision or regulation is 
+consistent with the public interest.
+    Section 10(b) provides that, in making the determination whether 
+forbearance is consistent with the public interest, the Commission must 
+consider whether forbearance will promote competitive market 
+conditions, including the extent to which forbearance will enhance 
+competition among providers of telecommunications services.
+    21. Section 10(a)(1). GTE and Ameritech assert that the ability to 
+offer service packages will not result in unreasonable or 
+discriminatory rates.
+    22. The primary focus of the CPNI rules is not, nor ever has been, 
+intended to ensure reasonable rates or practices. Therefore, we 
+determine that enforcement of the total service approach is not 
+necessary to ensure that the charges, practices, classifications, or 
+regulations are just and reasonable and are not unjustly or 
+unreasonably discriminatory.
+    23. Section 10(a)(2). GTE asserts that prohibiting the use of CPNI 
+without approval to market package enhancements is not necessary to 
+protect consumers. Ameritech believes CPNI protection is not necessary 
+where, like here, the use is consistent with customer expectations.
+    24. We conclude that the second criterion for forbearance is not 
+met because customers' privacy interests would not be adequately 
+protected absent the total service approach. GTE and Ameritech would 
+have us forbear from enforcing the total service approach when consumer 
+protection is a primary concern of section 222. Specifically, the 
+customer approval process for the use of CPNI is necessary to protects 
+customers' privacy expectations because, as stated in the CPNI Order, 
+we do not believe that we can properly infer that a customer's decision 
+to purchase one type of service offering constitutes approval for a 
+carrier to use CPNI to market other service offerings to which the 
+customer does not subscribe. Nor are we aware of any other law, 
+regulation, agency or state requirement that would substitute for the 
+effectiveness of our approach. The total service approach protects 
+customer privacy expectations by placing the control over the approval 
+process in the hands of the customer. The total service approach also 
+protects customers in many instances where they would not realize 
+potentially sensitive, personal information had been accessed or used. 
+The GTE and Ameritech approaches lack this crucial element of consumer 
+protection.
+    25. Section 10(a)(3). GTE believes forbearance is in the public 
+interest because of the reduction in carriers' administrative costs to 
+communicate with customers where a carrier can use CPNI to market 
+across service categories without the need for customer approval.
+    26. We find that forbearance would not be in the public interest. 
+The privacy goals of the statute are not met where carriers can use 
+CPNI without customer approval to sell products and services outside 
+the existing customer-carrier relationship. Although reducing the 
+administrative costs to carriers may assist these companies in 
+competing with other carriers, we find that any potential benefit is 
+outweighed by the need to protect customer privacy. Customers who are 
+interested in obtaining more information can arrange to do so easily by 
+granting consent for their carriers' use of CPNI.
+    27. Pursuant to section 10(b) of the Act, we have evaluated whether 
+forbearance from the total service approach will promote competitive 
+market conditions, including the extent to which forbearance will 
+enhance competition among providers of telecommunications services. We 
+agree that, as a general matter, reducing carriers' administrative and 
+regulatory costs promotes competitive market conditions and would 
+improve the ability of new entrants to introduce new, improved 
+combinations of competitive services and products. However, we are 
+concerned that the GTE and Ameritech proposals, which eliminate the 
+boundaries we have established for the use of CPNI, may unreasonably 
+deprive other telecommunications carriers the opportunity to compete 
+for a customer's business. The ability to use CPNI from an existing 
+service relationship to market new services to a customer bestows an 
+enormous competitive advantage on those carriers that currently have a 
+service relationship with customers, particularly incumbent exchange 
+carriers and interexchange carriers with a large existing customer 
+base. This, in turn, poses a significant risk to the development of 
+competition. For this reason, as well, we cannot find that forbearance 
+is in the public interest.
+4. Requests for Clarification
+    28. Several petitioners request clarification of aspects of the 
+total service approach and its application in specific contexts. We 
+address these requests.
+    a. Multiple Lines and Carriers. 29. MCI requests clarification as 
+to whether the total service approach should be applied on a subscriber 
+line-by-line basis or to the subscriber's services overall. MCI poses a 
+second, related question, whether a customer can have more than one 
+carrier in any given service category, thus allowing both carriers to 
+market other services in the same category to that customer.
+    30. We believe that the total service approach applies to the 
+customer's total telecommunications service subscription, and proper 
+use of CPNI is not necessarily limited to the line from which it was 
+derived. Section 64.2005(a) of our rules permits a telecommunications 
+carrier to use CPNI for the purpose of marketing service offerings 
+among the categories of service already subscribed to by the customer 
+from the same carrier. Although MCI proposes to use CPNI from one line 
+to market to another line of the same customer, the use of CPNI is 
+permissible because it remains within the category of service. As to 
+MCI's second question, we do not limit a customer's choice to select 
+more than one carrier in a given service category. For the same reasons 
+cited above, where the use of CPNI remains within a service category, a 
+carrier is able to market that same service to the customer without the 
+need for express customer approval. In this manner, a carrier's attempt 
+to garner more of the customer's business is pro-competitive and does 
+not impinge on a customer's privacy.
+    b. Codification of Service Categories. 31. MCI and CommNet request 
+that the Commission explicitly state that all telecommunications 
+services fall within three groupings--local, interLATA, and CMRS.
+    32. We decline to do so because it would have the effect of 
+grafting onto the total service approach one of the critical flaws of 
+the so-called ``three category'' approach. As explained in greater 
+detail in the CPNI Order, the three category approach parsed 
+telecommunications services into the three traditional service 
+distinctions--local, interLATA, and CMRS. Given the dynamic nature of 
+the telecommunications industry, we can not assume that all services 
+necessarily fall into such categories. We believe the
+
+[[Page 53247]]
+
+total service approach is sufficiently flexible to incorporate new and 
+different categories without periodic reviews to ascertain whether 
+changes in the competitive environment should translate into changes in 
+service categories. Rather, it is unnecessary to modify the total 
+service approach in this regard or to further codify the three service 
+categories in the rules.
+    c. Use of CPNI to Market Paging.
+    33. In the CPNI Order, the Commission determined that CMRS should 
+be viewed in the entirety, when considering the ``total service 
+approach.'' CommNet urges the Commission to revise its rules to make it 
+clear that the service categories to which the ``total service'' 
+relationship applies are only local exchange service, interexchange 
+service, and CMRS, so that a paging carrier could use CPNI to market 
+cellular service and vice versa. 
+U S WEST objects on the grounds that the language of the current rule 
+was taken directly from the statute and that the categories may blur 
+over time and may disappear as customers migrate to single source 
+providers.
+    34. We find that our rules are clear that under the total service 
+approach, a CMRS carrier may use CPNI to market any CMRS service, 
+including paging and cellular service. Therefore, no revision of the 
+rules is required.
+    d. IntraLATA Toll Services. 35. In the CPNI Order, the Commission 
+concluded that insofar as both local exchange carriers and 
+interexchange carriers currently provide short-haul toll, it should be 
+considered part of both local and long-distance service. We further 
+concluded that permitting short-haul toll to ``float'' between 
+categories would not confer a competitive advantage upon either 
+interexchange or local exchange carriers. MCI concludes that the 
+provision of short-haul toll may only be considered part of carrier's 
+``primary service category'' and requests that we make such a 
+clarification.
+    36. We agree with MCI that our prior conclusion requires 
+clarification. MCI argues that if a local exchange carrier is providing 
+local service, then it may use a customer's local service CPNI to 
+market intraLATA toll to that customer, and vice-versa, and if an 
+interexchange carrier is providing long distance service to a customer, 
+then it may use that customer's long distance CPNI to market intraLATA 
+toll to him or her, and vice versa. We conclude that short-haul toll 
+shall be considered as falling within the category of service the 
+carrier is already providing to the customer. Long distance carriers 
+providing intraLATA toll service, however, need obtain customer 
+approval to use intraLATA toll CPNI to market local service. Likewise, 
+local exchange carriers would need customer approval to use intraLATA 
+toll CPNI to market interLATA long distance service. In this way, the 
+rule is fair to both interexchange and local exchange carriers and 
+treats them symmetrically.
+
+B. Use of CPNI to Market Customer Premises Equipment and Information 
+Services
+
+1. Background
+    37. Section 222(c)(1) states that, ``[e]xcept as required by law or 
+with the approval of the customer, a telecommunications carrier that 
+receives or obtains [CPNI] by virtue of its provision of a 
+telecommunications service shall only use, disclose, or permit access 
+to individually identifiable [CPNI] in its provision of (A) the 
+telecommunications service from which such information is derived, or 
+(B) services necessary to, or used in, the provision of such 
+telecommunications service, including the publishing of directories.'' 
+In the CPNI Order, we concluded that Congress intended that section 
+222(c)(1)(A) govern carriers' use of CPNI for providing 
+telecommunications services and that section 222(c)(1)(B) governs 
+carriers' use of CPNI for non-telecommunications services. Based upon 
+the language of section 222(c)(1), we further concluded that: (1) 
+inside wiring, CPE, and certain information services do not fall within 
+the scope of section 222(c)(1)(A) because they are not 
+``telecommunications services''; and (2) CPE and most information 
+services do not fall under section 222(c)(1)(B) because they are not 
+``services necessary to, or used in, the provision of such 
+telecommunications service.'' We now find that the phrase ``services 
+necessary to, or used in, the provision of such telecommunications 
+service'' should be given a broader reading than the one given in the 
+CPNI Order. The record produced on reconsideration persuades us that a 
+different statutory interpretation is permissible, and importantly, 
+would lead to appropriate policy results consistent with the statutory 
+goals. Therefore, we conclude that section 222(c)(1)(B) allows carriers 
+to use CPNI, without customer approval, to separately market CPE and 
+many information services to their customers. We further clarify that 
+the tuning and retuning of CMRS units and repair and maintenance of 
+such units is a service necessary to or used in the provision of CMRS 
+service under section 222(c)(1)(B). Finally, we deny petitioners' 
+requests that we forbear from applying these restrictions for related 
+CPE and information services.
+2. Petitions for Reconsideration
+    38. Customer Premises Equipment and Information Services under 
+Section 222(c)(1). We grant the petitions for reconsideration that 
+argue that CPE and certain information services are ``necessary to, or 
+used in, the provision of'' telecommunications services, and therefore 
+use of CPNI derived from the provision of a telecommunications service, 
+without customer approval, to market CPE and information services would 
+be permitted under section 222(c)(1)(B). Under our previous 
+interpretation, the exception was narrowly construed, resulting in very 
+few services for which CPNI could be shared. Indeed, we rejected all 
+CPE because it was not a ``service'' and most information services 
+because they were not necessary to or used in the carrier's provision 
+of the telecommunications service. While this interpretation is not 
+inconsistent with the statutory language, we are persuaded that the 
+better interpretation is that the exception includes certain products 
+and services provisioned by the carrier with the underlying 
+telecommunications service to comprise the customer's total service. 
+This is because those related services and products facilitate the 
+underlying telecommunications service and customers expect that they 
+will be used in the provisioning of that service offering. Our new 
+interpretation accords with the Commission's stated intention in the 
+CPNI Order to revisit and if necessary revise its conclusions regarding 
+customer expectations as those expectations changed in the marketplace 
+with advancements in technology or as new evidence of the evolution of 
+customer expectations becomes available to the Commission. Such 
+evidence has now been made available to us by the record developed on 
+reconsideration.
+    39. When evaluated as a whole, the exception can be reasonably 
+interpreted to include those products used in the provision of 
+telecommunications, including directories and CPE. First, we find 
+statutory support for this interpretation through the only example 
+Congress included in the exception--the publishing of directories. As 
+described in the CPNI Order, directories are ``necessary to and used 
+in'' the provision of service because without access to phone numbers, 
+customers cannot complete calls. A directory is not a ``service,'' but 
+rather, like CPE, is a product. Consistent with the statutory 
+exception, however, the ``publishing'' of the directory is a service--
+the service by
+
+[[Page 53248]]
+
+which the carrier provisions the product necessary to, or used in, the 
+customer's telecommunications service. Thus, Congress' publishing of 
+directories example supports including those products as well as 
+services provisioned by the carrier that are used in and necessary to 
+the customer's telecommunications service. We believe that our previous 
+interpretation construed the term ``services'' in isolation from the 
+phrase ``necessary to, or used in.'' While it is obvious that CPE 
+itself is not a service, the provision of CPE is a service that is 
+necessary to, or used in the provision of the underlying 
+telecommunications service. Customers cannot make, or complete, calls 
+without CPE. This is consistent with Congress' example of the 
+publishing of directories in section 222. Therefore, this finding 
+concerning CPE is limited to section 222. Also, the CPE that is 
+included in this exception is limited to CPE that is used in the 
+provision of the telecommunications service from which the CPNI is 
+derived.
+    40. Second, our broader statutory interpretation appropriately 
+protects the customer's reasonable expectations of privacy in 
+connection with CPNI, which many petitioners argue is the appropriate 
+test for determining the limitations on the use of CPNI without a 
+customer's approval. We are persuaded that CPE and many information 
+services properly come within the meaning of section 222(c)(1)(B).
+    41. In the wireless context, our regulation of CMRS providers and 
+the history of the industry has allowed the development of bundles of 
+CPE and information services with the underlying telecommunications 
+service. Thus, information services and CPE offered in connection with 
+CMRS are directly associated and developed together with the service 
+itself. Indeed, we are persuaded by the record and our observations of 
+the development of the CMRS market generally that the information 
+services and CPE associated with CMRS are reasonably understood by 
+customers as within the existing service relationship with the CMRS 
+provider. Customers expect to have CPE and information services 
+marketed to them along with their CMRS service by their CMRS provider. 
+Accordingly, we conclude that such CPE and information services come 
+within the meaning of ``necessary to, or used in,'' the provision of 
+service. In the CMRS context, carriers should be permitted to use CPNI, 
+without customer approval, to market information services and CPE to 
+their CMRS customers.
+    42. The wireline industry has developed somewhat differently from 
+CMRS and, while the analysis is the same, the results concerning how 
+carriers may use CPNI accordingly differ from the wireless industry. No 
+evidence has been produced on the record which shows that allowing 
+wireline carriers to market CPE to their customers, using CPNI without 
+customer consent, violates customers' expectations. We are convinced 
+that such usage by carriers would be beneficial to customers as new and 
+advanced products develop. Therefore, wireline carriers should be 
+permitted to use CPNI, without customer approval, to market CPE to 
+their customers.
+    43. Within the broader reading of the statute, we find that certain 
+wireline information services should also be considered necessary to, 
+or used in, the provision of the underlying telecommunications service. 
+In the CPNI Order, the Commission listed several information services 
+that it believed should not be considered necessary to, or used in, the 
+underlying telecommunications service: call answering, voice mail or 
+messaging, voice storage and retrieval services, and fax storage and 
+retrieval services. Applying the broader reading of the statute, along 
+with the new evidence on the record, we now believe that all of these 
+services should be considered necessary to, or used in, the provision 
+of the underlying telecommunications service because customers have 
+come to depend on these services to help them make or complete calls. 
+The record indicates that customers have come to expect that their 
+service provider can and will offer these services along with the 
+underlying telecommunications service. Therefore, carriers may use 
+CPNI, without customer approval, to market call answering, voice mail 
+or messaging, voice storage and retrieval services, and fax storage and 
+retrieval services.
+    44. We continue to exclude from this list, as the Commission did in 
+the CPNI Order, Internet access services. There is no convincing new 
+evidence on the record that shows that such services are necessary to, 
+or used in, the making of a call, even in the broadest sense. There is 
+also no evidence, currently, that customers expect to receive such 
+services from their wireline provider, or that they expect to use such 
+services in the way that they expect to receive or use the above-listed 
+services.
+    45. We will, however, add protocol conversions to the list of 
+services that carriers may market using CPNI without customer approval. 
+In its petition, Bell Atlantic requests that we redefine protocol 
+conversion as a telecommunications service. Bell Atlantic asserts that 
+protocol conversions that do not alter the underlying information sent 
+and received should not be defined as information services. We do not 
+believe that protocol conversions should be redefined as a 
+telecommunications service but because protocol conversions are 
+necessary to the provision of the telecommunications service, in the 
+instances where they are used, protocol conversions should be included 
+in the group of information services listed above. Accordingly, we 
+grant Bell Atlantic's request to use CPNI to market, without customer 
+approval, protocol conversions.
+3. Petitions for Forbearance
+    a. Introduction. 46. In the alternative, many parties urge the 
+Commission to forbear from prohibiting CMRS providers and wireline 
+carriers from using CPNI to market CPE and/or information services 
+without customer approval. As we described in detail, section 10 of the 
+Act requires the Commission to forbear from regulation when: (1) 
+enforcement is not necessary to ensure that the carrier's charges and 
+practices are just and reasonable; (2) enforcement is not necessary for 
+the protection of consumers; and (3) forbearance is consistent with the 
+public interest.
+    b. CMRS Providers. 47. In the preceding section, we granted the 
+petitions for reconsideration to allow CMRS providers to use CPNI, 
+without customer approval, to market CPE and information services to 
+their customers. Therefore, we deny as moot the petitions for 
+forbearance from section 222's prohibition against CMRS providers using 
+CPNI to market, without customer approval, CPE and information 
+services.
+    c. Wireline Carriers. 48. In the preceding section, we granted the 
+petitions for reconsideration to allow wireline carriers to use CPNI, 
+without customer approval, to market CPE and some information services 
+to their customers. Therefore, we deny as moot the petitions requesting 
+that we forbear from enforcing section 222's prohibition against 
+wireline carriers to use CPNI to market CPE and information services 
+such as call answering, voice mail or messaging, voice storage and 
+retrieval services, fax storage and retrieval services, and protocol 
+conversions. Bell Atlantic has requested that we forbear from enforcing 
+section 222's prohibition against using CPNI without prior customer 
+consent to market all
+
+[[Page 53249]]
+
+information services. We deny this request.
+    49. Section 10(a)(1). The primary focus of the CPNI rules is not, 
+nor ever has been, intended to ensure reasonable rates or practices. 
+Therefore, we determine that enforcement of the restrictions on the use 
+of CPNI to market those information services that are not ``necessary 
+to, or used in, the provision of'' telecommunications services are not 
+necessary to ensure that the charges, practices, classifications, or 
+regulations are just and reasonable and are not unjustly or 
+unreasonably discriminatory.
+    50. Section 10(a)(2). We are unable to conclude that forbearing 
+from enforcement of restrictions on the use of CPNI for marketing all 
+information services would satisfy the second criterion. We note, 
+however, that the ``integrated'' services that Bell Atlantic identifies 
+include the information services which we have found above to be 
+necessary to, or used in, the provision of the underlying 
+telecommunications service. We have, on reconsideration, identified 
+those types of information services for which our broader 
+interpretation of section 222(c)(1)(B) is more in line with customer 
+expectations and congressional intent. For these services, forbearance 
+is not necessary. With regard to other information services such as 
+Internet access, we find that enforcing section 222(c)(1)(B) is still 
+necessary to protect consumers. Requiring prior consent protects 
+customers in many instances where they would not realize potentially 
+sensitive, personal information had been accessed or used. As noted 
+above, there is no evidence, currently, that customers expect to 
+receive such services from their wireline provider, or that they expect 
+to use such services in the way that they expect to receive or use more 
+integrated services. Nor are we aware of any other law, regulation, 
+agency or state requirement that would substitute for the effectiveness 
+of a prior consent requirement, which protects customer privacy 
+expectations by placing the control over the use of CPNI for purposes 
+of marketing non-integrated information services in the hands of the 
+customer.
+    51. Section 10(a)(3). We concluded in the CPNI Order, however, that 
+``[u]nlike the Commission's pre-existing policies under Computer III, 
+which were largely intended to address competitive concerns, section 
+222 of the Act explicitly directs a greater focus on protecting 
+customer privacy and control.'' We further concluded that ``[t]his new 
+focus embodied in section 222 evinces Congress' intent to strike a 
+balance between competitive and customer privacy interests different 
+from that which existed prior to the 1996 Act, and thus supports a more 
+rigorous approval standard for carrier use of CPNI than in the prior 
+Commission Computer III framework.'' More specifically, we concluded 
+that an opt-out scheme does not provide any assurance that consent for 
+the use of a customer's CPNI would be informed, and found that opt-out 
+does not adequately protect customer privacy interests. Bell Atlantic, 
+therefore, is incorrect in its assertion that our conclusions in 
+Computer III dictate our findings relating to the public interest. We 
+also conclude that the record on forbearance suggested here does not 
+convince us that the privacy goals of the statute are met where 
+carriers can use CPNI without express customer approval to sell 
+services outside the existing customer-carrier relationship. We 
+accordingly find that Bell Atlantic's request for forbearance of 
+section 222's affirmative approval requirement is generally 
+inconsistent with the public interest. Customers who are interested in 
+obtaining more information can arrange to do so easily by granting 
+consent for their carriers' use of CPNI. We have found no public 
+interest benefits that would outweigh these concerns.
+    52. Pursuant to section 10(b) of the Act, we have evaluated whether 
+forbearance from the prior consent requirement will promote competitive 
+market conditions, including the extent to which forbearance will 
+enhance competition among providers of telecommunications services. As 
+we concluded above, the ability to use CPNI from an existing service 
+relationship to market new services to a customer bestows an enormous 
+competitive advantage for those carriers that currently have a service 
+relationship with customers, particularly incumbent exchange carriers 
+and interexchange carriers with a large existing customer base. This, 
+in turn, poses a significant risk to the development of competition. 
+Therefore, to the extent that Bell Atlantic is requesting forbearance 
+from section 222's restrictions on the use of CPNI to market Internet 
+access service, we find that such forbearance would neither promote 
+competition nor enhance competition among telecommunications service 
+providers. For instance, we recently stated that, although many 
+Internet service providers (ISPs) ``compete against one another, each 
+ISP must obtain the underlying basic services from the incumbent local 
+exchange carrier, often still a BOC, to reach its customers.'' Because 
+of the competitive advantage that many BOCs retain, we concluded that 
+we would not remove certain safeguards designed to protect against BOC 
+discrimination despite the competitive ISP marketplace. We reach a 
+similar conclusion here: giving wireline carriers, particularly ILECs, 
+the right to use CPNI without affirmative customer approval to market 
+Internet access services could damage the competitive Internet access 
+services market at this point in time. Accordingly, we deny Bell 
+Atlantic's petition for forbearance on this issue.
+    d. Forbearance from all CPNI Rules for CMRS Providers. 53. A few 
+parties urge the Commission to forbear from imposing any CPNI 
+obligations on CMRS providers. Forbearance from enforcing all CPNI 
+rules against CMRS carriers, according to one petitioner, will permit 
+many beneficial and pro-competitive marketing practices to continue. 
+The Commission must forbear from enforcing its rules or any statutory 
+provision where the criteria of the forbearance test, set out in Part 
+V.A.3 are satisfied. We deny this request.
+    54. Section 10(a)(1). As we have previously stated, the primary 
+focus of the CPNI rules is not, nor ever has been, intended to ensure 
+reasonable rates or practices. Therefore, we determine that enforcement 
+of the CPNI rules for CMRS carriers is not necessary to ensure that the 
+charges, practices, classifications, or regulations are just and 
+reasonable and are not unjustly or unreasonably discriminatory.
+    55. Section 10(a)(2). We are unable to find that CMRS customers' 
+privacy interests would be adequately protected absent section 222 and 
+the rules promulgated in this proceeding. We are concerned, for 
+example, that customers would be harmed by elimination of the 
+restriction on carriers' use of CPNI to identify or track customers who 
+call competing service providers contained in section 64.2005(b)(1) of 
+our rules. Section 222 and our implementing rules protect customers in 
+many instances where they would not realize potentially sensitive, 
+personal information had been accessed or used. Moreover, we would be 
+remiss in our duty under the statute if we created an environment in 
+which CMRS customers' only recourse was to switch carriers after 
+discovering that their CPNI had been used without authorization. Nor 
+are we aware of any other law, regulation, agency or state requirement 
+that would substitute for the effectiveness of our rules implementing 
+section 222. Consequently, the second
+
+[[Page 53250]]
+
+criterion for forbearance has not been met.
+    56. Section 10(a)(3). We do not find that forbearance from section 
+222 and our CPNI rules for all CMRS providers is consistent with the 
+public interest. Complete forbearance would eliminate section 222's 
+procedures for the protection of both customers and carriers, such as 
+the process for transferring CPNI from a former carrier to a new 
+carrier pursuant to a customer's written request and the obligation to 
+protect carrier proprietary information. Pursuant to section 10(b) of 
+the Act, we have evaluated whether forbearance from section 222 for 
+CMRS carriers will promote competitive market conditions, including the 
+extent to which forbearance will enhance competition among providers of 
+telecommunications services. On balance, we find that forbearance from 
+the full range of CPNI protections would undermine consumer privacy to 
+an extent that outweighs the potential benefits demonstrated on the 
+record in terms of carrier cost savings. Therefore, we conclude that 
+there is insufficient basis for a public interest finding under the 
+third criterion.
+
+C. Use of CPNI to Market to Former and ``Soon-to-be Former'' Customers
+
+1. Background
+    57. The CPNI Order adopted section 64.2005(b)(3) to prohibit a 
+carrier from using or accessing CPNI to regain the business of a 
+customer who has switched to another provider. The Commission decided 
+as a matter of statutory interpretation that once a customer terminates 
+service from a carrier, CPNI derived from the previously subscribed 
+service may not be used to retain or regain that customer. 
+Specifically, the Commission foreclosed the use of CPNI for customer 
+retention purposes under section 222(c)(1) because it felt such use was 
+not carried out in the ``provision of'' service, but rather, for the 
+purpose of retaining a customer that has already taken steps to change 
+its provider. The CPNI Order also precluded the use of CPNI under 
+section 222(d)(1), insofar as such use would be undertaken to market a 
+service, rather than to ``initiate'' a service within the meaning of 
+that provision.
+    58. A significant majority of the petitioners have requested that 
+the Commission reconsider or forbear from the restrictions of section 
+64.2005(b)(3), which has been referred to as the ``winback'' 
+prohibitions.
+2. ``Winback''
+    a. Discussion. 59. Petitioners challenge the winback restrictions 
+on a variety of grounds. On reconsideration, we conclude that all 
+carriers should be able to use CPNI to engage in winback marketing 
+campaigns to target valued former customers that have switched to other 
+carriers. After reviewing the fuller record on this issue developed on 
+reconsideration, we are persuaded that winback campaigns are consistent 
+with section 222(c)(1) and in most instances facilitate and foster 
+competition among carriers, benefiting customers without unduly 
+impinging upon their privacy rights. Accordingly, we reverse our 
+position and eliminate rule 64.2005(b)(3).
+    60. On reconsideration, we believe that section 222(c)(1)(A) is 
+properly construed to allow carriers to use CPNI to regain customers 
+who have switched to another carrier. While section 222(c)(1) is 
+susceptible to different interpretations, we now think that the better 
+reading of this language permits use of CPNI of former customers to 
+market the same category of service from which CPNI was obtained to 
+that former customer. We agree with those petitioners who argue that 
+the use of CPNI in this manner is consistent with both the language and 
+the goals of the statute. Section 222(c)(1)(A) permits the use of CPNI 
+in connection with the ``provision of the telecommunications service 
+from which the information is derived.'' The marketing of service 
+offerings within a given presubscribed telecommunications service is 
+encompassed within the ``provision of'' that service. In developing the 
+total service approach, the Commission recognized that marketing is 
+implicit in the term ``provision'' as used in section 222(c)(1). The 
+CPNI Order stated that ``we believe that the best interpretation of 
+section 222(c)(1) is the total service approach, which affords carriers 
+the right to use or disclose CPNI for, among other things, marketing 
+related offerings within customers' existing service for their benefit 
+and convenience.'' While we recognize that this discussion in the CPNI 
+Order also referred to the customer's ``existing'' service, we now 
+conclude upon further reflection that our focus should not be so 
+limited. Common sense tells us that customers are aware of and expect 
+that their former carrier has information about the services to which 
+they formerly subscribed. Businesses do not customarily purge their 
+records of a customer when that customer leaves. We therefore disagree 
+with the assertion that extending winback marketing for the same 
+service to a former customer is an indefensible stretch of the total 
+service approach.
+    61. Because customer expectations form the basis of the total 
+service approach, they properly influence our understanding of the 
+statute, a goal of which is to balance competitive concerns with those 
+of customer privacy. Customers expect carriers to attempt to win back 
+their business by offering better-tailored service packages, and that 
+such precise tailoring is most effectively achieved through the use of 
+CPNI. Winback restrictions may deprive customers of the benefits of a 
+competitive market. Winback facilitates direct competition on price and 
+other terms, for example, by encouraging carriers to ``out bid'' each 
+other for a customer's business, enabling the customer to select the 
+carrier that best suits the customer's needs.
+    62. Some commenters argue that ILECs should be restricted from 
+engaging in winback campaigns, as a matter of policy, because of the 
+ILECs' unique historic position as regulated monopolies. We believe 
+that such action by an ILEC is a significant concern during the time 
+subsequent to the customer's placement of an order to change carriers 
+and prior to the change actually taking place. Therefore, we have 
+addressed that situation at Part V.C.3. However, once a customer is no 
+longer obtaining service from the ILEC, the ILEC must compete with the 
+new service provider to obtain the customer's business. We believe that 
+such competition is in the best interest of the customer and see no 
+reason to prohibit ILECs from taking part in this practice.
+    63. We are also unpersuaded by the allegations that an incumbent 
+carrier's use of CPNI in winback campaigns amounts to a predatory 
+practice designed to prevent effective market entry by new competitors. 
+Contrary to the commenters' suggestions, we believe such use of CPNI is 
+neither a per se violation of section 201 of the Communications Act, as 
+amended, nor the antitrust laws. Prior to the adoption of the rules 
+promulgated under 1996 Act, incumbent carriers were able to use CPNI to 
+regain customers lost to competitors. Assuming incumbent LECs have 
+sufficient market power to engage in predatory strategies, they are 
+constrained in their ability to raise and lower prices by our tariff 
+rules and non-discrimination requirements. Because winback campaigns 
+can promote competition and result in lower prices to consumers, we 
+will not condemn such practices absent a showing that they are truly 
+predatory.
+
+[[Page 53251]]
+
+    64. Thus, we conclude that the statute permits a carrier evaluating 
+whether to launch a winback campaign to use CPNI to target valued 
+former customers who have switched service providers.
+    65. An important limitation derived from the statutory language is 
+that the carrier may use CPNI of the former customer to offer that 
+customer the service or services to which the customer previously 
+subscribed. It would be inconsistent with the total service approach 
+for a carrier to use such CPNI to offer new services outside the former 
+customer-carrier relationship.
+    66. Some petitioners assert that winback is permissible under the 
+exceptions enumerated in Section 222(d)(1) that allow the use of CPNI 
+without customer approval to ``render'' or ``initiate'' service. Based 
+upon our decision that the use of CPNI to winback customers is 
+consistent with section 222(c)(1), we decline to reach these arguments. 
+Similarly, we need not address arguments concerning the 
+constitutionality of, propriety under the APA, and forbearance from, 
+the former rule. Consequently, we eliminate Sec. 64.2005(b)(3). We 
+therefore do not need to reach the clarification petitions submitted on 
+the former rule.
+3. Retention of Customers
+    a. Background. 67. As noted above, the CPNI Order also prohibited a 
+carrier's access to or the use of the CPNI of a ``soon-to-be-former'' 
+customer to market the same services to retain that customer. The CPNI 
+Order did not distinguish between marketing for the purpose of 
+retaining customers versus regaining them. As explained above, on 
+reconsideration, we believe that use of CPNI to regain former customers 
+falls within the ambit of section 222(c)(1). We conclude here that use 
+of CPNI to retain customers ordinarily does not come under section 
+222(c)(1), and in such instances would likely violate section 222(b).
+    b. Discussion. 68. We conclude that section 222 does not allow 
+carriers to use CPNI to retain soon-to-be former customers where the 
+carrier gained notice of a customer's imminent cancellation of service 
+through the provision of carrier-to-carrier service. We conclude that 
+competition is harmed if any carrier uses carrier-to-carrier 
+information, such as switch or PIC orders, to trigger retention 
+marketing campaigns, and consequently prohibit such actions 
+accordingly.
+    69. The Commission previously determined that carrier change 
+information is carrier proprietary information under section 222(b). In 
+the Slamming Order, 64 FR 9219, February 24, 1999, the Commission 
+stated that pursuant to section 222(b), the carrier executing a change 
+``is prohibited from using such information to attempt to change the 
+subscriber's decision to switch to another carrier.'' Thus, where a 
+carrier exploits advance notice of a customer change by virtue of its 
+status as the underlying network-facilities or service provider to 
+market to that customer, it does so in violation of section 222(b). We 
+concede that in the short term this prohibition falls squarely on the 
+shoulders of the BOCs and other ILECs as a practical matter. As 
+competition grows, and the number of facilities-based local exchange 
+providers increases, other entities will be restricted from this 
+practice as well.
+    70. We agree that section 222(b) is not violated if the carrier has 
+independently learned from its retail operations that a customer is 
+switching to another carrier; in that case, the carrier is free to use 
+CPNI to persuade the customer to stay, consistent with the limitations 
+set forth in the preceding section. We thus distinguish between the 
+``wholesale'' and the ``retail'' services of a carrier. If the 
+information about a customer switch were to come through independent, 
+retail means, then a carrier would be free to launch a ``retention'' 
+campaign under the implied consent conferred by section 222(c)(1).
+    c. Petitions for Forbearance. 71. A number of petitioners seek 
+forbearance from restrictions that limit the ability of a carrier to 
+retain a soon-to-be former customer who has indicated an intent to 
+switch carriers. Petitioners request forbearance from the application 
+of rules prohibiting retention marketing, however, as part of their 
+overall requests that the Commission forbear from applying winback 
+restrictions generally. Because the Commission has revised its 
+interpretation and eliminated rule 64.2005(b)(3), that portion of their 
+petitions is moot.
+    72. Section 10 of the Act requires the Commission to forbear from 
+regulation when: (1) enforcement is not necessary to ensure that the 
+carrier's charges and practices are just and reasonable; (2) 
+enforcement is not necessary for the protection of consumers; and (3) 
+forbearance is consistent with the public interest. For the reasons 
+discussed below, we conclude the forbearance standard has not been met 
+to the extent that carriers would seek to use CPNI to regain a soon-to-
+be former customer, precipitated by the receipt of a carrier-to-carrier 
+order.
+    73. Section 10(a)(1). Petitioners assert that limiting the use of 
+CPNI in retention efforts is not necessary to ensure just, reasonable, 
+and nondiscriminatory rates.
+    74. We agree that the primary focus of the CPNI rules is not, nor 
+ever has been, intended to ensure reasonable rates or practices. 
+Therefore, we determine that enforcement of section 222's prohibition 
+against allowing a carrier to use proprietary information that it 
+receives by virtue of fulfilling carrier-to-carrier orders in a 
+``wholesale'' capacity is not necessary to ensure that the charges, 
+practices, classifications, or regulations are just and reasonable and 
+are not unjustly or unreasonably discriminatory.
+    75. Section 10(a)(2). Petitioners assert that retention 
+restrictions are not necessary to protect customers generally. Although 
+we agree that privacy concerns are not particularly jeopardized in 
+winback situations, generally, that does not mean that enforcement of 
+this restriction is unnecessary to protect customers. Rather, we 
+conclude that consumers' substantial interests in a competitive and 
+fair marketplace would be undermined if this restriction was not 
+enforced. Consequently, the second criterion is not satisfied.
+    76. Section 10(a)(3). Finally, petitioners contend that customer 
+retention is in the public interest. We are not persuaded, however, 
+that permitting carriers to unfairly use information that they obtain 
+in a ``wholesale'' capacity is in the public's interest. We conclude 
+that there is insufficient basis for a public interest finding in this 
+instance under the third criterion. Therefore, we deny the forbearance 
+petitions on this issue.
+
+D. Disclosure of CPNI to New Carriers When a Customer is ``Won''
+
+    77. In the CPNI Order we definitively concluded that the term 
+``initiate'' in section 222(d)(1) does not require that a customer's 
+CPNI be disclosed by a carrier to a competing carrier who has ``won'' 
+the customer as its own. We found that section 222(d)(1) applies only 
+to carriers already possessing the CPNI, within the context of the 
+existing service relationship, and not to any other carriers merely 
+seeking access to CPNI. We noted, however, that section 222(c)(1) does 
+not prohibit carriers from disclosing CPNI to competing carriers upon 
+customer approval. Accordingly, we reasoned that although an incumbent 
+carrier is not required to disclose CPNI pursuant to section 222(d)(1) 
+or section 222(c)(2) absent an affirmative written request, local 
+exchange carriers may need to disclose a customer's service record upon 
+oral approval of a customer to a competing
+
+[[Page 53252]]
+
+carrier prior to its commencement of service as part of a local 
+exchange carrier's section 251(c)(3) and (c)(4) obligations. In this 
+way, we concluded, section 222(c)(1) permits the sharing of customer 
+records necessary for the provisioning of service by a competitive 
+carrier. Finally, we also noted that a carrier's failure to disclose 
+CPNI to a competing carrier that seeks to initiate service to that 
+customer who wishes to subscribe to a competing carrier's service, may 
+well constitute an unreasonable practice in violation of section 
+201(b), depending on the circumstances.
+    78. We reject MCI's various requests for disclosure of CPNI by 
+former carriers, without customer approval, to new carriers to enable 
+the new carriers to initiate service. We deny MCI's petition in this 
+regard.
+    79. First, MCI and TRA ask that we find that section 222(d)(1) 
+allows ``one carrier to disclose CPNI to another to enable the latter 
+to initiate service without customer approval'' thereby reversing our 
+conclusion in the CPNI Order. Neither MCI nor TRA has presented any new 
+facts or arguments that the Commission did not fully consider in the 
+CPNI Order regarding the interpretation of section 222(d)(1). We 
+therefore deny MCI and TRA's request that we reverse this portion of 
+the CPNI Order.
+    80. Second, MCI also requests that the Commission, in any case, 
+find that section 222(c)(1) authorizes the disclosure of CPNI without 
+customer approval. We find that MCI's request is contrary to our 
+conclusion in the CPNI Order that the language of 222(c)(1)(A) reflects 
+Congress' judgment that customer approval for carriers to use, 
+disclose, and permit access to CPNI can be inferred in the context of 
+an existing customer relationship. We reasoned that such an inference 
+is appropriate because the customer is aware that his or her carrier 
+has access to CPNI, and, through subscription to the carrier's service, 
+has implicitly approved the carrier's use of CPNI within the existing 
+relationship. We are not persuaded that the disclosure of CPNI to a 
+different carrier to initiate service without customer approval for 
+that disclosure would be contemplated by a customer as a carrier's use 
+of his or her CPNI within the existing customer-carrier relationship. 
+As such, we deny MCI's request.
+    81. Third, MCI also asserts that sections 272, 201(b), and 202(a) 
+require BOCs and other ILECs that disclose CPNI to affiliates without 
+customer approval in order to initiate service to likewise disclose 
+CPNI to any other requesting carrier ``needing it to initiate service. 
+MCI has not provided any reasonable basis for altering these 
+conclusions. Further, we are not persuaded by MCI's unsupported request 
+that section 202(a) would require such relief. Accordingly, we deny 
+MCI's request.
+    82. Fourth, MCI further argues that if the Commission does not 
+grant any of the relief requested, then it should allow carriers to 
+notify customers that their failure to approve the disclosure of CPNI 
+to a new carrier may disrupt the installation of any new service they 
+may request. As MCI has not persuaded us, however, that a customer's 
+failure to approve such a disclosure may disrupt the installation of 
+service, we deny MCI's request.
+    83. Finally, MCI requests that the Commission ``reconfirm'' that 
+CPNI is an unbundled network element ``that BOCs and other ILECs must 
+provide to all requesting carriers under section 251(c)(3) of the 
+Act.'' This is not a fair characterization of the CPNI Order's 
+conclusion. Rather, the CPNI Order held that local exchange carriers 
+may need to disclose a customer's service record upon oral approval of 
+a customer to a competing carrier prior to its commencement of service 
+as part of a local exchange carrier's section 251(c)(3) and (c)(4) 
+obligations. This conclusion does not indicate, as MCI has implied, 
+that CPNI is an unbundled network element subject to section 
+251(c)(3)'s unbundling requirements separate from the Commission's 
+requirement that incumbent carriers provide unbundled access to 
+operations support systems and the information they contain. Therefore, 
+MCI incorrectly concludes that the CPNI Order found that CPNI is an 
+unbundled network element. In any case, the United States Supreme Court 
+recently concluded that the Commission's unbundling rule, Sec. 51.319 
+of the Commission's rules, should be vacated. As a result, the 
+Commission reopened CC Docket 96-98 to refresh the record on the issues 
+of (1) how, in light of the Supreme Court ruling, the Commission should 
+interpret the standards set forth in section 251(d)(2) of the 
+Telecommunications Act of 1996; and (2) which specific network elements 
+the Commission should require incumbent LECs to unbundle.
+
+VI. ``Approval'' Under Section 222(c)(1)
+
+A. Grandfathering Pre-existing Notifications
+
+    84. On May 21, 1998, the Common Carrier Bureau released the 
+Clarification Order clarifying several issues in the CPNI Order. Among 
+other things, the Clarification Order made it clear that carriers that 
+have complied with the Computer III notification and prior written 
+approval requirements in order to market enhanced services to business 
+customers with more than 20 access lines are also in compliance with 
+section 222 and the Commission's rules. CompTel and LCI request that 
+the Commission reverse the Clarification Order's conclusion. We decline 
+to do so for the reasons discussed below and, in fact, hereby adopt the 
+Clarification Order.
+    85. As discussed in the Clarification Order, the framework 
+established under the Commission's Computer III regime, prior to the 
+adoption of section 222, governed the use of CPNI by the BOCs, AT&T, 
+and GTE to market CPE and enhanced services. Under this framework, 
+those carriers were obligated to: (1) provide an annual notification of 
+CPNI rights to multi-line customers regarding enhanced services, as 
+well as a similar notification requirement that applied only to the 
+BOCs regarding CPE; and (2) obtain prior written authorization from 
+business customers with more than 20 access lines to use CPNI to market 
+enhanced services. The CPNI Order, however, replaced the Computer III 
+CPNI framework in all material respects. In its place, the CPNI Order 
+established requirements compelling carriers to provide customers with 
+specific one-time notifications prior and proximate to soliciting 
+express written, oral, or electronic approval for CPNI uses beyond 
+those set forth in sections 222(c)(1)(A) and (B). The CPNI Order 
+further established an express approval mechanism for such 
+solicitations as it is the ``best means to implement this provision 
+because it will minimize any unwanted or unknowing disclosure of CPNI'' 
+and will also ``limit the potential for untoward competitive advantages 
+by incumbent carriers.''
+    86. The Clarification Order noted that, like the requirements 
+established in the CPNI Order, ``the notification obligation 
+established by the Computer III framework required, among other things, 
+that carriers provide customers with illustrative examples of enhanced 
+services and CPE, expanded definitions of CPNI and CPE, information 
+about a customer's right to restrict CPNI use at any time, information 
+about the effective duration of requests to restrict CPNI, and 
+background information to enable customers to understand why they were 
+being asked to make decisions about their CPNI.'' The Clarification 
+Order determined that these Computer III notifications comply 
+materially with the form and content of the notices
+
+[[Page 53253]]
+
+required by the CPNI Order. In addition, the Clarification Order 
+concluded that the Computer III requirement to obtain prior written 
+authorization constitutes a form of express, affirmative approval, as 
+required by section 222. Accordingly, the Clarification Order concluded 
+that carriers that complied with the Computer III notification and 
+prior written approval requirement in order to market enhanced services 
+to such carriers are also in compliance with section 222 and the 
+Commission's rules.
+    87. We agree with the Bureau that carriers that have complied with 
+the Computer III notification and prior written approval requirements 
+in order to market enhanced services to certain large business 
+customers should be deemed in compliance with section 222 and the 
+Commission's rules. For the reasons stated in the Clarification Order, 
+we agree that the Computer III framework required carriers to provide 
+these large business customers with adequate notice and obtain express, 
+affirmative approval in material compliance with the form and content 
+of those required by section 222 and the Commission's rules. Although 
+it is true that the Computer III consents were given prior to the 
+advent of local competition, we believe that the detailed notice and 
+express, affirmative consent required under that regime compensate for 
+this deficiency. Moreover, we are not persuaded by CompTel's assertion 
+that the BOCs warnings that they may have to change the customer's 
+account representatives put undue pressure on these business customers 
+to relent. Finally, we also conclude that although some of the Computer 
+III annual notifications may not have been ``proximate to'' the carrier 
+solicitations as required by section 222, the Computer III regime's 
+annual notification requirement and limitation to business customers 
+with more than 20 access lines--requirements that we note are more 
+stringent than required by section 222--materially satisfy the concerns 
+we intended to address by the proximate notification requirement 
+promulgated in the CPNI Order. As such, we agree with the Bureau that 
+the Computer III notifications are in material compliance with section 
+222 and the Commission's rules, and adopt the reasoning and conclusions 
+of the Clarification Order as our own.
+    88. Other carriers request that the Commission ``grandfather'' 
+authorizations obtained subsequent to the enactment of section 222, but 
+prior to the promulgation of rules in the CPNI Order.
+    89. We conclude, based upon the evidence presented in the record of 
+this proceeding, that AT&T's solicitations constitute a good faith 
+effort to materially comply with section 222 provided they are 
+supplemented with the curative written notification of rights AT&T has 
+offered to distribute. Accordingly, we find that AT&T may continue to 
+rely on the approvals given, provided the approvals were obtained in 
+the manner detailed above, so long as AT&T supplements those approvals 
+with a written notice to customers of their rights including an 
+explanation that they have the right to withdraw their approval.
+    90. Other than AT&T, the parties in this proceeding have not 
+provided sufficient detail describing their solicitations for the 
+Commission to make a determination of material compliance. We urge them 
+to examine the showing made by AT&T as discussed above. We will accept 
+further waiver requests that are materially compliant with section 222, 
+provided the carriers requesting waivers can make a showing similar to 
+the one made by AT&T.
+
+B. Oral and Written Notification
+
+1. Background
+    91. Section 64.2007 of the Commission's Rules sets out several 
+requirements for carriers who wish to obtain a customer's consent for 
+the use of that customer's CPNI. Vanguard requests that the Commission 
+clarify the requirements established in the Order for 
+telecommunications providers seeking customer consent for the use of 
+CPNI. Vanguard expresses concern that the rules will hinder providers 
+from obtaining consent at the time of the execution of initial customer 
+agreements.
+    92. GTE requests clarification of the ``one-time'' notification 
+rules, noting that, under Sec. 64.2007(f)(3), solicitation of approval 
+to use CPNI must be proximate to the notification of a customer's CPNI 
+rights. GTE requests that the Commission ``clarify that written notice 
+followed proximately by either written or oral solicitation is 
+sufficient and is consistent with the FCC's finding that `one-time' 
+notice is sufficient.'' GTE contends that this would require amending 
+Sec. 64.2007(f)(4).
+    93. SBC also requests that the Commission clarify that written 
+notification followed by either an oral or written solicitation for 
+approval is appropriate under the one-time notification scheme.
+    94. Omnipoint requests that, for CMRS providers, the Commission 
+replace its ``opt-in'' requirement for approval of the use of CPNI with 
+an ``opt-out'' rule.
+2. Discussion
+    95. We find that Omnipoint has presented no new circumstances that 
+warrant reversal of the Commission's conclusion that the requirement of 
+affirmative consent is consistent with Congressional intent, as well as 
+with the principles of customer control and convenience. Nor has 
+Omnipoint shown that wireless carriers should not be subject to the 
+requirement of affirmative consent.
+    96. We conclude, however, that the Commission should not attempt to 
+micro-manage the methods by which carriers meet their obligations to 
+secure customer consent. As long as the carrier can show that the rules 
+previously promulgated, which ensure that the customer has been clearly 
+notified of his or her right to refuse consent before the CPNI is used 
+and that the notification clearly informs the customer of the 
+consequences of giving or refusing consent, have been complied with, 
+the consent will be effective. However, we note that those rules are 
+specific in the requirements for written notification, e.g., that the 
+notice must be clearly legible, use sufficiently large type, and be 
+placed in an area so as to be readily apparent to the customer. We 
+intend to be vigilant in enforcing these rules, as we have in enforcing 
+the rules against slamming, which similarly provide for clear and 
+unambiguous notice to the telephone subscriber who signs a letter of 
+agency for authorizing a change in his or her primary interexchange 
+carrier. This policy is also consistent with the Commission's recent 
+action to help ensure that consumers are provided with essential 
+information in phone bills in a clear and conspicuous manner. We will 
+entertain complaints that carriers have not met these requirements on a 
+case-by-case basis.
+    97. We clarify, at Vanguard's request, that its plan for obtaining 
+consent at the time of the execution of initial customer agreements 
+would be appropriate assuming Vanguard provides ``complete disclosure'' 
+prior to seeking customer approval as required by section 64.2007(f) of 
+the Commission's rules, and is otherwise compliant with the remainder 
+of section 64.2007. In other words, seeking customer consent at the 
+time of execution of initial customer agreements is not prohibited by 
+our rules. We also concur with U S WEST's assertion, however, that 
+carriers should be left with flexibility in implementing our rules. 
+Accordingly, Vanguard's proposal is merely one option among many that 
+could comply with our rules.
+
+[[Page 53254]]
+
+    98. Moreover, in keeping with our desire to avoid micro-management 
+of the notification and authorization process, we shall grant SBC, 
+Frontier, and GTE's requests that we eliminate Sec. 64.2007(f)(4) of 
+the Commission's rules.
+
+C. Preemption of State Notification Requirements
+
+    99. In the CPNI Order, we declined to exercise our preemption 
+authority, although we concluded that in connection with CPNI 
+regulation we ``may preempt state regulation of intrastate 
+telecommunications matters where such regulation would negate the 
+Commission's exercise of its lawful authority because regulation of the 
+interstate aspects of the matter cannot be severed from the intrastate 
+aspects.'' Rather, we stated that we would examine any conflicting 
+state rules on a case-by-case basis once the states have had an 
+opportunity to review the requirements we adopted in the CPNI Order. At 
+that time we noted that state rules that are vulnerable to preemption 
+are those that (1) permit greater carrier use of CPNI than section 222 
+and the Commission's rules allow, or (2) seek to impose additional 
+limitations on carriers' use of CPNI. We also indicated, however, that 
+state rules that would not directly conflict with the balance or goals 
+set by Congress were not vulnerable to preemption.
+    100. On reconsideration, we affirm our decision to exercise our 
+preemption authority on a case-by-case basis. While it is possible that 
+states might impose additional CPNI conditions that could require the 
+expenditure of resources, we conclude it would be inappropriate for the 
+Commission to speculate in this proceeding about what such conditions 
+might be and how much compliance might cost. We note that while 
+deciding to address preemption requests on a case-by-case basis, we 
+reserve the right to consider the potential costs and burdens imposed 
+by any state requirements that would apply retroactively. For these 
+same reasons, we also deny GTE's request that we find that ``additional 
+CPNI use restrictions will be expeditiously preempted, particularly 
+where other federal statutes, such as 47 U.S.C. 227(c), already address 
+customer privacy concerns.''
+    101. Neither AT&T nor GTE has presented any new facts or arguments 
+that require us to reconsider our prior ruling. Both GTE and AT&T point 
+to the Comments of the Texas Public Utility Commission, which describe 
+and attach a CPNI rule under consideration by the Texas Commission, as 
+support for the need to reconsider our conclusion on preemption in the 
+CPNI Order. They assert that the proposed Texas rule is in conflict 
+with the CPNI Order and the Commission's rules. That Texas, or any 
+other state, might implement CPNI rules that may be in conflict with 
+our rules was certainly considered in the CPNI Order. If such an event 
+occurs, AT&T, GTE, or any other party may request that we preempt the 
+alleged conflicting rules. We will then consider the specific 
+circumstances at that time.
+
+D. Details of CPNI Notice
+
+    102. Section 64.2007 of our rules establishes the minimum form and 
+content requirements of the notification a carrier must provide to a 
+customer when seeking approval to use CPNI. Section 64.2007(f)(2)(ii) 
+requires that the notification must specify, inter alia, ``the types of 
+information that constitute CPNI'' and ``the specific entities'' that 
+will receive it. GTE requests that the Commission clarify the rule to 
+permit carriers to avoid exhaustively specifying all types of CPNI and 
+all of a carrier's subsidiaries and affiliates that may receive CPNI. 
+We decline to do so. The minimum requirements of Sec. 64.2007 were not 
+crafted to provide precise guidance, but rather as general notice 
+requirements. The rule seeks to strike an appropriate balance between 
+giving carriers flexibility to craft CPNI notices tailored to their 
+business plans and ensuring that customers are adequately informed of 
+their CPNI rights.
+    103. Thus, at a minimum, a carrier must inform a customer of the 
+types of CPNI it intends to use. We wish to ensure that any decision by 
+a customer to grant or deny approval is fully informed and that we 
+reduce the potential for carrier abuse. Also, to the extent a carrier 
+intends to disseminate a customer's CPNI, the customer has a right to 
+know the entities that will receive the CPNI derived from his or her 
+calling habits. Contrary to GTE's assertion, we don't believe that a 
+customer necessarily will be confused by the name of the recipient. 
+Importantly, the customer should have the option of restricting access 
+to CPNI among the carrier's intended recipients of his or her personal 
+information.
+
+VII. Safeguards Under Section 222
+
+A. Background
+
+    104. In the CPNI Order, the Commission concluded that ``all 
+telecommunications carriers must establish effective safeguards to 
+protect against unauthorized access to CPNI by their employees or 
+agents, or by unaffiliated third parties.'' To this end, we required 
+carriers to develop and implement software systems that ``flag'' 
+customer service records in connection with CPNI, and maintain an 
+electronic audit mechanism (``audit trail'') that tracks access to 
+customer accounts. In addition, the CPNI Order stated that carriers 
+were to: train their employees as to when it would be permissible to 
+access customers' CPNI; establish a supervisory review process that 
+ensures compliance with CPNI restrictions when conducting outbound 
+marketing; and, on an annual basis, submit a certification signed by a 
+current corporate officer attesting that he or she has personal 
+knowledge that the carrier is in compliance with the Commission's 
+requirements. Because the Commission anticipated that carriers would 
+need time to conform their data systems and operations to comply with 
+the software flags and electronic audit mechanisms required by the 
+Order, we deferred enforcement of those rules until eight months from 
+when the rules became effective: specifically, January 26, 1999.
+    105. Following the release of the CPNI Order, several petitioners 
+sought reconsideration of a variety of issues, including the decision 
+to require carriers to implement the use of flags and audit trails. 
+Other carriers sought reconsideration of the CPNI Order's employee 
+training and discipline requirement in Sec. 64.2009(b) of the 
+Commission's rules, as well as the supervisory review requirement in 
+Sec. 64.2009(d) of the Commission's rules. On September 24, 1998, in 
+response to concerns raised by a number of parties, the Commission 
+ruled in the Stay Order that it would not seek enforcement actions 
+against carriers regarding compliance with the CPNI software flagging 
+and audit trail requirements as set forth in 47 CFR 64.2009(a) and (c) 
+until six months after the release date of this order on 
+reconsideration. We concluded that it serves the public interest to 
+extend the deadline for the initiation of enforcement of the software 
+flagging and audit trail rules so that the Commission could ``consider 
+recent proposals to tailor our requirements more narrowly and to reduce 
+burdens on the industry while serving the purposes of the CPNI rules.''
+    106. On November 9, 1998, PCIA filed a petition for reconsideration 
+of the Stay Order requesting that the Commission retract the additional 
+requirement for deployment of systems pending the Commission's 
+reconsideration of the CPNI Order. We deny PCIA's petition, however, as 
+we have granted, in part, the petitions for reconsideration with 
+respect to the flagging and audit trail requirements. Thus, although 
+new systems implemented prior to the
+
+[[Page 53255]]
+
+expiration of the stay period will be required to comply with the new 
+rules promulgated in this order, we believe the new rules are 
+significantly less burdensome. We have considered the potential impact 
+of our rules in this area on carriers' year 2000 (Y2K) remedial efforts 
+and their plans to stabilize their networks over the Y2K conversion. We 
+expect, however, that the increased flexibility, reduction in 
+compliance burden and additional time for implementation that we grant 
+here will greatly reduce the risk of such impact. Thus, and in light of 
+the facts before us, we believe that our rules will have no significant 
+detrimental effect on carriers' Y2K efforts. We conclude that it is in 
+the public interest to extend the stay period an additional two months 
+so as not to impede those efforts for carriers that chose to implement 
+electronic safeguards under the modified rules. Accordingly, the 
+Commission will not seek enforcement actions against carriers regarding 
+compliance with sections 64.2009(a) and (c) of the Commission's rules 
+until eight months after the release date of this order on 
+reconsideration.
+    107. An industry coalition (Coalition) comprised of a combination 
+of thirty-one industry representatives has proposed specific amendments 
+to Secs. 64.2009(a), 64.2009(c), and 64.2009(e) of the Commission's 
+rules (Coalition Proposal). After consideration of this proposal and 
+other comments in the record, we adopt modifications to our flagging 
+and audit trail requirements.
+
+B. Notice
+
+    108. In the NPRM, we tentatively concluded that ``all 
+telecommunications carriers must establish effective safeguards to 
+protect against unauthorized access to CPNI by their employees or 
+agents, or by unaffiliated third parties.'' We further noted that we 
+previously required AT&T, the BOCs, and GTE to implement computerized 
+safeguards and manual file indicators to prevent unauthorized access to 
+CPNI, and sought comment on whether such safeguards should continue to 
+apply to those carriers. The NPRM also tentatively concluded that we 
+should not specify safeguard requirements for other carriers, but 
+sought comment on the issue.
+    109. We reject CompTel's assertion that the Commission failed to 
+give adequate notice of the ``systems modifications'' announced in the 
+CPNI Order because, in fact, the NPRM stated that the Commission might 
+require carriers other than AT&T, the BOCs, and GTE to implement 
+computerized safeguards and manual file indicators, and solicited 
+comment on the issue. As we modify the flagging and audit trail rules 
+on reconsideration to allow carriers to institute non-computerized 
+systems, we grant CompTel's Petition in this regard.
+    110. We also reject NTCA's argument that our description of the 
+projected reporting, record-keeping, and other compliance requirements 
+of the rule we proposed in the NPRM was inaccurate. As we described, 
+the NPRM tentatively concluded that we would not require carriers other 
+than AT&T, the BOCs, and GTE to implement specified safeguard 
+requirements as those carriers had been required to under Computer III. 
+Thus, the NPRM's Initial Regulatory Flexibility Analysis correctly 
+stated that there were no projected reporting, record-keeping, or other 
+compliance requirements for small business entities as a result of the 
+NPRM.
+
+C. Evidence of Cost of Compliance
+
+    111. When we established the flagging and audit trail requirements 
+in the CPNI Order, the evidence before us was that carriers could, with 
+relative ease, modify their systems to accommodate these requirements. 
+Based upon many of the petitions filed on reconsideration, however, it 
+does not appear that all of the relevant facts were before the 
+Commission at that time. Numerous petitioners have now presented 
+evidence that the safeguards we adopted would be costly to implement.
+
+D. The Flagging Requirement
+
+    112. Upon reconsideration, based upon the new evidence before us, 
+we agree with the petitioners that we should modify the flagging 
+requirement promulgated in the CPNI Order for all carriers. The goal of 
+the CPNI flagging rule is to ensure that carriers are aware of the 
+status of, and observe, a customer's CPNI approval status prior to any 
+use of that customer's CPNI. The Coalition proposes that we modify our 
+rule to require carriers to train their marketing personnel to 
+determine a customer's CPNI status prior to using that customer's CPNI 
+for ``out of category'' marketing, and to make customer approval status 
+available to such personnel in a readily accessible and easily 
+understandable format. As is only now evident from the new evidence 
+presented on reconsideration, implementation of the flagging rules 
+promulgated in the CPNI Order will require significant expenditures of 
+monetary and personnel resources for most carriers, regardless of size. 
+Although we agree in principle that the Coalition's proposal will 
+achieve the goals of the flagging requirements at a substantially 
+reduced cost, we conclude that the Coalition's proposal can be modified 
+to even simpler, less regulatory terms. We find that the carriers are 
+in a better position than the Commission to create individual systems 
+which ensure that their employees check each customer's CPNI approval 
+status prior to any use of that customer's CPNI for out of category 
+marketing. Accordingly, we amend section 64.2009(a) of our rules to 
+state that telecommunications carriers must implement a system by which 
+the status of a customer's CPNI approval can be clearly established 
+prior to the use of CPNI. This modification will permit all carriers to 
+develop and implement a system that is suitable to, among other things, 
+its unique size, capital resources, culture, and technological 
+capabilities.
+
+E. The Audit Trail Requirement
+
+    113. We also agree with the petitioners, based upon the new 
+evidence before us, that we should modify the CPNI Order's electronic 
+audit trail requirement. This requirement was broadly intended to track 
+access to a customer's CPNI account, recording whenever customer 
+records are opened, by whom, and for what purpose. As AT&T points out, 
+the CPNI Order's electronic audit trail requirement would generate 
+``massive'' data storage requirements at great cost. As it is already 
+incumbent upon all carriers to ensure that CPNI is not misused and that 
+our rules regarding the use of CPNI are not violated we conclude that, 
+on balance, such a potentially costly and burdensome rule does not 
+justify its benefit. As an alternative to the CPNI Order's electronic 
+audit trail requirement, the Coalition has proposed that we require the 
+creation of such a record, but only with respect to ``marketing 
+campaigns.'' We find that the Coalition proposal is too narrow because, 
+as MCI noted in an ex parte meeting with the Common Carrier Bureau, 
+many carriers distinguish between ``sales'' and ``marketing.'' We 
+determine that carriers must maintain a record, electronically or in 
+some other manner, of their sales and marketing campaigns that use 
+CPNI. The record must include a description of each campaign, the 
+specific CPNI that was used in the campaign, the date and purpose of 
+the campaign, and what products or services were offered as part of the 
+campaign. We will also require carriers to retain the record for a 
+minimum of one year. We amend section 64.2009(c) accordingly.
+
+[[Page 53256]]
+
+F. The Corporate Officer Certification
+
+    114. The Coalition also requests that we amend the Officer 
+Certification rule to eliminate the requirement that the corporate 
+officer signing the certification have personal knowledge that the 
+carrier is in compliance with the Commission's CPNI rules. This we 
+decline to do. Our revisions of the flagging and audit trail 
+requirements in this order will allow telecommunications carriers more 
+flexibility in determining how they will ensure their compliance with 
+our CPNI rules. This flexibility puts the responsibility squarely on 
+the carriers to ensure their compliance. This flexibility, and its 
+concurrent responsibility, requires that some officer of the carrier 
+have personal knowledge that the scheme designed by the carrier is 
+adequate and complies with our CPNI rules. Because neither the 
+petitioners nor the Coalition have persuaded us that personal knowledge 
+on the part of an officer is unnecessary, we will not omit that 
+requirement from our rule. We will, however, amend the rule to omit the 
+word ``corporate'' because, as some parties explain, not all carriers 
+are organized as corporations.
+    115. We will also amend Sec. 64.2009(e) to require that 
+telecommunications carriers have an officer, as an agent of the 
+carrier, sign a compliance certificate on an annual basis stating that 
+the operating procedure established by the carrier is or is not in 
+compliance with the rules in this subpart. The carrier must provide a 
+statement accompanying the certificate detailing how the carrier's 
+operating procedure is and/or is not in compliance.
+
+G. Other Safeguard Provisions
+
+    116. Parties also seek reconsideration of other safeguard 
+provisions. In light of the important role these rules play in 
+safeguarding the proper use of CPNI, we are not persuaded that these 
+rules are so burdensome that they warrant modification. Moreover, as we 
+have taken steps on reconsideration to allow carriers to decide for 
+themselves how to implement the flagging and audit trail rules, the 
+rules are now even less burdensome. It is, in fact, the continued 
+application of the employees training and discipline rules, and the 
+officer certification requirement, that permits us to make the 
+substantial modifications of the flagging and audit trail requirements 
+on reconsideration. Thus, we conclude the remaining requirements in 
+section 64.2009 are reasonable as presently written.
+
+H. Petitions for Forbearance
+
+    117. We deny both as moot NTCA and PCIA's petitions for forbearance 
+from enforcement of the audit trail and flagging rules. Section 10 of 
+the Act requires the Commission to forbear from regulation when: (1) 
+Enforcement is not necessary to ensure that the carrier's charges and 
+practices are just and reasonable; (2) enforcement is not necessary for 
+the protection of consumers; and (3) forbearance is consistent with the 
+public interest. Both PCIA and NTCA premise their forbearance arguments 
+upon the fact that the flagging and audit trail requirements, as 
+detailed in the CPNI Order, require the implementation of electronic 
+safeguards. Based upon the new evidence the parties presented on 
+reconsideration, we agree with both NTCA and PCIA that the rules we 
+promulgated in the CPNI Order are unduly burdensome. We deny these 
+forbearance petitions, however, because we conclude that the revised 
+flagging and audit trail requirements resolve NTCA and PCIA's 
+criticisms of the former rules and the basis for their forbearance 
+requests. Under our new rules carriers, including NTCA and PCIA 
+members, may establish non-computerized systems of their own design to 
+comply with our requirements.
+
+I. Small and Rural Carriers
+
+    118. We recognize, in light of the new evidence presented to the 
+Commission, that the flagging and audit trail requirements promulgated 
+in the CPNI Order might have a disparate impact on rural and small 
+carriers. Our modification of the flagging and audit trail requirements 
+in this order, however, effectively moots the requests we received from 
+the parties seeking special treatment for small and rural carriers with 
+respect to these requirements. In particular, under the amended rules, 
+carriers are not required to maintain flagging and audit capabilities 
+in electronic format. Rather, the amended rules leave it to the 
+carriers' discretion to determine what sort of system is best for their 
+circumstances. Thus, carriers whose records are not presently 
+maintained in electronic form are not required to implement electronic 
+systems if they do not wish to do so. We deny, therefore, the 
+Independent Alliance's petition to exempt small and rural carriers from 
+the provisions of sections 64.2009(a) and (c) because we have amended 
+our rules to accommodate, in part, the concerns of small and rural 
+carriers. Likewise, we deny NTCA's request that rural 
+telecommunications companies should be eligible for a blanket waiver of 
+the flagging and audit trail provisions, and TDS's request for 
+reconsideration of the flagging and tagging rules for small and mid-
+sized carriers, for the same reason. Finally, on the same basis, we 
+reject ALLTEL's request that we reconsider the application of the 
+``enforcement time frames and other requirements to rural and small 
+carriers.''
+
+J. Adequate Cost Recovery
+
+    119. We deny TDS's request that the Commission provide a mechanism, 
+in the form of a ``nationwide averaged [and] clearly identified flat 
+charge on all customers,'' to recover the costs that carriers will 
+incur complying with section 222, the CPNI Order, and the Commission's 
+rules. As we have now amended our rules to allow carriers the freedom 
+to implement these safeguards in a more effective and flexible manner, 
+we believe that carrier costs will be significantly reduced from the 
+costs estimated by carriers subsequent to the CPNI Order. Accordingly, 
+we reject TDS's request for a separate cost recovery mechanism at this 
+time.
+
+K. Enforcement of CPNI Obligations
+
+    120. In this Order, we have amended our rules to reflect a 
+deregulatory approach which leaves many of the specific details of 
+compliance to the carriers. However, we intend to enforce the rules, as 
+amended, zealously. We expect carriers to protect the confidentiality 
+of the CPNI in their possession in accordance with our rules. Carriers 
+will be subject to penalties for improper use of CPNI. Moreover, 
+failure to develop and implement a compliance plan to safeguard CPNI 
+consistent with our rules will form a separate basis for liability. We 
+also note that we will address, in a separate order, the enforcement 
+and compliance issues raised in response to the FNPRM.
+
+VIII. Section 222 and Other Act Provisions
+
+A. Section 222 and Section 272
+
+1. Background
+    121. Section 272(c)(1) states that, ``[i]n its dealings with its 
+[section 272 affiliates], a Bell operating company . . . may not 
+discriminate between the company or affiliate and any other entity in 
+the provision or procurement of goods, services, facilities, and 
+information, or in the establishment of standards.'' The Commission 
+concluded in the Non-Accounting Safeguards Order that: (1) The term 
+``information'' in section 272(c)(1) includes CPNI; and (2) the BOCs 
+must comply with the
+
+[[Page 53257]]
+
+requirements of both sections 222 and 272(c)(1). The Commission, 
+however, declined to address the parties' other arguments regarding the 
+interplay between section 272(c)(1) and section 222 to avoid prejudging 
+issues that would be addressed in the CPNI Order. The Commission also 
+declined to address the parties' arguments regarding the interplay 
+between section 222 and section 272(g), which permits certain joint 
+marketing between a BOC and its section 272 affiliate. The Commission 
+emphasized, however, that, if a BOC markets or sells the services of 
+its section 272 affiliate pursuant to section 272(g), it must comply 
+with the statutory requirements of section 222 and any rules 
+promulgated thereunder.
+    122. In the CPNI Order the Commission overruled the Non-Accounting 
+Safeguards Order, in part, concluding that the most reasonable 
+interpretation of the interplay between sections 222 and 272 is that 
+the latter does not impose any additional CPNI requirements on BOCs' 
+sharing of CPNI with their section 272 affiliates when they share 
+information with their section 272 affiliates according to the 
+requirements of section 222. The Commission reached this conclusion 
+only after recognizing an apparent conflict between sections 222 and 
+272. We noted in the CPNI Order that, on the one hand, certain parties 
+argued that under the principle of statutory construction the 
+``specific governs the general,'' and that section 222 specifically 
+governs the use and protection of CPNI, but section 272 only refers to 
+``information'' generally. As such, they claimed that section 222 
+should control section 272. On the other hand, under the same principle 
+of construction, other parties argued that section 272 specifically 
+governs the BOCs' sharing of information with affiliates, whereas 
+section 222 generally relates to all carriers. Therefore, they 
+asserted, section 272 should control section 222. Because either 
+interpretation is plausible, it was left to the Commission to resolve 
+the tension between these provisions, and to formulate the 
+interpretation that, in the Commission's judgment, best furthers the 
+policies of both provisions and the statutory design. We determine that 
+interpreting section 272 to impose no additional obligations on the 
+BOCs when they share CPNI with their section 272 affiliates according 
+to the requirements of section 222 most reasonably reconciles the goals 
+of these two principles.
+2. Discussion
+    123. We affirm our conclusion in the CPNI Order that the most 
+reasonable interpretation of the interplay of sections 222 and 272 is 
+that section 272 does not impose any additional obligations on the BOCs 
+when they share CPNI with their section 272 affiliates. For the same 
+reasons described in the CPNI Order, however, we conclude that our 
+prior interpretation of the relationship between sections 222 and 272 
+is correct.
+    124. At the outset, we reject MCI's argument that there was not 
+adequate notice that the Commission might reverse its conclusion in the 
+Non-Accounting Safeguards Order relating to CPNI.
+    125. We further disagree with MCI's claim that the Commission's 
+``approach'' is flawed. We affirm our previous conclusion based upon 
+our prior reasoning.
+    126. We also reject MCI and TRA's argument that the ``except as 
+required by law'' clause in section 222(c)(1) encompasses, at least in 
+part, section 272(c)(1). We conclude, for the same reasons as those we 
+previously described in the CPNI Order, that the ``except as required 
+by law'' clause does not encompass section 272.
+    127. We affirm the CPNI Order's conclusion that the term 
+``information'' in section 272(c)(1) does not include CPNI despite 
+CompTel and Intermedia's assertion that such an interpretation is 
+contrary to the plain meaning of the Act and should be reconsidered.
+    128. While the legislative history is silent about the meaning of 
+``information'' in section 272(c)(1), the structure of the Act 
+indicates strongly that the provision is susceptible to differing 
+meanings. Indeed, as the courts have cautioned, the Commission is bound 
+to move beyond dictionary meanings of terms and to consider other 
+possible interpretations, assess statutory objectives, weigh 
+congressional policy, and apply our expertise in telecommunications in 
+determining the meaning of provisions. In this instance, we believe 
+that the structure of the Act belies petitioners' contention that the 
+term ``information'' has a plain meaning that encompasses CPNI. In 
+enacting section 222, Congress carved out very specific restrictions 
+governing consumer privacy in CPNI and consolidated those restrictions 
+in a single, comprehensive provision. We believe that the specific 
+requirements governing CPNI use are contained in that section and we 
+disfavor, accordingly, an interpretation of section 272 that would 
+create constraints for CPNI beyond those embodied in the specific 
+provision delineating those constraints. As a practical matter, the 
+interpretation proffered by petitioners would bar BOCs from sharing 
+CPNI with their affiliates: the burden imposed by the nondiscrimination 
+requirements would, in this context, pose a potentially insurmountable 
+burden because a BOC soliciting approval to share CPNI with its 
+affiliate would have to solicit approval for countless other carriers 
+as well, known or unknown. We do not believe that is what Congress 
+envisioned when it enacted sections 222 and 272. Rather, as we 
+concluded in the CPNI Order, we find it a more reasonable 
+interpretation of the statute to conclude that section 222 contemplates 
+a sharing of CPNI among all affiliates (whether BOCs or others), 
+consistent with customer expectations that related entities will share 
+information so as to offer services best tailored to customers' needs. 
+For these reasons, we find that the ``plain meaning'' argument raised 
+by Comptel and Intermedia is not persuasive, and further that their 
+meaning is not the one Congress most likely intended. Therefore, we 
+affirm our previous conclusion.
+    129. In addition, we are not persuaded by CompTel's assertion that 
+there is no indication that section 222 was intended to trump section 
+272 because the Commission previously recognized, in the First Report 
+and Order, that section 222's obligations are not exclusive. Because 
+Congress unambiguously prohibited the use of such CPNI in section 
+275(d), we concluded that the specific prohibition in section 275(d) 
+controls the general CPNI rules described in section 222. This stands 
+in stark contrast to the difficult task of reconciling sections 222 and 
+272.
+    130. Moreover, we do not agree with WorldCom's assertion that the 
+Commission ignored section 272(b)(1). Thus, we deny reconsideration on 
+this basis as WorldCom has not presented any new arguments or facts we 
+did not already consider.
+    131. Finally, several parties also argue that our interpretation of 
+the interplay of sections 222 and 272 gives BOC affiliates an unfair 
+competitive advantage over other competitors. These parties raise no 
+new arguments or facts on reconsideration of this point that we did not 
+already consider. We previously identified in detail specific 
+mechanisms in section 222 that address such competitive concerns. We 
+therefore deny these parties' requests for reconsideration of this 
+conclusion.
+
+[[Page 53258]]
+
+B. Disclosure of Non-CPNI Information Pursuant to Section 272
+
+    132. The Commission noted in a footnote in the CPNI Order that BOC 
+non-discrimination obligations under section 272 would apply to the 
+sharing of all other information and services with their section 272 
+affiliates. The Common Carrier Bureau further concluded in the 
+Clarification Order that a customer's name, address, and telephone 
+number are not CPNI. The Bureau reasoned that ``[i]f the definition of 
+CPNI included a customer's name, address, and telephone number, a 
+carrier would be prohibited from using its business records to contact 
+any of its customers to market any new service that falls outside the 
+scope of the existing service relationship with those customers.
+    133. We agree with the Common Carrier Bureau's clarification and 
+adopt its reasoning and conclusion as our own. Accordingly, we grant 
+MCI's request that we clarify that a customer's name, address, and 
+telephone number are ``information'' for purposes of section 272(c)(1), 
+and if a BOC makes such information available to its affiliate, then it 
+must make that information available to non-affiliated entities.
+    134. MCI also argues that the Commission should find that a 
+customer's PIC choice and PIC-freeze status are not CPNI as defined in 
+section 222(f)(1). We are not persuaded by MCI's statutory 
+interpretation. We conclude that a customer's PIC choice falls squarely 
+within the definition of CPNI set out in both sections 222(f)(1)(A) and 
+(B), and that PIC-freeze information meets the requirements of section 
+222(f)(1)(A). Finally, we agree with GTE that this result is consistent 
+with the privacy goals set out by Congress in section 222.
+
+C. Section 222 and Section 254
+
+    135. CenturyTel also argues that restricting the use of CPNI in 
+marketing enhanced services and CPE to existing customers in rural 
+exchanges is inconsistent with Universal Service provisions of the Act.
+    136. We disagree with the arguments made by CenturyTel and NTCA. As 
+stated in Section V.A of this Order, we affirm the ``total service 
+approach'' for all carriers. We find no reason to impose different 
+notification requirements on large and small carriers. As we stated in 
+the CPNI Order, concerns regarding customer privacy are the same 
+irrespective of the carrier's size or identity. Further to the extent 
+that CenturyTel and NTCA are requesting to use CPNI, without customer 
+approval, to market CPE and certain information services, those 
+requests have been granted. We also disagree with CenturyTel and NTCA's 
+argument that section 254 requires the use of CPNI to allow rural 
+carriers to implement Congress' Universal Service standards. Section 
+254 envisions that rural carriers would introduce and make available 
+new technology to all of its customers. The CPNI rules in no way 
+discourage rural carriers from doing that. In fact, one could argue 
+that some of the CPNI rules require a carrier to make all of its 
+customers aware of such new technology rather than using CPNI to pick 
+and choose which customers to market the new technology to. The basis 
+of CenturyTel and NTCA's arguments, however, is that they do not want 
+to market the new technology to all of its customers. They want to make 
+it available only to certain customers that they select by using their 
+customers' CPNI. We fail to see how section 254 requires this outcome.
+
+D. Application of Nondiscrimination Rules Under Sections 201(b) and 
+202(a)
+
+    137. We reject MCI's argument that the nondiscrimination 
+requirement described in section 272 should be applied to all ILECs 
+through the requirements of sections 201(b) and 202(a).
+    138. We agree with GTE that there is no justification to conclude, 
+as a matter of statutory construction, that the broad non-
+discrimination requirements of these sections impose a specific 
+disclosure obligation on ILEC use of CPNI. In any case, the same 
+privacy concerns we identified in our discussion of the relationship 
+between sections 222 and 272 apply here equally. For instance, 
+requiring the disclosure of CPNI to other companies to maintain 
+competitive neutrality would defeat, rather than protect, customers' 
+privacy expectations and control over their own CPNI. We conclude that 
+the specific consumer privacy and consumer choice protections 
+established in section 222 supersede the general protections identified 
+in sections 201(b) and 202(a). Thus, we are not persuaded that section 
+201(b) or section 202(a) require the result MCI seeks. Accordingly, we 
+reject MCI's request.
+
+IX. Other Issues
+
+A. Status of Customer Rewards Program
+
+    139. Section 64.2005(b) of the Commission's Rules prohibits a 
+telecommunications carrier from using, disclosing, or permitting access 
+to CPNI to market to a customer, without customer approval, service 
+offerings that are within a category of service to which the customer 
+does not already subscribe.
+    140. Omnipoint and Vanguard contend that when a carrier provides 
+free rewards, such as free equipment, for the purpose of retaining its 
+accounts, the prohibition in section 64.2005(b) should not apply 
+because (1) the customer subscribes to the service for which the reward 
+is provided; and (2) the reward is free, and therefore is not 
+``marketed.'' Omnipoint and Vanguard request clarification because they 
+claim that carriers are more likely to offer rewards if they are able 
+to target them to high-volume or long-term customers, and if carriers 
+do not need to seek customer approval. No party has objected to this 
+proposal.
+    141. We agree with Omnipoint and Vanguard that, where a carrier 
+uses CPNI to provide free rewards to its customer, such use of CPNI is 
+within the scope of the carrier-customer relationship. As such, the use 
+of the CPNI is limited to the existing service relationship between the 
+carrier and the customer. Therefore, although the provision of free 
+rewards is a marketing activity, it does not violate the Act or our 
+rules, provided the telecommunications service being marketed is the 
+service currently subscribed to by the customer.
+
+B. Non-telecommunications Services Listed on Telephone Bill
+
+    142. CPNI is defined in section 222(f)(1)(B) of the Act as 
+including ``information contained in the bills pertaining to telephone 
+exchange service or telephone toll service received by a customer of a 
+carrier; except that such term does not include subscriber list 
+information.'' However, section 222(c)(1) prohibits a carrier's use of 
+CPNI only where it receives the CPNI ``by virtue of its provision of a 
+telecommunications service.''
+    143. In the Common Carrier Bureau's Clarification Order, the Bureau 
+said that ``customer information derived from the provision of any non-
+telecommunications service, such as CPE or information services * * * 
+may be used to provide or market any telecommunications service * * *'' 
+Omnipoint asks the Commission to clarify that section 222 does not 
+prohibit the use of customer information derived from non-
+telecommunications services bundled with telecommunications services 
+merely because charges for those services appeared on a customer's 
+telephone bill.
+    144. Section 222(c)(1) prohibits the use of CPNI only where it is 
+derived
+
+[[Page 53259]]
+
+from the provision of a telecommunications service. Consequently, we 
+find that information that is not received by a carrier in connection 
+with its provision of telecommunications service can be used by the 
+carrier without customer approval, regardless of whether such 
+information is contained in a bill generated by the carrier. Therefore, 
+consistent with the Clarification Order, customer information derived 
+from information services that are held not to be telecommunications 
+services may be used, even if the telephone bill covers charges for 
+such information services.
+
+C. Provision of Calling Card as ``Provision'' of Service
+
+    145. LECs often offer so-called ``post-paid'' calling cards that 
+enable customers to complete long distance calls over a particular 
+interexchange carrier's network when the customer is away from home. 
+Such cards enable a customer to have the calls billed subsequently on 
+the customer's local bill issued by the LEC. MCI asks the Commission to 
+clarify that LECs may not use CPNI garnered in such circumstances to 
+market services that the LEC offers absent permission from the 
+customer.
+    146. We grant MCI's request for clarification. In the traditional 
+LEC post-paid calling card situation, the LEC serves merely as a 
+billing and collection agent on behalf of the interexchange carrier, 
+much as the LEC does when a customer places long distance calls from 
+home through the customer's pre-subscribed interexchange carrier (IXC). 
+In both instances, the customer has established a customer-carrier 
+relationship for the provision of interexchange services with the IXC 
+that carried the customer's call over its network. The LEC, on the 
+other hand, is standing in the place of the IXC only for billing and 
+collection purposes, a service which the IXC could have chosen to 
+provide itself. Where a LEC acts as a billing and collection agent, it 
+may not use CPNI without the customer's permission under the total 
+services approach.
+
+D. Use of CPNI To Prevent Fraud
+
+    147. Section 222(d)(2) of the Act permits the use of CPNI to 
+``protect the rights or property of the carrier, or to protect users of 
+those services and other carriers from fraudulent, abusive, or unlawful 
+use of, or subscription to services * * *'' Section 64.2005 of the 
+Commission's rules provides that a telecommunications carrier may use, 
+disclose, or permit access to CPNI, without customer approval, for a 
+number of purposes, but does not mention the use of CPNI in connection 
+with fraud prevention programs.
+    148. Comcast requests that the Commission clarify its rules to 
+specify that (1) carriers are authorized to use CPNI in connection with 
+fraud prevention programs; and (2) such use is permissible even after a 
+customer has terminated service from the carrier making such use of the 
+customer's CPNI.
+    149. We agree that Section 222(d)(2) on its face permits the use of 
+CPNI in connection with fraud prevention programs, and does not limit 
+such use of CPNI that is generated during the customer's period of 
+service to any period of time. Since our rules do not cover the use of 
+CPNI for fraud prevention programs, we will amend our rules to do so, 
+in order to eliminate the possibility of misinterpretation.
+
+E. Definition of ``Subscribed'' in Section 222(f)(1)(A)
+
+    150. We grant MCI's request for clarification of the meaning of the 
+phrase ``service subscribed to by any other customer'' in section 
+222(f)(1)(A).
+
+F. CPNI ``Laundering''
+
+    151. MCI requests clarification that ``the status of information as 
+CPNI or carrier proprietary information [under section 222] is not lost 
+or altered if [a] carrier discloses or transmits such information to an 
+affiliated or unaffiliated entity, whether or not that entity transfers 
+such information to other parties or back to the original carrier.''
+    152. We agree that as the stewards of CPNI and carrier proprietary 
+information carriers must take steps to safeguard such information. 
+Moreover, we find that implicit in section 222 is a rebuttable 
+presumption that information that fits the definition of CPNI contained 
+in section 222(f)(1) is in fact CPNI. We decline, however, to speak to 
+MCI's other clarification requests as they regard issues relating to 
+carrier proprietary information in section 222(b) and enforcement 
+mechanisms to ensure carrier compliance with both sections 222(a) and 
+(b). As FNPRM in this docket seeks comment on those specific issues, we 
+would not want to prejudice resolution of those issues in this order.
+
+G. Acts of Agents of Wireless Providers
+
+    153. Vanguard argues that sales agents of CMRS providers are not 
+subject to Commission rules, and that CMRS providers should not be held 
+responsible for the use of CPNI independently obtained by agents 
+because it would be difficult or impossible for CMRS providers to 
+enforce these obligations on agents.
+    154. We find that telecommunications service providers will be 
+responsible for the actions of their agents to comply with our CPNI 
+rules to the extent that telecommunications service providers share 
+CPNI with their agents. Moreover, telecommunications service providers 
+will be responsible for the actions of agents with respect to the use 
+of CPNI acquired by their agents. It is well established that 
+principals are responsible for the actions of their agents. In the 
+absence of such a rule, the important consumer protections enacted by 
+Congress in section 222 may be vitiated by the actions of agents.
+    155. We believe that telecommunications service providers can meet 
+these requirements through the private contract arrangements they have 
+with their agents. Carriers would normally have negotiating leverage to 
+enforce this requirement in the case of agents who serve more than one 
+carrier, since all carriers would be required to enforce the same 
+rules. To the extent that it may be shown that some carriers would not 
+be able to enforce these requirements, the Commission will address the 
+exceptions on a case-by-case basis.
+
+H. Information Known to Employees
+
+    156. Section 222(f)(1)(A) defines CPNI, in part, as including 
+information ``that is made available to the carrier by the customer 
+solely by virtue of the carrier-customer relationship.'' We reject 
+Comcast's argument that, based upon this definition, CPNI should not 
+include ``institutional knowledge'' of the attributes of a particular 
+customer's account gained by a carrier's employee from his or her work 
+on the customer's account over the years if the employee does not 
+actually access the customer's record, and U S WEST's argument that so 
+long as an employee does not use a customer's record containing that 
+customer's CPNI, the employee has not violated section 222. We are not 
+persuaded that section 222(f)(1)(A) implies an exception based on 
+whether the information acquired as part of the carrier-customer 
+relationship is reduced to writing or is kept in the memory of a 
+carrier representative. Thus, if a customer tells a carrier's employee 
+information that otherwise fits the definition of CPNI provided in 
+section 222(f)(1)(A), then that information is CPNI, no matter how the 
+information is retained by the carrier.
+
+[[Page 53260]]
+
+I. Use of CPNI Under Section 222(d)(3) During Inbound Calls
+
+    157. Several carriers request that the Commission clarify the 
+requirements for obtaining customer approval under section 222(d)(3). 
+This section states that ``[n]othing in [section 222] prohibits a 
+telecommunications carrier from using, disclosing, or permitting access 
+to customer proprietary network information obtained from its 
+customers, either directly or indirectly through its agents . . . to 
+provide any inbound telemarketing, referral, or administrative services 
+to the customer for the duration of the call, if such call was 
+initiated by the customer and the customer approves of the use of such 
+information to provide such service.
+    158. We agree that the detailed notification outlined in section 
+64.2007(f) of our rules is not necessary prior to soliciting a 
+customer's approval to use his or her CPNI for the duration of an 
+inbound call. It is unduly burdensome to require carriers to comply 
+with the rule in light of the limited coverage of section 222(d)(3). 
+Moreover, the rule reflects a discussion in the CPNI Order of the 
+content of the general notification requirements under section 
+222(c)(1), and not those required for section 222(d)(3). Accordingly, 
+we clarify that section 64.2007(f) does not apply to solicitations for 
+customer approval under section 222(d)(3).
+    159. We deny, however, TDS's request that we reconsider our prior 
+conclusion that section 222(d)(3) requires an affirmative customer 
+approval. We previously stated in the CPNI Order that section 222(d)(3) 
+``contemplates oral approval.'' We conclude that a plain reading of the 
+statute contradicts TDS's conclusion: If Congress meant consent to be 
+inferred from the mere fact that the customer initiated the call, it 
+would not have required that the customer both initiate the call and 
+``approve[] of the use of such information to provide such service.'' 
+We deny TDS's request for reconsideration for this reason and because 
+TDS has not presented any new arguments or facts that the Commission 
+did not consider in the CPNI Order with regard to this issue.
+    160. Finally, pursuant to GTE's request, we clarify that carriers 
+need not maintain records of notice and approval of carrier use of CPNI 
+during inbound calls under section 222(d)(3). Section 64.2007(e) of the 
+Commission's rules requires that carriers maintain customer 
+notification and approval records for one year. Notifications and 
+approvals under section 222(c)(1) and 222(d)(3), however, are markedly 
+different in scope. Notifications and approvals under section 222(c)(1) 
+are valid until revoked or limited by the customer, whereas 
+notifications and approvals for inbound calls pursuant to section 
+222(d)(3) are only valid for the duration of each call. Therefore, 
+unlike the retention of records of notifications and approvals under 
+section 222(c)(1), which we previously concluded would facilitate the 
+disposition of individual complaint proceedings if the sufficiency of a 
+customer's notification or approval is challenged at some later time, 
+requiring the retention of records of section 222(d)(3) notifications 
+and approvals would provide little evidentiary value because the 
+notification and customer's authorization to use CPNI automatically 
+evaporate upon completion of the call. We do not find any advantage to 
+requiring carriers to retain such records for purposes of section 
+222(d)(3). As such, we conclude that such a requirement would place an 
+unnecessary burden on carriers.
+
+X. Procedural Issues
+
+    161. As required by the Regulatory Flexibility Act (RFA), an 
+Initial Regulatory Flexibility Analysis (IRFA) was incorporated in the 
+FNPRM. The Commission sought written public comment on the proposals in 
+the FNPRM, including comment on the IRFA. This present Final Regulatory 
+Flexibility Analysis (FRFA) conforms to the RFA.
+
+I. Need for and Objectives of This Order on Reconsideration and the 
+Rules Adopted Herein
+
+    162. In the Order on Reconsideration, the Commission reconsiders 
+the rules promulgated in the CPNI Order in light of an expanded record 
+to better balance customer privacy concerns with those of customer 
+convenience with the effect of minimizing the impact of our 
+requirements on all carriers, including small and rural carriers. We 
+have amended our rules relating to flagging and audit trails for all 
+carriers, which will have a beneficial impact on small carriers. 
+Additionally, we modify our rules to permit all carriers to use CPNI to 
+market CPE to their customers, without express approval. We also find 
+that customers give implied consent to use CPNI to CMRS carriers for 
+the purpose of marketing all information services, but only give 
+implied consent to wireline carriers for certain information services. 
+We further modify our rules to allow carriers to use CPNI to regain 
+customers who have switched to another carrier.
+
+II. Summary of Significant Issues Raised by Public Comments in Response 
+to the FRFA
+
+    163. As discussed in Section V, a number of small carriers or their 
+advocates present evidence that the safeguard requirements of the CPNI 
+rules are particularly burdensome for small and rural carriers. We 
+recognize, in light of the new evidence presented to the Commission, 
+that the flagging and audit trail requirements promulgated in the CPNI 
+Order might have a disparate impact on rural and small carriers. Our 
+modification of the flagging and audit trail requirements in this 
+order, however, effectively moots the requests we received from the 
+parties seeking special treatment for small and rural carriers with 
+respect to these requirements. Moreover, the restrictions lifted on the 
+marketing of CPE and information services will lessen the impact of 
+compliance with our rules for small and rural carriers, generally, and 
+enable these carriers to more efficiently use their marketing 
+resources.
+
+III. Description and Estimates of the Number of Small Entities Affected 
+by the First Report and Order
+
+    164. The RFA directs agencies to provide a description of and, 
+where feasible, an estimate of the number of small entities that may be 
+affected by the actions taken in this Order on Reconsideration. The RFA 
+generally defines the term ``small entity `` as having the same meaning 
+as the terms ``small business,'' ``small organization,'' and ``small 
+governmental jurisdiction.'' In addition, the term ``small business'' 
+has the same meaning as the term ``small business concern'' under the 
+Small Business Act. A small business concern is one which: (1) Is 
+independently owned and operated; (2) is not dominant in its field of 
+operation; and (3) satisfies any additional criteria established by the 
+Small Business Administration (SBA). The SBA has defined a small 
+business for Standard Industrial Classification (SIC) categories 4812 
+(Radiotelephone Communications) and 4813 (Telephone Communications, 
+Except Radiotelephone) to be small entities when they have no more than 
+1,500 employees. We first discuss generally the total number of small 
+telephone companies falling within both of those SIC categories. Then, 
+we discuss the number of small businesses within the two subcategories, 
+and attempt to refine further those estimates to correspond with the 
+categories of telephone companies that are commonly used under our 
+rules.
+
+[[Page 53261]]
+
+    165. Although affected ILECs may have no more than 1,500 employees, 
+we do not believe that such entities should be considered small 
+entities within the meaning of the RFA because they either are dominant 
+in their field of operations or are not independently owned and 
+operated, and are therefore by definition not ``small entities'' or 
+``small business concerns'' under the RFA. Accordingly, our use of the 
+terms ``small entities'' and ``small businesses'' does not encompass 
+small ILECs. Out of an abundance of caution, however, for regulatory 
+flexibility analysis purposes, we will separately consider small ILECs 
+within this analysis and use the term ``small ILECs'' to refer to any 
+ILECs that arguably might be defined by SBA as ``small business 
+concerns.''
+    166. Total number of telephone companies affected. The United 
+States Bureau of the Census (the Census Bureau) reports that at the end 
+of 1992, there were 3,497 firms engaged in providing telephone 
+services, as defined therein, for at least one year. This number 
+contains a variety of different categories of carriers, including local 
+exchange carriers, interexchange carriers, competitive access 
+providers, cellular carriers, mobile service carriers, operator service 
+providers, pay telephone operators, PCS providers, covered SMR 
+providers, and resellers. It seems certain that some of those 3,497 
+telephone service firms may not qualify as small entities because they 
+are not ``independently owned and operated.'' For example, a PCS 
+provider that is affiliated with an interexchange carrier having more 
+than 1,500 employees would not meet the definition of a small business. 
+It seems reasonable to conclude, therefore, that fewer than 3,497 
+telephone service firms are either small entities or small incumbent 
+LECs that may be affected by this order.
+    167. Wireline carriers and service providers. The SBA has developed 
+a definition of small entities for telephone communications companies 
+other than radiotelephone (wireless) companies. The Census Bureau 
+reports there were 2,321 such telephone companies in operation for at 
+least one year at the end of 1992. According to the SBA's definition, a 
+small business telephone company other than a radiotelephone company is 
+one employing fewer than 1,500 persons. All but 26 of the 2,321 non-
+radiotelephone companies listed by the Census Bureau were reported to 
+have fewer than 1,000 employees. Thus, even if all 26 of those 
+companies had more than 1,500 employees, there would still be 2,295 
+non-radiotelephone companies that might qualify as small entities or 
+small incumbent LECs. Although it seems certain that some of these 
+carriers are not independently owned and operated, we are unable at 
+this time to estimate with greater precision the number of wireline 
+carriers and service providers that would qualify as small business 
+concerns under the SBA's definition. Consequently, we estimate that 
+fewer than 2,295 small entity telephone communications companies other 
+than radiotelephone companies are small entities or small ILECs that 
+may be affected by this order.
+    168. Local exchange carriers. Neither the Commission nor the SBA 
+has developed a definition of small providers of local exchange 
+services. The closest applicable definition under the SBA's rules is 
+for telephone communications companies other than radiotelephone 
+(wireless) companies. The most reliable source of information regarding 
+the number of LECs nationwide of which we are aware appears to be the 
+data that we collect annually in connection with the Telecommunications 
+Relay Service (TRS). According to our most recent data, 1,371 companies 
+reported that they were engaged in the provision of local exchange 
+services. Although it seems certain that some of these carriers are not 
+independently owned and operated, or have more than 1,500 employees, or 
+are dominant we are unable at this time to estimate with greater 
+precision the number of LECs that would qualify as small business 
+concerns under the SBA's definition. Consequently, we estimate that 
+fewer than 1,371 small providers of local exchange service are small 
+entities or small ILECs that may be affected by this order.
+    169. Interexchange carriers. Neither the Commission nor the SBA has 
+developed a definition of small entities specifically applicable to 
+providers of interexchange services (IXCs). The closest applicable 
+definition under the SBA's rules is for telephone communications 
+companies other than radiotelephone (wireless) companies. The most 
+reliable source of information regarding the number of IXCs nationwide 
+of which we are aware appears to be the data that we collect annually 
+in connection with TRS. According to our most recent data, 143 
+companies reported that they were engaged in the provision of 
+interexchange services. Although it seems certain that some of these 
+carriers are not independently owned and operated, or have more than 
+1,500 employees, we are unable at this time to estimate with greater 
+precision the number of IXCs that would qualify as small business 
+concerns under the SBA's definition. Consequently, we estimate that 
+there are fewer than 143 small entity IXCs that may be affected by this 
+order.
+    170. Competitive access providers. Neither the Commission nor the 
+SBA has developed a definition of small entities specifically 
+applicable to providers of competitive access services (CAPs). The 
+closest applicable definition under the SBA's rules is for telephone 
+communications companies other than radiotelephone (wireless) 
+companies. The most reliable source of information regarding the number 
+of CAPs nationwide of which we are aware appears to be the data that we 
+collect annually in connection with the TRS. According to our most 
+recent data, 109 companies reported that they were engaged in the 
+provision of competitive access services. Although it seems certain 
+that some of these carriers are not independently owned and operated, 
+or have more than 1,500 employees, we are unable at this time to 
+estimate with greater precision the number of CAPs that would qualify 
+as small business concerns under the SBA's definition. Consequently, we 
+estimate that there are fewer than 109 small entity CAPs that may be 
+affected by this order.
+    171. Operator service providers. Neither the Commission nor the SBA 
+has developed a definition of small entities specifically applicable to 
+providers of operator services. The closest applicable definition under 
+the SBA's rules is for telephone communications companies other than 
+radiotelephone (wireless) companies. The most reliable source of 
+information regarding the number of operator service providers 
+nationwide of which we are aware appears to be the data that we collect 
+annually in connection with the TRS. According to our most recent data, 
+27 companies reported that they were engaged in the provision of 
+operator services. Although it seems certain that some of these 
+companies are not independently owned and operated, or have more than 
+1,500 employees, we are unable at this time to estimate with greater 
+precision the number of operator service providers that would qualify 
+as small business concerns under the SBA's definition. Consequently, we 
+estimate that there are fewer than 27 small entity operator service 
+providers that may be affected by this order.
+    172. Pay telephone operators. Neither the Commission nor the SBA 
+has developed a definition of small entities specifically applicable to 
+pay telephone operators. The closest applicable definition under the 
+SBA's rules is for telephone communications companies
+
+[[Page 53262]]
+
+other than radiotelephone (wireless) companies. The most reliable 
+source of information regarding the number of pay telephone operators 
+nationwide of which we are aware appears to be the data that we collect 
+annually in connection with the TRS. According to our most recent data, 
+441 companies reported that they were engaged in the provision of pay 
+telephone services. Although it seems certain that some of these 
+carriers are not independently owned and operated, or have more than 
+1,500 employees, we are unable at this time to estimate with greater 
+precision the number of pay telephone operators that would qualify as 
+small business concerns under the SBA's definition. Consequently, we 
+estimate that there are fewer than 441 small entity pay telephone 
+operators that may be affected by this order.
+    173. Wireless carriers. The SBA has developed a definition of small 
+entities for radiotelephone (wireless) companies. The Census Bureau 
+reports that there were 1,176 such companies in operation for at least 
+one year at the end of 1992. According to the SBA's definition, a small 
+business radiotelephone company is one employing no more than 1,500 
+persons. The Census Bureau also reported that 1,164 of those 
+radiotelephone companies had fewer than 1,000 employees. Thus, even if 
+all of the remaining 12 companies had more than 1,500 employees, there 
+would still be 1,164 radiotelephone companies that might qualify as 
+small entities if they are independently owned and operated. Although 
+it seems certain that some of these carriers are not independently 
+owned and operated, we are unable at this time to estimate with greater 
+precision the number of radiotelephone carriers and service providers 
+that would qualify as small business concerns under the SBA's 
+definition. Consequently, we estimate that there are fewer than 1,164 
+small entity radiotelephone companies that may be affected by this 
+order.
+    174. Cellular service carriers. Neither the Commission nor the SBA 
+has developed a definition of small entities specifically applicable to 
+providers of cellular services. The closest applicable definition under 
+the SBA's rules is for telephone communications companies other than 
+radiotelephone (wireless) companies. The most reliable source of 
+information regarding the number of cellular service carriers 
+nationwide of which we are aware appears to be the data that we collect 
+annually in connection with the TRS. According to our most recent data, 
+804 companies reported that they were engaged in the provision of 
+cellular services. Although it seems certain that some of these 
+carriers are not independently owned and operated, or have more than 
+1,500 employees, we are unable at this time to estimate with greater 
+precision the number of cellular service carriers that would qualify as 
+small business concerns under the SBA's definition. Consequently, we 
+estimate that there are fewer than 804 small entity cellular service 
+carriers that may be affected by this order.
+    175. Mobile service carriers. Neither the Commission nor the SBA 
+has developed a definition of small entities specifically applicable to 
+mobile service carriers, such as paging companies. The closest 
+applicable definition under the SBA's rules is for telephone 
+communications companies other than radiotelephone (wireless) 
+companies. The most reliable source of information regarding the number 
+of mobile service carriers nationwide of which we are aware appears to 
+be the data that we collect annually in connection with the TRS. 
+According to our most recent data, 172 companies reported that they 
+were engaged in the provision of mobile services. Although it seems 
+certain that some of these carriers are not independently owned and 
+operated, or have more than 1,500 employees, we are unable at this time 
+to estimate with greater precision the number of mobile service 
+carriers that would qualify under the SBA's definition. Consequently, 
+we estimate that there are fewer than 172 small entity mobile service 
+carriers that may be affected by this order.
+    176. Broadband PCS licensees. The broadband PCS spectrum is divided 
+into six frequency blocks designated A through F, and the Commission 
+has held auctions for each block. The Commission has defined small 
+entity in the auctions for Blocks C and F as an entity that has average 
+gross revenues of less than $40 million in the three previous calendar 
+years. For Block F, an additional classification for ``very small 
+business'' was added and is defined as an entity that, together with 
+its affiliates, has average gross revenue of not more than $15 million 
+for the preceding three calendar years. These regulations defining 
+small entity in the context of broadband PCS auctions have been 
+approved by the SBA. No small business within the SBA-approved 
+definition bid successfully for licenses in Blocks A and B. There were 
+90 winning bidders that qualified as small entities in the Block C 
+auctions. A total of 93 small and very small businesses won 
+approximately 40 percent of the 1,479 licenses for Blocks D, E, and F. 
+However, licenses for Blocks C through F have not been awarded fully; 
+therefore, there are few, if any, small businesses currently providing 
+PCS services. Based on this information, we conclude that the number of 
+small broadband PCS licensees will include the 90 winning bidders and 
+the 93 qualifying bidders in the D, E, and F Blocks, for a total of 183 
+small PCS providers as defined by the SBA and the Commission's auction 
+rules.
+    177. Narrowband PCS licensees. The Commission does not know how 
+many narrowband PCS licenses will be granted or auctioned, as it has 
+not yet determined the size or number of such licenses. Two auctions of 
+narrowband PCS licenses have been conducted for a total of 41 licenses, 
+out of which 11 were obtained by small businesses owned by members of 
+minority groups and/or women. Small businesses were defined as those 
+with average gross revenues for the prior three fiscal years of $40 
+million or less. For purposes of this FRFA, the Commission is utilizing 
+the SBA definition applicable to radiotelephone companies, i.e., an 
+entity employing no more than 1,500 persons. Not all of the narrowband 
+PCS licenses have yet been awarded. There is therefore no basis to 
+determine the number of licenses that will be awarded to small entities 
+in future auctions. Given the facts that nearly all radiotelephone 
+companies have fewer than 1,000 or fewer employees and that no reliable 
+estimate of the number of prospective narrowband PCS licensees can be 
+made, we assume, for purposes of the evaluations and conclusions in 
+this FRFA, that all the remaining narrowband PCS licenses will be 
+awarded to small entities.
+    178. SMR licensees. Pursuant to 47 CFR 90.814(b)(1), the Commission 
+has defined ``small entity'' in auctions for geographic area 800 MHz 
+and 900 MHz SMR licenses as a firm that had average annual gross 
+revenues of less than $15 million in the three previous calendar years. 
+This definition of a ``small entity'' in the context of 800 MHz and 900 
+MHz SMR has been approved by the SBA. The rules adopted in this order 
+may apply to SMR providers in the 800 MHz and 900 MHz bands that either 
+hold geographic area licenses or have obtained extended implementation 
+authorizations. We do not know how many firms provide 800 MHz or 900 
+MHz geographic area SMR service pursuant to extended implementation 
+authorizations, nor how many of these providers have annual revenues of 
+less than $15 million. We assume, for purposes of this FRFA, that all 
+of the extended implementation
+
+[[Page 53263]]
+
+authorizations may be held by small entities, which may be affected by 
+this order.
+    179. The Commission recently held auctions for geographic area 
+licenses in the 900 MHz SMR band. There were 60 winning bidders who 
+qualified as small entities in the 900 MHz auction. Based on this 
+information, we conclude that the number of geographic area SMR 
+licensees affected by the rule adopted in this order includes these 60 
+small entities. No auctions have been held for 800 MHz geographic area 
+SMR licenses. Thus, no small entities currently hold these licenses. A 
+total of 525 licenses will be awarded for the upper 200 channels in the 
+800 MHz geographic area SMR auction. The Commission, however, has not 
+yet determined how many licenses will be awarded for the lower 230 
+channels in the 800 MHz geographic area SMR auction. Moreover, there is 
+no basis on which to estimate how many small entities will win these 
+licenses. Given that nearly all radiotelephone companies have fewer 
+than 1,000 employees and that no reliable estimate of the number of 
+prospective 800 MHz licensees can be made, we assume, for purposes of 
+this FRFA, that all of the licenses may be awarded to small entities 
+who, thus, may be affected by this order.
+    180. Resellers. Neither the Commission nor the SBA has developed a 
+definition of small entities specifically applicable to resellers. The 
+closest applicable definition under the SBA's rules is for all 
+telephone communications companies. The most reliable source of 
+information regarding the number of resellers nationwide of which we 
+are aware appears to be the data that we collect annually in connection 
+with the TRS. According to our most recent data, 339 companies reported 
+that they were engaged in the resale of telephone services. Although it 
+seems certain that some of these carriers are not independently owned 
+and operated, or have more than 1,500 employees, we are unable at this 
+time to estimate with greater precision the number of resellers that 
+would qualify as small business concerns under the SBA's definition. 
+Consequently, we estimate that there are fewer than 339 small entity 
+resellers that may be affected by this order.
+
+IV. Steps Taken To Minimize Significant Economic Impact on Small 
+Entities and Small Incumbent LECs, and Alternatives Considered
+
+    181. We recognize, in light of the new evidence presented to the 
+Commission, that the flagging and audit trail requirements promulgated 
+in the CPNI Order might have a disparate impact on rural and small 
+carriers. We have amended the flagging and audit trail requirements, 
+and as more fully discussed in Section V, the amended rules leave it to 
+the carrier's discretion to determine what sort of system is best for 
+their circumstances. Thus, carriers whose records are not presently 
+maintained in electronic form are not required to implement electronic 
+systems if they do not wish to do so. We believe this modification of 
+our rules will significantly minimize any adverse economic impact on 
+small entities that our original rules may have had.
+
+V. Report to Congress
+
+    182. The Commission shall send a copy of this Supplemental Final 
+Regulatory Flexibility Analysis, along with this Order on 
+Reconsideration, in a report to Congress pursuant to the Small business 
+Regulatory Enforcement Fairness Act of 1996, 5 U.S.C. 801(a)(1)(A). A 
+copy of this SFRFA will also be published in the Federal Register.
+
+B. Supplemental Final Paperwork Reduction Analysis
+
+    183. The CPNI Order from which this Order on Reconsideration issues 
+proposed changes to the Commission's information collection 
+requirements. As required by the Paperwork Reduction Act of 1995, 
+Public Law 104-13, the CPNI Order invited the general public and the 
+Office of Management and Budget (OMB) to comment on the proposed 
+changes. On June 23, 1998, OMB approved all of the proposed changes to 
+our information collection requirements in accordance with the PRA.
+    184. This Order on Reconsideration amends our rules to merely state 
+that telecommunications carriers must implement a system by which the 
+status of a customer's CPNI approval can be clearly established prior 
+to the use of CPNI, and must maintain an audit mechanism that tracks 
+CPNI usage. We have removed the requirements of Sec. 64.2009 (a) and 
+(c) that carriers must develop and implement software that flags a 
+customer's CPNI approval status and must maintain an electronic audit 
+mechanism that tracks access to customer accounts. These amendments are 
+new collections of information within the meaning of the PRA. 
+Implementation of these requirements is subject to approval by the OMB, 
+as prescribed by the PRA.
+
+XI. Ordering Clauses
+
+    185. Accordingly, it is ordered that, pursuant to Sections 1, 4(i), 
+10, 222 and 303(r) of the Communications Act of 1934, as amended, 47 
+U.S.C. 151, 154(i), 160, 222 and 303(r), the Order is hereby adopted. 
+The rules established by the Order contain information collection 
+requirements that have not yet been approved by the Office of 
+Management and budget (OMB). The Commission will publish a document in 
+the Federal Register announcing the effective date of these rules. It 
+is further ordered that, pursuant to sections 1, 4(i) and 222 of the 
+Communications Act of 1934, as amended, 47 U.S.C. 151, 154(i) and 222, 
+the Petitions for Reconsideration, as listed in the Appendix to the 
+Order, are granted to the extent indicated herein and otherwise denied.
+    186. It is further ordered that, pursuant to sections 1, 4(i), 10 
+and 222 of the Communications Act of 1934, as amended, 47 U.S.C. 151, 
+154(i), 160 and 222, the Petitions for Forbearance, as listed in 
+Appendix A hereto, are denied.
+    187. It is further ordered that 64.2005(b)(3) of part 64 of the 
+Commission's rules, 47 CFR 64.2005(b)(3), is removed.
+    188. It is further ordered that 64.2007(f)(4) of part 64 of the 
+Commission's rules, 47 CFR 64.2007(f)(4), is removed.
+    189. It is further ordered, pursuant to sections 4(i) and 303(r) of 
+the Communications Act of 1934, as amended, 47 U.S.C. 154(i) and 
+303(r), that we shall not seek enforcement against carriers regarding 
+compliance with 64.2009(a) and (c) of part 64 of the Commission's 
+rules, 47 CFR 64.2009(a) and (c), as amended herein, until eight months 
+after the release of this Order.
+    190. It is further ordered that part 64 of the Commission's rules, 
+47 CFR is amended. These rules contain information collection 
+requirements that have not yet been approved by OMB. The Commission 
+will publish a document in the Federal Register announcing the 
+effective date of those sections. It is further ordered that the 
+Commission's Office of Public Affairs, Reference Operations Division, 
+shall send a copy of this Order, including the Final Regulatory 
+Flexibility Analysis, to the Chief Counsel for Advocacy of the Small 
+Business Administration.
+
+List of Subjects in 47 CFR Part 64
+
+    Communications common carriers, Reporting and recordkeeping 
+requirements, Telephone.
+
+Federal Communications Commission.
+Magalie Roman Salas,
+Secretary.
+
+Appendix--Petition for Forbearance
+
+    Note: This Appendix will not appear in the Code of Federal 
+Regulations.
+
+[[Page 53264]]
+
+Petitions for Reconsideration Filed May 26, 1998
+
+ALLTEL Communications, Inc. (ALLTEL)
+AT&T Corp.
+BellSouth Corporation
+Comcast Cellular Communications, Inc.
+Competitive Telecommunications Association (CompTel)
+Independent Alliance (Alliance)
+LCI International Telecom Corp.
+MCI Telecommunications Corporation
+Metrocall, Inc. (Metrocall)
+Omnipoint Communications, Inc
+Paging Network, Inc. (PageNet)
+Personal Communications Industry Association (PCIA)
+RAM Technologies, Inc. (RAM)
+SBC Communications Inc.
+Sprint Corporation
+TDS Telecommunications Corporation
+United States Telephone Association (USTA)
+Vanguard Cellular Systems, Inc. (Vanguard)
+
+Petitions for Forbearance
+
+Personal Communications Industry Association (PCIA)
+
+Petitions for Reconsideration/Forbearance
+
+360 deg. Communications Company
+Ameritech
+Bell Atlantic Telephone Companies (Bell Atlantic)
+Cellular Telecommunications Industry Association
+CommNet Cellular Inc.
+GTE Service Corporation (GTE)
+National Telephone Cooperative Association (NTCA)
+Paging Network, Inc.
+PrimeCo Personal Communications, L.P.
+United States Telephone Association
+
+Rule Changes
+
+    For the reasons discussed in the preamble, 47 CFR Part 64 is 
+amended as follows:
+
+PART 64--MISCELLANEOUS RULES RELATING TO COMMON CARRIERS
+
+    1. The authority citation for part 64 continues to read as follows:
+
+    Authority: 47 U.S.C. 10, 201, 218, 226, 228, 332, unless 
+otherwise noted.
+
+
+Sec. 64.2005  [Amended]
+
+    2. In Sec. 64.2005, paragraph(b)(1) is revised, paragraph (b)(3) is 
+removed, and paragraph (d) is added to read as follows:
+* * * * *
+    (b) * * *
+    (1) A wireless provider may use, disclose, or permit access to CPNI 
+derived from its provision of CMRS, without customer approval, for the 
+provision of CPE and information service(s). A wireline carrier may 
+use, disclose or permit access to CPNI derived from its provision of 
+local exchange service or interexchange service, without customer 
+approval, for the provision of CPE and call answering, voice mail or 
+messaging, voice storage and retrieval services, fax store and forward, 
+and protocol conversions.
+* * * * *
+    (d) A telecommunications carrier may use, disclose, or permit 
+access to CPNI to protect the rights or property of the carrier, or to 
+protect users of those services and other carriers from fraudulent, 
+abusive, or unlawful use of, or subscription to, such services.
+
+
+Sec. 64.2007  [Amended]
+
+    3. In Sec. 64.2007 remove paragraph (f)(4).
+
+
+Sec. 64.2009  [Amended]
+
+    4. In Sec. 64.2009, paragraphs (a), (c) and (e) are revised to read 
+as follows:
+    (a) Telecommunications carriers must implement a system by which 
+the status of a customer's CPNI approval can be clearly established 
+prior to the use of CPNI.
+* * * * *
+    (c) All carriers shall maintain a record, electronically or in some 
+other manner, of their sales and marketing campaigns that use CPNI. The 
+record must include a description of each campaign, the specific CPNI 
+that was used in the campaign, the date and purpose of the campaign, 
+and what products or services were offered as part of the campaign. 
+Carriers shall retain the record for a minimum of one year.
+* * * * *
+    (e) A telecommunications carrier must have an officer, as an agent 
+of the carrier, sign a compliance certificate on an annual basis 
+stating that the officer has personal knowledge that the company has 
+established operating procedures that are adequate to ensure compliance 
+with the rules in this subpart. The carrier must provide a statement 
+accompanying the certificate explaining how its operating procedures 
+ensure that it is or is not in compliance with the rules in this 
+subpart.
+* * * * *
+[FR Doc. 99-25232 Filed 9-30-99; 8:45 am]
+BILLING CODE 6712-01-U
+
+
+

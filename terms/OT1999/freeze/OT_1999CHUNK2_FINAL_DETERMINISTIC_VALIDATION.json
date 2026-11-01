@@ -1,0 +1,61 @@
+{
+  "completed_chunk_court_events": 8,
+  "stopped_matters": {
+    "Fraternal Order of Police v. United States": "Stone's approved Commerce Clause holding sustains the presented application on an enacted and proved offense-specific commerce nexus and affirmatively states that the required relationship is present on this record. The recovered source instead presents an association's uniform prospective challenge; it adjudicates no individual's statutory nexus. Stone must specify his disposition and Commerce Clause ground for that actual challenge, including whether he adopts the existing Hiley facial rule while leaving individual nexus proof for an actual enforcement case.",
+    "Weeks v. Angelone": "The approved position does not address the governing amended 28 U.S.C. §2254(d)(1) threshold. Renewed instructions on that threshold and the resulting availability of sentence relief are required before this matter can be assembled.",
+    "Smith v. Robbins": "The State asserted that Teague bars collateral relief because the requested protection was not dictated by prior holdings. Stone approved a functional Anders/McCoy/Penson minimum and its application to Wende's retained-counsel procedure, but did not decide whether that particular protection was already dictated at finality. His merits-reach statement rested on no separate bar being identified in Section I; this defense was omitted there. Stone must supply the confined threshold application, including whether he rejects the defense on the old-rule basis and retains his approved affirmance.",
+    "Richards v. United States": "Stone's approved vacatur rests on missing duty and travel circumstances. The complete lower opinion now supplies authorized early departure without a pass or furlough, travel from his duty station in his own vehicle, an on-base public road, and a homeward personal purpose accepted for dismissal. Stone must specify how his approved incident-to-service rule applies to that claimant-favorable combination and the resulting disposition. The government's disputed tuition-assistance destination cannot supply the answer."
+  },
+  "court_records": [
+    "adarand-constructors-v-slater_summary-merits_2000-01-12.md",
+    "martinez-v-court-of-appeal_merits_2000-01-12.md",
+    "reno-v-condon_merits_2000-01-12.md",
+    "gutierrez-v-ada_merits_2000-01-19.md",
+    "united-states-v-martinez-salazar_merits_2000-01-19.md",
+    "nixon-v-shrink-missouri-government-pac_merits_2000-01-24.md",
+    "reno-price-v-bossier-parish-school-board_merits_2000-01-24.md",
+    "us-west-v-fcc_merits_2000-02-07.md"
+  ],
+  "protected_baseline_files_unchanged": 68,
+  "public_projection_render_input_identity": true,
+  "freeze_runtime_identities": [
+    "OT_1999CHUNK2_ADARAND_COMMITMENTS.md",
+    "OT_1999CHUNK2_ADARAND_RECONCILED.md",
+    "OT_1999CHUNK2_BOSSIER_COMMITMENTS.md",
+    "OT_1999CHUNK2_BOSSIER_RECONCILED.md",
+    "OT_1999CHUNK2_FOP_COMMITMENTS.md",
+    "OT_1999CHUNK2_GUTIERREZ_COMMITMENTS.md",
+    "OT_1999CHUNK2_GUTIERREZ_RECONCILED.md",
+    "OT_1999CHUNK2_GUTIERREZ_SUPPLEMENTAL_COMMITMENTS.md",
+    "OT_1999CHUNK2_GUTIERREZ_SUPPLEMENTAL_RECONCILED.md",
+    "OT_1999CHUNK2_JAN12_TWO_CASE_COMMITMENTS.md",
+    "OT_1999CHUNK2_JAN12_TWO_CASE_RECONCILED.md",
+    "OT_1999CHUNK2_JAN19_FIRST_NEUTRAL.md",
+    "OT_1999CHUNK2_JAN24_NEUTRAL.md",
+    "OT_1999CHUNK2_MARTINEZSALAZAR_COMMITMENTS.md",
+    "OT_1999CHUNK2_MARTINEZSALAZAR_NEUTRAL.md",
+    "OT_1999CHUNK2_MARTINEZSALAZAR_RECONCILED.md",
+    "OT_1999CHUNK2_SHRINK_COMMITMENTS.md",
+    "OT_1999CHUNK2_SHRINK_RECONCILED.md",
+    "OT_1999CHUNK2_SMITH_COMMITMENTS.md",
+    "OT_1999CHUNK2_SMITH_SUPPLEMENTAL_COMMITMENTS.md",
+    "OT_1999CHUNK2_SMITH_TEAGUE_SUPPLEMENTAL_COMMITMENTS.md",
+    "OT_1999CHUNK2_USWEST_COMMITMENTS.md",
+    "OT_1999CHUNK2_USWEST_NEUTRAL.md",
+    "OT_1999CHUNK2_USWEST_RECONCILED.md"
+  ],
+  "manifest_chunk2_completed_stopped_partition": true,
+  "ledger_complete_unique_record_inventory": true,
+  "continuity_seven_required_blocks": true,
+  "forbidden_link_scan": {
+    "text_artifacts": 348,
+    "hits": []
+  },
+  "no_render_task_performed": true,
+  "git_operations": "None; repository verification and commit deferred to operator",
+  "tool_limitations": [
+    "rebuild_ledger uses preserved durable order in a run-local adapter because Git is prohibited",
+    "rebuild_manifest uses a run-local parser adapter for the supplied nine-column annotated-date index; source index and tool unchanged",
+    "check_term Git-reference existence is explicitly deferred; all other checks run"
+  ]
+}

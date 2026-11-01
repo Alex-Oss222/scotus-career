@@ -1,0 +1,17 @@
+{
+  "record": "united-states-v-martinez-salazar_merits_2000-01-19.md",
+  "checks": {
+    "eleven_blocks": true,
+    "opening_labels": true,
+    "public_private_separation": true,
+    "ordinary_explanation_words": [
+      168,
+      241
+    ],
+    "internal_public_holdings_identical": true,
+    "markdown_links_resolve": true,
+    "source_paths": true
+  },
+  "copied_public_projections": 2,
+  "mode": "Durable file handoff; no Git operation."
+}

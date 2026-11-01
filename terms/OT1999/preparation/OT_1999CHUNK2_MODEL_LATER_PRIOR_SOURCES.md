@@ -1,0 +1,22 @@
+# Later-event independent modeling — prior-authority research receipt
+
+This receipt documents source use in the independent non-Stone context. It contains no target historical Supreme Court outcome or private Stone material. The corresponding target neutral packets and fresh validations separately establish target-record provenance. No original target merits briefs, joint appendices or full target Supreme Court opinions were opened by this context.
+
+The following surviving earlier opinions were obtained from official govinfo PDFs, mechanically converted to full text and read in full, including all writings and footnotes. The retained files are full-text copies; the PDF bytes were downloaded for extraction, not retained as separate files by this context.
+
+| Authority | Official source | Retained copy | Use |
+| --- | --- | --- | --- |
+| Penson v. Ohio, 488 U.S. 75 (1988) | https://www.govinfo.gov/content/pkg/USREPORTS-488/pdf/USREPORTS-488-75.pdf | `OT_1999CHUNK2_PENSON_PRIOR_AUTHORITY.txt` | Stevens's Court opinion, O'Connor's concurrence and the opposing position; actual/constructive denial versus inadequate performance, Anders screening and appellate advocacy. |
+| McCoy v. Court of Appeals of Wisconsin, 486 U.S. 429 (1988) | https://www.govinfo.gov/content/pkg/USREPORTS-486/pdf/USREPORTS-486-429.pdf | `OT_1999CHUNK2_MCCOY_PRIOR_AUTHORITY.txt` | Constitutional purposes of counsel's diligent review, supported no-merit submission and additional explanation; dissent's advocacy objection kept distinct. |
+| Jones v. Barnes, 463 U.S. 745 (1983) | https://www.govinfo.gov/content/pkg/USREPORTS-463/pdf/USREPORTS-463-745.pdf | `OT_1999CHUNK2_JONES_BARNES_PRIOR_AUTHORITY.txt` | Professional selection among nonfrivolous issues versus abandoning an appeal; personal choices and preserved limits. |
+| United States v. Johnson, 481 U.S. 681 (1987) | https://www.govinfo.gov/content/pkg/USREPORTS-481/pdf/USREPORTS-481-681.pdf | `OT_1999CHUNK2_JOHNSON_FERES_PRIOR_AUTHORITY.txt` | Preparatory Richards research into existing incident-to-service rule, civilian-tortfeasor issue, O'Connor's majority join and Scalia's dissent joined by Stevens. No Richards commitments were frozen. |
+| United States v. Shearer, 473 U.S. 52 (1985) | https://www.govinfo.gov/content/pkg/USREPORTS-473/pdf/USREPORTS-473-52.pdf | `OT_1999CHUNK2_SHEARER_PRIOR_AUTHORITY.txt` | Preparatory Richards research into actual military-management claims, situs limits, separate §2680(h) plurality and Feres majority. No Richards commitments were frozen. |
+| Brooks v. United States, 337 U.S. 49 (1949) | https://www.govinfo.gov/content/pkg/USREPORTS-337/pdf/USREPORTS-337-49.pdf | `OT_1999CHUNK2_BROOKS_PRIOR_AUTHORITY.txt` | Preparatory Richards research into nonservice highway injury and distinct benefit-offset question. No Richards commitments were frozen. |
+
+The preexisting complete `OT_1999CHUNK2_ROSS_487US81.txt` was read in full, including footnotes 4–5 and the entire Marshall dissent joined by Stevens; official source https://www.govinfo.gov/content/pkg/USREPORTS-487/pdf/USREPORTS-487-81.pdf. The Rule 24(b) and Gutierrez statutory handoffs were read as exact primary-text copies with their stated temporal qualifications. Their text was not reconstructed from memory.
+
+Targeted earlier-term public entries were consulted for actual simulated law and published individual positions: Bossier I (OT1996 chunk 8); Russell (OT1998 chunk 7); M.L.B. (OT1996 chunk 2); Lindh (OT1996 chunk 12); Peguero and Minns (OT1998 chunk 5); J.E.B. (OT1993 chunk 3); and the relevant McCollum holdings and topology (OT1991 chunk 12). These public sources, rather than historical post-divergence dispositions, supply the positions attributed in the commitments. Current neutral projection and the completed January 12 public-law handoff were read; no linked raw current-term Record was opened.
+
+Richards's objective lower-court source and fresh validation were read and the earlier-source-gap premise was recognized as superseded. The root later stopped operator readiness before assembly and directed this context to omit Richards commitments. The stop supplied no substantive private reason to this context, created no Court disposition, and was not used as a merits premise.
+
+All writings and mutations performed by this context were confined to `terms/OT1999/` or `tmp/`. No Git command or access to the private Stone directory was performed. No excluded matter-specific exposure was identified.

@@ -1,0 +1,17 @@
+{
+  "record": "reno-v-condon_merits_2000-01-12.md",
+  "checks": {
+    "eleven_blocks": true,
+    "opening_labels": true,
+    "public_private_separation": true,
+    "ordinary_explanation_words": [
+      257,
+      227
+    ],
+    "internal_public_holdings_identical": true,
+    "markdown_links_resolve": true,
+    "source_paths": true
+  },
+  "copied_public_projections": 3,
+  "mode": "Durable file handoff; no Git operation."
+}

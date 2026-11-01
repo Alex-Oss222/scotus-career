@@ -1,0 +1,76 @@
+{
+  "records": {
+    "gutierrez-v-ada_merits_2000-01-19.md": {
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_private_separation": true,
+      "ordinary_explanation_words": [
+        215
+      ],
+      "internal_public_holdings_identical": true,
+      "markdown_links_resolve": true,
+      "source_paths": true,
+      "fresh_assignment_counts_match": true,
+      "expected_lead_and_complete_join_rows": true,
+      "all_nine_named_judgment": true,
+      "record_order_once": true,
+      "scoped_internal_paths_resolve": true
+    },
+    "united-states-v-martinez-salazar_merits_2000-01-19.md": {
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_private_separation": true,
+      "ordinary_explanation_words": [
+        168,
+        241
+      ],
+      "internal_public_holdings_identical": true,
+      "markdown_links_resolve": true,
+      "source_paths": true,
+      "fresh_assignment_counts_match": true,
+      "expected_lead_and_complete_join_rows": true,
+      "all_nine_named_judgment": true,
+      "record_order_once": true,
+      "scoped_internal_paths_resolve": true
+    },
+    "nixon-v-shrink-missouri-government-pac_merits_2000-01-24.md": {
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_private_separation": true,
+      "ordinary_explanation_words": [
+        293
+      ],
+      "internal_public_holdings_identical": true,
+      "markdown_links_resolve": true,
+      "source_paths": true,
+      "fresh_assignment_counts_match": true,
+      "expected_lead_and_complete_join_rows": true,
+      "all_nine_named_judgment": true,
+      "record_order_once": true,
+      "scoped_internal_paths_resolve": true
+    },
+    "reno-price-v-bossier-parish-school-board_merits_2000-01-24.md": {
+      "eleven_blocks": true,
+      "opening_labels": true,
+      "public_private_separation": true,
+      "ordinary_explanation_words": [
+        99,
+        84,
+        119,
+        294
+      ],
+      "internal_public_holdings_identical": true,
+      "markdown_links_resolve": true,
+      "source_paths": true,
+      "fresh_assignment_counts_match": true,
+      "expected_lead_and_complete_join_rows": true,
+      "all_nine_named_judgment": true,
+      "record_order_once": true,
+      "scoped_internal_paths_resolve": true
+    }
+  },
+  "exact_mechanical_public_handoffs": true,
+  "ordered_new_records": true,
+  "smith_has_no_record": true,
+  "scope": "Own four Jan19/24 Records only; no workspace, term-wide checker or Render claim."
+}

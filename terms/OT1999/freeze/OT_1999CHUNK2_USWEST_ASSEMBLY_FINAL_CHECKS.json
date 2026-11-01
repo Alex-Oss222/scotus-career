@@ -1,0 +1,29 @@
+{
+  "eleven_blocks": true,
+  "opening_labels": true,
+  "public_private_separation": true,
+  "ordinary_explanation_words": [
+    152,
+    245,
+    245,
+    207
+  ],
+  "internal_public_holdings_identical": true,
+  "markdown_links_resolve": true,
+  "source_paths": true,
+  "exact_source_blocks_copied": 3,
+  "public_handoff_byte_identity": true,
+  "draft_record_identity": true,
+  "fresh_before_counts_match": true,
+  "ginsburg_counted_once_after": true,
+  "topology_participation_counts": [
+    9,
+    7
+  ],
+  "one_and_two_justice_separates": true,
+  "record_order_once_after_bossier": true,
+  "internal_source_links_resolve": true,
+  "no_fictional_historical_departure": true,
+  "sha256": "4e15e66e44b7fa4c3429f0e627df275c54dd887a015a6008197487c656391d13",
+  "scope": "This Record and its exact public-law handoff; no workspace or term-wide completion claim."
+}

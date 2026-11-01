@@ -1,0 +1,19 @@
+{
+  "eleven_blocks": true,
+  "opening_labels": true,
+  "public_private_separation": true,
+  "ordinary_explanation_words": [
+    152,
+    245,
+    245,
+    207
+  ],
+  "internal_public_holdings_identical": true,
+  "markdown_links_resolve": true,
+  "source_paths": true,
+  "expected_nine_and_seven_joins": true,
+  "solo_concurrence_and_two_justice_dissent": true,
+  "fresh_assignment_matches": true,
+  "record_order_appended": true,
+  "mechanical_public_handoff": true
+}

@@ -1,0 +1,3677 @@
+(D Supreme Court, U.S. 
+F ]L ED 
+
+
+No. %9 7%8LOCT2 8 1999 
+
+
+dus 
+we. = as 
+
+
+In the Supreme Court of the Gnited States 
+
+
+SHAMMARA RICHARDS, INDIVIDUALLY AND AS PERSONAL 
+REPRESENTATIVE OF THE ESTATE OF CHARLES A. 
+RICHARDS, JR., AND AS GUARDIAN AND NEXT OF KIN OF 
+SHANEE A. RICHARDS AND CHARLES RICHARDS, 
+
+
+Petitioner, 
+
+
+Vv. 
+
+
+UNITED STATES OF AMERICA, 
+
+
+Respondent. 
+
+
+Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Third Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+LEE J. ROHN ALAN E. UNTEREINER 
+Law Offices of Lee J. Rohn ARNON D. SIEGEL 
+1101 King Street Counsel of Record 
+Suite 2 Mayer, Brown & Platt 
+Christiansted, St. Croix 1909 K Street, N.W. 
+
+
+U.S. Virgin Islands 00820 Washington, D.C. 20006 
+(340) 778-8855 (202) 263-3000 
+
+
+QUESTIONS PRESENTED 
+
+
+The Federal Tort Claims Act, 28 U.S.C. §§ 1346(b), 
+2671-2680, waives the federal government’s sovereign 
+immunity for certain tort actions but sets forth 13 enumerated 
+exceptions, including exceptions for all claims arising out of 
+the exercise of a discretionary function, all claims “arising 
+in a foreign country,” and all claims “arising out of the 
+combatant activities of the military * * * during time of 
+war.” Jd. § 2680(a), (j), (k). In Feres v. United States, 340 
+U.S. 135, 138 (1950), this Court recognized a non- 
+enumerated exception for all claims based on injuries to 
+members of the United States armed forces that “arise out of 
+or are in the course of activity incident to service.” 
+
+
+The questions presented in this case are: 
+
+
+1. Whether the Third Circuit, in conflict with decisions 
+of the Second, Fifth, Sixth, Ninth, and Eleventh Circuits, 
+correctly ruled that the Feres doctrine bars suit by a soldier’s 
+widow and children for injuries that arose out of an ordinary 
+automobile accident occurring on a public road running 
+through an Army post, where the decedent’s supposed 
+“activity incident to service” at the time of the fatal accident 
+was driving home in his personal vehicle after completing his 
+military job. 
+
+
+2. Whether, in view of the widespread condemnation 
+of Feres, including by several current Members of this Court 
+(see United States v. Johnson, 481 U.S. 681, 692-703 (1987) 
+(Scalia, J., joined by Brennan, Marshall, and Stevens, JJ., 
+dissenting); Lombard v. United States, 690 F.2d 215, 228- 
+30, 233 (D.C. Cir. 1982) (Ginsburg, J., concurring and 
+dissenting in part), cert. denied, 462 U.S. 1118 (1983)), and 
+given what four judges of the Third Circuit in this case 
+called “the compelling argument for the abandonment of 
+Feres,” this Court should, as the Third Circuit judges urged, 
+“grant certiorari to revisit” Feres and overrule it. 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED ................. i 
+Meee SOW PARP RERUPE BEES 2 ww te Vv 
+re a eee eee l 
+SES Te l 
+STATUTORY PROVISIONS INVOLVED ........ l 
+ho cal 4h 9 aw 64 oie Woes wae ew es l 
+A. The Federal Tort Claims Act And The Judicial 
+Creation Of The Feres Doctrine ......... 2 
+m. sme wemcwegms BOW oj. ww te ee 4 
+REASONS FOR GRANTING THE PETITION ..... 9 
+
+
+I. THE THIRD CIRCUIT’S TEST FOR DETER- 
+MINING WHAT CONSTITUTES “ACTIVITY 
+INCIDENT TO SERVICE” AND ITS HOLDING 
+THAT FERES BARS PETITIONER’S CLAIMS 
+CONFLICT WITH THE DECISIONS OF OTHER 
+a ne aa el a cave Yin a a oleae 11 
+
+
+A. The Circuits Have Adopted Vastly Different 
+Approaches To Applying The Feres Doctrine 11 
+
+
+B. In Other Circuits, Feres Would Not Have 
+Barred Petitioner’s Claims. ........... 14 
+
+
+C. The Circuits Have Reached Conflicting Results 
+In Cases Factually Similar To This One ... 17 
+
+
+D. The Decision Below Was Wrong ........ 18 
+
+
+iV 
+TABLE OF CONTENTS — Continued 
+Page 
+
+
+Il. IN LIGHT OF THE WIDESPREAD CRITICISM 
+OF THE FERES DOCTRINE AND WHAT FOUR 
+THIRD CIRCUIT JUDGES CALLED “COMPEL- 
+LING ARGUMENT[S]” FOR ITS “ABANDON- 
+MENT,” THIS COURT SHOULD CONSIDER 
+
+
+Pr ea a a ew ee 20 
+A. Feres Has Been The Subject Of Withering 
+ET I Sign ee ee ae ee 20 
+B. The Feres Doctrine Has Proved To Be Unwork- 
+ee ee Ski an es ae ete Sa 24 
+C. Feres Was Wromely Decided .... 2.0.5. 24 
+
+
+D. Stare Decisis Provides No Good Reasons To 
+SR UNE kg oso hd 4 wan eS ee af 
+
+
+CE ck 5s 5 nse 6 8 Ne ek 29 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page(s) 
+
+Cases: 
+Bowers v. United States, 904 F.2d 450 
+
+Ek a. eran ire rerene ay a 21 
+Bozeman v. United States, /80 F.2d 198 
+
+‘tLe a res re wr re en 21 
+Bradshaw v. United States, 443 F.2d 759 
+
+2.0. Ce. WORE. 66s oie eee ease 13 
+Briggs v. United States, 617 F. Supp. 1399 
+
+(D.R.I. 1985), aff'd mem., 
+
+767 F.26 S78 (ime Ce. TORR) kc ew ess 20 
+Brooks v. United States, 
+
+937 US: Se es oe eee eee ees passim 
+Brown v. United States, 151 F.3d 800 
+
+es CH. SH ea es FO eee ke eR eG 14 
+C.R.S. v. United States, 761 F. Supp. 665 
+
+(E>. Wii. TOPE nk ie ee ee ee 22 
+Cutshall v. United States, 75 F.3d 426 
+
+Ce Ge TS Me ee ees 10, 21 
+Day v. Massachusetts Air Nat’l Guard, 
+
+167 F.36 G78 Clim Ce. TPR ok vs ees 12, 20 
+
+
+Dreier v. United States, 106 F.3d 844 
+Pe Ee Te 6 eS eee ee OS eee 14, 16 
+
+
+vi 
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+
+
+Elliott v. United States, 13 F.3d 1555 
+(11th Cir.), vacated, 28 F.3d 1076 
+(11th Cir.), judgment aff'd by 
+equally divided court, 37 F.3d 617 
+Clie CH. Se ke eo eee 17, 22 
+
+
+Estate of McAllister v. United States, 
+942 F.2d 1473 (9th Cir. 1991), 
+cert. denied, 502 U.S. 1092 (1992) ....... 14, 22 
+
+
+Feres v. United States, 
+SOD U.S. Tae Ee hg ean chee passim 
+
+
+Fleming v. U.S. Postal Service, 
+186 F.3d 697 (6th Cir. 1999) ....... iz, i3, 87 
+
+
+Flowers v. United States, 764 F.2d 759 
+C100 CR: TR 6 vas ee eee 6,7 
+
+
+Graham v. United States, 753 F. Supp. 994 
+CD. Bie. TPO) von sé 4 Si ee eee eee 20 
+
+
+Green v. Hall, 8 F.3d 695 (9th Cir. 1993), 
+cert. denied, 513 U.S. 809 (1994) ......... 16 
+
+
+Hall v. United States, 528 F. Supp. 963 
+(D.N.J. 1981), aff'd mem., 
+GGG F.20 Gen Gb ha. Bees 4s 8 se eee ee 21 
+
+
+Hinkie v. United States, 715 F.2d 96 
+(3d Cir. 1983), cert. denied, 
+465 US. See Clee + sk eee eee eee 21 
+
+
+Hohn v. United States, 524 U.S. 236 (1998) .... 28, 29 
+
+
+Vil 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+
+Hunt v. United States, 636 F.2d 580 
+
+e-Sae  a cauraeen yl cla eee 22 
+In re “Agent Orange” Prod. Liability Litig. , 
+
+580 F. Supp. 1242 (E.D.N.Y.), appeal 
+
+dismissed, 745 F.2d 161 (2d Cir. 1984) ...... 21 
+Jones v. LaRiviera Club, Inc., 
+
+655 F. Supp. 1032 (D.P.R. 1987) ......... 20 
+Kohn v. United States, 680 F.2d 922 
+
+Gens CE ie ee ee a ee ie es 21 
+LaBash v. U.S. Department of the Army, 
+
+668 F.2d 1153 (10th Cir.), cert. denied, 
+
+GO W.ce. DP CRED 6 nk cc che ewe wncen 22 
+Lauer v. United States, 968 F.2d 1428 (1st Cir.), 
+
+cert. denied, 506 U.S. 1033 (1992) ......... 18 
+Lombard v. United States, 690 F.2d 215 
+
+(D.C. Cir. 1982), cert. denied, 
+
+ee: Siome SAU RUOY: 6 c-6 S-5-a eh ow ws 23 
+Lutz v. Secretary of the Air Force, 
+
+944 F.2d 1477 (9th Cir. 1991) ........ 16-17, 22 
+Miller v. United States, 42 F.3d 297 
+
+ee ote Se oe ha htc eee Be 12 
+Mills v. Tucker, 499 F.2d 866 (9th Cir. 1974)... .. 16 
+Minns v. United States, 155 F.3d 445 (4th Cir. 
+
+1998), cert. denied, 119 S. Ct. 874 (1999) .... 10 
+
+
+Deceeeiesiateeaaeneienieere ence 
+
+
+Vill 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+
+Monaco v. United States, 661 F.2d 129 
+
+(9th Cir. 1981), cert. denied, 
+
+Soe Se Se ce ee ww ee 22 
+Mondelli v. United States, 711 F.2d 567 
+
+(3d Cir. 1983), cert. denied, 
+
+ee ne ia we 21 
+Monell v. New York City Dep’t of Social Servs., 
+
+eS OEE vos we kk so ee 28-29 
+O’Callahan v. Parker, 395 U.S. 258 (1969) ...... 24 
+Ocello v. United States, 685 F. Supp. 100 
+
+IER) ese a Ne ee a ae 21 
+Parker v. United States, 611 F.2d 1007 
+
+RN I a a res ek ane ae as 18, 21 
+Patterson v. McLean Credit Union, 
+
+ee ae ee ee Soca re oS a ie a 28, 29 
+Patterson v. McLean Credit Union, 
+
+ee ek cc ee os ee ae oe 29 
+Persons v. United States, 925 F.2d 292 
+
+Pe ee es a, ao a ina ey ta ake 22 
+Pierce v. United States, 813 F.2d 349 
+
+be a ie Ae aera Pee 17-18 
+
+
+Punnett v. United States, 602 F. Supp. 530 
+ee Ek hack ie Ca ee eS 21 
+
+
+GANGS PRR 
+
+
+iX 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+
+Sanchez v. United States, 813 F.2d 593 
+
+RE MI org ag tee Sue ha ge UE ele 21 
+Saudi Arabia v. Nelson, 
+
+re 18, 28 
+Scales v. United States, 685 F.2d 970 
+
+(Sth Cir. 1982), cert. denied, 
+
+ee ice, Oc ee ee 21 
+Schoemer v. United States, 59 F.3d 26 
+
+(Sth Cir.), cert. denied, 
+
+Be are, PE 6 ok hoo eee ee ek es 13 
+Selbe v. United States, 130 F.3d 1265 
+
+oe ae ENR rae eee 12 
+Shaw v. United States, 854 F.2d 360 
+
+a, EE soa eh ae es 8 Ka eS 12, 18 
+Skees v. United States, 107 F.3d 421 
+
+NY SE oe oe og se a a a ee a 14 
+Solorio v. United States, 
+
+ee Seca MU RE wk kee ee es 27 
+State Oil Co. v. Khan, 522 U.S. 3 (1997) ....... 29 
+Stephenson v. Stone, 21 F.3d 159 
+
+IC Sa ea ea eee We Ne 12 
+
+
+Stewart v. United States, 90 F.3d 102 
+Ye A ar ar ae 12, 18 
+
+
+xX 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+
+Taber v. Maine, 67 F.3d 1029 
+
+(oe Se Se eis oa eek ieee passim 
+Troglia v. United States, 602 F.2d 1334 
+
+Ge Ga, SOE Wa kes ek ee ee ee 6, 7, 16 
+United States v. Johnson, 
+
+oe Se. SOR ERE a ee eee eae passim 
+United States v. Shearer, 
+
+Gio Sime Ge Meee kb aK ee 8, 13-14 
+United States v. Stanley, 
+
+SES U.S. Bee CEO) oo 6 i eee es 18, 28 
+Veillette v. United States, 615 F.2d 505 — 
+
+ee a I ee pra ee ww 6 es 23-24 
+Veloz-Gertrudis v. United States, 
+
+768 F. Supp. 38 (E.D.N.Y.), 
+
+aff'd mem., 953 F.2d 636 
+
+(2d Cir. 1991), cert. denied, 
+
+re oe Ee Ce ek le eG 21 
+Verma v. United States, 19 F.3d 646 
+
+Sc NI eh -e  ec ase waace 12 
+Wake v. United States, 89 F.3d 53 
+
+Se ae I ee tk Orn are a a ey a en 14 
+
+
+Whitley v. United States, 170 F.3d 1061 
+ee ee Eg oe a a oe ee es 12 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+
+Statutes: 
+ee ND ee es bes ee 1 
+28 U.S.C. §§ 1346(b), 2671-2680 ............ 2-3 
+ok oe |) Ce a ae 
+Ck Se ee ere eee 2-3, 25 
+Pub. L. No. 79-601, title IV, § 424, 
+
+ee | a 26 
+Miscellaneous: 
+8 Am. Jur. 2d, Automobiles and 
+
+Highway Traffic § 771 (1997) ............ 15 
+Annotation, Employer’s Liability for 
+
+Negligence of Employee in Driving 
+
+His or Her Own Automobile, 
+
+27 A.L.R. 5th 174 (1995) ..........0... 15 
+Bennett, The Feres Doctrine, Discipline and the 
+
+Weapons of War, 29 St. Louis U. L.J. 383 
+
+Cs ee ae ee as ay ere ons t 23 
+Comment, The Feres Doctrine: Has It Created 
+
+Remediless Wrongs For Relatives of 
+
+Servicemen?, 44 U. Pitt. L. REV. 929 (1983) .. 23 
+
+
+Note, From Feres to Stencel: Should Military 
+Personnel Have Access to FTCA Recovery?, 
+77 MICH. L. REV. 1099 (1979) ........... 23 
+
+
+xii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+
+Note, Making Intramilitary Tort Law More Civil: 
+
+A Proposed Reform of the Feres Doctrine, 
+
+Pe TAR Ess. Poe Gee 6 6 hee eee 23 
+Note, Military Medical Malpractice and the Feres 
+
+Doctrine, 20 GA. L. REV. 497 (1986) ........ 23 
+Note, Servicemembers’ Rights Under the Feres 
+
+Doctrine: Rethinking “Incident To Service” 
+
+Analysis, 33 VILL. L. REV. 175 (1988)... .... 23 
+Note, United States v. Johnson: Feres Doctrine 
+
+Gets New Life and Continues To Grow, 
+
+38 AM. U. L. REV. 185 (1988) ........... 26 
+Rhodes, The Feres Doctrine After Twenty-Five 
+
+Years, 18 A.F. L. REV. 24 (1976) ......... 23 
+Seidelson, The Feres Exception to the Federal 
+
+Tort Claims Act: New Insight Into an Old 
+
+Problem, 11 HOFSTRA L. REV. 629 (1983) .... 23 
+
+
+Tomes, Feres to Chappell to Stanley: Three Strikes 
+and Servicemembers Are Out, 25 U. RICH. 
+bi: SY. a's oo ow tee ee oe 23 
+
+
+Seidelson, From Feres v. United States to Boyle v. 
+United Technologies Corp. : An Examination 
+of Supreme Court Jurisprudence and a Couple 
+of Suggestions, 32 Dug. L. REV. 219 (1994) ... 23 
+
+
+Wells, Providing Relief to the Victims of Military 
+Medicine, 32 Dug. L. REV. 109 (1994) ...... 23 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (App., infra, 1a-10a) 
+is reported at 176 F.3d 652. The opinion of Judge Rendell, 
+joined by Chief Judge Becker and Judges Nygaard and 
+McKee, dissenting from the denial of rehearing en banc 
+(App., infra, 11a-12a) is reported at 180 F.3d 564. The 
+opinion of the district court (App., infra, 13a-23a) is re- 
+ported at 1 F. Supp. 2d 498. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+May 5, 1999, and rehearing was denied on June 30, 1999 
+(App., infra, 10a, 11a). On September 17, 1999, Justice 
+Souter extended the time in which to file the petition for a 
+writ of certiorari to and including October 28, 1999. This 
+Court’s jurisdiction is invoked under 28 U.S.C. § 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+The relevant provisions of the Federal Tort Claims Act 
+are set forth at App., infra, 24a-27a. 
+
+
+STATEMENT 
+
+
+Private Charles A. Richards, Jr. was killed by an Army 
+truck while driving home from work at Fort Knox to care for 
+his pregnant wife. His widow brought a wrongful death 
+action, alleging both that the truck had been negligently 
+maintained, and that the driver of the truck had been negli- 
+gent in driving it. Recognizing a division in the circuits on 
+whether claims of this sort could proceed under Feres v. 
+United States, 340 U.S. 135 (1950), a panel of the Third 
+Circuit held that Feres barred the suit. At the same time, 
+however, the Third Circuit “express[ed] misgivings about” 
+its decision and acknowledged that the result was “counter- 
+intuitive and inequitable” as well as illustrative of “the 
+disconnect that has come to exist between the philosophy 
+behind Feres and its application.” App., infra, 8a, 10a. 
+
+
+2 
+
+
+Four judges of the Third Circuit dissented from the denial of 
+rehearing en banc. Calling Feres a “travesty,” they “urge[d] 
+the Supreme Court to grant certiorari” and overrule it. Jd. 
+at 12a. 
+
+
+A. The Federal Tort Claims Act And The Judicial 
+Creation Of The Feres Doctrine. 
+
+
+1. In 1946, Congress enacted the Federal Tort Claims 
+Act (FTCA), 28 U.S.C. §§ 1346(b), 2671-2680, which 
+waives federal sovereign immunity for certain tort actions 
+and vests the federal district courts with exclusive jurisdiction 
+over such actions. Specifically, the FTCA permits the 
+imposition of liability 
+
+
+for injury or loss of property, or personal injury or death 
+caused by the negligent or wrongful act or omission of 
+any employee of the Government while acting within the 
+scope of his office or employment, under circumstances 
+where the United States, if a private person, would be 
+liable to the claimant in accordance with the law of the 
+place where the act or omission occurred. 
+
+
+Id. § 1346(b). An “employee of the Government” is defined 
+as including “members of the military or naval forces of the 
+United States.” Jd. § 2671. The FTCA also specifies that 
+the phrase “acting within the scope of his office or employ- 
+ment” in Section 1346(b) “means acting in [the] line of duty” 
+in “the case of a member of the military or naval forces of 
+the United States.” 28 U.S.C. § 2671. 
+
+
+The broad waiver of immunity contained in the FTCA, 
+however, is subject to no fewer than 13 enumerated excep- 
+tions. See 28 U.S.C. § 2680. For example, Congress 
+expressly exempted “[a]ny claim arising out of the combatant 
+activities of the military or naval forces, or the Coast Guard, 
+during time of war.” Jd. § 2680(j). It also broadly ex- 
+empted “[a]ny claim arising in a foreign country.” Jd. § 
+2680(k). Except for certain intentional tort claims brought, 
+against federal investigative or law enforcement officers, 
+
+
+3 
+
+
+Congress exempted intentional torts, including all claims 
+“arising out of assault, battery, false imprisonment, false 
+arrest, malicious prosecution, abuse of process, libel, 
+slander, misrepresentation, deceit, or interference with 
+contract rights.” Jd. § 2680(h). And Congress exempted all 
+claims “based upon the exercise or performance or the 
+failure to exercise or perform a discretionary function or duty 
+on the part of * * * an employee of the Government.” Jd. 
+§ 2680(a). 
+
+
+2. Shortly after the FTCA was enacted, this Court 
+decided Brooks v. United States, 337 U.S. 49 (1949). In 
+Brooks, two soldiers and their father were driving on a 
+public highway when they were hit by an Army truck. The 
+government moved to dismiss for lack of jurisdiction, 
+arguing that because the brothers were in the Army, claims 
+arising from their injuries and death were excepted from the 
+FTCA. The Court rejected the argument. “The statute’s 
+terms are clear. They provide for District Court jurisdiction 
+over any claim founded on negligence brought against the 
+United States. We are not persuaded that ‘any claim’ means 
+‘any Claim but that of servicemen.’” Jd. at 51 (emphasis in 
+original). The accident, explained the Court, “had nothing 
+to do with the [brothers’] Army careers * * * except in the 
+sense that all human events depend on what has already 
+transpired.” Jd. at 52. 
+
+
+A year after Brooks, the Court decided Feres v. United 
+States, 340 U.S. 135 (1950). Two of the three consolidated 
+cases involved claims of medical malpractice; the third was 
+a wrongful death claim arising out of a soldier’s death in a 
+barracks fire. Deciding that none of the claims should have 
+been permitted to go forward, the Feres Court held that in 
+addition to the exceptions specified by Congress in the 
+FTCA, Congress intended to exempt all tort claims “for 
+injuries to servicemen where the injuries arise out of or are 
+in the course of activity incident to service.” 340 U.S. at 
+146. In United States v. Johnson, 481 U.S. 681 (1987), four 
+
+
+4 
+
+
+dissenting Justices criticized Feres as “wrongly decided and 
+heartily deserv[ing of] the widespread, almost universal 
+criticism it has received.” Jd. at 701 (Scalia, J., joined by 
+Brennan, Marshall, and Stevens, JJ.) (internal quotation 
+marks omitted). 
+
+
+B. The Proceedings Below. 
+
+
+1. On June 26, 1995, Private Charles A. Richards, Jr. 
+was killed by a five-ton Army truck. He was 21 years old. 
+The accident took place on Kentucky Highway 1638, a public 
+road crossing Fort Knox, in Muldraugh, Kentucky, near an 
+intersection with another public road. According to the 
+official accident report of the Kentucky State Police, the 
+Army truck ran a red light and broadsided Mr. Richards’s 
+car, shoving it into a ditch, and finally coming to rest on top 
+of the car, crushing Mr. Richards to death. C.A. Joint App. 
+187. At the time he was killed, Mr. Richards was off duty 
+for the day and was driving home in his personal car to care 
+for his wife, Shammara, who was three months pregnant 
+with their second child. 
+
+
+2. On March 26, 1997, Mrs. Richards initiated this 
+wrongful death suit in the United States District Court of the 
+Virgin Islands. Invoking the FTCA as the basis for jurisdic- 
+tion and naming the United States as defendant, Mrs. 
+Richards advanced claims for herself as well as on behalf of 
+her husband’s estate and her two minor children, Shanee and 
+Charles. App., infra, 28a-32a. As bases for liability, Mrs. 
+Richards alleged that the Army had been negligent in failing 
+to properly maintain the truck involved in the accident, in 
+allowing the truck to be operated in an unsafe condition 
+(including being equipped with defective front brakes, 
+damaged tail and rear turn lamps, contaminated brake fluid, 
+and an inoperable horn), and in allowing the driver of the 
+truck to drive it even though he was not licensed to operate 
+a vehicle of that class. Jd. at 30a-3la. Mrs. Richards also 
+alleged that the government was liable under a theory of 
+
+
+5 
+
+
+respondeat superior for the driver’s negligence in running a 
+red light and losing control. Jd. at 31a. 
+
+
+The government answered, admitting that the truck’s 
+driver “was acting within the course and scope of his federal 
+employment at the time of the accident.” App., infra, at 
+35a. The government denied, among other things, that Mr. 
+Richards was on personal business at the time of the acci- 
+dent. Ibid. The government also asserted various defenses, 
+including that the court lacked subject matter jurisdiction and 
+that Mrs. Richards’s claims were “barred by the Feres 
+Doctrine.” Ibid. Relying on Feres, the government then 
+moved to dismiss the complaint for lack of subject matter 
+jurisdiction. 
+
+
+3. Accepting the allegations in the complaint as true 
+(including the allegation that Mr. Richards was off duty and 
+headed home when he was killed), the U.S. District Court of 
+the Virgin Islands granted the government’s motion to 
+dismiss. App., infra, 13a-23a. The court described its 
+approach as follows. First, in deciding whether the injuries 
+in this case “arise out of or are in the course of activity 
+incident to [military] service,” the court had to consider “the 
+totality of the circumstances,” including “(1) the service 
+member’s duty status; (2) the situs of the injury; (3) and the 
+activity the service member was performing.” Jd. at 16a. 
+“When the totality of the circumstances show that the Feres 
+doctrine bars suit,” the court reasoned, it “may dismiss the 
+suit without considering the underlying Feres doctrine 
+rationales.” Jd. at 16a-17a. “On the other extreme,” 
+however, “even when the three-factor totality of the circum- 
+stances test strongly indicates that the Feres doctrine does not 
+bar suit, the Court must look to the Feres doctrine rationales 
+before permitting suit.” Jd. at 17a. The court described 
+those rationales: avoiding judicial involvement in military 
+affairs; preserving the “federal nature” of the relationship 
+between service members and the government; and prevent- 
+ing excess tort recovery by those eligible for benefits such as 
+
+
+6 
+
+
+the “death gratuity” and certain other benefits provided to 
+Mrs. Richards. Jd. at 16a. 
+
+
+The court first considered Mrs. Richards’s argument that 
+all three of the “factors generally considered in the totality 
+of the circumstances conclusively show that [Mr.] Richards’ 
+death did not occur incident to service,” because “[Mr.] 
+Richards was in off-duty status, on a public road, and 
+performing an act not related to his military duties — going 
+home.” App., infra, 17a. The district court observed that 
+the Ninth Circuit, in a “factually similar case,” “held that 
+suit by an off-duty service member injured while possibly 
+returning to the base after enjoying a short period of liberty, 
+on a public road passing across an easement on military 
+property, may not be barred by the Feres doctrine.” Id. at 
+17a (citing Troglia v. United States, 602 F.2d 1334 (9th Cir. 
+1979)). In contrast, the court wrote, the Eleventh Circuit 
+had held that Feres barred suit when an off-duty service 
+member who was driving home from the grocery store was 
+injured on a public road running through an easement on 
+military property. Jd. at 17a-18a (citing Flowers v. United 
+States, 764 F.2d 759 (11th Cir. 1985)). Although the district 
+court suggested that consideration of “the three-factor test 
+points more strongly toward finding a Feres bar than toward 
+permitting suit,” it ultimately ruled that application of that 
+test was “inconclusive.” Jd. at 19a. It did so because “the 
+two circuits that have considered factually similar cases are 
+split and because the Third Circuit has not had occasion to 
+review a factually similar case.” Jbid.; see also id. at 23a 
+(again noting existence of “split” in the circuits). 
+
+
+Turning finally to Feres’s rationales, the district court 
+concluded that they “support a finding that the Plaintiffs’ suit 
+is barred by the Feres doctrine.” App., infra, at 19a-22a. 
+On that basis, it dismissed the lawsuit. 
+
+
+4. The Third Circuit affirmed. App., infra, 1a-10a. 
+At the outset, it noted that “[t]he Supreme Court has not 
+articulated a specific method for determining whether an 
+
+
+7 
+
+
+injury is ‘incident’ to military service,” but has instead 
+“instructed courts to examine each case in light of the statute 
+as it has been construed in Feres and subsequent cases.” Jd. 
+at 4a (internal quotation marks omitted). Echoing the district 
+court’s initial analysis, the Third Circuit explained that, “[t]o 
+assist in that inquiry,” the lower courts “consider a number 
+of factors including: (1) the service member’s duty status; (2) 
+the site of the accident: and (3) the nature of the service 
+member’s activity at the time of the injury.” Ibid. 
+
+
+Like the district court, the Third Circuit took note of the 
+fact that “the two United States Courts of Appeals that have 
+considered” the applicability of Feres to “similar facts differ 
+on whether Feres bars suit.” App., infra, at 5a (citing the 
+Eleventh Circuit’s decision in Flowers and the Ninth 
+Circuit’s decision in Troglia). Nevertheless, it concluded 
+that this case was more analogous to Flowers, where Feres 
+had been applied to bar suit. The panel emphasized that the 
+accident that took Mr. Richards’s life had occurred on a 
+public highway, but one that ran through a military installa- 
+tion. Jd. at 6a-7a. In addition, wrote the panel, “Private 
+Richards’s activity at the time of the accident supports the 
+application of Feres.” Id. at 7a. The panel thought it 
+significant that, at the time of the accident, Mr. Richards was 
+“driving home from his duty station” across military prop- 
+erty and not “simply driving on a public road as a member 
+of the public.” Jbid. The panel hinted that these facts might 
+have been, but were not necessarily, dispositive: “Had 
+Private Richards been struck by a military vehicle while 
+traveling home from a place unrelated to his military service, 
+or on a public road outside the Army base, we may have 
+reached a different conclusion.” Jbid. On the basis of this 
+analysis, the panel concluded that Feres barred suit under the 
+“totality of the circumstances.” Jd. at 8a. 
+
+
+Unlike the district court, which in a two-step process had 
+examined the result in light of Feres’s rationales, the Third 
+Circuit held that only one step was proper. Once a court 
+
+
+8 
+
+
+determines that activity was incident to service, on the basis 
+of “the totality of the circumstances in light of the evaluation 
+of the factors,” inquiry into Feres’s purposes is unnecessary. 
+At the same time, however, the Third Circuit went on to 
+examine Feres’s purposes in order to explain why the result 
+in this case — which it called “counter-intuitive and 
+inequitable” — “illustrates the disconnect that has come to 
+exist between the philosophy behind Feres and its applica- 
+tion.” App., infra, 8a, 10a. 
+
+
+Quoting United States v. Shearer, 473 U.S. 52, 57 
+(1985), the panel observed that Feres 
+
+
+seems best explained by the peculiar and special relation- 
+ship of the soldier to his superiors, the effects of the 
+maintenance of such suits on discipline, and the extreme 
+results that might obtain if suits under the Tort Claims 
+Act were allowed for negligent orders given or negligent 
+acts committed in the course of military duty. 
+
+
+App., infra, 8a. An action in which “a soldier attempted to 
+sue the commander of his platoon for injuries received during 
+battle” would obviously threaten the “special relationship 
+between soldier and superior,” and would be barred under 
+Feres. Id. at 9a. To the panel, however, this case was 
+vastly different. Mr. Richards had been killed on a public 
+highway, maintained and patrolled by the Commonwealth of 
+Kentucky, and used by anyone who chose to drive on it. 
+“[U]nlike the hypothetical * * * involving a soldier engaged 
+in combat, the accident that took Private Richards’s life was 
+not necessarily related to his military duty.” Jbid. Rather, 
+
+
+it was purely a matter of chance that Private Richards’s 
+automobile, rather than a civilian’s vehicle, was struck 
+by the military fuel truck, and that Private Richards, 
+rather than a civilian, was killed. 
+
+
+Ibid. The widow of a civilian would obviously be free to sue 
+the Army without fear of Feres; that lawsuit, in turn, would 
+
+
+: 
+: 
+
+
+9 
+
+
+be “no less or more intrusive” than Mrs. Richards’s. The 
+court wrote: 
+
+
+[W]hile it is true that but for Private Richards’ active 
+Status in the military, he would not have been “in the 
+Same place at the same time with the same purpose” at 
+the time of the accident, it is not at all clear that Mrs. 
+Richards’s suit implicates the “special relationship” 
+between her deceased husband and his superiors in the 
+manner contemplated [by the Supreme Court]. 
+
+
+Id. at 9a-10a. “Thus,” the panel concluded, “we are left 
+with a counter-intuitive and inequitable result simply because 
+of Private Richards’s military status.” Jd. at 10a. 
+
+
+5. Four judges of the Third Circuit dissented from the 
+denial of rehearing en banc. App., infra, 11a-12a (Rendell, 
+J., joined by Becker, C.J., and Nygaard and McKee, JJ., 
+dissenting). “This case,” they wrote, “presents yet another 
+compelling argument for the abandonment of the Feres 
+doctrine.” Jd. at 1la. The four judges criticized Feres 
+because it “represents * * * a ‘bad estimation[]’ of what 
+Congress intended to do (but did not do), in the Federal Tort 
+Claims Act.” Jd. at 1la-12a (quoting Justice Scalia’s dissent 
+in United States v. Johnson, 481 U.S. 681, 695 (1987)). No 
+less disturbing, they wrote, Feres is “being employed by 
+many Courts on a regular basis to deny a military employee’s 
+recovery and to prevent the government’s accountability for 
+injuries sustained in connection with essentially civilian 
+activities wholly unrelated to military service.” Jd. at 12a. 
+Calling the Feres doctrine a “travesty,” the judges “urge[d] 
+the Supreme Court to grant certiorari,” to “revisit” Feres, 
+and to overrule it. Jbid. 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+This case presents a question over which the courts of 
+appeals are hopelessly divided: how to determine whether 
+injuries are suffered as a result of “activity incident to 
+service” within the meaning of Feres v. United States, 340 
+
+
+10 
+
+
+U.S. 135, 138 (1950). The question is of critical importance 
+to members of the American military and their families and 
+dependents, for the answer determines whether or not in a 
+particular case they will be afforded the remedies available 
+to all other Americans under the Federal Tort Claims Act. 
+
+
+As the Third Circuit stressed, Mrs. Richards’s lawsuit is 
+nothing like one in which “a soldier attempt[s] to sue the 
+commander of his platoon for injuries received during battle” 
+(App., infra, 9a), the paradigmatic example of “activity 
+incident to service.” Nor does this case involve a service 
+member’s challenge to any peculiarly military judgments, 
+which would also unquestionably be barred under Feres. 
+Cf., e.g., Minns v. United States, 155 F.3d 445 (4th Cir. 
+1998) (barring claims by children born of Gulf War veterans 
+for severe birth defects caused by pesticides administered in 
+anticipation of defending against biological and chemical 
+warfare), cert. denied, 119 S. Ct. 874 (1999). Nor is Mrs. 
+Richards’s action one for military medical malpractice, to 
+which all the circuits apply a rule that (unjust though it might 
+be) at least has the virtue of uniformity: the plaintiff always 
+loses. Cf., e.g., Cutshall v. United States, 75 F.3d 426 (8th 
+Cir. 1996) (barring claims by a Marine corporal who was 
+misdiagnosed as having an infection and repeatedly assured 
+she did not have cancer when in fact she did). 
+
+
+Mrs. Richards, instead, sued because her husband was 
+killed on his way home by a negligent truck driver driving a 
+negligently maintained truck, the type of routine though 
+tragic accident that happens every day, all over the country, 
+to people who have no connection to the American military. 
+In deciding whether suits such as this should be permitted to 
+go forward, the courts of appeals use varying approaches, 
+and, as the Third Circuit panel noted here (App., infra, 5a), 
+cases such as this have yielded sharply conflicting results. 
+The result has been what Judge Guido Calabresi has called, 
+with matchless understatement, “that singular tangle of 
+seemingly inconsistent rulings and rationales known as the 
+
+
+1] 
+
+
+Feres doctrine.” Taber vy. Maine, 67 F.3d 1029, 1031 (2d 
+Cir. 1995). The Court should grant the petition in order to 
+resolve this conflict over Feres’s scope. 
+
+
+Conflict among the circuits aside, this case also presents 
+the question raised by the four dissenting judges of the Third 
+Circuit in urging the Court to grant certiorari: whether it is 
+time for the Court to “revisit what [it has] wrought.” App., 
+infra, 12a. The Feres doctrine — an indeterminate and 
+unpredictable creature of federal common law — is not just 
+unfair and unworkable, it is illegitimate. The Court should 
+grant the petition and finally consign Feres to the jurispru- 
+dential graveyard, where it belongs. 
+
+
+I. THE THIRD CIRCUIT’S TEST FOR DETERMIN- 
+ING WHAT CONSTITUTES “ACTIVITY INCI- 
+DENT TO SERVICE” AND ITS HOLDING THAT 
+FERES BARS PETITIONER’S CLAIMS CONFLICT 
+WITH THE DECISIONS OF OTHER CIRCUITS 
+
+
+The different circuits’ approaches to Feres in cases such 
+as this one are in conflict, and the different approaches have 
+yielded irreconcilable results. Unlike the uniform, “plaintiff 
+always loses” rule applied in actions for military medical 
+practice, what constitutes injury arising out of other “activity 
+incident to service” varies from jurisdiction to jurisdiction — 
+resulting in precisely the chaotic welter of “laws which 
+fluctuate in existence and value” that Feres itself decried. 
+340 U.S. at 143. For members of the U.S. armed forces and 
+their families and dependents, the decisions of the courts of 
+appeals interpreting Feres have created a macabre and 
+perverse legal regime: their right to recovery under the 
+FTCA depends on the jurisdiction in which they are lucky 
+enough to live, or to die. 
+
+
+A. The Circuits Have Adopted Vastly Different 
+Approaches To Applying The Feres Doctrine. 
+
+
+Whether Feres bars a tort action based on injury to a 
+member of the armed forces hinges on whether the service 
+
+
+12 
+
+
+member was, when injured, engaged in “activity incident to 
+service.” In determining what constitutes “activity incident 
+to service” within the meaning of Feres, the courts of 
+appeals are using at least five different approaches. 
+
+
+1. The Third Circuit, along with the Seventh, Eleventh, 
+and D.C. Circuits, considers various “factors” “in light of 
+the totality of the circumstances,” among them “(1) the 
+service member’s duty status; (2) the site of the accident; and 
+(3) the nature of the service member’s activity at the time of 
+the injury.” App., infra, 4a; accord Stephenson v. Stone, 21 
+F.3d 159, 164 (7th Cir. 1994); Whitley v. United States, 170 
+F.3d 1061, 1070-75 (11th Cir. 1999); Verma v. United 
+States, 19 F.3d 646, 648 (D.C. Cir. 1994) (per curiam). 
+Once these courts determine that the plaintiff in a case 
+suffered injuries from an “activity incident to service,” 
+judicial inquiry ends: Feres bars the suit regardless of 
+“whether or not the circumstances of a case implicate the 
+rationales for the Feres doctrine.” Verma, 19 F.3d at 647; 
+accord Selbe v. United States, 130 F.3d 1265, 1268 (7th Cir. 
+1997); Whitley, 170 F.3d at 1075. As the Third Circuit held 
+here, even if allowing the suit would in no way undermine, 
+or even implicate, the rationales underlying Feres, applica- 
+tion of this multi-factor test is conclusive — even when this 
+analysis produces results that are “counterintuitive” and 
+“inequitable.” App., infra, 8a-10a. 
+
+
+2. The First, Fourth, Fifth, Sixth, and Tenth Circuits 
+also decide whether activity is incident to service by assess- 
+ing “the totality of the circumstances” as evidenced by 
+“certain factors” and “prongs,” but they consider these 
+factors in light of the Feres rationales. Miller v. United 
+States, 42 F.3d 297, 301-02 (Sth Cir. 1995); accord Day v. 
+Massachusetts Air Nat’l Guard, 167 F.3d 678, 682-83 (lst 
+Cir. 1999); Stewart v. United States, 90 F.3d 102, 104-05 
+(4th Cir. 1996); Fleming v. U.S. Postal Service, 186 F.3d 
+697, 699 (6th Cir. 1999); Shaw v. United States, 854 F.2d 
+360, 362 (10th Cir. 1988). All of these courts understand 
+
+
+bites 3 SM tk a i Bh a a a A . 
+Sa ASS al SR oi aati ia ‘ P 
+
+
+13 
+
+
+Feres as grounded in the three rationales articulated in 
+Johnson v. United States, 481 U.S. 681, 689-9] (1987): the 
+federal nature of the relationship between service members 
+and the government; the availability of certain disability and 
+death benefits; and the risk that tort Suits might entangle the 
+Judiciary in military affairs. Although the First, Fourth, and 
+Tenth Circuits give all three rationales equal weight, the 
+Fifth and Sixth do not. The Fifth Circuit concerns itself with 
+the relationship between the service member and the armed 
+services and thus “often treat[s] the serviceman’s duty status 
+as the most important factor,” Schoemer v. United States, 59 
+F.3d 26, 28 (5th Cir.), cert. denied, 516 U.S. 989 (1995): 
+the Sixth Circuit, in contrast, considers mainly whether 
+allowing an FTCA action would “impermissibly insinuate the 
+Civilian judiciary into military decisions,” Fleming, 186 F.3d 
+at 700 (internal quotation marks omitted). 
+
+
+3. The Second Circuit takes an entirely different 
+approach, based on its reasoning that Brooks and Feres are 
+best understood as part of a military analogue to workers’ 
+compensation. See Taber vy. Maine, 67 F.3d 1029, 1037-45 
+(2d Cir. 1995) (Calabresi, J.); see also Bradshaw v. United 
+States, 443 F.2d 759, 762 (D.C. Cir. 1971) (“[T]he 
+Brooks/Feres distinction falls into the work related non-work 
+related dichotomy characteristic of workmen’s compensation 
+schemes generally.”). Thus, in determining whether activity 
+is “incident to service,” the Second Circuit applies the 
+familiar rule of workers’ compensation law: injury results 
+from activity incident to service only if the victim was acting 
+within the scope of his military employment at the time he 
+was injured; activity is not incident to service when the 
+victim was acting outside the scope of employment. Given 
+the military setting, this rule is subject to an exception “in 
+the extreme case”: recovery may be barred only if a lawsuit 
+might implicate considerations relating to the discipline of the 
+tortfeasor, as in United States v. Shearer, 473 U.S. 52 
+(1985) (claim that the Army had negligently failed to 
+maintain disciplinary control over a soldier who abducted and 
+
+
+4 
+
+
+murdered another soldier). See Taber, 67 F.3d at 1052; cf. 
+Wake v. United States, 89 F.3d 53, 58, 61 (2d Cir. 1996) 
+(holding that scope-of-employment considerations did “not 
+come into play”; recovery barred in part because of such 
+disciplinary considerations). The Sixth Circuit has expressly 
+rejected the approach taken by the Second Circuit in Taber. 
+Skees v. United States, 107 F.3d 421, 425 n.3 (6th Cir. 
+1997). 
+
+
+4. The Eighth Circuit eschews multi-pronged inquiries 
+into factors and looks instead to the three rationales underly- 
+ing Feres that were set out in Johnson. See, e.g., Brown v. 
+United States, 151 F.3d 800, 804-05 (8th Cir. 1998). If 
+allowing recovery would frustrate Feres’s purposes, an action 
+is barred. 
+
+
+5. The Ninth Circuit has “reluctantly recognized * * * 
+that [a] reconciliation of prior pronouncements on the [Feres] 
+doctrine is not possible.” Dreier v. United States, 106 F.3d 
+844, 848 (9th Cir. 1996) (citation and internal quotation 
+marks omitted); see also Estate of McAllister v. United 
+States, 942 F.2d 1473, 1476 (9th Cir. 1991) (“Precisely how 
+a court should apply the Feres doctrine to the facts of a given 
+case * * * remains unclear.”), cert. denied, 502 U.S. 1092 
+(1992). Thus, while that court has sometimes “looked to 
+four factors” when “the existence of a Feres bar is not clear” 
+— duty status, site of injury, nature of the activity, and the 
+availability of military benefits in a particular case — the 
+Ninth Circuit in effect applies no test at all. Dreier, 106 
+F.3d at 848. Instead, the Ninth Circuit resorts to “a compar- 
+ison of fact patterns” as “the most appropriate way to resolve 
+Feres doctrine cases.” /bid. (internal quotation marks 
+omitted). 
+
+
+B. In Other Circuits, Feres Would Not Have Barred 
+Petitioner’s Claims. 
+
+
+Under the approach to Feres used in other circuits, this 
+case would have come out the other way. 
+
+
+_— “a. 
+
+
+le lah A see ih ON et al ly al id 
+
+
+p PE aS et a win te 
+
+
+15 
+
+
+1. In the Second Circuit, Mrs. Richards’s suit would 
+have gone forward. Like Mrs. Richards, the plaintiff in 
+Taber v. Maine, 67 F.3d 1029 (2d Cir. 1995), sued the 
+government for injuries arising out of a vehicular accident, 
+alleging (as does Mrs. Richards) that the government was 
+liable under a theory of respondeat superior. See id. at 
+1052. The court held that Feres did not bar the Claim: the 
+plaintiff had not been acting in the scope of his employment 
+when he was hit, and “negligence alleged in the operation of 
+a vehicle” does not implicate the types of issues involving 
+tortfeasor military discipline that might require a bar in the 
+“extreme case.” Ibid. 
+
+
+The same is true here. Driving home from work in 
+one’s own car after being released from duty is not within 
+the scope of a person’s employment. See generally 8 AM. 
+JUR. 2D, Automobiles and Highway Traffic § 771 (1997): 
+Annotation, Employer’s Liability for Negligence of Em- 
+ployee in Driving His or Her Own Automobile, 27 A.L.R. 
+Sth 174, § 3 (1995). As in Taber, moreover, the fact that 
+the driver of the Army truck that killed Mr. Richards may 
+have been negligent does not touch on matters of military 
+discipline. Indeed, Shammara Richards is alleging that the 
+government is liable because its truck driver negligently ran 
+a red light — a distinctly non-military act, and one that has 
+no bearing on the chain of command or other military 
+relationships. Under Second Circuit law, therefore, Mr. 
+Richards plainly was not injured in the course of any 
+“activity incident to service,” and thus Feres would not have 
+barred Mrs. Richards’s suit. 
+
+
+2. Mrs. Richards would also have been allowed to 
+prosecute her case in those circuits that consider whether or 
+not a lawsuit would undermine Feres’s purposes. As the 
+Third Circuit itself acknowledged, Mrs. Richards’s action did 
+not implicate “the special relationship between her deceased 
+husband and his superiors,” and thus would not frustrate the 
+rationales underlying the Feres doctrine. App., infra, 9a. 
+
+
+16 
+
+
+Had the Third Circuit applied the test of the courts that 
+evaluate various factors in light of Feres’s underlying 
+reasons, Mrs. Richards likely would have won, given that in 
+those jurisdictions the factors are not by themselves disposi- 
+tive. And had the Third Circuit applied the Eighth Circuit’s 
+approach, which looks only to the Feres rationales, there can 
+be no doubt of the result. Again, the Third Circuit itself 
+stated that the purposes underlying Feres did not support the 
+use of the doctrine in this case. Because Mrs. Richards’s 
+suit would not undermine the purposes of Feres, Feres would 
+not pose a bar. 
+
+
+3. Under the Ninth Circuit’s “most similar case” 
+analysis, Mrs. Richards’s suit would have gone forward as 
+well. Both the Third Circuit and the district court readily 
+acknowledged that this case closely resembles Troglia v. 
+United States, 602 F.2d 1334 (9th Cir. 1979). App., infra, 
+5a (noting that Troglia involved “similar facts”); id. at 17a 
+(calling 7roglia “factually similar”). Troglia involved a 
+claim by a service member hit by a car on a federally owned 
+highway just outside an air base. The Ninth Circuit held that 
+if it was determined on remand that the service member was 
+traveling on personal business, Feres would not bar his suit. 
+
+
+Nor is Troglia an isolated case in the Ninth Circuit. 
+That court has rejected Feres bars in many other cases 
+involving very similar facts. See, e.g., Dreier v. United 
+States, 106 F.3d 844 (9th Cir. 1996) (action arising out of 
+the death of an off-duty sailor who drowned in a drainage 
+channel located on base); Green v. Hall, 8 F.3d 695 (9th 
+Cir. 1993) (claim by an off-duty soldier who was hit by a car 
+after leaving post to go out for breakfast), cert. denied, 513 
+U.S. 809 (1994); Mills v. Tucker, 499 F.2d 866 (9th Cir. 
+1974) (action arising out of the death of a sailor returning 
+from leave to his on-base home and killed in a car accident 
+inside the installation); see also Lutz v. Secretary of the Air 
+Force, 944 F.2d 1477 (9th Cir. 1991) (claim by an officer 
+who was harassed at work on base by her military subordi- 
+
+
+acne Be gm i a apa at 
+
+
+* a oe x ei 
+SiS telho O e aa. Me 
+
+
+PRTG en A oth 
+
+
+17 
+
+
+nates). There can be little question, then, that in the Ninth 
+Circuit, Mrs. Richards would have been allowed to proceed 
+with her claims, since the “most Similar cases” in that 
+jurisdiction would have required this result. 
+
+
+C. The Circuits Have Reached Conflicting Results In 
+Cases Factually Similar To This One. 
+
+
+Given the overall indeterminacy of the multi-factor 
+analyses employed in whole or part outside the Second, 
+Eighth, and Ninth Circuits, it is hardly surprising that 
+virtually identical cases have yielded irreconcilable results in 
+those jurisdictions. 
+
+
+In one case, in fact, the en banc Eleventh Circuit divided 
+evenly over the application of its multi-factor test to facts 
+almost exactly like those in Feres itself. In Feres, this Court 
+held that a soldier’s widow could not recover for her 
+husband’s death in a barracks fire on an Army post. In 
+Elliott v. United States, 13 F.3d 1555 (11th Cir. 1994), in 
+contrast, a panel affirmed a multi-million dollar judgment 
+against the government for severe injuries to a service 
+member and his wife who suffered carbon monoxide poison- 
+ing at their on-post apartment, holding that Feres posed no 
+bar. Although the panel decision was vacated, 28 F.3d 1076 
+(11th Cir. 1994), the full Eleventh Circuit affirmed the 
+judgment against the government by an equally divided court, 
+37 F.3d 617 (11th Cir. 1994). (Curiously, the Solicitor 
+General’s office apparently chose not to petition for a writ of 
+certiorari in Elliott, electing to let a $9 million judgment 
+stand rather than ask this Court to reverse summarily in a 
+case factually indistinguishable from Feres.) 
+
+
+Moreover, in many cases involving facts that are 
+virtually indistinguishable from those present here, courts 
+have held, in contrast to the Third Circuit, that Feres does 
+not bar recovery. See, e.g., Fleming v. U.S. Postal Service, 
+186 F.3d 697 (6th Cir. 1999) (claim by an off-duty soldier 
+who was hit by a truck on his way to work); Pierce vy. 
+
+
+18 
+
+
+United States, 813 F.2d 349 (11th Cir. 1987) (per curiam) 
+(claim by an off-duty soldier who was hit by a car while 
+running errands); Parker v. United States, 611 F.2d 1007 
+(Sth Cir. 1980) (claim by the widow of a soldier killed in an 
+accident on post while driving home to take leave). In other 
+cases with virtually indistinguishable facts, however, courts 
+have held that Feres does bar recovery. See, e.g., Stewart 
+v. United States, 90 F.3d 102 (4th Cir. 1998) (claim by an 
+off-duty soldier who was hit by a car while driving home to 
+shower and change after physical training session); Lauer v. 
+United States, 968 F.2d 1428 (1st Cir.) (claim by an off-duty 
+sailor who was hit by a car while walking on a highway off 
+post), cert. denied, 506 U.S. 1033 (1992); Shaw v. United 
+States, 854 F.2d 360 (10th Cir. 1988) (claim by an off-duty 
+soldier who was hit by a truck on post while driving to 
+work). That Mrs. Richards would or would not have been 
+barred under these cases is no argument against review — it 
+is, rather, a compelling reason why guidance from this Court 
+is needed. Feres itself was predicated on the desirability of 
+uniformity in the law that governs members of the armed 
+forces. See 340 U.S. at 142-43. In the course of trying to 
+apply Feres’s rule, however, courts have created a body of 
+law that is, at its core, indeterminate and incoherent. 
+
+
+D. The Decision Below Was Wrong. 
+
+
+As the preceding discussion suggests, the Third Circuit’s 
+decision was flawed at every turn. Given that Feres is in 
+effect a “judicially crafted rule,” United States v. Stanley, 
+483 U.S. 669, 709 (1987) (O’Connor, J., concurring and 
+dissenting), and a “creature of federal common law,” Saudi 
+Arabia v. Nelson, 507 U.S. 349, 374 (1993) (Kennedy, J., 
+concurring and dissenting), it is a bizarre legal regime that 
+would have courts determine if activity is “incident to 
+service” within the meaning of the Feres doctrine without 
+any reference to the principles on which that doctrine rests. 
+Moreover, even the multi-factor, totality-of-the-circumstances 
+approaches that do look to Feres’s purposes are so indetermi- 
+
+
+19 
+
+
+nate as to be meaningless, yielding a body of case law that 
+in essence amounts to no more than results in search of 
+rationales. 
+
+
+The Third Circuit’s decision was also incorrect on its 
+own terms. The court applied its test mechanically, checking 
+each “factor” off its list regardless of whether the factors 
+were truly relevant. Whether someone is “off duty” as 
+opposed to “on leave” often makes no difference, for 
+example; in either status a service member is subject to recall 
+by his commanders, and in both Statuses he is perfectly free 
+to go about his personal business. Whether an accident 
+occurs within the literal confines of a military installation is 
+also irrelevant in many Cases, as it was here: Mr. Richards 
+was driving on a public highway, and it was merely happen- 
+stance that he was driving on that road within Fort Knox, as 
+opposed to driving on the same road but outside Fort Knox, 
+when he was killed. The nature of the activity at issue (that 
+Mr. Richards was driving home from work, as opposed to 
+driving home from doing errands) was also of marginal 
+relevance here. Driving one’s own car to one’s home at the 
+end of the work day is no more “military” than any other 
+routine, daily activity engaged in by anyone, military or not. 
+
+
+At bottom, the Third Circuit’s holding that Charles 
+Richards — off duty and finished with work, on a public 
+highway, driving his own car home — was nonetheless acting 
+“incident to service” comes down to this: he was acting 
+incident to service because he was in the service. That, 
+however, is not the law. Mr. Richards’s death “had nothing 
+to do with * * * [his] Army career[] * * * except in the 
+sense that all human events depend on what has already 
+transpired.” Brooks v. United States, 337 U.S. 49, 52 
+(1949). In holding that Feres barred the lawsuit that Mrs. 
+Richards brought after her husband’s death, the Third Circuit 
+
+
+was wrong. 
+
+
+20 
+
+
+II. IN LIGHT OF THE WIDESPREAD CRITICISM OF 
+THE FERES DOCTRINE AND WHAT FOUR 
+THIRD CIRCUIT JUDGES CALLED “COMPEL- 
+LING ARGUMENT[S]” FOR ITS “ABANDON- 
+MENT,” THIS COURT SHOULD CONSIDER 
+OVERRULING IT 
+
+
+A. Feres Has Been The Subject Of Withering Judicial 
+Criticism. 
+
+
+Dissenting from the denial of rehearing en banc in this 
+case, four judges of the Third Circuit took the remarkable 
+step of excoriating the Feres doctrine as a “travesty” and 
+“urg[ing]” this Court “to grant certiorari” and “revisit what 
+we have wrought.” App., infra, 12a. Yet in expressing 
+doubts about the validity or fairness of the Feres doctrine, 
+Chief Judge Becker and Judges Nygaard, McKee, and 
+Rendell have merely joined a chorus of other federal judges, 
+including members of this Court. 
+
+
+The judges who have criticized Feres over the years have 
+sat on the appellate and trial benches in nearly every juris- 
+diction: 
+
+
+e From the First Circuit: Circuit Judges Boudin, Lynch, 
+Lipez, and Selya, and District Judges Carter and Acosta. 
+See Day v. Massachusetts Air Nat’! Guard, 167 F.3d 
+678, 681-85 (1st Cir. 1999); id. at 683 (writing that 
+“[plossibly Feres itself deserves reexamination by the 
+Supreme Court”); Briggs v. United States, 617 F. Supp. 
+1399, 1402 (D.R.I. 1985), aff'd mem., 787 F.2d 578 
+(1st Cir. 1986); Graham v. United States, 753 F. Supp. 
+994, 995 & n.1 (D. Me. 1991); Jones v. LaRiviera Club, 
+Inc., 655 F. Supp. 1032, 1033 n.6 (D.P.R. 1987). 
+
+
+e From the Second Circuit: Circuit Judges Leval, Cala- 
+bresi, Pierce, Mahoney, Feinberg, Van Graafeiland, 
+Meskill, Kaufman, and Mansfield, and District Judges 
+Raggi and Weinstein. See Taber v. Maine, 67 F.3d 
+1029, 1038-1049 (2d Cir. 1995); id. at 1038 (calling 
+
+
+Soa alah ace A nhc ar 
+
+
+21 
+
+
+Feres “extremely confused and confusing”); Sanchez v. 
+United States, 813 F.2d 593, 595 (2d Cir. 1987): 
+Bozeman v. United States, 780 F.2d 198, 200 (2d Cir. 
+1985); Kohn v. United States, 680 F.2d 922, 925 (2d 
+Cir. 1982); Veloz-Gertrudis v. United States, 768 F. 
+Supp. 38, 41 (E.D.N.Y.), aff'd mem., 953 F.2d 636 (2d 
+Cir. 1991), cert. denied, 504 U.S. 911 (1992); In re 
+“Agent Orange” Prod. Liability Litig., 580 F. Supp. 
+1242, 1246 (E.D.N.Y.), appeal dismissed, 745 F.2d 161 
+(2d Cir. 1984). 
+
+
+From the Third Circuit: In addition to Chief Judge 
+Becker and Circuit Judges Nygaard, McKee, and Rendell 
+in this case, Circuit Judges Hunter, Higginbotham, 
+Adams, Stapleton, and Sarokin, and District Judges 
+Ditter and Gerry. See Hinkie v. United States, 715 F.2d 
+96, 97 (3d Cir. 1983), cert. denied, 465 U.S. 1023 
+(1984); Mondelli v. United States, 711 F.2d 567, 569 
+(3d Cir. 1983), cert. denied, 465 U.S. 1021 (1984); 
+Ocello v. United States, 685 F. Supp. 100, 103 (D.N.J. 
+1988); Punnett v. United States, 602 F. Supp. 530, 531 
+(E.D. Pa. 1984); Hall v. United States, 528 F. Supp. 
+963, 967 (D.N.J. 1981), aff'd mem., 668 F.2d 821 (3d 
+Cir. 1982). 
+
+
+From the Fifth Circuit: Circuit Judges Thornberry, 
+Johnson, Garwood, Goldberg, Fay, and Anderson. See 
+Scales v. United States, 685 F.2d 970, 974 (5th Cir. 
+1982), cert. denied, 460 U.S. 1082 (1983); Parker v. 
+United States, 611 F.2d 1007, 1011 (Sth Cir. 1980). 
+
+
+From the Eighth Circuit: Circuit Judges Magill, Bright, 
+Murphy, Richard Arnold, Bowman, and Heany, and 
+District Judge Doty. See Cutshall v. United States, 75 
+F.3d 426, 429 (8th Cir. 1995) (“We note * * * that the 
+Feres doctrine has been roundly criticized as unjust and 
+unwarranted.”); Bowers v. United States, 904 F.2d 450, 
+452 (8th Cir. 1990) (applying Feres bar because “we are 
+obligated” but “with a pronounced lack of enthusiasm”); 
+
+
+22 
+
+
+C.R.S. v. United States, 761 F. Supp. 665, 669 & n.1 
+(D. Minn. 1991). 
+
+
+e From the Ninth Circuit: Circuit Judges Betty Fletcher, 
+Norris, Trott, Goodwin, Thompson, O’Scannlain, 
+Dorothy Nelson, Reinhardt, and Canby, and District 
+Judges Singleton and Battin. See Lutz v. Secretary of the 
+Air Force, 944 F.2d 1477, 1487 (9th Cir. 1991) (“[T]his 
+circuit has accepted Feres, albeit grudgingly, as an 
+ineradicable feature of our legal landscape, [but] even 
+Feres concatenations must come to an end.”) (internal 
+quotation marks omitted); Estate of McAllister v. United 
+States, 942 F.2d 1473, 1476-77 & n.2 (9th Cir. 1991) 
+(calling Feres “this troubled doctrine”), cert. denied, 502 
+U.S. 1092 (1992); Persons v. United States, 925 F.2d 
+292, 295, 299 (9th Cir. 1991) (referring to “the count- 
+less reasons for feeling discomfort with Feres”); Monaco 
+v. United States, 661 F.2d 129, 132 (9th Cir. 1981), 
+cert. denied, 456 U.S. 989 (1982). 
+
+
+e From the Tenth Circuit: Circuit Judges Doyle, Breiten- 
+stein, and McKay. See LaBash v. U.S. Department of 
+the Army, 668 F.2d 1153, 1156 (10th Cir.), cert. denied, 
+456 U.S. 1008 (1982). 
+
+
+e From the Eleventh Circuit: Circuit Judges Hatchett, 
+Godbold, and Fay. See Elliott v. United States, 13 F.3d 
+1555, 1559-61 (11th Cir.), vacated, 28 F.3d 1076 (11th 
+Cir.), judgment aff'd by equally divided court, 37 F.3d 
+617 (11th Cir. 1994). 
+
+
+e From the District of Columbia Circuit: Circuit Judges 
+Tamm and Wald, and District Judge Joyce Green. See 
+Hunt v. United States, 636 F.2d 580, 589 (D.C. Cir. 
+1980). 
+
+
+Numerous commentators have also criticized Feres, 
+arguing on the basis of detailed analyses of the text, struc- 
+
+
+tl bi Ran RAE s taht gt nlite elt an ate dbaker Spd Gi 
+
+
+Sah 5a tinhe! Sb AN See ENS ae 
+
+
+ARLE A eT 2 Stn LM Ser ad 
+
+
+MAN CALS Neen: ekay Nested ah € 
+
+
+23 
+
+
+ture, and legislative history of the FTCA that the decision 
+was incorrect. ! 
+
+
+And Feres’s critics have included at least three current 
+Members of this Court. Justices Scalia and Stevens (joined 
+by Justices Brennan and Marshall) argued in their dissent in 
+United States v. Johnson, 481 U.S. 681, 692-703 (1987), 
+that Feres was wrong when decided. Justice Ginsburg 
+Criticized Feres in her concurring and dissenting opinion in 
+Lombard v. United States, 690 F.2d 215, 228-30, 233 (D.C. 
+Cir. 1982), cert. denied, 462 U.S. 1118 (1983), noting that 
+“the Feres Court’s interpretation of the FTCA continues to 
+be questioned” and calling Feres “a problematic court 
+precedent.” Id. at 229 n.7, 233: see also Veillette v. United 
+States, 615 F.2d 505, 506 (9th Cir. 1980) (per Fletcher, J., 
+joined by Kennedy, J.) (stating that the court was applying 
+
+
+' See, e.g., Seidelson, From Feres v. United States to Boyle v. 
+
+
+United Technologies Corp.: An Examination of Supreme Court 
+Jurisprudence and a Couple of Suggestions, 32 Dug. L. REv. 219 
+(1994); Wells, Providing Relief to the Victims of Military Medicine, 
+32 Dug. L. REv. 109 (1994); Tomes, Feres to Chappell to 
+Stanley: Three Strikes and Servicemembers Are Out, 25 U. RICH. 
+L. REV. 93 (1990); Bennett, The Feres Doctrine, Discipline and 
+the Weapons of War, 29 St. Louts U. L.J. 383 ( 1984); Seidelson, 
+The Feres Exception to the Federal Ti ort Claims Act: New Insight 
+Into an Old Problem, 1} HOFSTRA L. REV. 629 (1983); Rhodes, 
+The Feres Doctrine After Twenty-Five Years, 18 A.F. L. REV. 24 
+(1976); Note, Servicemembers’ Rights Under the Feres Doctrine: 
+Rethinking "Incident To Service” Analysis, 33 VILL. L .REV. 175 
+(1988); Note, Military Medical Malpractice and the 
+Feres Doctrine, 20 GA. L. REV. 497 (1986); Note, Making 
+Intramilitary Tort Law More Civil: A Proposed Reform of the Feres 
+Doctrine, 95 YALE LJ. 992 (1986); Comment, Zhe Feres 
+Doctrine: Has It Created Remediless Wrongs For Relatives of 
+Servicemen?, 44 U. Pitt. L. REV. 929 (1983): Note, From Feres 
+to Stencel: Should Military Personnel Have Access to FTCA 
+Recovery?, 77 MICH. L. REV. 1099 (1979). 
+
+
+24 
+
+
+a Feres bar “[rjeluctantly”). The judicial and academic 
+criticism of Feres is “widespread, almost universal” (John- 
+son, 481 U.S. at 700 (internal quotation marks omitted)), and 
+uniform: aside from being unjust and unworkable, Feres is 
+illegitimate. It should be overruled. 
+
+
+B. The Feres Doctrine Has Proved To Be Unworkable In 
+Practice. 
+
+
+Experience has shown that the rule that Feres estab- 
+lished, that service members have no recourse under the 
+FTCA when they suffer injuries resulting from “activity 
+incident to service,” has proved to be completely unwork- 
+able. That much is clear from the conflicting decisions that 
+have attempted — unsuccessfully — to make sense of the test 
+and to apply it. And that alone would be reason enough to 
+overrule the Feres doctrine, as this Court has not hesitated to 
+overrule judge-made tests that were similarly unmanageable. 
+
+
+In Solorio v. United States, 483 U.S. 435 (1987), for 
+instance, the Court rejected a rule that was virtually Feres’s 
+twin. O’Callahan v. Parker, 395 U.S. 258 (1969), had held 
+that court-martial jurisdiction under the Uniform Code of 
+Military Justice depended on the “service connection” of the 
+offense that was charged. In part because the “service 
+connection” test “proved confusing and difficult” to apply, 
+Solorio, 483 U.S. at 448, the Court in Solorio overruled 
+O’Callahan and abolished that test, thus reversing a 20-year- 
+old precedent. In his dissent in O’Callahan, Justice Harlan 
+had predicted that the “service connection” test would spawn 
+“infinite permutations of possibly relevant factors,” as well 
+as “create confusion and proliferate litigation.” 395 U.S. at 
+284 (Harlan, J., dissenting). The same is true of Feres. 
+
+
+C. Feres Was Wrongly Decided. 
+
+
+Ordinarily, a case that has been the subject of such 
+universal criticism and has proved to be so difficult to 
+interpret and apply would be a prime candidate for the 
+Court’s attention, regardless of whether it was correct in the 
+
+
+25 
+
+
+first instance. But the Feres doctrine Should be revisited for 
+an even more fundamental reason: Feres was wrongly 
+decided. 
+
+
+The suggestion that Feres correctly construed the FTCA 
+is indefensible. In devising an exception to the FTCA for all 
+Claims based on “injuries to servicemen [that] arise out of or 
+are in the course of activity incident to service” (340 U.S. at 
+146), and in doing so notwithstanding Congress’s inclusion 
+of 13 specific Statutory exceptions in the FTCA, the Feres 
+Court did more than merely ignore the fundamental principle 
+of expressio unius est exclusio alterius. It failed to give 
+proper weight to reams of evidence in the text, structure, and 
+legislative history Showing that Congress never intended to 
+create such an exception to FTCA liability. 
+
+
+Among that evidence was: Congress’s express inclusion, 
+in the definition of those “employee[s] of the Government” 
+whose acts may give rise to liability, of “members of the 
+military or naval forces of the United States” (28 U.S.C. § 
+2671); its further specification that “acting within the scope 
+of employment” under the FTCA means, for members of the 
+military, “acting in [the] line of duty” (ibid.); and Con- 
+gress’s inclusion of several other exceptions that clearly 
+contemplated tort claims by military personnel, including the 
+discretionary function exception, the exception for claims 
+arising in a foreign country, and, perhaps most importantly, 
+the exception for all “claim[s] arising out of the combatant 
+activities of the military or naval forces * * * during time of 
+war” (id. § 2680(a), Qj), (k)). As these provisions show, 
+Congress plainly anticipated that the FTCA would not waive 
+immunity for certain — but not all — claims arising out of 
+military activities. 
+
+
+But in creating an exception to the FTCA for all claims 
+arising out of activity incident to service, the Feres Court 
+turned the process of Statutory construction on its head: 
+deriving its rule from a statute — the Military Personnel 
+Claims Act — that had been repealed by the FTCA. See 
+
+
+26 
+
+
+Feres, 340 U.S. at 144 (relying on that Act’s exclusion of 
+“claims of military personnel ‘incident to their service’”); 
+compare Pub. L. No. 79-601, title IV, § 424, 60 Stat. 842 
+(1946) (repealing 31 U.S.C. § 223b). See generally Note, 
+United States v. Johnson: Feres Doctrine Gets New Life and 
+Continues To Grow, 38 AM. U. L. REV. 185, 202 n.121 
+(1988) (“The [Feres] Court noted that the Military Personnel 
+Claims Act, a federal law, allowed servicemen to recovery 
+for injuries incurred not incident to service; however, the 
+FTCA repealed this law.”). 
+
+
+Nor is this all. There is ample evidence in the legislative 
+history of the FTCA to show that Congress never intended 
+to create an exception along the lines recognized in Feres. 
+As one commentator has explained, the bill that became the 
+FTCA originally included an exception for all military suits, 
+but that exception was dropped during the legislative process, 
+perhaps “because of adverse criticism expressed in an earlier 
+hearing on earlier bills.” Note, 38 AM. U. L. REV. at 195 
+& n.66. Moreover, Congress’s last-minute clarification of 
+the exception for combat activities undercuts the rule of 
+Feres: 
+
+
+Originally, the Act excluded claims arising out of 
+military activities. During debate on the bill, the House 
+adopted an amendment adding the word “combatant” to 
+the exception. By emphasizing that only claims arising 
+out of combat activities were excluded from FTCA 
+coverage, Congress presumably intended military 
+personnel claims arising from non-combat activities to be 
+protected. 
+
+
+Id. at 196 (footnotes omitted). 
+
+
+Feres thus has no real basis in the text, structure, or 
+history of the FTCA. In fact, the Court no longer pretends 
+that it does. See Johnson, 481 U.S. at 694-95 (Scalia, J., 
+dissenting). Instead of being grounded in the FTCA itself, 
+the Feres doctrine purports to represent “three disembodied 
+
+
+27 
+
+
+estimations of what Congress must (despite what it enacted) 
+have intended” in the FTCA. Jd. at 695 (dissent) (emphasis 
+in original). And “[t]hey are bad estimations at that.” Ibid. 
+
+
+Thus, the Court has identified one reason underlying 
+Feres as the need for a uniform law governing a service 
+member’s recovery in tort. See Johnson, 481 U.S. at 689. 
+But in fact Feres’s “incident to service” test has had the 
+opposite effect, allowing or barring recovery in different 
+jurisdictions in cases with virtually indistinguishable facts. 
+While service members are afforded government benefits 
+when injured — another reason supposedly justifying Feres, 
+see Johnson, 481 U.S. at 689-90 — those benefits today 
+(unlike, perhaps, in 1950) are not nearly the equivalent in 
+value to tort judgments, and the discrepancy keeps getting 
+worse. See Taber v. Maine, 67 F.3d 1029, 1045 (2d Cir. 
+1995). Moreover, the availability of military benefits has 
+never by itself barred tort recovery, since certain members 
+of the military — those who, as in Brooks, are held not to 
+have been hurt in “activity incident to service” — can 
+receive benefits as well as damages in tort, with the benefits 
+setting off the tort damages to prevent any double recovery. 
+And while Feres purportedly protects the integrity of military 
+discipline and decision making, see Johnson, 481 U.S. at 
+690-91, that integrity is equally threatened by lawsuits 
+brought for injuries to civilians, which the Feres doctrine has 
+never precluded. In sum, “neither the three original Feres 
+reasons nor the post hoc rationalization of ‘military disci- 
+pline’ justifies [the Court’s] failure to apply the FTCA as 
+written.” Johnson, 481 U.S. at 700 (Scalia, J., dissenting). 
+“Feres was wrongly decided” (ibid.), and it should be 
+overruled. 
+
+
+D. Stare Decisis Provides No Good Reasons To Deny 
+Review. 
+
+
+The government will no doubt urge the Court to deny 
+review on grounds of stare decisis. For at least four reasons, 
+however, considerations of stare decisis are not controlling. 
+
+
+lille 
+
+
+28 
+
+
+First. The doctrine of stare decisis does not bear at all 
+on the first question presented in this petition, which asks 
+only that Feres be clarified. 
+
+
+Second. “It is surely no affront to settled jurisprudence 
+to request argument on whether a particular precedent should 
+be modified or overruled.” Patterson v. McLean Credit 
+Union, 485 U.S. 617, 617 (1988) (per curiam). We ask for 
+no more than that here. And in the end, an argument about 
+stare decisis is really an argument about the merits. Espe- 
+cially in a case such as this, which presents a separate and 
+distinct question that is independently worthy of the Court’s 
+review, it would make no sense to foreclose any recon- 
+sideration of one of the Court’s prior decisions by denying 
+the second question presented. Stare decisis, after all, “is a 
+principle of policy rather than an inexorable command.” 
+Hohn v. United States, 524 U.S. 236, 251 (1998) (internal 
+quotation marks omitted). 
+
+
+Third. Stare decisis does not provide a persuasive reason 
+to deny review of the second question, because the doctrine 
+does not militate strongly against overruling Feres. Although 
+stare decisis does have considerable force in the area of 
+Statutory construction, only one of the rationales originally 
+offered in support of Feres (that there was no “parallel 
+private liability” for suits by service members against the 
+government) even “purport[ed] to be textually based” 
+(Johnson, 481 U.S. at 694 (Scalia, J., dissenting)) — and 
+that rationale is no longer deemed valid. See Johnson, 481 
+U.S. at 688-90. In reality, the Feres doctrine is a “judicially 
+crafted rule,” United States v. Stanley, 483 U.S. 669, 709 
+(1987) (O’Connor, J., concurring and dissenting), a “crea- 
+ture of federal common law,” Saudi Arabia v. Nelson, 507 
+U.S. 349, 374 (1993) (Kennedy, J., concurring and dissent- 
+ing), aS opposed to an interpretation of the FTCA. Stare 
+decisis is therefore of less concern. 
+
+
+Fourth. Even if Feres were grounded in a construction 
+of the FTCA, this Court has “never applied stare decisis 
+
+
+29 
+
+
+mechanically to prohibit overruling * * * earlier decisions 
+determining the meaning of statutes.” Monell vy. New York 
+City Dep’t of Social Servs., 436 U.S. 658, 695 (1978). 
+Rather, the Court has overruled cases involving statutory 
+construction where appropriate. See generally Patterson, 485 
+U.S. at 618 (citing a “host of cases” in which the Court 
+“explicitly overruled Statutory precedents”); see also, e. 2. 
+State Oil Co. v. Khan, 522 U.S. 3 (1997) (overruling a 29- 
+year old decision that was based on the construction of a 
+Statute). Two points are particularly important here. The 
+Court has overruled prior cases involving the construction of © 
+Statutes when “a precedent may be a positive detriment to 
+coherence and consistency in the law * * * because of 
+inherent confusion created by an unworkable decision.” 
+Patterson v. McLean Credit Union, 491 U.S. 164, 173 
+(1989). And last Term, the Court overruled a 53-year old 
+decision interpreting a statute, holding that “it should not be 
+followed” in part because the earlier case’s “conclusion was 
+erroneous.” Hohn, 524 U.S. at 251. Those describe Feres 
+precisely. 
+
+
+CONCLUSION 
+The petition for a writ of certiorari should be granted. 
+
+
+Respectfully submitted. 
+
+
+LEE J. ROHN ALAN E. UNTEREINER 
+Law Offices of Lee J. Rohn ARNON D. SIEGEL 
+1101 King Street Counsel of Record 
+Suite 2 Mayer, Brown & Platt 
+Christiansted, St. Croix 1909 K Street, N. W. 
+U.S. Virgin Islands 00820 Washington, D.C. 20006 
+(340) 778-8855 (202) 263-3000 
+
+
+OCTOBER 1999 
+
+
+APPENDICES 
+
+
+la 
+
+
+APPENDIX A 
+
+
+SHAMMARA RICHARDS, INDIVIDUALLY AND AS PERSONAL 
+REPRESENTATIVE OF THE ESTATE OF CHARLES A. 
+RICHARDS, JR., AND AS GUARDIAN AND NEXT OF KIN OF 
+SHANEE A. RICHARDS AND CHARLES RICHARDS, 
+APPELLANT, 
+
+
+¥. 
+UNITED STATES OF AMERICA. 
+No. 98-7235. 
+
+
+United States Court of Appeals, 
+Third Circuit. 
+
+
+Argued Dec. 11, 1998. 
+Filed May 5, 1999. 
+
+
+Maurice J. Cusick (Argued), Rohn & Cusick, Christian- 
+sted, St. Croix, USVI, for Appellant. 
+
+
+Michael A. Humphreys, Office of United States Attorney, 
+Christiansted, St. Croix, USVI, Curtis V. Gomez, Office of 
+United States Attorney, Charlotte Amalie, St. Thomas, USVI, 
+Lowell V. Sturgill, Jr. (Argued), United States Department 
+of Justice, Civil Division, Washington, DC, for Appellee. 
+
+
+Before: ROTH, LEWIS, and GARTH, Circuit Judges. 
+OPINION OF THE COURT 
+LEWIS, Circuit Judge. 
+
+
+Appellant Shammara Richards is the wife and personal 
+representative of the estate of Charles A. Richards, Jr. She 
+appeals from the District Court’s order dismissing her com- 
+plaint for lack of subject-matter jurisdiction under Fed. R. 
+Civ. P. 12(b)(1). In particular, Mrs. Richards asks that we 
+allow her negligence claims against the United States under 
+the Federal Tort Claims Act (“FTCA”) to go forward so that 
+
+
+2a 
+
+
+she can attempt to recover for her husband’s tragic death. 
+Regrettably, the Supreme Court’s decision in Feres v. United 
+States, 340 U.S. 135 (1950), and the cases stemming from it 
+prevent us from granting Mrs. Richards’s request. Thus, we 
+will affirm the District Court’s judgment. 
+
+
+I. 
+
+
+Charles Richards was a private in the United States Armed 
+Forces, stationed in Fort Knox, Kentucky. On June 26, 
+1995, Private Richards left work early to go home and attend 
+to his pregnant wife.’ Although Private Richards received 
+permission to leave early, the Army did not issue him a pass 
+or furlough. While driving home in his personal vehicle, 
+Private Richards was broadsided by a five-ton military fuel 
+truck, killing him instantly. The accident took place within 
+the confines of the Fort Knox Army Base, at the intersection 
+of Kentucky Highway 1638 and U.S. Highway 31 W. Ken- 
+tucky Highway 1638 is a public highway that runs through an 
+easement of land granted by the Army to the State of Ken- 
+tucky, and is patrolled and maintained by the State. 
+
+
+Mrs. Richards filed suit under the FTCA, alleging that her 
+husband died “as a direct and proximate result of a vehicular 
+accident due to the negligence of the United States Army and 
+its employees.” Complaint at 3. Specifically, she alleged 
+
+
+' The United States disputes the alleged purpose for Private 
+Richards’s early departure. It argues that Private Richards left his 
+duty station early to go to the Fort Knox Education Center to 
+execute forms that would have entitled him to receive tuition 
+assistance from the Army. For purposes of ruling on the govern- 
+ment’s motion to dismiss, the District Court accepted, without 
+deciding, that Private Richards was on his way home when he 
+died. See Richards v. United States, 1 F. Supp. 2d 498, 500 
+(D.V.1. 1998). Similarly, we will accept appellant’s contention 
+that Private Richards was homeward bound at the time of the 
+
+
+accident. 
+
+
+3a 
+
+
+that the United States was responsible for her husband’s 
+death because it failed to properly maintain the Army vehicle 
+which caused the collision and negligently supervised the 
+solider who drove the vehicle. Complaint at ¥| 12- 13, 
+15-17. The District Court dismissed the suit for lack of 
+subject matter jurisdiction, concluding that Private Richards’s 
+death was incident to his military service and thus barred by 
+the Feres doctrine. This appeal followed. 
+
+
+We exercise jurisdiction over this appeal pursuant to 28 
+U.S.C. § 1291. We review de novo whether the Feres 
+doctrine applies to the facts in the record. Estate of Marti- 
+nelli v. United States, 812 F.2d 872, 873 (3d Cir. 1987). 
+
+
+II. 
+
+
+As a sovereign, the United States may not be sued without 
+its consent. See United States vy. Mitchell, 463 U.S. 206, 
+212 (1983). Sovereign immunity not only protects the United 
+States from liability, it deprives a court of subject matter 
+jurisdiction over claims against the United States. See id. 
+
+
+In 1946, Congress passed the Federal Tort Claims Act 
+(“FTCA”), which waived the sovereign immunity of the 
+United States for certain torts committed by federal employ- 
+ees. See 28 U.S.C. § 1346(b). Under the FTCA, civil 
+actions are permitted against the United States for: 
+
+
+injury or loss of property . . . caused by the negligent or 
+wrongful act or omission of any employee of the Govern- 
+ment while acting within the scope of his [or her] office 
+Or employment, under circumstances where the United 
+States, if a private person, would be liable to the claimant 
+in accordance with the law of the place where the act or 
+Omission occurred. 
+
+
+28 U.S.C. § 1346(b). 
+
+
+In Feres, the Supreme Court limited the applicability of 
+the FTCA as it pertains to military personnel. There, the 
+
+
+da 
+
+
+Court held that “the Government is not liable under the 
+[FTCA] for injuries to [service members] where the injuries 
+arise out of or are in the course of activity incident to 
+service.” 340 U.S. at 146. Although Feres offered several 
+rationales for its holding, 
+
+
+[in] the last analysis, Feres seems best explained by the 
+peculiar and special relationship of the soldier to his supe- 
+riors, the effects of the maintenance of such suits on 
+discipline, and the extreme results that might obtain if 
+suits under the Tort Claims Act were allowed for negli- 
+gent orders given or negligent acts committed in the 
+course of military duty. 
+
+
+United States v. Shearer, 473 U.S. 52, 57 (1985) (quoting 
+United States v. Muniz, 374 U.S. 150, 162 (1963)) (internal 
+quotations omitted).? 
+
+
+The Supreme Court has not articulated a specific method 
+for determining whether an injury is “incident” to military 
+service. Rather, it has instructed courts to examine each case 
+“in light of the statute as it has been construed in Feres and 
+subsequent cases.” Shearer, 473 U.S. at 57. To assist with 
+this inquiry, courts consider a number of factors including: 
+(1) the service member’s duty status; (2) the site of the 
+accident; and (3) the nature of the service member’s activity 
+at the time of injury. See, e.g., Dreier v. United States, 106 
+F.3d 844, 848 (9th Cir. 1997); Schoemer v. United States, 
+59 F.3d 26, 28 (Sth Cir. 1995). A court must consider each 
+of these factors in light of the totality of the circumstances; 
+
+
+> The other Feres rationales are: (1) the “distinctively federal” 
+nature of the relationship between the government and the armed 
+forces; and (2) the ability of service members to receive no-fault 
+statutory disability and death benefits through the Veterans’ Ad- 
+ministration. See United States v. Johnson, 481 U.S. 681, 689-90 
+(1987); Stencel Aero Engineering Corp. v. United States, 431 U.S. 
+666, 672-73 (1977). 
+
+
+Sa 
+
+
+thus, the fact that any one factor weighs in favor of applying 
+the Feres doctrine is not necessarily dispositive. 
+
+
+A. 
+
+
+At first glance, our decision in Thomason v. Sanchez, 539 
+F.2d 955 (3d Cir. 1976), appears to settle the issue raised in 
+this appeal. In Thomason, an active member of the United 
+States Army was struck by an automobile owned and oper- 
+ated by another service member while operating his motorcy- 
+cle on the grounds of the Army base. See id. at 956. The 
+motorcyclist filed suit against the United States under the 
+FTCA. We held that Feres barred the service member’s suit 
+because he sustained his injuries while on active duty and on 
+the military base. See id. at 957. In so holding, we did not 
+examine the service member’s purpose for riding the motor- 
+cycle. As in Thomason, Private Richards’s accident took 
+place within the confines of the Army base and while he was 
+on active duty. Thus, Thomason seemingly mandates our 
+application of the Feres doctrine. 
+
+
+Mrs. Richards contends that Thomason is distinguishable. 
+Specifically, she argues that, unlike in Thomason, Private 
+Richards’s accident occurred while he was traveling on a 
+public highway, maintained and patrolled by the State of 
+Kentucky, with no military base in sight. In addition, she 
+argues that Thomason incorrectly focused on the “status” of 
+the service member, whereas subsequent Supreme Court 
+decisions have instructed courts to examine whether the 
+activity was “incident to military service.” We have not 
+previously considered the application of the Feres doctrine to 
+these specific facts. Moreover, the two United States Courts 
+of Appeals that have considered similar facts differ on 
+whether Feres bars suit. See Flowers vy. United States, 764 
+F.2d 759 (11th Cir. 1985); Troglia v. United States, 602 
+F.2d 1334 (9th Cir. 1979). Still, an examination of these 
+decisions is instructive. 
+
+
+6a 
+
+
+In Flowers, an active duty service member collided with 
+a United States Air Force bus while “driving his civilian 
+automobile home from a personal errand to the grocery store 
+during his off-duty hours.” 764 F.2d at 760. The accident 
+occurred on a public highway maintained and policed by the 
+State of Florida, but running across an easement of land 
+granted by the Air Force. The court rejected the argument 
+that the public accessibility of the road somehow distin- 
+guished it from the other roads running across military reser- 
+vation property. See id. at 761. Instead, the court held that 
+Feres applied because “Flowers’ activity at the time of his 
+accident, although personal, arose out of his life on the 
+military reservation...” Jd. 
+
+
+In Troglia, an active member of the Air Force brought 
+suit under the FTCA for personal injuries suffered in an 
+automobile accident with another motorist who had been 
+served intoxicating beverages at the Air Force Base Non- 
+commissioned Officers Club. See 602 F.2d at 1335. The 
+accident took place about one-half mile outside the gate 
+guarding access to the Air Force base, but on property 
+owned by the United States and adjacent to the confines of 
+the Air Force Base. The local government maintained and 
+patrolled the road due to an easement granted by the United 
+States. See id. In reversing the District Court’s grant of 
+summary judgment based on Feres, the court stated that “the 
+connection between mere Government ownership of land near 
+a base and Troglia’s military service is so weak, that the 
+accident’s location should not be a controlling factor.” Id. at 
+1339. The court noted, however, that “had the accident 
+occurred inside the base itself, this might be a different 
+case.” Id. 
+
+
+We find that Flowers is more analogous to this case. As 
+in Flowers, Private Richards was driving his civilian automo- 
+bile home for a nonmilitary purpose at the time of the acci- 
+dent. Moreover, in both cases the accident occurred on 
+military base premises, whereas in 7roglia, the accident took 
+
+
+7a 
+
+
+place one-half mile outside the base. Indeed, the court in 
+Troglia noted the importance of this distinction when it stated 
+that had the accident occurred inside the base itself — rather 
+than simply on government owned property — it might have 
+decided the case differently. 
+
+
+Moreover, we believe that Private Richards’s activity at 
+the time of the accident supports the application of Feres. 
+Private Richards died on the grounds of the Army base while 
+driving home from his duty station. He was not simply 
+driving on a public road as a member of the general public. 
+Cf. Brooks v. United States, 337 U.S. 49 (1949) (two service 
+members on furlough injured in an off-base accident on a 
+public highway could bring suit under the FTCA — service 
+members were on personal business and the accident was 
+totally unrelated to their military service). Rather, Private 
+Richards’s relationship with the military — i.e., the fact that 
+he worked on the Army base and was leaving his duty station 
+— is the reason he was traveling on Kentucky Highway 1638 
+at the time of the accident. See, e.g., Stewart v. United 
+States, 90 F.3d 102, 104-05 (4th Cir. 1996) (service member 
+injured in on-base accident while driving from his duty 
+Station to his home to shower and change clothes before 
+reporting to his next duty assignment was “engaged in activ- 
+ity directly related to the performance of [his] military 
+obligations”); Lauer v. United States, 968 F.2d 1428, 1430 
+(1st Cir. 1992) (noting that departing for nonmilitary activity 
+from duty station or returning therefrom generally are activi- 
+ties incident to military service). Had Private Richards been 
+struck by a military vehicle while traveling home from a 
+place unrelated to his military service, or on a public road 
+outside the Army base, we may have reached a different 
+conclusion. However, as the District Court stated, “the 
+totality of the circumstances shows that Richards . . . “would 
+not, except in the event of the rarest coincidence, have been 
+in the same place at the same time with the same purpose, 
+had it not been incident to his active status in the military.’” 
+
+
+8a 
+
+
+Richards, | F. Supp. 2d at 502 (quoting Shaw v. United 
+States, 854 F.2d 360, 363 (10th Cir. 1988)). Thus, given 
+the factual circumstances surrounding Private Richards’s 
+accident, we cannot escape the conclusion that his death was 
+incident to his military service. Accordingly, we will affirm 
+the District Court’s judgment. 
+
+
+B. 
+
+
+Although Feres and its progeny, most notably Thomason, 
+mandate that we affirm the District Court’s dismissal of Mrs. 
+Richards’s complaint, we believe this result illustrates the 
+disconnect that has come to exist between the philosophy 
+behind Feres and its application. As evidence, one need only 
+consider the fit between the facts of this case and the ratio- 
+nales traditionally offered to justify Feres. 
+
+
+As stated previously, the Supreme Court has explained 
+that the Feres doctrine 
+
+
+seems best explained by the peculiar and special relation- 
+ship of the soldier to his superiors, the effects of the 
+maintenance of such suits on discipline, and the extreme 
+results that might obtain if suits under the Tort Claims Act 
+were allowed for negligent orders given or negligent acts 
+committed in the course of military duty. 
+
+
+United States v. Shearer, 473 U.S. 52, 57 (1985) (quoting 
+United States v. Muniz, 374 U.S. 150, 162 (1963)) (internal 
+quotations omitted). Thus, when evaluating whether certain 
+facts weigh in favor or against applying Feres to bar a ser- 
+vice member’s suit, a court should consider how these facts 
+relate to the relationship between the soldier and his or her 
+relevant superiors. More precisely, the court should consider 
+whether or to what extent the accident in question relates to 
+the service member’s “military duty.” 
+
+
+One can imagine a hypothetical scenario in which the 
+conduct or decisions of a service member’s superiors neces- 
+sarily would come under scrutiny during the course of a 
+
+
+9a 
+
+
+putative lawsuit. Imagine, for instance, a case in which a 
+soldier attempted to sue the commander of his platoon for 
+injuries received during battle. Such a suit Clearly would 
+involve injuries that “ar[o]se out of or in the course of activ- 
+ity incident to [military] service.” Feres, 340 U-S. at 146. 
+Therefore, this suit would implicate the “special relationship” 
+between the soldier and his superior that is contemplated in 
+Shearer, 473 U.S. at 57, and Muniz, 374 U.S. at 162. No 
+court would have difficulty in finding that Feres barred such 
+a suit because the fit between the facts of the Case and the 
+rationales justifying Feres would be close. 
+
+
+The factual circumstances that gave rise to Mrs. Rich- 
+ards’s suit are quite different from the service-related injuries 
+imagined in this hypothetical. This is so because Kentucky 
+Highway 1638, the site of the accident that took Private 
+Richards’s life, is traveled by both civilians and military 
+personnel. Thus, it was purely a matter of chance that Pri- 
+vate Richards’s automobile, rather than a civilian’s vehicle, 
+was struck by the military fuel truck, and that Private Rich- 
+ards, rather than a civilian, was killed. Therefore, unlike the 
+hypothetical above involving a soldier engaged in combat, the 
+accident that took Private Richards’s life was not necessarily 
+related to his military duty. 
+
+
+Nevertheless, unlike the position in which Mrs. Richards 
+finds herself, the spouse of a civilian who was killed in the 
+kind of accident that caused Private Richards’s death could 
+bring suit against the Army by virtue of the Federal Tort 
+Claims Act. Moreover, if the spouse of this civilian brought 
+such a suit, she would be able to raise questions about 
+whether negligence by the Army caused or contributed to the 
+accident. And, most important for our analysis, the ques- 
+tions raised by the civilian’s spouse might implicate the 
+decision making of military personnel: yet, they presumably 
+would be no less or more intrusive than if these questions 
+were posed by Mrs. Richards. Thus, while it is true that but 
+for Private Richards’ active status in the military, he would 
+
+
+10a 
+
+
+not have been “in the same place at the same time with the 
+same purpose” at the time of the accident, it is not at all 
+clear that Mrs. Richards’s suit implicates the “special rela- 
+tionship” between her deceased husband and his superiors in 
+the manner contemplated in Shearer and Muniz. 
+
+
+Thus, we are left with a counter-intuitive and inequitable 
+result simply because of Private Richards’s military status. 
+It is because Feres too often produces such curious results 
+that members of this court repeatedly have expressed misgiv- 
+ings about it. See O'Neill v. United States, 140 F.3d 564, 
+565-66 (3d Cir. 1998) (Becker, C.J., statement sur denial of 
+the petition for rehearing); Loughney v. United States, 839 
+F.2d 186, 187- 88 (3d Cir. 1988); Hinkie v. United States, 
+715 F.2d 96, 97 (3d Cir. 1983); Thomason, 539 F.2d at 957; 
+Peluso v. United States, 474 F.2d 605, 606 (3d Cir. 1973). 
+Again, we express this concern and note that the result we 
+reach does not actually advance the philosophy behind Feres. 
+
+
+Ill. 
+
+
+For the foregoing reasons, we will affirm the judgment 
+of the District Court. 
+
+
+lla 
+
+
+APPENDIX B 
+
+
+SHAMMARA RICHARDS, INDIVIDUALLY AND AS PERSONAL 
+REPRESENTATIVE OF THE ESTATE OF CHARLES A. 
+RICHARDS, JR., AND AS GUARDIAN AND NEXT OF KIN OF 
+SHANEE A. RICHARDS AND CHARLES RICHARDS, 
+APPELLANT, 
+
+
+Ve 
+UNITED STATES OF AMERICA 
+No. 98-7235. 
+
+
+United States Court of Appeals, 
+Third Circuit. 
+
+
+June 30, 1999. 
+
+
+Present: BECKER, Chief Judge, SLOVITER, MANS- 
+MANN, GREENBERG, SCIRICA, NYGAARD, ALITO, 
+ROTH, LEWIS, McKEE, RENDELL, and GARTH,” Circuit 
+Judges. 
+
+
+SUR PETITION FOR REHEARING 
+
+
+The petition for rehearing filed by the appellant in the 
+above- entitled case having been submitted to the judges who 
+participated in the decision of this court and to all other 
+available circuit judges in regular active service, and no 
+judge who concurred in the decision having asked for rehear- 
+ing, and a majority of the circuit judges in regular active 
+service not having voted for rehearing by the court en banc, 
+the petition for rehearing is denied. 
+
+
+RENDELL, Circuit Judge, dissenting: 
+
+
+This case presents yet another compelling argument for 
+the abandonment of the Feres doctrine. Feres represents 
+more than a “bad estimation[ ]” of what Congress intended to 
+
+
+Judge Garth’s vote is limited to panel rehearing only. 
+
+
+12a 
+
+
+do (but did not do), in the Federal Tort Claims Act. See 
+United States v. Johnson, 481 U.S. 681, 695 (1987) (Scalia, 
+J., dissenting), for it is also being employed by many courts 
+on a regular basis to deny a military employee’s recovery, 
+and to prevent the government’s accountability, for injuries 
+sustained in connection with essentially civilian activities 
+wholly unrelated to military service. See, e.g., Flowers v. 
+United States, 764 F.2d 759, 760 (11th Cir. 1985); Warner 
+v. United States, 720 F.2d 837 (Sth Cir. 1983); Mason v. 
+United States, 568 F.2d 1135 (Sth Cir. 1978). 
+
+
+We have participated in this travesty, not only in this 
+case, but also in another recent case in which we applied 
+Feres, O'Neill v. United States, 140 F.3d 564, 565 (3d Cir. 
+1998) (Becker, C.J., dissenting from denial of petition for 
+rehearing) (“it is difficult for me to imagine anything less 
+incident to service than being attacked by an ex-lover while 
+sitting at home watching a movie with a friend.”) 
+
+
+I agree with Chief Judge Becker’s dissent in that case, and 
+also with Justice Scalia’s words in dissenting from the major- 
+ity opinion in United States v. Johnson: 
+
+
+The Feres Court claimed its decision was necessary to 
+make “the entire statutory system of remedies against the 
+Government . . . a workable, consistent and equitable 
+whole.” 340 U.S. at 139. I am unable to find such 
+beauty in what we have wrought. 
+
+
+107 S. Ct. at 2074. 
+
+
+I urge the Supreme Court to grant certiorari and revisit 
+what we have wrought during the nearly fifty years since the 
+Court’s pronouncement in Feres v. U.S., 340 U.S. 135. 
+
+
+Chief Judge Becker and Judges Nygaard and McKee join 
+in this dissent. 
+
+
+13a 
+
+
+APPENDIX C 
+
+
+SHAMMARA RICHARDS, INDIVIDUALLY AND AS PERSONAL 
+REPRESENTATIVE OF THE ESTATE OF CHARLES A. 
+RICHARDS, JR. AND AS GUARDIAN AND NEXT OF KIN OF 
+SHANEE A. RICHARDS AND CHARLES RICHARDS, 
+PLAINTIFFS, 
+
+
+v. 
+
+UNITED STATES OF AMERICA, DEFENDANT. 
+No. 1997-0034F. 
+
+District Court, Virgin Islands, D. St. Croix. 
+March 27, 1998. 
+
+
+Lee J. Rohn, Christiansted, VI, Jeffrey Moorhead, 
+Christiansted, VI, for Plaintiff. 
+
+
+Michael A. Humphreys, Asst. U.S. Atty. Christiansted, 
+VI, Corey L. Bradley, Major, U.S. Army U.S. Legal 
+Services Agency Arlington, VA, for Defendant. 
+
+
+MEMORANDUM OPINION 
+FINCH, District Judge. 
+
+
+The Plaintiff sues for damages arising from the death of 
+Private Charles A. Richards, Jr. contending that this Court 
+has jurisdiction under the Federal Tort Claims Act 
+(“FTCA”).' 28 U.S.C.A. § 1346(b). The Defendant, 
+
+
+' The Federal Tort Claims Act permits civil actions against the 
+
+
+United. States: 
+
+
+for injury or loss of property, or personal injury or death 
+caused by the negligent or wrongful act or omission of any 
+employee of the Government while acting within the scope of 
+his office or employment, under circumstances where the Uni- 
+ted States, if a private person, would be liable to the claimant 
+
+
+l4a 
+
+
+United States of America, moves to dismiss for lack of 
+subject matter jurisdiction, citing the Feres doctrine.2 The 
+Feres doctrine, which derives its name from the Supreme 
+Court opinion Feres v. United States, is an exception to the 
+waiver of immunity granted in the FTCA when a plaintiff’s 
+alleged injuries or death “arise out of or are in the course of 
+activity incident to service.” 340 U.S. 135, 146 (1950). 
+
+
+I. Background 
+
+
+Richards, a private in the United States Armed Forces, 
+stationed in Fort Knox, Kentucky, died in uniform on June 
+26, 1995 when his privately owned vehicle was struck by an 
+Army five-ton truck operated by a member of the United 
+States Army on Kentucky Highway 1638. Although Ken- 
+tucky Highway 1638 is a public road, it runs through an 
+easement of land granted by the Department of Army to the 
+State of Kentucky. 
+
+
+According to the Plaintiff's statement of facts, Richards 
+had been allowed to leave his duty station early that day to 
+
+
+in accordance with the law of the place where the act or omis- 
+sion occurred. 
+
+
+28 U.S.C.A. § 1346(b). 
+
+
+The United States also filed motions for judgment on the plead- 
+ings pursuant to Fed. R. Civ. P. 12(c) and for summary judgment 
+pursuant to Fed. R. Civ. P. 56 premised on the Feres doctrine. 
+Rules |2(c) and 56 are not applicable to claims of immunity under 
+the Feres doctrine. In cases in which the United States is immune 
+from suit under the FTCA, and the FTCA is the only basis for 
+federal jurisdiction, the courts lack subject matter jurisdiction. 
+Such suits should be dismissed for lack of subject matter jurisdic- 
+tion under 12(b)(1). Dreier v. United States, 106 F.3d 844, 847 
+(9th Cir. 1996); Loughney v. United States, 839 F.2d 186, 188 n.3 
+(3d Cir. 1988). Thus, the United States’ motions for judgment on 
+the pleadings and summary judgment are not considered. 
+
+
+rere 
+
+
+1Sa 
+
+
+attend to his pregnant wife. The United States agrees that 
+Richards was allowed to leave his duty station early but 
+asserts that Richards was given such permission to permit 
+him to go to the Education Center in Fort Knox to execute 
+forms that would have entitled him to receive tuition assis- 
+tance from the United States Army. Although Richards was 
+allowed to leave early he was issued no pass or furlough. 
+
+
+Thus, the parties dispute Richards’ travel intentions. 
+Although the Court may weigh the evidence to determine 
+whether Richards’ was heading home or to the Education 
+Center, see /nternational Ass’n of Machinists & Aerospace 
+Workers v. Northwest Airlines, Inc., 673 F.2d 700, 711 (3d 
+Cir. 1982), such an exercise would be unnecessary if even 
+given the Plaintiff's view that Richards was homeward 
+bound, jurisdiction were to fail. Therefore, the Court begins 
+its jurisdictional analysis by taking the Plaintiff's allegations 
+as true. The Court considers that Richards was indeed en 
+route home to tend to his pregnant wife at the time he was 
+killed. 
+
+
+II. The Law 
+1. Feres Doctrine Jurisprudence 
+
+
+The United States, as a sovereign, is immune from suit 
+except as it consents to be sued. United States v. Mitchell, 
+463 U.S. 206, 212 (1983). Sovereign immunity not only 
+protects the United States from liability, it deprives the Court 
+of subject matter jurisdiction over the claims against the 
+United States. Id. In 1946, Congress enacted the FTCA 
+which, with certain exceptions, waived sovereign immunity 
+for common law torts committed by federal employees acting 
+within the scope of their employment. 28 U.S.C.A. § 
+1346(b). However, in its seminal decision Feres v. United 
+States, the Supreme Court held that military personnel are 
+barred from suing the United States for injuries that “arise 
+out of or are in the course of activity incident to service.” 
+340 U.S. at 146. 
+
+
+l6a 
+
+
+The Feres doctrine has three rationales: First, the Su- 
+preme Court is cautious of “involv[ing] the judiciary in 
+sensitive military affairs at the expense of military discipline 
+and effectiveness.” Jd. (quoting United States v. Shearer, 
+473 U.S. 52, 59 (1985)); see Loughney v. United States, 839 
+F.2d 186, 187 (3d Cir. 1988). Second, applying state tort 
+law which varies depending on the situs of the incident con- 
+flicts with the uniform federal nature of the relationship 
+between the service member and the Government. United 
+States v. Johnson, 481 U.S. 681, 689 (1987); Loughney, 839 
+F.2d at 187. Finally, because service members are eligible 
+for statutory disability and death benefits, Congress’ purpose 
+in enacting the FTCA of providing remedies is not served by 
+extending the FTCA to service members. Johnson, 481 U.S. 
+at 690. 
+
+
+2. Feres Doctrine Practice 
+
+
+To assist in determining whether the injuries occurred 
+incident to service, courts consider the totality of the circum- 
+stances including: (1) the service member’s duty status; (2) 
+the situs of the injury; (3) and the activity the service mem- 
+ber was performing. Sec, e.g., Schoemer v. United States, 
+59 F.3d 26, 28 (Sth Cir. 1995); Flowers v. United States, 
+764 F.2d 759, 760-61 (11th Cir. 1985). A particular factor 
+or combination of factors may be dispositive. For example, 
+if a service member is injured on a military base, the Feres 
+doctrine generally bars suit. Coffey v. United States, 324 F. 
+Supp. 1087, 1088 (S.D. Cal. 1971) (finding that although 
+service member held liberty card and was exiting base to 
+off-post liberty, because accident occurred on base, situs of 
+accident barred FTCA suit), aff'd, 455 F.2d 1380 (9th Cir. 
+1972). When the totality of the circumstances show that the 
+Feres doctrine bars suit, the Court may dismiss the suit 
+without considering the underlying Feres doctrine rationales. 
+Loughney, 839 F.2d at 188 (holding that when military status 
+of the service member was dispositive, no case-by-case 
+inquiry into whether claim would involve judicial intrusion 
+
+
+17a 
+
+
+into military affairs was warranted). On the other extreme, 
+even when the three-factor totality of the circumstances test 
+strongly indicates thet the Feres doctrine does not bar suit, 
+the Court must look to the Feres doctrine rationales before 
+permitting suit. See Shearer, 473 U.S. at 54, 57. For 
+example, in United States v. Shearer, although a service 
+member was killed while off-duty, off-base, and while not 
+performing any military related activity, because the military 
+Status of the tortfeasor could “require{] the civilian court to 
+second-guess military decisions,” the Feres doctrine rationale 
+barred suit. Jd. 
+
+
+III. Case Analysis 
+A. Totality of the Circumstances 
+
+
+The Plaintiff argues that the three factors generally consid- 
+ered in determining the totality of the circumstances cenclu- 
+Sively show that Richards’ death did not occur incident to 
+service. According to the Plaintiff, Richards was in off-duty 
+status, on a public road, and performing an act not related to 
+his military duties — going home. Although little Third 
+Circuit guidance is available, the Ninth Circuit in the factu- 
+ally similar case, Troglia v. United States, held that suit by 
+an off-duty service member injured while possibly “returning 
+to the base after enjoying a short period of liberty,” on a 
+public road passing across an easement on military property, 
+may not be barred by the Feres doctrine. 602 F.2d 1334, 
+1339-40 (9th Cir. 1979) (remanding to district court to deter- 
+mine service member’s status and activity at time of injury). 
+In contrast, the Eleventh Circuit found a Feres bar in Flowers 
+v. United States, when an off-duty service member, headed 
+home from the grocery store was injured on a public road 
+running through an easement on military property. 764 F.2d 
+at 761. The lack of Third Circuit precedent together with 
+these conflicting rulings make the law as applied to these 
+facts unclear. Thus, the Plaintiff's argument that the 
+
+
+18a 
+
+
+three-factor incident to service test conclusively permits suit 
+in this case is without merit. 
+
+
+If each of the three factors is individually analyzed, the 
+three- factor test points more strongly toward finding a Feres 
+bar than toward permitting suit. For the purposes of the 
+Feres doctrine, whether an active duty service member is 
+off-duty or on-duty generally is immaterial. E.g., Skees v. 
+United States, 107 F.3d 421, 425 (6th Cir. 1997) (holding 
+that “status as an active duty service person, not whether he 
+was on or off-duty at the time of his death, is controlling”); 
+Bozeman v. United States, 780 F.2d 198, 200 (2d Cir. 1985) 
+(noting active duty status continues when service member on 
+liberty or leave); Warner v. United States, 720 F.2d 837, 839 
+(Sth Cir. 1983) (holding that “[o]ne with only an unexercised 
+right to a pass or who is only off duty for the day usually is 
+held to be acting ‘incident to service.’ ”); Mason v. United 
+States, 568 F.2d 1135, 1136 (Sth Cir. 1978) (holding that 
+although service member was off-duty and on his way home, 
+because he was on active duty and on base, he was “still 
+subject to all military regulations and discipline and was 
+readily available for emergency service or temporary du- 
+ties”). But cf. Parker v. United States, 611 F.2d 1007, 1014 
+(Sth Cir. 1980) (holding that right to be off-duty for four 
+days more like furlough than mere release from day’s duties). 
+Furthermore, when an active status service member is injured 
+in a vehicular accident on a military reservation, courts 
+generally find a Feres bar.’ See, e.g., Shaw v. United 
+States, 854 F.2d 360, 363 (10th Cir. 1988); Warner, 720 
+
+
+3 
+
+
+Whether an incident involving an active duty service member 
+occurring on a public road, such as Kentucky Highway 1638, 
+running on an easement across a military reservation, arises out of 
+or is in the course of military activity for the purpose of a Feres 
+analysis, has not been decided by the Third Circuit and the Ninth 
+Circuit and Eleventh Circuit are split on this question. Compare 
+Troglia, 602 F.2d at 1339, with Flowers, 764 F.2d at 761. 
+
+
+19a 
+
+
+F.2d at 839; Coffey, 324 F. Supp. at 1088. Finally, the 
+activity of leaving the duty station after work and returning 
+to the duty station for work is generally considered an activ- 
+ity incident to military service. Lauer v. United States, 968 
+F.2d 1428, 1430 (1st Cir. 1992) (holding that leaving base 
+for non- military activity and returning therefrom is usually 
+incident to service); Shaw, 854 F.2d at 363 (holding that fact 
+that service member was on post and on his way to work was 
+directly connected to military service). As in Shaw v. United 
+States, in which a service member was struck by an Army 
+cargo truck on base on his way to work, the totality of the 
+circumstances shows that Richards, like Shaw, “would not, 
+except in the event of the rarest coincidence, have been in the 
+Same place at the same time with the same purpose, had it 
+not been incident to his active status in the military.” 854 
+F.2d at 363. 
+
+
+The application of each of the three factors to the instant 
+case strongly indicates that the Feres doctrine bars suit. 
+However, because the two circuits that have considered 
+factually similar cases are split and because the Third Circuit 
+has not had occasion to review a factually similar case, the 
+Court, in an abundance of caution, finds the three factor 
+analysis inconclusive. 
+
+
+B. Consideration of the Feres Doctrine Rationales 
+
+
+Because the three factor incident to service test generally 
+applied in evaluating the totality of the circumstances does 
+not conclusively bar suit, the Court considers the Feres 
+doctrine rationales. As discussed, the Feres doctrine is 
+designed to prevent unnecessary judicial intrusion into mili- 
+tary affairs and to protect the Government from responding 
+to tort actions under varying state laws. Further justification 
+for the Feres bar is the uniform compensation provided to 
+service members under federal law. These rationales, con- 
+sidered in turn, show that the Feres doctrine bars this suit. 
+
+
+20a 
+
+
+1. Judicial Intrusion into Military Affairs 
+
+
+What constitutes judicial intrusion into military affairs has 
+been broadly construed. Some courts have held that a colli- 
+sion that merely involves military eyewitnesses and military 
+physicians, without any further questioning of military deci- 
+sion-making, sufficiently involves the judiciary intruding on 
+military affairs to warrant barring suit under the Feres doc- 
+trine. For example, in Shaw, despite acknowledging that 
+“the present case may not involve a ‘decision of command,’ 
+” the court held that concern for judicial intrusion into mili- 
+tary affairs supported barring suit because “this case may 
+require military personnel, . . . military eyewitnesses to the 
+accident, and military medical personnel who treated Mr. 
+Shaw and diagnosed the extent of his injuries ‘to testify in 
+court as to each other’s decisions and actions.’ ” 854 F.2d 
+at 365 (quoting Shearer, 473 U.S. at 58); see also Stewart v. 
+United States, 90 F.3d 102, 106 (4th Cir. 1996) (holding that 
+Feres doctrine rationale supported barring suit involving 
+collision because military personnel could be required to 
+testify). 
+
+
+Other courts have applied the Feres doctrine more nar- 
+rowly, considering whether the claims were of the type that 
+would involve the courts in questioning a traditional military 
+function. For example, in Jaber v. Maine, because the 
+plaintiff only alleged the negligence of the drunk driver and 
+no claims of negligent supervision by military personnel were 
+made, the Second Circuit held that military discipline was not 
+implicated. 67 F.3d 1029, 1052 (2d Cir. 1995). Similarly in 
+Dreier, the Ninth Circuit found no Feres doctrine bar because 
+the case did not involve potential interference with 
+decision-making of a traditional military nature: 
+
+
+This case makes no allegations of inadequate military 
+supervision or training, but rather alleges the same type of 
+negligence that could be alleged against a completely 
+private [facility]. . . . This circuit has not been so con- 
+
+
+2la 
+
+
+cerned in questioning aspects of the operation of a military 
+base that are not related to traditional military functions. 
+
+
+106 F.3d at 854 & n.9. 
+
+
+The case at bar involves intrusion of the judiciary into 
+military discipline even if this second more stringent test is 
+applied. In her complaint, the Plaintiff claims inter alia: 
+
+
+Defendant United States through its negligence failed to 
+properly maintain its vehicle, United States Army Truck 
+
+. . Involved in the vehicular accident which gives rise to 
+this Complaint 
+
+
+Defendant United States negligently allowed [service 
+member] to operate a five-ton truck knowing that he was 
+not licensed to drive [such] truck. . . . Defendant negli- 
+gently ordered [service member] to drive the truck know- 
+ing that he did not possess the requisite skill or experience 
+to safely operate the vehicle. 
+
+
+Some of the allegations in this case are similar to those in 
+Sanchez v. United States, 878 F.2d 633 (2d Cir. 1989). In 
+Sanchez, the plaintiff alleged that his injuries were caused by 
+the negligent servicing of a car by a service station owned 
+and operated by the government. Sanchez, 878 F.2d at 634. 
+Even though the injuries occurred while Sanchez was 
+off-duty and off base, the Feres doctrine was found to apply 
+because “establishment of Sanchez’s claim would require 
+Marine Corps officers to testify about their policies in hiring 
+employees for the repair station and in running the station.” 
+Id. at 688. 
+
+
+In this case, military officials would be questioned not 
+only with respect to their maintenance policies, but also with 
+respect to decisions regarding personnel supervision and 
+discipline as in Shearer. Thus, this suit is barred under the 
+FTCA because the Plaintiff's allegations are “the type of 
+
+
+22a 
+
+
+claims that, if generally permitted, would involve the judi- 
+Ciary in sensitive military affairs at the expense of military 
+discipline and effectiveness.” See Shearer, 473 U.S. at 59 
+(emphasis in original). 
+
+
+2. Federal Relationship and Uniform Compensation 
+
+
+The remaining Feres doctrine rationales also favor a Feres 
+bar. Richards had a distinctively federal relationship to the 
+government and the service member allegedly responsible for 
+his death; his active duty status in the armed forces and the 
+fact that the incident occurred while he was on his way home 
+from his work on base suggest this federal relationship. In 
+light of this federal relationship, the Feres doctrine prevents 
+the United States from having to respond to a tort action 
+based fortuitously on the tort law of Kentucky, the state in 
+which Richards was killed. 
+
+
+Instead, the United States has provided “simple, certain, 
+and uniform compensation” to Richards’ family in the form 
+of extensive benefits. Feres, 340 U.S. at 144. Richards’ 
+widow received $150,000 from Servicemen’s Group Life 
+Insurance and $6,000 in a death gratuity from the United 
+States. She and her children receive over $1,200 per month 
+in dependency and indemnity compensation. In addition 
+Richards’ family is entitle to numerous other survivor bene- 
+fits, including education stipends, medical care, federal civil 
+service hiring preferences, and home loan guarantees. 
+
+
+Thus, all three Feres doctrine rationales support a finding 
+that the Plaintiff’s suit is barred by the Feres doctrine. 
+
+
+IV. Conclusion 
+
+
+Courts have recognized that 
+
+
+in recent years the [Supreme] Court has embarked on a 
+course dedicated to broadening the Feres doctrine to en- 
+compass, at a minimum, all injuries suffered by military 
+personnel that are even remotely related to the individual’s 
+
+
+23a 
+
+
+status as a member of the military, without regard to the 
+location of the event, the status (military or civilian) of 
+the tortfeasor, or any nexus between the injury-producing 
+even and the essential defense/combat purpose of the 
+military activity from which it arose. 
+
+
+Major v. United States, 835 F.2d 641, 644 (6th Cir. 1987) 
+(emphasis in original); see Stewart, 90 F.3d at 105; Shaw, 
+854 F.2d at 364. The Feres doctrine has been expanded such 
+that “practically any suit that implicates the military judg- 
+ments and decisions runs the risk of colliding with Feres.” 
+Jackson, 110 F.3d at 1487 (citations omitted). 
+
+
+In this case, ‘he service member’s status, the location of 
+the cause of the 1. jury and the military nature of the service 
+member’s activity at the time of the incident, strongly indi- 
+cate that the Feres doctrine bars suit. However, because other 
+circuits examining similar facts are split and the Third Circuit 
+has not yet reviewed such a case, these facts are found 
+non-dispositive. Therefore, the Feres doctrine rationales are 
+considered. Because the Plaintiff’s allegations would require 
+the judiciary to involve itself in questions of military disci- 
+pline and decision-making, and the other Feres doctrine 
+rationales also support a finding of immunity, this suit is 
+barred under the Feres doctrine. Since the underlying cause 
+of action is barred by the Feres doctrine, the Plaintiff's 
+derivative actions are similarly barred. Mondelli v. United 
+States, 711 F.2d 567, 569 (3d Cir. 1983). 
+
+
+24a 
+
+
+APPENDIX D 
+
+
+28 U.S.C. § 1346: 
+
+
+*** * 
+
+
+(b)(1) Subject to the provisions of chapter 171 of this 
+title, the district courts, together with the United States 
+District Court for the District of the Canal Zone and the 
+District Court of the Virgin Islands, shall have exclusive 
+jurisdiction of civil actions on claims against the United 
+States, for money damages, accruing on and after January 1, 
+1945, for injury or loss of property, or personal injury or 
+death caused by the negligent or wrongful act or omission of 
+any employee of the Government while acting within the 
+scope of his office or employment, under circumstances 
+where the United States, if a private person, would be liable 
+to the claimant in accordance with the law of the place where 
+the act Or Omission occurred. 
+
+
+28 U.S.C. § 2671: 
+
+
+As used in this chapter and sections 1346(b) and 2401(b) 
+of this title, the term “Federal agency” includes the executive 
+departments, the judicial and legislative branches, the mili- 
+tary departments, independent establishments of the United 
+States, and corporations primarily acting as instrumentalities 
+or agencies of the United States, but does not include any 
+contractor with the United States. 
+
+
+“Employee of the government” includes officers or em- 
+ployees of any federal agency, members of the military or 
+naval forces of the United States, members of the National 
+Guard while engaged in training or duty under section 316, 
+502, 503, 504, or 505 of title 32, and persons acting on 
+behalf of a federal agency in an official capacity, temporarily 
+
+
+25a 
+
+
+Or permanently in the service of the United States, whether 
+with or without compensation. 
+
+
+“Acting within the scope of his office or employment,” in 
+the case of a member of the military or naval forces of the 
+United States or a member of the National Guard as defined 
+in section 101(3) of title 32, means acting in line of duty. 
+
+
+28 U.S.C. § 2674: 
+
+
+The United States shall be liable, respecting the provisions 
+of this title relating to tort claims, in the same manner and to 
+the same extent as a private individual under like circum- 
+stances, but shall not be liable for interest prior to judgment 
+or for punitive damages. 
+
+
+If, however, in any case wherein death was caused, the 
+law of the place where the act or omission complained of 
+occurred provides, or has been construed to provide, for 
+damages only punitive in nature, the United States shall be 
+liable for actual or compensatory damages, measured by the 
+pecuniary injuries resulting from such death to the persons 
+respectively, for whose benefit the action was brought, in 
+lieu thereof. 
+
+
+With respect to any claim under this chapter, the United 
+States shall be entitled to assert any defense based upon 
+judicial or legislative immunity which otherwise would have 
+been available to the employee of the United States whose act 
+Or Omission gave rise to the claim, as well as any other 
+defenses to which the United States is entitled. 
+
+
+* * * * 
+
+
+28 U.S.C. § 2680: 
+
+
+The provisions of this chapter and section 1346(b) of this 
+title shall not apply to-- 
+
+
+a a a 
+
+
+26a 
+
+
+(a) Any claim based upon an act or omission of an 
+employee of the Government, exercising due care, in the 
+execution of a statute or regulation, whether or not such 
+statute or regulation be valid, or based upon the exercise or 
+performance or the failure to exercise or perform a discre- 
+tionary function or duty on the part of a federal agency or an 
+employee of the Government, whether or not the discretion 
+involved be abused. 
+
+
+(b) Any claim arising out of the loss, miscarriage, or 
+negligent transmission of letters or postal matter. 
+
+
+(c) Any claim arising in respect of the assessment or 
+collection of any tax or customs duty, or the detention of any 
+goods or merchandise by any officer of customs or excise or 
+any other law-enforcement officer. 
+
+
+(d) Any claim for which a remedy is provided by 
+sections 741-752, 781-790 of Title 46, relating to claims or 
+suits in admiralty against the United States. 
+
+
+(e) Any claim arising out of an act or omission of any 
+employee of the Government in administering the provisions 
+of sections 1-31 of Title 50, Appendix. 
+
+
+(f) Any claim for damages caused by the imposition or 
+establishment of a quarantine by the United States. 
+
+
+[(g) Repealed. Sept. 26, 1950, c. 1049, § 13(5), 64 
+Stat. 1043.] 
+
+
+(h) Any claim arising out of assault, battery, false 
+imprisonment, false arrest, malicious prosecution, abuse of 
+process, libel, slander, misrepresentation, deceit, or interfer- 
+ence with contract rights: Provided, That, with regard to 
+acts Or omissions of investigative or law enforcement officers 
+of the United States Government, the provisions of this 
+chapter and section 1346(b) of this title shall apply to any 
+claim arising, on or after the date of the enactment of this 
+proviso, out of assault, battery, false imprisonment, false 
+
+
+27a 
+
+
+arrest, abuse of process, or malicious prosecution. For the 
+purpose of this subsection, “investigative or law enforcement 
+officer” means any officer of the United States who is em- 
+powered by law to execute searches, to seize evidence, or to 
+make arrests for violations of Federal law. 
+
+
+(i) Any claim for damages caused by the fiscal opera- 
+tions of the Treasury or by the regulation of the monetary 
+system. 
+
+
+(j) Any claim arising out of the combatant activities of 
+the military or naval forces, or the Coast Guard, during time 
+of war. 
+
+
+(k) Any claim arising in a foreign country. 
+
+
+(1) Any claim arising from the activities of the Ten- 
+nessee Valley Authority. 
+
+
+(m) Any claim arising from the activities of the Panama 
+Canal Company. 
+
+
+(n) Any claim arising from the activities of a Federal 
+land bank, a Federal intermediate credit bank, or a bank for 
+cooperatives. 
+
+
+28a 
+
+
+APPENDIX E 
+IN THE DISTRICT COURT OF THE VIRGIN ISLANDS 
+DIVISION OF ST. CROIX 
+
+
+SHAMMARA RICHARDS, INDIVIDUALLY AND AS PERSONAL 
+REPRESENTATIVE OF THE ESTATE OF CHARLES A. 
+RICHARDS, JR., AND AS GUARDIAN AND NEXT OF KIN OF 
+SHANEE A. RICHARDS AND CHARLES RICHARDS, 
+PLAINTIFFS, 
+
+
+Wa 
+UNITED SATES OF AMERICA, DEFENDANT. 
+CiviL No. 1997/ 
+ACTION FOR DAMAGES 
+JURY TRIAL DEMANDED 
+VERIFIED COMPLAINT 
+
+
+COME NOW Plaintiffs, by and through undersigned 
+counsel, and as and for Plaintiffs’ Complaint, allege and state 
+the following: 
+
+
+1. This Court has jurisdiction of this matter pursuant 
+to 28 U.S.C., Chapter 171, § 2401 and § 2674 et. seq. and 
+the Federal Tort Claims Act. 
+
+
+2. The amount in controversy exceeds the sum of 
+$50,000.00, exclusive of costs and fees. 
+
+
+>. Charles A. Richards, Jr., died on June 26, 1995, 
+as a direct and proximate result of a vehicular accident due to 
+the negligence of the United States Army and its employees; 
+and his wife, Shammara Richards, a resident of St. Croix, 
+Virgin Islands, has been appointed his personal representative 
+for the purpose of continuing this civil suit. 
+
+
+29a 
+
+
+4. Defendant United States Army is a body politic 
+which oversees the operation of all military bases, including 
+the U. S. Armor Center at Fort Knox, Kentucky. 
+
+
+» The beneficiaries of the Estate of Charles A. Rich- 
+ards, Jr., are as follows: 
+
+
+a. Shammara Richards, spouse; 
+b. Shanee A. Richards, daughter; 
+c. Charles Richards, son; 
+
+d. Cecile Richards, mother; 
+
+e. Charles Richards, father; 
+
+f. Alexander Richards, brother: 
+g. Basil Richards, brother; 
+
+h. Valencia Richards, sister; 
+
+i. McDonald Richards, brother; 
+j. Bernadette Bess, sister; 
+
+k. Charlese Duparl, sister; and 
+1. Allen Duparl, brother. 
+
+
+6. On or about June 26, 1995, Charles A. Richards, 
+Jr., was driving near the intersection of Kentucky Highway 
+1638 and US 31 W in Muldraugh, Kentucky. 
+
+
+ B Decedent, who was on personal business, Charles 
+A. Richards, Jr.’s vehicle was impacted broadside and 
+crushed by a five-ton United States Army cargo truck. 
+
+
+8. As a direct and proximate result of the impact, 
+Charles A. Richards, Jr., died of his injuries and his heirs 
+have been deprived forever of his support and consortium. 
+
+
+9. Plaintiff, Shammara Richards, wife of Charles A. 
+Richards, Jr., who was pregnant at the time of the accident 
+
+
+30a 
+
+
+suffered extreme anguish and damages as a result of her 
+husband's untimely death. 
+
+
+10. Defendant United States Army oversees the opera- 
+tion of the Army base in Fort Knox, Kentucky; and employs 
+and pays the salaries of servicemen stationed there. 
+
+
+11. Defendant United States supplies, maintains and 
+services all vehicles utilized at its Fort Knox Armiy base. 
+
+
+12. Defendant United States through its negligence 
+failed to properly maintain its vehicle, United States Army 
+Truck Cargo 5 Ton 6x6 M813A1, VIN NLO8NZC32910291 
+involved in the vehicular accident which gives rise to this 
+Complaint. 
+
+
+13. Defendant United States allowed the above-de- 
+scribed vehicle to be operated on the public roadways in an 
+unsafe, defective condition, to include but not be limited to: 
+
+
+a. Defective front brakes; 
+
+b. Defective air gauge; 
+
+c. Damaged tail lamps; 
+
+d. Damaged rear turn lamps; 
+e. Inoperable horn; 
+
+f. Defective battery gauge; 
+
+
+Unable to be driven long distances; 
+
+
+v9 
+
+
+h. Contaminated brake fluid; and 
+i. Defective master cylinder. 
+
+
+14. Defendant United States qualifies servicemen in 
+general to operate various classes and weights of vehicles. 
+
+
+15. Defendant United States negligently allowed SPC 
+Potts to operate a five-ton truck knowing that he was not 
+licensed to drive an 800 series five-ton truck of the type and 
+
+
+3la 
+
+
+description that he drove the day of the subject accident 
+without regard to the safety of other drivers on the public 
+roadways. 
+
+
+16. Defendant negligently ordered SPC Potts to drive 
+the truck knowing that he did not possess the requisite skill 
+or experience to safely operate the vehicle. 
+
+
+17. SPC Potts, while he was in the course and scope of 
+his employment with Defendant, negligently operated the 
+vehicle such that it collided with the vehicle being driven by 
+Mr. Richards. 
+
+
+18. As a direct and proximate result of the negligent 
+acts and omissions of Defendant, Decedent suffered pain and 
+suffering and then died and Plaintiffs suffered losses, mental 
+anguish, pain and suffering and loss of enjoyment of life, 
+loss of companionship and contribution of Decedent and all 
+other damages allowable under the wrongful death statute. 
+
+
+WHEREFORE, Plaintiffs pray for damages as they may 
+appear and for such other relief as this Court deems fair and 
+just. 
+
+
+JURY TRIAL DEMANDED AS TO ALL ISSUES. 
+LAW OFFICES OF ROHN & CUSICK 
+Attorneys for Plaintiffs 
+
+
+DATED: 3/26/97 = /s/ Lee J. Rohn 
+
+
+Lee J. Rohn, Esquire 
+1101 King Street - Suite 2 
+Christiansted, St. Croix 
+Virgin Islands 00820 
+
+
+- 32a 
+
+
+VERIFICATION 
+
+
+1, SHAMMARA RICHARDS, being duly sworn, hereby 
+verify that | am the Plaintiff in the above-captioned matter 
+and | have read the Verified Complaint filed herein and all 
+statements contained herein are true and correct. 
+
+
+/s/ Shammara Richards 
+
+
+SHAMMARA RICHARDS, Individually 
+and As Personal Representative of the ES- 
+TATE OF CHARLES A. RICHARDS, 
+JR., and as Guardian and Next of Kin of 
+SHANEE A. RICHARDS and CHARLES 
+RICHARDS 
+
+
+SUBSCRIBED and SWORN TO BEFORE 
+me this 25th day of March, 1997. 
+
+
+/s/ 
+
+
+Notary Public 
+
+
+33a 
+
+
+APPENDIX F 
+IN THE DISTRICT COURT OF THE VIRGIN ISLANDS 
+DIVISION OF ST, CROIX 
+
+
+SHAMMARA RICHARDS, INDIVIDUALLY AND AS PERSONAL 
+REPRESENTATIVE OF THE ESTATE OF CHARLES A. RICHARDS 
+JR., AND AS GUARDIAN AND NEXT OF KIN OF SHANEE A. 
+RICHARDS AND CHARLES RICHARDS, PLAINTIFFS, 
+
+
+vi 
+UNITED STATES OF AMERICA, DEFENDANT. 
+CiviL No. 97-0034 
+FEDERAL TORT CLAIMS ACTION 
+ANSWER OF DEFENDANT, UNITED STATES OF 
+AMERICA 
+
+
+COMES NOW the United States of America, by and 
+through the United States Attorney for the District of the 
+Virgin Islands, and answers the Plaintiffs’ Complaint as 
+follows: 
+
+
+1. The allegations of paragraph No. 1 of the Com- 
+plaint state legal conclusions to which the Defendant is not 
+required to admit or deny. However, to the extent that 
+answer is, otherwise, required, the allegations of paragraph 
+No. 1 of the complaint are denied. 
+
+
+zi Defendant denies the allegations of paragraph No. 
+
+
+a Defendant admits that Charles A. Richards, Jr., 
+died on June 26, 1995, but is without sufficient knowledge or 
+information to either admit or deny the remaining allegations 
+of paragraph 3. However, to the extent that an answer is, 
+otherwise, required, the allegations of paragraph No. 3 are 
+denied. 
+
+
+34a 
+
+
+4. Defendant admits it is an agency of the United 
+States that oversees the operation of the U.S. Army Armor 
+Center at Fort Knox, Kentucky, but denies the remaining 
+allegations in paragraph No. 4. 
+
+
+5. Defendant is without sufficient knowledge or 
+information to either admit or deny the allegations of para- 
+graph No. 5, but to the extent that an answer is required the 
+allegations are denied. 
+
+
+6. Defendant admits the statements contained in 
+paragraph No. 6. 
+
+
+: f Defendant admits that Charles A. Richards, Jr.’s 
+vehicle was involved in a collision with the United States 
+Army 5-ton cargo truck on June 26, 1995, but denies the 
+remaining allegations of paragraph No. 7. 
+
+
+8. Defendant denies the allegations of paragraph No. 
+
+
+9. Defendant is without sufficient knowledge or 
+information to either admit or deny the allegations of para- 
+graph No. 9, but to the extent that an answer is, otherwise, 
+required, the allegations are denied. 
+
+
+10. Defendant admits the statements contained in 
+naragraph No. 10. 
+
+
+11. Defendant denies the allegations of paragraph No. 
+
+
+11. 
+
+12. | Defendant denies the allegations of paragraph No. 
+12. 
+
+13. Defendant denies the allegations of paragraph No. 
+13. 
+
+
+14. Defendant admits the statements contained in 
+paragraph No. 14. 
+
+
+35a 
+
+
+15. | Defendant denies the allegations of paragraph No. 
+15. 
+
+
+16. Defendant denies the allegations of paragraph No. 
+16. 
+
+
+17. Defendant admits that SPC Potts was acting within 
+the course and scope of his federal employment at the time of 
+the accident that is the subject of this litigation, but denies 
+the remaining allegations of paragraph No. 17. 
+
+
+18. Defendant denies the allegations of paragraph No. 
+18. 
+
+
+19. __ Each and every allegation not previously admitted 
+or otherwise qualified is, hereby, expressly denied. 
+
+
+FIRST AFFIRMATIVE DEFENSE 
+
+
+20. ‘Plaintiffs’ complaint fails to state a claim from 
+which relief can be granted. 
+
+
+SECOND AFFIRMATIVE DEFENSE 
+
+
+21. This Court lacks subject matter jurisdiction over 
+the claims raised by the Plaintiffs’ complaint. 
+
+
+THIRD AFFIRMATIVE DEFENSES 
+
+
+22. ‘Plaintiffs’ cause of action under the Federal Tort 
+Claims Act (FTCA), 28 U.S.C. §§ 1346(B) and 2671-2680 
+is barred by the Feres Doctrine, Feres v. United States, 340 
+U.S. 135 (1950). 
+
+
+FOURTH AFFIRMATIVE DEFENSE 
+
+
+23. Any injuries which plaintiffs may have sustained 
+were caused by the contributory negligence of the decedent. 
+
+
+36a 
+
+
+WHEREFORE, having fully answered, defendant, United 
+States of America, prays as follows: 
+
+
+a) That the plaintiffs’ action be dismissed with prejudice; 
+
+
+b) That the defendant, United States of America, be 
+awarded the costs incurred in the defense of this action; and 
+
+
+c) That the Court enter such other relief as it deems just 
+and proper. 
+
+
+Respectfully submitted this Ist day of June 1997. 
+
+
+JAMES A. HURD, JR. 
+United States Attorney 
+
+
+/s/ Michael A. Humphreys 
+Michael A. Humphreys 
+Assistant U.S. Attorney 
+1108 King Street, Ste. 201 
+Christiansted, VI 00820 
+809 773-3920 
+
+
+Of Counsel: 
+
+
+CAPTAIN COREY L. BRADLEY 
+Department of the Army 
+
+Office of the Judge Advocate General 
+901 North Stuart Street 
+
+Arlington, Virginia 22203 
+
+(703) 696-1637 
+
+
+CERTIFICATE OF SERVICE 
+
+
+I HEREBY CERTIFY that a true copy of the foregoing 
+Answer was served on Plaintiffs’ counsel, Lee J. Rohn, Esq., 
+1101 King Street, Suite 2, Christiansted, by placing it in her 
+Box at the District Court’s Office this 2th day of June, 1997. 
+
+
+/s/ 
+
+
+Legal Assistant 
+
+

@@ -1,0 +1,474 @@
+# Richards objective lower-court source extraction
+
+Source: Internet Archive Records and Briefs collection, docket 99-731, item `micro_IA40386014_0301`, petition Appendix A, pages 1a-10a, reporting 176 F.3d 652 (3d Cir. 1999). Collection listing was searched by docket and case name before retrieval. PDF and OCR text are saved under `terms/OT1999/sources/chunk2-neutral/`. The complete published lower-court opinion, including its footnotes and limiting discussion, was read. The petition's advocacy and remaining appendices were not represented as fully read. No merits briefs or joint appendix for a plenary Supreme Court case were found in this petition-stage item; that is not litigant default.
+
+The Third Circuit reported the following facts and procedural assumptions. Richards was an active Army private at Fort Knox. He received permission to leave work early; no pass or furlough was issued. He drove his own vehicle, and the collision occurred inside the base at Kentucky Highway 1638 and US Highway 31W. Highway 1638 is maintained and patrolled by Kentucky and runs over an Army easement. For the dismissal motion the district court accepted, without deciding, the claimant's account that he was going home to his pregnant wife; the court of appeals used that same assumption. The government disputed the destination and asserted a trip to the Fort Knox Education Center for Army tuition-assistance paperwork. The opinion does not resolve that factual disagreement in the government's favor.
+
+The actual pleaded negligence concerned maintenance of the Army vehicle and supervision of its driver. The dismissal was under Rule 12(b)(1), and the appellate court reviewed the Feres application de novo. Its affirmance rested on the whole service-related setting, particularly departure from his duty station and location within the base; it recognized that personal travel was assumed and that the public road alone did not determine the result. Part II-B separately explained the panel's doubts that the result advanced Feres's discipline rationale. These are lower-court grounds and observations, not a Supreme Court commitment. The precise distinctions between active-duty military status, released work duties, formal pass/furlough status, and the accepted personal travel purpose must all remain visible.
+
+Fresh neutral validation must decide how these sourced facts update the supplied question and incomplete-record passage. No merits recommendation is made in this source extraction.
+
+## Mechanically copied complete lower-court opinion
+
+```text
+APPENDIX A 
+
+
+SHAMMARA RICHARDS, INDIVIDUALLY AND AS PERSONAL 
+REPRESENTATIVE OF THE ESTATE OF CHARLES A. 
+RICHARDS, JR., AND AS GUARDIAN AND NEXT OF KIN OF 
+SHANEE A. RICHARDS AND CHARLES RICHARDS, 
+APPELLANT, 
+
+
+¥. 
+UNITED STATES OF AMERICA. 
+No. 98-7235. 
+
+
+United States Court of Appeals, 
+Third Circuit. 
+
+
+Argued Dec. 11, 1998. 
+Filed May 5, 1999. 
+
+
+Maurice J. Cusick (Argued), Rohn & Cusick, Christian- 
+sted, St. Croix, USVI, for Appellant. 
+
+
+Michael A. Humphreys, Office of United States Attorney, 
+Christiansted, St. Croix, USVI, Curtis V. Gomez, Office of 
+United States Attorney, Charlotte Amalie, St. Thomas, USVI, 
+Lowell V. Sturgill, Jr. (Argued), United States Department 
+of Justice, Civil Division, Washington, DC, for Appellee. 
+
+
+Before: ROTH, LEWIS, and GARTH, Circuit Judges. 
+OPINION OF THE COURT 
+LEWIS, Circuit Judge. 
+
+
+Appellant Shammara Richards is the wife and personal 
+representative of the estate of Charles A. Richards, Jr. She 
+appeals from the District Court’s order dismissing her com- 
+plaint for lack of subject-matter jurisdiction under Fed. R. 
+Civ. P. 12(b)(1). In particular, Mrs. Richards asks that we 
+allow her negligence claims against the United States under 
+the Federal Tort Claims Act (“FTCA”) to go forward so that 
+
+
+2a 
+
+
+she can attempt to recover for her husband’s tragic death. 
+Regrettably, the Supreme Court’s decision in Feres v. United 
+States, 340 U.S. 135 (1950), and the cases stemming from it 
+prevent us from granting Mrs. Richards’s request. Thus, we 
+will affirm the District Court’s judgment. 
+
+
+I. 
+
+
+Charles Richards was a private in the United States Armed 
+Forces, stationed in Fort Knox, Kentucky. On June 26, 
+1995, Private Richards left work early to go home and attend 
+to his pregnant wife.’ Although Private Richards received 
+permission to leave early, the Army did not issue him a pass 
+or furlough. While driving home in his personal vehicle, 
+Private Richards was broadsided by a five-ton military fuel 
+truck, killing him instantly. The accident took place within 
+the confines of the Fort Knox Army Base, at the intersection 
+of Kentucky Highway 1638 and U.S. Highway 31 W. Ken- 
+tucky Highway 1638 is a public highway that runs through an 
+easement of land granted by the Army to the State of Ken- 
+tucky, and is patrolled and maintained by the State. 
+
+
+Mrs. Richards filed suit under the FTCA, alleging that her 
+husband died “as a direct and proximate result of a vehicular 
+accident due to the negligence of the United States Army and 
+its employees.” Complaint at 3. Specifically, she alleged 
+
+
+' The United States disputes the alleged purpose for Private 
+Richards’s early departure. It argues that Private Richards left his 
+duty station early to go to the Fort Knox Education Center to 
+execute forms that would have entitled him to receive tuition 
+assistance from the Army. For purposes of ruling on the govern- 
+ment’s motion to dismiss, the District Court accepted, without 
+deciding, that Private Richards was on his way home when he 
+died. See Richards v. United States, 1 F. Supp. 2d 498, 500 
+(D.V.1. 1998). Similarly, we will accept appellant’s contention 
+that Private Richards was homeward bound at the time of the 
+
+
+accident. 
+
+
+3a 
+
+
+that the United States was responsible for her husband’s 
+death because it failed to properly maintain the Army vehicle 
+which caused the collision and negligently supervised the 
+solider who drove the vehicle. Complaint at ¥| 12- 13, 
+15-17. The District Court dismissed the suit for lack of 
+subject matter jurisdiction, concluding that Private Richards’s 
+death was incident to his military service and thus barred by 
+the Feres doctrine. This appeal followed. 
+
+
+We exercise jurisdiction over this appeal pursuant to 28 
+U.S.C. § 1291. We review de novo whether the Feres 
+doctrine applies to the facts in the record. Estate of Marti- 
+nelli v. United States, 812 F.2d 872, 873 (3d Cir. 1987). 
+
+
+II. 
+
+
+As a sovereign, the United States may not be sued without 
+its consent. See United States vy. Mitchell, 463 U.S. 206, 
+212 (1983). Sovereign immunity not only protects the United 
+States from liability, it deprives a court of subject matter 
+jurisdiction over claims against the United States. See id. 
+
+
+In 1946, Congress passed the Federal Tort Claims Act 
+(“FTCA”), which waived the sovereign immunity of the 
+United States for certain torts committed by federal employ- 
+ees. See 28 U.S.C. § 1346(b). Under the FTCA, civil 
+actions are permitted against the United States for: 
+
+
+injury or loss of property . . . caused by the negligent or 
+wrongful act or omission of any employee of the Govern- 
+ment while acting within the scope of his [or her] office 
+Or employment, under circumstances where the United 
+States, if a private person, would be liable to the claimant 
+in accordance with the law of the place where the act or 
+Omission occurred. 
+
+
+28 U.S.C. § 1346(b). 
+
+
+In Feres, the Supreme Court limited the applicability of 
+the FTCA as it pertains to military personnel. There, the 
+
+
+da 
+
+
+Court held that “the Government is not liable under the 
+[FTCA] for injuries to [service members] where the injuries 
+arise out of or are in the course of activity incident to 
+service.” 340 U.S. at 146. Although Feres offered several 
+rationales for its holding, 
+
+
+[in] the last analysis, Feres seems best explained by the 
+peculiar and special relationship of the soldier to his supe- 
+riors, the effects of the maintenance of such suits on 
+discipline, and the extreme results that might obtain if 
+suits under the Tort Claims Act were allowed for negli- 
+gent orders given or negligent acts committed in the 
+course of military duty. 
+
+
+United States v. Shearer, 473 U.S. 52, 57 (1985) (quoting 
+United States v. Muniz, 374 U.S. 150, 162 (1963)) (internal 
+quotations omitted).? 
+
+
+The Supreme Court has not articulated a specific method 
+for determining whether an injury is “incident” to military 
+service. Rather, it has instructed courts to examine each case 
+“in light of the statute as it has been construed in Feres and 
+subsequent cases.” Shearer, 473 U.S. at 57. To assist with 
+this inquiry, courts consider a number of factors including: 
+(1) the service member’s duty status; (2) the site of the 
+accident; and (3) the nature of the service member’s activity 
+at the time of injury. See, e.g., Dreier v. United States, 106 
+F.3d 844, 848 (9th Cir. 1997); Schoemer v. United States, 
+59 F.3d 26, 28 (Sth Cir. 1995). A court must consider each 
+of these factors in light of the totality of the circumstances; 
+
+
+> The other Feres rationales are: (1) the “distinctively federal” 
+nature of the relationship between the government and the armed 
+forces; and (2) the ability of service members to receive no-fault 
+statutory disability and death benefits through the Veterans’ Ad- 
+ministration. See United States v. Johnson, 481 U.S. 681, 689-90 
+(1987); Stencel Aero Engineering Corp. v. United States, 431 U.S. 
+666, 672-73 (1977). 
+
+
+Sa 
+
+
+thus, the fact that any one factor weighs in favor of applying 
+the Feres doctrine is not necessarily dispositive. 
+
+
+A. 
+
+
+At first glance, our decision in Thomason v. Sanchez, 539 
+F.2d 955 (3d Cir. 1976), appears to settle the issue raised in 
+this appeal. In Thomason, an active member of the United 
+States Army was struck by an automobile owned and oper- 
+ated by another service member while operating his motorcy- 
+cle on the grounds of the Army base. See id. at 956. The 
+motorcyclist filed suit against the United States under the 
+FTCA. We held that Feres barred the service member’s suit 
+because he sustained his injuries while on active duty and on 
+the military base. See id. at 957. In so holding, we did not 
+examine the service member’s purpose for riding the motor- 
+cycle. As in Thomason, Private Richards’s accident took 
+place within the confines of the Army base and while he was 
+on active duty. Thus, Thomason seemingly mandates our 
+application of the Feres doctrine. 
+
+
+Mrs. Richards contends that Thomason is distinguishable. 
+Specifically, she argues that, unlike in Thomason, Private 
+Richards’s accident occurred while he was traveling on a 
+public highway, maintained and patrolled by the State of 
+Kentucky, with no military base in sight. In addition, she 
+argues that Thomason incorrectly focused on the “status” of 
+the service member, whereas subsequent Supreme Court 
+decisions have instructed courts to examine whether the 
+activity was “incident to military service.” We have not 
+previously considered the application of the Feres doctrine to 
+these specific facts. Moreover, the two United States Courts 
+of Appeals that have considered similar facts differ on 
+whether Feres bars suit. See Flowers vy. United States, 764 
+F.2d 759 (11th Cir. 1985); Troglia v. United States, 602 
+F.2d 1334 (9th Cir. 1979). Still, an examination of these 
+decisions is instructive. 
+
+
+6a 
+
+
+In Flowers, an active duty service member collided with 
+a United States Air Force bus while “driving his civilian 
+automobile home from a personal errand to the grocery store 
+during his off-duty hours.” 764 F.2d at 760. The accident 
+occurred on a public highway maintained and policed by the 
+State of Florida, but running across an easement of land 
+granted by the Air Force. The court rejected the argument 
+that the public accessibility of the road somehow distin- 
+guished it from the other roads running across military reser- 
+vation property. See id. at 761. Instead, the court held that 
+Feres applied because “Flowers’ activity at the time of his 
+accident, although personal, arose out of his life on the 
+military reservation...” Jd. 
+
+
+In Troglia, an active member of the Air Force brought 
+suit under the FTCA for personal injuries suffered in an 
+automobile accident with another motorist who had been 
+served intoxicating beverages at the Air Force Base Non- 
+commissioned Officers Club. See 602 F.2d at 1335. The 
+accident took place about one-half mile outside the gate 
+guarding access to the Air Force base, but on property 
+owned by the United States and adjacent to the confines of 
+the Air Force Base. The local government maintained and 
+patrolled the road due to an easement granted by the United 
+States. See id. In reversing the District Court’s grant of 
+summary judgment based on Feres, the court stated that “the 
+connection between mere Government ownership of land near 
+a base and Troglia’s military service is so weak, that the 
+accident’s location should not be a controlling factor.” Id. at 
+1339. The court noted, however, that “had the accident 
+occurred inside the base itself, this might be a different 
+case.” Id. 
+
+
+We find that Flowers is more analogous to this case. As 
+in Flowers, Private Richards was driving his civilian automo- 
+bile home for a nonmilitary purpose at the time of the acci- 
+dent. Moreover, in both cases the accident occurred on 
+military base premises, whereas in 7roglia, the accident took 
+
+
+7a 
+
+
+place one-half mile outside the base. Indeed, the court in 
+Troglia noted the importance of this distinction when it stated 
+that had the accident occurred inside the base itself — rather 
+than simply on government owned property — it might have 
+decided the case differently. 
+
+
+Moreover, we believe that Private Richards’s activity at 
+the time of the accident supports the application of Feres. 
+Private Richards died on the grounds of the Army base while 
+driving home from his duty station. He was not simply 
+driving on a public road as a member of the general public. 
+Cf. Brooks v. United States, 337 U.S. 49 (1949) (two service 
+members on furlough injured in an off-base accident on a 
+public highway could bring suit under the FTCA — service 
+members were on personal business and the accident was 
+totally unrelated to their military service). Rather, Private 
+Richards’s relationship with the military — i.e., the fact that 
+he worked on the Army base and was leaving his duty station 
+— is the reason he was traveling on Kentucky Highway 1638 
+at the time of the accident. See, e.g., Stewart v. United 
+States, 90 F.3d 102, 104-05 (4th Cir. 1996) (service member 
+injured in on-base accident while driving from his duty 
+Station to his home to shower and change clothes before 
+reporting to his next duty assignment was “engaged in activ- 
+ity directly related to the performance of [his] military 
+obligations”); Lauer v. United States, 968 F.2d 1428, 1430 
+(1st Cir. 1992) (noting that departing for nonmilitary activity 
+from duty station or returning therefrom generally are activi- 
+ties incident to military service). Had Private Richards been 
+struck by a military vehicle while traveling home from a 
+place unrelated to his military service, or on a public road 
+outside the Army base, we may have reached a different 
+conclusion. However, as the District Court stated, “the 
+totality of the circumstances shows that Richards . . . “would 
+not, except in the event of the rarest coincidence, have been 
+in the same place at the same time with the same purpose, 
+had it not been incident to his active status in the military.’” 
+
+
+8a 
+
+
+Richards, | F. Supp. 2d at 502 (quoting Shaw v. United 
+States, 854 F.2d 360, 363 (10th Cir. 1988)). Thus, given 
+the factual circumstances surrounding Private Richards’s 
+accident, we cannot escape the conclusion that his death was 
+incident to his military service. Accordingly, we will affirm 
+the District Court’s judgment. 
+
+
+B. 
+
+
+Although Feres and its progeny, most notably Thomason, 
+mandate that we affirm the District Court’s dismissal of Mrs. 
+Richards’s complaint, we believe this result illustrates the 
+disconnect that has come to exist between the philosophy 
+behind Feres and its application. As evidence, one need only 
+consider the fit between the facts of this case and the ratio- 
+nales traditionally offered to justify Feres. 
+
+
+As stated previously, the Supreme Court has explained 
+that the Feres doctrine 
+
+
+seems best explained by the peculiar and special relation- 
+ship of the soldier to his superiors, the effects of the 
+maintenance of such suits on discipline, and the extreme 
+results that might obtain if suits under the Tort Claims Act 
+were allowed for negligent orders given or negligent acts 
+committed in the course of military duty. 
+
+
+United States v. Shearer, 473 U.S. 52, 57 (1985) (quoting 
+United States v. Muniz, 374 U.S. 150, 162 (1963)) (internal 
+quotations omitted). Thus, when evaluating whether certain 
+facts weigh in favor or against applying Feres to bar a ser- 
+vice member’s suit, a court should consider how these facts 
+relate to the relationship between the soldier and his or her 
+relevant superiors. More precisely, the court should consider 
+whether or to what extent the accident in question relates to 
+the service member’s “military duty.” 
+
+
+One can imagine a hypothetical scenario in which the 
+conduct or decisions of a service member’s superiors neces- 
+sarily would come under scrutiny during the course of a 
+
+
+9a 
+
+
+putative lawsuit. Imagine, for instance, a case in which a 
+soldier attempted to sue the commander of his platoon for 
+injuries received during battle. Such a suit Clearly would 
+involve injuries that “ar[o]se out of or in the course of activ- 
+ity incident to [military] service.” Feres, 340 U-S. at 146. 
+Therefore, this suit would implicate the “special relationship” 
+between the soldier and his superior that is contemplated in 
+Shearer, 473 U.S. at 57, and Muniz, 374 U.S. at 162. No 
+court would have difficulty in finding that Feres barred such 
+a suit because the fit between the facts of the Case and the 
+rationales justifying Feres would be close. 
+
+
+The factual circumstances that gave rise to Mrs. Rich- 
+ards’s suit are quite different from the service-related injuries 
+imagined in this hypothetical. This is so because Kentucky 
+Highway 1638, the site of the accident that took Private 
+Richards’s life, is traveled by both civilians and military 
+personnel. Thus, it was purely a matter of chance that Pri- 
+vate Richards’s automobile, rather than a civilian’s vehicle, 
+was struck by the military fuel truck, and that Private Rich- 
+ards, rather than a civilian, was killed. Therefore, unlike the 
+hypothetical above involving a soldier engaged in combat, the 
+accident that took Private Richards’s life was not necessarily 
+related to his military duty. 
+
+
+Nevertheless, unlike the position in which Mrs. Richards 
+finds herself, the spouse of a civilian who was killed in the 
+kind of accident that caused Private Richards’s death could 
+bring suit against the Army by virtue of the Federal Tort 
+Claims Act. Moreover, if the spouse of this civilian brought 
+such a suit, she would be able to raise questions about 
+whether negligence by the Army caused or contributed to the 
+accident. And, most important for our analysis, the ques- 
+tions raised by the civilian’s spouse might implicate the 
+decision making of military personnel: yet, they presumably 
+would be no less or more intrusive than if these questions 
+were posed by Mrs. Richards. Thus, while it is true that but 
+for Private Richards’ active status in the military, he would 
+
+
+10a 
+
+
+not have been “in the same place at the same time with the 
+same purpose” at the time of the accident, it is not at all 
+clear that Mrs. Richards’s suit implicates the “special rela- 
+tionship” between her deceased husband and his superiors in 
+the manner contemplated in Shearer and Muniz. 
+
+
+Thus, we are left with a counter-intuitive and inequitable 
+result simply because of Private Richards’s military status. 
+It is because Feres too often produces such curious results 
+that members of this court repeatedly have expressed misgiv- 
+ings about it. See O'Neill v. United States, 140 F.3d 564, 
+565-66 (3d Cir. 1998) (Becker, C.J., statement sur denial of 
+the petition for rehearing); Loughney v. United States, 839 
+F.2d 186, 187- 88 (3d Cir. 1988); Hinkie v. United States, 
+715 F.2d 96, 97 (3d Cir. 1983); Thomason, 539 F.2d at 957; 
+Peluso v. United States, 474 F.2d 605, 606 (3d Cir. 1973). 
+Again, we express this concern and note that the result we 
+reach does not actually advance the philosophy behind Feres. 
+
+
+Ill. 
+
+
+For the foregoing reasons, we will affirm the judgment 
+of the District Court. 
+
+
+lla 
+
+
+
+```

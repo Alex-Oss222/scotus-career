@@ -1,0 +1,14 @@
+{
+  "record": "adarand-constructors-v-slater_summary-merits_2000-01-12.md",
+  "checks": {
+    "eleven_blocks": true,
+    "opening_labels": true,
+    "public_private_separation": true,
+    "ordinary_explanation_words": [
+      262
+    ],
+    "source_paths": true
+  },
+  "copied_public_projections": 1,
+  "mode": "Durable file handoff; no Git operation."
+}

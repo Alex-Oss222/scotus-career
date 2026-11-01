@@ -1,0 +1,56 @@
+# United States v. Martinez-Salazar — reconciled non-Stone commitments
+
+**Event:** No.98-1255; January 19, 2000. **Research cutoff:** January 19, 2000.
+
+**Status and boundary:** Reconciliation complete for all eight Associates, subject to the explicit opinion-scope conditions below. Inputs were the frozen case commitments and neutral subset; fresh neutral validation; clean factual handoff; Rule 24(b)'s mechanically copied operative text; focused entering law; the January 12 public-law handoff; runtime case comparator; and the relevant certified full-opinion research. This context also directly reread the official target opinion's pp.313–319, including both separate writings and the pertinent footnotes. No current Stone position, private control material or raw current-term Record was read. No author is assigned.
+
+## Historical check and material difference
+
+Historically the Ninth Circuit, 146 F.3d 653, was reversed unanimously in judgment. Ginsburg's Court opinion had seven formal joins: its author, Rehnquist, Stevens, O'Connor, Souter, Thomas and Breyer. Souter also concurred separately. Scalia, joined by Kennedy, concurred only in the judgment. A seven-Justice Court opinion controlled; calling the historical opinion a plurality or treating the nine judgment votes as nine full joins would be wrong.
+
+The independent handoff preserves all eight Associates' historical judgment positions. It proposes common reasoning for all eight Associates, unlike Scalia and Kennedy's historical withholding of a formal join. That difference is defensible only at the narrower scope already stated in the frozen commitments: the Court may decide that this actual corrective use exhausted no additional right, while expressly leaving open the appellate consequences if a defendant instead permits a challenged juror to sit. The historical opinion affirmatively said this defendant had the option to leave Gilbert on the jury and pursue a Sixth Amendment appeal after conviction; Scalia and Kennedy expressly identified that unnecessary pronouncement as their reason for withholding a join.
+
+**Historical departure:** Scalia and Kennedy may join the common opinion only because the frozen proposed reasoning omits the historical assurance that declining corrective use preserves a later juror-bias appeal and instead reserves ordinary waiver and preservation rules in that different case. Their historical separate writing expressly agreed with the no-impairment analysis actually necessary here and agreed that Rule 24 itself should not be read to compel corrective use. Removing the identified disputed proposition supplies a concrete opinion-content change answering their objection; no supposed external change in law or fact is invented. If assembly restores the disputed assurance or adopts an equivalent categorical no-waiver rule, both retain judgment-only agreement.
+
+Source: official 528 U.S.304–319, certified full reading of all sixteen pages in `preparation/OT_1999CHUNK2_COMPARATOR_RESEARCH_SHORT.md`; primary URL https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-304.pdf . This reconciler's additional direct reading was limited to pp.313–319 and is not represented as a second complete primary read.
+
+## Reconciled Justice-by-Justice positions
+
+| Justice | Judgment and controlling propositions supported | Historical comparison and join condition |
+|---|---|---|
+| Stevens | Reverse; no Sixth Amendment violation from this use followed by an impartial jury; no deprivation of the actual Rule 24 allotment; no resulting Fifth Amendment deprivation. | Matches his historical full join. His earlier Ross dissent's strategic-cost concern survives without requiring a different result in this noncapital federal case. No new harmlessness rule, denial of peremptories' practical value, or application of Oklahoma's curative-use condition is supported. |
+| O'Connor | Reverse on the same constitutional and Rule 24 grounds. | Matches historical full join. Her valuation of peremptories does not turn them into an enlarged numerical guarantee. She accepts no replenishment holding for a different properly presented case. |
+| Scalia | Reverse and join the confined no-impairment reasoning; Rule 24 itself creates no compulsory corrective-use rule. | Historical judgment-only position becomes a full join only if the common opinion reserves appeal/waiver consequences when the challenged juror is left seated. The specific historical objection and answering limitation are set out above. |
+| Kennedy | Reverse and join the same confined grounds. | Same conditional change as Scalia, whose historical separate writing Kennedy joined. An impartial jury does not excuse an independent discriminatory-selection injury; no such injury is presented. |
+| Souter | Reverse and join the common grounds, preserving the precise makeup-challenge reservation below. | Matches historical full join. He separately reserved a showing/request case not presented here. An opinion explicitly preserving that reservation can perform its substantive function without requiring a redundant concurrence. |
+| Thomas | Reverse; actual numerical entitlement satisfied and no Fifth or Sixth Amendment deprivation on this record. | Matches historical full join. His earlier objections to some peremptory doctrine supply no reason to depart from the governing Rule 24 analysis or to decide a discrimination claim not presented. |
+| Ginsburg | Reverse on the same limited grounds, with preservation, manipulation and actual impairment distinct. | Matches historical full join. Historical authorship is not selected or presumptively retained here. |
+| Breyer | Reverse on the same grounds; recognize strategic pressure without treating this corrective exercise as a denied challenge. | Matches historical full join. No general harmless-error rule or compulsory corrective-use doctrine is adopted. |
+
+## Exact common scope and sufficient grounds
+
+The denial of the cause challenge is erroneous under the uncontested review premise. Corrective use of a peremptory does not approve that error. The defendants received and exercised all ten ordinary joint peremptories and the separate alternate challenge; the latter is not an unused substitute for an ordinary challenge. The juror did not sit, and no seated juror's impartiality is challenged. Ross therefore defeats the Sixth Amendment theory but does not by itself decide the distinct Rule 24 question; its state-law conditions do not migrate into the federal rule.
+
+Rule 24(b) provides the stated opportunities to exclude prospective jurors. Using one of those opportunities to remove a juror whom the judge should have excused is still an exercise of the right. The rule does not guarantee ten additional exclusions after correction of every cause error. A choice made under practical pressure is not, for this entitlement, a judicial denial of a strike. The prescribed opportunity was received and used, so the claimed Fifth Amendment deprivation based on loss of that opportunity also fails. This does not equate impartiality with satisfaction of every independent jury-selection right.
+
+The strongest opposing account treats the strike as a lost opportunity to remove some other acceptable-but-unfavored juror. That strategic interest is real, but the numerical allotment and this record do not establish a denied legal opportunity: defendants requested no extra challenge, identified no other juror they would have struck and did not challenge the seated jury's impartiality. Those facts confine the decision; they are not converted into an exclusive preservation checklist. The opinion does not resolve whether a differently supported denial of a further challenge would violate the rule or require relief.
+
+### Curative use and waiver must remain distinct
+
+The Court may decline to read a requirement of corrective use into Rule 24 or impose the Government's proposed additional control under that rule. It must not infer from that conclusion that ordinary waiver or preservation principles could never affect a later appeal by a defendant who deliberately left a challenged juror seated despite available strikes. The latter question is not presented and is expressly reserved. This is the precise scope on which Scalia and Kennedy can join; avoid wording such as an unqualified right to stand on the cause objection and appeal after letting the juror sit.
+
+### Souter's makeup-challenge reservation
+
+Do not decide whether reversible error occurs if a defendant uses a peremptory to cure an erroneous cause ruling, shows that he otherwise would use his full complement for noncurative exclusions, and requests but is refused a makeup peremptory beyond the otherwise applicable maximum. Here no such showing or request was made and no seated juror was identified for removal. Souter's reservation neither establishes a right to replenishment nor treats Rule 24(b)'s permission for additional challenges in a multiple-defendant case as a command. If the shared opinion expressly states this limit, the basis for his historical separate concurrence is fully preserved; otherwise he requires a substantive reservation in a separate writing.
+
+## Remedy and questions not reached
+
+The Ninth Circuit's lost-peremptory basis is reversed. Returning the matter for any proceedings properly remaining under the ordinary mandate, as the independent handoff contemplates, adds no substantive relief to the historical reversal. No new trial is ordered on the cured cause error, no other claim is invented, and no actual allotment deprivation is adjudicated.
+
+Because no impairment is found, the Court does not choose between automatic reversal and harmless-error treatment for an actual substantial deprivation. Historical doubt about Swain's automatic-reversal dictum is not a holding overruling every peremptory-error remedy. Deliberate judicial manipulation, an actually biased seated juror, denial of the prescribed allotment, and independent Batson/McCollum/J.E.B. discrimination remain separate cases. Any proposition about a properly preserved actual biased-juror injury must preserve the independent waiver question identified above.
+
+## Completion and assembly direction
+
+The focused Godinez/Fretwell material and the January 12 public-law decisions supply no different Rule 24 entitlement or changed preservation rule. Current Hill's confined authorized scheduling agreement, identified in the frozen handoff, likewise supplies no waiver finding here. No same-day January 19 case is imported as entering authority. No newly discovered neutral fact requires remodeling.
+
+All eight Associates support reversal and the same operative no-impairment rule. Their full joins require the express limits above; do not infer eight full joins from eight judgment votes alone. Souter's distinct reservation and Scalia/Kennedy's separate waiver objection have each been tested and answered by the narrower common text. No separate writing is mandatory if those limits appear in the shared opinion, and no historical author is assigned. Assembly must add Stone, conduct final compatibility review and preserve any remaining disagreement instead of counting incompatible grounds together.

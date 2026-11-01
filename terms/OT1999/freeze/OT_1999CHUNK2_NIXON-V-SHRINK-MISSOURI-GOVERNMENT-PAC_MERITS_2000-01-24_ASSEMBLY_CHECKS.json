@@ -1,0 +1,16 @@
+{
+  "record": "nixon-v-shrink-missouri-government-pac_merits_2000-01-24.md",
+  "checks": {
+    "eleven_blocks": true,
+    "opening_labels": true,
+    "public_private_separation": true,
+    "ordinary_explanation_words": [
+      293
+    ],
+    "internal_public_holdings_identical": true,
+    "markdown_links_resolve": true,
+    "source_paths": true
+  },
+  "copied_public_projections": 1,
+  "mode": "Durable file handoff; no Git operation."
+}
