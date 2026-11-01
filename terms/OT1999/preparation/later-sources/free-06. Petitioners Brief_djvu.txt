@@ -1,0 +1,2288 @@
+7 }< IOUT B ry mp 
+No. 99-391 | Pind 
+SET 
+IN THE | 
+
+
+Supreme Court of the United States 
+
+
+ROBIN FREE and RENEE FREE, 
+Petitioners, 
+
+
+ABBOTT LABORATORIES, et ai., 
+Respondents. 
+
+
+On WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT 
+
+
+BRIEF ON THE MERITS FOR PETITIONERS 
+
+
+SAMUEL D. HEINS MICHAEL D. HAUSFELD 
+Eric L. OLSON Counsel of Record 
+DANIEL E. GUSTAFSON DANIEL A. SMALL 
+KENT M. WILLIAMS MATTHEW F. Pawa 
+Heins Mitts & Otson, P.L.C. CHARLES E. TomPKINS 
+700 Northstar East COHEN, MILSTEIN, HAUSFELD 
+608 Second Avenue S. & Torr, P.L.L.C. 
+Minneapolis, MN 55402 1100 New York Avenue, N.W. 
+(612) 338-4605 Suite 500 - West Tower 
+
+
+Washington, D.C. 20005 
+(202) 408-4600 
+
+
+Attorneys for Petitioners 
+
+
+(Additional Attorneys Listed on Signature Page) 
+
+
+157162 @©J Counsel Press LLC 
+FORMERLY LUTZ APPELLATE SERVICES 
+
+
+800) 274-3321 + (800) 359-6859 
+
+
+BEST AVAILABLE COPY 
+
+
+i 
+
+
+QUESTION PRESENTED 
+
+
+Whether the supplemental jurisdiction statute, 28 U.S.C. 
+§ 1367, overrules Zahn v. International Paper Co., 414 U.S. 
+291 (1973), and thus expands federal subject matter 
+jurisdiction in a class action to encompass class members 
+whose claims do not satisfy the amount-in-controversy 
+requirement of 28 U.S.C. § 1332, as long as diversity 
+jurisdiction exists over the claims of one named plaintiff. 
+
+
+ii 
+PARTIES TO THE PROCEEDING 
+
+
+The Petitioners are Robin Free and Renee Free, plaintiffs 
+in the action originally filed in Louisiana state court and 
+removed by the Respondents to federal district court. 
+
+
+The Respondents are the defendants in the action below: 
+Abbott Laboratories, Bristol-Myers Squibb Company, and 
+Mead Johnson & Company. 
+
+
+ill 
+
+
+TABLE OF CONTENTS 
+
+
+EOE Se Ye eee 
+Pasties to the Proceeding ...........cccceceees 
+
+
+ES I eee Pe LAE De ee 
+
+
+Eo Su de once eutenaswaeaees 
+Statement of Jurisdiction ...........ccsccecees 
+Statutory Provisions Involved ................. 
+OMMSNONE GE GRO CUBS oc cccccccccccccccccceces 
+ED dcccsccudeececeesccoces 
+REE nc cctbeencsesescéctsosstatedciwasen: 
+
+
+I. Section 1367(a) Leaves The Requirements Of 
+Original Jurisdiction Undisturbed. ........ 
+
+
+A. Section 1367(a) Requires That A Federal 
+Court First Have Original Jurisdiction 
+Over A Civil Action Before Exercising 
+Supplemental Jurisdiction Over 
+Supplemental Claims. .............. 
+
+
+B. Section 1367(a) Does Not Abrogate 
+Original Jurisdiction Requirements. .. 
+
+
+1] 
+
+
+Il. 
+
+
+Ill. 
+
+
+iv 
+
+
+Contents 
+
+
+Under The Matter-in-Controversy Rule, 
+Which Furthers Congress’s Long-Standing 
+Policy Of Limiting Diversity Jurisdiction, 
+The District Court Lacks Original 
+Jurisdiction Over This Entire Civil Action. 
+
+
+A. In A Multi-Plaintiff Action, The 
+Diversity Statute Requires That The 
+Claims Of Each Plaintiff Satisfy The 
+Matter-In-Controversy Rule. ........ 
+
+
+B. The Matter-In-Controversy Rule 
+Precludes The Exercise of Supplemental 
+Jurisdiction Over The Claims Of Any 
+Plaintiff In A Multi-Plaintiff Diversity 
+ROBO, 2c ccceséectosewcecdecncoes 
+
+
+C. Absent A Clear Statement Of 
+Congressional Intent To Abrogate The 
+Matter-In-Controversy Rule, Section 
+1367 Should Be Read To Preserve The 
+errr re To 
+
+
+The Language, Purpose, And Operation Of 
+Section 1367(b) Strongly Suggest That 
+Congress Intended To Leave The Matter-In- 
+Controversy Rule Intact. .............+... 
+
+
+A. The Purpose Of Section 1367(b) Is To 
+Prevent Parties, After The Action Has 
+Commenced, From Invoking 
+Supplemental Jurisdiction Over Claims 
+
+
+Page 
+
+
+13 
+
+
+13 
+
+
+15 
+
+
+16 
+
+
+19 
+
+
+Contents 
+Page 
+They Could Not Have Asserted, 
+Consistent With Diversity Jurisdiction 
+Requirements, At The Outset. ....... 20 
+B. Under The Fifth Circuit’s Reading, 
+Section 1367(a) Renders The 
+Prohibitions In Section 1367(b) Largely 
+Sco banndeskasnawadseus 23 
+IV. The Legislative History Conclusively 
+Establishes That Congress Intended Section 
+1367 To Preserve The Matter-In-Controversy 
+A. codec ceee$éneennsatnatbentinel. 25 
+A. The Committee Reports And Other 
+Legislative Materials Reliably And 
+Conclusively Demonstrate That 
+Congress Did Not Intend To Alter The 
+Matter-In-Controversy Rule. ........ 25 
+B. The Absence of Any Reference In The 
+Legislative History Of Section 1367 To 
+Overruling The Matter-In-Controversy 
+Rule Is Further Evidence That Congress 
+Did Not Intend To Do So. ........... 32 
+V. Congressional Intent To Maintain 
+The-Matter-In-Controversy Rule Is 
+GU. ds cccsoewedédncenducwemeaen 33 
+SD obs 000000eeesdsecdenseetnae 37 
+
+
+vi 
+
+
+TABLE OF CITED AUTHORITIES 
+
+
+Page 
+
+Cases: 
+Aetna Casualty & Surety Co. v. Spartan Mechanical 
+
+Corp., 738 F. Supp. 664 (E.D.N.Y. 1990) ..... 28 
+American Hospital Ass'n v. N.L.R.B., 
+
+49D UG. GRE (IGP) 2. cccccccsccccsccccess 32, 33 
+Ardestani v. INS, 
+
+gt Bf. | Pree eee 36 
+Atascadero State Hospital v. Scanlon, 
+
+S73 UR. BOCES) 2. ccccccccccccccccscecs 19 
+Bank One Chicago, N.A. v. Midwest Bank & Trust Co., 
+
+SEG ULB. BES CHGS cccccccccccccccccccsccs 25 
+Brown v. Gardner, 
+
+SED TLE, BEDE cccccvcccccsceccsvccess 34 
+Chevron v. Natural Resources Defense Council, 
+
+GGT UD. GF CRGRD wc ccccccccccccsceccesecs 33 
+Chicago v. International College of Surgeons, 
+
+FSB UB. USS CHGS cccccccccccccess 10, 11, 12, 16 
+Clark v. Paul Gray, Inc., 
+
+SEB UG. SED CHGS cc cccccccccccccccccsses 13 
+Concrete Pipe & Products of California, Inc. v. 
+
+Construction Laborers Pension Trust for Southern 
+
+California, 508 U.S. 602 (1993) ............. 34 
+
+
+—— 
+
+
+—— a 
+
+
+vil 
+
+
+Cited Authorities 
+Page 
+
+Consumer Product Safety Commission v. GTE 
+
+Sylvania, Inc., 447 U.S. 102 (1980) ........... 36 
+Edmonds v. Compagnie Generale Ti ransatlantique, 
+
+Ph ED sn acueuedsided ucenaekun 33 
+Finley v. United States, 
+
+Ps SEED. eae dchccnkadacadeus 28, 30, 31 
+Florida Power & Light Co. v. Lorion, 
+
+SE I Se ie ts td 34 
+Free v. Abbott Labs, 
+
+TRS fob eee 6 
+Garcia v. United States, 
+
+iy A ED Ct ee 31 
+Green v. Bock Laundry Machine Co., 
+
+Ge SPEED bncbucdbbedestcéaheceut 34, 35 
+Gregory v. Ashcroft, 
+
+ee Se ED 0 8-in en dkctdens casoenbie 19 
+Griffin v. Oceanic Contractors, Inc., 
+
+Se ey SUE Haubdi bh aéedebeeeiwocces 36 
+Harrison v. PPG Industries, Inc., 
+
+Gap es SEE Cwhecceeddb anne cekudas 33 
+Healy v. Ratta, 
+
+ra eres 18 
+
+
+vill 
+
+
+Cited Authorities 
+Page 
+Holloway v. United States, 
+LP et eerie. Tk 33, 34 
+Holy Trinity Church v. United States, 
+SD Ce. Ge GD co ccccececceuctusesevces 24, 25 
+INS v. Cardoza-Fonseca, 
+GED UB. GEE CISD cvcccceccesccccscessens 36 
+Jerome B. Grubart, Inc. v. Great Lakes Dredge & 
+Dock Co., 513 U.S. 527 (1995) ........... 10,11, 12 
+
+
+Kokkonen v. Guardian Life Insurance Co. of . 
+America, 511 U.S. 375 (1994) .......0000 eee 11 
+
+
+Leonhardt v. Western Sugar Co., 
+160 F.3d 631 (10th Cir. 1998) ...........065, 31, 32 
+
+
+Meritcare Inc. v. St. Paul Mercury Insurance Co., 
+166 F.3d 214 (3d Cir. 1999) .............. 26, 31, 35 
+
+
+Mine Workers of America v. Gibbs, 
+Fe Ws VE CRUE 0 cccecsedcccdcvesseenes 10 
+
+
+Owen Equip. & Erection Co. v. Kroger, 
+Gay Un SUD ERED 605 <dcchacesdtccnevens passim 
+
+
+Peacock v. Thomas, 
+Fe Ch DEP CHOSE Seccccecseccucedsnecastex 10 
+
+
+Pinel v. Pinel, 
+ree 13 
+
+
+ix 
+
+
+Cited Authorities 
+Page 
+
+Public Citizen v. United States Department of 
+
+Justice, 491 U.S. 440 (1989) .............0.8. 24 
+Regions Hospital v. Shalala, 
+
+ee Se GED LE knaecs65.00 vanedsncesan 33 
+Rice v. Santa Fe Elevator Corp., 
+
+re ees ET Sb osiencevied ctacviseus 18 
+Robinson v. Shell Oil Co.., 
+
+Pe ED ob.b bcd atconkeusseacee 34 
+Russ v. State Farm Mutual Auto Insurance Co., 
+
+961 F. Supp. 808 (E.D. Pa. 1997) ............ 37 
+Smith Petroleum Services, Inc. v. Monsanto 
+
+Chemical Co., 420 F.2d 1103 (Sth Cir. 1970) .. 20 
+Snyder v. Harris, 
+
+Pe es SED. oncndadddeddauscciesces passim 
+Strawbridge v. Curtiss, 
+
+3 Cranch (7 U.S.) 267 (1806) ............. 13, 23, 33 
+Stromberg Metal Works, Inc. v. Press Mechanical, 
+
+OG eae PEPE Gls BOOED cecccecvesecscns 24 
+Troy Bank v. G.A. Whitehead & Co., 
+
+Se aE Abe c-nwksuee wens cous 6 ke ue 13 
+United States v. Ron Pair Enterprises, Inc., 
+
+Ge Wi SP ROUEN. wavs cbavustdhedséceveus 34, 36 
+
+
+x 
+Cited Authorities 
+Page 
+
+United States v. X-Citement Video, Inc., 
+
+FOe es GOERS kccdctdncesencess 24, 34, 35, 36 
+West Virginia University Hospital v. Casey, 
+
+oA RS | rr errr re TT rrr ey 25, 34 
+Will v. Michigan Department of State Police, 
+
+GG as Sh ccccccdeceavassneckéees 18 
+Wisconsin Public Intervenor v. Mortier, 
+
+Fe CW ST ENED te cnciccddavevewidccnes 34 
+Zahn v. International Paper Co., 
+
+SEG A Pe GED bic cteccecntesnesavans passim 
+Zuber v. Allen, 
+
+Se Us PEED ccdaduécensdéncusdeuees 32 
+Statutes: 
+ee es OE 6 bn secede céadbdsnckeunstaane’ 26 
+y Lit tat b- sO TeeTTerer Terre erie l 
+pik Fo Gs | rerrereT Terr rrr rrr passim 
+BD Secs Oe BOE 0 ode cb cvaseccoussdaceeaesen passim 
+Be Witace B GRUEED bc docdcsacsaccdeucnsss 4,6, 12, 14 
+Be Cet. © CREED ccc cccceescsacvatedanes 12, 13 
+
+
+xi 
+
+
+Cited Authorities 
+
+Page 
+Se ae OF OE kes odcsveubsbccneceaneesoull 3 
+Be a Oe Baa oindbucs cdacedasbabueianes 16 
+Se Ses B45 bd neces cdekee beeuckenues passim 
+Se ese Oe I i. 6a soc bu hwo dc deka cece passim 
+SP GPs OP SE oc estacdcbageousecsentes passim 
+Be es EME 6 oak cweecdaseisvecencnan 4,5, 10 
+Pe Pee CUES Fic bees odeedduvizidtansedade 3 
+Rules: 
+Pe Gh Gs By CUE wen ccckscascchbscenabens 22 
+Pu Wie CEES ME Gui ak awhepcedes cacbaaenes 8, 21, 23 
+Pes Gee SA Os OS ca cceccatednatiencens 8, 22, 23, 24 
+PO See Oe os 6 wboccekuchunes ctacel 8, 22, 23, 24 
+PUG. Ti GOV. Be kee ctdacdédedntchbiteansans 30 
+PU Dy GE OM 6 cecdsccciuricesivnndaeens passim 
+POR Ge GA >  avniden vcakdusawenees 20, 30, 31 
+POG, Th, Ue oo 0800s stay ciacntenseeenen 35 
+
+
+xi 
+
+
+Cited Authorities 
+Page 
+
+
+Other Authorities: 
+
+
+Article 595 of the Louisiana Code of Civil Procedure 
+
+
+Federal Courts Study Comm. Implementation Act & 
+Civil Justice Reform Act: Hearings on H.R. 5381 
+& H.R. 3898 Before the Subcomm. on Courts, 
+Intellectual Property & the Admin. of Justice of 
+the House Comm. on the Judiciary, 101st Cong. 
+
+
+TOD oo ve dccccccccctvteceneveues 26, 27, 30 
+H.R. Rep. No. 101-734 (1990), reprinted in 1990 
+ae GD ccevenccnsesiveseusceees 27, 28 
+H.R. Rep. No. 100-889 (1988), reprinted in 1989 
+CBA AI GEE bo bc necdevsccendcesenees 17 
+136 Cong. Rec. $17580-81 (daily ed. Oct. 27, 1990) 
+PE eT ee rit ee Ao Ey oe 30 
+James E. Pfander, Supplemental Jurisdiction and 
+Section 1367: The Case For A Sympathetic 
+Textualism, 148 U. Pa. L. Rev. Vol. 109 (1999) 
+pccnecbe nes é06sbuns wokpetecnasenbeawstes 11 
+Pub. L. No. 101-650, 104 Stat. 5089 ............ 30 
+
+
+Report to the Federal Courts Study Comm. of the 
+Subcomm. on the Federal Courts and Their 
+Relation to the States (Mar. 12, 1990) (Working 
+Papers), reprinted in Federal Courts Study 
+Committee, Working Papers and Subcommittee 
+Reports, Vol. 1 (July 1, 1990) ............... 26 
+
+
+l 
+
+
+OPINIONS BELOW 
+
+
+The initial opinion of the Court of Appeals on the 
+jurisdictional issue presented is reported at 51 F.3d 524 and is 
+reprinted as Appendix J to the Petition (“Pet. App.” J). The 
+subsequent opinion of the Court of Appeals on the issue is 
+reported at 164 F.3d 270, and is reprinted as Pet. App. C. The 
+opinion of the Court of Appeals affirming dismissal is reported 
+at 176 F.3d 298, and is reprinted as Pet. App. A. 
+
+
+The District Court’s initial opinion on jurisdiction is 
+reported at 1994 U.S. Dist. LEXIS 4563, and reprinted as 
+Pet. App. L. The District Court’s denial of reconsideration of 
+the jurisdictional issue is reported at 1994 WL 422298 and is 
+reprinted at Pet. App. K. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The judgment of the Court of Appeals was entered on June 
+3, 1999. Pet. App. la. A Petition for Writ of Certiorari was 
+timely filed on September 1, 1999. The Petition was granted on 
+November 29, 1999. This Court has jurisdiction under 28 U.S.C. 
+§ 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+28 U.S.C. § 1367 (1994) provides in part: 
+
+
+(a) Except as provided in subsections (b) and (c) or 
+as expressly provided otherwise by Federal statute, 
+in any civil action of which the district courts have 
+original jurisdiction, the district courts shall have 
+supplemental jurisdiction over all other claims that 
+are so related to claims in the action within such 
+original jurisdiction that they form part of the same 
+case or controversy under Article III of the United 
+States Constitution. Such supplemental jurisdiction 
+shall include claims that involve the joinder or 
+intervention of additional parties. 
+
+
+(b) In any civil action of which the district courts 
+have original jurisdiction founded solely on section 
+
+
+2 
+
+
+1332 of this title, the district courts shall not have 
+supplemental jurisdiction under subsection (a) over 
+claims by plaintiffs against persons made parties 
+under Rule 14, 19, 20, or 24 of the Federal Rules of 
+Civil Procedure, or over claims by persons proposed 
+to be joined as plaintiffs under Rule 19 of such rules, 
+or seeking to intervene as plaintiffs under Rule 24 
+of such rules, when exercising supplemental 
+jurisdiction over such claims would be inconsistent 
+with the jurisdictional requirements of section 1332. 
+
+
+(c) The district courts may decline to exercise 
+supplemental jurisdiction over a claim under 
+subsection (a) if — 
+(1) the claim raises a novel or complex 
+issue of State law, 
+(2) the claim substantially predominates 
+over the claim or claims over which the 
+district court has original jurisdiction, 
+(3) the district court has dismissed all 
+claims over which it has original 
+jurisdiction, or 
+(4) in exceptional circumstances, there 
+are other compelling reasons for declining 
+jurisdiction. 
+* * * 
+
+
+28 U.S.C. § 1332 provides in part: 
+
+
+(a) The district courts shall have original jurisdiction 
+of all civil actions where the matter in controversy 
+exceeds the sum or value of $75,000, exclusive of 
+interest and costs, and is between — 
+
+
+(1) citizens of different States; 
+
+
+(2) citizens of a State and citizens or 
+subjects of a foreign state; 
+
+
+3 
+
+
+(3) citizens of different States and in 
+which citizens or subjects of a foreign 
+State are additional parties; and 
+
+
+(4) a foreign state, defined in section 
+1603(a) of this title, as plaintiff and 
+citizens of a State or of different States. 
+
+
+For the purposes of this section, section 1335, and section 
+1441, an alien admitted to the United States for permanent 
+residence shal] be deemed a citizen of the State in which such 
+alien is domiciled. 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners Robin and Renee Free (the “Frees”) are retail 
+purchasers of infant formula. J.A. 48a. They filed a class action 
+petition on October 14, 1993 in the Eighteenth Judicial District 
+Court of the State of Louisiana against infant formula 
+manufacturers Abbott Laboratories, Bristol-Myers Squibb 
+Company, and Mead Johnson & Company (collectively, 
+“defendants”). J.A. 39a. The Frees allege that the defendants 
+conspired to raise the price of infant formula in violation of the 
+Louisiana antitrust statute and other state law; no federal claims 
+are presented. Pet. App. 77a; J.A. 46a. They claim that, as a 
+result of defendants’ conduct, retail purchasers of infant formula 
+in Louisiana paid higher prices than they otherwise would have 
+paid. J.A. 46a; Pet. App. 77a. The petition seeks relief on behalf 
+of themselves and a class of purchasers in an amount not to 
+exceed $20,000 each. J.A. 40-41a, 48-49a. The defendants 
+answered the petition and denied all relevant allegations. 
+J.A. 52-59a. 
+
+
+The defendants removed the action to the United States 
+District Court for the Middle District of Louisiana, alleging 
+diversity and federal question jurisdiction. The Frees moved 
+for remand to Louisiana state court, arguing that neither their 
+claims nor the claims of unnamed class members satisfied the 
+then-applicable $50,000 matter-in-controversy requirement of 
+
+
+4 
+
+
+diversity jurisdiction and that there was no federal question 
+jurisdiction. See 28 U.S.C. § 1332(a), Pet. App. 106a. The 
+district court held there was no federal question jurisdiction. 
+Pet. App. 103a. It did, however, determine that the matter-in- 
+controversy requirement of Section 1332 was met for the Frees’ 
+claims because their status as the named plaintiffs in a class 
+action could entitle them to an individual award of attorney's 
+fees under the terms of Article 595 of the Louisiana Code of 
+Civil Procedure.' Pet. App. 104a. The district court then held 
+that 28 U.S.C. § 1367 permitted it to exercise supplemental 
+jurisdiction over the claims of the unnamed class members, none 
+of which satisfy the matter-in-controversy requirement of 28 
+U.S.C. § 1332(a). Pet. App. 104a. However, acting under Section 
+1367(c), the district court declined to exercise supplemental 
+jurisdiction because the action presented novel issues of state 
+law. Pet. App. 104a-05a. With respect to the named plaintiffs, 
+the district court declined jurisdiction under an abstention 
+doctrine. Pet. App. 95a-97a. 
+
+
+Defendants took an interlocutory appeal of the remand 
+order. The Frees again argued that their claims do not exceed 
+the jurisdictional minimum and further that federal supplemental 
+jurisdiction under 28 U.S.C. § 1367 does not encompass class 
+members whose claims do not satisfy the jurisdictional 
+minimum. The Fifth Circuit held that the Frees’ claims satisfy 
+the jurisdictional minimum because of their entitlement to 
+Article 595 attorney’s fees. Pet. App. 82a. The Fifth Circuit 
+then held that the line of cases culminating in Zahn was 
+overruled by Section 1367 and therefore affirmed supplemental 
+jurisdiction over unnamed class members even though their 
+claims do not satisfy the jurisdictional minimum. Pet. App. 89a. 
+Finally, the court reversed the district court’s decision to abstain 
+
+
+1. Article 595 states: “The court may allow the representative 
+parties their reasonable expenses of litigation, including attorney's fees, 
+when as a result of the class action a fund is made available, or a recovery 
+or compromise is had which is beneficial, to the class.” Pet. App. 
+79-80a. 
+
+
+5 
+
+
+with respect to the Frees’ claims and held that to decline 
+supplemental jurisdiction under Section 1367(c) with respect 
+to the unnamed class members was an abuse of discretion. 
+Pet. App. 90-91a. In light of its holdings on diversity and 
+supplemental jurisdiction, the Fifth Circuit declined 
+to address the federal question issue. The Frees sought rehearing 
+and rehearing en banc; both requests were denied. Pet. App. 
+75a. 
+
+
+When the action returned to federal district court, two 
+defendants moved to dismiss based on Louisiana antitrust law. 
+Prior to a ruling on the motion, all defendants agreed to settle 
+the case for $4.35 million. Pet. App. 55a. The district court 
+preliminarily approved the settlement and certified a settlement 
+class. Pet. App. 66-73a. However, following notice to the class 
+and a hearing, the court declined to grant final settlement 
+approval. Pet. App. 65a. Defendants moved for reconsideration 
+of the denial of settlement approval; the motion was denied. 
+Pet. App. 52a. The third defendant then joined the pending 
+motion to dismiss. The district court determined that Louisiana 
+State antitrust law does not permit damages actions by indirect 
+purchasers and ordered the action dismissed for failure to state 
+a Claim. Pet. App. 44a. 
+
+
+The Frees appealed the dismissal and continued to assert 
+the lack of federal subject matter jurisdiction over this action 
+because of failure to satisfy the matter-in-controversy 
+requirement. On January 19, 1999, a new three-judge panel of 
+the Fifth Circuit ruled that, under the law of the case doctrine, 
+it would not consider further the issue of subject matter 
+jurisdiction. Pet. App. 15a. The Fifth Circuit then certified two 
+questions of state antitrust law to the Louisiana Supreme Court, 
+including the question of whether Louisiana state law permits 
+actions for antitrust damages by indirect purchasers. Pet. App. 
+24-25a. On March 19, 1999, the Louisiana Supreme Court 
+denied certification. Pet. App. 9a. On June 3, 1999, the Fifth 
+Circuit predicted that Louisiana law would not permit antitrust 
+damages actions by indirect purchasers, and affirmed the district 
+
+
+6 
+
+
+court’s dismissal of the action. Pet. App. 8a. The Frees sought 
+certiorari to review the Fifth Circuit’s determination that the 
+district court had subject matter jurisdiction over this action 
+when the district court entered its order of dismissal. The Petition 
+for Writ of Certiorari was filed on September 1, 1999. This 
+Court granted certiorari on November 29,1999. Free v. Abbott 
+Labs, 120 S. Ct. 525 (U.S. 1999). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+There can be no legitimate dispute that Congress actually 
+and specifically intended the supplemental jurisdiction statute, 
+28 U.S.C. § 1367, to preserve the well-established rule that 
+federal courts do not have original jurisdiction over state-law 
+multi-plaintiff actions (including class actions) unless each and 
+every plaintiff in the action has claims that satisfy the matter- 
+in-controversy requirement of 28 U.S.C. § 1332(a). Congress’s 
+intent in this regard is clear, and none of the circuit courts that 
+have examined congressional intent have found otherwise. Thus, 
+the central question presented by this case is whether the 
+language of Section 1367 requires this Court to disregard 
+Congress’s unmistakable intent. It does not. This Court’s 
+longstanding interpretations of the matter-in-controversy 
+requirement in multi-plaintiff diversity actions, including Zahn 
+v. International Paper Co., 414 U.S. 291 (1973), remain good 
+law. 
+
+
+Section 1367 grants federal district courts supplemental 
+jurisdiction over certain claims (hereafter, “supplemental 
+claims”) that are outside the courts’ original jurisdiction. 
+However, by its terms, Section 1367 grants supplemental 
+jurisdiction only when there first is a “civil action of which the 
+district courts have original jurisdiction.” 28 U.S.C. § 1367(a). 
+Section 1367 supplements other conferrals of original 
+jurisdiction that go only so far. It does not alter original 
+jurisdiction by overriding original jurisdiction requirements. 
+
+A long-established requirement of original jurisdiction in 
+diversity cases arises in multi-plaintiff actions. In decisions 
+
+
+—_—- = 
+
+
+-—_e 
+
+
+i 
+
+
+7 
+
+
+dating back to the early nineteenth century, this Court has 
+consistently held that the phrase “matter in controversy” means 
+that the claims of each and every plaintiff in an action must 
+satisfy the jurisdictional minimum (hereafter, the “matter-in- 
+controversy rule”’). This rule, which Congress has relied on for 
+over a century, purposefully limits federal courts’ intrusion into 
+state court authority and ensures that state-law claims do not so 
+swamp the federal judiciary that it becomes unable to provide 
+federal question litigants with timely justice. 
+
+
+Nevertheless, the Fifth Circuit disregarded the matter-in- 
+controversy rule in concluding that the class representatives’ 
+claims in this action are within the district court’s diversity 
+jurisdiction, even though it is undisputed that none of the absent 
+class members have claims that satisfy the jurisdictional 
+minimum. The Fifth Circuit erred because the matter-in- 
+controversy rule, which requires all plaintiffs in the action 
+(or class members in a class action) to have jurisdictionally- 
+sufficient claims, necessarily is incompatible with an exercise 
+of supplemental jurisdiction over plaintiffs (or class members) 
+with jurisdictionally-insufficient claims. 
+
+Similar incompatibilities do not arise in other jurisdictional 
+contexts. For example, the requirement of 28 U.S.C. § 1331, 
+that a civil action arise under federal law is satisfied by the 
+presence of a federal claim, whether or not the action also 
+contains a state-law claim. Therefore, in federal question cases, 
+Section 1367's original jurisdiction requirement is not defeated 
+by using supplemental jurisdiction to include otherwise 
+jurisdictionally-deficient claims. It is the nature of the matter- 
+in-controversy rule, requiring all plaintiffs in a multi-plaintiff 
+diversity action to have claims in the requisite amount, that 
+leaves no opportunity for any plaintiff in the action to seek access 
+to the federal courts through supplemental jurisdiction. 
+
+Applying Section 1367 to the facts of this case is 
+straightforward. None of the absent class members have claims 
+that satisfy the jurisdictional minimum. The matter-in- 
+controversy requirement of diversity jurisdiction, therefore, is 
+
+
+8 
+
+
+not satisfied. With this element of the diversity statute 
+unfulfilled, the district court does not have original jurisdiction 
+over this action. Absent original jurisdiction, the district court 
+may not exercise supplemental jurisdiction under Section 1367. 
+
+
+All of the other evidence of congressional intent confirms 
+that this analysis is correct. Both Section 1367(b) and the 
+legislative history make it absolutely clear that Congress did 
+not intend Section 1367(a) to abrogate the matter-in-controversy 
+rule. 
+
+
+Section 1367(b) applies to diversity-only cases and prohibits 
+the exercise of supplemental jurisdiction in certain enumerated 
+circumstances where the exercise of such jurisdiction “would 
+be inconsistent with the jurisdictional requirements of section 
+1332.” 28 U.S.C. § 1367(b). Specifically, Section 1367(b) 
+eliminates supplemental jurisdiction over the claims of potential 
+plaintiffs who seek to join an existing action under Federal Rule 
+of Civil Procedure 19 or to intervene pursuant to Rule 24, but 
+whose presence would destroy diversity jurisdiction. 28 U.S.C. 
+§ 1367(b). This restriction on the exercise of supplemental 
+jurisdiction would be largely meaningless, however, if Section 
+1367(a) were construed, as it was by the Fifth Circuit, to grant 
+supplemental jurisdiction over such claims if the same persons 
+joined the litigation at the outset under Rule 20. 
+
+
+Section 1367(b) also eliminates supplemental jurisdiction 
+over claims that do not satisfy diversity requirements by 
+plaintiffs against parties added to an existing action under Rules 
+14, 19, 20 or 24. This further limitation on supplemental 
+jurisdiction also cannot be reconciled with the Fifth Circuit's 
+interpretation of Section 1367(a) as opening the federal courts 
+to multi-plaintiff diversity actions. Section 1367(b)’s clear 
+purpose to preserve the requirements of diversity jurisdiction 
+in several situations where parties are added or proposed to be 
+added to the litigation only makes sense if Section 1367(a) does 
+not abrogate the matter-in-controversy rule. 
+
+
+9 
+
+
+Moreover, what the language of Section 1367(b) strongly 
+suggests the legislative history conclusively establishes. 
+Congress understood the matter-in-controversy rule to state a 
+fundamental requirement of original jurisdiction in diversity 
+cases and unmistakably intended to leave that requirement in 
+place. There is not a shred of evidence in the legislative history 
+to the contrary. Indeed, the legislative history is devoid of any 
+comment suggesting that any legislator intended the 
+supplemental jurisdiction statute not merely to add to existing 
+Statutory grants of jurisdiction, but to abrogate important 
+
+
+requirements of those existing grants such as the matter-in- 
+controversy rule. 
+
+
+The Court must give effect to congressional intent — 
+expressed in the language, structure, and purpose of Section 
+1367 and in reliable and compelling legislative history — to 
+maintain the current requirements of diversity jurisdiction and 
+prevent federal courts from undermining the state courts’ 
+traditional role in developing and interpreting state law. 
+Congressional policy limiting diversity jurisdiction has 
+continued unchanged for over 150 years, and it is clear that 
+Congress did not intend Section 1367 to change that course. 
+
+
+ARGUMENT 
+
+
+I. SECTION 1367(a) LEAVES THE REQUIREMENTS 
+OF ORIGINAL JURISDICTION UNDISTURBED. 
+
+
+A. Section 1367(a) Requires That A Federal Court 
+First Have Original Jurisdiction Over A Civil 
+
+
+Action Before Exercising Supplemental Jurisdiction 
+Over Supplemental Claims. 
+
+
+The supplemental jurisdiction statute, 28 U.S.C. § 1367, 
+permits a district court that has original jurisdiction of a civil 
+action to exercise supplemental jurisdiction over certain claims 
+that are outside the court’s original jurisdiction. 28 U.S.C. 
+
+
+10 
+
+
+§ 1367(a).? However, by its terms, Section 1367 grants only 
+“supplemental” jurisdiction and requires that there first be a 
+“civil action of which the district courts have original 
+jurisdiction.” 28 U.S.C. § 1367(a). This requirement codifies 
+the well-established rule that the district courts first must have 
+original jurisdiction of a civil action before exercising 
+supplemental jurisdiction over pendent or ancillary claims. See 
+Peacock v. Thomas, 516 U.S. 349, 355 (1996); Mine Workers of 
+Am. y. Gibbs, 383 U.S. 715, 725 (1966). Thus, under Section 
+1367, as before, the first step in deciding whether supplemental 
+jurisdiction is available is determining whether the civil action 
+is within the district court’s original jurisdiction. See Chicago 
+v. International College of Surgeons, 522 U.S. 156, 166 (1997); 
+Jerome B. Grubart, Inc. v. Great Lakes Dredge & Dock Co., 
+513 U.S. 527, 531 (1995). 
+
+
+2. Section 1367(a) states: 
+
+
+Except as expressly provided in subsections (b) and (c) or 
+as expressly provided otherwise by federal statute, in any 
+civil action of which the district courts have original 
+jurisdiction, the district courts shall have supplemental 
+jurisdiction over all other claims that are so related to claims 
+in the action that they form part of the same case or 
+controversy under Article III of the Constitution. Such 
+supplemental jurisdiction shall include claims tht involve 
+the joinder or intervention of additional parties. 
+
+
+28 U.S.C. § 1367(a). 
+
+
+Section 1367(b), quoted and discussed in detail in Sections II. 
+A & B, infra, creates a number of exceptions to the grant of supplemental 
+jurisdiction in Section 1367(a) aimed at preventing plaintiffs in a 
+diversity case from using supplemental jurisdiction after an action has 
+been filed to undercut the original jurisdiction requirements of 28 U.S.C. 
+§ 1332. 28 U.S.C. § 1367(b) 
+
+
+Section 1367(c) sets forth a number of discretionary reasons a 
+district court may decline to exercise supplemental jurisdiction. It is 
+quoted in full at p. 2, supra. 28 U.S.C. § 1367(c). 
+
+
+11 
+
+
+The availability of original jurisdiction is determined by 
+reference to the relevant original jurisdiction statutes and the 
+case law interpreting them. See Kokkonen v. Guardian Life Ins. 
+Co. of Am., 511 U.S. 375, 377 (1994) (federal courts “possess 
+only that power authorized by Constitution and statute”); 
+Chicago, 522 U.S. at 163-64 (finding original jurisdiction under 
+28 U.S.C. § 1331 and relevant case law and then exercising 
+supplemental jurisdiction under Section 1367); Grubart, 513 
+U.S. at 532-548 (finding original jurisdiction under admiralty 
+jurisdiction statute and applicable case law and then exercising 
+supplemental jurisdiction under Section 1367). If an action is 
+not within a statutory grant of original jurisdiction, Section 1367 
+grants no supplemental jurisdiction. 
+
+
+B. Section 1367(a) Does Not Abrogate Original 
+Jurisdiction Requirements. 
+
+
+Supplemental jurisdiction granted by Section 1367 does 
+not change the requirements of original jurisdiction, including 
+diversity jurisdiction. 28 U.S.C. § 1367(a).’ Original jurisdiction 
+analysis is the same whether the existence of original jurisdiction 
+is being examined alone or to determine whether the prerequisite 
+to the exercise of supplemental jurisdiction is satisfied. See id. 
+Both the nature of the jurisdiction granted by Section 1367 and 
+the statute’s language support this conclusion.‘ 
+
+
+First, Section 1367 supplements the jurisdiction Congress 
+granted in the original jurisdiction statutes. That is, Section 1367 
+adds to otherwise-conferred federal jurisdiction by codifying 
+ancillary and pendent jurisdiction, Chicago, 522 U.S. at 165, 
+but it does not abrogate original jurisdiction requirements. There 
+is no reason to think that Section 1367’s grant of supplemental 
+
+
+3. Indeed, as discussed in Part IV.A, infra, the legislative history 
+specifically states that Congress did not intend Section 1367 to alter 
+original jurisdiction concepts. 
+
+4. See generally James E. Pfander, Supplemental Jurisdiction and 
+
+
+Section 1367: The Case For A Sympathetic Textualism, 148 U. Pa. L. 
+Rev. Vol. 109 (1999). 
+
+
+12 
+
+
+jurisdiction, which operates in a separate sphere of jurisdiction 
+from original jurisdiction, alters such otherwise-established 
+requirements of original jurisdiction. 
+
+
+Second, the term “civil action,” used by Section 1367 to 
+describe the matter over which the district court must have 
+original jurisdiction, is the same term that pervades the original 
+jurisdiction statutes, including the federal question and diversity 
+statutes. See, e.g., 28 U.S.C. § 1331 (granting the district courts 
+original jurisdiction of all “civil actions” arising under federal 
+law); 28 U.S.C. § 1332(a)(1) (granting the district courts original 
+jurisdiction over all “civil actions” between citizens of different 
+states where the matter in controversy exceeds $75,000). This 
+language shows that Section 1367’s requirement of original 
+jurisdiction is co-extensive with the grants of original 
+jurisdiction found in Sections 1331 and 1332 (and most of the 
+other original jurisdiction statutes), and makes it clear that 
+Congress intended Section 1367’s original jurisdiction analysis 
+to proceed as if original jurisdiction were being examined 
+independently of Section 1367. That is the analysis this Court 
+has undertaken when applying Section 1367’s original 
+jurisdiction prereouisite. See Chicago, 522 U.S. at 163-64; 
+Grubart, 513 U.S. at 532-48. 
+
+
+Thus, whether original jurisdiction exists for purposes of 
+the exercise of supplemental jurisdiction under Section 1367 is 
+purely a question of construing and applying the relevant original 
+jurisdiction statute and case law. The Fifth Circuit erred in 
+applying Section 1367 because it misunderstood the nature of 
+the matter-in-controversy requirement of 28 U.S.C. § 1332(a) 
+as long construed in Zahn v. International Paper Co., 414 U.S. 
+291 (1973), and its forebears. 
+
+
+13 
+
+
+Il. UNDER THE MATTER-IN-CONTROVERSY RULE, 
+WHICH FURTHERS CONGRESS’S LONG- 
+STANDING POLICY OF LIMITING DIVERSITY 
+JURISDICTION, THE DISTRICT COURT LACKS 
+ORIGINAL JURISDICTION OVER THIS ENTIRE 
+CIVIL ACTION. 
+
+
+A. In A Multi-Plaintiff Action, The Diversity Statute 
+Requires That The Claims Of Each Plaintiff Satisfy 
+The Matter-In-Controversy Rule. 
+
+There is no dispute that this civil action is within the original 
+jurisdiction of the district court only if the requirements of the 
+diversity jurisdiction statute are satisfied. Under the terms of 
+that statute, district courts have “original jurisdiction” over a 
+“civil action” only when the action is between “citizens of 
+different states” and the “matter in controversy” exceeds a 
+certain sum, set at $50,000 when this case was filed. 28 U.S.C. 
+§ 1332(a)(1) (1993). If any of the statute’s requirements are not 
+met, the entire civil action is outside the district court’s diversity 
+jurisdiction. See Zahn, 414 U.S. at 292; Snyder v. Harris, 394 
+U.S. 332, 336 (1969); Owen Equip. & Erection Co. v. Kroger, 
+437 U.S. 365, 373-74 (1978); Strawbridge v. Curtiss, 
+3 Cranch (7 U.S.) 267 (1806). 
+
+
+In this case, the critical original jurisdiction issue involves 
+the “matter in controversy” requirement. This Court repeatedly 
+has held that in a multi-plaintiff diversity action the phrase 
+“matter in controversy” means that the claims of each plaintiff 
+must satisfy the jurisdictional minimum. See Zahn, 414 U.S. at 
+300-01; Snyder, 394 U.S. at 336-37; Clark v. Paul Gray, Inc., 
+306 U.S. 583, 589 (1939); Pinel v. Pinel, 240 U.S. 594, 596 
+(1916); Troy Bank v. G.A. Whitehead & Co., 222 U.S. 39, 
+40-41 (1911). 
+
+
+The matter-in-controversy rule was applied in Zahn to the 
+same basic jurisdictional facts that exist in this case. In Zahn, 
+the claims of the representative plaintiffs satisfied the 
+jurisdictional minimum, but the claims of many of the absent 
+
+
+14 
+
+
+class members did not. Zahn, 414 U.S. at 292. The plaintiffs, 
+who filed the case in federal court, argued that because diversity 
+jurisdiction purportedly existed over the claims of the class 
+representatives, the district court could exercise ancillary 
+jurisdiction over the claims of absent class members that did 
+not satisfy the jurisdictional minimum. /d. at 305 (Brennan, J., 
+dissenting). The Court did not directly address this ancillary 
+jurisdiction argument, deciding the case based instead on the 
+matter-in-controversy rule. /d. at 300-01. 
+
+
+The Court began its analysis in Zahn with the language of 
+Section 1332(a), stating that “suits between citizens of different 
+States are maintainable in the district courts only if the ‘matter 
+in controversy’ exceeds the statutory minimum, now set at 
+$10,000. 28 U.S.C. § 1332(a).” Id. at 292-93. The Court then 
+Stated its longstanding interpretation of the matter-in- 
+controversy requirement in multi-plaintiff cases: 
+
+
+When two or more plaintiffs, having separate and 
+distinct demands, unite for convenience and 
+economy in a single suit, it is essential that the 
+demand of each be of the requisite jurisdictional 
+amount... . 
+
+
+Id. at 294. The Court noted that this rule was “firmly rooted in 
+prior cases dating from 1832, and ha[s] continued to be the 
+accepted construction of the controlling statutes, now §§ 1331 
+and 1332.” Id. at 294-95. 
+
+
+This same rule, the Court observed in Zahn, “[was] applied 
+to class actions contemplated by Fed. Rule Civ. Proc. 23.” 
+Id. at 296. The Court continued with a full discussion of Snyder 
+v. Harris, 394 U.S. 332 (1969), the case where, “[t}he meaning 
+of the ‘matter in controversy’ language of § 1332 as it applied 
+to class actions under Rule 23 reached this Court. . . .” Zahn, 
+414U.S. at 298. Unlike in Zahn, none of the class representatives 
+and none of the absent class members in Snyder asserted claims 
+above the jurisdictional minimum. Significantly, the Court in 
+Zahn did not find this difference to be material: 
+
+
+15 
+
+
+None of the plaintiffs in Snyder v. Harris alleged a 
+claim exceeding $10,000, but there is no doubt that 
+the rationale of that case controls this one. As 
+previously indicated, Snyder invoked the well- 
+established rule that each of several plaintiffs 
+asserting separate and distinct claims must satisfy 
+the jurisdictional-amount requirement if his claim 
+is to survive a motion to dismiss. The rule plainly 
+mandates not only that there be no aggregation and 
+that the entire case must be dismissed where none 
+of the plaintiffs claims more than $10,000 but also 
+requires that any plaintiff without the jurisdictional 
+amount must be dismissed from the case, even 
+though others allege jurisdictionally sufficient 
+claims. 
+
+
+Id. at 300 (emphasis added). Thus, it was the matter-in- 
+controversy rule (and nothing else) that required the dismissal 
+of jurisdictionally-insufficient claims in Zahn. The Court gave 
+no reason, other than that rule, for implicitly rejecting the 
+plaintiffs’ invitation to exercise ancillary jurisdiction. 
+
+
+B. The Matter-In-Controversy Rule Precludes The 
+Exercise of Supplemental Jurisdiction Over The 
+Claims Of Any Plaintiff In A Multi-Plaintiff 
+Diversity Action. 
+
+
+That this Court in Zahn relied solely on the matter-in- 
+controversy rule to decide the case is significant here. The rule 
+was dispositive in Zahn because the rule was understood as a 
+declaration by Congress that the federal courts shall not have 
+jurisdiction, based only on diversity, where the claims of any 
+plaintiff in a multi-plaintiff diversity action do not meet the 
+matter-in-controversy threshold. Because the matter-in- 
+controversy rule applies to each and every plaintiff in a multi- 
+plaintiff action, an exercise of supplemental jurisdiction over 
+the jurisdictionally-insufficient claims of any plaintiff 
+necessarily would defeat the rule. The rule simply is not satisfied 
+
+
+16 
+
+
+if any plaintiff with claims for less than the jurisdictional 
+minimum is in the action. 
+
+
+The nature of the matter-in-controversy rule differentiates 
+it from other original jurisdiction requirements in terms of how 
+they interrelate with supplemental jurisdiction. For example, 
+the requirement of 28 U.S.C. § 1331 that the civil action arise 
+under federal law is satisfied by the presence of a federal claim, 
+whether or not the action also contains a state-law claim. 
+Chicago, 522 U.S. at 166 (in federal question cases, “federal 
+claims suffice to make the actions ‘civil actions’ within the 
+‘original jurisdiction’ of the district court for purposes of 
+removal” and the “presence of related state law claims” does 
+not alter this analysis). Similarly, the requirement of 28 U.S.C. 
+§ 1346 that the United States be a defendant in the action is 
+Satisfied as long as the action includes the United States as a 
+defendant, whether or not other defendants also are sued. In 
+both of these examples, an exercise of supplemental jurisdiction 
+over the claims outside the district court’s original jurisdiction 
+would not defeat the original jurisdiction requirement. In 
+contrast, an exercise of supplemental jurisdiction over the absent 
+class members in this case necessarily would defeat the original 
+jurisdiction requirement that each and every plaintiff in the 
+action has claims exceeding the jurisdictional minimum. 
+
+
+In contravention of the matter-in-controversy rule, the Fifth 
+Circuit implicitly held that this civil action was within the district 
+court’s original jurisdiction even though none of the absent class 
+members have claims that satisfy the jurisdictional minimum. 
+This misapplication of the rule led the Fifth Circuit to err in 
+concluding that Section 1367 confers supplemental jurisdiction 
+over the claims of the absent class members. 
+
+
+C. Absent A Clear Statement Of Congressional Intent 
+To Abrogate The Matter-In-Controversy Rule, 
+Section 1367 Should Be Read To Preserve The Rule. 
+
+
+Congressional policy for over a century has been to narrow 
+the reach of diversity jurisdiction. See Snyder, 394 U.S. at 339. 
+
+
+17 
+
+
+This has been accomplished directly, by raising the matter-in- 
+controversy requirement from time to time,° and indirectly, by 
+acquiescing in the numerous rulings of this Court restrictively 
+interpreting the ““matter-in-controversy” requirement of Section 
+1332. See id. Congress has accepted the matter-in-controversy 
+rule for so long that this Court has stated that the requirement is 
+to be viewed as more than a judge-made doctrine: 
+
+
+Congress has thus consistently amended the amount- 
+in-controversy section and re-enacted the “matter 
+in controversy” language without change of its 
+jurisdictional effect against a background of judicial 
+interpretation that has consistently interpreted that 
+congressionally enacted phrase as not encompassing 
+the aggregation of separate and distinct claims. 
+
+
+* * * 
+
+
+[T]he settled judicial interpretation of “amount in 
+controversy” was implicitly taken into account by 
+the relevant congressional committees in 
+determining, in 1958, the extent to which the 
+jurisdictional amount should be raised. . .. Where 
+Congress has consistently re-enacted its prior 
+statutory language for more than a century and a 
+half in the face of a settled interpretation of that 
+language, it is perhaps not entirely realistic to 
+designate the resulting rule a “judge made formula.” 
+
+
+Id.; cf. Kroger, 437 U.S. at 374 (finding that the longevity of 
+the complete diversity rule “clearly demonstrates a 
+congressional mandate” for the rule). 
+
+
+5. For example, in 1989, the year before Section 1367’s enactment, 
+Congress increased the matter-in-controversy requirement from $10,000 
+to $50,000, to reduce the number of diversity cases in the federal courts 
+(and to take into account the effects of inflation since 1958). H.R. Rep. 
+No. 100-889 (1988), reprinted in 1989 U.S.C.C.A.N. 5982, 6005-6006 
+(estimating a 40% reduction in diversity caseload from increase in 
+jurisdictional minimum). 
+
+
+18 
+
+
+The congressional policy of limiting diversity jurisdiction 
+ensures that the federal docket does not become so overloaded 
+with state-law cases that reasonably prompt access to federal 
+courts in federal question cases is no longer a practical 
+possibility: 
+
+[T]o overrule the aggregation doctrine at this late 
+date would run counter to the congressional purpose 
+in steadily increasing through the years the 
+jurisdictional amount requirement. That purpose was 
+to check, to some degree, the rising caseload of the 
+federal courts, especially with regard to the federal 
+courts’ diversity of citizenship jurisdiction. 
+
+
+Snyder, 394 U.S. at 339-40. In light of Congress’s policy of 
+limiting diversity jurisdiction, this Court should not infer, unless 
+a contrary intention is clear, that Section 1367 expands diversity 
+jurisdiction by abrogating the well-established matter-in- 
+controversy requirement. Zahn, 414 U.S. at 302; see Snyder, 
+394 US. at 339. 
+
+
+This is especially true because Congress’s policy of limiting 
+diversity jurisdiction protects state sovereignty against the 
+inevitable encroachment that would result from an increase in 
+the number of diversity cases in federal court. See Snyder, 394 
+U.S. at 340 (“‘Due regard for the rightful independence of state 
+governments, which should actuate federal courts, requires that 
+they scrupulously confine their own jurisdiction to the precise 
+limits which [Section 1332] has defined.’”) (quoting Healy v. 
+Ratta, 292 U.S. 263, 270 (1934)). Important principles of 
+federalism also require that Congress make its intention “ ‘clear 
+and manifest’ if it intends to pre-empt the historic powers of 
+the States.” Will v. Michigan Dep’t of State Police, 491 U.S. 58, 
+65 (1989) (quoting Rice v. Santa Fe Elevator Corp., 331 U.S. 
+218, 230 (1947)). The Court has held that 
+
+
+[t]his plain statement rule is nothing more than an 
+acknowledgment that the States retain substantial 
+sovereign powers under our constitutional scheme, 
+
+
+19 
+
+
+powers with which Congress does not readily 
+interfere. 
+
+
+Gregory v. Ashcroft, 501 U.S. 452, 461 (1991). The plain 
+statement rule is further justified as a principle of judicial 
+restraint in situations where “the courts themselves must 
+decide whether their own jurisdiction has been expanded” 
+and thus “we rely only on the clearest indications in holding 
+
+
+that Congress has enhanced our power.” Atascadero State 
+Hosp. v. Scanlon, 473 U.S. 234, 243 (1985). 
+
+
+Here, neither Section 1367 nor its legislative history 
+offers any statement of congressional intent to increase the 
+number or magnitude of diversity cases in federal court.° 
+Because any weakening of the matter-in-controversy rule at 
+this late date would upset settled jurisdictional law, would 
+contravene longstanding congressional policy to limit 
+diversity jurisdiction, would burden the federal courts with 
+a heavier diversity docket, and would encroach upon state 
+sovereignty, this Court should be chary to read Section 1367 
+to diminish the rule’s vitality. 
+
+
+Il. THE LANGUAGE, PURPOSE, AND OPERATION 
+OF SECTION 1367(b) STRONGLY SUGGEST 
+THAT CONGRESS INTENDED TO LEAVE THE 
+MATTER-IN-CONTROVERSY RULE INTACT. 
+
+
+Section 1367(b) strongly indicates that Congress did not 
+intend to abrogate the matter-in-controversy rule and 
+confirms that Congress continued to understand that rule as 
+a well-established preclusion of federal court authority that 
+would otherwise displace state court power. Section 1367(b) 
+sets forth a number of limitations on the exercise of 
+supplemental jurisdiction in a diversity action that are 
+inconsistent with an intent to broadly expand the scope of 
+diversity cases by circumventing the matter-in-controversy 
+
+
+6. In fact, Congress's contrary intention could not be 
+more clearly expressed in the legislative history to Section 1367. 
+See infra at Part IV.A. 
+
+
+20 
+
+
+rule. Further, if Section 1367(a)’s jurisdictional grant were 
+read to override the rule, the operation of Section 1367(b) 
+would create absurd results, detailed below, that Congress 
+could not possibly have intended. By contrast, if the matter- 
+in-controversy rule is left intact, then Section 1367(b) codifies, 
+with oaly slight changes,’ the pre-existing jurisdictional scheme 
+that essentially prohibited the use of ancillary jurisdiction in 
+diversity actions to circumvent Section 1332's original 
+jurisdiction requirements. 
+
+A. The Purpose Of Section 1367(b) Is To Prevent 
+Parties, After The Action Has Commenced, From 
+Invoking Supplemental Jurisdiction Over Claims 
+They Could Not Have Asserted, Consistent With 
+Diversity Jurisdiction Requirements, At The Outset. 
+
+
+Section 1367(b) provides that where original jurisdiction 
+is founded solely on diversity: 
+
+
+the district courts shall not have supplemental 
+jurisdiction under subsection (a) over claims by 
+plaintiffs against persons made parties under Rule 
+14, 19, 20 or 24 of the Federal Rules of Civil 
+Procedure, or over claims of persons proposed to be 
+joined as plaintiffs under Rule 19 of such rules, or 
+seeking to intervene as plaintiffs under Rule 24 of 
+such rules, when exercising jurisdiction over such 
+claims would be inconsistent with the jurisdictional 
+requirements of section 1332. 
+
+
+7. Before Section 1367(b) was enacted, ancillary jurisdiction 
+permitted parties whose presence would defeat diversity jurisdiction to 
+intervene as of right under Fed. R. Civ. P. 24(a). See, e.g., Smith 
+Petroleum Serv., Inc. v. Monsanto Chem. Co., 420 F.2d 1103, 1113-15 
+(Sth Cir. 1970) cited in Kroger, 437 U.S. at 376 n.18. Section 1367(b) 
+eliminated this aspect of ancillary jurisdiction. This narrowing of existing 
+law further supports the conclusion that Section 1367(a) was not meant, 
+at the same time, to expand the number of parties eligible to join a 
+diversity action. 
+
+
+21 
+
+
+28 U.S.C. § 1367(b). Section 1367(b) creates two types of 
+restrictions on the use of supplemental jurisdiction in a diversity 
+case. First, Section 1367(b) eliminates supplemental jurisdiction 
+over claims by plaintiffs against parties added after the action 
+has commenced, if the requirements of Section 1332 would 
+have prevented plaintiffs from suing those parties at the action’s 
+outset. Second, Section 1367(b) prevents persons seeking to 
+join or intervene as plaintiffs in a previously-filed diversity 
+action from doing so if, under diversity requirements, they could 
+not have joined the action at its inception. These restrictions 
+essentially codify pre-Section 1367 case law,* and their purpose 
+is to prevent plaintiffs from using supplemental jurisdiction after 
+the action has commenced to circumvent the requirements of 
+diversity jurisdiction — the same purpose that animated this 
+Court’s decision in Kroger. See Kroger, 437 U.S. at 374-75. 
+
+Section 1367(b) implements this purpose through several 
+prohibitions on the exercise of supplemental jurisdiction. Section 
+1367(b) prevents plaintiffs suing in diversity from using 
+supplemental jurisdiction to assert a claim against a defendant 
+impleaded under Rule 14 if that claim could not have been 
+asserted at the outset, such as when the impleaded defendant’s 
+citizenship is not diverse. See 28 U.S.C. § 1367(b). This 
+prohibition furthers Section 1367(b)’s purpose by preventing 
+plaintiffs from circumventing the requirements of diversity 
+jurisdiction by, for example, suing a single defendant of diverse 
+citizenship, waiting for the defendant to implead a third-party 
+that the plaintiff expected from the outset would be impleaded, 
+and then using Section 1367(a)’s grant of supplemental 
+jurisdiction to sue that third party. See Kroger, 437 U.S. at 374 
+(refusing to permit precisely this result prior to the passage of 
+Section 1367). 
+
+
+8. For example, Section 1367(b)’s reference to Rule 14 codifies 
+this Court's decision in Kroger. Kroger, 437 U.S. at 374-75. 
+
+
+22 
+
+
+The other provisions of Section 1367(b) prohibiting the 
+exercise of supplemental jurisdiction over claims by plaintiffs 
+“against persons made parties” after the complaint is filed are 
+aimed at preventing similar tactics. The reference to Rules 19 
+and 24 prevent the plaintiff from suing only diverse parties in 
+the original complaint and deferring claims against non-diverse 
+persons until they are subsequently joined under Rule 19 or 
+intervene under Rule 24. See Fed. R. Civ. P. 19; Fed. R. Civ. P. 
+24. The reference to Rule 20 prevents plaintiffs from suing a 
+non-diverse party that has been joined to a cross-claim or 
+counterclaim. See Fed. R. Civ. P. 13(h) (referencing joinder 
+provisions of Rule 20); Fed R. Civ. P. 20. 
+
+
+Similarly, the other category of Rule 1367(b) prohibitions 
+on the exercise of supplemental jurisdiction are directed at 
+parties seeking to join an existing lawsuit in violation of diversity 
+requirements. Specifically, the references to Rules 19 and 24 
+prevent persons whose claims would destroy diversity 
+jurisdiction if asserted at the outset from using those rules to 
+join or intervene in an action filed by other persons whose claims 
+do satisfy diversity requirements. See Fed R. Civ. P. 19; 
+Fed R. Civ. P. 24. Taken together, the provisions of Section 
+1367(b) indicate that Congress sought to prevent plaintiffs from 
+circumventing diversity jurisdiction requirements through artful 
+post-complaint use of supplemental jurisdiction.’ 
+
+Section 1367(a) should be read to complement, not defeat, 
+Section 1367(b)’s clear purpose. Interpreting Section 1367(a) 
+to uphold the matter-in-controversy rule is consistent with 
+Section 1367(b)’s purpose, while the Fifth Circuit’s 
+interpretation brings the operation of Section 1367(a) into 
+conflict with that purpose. 
+
+
+9. Indeed, as Petitioners discuss in Part IV, infra, the legislative 
+history of Section 1367 confirms that this was precisely Congress's 
+intent. See infra at p. 25. 
+
+
+23 
+
+
+B. Under The Fifth Circuit’s Reading, Section 1367(a) 
+Renders The Prohibitions In Section 1367(b) 
+Largely Meaningless. 
+
+Section 1367(b)’s limitations on the exercise of 
+supplemental jurisdiction in diversity cases are nonsensical if 
+Section 1367(a)’s original jurisdiction requirement is not read 
+to preserve the matter-in-controversy rule. Section 1367(b) does 
+not prohibit the exercise of supplemental jurisdiction in a 
+diversity action over claims of plaintiffs who join together under 
+Rule 20. If Section 1367(a) were read, as the Fifth Circuit did, 
+to confer such jurisdiction, then the statute could drastically 
+curtail the complete diversity requirement of Strawbridge v. 
+Curtiss, 3 Cranch (7 U.S.) 267 (1806), as well as the matter-in- 
+controversy rule of Zahn and Snyder, because plaintiffs with 
+jurisdictionally-insufficient claims could join diversity actions 
+as long the claims of one plaintiff met Section 1332’s 
+requirements. 
+
+
+Not only would the Fifth Circuit’s construction 
+fundamentally alter diversity jurisdiction jurisprudence as it has 
+existed for nearly 200 years, it would also trivialize the 
+prohibitions in Section 1367(b). The Fifth Circuit’s approach 
+necessarily rests on the premise that Congress, in Section 
+1367(b), carefully crafted prohibitions on the exercise of 
+supplemental jurisdiction for the purpose of protecting diversity 
+jurisdiction requirements against incursions under Rules 14, 
+19, 20, and 24 after an action has begun, while at the same time 
+leaving a wide opening for persons whose claims would defeat 
+diversity jurisdiction to join the action at the outset as plaintiffs 
+under Rule 20. The statute should not be read to produce such 
+an outcome. 
+
+
+The Fifth Circuit’s interpretation of Section 1367(a), 
+moreover, creates at least one absurd result. Under that 
+interpretation, persons whose claims do not satisfy diversity 
+jurisdiction requirements cannot join a diversity action under 
+Rule 19 or intervene under Rule 24, but they can join the action 
+under Rule 20. See 28 U.S.C. § 1367(b). As Judge Easterbrook 
+
+
+24 
+
+
+asked: “What sense can this make?” See Stromberg Metal Works, 
+Inc. v. Press Mechanical, 77 F.3d 928, 932 (7th Cir. 1996). The 
+answer is that it makes none: under this interpretation, a plaintiff 
+may voluntarily dismiss his action and refile adding a co-plaintiff 
+under Rule 20 who could not have been added under Rule 19 or 
+who could not have intervened under Rule 24. Congress could 
+not have intended to tailor the scope of supplemental jurisdiction 
+based on meaningless distinctions between the ways plaintiffs 
+can join a lawsuit. 
+
+
+However, if Section 1367(a)’s original jurisdiction 
+prerequisite is understood to preserve the matter-in-controversy 
+rule, Section 1367(b)’s restrictions merely track existing case 
+law and make sense. Under this reading of Section 1367(a), 
+there is no need for Section 1367(b) to include a reference to 
+Rule 20 or Rule 23. Section 1367(a) does not confer 
+supplemental jurisdiction over actions where the claims of any 
+of the plaintiffs or class members do not satisfy diversity 
+jurisdiction requirements, obviating the need to prohibit the 
+exercise of such supplemental jurisdiction in Section 1367(b). 
+The prohibitions in Section 1367(b) on the exercise of 
+supplemental jurisdiction simply prevent an artful plaintiff from 
+later adding claims or parties that, consistent with diversity 
+jurisdiction requirements, could not have been included at the 
+outset. See Kroger, 437 U.S. at 374-75. 
+
+
+The reality that Section 1367(b)’s provisions make sense 
+only if Section 1367(a) preserves the matter-in-controversy rule 
+is strong evidence that Congress intended to leave the rule intact. 
+See, e.g., United States v. X-Citement Video, Inc., 513 U.S. 64, 
+69 (1994) (concluding that the absurd results created by a literal 
+reading of the statutory text strongly indicated that Congress 
+did not intend the statute to operate as an unreflective reading 
+of the text would suggest); Public Citizen v. United States Dep’t 
+of Justice, 491 U.S. 440, 453-54 (1989) (finding that the absurd 
+results created by a broad interpretation of the ambiguous word 
+“utilize” provided strong evidence that Congress did not intend 
+the word to be read broadly); Holy Trinity Church v. United 
+
+
+25 
+
+
+States, 143 U.S. 457, 459 (1892) (stating that the absurd results 
+arising from a particular statutory interpretation may make it 
+“unreasonable to believe” that the legislature intended such an 
+interpretation). It is always more reasonable to believe that 
+Congress intended to enact a sensible scheme than a nonsensical 
+one. Cf. West Va. Univ. Hosp. v. Casey, 499 U.S. 83, 101 (1991) 
+(stating that the Court’s role in statutory interpretation is to 
+“make sense ra‘her than nonsense out of the corpus juris”); Bank 
+One Chicago, N.A. v. Midwest Bank & Trust Co., 516 U.S. 264, 
+275 (1995) (particular statutory interpretation favored partly 
+because it was “sensible”’). 
+
+
+Here, reading Section 1367(a) as preserving the matter-in- 
+controversy rule makes sense of Section 1367(b)’s restrictions. 
+In contrast, the Fifth Circuit’s interpretation of Section 1367(a) 
+deprives Section 1367 of a coherent purpose and leads to absurd 
+results. Because Congress certainly did not intend to create a 
+nonsensical statute, Section 1367(b)’s provisions provide 
+compelling evidence that Congress drafted Section 1367 with 
+the understanding that the amount-in-controversy rule, as 
+interpreted by Zahn and other decisions of this Court, was left 
+intact. 
+
+
+IV. THE LEGISLATIVE HISTORY CONCLUSIVELY 
+ESTABLISHES THAT CONGRESS INTENDED 
+SECTION 1367 TO PRESERVE THE MATTER-IN- 
+CONTROVERSY RULE. 
+
+
+A. The Committee Reports And Other Legislative 
+Materials Reliably And Conclusively Demonstrate 
+That Congress Did Not Intend To Alter The Matter- 
+In-Controversy Rule. 
+
+
+The legislative history of Section 1367 makes it 
+unmistakably ciear that Congress intended for the statute to 
+perpetuate this Court’s long-standing interpretation of “matter 
+in controversy” as applied in multi-plaintiff actions. Section 
+1367 had its genesis in a report written by the Federal Courts 
+Study Committee (the “Study Committee”), established by the 
+
+
+26 
+
+
+100th Congress in 1988. 28 U.S.C. § 331 (1988). The Study 
+Committee spent fifteen months undertaking “the most 
+comprehensive examination of the federal court system in the 
+half-century.” Federal Courts Study Comm., 101st Cong., 2d 
+Sess., Report of the Fed. Courts Study Comm. 31 (Comm. Print 
+1990) (“Report”), at 3. The Study Committee found that one of 
+the greatest problems facing the federal judiciary was the size 
+of its docket, which the Report termed a “crisis.” Jd. at 4-10. 
+The Study Committee determined that one of the primary 
+reasons for the overloaded nature of the federal docket was 
+diversity jurisdiction, which accounts for half of the federal 
+courts’ caseload. Jd. at 14, 38-42. It noted that the burgeoning 
+diversity caseload significantly affected the federal courts’ ability 
+to administer federal question cases in a timely fashion: 
+
+
+The general (not unvarying) principle of division 
+should be that state courts resolve disputes over state 
+law and federal courts resolve disputes over federal 
+law. We do not base this principle on a love of 
+symmetry, but on a theory of comparative advantage 
+and on a desire that federal courts remain accessible 
+in a practical as well as a theoretical sense to federal 
+claimants. 
+
+
+Id. at 14. As a result of these concerns, the Study Committee 
+recommended that Congress substantially reduce diversity 
+jurisdiction. Id. at 14-15, 39-41. In so doing, the Study Committee 
+rejected a proposal by a subcommittee to overrule Zahn. 
+See Report to the Federal Courts Study Comm. of the Subcomm. 
+on the Federal Courts and Their Relation to the States 
+(Mar. 12, 1990) (Working Papers), reprinted in Federal Courts 
+Study Committee, Working Papers and Subcommittee Reports, 
+Vol. 1 (July 1, 1990) at 561 n.33; see also Meritcare Inc. v. St. Paul 
+Mercury Ins. Co., 166 F.3d 214, 219 (3d Cir. 1999) (discussing 
+Study Committee’s rejection of subcommittee proposal). 
+
+
+In July, 1990, H.R. 5381, entitled the “Federal Courts Study 
+Committee Implementation Act of 1990” was introduced in the 
+
+
+27 
+
+
+House of Representatives. See H.R. 5381, 101st Cong. (Version 
+1, Aug. 1, 1990). Section 120 of that bill addressed supplemental 
+jurisdiction and was significantly different from the version 
+ultimately enacted. On September 6, 1990, the Chairman of the 
+Study Committee, Judge Joseph Weis, testified before a 
+subcommittee of the House Judiciary Committee considering 
+the bill and objected to section 120 as an expansion of diversity 
+jurisdiction that was inconsistent with the Study Committee’s 
+recommendation regarding supplemental jurisdiction. 
+See Federal Courts Study Comm. Implementation Act & Civil 
+Justice Reform Act: Hearings on H.R. 5381 & H.R. 3898 Before 
+the Subcomm. on Courts, Intellectual Property & the Admin. of 
+Justice of the House Comm. on the Judiciary, 10\1st Cong. 
+92-94 (1990) (testimony of Judge Joseph F. Weis). Judge Weis 
+noted that section 120 would “change the doctrine of complete 
+diversity articulated in Strawbridge v. Curtiss, 3 Cranch 267 
+and Owen Equipment & Erection Co. v. Kroger, 437 U.S. 365 
+(1978)” and that the “Study Committee did not intend to 
+encourage additional diversity jurisdiction in that fashion.” 
+Id. at 94. Judge Weis encouraged the Committee to distinguish 
+between federal question cases and diversity cases and to reduce 
+the scope of section 120 in keeping with the Study Committee’s 
+view that “the requirement of complete diversity in § 1332 cases 
+should be continued as it presently exists and should not be 
+eroded through operation of the proposed supplemental 
+jurisdiction.” Jd. at 95. In late September 1990 a redrafted H.R. 
+5381 was introduced with an entirely different supplemental 
+jurisdiction provision as section 114. See H.R. 5381, 101st Cong. 
+(Version 2, Sept. 30, 1990; Version 3, Oct. 4, 1990). Section 
+114 is the provision enacted as Section 1367. 
+
+
+The House Judiciary Committee Report on H.R. 5381 
+commences by stating that “[t]he purpose of H.R. 5381 is to 
+implement several of the more noncontroversial 
+recommendations of the Federal Courts Study Committee.” 
+H.R. Rep. No. 101-734, at 15 (1990), reprinted in 1990 
+U.S.C.C.A.N. 6860, 6861; see also id. at 16, 1990 U.S.C.C.A.N. 
+
+
+28 
+
+
+at 6862 (“The core of H.R. 5381 is Title I, which implements a 
+number of salutary, but essentially noncontroversial 
+recommendations of the Federal Courts Study Committee.”). 
+The Report describes the reforms implemented by the statute 
+as “modest proposals that, but for the work of the Federal Courts 
+Study Committee, might not have come to the attention of 
+Congress at all.” H.R. Rep. No. 101-734, at 15, 1990 
+U.S.C.C.A.N. at 6861. 
+
+
+The section-by-section analysis states that section 114 
+“implements a recommendation of the Federal Courts Study 
+Committee.” Jd. at 27, 1990 U.S.C.C.A.N. at 6873. The report 
+describes the advantages of pendent and ancillary jurisdiction 
+in promoting the efficient administration of justice, but notes 
+that “[rjecently, however, in Finley v. United States, 109 S. Ct. 
+2003 (1989) [490 U.S. 545 (1989)], the Supreme Court cast 
+substantial doubt on the authority of the federal courts to hear 
+some claims within supplemental jurisdiction.” Jd. at 28, 1990 
+U.S.C.C.A.N. at 6874. The Report further notes that the rationale 
+of Finley “threatens to eliminate other previously accepted forms 
+of supplemental jurisdiction” and cites as an example a recently 
+decided district court diversity case dismissing, due to Finley, a 
+defendant’s impleader claim against a non-diverse third party. 
+See id. at 28 & n.14, 1990 U.S.C.C.A.N. at 6874 (citing Aeta 
+Cas. & Sur. Co. v. Spartan Mechanical Corp., 738 F. Supp. 664 
+(E.D.N.Y. 1990)). The Report concludes that legislation is 
+necessary “to provide the federal courts with statutory authority 
+to hear supplemental claims,” id. at 28, 1990 U.S.C.C.A.N. at 
+6874, and describes Section 1367 as follows: 
+
+
+This section would authorize jurisdiction in a case 
+like Finley, as well as essentially restore the pre- 
+Finley understandings of the authorization for and 
+limits on other forms of supplemental jurisdiction. 
+In federal question cases, it broadly authorizes the 
+district courts to exercise supplemental jurisdiction 
+over additional claims, including claims involving 
+the joinder of additional parties. Jn diversity cases, 
+
+
+29 
+
+
+the district courts may exercise supplemental 
+jurisdiction, except when doing so would be 
+inconsistent with the jurisdictional requirements of 
+the diversity statute. In both cases, the district courts, 
+as under current law, would have discretion to 
+decline supplemental jurisdiction in appropriate 
+circumstances. 
+
+
+Subsection 114(a) generally authorizes the district 
+court to exercise jurisdiction over a supplemental 
+claim whenever it forms part of the same 
+constitutional case or controversy as the claim or 
+claims that provide the basis of the district court’s 
+Original jurisdiction. [n.15] In providing for 
+supplemental jurisdiction over claims involving the 
+addition of parties, subsection (a) explicitly fills the 
+statutory gap noted in Finley v. United States. 
+
+
+Subsection 114(b) prohibits a district court in a case 
+over which it has jurisdiction founded solely on the 
+general diversity provision, 28 U.S.C. § 1332, from 
+exercising supplemental jurisdiction in specified 
+circumstances. [n.1€] In diversity-only actions the 
+district courts may not hear plaintiffs’ supplemental 
+claims when exercising supplemental jurisdiction 
+would encourage plaintiffs to evade the jurisdictional 
+requirement of 28 U.S.C. § 1332 by the simple 
+expedient of naming initially only those defendants 
+whose joinder satisfies section 1332’s requirements 
+and Jater adding claims not within original federal 
+jurisdiction against other defendants who have 
+intervened or been joined on a supplemental basis. 
+In accord with case law, the subsection also prohibits 
+the joinder or intervention of persons as plaintiffs if 
+adding them is inconsistent with section 1332’s 
+requirements. The section is not intended to affect 
+the jurisdictional requirements of 28 U.S.C. § 1332 
+
+
+30 
+
+
+in diversity-only class actions, as those requirements 
+were interpreted prior to Finley. [n.17] 
+
+
+n.15 In so doing, subsection (a) codifies the scope 
+of supplemental jurisdiction first articulated by the 
+Supreme Court in United Mine Workers v. Gibbs, 
+383 U.S. 715 (1966). 
+
+
+n.16 The net effect of subsection (b) is to implement 
+the principal rationale of Owen Equipment & 
+Erection Co. v. Kroger, 437 U.S. 365, 57 L. Ed. 2d 
+274, 98 S. Ct. 2396 (1978). 
+
+
+n.17 See Supreme Tribe of Ben Hur v Cauble, 255 
+U.S. 356, 65 L. Ed. 673, 41 S. Ct. 338 (1921); Zahn 
+v. International Paper Co., 414 U.S. 291, 38 L. Ed. 
+2d 511, 94 S. Ct. 505 (1973). 
+
+
+Id. at 28-29, 1990 U.S.C.C.A.N. at 6874-75 (emphasis added). 
+The Report notes that Section 1367(b) does make “one small 
+change in pre-Finley practice,” i.e., excluding Rule 24(a) 
+intervenors to the same extent as those sought to be joined as 
+plaintiffs under Rule 19. Jd. at 29, 1990 L'.S.C.C.A.N. at 6875."° 
+The House report was adopted by the Senate Judiciary 
+Committee in its consideration of the bill. See 136 Cong. Rec. 
+$17580-81 (daily ed. Oct. 27, 1990). Section 114 was enacted 
+as section 310 of the Judicial Improvements Act of 1990. 
+See Pub. L. No. 101-650, 104 Stat. 5089. 
+
+
+There is no legislative history suggesting Congress was 
+undertaking a major change in the rules of original or 
+supplemental jurisdiction, nor were any comments made 
+reflecting a belief that the revised version of the supplemental 
+jurisdiction provision would overrule Zahn or other cases 
+
+
+10. The Report contains a typographical error in which Rule 24(a) 
+is written as “Rule 23(a).” In the context of a discussion of intervention 
+and given the actual language of Section 1367(b) prohibiting Rule 19 
+joinder and Rule 24 intervention in the same phrase, the reference in 
+the Report to Rule 23(a) must have been a typographical error. 
+
+
+31 
+
+
+governing the basic rules of original jurisdiction. Indeed, there 
+is no other legislative history at all. 
+
+
+Thus, the legislative history is clear that Congress: 
+(1) intended Section 1367 to leave the matter-in-controversy 
+rule intact, (2) intended to retain the other original jurisdiction 
+requirements of Section 1332 (such as the complete diversity 
+requirement), (3) intended to distinguish, as case law had in the 
+past, between federal question and diversity cases insofar as 
+the addition of supplemental parties and claims was concerned, 
+(4) intended Section 1367(b) to prevent certain joinder and 
+intervention maneuvers made subsequent to the filing of the 
+complaint, and (5) intended to codify pre-Finley law except 
+insofar as Rule 24(a) intervention was concerned.'! 
+
+
+This legislative history should be regarded as compelling 
+evidence of congressional intent, for three reasons. First, it is 
+entirely one-sided. There is no need for this Court to decide 
+which legislator’s statements it will credit, or to compare varying 
+analyses of the bill created by differing committees. Second, 
+the only legislative history that must be consulted are committee 
+reports, which are an authoritative source of congressional intent 
+when reference to legislative history is appropriate. See Garcia 
+v. United States, 469 U.S. 70, 76 (1984) (“In surveying 
+legislative history we have repeatedly stated that the authoritative 
+source for finding the Legislature’s intent lies in the Committee 
+Reports on the bill, which ‘represents the considered and 
+
+
+11. Both the Tenth and Third Circuits noted Congress’s clear intent 
+not to overrule Zahn and to fashion subsection (b) so as to prevent 
+certain post-complaint maneuvers that would be inconsistent with the 
+original jurisdiction requirements of Section 1332. See Leonhardt v. 
+Western Sugar Co., 160 F.3d 631, 640-41 (10th Cir. 1998); Meritcare, 
+166 F.3d at 222. The Fifth Circuit appeared to agree that Congress 
+intended to leave Zahn intact. Pet. App. 87a. Apparently the only cases 
+to the contrary are ones that mistakenly failed to understand that the 
+Study Committee had rejected the subcommittee’s proposal to overrule 
+Zahn. See Meritcare, 166 F.3d at 219 n.4 (citing district court cases). 
+
+
+<email 
+
+
+32 
+
+
+collective understanding of those Congressmen involved in 
+drafting and studying the proposed legislation.’ ”) (quoting 
+Zuber v. Allen, 396 U.S. 168, 186 (1969)). Third, both the House 
+of Representatives and the Senate “agreed on the pertinent 
+language” in the committee reports. Leonhardt, 160 F.3d at 641, 
+fn. 9. All three of these characteristics lessen the danger that 
+the legislative history may reflect the will of one or only a 
+handful of legislators, and make it highly probable that the 
+legislative history accurately reflects the intent of Congress in 
+passing Section 1367. 
+
+
+B. The Absence of Any Reference In The Legislative 
+History Of Section 1367 To Overruling The Matter- 
+In-Controversy Rule Is Further Evidence That 
+Congress Did Not Intend To Do So. 
+
+
+The legislative history of Section 1367 makes Congress's 
+intention clear, not only by what it says, but also by what it 
+omits. The legislative history is absolutely devoid of any 
+statement indicating that Congress even considered abrogating 
+the matter-in-controversy rule. The rule is so well-established 
+in this Court’s jurisprudence that if Congress had intended for 
+Section 1367 to change the rule “some express statement of 
+that intention would surely have appeared” either in the statute 
+itself or in its legislative history. Zahn, 414 U.S. at 302. But, as 
+in Zahn, “we find not a trace to this effect.” Jd. 
+
+
+The complete absence of any congressional history 
+remotely suggesting that Congress meant to alter the matter-in- 
+controversy rule is strong evidence that Congress did not intend 
+such a sweeping change in jurisdictional law. See American 
+Hosp. Ass’n v. N.L.R.B., 499 U.S. 606, 613-14 (1991) (“If this 
+amendment had been intended to place the important limitation 
+on the scope of the Board’s rulemaking powers that petitioner 
+suggests, we would expect to find some expression of that intent 
+in the legislative history.”). Congress generally does not effect 
+sweeping changes in the law without any comment from 
+objectors: 
+
+
+33 
+
+
+In a case where the construction of legislative 
+language such as this makes so sweeping and so 
+relatively unorthodox a change as that made here, 
+I think judges as well as detectives may take into 
+consideration the fact that a watchdog did not bark 
+in the night. 
+
+
+Harrison v. PPG Indus., Inc., 446 U.S. 578, 602 (1980) 
+(Rehnquist, J., dissenting), cited in American Hosp. Ass'n, 499 
+U.S. at 614; see also Edmonds v. Compagnie Generale 
+Transatlantique, 443 U.S. 256, 267 (1979) (“At the very least, 
+one would expect some hint of a purpose to work such a change, 
+but there was none.”’). Here, congressional silence is deafening: 
+had Congress intended to overrule case law as fundamental as 
+Strawbridge and Zahn, surely such a purpose would have drawn 
+some comment in the legislative process. 
+
+
+V. CONGRESSIONAL INTENT TO MAINTAIN 
+THE-MATTER-IN-CONTROVERSY RULE IS 
+CONTROLLING. 
+
+
+Given the language and structure of Section 1367, as well 
+as its legislative history, it is indisputable that to read Section 
+1367 to overturn the matter-in-controversy rule would flout 
+congressional intent. The purpose of statutory construction is 
+to determine Congress’s intent. Regions Hosp. v. Shalala, 522 
+U.S. 448, 457 (1998) (“If, by employing traditional tools of 
+statutory construction, we determine that Congress’s intent is 
+clear, that is the end of the matter.”) (quotation and citations 
+omitted); Chevron v. Natural Resources Def. Council, 467 U.S. 
+837, 842 n.9 (1984) (“If a court, employing traditional tools of 
+statutory construction, ascertains that Congress had an intention 
+on the precise question at issue, that intention is the law and 
+must be given effect.”). 
+
+
+Usually the language of the statute provides the most 
+reliable evidence of Congress’s intent and for that reason 
+statutory construction begins with the words of the statute. 
+Holloway v. United States, 526 U.S. 1, 119 S. Ct. 966, 969 
+
+
+34 
+
+
+(1999). As a result, in general, where the language of the statute 
+conveys a plain meaning, that meaning controls and statutory 
+construction is complete. United States v. Ron Pair Enters., Inc., 
+489 U.S. 235, 241 (1989). 
+
+
+However, where there is no plain meaning, as a result of 
+ambiguity or a statutory scheme that is not “coherent and 
+consistent,” the statutory language is not dispositive. Robinson 
+v. Shell Oil Co., 519 U.S. 337, 340 (1997) (quotation omitted). 
+In such cases, the Court may look to legislative history and 
+other evidence of congressional intent. See Concrete Pipe & 
+Prods. of Cal,. Inc. v. Construction Laborers Pension Trust for 
+S. Cal., 508 U.S. 602, 627 (1993) (stating that statutory 
+incoherence or ambiguity justifies reference to legislative 
+history); see also Wisconsin Pub. Intervenor v. Mortier, 501 
+U.S. 597, 608-609, 610 n.4 (holding that judicial inquiry benefits 
+by reference to legislative history and was proper in case where 
+Statutory scheme was “unclear” and suffered from “textual 
+inadequacies”); Florida Power & Light Co. v. Lorion, 470 U.S. 
+729, 737 (1985). To determine plainness or ambiguity, the Court 
+refers to “the language itself, the specific context in which that 
+language is used, and the broader context of the statute as a 
+whole.” Robinson, 519 U.S. at 341; see also Brown v. Gardner, 
+513 U.S. 115, 118 (1994) (employing “textual cross-reference” 
+to other portions of same statutory scheme to determine 
+meaning) (quotation omitted). A phrase that is unambiguous is 
+one that “has a clearly accepted meaning in both legislative and 
+judicial practice.” West Va. Univ. Hosps, 499 U.S. at 98. 
+
+
+Further, the language of a statute is not dispositive where, 
+applied literally, it would produce significant “anomalies,” 
+X-Citement Video, 513 U.S. at 68, or results that are “absurd,” 
+id. at 69, or “odd,” id.; Green v. Bock Laundry Machine Co., 
+490: U.S. 504, 509-10 (1989). In X-Citement Video, a literal 
+reading of the statute would have criminalized UPS drivers and 
+other innocents who knowingly transported materials despite 
+having no knowledge that the materials were pornographic. The 
+
+
+35 
+
+
+Court thus looked to legislative history and held that the plain 
+meaning did not control. 513 U.S. at 73-79. In Green, a literal 
+reading of the language of Federal Rule of Evidence 609 would 
+have denied a civil plaintiff the mght to impeach the testimony 
+of his adversary while granting that right to a civil defendant. 
+Green, 490 U.S. at 509. The Court concluded that “[njo matter 
+how plain the text of the Rule may be” such an interpretation 
+could not be accepted given that it would “compel an odd result.” 
+Id. at 509-510; see also id. at 527 (Scalia, J., concurring in the 
+judgment) (“I think it entirely appropriate to consult all public 
+materials, including the background of Rule 609(a)( 1) and the 
+legislative history of its adoption, to verify that what seems to 
+us an unthinkable disposition . . . was indeed unthought of, and 
+thus to justify a departure from the ordinary meaning. . . .”). 
+Here, even if the Fifth Circuit’s interpretation of Section 
+1367(a) is given some credence, the most that would be 
+established is that the statute is susceptible of different meanings, 
+i.e., that it is ambiguous. Such an ambiguity would, in turn, 
+militate reference to legislative history, as the vast majority of 
+lower courts have done. See, e.g., Meritcare, 166 F.3d at 221. 
+
+
+Moreover, even if the Fifth Circuit’s reading of the statute 
+were the only possible meaning of Section 1367's language, 
+which surely it is not, it would simply produce odd and absurd 
+results. Here, as described in Part [11.B, supra, the Fifth Circuit’s 
+reading of the statute produces serious anomalies and results 
+that can only be characterized as odd and absurd, most notably 
+by allowing plaintiffs with jurisdictionally-deficient claims to 
+join together in filing a complaint as long as the claims of one 
+plaintiff are jurisdictionally sufficient while prohibiting post- 
+filing joinder and intervention tactics that would accomplish 
+the same result. See supra, pp. 23 -24. This bizarre result would 
+justify reference to the legislative history, X-Citement Video, 
+513 U.S. at 73-79, which clearly demonstrates Congress’s intent 
+
+
+36 
+
+
+to maintain the rules of original jurisdiction in diversity cases, 
+including Zahn.'? 
+
+
+Finally, even ignoring such absurd and odd results, it is 
+fundamental that where the text of a statute, literally applied, 
+would “produce a result demonstrably at odds with the intentions 
+of its drafters” then “the intention of the drafters, rather than 
+the strict language, controls.” Ron Pair, 489 U.S. at 242; 
+Ardestani v. INS, 502 U.S. 129, 135-36 (1991) (same); INS v- 
+Cardoza-Fonseca, 480 U.S. 421, 432 n.12 (1987) (same); Griffin 
+v. Oceanic Contractors, Inc., 458 U.S. 564, 571 (1982) (same); 
+Consumer Prod. Safety Comm'n v. GTE Sylvania, Inc., 447 U.S. 
+102, 108 (1980) (same). Clearly, the Fifth Circuit’s reading of 
+Section 1367 is at odds with the intentions of the drafters of 
+Section 1367. The House Committee responsible for drafting 
+the bill specifically and clearly stated that Zahn would be 
+preserved and the responsible Senate Committee adopted that 
+statement. No reasonable observer possibly could conclude that 
+Congress intended Section 1367 to overrule Zahn. Ignoring the 
+clear congressional intent, particularly when the language of a 
+Statute easily can be read as consistent with that intent, would 
+disrespect Congress’s role in our system of government. 
+As Judge Pollak observed: 
+
+
+To retain this case in this court is to say to Congress: 
+“We know what you meant to say, but you didn’t 
+quite say it. So the message from us in the judicial 
+branch to you in the legislative branch is ‘Gotcha! 
+And better luck next time.’ ” Such a message is not 
+required by the separation of powers. Nor is it in 
+
+
+12. The Abbott court wrongly applied the absurdity rule by 
+narrowly looking only at whether reversing the result in Zahn would be 
+absurd. Pet. App. 88-89a. The proper inquiry examines whether the 
+reading of the statute produces any absurd results as applied to factual 
+scenarios beyond that sub judice. See X-Citement Video, 513 U.S. at 
+468-69 (absurdity resulted not from literal reading applied to the facts 
+sub judice but literal reading applied to other, foreseeable, situations). 
+
+
+37 
+
+
+harmony with the fact that Congress and the courts, 
+however different their respective roles, are parts of 
+a single government. 
+
+
+Russ v. State Farm Mut. Avto Ins. Co., 961 F. Supp. 808, 820 
+(E.D. Pa. 1997). Congress did not intend Section 1367 to affect 
+the matter-in-controversy rule as stated in Zahn, and the Fifth 
+Circuit’s decision ignoring this intent should be reversed. 
+
+
+CONCLUSION 
+The judgment of the Court of Appeals should be reversed. 
+Respectfully submitted, 
+
+
+MICHAEL D. HAUSFELD 
+
+Counsel of Record 
+
+DanieL A. SMALL 
+
+MATTHEW F. Pawa 
+
+CHARLES E. TOMPKINS 
+
+COHEN, MILSTEIN, HAUSFELD 
+& Toit, P.L.L.C. 
+
+1100 New York Avenue, N.W. 
+
+Suite 500 - West Tower 
+
+Washington, D.C. 20005 
+
+(202) 408-4600 
+
+
+SAMUEL D. HEINS 
+
+Eric L. OLSon 
+
+DANIEL E. GUSTAFSON 
+
+KENT M. WILLIAMS 
+
+Hews Mitts & Oxson, P.L.C. 
+700 Northstar East 
+
+608 Second Avenue S. 
+Minneapolis, MN 55402 
+(612) 338-4605 
+
+
+38 
+
+
+PaTRICK W. PENDLEY 
+
+A PROFESSIONAL LAW CORPORATION 
+58005 Meriam Street 
+
+Post Office Drawer 71 
+Plaquemine, LA 70764 
+
+(504) 687-6396 
+
+
+GorDON BALL 
+
+Law OfFices OF GORDON BALL 
+750 NationsBank Center 
+
+550 Main Avenue 
+
+Knoxville, TN 37902 
+
+(615) 525-7028 
+
+
+Howarpb J. SEDRAN 
+
+LevIN, FISHBEIN SEDRAN 
+& BERMAN 
+
+320 Walnut Street 
+
+Suite 600 
+
+Philadelphia, PA 19106 
+
+(215) 592-1500 
+
+
+Don BARRETT 
+
+BaRRETT Law Offices 
+404 Court Square North 
+Post Office Drawer 631 
+Lexington, MS 39095 
+(601) 834-2376 
+
+
+Attorneys for Petitioners 
+
+

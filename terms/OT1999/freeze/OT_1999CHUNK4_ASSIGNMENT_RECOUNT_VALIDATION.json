@@ -1,0 +1,206 @@
+{
+  "method": "Actual prior public opinion author tables; effective date then case-name alphabetical order. No Git queried.",
+  "assignments": [
+    {
+      "case": "Adams v. Commissioner of Internal Revenue",
+      "date": "2000-03-06",
+      "expected_counts": {
+        "Kennedy": 4,
+        "Souter": 4,
+        "Breyer": 3,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Stevens": 3,
+        "O'Connor": 4,
+        "Stone-Zsela": 3,
+        "Scalia": 3
+      },
+      "statement_matches": true,
+      "last_counted_event": "United States v. Johnson",
+      "actual_lead_authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "case": "Carter v. City of Philadelphia",
+      "date": "2000-03-13",
+      "expected_counts": {
+        "Kennedy": 5,
+        "Souter": 4,
+        "Breyer": 3,
+        "Thomas": 3,
+        "Ginsburg": 4,
+        "Stevens": 3,
+        "O'Connor": 5,
+        "Stone-Zsela": 3,
+        "Scalia": 3
+      },
+      "statement_matches": true,
+      "last_counted_event": "United States v. Locke / International Association of Independent Tanker Owners v. Locke",
+      "actual_lead_authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "case": "Cortez Byrd Chips, Inc. v. Bill Harbert Construction Co.",
+      "date": "2000-03-21",
+      "expected_counts": {
+        "Kennedy": 5,
+        "Souter": 4,
+        "Breyer": 3,
+        "Thomas": 3,
+        "Ginsburg": 5,
+        "Stevens": 3,
+        "O'Connor": 5,
+        "Stone-Zsela": 3,
+        "Scalia": 3
+      },
+      "statement_matches": true,
+      "last_counted_event": "Carter v. City of Philadelphia",
+      "actual_lead_authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "case": "FDA v. Brown & Williamson Tobacco Corp.",
+      "date": "2000-03-21",
+      "expected_counts": {
+        "Kennedy": 5,
+        "Souter": 4,
+        "Breyer": 4,
+        "Thomas": 3,
+        "Ginsburg": 5,
+        "Stevens": 3,
+        "O'Connor": 5,
+        "Stone-Zsela": 3,
+        "Scalia": 3
+      },
+      "statement_matches": true,
+      "last_counted_event": "Cortez Byrd Chips, Inc. v. Bill Harbert Construction Co.",
+      "actual_lead_authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "case": "Board of Regents of the University of Wisconsin System v. Southworth",
+      "date": "2000-03-22",
+      "expected_counts": {
+        "Kennedy": 5,
+        "Souter": 4,
+        "Breyer": 4,
+        "Thomas": 3,
+        "Ginsburg": 5,
+        "Stevens": 3,
+        "O'Connor": 5,
+        "Stone-Zsela": 4,
+        "Scalia": 3
+      },
+      "statement_matches": true,
+      "last_counted_event": "FDA v. Brown & Williamson Tobacco Corp.",
+      "actual_lead_authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "case": "Wal-Mart Stores, Inc. v. Samara Brothers, Inc.",
+      "date": "2000-03-22",
+      "expected_counts": {
+        "Kennedy": 5,
+        "Souter": 4,
+        "Breyer": 4,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Stevens": 3,
+        "O'Connor": 5,
+        "Stone-Zsela": 4,
+        "Scalia": 3
+      },
+      "statement_matches": true,
+      "last_counted_event": "Board of Regents of the University of Wisconsin System v. Southworth",
+      "actual_lead_authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "case": "Florida v. J. L.",
+      "date": "2000-03-28",
+      "expected_counts": {
+        "Kennedy": 5,
+        "Souter": 4,
+        "Breyer": 4,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Stevens": 3,
+        "O'Connor": 5,
+        "Stone-Zsela": 4,
+        "Scalia": 4
+      },
+      "statement_matches": true,
+      "last_counted_event": "Wal-Mart Stores, Inc. v. Samara Brothers, Inc.",
+      "actual_lead_authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "case": "Garner v. Jones",
+      "date": "2000-03-28",
+      "expected_counts": {
+        "Kennedy": 5,
+        "Souter": 4,
+        "Breyer": 4,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Stevens": 4,
+        "O'Connor": 5,
+        "Stone-Zsela": 4,
+        "Scalia": 4
+      },
+      "statement_matches": true,
+      "last_counted_event": "Florida v. J. L.",
+      "actual_lead_authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "case": "City of Erie v. Pap's A.M.",
+      "date": "2000-03-29",
+      "expected_counts": {
+        "Kennedy": 5,
+        "Souter": 4,
+        "Breyer": 4,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Stevens": 4,
+        "O'Connor": 6,
+        "Stone-Zsela": 4,
+        "Scalia": 4
+      },
+      "statement_matches": true,
+      "last_counted_event": "Garner v. Jones",
+      "actual_lead_authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "case": "Powell v. Ridge",
+      "date": "2000-04-03",
+      "expected_counts": {
+        "Kennedy": 5,
+        "Souter": 4,
+        "Breyer": 4,
+        "Thomas": 4,
+        "Ginsburg": 5,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Stone-Zsela": 4,
+        "Scalia": 4
+      },
+      "statement_matches": true,
+      "last_counted_event": "City of Erie v. Pap's A.M.",
+      "actual_lead_authors": [
+        "Thomas"
+      ]
+    }
+  ],
+  "errors": []
+}

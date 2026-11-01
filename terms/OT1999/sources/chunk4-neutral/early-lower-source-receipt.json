@@ -1,0 +1,26 @@
+[
+  {
+    "case": "Carter",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/181/181.F3d.339.98-1581.html",
+    "text": "Carter-lower.txt",
+    "characters": 72229
+  },
+  {
+    "case": "Cortez",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/169/169.F3d.693.98-6404.html",
+    "text": "Cortez-lower.txt",
+    "characters": 5894
+  },
+  {
+    "case": "FDA",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/153/153.F3d.155.97-1605.97-1614.97-1606.97-1581.97-1604.html",
+    "text": "FDA-lower.txt",
+    "characters": 122842
+  },
+  {
+    "case": "Southworth",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/151/151.F3d.717.97-3548.97-3510.html",
+    "text": "Southworth-lower.txt",
+    "characters": 75756
+  }
+]

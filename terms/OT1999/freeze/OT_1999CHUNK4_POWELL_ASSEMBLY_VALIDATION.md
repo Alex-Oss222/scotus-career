@@ -1,0 +1,15 @@
+# Powell assembly validation
+
+Erie was complete and locally validated before the Powell gate opened; Free and Browne remain explicitly stopped with no Records or counts. The form and both distinct governing propositions were fixed before the fresh count. The actual opinion tables, including Erie's one Stevens lead, yielded the saved count. Thomas is eligible for the complete opinion and within the balance pool; his actual Bruneau authorship supplies the stated fit advantage. A separate independent recount matches the assignment statement.
+
+The final five Court-opinion supporters and four dissenters reconcile to the separate 5–4 reversals on Counts I and II. Direct implied action and individual-right creation under section 1983 remain distinct; the Court does not use administrative foreclosure as its ground or treat the first count's failure as disposing of the second. All eight frozen Associate commitments remain intact. Stone joins throughout within his approved core, without fallback or inferred partial assent.
+
+There is no separate pleaded section 601 count. The remand preserves only genuine remaining procedural possibilities and neither creates an intentional-discrimination claim nor guarantees amendment, discovery or reopening. The statutory agency-enforcement conditions, regulation's validity reservation, and individual-right limits remain. The lack of a historical Supreme Court Powell merits decision supplies no lineup or departure inference.
+
+The four labels, eleven blocks, exact internal/public Holdings and topology identities, named vote arithmetic, resolved authors, explanation ceilings, public-workflow exclusion and every local source link pass the accompanying checks. The public-law relevance review found no intervening rule changing these Title VI questions. No new substantive source or changed commitment required fresh modeling.
+
+During initial output, a helper variable temporarily used the source appendix's basename as the new Record filename within records/. Before validation or completion, the new Powell content was moved to the intended natural-key filename after confirming its identity and the destination boundary. The actual preparation/source appendix was untouched, no preexisting Record was overwritten, and no wrongly named Record or placeholder remains. The helper was corrected. This was a file-naming repair with no adjudicative content change.
+
+Initial generic validation checks were refined without changing the Record: heading comparison now reads universal newlines rather than treating Windows carriage returns as heading content, and the actual statutory presidential-approval requirement is not mislabeled workflow approval. The complete Record and Public Projection hashes retain the actual saved bytes.
+
+The Record is durably preserved as `../records/powell-v-ridge_merits_2000-04-03.md`. No Git command was run; repository verification and commitment remain with the operator. Global workspace, generated Render Input and term-check integration remain with the parent and are not represented as completed here.

@@ -1,0 +1,55 @@
+169 F.3d 693
+169 F.3d 693
+12 Fla. L. Weekly Fed. C 565
+BILL HARBERT CONSTRUCTION COMPANY, A DIVISION OF BILL
+HARBERT INTERNATIONAL, INC.,
+Plaintiff-Counter-Defendant, Appellee,
+v.
+CORTEZ BYRD CHIPS, INC., Defendant-Counter-Claimant, Appellant.
+No. 98-6404
+Non-Argument Calendar.
+United States Court of Appeals,
+Eleventh Circuit.
+March 9, 1999.
+John F. Hawkins, John L. Maxey, II, Maxey, Wann & Begley, PLLC, Jackson, MS, for Defendant-Counter-Claimant, Appellant.
+Edward P. Meyerson, Frederick M. Thurman, Jr., Susan S. Wagner, Berkowitz, Lefkovits, Ison & Kushner, Birmingham, AL, for Plaintiff-Counter-Defendant, Appellee.
+Appeal from the United States District Court for the Northern District of Alabama.
+Before TJOFLAT and EDMONDSON, Circuit Judges, and RONEY, Senior Circuit Judge.
+PER CURIAM:
+1
+This case arises out of a dispute over an arbitration award that was confirmed by the district court for the Northern District of Alabama.  The sole issue on appeal is whether venue was proper in that court.  We affirm.
+2
+Plaintiff, Bill Harbert Construction Company, entered into an agreement to build a wood chip mill for defendant, Cortez Byrd Chips, Inc., in Brookhaven, Mississippi.  The agreement provided for arbitration of "[a]ll claims or disputes between the contractor and the owner arising out of or relating to the contract, or the breach thereof...."  While the agreement expressly stated that Mississippi law was applicable, it did not provide for jurisdiction in a particular court, nor did it specify venue for confirmation or vacatur/modification of an award.  It merely stated that "judgment may be entered upon [the arbitration award] in accordance with applicable law in any court having jurisdiction thereof."
+3
+After a dispute arose between the two, Harbert Construction filed a demand for arbitration with the Atlanta, Georgia office of the American Arbitration Association.  An arbitration panel conducted an arbitration proceeding in Birmingham, Alabama from Tuesday, November 18, 1997 through Friday, November 21, 1997.  On December 20, 1997, the arbitrators rendered their award in favor of Harbert Construction.
+4
+Byrd filed a complaint to vacate and/or modify the arbitration award in the United States District Court for the Southern District of Mississippi on January 13, 1998.  On January 20, 1998, Harbert filed this action in the Northern District of Alabama to confirm the arbitration award on January 20, 1998.  Byrd filed an answer, counterclaim and motion to dismiss, transfer or stay this action.  The district court denied Byrd's motion, holding that venue was properly in the Alabama district court, and entered final judgment in favor of Harbert for the net sum of $274,256.90 plus costs and interest.
+5
+On appeal, Byrd alleges the district court erred in denying his motion because according to a recent Fifth Circuit decision, venue is permissive and is proper in the district court in Mississippi because he filed his action there first.  We review the venue question de novo.
+6
+The Federal Arbitration Act states that a motion to confirm an arbitration award
+1
+or to vacate an award
+2
+"may" be made to the United States court in and for the district within which such award was made.  9 U.S.C. §§ 9, 10.
+7
+In determining the propriety of its venue, the district court relied on our decision in Naples v. Prepakt Concrete Co., 490 F.2d 182, 184 (5th Cir.), cert. denied, 419 U.S. 843, 95 S.Ct. 76, 42 L.Ed.2d 71 (1974).  In Naples, this Court held that the Act's venue provision places venue exclusively within the district court in and for the district within which the arbitration award was made.  Byrd asks us to follow instead the holding of a more recent Fifth Circuit decision, Sutter Corp. v. P & P Indus., Inc., 125 F.3d 914 (5th Cir.1997), in which that court held venue under §§ 9 and 10 to be permissive
+3
+.  Although the Sutter Corp. opinion indicated that Naples v. Prepakt Concrete Co. did not decide this issue, it appears to us that it controls this panel's decision:
+8
+[I]n view of § 9's command, and for reasons of judicial restraint and comity, the district judge [in Florida] should have declined to enjoin the confirmation proceedings in the Ohio district court [district within which the award was made].
+9
+See Naples, 490 F.2d at 184.
+10
+We are bound to follow this Court's prior precedent.  Fifth Circuit decisions prior to October 1, 1981 are binding precedent on this Court, but not after that date 1981.  See Bonner v. City of Prichard, 661 F.2d 1206, 1209 (11th Cir.1981).  Accordingly, the district court's decision is due to be affirmed.
+11
+AFFIRMED.
+1
+If no court is specified in the arbitration agreement, an application for an order confirming the award "may be made to the United States court in and for the district within which such award was made."  9 U.S.C. § 9
+2
+Under certain circumstances, "the United States court in and for the district wherein the award was made may make an order vacating the award upon the application of any party to the arbitration ..." 9 U.S.C. § 10
+3
+There is a significant split of authority in the U.S. Courts of appeal as to whether these venue provisions are permissive or mandatory.  See, e.g., In re VMS Securities Litigation, 21 F.3d 139 (7th Cir.1994) (§ 10 permissive);  Sunshine Beauty Supplies, Inc. v. United States District Court for Central Dist. of Cal., 872 F.2d 310 (9th Cir.1989) (§ 9 mandatory);  Smiga v. Dean Witter Reynolds, Inc., 766 F.2d 698 (2d Cir.1985) (§ 9 permissive), cert. denied, 475 U.S. 1067, 106 S.Ct. 1381, 89 L.Ed.2d 607 (1986);  Central Valley Typographical Union No. 46 v. McClatchy Newspapers, 762 F.2d 741 (9th Cir.1985) (§ 10 mandatory);  Island Creek Coal Sales Co. v. City of Gainesville, Florida, 729 F.2d 1046 (6th Cir.1984) (§ 9 mandatory).  The Supreme Court has never resolved this conflict
+CC∅
+| Transformed by
+Public.Resource.Org

@@ -1,0 +1,5 @@
+# Adams — preassignment form decision
+
+One signed lead opinion after plenary submission addresses the granted RFRA question. Its governing propositions retain the statutory burden sequence, require application-specific consideration of collection, require separate consideration of the identified failure-to-file and estimated-tax additions, and confine the remedy to RFRA vacatur and remand. The common remand rationale is supported by O'Connor, Scalia, Kennedy, Souter and Thomas. Stone-Zsela, Stevens, Ginsburg and Breyer would affirm, on grounds that must be preserved at their supported scope. Independent Code and constitutional grounds are ungranted and remain undisturbed without a new holding. There is no fractured controlling rationale, consolidation or division of lead authorship.
+
+This form, the governing propositions and the separate-component remedy are selected on the case's legal grounds before the fresh assignment count or author selection. Counts cannot alter them. No material non-Stone commitment changes.

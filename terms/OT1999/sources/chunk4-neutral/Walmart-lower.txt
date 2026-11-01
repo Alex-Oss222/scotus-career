@@ -1,0 +1,564 @@
+SAMARA BROTHERS, INC., Plaintiff-Appellee, v. WAL-MART STORES, INC., Defendant-Appellant.
+Docket Nos. 97-7933(L), 97-9003(CON).
+United States Court of Appeals, Second Circuit.
+Argued June 9, 1998.
+Decided Dec. 28, 1998.
+*122
+William D. Coston, Washington, D.C. (Kenneth C. Bass, III, David M. Malone, B.L. Waite, Venable, Baetjer, Howard & Civ-iletti, LLP, Washington, D.C., of counsel), for Appellant Wal-Mart Stores,' Inc.
+Stuart M. Riback, New York, NY (Allen G. Reiter, Siller Wilk LLP, New York, NY, of counsel), for Appellee- Samara Brothers, Inc.
+BEFORE: NEWMAN and PARKER, Circuit Judges, and CARMAN
+*
+, Chief Judge, U.S.Ct. of Int’l Trade.
+*
+The Honorable Gregory W. Carman, Chief Judge of the United States Court of International Trade, sitting by designation.
+PARKER, Circuit Judge:
+Appellant Wal-Mart Stores, Inc. (“Wal-Mart”) appeals from a judgment of the United States District Court for the Southern District of New York (Denny Chin, Judge) entered July 17, 1997, after a jury trial, denying Wal-Mart’s Motion for Judgment as a Matter of Law on appellee Samara Brothers’ claims of violations of the Copyright Act,
+17 U.S.C. § 101
+et seq.,
+section 43(a) of the Lanham Act,
+15 U.S.C. § 1125
+(a), and New York deceptive trade and unfair competition laws. Wal-Mart also seeks a new trial claiming that the district court erred in its jury instructions.
+' I. BACKGROUND
+Samara is a manufacturer of children’s clothing. The core of Samara’s business is its line of spring/summer seersucker children’s garments. Wal-Mart is a national chain of retail stores which sells a variety of items, including children’s clothes. In 1995, Wal-Mart contracted with Judy-Philippine, Inc. (“JPI”) to have JPI manufacture for Wal-Mart a large quantity of children’s seersucker garments to be offered for sale under Wal-Mart’s house label, “Small Steps,” in the 1996 spring/summer season. The samples on which the Wal-Mart buyers’ orders of JPI garments were based were actually Samara garments. In other words, the Wal-Mart paperwork preparatory for placing an order bears photographs of the garments being ordered, and in many of those photographs the name “Samara” is readily discernible on the hangtags and/or neck labels of the garments.
+When JPI manufactured the clothes, it copied sixteen of Samara’s garments with some small modifications to produce the line of clothes required under its contract with Wal-Mart. Wal-Mart then sold these items in its stores under the “Small Steps” label. Samara holds copyright registrations on thir
+*123
+teen of the sixteen garments copied. Sales of these items generated over $1.15 million in gross profits for Wal-Mart during the 1996 selling season.
+In early June 1996, a buyer at J.C. Penney, one of a number of stores which sells Samara’s clothing under contract with Samara, called Samara’s offices to complain that she had seen Samara garments on sale at Wal-Mart for a retail price lower than J.C. Penney could charge under its contract with Samara. Samara advised the caller that it did not supply clothing to Wal-Mart. At that point, Samara representatives investigated the children’s clothes racks at Wal-Mart and other similar stores — K MART, Caldor, Hills and Goody’s — and determined that garments that appeared to be copies of Samara garments were being sold at each of the stores. Wal-Mart alone sold the JPI garments under its own house label. The other stores sold the garments under the JPI label, “Cutíes by Judy.”
+After sending unsuccessful cease and desist letters, Samara brought suit against the stores and JPI asserting claims for copyright infringement, trade dress infringement, violations of the New York consumer fraud statute and the New York common law of unfair competition. Wal-Mart asserted cross-claims against JPI for indemnification. JPI and all of the defendant stores except Wal-Mart settled with Samara.
+Samara’s claims against Wal-Mart proceeded to a week-long trial at the conclusion of which a jury found Wal-Mart liable on each of Samara’s four claims. The jury found that Wal-Mart had wilfully infringed Samara’s rights, awarding Samara $912,-856.77 on the copyright claims, $240,458.58 for the Lanham Act violation and $50 for the state law violations. Wal-Mart then moved for judgment as a matter of law and Samara moved for injunctive relief, enhancement of damages, an award of attorneys’ fees and prejudgment interest.
+The district court denied Wal-Mart’s motion, choosing to address by opinion the trade dress claim which the court stated was the most difficult issue in the case.
+See Samara Brothers, Inc., v. Judy-Philippine, Inc.,
+969 F.Supp. 895
+(S.D.N.Y.1997). The district court granted Samara’s request for injunc-tive relief, electing to draft its own injunction rather than accepting Samara’s proposed injunction. The district court awarded Samara attorneys’ fees of $275,000 and costs of $33,-196 based on the Lanham Act and pendent state law judgments but denied the motion for enhancement of damages and prejudgment interest.
+II. DISCUSSION
+On appeal, Wal-Mart asserts that the district court erred in the following four decisions: (1) failing to set aside the verdict on the Lanham Act claim; (2) refusing to give Wal-Mart’s requested jury instruction on labels in the clothes; (3) declining to find the state law claims preempted by the Copyright Act; and (4) rejecting the assertion that certain of Samara’s copyrights are invalid as a matter of law.
+A.
+Standards ofRevieiv
+With the exception of the jury instruction claim, all issues raised on appeal arise from the district court’s denial of WalMart’s Motion for Judgment as a Matter of Law. This Court reviews a district court’s denial of a Motion for Judgment as a Matter of Law
+“de novo
+and ... view[s] the evidence in a light most favorable to the non-movant, granting that party every reasonable inference that the jury might have drawn in its favor.”
+Schlaifer Nance & Co. v. Estate of Warhol,
+119 F.3d 91
+, 98 (2d Cir.1997). This Court “will set aside a jury’s verdict and award judgment as a matter of law only when the evidence is such that, without weighing the credibility of the witnesses or otherwise considering the weight of the evidence, there can be but one conclusion as to the verdict that reasonable jurors could have reached.”
+Id.
+(quotation and citations omitted). Judgment as a matter of law “is reserved for those rare occasions when there is such a complete absence of evidence supporting the verdict that the jury’s finding could only have been the result o[f] sheer surmise and conjecture.”
+George Basch Co. v. Blue Coral, Inc.,
+968 F.2d 1532
+, 1536 (2d Cir.1992)
+*124
+(alteration in original, quotation and citations omitted).
+Wal-Mart argues on appeal that we should not strictly observe this standard of review because the “trend” in intellectual property law is to reserve issues similar to the protectability of a claimant’s trade dress as a task for the court, not a jury, to decide. For this proposition, Wal-Mart cites
+Markman v. Westview Instruments, Inc.,
+517 U.S. 370
+,
+116 S.Ct. 1384
+,
+134 L.Ed.2d 577
+(1996). Without asking the Court to take the trade dress issue away from the jury, Wal-Mart seeks application by this Court of a lower level of deference for the jury’s verdict in light of the so-called “trend” created by
+Markman.
+We find no such “trend” reflected in the case law nor do we find any law to support enforcement of a more rigorous review of a jury verdict in a trade dress case. The Court in
+Markman
+held only that judges, not juries, are charged with construction of a patent, that is, deciding what the “words in the [patent] claim mean.”
+Id.
+at 374
+,
+116 S.Ct. 1384
+(quotation and citation omitted). The Court specifically noted, however, that “there is no dispute that infringement cases today must be tried to a jury, as their predecessors were more than two centuries ago.”
+Id.
+at 377
+,
+116 S.Ct. 1384
+. There is no language in
+Markman
+which would extend its holding to non-patent eases. As there is no written document to construe in a trade dress controversy, we see no reason to read
+Markman
+as impacting the jury’s role in those cases.
+Our sister circuits have also recognized the “fact sensitive” nature of the trade dress inquiry.
+See, e.g., AmBrit, Inc. v. Kraft, Inc.,
+812 F.2d 1531
+, 1535 (11th Cir.1986). Moreover, there is no reason, in our view, to lack confidence in the ability of a jury, when presented with a trade dress claim, to consider thoughtfully the evidence presented and to evaluate that evidence under the standards charged by the district court.
+1
+Our system relies on juries to perform these tasks even when the factual issues are challenging and subtle.
+As to the standard of review with respect to Wal-Mart’s jury instruction claim, this court has held that “[a] jury instruction is erroneous if it misleads the jury as to the correct legal standard or does not adequately inform the jury on the law. An erroneous instruction requires a new trial unless the error is harmless.”
+United States v. Masotto,
+73 F.3d 1233
+, 1238 (2d Cir.) (quotation and citations omitted),
+cert. denied,
+— U.S. -,
+117 S.Ct. 54
+,
+136 L.Ed.2d 18
+(1996).
+B.
+Lanham Act Claim
+Section 43(a) of the Lanham Act provides a cause of action against any person who:
+in connection with any goods ... or any container for goods, uses in commerce any word, term, name, symbol, or device, or any combination thereof, ... which ... is likely to cause confusion, or to cause mistake, or to deceive ... as to the origin, sponsorship, or approval of his or her goods ... by another person.
+15 U.S.C. § 1125
+(a). This Court has noted that the purpose of trade dress law is “to protect an owner of a dress in informing the public of the source of its products, without permitting the owner to exclude competition from functionally similar products.”
+Jeffrey Milstein, Inc. v. Greger, Lawlor, Roth, Inc.,
+58 F.3d 27
+, 33 (2d Cir.1995).
+To recover for trade dress infringement under Section 43(a), a plaintiff must prove two elements: (1) that its trade dress is protectable because (a) it is inherently distinctive or (b) it has acquired distinctiveness by achieving a “secondary meaning” in the marketplace; and (2) that there is a likelihood of confusion between its product and the defendant’s product.
+Fun-Damental Too, Ltd. v. Gemmy Indus. Corp.,
+111 F.3d 993
+, 999 (2d Cir.1997).
+Wal-Mart argues that as a matter of law Samara’s Section 43(a) claim fails for two reasons: (1) Samara’s clothes are not so “dis
+*125
+tinctive as to source” as to be entitled to trade dress protection, and (2) the goods sold by Wal-Mart did not create “confusion among consumers” as to the source of the goods. Samara answers that there was sufficient evidence in front of the jury that its line of seersucker children’s clothing is source-identifying in the designs and that the evidence showed that Wal-Mart’s wilful pirating of Samara’s designs constituted confusion in the marketplace as to the source of the goods. We agree with Samara that the jury’s trade dress verdict should be affirmed.
+1.
+Distinctiveness of Samara’s Clothes
+At the outset, we note that there is no assertion in this case that Samara’s seersucker garments have acquired “secondary meaning” in the marketplace. Rather, at issue in the first instance is whether the garments are “inherently distinctive.” Moreover, although trade dress protection is often sought for a product’s packaging (e.g., the Toilet Bank’s display box in
+Fun-Damental Too),
+Samara seeks protection for the design of its garments, which is more difficult to obtain.
+In two recent opinions authored by Judge Oakes,
+Knitwaves, Inc. v. Lollytogs, Ltd.,
+71 F.3d 996
+(2d Cir.1995) and
+Landscape Forms, Inc. v. Columbia Cascade Co.,
+113 F.3d 373
+(2d Cir.1997), this Court addressed the analysis of “distinctiveness” in product design cases. In both cases, we determined that the relevant question in assessing the inherent distinctiveness of a product’s design is “whether the design was likely to be understood as an indicator of the product’s source.”
+Landscape Forms,
+113 F.3d at
+378 (citing
+Knitwaves,
+71 F.3d at 1008
+).
+Wal-Mart argues that the facts of this case are indistinguishable from those of
+Knit-waves,
+in which we declined to extend trade dress protection to the “fall motif’ design on two sweaters manufactured by Knitwaves, Inc. Finding that the designs served an aesthetic, not a source-identifying, purpose, this Court noted that the designs failed to meet the statutory requirement “that a person ‘us[e]’ or ‘inten[d] to use’ the mark ‘to identify and distinguish his or her goods .... from those manufactured or sold by others and to indicate the source of the goods.’”
+Knitwaves,
+71 F.3d at 1008
+(alteration in original) (quoting
+Qualitex Co. v. Jacobson Products Co.,
+514 U.S. 159
+, 162,
+115 S.Ct. 1300
+,
+131 L.Ed.2d 248
+(1995);
+15 U.S.C. § 1127
+). Subsequently, this Court observed that “there was no reason to believe that the designs were likely to be understood as an indication of the manufacturer of the sweaters.”
+Landscape Forms,
+113 F.3d at
+378 n. 3.
+We find the record in this case entirely distinguishable. Here, the jury heard the testimony of Samara’s Vice-President for sales that Samara chose to design its line of spring/summer seersucker children’s clothes using consistent design elements so that the look would be identified with Samara, building brand loyalty. Samara has produced this very same product line for years, and it represents, according to the witness’s testimony, “the core [of Samara’s] business” and the “lifeblood of the company.” When Samara has produced other lines of clothes reflecting different designs, its sales have suffered. In
+Knitwaves,
+by contrast, the two sweaters were part of a line of fall clothes that had never before been manufactured by Knitwaves nor did the evidence reveal any intent on the part of Knitwaves to establish the “fall motif’ as its core product by which it would be recognized in the marketplace. Thus,
+Knitwaves
+does not provide a basis upon which to afford Wal-Mart judgment as a matter of law.
+On the other hand, we do find, at Wal-Mart’s urging, substantial similarities between this case and
+Landscape Forms.
+However, in the end we find that the reasoning of
+Landscape Forms
+leads to a different conclusion in this case. Wal-Mart contends that analogous to the description of the furniture’s trade dress in
+Landscape Forms,
+the portrayal in the trial record of Samara’s “overall look” is too vague and insufficiently articulated to qualify for trade dress protection. The Court in
+Landscape Forms
+discussed the uphill battle that a plaintiff confronts when seeking trade dress protection for an entire line of products noting that:
+a trade dress plaintiff seeking to protect a series or line of products faces the particularly difficult challenge of showing that the
+*126
+appearance of its several products is sufficiently distinct and unique to merit protection as a recognizable trade dress. Furthermore, a claim of trade dress covering an array of items is likely to be broader than one for an individual product’s design. Accordingly, when protection is sought for an entire line of products, our concern for protecting competition is acute.
+Saying this, we still recognize that there is no question that trade dress may protect the “overall look” of a product. Thus, “[a]lthough each element of a trade dress individually might not be inherently distinctive, ... the combination of elements” may be indicative of source. Nonetheless, focus on the overall look of a product does not permit a plaintiff to dispense with an articulation of the specific elements which comprise its distinct dress. Without such a precise expression of the character and scope of the claimed trade dress, litigation will be difficult, as courts will be unable to evaluate how unique and unexpected the design elements are in the relevant market. Courts will also be unable to shape narrowly-tailored relief if they do not know what distinctive combination of ingredients deserves protection. Moreover, a plaintiffs inability to explain to a court exactly which aspects of its product design(s) merit protection may indicate that its claim is pitched at an improper level of generality, i.e., the claimant seeks protection for an unproteetable style, theme or idea.
+Landscape Forms,
+113 F.3d at 380-81
+(alteration in original, citations omitted).
+At issue in
+Landscape Forms
+was the legitimacy of a preliminary injunction which had issued from the trial court. The injunction prohibited the defendant, a furniture manufacturer, from marketing a line of outdoor furniture that the plaintiff, Landscape Forms, Inc., claimed violated its trade dress. Landscape Forms Inc., resembling Samara here, sought protection for the “overall look” of its furniture which it claimed was distinctive as to source. It described its furniture in its appellate brief as follows: the trade dress “incorporates large three-inch tubing, with a powdered cosmetic finish, bent in gentle turns that roll around the perimeter of the furniture which in combination with the various seating surfaces gives the viewer a floating or suspended feeling.”
+Id.
+at 381
+.
+The Court found that the descriptions “fail to indicate what unique combination of features makes the trade dress of the ten items in the [Landscape Form’s product line] inherently distinctive under the
+Knitwaves
+test, i.e., likely to be perceived by consumers as bearing the stamp of their maker.”
+Landscape Forms,
+113 F.3d at 381-82
+. Further, the general notion of furniture “which is at once massive, yet appears to float” was too abstract to qualify as trade dress.
+Id.
+at 382
+.
+In this case we find that the evidence adduced at trial sufficiently depicts the “distinctive combination of ingredients” in Samara’s trade dress, warranting protection under Section 43(a).
+2
+Id.
+at 381
+. Those specific design elements in the record, from designer Kathy Gosda’s testimony, included the typical use of: seersucker fabric; large bold appliques; large collars with the appliques generally integrated into the collar and any pockets on the garment; general absence of printed images, black outlines, alphanumeric characters, three-dimensional features or heavy ornamentation (such as bibs or
+fringe) which are
+frequently used in children's clothing; and full-cut, one-piece conservative bodies.
+This level of specificity appears to meet the concerns raised by
+Landscape Forms.
+There, the only unifying feature in the furniture was the use of a three-inch pipe or tube and even that was not used for some of the items in the product line (e.g., the trash cans).
+Landscape Forms,
+113 F.3d at 382
+. Further, it was admitted by the president of Landscape Forms, Inc., that the bent tubes
+*127
+are commonly used in outdoor furniture.
+Id.
+In the end, the only “specifics” common to all of the products in the line were that they had the appearance of being “substantial” yet “light” as if the products were “floating.”
+Id.
+at 381-82
+.
+It is certainly true that at times Samara’s witnesses had difficulty constructing a coherent statement of the “overall look” of the product line based on the above-listed design elements. They often resorted to calling the look “simple,” “elegant” or “conservative.” However, as a whole, the record divulges the specific elements mentioned above which, when combined, create a distinctive overall look. The jury was entitled to rely on that testimonial evidence as well as its own analysis of the dozens of garments displayed at trial to conclude that Samara’s product line is “inherently distinctive.” In fact, one of Wal-Mart’s buyers testified that he could recognize the “Samara type of look” when looking at garments.
+3
+Thus, viewing the evidence in a light most favorable to Samara, as to the “distinctiveness” issue this is not one of those “rare occasions when there is such a complete absence of evidence supporting the verdict that the jury’s finding could only have been the result o[f] sheer surmise and conjecture.”
+George Basch Co.,
+968 F.2d at 1536
+(alteration in original, quotation and citation omitted).
+2.
+Consumer Confusion
+Wal-Mart next contends that it is entitled, as a matter of law, to judgment in its favor because Samara failed to show “consumer confusion” caused by the Samara knock-offs sold by Wal-Mart. “Consumer confusion” may be proved directly by evidence of actual consumer confusion or indirectly by a showing that the copier intended to deceive consumers as to the source of the goods.
+See Resource Developers, Inc. v. Statue of Liberty-Ellis Island Foundation, Inc.,
+926 F.2d 134
+, 140 (2d Cir.1991). Intentionally deceptive conduct thus serves as a proxy for actual consumer confusion, raising a rebuttable legal presumption that the actor’s intent to confuse will be successful. The burden then “shifts to the defendant to demonstrate the absence of consumer confusion.”
+Id.
+Samara does not assert that the evidence supports a finding of actual confusion; rather, it argues that there is sufficient evidence in the record to support the jury’s determination that Wal-Mart deliberately sought to deceive customers as to the source of the goods. Because Wal-Mart failed to rebut the resulting presumption of consumer confusion, Samara argues that the jury’s conclusion should be upheld.
+We agree that ample evidence supports the finding that Wal-Mart’s marketing of the knock-offs was willful piracy with an intent to deceive consumers as to the source. That evidence includes the fact that a Wal-Mart representative specifically requested that JPI create seersucker garments based on Samara samples (among other samples); the garments Wal-Mart subsequently ordered from JPI were, as admitted by a Wal-Mart witness, “strikingly similar” to the Samara garments; the breadth of copying was signif-
+*128
+ieant as Wal-Mart sold not one but sixteen garments that were practically identical to Samara clothes; and Wal-Mart buyers knew that Samara clothes were being copied.
+Wal-Mart admits on appeal that “Samara adduced evidence that Wal-Mart'knew that it was buying garments that its vendor had copied” but argues, as it did below, that there was no evidence that Wal-Mart intended to deceive its customers as to the source of the products. Wal-Mart notes that there were no signs, labels or other indications that the clothes were Samara brand, pointing to this Court’s decision in
+George Basch Co.,
+968 F.2d at 1536
+, for the proposition that there is an “essential distinction ... between a deliberate attempt to deceive and a deliberate attempt to compete” and that a plaintiff must show more than an intent to imitate the trade dress.
+In our view, the
+extent
+of the copying coupled with the intent to copy demonstrates the intent to deceive customers. As Professor McCarthy’s treatise,
+McCarthy on Trademarks and Unfair Competition
+§ 8:19 (4th Ed.1996), notes, “[e]lose similarity of trade dress in a plethora of detail raises a serious question of copying and intent to confuse customers. In such a situation, all heads turn to the defendant to hear some explanation.” The extensive copying here reveals Wal-Mart’s intent to take the Samara product line as its own, drawing customers to the clothes under the pretense that they were Samara’s.
+In light of the extensive copying, Wal-Mart was required to come forward with some explanation of its conduct, which it has utterly failed to do. Wal-Mart does argue that its use of its own labels in the garments alerts customers that the garments are not Samara brand. This Court has held that labels alone cannot insulate an infringer.
+See Bristol-Myers Squibb Co. v. McNeil-P.P.C., Inc.,
+973 F.2d 1033
+, 1047 (2d Cir.1992) (“We do not mean to intimate that the distinctive elements of any trade dress may be freely appropriated as long as the junior user clearly identifies the source of the goods.”). Thus, the jury’s conclusion that Wal-Mart violated Section 43(a) of the Lan-ham Act is supported by the trial record.
+3.
+The District Court’s Injunction
+Although we affirm the jury’s verdict on trade dress, we cannot endorse the trade dress injunction fashioned by the district court. Faced with an overly broad proposed injunction requested by Samara, the district court chose to craft its own injunction which prohibits Wal-Mart from infringing Samara’s trade dress by:
+manufacturing, purchasing, selling, or otherwise distributing any garments (i) copied, directly or indirectly, from any Samara garment, or (ii) bearing appliques or applique combinations, designs, or placements copied, directly or indirectly, from any Samara garment, or (iii) designed using any Samara garment as a source.
+Samara Brothers, Inc.,
+969 F.Supp. at 901
+. In failing adequately to describe Samara’s trade dress, the district court granted Samara far too much protection. As written, the injunction forbids Wal-Mart from affixing on a garment any Samara applique no matter how basic the design. This turns trademark law on its head. After discussing at length that Samara’s designs are protected because they are “inherently distinctive,” the district court granted protection for any and all designs regardless of them inclusion of the distinctive Samara design elements.
+We will endeavor, therefore, to outline with specificity the boundaries of Samara’s protected trade dress so that on remand the district court can refashion a suitable injunction. The protected trade dress will include most if not all of the following elements: seersucker fabric used exclusively; two or three identically shaped and symmetrically placed cloth appliques (not screen printed) substantially similar to appliques displayed on Samara clothing in vibrant colors integrated into the collar (which is typically large and white), collar line and/or pocket(s) (if any); single-piece, full-cut bodies; and the absence of three dimensional features, outlines and words.
+Essential to the “Samara look” is the method by which the design elements are combined on the garments. It is that amalgamation of the elements, what the
+Land
+*129
+scape Forms
+opinion termed a “distinctive combination of ingredients,” which creates the uniform, protectable Samara look.
+4
+See also Jeffrey Milstein, Inc.,
+58 F.3d at 32
+(“Although each element of a trade dress individually might not be inherently distinctive, it is the combination of elements that should be the focus of the distinctiveness inquiry.”). In particular, the placement of the appliques, typically a row of two or three, along the collar or collar line of the garment and on any pockets is essential to the look.
+With that said, not all of Samara’s garments submitted into evidence at trial qualify for protection under the Lanham Act. Some garments (three of the forty-three submitted as trial exhibits and two of the sixteen in the product line pirated by Wal-Mart) had so few of the described design elements that to afford them protection would mean awarding Samara a monopoly on all seersucker children’s clothing with appliques placed anywhere on the garment. The unprotected garments typically have one large applique on the chest or lower front of the garment rather than presentation of the applique at the collar line or integrated into a large white collar.
+We do not mean to suggest, however, that in order to gain protection each garment must contain identical specified design elements. We expect that in a product line there will be inevitable variation in the products.
+5
+See Hartford House, Ltd. v. Hallmark Cards, Inc.,
+846 F.2d 1268
+(10th Cir.1988) (upholding an injunction protecting a line of greeting cards with several design elements, including a variety of colors and placements of designs “some or all of’ which comprised the overall look of the card). Thus, the fact that some garments have two appliques, some have three, and a few have one applique which is fully integrated into the collar is not dispositive of the protectability of the outfits. On the other hand, where the garment does not incorporate a major design element (i.e., does not use seersucker fabric or does not have the appliques incorporated into either a full collar or the collar line of the garment) no protection is warranted. In light of these restrictions on the protected trade dress, we are confident that there will be no resultant market foreclosure. We have taken heed that “when protection is sought for an entire line of products, our concern for protecting competition is acute,” but we nevertheless remain certain that there are countless possibilities for combining appliques and seersucker in children’s clothing.
+Landscape Forms,
+113 F.3d at 380
+;
+see also Hartford House, Ltd.,
+846 F.2d at 1274
+(“Blue Mountain has not been granted exclusive rights in an artistic.style or in some concept, idea, or theme of expression. Rathex
+1
+, it is Blue Mountain’s specific artistic expression, in combination with other features to produce an overall Blue Mountain look, that is being protected.”) (footnote omitted). In fact, Samara and Wal-Mart presented .the jury with many seersucker garments with appliques from other manufacturers who used those elements without infringing Samara’s trade dress.
+In sum, we are mindful of our role in reviewing the denial of a Motion for Judgment as a Matter of Law. We are duty-bound to affirm the jury’s verdict unless there is a complete absence of evidence to support it. We agree with the district court that although the trade dress claim is difficult, the jury’s verdict is supported by the record.
+4.
+Alteration of Damages Award
+As noted above, we find that two of the sixteen garments at issue are not part of Samara’s protectable trade dress. These
+*130
+two garments have a single applique (a tow truck in one instance and a circus car with animals in the other instance) on the center of the garment with no collar or pockets. For one of these garments, the outfit with the circus ear applique, Samara also does not hold a copyright registration. However, Samara was awarded $68,633.53 for the trade dress infringement of that outfit.
+The jury awarded Samara $912,856.77 in lost profits as a result of Wal-Mart’s infringement of the thirteen Samara copyrights. This total award represents the sum of the lost profit for each of the thirteen garments. Appropriately included in this copyright infringement award was an award of $34,534.33 for the boy’s garment with the single tow truck applique. Advised not to duplicate the damage awards, on the trade dress claim the jury awarded Samara $240,-458.53 for its lost profits for the remaining three outfits which included the garment with the circus car applique. Because we have determined that the garment with that applique is not protected as part of Samara’s trade dress, the damage award for lost profits on that garment (in the amount of $68,-633.53) must be reversed.
+C.
+The Jury Instructions
+Wal-Mart next argues that a new trial on the Lanham Act claim is required because the district court erred in failing to include in the jury instructions Wal-Mart’s proposed instruction on labeling.
+6
+In particular, Wal-Mart requested that the jury charge include the following: “if the label, and not the overall appearance of the product, provides consumers with the impression that it is a Samara product, then plaintiff has not proved that it has a protectable trade dress.”
+Because Wal-Mart failed to properly raise this request with the district court, it is waived. The requested instruction on labeling was included in Wal-Mart’s proposed instructions; however, it was not in the charge (drafted by the district court) discussed during the charging conference, and Wal-Mart did not raise the labelling issue during the charging conference despite a discussion of a number of other issues.
+This Court held in
+Caruso v. Forslund,
+47 F.3d 27
+, 31 (2d Cir.1995) that merely submitting a proposed jury instruction is not enough to preserve the objection except where the party has made its position known to the trial court and “the trial court has made clear that an objection would be futile.” As an example of such an exception, the
+Caruso
+Court pointed to this Court’s decision in
+Anderson v. Branen,
+17 F.3d 552
+(2d Cir.1994). There, the plaintiffs had included the proposed charge in the jury instruction and discussed the proposal at the charging conference during which the judge agreed to the charge. The judge failed to include the instruction in the charge. After the charge, the judge told counsel that they did not need to object “if this is something that we raised the other day.”
+Id.
+at 557
+. The Court found that no waiver occurred because a further objection would have been futile.
+Wal-Mart asserts in its reply brief that this case is indistinguishable from
+Anderson.
+Wal-Mart notes that, like the
+Anderson
+plaintiffs, it included the instruction in its proposal and, as in
+Anderson,
+at the conclusion of the charging conference the district court stated that “[y]ou do not need to repeat any of the prior objections or suggestions that I rejected. Those are deemed already made. If you want to add anything else I will be happy to listen.” The problem with
+*131
+Wal-Mart’s analysis is that it leaves out the key piece of the
+Anderson
+decision — that is, that the plaintiffs there specifically raised the objection in the charging conference in addition to having it in their proposed instructions, and the judge agreed, but failed to actually include the instruction in the charge. Here, Wal-Mart failed to raise the issue at the conference. Judge Chin’s statement that objections need not be “repeated” is clearly linked to the issues that had been raised once at the charging conference.
+Having failed to make its position known to the district court at the charging conference, Wal-Mart’s claim is waived under
+Caruso.
+Wal-Mart does not argue that the district court committed plain error nor do we find evidence of plain error. Thus, no new trial is warranted on this ground.
+D.
+Preemption of the State Law Claims
+We turn next to the question of preemption. Wal-Mart contends that the Copyright Act preempts the New York common law unfair competition claim and the New York General Business Law § 349 claim asserted by Samara. We disagree. The Copyright Act preempts all state laws that protect “legal or equitable rights that are equivalent to any of the exclusive rights within the general scope of copyright as specified” in the federal statute.
+17 U.S.C. § 301
+(a).
+To decide whether a state law claim is preempted, this Court employs the “extra element” test which holds that:
+[I]f an “extra element” is “required instead of or in addition to the acts of reproduction, performance, distribution or display, in order to constitute a state-created cause of action, then the right does not lie ‘within the general scope of copyright,’ and there is no preemption.”
+Computer Assocs. Int’l, Inc. v. Altai Inc.,
+982 F.2d 693
+, 716 (2d Cir.1992)(quoting 1 Melville B. Nimmer & David Nimmer,
+Nimmer on Copyright
+§ 1.01[B]). The extra element must change the “nature of the action so that it is
+qualitatively
+different from a copyright infringement claim.”
+Mayer v. Josiah Wedgwood & Sons, Ltd.,
+601 F.Supp. 1523
+, 1535 (S.D.N.Y.1985). Further, “we have held that unfair competition and misappropriation claims grounded solely in the copying of a plaintiffs protected expression are preempted by section 301.”
+Computer Assocs. Int’l, Inc.,
+982 F.2d at 717
+.
+General Business Law § 349 is a consumer protection statute which prohibits deceptive acts or practices in the conduct of business.
+See Teller v. Bill Hayes Ltd.,
+213 A.D.2d 141
+,
+630 N.Y.S.2d 769
+, 772-73 (2d Dep’t 1995). When rejecting Wal-Mart’s preemption claim, the district court found the extra element under § 349 to be a finding of “intentional deception” of consumers. We agree that “intentional deception” constitutes an extra element not required in a copyright infringement claim.
+See Nimmer on Copyright
+§ 101[B][l][e] (“Similarly, crucial to liability under a deceptive trade practices cause of action is the element of misrepresentation or
+deception,
+which is no part of a cause of action for copyright infringement.”)(emphasis added).
+Wal-Mart argues that this Court’s prior statement in
+Computer Assocs. Int’l, Inc.,
+that “[a]n action will not be saved from preemption by elements such as awareness or intent, which alter ‘the action’s scope but not its nature,’ ”
+982 F.2d at 717
+, requires us to hold that “intentional deception” does not constitute an extra element. We believe that “intentional deception” as charged refers to the actual deceptive effect on consumers, not to Wal-Mart’s state of mind. Thus, the § 349 claim is not preempted.
+Similarly, Samara’s common law unfair competition claim is not “grounded solely in the copying of a plaintiffs protected expression.”
+Id.
+The district court charged the jury that for Samara to succeed on the unfair competition claim it had to find that “Wal-Mart’s actions caused actual confusion, in the minds of consumers, between Samara’s clothing and Wal-Mart’s infringing clothing, to the detriment of Samara.” Like the requirement of “intentional deception,” “actual confusion” constitutes an extra element.
+Wal-Mart argues that if we accept that “actual confusion” comprises the “extra element,” we must find that Samara’s unfair competition claim fails as a matter of law because the district court in its opinion stat
+*132
+ed that “Samara did not prove actual confusion.”
+Samara Brothers, Inc.,
+969 F.Supp. at 899
+. It is true that Samara did not prove actual confusion by the typical means of consumer surveys showing that consumers thought the WalMart garments were Samara garments. Instead, Samara proved, as described
+supra
+11(B)(2), that Wal-Mart engaged in intentional deception when it employed massive copying of Samara’s outfits.
+The district court instructed the jury that it was entitled to “presume that there was actual confusion if Samara shows that Wal-Mart engaged in intentional deception” unless Wal-Mart rebuts that presumption.
+See Perfect Fit Industries, Inc. v. Acme Quilting Co., Inc.,
+618 F.2d 950
+, 954 (2d Cir.1980). Wal-Mart failed to rebut the presumption that consumers were confused. As a result, the record does support a finding of actual confusion.
+In sum, Samara’s state law claims are not preempted.
+E.
+The Validity of Certain of Samara’s Copyrights
+The final issue for our review is the validity of five of the Samara copyrights in light of Wal-Mart’s argument that the designs lack sufficient originality to justify protection under the Copyright Act. Specifically, Wal-Mart claims that the copyrights which protect the appliques of strawberries (two separate appliques), daisies, hearts and tulips are unoriginal.
+Each of the challenged copyrights is registered with the U.S. Register of Copyrights. A certificate of registration “constitutes
+prima facie
+evidence of the validity of a copyright,
+17 U.S.C. § 410
+(c), though that presumption may be rebutted.”
+Folio Impressions, Inc. v. Byer California,
+937 F.2d 759
+, 763 (2d Cir.1991). We review “the trial court’s determination of originality under a clearly erroneous standard.”
+Id.
+In
+Folio Impressions
+this Court awarded protection to a design of a series of roses, a common shape, placed in straight lines on an ornate background and turned so that the roses faced in various directions. We first recognized protection for the rose design itself separate from its arrangement on the background. Although the rose is a common shape, we noted that because there was a valid registration, the rose had a “presumption of validity” and the defendants “offered no proof at trial to overcome this presumption.”
+Id.
+We must find the Samara designs similarly original. Their registrations provide a presumption of validity which Wal-Mart has failed to overcome. Wal-Mart provided no evidence at trial challenging the validity of the copyright registrations. Specifically, it failed to adduce evidence to show that the works were not “independently created by its author, and not copied from someone else’s work.”
+Id.
+at 764
+.
+7
+We do note that copyrights depicting familiar objects, such as the hearts, daisies and strawberries in Samara’s copyrights, are entitled to very narrow protection.
+See Folio Impressions,
+937 F.2d at 765
+. It is only the virtually identical copying, such as the copying in this ease, which will result in a successful claim of infringement of familiar objects.
+III. CONCLUSION
+The decision of the district court is AFFIRMED in part, REVERSED in part and REMANDED. We affirm the denial of Wal-Mart’s Motion for Judgment as a Matter of Law on Samara’s Lanham Act claim and Copyright Act claim and the district court’s denial of Wal-Mart’s request for a new trial based on an alleged error in the jury instructions. We affirm the district court’s holding that the state law claims'were not preempted by § 301 of the Copyright Act. We reverse the district court's grant of an injunction to Samara, and we remand the case so that the district court can refashion an injunction in light of this opinion and enter an order reflecting the new calculation of damages.
+1
+. We also find no reason to believe that a jury cannot distinguish between the protections afforded by the Lanham Act and those afforded under the Copyright Act.
+See, e.g., KeyStone Retaining Wall Systems, Inc. v. Westrock, Inc.,
+997 F.2d 1444
+, 1447 n. 2 (Fed.Cir.1993)(jury verdict rejecting plaintiff’s trade dress claim but finding in favor of plaintiff on copyright claim).
+2
+. In its brief on appeal, Wal-Mart counsels us to focus first on Samara’s complaint as proof of the "totally amorphous nature" of its trade dress claim. We agree that the complaint provides an insufficient description of the "inherent distinctiveness” of the trade dress to qualify for protection. We note, however, that the jury was presented with far more than allegations of the complaint. We cannot look at the complaint in a vacuum; rather, we must focus on all of the evidence adduced at trial, including dozens of garments submitted by both parties, when reviewing the jury’s conclusions.
+3
+. There is some debate between the parties about this testimony from Mr. Kleist, one of Wal-Mart’s buyers. Mr. Kleist was asked on re-cross about the JPI samples he viewed when ordering garments from Wal-Mart. It is undisputed that some of those samples were Samara garments and had Samara labels. Mr. Kleist testified that he did not remember which garments had labels. He was then asked "Did you recognize any of these garments as being Samara garments?” He replied, “I recognized the Samara type of look but do I know if they had Samara labels in them, no.” We agree with the district court that this response indicates that Mr. Kleist recognizes that there is a "Samara type of look.”
+Wal-Mart argues that it is unfair to rely on the testimony of a professional buyer for recognition of the "look” because, Wal-Mart notes in its reply brief, our case law makes clear that to prove "actual confusion in a Lanham Act claim, the evidence must show confusion among consumers, not among experts like professional buyers" citing
+Perfect Fit Industries, Inc. v. Acme Quilting Co.,
+618 F.2d 950
+, 955 (2d Cir.1980). We agree such is the case as to actual confusion. However, the district court did not use Kleist's testimony as a basis for a finding of actual confusion. Rather, Kleist's testimony simply supports the jury’s verdict that there is a distinct identifiable Samara look. Even if such a look exists, Samara still is burdened with demonstrating actual consumer confusion or intent to deceive customers in order to obtain protection under section 43(a).
+4
+. The dissent takes each design element and dissects it individually. Noting, for example, that “seersucker fabric is not at all distinctive” and "large bold appliques are a common design feature.” Dissent,
+infra
+at
+[page 123],
+While that may be true, it is the combination of the five design elements that creates the protected Samara look, not any element in isolation.
+5
+. The dissent notes that four of the fourteen garments do not have the appliques integrated into the collar or collar line. We agree that two of the outfits, the boys' garments, have the three identically shaped and symmetrically placed appliques running across the chest of the outfit. This variation is just the sort of variation that we would expect to see in a product line. The remaining twelve garments each have the appliques integrated into the collar, or where there is no collar, into the collar line.
+6
+. Wal-Mart also contends that the jury verdict on the Lanham Act claim is questionable and should be reviewed without deference because the district court charged the jury to employ the analysis set forth in
+Abercrombie & Fitch Co. v. Hunting World, Inc.,
+537 F.2d 4
+, 11 (2d Cir.1976) which we observed in
+Landscape Forms,
+does not "make sense" to apply in design, as opposed to packaging, trade dress cases.
+Landscape Forms,
+113 F.3d at 378
+. We do not believe the inclusion of the
+Abercrombie
+factors in the jury instructions provides cause to doubt the verdict.
+Landscape Forms,
+was decided after the jury verdict was reached in this case. Although it is true that the jury charge focuses in part on the
+Abercrombie
+categories, the charge made clear that distinctiveness is measured by whether the product is source-identifying and that the jury had to consider the "combination of elements forming the product’s overall appearance rather than examining each element separately,” both of which are the primary elements of the analysis set out in
+Landscape Forms.
+7
+. We note that in
+Folio Impressiom
+the defendants were successful in rebutting the presumption of copyright protection for
+the
+background upon which the roses were placed. The defendants offered testimony that the background pattern was copied from the public domain.
+Id.
+at 763-64. No such testimony or other evidence was presented in this case.
+1
+. The fact that Samara’s Vice-President for Sales testified that his company chose to use what he considered consistent design elements is the weakest form of evidence that the resulting product line is entitled to trade dress protection. Most clothing manufacturers would like to think that their product designs are special, and they can be expected to say so when they sue for trade dress infringement. But the issue is not whether Samara hoped to have a protectable trade dress; it is whether the line of clothing it produced contains that distinctive combination of features that entitles the manufacturer to trade dress protection.
+*133
+JON 0. NEWMAN, Circuit Judge,
+dissenting in part:
+On two key issues in this case, I respectfully dissent. First, I do not believe that the “look” of Samara’s line of dresses constituted protectable trade dress, and the Court’s upholding of such protection lowers, at least for this case, the standards we have previously established for trade dress protection of a product “line.” Second, I do not believe that Samara is entitled to a copyright on the five designs that depict, in an entirely unoriginal way, such common items as strawberries, tulips, daisies, and hearts. Indeed, if the majority’s copyright ruling were to be applied beyond the precise facts of this case, which I do not expect will ever happen, designers of Valentine’s Day cards would be at risk of copyright infringement if, having seen a Samara dress with the copyrighted designs, they place unadorned hearts on their cards, or at least show little girls in dresses with unadorned hearts on their collars.
+I. Trade Dress
+This Circuit has clearly stated the principles that govern a claim c? trade dress protection for product design, particularly protection claimed for the design of a line of products. First, when trade dress protection is claimed for product design or configuration, rather than product packaging, the inquiry is “whether the design was likely to be understood as an indicator of the product’s source.”
+Landscape Forms, Inc. v. Columbia Cascade Co.,
+113 F.3d 373
+, 378 (2d Cir.1997). Second, product design or configuration is far less likely to be an indicator of source than product packaging, and, indeed, we “appear[] to be moving toward a rule that packaging is usually indicative of a product’s source, while the design or con-figuration of the product is usually not so.”
+Id.
+at 379
+. Third, we must construe the Lanham Act “in the light of a strong federal policy in favor of vigorously competitive markets.”
+Id.
+Fourth, courts are to “exercise[ ] particular ‘caution’ when extending [trademark] protection to product designs.”
+Id.
+at 380
+(quoting
+Jeffrey Milstein, Inc. v. Greger, Lawlor, Roth, Inc.,
+58
+F.3d 27
+, 32 (2d Cir.1995)). Fifth, “ ‘just as copyright law does not protect ideas but only their concrete expression, neither does trade dress law protect an idea, a concept, or a generalized type of appearance.’”
+Id.
+(quoting
+Jeffrey Milstein,
+58
+F.3d at 32
+). Sixth, and most pertinent to this case, a plaintiff “seeking to protect a series or line of products faces a particularly difficult challenge of showing that the appearance of its several products is sufficiently distinct and unique to merit protection as a recognizable trade dress....
+Accordingly, when protection is sought for an entire line of products, our concern for protecting competition is acute."
+Id.
+(emphasis added).
+This is not to say that product design or configuration can never achieve trade dress protection for a line. But until this case, we have permitted such protection only in very extreme circumstances. For example, in
+Harlequin Enterprises Ltd. v. Gulf & Western Corp.,
+644 F.2d 946
+, 948 (2d Cir.1981), we upheld protection for the look of a line of books where “every book in the Harlequin Presents series is uniform in its dimensions, cover design and colophon.”
+On the facts of this case, it was not reasonable to find distinctiveness of Samara’s entire product line. The Court upholds the jury’s verdict by recounting five factors that Samara’s designer, Kathy Gosda, testified were present in the Samara line.
+1
+These are (1) seersucker fabric; (2) large bold appliques; (3) large collars with the appliques generally integrated into the collar and the pockets, if any; (4) absence of printed images, black outlines, alphanumeric characters, or three-dimensional features; and (5) full-cut, one-piece conservative bodies.
+For several reasons, these five factors cannot be permitted to constitute a protectable
+*134
+trade dress “look.” First, the fifth factor— full-cut, one piece conservative bodies — is not a fabric design feature at all, but is a dress design. We do not extend copyright protection to dress designs,
+see Whimsicality, Inc. v. Rubie’s Costume Co.,
+891 F.2d 452
+, 455 (2d Cir.1989); 1
+Nimmer on Copyright
+§ 2.08[H][3] (1998) [hereinafter
+“Nimmer”],
+and we should not let dress designers secure protection for their dress styles by claiming a “look” protectable as trade dress under trademark law. Though a particularly distinctive dress design feature, combined with distinctive fabric design elements, might suffice for trade dress protection, Samara’s dress design of full-cut, one-piece conservative bodies is far too common to serve as an element of a “look” that warrants trade dress protection.
+Second, the fourth factor — the absence of various fabric design elements — is totally unavailing. There are hundreds, if not thousands, of fabric design elements that Samara does not use. A “look” warranting trade dress protection must consist of the design features that are present in the line of clothing claimed to have a look, not in the myriad features that the designer elected not to use.
+Third, with factors 4 and 5 eliminated, or, at least counted for little, we are left with three factors that are far too general to constitute a protectable “look.” Seersucker fabric is not at all distinctive. Large bold appliques are a common design feature, used by numerous dress designers. Moreover, Samara uses such different items as appliques that a unified “look” cannot be reasonably discerned. With four products, the applique consists of flowers; with six, it consists of fruits; with one, it consists of hearts; with two, it consists of vehicles; and with one, it consists of sailboats. The use of large collars is also extremely common, and the fact that the appliques are placed on the collar, or pockets if any, is hardly noteworthy. I cannot tell what Ms. Gosda meant by saying that the appliques are “integrated” into the collar. From the photographs in the record, the appliques appear simply to be sewn onto the collars, sometimes extending beyond the collar to the body of the dress. None of the factors identified by Ms. Gosda, nor the combination of them, can reasonably be found to constitute protecta-ble trade dress of a product line. Indeed, since the appliques depict such different objects from one garment to another, there is no one combination of design elements to assess. Samara’s dresses constitute a “line” of clothing, just like those of many manufacturers who sell a “line” of somewhat similarly designed or decorated clothing, but they cannot reasonably be found to have such an identifiable “look” that the entire product line warrants trade dress protection.
+Fourth, a more fundamental flaw in the Court’s protection of the Samara “look” is that many of the products in the alleged product line do not have all of even the few features that are claimed to constitute the “look.” Of the sixteen products claimed to have been copied by Wal-Mart, the Court acknowledges that two do not merit trade dress protection. Of the remaining fourteen, four do not have the applique integrated on the collar or pockets; in two products, the applique is placed on the top front of the main fabric of the dress, and in two products, on a mid-riff running across the main fabric of the dress. How can there be a product line with a protectable trade dress “look” when nearly one-third of the products claimed to constitute the infringed line lack a key feature alleged to be an ingredient of the “look”?
+Moreover, Samara’s complaint alleged that its look included “specially designed stylized appliques selected for
+consistency across the line,”
+Complaint ¶ 14 (emphasis added), yet the evidence discloses that the appliques depicted a wide variety of objects including flowers, fruits, hearts, trucks, and boats.
+2
+Surely there was no “consistency across the line” as to the objects depicted in the appliques. The complaint also alleged that the “look” included “carefully coordinated combinations of silhouettes, applique designs, fabric patterns and
+colors.”
+Id.
+(emphasis add
+*135
+ed). The variety of objects depicted totally refutes any claim of “consistency” as to “silhouettes,” “designs,” or “patterns,” and there is no consistency at all as to “colors,” as the differing combinations set out in the margin indicate.
+3
+Where courts have upheld a trade dress that included color as a component, they have been careful to emphasize a “combination of particular hues of [plaintiffs red and yellow] colors,”
+Chevron Chemical Co. v. Voluntary Purchasing Groups, Inc.,
+659 F.2d 695
+, 703 (5th Cir. Unit A Oct.1981), and in
+Chevron Chemical
+the “particular hues” of the same two colors were “arranged in certain geometric designs, presented in conjunction with a particular style of printing,”
+id.
+No case has upheld trade dress protection for an alleged “line” of products that depicts entirely different decorative objects, rendered in a wide variety of combinations of different colors.
+Despite the very strict standards this Circuit has articulated for trade dress protection of the design of a product “line,” and despite the very weak nature of the plaintiffs evidence, the Court upholds trade dress protection in this case essentially because the jury found in plaintiffs favor. That reliance, unjustified in my view, requires consideration of the proper approach to a jury’s verdict on an issue such as trade dress protection.
+I agree with the Court when it rejects Wal-Mart’s contention that reviewing courts should apply a “lower level of deference,” 165 F.3d at 124, to the jury’s finding that Samara’s trade dress was sufficiently distinctive to be protectable. In my view, however, “level of deference” is the wrong dimension to assess. Every jury verdict is entitled to a fairly high degree of deference regardless of the nature of the issue decided. To state that proposition, however, does not preclude recognition of the principle that the boundaries within which an issue is reasonably a fact issue for a jury are narrower in some contexts than in others. When juries are called upon to resolve conflicting versions of historical facts, the boundaries are fairly wide. Reviewing courts take a generous view of what a reasonable jury could conclude with respect to historical facts, such as what happened at the scene of an accident. But the broad range of reasonable fact-finding as to historical facts and familiar legal issues like negligence is not appropriate for issues infused with technical legal meaning, issues with which juries are almost completely unfamiliar.
+When reviewing courts consider jury verdicts on such issues as the reasonableness of a challenged restraint of trade or the protect-ability of a trade dress, I believe reviewing courts should recognize that the boundaries in which jury fact-finding may permissibly occur are somewhat narrow. It is not. a matter of giving less deference to a jury’s fact-finding, reached within an allowable scope. Rather, it is a matter of recognizing that the scope of allowable fact-finding is narrower. When the issue is negligence, many combinations of fact patterns can reasonably be found in the typical contested case, and juries have wide latitude to determine what they think the facts were and thereby to find either that there was negligence or there was not.
+4
+But on more esoteric issues, courts should recognize that there are fewer combinations of fact patterns that could reasonably be found in a given case, and should therefore somewhat narrow the range in which jury fact-finding is permissible. Otherwise, we are ceding to juries
+*136
+broad authority to determine the substantive scope of the law on topics such as antitrust, copyright, trademark, and, in this case, trade dress.
+5
+Our Circuit has recognized this important point. As we said with respect to the similar issue of the scope of fact issues in copyright cases, “Courts have an important responsibility in copyright cases to monitor the outer limits within which juries may determine reasonably disputed issues of fact. If a ease lies beyond those limits, the contrary view ... of a particular jury[] cannot be permitted to enlarge ... the scope of statutory protection enjoyed by a copyright proprietor.”
+Warner Bros., Inc. v. American Broadcasting Companies, Inc.,
+720 F.2d 231
+, 245 (2d Cir.1983).
+Juries cannot realistically be expected to appreciate, much less to apply rigorously, the several precepts that our Circuit has said are applicable to resolution of a claim of distinctiveness as to product configuration. Indeed, any jury that finds, as this one did, that copying, sufficient to constitute infringement of a valid copyright, has occurred, will be likely also to find a Lanham Act violation, yet such a jury, in all likelihood, will have no appreciation of the subtle point that copyright accords a rather narrow monopoly that protects only against copying of particular items, whei’eas trademark grants a much broader monopoly that protects against marketing of any product with an appearance likely to cause confusion as to source.
+The high bar to trade dress protection for a product line that this Court so emphatically raised in
+Landscape Forms, Inc. v. Columbia Cascade Co.
+113 F.3d 373
+(2d Cir.1997), and
+Knitwaves, Inc. v. Lollytogs, Ltd.,
+71 F.3d 996
+(2d Cir.1995), has been unjustifiably lowered in this case. Though I suspect that this is an aberrational result, not likely to be repeated, I cannot assent to it.
+II. Copyright
+Wal-Mart challenges copyright validity as to six of Samara’s thirteen copyrights. Validity is challenged on the ground that these copyrights display common items in a manner that fails to satisfy even the “minimal degree of creativity” necessary to constitute an original work of authorship.
+See Feist Publications, Inc. v. Rural Telephone Service Co.,
+499 U.S. 340
+, 345,
+111 S.Ct. 1282
+,
+113 L.Ed.2d 358
+(1991) (citation omitted); 1
+Nimmer
+§ 2.01[B], at 2-14. The Court rejects Wal-Mart’s challenges by stating that the prima facie evidence of validity arising from Samara’s certificates of copyright registration,
+see
+17 U.S.C. § 410
+(c), has not been overcome by any evidence. The Court points out that Wal-Mart “failed to adduce evidence to show that the works were not ‘independently created by its author, and not copied from someone else’s work.’ ” 165 F.3d at 132 (quoting
+Folio Impressions, Inc. v. Byer California,
+937 F.2d 759
+, 764 (2d Cir.1991)). But Wal-Mart is not attacking Samara’s copyrights on the six challenged designs on the ground that Samara did not independently create the designs. The claim is that the designs lack minimal originality. No matter how “independently” a designer works in the confines of some remote atelier, if the resulting design is just the unadorned outline of three hearts, no valid copyright may be obtained.
+On the disputed issue of whether the challenged copyrights lack minimal originality, Wal-Mart produced evidence in the form of exhibits depicting hearts, flowers, and strawberries in the ordinary shape and design
+*137
+displayed in Samara’s copyrights. Though I would have thought a court could take judicial notice of the fact that the outline of an unadorned heart is sufficiently common to lack minimal originality, Wal-Mart’s exhibits are ample evidence of this fact.
+Of the six challenged copyrights, I would uphold the challenges to five.
+Registration No. 751
+-722 is just three hearts, grouped in a slight arc; the only arguable “arrangement” is that the tips of the hearts extend over the collar.
+Registration No. 751
+-718 and 751-720 are just three strawberries, connected by a slightly twisted vine. There is nothing minimally original about the strawberries, and strawberries with similarly slightly twisted vines are shown in an exhibit of McCall’s sewing patterns.
+Registration No. 751
+-721 is just three “daisies” separated by two leaves. The “daisy” design, which does not look like a daisy at all, is an utterly common five-sided pattern with rounded edges and a circular center, depicting simply a generic flower.
+Registration No. 751
+-725 is three tulips, each with two leaves. Both the tulips and the leaves are totally lacking in originality. I agree that Registration 751-719 reaches the minimal level of originality, since the grouping of the strawberries overflowing the pocket suffices as a minimally original arrangement.
+The Copyright Office says that a fleur-de-lys design is not original enough.
+See Compendium II: Compendium of Copyright Office Practices
+§ 503.02(a) (1984) (“[Rjegistration cannot be based upon the simplicity of standard ornamentation such as ... the attractiveness of a conventional fleur-de-lys de-sign_”). Basic depictions of hearts, daisies, strawberries, and tulips should fare no better. As this Court observed in invalidating the copyright on an Uncle Sam bank, “Here as elsewhere in the copyright law there are lines that must be drawn even though reasonable [persons] may differ where.”
+L. Batlin & Son, Inc. v. Snyder,
+536 F.2d 486
+, 492 (2d Cir.1976) (in banc).
+Though I suspect that the Court’s trade dress and copyright rulings will prove to be limited to the precise facts of this case, I dissent to the extent indicated in this opinion, and concur on all other issues.
+2
+. Though the Court excludes from the protected "line" of products those depicting a circus truck, an airplane, and a sail boat, it leaves within the protectcd "line” products that display three sailboats, three cars, and three trucks.
+3
+. With one, the colors are pink, green, and blue; with three, they are red, white, and blue; with one, they are red, green, and blue; with one, they are red, white, green, and blue; with three, they are pink, white, and blue; with one, they are pink and blue; with one, they are pink, yellow, and blue; with one, they are red, yellow, and blue; with one they are red, yellow, blue, and green; with one they are red, yellow, blue, green, and white; with one they are red, white, green, and black; and with one they are red, green, blue, yellow, and white.
+4
+. As I have pointed out elsewhere, this application of a negligence standard to a fact pattern, once determined, is really an issue of law, but because there are so many possible fact patterns in a typical negligence dispute, courts do not ask juries to find just the facts, but instead instruct them on applicable principles, of negligence and then ask them to apply the law to the facts as they find them. See
+Antilles Steamship Co., Ltd. v. Members of American Hull Insurance Syndicate,
+733 F.2d 195
+, 206 & nn. 4, 5 (2d Cir.1984) (Newman, J., concurring). This is a matter more of convenience than doctrinal purity.
+5
+. Unlike the Court, 165 F.3d at 124 n. 1, I derive no reassurance at all from the fact that in a particular case a jury found in favor of a plaintiff on a copyright claim and against the plaintiff on a trade dress claim. See
+KeyStone Retaining Wall Systems, Inc. v. Westrock, Inc.,
+997 F.2d 1444
+, 1447 & n. 2 (Fed.Cir.1993). The Court thinks this is some evidence that juries can be counted on to understand the differences between the Lanham Act and the Copyright Act. If that were so, then the many cases in which juries found for plaintiffs on both claims or found against plaintiffs on both claims would be some evidence that juries cannot distinguish the relevant concepts. Moreover, a jury's differing outcomes on different claims in particular cases are as likely to reflect a compromise as a sophisticated understanding of the relevant principles. My view that juries have a difficult time understanding the principles of such unfamiliar fields of law as copyright and trademark is based on the fact that judges, including myself, have difficulty fully grasping the subtleties of these doctrines, even though we deal with them far more often than do juries.

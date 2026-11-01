@@ -1,0 +1,9 @@
+{
+  "four_labels": true,
+  "eleven_blocks": true,
+  "holdings_identity": true,
+  "topology_identity": true,
+  "no_public_workflow": true,
+  "all_nine_full_join": true,
+  "no_unassigned_placeholders": true
+}

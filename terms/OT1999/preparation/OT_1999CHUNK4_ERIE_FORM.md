@@ -1,0 +1,17 @@
+# Erie — form and proposition determination before count
+
+The case warrants one signed lead, in three parts, and separate writings. The threshold and the merits turn on distinct legal grounds. No count or prospective author determines these parts.
+
+Part I states the six-Associate ASARCO state-review rationale for reaching the merits: Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Stone independently finds the case live without adopting an unapproved jurisdiction rationale. Scalia and Thomas would dismiss federal review as moot, leaving the state judgment intact. The threshold result is therefore 7–2.
+
+Part II announces the merits affirmance and gives the content-selection and failed-strict-justification rationale joined by Stevens, Scalia, Thomas and Ginsburg. The Court's decision to reach the merits triggers Scalia's and Thomas's express conditional participation. Stone separately affirms on his approved rule: a public-nudity ordinance cannot receive incidental-burden treatment when its justification and operation principally target the communicative adult-entertainment setting, and Erie fails the scrutiny that follows. At that precise common level five Justices directly support the rule across writings. Stone neither joins the lead nor supplies a fifth vote for its fuller account of the appendix evidence. No Marks synthesis is used.
+
+Part III preserves the independent O'Brien/Ward insufficiency alternative of Stevens, Thomas and Ginsburg. Scalia does not join it; Stone supplies no independent alternative. Three votes do not make that alternative a controlling holding or current-law rule. Souter's separate insufficiency conclusion is tied to a different remand, and is not silently combined with these three to manufacture a holding.
+
+The merits judgment is affirmance, 5–4: Stone, Stevens, Scalia, Thomas and Ginsburg. O'Connor would reverse the federal invalidation of the granted adult-establishment application and remand unadjudicated issues after final federal validation. Kennedy and Breyer would vacate and remand for classification and, if appropriate, O'Brien advancement and fit without deciding present sufficiency. Souter joins that common inquiry and nonvalidating remand, but independently finds the present showing insufficient even assuming O'Brien and preserves an opportunity for justification if federal law remains decisive; prior resolution under Pennsylvania constitutional law or properly preserved federal overbreadth can make new evidence unnecessary.
+
+Separate writings preserve Stone's actual core, Scalia's threshold dissent joined by Thomas and their triggered merits joins, O'Connor's validating dissent, the Kennedy/Breyer remand with Souter's limited join, and Souter's additional evidentiary/remedial ground. The lead's Part III remains published noncontrolling substance. All appear in public-only Continuity and the Public Projection.
+
+Affirmance leaves the existing Pennsylvania severance of sections 1(c) and 2 intact. Stone's as-applied reason supplies no new federal severance or reinstatement order. The three other public-indecency prohibitions remain undisturbed. No mandatory study, hearing, new theater exception, damages, fees, penalty or nonparty theater judgment is added.
+
+This determination precedes the fresh assignment count. Eligibility and selection will be applied to this complete signed lead under Engine section 8; the opinion will not be divided to alter the balance.

@@ -1,0 +1,2216 @@
+Supreme Court of the United States 
+OCTOBER TERM, 1999 
+
+
+ROBIN FREE AND RENEE FREE, 
+Petitioners, 
+Vv. 
+
+
+ABBOTT LABORATORIES, BRISTOL-MYERS SQUIBB 
+COMPANY, AND MEAD JOHNSON & COMPANY, 
+
+
+Respondents. 
+On Writ of Certiorari to the United States Court of 
+Appeals for the Fifth Circuit 
+BRIEF FOR RESPONDENTS 
+
+MAX R. SHULMAN FRANK CICERO, JR. 
+CRAVATH, SWAINE & MOORE Counsel of Record 
+Worldwide Plaza CRAIG A. KNOT 
+825 Eighth Avenue KIRKLAND & ELLIS 
+New York, NY 10019 200 East Randolph Drive 
+(212) 474-1000 Chicago, IL 60601 
+
+(312) 861-2000 
+
+
+Counsel for Respondents Bristol- 
+Myers Squibb Company and CHRISTOPHER LANDAU 
+Mead Johnson & Company JEFFREY BOSSERT CLARK 
+KIRKLAND & ELLIS 
+655 Fifteenth Street, N.W. 
+Washington, D.C. 20005 
+(202) 879-5000 
+
+
+Counsel for Respondent 
+Abbott Laboratories 
+
+
+QUESTION PRESENTED 
+
+
+Whether the supplemental jurisdiction statute, 28 U.S.C. 
+§ 1367, authorizes federal courts to exercise supplemental 
+jurisdiction over the claims of absent class members where, as 
+here, those courts have original jurisdiction over the claims of 
+the named plaintiffs. 
+
+
+RULE 29.6 STATEMENT 
+Respondents Abbott Laboratories and Bristol-Myers Squibb 
+Company have no corporate parents, and no publicly traded 
+company owns 10% or more of their stock. Respondent Mead 
+Johnson & Company is a wholly-owned subsidiary of Bristol- 
+Myers Squibb Company. 
+
+
+on 
+
+
+ee 
+
+
+am 
+
+
+ill 
+TABLE OF CONTENTS 
+Page 
+el a ae aa a l 
+STATEMENT OF THECASE ..............000000:. 3 
+SUMMARY OF ARGUMENT .................00:. 6 
+PE MO it BEL Bie Mey Hy 8 
+
+
+I. THE PLAIN TEXT OF SECTION _ 1367 
+AUTHORIZES COURTS TO _ EXERCISE 
+SUPPLEMENTAL JURISDICTION OVER THE 
+CLAIMS OF ABSENT CLASS MEMBERS ...... 8 
+
+
+A. The Plain Text of Subsection 1367(a) 
+Encompasses the Claims of Absent Class 
+Members Where the Claims of the Named 
+Plaintiffs Are Within the Federal Courts’ 
+
+
+B. The Plain Text of Subsection 1367(b) Does 
+Not Carve Out the Claims of Absent Class 
+
+
+Peel ee cdevecseseeeceseoeoees 15 
+C. A Textual Interpretation of Section 1367 Is 
+PN 6 6446600nnc000eu0euss esses 18 
+
+
+Il. THE LEGISLATIVE HISTORY OF SECTION 
+1367 CANNOT AND DOES NOT OVERRIDE 
+
+
+THE STATUTE’S PLAIN TEXT ............. 24 
+A. The Legislative History Cannot Override the 
+Sentute’s Plain Tees 2... cc cccccccccess 24 
+
+
+B. The Legislative History on Which Petitioners 
+Rely Does Not Purport to Clarify Any 
+
+
+PE 66. 66 cdsddcdeceecces 26 
+c. The Legislative History Actually Supports a 
+Textual Interpretation ................. 29 
+
+
+et MPPTTPTTTTIETIE LITLE TTT eee 37 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Page(s) 
+Cases: 
+Alyeska Pipeline Serv. Co. v. Wilderness Soc’y, 
+SE cc cdi ducutdcdmandsedononetos 10 
+Caminetti v. United States, 
+nt cebucdcesdvenddsesoaeued 8, 25 
+Chan v. Korean Air Lines, Ltd, 
+I nan ccks int coccunedudeudsas 17 
+Channell v. Citicorp Nat'l Servs., Inc., 
+ES SED ocncncdaccnsdancedsescc 37 
+City of Chicago v. International College of Surgeons, 
+522 U.S. 156 (1997) ........... 7, 10-12, 15, 16, 36, 37 
+Clark v. Paul Gray, Inc., 
+PET no coc tecedoceeccesetes 7, 13,14 
+Connecticut Nat'l Bank v. Germain, 
+hc ce cueneetéétese 8, 24, 25, 37 
+Conroy v. Aniskoff, 
+8 pe nee 26 
+Corporation of New Orleans v. Winter, 
+IED oc cccccecescsseoceues 14 
+Crooks v. Harrelson, 
+Ns ins os a ceuk bd cemewenadel 18 
+Daubert v. Merrell Dow Pharms., Inc., 
+es vocuscuccetebesesonsedeens 37 
+Erie R. Co. v. Tompkins, 
+ vicn dic débceaseseeesecéas anus 10 
+Finley v. United States, 
+8 ES Pent 30, 31, 36, 37 
+Griffin v. Oceanic Contractors, 
+
+
+GP Ge FOOD So ae cccccccsvececnececscsecs 25 
+
+
+v 
+
+
+Grosjean v. American Press Co., 
+
+ee i cudecdaddvdcvbesdbeédeded 7, 13 
+Grubbs v. General Elec. Credit Corp., 
+
+id ceacénaccetwlbbetdueteede< 23 
+Guaranty Trust Co. of New York v. York, 
+
+i nechavgudcsechuatensedoseudee 10 
+Hallstrom v. Tillamook Cty., 
+
+SE nc wocncececesetstissndotecasa 17 
+Illinois Brick Co. v. Illinois, 
+
+ec cdncccccckdedoastéesesecdees 5 
+In re Brand Name Prescription Drugs Antitrust Litig., 
+
+ED GEE conc cccescckstetve cot 32 
+In re Infant Formula Antitrust Litig., 
+
+MDL No. 878 (N.D. Fla. Sept. 30, 1996)............ 21 
+In re Sinclair, 
+
+ef fe 7 ee rere 25 
+International Bhd. of Elec. Workers v. NLRB, 
+
+ED GUEIED Sed cbceecccescedcedés 28 
+Iselin v. United States, 
+
+rs <5 6 ace cedtdeiedeethedetene 17 
+
+
+Leatherman v. Tarrant County 
+Narcotics Intelligence and Coordination Unit, 
+
+
+ns id ceudeaaetsbbddedécéedeee 16 
+Meritcare, Inc. v. St. Paul Ins. Co., 
+
+rn, Pn fll ss cébenttWéccebéode 32 
+Mertens v. Hewitt Assocs., 
+
+EE ce ccoo cdbdecdedetsddetedctes 37 
+Mine Workers v. Gibbs, 
+
+ES « wn ccetscacticsdddicedtes 10, 11 
+Newman-Green, Inc. v. Alfonzo-Larrain, 
+
+Ns cc cashoscesiéidbadcdedecets 15 
+
+
+vi 
+
+Oliver v. Alexander, 
+
+ree 12 
+Packard Motor Car Co. v. NLRB, 
+
+EE. cn cceccneedevenetéecdcsectes 24 
+Peninsular Iron Co. v. Stone, 
+
+ee ieoccienesdsctuattietdavcotées 14 
+Public Citizen v. United States Dep't of Justice, 
+
+ee Ss cada ncsnsbenedbeesee isaks 18 
+Railroad Comm'n of Wisconsin v. 
+
+Chicago, B. & O. R. Co., 
+
+ED “ois dee ucuvacesceeusancetee 25 
+Rich v. Lambert, 
+
+53 U.S. (12 How.) 347 (1851) .................. 7, 13 
+Rogers v. Hennepin County, 
+
+a ns pea ceeainn 12 
+Russ v. State Farm Mut. Auto Ins. Co., 
+
+961 F. Supp. 808 (E.D. Pa. 1997) ............00000. 29 
+Salem Trust Co. v. Manufacturers’ Fin. Co., 
+
+ES NY Ee 15 
+Shannon v. United States, 
+
+ET BGb vc acuccasacunédcenes 2, 8, 28 
+Snyder v. Harris, 
+
+Ec ccncicccoudesecunssavseeeed 12 
+Strawbridge v. Curtiss, 
+
+7 US. (3 Cranch) 267 (1806) ............... 14, 22, 33 
+Stromberg Metal Works, Inc. v. Press Mechanical, Inc., 
+
+Oe ee ED BEE Kenecdicoscedéaucoccess 23 
+Supreme Tribe of Ben Hur v. Cauble, 
+
+acc écnestuseccédcnseeonvede 21 
+Swint v. Chambers County Comm'n, 
+
+
+FOO Ds SPEED 0 hhc cavbeccccvcccaciscvincnee 18 
+
+
+vii 
+
+
+Train v. City of New York, 
+
+a Rand tecnccnensenssneusedieen 25 
+TVA v. Hill, 
+
+Se Ee eudandedddiTeeecusoeiccunse 16 
+Unexcelled Chem. Corp. v. United States, 
+
+PEG Hes ece ddbbbedsoseséoedeeecces 26 
+United States v. Gonzales, 
+
+EEE dtd ccegenceseecesé0tteeden 25, 28 
+United States v. Mississippi, 
+
+ne do redegecudedéstteercssvest 23 
+West Virginia Univ. Hosps., Inc. v. Casey, 
+
+ins to5.00n0560066060008 40 cnacne 18 
+Wheless v. City of St. Louis, 
+
+nh jc daceenetesséueteéae cee 12 
+Zahn v. International Paper Co., 
+
+SP TEs ckc ces cccccecsesccovces passim 
+Statutes and Rules: 
+SEE BSS cM onstesdsceuncess 3, 10, 14, 16, 27 
+EE, ccnccdcdocescevcesveccesueeres passim 
+ED pUUU Cob cciedevccs dias cee Ceuee 10 
+hn boneocdesabeesdonconnstsateshes 16 
+DEE TP: dtendceveondessenseuncosbueneoes 16 
+PLD bare dbccsvcsvedccecvcssedes 16, 22, 23 
+PEALE ER GED cavcccccccencacs 1, 6, 16, 17, 23, 31, 34 
+SE Eee 0000s dco nitns Chasers ddacooenese ce 16 
+Judicial Improvements Act of 1990, 
+
+Pub. L. No. 101-650, 104 Stat. 5089 ......... 26, 30, 34 
+La. Code Civ. Pro. Ann. art. 595 ...........5 0c eee eeee 4 
+
+
+Miscellaneous: > 
+136 Cong. Rec. H8256 (Sept. 27, 1990) ............45. 33 
+
+
+Arthur, Thomas C. & Freer, Richard D., 
+Close Enough For Government Work: 
+What Happens When Congress Doesn't Do Its Job, 
+40 Emory L.J. 1007 (1991)... 0.2... cece e ee eee 21,37 
+
+
+Currie, David P., 
+
+Pendent Parties, 
+
+45 U. Chi. L. Rev. 753 (1978) .............045. 19, 20 
+Fairman, Christopher M.., 
+
+Abdication to Academia: 
+
+The Case of the Supplemental Jurisdiction Statute, 
+
+28 U.S.C. § 1367, 
+
+19 Seton Hall Legis. J. 157 (1994) ........... 30, 33-35 
+
+
+Federal Courts Implementation Act, H.R. 5381, 
+101st Cong., 2d Sess. (July 26,1990) .............. 33 
+
+
+Federal Courts Study Comm., 
+Report of the Federal Courts Study — (1990) . 30,32 
+
+
+Frankfurter, Felix, 
+Some Reflections on the Reading of Statutes, 
+47 Colum. L. Rev. 527 (1947) ..............000 eee 2 
+
+
+Freer, Richard D., 
+Compounding Confusion and Hampering Diversity: 
+Life after Finley and the Supplemental Jurisdiction Statute, 
+40 Emory L.J.445 (1991) 2.0... ccc cece cee wees 34 
+
+
+Freer, Richard D., 
+
+Toward a Principled Statutory Approach 
+
+to Supplemental Jurisdiction 
+
+in Diversity of Citizenship Cases, 
+
+Se EE Pe bkadccbeoscescecssccees 19, 20 
+Ginsburg, Ruth B., 
+
+
+A Plea for Legislative Review, 
+60 S. Cal. L. Rev. 995 (1987) ........... cece eeeees 26 
+
+
+ix 
+
+
+H.R. Rep. No. 101-734 (Sept. 10, 1990), 
+1990 U.S.C.C.AN. 6860 .......0.000000e0. 26, 27, 33 
+
+
+Hearings Before the Subcommittee on Courts, 
+Intellectual Property, and the Administration of Justice, 
+Ser. No. 124, 101st Cong., 2d Sess. (Sept. 6, 1990) ... . 33 
+
+
+Holmes, Oliver Wendell, Jr., 
+The Theory of Legal Interpretation, 
+12 Harv. L. Rev. 417 (1899) ..............0.0005. 25 
+
+
+Jackson, Robert H., 
+
+Problems of Statutory Interpretation, 
+
+cL cic cneetcccodsscccsccces 24 
+Redish, Martin H., 
+
+Reassessing the Allocation of Judicial Business 
+
+Between State and Federal Courts: 
+
+Federal Jurisdiction and “The Martian Chronicles,” 
+
+78 Va. L. Rev. 1769 (1992) ............. cece cues 21 
+
+
+Report of the Subcomm. on the Role of the Federal Courts 
+and Their Relation to the States (Mar. 12, 1990), 
+reprinted in Federal Courts Study Comm., 
+Working Papers and Subcomm. Reports ...... 30, 31, 33 
+
+
+Rowe, Thomas D., Jr., Burbank, Stephen B., 
+& Mengler, Thomas M., 
+Compounding or Creating Confusion About 
+Supplemental Jurisdiction? A Reply to Professor Freer, 
+40 Emory L.J.943 (1991) ..............0 0005 35, 36 
+
+
+Rowe, Thomas D., Jr., Burbank, Stephen B., 
+& Mengler, Thomas M., 
+A Coda on Supplemental Jurisdiction, 
+40 Emory L.J.993 (1991) . 0.0... cece cee eee 35 
+
+
+Rowe, Thomas D., Jr., 
+1367 And All That: 
+Recodifying Federal Supplemental Jurisdiction, 
+pS 19 
+
+
+Wald, Patricia M.., 
+Some Observations on the Use of Legislative History 
+in the 1981 Supreme Court Term, 
+Ss Ce HE oe he cencicascsasasece 29 
+
+
+Wright, Charles Alan, 
+The Law of Federal Courts (Sth ed. 1994) ........... 19 
+
+
+ee Foe ea 
+
+
+ee 
+
+
+5 FA MCR Se PLD Mt MS 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1999 
+
+
+No. 99-391 
+
+
+ROBIN FREE AND RENEE FREE, 
+Petitioners, 
+We 
+
+
+ABBOTT LABORATORIES, BRISTOL-MYERS SQUIBB 
+COMPANY, AND MEAD JOHNSON & COMPANY 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the United States Court of 
+Appeals for the Fifth Circuit 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+INTRODUCTION 
+
+
+This case presents a straightforward issue of statutory 
+interpretation. The plain language of the supplemental 
+jurisdiction statute authorizes federal courts to exercise 
+supplemental jurisdiction over non-federal claims to the full 
+extent allowed by Article III, except for particular categories of 
+claims specified in the statute. Conspicuously absent from the 
+list of statutory exceptions are claims brought on behalf of a 
+class under Rule 23 of the Federal Rules of Civil Procedure. 
+That is the beginning and the end of this case. The statute 
+unambiguously authorizes courts to exercise supplemental 
+jurisdiction over the claims of absent class members where, as 
+here, the court has original jurisdiction over the claims of the 
+named plaintiffs. 
+
+
+2 
+
+
+Petitioners, however, contend that the statute’s legislative 
+history reveals a contrary congressional “intent” that is 
+controlling here. For them, “the central question presented by 
+this case is whether the language of Section 1367 requires this 
+Court to disregard Congress’s unmistakable intent.” Pet. Br. 6. 
+But that approach gets matters precisely backwards. Statutory 
+interpretation begins with the language of the statute, and, at 
+least where that language is unambiguous, ends there. Because 
+the relevant statutory text here is clear, it is neither necessary 
+nor appropriate to consult the legislative history. Indeed, 
+petitioners’ contrary approach “give[s] point to the quip that 
+only when legislative history is doubtful do you go to the 
+statute.” Felix Frankfurter, Some Reflections on the Reading 
+of Statutes, 47 Colum. L. Rev. 527, 543 (1947). 
+
+
+In any event, petitioners’ legislative history argument fails 
+on its own terms. The passage of legislative history on which 
+they rely does not purport to explain or interpret any particular 
+statutory provision, but simply declares a free-floating intent 
+bereft of any textual anchor. That is not an interpretive aid, but 
+an alternative (and illegitimate) source of law. As this Court 
+has emphasized, “courts have no authority to enforce a 
+principle gleaned solely from legislative history that has no 
+statutory reference point.” Shannon v. United States, 512 U.S. 
+573, 584 (1994) (internal quotation and brackets omitted). 
+
+In the final analysis, there is great irony in petitioners’ 
+position that the supplemental jurisdiction statute essentially 
+does nothing more than codify the common law of “ancillary” 
+and “pendent” jurisdiction. For years, this Court struggled to 
+reconcile that common law with the bedrock principle that the 
+jurisdiction of the federal courts is governed by statute. 
+Congress enacted the supplemental jurisdiction statute in 1990 
+to replace the thicket of confusing and contradictory common- 
+law rules. Any common law rules inconsistent with the statute, 
+accordingly, are no longer valid. If Congress did not “intend” 
+to authorize supplemental jurisdiction over the claims at issue 
+
+
+pois (Seer SPY 
+
+
+SEP eit oe 
+
+
+3 
+
+
+here, then Congress can always amend the statute. But that, of 
+course, is a matter for Congress, not this Court. 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners Robin and Renee Free filed this class action in 
+Louisiana state court in October 1993, alleging that 
+respondents Abbott Laboratories, Bristol-Myers Squibb 
+Company, and Mead Johnson & Company conspired to raise 
+the price of infant formula in Louisiana in violation of state 
+law. J.A. 39a-5la. Petitioners purported to represent a class 
+consisting of “[ajll consumers who reside in the State of 
+Louisiana and who, at any time during the period of January 1, 
+1980 through December 31, 1992, purchased one or more of 
+the [respondents’] brands of infant formula in the State of 
+Louisiana.” J.A. 41a. They sought treble damages, attorney’s 
+fees, costs, and interest, but purported to disclaim any damages 
+in excess of $20,000 per class member. J.A. 40a-41a. 
+
+
+Respondents timely removed the action to federal court, and 
+petitioners moved to remand. See Pet. App. 100a. The district 
+court (Parker, C.J., M.D. La.) held that the case was within the 
+scope of federal jurisdiction, but declined to exercise that 
+jurisdiction on discretionary grounds. Pet. App. 92a-97a, 
+103a-0S5a. 
+
+
+The district court first concluded that it could exercise 
+diversity jurisdiction over the named plaintiffs’ claims under 
+28 U.S.C. § 1332 because (1) there was complete diversity of 
+citizenship between the named plaintiffs and the defendants, 
+Pet. App. 99a, 103a, and (2) “the named plaintiffs have claims 
+in excess of $50,000 because under Louisiana law the 
+attorney’s fees allowed by statute are attributed to the class 
+representatives,” Pet. App. 104a (citing La. Code Civ. Proc. 
+Ann. art 595). The court then concluded that it could exercise 
+supplemental jurisdiction over the absent class members’ 
+claims under 28 U.S.C. § 1367 because those claims were “so 
+related to [the named plaintiffs’ claims] that they form part of 
+the same case or controversy under Article III of the United 
+States Constitution.” Pet. App. 104a (quoting 28 U.S.C. 
+
+
+4 
+
+
+§ 1367(a)). But the court ultimately abstained from exercising 
+jurisdiction over any of the claims on the ground that they 
+“present novel issues of state law,” including the issue whether 
+indirect purchasers have a cause of action under Louisiana 
+antitrust law, and whether any such cause of action is 
+preempted by federal law. Pet. App. 104a; see also id. at 95a- 
+97a. Accordingly, the district court granted petitioners’ 
+remand motion. 
+
+
+On appeal, the Fifth Circuit vacated the remand order. Pet. 
+App. 76a-9la. The court began by affirming the district court’s 
+conclusion that it had diversity jurisdiction over the named 
+plaintiffs’ claims. Pet. App. 79a-82a. Like the district court, 
+the court of appeals held that the named plaintiffs’ claims 
+satisfied both the complete diversity and matter-in-controversy 
+requirements of the diversity statute. In particular, the court of 
+appeals agreed with the district court that the matter-in- 
+controversy requirement was satisfied because Louisiana law 
+awards all attorneys’ fees in a class action to “‘the 
+representative parties,” rather than to the class as a whole. 
+Pet. App. 81a (quoting La. Code Civ. Proc. Ann. art. 595). 
+
+The Fifth Circuit next affirmed the district court’s 
+conclusion that it had supplemental jurisdiction over the absent 
+class members’ claims. Pet. App. 82a-89a. The court of 
+appeals explained that the supplemental jurisdiction statute’s 
+“first section vests federal courts with the power to hear 
+supplemental claims generally, subject to limited exceptions set 
+forth in the statute’s second section.” Pet. App. 87a. Because 
+“[(c]lass actions are not among the enumerated exceptions,” 
+supplemental jurisdiction here was proper. /d That 
+conclusion, the Fifth Circuit recognized, had the effect of 
+superseding the result in Zahn v. International Paper Co., 414 
+U.S. 291 (1973), an effect specifically disclaimed by a passage 
+in the legislative history. “But the statute is the sole repository 
+of congressional intent where the statute is clear and does not 
+demand an absurd result.” Pet. App. 87a-88a. Because 
+“abolishing the strictures of Zahn is not an absurd result,” the 
+
+
+— 
+
+
+A as Seta ey ince ale 
+
+
+5 
+
+
+Fifth Circuit held, the plain language of the statute was 
+controlling. Pet. App. 88a. 
+
+
+Finally, the court of appeals reversed the district court’s 
+decision to abstain from exercising its jurisdiction over this 
+case. Pet. App. 89a-9la. There was no basis for declining 
+jurisdiction over the named plaintiffs’ claims, the Fifth Circuit 
+held, because “[s]tanding alone . . . the novelty or complexity 
+of state law issues is not enough to compel abstention.” Pet. 
+App. 90a. Accordingly, “[tJhis is not one of those truly rare 
+and exceptional cases in which Colorado River abstention is 
+proper.” Jd. It followed, the appellate court held, that there 
+was no basis to abstain from exercising supplemental 
+jurisdiction over the absent class members’ claims. “The court 
+must now adjudicate claims of the class 
+representatives—including the same novel and complex state 
+law issues the district court preferred to leave to Louisiana.” 
+Id. “In short,” the Fifth Circuit concluded, “the entire case 
+should remain in federal court.” Pet. App. 91a. 
+
+
+The case thus returned to the district court, which ultimately 
+dismissed all claims with prejudice on the ground that 
+petitioners, as indirect purchasers, lacked antitrust standing 
+under Louisiana law. Pet. App. 26a-41a. Petitioners appealed 
+that ruling to the Fifth Circuit, which certified the dispositive 
+state-law questions to the Louisiana Supreme Court. Pet. App. 
+10a-25a. A divided Louisiana Supreme Court, however, 
+denied the certification order. Pet. App. 9a. Accordingly, the 
+Fifth Circuit proceeded “to fathom Louisiana’s unsettled 
+antitrust law as Louisiana courts would do it,” Pet. App. 2a, 
+and affirmed the district court’s conclusion that Louisiana 
+would follow federal law in holding that indirect purchasers 
+like petitioners lack antitrust standing, see id. (citing Illinois 
+Brick Co. v. Illinois, 431 U.S. 720 (1978)). 
+
+Petitioners then sought this Court’s review, limited to the 
+sole question whether the supplemental jurisdiction statute 
+authorizes federal courts to exercise jurisdiction over the 
+claims of absent class members “as long as diversity 
+
+
+6 
+
+
+jurisdiction exists over the claims of one named plaintiff.” 
+Pet. i. This Court granted certiorari on November 29, 1999. 
+SUMMARY OF ARGUMENT 
+
+
+This case is governed by two provisions of the supplemental 
+jurisdiction statute, 28 U.S.C. § 1367. The first, subsection (a), 
+broadly authorizes federal courts to exercise supplemental 
+jurisdiction over nonfederal claims that form part of the same 
+Article III case or controversy as claims within the courts’ 
+original jurisdiction. The second, subsection (b), carves out 
+certain specific exceptions to supplemental jurisdiction where 
+the courts’ original jurisdiction is based on diversity of 
+citizenship. The claims of the absent class members here fall 
+within the scope of subsection (a), and are not carved out by 
+subsection (b). 
+
+
+The absent class members’ claims fall within the scope of 
+subsection (a) because they form part of the same Article II] 
+case or controversy as the named plaintiffs’ claims, which are 
+within the federal courts’ original jurisdiction. (Petitioners do 
+not dispute that the named plaintiffs satisfy both the complete 
+diversity and matter-in-controversy requirements of the 
+diversity statute.) The absent class members’ claims are not 
+carved out by subsection (b) because that subsection does not 
+include claims brought under Rule 23 of the Federal Rules of 
+Civil Procedure. Accordingly, as the Fifth Circuit concluded, 
+the absent class members’ claims are properly within the 
+federal courts’ supplemental jurisdiction. 
+
+Petitioners’ two arguments against this straightforward 
+application of the supplemental jurisdiction statute are 
+manifestly incorrect. First, petitioners argue that the statute 
+requires original jurisdiction over ai/ claims in a particular 
+“civil action” as a predicate for exercising supplemental 
+jurisdiction. That argument, however, makes no sense, because 
+the whole point of supplemental jurisdiction is to allow courts 
+to exercise jurisdiction over claims that are not otherwise 
+within their original jurisdiction. Indeed, this Court rejected 
+
+
+a NOIR oe apa rie meme 
+
+
+CGS EI TES 
+
+
+: 
+
+
+7 
+
+
+precisely this argument just two Terms ago in City of Chicago 
+v. International College of Surgeons, 522 U.S. 156 (1997). 
+
+Second, petitioners argue that the failure of any plaintiff to 
+satisfy the matter-in-controversy requirement destroys 
+“original jurisdiction” over the entire action. That is not true. 
+Under long-settled law, the failure of one of multiple plaintiffs 
+to satisfy the statutory matter-in-controversy requirement 
+requires dismissal of that plaintiff, but does not require 
+dismissal of other plaintiffs who satisfy that requirement. See, 
+e.g., Clark v. Paul Gray, Inc., 306 U.S. 583, 588-90 (1939); 
+Grosjean v. American Press Co., 297 U.S. 233, 241-42 (1936); 
+Rich v. Lambert, 53 U.S. (12 How.) 347, 352-53 (1851). 
+
+
+A textual interpretation of the supplemental jurisdiction 
+statute, to be sure, has the result of superseding the implicit 
+holding in Zahn v. International Paper Co., 414 U.S. 291 
+(1973), that courts cannot exercise common-law ancillary 
+jurisdiction over absent class members’ claims even when they 
+have original jurisdiction over the named plaintiffs’ claims. 
+But that result is by no means absurd; to the contrary, it is 
+eminently sensible. Zahn drew a strong dissent, and has since 
+been widely criticized, in part because it encouraged wasteful 
+duplicative litigation: those members of a class who could 
+satisfy the amount-in-controversy requirement could proceed 
+in federal court, but those members of that very same class who 
+could not were forced to litigate the identical issues in state 
+court. 
+
+Because the text of the statute is plain and does not lead to 
+an absurd result, there is no basis for consulting the legislative 
+history. Petitioners rely on an isolated passage from a 
+committee report that they interpret as expressing 
+congressional “intent” to retain the implicit holding in Zahn. 
+But that passage does not have the force of law, and thus 
+cannot override the statute’s plain text. Legislative history 
+cannot be used to create, but only to resolve, doubts about the 
+meaning of a statute. 
+
+
+Petitioners’ legislative history argument, moreover, fails on 
+its own terms. The snippet of legislative history on which they 
+rely does not purport to explain or interpret any particular 
+provision of the statute, but simply expresses a free-floating 
+intention divorced from the statutory text. As this Court 
+explained in Shannon v. United States, 512 U.S. 573, 583 
+(1994), such legislative history serves no legitimate purpose. 
+
+
+In any event, the legislative history as a whole in this case 
+confirms the textual conclusion that the supplemental 
+jurisdiction statute supersedes the implicit holding in Zahn. 
+The language and structure of the statute as ultimately enacted 
+are in all material respects identical to a draft statute that was 
+expressly intended to supersede Zahn. Petitioners’ argument 
+that the legislative history here is “entirely one-sided,” Pet. Br. 
+31, is thus inaccurate, and the legislative history actually 
+supports respondents at least as much as petitioners. 
+
+
+ARGUMENT 
+
+
+I. THE PLAIN TEXT OF SECTION 1367 AUTHORIZES 
+COURTS TO EXERCISE SUPPLEMENTAL 
+JURISDICTION OVER THE CLAIMS OF ABSENT 
+CLASS MEMBERS. 
+
+As this Court has emphasized time and again, an analysis of 
+any statute must begin with the statutory text itself, not with 
+external sources. See, e.g., Connecticut Nat'l Bank v. Germain, 
+503 U.S. 249, 253-54 (1992); Caminetti v. United States, 242 
+U.S. 470, 485 (1917). In this case, the Court need proceed no 
+
+The first subsection of the supplemental jurisdiction statute, 
+28 U.S.C. § 1367(a), broadly authorizes federal courts to 
+exercise supplemental jurisdiction to the limits of Article III. 
+The second subsection of that statute, § 1376(b), then carves 
+out specific exceptions to that authority in diversity cases. 
+Because the claims of the absent class members in this case fall 
+within the first subsection, but are not carved out by the second 
+subsection, the Fifth Circuit properly concluded that those 
+
+
+9 
+
+
+claims fell within the statutory scope of supplemental 
+j . 1i . 1 
+A. The Plain Text of Subsection 1367(a) Encompasses 
+the Claims of Absent Class Members Where the 
+Claims of the Named Plaintiffs Are Within the 
+Federal Courts’ Original Jurisdiction. 
+
+
+This case is governed by subsection (a) of the supplemental 
+jurisdiction statute, which provides in its entirety: 
+
+(a) Except as provided in subsection (b) or (c) 
+or as expressly provided otherwise by Federal 
+statute, in any civil action of which the district 
+courts have original jurisdiction, the district 
+courts shall have supplemental jurisdiction over 
+all other claims that are so related to claims in 
+they form part of the same case or controversy 
+under Article [I] of the United States 
+Constitution. Such supplemental jurisdiction 
+shall include claims that involve the joinder or 
+intervention of additional parties. 
+
+This provision extends federal jurisdiction over claims 
+(1) the district court in “any civil action” must have “original 
+jurisdiction” over some claim or claims, and (2) the claim or 
+claims for which supplemental jurisdiction is sought must form 
+part of the same “case or controversy under Article Ill of the 
+United States Constitution” as the claim or claims within the 
+district court’s original jurisdiction. Both of these conditions 
+are met here. 
+
+
+' The third subsection of the statute, § 1367(c), authorizes courts to decline 
+to exercise their supplemental jurisdiction under exceptional circumstances. 
+The Fifth Circuit, however, held that the district court abused its discretion 
+provision, see Pet. App. 89a-91a, and petitioners have not challenged that 
+holding in this Court. 
+
+
+10 
+
+
+First, the district court had “original jurisdiction” over the 
+named plaintiffs’ claims under the diversity statute, 28 U.S.C. 
+§ 1332. As the courts below recognized, the named plaintiffs 
+here are citizens of different States than the defendants, and 
+their claims satisfy the statutory matter-in-controversy 
+requirement because they alone are entitled to collect all 
+attorneys’ fees under Louisiana law. Pet. App. 79a-82a (Fifth 
+Circuit); 103a-04a (district court). Petitioners do not contest 
+either of these points.’ 
+
+
+Second, the absent class members’ claims are part of the 
+same constitutional “case or controversy” as the named 
+plaintiffs’ claims. All of these claims “derive from a common 
+nucleus of operative fact.” Mine Workers v. Gibbs, 383 U.S. 
+715, 725 (1966). Indeed, the named plaintiffs and the absent 
+class members challenge precisely the same conduct, which is 
+why petitioners purport to represent the absent class members 
+in the first place. See, e.g. J.A. 44a (“[T]he claims of the 
+representative parties are typical of the claims applicable to the 
+entire class.”); id (“[Q]uestions of law and fact common to the 
+
+
+? The “original jurisdiction” inquiry is the same in cases removed from state 
+court as in cases filed in federal court in the first instance. As this Court 
+recently explained, “a removed case is necessarily one ‘of which the district 
+courts have original jurisdiction.”” City of Chicago v. International College 
+of Surgeons, 522 U.S. 156, 165 (1997) (citing 28 U.S.C. § 1441(a)); see also 
+id. at 176 n.1 (Ginsburg, J., dissenting). 
+
+* Petitioners’ amicus, the State of Louisiana, asserts that the fee-shifting 
+statute on which the lower courts relied is procedural, not substantive, in 
+nature, and hence inapplicable in federal court under the doctrine of Erie R. 
+Co. v. Tompkins, 304 U.S. 64, 78 (1938). See La. Br. 4, 8-9. That is 
+incorrect. To the contrary, it is well-settled that such fee-shifting statutes are 
+substantive, not procedural, in nature, and hence apply in federal court. See, 
+e.g., Alyeska Pipeline Serv. Co. v. Wilderness Soc'y, 421 U.S. 240, 259 n.31 
+(1975). That is true regardless of whether the State characterizes the statute 
+as substantive or procedural for its own purposes. See, e.g, Guaranty Trust 
+Co. of New York v. York, 326 U.S. 99, 109 (1945). Petitioners, it is worth 
+noting, do not challenge this point; to the contrary, it is the very premise of 
+the Question Presented in their petition for certiorari that “diversity 
+jurisdiction exists over the claims of one named plaintiff.” Pet. i. 
+
+
+11 
+
+
+class predominate over any questions affecting only individual 
+members of the class.”). Whatever the outer limits of a single 
+“case or controversy” under Article III, it is clear that all of the 
+claims in this case fall well within them. See, e.g., City of 
+Chicago v. International College of Surgeons, 522 U.S. 156, 
+165-66 (1997); Gibbs, 383 U.S. at 725. Again, petitioners do 
+not contest this point. 
+
+Petitioners, however, insist that the statutory predicate for 
+supplemental jurisdiction is lacking here because this case is 
+not a “civil action of which the district courts have original 
+jurisdiction.” Pet. Br. 9-19. That argument is based on two 
+erroneous assumptions. 
+
+First, petitioners assume that the statute requires “original 
+jurisdiction” over an entire “civil action” before supplemental 
+jurisdiction can be exercised. That assumption, however, 
+collapses the original and supplemental jurisdiction inquiries, 
+and makes no sense. “The whole point of supplemental 
+jurisdiction is to allow the district courts to exercise pendent 
+jurisdiction over claims as to which original jurisdiction is 
+lacking.” International College of Surgeons, 522 U.S. at 167. 
+If the supplemental jurisdiction statute required original 
+jurisdiction over ail claims in a particular “civil action,” then 
+supplemental jurisdiction would be entirely superfluous. By 
+definition, supplemental jurisdiction applies only to claims 
+outside the federal courts’ original jurisdiction. Petitioners’ 
+assumption would thus render the entire supplemental 
+jurisdiction statute a nullity. 
+
+The statutory requirement of “original jurisdiction,” in other 
+words, applies to some, but not all, claims in a particular “civil 
+action.” The statute underscores this point by authorizing 
+supplemental jurisdiction “over all other claims” that form part 
+of the same constitutional case or controversy as “claims in the 
+action within such original jurisdiction.” 28 U.S.C. § 1367(a) 
+(emphasis added). If the statute required original jurisdiction 
+over all claims in the “civil action,” then by definition there 
+
+
+12 
+
+
+would be no “other claims” over which to exercise 
+supplemental jurisdiction. 
+
+
+This Court confirmed this common-sense point just two 
+Terms ago in /nternational College of Surgeons. The party 
+opposing supplemental jurisdiction there, like petitioners here, 
+argued against supplemental jurisdiction on the ground that its 
+nonfederal claims were not within the “original jurisdiction” of 
+the federal courts. See 522 U.S. at 166. This Court squarely 
+rejected that argument. See id. at 166-69. The initial inquiry, 
+the Court explained, was whether any of the claims in the “civil 
+action” were within the district court’s “original jurisdiction.” 
+Id. at 166. If so, “the relevant inquiry respecting the 
+accompanying state claims is whether they fall within a district 
+court’s supplemental jurisdiction, not its original jurisdiction.” 
+Id. at 167. The contrary approach, which would require all 
+claims to fall within the “original jurisdiction” of the federal 
+courts, “would effectively read the supplemental jurisdiction 
+statute out of the books.” /d. 
+
+
+Second, petitioners erroneously assume that a court cannot 
+exercise “original jurisdiction” over the claims of any plaintiff 
+in a “civil action” based on diversity where the statutory 
+matter-in-controversy requirement is not met with respect to 
+the claims of every plaintiff. That assumption, which 
+petitioners dub the “matter-in-controversy rule,” Pet. Br. 7, is 
+flatly inconsistent with settled law. 
+
+
+Petitioners’ error stems from their misreading of the long 
+line of cases holding that “the claims of cach plaintiff must 
+satisfy the jurisdictional minimum.” Pet. Br. 13 (emphasis 
+added). What that long line of cases establishes is that multiple 
+plaintiffs cannot satisfy the matter-in-controversy requirement 
+by simply aggregating their claims. See, e.g, Zahn v. 
+International Paper Co., 414 U.S. 291, 295 (1973); Snyder v. 
+Harris, 394 U.S. 332, 336 (1969); Rogers v. Hennepin County, 
+239 U.S. 621, 622 (1916); Wheless v. City of St. Louis, 180 
+U.S. 379, 382 (1901); Oliver v. Alexander, 31 U.S. (6 Pet.) 
+143, 147-48 (1832). Contrary to petitioners’ assumption, that 
+
+
+13 
+
+
+line of cases does not establish that the presence of “any 
+plaintiff with claims for less than the jurisdictional minimum” 
+necessarily defeats diversity jurisdiction with respect to every 
+other plaintiff in the same civil action. Pet. Br. 16 (emphasis 
+added). 
+
+
+Indeed, just the opposite is true. It has been settled for well 
+over a century that federal courts can exercise original 
+jurisdiction over the claims of those plaintiffs who satisfy the 
+statutory matter-in-controversy requirement, even if the claims 
+of one or more other plaintiffs in the same action fail to satisfy 
+that requirement. Thus, in Clark v. Paul Gray, Inc., 306 U.S. 
+583, 588-90 (1939), this Court dismissed the claims of those 
+plaintiffs who failed to satisfy the matter-in-controversy 
+requirement, but not the claims of the single plaintiff who 
+satisfied that requirement. As the Clark Court explained, 
+“[p]roper practice requires that where each of several plaintiffs 
+is bound to establish the jurisdictional amount with respect to 
+his own claim, the suit should be dismissed as to those who fail 
+to show that the requisite amount is involved.” Id. at 590 
+(emphasis added); see also Grosjean v. American Press Co., 
+297 U.S. 233, 241-42 (1936) (holding that district court 
+properly exercised jurisdiction over claims that satisfied the 
+jurisdictional amount, even though other claims did not); Rich 
+v. Lambert, 53 U.S. (12 How.) 347, 352-53 (1851) (exercising 
+jurisdiction over claims that satisfied the jurisdictional amount, 
+but dismissing claims that did not). 
+
+This point, in fact, is underscored by Zahn, a case that 
+petitioners otherwise embrace. The Zahn Court held that a 
+district court could not exercise diversity jurisdiction over 
+absent class members whose claims did not satisfy the statutory 
+matter-in-controversy requirement. 414 U.S. at 301. But the 
+Court did not hold that this deficiency defeated diversity 
+jurisdiction over the entire civil action. To the contrary, the 
+Zahn Court explained that the matter-in-controversy 
+requirement “requires dismissal of those litigants whose claims 
+do not satisfy the jurisdictional amount,” not those litigants 
+
+
+14 
+
+
+who do satisfy that amount. /d. at 295 (citing, inter alia, Clark, 
+emphasis added). Indeed, Zahn expressly reaffirmed Clark’s 
+holding that the matter-in-controversy requirement “requires 
+that any plaintiff without the jurisdictional amount must be 
+dismissed from the case, even though others allege 
+jurisdictionally sufficient claims.” Jd. at 300; see also id. at 
+295-96 (noting with approval that the Clark Court, “[u}pon 
+ascertaining on its own motion that only one of the plaintiffs in 
+the District Court had presented a claim satisfying the 
+jurisdictional amount, . . . reached the merits of that claim but 
+directed the District Court to dismiss the claims of all other 
+plaintiffs for want of jurisdiction”) (emphasis added); id. at 300 
+(noting with approval that in Clark “only one of several 
+plaintiffs had a sufficiently, large claim and all other plaintiffs 
+were dismissed from the suit”); id. at 300 n.9 (“Clark requires 
+the dismissal of any named plaintiff in an action whose case 
+does not satisfy the jurisdictional amount.”); id. at 301 (“Each 
+plaintiff in a Rule 23(b)(3) class action must satisfy the 
+jurisdictional amount, and any plaintiff who does not must be 
+dismissed from the case.”) (emphasis added). 
+
+
+It is not true, in short, that “an exercise of supplemental 
+jurisdiction over the absent class members in this case 
+necessarily would defeat the original jurisdiction requirement 
+that each and every plaintiff in the action has claims exceeding 
+the jurisdictional minimum.” Pet. Br. 16. That erroneous 
+assumption apparently stems from petitioners’ failure to 
+distinguish between the two distinct requirements of the 
+diversity statute: (1) complete diversity of citizenship, and (2) a 
+matter in controversy in excess of the jurisdictional minimum. 
+See 28 U.S.C. § 1332. With respect to the complete diversity 
+requirement, it is true that the presence of a single plaintiff who 
+is a citizen of the same State as a single defendant defeats 
+jurisdiction over the entire action, at least where the relevant 
+parties are indispensable. See, e.g., Peninsular Iron Co. v. 
+Stone, 121 U.S. 631, 633 (1887); Corporation of New Orleans 
+v. Winter, 14 U.S. (1 Wheat.) 91, 94-95 (1816); Strawbridge v. 
+
+
+15 
+
+
+Curtiss, 7 U.S. (3 Cranch) 267 (1806) (Marshall, C.J.).* As 
+noted above, however, that has never been true with respect to 
+the matter-in-controversy requirement. 
+
+
+Petitioners thus err by arguing that the statutory predicate for 
+supplemental jurisdiction is lacking here because this case is 
+not a “civil action of which the district courts have original 
+jurisdiction.” This case, like International College of 
+Surgeons, is a “civil action” in which the district court has 
+“original jurisdiction” over some, but not all, claims. And 
+here, as in /nternational College of Surgeons, the exercise of 
+supplemental jurisdiction over the claims outside the court’s 
+original jurisdiction would not defeat the original jurisdiction 
+requirement. Accordingly, as in International College of 
+Surgeons, the statutory requirement of a “civil action of which 
+the district courts have original jurisdiction” is clearly satisfied. 
+And because all of the claims in this case “form part of the 
+same case or controversy under Article III of the United States 
+Constitution”—a point that petitioners do not even contest—it 
+follows that the absent class members’ claims fall within the 
+broad scope of supplemental jurisdiction under subsection (a) 
+of the statute. 
+
+
+B. The Plain Text of Subsection 1367(b) Does Not 
+Carve Out the Claims of Absent Class Members. 
+
+
+The only remaining textual question is whether the absent 
+class members’ claims are carved out of the broad scope of 
+supplemental jurisdiction by subsection (b) of the statute. That 
+subsection provides in its entirety: 
+
+(b) In any civil actions of which the district 
+court have original jurisdiction founded solely 
+on section 1332 of this title, the district courts 
+
+
+* Where the relevant parties are not indispensable, in contrast, the court can 
+cure a lack of complete diversity by simply dismissing a non-diverse party 
+and retaining original jurisdiction over the rest of the action. See, eg. 
+Newman-Green, Inc. v. Alfonzo-Larrain, 490 U.S. 826, 832-38 (1989); 
+Salem Trust Co. v. Manufacturers’ Fin. Co., 264 U.S. 182, 189-90 (1924). 
+
+
+16 
+
+
+shall not have supplemental jurisdiction under 
+subsection (a) over claims by plaintiffs against 
+persons made parties under Rule 14, 19, 20, or 
+24 of the Federal Rules of Civil Procedure, or 
+over claims by persons proposed to be joined as 
+plaintiffs under Rule 19 of such rules, or 
+seeking to intervene as plaintiffs under Rule 24 
+of such rules, when exercising supplemental 
+jurisdiction would be inconsistent with the 
+jurisdictional requirements of section 1332. 
+
+This subsection must be considered here because (in contrast 
+to International College of Surgeons), the “original 
+jurisdiction” of the district court in this case is “founded solely 
+on section 1332 of this title,” the diversity statute. 
+Subsection (b) precludes the exercise of supplemental 
+jurisdiction over two categories of claims: (1) claims by 
+plaintiffs against persons made parties under Federal Rules of 
+Civil Procedure 14 (third-party practice); 19 (mandatory 
+joinder); 20 (permissive joinder); and 24 (intervention); and 
+(2) claims by persons proposed to be joined as plaintiffs under 
+Rule 19 or seeking to intervene as plaintiffs under Rule 24. 
+These exceptions sharply limit the scope of supplemental 
+jurisdiction in diversity cases, and prevent plaintiffs from 
+evading the requirements of diversity jurisdiction under 
+Section 1332. 
+
+As the Fifth Circuit recognized, however, this subsection 
+does not prevent the exercise of supplemental jurisdiction over 
+the claims of absent class members under Rule 23 of the 
+Federal Rules of Civil Procedure, for the simple reason that 
+Rule 23 is “not among the enumerated exceptions” in that 
+provision. Pet. App. 87a. This is nothing more than a 
+straightforward application of the traditional maxim expressio 
+unius est exclusio alterius. See, e.g., Leatherman v. Tarrant 
+County Narcotics Intelligence and Coordination Unit, 507 U.S. 
+163, 168 (1993); TVA v. Hill, 437 U.S. 153, 188 (1978). If 
+Congress had intended to preclude supplemental jurisdiction 
+
+
+17 
+
+
+over the claims of absent class members, it could have done so 
+by simply adding Rule 23 to the list of rules in subsection (b). 
+But Congress did not do so, and that omission is dispositive 
+here. “To supply omissions transcends the judicial function.” 
+Iselin v. United States, 270 U.S. 245, 251 (1926) (Brandeis, J.). 
+Where, as here, a statute “contains no exception applicable to 
+petitioner’s situation[,] we are not at liberty to create an 
+exception where Congress has declined to do so.” Hallstrom 
+v. Tillamook Cty., 493 U.S. 20, 27 (1989); see also Chan v. 
+Korean Air Lines, Ltd., 490 U.S. 122, 134-35 (1989). 
+
+
+Petitioners neither challenge this straightforward 
+interpretation of subsection (b), nor ask this Court to insert 
+Rule 23 into the list of rules in that subsection. Instead, they 
+base their “textual” argument entirely on their interpretation of 
+the “original jurisdiction” clause of subsection (a), and simply 
+assert that “the language, purpose, and operation of Section 
+1367(b) strongly suggest that Congress intended to leave the 
+matter-in-controversy rule intact.” Pet. Br. 19 (capitalization 
+modified). That assertion, however, presupposes the existence 
+of a “matter-in-controversy” rule that would preclude the 
+exercise of original jurisdiction over the claims of every 
+plaintiff in an action where the claims of any plaintiff fail to 
+satisfy the jurisdictional minimum. As explained above, no 
+such “rule” has ever existed, and hence Congress could not 
+have “intended” to leave any such rule “intact.” Pet. Br. 19. 
+
+
+Petitioners also contend that subsection (b) reveals an 
+underlying “purpose” of limiting supplemental jurisdiction in 
+diversity actions, and that allowing courts to exercise 
+supplemental jurisdiction over the claims of absent class 
+members would be “inconsistent” with that purpose. Pet. Br. 
+19-22. The short answer to that argument is that Congress 
+expressed its “purpose” in the text of the statute by precluding 
+the exercise of supplemental jurisdiction over some, but not all, 
+nonfederal claims in diversity actions. The fact that subsection 
+(b) does not “carve out” the claims of absent class members 
+under Rule 23 is as much a reflection of congressional intent as 
+
+
+18 
+
+
+the fact that subsection (b) does “carve out” specified other 
+claims. The purpose of a statute is reflected not only in what 
+it includes, but also in what it omits. See, e.g., West Virginia 
+Univ. Hosps., Inc. v. Casey, 499 U.S. 83, 98 (1991). 
+
+
+C. A Textual Interpretation of Section 1367 Is Not 
+Absurd. 
+
+
+Petitioners finally contend that the Fifth Circuit’s textual 
+interpretation of the supplemental jurisdiction statute would 
+lead to “absurd results” that Congress could not possibly have 
+intended. Pet. Br. 23-25, 35-36. That is not true. A textual 
+reading of the statute is not only rational, but necessary to 
+achieve the statutory goal of “clarify[ing] and codify[ing]} 
+instances appropriate for the exercise of _pendent or 
+
+‘supplemental’ jurisdiction in district courts.” Swint vy. 
+Chambers County Comm'n, 514 U.S. 35, 48 n.6 (1995). The 
+canon of avoiding absurd results is not a license for courts to 
+substitute their own policy choices for those of Congress. See, 
+e.g., Crooks v. Harrelson, 282 U.S. 55, 60 (1930) (“[T}o justify 
+a departure from the letter of the law based upon [absurdity], 
+the absurdity must be so gross as to shock the general moral or 
+common sense.”); Public Citizen v. United States Dep't of 
+Justice, 491 U.S. 440, 470-71 (1989) (Kennedy, J., concurring 
+in judgment) (canon of avoiding absurd results “remains a 
+legitimate tool of the Judiciary . . . only as long as the Court 
+acts with self-discipline by limiting the exception to situations 
+where the result of applying the plain language would be, in a 
+genuine sense, absurd, i.e., where it is quite impossible that 
+Congress could have intended the result, and where the alleged 
+absurdity is so clear as to be obvious to most anyone.”). 
+
+
+It is true that a textual interpretation of the statute has the 
+effect of superseding the result of this Court’s decision in 
+Zahn.’ But, as the Fifth Circuit explained, “[a]bolishing the 
+
+
+* It is important to note that Zahn, on its face, held only that absent class 
+members do not fall within the federal courts’ original diversity jurisdiction 
+(continued...) 
+
+
+OEE SPIO 
+
+
+; 
+f 
+- 
+b 
+
+
+19 
+
+
+strictures of Zahn is not an absurd result.” Pet. App. 88a. 
+Zahn’s implicit (and hence unexplained and unexamined) 
+holding—that federal courts lack common-law ancillary 
+jurisdiction over the claims of absent class members who do 
+not satisfy the statutory matter-in-controversy requirement 
+even where the named plaintiffs satisfy that requirement—was 
+criticized by the three dissenters, see 414 U.S. at 302-12, and 
+subsequently by commentators, see, e.g., David P. Currie, 
+Pendent Parties, 45 U. Chi. L. Rev. 753, 766 (1978) 
+(characterizing Zahn as “the bad apple” in the law of ancillary 
+jurisdiction); Richard D. Freer, Toward a Principled Statutory 
+Approach to Supplemental Jurisdiction in Diversity of 
+Citizenship Cases, 74 Ind. L.J. 5, 19-20 & n.79 (1998) (noting 
+that “the overwhelming majority of academic commentary has 
+criticized Zahn,” and citing such commentary); Thomas D. 
+Rowe, Jr., 1367 And All That: Recodifying Federal 
+Supplemental Jurisdiction, 74 Ind. LJ. 53, 63 (1998) 
+(observing that Zahn “has few defenders” and should be 
+overruled). 
+
+
+Indeed, overturning the result in Zahn is not only rational, 
+but eminently sensible. Zahn created the possibility of 
+wasteful duplicative litigation: those members of a class who 
+
+
+> (...continued) 
+
+unless they individually satisfy the matter-in-controversy requirement, even 
+where the named plaintiffs satisfy that requirement. 414 U.S. at 301. The 
+Zahn majority did not address the distinct (but related) question whether a 
+plaintifts, could thereafter exercise common-law ancillary jurisdiction over 
+the absent class members. The dissent in Zahn did address that question, 
+and concluded that such ancillary jurisdiction was proper. See id. at 308-09 
+(Brennan, J., dissenting); see also Charles Alan Wright, The Law of Federal 
+Courts 214 (Sth ed. 1994) (“Zahn is a puzzling case, particularly because of 
+its failure even to consider the argument of three dissenters that recent 
+principles of ancillary jurisdiction, which had been held to overcome the 
+jurisdictional-amount requirement in other contexts, should do so also in 
+connection with joinder of parties.”) (footnote omitted); Pet. Br. 14 
+(acknowledging that the Zahn majority “did not directly address th[e] 
+ancillary jurisdiction argument”). 
+
+
+20 
+
+
+could satisfy the amount-in-controversy requirement could 
+proceed in federal court, but those members of that same class 
+who could not were forced to litigate the very same issues in 
+State court. That result is not necessary to preserve the 
+traditional federal rule against claim aggregation: “{i}t is one 
+thing to hold one cannot independently force a flock of petty 
+controversies upon a federal court by combining them in a 
+single complaint; it is quite another to remit the holders of 
+petty claims to a duplicative state court suit when there is a 
+substantial federal suit pending.” Currie, Pendent Parties, 45 
+U. Chi. L. Rev. at 756. 
+
+
+Overturning Zahn, in fact, does not open the federal courts 
+to a single case that could not already be filed there, but simply 
+allows claims that are properly in federal court to be brought on 
+behalf of a class. Although that result may entail some 
+additional burden on the federal courts, “[i}t should be a 
+sufficient answer that denial of ancillary jurisdiction will 
+impose a much larger burden on the state and federal judiciary 
+as a whole, and will substantially impair the ability of the 
+rzospective class members to assert their claims.” Zahn, 414 
+US. at 308 (Brennan, J., dissenting); see also Freer, Principled 
+Approach, 74 Ind. L.J. at 20 (“[O}verruling Zahn will better 
+equip federal courts to resolve complex interstate disputes that 
+may not be well handled in the courts of some states.”).° 
+
+
+® Petitioners and their amicus Louisiana distort the federalism issues in this 
+case by asserting that a textual interpretation of Section 1367 undermines 
+“state sovereignty” by “the inevitable encroachment that would result from 
+an increase in the number of diversity cases in federal court.” Pet. Br. 18; 
+see also La. Br. 3. This case is about the scope of supplemental jurisdiction, 
+not the scope of diversity jurisdiction. Section 1367 specifies that a federal 
+court must have Original jurisdiction over some claims in a case before it can 
+exercise supplemental jurisdiction over other claims in that case. Because 
+there is mo question here of expanding the federal courts’ original 
+jurisdiction, any federalism concerns are insubstantial. In any event, 
+Louisiana’s invocation of federalism principles here is ironic, as Louisiana 
+itself chose to file a related lawsuit against respondents in federal, rather 
+
+(continued...) 
+
+
+21 
+
+
+Overturning Zahn also creates a sensible symmetry in class 
+actions between the two requirements of the diversity statute. 
+Since this Court’s decision in Supreme Tribe of Ben Hur v. 
+Cauble, 255 U.S. 356, 366 (1921), it has been settled that the 
+requirement of complete diversity of citizenship in class 
+actions is assessed solely by reference to the citizenship of the 
+named plaintiffs, not the absent class members. But Zahn 
+rejected that approach with respect to the statutory matter-in- 
+controversy requirement, holding that absent class members 
+whose claims did not meet the jurisdictional minimum must be 
+dismissed even where the named plaintiffs’ claims satisfied 
+that requirement. See 414 U.S. at 301. As the Zahn dissent 
+noted, “it is difficult to understand why the practical approach 
+the Court took in Supreme Tribe of Ben-Hur must be 
+abandoned where the purely statutory ‘amount in controversy’ 
+requirement is concerned.” 414 U.S. at 309 (Brennan, J., 
+dissenting); see also Martin H. Redish, Reassessing the 
+Allocation of Judicial Business Between State and Federal 
+Courts: Federal Jurisdiction and “The Martian Chronicles,” 
+78 Va. L. Rev. 1769, 1818 (1992) (Zahn created a “wholly 
+illogical dichotomy” with Ben Hur); Thomas C. Arthur & 
+Richard D. Freer, Close Enough For Government Work: What 
+Happens When Congress Doesn't Do Its Job, 40 Emory L.J. 
+1007, 1008 n.6 (1991) (“Zahn is inconsistent with the Court’s 
+holding in /Ben Hur].”). 
+
+The issue here, of course, is not whether overturning Zahn 
+is a good idea or a bad one, but only whether the idea is absurd. 
+Because it is not, this Court must take the statute at face value. 
+As the Fifth Circuit put it, “the wisdom of the statute is not our 
+affair beyond determining that overturning Zahn is not absurd.” 
+Pet. App. 89a. 
+
+
+* (...continued) 
+than state, court. See, e.g. In re Infant Formula Antitrust Litig., MDL No. 
+878 (N.D. Fla. Sept. 30, 1996). 
+
+
+22 
+
+
+Petitioners, however, assert that the Fifth Circuit “wrongly 
+applied the absurdity rule by narrowly iooking only at whether 
+reversing the result in Zahn would be absurd.” Pet. Br. 36 
+n.12. According to petitioners, the Fifth Circuit’s textual 
+analysis must be rejected because it would produce other 
+allegedly absurd results. See id In particular, petitioners 
+contend that the Fifth Circuit’s analysis would effectively 
+abrogate the complete diversity requirement as construed in 
+Strawbridge, 7 U.S. (3 Cranch) at 267, by allowing courts to 
+exercise supplemental jurisdiction over claims where the 
+parties lack complete diversity. Pet. Br. 23. The plain text of 
+the statute, however, refutes that contention. 
+
+
+For one thing, as petitioners themselves point out, the 
+Statute’s subsection (a) authorizes the exercise of supplemental 
+jurisdiction only where the district court has “original 
+jurisdiction” over at least some claims in a “civil action.” As 
+noted above, see supra at 14-15, the Strawbridge rule precludes 
+the exercise of original jurisdiction over an entire action unless 
+there is complete diversity between every indispensable party. 
+Accortingly, any case in which the indispensable parties are 
+not completely diverse is not within the federal courts’ original 
+diversity jurisdiction. (Where non-indispensable parties are not 
+completely diverse, the court can simply dismiss those parties. 
+See supra note 4). 
+
+In addition, the statute’s subsection (b) specifically carves 
+out of supplemental jurisdiction “claims by plaintiffs against 
+persons made parties” under Rule 20 of the Federal Rules of 
+Civil Procedure (which authorizes multiple defendants to be 
+joined in a single lawsuit) where doing so “would be 
+inconsistent with the jurisdictional requirements of section 
+
+
+1332.” That exception, of course, protects Strawbridge (one of 
+the “jurisdictional requirements of section 1332”) by 
+
+
+/ 
+
+
+23 
+
+
+preventing the exercise of supplemental jurisdiction over 
+claims against multiple non-diverse defendants.’ 
+
+Petitioners’ further argument that the inclusion of Rule 20 in 
+subsection (b) produces “at least one” anomaly, see Pet. Br. 23, 
+is wholly beside the point. This case is about the exercise of 
+supplemental jurisdiction over claims under Rule 23, not 
+Rule 20. Whether the inclusion of Rule 20 in subsection (b) 
+produces anomalous results is different than whether the 
+exclusion of Rule 23 from that subsection produces such 
+results. The anomaly identified by petitioners would not be 
+solved by the addition of Rule 23 to subsection (b). “Whether 
+§ 1367(b) is a model drafting exercise may be doubted,” but 
+that does not give courts license to ignore the plain text of the 
+statute. Stromberg Metal Works, Inc. v. Press Mechanical, 
+Inc., 77 F.3d 928, 932 (7th Cir. 1996). The bottom line is that 
+Rule 23 is nowhere to be found among the statutory exceptions 
+to supplemental jurisdiction, and that omission does not 
+produce absurd results. Whether any other aspect of 
+subsection (b) produces any “apparent incongruity,” id, and 
+how courts should address any such incongruity, are simply not 
+questions presented in this case. 
+
+
+” Petitioners seek to limit the scope of this exception by asserting that Rule 
+20 applies only to defendants “added to an existing action.” Pet. Br. 8; see 
+also id. at 21,23. That alleged limitation, however, has no basis in the text 
+of the Rule, which authorizes permissive joinder both at the outset of a 
+lawsuit and afterwards. See Fed. R. Civ. P. 20 (“All persons . . . may be 
+joined in one action as defendants if there is asserted against them jointly, 
+severally, or in the alternative, any right to relief in respect of or arising out 
+of the same transaction, occurrence, or series of transactions or occurrences 
+and if any question of law or fact common to all defendants will arise in the 
+action.”); see also United States v. Mississippi, 380 U.S. 128, 142 (1965) 
+(multiple parties can be joined at the outset in a single action under Rule 
+20); Grubbs v. General Elec. Credit Corp., 405 U.S. €99, 705 n.2 (1972) 
+(additional parties can be brought into a case under Rule 20 joinder). 
+
+
+24 
+
+
+Il. THE LEGISLATIVE HISTORY OF SECTION 
+1367 CANNOT AND DOES NOT OVERRIDE THE 
+STATUTE’S PLAIN TEXT. 
+
+
+Because the plain text of Section 1367 unambiguously 
+authorizes the exercise of supplemental jurisdiction over the 
+claims of absent class members, and that result is not absurd, 
+it is neither necessary nor appropriate to consult the legislative 
+history in this case. Petitioners, however, essentially ask this 
+Court to ignore the statute altogether, and to decide the case by 
+reference to a single sentence and footnote from a committee 
+report. Whatever the merits of consulting legislative history as 
+a general matter, there is no basis for giving authoritative 
+weight to an isolated pa:sage that does not address or clarify 
+any textual ambiguity. Indeed, careful examination of the 
+whole legislative history actually supports the straightforward 
+textual conclusion that the supplemental jurisdiction statute 
+supersedes the result in Zahn. 
+
+
+A. The Legislative History Cannot Override the 
+Statute’s Plain Text. 
+
+
+As a threshold matter, it is inappropriate to consult the 
+legislative history at all where, as here, the text of the statute is 
+unambiguous and does not produce an absurd result. “When 
+the words of a statute are unambiguous, . . . judicial inquiry is 
+complete.” Connecticut Nat'l Bank, 503 U.S. at 254 (internal 
+quotation omitted); Packard Motor Car Co. v. NLRB, 330 U.S. 
+485, 492 (1947) (“There is . . . no ambiguity in this Act to be 
+clarified by resort to legislative history.”’). 
+
+
+Where the meaning of a statute is plain, after all, consulting 
+the legislative history can only  create—not 
+resolve—ambiguities. “[I]t is a poor cause that cannot find 
+some piausible support in legislative history.” Robert H. 
+Jackson, Problems of Statutory Interpretation, 8 F.R.D. 121, 
+125 (1948). But courts are not free to circumvent the plain 
+language of the statute by combing through the legislative 
+history for contradictory statements. To the contrary, it has 
+long been settled that legislative history is “only admissible to 
+
+
+— 
+
+
+25 
+
+
+solve doubt and not to create it.” Railroad Comm'n of 
+Wisconsin v. Chicago, B. & Q. R. Co., 257 U.S. 563, 589 
+(1922) (emphasis added); see also United States v. Gonzales, 
+520 U.S. 1, 6 (1997) (refusing “to resort to legislative history” 
+that does not “clarif[y] the statute, [but] only muddies the 
+waters.”). 
+
+The fundamental flaw in petitioners’ approach is their 
+assumption that “[t]he purpose of statutory construction is to 
+determine Congress’s intent.” Pet. Br. 33. Rather, the purpose 
+of statutory construction is to determine the meaning of a 
+statute. See Oliver Wendell Holmes, Jr., The Theory of Legal 
+Interpretation, 12 Harv. L. Rev. 417, 419 (1899) (“We do not 
+inquire what the legislature meant; we ask only what the statute 
+means.”). This Court has “stated time and again that courts 
+must presume that a legislature says in a statute what it means 
+and means in a statute what it says there.” Connecticut Nat'l 
+Bank, 503 U.S. at 254; see also Caminetti, 242 U.S. at 490 
+(“[T]he language being plain, and not leading to absurd or 
+wholly impracticable consequences, it is the sole evidence of 
+the ultimate legislative intent.”). Petitioners thus err in 
+pointing to the legislative history as the definitive repository of 
+congressional “intent.” Legislative history may clarify the 
+meaning of an ambiguous law, but is not itself law. See, e.g., 
+Train v. City of New York, 420 US. 35, 45 (1975) 
+(“{L]egislative intention, without more, is not legislation.”); Jn 
+re Sinclair, 870 F.2d 1340, 1344 (7th Cir. 1989) (“Legislative 
+history helps us learn what Congress meant by what it said, but 
+it is not a source cf legal rules competing with those found in 
+the U.S. Code.”). A contrary approach would violate the 
+Constitution’s most basic structural provisions, including the 
+requirements of bicameralism and presentment. See id. 
+
+To be sure, it is not only possible but inevitable that 
+Congress will occasionally enact laws that do not succeed in 
+reflecting its true intent. “But in such case the remedy lies with 
+the lawmaking authority, and not with the courts.” Griffin v. 
+Oceanic Contractors, 458 U.S. 564, 575 (1982) (internal 
+
+
+26 
+
+
+quotation omitted); Unexcelled Chem. Corp. v. United States, 
+345 U.S. 59, 64 (1953) (“[W]hen Congress, though perhaps 
+mistakenly or inadvertently, has used language which plainly 
+brin’ — subject matter into a statute, its word is final—save for 
+quesucas of constitutional power which have not even been 
+intimated here.”). If a statute does not say what Congress 
+meant, then Congress is free to amend the statute. See, e.g., 
+Conroy v. Aniskoff, 507 U.S. 511, 528 (1993) (Scalia, J., 
+concurring) (“The language of the statute is entirely clear, and 
+if that is not what Congress meant then Congress has made a 
+mistake and Congress will have to correct it.”); Ruth B. 
+Ginsburg, A Plea for Legislative Review, 60 S. Cal. L. Rev. 
+995, 1013 (1987) (“Congress, few would disagree, can mend 
+prescriptions of a nonsensational kind more efficiently and 
+more decisively than courts can.”) (internal quotation and 
+brackets omitted). Courts have neither the constitutional power 
+nor the institutional competence to enforce free-floating 
+legislative “intent” divorced from the text of a statute. 
+
+
+B. The Legislative History on Which Petitioners Rely 
+Does Not Purport to Clarify Any Textual 
+Ambiguity. 
+
+Petitioners, however, contend that the legislative history is 
+not only relevant but dispositive here. See, e.g., Pet. Br. 11 n.3, 
+id. at 19 n.6; id. at 22 n.9; id. at 25-33. In particular, they rely 
+on a passage from the House Judiciary Committee Report on 
+H.R. 5381, a bill that was ultimately subsumed into the Judicial 
+Improvements Act of 1990, Pub. L. No. 101-650, 104 Stat. 
+5089, the law that included Section 1367 among its many and 
+varied provisions. The House Report analyzes the various 
+provisions of the bill, including Section 114(b), the provision 
+that became subsection (b) of Section 1367. The Report states 
+that subsection (b) “prohibits a district court in a case over 
+which it has jurisdiction founded solely on the general diversity 
+jurisdiction, 28 U.S.C. § 1332, from exercising supplemental 
+jurisdiction in specified circumstances.” H.R. Rep. No. 101- 
+734, at 29 (Sept. 10, 1990), 1990 U.S.C.C.A.N. 6860, 6875. 
+
+
+2° eee 
+
+
+—— = 
+
+
+27 
+
+
+The Report then describes the operation of subsection (b), and 
+
+concludes with the following sentence and footnote: 
+The section is not intended to affect the 
+jurisdictional requirements of 28 U.S.C. § 1332 
+in diversity-only class actions, as those 
+requirements were interpreted prior to 
+Finley.[FN17] 
+'FN17] See Supreme Tribe of Ben Hur v. 
+Cauble, 255 U.S. 356, 65 L. Ed. 673, 41 S. Ct. 
+338 (1921); Zahn v. International Paper Co., 
+414 US. 291, 38 L. Ed. 2d 511, 94S. Ct. 505 
+(1973). 
+
+
+In essence, petitioners’ entire case boils down to the 
+proposition that this Court should give the force of law to this 
+sentence and footnote. But that sentence and footnote on their 
+face do not support petitioners’ interpretation of the 
+supplemental jurisdiction statute. That sentence and footnote 
+cite Zahn in the context of pointing out that subsection (b) is 
+not intended to affect the “requirements of 28 U.S.C. § 1332,” 
+the diversity statute. This case, however, has nothing to do 
+with the requirements for original jurisdiction under Section 
+1332; rather, this case is all about supplemental jurisdiction. 
+As noted above, see supra note 5, the Zahn Court limited itself 
+to the question whether a federal court could exercise original 
+jurisdiction under Section 1332 over the claims of absent class 
+members who did not individually satisfy the matter-in- 
+(but related) question whether a federal court could exercise 
+common-law ancillary jurisdiction over those same claims. 
+Accordingly, the sentence and footnote on which petitioners 
+rely have no relevance to this case: respondents do not contend 
+that the supplemental jurisdiction statute in any way altered 
+Zahn’s explicit holding involving the original jurisdiction 
+requirements of Section 1332. 
+
+In any event, even if the passage of legislative history on 
+which petitioners rely could be interpreted to ratify Zahn’s 
+
+
+28 
+
+
+implicit holding on ancillary jurisdiction, that passage could 
+not possibly override the statutory text. Although the 
+“Members of this Court have expressed differing views 
+regarding the role that legislative history should play in 
+statutory interpretation,” one point at least is common ground: 
+this Court has “never given authoritative weight to a single 
+passage of legislative history that is in no way anchored to the 
+text of the statute.” Shannon v. United States, 512 U.S. 573, 
+583 (1994). That is precisely the situation here. The sentence 
+and footnote identified by petitioners in the legislative history 
+do not purport to clarify any particular textual provision. 
+Rather, the sentence and footnote simply declare a free-floating 
+“intent” divorced from the text of the statute. “To give effect 
+to this snippet of legislative history,” as the Shannon Court 
+explained, “we would have to abandon altogether the text of 
+the statute as a guide in the interpretation process.” Jd; see 
+also id. at 583-84 (“‘[C]ourts have no authority to enforce a 
+principle gleaned solely from the legislative history that has no 
+Statutory reference point.’”) (quoting /nternational Bhd. of 
+Elec. Workers v. NLRB, 814 F.2d 697, 712 (D.C. Cir. 1987) 
+(Edwards, J.); brackets omitted); Gonzales, 520 U.S. at 6 
+(refusing to credit legislative history that “injects into [a 
+statute] an entirely new idea . . . [that] is ‘in no way anchored 
+- hag text of the statute.””) (quoting Shannon, 512 U.S. at 
+
+
+Indeed, the sentence and footnote from the legislative history 
+on which petitioners rely are not only divorced from the text of 
+the statute, but also inconsistent with petitioners’ own “textual” 
+theory. That sentence and footnote purport to describe the 
+intention of subsection (b). But, as noted above at p. 11, 
+petitioners’ textual theory is squarely based on subsection (a). 
+Petitioners can hardly claim that the sentence and footnote 
+clarify any textual ambiguity in subsection (a) when the 
+sentence and footnote do not even purport to describe that 
+subsection. This Court has never ratified any such “mix-and- 
+
+
+match” approach to legislative history. 
+
+
+29 
+
+
+To refuse to give the force of law to the snippet of legislative 
+history on which petitioners rely is not to say to Congress: 
+““We know what you meant to say, but you didn’t quite say it. 
+...Gotcha! And better luck next time.”” Pet. Br. 36 (quoting 
+Russ v. State Farm Mut. Auto Ins. Co., 961 F. Supp. 808, 820 
+(E.D. Pa. 1997)). That approach presumes that what Congress 
+“meant to say” is best expressed in the legislative history, not 
+the statute itself. But that presumption runs contrary to our 
+entire constitutional structure, in which both Houses of 
+Congress pass legislation, and present it to the President for 
+signature. The President, legislators, judges, and citizens all 
+must rely on the premise that the law of the land is set forth in 
+the U.S. Code, not in the U.S.C.C.A.N. The contrary position, 
+in fact, would allow any congressional staffer (or interest 
+group) to say “Gotcha!” to all other participants in the 
+legislative process by simply slipping into the legislative 
+history some statement contrary to the statute, and then asking 
+the courts to enforce that statement as the true “intent” of 
+Congress. It is impossible to overstate the danger to the rule of 
+law from the proposition that a single statement in the 
+legislative history can trump the plain text of a statute. 
+
+
+C. The Legislative History Actually Supports a Textual 
+Interpretation. 
+
+Finally, it is worth noting that petitioners’ description of the 
+legislative history as “entirely one-sided,” Pet. Br. 31, is 
+inaccurate. To the contrary, examination of the legislative 
+background of Section 1367 only underscores the conclusion 
+that the statute means what it says. To the extent that 
+analyzing the legislative history is like entering a crowded 
+cocktail party and looking for one’s friends, see Patricia M. 
+Wald, Some Observations on the Use of Legislative History in 
+the 1981 Supreme Couri Term, 68 lowa L. Rev. 195, 214 
+(1983), respondents’ friends are at least as much in evidence 
+here as petitioners’. 
+
+The supplemental jurisdiction statute was part of an overall 
+package of legislative changes intended to improve the 
+
+
+30 
+
+
+operation of the American judicial system. “In November 
+1988, the 100th Congress created within the Judicial 
+Conference of the United States a fifteen-member Federal 
+Courts Study Committee and directed it, by April 2, 1990, to 
+‘make a complete study of the courts of the United States and 
+of the several States and transmit a report to the President, the 
+Chief Justice of the United States, [and] the Congress . . . on 
+such study.” Report of the Federal Courts Study Committee 31 
+(Apr. 2, 1990) (“Committee Report’); see also Judicial 
+Improvements and Access to Justice Act, Pub. L. No. 100-702, 
+102 Stat. 4642 (Nov. 19, 1988). 
+
+
+The Committee, which was chaired by Judge Joseph F. Weis 
+Jr., delegated its work to various subcommittees. See generally 
+Christopher M. Fairman, Abdication to Academia: The Case of 
+the Supplemental Jurisdiction Statute, 28 U.S.C. § 1367, 19 
+Seton Hall Legis. J. 157, 160 (1994). The issues of ancillary 
+and pendent jurisdiction were assigned to the Subcommittee on 
+the Role of the Federal Courts and their Relation to the States, 
+which was chaired by Judge Richard A. Posner. See Report of 
+the Subcomm. on the Role of the Federal Courts and Their 
+Relation to the States, title page (Mar. 12, 1990), reprinted in 
+Federal Courts Study Comm., 1 Working Papers and 
+Subcomm. Reports (1990). In May 1989, this Court rendered 
+its decision in Finley v. United States, 490 U.S. 545, 556 
+(1989), in which it refused to expand common-law pendent- 
+party jurisdiction, and invited Congress to codify the law in 
+this area. 
+
+The Subcommittee drafted a supplemental jurisdiction 
+statute broadly similar to the one that was ultimately enacted. 
+The draft statute provided as follows: 
+
+
+(a) except as provided in subsections (b) and (c) 
+or in another provision of this Title, in any civil 
+action on a claim for which jurisdiction is 
+provided, the district court shall have 
+jurisdiction over all other claims arising out of 
+the same transaction or occurrence, including 
+
+
+2 
+
+
+4 
+: 
+{ 
+
+
+31 
+
+
+claims that require the joinder of additional 
+
+parties. 
+
+(b) In civil actions under § 1332 of this Title 
+
+jurisdiction shall not extend to claims by the 
+
+plaintiff against parties joined under Rules 14 
+
+and 19 of the Federal Rules of Civil Procedure, 
+
+or to claims by parties who intervene under 
+
+Rule 24(b) of the Federal Rules of Civil 
+
+Procedure, provided, that the court may hear 
+
+such claims if necessary to prevent substantial 
+
+prejudice to a party or third-party. 
+
+(c) The district court may deciine to exercise 
+
+jurisdiction over a claim under subsection (a) if 
+
+the claim presents a novel or complex issue of 
+
+state law, state law issues predominate, or there 
+
+are other appropriate reasons (including judicial 
+
+economy, convenience, and fairness to litigants) 
+
+to refuse jurisdiction. 
+1 Working Papers at 567-68. This draft established the overall 
+structure of the provision that was ultimately enacted into law: 
+the first subsection authorized supplemental jurisdiction to the 
+limits of Article III, the second subsection carved out a number 
+of express exceptions (nof including the claims of absent class 
+members under Rule 23), and the third subsection allowed 
+courts to decline supplemental jurisdiction on a discretionary 
+basis. 
+
+
+The draft statute is significant because the Subcommittee 
+expressly acknowledged that its intention was to supersede 
+Zahn. As the Subcommittee explained, [t]he proposal basically 
+restores the law as it existed prior to Finley,” with “[t}he 
+exception . . . that our proposal would overrule the Supreme 
+Court’s decision in Zahn v. International Paper Co., 414 U.S. 
+291 (1973).” 1 Working Papers at 561 & n.33. “Although 
+Zahn did not discuss pendent jurisdiction,” the Subcommittee 
+noted, “the lower courts have correctly understood it to 
+preclude the joinder of claims for less than the requisite amount 
+
+
+32 
+
+
+in controversy to a claim that satisfies the requirement.” Jd. at 
+561 n.33. “From a policy standpoint, this decision makes little 
+sense, and we therefore recommend that Congress overrule it.” 
+Id. 
+
+
+The Subcommittee then forwarded its recommendations to 
+the full Committee. The Committee did not take any position 
+on those recommendations, and did not draft a proposed 
+statute, but simply included a brief and general discussion of 
+supplemental jurisdiction in its overall report to Congress. See 
+Committee Report at 47-48. (That discussion takes up just over 
+a singie page of the Committee’s 188-page Report. See id.) 
+The Committee did not address the Zahn case or any other 
+issues relating to the exercise of supplemental jurisdiction in 
+class actions. See id. Rather, the Committee simply expressed 
+a general endorsement of supplemental jurisdiction, in sharp 
+contrast to its overall hostility toward diversity jurisdiction. 
+(The Committee recommended the virtual elimination of 
+diversity jurisdiction. See id at 38-42). “Abolishing or 
+radically curtailing pendent and ancillary jurisdiction would 
+eliminate some cases and claims from the federal courts, but 
+this is a situation in which it is unwise to do so.” Jd. at 47. The 
+Committee then recommended that Congress extend 
+supplemental jurisdiction to the limits of Article III without 
+even addressing the possibility of carving out certain claims to 
+protect the traditional limitations of diversity jurisdiction. See 
+id. 
+
+
+* Judge Weis (the Chairman of the Committee) has stated that “the 
+Committee did not adopt the subcommittee’s footnote reference to Zahn.” 
+Meritcare, Inc. v. St. Paul Ins. Co., 166 F.3d 214, 219 (3d Cir. 1999); see 
+also id. at 219.4. But that statement is misleading to the extent it implies 
+that the Committee rejected the Subcommittee’s recommendation. The 
+Committee neither adopted nor rejected the Subcommittee’s 
+recommendation to overrule Zahn, the Committee Report is entirely silent 
+on this point. (It is interesting to note that Judge Posner, in contrast to Judge 
+Weis, has concluded that the supplemental jurisdiction statute as ultimately 
+enacted did overrule Zahn. See In re Brand Name Prescription Drugs 
+Antitrust Litig., 123 F.3d 599, 607 (7th Cir. 1997).) 
+
+
+ee ee ee ST 
+
+
+33 
+
+
+Congress immediately rejected the Committee’s proposal to 
+virtually eliminate diversity jurisdiction, and drafted a bill 
+designed to enact the Committee’s less controversial 
+recommendations into law. See Federal Courts Implementation 
+Act, H.R. 5381, 101st Cong., 2d Sess. (July 26, 1990). The 
+original language of that bill relating to supplemental 
+jurisdiction was not based on, and differed substantially from, 
+the language drafted by the Subcommittee. See Fairman, 
+Abdication, 19 Seton Hall Legis. J. at 164-65. Concerned that 
+this language would effectively overrule Strawbridge, the 
+Committee Chairman, Judge Weis, testified during the half-day 
+of hearings on that bill that the provision on supplemental 
+jurisdiction should be replaced. See Hearings Before the 
+Subcommittee on Courts, Intellectual Property, and the 
+Administration of Justice, Ser. No. 124, 101st Cong., 2d Sess. 
+86, 94 (Sept. 6, 1990) (testimony of Judge Weis). Judge Weis 
+offered an alternative provision that was substantially similar 
+to the provision originally drafted by the Subcommittee. 
+Compare id. (addendum), at 98 with 1 FCSC Working Papers 
+at 567-68. See generally Fairman, Abdication, 19 Seton Hall 
+Legis. J. at 166 (“The Weis alternative is basically a return to 
+the earlier FCSC Subcommittee proposal.”). 
+
+
+Following this hearing, the House Judiciary Committee’s 
+Subcommittee on Courts, Intellectual Property, and the 
+Administration of Justice drafted a substitute supplemental 
+jurisdiction section of the bill. See 136 Cong. Rec. H8256, 
+H8262 (Sept. 27, 1990) (remarks of Rep. Kastenmeier). This 
+substitute section essentially adopted the text proposed by 
+Judge Weis, but inserted a clause in subsection (b) 
+(underscored in the margin), that fixed Section 1367(b) in its 
+final form. H.R. Rep. No. 101-734 at 11.’ (Significantly, the 
+
+
+* “(b) DIVERSITY CASES.- In any civil action of which the district courts 
+nave original jurisdiction founded solely on section 1332 of this title, the 
+district courts shall not have supplemental jurisdiction under subsection (a) 
+
+
+34 
+
+
+new clause placed additional restrictions on the availability of 
+supplemental jurisdiction in dive*ity cases, but still contained 
+no exception for Rule 23 class actions.) The substitute section 
+on supplemental jurisdiction was drafted by three law 
+professors, Thomas D. Rowe, Jr., Stephen B. Burbank, and 
+Thomas M. Mengler, who had an interest in the subject. See 
+Fairman, Abdication, 19 Seton Hall Legis. J. at 168-69 & n.68. 
+
+
+The House Subcommittee accepted the law professors’ draft, 
+and reported the bill favorably without any discussion of 
+supplemental jurisdiction. See id. at 170. The bill later passed 
+the entire House without any discussion of supplemental 
+jurisdiction. See id. In the Senate, the bill was subsumed into 
+an omnibus bill, the Judicial Improvements Act of 1990, which 
+was taken up and passed on a single day without any discussion 
+of supplemental jurisdiction. See id. The President thereafter 
+signed the bill without any discussion of supplemental 
+jurisdiction. See id. 
+
+In this context, it is fanciful for petitioners to assert that 
+“Congress actually and specifically intended” to preserve the 
+result in Zahn. Pet. Br. 6 (emphasis in original). To the 
+contrary, “[o}ne inescapable conclusion of this survey of the 
+development of [statute] is the general absence of 
+congressional concern over the impact and merits of this 
+statute.” Fairman, Abdication, 19 Seton Hall Legis. J. at 172 
+(emphasis added); see also id. (“The House Subcommittee on 
+Courts provided little oversight. .. . [T]he committee 
+abdicated to the academics.”). The statute was “rushed through 
+the legislative gauntlet without meaningful review or 
+discussion,” Richard D. Freer, Compounding Confusion and 
+Hampering Diversity: Life after Finley and the Supplemental 
+Jurisdiction Statute, 40 Emory L.J. 445, 486 (1991), and was 
+
+
+® (...continued) 
+
+proposed to be joined as plaintiffs under Rule 19 of such rules, or seeking 
+to intervene as plaintiffs under Rule 24 of such rules, when exercising 
+supplemental jurisdiction over such claims would be inconsistent with the 
+jurisdictional requirements of section 1332.” 
+
+
+35 
+
+
+not evaluated by the American Law Institute or any other 
+professional organization. Even the three professors who 
+drafted the supplemental jurisdiction provision concede that 
+“the process afforded by Congress [on the proposed legislation] 
+was meager.” Thomas D. Rowe, Jr., Stephen B. Burbank & 
+Thomas M. Mengler, A Coda on Supplemental Jurisdiction, 40 
+Emory LJ. 993, 1005 (1991). 
+
+Petitioners, however, purport to discern congressional 
+“intent” to retain Zahn in the House Report. But the relevant 
+provisions of that Report, like the supplemental jurisdiction 
+statute itself, “can be attributed to the efforts of [Profs.] Rowe, 
+Burbank, and Mengler.” Fairman, Abdication, 19 Seton Hall 
+Legis. J. at 170. And these professo.s concede that “on its 
+face, section 1367 does not appear to forbid supplemental 
+jurisdiction over claims of class members who do not satisfy 
+section 1332’s jurisdictional amount requirement, which would 
+overrule Zahn v. International Paper Co., 414 U.S. 291 
+(1973).” Thomas D. Rowe, Jr., Stephen B. Burbank & Thomas 
+M. Mengler, Compounding or Creating Confusion About 
+Supplemental Jurisdiction? A Reply to Professor Freer, 40 
+Emory L.J. 943, 960 n. 90 (1991). Unlike petitioners in this 
+case, in fact, the professors make no pretense at arguing that 
+this straightforward textual interpretation is incorrect. Rather, 
+the drafters explain that “[{i}t would have been better had the 
+statute dealt explicitly with this problem, and the legislative 
+history was an attempt to correct the oversight.” Id. (emphasis 
+added). While Profs. Rowe, Burbank, and Mengler may not 
+have wanted to supersede Zahn, they at least recognized that 
+the statute on its face actually did so.'° 
+
+
+'© The professors cannot resist going on to assert that “[t}he resulting 
+combination of statutory language and legislative history . . . creates the 
+delicious possibility that despite Justice Scalia’s opposition to the use of 
+legislative history, he will have to look to the history or conclude that 
+section 1367 has wiped Zahn off the books.” Rowe, et al, Compounding 
+or Creating Confusion, 40 Emory L.J. at 960 n. 90 (1991). Indeed, the 
+
+(continued...) 
+
+
+36 
+
+
+The evolution of the supplemental jurisdiction statute thus 
+refutes petitioners’ assertion that there is “not a shred of 
+evidence in the legislative history” contrary to their position. 
+Pet. Br. 9. The statute as ultimately enacted is identical in all 
+relevant respects to the draft prepared by the Federal Courts 
+to overrule Zahn. Rather than a “deafening” silence regarding 
+an intention to supersede Zahn, Pet. Br. 33, the legislative 
+history thus reveals a specific intention to do just that, even if 
+that intention was not shared by the three professors who 
+drafted the final revisions to the bill and the relevant portions 
+of the House Report. In this regard, this case is far easier than 
+International College of Surgeons, where this Court gave the 
+supplemental jurisdiction statute a straightforward textual 
+interpretation that had the revolutionary (and apparently 
+unforseen) effect of sweeping into federal court state-law 
+claims for on-the-record review of local administrative action. 
+See 522 U.S. at 172-72; see also id. at 176 (Ginsburg, J., 
+dissenting) (“The Court’s expansive reading . . . takes us far 
+from anything Congress conceivably could have meant.”). 
+Here, Congress not only “could have meant” to supersede 
+Zahn, but key participants in the legislative process 
+demonstrably did mean to do so. 
+
+In the final analysis, petitioners’ invitation to this Court to 
+give the legislative history precedence over the text of the 
+supplemental jurisdiction statute would undermine the very 
+clarity and consistency the statute was designed to promote. 
+As this Court explained in Finley, “what is of paramount 
+importance is that Congress be able to legislate against a 
+background of clear interpretive rules, so that it may know the 
+
+
+° (...continued) 
+
+believe that the appropriate way to “correct” a perceived 
+Statutory deficiency is simply to express a counter-textual intent in the 
+legislative hi ‘call tod Op Gtr exten “endings on 
+the legislative process that include more than the writings of Justice Scalia.” 
+Rowe, et al., Coda, 40 Emory LJ. at 1005 n.59. 
+
+
+37 
+
+
+effect of the language it adopts.” 490 U.S. at 556. The 
+cardinal interpretive rule, of course, is that Congress must 
+express its intention in the statutory text. See, e.g., Connecticut 
+Nat'l Bank, 503 U.S. at 254. To the extent the statutory text 
+requires a different result than the thicket of common-law rules 
+it replaced, the text controls. See, e.g., Daubert v. Merrell Dow 
+Pharms., Inc., 509 U.S. 579, 587-88 (1993); Mertens v. Hewitt 
+Assocs., 508 U.S. 248, 259, 262-63 (1993). “Now that 
+Congress has codified the supplemental jurisdiction in 
+§ 1367(a), courts should use the language of the statute to 
+define the extent of their powers.” Channell v. Citicorp Nat'l 
+Servs., Inc., 89 F.3d 379, 385 (7th Cir. 1996). 
+
+
+Indeed, giving the legislative history the force of law would 
+open a veritable pandora’s box of inconsistencies and 
+ambiguities, and would make this area of the law even more 
+confusing than before the enactment of the statute. Courts and 
+citizens must be able to rely on the statute as a complete and 
+accurate expression of the scope of federal subject-matter 
+jurisdiction. Indeed, the need for clear and simple rules is 
+particularly compelling in the area of jurisdiction, because few 
+e.g., Freer, Close Enough, 40 Emory L.J. at 1007 (rules of 
+federal subject-matter jurisdiction “ought to be as clear and 
+capable of near-mechanical application [as] possible”). 
+Accordingly, as in International College of Surgeons, this 
+Court should reaffirm that the supplemental jurisdiction statute 
+means what it says. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment below should be 
+affirmed. 
+
+
+MAX R. SHULMAN 
+
+CRAVATH, SWAINE & 
+MOORE 
+
+825 Eighth Avenue 
+
+New York, NY 10019 
+
+(212) 474-1000 
+
+
+Counsel for Respondents 
+Bristol-Myers Squibb 
+Company, and Mead 
+Johnson & Company 
+
+
+Respectfully submitted, 
+
+
+FRANK CICERO, JR., 
+Counsel of Record 
+CRAIG A. KNOT 
+KIRKLAND & ELLIS 
+
+200 East Randolph Drive 
+Chicago, IL 60601 
+(312) 861-2000 
+
+
+CHRISTOPHER LANDAU 
+JEFFREY BOSSERT CLARK 
+KIRKLAND & ELLIS 
+
+655 Fifteenth Street, N.W. 
+
+
+Washington, D.C. 20005 
+(202) 879-5000 
+
+
+Counsel for Respondent 
+Abbott Laboratories 
+
+

@@ -1,0 +1,1679 @@
+Jan as Lovo Pitep 
+No. 98-1993 JAN 98 
+
+
+IN THE 7 
+
+
+Supreme Court of the Huited States 
+
+
+THE STATE OF FLORIDA, 
+Petitioner, 
+Vv. 
+
+
+J. L., a Juvenile, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+Supreme Court of Florida 
+
+
+RESPONDENT’S BRIEF ON THE MERITS 
+
+
+BENNETT H. BRUMMER 
+Public Defender 
+HARVEY J. SEPLER 
+Assistant Public Defender 
+Counsel of Record 
+ANDREW STANTON 
+Assistant Public Defender 
+Eleventh Judicial Circuit of 
+Florida 
+1320 N.W. 14th Street 
+Miami-Dade, Florida 33125 
+(305) 545-1963 
+
+
+BEST AVAILABLE COPY, 
+
+
+QUESTION PRESENTED 
+
+
+DOES THE MERE MENTION OF A FIREARM BY 
+AN ANONYMOUS TIPSTER RAISE AN OTHERWISE 
+UNRELIABLE TIP TO THE LEVEL OF REASON- 
+ABLE SUSPICION? 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTION PRESENTED . : “ i 
+TABLE OF AUTHORITIES .. : — iv 
+STATEMENT OF THE CASE AND FACTS ............ - 1 
+SUMMARY OF THE ARGUMENT .... 3 
+EL ESL 5 
+
+
+THIS COURT MUST REJECT A FIREARMS 
+EXCEPTION THAT WOULD PERMIT FORCI- 
+BLE STOPS AND FRISKS BASED ON TIPS 
+“COMPLETELY LACKING IN INDICIA OF 
+ater cedeetencnentncsectcnesscncecsesce 5 
+
+
+A. The Police May Not Forcibly Seize A Person 
+Without A Reasonable, Individualized Suspicion 
+Based On The Totality Of The Circumstances— 8 
+
+
+B. An Anonymous Telephone Tip Cannot Justify A 
+— Seizure Unless It Is Shown To Be Re- 
+ELSE EE a 12 
+
+
+C. The Allegation That A Person Is Carrying A 
+Firearm Does Not Justify An Exception To The 
+Rule Of Terry v. Ohio And Alabama v. White.... 17 
+
+
+D. The State’s Proposal Would Make Alabama v. 
+White The Exception, Rather Than The Rule.... 22 
+
+
+E. This Court Has Never Recognized An Excep- . 
+tion To The Reasonable Suspicion Standard Ab- 
+sent A Showing Of Actual And Immediate 
+
+
+CONCLUSION ................. — - — 
+
+
+(iii) 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+Abraham v. State, 962 P.2d 647 (Okl. Crim. App. 
+
+1998) 24 
+Adams v. Williams, 407 U.S. 148 (1972) ...5, 12, 18, 27, 29 
+Aguilar v. Texas, 378 U.S. 108 (1964)... 12 
+Alabama v. White, 496 U.S. 325 (1990) passim 
+Chimel v. California, 395 U.S. 752 (1969) ............. 10 
+Commonwealth v. Alvarado, 423 Mass. 266, 667 
+
+N.E.2d 856 (1996) ... 21 
+Commonwealth v. Hawkins, 547 Pa. 652, 692 A.2d 
+
+eR I ee aL 15, 22 
+Commonwealth v. Jackson, 548 Pa. 484, 698 A.2d 
+
+I» nk 21 
+Draper v. United States, 358 U.S. 307 (1958) sistas 13, 16 
+Florida v. Jimeno, 500 U.S. 248 (1991) ........... 8 
+Florida v. Royer, 460 U.S. 491 (1983) 0. 11 
+Illinois v. Gates, 462 U.S. 213 (1983) _........... 7, 12, 13, 16 
+Illinois v. Wardlow, —— U.S. ——, 2000 WL 16325 
+
+SRE ES ESTE Ee er il 
+Johnson v. State, 50 Md. App. 584, 439 A.2d 607 
+
+SE ncescceniccitrttectaneniatanidiestitaintnataincibicandaial hatha ait: 18 
+Maryland v. Buie, 494 U.S. 325 (1990)... 9, 10, 11 
+Maryland v. Wilson, 519 U.S. 408 (1997) 10 
+Michigan v. Chesternut, 486 U.S. 567 (1988) ........ 11 
+Michigan v. Long, 463 U.S. 1082 (1983) .............. 10 
+New York v. Belton, 453 U.S. 454 (1981)... 10 
+Ohio v. Robinette, 519 U.S. 33 (1996) _..... 8 
+Pennsylvania v. Mimms, 434 U.S. 106 (1979) ....... 10 
+People v. Bond, 116 A.D.2d 28, 499 N.Y.S.2d 724 
+
+RRR al EE: ee ae a 20 
+People v. De Bour, 40 N.Y.2d 210, 352 N.E.2d 562, 
+
+386 N.Y.S.2d 375 (1976) .. 20 
+
+_ People v. Gray, 154 A.D.2d 301, 546 N.Y.S.2d 844 
+
+(N.Y.A.D. 1 Dept. 1989) . 20 
+People v. McLaurin, 48 N.Y.24 902, 374 N.E.2d 
+
+614, 403 N.Y.S.2d 720 (1978) ............00....00...... 13 
+People v. Shackelford, 37 Colo. App. 317, 546 P.2d 
+
+964 (1976) 23 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+People v. Smithers, 83 Ill. 2d 430, 415 N.E.2d 327, 
+fa 
+People v. Stephens, 139 A.D.2d 412, 526 N.Y.S.2d 
+Se TE ER a ee 
+Reid v. Georgia, 448 U.S. 438 (1980) 0... 
+Robinson v. State, 556 So. 2d 450 (Fla. App. 
+EAS EES TR ee LN 
+Russell v. State, 415 So. 2d 797 (Fla App. 1982)... 
+Sibron v. New York, 392 U.S. 40 (1968) 00... 
+Spinelli v. United States, 393 U.S. 410 (1969) ........ 
+State v. Franklin, 41 Wash. App. 409, 704 P.2d 
+RCE EY Se LR ee 
+State v. Goree, —— A.2d ——, 2000 WL 19771 
+(N.J. Super. Ct. App. Div. Jan. 13, 2000) ............ 
+State v. Hasenbank, 425 A.2d 1330 (Me. 1981)...... 
+State v. Lamb, 720 A.2d 1101 (Vt. 1998) 0.0. 
+State v. Littlefield, 677 A.2d 1055 (Me. 1996)........ 
+State v. Markus, 478 N.W.2d 405 (Iowa Ct. App. 
+Ea SE Sn Ne ee ae ee a a 
+State v. Sharpless, 314 N.J. Super. 440, 715 A.2d 
+EE EN aE SE ae PC a 
+State v. Temple, 65 Haw. 261, 650 P.2d 1358 
+RED a SESE Re wes ere eee 
+State v. Tucker, 19 Kan. App. 2d 920, 878 P.2d 855 
+RA Re ae PE a el A 
+State v. Williams, 225 Wis. 2d 159, 591 N.W.2d 
+SEAL RRREESIRERLE SASS SY ESPN ee ee 
+State v. Williams, 251 N.J. Super. 617, 598 A.2d 
+eee 
+
+
+Terry v. Ohio, 392 U.S. 1 (1968) ......... 8, 10, 11, 16, 
+
+
+United States ex. rel. Richardson v. Rundle, 461 
+DS 
+United States v. Bold, 19 F.3d 99 (2nd Cir. 1994).. 
+United States v. Clipper, 973 F.2d 944 (D.C. Cir. 
+1992), cert. denied, 506 U.S. 1070 (1993) -.......... 
+United States v. Cortez, 449 U.S. 411 (1981)....... 
+United States v. Crittendon, 883 F.2d 326 (4th Cir. 
+ARATE TREES CARIES AST SAREE EO 
+
+
+18 
+
+
+18 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+Page 
+United States v. DeBerry, 76 F.3d 884 (7th Cir. 
+ID scneatie ceneads : tt RN EEE 18 
+United States v. Edwards, 53 F.3d 616 (3d Cir 
+RE rae INR SOS 2 CAPLET 2a" OR a 24 
+United States v. Gibson, 64 F.3d 617 (11th Cir. 
+RE aieek SEL AR A 18 
+United States v. Hensley, 469 U.S. 221 (1985)...... 16 
+United States v. Kent, 691 F.2d 1376 (11th Cir. 
+REA NS Rk acl SESS RR Ti a SO 13, 16 
+United States v. McClinnhan, 660 F.2d 500 (D.C. 
+RICE Sc PR FSI tele es 17, 25 
+United States v. McLeroy, 584 F.2d 746 (5th Cir. 
+alk RT Ps Ad PS aS te ae 13 
+United States v. Roberson, 90 F.3d 75 (3d Cir 
+ER RES OU 2 ES Se INE pe 13, 17 
+United States v. Salazar, 945 F.2d 47 (2d Cir. 
+RSE Nah RE ERLE OY SSO Sa 24 
+United States v. Sinclair, 983 F.2d 598 (4th Cir. 
+icin nenitiireibiahteante me LE eS 24 
+United States v. Ventresca, 380 U.S. 102 (1965)... 8 
+Ybarra v. Illinois, 444 U.S. 84 (1979) —.000 11, 28 
+OTHER AUTHORITIES 
+Florida Statutes 
+§ 790.06, Fla. Stat. (1997) ............................... 27 
+§ 790.22, Fila. Stat. (1997) .................................. 27 
+Gabriel J. Chin & Scott C. Wells, The “Blue Wall 
+of Silence” as Evidence of Bias and Motive to 
+Lie: A New Approach to Police Perjury, 59 U. 
+Ss 17 
+4 WAYNE R. LAFAVE, SEARCH AND SEIZURE 
+ey Me Oe I ie hctead iceresiinniemeniabtienniniistinenes 12, 16 
+
+
+Joe Metcalfe, Recent Development, Anonymous 
+Tips, Investigatory Stops and Inarticulate 
+Hunches—Alabama v. White, 110 S.Ct. 2412, 26 
+Harv. C.R.-C.L. L. Rev. 219 (1991) 17 
+
+
+vii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Edward G. Mascolo, The Emergency Doctrine Ex- 
+ception to the Warrant Requirement Under the 
+Fourth Amendment, 22 Burr. L. REv. 419 
+RARE SS Ee se 
+
+New York City Police Department’s “Stop and 
+Frisk” Practices: A Report to the People of 
+the State of New York from the Office of the 
+Attorney General (1999) 2000000000000. eee 
+
+Carol Steiker, Second Thought About First Prin- 
+ciples, 107 Harv. L. Rev. 820 (1994) .................. 
+
+Vera Institute of Justice Report: Felony Arrests: 
+Their Prosecution and Disposition in New York 
+
+
+I 
+Comment, Police Power to Stop and Frisk, 86 
+Harv. L. Rev. 171 (1972)................ seaieebaentitiaiiideahs 
+
+
+Page 
+
+
+STATEMENT OF THE CASE AND FACTS 
+
+
+On October 13, 1995, Miami-Dade Police Officer 
+Carmen Anderson seized and frisked the Respondent, 
+J.L., based on an anonymous tip that a young black man 
+in a “plaid-looking shirt,” waiting at a bus stop, had a 
+gun. 
+
+
+Anderson was the sole witness at the hearing on the 
+Respondent’s motion to suppress evidence. She testified 
+that she and another officer, whose name she could not 
+recall, were dispatched to the area of 183rd Street and 
+Northwest 24th Avenue in Miami-Dade County, in re- 
+sponse to information from an anonymous tipster. (J.A. 
+40). They arrived about six minutes after the dispatch. 
+The record does not disclose when the tip was received, 
+the identity of the person receiving it, or the length of 
+time that elapsed between the receipt of the tip and the 
+dispatch of Officr Anderson. (J.A. 41). 
+
+
+According to Anderson, the anonymous tipster said 
+that there were “several black males” standing at a bus 
+stop and “that the male with the gun had a plaid-looking 
+shirt and he was a black male.” (J.A. 40). The officer 
+said the tipster “gave a description of each one,” but she 
+never told the court what that description was, or whether 
+the people she found matched the descriptions given. 
+(J.A. 40-41). The only testimony in this regard was as 
+follows: 
+
+
+Q. When you arrived on the scene, did you find 
+the persons matching the description? 
+
+
+A. As we approached the bus stop, we saw three 
+black males, one of which was wearing a plaid- 
+looking shirt. 
+
+
+Q. What were the other two boys wearing? 
+
+
+A. I believe one was wearing a tan polo shirt 
+and another color top. 
+
+
+2 
+
+
+(J.A. 41). The state is inaccurate, then, when it says 
+“Officer Anderson saw three black males . . . each of 
+whom fit the description provided in the tip . . .” Pet. 
+Brief on the Merits at 5, 9, 21. Anderson never said 
+that anyone but J.L. matched the tipster’s general de- 
+scription. (J.A. 42). 
+
+
+The tip did not provide details of the suspect’s height 
+or hairstyle. It included no approximate age, although 
+Officer Anderson believed the tipster said the black males 
+were “young.” (J.A. 41). 
+
+
+When she arrived at the bus stop, Officer Anderson 
+saw “three black males.” Among them was J.L., who 
+was wearing a “plaid-looking shirt.” (J.A. 41-43). No- 
+body at the bus stop did anything to arouse Anderson’s 
+suspicions. (J.A. 42, 43). Indeed, the officer did not see 
+any of them do anything other than “hang out” at the 
+bus stop. (J.A. 42, 43). 
+
+
+Nevertheless, Officer Anderson accosted ail three peo- 
+ple, directed them to put their hands up, and began to 
+frisk them. (J.A. 42, 45). As Officer Anderson frisked 
+the Respondent, she saw a gun sticking out of his pocket. 
+(J.A. 42). The officer explained that the gun became 
+visible because the Respondent’s shirt did not reach down 
+to where the butt of the gun stuck out of his pocket. 
+(J.A. 42). 
+
+
+The state presented no other evidence. No recording 
+or verbatim transcript of the anonymous tip was intro- 
+duced. The state offered no testimony concerning the 
+time of day or the nature of the area. The record is also 
+devoid of any evidence concerning the tipster. The state 
+provided no evidence of the underlying facts concerning 
+the tipster’s basis of knowledge or motivation for calling. 
+There is no indication in the record to suggest the police 
+attempted to find out any of this information. 
+
+
+3 
+
+
+At the conclusion of the hearing, the trial court granted 
+the Respondent’s motion and ordered the gun suppressed. 
+(J.A. 35). The State of Florida appealed, and the Dis- 
+trict Court of Appeal reversed, holding that police are 
+entitled to stop and frisk a person whenever they con- 
+firm innocent details of an anonymous tip alleging pos- 
+session of a gun. (J.A. 31-34). 
+
+
+The Supreme Court of Florida reversed, and again 
+ordered the gun suppressed. The court reaffirmed that 
+an anonymous tip, even one that provides only innocent 
+details, can support a stop and frisk. (J.A. 5-8, 11-12). 
+But the court expressly declined the state’s “invitation to 
+create a firearms or weapons exception” that would per- 
+mit a stop and frisk whenever an anonymous tip alleged 
+possession of a gun. (J.A. 1-2, 9-12). On the facts of 
+this case, the court held that the “bare-boned anonymous 
+tip,” uncorroborated by independent police work, failed 
+to provide reasonable suspicion justifying the forcible stop 
+and frisk of the Respondent. (J.A. 8, 11). 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+Officer Anderson had no reason to trust the anonymous 
+tipster when she stopped and frisked the Respondent. 
+The state concedes that the officer’s actions would have 
+violated the Fourth Amendment, but for one thing: The 
+mention of a firearm. According to the state, the use of 
+the word “gun” exempted the tipster from the reliability 
+analysis required by this Court’s decisions in Alabama v. 
+White, 496 U.S. 325, 328 (1990), and Illinois v. Gates, 
+462 U.S. 213, 238 (1983), and permitted the police to 
+act with what would be less than reasonable suspicion in 
+any other case. The issue before this Court is therefore 
+stark: Does the Fourth Amendment requirement of rea- 
+sonable suspicion based on reliable information disappear 
+whenever an anonymous tipster alleges a gun? 
+
+
+4 
+
+
+The State of Florida’s claim that it does is without 
+support in this Court’s stop and frisk jurisprudence. The 
+Court has given police great discretion in the investigation 
+of crime, but it has always required that a forcible seizure 
+be justified either by specific facts known to the police, 
+or reliable outside information. “Some tips, completely 
+lacking in indicia of reliability . . . either warrant no 
+police response or require further investigation before a 
+forcible stop of a suspect would be authorized.” Adams 
+v. Williams, 407 U.S. 143, 147 (1972). The fact that a 
+
+
+tip mentions a gun simply does not demonstrate that the 
+tip is reliable. 
+
+
+The tip in this case surely represents a low-water mark. 
+It provides the bare minimum of information that would 
+allow an officer to distinguish one person from another. 
+The anonymous caller made no predictions, and the 
+police made no effort to gather more information. The 
+tipster did not even allege that a crime was being com- 
+mitted. The state’s conclusion that this tip justified a 
+forcible seizure can only be reached by substituting panic 
+for Terry’s requirement of a reasoned suspicion based on 
+facts. 
+
+
+To accept the state’s position is to declare the Court’s 
+reliability requirement—and ultimately Terry’s reason- 
+able suspicion standard—dead. It is but a short step from 
+saying that gun possession eliminates the need for relia- 
+bility to holding that drug possession, or drunken driving, 
+must also be excused from the Fourth Amendment’s relia- 
+bility requirement. Some courts have already done just 
+that. If one accepts the state’s argument in this case, it is 
+difficult to think of any anonymous tip that would still be 
+subject to the reliability analysis imposed by this Court’s 
+decisions. 
+
+
+Cn ET ORT OE I ACL et OORT LOI NE LES os or 7 
+4 Geo 
+
+
+5 
+
+
+Police across the country receive anonymous informa- 
+tion every day. When those tips merit further investiga- 
+tion, police have little trouble determining whether or not 
+the tip justifies a stop or arrest. Officers may do this by 
+questioning witnesses, observing suspects, seeking more 
+information from the tipster, or any of a hundred other 
+police techniques. They may not, however, decide to start 
+frisking people whenever the word “gun” is used. To 
+conclude otherwise would be contrary to the Fourth 
+Amendment and the decisions of this Court. 
+
+
+ARGUMENT 
+
+
+THIS COURT MUST REJECT A FIREARMS EXCEP- 
+TION THAT WOULD PERMIT FORCIBLE STOPS AND 
+FRISKS BASED ON TIPS “COMPLETELY LACKING 
+IN INDICIA OF RELIABILITY.” 
+
+
+The stop and frisk in this case were founded entirely 
+on an anonymous tip and the verification of descriptive 
+details easily observabie by “any pilgrim on the roadway.” 
+See Robinson v. State, 556 So. 2d 450, 452 (Fla. App. 
+1990), quoted at J.A. 5. The State of Florida argues 
+that this case presents the Court with an “opportunity 
+to answer the question left open in Alabama v. White.” 
+That is, to what degree may police rely on anonymous 
+tips when investigating allegations of gun possession? 
+Pet. Brief on the Merits at 10. This question has already 
+been answered by this Court’s decisions. Unreliable, un- 
+corroborated information cannot justify a forcible seizure. 
+
+
+In Adams v. Williams, 407 U.S. 143 (1972), police 
+stopped the defendant based on a tip that he possessed 
+both narcotics and a firearm. After analyzing the tipster’s 
+reliability (noting that he was known to the officer and 
+had provided information in the past) and observing that 
+the in-person tip would have subjected the informant to 
+
+
+6 
+
+
+immediate arrest had he lied, the Court concluded, “the 
+information carried enough indicia of reliability to justify 
+the officer’s forcible stop of Williams.” 407 U.S. at 147. 
+Writing for the Court, Justice Rehnquist explained: 
+
+
+Some tips, completely lacking in indicia of reliability, 
+would either warrant no police response or require 
+further investigation before a forcible stop of a sus- 
+pect would be authorized. But in some situations— 
+for example, when the victim of a street crime seeks 
+immediate police aid and gives a description of his 
+assailant, or when a credible informant warns of a 
+specific impending crime—the subtleties of the hear- 
+say rule should not thwart an appropriate police 
+
+
+response. 
+
+
+407 U.S. at 147 (emphasis added). This Court noted 
+that “[t]his is a stronger case than obtains in the case of 
+an anonymous telephone tip.” 407 U.S. at 146. 
+
+
+A bare-bones anonymous tip, by itself, provides no 
+basis to evaluate its reliability. In Alabama v. White, 
+496 U.S. 325 (1990), the Court held that an anonymous 
+tip may become reliable enough to justify a seizure, but 
+only when corroborated by police investigation, or where 
+the content of the tip demonstrates a special familiarity 
+with the suspect. The Court explained: 
+
+
+The opinion in Gates recognized that an anonymous 
+tip alone seldom demonstrates the informant’s basis 
+of knowledge or veracity inasmuch as ordinary citi- 
+zens generaliy do not provide extensive recitations 
+of the basis of their everyday observations and given 
+that the veracity of persons supplying anonymous 
+tips is “by hypothesis largely unknown, and unknow- 
+able.” JId., [462 U.S.] at 237. This is not to say 
+that an anonymous caller could never provide the 
+reasonable suspicion necessary for a Terry stop. 
+But the tip in Gates was not an exception to the 
+
+
+7 
+
+
+general rule, and the anonymous tip in this case is 
+like the one in Gates: “{It] provides virtually noth- 
+ing from which one might conclude that [the caller] 
+is either honest or his information reliable; likewise, 
+the [tip] gives absolutely no indication of the basis 
+for the {caller’s] predictions regarding [Vanessa 
+White’s] criminal activities.” 462 U.S. at 227. By 
+requiring “[s]omething more,” as Gates did, ibid., 
+we merely apply what we said in Adams: “Some tips, 
+completely lacking in indicia of reliability, would 
+either warrant no police response or require further 
+investigation before a forcible stop of a suspect would 
+be authorized,” 407 U.S. at 147. Simply put, a tip 
+such as this one, standing alone, would not “ ‘warrant 
+a man of reasonable caution in the belief’ that [a 
+stop] was appropriate.” Terry, supra, 392 US. at 
+22. quoting Carroll v. United States, 267 U.S. 132 
+(1925). 
+
+
+496 US. at 329. 
+
+
+The tip in this case lacks any indicia of reliability. 
+Nothing in the tip showed it to be reliable, and the police 
+lacked the “something more” required under Illinois v. 
+Gates, 462 U.S. 213 (1983), and White. The tip de- 
+scribed only the barest of details (race, gender, “young,” 
+location, and a clothing description so vague it did not 
+even include the color of the only garment mentioned). 
+As this Court explained in White, “a tip such as this one, 
+standing alone,” simply does not justify forcible police 
+action. 496 U.S. at 329. 
+
+
+The State of Florida now asks this Court to adopt a 
+per se rule that a bare-bones anonymous tip, standing 
+alone, does warrant a person of reasonable caution in the 
+belief that a stop is appropriate—so long as that tip men- 
+
+
+tions a gun. If accepted, the state’s position would at best 
+limit White to its facts, eliminating the reasonable suspi- 
+cion standard for virtually all crimes. The state’s ap- 
+proach would also relegate this Court’s analyis in Adams 
+v. Williams to the level of quaint dicta. If the state is 
+right, Justice Rehnquist’s careful analysis of the tipster’s 
+reliability was simply unnecessary. 
+
+
+The state’s position must be rejected. “{A] conscien- 
+tious assessment of the basis for crediting [anonymous] 
+tips is required by the Fourth Amendment,” Gates, 462 
+U.S. at 238, and the mere mention of the word “gun” 
+does not make a tip any more reliable. The proposed 
+rule would reduce the accountability of police and tip- 
+sters, encourage false tips, and unnecessarily intrude on 
+citizens’ Fourth Amendment rights. 
+
+
+A. The Police May Not Forcibly Seize A Person Without 
+A Reasonable, Individualized Suspicion Based On The 
+Totality Of The Circumstances. 
+
+
+The “touchstone of the Fourth Amendment is reason- 
+ableness.” Florida v. Jimeno, 500 U.S. 248, 250 (1991). 
+Reasonableness is “measured in objective terms by ex- 
+amining the totality of the circumstances,” rather than by 
+resorting to “bright-line rules” or “litmus-paper test[s]” 
+Ohio v. Robinette, 519 U.S. 33, 39 (1996). 
+
+
+Under the Fourth Amendment, a reasonable search or 
+seizure is generally one based on probable cause. See, 
+e.g., United States v. Ventresca, 380 U.S. 102 (1965). 
+However, in Terry v. Ohio, 392 US. 1 (1968), this 
+Court carved out a narrow exception to the general rule, 
+allowing police to make an investigatory stop where they 
+reasonably believe the suspect has committed, is com- 
+mitting, or is about to commit a crime. The duration of 
+the stop is limited to that necessary to conduct the in- 
+
+
+9 
+
+
+vestigation; any further detention requires a showing of 
+probable cause. 
+
+
+To justify a Terry stop, police must possess specific, 
+articulable facts that would “‘warrant a man of reason- 
+able caution in the belief’ that the action taken was ap- 
+propriate.” 392 U.S. at 22; see also United States v. 
+Cortez, 449 U.S. 411, 418-19 (1981) (citations omitted). 
+Reasonable suspicion must be based on more than mere 
+speculation. “Anything less [than particularized suspicion] 
+would invite intrusions upon constitutionally guaranteed 
+rights based on nothing more substantial than inarticul- 
+able hunches, a result this Court has consistently refused 
+to sanction.” Terry, 392 U.S. at 22; see also Maryland 
+v. Buie, 494 U.S. 325, 332 (1990). 
+
+
+If the officer reasonably believes the suspect is armed 
+and presently dangerous, and if after the stop the officer’s 
+fears are not allayed, he may frisk the suspect for 
+weapons. 392 U.S. at 30. This Court specifically rejected 
+the notion that the frisk is minimally intrusive: 
+
+
+[I]t is simply fantastic to urge that such a procedure 
+performed in public by a policeman while a citizen 
+stands helplessly, perhaps facing a wall with hands 
+raised, is a “petty indignity.” It is a serious intrusion 
+upon the sanctity of the person, which may inflict 
+great indignity and arouse strong resentment, and 
+is not to be undertaken lightly. 
+
+
+392 U.S. at 16-17 (footnotes omitted). Thus, as with a 
+stop, police must be able to point to specific, articulable 
+facts to justify a frisk. 
+
+
+An officer must have reasonable suspicion for a stop 
+“{b]efore he places a hand on the person of a citizen in 
+search of anything.” Sibron v. New York, 392 US. 40, 
+64 (1968). For this reason, the state’s firearms exception 
+to the particularized suspicion requirement for Terry stops 
+
+
+10 
+
+
+can find no support in this Court’s protective search cases. 
+The state argues that “a central theme, in developing any 
+Fourth Amendment limitations on protective searches and 
+seizures for weapons, is the protection of police officers 
+and protection of the public in general.” Pet. Brief on 
+the Merits at 14. The cases cited by the state do not sup- 
+port its position in this case. 
+
+It is true that this Court has approved measures for 
+officer safety, see, e.g., Maryland v. Buie, 494 U.S. 325 
+(1990); Terry, 392 U.S. 1 (1969), but only where the 
+officer has a right to make a forcible seizure. In each of 
+the cases relied upon by the state, Pet. Brief on the Merits 
+at 14-16, the officer-safety concerns flowed from reason- 
+able suspicion supporting a stop or probable cause for 
+an arrest. See Maryland v. Wilson, 519 U.S. 408 (1997) 
+(passenger in car already stopped by virtue of valid 
+traffic stop); Maryland v. Buie, 494 U.S. 323 (1990) 
+(arrest on valid warrant); Michigan v. Long, 463 U.S. 
+1032 (1983) (reasonable suspicion for stop plus reason 
+to believe suspect dangerous); New York v. Belton, 453 
+U.S. 454 (1981) (probable cause for arrest); Pennsyl- 
+vania v. Mimms, 434 U.S. 106, 109 (1979) (“In this 
+case, unlike Terry v. Ohio, there is no question about the 
+propriety of the initial restrictions on respondent’s free- 
+dom of movement.”); Chimel v. California, 395 U.S. 752 
+(1969) (arrest on valid warrant). 
+
+
+None of these cases support the claim that officer- 
+safety concerns will justify an otherwise impermissible 
+seizure. The constitutional predicate for the frisk lies in 
+the reasonableness of the underlying stop: 
+
+{I}f the frisk is justified in order to protect the officer 
+during an encounter with a citizen, the officer must 
+
+
+first have constitutional grounds to insist on an en- 
+counter, to make a forcible stop. . . . [T]he right to 
+
+
+1] 
+
+
+frisk depends upon the reasonableness of a forcible 
+stop to investigate a suspected crime. 
+
+
+Terry, 392 U.S. at 32-33 (Harlan, J., concurring). The 
+Officer’s privilege to make a frisk or protective sweep 
+flows from the authority to make a seizure. “Officer 
+safety” does not itself justify a stop for the purpose of 
+making a search. Here, the police had no right to frisk 
+because neither the tip nor the officer’s observations pro- 
+vided reasonable suspicion justifying a forcible stop. 
+
+
+This Court has consistently declined to substitute a 
+bright-line test for a case-by-case determination of the rea- 
+sonableness of police action. See, e.g., Robinette, 519 
+U.S. 33, 39-40; Maryland v. Buie, 494 U.S. 325, 334 
+n.2 (1990); Michigan v. Chesternut, 486 U.S. 567, 572- 
+73 (1988); Florida v. Royer, 460 U.S. 491, 506 (1983); 
+Ybarra yv. Illinois, 444 U.S. 85, 92-95 (1979); see also 
+Illinois v. Wardlow, US. , 2000 WL 16325 
+(Jan. 12, 2000) (Stevens, J., concurring in part, dissent- 
+ing in part). 
+
+In this case, the police observed no illegal or suspicious 
+behavior; they saw only three young men standing at a 
+bus stop. See Reid v. Georgia, 448 U.S. 438, 441 
+(1980) (distinguishing between suspicious conduct and 
+circumstances typical of a “very large category of pre- 
+sumably innocent travelers”). The basis for their forcible 
+stop arid frisk was solely the anonymous phone tip. As 
+set forth below, the tip is plainly unreliable and therefore 
+failed to establish reasonable suspicion. 
+
+
+Recognizing this failing, the state petitions for a fire- 
+arms exception to the constitutional standard of reason- 
+able suspicion. This proposed exception ineluctably lowers 
+
+
+1 The conduct here is thus patently distinguishable from that in 
+llinois v. Wardlow, (Jan. 12, 2000). 
+
+
+12 
+
+
+that standard below a bare suspicion or hunch. The mere 
+mention of a gun does not create reasonable suspicion 
+where it is otherwise lacking under this Court’s decisions. 
+The state’s position is a radical departure from this 
+Court’s jurisprudence. 
+B. An Anonymous Telephone Tip Cannot Justify A Fore- 
+ible Seizure Unless It Is Shown To Be Reliable. 
+
+
+This Court has always viewed an anonymous telephone 
+tip with mistrust. See Adams v. Williams, 407 U.S. at 
+146-47. However, as the Supreme Court of Florida recog- 
+nized below, a Terry stop may be made on the basis of 
+an anonymous tip, provided the tip is sufficiently corro- 
+borated by independent police work giving rise to the 
+reasonable belief that the tip is correct. 
+
+
+In Alabama v. White, the Court explained that there 
+are two factors in determining the reliability of an anony- 
+mous tip: 1) the tipster’s relationship either to the sus- 
+pect or the alleged crime and 2) the nature of the infor- 
+mation contained in the tip.2_ 496 U.S. at 330. 
+
+
+Where the anonymous tipster possesses a special rela- 
+tionship with the suspect or the crime enabling him to 
+know relevant, intimate details, police may rely on the 
+trustworthiness of the tip. Jilinois v. Gates, 462 U.S. at 
+237. That reliance is justified, for example, where the 
+
+
+2In Adams v. Williams, the Court qualified its approval of in- 
+formant tips to initiate stops and frisks by noting that 1) the in- 
+formant was personally known to the officer and had provided 
+reliable information in the past; 2) the officer was alone late at 
+night in a high-crime area; and 3) the informant could be punished 
+under Connecticut law for giving a false police report. 
+
+
+See also Aguilar v. Texas, 378 U.S. 108 (1964) (testing the 
+reliability of informant’s tip for purposes of arrest or issuance 
+of search warrant) abrogated by Gates, 462 U.S. at 238: 4 WAYNE 
+R. LAFAVE, SEARCH AND SEIZURE § 9.4(h) at 215 (3d ed. 1996). 
+
+
+13 
+
+
+tipster is a victim of, or an eyewitness to, a crime.* 
+“Thus, if a tip has a relatively low degree of reliability, 
+more information will be required to establish the requisite 
+quantum of suspicion.” Alabama v. White, 496 U.S. at 
+330. 
+
+
+The second factor concerns the nature of the informa- 
+tion contained in the anonymous tip. Does the tip pro- 
+vide sufficient details to enable the officer to readily cor- 
+roborate it? if the tip cuntains only general details of 
+identification (such as gender, race, clothing or location), 
+it fails to show a particularized knowledge of the alleged 
+criminality and is therefore unreliable without additional 
+police investigation. See Alabama v. White, 496 U.S. at 
+332; Illinois v. Gates, 462 U.S. at 245; see also United 
+States v. Roberson, 90 F.3d 75 (3d Cir. 1996); United 
+States v. McLeroy, 584 F.2d 746 (Sth Cir. 1978); cf. 
+United States v. Kent, 691 F.2d 1376 (11th Cir. 1982), 
+cert. denied, 462 U.S. 1119 (1983) 4 
+
+
+Here, the tip provided no indication of a relationship 
+between the tipster and the Respondent or why the tipster 
+claimed there was a gun. In short, the tip provided no 
+legitimizing context whatsoever, and thus it failed to 
+indicate whether it was based on personal observation or 
+mere speculation. 
+
+
+3 Similarly, although not the case here, if the tipster is known to 
+police and has provided reliable information in the past, an added 
+degree of reliability exists. See Adams v. Williams, 407 U.S. 143 
+(1972) ; Draper v. United States, 358 U.S. 307 (1959). 
+
+
+4One police officer estimated that 90% of the anonymous tips 
+received in New York proved to be unfounded. See Vera Institute 
+of Justice report entitled “Felony Arrests: Their Prosecution and 
+Disposition in New York Courts, xi-xii (1977), cited in People v. 
+McLaurin, 43 N.Y.2d 902, 904, 374 N.E.2d 614, 615, 403 N.Y.S.2d 
+720, 721 (1978) (Fuchsberg, J., dissenting). 
+
+
+14 
+
+
+In Alabama v. White, the Court rejected the idea that 
+a tip could be considered reliable simply because it pro- 
+vided “ ‘easily obtained facts and conditions existing at 
+the time of the tip.’” 496 U.S. at 332, quoting Gates, 
+462 U.S. at 245. Instead, the Court emphasized that the 
+tip contained information (accurate predictions of future 
+behavior) that “the general public would have no way of 
+knowing” and that “demonstrated inside information—a 
+special familiarity with [White]’s affairs.” 496 U.S. at 
+332. Even with this information, the Court termed White 
+a “close case.” 496 U.S. at 332. 
+
+
+The tip in this case supplied police with only a general 
+number (“several”), relative age (“young”),° race,° 
+gender, clothing (“plaid-looking shirt”), and location. 
+These facts are easily obtainable by someone lacking spe- 
+
+
+5 Contrary to the state’s representations, see Pet. Brief on the 
+Merits at 21, there was no evidence that the officer knew that the 
+Respondent was a juvenile. The only evidence in the trial court 
+was Officer Anderson’s testimony that she “believed” the tipster 
+“stated they were young.” (A-41). 
+
+
+6It is significant to note the frequency with which suspects 
+named by anonymous tipsters are African-American or Hispanic, 
+a concern discussed by Brief of Congress of Racial Equality as 
+Amicus Curiae on behalf of the Respondent. 
+
+
+Indeed, a recent report prepared by the Civil Rights Division of 
+the New York Attorney General’s Office concluded that “blacks 
+were over six times more likely to be ‘stopped’ than whites in New 
+York City, while Hispanics were over four times more likely to be 
+‘stopped’ than whites in New York City.” New York City Police 
+Department’s “Stop and Frisk” Practices: A Report to the People 
+of the State of New York from the Office of the Attorney General 
+at 95 (1999) <http://www.oaz.state.ny.us/press/reports/stop— 
+frisk/stp__frsk.pdf> ; see also Carol Steiker, Second Thought About 
+First Principles, 107 Harv. L. Rev. 820, 844 (1994) (noting pre- 
+and post-Terry cases demonstrating racial considerations). 
+
+
+A majority of the caes cited by the state in support of a firearms 
+exception involved anonymous tips of African-American males. 
+
+
+15 
+
+
+cial knowledge or intimacy with the suspects or crime. 
+To accept as sufficient the mere corroboration of these 
+innocuous, publicly observable facts, is to nullify the rea- 
+sonable suspicion requirement. See Alabama v. White, 
+496 U.S. at 333 (Stevens, J., dissenting). 
+
+
+As the Supreme Court of Pennsylvania observed in 
+Commonwealth v. Hawkins, 547 Pa. 652, 656, 692 A.2d 
+1068, 1070 (1997): 
+
+
+If the police respond to an anonymous call that a 
+particular person at a specified location is engaged 
+in criminal activity, and upon arriving at the location 
+see a person matching the description but nothing 
+more, they have no certain knowledge except that 
+the caller accurately described someone at a particu- 
+lar location. As the United States Supreme Court 
+observed in Illinois v. Gates, the fact that a suspect 
+resembles the anonymous caller’s description does 
+not corroborate allegations of criminal conduct, for 
+anyone can describe a person who is standing in a 
+particular location at the time of the anonymous call. 
+Something more is needed to corroborate the caller’s 
+allegations of criminal conduct. The fact that the 
+subject of the call was alleged to be carrying a gun, 
+of course, is merely another allegation, and it sup- 
+plies no reliability where there was none before. 
+
+
+(Emphasis added. ) 
+
+
+The mere conclusion by an unknown tipster that an 
+individual is carrying a gun, without any corroboration, 
+“is but a bald and unilluminating assertion of suspicion 
+that is entitled to no weight.” Spinelli v. United States, 
+393 U.S. 410, 414 (1969) (concerning inadequacy of 
+affiant’s allegation that Spinelli was a known “gambler”) 
+abrogated by Gates, 462 U.S. at 238. See also Comment, 
+Police Power to Stop and Frisk, 86 Harv. L. Rev. 171, 
+181 n.35 (1972). | 
+
+
+16 
+
+
+The ability to predict future behavior is one of the most 
+significant legitimizing features of a tip. If the tip predicts 
+future behavior or events, those predictions can be easily 
+corroborated by police and the tip gains reliability.’ This 
+is particularly important in the case of an anonymous 
+tipster. Alabama v. White, 496 U.S. at 332; see also 
+Illinois v. Gates, 462 U.S. at 245; United States v. Kent, 
+696 F.2d 1376, 1379; 4 Wayne R. LAFAve, SEARCH 
+AND SEIZURE § 9.4(h) at 214. Again, the anonymous tip 
+in this case relayed no predictive information whatsoever. 
+
+
+A police officer’s hunch will not justify a Terry stop, 
+even though the officer presumably acts with the best of 
+intentions. See Terry v. Ohio, 392 U.S. 1, 22 (1968); 
+Sibron v. New York, 392 U.S. 40, 64 (1968). There is 
+no way of knowing whether an anonymous telephone tip 
+is based on a hunch, hearsay, or speculation. See Ala- 
+bama v. White, 496 U.S. at 329 (tipsters “generally do 
+not provide extensive recitations of the basis of their 
+everyday observations”); Gates, 462 U.S. at 237. Nor 
+will a tip establish whether the tipster is motivated by 
+anything other than malice. See, e.g., White, 496 U.S. 
+at 333 (Stevens, J., dissenting). It is difficult to under- 
+stand, then, why this Court should adopt a rule that will 
+treat anonymous tips as presumptively more reliable than 
+the hunches of experienced police officers. Under the 
+state’s approach, Officer Anderson could not have stopped 
+the Respondent at the direction of a fellow officer who 
+had a good-faith hunch, see United States v. Hensley, 469 
+U.S. 221 (1985),® but she could act on the word of an 
+
+
+7 See, e.g., Draper v. United States, 358 U.S. 307 (1959). 
+
+
+8 In Hensley, the Court concluded that a police officer could make 
+a Terry stop based on a bulletin from another department, so long 
+as the bulletin was originally “issued on the basis of articulable 
+facts supporting a reasonable suspicion that the wanted person has 
+committed an offense.” 469 U.S. at 232. 
+
+
+17 
+
+
+unknown prankster. If this Court adopts the proposed 
+firearms exception, an officer who suspects a person of 
+possessing a firearm would be well advised to simply call 
+in an anonymous tip and avoid scrutiny of the basis for 
+her suspicions.® 
+
+
+C. The Allegation That A Person Is Carrying A Firearm 
+Does Not Justify An Exception To The Rule Of Terry 
+v. Ohio And Alabama v. White. 
+
+
+The state seeks an exception to White whenever 1) the 
+anonymous tipster alleges that the suspect is carrying a 
+firearm and 2) the police verify publicly observable de- 
+scriptive details. In support of its position, it offers twenty 
+state and federal cases that purportedly represent the 
+“majority view.” 7° See Pet. for Writ of Cert. at 9. 
+
+
+These cases do not carry the weight assigned to them 
+by the state. One of the cases is a drug case, and the 
+reference to anonymous tips and firearms appears only 
+in dicta. Most of the remaining cases involve circum- 
+stances or factors that provide objective, independent 
+proof of the reliability and accuracy of the tip: 
+
+
+9 Police fabrication has been cited as a major problem in New 
+York, Los Angeles. Atlanta, New Orleans, Detroit, Minneapolis 
+and Philadelphia. See Gabriel J. Chin & Scott C. Wells, The “Blue 
+Wall of Silence” as Evidence of Bias and Motive to Lie: A New 
+Approach to Police Perjury, 59 U. Pirr. L. Rev. 233 (1998): Joe 
+Metcalfe, Recent Development, Anonymous Tips, Investigatory 
+Stons end Inarticulate Hunches—Alabama v. White, 110 S.Ct. 2412, 
+26 Harv. C.R.-C.L. L. Rev. 219 (1991). 
+
+
+10 United States v. Clipper, 973 F.2d 944 (D.C. Cir. 1992); cert. 
+denied, 506 U.S. 1070 (1993) and United States v. McClinnhan, 660 
+F.2d 500 (D.C. Cir. 1981) are representative of the firearms excep- 
+tion pressed by the state. 
+
+
+11 See United States v. Roberson, 90 F.3d 75, at 81 n.4 (3d Cir. 
+1996). 
+
+
+18 
+
+
+The subjects made furtive movements upon the 
+approach of the police.” 
+
+
+The informants, through face-to-face encounters 
+with police, related their personal observations of 
+the subjects’ gun possession." 
+
+
+* The officer knew the subject was known to carry 
+a gun and had been in trouble before."* 
+
+
+* The car from which a gun was seized was sta- 
+tioned in an unusual position in a parking lot 
+coupled with its darkly tinted windows.” 
+
+
+* Dispatcher records at a hearing confirmed police 
+had received two calls from two separate citizen 
+informants indicating eyewitness observation of the 
+subject’s gun possession.'® 
+
+
+A review of these decisions demonstrates that they 
+would be precisely the same under a correct application 
+of the “totality of circumstances” approach. Contrary to 
+the state’s claim, see Pet. for Writ of Cert. at 9, the de- 
+
+
+12 See United States v. Gibson, 64 F.3d 617 (llth Cir. 1995) 
+(while turning to face police, subject reached behind his back with 
+both hands); United States v. DeBerry, 76 F.3d 884 (7th Cir. 
+1996) (subject took several steps backward, turned slightly to side 
+and moved his hands as if he might be about to draw a gun); 
+People v. Smithers, 83 Ill. 2d 430, 415 N.E.2d 327, 47 Ill. Dec. 322 
+(1980) (subject suddenly reversed direction and walked toward 
+tavern’s rear exist); State v. Sharpless, 314 N.J. Super. 440, 715 
+A.2d 333 (subject took his right hand out of his pocket and started 
+to walk away), cert. denied, 157 N.J. 542, 724 A.2d 802 (1998). 
+
+
+13 See Johnson v. State, 50 Md. App. 584, 439 A.2d 607 (1982) 
+and State v. Franklin, 41 Wash. App. 409, 704 P.2d 666 (1985) 
+(known informant). 
+
+
+14 See State v. Hasenbank, 425 A.2d 1330 (Me. 1981). 
+15 See United States v. Bold, 19 F.3d 99 (2nd Cir. 1994). 
+
+
+16 See State v. Williams, 251 N.J. Super. 617, 598 A.2d 1258 
+(1991). 
+
+
+chins nia iia Js, 
+
+
+19 
+
+
+cisional law of New Jersey, New York, and Hawaii does 
+not endorse a firearms exception. 
+
+
+In State v. Goree, A.2d , 2000 WL 19771 
+(N.J. Super. Ct. App. Div. Jan. 13, 2000), the anony- 
+mous tip related that a black male in a green and purple 
+jeep possessed a gun at a specified location in a drug 
+area. The police located a jeep matching the description 
+one block away, and found the defendant (a black man 
+whom the officer had previously seen driving the jeep) 
+in a bar on the same street. Citing the Supreme Court of 
+Florida’s decision in J.L., the New Jersey appellate court 
+explicitly rejected a firearms exception to Terry: 
+
+
+The informant in Adams v. Williams, told the officer 
+“that an individual seated in a nearby vehicle was 
+Carrying narcotics and had a gun at his waist, early 
+in the morning in a high-crime area of Bridgeport, 
+Connecticut.” And the commentators seem to agree 
+that Adams v. Williams was about the closest case 
+of this type in which the government could prevail. 
+See discussion 4 LaFave, Search and Seizure, § 9.4 
+(h) at 213, 230 (3rd ed. 1996) ... In Alabama 
+v. White, also termed a “close call” by Justice White, 
+the tipster predicted certain “future behavior” by the 
+suspect which police corroborated, to an extent, in- 
+dependently of the tipster. We have nothing like 
+that predictive corroboration in the case before us. 
+
+
+* * * 
+
+
+We decline to embrace a “man with a gun excep- 
+tion” to the rule of individualized reasonable suspi- 
+cion to “stop and frisk.” As Justice White said in 
+Alabama v. White: “Simply put, a{n] [uncorrob- 
+orated anonymous] tip such as this one, standing 
+alone, would not warrant a man of reasonable cau- 
+tion in the belief that a stop was appropriate .. .” 
+
+
+State v. Goree, 2000 WL 19771 (citations omitted) (em- 
+phasis added). 
+
+
+20 
+
+
+Likewise, New York courts have repeatedly rejected a 
+firearms exception to the reasonable suspicion standard. 
+See People v. De Bour, 40 N.Y.2d 210, 352 N.E.2d 562, 
+386 N.Y.S.2d 375 (1976) (anonymous tip that black 
+man with red shirt possessed gun insufficient); People v. 
+Stephens, 139 A.D.2d 412, 526 N.Y.S.2d 467 (1988); 
+People v. Bond, 116 A.D.2d 28, 499 N.Y.S.2d 724 
+(1986). In People v. Gray, 154 A.D.2d 301, 546 
+N.Y.S.2d 844 (N.Y.A.D. 1 Dept. 1989), the court 
+observed: 
+
+
+It is well established that an anonymous tip which 
+provides a general description and specifies a location 
+of a “man with a gun” does not, without more, con- 
+stitute a reasonable suspicion to stop and frisk any- 
+one who may happen to meet the description. Such 
+tips “are of the weakest sort since no one can be 
+held accountable if the information is in fact false 
+. and there is no way to assure . . . that the in- 
+formation was communicated and received accurately 
+and was believable.” For this reason, information 
+anonymously conveyed will generally warrant no 
+more than the exercise of common-law right of in- 
+quiry. 
+154 A.D.2d at 302, 546 N.Y.S.2d at 846 (citations 
+omitted) (emphasis added). 
+
+
+In State v. Temple, 65 Haw. 261, 650 P.2d 1358 
+(1982), the Supreme Court of Hawaii held that police 
+were not authorized to stop and search a particular car 
+bared upon an anonymous informant’s telephone tip that 
+she had seen a handgun in the same car’s glove compart- 
+ment that day. The Court concluded that the anonymous 
+telephone call “failed to rise above the level of unsub- 
+stantiated and conclusory hearsay.” 65 Haw. at 271, 650 
+P.2d at 1364. 
+
+
+21 
+
+
+The Supreme Judicial Court of Massachusetts likewise re- 
+jected a firearms exception in Commonwealth v. Alvarado, 
+423 Mass. 266, 667 N.E.2d 856 (1996). The anony- 
+mous telephone caller there had reported seeing a hand- 
+gun wrapped in a towel inside a car, and related seeing 
+the car at a specific location with several Hispanic sub- 
+jects inside. The police verified only the tip’s innocuous 
+details. Invalidating the stop, the Massachusetts supreme 
+court held: 
+
+
+. . we are reluctant to relax our established rule 
+that the report of the carrying of a firearm is not, 
+standing alone, a basis for having a reasonable suspi- 
+cion of criminal activity. 
+
+a * * 
+
+
+“Anyone can telephone the police for any reason. 
+Thus, some specificity of nonobvious facts which 
+show familiarity with the suspect or specific facts 
+which predict behavior is central to reasonable suspi- 
+cion. By using objective criteria, the risk of arbi- 
+
+
+trary action and abusive practices by police is dimin- 
+ished.” 
+
+
+* * * 
+
+
+Our cases have not yet declared reasonable suspicion 
+warranted simply on a report of gun possession just 
+because this country has problems with the unlawful 
+use of guns. 
+
+
+Alvarado, 423 Mass. at 271, 272, 273, 667 N.E.2d at 
+860, 861 (citations omitted). 
+
+
+In Commonwealth v. Jackson, 548 Pa. 484, 698 A.2d 
+571 (1997), the police received an anonymous telephone 
+tip that a man in a green jacket was carrying a gun at a 
+certain location, and the only detail the police corro- 
+borated was that Jackson was at the described location 
+in a green jacket. The Supreme Court of Pennsylvania 
+held that the details of the tip combined with the police 
+
+
+22 
+
+
+corroboration of it failed to satisfy the reasonable suspi- 
+cion standard. The court refused to endorse a gun excep- 
+tion to the Terry requirement for reasonable suspicion. 
+
+
+The Commonwealth contends, however, that the de- 
+gree of danger to the police and the public from 
+armed criminals is so great that if an anonymous 
+caller provides a physical description of the individ- 
+ual, an accurate location and an allegation that the 
+individual is armed, a Terry stop is justified. That 
+argument will not withstand constitutional scrutiny. 
+The danger to the police and public from firearms 
+was already factored into the balance when the re- 
+quirement of reasonable suspicion was articulated in 
+Terry. To adopt the position that the Common- 
+wealth urges is in reality to overrule Terry in favor 
+of a lower standard of protection under the state and 
+federal constitutions .. . 
+
+
+548 Pa. at 492, 698 A.2d at 575 (footnote omitted). 
+Accord, Commonwealth v. Hawkins, 547 Pa. 652, 692 
+A.2d 1068 (1997). 
+
+
+Far from taking a radical position, Florida stands in 
+good company in rejecting the firearms exception to the 
+reasonable suspicion standard, and finds support in juris- 
+dictions around the country. 
+
+
+D. The State’s Proposal Would Make Alabama v. White 
+The Exception, Rather Than The Rule. 
+
+
+The firearms exception proposed by the state would 
+swallow this Court’s search and seizure jurisprudence. 
+The state readily admits that “the general rule” (that is, 
+the one established by this Court’s precedents) would not 
+permit a forcible seizure where publicly observable de- 
+tails of a description are “corroborated.” But, the state 
+claims, the “great risk of harm to the public” posed by 
+the alleged possession of a firearm takes gun tips outside 
+
+
+oe ng oe 
+
+
+23 
+
+
+the “general rule.” See Pet. Brief on the Merits at 11-12. 
+If applied here, the state’s approach, substituting “great 
+risk of harm to the public” for reliability whenever a gun 
+is mentioned, wil! predictably be used to legitimate anony- 
+mous tips about nearly all potentially criminal conduct. 
+Several courts have already applied the firearms exception 
+reasoning to anonymous tips involving drug sales and 
+drunken driving. See, e.g., State v. Williams, 225 Wis. 
+2d 159, 591 N.W.2d 823 (1999), and State v. Lamb, 
+720 A.2d 1101 (Vt. 1998), discussed below. Ultimately, 
+the state’s approach would legitimize searches and seiz- 
+ures based on any bare-boned tip alluging potentially 
+dangerous circumstances. 
+
+
+A firearms exception would necessarily extend to anony- 
+mous tips alleging robbery. In Terry, this Court held that 
+it was reasonable for an officer to assume robbery sus- 
+pects were armed. 392 U.S. 28; see also Russell v. 
+State, 415 So. 2d 797 (Fla. App. 1982) (stop for 
+suspicion of robbery justified frisk, even though based on 
+report of strong-arm robbery); United States ex rel. Rich- 
+ardson v. Rundle, 461 F.2d 860, 863-64 (3d Cir. 1972) 
+(“Unless one were to believe that Philadelphia robbers 
+usually accomplished their ends by blandishment rather 
+than by the use of weapons one must conclude that the 
+officer could reasonably infer petitioner might be 
+armed.”). Under the firearms exception then, a bare- 
+bones anonymous tip alleging that a man in a plaid- 
+looking shirt at a particular location was about to com- 
+mit a robbery would justify a forcible stop and frisk upon 
+confirmation of the innocent description. 
+
+
+This same reasoning has been applied to stops and 
+frisks for allegations of burglary, see United States v. 
+Crittendon, 883 F.2d 326 (4th Cir. 1989), rape, see 
+People v. Shackelford, 37 Colo. App. 317, 546 P.2d 
+964 (1976), and even credit card fraud, see United States 
+
+
+24 
+
+
+v. Edwards, 53 F.3d 616 (3d Cir. 1995). Presumably, 
+tips concerning these crimes would also fall under the 
+“firearms exception.” 
+
+
+Even drug cases would be encompassed by the pro- 
+posed “gun” exception. The state suggests that the tip 
+in this case would be insufficient only if it related to 
+“possession of narcotics or other nonthreatening contra- 
+band.” See Pet. Brief on the Merits at 18 n.9. But 
+courts have held that police may presume armed those 
+they suspect of drug crimes. See United States v. Sin- 
+clair, 983 F.2d 598 (4th Cir. 1993); United States v. 
+Salazar, 945 F.2d 47, 51 (2d Cir. 1991) (frisk per- 
+mitted because police “know narcotics dealers frequently 
+carry weapons”); Abraham vy. State, 962 P.2d 647 (OKI. 
+Crim. App. 1998) (police could conclude suspect was 
+armed because “the offense reported was an offer to sell 
+drugs”). The state’s proposed exception to Alabama v. 
+White would surely swallow the rule.” 
+
+
+The rationale offered for the firearms exception would 
+apply to most serious felonies, even without the assump- 
+tion that people involved in certain crimes are likely to 
+
+
+17 The “seize first, ask questions later” approach advocated by 
+the state has a direct impact on the lives of innocent Americans. 
+In a recent report, the New York Attorney General cites the exam- 
+ple of Jean Davis, a 54-year-old African-American health-care 
+worker. As she walked home one night, a man approached her from 
+behind and grabbed her around the neck. When Ms. Davis screamed 
+for help, her attacker informed her he was a police officer. He 
+dragged her to a car and frisked her. Later, the officer explained 
+that the police had received a call that someone had purchased 
+drugs in the area. He had seized her because she fit the general 
+description of the alleged purchaser. The New York City Police 
+Department’s “Stop and Frisk” Practices: A Report to the People 
+of the State of New York from the Office of the Attorney General, 
+78-79 (1999) <http://www.oag.state.ny.us/press/reports/stop— 
+frisk/stp—frsk.pdf>. 
+
+
+25 
+
+
+be armed. If a firearm tip poses such “great risk of harm 
+to the public” that this Court’s opinion in Alabama v. 
+White should not apply, then why not tips involving other 
+serious crimes? Surely, an anonymous tip that someone 
+is about to commit a robbery, a burglary, or an aggra- 
+vated assault involves at least as great a risk of harm 
+to the public as one alleging the mere peaceful possession 
+of a firearm. Just as surely, it will not be long before 
+the state argues that a “firearms exception” implies a gen- 
+eral “dangerous crime” exception. 
+
+
+There is no need to speculate on the mischief the pro- 
+posed firearms exception would work. Courts have al- 
+ready relied on gun-exception cases like United States v. 
+Clipper, 973 F.2d 944 (D.C. Cir. 1992) and United 
+States v. McClinnhan, 660 F.2d 500 (D.C. Cir. 1981) 
+to justify stops based on anonymous tips regarding drug- 
+dealing and drunken driving, even where only innocent 
+details of description were corroborated. In State v. Wil- 
+liams, 225 Wis. 2d 159, 591 N.W.2d 823 (1999), the 
+Supreme Court of Wisconsin approved a stop and frisk 
+based on an anonymous tip alleging that a man in a car 
+was selling drugs. The police conducted no independent 
+investigation. Instead, with weapons drawn, the officers 
+ordered two men out of the car and frisked them for 
+weapons. 225 Wis. 2d at 165-66; 591 N.W.2d at 826- 
+27. The court reasoned that the officers faced the same 
+“unappealing choice” presented by gun tips. 225 Wis. 2d 
+at 179, 591 N.W.2d at 832. In response to the defend- 
+ant’s argument that cases like Clipper, relied upon by the 
+court, had involved firearms tips, not drugs, the court 
+explained: 
+
+
+The distinction is one of degree on.y. Drug dealing 
+is a dangerous activity, and we have previously rec- 
+ognized that where drugs are involved, guns are 
+
+
+26 
+
+
+probably involved as well. It is unreasonable to 
+conclude that drug dealing poses no danger to the 
+community—it is not a non-violent crime—and when 
+deciding whether to make a stop, the possible dan- 
+ger the subject of a tip poses to the community is 
+necessarily one of an officer’s considerations. 
+
+
+225 Wis. 2d at 180, 591 N.W.2d at 832 (citation 
+omitted ). 
+
+
+Other courts have taken precisely the same approach in 
+approving drunken-driver stops based on uncorroborated 
+anonymous tips. For instance, in State v. Lamb, 720 
+A.2d 1101 (Vt. 1998), the Supreme Court of Vermont 
+distinguished Alabama v. White, saying: 
+
+
+{T]he circumstances here created an element of 
+urgency that was not present in White. The reported 
+offense in White, possession of an ounce of cocaine, 
+posed no imminent threat of harm to the suspect or 
+to the general public requiring an immediate police 
+response. The alleged offense here, driving while 
+intoxicated, presented a substantial and immediate 
+risk of death or serious injury to both the driver 
+and anyone unlucky enough to get in his way. 
+
+
+720 A.2d at 1104. Citing Clipper and McClinnhan, the 
+court concluded: “The principle of these deadly-weapons 
+cases—that the gravity of the risk of harm must be con- 
+sidered in evaluating the reasonableness of the investiga- 
+tory stop—applies with equal force to intoxicated driv- 
+ing.” 720 A.2d at 1105; accord State v. Littlefield, 677 
+A.2d 1055 (Me. 1996); State v. Tucker, 19 Kan. App. 
+2d 920, 878 P.2d 855 (1994); State v. Markus, 478 
+N.W2.d 405 (lowa Ct. App. 1991). 
+
+
+These cases demonstrate that the alleged possession of 
+a firearm does not create an emergency that would war- 
+
+
+rant a departure from the “general rule.” Gun tips, like 
+
+
+27 
+
+
+most tips the police investigate, may involve crime, and 
+the investigation of crime is of course a serious matter. 
+It was with this in mind that the Court decided Terry, 
+Adams v. Williams, and Alabama v. White. The firearms 
+exception urged by the state is unworkable, and will in- 
+evitably yield the “firearm-drugs-felony-DUI-serious crime” 
+exception to the Fourth Amendment. 
+
+
+The proposed firearms exception would also allow 
+stops without the necessity of an allegation of illegal con- 
+duct. The state would permit Terry stops based on tips 
+like the one in this case, so long as the tipster “states that 
+a person is carrying a concealed firearm.” Pet. Brief on 
+the Merits at 10. Florida, like many states, allows resi- 
+dents to carry concealed firearms with a proper license. 
+See § 790.06, (Fla. Stat. 1997), cited in the opinion on 
+review at J.A. 11..%% Moreover, as noted by the decision 
+below, Florida law permits juveniles to possess firearms 
+under certain circumstances. See § 790.22, Fla. Stat. 
+(1997). 
+
+
+The state offers no reason why the police should be 
+entitled to assume that all those who carry firearms do 
+so illegally. Yet, far from being troubled by the thought 
+that a Terry stop would be justified by suspicion of legal 
+behavior, the state actually argues that the firearms ex- 
+ception is justified by the fact that concealed firearms 
+possession is legal in 42 states and the District of Colum- 
+bia. See Pet. Brief on the Merits at 17-18. 
+
+
+18 Though the Respondent was under 18 and, therefore, had a 
+more limited right to carry firearms, nothing in the record sug- 
+gests that Officer Anderson was aware of his minority before the 
+seizure. When asked if the tipster said the “young black males” 
+were juveniles, Anderson merely replied “I believe they stated they 
+were young.” (J.A. 41). The State’s suggestion that Officer An- 
+derson knew the Respondent to be under 18 is not supported by the 
+record. See Pet. Brief on the Merits at 21. 
+
+
+28 
+
+
+E. This Court Has Never Recognized An Exception To 
+The Reasonable Suspicion Standard Absent A Show- 
+ing Of Actual And Immediate Danger. 
+
+
+In Ybarra v. Illinois, 444 U.S. 85 (1979), this Court 
+held that absent evidence of an actual danger to police 
+or others, police may not use a general search warrant 
+to justify the search of people present at the crime scene. 
+Based on allegations related by a known, proven-reliable 
+informant, Illinois Bureau of Investigations agents ob- 
+tained a search warrant authorizing the search of a partic- 
+ular tavern and bartender for heroin. Once inside the 
+tavern, agents twice frisked Ybarra, a patron standing by 
+a pinball machine near the bar. On the second frisk, 
+they removed from his pants pocket a cigarette pack con- 
+taining heroin. 444 U.S. at 88-89. 
+
+
+The Court held that the frisk violated the Fourth 
+Amendment. Ybarra had not made any furtive or threat- 
+ening movements and the agents had no reason to suspect 
+him of criminality or an inclination to assault them. 444 
+U.S. at 91-94. Thus, there was no showing of danger- 
+ousness to justify the frisk. 
+
+
+Ybarra demonstrates that in order to justify a police 
+frisk, the officer must reasonably believe the suspect pre- 
+sents an actual and immediate danger. This Court has 
+repeatedly rejected the government’s efforts to substitute 
+the presumption of danger for an actual and immediate 
+one. 
+
+
+Similar concerns arise when police respond to emer- 
+gencies; here, as in Ybarra, immediacy of the danger is 
+the cornerstone of the emergency doctrine. See also Ed- 
+ward G. Mascolo, The Emergency Doctrine Exception to 
+the Warrant Requirement Under the Fourth Amendment, 
+22 Burr. L. Rev. 419 (1972). 
+
+
+29 
+
+
+CONCLUSION 
+
+
+When the Court first defined what has come to be 
+called the reasonable suspicion standard, it observed: 
+
+
+Anything less would invite intrusions upon constitu- 
+tionally guaranteed rights based on nothing more 
+substantial than inarticulate hunches, a result this 
+Court has consistently refused to sanction. 
+
+
+Terry v. Ohio, 392 U.S. at 22. Since then, the Court 
+has held that a tip like the one in this case simply does 
+not provide a reasonable suspicion. See Alabama v. 
+White; Adams v. Williams. The State of Florida now 
+asks the Court to permit forcible seizures based on “some- 
+thing less” when gun possession is alleged. The answer 
+to the state’s claim was given in White, and in Terry be- 
+fore it: It is a result this Court must refuse to sanction. 
+
+
+The judgment of the Supreme Court of Florida must 
+be affirmed. 
+Respectfully submitted, 
+
+
+BENNETT H. BRUMMER 
+Public Defender 
+HARVEY J. SEPLER 
+Assistant Public Defender 
+Counsel of Record 
+ANDREW STANTON 
+Assistant Public Defender 
+Eleventh Judicial Circuit of . 
+Florida 
+1320 N.W. 14th Street 
+Miami-Dade, Florida 33125 
+(305) 545-1963 
+
+

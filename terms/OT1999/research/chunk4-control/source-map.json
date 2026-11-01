@@ -1,0 +1,58 @@
+[
+  {
+    "case": "fda",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-120.pdf",
+    "pages": 73,
+    "characters": 154235,
+    "text": "fda-official.txt"
+  },
+  {
+    "case": "cortez",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-193.pdf",
+    "pages": 12,
+    "characters": 25797,
+    "text": "cortez-official.txt"
+  },
+  {
+    "case": "southworth",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-217.pdf",
+    "pages": 27,
+    "characters": 59755,
+    "text": "southworth-official.txt"
+  },
+  {
+    "case": "walmart",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-205.pdf",
+    "pages": 12,
+    "characters": 24933,
+    "text": "walmart-official.txt"
+  },
+  {
+    "case": "jl",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-266.pdf",
+    "pages": 11,
+    "characters": 23452,
+    "text": "jl-official.txt"
+  },
+  {
+    "case": "garner",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-244.pdf",
+    "pages": 22,
+    "characters": 47226,
+    "text": "garner-official.txt"
+  },
+  {
+    "case": "erie",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-277.pdf",
+    "pages": 56,
+    "characters": 126277,
+    "text": "erie-official.txt"
+  },
+  {
+    "case": "free",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-529/pdf/USREPORTS-529-333.pdf",
+    "pages": 1,
+    "characters": 1113,
+    "text": "free-official.txt"
+  }
+]

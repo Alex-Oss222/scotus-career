@@ -1,0 +1,18 @@
+{
+  "reviewed_drafts_match_published": {
+    "continuity.md": true,
+    "neutral-projection.md": true
+  },
+  "workspace_sha256": {
+    "manifest.md": "f68677e6b9febf6b52eea81c9a61c334e05a5320390baa192944e694f809ffc2",
+    "ledger.md": "a9d4f8c4c13bd37ebfd2cce76b163d6add016d432de358ae00ed2483b9098617",
+    "continuity.md": "8f3d4b7095bdd39983f39c30f1f436ec98d9300edfa97ae97a0f5d3af015ecaa",
+    "neutral-projection.md": "99389174d02d2464472014858b6a9529986a8a8023e725032ca61b77d3cc6817"
+  },
+  "independent_review": "No remaining concrete defects. All fourteen opening carryovers and all prior law/published-position blocks preserved; new substantive text matches public Records; neutral projection excludes private choices and assignment counts; Erie alternative remains noncontrolling.",
+  "court_events": 46,
+  "admitted_sources": 4,
+  "completed_chunk4": 10,
+  "stopped_chunk4": 2,
+  "cursor": "2000-04-03"
+}

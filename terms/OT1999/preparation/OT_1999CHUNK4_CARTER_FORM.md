@@ -1,0 +1,7 @@
+# Carter: opinion form before assignment
+
+One signed plenary opinion will state the local-institution and final-policy conclusions, the separate deliberate-indifference and causal requirements, and the ordinary pleading rule supporting affirmance of the municipal reinstatement. Those related propositions belong in one opinion. The eight Associates have frozen full-rationale joins, including the distinctions between municipal responsibility and the individual's immunity, and the preservation of otherwise protected advocacy even when dishonesty is alleged.
+
+Stone's approved disposition and municipal-policy grounds support the same judgment. His complete approved position will be preserved in a concurrence in the judgment; no partial join or additional personal-immunity proposition is inferred without an approved discretion envelope. His statement preserves qualifying advocacy immunity but supplies no new adoption of the lead's independently articulated personal-immunity analysis. The separate statement performs that bounded legal work without treating his nonjoin as a vote against the judgment or inventing a new immunity exception. No standing fallback is required for the two granted municipal questions.
+
+The legal form is therefore one signed lead and one bounded concurrence in the judgment. There is no per curiam disposition, divided authorship, new claim, or alteration of governing propositions for assignment purposes. Author selection and the fresh opinion count follow this decision.

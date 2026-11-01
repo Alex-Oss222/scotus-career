@@ -1,0 +1,71 @@
+{
+  "JL": {
+    "blocks_match": true,
+    "blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "controlling_explanation_words": [
+      148,
+      161
+    ],
+    "no_forbidden_links": true,
+    "preparation_only": true,
+    "lines": 117
+  },
+  "GARNER": {
+    "blocks_match": true,
+    "blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "controlling_explanation_words": [
+      137,
+      165
+    ],
+    "no_forbidden_links": true,
+    "preparation_only": true,
+    "lines": 134
+  },
+  "POWELL": {
+    "blocks_match": true,
+    "blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "controlling_explanation_words": [
+      162,
+      179
+    ],
+    "no_forbidden_links": true,
+    "preparation_only": true,
+    "lines": 140
+  }
+}

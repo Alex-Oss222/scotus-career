@@ -1,0 +1,63 @@
+{
+  "adams-v-commissioner_merits_2000-03-06.md": {
+    "recount_matches_record_statement": true,
+    "signed_leads_counted": 30,
+    "public_blocks_match": true,
+    "holdings_identical_to_public": true,
+    "topology_identical_to_public": true,
+    "explanation_word_counts": [
+      235,
+      183,
+      216
+    ],
+    "ordinary_ceiling_pass": true,
+    "lead_authors": [
+      "O'Connor"
+    ]
+  },
+  "carter-v-city-of-philadelphia_merits_2000-03-13.md": {
+    "recount_matches_record_statement": true,
+    "signed_leads_counted": 33,
+    "public_blocks_match": true,
+    "holdings_identical_to_public": true,
+    "topology_identical_to_public": true,
+    "explanation_word_counts": [
+      249,
+      189,
+      155
+    ],
+    "ordinary_ceiling_pass": true,
+    "lead_authors": [
+      "Ginsburg"
+    ]
+  },
+  "cortez-byrd-chips-v-bill-harbert_merits_2000-03-21.md": {
+    "recount_matches_record_statement": true,
+    "signed_leads_counted": 34,
+    "public_blocks_match": true,
+    "holdings_identical_to_public": true,
+    "topology_identical_to_public": true,
+    "explanation_word_counts": [
+      271
+    ],
+    "ordinary_ceiling_pass": true,
+    "lead_authors": [
+      "Breyer"
+    ]
+  },
+  "fda-v-brown-and-williamson_merits_2000-03-21.md": {
+    "recount_matches_record_statement": true,
+    "signed_leads_counted": 35,
+    "public_blocks_match": true,
+    "holdings_identical_to_public": true,
+    "topology_identical_to_public": true,
+    "explanation_word_counts": [
+      151,
+      287
+    ],
+    "ordinary_ceiling_pass": true,
+    "lead_authors": [
+      "Stone-Zsela"
+    ]
+  }
+}

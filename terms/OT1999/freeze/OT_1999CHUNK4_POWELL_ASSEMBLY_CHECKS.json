@@ -1,0 +1,53 @@
+{
+  "checks": {
+    "four_labels": true,
+    "eleven_blocks": true,
+    "holdings_identity": true,
+    "topology_identity": true,
+    "no_public_workflow": true,
+    "no_unassigned_placeholders": true,
+    "all_local_links_resolve": true,
+    "five_lead_supporters": true,
+    "four_dissenters": true,
+    "two_distinct_5_4_components": true,
+    "no_wrongly_named_record": true,
+    "explanation_ceilings": true,
+    "independent_recount_matches": true
+  },
+  "controlling_explanation_words": [
+    162,
+    179
+  ],
+  "local_links": [
+    {
+      "target": "../entering-law/OT_1999CHUNK4_LATER.md",
+      "exists": true
+    },
+    {
+      "target": "../preparation/OT_1999CHUNK4_POWELL_FORM.md",
+      "exists": true
+    },
+    {
+      "target": "../preparation/OT_1999CHUNK4_POWELL_ASSIGNMENT_COUNT.md",
+      "exists": true
+    },
+    {
+      "target": "../preparation/OT_1999CHUNK4_LATER_SOURCE_TEXT.md",
+      "exists": true
+    },
+    {
+      "target": "../freeze/OT_1999CHUNK4_POWELL_RECONCILED.md",
+      "exists": true
+    },
+    {
+      "target": "../freeze/OT_1999CHUNK4_LATER_COMMITMENTS.md",
+      "exists": true
+    },
+    {
+      "target": "../freeze/OT_1999CHUNK4_LATER_NEUTRAL.md",
+      "exists": true
+    }
+  ],
+  "record_sha256": "50062f52315a2b860b8fc476a9d44d10894f3987abb479266c9d1ee5a95c4738",
+  "public_projection_sha256": "c6cc221303bd14a206c0c052d305337e0616b4353bc9233e269303bf0b562d3d"
+}

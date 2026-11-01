@@ -1,0 +1,11 @@
+# Remaining early neutral preflight — progress only
+
+Adams has a separate completed neutral freeze and entering-law slice. This note is not a neutral freeze or commitments artifact for the other matters.
+
+No comparator, private Stone material, current-case Supreme Court opinion, raw Record, or raw ledger was opened. No historical matter-specific Supreme Court outcome exposure occurred. The original neutral file remains unchanged.
+
+Carter: [Third Circuit primary opinion reproduction](https://openjurist.org/181/f3d/339) found; opening portion read, full opinion not yet read. It identifies No. 98-1581, filed April 28, 1999. The actual appeal includes Rule 54(b) certification, Eleventh Amendment immunity for the District Attorney's Office, the asserted absolute prosecutorial immunity alternative, and personal-capacity pleading against unknown policymakers. Allegations concern training/supervision/discipline preventing police procurement of perjured eyewitnesses and prosecutors' use of false testimony. These points need complete-opinion verification and the granted scope before a new neutral packet is frozen. Pennsylvania law, final policymaker attribution, sovereign immunity, personal immunity and municipal fault must remain distinct.
+
+FDA, Cortez Byrd Chips, Southworth and Wal-Mart: only their original authorized neutral packets and available state-heading navigation have been read. No lower opinion research completed. Their packets' generic assertions of no open question are not treated as sufficient preflight validation. Southworth needs the actual fee program, referendum procedure and claim scope; the current Strout decision bears on financed devotional functions but does not automatically classify a private-expression forum. Wal-Mart needs the simulated Two Pesos and Qualitex holdings as separate controlling sources. FDA needs the actual FDCA structure, tobacco enactments and MCI's simulated rule. Cortez needs the lower procedural disposition and full statutory venue wording.
+
+Source research for Adams is preserved under `sources/chunk4-neutral/`. The script used to generate its frozen handoff is `tmp/prepare_adams_neutral.py` at the repository root. This context performed preflight only; no judicial commitments or authorship assignments were generated.

@@ -1,0 +1,135 @@
+# Carter — neutral preflight addendum
+
+Research cutoff: March 13, 2000. This derived packet supersedes the original neutral's conflicting or incomplete statements while preserving its bytes below. It contains supported facts and competing analytical paths, not non-Stone commitments. The original neutral's suggested historical McMillian comparator is not an authorized modeling source; current simulated McMillian controls. No current-case Supreme Court result, comparator, private Stone source, full current-case Record, or raw ledger was read.
+
+## Event, record, and §14 preparation receipt
+
+The authorized simulation grant of November 29, 1999, argument/submission of February 14, 2000, and merits event of March 13, 2000 govern the calendar. They are scheduling premises, not recovered historical actions. Review is of Carter v. City of Philadelphia, 181 F.3d 339 (3d Cir. April 28, 1999), No. 98-1581, on the two granted questions concerning the District Attorney's relevant governmental identity and the fault/causation requirements for policy liability. The case label does not establish which historical party filed a nonexistent Supreme Court petition. Describe the party defending or attacking the Third Circuit's judgment rather than inventing a filing.
+
+The complete published Third Circuit opinion and notes were read from its [Public.Resource.Org reproduction](https://law.resource.org/pub/us/case/reporter/F3/181/181.F3d.339.98-1581.html), saved as `sources/chunk4-neutral/Carter-lower.html` and `.txt`. Its recitation of pleadings and procedural history supports the neutral facts under Engine §14(2). The pleadings, trial record, state criminal record and simulated Supreme Court merits briefs are not claimed as recovered. Official Pennsylvania texts corroborate the office's statutory structure; the official Canton opinion independently supplies the fault/causation doctrine and each participating current Justice's prior writing or join. The slice is `entering-law/OT_1999CHUNK4_CARTER.md`.
+
+Gap classification: the initial packet omitted recoverable lower-court facts and misstated current law. Those defects are cured through published recitation and governing trackers. No new testimony, amended pleading, notice, concession, waiver, deadline, evidentiary finding or supplemental brief is posited. The analytical alternatives below are operator-developed legal arguments under effective law, not invented party filings. The supported pleading-stage record permits bounded decision and remand without deciding contested historical misconduct.
+
+## Record and judgment under review
+
+The opinion reports that Carter's murder conviction and life sentence were overturned after roughly ten years' imprisonment and that the prosecution was later nol prossed. The principal inculpatory witness was a prostitute and police informant; the opinion recounts her later perjury admission and Officer Ryan's obstruction conviction. Carter maintains innocence. These judicial recitations explain the civil suit; they do not themselves establish every constitutional or civil-liability element. His complaint alleged procuring false eyewitness evidence, presenting it through prosecutors, and policymakers' failure to train, supervise and discipline despite a pattern of misconduct. Note 6 also describes alleged postconviction withholding of exculpatory information. No new holding on every such personal act is necessary to answer the granted policy questions.
+
+The District Court dismissed the District Attorney defendants on Eleventh Amendment grounds, dismissed personal claims for insufficient pleading, and declined the related state claims. Claims against police defendants remained. The District Court made an express Rule 54(b) no-just-reason determination and directed judgment, though it gave no supporting reasons. The Third Circuit found an adequate apparent basis for certification, emphasizing separability of the immunity issue and avoidance of duplicative trials. The absence of an explanatory memorandum was not treated as destroying appellate jurisdiction. There is therefore a reasoned finality ruling below, not the original packet's empty assertion that no vehicle issue exists. Nothing in the granted questions asks for a new Rule 54(b) doctrine.
+
+The Third Circuit reversed the DA dismissal and remanded. It did not award damages or find deliberate indifference, causation, supervisory responsibility, truth of Carter's allegations, or municipal control of police proved. Its Rule 12(b)(6) analysis accepted well-pleaded allegations and allowed factual development. The initial packet's modern plausibility terminology is not the controlling pleading standard: Leatherman preserves ordinary Rule 8 and Conley-era pleading, without a heightened municipal-policy specificity requirement. Ordinary Rule 8 does not eliminate the eventual substantive elements.
+
+## Pennsylvania structure and the distinct immunity questions
+
+The DA conceded that the office was locally funded and that judgments would be paid by the City rather than the Commonwealth. The lower court's Fitchik analysis considered treasury responsibility, status under state law, and autonomy. Article IX §4 identifies district attorneys among county officers but expressly excepts home-rule or optional-government counties from that section's county-government provisions; the complete text is copied in the slice. Philadelphia's consolidated city/county structure must be understood with the Pennsylvania decisions, rather than treating that constitutional label as conclusive.
+
+Chalfin v. Specter, 233 A.2d 562 (Pa. 1967), is discussed with care below: the quoted Chief Justice Bell discussion was a plurality, while four Justices agreed on the pertinent city-officer characterization. Specter v. Moak, 307 A.2d 884 (Pa. 1973), treats assistant district attorneys as City officials despite prosecuting state crimes; Duggan v. 807 Liberty Avenue, Inc., 288 A.2d 750 (Pa. 1972), likewise rejects the Commonwealth-officer characterization in its jurisdictional setting. These reported state-law classifications are evidence of structure, not themselves the federal answer. The lower opinion's reference to the Commonwealth Attorneys Act of 1850 is a naming error: the cited 71 P.S. §732 provisions are the Commonwealth Attorneys Act of 1980. The historical 1850 transition to locally elected prosecutors is distinct.
+
+Section 206(a) makes the Attorney General the chief Commonwealth law-enforcement officer and the elected district attorney chief law-enforcement officer for the county. Section 205(a)(3) permits an AG prosecution at the district attorney's request for inadequate resources or an actual/apparent conflict. Paragraphs (4)–(5) provide judicially controlled supersession or intervention, with notice, opportunity to oppose, and a required showing of failure/refusal constituting abuse of discretion. The official compilation marks paragraph (4) partially repealed in 1982; the slice preserves that annotation, and no particular hearing timetable is independently adjudicated here. The material point corroborated by the 1999 opinion is that defined intervention authority is not unrestricted AG control of ordinary office training and administration. Legislative power to alter an office or judicial power to intervene does not prove actual control of the challenged policy.
+
+State-arm immunity, final policymaker attribution, and personal functional immunity remain different inquiries. Hess requires examination of the whole legal, financial and institutional structure; state treasury exposure is highly probative, not indispensable. Regents v. Doe concerns the State's own primary legal obligation despite third-party indemnity, not every locally paid entity. The lower court's suggested all-functions versus function-specific Eleventh Amendment approach need not be resolved categorically if both approaches yield the same conclusion for the pleaded administrative policy; its note 38 expressly leaves that necessity open.
+
+Buckley and Kalina distinguish administrative/investigative conduct from prosecutorial advocacy and personal sworn testimony. A title or generalized connection to prosecution does not supply absolute immunity for every office policy. Conversely, dishonest advocacy is not stripped of otherwise applicable absolute immunity merely because it is dishonest. The municipality or official-capacity municipal claim has no personal advocacy immunity; individual-capacity acts require their own functional and qualified-immunity inquiries. The lower court's suggestion that pleading deliberate indifference necessarily eliminates qualified immunity must not be adopted: clearly established law at the time of the particular conduct remains a separate question. The granted municipal questions do not authorize adjudication of every unpresented personal defense.
+
+## Correct entering law and material alternative paths
+
+**Bryan County contributes no holding.** The original packet twice describes a simulated Bryan County merits rule. Standards and Tests and published McMillian expressly state that reargument is pending and supplies no hiring, fault or causation change. Do not use either historical Bryan County merits reasoning or the packet's nonexistent holding. Monell, Canton, Collins, current McMillian and the selected current authorities supply the operative rules.
+
+McMillian Part I, adopted by all nine, identifies the government represented by the official's final authority for the particular action under state/local law and legally effective custom. Its five-Justice County attribution for an Alabama sheriff is not a rule about Pennsylvania district attorneys. Local election, money, territory, labels and commission independence each matter only within the actual legal structure. Ginsburg, Stevens, Souter and Breyer joined the Alabama local-institution application; O'Connor, Scalia, Kennedy and Thomas accepted the method but gave different weight to Alabama's constitutional placement, state-court construction and written State direction. Pennsylvania's distinct provisions must do the work here.
+
+The strongest path sustaining the Third Circuit's policy ruling combines the office's Pennsylvania local character, independent local control of the challenged training/supervision policies, City fiscal responsibility, and limited AG intervention. It permits the municipal theory to proceed while requiring proof of a particular attributable policy and moving-force injury. It cannot rest on title, funding alone, a supposed categorical distinction between all prosecutorial and administrative conduct, or any conclusion that the allegations are true.
+
+The strongest contrary attribution path treats the policies actually challenged as part of the Commonwealth criminal-enforcement function and tests whether the alleged training or supervision failure is inseparable from that State authority. It must confront the actual Pennsylvania structure and the distinction between final operational discretion and governmental identity. General enforcement of Commonwealth criminal law, standing alone, cannot displace McMillian's agreed method. Even a successful State-identity argument does not automatically establish State damages liability, personal immunity, or rejection of independently attributable City policies.
+
+Canton allows failure-to-train liability only for a deliberate or conscious policy choice amounting to deliberate indifference to constitutional rights, with a specified training deficiency closely related to and actually causing the injury. A constitutional violation, attribution, fault and causation are separate. Ordinary negligence, an employee's single failure, hindsight that more training could have helped, or an abstract responsibility to supervise does not suffice. A known pattern or a sufficiently obvious recurring constitutional danger may supply notice; neither automatically proves actual causation. Canton did not announce a universal requirement of previous identical incidents.
+
+The lower opinion treats deliberate perjury as ordinarily conduct officers know to avoid without special instruction, but says alleged known history can make failure to train/supervise material. Walker v. City of New York, 974 F.2d 293 (2d Cir. 1992), is persuasive lower-court elaboration concerning recurring situations, difficult choices/history and likely constitutional harm, not an independently binding three-element Supreme Court test. Its invocation cannot replace Canton. Because police are not simply the DA's own employees, Carter must prove sufficient de jure or de facto supervisory control and a causal connection; the lower court expressly reserves that issue in note 61. An office cannot be liable solely because other officials committed intentional misconduct.
+
+A narrow pleading-stage affirmance can recognize a legally viable policy theory based on the alleged pattern while reserving notice, responsible policymaker, actual control and causation for proof. A narrower vacatur can correct an overbroad fault/causation or immunity formulation and remand without deciding the allegations cannot be proved. Reversal on the municipal theory requires identifying a legal barrier actually applicable on this record, not demanding trial evidence before discovery or silently replacing Rule 8. No path orders damages, a mandatory trial, or reinstatement of claims beyond the judgment and granted questions.
+
+## Justice-specific source map, without commitments
+
+Stevens joined Canton's complete majority, including the possibility of remand after an earlier lower standard, and current McMillian's bounded County application. O'Connor's Canton separate opinion, joined by Scalia and Kennedy, accepts the governing deliberate-indifference rule but emphasizes actual/constructive notice, an extremely close causal link and the insufficiency of an isolated incident after a full opportunity for proof. Its rejection of a second trial on Canton's developed record is not an automatic pleading dismissal here. The same three, with Thomas, joined O'Connor's current McMillian dissent grounded in Alabama's actual allocation, not categorical immunity for local prosecutors.
+
+Ginsburg authored current McMillian and Souter/Breyer joined its application; their source is the actual function-specific local-institution reasoning and reserved liability elements, not a generalized preference for plaintiffs. All eight Associates joined McMillian's method. The eight Associates' current Kalina advocacy rule and retained personal-immunity distinctions provide a separate source for any necessary immunity limitation. All joined the ordinary legal/factual distinctions they actually adopted; no presumption of any Carter vote follows. Thomas was not on Canton; neither were Souter, Ginsburg or Breyer. No nonexistent earlier join is attributed to them.
+
+## Primary sources and remaining limits
+
+- [Canton, 489 U.S. 378](https://tile.loc.gov/storage-services/service/ll/usrep/usrep489/usrep489378/usrep489378.pdf), official complete text saved as `sources/chunk4-neutral/Canton.pdf` and `.txt`, read including O'Connor's opinion and all notes.
+- [Pennsylvania Constitution, article IX §4](https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/00/00.009.004.000..HTM), saved as `PA-Constitution-IX4.html`/`.txt`.
+- [Commonwealth Attorneys Act of 1980](https://www.legis.state.pa.us/WU01/LI/LI/US/HTM/1980/0/0164..HTM), saved as `PA-Attorneys-Act.html`/`.txt`; only the date-eligible §205/206 language corroborated in the 1999 opinion is used. Modern compiler changes are excluded.
+- Selected current Holdings/Standards and the scoped published McMillian dissent in `terms/OT1996/output/OT_1996CHUNK9.md`, mechanically copied into the slice.
+
+Ready for fresh modeling on the two granted questions. A proposed finding of actual policymaker knowledge, specific training content, causal supervisory control over police, personal conduct-date clearly established law, or numerical damages requires additional source support and cannot be supplied by the original packet's generic assertions. No unresolved factual or Stone choice is needed for the bounded legal decision and remand alternatives described here.
+
+
+## Original neutral packet, preserved unchanged
+
+# STONE PRE-VOTE CASE BRIEF
+
+*Carter v. City of Philadelphia*
+
+# SECTION I: NEUTRAL MODELING PACKET
+
+## A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Carter v. City of Philadelphia
+* **Citation or Docket:** 181 F.3d 339 (3d Cir. 1999)
+* **October Term:** 1999
+* **Entry Stage and Event:** Post-grant merits consideration on the established simulation calendar; no judgment entered by this brief.
+* **Simulated Event Date:** 2000-03-13 — User-authorized simulation scheduling assignment (October 31, 2026).
+* **Question Presented:** 1. Whether a district attorney acts as a state official or a municipal policymaker when establishing training, supervision, and administrative policies for prosecutors. 2. What showing of deliberate indifference and causal connection is necessary to impose municipal liability for constitutional violations resulting from those policies.
+* **Question Granted:** 1. Whether a district attorney acts as a state official or a municipal policymaker when establishing training, supervision, and administrative policies for prosecutors. 2. What showing of deliberate indifference and causal connection is necessary to impose municipal liability for constitutional violations resulting from those policies.
+* **Court and Judgment Under Review:** The published judgment at 181 F.3d 339 (3d Cir. 1999) is under review. The district court dismissed the claims against the District Attorney's Office, while the Third Circuit treated the challenged training, supervision, and management functions as local administrative policymaking and allowed the municipal-liability theory to proceed.
+* **Relief Requested:** Petitioner seeks reversal or vacatur of the judgment under review and the relief necessary to resolve the question before the Court.
+* **Material Record:** Carter alleged that police and prosecutorial misconduct led to a wrongful murder conviction and ten years of imprisonment. The district court dismissed the claims against the District Attorney's Office, while the Third Circuit treated the challenged training, supervision, and management functions as local administrative policymaking and allowed the municipal-liability theory to proceed.
+* **Threshold, Preservation, and Vehicle Matters:** No additional jurisdictional, preservation, or vehicle defect is identified. The limits of the record and requested relief govern any disposition.
+* **Relevant Dates:** Simulation grant: November 29, 1999; Argument or submission: February 14, 2000; Simulated event: March 13, 2000 (revised simulation schedule).
+* **Companion or Related Matters:** None identified.
+* **Participation Matter:** None identified in the available authorities.
+
+## B. LAW ENTERING THE CASE
+
+* **Current Through:** June 23, 1999, the completed OT_1998 baseline, carried continuously to this event.
+* **Earlier Same-Term Decisions:** None supplied as completed in the governing legal record. Calendar placement and a prepared position do not establish a Court decision.
+* **Unresolved Same-Term Dependencies:** No particular earlier pending matter is identified as necessary to resolve this case. Any subsequently completed, materially relevant decision must be applied only from its effective date.
+* **Institutional or Procedural Law:** Ordinary jurisdiction, preservation, standard-of-review, and remedial rules applicable to Issue 1: Administrative law; Issue 2: Federal law; issue identified in the Question Granted.
+
+### Issue 1: District attorney as state or municipal policymaker
+
+* **Controlling Simulated Law:** McMillian v. Monroe County determines final policymaking through state law and the specific function, and classifies the Alabama sheriff’s challenged law-enforcement policy as County policy. Bryan County v. Brown keeps attribution, fault and causation separate. Monell, Jett and Canton supply their distinct municipal-liability requirements.
+* **Current Reusable Doctrine:** The Pennsylvania district attorney’s relevant training and administrative function must be examined under Pennsylvania law. Neither McMillian’s result about a different office nor the prosecutor’s title determines the entity here; absolute advocacy immunity is a separate functional question.
+* **Other Governing Law:** The constitutional, statutory, and rule provisions identified in the question before the Court, together with time-eligible law not displaced by completed simulated decisions.
+* **Material Other Authority:** Real-world *McMillian v. Monroe County* is a time-eligible persuasive comparator for function-specific official classification only. It is not current simulated law. The lower-court decision under review supplies record and posture, not governing law.
+* **Open Point:** Current simulated law does not specifically classify the Philadelphia District Attorney’s training, supervision, record-management, and office-administration functions. The Court must resolve that function-specific question from Pennsylvania law and the record; whether the pleaded deliberate-indifference and causation allegations can be proved remains for further proceedings.
+### Issue 2: Municipal deliberate indifference and causation
+
+* **Controlling Simulated Law:** Surviving *Monell* and *City of Canton* govern municipal policy, deliberate indifference, and causation. Simulated *Plakas v. Drinski* requires an underlying constitutional injury. Simulated *Board of County Commissioners of Bryan County v. Brown* confirms that final-policymaker attribution does not by itself establish municipal fault or causation, while its single-hire formulation does not control the distinct training and supervision allegations here. No controlling simulated holding specifically classifies a Pennsylvania district attorney’s administrative functions as state or municipal.
+* **Current Reusable Doctrine:** **Municipal liability:** a policy claim cannot rest solely on conduct causing no constitutional injury; an underlying violation and a policy-attributable injury remain necessary. **Single final-policymaker hiring liability:** attribution alone does not establish fault or causation, and the hiring-specific risk formulation remains limited to that setting. No exact reusable entry separately classifies the official capacity of a Pennsylvania district attorney.
+* **Other Governing Law:** The constitutional, statutory, and rule provisions identified in the question before the Court, together with time-eligible law not displaced by completed simulated decisions.
+* **Material Other Authority:** Real-world *McMillian v. Monroe County* is a time-eligible persuasive comparator for function-specific official classification only. It is not current simulated law. The lower-court decision under review supplies record and posture, not governing law.
+* **Open Point:** Current simulated law does not specifically classify the Philadelphia District Attorney’s training, supervision, record-management, and office-administration functions. The Court must resolve that function-specific question from Pennsylvania law and the record; whether the pleaded deliberate-indifference and causation allegations can be proved remains for further proceedings.
+
+## C. DECISION-MATERIAL LITIGATION POSITIONS
+
+* **Controlling reasoning below:** The published judgment at 181 F.3d 339 (3d Cir. 1999) is under review. The district court dismissed the claims against the District Attorney's Office, while the Third Circuit treated the challenged training, supervision, and management functions as local administrative policymaking and allowed the municipal-liability theory to proceed.
+* **Petitioner’s or appellant’s strongest supported position:** The party seeking reversal argues that the lower court misidentified the governing source, test, burden, or remedy and that the question presented must be resolved under the competing reading described in Section I.B.
+* **Respondent’s or appellee’s strongest supported position:** A district attorney may act as a municipal policymaker when setting office-wide training, supervision, and administrative policy. A complaint plausibly alleging deliberate indifference to an obvious or known constitutional risk and a causal policy connection may proceed, subject to proof.
+* **Necessary concessions and limiting principles:** The position creates no respondeat superior liability, makes no finding of misconduct, and does not withdraw absolute immunity from qualifying advocacy within the judicial phase.
+* **Solicitor General or amicus position:** No separate position is included unless it performs work in the cited record or governing authorities.
+
+## D. LAWFUL PATHS AND UNCERTAINTY
+
+* **Threshold path:** Resolve any jurisdictional, justiciability, preservation, finality, or vehicle matter before the merits.
+* **Merits path favoring the judgment below:** Apply the lower court’s governing rule if it is consistent with the controlling sources and supported record.
+* **Merits path favoring reversal or vacatur:** Apply the competing rule stated above if it controls and the record permits final application.
+* **Judgment consequence:** The disposition must match the court and judgment under review and may not decide an unpresented claim.
+* **Remedial consequence:** Remand is required when a material factual finding, preserved alternative ground, damages issue, or remedy cannot be resolved on the existing record.
+* **Material uncertainty:** Current simulated law does not specifically classify the Philadelphia District Attorney’s training, supervision, record-management, and office-administration functions. The Court must resolve that function-specific question from Pennsylvania law and the record; whether the pleaded deliberate-indifference and causation allegations can be proved remains for further proceedings. Current simulated law does not specifically classify the Philadelphia District Attorney’s training, supervision, record-management, and office-administration functions. The Court must resolve that function-specific question from Pennsylvania law and the record; whether the pleaded deliberate-indifference and causation allegations can be proved remains for further proceedings.
+
+## E. SOURCES
+
+* Published lower-court opinion or controlling docket source: 181 F.3d 339 (3d Cir. 1999).
+* Published lower-court opinion at 181 F.3d 339 (3d Cir. 1999); the controlling simulation grant, argument, and opinion calendar; the case record and scheduling materials for the record summary.
+* The court and judgment under review, questions presented, and material record identified in the cited opinion and docket materials.
+* The constitutional, statutory, rule, and precedent authorities identified in Section I.B.
+

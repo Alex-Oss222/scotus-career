@@ -1,0 +1,138 @@
+TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE  § 1366 
+SECTION REFERRED TO IN OTHER SECTIONS 
+This section is referred to in title 2 section 288d. 
+§ 1366. Construction of references to laws of the  
+United States or Acts of Congress  
+For the purposes of this chapter, references to  
+laws of the United States or Acts of Congress do  
+not include laws applicable exclusively to the  
+District of Columbia. 
+(Added Pub. L. 91–358, title I, § 172(c)(1), July 29,  
+1970, 84 Stat. 590, § 1363; renumbered § 1364, Pub.  
+L. 95–572, § 6(b)(1), Nov. 2, 1978, 92 Stat. 2456; re -
+numbered § 1366, Pub. L. 99–336, § 6(a)(1)(C), June  
+19, 1986, 100 Stat. 639.) 
+§ 1367. Supplemental jurisdiction 
+(a) Except as provided in subsections (b) and  
+(c) or as expressly provided otherwise by Federal 
+statute, in any civil action of which the district  
+courts have original jurisdiction, the district  
+courts shall have supplemental jurisdiction over  
+all other claims that are so related to claims in  
+the action within such original jurisdiction that  
+they form part of the same case or controversy  
+under Article III of the United States Constitu -
+tion. Such supplemental jurisdiction shall in -
+clude claims that involve the joinder or inter -
+vention of additional parties. 
+(b) In any civil action of which the district  
+courts have original jurisdiction founded solely  
+on section 1332 of this title, the district courts  
+shall not have supplemental jurisdiction under  
+subsection (a) over claims by plaintiffs against  
+persons made parties under Rule 14, 19, 20, or 24  
+of the Federal Rules of Civil Procedure, or over  
+claims by persons proposed to be joined as plain-
+tiffs under Rule 19 of such rules, or seeking to  
+intervene as plaintiffs under Rule 24 of such  
+rules, when exercising supplemental jurisdiction 
+over such claims would be inconsistent with the  
+jurisdictional requirements of section 1332. 
+(c) The district courts may decline to exercise  
+supplemental jurisdiction over a claim under  
+subsection (a) if—  
+(1) the claim raises a novel or complex issue  
+of State law, 
+(2) the claim substantially predominates  
+over the claim or claims over which the dis -
+trict court has original jurisdiction, 
+(3) the district court has dismissed all  
+claims over which it has original jurisdiction,  
+or 
+(4) in exceptional circumstances, there are  
+other compelling reasons for declining juris -
+diction. 
+(d) The period of limitations for any claim as -
+serted under subsection (a), and for any other  
+claim in the same action that is voluntarily dis -
+missed at the same time as or after the dismis -
+sal of the claim under subsection (a), shall be  
+tolled while the claim is pending and for a pe -
+riod of 30 days after it is dismissed unless State  
+law provides for a longer tolling period. 
+(e) As used in this section, the term ‘‘State’’  
+includes the District of Columbia, the Common -
+wealth of Puerto Rico, and any territory or pos -
+session of the United States. 
+(Added Pub. L. 101–650, title III, § 310(a), Dec. 1,  
+1990, 104 Stat. 5113.) 
+REFERENCES IN TEXT 
+The Federal Rules of Civil Procedure, referred to in  
+subsec. (b), are set out in the Appendix to this title. 
+EFFECTIVE DATE 
+Section 310(c) of Pub. L. 101–650 provided that: ‘‘The  
+amendments made by this section [enacting this sec -
+tion] shall apply to civil actions commenced on or after 
+the date of the enactment of this Act [Dec. 1, 1990].’’ 
+SECTION REFERRED TO IN OTHER SECTIONS 
+This section is referred to in title 42 section 13981. 
+§ 1368. Counterclaims in unfair practices in  
+international trade. 
+The district courts shall have original juris -
+diction of any civil action based on a counter -
+claim raised pursuant to section 337(c) of the  
+Tariff Act of 1930, to the extent that it arises  
+out of the transaction or occurrence that is the  
+subject matter of the opposing party’s claim in  
+the proceeding under section 337(a) of that Act.  
+(Added Pub. L. 103–465, title III, § 321(b)(3)(A),  
+Dec. 8, 1994, 108 Stat. 4946.) 
+REFERENCES IN TEXT 
+Section 337 of the Tariff Act of 1930, referred to in  
+text, is classified to section 1337 of Title 19, Customs  
+Duties. 
+EFFECTIVE DATE 
+Section applicable with respect to complaints filed  
+under section 1337 of Title 19, Customs Duties, on or  
+after the date on which the World Trade Organization  
+Agreement enters into force with respect to the United  
+States [Jan. 1, 1995], or in cases under section 1337 of  
+Title 19 in which no complaint is filed, with respect to  
+investigations initiated under such section on or after  
+such date, see section 322 of Pub. L. 103–465, set out as  
+an Effective Date of 1994 Amendment note under sec -
+tion 1337 of Title 19. 
+CHAPTER 87—DISTRICT COURTS; VENUE  
+Sec. 
+1391. Venue generally. 
+1392. Defendants or property in different districts  
+in same State. 
+[1393. Repealed.] 
+1394. Banking association’s action against Comp -
+troller of Currency. 
+1395. Fine, penalty or forfeiture. 
+1396. Internal revenue taxes. 
+1397. Interpleader. 
+1398. Interstate Commerce Commission’s orders. 
+1399. Partition action involving United States. 
+1400. Patents and copyrights, mask works, and de -
+signs. 
+1401. Stockholder’s derivative action. 
+1402. United States as defendant. 
+1403. Eminent domain. 
+1404. Change of venue. 
+1405. Creation or alteration of district or division. 
+1406. Cure or waiver of defects. 
+1407. Multidistrict litigation. 
+1408. Venue of cases under title 11. 
+1409. Venue of proceedings arising under title 11 or  
+arising in or related to cases under title 11. 
+1410. Venue of cases ancillary to foreign proceed -
+ings. 
+1411. Jury trials. 
+1412. Change of venue. 
+1413. Venue of cases under chapter 5 of title 3. 
+AMENDMENTS 
+1998—Pub. L. 105–304, title V, § 503(c)(3), Oct. 28, 1998,  
+112 Stat. 2917 inserted ‘‘, mask works, and designs’’ in  
+item 1400. 

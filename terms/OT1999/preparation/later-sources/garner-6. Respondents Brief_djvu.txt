@@ -1,0 +1,2050 @@
+3 
+
+
+‘DEC 6 1993 
+
+
+supreme Court, U.S. 
+, 2 a oe 
+
+
+aysati Ft [sx 
+
+
+IN THE 
+
+
+CLERK 
+
+
+Supreme Court of the Unit 
+
+
+J. WAYNE GARNER, former Chairman of the State Board 
+of Pardons and Paroles of the State of Georgia, JAMES 
+T. Morris, former Chairman of the State Board of 
+Pardons and Paroles of the State of Georgia, GARFIELD 
+HAMMONDS, Jr., former Chairman of the State Board 
+of Pardons and Paroles of the State of Georgia, Bossy 
+K. WHITWORTH, Member of the State Board of Pardons 
+and Paroles of the State of Georgia, and Timortnuy E. 
+JONES, former Member of the State Board of Pardons 
+and Paroles of the State of Georgia, 
+
+
+. Petitioners, 
+
+
+ROBERT L. JONES, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eleventh Circuit 
+
+
+BRIEF OF RESPONDENT 
+
+
+ELIZABETH THOMPSON KERTSCHER 
+Counsel of Record 
+
+WILLIAM V. CUSTER 
+
+LEEANN JONES 
+
+POWELL, GOLDSTEIN, FRAZER 
+& Mureuy LLP 
+
+191 Peachtree Street, N.E. 
+
+Sixteenth Floor 
+
+Atlanta, GA 3030? 
+
+(404) 572-6600 
+
+
+Attorneys for Respondent 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTION PRESENTED 
+
+
+Whether the Ex Post Facto Clause of the United States 
+Constitution bars the State of Georgia from applying its 
+amended parole regulations to inmates whose crimes pre- 
+dated the amendment, where the amendment increases the 
+maximum time between life-sentenced inmates’ parole 
+reconsideration from three to eight years without pro- 
+cedural safeguards. 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+AE TE Ee Lee Ren a 
+
+
+C. The Facts Regarding Retroactive Application 
+££ 5 Ul) lf ee 
+
+
+Ce, 
+
+
+I. RETROACTIVE APPLICATION OF GEOR- 
+GIA’S EIGHT-YEAR RULE OFFENDS THE 
+EX POST FACTO CLAUSE BY CREATING 
+A “SUFFICIENT RISK” OF INCREASED 
+PUNISHMENT FOR PAROLE ELIGIBLE 
+LIFE-TERM PRISONERS ...................cc-cc-c-ceoseeees 
+
+
+Il. THIS COURT’S DECISION IN MORALES 
+CONFIRMS THAT GEORGIA’S RETROAC- 
+TIVE APPLICATION OF THE EIGHT-YEAR 
+RULE VIOLATES THE EX POST FACTO 
+GR cenccsnesscrsanepsssemnencnrssenpumnmenesementanesncesesens 
+
+
+III. CONSTITUTIONAL POLICY CONFIRMS 
+THE INVALIDITY OF GEORGIA’S RETRO- 
+ACTIVE IMPOSITION OF ITS EIGHT-YEAR 
+ee 
+
+
+_— 
+
+
+iv 
+
+
+iv 
+TABLE OF AUTHORITIES 
+
+CASES Page 
+
+Akins v. Snow, 922 F.2d 1558 (11th Cir. 1991), 
+cert. denied, 501 U.S. 1260 (1991) ........... 1, 4, 5, 7, 18 
+Beazell v. Ohio, 269 U.S. 167 (1925) ........ 7, 13, 20, 21, 35 
+
+Beebe v. Phelps, 650 F.2d 774 (5th Cir. Unit A 
+ee a eT ee 12 
+Board of Pardons v. Allen, 482 U.S. 369 (1987)... 16, 18 
+Calder v. Bull, 3 U.S. (Dall.) 386 (1798)... 10 
+
+California Dep’t of Corrections v. Morales, 514 
+RR eee a TR, tC passim 
+
+Connecticut Board of Pardons v. Dumschat, 452 
+ee iii a Be 11 
+Craig v. Boren, 429 U.S. 190 (1976) 0. 37 
+
+Cummings v. Missouri, 71 U.S. (4 Wall.) 277 
+SESEITEY cecapeestuiniaesestnndtniidiananiiciininetadiinnmssrtl tel tiias ieniecnaaalie 20 
+
+Devine v. New Mexico Dept. of Corrections, 866 
+co | ff. | ( ee 12 
+
+
+Dobbert v. Florida, 432 U.S. 282 (1977) ..9, 12, 14, 20, 35 
+Eastern Enterprises v. Apfel, 524 U.S. 498 
+
+
+SE ee ee Oe ey 9, 32, 33 
+Fender v. Thompson, 883 F.2d 303 (4th Cir. 
+EE Se. Oe eT a ee 12 
+
+
+Geraghty v. United States Parole Comm., 579 
+F.2d 238 (3rd Cir. 1978), vacated on other 
+
+
+grounds, 445 U.S. 888 (1980) 000 12 
+Greenfield v. Scafati, 277 F. Supp. 644 (Mass. 
+1967), aff'd, 390 U.S. 718 (1968)... 12, 13, 17 
+
+
+Greenholtz v. Inmates of Nebraska Penal & Cor- 
+rectional Complex, 442 U.S. 1 (1979) ............ 12, 18, 33 
+In re Jackson, 703 P.2d 100 (Cal. 1985) .... 25 
+James v. United States, 366 U.S. 218 (1961)... 36 
+Jones v. Garner, 164 F.3d 589 (11th Cir. 1999)... 2, 22 
+
+
+Kentucky Dep't of Corrections v. Thompson, 490 
+I Ceti 16 
+Landgraf v. United States, 511 U.S. 244 (1994)... 82, 33 
+\* Lindsey ». Washington, 301 U.S. 897 (1937) .....14, 15, 36 
+Love v. Fitzharris, 460 F.2d 382 (9th Cir. 1972). 
+vacated on other grounds, 409 U.S. 1100 
+rere a suenadiiens 12 
+Lynce v. Mathis, 519 U.S. 483 (1997) 00. passim 
+
+
+Vv 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Miller v. Florida, 482 U.S. 423 (1987) ................-.-. passim 
+Morrissey v. Brewer, 408 U.S. 471 (1972) ............. 10, 11 
+New State Ice Co. v. Liebmann, 285 U.S. 262 
+(1932) . a 25 
+Phillips v. Washington Legal Foundation, 524 
+(oS 23 
+Reeves v. State, 447 U.S. 429 (1980) ....................... 35 
+Rodriguez v. United States Parole Comm., 594 
+- GY. |) eae 12 
+Rooney v. State of North Dakota, 196 U.S. 319 
+14 
+Rummel v. Estelle, 445 U.S. 263 (1980) ................. 17 
+Shepard v. Taylor, 556 F.2d 648 (2nd Cir. 1977).. 12 
+Solem v. Helm, 463 U.S. 277 (1983) -.... , passim 
+State v. Niska, 514 N.W.2d 260 (1994) ................. 28 
+Sultenfuss v. Snow, 35 F.3d 1494 (11th Cir. 1994), 
+cert. denied, 513 U.S. 1191 (1995) .................... 9, 15, 16 
+Warden v. Marrero, 417 U.S. 653 (1974) ........... 10, 11, 20 
+Weaver v. Graham, 450 U.S. 24 (1981) .................. passim 
+Wolff v. McDonnell, 418 U.S. 539 (1974) ............... 10 
+Yamamoto v. United States, 794 F.2d 1295 (8th 
+C—O EEE 12 
+UNITED STATES CONSTITUTIONAL 
+PROVISIONS 
+i ES) aaa ae ee 5 
+iG 4 ) ae 5, 9, 10 
+GEORGIA CONSTITUTIONAL PROVISIONS 
+Ga. Const. Art. IV, § Il, {1 ab —_ &B 
+STATUTES 
+I yy y___—_————————————7 5 
+Cal. Penal Code § 3041.5 ....... 24 
+0.C.G.A. § 16-13-30 _............ 3 
+O.C.G.A. § 42-9-53 ................... 2 
+
+
+OTHER AUTHORITIES 
+William Crosskey, The True Meaning of the Con- 
+stitutional Prohibition of Ex Post Facto Laws, 
+14 U. Chi. L. Rev. 539, 540 (1947) 80, 31 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Hearings on H.R. 1598 and Identical Bills before 
+the Subcommittee on Courts, Civil Liberties, 
+and the Administration of Justice of the House 
+Committee on the Judiciary, 93d Cong., Ist 
+OE 11 
+Max Farrand, The Records of the Federal Con- 
+vention 376 (Yale 1966) ....................-....0..........-. 31 
+Wayne A. Logan, The Ex Post Facto Clause and 
+the Jurisprudence of Punishment, 35 Am. Crim. 
+> % =S |. Fe eRttenasnnseieee scenes 30 
+Savannah Morning News, July 25, 1993, p. 8A.... 26 
+
+
+Joanne D. Spotts, Sentence and Punishment: Pro- 
+
+vide for the Imposition of Life Sentence With- 
+
+out Parole, 10 Ga. St. U. L. Rev. 183 (1993)....3, 4, 11 
+State of Georgia Board of Pardons and Paroles, 
+
+News Releases, (visited December 5, 1999) 
+
+<http://www.pap.state.ga.us/NRFrames. 
+
+I censnnieinarmttinenainninestniatenattiiaaetiasteeaiaen 27 
+State of Georgia Board of Pardons and Paroles, 
+
+Parole Decisions (visited December 5, 1999) 
+
+<http://www.pap.state.ga.us/PFRames. 
+
+RE REC CES et I Ce 2,3 
+T. Cooley, Constitutional Limitations 272 (1868).. 35 
+The Federalist No. 44, at 282 (James Madison) 
+
+
+(Clinton Rossiter ed. 1961) .0...........cccccccceeeeeeeee 31 
+The Federalist No. 84, at 511 (Alexander Hamil- 
+ton) (Clinton Rossiter ed. 1961) ....................... 31 
+
+
+STATEMENT OF THE CASE 
+
+
+A. Introduction 
+
+
+Respondent, Robert L. Jones, is one of many life- 
+sentenced inmates in the Georgia prison system. Like 
+other life-sentenced inmates whose crimes were committed 
+between 1979 and 1985, Mr. Jones was entitled upon 
+conviction to an initial parole consideration after seven 
+years, and reconsideration “at least every three years” 
+thereafter. (J.A. 86) (hereinafter the “three-year rule”). 
+In 1985, the State of Georgia Board of Pardons and 
+Paroles (hereinafter “Parole Board” or “the Board”) 
+changed its rules for reconsideration of life-sentenced 
+inmates. Rather than providing for parole reconsider- 
+ation on a three-year basis, the new rules provided for 
+reconsideration “at least every eight years.” (J.A. 88) 
+(hereinafter the “eight-year rule”) .* 
+
+
+B. Georgia’s Parole System and the Eight-Year Rule 
+
+
+As explained by the Court of Appeals in Akins v. 
+Snow, 992 F.2d 1558, 1561-62 (11th Cir. 1991), cert. 
+denied. 501 U.S. 1260 (1991), an inmate’s parole recon- 
+sideration right in Georgia is considered to be “an essen- 
+tial part of parole elicibility.” This is the case because, if 
+a prisoner is denied for parole on his initial consideration, 
+a reconsideration must take place before parole is granted. 
+Id. Therefore. an inmate is effectively ineligible for parole 
+throughout the period that runs between two parole re- 
+views. Id. 
+
+
+In the Georgia prison system, an inmate who comes up 
+for parole consideration does not have the opportunity for 
+
+
+1 Inmates whose crimes were committed prior to 1979 were en- 
+titled to reconsideration on on annual basis. However, if the Parole 
+Board’s retroactive application of the eight-vear rule is upheld, 
+they face a possible delay of seven wears over the annual considera- 
+tion they were guaranteed prior to the Board’s 1995 amendment. 
+See Akins v. Snow, 922 F.2d 1558 (11th Cir. 1991). 
+
+
+2 
+
+
+an in-person hearing before the Board of Pardons and 
+Paroles. See Jones v. Garner, 164 F.3d 589, 594 (11th 
+Cir. 1999). See also State of Georgia Board of Pardons 
+and Paroles, Parole Decisions (visited December 5, 1999) 
+<http: //www.pap.state.ga.us/PRFrames.htm>. Instead, 
+inmates are offered only an interview with a parole officer 
+(not a Parole Board member), who completes a form that 
+sets forth information such as “where [the inmate] has 
+resided and worked; who his family members are and 
+where they live; where he plans to live and work; and 
+what his own account is of the crime.” Jd. In the event 
+the inmate’s request for parole is denied, the inmate is 
+not allowed to review his file to determine the reasons 
+for denial or what he can do to improve his chances of 
+obtaining parole in the future; the contents of parole files 
+are designated by statute as “confidential state secrets.” 
+0.C.G.A. § 42-9-53. 
+
+
+Georgia’s eight-year rule does not require the Board to 
+make any particularized inquiries in order to postpone the 
+time of the inmate’s parole reconsideration beyond the 
+three-year period that the 1979 version of the regulations 
+had required. (J.A. 88). The revised regulation also 
+does not contain any guidance as to any particular facts 
+or circumstances that should exist for the Board to delay 
+reconsideration. 
+
+
+Instead, the Board issued a general directive, through a 
+Policy Statement adopted in 1996, that the Board should 
+set reconsideration dates for a maximum of eight years 
+from the date of the last denial when “in the Board’s 
+determination, it is not reasonable to expect that parole 
+would be granted during the intervening years.” (J.A. 
+55-57). This Policy Statement was not adopted until one 
+year after the Parole Board began to apply the eight-vear 
+rule retroactively and until after the Board had deferred Mr. 
+
+
+3 
+
+
+Jones’ next consideration for eight years, until 2003. 
+(Compare J.A. 55-57 with J.A. 54). 
+
+
+Like the regulation, the Policy Statement does not 
+require any inquiry beyond a cold-record review of the 
+contents of an inmate’s parole file before putting off 
+reconsideration for eight years. Id. In making this deci- 
+sion, Board members, whose terms of service are limited 
+to seven years by the State Constitution, Ga. Const. Art. 
+IV, § II, 41, do not convene to discuss an inmate’s file. 
+Rather, Board members consider files independently. See 
+State of Georgia Board of Pardons and Paroles, Parole 
+Decisions (visited December 5, 1999) <http://www.pap. 
+state.ga.us/PRFrames.htm>. 
+
+
+The application of the amended parole regulations to 
+inmates whose crimes pre-date the amendment extends to 
+all life-sentenced inmates, including Respondent Jones. 
+This class is not limited, as Petitioners suggest, to persons 
+“who hafve] committed heinous crimes that would have 
+resulted in the imposition of the death penalty in the past.” 
+See Pet’r Br.. p. 3. Rather, the Board’s Policy Statement 
+includes “all Life Sentence Cases eligible for parole con- 
+sideration.” (J.A. 56) (emnhasis added). This includes, 
+for examnle. nersons convicted of rereat violations of the 
+Controlled Substances Act. See O.C.G.A. § 16-13-30. 
+
+
+There also is no basis to conclude that Georgia’s policy 
+applies onlv to a class of inmates who have “virtually no 
+near-term likelihood of parole.” See Pet’r Br.. p. 15. In 
+fact. as of 1993 (shortly prior to the Board’s decision to 
+annly the eirht-vear rule retroactively after this Court's 
+decision in California Dent. of Corrections v. Morales, 
+514 U.S. 499 (1995)). the average time that life sen- 
+tenced inmates in Georgia served was twelve vears. Joanne 
+D. Snotts. Sentence and Punishment: Provide for the Im- 
+position of Life Sentence Without Parole, 10 Ga. St. U. L. 
+
+
+Rev. 183 (1993) (quoting former State Representative 
+and current Georgia Attorney General Thurbert E. Baker). 
+
+
+Due to the District Court’s initial rulings, there has 
+been no discovery in this case. Nonetheless, the Board’s 
+own Policy Statement acknowledges that the eight-year 
+rule was made applicable retroactively “to establish the 
+maximum possible interval, in a Life Sentence Case, be- 
+tween a decision to deny parole and the time at which 
+reconsideration for parole will occur.” (J.A. 56). This 
+statement, and other public statements made by the Board, 
+see infra n. 19, support the inference that the Board's 
+rule change reflected part of a systematic effort to “crack 
+down” on life-sentenced inmates by extending the length 
+of their prison sentences. The Board takes issue with 
+this inference, by asserting that the eight-year rule is 
+justified as a cost-saving measure. In support of this 
+assertion, however, Petitioners presented no evidence in 
+the District Court. They offer only the unsupported alle- 
+gations made in the papers filed in this Court. 
+
+
+C. The Facts Regarding Retroactive Application of the 
+
+Eight-Year Rule 
+
+In 1986, the Board began to apply the eight-year rule 
+not only to inmates who were sentenced to life imprison- 
+ment for crimes committed after the rule’s effective date, 
+but also to those inmates, including Mr. Jones, whose 
+crimes pre-dated the rule’s adoption. In Akins, the Elev- 
+enth Circuit Court of Appeals held that this retroactive 
+application of the eight-year rule violated the Ex Post 
+Facto Clause. After Akins, the Board discontinued its 
+retroactive application of the eight-year rule and resumed 
+its original practice of considering inmates under the rules 
+in effect at the time their offenses were committed. 
+
+
+In 1995, this Court decided California Dep’t of Cor- 
+rections v. Morales, 514 U.S. 499 (1995). Even though 
+
+
+5 
+
+
+the Court in Morales was careful to limit its ruling to 
+the particular factual circumstances persented in that 
+case, see 514 U.S. at 510 n.6, the Georgia Parole Board 
+nevertheless interpreted Morales as supporting retroactive 
+application of the eight-year rule. As a result, notwith- 
+standing Akins’ admonitions to the contrary, the Board 
+again chose to apply the eight year rule to all life-sentenced 
+inmates, regardless of when their crimes were committed. 
+The consequence for Respondent Jones was that, when 
+he was reconsidered for parole in 1995, he was informed 
+that “[t]he board has decided to consider you again for 
+parole during August 2003.” (J.A. 54). 
+
+
+D. Proceedings Below 
+
+
+Jones filed suit pursuant to 42 U.S.C. § 1983, claiming 
+that the Board’s action violated the Ex Post Facto Clause. 
+(J.A. 16).2 Although Jones requested leave to conduct 
+discovery to support his claims, the District Court denied 
+his Motion for Leave to File Discovery. (J.A. 6). 
+
+
+Shortly thereafter, Petitioners filed a Motion for Sum- 
+mary Judgment, asserting that there was no genuine issue 
+of material fact requiring further proceedings. (J.A. 34). 
+Jones opposed the Board’s Motion, and also moved for 
+Summary Judgment on the grounds that retroactive appli- 
+cation of the eight-year rule constituted a violation of the 
+Ex Post Facto Clause under controlling precedent. (J.A. 
+58). 
+
+
+The District Court granted Petitioners’ Motion for Sum- 
+mary Judgment, finding that Morales permitted the Board 
+
+
+2 There are two Ex Post Facto Clauses contained in the United 
+States Constitution. The clause in Article I, § 10 prohibits state 
+governments from passing ex post facto laws; the Clause contained 
+in Art. I, §9 applies the same prohibition to the Federal govern- 
+ment. Unless otherwise specified, further references to the “Ex 
+Post Facto Clause” herein refer to the Article I, § 10 clause that 
+applies to state governments. 
+
+
+6. 
+
+
+to apply the eight-year rule retroactively. (Pet. App. B, 
+20a). Jones appealed, and the Eleventh Circuit reversed, 
+finding that the eight-year rule differed materially from 
+the rule considered in Morales. The court’s detailed opin- 
+ion, authored by Judge Barkett and joined by Judge Birch 
+and Judge Hancock (sitting by designation from the 
+Northern District of Alabama), reasoned that the length 
+of the set-off, combined with a lack of procedural safe- 
+guards and application of the rule to a “far more sizeable” 
+group than that involved in Morales, 164 F.3d at 594, 
+“seemed certain to ensure that some number of inmates 
+will find the length of their incarceration extended.” /d. 
+at 595. Petitioners moved for reconsideration en banc. 
+(Pet. App. C, 30a). Their request was denied with no 
+dissenting vote. Petitioners then filed a Petition for a 
+Writ of Certiorari with this Court. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+Georgia’s retroactive application of its eight-year rule 
+violates the Ex Post Facto Clause. For a prisoner, few, 
+if any, matters are of greater moment than the possibility 
+of early release. As a result, this Court’s jurisprudence 
+firmly recognizes that “retroactive alteration of parole or 
+early release provisions . . . implicates the Ex Post Facto 
+Clause.” Lynce v. Mathis, 519 U.S. 433, 445 (1997). 
+
+
+Here, Georgia has fundamentally reordered its parole 
+provisions on an ex post facto basis. It has done so by 
+replacing—for the broad class of all life inmates—a fixed 
+entitlement to consideration for parole at least every three 
+years, with an entitlement to consideration no more fre- 
+quently than every eight years based on a perfunctory 
+decision. Because consideration for parole is a necessary 
+prerequisite for parole, Georgia’s eight-year rule offends 
+the basic principle that “the right to qualify for, and hence 
+
+
+T 
+
+
+earn, parole” may not be retroactively diminished. Weaver 
+v. Graham, 450 U.S. 24, 34 (1981). 
+
+
+It is well settled that a delay in the initial consideration 
+of a prisoner’s parole eligibility would violate the Ex Post 
+Facto Clause. See infra, pp. 12-13. As a matter of both 
+logic and fairness, however, “[t]here is no principled dis- 
+tinction between changing the date of the initial hearing 
+and changing the period between parole reconsideration 
+hearings. Both substantially disadvantage a prisoner’s 
+parole eligibility and therefore his opportunity for parole.” 
+Akins, 922 F.2d at 1564. Indeed, because initial parole 
+considerations commonly result in parole denials, the 
+timing of parole reconsiderations often is of greater 
+practical consequence to the prisoner. It follows that a 
+prisoner’s reconsideration rights may well consiitute “a 
+significant factor entering into both the defendant’s deci- 
+sion to plea bargain and the judge’s calculation of the 
+sentence to be imposed.” Weaver, 450 U.S. at 32. Dra- 
+matically altering such reconsideration rights—from every 
+three years to every eight years (or, under the Board’s 
+rationale, to every 20, 40, or 60 years)—thus involves 
+the sort of “harsh and oppressive” retroactive treatment 
+the Ex Post Facto Clause prohibits. Beazell v. Ohio, 269 
+U.S. 167, 169 (1925). 
+
+
+This Court’s decision in Morales confirms this conclu- 
+sion. In that case, this Court focused meticulously on the 
+distinctive features of the California system in holding 
+that the state’s carefully circumscribed adjustment of its 
+earlier provision of annual parole hearings did not violate 
+the Ex Post Facto Clause. This Court so concluded be- 
+cause the new rule: (1) postponed parole suitability hear- 
+ings for a short period of time, (2) applied to only a 
+narrow class of prisoners, (3) required specific findings 
+to be made after a full hearing, and (4) operated within 
+
+
+a system that would allow the Board to correct any 
+errors it might have made in ordering postponement. 
+Thus, the risk of harm to prisoners was so “speculative 
+and attenuated” that this change was of no constitutional 
+significance. Morales, 514 U.S. at 509. 
+
+
+None of these circumstances applies to Georgia’s eight- 
+year rule. Unlike the California rule, Georgia’s rule: (1) 
+extends reconsideration intervals by five years, (2) covers 
+all life prisoners, (3) affords no meaningful procedural 
+safeguards, and (4) wholly lacks the no-harm-no-foul 
+safeguard present in California. Georgia’s rule thus of- 
+fends Morales’ governing standard by producing a “suffi- 
+cient risk of increasing the measure of punishment.” 
+Lynce, 519 U.S. at 444 n.14. If this “sufficient risk” 
+test is ever to be met, it must be where, as here, a state 
+goes so far as to extend the time for parole reconsidera- 
+tion for a broad class of prisoners for five full years by 
+way of a summary process. 
+
+
+Faced with these facts, Petitioners have no choice but 
+to ask this Court to invent a novel and unyieldingly over- 
+reaching principle of law. They argue that the Ex Post 
+Facto Clause can never be offended by a post-conviction 
+adjustment of parole reconsideration rights. This asser- 
+tion flies in the face of the whole tenor and nature of this 
+Court’s fact-specific analysis in Morales and its explicit 
+teaching that cases of this kind concern a “matter of “de- 
+gree.” 514 U.S. at 509. Even more fundamentally, the 
+state’s wholesale-exemption approach to the Ex Post 
+Facto Clause threatens core concerns about tyranny, lib- 
+erty and fairness that led the Framers to embrace that 
+clause at our nation’s founding. 
+
+
+As this Court has recognized time and again: “Retro- 
+activity is generally disfavored in the law . . . in accord- 
+ance with ‘fundamental notions of justice’ that have been 
+
+
+9 
+
+
+recognized throughout history.” Eastern Enterprises v. 
+Apfel, 524 U.S. 498, ——, 118 S.Ct. 2131, 2151 (1998). 
+There are special and powerful reasons why this principle 
+should apply to this case. This case does not involve 
+merely a monetary loss, see Eastern Enterprises, id., but a 
+threat to the most basic of all human freedoms: freedom 
+from physical confinement. This case does not concern 
+a mere modification of legal procedures, see Dobbert v. 
+Florida, 432 U.S. 282, 293-94 (1977), but an after-the 
+fact tampering with the actual temporal dimensions of an 
+inmate’s sentence. This case does not hinge on a claim 
+of “reasonable expectations” for purposes of procedural 
+due process, see Sultenfuss v. Snow, 35 F.3d 1494 (11th 
+Cir. 1994), cert. denied, 513 U.S. 1191 (1995), but 
+involves an ex post facto interference with rights concern- 
+ing parole, which this Court has described as “a regular 
+part of the rehabilitative process.” Solem v. Helm, 463 
+U.S. 277, 300 (1983). And most important, this case— 
+in pointed contrast to Morales—presents such a radical 
+reformulation of parole reconsideration rights that it gen- 
+erates an obvious risk of lengthening actual periods of 
+confinement for many prisoners in the real world. In 
+sum, Georgia’s eight-year rule offends the Ex Post Facto 
+Clause because, in a practical way, it retroactively and 
+profoundly diminishes “a prisoner’s eligibility for reduced 
+imprisonment.” Weaver, 450 US. at 32. 
+
+
+ARGUMENT 
+
+
+I. RETROACTIVE APPLICATION OF GEORGTA’S 
+EIGHT-YEAR RULE OFFENDS THE EX POST 
+FACTO CLAUSF BY CREATING A “SUFFICIENT 
+RISK” OF INCREASED PUNISHMENT FOR PA- 
+ROLE ELIGIBLE LIFE-TERM PRISONERS. 
+
+
+Our Constitution provides that: “No State shall... 
+pass any .. . ex post facto Law.” U.S. Const. Art. I, 
+
+
+10 
+
+
+§ 10, cl. 1. From the earliest days of the Republic, this 
+Court has insisted that the clause bars not only the post 
+hoc creation of crimes, but also any law “that changes 
+the punishment, and inflicts a greater punishment, than 
+the law annexed to the crime, when committed.” Calder 
+v. Bull, 3 U.S. (Dall.) 386, 390 (1798).3 In its most 
+recent treatment of the Ex Post Facto Clause protections, 
+this Court reaffirmed that this prohibition on increased 
+punishment extends to after-the-fact reformulations of 
+parole eligibility rules. As stated in Lynce: “retroactive 
+alteration of parole or early release provisions, like the 
+retroactive application of provisions that govern initial 
+sentencing, implicates the ex post facto clause ... .” 
+519 U.S. at 445 (citing Weaver v. Graham, 450 US. 
+at 321). 
+
+
+This Court’s vigilance in guarding against retroactive 
+dismantling of parole rights stems from a recognition of 
+the extraordinary importance of parole eligibility. The 
+Court often has noted that parole, when granted, is of 
+surpassing significance to the prisoner because it “is a 
+long step toward regaining lost freedom.” Warden v. 
+Marrero, 417 U.S. 653, 663 (1974).* No less important, 
+
+
+3Time and again, the Court has embraced and applied this 
+formulation from Calder in its modern Ex Post Facto Clause 
+cases. See, e.q., Lance, 519 U.S. at 440: Morales, 514 U.S. at 504; 
+Miller v. Florida, 482 U.S. 423, 428 (1987); Weaver, 450 U.S. at 29. 
+
+
+4In Morrissey v. Brewer, 408 U.S. 471, 482 (1972), the Court 
+explained that: “The liberty of a parolee enables him to do a wide 
+range of things open to persons who have never been convicted of 
+any crime. ... Subject to the conditions of his parole, he can be 
+gainfully employed and is free to be with family and friends and 
+to form the other enduring attachments of normal life. Though 
+the State properly subjects him to many restrictions not applicable 
+to other citizens, his condition is very different from that of con- 
+finement in a prison.” See also Wolff v. McDonnell, 418 U.S. 539, 
+561 (1974) (noting that deprivation of good time—even when it 
+“may be restored”—“is unquestionably a matter of considerable 
+importance,” in part because it “can postpone the date of eligibility 
+for parole.”’). 
+
+
+11 
+
+
+this Court has emphasized that parole, when available, is 
+so often “granted regularly,” that “[a]ssuming good be- 
+havior, it is the normal expectation in the vast majority 
+of cases.” Solem, 463 U.S. at 300, 302.5 Notably, the 
+likelihood of parole holds true in Georgia, where the 
+average actual prison term of “life” inmates was only 12 
+years during the period immediately preceding the state’s 
+post-Morales reinstitution of its eight-year rule. Spotts, 
+supra at p. 3. These real-world conditions create powerful 
+expectancy and reliance interests in parole consideration 
+rights. In particular, as this Court reiterated in Lynce: “a 
+‘prisoner’s eligibility for reduced imprisonment is a sig- 
+nificant factor entering into both the defendant’s decision 
+to plea bargain and the judge’s calculation of the sen- 
+tence to be imposed.’” Lynce, 519 U.S. at 445-46 (quot- 
+ing Weaver, 450 US. at 31)® 
+
+
+5 See id. at 300 (“Parole is a regular part of the rehabilitative 
+process”); Morrissey, 408 U.S. at 477 (“the practice of releasing 
+prisoners on parole before the end of their sentences has become an 
+integral part of the penological system”). This Court, moreover, 
+has recognized that this “normal expectation” fully extends to life 
+prisoners; indeed Solem itself involved a discussion by the Court 
+concerning the likelihood of parole for life prisoners. See also 
+Solem, 463 U.S. at 316-317 (Burger, C.J., dissenting) (noting that 
+early release is not limited to parole-based systems; even where 
+commutation system substitutes for parole, early release is “what 
+so many ‘lifers’ experience”); Connecticut Board of Pardons v. 
+Dumschat, 452 U.S. 458, 462 (1980) (accepting lower court’s asser- 
+tion of an “overwhelming likelihood that Connecticut life inmates 
+will be pardoned and released before they complete their minimum 
+terms”). 
+
+
+6 See also Warden v. Marrero, 417 U.S. at 658; Hearings on H.R. 
+1598 and Identical Bills before the Subcommittee on Courts, Civil 
+Liberties, and the Administration of Justice of the House Com- 
+mittee on the Judiciary, 93d Cong., 1st Sess., 163-164, 193 (1972) 
+(testimony and statement of Antonin Scalia, Chairman of the Ad- 
+ministrative Conference of the United States) (noting that courts 
+set maximum sentences anticipating “that a prisoner who demon- 
+strates his desire for rehabilitation will not serve the maximum 
+
+
+12 
+
+
+In light of these settled principles, Petitioners neither 
+can nor do suggest that a state may wholly negate pre- 
+existing parole eligibility by way of retrospective action. 
+See Weaver, 450 U.S. at 32 (citing without question, 
+Rodriguez v. United States Parole Commn., 594 F.2d 
+170 (7th Cir. 1979) for proposition that “elimination 
+of parole eligibility [has been] held an ex post facto viola- 
+tion”); Greenfield v. Scafati, 277 F. Supp. 644, 646 
+(Mass. 1967) (same), aff'd, 390 U.S. 713 (1968). Like- 
+wise, there is and can be no contention that the state 
+could retroactively alter “the date of any prisoner’s initial 
+parole suitability hearing.” Morales, 514 US. at 511 
+(emphasis added). See, e.g., Dobbert, 432 U.S. at 298 
+(noting. without question, Florida Supreme Court's 
+holding to this effect.?7 In fact, this Court has repeat- 
+edlv barred retroactive interference with parole-eligibility 
+rights.* except where there is “no reason to conclude that 
+
+
+term or anything approaching the maximum”) (cited in Greenholtz 
+». Inmates of Nebreska Penal & Correctional Complex, 442 US. 1, 
+81 (1979) (dissenting oninion)). The risk of unfair state repudia- 
+tion of parole richts relied unon in nlea bargains was clearly on 
+the Court’s mind in Lunce. See 519 US. at 440 (noting that the 
+Ex Post Facto Clause “places limits on the sovereign’s ability to 
+use its law-making power to modify bargains it has made with its 
+subjects.” including with regard to “the indigent defendant engaged 
+in negotiations that may lead to an acknowledgment of guilt”). 
+
+
+7 The federal circuit courts appear to agree on this point. See 
+Fender v. Thompson, 883 F.2d 303, 307 (4th Cir. 1989); Devine v. 
+New Mexico Dent. of Corrections, 866 F.2d 339, 348 (10th Cir. 
+1989): Yamamoto v. United States, 794 F.2d 1295, 1300 (8th Cir. 
+1986): Beebe v. Phelps. 650 F.2d 774, 777 (5th Cir. Unit A 1981); 
+Geraghty v. United States Parole Comm., 579 F.2d 238, 266 (3rd 
+Cir. 1978), vacated on other grounds, 445 U.S. 388 (1980) ; Shepard 
+v. Toylor, 556 F.2d 648, 654 (2nd Cir. 1977); Love v. Fitzharris, 
+460 F.2d 382, 383 (9th Cir. 1972), vacated on other grounds, 409 
+U.S. 1100 (1973). 
+
+
+8 See Lynce, 519 U.S. at 449; Weaver, 450 U.S. 36; Greenfield, 
+390 U.S. at 713. 
+
+
+13 
+
+
+(the state’s action] will have any effect on any prisoner’s 
+actual term of confinement.” Morales, 514 U.S. at 512, 
+quoted in Lynce, 519 U.S. at 444. 
+
+
+Petitioners, however, now argue for a much broader 
+principle—a principle that, in effect, would permit the 
+state retroactively to put off any parole reconsideration to 
+whatever later date it wished to choose in the exercise of 
+its “virtually unfettered discretion.” Pet’r Br. at 15. Peti- 
+tioners cannot succeed in this effort to hermetically seal 
+off parole reconsideration rights from initial considera- 
+tion rights for Ex Post Facto Clause purposes. Indeed, 
+because parole is often denied at the initial consideration 
+Stage, the nature and timing of reconsiderations may well 
+be of even greater importance to the prisoner behind bars 
+or the defendant considering a plea. Dramatically post- 
+poning reconsideration rights—under the Board’s ration- 
+ale, to every 20, 40 or 60 years—thus involves exactly 
+the sort of “harsh and oppressive” treatment that the Ex 
+Post Facto Clause forecloses. Beazeill v. Ohio, 269 U.S. 
+167, 170 (1925). 
+
+
+There is another powerful reason why there is “no 
+principled distinction between changing the date of the 
+initial hearing and changing the period between parole 
+reconsideration hearings.” See Akins, 922 F.2d at 1564. 
+Once an initial denial occurs, parole eligibility exists for 
+an inmate only to the extent that the inmate is entitled 
+to reconsideration. While there is no guarantee that any 
+particular prisoner will actually be released after any 
+particular reconsideration, there is a guarantee that a 
+prisoner cannot be released until a reconsideration occurs. 
+Akins, 922 F.2d at 1562. Such a precious chance for 
+freedom—indeed, the only chance for freedom—may not 
+be retroactively impaired by the state through extended 
+deferrals of parole reconsideration consistent with the 
+
+
+14 
+
+
+Ex Post Facto Clause. Otherwise, the Clause’s protection 
+of “the right to qualify for, and hence earn, parole,” 
+Weaver at 34, quoting Greenfield, 277 F.Supp. at 646, 
+would become a hollow promise.® 
+
+
+Petitioners also seek to render this Couri’s rulings an 
+
+
+empty letter by requiring Respondent to prove “with . . . 
+certainty” that the eight-year rule has led in fact to length- 
+
+
+ened prison terms. Pet’r Br. at 9. This is not the law.” 
+
+
+® This Court’s precedents outside the parole context support the 
+same conclusion. In Lindsey v. Washington, 301 U.S. 397 (1937), 
+this Court found an Ex Post Facto Cleuse violation in a state’s 
+substitution of a mandatory 15-year sentence for a discretionary 
+sentence range of up to 15 years. Likewise, in Miller v. Florida, 
+482 U.S. 423 (1987), this Court struck down the state’s retroactive 
+substitution of a presumptive sentencing range of 31% to 41% years 
+for a presumptive range of 51% to 7 years. In both cases, under- 
+mining the sentencing authority’s preexisting “discretion” to im- 
+pose “a much shorter sentence” was the downfall of the statutory 
+revision. Dobbert, 432 U.S. at 300. This same principle controls 
+this case because the discretionary power to reduce the length of 
+a prisoner’s sentence has likewise been taken away. That this dis- 
+cretionary choice has been removed on the back-end (i.e., with re- 
+spect to the later Parole Board decisions), rather than the front 
+end (i.e., with respect to the decisions of sentencing judges) makes 
+no difference “in the light of reason and common sense.” Rooney 
+v. State of North Dakota, 196 U.S. 319, 325 (1905). 
+
+
+10 Petitioners’ newly minted “with . . . certainty” proof standard 
+is derived by quoting wholly out of context a tiny fragment of the 
+following statement in Lynce: “[Wle rejected the inmate’s claim 
+in Morales, because it could not be said with any certainty that the 
+amended statutory scheme was more ‘onerous’ than at the time of 
+the crime.” 519 U.S. at 447, n.19. Petitioner’s attempt to charac- 
+terize this statement as requiring prisoners to prove “with .. . 
+certainty” that they would in fact receive an earlier release date 
+under the old system than the new (by conveniently substituting 
+an ellipsis for the word “any”) is flatly inconsistent with the 
+Court’s “sufficient risk” standard. Morales, 514 U.S. at 509; Lynce, 
+519 U.S. at 444 n.14. See also Miller, 482 U.S. at 432 (rejecting 
+state’s argument that defendant must “show definitively that he 
+would have gotten a lesser sentence” because this argument “is 
+foreclosed by our decision in Lindsey”). In a similar vein, Peti- 
+
+
+15 
+
+
+As this Court made clear in both Morales and Lynce, 
+Respondent need only show that the eight-year rule “pro- 
+duces a sufficient risk of increasing the measure of punish- 
+ment attached to the covered crimes.” Morales, 514 U.S. 
+at 509 (emphasis added); see also Lynce, 514 U.S. at 
+444 n.14. If this “sufficient risk” test is ever to be met, 
+it must be met here: where the state has extended recon- 
+siderations for all life inmates, based on only the most 
+perfunctory process, for five additional years. 
+
+
+Petitioners seek to skirt this result by advancing three 
+novel contentions. First, they argue that Respondent 
+Jones cannot challenge Georgia’s retroactive alteration of 
+parole reconsideration rights because he cannot prove 
+that retention of the three-year rule would advantage him 
+personally, given the particular features of his case. See 
+Pet’r Br. 10, 17. The controlling answer to this conten- 
+tion is that it has been squarely rejected by this Court. 
+For purposes of the Ex Post Facto Clause, “[t]he inquiry 
+looks to the challenged provision, and not to any special 
+circumstances that may mitigate its effect on the par- 
+ticular [offender].” Weaver, 450 U.S. at 33. 
+
+
+Second, relying on Sultenfuss v. Snow, 35 F.3d 1494 
+(11th Cir. 1994), cert. denied, 513 U.S. 1191 (1995), 
+
+
+tioners misstep in claiming that the Court of Appeals somehow 
+misallocated the burden of proof on the “sufficient risk” issue. 
+Pet’r Br. at 29-32. Petitioners, however, can and do cite no lan- 
+guage in the lower court’s opinion—hbecause there is none—that 
+reveals any departure from the controlling burden of proof prin- 
+ciples outlined in Morales. See 514 U.S. at 510 n.6. 
+
+
+11 Accord, Morales, 514 U.S. at 510 (“a party asserting an ex 
+post facto claim need not carry the burden of showing that he 
+would have been sentenced to a lesser term under the measure or 
+range of punishments in place under the previous statutory 
+scheme”) ; Miller, 482 U.S. at 432; Lindsey, 301 U.S. at 401. See 
+also Lynce, 519 U.S. at 446 n.16 (inquiring whether “the amended 
+statutory scheme was more onerous”). 
+
+
+16 
+
+
+Petitioners emphasize that inmates in Georgia have been 
+held to lack a “reasonable expectation” of parole. Pet'r 
+Br. at 17-18, 24 n.6. Petitioners’ logic seems to be that 
+removing reconsideration rights for Georgia prisoners, 
+who have no “reasonable expectation” of parole to begin 
+with, cannot possibly cause them harm. The flaw in this 
+argument lies in Petitioners’ mistaken attempt to trans- 
+plant a Fourteenth Amendment procedural due process 
+concept into the very different Ex Post Facto Clause set- 
+ting. In ruling that Georgia inmates lack a “reasonable 
+expectation,” the Circuit Court was using a term of art 
+that denoted only that it is not the law that “the Board 
+shall release the inmate when findings prerequisite to 
+release are made.” Board of Pardons v. Allen, 482 
+U.S. 369, 381 (1987); accord, id. at 381 (O’Connor, J., 
+dissenting) (inquiry whether respondents have a “legiti- 
+mate expectation” of parole “sufficient to give rise to an 
+interest protected by procedural due process” hinges on 
+whether proof of “specific statutory predicates” mandates 
+a parole grant). States create a protected liberty interest 
+by placing substantive limitations on official discretion. 
+Kentucky Dep’t of Corrections v. Thompson, 490 U.S. 
+454, 462 (1989). Such a ruling in no way suggests that 
+parole is routinely unavailable in Georgia and says noth- 
+ing about the actual prospects for release of individual 
+inmates affected by the eight-year rule. Indeed, Sultenfuss 
+is beside the point because—while the “Due Process 
+Clauses . . . protect pre-existing entitlements’— “(t]he 
+presence or absence of an affirmative enforceable right 
+is not relevant . . . to the ex post facto prohibition.” 
+Weaver, 450 US. at 30. 
+
+
+Finally, the state argues that the Parole Board’s radical 
+remaking of parole-reconsideration rules is permissible 
+because the Board has “virtually unfettered discretion” 
+over all aspects of the parole process, including “the ulti- 
+
+
+17 
+
+
+mate decision-making power as to Jones’ parole.” Pet'r 
+Br. at 15. This argument proves too much. Its logical 
+end-point is that the state can retroactively eliminate 
+parole altogether—a result that (as we have seen) the 
+Ex Post Facto Clause condemns. See supra pp. 12-13.” 
+
+
+The fact that the Board has substantial discretion 
+whether or not to grant parole only makes the inmate’s 
+reconsideration rights that much more important. The 
+key point is that present-day attempts to predict the 
+highly discretionary actions of future parole boards— 
+especially when those predictions reach eight years into 
+
+
+12 See also Greenfield v. Scafati, 277 F. Supp. at 646 (holding 
+that while “a prisoner’s entitlement to parole lies in the discretion 
+of the parole board,” it is nonethless “an unlawful ex post facto 
+burden to deprive him altogether of the right to be found quali- 
+fied”). aff'd, 390 U.S. 713 (1968). 
+
+
+The Petitioners’ ardent reliance on the discretionary nature of 
+parole rights also raises concerns about evenhandedness and doc- 
+trinal symmetry. This is so because, in upholding long prison terms 
+against attack under the Cruel and Unusual Punishment Clause, 
+this Court has “relied heavily” on state entreaties that the prisoner 
+who was given the long term was at the same time also made 
+“eligible for parole.” Solem, 463 U.S. at 297. States in such cases 
+have vigorously and successfully resisted counterarguments that 
+parole eligibility rights should be ignored because parole “is simply 
+an act of executive grace” that gives rise to “no constitutionally 
+enforceable interest,” thus justifying nothing more for the prisoner 
+than “speculation that he might be pardoned before the sentence 
+[is] carried out.” Rummel v. Estelle, 445 U.S. 263, 293-94 (1980) 
+(Powell, J., dissenting). The states cannot have it both ways. They 
+cannot in fairness assert that the discretionary nature of parole 
+rights removes them from Ex Post Facto Clause protection, even 
+while urging—with success in this Court—that those same discre- 
+tion-laden rights have dispositive significance in saving state sen- 
+tences from Fighth Amendment attack. Jd. at 281 (rejecting 
+Eighth Amendment challenge to life sentence subject to parole 
+imposed on three-time violator of criminal fraud and check forgery 
+laws involving $80, $26 and $120; “a proper assessment of Texas’ 
+treatment of Rummel could hardly ignore the possibility that he 
+will not actually be imprisoned for the rest of his life’). 
+
+
+18 
+the future—are intrinsically fraught with peril. That is 
+arises because the “parole-release decision . . . is 
+
+
+subtle and depends on an amalgam of elements, some 
+of which are factual but many of which are purely sub- 
+jective... .” Greenholtz, 442 U.S. at 9. See also id. at 8 
+(noting that parole decisions involve “an ‘equity’ type 
+judgment” that “involves a synthesis of record facts and 
+personal observation filtered through the experience of 
+the decisionmaker”). Moreover, the danger of faulty pre- 
+diction is particularly acute in Georgia because Parole 
+Board members, who now may put off reconsideration 
+decisions for eight years, themselves serve at most for 
+seven-year terms. Ga. Const. Art. IV, § II, 41. 
+
+
+In practical effect, the eight-year rule creates a very 
+real likelihood that a prisoner will receive, over a 15- 
+year period, only one reconsideration in place of a pre- 
+viously provided-for five. Given the continuous member- 
+ship changes of the Parole Board and the fact that “parole 
+release decisions are inherently subjective and predictive,” 
+Board of Pardons v. Allen, 482 U.S. 369, 374 (1987), 
+the consequences of this five-for-one tradeoff are apparent. 
+Such a profound reformulation of reconsideration rights 
+creates at least a “sufficient risk of increasing the measure 
+of punishment” for parole-eligible life-term prisoners to 
+violate the Ex Post Facto Clause. 
+
+
+The discretionary nature of parole rights in Georgia 
+cannot be divorced from this Court’s recognition that 
+parole is “the normal expectation” for prisoners with 
+eligibility to receive it. Solem, 463 U.S. at 300.%* In the 
+
+
+13 A broader problem with the state’s “virtually unfettered dis- 
+cretion” argument is that it misses the crux of the Ex Post Facto 
+Clause prohibition. For example, state legislatures have “virtually 
+unfettered discretion” to fix criminal sentences. But that fact does 
+not allow state legislatures retroactively to make more severe a 
+sentence that the legislature had fixed before the crime was com- 
+
+
+19 
+
+
+Solem case, Chief Justice Burger was so emphatic on this 
+point that he declared that: “[o]nly a fraction of ‘lifers’ 
+are not released within a relatively few years” after they 
+“become eligible for parole.” Jd. at 316. In Georgia, 
+the prospect of prolonged delays in parole considerations 
+for all life prisoners—from a 3, 6, 9 year pattern to a 
+pattern of 8, 16, 24—does more than create a “sufficient 
+risk” that prisoner release dates will be pushed back. It 
+all but guarantees that result." 
+
+
+In the end, the reason why the Ex Post Facto Clause 
+invalidates Georgia’s eight-year rule is simple. A retro- 
+actively applicable law offends the Constitution if it “in- 
+creases the penalty by which a crime is punishable.” 
+Morales, 514 U.S. at 507 n.3 (emphasis added). And 
+“only an unusual prisoner could be expected to think 
+that he was not suffering a penalty when he was denied 
+
+
+mitted. Indeed, the whole point of the Ex Post Facto Clause is to 
+prohibit just such would-be exercises of “discretion.” See Weaver, 
+450 U.S. at 29 (“[a] law need not impair a ‘vested right’ to violate 
+the ex post facto prohibition’) ; id. at 29-30 (“[e]ven if a statute 
+merely alters penal provisions accorded by the grace of the legisla- 
+ture, it violates the Clause if it is both retrospective and more 
+onerous than the law in effect on the date of the offense”). 
+
+
+14To be sure, the current Georgia Parole Board may take an 
+intensely negative view of parole. But a present-day embrace of 
+a non-historical perspective cannot serve to diminish Georgia 
+prisoners’ constitutional rights—particularly because it is unfair 
+and unfounded to assume that the same negative stance will persist 
+three years, five years or eight years hence. During such a lengthy 
+period of time, a great deal can happen. Prison overcrowding may 
+force more parole grants; court orders may be entered; new re- 
+search may suggest that factors other than the nature of the 
+prisoner’s offense (such as prisoner age, demonstrated good be- 
+havior, employability or family support structure) are the best 
+indicators of parole suitability; or newly appointed parole board 
+members may independently reach similar conclusions. In effect, 
+the eight-year rule fences out all prisoners it affects from receiv- 
+ing the benefit of any such future development. 
+
+
+20 
+
+
+eligibility for parole.” Warden v. Marrero, 417 U.S. at 
+662 (emphasis added). The Board suggests that its eight- 
+year rule does not adversely affect a prisoner’s “eligibility 
+for parole” because it leaves in place the prisoner’s initial 
+eligibility date and the substantive criteria by which 
+parole decisions are made. But this argument glorifies 
+form over substance in violation of the cardinal principle 
+that the Ex Post Facto Clause pays no heed to the “tech- 
+nical” and “sophistic.” Dobbert, 432 U.S. at 297.5 Pa- 
+role eligibility exists only if parole eligibility is considered. 
+By massively altering prisoners’ entitlements to regular, 
+triannual evaluations of their claims for parole, the Board 
+has “effectively postponed” when a prisoner “become[s] 
+eligible for early release” in violation of the Ex Post 
+Facto Clause. Lynce, 519 U.S. at 896. 
+
+
+II. THIS COURT'S DECISION IN MORALES CON- 
+FIRMS THAT GEORGIA’S RETROACTIVE APPLI- 
+CATION OF THE EIGHT-YEAR RULE VIOLATES 
+THE EX POST FACTO CLAUSE. 
+
+
+Georgia’s retroactive application of its eight-year rule 
+fails the ex post facto analysis articulated by this Court 
+in Morales. In Morales, this Court upheld the retroactive 
+application of a change to California’s parole reconsid- 
+eration rules. The Court rested its ruling on pointedly 
+narrow and practical grounds. There was, this Court 
+emphasized, “no reason to conclude that the amendment 
+
+
+15 See, e.g., Beazell v. Ohio, 269 U.S. 167, 170 (1925) (Ex Post 
+Facto Clause’s limits apply to “laws, whatever their form”) ; Miller, 
+at 430, quoting Dobbert at 293 (Ex Post Facto Clause focuses on 
+“matters of substance”); Weaver, 450 U.S. at 24 (“it is the effect, 
+not the form, of the law that determines whether it is ex post 
+facto”) ; Cummings v. Missouri, 71 U.S. (4 Wall.) 277, 325 (1867) 
+(Under the Ex Post Facto Clause, “what cannot be done directly 
+cannot be done indirectly. The Constitution deals with substance, 
+not shadows.”’). 
+
+
+21 
+
+
+will have any effect on any prisoner's actual term of 
+confinement. . . .” 514 U.S. at 512 (emphasis added). 
+
+
+Recently reiterating that the principle of Morales reaches 
+no further, the Court noted that Morales “rested squarely 
+on the conclusion that ‘a prisoner’s ultimate date of re- 
+lease would be entirely unaffected by the change in timing 
+of suitability hearings.” Lynce, 519 U.S. at 444. The 
+Court in Morales reached its conclusion only after a 
+thorough comparison of the old California parole provi- 
+sions and the new. The Court recognized that “the ques- 
+tion of what legislative adjustments ‘will be held to be of 
+sufficient moment to transgress the constitutional prohibi- 
+tion’ must be a matter of ‘degree.’” 514 U.S. at 509 
+(quoting Beazell v. Ohio, 269 U.S. at 171). The Court 
+focused meticulously on the distinctive “circumstances” 
+presented by the California parole reform. The Court 
+expressed “no view as to the constitutionality of any of a 
+number of other statutes that might alter the timing of 
+parole hearings under circumstances different from those 
+presented here.” Jd. at 510. The Court went on to up- 
+hold the California revision solely because it “creates only 
+the most speculative and attenuated possibility of produc- 
+ing the prohibited effect of increasing the measure of 
+punishment for covered crimes .. .” 514 US. at 514. 
+Accord, Lynce, 519 U.S. at 450 (Thomas, J., concurring). 
+
+
+The facts presented in this case stand in stark factual 
+contrast to those considered in Morales. Indeed, this case 
+differs from Morales in at least five critical respects. First, 
+the duration of the tolerated delay in the two cases is 
+fundamentally different. In Morales, California granted 
+authority to postpone parole reconsiderations for at most 
+two years, creating the possibility that reconsideration 
+intervals would move from every one to every three years. 
+Here, in contrast, the Board claims power to delay recon- 
+
+
+Msi sh RESIS Si AR EERE OER 
+
+
+22 
+
+
+siderations for five years, thus extending reconsideration 
+intervals from every three to every eight years. In finding 
+Morales to be “wholly distinguishable,” the Circuit Court 
+bluntly observed that “eight years is a long time.” Jones, 
+164 F.3d at 595. While Petitioners ridicule this statement, 
+Pet’r Br. at 27, the Circuit Court’s reasoning is a valid 
+recognition of the risks inherent in a deferral of reconsider- 
+ations for an extended period of time. As the Circuit 
+Court noted, “[mJuch can happen in the course of eight 
+years to affect the determination that an inmate would be 
+suitable for parole.” Jones, 164 F.3d at 595. 
+
+
+Second, the Court in Morales emphasized that the new 
+California rule applied only to a distinctively “narrow 
+class of prisoners’—-namely, multiple murderers—for 
+whom inevitably the “likelihood of release on parole is 
+quite remote.” 514 U.S. at 510. In contrast, as the 
+Circuit Court emphasized, Georgia’s parole provisions 
+apply to all life sentenced inmates, a class which encom- 
+passes inmates convicted of a broad range of crimes. 
+Carefully canvassing local law, the Circuit Court con- 
+cluded that the affected class of prisoners is extremely 
+broad. It might include: 
+
+
+prisoners convicted of murder . . . felony murder... 
+rape .. . armed robbery . . . kidnapping for ransom 
+. . . hijacking an aircraft . . . more than one count 
+of child molestation . . . perjury that was the cause 
+of someone else being sentenced to death . . . more 
+than one count of possession or use of a machine 
+gun, sawed-off rifle, sawed-off shotgun, or a firearm 
+equipped with a silencer during the commission or 
+attempted commission of a series of enumerated 
+offenses *; and more than one count of a series of 
+
+
+16 The Court noted that these enumerated offenses include ag- 
+gravated assault; aggravated battery; robbery; armed robbery ; 
+murder or felony murder; voluntary manslaughter; involuntary 
+
+
+23 
+
+
+prohibitions on the manufacture, possession, sale or 
+distribution of certain controlled substances. 
+
+
+Jones, 164 F.3d at 593-94 (citations omitted). 
+
+
+Drawing on this survey of Georgia law, the Court of 
+Appeals had no difficulty concluding that: “The set of 
+inmates whose parole considerations will be affected... 
+must .. . be comprised of many inmates who can at some 
+point expect to be paroled.” Jd.” It is the traditional 
+practice of this Court to defer to such state-law-based 
+conclusions of circuit courts. See, e.g., Phillips v. Wash- 
+ington Legal Foundation, 524 U.S. 156, 167 (1998). 
+But wholly apart from the appropriateness of such defer- 
+ence, the lower court’s reasoning squares exactly with 
+what this Court has said before: that, “[a]ssuming good 
+behavior, [parole] is the normal expectation in the vast 
+majority of cases.” Solem, 463 U.S. at 300. 
+
+
+Third, the Court in Morales repeatedly emphasized 
+that the California Parole Board’s decision to postpone 
+any reconsideration hearing was marked by elaborate pro- 
+cedural protections. The Court relied, for example, upon 
+the fact that the Board was required to conduct a “full 
+hearing and review” of all relevant facts (including a par- 
+ticularized inquiry, in addition to that for the parole de- 
+nial, with respect to facts supporting deferral of future 
+
+
+manslaughter; sale, possession for sale, transportation, manufac- 
+ture, offer for sale, or offer to manufacture controlled substances ; 
+terroristic threats or acts; arson; influencing witnesses; and par- 
+ticipation in criminal gang activity. Jones, 164 F.3d at 594 n.6. 
+
+
+17 Although Petitioners claim that the rule is in fact more limited, 
+arguing that it applies only to prisoners whose “heinous crimes and 
+multiple-offender status gives them, in the Board’s opinion, vir- 
+tually no near-term likelihood for parole. . .” (Pet’r Br. at 15), 
+that is decidedly incorrect under the terms of the Policy Statement, 
+upon which they rely so heavily for other propositions. (J.A. 56). 
+
+
+restlessness nie ech sAschensathangleenreengtme-eiitrnee eneeefh eenen 
+
+
+24 
+
+
+hearings). 514 U.S. at 511. California’s hearing process 
+also protected the inmates by: (1) allowing the inmate 
+to “be present, to ask and answer questions, and to speak 
+on his or her own behalf,” (2) providing a stenographic 
+record of all proceedings, (3) requiring that either legal 
+counsel or another suitable representative participate and 
+insure that all facts relevant to the decision were pre- 
+sented at the hearing, and (4) requiring the Board to 
+send the prisoner a written statement of the reasons for 
+denial and a suggestion of activities that would benefit 
+the inmate during his incarceration. Cal. Penal Code 
+§ 3041.5. After conducting this hearing, the Board was 
+required to make a specific determination that “it is not 
+reasonable to expect that parole would be granted at a 
+hearing during the following years,” and to “state!] the 
+basis for the findings.” 514 U.S. at 511. The use of these 
+elaborate procedural protections in California led the 
+Court in Morales to conclude with assurance that a deci- 
+
+
+sion to defer reconsideration was “no arbitrary decision.” 
+Morales, 514 U.S. at 511. 
+
+
+In contrast, the Georgia parole system utterly fails to 
+provide any procedural safeguards to prevent inmates 
+from being harmed by lengthy postponements of their 
+parole consideration dates. Georgia’s Parole Board pro- 
+vides no live hearing or even a personal meeting with 
+Parole Board members. In addition, Georgia inmates who 
+are denied parole are given only the most cursory rea- 
+sons for the decision, and are given no guidance at all as 
+to how to improve their future chances for parole. (J.A. 
+52-54). As a result, the Georgia Board has a much- 
+reduced ability to gauge an inmate’s future potential for 
+parole in comparison to the California system.” 
+
+
+18 Petitioners argue that any reliance on the nature of the hear- 
+ing is inappropriate because, in Georgia, the Parole Board “is 
+
+
+a 
+
+
+25. 
+
+
+The Court in Morales relied on a fourth fact that 
+clearly distinguishes that case from this one: in Califor- 
+nia, a prisoner’s actual release date typically comes “at 
+least several years after a finding of suitability.” 514 U.S. 
+at 513. The significance of this fact is that the California 
+Board has the opportunity to cure any error that might 
+otherwise occur due to the delay of a suitability hearing 
+by advancing the prisoner’s release date. Jd. In contrast, 
+there is no evidence in this record, or any indication in 
+the Georgia statutes or parole rules, that inmate releases 
+are delayed for any significant period of time following 
+a finding of suitability for parole. In any event, errors 
+resulting from a five-year delay obviously cannot be cor- 
+rected. It is telling that the Petitioners here do not even 
+try to advance the same sort of “no harm no foul” defense 
+that occupied so much of this Court’s attention in 
+Morales. See 514 US. at 513. 
+
+
+A fifth and final distinction between Morales and this 
+case arises out of the difference in the ways the California 
+and Georgia reforms came into existence. In Morales, this 
+Court noted that the State Legislature, upon investigation, 
+concluded that the California amendment directly alle- 
+
+
+under no requirement, either constitutional or statutory, to ever 
+hold parole consideration hearings or make particular findings.” 
+Pet’r Br. 26 (emphasis added). This argument confuses the re- 
+quirements of procedural due process (and of the Georgia Code) 
+with those of the Ex Post Facto Clause. Applying the latter clause, 
+this Court in Morales could not have been more explicit in declaring 
+that the procedural carefulness of the postponement hearing is im- 
+portant (as common sense suggests it is) because safeguards against 
+unjustified postponements eliminate the risk of increased punish- 
+ment that arises when unjustified postponements occur. In short, 
+under Morales the elaborateness of an inmate’s hearing rights 
+(whether or not required by procedural due process or by statute) 
+“provides assurance that any postponement decision [will] be well- 
+founded.” In re Jackson, 703 P.2d 100, 106 (Cal. 1985) (upholding 
+California regime later endorsed in Morales). 
+
+
+26 
+
+
+viated a needless administrative burden that arose from 
+holding live, full-blown, annual parole hearings. This 
+Court recognized the plausibility of this benign purpose 
+and found that the Board's retroactive application of the 
+changed parole rules was “carefully tailored” to eliminate 
+4 problem without harming the inmates. 514 U.S. at 
+
+
+In contrast, there is no evidence that retroactive appli- 
+cation of Georgia’s amended policy will result in signifi- 
+cant administrative savings, since the change only delays 
+reviews of inmate files. Moreover, there is no evidence 
+that reducing administrative burdens was the intent of 
+the eight-year rule. In fact, Board statements to the 
+popular media indicate otherwise, as does the language 
+in the Policy Statement on which Petitioners so heavily 
+rely.” In light of these materials, in clear contrast to 
+Morales, the eight-year rule and its retroactive applica- 
+tion could be viewed as having the primary purpose of 
+lengthening life inmates’ terms of incarceration, in which 
+
+
+19 The Policy Statement asserts that the eight-year rule’s urpose 
+is to “establish the maximum possible interval ae parole 
+denials and reconsideration in a Life Sentence Case.” (J.A. 56). 
+In a Parole Board Press Release it issued in 1998, the Board issued 
+the following statement: “Since 1991 the Board has steadily and 
+consistently amended and refined its guidelines and policies to pro- 
+vide for lengthier prison service for violent criminals.” State of 
+Georgia Board of Pardons and Paroles, News Releases, (visited 
+December 5, 1999) <http ://www.pap.state.ga.us/NRFrames.htm > 
+(Jan. 2, 1998 release, “Policy Mandates 90% Prison Time For 
+Certain Offenses”). Further, in an article published in the Savan- 
+nah Morning News, former Parole Board Chairman James T. 
+Morris was quoted as saying: “We established [in-house classifica- 
+tions for life-sentenced inmates] in 1985 and it’s just started to 
+catch up to us in the last three years... . It’s now beginning to 
+show the toughness we intended. And I think you’re going to con- 
+tinue to see the time that lifers serve continue to go up”. Savannah 
+a News, July 25, 1993, p. 8A. Of course, given the proce- 
+ural posture of this case, Respondent has not been able to conduct 
+discovery with respect to these or other statements. 
+
+
+27. 
+
+
+case Georgia’s eight-year rule revision would violate the 
+Ex Post Facto Clause wholly apart from its “conse- 
+quences,” Lynce, 519 U.S. at 442, and “impact,” id. at 
+443, because it appears that “in changing that sentencing 
+scheme, the [parole board] intended to lengthen the in- 
+mate’s sentence.” Id. (emphasis added). 
+
+
+Petitioners’ effort to invoke the principle of Morales 
+hinges on the only arguable similarity between the 
+amended parole legislation in that case and this one—the 
+purported opportunity of Georgia inmates to request an 
+expedited consideration in the event there has been a 
+change in the inmate’s circumstances.” Even assuming 
+that an opportunity generally exists in Georgia (but see 
+note 20, supra), this single similarity does not outweigh 
+the many dissimilarities between this case and Morales. 
+Indeed, four separate reasons show why Georgia’s new 
+“changed-circumstances” approach reduces the impact of 
+eight-year rule in only the most modest way, if it reduces 
+that impact at all. 
+
+
+First, the changed-circumstances approach places the 
+burden to request expedited consideration on the inmate 
+who previously would have been automatically entitled to 
+such review. Rather than being routinely considered, the 
+
+
+20 The opportunity to request expedited consideration is found 
+nowhere in the Parole Board’s rules. Instead, the Board relies on 
+its Policy Statement in an attempt to salvage a regulation that on 
+its face does not come close to passing constitutional muster. As 
+the Circuit Court noted, “[t]his policy does not sufficiently mitigate 
+the defects in the regulation itself to defeat an ex post facto chal- 
+lenge. Policy statements, unlike regulations, are unenforceable and 
+easily changed, and adherence to them is a matter of the Board's 
+discretion. These are qualities that caution against treating their 
+contents as if they had the authority of officially promulgated 
+statutes or regulations.” Jones, 164 F.3d at 595. 
+
+
+21 Courts have held that imposition of new laws that shift the 
+burden of proof or production to a defendant violate the Ex Post 
+
+
+28 
+
+
+prisoner must now show there is something so distinctively 
+exceptional about that prisoner’s case that it should be 
+singled out from all others for special treatment. No mat- 
+ter how receptive to parole a later constituted parole 
+board might be, it is counter-intuitive to believe that a 
+Board will often approve requests for early review. Thus, 
+the eight-year rule—coupled only with the conjectural 
+possibility of expedited reviews based on changed circum- 
+stances—departs radically from the three-year rule be- 
+cause it wholly changes the decisional baseline from which 
+the Parole Board operates. See, e.g., Weaver, 450 U.S. 
+at 35 (where state retroactively removes fixed entitlement 
+to earn gain-time credits, Court finds no adequate sub- 
+stitute in new program affording gain-time credits because 
+“the award of [them] is purely discretionary” and re- 
+quires inmates “to satisfy . . . extra conditions”); Miller, 
+482 U.S. at 432-33 (rejecting argument that judge’s abil- 
+ity to depart from new and more onerous presumptive 
+sentencing range negated Ex Post Facto Clause problems 
+because limitations on judge’s ability to make departure 
+“substantially disadvantaged” the defendant). 
+
+
+Second, for an inmate to be protected against the pos- 
+sibility of a Board postponement, the inmate must articu- 
+late the change of circumstances in a manner that is per- 
+suasive to the Parole Board. It will be difficult for most, 
+and impossible for many, inmates who are not entitled 
+to legal counsel and may be illiterate or unskilled in their 
+writing ability to persuasively articulate the changed cir- 
+cumstances. Inmates serving life sentences, sequestered 
+
+
+Facto Clause. See, e.g. State v. Niska, 514 N.W.2d 260, 265 (1994). 
+Even more important, this Court’s precedent looks askance at rule 
+changes of this kind. in this case, as in Miller, the substituted 
+changed-circumstances rule does not “simply provide flexible ‘guide- 
+posts’ for use in the exercise of discretion.” 482 U.S. at 435. 
+Rather it “create[s] a high hurdle that must be cleared before 
+discretion can be exercised” at all. /d. 
+
+
+29 
+
+
+in high security prisons, with few privileges, no legal 
+counsel, and poor communication skills are hardly in a 
+position to present their own cases under such a rule. 
+
+
+Third, reliance on a changed-circumstances review 
+scheme presumes that an inmate is in a position to recog- 
+nize when relevant circumstances have changed and then 
+to highlight those changes in an individual changed- 
+circumstances petition. This often will not be the case, 
+however, as inmates are not given guidance by the Board 
+as to what steps they might take in the future to secure 
+parole release. Further, parole decisions may be made for 
+reasons having nothing to do with the individual inmate’s 
+circumstances. Instead, an inmate’s chances for parole 
+may depend largely on how that inmate’s circumstances 
+compare to other similarly situated inmates in the parole 
+consideration pool. Other relevant changes may concern 
+such matters as overcrowding or changes in Parole Board 
+membership or political philosophy. 
+
+
+Fourth and finally, there is no evidence whatsoever to 
+indicate a potential for expedited reviews in fact mean- 
+ingfully offsets (or even reduces) inmates’ retroactive loss 
+of triannual reconsideration rights. Common sense pro- 
+vides a basis for skepticism in this regard. Given the 
+Board’s ardent protestations that it is too busy to conduct 
+triannual reviews, it would be surprising to find that it 
+often engages in individualized expedited reconsiderations 
+based upon changed circumstances. 
+
+
+In sum, Georgia’s parole rules are so vastly different 
+from those considered in Morales that it is not surprising 
+the Circuit Court reached a different result in this case. 
+Indeed, Morales requires a different result.“ There, for 
+
+
+22 The weaknesses of Petitioners’ attempted reliance on Morales 
+is underscored by their suggestion that the Court should essentially 
+ignore the underlying reasoning of that case. Thus, referring to 
+
+
+ee 
+
+
+30 
+
+
+each of the reasons identified above, the Court found Cali- 
+fornia’s modest parole-reconsideration reform was tailored 
+to eliminate costly full-scale hearings that entailed nothing 
+more than “futility” and “going through the motions.” 
+Even faced with such circumstances, the Court perceived 
+itself to be facing a “close question” in Morales. See, e.g., 
+Lynce, 519 U.S. at 450 (Thomas, J., concurring). The 
+same cannot be said here. Indeed, every element of the 
+reasoning of Morales demonstrates why the Court should 
+find an Ex Post Facto Clause violation on the starkly 
+contrasting facts of this case. 
+
+
+Ill. CONSTITUTIONAL POLICY CONFIRMS THE IN- 
+VALIDITY OF GEORGIA’S RETROACTIVE IM- 
+POSITION OF ITS EIGHT-YEAR RULE. 
+
+
+The Ex Post Facto Clause was adopted “to protect fu- 
+ture Americans against oppressive, retroactively imposed, 
+legislative enactments.” Wayne A. Logan, The Ex Post 
+Facto Clause and the Jurisprudence of Punishment, 35 
+Am. Crim. L. Rev. 1261, 1275 (1998). Opposition to 
+ex post facto laws among the framers was strong.” As a 
+
+
+Morales, Petitioners argue that “given the paucity of cases that 
+this court can consider each year, its decisions must be something 
+more than mere fact-specific rulings.” Pet’r Br. at 29 (emphasis 
+in original). Petitioners’ you-didn’t-really-mean-what-you-said line 
+of reasoning (by which Petitioners mean to say that the Court 
+intended to generally authorize retroactive consideration delays) 
+is particularly ill-suited to Morales. In that case, this Court dis- 
+claimed in no uncertain terms any intention to uphold reconsidera- 
+tion extensions in cases involving “circumstances different from 
+those present here,” Morales, 514 U.S. at 509 n5. 
+
+
+23 It appears that no dissent at all was voiced at the Constitu- 
+tional Convention as to the wrongfulness of ex post facto laws. 
+Discussion centered instead on whether any textual treatment of 
+the subject was necessary given the general understanding that 
+such laws were so tyrannical that they “were void of themselves.” 
+William Crosskey, The True Meaning of the Constitutional Prohibi- 
+tion of Ex Post Facto Laws, 14 U. Chi. L. Rev. 589, 540 (1947) 
+
+
+31 
+
+
+result, they endorsed with no real controversy a prohibi- 
+tion on such laws that was “sweeping” and “absolute.” * 
+
+
+James Madison described ex post facto laws as “con- 
+trary to the first principles of the social compact, and to 
+every principle of sound legislation.” He thus deemed the 
+prohibition a “bulwark in favor of personal security and 
+private rights.” The Federalist No. 44, at 282 (James 
+Madison) (Clinton Rossiter ed. 1961). Alexander Ham- 
+ilton identified the safeguards against ex post facto laws 
+(along with the protection of habeas corpus and the ban 
+on titles of nobility) as “perhaps greater securities to 
+liberty and republicanism than any [the Constitution] con- 
+tains.” The Federalist No. 84, at 511 (Alexander Hamil- 
+ton) (Clinton Rossiter ed. 1961). 
+
+
+This Court’s aggressiveness in applying the Constitu- 
+tional prohibition has sprung in part from its strong tex- 
+tual and historical roots. As observed in Weaver, 450 
+U.S. 39, n.8, “So much importance did the convention 
+attach to [the ex post facto prohibition], that it is found 
+twice in the Constitution.” 
+
+
+This Court’s watchfulness in guarding against Ex Post 
+Facto Clause violations also comports with its longstand- 
+ing embrace of a more generalized presumption against 
+retroactive legislation. As this Court recently observed: 
+
+
+Retroactivity is generally disfavored in the law... . 
+“Retroactive legislation,” we have explained, “pre- 
+
+
+(quoting Oliver Ellsworth). See 2 Max Farrand, The Records of 
+the Federal Convention 376 (Yale 1966) (setting forth James 
+Madison’s notes of Aug. 22, 1787). 
+
+
+24On the “absolute” and “sweeping” character of the Ex Post 
+Facto Clause prohibition, see William W. Crosskey, The True Mean- 
+ing of the Constitutional Prohibition of kx Post Facto Laws, 14 
+U. Chi. L. Rev. 5389 (“thoroughly disapproved”); 549 (“prohibited 
+absolutely,” “absolute prohibitions,” “sweeping prohibitions”). 
+
+
+———EEEEOEOEEEeEeEOEE>EEEEOEOEOEOEOEOEeE EEO 
+
+
+32 
+
+
+sents problems of unfairness that are more serious 
+than those posed by prospective legislation, because 
+it can deprive citizens of legitimate expectations and 
+upset settled transactions.” 
+
+
+Eastern Enterprises v. Apfel, 524 U.S. 498, , 118 
+S.Ct. 2131, 2151 (1998) (plurality opinion; citations 
+omitted). 
+
+
+[T)he presumption against retroactive legislation is 
+deeply rooted in our jurisprudence, and embodies a 
+legal doctrine centuries older than our Republic. 
+Elementary considerations of fairness dictate that in- 
+dividuals should have an opportunity to know what 
+the law is and to conform their conduct accordingly; 
+settled expectations should not be lightly disrupted. 
+
+
+Landgraf v. United States, 511 U.S. 244, 265 (1994) 
+(emphasis added). 
+
+
+In keeping with these purposes, the Ex Post Facto 
+Clause ensures that “legislative enactments . . . permit 
+individuals to rely on their meaning until explicitly 
+changed.” Miller, 482 U.S. at 430 (quoting Weaver, 
+450 U.S. at 28-29). By retroactively applying the eight- 
+year rule, however, Georgia’s Parole Board has disrupted 
+the expectations of those inmates who entered plea agree- 
+ments with the expectation that they would have reason- 
+able and regular opportunities for parole, and of any 
+judees who have taken this possibility into account in im- 
+posing a life sentence rather than a fixed term of years. 
+See supra at pp. 7, 13. No less important, the State has 
+
+
+25 Accord, id. at 2158-59 (Kennedy, J., concurring in part and 
+dissenting in part) (ban on retroactive lawmaking fosters “con- 
+fidence in the constitutional system” and counters the “justified 
+fear that a government once formed to protect expectations now 
+can destroy them”; thus “for centuries our law has harbored a 
+singular distrust of retroactive statutes”); Jd. at 2163 (Breyer, J., 
+dissenting) (retroactive law “undermines a basic objective of law 
+itself” when it “upsets settled expectations”). 
+
+
+——— 
+
+
+33 
+
+
+profoundly undermined the “settled expectations” of in- 
+numerable prisoners who expected, in keeping with then- 
+existing law, to receive parole considerations at regular 
+three-year intervals. See Greenholtz, 442 U.S. at 19 
+(Powell, J., concurring and dissenting) (“when a State 
+adopts a parole system that applies general standards of 
+eligibility, prisoners justifiably expect that parole will be 
+granted fairly and according to law”). 
+
+
+Another purpose of the Ex Post Facto Clause is to 
+“guard against the Framers’ fears of retroactive penal laws 
+forged by ‘hot-blooded’ legislatures. . .” Logan, 35 Am. 
+Crim. L. Rev. at 1277. The Ex Post Facto Clause thus 
+protects unpopular groups or individuals from the poten- 
+tially arbitrary, capricious, and vindictive actions of a 
+powerful state. See Miller, 482 U.S. at 429; Weaver, 450 
+U.S. at 29; see also Landgraf, 511 U.S. at 266 (noting 
+that government officials, in response to political pres- 
+sures, “may be tempted to use retroactive legislation as a 
+means of retribution against unpopular groups or indi- 
+viduals.” ). 
+
+
+If the earmarks of retribution ever are present, it musi 
+be where, as here, the government targets what is argu- 
+ably the most politically and socially outcast of all 
+groups: incarcerated “lifers.” And concerns with retro- 
+activity surely are at their highest ebb when government 
+policy concerns not mere financial interests, compare 
+Eastern Enterprises, 524 U.S. at 498, but the most basic 
+of all human freedoms—freedom from physical restraint. 
+
+
+Maintaining their own would-be argument of policy, 
+Petitioners assert that an affirmance would embroil the 
+judiciary in the sort of “micromanagement” of “parole” and 
+“sentencing procedures” that the Court in Morales fore- 
+swore. Pet’r Br. at 20. This micromanagement argu- 
+ment, however, is unpersuasive and, in fact, reflects a 
+
+
+34 
+
+
+basic misunderstanding of Morales. If the Court’s micro- 
+management reasoning in Morales was meant to condemn 
+all judicial review of retroactive reconsideration rules, 
+then the Court’s analysis in that case would have been 
+entirely different. After all, the Court in Morales meticu- 
+lously examined the particular parole reform in that case; 
+emphasized that judicial rulings in this area turned on 
+matters of degree; and carefully left open for further and 
+contextual judicial consideration other reconfigurations of 
+parole reconsideration rights. In short, the sort of “micro- 
+management” Petitioners condemn is nothing more than 
+the same kind of principled judicial appraisal engaged in 
+by the Court in Morales itself. 
+
+
+In addition, the Court in Morales voiced concern about 
+judicial “micromanagement” only in the context of reject- 
+ing a principle so “expansive” that it would invalidate 
+“any legislative change that has any conceivable risk of 
+affecting a prisoner’s punishment.” Jd. at 508. This case, 
+however, does not involve either the invocation of such a 
+principle or the types of reforms that the Court in Morales 
+actually meant to exempt from Ex Post Facto Clause 
+attack. Those reforms were: 
+
+
+such innocuous adjustments as changes to the mem- 
+berships of the Board of Prison Terms, restrictions 
+on the hours that prisoners may use the prison law 
+library, reductions in the duration of the parole 
+hearing, restrictions on the time allotted for a con- 
+victed defendant’s right of allocation before a sen- 
+tencing judge, and page limitations on a defendant’s 
+objections to presentence reports or on documents 
+seeking a pardon from the governor. 
+
+
+Morales, 514 U.S. at 508. There are obvious reasons for 
+not applying the Ex Post Facto Clause to changes of this 
+nature. In particular, “it would create endless confusion 
+in legal proceedings if every case was to be conducted 
+
+
+35 
+
+
+only in accordance with the rules of practice, and heard 
+only by the courts, in existence when its facts arose.” T. 
+Cooley, Constitutional Limitations 272 (1868). There is, 
+however, no problem of “confusion” in setting different 
+reconsideration dates for prisoners whose crimes were 
+created before and after the well-known date on which the 
+eight-year rule was adopted. This is so because, under 
+either the three-year rule or the eight-year rule, the Parole 
+Board must and will fix parole reconsideration dates when- 
+ever a denial occurs. 
+
+
+No less important, the “mechanical” reforms that con- 
+cerned the Court in Morales, id., are different in kind 
+from the rule change at issue here because those reforms 
+do not, even remotely, concern the actual “punishment” 
+meted out by the state. In contrast, precisely because 
+Georgia’s eight-year rule alters a numerically measurable 
+temporal dimension of the sentence, it is something more 
+than a “minor” adjustment of sentencing “procedures.” 
+514 U.S. at 508. When we think about sentences we 
+think about time—i.e., how long will, or might, a prisoner 
+serve. Thus, as a matter of common understanding, 
+Georgia’s retroactive application of the eight-year rule in- 
+trinsically entails an alteration of the “amount,” Beazell, 
+269 U.S. at 170, and “measure,” Morales, 514 USS. at 
+510, of an inmate’s punishment. It follows that, in a very 
+real way, Georgia’s eight-year rule produces what this 
+Court consistently has proscribed: a “change in the quan- 
+tum of punishment attached to the crime.” Dobbert, 432 
+USS. at 294. 
+
+
+Contrary to Petitioner’s assertions, application of the 
+Ex Post Facto Clause to this case will not jeopardize the 
+purposes of federalism. Each state remains free to serve 
+as a “laboratory” of “experimentation,” Reeves v. State, 
+447 U.S. 429, 441 (1980) (quoting New State Ice Co. 
+v. Liebmann, 285 U.S. 262, 311 (1932) (Brandeis, J., 
+
+
+36 
+
+
+dissenting) ), in the areas of timing parole considerations. 
+A state need only conduct its experiments, as fairness 
+suggests it should, on a prospective basis. Similarly, in 
+pursuing the essential government goal of discouraging 
+crime, states are at liberty to dilute parole rights or to 
+eliminate them altogether, so long as they do so on a 
+prospective basis. But a state has no legitimate interest 
+in “discouraging” the crimes of Respondent and other 
+similarly-situated prisoners whose crimes were committed 
+long ago. See James v. United States, 366 U.S. 213, 247 
+n.3 (1961) (Harlan, J., concurring in part and dissenting 
+in part). 
+
+
+To be sure, state officials might assert an interest in 
+incapacitating prisoners because of growing fears about 
+criminal behavior, a lost hope in rehabilitative efforts, or 
+a new “get tough” attitude toward crime. If the Ex Post 
+Facto Clause has any purpose, however, it is to bar the 
+expression of precisely these increased-incapacitation pol- 
+icies in after-the-fact enhancements of criminal penalties. 
+See Lynce, 519 U.S. at 445 (condemning “retrospective 
+change . . . intended to prevent the early release of pris- 
+oners”); Lindsey, 301 U.S. at 401 (the Constitution “for- 
+bids the application of any new punitive measure to a 
+crime already consummated.” ). 
+
+
+In the end, the state can, and does, seek to justify its 
+profound retroactive reformulation of prisoners’ parole- 
+consideration rights by arguing that the eight-year rule is 
+“cost-effective and efficient.” Pet’r Br. at 15-16. Rights 
+protected by the Ex Post Facto Clause, however, are not 
+subject to being put in a balance where they might be out- 
+weighed by some such nebulous government interest. And 
+even if they were, a claimed interest in cost-saving and 
+administrative convenience would provide a poor candi- 
+date for overriding the Constitution’s textually explicit and 
+unequivocally expressed protections against ex post facto 
+
+
+37 
+
+
+laws. See Craig v. Boren, 429 U.S. 190, 197-98 (1976) 
+(rejecting “administrative ease and convenience” as ade- 
+quate justification even for purposes of intermediate scru- 
+tiny under the Equal Protection Clause). This Court has 
+never tolerated trampling on an individual’s rights just be- 
+Cause it saves a state money to do so. 
+
+
+It is well and good for any state to wage a war on 
+crime, but our Constitution commands that, in such a 
+war, the State must fight fair. The great constitutional 
+prohibitions against ex post facto laws guard against 
+tyranny by establishing a fixed and workable baseline of 
+punishment that potentially overzealous government offi- 
+cials may not breach. That baseline is fixed and workable 
+because it is identifiable by looking to the past. Depart- 
+ing from that baseline (and markedly so in this case) 
+would abridge this Court’s past pronouncements, under- 
+mine settled expectations, and facilitate the future retro- 
+spective imposition of penalties against unpopular groups. 
+See Miller v. Florida, 482 U.S. 423, 429 (1987); Weaver, 
+450 U.S. at 29. Instead of following the Board’s over- 
+reaching reasoning, this Court should abide by its earlier 
+interpretations of the Ex Post Facto Clause and bar the 
+state from retroactively diminishing prisoners’ precious 
+parole eligibility rights. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, Respondent respectfully re- 
+quests that this Court affirm the decision of the United 
+States Court of Appeals for the Eleventh Circuit. 
+
+
+38 
+
+
+Respectfully submitted, 
+
+
+ELIZABETH THOMPSON KERTSCHER 
+Counsel of Record 
+
+WILLIAM V. CUSTER 
+
+LEEANN JONES 
+
+POWELL, GOLDSTEIN, FRAZER 
+& Murpuy LLP 
+
+191 Peachtree Street, N.E. 
+
+Sixteenth Floor 
+
+Atlanta, GA 30303 
+
+(404) 572-6600 
+
+Attorneys for Respondent 
+
+

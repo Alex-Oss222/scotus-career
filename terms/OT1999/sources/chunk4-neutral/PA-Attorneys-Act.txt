@@ -1,0 +1,887 @@
+Act of Oct. 15, 1980,P.L. 950, No. 164 Cl. 71 - COMMONWEALTH ATTORNEYS ACT
+body { font-family:"Courier New", Courier, monospace; font-size:12pt; }
+			p { margin:0; padding:0; }
+			a { text-decoration:none }
+			a:hover { text-decoration:underline }
+			.BodyContainer { width:637px; margin-left:auto; margin-right:auto; }
+			#Header {padding:0; margin:0;}
+			#Header h1 { font-weight: bold; text-indent: 0in; font-size: 12pt; text-align: center; margin:0; }
+			#Header div {font-size: 12pt; }
+			#Header .EnactDate { font-size: 12pt; margin-left: 0in; margin-right: 0in; padding:0; font-weight: bold; text-indent: 0in; line-height: 0.161in; text-align: center;}
+			#Header .Classification { font-size: 12pt; font-weight:bold; text-align:right; margin:0; padding:0; }
+			.leaderLeft { float:left; background-color:#FFFFFF; } 
+			.leaderRight { float:right; background-color:#FFFFFF; }					
+			.dots { background: url('/WU01/Document-Assets/images/leader.gif') repeat-x bottom; }		 
+			.field { background-color: #FFFFFF; padding-right:5px; } 
+			/*.leaderContainer { margin-bottom:5px; height:12pt; border-bottom:1pt dotted #000000; text-indent:inherit; margin-left:inherit;text-align:inherit;} */
+			.leaderContainer { text-indent:inherit; margin-left:inherit;text-align:inherit; }	
+			.Comment { display:none; }
+COMMONWEALTH ATTORNEYS ACT
+Act of Oct. 15, 1980,
+                  P.L. 950,
+                  No. 164
+Cl. 71
+19800164ua
+A SUPPLEMENT
+To the act of April 9, 1929 (P.L.177, No.175), entitled "An act providing for and
+            reorganizing the conduct of the executive and administrative work of the Commonwealth
+            by the Executive Department thereof and the administrative departments, boards, commissions,
+            and officers thereof, including the boards of trustees of State Normal Schools, or
+            Teachers Colleges; abolishing, creating, reorganizing or authorizing the reorganization
+            of certain administrative departments, boards, and commissions; defining the powers
+            and duties of the Governor and other executive and administrative officers, and of
+            the several administrative departments, boards, commissions, and officers; fixing
+            the salaries of the Governor, Lieutenant Governor, and certain other executive and
+            administrative officers; providing for the appointment of certain administrative officers,
+            and of all deputies and other assistants and employes in certain departments, boards,
+            and commissions; and prescribing the manner in which the number and compensation of
+            the deputies and all other assistants and employes of certain departments, boards
+            and commissions shall be determined," implementing the addition of section 4.1 to
+            Article IV of the Constitution of Pennsylvania; establishing the Office of Attorney
+            General elected by the citizens and setting forth powers and duties of the Attorney
+            General; creating an Office of General Counsel and providing for legal services for
+            Commonwealth agencies; transferring, reorganizing or reconstituting certain boards,
+            commissions and agencies; placing certain duties upon the courts and district attorneys;
+            repealing certain acts and parts of acts and making appropriations.
+19800164uc
+TABLE OF CONTENTS
+Chapter 1.  General Provisions
+Section 101.
+Short title.
+Section 102.
+Definitions.
+Section 103.
+Standing to question legal representation.
+Chapter 2.  Office of Attorney General
+Section 201.
+Established as an independent department.
+Section 202.
+Vacancy in office.
+Section 203.
+Salary (Repealed).
+Section 204.
+Legal advice and civil matters.
+Section 205.
+Criminal prosecutions.
+Section 206.
+Law enforcement and criminal investigations;
+investigating grand juries.
+Section 207.
+Membership on agencies.
+Section 208.
+Access to books and papers.
+Chapter 3.  Office of General Counsel
+Section 301.
+General Counsel.
+Section 302.
+Membership on agencies.
+Section 303.
+Supersession and intervention.
+Chapter 4.  Counsel for Independent Agencies
+Section 401.
+Counsel; appointment.
+Section 402.
+Powers and duties of counsel.
+Section 403.
+Supersession and intervention.
+Chapter 5.  Miscellaneous Provisions
+Section 501.
+General transfer of personnel, appropriations,
+records, equipment, etc.
+Section 502.
+Specific transfers of certain powers and duties to
+the Office of General Counsel.
+Section 503.
+Absolute repeals.
+Section 504.
+Inconsistent repeals.
+Section 505.
+Limited repeals.
+Section 506.
+Transition.
+Section 507.
+Appropriations.
+Section 508.
+Effective date.
+The General Assembly of the Commonwealth of Pennsylvania hereby enacts as follows:
+19800164u101h
+CHAPTER 1
+GENERAL PROVISIONS
+19800164u101s
+Section 101.  Short title.
+This act shall be known and may be cited as the "Commonwealth Attorneys Act."
+19800164u102s
+Section 102.  Definitions.
+The following words and phrases when used in this act shall have, unless the context
+            clearly indicates otherwise, the meanings given to them in this section:
+"Action."  Any action at law or in equity.
+"Commonwealth agency."  Any executive agency or independent agency.
+"Executive agency."  The Governor and the departments, boards, commissions, authorities and other officers
+            and agencies of the Commonwealth government, but the term does not include any court
+            or other officer or agency of the unified judicial system, the General Assembly and
+            its officers and agencies, or any independent agency.
+"Independent agency."  The Department of the Attorney General, the Pennsylvania Fish Commission, the Pennsylvania
+            Game Commission, the Historical and Museum Commission, the State Civil Service Commission,
+            the Pennsylvania Turnpike Commission, the Milk Marketing Board, the Pennsylvania Liquor
+            Control Board, the Pennsylvania Human Relations Commission, the Pennsylvania Labor
+            Relations Board, the State Tax Equalization Board, Pennsylvania Higher Education Assistance
+            Agency, the Pennsylvania Crime Commission, and the State Ethics Commission. Except
+            for the provisions of section 204(b) and (f), and for actions pursuant to 42 Pa.C.S.
+            § 5110 (relating to limited waiver of sovereign immunity), for the purposes of this
+            act the Department of the Auditor General, including the Board of Claims, State Treasury
+            and the Public Utility Commission shall not be considered either executive agencies
+            or independent agencies. (Def. repealed in part July 2, 2012, P.L.814, No.86)
+"Matter."  Action, proceeding or appeal.
+"Right to access."  The term does not include access for the purpose of satisfying discovery requests
+            propounded on the Office of Attorney General in a civil action, unless the agency
+            in question is a party to the action and is represented by the Office of Attorney
+            General. (Def. added Feb. 11, 2026, P.L.9, No.4)
+19800164u102v
+Compiler's Note:
+The name of the Pennsylvania Fish Commission, referred to in this section, was changed
+            to the Pennsylvania Fish and Boat Commission by the Act 39 of 1991. See 30 Pa.C.S.
+            § 308 (relating to designation of commission).
+19800164u103s
+Section 103.  Standing to question legal representation.
+No party to an action, other than a Commonwealth agency including the Departments
+            of Auditor General and State Treasury and the Public Utility Commission, shall have
+            standing to question the authority of the legal representation of the agency.
+19800164u201h
+CHAPTER 2
+OFFICE OF ATTORNEY GENERAL
+19800164u201s
+Section 201.  Established as an independent department.
+(a)  General provisions.--The Office of Attorney General shall be an independent department
+            and shall be headed by the Attorney General. The Attorney General shall exercise such
+            powers and perform such duties as are hereinafter set forth. As an independent administrative
+            department the Office of Attorney General shall be subject to the same limitations
+            contained in the act of April 9, 1929 (P.L.177, No.175), known as "The Administrative
+            Code of 1929," and all other acts as are applicable to the independent Department
+            of Auditor General or State Treasury.
+(b)  Consumer Advocate.--The Attorney General shall appoint a Consumer Advocate which appointment
+            shall be subject to the approval of a majority of the members elected to the Senate.
+            The Consumer Advocate shall perform the duties and have the powers set forth in Article
+            IX-A of "The Administrative Code of 1929."
+(c)  Bureaus, divisions and personnel.--The Attorney General shall appoint and fix the
+            compensation of a first deputy attorney general, a director of the Bureau of Consumer
+            Protection and such other deputies, officers and employees who may, at any time, exercise
+            such powers and perform such duties as may be prescribed by the Attorney General.
+            The Attorney General may establish such bureaus or divisions as may be required for
+            the proper conduct of the office, including a criminal investigation bureau.
+19800164u201v
+Compiler's Note:
+Section 7(3)(iv) of Act 86 of 2012 provided that section 201 is repealed insofar as
+            it is inconsistent with Act 86.
+19800164u202s
+Section 202.  Vacancy in office.
+In the event of a vacancy in the position of Attorney General, the Governor shall
+            nominate, in accordance with the provisions of the Constitution of Pennsylvania and,
+            by and with the advice and consent of two-thirds of the members elected to the Senate,
+            appoint a person to fill the position for the balance of the unexpired term of the
+            Attorney General. Whenever there shall be a vacancy in the position of Attorney General,
+            the first deputy shall exercise the powers and perform the duties of the Attorney
+            General until the vacancy is filled.
+19800164u203s
+Section 203.  Salary. (203 repealed Sept. 30, 1983, P.L.160, No.39)
+19800164u204s
+Section 204.  Legal advice and civil matters.
+(a)  Legal advice.--
+(1)  Upon the request of the Governor or the head of any Commonwealth agency, the Attorney
+            General shall furnish legal advice concerning any matter or issue arising in connection
+            with the exercise of the official powers or the performance of the official duties
+            of the Governor or agency. The Governor may request the advice of the Attorney General
+            concerning the constitutionality of legislation presented to him for approval in order
+            to aid him in the exercise of his approval and veto powers and the advice, if given,
+            shall not be binding upon the Governor. In all other cases the advice when received
+            shall be followed and, when followed, the recipient shall not in any way be liable
+            for doing so, upon his official bond or otherwise.
+(2)  If the Governor or the head of any Commonwealth agency disagrees with the legal advice
+            rendered by the Attorney General, the Governor or the head of the Commonwealth agency
+            may seek a declaratory judgment in the Commonwealth Court pursuant to 42 Pa.C.S. Ch.
+            75 Subch. C (relating to declaratory judgments). The legal advice of the Attorney
+            General shall be binding until the Commonwealth Court issues a final order on the
+            petition requesting the declaratory judgment.
+(3)  It shall be the duty of the Attorney General to uphold and defend the constitutionality
+            of all statutes so as to prevent their suspension or abrogation in the absence of
+            a controlling decision by a court of competent jurisdiction.
+(4)  Before the Attorney General shall render any opinion interpreting any appropriation
+            act, or any act authorizing the expenditure of money, he shall notify the Departments
+            of the Auditor General, the State Treasury and the Secretary of Budget and Administration
+            of the question upon which his opinion has been requested, and afford to these departments
+            an opportunity to present any views which they may have upon such question.
+(b)  Commonwealth agencies; rules and regulations.--The Attorney General shall review for
+            form and legality, all proposed rules and regulations of Commonwealth agencies before
+            they are deposited with the Legislative Reference Bureau as required by section 207
+            of the act of July 31, 1968 (P.L.769, No.240), known as the "Commonwealth Documents
+            Law." If the Attorney General determines that a rule or regulation is in improper
+            form, not statutorily authorized or unconstitutional, he shall notify in writing within
+            30 days after submission the agency affected, the Office of General Counsel, and the
+            General Assembly through the offices of the Secretary of the Senate and the Chief
+            Clerk of the House of Representatives of the reasons for the determination. The Commonwealth
+            agency may revise a rule or regulation to meet the objections of the Attorney General
+            and submit the revised version for his review. Should the agency disagree with the
+            objection, it may promulgate the rule or regulation with or without revisions and
+            shall publish with it a copy of the Attorney General's objections. The Attorney General
+            may appeal the decision of the agency by filing a petition for review with the Commonwealth
+            Court in such manner as is provided for appeals from final orders of government agencies
+            pursuant to 42 Pa.C.S. § 763 (relating to direct appeals from government agencies)
+            and may include in the petition a request for a stay or supersedeas of the implementation
+            of the rule or regulation which upon a proper showing shall be granted. If a rule
+            or regulation has been submitted to the Attorney General and he has not approved it
+            or objected to it within 30 days after submission, the rule or regulation shall be
+            deemed to have been approved.
+(c)  Civil litigation; collection of debts.--The Attorney General shall represent the Commonwealth
+            and all Commonwealth agencies and upon request, the Departments of Auditor General
+            and State Treasury and the Public Utility Commission in any action brought by or against
+            the Commonwealth or its agencies, and may intervene in any other action, including
+            those involving charitable bequests and trusts or the constitutionality of any statute.
+            The Attorney General shall represent the Commonwealth and its citizens in any action
+            brought for violation of the antitrust laws of the United States and the Commonwealth.
+            The Attorney General shall collect, by suit or otherwise, all debts, taxes and accounts
+            due the Commonwealth which shall be referred to and placed with the Attorney General
+            for collection by any Commonwealth agency; the Attorney General shall keep a proper
+            docket or dockets, duly indexed, of all such claims, showing whether they are in litigation
+            and their nature and condition. The Attorney General may, upon determining that it
+            is more efficient or otherwise is in the best interest of the Commonwealth, authorize
+            the General Counsel or the counsel for an independent agency to initiate, conduct
+            or defend any particular litigation or category of litigation in his stead. The Attorney
+            General shall approve all settlements over such maximum amounts as he shall determine
+            arising out of claims brought against the Commonwealth pursuant to 42 Pa.C.S. § 5110.
+(d)  Administration of consumer affairs programs.--The Attorney General shall administer
+            the provisions relating to consumer protection set forth in sections 917 through 922
+            of the act of April 9, 1929 (P.L.177, No.175), known as "The Administrative Code of
+            1929," and appoint the advisory committee established under section 922.
+(e)  Limitations in civil litigations.--The Attorney General shall not agree to the entry
+            of a consent decree in any action against the Commonwealth or any agency without the
+            approval of the Governor and notice to the General Assembly through the offices of
+            the Secretary of the Senate and the Chief Clerk of the House of Representatives.
+(f)  Deeds, leases, contracts and fidelity bonds.--The Attorney General shall review for
+            form and legality, all Commonwealth deeds, leases and contracts to be executed by
+            Commonwealth agencies; if the Attorney General determines that a deed, lease, or contract
+            is in improper form, not statutorily authorized or unconstitutional, he shall notify
+            in writing within 30 days after its submission the agency affected, the offices of
+            General Counsel and the General Assembly through the offices of the Secretary of the
+            Senate and the Chief Clerk of the House of Representatives. The agency may rewrite
+            the deed, lease or contract to meet the objections of the Attorney General. If the
+            agency disagrees with the objection of the Attorney General, it may appeal the decision
+            of the Attorney General by filing a Petition for Review with the Commonwealth Court
+            in such manner as is provided for appeals from final orders of government agencies
+            pursuant to 42 Pa.C.S. § 763 (relating to direct appeals from government agencies).
+            If an instrument has been submitted to the Attorney General and he has not approved
+            it or submitted his objection within 30 days after submission, the instrument shall
+            be deemed to have been approved; the Attorney General may prepare uniform instrument
+            forms and preapprove all such documents which are prepared in accordance with such
+            forms and applicable instructions. The Attorney General shall likewise continue to
+            approve all fidelity, surety, performance and similar bonds as required by law to
+            be submitted to the Attorney General or the former Department of Justice.
+19800164u205s
+Section 205.  Criminal prosecutions.
+(a)  Prosecutions.--The Attorney General shall have the power to prosecute in any county
+            criminal court the following cases:
+(1)  Criminal charges against State officials or employees affecting the performance of
+            their public duties or the maintenance of the public trust and criminal charges against
+            persons attempting to influence such State officials or employees or benefit from
+            such influence or attempt to influence.
+(2)  Criminal charges involving corrupt organizations as provided for in 18 Pa.C.S. § 911
+            (relating to corrupt organizations).
+(3)  Upon the request of a district attorney who lacks the resources to conduct an adequate
+            investigation or the prosecution of the criminal case or matter or who represents
+            that there is the potential for an actual or apparent conflict of interest on the
+            part of the district attorney or his office.
+(4)  The Attorney General may petition the court having jurisdiction over any criminal
+            proceeding to permit the Attorney General to supersede the district attorney in order
+            to prosecute a criminal action or to institute criminal proceedings. Upon the filing
+            of the petition, the president judge shall request the Supreme Court to assign a judge
+            to hear the matter. The judge assigned shall hear the matter within 30 days after
+            appointment and make a determination as to whether to allow supersession within 60
+            days after the hearing. The district attorney shall be given notice of the hearing
+            and may appear and oppose the granting of the petition. Supersession shall be ordered
+            if the Attorney General establishes by a preponderance of the evidence that the district
+            attorney has failed or refused to prosecute and such failure or refusal constitutes
+            abuse of discretion. ((4) repealed in part Dec. 20, 1982, P.L.1409, No.326)
+(5)  When the president judge in the district having jurisdiction of any criminal proceeding
+            has reason to believe that the case is a proper one for the intervention of the Commonwealth,
+            he shall request the Attorney General to represent the Commonwealth in the proceeding
+            and to investigate charges and prosecute the defendant. If the Attorney General agrees
+            that the case is a proper one for intervention, he shall file a petition with the
+            court and proceed as provided in paragraph (4). If the Attorney General determines
+            that the case is not a proper case for intervention, he shall notify the president
+            judge accordingly.
+(6)  Criminal charges investigated by and referred to him by a Commonwealth agency arising
+            out of enforcement provisions of the statute charging the agency with a duty to enforce
+            its provision.
+(7)  Indictments returned by an investigating grand jury obtained by the Attorney General.
+(8)  Criminal charges arising out of activities of the State Medicaid Fraud Control Unit
+            as authorized by Article XIV (relating to fraud and abuse control), act of June 13,
+            1967 (P.L.31, No.21), known as the "Public Welfare Code," and the Federal law known
+            as the "Medicare-Medicaid Antifraud and Abuse Amendments."
+(b)  Concurrent jurisdiction to prosecute.--The Attorney General shall have the concurrent
+            prosecutorial jurisdiction with the district attorney for cases arising under subsection
+            (a)(1), (2) and (6) and may refer to the district attorney with his consent any violation
+            or alleged violation of the criminal laws of the Commonwealth which may come to his
+            notice.
+(c)  Criminal appeals.--In any criminal action in which there is an appeal, the Attorney
+            General may in his discretion, upon the request of the district attorney, prosecute
+            the appeal; he may intervene in such other appeals as provided by law or rules of
+            court.
+(d)  Powers when prosecuting.--Whenever the Attorney General prosecutes a criminal action,
+            or appeal, he may employ such special deputies as are necessary for that purpose;
+            such deputies shall take the oath of office and be clothed with all the powers, and
+            subject to all the liabilities imposed by law upon district attorneys, including the
+            power to sign informations or indictments. Whenever the Attorney General intervenes
+            in a criminal action, the costs incurred as a result of the intervention shall be
+            paid by the Commonwealth.
+19800164u205v
+Compiler's Note:
+The short title of the act of June 13, 1967 (P.L.31, No.21), known as the Public Welfare
+            Code, referred to in this section, was amended by the act of December 28, 2015 (P.L.500,
+            No.92). The amended short title is now the Human Services Code.
+19800164u206s
+Section 206.  Law enforcement and criminal investigations;     investigating grand juries.
+(a)  Law enforcement; criminal investigations.--The Attorney General shall be the chief
+            law enforcement officer of the Commonwealth; the district attorney shall be the chief
+            law enforcement officer for the county in which he is elected. The Attorney General
+            shall have the power to investigate any criminal offense which he has the power to
+            prosecute under section 205; he shall continue the existing programs relating to drug
+            law enforcement. The Pennsylvania State Police shall cooperate with the Attorney General
+            and furnish such services as the Attorney General shall request.
+(b)  Investigating grand juries.--The Attorney General shall convene and conduct investigating
+            grand juries as provided in the act of November 22, 1978 (P.L.1148, No.271), known
+            as the "Investigating Grand Jury Act."
+19800164u207s
+Section 207.  Membership on agencies.
+The Attorney General shall serve as a member of the Board of Pardons and he, or his
+            designated deputy, shall serve as a member of the Joint Committee on Documents, the
+            Hazardous Substances Transportation Board, the Board of Finance and Revenue, the Pennsylvania
+            Commission on Crime and Delinquency, the Pennsylvania Emergency Management Agency,
+            the Civil Disorder Commission and the Municipal Police Officers Education and Training
+            Commission.
+19800164u207v
+Compiler's Note:
+Section 41(3) of Act 52 of 2013 provided that section 207 is repealed insofar as it
+            is inconsistent with Act 52.
+19800164u208s
+Section 208.  Access to books and papers.
+The Office of Attorney General shall have the right to access at all times to the
+            books and papers of any Commonwealth agency necessary to carry out his duties under
+            this act.
+19800164u301h
+CHAPTER 3
+OFFICE OF GENERAL COUNSEL
+19800164u301s
+Section 301.  General Counsel.
+There is hereby established the Office of General Counsel which shall be headed by
+            a General Counsel appointed by the Governor to serve at his pleasure who shall be
+            the legal advisor to the Governor and who shall:
+(1)  Appoint deputy general counsel, and appoint for the operation of each executive agency
+            such chief counsel and assistant counsel as are necessary for the operation of each
+            executive agency.
+(2)  Supervise, coordinate and administer the legal services provided by the deputy general
+            counsel, and the chief counsel and assistant counsel for each executive agency.
+(3)  Render such legal advice, and such representation prior to initiation of any action,
+            as are required concerning every matter and issue arising in connection with the exercise
+            of the official powers and duties, and performance thereof, in the operation of such
+            executive agency and, upon request, each independent agency.
+(4)  Upon request, assist and cooperate fully with the Attorney General and the counsel
+            of each independent agency in the furtherance of the performance of their duties.
+(5)  Until otherwise provided by law, serve as chief administrative officer of the following
+            agencies which are hereby placed and made administrative agencies of the Office of
+            General Counsel:
+(i)  ((i) repealed Dec. 30, 1984, P.L.1299, No.245)
+(ii)  The Juvenile Court Judges' Commission established under sections 905.1 and 905.2 of
+            "The Administrative Code of 1929," and the act of December 21, 1959 (P.L.1962, No.717),
+            entitled "An act providing for the creation and operation of the Juvenile Court Judges'
+            Commission in the Department of Justice; prescribing its powers and duties; and making
+            an appropriation."
+(iii)  The administrator and the office of Administrator for Arbitration Panels for Health
+            Care established under section 301 of the act of October 15, 1975 (P.L.390, No.111),
+            known as the "Health Care Services Malpractice Act."
+(iv)  The Crime Victim's Compensation Board established under sections 477.6, 477.7 and
+            477.12 of "The Administrative Code of 1929."
+(v)  The Board of Commissioners on Uniform State Laws established under section 404 of
+            "The Administrative Code of 1929."
+(vi)  The State Health Facility Hearing Board established under sections 501, 502, 503,
+            504, 505, 506 and 507 of the act of July 19, 1979 (P.L.130, No.48), known as the "Health
+            Care Facilities Act."
+(6)  Initiate appropriate proceedings or defend the Commonwealth or any executive agency
+            when an action or matter has been referred to the Attorney General and the Attorney
+            General refuses or fails to initiate appropriate proceedings or defend the Commonwealth
+            or executive agency; and
+(7)  Represent the Governor or the executive agency if the Attorney General has initiated
+            litigation against him or it.
+(8)  Upon the request of the Governor, appeal any decisions adverse to an executive agency
+            rendered by the Attorney General under section 204(f).
+(9)  Issue such rules, guidelines, standards and regulations as are necessary to carry
+            out the duties of the General Counsel provided for in this act.
+(10)  Review and approve for form and legality all proposed rules and regulations of executive
+            agencies before they are deposited with the Legislative Reference Bureau as required
+            by section 207 of the act of July 31, 1968 (P.L.769, No.240), known as the "Commonwealth
+            Documents Law."
+(11)  Review for form and legality, all Commonwealth deeds, leases and contracts to be executed
+            by executive agencies, and he may prepare uniform instrument forms and preapprove
+            all such documents which are prepared in accordance with such forms and applicable
+            instructions.
+(12)  Not agree to the entry of a consent decree in any action against the Commonwealth
+            or any executive agency without the approval of the Governor and the Attorney General
+            and notice to the General Assembly through the offices of the Secretary of the Senate
+            and Chief Clerk of the House of Representatives.
+19800164u302s
+Section 302.  Membership on agencies.
+The General Counsel shall serve as a member of the Board of Commissioners on Uniform
+            State Laws, the Pennsylvania Emergency Management Agency, the Joint Committee on Documents,
+            the Board of Property, the Commission on Charitable Organizations, the Local Government
+            Records Committee, the Medical Advisory Board, the Board of Finance and Revenue and
+            the Civil Disorder Commission.
+19800164u302v
+Compiler's Note:
+Section 41(3) of Act 52 of 2013 provided that section 302 is repealed insofar as it
+            is inconsistent with Act 52.
+19800164u303s
+Section 303.  Supersession and intervention.
+(a)  Representation of agency by General Counsel.--Whenever any action is brought by or
+            against any executive branch agency, the Governor or other executive branch official,
+            the Governor may request in writing, setting forth his reasons, the Attorney General
+            to authorize the General Counsel to supersede the Attorney General and represent the
+            agency, the Governor or other executive branch official.
+(b)  Intervention by General Counsel.--If the Attorney General does not grant the request,
+            the Governor may authorize the General Counsel to intervene in the litigation. Such
+            intervention shall be a matter of right and when exercised, confer upon the General
+            Counsel the obligation to represent the Governor and his interests as Chief Executive
+            Officer of the Commonwealth and its Executive Department. The Attorney General shall
+            at all times continue to represent the Commonwealth.
+19800164u401h
+CHAPTER 4
+COUNSEL FOR INDEPENDENT AGENCIES
+19800164u401s
+Section 401.  Counsel; appointment.
+Each independent agency may appoint and fix the compensation of a chief counsel and
+            such assistant counsel as it deems necessary to provide it with legal assistance or
+            request such legal services from the Office of General Counsel.
+19800164u402s
+Section 402.  Powers and duties of counsel.
+The chief counsel:
+(1)  Shall furnish legal advice prior to the initiation of any action to the independent
+            agency concerning any legal matter or issue arising in connection with the exercise
+            of the official powers or performance of the official duties of the agency.
+(2)  May request the assistance of the General Counsel or the Attorney General, or both
+            of them, in any matter or action involving the agency. If advice is requested from
+            the Attorney General, such advice when received shall be followed by the agency, and,
+            when followed, the agency shall not in any way be liable for doing so, upon an official
+            bond or otherwise.
+(3)  Upon the instructions of the independent agency:
+(i)  initiate appropriate proceedings or defend the agency when an action or matter has
+            been referred to the Attorney General and the Attorney General refuses or fails to
+            initiate appropriate proceedings or defend the agency: Provided, however, That the
+            chief counsel shall not agree to the entry of a consent decree in any action without
+            the approval of the Governor and the Attorney General and notice to the General Assembly
+            through the Secretary of the Senate and the Chief Clerk of the House of Representatives;
+            and
+(ii)  represent the agency if the Attorney General has initiated litigation against it.
+(4)  Upon the instructions of the independent agency, appeal any decisions adverse to it
+            rendered by the Attorney General under subsection (f) of section 204.
+(5)  Review and approve for form and legality all proposed rules and regulations of the
+            agency before they are deposited with the Legislative Reference Bureau as required
+            by section 207 of the act of July 31, 1968 (P.L.769, No.240), known as the "Commonwealth
+            Documents Law."
+(6)  Review for form and legality all Commonwealth deeds, leases and contracts to be executed
+            by the agency. The chief counsel may prepare uniform instrument forms and preapprove
+            all such documents which are prepared in accordance with such forms and applicable
+            instructions.
+19800164u403s
+Section 403.  Supersession and intervention.
+(a)  Representation of agency by agency counsel.--Whenever any action is brought by or
+            against any independent agency or independent agency official, the agency head may
+            request in writing, setting forth his reasons, the Attorney General to authorize the
+            agency counsel to supersede the Attorney General and represent the agency or its official.
+(b)  Intervention by agency counsel.--If the Attorney General does not grant the request,
+            the agency head may authorize the agency counsel to intervene in the litigation. Such
+            intervention shall be a matter of right and when exercised, confer upon the agency
+            counsel the obligation to represent the agency. The Attorney General shall at all
+            times continue to represent the Commonwealth.
+19800164u501h
+CHAPTER 5
+MISCELLANEOUS PROVISIONS
+19800164u501s
+Section 501.  General transfer of personnel, appropriations,       records, equipment, etc.
+(a)  Transfers to the Attorney General.--All personnel, allocations, equipment, files,
+            records, contracts, agreements, obligations and other materials which are used, employed
+            or expended in connection with the powers, duties or functions transferred by this
+            act to the Office of Attorney General are hereby transferred to the Office of Attorney
+            General with the same force and effect as if the appropriations had been made to and
+            said items had been the property of the Office of Attorney General in the first instance
+            and as if said contracts, agreements and obligations had been incurred or entered
+            into by said Office of Attorney General.
+(b)  Transfers to the Office of General Counsel.--All personnel, allocations, appropriations,
+            equipment, files, records, contracts, agreements, obligations and other materials
+            which are used, employed or expended in connection with the powers, duties or functions
+            transferred by this act to the Office of General Counsel are hereby transferred to
+            the Office of General Counsel with the same force and effect as if the appropriations
+            had been made to and said items had been the property of the Office of General Counsel
+            in the first instance and as if said contracts, agreements and obligations had been
+            incurred or entered into by said Office of General Counsel.
+(c)  Transfers of administrative functions of the Board of Pardons to the Lieutenant Governor.--The
+            administrative functions of the Board of Pardons are hereby transferred to the Lieutenant
+            Governor. All personnel, allocations, appropriations, equipment, files, records, contracts,
+            agreements, obligations and other materials which are used, employed or expended in
+            connection with the powers, duties or functions transferred by this act to the Lieutenant
+            Governor are hereby transferred to the Lieutenant Governor with the same force and
+            effect as if the appropriations had been made to and said items had been the property
+            of the Lieutenant Governor in the first instance and as if said contracts, agreements
+            and obligations had been incurred or entered into by said Lieutenant Governor.
+(d)  Division of general administrative personnel and materials.--The personnel, appropriations,
+            equipment and other items and materials transferred by this section shall include
+            an appropriate portion of the general administrative, overhead and supporting personnel,
+            appropriations, equipment and other materials of the agency and shall also include,
+            where applicable, Federal grants and funds and other benefits from any Federal program.
+(e)  Retention of civil service status.--All personnel transferred pursuant to this act
+            shall retain any civil service employment status assigned to said personnel.
+19800164u502s
+Section 502.  Specific transfers of certain powers and duties  to the Office of General Counsel.
+The powers and duties of the Attorney General and/or the Department of Justice contained
+            in the following acts or parts of acts are transferred to the Office of General Counsel:
+Section 3 of the act of June 8, 1907 (P.L.496, No.322), entitled "An act to establish
+            a Board of Commissioners of Navigation for the river Delaware and its navigable tributaries;
+            regulating their jurisdiction over ships, vessels, and boats, and wharves, piers,
+            bulkheads, docks, slips, and basins; and exempting cities of the first class from
+            certain of its provisions; and making an appropriation therefor."
+Section 9 of the act of July 9, 1919 (P.L.814, No.338), entitled "An act providing
+            for the erection and construction by the Commonwealth of Pennsylvania and the State
+            of New Jersey of a bridge over the Delaware River, connecting the city of Philadelphia
+            and the city of Camden, and the approaches thereto; providing for a joint commission
+            for that purpose, and defining its powers and duties; providing for an independent
+            commission in this Commonwealth in relation thereto, and defining its powers and duties;
+            providing for the payment of a part of the cost thereof by the city of Philadelphia;
+            and providing for the acquiring, taking, and condemnation of the real estate for the
+            site and approaches thereof; providing for the turning over of said bridge upon its
+            completion; and making an appropriation for the purposes of this act."
+Section 1 of the act of March 24, 1921 (P.L.48, No.23), entitled, as amended, "An
+            act providing for the transfer of convicts from the State penitentiaries and their
+            imprisonment in the penitentiary to which transferred; imposing costs for such transfers
+            upon the Commonwealth; imposing the cost of the maintenance of convicts so transferred
+            upon the counties in which they were convicted; directing that certain notice of such
+            transfer of a convict be given; and making appropriations."
+Section 2 of the act of May 27, 1921 (P.L.1191, No.443), entitled "An act creating
+            a State Fair Commission for the Commonwealth of Pennsylvania; defining its duties;
+            and making an appropriation therefor."
+Sections 1 and 6 of the act of July 11, 1923 (P.L.1044, No.425), entitled, as amended,
+            "An act to authorize and provide for the transfer and retransfer of person or persons
+            confined in any penitentiary, prison, workhouse, house of correction, or any other
+            institution for adult prisoners, under sentence of law, convicted but awaiting sentence,
+            awaiting trial, or confined for any other purpose to some other prison, penitentiary,
+            workhouse, house of correction, or other institution for adult prisoners."
+Sections 404, 477 through 477.16, 905.1, 905.2, 911, 912, 913, 914, 914.1, 915 and
+            916 of the act of April 9, 1929 (P.L.177, No.175), known as "The Administrative Code
+            of 1929."
+Sections 1 and 2 of the act of June 21, 1939 (P.L.660, No.307), entitled, as amended,
+            "An act providing for the return of escaped prisoners and convicts after apprehension,
+            to the penitentiary or state institution from which they escape, by the agents of
+            the Department of Justice or the Pennsylvania State Police, and requiring the penitentiary
+            or state institution to defray the expenses thereof."
+Section 21.1 of the act of August 6, 1941 (P.L.861, No.323), referred to as the Pennsylvania
+            Board of Probation and Parole Law.
+Section 4 of the act of May 15, 1945 (P.L.547, No.217), known as the "Soil Conservation
+            Law."
+Section 774 of the act of June 1, 1945 (P.L.1242, No.428), known as the "State Highway
+            Law."
+Sections 1, 2 and 3 of the act of July 29, 1953 (P.L.1433, No.410), entitled "An act
+            creating certain penal and correctional institutions and boards of trustees; abolishing
+            certain penal institutions; imposing duties upon the Commissioner of Correction of
+            the Department of Justice; and providing for the costs of transportation and maintenance
+            of inmates."
+Sections 2, 4, 5, 6 and 8 of the act of July 29, 1953 (P.L.1435, No.411), entitled
+            "An act relating to the more effective treatment of persons convicted of crime or
+            committed as defective delinquents; creating in the Department of Justice correctional
+            diagnostic and classification centers; providing for the diagnosis and classification
+            of persons sentenced or committed by the courts to a State institution; fixing the
+            responsibility for costs of transportation and maintenance of such persons; prescribing
+            duties of the courts and the powers and duties of the Department of Justice relative
+            thereto; making civil and criminal laws applicable to penitentiaries and persons therein
+            or responsible therefor applicable in the case of the said institutions."
+Sections 1, 2, 3, 4, 5 and 6 of the act of July 29, 1953 (P.L.1440, No.414), entitled
+            "An act providing for the construction and equipping of the Pennsylvania Institution
+            for Defective Delinquents; providing for the acquisition of land; providing for the
+            reception, confinement, treatment, care, maintenance and control of inmates; imposing
+            duties and conferring powers on the Department of Justice, Department of Property
+            and Supplies and the General State Authority."
+Section 1 of the act of December 8, 1959 (P.L.1718, No.632), entitled, as amended,
+            "An act providing for the payment of the salary, medical and hospital expenses of
+            employes of State penal and correctional institutions, State mental hospitals, Youth
+            Development Centers, County Boards of Assistance, and under certain conditions other
+            employes of the Department of Public Welfare, who are injured in the performance of
+            their duties; and providing benefit to their widows and dependents in certain cases."
+Sections 1 and 6 of the act of December 21, 1959 (P.L.1962, No.717), entitled "An
+            act providing for the creation and operation of the Juvenile Court Judges' Commission
+            in the Department of Justice; prescribing its powers and duties; and making an appropriation."
+Section 23 of the act of August 23, 1961 (P.L.1068, No.484), entitled, as amended,
+            "An act to provide for the creation and administration of a Coal and Clay Mine Subsidence
+            Insurance Fund within the Department of Environmental Resources for the insurance
+            of compensation for damages to subscribers thereto; declaring false oaths by the subscribers
+            to be misdemeanors; providing penalties for the violation thereof; and making an appropriation."
+Section 604-A of the act of June 22, 1964 (Sp.Sess., P.L.84, No.6), known as the "Eminent
+            Domain Code."
+Sections 2, 3 and 5 of the act of December 22, 1965 (P.L.1189, No.472), entitled "An
+            act establishing a correctional facility for criminological diagnosis, classification,
+            social and psychological treatment and research, medical treatment and staff training."
+Sections 2 and 3 of the act of December 27, 1965 (P.L.1237, No.502), entitled "An
+            act establishing regional correctional facilities administered by the Bureau of Correction
+            as part of the State correctional system; establishing standards for county jails,
+            and providing for inspection and classification of county jails and for commitment
+            to State correctional facilities and county jails."
+Sections 412 and 415 of the act of October 20, 1966 (3rd Sp.Sess., P.L.96, No.6),
+            known as the "Mental Health and Mental Retardation Act of 1966."
+Section 208 of the act of June 13, 1967 (P.L.31, No.21), known as the "Public Welfare
+            Code."
+Sections 1 and 2 of the act of July 16, 1968 (P.L.351, No.173), entitled, as amended,
+            "An act authorizing the establishment of prisoner pre-release centers and release
+            plans under the jurisdiction of the Department of Justice and defining its powers
+            and duties."
+Sections 2, 3 and 7 of the act of October 16, 1972 (P.L.913, No.218), entitled "An
+            act establishing regional community treatment centers for women administered by the
+            Bureau of Correction of the Department of Justice as part of the State Correctional
+            System, providing for the commitment of females to such centers and their temporary
+            release therefrom for certain purposes, restricting confinement of females in county
+            jails and conferring powers and duties upon the Department of Justice and the Bureau
+            of Correction."
+Section 104(10) of the act of February 1, 1974 (P.L.34, No.15), known as the "Pennsylvania
+            Municipal Retirement Law."
+42 Pa.C.S. §§ 9755 and 9756
+24 Pa.C.S. §§ 8501(e), 8502(h) and 8503
+42 Pa.C.S. §§ 5974, 5977 and 6352
+71 Pa.C.S. §§ 5102, 5901(e) and 5902(h)
+19800164u502v
+Compiler's Note:
+The short title of the act of June 13, 1967 (P.L.31, No.21), known as the Public Welfare
+            Code, referred to in this section, was amended by the act of December 28, 2015 (P.L.500,
+            No.92). The amended short title is now the Human Services Code.
+Compiler's Note:
+The Department of Public Welfare, referred to in this section, was redesignated as
+            the Department of Human Services by Act 132 of 2014.
+19800164u503s
+Section 503.  Absolute repeals.
+The following acts or parts of acts are repealed absolutely:
+Section 6 of the act of March 22, 1817 (P.L.122, No.98), entitled "An act against
+            horse racing upon the public roads within the limits of the city and county of Philadelphia."
+The act of April 21, 1857 (P.L.266, No.308), entitled "An act relating to the Office
+            and Duties of Attorney General."
+Section 1 of the act of April 8, 1861 (P.L.258, No.260), entitled "An act relative
+            to the Board of Property."
+Section 1 of the act of April 8, 1869 (P.L.19, No.19), entitled "An act relating to
+            the settlement of public accounts."
+The act of April 12, 1875 (P.L.43, No.48), entitled "An act to provide for the election
+            and appointment of trustees for the state normal schools, and to further regulate
+            their management."
+The act of June 3, 1885 (P.L.71, No.44), entitled "An act to provide that all moneys
+            received from policies of insurance upon buildings of the State normal schools shall
+            be held in trust for the repairing and rebuilding of said buildings, and for the payment
+            of the proceeds of said insurance policies for that purpose."
+The act of May 2, 1905 (P.L.351, No.225), entitled "An act authorizing the Attorney
+            General to retain and employ attorneys to represent the Commonwealth, in criminal
+            proceedings, in the various courts of oyer and terminer, general jail delivery, and
+            quarter sessions, if requested to do so by the president judge of the district having
+            jurisdiction thereof; providing for the compensation of such attorneys, and defining
+            their duties and powers."
+Sections 512, 704, 901 and 902, the first sentence of subsection (b) of section 902-A,
+            sections 903, 904, 905, 906, 907 and 908 of the act of April 9, 1929 (P.L.177, No.175),
+            known as "The Administrative Code of 1929."
+Section 204 of the act of August 5, 1941 (P.L.752, No.286), known as the "Civil Service
+            Act."
+The act of April 18, 1978 (P.L.54, No.25), entitled "An act implementing the provision
+            of section 4.1 and related sections of Article IV of the Constitution of Pennsylvania
+            as added or amended to provide for the election of the Attorney General; providing
+            for the continuation of the powers and duties of the Attorney General through interim
+            gubernatorial appointments to ensure an orderly and efficient transition in the office
+            of Attorney General and the Department of Justice."
+As much as reads as follows, "and shall represent the commission upon appeals and
+            other hearings in the courts of common pleas and in the Commonwealth and Supreme Courts,
+            or other courts of this Commonwealth, or in any Federal court or agency and in actions
+            instituted to recover penalties and to enforce regulations and orders of the commission"
+            of section 306 and the third sentence of section 308 of Title 66 (Public Utilities)
+            of the Pennsylvania Consolidated Statutes.
+19800164u504s
+Section 504.  Inconsistent repeals.
+The following acts or parts of acts are repealed insofar as they are inconsistent
+            with the provisions of this act:
+Section 2 of the act of March 30, 1897 (P.L.11, No.10), entitled "An act authorizing
+            the purchase by the Commonwealth of unseated lands for the non-payment of taxes for
+            the purpose of creating a State Forest Reservation."
+Section 29 of the act of May 25, 1921 (P.L.1144, No.425), entitled "An act creating
+            a Department of Public Welfare; defining its powers and duties; abolishing the Board
+            of Public Charities, the Committee on Lunacy, and the Prison Labor Commission, and
+            all offices thereunder, and vesting all the powers of said board, committee, and commission
+            in the Department of Public Welfare; requiring all reports, notices, statements, or
+            matters, heretofore required to be made, given, or submitted to the Board of Public
+            Charities or the Committee on Lunacy, to be made, given, or submitted to the Department
+            of Public Welfare; and providing penalties."
+Section 201, to the extent that it creates a Department of Justice, sections 404 and
+            406, to the extent that they designate the Attorney General as a member of the Board
+            of Commissioners on Uniform State Laws and the Board of Property, and section 922,
+            to the extent that it provides for the appointment of an advisory committee by the
+            Governor, of the act of April 9, 1929 (P.L.177, No.175), known as "The Administrative
+            Code of 1929."
+Sections 203, 204(A), 702 and 1006 of the act of May 15, 1933 (P.L.565, No.111), known
+            as the "Department of Banking Code."
+Section 510.1 of the act of December 5, 1936 (1937 2nd Sp.Sess., P.L.2897, No.1),
+            known as the "Unemployment Compensation Law."
+Section 1102 of the act of April 28, 1937 (P.L.417, No.105), known as the "Milk Marketing
+            Law."
+Section 1401 of the act of June 3, 1937 (P.L.1225, No.316), known as "The Game Law."
+Section 3(c)(5) of the act of August 5, 1941 (P.L.752, No.286), known as the "Civil
+            Service Act."
+Section 1(b) of the act of June 30, 1947 (P.L.1183, No.492), entitled "An act relating
+            to strikes by public employes; prohibiting such strikes; providing that such employes
+            by striking terminate their employment; providing for reinstatement under certain
+            conditions; providing for a grievance procedure; and providing for hearings before
+            civil service and tenure authorities, and in certain cases before the Pennsylvania
+            Labor Relations Board."
+Section 1 of the act of April 18, 1949 (P.L.492, No.106), entitled "An act enabling
+            and authorizing the Department of Public Instruction or any of its departmental administrative
+            boards, commissions, or officers to proceed by injunction or any other process in
+            the court of common pleas in any county where the alleged unauthorized practice was
+            committed, to prohibit and restrain any unlicensed person, association, copartnership,
+            or corporation from engaging in an activity for which a license is required to be
+            issued by the Department of Public Instruction, and to set out the method and procedure
+            therefor."
+Section 12(c) of the act of January 14, 1952 (1951 P.L.1898, No.522), known as the
+            "Funeral Director Law."
+Section 7 of the act of October 27, 1955 (P.L.744, No.222), known as the "Pennsylvania
+            Human Relations Act."
+Section 13 of the act of June 1, 1956 (1955 P.L.1959, No.657), entitled, as amended,
+            "An act fixing the salaries and compensation of the Chief Justice and judges of the
+            Supreme Court, the President Judge and judges of the Superior Court, the judges of
+            the courts of common pleas, the judges of the orphans' courts, the judges of the County
+            Court of Philadelphia and the judges of the County Court and Juvenile Court of Allegheny
+            County, certain associate judges not learned in the law, certain state officers, and
+            the salary and expenses of the members of the General Assembly, and repealing certain
+            inconsistent acts."
+Section 290 of the act of December 15, 1959 (P.L.1779, No.673), known as "The Fish
+            Law of 1959."
+Section 1 of the act of September 26, 1961 (P.L.1661, No.692), entitled "An act providing
+            for group life insurance for State employes; establishing a schedule; providing for
+            payment; providing for reduction of insurance upon retirement; authorizing the Secretary
+            of Property and Supplies to act as exclusive agent for the purpose of contracting
+            for insurance; and providing for administration and advisory services by the Department
+            of Property and Supplies."
+Section 6(h)(7) of the act of September 27, 1961 (P.L.1700, No.699), known as the
+            "Pharmacy Act."
+Sections 2 and 3 of the act of August 8, 1963 (P.L.595, No.314), entitled "An act
+            relating to private institutions licensed by the Department of Public Welfare or Department
+            of Health; providing remedies against persons operating without a license or violating
+            the laws or rules or regulations made thereunder; and prescribing procedures to be
+            followed."
+Section 1 of the act of August 8, 1963 (P.L.622, No.330), entitled "An act enabling
+            and authorizing the Commissioner of Professional and Occupational Affairs or any of
+            the administrative boards, commissions or officers within the Department of State
+            or otherwise under his supervision to proceed by injunction or any other process in
+            the court of common pleas in any county where the alleged unauthorized practice was
+            committed to prohibit and restrain any unlicensed person, association, copartnership
+            or corporation from engaging in an activity for which a license is required to be
+            issued by the Commissioner of Professional and Occupational Affairs, and to set out
+            the method and procedure therefor."
+Section 5(a) of the act of August 9, 1963 (P.L.628, No.337), known as the "Solicitation
+            of Charitable Funds Act," to the extent that the Attorney General is made a member
+            of the Commission on Charitable Organizations.
+Sections 208, 1052 and 1053 of the act of June 13, 1967 (P.L.31, No.21), known as
+            the "Public Welfare Code."
+Section 5 of the act of January 18, 1968 (1967 P.L.961, No.428), known as the "Municipal
+            Records Act," to the extent that the Attorney General is made a member of the Local
+            Government Records Committee.
+Section 205 of the act of July 31, 1968 (P.L.769, No.240), known as the "Commonwealth
+            Documents Law."
+Sections 1001 and 1003 of the act of July 23, 1970 (P.L.563, No.195), known as the
+            "Public Employe Relations Act."
+Section 28 of the act of December 3, 1970 (P.L.834, No.275), entitled "An act amending
+            the act of April 9, 1929 (P.L.177, No.175), entitled 'An act providing for and reorganizing
+            the conduct of the executive and administrative work of the Commonwealth by the Executive
+            Department thereof and the administrative departments, boards, commissions, and officers
+            thereof, including the boards of trustees of State Normal Schools, or Teachers Colleges;
+            abolishing, creating, reorganizing or authorizing the reorganization of certain administrative
+            departments, boards, and commissions; defining the powers and duties of the Governor
+            and other executive and administrative officers, and of the several administrative
+            departments, boards, commissions, and officers; fixing the salaries of the Governor,
+            Lieutenant Governor, and certain other executive and administrative officers; providing
+            for the appointment of certain administrative officers, and of all deputies and other
+            assistants and employes in certain departments, boards, and commissions; and prescribing
+            the manner in which the number and compensation of the deputies and all other assistants
+            and employes of certain departments, boards and commissions shall be determined,'
+            creating the Department of Environmental Resources and defining its functions, powers
+            and duties, transferring certain boards and commissions to such department, abolishing
+            the Sanitary Water Board, the Air Pollution Commission and certain other boards and
+            commissions; placing the Navigation Commission for the Delaware River and its navigable
+            tributaries in the Department of Transportation; transferring the functions of the
+            Geographic Board to the Pennsylvania Historical and Museum Commission placing the
+            Valley Forge Park Commission and the Washington Crossing Park Commission in the Pennsylvania
+            Historical and Museum Commission and repealing inconsistent acts."
+Section 509 of the act of December 5, 1972 (P.L.1280, No.284), known as the "Pennsylvania
+            Securities Act of 1972."
+Section 3 of the act of December 30, 1974 (P.L.1075, No.348), known as the "Interstate
+            Corrections Compact."
+Section 5, act of March 3, 1978 (P.L.6, No.3), known as the "Steel Products Procurement
+            Act."
+Sections 402 and 502, act of October 4, 1978 (P.L.851, No.166), known as the "Flood
+            Plain Management Act."
+Sections 10 and 15, act of October 4, 1978 (P.L.864, No.167), known as the "Storm
+            Water Management Act.
+Section 14, act of November 22, 1978 (P.L.1160, No.273), known as the "Historic Preservation
+            Act."
+Section 903, act of November 26, 1978 (P.L.1274, No.305), known as the "Criminal History
+            Record Information Act," to the extent it authorizes the institution of an action
+            by a Commonwealth agency but the duties imposed upon the Attorney General by the act
+            shall not be effected.
+Section 14, act of April 6, 1979 (P.L.17, No.5), entitled "An act establishing the
+            Pennsylvania Savings Association Insurance Corporation and providing for its powers
+            and duties."
+Sections 603(b) and (f), 814, 815, 816 and 817, act of July 19, 1979 (P.L.130, No.48),
+            known as the "Health Care Facilities Act."
+Section 14, act of May 13, 1980 (P.L.122, No.48), known as the "Bluff Recession and
+            Setback Act."
+Sections 603 and 604, act of July 7, 1980 (P.L.380, No.97), known as the "Solid Waste
+            Management Act."
+19800164u504v
+Compiler's Note:
+The short title of the act of June 13, 1967 (P.L.31, No.21), known as the Public Welfare
+            Code, referred to in this section, was amended by the act of December 28, 2015 (P.L.500,
+            No.92). The amended short title is now the Human Services Code.
+Compiler's Note:
+The Department of Public Welfare, referred to in this section, was redesignated as
+            the Department of Human Services by Act 132 of 2014.
+19800164u505s
+Section 505.  Limited repeals.
+So much of sections 202 and 206 as relates to the Department of Justice and so much
+            of sections 206, 207.1(d)(1) and 208(a) as relates to the Attorney General of the
+            act of April 9, 1929 (P.L.177, No.175), known as "The Administrative Code of 1929,"
+            are repealed.
+Section 1517(a) of Title 75 (Vehicles), act of November 25, 1970 (P.L.707, No.230),
+            known as the Pennsylvania Consolidated Statutes, is repealed to the extent that the
+            Attorney General is made a member of the Medical Advisory Board.
+19800164u506s
+Section 506.  Transition.
+In order that there may be an orderly, efficient and economical transition of government
+            following the election of a new Attorney General, the Auditor General, in the fiscal
+            year during which a new Attorney General is elected shall employ such consultants,
+            accountants and experts as shall have been selected in writing by the new Attorney
+            General who is hereby authorized to fix the compensation to be paid such personnel.
+            Such notice to the Auditor General shall be given at any time after the Secretary
+            of the Commonwealth and the Auditor General have determined the person receiving the
+            highest number of votes for the office of Attorney General and have informed the new
+            Attorney General-elect of such determination. Since this personnel is to be engaged
+            for a limited period of time, they shall not be eligible for membership in any of
+            the retirement systems of the Commonwealth, nor shall they be bound by or subject
+            to the provisions of "The Administrative Code of 1929," pertaining to State employees.
+            Such personnel shall be paid from an appropriation not to exceed $75,000 made to the
+            Auditor General during the fiscal year when the new Attorney General is elected. Within
+            30 days after his inauguration the new Attorney General shall dispense with the services
+            of the temporary personnel or place such members thereof as he sees fit on the payroll
+            of the Commonwealth in the manner provided by "The Administrative Code of 1929."
+19800164u507s
+Section 507.  Appropriations.
+(1)  The sum of $75,000, or as much thereof as may be necessary, is specifically appropriated
+            to the Auditor General for the fiscal year July 1, 1980 to June 30, 1981 for purposes
+            of funding the transition to an elected Attorney General.
+(2)  The sum of $25,000, or as much thereof as may be necessary, is specifically appropriated
+            to the Governor for the fiscal year July 1, 1980 to June 30, 1981 to fund the establishment
+            of the Office of General Counsel.
+19800164u508s
+Section 508.  Effective date.
+Sections 203, 506 and 507 of this act shall take effect immediately and shall be applicable
+            as soon as permitted under the Constitution of Pennsylvania; all other provisions
+            shall take effect January 20, 1981.

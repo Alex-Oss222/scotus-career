@@ -1,0 +1,28 @@
+{
+  "four_labels": true,
+  "eleven_blocks": true,
+  "holdings_identity": true,
+  "topology_identity": true,
+  "no_public_workflow": true,
+  "no_unassigned_placeholders": true,
+  "judgment_split_explicit": true,
+  "seven_lead_supporters": true,
+  "explanation_ceilings": true,
+  "clerical_link_repair": {
+    "repairs": [
+      {
+        "from": "OT_1999CHUNK4_LATER_EARLIER_PUBLIC_LAW.md",
+        "to": "../preparation/OT_1999CHUNK4_LATER_EARLIER_PUBLIC_LAW.md"
+      },
+      {
+        "from": "OT_1999CHUNK4_LATER_SOURCE_TEXT.md",
+        "to": "../preparation/OT_1999CHUNK4_LATER_SOURCE_TEXT.md"
+      }
+    ],
+    "only_link_targets_changed": true,
+    "public_projection_byte_identical": true,
+    "record_sha256_before": "933d75d98383f22b49530d0693d17345bef422d431e9ddf13ccbf6cd9f67066d",
+    "record_sha256_after": "e939bb5656322485e1ca26ab5b4c2a8a5a5b0a3e1064b887a7d63615bfe2e416",
+    "public_projection_sha256": "f84f659d1acc8466ab53fa31c1000e8be21c7c7333d48fc58ae8525e6c618950"
+  }
+}

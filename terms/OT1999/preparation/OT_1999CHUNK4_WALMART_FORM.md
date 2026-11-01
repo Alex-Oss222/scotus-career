@@ -1,0 +1,5 @@
+# Wal-Mart — final legal form before assignment
+
+One signed lead resolves the product-design secondary-meaning prerequisite and the bounded reversal/remand. All eight Associates support its complete ground. Their limited ambiguous-design/packaging caution is retained as published explanatory guidance: it does not adjudicate a hybrid classification or supply another independently sufficient holding. The garments are clearly product design, and that holding independently decides the granted question.
+
+Stone supports the judgment on his approved product-design/source-significance ground and bounded remedy, with packaging reserved. He states those reasons in a concurrence in the judgment. No opinion on the additional ambiguity caution, opposition to it or partial join is attributed to him. The form is selected from the legal scope and approved/frozen positions before the fresh count; no author eligibility or count determines it. One complete lead is sufficient; no division of authorship is warranted.

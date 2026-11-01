@@ -1,0 +1,82 @@
+{
+  "protected_baseline_files_unchanged": 275,
+  "completed": [
+    {
+      "case": "Adams v. Commissioner of Internal Revenue",
+      "date": "2000-03-06",
+      "record": "adams-v-commissioner_merits_2000-03-06.md",
+      "result": "Vacated and remanded, 5–4, as to the RFRA collection determination and the RFRA determinations for the section 6651 failure-to-file and section 6654 estimated-tax additions; ungranted independent grounds left undisturbed.",
+      "sha256": "23ed8f7920b3abfabd981e040cf9f92f101a3313f59e44c5879ef42f4d3ecff4"
+    },
+    {
+      "case": "Carter v. City of Philadelphia",
+      "date": "2000-03-13",
+      "record": "carter-v-city-of-philadelphia_merits_2000-03-13.md",
+      "result": "Affirmed and remanded on the two granted municipal-policy questions, 9-0; eight Justices join the Court's rationale and Stone-Zsela concurs in the judgment.",
+      "sha256": "c8e6e7cfd75c02dae7cec9d7073b7ba7ee3708c1936beadfe78ac8eded89be19"
+    },
+    {
+      "case": "Cortez Byrd Chips, Inc. v. Bill Harbert Construction Co.",
+      "date": "2000-03-21",
+      "record": "cortez-byrd-chips-v-bill-harbert_merits_2000-03-21.md",
+      "result": "Eleventh Circuit reversed and remanded, 9-0; FAA sections 9-11 supply nonexclusive domestic postaward venue.",
+      "sha256": "f8f4dd6a62c78e0f801b6a1fbfd7bf170f03c9e63dc7135d5523155329f03a58"
+    },
+    {
+      "case": "FDA v. Brown & Williamson Tobacco Corp.",
+      "date": "2000-03-21",
+      "record": "fda-v-brown-and-williamson_merits_2000-03-21.md",
+      "result": "Fourth Circuit affirmed, 5-4; August 28, 1996 rule remains invalid for want of asserted FDCA authority over tobacco as customarily marketed.",
+      "sha256": "320c217f14166b5c042bc746beff69a687cf0b77ff6fe5e4b9e4cfbc44ee17ea"
+    },
+    {
+      "case": "Board of Regents of the University of Wisconsin System v. Southworth",
+      "date": "2000-03-22",
+      "record": "board-of-regents-v-southworth_merits_2000-03-22.md",
+      "result": "Reversed and remanded only on the referendum issue, 9–0 in judgment; six Justices join the complete framework and three concur in the judgment.",
+      "sha256": "fed6fbf3cf55929744eae1ee4a0c8df87295964e7b1f88b149de08dcd01c497a"
+    },
+    {
+      "case": "Wal-Mart Stores, Inc. v. Samara Brothers, Inc.",
+      "date": "2000-03-22",
+      "record": "wal-mart-v-samara-brothers_merits_2000-03-22.md",
+      "result": "Reversed and remanded, 9–0 in judgment, on the product-design distinctiveness question; eight Associates join the complete opinion and Stone-Zsela concurs in the judgment.",
+      "sha256": "de4e59350d594997c95515884611d19db7f97f888d5f1180dbe2bc14e7812aa9"
+    },
+    {
+      "case": "Florida v. J. L.",
+      "date": "2000-03-28",
+      "record": "florida-v-j-l_merits_2000-03-28.md",
+      "result": "Florida Supreme Court affirmed, 9-0; suppression remains in place without an additional dismissal order.",
+      "sha256": "39b744b1d2a060b6ad7ca4cbea12383b54b7d2d0b17343f3286eff1a387d3a5f"
+    },
+    {
+      "case": "Garner v. Jones",
+      "date": "2000-03-28",
+      "record": "garner-v-jones_merits_2000-03-28.md",
+      "result": "Eleventh Circuit vacated and remanded, 7-2, for application of the existing Morales opportunity-and-substitute inquiry; officials' summary judgment is not restored.",
+      "sha256": "e939bb5656322485e1ca26ab5b4c2a8a5a5b0a3e1064b887a7d63615bfe2e416"
+    },
+    {
+      "case": "City of Erie v. Pap's A.M.",
+      "date": "2000-03-29",
+      "record": "city-of-erie-v-paps-am_merits_2000-03-29.md",
+      "result": "Reach the merits, 7–2; affirm the Pennsylvania judgment, 5–4. Six support the threshold rationale; five directly support the precise common content-selection rule across writings; the independent intermediate alternative has three votes.",
+      "sha256": "f339cee9ad1800dea762364a2cfcf85e5b63c39f3fae091f929f1032f19b25a7"
+    },
+    {
+      "case": "Powell v. Ridge",
+      "date": "2000-04-03",
+      "record": "powell-v-ridge_merits_2000-04-03.md",
+      "result": "Third Circuit reversed and remanded, 5-4 on each count; the direct and section 1983 impact-only theories fail on separate grounds, without creation of an intentional-discrimination claim.",
+      "sha256": "50062f52315a2b860b8fc476a9d44d10894f3987abb479266c9d1ee5a95c4738"
+    }
+  ],
+  "missing": [
+    "Browne v. United States",
+    "Free v. Abbott Laboratories, Inc."
+  ],
+  "frozen_copy_pairs": 25,
+  "errors": [],
+  "git_verification": "Not attempted; expressly reserved to operator."
+}

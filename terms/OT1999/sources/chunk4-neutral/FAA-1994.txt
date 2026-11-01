@@ -1,0 +1,648 @@
+Page 1
+TITLE 9—ARBITRATION
+This title was enacted by act July 30, 1947, ch. 392, § 1, 61 Stat. 669
+Chap. Sec.
+1. General provisions .............................. 1
+2. Convention on the Recognition and
+Enforcement of Foreign Arbitral
+Awards ................................................ 201
+3. Inter-American Convention on
+International Commercial Arbi-
+tration ................................................. 301
+AMENDMENTS
+1990—Pub. L. 101–369, § 2, Aug. 15, 1990, 104 Stat. 450,
+added item for chapter 3.
+1970—Pub. L. 91–368, § 2, July 31, 1970, 84 Stat. 693,
+added analysis of chapters.
+TABLE
+Title 9
+Former
+Sections
+Statutes at Large
+Title 9
+New
+Sections
+1 ............ Feb. 12, 1925, ch. 213, § 1, 43 Stat. 883 ............ 1
+2 ............ Feb. 12, 1925, ch. 213, § 2, 43 Stat. 883 ............ 2
+3 ............ Feb. 12, 1925, ch. 213, § 3, 43 Stat. 883 ............ 3
+4 ............ Feb. 12, 1925, ch. 213, § 4, 43 Stat. 883 ............ 4
+5 ............ Feb. 12, 1925, ch. 213, § 5, 43 Stat. 884 ............ 5
+6 ............ Feb. 12, 1925, ch. 213, § 6, 43 Stat. 884 ............ 6
+7 ............ Feb. 12, 1925, ch. 213, § 7, 43 Stat. 884 ............ 7
+8 ............ Feb. 12, 1925, ch. 213, § 8, 43 Stat. 884 ............ 8
+9 ............ Feb. 12, 1925, ch. 213, § 9, 43 Stat. 885 ............ 9
+10 ........... Feb. 12, 1925, ch. 213, § 10, 43 Stat. 885 .......... 10
+11 ........... Feb. 12, 1925, ch. 213, § 11, 43 Stat. 885 .......... 11
+12 ........... Feb. 12, 1925, ch. 213, § 12, 43 Stat. 885 .......... 12
+13 ........... Feb. 12, 1925, ch. 213, § 13, 43 Stat. 886 .......... 13
+14 ........... Feb. 12, 1925, ch. 213, § 14, 43 Stat. 886 .......... Rep.
+15 ........... Feb. 12, 1925, ch. 213, § 15, 43 Stat. 886 .......... 14
+POSITIVE LAW; CITATION
+This title has been made positive law by section 1 of
+act July 30, 1947, ch. 392, 61 Stat. 669, which provided in
+part that: ‘‘title 9 of the United States Code, entitled
+‘Arbitration’, is codified and enacted into positive law
+and may be cited as ‘9 U.S.C., § —’ ’’.
+REPEALS
+Section 2 of act July 30, 1947, ch. 392, 61 Stat. 674, pro-
+vided that the sections or parts thereof of the Statutes
+at Large covering provisions codified in this Act, inso-
+far as such provisions appeared in former title 9 were
+repealed and provided that any rights or liabilities now
+existing under such repealed sections or parts thereof
+shall not be affected by such repeal.
+FEDERAL RULES OF CIVIL PROCEDURE
+Application of Rules, see rule 81, Title 28, Appendix,
+Judiciary and Judicial Procedure.
+CROSS REFERENCES
+Arbitration of disputes between carriers and employ-
+ees, see sections 157 to 159 of Title 45, Railroads.
+Convention on the Settlement of Investment Dis-
+putes, nonapplication of title to enforcement of arbi-
+tration awards under the Convention, see section 1650a
+of Title 22, Foreign Relations and Intercourse.
+TITLE REFERRED TO IN OTHER SECTIONS
+This title is referred to in title 17 section 116A; title
+22 sections 290k–11, 1650a; title 25 section 416a; title 28
+section 651; title 29 section 1401; title 35 sections 135,
+294.
+CHAPTER 1—GENERAL PROVISIONS
+Sec.
+1. ‘‘Maritime transactions’’ and ‘‘commerce’’
+defined; exceptions to operation of title.
+2. Validity, irrevocability, and enforcement of
+agreements to arbitrate.
+3. Stay of proceedings where issue therein ref-
+erable to arbitration.
+4. Failure to arbitrate under agreement; peti-
+tion to United States court having jurisdic-
+tion for order to compel arbitration; notice
+and service thereof; hearing and determina-
+tion.
+5. Appointment of arbitrators or umpire.
+6. Application heard as motion.
+7. Witnesses before arbitrators; fees; compelling
+attendance.
+8. Proceedings begun by libel in admiralty and
+seizure of vessel or property.
+9. Award of arbitrators; confirmation; jurisdic-
+tion; procedure.
+10. Same; vacation; grounds; rehearing.
+11. Same; modification or correction; grounds;
+order.
+12. Notice of motions to vacate or modify; serv-
+ice; stay of proceedings.
+13. Papers filed with order on motions; judgment;
+docketing; force and effect; enforcement.
+14. Contracts not affected.
+15. Inapplicability of the Act of State doctrine.
+16. Appeals.
+AMENDMENTS
+1990—Pub. L. 101–650, title III, § 325(a)(2), Dec. 1, 1990,
+104 Stat. 5120, added item 15 ‘‘Inapplicability of the Act
+of State doctrine’’ and redesignated former item 15
+‘‘Appeals’’ as 16.
+1988—Pub. L. 100–702, title X, § 1019(b), Nov. 19, 1988,
+102 Stat. 4671, added item 15 relating to appeals.
+1970—Pub. L. 91–368, § 3, July 31, 1970, 84 Stat. 693, des-
+ignated existing sections 1 through 14 as ‘‘Chapter 1’’
+and added heading for Chapter 1.
+CHAPTER REFERRED TO IN OTHER SECTIONS
+This chapter is referred to in sections 205, 208, 307 of
+this title; title 25 section 416a.
+§ 1. ‘‘Maritime transactions’’ and ‘‘commerce’’ de-
+fined; exceptions to operation of title
+‘‘Maritime transactions’’, as herein defined,
+means charter parties, bills of lading of water
+carriers, agreements relating to wharfage, sup-
+plies furnished vessels or repairs to vessels, col-
+lisions, or any other matters in foreign com-
+merce which, if the subject of controversy,
+would be embraced within admiralty jurisdic-
+tion; ‘‘commerce’’, as herein defined, means
+commerce among the several States or with for-
+eign nations, or in any Territory of the United
+Page 2
+TITLE 9—ARBITRATION
+§ 2
+States or in the District of Columbia, or be-
+tween any such Territory and another, or be-
+tween any such Territory and any State or for-
+eign nation, or between the District of Columbia
+and any State or Territory or foreign nation,
+but nothing herein contained shall apply to con-
+tracts of employment of seamen, railroad em-
+ployees, or any other class of workers engaged
+in foreign or interstate commerce.
+(July 30, 1947, ch. 392, 61 Stat. 670.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 1, 43 Stat. 883.
+§ 2. Validity, irrevocability, and enforcement of
+agreements to arbitrate
+A written provision in any maritime trans-
+action or a contract evidencing a transaction in-
+volving commerce to settle by arbitration a con-
+troversy thereafter arising out of such contract
+or transaction, or the refusal to perform the
+whole or any part thereof, or an agreement in
+writing to submit to arbitration an existing con-
+troversy arising out of such a contract, trans-
+action, or refusal, shall be valid, irrevocable,
+and enforceable, save upon such grounds as exist
+at law or in equity for the revocation of any
+contract.
+(July 30, 1947, ch. 392, 61 Stat. 670.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 2, 43 Stat. 883.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in section 202 of this title.
+§ 3. Stay of proceedings where issue therein ref-
+erable to arbitration
+If any suit or proceeding be brought in any of
+the courts of the United States upon any issue
+referable to arbitration under an agreement in
+writing for such arbitration, the court in which
+such suit is pending, upon being satisfied that
+the issue involved in such suit or proceeding is
+referable to arbitration under such an agree-
+ment, shall on application of one of the parties
+stay the trial of the action until such arbitra-
+tion has been had in accordance with the terms
+of the agreement, providing the applicant for
+the stay is not in default in proceeding with
+such arbitration.
+(July 30, 1947, ch. 392, 61 Stat. 670.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 3, 43 Stat. 883.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in section 15 of this title.
+§ 4. Failure to arbitrate under agreement; peti-
+tion to United States court having jurisdic-
+tion for order to compel arbitration; notice
+and service thereof; hearing and determina-
+tion
+A party aggrieved by the alleged failure, ne-
+glect, or refusal of another to arbitrate under a
+written agreement for arbitration may petition
+any United States district court which, save for
+such agreement, would have jurisdiction under
+title 28, in a civil action or in admiralty of the
+subject matter of a suit arising out of the con-
+troversy between the parties, for an order di-
+recting that such arbitration proceed in the
+manner provided for in such agreement. Five
+days’ notice in writing of such application shall
+be served upon the party in default. Service
+thereof shall be made in the manner provided by
+the Federal Rules of Civil Procedure. The court
+shall hear the parties, and upon being satisfied
+that the making of the agreement for arbitra-
+tion or the failure to comply therewith is not in
+issue, the court shall make an order directing
+the parties to proceed to arbitration in accord-
+ance with the terms of the agreement. The hear-
+ing and proceedings, under such agreement,
+shall be within the district in which the petition
+for an order directing such arbitration is filed. If
+the making of the arbitration agreement or the
+failure, neglect, or refusal to perform the same
+be in issue, the court shall proceed summarily
+to the trial thereof. If no jury trial be demanded
+by the party alleged to be in default, or if the
+matter in dispute is within admiralty jurisdic-
+tion, the court shall hear and determine such
+issue. Where such an issue is raised, the party
+alleged to be in default may, except in cases of
+admiralty, on or before the return day of the no-
+tice of application, demand a jury trial of such
+issue, and upon such demand the court shall
+make an order referring the issue or issues to a
+jury in the manner provided by the Federal
+Rules of Civil Procedure, or may specially call a
+jury for that purpose. If the jury find that no
+agreement in writing for arbitration was made
+or that there is no default in proceeding there-
+under, the proceeding shall be dismissed. If the
+jury find that an agreement for arbitration was
+made in writing and that there is a default in
+proceeding thereunder, the court shall make an
+order summarily directing the parties to pro-
+ceed with the arbitration in accordance with the
+terms thereof.
+(July 30, 1947, ch. 392, 61 Stat. 671; Sept. 3, 1954,
+ch. 1263, § 19, 68 Stat. 1233.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 4, 43 Stat. 883.
+REFERENCES IN TEXT
+Federal Rules of Civil Procedure, referred to in text,
+are set out in Appendix to Title 28, Judiciary and Judi-
+cial Procedure.
+AMENDMENTS
+1954—Act Sept. 3, 1954, brought section into conform-
+ity with present terms and practice.
+FEDERAL RULES OF CIVIL PROCEDURE
+Process, see rule 4, Title 28, Appendix, Judiciary and
+Judicial Procedure.
+Service and filing of pleadings and other papers, see
+rule 5, Title 28, Appendix.
+Trials—
+Jury trial of right, see rule 38, Title 28, Appendix.
+Trial by jury or by the court, see rule 39, Title 28,
+Appendix.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in section 15 of this title;
+title 5 section 576.
+Page 3 TITLE 9—ARBITRATION § 9
+§ 5. Appointment of arbitrators or umpire
+If in the agreement provision be made for a
+method of naming or appointing an arbitrator or
+arbitrators or an umpire, such method shall be
+followed; but if no method be provided therein,
+or if a method be provided and any party thereto
+shall fail to avail himself of such method, or if
+for any other reason there shall be a lapse in the
+naming of an arbitrator or arbitrators or um-
+pire, or in filling a vacancy, then upon the appli-
+cation of either party to the controversy the
+court shall designate and appoint an arbitrator
+or arbitrators or umpire, as the case may re-
+quire, who shall act under the said agreement
+with the same force and effect as if he or they
+had been specifically named therein; and unless
+otherwise provided in the agreement the arbi-
+tration shall be by a single arbitrator.
+(July 30, 1947, ch. 392, 61 Stat. 671.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 5, 43 Stat. 884.
+§ 6. Application heard as motion
+Any application to the court hereunder shall
+be made and heard in the manner provided by
+law for the making and hearing of motions, ex-
+cept as otherwise herein expressly provided.
+(July 30, 1947, ch. 392, 61 Stat. 671.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 6, 43 Stat. 884.
+§ 7. Witnesses before arbitrators; fees; compelling
+attendance
+The arbitrators selected either as prescribed
+in this title or otherwise, or a majority of them,
+may summon in writing any person to attend
+before them or any of them as a witness and in
+a proper case to bring with him or them any
+book, record, document, or paper which may be
+deemed material as evidence in the case. The
+fees for such attendance shall be the same as the
+fees of witnesses before masters of the United
+States courts. Said summons shall issue in the
+name of the arbitrator or arbitrators, or a ma-
+jority of them, and shall be signed by the arbi-
+trators, or a majority of them, and shall be di-
+rected to the said person and shall be served in
+the same manner as subpoenas to appear and
+testify before the court; if any person or persons
+so summoned to testify shall refuse or neglect
+to obey said summons, upon petition the United
+States district court for the district in which
+such arbitrators, or a majority of them, are sit-
+ting may compel the attendance of such person
+or persons before said arbitrator or arbitrators,
+or punish said person or persons for contempt in
+the same manner provided by law for securing
+the attendance of witnesses or their punishment
+for neglect or refusal to attend in the courts of
+the United States.
+(July 30, 1947, ch. 392, 61 Stat. 672; Oct. 31, 1951,
+ch. 655, § 14, 65 Stat. 715.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 7, 43 Stat. 884.
+AMENDMENTS
+1951—Act Oct. 31, 1951, substituted ‘‘United States
+district court for’’ for ‘‘United States court in and for’’,
+and ‘‘by law for’’ for ‘‘on February 12, 1925, for’’.
+FEDERAL RULES OF CIVIL PROCEDURE
+Subpoena, see rule 45, Title 28, Appendix, Judiciary
+and Judicial Procedure.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in title 5 section 578.
+§ 8. Proceedings begun by libel in admiralty and
+seizure of vessel or property
+If the basis of jurisdiction be a cause of action
+otherwise justiciable in admiralty, then, not-
+withstanding anything herein to the contrary,
+the party claiming to be aggrieved may begin
+his proceeding hereunder by libel and seizure of
+the vessel or other property of the other party
+according to the usual course of admiralty pro-
+ceedings, and the court shall then have jurisdic-
+tion to direct the parties to proceed with the ar-
+bitration and shall retain jurisdiction to enter
+its decree upon the award.
+(July 30, 1947, ch. 392, 61 Stat. 672.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 8, 43 Stat 884.
+FEDERAL RULES OF CIVIL PROCEDURE
+Admiralty and maritime rules of practice (which in-
+cluded libel procedures) were superseded, and civil and
+admiralty procedures in United States district courts
+were unified, effective July 1, 1966, see rule 1 and Sup-
+plemental Rules for Certain Admiralty and Maritime
+Claims, Title 28, Appendix, Judiciary and Judicial Pro-
+cedure.
+CROSS REFERENCES
+Power of Supreme Court to prescribe rules of practice
+and procedure and rules of evidence for cases in United
+States district courts and courts of appeals, see section
+2072 of Title 28, Judiciary and Judicial Procedure.
+§ 9. Award of arbitrators; confirmation; jurisdic-
+tion; procedure
+If the parties in their agreement have agreed
+that a judgment of the court shall be entered
+upon the award made pursuant to the arbitra-
+tion, and shall specify the court, then at any
+time within one year after the award is made
+any party to the arbitration may apply to the
+court so specified for an order confirming the
+award, and thereupon the court must grant such
+an order unless the award is vacated, modified,
+or corrected as prescribed in sections 10 and 11
+of this title. If no court is specified in the agree-
+ment of the parties, then such application may
+be made to the United States court in and for
+the district within which such award was made.
+Notice of the application shall be served upon
+the adverse party, and thereupon the court shall
+have jurisdiction of such party as though he had
+appeared generally in the proceeding. If the ad-
+verse party is a resident of the district within
+which the award was made, such service shall be
+made upon the adverse party or his attorney as
+prescribed by law for service of notice of motion
+in an action in the same court. If the adverse
+party shall be a nonresident, then the notice of
+the application shall be served by the marshal of
+Page 4
+TITLE 9—ARBITRATION
+§ 10
+any district within which the adverse party may
+be found in like manner as other process of the
+court.
+(July 30, 1947, ch. 392, 61 Stat. 672.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 9, 43 Stat. 885.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in title 5 sections 580, 581;
+title 41 section 607.
+§ 10. Same; vacation; grounds; rehearing
+(a) In any of the following cases the United
+States court in and for the district wherein the
+award was made may make an order vacating
+the award upon the application of any party to
+the arbitration—
+(1) Where the award was procured by corrup-
+tion, fraud, or undue means.
+(2) Where there was evident partiality or cor-
+ruption in the arbitrators, or either of them.
+(3) Where the arbitrators were guilty of mis-
+conduct in refusing to postpone the hearing,
+upon sufficient cause shown, or in refusing to
+hear evidence pertinent and material to the con-
+troversy; or of any other misbehavior by which
+the rights of any party have been prejudiced.
+(4) Where the arbitrators exceeded their pow-
+ers, or so imperfectly executed them that a mu-
+tual, final, and definite award upon the subject
+matter submitted was not made.
+(5) Where an award is vacated and the time
+within which the agreement required the award
+to be made has not expired the court may, in its
+discretion, direct a rehearing by the arbitrators.
+(b) The United States district court for the
+district wherein an award was made that was is-
+sued pursuant to section 580 of title 5 may make
+an order vacating the award upon the applica-
+tion of a person, other than a party to the arbi-
+tration, who is adversely affected or aggrieved
+by the award, if the use of arbitration or the
+award is clearly inconsistent with the factors
+set forth in section 572 of title 5.
+(July 30, 1947, ch. 392, 61 Stat. 672; Nov. 15, 1990,
+Pub. L. 101–552, § 5, 104 Stat. 2745; Aug. 26, 1992,
+Pub. L. 102–354, § 5(b)(4), 106 Stat. 946.)
+AMENDMENT OF SECTION
+For termination of amendment by section 11
+of Pub. L. 101–552, see Termination Date of 1990
+Amendment; Savings Provision note below.
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 10, 43 Stat. 885.
+AMENDMENTS
+1992—Subsec. (b). Pub. L. 102–354 substituted ‘‘section
+580’’ for ‘‘section 590’’ and ‘‘section 572’’ for ‘‘section
+582’’.
+1990—Pub. L. 101–552 temporarily designated existing
+provisions as subsec. (a), in introductory provisions
+substituted ‘‘In any’’ for ‘‘In either’’, redesignated
+former subsecs. (a) to (e) as pars. (1) to (5), respectively,
+and added subsec. (b). See Termination Date of 1990
+Amendment; Savings Provision note below.
+TERMINATION DATE OF 1990 AMENDMENT; SAVINGS
+PROVISION
+For termination of amendments by Pub. L. 101–552
+and authority to use dispute resolution proceedings on
+Oct. 1, 1995, except with respect to certain pending pro-
+ceedings, see section 11 of Pub. L. 101–552, set out as a
+Termination Date; Savings Provision note under sec-
+tion 571 of Title 5, Government Organization and Em-
+ployees.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in section 9 of this title;
+title 5 sections 580, 581; title 41 section 607.
+§ 11. Same; modification or correction; grounds;
+order
+In either of the following cases the United
+States court in and for the district wherein the
+award was made may make an order modifying
+or correcting the award upon the application of
+any party to the arbitration—
+(a) Where there was an evident material mis-
+calculation of figures or an evident material
+mistake in the description of any person, thing,
+or property referred to in the award.
+(b) Where the arbitrators have awarded upon a
+matter not submitted to them, unless it is a
+matter not affecting the merits of the decision
+upon the matter submitted.
+(c) Where the award is imperfect in matter of
+form not affecting the merits of the con-
+troversy.
+The order may modify and correct the award,
+so as to effect the intent thereof and promote
+justice between the parties.
+(July 30, 1947, ch. 392, 61 Stat. 673.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 11, 43 Stat. 885.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in section 9 of this title;
+title 5 sections 580, 581; title 41 section 607.
+§ 12. Notice of motions to vacate or modify; serv-
+ice; stay of proceedings
+Notice of a motion to vacate, modify, or cor-
+rect an award must be served upon the adverse
+party or his attorney within three months after
+the award is filed or delivered. If the adverse
+party is a resident of the district within which
+the award was made, such service shall be made
+upon the adverse party or his attorney as pre-
+scribed by law for service of notice of motion in
+an action in the same court. If the adverse party
+shall be a nonresident then the notice of the ap-
+plication shall be served by the marshal of any
+district within which the adverse party may be
+found in like manner as other process of the
+court. For the purposes of the motion any judge
+who might make an order to stay the proceed-
+ings in an action brought in the same court may
+make an order, to be served with the notice of
+motion, staying the proceedings of the adverse
+party to enforce the award.
+(July 30, 1947, ch. 392, 61 Stat. 673.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 12, 43 Stat. 885.
+FEDERAL RULES OF CIVIL PROCEDURE
+Service and filing of pleadings and other papers, see
+rule 5, Title 28, Appendix, Judiciary and Judicial Proce-
+dure.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in title 5 sections 580, 581;
+title 41 section 607.
+Page 5 TITLE 9—ARBITRATION § 202
+§ 13. Papers filed with order on motions; judg-
+ment; docketing; force and effect; enforce-
+ment
+The party moving for an order confirming,
+modifying, or correcting an award shall, at the
+time such order is filed with the clerk for the
+entry of judgment thereon, also file the follow-
+ing papers with the clerk:
+(a) The agreement; the selection or appoint-
+ment, if any, of an additional arbitrator or um-
+pire; and each written extension of the time, if
+any, within which to make the award.
+(b) The award.
+(c) Each notice, affidavit, or other paper used
+upon an application to confirm, modify, or cor-
+rect the award, and a copy of each order of the
+court upon such an application.
+The judgment shall be docketed as if it was
+rendered in an action.
+The judgment so entered shall have the same
+force and effect, in all respects, as, and be sub-
+ject to all the provisions of law relating to, a
+judgment in an action; and it may be enforced
+as if it had been rendered in an action in the
+court in which it is entered.
+(July 30, 1947, ch. 392, 61 Stat. 673.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 13, 43 Stat. 886.
+FEDERAL RULES OF CIVIL PROCEDURE
+Books and records kept by district court clerks and
+entries therein, see rule 79, Title 28, Appendix, Judici-
+ary and Judicial Procedure.
+Entry of judgment, see rule 58, Title 28, Appendix.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in title 5 sections 580, 581;
+title 41 section 607.
+§ 14. Contracts not affected
+This title shall not apply to contracts made
+prior to January 1, 1926.
+(July 30, 1947, ch. 392, 61 Stat. 674.)
+DERIVATION
+Act Feb. 12, 1925, ch. 213, § 15, 43 Stat. 886.
+PRIOR PROVISIONS
+Act Feb. 12, 1925, ch. 213, § 14, 43 Stat. 886, former pro-
+visions of section 14 of this title relating to ‘‘short
+title’’ is not now covered.
+§ 15. Inapplicability of the Act of State doctrine
+Enforcement of arbitral agreements, confirma-
+tion of arbitral awards, and execution upon
+judgments based on orders confirming such
+awards shall not be refused on the basis of the
+Act of State doctrine.
+(Added Pub. L. 100–669, § 1, Nov. 16, 1988, 102 Stat.
+3969.)
+CODIFICATION
+Another section 15 of this title was renumbered sec-
+tion 16 of this title.
+§ 16. Appeals
+(a) An appeal may be taken from—
+(1) an order—
+(A) refusing a stay of any action under sec-
+tion 3 of this title,
+(B) denying a petition under section 4 of
+this title to order arbitration to proceed,
+(C) denying an application under section
+206 of this title to compel arbitration,
+(D) confirming or denying confirmation of
+an award or partial award, or
+(E) modifying, correcting, or vacating an
+award;
+(2) an interlocutory order granting, continu-
+ing, or modifying an injunction against an ar-
+bitration that is subject to this title; or
+(3) a final decision with respect to an arbi-
+tration that is subject to this title.
+(b) Except as otherwise provided in section
+1292(b) of title 28, an appeal may not be taken
+from an interlocutory order—
+(1) granting a stay of any action under sec-
+tion 3 of this title;
+(2) directing arbitration to proceed under
+section 4 of this title;
+(3) compelling arbitration under section 206
+of this title; or
+(4) refusing to enjoin an arbitration that is
+subject to this title.
+(Added Pub. L. 100–702, title X, § 1019(a), Nov. 19,
+1988, 102 Stat. 4670, § 15; renumbered § 16, Pub. L.
+101–650, title III, § 325(a)(1), Dec. 1, 1990, 104 Stat.
+5120.)
+AMENDMENTS
+1990—Pub. L. 101–650 renumbered the second section
+15 of this title as this section.
+CHAPTER 2—CONVENTION ON THE REC-
+OGNITION AND ENFORCEMENT OF FOR-
+EIGN ARBITRAL AWARDS
+Sec.
+201. Enforcement of Convention.
+202. Agreement or award falling under the Con-
+vention.
+203. Jurisdiction; amount in controversy.
+204. Venue.
+205. Removal of cases from State courts.
+206. Order to compel arbitration; appointment of
+arbitrators.
+207. Award of arbitrators; confirmation; jurisdic-
+tion; proceeding.
+208. Chapter 1; residual application.
+AMENDMENTS
+1970—Pub. L. 91–368, § 1, July 31, 1970, 84 Stat. 692,
+added heading for chapter 2 and analysis of sections for
+such chapter.
+§ 201. Enforcement of Convention
+The Convention on the Recognition and En-
+forcement of Foreign Arbitral Awards of June
+10, 1958, shall be enforced in United States
+courts in accordance with this chapter.
+(Added Pub. L. 91–368, § 1, July 31, 1970, 84 Stat.
+692.)
+EFFECTIVE DATE
+Section 4 of Pub. L. 91–368 provided that: ‘‘This Act
+[enacting this chapter] shall be effective upon the
+entry into force of the Convention on Recognition and
+Enforcement of Foreign Arbitral Awards with respect
+to the United States.’’ The Convention was entered
+into force for the United States on Dec. 29, 1970.
+§ 202. Agreement or award falling under the Con-
+vention
+An arbitration agreement or arbitral award
+arising out of a legal relationship, whether con-
+
