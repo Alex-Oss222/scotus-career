@@ -7,10 +7,13 @@
 | 1999-10-18 | Flippo v. West Virginia | Summary merits disposition | Remanded to the state courts; preserved independent grounds and harmless error remain open. |
 | 1999-11-29 | Texas v. Lesage | Summary merits disposition | Remanded for the same-decision inquiry and claim-specific proceedings. |
 | 1999-11-30 | Fiore v. White | Certification | Jurisdiction retained; federal judgment reserved pending Pennsylvania's answer. |
+| 1999-12-06 | Paul P. v. Verniero | Merits decision | Affirmed within the questions granted; safeguards remand retained for District Court proceedings. |
 | 1999-12-07 | Drye v. United States | Merits decision | Federal tax-lien judgment affirmed; any necessary accounting remains below. |
+| 1999-12-07 | Los Angeles Police Department v. United Reporting Publishing Corp. | Merits decision | Ninth Circuit judgment set aside; commercial application and treatment of existing relief return to that court. |
 | 1999-12-13 | Rayphand v. Sablan / Torres v. Sablan | Merits decision | Judgment and denial of apportionment relief affirmed; allocation remains in effect. |
 | 2000-01-10 | Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc. | Merits decision | Both federal dismissals affirmed; state-law claims remain outside review. |
 | 2000-01-11 | Kimel v. Florida Board of Regents; United States v. Florida Board of Regents | Merits decision | Both immunity judgments reversed; remanded for ordinary ADEA adjudication. |
+| 2000-01-11 | New York v. Hill | Plenary merits decision | Reversed and remanded; conviction reinstated only against the compact dismissal ground, with other preserved issues open. |
 | 2000-01-12 | Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc. | Merits decision | Reversed and remanded; closure, statutory defenses and penalty issues remain open. |
 | 2000-01-12 | Illinois v. Wardlow | Merits decision | Illinois suppression judgment affirmed; frisk and bag search remain unadjudicated. |
 
@@ -182,6 +185,109 @@ Jurisdiction remains in this Court while the certified question is before the Su
 
 ---
 
+### Paul P. v. Verniero
+
+Merits decision, December 6, 1999
+
+#### Chronology and Posture
+
+Review of the Third Circuit's judgment, 170 F.3d 396, in No. 97-5791. Certiorari granted October 4, 1999; argument or submission November 15, 1999.
+
+The District Court for the District of New Jersey granted the State defendants summary judgment on the privacy challenge. The Third Circuit affirmed that judgment and remanded for consideration of safeguards and material tendered in motions to supplement. The class consists of Tier Two and Tier Three registrants whose offenses followed enactment of New Jersey's notification law. The questions granted concern constitutional protection for nonpublic home-address and identifying information and the governing balancing and dissemination safeguards. The separate ruling about autonomous family relationships is outside review.
+
+#### Judgment
+
+**Judgment:** The Third Circuit's judgment is affirmed within the questions granted, with its safeguards remand retained. The component positions are distinct:
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Public conviction information and the legitimate public-safety notification objective | Affirm; 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer |  |  |
+| Limited constitutional protection for compelled, deliberately disseminated, compiled nonpublic current residential information | Affirm the recognition at this confined scope; 7–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer | Scalia and Thomas | Scalia and Thomas would reject the new substantive-right ground and vacate that ruling. |
+| Summary judgment for the State on the information-disclosure claim | Affirm, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Stone-Zsela | Stone-Zsela would vacate the affirmance insofar as the compelling-interest balance alone defeated the compiled nonpublic home-address and identifying-information disclosure claim, and remand that claim under the fitted-safeguards rule. |
+| Safeguards remand | Retain the remand; 7–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer | Scalia and Thomas | Scalia and Thomas would vacate the directive insofar as it depends on the new substantive right, while preserving W.P.'s independently controlling state-entitlement process. |
+
+The summary-judgment component is affirmed by eight Justices, with six adopting the Court's rationale and Scalia and Thomas agreeing with the judgment only on their no-established-right ground. Stone-Zsela alone would vacate that component in part. Scalia and Thomas's limited vacatur concerns the privacy-right ruling and its dependent safeguards directive, not the State's favorable summary judgment. The seven-Justice safeguards disposition directs consideration in the District Court of whether the actual distribution and protections against unnecessary redisclosure are adequate, including the material offered in the motions to supplement. The motions may be presented there; their allegations are not findings of leakage, violence or official misconduct.
+
+The Court orders no injunction or interim restraint on notification, no new statewide distribution system, damages award, or perfect-containment requirement. Part IV of the Third Circuit's opinion, addressing autonomous family decisionmaking, is outside the questions granted and is left undisturbed without a new merits ruling. The case returns through the Third Circuit for the District Court's safeguards proceedings.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Unanimous affirmance on these propositions | Public conviction information is not concealed by this claim; protecting persons with a concrete safety need is a legitimate and substantial governmental objective. All nine join. |
+| Opinion of the Court, Parts II and III | Kennedy | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer | Seven-Justice recognition and safeguards remand | Limited protection for compiled nonpublic residential information; fitted safeguards and retention of the safeguards remand. Seven join. Scalia and Thomas do not join. |
+| Opinion of the Court, Part IV | Kennedy | Stevens, O'Connor, Souter, Ginsburg, Breyer | Eight-Justice summary-judgment affirmance; six join this rationale | Six join the rationale supporting affirmance of the information-disclosure summary judgment. Scalia and Thomas agree with that judgment only on their no-established-right ground; Stone-Zsela opposes the affirmance. The separate safeguards component retains seven-Justice support. |
+| Opinion concurring in part and dissenting in part | Stone-Zsela |  | Partial dissent from the summary-judgment affirmance | Joins Parts I–III; would vacate the affirmance of summary judgment on the compiled nonpublic home-address and identifying-information disclosure claim and remand that claim under the fitted-safeguards rule. |
+| Opinion concurring in part and dissenting in part | Scalia | Thomas | Judgment-only agreement with the summary-judgment affirmance; partial dissent from the right and dependent safeguards directive | Joins Part I; agrees with the State's information-disclosure summary judgment only on the no-established-substantive-right ground. Rejects the new right and would vacate the privacy-right ruling and safeguards directive insofar as dependent on it, preserving the independent W.P. requirements. |
+
+#### Controlling Propositions and Authority
+
+##### Public conviction information and a protective notification purpose
+
+**Holding and operative rule.** This informational-privacy claim does not confer a right to conceal public conviction information. New Jersey may pursue the legitimate and substantial objective of communicating accurate risk information to persons with a concrete safety need, subject to the separate protection and safeguards governing nonpublic residential information.
+
+**Authority.** Part I of Kennedy's opinion, joined by all eight other Justices, controls both propositions. Their agreement does not extend to every disclosure method or to all of the opinion's later parts.
+
+**Controlling explanation.** The Court holds that a public conviction does not become confidential because notification repeats it or causes adverse attention. Paul v. Davis rejects a constitutional privacy entitlement to conceal the public record of an arrest; its distinction likewise forecloses treating public conviction facts themselves as private. That conclusion does not decide the different injury alleged from deliberate dissemination of a nonpublic current residential location. Protecting persons likely to encounter an offender is a legitimate governmental function. The present holding approves that objective, not every audience, datum or later use selected in its name. Recognition of the objective leaves the Court's separate residential-information inquiry necessary.
+
+##### Limited protection for compiled nonpublic residential information
+
+**Holding and operative rule.** When the State compels collection and deliberately disseminates compiled nonpublic current home-address and associated identifying information in a manner exposing the home and household to outside contact, the Fourteenth Amendment protects a limited personal privacy interest against disclosure lacking a sufficient connection among the information, its recipients and the protective purpose. The protection does not extend merely by reason of government possession to public convictions, every identifying datum, every address available elsewhere, or all government-held information; actual public availability matters, but theoretical inspectability alone does not establish prior dissemination.
+
+**Authority.** Part II of Kennedy's opinion is joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. These seven Justices directly adopt this limited extension and its boundaries; no combination of separate rationales is needed.
+
+**Controlling explanation.** The Court holds that exposing a nonpublic household location differs from repeating the public fact of conviction. Sheets v. Salt Lake County protects intimate marital and family information against intentional official dissemination without sufficient governmental justification. Its attention to actual exposure, rather than possession or ownership alone, supports this limited extension to the deliberate dissemination of compiled residential information. Doe v. SEPTA assumed a medical-information interest and rejected a claim arising from confined benefits administration; it neither established a general right nor authorized public dissemination detached from the governmental function. Its reservation leaves this outward disclosure question open. The objection that addresses are often readily found does not answer whether these current residential locations are nonpublic and what exposure the State's compilation and distribution produce. Conversely, privacy does not follow from an individual's preference alone. The Court recognizes no general secrecy entitlement in identifiers, no universal constitutional balancing formula, and no independent constitutional rule for the effort needed to assemble otherwise public scattered data. The interest here rests on nonpublic residential exposure, not embarrassment about a conviction.
+
+##### Notification requires safeguards fitted to its protective function
+
+**Holding and operative rule.** Disclosure of protected residential information through Tier Two or Tier Three notification must reasonably fit the notification's protective function: the actual information and recipient audience must have a sufficient safety connection, and safeguards must constrain unnecessary disclosure and redistribution. The protective objective alone does not establish that every distribution or subsequent use is justified; the District Court must consider the adequacy of safeguards on the actual record, without a universal least-restrictive-means requirement, a guarantee of perfect containment, a prescribed assurance form, or a newly established proof quantum.
+
+**Authority.** Part III of Kennedy's opinion is joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. These seven Justices adopt both the rule and retention of the safeguards remand.
+
+**Controlling explanation.** The Court holds that a proper reason to notify one audience is not a sufficient reason to expose the same information to everyone. Sheets requires a governmental justification for the actual disclosure; Doe preserves the distinction between functionally confined use and outward dissemination. Those principles permit practical public-safety notification while requiring attention to recipients, scope, use, confidentiality and redistribution. The danger that information cannot be recalled supports a concrete safeguards inquiry, not a ban on all notification. The motions tendered first to the Court of Appeals belong before the District Court for consideration of the challenged applications and any appropriate response; their contents are not adjudicated facts. The Court does not determine whether particular existing precautions are adequate, whether particular alleged harm occurred, or whether every recipient's later speech is attributable to the State. It prescribes no restriction on independently protected private expression. W.P.'s independent state-entitlement and ordinary advance-process requirements remain at their actual scope; this decision neither enlarges its class nor converts its four-Justice notification-plan proof rationale into a general controlling standard.
+
+##### The notification provisions remain available while application-specific safeguards are examined
+
+**Holding and operative rule.** Recognition of the limited residential interest does not invalidate the notification provisions as a matter of law: properly directed public-safety notification may disclose protected information. The summary judgment rejecting the challenge to those provisions is affirmed, while the distinct remand permits the District Court to examine whether the ways notification is applied provide adequate protection against unnecessary disclosure.
+
+**Authority.** Part IV of Kennedy's opinion is joined by Stevens, O'Connor, Souter, Ginsburg and Breyer. These six Justices supply the controlling legal explanation; Scalia and Thomas add judgment-only votes to make the information-disclosure affirmance 8–1, on their no-established-substantive-right ground. Stone-Zsela joins the substantive protection and safeguards rule but opposes this affirmance and does not join its rationale. The two judgment-only votes add no support to Part IV's reasoning.
+
+**Controlling explanation.** The Court holds that the protected interest and the public-safety function can coexist. The challenge to notification as a matter of law cannot succeed merely because a properly selected safety audience receives residential information. The State's substantial protective interest supports that limited legal conclusion; it is not a finding that all present applications are sufficiently confined. The Court of Appeals separately required examination of the information offered about actual distribution and safeguards, so affirmance does not extinguish that inquiry. The objection that summary judgment must be vacated until safeguards are adjudicated treats the permitted notification function and its challenged implementation as inseparable. The six Justices preserve the judgment against the former challenge and the remand concerning the latter. They do not resolve the contents of the sealed motions, approve any unproved dissemination, or bar relief that the safeguards proceedings lawfully establish. No independently sufficient alternative ground, categorical denial of privacy, or generalized seven-factor test is adopted.
+
+#### Precedent Treatment
+
+- **Paul v. Davis, 424 U.S. 693 (1976):** Applied to public arrest and conviction information and the boundary against reputation alone; it does not foreclose the distinct nonpublic residential-disclosure interest recognized here.
+- **Whalen v. Roe, 429 U.S. 589 (1977):** Its distinction between avoiding disclosure of personal matters and autonomous decisionmaking remains. As developed in Sheets, its confidentiality foundation permits safeguarded governmental information functions; no universal compelling-interest or least-intrusive-means formula is drawn from it.
+- **Sheets v. Salt Lake County, April 29, 1996:** Its protection against unjustified intentional official dissemination of intimate marital and family information is extended to the confined residential exposure described here. Its limits concerning actual disclosure, public inspectability, government justification and private speech remain.
+- **Doe v. Southeastern Pennsylvania Transportation Authority, May 5, 1997:** Distinguished because its assumed-right holding concerns confined benefits administration. It remains an assumed-right application and supplies neither a general informational-privacy right nor the lower court's seven-factor constitutional formula.
+- **W.P. v. Verniero, March 16, 1998:** Preserved at its actual scope. Ordinary Tier Two or Tier Three notification for its pre-enactment-offense class requires meaningful advance review of classification and plan, with State persuasion; risk classification requires clear and convincing proof. Its retained plan injunction binds that litigation, but its plan-specific proof reasoning has only four joins and establishes no general plan-proof quantum. Its state-entitlement basis, civil-notification punishment ruling and reserved emergency question are unchanged. The present post-enactment-offense class gains the substantive protection stated here without reopening or enlarging W.P.'s adjudicated components.
+
+No precedent is overruled. The statutory privacy decisions discussed below are not transformed into constitutional commands; this decision adopts no independent rule that compilation alone makes public information constitutionally private.
+
+#### Law After Decision
+
+As of December 6, 1999, the Fourteenth Amendment supplies a limited protection against unjustified deliberate official dissemination of compiled nonpublic current residential information exposing a home and household to outside contact. This extends Sheets beyond its intimate marital-information setting without establishing a general right to control government-held information. A sufficient connection among information, safety audience and protective function, together with reasonably fitted safeguards against unnecessary disclosure and redistribution, governs the notification at issue.
+
+Public conviction information remains outside this secrecy claim. Properly directed notification remains permissible, and the eight-Justice affirmance of the information-disclosure summary judgment, supported by a six-Justice controlling rationale, coexists with the seven-Justice safeguards remand. Doe retains its assumed-right, confined-use holding; W.P.'s independent state-entitlement and procedural rules retain their existing limits. No general heightened plan-proof standard, automatic secrecy for all compiled public records, liability for private redistribution, or categorical restraint on notification follows.
+
+#### Separate Positions Relevant to the Decision
+
+**Chief Justice Stone-Zsela, concurring in part and dissenting in part.** He joins Parts I–III: public conviction information is unprotected by this claim, the State has a legitimate protective objective, compiled nonpublic residential information carries a limited privacy interest, and disclosure needs safeguards reasonably fitted to its protective function. He dissents from affirming summary judgment insofar as a compelling-interest balance alone defeats the claim concerning compiled nonpublic home-address and identifying information. In his view, the safeguards inquiry determines whether that disclosure is justified and therefore must govern adjudication of the claim itself, not only an ancillary examination of implementation after its rejection. He would vacate that part of the affirmance and remand the claim for decision in the District Court under the fitted-safeguards rule, together with the retained safeguards proceedings. His position requires meaningful controls on recipients, use, scope, confidentiality and redistribution, while allowing targeted notification to persons with an actual safety need. It conceals no public conviction, imposes no injunction or interim restraint, and leaves the ungranted family-relationships ruling undisturbed.
+
+**Justice Scalia, joined by Justice Thomas, concurring in part and dissenting in part.** They agree with Part I's public-conviction and legitimate-purpose propositions but reject extending substantive due process to this residential-information claim. Their Sheets dissents and Doe concurrences distinguish a supported constitutional source from a desire to restrict the government's handling of information. A home address is not rendered constitutionally intimate simply through compilation, and W.P.'s protection rests on an independent state-created substantive restriction rather than a universal federal information right. They affirm the State's information-disclosure summary judgment because the proposed substantive constitutional right has not been established, without joining the Court's limited-interest and balancing rationale. They would vacate the privacy-right ruling and the safeguard directive insofar as dependent on it, and remand consistently with that rejection while preserving W.P.'s existing independent process requirements. They neither adopt Stone-Zsela's right-based merits remand nor deny every possible constitutional protection of the home.
+
+#### Source Notes
+
+The published lower-court opinion, [Paul P. v. Verniero, 170 F.3d 396](https://www.sillscummis.com/wp-content/uploads/2021/07/170_F3d_396.pdf), supplies the class, procedural posture, district-court ruling, appellate disposition, and the existence and treatment of the motions to supplement; an [independent reproduction](https://openjurist.org/170/f3d/396/paul-q-v-verniero) supplies the same opinion. The Court's decision rests on the disclosed legal question and the remand's record limits: the sealed motion contents do not establish new findings here, and the actual sufficiency of particular dissemination safeguards remains for the District Court. The grant and argument-or-submission dates identify this Court's calendar; the Third Circuit's own argument occurred July 9, 1998 and its judgment issued March 16, 1999. No later proceeding supplies a factual premise or legal rule for this decision.
+
+#### Mandate, Remedy, and Stage
+
+Supreme Court merits review is concluded. The case returns through the Third Circuit to the District Court for the safeguards proceedings already directed, including consideration of the material the parties sought to add and any relief its supported findings warrant. The summary-judgment component remains affirmed as stated; the family-relationships ruling remains outside this review. There is no new injunction, interim restraint, filing deadline, presumption of misconduct, or ordered follow-up in this Court.
+
+**End of entry: Paul P. v. Verniero, merits decision, December 6, 1999.**
+
+---
+
 ### Drye v. United States, No. 98-1101
 
 Merits decision, December 7, 1999
@@ -231,6 +337,99 @@ The Eighth Circuit's judgment and the published record at 528 U.S. 49 support th
 The Eighth Circuit's judgment remains in place. Any necessary accounting remains below under otherwise governing law; the Court orders no new valuation or distribution proceeding and decides no additional liability.
 
 **End of entry: Drye v. United States, merits decision, December 7, 1999.**
+
+---
+
+### Los Angeles Police Department v. United Reporting Publishing Corp., No. 98-678
+
+Merits decision, December 7, 1999
+
+#### Chronology and Posture
+
+Argued October 13, 1999. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, 146 F.3d 1133. The questions concern First Amendment review of California's purpose and sales-use conditions on access to current arrest addresses, the publisher's maintained claims of its own injury, and the permissible scope of judgment and relief. Only LAPD appealed the district judgment.
+
+#### Judgment
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Effect |
+|---|---|---|---|---|
+| Ninth Circuit judgment | Set aside and remanded, 7–2 | Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Stevens, Kennedy | Stone-Zsela agrees in this judgment only; the seven do not share a single rationale |
+| Adjudicated commercial application | Remains open on remand, 5–4 | Stone-Zsela, Souter, Thomas, Ginsburg, Breyer | Stevens, O'Connor, Scalia, Kennedy | No present holding that the commercial-use classification is valid or invalid |
+
+No instruction concerning dissolution or continuation of the existing declaratory and injunctive relief commands five votes. The Court issues neither instruction. The Ninth Circuit addresses the actual decree and the parties properly before it under governing law. The separate reported restraint on the Attorney General is not dissolved through LAPD's appeal. No universal disclosure order, damages, fees, replacement privacy scheme, special mandate date or guarantee of interim protection is entered.
+
+#### Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court in Parts I–II; opinion announcing the judgment and plurality in Part III | Breyer | Souter, Thomas and Ginsburg throughout; Stone-Zsela in Part I; Stevens, O'Connor, Scalia and Kennedy in Parts I–II | Announces set-aside and remand; Part III explains the four-Justice open-application position | Part I has nine joins, Part II eight, Part III four |
+| Concurring in part and dissenting in part | Stone-Zsela | No other Justice | Judgment-only agreement on set-aside; agrees commercial application remains open; would vacate the permanent injunction now | Joins Part I; separate facial and remedy analysis |
+| Concurring in part and dissenting in part | O'Connor | Scalia | Would resolve the confined commercial application for the State | Joins Parts I–II; rejects leaving that application open |
+| Concurring in part and dissenting in part | Stevens | Kennedy | Would affirm the commercial application-invalidity determination and confine relief accordingly | Joins Parts I–II; opposes setting aside and reopening that determination |
+
+#### Controlling Propositions and Authority
+
+##### 1. A speech-selected access and use condition requires First Amendment review.
+
+When the State makes covered records available but denies access or restricts use because the requester intends truthful, lawful commercial solicitation or the conceded commercial address-distribution activity, the condition is subject to the governing commercial-speech standard. The absence of a general right to government information does not exempt that selection: the State must identify a substantial interest, establish real harm and material advancement, and show reasonable fit.
+
+**Authority:** Part I of Breyer's opinion, joined by all eight other Justices, is unanimous on this rule. It does not resolve the disputed commercial application.
+
+**Controlling explanation:** Lanphere separates a general demand for records from a condition selecting among intended speech uses. Houchins supplies no universal right to information; it does not answer the different condition question. Central Hudson supplies review of lawful, nonmisleading commercial activity; Edenfield requires real harm and material advancement; Fox requires reasonable fit without demanding the least restrictive means. The lawful, nonmisleading premise accepted below remains operative for that activity and does not require production of each future letter. Privacy is a substantial interest, but its existence does not itself prove the validity of this selected line. No right to creation of lists, universal criminal-file access, protection for deception or coercion, or exemption from neutral confidentiality follows. Profit motive alone does not settle the classification of the Register's editorial or mixed material. The separately described own-direct-sales proposal and independently acquired information are not adjudicated through the accepted premise below.
+
+##### 2. The publisher's own claim is not disposed of by labeling the judgment facial.
+
+A plaintiff that pleaded and maintained injury from a rule applied to its own activity may litigate that application without relying on absent speakers' rights. Commercial overbreadth cannot replace proof of a violation, but the existence of valid regulation against deception, coercion or harassment does not by itself establish the validity of this categorical condition; any relief must fit the established violation and equitable need.
+
+**Authority:** Part II of Breyer's opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, supplies eight votes. Stone-Zsela does not join this part.
+
+**Controlling explanation:** Lanphere's application-specific adjudication and relief require attention to the actual claimant and burden. Broadrick and Ferber's exceptional facial-overbreadth principles do not eliminate a maintained own-injury claim or establish universal relief for commercial speech. Petitioners acknowledged facial and as-applied pleading; the publisher continued to assert its own denial and actual address-service activity. The Register also contains substantive editorial material. Neither the lower courts' facial description nor a contested cross-petition argument establishes abandonment. These facts require consideration of the actual claims; they do not establish their merits, classify every communication, or prove that the signed decree exceeds lawful bounds.
+
+##### 3. Alternative grounds and distinct claims retain their proper appellate scope.
+
+A record ground may defend an existing favorable judgment without a cross-petition when it does not enlarge that judgment; overturning a distinct adverse judgment or enlarging relief requires the necessary review. The maintained Register theory, separately described direct-sales use, and actually preserved alternative grounds remain for consideration within that distinction, without a present ruling on their merits.
+
+**Authority:** Part II and the same eight-Justice coalition control this rule and reservation.
+
+**Controlling explanation:** X-Citement Video preserves record-based grounds supporting a favorable judgment while respecting the limit on affirmative enlargement. It does not require immediate adjudication of every alternative. The actual relief sought and granted must be identified before that rule is applied here. The Court decides no vagueness, equal-protection, due-process, state-constitutional or separate statutory-entitlement question. The Register theory, subscriber/address-service activity and proposed own-direct-sales use remain distinct; an asserted denial for inability to certify does not establish an agency decision on a completed request limited to qualifying journalism.
+
+**Judgment without a single controlling rationale on the commercial remand.** Five Justices leave the commercial application open, but only four join Part III's explanation. Stone-Zsela's different facial and remedial ground does not form a logical subset of that explanation. O'Connor and Scalia would sustain the commercial application, and Stevens and Kennedy would invalidate it. No unified rationale under Marks is adopted. The common legal standards above control; the plurality's detailed assessment of privacy predictions and proposed treatment of relief do not become holdings.
+
+#### Precedent Treatment
+
+- Lanphere & Urbaniak v. Colorado is applied to the speech-selected access/use condition and to application-specific relief; no universal right to government records is added.
+- Houchins v. KQED is preserved on the absence of a general access entitlement and distinguished from scrutiny of conditions in an existing disclosure program.
+- Central Hudson supplies commercial-speech review; Cincinnati v. Discovery Network supplies the required relation between the selected category and the harm; Edenfield v. Fane supplies real-harm and material-advancement requirements. None decides this disputed application by label alone.
+- Board of Trustees v. Fox supplies reasonable fit, preserving the distinction from least-restrictive-means review.
+- Broadrick v. Oklahoma and New York v. Ferber retain their facial-overbreadth limits without foreclosing the plaintiff's own claim.
+- United States v. X-Citement Video is applied to alternative grounds defending a judgment and the separate requirement for enlarging relief.
+- Paul P. v. Verniero supports the limited residential-privacy interest. It does not decide whether California's commercial distinction materially advances that interest or reasonably fits the burden.
+- Marks v. United States supplies no unified rationale where these grounds lack the necessary logical relationship. No precedent is overruled.
+
+#### Law After Decision
+
+Government ownership of the information does not end First Amendment review of a speech-selected access/use condition. Lanphere's scrutiny and application-specific remedial limits remain governing law. The publisher's maintained own claims must be treated as such. The commercial classification's validity and the actual relief remain unresolved; neither a universal access entitlement nor facial invalidation follows.
+
+The statute's distinct restrictions remain distinct. Paragraph (3) addresses current addresses and requires a declaration under penalty of perjury of a scholarly, journalistic, political or governmental purpose, or investigation by a qualifying licensed private investigator, plus a separate declaration under penalty of perjury against direct or indirect use to sell products or services. The sales-use prohibition applies to information obtained under that paragraph; a permitted purpose does not exempt the requester from it. Item-specific danger to a person involved in an investigation or to successful completion of that investigation or a related investigation remains a separate limit. Mandatory confidentiality for addresses of victims of crimes under Penal Code §§220, 261, 262, 264, 264.1, 273a, 273d, 273.5, 286, 288, 288a, 289, 422.6, 422.7, 422.75 and 646.9 is not converted into discretionary withholding. Paragraph (2)'s distinct requested victim-name withholding and multi-crime deletion rules do not substitute for that mandatory address rule. The incorporated §841.5 and other source-specific restrictions are neither displaced nor construed here.
+
+#### Separate Positions Relevant to the Decision
+
+**Breyer's Part III, joined by Souter, Thomas and Ginsburg.** These four would vacate and remand for application of Lanphere to the actual maintained claims. The database theory's evidentiary failure differs from the separate home/privacy justification. Statutory permission to publish does not establish equal practical dissemination, while petitioners' assertions about journalists and resellers are not adjudicated facts. The current-address and statutory-source limits, permitted purposes and actual effects require comparison; if advancement is established, the previously unaddressed fit inquiry remains. A supported narrower decision on the existing record is permissible, with no mandatory new trial, numerical studies, regulation of every independent source, or least-restrictive-means requirement. Ordinary procedural rules govern supplementation; the waived cost challenge is not reopened. The four would reconsider existing relief against the actual claims and decree; that particular instruction lacks a fifth vote.
+
+**Stone-Zsela, concurring in part and dissenting in part.** He joins the Lanphere access/use standard and agrees that the appellate judgment must be set aside and the commercial application left open. He would reverse the facial judgment and vacate the permanent injunction now because lawful safety, privacy, deception, coercion and investigative applications defeat the broad facial judgment. That remedy does not approve the commercial-use classification. A maintained, preserved and proved denial of otherwise available records because of intended truthful, lawful solicitation remains subject to real-harm, material-advancement and reasonable-fit review and may support narrower relief. Neutral nondisclosure, redaction, fees, anti-harassment and deception rules remain available. He leaves discriminatory administration, independently acquired information and properly preserved alternative theories open. He does not join the plurality's reason for vacatur or its proposed treatment of the existing relief.
+
+**O'Connor, joined by Scalia, concurring in part and dissenting in part.** They accept Lanphere scrutiny but would sustain the confined condition for the conceded commercial address-distribution/solicitation activity. Protection at the point of official disclosure, the limitation to current addresses and information acquired by this statutory route, and retention of public-information and investigative access provide sufficient advancement and fit. Their position adopts no disputed newspaper-frequency finding or unreliable-database prediction. They distinguish Discovery Network's physical equivalence and 44 Liquormart's suppression of price information from protecting another person's address; no comparative numerical study is necessary. They would remove or modify relief dependent solely on the rejected commercial ground, preserve independently supported protection, and leave distinct editorial, statutory-journalism and other claims to their own treatment. They do not direct dismissal of the entire action or a restriction on independently acquired information.
+
+**Stevens, joined by Kennedy, concurring in part and dissenting in part.** They would affirm the conclusion that the condition is invalid as applied to the adjudicated lawful, nonmisleading address-service activity. Lanphere, Discovery Network and Edenfield require the State to justify this selected line. The permitted nonsales uses, potentially including public dissemination, undermine the asserted reason for withholding the same addresses for protected commercial distribution; the record's unsupported database theory supplies no alternative. They reject the existing justification without demanding regulation of every outside source or proof of every future publication, and do not hold that unwanted mail never affects privacy. Shapero protects the conceded lawful solicitation. Having found advancement insufficient, they do not reach fit. They would confine relief to this application and the proper parties, limiting a decree if it exceeds that supported scope without presuming that it does. They would not reopen those commercial merits or command access contrary to independent safety and confidentiality restrictions.
+
+#### Source Notes
+
+The [petition, merits submissions and appendix in No. 98-678](https://archive.org/details/micro_IA40385014_0239) supply the judgments below, statutory reproduction, pleading acknowledgment, newspaper exhibits and reported relief. The original complaint, cited underlying excerpt volumes and final signed decree are not separately reproduced; the acknowledged own-injury pleading and reported injunction remain distinct from their unavailable exact texts. Petitioners' descriptions of typical journalistic and commercial use remain arguments, not findings. The statute's reproduced text retains cross-references to §§6254.7 and 6254.13, Penal Code §841.5 and the referenced crime and licensing provisions; their separate texts are not construed or assumed away. The published record at 528 U.S. 32 supports the argument date and litigation posture.
+
+#### Mandate, Remedy, and Stage
+
+The Ninth Circuit's judgment is set aside and the case returns to that court. The commercial application is open under the governing scrutiny and own-injury rules; the distinct maintained claims remain subject to ordinary preservation and review limits. The Ninth Circuit addresses the existing declaratory and injunctive relief and the actual decree. This Court neither dissolves nor continues that relief and does not dispose of an independent restraint on a nonappealing party. Ordinary judgment-transmission and appellate procedures apply; no special effective date or additional Court event is ordered.
+
+**End of entry: Los Angeles Police Department v. United Reporting Publishing Corp., merits decision, December 7, 1999.**
 
 ---
 
@@ -449,6 +648,100 @@ Both cases return for ordinary adjudication of ADEA coverage, alleged discrimina
 
 ---
 
+### New York v. Hill, No. 98-1299
+
+Plenary merits decision, January 11, 2000
+
+#### Chronology and Posture
+
+Argued November 2, 1999. On writ of certiorari to the New York Court of Appeals, 92 N.Y.2d 406, 704 N.E.2d 542 (1998).
+
+The question is whether counsel's express agreement to a specified trial date beyond the Interstate Agreement on Detainers' Article III(a) period binds the represented prisoner without personal assent, and whether this agreement suffices. Hill invoked Article III while imprisoned in Ohio. Counsel agreed on January 9, 1995 to a May 1 trial; the trial court found 167 nonexcludable days had elapsed. Hill moved to dismiss on April 17 before trial. Following his murder and robbery convictions and the Appellate Division's affirmance, the Court of Appeals ordered dismissal, distinguishing acceptance of a prosecutor-proposed date from an affirmative request for inconsistent treatment. New York seeks reversal; remaining preserved issues are not resolved here.
+
+#### Judgment
+
+**Reversed and remanded, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The conviction is reinstated as against the Article III(a)/Article V(c) dismissal ground, and the case is remanded for any preserved state or federal issue the court below did not resolve. This removes the compact ground for dismissal without deciding those other issues or ordering unconditional reinstatement.
+
+#### Opinion Topology
+
+Justice Stevens delivers the Opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine join every controlling proposition and the bounded remedy. No separate writing issues.
+
+#### Controlling Propositions and Authority
+
+**Common authority:** The opinion of the Court supplies nine direct votes for each of the four propositions below at the stated level of generality.
+
+##### Counsel may bind a represented prisoner to an expressly agreed trial date
+
+**Holding and operative rule:** When defense counsel expressly agrees, before expiration of Article III(a)'s period, to a specified trial date beyond that period, the represented prisoner may not obtain dismissal because the agreed date exceeded the deadline, absent a contemporaneous objection or reservation when the date is set, a conflict, or a showing that counsel lacked authority in the particular proceeding. The prisoner need not personally attend, repeat the agreement, or undergo a waiver colloquy for this scheduling act; the rule does not authorize counsel to override an express timely objection.
+
+**Controlling explanation:** The Court holds that choosing the date of a contested trial ordinarily belongs to counsel's management of the case. Taylor v. Illinois supplies the distinction between professional trial management, which binds the represented accused, and basic personal choices that counsel cannot surrender. Jones v. Barnes likewise preserves the accused's ultimate choices while allowing counsel to conduct the litigation. Article III(a) contains no command that the prisoner personally make this scheduling decision. Requiring a personal colloquy for each genuine accommodation would impair counsel's coordination of preparation, witnesses, competing proceedings and the court's calendar.
+
+That classification supplies the authority to agree. The absence of a statutory prohibition, standing alone, does not make every statutory protection waivable. Mezzanatto concerns a particular knowing and voluntary impeachment agreement; it supplies no universal waiver rule. Olano requires attention to the right and distinguishes affirmative relinquishment from mere inaction. Brookhart preserves the accused's basic choice to contest guilt against counsel's contrary surrender; a date agreement does not abandon that defense.
+
+The holding is confined to genuine, unqualified agreement within counsel's authority. It neither permits wholesale surrender of the compact nor approves indefinite or bad-faith delay or delay beyond the agreed date. The agreement here preceded expiration; the effect of consent first given afterward is not presented or decided. Coercion, misunderstanding, ineffective assistance and an actual conflict remain distinct questions on their own predicates. No such predicate is established here, and the Court imposes no new hearing, personal-advice requirement or burden of proof.
+
+##### Counsel's January 9 agreement supplies the required assent
+
+**Holding and operative rule:** Counsel's express January 9, 1995 agreement to the May 1 trial date binds Hill as to that date. Express acceptance has the same effect as proposing the identical date; neither an Article III citation, proof of deadline-specific advice nor separate personal authorization is required for this scheduling decision.
+
+**Controlling explanation:** Hill initiated the Article III process while imprisoned in Ohio. The trial court found that 167 nonexcludable days had elapsed when counsel agreed to the date. The agreement therefore preceded expiration on the accepted computation. Hill's initial request established his entitlement to the statutory timetable; it did not place every later calendar decision beyond counsel's authority.
+
+The Court of Appeals permitted explicit waiver or an affirmative request for treatment inconsistent with the Agreement, but distinguished counsel's acceptance of a date the prosecutor proposed. That distinction cannot govern the legal effect of the same affirmative scheduling choice. Counsel did more than remain silent: he expressly accepted May 1 in court. The rule rests on that act, not an assumed strategy, knowledge of the precise deadline, or Hill's personal attendance or assent.
+
+Hill's April 17 motion was made before trial and preserves his legal challenge to the agreement's effect. It was not a contemporaneous objection or reservation when the date was set, and does not restore a dismissal entitlement defeated by the valid agreement. The Court rejects the motion on that ground, not for failure to preserve it. The Court decides no general rule governing withdrawal of consent or a later request to change the schedule on an independently available ground.
+
+##### A date agreement does not replace the compact's statutory conditions
+
+**Holding and operative rule:** An effective agreement to a particular trial date is distinct from an Article III(a) continuance or Article VI(a) tolling. Article III(a) permits a necessary or reasonable continuance only for good cause shown in open court with the prisoner or counsel present; Article VI(a) separately tolls time while the prisoner is unable to stand trial, as determined by the court with jurisdiction.
+
+**Controlling explanation:** Fex v. Michigan supplies Article III(a)'s commencement rule: for a prisoner serving a term of imprisonment who seeks final disposition of an untried charge supporting a detainer in another participating State, the 180 days begin only upon actual receipt of the required written notice and disposition request by both the prosecuting officer and the appropriate court. Delivery to the custodian alone does not start the period. Its separate continuance and inability provisions remain operative.
+
+The statutory permission for either prisoner or counsel to be present is consistent with counsel's scheduling role. Presence is not itself good cause. The Court finds neither a qualifying continuance nor inability to stand trial as an independent justification for the January-to-May interval. The proviso governing judicial extensions does not displace counsel's ordinary authority to agree to this particular date. The compact's interests in prompt disposition, cooperation and rehabilitation neither eliminate the proviso's conditions nor make every affirmative agreement ineffective.
+
+The accepted exclusions for pending defense motions are part of the trial court's computation in this case; they establish no rule of automatic motion-pendency tolling. The Court supplies no new receipt or expiration date and no grace period. This prisoner-initiated Article III case decides no Article IV(c) question. Other compact protections, including anti-shuttling requirements, retain their own predicates and are not surrendered by this date agreement.
+
+##### The agreement defeats this dismissal ground, while the statutory remedy remains mandatory for an actual violation
+
+**Holding and operative rule:** Article V(c) requires dismissal with prejudice when the applicable trial period is violated without an effective agreement or applicable statutory exception; no additional showing of defense impairment or bad faith, and no harmlessness exception, is imposed. Because Hill's agreement defeats the asserted Article III(a)/Article V(c) ground, the Court reverses the judgment dismissing the indictment, reinstates the conviction as against that ground, and remands for any preserved state or federal issue not resolved below.
+
+**Controlling explanation:** Article V(c)'s mandatory remedy does not answer the antecedent question whether the agreed date can constitute the violation asserted. It cannot do so here. The provision's separate refusal-or-failure-to-accept-temporary-custody ground remains intact and is not presented. When dismissal is required, the detainer based on the dismissed charge also loses force.
+
+Reed v. Farley addresses collateral relief for an assumed compact violation. Its collateral threshold supplies no prejudice prerequisite for this preserved direct-review claim and no independent waiver finding. The Court removes the legal ground on which the Court of Appeals dismissed the indictment; it does not decide other preserved challenges to the conviction or order unconditional reinstatement free of their consideration.
+
+#### Precedent Treatment
+
+- **Taylor v. Illinois, 484 U.S. 400, 417–418 (1988):** Its distinction between counsel's trial management and the accused's basic personal choices is applied to the express selection of a trial date. Its particular discovery-misconduct facts are not attributed to Hill.
+- **Jones v. Barnes, 463 U.S. 745, 751–754 (1983):** Its division between professional litigation management and the accused's ultimate choices supports counsel's scheduling authority; the accused retains the decisions whether to plead guilty, waive a jury, testify and take an appeal.
+- **Brookhart v. Janis, 384 U.S. 1, 7–8 (1966):** Its prohibition on counsel surrendering the practical substance of a not-guilty defense over the accused's express objection remains intact; this date agreement does not make that surrender.
+- **Fex v. Michigan, February 23, 1993:** Its actual-receipt trigger, qualified continuance power, separate inability tolling and mandatory dismissal rule remain unchanged. Today's decision adds the effect of an authorized express date agreement; Fex itself did not decide that question.
+- **United States v. Olano, April 26, 1993:** Its distinction between intentional relinquishment and inaction, with right-specific waiver requirements, is applied. Its Rule 52(b) prejudice allocation does not govern Hill's preserved motion.
+- **Godinez v. Moran, June 24, 1993:** Its separation of competence from informed and voluntary personal waiver remains intact. Neither competence nor representation supplies a finding of Hill's personal assent, and personal plea or counsel-waiver requirements do not govern routine scheduling.
+- **Reed v. Farley, June 20, 1994:** Its recognition of the compact as federal law is applied; its statutory collateral-relief threshold is distinguished from direct review. Reed supplies neither a merits waiver nor a defense-impairment requirement here.
+- **United States v. Mezzanatto, January 18, 1995:** Its limited enforcement of a knowing and voluntary impeachment agreement is consistent with giving lawful consent its actual effect, but is not expanded into a general statutory-waiver presumption or a rule allocating this decision to counsel.
+- **Libretti v. United States, November 7, 1995:** Its limits on consent remain: an agreement cannot enlarge statutory punishment or replace a required substantive predicate. Its particular forfeiture-verdict waiver does not require the prisoner's personal colloquy for this separately classified scheduling act.
+
+#### Law After Decision
+
+Effective January 11, 2000, the compact's existing 180-day framework includes the controlling rule that counsel's authorized, unqualified express agreement before expiration binds the prisoner as to a specified later trial date, with the contemporaneous-objection, reservation, conflict and authority limits stated above. Acceptance and proposal are equivalent for that act. No former holding is overruled. The actual-receipt trigger, statutory continuance and inability conditions, and Article V(c)'s remedy remain in force; no general statutory-waiver doctrine, automatic motion-tolling rule or direct-review prejudice prerequisite is adopted.
+
+#### Source Notes
+
+The compact's statutory provisions appear in [Public Law 91-538, 84 Stat. 1397](https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1397.pdf). The reported procedural history, 528 U.S. 110, 111–113, supplies the January 9 agreement, the trial court's 167-day computation and the April 17 pretrial motion. The New York judgments are reported at 244 App. Div. 2d 927, 668 N.Y.S.2d 126 (1997), and 92 N.Y.2d 406, 704 N.E.2d 542 (1998). [Taylor](https://www.govinfo.gov/content/pkg/USREPORTS-484/pdf/USREPORTS-484-400.pdf), [Jones](https://www.govinfo.gov/content/pkg/USREPORTS-463/pdf/USREPORTS-463-745.pdf) and [Brookhart](https://www.govinfo.gov/content/pkg/USREPORTS-384/pdf/USREPORTS-384-1.pdf) supply the counsel/accused distinctions stated above.
+
+The record does not establish Hill's personal attendance, knowledge, assent or contemporaneous objection, counsel's knowledge of the precise deadline, or an independent good-cause finding. The decision does not infer those facts and does not supply exact receipt or expiration dates beyond the trial court's accepted computation.
+
+#### Mandate, Remedy, and Stage
+
+The case returns to the New York courts. They must give effect to the binding agreement to the May 1 date and may address any preserved state or federal issue left unresolved below. The Court decides no independent constitutional speedy-trial, ineffective-assistance or anti-shuttling claim and orders no new hearing or deadline. Reinstatement remains limited to removing the Article III(a)/Article V(c) dismissal ground.
+
+**End of entry: New York v. Hill, plenary merits decision, January 11, 2000.**
+
+---
+
 ### Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc., No. 98-822
 
 Merits decision, January 12, 2000
@@ -592,10 +885,3 @@ The Illinois Supreme Court's suppression judgment stands. No further ruling on t
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Paul P. v. Verniero | The approved disposition does not identify the portion of the lower judgment to be vacated; that controlled remedy must be specified before a complete decision can be entered. |
-| Los Angeles Police Department v. United Reporting Publishing Corp. | The final positions do not yet establish a common majority disposition and complete mandate for the commercial application and existing relief; the matter remains open without an entered Court event. |
-| New York v. Hill | The approved position requires revalidation on the corrected Article III(a) 180-day record; it cannot be transferred from the materially different Article IV(c) 120-day premise. |
