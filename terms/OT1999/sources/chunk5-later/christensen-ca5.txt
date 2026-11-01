@@ -1,0 +1,788 @@
+                         IN THE UNITED STATES COURT OF APPEALS
+
+                                        FOR THE FIFTH CIRCUIT
+
+                                                No. 97-20796
+
+LYNWOOD MOREAU; KENNETH O. ADAMS; DAVID W. ADDISON, JOSE A.
+ALVARADO; ROBERT AMBOREE; BOBBY G. ANDREWS; RANDY ANDERWALD; GARY
+R. ASHFORD, CRAIG L. BAILEY; RICHARD BAILEY; RICHARDO E. BALDERAZ;
+HERBERT V. BARNARD; GERALD BARNETT; PAULETTE M. BARNETT; BRAD T.
+BENNETT; BRIDGETT BLACKMON; FLYNT E. BLACKWELL; GARY F. BLAHUTA;
+SCOTT P. BLANKENBURG; DEBORAH BLIESE; BRUCE H. BRECKENRIDGE; J.W.
+BROOKS; BRIAN BUCHANAN; PATRICIA M. BUI; DON E. BYNUM; CLARENCE A.
+CALLIS; WILLIAM M. CAMPBELL; HEATHER CARR; THOMAS J. CARR; PAUL E.
+CARPENTER; ROBERT CASEY; MARK E. CEPIEL; ELADIO C. CHAVEZ; EDWARD
+A. CHRISTENSEN; ROY CLARK; DENNY D. COKER; ALFORD A. COOK; GREGORY
+P. COX; DONALD D. CRAYTON; RICHARD D. CROOK; DAVID A. DAVIS; GARY
+W. DAVIS; CHRISTOPHER E. DEMPSEY; RUSSELL DUKES; LARRY A. EIKHOFF;
+FRANK FAIRLEY; DAVID W. FINELY; JAMES P. FITZGERALD; ERINE R.
+FOWLER; MICHAEL A. GARCIA; THOMAS M. GENTRY; JOHN GODEJOHANN;
+ROBERT M. GOERLITZ; DAVID GONZALES; RAUL V. GONZALES; MIGUEL A.
+GONZALEZ; BILLY GRAY; WILLIAM L. GRAY; LAWRENCE P. GRIES; THOMAS P.
+GURNEY; PRESTON R. HALFIN; SAMMY HEAD; NEIL HINES; LARRY D. HOWELL;
+MARSHALL P. ISOM; JAMES A. JOHNSON; DERRY L. JONES; DAVID E. KAUP;
+WILLIAM C. KENISELL; HOWARD J. KIMBLE; STEVE KIRK; EDGAR D.
+KNIGHTEN; FREDDY G. LAFUENTE; MICHAEL G. LAGRONE; AL LANFORD;
+VERNON S. LEMONS; SHEMEI B. LEVI; JEANNE LONG; TIMOTHY LOYD; JOE S.
+MAGALLON; DAVID B. MARTIN; PEDRO MARTINEZ; RUSSELL L. MAYFIELD;
+TERRY MCGREGOR; ROBERT C. MEAUX; STEPHEN MELINDER; MARTY M. MINGO;
+D.D. MONTGOMERY; JOSE L. MORIN; RICHARD O. NEWBY; ARTHUR W. NOLLEY;
+WILLIAM R. NORWOOD; RICHARD C. NUNNERY; KAREN D. O'BANNION; RAYMOND
+E. O'BANNION; GUADALUPE PALAFOX; WAYNE PARINELLO; DEBORAH PETRUSKA;
+JAMES A. PHILLIPS; SIMON C. RAMIREZ; MICHAEL B. RANKIN; JAMES C.
+REYNOLDS; WILLARD G. ROGERS; GERALD M. ROBINSON; JOE RUFFINO; LANCE
+J. SCOTT; ROB R. SELF; DONALD SHAVER; JAMES K. SHIPLEY; JAMES
+SMEDICK; GINA K. SPRIGGS; (GRAHMANN); JEFFREY M. STAUBER; LARRY L.
+STRICKLAND; BILLY J. TAYLOR; KERRY TOWNSEND; RICHARD S. TRENSKI;
+GORDON TROTT; ED TROTTI; RICHARD D. VALDEZ; DALTON E. VAN SLYKE;
+FRANK L. VERNAGALLO; RUBEN VILLARREAL; JOHNNY F. WALLING; GERALD R.
+WARREN; JAMES M. WATSON; THOMAS G. WELCH; JOHN H. WHEELER; JOSEPH
+L. WILLIAMS; RWANDA WILTZ,
+
+                                                                        Plaintiffs-Appellees,
+versus
+
+HARRIS COUNTY; TOMMY B. THOMAS; JOHNNY KLEVENAGEN, Sheriff
+
+                                    Defendants,
+
+HARRIS COUNTY; TOMMY B. THOMAS,
+
+                                    Defendants-Appellants
+
+                   Appeal from the United States District Court
+                            for the Southern District of Texas
+
+                                            October 19, 1998
+Before HIGGINBOTHAM, PARKER and DENNIS, Circuit Judges.
+PATRICK E. HIGGINBOTHAM, Circuit Judge:
+
+         Harris County appeals a grant of summary judgment in favor of
+a certified class of employees, finding that the County's policy
+requiring the use of accrued compensatory time by its employees
+contravened 29 U.S.C. § 207(o)(5) of the Fair Labor Standards Act
+(FLSA). We are persuaded that the 1985 Amendments to the FLSA do
+not grant public employees a right to choose when they will use
+accrued comp time. We reverse.
+
+                                                         I.
+         The members of the class are employees of the Sheriff's
+Department of Harris County. The class asserted claims for
+
+                                 2
+wrongful refusal of compensatory time off, retaliation and
+involuntary use of compensatory time.
+
+         The parties have stipulated to the essential facts. By County
+policy the accrued comp time for non-exempt employees must be kept
+below a predetermined level, set by each bureau commander. This
+level is based on the personnel requirements of each bureau.
+
+         An employee reaching the maximum allowable hours of comp time
+authorized by the FLSA is requested to take steps to reduce the
+number of accrued hours. A supervisor is authorized to order the
+employee to reduce accumulated comp time at a time suitable to the
+bureau. An employee dissatisfied with his supervisor's order may
+informally complain to higher levels of supervisory authority
+within the department.
+
+         Based upon the stipulation of facts, the district court
+ordered the parties to move for summary judgment and to address
+whether the County policy requiring the involuntary use of comp
+time by its employees contravened 29 U.S.C. § 207(o)(5) of the
+FLSA.
+
+         On November 26, 1996, the district court issued an "Opinion on
+Summary Judgment" and an Interlocutory Declaratory Judgment that
+"Harris County may not force employees to use their accumulated
+comp time without violating the FLSA" and asked for briefing from
+both parties on attorneys' fees. Then, on July 28, 1997, the
+district court issued an order entitled "Final Judgment" which
+stated the following:
+
+                                                          3
+                                              Final Judgment
+         1. Harris County may not force employees to use their
+         accumulated compensatory time without violating the Fair
+         Labor Standards Act.
+         2. The parties plaintiff are awarded attorneys' fees of
+         $21,360 from Harris County.
+Plaintiffs did not ask the district court to rule on their claims
+for wrongful refusal of the use of comp time and for retaliation
+and it did not do so. This appeal followed.
+
+                                                        II.
+                                                         A.
+         First, there is our jurisdiction. The record on appeal
+indicates that the claims for wrongful refusal of the use of comp
+time and for retaliation have not been ruled on by the district
+court. Responding to our question, Harris County agreed with the
+class that we have jurisdiction since the district court intended
+its order to be a final judgment.1
+         We have jurisdiction only over final decisions of the district
+court, with limited exceptions that are not relevant here. 28
+U.S.C. § 1291 (West 1993). A final judgment is one that "ends the
+litigation on the merits and leaves nothing for the court to do but
+execute the judgment." Coopers & Lybrand v. Livesay, 437 U.S. 463,
+467 (1978). We have advocated a practical approach in deciding
+
+         1 Plaintiffs did not address the jurisdictional issue in
+their briefs. However, at oral argument plaintiffs' counsel
+acknowledged that this court had jurisdiction over this appeal.
+
+                                                          4
+issues of finality. A judgment reflecting an intent to dispose of
+all issues before the district court is final. Vaughn v. Mobil Oil
+Exploration and Producing Southeast, Inc., 891 F.2d 1195, 1197 (5th
+Cir. 1990); Nat'l Ass'n of Gov't Employees v. City Pub. Serv. Bd.
+of San Antonio, Tex., 40 F.3d 698, 705 (5th Cir. 1994). If a party
+abandons one of its claims, a judgment that disposes of all
+remaining theories is final and appealable so long as it is
+apparent that the district judge intended the judgment to dispose
+of all claims. Chiari v. City of League City, 920 F.2d 311, 314
+(5th Cir. 1991). When the district court hands down a judgment
+couched in language calculated to conclude all claims before it,
+that judgment is final. Armstrong v. Trico Marine, Inc., 923 F.2d
+55, 58 (5th Cir. 1991).
+
+         Here, the district court in entering final judgment appeared
+to decide all claims, although it did not explicitly address
+plaintiffs' wrongful refusal and retaliation claims. Nevertheless,
+plaintiffs did not pursue any error by the district court and
+acknowledged at oral argument that we have this jurisdiction over
+this appeal. We conclude that the district court decided all
+claims before it that were not abandoned. The order is a final
+judgment for purposes of this appeal.
+
+                                                         B.
+         This dispute centers around Harris County's policy of not
+permitting accrued comp time for non-exempt employees to rise above
+
+                                                          5
+a predetermined level by directing employees to reduce the number
+
+of hours of accrued comp time. The district court held that
+
+accumulated comp time and salary must be treated the same way and
+
+that employees have a right to use comp time when they choose.
+
+Granting summary judgment for the class, the district concluded
+
+that Harris County's policy of controlling the amount of accrued
+
+comp time violated the FLSA. More precisely put, we must decide
+
+whether Harris County violates 29 U.S.C. § 207(o)(5) of the FLSA
+
+when it involuntarily shortens an employee's workweek with pay.
+
+         The relevant FLSA statute states:
+
+         (5) An employee of a public agency which is a State,
+         political subdivision of a State, or an interstate
+         governmental agency -
+         (A) who has accrued compensatory time off authorized to
+         be provided under paragraph (1), and
+         (B) who has requested the use of such compensatory time,
+         shall be permitted by the employee's employer to use such
+         time within a reasonable period after making the request
+         if the use of the compensatory time does not unduly
+         disrupt the operations of the public agency.
+
+29 U.S.C. § 207(o)(5) (West Supp. 1998).
+
+         Harris County contends that the 1985 Amendments to the Fair
+
+Labor Act of 1938, reflected above, were enacted to alleviate the
+
+economic burden upon state and local governments imposed by the
+
+Act's cash overtime requirements, see Garcia v. San Antonio
+
+Metropolitan Transit Authority, 469 U.S. 528 (1985) (holding, in a
+
+5-4 decision, that the FLSA could constitutionally apply to states
+
+and their political subdivisions), as were the implementing
+
+Department of Labor regulations. The County urges that Congress
+
+                                                          6
+must have intended for public employers to control the accrual of
+comp time because Congress contemplated a circumstance in which a
+public employer may elect to reduce or eliminate accrued comp time
+by making a cash payment. They point to 29 U.S.C. §207(o)(3)(B)
+which states that "if compensation is paid to an employee for
+accrued compensatory time off, such compensation shall be paid at
+the regular rate earned by the employee at the time the employee
+receives such payment." Since this statute permits a public
+employer to reduce accrued comp time with cash payments, Harris
+County asserts that reductions in comp time must be at the
+employer's option.
+
+         The class contends that Congress vested the employee, rather
+than the employer, with the right to determine the use of accrued
+comp time off. They urge that 29 U.S.C. § 207(o)(5) imposes only
+one limitation on this right ---- that the use of the comp time not
+unduly disrupt the operations of the public agency. The plaintiffs
+maintain since no other limitation on this right was imposed by
+Congress, they could choose to use or to bank their comp time as
+they see fit. In their view, employers do not have the right to
+control employees' use of their accrued comp time, so long as their
+use does not unduly disrupt their operations.
+
+         The economic incentives at stake are clear. In an era of
+tight public budgets, state employers like Harris County wish to
+control the accrual of comp time in order to avoid paying cash
+overtime wages when the amount of accrued comp time for any
+
+                                                          7
+employee reaches the statutory maximum of 240 or 480 hours. The
+state employees, on the other hand, want to accumulate accrued comp
+time up to the statutory maximum in order to receive cash payments
+at an overtime rate of time and one-half or at least retain the
+ability to "bank" comp time for later use at their behest.
+
+         Section 207(o)(5) does not address the Harris County policy.
+This statute is triggered only when the employee first requests the
+use of her accrued compensatory time and does not address whether
+a public employer may control an employee's accrual of comp time.
+See Heaton v. Moore, 43 F.3d 1176, 1181 (8th Cir. 1994). On its
+face then the statute is inapplicable to the present dispute. The
+class counters that the statute evidences Congress' belief that the
+use of accrued comp time must reside only with the employee and not
+the employer. The statute recognizing public employers' ability to
+pay down accrued comp time, 29 U.S.C. § 207(o)(3)(B), equally
+reflects Congressional intent to permit public employers to control
+the accrual of comp time.2 Congress wanted to balance competing
+interests and intended for both public employers or employees to
+retain some control over accrued comp time.
+
+                  Congress amended the FLSA in 1985 to ease the cost to
+state and local governments of complying with the FLSA,
+
+         2 Along the same lines, 29 C.F.R. § 553.27(a) states that
+"[p]ayments for accrued compensatory time earned after April 14,
+1986, may be made at any time and shall be paid at the regular rate
+earned by the employee at the time the employee receives such
+payment."
+
+                                                          8
+particularly its overtime payment provisions. During the debates,
+Congress considered proposals for an amendment exempting
+governmental agencies from the FLSA. Rather than completely
+excluding agencies from the reach of the FLSA, Congress balanced
+the burden of complying with the FLSA's overtime provisions with
+protection for the worker. See Todd D. Steenson, Note, The Public
+Sector Compensatory Time Exception to the Fair Labor Standards Act:
+Trying to Compensate for Congress' Lack of Clarity, 75 Minn. L.
+Rev. 1807, 1812, 1828 (1991). The 1985 Amendments accomplished
+this dual purpose by allowing public employers to agree with
+employees to award comp time in lieu of monetary payments at a rate
+not lower than one and one-half hour for every overtime hour an
+employee works. Id. at 1812. Under this scheme, employees working
+overtime would receive additional time off from the job with pay
+but not cash at the higher overtime rates. In sum, Congress did
+not consider or resolve the question that we face here. Because
+the legislation reflected a compromise, it is impossible to
+determine how Congress would have legislated had it confronted the
+question. Before devising our own solution, we must of course look
+to precedent.
+
+                                                         C.
+         Relying on the Eighth Circuit's opinion in Heaton, the class
+urges that since "banked compensatory time is the property of the
+employee," they have the right to "bank" comp time in "what amounts
+to an employee-owned savings account of compensatory time." See
+
+                                                          9
+Heaton, 43 F.3d at 1180. We have recently held that the 1985
+Amendments to the FLSA, and section 207(o) in particular, do not
+reflect Congressional intent to create a property right in accrued
+comp time for employees. See Alford v. Louisiana, __ F.3d __,
+draft op. at p. 12 (5th Cir. 1998). Alford, however, sought to
+distinguish Heaton. In Alford, the employees merely sought to
+require employees to use comp time before dipping into annual
+leave, while in Heaton, the employer sought to require use of comp
+time before the use of annual leave. This case squarely presents
+the Heaton issue, and we must thus decide whether to extend Alford
+or to follow Heaton.
+
+         We choose to extend Alford. The reasoning in Heaton is
+flawed. The Heaton court rested on the principle of construction
+that "[w]hen a statute limits a thing to be done in a particular
+mode, it includes a negative of any other mode." Id. at 1180
+(internal quotation marks omitted). Because employees may choose
+to use their compensatory time within certain limits, the argument
+continues, employers cannot make the employees use the compensatory
+time sooner than the employees prefer.
+
+         This seems to be a misapplication of the relevant rule of
+construction. The question here is whether the statute "limits"
+the the "thing to be done," and thus application of the rule begs
+the question. Compare, for example, the Supreme Court case Heaton
+cites as originally invoking this rule of construction, Raleigh &
+Gaston Ry. v. Reid, 80 U.S. (13 Wall.) 269, 270 (1871). In that
+
+                                                         10
+case, a railroad company's charter provided that it should not be
+taxed for 15 years, and the Court held that by implication it could
+be taxed thereafter. That seems straightforward enough, but the
+same principle cannot mean that because an employee with comp time
+available can choose to use this comp time, an employer can never
+require an employee to reduce accumulated comp time. One simply
+does not relate to the other.
+
+         It is perhaps understandable that Heaton's reasoning should be
+strained, because this is a situation in which Congress has not
+spoken clearly in the text of the statute itself or in the
+legislative history. Of course, we could still follow Heaton on
+prudential grounds, or simply to avoid an intercircuit conflict.
+This, however, would be a mistake, for it would leave the
+jurisprudence in this circuit unnecessarily confused. There seems
+no reason to allow our rule to turn on the issue of whether an
+employer conditions its requirement that an employee use comp time
+on the employee's attempt to take annual leave. We are bound by
+Alford, and if we were to follow Heaton, employers and employees
+through the Circuit would need to brace themselves for expensive
+litigation over what conditions an employer could place on an
+employee's annual leave.
+
+         The lack of uniformity occasioned by our decision to deviate
+from the Eighth Circuit is not a substantial concern in this
+context. Even in the absence of further congressional or
+regulatory action, neither Heaton, nor Alford, nor our extension of
+
+                                                         11
+it today represents the final word in any workplace. In the
+absence of a mandatory rule governing the situation, the parties
+remain free to reach a contractual solution to the problem.
+Provisions of an agreement between a covered employer and employees
+with regard to compensatory time are valid so long as they do not
+contradict the FLSA itself. See 29 C.F.R. § 553.23(a)(1). In this
+case, however, the parties have not identified any controlling
+provisions, and our obligation is to fashion a background rule,
+which the parties remain free to displace in future negotiations.
+
+         While Alford did not make explicit that its rule is only a
+default, it is worth noting that the default it selected was almost
+certainly the correct one. In fashioning a default rule, we are
+mindful of the academic consensus that the court's task is not
+simply to construct the rule that the parties would have bargained
+for if they had been fully informed and bargaining had been
+costless. See generally Symposium on Default Rules and Contractual
+Consent, 3 S. Cal. Interdisciplinary L.J. 1 (1993). Moreover, we
+recognize that a default rule should not always be tailored to
+achieve the most efficient or most just result for the parties to
+the lawsuit. In many situations, an "untailored default," a
+"single, off-the-rack standard" that provides a satisfactory
+contractual solution in the run of cases may be preferable. Ian
+Ayres & Robert Gertner, Filling Gaps in Incomplete Contracts: An
+Economic Theory of Default Rules, 99 Yale L.J. 87, 91 (1989).
+
+                                                         12
+         This is such a case. A holding that employees by default may
+
+bank their comp time would be as clear as the holding that we reach
+
+today. But a default rule should be selected at a higher level of
+
+abstraction, to ensure clear answers in other FLSA scenarios where
+
+neither Congress nor the parties in an agreement have resolved a
+
+particular issue. See, e.g., Ayres & Gertner, supra, at 96 (noting
+
+the importance of minimizing future litigation costs in
+
+establishing a default rule). In general, allowing an employer to
+
+establish uniform employment policies with respect to questions not
+
+previously negotiated seems preferable to allowing each employee to
+
+establish his or her own policy, and it is certainly preferable to
+
+a regime in which the courts determine which default rule is best
+
+to apply one policy at a time.
+
+         Our holding here and in Alford is thus merely an application
+
+of the general principle that the employer can set workplace rules
+in the absence of a negotiated agreement to the contrary.3 While
+
+this default may not achieve the optimal solution in every case, it
+
+promotes justice writ large. In establishing this approach, we
+
+         3There may be situations in which an employer is required to
+negotiate before establishing a workplace rule. See,e.g., National
+Labor Relations Bd. v. Katz, 369 U.S. 736, 747 (1962). The
+employees here, however, have not alleged a violation of the
+National Labor Relations Act. This opinion's analysis is consistent
+with any limitations on unilateral action that may exist. While an
+employer in certain circumstances may not be able to set forth a
+uniform policy, the rule that employers may require employees to
+use comp time applies even if that rule has not been duly enacted
+as a workplace policy, in the absence of an agreement to the
+contrary.
+
+                                                         13
+expect to promote the interests of employers and employees alike
+by minimizing the need for future litigation concerning policies
+not addressed by Congress or employer-employee agreements. And, of
+course, this general interpretive approach is itself a default, and
+the parties may select a different rule governing the construal of
+their agreements if they choose.
+
+                                                       III.
+         We REVERSE the district court's grant of summary judgment in
+favor of the class and enter judgment for Harris County and all
+other defendants.
+         REVERSED.
+
+                                                         14
+DENNIS, Circuit Judge, Concurring in part and dissenting in part.
+
+         In my opinion neither the plaintiffs nor the defendants have
+demonstrated that they are entitled to judgment as a matter of law
+on the present record. Accordingly, I agree that the district
+court's judgment must be reversed. I disagree, however, with the
+majority's decision to grant summary judgment for the county at the
+appellate level. The majority incorrectly applies its own common
+law type "default rule" rather than following the Secretary's
+authoritative interpretation of the FLSA. Consequently, the
+majority erroneously fails to remand the case to the district court
+for trial or other proceedings as is required by the correct legal
+principles.
+
+         The FLSA does not directly address the precise question at
+issue in this case, viz., whether a public agency may, absent an
+employee's request or agreement, unilaterally compel the employee
+to use accrued compensatory time off rather than receiving cash
+compensation for the accrued compensatory time off in accordance
+with § 207(o)(3)(B). Because the statute is silent or ambiguous
+with respect to the specific issue, the questions for this court
+are whether the administrative agency has addressed the issue, and,
+if so, whether the agency's answer is based on a permissible
+construction of the statute. Chevron U.S.A., Inc. v. Natural
+Resources Defense Council, Inc., 467 U.S. 837, 842-43 (1984); see
+also Auer v. Robbins, 117 S.Ct. 905, 909 (1997)(quoting Chevron,
+
+                                                         15
+467 U.S. at 842-843). A court does not simply impose its own
+construction on the statute when an administrative interpretation
+based on a permissible construction of the statute exists. Chevron,
+U.S.A., Inc., 467 U.S. at 843; Fort Hood Barbers Assn. v. Herman,
+137 F.3d 302, 307 (5th Cir. 1998)(Summary Calendar).
+
+         The deference owed by this court to administrative regulations
+issued to interpret and implement a federal statute depends on
+whether the regulation is "legislative" or "interpretative." Fort
+Hood Barbers Assn., 137 F.3d at 307; Snap-Drape, Inc. v. Comm'r, 98
+F.3d 194, 197 (5th Cir. 1996); Dresser Industries, Inc. v. Comm'r,
+911 F.2d 1128 (5th Cir. 1990)(internal citations omitted). If
+legislative, that is "issued under a specific grant of authority to
+prescribe a method of executing a statutory provision," the
+regulation is controlling unless it is "arbitrary, capricious, or
+manifestly contrary to the statute." Snap-Drape, Inc., 98 F.3d at
+197-98 (internal citations omitted); see also Chevron, U.S.A.,
+Inc., 467 U.S. at 843. An "interpretative" regulation is one
+promulgated pursuant to a "general grant of authority to prescribe
+regulations." Interpretative regulations are accorded less
+deference, but are valid if they are "reasonable and `harmonize[]
+with the plain language of the statute, its origin, and purpose.'"
+Fort Hood Barbers Assn., 137 F.3d at 307 (quoting Snap-Drape, Inc.,
+98 F.3d at 197).
+
+         The FLSA is administered and enforced by the Secretary of
+Labor. 29 U.S.C. §205; Skidmore v. Swift & Co., 323 U.S. 134, 137
+
+                                                         16
+(1944); Condo v. Sysco Corp., 1 F.3d 599, 604 (7th Cir. 1993); 1
+ROTHSTEIN, ET AL., EMPLOYMENT LAW § 4.10 pp. 368-69 (1994). The 1984
+amendments to the FLSA expressly authorize the Secretary to
+promulgate regulations as are necessary to implement the
+amendments. 99 Stat. 787, §6, 29 U.S.C. § 203 (note). Pursuant to
+this authorization, the Secretary has promulgated regulations
+interpreting and applying pertinent provisions of the FLSA
+regarding compensatory time off. See 29 C.F.R. §553.2(b), §§553.20-
+553.28. I believe the Secretary's regulations by clear implication
+address the issue in the present case.
+
+         The regulations reiterate that in compensating employees for
+overtime work, a public agency may not substitute compensatory time
+off for overtime cash pay unless there was an agreement or
+understanding to do so between the employer and the employee (or
+the employee's representative) prior to the performance of the
+work. §553.23(a)(1). With respect to employees not covered by a
+bargaining or representative's agreement, but hired before April
+15, 1986, the regular practice in effect on that date constitutes
+an agreement which satisfies the statute. Id. Further, a notice to
+an unrepresented individual employee that compensatory time will be
+awarded in lieu of overtime pay can evidence an agreement as
+required by the FLSA. §553.23(c)(1). Although an agreement as
+required by the statute is presumed to exist if such notice is
+given with respect to any employee who does not communicate his
+
+                                                         17
+unwillingness to accept compensatory time rather than overtime pay
+to his employer, the employee's decision to accept compensatory
+time "must be made freely and without coercion or pressure." Id.
+Finally, the agreement may take the form of an express condition of
+employment, if the employee knowingly and voluntarily agrees to it
+as a condition of employment and is informed that the compensatory
+time received may be preserved, used, or cashed out consistent with
+the provisions of section 7(o) of the Act. Id.
+
+         The agreement may include provisions restricting compensatory
+time off to certain hours of work only. §553.23(a)(2). Provisions
+governing the preservation, use, or cashing out of compensatory
+time also may be included; however, to the extent that any
+provision of an agreement is in violation of section 7(o), it is
+superseded by the requirements of section 7(o). Id.
+
+         The employer may discharge its obligation to honor accrued
+compensatory time earned after April 14, 1986, at any time by
+paying for it the regular rate earned by the employee at the time
+the employee receives payment. §553.27(a). Upon termination of
+employment, the employer must pay the employee for unused
+compensatory time earned after April 14, 1986, at a rate of
+compensation not less than the average regular rate received by
+such employee during the last 3 years of the employee's employment,
+or the final regular rate received by such employee, whichever is
+higher. §553.27(b).
+
+                                                         18
+Compensatory time cannot be used to avoid statutory overtime
+
+compensation. §553.25(b). "An employee has the right to use the
+
+compensatory time earned and must not be coerced to accept more
+
+compensatory time than an employer can realistically and in good
+
+faith expect to be able to grant within a reasonable time of the
+
+employee's request for use of such time." Id.
+
+If an employee has accrued compensatory time and requests use
+
+of this compensatory time, the employer must permit the use of such
+
+time off within a "reasonable period" after the employee's request
+
+as long as such use will not "unduly disrupt" the operations of the
+
+agency. §553.25(a). A "reasonable period" will be determined by
+
+considering the customary work practices within the agency based on
+
+the circumstances, including the normal schedule of work,
+
+anticipated peak workloads based on past experience, emergency
+
+requirements for staff and services, and the availability of
+
+qualified substitute staff. §553.25(c)(1).     If applicable
+
+provisions are included within the agreement or understanding
+
+between the employer and employee, they will govern the meaning of
+
+"reasonable period." §553.25(c)(2). An "unduly disruptive" use of
+
+accrued compensatory time off is one which the agency reasonably
+
+and in good faith anticipates "would impose an unreasonable burden
+
+on the agency's ability to provide services of acceptable quality
+
+and quantity for the public." §553.25(d).
+
+The Secretary's approach rejects the wooden proposition that
+
+the FLSA grants control over the use of accrued compensatory time
+
+19
+either exclusively to the employee or to the employer independently
+for its own unilateral purposes. Rather, it requires an agreement
+and understanding between the employer and the employee prior to
+the performance of the work to initiate compensation with, and
+accrual of, compensatory time off. As part of this agreement, the
+Secretary's construction also permits the employer and the employee
+to include other provisions governing the preservation, use, or
+cashing out of compensatory time so long as they are consistent
+with section 7(o) of the FLSA. These regulations indicate that the
+Secretary did not interpret the FLSA to allow an employer to
+require an employee involuntarily to use accrued compensatory time
+off in the absence of a lawful agreement providing such
+authorization.
+
+         In deciding whether the Secretary's approach qualifies as a
+permissible construction of the FLSA, it is not necessary to decide
+whether the Secretary's regulations issued pursuant to authority
+granted by the 1985 amendments are legislative or interpretative.
+Even if the regulations are properly classified as interpretative,
+they clearly are reasonable and in harmony with the language of the
+statute, its origin, and purpose. In enacting the 1985 amendments
+to the FLSA, Congress clearly sought to balance the needs and
+interests of both public employees and employers subject to the
+FLSA. The Secretary's approach accomplishes this Congressional
+directive by requiring employers desiring authorization to order
+employees to use accrued compensatory time whenever the employer
+
+                                                         20
+deems such consumption appropriate to include applicable
+provisions, consistent with the statute, in their agreements made
+with the employee.
+
+         With respect to employee requests for use of accrued
+compensatory time, the regulations specifically authorize the
+employer and employee in their agreement or understanding to state
+terms and conditions governing the meaning of "reasonable period."
+In addition, the Secretary sets forth a non-exclusive list of
+underlying considerations for use in determining the "reasonable
+period" within which a compensatory time off request must be
+granted and whether doing so would be "unduly disruptive" in a
+particular case. These regulations lead naturally and logically to
+the inference that the factors for evaluating the reasonableness
+and legality of any consensual limitations upon the employee's
+right to use and preserve compensatory time earned should be
+similar to those suggested for determining or defining a
+"reasonable period" within which an employer must grant a
+compensatory time off request, a use of compensatory time off that
+is "unduly disruptive" to the employer's operations, and a
+"realistic" and "good faith" utilization of compensatory time off
+in lieu of overtime cash pay by an employer.
+
+         Applying the provisions of the statute and the regulations to
+the present case, it is apparent that neither the plaintiffs nor
+the defendants have demonstrated that they are entitled to judgment
+as a mater of law under the FLSA as interpreted by the Secretary.
+
+                                                         21
+Moreover, we should take notice that agreements between the County
+and each individual employee incorporating the County's regulations
+providing for compensatory time in lieu of monetary overtime
+compensation apparently exist. See Moreau v. Klevenhagen, 508 U.S.
+22, 29 (1993). The record before us, however, is not sufficiently
+complete to afford an adequate basis for determining whether
+provisions governing the preservation, use, or cashing out of
+compensatory time are included within these agreements, by
+incorporation or otherwise; or if so, whether these other
+provisions are consistent with or in violation of section 7(o) of
+the Act. If no controlling agreement exists, the district court
+should consider retaining jurisdiction while permitting the parties
+to enter such agreements. A court of appeal may vacate, set aside,
+or reverse a district court's judgment and may remand the cause and
+require such further proceedings to be had as may be just under the
+circumstances. 28 U.S.C. § 2106. See Youngstown Sheet and Tube
+Co. v. Lucey Products Co., 403 F.2d 135, 139-41 (5th Cir. 1968)
+(Remanded to allow submission of proof to insure that substantial
+justice be done). See also Hormel v. Helvering, 312 U.S. 552, 557,
+61 S.Ct. 719, 721 (1941) ("Orderly rules of procedure do not
+require sacrifice of the rules of fundamental justice.").
+Accordingly, under these authorities and the summary judgment
+rules, I would vacate the district court's judgment and remand the
+case to it for further proceedings including a trial or the taking
+
+                                                         22
+of additional evidence necessary to an informed decision of these
+questions.
+
+         Harris County argues that the FLSA authorizes public agencies
+to unilaterally force employees to reduce periodically their
+accrued compensatory time by taking off regular work days to
+prevent employees from demanding monetary compensation for any
+overtime hours worked after the statutory maximums are reached or
+cashing in large amounts of compensatory time upon their retirement
+or termination. The FLSA does not expressly give public agencies
+this right. The County, however, contends that because it has the
+right under §207(o)(3)(B), at any time, to reduce or eliminate an
+employee's accrued compensatory time, by paying the employee for
+that time at the employee's current regular rate of pay, the
+statute clearly implies that it may also reduce it by requiring an
+employee to use accrued compensatory time involuntarily (i.e., by
+not working hours for which the employee is compensated at the
+employee's regular rate. §207(o)(7)). The majority embraces and
+rearticulates the County's argument as follows:
+
+         The statute recognizing public employers' ability to pay
+         down accrued comp time, 29 U.S.C. § 207(o)(3)(B), equally
+         reflects Congressional intent to permit employers to
+         control the accrual of comp time.
+ Maj.Op.p.8 (footnote omitted).
+         In addition to not being persuasive, this approach fails to
+give proper deference to the Secretary's interpretation of the
+statute. The provision relied upon, §207(o)(3)(B), provides: "If
+
+                                                         23
+compensation is paid to an employee for accrued compensatory time
+off, such compensation shall be paid at the regular rate earned by
+the employee at the time the employee receives such payment."
+Although an agency can reduce an employee's accrued compensatory
+time by paying for that time in cash, it does not necessarily
+follow that an employer can unilaterally require an employee to
+reduce accrued compensatory time by taking time off at regular pay.
+
+         Recognizing the unique fiscal burden that compliance with the
+FLSA would present to public agencies, the 1985 amendments to the
+FLSA permit only public agencies to compensate employees for
+overtime with compensatory time instead of cash payments.
+Congress did not intend, however, to allow public agencies to
+indefinitely replace monetary overtime compensation with
+compensatory time, undoubtedly an inferior substitute for cash.
+The statute clearly requires that any employee who has accrued 480
+or 240 hours, as the case may be according to the category of
+employment, of compensatory time be paid overtime compensation in
+cash for additional overtime hours of work. §207(o)(3)(A). If
+Congress had intended to allow employers to permanently avoid the
+obligation of providing monetary compensation for overtime hours,
+it would not have imposed these statutory maximums on the amount of
+compensatory time the employer may award. The provision allowing
+employers to reduce the amount of accrued compensatory hours by
+paying monetary compensation does not reflect an intent to allow
+employers to unilaterally force employees to consume accrued
+
+                                                         24
+compensatory time without any concession to the employees' desires;
+instead, it simply provides employers with the option to decrease
+compensatory time balances by paying cash--the usual and superior
+form of overtime compensation.
+
+         Moreover, the FLSA expressly provides that an employee of a
+public agency who has accrued compensatory time off and has
+requested the use of such compensatory time shall be permitted by
+the agency to use such time within a reasonable period after making
+the request if the use of the compensatory time does not unduly
+disrupt the operations of the agency. § 207(o)(5). Accordingly,
+even if an agency can on its own initiative redeem compensatory
+time commitments for cash (the preferred form of compensation) at
+the employee's current regular rate of pay, it simply does not
+follow that an agency can also unilaterally make the employee's
+compensatory time an even less desirable substitute for cash
+overtime pay by depriving the employee of the choice of when and
+how to use it, but instead dictating the manner of its usage
+without regard to the desires or convenience of the employee.
+
+         Construing the statute in accordance with the Secretary's
+regulations does not deprive employers of all control of employee
+compensatory time balances. Employers may enter into an agreement
+with employees (or their representatives) concerning the
+preservation, use, and cashing out of compensatory time provided
+that these such agreements are consistent with section 7(o) of the
+FLSA. In addition, the regulations specifically allow employers to
+
+                                                         25
+reduce these balances by paying cash for the accrued compensatory
+hours. Finally, as the Eighth Circuit noted in Heaton v. Moore, 43
+F.3d 1176, 1181 (8th Cir. 1994), employers can always schedule less
+overtime or hire additional workers to decrease the rate of accrual
+of compensatory time.
+
+                                                         26
+

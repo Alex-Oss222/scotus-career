@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "Stone-Zsela": 6,
+    "Stevens": 5,
+    "O'Connor": 6,
+    "Scalia": 6,
+    "Kennedy": 7,
+    "Souter": 6,
+    "Thomas": 6,
+    "Ginsburg": 7,
+    "Breyer": 6
+  },
+  "total": 55,
+  "basis": "Actual opinion topologies; no Git query"
+}

@@ -1,0 +1,3 @@
+# Bond — form before count
+
+One signed plenary Court opinion states the objective exploratory-touch rule, applies it to this examination, and reverses with the bounded suppression remand. Seven support every governing proposition: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg. Scalia and Breyer share a contrary objective exposure application and issue one dissent. No separate ground requires divided authorship or fragmentation. Stone's conditional independent-basis reservation supplies no new preserved defense; the neutral Government nonreliance closes the consent route. The case is not combined with unrelated same-day decisions. No count or author has been considered in fixing this form.

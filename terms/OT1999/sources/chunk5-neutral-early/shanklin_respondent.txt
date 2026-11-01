@@ -1,0 +1,2268 @@
+Supreme Court, U.S. 
+gpiLE DBD 
+
+
+jan 28 2000 
+
+
+No. 99-312 CLERK a 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+‘he oe or 
+
+
+NORFOLK SOUTHERN RAILWAY COMPANY, 
+Petitioner, 
+Vv. 
+
+
+DEDRA SHANKLIN, Individually and as 
+Next Friend of Jessie Guy Shanklin, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Sixth Circuit 
+
+
+BRIEF FOR RESPONDENT 
+
+
+BRIAN WOLFMAN PAMELA R. O'DWYER 
+PUBLIC CITIZEN LITIGATION (Counsel of Record) 
+GROUP PATY, RYMER & ULI, P.C. 
+
+1600 20” Street, NW 19 Patten Parkway 
+Washington, DC 20009 Chattanooga, TN 37402 
+
+(202) 588-1000 (423) 756-6770 
+
+j ELIZABETH S. HARDY THOMAS C. GOLDSTEIN 
+THOMAS AND HARDY LAW FIRM THOMAS C. GOLDSTEIN, P.C. 
+
+“Sie 2380 Lake Street 4607 Asbury Place, NW 
+Lake Charles, LA 70601 Washington, DC 20016 
+(337) 433-4903 (202) 237-7543 
+
+
+January 28, 2000 
+
+
+[on al ae 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTION PRESENTED 
+
+
+Is a state-law wrongful-death claim alleging that a 
+railroad failed to install adequate warning devices at a railroad 
+grade-crossing preempted by federal law when (a) federally 
+mandated safety devices were not installed at the crossing, and 
+(b) the federal government had funded only “minimum” 
+signage for the crossing without regard to whether that signage 
+was adequate to make the crossing safe? 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORETEES...\.. iiss ba ees iv 
+STATEMENT OF THE CARE... canes dal cieseeuees l 
+1. Statutory and Regulatory Background .............. l 
+
+A. Provisions Governing State “Hazard” 
+and “Minimum Protection” Programs .... . l 
+|. The Federal Programs .. 0.5.0 cscsece | 
+
+2. States’ “Hazard” and “Minimum 
+
+Protection” PROGTOIRE ...civccsccsess 5 
+B. 23 C.F.R. § OGRSIG civ veces vuensneee 7 
+
+I. This Court’s Decision in CSX Transportation, 
+INC. V. EAGT WHOE ois si ndtciver tebe 8 
+
+
+lll. Factual Background And District Court Proceedings . 11 
+
+
+iV. The Sixth Cirowlt’s Decistom ois. ccdsccccceucwer 14 
+SUMMARY OF ARGUMENT ...........00see0000: 15 
+ARGSUBEENT .. 00 0ndo0n see she eka 17 
+I. Introduction — Basic Preemption Principles ..... 17 
+
+
+ll. Petitioner Cannot Prevail Under Any Theory Of 
+Preemption Because Federally Required Warning 
+Devices Were Not Installed At The Oakwood 
+en oenud sks svctosetececes 20 
+
+
+lil. |§ The Mere “Applicability” Of Federal Regulations 
+Governing Warning Devices Does Not Trigger 
+i CER ciuwK 666 bene ce ccecceccces 22 
+
+
+A. Preemption Applies Under Easterwood 
+Only If The Federal Government 
+Determined That The Warning Devices 
+
+
+In Question Were Adequate. .......... 22 
+B. Petitioner's View Would Seriously 
+
+Undermine Safety, Contrary To Congress’ 
+
+PMc Sh odecccsseceeseteeecs 25 
+
+
+IV. The Federal Government Did Not Make A 
+Determination Of Adequacy Here Under The 
+Minimum Protection Program. ............... 30 
+
+
+V. The FHWA Was Not Required To Make A 
+Determination Of Adequacy Under The Minimum 
+i cibcke eck ceeccensedecece 37 
+
+
+Vi. ~~ Any Determination Of Adequacy Must Be Made 
+By The Federal, Not State, Government......... 4| 
+
+
+Vil. A Federal Statute Governing The Discovery And 
+Admissibility Of Certain Evidence Is Irrelevant. . 42 
+
+
+EE i. cae bbb ebb obese sevccccecccess 46 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+Atascadero State Hospital v. Scanlon, 
+
+og REED Fs Te 19 
+Atchison, Topeka & Santa Fe Ry. Co. v. Public 
+
+Utility Comm'n, 346 U.S. 346 (1953) .o..cccccccccccececeeeeees 29 
+Bock v. St. Louis Southwestern Ry. Co., 
+
+Fe ee CU ey IIE ‘vessdinhiinitinicepninndonsessienecincan 30 
+CSX Transportation, Inc. v. Easterwood, 
+
+RS TO SEIN passim 
+Chevron U.S.A., Inc. vy. Natural Resources 
+
+Defense Council, Inc., 467 U.S. 837 (1984) oo... 27 
+Chicago & North Western Transportation Co. v. Kalo Brick 
+
+& Tile Co., 450 U.S. 311 (1981) .0.......ccccccccecccsseseereees 17 
+Cipollone v. Liggett Group, Inc., 
+
+CT IE ceicitatintitiniatieesindeadincstcinsebahesiiiaintidii 18, 20 
+Edelman v. Jordan, 415 U.S. 651 (1974) cooccccccccccccccceeeneees 19 
+English v. General Electric Co., 496 U.S. 72 (1990) ........ 18 
+Fitzpatrick v. Bitzer, 427 U.S. 445 (1976) oooccccccccccccccceeceeee 19 
+Florida Lime & Avocado Growers, Inc. v. Paul, 
+
+RR I RS, eer ge ee 17 
+Gregory v. Ashcroft, 501 U.S. 452 (1991) cocccccccccccecceeseeeees 19 
+
+iv 
+
+
+Hillsborough County, Fla. v. Automated Med. Labs., Inc., 
+
+
+re I, Ca SE iicintetcitntiniesinntrenissientivashininannatic 19, 27 
+Jones v. Rath Packing Co., 430 U.S. 519 (1977) ........ 17,19 
+Maryland v. Louisiana, 451 U.S. 725 (1981) occ 17 
+Medtronic, Ine. v. Lohr, 518 U.S. 470 (1996) oo... 18,27 
+New York Conference of Blue Cross & Blue Shield Plans v. 
+
+Travelers Insurance Co., 514 U.S. 645 (1995) 0.00000... 18 
+Rice v. Santa Fe Elevator Corp., 
+
+Se IT sical iclirhirisciorctesictinagsinaneqsmiindetogy 17-18 
+Shots v. CSX Trans., Inc., 
+
+FO FSG FOG CT Cae. BDI) ocecccsecccccccesccccccosess 6, 24, 29 
+Silkwood v. Kerr-McGee Corp., 464 U.S. 238 (1984) ....... 18 
+United States v. Bass, 404 U.S. 336 (1971) oooccccccccccccccceen. 17 
+U.S. Term Limits, Inc. v. Thornton, 
+
+ee I deihadasniseiiitininiitninnictgniershaceniniientiitannicies 18 
+Wisconsin Public Intervenor v. Mortier, 
+
+fg ERE SESS ee ee 9-20 
+
+STATUTES 
+a Ae PUNE crctinececstencrnitcascnenatinnsenmssanntiaios 39 
+ERIN cicentueinninsncenicditntassdtreaniteatiiocnsstasensen 39, 40 
+Sr EES OF CUED chireeadintgieiensciicapinianidcetenertienanseninmncencenpasiaga 44 
+Vv 
+
+
+Be METRE. BTID etka deensistichinnntepatititeniiialimnianimian 4 
+ic IE APNE -epicnnsctatcesbsietehptinidareiinsiasibilateisdibisidiatiunn passim 
+es OF ND sintciccincnesrprtinlllbiaiesiinceneintincinccniaitipiaiagetininsiiie 44 
+Br Sees: Ut WU. cxansicsidanicinsininnasntindsesdiphicnibactetiiieatttnhenineatsninsidaheti 44 
+PED cesisinnsateapintbitinihcaviiniguaiiniomnata 15, 42, 45 
+45 U.S.C. § 434 (now codified at 49 U.S.C. § 20106) ...... 44 
+ec Se ED eriilencindennincpliniitatmntinsiinanictilinnsinetactiatannis 25 
+RAs OD coinrsaciacictanbinrcesthintineatincanatinn 9, 15, 25, 28 
+35 FR | een 44 
+Federal Rail Safety Act of 1970, Pub. L. No. 91-458, 
+
+ee OU cimdiaciciiictniceintiedlspicntinedivsstebaiminestabeiannnsinens 2 
+
+REGULATIONS 
+
+Pk OF ED sidccinintceecriciaiarstinrnianisstonascwenn 40 
+23 C.F.R. § 646.201-.205 ....... siibasiaiddedigueiguniabinananciihia 40 
+ee: te GRID ciietescnchantdeieniideiagutiesccomaiiinin 7, 8,41, 42 
+BP hts ID tecccieasttnegttnttcereinciiclieniati 22, 37, 44 
+SPF ee ILE ccs ictcenstiicnisntvniatentbetinguatncercion 7, 37 
+Bae ie ay ED debecathciinacditinennerstennidisiniicitetacaigpimel 38 
+
+
+vi 
+
+
+23 C.F.R. § 646.214(b)(3) .......... 8, 11, 13, 23, 36, 38, 39, 43 
+
+
+FP a i>) PURE TL TIED coccencetactvascrecessesesesscoeees 8, 34, 39 
+SP CFB BGO SU OSM) cccccveccsecccscesceescoscsescecees 8, 39, 42 
+23 C.F.R. § 646.214(b)(4) .0.0. ee. 8, 11, 23, 39, 42, 43 
+aT TIE ot ahasinssicialansceesnssnciaienesinealbeiliie 7 
+TTT iacchiniitauleieesictidicicaesespmsctdiiadeesesiinntias passim 
+SEED MITEEIET sili tidebichibetpapsliocaaniiansntnnsscncanemnisennamieitibiaes 10 
+See: MnEIEITETIIIINTED ‘nactciicnnsnstibonsannisdnaceinsacegessentigsndininiiaath 5 
+TE aT IID sinctichintedls sccntentevincpsinilnsanlensasunbedipotts 5 
+FET ELEN SISNET EV RE eS 5 
+ae Seg aa EIEN, cidnicncseiesaseninpidtbesniesiiiiintonindiineinnnniinden 6 
+G2 Fed. Reg. 427353 (Aug. &, 1997) ....00:ccccceccccsssccssecsssosess 26 
+60 Fed. Reg. 11649 (Mar. 2, 1995) .00.............ccccccsesssseeeeees 26 
+vil 
+
+
+MISCELLANEOUS 
+
+
+Federal Rail Administration, Report of Acting Administrator 
+oe Ye | Sa a een 3 
+
+
+Betsy J. Grey, Make Congress Speak Clearly: Federal 
+Preemption of State Tort Remedies, 
+Fee Cin CIO. DOO COE Uitiiecinestinatthonnserocenoeinnincens 19 
+
+
+National Transportation Safety Board, Safety Study, Safety at 
+Passive Grade Crossings, Vol 1: Analysis (adopted July 
+iihg DETTE ecaesticcsigendaqiintedhndbiliebadiaiecinaessunstigpesekendiaie 1-2, 3, 29 
+
+
+U.S. D.O.T., Railroad-Highway Safety, Part 1: A 
+Comprehensive Statement of the Problem 
+COPEP PAU aleriinsssiienistabitiaiagsliaanh di hiniisehinidateticiastincuea lmsinsatsbounsee 2 
+
+
+U.S. D.O.T., Railroad-Highway Safety, Part II: 
+Recommendations for Resolving the Problem 
+
+
+ag _PPRPPORSPIN Re LST. eR cE Eins nae SNR 3 
+U.S. D.O.T., FHA Notice (Mar. 20, 1973) ......ccccccceeceeeeeeeee 28 
+U.S. D.O.T., 
+
+FHA Instruction Manual 21-11-68 (Jan. 5, 1968) ........ 30 
+
+
+Vill 
+
+
+STATEMENT OF THE CASE 
+
+
+This case involves the “minimum protection program” 
+created by Congress in 1973 to help fund the installation of 
+standard crossbucks at public railroad crossings around the 
+Nation. Because the federal government did not determine 
+under this program whether the crossbucks would be adequate 
+to protect particular crossings, funding under the program does 
+not preempt Petitioner’s settled state-law duty to provide 
+adequate warning devices. The distinction between the 
+“minimum protection program” and the distinct “hazard” 
+program on which Petitioner’s argument erroneously rests is 
+evident from both federal railroad regulation and the program 
+applied by the State of Tennessee in this case. The former is 
+designed to warn of the mere presence of a railroad crossing 
+ahead, while the latter uses “diagnostic teams” to assess what 
+warning devices are required at individual crossings. 
+
+
+Part I below sets out the relevant statutory and 
+regulatory structure. Part Il reviews this Court’s prior 
+encounter with that structure in CSX Transportation, Inc. vy. 
+Easterwood, 507 U.S. 658 (1993). Finally, Parts II] and 1V 
+describe the facts of this case and the proceedings below. 
+
+
+I. Statutory and Regulatory Background 
+
+
+A. Provisions Governing State “Hazard” and 
+“Minimum Protection” Programs 
+
+
+1. The Federal Programs 
+Nearly ten times every day, a train collides with a car or 
+truck somewhere in the United States, frequently killing or 
+grievously wounding the vehicle’s driver and passengers. 
+
+
+National Transportation Safety Board, Safety Study, Safety at 
+
+
+Passive Grade Crossings, Vol 1: Analysis vii (adopted July 21, 
+1998). Fully 60% of the fatalities occur at crossings protected 
+only by “passive” warning devices such as_ standard 
+“crossbucks” (which are the only protection at two-thirds of the 
+nation’s 295,000 rail crossings) rather than “active” devices 
+such as flashing lights and automatic gates triggered by the 
+approach of an oncoming train. /d. at vii & Appendix A, Table 
+2. 
+
+
+Congress has provided financial assistance to help 
+alleviate these grave dangers to the public. In 1970, Congress 
+directed the Secretary of Transportation (“Secretary’’) to study 
+the problem and to propose a plan of federal assistance. 
+Federal Rail Safety Act of 1970, Pub. L. No. 91-458, § 204, 84 
+Stat. 971, 977. The Secretary’s response recognized that 
+conditions at many crossings, such as those with multiple lanes 
+of vehicular traffic and trains traveling at high speeds, merited 
+the advanced protection of flashing lights and automatic gates. 
+But the Secretary also recognized that it would not be feasible 
+for the federal government to pay to install advanced protection 
+at all crossings in need. See U.S. D.O.T., Railroad-Highway 
+Safety, Part 1: A Comprehensive Statement of the Problem v-vi, 
+32-34 (1971) (“DOT Analysis”). 
+
+
+The Secretary also concluded that thousands of rail 
+crossings around the Nation, including many crossings in need 
+of lights and gates, lacked even the minimum level of 
+protection provided by the standard “crossbuck” described in 
+the federal Manual on Uniform Traffic Control Devices 
+(“MUTCD”). Regarding this lack of minimum protection, the 
+Secretary explained that “correct[ing] this deficiency will 
+require installation of an additional sign at those crossings now 
+having only one, and will require installation of two crossbuck 
+signs at the several thousand public crossings reported as 
+having no signs or signals.” /d. at 67. The Secretary 
+
+
+2 
+
+
+accordingly recommended that Congress make federal funds 
+available to install crossbucks at a// crossings to provide 
+minimum protection on an urgent basis. U.S. D.O.T., 
+Railroad-Highway Safety, Part Il: Recommendations for 
+Resolving the Problem 90 (1972). The Secretary emphasized: 
+“Installation of these signs [crossbucks] would be made without 
+any prior benefit-cost analysis, on the basis that this is a 
+mandatory minimum requirement for safety."’ DOT Analysis at 
+67 (emphasis added). Installing minimum signage thus 
+presented an inexpensive means to ensure that all crossings had 
+at least some protection. This view was confirmed by a Report 
+to Congress submitted by the Federal Rail Administration: 
+
+
+If every grade crossing could be protected with 
+an active device, the problems experienced 
+could be reduced to minimum levels. In view 
+of generally limited monetary resources, 
+however, it is, and will continue for many years 
+to be, necessary to protect many grade crossings 
+with devices that only inform the motorist of 
+[the] hazard and place upon him the 
+responsibility for a decision of whether or not it 
+is safe to proceed. As a result, it is believed that 
+the greatest immediate opportunity for the 
+improvement of the motorist’s decision making 
+process is in the area of passive protection of 
+grade crossings. 
+
+
+Federal Rail Administration, Report of Acting Administrator 
+Carl V. Lyon 665 (Mar. 30, 1971). 
+
+
+Congress adopted the Secretary's recommendations in 
+the Highway Safety Act of 1973, which authorized the use of 
+federal funds to pay “the entire cost of construction of projects 
+for the elimination of hazards at railway-highway crossings.” 
+
+
+3 
+
+
+23 U.S.C. § 130(a). The statute did not mandate the installation 
+of warning devices with railroad or State funds. Instead, it 
+conditioned the receipt of federal funds on compliance with the 
+two initiatives proposed by the Secretary: 
+
+
+Each State [(a)] shall conduct and 
+systematically maintain a survey of all 
+highways to identify those railroad crossings 
+which may require separation, relocation, or 
+protective devices, and establish and implement 
+a schedule of projects for this purpose. [(b)] Az 
+a minimum, such a schedule shall provide signs 
+for all railway-highway crossings. 
+
+
+ld. § 130(d) (emphasis added). In each State, the former 
+requirement came to be known as the “hazard program,” while 
+the latter was known as the “minimum protection program.” 
+
+
+Memoranda prepared by the Department of 
+Transportation in response to the Highway Safety Act of 1973 
+emphasize that the “minimum protection program” was a 
+distinct initiative. The Federal Highway Administration 
+(“FHWA”) explained in 1974: 
+
+
+Section 203(a) of the Highway Safety Act of 
+1973 requires as a minimum that each State’s 
+schedule of improvements shall provide signs at 
+all crossings. As a first priority each State, in 
+cooperation with the involved railroad and any 
+other agency having jurisdiction, shall identify 
+
+
+' The “hazard” program is also sometimes referred to as the 
+
+
+“priority” program. See, e.g., JA 98 (testimony of engineer in charge of 
+Tennessee crossing program). 
+
+
+those grade crossings at which there are either 
+no signs or nonstandard signs and institute an 
+improvement program to provide signing and 
+pavement marking in compliance with [the] 
+Manual on Uniform Traffic Control Devices at 
+all grade crossings. 
+
+
+FHMP 6-8-2-1 (Feb. 3, 1974) (emphasis added) (lodged with 
+this Court); see also DOT/FHA Memoranda dated Oct. 8, 1975, 
+June 17, 1977, and Oct. 8, 1978 (lodged with this Court). 
+
+
+2. States’ “Hazard” and “Minimum 
+Protection” Programs 
+
+
+States must prepare the schedule of crossing 
+improvements required by Section 1|30(d) in conformance with 
+23 C.F.R. Part 924. Under the “hazard” program, States must 
+request federal funds for advanced warning devices pursuant to 
+[a] process for collecting and maintaining a record of accident, 
+traffic, and highway data,” as well as “[a] process for analyzing 
+available data,” and “[a] process for establishing priorities for 
+implementing highway safety improvement projects.” 23 
+C.F.R. § 924.9(a)(1), (2), (4). Because the pool of federal 
+funds available is limited, the States annually select what their 
+data suggest are the most dangerous crossings. Those crossings 
+are then studied individually by “diagnostic teams” that 
+recommend particular warning devices. See, e.g., Diagnostic 
+Team Report & Minute Order, reprinted from Record in Bock 
+v. St. Louis Southwestern Ry. Co., pet. for cert. pending, No. 
+99-538 (lodged with this Court). Based on_ that 
+recommendation, States submit requests to FHWA for funding 
+
+
+-to install advanced warning devices. 
+
+
+Regarding the minimum protection program, the 
+regulations direct that “special emphasis shall be given to the 
+
+
+5 
+
+
+legislative requirement that all public crossings be provided 
+with standard signing.” /d. § 924.9(b). States have exercised 
+some flexibility in their minimum protection programs. 
+Testimony in this case, for example, suggested that Tennessee 
+required not just crossbucks but also pavement markings and an 
+additional advance warning sign. JA 102, 103.’ 
+
+
+In identifying crossings in need of minimum protection, 
+States were not required to gather or analyze the more 
+extensive data required to create the schedule of priority 
+improvements mandated by 23 C.F.R. Part 924, and those 
+crossings were not subject to individualized review by a 
+specialized “diagnostic team.” Compare JA 105, 107, 125, 126 
+(explaining that diagnostic team was used for evaluation on 
+Tennessee’s hazard program). Instead, States simply submitted 
+en masse requests to the FHWA for funding, frequently to 
+install minimum protection on hundreds or even thousands of 
+crossings. See, e.g., Pet. for Cert. in No. 99-538, Bock v. St. 
+Louis Southwestern Ry. Co., at 6 (273 crossings); Shots v. CSX 
+Trans., Inc., 38 F.3d 304, 306, 308 (7th Cir. 1994) (2,638 
+crossings). These requests did not provide the federal 
+government any substantial data to evaluate the conditions at 
+individual crossings. See infra at 31-37. 
+
+
+Pursuant to 23 U.S.C. § 130(d), Tennessee adopted both 
+a “hazard” and a “minimum protection” program. Petitioner 
+
+
+It is not clear whether Petitioner is correct in contending that the 
+Tennessee standard “goes far beyond the federal MUTCD minimum,” Pet. 
+Br. 19, given that the MUTCD in some circumstances requires the 
+installation of more than merely crossbucks, e.g., MUTCD at 8B-2, 8B-3, 
+and 8B-4, and the trial testimony on the issue was not developed. All that 
+matters for present purposes, however, is that the standard was a 
+“minimum” and that States apparently exercised some degree of flexibility 
+in setting the “minimum.” 
+
+
+correctly recognizes that these are two separate programs. Pet. 
+Br. 19; accord JA 105 (testimony of engineer in charge of 
+Tennessee’s crossing improvement program confirming that the 
+State’s hazard program is “not in any way connected with the 
+minimum protection program other than being administered by 
+[the Tennessee Department of Transportation]”). Under the 
+“minimum protection” program, every crossing that “would 
+take it” must be protected by a “minimum” of “two 
+reflectorized crossbucks, two advanced warning signs and two 
+advanced pavement markings.” Pet. Br. 20 (citing JA 102-03). 
+The warning devices at issue in this case were installed 
+pursuant to the Tennessee “minimum protection program,” see 
+infra at 31-32, and accordingly it is that program that is at issue 
+in this case. 
+
+
+B. 23 C.F.R. § 646.214 
+
+
+FHWA regulations govern the “[djesign” of warning 
+devices on railroad-highway projects. 23 C.F.R. § 646.214. 
+Warning devices for which federal funding is sought must 
+“comply with the latest edition of the Manual on Uniform 
+Traffic Control Devices for Streets and Highways 
+supplemented to the extent applicable by State standards.” /d. 
+§ 646.214(b)(1); see also 23 C.F.R. § 655.601-.603 
+(incorporating MUTCD into federal regulations by reference). 
+The MUTCD sets out uniform requirements for railroad- 
+crossing signs, including size, shape, and color. See 
+Easterwood, 507 U.S. at 669. In addition, the MUTCD 
+requires that, at the least, each crossing be protected by a single 
+crossbuck on either side of the track and, in certain 
+circumstances, by additional devices such as pavement 
+markings. See. MUTCD at 8B-4. 
+
+
+The regulation also defines the term “adequate warning 
+devices” for purposes of “any project where Federal-aid funds 
+
+
+7 
+
+
+participate in the installation of the devices.” When “(b)(3) 
+conditions” (so-called because they are set forth in 23 C.F.R. § 
+646.214(b)(3)) exist — such as “[h]igh [s]peed train operation,” 
+a “combination of high speeds and moderately high volumes of 
+highway and railroad traffic,” “unusually restricted sight 
+distance,” and “continuing accident occurrences” — “adequate 
+warning devices” must include flashing lights and lowering 
+gates. 23 C.F.R. § 646.214(b)(3)(i). Alternative devices may 
+be used only “[i]n individual cases where a diagnostic team 
+justifies that gates are not appropriate” and the FHWA agrees. 
+Id. § 646.214(b)(3)(ii) (emphasis added). When “the 
+requirements of § 646.214(b)(3) are not applicable, the type of 
+warning device to be installed * * * is subject to the approval 
+of FHWA.” /d. § 646.214(b)(4). 
+
+
+il. This Court’s Decision in CSX Transportation, Inc. v. 
+Easterwood 
+
+
+This Court addressed the preemptive effect of federal 
+railroad regulation in CSX Transportation, Inc. v. Easterwood, 
+507 U.S. 658 (1993). The plaintiff's husband in Easterwood 
+was killed in an accident at the Cook Street Crossing in 
+Cartersville, Georgia. As required by 23 U.S.C. § 130(d) and 
+23 C.F.R. Part 924, the State of Georgia had included the 
+crossing in its inventory and had determined to add automatic 
+gates to the flashing lights already protecting the crossing. 
+Easterwood, 507 U.S. at 671-72. As required by 23 C.F.R. § 
+646.214, the State apparently requested and received federal 
+funds for that purpose. The State, however, ultimately decided 
+to spend the funds to install lights and gates at nearby crossings 
+instead and to install, at the Cook Street Crossing, only new 
+circuitry for the existing lights. /d. 
+
+
+This Court unanimously held that the plaintiff's 
+inadequate warning device claim was not preempted. The 
+
+
+8 
+
+
+Court began by emphasizing that, in areas “traditionally 
+governed by state law” such as tort liability, federal courts are 
+“reluctant to find pre-emption” so as to avoid “unintended 
+encroachment on the authority of the States.” Easterwood, 507 
+U.S. at 663-64. This “presumption against pre-emption” is 
+heightened under the preemption provision of the FRSA, which 
+provides: 
+
+
+Laws, regulations, and orders related to railroad 
+safety shall be nationally uniform to the extent 
+practicable. A State may adopt or continue in 
+force a law, regulation, or order related to 
+railroad safety until the Secretary of 
+Transportation prescribes a regulation or issues 
+an order covering the subject matter of the State 
+requirement. A State may adopt or continue in 
+force an additional or more stringent law, 
+regulation, or order related to railroad safety 
+when the law, regulation, or order-(1) is 
+necessary to eliminate or reduce an essentially 
+local safety hazard; (2) is not incompatible with 
+a law, regulation or order of the United States 
+Government; and (3) does not unreasonably 
+burden interstate commerce. 
+
+
+49 U.S.C. § 20106 (then codified at 45 U.S.C. § 434). This 
+Court recognized that, by limiting preemption to federal law 
+that “cover[s] the subject matter of” state law, Congress had 
+used a “restrictive” term that “is in turn employed within a 
+provision that displays considerable solicitude for state law in 
+that its express preemption clause is both prefaced and 
+succeeded by express savings clauses” 507 U.S. at 664, 665. 
+Accordingly, the Court held that “preemption will lie only if the 
+federal regulations substantially subsume the subject matter of 
+the relevant state law.” /d. at 664 (emphasis added). 
+
+
+9 
+
+
+The Court then rejected the railroad’s argument that 
+preemption arose from 23 U.S.C. § 130(d) and 23 C.F.R. Part 
+924. As explained supra at 5, under those provisions, States 
+are entitled te receive federal funds to install warning devices 
+only if they spend those funds in accordance with a priority list 
+of hazard crossings. This requirement, the Court explained, 
+merely “establish[es] the general terms of the bargain between 
+the Federal and State Governments: The States may obtain 
+federal funds if they take certair ste,»s to ensure that the funds 
+are efficiently spent.” 507 U.S. ai 667. Such a “federal effort 
+to encourage the States to rationalize their decisionmaking has 
+little to say about the subject matter of negligence law.” /d. 
+“In fact, the scheme of negligence liability could just as easily 
+complement these regulations by encouraging railroads — the 
+entities arguably most familiar with crossing conditions — to 
+provide current and complete information to the state agency 
+responsible for determining priorities for improvement projects 
+in accordance with [23 C.F.R.] § 924.9.” Id. at 668; see also id. 
+(“the regulations provide no affirmative indication of their 
+effect on negligence law”). 
+
+
+The Court also rejected the claim that preemption arose 
+from the federal requirement that crossings comply with the 
+MUTCD. Noting the “implausibility” of that theory, the Court 
+explained that this argument assumed “that established state 
+negligence law has been implicitly displaced by means of an 
+elliptical reference in a Government Manual otherwise devoted 
+to describing for the benefit of state employees the proper size, 
+color, and shape of traffic signs and signals.” Easterwood, 507 
+U.S. at 669. In reality, the MUTCD “disavows any such 
+pretensions” and “provides a description of, rather than a 
+prescription for, the allocation of responsibility for grade 
+crossing safety between the Federal and State Governments and 
+between States and railroads.” /d. (citing MUTCD, at 1A-4). 
+
+
+10 
+
+
+Finally, the Court addressed a third possible basis for 
+preemption not asserted by the railroad or discussed by the 
+lower courts. Under 23 C.F.R. § 646.214(b)(3) and (4), 
+Georgia’s request to use federal funds to upgrade a particular 
+crossing’s protection with active warning devices was subject 
+to federal approval. “[A] project for the improvement of a 
+grade crossing must either include an automatic gate or receive 
+FHWA approval if federal funds ‘participate in the installation 
+of the [warning] devices.’"” Easterwood, 507 U.S. at 670 
+(quoting 23 C.F.R. § 646.214(b)(3), (4)). In addition, the 
+regulation sets the terms of railroads’ involvement in the 
+selection of warning devices by envisioning “railroad 
+involvement in the selection of warning devices through their 
+participation in diagnostic teams” and by providing that 
+“railroad participation in the initial determination of ‘the type 
+of warning device to be installed’ at particular crossings is 
+subject to the Secretary’s approval.” /d. at 671. In sucha 
+circumstance, a plaintiff's claim would be preempted because 
+“the Secretary has determined the devices to be installed and 
+the means by which railroads are to participate in their 
+selection.” Jd. 
+
+
+The Court concluded that preemption did not apply, 
+however. Although Georgia had requested and received federal 
+funds to install automatic gates at the Cook Street Crossing, it 
+subsequently decided to install the gates at another crossing and 
+to install only new circuitry — which did not, under applicable 
+federal regulations, qualify as a “warning device” — at the Cook 
+Street Crossing. /d. at 672. 
+
+
+Ill. Factual Background And District Court Proceedings 
+
+On October 3, 1993, in the darkness before dawn, Eddie 
+Shanklin was driving his car well below the posted speed limit 
+on a local road in Gibson County, Tennessee as he approached 
+
+
+the Oakwood Church Road railroad grade-crossing. JA 54, 70- 
+71. As testimony later established, the crossing was unusually 
+dangerous due to the presence of a variety of hazardous 
+conditions. Despite these hazards, the railroad had never 
+installed any warning devices beyond the existing “passive” 
+signs. 
+
+
+As Mr. Shanklin approached, so did a train operated by 
+Petitioner Norfolk Southern. Mr. Shanklin could not see the 
+train coming, if at all, until it was so close upon him that he 
+could not stop in time. As expert testimony later explained, the 
+Oakwood Church Crossing was “ultrahazardous”: even under 
+the “best case situation” Mr. Shanklin “literally had three 
+seconds of time from when the train came into view before the 
+collision, and it takes 3.4 seconds for a motorist to be able to 
+react and brake under those conditions.” JA 75-76. Mr. 
+Shanklin was killed when the train struck his car broadside, 
+shoving it violently more than a thousand feet down the track 
+until the train finally came to a stop. 
+
+
+Eddie Shanklin’s widow, Respondent Dedra Shanklin, 
+filed this suit alleging claims under Tennessee common law, 
+including that Petitioner had failed to install adequate warning 
+devices at the crossing. On Petitioner’s motion for summary 
+judgment, the district court held that this claim was not 
+preempted by the FRSA. Six years prior to the accident, the 
+State had installed warning signs at the Oakwood Church 
+Crossing and 195 other crossings in a “mop up” effort under its 
+“minimum protection program.” JA 106, 133. It is undisputed 
+that nothing beyond the minimum, such as automatic gates and 
+lights, was present at the crossing. (As explained infra at 20- 
+22, even one of the required minimum protections — advance 
+pavement markings — had not been requested for, or-installed 
+at, the crossing.) 
+
+
+12 
+
+
+As noted supra, the minimum protection program does 
+not involve any determination that passive warning devices are 
+adequate to protect a crossing. The district court therefore held 
+that Ms. Shanklin’s inadequate warning claim is not preempted 
+because “[a]lthough authorization for the expenditure was 
+given by the FHWA, there is no evidence in the record that 
+there were specific determinations that such passive warning 
+devices were adequate for particular crossings.” Cert. App. 
+34a. 
+
+
+Moreover, the district court explained that the crossing 
+was characterized by a variety of hazardous conditions: “high 
+speed train operations combined with limited sight distance, 
+moderately high railroad and highway traffic, trucks carrying 
+hazardous materials, and a prior collision at the crossing.” 
+Cert. App. 35a. Under 23 C.F.R. § 646.214(b)(3), the FHWA 
+could not approve crossbucks as “adequate” in_ these 
+circumstances without a recommendation to that effect by a 
+diagnostic team that had studied the crossing. The district court 
+accordingly explained that preemption could not apply: “As no 
+diagnostic recommendation was made, there was no basis for 
+FHWA approval or disapproval.” Cert. App. 36a. 
+
+
+After the close of evidence at trial, the judge instructed 
+the jury that, as a matter of Tennessee law: 
+
+
+It’s the duty of a railroad company to exercise 
+reasonable care at public highway crossings to 
+warn and to avoid injury to persons traveling 
+upon the highway and crossing the railroad 
+tracks. The amount of caution required by a 
+railroad company in the exercise of reasonable 
+care must be commensurate with the hazards 
+and dangers that are apparent to it or that would 
+be apparent to a reasonably prudent person 
+
+
+13 
+
+
+under circumstances similar to those shown by 
+the evidence. 
+
+
+JA 53. The judge specifically instructed the jury regarding the 
+implications of this duty on the railroad’s responsibilities to 
+provide warnings. Under Tennessee law, “Reasonable care and 
+common prudence may encompass providing additional 
+warning devices if the crossing is more than ordinarily 
+hazardous.” /d. at 55. 
+
+
+The jury returned a verdict for Ms. Shanklin. It found 
+Norfolk Southern 70 per cent responsible for Eddie Shanklin’s 
+death, with the remaining 30 per cent charged to Shanklin, and 
+found that Ms. Shanklin’s damages were $615,000. The 
+district court entered judgment for $430,000 based on the jury's 
+allocation of responsibility. Cert. App. 2a. 
+
+
+IV. The Sixth Circuit’s Decision 
+
+
+The Sixth Circuit affirmed, rejecting the contention that 
+the FRSA preempts Ms. Shanklin’s inadequate warning device 
+claim. The court of appeals noted the split in the lower courts 
+on whether federal approval of funding alone equates with a 
+finding by the federal government that proposed warning 
+devices were “adequate” — what the court termed the “fiction of 
+constructive approval” — thus triggering preemption, Cert. App. 
+13a, or whether actual compliance with the regulation is also 
+necessary, i.e., “whether the Secretary or one of his agents 
+actually determined that active warnings were needed pursuant 
+to (b)(3) or that only passive warnings were needed pursuant to 
+(b)(4),” id. The court of appeals took the latter approach and 
+rejected Petitioner’s argument that federal approval of funding 
+alone is sufficient to oust state law. 
+
+
+The Sixth Circuit reasoned that a finding of preemption 
+
+
+14 
+
+
+based on approval of federal funding alone would relieve the 
+railroad of responsibility for grade-crossing safety in 
+circumstances in which the federal government has not 
+“assumed responsibility by stepping in and making its own 
+determination” of adequacy at a particular crossing. Cert. App. 
+16a. Such a result not only would “have the effect of removing 
+the protections of state law from large number of crossings 
+which have not yet been analyzed in accordance with 
+subsections (b)(3) and (4),” but also would be inconsistent with 
+the FRSA’s preemption provision and the Act's principal goal 
+of increasing railroad safety by reducing the number of deaths 
+and injuries from accidents. /d. at 17a. Finally, the court of 
+appeals concluded that 23 U.S.C. § 409 — which bars discovery 
+or use of certain reports, surveys, schedules, and like 
+documents in state or federal litigation — applies only to certain 
+documents compiled by States and in no way affects the 
+discovery or admissibility of an FHWA approval of the use (or 
+non-use) of warning devices at a particular grade crossing. 
+Cert. App. 20a-22a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The record below establishes that federal officials did 
+not determine that the warning devices installed at the 
+Oakwood Church Road crossing were adequate to protect the 
+traveling public. Accordingly, no federal requirement “cover{s] 
+the subject matter” of Petitioner’s state law duty to provide 
+adequate warning devices within the meaning of 49 U.S.C. § 
+20106 and Respondent’s state law claim based on breach of 
+that duty is not preempted. The contrary assertion of Petitioner 
+and its amici misunderstands the operation of the rail-crossing 
+program involved in this case in two important respects. 
+
+
+First, no matter whether the federal standards applicable 
+to this crossing have preemptive effect, those standards weren't 
+
+
+15 
+
+
+complied with. federal regulations require that the Oakwood 
+Church Road crossing be protected by a specific type of 
+warning device — pavement markings — that was not present. 
+Second, neither Tennessee nor the federal government 
+determined that the crossing would be adequately protected by 
+the warning devices that were installed. This case involves a 
+“minimum protection program” that used federal funds to 
+install, without regard to adequacy, passive warning devices as 
+a minimum safety measure for all crossings around the country. 
+The “diagnostic team” required by federal regulations never 
+considered whether the minimum protection devices were 
+adequate to protect the public. Instead, thé federal government 
+merely authorized the release of funds in an urgent effort to 
+bring crossings up to a minimum standard, never intending to 
+supplant railroads’ state-law obligations to install “adequate” 
+warnings. It is only once the devices chosen through a 
+diagnostic team study and paid for with federal funds are 
+installed and functioning properly that the railroad’s state law 
+duty is preempted by federal law. 
+
+
+A finding of preemption on these facts would have 
+devastating consequences for safety. Petitioner has 
+acknowledged that it “consistently has had the highest number 
+of crossing accidents and the worst rate of such incidents 
+among major railroads.” JA 124. Petitioner nonetheless would 
+have this Court adopt a proposition that railroads are absolved 
+of their settled commen law duties even when a crossing is not 
+protected in compliance with federal minimum safety 
+standards. Petitioner’s position, if adopted by this Court, would 
+allow railroads to shirk their duty to protect the traveling public 
+at tens of thousands of crossings at which no official, federal or 
+state, has determined that the existing warning devices are 
+adequate. In fact, because on Petitioner’s view the federal 
+government would have preempted all state law obligations at 
+such crossings, States could not even regulate the crossings to 
+
+
+16 
+
+
+require further protection. Congress, which enacted the Federal 
+Rail Safety Act to reduce dangers at grade-crossings, could 
+never have intended such a result. This Court accordingly 
+should affirm the Sixth Circuit’s judgment. 
+
+
+ARGUMENT 
+I. Introduction — Basic Preemption Principles 
+
+
+Several important aspects of this Court's Supremacy 
+Clause jurisprudence converge in this case. First, despite the 
+supremacy of federal law and the importance of interpreting a 
+statute’s preemptive scope according to its text and structure, 
+Easterwood, 507 U.S. at 664, a party asserting preemption of 
+state law bears a heavy burden. Thus, “[c]onsideration under 
+the Supremacy Clause starts with the basic assumption that 
+Congress did not intend to displace state law.” Maryland v. 
+Louisiana, 451 U.S. 725, 746 (1981). Put differently, 
+“[p]reemption of state law by federal * * * regulation is not 
+favored ‘in the absence of persuasive reasons—ceither that the 
+nature of the regulated subject matter permits no other 
+conclusion, or that Congress has unmistakably so ordained.” 
+Chicago & North Western Transp. Co. v. Kalo Brick & Tile 
+Co., 450 U.S. 311, 317 (1981) (quoting Florida Lime & 
+Avocado Growers, Inc. v. Paul, 373 U.S. 132, 142 (1963)). 
+This clear statement rule “provides assurance that the ‘federal- 
+state balance’ will not be disturbed unintentionally by Congress 
+or unnecessarily by the courts.” Jones v. Rath Packing Co., 
+430 U.S. 519, 525 (1977) (quoting United States v. Bass, 404 
+U.S. 336, 349 (1971)). 
+
+
+Second, the presumption against preemption is even 
+stronger when, as in this case, “Congress [has] legislated * * *. 
+in a field which the States have traditionally occupied, 
+[involving] the historic police powers of the States.” Rice v. 
+
+
+17 
+
+
+Santa Fe Elevator Corp., 33\ U.S. 218, 230 (1947); see also 
+Medtronic, Inc. v. Lohr, 518 U.S. 470, 484-86 (1996). This 
+tenet was forcefully advanced by the Easterwood majority both 
+in its narrow construction of the FRSA’s preemption provision, 
+507 U.S. at 665, and in its rejection of the railroad’s particular 
+preemption arguments concerning the plaintiff's adequate 
+warning claim, id. at 664, 668; see also id. at 679 (Thomas, J., 
+joined by Souter, J., concurring in part and dissenting in part) 
+(relying on presumption against preemption to reject 
+preemption of excessive speed claim).” 
+
+
+Third, in this case (as in Easterwood), where the 
+FRSA’s allegedly preemptive scheme does not itself provide a 
+damages remedy, the Court has ascribed preemptive intent to 
+Congress only in the most compelling circumstances. See 
+English v. General Electric Co., 496 U.S. 72, 87-90 (1990); 
+Silkwood v. Kerr-McGee Corp., 464 U.S. 238, 251 (1984). 
+
+
+The foregoing anti-preemption precepts are not mere 
+
+
+‘ Particularly in light of Easterwood’s express invocation of the 
+
+
+“presumption against pre-emption,” 507 U.S. at 668, the argument put forth 
+by amicus Product Liability Advisory Counsel that the presumption does 
+not apply in express preemption cases is, charitably put, misleading. See 
+PLAC Br. 3-12. This Court has repeatedly made clear that the presumption 
+applies just as forcefully where the question presented is the scope, rather 
+than the existence, of preemption, and accordingly has invoked the 
+presumption in almost every recent express preemption case. See 
+Medtronic, Inc. v. Lohr, 518 U.S. 470, 484-85 (1996) (explicitly rejecting 
+argument that presumption does not apply in express preemption cases); see 
+also, e.g., New York Conference of Blue Cross & Blue Shield Plans v. 
+Travelers Ins. Co., 514 U.S. 645, 654-55.(1995); Cipollone v. Liggett 
+Group, Inc., 505 U.S. 504, 516, 518 (1992) (majority opinion); id. at 532-33 
+(separate opinion); cf, U.S. Term Limits, Inc. v. Thornton, 514 U.S. 779, 871 
+n.12 (1995) (Thomas, J., joined by Rehnquist, C.J., O’Connor, J., and 
+Scalia, J., dissenting). 
+
+
+18 
+
+
+precedential idiosyncrasies, but are deeply embedded in the 
+“federal-state balance” that was fundamental to the 
+constitutional plan. Hillsborough County, Fla. vy. Automated 
+Med. Labs., Inc., 471 U.S. 707, 717-19 (1984); Rath Packing 
+Co., 430 U.S. at 525. This Court’s Supremacy Clause 
+jurisprudence thus is “an acknowledgment that the States retain 
+substantial sovereign powers under our constitutional scheme, 
+powers with which Congress does not readily interfere.” 
+Gregory v. Ashcroft, 501 U.S. 452, 461 (1991). “{R]equiring 
+that Congress speak clearly will help ensure that its decision to 
+preempt is the product of a deliberate policy choice. Our 
+system of federalism demands that interference with states’ 
+policy decisions to give their citizens tort remedies should be 
+the product of judgment and careful balancing, rather than an 
+unintended result of congressional inattention or imprecision.” 
+Betsy J. Grey, Make Congress Speak Clearly: Federal 
+Preemption of State Tort Remedies, 77 B.U.L. Rev. 559, 627 
+(1997). 
+
+
+In this regard, the presumption against preemption 
+works in tandem with an analogous subject of this Court's 
+federalism jurisprudence, the Eleventh Amendment, which 
+provides that States are immune from suit in federal court. See 
+Edelman v. Jordan, 415 U.S. 651 (1974). Congress may 
+override that judgment, pursuant to its legislative powers under 
+the Fourteenth Amendment, see Fitzpatrick v. Bitzer, 427 U.S. 
+445 (1976), but the Court has insisted that Congress do so in 
+unmistakably clear terms and has enforced that edict very 
+strictly, see, e.g., Atascadero State Hosp. v. Scanlon, 473 U.S. 
+234, 238-46 (1985). Because the same principles of federalism 
+that support the Court’s Eleventh Amendment jurisprudence 
+also undergird Supremacy Clause jurisprudence, the plain- 
+statement rule should be just as stringently enforced in the 
+preemption context as it is in the Eleventh Amendment context. 
+See Gregory, 501 U.S. at 460-67; Wisconsin Public Intervenor 
+
+
+19 
+
+
+v. Mortier, 501 U.S. 597, 607-09 (1991); accord Cipolione, 505 
+U.S. at 533 n.1 (Blackmun, J., joined by Kennedy and Souter, 
+JJ., concurring in part, concurring in the judgment in part, and 
+dissenting in part) (suggesting identity of Eleventh Amendment 
+plain-statement rule and “clear and manifest” preemption 
+standard). 
+
+
+il. Petitioner Cannot Prevail Under Any Theory Of 
+Preemption Because Federally Required Warning 
+Devices Were Not Installed At The Oakwood 
+Church Crossing. 
+
+
+Even under Petitioner’s own theory of preemption, it 
+cannot prevail on the facts of this case. As Petitioner 
+acknowledges, the FHWA has provided that “States ‘must 
+employ devices that conform to standards set out in [the 
+MUTCD]. Pet. Br. 14-15 (quoting Easterwood, 507 U.S. at 
+667) (emphasis in Pet. Br.). The speed limit on the Oakwood 
+Church Road is 55 miles per hour. JA 54. The MUTCD 
+requires that all crossings on roads with speed limits of 55 and 
+above be protected by pavement markings. MUTCD at 8 B-4. 
+Pavement markings, however, were not present at the Oakwood 
+Church Crossing. Instead, as Petitioner explains, the State 
+“installed reflectorized crossbucks and three advanced warning 
+signs,” not pavement markings. Pet. Br. 20 (citing JA 103-04, 
+128). Tennessee’s request to the federal government for 
+funding for warning devices at the Oakwood Church Crossing 
+omits any request for funds to install pavement markings. JA 
+134 (line 8). This omission is particularly noteworthy because, 
+according to trial testimony that Petitioner embraces, Tennessee 
+determined that all crossings in the state must be protected by 
+“two reflectorized crossbucks, two advanced warning signs and 
+two advanced pavement markings at each crossing, if the road 
+would take it.” JA 102-03 (emphasis added); Pet. Br. 20; see 
+also JA 93 (testimony confirming that MUTCD “has the force 
+
+
+20 
+
+
+rn wees 
+
+
+| 
+
+
+of regulation in the State of Tennessee”); id. at 132 (report 
+stating that project encompassed installation of “signs & 
+pavement markings at 196 off-system railroad crossings” 
+(emphasis added)). The Oakwood Church Road is paved, not 
+a gravel road on which pavement markings could not be 
+painted. JA 135. 
+
+
+Petitioner ciaims that the failure to install pavement 
+markings at the Oakwood Church Crossing “shows that, despite 
+the numerous crossings in the federally funded project, due 
+attention was given by the governmental authorities to the 
+upgrade needs of each individual crossing.” Pet. Br. 20. The 
+MUTCD, however, does not pernit a deviation from the 
+installation of pavement markings on such a road. Nor does 
+Tennessee. To the contrary, the engineer in charge of the 
+State’s crossing program testified that an across-the-board 
+standard applied, and also that the individuals who installed the 
+safety devices had no experience in making railroad safety 
+judgments. JA 105, 106. They accordingly could not give any 
+attention, much less “due attention,” to the needs of the 
+Oakwood Church Crossing. 
+
+
+Petitioner fails to explain on what possible theory it can 
+prevail in this case, given that the warning devices at the 
+crossing did not comply with the minimum safety standards of 
+the federal government. Indeed its substantive arguments show 
+that it cannot prevail. Petitioner’s position is that federal 
+standards determine what warning devices are adequate for 
+each crossing and accordingly preempt state law duties. Pet. 
+Br. 25-26. But those standards weren’t complied with here. 
+Petitioner also argues that FHWA has designated the State of 
+Tennessee as its agent for purposes of determining what 
+warning devices are adequate at rail crossings in the State. /d. 
+at 33-42. Although that is not correct, see infra at 42-43, even 
+if it were, Petitioner could not prevail because this crossing was 
+
+
+21 
+
+
+not protected by the warning devices mandated by state policy. 
+
+
+Finding preemption in these extraordinary 
+circumstances would have devastating consequences for rail 
+safety because the mere existence of federal or state safety 
+standards would be enough to trump railroads’ obligations to 
+maintain safe crossings, even when those minimum standards 
+are not implemented. No one would be responsible for ensuring 
+that the crossing was safe. Easterwood rejected such a result in 
+refusing to find preemption, notwithstanding that Georgia had 
+requested funds in compliance with federal regulations and 
+FHWA had issued the funds, because the State ultimately failed 
+to install the devices authorized by the federal government. 
+507 U.S. at 671-72. 
+
+
+Ill. The Mere “Applicability” Of Federal Regulations 
+Governing Warning Devices Does Not Trigger 
+Preemption. 
+
+
+A. Preemption Applies Under Easterwood Only 
+If The Federal Government Determined That 
+The Warning Devices In Question Were 
+Adequate. 
+
+
+Petitioner's argument that, under Easterwood, 
+Respondent’s claim is preempted by the mere “applicability” of 
+23 C.F.R. § 646.214(b) is incorrect because Easterwood’s 
+analysis of 23 C.F.R. § 646.214(b) is inapposite to minimum 
+protection programs. Easterwood never stated or suggested 
+that federal funding was both a necessary and a sufficient 
+condition for finding preemption in any, let alone all, 
+circumstances. Easterwood involved Georgia’s decision, 
+pursuant to the hazard rating required by 23 C.F.R. Part 924, to 
+upgrade the warning devices at a crossing to include flashing 
+lights and automatic gates. The minimum protection program 
+
+
+22 
+
+
+ee 
+— 
+
+
+em 
+
+
+was not involved in Easterwood and, in fact, none of the parties 
+or amici in Easterwood advised the Court that the minimum 
+protection program even existed. 
+
+
+Nor does Easterwood’s rationale support Petitioner’s 
+view. The federal regulation invoked by Petitioner, 23 C.F.R. 
+§ 646.214(b)(3) & (4), was “applicable” to the State’s request 
+for funds in Easterwood in the sense that the regulation 
+governed the State’s request for funds, as well as the federal 
+government’s approval of those funds. It was only the 
+subsequent decision by the State to spend the funds on other 
+devices that rendered the regulation “inapplicable.” This Court 
+found the plaintiff's claim was not preempted because devices 
+approved by the federal government as adequate to protect the 
+crossing had not been installed. That conclusion was sound 
+because, as Respondent explains, infra at 28-29, 35; under the 
+hazard program the federal government does in fact use a 
+diagnostic team to determine whether warning devices are 
+adequate before providing funding. Easterwood thus explains 
+that preemption arises when the federal government 
+“displace|s] state and private decision-making authority.” 507 
+U.S. at 670. By contrast, if the federal government merely 
+authorizes the release of federal funds, without any assessment 
+of the adequacy of the devices to be installed, “state and private 
+decision-making authority” obviously remain unaffected. 
+
+
+Nor, as Easterwood requires in order to find 
+preemption, does the minimum protection program “set the 
+terms under which railroads are to participate in the 
+improvement of [their] crossings.” /d.. Railroads remain free 
+to install additional warning devices, as the testimony in this 
+case demonstrates. The engineer charged with administering 
+the State’s program testified that he would have approved a 
+request by Petitioner to upgrade the Oakwood Church Crossing 
+with its own funds “in a heartbeat.” JA 109. Another expert 
+
+
+23 
+
+
+witness confirmed in response to the same question that “[t]he 
+state will accept candidates that are not on their priority list if 
+they’re paid for with other funds than what the state has to 
+pay.” Jd. at 97." | 
+
+
+In the terms of the FRSA’s preemption provision as 
+interpreted in Easterwood, federal regulations “substantially 
+subsume” the subject of Petitioner’s state law duty to provide 
+adequate warnings at each crossing only if the federal 
+government determined that the crossbucks installed under the 
+minimum protection program were, in fact, adequate. If, on the 
+other hand, the federal government provided only “minimum” 
+protection, Petitioner is not excused from its state law duty, 
+which goes well beyond such minimal measures. It “may 
+encompass providing additional warning devices if the crossing 
+is more than ordinarily hazardous.” JA 55 (jury instruction). 
+In particular, it is not enough for the railroad to adopt a 
+minimum standard that does not vary with the circumstances. 
+“The amount of caution required by a railroad company in the 
+exercise of reasonable care must be commensurate with the 
+hazards and dangers that are apparent to it or that would be 
+apparent to a reasonably prudent person under circumstances 
+similar to those shown by the evidence.” /d. at 53. As Chief 
+Judge Posner aptly explained in Shots v. CSX Transportation, 
+38 F.3d 304, 308 (7th Cir. 1994), “[m]inimum is not a synonym 
+
+
+: Although Petitioner would have had to obtain State approval to 
+upgrade the crossing, that is a matter of state law not federal preemption. 
+In any event, under Tennessee law, "[i}rrespective of a state or local 
+government's authority to place safety devices at a grade crossing, this 
+allocation of authority does not relieve the railroads of their duty to take all 
+reasonable precautions to maintain grade crossing safety." JA 56 (jury 
+instructions). 
+
+
+24 
+
+
+for optimum, or even adequate.” ° 
+
+
+Petitioner’s argument that the mere “applicability” of 
+the federal regulations automatically preempts state law, see 
+Pet. Br..25-30, therefore begs the only relevant question: Did 
+the FHWA in practice make a determination of adequacy in 
+issuing federal funds under the minimum protection program, 
+as it did under the hazard program? If FHWA did not believe 
+it was obligated — and it is not so obligated — under the 
+minimum protection program to determine whether crossbucks 
+were adequate to protect particular crossings, “the Secretary of 
+Transportation [has not] prescribe[d] a regulation or issue[d] an 
+order covering the subject matter of the State requirement.” 49 
+U.S.C. § 20106. 
+
+
+B. Petitioner’s View Would Seriously 
+Undermine Safety, Contrary To Congress’ 
+Intent. 
+
+
+To hold that preemption applies even if the FHWA did 
+not make a determination of adequacy would, as the Sixth 
+Circuit correctly concluded, absolve railroads of their common 
+law duties contrary to the FRSA’s express purpose “to promote 
+safety in every area of railroad operations and reduce railroad- 
+related accidents and incidents,” 49 U.S.C. § 20101. Since 
+1973, the FHWA has issued funds for tens of thousands of 
+crossings under the minimum protection program. If the 
+FHWA did not actually conclude that the installation of those 
+crossbucks was adequate to protect the crossings, then it is only 
+common law duties that ensure that railroads will act to protect 
+
+
+> Because this common law duty of railroads is an important 
+
+
+means of ensuring rail safety, Petitioner is wrong to assert that reductions 
+in rail-crossing fatalities are attributable solely to federal funding for 
+crossing upgrades. Pet. Br. 19. 
+
+
+25 
+
+
+the traveling public at those crossings. Otherwise, “no one is 
+responsible for the safety of the motorists who use the 
+crossing.” Cert. App. 16a. 
+
+
+A finding of preemption would be particularly 
+inappropriate in light of the fact that ir response to Easterwood, 
+and at the behest of the railroad industry, the Department of 
+Transportation proposed regulations intended to preempt all 
+such claims. See Selection and Installation of Grade Crossing 
+Warning Systems; Notice of Proposed Rulemaking, 60 Fed. 
+Reg. 11649 (Mar. 2, 1995). In promulgating the regulation, the 
+Secretary recognized that state law “impose[s] a tort law duty 
+upon railroads to maintain safe crossings,” including in some 
+cases “‘a duty to select and install warning systems at hazardous 
+crossings.” /d. at 11651. The Secretary proposed, however, to 
+impose on railroads an affirmative federal duty to report 
+conditions at all crossings, see id. at 11652 (discussing 
+proposed 49 C.F.R. § 234.301), a requirement that would 
+““substantially subsume’ the subject matter of railroads’ 
+selection and installation of highway rail grade crossing 
+warning systems and as such [would] preempt state laws 
+covering the same subject matter, regardless of whether Federal 
+funding of improvements is involved at a particular crossing,” 
+id. at 11651. 
+
+
+After public comment, however, the Secretary withdrew 
+the proposed regulation. See Selection and Installation of 
+Grade Crossing Warning Systems; Termination of Rulemaking, 
+62 Fed. Reg. 42733 (Aug. 8, 1997). Although also critical of 
+comments made in opposition to the proposed regulation, the 
+Secretary recognized that “[aJbsent from virtually all rule 
+comments and testimony * * * were data supporting the 
+conclusions drawn from the rule.” /d. at 42734. Among other 
+things, the Secretary recognized that the assertion that railroads 
+would retain “powerful incentives to continue” funding 
+
+
+26 
+
+
+crossing improvements in a regime in which state tort law was 
+preempted had been supported by “only conclusory comments 
+rather than data on past, present or projected levels of 
+participation.” Jd. The Secretary accordingly withdrew the 
+proposal “in light of the lack of supporting hard data in the 
+record,” concluding that “railroad safety will not be best 
+served” by preempting state law claims. /d. at 42733 (emphasis 
+added). 
+
+
+Petitioner nonetheless maintains in this Court that 
+railroads may not be sued for installing inadequate warning 
+devices at any of the tens of thousands of crossings at which 
+federal funds paid for the installation of crossbucks. It would 
+be extraordinary for this Court to find such claims preempted 
+when the Secretary has stated that they remain available under 
+state law and has concluded, as a policy matter, that they should 
+not be preempted. See Hillsborough County, 471 U.S. at 714- 
+15 (citing Chevron U.S.A., Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837, 842-45 (1984)) (federal agency’s 
+view, expressed in a single sentence in regulatory preamble, 
+that state law was not preempted by federal regulations held 
+“dispositive”); see also Medtronic, 518 U.S. at 496-97, 98-99 
+(according substantial weight to agency’s views on preemptive 
+scope of governing statute); id. at 505-06 (Breyer, J., 
+concurring) (same). Moreover, even the Secretary’s proposal 
+would have imposed on the railroads a federal duty to report 
+crossing conditions, while Petitioner’s argument in this Court 
+would not impose even that obligation. 
+
+
+Four further points illustri.ie that finding preemption. 
+based merely on the approval of federal funding would have 
+terrible implications for safety, which Congress did not intend. 
+First, Petitioner’s view would interfere with the hazard program 
+established by Congress under 23 U.S.C. § 130(d). According 
+to Petitioner, the federal government has determined that every 
+
+
+27 
+
+
+crossing protected under the “minimum protection program” 
+has adequate protection. On that logic, given that “adequate” 
+protection already exists, none of the tens of thousands of 
+crossings funded under the minimum protection program ever 
+would be upgraded with further protection through the 
+installation of advanced warning devices. But Congress 
+contemplated to the contrary in establishing the hazard program 
+under 23 U.S.C. § 130(d) and in later years continuing to 
+appropriate funds for crossing improvements. See, e.g., U.S. 
+Department of Transportation, FHA Notice (Mar. 20, 1973) 
+(“the purpose of this notice is to encourage increased use of 
+automatic gates at railway-highway grade crossings’) (lodged 
+with this Court). 
+
+
+Second, Petitioner's view would preclude State 
+regulatory agencies from determining that crossings improved 
+under the “minimum protection program” required still further 
+protection. Petitioner therefore has it precisely backwards in 
+suggesting that state agencies will ensure that adequate 
+protection is provided. Pet. Br. 40. Preemption applies not 
+only to state common law claims but to any state “law, 
+regulation, or order related to railroad safety.” 49 U.S.C. § 
+20106. As Chief Judge Posner has explained: 
+
+
+Indeed, it would have been an extraordinary act 
+of irresponsibility for the Secretary of 
+Transportation, by approving the agreement, to 
+preclude tort liability for the railroad’s failing to 
+have active warning devices at any of the 
+thousands of crossings covered by the 
+agreement, or otherwise to prevent the state 
+from requiring adequate safety devices at the 
+busiest or most dangerous of these crossings, 
+when no one in the federal government had 
+made a determination that the improvements to 
+
+
+28 
+
+
+be made would bring all the crossings up to a 
+level of safety adequate to satisfy federal 
+standards. 
+
+
+Shots, 38 F.3d at 309 (emphasis added). To strip States of the 
+ability to protect their citizens through state law in this manner, 
+without any corresponding determination of safety by the 
+federal government, would run contrary to the settled 
+presumption against preemption and this Court's repeated 
+recognition of States’ powers as sovereigns. Accord DOT 
+Analysis at A31 (confirming that States can “legally and 
+constitutionally require the railroads to tear the entire 
+responsibility” for the costs of crossing improvements) (citing 
+Atchison, Topeka & Santa Fe Ry. Co v. Public Utility 
+Comm'n.., 346 U.S. 346, 352 (1953). Petitioner, in fact, 
+trumpets its view that Tennessee has gone beyond the federal 
+minimum standard, an approach which (whether or not true) 
+would be impossible under Petitioner’s view of preemption. 
+
+
+Third, the installation of warning devices can be a slow 
+process. After a State applies for and obtains federal funding 
+to upgrade warning devices at a crossing, it may take years for 
+the railroad to respond to the state’s request for a proposed 
+budget and to complete the construction. If preemption arises 
+from the mere “applicability” of federal regulations, as opposed 
+to actual installation of warning devices protecting the crossing, 
+then railroads are relieved of their common law duties to 
+protect the public before there is any corresponding safety 
+benefit. Easterwood requires more, holding that preemption 
+does not apply, and that railroads must comply with common 
+law duties, until devices required by federal regulations and 
+approved by the federal government as adequate under the 
+circumstances are actually installed and operating. The Sixth 
+Circuit correctly followed this precept when it rejected 
+Petitioner’s argument that preemption followed from the mere 
+
+
+29 
+
+
+approval of federal funding. 
+
+
+Fourth, the conditions at many railroad crossings 
+change over time. For example, a crossing initially 
+characterized by low traffic volumes and sufficient “sight 
+distances” (i.e., an ability for a motorist to see a train far down 
+the track) may later become heavily traveled and may become 
+overgrown with vegetation. U.S. Department of Transportation, 
+FHA Instruction Manual 21-1-68 (Jan. 5, 1968) (lodged with 
+this Court). If the mere federal funding of crossbucks is 
+deemed to preempt state law, then the railroad will assert that 
+it has no common law duties at the crossing and therefore no 
+obligation to install more advanced warnings notwithstanding 
+changed conditions. That was precisely the position taken by 
+the railroad, and accepted by the Eighth Circuit, in Bock v. St. 
+Louis Southwestern Ry. Co., 181 F.3d 920, 923-24 (1999), pet. 
+for cert. pending, No. 99-538. Under Easterwood, by contrast, 
+preemption arises only when the FHWA determines that lights 
+and gates — the most advanced warning devices that the federal 
+government funds — or their equivalent are installed, providing 
+protection for the crossing even under changed conditions. 
+
+
+IV. The Federal Government Did Not Make A 
+Determination Of Adequacy Here Under The 
+Minimum Protection Program. 
+
+
+The warning devices in this case were installed under 
+Tennessee’s minimum protection program. JA 103, 104, 133 
+(project documents confirming the purpose of the project was 
+“Installations of Minimum Protection”). The state official 
+responsible for crossing safety specifically confirmed that the 
+“minimum protection” and hazard programs are two separate 
+programs. JA 98. Petitioner acknowledges this point, Pet. Br. 
+20, yet rests its arguments entirely on FHWA’s approval of 
+adequate warning devices under the hazard program, 
+
+
+30 
+
+
+notwithstanding the unequivocal proof at trial that the hazard 
+and minimum protection programs are “not in any way 
+connected,” JA 105.° 
+
+
+The uncontradicted record below, the unambiguous 
+position of FHWA, and the clear mandates of federal law all 
+establish that federal funding for the minimum protection 
+program, unlike the hazard program, was nof tantamount to a 
+determination that those crossings were adequately protected. 
+Instead, the minimum protection program was aptly named: It 
+was created to ensure that every crossing in the country, 
+without regard to individual conditions, was protected at a 
+minimum by a standard crossbuck on each side of the tracks. 
+
+
+In determining whether a crossing should be included 
+in the program, the only relevant consideration was whether the 
+crossing already had “minimum” protection, i.e., in Tennessee, 
+whether it already had “two reflectorized crossbucks, two 
+advanced warning signs and two advanced pavement markings 
+at each crossing, if the road would take it.” JA 102-03; see also 
+JA 102 (testimony of state official that “we were to put, at a 
+minimum protection, a sign protection [sic] at crossings”). The 
+engineer in charge of the Tennessee program confirmed at trial 
+that “the people that actually went out to do the signing were 
+design engineers with no railroad experience.” Id. at 106 
+(emphasis added). Instead, the State was merely “[mJaking 
+sure that everything has some kind of protection.” Id. 
+(emphasis added). 
+
+
+® The Association of American Railroads thus is flatly wrong 
+
+
+when it asserts, without any citation to the record, that “[i]n this case, the 
+crossing was improved with passive warning devices using federal funds-as 
+have thousands of crossings characterized by low traffic volumes—in 
+accordance with the ranking and priority assigned by the state under the 
+Grade Crossing Program.” AAR Br. 6. 
+
+
+31 
+
+
+The same official also testified that “there was no 
+engineering judgment in the minimum protection pre zram.” 
+Depo. of Terry Cantrell, Vol. II, at 8 (Exh. E to Pl. Memo. in 
+Opp. to Def. Mo. for Summ. J.) (Docket Entry No. 59). He 
+continued: 
+
+
+It was a, you know, program whereby we 
+wanted every crossing, regardless, to have a 
+certain minimum, and possibly some of these 
+crossings were overprotected and some of them 
+were underprotected. But there was no 
+engineering judgment either by ourselves or by 
+the design team. 
+
+
+Id. at 9 (emphasis added). 
+
+
+The facts surrounding the installation of minimum 
+protection at the Oakwood Church Crossing fully support that 
+conclusion. The same official confirmed that there was no 
+“actual engineering judgment done by anyone under [his] 
+control in the state of Tennessee that looked at this crossing and 
+said minimum protection will be enough.” JA 105. Instead, 
+that Tennessee Department of Transportation merely 
+
+
+went out there and removed two crossbucks; 
+apparently, because they were substandard or 
+perhaps the deer hunters had used them for 
+targets. I’m not sure why, but—and replaced 
+them with two reflectorized crossbucks. We 
+[also] installed what they call a W10-1 sign on 
+one approach and then two W10-2 signs on 
+State Route 43. 
+
+
+id. at 103. 
+
+
+32 
+
+
+In turn, the federal government did not — and indeed 
+could not — make a determination that the minimum protection 
+devices provided adequate safety at the Oakwood Church 
+Crossing. The federal government receives information on 
+local crossings from States, and, as noted, Tennessee did not in 
+the course of its minimum protection program send anyone 
+(much less the required diagnostic team) to determine if the 
+protection at particular crossings was adequate, including with 
+respect to the Oakwood Church Crossing. The official in 
+charge of the state crossing program thus testified that the 
+federal government “merely * * * funded{,] funneled it and 
+signed off on it,” Dep. of Terry Cantrell, Vol. Il, at 9 (Exh. E to 
+P|. Memo. in Opp. to Def. Mo. for Summ. J.) (Docket Entry 
+No. 59), rather than “making [a] design judgment,” and 
+confirmed that the federal government had never “come back 
+and [said] what [the State has done] is anything more than 
+minimum protection that is satisfactory to protect the crossing.” 
+Id. at 21. 
+
+
+The federal employee charged with reviewing the 
+project, in turn, explicitly confirmed that the federal 
+government “w{[as] not making a federal decision as to the 
+adequacy or sufficiency of the protection being installed at the 
+crossings.” JA 126 (emphasis added). The federal 
+government’s “function was not to act as a diagnostic team, * 
+* * and no engineering decision was being made” by the federal 
+government. /d. at 125. Instead, the federal government’s goal 
+was merely to see if construction “work had been done 
+properly.” /d. at 126. In fact, it appears that the Oakwood 
+
+
+Church Crossing was never even inspected. /d. at 115, 126. 
+
+
+Tennessee provided the federal government with almost 
+no information about the Oakwood Church Crossing, precisely 
+for the reason that the State was seeking to install only 
+minimum protection. The request for approval submitted by 
+
+
+33 
+
+
+Tennessee, which included a single line item about each of the 
+196 crossings in the project, states only that the Oakwood 
+Church Crossing has one main line track and no other tracks, 
+and lists various “approach distances” to the crossing. JA 134. 
+Missing from the State’s information is any discussion of the 
+conditions at the crossing, such as the speed of train traffic, the 
+volume of traffic, whether hazardous materials traveled on the 
+road or rail, the obstructions to view caused by surrounding 
+vegetation and buildings, or the frequency with which trains 
+travel on the track — precisely the conditions that led the jury to 
+conclude that Petitioner had violated its state-law duty of care. 
+
+
+These circumstances are readily contrasted with the 
+evaluation of conditions under States’ hazard programs, such 
+as occurred in Easterwood. When a State seeks federal funding 
+to upgrade a crossing under the hazard program, it dispatches 
+an expert “diagnostic” team to study conditions at the crossing 
+and to determine what devices should be installed. When 
+certain conditions set forth in 23 C.F.R. § 646.214(b)(3)(i) are 
+present, flashing lights and lowering gates presumptively must 
+be installed. These conditions include “[h]igh [s]peed train 
+operation,” a “combination of high speeds and moderately high 
+volumes of highway and railroad traffic,” “unusually restricted 
+sight distance,” and “continuing accident occurrences.” /d. If 
+such conditions exist, and “a diagnostic team justifies that gates 
+are not appropriate, FHWA may find that the[se] requirements 
+are not applicable.” /d. 
+
+
+Tennessee specifically has surveyed the crossings in the 
+State under its hazard program, and has compiled the list 
+contemplated by 23 C.F.R. Part 924. See Pet. Br. 19 (citing JA 
+99-100). The survey considers, among other things, the 
+“number of trains-a day,” the “amount of the traffic,” the 
+“percent of [traffic that is] trucks,” “what type [of road] it is,” 
+the number of “lanes of traffic,” “accident history,” and 
+
+
+34 
+
+
+whether the road is “paved or not paved.” JA 100. For those 
+crossings that the State determines are the highest priority for 
+the installation of advanced warning devices with federal funds, 
+a diagnostic team studies the crossing and determines which 
+warning devices are appropriate. Pet. Br. 19 (citing JA 100- 
+01). 
+
+
+But none of the data required under the hazard program 
+is collected or analyzed under the minimum _ protection 
+program. The engineer in charge of the Tennessee program 
+confirmed that under the minimum protection program the 
+State did not “take into account any of the factors that [it is] 
+required to look at in the priority [hazard] program, such as 
+number of trains a day, speed of trains, maximum timetable 
+speed, truck traffic, hazardous materials, year of last upgrading, 
+the accident history, [or] obstructions to view.” Depo. of Terry 
+Cantrell, Vol. II, at 8 (Exh. E to Pl. Memo. in Opp. to Def. Mo. 
+for Summ. J.) (Docket Entry No. 59). Petitioner thus errs in 
+invoking Section 130(d) as envisioning “a system in which the 
+selection of warning devices at crossings would be based on 
+expert technical determinations and extensive data analyses,” 
+Pet. Br. 13, 17-18, when that system of indices and diagnostic 
+teams applies to the separate hazard program, not the minimum 
+protection program. The five States supporting Petitioner 
+accordingly make an important concession when they 
+acknowledge that “{i]n any given year, a significant number of 
+railroad crossings are not selected [for improvement under the 
+hazard program] and continue to be maintained by the 
+railroads.” Five States Br. 10 n.6 (emphasis added). The 
+Oakwood Church Crossing was precisely such a crossing 
+because it was never improved under the hazard program. The 
+federal government therefore never supplanted railroad 
+decisionmaking regarding the crossing and Petitioner remained 
+obligated under the common law to provide adequate warning 
+
+
+35 
+
+
+devices.’ 
+
+
+In fact, if the. federal and state governments had known 
+about the conditions at the Oakwood Church Crossing, they 
+certainly would not have concluded that passive warning 
+devices were adequate. Trial testimony established that a 
+number of hazardous conditions existed at the Oakwood 
+Church Crossing requiring the installation of advance warning 
+devices, including “high speed train operations combined with 
+limited sight distances, moderately high railroad and highway 
+traffic, trucks carrying hazardous materials, and a prior 
+collision at the crossing.” Cert. App. 35a. The district court 
+specifically found that the conditions set forth in 23 C.F.R. § 
+646.214(b)(3) existed at the crossing, requiring the use of lights 
+and gates absent a contrary recommendation by a diagnostic 
+team. Cert. App. 36a. But such active warning devices were 
+not installed despite the absence of any study or 
+recommendation by a diagnostic team." 
+
+
+Amicus AAR buttresses this point when it explains that “[a] key 
+aspect of the [hazard] Program is the requirement that in prioritizing 
+crossing improvement projects, states must consider * * * accident 
+potential,” AAR Br. 20 (first emphasis added), a determination that 
+unquestionably was not made with respect to the minimum protection 
+devices at the Oakwood Church Crossing. 
+
+
+Because no State or federal official considered whether the 
+
+
+warning devices are adequate, amicus AAR is simply wrong when it asserts 
+that “{wJhether or not such conditions exist at a crossing, warranting active 
+warning devices, is a determination made by the traffic engineering officials 
+at the time of the federally funded project, which may not be second 
+guessed by a jury.” AAR Br. 20. The engineer in charge of Tennessee's 
+crossing program specifically testified, regarding the application of the 
+minimum protection program to the Oakwood Church Crossing, that “[t}he 
+State has no responsibility. The program as such is a supplement to the 
+
+
+(continued...) 
+
+
+36 
+
+
+V. The FHWA Was Not Required To Make A 
+Determination Of Adequacy Under The Minimum 
+Protection Program. 
+
+
+Respondent has explained above that the only relevant 
+question for this Court to resolve is whether the federal 
+government, in implementing the minimum protection 
+program, made a determination that the warning devices in this 
+case were adequate under the circumstances. Only if such a 
+determination were made could the federal program be said to 
+have “substantially subsume[d]” Petitioner’s state law duty of 
+care to provide adequate warnings. Because no diagnostic team 
+studies crossings under the minimum protection program, no 
+such determination of adequacy is made. Petitioner’s argument 
+that FHWA should have made a determination of adequacy 
+under various provisions of federal law, Pet. Br. 26-28, 
+accordingly is not relevant. In any event, as we now show, 
+Petitioner’s construction of various federal regulations to 
+impose such a duty on FHWA is erroneous. 
+
+
+23 C.F.R. § 646.214. Petitioner misunderstands the 
+relationship between the minimum protection mandate of 23 
+U.S.C. § 130(d) and FHWA’s regulations at 23 C.F.R. § 
+646.214(b). Congress mandated that in order to receive federal 
+funds States must “[a]t a minimum * * * provide signs for all 
+railway-highway crossings.” 23 U.S.C. § 130(d). FHWA 
+implemented that mandate in 23 C.F.R. § 646.214(b)(1), which 
+provides that “[ajll traffic control devices proposed shall 
+comply with the [MUTCD] supplemented to the extent 
+
+
+‘(...continued) 
+individual municipalities, counties and cities, and railroads.” Depo. of 
+Terry Cantrell, Vol. Ii, at 17 (Exh. E to Pl. Memo. in Opp. to Def. Mo. for 
+Summ. J.) (Docket Entry No. 59) (emphasis added). 
+
+
+37 
+
+
+applicable by State standards.” In fact, Petitioner’s view of 
+preemption conflicts with this Court’s holding in Easterwood 
+that subsection (b)(1) does not preempt state law. 507 U.S. at 
+670. Petitioner maintains that federal funding for crossbucks 
+preempts state law when this Court already has concluded that 
+the more stringent mandate that such crossbucks be installed 
+has no such preemptive effect. 
+
+
+A separate provision invoked by Petitioner, 23 C.F.R. 
+§ 646.214(b)(3), is not applicable to the minimum protection 
+program. That provision simply defines “adequate warning 
+devices.” Compare, e.g., 23 C.F.R. § 646.214(b)(2) (mandating 
+use of “adequate warning devices” on federal highway 
+construction). Subsection (b)(3) is not applicable to the 
+“minimum protection program” because, as described above, 
+FHWA does not make a determination of adequacy under that 
+program, and specifically does not evaluate crossings “[i]n 
+individual cases” and with “diagnostic teams” as subsection 
+(b)(3) contemplates. Nor could it: Congress required the 
+installation of minimum protection devices in all States 
+receiving federal funds, depriving FHWA of any discretion to 
+limit the scope of the program. Subsection (b)(3) applied in 
+Easterwood, by contrast, because that case involved the 
+analysis of a particular crossing under the hazard program, 
+which requires a determination of adequacy by FHWA. 
+
+
+Nor is subsection (b)(4) applicable. On its face, that 
+provision applies only to individualized determinations by “a 
+State regulatory agency, State highway agency, and/or the 
+railroad” regarding the warning devices to be installed at a 
+crossing, not Congress’ implementation of the broad “minimum 
+protection” mandate. Moreover, subsection (b)(4) is triggered 
+only when a diagnostic team’s recommendation “justifies” to 
+FHWA that lights and gates are not required at a particular 
+crossing, which as noted is a process that does not occur under 
+
+
+38 
+
+
+the minimum protection program. See 23 C.F.R. § 
+646.214(b)(3)(ii) (“In individual cases where a diagnostic team 
+justifies that gates are not appropriate, FHWA may find that the 
+above requirements are not applicable” (emphasis added)); id. 
+§ 646.214(b)(4) (“For crossings where the requirements of § 
+646.214(b)(3) are not applicable, the type of warning device to 
+be installed * * * is subject to the approval of FHWA.” 
+(emphasis added)). But even if subsection (b)(4) applied, it 
+would give FHWA authority only over “the type of warning 
+device to be installed” (emphasis added), rather than mandating 
+the installation of “adequate warning devices.” 
+
+
+23 U.S.C. § 109(e). FHWA is not required to determine 
+the “adequacy” of warning devices under the minimum 
+protection program by 23 U.S.C. § 109(e). Petitioner had relied 
+heavily on Section 109(e) in seeking certiorari, Pet. for Cert. 
+12, 19, but now apparently recognizes that argument was 
+erroneous. Section 109(e) expressly applies only to “Federal- 
+aid highway/[s],” not local roads such as in this case. See also 
+23 U.S.C.A. § 101(a) (1990) (defining “Federal-aid highways” 
+at the time the devices were installed in this case to mean 
+“highways located on one of the Federal-aid systems’”’). In fact, 
+the Petition for Certiorari and the merits briefs of Petitioner’s 
+amici invoke Section 109(e) only by conspicuously omitting 
+the language limiting the statute to “Federal-aid highways.” 
+Pet. Cert. 19; Five States Br. 14; PLAC Br. 17; AAR Br. 23.” 
+
+
+Several other facts confirm that Section 109(e) is inapposite. 
+Congress enacted a statute that subjected non-federal-highway construction 
+to Section 109 (although not necessarily Section 109(e) specifically) in 
+1976, but repealed that statute in 1978. Pet. Br. 10-11 n.7. In addition, a 
+regulation on which Petitioner principally relies, 23 C.F.R. § 
+646.214(b)(3)(1), expressly distinguishes between federal-aid highways and 
+other federally funded projects. 
+(continued...) 
+
+
+39 
+
+
+Petitioner’s extensive discussion of Section 109(e) as 
+proof that “Congress has always acted to ensure that warning 
+devices are adequate when federal highway funds are involved 
+in a grade-crossing project,” Pet. Br. at 6-7, therefore proves 
+precisely the opposite point. In fact, Congress’ mandate that 
+nothing less than “adequate” warning devices may be installed 
+on federal highway projects, 23 U.S.C. § 109%e), readily 
+contrasts with the application of the “minimum protection 
+program” to a non-federal road such as that in this case. Rather 
+than requiring in 29 U.S.C. § 130(d) that crossbucks would be 
+installed only where adequate, Congress mandated that they be 
+installed “[a]t a minimum” without regard to the circumstances. 
+The more stringent mandate of Section 109(e) makes perfect 
+sense, as it is not surprising that Congress would adopt a per 
+se rule that all federal, as opposed to state, highway 
+construction provide adequate warning to the traveling public. 
+
+
+23 C.F.R. Part 924. Finally, Petitioner’s suggestion 
+that preemption arises from States’ efforts to prioritize their 
+crossing improvements as required by 23 C.F.R. Part 924 was 
+flatly rejected in Easterwood. Part 924, this Court explained, 
+is simply a “federal effort to encourage the States to rationalize 
+their decisionmaking” with respect to spending federal funds. 
+507 U.S. at 667. The same conclusion applies here because the 
+federal government restricted only Tennessee’s use of federal 
+
+
+‘(...continued) 
+
+Other regulations cited by Petitioner's amici as supposedly 
+requiring compliance with Section 109(e), e.g., 23 C.F.R. §§ 646.201-.205, 
+do not reference that statute at all. In addition, 23 C.F.R. § 630.106(a) and 
+its predecessor require compliance with only “applicable” federal law. See 
+Pet. Br. 16 n.10 (acknowledging that predecessor to § 630.106(a) had same 
+meaning as current version). Because Section 109(e) expressly is limited 
+to “federal-aid highways,” it is not “applicable” to local roads such as the 
+one on which Eddie Shanklin was killed in this case. 
+
+
+40 
+
+
+funds, not any attempt by Petitioner or the State to improve the 
+crossing with their own money. 
+
+
+Nor is Petitioner correct to suggest that preemption 
+arises because the State may have determined through the 
+hazard program that the Oakwood Church Crossing did not 
+require further protection. Petitioner presented no evidence to 
+support such an assertion and accepting Petitioner’s claim 
+would impose preemption at every public crossing in America, 
+all of which are included on States’ hazard indices. Moreover, 
+Petitioner’s argument is simply a variation on the claim 
+rejected in Easterwood: The most that can be said is that 
+Tennessee may have decided not to spend federal funds on the 
+crossing, which does not give rise to preemption. In particular, 
+any such decision by Tennessee could just as easily have been 
+based on the fact that federal funding was not available to 
+upgrade the crossing, not on a judgment that the crossing was 
+safe. 
+
+
+VI. Any Determination Of Adequacy Must Be Made By 
+The Federal, Not State, Government. 
+
+
+Petitioner argues that requiring the federal government, 
+rather than States, to evaiuate the adequacy of crossings would 
+be too burdensome. For the two reasons described above, 
+Respondent’s point is irrelevant to this case as a factual matter: 
+(i) the federal government does not require a determination, 
+whether by FHWA or any other entity, that the warning devices 
+installed under the minimum protection program are adequate; 
+and (ii) as a factual matter, States do not make such a 
+determination. But Respondent’s legal argument that 
+preemption could arise from such a State determination is 
+flawed in any event because it conflicts with 23 C.F.R. 
+§ 646.214 and Easterwood. 
+
+
+4| 
+
+
+Subsection 646.214 explicitly requires “FHWA” to 
+make any determination that lights and gates are not required 
+under subsection (b)(3) and, when subsection (b)(3) is “not 
+applicable,” provides that “the type of warning device to be 
+installed * * * is subject to the approval of FHWA.” 23 C.F.R. 
+§ 646.214(b)(3)(11), .214(b)(4) (emphasis added). Petitioner 
+itself acknowledges that subsection (b)(3) “expressly requires 
+an FHWA determination if the state highway agency seeks a 
+waiver of the automatic-gate requirement.” Pet. Br. 32 
+(emphasis added). Moreover, in Easterwood, it was the State 
+that ultimately determined not to install lights and gates after 
+the federal government had authorized the requested funding. 
+This Court nonetheless held the plaintiff's claim not preempted. 
+
+
+The five States supporting Petitioner point out that 
+Congress has authorized FHWA to enter into express 
+agreements delegating its authority to the States, but 
+acknowledge that no such agreement governs this case. Five 
+States Br. 13 n.8. For its part, Petitioner errs in relying on the 
+FHWA’s practice, prior to adoption of the Highway Safety Act 
+of 1973, of deferring to state-agency determinations of the 
+adequacy of warning conditions, Pet. Br. 36-38, since FHWA 
+ceased its deferential practice after adoption of the 1973 Act, 
+id. at 38 n.19 (acknowledging that PPM 21-10 was superceded 
+upon adoption of regulations implementing the 1973 Act). 
+Accordingly, there is no basis for this Court to deputize 
+Tennessee as the federal government’s agent when FHWA 
+itself has not done so. 
+
+
+Vil. A Federal Statute Governing The Discovery And 
+Admissibility Of Certain Evidence Is Irrelevant. 
+
+
+Petitioner makes the back-door assertion that Ms. 
+
+
+Shanklin’s claim is preempted because 23 U.S.C. § 409 
+allegedly makes it impossible to shoulder the evidentiary 
+
+
+42 
+
+
+“burden” placed on it by the court of appeals. Under Section 
+409, “reports, surveys, schedules, lists, or data compiled or 
+collected” pursuant to certain provisions of the FRSA or for the 
+purpose of developing a_ federally-funded highway 
+improvement project may not be considered in federal or state 
+court actions arising from an occurrence at a location 
+mentione< in such documents. 
+
+
+In the first place, the proper construction of Section 409 
+is irrelevant to this case. Even under Petitioner’s reading of 
+Section 409, the statute is implicated only if documents exist 
+confirming that warning devices installed with federal funds 
+were adequate to protect the affected crossings. That certainly 
+is not true with respect to the minimum protection program. As 
+described above, neither the States nor the federal government 
+considered whether devices installed under the minimum 
+protection program would be adequate to protect the public 
+under the circumstances. Thus, no documents exist that could 
+be subject to Section 409 and this Court need not resolve the 
+Statute’s proper construction. 
+
+
+Even if Section 409 were relevant, it would provide no 
+obstacle to a proper inquiry into preemption. As the Sixth 
+Circuit explained, to gain preemption, Petitioner would have to 
+show “whether the Secretary or one of his agents actually 
+determined that active warnings were needed pursuant to” 23 
+C.F.R. 646.214(b)(3) “or that only passive warnings were 
+needed pursuant to” 23 C.F.R. 646.214(b)(4). Cert. App. 13a. 
+This determination could take the form of a free-standing 
+FHWA letter or form, without requiring judicial consideration 
+of reports or data referred to in Section 409. Similarly, Section 
+409 does not bar consideration of documents generated in the 
+process of implementing and installing crossing projects under 
+23 C.F.R. Part 924. With regard to grade-crossings, Section 
+409 covers only documents compiled for the purpose of 
+
+
+43 
+
+
+identifying, evaluating, and planning safety enhancement of 
+those crossings. Implementation and installation documents are 
+conspicuous by their absence from Section 409."° 
+
+
+This plain-language result is consistent with the 
+structure of the FRSA and the purpose of Section 409. Section 
+409 was enacted in 1987, Pub. L. No. 100-17, § 132(a), 101 
+Stat. 152, 170, a decade-and-a-half after the enactment of the 
+FRSA’s preemption provision, 45 U.S.C. § 434 (now codified 
+at 49 U.S.C. § 20106). This chronology itself strongly suggests 
+no link between the two, and nothing in the text of Section 409 
+or its legislative history mentions preemption under the FRSA, 
+let alone supports the reading that Petitioner ascribes to Section 
+409. 
+
+
+Indeed, the logic of Section 409 is to the contrary. 
+Section 409 is an evidentiary and discovery privilege, whose 
+purpose is to promote the flow of information from the States 
+to the FHWA and, as Petitioner maintains, to “facilitate candor” 
+
+
+10 
+
+
+it.formation that is protected by Section 409. For instance, Section 409 bars 
+the use of documents or data compiled pursuant to 23 U.S.C. § 130, which 
+requires States to issue, among other things, annual reports that compile data 
+regarding grade crossings. Although such reports are non-discoverable and 
+inadmissible under Section 409, they do not include the FHWA approvals 
+contemplated by Section 646.214(b). More fundamentally, Section 409 
+does not include such approvals in the documents and data subject to its 
+privilege. See Cert. App. 21a. In sum, Section 409 simply does not bar a 
+court from considering evidence relevant under Section 646.214(b). See 
+also JA 102 (testimony of engineer in charge of Tennessee crossing 
+program confirming that there is no obstacle to State providing information 
+on “what was done at a particular crossing” after improvements are made). 
+As the Sixth Circuit showed, tae reports and surveys issued pursuant to the 
+two other provisions referred to in Section 409 — 23 U.S.C. §§ 144 and 152 
+~ similarly do not contain the FHWA approvals contemplated by 23 C.F.R. 
+§ 646.214(b). Cert. App. 21a. 
+
+
+44 
+
+
+This conclusion is underscored by considering the type of 
+
+
+in agency evaluations of highway safety hazards. Pet. Br. 44. 
+It thus assumes the continued existence — not the preemption — 
+of tort actions involving a wide range of railroad-related 
+accidents, including specifically those inVolving “railway- 
+highway crossings.” 23 U.S.C. § 409. Put differently, Section 
+409 only places certain information off-limits in civil litigation, 
+which presupposes that common-law actions pertaining to 
+grade-crossing accidents will go forward." 
+
+
+' Petitioner fails to remind the Court that Section 409 was raised 
+by the railroad in Easterwood for the same proposition as Petitioner urges 
+here: the alleged impossibility of meeting its preemption “burden.” In 
+response to the Solicitor General's contention that preemption required the 
+railroad to demonstrate that federal funds were used specifically to upgrade 
+the crossing devices at the Cook Street Crossing, the railroad argued that 
+such proof could not be discovered or judicially considered under Section 
+409. Reply Brief for Petitioner/Cross-Respondent in CSY v. Easterwood, 
+at Part III.C.1, Nos. 91-790, 91-1206 (U.S. filed Nov. 16, 1992). In 
+rejecting the railroad’s preemption argument, and holding that federal 
+funding was a necessary (although not a sufficient) condition for 
+preemption, this Court in Easterwood did not so much as mention the 
+railroad’s Section 409 argument. The Court presumably recognized, as did 
+the Sixth Circuit below, that Section 409’s privilege does not cover simple 
+proof of FHWA funding or approval and does not, therefore, have any 
+bearing on preemption. Indeed, Petitioner now concedes that “it is possible 
+to identify Oakwood Church Road as one of the crossings at which warning 
+devices were installed in this project,” Pet. for Cert. 9 n.11, tacitly 
+acknowledging that the kind of information that the railroad claimed in 
+Easterwood could not be discovered and judicially considered was in fact 
+both discovered and considered. 
+
+
+45 
+
+
+CONCLUSION 
+
+
+For the reasons stated above, the judgment of the court 
+of appeals should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+BRIAN WOLFMAN PAMELA R. O'DWYER 
+
+PUBLIC CITIZEN LITIGATION (Counsel of Record) 
+Group PATY, RYMER & ULIN, P.C. 
+
+1600 20" Street, NW 19 Patten Parkway 
+
+Washington, DC 20009 Chattanooga, TN 37402 
+
+(202) 588-1000 (423) 756-6770 
+
+THOMAS C, GOLDSTEIN ELIZABETH S. HARDY 
+
+
+‘THOMAS C. GOLDSTEIN, P.C. THOMAS AND HARDY LAW FIRM 
+4607 Asbury Place, NW 2380 Lake Street 
+
+Washington, DC 20016 Lake Charles, LA 70601 
+
+(202) 237-7543 (337) 433-4903 
+
+
+(~Y | 
+
+
+oa) 
+
+
+46 
+
+

@@ -1,0 +1,54 @@
+
+
+CHRISTENSEN V. HARRIS COUNTY
+
+LII
+
+Supreme Court
+
+CHRISTENSEN V. HARRIS COUNTY (98-1167) 
+158 F.3d 241, affirmed.
+Syllabus
+ Opinion
+ [ Thomas ]Concurrence
+ [ Souter ]Concurrence
+ [ Opinion of Scalia ]Dissent
+ [ Stevens ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Opinion of Scalia, J.
+
+SUPREME COURT OF THE UNITED STATES
+
+No. 98—1167
+
+EDWARD CHRISTENSEN, et al., PETITIONERS v. HARRIS COUNTY et al.
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+[May 1, 2000]
+
+    Justice Scalia, concurring in part and concurring in the judgment.
+
+     I join the judgment of the Court and all of its opinion except Part III, which declines to give effect to the position of the Department of Labor in this case because its opinion letter is entitled only to so-called “Skidmore deference,” see Skidmore v. Swift & Co., 323 U.S. 134, 140 (1944).  Skidmore deference to authoritative agency views is an anachronism, dating from an era in which we declined to give agency interpretations (including interpretive regulations, as opposed to “legislative rules”) authoritative effect.  See EEOC v. Arabian American Oil Co., 499 U.S. 244, 259 (1991) (Scalia, J., concurring in part and concurring in judgment).  This former judicial attitude accounts for that provision of the 1946 Administrative Procedure Act which exempted “interpretative rules” (since they would not be authoritative) from the notice-and-comment requirements applicable to rulemaking, see 5 U.S.C. § 553(b)(A).
+
+      That era came to an end with our watershed decision in Chevron U.S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 844 (1984), which established the principle that “a court may not substitute its own construction of a statutory provision for a reasonable interpretation made by the administrator of an agency.”1  While Chevron in fact involved an interpretive regulation, the rationale of the case was not limited to that context: “ ‘ The power of an administrative agency to administer a congressionally created . . . program necessarily requires the formulation of policy and the making of rules to fill any gap left, implicitly or explicitly, by Congress.’ ”  Id., at 843, quoting Morton v. Ruiz, 415 U.S. 199, 231 (1974).  Quite appropriately, therefore, we have accorded Chevron deference not only to agency regulations, but to authoritative agency positions set forth in a variety of other formats.  See, e.g., INS v. Aguirre-Aguirre, 526 U.S. 415, 425 (1999) (adjudication); NationsBank of N. C., N. A. v. Variable Annuity Life Ins. Co., 513 U.S. 251, 256—257 (1995) (letter of Comptroller of the Currency); Pension Benefit Guaranty Corporation v. LTV Corp., 496 U.S. 633, 647—648 (1990) (decision by Pension Benefit Guaranty Corp. to restore pension benefit plan); Young v. Community Nutrition Institute, 476 U. S 974, 978—979 (1986) (Food and Drug Administration’s “longstanding interpretation of the statute,” reflected in no-action notice published in the Federal Register).
+
+      In my view, therefore, the position that the county’s action in this case was unlawful unless permitted by the terms of an agreement with the sheriff’s department employees warrants Chevron deference if it represents the authoritative view of the Department of Labor.  The fact that it appears in a single opinion letter signed by the Acting Administrator of the Wage and Hour Division might not alone persuade me that it occupies that status.  But the Solicitor General of the United States, appearing as an amicus in this action, has filed a brief, cosigned by the Solicitor of Labor, which represents the position set forth in the opinion letter to be the position of the Secretary of Labor.  That alone, even without existence of the opinion letter, would in my view entitle the position to Chevron deference.  What we said in a case involving an agency’s interpretation of its own regulations applies equally, in my view, to an agency’s interpretation of its governing statute:
+
+      “Petitioners complain that the Secretary’s interpretation comes to us in the form of a legal brief; but that does not, in the circumstances of this case, make it unworthy of deference.  The Secretary’s position is in no sense a ‘post hoc rationalizatio[n]’ advanced by an agency seeking to defend past agency action against attack, Bowen v. Georgetown Univ. Hospital, 488 U.S. 204, 212 (1988).  There is simply no reason to suspect that the interpretation does not reflect the agency’s fair and considered judgment on the matter in question.”  Auer v. Robbins, 519 U.S. 452, 462 (1997).
+
+      I nonetheless join the judgment of the Court because, for the reasons set forth in Part II of its opinion, the Secretary’s position does not seem to me a reasonable interpretation of the statute.
+
+Notes
+
+1. * I do not comprehend Justice Breyer’s contention, post, at 2 (dissenting opinion), that Skidmore deference–that special respect one gives to the interpretive views of the expert agency responsible for administering the statute–is not an anachronism because it may apply in “circumstances in which Chevron-type deference is inapplicable.”  Chevron-type deference can be inapplicable for only three reasons: (1) the statute is unambiguous, so there is no room for administrative interpretation; (2) no interpretation has been made by personnel of the agency responsible for administering the statute; or (3) the interpretation made by such personnel was not authoritative, in the sense that it does not represent the official position of the expert agency.  All of these reasons preclude Skidmore deference as well.  The specific example of the inapplicability of Chevron that Justice Breyer posits, viz., “where one has doubt that Congress actually intended to delegate interpretive authority to the agency,” post, at 2, appears to assume that, after finding a statute to be ambiguous, we must ask in addition, before we can invoke Chevron deference, whether Congress intended the ambiguity to be resolved by the administering agency.  That is not so.  Chevron establishes a presumption that ambiguities are to be resolved (within the bounds of reasonable interpretation) by the administering agency.  The implausibility of Congress’s leaving a highly significant issue unaddressed (and thus “delegating” its resolution to the administering agency) is assuredly one of the factors to be considered in determining whether there is ambiguity, see MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218, 231 (1994), but once ambiguity is established the consequences of Chevron attach. 
+

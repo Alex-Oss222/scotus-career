@@ -1,0 +1,58 @@
+
+
+SLACK V. MCDANIEL
+
+LII
+
+Supreme Court
+
+SLACK V. MCDANIEL (98-6322) 
+Reversed and remanded.
+Syllabus
+ Opinion
+ [ Kennedy ]Concurrence
+ [ Stevens ]Other
+ [ Opinion of Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+SLACK v. McDANIEL, WARDEN, et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 98—6322.  Argued October 4, 1999–Reargued March 29, 2000–Decided April 26, 2000
+
+After petitioner Slack was convicted of second-degree murder in Nevada and his direct appeal was unsuccessful, he filed, in 1991, a federal habeas corpus petition under 28 U.S.C. § 2254.  Because he wished to litigate claims he had not yet presented to the Nevada courts, but could not do so under the rule requiring complete exhaustion of state remedies, see Rose v. Lundy, 455 U.S. 509, Slack filed a motion to hold his federal petition in abeyance while he returned to state court.  The Federal District Court ordered the habeas petition dismissed without prejudice, granting Slack leave to file an application to renew upon exhausting state remedies.  After unsuccessful state postconviction proceedings, Slack filed anew in the federal court in 1995, presenting 14 claims for relief.  The State moved to dismiss, arguing that (1) Slack’s was a mixed petition raising some claims which had been presented to the state courts and some which had not, and (2) under the established Ninth Circuit rule, claims not raised in Slack’s 1991 federal petition had to be dismissed as an abuse of the writ.  The District Court granted the State’s motion, holding, first, that Slack’s 1995 petition was “[a] second or successive petition,” even though his 1991 petition had been dismissed without prejudice for a failure to exhaust state remedies.  The court then invoked the abuse of the writ doctrine to dismiss with prejudice the claims Slack had not raised in the 1991 petition.  The dismissal order was filed in 1998, after which Slack filed in the District Court a pleading captioned “Notice of Appeal.”  Consistent with Circuit practice, the court treated the notice as an application for a certificate of probable cause (CPC) under the version of §2253 that existed before enactment of the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA).  It denied a CPC, concluding the appeal would raise no substantial issue.  The Ninth Circuit likewise denied a CPC, so that Slack was not permitted to appeal the order dismissing his petition.  
+
+Held:
+
+    1.  Where a habeas petitioner seeks to initiate an appeal of the dismissal of his petition after April 24, 1996 (AEDPA’s effective date), the right to appeal is governed by the requirements now found at §2253(c)–which provides, inter alia, that such an appeal may not be taken unless a circuit Justice or judge issues a certificate of appealability (COA), §2253(c)(1), and that the COA may issue only if the applicant has made a substantial showing of the denial of a constitutional right, §2253(c)(2)–even though the habeas petition was filed in the district court before AEDPA’s effective date.  Slack argues incorrectly that the pre-AEDPA version of the statute, not §2253(c), controls his case because, in Lindh v. Murphy, 521 U.S. 320, 327, this Court held that AEDPA’s §2254 amendments governing entitlement to district court habeas relief applied to cases filed after AEDPA’s effective date.  In implementing Lindh, it must be recognized that §2554 is directed to district court proceedings while §2253 is directed to appellate proceedings.  Just as §2254 applies to cases filed in the trial court post-AEDPA, §2253 applies to appellate proceedings initiated post-AEDPA.  Although Lindh requires a court of appeals to apply pre-AEDPA law in reviewing the trial court’s ruling in cases commenced there pre-AEDPA, post-AEDPA law governs the right to appeal in cases such as the present.  While an appeal is a continuation of the litigation started in the trial court, it is a distinct step.  E.g., Hohn v. United States, 524 U.S. 236, 241.  Under AEDPA, an appellate case is commenced when the application for a COA is filed.  Ibid.  When Congress instructs that application of a statute is triggered by the commencement of a case, the relevant case for a statute directed to appeals is the one initiated in the appellate court.  Because Slack sought appellate review of the dismissal of his habeas petition two years after AEDPA’s effective date, §2253(c) governs here, and Slack must apply for a COA.  The Ninth Circuit should have treated his notice of appeal as such an application.  Pp. 4—6.
+
+      2.  When the district court denies a habeas petition on procedural grounds without reaching the prisoner’s underlying constitutional claim, a COA should issue (and an appeal of the district court’s order may be taken) if the prisoner shows, at least, that jurists of reason would find it debatable whether the petition states a valid claim of the denial of a constitutional right, and that jurists of reason would find it debatable whether the district court was correct in its procedural ruling.  Pp. 6—9.
+
+          (a)  The Court rejects the State’s contentions that, because §2253(c) provides that a COA may issue upon the “substantial showing of the denial of a constitutional right,” only constitutional rulings may be appealed, and no appeal can be taken if the district court relies on procedural grounds to dismiss the petition.  In setting forth the preconditions for issuance of a COA under §2253(c), Congress expressed no intention to allow trial court procedural error to bar vindication of substantial constitutional rights on appeal.  This conclusion follows from AEDPA’s present provisions, which incorporate earlier habeas corpus principles.  Except for substituting the word “constitutional” for the word “federal,” the present §2253 is a codification of the CPC standard announced in Barefoot v. Estelle, 463 U.S. 880, 894.  See Williams v. Taylor, ante, at ___.  Under Barefoot, a substantial showing of the denial of a right includes showing that reasonable jurists could debate whether (or, for that matter, agree that) the petition should have been resolved in a different manner or that the issues presented were “ ‘adequate to deserve encouragement to proceed further.’ ”  463 U.S., at 893, and n. 4.  Pp. 6—8.
+
+          (b)  Determining whether a COA should issue where the petition was dismissed on procedural grounds has two components, one directed at the underlying constitutional claims and one directed at the district court’s procedural holding.  Section 2253 mandates that both showings be made before the court of appeals may entertain the appeal.  Each component is part of a threshold inquiry, and a court may find that it can dispose of the application in a fair and prompt manner if it proceeds first to resolve the issue whose answer is more apparent from the record and arguments.  Resolution of procedural issues first is allowed and encouraged by the rule that this Court will not pass upon a constitutional question if there is also present some other ground upon which the case may be disposed of. Ashwander v. TVA, 297 U.S. 288, 347. Here, Slack did not attempt to make a substantial showing of the denial of a constitutional right, instead arguing only that the District Court’s procedural rulings were wrong.  This Court does not attempt to determine whether Slack could make the required showing of constitutional error, for the issue was neither briefed nor presented below because of the view that the CPC, rather than COA, standards applied.  It will be necessary to consider the matter upon any remand for further proceedings.  The Court does, however, address the second component of the §2253(c) inquiry, whether jurists of reason could conclude that the District Court’s dismissal on procedural grounds was debatable or incorrect.  Pp. 8—9.
+
+      3.  A habeas petition which is filed after an initial petition was dismissed without adjudication on the merits for failure to exhaust state remedies is not a “second or successive” petition as that term is understood in the habeas corpus context.  Pp. 9—13.
+
+          (a)  The District Court erred in concluding to the contrary. Because the question whether Slack’s pre-AEDPA, 1995 petition was second or successive implicates his right to relief in the trial court, pre-AEDPA law governs.  See Lindh v. Murphy, supra.  Whether the dismissal was appropriate is controlled by Rule 9(b) of the Rules Governing §2254, which incorporates the Court’s prior decisions on the subject, McCleskey v. Zant, 499 U.S. 467, 487, and states: “A second or successive petition [alleging new and different grounds] may be dismissed if … the judge finds that the failure … to assert those grounds in a prior petition constituted an abuse of the writ.”  The “second or successive petition” phrase is a term of art given substance in, e.g., Rose v. Lundy, 455 U.S., at 510, which held that a district court must dismiss habeas petitions containing both exhausted and unexhausted claims, but contemplated that the prisoner could return to federal court after the requisite exhaustion, id., at 520—521.  Thus, a petition filed after a mixed petition has been dismissed under Rose v. Lundy before the district court adjudicated any claims is to be treated as any other first petition and is not a second or successive petition.  Neither Rose v. Lundy nor Martinez-Villareal supports the State’s contention that the prisoner, upon his return to federal court, should be restricted to the claims made in his initial petition. It is instead more appropriate to treat the initial mixed petition as though it had not been filed, subject to whatever conditions the court attaches to the dismissal.  Accordingly, Slack’s 1995 petition should not have been dismissed on the grounds that it was second or successive.  To the extent that the Court’s ruling might allow prisoners repeatedly to return to state court and thereby inject undue delay into the collateral review process, the problem can be countered under the States’ power to impose proper procedural bars and the federal courts’ broad powers to prevent duplicative or unnecessary litigation.  Pp. 9—13.
+
+          (b)  Thus, Slack has demonstrated that reasonable jurists could conclude that the District Court’s abuse of the writ holding was wrong.  Whether Slack is otherwise entitled to the issuance of a COA is a question to be resolved first upon remand.  P. 13.
+
+Reversed and remanded.
+
+    Kennedy, J., delivered the opinion of the Court, Part I of which was unanimous, Part II of which was joined by Rehnquist, C. J., and O’Connor, Scalia, Thomas, and Ginsburg, JJ., and Parts III and IV of which were joined by Rehnquist, C. J., and Stevens, O’Connor, Souter, Ginsburg, and Breyer, JJ.  Stevens, J., filed an opinion concurring in part and concurring in the judgment, in which Souter and Breyer, JJ., joined.  Scalia, J., filed an opinion concurring in part and dissenting in part, in which Thomas, J., joined.
+

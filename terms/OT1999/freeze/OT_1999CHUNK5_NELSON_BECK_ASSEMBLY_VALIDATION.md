@@ -1,0 +1,11 @@
+# Nelson and Beck — assembly validation
+
+The separate legal-form receipts preceded any count. Nelson was counted only after the actual Edwards Record existed; Beck was counted separately only after Nelson was canonically written. Counts come from actual opinion tables, including earlier same-Run Records, never prior reported tallies. No Git command was executed.
+
+Nelson's canonical Record is `../records/nelson-v-adams-usa-inc_merits_2000-04-25.md`: Scalia writes for nine, reversing the simultaneous personal judgment and remanding for meaningful response. The Chief selects from the actual nine-member eligible pool, with all nine counts and the last counted Edwards event in the Record. Rule 15's event-effective ten-day language, adjustable timing, actual consent, preclusion predicates, disclaimed veil piercing and undisturbed corporate judgment are preserved. No new trial, discovery entitlement, new service ruling or substantive immunity is added.
+
+Beck's canonical Record is `../records/beck-v-prupis_merits_2000-04-26.md`: Stone-Zsela writes for seven; Souter dissents with Stevens. The Chief selects from the actual seven-member eligible pool, with all nine counts and the just-written Nelson event stated. The independent-RICO-wrong condition is distinct from causation, personal commission and criminal elements. The investment-injury and completed-substantive-violation questions remain expressly open. The existing pendent-state-claim vacatur/remand, discretionary limitations protection and independent sanctions, costs, service and substantive dispositions remain intact.
+
+Both Records passed the four-label and eleven-block checks. Their internal controlling holdings equal the bounded Public Projection Holdings text. Ordinary controlling explanations contain 277 and 270 words respectively. Judgment names, opinion joins, statutory qualifications, approved Stone scope and remedy were manually reconciled to the frozen handoffs. The neutral, model and reconciliation bytes were not changed. The argument dates and procedural placement are sourced; no new merits facts were invented.
+
+These are assembly checks only. Whole-term checks, workspace projections, generated Render Input and repository preservation remain with the root operator. No public render was written.

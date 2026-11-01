@@ -1,0 +1,6305 @@
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1998 
+
+
+ANTONIO TONTON SLACK, Petitioner 
+V. 
+
+
+E.K. MCDANIEL, WARDEN, ELY (NEVADA) 
+STATE PRISON, and FRANKIE SUE DEL PAPA, 
+ATTORNEY GENERAL OF THE STATE OF 
+
+
+NEVADA, Respondents. Supreme Court, U.S, 
+: , “TLCED 
+oct 5 1998 
+APPENDIX FOR 
+PETITION FOR WRIT OF CERTIORARI _ urriGk OF THE CLERK 
+VOLUME II 
+
+
+FRANNY A. FORSMAN 
+Federal Public Defender 
+
+For the District of Nevada 
+*TIMOTHY P. O’TOOLE 
+Asst. Federal Public Defender 
+330 S. Third St., #700 
+
+Las Vegas, Nevada 89101 
+
+* Counsel for Petitioner 
+
+
+18. 
+
+
+19. 
+
+
+21. 
+
+
+22. 
+
+
+24. 
+
+
+VOLUME II 
+INDEX 
+
+MEMORANDUM DECISION AND ORDER ......................-....... 0115 
+(CV-N-95-194-DWH - U.S. District Court) 
+
+MOTION FOR RECONSIDERATION OF MEMORANDUM DECISION 
+
+AND ORDER ENTERED ON MARCH 11, 1998 ........................... 0119 
+(CV-N-95-194-DWH - U.S. District Court) 
+
+so enn nerd bh aud bbls dn vida oo eb Oke ile eke. 0127 
+(CV-N-95-194-DWH - U.S. District Court) 
+
+APPLICATION FOR CERTIFICATE OF PROBABLE CAUSE ............... 0129 
+(CV-N-95-194-DWH - U.S. District Court) 
+
+DENIAL OF CERTIFICATE OF PROBABLE CAUSE ...................... 0178 
+(CV-N-95-194-DWH - U.S. District Court) 
+
+Farmer v. McDaniel, 98 F.3d 1548 (9th Cir. 1996) ..................---- ee ee. 0198 
+OPPOSITION TO MOTION FOR APPOINTMENT OF COUNSEL ............. 214 
+
+
+(CV-N-95-194-DWH - U.S. District Court) 
+
+
+| 
+| 
+
+
+000115 RECEIVED 
+U.S. DISTRICT COURT 
+DISTRICT OF NEVADA MAR 1 3 1998 
+ENTERED & SERVED | 
+Federal Public Defendef 
+1 | —_— Las Vegas, Nevada 
+}SR | ; 
+2 | - 
+CLERK, U.S. DISTRICT COURT ; 
+3 1] eatesi } — o 
+BY —— — COEF! :* pay 
+4 ~ a 
+5 
+6 
+7 
+8 UNITED STATES DISTRICT COURT 
+DISTRICT OF NEVADA 
+9 
+10 } ANTONIO T. SLACK, 
+ll Petitioner, ) Case No. CV-N-95-194-DWH 
+7 ) MEMORANDUM DECISION 
+13 | E.K. McDANIEL, et al., AND ORDER 
+14 Respondents . ) 
+15 Petitioner Antonio T. Slack has submitted a Petition for a Writ of Habeas Corpus pursuant 
+16 || to 28 U.S.C. § 2254 attacking the validity of his conviction. Slack asserts seven grounds for relief: 
+
+
+17 | (1) insufficient evidence was adduced at trial to support his conviction; (2) he had insufficient notice 
+18 | of his charges since he was charged with “open murder” in an information which did not properly 
+19 || plead each element of first degree murder; (3) the jury was prejudiced by evidence of sexual 
+20 || misconduct; (4) the trial court failed to properly instruct the jury; (5) he was denied effective 
+21 || assistance of counsel; (6) he was denied effective assistance of appellate counsel; and (7) cumulative 
+22 | error. 
+
+23 Slack previously filed a petition for writ of habeas corpus, case number CV-N-91-561-HDM, 
+24 || in which he alleged: (1) insufficient evidence was adduced at trial to support his conviction; (2) the 
+25 | trial sunt tageapety allowed prejudicial evidence of sexual misconduct; (3) the reasonable doubt jury 
+26 | instruction was unconstitutional; and (4) the trial court failed to adequately define the premeditation 
+
+
+oOo worn An vA +} WY NHN = 
+
+
+eee 
+oclUlC TCOlC OTOlUCUCcUNMWCCOONDmlCSDPCUCMNLSOCONG _estCt—iaS*~—i“‘i 
+
+
+21 
+
+
+| burdens of pleading abuse of the writ. 
+
+
+000116 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+22 | some objective factor external to the defense, such as governmental interference or the reasonable 
+23 | unavailability of the factual basis for the claim, and (2) actual prejudice resulting from the errors about 
+24 | which he complains. Bonin v. Calderon, 77 F.3d 1155, 1158-59 (9th Cir.1996); Moran v. McDaniel, 
+25 | 80 F.3d 1261, 1270 (9th Cir. 1996). 
+
+
+26 
+
+
+wit wii tatin den! titled 
+
+
+Oo wo ws CO CD F&F WY NO = 
+
+
+~~ —- —_— —_— — om 
+A & Ww NO | OC 
+
+
+16 
+
+
+000117 
+
+
+“Abuse of the writ doctrine examines petitioner's conduct: the question is whether petitioner 
+possessed, or by reasonable means could have obtained, a sufficient basis to allege a claim in the first 
+petition... .” McClesky, 499 U.S.at 498. An inmate's pro se status does not constitute "an objective 
+external factor" which excuses a petitioner's failure to raise his new claim in prior habeas petitions. 
+
+Saahir v. Collins, 956 F.2d 115, 118 (Sth Cir.1992); Hughes v. Idaho State Board, 800 F.2d 905, 
+909 (9th Cir.1986). An inmate's pro se status does not excuse an inmate's ignorance of the law nor 
+establish cause for the purpose of determining whether an inmate abused the writ by failing to raise 
+new claims in prior habeas petitions: there is no constitutional right to counsel in post-conviction 
+proceedings. Saahir, 956 F.2d at 118. To show actual prejudice, “petitioner bears ‘the burden of 
+showing not merely that the errors at his trial constituted a possibility of prejudice, but that they 
+worked to his actual and substantial disadvantage, infecting his entire trial with errors of constitutional 
+dimension.’” White v. Lewis, 874 F.2d 599, 603 (9th Cir. 1989) (quoting United States v. Frady, 456 
+U.S. 152, 170 (1982)). 
+
+As an alternative to showing “cause and prejudice,” Slack may attempt to show that dismissal 
+of his instant claim on abuse of the writ grounds will result in a “fundamental miscarriage of justice.” 
+Such a showing, however, is very difficult to make. It requires Slack to demonstrate that he is 
+“actually innocent” of the crime with which he was convicted. See also Smith v. Murray, 477 U.S. 
+527, 537 (1986). 
+
+Respondents have met their burden in alleging that Slack has abused the writ. Slack must now 
+establish cause and prejudice for his failure to assert the instant claim in his first petition or he must 
+demonstrate that a fundamental miscarriage of justice will result if the court dismisses the case for 
+abuse of the writ. Given the extreme difficulty of showing a “fundamentally unjust incarceration,” 
+
+
+this court recommends Slack disregard this alternative test and attempt to show cause and prejudice. 
+
+
+Co ona un sk Ww NR = 
+
+
+— _—_ —_— — 
+Ww No | OC 
+— 
+
+
+14 
+
+
+0001158 
+
+
+IT IS ORDERED that Slack shall have fifteen (15) days from the date of this order within 
+which to file points and authorities addressing whether he can overcome the abuse of the writ bar that 
+is applicable to grounds two , four(C), five, six and seven of the instant amended habeas petition. No 
+extensions of time will be granted. 
+
+Dated this /© day of March, 1998. 
+
+
+000119 
+RECEIVED 
+MAR 3 0 1998 ate 
+| JPRANNY A. FORSMAN ‘oe ee le = 
+
+
+UG, 
+
+
+> vier 
+
+
+2 (DEBORAH A. TREVINO Ta. a. 
+st. Federal Public Defender ane = ¢— 
+34330 South Third Street, #700 “| 72 2 iM 
+s Vegas, Nevada 89101 3 = © 
+49(702) 388-6577 z = 
+a 
+5 fAttorney for Slack sd 
+6 
+. UNITED STATES DISTRICT COURT 
+, DISTRICT OF NEVADA 
+* * * 
+9 
+10 NIO T. SLACK, ) CV-N-95-194-DWH 
+) 
+ll Petitioner, ) 
+) MOTION FOR RECONSIDERATION OF 
+12 ) MEMORANDUM DECISION AND ORDER 
+) ENTERED ON MARCH 11, 1998 
+13 JDIRECTOR, NDOP, et al., ) 
+) 
+14 Respondents. ) j 
+) 
+15 
+- Petitioner, Antonio Slack, by and through his counsel of 
+17 ecord, Franny A. Forsman, Federal Public Defender, Deborah A. 
+- revino, Assistant Federal Defender, respectfully moves this 
+1° ourt to reconsider, alter and amend its Memorandum Decision and 
+- rder entered March 11, 1998. This motion is made pursuant to 
+- ule 59 of the Federal Rules of Civil Procedure and is based upon 
+» he attached memorandum of points and authorities and the entire 
+- ile in this matter. Petitioner respectfully requests a hearing 
+a4 
+asf 
+
+
+be. elle? 1 eh abeibs. em dtieeeiss: ci pomveeah. 
+
+
+® 00012u e 
+
+
+ljin this matter. Undersigned counsel anticipates approximately 
+2fthirty minutes for oral argument. 
+
+
+3 DATED this 25th day of March, 1998. 
+
+
+Respectfully Submitted, 
+
+
+Asst. Fedé@ral Public Defender 
+
+
+000121 
+
+
+—— 
+
+
+MEMORANDUM OF POINTS AND AUTHORITIES 
+
+
+I. INTRODUCTION 
+
+
+The court has entered an order determining that Respondents 
+ave met their burden in alleging that petitioner has abused the 
+rit with regard to grounds two, four(C), five and seven of the 
+instant amended petition. On the basis of this determination, 
+he court has ordered petitioner to file points and authorities 
+
+
+ddressing whether he can overcome the abuse of the writ bar. | 
+
+
+Oo ona vn +} 4 WN 
+
+
+his motion for reconsideration follows. The court’s order is 
+
+
+» remised upon an error of law which requires correction and 
+. econsideration. 
+
+A. The state has not alleged facts sufficient to establish 
+13 that an abuse of the writ has occurred. 
+14 The state argues that Rule 9(b) of the Rules Governing 
+15 Section 2254 cases requires that the grounds asserted in the 
+16 Jamended petition which are unexhausted or were not included in 
+17 the previous federal petitions should be dismissed under the 
+18 abuse of the writ doctrine. The state’s pleading does not furnish 
+19fany ground for dismissing any part of the amended petition. 
+20 B. The amended petition is not a “second or successive” one 
+- under Rule 9 (pb). 
+
+Initially, in order to preserve the question for review, 
+7 titioner submits that Rule 9(b) does not apply to his case at 
+™ ll, because the amended petition before the court is not a 
+" “second or successive” one within the meaning of the rule, since 
+" he previous federal petition was dismissed without prejudice for 
+
+
+3 J 
+
+
+eft 
+cl ee le 
+
+
+00012. 
+
+
+--- 
+
+
+Petitioner recognizes that the Court of Appeals has 
+
+
+Farmer v. McDaniel, 98 F.3d at 
+
+
+Every other Court of Appeals that has addressed this 
+
+
+xhaustion. 
+dopted a contrary position. 
+556-1557. 
+issue, however, has held that a petition is not subject to Rule 
+9(b) as a “second or successive” one if previous petitions have 
+een dismissed without prejudice for exhaustion. McWilliams v. 
+| 121 F.3d 573, 575 (10th Cir. 1997); Benton v. 
+
+
+| 106 F.3d 162, 164 (7th Cir. 1996); Camarano v. Irvin, 
+
+
+ow ona unrt 4 NY 
+
+
+98 F.3d 44, 46-47 (3d Cir. 1996); In xe Gasery, 116 F.3d 1051, 
+052 (Sth Cir. 1997); Woods v. Whitley, 933 F.2d 321, 322 (Sth 
+ir. 1991); Jones v. Estelle, 722 F.2d 159, 168 (Sth Cir. 1983) 
+(en banc) cert. denied, 466 U.S. 976 (1984); Dickson v. Maine, 
+
+
+01 F.3d 791, 791 (1st Cir. 1996) 
+
+
+—_ —_—_— —_—_— — 
+wn =—- O&O 
+
+
+(per curiam). 
+
+
+— 
+B= 
+
+
+— 
+
+
+— 
+A) 
+
+
+This case is governed by the A.E.D.P.A. because it was 
+
+
+— 
+an 
+
+
+ommenced after April 25, 1996. In Farmer the Ninth Circuit held 
+
+
+— 
+~_ 
+
+
+hat Rule 9(b) applies, in limited part, to §2254 actions that 
+
+
+—= 
+oo 
+
+
+d previously been dismissed without prejudice. The A.E.D.P.A. 
+rovides that a successor petition cannot be filed with the 
+istrict court unless a panel of the Court of Appeals authorizes 
+uch an action. 28 U.S.C. §2244(b) (3). In a case following the 
+nactment of the A.E.D.P.A. the Ninth Circuit held that previous 
+titions which have been dismissed without prejudice on 
+
+In_re Turner, 101 
+
+
+In other words, a dismissal without 
+
+
+xhaustion grounds do not trigger §2244(b) (3). 
+.3d 1323 (9th Cir. 1997). 
+
+
+4 ° 
+
+
+eet ae Lea ee 
+
+
+000123 
+
+
+os 
+
+
+rejudice does not make the next §2254 action a successor 
+etition. 
+
+The Court of Appeals for this circuit has created an intra- 
+ircuit conflict with Farmer by holding that a “second or 
+uccessive” petition under the Anti-Terrorism and Effective Death 
+enalty Act of 1996 (AEDPA) -- which uses the identical language 
+in 28 U.S.C. §2244(b) that is used in, and was adopted from, Rule 
+
+
+(b) -- does not refer to a petition filed after a previous 
+
+
+oenenaun + 4” N 
+
+
+etition has been dismissed without prejudice for purposes of 
+
+
+xhaustion. In order to preserve 
+
+
+—_ 
+o 
+
+
+In re Turner, supra at p. 323. 
+his issue for review, see Sup. Ct. Rule 10.1(a) 
+
+
+oe 
+— 
+
+
+(conflicting 
+
+
+— 
+N 
+
+
+ecisions of Court of Appeals as basis for review on certiorari) ; 
+
+
+— 
+Ww 
+
+
+ed. R. App. P., Rule 35(a) (1) (securing uniformity of decision 
+
+
+— 
+> 
+
+
+s ground for hearing en banc); petitioner submits that no part 
+
+
+_— 
+Fy 
+
+
+f the instant amended petition can be subject to dismissal under 
+
+
+— 
+tea) 
+
+
+ule 9(b). 
+
+
+— 
+~ 
+
+
+This position is also supported by the decision of the Court 
+
+
+f Appeals in Calderon v. United States District Court (Taylor), = 
+F.3d __, 1998 WL 24138 (9th Cir. January 28, 1998), in which 
+
+
+—_ 
+oo 
+
+
+he court held that a district court has discretion to hold the 
+xhausted part of a habeas petition in abeyance while dismissing 
+he unexhausted claims for exhaustion. An amended petition, 
+dding the claims following exhaustion, could not rationally be 
+onsidered a “second or successive” one under Rule 9 (b) because 
+
+
+here would be no difference in substance between that situation 
+
+
+~ Lenten ed Pl 6 mete et ed abe tee acne 
+
+
+000124 000120 
+
+
+—_ 
+
+
+land the one presented here where the previous petition was 
+
+
+-_ 
+
+
+ase) that the petitioner is attempting to evade resolution of 
+
+
+ismissed without prejudice in its entirety. | ; ' 
+| is constitutional claims by repeatedly filing mixed petitions, 
+
+
+The Turner decision makes the jurisprudence in this circuit P — : 
+hus avoiding a decision on the merits due to the necessity of 
+
+
+n this issue fundamentally incoherent. It is clear that the i pane ' ae 
+ismissal for exhaustion. Petitioner here was not, and has not 
+
+
+DPA was intended to, and did, impose restrictions on the filing ; 
+en, seeking to evade such a resolution. There is accordingly 
+
+
+f “second or successive” habeas corpus petitions in 28 U.S.C. : 
+© basis for the state to seek dismissal either for exhaustion or 
+
+
+§2244(b) that are more stringent than the preexisting caselaw on 
+n the basis of abuse. 
+
+
+buse of the writ. E.g., Felker v. Turpin, —— 0.8. wane See 
+Ct. 2333, 2340 (1996); cf. Schlup v. Delo, 513 U.S. 298 (1995S); 
+
+
+Petitioner submits that a hearing on that issue is 
+
+
+ow wonauns &’” WN 
+ow wonaunt> 4 WW 
+
+
+ecessary before final resolution of any question involving 
+
+
+10 , 499 U.S. 467 (1991). Under Turner, however, 
+10 petitioner’s substantial rights. 
+ll lit does not matter how many previous federal petitions have been 1 
+12 dismissed for exhaustion: a new petition under the AEDPA is not a 12 os 
+. CONCLUSION 
+13 "second or successive” one under 28 U.S.C. §2244(b). Turner and 
+13 For the reasons stated above and in petitioner’s opposition 
+14 can be harmonized if this court concludes that the Farmer ; 
+14lto respondents motion to dismiss, petitioner respectfully 
+1S decision is limited to cases pre-dating the enactment of the , 
+15 requests that this Court alter or amend its Memorandum Decision 
+16}A.E.D.P.A. A contra conclusion ignores the holding in Turner a 
+tal ° | bd 16lland Order entered on March 11, 1998. 
+17 case more applicable to the instant action because it was 
+17 Dated this 25th day of March, 1998. 
+18 lcontrolled by the A.E.D.P.A. 
+18 Res tfully submitted, 
+19 D. There is no basis for finding abuse as a result of 
+presentation of unexhausted claims. 19 
+20 
+as As shown above, the amended petition before this court is 20 —_ 
+fully exhausted. As a result, there is no basis for dismissal, 21 Deborah A. ‘Trevino 
+22 Assistant Federal Public Defender 
+9 ith or without prejudice. The basis for the theory of abuse of 22 Attorney for Petitioner 
+- he writ in the non-McCleskey context -- that is, when there has 23 
+- een no “first round of federal habeas,” McCleskey v. Zant, 499 24 
+- .S. at 490 -- is (as originally articulated by the state in this 25 
+26 
+
+
+6 
+
+
+-- 
+
+
+000126 
+l UNITED STATES DISTRICT COURT 
+2 DISTRICT OF NEVADA 
+3 * * & 
+4 
+— T. SLACK, ) CV-N-95-194-DWH 
+5 ) 
+Petitioner, ) 
+6 ) 
+-vs- ) 
+7 ) 
+ro NDOP, et al., ) 
+) 
+Respondents. ) 
+9 ) 
+10 CERTIFICATE OF MAILING 
+11 The undersigned hereby certifies that she is an 
+12 }employee in the office of the Federal Public Defender for the 
+13 District of Nevada and is a person of such age and discretion as 
+14lto be competent to serve papers. 
+15 That on March 25, 1998, she served a copy of the above 
+16fand foregoing document by placing a true and correct copy. into 
+17 the United States mail, postage prepaid and addressed to the 
+18 persons named below: 
+19 Julie Slabaugh Antonio T. Slack 
+eputy Attorney General #31395 
+20100 N. Carson Street - Ely State Prison 
+arson City, NV 89701 P.O. Box 1989 
+21 ly, NV 89301 
+22 
+23 . 
+amela M. Ramage 
+24 Legal Assistant 
+25 
+26 
+
+
+a 
+
+
+—- 
+
+
+Oo ona wn. WY WN 
+
+
+NY NY NN NHN NO NO NO FF YF FY FS FeO Selle OlEESelele 
+QO wn & WY NO —-& COC HO oO NH A UW F&F WY NY | OC 
+
+
+M a = 
+0 FILE 
+F 7 1998 
+L ea ens , 
+as Vegas Defender mis Free 29 Fi] | 55 
+FRANNY A. FORSMAN Untcg @ v= are 
+Federal Public Defender ; Can 
+JOHN C. LAMBROSE Cr... AIL A 
+
+
+Assistant Federal Public Defender iain 
+330 South Third Street, Ste 700 
+
+Las Vegas, NV 89101 
+
+(702) 388-6577 
+
+
+Attorney for ANTONIO SLACK 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF NEVADA 
+
+
+x * 
+
+
+ANTONIO SLACK, CV-N-95-194-DWH 
+
+
+Petitioner, 
+E.K. McDANIEL et al., NOTICE OF APPEAL 
+
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+Vv. ) 
+) 
+
+) 
+
+) 
+
+Respondents. ) 
+) 
+
+
+NOTICE is hereby given that Antonio Slack, hereby appeals 
+to the United States Court of Appeals for the Ninth Circuit from 
+the Judgment in a civil case dated March 31, 1998. 
+
+DATED this 28th day of April, 1998. 
+
+
+That on April 28, 
+
+
+” TORE Cee OF ee tee eee Caen tee: 
+
+
+000 
+
+
+The undersigned hereby certifies that she is an employee 
+in the office of the Federal Public Defender and is a person of 
+uch age and discretion as to be competent to serve papers. 
+
+
+1998, she served a copy of the attached 
+
+
+OTICE OF APPEAL by placing a copy in a self addressed envelope 
+
+
+ostage prepaid to the addressee below: 
+
+
+ulie A. Slabaugh 
+
+eputy Attorney General 
+
+100 N. Carson Street 
+
+‘arson City, NV 89701-4717 
+
+
+Antonio Slack 
+#31395 
+
+Ely State Prison 
+PO Box 1989 
+
+Ely, NV 89301 
+
+
+Y Lm tinage, 
+
+
+PAMELA M. RAMAGE Y 
+
+
+te 8 a nm Neth Mel AR 
+
+
+oo oxy A n & WW WN = 
+
+
+— — ~ ~ — 
++ Ww nN _ oO 
+— 
+
+
+000129 — 
+FILLED 
+cot TL PY 44S 
+FRANNY A. FORSMAN Lic eran 
+Federal Public Defender ee 
+JOHN C. LAMBROSE, ev ncin, 
+ye ee ee 
+ou treet, Suite 
+Las Vegas, NV 89101 RECEIVED 
+(702) 388-6577 
+MAY 15 1993 
+
+
+Counsel for Petitioner 
+Federal Public Defender 
+Las Vegas, Nevada 
+
+
+UNITED STATES DISTRICT COURT 
+
+
+DISTRICT OF NEVADA 
+*** 
+ANTONIO T. SLACK, ) CV-N-95-194-DWH 
+) 
+Petitioner, ) 
+vs. ) APPLICATION FOR CERTIFICATE 
+) OF PROBABLE CAUSE 
+Director NDOP, et al., ) 
+) 
+Respondents. ) 
+) 
+
+
+COMES NOW, petitioner, Antonio T. Slack, and submits this application for a 
+certificate of probable cause. 
+
+This application is based on the following points and authorities, as well as the 
+pleadings and papers on file in this case. 
+
+Dated this all day of May, 1998. 
+
+
+Respectfully submitted, 
+
+
+eo one Aa WN & WY NYO = 
+
+
+nO un & WY NY —-§ Oo OO Oo NH A nA & WY NO —&§ CO 
+
+
+e 000150 sd 
+
+
+I. POINTS AND AUTHORITIES 
+
+A. Facts 
+
+The petitioner commenced this action on March 27, 1995. CR 1. On February 
+13, 1997 this court appointed counsel. CR 43. Thereafter, the petitioner filed his third 
+amended petition.’ The respondent moved to dismiss the third amended petition on procedural 
+grounds. Specifically the respondent contended that grounds two, four(C), five, six and seven 
+were abusive and sought a dismissal of those grounds.’ The respondent did not specifically 
+plead or allege how Slack’s previous conduct regarding his federal writ history was indicative 
+of an intent on his part to withhold claims in order to “vex or harass” the respondents or “delay” 
+the final resolution of his federal remedy. Farmer v. McDaniel, 98 F.3d 1548, 1556 (9th Cir. 
+1996) (citations omitted). Instead, the respondent simply argued that Slack’s failure to present 
+the allegedly abusive claims in his previous 1991 § 2254 action resulted in per se abuse. See 
+motion to dismiss at p. 9 Il. 22-28. 
+
+The respondent also contended that grounds two, four (C), three, most of five, 
+six and seven were not exhausted and that fact rendered the third amended petition as “mixed” 
+in nature requiring a dismissal of the instant case.’ The petitioner opposed the motion to 
+dismiss arguing that no ground pled in the third amended petition was abusive. Opposition to 
+Motion to Dismiss. Slack also argued against a dismissal on exhaustion grounds as to any of 
+
+
+the claims raised in the petition. Id. 
+
+
+' The grounds raised in Slack’s third amended petition are set out in this Court’s March 30, 1998 
+Order at pages 2 and 3. CR. 74. 
+
+
+*Slack’s third amended petition alleged that grounds two and 4(C) were not exhausted. CR 74. 
+
+
+> The respondent did not plead any other procedural defenses. Moreover, although the respondent 
+did not affirmatively seek a dismissal of this case without prejudice it must necessarily be assumed that 
+: a - exhaustion grounds is construed to be without prejudice. This court’s order is in accord. 
+at p.7. 
+
+
+| 
+| 
+
+
+000131 
+
+
+On March 11, 1998 the court entered an interim order finding grounds two, 
+four(C) , five, six and seven abusive. CR 72. The court’s conclusion was predicated on the fact 
+that Slack’s third amended petition contained grounds (two, four(c) five, six and seven) that 
+were not pled in Slack’s previous federal petition which had been dismissed on exhaustion 
+grounds. Id. At p. 2 (comparing 1991 claims with claims in instant action). Without any 
+further scrutiny of Slack’s conduct -- that is without any consideration of whether petitioner had 
+any intent to vex, harass, or delay-- the court concluded that the abusive grounds would be 
+dismissed absent a demonstration of cause and prejudice. Id.. Citing McCleskey v. Zant, 499 
+U.S. 467 (1991).* 
+
+On March 26, 1998 Slack asked the court to reconsider its decision arguing that: 
+(1) the respondent failed to allege sufficient facts to support an abuse of the writ, (2) Slack’s 
+third amended petition was not a “second or successive petition”; (3) abuse of the writ is 
+inapposite to this case because the claims alleged in the third amended petition cannot be 
+dismissed on exhaustion grounds. Motion to reconsider, filed March 26, 1998.’ 
+
+On April 2, 1998 this court entered an order dismissing the action without 
+prejudice. CR 74. The court concluded that grounds two, four(C), five, six and seven were 
+abusive and dismissed those grounds accordingly. Id. This court did not resolve the 
+respondent’s exhaustion argument on these claims. The court did not discuss how Slack’s 
+previous federal writ history warranted such a harsh sanction. It simply adopted the 
+
+respondent’s position that Slack’s failure to plead the claims in his 1991 petition was a per se 
+abuse of the writ. CR 72. Finally, the court found that ground three was unexhausted and that 
+
+
+‘The court did not address Slack’s argument that the McCleskey standard could not apply in this 
+case. See Opposition to motion to dismiss. 
+
+
+*Slack had previous! argued that the court could not dismiss an of the grounds under the 
+exhaustion dectind tt the courts March \1, 1998 order 4id not resolve thet isous. 
+
+
+3 
+
+
+—_ 
+
+
+oOo onan +} 64 WN 
+
+
+er ee ee en 
+ePeeRPsesstsSiSBesseansi anus BK = S 
+
+
+® 000132 @ 
+
+
+fact rendered the petition “mixed” in nature requiring a dismissal of the instant action without 
+
+
+prejudice. Id. 
+
+
+The Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), 110 Stat. 
+1214, signed into law on April 24, 1996, enacted the present 28 U.S.C.A. § 2253 (Supp. 1997, 
+requiring a “certificate of appealability” in order for an appeal to be taken from a final order in 
+a habeas proceeding. See 28 U.S.C.A. § 2253(b) (requiring “ substantial showing of the denial 
+of a constitutional right”). Prior to the enactment of the AEDPA, § 2253 required a “certificate 
+of probable cause” in order for an appeal to be taken from a final order in a habeas proceeding. 
+See 28 U.S.C.A. § 2253 (1994). 
+
+The portions of the AEDPA which apply to non-capital cases have been held to 
+be inapplicable to cases already pending when the Act was passed. Lindh v. Murphy, 117 S.Ct. 
+2059, 138 L.Ed.2d 481 (1997) (the portions of § 2254(d) dealing with noncapital cases are 
+inapplicable to cases already pending when the Act was passed); Jeffries v. Wood, 114 F.3d 
+1484 (9th Cir. 1997) (the AEDPA does not apply retroactively to cases filed in federal courts in 
+Ninth Circuit prior to Act’s effective date). 
+
+Slack filed his petition on May 30, 1995, well before the date the AEDPA was 
+passed (April 24, 1996). CR 4. Accordingly, his case is governed by the pre-Act version of § 
+2253 (requiring a certificate of probable cause). The amendments to § 2253 promulgated by the 
+AEDPA cannot apply retroactively to Slack’s cases. See Lindh, and Jeffries, see also Greenwalt 
+v, Stewart, 105 F.3d 1268 (9th Cir. 1997) (applying “certificate of probable cause” standard to 
+dismissal of petition filed April 23, 1996). 
+
+
+oOo oN Dao LH eFlUMw6DlUCU NC 
+
+
+— eee eet 
+on A AU htlCUM MNLelC NUE ClCUO 
+
+
+19 
+
+
+® 000133 eo 
+
+
+C. Slack is entitled to a certificate of probable cause. 
+
+As shown above, however, the AEDPA does not apply to this matter. A CPC is 
+appropriate where a petitioner can show a “substantial showing of the denial of a federal right.” 
+Lynch v. Blodgett, 999 F.2d 401, 403 (9th Cir. 1993) (quoting Barefoot v. Estelle, 463 U.S. 880, 
+893, 103 S.Ct. 3383, 3394-95, 77 L.Ed.2 1090) (1993)). To satisfy the “substantial showing” 
+standard, a petitioner “must demonstrate that the issues are debatable among jurists of reason; that 
+a court could resolve the issues [in a different manner]; or that the questions are adequate to 
+deserve encouragement to proceed further.” Barefoot, 463 U.S. at 893 n.4, 103 S.Ct. At 3395 n.4 
+(citations omitted). 
+
+
+1. It is at least debatable among jurists of reason that this court erred when 
+it concluded that grounds two, four(C), five, six and seven were abusive. 
+
+
+Initially, in order to preserve the question for review, petitioner submits that Rule 
+
+
+-9(b) does not apply to his case at all, because the amended petition before the court is not a “second 
+
+
+or successive” one within the meaning of the rule, since the previous federal petitions were 
+dismissed without prejudice for exhaustion. Petitioner recognizes of course that the Court of 
+Appeals has adopted a contrary position. Farmer v. McDaniel, 98 F.3d at 1556-1557. See also, 
+Motion for Reconsideration at p. 3, filed March 26, 1998. Every other Court of Appeals that has 
+addressed this issue, however, has held that a petition is not subject to Rule 9(b) as a “second or 
+successive” one if previous petitions have been dismissed without prejudice for exhaustion. 
+McWilliams v. State of Colorado, 121 F.3d 573, 575 (10th Cir. 1997); Benton v. Washington, 106 
+F.3d 162, 164 (7th Cir. 1996); Camarano v. Irvin, 98 F.3d 44, 46-47 (3d Cir. 1996); In re Gasery, 
+116 F.3d 1051, 1052 (Sth Cir. 1997); Woods v. Whitley, 933 F.2d 321, 322 (Sth Cir. 1991); Jones 
+v. Estelle, 722 F.2d 159, 168 (Sth Cir. 1983) (en banc) cert. denied, 466 U.S. 976 (1984); Dickson 
+
+
+oOo on A eH S&F WY NO = 
+
+
+N nN nN N nN nN — — os — — — — — — 
+ze & os is) tO _ Oo \o oo ~ Oo WN 4 Ww tN — oO 
+
+
+000134 
+
+
+vy. Maine, 101 F.3d 791, 791 (1st Cir. 1996) (per curiam). In fact, the Court of Appeals for this 
+circuit has created an intra-circuit conflict with Farmer by holding that a “second or successive” 
+petition under the Anti-Terrorism and Effective Death Penalty Act of 1996 (AEDPA) -- which uses 
+the identical language in 28 U.S.C. §2244(b) that is used in, and was adopted from, Rule 9(b) -- 
+does not refer to a petition filed after a previous petition has been dismissed without prejudice for 
+purposes of exhaustion. In re Tumer, 101 F.3d 1323, 1323 (9th Cir. 1997). Further, the Supreme 
+Court's intervening decision in Calderon v. Thompson, U.S.__, 1998 WL 204593 (U.S.) 
+treats the definition of a “second or successive” petition as settled, referring only to petitions filed 
+after a previous petition has been addressed on the merits. That decision undercuts the decision 
+in Farmer and this court should not follow the Farmer definition of “second or successive” petition. 
+In any event, in order to preserve this issue for review, see Sup. Ct. Rule 10.1(a) (conflicting 
+decisions of Court of Appeals as basis for review on certiorari); Fed. R. App. P., Rule 35(a)(1) 
+(securing uniformity of decision as ground for hearing en banc); petitioner submits that no part of 
+the instant amended petition can be subject to dismissal under Rule 9(b) at all.* | 
+
+The Tumer decision makes the jurisprudence in this circuit on this issue 
+fundamentally incoherent. It is clear that the AEDPA was intended to, and did, impose restrictions 
+on the filing of “second or successive” habeas corpus petitions in 28 U.S.C. §2244(b) that are more 
+stringent than the preexisting caselaw on abuse of the writ. E.g., Felker v. Turpin, _ U.S. _, 116 
+S.Ct. 2333, 2340 (1996); cf, Schlup v. Delo, 513 U.S. 298 (1995); McCleskey v. Zant, 499 U.S. 
+
+
+silo pasttion bo chee expert © the decision of the Court of Appeals in Calderon v. United 
+ist l F 3d 981 (Sth Cir. 1998), in which the court he that a district court 
+
+
+was dismissed without prejudice in their Moreover, the petitioner’s case is bolstered by the fact 
+that he sought a stay in his earlier federal ing which was certainl under the then- 
+existing rule in the Ninth Circuit. See Exh. B at tab 5; see also 860 F.2d 1470 
+
+
+(9th Cir. 1988). 
+
+
+000135 
+
+
+467 (1991). Under Turmer, however, it does not matter how many previous federal petitions have 
+been dismissed for exhaustion: a new petition under the AEDPA is not a “second or successive” 
+one under 28 U.S.C. §2244(b). Under the Court of Appeals’ decision in Farmer, however, a 
+petition can be treated as a “second or successive” one under the less stringent, pre-AEDPA law, 
+and thus abuse could allegedly be found although it could not even be considered under current 
+
+
+law. 
+
+
+b. Abuse of the writ does not apply to this case. 
+
+In dismissing the above grounds this court relied on the rule announced in Farmer 
+v. McDaniel, supra. In Farmer, the Ninth Circuit held that in very limited circumstances a 
+particular claim pled in § 2254 petition can be dismissed even though the petitioner’s previous § 
+2254 action had been dismissed without prejudice. Id. at p. 1560. The holding in Farmer does not 
+apply to this case for several reasons. First, Farmer’s previous federal writ history included three 
+previous petitions spanning a period of nearly eight years. Id. At pp. 1549-1551. Slack, on the 
+other hand, filed only one previous federal petition.’ Second, Farmer was represented by counsel 
+in each of his previous forays into federal court. Id. At p. 1348-1350. Slack’s previous federal 
+petition was litigated pro se. Id. Third, Farmer’s previous federal litigation resulted in a more 
+significant expenditure of federal judicial resources. Slack’s previous federal petition was filed on 
+November 27, 1991 and dismissed without prejudice less than ninety days later. See, Exh. A, 
+Slack v. Director, CV-N-91-561-HDM at CR 1. The only “litigation” during that brief period of 
+time involved the respondent’s motion for extension of time (CR 4) to respond to the court’s 
+December 10, 1991 order directing that a response to the petition be filed no later than December 
+27, 1991. CR 3. On February 5, 1992 (five days prior to the respondent’s new deadline) the 
+petitioner asked to have the action held in abeyance while he returned to state court to exhaust his 
+
+
+"The previous federal file is attached to these points and authorities at Exh. A. 
+7 
+
+
+wo ona wn & WY WN = 
+
+
+~~ weNN HY | | | SF SF er lllleelUelUE 
+an > a an Se a — © — 
+
+
+000136 
+
+
+claims. CR 5. The court, instead, opted to dismiss the action without prejudice. CR 7. This 
+occurred on February 19, 1992 and on July 10, 1992 Slack filed his state post-conviction petition. 
+The final, and most compelling difference between Slack’s procedural history and the history 
+outlined in Farmer is that Slack was never admonished, in any written order, that the failure to 
+present all of his known claims for relief could result in a bar of those claims in a later federal 
+action. Compare Exhibit A with 98 F.3d at p. 1550 n. 2. 
+
+The Ninth Circuit’s decision in, Farmer, is explicitly very limited in scope. The 
+court observed as much in three different sections of the opinion. 98 F.3d at p. 1549, 1554, and 
+1560. In Farmer the Ninth Circuit distilled its very narrow holding as follows: 
+
+In short, what we hold, and all that we hold, is that 
+
+the district court was not precluded as a matter of 
+
+law from considering whether Farmer’s conduct in 
+
+failing to allege grounds in prior petitions that he 
+
+alleged the third time around (if he did) was abusive 
+
+solely on account of the fact that his prior petitions 
+
+were not reviewed on the merits. 
+Id. at p. 1560 (emphasis supplied). The Ninth Circuit then remanded the case to the district court 
+in order to determine whether Farmer’s amended petition in his third federal §2254 action 
+contained abusive grounds for relief. Id. However, the Court was careful to note that the fact that 
+a previous federal petition was not reviewed on the merits is “an important factor that informs the 
+court’s discretion in applying the abuse of the writ doctrine.” Id. At p. 1549. It is not dispositive 
+and cannot, standing alone, end the inquiry. Slack’s procedural history does not match the Farmer 
+case nor does it bear any similarity other than Slack had a previous § 2254 petition dismissed 
+without prejudice because it contained unexhausted claims. This court’s per se finding of abuse 
+in Slack’s case is contrary to Farmer’s admonition that before such a conclusion can be reached 
+a thorough inspection of the previous writ history is mandated so the court’s exercise of discretion 
+is “informed”. Id. 
+
+Abuse of the writ as a procedural bar, focuses on the conduct and motive of the 
+
+
+—— 
+
+
+wo ona vw F&F WY WN = 
+
+
+ee ee nd ora 
+PRRBBEBSEeA ABET SH = Oo 
+
+
+000137 
+
+
+petitioner relative to his previous federal § 2254 litigation. “Abuse of the writ doctrine examines 
+petitioner’s conduct. The question is whether petitioner possesses, or by reasonable means could 
+have obtained, a sufficient basis to allege a claim in the first petition and pursue the matter 
+throughout the habeas process.” 98 F.3d at 1560, quoting McCleskey v. Zant, 499 U.S. 467, 498 
+(1991) (emphasis in original). This court can take judicial notice of the fact that at least one judge 
+in the federal district of Nevada is in accord with this interpretation of Farmer. See, Duckett v. 
+Godinez, 67 F.3d 734, 741 (9th Cir. 1995) (observing that a court can take judicial notice of other 
+state or federal proceedings). In Pellegrini v. McDaniel case no. CV-S- 96-400 PMP(LRL), the 
+district court was asked to find several of the petitioner’s claims abusive because they were not 
+presented in a previous federal petition. The court refused and predicated its decision on the fact 
+that the previous action was litigated pro se, lasted less than four months, was filed in order to 
+obtain a stay of execution, and was ultimately dismissed without prejudice. See exhibit B attached 
+
+
+hereto. 
+
+
+c. If abuse of the writ applies to this case the respondent did not demonstrate 
+that an abuse was committed. 
+
+
+This court concluded that abuse has been established as a matter of law because of 
+the existence of a previous federal petition that was dismissed for exhaustion. This court relied, in 
+part, on McCleskey. Petitioner submits that McCleskey overruled Sanders v. United States, 373 
+U.S. | (1963), only with respect to cases in which there has been a “first round of federal habeas,” 
+McCleskey, 499 U.S. at 490, and that Sanders states the applicable standard of abuse in non- 
+McCleskey situations. This position is consistent with the decision of the Court of Appeals in 
+Farmer. The court did not reach the question whether any of the claims in the amended petition 
+were new, “or if they are, whether there has been any abuse of the writ. That is entirely for the 
+district court to decide, in its discretion.” Farmer, 98 F.3d at 1460 (footnote omitted). If the 
+McCleskey standard of abuse applied in this situation, the Court of Appeals would have had no 
+
+9 
+
+
+000135 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+Petitioner submits that the standard for establishing abuse in the non-McCleskey context 
+remains the standard of Sanders. This court’s conclusion that McCleskey overruled Sanders in toto 
+-- without any analysis and sub silentio -- is simply not credible, in light of the undisputed fact that 
+the Rule 9(b) codification of Sanders remains in effect for pre-AEDPA cases. See Lonchar v. 
+Thomas, __ U.S. __, 115 S.Ct. 1293 (1996) (federal courts should not impose procedural 
+requirements beyond those incorporated in habeas rules). It is equally impossible to conclude, in 
+light of the emphasis placed in McCleskey on the costs of repetitive federal review of state 
+convictions, that the McCleskey decision -- again sub silentio -- intended to erase all distinctions 
+for abuse purposes between successor petitions filed after a complete round of federal habeas 
+corpus review and petitions filed after a previous petition has been dismissed “without prejudice” 
+for exhaustion and no federal review at all has occurred. Nothing in the Farmer or McCleskey 
+decisions supports so radical a departure from prior law; and such a departure from previous law 
+would not be consistent with the “evolutionary process” of abuse of the writ jurisprudence, see 
+Felker v. Turpin, _ U.S. _, 116 S.Ct. 2333, 2340 (1996), but would be a quantum leap of logic.* 
+
+It is clear that McCleskey abuse does not apply in this case, because there was no prior 
+
+
+*The per se rule could lead to truly surreal results. For example, a petitioner could file an 
+amended petition as of right, under Fed. R. Civ. P., Rule 15(a); and the court could be forced by the state 
+to conduct abuse of the writ analysis for failure to include claims in the initial petition which is 
+superseded by the “second or successive” amended petition. In short, every amendment to every petition 
+would be subjected to the same kind of abuse analysis that would be conducted if the petitioner had 
+already received a complete round of federal court review of the claims on the merits in a first petition. 
+
+
+Nothing in the Supreme Court’s jurisprudence suggests so irrational a result. 
+
+
+10 
+
+
+o ews A wn 2 WwW WH = 
+
+
+meet 
+Ut Ww NY —- OO 
+
+
+Se a. a. a. a. oe. 
+Se BoRPo RB FE SF 6S @e I A 
+
+
+006139 
+
+
+determination of the merits. The second type of abuse may arise under the circumstances 
+
+
+suggested by Sanders, upon which Rule 9(b) is based. This type of abuse requires a showing that 
+a new claim in a petition was “deliberately withheld” from a previous petition, former 28 U.S.C. 
+§ 2244(b); Sanders, 373 U.S. at 18, or that the petitioner “deliberately abandon[ed]” the claim in 
+a hearing on a previous petition, id,, citing Wong Doo v. United States, 265 U.S. 239, 241 (1924); 
+or that the “only purpose” of the petition is “to vex, harass or delay,” Sanders, 373 U.S. at 18; or 
+that the petitioner is deliberately engaging in needless piecemeal litigation. Sanders, 373 U.S. at 
+18. 
+The Farmer decision explicitly acknowledged the continuing validity of these standards for 
+non-McCleskey abuse: 
+A federal court need not consider habeas claims previously 
+unlitigated in federal court if it determines that the petitioner (1) 
+made a conscious decision deliberately to withhold them from a 
+= petition, (2) is pursuing needless piecemeal litigation, or (3) 
+as raised the claims only to vex, harass, or delay. Where there is 
+no affirmative indication in the record that the petitioner made a 
+conscious decision deliberately to withhold his claim, proceed by 
+piecemeal litigation, to vex or harass or annoy the court or the state, 
+a second petition raising a new claim is not an abuse of the writ. 
+The state has presented no evidence that any of the factors 
+outlined in Sanders are present. Moreover, there is nothing in the 
+
+
+history of this case to indicate that Hamilton deliberately withheld 
+his claim in the hope of being granted two hearings instead of one. 
+
+
+Farmer, 98 F.3d at 1559, quoting Hamilton v. Vasquez, 882 F.2d 1469, 1473 (9th Cir. 1989) 
+(citations omitted). 
+
+This analysis of Sanders abuse is the only one that fits into the text and structure of the 
+applicable statutes and rules. The Farmer decision emphasized the language of Rule 9(b) in 
+concluding that abuse of the writ could be found, even if no prior proceeding on the merits of a 
+previous petition had been conducted, relying on the language “[a] second or successive petition 
+may be dismissed . . . if new and different grounds are alleged, the judge finds that the failure of 
+the petitioner to assert those grounds in a prior petition constituted an abuse of the writ.” Farmer, 
+
+
+11 
+
+
+ee ene cera ae 
+
+
+wo orn Aa ” & WY NO = 
+
+
+RIO ROO ROO eee 
+
+
+000140 
+
+
+98 F.3d at 1555. The Advisory Committee Notes (1976) to Rule 9(b), quoted in Farmer, explicitly 
+adopt the Sanders analysis of the standard of abuse under this theory: 
+With reference to a successive application asserting a new 
+
+
+round or one not previously decided on the merits, the court in 
+nd noted: 
+
+
+In either case, full consideration of the merits of the new application 
+can be avoided [only] if there has been an abuse of the writ * * * 
+and this the Government has the burden of pleading. * * * 
+Thus, for example, if a prisoner deliberately withholds one 
+of two grounds for federal collateral relief at the time of filing his 
+first application, * * * he may be deemed to have waived his right 
+to a hearing on a second application presenting the withheld ground. 
+373 U.S. at 17-18 [83 S.Ct. at 1078] 
+Farmer, 98 F.3d at 1555-1556. The Notes conclude that Rule 9(b) will not “eliminate a remedy 
+to which the petitioner is rightfully entitled,” and emphasize the language of Sanders holding that 
+
+
+Nothing in the traditions of habeas corpus requires the federal courts 
+to tolerate needless piecemeal litigation, or to entertain collateral 
+
+
+proceedings whose only purpose is to vex, harass, or delay. 
+373 US. at 19 [83 S.Ct. at 1078]. 
+
+
+Farmer, 98 F.3d at 1556. 
+
+Thus the non-McCleskey prong of Rule 9(b) incorporates the Sanders standards of abuse, 
+as the Advisory Committee Notes clearly indicate. This conclusion is also the only one consistent 
+with the settled principle of statutory construction that an enactment which employs a term of art 
+(like “abuse of the writ’’) which has been judicially defined is presumed to have incorporated the 
+judicial interpretation of the term. E.g., McDermott Intern... Inc. v. Wilander, 498 U.S. 337, 342 
+(1991); Davis v. Michigan Dept. of Treasury, 489 U.S. 803, 813 (1989). 
+
+
+12 
+
+
+wo ona wn & WwW NO = 
+
+
+a ee ee ee 
+RPRRBBErRSBSaeRTABABREEBEHHA S 
+
+
+000141 
+
+
+2. It is at least debatable among jurists of reason that this court erred when 
+it concluded that ground thre was not exhausted. 
+
+
+Ground three of the amended petition challenges the constitutionality of the use of 
+evidence of sexual misconduct designed to prejudice the jury. Here, respondent argues that ground 
+three is unexhausted because the claim was not presented as a violation of Slack’s Fifth and 
+Fourteenth Amendments. The record belies that assertion. That Slack’s right to due process is 
+impinged by this violation of his right to a fair trial cannot come as surprise to the state. It is clear 
+that the analysis employed at the appellate level inherently irmplicated due process and fair trial 
+claims. The “unexhausted claims” upon which respondent relies cannot reasonably be said to have 
+fundamentally altered the legal claim of prosecutorial misconduct or to reflect an attempt by 
+petitioner to withhold facts or legal theory from the state courts. Petitioner’s attempts to state as 
+many specifics as possible underlying his claim of prosecutorial misconduct can hardly be said 
+under the circumstances to have caused the claim to become unexhausted. 
+
+Moreover, the exhaustion doctrine does not require that a federal habeas corpus 
+petitioner frame a claim in precisely the same manner in which it was set forth in the state court 
+pleadings. See Williams v. Holbrook, 691 F.2d 3, 6 (1st Cir. 1982) (petitioner “not precluded from 
+some reformulation of the claims . . . made in the state courts”). Respondent must not be allowed 
+to extrapolate Slack’s claims to the point of requiring that the federal petition be identical to the 
+prior state petitions. See Engle v. Isacc, 456 U.S. 107, 123-124 n.25 (1982) (“a creative appellate 
+judge could almost always distill an unexhausted due process claim . . . [W]e are reluctant to 
+interpolate an unexhausted claim not directly presented by the petition. Rose v, Lundy does not 
+compel such harsh treatment of habeas petitions.”). Thus, although respondent has attempted to 
+“mix” Slack’s petition, see Lacey _v. Gabriel, 732 F.2d 7, 11-12 (1st Cir.) (“district court [could 
+not] ‘mix’ Lacy’s petition for him.”), cert. denied, 469 U.S. 861 (1984), the rule requiring liberal 
+construction of prisoners’ pleadings should not be applied to Slack’s disadvantage. 
+
+
+13 
+
+
+wo oN AO TN OU SelUMNGLlC TN CU 
+
+
+NY NY NY NO =| Fe FOO ESF ESO SSO le 
+RPeeBeeB te BSeearwtiawnwseans = & 
+
+
+V0C14. 
+
+
+Il. CONCLUSION 
+
+
+For the reasons stated Slack respectfully asks this Court for an order granting a 
+
+
+certificate of probable cause. 
+
+
+Respectfully submitted, 
+
+
+14 
+
+
+es 
+
+
+oOo wona FF +>» WY WN 
+
+
+no NO F-|- | |e OO FSeOOOlUESllOlOll Sl TSO ESlll Sl 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF NEVADA 
+
+
+x *& & 
+
+
+ANTONIO SLACK CV-N- 95-194-DWH 
+
+
+Petitioner, 
+
+
+-vs- 
+E.K. McDANIEL, et al., 
+
+
+Respondents. 
+
+
+eee ee ee ee ee ee ee ee 
+
+
+The undersigned hereby certifies that she is an 
+employee in the office of the Federal Public Defender for the 
+District of Nevada and is a person of such age and discretion as 
+to be competent to serve papers. 
+
+That on May 8, 1998, she served a copy of the above 
+and foregoing document by placing a true and correct copy into 
+the United States mail, postage prepaid and addressed to the 
+
+
+persons named below: 
+
+
+Julie Slabaugh Antonio Slack 
+Deputy Attorney General #3395 
+Criminal Justice Division Ely State Prison 
+100 North Carson Street P.O. Box 1989 
+Carson City, NV 89701-4717 Ely, NV 89301 
+
+Y 
+
+T 
+15 
+
+
+Yd] | @ yo014n «= 
+
+
+- | 7 Cooke! Neo. Fing Ome 
+000144 Onsuect a“ ve. Number |on mo Oey ve. 4 = 2 Juege Mag oem ane a we ~~ 
+0978 |3 |91} oos62}]1 | 11] 27] 91/3 |530 7809 lor looserepm 
+CAUSE: HABEAS CORPUS - 28 USC 2254 CLoséd 
+PTR ee Ee hcmes 
+SLACK, ANTONIO T. DIRECTOR, NEVADA DEPARTMENT 
+OF PRISONS 
+‘ 
+EXEMPT FRCP 16 (b) 
+ATTORNEYS 
+FOR PETITIONER: FOR RESPONDENT: 
+Antonio T. Slack ATTORNEY GENERAL STATE OF NZVADA 
+Inmate #31395 HEROES MEMORIAL BUILDING 
+IN PRO PER CAPITOL COMPLEX 
+Ely State Prison CARSON CITY, NV 89710 
+P.O. Box 1989 KEVIN G. HIGGINS, Deputy 
+Ely, NV 89301-1989 (702) 687-3529 
+For Rs. 
+fo - 
+} 
+CHECK 
+LM wore _ FILING FEES PAID oranges, eapenve 
+was OaTe a 4 RECEIPT NUMBER 
+FORMA Termineten 
+PAUPERIS nenge 
+
+
+— OC-1113 77S) 
+
+
+— 000147 
+
+
+CV-N-91-561-8DM ANTONIO TONT®@RDGEBDINGSs DIRECTOR, NV DEPT OF PRISONS} 
+
+
+OF 
+
+
+PETITICK for Writ of B/C obo P. (AT) mj 
+
+
+oo 2 »4 MOTION/ORDER: (HOM) ORD tht P may proceed in F/P;: Clk sh) fii? petn 
+& shl srv Rs by cert mail: Re ehi not hv to anewe ed petn unless = 
+
+
+ords. Cps dist 12/02/91. mj 
+
+
+-- |---| JS-S (AT) aj 
+
+
+12/02/9] -| SUBD TO HOM: (ITEM #1 - Does he wish to have a respns filed?) (AT) mj 
+
+
+12/10/91] 3 |ORDER TO SHOW CAUSE: (BDM) ORD tht Clk of Crt forward epys of petn ¢ 
+
+thie Ord to the AG of St of NV and co R, Dir NV Dept of Prisons: FUR 
+ORD tht Re shl fire a respns to the petn on/or before 12/27/91 on 
+tne merits of the petn; Rs shl serv a cpy of tne respn upon the petnr 
+FOR ORD tht if any pldng/or paper submitté to be fld & considr by Cr 
+does not include a cert of svc upon rs or Cnsl for Rs, it will not b 
+considrd by the Crt & will be retnd to petnr. Cps dist 12/11/91 (aT) 
+mj 
+12/20/$} dj MOTION/ORDER: (8DM) ORD tht Rs shl hv ext to & incl 2/10/92 w/in 
+
+to answr or otherwise plead to the petn for writ of H/C; FUR ORD the 
+
+no fur ext of time shl be grntd. Cps dist 12/23/91. (AT) mj 
+
+
+2/5/92 5 NioTIon to stay 8/C proceedngs obo P. (m) (AT) mj 
+
+
+2/12/92 |-- | SUBD TO HDM: (ITEM #3 - no respns & #5) (AT) mj 
+
+
+2/18/92| 6 | MINUTE ORDER (HDM): ORD that P's mtn to stay H/C procdgs (#5) for 
+for hrg 2/19/92 @ 8:45 a.m.; cnsl for Rs sh arrange for telephonic 
+
+
+presence of P (cps dist) (AT). rm 
+
+
+2/20/92) 7 | MINUTE ORDER (HDM): ORD this actn dism w/o prejudice; P grntd lv to 
+file application to renew upon exhaustion of all state remedies. 
+
+
+(cps dist) (AT) rm. 
+
+
+one --| JS-6. (AT) rm 
+
+
+Oe rf @e 
+
+
+voorsg Sl @ 
+
+
+eels sai 
+ANTONIO T. SLACK ur 
+>” 
+Name . . ai “ 
+31395 Wo ww 9 bew : ot as 
+Prison Number 49.0% wiei® a ; 
+Fa" i. san ; 7 ieti 
+ELY STATE PRISON cw = . - §.. 5S) Are you presently serving a sentence imposed for a conviction 
+Place of Confinement ;: ‘ i é other than the conviction under attack in this motion? 
+UNITED STATES DISTRICT COURT 3 ny Yes / 7 No kxwW 
+DISTRICT OF NEVADA ae ; 
+a 6) Nature of the offense involved: (all counts) 
+ANTONIO TONTON SLACK , Petitioner ; 
+(Pull Name) : SECOND DEGREE MURDER WITH USE OF DEADLY WEAPON 
+CV-N----91-561-8 
+vs. = 
+
+
+CASE NO. 
+(To be supplied by the Clerk) 
+
+
+DIRECTOR, NEVADA 
+
+
+DEPARTMENT OF PRISONS _» Respondent 
+(Name of Warden, Superintendent, 
+jailor or authorized person having 
+custody of petitioner. ) 
+
+
+7) What was your plea? (check one) 
+
+
+PETITION FOR A 
+
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+and WRIT OF HABEAS CORPUS a) Not Guilty Ax b) Guilty / 7 ¢) Nolo Contendere / 7 
+) PURSUANT TO 28 U.S.C. §2254 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+
+
+The Attorney General of the State 
+of NEVADA , Additional 
+Respondent. 
+
+
+BY A PERSON IN STATE CUSTODY : 
+8) If you entered a plea of guilty pursuant to a plea bargain, state 
+
+
+the terms and conditions of the agreement: 
+
+
+(NOTE: If petitioner is attacking a NOT APPLICABLE 
+
+
+judgment which imposed a sentence to 
+be served in the future, petitioner 
+must fill in the name of the state 
+where the judgment of conviction was 
+entered. ) 
+
+
+9) If you were found guilty after a plea of not guilty, was the 
+finding made by: (check one) 
+
+
+a) A jury AxW b) A judge without a jury /_7 
+1) Name and location of the court which entered the judgment of 
+
+
+conviction under attack: SIGHTH JUDICIAL prstercr court. 10) Did you testify at trial (if any)? Yes Axwk No / / 
+
+
+CLARK COUNTY, LAS VEGAS, NEVADA 
+
+
+ll) Did you appeal from the judgment of conviction? 
+
+
+2) Date judgment of conviction was entered: MAY 1990 Yes Lxxk No Ly 
+
+
+3) Case number: C92060 : . 12) If you did appeal, state the name and location of the court where 
+| the appeal was filed, the result, the case number and the date of 
+the court's decision (or attach a copy of the court's opinion or 
+
+
+4) Length and terms of sentence: _TWO (2) CONSECUTIVE S-YEARS-TO-LIFE order): 2 
+SENTENCES PETITIONER DOES NOT POSSESS FINAL ORDER AT THIS TIME 
+
+
+. = 
+a) Im a capital case where death penalty has been imposed, date 
+of scheduled execution ' WOT APPLICABLF 
+
+
+13) 
+
+
+14) 
+
+
+@ e 
+
+
+0001090 
+
+
+If you did not appeal, explain briefly why you did not: 
+
+
+DID APPEAL / NOT APPLICABLE 
+
+
+a) Did you seek permission to file a late appeal? 
+
+
+Yes / / No Xxx/ WASN'T NECESSARY 
+
+
+State concisely every ground on which you claim that you are being 
+
+
+unlawfully held. Summarize briefly the facts supporting each 
+ground. If necessary, you may attach up to two extra pages 
+stating additional grounds or supporting facts. You should raise 
+in this petition all available grounds for relief which relate to 
+the conviction under attack. 
+
+
+CAUTION 
+Before proceeding in a federal court, you are required to exhaust 
+the remedies available to you in the state courts as to each 
+
+
+ground on which you request action by the federal court. 
+
+
+A)(1) Ground One: INSUFFICIENT EVIDENCE WAS ADOUCED AT TRIAL TO CONVICT 
+
+
+THE DEFENDANT WITH SECOND DEGREE MURDER WITH USE CF A DEADLY WEAPON. 
+
+
+(2) Supporting Facts: (Without citing legal authority or 
+argument state briefly the facts which support your claim.) 
+
+
+INCIDENT INVOLVED ACCIDENTAL SHOOTING, TESTIMONY SUPPORTS SAME, CONVICTICN 
+ON SBOOND DEGREE MURDER IS WITHOUT ESSENTIAL ELEMENTS OF OFFENSE FOR SECOND 
+DEGREE MURDER WITH USE OF A DEADLY WEAPON, INTENT AND POSSESSION OF WEAPON 
+LACKING FACTUAL EVIDENCE OR TESTIMONY. ALSO SEE PETITIONER'S OPENING BRIEF 
+
+
+FROM STATE COURT DIRECT APPEAL ON THIS CLAIM WHICH WAS CONSTITUTIONALLY RAISED 
+
+
+ON BASIS OF JACKSON V. VIRGINIA, 443 U.S. 307 (1979). 
+
+
+ec 0001514 @ 
+
+
+Statement of Exhaustion of State Remedies as to 
+
+
+Ground One: 
+
+
+Direct Appeal 
+
+
+(a) If you appealed from the jucgment of conviction 
+did you raise this issue? Yes x7 No /_ / 
+
+
+(b) If you did not raise this issue in your direct appeal, 
+explain briefly why you did not: 
+
+
+DID RAISE / NOT APPLICABLE 
+
+
+Post-Conviction Proceedings 
+
+
+(c) Did you raise this issue by means of a post-conviction 
+motion or petition for habeas corpus in a state trial 
+court? Yes / / No 4OKx 
+
+
+(a4) If your answer to (c) is "Yes", state the type of 
+motion or petition, the name and location of the court 
+where the motion or petition was filed, the result and date 
+
+
+of the court's decision: NOT APPLICABLE _ 
+
+
+(e) Did you receive_an evidentiary hearing on your motion 
+or petition? Yes / 7 No / 7 WOT APPLICABLE 
+
+
+(f) Did you appeal from the denial of your motion or 
+petition? Yes {_/ No se NOT APPLICABLE 
+
+
+(g) If your answer to (f) is "Yes", state whether this 
+igsue was raised in the appeal, Yes /_/ No f_ 7+ N/A 
+and state the name and location of the court where the 
+appeal was filed, the case number and the date of the 
+court's decision (or attach a copy of the court's opinion 
+or order): 
+
+
+000156 
+
+
+(h) If your answer to questions (e), (f) or (g) is "No", 
+briefly explain: DIRECT APPEAL IN STATE SUPREME COURT EXHAUSTED ISSU. 
+
+
+Other Remedies 
+
+
+(i) Describe all other procedures (such as habeas corpus 
+in the state supreme court, administrative remedies, etc.) 
+you have used to exhaust your state remedies as to the 
+issue: OIRECT APPEAL IN STATE SUPREME COURT EXHAUSTED ISSUE 
+
+
+B)(1) Ground Two: THE TRIAL COURT IMPROPERLY ALLOWED PREJUDICIAL EVIDENCE 
+
+
+OF A SEXUAL RELATIONSHIP BETWEEN THE DEFENDANT AND THE TWELVE YEAR OLD VICTIM. 
+
+
+(2) Supporting Facts: (Without citing legal authority or 
+argument state briefly the facts which support your claim.) 
+
+
+EVIDENCE CF PRIOR BAD ACTS AND UNCHARGED MISCONDUCT VIOLATED DEFENDANT'S 
+RIGHT TO A FAIR TRIAL UNDER FOURTEENTH AMENDMENT AS FURTHER ARGUED IN THE 
+DIRECT APPEAL, SEE ALSO DEFENDANT'S OPEN ING BRIEF IN STATE DIRECT APPEAL. 
+
+
+(3) Statement of Exhaustion of State Remedies as to 
+Ground Two: 
+
+
+Direct Appeal 
+
+
+(a) If you appealed from the judement of conviccion 
+did you raise this issue? Yes xxo”v No / / 
+
+
+(b) If you did not raise this issue in your direct appeal, 
+explain briefly why you did not: - 
+
+
+DID RAISE / NOT APPLICABLE 
+
+
+Post-Conviction Proceedings 
+
+
+(c) Did you raise this issue by means of a post-conviction 
+motion or petition for habeas corpus in a state trial 
+court? Yes / / No KXX/ 
+
+
+(d) If your answer to (c) is "Yes", state the tvpe of 
+motion or petition, the name and location of the court 
+where the motion or petition was filed, the result and date 
+of the court's decision: NOT APPLICABLE | 
+
+
+(e) Did you receive an evidentiary hearing on your motion 
+or petition? Yes /_ / No /_ / NOT APPLICABLE 
+
+
+(f£) Did you appeal from the _denial of your motion or 
+petition? Yes /_ / No /__/ NOT APPLICABLE 
+
+
+(g) If your answer to (f) is "Yes", state whether as 
+this issue was raised in the appeal, Yes / / No /_/, 
+and state the name and location of the court where the 
+appeal was filed, the case number and the date of the 
+court's decision (or attach a copy of the court's opinion 
+or order): NOT APPLICABLE 
+
+
+: 
+
+
+(h) If your answer to questions (e), (£) or (g¢) is "No" 
+briefly explain: _DIRECT AP ‘ 
+
+
+Other Remedies 
+
+
+(i) Describe all other procedures (such as habeas corous 
+in the state supreme court, administrative remedies, etc.) 
+you have used to exhaust your state remedies as to the 
+issue: STATE SUPREME COURT RULED CN ISSUE EXHAUSTING REMEDIES 
+
+
+C)(1) Ground Three: THE REASCNABLE DOUBT INSTRUCTION TO luRy ey TRrar courr 
+
+
+VIOLATED DUE PROCESS CLAUSE OF U.S. AND STATE CONSTITIITION (CAGE VS_ [LOUISIANA) 
+
+
+GROUND FOUR: TRIAL COURT ERRED BY NOT ADEQUATELY DEFINING PREMEDITATION IN JURY 
+
+
+INSTRUCTICNS REGARDING MURDER. 
+(2) Supporting Facts: (Without citing legal authority or 
+argument state briefly the facts which support your claim.) 
+
+
+GROUND THREE: REASONABLE DOUBT INSTRUCTION VIOLATED DUE PROCESS CLAUSE OF BOTH 
+
+
+THE U.S. AND NEVADA CONSTITUTIONS, SEE 
+CT. 328 (1990). CAGE V. LOUISIANA, lll Ss. 
+
+
+GROUND FOUR: TRIAL COURT VIOLATED DEFENDANT'S CONSTITUTICNAL RIGHTS AS SHOWN 
+ne S STATE COURT SUPREME COURT DIRECT APPEAL OPENING 
+~ EF (UNITED STATES V. GILBREATH, 452 F. 2d 992, Sth CIR. 1971), 
+FAILING TO ADEQUATELY DEFINE “PREMEDITATION” IN JURY INSTRUCTIO. 
+
+
+Statement of Exhaustion of State Remedies as to 
+
+
+Ground Three: 
+
+
+Direct Appeal 
+
+
+(a) If you appealed from the judement of conviction 
+did you raise this issue? Yes Xow to f / 
+
+
+(b) If you did not raise this issue in your direct appeal, 
+explain briefly why you did not: 
+
+
+DID RAISE / NOT APPLICABLE 
+
+
+Post-Conviction Proceedings 
+
+
+(c) Did you raise this issue by means of a post-conviction 
+motion or petition for habeas corpus in a state trial 
+
+
+court? Yes / / No Xxoy 
+
+
+(ad) If your answer to (c) is "Yes", state the type of 
+motion or petition, the name and location of the court 
+where the motion or petition was filed, the result and date 
+of the court's decision: 
+
+
+NOT APPLICABLE 
+
+
+(e) Did you receive_an evidentiary hearing on your motion 
+or petition? Yes / _ / No /_ / NOT APPLICABLE 
+
+
+(£) Did you appeal from the_denial of your motion or 
+petition? Yes /_ / No /_ / NOT APPLICABLE 
+
+
+(g) If your answer to (f) is "Yes", state whether ti 
+this issue was raised in the appeal, Yes/ / WNo/ /, N 
+and state the name and location of the court where the 
+
+appeal was filed, the case number and the date of the 
+
+court's decision (or attach a copy of the court's opinion 
+
+or order): NOT APPLICABLE 
+
+
+(h) If your answer to questions (e), (f) or (g) is "No", 18) Do you have any petition, application, motion or appeal now pend- 
+
+
+: , , ing in_any court_regarding the conviccion under attack? 
+briefly explain: _STATE SUPREME COURT APPEAL EXHAUSTED ISSUE Yes KO No /_/. If "Yes", state the name of the court and 
+
+
+the nature of the proceeding: 
+
+
+NOT APPLICABLE 
+
+
+Other Remedies 
+
+
+19) Were you represented by an attorney at any time during the course 
+va po fi of your arraignment and plea, trial (if any), sentencing, appeal 
+in the state supreme court, administrative remedies, etc.) (if any), or during the preparation, posoanennion or consideration 
+you have used to exhaust your state remedies as to the = of any petitions, motions or applications which you filed with 
+issue: _STATE SUPREWE COURT APPEAL EXHAUSTED ISSUE respect to this convicticn? Yesxtcoox | am Fe eo 
+
+state the name(s) and address(es) of any such attorney(s), the 
+proceedings in which you were so represented and whether said 
+attorney(s) waa/WOEe of your own choosing or ~beead appesas ed oF the 
+court: : 3 
+
+
+(i) Describe all other procedures (such as habeas -corpus 
+
+
+ON OIRECT APPEAL = SAME COUNSEL ABOVE (MICHAEL GARDNER, DEP.P.D.) 
+
+
+15) Have all grounds for relief raised in this petition been presented 
+to the highest state court having jurisdiction? 
+
+
+Yes /OOsX No // 
+
+
+16) - you answered hy = 15, state cag gp have ine Wherefore, petitioner prays that the court grant him such relief to 
+een so presented and briefly give your reason(s) for not present- ; er tieon 1 fl, 
+ing them: NOT APPLICABLE which he may be entitled in is p ing 
+
+
+REQUESTED 18 USC £ 3006A-a J oz be 4a 
+
+
+Signature of Attorney (if any) Signature of Petitioner 
+
+
+17) Have you previously filed any type of petition, application or 
+motion in a federal court oe the conviction under attack? 
+Yes / 7 No /XXXXX If "Yes", state the location of the court, 
+the type of proceeding, the issues raised, the result and the date 
+
+
+a court’ . ee for each petition, application or motion | DECLARATION UNDER PENALTY OF PERJURY 
+
+
+(Attorney's full address and 
+telephone number. ) 
+
+
+: The undersigned declares under penalty of perjury that he is the 
+petitioner in the above action, that he has read the above pleading 
+: and that the information contained therein is true and correct. 
+
+28 U.S.C. §1746. 18 U.S.C. §1621. 
+
+
+Executed at LY, NEVADA on NOVEMBER 12, | 1991 
+(Location) (Dace) 
+
+
+Va 
+
+
+4 
+
+
+(Signature) 
+
+
+pois 6 | : © 
+
+
+QUC1SY 
+
+
+MOTION AND ORDER UNAVAILABLE 
+
+
+000160 
+
+
+- ++ eee ear” 
+
+
+*. 
+| CAROL ©. SITTGH...c0 
+Cush 
+BY 
+
+
+rury 
+
+
+Dec 10 4 23 FSI, coat 
+AND FILED 
+
+
+UNITED STATES DISTRICT COURT 
+
+
+DISTRICT OF NEVADA 
+
+
+ANTONIO TONTON SLACK, CV-N-91-561-HDM 
+
+
+Petitioner, 
+
+
+Vv. 
+
+
+DIRECTOR, NEVADA DEPARTMENT 
+OF PRISONS and THE ATTORNEY 
+GENERAL OF THE STATE OF NEVADA, 
+
+
+Respondents. 
+- 
+
+
+Petitioner is in state custody, having been sentenced in 
+May 1990. Based on the petition filed herein, and good cause 
+appearing: | 
+
+It is hereby ORDERED that the clerk of the court forward 
+copies of said petition in this order to the Attorney General of 
+the State of Nevada and to the respondent, Director, Nevada 
+Department of Prisons. 
+
+It is further ORDERED that the respondents file a response 
+to the petition on or before the 27th day of December, 1991, on 
+the merits of the petition. Respondents shall serve a copy of the 
+
+
+~ 
+
+
+response upon Petitioner. 
+
+
+//if 
+
+
+Vr eam tae 
+
+
+V0016L -—— ee ee a 
+
+
+ale gti ame 
+
+
+It is further ORDERED that if any pleading or other paper 
+
+| submitted to be filed and considered by the court does not include 
+a certificate of service upon Respondents or counsel for 
+Respondents, it will not be considered by the court, and it will 
+be returned to the petitioner. 
+
+
+Dated this GF aay of = Oe 1991. 
+
+
+000165 
+
+
+mr 
+
+
+2v1Q 
+
+
+CE 
+
+
+8 DEC 1/9 1c71 
+
+
+“LEBK, U.S. O!F 
+DISTRICT 4. 
+
+
+11 
+
+12 
+
+13 
+
+14 
+15 
+
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+
+
+ANTONIO TONTON SLACK, 
+
+
+vs. 
+
+
+DIRECTOR, NDOP, et al., 
+
+
+Petitioner, 
+
+
+Respondents. 
+
+
+this 
+
+
+Writ of Habeas Corpus. 
+
+
+O001G4 = | “eae 
+a 
+
+
+-_—_ =, 
+-* al ad PT a 
+s. . ' ‘ 
+- . “ . 
+
+. te 4 3°" 
+
+. a 2 
+
+
+vty .9 
+sce 2 9 1991 dl 7) 
+FRANKIE SUE DEL PAPA serict us THE i 
+Attorney General wrote! YEMERAL 
+KEVIN G. HIGGINS Tn oe 
+Senior Deputy Attorney General US. S:in  cURT * 26 to 
+Criminal Justice Division DISTRICT aeYADA ~ 
+Capitol Complex a em Gh. 
+Heroes’ Memorial Building i. 
+Carson City, Nevada 89710 DEC 2 0 \99) 
+Telephone: (702) 687-3529 1 
+Attorney for Respondents. CAROL C. FITZGERALD, CLERK 
+! ; 
+IVES Ef AK DEPUTY: 
+
+
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+
+
+court for an order granting a forty-five 
+
+
+counsel as well as all other papers, 
+
+
+IN THE UNITED STATES prstrrcy COURT 
+
+
+FOR THE DISTRICT OF NEVADA 
+
+
+Case No. CV-N-91-561-HDM 
+
+
+MOTION FOR ENLARGEMENT 
+OF TIME 
+(FIRST REQUEST) 
+
+
+(45) 
+
+
+documents, 
+
+
+pleadings and other materials on file herein. 
+
+
+Respondents, by and through counsel, FRANKIE SUE DEL PAPA, 
+
+
+Attorney General of the State of Nevada, hereby respectfully move 
+
+
+day 
+enlargement of time to and including February 10, 1992, in which 
+
+
+to file and serve their response to petitioner’s Petition for 
+
+
+This motion is based upon the provisions of Rule 6(b) of the 
+
+
+Federal Rules of Civil Procedure and the attached affidavit of 
+
+
+records, 
+
+
+Baw 
+
+
+— 
+
+
+wo worna ust YS WNW 
+
+
+eed 
+sf. ~ 8B Ser371anwkBN | O 
+
+
+26 
+
+
+There have been no prior enlargements of respondents’ 
+
+
+000165 
+
+
+time 
+
+
+to file said response, and this motion is made in good faith ana 
+
+
+not for the purposes of delay. 
+RESPECTFULLY SUBMITTED this LEZ day of December, 1991. 
+
+
+FRANKIE SUE DEL PAPA 
+Attorney General 
+
+
+naw he AY de 
+e 
+
+
+vin G. Higgins 
+Senior Deputy Attorney General 
+Criminal Justice Division 
+
+
+THESE GH4.L BE NO RARTHER IT IS SO ORD 
+CST cHAMONS GRANTED. 
+‘ JUDGE 
+paTep:__Aecembw Ly £14 
+CERTIFICATE OF SERVICE 
+
+
+I hereby certify that I am an employee of the offic of the 
+Attorney General of the State of Nevada and on this P1D aay of 
+
+
+December, 1991, 
+
+
+I served a copy of the foregoing MOTION FOR 
+ENLARGEMENT OF TIME together with the AFFIDAVIT oF COUNSEL, by 
+mailing a copy thereof to: 
+
+
+ANTONIO TONTON SLACK, #31395 
+Ely State Prison 
+
+P.O. Box 1989 - 
+
+Ely, Nevada 89301-1989 
+
+
+Dor £ dion 
+
+
+~ 
+
+
+YOd1E0 
+
+
+~@seewns © 
+
+
+} Ta 
+
+ANTCNIO TONTON SLACK 
+ELY STATE PRISON 
+P.O. BOX 1989 va 
+ELY, NEVADA 89301 "fas 
+Petitionec In Pro Se 
+
+UNITED STATES DISTRICT COURT 
+
+CISTRICT OF NEVADA 
+7 . a _ _ 
+ANTCNIO TONTON SLACK, Case No. CV-N-91-56]l1-HD™ 
+Petitioner, MOTION TO STAY THESE 
+
+
+BABEAS PROCEEDINGS 
+
+
+DIRECTOR, NDOP, et al., 
+
+
+Respondents. / 
+
+
+COMES NOW, petitioner, ANTCNIO T. SLACK, in pro se and witha 
+the assistance of an inmate law clerk, MICHAEL R. EVANS #26022, 
+to respectfully move this Honorable Court for an order staving 
+these habeas proceedings until this petitioner has exhausted the 
+
+
+Ecllowing issues in a state court proceeding, pursuant to Rose v. 
+
+
+Lundy, 455 U.S. 509 (1982) and Harris v. Reed, 109 S.Ct. 1038 
+
+
+(1989): 
+
+
+1) Ineffective assistance of counsel during all pretrial and 
+trial proceedings as follows: 
+
+a) Failure to raise a Franklin violation, in that the 
+deal made with petitioner's co-defendant was not completed before 
+his testimony was allowed; 
+
+b) That counsel failed to offer and/er request an 
+
+
+accomolice and/cr informant instruction. 
+
+
+2) That the trial court erred in not instructing tne jury on 
+
+
+an accomolice instruction and his testimony. 
+
+
+- 
+
+
+ona ns rn oO +. © PY & 
+
+
+nn nn en 
+“1 s+ WwW HY F&F O 
+
+
+_ 
+wo 
+
+
+BRRRE BBR S 
+
+
+@ 
+
+
+ea. 
+000185 
+
+
+3) That the trial court erred in allowing the petiticner's 
+co-defendant to testify prior to the deal being made with him ance 
+the state being completed. 
+
+4) That there was prosecutoriai misconduct, in tnat the 
+prosecution withheld from the jury the fact that the only finger 
+murder were 
+
+
+found on the weapon 
+
+
+prints those of tne 
+co-defendant's. | 
+
+Petitioner respectfully request one (1) year to litigate 
+these issues in a state court proceeding so that he may oresent 
+these issues with the issues that he has already presented in his 
+
+
+filed habeas. 
+Dated this 3lst day cf January, 1992. 
+respectfully submitted by, 
+if v4 
+ANTONICG TONTON SLACK 
+
+
+CERTIFICATE OCF SERVICE 
+
+
+I, the undersignecé, do hereby certify that on the 31 day of 
+
+
+January, 1992, tnat I place= e¢ true and correct copy of the 
+
+
+foregoing motion in the Unitec States mail, postage prepaid, 
+
+
+addressec as follows: Frankie Sue Del Pasa, Nevada Attorney 
+
+
+General, Capitol Complex, Carson City, Nevada 89710. 
+
+
+Lbs 1 LH 
+ANTON1LO TCNTON SLACK : 
+
+
+ELY STATE PRISON 
+P.C. BOX 1989 
+SLY, NEVADA 89301 
+
+
+Petitioner In Pro Se 
+
+
+44444 
+
+
+OS Me 
+
+
+«RRA 
+
+
+BRSERE BBE S 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF NEVADA 
+
+
+*-r «© & & 
+
+
+ANTCNIO TONTCN SLACK, Case No. CV-N-91-561-HD™ 
+Petitioner, 
+
+
+vs. PURPCSED ORDER 
+
+
+DIRECTOR, NDOP, et al., 
+
+
+Res>ondents. / 
+
+
+After reading the petitioner's mction t95 stay these habeas 
+prcceedings and good cause apsearing, 
+
+IT IS HEREBY ORDERED that these proceedings are stayed for a 
+period of one (1) year or until the parties notify this court 
+
+
+otherwise. 
+
+
+IT IS SO ORDERED. 
+
+
+Dated this day of , 1992. 
+UNLT Si cS ois CT JUDG 
+668 ¢ 
+YIM 
+ees at 
+
+
+ere. 
+
+
+OO0LT:L 
+US. DISTAicT COURT 
+DISTRICT OF NEVADA 
+
+
+_- LIED 
+
+
+UNITED STATES DISTRICT.COURT fFf£B | 
+DISTRICT OF NEVADA ) 1812 
+
+
+RENO, NEVADA , 
+CAROL C. FITZGERALD, CLERK 
+
+
+ANTONIO TONTON SLACK, BY__ Wo XN. DEPUTY 
+
+
+Petitioner(s), CV-N-91-561-HDM 
+
+_ v5: 
+
+MINUTES OF THE COURT 
+
+DIRECTOR, NEVADA DEPARTMENT 
+OF PRISONS, et al., 
+
+
+eee ee ee ee ee eet eet ee ee” 
+
+
+Respondent(s). ‘« February 18, 1992 
+PRESENT: HONORABLE HOWARD D. MCKIBBEN, U.S. DISTRICT JUDGE 
+Deputy Clerk: Bette Stewart Reporter/Recorder: _None Appearing 
+
+
+Counsel for Petitioner(s): _._None Appearing _ 
+Counsel for Respondent(s): _.___ None Appearing _ 
+
+
+MINUTE ORDER IN CHAMBERS: 
+
+
+Petitioner’s Motion to Stay Habeas Proceedings (#5), 
+filed February 5, 1992, is set for telephonic hearing on Wednesday, 
+February 19, 1992, at 8:45 a.m. Counsel for respondents shall 
+arrange for telephonic presence of petitioner. 
+
+
+IT IS SO ORDERED. 
+
+
+CAROL C. FITZGERALD, CLERK 
+
+
+By: 
+Deputy Clerk 
+
+
+O001%«< 
+
+
+000175 
+
+— a F 
+) 2 
+=n S 3 
+mat alia 
+ve ele | > 9 
+
+UNITED STATES DISTRICT COURT =s2 ~~ F425 
+: DISTRICT OF NEVADA mea S's 
+RENO, NEVADA “Cc ss * 
+
+mat & 
+
+a) | 
+
+
+ANTONIO TONTON SLACK, 
+
+
+Plaintiff(s), -CV-N-91-561-HDM 
+
+
+vs. 
+MINUTES OF THE COURT 
+
+
+DIRECTOR, NEVADA DEPARTMENT OF 
+PRISONS, et al., 
+
+
+Defendant(s). February 19, 1992 
+
+
+ee ee ee ee ee ee ee ee ee ee ee 
+
+
+PRESENT: HONORABLE HOWARD D. MCKIBBEN, U.S. DISTRICT JUDGE 
+Deputy Clerk: Bette Stewart Reporter/Recorder: _Donna Casey 
+
+
+Counsel for Plaintiff(s): __Antonio Tonton Slack, in Pro Se _ 
+Counsel for Defendant(s): Kevin G. Higgins 
+
+
+Telephonic Hearing on Petitioner’s Motion to Stay 
+Habeas Proceedings (#5) 
+
+
+PROCEEDINGS: 
+
+
+9:10 a.m. Court convenes. 
+Court and counsel confer. 
+There being no objection by either party, 
+
+
+IT IS ORDERED that this action is dismissed without 
+prejudice. Petitioner is granted leave to file an application to 
+renew upon exhaustion of all State remedies. 
+
+
+9:15 a.m. Court adjourns. 
+CAROL C. FITZGERALD, CLERK 
+
+
+v 
+om leaie 
+
+
+Q001T 4 
+
+
+en - a Ri 
+
+
+000i o 
+
+
+BY —_———— 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF NEVADA 
+
+
+10 |} DAVID MICHAEL PELLEGRINI, ) 
+) 
+ll Petitioner, ; Case No. CV-S-96-400-PMP(LRL) 
+12] vs ) 
+I ) ORDER 
+13 |} EK. McDANIEL, et al., 2 
+) 
+14 Respondents ) 
+15 
+16 Respondents have filed a motion to dismiss (#44) the amended petition for writ of habeas 
+
+
+17 | corpus (#43), in which Petitioner Pellegrini challenges the validity of his state court conviction and death 
+18 ]| sentence. Respondents contend that based on Farmer v. McDaniel, 98 F.3d 1548 (9th Cir. 1996), nearly 
+19 || all of the grounds for relief stated in the amended petition are barred from review as an abuse of the writ. 
+20 || Respondents have properly stated the procedural history which shows that Petitioner had a prior federal 
+21} habeas corpus action that was dismissed for procedural reasons, to-wit: Pellegrini v. Whitley, CV-S-89- 
+22 | 246-PMP. The decision in Farmer holds that abuse of the writ analysis is not precluded when a prior 
+23 } federal habeas corpus proceeding is dismissed for procedural reasons, as compared to a denial on the 
+24] merits. However, for the reasons stated below, Petitioner’s prior action simply cannot be a basis: for a 
+25 || finding of abuse of the writ. Hence, the motion to dismiss shall) be denied. Although Petitioner's 
+26 || opposition to the motion was filed late, the opposition shall be allowed. / a 
+
+f 
+
+
+i fit 
+
+
+“™~ 
+
+
+oo ws A A & WH WH 
+
+
+ee ee ee 
+i | 
+
+
+19 
+
+
+QU0iTO 
+
+
+Petitioner’s conviction and sentence became final when the Nevada Supreme Court 
+issued its remittitur on December 20, 1988, denying Petitioner’s direct appeal. A warrant for Petitioner's 
+execution was issued setting March 31, 1989, as the execution date. Four days prior to the scheduled 
+execution, Petitioner pro se filed a petition for writ of habeas corpus and motion for stay of execution 
+in this court. A hearing was immediately held and the execution stayed to allow Petitioner an 
+opportunity to pursue a state post-conviction proceeding. The federal proceeding was subsequently 
+stayed and then disinissed a few months later. In total, the federal action was open only three and a half 
+months. The acknowledged purpose of that action was to stop an execution that was going to occur 
+before Petitioner could even pursue a state post-conviction proceeding; the goal of the prior federal 
+action was not to have the validity of his state court conviction and death sentence reviewed on the 
+merits. Under these circumstances, Petitioner’s conduct does not evidence a failure to act diligently in 
+stating all grounds for relief in the first federal action. 
+
+Abuse-of-the-wnit doctrine examines petitioner's conduct. The question is whether 
+
+petitioner possessed, or by reasonable means could have obtained, a sufficient basis to 
+
+allege a claim in the first petition and pursue the matter through the habeas process. 
+Farmer, 98 F.3d at 1560, quoting McCleskey v. Zant, 499 U.S. 467, 498 (1991 )(emphasis original). 
+To hold Petitioner bound to only those grounds stated in the prior action, an action that was begun solely 
+so that he could commence state court post-conviction proceedings before being put to death, is absurd. 
+The motion to dismiss shall be denied. 
+
+Petitioner has filed a motion (#50) to hold in abeyance, alternatively to extend the time, 
+for filing a motion for an evidentiary hearing. The scheduling order (#21) directed Petitioner to request 
+an evidentiary hearing at the same time that he opposed a motion to dismiss or filed a traverse to the 
+answer. The motion shall be granted to the extent that Petitioner shall file his motion for an evidentiary 
+hearing at the same time but separately from the traverse. 
+
+
+—- 
+
+
+ros 
+
+
+ow on DD vn F&F WY W 
+
+
+—S  —_—-— Oi —r i ii er is 
+~~ A vn 2a WwW NO &—- OC 
+
+
+~SnewntnAwnwht = = 
+a Uw 2B we NS Oo CO CO 
+
+
+Q001T 7 
+
+
+IT IS THEREFORE ORDERED that Respondents’ motion to strike (#52) Petitioner's 
+late opposition is DENIED. Respondents’ motion to dismiss (#44) is DENIED. Respondents shall file 
+an answer to the amended petition within sixty (60) days. Petitioner shall have forty-five (45) days to 
+then file a traverse. Respondents shall have thirty (30) days to then file a reply. 
+
+IT IS FURTHER ORDERED that Petitioner’s motion (#50) is GRANTED to the extent 
+that he shall file his motion for an evidentiary hearing at the same time but separately from the traverse. 
+Respondents shall file a response/opposition to the motion at the same time but separately from their 
+reply to the traverse. Petitioner shall have twenty (20) days in which to then file a reply in support of 
+the motion for an evidentiary hearing. 
+
+
+Dated this /4 / day of April 1998. 
+
+
+AL 
+United States District Judge 
+
+
+~~ DH WW 
+
+
+a 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF NEVADA ; 
+ANTONIO SLACK, 
+Petitioner, Case No. CV-N-95-194-DWH 
+vs. 
+E.K. McDANIEL, et al., 
+Respondents. 
+Petitioner Antonio Slack has filed a notice of appeal from the decision of this Court denying 
+
+
+DENIAL OF CERTIFICATE 
+OF PROBABLE CAUSE 
+
+
+mee mee ee ee ee ee See ee eee” 
+
+
+his petition for writ of habeas corpus. Pursuant to Rule 22(b) of the Federal Rules of Appellate 
+Procedure, the notice of appeal will also be considered as a request for the issuance of a certificate 
+of probable cause. The Court of Appeals may not issue its ruling until this court first determines 
+whether Slack has adequate grounds to pursue his appeal. Fed.R.App.P. 22(b); McCarthy v. Harper, 
+449 U.S. 1309 (1981); Christian v. Rhode, 41 F.3d 461, 470 (9th Cir. 1994). 
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+issues in a different manner, or that the questions he seeks to raise on appeal “are adequate to deserve 
+encouragement to proceed further.” Barefoot v. Estelle, 463 U.S. 880, 893 & n. 4 (1983). Since 
+
+
+oOo onan rn & WW NO = 
+
+
+ee ee 
+on OO AUlUchlUlUCUMNLLlLUC NU UCULClCUO 
+
+
+ra 
+
+
+@ oooi7g = 
+
+
+Slack’s appeal would not raise any substantial issue, his request for a certificate of probable cause will 
+
+
+be denied. 
+IT IS THEREFORE ORDERED that a certificate of probable cause is hereby DENIED. 
+
+
+Dated this _// day of May, 1998. 
+
+
+000186 
+
+
+FRANNY A. FORSMAN 
+Federal Public Defender Und 5. Soo 
+JOHN C. LAMBROSE nat TO 
+
+
+Assistant Federal Public Defender Yo -:- 
+330 South Third Street, Ste 700 eo 
+
+Las Vegas, NV 89101 gi 
+
+(702) 388-6577 i 
+
+
+Attorney for ANTONIO SLACK 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF NEVADA 
+
+
+* *« 
+
+
+ANTONIO SLACK, CV-N-95-194-DWH 
+
+
+Petitioner, 
+E.K. McDANIEL et al., NOTICE OF APPEAL 
+
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+Vv. ) 
+) 
+
+) 
+
+) 
+
+Respondents. ) 
+) 
+
+
+NOTICE is hereby given that Antonio Slack, hereby appeals 
+to the United States Court of Appeals for the Ninth Circuit from 
+the Judgment in a civil case dated March 31, 1998. 
+
+
+DATED this 28th day of April, 
+
+
+1998. 
+
+
+oOo ona ” +} WY NO = 
+
+
+BNO FRO IS See 
+RRReoBrSSGCeiAI AAaEBHHA S 
+
+
+- 
+
+
+000181 
+
+
+The undersigned hereby certifies that she is an employee 
+
+
+in the office of the Federal Public Defender and is a person of 
+
+
+uch age and discretion as to be competent to serve papers. 
+
+That on April 28, 1998, she served a copy of the attached 
+OTICE OF APPEAL by placing a copy in a self addressed envelope 
+ostage prepaid to the addressee below: | 
+ulie A. Slabaugh 
+
+
+eputy Attorney General 
+100 N. Carson Street 
+
+
+Antonio Slack 
+#31395 
+Ely State Prison 
+
+
+arson City, NV 89701-4717 PO Box 1989 
+Ely, NV 89301 
+D4 1 dihnaoe 
+PAMELA M. RAMAGE / VA 
+
+
+‘ . 
+
+
+- 00018z | 
+"U.S. DISTRICT COURT | | | 
+DI = 
+ENTER ; 
+
+
+-“* 
+
+
+undrep STATES DISTRICT COURT 
+
+
+1"ap . 
+4, 8 
+
+
+R05 DiSTRELCOURT 
+CLERK, U-s- pa 
+
+nes: SS 
+ay ee xX’ 
+
+
+ANTONIO A. SLACK, 
+
+
+arter 
+Miro 
+« 4 
+
+
+DISTRICT OF NEVADA -! 
+
+
+, S$ PUNY I 
+‘ 
+- 
+w~—-_ 
+
+
+XW 
+yun 
+| 
+
+
+NOS. 
+"2:8 1:9 
+Gi ii 
+
+
+Plaintiff, JUDGMENT IN A CIVIL CASE 
+
+
+Vv. 
+CASE NUMBER: CV-N-95-194-DWH 
+E.K. MCDANIEL, et al, et al., 
+
+
+Defendants. 
+
+
+__ Jury Verdict. This action came before the Court for a trial by 
+jury. The issues have been tried and the jury has rendered it's 
+verdict. 
+
+
+__ Decision by Court. This action came to trial or hearing before the 
+Court. The issues have been tried or heard and a decision has been 
+
+
+rendered. 
+
+
+XX Decision by Court. This action came to be considered before the 
+Court. The issues have been considered and a decision has been 
+rendered. 
+
+
+IT IS ORDERED AND ADJUDGED that respondents' motion to dismiss 
+(#67) is granted, and this action is dismissed without prejudice. 
+
+
+__LANCE S. WILSON 
+Date Clerk 
+
+
+° ¢ . ; (+. - be N 
+VV tyse VS ER RON 
+__Marti Campbell) ._-_ _ ; 
+(By) Deputy Clerk 
+
+
+000183 Y, 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF NEVADA 
+
+
+ANTONIO A. SLACK, ) 
+) 
+Petitioner, ) Case No. CV-N-95-194-DWH 
+) 
+vs. ) 
+) MEMORANDUM DECISION 
+E.K. McDANIEL, er ai., ) AND ORDER 
+) 
+Respondents . ) 
+
+
+Petitioner Antonio A. Slack has filed an amended petition for habeas relief pursuant to 28 
+U.S.C. § 2254 (#65). Respondents move to dismiss claiming several grounds are unexhausted and 
+abusive (#66). The Court ordered Slack to file points and authorities addressing whether he can 
+overcome the abuse of the writ bar that is applicable to grounds two, four(C), five, six and seven 
+(#72). Slack has filed a motion for reconsideration of the court order (#73). For the reasons set forth 
+below, the Court finds grounds two, four(C), five, six and seven are abusive and ground three is 
+unexhausted. Therefore the petition must be dismissed. 
+
+BACKGROUND 
+
+In February 1990, a jury found Slack guilty of second degree murder with use of a deadly 
+weapon. See #16, ex.12. Slack was sentenced to two consecutive life terms with the possibility of 
+parole. See #16, ex.13. Slack filed a direct appeal with the Nevada Supreme Court which was 
+dismissed. See #16, ex.22. 
+
+
+oO won an vn +} WW NH = 
+
+
+oO BRO 
+~- oOo Oo Oo nsN AB uu F&F WY NYE | OO 
+
+
+22 
+
+
+a P 
+
+
+000184 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+In 1995, Slack filed his second federal habeas petiiion with this Court (#4). After the Court 
+appointed counsel for Slack (#43), he filed an amended habeas petition (#64). In Slack’s amended 
+habeas petition he clams he is entitled to relief because: (1) insufficient evidence was adduced at trial 
+to support his conviction; (2) he had insufficient notice of his charges since he was charged with “open 
+murder” in an information which did not properly plead each element of first degree murder; (3) the 
+
+
+jury was prejudiced by evidence of sexual misconduct; (4) the trial court failed to properly instruct 
+
+
+Oo wont a vn & WwW NY = 
+
+
+NO BRO ESS 
+—- owennaiiuwn st YW NRK OC 
+
+
+22 
+
+
+nooiss @ 
+
+
+, 
+
+
+the jury'; (5) he was denied effective assistance of counsel’; (6) he was denied effective assistance of 
+appellate counsel’; and (7) cumulative error. 
+
+In their motion to dismiss, respondents argue grounds two, four(C), five, six and seven are 
+abusive. Respondents also argue grounds two, three, four (C), five (B-E), six and seven are 
+unexhausted. Slack was ordered to show cause and prejudice to overcome the abusive bar; however 
+he filed a motion for reconsideration which the court will deny. 
+
+ABUSE OF THE WRIT 
+
+A second petition may be dismissed for abuse of the writ if new grounds are alleged and the 
+failure to allege them in the previous petition was an abuse of the writ. See Farmer v. McDaniel, 98 
+F.3d 1548, 1555 (9th Cir.1996). The previous petition need not have been dismissed on the merits. 
+See id. at 1557. The instant petition therefore may be subject to dismissal for abuse of the writ. 
+
+In McCleskey v. Zant, 499 U.S. 467 (1991), the U.S. Supreme Court defined the respective 
+burdens of pleading abuse of the writ. The State met that burden here by noting Slack’s previous writ 
+history, identifying the grounds for relief that appear for the first time in the instant petition and 
+alleging that Slack abused the writ. See id. The burden now is on Slack to disprove abuse of the writ 
+
+
+by showing cause for failing to raise the new grounds for relief earlier and prejudice therefrom. See 
+
+
+id. Slack does not meet his burden. 
+
+
+' In ground four, Slack claims: (a) the reasonable doubt instruction was unconstitutional; (b) the premeditation 
+and deliberation instruction was unconstitutional; and the malice aforethought instruction was unconstitutional. 
+
+
+2 In ground five, Slack contends his trial counsel was ineffective when he: (a) failed to prevent the introduction 
+of highly prejudicial evidence; (b) failed to object to reasonable doubt jury instruction; (c) failed to object to premeditation 
+and deliberation jury instruction; (d) failed to object to malice aforethought jury instruction; and (¢) failed to investigate 
+the facts of case and develop available defenses. 
+
+
+3 In ground six, Slack argues he was denied effective assistance of appellate counsel when: (a) appellate counsel 
+failed to raise on direct appeal that Slack was denied his right the due process under the Fifth and Fourteenth Amendment 
+when charged with open murder in an information which did not properly plead elements of first degree murder and that 
+the malice aforethought instruction was unconstitutional; and (b) appellate counsel conceded two of the four issues raised 
+on direct appeal. 
+
+
+oO won A DA & WY NY = 
+
+
+no No §|§ §|- |e OO ESFlOOOUESESellOOOl El ESOS le 
+—- owewewnHawwnw & BW NY = CO 
+
+
+22 
+
+
+_- 
+
+
+000186 
+
+
+In reply to the court order instructing Slack to file points and authorities showing cause and 
+prejudice to overcome the abuse of the writ bar, he filed a motion for reconsideration (#73). First the 
+Court notes that Slack has incorrectly filed his motion for reconsideration pursuant to Fed.R.Civ.P.59. 
+Under this rule a party may move for a new trial or an amendment of a judgment. Since there has nox 
+been a trial and a judgment has not been entered in this case, Slack cannot bring a motion pursuant 
+to this rule. Additionally even if Slack could bring a motion under Fed.R.Civ.P.59, the motion must 
+be brought within ten days after the entry of judgment. See Fed.R.Civ.P. 59(e). Slack’s motion was 
+untimely since it was filed two days after the ten day period expired. Nevertheless, the Court wil] 
+address Slack’s arguments in his motion for reconsideration. ? 
+
+In his motion for reconsideration, Slack claims the State has not established the habeas petition 
+is abusive, the amended petition is not successive, and that the case is governed by the Antiterrorism 
+and Effective Death Penalty Act (AEDPA). As previously noted, the State has met its burden under 
+McClesky by specifying which grounds for relief in the amended habeas petition are abusive. Next, 
+the instant petition is Slack’s second petition and thus successive. The Ninth Circuit has held that a 
+judge may find a second petition is abusive when new grounds are alleged and a petitioner failed to 
+allege them in the previous petition, even if the previous petition was dismissed for failing to exhaust 
+state remedies. See Farmer, 98 F.3d at 1557. Lastly, Slack wrongly asserts the case is governed by 
+the AEDPA because it was commenced after April 26, 1996. First, the instant case was commenced 
+March 27, 1995. Second, the amendments to 28 U.S.C. §§ 2244(a) and 2255 resulting from the 
+AEDPA are not retroactive. See Lindh v. Murphy, --- U.S. ----, ----, 117 S.Ct. 2059, 2063 (1997). 
+Accordingly, the AEDPA is not applicable to this case. 
+
+Thus, since Slack has failed to demonstrate cause and prejudice to overcome the abuse of the 
+
+
+writ bar, the Court will dismiss grounds two, four(c), five, six and seven as abusive. 
+
+
+—_—- le —_ ee 
+
+
+Co ona us. WwW NR = 
+
+
+el ee ee 
+a | 
+
+
+bad 00018% 
+
+
+EXHAUSTION 
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+In ground three, Slack claims his Fourteenth and Fifth Amendment right to due process was 
+violated when the jury was prejudiced by evidence of sexual misconduct. Respondents contend the 
+claim is unexhausted because although Slack presented the facts of this claim to the Nevada Supreme 
+
+
+Court, he did not claim his Fourteenth and Fifth Amendment rights were violated. If a petitioner fails 
+
+
+to alert the state court to the fact that he is raising a federal constitutional claim, his federal claim is 
+unexhausted regardless of its similarity to the issues raised in state court. Duncan v. Henry, 513 U.S. 
+364, 366 (1995); Johnson v. Zenon, 88 F.3d 828, 830 (1996); see also Ybarra v. Sumner, 678 
+
+
+a ee ee ee ee 
+a € | 
+
+
+Oo ona vu s&s. WwW NO =~ 
+
+
+re 
+- S&S Oo ors Da rR F&F VY NY | O 
+
+
+22 
+
+
+000185 
+
+
+F.Supp. 1480, 1481 (D.Nev. 1988) (citing Picard, 404 U.S. at 276). In his opening brief to the 
+Nevada Supreme Court on direct appeal, Slack never argued his Fifth or Fourteenth Amendment right 
+to due process was violated when prejudicial evidence was presented to the jury. In his opening brief, 
+Slack relied only upon state law to support his claim. See #16, ex.20, pp. 15-18. Thus, the Court finds 
+ground three is unexhausted. 
+CONCLUSION 
+
+Since ground three of Slack’s third amended habeas petition is unexhausted, this action will 
+be dismissed to allow Slack the opportunity to present the unexhausted claim to the state court. If 
+Slack wishes to continue with this proceeding instead of returning to state court, he will need to re- 
+open this proceeding and abandon the unexhausted claim as described below. See Reutter v. Crande, 
+109 F.3d 575 (9th Cir. 1997). Alternatively, Slack may immediately commence a new federal action 
+in which this court could review the merits of the unexhausted claim because the new action would 
+be subject to the statutory changes effected by the Antiterrorism and Effective Death Penalty Act 
+(AEDPA)*; however, relief could not be granted based on any unexhausted claim. 
+
+Pursuant to the AEDPA, the dismissal of this action will trigger the commencement of the one 
+year statute of limitations period for Slack to return to federal court with a new action. 28 U.S.C. 
+§ 2244(d)(1). The time during which Slack’s post conviction proceeding is pending in state court will 
+not count toward the one year period. 28 U.S.C. § 2244(d)(2). Therefore, if Slack waits three 
+months after this dismissal to file a state post conviction petition, he will have only nine months from 
+the disposition of that state proceeding in which to commence a new federal proceeding. The failure 
+to timely commence a new federal proceeding will bar Slack from having the validity of his conviction 
+
+
+and/or sentence reviewed in federal court. 
+
+
+* Until recently, a federal court could not proceed with a mixed petition that contained both exhausted and 
+unexhausted claims for habeas corpus relief. Rose, 455 U.S. at 521-22; Szeto v. Rusen, 709 F.2d 1340, 1341 (9th Cir. 
+1983). However, in April 1996, Congress amended 28 U.S.C. § 2254 to give federal courts the authority to deny habeas 
+relief based on unexhausted grounds. Thus, now a federal court can address a mixed petition, but can only deny relief 
+regarding any unexhausted grounds. 
+
+
+: 
+: 
+
+
+wo ona vn & WwW WN = 
+
+
+—_— —_ —|—_ —_— —_— — 
+ao UN OU kFtlUC hlhmUCUMNUCYC“‘é‘CD] 
+
+
+900189 
+
+
+IT IS THEREFORE ORDERED that Slack’s motion for reconsideration (#73) is DENIED. 
+IT IS FURTHER ORDERED that grounds two, four(C), five, six and seven are DISMISSED 
+
+
+—— 
+
+
+with prejudice as abusive. 
+
+IT IS FURTHER ORDERED that respondents’ motion to dismiss (#67) is GRANTED, and 
+this action is DISMISSED without prejudice. If Slack wishes to abandon the unexhausted claim and 
+proceed with this action, he should file a motion to vacate the judgment and a declaration of 
+abandonment, signed by petitioner, of the above identified ground within thirty (30) days. The Clerk 
+shall enter judgment accordingly. 
+
+
+Dated this of March, 1998 
+
+
+ee 
+
+
+| : if «et No. af Finn ate Mat @ - | . : ‘ 4 
+ce gS hg Close xa «ee: 
+| : a _ 
+: 95 e 
+
+
+_ 0978 | 3 95 | 00194 | 03 | 27 '95 |3 530 | 7821 | 00194DWH 
+ae 28 U.S.C. 2254 - HABEAS CORPUS 90190 eave jem. | Antonio *. Slack PROCEEDINGS CV-N-95-194-DwH 
+LA MMLPREX OE KAN XK 27/95| 1 )or10N/IFP. olr 
+SLACK, ANTONIO TONTON MCDANIEL, E.K.; == -- | JS-5 (AT). olr 
+ATTORNEY GENERAL OF THE STATE 
+OF NEVADA, Frankie Sue 4/12/95; 2] ORDER(DWH): ORD Petnrs mtn/IFP is GRANTED on temp basis. Clk/crt 
+Del Papa shl send petnr IFP form/instructs. Petnr shl hv 45 dys to file 
+FIRST AMENDED PETITION, fld 10/8/96 #31 - Bil — Sahenren in ye ths ge FUR ORD petn shl be 
+/ ut no srvd untl petnrs fin stat is det fur. 
+SECOND AMENDED PETN/HC - 6/10/97 - #51 EOD 4/13/95 (AT). Cps dist. olr 
+THIRD AMENDED PETN/BC - 12/24/97 - #64 ; 7 
+/8/95 3 Xworr0x to procd IFP obo P. (AT) blg 
+/10/95 | --|SUB to DWH/rlo: Item #3. (AT) blg. 
+/30/95| 4 |PETITION for a writ of H/C obo P. 
+APPEAL FLD 4/29/98 (876 ) -— S |ORDER: (DWH) ORD tht the mtn for lv to procd IFP is granted. (furth 
+C/A# specs in Ord.) FUR ORD tht Clerk of Crt shl file the petn for a writ 
+of H/C & srv R(s) by cert/mail but the R(s), who shl answ sd petn 
+as directed in the ord being issd herewith. EOD/Cps. dist. 6/8/95 
+Z EXEMPT FRCP 16 (b) (AT) bm. 
+ATTORNEYS -- 6 |ORDER: (DWH) ORD P shl hv 20 dys frm the dte this ord is ent in wh to 
+IONER: , inform the crt of any & all adtnl clms for H/C rlf of wh P is aware. 
+FOR petro FOS _RESPORDENT : (furth specs in Ord.) FUR ORD tht if P files a stmnt of addtnl clms, 
+| #43 R(s) shl hv 20 dys frm the dte the stmnt is fld w/in wh to answ, or 
+| =o. ta — otherw plead to, the petn & the stmnt of addtl clms. (furth specs ih 
+Inmate #31395 ROBERT E. WIELAND Ord.) EOD/Cps. dist. 6/8/95. (AT) bm. 
+Ely Staf#e Prison “ 
+—» 4 x 1989 4 §/16/95 7? | MINUTE ORDER (DWH): ORD P's ltr rec'vd 6/1/95 shl be filed; in as much as it is a 
+Ely “NV 89301-1989 Attorney General's Office reqst to consolidat this actn w/prior actn (CV-N-91-561-HDM), it is denied (cps 
+Heroes Memorial Building dist) (AT) .csd (EOD 6/23/95) 
+1988 Came ¢) 
+. Street , 6/26/95 | 8 \MOTION for a 6,12 G 
+ppt of cnsl obo P. (AT) (m) mle / { 
+Carson Civ. NV 89710 ! 
+DEBORAH A. TREVINO, ESQ (798) 687-3529 7/5/95 9 | MOTION/ORDER (DWH): ORD P shl hv enlrgmnt of time to 7/31/95 to file his statmnt of 
+FEDERAL PUBLIC DEFENDER (#43) addt'l clms (cps dist) (AT).csd 
+330 South Third St. 
+#700 JULIE A. SLABAUCH 7/10/95 | 10 | OPPOSITION to mtn for appt of cnsl (8) obo Respndts. (m) (AT) mlc 
+Las Vegas, NV. 89101 Julie A. Slabaugh, Esq. . 
+(702) 388-6577 Deputy Attorney General 7/12/95 | 11 | STATEMENT of add'l claims obo petnr (6,9). (m) (AT) mic 
+100 North Carson Street 
+Carson City, NV. 89701-4717 7/19/95 |12 | REPLY in supprt of P's mtn for appointmnt of cnsl (#8) obo P (m)(AT).csd 
+(702) 687-3529 
+B[tla@s | --| sus bt OWH? Stn HL i. CAT 
+1/8/95 13 | MOTION/ORDER (DWH): ORD Rs grntd enlrgmnt of time to 9/15/95 to file/srv respons to 
+7 FILING FEES PAID ata ae P's petn for writ of H/C (#4) (cps dist) (AT).csd 
+if CASE WAS DATE RECEIPT NUMBER C.0. NUMBER Fung 
+a iN Irp Canmasies 8/23/95 | 14] MINUTE/ORDER: (DWH) ORD Ps mtn (#8) for apt of cnsl stayed & sh be resub by Clk 
+PAUPERIS Crange along w/resp to petitn wh the latter is ripe for decisn. Cps.Dist. (AT) blg. 
+— | *mld-8/29/95. 
+UNITED STATES DISTRICT COURT DOCKET OC 1119S (Rev. 7/85) oe 
+CONT'D TO PG. 2 
+
+
+a 
+
+
+& 
+
+
+OC 11LlA 
+(Rev. 1/75) 000192 
+CiViIL. DOCKET CONTINUATION SHEET 
+PLAINTIFF OEFENODANT 
+
+
+ANTONIO T. SLACK 
+
+
+CV-N-95~-194-DWH 
+OOCKETNO 
+
+
+DIRECTUR, NDOP, ET. AL. PAGE 2. oF PAGES 
+DATE NR. PROCEEDINGS 
+9/15/95 15 orion to dism petn for writ of H/C obo Rs (m)(AT).csd PET 3y 
+--- 16 | INDEX OF EXHIBITS in supprt of Rs’ mtn to dism petn for writ of H/C (#15) obo Rs 
+(m) (AT) .csd (lecated in separate folder due to size) 
+--- 1? | LETTER addr to clk/ct frm P re stat of case (AT).csd 
+Gri BeaS SUBD-TO-DWH+4+++—-e9¢4 
+9/25/95 -- Ls TO DWH: Item #15, 16. (AT) bm + #4E 10,12. 
+2/29/96 18 ORDER (DWH): ORD tht P shl hv 20 dys frm date of this order w/in which to file 
+pts & auth in oppo to mtn to dism (#15). Rs shl hv 10 dys to file reply. 
+If P fails to resp to this order, mtn will be granted. FUR ORD tht Ps mtn 
+for apptmt of cnsl (#8) is denied. (See order for fur specs) (EOD/cps dist 
+3/4/96) (AT) rd , 
+3/27/96 -- SUB TO DWH: Item #6, 1l, 15, 16. (AT) bm 
+4/8/96 | 19 |MOTION for enlrgmnt of tm obo P (m) (AT).rm 
+--- 20 |MINUTE ORDER (DWH): ORD P shl hv to 4/19/96 to file oppo to mtn to 
+dism (#15); flr to file oppo by tht dt shl be deemed consent to 
+granting of mtn (cps dist) (AT) .rm 
+<= 21 |OPPOSITION to mtn to dismiss (#15) obo P. (.a) (AT) .rm 
+4/17/96| 22 |REPLY in supprt of mtn to dism petn for writ of H/C (#15) obo Rs. (m) (AT) bm 
+4/23/96) -- SUB TO DWH: Item #15, 16, 21, 22. (AT) bm 
+memes 2+ \MOTION for deflt obo P. (m) (AT) 1g@) 
+04/25/94 24 | RESPONSE to mtn for ruling of deflt (#23) obo Rs (m) (AT) lg 
+5/8/96 25 | REPLY to rsponse to mtn for deflt (#23) obo P. bm. 
+5/9/96 -- | SUB TO DWH: Item #23, 24, 25. (AT) bm 
+05/15/96| 26 |MINUTE/ORDER: (DWH) ORD Ps mtn for deflt (#23) denied. Rs not requrd to file ans 
+until mtn to dism (#15) decided. CpsDist. (AT) lg *mld-05/16/96 
+8/13/96 | 27 |MEMORANDUM/DECISION/ORDER: (DWH) ORD Rs' mtn to dism (#15) is granted to the extent 
+tht P shl hv 30 dys in wh to file an am petn clarifying the grnds discussed 
+herein. The Clrk shl prov P w/a cpy of the Crt's petn for writ of H/C form & 
+insts thereto. EOD/Cps. dist. 8/16/96 (AT) bm 
+8/26/96 | ~3 ON for enlrgmnt of tm t 13/96 in wh to file & srv his am petn for writ off 
+H/C obo P. (m) (AT) bm . 
+8/27/96 | -- ~ TO DWH: Item #28. (AT) B 3 
+
+
+000193 
+
+
+(Rev. 1/75) 
+CIVIL DOCKET CONTINUATION SHEET 
+—— Saw CV-N-95-194-DWH 
+DOCKET NO 
+ANTONIO T. SLACK DIRECTOR, NDOP, et al., 
+PaGe 3 oF PAGES 
+DATE NR. PROCEEDINGS 
+8/29/96| 29 |MINUTE ORDER: (DWH) ORD P has moved (#28) for an enlgmnt of tm in wh to comply 
+with the Crt's pr ord (#27). P's mtn (#28) is granted to the extent tht he wil 
+hv to & incldng 10/21/96 in wh to file an am petn. Cps. dist. 8/30/96 (AT) bm 
+10/8/96 on to procd IFP obo P. bm 
+-- 31 |FIRST AMENDED PETITION for a Writ of H/C obo P. 
+11/22/96 -- |SUB TO DWH: Item #30, 31. (AT) bm 
+11/25/96} 32 |MINUTE/ORDER: (DWH) ORD app to proced IFP (#30) denied,moot, IFP grantd @ #5. 
+CpsDst (AT) lg. *mld-12/02/96 
+12/02/96} -- | SUB TO DWH/RLO: Item #31. (AT) lg 
+12/5/96 | 33 |MINUTE ORDER: (DWH) ORD tht the Clrk shl send to R(s) a cpy of P's am petn for 
+writ of H/C #31. Rs shl hv 30 dys in wh to answ or rspond. EOD/Cps. dist. 
+12/6/96 (AT) bm 
+12/27/9@ 34 | NOTICE tht Deputy AG Julie A. Slabaugh has assuemd responsib for rep the int 
+of the named R(s) obo Rs. (m) (AT) bm 
+12/31/96} 35 [Joorton for appnt of cnsl obo P. (m) (AT) 3 7 UY S~ 
+Ks , 
+1/6/97 36 Syr0n for enlrgmnt of tm til 2/21/97 wh to file & srv rsponse to P's am petn 
+Z for writ of H/C obo Rs. (m) (AT) 
+1/8/97 -- SUB TO DWH: Item #36. (AT) bm 
+1/10/97 | 37 |OPPOSITION to mtn for appnt of cnsl (#35) obo Rs. (m) (AT) bm 
+-- 38 horton for jdgmnt on the pleadings obo P. (m) (AT) bm A 4 
+1/13/97 | 39 |MINUTE ORDER: (DWH) ORD Rs’ mtn for enlrgmnt of tm (#36) is granted. Rs shi hv 
+to & incldng 2/21/97, in wh to file & srv their rsponse to P's am petn. 
+Cps. dist. 1/14/97 (AT) bm 
+1/21/97 | 40 OPPOSITION to mtn for enlrgmnt of tm (#36) obo P. [Moot per #39) 
+= 41 OPPOSITION to mtn for jdgmnt on the pleadings (#38) obo Rs. (m) (AT) 
+02/05/97 | -= |SUB TO DWH: Item #35 (AT) mlc 
+
+
+| | 
+
+
+(See Page 4) 
+
+
+. 
+a ©& 
+
+
+_ 
+
+
+oc lly 
+
+
+cr 
+
+
+® 0014 & 
+
+
+000195 
+
+
+(Rev. 1/75) 
+CIVIL DOCKET CONTINUATION SHEET 
+PLAINTIFF ODEFENOANT CV-N-95-194-DWH 
+DOCKET NO 
+SLACK NDOP et al pace 4 of PAGES 
+DATE | NR 4 PROCEEDINGS 
+02/10/97 | 42 YMOTION for exttime (until 3/7/97) to resp to amd petn H/C obo respondts (31). 
+| (m) (AT) mle (43) 
+02/11/97 | -- SUB TO DWH: Item #42 (AT) mlc 
+102/13/97 43 | ORDER appointing counsel (DWH) ORD petn's mtn for appt of cnsl (35) to the 
+| extent the FPD for the District of NV is appt to represent petnr; Clk 
+shall send a copy of the petn H/C (31) to the FPD; cnsl for petnr shall 
+| file an amd petn H/C within 45 days or a ntc to the crt indicating his/her 
+intent to proceed with the current amd petn (31); respondnts' mtn for 
+| exttime (42) is denied as moot; petnr's mtn for jgm on the pldgs (38) 
+| is denied. (copies dist) (AT) mlc EOD 2/14/97 
+02/13/97 | 44 )AMOTION to strike first amd petn (31) .. and .. 
+MOTION to file an second amd petn H/C obo petnr. (m) (AT) mlc 
+| | (45) (48) 
+02/14/97 45 | OPPOSITION to mtn to strike first amd petn and mtn to file a second amd 
+| petn (44) obo respondts. (m) (AT) mlc 
+02/24/97) 46 | NOTICE of representation of petnr (Deborah Trevino, Esq.) (m) (AT) mlc 
+j i 
+03/11/97| -- | SUB TO DWH: Items 43,44 (AT) mlc 
+| | 
+03/12/97, -- LETTER from petnr re: order #43 appt of cnsl. mlc 
+03/28/97 47 }« UNOPPOSED MOTION for exttime for petnr to file an amd petn obo petnr. 
+(m) (AT) mle (48) 
+03/28/97 | -- SUB TO DWH: Item #47 (AT) mlc 
+04/01/97 48 MINUTE ORDER (DWH) ORD petnr's unopposed mtn for exttime (47) is granted; 
+petnr shall have until 5/30/97 to file the amd petn; petnr's mtn to strike 
+(44) is denied as moot (see #43); Clk shall make a copy of the letter rec'd 
+3/12/97 from petnr and send a copy to cnsl for petnr. 
+| (copies dist) (AT) mlc EOD 4/2/97 
+05/27/97| 49 | UNOPPOSED MOTION for exttime to file amd petn H/C (until 6/10) obo petnr. 
+(m) (AT) mle (50) 
+05/28/97| -- SUB TO DWH: Item #49 (AT) mlc 
+ae 50 MINUTE ORDER (DWH) Petnr's unopposed mtn for exttime (49) is granted; petnr 
+shall have until 6/10/97 to file an amd petn. (copies dist) (AT) mlc EOD 
+5/29/97 
+(See Page 5) 
+
+
+oc 1 
+(Rev. 1/73 CV-N-95-194-DwH 
+CIVIL DOCKET CONTINUATION SHEET 
+PLAINTIFF DEFENDANT 
+DOCKET NO 
+SLACK DIRECTOR, NDOP et al 5 
+PAGE ? oF PAGES 
+DATE NR. PROCEEDINGS 
+06/10/97) 51 SECOND AMENDED PETN/HC obo petnr. (50) (m) (AT) mlc 
+06/11/97) -- SUB TO DWH: Item #51 (AT) mlc 
+06/13/97)| 52 INDEX of exhibits in support of first amd petn writ H/C (31) obo petnr. 
+(m) (AT) mlc 
+06/16/97) 53 MINUTE ORDER (DWH) ORD respondnts shall have 30 days to ans/resp to the 
+second amd petn (51). (copies dist) (AT) mlc EOD 6/17/97 
+lo7/03/97 54 /|%MOTION for more definite stmt obo respondnts. (m) (AT) mle (56)(57)(58X60) 
+(61) (63) 
+07/21/97) 55 CLIENT verification of amd petn H/C (51) obo petnr. (m) mlc 
+07/21/97 | 56 ,{ UNOPPOSED MOTION for exttime to file an answer to mtn for more definite 
+stmt (54) obo petnr. (m) (AT) mlc (until 8/4) (57) 
+07/23/97 | -- SUB TO DWH:Item #56 (AT) mlc 
+07/24/97 | 57 MINUTE ORDER (DWH) ORD petnr's uropposed mtn for exttime (56) is granted; 
+petnr shall have until 8/4/97 to respond to the mtn for more definite stmt 
+(54) (copies dist) (AT) mle EOD 7/24/97 
+D8/04/97 | 58 YX UNOPPOSED MOTION for exttime to file answer to mtn for more definite stmt 
+(54) obo petnr. (m) (AT) mle (59) 
+08/04/97 | -- SUB TO DWH: Item #58 (AT) mlc 
+08/07/97) 59 MINUTE ORDER (DWH) ORD petnr's unopposed mtn for exttime (58) to file a 
+| resp to the mtn for more definite stmt (54) is granted; petnr shall have 
+until 8/18/97 to file his resp. (copies dist) (AT) mlc EOD 8/7/97 
+porueres 60 # RESPONSE to mtn for more definite stmt... and... 
+‘} REQUEST to file fourth amd petn obo petnr. (m)(AT) mle (54) (61) (63) 
+(Attachment struck/returend #63) 
+08/28/97 | 61 REPLY to response to mtn for more definite stmt and request to file fourth 
+amd petn (54,60) obo respondnts. (m) (AT) ‘mlc 
+08/29/97| -— |SUB TO DWH: Item #54,60 (AT) mlc 
+(See Page 6) 
+
+
+OC 1a. 
+
+
+‘ 000196 
+8 
+
+
+OC 111A 
+
+
+000197 
+
+
+(Rev. 1/75) *~ CV-N-95-194-DWH 
+CIVIL DOCKET CONTINUATION SHEET 
+PLAIN@IFF= DEFENDANT 
+DOCKET NO 
+SLACK DIRECTOR, NDOP PAGE 6 or PAGES 
+i ; 
+DATE | NR PROCEEDINGS 
+
+
+09/26/97| 62 
+
+
+12/03/97 63 
+
+
+12/24/97 64 
+
+
+-- 65. 
+
+
+12/31/97) -- 
+
+
+| 
+(01/15/98 
+
+
+91/29/98 | 67 
+
+
+02/17/98 | 68 / 
+
+
+02/18/98 | -- 
+
+
+02/19/98 | 69 
+
+
+\ 
+} 
+
+
+| 
+02/24/98 70 
+
+
+03/06/98 | 71 
+
+
+D3/10/98 | 72 
+
+
+3/26/98 | 73 
+
+
+, REPLY to oppo to mtn to dismiss petn writ H/C (67,70) obo respondents. 
+
+
+| NOTICE of addr change obo respondents. (m) amlc 
+
+
+MINUTE ORDER (DWH) ORD respondts' mtn for more definite stmt (54) is granted; 
+petnr shall have 20 days to file an amd petn; ORD petnr's mtn for leave 
+to file a fourth amd petn (60) is denied; Clk shall strike the attached 
+petn and return it to petnr's cnsl. (copies dist) (AT) mlc EOD 12/4/97 
+THIRD :; 
+|SBGGeR AMENDED PETITION obo P. (m) (AT) blg. 
+
+
+ADDITIONAL/RESPONSE to renewed mtn for more definite stmnt (#54) 
+QUEST for lv to file 2nd am petn (#64) obo P. (m) (AT) blg. 6) 
+
+
+\ 
+
+
+SUB to DWH: Item #64, & 65. (AT) blg. 
+
+
+(65,64) which is erroneously titled second amd petn; the mtn for leave (65) 
+is granted; ORD petnr's mtn for leave (65) is granted; respondents shall 
+have 30 days to file an ans/response to the third amd petn. (64). 
+
+(copies dist) (AT) 
+
+
+mle EOD 1/15/98 
+
+
+66 — ORDER (DWH) petnr has filed a mtn for leave to file a Third Amd Petn 
+| 
+| 
+
+
+/. MOTION to dismiss third amd petn/HC (64) obo respondnts. (m) (AT) mle (68,69) 
+
+
+(70)(71) (74,75) 
+
+
+MOTION for exttime (2/24/98) to file resp/oppo to mtn to dismiss (67) obo 
+petnr. (m) (AT) mlc 
+
+
+SUB TO DWH: Item #68 (AT) mlc 
+
+
+MINUTE ORDER (DWH) ORD petnr's mtn for exttime (68) is granted; petnr shall 
+have until 2/24/98 to file a resp/oppo to mtn to dismiss. (67) 
+(copies dist) (AT) mlc EOD 2/19/98 
+
+
+OPPOSITION to mtn to dismiss petn writ H/C (67) obo petnr. (m) (AT )mlc 
+
+
+(m) 
+(AT) mlc . 
+
+
+MEMORANDUM/DECISION/ORDER (DWH) ORD petnr shall have 15 days to file points 
+and authorities addressing whether he can overcome the abuse of the writ bar 
+that is applicable to grounds two, four(C),five,six, and seven of the petn 
+H/C (64); no exttimes will be granted. (copies dist) (AT) mlc EOD 3/11/98 
+
+
+worton fst reconsdrtn of memo decisn & ord (#72) obo P. (m) (AT) blg. 
+
+
+(See Page 7) 
+
+
+(Rev. 1/75) 
+CIVIL DOCKET CONTINUATION SHEET CV-N-95-194-DWH 
+PLAINTIFF OEFENDANT 
+DOCKET NO 
+SLACK DIRECTOR, NDOP et al 7 
+PAGE ___OF PAGES 
+DATE NR. PROCEEDINGS 
+03/30/98| -- | SUB TO DWH: Item #67,73 (AT) mlc 
+03/30/98| 74 | MEMORANDUM/DECISION/ORDER (DWH) ORD petnr's mtn for reconsid (73) is denied; 
+Grounds two, four (C), five, six, and seven are dismissed with prej as 
+abusive; respondents’ mtn to dismiss (67) is granted and this actn is 
+dism without prej; should petnr wish to abandon the unexhausted claim and 
+proceed with this actn; he should file a mtn to vacate the jgm and a declara- 
+tion of abondonment, of the above identified ground within 30 days; Clk shall 
+enter jgm. (copies dist) (AT) mlc EOD 3/31/98 
+03/31/98] 75 | JUDGMENT (LSW/mlc) ORD respondents’ mtn to dismiss (67) is granted and this 
+actn is dismissed without prej. (copies dist) (AT) mlc EOD 3/31/98 
+-- |JS-6 (AT) milc 
+04/29/98| 76 | NOTICE OF APPEAL of order/jgm of 3/30/98 and 3/31/98 (74,75) obo petnr. 
+(m) (AT) mlc 
+04/29/98| -- |SUB TO DWH: Item #76 (for COA order).(AT) mlc 
+5/11/98 ie Ioecdna for Certificate of Probable Cause obo P. (m) (AT) blg. (78) 
+5/12/98 | -- |SUB to DWH: Item #77. (AT) blg. 
+D5/12/98 | 78 |ORDER (DWH) ORD the cert of probable cause is denied. 
+(copies dist) (AT) mlc EOD 5/19/98 
+D5/18/98 | 79 [TRANSMITTAL LETTER/CERTIFICATE OF RECORD sent to USCA forwarding certified 
+copies of ntc of appeal, order/jgm, and order denying CPC with docket 
+entries. (copies dist) (AT) mlc EOD 5/19/98 
+-- |COMPLETE file sent to USCA. mlc 
+
+
+000196 
+
+
+98 FEDERAL REPORTER, 
+
+
+SERIES 
+
+
+petition are “new and different” under rule 
+Robert Jeffrey FARMER, governing dismissal of successive petitions, 
+
+
+Petitioner—Appellee, abuse of writ analysis is not foreclosed as 
+
+
+matter of law solely because prior petitions 
+™ have not been reviewed on merits; rather, 
+E.K. McDANIEL;* Attorney General o this should simply be important factor that 
+the State of Nevada, Respondents informs district court’s discretion in applying 
+Appellants. abuse of the writ doctrine. Rules Governing 
+2254 Cases, Rule 9b), 28 U.S.C.A. fol 
+
+9 2254 
+
+
+No. 95-99016 
+
+
+United States Court of Appeals 
+Ninth Circuit 3. Habeas Corpus 814 
+Order dismissing third amended habeas 
+Argued and Submitted April 18, 1996 corpus petition without prejudice for petition- 
+Decided Oct. 29, 1996 er’s failure to exhaust state avenues of relief 
+was final order that could be appealed by 
+
+State 
+
+After defendant’s first-degree murder 
+conviction was upheld on direct appeal, 101 
+Nev. 419, 705 P.2d 149, defendant petitioned 
+for habeas relief. The United States District petition without prejudice, to permit petition 
+
+
+Court for the District of Nevada, Lloyd D. er to exhaust state remedies, did not dismiss 
+
+
+4. Habeas Corpus 899 
+
+
+Order dismissing third amended habeas 
+
+
+George, Chief Judge, dismissed petition with- only the petition, where by its terms, order 
+out prejudice, and state appealed. The and judgment dismissed action, and each of 
+Court of Appeals, Rymer, Circuit Judge, held _petitioner’s three federal habeas petitions 
+that: (1) state had standing to appeal, and (2) launched new action, with new number 
+
+amended third habeas corpus petition filed 
+
+
+; 5. Habeas Corpus 898(1) 
+by state prisoner could be dismissed for rp 
+
+
+Presentation of unexhausted claims in 
+amended third habeas petition did not re 
+quire dismissal of entire petition as abuse of 
+
+
+abuse of the writ even though prior petitions 
+were dismissed for failure to exhaust and 
+
+
+were thus not reviewed on the merits 
+
+E i i and led writ. Rules Governing § 2254 Cases, Rule 9, 
+ve 2g; Vacs da and remandet a , 
+
+reversed; vacate nen on 6 oe 
+
+
+Schroeder, Circuit Judge, filed opinion : 
+6. Habeas Corpus © 898(1) 
+
+
+Habeas corpus rule governing dismissal 
+of successive petitions permits district courts 
+
+
+concurring in part and dissenting in part 
+
+
+1. Habeas Corpus 815 to dismiss second or successive petition if 
+State had standing to appeal from order new and different grounds are alleged and 
+dismissing amended third habeas petition judge finds failure of petitioner to assert 
+without prejudice; as practical matter, dis- those grounds in prior petition, whether or 
+missal of petition put end to action in district not result on the merits, was abusive. Rules 
+court and state did not gain dismissal with Governing § 2254 Cases, Rule %b), 2 
+prejudice of claims asserted for abuse of U.S.C.A. foll. § 22: 
+writ, although state prevailed to extent that 
+
+
+7. Habeas Corpus €°898(1) 
+petitioner was required to exhaust claims ' Corpu ’ 
+
+
+Amended third habeas corpus petition 
+filed by state prisoner could be dismissed for 
+2. Habeas Corpus 898(1) abuse of the writ even though prior petitions 
+
+When state alleges that grounds for ha- were dismissed for failure to exhaust and 
+beas relief alleged in second or subsequent were thus not reviewed on the merits; dis- 
+
+
+that state contended were unexhausted. 
+
+
+* EK. McDaniel, the current warden of the Nevada in accordance with Fed.R.Civ.Proc. 25(d\1), and 
+State Prison that has custody of Robert Jeffrey pursuant to Federal Rule of Appellate Procedure 
+
+
+Farmer, has been substituted for Ron Angelone, 43(cX1) 
+
+
+Cite as OR F Ad 
+
+Irt Wa not preciuded as matter 
+
+iw irom onsidering whether petitioner 
+hauling to allege vround In pmo? 
+
+
+PEUUONS thal ne alleged third time ur 
+
+
+8. Habeas Corpus 8938/1) 
+
+
+District court is not precluded as matter 
+
+
+, 
+; it ty) . \ " —) 
+
+4 law from considering whether habeas peti 
+tioner has abused the writ by alleging in 
+
+r wien < } 
+
+ubsequent federal habeas petition new and 
+1ifferent ox » & ] 
+
+auterent grounds from those alleyed in prior 
+
+
+nabeas petition, whether or not that prior 
+
+
+petition was determined on the merits 
+? 7 . Hor , 
+Rules Governing § 2254 Cases. Rule 9b). 28 
+
+
+U.S.C.A. foll. § 2254 
+
+
+¥. Habeas Corpus 8928/1) 
+
+
+Claims that were presented in state 
+oner’s initial and second federal habeas peti 
+as | ] 
+
+tions Dul were not determined on the ments 
+
+
+, 
+
+
+nec : > ww + e : } 
+pecuuse the y were unexhausted were outside 
+
+
+scope of rule governing dismissal of succes 
+
+
+ve petitions for abuse of the wrt Rule 
+Governing } 2254 Case Rule Ob rQ 
+
+
+U.S.C.A. foll. § 2254 
+
+
+R bert E Wieland. Deputy Attorney Gen 
+
+
+erai, Carson City NY for respondents ap 
+
+
+Michael Pescetta, Assistant Fede Publ 
+Defender, Lus Vegas, NV, for petitioner-ap 
+
+
+ellee 
+
+
+Appeal from the United States District 
+‘ourt for the District of Nevada. Llovd D 
+seorge, District Judge. Presiding D.C N 
+/V-S-93-0434—LDG 
+
+
+Before: SCHROEDER, RYMER and 
+\LEINFELD. Circuit Judges 
+
+
+We decide this question entirely under the law 
+is it existed prior to enactment of the “‘Antiter 
+rorism and Effective Deuth Penalty Act of 1996 
+Pub.L. No. 104-132, 110 Stat. 1214 ( April 24 
+1996). Although § 107. to be codified in part at 
+£3 U.S.C. § 2266(c), by its terms makes the Act's 
+
+
+Bont aw LS Ne AL A et a Alt Me te Atay ai 
+
+
+V0019% 
+
+
+MeDANIEL 
+
+
+1544 (9th Cir 1996 
+
+
+| Vit ( 
+: I v 4 i I Ai Ju rf 
+“y 
+b ' 
+| ¢ ecjulre ] nsier a 
+hit , ; 
+] i juestior vnether an an 
+thir’) hal 
+: . T 
+I l rpu petitior 1 pris r 
+tate rn 
+’ r 
+a\ ¢ inject to if ] 
+} 
+‘ | vrit « er trie rr 
+I } prior petit 
+were <c 
+I i ed Or diiure f ex t 
+ul 
+r 
+r) Pr f 
+V re ewer n tne me t T} 
+frer , 
+adi ( rv al ryt f 
+houg ‘ t ¢ tet 
+4\ t 
+\ a 
+\N ida Wa the opportunit j 
+| round iryue f 
+Robert Jeffrey Farmer 
+rey Farmer has filed a serie 
+netit 
+ne ions With ne i | 
+} i tl vi ney r 
+I lew, unexnausted clain 
+
+
+avoid (and jelay for more than even vé 
+
+
+a review f } rm 
+i@\y I 11S “Ts >r) » : ‘ : 
+: l ntence and conviction 
+f 
+feder: fa — Ts . o 1 . 
+sCiad OU it Na timely appealed i 
+ment d no 
+. irmer mended thurd r 
+? ’ 
+ALIOT Dursuant to Hose / indy j t 
+ul ~) 
+iV } ) ‘ 
+04 iv) ~ ("+ 11¢ - 
+: | N - . ) 
+Lid il | Ed gd 379 (1982 
+[ »)] ‘ 
+i r = 
+i] “j 4 f ugh I armer ipmit that d 
+| 
+rT ‘ fF hi ' 
+ai Ul fis umended third Netitior unt 
+I won 
+
+
+reiudice ic r 5 nh } 
+prejudice is not a final, appealable order. and 
+
+
++} tf the , le 
+Nat tne tate lacks standing t 
+
+
+tik LO appeal [ron 
+
+
+Wet 
+ution put an end to this action in the distr 
+court and, despite prevailing to the exter 
+
+, L - 
+
+that Farmer is required to exhaust Claur 
+that the state contends were unexnaustec 
+“si 
+
+‘Nevada did not get all that it wanted—dj 
+missai with prejudice of claims asserted f. 
+
+
+abuse of the writ—but instead faces the pri 
+
+
+c , 
+
+pect yf further litigation In these c iim : 
+
+oe —— . 
+duferent forum. For this reasor the Star 
+se : ‘ Vwi Le’ 
+has standing to appeal from that part of the 
+order that is unfavorable to it. Having juris 
+
+
+het) we - J ’ 
+diction We conclude that when the state a 
+
+
+legee th “ : 
+eges that the grounds for relief alleged in 
+
+
+4 a 
+second or subsequent petition are “new and 
+Gulerent under Rule %b) of the Feder 
+
+i I ePUueriu 
+Habeas ( Orpus Rules, abuse of the wnt anal 
+
+
+ysis IS not foreclosed as a matter of law 
+ere oe i { i 
+solely DeCause prior petitions have not beer 
+reviewed on the merits. Rather. this should 
+unply be an unportant factor that informs 
+he district court's discretion in applying the 
+abuse of the writ doctrine. We therefore 
+vacate the district court's judgment and re 
+Spectral Habeas Corpus rules applicable to all 
+capital cases pending on the date of enactment 
+if other conditions are also met) no one has 
+«cl ’ . 
+suggested that the conditions are met and th 
+the Act in fact applies to this appeal 
+
+
+ral 
+
+
+1549 
+
+
+re Vy wee sans cs 
+° —— 2 / e-em - ae 
+
+
+rf 
+
+
+ob: 
+
+
+VEE 
+
+
+nee 
+
+
+ir? 
+
+
+000200 
+
+
+98 FEDERAL REPORTE 
+
+
+1550 
+
+mand for it to consider whether any of the 
+grounds alleged in the amended petition are 
+“new and different” from those grounds al 
+leged in Farmer's second petition and, if so, 
+whether Farmer's failure to assert those 
+grounds in his prior (second) petition was an 
+
+
+abuse of the wnt 
+
+
+I 
+
+
+Farmer murdered a man the night of Jan 
+uary 18-19, 1982. On March 26, 1984, he 
+pleaded guilty to murder in the first degree 
+and was sentenced to death. The Nevada 
+Supreme Court affirmed his conviction and 
+sentence August 27, 1985, Farmer v. State of 
+101 Nev. 419, 705 P.2d 149 (1985), 
+and the United States Supreme Court denied 
+
+
+Nevada, 
+
+
+his petition for certiorari, Farmer v. Nevada, 
+476 U.S. 1130, 106 S.Ct. 1999, 90 L.Ed.2d 679 
+(1986) 
+
+1986, Farmer filed a 
+petition for a writ of habeas corpus in the 
+
+
+On September 16, 
+
+
+state trial court and a week later, filed his 
+first petition for a writ of habeas corpus 
+pursuant to 28 U.S.C. § 2254 
+court. The federal petition, filed with 
+the assistance of counsel, sought a stay of 
+
+
+in federal dis- 
+
+
+trict 
+
+
+execution, which the district court entered 
+The petition also, however, alleged different 
+grounds for relief from those being pursued 
+in state court, which prompted the district 
+court to that his failure to 
+assert grounds known to him in his federal 
+the 
+
+
+warn Farmer 
+
+
+petition may bar assertion of such 
+grounds in a future federal petition as an 
+the writ. As a result, 
+moved to dismiss the petition without preju- 
+
+
+The district court so ordered February 
+
+
+abuse of Farmer 
+
+
+dice 
+6, 1987, to permit Farmer to exhaust state 
+remedies. Although the court also vacated 
+
+
+the stay of execution, it appears that no new 
+
+2. The district court's November 4, 1986 minute 
+
+order states 
+It appears that petitioner is pursuing post 
+conviction relief in the State court on grounds 
+not addressed in the 2254 petition filed in this 
+Court. The Court notes that if petitioner goes 
+forward in this manner, he may be waiving his 
+right to seek federal habeas relief in the future 
+with regard to those issues which are being 
+pursued in the State court and which are not 
+included in the petition before this Court. The 
+failure of petitioner to assert grounds known to 
+him in a petition may bar the assertion of such 
+
+
+, od SERIES 
+
+
+date was set while state habeas proceedings 
+
+
+were pending 
+
+
+The Nevada Supreme Court ultimately re 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+109 S.Ct. 1331, 103 L.Ed.2d 599 (1989). 
+
+
+Farmer filed his second federal habeas 
+petition April 7, 1989. The district court 
+stayed Farmer’s rescheduled execution date 
+of May 2, 1989; 
+represent him in the federal proceedings; 
+
+
+appointed new counsel to 
+
+
+and again cautioned Farmer that if he “fails 
+to include all possible grounds for relief, he 
+may later be precluded from raising the pre- 
+viously omitted grounds because the omission 
+considered an abuse of the writ” 
+under Rule 9b). On July 13, 1989, Farmer 
+moved to dismiss his second petition without 
+
+
+may be 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+remedies 
+
+
+dismissal claims 
+
+
+either were not constitutional 
+
+
+However, the court 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+writ 
+
+
+od 
+
+
+5 PEN A, 
+
+
+ve? 
+
+
+> 
+
+
+i~— 
+
+
+: 
+
+
+a) SISA SGD 
+
+
+ts orders dismissing Farmer 
+
+
+wn 
+
+
+inexNausted claims msks dismissal! of subsequent 
+
+
+sarhrints Apter 
+
+
+- 
+The order further provided : 
+amended third petition 
+
+
+0002 
+
+
+>) #& FEDERAL REPO! 
+
+
+¢ : . : . 
+i | ‘ [ 
+
+‘ arTTie iv’ eT | De ait 
+ron ta i lé : : er 
+nat iL aoe Pex Te eP\™~ | : roer nce 
+hye tr ; wt ¢ red igmer ; : 
+
+ng the actior he tate w e its rigt 
+
+have ¢ etitior ‘ ‘ ink wie r 
+
+er { ippea and ne act : fT t 
+re irt roer to grant armer a sta | 
+
+eter nate iengtl r armer ntenas tnat 
+
+" , : } 
+eval c ‘ 20a cK 4 “ ce . 
+ler t Pe K t appeal grante Us WT 
+
+, “ ri; : 
+
+‘ 
+
+; | : Dea: rT roceed » De 
+rea rcu ra rict lage, tne nai order 
+na De IDject re ra ippeai, OY Une 
+
+irt | appeai lor r t where the 
+
+ceeding had tA Y "2 >) er 
+nas Tete. see j f . 4! Kett 
+71 F2 408 4) th r.1992 The 
+ettied rule proceeding nat we nave 
+irisdictior er or fina idgment applies 
+, 
+
+nabdea: procee gy i ne ipreme 
+
+irt nas tructec tnat tne Tnalty re 
+
+rement should be given a ract al rather 
+Nar a tecnica nterpretatior niled 
+tate Le RR F Ud 3 a, it} r | ORF 
+
+(1? 2sple niled f es ee ry 
+
+: ~ ix 2 4 . ’ ‘(> 4 {} | | 
+L kd ?ad 199 (1964 4 fina rder is gener 
+" ne that ene the ; gy ator and eave 
+
++} gt se for the ort t i 1 ta 
+tior mitted } r that iiniess tne 11s 
+trict iTts order is erturned appeal 
+nothing is ieft for the district court Dut [ 
+ensure the execullor f its judgment, Sia 
+zak, 971 F 2d at 1411. Similarly, “an order 
+wr h effectively sends a party it f urt is 
+appeaiabie Lee. 786 F 2d at 956 see ais 
+Herrington 1 mnty of Sonoma, 706 F.2d 
+38, 939 (Sth Cir.1983) (same,, and “|a} dec 
+sion is final for purposes of appeal if ar 
+
+
+appeal is the only method of obDtaining re 
+
+
+view,” Lee, 786 F 2d at 956 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+id SERIES 
+
+
+Pw Ly : ew er 
+tet j b ; ' it 
+* I ) il [ vr il ‘ 
+[ iF e ‘ ne ’ ’ ¢ 
+ADT Au i 
+' ed ar m{ 1 hut 1 , . 
+act r 
+r _ r rr 7 , \ Yr 
+vyardie ra c ‘ i 
+ng " >} ; 
+: Dia “ J pre juqcice 
+t rinai ecause t nte piate , new r 
+ex 
+ane ied | 4 riowever a aismissa wit? 
+’ , , . 
+reyudice 4 ist 2 nai as ¢ 
+wmitn prejudice rT it is ntended ¢t end rhé 
+tigation in the court invoived Dut not t act 
+r ; ‘ +} . tn } \ 
+aS an adjudication on the merits or W Dar € 
+
+
+filing of a simular action in another court 
+
+
+VU cGuckin 1 mith. 974 F 2d 1050. 1053 (9ti 
+r. 19YZ Examples of suct roers abound 
+iding analogous dismissals for failure t 
+exhaust administrative remedies, see United 
+tates v. Orr Water Ditch Co., 914 F 2d 130% 
+06-07 (Sth Cir.1990), and for failure ¢t 
+exhaust the gnmevance procedures under a 
+ective bargaining agreement, see Ramirez 
+For Televis m1 tation. in OR F Od 74 
+16—47 (9th r.1993 Dismissal of Farmer 
+amended third petition for fallure to exnaus 
+fectively terminated the litigation in district 
+wt, sending the partie it of the federa 
+en ee Quackenbus/ Alistate Insur 
+: 6 ~ it ~ ’ 7 Z 
+716, 135 L.Ed.2d 1 (1996) (order remanding 
+n abstention grounds appealable as a fina 
+rder because t puts the litigants in (this 
+ase effective it of [federal] court” This 
+eave nothing for the district yurt & J 
+inie and unt Farmer exhausts state irt 
+remedies and files a new action in federa 
+rt 
+u 
+Nor do we believe that finality of the dis 
+r 
+
+
+trict jurts order in this case can hinge 
+what might have happened uU the court hac 
+far 
+
+
+“onsidered the state’s motion to dismiss 
+
+
+abuse of the writ lismissing some Dut not au 
+
+
+yf the claims, and whether that order would 
+be final. Farmer's reliance on Bermudez 
+Smith. 797 F.2d 108 (2d Cir.1986), where the 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+} } l2 5 
+Pr AROTER 2 | vit 
+as 98 sn ‘ 
+‘ : 
+‘ : 
+> | ’ 
+: ’ 4 
+& 
+‘ 
+| . . ‘ 
+¥t . 15 
+: ‘ il 
+Ver , 
+‘ b ‘ t r i . 
+, . I . 4 i 
+| , : r ng ‘ . 
+: VT\é r . > . 
+: : r ’ 
+‘ 4 | jor ‘ 
+| : ” 
+r ; ASé ‘ 
+G4 \ 2a " 
+‘ f ‘ ) r rele mn * ‘ ‘ 
+‘ ‘ ‘ ‘ 1 Ww ‘ ‘ 
+. : / vile 
+pe : De ’ 
+. i ‘ : WILT 
+‘ : ) ‘ 
+‘ _ 
+_ “ . : 
+: | , - . ’ . 
+rm : . 
+q k 
+' i ‘ 
+. ; rT 
+: if 
+hry ; ’ ’ . ' r ‘ 
+irKabdie r 4 . 
+’ : ’ r : ’ 
+a : . 
+) ’ era ‘ he gore ‘ 
+i yr ‘ mie ‘ Ke } ’ ’ ‘ « . 
+‘ rroier ‘ noder 
+j | A 1DSta ‘ | [ 
+| ‘ Lsé ] i : r #4 yt if ; ~ 
+v¥ eres ’ na ry 4 rr : x AJ VOC a ‘ 
+’ y ¥ -7 ’ no | } ’ nt Tt 
+. = : . | . ic 4 : . sGgTne r 
+ea et : vb ‘ , » fing sha, ? ’ 
+Miu iu . : : MIigTne 
+ave ‘ ‘ ‘ ef —— » ane. : , oa 7 , 
+et ‘ aUe : ‘ 5 al 
+ippeal y defendant 
+: , 7" Fk / 
+‘ : +b : 
+J ’ g ippea 4 na , er Inds bh ra pr uiline ‘ 
+ir 4 e2 y hy keer ’ ; } S ’ r net ’ 7 
+Di i ry ‘ ny inusua ) ‘ mpern 
+6 : : 2 . . 
+a irs ) pa Because w r*| na Ne 
+7, « the b . ror or ; ; i 
+} < f } } ecc no Sic ‘ r 
+der , he de - ‘ j . 
+B ; a . : Ippea Dealadle a } Mera ra 
+jepends r : ‘ a y athe tha Benet : 
+i ‘ 
+aiity wt ve waress if Part iB . 4 ea . +4 
+
+
+‘a Ser oe A a AIL Ee I yA a li ge 
+
+
+Bee" 
+’ 
+
+
+~~ 
+
+
+ps 
+
+
+n@ 
+
+
+et . 
+. 
+a 
+at 
+t"y 
+‘ nh 
+" 
+pp se 
+} ete 
+’ 7" 
+he 
+
+, , 
+
+l ‘ 
+
+’ r 
+; 
+= 
+
+~ . 2 . 
+
+
+ria Ge ee sdat 
+
+
+a Cc) 
+. . ss 
+AMA UUULHe J 
+UYU VS " 
+‘ ‘ ~~ ww 
+' > ’ ; , < 
+P| #8 FEDERAL REPORTI SERIES FARM . — ee 
+FA , v IcDANIEI | 
+LJ) 
+Cite as 98 F 3d S48 (9th Cie 94 
+, : ‘ y r nt aine nev h " that 
+: ¢ : . e «i Arle’ * Au : ’ Fi 
+, iK¢ ‘ ‘ the Ive ’ 
+\ 7 7 4 ’ ry 7 : , 
+¢ ‘ ‘ ‘ ‘ nl 
+| «i j j r 1 q . ew £F ny _" \ ’ : . 
+’ ‘ art fag er ‘ raer t ir ue tnat r jul nad me nade r 
+' I eer at r Vas explalr 
+‘ . . . b hor +b .* 7 
+are : ‘ vine ‘ e De wor nstitute i iDuse =- P ¥ ; Yt 
+‘ ‘ + Py | ‘ ’ 
+. Vie! I ‘ +} - +} Subdivision (hb : t ‘ ’ 
+sara? \ Bank er id Zt ¢ \ r is erwise subiect t usrr , . Rs +} ‘ 
+r ‘ 
+“ ‘ : AS : . 4 ‘ , 4 + 
++} { ’ 
+” bh 65 Lt vi 4 NV rejucice as a thresr Gg matter befor: " oie — " ert then 
+| ‘ : ¢ 
+: ’ s a . rr ’ ne 
+the trict =) ’ thermic for ‘ 
+AW herefors ’ : né ir : ‘ ‘ iy Ll i ac x ’ » etit 9 \ : abuse f the vrit ) 
+. ~? 
+uns t) r Ve a ry rn ne rr ; > j * 
+; : ¥ proce¢ eo mer Da vaGa bel Tl Ul a ace 4 P | ’ at Y ere 1 here , 
+r , y 
+’ nied « ef +} aie ft ‘ ¢ j r relic 
+JUaLé DiIeG ADUSE ne Aw NOting tant . as that the ame 
+‘ i : _ . oe. = 
+. - - ™ . ; . - ’ : 4 ‘ 
+armer prior writ history, w r Gicaté y , lege mn the amended y 
+ii ] Leg j 
+~ illege ar ‘ . , . 
+* : > + - : 
+. . . na 4 <i of tne iaunms presented in . arrr ne , na ur ror netit 7 r that there 
+' J via first argue hat resenta , . [ ] ‘ Ul ne aatittenes — 
+5 " ry : , 7 | : | 
+er amended third petiti mn appeared for the b heen a pr ment jeterminat ’ nm ar P 
+I nexnaustea aims in tne ame Pird : , ‘ ' prior pet r , able » 
+r rirr r ae stit ; ' 
+= sae nat pe utior F rom tnis r r ty . 'T na that preciude reeXamina ; 
+etit nstituted an at 7 f the writ and /~ J < | = 
+< i i \ 
+r th . lor ; beet — 
+posits tnat ne amended third ion was nm the mendes third netitior lndé éd ‘ he 
+tna ne ; trmct wrt erred f fa no * = 4 *? . 
+= , . , —_ & - 7 r ’ vex r ra neo io +) a4 “ ~ { ? hx kA Od i ” . 
+it iy Ww ¥ larasSS and 1#iay e Tir : P : ‘ ‘ ‘ ‘ i itt, 1 s 
+J ina ; ry - her I } reference 
+LIST s the petition as a whole as an a se of A ‘ 4 a lie ’ 
+I < J ’ ’ an ‘ F — —_— ’ - aad , ealing with the prohler ‘ ar 
+adjudication of Farmer's state court judg ; bit neorperat u ling pl f- 
+. -—*? ' . , - ° » . r | . ad De r ‘ ; A : . 
+ne WT W reiect thie argume ; 2 , j \ Aud Lil ; : . . —_ ' Yo 
+ment ‘ ea ate . 
+¥ , ¥ , : ? rrvy + ~ 
+, apprehends the discret r ha s repose ‘ eT 4 ror eriu 1e@l4 a f 
+. ’ Farmer vanters that th a - _ +} suse Rut reading the Rule ir Controlling weigt nay be giver >) om 
+¥ ’ trict irt 4 lecide whether here has ‘ ATiN hia . isirik . au DU ; “ ; er 
+: ler | mor ryr ; r ‘ 7 . 
+f 4 ; ; t} 1 renter fr ’ rerr nr om tr . | 4 4 i i r ‘ ‘ 
+nror r re > ~ ~ hic oO } t . . 
+heer ar abuse f ting vrit , a ase-t ASE ‘ Ve ’ eCiused ‘ LISMiSs u amended : Va N As . st it equire er ' sn 
+ho} rv y ) y ‘ , Wer, 
+: thor >? r har , ot Mreat tihat +} nr r letermir ’ r Wa iveCd i Z ‘ — 
+.. ee e.g Howard CUr “ re? Li eu VOPCaAUSE is fi Aa secOona or AUSs¢ | e DI i¢ | | Na ye 
+. ~ +} ry rv ni} tad b 
+g ¥%h Cir 1990) (review of decisior yecessive one” within the meaning of 28 er redunda! We have d g : 
+" c »-) : ‘ ; . ‘ ; f . ‘ ent rr ; r \ lor » 9 - 
+~ & , ’ » * , os > reé r , " < - a} ‘ 4 |e . f ‘ x 
+to deny consideration of habeas petition or § 2244(b) and Rule %b). Instead ading the sé ause as if : 
+‘7 hirnit the iofer " ’ F tho ane ; ‘ rec rement hat tne or r netit : erse t ¢ Ant ant , ‘ mr 
+P ents for abuse of d retior Hahea J ‘ ne cdelense i apuse i the wi : : {Ul I I 
+rr tinr " - a : 
+t _ rise r when there nas oT , Jindic wr nd not i le the ground svegecd II Appa - © i r eve 4 7.91 
+rpu Rule ) Ac ory mmittes tes al Ly : as Dee an acgjyucica . sU “4 : 4 
+. ; ‘ . » +} ent titinr } near deter vas nm the ment , 1 — : 
+> 2 } » n o } 4 . 7 \ ‘Tt r aprevious fecerai etvitior , the ‘ j equ De + : pr lee a 
+4 i ar Sé lf ¥ SUDCIV rule 
+‘ 
+. ° m 9 » +} . = ? tor ; j ‘ ] ‘ erve 
+; ; ; ; b + oe ner 4 ‘ ‘ i . i il da \ k 
+; r ne meia appucavior ] atner is 
+
+
+> = 
+4 
+2 | 
++ 
+~ 
+™ 
+~ 
+‘ 
+y 
+o 
+5 
+t 
+. 
+S 
+; = 
+> & 
+
+
+. . ‘ adi lifferer ; ‘ ‘ 
+re . re ure Pw ana ilfiere i | i i 
+ise Dasis ine state further ask is A 5! 
+» 
+- ry y r red re » the ‘ lure >. 
+require he listrict wrt to fi hat the t ind ire alleg and (2 I falliu Se 
+We OK first to the plain lang tne ussert those eT na n a prnor petitior r 373 U.S. at 15 [83 S.Ct. at 1077 ral 
+resentatior I unexhausted al tne cA) 
+tatute nstruing the provisions er titute an abuse f the writ Had nyre . a3 
+| . ed nira petit : il AUUDSE | tre ine req re ‘ ‘ r eter wit 
+. D ire iawW, including its object and policy, & ntended to lumit the Dases [or dismissal ol : 
+writ } s we als wil r ; : Rat er ve minatior , tihng ime oY } . eer 
+iscertain the intent of ‘ ongress Alarcor new and different ground ther than by : 
+aer niy tne narrow evga yuest r | , , - the nemt Thi ‘ urement r “ 
+Keller Indus., Inc., 27 F.3d 386, 389 (9th vhat constitutes an abuse of the writ. it ild 
+> : . . , , : ot l : +4 
+whether re listrmct irt rrectly r | nae t4\ C ‘ na eer lé ‘ 
+ir .ivv4 citauions omitted Rule 9(b) pr } ne so either Dy making the entire 
+ed that “although the McCleskey case u n many case nee nder 
+vides | ¢ nr able r ‘ the pmor determina 
+era ' sut sequent Ie vtvIONS ; leails With referenc; . 
+} e 3 e ‘ nr 
+_— > . " . r thio ry re r ny aan the « 4 Ai 
+with subsequent petitions after the first pet Successive Petitions. A second or su as ‘ erits adding th 
+i iwuons al ne Tu peti ; : bine asserting —_ — . : 
+' , . , ’ . I~jpeemninad am the masite fier the I aSs ing a j ¢ 
+-eSssive eovon may be SMILSSeC( uy tne ruse evel i ‘ ) re eri alivel i 
+tion has been dismissed on the merits om , » A isms ae previ ; ; +} ’ 
+- UU ¥ e ‘ r e® ment thre rr 
+; all roc nrmor netit : { ven hey * te ; ) , i 
+sdge finds that it fails to allege new or A : prior petiti riven how it Is actu 
+Un this point Nevada contends that Rule " n Sanders noted 
+ais sat v« : ss - vu ee . -ttor > annot that "a OOM 
+' different grounds for relief and the prior ally writte we say that Rul 
+Mh ; the 2 les (,;overn Sectior rE . : : : ’ 
+. — rmung owe aan jetermination was on the merits or if new tsell requires the pnmor petition that tmegyers in either ase, Tull onsideratior ua tre 
+
+
+cpc mn th linited State Di + 0} . ; 
+ase ne uted States istrict Courts : . a tian o> on = » Ciead . mastee af thea ae — -~ & 
+nd different grounds are alleged, the ibuse of the writ analysis to be one that wa: merits of the new applcati an be 
+
+
+rQ ’ S i A ‘ : oc “Ove th + 
+a N A. TOU. 9 oe c rs tnose situa - . -_ . the mec . led n f thore } Poem am ob 
+
+= judge finds that the failure of the petition esolved on the merits evolged (omy) U tnere has been an abuse 
+tions in which new claims are raised which of ¢ ante © © © and t ay ai 
+
+» er to assert those grounds in a prior peu The Advisory (_ommiuttee Notes to R lie uu the writ ania nis € x el 
+were not raised in the first petition u the : ment h the hnueden af s Bs Ss @ 
+= | uior constituted an abuse of the writ Xt naicate tnat tne R le listinguishes De nent Nas tne Ourde pita 4 
+jagge finds that the faluure to assert those , ; a ¢¢ an , 
+, , 28 U.S.C.A. foll. § 2254. Rule 9b).® ween “same ground and “new and diller inus, ! pie, if a prisoner delit 
+grounds in a pmor petition constituted an ™ : ie 3 2254, Rule % 
+nt ground petitions on this Dasis Habea: erateiy W! ne of two grounds r 
+
+
+abuse of the writ. While the state does not By its terms, Rule 9(b) appears to contem 
+lisagree that Farmer’s amended third peti- plate two possibilities for dismissal of a sec n violation of the Constitution, laws, or trea state prisoner, the Court made clear that it wa 
+
+
+ties of the United States Farmer is such a announcing principles that should be applic 
+8. Rule | provides that the Habeas Corpus Rules procedure in the United States district courts 0” persor equally to all successive applications for feder 
+are applicable to petitions by persons in custody applications under 28 U.S.C. § 2254 by 3 habeas relief. Sanders. 373 US. at 13.33 S 
+
+
+, Alth h Sanders concerned with a motion oom 
+pursuant to a judgment of a state tourt. See 28 person in custody pursuant to a judgment of 3 ough Sanders was r at 10 
+
+
+L by a federal prisoner under § 2255. rather than 
+S.C. § 2254 Rule | t}hese rules govern the state court, for a determination that such custody ' 
+an application for a writ of habeas corpus by a 
+
+
+Ek EN Ee a OO ON i ee = - retains 
+
+
+O00 
+
+
+federai collatera! revel at the time ol 
+
+
+yy * . * * } 
+
+filing his first application ne may 
+be deemed to have waived his mght to a 
+’ 
+
+
+hearing on a second application presen 
+
+
+ing the withheld grour.d 
+
+
+373 U.S. at 17-18 (83 S.Ct. at 1078) 
+
+
+Subdivision (b) has incorporated this prin 
+
+
+iple and requires that the judge find peti 
+
+
+tioner’s failure to have asserted the new 
+grounds in the prior petition to be inexcus 
+
+
+able 
+
+
+Subdivision (b) is consistent with the 
+umportant and well established purpose of 
+habeas corpus. It does not eliminate a 
+remedy to which the petitioner is rightfully 
+entitled. However, in Sanders, the court 
+pointed out 
+
+Nothing in the traditions of habeas cor 
+
+pus requires the federal courts to toler 
+
+ate needless piecemeal litigation, or to 
+entertain collateral proceedings whose 
+
+
+only purpose is to vex, harass, or delay 
+
+
+373 U.S. at 18 (83 S.Ct. at 1078) 
+
+Id at 799-800 
+
+Although Farmer correctly argues that a 
+habeas petitioner may not be deprived of a 
+hearing on the merits of his first federal 
+habeas case for “equitable” reasons not 
+founded in statute, rule and precedent, Lonc 
+har v. Thomas, — US. ——, 116 5.Ct. 1293, 
+134 L.Ed.2d 440 (1996), he offers no gram 
+matically sensible way that Rule 9b) can be 
+read to treat the first prong—providing for 
+dismissal for failing to allege “new and differ 
+
+
+10. Section 2244(b) states in full 
+
+When after an evidentiary hearing on the 
+merits of a material factual issue, or after a 
+hearing on the merits of an issue of law, a 
+person in custody pursuant to the judgment of 
+a State court has been denied by a court of the 
+United States or a justice or judge of the Unit 
+ed States release from custody or other rernedy 
+on an application for a writ of habeas corpus 
+a subsequent application for a writ of habeas 
+corpus in behalf of such person need not be 
+entertained by a court of the United States or a 
+justice or judge of the United States unless the 
+application alleges and is predicated on a fac 
+tual or other ground not adjudicated on the 
+hearing of the earlier application for the writ, 
+and unless the court, justice, or judge is satis- 
+fied that the applicant has not on the earlier 
+
+
+oF ™~ 
+— V 
+
+
+98 FEDERAL REPORTER, 3 FRIES 
+
+
+ent grounds’ when the pnor determinatior 
+
+was on the memts—the same as the second 
+
+prong—providing fcr dismissal for alleging 
+new and different grounds” when failing to 
+do so in a prior petition was abusive. Nor 
+are we persuaded that interpreting Rule %b) 
+as the Advisory Committee does would im 
+
+permissibly conflict with § 2244(b), as Farm 
+
+er suggests. While § 2244(b) is predicated 
+yn an adjudication of the merits," Rule %b) 
+was also enacted by Congress, after 
+§ 2244(b). 28 U.S.C. § 2244(b) (enacted in 
+1966); Habeas Corpus Rule 9(b) (promulgat 
+
+ed in 1976); see also Ritchie v. Eberhart, 11 
+F 3d 587, 593 n. 3 (6th Cir.1993) (“The abuse 
+of the writ doctrine is codified in two 
+enactments of equal status: Rule 9b) and 28 
+U.S.C. § 2244(b).”), cert. denied, 510 US 
+
+1135, 114 S.Ct. 1111, 127 L.Ed.2d 422 (1994) 
+To the extent there is a conflict, the most 
+recently passed statute or rule prevails. See 
+Boudette v. Barnette, 923 F.2d 754, 757 (9th 
+Cir.1991) (holding that a federal rule of civil 
+procedure prevails over an earlier passed but 
+conflicting United States Code section be 
+
+cause “{wjhen two statutes conflict the gener 
+al rule is that the statute last in time prevails 
+as the most recent expression of the legisla 
+ture’s will”) (citation omitted); /nternational 
+Union, United Auto., Aerospace & Agr. lm 
+
+plement Workers of America, Local 737 v 
+Auto Glass Employees Fed. Credit Union, 72 
+F.3d 1243, 1247 (6th Cir.1996) (explaining 
+that the basis for the rule that a later passed 
+statute controls is the “settled principle of 
+statutory construction that when Congress 
+drafts a statute, courts presume that it does 
+so with full knowledge of the « “«ting law”)." 
+
+
+application deliberately withhe'd the newly as 
+serted ground or otherwise abused the writ 
+
+
+11. Farmer suggests that interpreting ‘prior peti 
+tion” as one not required to have been deter 
+mined on the merits also conflicts with Rule 22 
+4(a) of the Ninth Circuit's capital habeas rules 
+Rule 22—4(a) provides 
+
+
+A “first petition” for habeas corpus shall 
+mean: the original filing relating to a particu 
+lar conviction or sentence, and a subsequent or 
+amended filing if the original filing was dis 
+missed on grounds other than on the merits 
+The term[{] “first petition” shall not in 
+clude (ii) a petition for habeas corpus that 
+has been dismissed by the district court for 
+lack of jurisdiction 
+
+
+FARMER 
+
+
+IcCDANIEI 
+
+
+Cite as 98 F.3d 1548 (9th Cir 1996 
+
+
+. Pu t ‘ ta 
+ere f Rule Y permit 
+rt r mi : . na r a‘ 
+I new and dullerent ground 
+tne | ive find tne j uure 
+er { issert tnhuse ground 
+yvnetner or t resoived 
+Va iD ive 
+
+
+hority for his position that abuse of th 
+
+
+has been determined on 
+
+
+relies n Sa nders V c( ‘leskey 
+
+
+vada contends that Farmer has n 
+
+
+{ analysis is inapplicable unless a prior 
+the ments 
+
+
+and Bonin 
+
+
+} is ; 
+{ n ira Vv‘ ire aWwdal f 
+hy istrict ® autnont ne Wa { 
+e peti er | ted toate 
+’ ' 
+ire alleged 068. 10 L.Ed2d 148 ey) 
+f +) y ' 
+f the pr lose. As the Advisory Committ: 
+r A prior I e WI reflect tne | rt 
+r rr ry ’ 
+‘ Pe! | yuisned two omne pie i 
+. , 
+p i mn on a ground hea and 
+‘ 
+he rt r 
+t a pl ir appucu r 4 
+the writ." /d at iV iy, » 5.( 
+) 7" 
+{ i9 4s the Court piaine 
+pect to tne iccessive appucation 
+
+
+be an abuse of the writ 
+
+
+‘ 
+
+
+r federal collateral relief a ori 
+
+
+No matter how many prior applicut 
+
+
+Didi 
+
+
+er Tr 
+asquez, 807 F.Supp. 586 (C.D.Cal.1992 made, the principle elaborated in Subpart 
+irgue that Farmer second return from 4 supra ([Naving to do with icce 
+e court with unexhausted claims and no appucations on grounds previou ne 
+austed claims is abusive. However, the and determined on the merits] cannot a 
+e devotes most of its argument to inex ply U a different ground ji presente 
+ible neglect, unreasonable delay. and the new application So too, it cannot 
+mer s inability to meet Nevada's cause apply U the same ground was earlier | 
+prejudice standard upon return to state sented but not adjudicated on the mer 
++ These arguments have nothing to do in eitner case, full consideratior | ‘ 
+whether Nevada's motion to dismiss for merits of the new application can be ay 
+se of the writ was premature, as the ed only u there has been an abuse of 
+rict court concluded. and we therefore do yrit or motion remedy: and this t} 
+address them.” More to the point errunent has the burden of pleading 
+mer “rie Vgael _ J +” ‘ : : = 
+ner argues that McCleskey abuse occur id. at 17, 83 S.Ct. at 1078. Sander 
+after a federal court icireceeec ft " or " ? 
+fter a federal court addresses the mer petition—like Farmer’s—had not been ds 
+i a previous petition, and that this circuit nied on the merits.” /d at 19, 83 S 
+others. have so held We clisavree fi ’ 
+r have so held We dis agree LUviy oanders s second appucation allege 
+see NSistemn us (he second prong ol ntirely understandable re sponse é 
+, , 
+lie YD " 1 w sllevyinu new and dilfer { nitial petition), Neuschatfer (se 
+grounds from those alleged in a ‘prior pet ind [eC leske third petitior ve be 
+Nere Lule DD uti 4 T 
+M us Rule 22—/a) has to do with assur h gnificance to Farmer s yndu 
+inat a certilicate of probable cause will be Lund Veuschafer, McCleske an 
+ec i j CXeci ) i } ’ j 
+~ and a stay of execution will be in plac: rders in this case, are for the 
+il the death penalty pane! issues its mandate rT evaluat 
+the first petition addressed on the merits 
+thing we hold today affects application of th 
+é ; 13. Quoted in full, supra at | 5-5¢ 
+culls automatic stay rules or implies that a 
+titioner should not have “a single habeas peti 
+n see Rose v. Lundy, 455 U.S 520, 102 14. We recognized both the distinction. and 
+t. at 1204, heard on the merits in federal fact that dillerent standards determine whx« " 
+urt court may dismiss a petition as abusive ar 
+when it may dismiss one as success 
+In passing, both Nevada and Farmer remark chafer, 360 F.2d at 1474, n. 8 
+
+
+the faci that, at the time the second federal 
+
+
+tition was dismissed, Neuschafer 
+
+
+0 F.2d 1470 (9th Cir.1988), cert. denied, 493 
+> 906, 110 S.Ct. 264, 107 L.Ed.2d 214 (1989) 
+ws the law of the circuit and that under it, a 
+ding of abuse of the writ would not have been 
+tified solely on account of failure to include 
+
+
+exhausted claims. /d at 1476 
+
+
+| DP A ey Ll I 
+
+
+Except to 
+te that the district court's dismissal orders are 
+
+
+Whitley 15 The dissent reads Sanders different! 
+
+
+(Sanders's) pleading was deficient 
+373 U.S. at 19. 83 S.Ct. at 1079 
+
+
+ee 
+
+
+ietjra a 
+
+
+1502, but as the Court itself explained, Sander 
+rst petition “was denied because it stuted on! 
+bald legal conclusions with no supporting fact 
+allegations,” and “the denial, thus based. wa 
+not on the merits It was merely a ruling that 
+
+
+Sanders 
+
+
+%. 
+a4 
+
+
+~~ 
+
+
+ae SH 
+
+
+oe 
+Pao 
+
+
+« 
+
+
+(2a ENT! 
+
+
+fi 
+a 
+
+
+That See 
+
+
++ 
+. 
+
+
+rh. 
+
+
+—— 
+aes 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+ae 
+” ae , 
+ll Nh A ete i AG LAL AE OR — —— > - 
+
+
+wy 
+
+
+dence concentrate on a petitioner's acts to 
+jletermine whether he has a legitimate ex 
+euse for failing to raise a claim at the 
+
+
+appropmate tume 
+
+
+Id at 490. 111 S.Ct. at 1468 (citations omit 
+
+
+te 
+
+
+qi 
+
+
+f 
+
+
+te 
+
+
+d 
+
+
+So does the Court's formulation of the 
+iestion in abuse of the wmt cases 
+
+
+Abuse-of-the-wnt doctrine examines pet 
+
+
+tioner’s conduct. The question is whether 
+
+
+petitioner possessed, or by reasonable 
+means could have obtained, a sufficient 
+basis to allege a claim in the first petition 
+and pursue the matter through the habeas 
+process. The requirement of cause in the 
+abuse-of-the-writ context is based on the 
+principle that petitioner must conduct a 
+reasonable and diligent investigation aimed 
+at including all relevant claims and 
+grounds for relief in the first federal habe 
+as petition 
+
+i at 498, 111 S.Ct. at 1472 (citations omit 
+
+
+»d We thus do not agree with Farmer 
+
+
+that McCleskey itself indicates that abuse 
+
+
+( 
+
+
+fe 
+
+
+‘an only occur as a matter of law after a 
+
+
+sderal court has addressed the merits of a 
+
+
+previous petition 
+
+
+[8, 9) We hold that a district court is not 
+
+
+precluded as a matter of law from consider 
+
+
+, 
+ul 
+
+
+D 
+
+
+1 whether a petitioner has abused the wnt 
+g 
+
+
+y alleging in a subsequent federal habeas 
+
+
+petition new and different grounds from 
+
+
+those alleged in a prior federal habeas peti 
+tion, whether or not that pnor petition was 
+determined on the merits. However, we em 
+phasize how narrow this holding is. It does 
+not mean that Farmer will never have any of 
+
+
+h 
+
+
+is grounds heard on the merits in federal 
+
+
+cqurt. Claims that were presented in his 
+initial and second federal habeas petitions 
+
+
+but were not determined on the merits be- 
+
+
+cause they were unexhausted, are clearly 
+outside Rule %b). Nevada acknowledges 
+that all of Farmer’s exhausted claims pre- 
+sented in the amended third petition should 
+be heard, no doubt recognizing that a “sin- 
+gle” federal petition filed after Rose v. Lun- 
+dy exhaustion cannot be an abuse of the writ, 
+as it is the very reason for dismissing the 
+petition for failure to exhaust in the first 
+
+
+9. Nevada alternatively asks us to conclude that 
+the district court should have ruled that all 27 
+
+
+000210 
+
+
+98 FEDERAL REPORTER, »RIES 
+
+
+place. Farmer's claims may not in any event 
+be “new and different,” or abusive. In shurt. 
+what we hold, and all that we hold, is that the 
+district rt was not precluded as matter of 
+aw from considering whether Farmer's con 
+duct in failing to allege grounds in prior 
+petitions that he alleged the third time 
+around (if he did) was abusive solely on 
+account of the fact that his prior petitions 
+were not reviewed on the merits 
+
+Rather, the possibilities are as Sander 
+first articulated, Rule 9(b) sets out, the Advi 
+sOry Committee Notes reflect. and as the 
+Court restated in Sawyer v. Whitley, 505 
+U.S. 333, 112 S.Ct. 2514, 120 L.Ed.2d 269 
+Unless a habeas petitioner shows cause 
+and prejudice, a court may not reach the 
+merits of: (a) successive claims which 
+raise grounds identical to grounds heard 
+and decided on the merits in a previous 
+petition; (b) new claims, not previously 
+raised which constitute an abuse of the 
+writ; or (c) procedurally defaulted claims 
+in which the petitioner failed to follow ap 
+plicable state procedural rules in raising 
+the claims. These cases are premised on 
+our concerns for the finality of state judg 
+ments of conviction, and the significant 
+costs of federal habeas review 
+
+
+7 > 
+
+
+Id. at 338, 112 S.Ct. at 2518 (internal quota- 
+
+
+tion and citations omitted) 
+
+
+IV 
+
+
+Accordingly, we reverse because Rule 9b) 
+and McCleskey do not foreclose entertaining 
+the state’s motion to dismiss for abuse of the 
+writ solely because Farmer’s prior petition 
+had not been determined on the merits, as 
+the district court concluded. We therefore 
+vacate its order dismissing Farmer’s amend- 
+ed third petition, and remand for it to consid- 
+er the state’s motion to dismiss for abuse of 
+the writ. However, we express no opinion on 
+whether the grounds alleged in Farmer's 
+amended third petition are “new and differ- 
+ent,” or if they are, whether there has been 
+any abuse of the writ. That is entirely for 
+the district court to decide, in its discretion.” 
+
+
+claims contained in Farmer's amended third pe- 
+tition are procedurally barred. But for the same 
+
+
+>. 
+FARMER 
+Cite as 98 F.3d 
+REVERSED VACATED AND RI 
+
+
+] 7 ) 
+i 
+‘ HROEDI R ‘ vt cul k 
+- i -+ 
+par ind’ UISS€ ; T 
+' 
+ « 
+i I lI I t v na we | e jul 
+» cr cer ne pea put | re spect 
+nussent f ne | rit remal t 
+t - } 
+‘ ir er possidie abuse 
+, . " 
+ine A)OT nol lat inciu 
+y r ’ ' ry . : ? a 
+exhausted aims in petitioner 
+ime ied pe ay nstitute abd f 
+ra na ever had a deter 
+rn : ‘ n f } } } 
+t Aiiy Vi Mo haved 
+ew ‘ strict ¢ ijt nas 
+tne nary turn n pre 
+i ] [ 1dence ver the 
+t , 
+y ry ig r irmer ne 
+‘ } . > 
+Ai i ialm 
+1 af , 
+Au al rir ne 
+rode ‘ ¢ Nevada's 1 
+
+
+ra é e writ, ior tw 
+
+rst. ever 1 e t ajOr { i r 
+tw iding that tnere be an abuse I 
+
+writ pursuant to Rule 9(b) of the Federal 
+} > o 1? curb y +b by y 
+ideas Corpus Nules when there nas never 
+en a prior adjudication on the merits, thi: 
+rticular case is not one in which such a 
+
+
+ding of abuse could be made. There is no 
+ubt Farmer’s first two petitions containing 
+exhausted claims were properly dismissed 
+der Rose Lundy, 455 U.S. 509, 102 S.Ct 
+8, 71 L.Ed.2d 379 (1982) 
+s court's then-controlling decision in Neus 
+
+
+ufer v. Whitley, 860 F.2d 1470 (9th Cir 
+
+
+Pursuant to 
+
+
+38), the filing of a later petition in order to 
+se claims that had not been exhausted at 
+» time a first federal petition was adjudi- 
+ed could not, as a matter of law, have 
+
+
+1 an abuse of the writ because 
+
+
+istituter 
+‘re had been no deliberate withholding of 
+
+
+ims. Thus, after the dismissal of the sec 
+
+
+easons we will not decide whether Farmer has 
+n fact abused the writ, we decline to resolve this 
+wocedural default issue, and instead leave it to 
+he district court on remand. See Grey v. Hoke 
+'33 F.2d 117, 120 (2d Cir. 1991) (deeming peti 
+ion exhausted, and therefore properly dismissed 
+vhere petitioner's claims were now procedurally 
+iarred from presentation to state court); see also 
+
+
+a,x — " 
+MeDANIEL 156] 
+QH1 
+1548 th ¢ 199% 
+. , } Bon oon 
+J . i 
+. ave i Ist 
+i etit vit 
+r > 
+et “hs 
+I ne time F armer f t pe 
+' = 
+i i na nar ine supreme ( 
+} , ‘ 
+. ‘ j iy 
+‘ | ’ ad 
+>. +4 ) I Ny 
+pe er wi led ‘ 24 ‘ 
+i yPane i not ce ( r 
+' 
+pet ’ , Te ] ‘ r WY ? ine ry 
+| , - > 
+N ag no e permitted t iain a nea 
+rr > y mr r ’ . 
+) ‘ ne! f ew al 
+> | y 
+i nea ause and prejudice The 
+, aa - 
+’ ne therefore ( rrecti rec 
+7 
+it under McCleskey. once Farmer , 
+lL nearing or ne . la If i 
+he ] ger etu [ 
+rr r r , rif 
+1? 4 ew pe nh Tra lg il 
+Ver t « } ister vher he rr 
+| 
+' Tt 
+Va f if wi t trict rt 
+Farmer six month » file a new fe 
+r rif ¥ 
+VpeLvIL ral au Li 
+. 
+When that third amende: etit 
+' j 
+une exnausted LITT tnat woul I 
+} , 
+f rT Sai pursuant t R indy 
+ra ' 
+istri ourt t } ¢ lé ‘ 
+pr per ourse i te VIUr t 
+lice and | P trae? tiny =" » « 
+Ad s } al rid { 
+’ . 
+Or a state court petition ir rder toa ‘ 
+t é irt t ievermine whetner the 
+nausted claim vere ld, Nvand or, as 
+ida had insisted procedlw arred 
+lath ¢h a . 
+Both the filing of the third amended 
+plaint and the istrict court ismissa 
+, r iv » | a 
+A jut prejudice were done in accorda 
+with prevailung law i rdet atisI the 
+1) smor , Jo . ; 1¢ 
+requirements of Rose Lundy and McCle 
+, 7? rt" 
+key v. Zant. There is no basis in this recor 
+P ?Wr 7 +) to’ ; > | agi 
+to support the state's assertion that the thu 
+. j menmleint ware >) } 
+amended complaint was filed only to vey 
+har: 2 Melee . : 
+Narass, and deiay Indeed, the Supreme 
+onal . me ; 3c —- oF 
+Court in Sanders v. United States, 373 S 
+
+
+l 
+
+
+22-23, 83 S.Ct. 1068, 1081, 10 L.Ed.2d 148 
+1963) encouraged the district courts to re 
+
+
+frain from deciding petitions on the ment 
+
+
+until all possible claims were before them 
+
+
+Moran WeDamniel, 80 F.3d 1261, 1269-70 (9th 
+Cir.1996) (rejecting an argument that Nevada 
+procedural bar rules are not adequate, and con 
+cluding that “the Nevada Supreme Court consis 
+tently applies its procedural rules to bar review 
+
+
+of the merits of an untimely claim in the absence 
+
+
+of a showing of cause and lack of prejudice to the 
+
+
+State 
+
+
+OLD AO Oy 
+
+
+ER 
+
+
+= 
+i 
+
+
+ij 
+
+
+' 
+
+
+ot Aky 
+
+
+Lia <i vOR DARA 
+
+
+.' 
+fy 
+t 
+
+
+i 
+
+
+Beg. 
+
+
+. = 
+r 
+
+
+a 
+
+
+Z 
+
+
+vrikael YEE fae 
+
+
+err 
+» 
+
+
+QU0L1«. 
+
+
+ys FEDERAL REPORTER, > 
+
+
+ut is exactly what the trict court n 
+cast The remal nnece ir 
+I] 
+
+‘ nd. the district court In nm ew cor 
+rect held a 1 matter of law that there 
+‘id not be an abuse of the writ under Rule 
+¥b) when there has never been an aajucica 
+on of any pmor Ciaun yn the ments In 
+reversing, the majority correctly recognizes 
+
+
+that Rule %b) was promulgated to 
+
+
+. le lla 
+principles enunciated in Sanders 1 nited 
+States, supra, but then gets Sanders wrong 
+
+
+The majority’s analysis depends on the 
+
+
+that Sanders itself involved a case 
+
+
+prer € Pla 
+
+. haheas netition had not 
+where a previous habeas peuuon nad n 
+een decided on the ments ee majority 
+
+
+yp., pp. 1557-58. I do not be leve that prem 
+
+
+A 
+e 18 ac ‘urate 
+Sanders involved a secona petition In nis 
+
+
+fret petition. Sanders alleged that the inaict 
+
+
+petition 
+nent was invalid, that he was denied effec 
+tive assistance of counsel, and that his guilty 
+plea was involuntary. Sanders, 373 U.S. at 
+. 83 S.Ct. at 1071. Sanders made insuffi 
+‘ent factual allegations in support of his 
+aims Id., 83 S.Ct. at 1072. The district 
+
+
+-ourt. however, did not simply deny the pet 
+tion because of the absence of supporting 
+factual allegations; it also held that the court 
+records affirmatively refuted Sanders’ three 
+‘laims for relief. Jd That was an adjudica 
+tion on the merits. See id at 16, 83 S.Ct. at 
+1077, explaining that in order for there to be 
+a ruling on the merits for abuse purposes, 
+the court must either refute the allegations 
+from its own records or hold a hearing The 
+Court said that an “adjudication on the mer 
+its” in a prior application means that “if 
+factual issues were raised in the pnor appli- 
+eation.” then either the application was “de- 
+nied on the basis that the files and records 
+conclusively resolved these issues,” or “an 
+evidentiary hearing was held.” Ia 
+
+The concept of abuse of the writ is a 
+subset of the larger realm of res judicata 
+claim preclusion. While prior habeas deter- 
+minations have less preclusive effect than 
+ordinary judgments, they do have some pre- 
+clusive effect. See id at 8-11, 83 S.Ct. at 
+1073-75 (citing and discussing Salinger v 
+Loisel, 265 U.S. 224, 44 S.Ct. 519, 68 L.Ed. 
+
+
+SERIES 
+
+
+p . , ry 1 © Mer 
+s=% | v7.4 Wong D ”) (inited Stale ‘. 265 
+
+
+S 239, 44 S.Ct. 524, 6% L.Ed. 999 (1924); 
+
+
+Price Johnston, 334 U.S. 266, 68 S.Ct 
+
+
+1049, 92 L.Ed. 1356 (1948 It is hornbook 
+
+
+uw that a prior judgment does not have 
+
+
+preclusive effect unless it is a decision on the 
+merits. See Restatement Second) of Judge 
+ments $$ 13 & 20 (1982); Aremer « Chemi 
+
+
+Const. Corp., 456 U.S. 461, 166 n. 6, 102 
+
+
+S Ct. 1883. 1889 n. 6, 72 L.Ed.2d 262 (1982 
+
+
+The Supreme Court underscored this point 
+recently in Felker v. Turpin, U.S 
+
+—. 116 S.Ct. 2333, 2340, 135 L.Ed.2d 827 
+1996). where it stated that “restrictions on 
+successive petitions constitute a modified res 
+judicata rule, a restraint on what is called in 
+habeas corpus practice ‘abuse of the writ.’” 
+The majority decision is thus contrary to 
+basic claim preclusion principles 
+
+The majority's reliance on Hamilton 
+Vasquez, 882 F.2d 1469 (9th Cir.1989), and 
+Sawyer v. Whitley, 505 US. 333, 112 38.Ct 
+9514. 120 L.Ed.2d 269 (1992), is not convinc 
+ing. In Hamilton we did not, as the majon 
+ty opinion states, “recognize[ ] that the ab 
+sence of a prior merits determination wasn t 
+dispositive of the state’s alternative ‘abusive 
+petition’ argument.” Majority op. Pp 1558 
+Instead, we decided the abuse of the wmt 
+argument on the merits because neither par 
+ty raised the question whether there can be 
+an abuse absent a prior adjudication on the 
+merits. 882 F.2d at 1473. We did not deal 
+with the issue presented here. The language 
+quoted from Sawyer, on page 1560 of the 
+majority's opinion, is not persuasive because 
+Sawyer concerned the “muscarriage of jus 
+tice” exception to the bar against consider 
+ation of successive claims, and not whether a 
+successive claim may constitute an abuse of 
+the writ. Sawyer, 505 US. at 339-40, 112 
+S.Ct. at 2518-19 
+
+Apart from Sanders, neither the majority 
+opimon nor the state cites any case im which 
+it is even suggested that Rule 9b) authorizes 
+finding an abuse when there has been no 
+prior decision on the merits. The principles 
+enunciated in Sanders were drawn from an 
+extensive discussion of prior cases, all o! 
+which considered an earlier decision on the 
+merits to be a prerequisite to consideration 
+of any government claim of abuse in a suc 
+cessive petition. In Wong Doo v. United 
+States, 265 U.S. 239, 239-40, 44 S.Ct. 524. 
+
+
+APPLIED MATERIALS 
+
+
+Cite as 98 F.3d 
+
+
+{ ‘ er raise 
+feagt r 
+‘ Le ti vil I t 
+‘ ‘ r i f tne mer 
+, ale ‘ ‘ r De t yt 
+rn the r T ujeged in tne 
+» etitien it 240, 44 Sit it ne 
+P ipreme (| irt hyscer nat pet { 1e 
+id t offered reusor r not prest 
+the proof at tse ind neid tna 
+reserve he ot f f attemptir 
+ipport a iter eqitior [r tne first failed 
+to make } | é se of ne writ ( 
+eas corpu fd. at 241, 44 S.Ct. at 52 
+Price John , 534 [ » 266 bd o.! 
+49, 92 L.Ed. 1356 (1948), also involved 
+rior adjudication on the merits. In Pric 
+e petitioner raised a new claim for rele! ! 
+fourth succe e federai habeas petitior 
+
+
+L. at 286, 288-89. 68 S.Ct. at 1060, 1061-52 
+
+
+~ rrer " . ¢ “oO , - ; - 
+ipreme Court remandea for a determ 
+
+
+ition of whether the petitioner abused the 
+rit by failing to raise this new claim in hi 
+L r petition I whicn had been de 
+] the menit Id. at 290-94, 68 S.Ct. at 
+ih? l «4 
+
+In addition to by 7 D ind Price, the 
+Sander ew ne fron Lith 
+
+l el, 265 U.S. 224, 44 S.Ct. 519, 68 
+
+Ed. 989 (1924), which al erned suc 
+ive federal habeas petitior Sec nd 
+
+77> TTC > ‘ ’ "s% 179 += 
+»1- \ ‘ al at 5 »>.4 at LU15 i4 
+unders noted that in Salinger, “(t]he peti 
+ners ucce ive applications were properly 
+nied because he sought to retry a claim 
+‘eviously fully considered and decided 
+
+
+ainst him.” /d. at 9, 83 S.Ct. at 1074. The 
+nger Court observed that 
+
+[t]he action of the court or justice on the 
+econd application will naturally be affect 
+
+ed to some degree by the character of the 
+
+court or officer to whom the first applica 
+
+tion was made, and the fullness of the 
+
+consideration given to it 
+
+5 US. at 231-32, 44 S.Ct. at 522 (quoting 
+
+r parte Cuddy, 40 F. 62, 66 (1889) Clear 
+Salinger, like Wong Doo and Price, re 
+
+
+ured a pmor habe ajudication on the 
+
+
+Our overall concern should be with making 
+beas corpus procedures more efficient, or 
+rly and understandable. The Supreme 
+
+
+yurt and Congress have insisted that all 
+heas claims be consolidated insofar as 
+
+
+hiet Judge Archer would rehear the appeal 
+
+
+NOVY ‘3 ? 
+‘ (Jj J) 
+\ J \ Ww ™ 
+5 
+) { “ ~ 4 uT 4 >T -s 
+DVANCED SEMI. MATERIALS 1562 
+: 7 
+{563 Fed. Cir 9964 
+y ’ r ' 
+} ‘ £ Aiiti f 
+r 
+eve 
+hig 
+‘ . eu ‘ 
+ntr A 
+I vy ' r r 
++} - 
+ed ! rt ct 
+’ ' 
+ile e " y ’ 
+‘ i +} 
+r ea ne 
+tion t rest ent ex > 
+ore not ir ‘ ‘ 
+ppea ‘ , 
+. 
+rr —? 
+e { r } y r 
+ir é 
+: r ‘ 
+in nabea f 
+) 
+Because there I i t 
+? ?? ? 
+esi ne n 1 ame lf i 
+, " 
+LOF at irp i [or r ene 
+lant . 
+at reasor il, aS a f iw, i De 
+the district rt =. . ed + 
+" T 
+in oer il eu er Kule Yt the 
+na een a pmor adju the me 
+r y +¢ 
+t per ll’ } ent tror ‘ rder r ir 
+no Tf r ior yrvy y > 
+t 4 Git el lina r ‘ y Nery 
+he 7; » of th =" 
+Al AUSF t NT 
+
+
+APPLIED MATERIALS, IN¢ 
+Plaintiff/Cross—Appellant, 
+
+
+ADVANCED SEMICONDUCTOR MATE- 
+RIALS AMERICA, INC. and Epsilon 
+Technology, Inc., @b/a ASM Epitaxy, 
+Defendants—Appellants, 
+
+
+and 
+
+
+Advanced Semiconductor Int. 
+N.¥., Defendant. 
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+Rehearing In Banc Declined 
+
+
+Dec. 17, 1996.* 
+
+
+Patentee brought action against compet 
+
+
+itor, alleging infringement of patents relating 
+
+
+Se meee 
+
+
+=.t, te* *ax 
+_%," , * 
+
+
+tS 
+
+
+7? 
+8 
+= 
+
+
+* 
+
+
+Ar 
+Wry 
+
+
+a Nt 
+
+
+— a» Sat 4 Wey ; 
+an +a ener Aisee ye ped 
+
+
+re Te Gl 
+
+
+ATTORNEY 
+GENERALS 
+OFFICE 
+
+
+NE‘/204 
+
+
+& 900214 
+
+
+FRANKIE SUE DEL PAPA 
+Attorney General 
+
+ROBERT E. WIELAND 
+Deputy Attorney General 
+Criminal Justice Division 
+Capitol Complex 
+
+Heroes’ Memorial Building 
+Carson City, Nevada 89710 
+Telephone: (702) 687-3529 
+
+
+Attorney for Respondents. 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF NEVADA 
+
+
+ANTONIO T. SLACK, ) Case No. CV-N-95-194-DWH 
+Petitioner, 
+vs. OPPOSITION TO MOTION 
+DIRECTOR, NDOP, et al., 
+Respondents. 
+
+
+nal 
+Respondents, by an through counsel, FRANKIE SUE DEL PAPA, Attorney General 
+
+
+of the State of Nevada, oppose petitioner’s motion for appointment of counsel. 
+This opposition is made and based on the attached points and authorities as well as all 
+other pleadings, documents and exhibits on file in the above-entitled matter. 
+
+
+POINTS AND AUTHORITIES 
+
+
+Petitioner Antonio T. Slack (hereinafter SLACK) has filed a motion for counsel stating 
+
+
+that he is illiterate. This assertion is belied by the pleadings that Slack has already filed in this 
+matter. Slack acknowledges that he is receiving the benefit of the services of inmate law 
+clerks. He is entitled to nothing more. Whether his claims have merit or not is up to this 
+Court to determine. Slack is not constitutionally entitled to counsel in this proceeding and h 
+has advance no reason why he can not litigate the matter himself. Respondents respectfully 
+
+
+suggest that this Court should not waste scarce judicial resources. 
+
+
+Sf) am. 
+
+
+—_— 
+
+
+Co wonioauw + ’” WwW 
+
+
+w NN ON 
+~ SBEserew epee tant &H = S 
+
+
+25 
+26 
+
+
+@ 390215 & 
+
+
+RESPECTFULLY SUBMITTED this TE day of July, 1995. 
+
+
+FRANKIE SUE DEL PAPA 
+Attorney General 
+
+
+Lal Melek. 
+
+
+Robert E. Wieland 
+Deputy Attorney General 
+Criminal Justice Division 
+(702) 687-3529 
+
+
+I hereby certify that I am an employee of the Office of the Attorney General of the Stat 
+of Nevada and on this /O'- day of July, 1995, I served a copy of the aod 
+OPPOSITION TO MOTION FOR APPOINTMENT OF COUNSEL, by mailing a copy thereof 
+
+
+to: 
+
+
+ANTONIO T. SLACK, #31395 
+Ely State Prison 
+
+P.O. Box 1989 
+
+Ely, Nevada 89301-1989 
+
+
+Ba: £ 
+
+
+CASE NO. 
+
+
+CASE CODE va's 
+DATE DOCKETED jO-2- 1X 
+
+
+SHORT TITLE 
+
+
+FULL TITLE 
+
+
+ons 1G 
+DATE DECIDED saan 3 ‘/- q) 
+
+
+DATE REHARING DENIED 
+
+
+nee wenaan sunon 44- 1D7¢X 
+OTHER COURT Ud 
+
+
+TIME QUESTION 
+
+
+APPLICATION EXTENSION 
+
+
+RULE 12.2 
+DKT LETTER NOTATION SERVE SG 
+MULTI PARTY TS _BS 
+
+
+RELATED CASE SCHEDULED FOR CONFERENCE. 
+
+
+VIDE. 
+
+
+THE PETITION FOR A WRIT OF CERT WAS DUE 
+
+
+BECAUSE THE PETITION WAS POSTMARKED 
+
+
+AND RECEIVED _IT WAS DOCKETED WITH 
+
+
+A NOTATION AS TO ITS UNTIMELINESS. 
+
+

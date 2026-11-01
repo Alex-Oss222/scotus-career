@@ -1,0 +1,48 @@
+
+
+CHRISTENSEN V. HARRIS COUNTY
+
+LII
+
+Supreme Court
+
+CHRISTENSEN V. HARRIS COUNTY (98-1167) 
+158 F.3d 241, affirmed.
+Syllabus
+ Opinion
+ [ Thomas ]Concurrence
+ [ Souter ]Concurrence
+ [ Opinion of Scalia ]Dissent
+ [ Stevens ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CHRISTENSEN et al. v. HARRIS COUNTY et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+No. 98—1167.  Argued February 23, 2000–Decided May 1, 2000
+
+The Fair Labor Standards Act of 1938 (FLSA), 29 U.S.C. § 201(o), permits States and their political subdivisions to compensate their employees for overtime work by granting them compensatory time in lieu of cash payment.  If the employees do not use their accumulated compensatory time, the employer must pay cash compensation under certain circumstances.  §§207(o)(3)—(4).  Fearing the consequences of having to pay for accrued compensatory time, Harris County adopted a policy requiring its employees to schedule time off in order to reduce the amount of accrued time.  Petitioners, county deputy sheriffs, sued, claiming that the FLSA does not permit an employer to compel an employee to use compensatory time in the absence of an agreement permitting the employer to do so.  The District Court granted petitioners summary judgment and entered a declaratory judgment that the policy violated the FLSA.  The Fifth Circuit reversed, holding that the FLSA did not speak to the issue and thus did not prohibit the county from implementing its policy.
+
+Held:  Nothing in the FLSA or its implementing regulations prohibits a public employer from compelling the use of compensatory time.  Petitioners’ claim that §207(o)(5) implicitly prohibits compelled use of compensatory time in the absence of an agreement is unpersuasive.  The proposition that when a statute limits a thing to be done in a particular mode, it includes a negative of any other mode, Raleigh & Gaston R. Co. v. Reid, 13 Wall. 269, 270, does not resolve this case in petitioners’ favor.  Section 207(o)(5) provides that an employee who requests to use compensatory time must be permitted to do so unless the employer’s operations would be unduly disrupted.  The negative inference to be drawn is only that an employer may not deny a request for a reason other than that provided in §207(o)(5).  Section 207(o)(5) simply ensures that an employee receive some timely benefit for overtime work.  The FLSA’s nearby provisions reflect a similar concern.  At bottom, the best reading of the FLSA is that it ensures liquidation of compensatory time; it says nothing about restricting an employer’s efforts to require employees to use the time.  Because the statute is silent on this issue and because the county’s policy is entirely compatible with §207(o)(5), petitioners cannot, as §216(b) requires, prove that the county has violated §207.  Two other features of the FLSA support this interpretation: Employers are permitted to decrease the number of hours that employees work, and employers also may cash out accumulated compensatory time by paying the employee his regular hourly wage for each hour accrued.  The county’s policy merely involves doing both of these steps at once.  A Department of Labor opinion letter taking the position that an employer may compel the use of compensatory time only if the employee has agreed in advance to such a practice is not entitled to deference under Chevron U.S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837.  Interpretations such as those in opinion letters–like interpretations contained in policy statements, agency manuals, and enforcement guidelines, all of which lack the force of law–do not warrant Chevron-style deference.  They are “entitled to respect,” but only to the extent that they are persuasive, Skidmore v. Swift & Co., 323 U.S. 134, 140, which is not the case here.  Chevron deference does apply to an agency interpretation contained in a regulation, but nothing in the Department of Labor’s regulation even arguably requires that an employer’s compelled use policy must be included in an agreement.  And deference to an agency’s interpretation of its regulation is warranted under Auer v. Robbins, 519 U.S. 452, 461, only when the regulation’s language is ambiguous, which is not the case here.  Pp. 5—12.
+
+158 F.3d 241, affirmed.
+
+    Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, and Souter, JJ., joined, and in which Scalia, J., joined except as to Part III.  Souter, J., filed a concurring opinion.  Scalia, J., filed an opinion concurring in part and concurring in the judgment.  Stevens, J., filed a dissenting opinion, in which Ginsburg and Breyer, JJ., joined.  Breyer, J., filed a dissenting opinion, in which Ginsburg, J., joined.
+

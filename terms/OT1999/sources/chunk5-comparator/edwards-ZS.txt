@@ -1,0 +1,42 @@
+
+
+EDWARDS V. CARPENTER
+
+LII
+
+Supreme Court
+
+EDWARDS V. CARPENTER (98-2060) 
+163 F.3d 938, reversed and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]Concurrence
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+EDWARDS, WARDEN v. CARPENTER
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+No. 98—2060.  Argued February 28, 2000–Decided April 25, 2000
+
+Respondent pleaded guilty while maintaining his innocence to Ohio murder and robbery charges in exchange for the prosecutor’s agreement that the plea could be withdrawn if the death penalty was imposed.  The Ohio Court of Appeals affirmed his conviction and sentence of imprisonment, and he did not appeal to the Ohio Supreme Court.  After pursuing state postconviction relief pro se, respondent, represented by new counsel, petitioned the Ohio Court of Appeals to reopen his direct appeal, claiming that his original appellate counsel was constitutionally ineffective in failing to challenge the sufficiency of the evidence supporting his conviction and sentence.  The court dismissed the application as untimely under Ohio Rule of Appellate Procedure 26(B), and the Ohio Supreme Court affirmed.  Respondent then filed a federal habeas petition, raising, inter alia, the sufficiency-of-the-evidence claim, and alleging that his appellate counsel was constitutionally ineffective in not raising that claim on direct appeal.  The District Court found that his ineffective-assistance-of-counsel claim was cause excusing the procedural default of his sufficiency-of-the-evidence claim because Rule 26(B) was not an adequate procedural ground to bar federal review of the ineffective-assistance claim; concluded that respondent’s appellate counsel was constitutionally ineffective; and granted the writ conditioned on the state appellate court’s reopening of respondent’s direct appeal of the sufficiency-of-the-evidence claim.  On cross-appeals, the Sixth Circuit held that the ineffective-assistance claim served as cause to excuse the default of the sufficiency-of-the-evidence claim, whether or not the former claim had been procedurally defaulted, because respondent had exhausted the ineffective-assistance claim by presenting it to the state courts in his application to reopen the direct appeal.  Finding prejudice from counsel’s failure to raise the sufficiency-of-the-evidence claim on direct appeal, it directed the District Court to issue the writ conditioned upon the state court’s according respondent a new culpability hearing.
+
+Held:  A procedurally defaulted ineffective-assistance claim can serve as cause to excuse the procedural default of another habeas claim only if the habeas petitioner can satisfy the “cause and prejudice” standard with respect to the ineffective-assistance claim itself.  The procedural default doctrine and its attendant “cause and prejudice” standard are grounded in comity and federalism concerns, Coleman v. Thompson, 501 U.S. 722, 730, and apply whether the default occurred at trial, on appeal, or on state collateral attack, Murray v. Carrier, 477 U.S. 478, 490—492.  Thus, a prisoner must demonstrate cause for his state-court default of any federal claim, and prejudice therefrom, before the federal habeas court will consider that claim’s merits.  501 U.S., at 750.  Counsel’s ineffectiveness in failing properly to preserve a claim for state-court review will suffice as cause, but only if that ineffectiveness itself constitutes an independent constitutional claim.  Carrier, supra, at 488—499.  The comity and federalism principles underlying the doctrine of exhaustion of state remedies require an ineffective-assistance claim to be presented to the state courts as an independent claim before it may be used to establish cause for a procedural default.  Carrier, supra, at 489.  The doctrine’s purposes would be frustrated if federal review were available to a prisoner who had presented his claim in state court, but in such a manner that the state court could not, under its procedural rules, have entertained it.  Pp. 4—7.
+
+163 F.3d 938, reversed and remanded.
+
+    Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined.  Breyer, J., filed an opinion concurring in the judgment, in which Stevens, J., joined.
+

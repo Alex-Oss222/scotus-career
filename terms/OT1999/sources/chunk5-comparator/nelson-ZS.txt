@@ -1,0 +1,44 @@
+
+
+NELSON V. ADAMS USA, INC.
+
+LII
+
+Supreme Court
+
+NELSON V. ADAMS USA, INC. (99-502) 
+175 F.3d 1343, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+NELSON v. ADAMS USA, INC., et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+
+No. 99—502.  Argued March 27, 2000–Decided April 25, 2000
+
+Ohio Cellular Products Corporation (OCP) sued respondent Adams USA, Inc. (Adams), for patent infringement.  The District Court dismissed OCP’s claim and ordered OCP to pay Adams’ costs and attorney fees.  In awarding costs and fees, the court determined that petitioner Nelson, president and sole shareholder of OCP, had deceitfully withheld from the United States Patent and Trademark Office prior art that rendered OCP’s patents invalid, and that this behavior constituted inequitable conduct chargeable to OCP.  Fearing that OCP might be unable to pay the fee, Adams moved under Rule 15 of the Federal Rules of Civil Procedure to amend its pleading to add Nelson, personally, as a party from whom fees could be collected.  Adams also asked the court, under Rule 59(e), to amend the judgment to make Nelson immediately liable for the fee award.  The District Court granted Adams’ motion in full.  In affirming the judgment entered against Nelson, the Federal Circuit acknowledged that it was “uncommon” to add a party after the entry of judgment.  Nevertheless, Nelson had not demonstrated prejudice, the Court of Appeals concluded, because he made no showing that anything different or additional would have been done to stave off the judgment had he been a party, in his individual capacity, from the outset.  That court, over a vigorous dissent, was apparently satisfied that the District Court’s simultaneous allowance of the pleading amendment and entry of judgment satisfied due process. 
+
+Held:  The District Court erred in amending the judgment immediately upon permitting amendment of the pleading.  Due process, as reflected in Rule 15 as well as Rule 12, required that Nelson be given an opportunity to respond and contest his personal liability for the fee award after he was made a party and before the entry of judgment against him.  Pp. 4—11.
+
+    (a)  Nelson was never afforded a proper opportunity to respond to the claim against him, but was adjudged liable the very first moment his personal liability was legally at issue.  The Federal Circuit observed that as long as no undue prejudice is shown, due process is met if Rule 15’s requirements for amended pleadings are met.  But the requirements of Rule 15 were not met here, and due process does not countenance such swift passage from pleading to judgment in the pleader’s favor.  Because the propriety of allowing a pleading alteration depends not only on the state of affairs prior to amendment but also on what happens afterwards, Rule 15 both conveys the circumstances under which leave to amend shall be granted and directs how the litigation will move forward following an amendment.  When a court grants leave to amend to add an adverse party after the time for responding to the original pleading has lapsed, Rule 15(a) gives the party so added “10 days after service of the amended pleading” to plead in response.  This opportunity to respond, fundamental to due process, is the echo of the opportunity to respond to original pleadings secured under Rule 12(a)(1).  Thus, Rule 15 assumes an amended pleading will be filed and anticipates service of that pleading on the adverse party.  Nelson was never served with an amended pleading.  Indeed, no such pleading was ever actually composed and filed in court.  Nor, after the amendment joining Nelson, was he accorded time to state his defenses against personal liability for costs and fees.  Instead, judgment was entered against him the moment permission to amend the pleading was granted.  Appeal after judgment, in the circumstances this case presents, did not provide an adequate opportunity to defend against the imposition of liability.  Cf. American Surety Co. v. Baldwin, 287 U.S. 156.  Nothing in the record indicates that Nelson affirmatively relinquished his right to respond on the merits of the case belatedly stated against him in his individual capacity.  That Nelson knew as soon as Adams moved to amend the pleading and alter the judgment that he might ultimately be subjected to personal liability does not mean that he in fact had a fair chance, before alteration of the judgment, to respond and be heard.  Rule 15 and the due process for which it provides demand a more reliable and orderly course.  First, as Rule 15(a) indicates, pleading in response to an amended complaint is a prerogative of parties, and Nelson was not a party prior to the District Court’s ruling on Adams’ motion to amend.  Second, as Rule 15 further prescribes, the clock on an added party’s time to respond does not start running until the new pleading naming that party is served, just as the clock on an original party’s time to respond does not start running until the original pleading is served, see Rule 12(a)(1)(A).  This is not to say that Rule 15 is itself a constitutional requirement.  Beyond doubt, however, a prospective party cannot fairly be required to answer an amended pleading not yet permitted, framed, and served.  Pp. 4—7.
+
+      (b)  Adams’ arguments that Nelson waived his objections to the swift process of the District Court are rejected.  First, the assertion that Nelson waived personal jurisdiction and absence-of-service arguments is beside the point because Nelson’s winning argument is based neither on personal jurisdiction nor on service of process.  Second, the submission that Nelson waived the due process issues presented here is unavailing because his counsel explained in the Federal Circuit that the core of Nelson’s argument was the fundamental unfairness of imposing judgment without going through the litigation process the Rules prescribe.  Further, both the majority and the dissent below understood that an issue before them concerned the process due after Adams’ postjudgment motion.  Also rejected is Adams’ essential position that there was sufficient identity between Nelson and OCP to bind Nelson, without further ado, to a judgment already entered against OCP.  Because Nelson, as president and sole shareholder of OCP, had withheld prior art from the Patent Office, had actual notice that Adams was seeking to collect a fee award from OCP, was the “effective controller” of the litigation for OCP, and had personally participated as a witness at the hearing on whether OCP had engaged in inequitable conduct, the Federal Circuit concluded that nothing different or additional would have been done had Nelson been a party from the outset.  Judicial predictions about the outcome of hypothesized litigation cannot substitute for the actual opportunity to defend that due process affords every party against whom a claim is stated.  The decision here does not insulate Nelson from liability, but simply ensures him the right, afforded by due process, to contest on the merits his personal liability for fees originally sought and awarded solely against OCP. Pp. 7—11.
+
+175 F.3d 1343, reversed and remanded.
+
+    Ginsburg, J., delivered the opinion for a unanimous Court.
+

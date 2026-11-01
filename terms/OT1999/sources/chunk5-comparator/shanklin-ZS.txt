@@ -1,0 +1,44 @@
+
+
+NORFOLK SOUTHERN R. CO. V. SHANKLIN
+
+LII
+
+Supreme Court
+
+NORFOLK SOUTHERN R. CO. V. SHANKLIN (99-312) 
+173 F.3d 386, reversed and remanded.
+Syllabus
+ Opinion
+ [ O’Connor ]Concurrence
+ [ Breyer ]Dissent
+ [ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+NORFOLK SOUTHERN RAILWAY CO. v. SHANKLIN, individually and as next friend of SHANKLIN
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+No. 99—312.  Argued March 1, 2000–Decided April 17, 2000
+
+The Federal Railroad Safety Act of 1970 (FRSA) authorizes the Secretary of Transportation to promulgate regulations and issue orders for railroad safety, and it requires the Secretary to maintain a coordinated effort to solve railroad grade crossing problems.  The FRSA also has an express pre-emption provision.  One regulation promulgated by the Secretary, through the Federal Highway Administration (FHWA), addresses the adequacy of warning devices installed under the Federal Railway-Highway Crossings Program (Crossings Program).  That program provides funds to States for the construction of such devices pursuant to the Highway Safety Act of 1973.  According to the regulation, adequate warning devices installed using federal funds, where any of several conditions are present, are automatic gates and flashing lights.  23 CFR § 646.214(b)(3).  For crossings where those conditions are not present, a State’s decision about what devices to install is subject to FHWA approval.  §646.214(b)(4).  Respondent’s husband was killed when petitioner’s train hit his vehicle at a crossing with advance warning signs and reflectorized crossbucks that the Tennessee Department of Transportation (TDOT) had installed using federal funds under the Crossings Program.  The signs were installed and fully compliant with applicable federal standards.  Respondent brought a diversity wrongful death action in federal court, alleging that petitioner was negligent in, among other things, failing to maintain adequate warning devices at the crossing.  The District Court denied petitioner’s summary judgment motion, holding that the FRSA did not pre-empt respondent’s inadequate warning device claim.  After a trial, the jury awarded respondent damages on this and other negligence issues.  The Sixth Circuit affirmed.
+
+Held:  The FRSA, in conjunction with §§646.214(b)(3) and (4), pre-empts state tort claims concerning a railroad’s failure to maintain adequate warning devices at crossings where federal funds have participated in the devices’ installation.  In CSX Transp., Inc. v. Easterwood, 507 U.S. 658, 670, this Court held that, because §§646.214(b)(3) and (4) “establish requirements as to the installation of particular warning devices,” “when they are applicable, state tort law is pre-empted.”  Thus, the sole question here is whether they “are applicable” to all warning devices actually installed with federal funds.  Easterwood answers this question as well, because it held that the requirements in (b)(3) and (4) are mandatory for all such devices.  Id., at 666.  They establish a standard of adequacy that determines the type of warning device to be installed when federal funds participate in the crossing improvement project.  Once the FHWA has approved and funded the improvement and the devices are installed and operating, the regulation displaces state and private decisionmaking authority with a federal-law requirement.  Importantly, this is precisely the interpretation of §§646.214(b)(3) and (4) that the FHWA endorsed in Easterwood.  The Government’s position here–that (b)(3) and (4) only apply where the warning devices have been selected based on diagnostic studies and particularized analyses of a crossing’s conditions–is not entitled to deference, because it contradicts the regulation’s plain text as well as the FHWA’s own previous construction that the Court adopted as authoritative in Easterwood.  Respondent’s argument that pre-emption does not apply here because this crossing presented several (b)(3) factors, and because the TDOT did not install pavement markings required by the FHWA’s Manual on Uniform Traffic Control Devices, misconceives how pre-emption operates under these circumstances.  If they are applicable, §§696.214(b)(3) and (4) establish a federal standard for adequacy that displaces state tort law addressing the same subject.  Whether the State should have originally installed different or additional devices, or whether conditions at the crossing have since changed such that different devices would be appropriate, is immaterial.  Nothing prevents a State from revisiting the adequacy of devices installed using federal funds, or from installing more protective devices at such crossings with their own funds or additional FHWA funding, but the State cannot hold the railroad responsible for the adequacy of those devices.  Pp. 6—14.
+
+173 F.3d 386, reversed and remanded.
+
+    O’Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, Souter, Thomas, and Breyer, JJ., joined.  Breyer, J., filed a concurring opinion.  Ginsburg, J., filed a dissenting opinion, in which Stevens, J., joined.
+

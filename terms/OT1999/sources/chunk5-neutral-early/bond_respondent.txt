@@ -1,0 +1,2102 @@
+as if ab. 
+| J) urt U.S. 
+woo br Supreme Cour “ 
+Jan 7 yj Se E 1 E E 
+o. 98.9349 JAN 7 
+In the Supreme Court of the United States 
+
+
+STEVEN DEWAYNE BOND, PETITIONER 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+JAMES K. ROBINSON 
+Assistant Attorney General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+JEFFREY A. LAMKEN 
+Assistant to the Solicitor 
+General 
+KIRBY A. HELLER 
+Attorney 
+Department of Justice 
+; Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTION PRESENTED 
+
+
+Whether an officer’s handling of the exterior of lug- 
+gage stored in an overhead baggage area of a passenger 
+bus is a “search” within the meaning of the Fourth 
+Amendment. 
+
+
+: 
+ree an swe ft I ee NS . 
+
+
+TABLE OF CONTENTS 
+
+
+Opinions below 
+Jurisdiction 
+Constitutional provision involved 
+Statement 
+Summary of argument 
+Argument: 
+An officer’s touching of the exterior of luggage stored 
+in an overhead luggage bin shared with other pas- 
+sengers is not a search within the meaning of the 
+Fourth Amendment 
+I. The handling of petitioner’s soft bag was not a 
+search because petitioner knowingly exposed 
+it to public handling 
+
+
+A. What one knowingly exposes to public obser- 
+vation is not subject to Fourth Amendment 
+protection 
+
+
+B. Luggage placed in overhead racks is know- 
+ingly exposed to public handling and the ob- 
+servations that can be made through such 
+handling 
+
+II. Feeling the exterior of luggage left open to public 
+touching is not a “search” of its contents 
+
+A. Handling the exterior of luggage exposed 
+to public contact does not violate reason- 
+able privacy expectations 
+
+B. Officers are not limited to “casual” or “inci- 
+dential” observations of matters exposed 
+to their senses 
+
+C. Officer Cantu’s handling of petitioner’s gym 
+bag did not meaningfully differ from reason- 
+ably foreseeable handling 
+
+
+(IIT) 
+
+
+sw wend 
+
+
+10 
+
+
+10 
+
+
+10 
+
+
+13 
+
+
+41 
+
+
+IV 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Arizona v. Hicks, 480 U.S. 321 (1987) 24, 25, 26, 38 
+California v. Ciraolo, 476 U.S. 207 (1986). passim 
+California v. Greenwood, 486 U.S. 35 (1988) 7, 10, 
+
+11, 12, 22, 23 
+Cole v. Turner, 90 Eng. Rep. 958 (1705) 28 
+Dow Chemical Co. v. United States, 476 U.S. 227 
+
+(1986) 32 
+Fields v. Cummins Employees Fed. Credit Union, 
+
+540 N.E.2d 631 (Ind. Ct. App. 1989) 29 
+Fisher v. Carrousel Motor Hotel, Inc., 424 S. W. 2d 627 
+
+(Tex. 1967) 28 
+Florida v. Riley, 488 U.S. 445 (1989) —— 11, 12, 13, 21, 22, 24 
+Goldman v. United States, 316 U.S. 129 (1942) — 29, 30 
+Jackson, Ex parte, 96 U.S. 727 (1877) 11, 29, 37 
+Jung-Leonczynska v. Steup, 803 P.2d 1358 (Wyo. 
+
+1990) 28, 29 
+Katz v. United States, 389 U.S. 347 (1967) ..... 5, 7, 10, 23, 30 
+Lo- Ji Sales, Inc. v. New York, 442 U.S. 319 (1979) ......... 37 
+Maryland v. Macon, 472 U.S. 463 (1985) .. 23, 37 
+Mincey v. Arizona, 437 U.S. 385 (1978) 25 
+Minnesota v. Carter, 525 U.S. 83 (1998) 13 
+Minnesota v. Dickerson, 508 U.S. 366 (1993) 24, 25, 38 
+Miranda v. Arizona, 384 U.S. 436 (1966) 3 
+Olmstead v. United States, 277 U.S. 438 (1928) 30 
+
+
+People v. Burns, 540 N. V. S. 2d 157 (Sup. Ct. 1989) , 
+aff’d, 582 N.Y.S.2d 234 (App. Div.), appeal denied, 
+
+
+600 N.E.2d 652 (1992) 19 
+People v. Santana, 73 Cal. Rptr. 2d 886 (Ct. App. 
+
+1998) 14. 19 
+Rakas v. Illinois, 439 U.S. 128 (1978) 22 
+Scott v. State, 927 P.2d 1066 (Okla. Crim. App. 1996) ..... 19 
+Silverman v. United States, 365 U.S. 505 (1961) . 27, 29 
+Smith v. Maryland, 442 U.S. 735 (1979) 10, 13 
+
+
+V 
+Cases Continued: Page 
+Sprowls v. State, 433 So. 2d 1271 (Fla. Dist. Ct. App. 
+
+1983) 19 
+Stanberry v. State, 684 A.2d 823 (Md. 1996) ly 
+State v. Killean, 907 P.2d 550 (Ariz. Ct. App. 1995), 
+
+vacated on other grounds, 915 P.2d 1225 (1996) .............. 32 
+State v. Lancellotti, 595 N.W.2d 558 (Neb. Ct. App. 
+
+1999) 19, 32 
+State v. Millan, 916 P.2d 1114 (Ariz. Ct. App. 1996) . 19, 27 
+State v. Peters, 941 P.2d 228 (Ariz. 1997) 19 
+State v. Quintanilla, No. A-99-201, 1999 WL 1063085 
+
+(Neb. Ct. App. Aug. 11, 1999) 19, 30, 31 
+Terry v. Ohio, 392 U.S. 1 (1968) 22, 24, 25, 26 
+Texas v. Brown, 460 U.S. 730 (1983) ........ 9, 12, 24, 34, 35, 36 
+United States v. Bronstein, 521 F.2d 459 (2d Cir. 1975), 
+
+cert. denied, 424 U.S. 918 (1976) 18-19 
+United States v. Dunn, 480 U.S. 294 (1987) ....... 8, 11, 24, 33 
+
+
+United States v. Garcia, 849 F.2d 917 (5th Cir. 1988) . 5, 18 
+United States v. Gault, 92 F.3d 990 (10th Cir.), cert. 
+
+
+denied, 519 U.S. 939 (1996) 18, 39 
+United States v. Guzman, 75 F.3d 1090 (6th Cir.), 
+
+cert. denied, 519 U.S. 906 (1996) 6, 17 
+United States v. Gwinn, 191 F.3d 874 (8th Cir. 
+
+1999) 18, 33 
+United States v. Harvey, 961 F.2d 1361 (8th Cir.), 
+
+cert. denied, 506 U.S. 883 (1992) 6, 17-18 
+United States v. Karo, 468 U.S. 705 (1984) 12, 27, 32 
+United States v. Knotts, 460 U.S. 276 (1983) .. 9, 12, 35, 36 
+United States v. Lee, 274 U.S. 559 (1927) 11, 34 
+United States v. Lovell, 849 F.2d 910 (5th Cir. 
+
+1988) 4-5, 31-32, 39 
+United States v. McDonald, 100 F.3d 1320 (7th Cir. 
+
+1996), cert. denied, 520 U.S. 1258 (1997) ... 6, 14, 15, 17, 31 
+United States v. Nicholson, 144 F.3d 632 (10th Cir. 
+
+1998) 6, 18, 33, 39 
+
+
+United States v. Place, 462 U.S. 696 (1983) . 29, 31 
+
+
+VI 
+
+
+Cases Continued: Page 
+United States v. Russell, 670 F.2d 323 (D. C. Cir.), cert. 
+denied, 457 U.S. 1108 (1982) 20 
+United States v. Viera, 644 F. 2d 509 (5th Cir.), cert. 
+denied, 454 U.S. 867 (1981) 32, 39 
+Whren v. United States, 517 U.S. 806 (1996) ................ 34, 38 
+Constitution and statutes: 
+U.S. Const.: 
+Amend. I 37 
+Amend. IV passim 
+21 U.S.C. 841(a)(1) 2 
+21 U.S.C. 846 2 
+Miscellaneous: 
+
+
+G. Barker, Internet Crosstalk at Isswe: Carry-on Bags 
+
+for Air Travelers, The Fort Worth Star-Telegram, 
+
+Nov. 23, 1997 16 
+S. Bennett, Airing Out Miles and Miles of Aggrava- 
+
+tions When Flying, Pittsburgh Post-Gazette, Feb. 
+
+
+3, 1999 16 
+John Bernard, Retrospections of America 1797-1811 
+
+(1887) 16 
+Carry-on Troubles, Kan. City Star, June 1, 1999 ............... 15 
+William J. Cuddihy, The Fourth Amendment: Origins 
+
+and Original Meaning (1990) 26 
+2 John M. Duncan, Travel Through Part of the United 
+
+States and Canada in 1818 and 1819 (1822) 16 
+M. Eagen, Familiar Anger Takes Flight with Airline 
+
+Tussles, Boston Herald, Aug. 15, 1999 15 
+D. Field, Passengers’ Horror Stores Illustrate Air- 
+
+lines’ Ills, USA Today, Dec. 14, 1999 16 
+J. Flinn, Confessions of a Once-Only Carry-On Guy, 
+
+S.F. Examiner, Sept. 6, 1998 15 
+Benjamin Gale, Brief Remarks on Several Laws 
+
+(1782) 26 
+
+
+Samuel Reynolds Hole, A Little Tour in America 
+(1895) 16 
+
+
+VII 
+
+
+Miscellaneous Continued: 
+
+
+Oliver W. Holmes & Peter T. Rohrbach, Stagecoach 
+East (1983) 
+A. Knowles, Get the Complete Picture, Datamation, 
+Oct. 1, 1997 
+1 Wayne R. LaFave, Search and Seizure (3d ed. 1996) ... 
+T. Massingill, Decade of Prosperity Means More Fliers, 
+More Complaints, Knight-Ridder Tribune Bus. News, 
+Mar. 28, 1999 
+Oh, What A Carry On: Might It Be Time for Airlines 
+to Restrict Both Luggage and Children on Planes?, 
+The Economist, Dec. 18, 1999 
+William L. Prosser & W. Page Keeton, The Law of Torts 
+(5th ed. 1984) 
+Restatement (Second) of Torts (1965) 
+Rocky Mountain News Television Broadcast, United's 
+New Carry-on Rule Takes Off (May 16, 1998) 
+Deborah Shinn et al., Bon Voyage: Designs for Travel 
+(1986) 
+Barbara Vancheri, Perfect Pitches, Pittsburgh Post- 
+Gazette, June 30, 1999 
+
+
+G. Withiam, About Those Carryons, Cornell Hotel & 
+Rest. Admin. Q., Feb. 1, 1998 
+
+
+10, 20 
+
+
+15 
+
+
+In the Supreme Court of the United States 
+
+
+No. 98-9349 
+STEVEN DEWAYNE BOND, PETITIONER 
+
+
+*. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (J.A. 36-42) is 
+reported at 167 F.3d 225. The orders of the district 
+court denying petitioner’s motion to suppress (J.A. 20- 
+25) and his motion for reconsideration (J.A. 26-28) are 
+unreported. 
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+February 8, 1999. The petition for a writ of certiorari 
+was filed on May 10, 1999 (a Monday), and certiorari 
+was granted, limited to question 1 presented by the 
+petition, on October 12, 1999. 120 S. Ct. 320-321. The 
+jurisdiction of this Court rests on 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+2 
+
+
+CONSTITUTIONAL PROVISION INVOLVED 
+
+
+The Fourth Amendment to the Constitution pro- 
+vides: 
+
+
+The right of the people to be secure in their persons, 
+houses, papers, and effects, against unreasonable 
+searches and seizures, shall not be violated, and no 
+Warrants shall issue, but upon probable cause, 
+supported by Oath or affirmation, and particularly 
+describing the place to be searched, and the persons 
+or things to be seized. 
+
+
+U.S. Const. Amend. IV. 
+STATEMENT 
+
+
+Following a bench trial in the United States District 
+Court for the Western District of Texas, petitioner was 
+convicted of possessing methamphetamine with intent 
+to distribute it, in violation of 21 U.S.C. 841(a)(1), and of 
+conspiring to commit that offense, in violation of 21 
+U.S.C. 846. He was sentenced to 57 months of impris- 
+onment, to be followed by three years of supervised 
+release. J.A. 29-32. The court of appeals affirmed. J.A. 
+36. 
+
+1. On July 17, 1997, petitioner was a passenger on a 
+Greyhound bus when it stopped at the permanent 
+Border Patrol checkpoint at Sierra Blanca, Texas. J.A. 
+20, 36-37. The bus, with about 45 passengers on board, 
+was nearly full. Tr. 25, 67. The passengers’ luggage 
+was stored in overhead bins above the seats. Because 
+of the large number of passengers on board the bus, the 
+bins had “a lot” of luggage in them. Tr. 80. 
+
+
+1 As the court of appeals noted, the record is unclear as to 
+whether the overhead luggage bins on the bus were of the open or 
+closed type. J. A. 38 n. 1. See also J. A. 9. 
+
+
+3 
+
+
+During the stop, Border Patrol Agent Cesar Cantu 
+boarded the bus and checked the immigration status of 
+the passengers, moving from the front of the bus to the 
+rear. J. A. 20-21, 37. See also J. A. 8. By the time Agent 
+Cantu reached the back of the bus, he was satisfied that 
+all of the passengers were lawfully in the United States. 
+J. A. 9, 37. Because the bus had no rear door, Agent 
+Cantu returned to exit through the front. J. A. 41. See 
+also J.A. 9, 27. 
+
+As he walked toward the front of the bus, Agent 
+Cantu “checked the luggage racks above the heads of 
+the seated passengers” and, “on occasion, he * * * felt 
+the suitcases, clothing bags, backpacks or other items 
+contained in the luggage rack.” J.A. 21. See also J.A. 
+27, 37. According to the district court: 
+
+
+As [Agent Cantu] came to [petitioner’s] row, some- 
+thing about a softsided green cloth bag in the over- 
+head compartment attracted his attention. He 
+touched the outside of the bag, and could feel a 
+bricklike object. 
+
+
+J. A. 27. See also J. A. 11, 21. Based on his experience, 
+Agent Cantu suspected that the brick-like object might 
+be a package of narcotics. J.A. 21,27. See also J.A. 12. 
+
+Accordingly, Agent Cantu asked who owned the bag, 
+and petitioner acknowledged that the bag was his. J.A. 
+21, 27, 37. See also J.A. 13. After a short conversation, 
+petitioner—who seemed nervous—consented to a 
+search of the contents of the bag. Ibid. Inside the bag, 
+in the leg of a pair of pants, Agent Cantu discovered a 
+brick of methamphetamine measuring approximately 
+six or seven inches long by four or five inches wide; the 
+brick weighed 1.3 pounds. J.A. 21-22. 
+
+After petitioner was advised of his Miranda rights, 
+see Miranda v. Arizona, 384 U.S. 436 (1966), he told 
+
+
+4 
+
+
+Agent Cantu that he was delivering the methampheta- 
+mine from California to Little Rock, Arkansas. J.A. 21- 
+22,37. Later that same day, petitioner confessed again, 
+this time to a different law enforcement officer. J.A. 22, 
+24; Tr. 47-49. 
+
+2. Petitioner moved to suppress the evidence ob- 
+tained from his bag and his subsequent statements. 
+The district court held a hearing, at which Agent Cantu 
+and petitioner both testified. 
+
+Agent Cantu explained that, as he walked down the 
+aisle of the bus, he squeezed petitioner’s green canvas 
+bag and felt a relatively solid, brick-shaped object 
+inside. J.A. 10-11. He described his squeeze of the bag 
+as “hard,” but not so hard that it would break anything. 
+Id. at 15. Petitioner’s testimony did not contradict 
+Agent Cantu’s. He stated that, after Agent Cantu 
+“reached for” his bag, Agent Cantu “shook it a little, 
+and squeezed it, and then sniffed it, and then * * * 
+asked me if it was my bag.” J.A. 18. 
+
+Following the hearing, the district court denied peti- 
+tioner’s motion to suppress. J.A. 20-25. The district 
+court found that Agent Cantu, in the course of making 
+an authorized inspection of the bus and its luggage 
+areas, “felt the outside of [petitioner’s] softside green 
+cloth bag” and that “[iJn doing so, he felt the presence of 
+a solid mass reminiscent of a brick.” J.A. 23. “It is well 
+settled,” the district court concluded, “that the mini- 
+mally intrusive touching of the exterior of a bag located 
+in the luggage compartment of a common carrier is 
+neither a search nor a seizure within the meaning of the 
+Fourth Amendment.” J.A. 23 (citing United States v. 
+
+
+„ 
+
+
+5 
+
+
+Lovell, 849 F.2d 910 (5th Cir. 1988), and United States 
+v. Garcia, 849 F.2d 917 (5th Cir. 1988)).’ 
+
+Petitioner filed a motion for reconsideration, which 
+the district court denied. J.A. 26-28. After rejecting 
+petitioner’s contention that Agent Cantu’s inspection of 
+the luggage racks caused the bus to be stopped for an 
+unreasonable period of time, J.A. 26-27, the district 
+court reiterated that Agent Cantu’s “minimally intru- 
+sive touching of the exterior of” petitioner’s green can- 
+vas athletic bag in the overhead luggage compartment 
+“was neither a search nor a seizure within the meaning 
+of the Fourth Amendment.” J.A. 28. 
+
+Following a bench trial on stipulated facts, petitioner 
+was convicted on both counts charged. J.A. 37, 29-35. 
+
+3. Petitioner appealed, and the court of appeals af- 
+firmed. J.A. 36-42. The court of appeals first rejected 
+petitioner’s claim that Agent Cantu, in touching the ex- 
+terior of petitioner’s luggage, had conducted a “search” 
+within the meaning of the Fourth Amendment. Relying 
+on the principle that “[wJhat a person knowingly ex- 
+poses to the public * * * is not a subject of Fourth 
+Amendment protection,” J.A. 38 (quoting Katz v. 
+United States, 389 U.S. 347, 351 (1967)), the court of 
+appeals concluded that petitioner had knowingly ex- 
+posed the exterior of his canvas bag to touching by 
+others. Petitioner, the court observed, had stored his 
+gym bag in the overhead luggage bin, a common area of 
+the Greyhound bus, where “it was foreseeable that [it] 
+
+
+2 The district court did suppress evidence from a search of the 
+backpack of petitioner’s traveling companion and co-defendant, 
+Jason Wiggs. The district court found that Wiggs, unlike peti- 
+tioner, had been arrested without probable cause before metham- 
+phetamine was found in Wiggs’s luggage. J.A. 24-25. 
+
+
+6 
+
+
+would be squeezed, moved, and manipulated by others.” 
+J.A. 38. As the court explained: 
+
+
+On common carriers, passengers often handle and 
+manipulate other passengers’ luggage while stowing 
+or retrieving their own luggage. By placing his bag 
+in the overhead bin, [petitioner] knowingly exposed 
+it to the public and, therefore, did not have a reason- 
+able expectation that his bag would not be handled 
+or manipulated by others. 
+
+
+J.A. 38-39 (citing United States v. McDonald, 100 F.3d 
+
+
+1320, 1327 (7th Cir. 1996), cert. denied, 520 U.S. 1258 
+
+
+(1997); United States v. Guzman, 75 F.3d 1090, 1095 
+(6th Cir.), cert. denied, 519 U.S. 906 (1996); United 
+States v. Harvey, 961 F.2d 1361, 1364 (8th Cir.), cert. 
+denied, 506 U.S. 883 (1992)). Petitioner, the court of 
+appeals further noted, “[c]oncede[d] that other passen- 
+gers had access to his bag.” J.A. 39. 
+
+The court of appeals also rejected petitioner’s reli- 
+ance on United States v. Nicholson, 144 F.3d 632, 639 
+(10th Cir. 1998). In that case, the Tenth Circuit held 
+that a law enforcement officer’s manipulation of lug- 
+gage stored in an overhead luggage bin constituted a 
+search because the officer’s handling of the bag, unlike 
+the handling that might be expected by a fellow 
+passenger, was designed to reveal contraband. See J.A. 
+40 (characterizing Nicholson). For Fourth Amendment 
+purposes, the court of appeals held, it was irrelevant 
+that Agent Cantu’s handling of petitioner’s bag was cal- 
+culated to detect contraband. J.A. 40 (citing California 
+v. Ciraolo, 476 U.S. 207 (1986)). 
+
+The court of appeals also rejected petitioner’s claim 
+that Agent Cantu discovered the methamphetamine 
+during an unlawful detention of the bus, after the 
+immigration inspection had been completed. J.A. 40-41. 
+
+
+te —— 
+
+
+7 
+
+
+Pointing out that there was “no evidence that Agent 
+Cantu’s inspection of the overhead luggage compart- 
+ment delayed the bus’ departure more than an addi- 
+tional one or two minutes,” the court concluded that 
+“the trivial delay caused by Agent Cantu’s inspection 
+did not violate the strict limits of a border checkpoint 
+stop.” J.A. 41. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. A Fourth Amendment search occurs when a gov- 
+ernment official makes observations that infringe on a 
+legitimate expectation of privacy. Such an infringe- 
+ment is shown only when an individual has “manifested 
+a subjective expectation of privacy,” and society ac- 
+cepts that privacy expectation “as objectively rea- 
+sonable.” California v. Greenwood, 486 U.S. 35, 39 
+(1988). In contrast, “[w]hat a person knowingly exposes 
+to the public, even in his own home or office, is not a 
+subject of Fourth Amendment protection.” Katz v. 
+United States, 389 U.S. 347, 351 (1967). 
+
+In this case, Agent Cantu acquired, through the 
+sense of touch, only such information about petitioner’s 
+soft-sided bag as was made available to the public. 
+Petitioner chose to transport his relatively large brick 
+of narcotics halfway across the country inside a soft, 
+canvas athletic bag—a bag that had the obvious poten- 
+tial of revealing the presence of solid objects inside 
+when compressed—and then placed that soft bag on the 
+bus’s overhead rack, an area accessible to and shared 
+with other passengers on the bus. It is well known that 
+passengers on common carriers and common carrier 
+employees often move, push, compress, and otherwise 
+handle luggage stored in shared areas like overhead 
+racks as they attempt to make room for or remove 
+other bags. 
+
+
+8 
+
+
+Under those circumstances, petitioner had no rea- 
+sonable expectation that the brick-like object in his 
+canvas bag—which occupied one third of his bag’s 
+length and one third of its width—would remain unde- 
+tected by the routine handling to which the bag was 
+exposed. Indeed, Agent Cantu noticed the brick 
+merely by squeezing petitioner’s soft gym bag, hard but 
+not so hard as to break anything inside, J.A. 10-11, 15, 
+23, an action the district court described as “minimally 
+intrusive,” J.A. 28. It is not a Fourth Amendment 
+search for a law enforcement officer to make the same 
+observations that could have been made by any other 
+passenger or other member of the public handling the 
+bag in a reasonably foreseeable manner. 
+
+II. There is no basis for treating Agent Cantu’s 
+handling of the bag as a Fourth Amendment search on 
+the theory that his actions were physically intrusive or 
+excessively revealing of the contents of the bag. The 
+intrusion was no more than petitioner could expect 
+from the public. Having exposed his baggage to such 
+handling by a host of others, he cannot claim an 
+unwanted physical invasion when similar action is taken 
+by the police—any more than a store owner who invites 
+the public to shop can complain about similar entry by 
+the police, or the former owner of garbage put out in a 
+can for collection can complain if the can is physically 
+opened and inspected by the police. Once a possession 
+is opened to public inspection, the police may inspect it 
+as well, even if that may involve physical entry. And 
+the fact that tactile inspection of a bag’s exterior may 
+reveal information about its contents no more estab- 
+lishes a search than when officers standing on a public 
+sidewalk or in open fields make observations of the 
+contents of a car or a house. Cf. United States v. Dunn, 
+480 U.S. 294 (1987) (observation through a window); 
+
+
+9 
+
+
+Texas v. Brown, 460 U.S. 730 (1983) (observation of the 
+interior of a car). 
+
+Petitioner is not assisted by the fact that a Terry 
+frisk—the touching of a person—is a search. The touch- 
+ing of a bag is quite different from the touching of one’s 
+person. Bags may be placed in locations where they are 
+knowingly exposed to public handling and to conse- 
+quent tactile observation; but it would be a rare case in 
+which a person’s body is said to be so exposed. 
+
+In any event, the handling of petitioner’s bag in this 
+case was not “physically intrusive” or particularly re- 
+vealing of its contents. Handling a bag does not pene- 
+trate the physical barrier that the bag creates between 
+its contents and the rest of the world. And the infor- 
+mation that can be learned from such handling extends 
+only to the presence of large and relatively solid items 
+positioned in a way that exposes them to observation 
+by the sense of touch from the outside, i. e., those items 
+anyone handling the bag might have detected. 
+
+Finally, Agent Cantu’s actions cannot be labeled a 
+search on the theory that they involved a purposeful 
+manipulation in contrast to the sort of “casual” or 
+“incidental” contact that might be expected from other 
+members of the public. The purpose or motive of the 
+officer has no bearing on whether there has been a 
+“search.” And once an item is exposed to inspection, 
+this Court has held, officers may make more extensive, 
+more thorough, and more focused observations than 
+would ordinarily be made by members of the public. 
+See United States v. Knotts, 460 U.S. 276 (1983) 
+(surveillance of movements through public streets for 
+extended period of time); California v. Ciraolo, 476 
+U.S. 207 (1986) (focused aerial observation); Texas v. 
+Brown, supra (intentional effort to see inside car by 
+changing position and bending down). 
+
+
+10 
+
+
+ARGUMENT 
+
+
+AN OFFICER’S TOUCHING OF THE EXTERIOR OF 
+LUGGAGE STORED IN AN OVERHEAD LUGGAGE 
+BIN SHARED WITH OTHER PASSENGERS IS NOT 
+A SEARCH WITHIN THE MEANING OF THE 
+FOURTH AMENDMENT 
+
+
+I. The Handling Of Petitioner’s Soft Bag Was Not 
+A Search Because Petitioner Knowingly Ex- 
+
+
+posed It To Public Handling 
+
+
+A. What One Knowingly Exposes To Public Obser- 
+vation Is Not Subject To Fourth Amendment 
+Protection 
+
+
+Not all observations made by police, through sight 
+or through other senses, implicate the Fourth Amend- 
+ment. 1 Wayne R. LaFave, Search and Seizure, 
+§ 2.1(a), at 380 (3d ed. 1996). Instead, an officer’s obser- 
+vation infringes on a constitutionally protected privacy 
+interest, and constitutes a “search” within the meaning 
+of the Fourth Amendment, only if two conditions are 
+met. First, the individual claiming infringement must 
+have “manifested a subjective expectation of privacy”; 
+second, society must accept that expectation “as objec- 
+tively reasonable.” California v. Greenwood, 486 U.S. 
+35, 39 (1988); California v. Ciraolo, 476 U.S. 207, 211 
+(1986); Smith v. Maryland, 442 U.S. 735, 740 (1979). 
+
+Consistent with that approach, this Court has long 
+held that “[wJhat a person knowingly exposes to the 
+public, even in his own home or office, is not a subject of 
+Fourth Amendment protection.” Katz v. United States, 
+389 U.S. 347, 351 (1967); Ciraolo, 476 U.S. at 213; 
+Greenwood, 486 U.S. at 41. Consequently, this Court 
+has also recognized that law enforcement officers “may 
+see what may be seen ‘from a public vantage point’” 
+
+
+11 
+
+
+without triggering constitutional concerns. Florida v. 
+Riley, 488 U.S. 445, 449 (1989) (plurality opinion) (quot- 
+ing Ciraolo, 476 U.S. at 213). As this Court explained 
+in Ciraolo, 476 U.S. at 213, “the mere fact that an 
+individual has taken measures to restrict some views” 
+does not “preclude an officer’s observations from a pub- 
+lie vantage point where he has a right to be.” See also 
+Greenwood, 486 U.S. at 40 (garbage exposed “to the 
+public sufficiently to defeat the[] claim of Fourth 
+Amendment protection”); United States v. Dunn, 480 
+U.S. 294, 303-304 (1987) (even if building “could not be 
+entered * * * without a warrant,” observation of inte- 
+rior made from outside, while standing in open fields or 
+a public place, not a Fourth Amendment search). 
+
+The distinction between matters opened to public ob- 
+servation, and those protected against it, is well estab- 
+lished. Over a century ago, in Ex Parte Jackson, 96 
+U.S. 727, 733 (1877), this Court explained that postal 
+inspectors could review the contents of unsealed pam- 
+phlets and other open printed materials placed in the 
+mail, and could examine sealed letters and packages “as 
+to their outward form and weight,” but held that the 
+Fourth Amendment barred them from opening printed 
+materials “closed against inspection.” Fifty years later, 
+the Court employed similar analysis in United States v. 
+Lee, 274 U.S. 559 (1927), to conclude that using a 
+searchlight to observe contraband on a ship’s deck was 
+not a “search” within the meaning of the Fourth 
+Amendment. See id. at 561. The contraband, the Court 
+explained, was sitting “on the deck” in public view; the 
+observations were made before the boat was boarded; 
+and there was no “exploration below decks or under 
+hatches.” Jd. at 563. Under those circumstances, “no 
+search on the high seas [was] shown.” [bid. 
+
+
+12 
+
+
+In the seven decades since Lee, this Court repeatedly 
+has applied the distinction between items protected 
+against observation and those exposed to public percep- 
+tion. For example, in United States v. Knotts, 460 U.S. 
+276, 281 (1983), the Court approved extended police 
+surveillance of a car’s movements, using a beeper, be- 
+cause a “person travelling in an automobile on public 
+thoroughfares has no reasonable expectation of privacy 
+in his movements from one place to another.” Id. at 
+281. See United States v. Karo, 486 U.S. 705, 715 (1984) 
+(“The information obtained in Knotts was ‘voluntarily 
+conveyed to anyone who wanted to look.’”). The Court 
+likewise has unanimously held that the police may use a 
+flashlight to examine a car’s interior through the win- 
+dow, because there is no reasonable privacy expectation 
+in areas “which may be viewed from outside the vehicle 
+by either inquisitive passersby or diligent police 
+officers.” Texas v. Brown, 460 U.S. 730, 740 (1983) (plu- 
+rality opinion); id. at 746 (Powell, J., concurring) (con- 
+traband concededly “observed in the course of a lawful 
+inspection”); id. at 750 (Stevens, J., concurring) (“I 
+agree that the police officer invaded no privacy interest 
+in order to see the balloon.”). And the Court has held 
+that the police may constitutionally look through 
+garbage left for pickup in a closed container outside the 
+home, because the garbage is “exposed * * * to the 
+public sufficiently to defeat the[{] claim to Fourth 
+Amendment protection.” Greenwood, 486 U.S. at 40. 
+
+Even with respect to the home and its curtilage—the 
+areas for which constitutional protection is at its 
+apogee—this Court consistently has held that police 
+observation from publicly accessible vantage points 
+does not constitute a Fourth Amendment search. See 
+Riley, 488 U.S. at 449 ([The home and its curtilage are 
+not necessarily protected from inspection that involves 
+
+
+2 — - 
+
+
+13 
+
+
+no physical invasion.”) (plurality opinion). In Ciraolo, 
+supra, for example, the officers used an airplane to 
+view the backyard of a house where two tall fences 
+prevented ground-level observation. See 476 U.S. at 
+209, 211. Even on the assumption that the defendant’s 
+backyard was subject to the same protection as the 
+home itself, the Court explained, air travel is now a 
+familiar part of modern life, and “any member of the” 
+flying public “who glanced down could have seen 
+everything that these officers observed.” Id. at 213-214. 
+The Court thus “readily” concluded that the defen- 
+dant’s “expectation that his garden was protected from 
+such observation is unreasonable and is not an expecta- 
+tion that society is prepared to honor.” Jbid. See also 
+Riley, 488 U.S. at 450-451 (plurality opinion) (although 
+occupant “intended and expected that his greenhouse 
+would not be open to public inspection,” expectation not 
+reasonable because any “member of the public could 
+legally have been flying over” and seen inside); id. at 
+453 (O’Connor, J., concurring); Minnesota v. Carter, 525 
+U.S. 83, 104-105 (1998) (Breyer, J., concurring) (officer’s 
+observation of apartment from public vantage point, 
+whether through “gaps” in blinds or blinds “pulled the 
+‘wrong way,“ not an unreasonable search); Smith v. 
+Maryland, 442 U.S. at 742 (no reasonable expectation 
+ot privacy in telephone numbers dialed because that 
+information is conveyed to a third party). 
+
+B. Luggage Placed In Overhead Racks Is Knowingly 
+
+
+Exposed To Public Handling And The Observa- 
+tions That Can Be Made Through Such Handling 
+
+
+1. The foregoing principles control this case. 
+Petitioner chose to transport his relatively large brick 
+of narcotics halfway across the country inside a soft, 
+canvas athletic bag, and chose to place that soft bag on 
+
+
+14 
+
+
+the bus’s overhead rack, an area accessible to and 
+shared with other passengers on the bus. It is common 
+knowledge, born of “mundane observation,” People v. 
+Santana, 73 Cal. Rptr. 2d 886, 888 (Ct. App. 1998), that 
+passengers on common carriers and common carrier 
+employees often handle—sometimes roughly—luggage 
+stored in shared areas. “Any person who has travelled 
+on a common carrier knows that luggage placed in an 
+overhead compartment is always at the mercy of all 
+people who want to rearrange or move previously 
+placed luggage in order to squeeze additional luggage 
+into the compartment or remove previously placed 
+luggage.” United States v. McDonald, 100 F.3d 1320, 
+1327 (7th Cir. 1996), cert. denied, 520 U.S. 1258 (1997). 
+Indeed, other passengers or bus line employees may 
+handle stowed bags in myriad ways—they might grab 
+them from any number of angles while removing them 
+from the rack; compress or squeeze them by pushing on 
+them with the palms of their hands in an effort to make 
+room for additional luggage; or pat them and press 
+them against other bags to make them fit or ensure that 
+they are snug in the rack. Thus, once a defendant 
+places his luggage in “an overhead rack on a common 
+carrier * * * accessible to other passengers, and 
+where other passengers also stow[] their luggage”: 
+
+
+It is likely that in retrieving or stowing their own 
+bags, other passengers would have to move, 
+touch, or push [the defendant’s] bags, and would in 
+all probability feel the outside of [his] bags in doing 
+so. [Such a person] can thus be said to have know- 
+ingly and voluntarily exposed the exterior of [his] 
+bags to being physically touched by other persons. 
+In other words, [the defendant cannot] have a rea- 
+sonable expectation of privacy that the exterior of 
+
+
+15 
+
+
+his] luggage would not be felt, handled, or manipu- 
+lated by others. 
+
+
+Id. at 1326. See J.A. 38-39 (it is “foreseeable that” bags 
+in overhead rack “would be squeezed, moved and ma- 
+nipulated by others,” because “passengers often handle 
+and manipulate other passengers’ luggage, while stow- 
+ing or retrieving their own”). 
+
+The correctness of those observations is confirmed by 
+experience. Even a quick glance through contemporary 
+travel accounts reveals acute public awareness that 
+luggage stowed in shared compartments on common 
+carriers is regularly handled, compressed, pushed, and 
+shoved—even crammed or pounded—by other passen- 
+gers and by common carrier employees seeking to make 
+room for or retrieve other bags, or to ensure that all 
+bags are secure in the rack“ And rough handling of 
+
+
+3 See, e.g., T. Massingill, Decade of Prosperity Means More 
+Fliers, More Complaints, Knight-Ridder Tribune Bus. News, Mar. 
+28, 1999 (United Airlines spokesman notes that “hundreds of 
+passengers have to cram, recram and then remove their bulky 
+carry-on bags”); J. Flinn, Confessions of a Once-Only Carry- 
+On Guy, S. F. Examiner, Sept. 6, 1998, at T2 (reporting that the 
+flight attendant “rearranged the contents of three different over- 
+head compartments to free up some room, and together we lifted, 
+shoved and pounded until my bag squeezed in.”); Carry-on 
+Troubles, Kan. City Star, June 1, 1999, at B6 (“overhead bins are 
+filled to the brim,” and the “flight crews helpſ] passengers cram 
+the bins full, smashing everything else that is safely in place.”); M. 
+Eagen, Familiar Anger Takes Flight With Airline Tussles, Boston 
+Herald, Aug. 15, 1999, at 8 (“It’s dog-eat-dog trying to cram half 
+your home into overhead compartments.”); G. Withiam, About 
+Those Carryons, Cornell Hotel & Rest. Admin. Q., Feb. 1, 1998, at 
+6 (late-arriving passengers “attempt[] to find space in the over- 
+head compartment, crushing your carefully stowed bag in the 
+process”); Rocky Mountain News Television broadcast, United’s 
+New Carry-on Rule Takes Off (May 16, 1998) (“Take this bag and 
+
+
+16 
+
+
+luggage during long-haul travel is not a modern phe- 
+nomenon, but has been documented in travel literature 
+from ages past.“ For that very reason, travelers 
+
+
+shove it—or squeeze it, or fold it—whatever it takes to get it in 
+that overhead bin.”); G. Barker, Internet Crosstalk at Issue: 
+Carry-on Bags for Air Travelers, The Fort Worth Star-Telegram, 
+Nov. 23, 1997, at 4 (People “try to jam [their possessions] into the 
+overhead storage, crushing everything that someone else has put 
+there.”); A. Knowles, Get the Complete Picture, Datamation, Oct. 1, 
+1997, at 74 (reporting typical trip in which the traveler “discover(s] 
+that [his] overhead compartment is full” but “stuff[s] his] luggage 
+into it anyway”). See also S. Bennett, Airing Out Miles and Miles 
+of Aggravations When Flying, Pittsburgh Post-Gazette, Feb. 3, 
+1999, at S5; D. Field, Passengers’ Horror Stories Illustrate 
+Airlines’ Ills, USA Today, Dec. 14, 1999, at 12B; Oh, What A 
+Carry On: Might It Be Time for Airlines to Restrict Both Luggage 
+and Children on Planes?, The Economist, Dec. 18, 1999. 
+
+4 One travel account from the late nineteenth century warns 
+that anyone planning to visit the United States should “provide 
+himself with such a strong portmanteau as will resist the notorious 
+‘baggage-smashers,’ with a smaller one for use on the rail.” 
+Samuel Reynolds Hole, A Little Tour In America 18 (1895) (1971 
+reprint). Travel by stage coach was more brutal still, for luggage 
+and passenger alike. Any luggage that could not be fastened to the 
+exterior was placed on the floor of the coach, resulting in constant 
+collisions between the luggage and travelers as the stage coach 
+lurched over the rough roads. See, e.g., 2 John Bernard, Retrospec- 
+tions of America 1797-1811, at 33-34 (1887) (quoted in Oliver W. 
+Holmes & Peter T. Rohrbach, Stagecoach East 42 (1983)) (HT he 
+floor was lumbered with a mail-bag and * * * earthen and 
+hardware jugs * * * and other articles * * * which had the 
+effect before the vehicle was ten minutes in motion, of dyeing our 
+shins all the colours of the rainbow.”); 2 John M. Duncan, Travels 
+Through Part of the United States and Canada in 1818 and 1819, 
+at 6 (1821-1822) (quoted in Holmes & Rohrbach, supra, at 42) (“The 
+heavier kinds of boxes and trunks are fastened behind, upon the 
+frame of the carriage, but the smaller articles and the mail bag are 
+huddled under the seats in the inside, to the great annoyance of the 
+passengers, who are frequently forced to sit with their knees up to 
+
+
+17 
+
+
+concerned about such handling—and the consequences 
+of soft bags being grabbed, compressed or squashed— 
+have long had the option of using hard luggage. See 
+Deborah Shinn et al., Bon Voyage: Designs for Travel 
+16, 18, 21, 23, 25, 27, 29, 52 (1986) (photographs and 
+drawings of hard-sided carrying containers and other 
+hard luggage used in ancient Egypt and the 14th 
+through the 18th centuries). See also note 4, supra. 
+Consistent with those observations, federal courts 
+have agreed that a passenger who leaves his bag in a 
+publicly accessible part of a common carrier, like an 
+overhead rack, knowingly exposes it to at least some 
+degree of public touching, feeling, handling, and move- 
+ment—and that, as a result, police handling of such lug- 
+gage does not necessarily constitute a “search” within 
+the meaning of the Fourth Amendment. See, e.g., 
+McDonald, 100 F.3d at 1325 ([Wie agree with other 
+courts of appeal that have held that the reasonable 
+expectation of privacy inherent in the contents of lug- 
+gage is not compromised by a police officer’s physical 
+touching of the exterior of luggage left exposed in the 
+overhead rack of a bus.”); United States v. Guzman, 75 
+F.3d 1090, 1095 (6th Cir.) ([Dlefendant had no reason- 
+able expectation of privacy in the exterior of his bag 
+when it was on the open luggage rack of a commercial 
+bus.”), cert. denied, 519 U.S. 906 (1996); United States 
+v. Harvey, 961 F.2d 1361, 1364 (8th Cir.) (Because “[i]t 
+is not uncommon for the bus driver or a fellow passen- 
+ger to rearrange the baggage in the overhead compart- 
+ment or to temporarily remove the baggage and place it 
+in a seat or in the aisle in order to rearrange and 
+
+
+their mouths, or with their feet insinuated between two trunks, 
+
+
+where they are most lovingly compressed whenever the vehicle 
+makes a lurch into a rut.”). 
+
+
+18 
+
+
+maximize the use of limited compartment space,” 
+passengers “have no objective, reasonable expectation 
+that their baggage will never be moved once placed in 
+an overhead compartment.”), cert. denied, 506 U.S. 883 
+(1992); ef. United States v. Garcia, 849 F.2d 917, 919 
+(5th Cir. 1988) (“The agents’ handling of Garcia’s bag 
+was certainly no rougher than could be expected in ai 
+airport baggage handling context.”); United States v. 
+Bronstein, 521 F.2d 459, 465 (2d Cir. 1975) (Mansfield, 
+J., concurring) (“It is common knowledge that luggage 
+turned over to a public carrier will be handled by many 
+persons who, although not permitted to open it without 
+the owner’s permission, may feel it, weigh it, check its 
+locks, straps and seams to insure that it will not fall 
+apart in transit, and shake it to determine whether the 
+
+
+5 Even those few decisions that have suppressed evidence dis- 
+covered from the handling of luggage left in shared parts of a com- 
+mon carrier agree with the general principle that police handling of 
+soft luggage is not necessarily a search. Nicholson, 144 F.3d at 637 
+(“The circuits uniformly agree that an officer’s touching of a bag’s 
+exterior does not necessarily constitute a search.”). As the Tenth 
+Circuit explained in Nicholson: 
+
+To be sure, placing a bag in an overhead rack of a commercial 
+bus exposes it to certain intrusions. Seeking to make room for 
+their own articles, other passengers may push and move the 
+bag. Therefore, Defendant had no reasonable expectation that 
+his carry-on would not be touched * * * . 
+
+
+144 F.3d at 639. See also United States v. Gwinn, 191 F.3d 874, 878 
+(8th Cir. 1999) (“Of course, not every intrusion with an individual’s 
+luggage constitutes a search within the meaning of the Fourth 
+Amendment.”); United States v. Gault, 92 F.3d 990, 992 (10th Cir.) 
+(No search occurred where the information the DEA Agent “ob- 
+tained from the kick and lift of the bag, its weight and the solidity 
+of its contents, was the same information that a passenger would 
+have obtained by kicking the bag accidentally or by lifting it to 
+clear the aisle.”), cert. denied, 519 U.S. 939 (1996). 
+
+
+19 
+
+
+contents are fragile or dangerous.”), cert. denied, 424 
+U.S. 918 (1976). The decisions of state courts are in 
+accord. 
+
+
+® See, e. g., State v. Lancellotti, 595 N. W. 2d 558, 563 (Neb. Ct. 
+App. 1999) (“[P]assengers who place their luggage in the overhead 
+public storage on a commercial carrier can reasonably expect that 
+other passengers will touch, move, or adjust the luggage in order 
+to retrieve or make room for their own luggage.”); State v. Quin- 
+tanilla, No. A-99-201, 1999 WL 1063085 (Neb. Ct. App. Aug. 11, 
+1999) (concluding that police handling and feeling of luggage in an 
+overhead rack is not an illegal search). See also Stanberry v. State, 
+684 A.2d 823, 832 (Md. 1996) (although the defendant may have 
+“reduced his expectation of privacy by placing his bag on the over- 
+head luggage rack,” that reduction did not extend to having his bag 
+opened); cf. Sprowls v. State, 433 So. 2d 1271, 1271-1272 (Fla. Dist. 
+Ct. App. 1983) (officer’s “prepping” bag for dog sniff by “press[ing] 
+his hands against [its] sides, forcing air from within to be expelled” 
+not “a search and seizure” within meaning of State or federal 
+constitution); People v. Burns, 540 N.Y.S.2d 157, 161, 162 (Sup. Ct. 
+1989) (because “[wJhat is a reasonable expectation * * * varies 
+with locale,” officer’s momentary grasp of nylon bag bumped 
+against him in crowded area “not a search in Fourth Amendment 
+terms”), aff’d, 582 N.Y.S.2d 234 (App. Div.), appeal denied, 600 
+N.E.2d 652 (1992); Santana, 73 Cal. Rptr. at 889 (When luggage 
+is checked, it is unavoidably subject to manipulation, handling, and 
+compression. That in any given case [the] bag [is] dropped 
+to the ground, pushed hard against other bags or squeezed by an 
+officer is of no constitutional significance.”); Scott v. State, 927 P.2d 
+1066, 1068 (Okla. Crim. App. 1996) (“Once a bag is released into the 
+custody of the busline by checking it,” the owner has “no 
+reasonable expectation that the bag will not be moved or 
+handled.”); State v. Peters, 941 P.2d 228, 232 (Ariz. 1997) (because 
+“luggage turned over to a public carrier will be handled by many 
+persons who, although not permitted to open it , may feel 
+it * * * and shake it,” agent’s squeezing of checked bag does not 
+violate Fourth Amendment if “neither violent nor extreme”); State 
+v. Millan, 916 P.2d 1114, 1117 (Ariz. Ct. App. 1996) (similar). 
+
+
+20 
+
+
+2. Petitioner concedes that, when he placed his soft 
+canvas gym bag in the overhead rack of the bus, he 
+exposed it to public touching and handling. See Pet. Br. 
+18 (petitioner “may even have expected that other bus 
+passengers would * * * push{] or move[]” his bag “as 
+they stored their own luggage”); J.A. 39 (noting similar 
+concession). Consequently, petitioner could have no 
+legitimate expectation that his soft gym bag would re- 
+main untouched and the presence of the brick-like 
+object inside undetected. Any other passenger or bus 
+line employee pushing, compressing, or grabbing peti- 
+tioner’s gym bag (while rearranging stowed bags, mak- 
+ing room for other bags, retrieving bags, or ensuring 
+stowed materials are secure in the overhead rack) could 
+have sensed through its soft canvas exterior the same 
+thing that Agent Cantu noted—that there was a hard, 
+brick-like object inside. As one treatise has explained, 
+once “it is conceded that the defendant had ‘no rea- 
+sonable expectation that his luggage would not be 
+moved or handled’” by others, an officer’s act of 
+“squeez[ing] a piece of soft-sided luggage and [thereby 
+feeling] the unmistakable outline of a gun” or other 
+contraband does “not constitute a search.” 1 LaFave, 
+supra, § 2.2(a), at 404-405 (footnotes omitted); cf. 
+United States v. Russell, 670 F.2d 323, 325 (D.C. Cir.) 
+(gun held to be in “plain view” where officer “felt the 
+outline of the gun” as he lawfully “grasped the paper 
+bag” in which the gun was sitting), cert. denied, 457 
+U.S. 1108 (1982). 
+
+Indeed, given the size of the methamphetamine brick, 
+it is unlikely that anyone handling the bag (including 
+Agent Cantu) might have missed it. Agent Cantu 
+merely squeezed petitioner’s bag (“hard” but not so 
+hard as to break anything inside) and in so doing felt 
+a brick-shaped object inside the bag. J.A. 10-11, 15. 
+
+
+21 
+
+
+See J.A. 27 (district court finding that Agent Cantu 
+“touched the outside of the bag, and could feel a brick- 
+like object.”). The brick, which weighed one-and-one- 
+third pounds, occupied one third of the bag’s length and 
+one third of its width.’ As a result, the district court 
+found that Agent Cantu noticed the brick-like object 
+when he “felt the outside of [petitioner’s] softside green 
+cloth bag,” J.A. 23, an action that was “minimally intru- 
+sive.“ J. A. 28. Because Agent Cantu felt that which 
+anyone else handling the bag might have perceived, his 
+observations did not invade an expectation of privacy 
+that society considers reasonable. 
+
+3. Petitioner's elaimed expectation of privacy in this 
+case is far less justified than the privacy expectations 
+this Court has rejected as unreasonable in the past. In 
+Ciraolo and Riley, for example, the defendants took 
+reasonable precautions to protect the areas behind 
+their homes from visual observation, erecting tall enclo- 
+sures; to protect those areas from the aerial visual ob- 
+servation that occurred would have required extraordi- 
+nary measures. See Riley, 488 U.S. at 454 (O’Connor, 
+
+
+Agent Cantu testified that the bag was about a foot and half 
+long, a foot high, and a foot wide, more or less. J.A. 12. The brick 
+of methamphetamine was six or seven inches long, and four or five 
+inches wide. J.A. 21. 
+
+
+8 While Amicus NACDL argues (Br. 7) that the brick was 
+shielded from observation because it was “wrapped” inside a pair 
+of pants, the district court found only that the brick was found 
+inside the leg of a pair of pants.“ J.A. 21 (emphasis added). 
+Common sense suggests that placing a brick inside a pant leg does 
+not make it any less obvious that it is brick. For similar reasons, 
+NACDL’s reliance (Br. 7) on the duct tape that surrounded the 
+brick is misplaced. Duct tape does not disguise the presence of a 
+brick-like object. Instead, together with cellophane or some other 
+wrapping material, it holds the narcotics together in the shape of a 
+brick. 
+
+
+22 
+
+
+J., concurring) (to preserve privacy against aerial ob- 
+servation would “require individuals to completely 
+cover and enclose their curtilage” and force them “en- 
+tirely [to] giv[e] up their enjoyment of those areas.”). 
+And in Greenwood, the defendants had no way to 
+protect their garbage from being observed once it was 
+placed out for pick up. Greenwood, 486 U.S. at 55 
+(Brennan, J., dissenting). 
+
+Here, in contrast, petitioner did not employ even 
+ordinary precautions. Nothing prevented petitioner 
+from transporting his narcotics in a hard briefcase, hard 
+luggage, or a cardboard carton, each of which would 
+have protected it from tactile detection during routine 
+handling of baggage. See pp. 16-17, supra. But peti- 
+tioner chose not to do so. Instead, he chose to put his 
+brick of narcotics in a soft gym bag and the gym bag in 
+a shared location where others would touch, push, 
+move, and handle it. When, as here, an individual fails 
+to employ the “precautions customarily taken by those 
+seeking privacy,” Rakas v. Illinois, 439 U.S. 128, 152 
+(1978) (Powell, J., concurring), he “cannot reasonably 
+expect privacy from public observation.” Riley, 488 
+U.S. at 454 (O'Connor, J., concurring). 
+
+
+II. Feeling The Exterior Of Luggage Left Open To 
+Public Touching Is Not A “Search” Of Its Con- 
+tents 
+
+
+Relying on Terry v. Ohio and other frisk cases, peti- 
+tioner argues that Agent Cantu’s handling of his lug- 
+gage must be a search because it was physically intru- 
+sive, revealed information about the bag’s contents, and 
+exceeded the sort of “casual” or “incidental” contact 
+that petitioner claims to have expected of other passen- 
+gers. None of those arguments is persuasive. 
+
+
+23 
+
+
+A. Handling The Exterior Of Luggage Exposed To 
+Public Contact Does Not Violate Reasonable 
+
+
+Privacy Expectations 
+
+1. As petitioner notes (Br. 7-8), luggage is an “ef- 
+fect” traditionally protected under the Fourth Amend- 
+ment. But effects, no less than homes or any other form 
+of property, may be observed by the police if they are 
+exposed to public inspection. And petitioner exposed 
+his soft bag to public touching and handling here. See 
+pp. 13-22, supra. Petitioner contends that the contact 
+with the exterior of his luggage was physically intru- 
+sive, Pet. Br. 10-12, and unduly revealing of the bag’s 
+contents, id. at 12-15. But even where the particular 
+form of observation or inspection can properly be char- 
+acterized as “physically intrusive” or revealing, a defen- 
+dant cannot claim invasion of a reasonable privacy 
+expectation if he has knowingly exposed his property to 
+such consequences. Thus, for example, while police 
+entry into a business is surely “physically intrusive,” 
+the owner of a business open to the public cannot com- 
+plain when government agents enter during normal 
+hours. See, e.g., Maryland v. Macon, 472 U.S. 463, 469 
+(1985) (“[R]jespondent did not have any reasonable 
+expectation of privacy in areas of the store where the 
+public was invited to enter.”). Likewise, an inspection 
+of garbage left out at the curb—which may consist of 
+opening sealed bags and rummaging through them—is 
+“physically intrusive.” But the police may conduct such 
+observations where the garbage, because it is left out 
+for collection, is exposed to the public. See Greenwood, 
+486 U.S. at 37-38, 40. See also Katz, 389 U.S. at 353 
+(“(T}he reach of [the Fourth] Amendment cannot turn 
+upon the presence or absence of a physical intrusion 
+into any given enclosure.”). 
+
+
+24 
+
+
+For the same reason, it makes no difference that 
+Agent Cantu’s observations from the outside of the bag 
+may have revealed limited information about what was 
+inside. Pet. Br. 12-15. So too might looking into a 
+house or car through an exposed window, Dunn, 480 
+U.S. at 304 (even if barn enjoyed Fourth Amendment 
+protection, police could peer into it from open fields); 
+Texas v. Brown, 460 U.S. at 740 (police observation of 
+car’s interior not a search because area could be 
+“viewed from outside the vehicle by either inquisitive 
+passersby or diligent police officers”); or observing an 
+enclosed garden or greenhouse from the air, Ciraolo, 
+supra; Riley, supra. None of those observations con- 
+stitutes a search, because each is limited to matters 
+that the defendant knowingly exposed to view or pe- 
+rusal by total strangers or other members of the public. 
+And even though petitioner shielded the items in his 
+gym bag from visual observation by enclosing them in 
+an opaque container, he exposed the rough outlines of 
+some items to tactile observation when he placed his 
+soft-sided bag in a publicly accessible location where 
+others could be expected to handle it. Cf. Ciraolo, 476 
+U.S. at 213 ([The mere fact that an individual has 
+taken measures to restrict some views” does not “pre- 
+clude an officer’s observations from a public vantage 
+point.”). 
+
+2. Petitioner is mistaken to rely on the fact that a 
+Terry-frisk of a person, see Terry v. Ohio, 392 U.S. 1 
+(1968); Minnesota v. Dickerson, 508 U.S. 366, 378-379 
+(1993), or the act of lifting up a stereo component in an 
+apartment to see its serial numbers, Arizona v. Hicks, 
+480 U.S. 321, 324-325 (1987), can be characterized as a 
+“search” within the meaning of the Fourth Amendment. 
+See Pet. Br. 9-11. In neither Terry, nor Dickerson, nor 
+Hicks was there (nor could there be) any contention 
+
+
+25 
+
+
+that the defendant had knowingly exposed his person 
+or his possessions to the handling and observations that 
+took place. 
+
+In fact, Dickerson and Hicks are both applications of 
+the rule that “a warrantless search must be ‘strictly cir- 
+cumscribed by the exigencies which justify its initia- 
+tion.“ Hicks, 480 U.S. at 325 (quoting Mincey v. Ari- 
+zona, 437 U.S. 385, 393 (1978)). In Dickerson, for exam- 
+ple, the police lawfully stopped respondent and con- 
+ducted a warrantless frisk of his person for weapons 
+pursuant to the rule established in Terry v. Ohio, supra. 
+During the course of the frisk, the police explored a 
+lump in the defendant’s pocket after having determined 
+that the defendant was not armed. The Court held such 
+further exploration to be unlawful. Because the war- 
+rantless intrusion authorized by Terry “must be strictly 
+limited to that which is necessary for the discovery of 
+weapons,” the Court explained, a “protective search 
+[that] goes beyond what is necessary to determine if 
+the suspect is armed” is not “valid under Terry and its 
+fruits will be suppressed.” Dickerson, 508 U.S. at 336- 
+337. Thus, Dickerson addresses whether and when an 
+officer oversteps the limited search authorized under 
+Terry. It does not address whether an officer’s obser- 
+vation of matters knowingly exposed to public percep- 
+tion constitutes a search in the first instance. 
+
+Arizona v. Hicks, supra, is inapt for the same reason. 
+There, the police entered the defendant’s apartment, 
+based on exigent circumstances, to search for a suspect 
+who had just fired a shot through the apartment floor 
+and injured the occupant of the apartment below. 480 
+U.S. at 323. During the search, an officer lifted up a 
+stereo component and noted the serial numbers on it; 
+the component was then identified as stolen. Ibid. The 
+Court held that, because lifting the component was 
+
+
+26 
+
+
+“unrelated to the objectives of the authorized intrusion” 
+—catching the shooter—and “produce[d] a new inva- 
+sion of respondent’s privacy unjustified by the exigent 
+circumstance that validated the entry,” it was unlawful. 
+Id. at 325. Hicks thus did not involve an instance of 
+knowing exposure. Instead, it concerned the scope of a 
+permissible search of matters otherwise hidden from 
+public perception.“ 
+
+Petitioner argues that, because Terry frisks of a 
+person’s body, i. e., “a careful tactile exploration of the 
+clothing on the suspect’s body,” are searches, any 
+touching of effects also must constitute a search. Pet. 
+Br. 14 (“‘persons’ receive no more protection * * * 
+than the ‘effects.’”). The differences in the items being 
+touched, however, significantly affects application of 
+the principle that governmental observation is a 
+“search” only if it intrudes on a privacy expectation 
+that society accepts as reasonable. See pp. 10-13, 
+supra. Society has always accorded tremendous re- 
+spect to each individual’s privacy expectation that his 
+person will not be subjected to uninvited touching. See 
+Terry, 392 U.S. at 17 (frisk of person’s clothing is “a 
+serious intrusion upon the sanctity of the person, which 
+may inflict great indignity and arouse strong resent- 
+ment”). But that same solicitude does not extend to the 
+
+
+® Petitioner’s reliance on early accounts regarding searches of 
+“travelers’ portmanteaus and saddlebags,” Pet. Br. 8 n. 7, is like- 
+wise misplaced, because those reports do not address knowing 
+exposure. Compare note 4, supra (discussing early travel). The 
+“searches” discussed in those materials appear to have been what 
+everyone would agree is a Fourth Amendment search—a process 
+by which the luggage is opened and its contents visually inspected. 
+See Benjamin Gale, Brief Remarks on Several Laws 44 (1782); 
+William J. Cuddihy, The Fourth Amendment: Origins and Origi- 
+nal Meaning 1518-1519 (1990). 
+
+
+27 
+
+
+handling or touching of bags and other containers 
+checked with carriers or placed in common locations 
+where they predictably will be touched, moved, and 
+handled by others. Cf. State v. Millan, 916 P.2d at 1118 
+(“Dickerson involved police intrusions upon the person 
+during a pat-down search while this case involves 
+intrusions upon [luggage] relinquished to the possession 
+of a third person in a public place. The former 
+implicates privacy rights that the latter does not.“).“ 
+Thus, while society generally respects every person’s 
+expectation that he will not be subject to rough 
+grabbing or handling in most circumstances, it is both 
+commonplace and accepted that luggage left in publicly 
+accessible places shared with other passengers will be 
+handled in ways that would be intolerable if directed at 
+a person. 
+
+For similar reasons, Amicus NACDL is incorrect (Br. 
+13) to suggest that principles drawn from assault and 
+battery cases support petitioner’s position. This Court 
+repeatedly has recognized that property and tort prin- 
+ciples are at most “marginally relevant to the question 
+of whether the Fourth Amendment has been violated.” 
+Karo, 468 U.S. at 713. See also Silverman v. United 
+States, 365 U.S. 505, 511 (1961) (scope of Fourth 
+Amendment not defined by the “ancient niceties of tort 
+or real property law”). The NACDL’s cases, moreover, 
+
+
+10 Indeed, the quality of luggage is often promoted based on its 
+ability to withstand such treatment. Perhaps the most famous 
+example is American Tourister’s so-called “Gorilla ad,” which ran 
+for fifteen years and was recently revived in revised form. The ad- 
+vertisement, in obvious reference to the rough treatment bags 
+often receive, featured an ape hurling and beating an American 
+Tourister suitcase, without causing perceptible damage. See 
+Barbara Vancheri, Perfect Pitches, Pittsburgh Post-Gazette, June 
+30, 1999, at EI. 
+
+
+28 
+
+
+all recognize the longstanding distinction between an 
+unconsented and offensive touching directed at the 
+person (and matters, like the clothing worn, on the per- 
+son) and such touching when directed at chattels or lug- 
+gage. The former can be an assault or battery. The 
+latter can be neither. See William L. Prosser & W. 
+Page Keeton, The Law of Torts § 9, at 39-40 (5th ed. 
+1984); Cole v. Turner, 90 Eng. Rep. 958 (1705) (“(TJhe 
+least touching of another in anger is a battery.”) (em- 
+phasis added)." Thus, none of the cases NACDL cites 
+would have been actionable if the touching, rather than 
+being directed at the person or an object intimately 
+connected with the person, had been directed at chat- 
+tels left in a shared and public location.” 
+
+
+t is highly questionable whether the Founders would have 
+considered the mere unconsented touching of the exterior of a bag 
+left in a publicly accessible location, absent injury to the bag or its 
+contents, to be any sort of tort at all. Traditional tort actions pro- 
+tecting personal property, like trespass to chattel, required proof 
+of meaningful interference with the owner’s possessory interests. 
+Prosser & Keeton, supra, § 14, at 85 (cases involving “carrying off” 
+of, or damage to, chattel); Restatement (Second) of Torts § 218 
+(1965) (limiting liability for trespass to actions that “dispossess” 
+another of chattel, impair the chattel, deprive the possessor of the 
+chattel’s use “for a substantial time” or cause bodily harm to the 
+_ possessor). 
+
+2 In Fisher v. Carrousel Motor Hotel, Inc., 424 S.W.2d 627 
+(Tex. 1967), for example, the waiter did not merely “remove a plate 
+from the table,” NACDL Br. 13, but rather “forceful[ly] dis- 
+possessſed]“ the plaintiff of a plate, yanking it from his hand, 424 
+S.W.2d at 630; NACDL Br. 13. The court expressly recognized 
+that, absent contact with either the plaintiff’s body or an object in 
+his hand, there would have been no assault or battery. See 424 
+S.W.2d at 629-630. Similarly, in Jung-Leonczynska v. Steup, 803 
+P.2d 1358 (Wyo. 1990), the defendant did not merely pound on the 
+plaintiff’s desk, but struck a book that was in or touching the plain- 
+tiff’s hand; it was only because of that connection to the plaintiff’s 
+
+
+— — — — 
+
+
+29 
+
+
+3. Petitioner, moreover, is incorrect to characterize 
+the handling of a bag’s exterior as “physically intru- 
+sive,“ Pet. Br. 10-12, or to argue that it reveals intimate 
+details concerning the bag’s contents, id. at 12-15. 
+
+Petitioner’s claim of “physical intrusion” confuses the 
+examination of the exterior of a bag with a search of its 
+contents. When an officer touches the outside of a bag, 
+he does not open it; he does not place his hands inside of 
+it; and he does not rummagle!] through [its] contents.” 
+See United States v. Place, 462 U.S. 696, 707 (1983) 
+(noting that canine sniff does not involve opening 
+luggage); Ex Parte Jackson, 96 U.S. at 733 (“Letters 
+and sealed packages * * * in the mail are” not pro- 
+tected “from examination and inspection” as to “their 
+outward form and weight.”). At no time does he pierce 
+the physical barrier the bag creates, and is intended to 
+create, between the public and the bag’s contents. 
+Consequently, such an observation is not “physically 
+intrusive” for constitutional purposes—as this Court’s 
+pre-Katz search-and-seizure cases readily attest. Com- 
+pare Goldman v. United States, 316 U.S. 129 (1942) 
+(where listening was accomplished by placing a device 
+against a common wall without penetrating it, obser- 
+vations not a search) with Silverman, 365 U.S. at 509 
+(where listening “accomplished by means of an unau- 
+
+
+person that the suit was actionable. See 803 P.2d 1363 (dissenting 
+opinion). The remaining cases cited by NACDL likewise all in- 
+volved contact with people or objects on their person or in their 
+grasp. See, eg., Fields v. Cummins Employees Fed. Credit 
+Union, 540 N.E.2d 631, 640 (Ind. Ct. App. 1989) (proof of battery 
+requires a harmful or offensive “contact with a person,” and proof 
+of assault requires an act that “creates an apprehension of” such “a 
+harmful or offensive contact”). 
+
+
+30 
+
+
+thorized physical penetration,” observations amounted 
+to a search). 
+
+Nor does examining the exterior of a bag tend to 
+reveal intimate details about its contents. Very few 
+items have signature shapes that can be discerned from 
+handling the exterior of a bag. As one state court has 
+observed, “[iJt is difficult to imagine any contents of 
+ordinary luggage that could be identified by feeling its 
+exterior, except” large and solid objects like “marijuana 
+packed in bricks, large amounts of powdered drugs, and 
+guns.” State v. Quintanilla, No. A-99-201, 1999 WL 
+1063085, at *6 (Neb. Ct. App. Aug. 11, 1999). Conse- 
+quently, an officer’s handling of a bag in general will 
+“tell police very little about the contents, other than 
+
+
+138 Indeed, before this Court’s decision in Katz v. United States, 
+389 U.S. 347 (and its adoption of the “reasonable expectation of 
+privacy” formula from Justice Harlan’s concurring opinion in that 
+case, id. at 360), the Court generally required a physical trespass 
+as a precondition to finding a Fourth Amendment search. See 
+Olmstead v. United States, 277 U.S. 438, 457 (1928); Goldman, 316 
+U.S. at 135. The Court reassessed that approach, and largely 
+abandoned it in favor of the “reasonable expectations” test, in light 
+of technological advances that might otherwise have eroded the 
+privacy the Fourth Amendment was designed to protect. See 
+Ciraolo, 476 U.S. at 214 (abandonment of trespass test and adop- 
+tion of reasonable expectation test prompted by “observations 
+about future electronic developments and the potential for elec- 
+tronic interference with private communications”). In this case, 
+however, the government did not make its observations through 
+technological means that could not have been anticipated by the 
+Founders or even 19th century courts. Rather, it made the same 
+observations that could have been made using techniques available 
+since the dawn of travel. Where an individual does not even make 
+the minimal effort needed to prevent a form of observation that 
+has been known for centuries, it is hard to say his expectation of 
+privacy is reasonable. See pp. 21-22, supra (individual must take 
+“customary” precautions to preserve privacy). 
+
+
+PPE Se! TOR Gen erator ces — 
+
+
+— 
+1 
+
+
+31 
+
+
+drugs, in the luggage.” Ibid. Moreover, when law en- 
+forcement officers pat, squeeze, grab, or compress lug- 
+gage, they do not and cannot discern or explore inti- 
+mate details about the bag's contents. Nor can they 
+somehow “feel” their way “through the [bag’s] various 
+contents” from outside. Pet. Br. 13. Rather, contact 
+with the outside of the bag permits them to sense only 
+the presence, general shape, and hardness of relatively 
+large and solid objects inside, and even then only if the 
+objects are situated in a manner that exposes them to 
+perception from outside the bag. The presence of such 
+an object is not an intimate fact, and in any event is 
+precisely what anyone else grabbing, compressing, or 
+pushing on the bag during foreseeable handling might 
+sense. 
+
+Passengers handling bags in a manner similar to the 
+manner of Agent Cantu may not pay attention to what 
+they sense, or know how to interpret it. But nothing 
+bars government officers from using specialized knowl- 
+edge to keep themselves alert to, and to help them 
+interpret, that which any other member of the public 
+might have sensed. See Ciraolo, 476 U.S. at 213 (“That 
+the * * * officers were trained to recognize marijuana 
+is irrelevant.“).“ Instead, so long as what government 
+
+
+4 Cf. Place, 462 U.S. at 707 (dog sniff of luggage not a search). 
+Although the Court in Place did not rely on the principle that what 
+an individual knowingly exposes to the public is not protected by 
+the Fourth Amendment, several lower courts, both federal and 
+state, have relied on Place together with this principle to approve 
+the limited touching that is required to prepare luggage for a 
+canine sniff. See McDonald, 100 F.3d at 1326 n.7 (“Because the 
+Supreme Court has approved the canine sniff, it follows that the 
+Court would also likely approve some degree of police handling and 
+manipulation of personal luggage in order to make the luggage 
+accessible to the police dog.”). See also United States v. Lovell, 849 
+
+
+OO ——— ⁰—⁰⁰ 
+
+
+32 
+
+
+agents sense could have been sensed by any other 
+member of the public, no Fourth Amendment search 
+has occurred. In this case, nothing in the record sug- 
+gests that, when Agent Cantu touched or squeezed 
+petitioner’s bag, he sensed anything about its contents 
+other than the fact that it had a relatively solid, large, 
+brick-like object inside of it—information that could 
+have been noted by anyone else handling the bag.” 
+
+
+B. Officers Are Not Limited To “Casual” Or “Inci- 
+dental” Observations Of Matters Exposed To 
+Their Senses 
+
+
+Petitioner also argues that, even though his gym bag 
+was exposed to public touching, Agent Cantu’s handling 
+of it still must be considered a search. In particular, he 
+contends that Cantu handled the “luggage in a manner 
+calculated to reveal its contents,” and did not restrict 
+himself to the sort of “casual contact” that petitioner 
+claims to have expected from fellow passengers. Pet. 
+Br. 20. Petitioner thus seems to suggest that an officer 
+violates the Fourth Amendment if he handles luggage 
+
+
+F. ad at 913; United States v. Viera, 644 F.2d 509, 510 (5th Cir.), 
+cert. denied, 454 U.S. 867 (1981); State v. Killean, 907 P.2d 550, 555 
+(Ariz. Ct. App. 1995), vacated on other grounds, 915 P.2d 1225 
+(1996); Lancelotti, 595 N.W.2d at 563. 
+
+
+15 Petitioner’s emphasis on what might be “capable” of observa- 
+tion rather than on what was actually observed also ignores this 
+Court’s teachings that a Fourth Amendment inquiry must focus on 
+what actually occurred in the case at hand, not on wha. might 
+occur in some future case. See Dow Chemical Co. v. United States, 
+476 U.S. 227, 239 n.5 (1986) (“Fourth Amendment cases must be 
+decided on the facts of each case, not by extravagant generaliza- 
+tions.”); United States v. Karo, 468 U.S. 705, 712 (1984) (“[Wle 
+have never held that potential, as opposed to actual, invasions of 
+privacy constitute searches for purposes of the Fourth Amend- 
+ment.”). 
+
+
+33 
+
+
+placed in the overhead rack for the purpose of 
+identifying contraband, or if he has more than “casual” 
+or “incidental” contact with it. See also NACDL Br. 13- 
+14,(only “incidental, harmless, or accidental touching is 
+to be expected and * * * tolerated”). That proposed 
+standard has no basis in this Court’s cases; would be 
+unworkable; and would not render the handling of the 
+bag at issue here unlawful in any event. 
+
+1. To the extent petitioner’s test turns on the fact 
+that Agent Cantu touched the bag for the purpose of 
+detecting narcotics, it is inconsistent with this Court’s 
+precedents. Indeed, at the same time petitioner repeat- 
+edly finds fault with any touching of the exterior of a 
+bag that is “calculated to determine whether it con- 
+tained drugs,“ he properly concedes that the purpose 
+or reason for the agent’s contact with the bag is irrele- 
+vant. Pet. Br. 14 (“subjective intent” does not deter- 
+mine “whether a Fourth Amendment search has oc- 
+curred.”). As this Court has explained, the fact that 
+“police observation * * * was directed specifically at 
+the identification” of contraband—even contraband 
+inside a protected place—is “irrelevant.” Dunn, 480 
+U.S. at 304-305. See Ciraolo, 476 U.S. at 212 (rejecting 
+
+
+16 Pet. Br. 7 (emphasis added); Pet. Br. 9, 13 (touch unlawful if 
+“aimed at” and “calculated to reveal items with a size, shape, den- 
+sity, or other characteristics” suggestive of narcotics); Pet. Br. 12- 
+13 (handling a search if conducted “in an attempt to find drugs”); 
+Pet. Br. 20 (bag touched “in a manner calculated to reveal its 
+contents”). That error is duplicated by the cases on which 
+petitioner relies. See Gwinn, 191 F.3d at 879 (The “traveling public 
+would not expect their luggage * * * to be subject to a calculated 
+and thorough squeezing.”) (emphasis added); Nicholson, 144 F.3d 
+at 639 (“tactile examination aimed at discovering the nature of the 
+contents of the bag” violated defendant’s “reasonable expectation 
+of privacy in the bag”) (emphasis added). 
+
+
+34 
+
+
+respondent’s challenge to “the authority of government 
+to observe his activity from any vantage point or place 
+if the viewing is motivated by a law enforcement pur- 
+pose, and not the result of a casual, accidental observa- 
+tion.”); Whren v. United States, 517 U.S. 806, 813 (1996) 
+(Court consistently “unwilling to entertain Fourth 
+Amendment challenges based on the actual motivations 
+of individual officers.”). 
+
+Petitioner is also incorrect to argue that the handling 
+of luggage exceeds constitutional bounds unless limited 
+to the sort of “casual” or “incidental” handling peti- 
+tioner claims to have expected from other passengers. 
+As an initial matter, it is far from clear that the han- 
+dling of luggage by other passengers is strictly “casual” 
+and wholly unintrusive. As noted above, it is well 
+known that passengers and common carrier employees 
+often have substantial (and sometimes forceful) contact 
+with stowed luggage. See pp. 13-19, supra. More 
+fundamentally, whether or not an officer’s observations 
+constitute a search has never depended on whether the 
+officer’s manner of making the observation was the sort 
+of “casual,” “incidental,” or “fleeting” observation ex- 
+pected from the general public. Instead, so long as the 
+matter the officer observes is open to public perception, 
+the officer may observe that matter carefully and 
+closely, even if the public generally would not be as 
+observant or take such advantage of the exposure. 
+
+Thus, in United States v. Lee, supra, this Court did 
+not ask whether the boatswain’s observation of con- 
+traband in open view on the ship’s deck was different or 
+more thorough than the observation expected of other 
+members of the public, even though the boatswain used 
+a search light. Likewise, in Texas v. Brown, supra, the 
+Court did not ask whether the police officer’s conduct, 
+which consisted of shining a flashlight in the car 
+
+
+35 
+
+
+window, “chang[ing] [his] position,” and “ben[ding] 
+down at an angle so [he] could see what was inside,” 460 
+U.S. at 740 (plurality opinion), exceeded the sort of 
+casual observations expected of other passersby. In- 
+stead, because “(t]he general public could peer into the 
+interior of” the automobile “from any number of 
+angles,” nothing barred the officer from peering into it 
+from any, or all, of those angles as well. Ibid.; id. at 746, 
+750 (concurring opinions). And in Ciraolo, this Court 
+rejected the defendant’s and the dissent’s contention 
+that the officers’ aerial observations were “searches” 
+because, rather than limiting themselves to the “casual, 
+accidental observation,” 476 U.S. at 212, or “fleeting, 
+anonymous, and nondiscriminating glimpse,” that most 
+members of the flying public would obtain, id. at 223 
+(dissenting opinion), the officers focused on the defen- 
+dant’s yard with the purpose of identifying marijuana. 
+Instead, the Court held, the fact that the yard was 
+knowingly exposed to observation from above rendered 
+the asserted privacy expectation unreasonable. 476 
+US. at 213, 214 n.2. 
+
+Petitioner’s contention that police officers are limited 
+to making the same “casual” observations expected of 
+members of the public is also at odds with this Court’s 
+decision in United States v. Knotts, supra. In Knotts, 
+the police not only followed the defendant’s car as it 
+proceeded through public streets, but used a beeper 
+(which was installed in a drum of cheinicals sold to him) 
+and a helicopter to do so. 460 U.S. at 278. Even though 
+no one ordinarily expects others to observe their every 
+movement for such an extended period of time—at 
+most, they expect to be observed, casually and inciden- 
+tally, by different people, in different places, at differ- 
+
+
+36 
+
+
+ent times this Court held that the police could make 
+such observations because the defendant had “voluntar- 
+ily conveyed to anyone who wanted to look the fact that 
+he was traveling over particular roads in a particular 
+direction, the fact of whatever stops he made, and the 
+fact of his final destination.” 460 U.S. at 281-282. In 
+other words, because any member of the public could 
+have observed any of defendant’s conduct, the police 
+were entitled to observe all of it. 
+
+The same analysis applies to an officer’s use of his 
+other senses, including touch. Just as an officer may 
+make a visual observation from several different angles 
+open to the rest of the public, see Brown, 460 U.S. at 
+740, so too may he touch a bag at different points or in 
+distinct ways, so long as the bag was knowingly ex- 
+posed to each. And just as an officer’s visual observa- 
+tion is not converted into a search just because the 
+officer looks more carefully than might a member of the 
+public, ibid.; Ciraolo, 476 U.S. at 212 n.1, 213, so too an 
+officer’s “feel” of a publicly exposed soft bag does not 
+become a search simply because it is more focused, cal- 
+culated, or extensive than the public’s ordinarily would 
+be. Instead, when each observation the officer makes 
+—each squeeze, pat, or grab of the bag—reveals only 
+that which any other passenger might have sensed 
+during foreseeable handling of the bag, the officer’s 
+observations do not infringe on a constitutionally pro- 
+tected privacy interest. 
+
+2. Petitioner claims support for his proposed rule— 
+that officers are limited to the sort of “casual contact” 
+allegedly expected from other members of the public— 
+
+
+7 Indeed, extended observations, if conducted by ordinary 
+members of the public, might be condemned as stalking or harass- 
+ment. 
+
+
+37 
+
+
+from Lo-Ji Sales, Inc. v. New York, 442 U.S. 319 (1979). 
+See Pet. Br. 29-30. As an initial matter, Lo-Ji Sales in- 
+volved the search and seizure of potentially expressive 
+materials, presumptively protected by the First 
+Amendment, from an adult bookstore. That fact alone 
+distinguishes it. As the Court recognized in Lo-Ji Sales 
+itself, 442 U.S. at 326 n.5; accord Macon, 472 U.S. at 
+468 (citing Lo-Ji Sales), the First Amendment “imposes 
+special constraints on searches for and seizures of 
+material arguably protected by the First Amendment.” 
+No materials even arguably protected by the First 
+Amendment are at issue here. 
+
+In any event, Lo- i Sales was not a case in which law 
+enforcement officers merely observed publicly exposed 
+materials more closely, more extensively, or less casu- 
+ally than allegedly expected of the public. Instead, the 
+officers there opened and viewed matters that were 
+closed to public observation. For example, the officers 
+there unwrapped, and reviewed the contents of, maga- 
+zines that had been “encased in clear plastic or cello- 
+phane wrappers” and thus that had their contents 
+sealed against public inspection. See 442 U.S. at 323. 
+Likewise the officers insisted on viewing films that, 
+absent a payment the officers did not make, were also 
+closed to public observation. Id. at 322-323, 328. Thus, 
+far from limiting officers to touching or handling 
+materials in the precise or “casual” manner expected of 
+other customers, Lo- Ji Sales merely precludes officers 
+from opening and viewing matters closed to public 
+inspection. See also Ex Parte Jackson, 96 U.S. at 733 
+(same rule for sealed packages placed in the mail); con- 
+trast Macon, 472 U.S. at 469 (undercover officers may 
+purchase and view the materials they pay for, as might 
+other customers). 
+
+
+38 
+
+
+Finally, to the extent petitioner (Br 10-11) construes 
+Dickerson, 508 U.S. at 378, and Arizona v. Hicks, 480 
+U.S. at 324- 325, as limiting officers to “casual” observa- 
+tions, those cases too are inapposite. As explained 
+above, see pp. 24-26, supra, those cases were both ap- 
+plications of the rule that warrantless searches must be 
+strictly confined to the exigency that gives rise to them. 
+Neither involved the question here, which is whether 
+an officer’s observation of matters exposed to the 
+public—i.e. matters that any other passenger handling 
+the baggage might have observed—constitutes a 
+“search” within the meaning of the Fourth Amendment. 
+
+3. Petitioner’s proposed standard is also unwork- 
+able. Under it, an officer would be permitted to handle 
+bags in overhead racks just as other passengers might, 
+and would be required to terminate contact at the point 
+that an ordinary passenger would. The extent and 
+manner in which passengers and carrier employees 
+might handle stowed bags in individual circumstances, 
+however, may well depend on a host of subtle and 
+potentially random factors unsuited for application by 
+officers in the field.“ The standard, moreover, would 
+make for inconsistent decisions. Not only might one 
+person’s foreseeable handling be another’s unexpected 
+manipulation, but results might turn on nuances of 
+language, as courts attempt to differentiate unconstitu- 
+
+
+18 For example, one might speculate that, in an uncrowded bus 
+with ample overhead space, passengers would expect only limited 
+and relatively light handling of their bags, whereas a crowded bus 
+with smaller bins might yield more, and more aggressive, handling. 
+The acceptable scope of an officer’s conduct surely should not 
+depend on such subtleties. See Whren, 517 U.S. at 815 (“We can- 
+not accept that the search and seizure protections of the Fourth 
+Amendment are so variable, and can be made to turn upon such 
+trivialities.”) (citations omitted). 
+
+
+39 
+
+
+tional “manipulation” from mere pressing, grabbing, 
+squeezing, cr pushing that corresponds to foreseeable 
+handling. Indeed, even though the Tenth Circuit 
+adopted petitioner’s proposed test just a year ago, its 
+decisions already portend inconsistent results.“ 
+C. Officer Cantu’s Handling Of Petitioner’s Gym 
+Bag Did Not Meaningfully Differ From Reasona- 
+bly Foreseeable Handling 
+
+
+Petitioner, in any event, overstates any differences 
+between Agent Cantu’s handling of his bag and that 
+which might be expected of any other passenger. At 
+the hearing, Agent Cantu testified that, when he “felt” 
+a green bag as he exited the bus, he noted a brick-like 
+object in it. J.A. 10. He further testified that, when he 
+squeezes bags, he squeezes them “hard,” but not so 
+hard as to break anything. J.A. 15. Petitioner did not 
+
+
+10 For example, the Tenth Circuit in Nicholson cited with ap- 
+proval Fifth Circuit decisions which upheld handling described as 
+“a light press of the hands along the outside of a suitcase,” Viera, 
+644 F. 2d at 510, and the feeling of the sides of the bags followed by 
+compressing to force air out, Lovell, 849 F.2d at 915. At the same 
+time, however, it suppressed evidence seized from a checked bag 
+because the agent felt “its sides with his hands perpendicular to 
+the ground and flat.” Nicholson, 144 F.3d at 640. See also United 
+States v. Gault, 92 F.3d at 992 (no search where officer both 
+“kick[ed] and lift{ed]” bag to determine “its weight”). The differ- 
+ences among those forms of handling are far from obvious. Indeed, 
+sometimes the Tenth Circuit has relied on distinctions that surely 
+do not make a difference. Thus, it attempted to reconcile its 
+decision in Nicholson with the Seventh Circuit’s decision in 
+McDonald by noting that, in McDonald, “the court thrice repeated 
+that the officer did not remove defendant’s bag from the overhead 
+rack during his initial contact with it.” 144 F.3d at 638. Yet in 
+Nicholson itself, the court suppressed evidence from a checked bag 
+that was touched without being removed from the cargo hold. See 
+144 F.3d at 640. 
+
+
+40 41 
+
+
+offer any greater detail. He testified only that Agent CONCLUSION 
+Cantu “reached for [his] bag, and he shook it a little, 
+
+
+The judgment of the court of appeals should be 
+
+
+and squeezed it, and then sniffed it.” J.A. 18. Based on ed 
+
+that testimony, the district court found only that Agent affirmed. 
+
+Cantu “felt the outside of [petitioner’s] softside green Respectfully submitted. 
+
+cloth bag,” J.A. 23, and characterized that action as a | 
+
+“minimally intrusive touching,” J.A. 28. | SETH P. WAXMAN 
+Combining Agent Cantu’s description of what he did Sontetior Goneves 
+
+with what that permitted him to feel (the presence of a a 
+
+relatively hard brick-like object, J.A. 10-11, with edges, 5 
+
+J. A. 12, that was covered in a lighter layer, J. A. 11), Deputy Solicitor General 
+
+petitioner attempts to paint a picture of extensive JEFFREY A. LAMKEN 
+
+contact between Agent Cantu and the bag. See Pet. Br. Assistant to the Solicitor 
+
+3, 18-19 (describing it as “manipulation” and “squeezing General 
+
+and feeling”). But neither the record nor the district KIRBY A. HELLER 
+
+court’s findings support that picture. Agent Cantu a 
+
+apears to have felt“ the bag once, apparently through — 
+
+
+a squeeze, and thereby discerned the brick- like object 
+and the characteristics he described. See pp. 20-21 & 
+note 8, supra. But even if one were to assume that the 
+“feel” and the “squeeze” were separate actions, they 
+hardly exceed the sort of grabbing, pressing, squeezing, 
+or pushing one might expect of other passengers or 
+common carrier employees as they remove, replace, or 
+rearrange previously stowed luggage to make room for 
+or retrieve other bags. See pp. 13-19, supra. Because 
+Agent Cantu’s handling of petitioner’s bag in this case 
+did not reveal, or permit observation of, anything that 
+could not have been observed by anyone else handling 
+the bag, it violated no constitutionally protected 
+
+
+privacy expectation. 
+
+

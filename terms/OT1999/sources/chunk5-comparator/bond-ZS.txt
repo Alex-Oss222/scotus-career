@@ -1,0 +1,42 @@
+
+
+BOND V. UNITED STATES
+
+LII
+
+Supreme Court
+
+BOND V. UNITED STATES (98-9349) 
+167 F.3d 225, reversed.
+Syllabus
+ Opinion
+ [ Rehnquist ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+BOND v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+No. 98—9349.  Argued February 29, 2000–Decided April 17, 2000
+
+Border Patrol Agent Cantu boarded a bus in Texas to check the immigration status of its passengers.  As he walked off the bus, he squeezed the soft luggage which passengers had placed in the overhead storage space.  He squeezed a canvas bag above petitioner’s seat and noticed that it contained a “brick-like” object.  After petitioner admitted owning the bag and consented to its search, Agent Cantu discovered a “brick” of methamphetamine.  Petitioner was indicted on federal drug charges.  He moved to suppress the drugs, arguing that Agent Cantu conducted an illegal search of his bag.  The District Court denied the motion and found petitioner guilty.  The Fifth Circuit affirmed the denial of the motion, holding that Agent Cantu’s manipulation of the bag was not a search under the Fourth Amendment.
+
+Held:  Agent Cantu’s physical manipulation of petitioner’s carry-on bag violated the Fourth Amendment’s proscription against unreasonable searches.  A traveler’s personal luggage is clearly an “effect” protected by the Amendment, see United States v. Place, 462 U.S. 696, 707, and it is undisputed that petitioner possessed a privacy interest in his bag.  The Government’s assertion that by exposing his bag to the public, petitioner lost a reasonable expectation that his bag would not be physically manipulated is rejected.  California v. Ciraolo, 476 U.S. 207, and Florida v. Riley, 488 U.S. 445, are distinguishable, because they involved only visual, as opposed to tactile, observation.  Physically invasive inspection is simply more intrusive than purely visual inspection.  Under this Court’s Fourth Amendment analysis, a court first asks whether the individual, by his conduct, has exhibited an actual expectation of privacy; that is, whether he has shown that “he [sought] to preserve [something] as private.”  Smith v. Maryland, 442 U.S. 735, 740.  Here, petitioner sought to preserve privacy by using an opaque bag and placing it directly above his seat.  Second, a court inquires whether the individual’s expectation of privacy is “one that society is prepared to recognize as reasonable.”  Ibid.  Although a bus passenger clearly expects that other passengers or bus employees may handle his bag, he does not expect that they will feel the bag in an exploratory manner.  But this is exactly what the agent did here.  Pp. 2—5.
+
+167 F.3d 225, reversed.
+
+    Rehnquist, C. J., delivered the opinion of the Court, in which Stevens, O’Connor, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined.  Breyer, J., filed a dissenting opinion, in which Scalia, J., joined.
+

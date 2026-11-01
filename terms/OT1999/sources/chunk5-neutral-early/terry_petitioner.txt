@@ -1,0 +1,2939 @@
+In THE 
+
+
+Supreme Court of the United States 
+
+
+TERRY WILLIAMS 
+Petitioner, 
+
+
+v. 
+
+
+JouN B. TayYLor, Warden, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF FOR PETITIONER 
+
+
+BRIAN A. POWERS * 
+
+ELLEN O. BOARDMAN 
+
+DINAH S. LEVENTHAL 
+
+O’ DONOGHUE & O’ DONOGHUE 
+4748 Wisconsin Avenue, N.W. 
+Washington, D.C. 20016 
+(202) 362-0041 
+
+Counsel for Petitioner 
+
+
+* Counsel of Record June 28, 1999 
+
+
+QUESTIONS PRESENTED 
+
+
+The Court directed the parties to address the following 
+questions: 
+
+
+l. 
+
+
+y I 
+
+
+Where both the federal district court judge and 
+state trial court judge who had originally sentenced 
+Petitioner to death concluded that counsel's defi- 
+cient performance was prejudicial under the test 
+this Court articulated in Strickland v. Washington, 
+whether the Fourth Circuit erred in denying relief 
+by reformulating the Strickland test so that: 
+
+
+a. ineffective assistance of counsel claims may be 
+assessed under the “windfall” analysis articu- 
+lated in Lockhart v. Fretwell even where trial 
+counsel’s error was no “windfall”; and 
+
+
+b. the petitioner must show that absent counsel's 
+deficient performance in the penalty phase, all 
+twelve jurors would have voted for life impris- 
+onment, even where state law would have man- 
+dated a life sentence if only one juror had voted 
+for life imprisonment. 
+
+
+Whether the Fourth Circuit erred in concluding 
+that, under 28 U.S.C. § 2254(d)(1), a state habeas 
+court’s decision to deny a federal constitutional 
+claim cannot be “contrary to” clearly established 
+Federal law as determined by the Court unless it 
+is in “square conflict” with a decision of this Court 
+that is “controlling as to law and fact.” 
+
+
+Whether the Fourth Circuit erred in concluding 
+that, under 28 U.S.C. § 2254(d)(1), a state habeas 
+court’s decision to deny a federal constitutional 
+claim cannot involve “an unreasonable application 
+of” clearly established Federal law as determined 
+by the Court unless the state court’s decision is 
+predicated on an interpretation or application of 
+relevant precedent that “reasonable jurists would 
+all agree is unreasonable.” 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+QUESTIONS PRESENTED 220 i 
+
+ee eS cccemuneunenasecenen v 
+
+OPINIONS BELOW .......... 214959 1 
+
+Pity tl) ty yt) re RESTS SE a 1 
+CONSTITUTIONAL PROVISIONS AND STATUTE 
+
+INVOLVED ...... RES EE aS 1 
+
+STATEMENT OF THE CASE... 0. eS eee 2 
+
+A. The Trial. Sentence and Direct Appeal .............. 2 
+
+B. The State Circuit Court Proceedings . ee 3 
+
+C. The Virginia Supreme Court ........... oe 7 
+
+D. The Federal District Court 000... ~ 
+
+E. The Fourth Circuit Court of Appeals ........... 8 
+
+SUMMARY OF THE ARGUMENT..................... 10 
+
+It 11 
+
+
+I. COUNSEL’S FAILURE COMPETENTLY TO 
+INVESTIGATE AND PRESENT MITIGA- 
+TION EVIDENCE PREJUDICED WILLIAMS, 
+DENYING HIM EFFECTIVE ASSISTANCE. 11 
+
+
+A. The Well-Settled Test of Strickland v. Wash- 
+ington Defines The Right to Effective Assist- 
+
+
+RE SES Tee 11 
+B. Application of the Strickland Test — 
+Invalidation of Williams’ Death Sentence... 18 
+
+
+Il. THE VIRGINIA SUPREME COURT AND 
+THE FOURTH CIRCUIT EVISCERATED 
+STRICKLAND’S PREJUDICE TEST IN 
+DENYING RELIEF re 17 
+
+
+A. The Virginia Court, with the Fourth Cir- 
+cuit’s Approval, Erred in Applying Fretwell 
+to Diminish Williams’ Rights under Strick- 
+
+
+IIl. 
+
+
+iv 
+
+
+TABLE OF CONTENTS—Continued 
+
+
+B. The Fourth Circuit Wrongly Faulted the 
+District Court's Reference to the Effects of 
+Counsel's Deficiency upon Any One Juror 
+in Assessing Prejudice under Strickland... 
+
+
+SECTION 2254(d) AFFORDS WILLIAMS 
+RELIEF BECAUSE THE VIRGINIA SU- 
+PREME COURT DECISION WAS CON- 
+TRARY TO AND AN UNREASONABLE AP- 
+
+
+‘PLICATION OF THE CLEARLY ESTAB- 
+
+
+LISHED FEDERAL LAW OF STRICKLAND. 
+
+
+A. AEDPA's Test and Context Reveal that 
+Congress Intended § 2254(d) to Perfect the 
+Court’s Approach to Habeas Reform in 
+Sf SS A 
+
+
+1. AEDPA’s Habeas Amendments... 
+2. The Underlying Substantive Law .. 
+3. Section 2254(d)’s Rationalization of 
+
+
+Review of State Decisions That Fail to Fol- 
+low a Rule of Decision Previously Laid 
+Down by this Court for the Very Issue the 
+State Court Decided nnn. sine 
+
+
+C. The Fourth Circuit Misread § 2254(d)........ 
+
+
+D. Under § 2254(d), the Virginia Supreme 
+Court Decision in Terry Williams’ Case Was 
+Contrary to, and an Unreasonable Applica- 
+tion of, Clearly Established Supreme Court 
+TR CEB AE TS, 8 5:8 EAM Sa 
+
+
+ESSAI cennensenneemnnennesnequennestinigesieintinnionentigiicatinitatiennes 
+
+
+= 
+
+
+40 
+
+
+v 
+
+
+TABLE OF AUTHORITIES 
+
+
+a) 
+3 
+
+
+CASES 
+
+
+ATACS Corp. v. Trans World Commun., 155 F.3d 
+BE ee 
+Ableman v. Booth, 62 U.S. (21 How.) 506 (1858) .. 
+Adams v. Texas, 448 U.S. 38 (1980) 0... 
+Alldread v. City of Grenada, 988 F.2d 1425 (5th 
+ES SEES. ea oN 
+Arizonans for Official English v. Arizona, 520 U. S. 
+RE a eee EEE Ee 
+Ayala v. Speckard, 89 F.3d 91 (2d Cir. 1996) a 
+Barefoot v. Estelle, 463 U.S. 880 (1983) . a 
+Bousley v. United States, 118 S. Ct. 1604 (1998). 
+In re Brown, 743 F.2d 664 (9th Cir. 1984) ....... 
+Brown v. Allen, 344 U.S. 443 (1953) ee 
+Buchanan v. Angelone, 118 S. Ct. 757 (1998) Eis si 
+Butler v. McKellar, 494 U.S. 407 (1990) _.......... 
+Canales v. Roe, 151 F.3d 1226 (9th Cir. 1998)... 
+Caspari v. Bohlen, 510 U.S. 383 (1994) 29, 38, 
+Cohens v. Virginia, 19 U.S. (6 Wheat.) 264 
+(1821) . OFT a SAS eee 46 
+Coleman v. Thompson, 501 US. 722, (1991) —- 28 
+Crowell v. Benson, 285 U.S. 22 (1932) .. _ 44, 47 
+Dawson v. United States, 77 F.3d 180 (7th Cir. 
+1996) ....... ee TREE SN Oe TT ETN 
+Drinkard v. Johnson, 97 F.3d 751 (5th Cir. 1996) .. 
+Eddings v. Oklahoma, 455 U.S. 104 (1982) . 
+Engle v. Isaac, 456 U.S. 107 (1982) 200... 
+Evans v. United States, 504 U.S. 255 (1992)........ 
+Fairchild v. Lehman, 814 F.2d 1555 (Fed. Cir. 
+1987) .. a) 
+Felker v. Turpin, 518 U.S. 651 (1996) aoe eee 
+Fern v. Gramley, 99 F.3d 255 (7th Cir. 1996)... 
+Flint Electric Membership Corp. v. Whitworth, 
+68 F.3d 1309 (11th Cir. 1995) 0000... 
+Gandee v. Glaser, 785 F. Supp. 684 (S.D. Ohio 
+1992), aff'd, 19 F.3d 1432 (6th Cir. 1994)... 
+Gideon v. Wainwright, 372 U.S. 335 (1963) ........ 
+Gilmore v. Taylor, 508 U.S. 333 (1993) . . ......... 37, 
+Goeke v. Branch, 514 U.S. 115 (1995) ............... 
+Gordon v. United States, 117 U.S. 697 (1864) . ited 47, 
+Gray v. Netherland, 518 U.S. 152 (1996) . 
+
+
+“ 
+Sa dS SSRSRBESSES F BAK 
+
+
+8 
+
+
+SSSS2f £ BRE F 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—Continued 
+Page 
+
+
+Green v. French, 143 F.3d 865 (4th Cir. 1998)... passim 
+Gutierrez de Martinez v. Lamagno, 515 U.S. 417 
+
+
+ESSN ae ee ee Le eee 45 
+Haines v. Liggett Group, 975 F.2d 81 (3d. Cir. 
+
+RETR TE eR ROS SSCs Se 34 
+Henry v. United States, 251 U.S. 393 (1920)........ 26, 39 
+Herb v. Pitcairn, 324 U.S. 117 (1945)... ss 42, 45 
+Hohn v. United States, 118 S. Ct. 1969 (1998)... 25, 42 
+Johnson v. Robison, 415 U.S. 361 (1974) esis 48 
+Jones v. United States, 119 S. Ct. 1215 (1999)... 39 
+Kansas City S. Railway v. C.J. Albers Commission 
+
+SS Sk ff a ee eee 35 
+Keene Corp. v. United States, 608 v. Ss. 200 
+
+Fh, ESE A ers ar Ler cee eaiegr oe 26, 39, 43 
+Keeney v. Tamayo-Reyes, 504 US . 1 (1992) ....26, 28, 45 
+Kimmelman v. Morrison, 477 U.S. 865 (1986) ........ 13 
+Kyles v. Whitley, 514 U.S. 419 (1995) 30 
+Lambriz v. Singletary, 520 U.S. 518 1997)... 81, 87 
+Leichman v. Secretary, 939 F.2d 315 (5th Cir. 
+
+ae Se EO ee 81 
+Lindh v. Murphy, 521 U. S. 320 ee 25 
+
+
+Lindh v. Murphy, 96 F.3d 856 (7th Cir. 1996), 
+rev'd on other grounds, 521 U.S. 320 (1997)... 40, 42 
+
+
+Lockhart v. Fretwell, 506 U.S. 364 (1998) .......... passim 
+Loehrer v. McDonnell Douglas Corp., 98 F.3d 1056 
+SS NT EE 35 
+Mackey v. United States, 401 U.S. 667 (1971)........ 32 
+Marbury v. Madison, 5 U.S. (1 Cranch.) 137 
+EE Se Seen RNAI AEN 46, 48 
+Martin v. Hunter’s Lessee, 14 U.S. (1 Wheat.) 
+CE ebelidietetidietiiclicnnctntitnesdittinatts etoile ie 46 
+Matteo v. Superintendent, 171 F.3d 877 (3d Cir. 
+RT ECGs ett A ON TER 31, 38, 39, 44 
+McFarland v. Scott, 512 U.S. 849 (1994) 0... 
+
+
+45 
+
+McKoy v. North Carolina, 494 U.S. 488 (1990)... 23 
+Miller v. Champion, 161 F.3d 1249 (10th Cir. 
+
+I NE A 39 
+
+Mills v. Maryland, 486 U.S. 367 (1988) 23 
+
+Morissette v. United States, 342 U.S. 246 (1952)... 38 
+
+Moskal v. United States, 498 U.S. 108 (1990)... 26 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES—Continued 
+Page 
+
+
+Neelley v. Nagle, 188 F.8d 917 (11th Cir. 1998)... 32, 33 
+Nevers v. Killinger, 169 F.3d 362 (6th Cir. 1999).. 41 
+Nix v. Whiteside, 475 U.S. 157 (1986) _........... 18, 19, 20 
+Norris v. Alabama, 294 U.S. 587 (1935) ................- 47 
+O’Brien v. Dubois, 145 F.3d 16 (1st Cir. 1998) ....passim 
+
+
+O'Dell v. Netherland, 521 U.S. 151 (1997) ........... 38 
+O’Neal v. McAninch, 513 U.S. 482 (1995) ............... 45 
+Osborn v. Bank of United States, 22 U.S. (9 
+
+Ss 2 46 
+Pacemaker Diagnostic Clinic, Inc. v. Instromediz, 
+
+Inc., 725 F.2d 637 (9th Cir. 1984) —....0000......... 46 
+Palmer v. Shultz, 815 F.2d 84 (D.C. Cir. 1987)... 34 
+Penry v. Lyunaugh, 492 U.S. 302 (1989)........ 30, 36, 38, 42 
+Plaut v. Spendthrift Farm, Inc., 614 U.S. 211 
+
+TT EEE 47, 48 
+Polyplastics v. Transconex, Inc., 827 F.2d 859 (ist 
+
+eae at 34 
+
+
+Pullman-Standard v. Swint, 456 U.S. 273 (1982).. 35 
+Reynoldsville Casket Co. v. Hyde, 514 U.S. 749 
+
+
+REE = TEENS a ee 30 
+Rogers v. Lee, 922 F.2d 836 (4th Cir. 1991)........ 31 
+Rooker v. Fidelity Trust Co., 263 U.S. 4138 
+
+EE I ae 45 
+Saffle v. Parks, 494 U.S. 484 (1990) ......................... 35 
+Salve Regina College v. Russell, 499 U.S. 225 
+
+ee $4, 35 
+Sanders v. United States, 373 U.S. 1 (1963) ......... 25 
+Sawyer v. Smith, 497 U.S. 227 (1990) ..... ee 86, 45 
+Schiro v. Farley, 510 U.S. 222 (1994) ........... iiiniiiin 30 
+Skipper v. South Carolina, 476 U.S. 1 (1986)........ 14 
+Stansbury v. California, 511 U.S. 318 (1994) ....... 42 
+Stewart v. Martinez-Villareal, 118 S. Ct. 1618 
+
+TETTIIIED <scinssihisiiieteiseniiemenpincttananaeendslisiiinpegrevecensiatnanccooneiantt 25, 50 
+Stone v. Powell, 428 U.S. 465 (1976) ...................... 28 
+
+
+Strickland v. Washington, 466 U.S. 668 (1984)... passim 
+Strickler v. Greene, 119 8S. Ct. ——, 1999 WL 
+.- «es 30 
+Stringer v. Black, 508 U.S. 222 (1992) .................. passim 
+Sumner v. Mata, 446 U.S. 539 (1981) .~................... 28 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Sweeney v. Parke, 113 F.8d 716 (7th Cir. 1997).... 82 
+Teague v. Lane, 489 U.S. 288 (1989) 0000000000... passim 
+Thompson v. Keohane, 516 U.S. 99 (1995) . 30, 35, 38, 41 
+Townsend v. Sain, 372 U.S. 298 (1968) ................. 28 
+Tuggle v. Netherland, 516 U.S. 10 (1995) ............. 42 
+United States v. Cronic, 466 U.S. 648 (1984)........ 20 
+United States v. Gaudin, 515 U.S. 506 (1995)... 41 
+United States v. Klein, 80 U.S. (18 Wall.) 128 
+(1871) ........... a 47, 48 
+United States v. Lanier, 520 U. s. 259 (1997 | aS 42, 43 
+United States v. Smith, 381 U.S. 469 (1947)........ 25 
+Waller v. Georgia, 467 U.S. 89 (1984) .................. 89 
+Walter v. United States, 969 F.2d 814 (9th Cir. 
+TEE RITE EESTI ES NI Re SR ET 36 
+West Virginia University Hospital, Inc. v. Casey, 
+I 36, 43 
+Wilkins v. Bowersox, 933 F. Supp. 1496 (W.D. 
+alr i 31 
+Williams v. Commonwealth, 860 S.E.2d 361 (Va. 
+TEER LL S| ho OTTROL LT an BA. CM ae Fe FR 2,3 
+Williams v. Netherland, No. LP88-81 (Danville 
+eR EE ee eae passim 
+Williams v. Pruett, CA-97-1527-A (E.D. Va. 
+SS} SF 4 0 See passim 
+Williams v. Taylor, 163 F.3d 860 (4th Cir. 1998) ..passim 
+Williams v. Virginia, 484 U.S. 1020 (1988) ........... 8 
+
+
+Williams v. Warden, 487 S.E.2d 194 (Va. 1997)... passim 
+Woodson v. North Carolina, 428 U.S. 280 (1976).. 15, 21 
+Wright v. West, 505 U.S. 277 (1992) 00000... passim 
+Zuern v. Tate, 938 F. Supp. 468 (S.D. Ohio 1996).. 33 
+
+
+STATUTES AND RULES 
+
+
+Federal 
+28 U.S.C. § 686 (b) (1) (A) onc ececccscssceecssessvsseeeennensen 84 
+i cssmuianogmues 1 
+28 U.S.C. § 1788 ......... eeamiae: ens ee ea 45 
+2B U.S.C. § 2244) oon eecccccceceeeescssssscesecessssunseeeeesee 25 
+28 U.S.C. § 2254 (d) (1) ooo oeeecccccceesseesnsnsssaseeenenenns passim 
+ry et ae 25 
+eT AE ET 25 
+
+
+ix 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+28 U.S.C. § 2288 .............. ee er TED 45 
+I 84 
+TTT aT 34 
+EE .cemenmnisabiamineesiides 84 
+State 
+Va. Code Ann. 19.2-264.4(C) ....2.........0.:0eececeeeeeeeeeees = 16 
+Va. Code Ann. 19.2-264.4( EB) .0.......00.0.ooccccccccceccceeeeeeee 22 
+MISCELLANEOUS 
+Legislative Materials 
+141 Cong. Rec. H1424 (Feb. 8, 1995) ............---0..... 41 
+141 Cong. Rec. 87846 (June 7, 1995) (Sen. 
+TTT TRENT LAN SAECO 33 
+142 Cong. Rec. H3602 (Apr. 18, 1996) (Rep. 
+TE TT ee TIE Ti HEY EES 33 
+142 Cong. Rec. $8446-47 (Apr. 17, 1996) (Sen. 
+ RIRERE SP OSE: Faeroe: += a EeT wee On 33 
+H. Conf. Rep. 104-518, 142 Cong. Rec. 3333 (Apr. 
+eR IE REED SE. ee 82 
+
+
+Treatises and Law Review Articles 
+
+
+James S. Liebman & Randy Hertz, Federal Habeas 
+Corpus Practice and Procedure (3d ed. 1998).... $1 
+Henry M. Hart, Jr., The Power of Congress to 
+Limit the Jurisdiction of Federal Courts: An 
+Exercise in Dialectic, 66 Harv. L. Rev. 1362 
+RTT eee nee. Cea ree 48 
+James S. Liebman & William F. Ryan, “Some 
+Effectual Power”: The Quantity and Quality of 
+Decisionmaking Required of Article III Courts, 
+98 Colum. L. Rev. 696 (1998) ................00000000...... 47 
+Lawrence Gene Sager, Constitutional Limitations 
+on Congress’ Authority to Regulate the Jurisdic- 
+tion of the Federal Courts, 95 Harv. L. Rev. 17 
+SUTIIIIET scieeccatathibtasiaiensinneeisassibbenddudnphienihiimebneitebtebeomiece 
+
+
+Other Materials 
+Black’s Law Dictionary 407, 842 (6th ed. 1990)...... 
+4 Oxford English Dictionary 332 (2d ed. 1989)...... 
+Random House Webster’s College Dictionary 344 
+STI ccriierentdiahiensuntessemmempemmeuieseneseenmdineneiineeennsian 
+
+
+& Sf & 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Merriam-Webster Collegiate Dictionary 352 (10th 
+= a a 
+Webster”s New University Unabridged Dictionary 
+NRPS no ne ie i ley OY ee 
+Webster’s Ninth New Collegiate Dictionary 285 
+| STL re: eT Ne Sn Sen 
+Webster’s Third New Internat’! Dictionary, Una- 
+a a eeeeiaeaeeiee 
+Amicus Curiae Brief for Sen. Orrin G. Hatch, 
+et al., in Felker v. Turpin, 1996 WL 277110 
+EERIE rn one Penna LOOT - 
+
+
+Page 
+
+
+s £ & & 
+
+
+OPINIONS BELOW 
+
+
+The Fourth Circuit’s opinion is Williams v. Taylor, 163 
+F.3d 860 (4th Cir. 1998) (Joint Appendix (“JA”) 489.) 
+The District Court’s opinion is Williams v. Pruett, CA- 
+97-1527-A (Apr. 7, 1998). (JA 445.) The Virginia Su- 
+preme Court opinion is Williams v. Warden, 487 S.E.2d 
+194 (Va. 1997). (JA 430.) The opinion of the Circuit 
+Court of the City of Danville is Williams v. Netherland, 
+Case No. LP88-81 (Aug. 15, 1996). (JA 382.) 
+
+
+JURISDICTION 
+
+
+The Court of Appeals’ judgment was entered Decem- 
+ber 18, 1998. A timely rehearing petition was denied 
+January 15, 1999. The petition for certiorari was filed 
+March 5, 1999 and granted April 5, 1999. The Court's 
+jurisdiction rests on 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTION AL PROVISIONS 
+AND STATUTE INVOLVED 
+This case involves the Sixth and Fourteenth Amend- 
+ments to the United States Constitution, which provide in 
+relevant part that “[iJn all criminal prosecutions, the ac- 
+
+
+cused shall enjoy the right . . . to have the Assistance of 
+Council for his defence,” and that “[n]o . . . State [may] 
+deprive any person of life . . . without due process of 
+
+
+law.” This case also involves 28 U.S.C. § 2254(d)(1), 
+a provision of the Anti-Terrorism and Effective Death 
+Penalty Act of 1996 (“AEDPA”), which provides that: 
+
+
+An application for a writ of habeas corpus on behalf 
+of a person in custody pursuant to the judgment of 
+a State court shall not be granted with respect to any 
+claim that was adjudicated on the merits in State 
+court proceedings unless the adjudication of the 
+claim— 
+
+
+(1) resulted in a decision that was contrary to, or 
+involved an unreasonable application of, clearly es- 
+tablished Federal law as determined by the Supreme 
+Court of the United States... . 
+
+
+2 
+STATEMENT OF THE CASE 
+
+
+A. The Trial, Sentence and Direct Appeal 
+
+
+On November 3, 1985, Harris Stone was found dead 
+in his bed with no sign of foul play; the medical exam- 
+iner concluded that he died of blood alcohol poisoning. 
+Williams v. Commonwealth, 360 S.E.2d 361, 363 (Va. 
+1987). Six months later, Terry Williams confessed he 
+struck Stone with a gardening tool known as a mattock 
+and took three dollars from Stone’s wallet. Jd. After an 
+autopsy of Stone’s remains, Williams was indicted for 
+capital murder. /d. 
+
+
+Williams was represented at a jury trial by appointed 
+counsel, E.L. Motley, a sole practitioner.'_ Motley served 
+as lead counsel. A recent law school graduate, Robert 
+Smitherman, was appointed to assist him one month be- 
+fore trial. (JA 159-60, 185, 237.) 
+
+
+After a two-day trial, Williams was found guilty of 
+capital murder. (JA 382.) At the penalty phase, the 
+Commonwealth relied on a single aggravating circum- 
+stance, future dangerousness, to support a death sentence. 
+It adduced Williams’ extensive criminal record and testi- 
+mony by two mental health experts. (JA 25-108.) 
+
+
+Williams’ counsel offered only the testimony of Wil- 
+liams’ mother and two neighbors (one plucked from the 
+court audience at the last minute) that Williams was a 
+“nice boy,” had never said a “bad word” in their presence, 
+and was not a violent person. Counsel also played the 
+recorded testimony of a psychiatrist who offered no expert 
+opinion but said Williams told him he had removed bul- 
+lets from a gun so as not to hurt anyone in a 1976 rob- 
+
+
+1 Motley received three state bar reprimands (including one the 
+day Williams was sentenced to die) for failing to properly repre- 
+sent clients between 1982 and 1987, and was indefinitely suspended 
+from the practice of law in September 1989. (JA 173-78, 550-62.) 
+
+
+3 
+
+
+bery and had been unfairly convicted of a crime in 1982. 
+(JA 109-16, 119, 124, 127, 306.) 
+
+
+Counsel then argued to the jury that even if Williams 
+were “worse than Charles Manson,” the jury should show 
+him mercy, although counsel could not give “any logic 
+or great earth shattering, moving reasen” to do so (JA 
+133, 137). The jury retired and quickly returned with 
+a death sentence. 
+
+
+The Virginia Supreme Court affirmed the conviction 
+and death sentence, Williams v. Commonwealth, 360 
+S.E.2d 361 (Va. 1987), and certiorari was denied, Wil- 
+liams v. Virginia, 484 U.S. 1020 (1988). 
+
+
+B. The State Circuit Court Proceedings 
+
+
+A habeas petition was filed in the Danville City Circuit 
+Court in August 1988. (JA 382.) The court dismissed 
+most of Williams’ claims but conducted a hearing in June 
+1995 on the ineffective assistance of counsel claims. (JA 
+383-84.) It was undisputed at the hearing that Williams’ 
+counsel waited until about a week before trial to begin 
+sentencing preparation and ignored the following miti- 
+vating evidence, either because counsel did not think to 
+10cate it or wrongly believed the law did not permit access 
+to it. (JA 189-208, 247-49.) 
+
+
+At the hearing, records and testimony were introduced 
+showing that Williams had a traumatic childhood but was 
+able to function well in structured settings and establish 
+positive relationships. He was the sixth of eleven chil- 
+dren, and Williams’ mother testified that she drank her- 
+self into a stupor almost daily while pregnant with him. 
+(JA 319-21, 531-32.) Uncontroverted juvenile records 
+showed that his parents were alcoholics who supplemented 
+their meager income by selling bootleg whiskey. (JA 319- 
+20, 531.) The records described the sordid conditions of 
+Williams’ home: 
+
+
+4 
+
+
+Lula and Noah [the parents] were sitting on the 
+front porch and were in such a drunken state, it was 
+almost impossible for them to get up. They stag- 
+gered into the house to where the children were 
+asleep. Terry, age 1, and Noah Jr., age 3, were 
+asleep on the sofa. There was an odor of alcohol on 
+the breath of Noah Jr... . Oliver [Olivia] had just 
+awakened and was very sick. She said she was hun- 
+gry and had been drinking whiskey. Ohair was com- 
+pletely passed out and never could be awakened. He 
+did not have on any clothes. . . 
+
+
+The home was a complete wreck. . .. There were 
+several places on the floor where some one had had 
+a bowel movement. Urine was standing in several 
+places in the bedrooms. There were dirty dishes scat- 
+tered over the kitchen, and it was impossible to 
+step any place on the kitchen floor where there was 
+no trash. ... The children were all dirty and none 
+of them had on under-pants. Noah and Lula were 
+so intoxicated, they could not find any clothes for the 
+children, nor were they able to put the clothes on 
+them. There was stuffed pickle scattered on the floor 
+in the front bedroom. 
+
+
+Noah and Lula were put in jail, each having five 
+charges of neglect placed against them. The children 
+had to be put in Winslow Hospital, as four of them, 
+by that time, were definitely under the influence of 
+whiskey. When Dr. Harvey examined them, he 
+found that they had all been drinking bootleg whis- 
+key. They were all hungry and very happy to be 
+given milk, even the baby [Terry] drank a pint of 
+milk before stopping. Oliver [Olivia] said they had 
+not had any food all day. Ohair was still so drunk 
+he could not talk. 
+
+
+(JA 528-29.) Williams’ parents were jailed for criminal 
+neglect, and the children were placed in a foster home 
+
+
+5 
+
+
+where they were badly treated before being returned to 
+their parents three years later. (JA 321, 529, 582-93.) 
+
+
+Even then, the “parents show[ed] no interest in. . . 
+the children”; “the children are without food and proper 
+clothes often,” and “[t]here are many home problems.” 
+(JA 587.) The family was so poor that Williams’ mother 
+could not afford surgery to remove a tumor. (JA 531.) 
+
+
+At the habeas hearing, family members testified about 
+the “awful” beatings and emotional abuse suffered by Wil- 
+liams from a father who would strip him naked, tie him 
+to a bed post, and beat him with a belt across his body 
+and face. The parents fought constantly—hard fist fights 
+—that left Williams cowering “in the corner shaking, cry- 
+ing.” The child was so terrified of his father that he often 
+stayed away from home all night. (JA 322-34, 577-84.) 
+
+
+Trial counsel never informed the jury that Williams 
+was of borderline intelligence, was placed in special edu- 
+cation classes and did not advance beyond the sixth grade. 
+(JA 594-95.) Evidence of Williams’ head injuries, refer- 
+enced fleetingly by his mother at the jury trial (JA 129), 
+was never developed because counsel never looked at a 
+psychologist’s report in the juvenile records that mentioned 
+these injuries and “the possibility of a serious emotional 
+disturbance and/or organicity.” (JA 208-09, 334-35, 
+524, 582.) 
+
+
+Counsel admitted that, had they known of Williams’ 
+mother’s alcoholism, they would have told the court- 
+appointed experts who would have ordered neurological 
+tests for Fetal Alcohol Syndrome (“FAS”), a life-long 
+condition with profound emotional consequences. (JA 
+197, 231, 286-87, 370-71.) The head of Georgetown 
+University’s Medical School Genetics Department in fact 
+diagnosed Williams as having FAS. (JA 353-67.) 
+
+
+6 
+
+
+It was undisputed at the hearing that Bruce Elliott, a 
+respecte. accountant, had offered to testify for Williams 
+at trial. He came to know Williams through a prison min- 
+istry progrem, visited him regularly and retained close 
+contact when Williams was out of jail. Elliott would have 
+testified that Williams took pride in completing a carpen- 
+try training program and strived to overcome his disad- 
+vantaged past. (JA 563-66.) 
+
+
+Williams’ wife and daughter were at trial but were not 
+interviewed by counsel. They would have testified to Wil- 
+liams’ loving relationship with his young daughter. (JA 
+207-08, 571-74.) 
+
+
+Correctional records showed that Williams consistently 
+functioned well in a controlled environment. (JA 542-44, 
+594.) Two correctional officials submitted affidavits to 
+Williams’ good conduct while incarcerated, and one stated 
+that his status as an “A custody” inmate meant that Wil- 
+liams was “considered least likely to act in a violent, 
+dangerous, or provocative way.” (JA 569, 588.) Wil- 
+liams received two commendations while incarcerated— 
+on January 31, 1985 for his “mature behavior” and “good 
+intentions” in returning a guard’s wallet with its money 
+and other contents intact (JA 590), and on November 
+27, 1984 citing his “concern . . . for others” in reporting 
+information crucial to breaking up a drug ring (JA 601). 
+
+
+Trial counsel’s investigation failed to ascertain that the 
+very mental health experts who testified for the Common- 
+wealth would have stated that Williams would not be a 
+future danger in a controlled environment. (JA 232-33, 
+299-300.) One of these experts, Dr. Arthur Centor of 
+Central State Hospital, was emphatic: 
+
+
+{I]n a structured environment [Williams] would not 
+be of future danger, he would not be hostile or vio- 
+lent or commit crimes, not likely to commit such acts 
+of violence that he would be a danger to that society 
+in a structured environment. 
+
+
+7 
+
+
+(JA 313-14.) Centor also described Williams as “quite 
+unique” in this regard. (/d.) 
+
+Based on the omitted evidence, the same Danville Cir- 
+cuit Court judge who had initially believed a sentence of 
+death “just” and “appropriate” (JA 154) concluded that 
+counsel’s unprofessional errors prejudiced Williams and 
+violated his right to effective assistance of counsel. (JA 
+399-401.) Judge James Ingram found that counsel’s fail- 
+ure to investigate, prepare and present mitigation evidence 
+fell “below the range expected to reasonable, professional 
+competent assistance of counsel.” (JA 422-24.) “[W]ith 
+so little favorable testimony in the way of mitigation and 
+faced with much unfavorable evidence on the question of 
+future dangerousness, this information could have been 
+critical in the jury's decision as to Williams’ punishment.” 
+(JA 401.) Judge Ingram accordingly recommended that 
+a new sentencing hearing be granted. (JA 429.) 
+
+
+C. The Virginia Supreme Court 
+
+
+The Virginia Supreme Court rejected this recommenda- 
+tion, concluding that even if Williams’ counsel was defi- 
+cient in failing to present mitigation evidence, that omis- 
+sion was not prejudicial. It recognized “[t]here is no 
+doubt there was such evidence.” (JA 439.) But it be- 
+lieved that in the wake of Lockhart v. Fretwell, 506 U.S. 
+364 (1993), it should not resolve Williams’ claim based 
+on Strickland v. Washington, 466 U.S. 668 (1984)— 
+that, but for the omitted mitigation evidence, there was a 
+reasonable probability he would have received a different 
+sentence—“ ‘without attention to whether the result was 
+fundamentally unfair or unreliable.” (JA 438.) Under 
+Fretwell, the court reasoned, “[t]o set aside a conviction 
+or sentence solely because the outcome would have been 
+different but for counsel’s error may grant the defendant 
+a windfall to which the law does not entitle him.” (JA 
+438-39.) On this understanding of what Strickland meant 
+
+
+after Fretwell, the Virginia court held that Williams’ death 
+sentence “was not fundamentally unfair or unreliable, and 
+that the prisoner’s assertions about the potential effects of 
+the omitted proof do not establish a ‘reasonable probabil- 
+ity’ that the result would have been different, nor any 
+probability sufficient to undermine confidence in the out- 
+come.” (JA 441.) It denied all relief. (JA 444.) 
+
+
+D. The Federal District Court 
+
+
+Examining the state record in federal habeas, District 
+Judge James Cacheris granted relief. “[G]iven the amount 
+of mitigating evidence not presented to the jury, the com- 
+peliing nature of such evidence, and the fact that none 
+of such evidence was cumulative,” he found that “there is 
+a reasonable probability that had the jury heard this evi- 
+dence, at least one juror and perhaps all, would have con- 
+cluded that the death penalty was not warranted.” (JA 
+473, 487.) 
+
+
+Judge Cacheris found that the Virginia Supreme Court 
+erred in its application of Strickland and Fretwell. (JA 
+473.) The determinative inquiry was Strickland’s: 
+whether there is “a reasonable probability that, but for 
+counsel’s unprofessional errors, the result of the proceed- 
+ing would have been different.” 466 U.S. at 694. Fretwell 
+apples only when an “outcome determinative” analysis 
+would give the petitioner a “windfall.” (JA 474-75.) Be- 
+cause “Williams is entitled, by current law, to have all 
+possible mitigating evidence put before the sentencing 
+jury,” he sought no “windfall.” (JA 475-76.) 
+
+
+E. The Fourth Circuit Court of Appeals 
+
+
+The Fourth Circuit reversed. It ruled that under 28 
+U.S.C. § 2254(d), unless a, state court decision “is in 
+‘square conflict’ with Supreme Court precedent that is 
+controlling as to law and fact”—legally and factually 
+“indistinguishable in any material way” from the Su- 
+
+
+9 
+
+
+preme Court decision—* ‘habeas relief is authorized only 
+when the state courts have decided the question by inter- 
+preting or applying the relevant precedent in a manner 
+that reasonable jurists would all agree is unreasonable.’ ” 
+(JA 497-98, quoting Green v. French, 143 F.3d 865, 
+870 (4th Cir. 1998) (emphasis added).) Because Wil- 
+liams’ facts are not precisely identical to those of Strick- 
+land and Fretwell, the court asked solely whether the 
+Virginia Supreme Court’s conclusions were “unreason- 
+able.” Assuming “without deciding, that Williams’ trial 
+counsel were objectively unreasonable in failing to inves- 
+tigate, prepare, and present [the omitted] evidence in mit- 
+igation,” the court declined to “say the Virginia Supreme 
+Court’s decision that Williams was not prejudiced thereby 
+was an unreasonable application of the tests developed 
+in either Strickland or [Fretwell].”. (JA 501-02.) 
+
+
+The Fourth Circuit believed that Fretwell’s “emphasis 
+on reliability and a fair trial simply clarified the meaning 
+of prejudice under Strickland.” (JA 506-07.) Concur- 
+ring with the Virginia Supreme Court that the aggravating 
+evidence was “simply overwhelming” and that a “signifi- 
+cant portion of the omitted mitigation evidence also 
+painted Williams as a recidivist who was likely to commit 
+future offenses,” the court found that “the Virginia Su- 
+preme Court’s conclusion that there was not ‘a reasonable 
+probability that, but for counsel's unprofessional errors, 
+the result of the proceedings would have been different.’ 
+. . » Was not unreasonable.” (JA 505-06.) It criticized 
+the District Court’s conclusion that “there was a reason- 
+able probability that at least one juror would have con- 
+cluded that the death penalty was not warranted had the 
+evidence in question been presented.” Because “[t]he 
+Strickland prejudice standard assumes twelve reasonable, 
+conscientious and impartial jurors,” a determination “that 
+one hypothetical juror might be swayed by a particular 
+piece of evidence is insufficient to establish prejudice.” 
+(JA 504-05.) 
+
+
+10 
+SUMMARY OF ARGUMENT 
+
+
+In Strickland v. Washington, the Court formulated 
+Sixth Amendment rules to guide courts in resolving a 
+wide range of claims of ineffective assistance of counsel. 
+The prejudice prong of those rules says that a conviction 
+or sentence must be set aside upon the demonstration of 
+a reasonable probability that it would not have been ren- 
+dered but for the defective performance of trial counsel. 
+Williams’ death sentence meets this standard. His law- 
+yers’ belated, perfunctory investigation of their client's 
+background not only failed to uncover a wealth of per- 
+suasive mitigating evidence but left the state’s sentencing 
+case immune from adversary testing. 
+
+
+The appellate courts below were wrong in thinking 
+that Lockhart v. Fretwell changes the rules set down in 
+Strickland to permit the disallowance of relief in Williams’ 
+circumstances as a “windfall.” Fretwell’s “windfall” prin- 
+ciple holds that a claim of ineffective assistance of coun- 
+sel cannot be founded on the failure of a defense lawyer 
+to use untenable contentions or improper means to secure 
+a victory to which the defendant is not entitled under the 
+applicable ‘rules of law. Neither Virginia law nor con- 
+scitutional law disentitled Williams to refute the prosecu- 
+tion’s case and present a countervailing case based on 
+available, credible factual evidence at his capital sentenc- 
+ing trial. To the contrary, this was the process that every 
+applicable rule of law required. The Fourth Circuit was 
+also wrong in faulting the District Court for considering 
+the reasonable likelihood that one juror would have been 
+persuaded to vote against death. Under Virginia law, one 
+juror’s vote can preclude a death sentence. 
+
+
+The Court of Appeals erred, finally, in concluding that 
+28 U.S.C. § 2254(d)(1) required it to leave standing a 
+death sentence based upon a state-court decision which, 
+while contrary to the rules set down in Strickland, was 
+not one that all reasonable jurists would agree was un- 
+
+
+ll 
+
+
+reasonable by those rules. Section 2254(d) distinguishes 
+between cases that are governed by a rule of decision set 
+down by this Court and cases that are not. It instructs 
+a federal habeas court to accept state-court decisions in 
+the latter cases unless the result would be an “unreason- 
+able application” of preexisting constitutional-law princi- 
+ples. But in cases like Williams’ where a constitutional 
+rule had been made by this Court to govern the exact 
+issue presented to the state court, a state-court decision 
+“contrary to” that rule in the considered judgment of a 
+federal habeas court is subject to correction under § 2254 
+(d). This is the most straightforward reading of the stat- 
+ute and the one compelled by every canon of statutory 
+
+
+construction. 
+ARGUMENT 
+
+
+In Part I below we show that the clearly enunciated 
+standards of Strickland are dispositive of this case. In 
+Part II we show that nothing in Fretwell changes this 
+conclusion and that the reasoning by which the appellate 
+courts below denied Williams relief under Strickland is 
+untenable. In Part III we show that § 2254(d), as 
+amended by AEDPA, also does not forbid a federal ha- 
+beas court to give Williams the relief to which he is en- 
+titled under the Sixth Amendment rules plainly declared 
+in Strickland. 
+
+
+IL. COUNSEL’S FAILURE COMPETENTLY TO IN- 
+VESTIGATE AND PRESENT MITIGATION EVI- 
+DENCE PREJUDICED WILLIAMS, DENYING HIM 
+EFFECTIVE ASSISTANCE 
+
+
+A. The Well-Settled Test of Strickland v. Washington 
+Defines The Right to Effective Assistance 
+
+In Strickland v. Washington, 466 U.S. 668 (1984), 
+
+this Court finally resolved the question that had plagued 
+
+the lower courts since Gideon v. Wainwright, 372 U.S. 
+
+335 (1963): how to determine when trial counsel’s per- 
+
+formance constitutes ineffective assistance. Guided by the 
+
+
+12 
+
+
+purpose of the Sixth Amendment “to ensure a fair trial,” 
+the Court articulated a rigorous two-prong test for decid- 
+ing “whether counsel’s conduct so undermined the proper 
+functioning of the adversarial process that the trial can- 
+not be relied on as having produced a just result.” Strick- 
+land, 466 U.S. at 686. 
+
+
+First, the defendant must show deficient performance 
+falling “below an objective standard of reasonableness.” 
+Id. at 680. While “[jJudicial scrutiny of counsel's per- 
+formance must be highly deferential,” the “court should 
+keep in mind that counsel's function . . . is to make the 
+adversarial testing process work in the particular case.” 
+Id. at 689-90. Thus, “counsel has a duty to make reason- 
+able investigations or to make a reasonable decision that 
+makes particular investigations unnecessary.” Jd. at 691. 
+
+
+Second, because “[t]he purpose of the Sixth Amend- 
+ment guarantee of counsel is to ensure that a defendant 
+has the assistance necessary to justify reliance on the out- 
+come of the proceeding,” any “deficiencies in counsel's 
+performance must be prejudicial to the defense.” /d. at 
+691-92. Recognizing that “[a]ttorney errors come in an 
+infinite variety” that generally “cannot be classified ac- 
+cording to likelihood of causing prejudice,” the Court 
+articulated as “the appropriate test for prejudice,” whether 
+there is a “reasonable probability that, but for counsel’s 
+unprofessional errors, the result of the proceeding would 
+have been different.” Jd. at 693-94. Putting aside “the 
+luck of a lawless decisionmaker” or a lawless decision, 
+“a court making the prejudice inquiry must ask if the de- 
+fendant has met the burden of showing that the decision 
+reached would reasonably likely have been different ab- 
+sent the errors.” Id. at 695-96. 
+
+
+Under this test, only one conclusion can be reached 
+here: Terry Williams’ counsel were grossly deficient and, 
+but for that deficiency, there is a reasonable probability 
+that he would not have been sentenced to die. 
+
+
+13 
+
+
+B. Application of the Strickland Test Requires Invali- 
+dation of Williams’ Death Sentence 
+
+
+It is clear, and no court reviewing this record has found 
+otherwise, that Williams’ lawyers neither undertook a 
+minimally capable investigation nor made informed pro- 
+fessional judgments to forego one. Incompetence, not 
+Strategy, explains why counsel failed to conduct even a 
+rudimentary investigation that would have revealed avail- 
+able, admissible, compelling mitigation evidence. The 
+record fully supports the conclusions of the two experi- 
+enced trial judges in the case that counsel’s performance 
+was unreasonable under prevailing professional norms. 
+Even the Virginia Supreme Court conceded “[t]here is 
+no doubt there was such [mitigation] evidence; the facts 
+are not in dispute.” (JA 439-40.) The only question for 
+the Virginia Supreme Court, and for the Fourth Circuit, 
+was “whether this deficient performance constitutes ‘preju- 
+dice’ within the meaning of that term.” (JA 440 (empha- 
+sis added); see JA 501-02.) 
+
+
+Strickland devised its standard for prejudice in resolv- 
+ing the self-same issue that Williams’ case presents: the 
+appropriate analysis of “prejudice” to be used to evaluate 
+a claim that trial counsel was ineffective in failing to make 
+an adequate investigation and presentation of mitigation 
+evidence in a capital sentencing trial. Applying this stand- 
+ard, both trial judges who reviewed the powerful mitiga- 
+
+
+2 Williams’ counsel did not begin to think about the penalty phase, 
+even in general terms, until about one week before trial, and then 
+just “shotgunned” his inquiries. (JA 207, 227.) The absence of a 
+timely, thorough investigation doomed any development of mitigat- 
+ing evidence. Counsel admitted that he did not even seek to obtain 
+the crucial youth and juvenile records because he mistakenly be- 
+lieved that state law barred access to them (JA 194-95), an omission 
+that “betray[ed] a startling ignorance of the law.” Kimmelman v. 
+Morrison, 477 U.S. 365, 385 (1986). Counsel’s admission that he 
+would have presented these records to the jury had he been aware 
+of them (JA 195-96) belies any suggestion that his conduct was the 
+product of informed choice or strategy to which deference might be 
+due. 
+
+
+14 
+
+
+tion evidence described above correctly concluded that 
+there was a reasonable probability that the outcome of 
+the sentencing hearing would have been different but for 
+counsel’s unprofessional errors. Any other conclusion 
+blinks reality. 
+
+
+The jury that sentenced Williams to die was completely 
+ignorant of his deeply troubled upbringing; it never knew 
+he was the product of wretched poverty and crippling 
+neglect and abuse. Because of counsel’s stunning default 
+with respect to this classic area of mitigation, the jury 
+was deprived of powerful evidence that would have made 
+Williams understandable as a human being and provided 
+a basis for affording him compassion. See, e.g., Eddings 
+v. Oklahoma, 455 U.S. 104, 115 (1982). 
+
+
+The unobtained prison records and testimony of prison 
+guards would have documentei Williams’ nonviolence in 
+a controlled environment and his capacity to “lead a use- 
+ful life behind bars if sentenced to life imprisonment.” 
+Skipper v. South Carolina, 476 U.S. 1, 2, 7 (1986). This 
+evidence would also have undermined the contentions of 
+the prosecutor duri:. closing argument that Williams’ 
+random, unrealized thoughts, expressed to a detective after 
+Williams’ arrest, that he had urges to choke other pris- 
+oners established a propensity for violence in prison. (JA 
+146.) Irrefutable prison records and the testimony of 
+disinterested correctional officers would naturally carry 
+weight with a jury. 
+
+The admissions of the Commonwealth’s own expert wit- 
+nesses, on whose testimony the prosecutor relied heavily 
+during closing arguments (JA 146-48), would also have 
+been persuasive in refuting its contention of future dan- 
+gerousness. Dr. Miller Ryans and Dr. Arthur Centor 
+would have testified that Williams would not be a future 
+danger in prison; Dr. Centor concluded that Williams was 
+“quite unique” in this regard. (JA 299-300, 314.) An 
+adequate investigation would have permitted Williams’ 
+
+
+Ny 
+
+
+15 
+
+
+counsel to establish out of the mouths of the Common- 
+| wealth’s chosen mental health experts that Williams was 
+| not dangerous in a controlled environment, and—by un- 
+dercutting the core of the prosecution’s case for death— 
+would have given the jury ample reason to reject a death 
+sentence. 
+
+
+| The evidence of Williams’ partly succesful efforts at self- 
+betterment and ability to establish positive relationships 
+complements his record of responsible life in a custodial 
+environment. Williams’ wife and daughter would have 
+shown that he was a loving father. (JA 571-75.) Testi- 
+mony by accountant Bruce Elliott that Williams worked 
+hard to overcome the handicaps of his congenital and 
+childhood heritage and took pride in graduating from a 
+job training program would have illuminated facets of 
+Williams’ character unknown to the jury. (JA 563-66.) 
+Such “testimony from a well-educated professional would 
+have had an impact on the jury on the question of future 
+dangerousness, and could have tilted a juror to favor a 
+life sentence.” (JA 400.) 
+
+
+And the evidence that Williams’ borderline intelligence 
+could have resulted from head injuries or prenatal alcohol 
+exposure exemplifies the sort of “compassionate or miti- 
+gating factors stemming from the diverse frailties of hu- 
+mankind” that jurors find compelling. Woodson v. North 
+Carolina, 428 U.S. 280, 304 (1976). 
+
+
+The Virginia Supreme Court belittled this powerful mit- 
+igation evidence by characterizing it as showing only that 
+| “numerous persons, mostly relatives, thought that defend- 
+ant was non-violent and could cope very well in a struc- 
+tured environment.” (JA 442.) This is a manifestly 
+wrong characterization. Far from centering on people’s 
+“thought[s],” the evidence which counsel neglected 
+showed the indisputable facts of a troubled upbringing, 
+specific intellectual deficits, and documented behavior in- 
+
+
+16 
+
+
+cluding an exemplary record of nonviolence in the struc- 
+tured environment of prison. The vast bulk of this ne- 
+glected evidence was drawn not from “relatives” but from 
+public agency records maintained by public servants who 
+had no incentive to embellish; the Commonwealth’s own 
+correctional officers and mental health experts; and Bruce 
+Elliott, a respected professional. The quality of this evi- 
+dence was not lost on two experienced trial judges, famil- 
+iar with juries, who found that it would likely have been 
+persuasive against a death sentence. 
+
+
+The Virginia Supreme Court and the Fourth Circuit 
+were equally incorrect in treating Terry Williams’ crim- 
+inal record as comparable to that of the habeas petitioner 
+in Strickland so that, on its facts, Strickland could be cited 
+as establishing that the series of crimes committed by 
+Williams was “simply overwhelming” evidence of his fu- 
+ture dangerousness. (JA 505.) In Strickland, the three 
+murders committed in ten days were found to be heinous, 
+atrocious and cruel; they were accompanied by torture 
+and kidnapings and were committed to avoid arrest and 
+to hinder law enforcement. 466 U.S. at 672-74. In con- 
+trast to these multiple aggravating factors, the Common- 
+wealth’s case for death against Williams was limited to 
+the aggravator of future dangerousness; the prosecution 
+never even contended that Williams’ “conduct in commit- 
+ting the offense was outrageously or wantonly vile, hor- 
+rible or inhuman, in that it involved torture, depravity of 
+mind or aggravated battery to the victim.” Va. Code 
+Ann. 19.2-264.4(C). To be sure, Williams had com- 
+mitted crimes of violence on the streets; but the key to the 
+Commonwealth’s theory for death was Williams’ future 
+dangerousness in confinement; and on that issue, the evi- 
+dence of Williams’ prospects was sufficiently “unique” 
+(JA 314) to convince the Commonwealth’s own expert 
+witnesses that he was no such danger. 
+
+
+17 
+
+
+II. THE VIRGINIA SUPREME COURT AND THE 
+FOURTH CIRCUIT EVISCERATED STRICKLAND’S 
+PREJUDICE TEST IN DENYING RELIEF 
+
+
+A. The Virginia Court, with the Fourth Circuit’s Ap- 
+proval, Erred in Applying Fretwell to Diminish 
+Williams’ Rights under Strickland 
+
+Relying on Lockhart v. Fretwell, the Virginia Supreme 
+
+Court rejected Williams’ straightforward attempt to satisfy 
+
+Strickland’s prejudice prong by showing exactly what 
+
+Strickland requires: “a reasonable probability that, but 
+
+for counsel’s unprofessional errors, the result of the pro- 
+
+ceeding would have been different.” Strickland, 466 U.S. 
+
+at 694. The Virginia court reasoned that in light of Fret- 
+
+well, Strickland could no longer be read as calling for a 
+
+determination of prejudice based solely on the reasonable 
+
+probability of a different outcome. (JA 438-39.) Rather, 
+
+Fretwell teaches that “[t]o set aside a conviction or sen- 
+
+tence solely because the outcome would have been dif- 
+
+ferent but for counsel’s error may grant the defendant a 
+
+windfall to which the law does not entitle him.’” (Jd.) 
+
+
+The Fourth Circuit found no cause to disagree with 
+this aspect of the Virginia court’s analysis because it con- 
+cluded that Fretwell’s “requirement that a criminal de- 
+fendant show that the result of the proceeding was unfair 
+or unreliable was the rule, not the exception” in admin- 
+istering Strickland’s prejudice standard: “Thus, [Fret- 
+well]’s emphasis on reliability and a fair trial simply clari- 
+fied the meaning of prejudice under Strickland.” (JA 
+506-07.) The Fourth Circuit read the Fretwell majority 
+as rejecting Justice O’Connor’s concurring view that 
+“would limit the prejudice analysis contained in [Fretwell] 
+to the ‘unusual’ case.” (JA 506.) 
+
+
+Contrary to these readings of Fretwell, that decision 
+neither glossed Strickland’s general test for prejudice nor 
+superseded it in the specific circumstances of Terry Wil- 
+
+
+18 
+
+
+liams’ case. Strickland’s test—‘‘a reasonable probability 
+that, but for counsel’s unprofessional errors, the result of 
+the proceeding would have been different” (466 U.S. at 
+694)—was explicitly designed to apply in a variety of 
+factual settings. And there can be no question that it 
+governs the specific issue raised by Williams’ case, be- 
+cause Strickland announced the test in just that kind of 
+case: a case concerned with the claim that trial counsel 
+was constitutionally ineffective in failing to make an ade- 
+quate investigation and presentation of mitigation evi- 
+dence in a capital sentencing trial. Williams’ claim being 
+the very one at issue in Strickland, it should be adjudi- 
+cated by conducting the prejudice analysis Strickland dic- 
+tates. Nothing more is needed, and nothing else is sug- 
+gested by Fretwell. 
+
+
+In Fretwell, the issue was whether the failure of Fret- 
+well’s lawyer to make an objection which would have 
+been legally sustainable at the time of trial but was no 
+longer so at the time when Fretwell’s ineffective-assistance 
+claim reached federal habeas—because the basis for the 
+objection was no longer good law—met Strickland’s test 
+for prejudice. The Fretwell Court concluded that, since 
+the heart of a “prejudice” claim is an allegation that 
+counsel’s error did something “ ‘to deprive the defendant 
+of a fair trial, a trial whose result is reliable’” if “the in- 
+effectiveness of counsel does not deprive the defendant of 
+any substantive or procedural right to which the law en- 
+titles him,” then “[uJnreliability or unfairness does not 
+result.” 506 U.S. at 369-72 (relying on Nix v. Whiteside, 
+475 U.S. 157, 186-187 (1986) (Blackmun, J., concur- 
+ring) (where fetitioner “claim[{ed] a right the law simply 
+does not recognize,” he was “deprived of neither a fair 
+trial nor any of the specific constitutional rights designed 
+to guarantee a fair trial”)). Hence, an outcome-determi- 
+native test serves no purpose and would “grant the de- 
+fendant a windfall to which the law does not entitle him.” 
+
+
+19 
+
+Id. at 370.8 Nix, of course, was a case rejecting a de- 
+fendant’s claim that his counsel was ineffective for refus- 
+ing to present perjured testimony.* So Justice O’Connor, 
+harkening back to Strickland in her Fretwell concurrence, 
+could aptly observe that “the impact of advocating a de- 
+cidedly incorrect point of law, like the influence of per- 
+jured testimony, is not a proper consideration when as- 
+sessing ‘the likelihood of a result more favorable to the 
+defendant.’” Jd. at 375. 
+
+
+The key, then, to distinguishing the spheres of Strick- 
+land and of Fretwell is to determine whether a lawyer's 
+errors deprived the defendant of a “substantive or proce- 
+dural right to which the law entitles him.” Id. at 372 
+(emphasis added). If it did not— if the asserted ineffec- 
+tiveness consists only in failing to advance legally unsus- 
+tainable contentions or resort to legally impermissible 
+tactics—then there is no legally cognizable prejudice, only 
+a “windfall.” But if it did, there can be no question of 
+
+
+3In virtually all ineffective-assistance cases, the relief that will 
+follow from a judicial decision that the defendant’s Sixth Amend- 
+ment right to counsel has been violated is a new trial (or a new 
+sentencing proceeding or new appeal), not absolution from reprose- 
+cution. In the ordinary Strickland situation, this relief is sensible 
+and administrable. Because there is a “reasonable probability that, 
+but for counsel’s unprofessional errors, the outcome of the proceed- 
+ing would have heen different,” the defendant obtains a new pro- 
+ceeding with a competent lawyer who can do the things that may 
+produce a different outcome. But this makes no sense in a case 
+such as Fretwell or Nix in which the claimed error was a failure 
+to resort to a “substantive or procedural right” to which the de- 
+fendant was not entitled. Fretwell, 506 U.S. at 372. In those situ- 
+ations, a new proceeding cannot produce a more favorable outcome 
+unless, absurdly, the defendant is given the bonus of having his 
+case adjudicated under either false facts (in Nix) or false law (in 
+Fretwell), This is what inspired Fretwell’s “windfall” metaphor. 
+
+
+* Because the defendant had no lawful right to present perjured 
+testimony, the Court concluded that he had “no valid claim that 
+confidence in the result of his trial ha{d] been diminished” by the 
+jurors’ reaching a verdict based on the truth, not the lies he wanted 
+to offer them. 475 U.S. at 175. 
+
+
+20 
+
+
+a “windfall,” and Strickland’s outcome-determinative anal- 
+ysis, standing alone, achieves “the proper functioning of 
+the adversarial process” and a “just result.” 466 U.S. at 
+686. With those goals achieved, the inquiry is over. 
+
+
+To require some additional showing couched in terms 
+of “fundamental fairness” and “reliability” takes Strick- 
+land’s clear, albeit demanding, test and adds an additional 
+prong with no readily definable content. There can be no 
+dispute that fundamental fairness and reliability are the 
+goals in testing the effectiveness of counsel. But these 
+general goals provide “no workable principle,” id. at 693, 
+unless they are reduced to an administrable standard. 
+Strickland undertook to fashion such a standard with its 
+reasonable-probability-of-a-different-result test. To top this 
+with a second-layer judgment about “fundamental fair- 
+ness” and “reliability” would convert Strickland’s meas- 
+ured formula for prejudice into an impressionistic, value- 
+laden “hunch test” which will be administered inconsist- 
+ently and can only prove unworkable. 
+
+
+Moreover, the lower appellate courts’ insistence that 
+Fretwell provides a universally applicable formula for 
+prejudice is at odds with this Court’s recognition of a 
+calibrated set of standards for prejudice, fitted to different 
+circumstances. At one end of the spectrum, there are cir- 
+cumstances “so likely to prejudice the accused that the 
+cost of litigating their effect in a particular case is un- 
+justified,” such as the “actual or constructive denial of 
+the assistance of counsel altogether.” United States v. 
+Cronic, 466 U.S. 648, 692 (1984). At the opposite end 
+are cases like Fretwell and Nix, where counsel’s conduct 
+in failing to resort to claims or maneuvers that are legally 
+foreclosed cannot—in fact or in law—prejudice the ac- 
+cused. And in the middle are those cases in which the 
+defendant seeks neither the automatic relief that a Cronic- 
+type violation would justify nor the windfall that Fretwell 
+and Nix decry. For such cases, Strickland crafted and 
+
+
+21 
+
+
+continues to supply as clear and objective a standard as 
+their multifarious nature allows: whether there is a “rea- 
+sonable probability [of a different] outcome.” Each of 
+these approaches is designed to address a different cate- 
+gory of prototypical situations; each has been found work- 
+able; there is no cause to do what the courts below have 
+done here: blur the Court's plain distinctions and con- 
+coct a fungible, all-purpose, all-weather—but, ultimately, 
+meaningless—test. 
+
+
+Beyond the Virginia Supreme Court's incorrect inter- 
+pretation of Fretwell as a gloss on Strickland, that court 
+also erred in classifying Williams’ case as one in which 
+a “windfall” would result if relief were granted. Such a 
+view of this case reflects either of two indefensible as- 
+sumptions: that Williams had no right to submit the neg- 
+lected mitigation evidence to his sentencing jury, or that 
+a life sentence for Williams would be an unacceptable 
+(“windfall”) outcome. 
+
+
+As for the first alternative, the District Court observed: 
+
+
+Williams is entitled, by current law, to have all pos- 
+
+sible mitigating evidence put before the sentencing 
+
+jury.... [U)nlike [Fretwell], . . . introduc[ing] miti- 
+
+gating evidence was a right the law does recognize. 
+(JA 475-76.) Indeed, that right is a “constitutionally in- 
+dispensable part of the process of inflicting the penalty of 
+death.” Woodson v. North Carolina, 428 U.S. 280, 304 
+(1976)). A contrary conclusion by the Virginia Supreme 
+Court would defy the Constitution. 
+
+
+If the Virginia court did not mean to do this, its refer- 
+ence to a “windfall” could only mean that it believed that 
+a jury's favorable consideration of the omitted mitigation 
+evidence would have resulted in a life sentence of which 
+Williams was undeserving. Such a judgment, however, 
+twists Fretwell’s conception of a “windfall” beyond recog- 
+nition. Rather than consisting of a benefit obtained by 
+
+
+22 
+
+
+a defendant through a procedure to which he has no legal 
+entitlement, a “windfall” would become any sentencing 
+determination with which a court considering a Sixth 
+Amendment claim disagrees. Fretwell gives no comfort 
+to that notion. Virginia law entitled Williams to a jury's 
+verdict on the issue of life or death; the Sixth Amendment 
+entitled him to competent representation in trying the 
+issue to a jury; and to grant him both those things—en- 
+joyed by every other capital defendant in Virginia—is no 
+“windfall.” 
+
+B. The Fourth Circuit Wrongly Faulted the District 
+Court’s Reference to the Effects of Counsel's Defi- 
+ciency upon Any One Juror in Assessing Prejudice 
+under Strickland 
+
+The Fourth Circuit further distorted Strickland by read- 
+ing it to require—without regard to a State’s particular 
+capital sentencing procedure—that a showing of prejudice 
+include a demonstration of the requisite likelihood that 
+all “twelve reasonable, conscientious and impartial jurors” 
+(JA 505) would have voted for a life sentence. Virginia’s 
+capital sentencing law provides that “ijn the event the 
+jury cannot agree as to the penalty, the court shall dis- 
+miss the jury, and impose a sentence of imprisonment for 
+life.” Va. Code Ann. § 19.2-264.4(E). Although the 
+Virginia legislature could have constructed its sentencing 
+scheme in some other way, it chose to allow one juror 
+to “hold out” and prevent a sentence of death. Respect 
+for this deliberate choice logically requires a federal court 
+applying Strickland’s reasonable-probability standard to 
+consider what might plausibly sway one reasonable juror’s 
+vote, not all twelve. Thus, the District Court was right 
+in finding prejudice based on its conclusion that “there is 
+a reasonable probability that had the jury heard [the 
+omitted mitigation] evidence at least one juror and per- 
+haps all, would have concluded that the death penalty 
+was not warranted.” (JA 473.) 
+
+
+23 
+
+The District Court's analysis is compelling in the death- 
+penalty context where, as here, a State allows one juror’s 
+vote against death to spare the defendant's life. In Adams 
+v. Texas, 488 U.S. 38 (1980), this Court recognized that 
+individual jurors will perforce bring somewhat different 
+standards for judgment to the penalty decision in a capital 
+trial; capital sentencing is “not an exact science, and the 
+jurors . . . unavoidably exercise a range of judgment and 
+discretion while remaining true to their instructions and 
+their oaths.” Id. at 46. Such variability from juror to 
+juror was not only accepted in Adams but was the bed- 
+rock of the Court’s holding there. It was also the bedrock 
+assumption underlying the holdings in Mills v. Maryland, 
+486 U.S. 367 (1988), and McKoy v. North Carolina, 494 
+U.S. 433 (1990), that capital sentencing jurors could not 
+be forbidden to consider evidence that they believed non- 
+unanimously to be mitigating. This whole body of con- 
+stitutional law would be senseless if individual jurors were 
+expected or required to be think-alikes. The realistic fac- 
+tual recognition that they are not all think-alikes, together 
+with the Virginia legislature's authoritative legal deter- 
+mination that one vote for life requires a life sentence, 
+fully supports Judge Cacheris’ finding that Williams suf- 
+fered cognizable prejudice under Strickland because there 
+was a reasonable probability that at least one juror would 
+have been swayed to vote for life by the neglected miti- 
+gating evidence.5 
+
+
+5 The Fourth Circuit faulted this finding because it thought that 
+Strickland’s observation “that a finding of prejudice does not ‘de- 
+pend on the idiosyncracies of the particular decisionmaker, such as 
+unusual propensities toward harshness or leniency’” made it im- 
+proper to consider that “one hypothetical juror might be swayed by 
+a particular piece of evidence” which would not sway all twelve. 
+(JA 505.) But Williams’ claim is not that he is entitled to the 
+benefit of some one juror’s “unusual propensities toward .. . leni- 
+ency.” It is that he is entitled to the range of usual variation that 
+Adams, Mills, McKoy and common experience recognize to exist 
+among reasonable, conscientious and impartial jurors. 
+
+
+24 
+
+
+III. SECTION 2254(d) AFFORDS WILLIAMS RELIEF 
+BECAUSE THE VIRGINIA SUPREME COURT DE- 
+CISION WAS CONTRARY TO AND AN UNREA- 
+SONABLE APPLICATION OF THE CLEARLY ES- 
+TABLISHED FEDERAL LAW OF STRICKLAND 
+
+
+The preceding Parts have shown that the Virginia Su- 
+preme Court’s decision rejecting Williams’ Sixth Amend- 
+ment claim is irreconcilable with the law of Strickland. 
+The remaining question is whether 28 U.S.C. § 2254(d) 
+requires a federal habeas court to let such a decision 
+stand. Section 2254(d)—which we examine in detail 
+below—essentially limits habeas relief to cases in which 
+a state court's decision of a federal claim is “contrary to,” 
+or involved an “unreasonable application of,” this Court's 
+preexisting, clearly established law. The Fourth Circuit 
+below reduced the “contrary to” clause to a cipher (lim- 
+iting it to the empty category of cases where a state court 
+fails to follow a decision of this Court rendered on iden- 
+tical facts) and turned the “unreasonable application” 
+clause into a rubber stamp (restricting review to the ques- 
+tion whether all reasonable jurists would agree that the 
+state court’s decision is unreasonable). Under this con- 
+struction, an Article III court, exercising statutory juris- 
+diction to review a federal constitutional decision by a 
+state court, is obliged to give that decision legal effect al- 
+though it concludes that the decision violated authorita- 
+tively established federal law. 
+
+
+Section 2254(d) cannot plausibly be read in such a 
+constitutionally suspect way. As a matter of plain Eng- 
+lish and the accepted meaning of familiar legal terms, the 
+Virginia court’s decision was “contrary to” and involved 
+an “unreasonable application of” the law of Strickland. 
+Below we outline AEDPA’s modifications of the habeas 
+statute against the background of prior law, document the 
+reading of § 2254(d) that every relevant canon of con- 
+struction requires, and show how the Fourth Circuit's 
+
+
+25 
+
+
+contrary reading offends those canons and denies Williams 
+the relief § 2254(d) expressly affords him. 
+
+
+A. AEDPA’s Text and Context Reveal that Congress 
+Intended § 2254(d) to Perfect the Court’s Approach 
+to Habeas Reform in Teague v. Lane 
+
+
+1. AEDPA’s Habeas Amendments 
+
+
+AEDPA does not alter the jurisdictional requirement 
+that “a district court shall entertain an application for a 
+writ of habeas corpus . . . on the ground that [a state 
+prisoner] is in custody in violation of the Constitution,” 
+28 U.S.C. § 2254(a), but only the procedure for discharg- 
+ing that duty. See Felker v. Turpin, 518 U.S. 651, 658- 
+62 (1996). Nor, as this Court has made plain, does 
+AEDPA curtail the writ at every turn.* Instead, it gives 
+prisoners one full chance to “receive an adjudication of 
+[their] claim{s],” and—to avoid the “far-reaching and 
+seemingly perverse” result of frustrating this—it builds on 
+preexisting habeas doctrine. Stewart, 118 S.Ct. at 1622. 
+
+
+AEDPA does greatly speed up and pare down the 
+habeas process. Habeas formely “provide{d] a remedy 
+
+. . without limit of time.” United States v. Smith, 331 
+U.S. 469, 475 (1947). AEDPA puts a one-year limit on 
+filing habeas petitions and for qualifying capital cases 
+cuts the period in half and sets strict deadlines for court 
+rulings. 28 U.S.C. §§ 2244(d), 2263, 2266. Until 1996, 
+a ruling on habeas “was not res judicata.” Sanders v. 
+United States, 373 U.S. 1, 7 (1963). AEDPA bans reliti- 
+gation of all claims previously denied on habeas, and 
+adopts a “modified res judicata” rule barring new claims 
+in a successive petition unless they are newly discovered 
+and backed by clear and convincing evidence that the 
+prisoner would have been found innocent but for the vio- 
+
+
+See Hohn v. United States, 118 S.Ct. 1969, 1777-78 (1998) ; 
+Stewart v. Martinez-Villareal, 118 S.Ct. 1618, 1621-22 ( 1998) ; 
+Lindh v. Murphy, 521 U.S. 320 (1997); Felker, 518 U.S. at 658-62. 
+
+
+26 
+
+
+lation. § 2244(b); Felker, 518 U.S. at 657. Federal 
+evidentiary hearings used to be available if a prisoner 
+showed either “cause and prejudice” for not obtaining a 
+state hearing or probable innocence. Keeney v. Tamayo- 
+Reyes, 504 U.S. 1, 12 (1992). AEDPA forbids hearings 
+unless a prisoner proves both cause (narrowly defined) and 
+a clear and convincing case of innocence. § 2254(e)(2). 
+Habeas appeals used to be available for all claims in 
+a petition if any one claim was colorable. Barefoot v. 
+Estelle, 463 U.S. 880, 893-94 (1983). AEDPA bars 
+appeals absent “a substantial showing of the denial of a 
+constitutional right” on each “specific issue.” § 2253(b) 
+(emphasis added). 
+
+
+AEDPA also amends § 2254(d), to provide that habeas 
+
+
+shall not be granted with respect to any claim that 
+was adjudicated on the merits in State court proceed- 
+ings unless the adjudication of the claim— 
+
+
+(1) resulted in a decision that was contrary to, or 
+involved an unreasonable application of, clearly 
+established Federal law, as determined by the 
+Supreme Court of the United States.... 
+
+
+These terms undoubtedly alter prior habeas practice. In 
+identifying the specific changes they make, the “task” is 
+“to construe the statute that Congress h.s enacted,” 
+Wright v. West, 505 U.S. 277, 295 n.4 (1992), “giving 
+the ‘words used’ their ‘ordin..y meaning,” Moskal v. 
+United States, 498 U.S. 103, 108 (1990), recognizing 
+that “the law uses familiar legal expressions in their fa- 
+miliar legal sense,” Henry v. United States, 251 U.S. 393, 
+395 (1920), and declining to read the act to “work[] a 
+change in the underlying substantive law ‘unless an intent 
+to make such [a] change] is clearly expressed,’” Keene 
+Corp. v. United States, 508 U.S. 200, 209 (1993). Read- 
+ing § 2254(d) this way (as we do below) leads to these 
+conclusions: 
+
+
+27 
+
+
+Section 2254(d)(1) divides state-court “decisions” into 
+two categories defined by the decisions’ relationship to 
+“clearly established Federal law, as determined by the 
+Supreme Court.” It then prescribes a mode of review for 
+each category. In the first category are decisions on 
+claims for which there was “clearly established [Supreme 
+Court] law” when the state court acted, to which its deci- 
+sion could be “contrary”—i.e., claims as to which the 
+Court had prescribed a rule designed for the specific pur- 
+pose of evaluating that claim. When there was “clearly 
+established Supreme Court law” binding the state court at 
+the time it acted, a federal habeas court asks whether the 
+state “decision was contrary to [{that] law.” “Contrary to 
+law” review is a familiar legal term for plenary review 
+of another court’s legal and “mixed legal and factual deci- 
+sions” under the prevailing rules of law. 
+
+
+In the second category are decisions on claims for 
+which Supreme Court law had not designed a rule when 
+the state court acted—claims as to which the law so far 
+laid down by the Court did not control the claim but pro- 
+vided only “givens” from which an applicable rule had to 
+be derived. When the state court was thus required to 
+apply relevant but noncontrolling Supreme Court law and 
+derive its own rule, § 2254(d) tells a federal court to ask 
+whether the state “decision . . . involved an unreasonable 
+application of {that] law.” “Unreasonable application” is 
+a legal term taken directly from the Court’s Teague v. 
+Lane, 489 U.S. 288 (1989) cases, describing a standard 
+of objective reasonableness that is used to review a rule 
+derived by a state court in the absence of a governing 
+federal rule. Indeed, as we show below, § 2254(d)’s plain 
+words and familiar legal terms are deftly designed, as a 
+whole, to perfect and codify the Teague rule: We next 
+survey that rule and other law forming § 2254(d)’s back- 
+
+
+drop. 
+
+
+28 
+2. The Underlying Substantive Law 
+
+
+Before 1996, habeas law was stranded between two 
+views of the writ, one giving no shrift to state decisions 
+and licensing federal judges to overturn state convictions 
+based on law created after they were final, another mak- 
+ing the state decision dispositive unless proved erroneous 
+and forbidding federal courts to blind-side state judges 
+with new rules of federal law. Regarding the credit due 
+state decisions, pre-AEDPA law regarded federal habeas 
+as “an original civil proceeding, independent of the nor- 
+mal channels of review.” Townsend v. Sain, 372 US. 
+293, 311-12 (1963). This allowed “relitigation” of pris- 
+oners’ claims from scratch, and obliged federal courts to 
+treat the state decision as merely “the conclusion of a 
+court of last resort of another jurisdiction.” Brown v. 
+Allen, 344 U.S. 443, 458 (1953). Though this approach 
+survived until 1996 as to state courts’ legal and mixed 
+decisions of federal law,” cases like Sumner v. Mata, 446 
+U.S. 539 (1981), Keeney, supra, and Coleman v. Thomp- 
+son. 501 U.S. 722 (1991), rejected it as to state-court 
+factfindings, hearings and state-law grounds of decision, 
+which were treated as dispositive unless shown to be 
+flawed. 
+
+
+As for the choice of law on habeas, until 1989, habeas 
+courts routinely released prisoners on legal grounds de- 
+veloped after the state courts had upheld their convic- 
+tions.8 Teague partly curbed this practice, on the core 
+principle that “ ‘the threat of habeas serves as a necessary 
+additional incentive for [state] courts throughout the land 
+to conduct their proceedings in a manner consistent with 
+
+
+7 See Wright, 505 U.S. at 295 ( “reconsidered de novo’): Stone v. 
+Powell, 428 U.S. 465, 477 (1976) (“full reconsideration” ). 
+
+
+8 See Engle v. Isaac, 456 U.S. 107, 128 n.33 (1982) (“State courts 
+are understandably frustrated when they faithfully apply existing 
+constitutional law only to have a federal court discover, during 
+[habeas], new constitutional commands.” ). 
+
+
+29 
+
+
+established constitutional standards,’ ” so that habeas courts 
+““‘need only apply the constitutional standards that pre- 
+vailed at the time the original proceedings took place.’” 
+Id. at 306-07. Under Teague, if a prisoner’s claim in- 
+voked a rule of law that the federal courts had designed 
+for that kind of claim before the state courts ruled, a 
+federal court independently reviewed the claim under that 
+law. See note 9 infra. But if a claim depended on a rule 
+that had not been prescribed for that claim when the state 
+courts acted, it could not prevail unless, “ ‘{s]urveying the 
+legal landscape as it then existed,’ . . . a state court con- 
+sidering [the] claim . . . ‘would have felt compelled by 
+existing precedent to conclude that the rule . . . was re- 
+quired by’” existing law. Caspari v. Bohlen, 510 US. 
+383, 390 (1994). 
+
+
+Most rules in the latter category were not wholly new, 
+but existing rules the prisoner wanted “applied in a novel 
+setting”’—one for which the rule was not Originally de- 
+signed. Stringer v. Black, 503 U.S. 222, 228 (1992). 
+Here, Teague barred relief unless the state court acted 
+“unreasonably” in rejecting the rule because “application 
+of [the] old rule in [the new] manner” was “dictated by 
+precedent.” Id. at 236-37. “Whether the prisoner [sought] 
+the application of an old rule in a novel setting” depended 
+not on whether the rule’s application raised a mixed ques- 
+tion of law and fact but on whether the rule was specifi- 
+cally designed to resolve the relevant claim: 
+
+
+Teague [only] bear[s] on applications of law to fact 
+which result in the announcement of a new rule... . 
+If the rule in question is one which of necessity re- 
+quires a case-by-case examination of the evidence. 
+then we can tolerate a number of specific applica- 
+tions without saying that those applications them- 
+selves create a new rule. .. . Where the beginning 
+point is a rule of this general application, a rule 
+designed for the specific purpose of evaluating a 
+myriad of factual contexts, it will be the infrequent 
+
+
+30 
+
+
+case that yields a result so novel that it forges a new 
+rule, one not dictated by precedent. 
+
+
+Wright, 505 U.S. at 308-09 (Kennedy, J., concurring ) 
+(emphasis added); see id. at 304-05 (O'Connor, J., con- 
+curring) (“independent evaluation” is required “[iJf a 
+proffered factual distinction between the case under con- 
+sideration and pre-existing precedent does not change the 
+force with which the precedent’s underlying principle ap- 
+plies”). Teague thus was tailored to “refuse[] to give state 
+prisoners the retroactive benefit of new rules . . . [while] 
+not creat{ing] any deferential standard of review with 
+regard to old rules.” Id. at 303-04.° 
+
+
+In three major ways, however, Teague fell short of its 
+goal—“that a State . . . not be penalized for relying on 
+‘the constitutional standards that prevailed’” when the 
+state court ruled. Fretwell, 506 U.S. at 372. Federal 
+courts continued to nullify state decisions under law that 
+was not in effect or binding when the state court ruled, 
+if the new rule: (1) was created after the state court 
+
+
+9 Holding under Teague that applying settled mixed-question rules 
+to new facts “is not the stuff of which new law is made,” Reynolds- 
+ville Casket Co. v. Hyde, 514 U.S. 749, 763 (1995) (Kennedy, J. 
+concurring), are Strickler v. Greene, 119 S.ct. ——, 1999 WL 
+392982, at *13 n.35 (1999) (because Court merely applies Brady 
+suppression-of-material-evidence rule to specific facts, but “does not 
+modify Brady, we reject [the] contention that we announce a ‘new 
+rule’ today”); Bousley v. United States, 118 S.Ct. 1604, 1609-10 
+(1998) (Teague does not apply, as “claim made here is that peti- 
+tioner’s guilty plea was not knowing and intelligent” and “[t|here 
+is surely nothing new about this principle, enumerated as long ago 
+as [1941]”) ; Wright, 505 U.S. at 294 (no Teague bar “because West 
+sought ... relief under Jackson v. Virginia, which was decided .. . 
+before his conviction became final”) ; Stringer, 503 U.S. at 228-29; 
+Penry v. Lynaugh, 492 U.S. 302, 314-15 (1989). Post-Teague habeas 
+cases conducting de novo review of settled mixed-questions with no 
+hint of a Teague problem are, e.g., Buchanan v. Angelone, 118 S.Ct. 
+757, 762-63 (1998) (“reasonable likelihood” that jurors misunder- 
+stood an instruction); Thompson v. Keohane, 516 U.S. 99, 106-07 
+(1995) (suspect was “in custody”); Kyles v. Whitley, 514 U.S. 
+419, 441-42 (1995); Schiro v. Farley, 510 U.S. 222, 232 (1994). 
+
+
+31 
+
+
+acted but before certiorari review was completed; 2° (2) 
+was adopted by a federal circuit court, whose decisions, 
+unlike this Court’s, are not thought to bind state courts; 2 
+or (3) was within one of Teague’s exceptions.22 
+
+
+3. Section 2254(d)’s Rationalization of Habeas Law 
+
+
+In barring relief unless the state court’s “decision was 
+contrary to, or an unreasonable application of, clearly 
+established [Supreme Court] law,” § 2254(d) clearly ex- 
+presses four major changes in the underlying substantive 
+law. The first completes the transformation of the state 
+decision from background prop to the center of habeas 
+attention; the last three finish Teague’s work of assuring 
+fidelity to supreme federal law without “ ‘endu[ing state] 
+jurists with prescience.’” Lambrix v. Singletary, 520 U.S. 
+518, 536 n.5 (1997) (quoting Stringer, 503 U.S. at 244 
+(Souter, J., dissenting) ). 
+
+
+First, by making the state “decision” the focus of fed- 
+eral review and dispositive unless erroneous* § 2254(d) 
+
+
+10 See, e.g., Leichman v. Secretary, 939 F.2d 315, 317 & n3 
+(5th Cir. 1991) (petitioner given benefit of Taylor rule announced 
+14 months after direct review, while case was on certiorari) ; Rogers 
+v. Lee, 922 F.2d 836 (4th Cir. 1991) (petitioner given benefit of 
+Batson rule announced while his case was on certiorari); Wilkins 
+v. Bowersox, 933 F.Supp. 1496, 1526 (W.D. Mo. 1996) (finality on 
+denial of certiorari 22 month after direct appeal). 
+
+
+11 See Arizonans for Official English v. Arizona, 520 U.S. 43, 58 
+n.11 (1997); Liebman & Hertz, Federal Habeas Corpus Practice 
+and Procedure § 30.2c n.29 (38d ed. 1998) (collecting pre-AEDPA 
+decisions relying on established circuit rules, in absence of govern- 
+ing Supreme Court precedent, to overcome Teague bar). 
+
+
+12 See Liebman & Hertz, supra note 11, § 25.7 nn.11-12, 26 (col- 
+lecting decisions granting relief under Teague exceptions). 
+
+
+13 See Matteo v. Superintendent, 171 F.3d 877, 885 (3d Cir. 1999) 
+(en bane) (§ 2254(d) “firmly establishes the state court decision as 
+the starting point in habeas review”). It is only this kind of 
+“deference” —ending relitigation from scratch and giving disposi- 
+
+
+32 
+
+
+ends relitigation from scratch and the treatment of state 
+decisions as “mere authority.” Second, by asking whether 
+the state “decision was” improper under “clearly estab- 
+lished . . . law,” § 2254(d) protects state judges whose 
+decisions “were perfectly free from error when made” 
+(Mackey v. United States, 401 U.S. 667, 691 (1971) 
+(Harlan, J., concurring)) from being surprised by law 
+announced during the certiorari period. See Neelley v. 
+Nagle, 138 F.3d 917, 923 n.3 (11th Cir. 1998). Third, 
+by limiting the choice of law on habeas to rules “deter- 
+mined by the Supreme Court,” § 2254(d) shields state 
+decisions from nullification by federal circuit precedent 
+in existence, but not binding state judges, when they 
+ruled. See Sweeney v. Parke, 113 F.3d 716, 718 (7th Cir. 
+1997). Finally, § 2254(d) has no exceptions. See Green, 
+143 F.3d at 873. 
+
+
+These effects are important. But far from abjuring the 
+Court’s habeas reforms, they perfect them by more com- 
+pletely locating the state decision at the core of habeas 
+review and realizing Teague’s aim of deterring deviations 
+from federal law without commanding clairvoyance about 
+its evolution. This explains why the statute otherwise 
+codifies Teague as the Court devised it—as a strict choice- 
+of-law prescription that limits the rule to be “applifed]” 
+to “clearly established . . . law” in effect when the state 
+“decision” was made but does not impose a new and def- 
+
+
+tive effect to state court “decisions” if they pass muster under the 
+“contrary to” and “unreasonable application” clauses—to which 
+the legislative history refers. See H. Conf. Rep. 104-518, 142 Cong. 
+Rec. 3333 (Apr. 15, 1996) (§ 2254(d) “requires deference to the 
+determination of state courts that are neither ‘contrary to’ nor an 
+‘unreasonable application of’ clearly established federal law.”) ; 142 
+Cong. Rec. $3447 (Apr. 17, 1996) (Sen. Hatch) (“[t)he deference 
+_.. just means that we defer to the state courts if they have prop- 
+erly applied Federal law”; federal courts only cede “the ability to 
+virtually retry cases that have been properly adjudicated by our 
+State courts”) (emphasis added). 
+
+
+33 
+
+
+erential standard of review of the result the state court 
+reached under established law.1*4 
+
+
+B. Properly Read, § 2254(d) Allows Plenary Review of 
+State Decisions That Fail to Follow a Rule of Deci- 
+sion Previously Laid Down by this Court for the 
+Very Issue the State Court Decided 
+
+
+The plain and familiar legal meanings of § 2254(d)’s 
+
+
+key phrases, “decision was contrary to . . . law,” “clearly 
+established Federal law,” and “decision . . . involved an 
+unreasonable application of . . . law,” transparently codify 
+
+
+the basic Teague regime: 
+
+
+“Decision was contrary to law.” Under § 2254(d), 
+what is reviewed to see if it “was contrary to law” is the 
+“decision.” In legal terms, a “decision” is a “conclusion 
+of law upon facts,” a “determination arrived at after con- 
+sideration of the facts and . . . law.” In lay terms, it is a 
+“final and definite result of examining a question; a con- 
+
+
+14 Section 2254(d)’s supporters assumed that it “codifies and 
+strengthens the deference standard adopted in Teague” by “im- 
+pos[ing the) additional limitation that only decisions by this Court 
+can satisfy the ‘clearly established’ rule,” Brief for Sen. Orrin 
+G. Hatch et al. as Amicus Curiae in Felker v. Turpin, 1996 WL 
+277110, at *24-25 (May 17, 1996), while preserving plenary review 
+under settled law. See 142 Cong. Rec. S3446-47 ( Apr. 17, 1996) 
+(Sen. Hatch) (§ 2254(d) “essentially gives the Federal courts 
+authority to review, de novo, whether the State court decided the 
+claim in contravention of Federal law”); 141 Cong. Rec. S7846 
+(June 7, 1995) (Sen. Hatch) (describing as “absolutely false” Sen. 
+Biden’s claim that § 2254(d) requires “defer[ence] to State courts 
+in almost all cases, even if the State is wrong about” established 
+federal law); 142 Cong. Rec. H3602 ( Apr. 18, 1996) (Rep. Hyde) 
+(“the Federal judge always reviews the State court decision to see 
+if it is in conformity with established Supreme Court precedents’). 
+Noting that § 2254(d) “closely emulate[s] Teague” without “pur- 
+port[ing] to limit the federal courts’ independent . . . authority 
+with respect to federal questions” are O’Brien v. Dubois, 145 F.3d 
+16, 23 (1st Cir. 1998); Fern v. Gramley, 99 F.3d 255, 259-60 (7th 
+Cir. 1996) ; see Matteo, 171 F.3d at 890 ( Stapleton, J., concurring) ; 
+Neeley, 138 F.3d at 922; Zuern v. Tate, 938 F. Supp. 468, 475 
+(S.D. Ohio 1996). 
+
+
+34 
+
+
+clusion” or “resolution.” 25 The statute could not be 
+clearer, therefore, that “contrary to law” review applies 
+to mixed-question determinations and bottom-line results. 
+
+
+Nor could it be clearer that review under § 2254(d)’s 
+“decision contrary to law” clause is plenary. “Contrary 
+to” means “in conflict,” “inconsistent” or “not in confor- 
+mity with”; “tending to an opposing course.” 16 “Contrary 
+to law” means “illegal”; “in violation of .. . legal regula- 
+tions at a given time.” Black’s Law Dictionary, at 328. 
+When applied to one court’s review of another, “contrary 
+to law” is the legal term of art for plenary review, which 
+courts use to distinguish deferential (e.g., “clearly errone- 
+ous”) review, and which they apply not only to “pure” 
+but also to “mixed” legal questions that “clari[fly . . . legal 
+doctrine.” 17 This reading is compelled in any event by 
+
+
+15 Black’s Law Dictionary 407, 842 (6th ed. 1990); 4 Oxford 
+English Dictonary 332 (2d ed. 1989); Random House Webster's 
+College Dictionary 344 (1999). 
+
+
+16 Merriam-Webster Collegiate Dictionary 352 (10th ed. 1993); 
+Webster’s New University Unabridged Dictionary 397 (1979); 
+Webster’s Ninth New Collegiate Dictionary 285 (1983); Web- 
+ster’s Third New Internat’! Dictionary, Unabridged 495 (1986). 
+
+
+17 Salve Regina College v. Russell, 499 U.S. 225, 232-33 (1991). 
+Under Fed. R. Civ. P. 52(a) and Fed. R. Bank. P. 8013, courts use 
+“contrary to law” to describe their “plenary” review of all judicial 
+determinations other than findings of historical fact reviewed un- 
+der the “clearly erroneous” standard. See Flint Elec. Membership 
+Corp. v. Whitworth, 68 F.3d 1309, 1312 (11th Cir. 1995); Poly- 
+plastics v. Transconez, Inc, 827 F.2d 859, 860 (ist Cir. 1987) ; 
+Palmer v. Shultz. 815 F.2d 84, 89, 112-13 (D.C. Cir. 1987); Feir- 
+child v. Lehman, 814 F.2d 1555, 1557 (Fed. Cir. 1987) ; Jn re Brown, 
+743 F.2d 664, 666 (9th Cir. 1984). The Magistrates Act and Civil 
+Rule 72(a) likewise distinguish between an “order [that] is clearly 
+erroneous or contrary to law.” 28 U.S.C. § 636(b)(1)(A); Fed. R. 
+Civ. P. 72(a). “[Rleview under the ‘contrary to law’ standard is 
+‘plenary,’ requiring “independent judgment” on all legal questions. 
+Gandee v. Glaser, 785 F. Supp. 684, 686 (S.D. Ohio 1992), aff'd, 19 
+F.3d 1432 (6th Cir. 1994) ; see Alldread v. City of Grenada, 988 F.2d 
+1425, 1434 (5th Cir. 1993); Haines v. Liggett Group, 975 F.2d 81, 
+91 (3d Cir. 1992), In all four areas, mixed questions elaborating 
+
+
+35 
+
+
+the settled meaning of the word “law” in the phrase “con- 
+trary to law.” See Thompson vy. Keohane, 516 U.S. 99, 
+111-12 (1995) (“mixed questions of law and fact” are 
+“ranked as issue of law”); Kansas City S. Ry. v. C.J. 
+Albers Comm'n Co., 223 U.S. 573, 591 (1912) (a “mixed 
+question” is “a finding upon questions of fact [that] is so 
+involved with and dependent upon questions of law as to 
+be in substance and effect a decision of the latter”). 
+
+
+The common sense of the phrase “decision was contrary 
+to clearly established Federal law” yields the same con- 
+clusion. For it is when there was “clearly established law” 
+in effect at the time the state court acted—when there 
+was a rule in effect designed for the specific purpose of re- 
+solving the relevant claim—that the state court's decision 
+can be tested against that law and said to be “contrary 
+to” law or, conversely, conformable to law. See O’Brien, 
+145 F.3d at 24-25 (“If no Supreme Court precedent is 
+dispositive of a [claim], there is no specific rule to which 
+the state court’s decision can be ‘contrary.’”). That, in- 
+deed, is the precise sense of the identical phrases the 
+Teague cases use to describe their “de novo review of 
+mixed questions” that arise in deciding whether state deci- 
+sions were “contrary to” (Butler vy. McKellar, 494 U.S. 
+407, 414 (1990)) or “contravene well-considered prece- 
+dents,” or, conversely, whether they “conformed to rules 
+then existing,” Wright, 505 U.S. at 307 (Kennedy, J., 
+concurring); Saffle v. Parks, 494 U.S. 484, 486 (1990); 
+“comply with the federal law in existence at the time,” 
+or “comport with the federal law [then] established,” 
+Sawyer v. Smith, 497 U.S. 227, 234, 239 (1990); were 
+“ ‘consistent with established constitutional standards’ ” or 
+
+
+155 F.3d 659, 665 (3d Cir. 1998); Loehrer v. McDonnell Douglas 
+Corp., 98 F.3d 1056, 1061 (8th Cir. 1996). 
+
+
+36 
+
+
+“‘rest[] upon correct application of the law in effect at 
+the time,” Teague, 489 U.S. at 306-07 (emphasis 
+added ). 
+
+
+“Clearly established Federal law.” The clincher is the 
+“established .. . law” phrase itself, which the Teague cases 
+use to mean the “old rules” under which habeas review of 
+pure and mixed questions is plenary. See, ¢.g., Gray Vv. 
+Netherland, 518 U.S. 152, 167-69 (1996) (plenary re- 
+view only under “a well-established rule” or “well estab- 
+lished right”); Stringer, 503 U.S. at 231 (plenary review 
+under a “well-established requirement”) (emphasis 
+added). Language “ ‘transplanted from another legal 
+source . . . brings the old soil with it,’” obliging courts 
+to give the adopted phrase “its clearly accepted meaning.” 
+Evans v. United States, 504 U.S. 255, 260 & n.3 (1992); 
+West Virginia Univ. Hosp., Inc. v. Casey, 499 US. 83, 
+98 (1991). The accepted meaning of the “old rule”—the 
+“clearly established law”"—as to which Teague “gla}ve 
+prisoners the retroactive benefit . . . but did not create any 
+deferential standard of review” (Wright, 505 US. at 304 
+(O'Connor, J., concurring) ), serves in § 2254(d) to de- 
+fine the old or established rule to which a state decision 
+can be “contrary.” This refers to a preexisting rule de- 
+signed for the specific purpose of evaluating the relevant 
+claim, including “a rule of . . . general application . . . 
+designed for the specific purpose of evaluating a myriad 
+of factual contexts.” Jd. at 309 (Kennedy, J., concur- 
+ring). See id. at 304 (O'Connor, J., concurring). 
+
+
+“Decision involved an unreasonable application of law.” 
+What review is required, though, when at the time the 
+
+
+18 See also Goeke v. Branch, 514 U.S. 115, 118 (1995); Wright, 
+505 U.S. at 304 (O'Connor, J., concurring); Sawyer, 497 U.S. at 
+239: Penry, 492 U.S. at 314. Many pre-AEDPA lower court cases 
+use “clearly establish” to describe rules that are “old” for Teague 
+purposes, triggering plenary review. See, e.g., Dawson v. United 
+States, 77 F.3d 180, 183-84 (7th Cir. 1996); Walter v. United 
+States, 969 F.2d 814, 818 (9th Cir. 1992). 
+
+
+37 
+
+
+state court acted, there was no rule for resolving the claim 
+to which its “decision” could be “contrary?” What if the 
+“propositions [then] established were [only] the ‘givens’ 
+from which any {rule] had to be derived, [but] . . . were 
+not ‘controlling authority’ in the sense” that “a state court 
+considering [the prisoner’s] claim at the time his convic- 
+tion became final would have felt compelled . . . to con- 
+clude that the rule [he] seeks was required by the Con- 
+stitution?” Lambrix, 520 U.S. at 527, 529 n.3. Again, 
+§ 2254(d)’s answer is Teague’s: The habeas court must 
+ask whether the state “decision involved an unreasonable 
+application of clearly established law.” 
+
+Notably, the diction here switches from asking what 
+“the decision was” to what it “involved,” i.e.. to what it 
+“contain[ed] as a part” or “feature.” or “include[d] in its 
+operation.” ” Plainly denoted is a switch from review of 
+the state-court decision itself—the application of law to 
+fact to reach a result, see ap 33-34 supra—to review of 
+only a part or feature of the decision. 
+
+
+As plainly, the feature to be reviewed is the “unreason- 
+able[ness]” vel non of the decision’s “application of clearly 
+established Federal law.” And that feature—a decision’s 
+reasonable or unreasonable application of law—is in terms 
+the one that, in the same situation, drives the outcome 
+under Teague. Thus, if no governing rule was available 
+when the state court acted, because “established” law at 
+the time merely provided “‘givens’” from which a rule 
+“had to be derived,” Teague required habeas courts to 
+ask whether the rule the state court derived “from prece- 
+dent is not reasonable,” Wright, 505 U.S. at 304 (O’Con- 
+nor, J., concurring), or was an “unreasonable application 
+of these principles,” Gilmore v. Taylor, 508 US. 333. 
+351 (1993) (O'Connor, J., concurring), or an “illogical 
+or .. . grudging application of” precedent, Wright, 505 
+
+
+19 The American Heritage Dictionary 950 (3d ed. 1992): Oxford 
+American Dictionary 349 (1980). 
+
+
+38 
+
+
+U.S. at 312 (Souter, J., concurring)—or, conversely, 
+whether the rule involved in the state decision was a “rea- 
+sonable application{] of then-existing law,” Thompson, 
+516 US. at 119 n.1 (Thomas, J., dissenting), a “reason- 
+able reading” of that law, Stringer, 503 U.S. at 247 
+(Souter, J., dissenting), or “a reasonable interpretation” 
+of “decisions of this Court [which] clearly establish” rele- 
+vant principles, Caspari, 510 U.S. at 392, 396-97 (1994). 
+
+“'W Jhere Congress borrows terms of art,” it also “adopts 
+the cluster of ideas . . . attached” to the terms, evincing 
+“satisfaction with widely accepted definitions, not a de- 
+parture from them.” Morissette v. United States, 342 US. 
+246, 263 (1952). By codifying Teague’s “unreasonable 
+application of clearly established law” concept, § 2254(d) 
+plainly provides that when a state court was forced to 
+derive a rule by applying propositions established by pre- 
+existing law which were relevant but not controlling, re- 
+view on habeas is limited to whether the application of 
+those propositions to derive a rule was reasonable. See 
+O’Brien, 145 F.3d at 24-25. “Reasonableness, in this as 
+in many other contexts, is an objective standard”; the 
+issue is whether the state court “acted objectively un- 
+reasonably.” O'Dell v. Netherland, 521 U.S. 151, 156 
+(1997); Stringer, 503 U.S. at 237. 
+
+
+The sum and substance of § 2254(d), then, is unmis- 
+takable when its language is read with any care in the 
+light of its origins. By codifying Teague’s black-letter 
+terms, § 2254(d) requires 
+
+1) plenary “contrary to” law review (Butler, 494 
+U.S. at 414) under “ ‘well-established constitu- 
+tional principle’” (Penry, 492 U.S. at 314) if 
+Supreme Court law had specifically designed a 
+rule for the claim when the state court acted (see 
+Wright, 505 U.S. at 309 (Kennedy, J., concur- 
+ring) ), but 
+
+2) review only for an “unreasonable application” of 
+existing precedent (Gilmore, 508 U.S. at 351 
+
+
+39 
+
+
+(O'Connor, J., concurring) ) when the state court 
+acted in the absence of prescribed law.” 
+
+
+“Congress is unlikely to intend any radical departures 
+from past practice without making a point of saying so.” 
+Jones v. United States, 119 S.Ct. 1215, 1220 (1999). 
+That tenet is conclusive when Congress conversely makes 
+a point of taking “familiar legal expressions in their fa- 
+miliar legal sense” from “the underlying substantive law.” 
+Henry, 251 U.S. at 395; Keene, 508 U.S. at 209. And that, 
+as we have shown, is exactly what § 2254(d) does with 
+the key terms embodying the Teague doctrine. So, with 
+the important exceptions noted (which themselves bring 
+to full maturation the “supremacy without pre-science”—- 
+seeds that Teague originally planted), § 2254(d)’s plain 
+and established legal terms manifestly codify the Teague 
+doctrine calling for plenary review of state-court decisions 
+that are challenged on federal habeas as departures from 
+the rules of constitutional law previously announced by 
+this Court to govern that kind of decision. 
+
+
+20 See O’Brien. 145 F.3d at 24-25 (when “Supreme Court has 
+prescribed a rule that governs the petitioner’s claim”—including 
+when its “holdings . . . erect a framework specifically intended for 
+application to variant factual situations”’—“habeas court gauges 
+whether the state court decision is ‘contrary to’ the governing rule’; 
+but when “there is no specific rule to which the state court’s de- 
+cision can be ‘contrary,’” federal court asks “whether the state 
+court’s derivation of [its own] rule from the Court’s generally 
+relevant jurisprudence appears objectively reasonable”), followed 
+by Matteo, 171 F.3d at 888-90. Applying this approach, the First, 
+Second, Third, Ninth and Tenth Circuits have held that § 2254(d) 
+requires plenary, “contrary to” review of claims under, e.g. the 
+established, factually inclusive Strickland rule for ineffective assis- 
+ance claims and the Waller v. Georgia, 467 U.S. 39 (1984), rule 
+for open-trial claims. See Matteo, 171 F.3d at 899-900 (Becker, 
+C.J., concurring in the judgment) ( discussing majority opinion) : 
+Canales v. Roe, 151 F.3d 1226, 1229 n.2 (9th Cir. 1998); Miller ». 
+Champion, 161 F.3d 1249, 1253 (10th Cir. 1998); O’Brien, 145 
+F.3d at 25 n.6; Ayala v. Speckard, 89 F.3d 91, 97 (2d Cir. 1996). 
+
+
+40 
+C. The Fourth Circuit Misread § 2254(d) 
+
+
+The First and Third Circuits embrace the above inter- 
+pretation, with support from the Second, Ninth and Tenth. 
+See note 20 supra. The Fourth Circuit, with support from 
+the Fifth, Seventh and Eleventh, reads the statute to bar 
+habeas relief in all but the rarest of cases. As we now 
+demonstrate, the Fourth Circuit's reading tramples essen- 
+tial canons of construction. 
+
+
+To get the Fourth Circuit’s reading in perspective, it 
+is important to note that its point of departure (see Green, 
+143 F.3d at 869-73) was the Fifth and Seventh Circuits’ 
+reading, which puts only “pure law” questions in the ple- 
+nary “contrary to” category of review, puts “mixed ques- 
+tions” in the “unreasonable application” category, and 
+makes the latter review extremely deferential: “[A]n ap- 
+plication of law to facts is unreasonable only when... . 
+reasonable jurists considering the question would be of 
+one view that the state court ruling was incorrect”; if a 
+majority and dissent disagree on a decision’s correctness, 
+that makes the decision reasonable.*7 Acknowledging 
+that “the statute . . . makes no distinction at all between” 
+the articulation “of a legal principle . . . and the appli- 
+cation of such a principle to a particular set of facts,” the 
+Fourth Circuit made a single change in the Fifth-and- 
+Seventh Circuit approach, then adopted the rest whole- 
+sale. Id. at 872. The one change was to give plenary, 
+“contrary to” review to a state court’s “application of law 
+to facts indistinguishable in any material way from those 
+on the basis of which the [Supreme Court] precedent was 
+decided.” Id._at 870 (emphasis added). Except in cases 
+that are factually indistinguishable from one decided ear- 
+lier by this Court, the “unreasonable application” clause 
+
+
+21 Drinkard v Johnson, 97 F.3d 751, 768-69 (5th Cir. 1996) 
+(emphasis added); see Lindh v. Murphy, 96 F.3d 856, 870, 876-77 
+(7th Cir. 1996) (en banc), rev'd on other grounds, 521 U.S. 320 
+(1997). 
+
+
+41 
+
+
+becomes the whole measure of review, and relief becomes 
+available “only when the state courts have [acted] .. . in 
+a manner that reasonable jurists would all agree is un- 
+reasonable.” /d. (emphasis added). 
+
+
+As we have shown above, the Fifth-and-Seventh-Circuit 
+approach confining the “contrary to law” clause to “pure” 
+legal questions and assigning “mixed” questions to the 
+“unreasonable application” clause is indefensible as a 
+matter of statutory construction. Among other insuper- 
+able difficulties,” this reading of § 2254(d) leaves the 
+
+
+22 See Nevers v. Killinger, 169 F.3d 352, 359 (6th Cir. 1999) 
+(pure-mixed division “engrafts into the statute words—‘questions 
+of law,’ and ‘mixed questions of law and fact’—which Congress did 
+not place there”). Worse, § 2254(d)’s language replaced the House’s 
+earlier version of § 2254(d), which did distinguish the state 
+court’s “interpretation of clearly established Federal law” from its 
+“application to the facts of clearly established Federal law,” 141 
+Cong. Rec. H1424 (Feb. 8, 1995), making it “unseemly—and wrong” 
+for the Fifth and Seventh Circuits to “scavenge discarded language 
+from the legislative scrap heap and graft [it] onto the version of 
+the bill that Congress ultimately enacted.” O’Brien, 145 F.3d at 22 
+(reviewing § 2254(d)’s drafting history). The pure-mixed distinc- 
+tion also ignores the clear terms that replaced the rejected ones, 
+which clearly denote plenary review of pure and mixed conclusions 
+made when there was law to which the result could be “contrary,” 
+and “unreasonable application” review of rules derived from rele- 
+vant law in the absence of controlling law. See pp. 33-89 supra. 
+The obvious terminology to use, if Congress meant to call for defer- 
+ential review of mixed-question decisions—or, more generally, of 
+that state-court decision or result—rather than of the rule the state 
+decision involved. is the terminology of the rejected House version— 
+“decision was .. . [an] unreasonable application to the facts of 
+... law,” 141 Cong. Rec. H1424, see United States v. Gaudin, 515 
+U.S. 506, 512 (1995) (an “application-of-legal-standard-to-fact sort 
+of question [is] commonly called a ‘mixed question of law and 
+fact’”); Thompson, 516 U.S. at 112-13 (“application of the con- 
+trolling legal standard to the historical facts .. . presents a ‘mixed 
+question’”) (emphasis added)—or those of an abutting section of 
+AEDPA, § 2254(e)(1): that the legal or mixed “determination .. . 
+by a State court shall be presumed to be correct.” Asking whether 
+“the decision was contrary to law” or “involved an unreasonable 
+application of law’ is quite different. 
+
+
+42 
+
+
+“contrary to” clause a cipher, with no cases to decide. To 
+begin with, only “pure law” questions posed by settled law 
+qualify, 143 F.3d at 871, and such questions admittedly 
+arise only when something that almost never happens, 
+happens: when a state court misquotes this Court’s rule. 
+See Lindh, 96 F.3d at 877 (“contrary to” never applies 
+if state court “correctly states the holdings” of this Court’s 
+cases). And if it did happen, a mere misstatement of law 
+could not itself be a sufficient basis for habeas relief, since 
+a federal court’s “power is to correct wrong judgments, 
+not to revise opinions.” Herb v. Pitcairn, 324 U.S. 117, 
+126 (1945). Yet, when it comes to reviewing the judg- 
+ment or decision—the application of law to fact to reach 
+a result—the pure-mixed approach deploys that review to 
+the “unreasonable application” clause. This Court has 
+been “reluctant to adopt a construction [of one AEDPA 
+provision] making another . . . provision superfluous,” 
+Hohn, 118 S.Ct. at 1976; yet a pure-mixed approach does 
+just that.” 
+
+
+And the Fourth Circuit approach, although nominally 
+different, is not factually or logically so. What it does is 
+to add to the empty category of “pure law” cases arising 
+under settled law an equally illusory class of “mixed” cases: 
+cases that are identical in all ways to a previously decided 
+Supreme Court case. 143 F.3d at 871-72. Of course, 
+
+
+these “easiest cases don’t even arise.” United States v. 
+Lanier, 520 U.S. 259, 271 (1997); see Lindh, 96 F.3d 
+
+
+23 A Teague-informed reading assigns numerous cases to each 
+clause. See, e.g., Strickler, Buchanan, Schiro, supra note 9 (plenary 
+“contrary to” review; relief denied); Thompson, Kyles, Penry, 
+supra note 9 (same review; relief granted) ; O’Dell, Lambriz, Gray, 
+Caspari, Gilmore, Sawyer, Saffle, Butler, Teague, supra (“unrea- 
+sonable application” review; relief denied); and Tuggle v. Nether- 
+land, 516 U.S. 10, 18-14 (1995) (per curiam); Stansbury v. Cali- 
+fornia, 511 U.S. 318, 322-26 (1994); Stringer, 503 U.S. at 230-32 
+(relief granted under rules Court had never before articulated but 
+that its prior caselaw made it unreasonable for state courts to 
+reject). 
+
+
+43 
+
+
+at 878 (Wood, J., dissenting) (“it is rare indeed that we 
+will see something identical in all particulars to a case 
+already decided by the Supreme Court”). Moreover, there 
+is not a jot of support in § 2254(d) for limiting “con- 
+trary to” review to cases identical to a Supreme Court 
+decision. Everything points the other way. The “decision” 
+—the thing under review—is all results from applying 
+law to fact. “Contrary to law” means any inconsistency 
+with or “violation of the law at a given time”—including 
+law evolved by fact-grounded adjudication in the common- 
+law manner—and is not limited to any archetype of ille- 
+gality. Questions of “law” include mixed questions. 
+“Clearly established law” is something the Court often 
+makes without deciding the very case. See Lanier, 520 
+U.S. at 268-72 (giving many examples). Most to the 
+point, the words “decision contrary to clearly established 
+law” codify the Teague formulation for plenary review 
+under every type of old rule, including “a rule designed 
+for the specific purpose of evaluating a myriad of factual 
+contexts.” Wright, 505 U.S. at 309 (Kennedy, J., con- 
+curring) (emphasis added). 
+
+
+The Fourth Circuit did not even purport to get its “iden- 
+tical case” test from the statute. Instead, it thought the 
+“difficult{y]” of defining the statute’s “overlapping” and 
+“not . . . clear” words gave it license to remake the text 
+pursuant to an alleged “plain purpose of the statute” that 
+it neither defined nor defended but simply assumed was to 
+shut the door tight on the writ. 143 F.3d at 869-70. 
+Such is not acceptable interpretation. See West Virginia, 
+499 U.S. at 98 (“The best evidence of . . . purpose is the 
+Statutory text.”). The most disturbing aspect of the 
+Fourth Circuit’s variation on the pure-mixed theme is its 
+unrestrained impulse to scrap “the underlying substantive 
+law,” though every Teague-derived term of § 2254(d) and 
+every interpretive tenet says to conserve it. Keene, 508 
+U.S. at 209. The court turns statutory construction on its 
+
+
+44 
+
+
+head, first conceding that “§ 2254(d) imports an anti- 
+retroactivity principle into federal habeas law by requiring 
+a habeas petitioner to demonstrate that the state court's 
+resolution of his claim was inconsistent with federal law 
+that was clearly established at the time his conviction 
+became final,” but then, inexplicably, “declin[ing] to in- 
+terpret” the provision “as . . . codfy[ing]” any part of 
+“the existing non-retroactivity doctrine of Teague.” 143 
+F.3d at 873-74 (emphasis added ).** 
+
+
+Equally infirm is the Fourth Circuit's self-nullifying 
+definition of an “unreasonable application” as a ruling 
+“reasonable jurists would all agree is unreasonable.” /d. 
+at 870 (emphasis added). Treating a ruling’s existence 
+as decisive proof of its “reasonableness” is neither logical, 
+see Matteo, 171 F.3d at 889-90, nor consistent with the 
+background habeas doctrine that reasonableness is “ ‘ob- 
+jective,’ and the mere existence of conflicting authority 
+does not necessarily mean a rule” is reasonable, Wright, 
+505 U.S. at 304 (O'Connor, J., concurring). 
+
+
+Finally, the Fourth Circuit’s reading breaks the “cardi- 
+nal principle” that “if a serious doubt of constitutionality 
+is raised, . . . [a] court will first ascertain whether a con- 
+struction of the statute is fairly possible by which the 
+question may be avoided.” Crowell v. Benson, 285 U.S. 
+22, 62 (1932) The Fourth Circuit’s reading “portends” 
+at least “a serious constitutional conflict” by requiring 
+Article III judges to give force and effect to state deci- 
+sions that they are statutorily obliged to review and that, 
+in their independent judgment, violated the supreme and 
+established law of the land when made. O’Brien, 145 
+F.3d at 21-22. 
+
+
+24 See also Drinkard, 97 F.3d at 767 n.8 (“We will not complicate 
+the task of statutory interpretation before us by turning first to 
+the murkiness that is Teague retroactivity doctrine to determine 
+whether the language of the statute somehow parallels Supreme 
+Court precedent in this area.”). 
+
+
+45 
+
+
+[W]e have {never] held in the past that federal courts 
+must presume the correctness of a state court’s legal 
+conclusions on habeas, or that a state court’s incor- 
+rect legal determination has ever been allowed to 
+stand because it was reasonable. We have always 
+held that federal courts, even on habeas, have an in- 
+dependent obligation to say what the law is. 
+
+
+Wright, 505 U.S. at 305 (O'Connor, J., concurring). 
+
+
+Denying the federal courts the power to make their 
+own decisions on issues of constitutional law that come 
+before them and to embody those decisions in effectual 
+judgments would defeat “the essential constitutional role 
+
+
+25 Congress often withholds federal jurisdiction to review state 
+decisions. And it often forbids litigants to use general jurisdic- 
+tional grants as a subterfuge to obtain review of state decisions 
+that it has specifically withheld. See Full Faith and Credit Act, 
+28 U.S.C. § 1738; Anti-Injunction Act, id. § 2283; Rooker v. Fidelity 
+Trust Co., 263 U.S. 413 (1923) (all barring disappointed state- 
+court litigants—“merely [as] an attempt to get rid of [an unappea!- 
+able state] judgment,” id. at 416—from bringing a federal action 
+claiming that the unappealable state judgment violated federal 
+law). Cf. Keeney, 504 U.S. at 20 (O'Connor, J. dissenting) ; 
+McFarland v. Scott, 512 U.S. 849, 858 (1994) (if statute. €.9., on 
+habeas, specifically grants jurisdiction to review state decisions, 
+Full Faith-and Anti-Injunction Acts do not apply). Likewise, fed- 
+eral courts resist review that the “case or controversy” limit might 
+bar—as when federal courts decline to “advise” state courts that 
+their decisions misstate federal law in ways that do not affect an 
+outcome resting on an adequate state ground, Herb, 324 U.S. at 
+126, or because the error of federal law was probably harmless, see, 
+e.g., O'Neal v. McAninch, 513 US. 432, 435 (1995). And, via 
+Teague—and § 2254(d), properly read—federal courts may refuse 
+to apply “later emerging legal doctrine” to reverse state decisions 
+that were “valid when entered.” Sawyer, 497 U.S. at 234. But 
+what Congress and the Court have never done is order Article III 
+courts having jurisdiction to review state decisions to give effect 
+to those decisions that, in their independent judgment, violated 
+supreme law when made. “Congress may be free to establish a . , 
+scheme that operates without court participation” but may not 
+“instruct! ] a court automatically to enter a judgment pursuant to 
+a decision that the court has no authority to evaluate.” Gutierrez de 
+Martinez v. Lamagno, 515 U.S. 417, 430 (1995). 
+
+
+46 
+
+
+of the judiciary’—“the appearance and the reality of con- 
+trol by Article III judges over the interpretation, declara- 
+tion, and application of federal law.” Pacemaker Diag- 
+nostic Clinic, Inc. v. Instromedix, Inc., 725 F.2d 537, 
+544 (9th Cir. 1984) (en banc) (Kennedy, J.). “The 
+judicial Power” created by Article III includes three ca- 
+pacities that the Fourth Circuit reading of § 2254(d) 
+derogates: (1) to decide every aspect of a case affecting 
+the meaning of supreme law; (2) to do so independently, 
+without deference to anyone save a higher federal court; 
+and (3) to grant relief sufficient to effectuate the court's 
+legal judgment and neutralize state statutory or decisional 
+law in conflict with supreme law. See Marbury v. Madi- 
+son, 5 US. (1 Cranch.) 137, 176-78 (1803) (Congress 
+may not force Article III courts: to “close their eyes on 
+the constitution, and see only the law”; to defer to 
+Congress’ reading of the Constitution; or to give effect to 
+law found unconstitutional). The cases declaring these 
+principles, which Congress can hardly be assumed to 
+have disregarded or intended to confront by enacting 
+§ 2254(d), are legion.** 
+
+
+26 Martin v. Hunter’s Lessee, 14 U.S. (1 Wheat.) 304, 340-44, 
+858-59 (1816) (once given jurisdiction to construe a federal! treaty, 
+Court may not be limited to the “mere abstract construction of the 
+treaty itself’; rather, “every error that immediately resnects that 
+question must .. . be within the cognizance of the court,” including 
+the treaty’s application to the facts; nor may Court defer to a state 
+court on a legal question on which the two courts disagree, or let 
+the state court secure the same result by exerting a power to re- 
+ject the Court’s decisions on close questions; Court must have a 
+power to make its judgment effective against the parties); Cohens 
+v. Virginia, 19 U.S. (6 Wheat.) 264, 404 (1821) (rejecting Vir- 
+ginia’s request that Court defer to state court on “doubtful” ques- 
+tion of federal law: “With whatever doubts, with whatever diffi- 
+culties, a case may be attended, we must decide it, if it be brought 
+before us”): Osborn v. Bank of United States, 22 U.S. (9 Wheat.) 
+738, 819-23 (1824) (a federal court’s power to review a state court 
+decisicn must include a power to review factfindings decisive of 
+federal rights: if “the judicial power never can be extended to a 
+whole case, as expressed by the constitution, but to those parts of 
+
+
+47 
+
+
+These cases belie the Fourth Circuit’s answer to the 
+obvious constitutional objections to its reading—that be- 
+cause “we are free, if we choose, to decide whether a 
+habeas petitioner’s conviction and sentence violate any 
+constitutional rights,” Congress in the guise of “ ‘regulating 
+relief” may forbid all relief and force Article III judges 
+to give effect to legal decisions that in their judgment vio- 
+lated established federal law when made. Green, 143 F.2d 
+
+
+cases only which present the particular question involving the con- 
+struction of the constitution,” then “words obviously intended to 
+secure ... rights under the constitution .. . will be restricted to 
+the insecure remedy of an appeal, upon an insulated point, after it 
+has received that shape which may be given to it by another tribu- 
+nal”); Ableman v. Booth, 62 U.S. (21 How.) 506, 517, 522-23 
+(1858) (state court may not, by granting habeas writ freeing a 
+federal convict, “reverse{] and annul[] the judgment of the Dis- 
+trict Court of the United States”; federal court must have power 
+sufficiently “paramount in authority to carry” its view of supreme 
+law “into execution”); United States v. Klein, 80 U.S. (13 Wall.) 
+128, 145-47 (1871) (Congress may not order a federal court to ir- 
+nore evidence presenting a constitutional issue: to apply a “con- 
+clusive presumption” “giv[{ing the evidence) an effect precisely con- 
+trary” to that “which, in its own judgment, such evidence should 
+have” under federal law; or to surrender jurisdiction or the power 
+to order relief if—after being given “jurisdiction ... to a given 
+point”—it finds a federal violation); Gordon v. United States, 117 
+U.S. 697, 698-99. 702 (1864) (Congress may not deprive an Artic'e 
+III court with jurisdiction of the power to order relief. else its judg- 
+ment would be merely advisory); Crowell ». Benson. 285 US. 22, 
+60 (1932) (“In cases brought to enforce constitutional rights, the 
+judicial power . . . necessarily extends to the independent determi- 
+nation of all questions, both of fact and law, necessary to the per- 
+formance of that supreme function.”): Norris ». Alahama, 294 
+U.S. 587, 590 (1935) (an Article III court may not defer to a state 
+criminal court’s decision of a mixed constitutional question); Plaut 
+v. Spendthrift Farm, Inc., 514 U.S. 211, 218-19 (1995) (Congress 
+may not deny federal judgments effect because Article III “gives 
+the Federal Judiciary the power, not merely to rule on cases, but 
+to decide them, subject to review only by superior [ Article IIT} 
+courts”—i.e., the power “to render dispositive judgments”). See 
+generally James S. Liebman & William F. Ryan, “Some Effeciual 
+Power”: The Quantity and Quality of Decisionmaking Required 
+of Article II] Courts, 98 Colum. L. Rev. 696 (1998). 
+
+
+48 
+
+
+at 875. From Marbury and United States v. Klein, to 
+Plaut v. Spendthrift Farm, Inc., the Court has held that 
+the judicial power requires more than “merely” an ability 
+to issue “an opinion, which would remain a dead letter, 
+and without any operation upon the parties.” Gordon, 
+117 U.S. at 702. It requires, instead a “Power": an 
+ability to enforce the court’s opinion through a remedy 
+sufficient to make binding its conclusion about the de- 
+mands of supreme law.” This is especially so when relief 
+is needed to neutralize a state court’s decision of /aw that 
+is found to contravene the Constitution when it was made. 
+Otherwise Article III courts would be required to flout 
+the Supremacy Clause by letting state courts make law 
+in conflict with supreme law. 
+
+
+A court’s duty is to adopt any “fairly possible” con- 
+struction of a statute by which serious “constitutional 
+questions may be avoided.” Johnson v. Robison, 415 
+U.S. 361, 366-67 (1974). The Fourth Circuit has maxi- 
+mized constitutional doubt by adopting the textually 
+weakest reading. Its reading must be rejected. 
+
+
+D. Under § 2251(d), the Virginia Supreme Court Deci- 
+sion in Terry Williams’ Case Was Contrary to, and 
+an Unpreasonable Application of, Clearly Estab- 
+lished Supreme Court Law 
+
+
+Strickland’s 1984 test for determining the prejudice re- 
+quired to support a claim of ineffective assistance of 
+counsel was the controlling legal standard when the Vir- 
+ginia Supreme Court decided Williams’ case in 1997. 
+Such a standard is the classic “rule of . . . general appli- 
+
+
+27 See Hart, The Power of Congress to Limit the Jurisdiction of 
+Federal Courta: An Exercise in Dialectic, 66 Harv. L. Rev. 1362, 
+1266 (1953) (Congress may select among remedies, but “denial of 
+any remedy” is constitutionally suspect); Sager, Conatitutional 
+Limitations on Congress’ Authority to Regulate the Jurisdiction 
+of the Federal Courts, 95 Harv. L. Rev. 17, 87-88 (1981) (an “ob- 
+jection to legislation that .. . deprives [federal courts) of jurisdic- 
+tion to provide effective relief” is “at the very heart of .. . Klein’). 
+
+
+49 
+
+
+cation . . . designed for the specific purpose of evaluating 
+a myriad of factual contexts.” Wright, 505 U.S. at 309 
+(Kennedy, J., concurring); see Strickland, 466 U.S. at 
+698; and see note 20 supra. Moreover, because Williams’ 
+claim arose in Strickland’s exact setting—a lawyer's fail- 
+ure to develop and present available mitigating evidence 
+at a capital-sentencing trial—the facts of Williams’ case 
+“do[] not change the force with which [Strickland’s} prin- 
+ciple applies.” Wright, 505 U.S. at 304 (O'Connor, J., 
+concurring). 
+
+
+Strickland thus provides “clearly established Federal law, 
+as determined by the Supreme Court” to which the Vir- 
+ginia court’s “decision” can be “contrary.” And as we 
+have demonstrated, that decision manifestly was contrary 
+to Strickland. See pp. 11-16 supra. Indeed, by reading 
+Fretwell as a general gloss on Strickland that converted 
+Strickland’s clearly-stated probabilistic standard into an 
+impressionistic inquiry into “fundamental fairness,” the 
+Virginia Supreme Court not only rendered a decision 
+“contrary to” Strickland, but one that displaces Strickland 
+as the law of the federal Sixth Amendment in Virginia. 
+See pp. 17-22 supra. 
+
+
+In any event, on the facts of Williams’ case, the Vir- 
+ginia court’s decision that he would receive a “windfall” 
+under Fretwell if he were given a new sentencing hearing 
+with a competent lawyer to present the substantial mitigat- 
+ing evidence neglected at his original trial is also an “un- 
+reasonable application” of Fretwell itself. It cannot be 
+immunized from correction, as the Fourth Circuit did, 
+on the theory that a state-court decision can be found 
+“unreasonable” only when it “ ‘decided the question [pre- 
+sented] by interpreting or applying the relevant precedent 
+in a manner that reasonable jurists would al/ agree is un- 
+reasonable.’” (JA 498) (emphasis added). This would 
+be akin to saying that the question whether the tempera- 
+ture in a building is “intolerable” must be determined, 
+
+
+50 
+
+
+not by asking whether anybody in the building can sur- 
+vive it, but by asking whether anybody in the building can 
+imagine that anybody else might. Interposing two layers 
+of insulation between reason and the Constitution is the 
+kind of “far-reaching and seemingly perverse” action that 
+should not be attributed to AEDPA with no support for 
+it in the statute’s text. Stewart, 118 S.Ct. at 1621. 
+
+
+CONCLUSION 
+
+
+Terry Williams is entitled to relief under both clauses 
+of 28 U.S.C. § 2254(d)(1). The judgment below should 
+be reversed with directions to vacate his death sentence. 
+
+
+Respectfully submitted, 
+
+
+BRIAN A. POWERs * 
+
+ELLEN O. BOARDMAN 
+
+DINAH S. LEVENTHAL 
+
+O’ DONOGHUE & O’ DONOGHUE 
+4748 Wisconsin Avenue, N.W. 
+Washington, D.C. 20016 
+(202) 362-0041 (telephone) 
+(202) 237-1200 (facsimile) 
+Counsel for Petitioner 
+
+
+* Counsel of Record June 28, 1999 
+
+

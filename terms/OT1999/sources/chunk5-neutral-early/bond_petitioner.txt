@@ -1,0 +1,1233 @@
+No. 98-9349 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+STEVEN DEWAYNE BOnpD, 
+
+
+Petitioner, 
+v. 
+
+
+UNITED STATES OF AMERICA 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fifth Circuit 
+
+
+BRIEF FOR PETITIONER 
+
+
+M. CAROLYN FUENTES * 
+Assistant Federai Public 
+Defender 
+
+
+LUCIEN B. CAMPBELL 
+Federal Public Defender 
+
+
+HENRY J. BEMPORAD 
+Deputy Federal Public 
+Defender 
+
+
+Western District of Texas 
+727 E. Durango Boulevard 
+B-207 
+
+San Antonio, Texas 78206 
+(210) 472-6700 
+
+
+* Counsel of Record 
+
+
+WARE A, 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTION PRESENTED 
+
+
+Whether a search occurs when a law enforcement 
+
+
+officer manipulates a bus passenger’s personal carry-on 
+luggage to determine its contents. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+I i 
+‘ 
+TT eR v 
+OPINIONS AND ORDERS BELOW .............................. 1 
+ENE Le 1 
+CONSTITUTIONAL PROVISION INVOLVED ............ 1 
+STATEMENT OF THE CASE ...........................0........... 1 
+SUMMARY OF THE ARGUMENT ................................ 5 
+EEE Ee 7 
+A FOURTH AMENDMENT SEARCH OC- 
+CURRED WHEN A LAW ENFORCEMENT OFF'I- 
+CER MANIPULATED BOND’S CARRY-ON LUG- 
+GAGE TO DETERMINE ITS CONTENTS ............ 7 
+A. Bond Had a Reasonable Expectation of Privacy 
+in the Contents of His Carry-On Luggage ............ 7 
+B. Agent Cantu’s Exploratory Tactile Examination 
+of Bond’s Bag Was a Search Because It In- 
+fringed Bond’s Reasonable Expectation of Pri- 
+vacy in the Contents of His Luggage .................... 9 
+1. Agent Cantu’s manipulation of Bond’s lug- 
+gage was physically intrusive ........................ 10 
+2. Agent Cantu’s manipulation of Bond’s lug- 
+gage revealed its contents —.............................. 12 
+8. The physical intrusiveness of Agent Cantu’s 
+exploratory manipulation, and the informa- 
+tion it revealed, distinguish his actions from 
+the dog sniff in United States v. Place.......... 15 
+
+
+(iii) 
+
+
+v 
+iv 
+TABLE OF AUTHORITIES 
+
+TABLE OF CONTENTS—Continued Cases Page 
+C. Bond Did Not Relinquish His Reasonable Expec- ay) Arizona v. Hicks, 480 U.S. 821 (1987) -............ 10, 12, 18 
+tation of Privacy by Placing His Bag in the Lug- ns Orme ae a = phy ba-ny Gisen). 10, - 
+
+— ; amara v. Municipal Court, S. i. 
+0 I eee ae IR tpn - Cardwell v. Lewis, 417 U.S. 583 (1974) ................... 8 
+
+1. Travelers like Bond do not relinquish their Dow Chemical Co. v. United States, 476 U.S. 227 
+reasonable expectation of privacy in luggage ir ei Raa aha 10 
+by putting it in an overhead bin .................... 17 Florida v. Riley, 488 U.S. 445 (1989) 0... 10 
+
+2. Bond did not knowingly expose his bag to an Hernandez v. United States, 353 F.2d 624 (9th Cir. 
+intrusive manipulation calculated to detect 1965) 9G" EEE EP egpennremEy 9 
+gE ited nami eli cede aatane ih ati 18 Katz v. United States, 389 U.S. 347 (1967)..10, 12, 17, 18 
+
+Lo-Ji Sales, Inc. v. New York, 442 U.S. 319 
+I Sco To tee 22 (1979). ----n-----n-eeeo-nn-eneneeneensenseneneeneectnceneenenesnee 19, 20 
+Mancusi v. DeF orte, 392 U.S. 364 (1968) —............ 20 
+Maryland v. Buie, 494 U.S. 325 (1909) —..0000000.. 14 
+Minnesota v. Dickerson, 508 U.S. 366 (1993)........ passim 
+Miranda v. Arizona, 384 U.S. 436 (1966) ............. 4 
+New Jersey v. T.L.O., 469 U.S. 325 (1985) ............. 7,17 
+O’Connor v. Ortega, 480 U.S. 709 (1987) —....... 17, 18, 20 
+Oliver v. United States, 466 U.S. 170 (1984)........ 8, 10 
+
+
+Olmstead v. United States, 277 U.S. 438 (1928)... 21 
+Soldal v. Cook County, Ill., 506 U.S. 56 (1992)... 12 
+
+
+Terry v. Ohio, 392 U.S. 1 (1968) ........................ 9,10, 14 
+United States v. Bond, 167 F.3d 225 (5th Cir. 
+ED dereatttnininininicsitnipiniincnitiiaarennrerrenmnteesemenne 1, 20 
+
+
+United States v. Chadwick, 433 U.S. 1 (1977), ab- 
+rogated on other grounds, California v. Acevedo, 
+I a ee 8,17 
+United States v. Gwinn, 191 F.3d 874 (8th Cir. 
+A ee oe salads 16, 18, 19 
+United States v. Jacobsen, 466 U.S. 109 (1984)..7, 10, 15 
+| United States v. Karo, 468 U.S. 705 (1984)... 12 
+United States v. McDonald, 100 F.3d 1320 (7th 
+ESE ES SS SS 13, 14, 19 
+United States v. Most, 876 F.2d 191 (D.C. Cir. 
+OER ee 20 
+United States v. Nicholson, 144 F.3d 632 (10th Cir. 
+EE DEL ee 14, 18, 20 
+United States v. Place, 462 U.S. 696 (1983) ..7, 15, 16, 17 
+Winston v. Lee, 470 U.S. 753 (1985) .................... 21 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—Continued 
+Constitutional Provision Page 
+Fourth Amendment, United States Constitution....p,assim 
+
+
+Statutes 
+
+
+SD ES 
+Se SB isin escsecienhicetenctnciictinfessebinidanapiniaeteen 
+Sa a SUID \seichigumaipancundioccemanepmysenpiathinnatiietes 
+
+
+Other Authorities 
+
+
+BENJAMIN GALE, BRIEF REMARKS ON SEVERAL 
+LAws (Hudson & Goodwin, 1782) (title abbre- 
+SERRA a ES EE 2 he Tne SRS See El 8, 21 
+William J. Cuddihy, The Fourth Amendment: Ori- 
+gins and Original Meaning (1990) (unpublished 
+Ph.D. dissertation, Claremont Graduate School) 
+
+
+a 
+
+
+(on file with UMI Dissertation Services) ......... 8 
+RANDOM HoUSE UNABRIDGED DICTIONARY (2d ed. 
+RSE AB ASE oh seas IS RE ee A SE LP 11 
+
+
+THE OXFORD ENGLISH DICTIONARY (2d ed. 1989).. 11 
+THE NEW SHORTER OXFORD ENGLISH DICTIONARY 
+
+
+OPINIONS AND ORDERS BELOW 
+
+
+The opinion of the U.S. Court of Appeals for the Fifth 
+Circuit in United States v. Bond, 167 F.3d 225 (Sth Cir. 
+1999), is reproduced in the Joint Appendix at 36-42. 
+The district court’s unreported orders denying Bond’s mo- 
+tion to suppress and his motion to reconsider are repro- 
+duced in the Joint Appendix at 20-25, 26-28. 
+
+
+JURISDICTION 
+
+
+The opinion and judgment of the United States Court 
+of Appeals for the Fifth Circuit were entered on February 
+8, 1999. Bond’s petition for certiorari was timely filed on 
+May 10, 1999, and was granted on October 12, 1999. 
+The jurisdiction of this Court rests on 28 U.S.C. § 1254 
+(1). 
+
+CONSTITUTIONAL PROVISION INVOLVED 
+
+
+The Fourth Amendment to the United States Constitu- 
+tion provides: 
+
+
+The right of the people to be secure in their persons, 
+houses, papers, and effects, against unreasonable 
+searches and seizures, shall not be violated, and no 
+Warrants shall issue, but upon probable cause, sup- 
+ported by Oath or affirmation, and particularly de- 
+scribing the place to be searched, and the persons or 
+things to be seized. 
+
+
+STATEMENT OF THE CASE 
+
+
+After a bench trial in the U.S. District Court for the 
+Western District of Texas. Petitioner Steven Dewayne Bond 
+was convicted of possessing and conspiring to possess 
+methamphetamine, in violation of 21 U.S.C. 8§ 841(a) 
+(1) and 846. He was sentenced to 57 months’ imprison- 
+ment followed by a term of supervised release. The court 
+of appeals affirmed his convictions. 
+
+
+—— ee ee 
+
+
+2 
+
+
+Bond’s Arrest. Bond’s convictions were based on 
+methamphetamine that was discovered in his carry-on lug- 
+gage while he was traveling as a passenger on a Grey- 
+hound bus. The methamphetamine, which weighed 1.3 
+pounds, was wrapped in gray duct tape until it formed an 
+oval-shaped mass. (J.A. 14; Tr. 12-13, 18, 53.)* The 
+taped package was wrapped again in a pair of pants, and 
+then placed inside a green canvas bag, along with clothing 
+and food. (J.A. 12-14; Tr. 10, 12-13, 54-55.) The bag, 
+measuring about a foot and a half long by a foot wide, 
+was zipped shut. (J.A. 12; Tr. 10, 64.) Bond put his 
+bag in the luggage bin directly over his seat on the bus. 
+(J.A. 10; Tr. 8.) 
+
+
+As Bond traveled from California to Arkansas, his bus 
+was required to stop at an immigration checkpoint oper- 
+ated by the U.S. Border Patrol near Sierra Blanca, Texas. 
+(J.A. 6-7; Tr. 3-4, 25, 48.) The checkpoint, which is not 
+on the U.S.-Mexico border, is located east of El Paso on 
+Interstate Highway 10. (J.A. 6-7; Tr. 2-3, 25.) All buses 
+entering the checkpoint are regularly diverted to a second- 
+ary inspection lane so that agents can board them and 
+question passengers about their citizenship (J.A. 6-8; 
+Tr. 3-4, 28.) Approximately 12 to 16 buses enter the 
+checkpoint daily, each of them carrying between 15 to 45 
+passengers. (Tr. 25.) Bond’s bus, which could accom- 
+modate “at least 45” passengers, was nearly full. (Tr. 
+25, 67.) 
+
+
+Border Patrol Agent Cesar Cantu Jr. was on duty when 
+Bond’s bus arrived at the checkpoint. Following his rou- 
+tine, Cantu boarded the bus and walked from the froni 
+
+
+1The Joint Appendix is cited as “J.A. [page]”; the transcript 
+of the hearing on Bond’s Motion to Suppress is cited as “Tr. 
+[page]”; and the record of the court of appeals is cited as “[volume] 
+
+
+C.A. [page].” 
+
+
+3 
+
+
+to the back conducting his immigration inspection. Once 
+he was satisfied that all on board were lawfully in the 
+country, Cantu began a “nonimmigration inspection” for 
+drugs, working from the back to the front.2 (J.A. 6-8, 
+10-11, 15; Tr. 2-4, 8, 30, 42-43.) 
+
+
+Continuing his routine, Agent Cantu worked his way 
+out of the bus by “feeling and squeezing” the passengers’ 
+carry-on luggage stored in overhead bins. (J.A. 9-11, 15, 
+37; Tr. 6-9, 30, 38-39, 42.) In addition to manipulating 
+luggage in the overhead bins, Cantu looked for luggage 
+under the seats, sometimes asking passengers to move to 
+conduct his inspection. (J.A. 9, 16; Tr. 6, 31-32.)? 
+
+
+“[S]queezing as many bags as [he] could on the way 
+out” of the bus, Cantu came to the green canvas bag that 
+Bond had placed above his seat. (J.A. 10-12; Tr. 8-10, 
+38.) The agent “felt” the bag and “squeezed” it “very 
+hard”—hard enough to identify “a brick-like object” with 
+“an outline of something of different mass inside of it.” 
+(J.A. 10-11, 15; Tr. 8-9, 30.)* Agent Cantu’s tactile ex- 
+amination permitted him to feel the “edges of the brick.” 
+(J.A. 12: Tr. 10-11.) Based on this manipulation and 
+his experience, the agent thought the brick-shaped object 
+was narcotics. (J.A. 12; Tr. 10-11.) 
+
+
+2Cantu believed he had authority to inspect for narcotics based 
+on an unspecified understanding between the Border Patrol and the 
+Drug Enforcement Administration (DEA). (Tr. 33-34, 42.) 
+
+
+3In the commercial buses that Agent Cantu regularly inspected, 
+the physical characteristics of the overhead bins varied: some were 
+open, and others were closed compartments with a door and a latch. 
+(J.A. 6-10; Tr. 3-4, 6-7.) If a bus had closed bins, Cantu would open 
+all the bins so that he could “go along feeling of bags.” (J.A. 9-10; 
+Tr. 7.) Cantu could not remember whether the bins in Bond’s bus 
+were open or closed. (J.A 9; Tr. 6-7.) 
+
+
+4Bond and his companion, James Wiggs, testified that Cantu 
+grabbed, shook, squeezed, and sniffed the bag. (J.A. 18; Tr. 60, 71.) 
+
+
+4 
+
+
+Agent Cantu asked who owned the green bag, and 
+Bond replied that he did. (J.A. 13; Tr. 12.) When the 
+agent asked if he could open the bag, Bond said “go 
+ahead.” (J.A. 13-14; Tr. 12, 61.) Cantu opened the bag 
+and found methamphetamine. (J.A. 14; Tr. 13, 19.) He 
+advised Bond of his Miranda rights * and questioned him. 
+(Tr. 14, 19.) Bond admitted that he possessed the meth- 
+amphetamine and told the agent how he had come to have 
+it. (Tr. 20-21.) Bond confessed again later, after an- 
+other advisement of rights. (Tr. 44-51.) 
+
+
+The Motion to Suppress. Bond moved to suppress the 
+methamphetamine and his confessions. (1 C.A. 17-25.) 
+At the hearing on the motion, Agent Cantu testified that 
+his squeezing and feeling of Bond’s luggage was not based 
+on any individualized suspicion, but was part of his routine 
+inspection of bus passengers’ luggage for drugs. (J.A. 9- 
+12; Tr. 6, 8-11, 38.) The district court found that Cantu’s 
+actions were not a search and denied the motion to sup- 
+press. (J.A. 20-28.) 
+
+
+The Appeal. On appeal, Bond argued that the agent’s 
+manipulation of his carry-on luggage was a search, con- 
+ducted without reasonable suspicion, probable cause, or 
+consent. The U.S. Court of Appeals for the Fifth Circuit 
+rejected this contention. Although finding that “Agent 
+Cantu’s manipulation of Bond’s bag was calculated to 
+detect contraband,” the court held that the agent’s manip- 
+ulation of the luggage was not a search for Fourth Amend- 
+ment purposes. (J.A. 40.) The court reasoned: 
+
+
+Bond stored his bag in the overhcad luggage bin of 
+a Greyhound bus. The bin was a common area of 
+the bus, and it was foreseeable that his bag would be 
+
+
+5 Miranda v. Arizona, 384 U.S. 436 (1966). 
+
+
+= 
+
+
+E 
+
+
+5 
+
+
+squeezed, moved, and manipulated by others. On 
+common carriers, passengers often handle and manip- 
+ulate other passengers’ luggage while stowing or re- 
+trieving their own luggage. By placing his bag in the 
+overhead bin, Bond knowingly exposed it to the 
+public and, therefore, did not have a reasonable ex- 
+pectation that his bag would not be handled or manip- 
+ulated by others. 
+
+
+(1d. at 38-39). 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+A Fourth Amendment Search Occurred When a Law En- 
+forcement Officer Manipulated Bond’s Carry-On Luggage 
+to Determine Its Contents. 
+
+Around the country, law enforcement officers—acting 
+without probable cause, reasonable suspicion, or consent— 
+manipulate travelers’ carry-on luggage to inspect it for 
+drugs. Such inspections are Fourth Amendment searches. 
+The Fifth Circuit Court of Appeals, however, ruled that 
+they are not. The court reasoned that no search occurs 
+because travelers who place their luggage in an overhead 
+bin expose it to handling by others, and consequently have 
+no expectation of privacy in their luggage. The Fifth 
+Circuit was incorrect. Travelers like Bond may subject 
+their luggage to casual contact from others by placing 
+it in an overhead bin. But neither Bond nor any other 
+traveler knowingly exposes his luggage to the sort of intru- 
+sive and revealing manipulation that Agent Cantu used to 
+inspect luggage. Cantu’s manipulation of Bond’s carry-on 
+bag infringed Bond’s reasonable expectation of privacy in 
+his luggage and therefore was a search. 
+
+
+A. The Fourth Amendment specifically protects “per- 
+sons, houses, papers, and effects” against unreasonable 
+search and seizure. Luggage is a repository of one’s per- 
+sonal “effects” and society accepts as reasonable the ex- 
+
+
+pectation that the contents of luggage will remain private. 
+Bond manifested and preserved his expectation that the 
+contents of his luggage would remain privatt by carrying 
+his bag onto the bus and placing it in the overhead bin 
+directly above his seat. 
+
+
+B. By manipulating Bond’s carry-on bag in a manner 
+calculated to reveal its contents, Agent Cantu infringed 
+Bond’s reasonable expectation of privacy. The agent’s 
+manipulation of Bond’s bag bore the hallmarks of a search: 
+it was physically intrusive, and it revealed private informa- 
+tion about the contents of Bond’s personal luggage. Like 
+a patdown of outer clothing to find weapons, or manipula- 
+tion of a pocket to investigate its contents—inspections that 
+this Court has held are searches—Agent Cantu’s tactile 
+examination of Bond’s luggage was a search. 
+
+
+C. The Fifth Circuit incorrectly concluded that Bond 
+gave up the expectation of privacy in his luggage when he 
+exposed it to the public by placing his bag in an overhead 
+luggage bin. Neither Bond nor any other traveler relin- 
+quishes the expectation that the contents of a carry-on 
+bag will remain private by temporarily stowing it in an 
+overhead bin. Luggage is meant to secure the privacy and 
+safety of one’s personal effects while traveling. The Fourth 
+Amendment’s protection of luggage means nothing if 
+merely placing a bag in an overhead bin extinguishes the 
+expectation of privacy in its contents. By putting his bag 
+in the bin, Bond might have subjected it to casual contact 
+by other passengers, but Agent Cantu’s squeezing and feel- 
+ing of Bond’s bag far exceeded what Bond could reason- 
+ably have expected from other passengers. Cantu thus 
+conducted a search when he manually inspected Bond’s 
+bag for drugs by squeezing and feeling it—manipulation 
+that Bond would never have reasonably expected from his 
+fellow passengers. 
+
+
+tl — 
+
+
+7 
+
+
+ARGUMENT 
+
+
+A FOURTH AMENDMENT SEARCH OCCURRED 
+WHEN A LAW ENFORCEMENT OFFICER MANIPU- 
+LATED BOND’S CARRY-ON LUGGAGE TO DETER- 
+MINE ITS CONTENTS. 
+
+
+For purposes of the Fourth Amendment, a search occurs 
+when the government infringes an individual’s reasonable 
+expectation of privacy. Bond, a passenger on a Greyhound 
+bus, had a reasonable expectation of privacy in the carry- 
+on bag that he placed in the overhead bin directly above 
+his seat. Agent Cantu infringed Bond’s expectation that 
+the contents of his luggage would remain private when he 
+manipulated Bond’s bag in a manner calculated to deter- 
+mine whether it contained drugs. The agent’s intrusive 
+tactile examination of Bond’s bag—undertaken without 
+probable cause, reasonable suspicion, or consent—deprived 
+Bond of the Fourth Amendment right “to be secure in 
+[his] . . . effects, against unreasonable searches.” 
+
+
+A. Bond Had a Reasonable Expectation of Privacy in the 
+Contents of His Carry-On Luggage. 
+
+
+The Fourth Amendment’s prohibition against unreason- 
+able searches protects those “expectation[s] of privacy that 
+society is prepared to consider reasonable.” United States 
+v. Jacobsen, 466 U.S. 109, 113 (1984). Society con- 
+siders it reasonable for travelers like Bond to expect that 
+the contents of their luggage will remain private. This 
+Court has recognized that “a person possesses a privacy 
+interest in the contents of personal luggage that is pro- 
+tected by the Fourth Amendment.” United States v. Place, 
+462 U.S. 696, 707 (1983); see also New Jersey v. T.L.O.., 
+469 U.S. 325, 337 (1985) (Fourth Amendment protects 
+personal luggage). 
+
+
+Travelers have a privacy interest in luggage because 
+“luggage is intended as a repository of personal effects.” 
+
+
+United States v. Chadwick, 433 U.S. 1, 13 & n.8 (1977), 
+abrogated on other grounds, California v. Acevedo, 500 
+U.S. 565 (1991).® One’s “effects” are explictly protected 
+by the text of the Fourth Amendment, and the Framers of 
+the amendment would have understood the term “effects” 
+to include personal property—property like the contents 
+of Bond’s carry-on luggage. See Oliver v. United States, 
+466 U.S. 170, 177 n.7 (1984) (“effects” in Fourth 
+Amendment refers to personal, not real property); see also 
+Cardwell v. Lewis, 417 U.S. 583, 591 (1974) (Fourth 
+Amendment traditionally deemed to protect personal 
+effects) .7 
+
+
+Bond manifested his privacy expectation by carrying 
+his closed luggage onto a Greyhound bus for his trip 
+from California to Arkansas. Instead of checking his bag, 
+Bond kept it in his control by placing it in the overhead 
+bin directly above his seat. With his luggage close by, 
+Bond had a reasonable expectation that its contents would 
+remain private. 
+
+
+6 In Acevedo, this Court analyzed inconsistent Supreme Court au- 
+thority governing the search of containers in automobiles—authority 
+that included the Chadwick case. 500 U.S. at 565-80. The Court 
+concluded that “[t]he police may search an automobile and the con- 
+tainers within it where they have probable cause to believe contra- 
+band or evidence is contained,” but did not question the privacy 
+interest in luggage. 500 U.S. at 580. 
+
+
+7 During the post-revolutionary period, there was an outcry 
+against searches of travelers’ portmanteaus and saddlebags—show- 
+ing that travelers have long had a special privacy interest in their 
+personal luggage. See William J. Cuddihy, The Fourth Amendment: 
+Origins and Original Meaning 1518-19 (1990) (unpublished Ph.D. 
+dissertation, Claremont Graduate School) (on file with UMI Dis- 
+sertation Services); BENJAMIN GALE, BRIEF REMARKS ON SEVERAL 
+LAws 44 (Hudson & Goodwin, 1782) (title abbreviated). Objecting 
+to such searches, Benjamin Gale wrote in 1782: “the practice is 
+most infamous, and I would put up with a little smuggling, in- 
+famous as it is, sooner than give up the essential rights of a citizen 
+of a Free State.” GALE, id.; see also Cuddihy, at xxxiii, 1518-19. 
+
+
+| 
+
+
+9 
+
+
+B. Agent Cantu’s Exploratory Tactile Examination of 
+Bond’s Bag Was a Search Because It Infringed Bond’s 
+Reasonable Expectation of Privacy in the Contents of 
+His Luggage. 
+
+
+Using his sense of touch, Agent Cantu examined Bond’s 
+bag from the outside. Such examination constitutes a 
+search when it is designed to reveal the presence of ob- 
+jects that are hidden from view. See Minnesota v. Dicker- 
+son, 508 U.S. 366, 378-79 (1993) (feeling outside of 
+jacket pocket to investigate its comtents was search); 
+Terry v. Ohio, 392 U.S. 1, 16 (1968) (frisk of outer 
+clothing for weapons was search). With regard to a 
+person’s clothing, this Court has observed that “it is noth- 
+ing less than sheer torture of the English language to 
+suggest that a careful exploration of the outer surfaces 
+
+. in an attempt to find weapons is not a ‘search.’” 
+Terry, 392 U.S. at 16. It would likewise torture the Eng- 
+lish language to say that Agent Cantu’s manipulation of 
+the outside of Bond’s luggage, in an attempt to find drugs, 
+was not a search. Like the frisk at issue in Terry, Cantu’s 
+feeling and squeezing of Bond’s bag was aimed at reveal- 
+ing hidden objects; it was calculated to reveal items with 
+a size, shape, density, or other characteristic that indi- 
+cated the presence of drugs. Cantu’s exploratory manipu- 
+lation was a search as that term is commonly understood.° 
+
+
+Cantu’s actions were also a search under the Fourth 
+Amendment, because they infringed Bond’s reasonable 
+
+
+8 Since before the Fourth Amendment was drafted, to “search” 
+has meant to “examine (a person) by handling, removal of gar- - 
+ments, etc. in order to locate any concealed article.” 2 THE NEW 
+SHORTER OXFORD ENGLISH DICTIONARY 2746 (1993) (late Middle 
+English usage 1350-1469) ; see also Hernandez v. United States, 353 
+F.2d 624, 626 (9th Cir. 1965) (search is “an ‘exploratory investiga- 
+tion’” or “a ‘prying into hidden places for that which was con- 
+cealed ... .’ 38 Words & Phrases 401-02 (Perm. 2d), 123-26 (1965 
+PF.)”). 
+
+
+10 
+
+
+expectation of privacy. There is no talisman for deter- 
+mining whether government action constitutes a Fourth 
+Amendment search But two factors are often significant: 
+(1) whether government action was physically intrusive; ® 
+and (2) whether it was capable of revealing information 
+about private matters.° Both these factors brand Agent 
+Cantu’s manipulation of Bond’s bag as a search. It was 
+physically intrusive, and it revealed information about the 
+bag’s contents—contents that traditionally have been pro- 
+tected by the Fourth Amendment. 
+
+
+1. Agent Cantu’s manipulation of Bond’s luggage 
+was physically intrusive. 
+
+
+Physical intrusion by a government agent is neither 
+necessary nor sufficient to find that a Fourth Amendment 
+search occurred.“ Such intrusion often constitutes a 
+search, however, because it generally compromises privacy 
+interests. See Dickerson, 508 U.S. at 378-79 (1993) 
+(squeezing, sliding, and manipulating lump of cocaine is 
+search); Arizona v. Hicks, 480 U.S. 321, 324-25 (1987) 
+(moving stereo components in home is search); Terry, 
+
+
+® See, e.g., Florida v. Riley, 488 U.S. 445, 449 (1989) (plurality 
+opinion) (observations of home and curtilage “not necessarily pro- 
+tected from inspection that involves no physical invasion’’) ; Cali- 
+fornia v. Ciraolo, 476 U.S. 207, 213 (1986) (observations from pub- 
+lic navigable airspace “in a physically nonintrusive manner” not 
+a search); Dow Chemical Co. v. United States, 476 U.S. 227, 237 
+(1986) (aerial observation “without physical entry” not a search). 
+
+
+10 See, e.g., Dow Chemical Co., 476 U.S. at 238 (no search when 
+photographs taken from air “not so revealing of intimate details 
+as to raise constitutional concerns”); Jacobsen, 466 U.S. at 123 
+(no search when government conduct incapable of revealing any 
+“arguably ‘private’ fact’’). 
+
+
+11 See Katz v. United States, 389 U.S. 347, 352-53 (1967) (not 
+necessary ) ; Oliver, 466 U.S. at 182-84 (not sufficient). 
+
+
+ei ee eee 
+
+
+ii 
+
+
+392 U.S. at 16-17 (patting down suspect's outer clothing 
+is search). 
+
+
+In Dickerson, for example, this Court concluded that a 
+search occurred when a police officer engaged in a tactile 
+inspection similar to the inspection conducted by Cantu. 
+508 U.S. at 378. While frisking Dickerson’s outer clothing 
+for weapons, the officer discerned a small hard object in 
+his pocket—an object that could not have been a weapon. 
+Id. at 377-78. The officer did not look or reach into 
+Dickerson’s jacket pocket to investigate its contents; in- 
+stead, he manipulated the object through the fabric of 
+the pocket. Jd. at 379. This Court found that the officer’s 
+“squeezing, sliding and otherwise manipulating the con- 
+tents of [the] pocket,” was a “further search” subject to 
+Fourth Amendment constraints. Id. at 377-79. 
+
+
+Agent Cantu conducted the same sort of tactile inspec- 
+tion of Bond’s luggage. Feeling through the fabric of 
+Bond’s carry-on canvas bag, Agent Cantu used his sense 
+of touch to investigate its contents. Cantu testified that 
+he first “felt” Bond’s carry-on bag. (J.A. 10; Tr. 8.) 
+That is, he examined and explored Bond’s luggage using 
+his sense of touch.” The agent then “squeezed” the bag. 
+(J.A. 11; Tr. 9.) In other words, he compressed Bond’s 
+luggage by applying strong or heavy pressure to it with 
+his hand.** Cantu admitted that he squeezed Bond's bag 
+
+
+12To “feel,” in this sense, means “to examine or explore by 
+touching.” 1 THE New SHorter Oxrorp ENGLISH DICTIONARY 929 
+(1993). 
+
+
+13 To “squeeze” means “to press forcefully together,” or to “en- 
+close . . . in one’s hand and apply pressure.” RANDOM House UN- 
+ABRIDGED DICTIONARY 1851 (2d ed. 1993). A squeeze is “an applica- 
+tion of strong or heavy pressure,” 16 THE OxrorpD ENGLISH DICTION- 
+ARY 410 (2d ed. 1989), and involves the exertion of “pressure .. . 
+from opposite or all sides . . . so as to force together[.j"” 2 THE 
+New SHoRTER OXFORD ENGLISH DICTIONARY 3014 (1993). 
+
+
+“very hard.” (J.A. 15; Tr. 30.) Cantu’s manipulation 
+of Bond’s luggage was so intrusive that it allowed him to 
+discern “a brick-like object” with “an outline of something 
+of different mass inside of it.” (J.A. 11; Tr. 9.) Although 
+the brick of methamphetamine in Bond’s luggage was 
+heavily covered in duct tape, wrapped in a pair of pants, 
+and contained in a canvas bag, the agent’s tactile inspec- 
+tion was probing enough to reveal the “edges of the 
+brick,” a brick that was “hard.” (J.A. 12, 14; Tr. 10, 12- 
+13, 53.) 
+
+
+Agent Cantu’s probing manipulation of Bond’s bag was 
+closely akin to the squeezing and sliding manipulation that 
+occurred in Dickerson. It was more physically intrusive 
+than moving a piece of property—an intrusion that this 
+Court has found constituted a search. See Hicks, 480 U.S. 
+at 324. Because of its intrusiveness, Cantu’s exploratory 
+tactile examination of Bond’s bag “amounted to the sort 
+of evidentiary search” that is subject to Fourth Amend- 
+ment constraints. 508 U.S. at 378. 
+
+
+2. Agent Cantu’s manipulation of Bond’s luggage re- 
+vealed its contents. 
+
+
+Agent Cantu’s exploratory tactile examination of Bond’s 
+luggage was also a Fourth Amendment search because of 
+the private information that it revealed. The “protection 
+of privacy” is the “principal object of the Amendment.” 
+Soldal v. Cook County, Ill., 506 U.S. 56, 64 (1992) 
+(internal quotation omitted). Consequently, government 
+action that reveals information about private matters often 
+constitutes a search. See Hicks, 480 U.S. at 325 (moving 
+stereo equipment revealed information about home); 
+United States v. Karo, 468 U.S. 705, 715 (1984) (moni- 
+toring of “beeper” revealed fact about interior of home); 
+Katz, 389 U.S. at 352-53 (electronic eavesdropping re- 
+vealed contents of private telephone conversation). 
+
+
+bd | 
+
+
+13 
+
+
+In Hicks, this Court held that a search occurred when 
+a police officer moved a piece of stereo equipment in 
+Hicks’s apartment. 480 U.S. at 324-25. Although the offi- 
+cer was legitimately in the apartment, moving the equip- 
+ment invaded Hicks’s protected privacy interest by reveal- 
+ing hidden information about the apartment's contents 
+—serial numbers that appeared only on the bottom of a 
+turntable. Id. 
+
+
+Like the moving of the turntable in Hicks, Agent 
+Cantu’s manipulation of Bond’s luggage invaded a pro- 
+tected privacy interest because it revealed information 
+about a private matter—the contents of Bond’s luggage. 
+The agent’s manipulation revealed detailed and specific 
+information about an item contained in Bond’s luggage: 
+a hard, brick-like object, with defined edges, and “some- 
+thing of different mass inside of it.” (J.A. 11-12, Tr. 9, 
+10-11.) Based on this specific information, Cantu thought 
+he had found drugs. (J.A. 12-13; Tr. 10-11.) 
+
+
+This Court has recognized that touch is an effective 
+means of discovering specific information about hidden 
+items: the “sense of touch is capable of revealing the 
+nature of an object with sufficient reliability to support a 
+seizure” of the object felt. Dickerson, 508 U.S. at 376. 
+In this case, the Fifth Circuit found that Agent Cantu’s 
+techniques were “calculated” to make precisely this sort 
+of discovery. (J.A. 40.) 
+
+
+Such techniques are typical when an officer manipulates 
+the outside of luggage to reveal its contents. Using his 
+sense of touch, the officer must feel his way through the 
+various contents of personal luggage to determine whether 
+any of those contents has a size, shape, or density indica- 
+tive of packaged drugs. The officer’s “tactile inspection 
+fis] . . . aimed at discovering the nature of the contents 
+of the bag.” United States v. McDonald, 100 F.3d 1320, 
+
+
+14 
+
+
+1333 (7th Cir. 1996) (Ripple, J., dissenting) (rejecting 
+court’s holding that manipulation of luggage not search). 
+He must “work” a bag with his hands to “determine 
+whether it contain[s] something of independent evidentiary 
+value.” United States v. Nicholson, 144 F.3d 632, 639 
+(10th Cir. 1998) (holding manipulation of luggage was 
+search). The officer’s manual probing must be sufficiently 
+intrusive to permit identification of the internal contents 
+of the luggage. See McDonald, 100 F.3d at 1333 (Ripple, 
+J., dissenting). While Cantu was not questioned about 
+what other contents of Bond’s luggage were revealed by 
+his manual inspection, a probing manipulation that is 
+calculated to disclose seizable items is likewise capable 
+of identifying any number of other objects that are com- 
+monly carried in personal luggage. 
+
+
+Of course, neither Agent Cantu’s nor any other officer’s 
+subjective intent determines whether a Fourth Amendment 
+search has occurred. See Ciraolo, 476 U.S. at 213-14 & 
+n.2 (officer’s intent to look for marijuana irrelevant). 
+It is not the officer’s purpose, but the means necessary 
+to achieve that purpose which is subject to Fourth 
+Amendment scrutiny. Cf. Maryland v. Buie, 494 US. 
+325, 335 (1990) (considering “aim” of a prcetective 
+sweep); Dickerson, 508 U.S. at 378 (considering officer’s 
+purpose not to search for weapons, but to search for 
+evidence); Terry, 392 U.S. at 16 (limited purpose of 
+frisk was “to find weapons”). The manipulation neces- 
+sary to reveal contraband packed in luggage is probing, 
+physically intrusive, and revealing. Objiectively considered, 
+it constitutes a search, just as the similar manipulation in 
+Terry and in Dickerson was found to be a search. 
+
+
+While Terry and Dickerson involved searches of a per- 
+son, “persons” receive no more protection under the plain 
+terms of the Fourth Amendment than the “effects” con- 
+
+
+15 
+
+
+tained in Bond’s luggage. Personal effects may be carried 
+in one’s luggage as readily as they may be carried in one’s 
+jacket pocket. It would be anomalous to find that the 
+Fourth Amendment is implicated when a law enforcement 
+officer “works” a pocket to discover its contents, but not 
+when he “works” personal luggage for the same purpose. 
+In either case, the officer’s action is a serious infringement 
+of privacy interests and, consequently, a search. 
+
+
+3. The physical intrusiveness of Agent Cantu’s explor- 
+atory manipulation, and the information it revealed, 
+distinguish his actions from the dog sniff in United 
+States v. Place. 
+
+
+In Place, this Court considered whether a search 
+occurred when DEA agents permitted a drug-detecting 
+dog to sniff a traveler’s luggage. 462 U.S. at 707. As the 
+Court observed, the dog sniff was uniquely nonintrusive: 
+“We are aware of no other investigative procedure that is 
+so limited . . . in the manner in which the information is 
+obtained[.]” Jd. The dog sniff was also uniquely limited 
+in the information it revealed. It disclosed only the pres- 
+ence or absence of contraband, and it was incapable of 
+revealing anything else about the contents of Place’s lug- 
+gage. Id. Because the dog sniff was not intrusive, and 
+because it could reveal nothing about the noncontraband 
+contents of Place’s luggage, this Court held that it was 
+not a search. Id.; see also Jacobsen, 466 U.S. at 123-24 
+& n.24 (chemical test of white powder not search because, 
+like dog sniff, it “could reveal nothing about noncontra- 
+band items”). 
+
+
+The Court’s narrow decision in Place has no application 
+to the far more intrusive and revealing investigation con- 
+ducted here. Unlike the dog sniff in Place, an exploratory 
+feeling and squeezing manipulation is physically intrusive, 
+and it reveals more than just the presence or absence of 
+
+
+16 
+
+
+contraband in a traveler’s luggage. A “tactile examina- 
+tion” of luggage is capable of “reveal[ing] almost as much 
+information as opening the bag itself, such as information 
+about the number, the shape, and character of items, per- 
+haps very personal items, inside the bag.” United States 
+v. Gwinn, 191 F.3d 874, 879 (8th Cir. 1999) (holding 
+that manipulation of luggage is search). As illustrated 
+by Agent Cantu’s testimony, it was this sort of probing 
+and intrusive manual inspection that occurred in Bond’s 
+case. Unlike the dog sniff in Place, an exploratory tactile 
+examination like Cantu’s infringes a traveler’s reasonable 
+expectation of privacy in the contents of his luggage. 
+
+
+C. Bond Did Not Relinquish His Reasonable Expectation 
+of Privacy by Placing His Bag in the Luggage Bin 
+Directly Over His Seat. 
+
+
+The Fifth Circuit Court of Appeals found that Bond 
+had no reasonable expectation of privacy in his carry-on 
+bag because he “knowingly exposed it to the public” by 
+putting it in the overhead luggage bin on the Greyhound 
+bus. (J.A. 39.) Observing that the bin was accessible to 
+other bus passengers, the court reasoned that Bond could 
+have expected his bag would be handled by others. /d. 
+
+
+The Fifth Circuit’s ruling failed to recognize two crucial 
+factors. First, luggage is designed to preserve the privacy 
+and security of one’s personal effects while traveling; 
+privacy expectations are not forfeited when a traveler tem- 
+porarily stows his luggage nearby as he travels. Second, 
+Agent Cantu’s feeling and squeezing of Bond’s bag ex- 
+ceeded the incidental and casual contact that Bond would 
+have expected from his fellow passengers. Bond could not 
+have reasonably expected other passengers to feel and 
+squeeze his luggage to discern its contents, thus he did not 
+knowingly expose it to the type of intrusive tactile exami- 
+nation Cantu used to inspect luggage. By placing his bag 
+
+
+) 
+: 
+
+
+17 
+
+
+in the overhead bin. Bond did not relinquish his privacy 
+interest in its contents. 
+
+
+1. Travelers like Bond do not relinquish their reason- 
+able expectation of privacy in luggage by putting 
+it in an overhead bin. 
+
+
+The “Fourth Amendment protects people, not places.” 
+Katz, 389 U.S. at 351. Thus, “[w]hat a person . . . seeks 
+to preserve as private, even in an area accessible to the 
+public, may be constitutionally protected.” Jd.; see also 
+O’Connor v. Ortega, 480 U.S. 709, 730 (1987) (Scalia, 
+J., concurring) (“It is privacy that is protected by the 
+Fourth Amendment, not solitude.”). Travelers like Bond 
+preserve the privacy of their personal effects by placing 
+them in luggage when they leave their homes. Luggage, 
+by definition, is designed to carry one’s personal effects 
+while traveling. Traveling, a right protected by the Con- 
+stitution, necessarily is done in places that are accessible 
+to the public. 
+
+
+Travelers take their luggage into public terminals when 
+leaving or arriving on buses and trains. Those buses and 
+trains carry passengers on public thoroughfares while they 
+travel. Carrying luggage through places that are acces- 
+sible to the public does not mean that the right to expect 
+privacy in the contents of that luggage is forfeited. See 
+Place, 462 U.S. at 707 (privacy expectation in luggage 
+contents at airport); Chadwick, 433 U.S. at 4-6 (privacy 
+expectation in luggage at train station). To the contrary, 
+one places personal effects in luggage in order to secure 
+their privacy and safety while traveling. See T.L.O., 469 
+U.S. at 337-40 (personal luggage conceals contents from 
+plain view). 
+
+
+Putting luggage in a place accessible to others may 
+affect one’s expectation of privacy “in the existence and 
+
+
+18 
+
+
+the outward appearance of the luggage.” Ortega, 480 
+U.S. at 716 (plurality opinion) (taking closed luggage to 
+workplace). But the “expectaiion of privacy in the con- 
+tents of the luggage is not affected in the same way.” 
+Id. That is so precisely because, as the repository of one’s 
+“effects,” luggage is meant to keep personal effects private 
+even in, and perhaps especially in, areas accessible to the 
+public. 
+
+
+In this case, Bond manifested his expectation of privacy 
+in the contents of his luggage by putting it in the over- 
+head bin directly above his seat. By stowing his bag close 
+by, Bond kept control of it; he retained the ability to pre- 
+vent other passengers from interfering with it. Agent 
+Cantu, by his show of authority, did what other passengers 
+would not have been expected—or permitted—to do: he 
+examined and explored Bond’s carry-on luggage by feeling 
+and squeezing it to determine its contents. By putting 
+luggage in an overhead bin, neither Bond nor any other 
+passenger relinquishes his right to be free from such an 
+intrusive governmental invasion of protected privacy 
+interests. 
+
+
+2. Bond did not knowingly expose his bag to an in- 
+trusive manipulation calculated to detect its 
+contents. 
+
+
+When he put his bag in the bin above his seat, Bond 
+knowingly exposed the outward appearance of his luggage 
+to the view of other passengers. He may even have ex- 
+pected that other bus passengers would come into casual 
+contact with his bag, pushing or moving it as they stored 
+their own luggage in the overhead bin. See Gwinn, 191 
+F.3d at 879 (passengers may push aside or briefly touch 
+others’ bags); Nicholson, 144 F.3d at 639 (passengers 
+may push or move others’ bags). But Agent Cantu’s 
+
+
+19 
+
+
+squeezing and feeling of Bond’s luggage far exceeded the 
+casual contact Bond could have expected from other pas- 
+sengers. Neither Bond nor any other person “traveling by 
+bus or rail would expect, or permit, a fellow passenger to 
+. . . Squeeze or manipulate his or her hand baggage in a 
+concerted attempt to determine the contents.” McDonald, 
+100 F.3d at 1334 (Ripple, J., dissenting); Gwinn, 191 
+F.3d at 879 (majority of traveling public would not ex- 
+pect overhead luggage “to be subject to a calculated and 
+thorough squeezing and manipulation”). 
+
+
+When government action exceeds what could reasonably 
+be expected from others, it cannot be said that one has 
+knowingly exposed his protected privacy interests to that 
+action. The Court made this distinction in Lo-Ji Sales, 
+Inc. v. New York, 442 U.S. 319 (1979). In that case, 
+a local magistrate accompanied police to an adult book- 
+store where he viewed films and examined books and 
+magazines offered for sale to determine whether they were 
+obscene. Id. at 322-23. Unlike a member of the public, 
+the magistrate neither paid to view the films nor bought 
+the publications he inspected. Instead, he directed the 
+bookstore’s proprietor to disable the coin-operated film 
+projectors before he viewed the films, and he had police 
+remove cellophane wrappers from books and magazines, 
+as well as take items from a glass-enclosed case. Id. 
+
+
+The government contended that there was no expecta- 
+tion of privacy in these items because the bookstore 
+proprietor displayed the films and magazines in a place 
+where the public was invited to enter. 442 U.S. at 329. 
+This Court disagreed. Although the magistrate was in an 
+area accessible to the public, he was not seeing the books 
+and films “as a customer would ordinarily see them.” 7d. 
+Consequently, the bookstore’s proprietor retained a reason- 
+able expectation of privacy against government intrusion 
+
+
+20 
+
+
+into the property that he offered for sale. IJd.; see also 
+Nicholson, 144 F.3d at 639 (police manipulation that 
+exceeded what could reasonably be expected from others 
+was search); United States v. Most, 876 F.2d 191, 198 
+n.13 (D.C. Cir. 1989) (same) .** 
+
+
+Agent Cantu did not handle Bond’s bag as other 
+passengers would reasonably have been expected to handle 
+it. Instead, Cantu squeezed and felt Bond’s luggage in a 
+manner calculated to reveal its contents. Passengers travel- 
+ing by common carrier do not engage in an exploratory 
+examination of one another’s bags using their sense of 
+touch. Neither do they squeeze one anothers’ personal 
+luggage as Cantu did—they do not manipulate luggage in 
+a manner calculated to reveal its contents. 
+
+
+By placing his luggage in the overhead bin, Bond might 
+have subjected it to fellow passengers’ casual contact. But 
+he certainly did not knowingly expose it to the intrusive 
+and exploratory manipulation that Agent Cantu used to 
+inspect its contents. When Agent Cantu felt and squeezed 
+Bond’s luggage, he infringed Bond’s reasonable expecta- 
+tion of privacy. 
+
+
+14 Indeed, Bond’s “exposure” of his luggage on the Greyhound bus 
+was significantly more limited than the exposure of property in the 
+adult bookstore in Lo-Ji Sales. The general public was invited to 
+enter the store: but only paving passengers and perhans bus em- 
+ployees were invited to board the bus. But see Bond. 167 F 3d at 
+226 n.1 (bins accessible “to the general public”). (J A. 38.) As 
+access to the general public becomes more limited, greater limits 
+are placed on intrusions by the government. See Mancusi v. De- 
+Forte, 392 U.S 364, 369-70 (1968) (employees have exnectation of 
+privacy against intrusions by police at workplace): Ortega, 480 
+U.S. at 730 (Scalia, J.. concurring) (exposure of home to spouse 
+and children does not extinguish expectation of privacy against in- 
+trusion by government): Most, 876 F.2d at 197-98 (entrusting bag 
+to care of grocery clerk did not relinquish expectation of privacy 
+vis-a-vis police). 
+
+
+: 
+
+
+21 
+
+
+“The basic purpose” of the Fourth Amendment is to 
+“safeguard the privacy and security of individuals against 
+arbitrary invasions by governmental officials.” Camara v. 
+Municipal Court, 387 U.S. 523, 528 (1967). The amend- 
+ment “gives concrete expression to the right of the people 
+which is basic to a free society.” Id. (internal quotation 
+and citation omitted). It guarantees “the right to be let 
+alone—the most comprehensive of rights and the right 
+most valued by civilized” society. Winston v. Lee, 470 
+U.S. 753, 758 (1985) (quoting Olmstead v. United States, 
+277 U.S. 438, 478 (1928) (Brandeis, J., dissenting) ). 
+Agent Cantu’s “inspection” of bus passengers’ luggage for 
+drugs was an arbitrary government invasion that violated 
+the privacy and security the Fourth Amendment was 
+meant to preserve. 
+
+
+Acting without probable cause, reasonable suspicion, or 
+consent, Cantu manipulated travelers’ personal carry-on 
+luggage in an exploratory tactile examination calculated 
+to reveal the private contents of their bags. Unless his 
+conduct is ruled a search, the privacy interests of travelers 
+everywhere—on buses, on trains, on subways, and even 
+on the streets—will be severely compromised. People who 
+put their jackets on a coat rack, their purses on a nearby 
+chair, or their briefcases beside them on a bench, will 
+subject those belongings to random, suspicionless han- 
+dling by law enforcement officers, intent on discovering 
+hidden items. Preventing this sort of widespread govern- 
+ment intrusion into citizens’ personal effects was the 
+reason the Fourth Amendment was enacted. To give effect 
+to “the essential rights of a citizen of a Free State,” » 
+the Court must rule that Agent Cantu’s conduct was a 
+search. 
+
+
+15 GALE, BRIEF REMARKS ON SEVERAL Laws 44. 
+
+
+22 
+
+
+CONCLUSION 
+
+
+The judgment of the Fifth Circuit Court of Appeals 
+should be reversed and the methamphetamine and Bond’s 
+confessions ordered suppressed. 
+
+
+Respectfully submitted. 
+
+
+M. CAROLYN FUENTES * 
+Assistant Federal Public 
+Defender 
+
+
+LUCIEN B. CAMPBELL 
+Federal Public Defender 
+
+
+HENRY J. BEMPORAD 
+Deputy Federal Public 
+Defender 
+
+
+Western District of Texas 
+727 E. Durango Boulevard 
+B-207 
+
+San Antonio, Texas 78206 
+(210) 472-6700 
+
+
+NOVEMBER 1999 * Counsel of Record 
+
+
+6 
+
+
+~~ 
+
+

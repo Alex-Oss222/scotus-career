@@ -1,0 +1,42 @@
+
+
+BECK V. PRUPIS
+
+LII
+
+Supreme Court
+
+BECK V. PRUPIS (98-1480) 
+162 F.3d 1090, affirmed.
+Syllabus
+ Opinion
+ [ Thomas ]Dissent
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+BECK v. PRUPIS et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+No. 98—1480.  Argued November 3, 1999–Decided April 26, 2000
+
+The Racketeer Influenced and Corrupt Organizations Act (RICO) creates a civil cause of action for “[a]ny person injured in his business or property by reason of a violation of section 1962.”  18 U.S.C. § 1964(c).  Subsection (d) of §1962 forbids “any person to conspire to violate any of the provisions of subsection (a), (b), or (c) of [§1962].”  Petitioner is a former president, CEO, director, and shareholder of Southeastern Insurance Group (SIG).  Respondents are former senior officers and directors of SIG who allegedly conspired to and did engage in acts of racketeering.  Petitioner alleged that after he discovered respondents’ unlawful conduct and contacted regulators, respondents orchestrated a scheme to remove him from the company.  Petitioner sued respondents, asserting, among other things, a §1964(c) cause of action for respondents’ alleged conspiracy to violate §§1962(a), (b), and (c).  Petitioner alleged that his injury was proximately caused by an overt act–namely, the termination of his employment–done in furtherance of respondents’ conspiracy, and that §1964(c) therefore provided a cause of action.  The District Court dismissed his RICO conspiracy claim, agreeing with respondents that employees who are terminated for refusing to participate in RICO activities, or who threaten to report RICO activities, do not have standing to sue under RICO for damages from their loss of employment.  In affirming, the Eleventh Circuit held that, because the overt act causing petitioner’s injury was not an act of racketeering, it could not support a §1964(c) cause of action.
+
+Held:  Injury caused by an overt act that is not an act of racketeering or otherwise wrongful under RICO does not give rise to a cause of action under §1964(c) for a violation of §1962(d).  To determine what it means to be “injured … by reason of” a “conspir[acy],” this Court must look to the common law of civil conspiracy.  At common law, it was widely accepted that a plaintiff could bring suit for civil conspiracy only if he had been injured by an act that was itself tortious.  When Congress adopted RICO, it incorporated this principle.  As at common law, a civil conspiracy plaintiff cannot bring suit under RICO based on injury caused by any act in furtherance of a conspiracy that might have caused the plaintiff injury.  Rather, such plaintiff must allege injury from an act that is analogous to an “ac[t] of a tortious character,” see 4 Restatement (Second) of Torts, §876, Comment b, meaning an act that is independently wrongful under RICO.  The specific type of act that is analogous to an act of a tortious character may depend on the underlying substantive violation the defendant is alleged to have committed.  Because respondents’ alleged overt act in furtherance of their conspiracy was not an act of racketeering and is not independently wrongful under any substantive provision of the statute, petitioner does not have a cause of action under §1964(c).  Pp. 6—13.
+
+162 F.3d 1090, affirmed.
+
+    Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, Kennedy, Ginsburg, and Breyer, JJ., joined.  Stevens, J., filed a dissenting opinion, in which Souter, J., joined.
+

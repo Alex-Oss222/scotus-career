@@ -1,0 +1,2957 @@
+259
+Wage and Hour Division, Labor Pt. 553
+record is maintained and preserved for
+a period of 3 years.
+(b) In the case of an employee who re-
+sides on the premises, records of the
+actual hours worked are not required.
+Instead, the employer may maintain a
+copy of the agreement referred to in
+§552.102. The more limited record-
+keeping requirement provided by this
+subsection does not apply to third
+party employers. No records are re-
+quired for casual babysitters.
+(c) Where a domestic service em-
+ployee works on a fixed schedule, the
+employer may use a schedule of daily
+and weekly hours that the employee
+normally works and either the em-
+ployer or the employee may: (1) Indi-
+cate by check marks, statement or
+other method that such hours were ac-
+tually worked, and (2) when more or
+less than the scheduled hours are
+worked, show the exact number of
+hours worked.
+(d) The employer may require the do-
+mestic service employee to record the
+hours worked and submit such record
+to the employer.
+PART 553—APPLICATION OF THE
+FAIR LABOR STANDARDS ACT TO
+EMPLOYEES OF STATE AND
+LOCAL GOVERNMENTS
+Subpart A—General
+INTRODUCTION
+Sec.
+553.1 Definitions.
+553.2 Purpose and scope.
+553.3 Coverage—general.
+SECTION 3(e)(2)(C)—E XCLUSIONS
+553.10 General.
+553.11 Exclusion for elected officials and
+their appointees.
+553.12 Exclusion for employees of legislative
+branches.
+SECTION 7(o)—C OMPENSATORY TIME AND
+COMPENSATORY TIME OFF
+553.20 Introduction.
+553.21 Statutory provisions.
+553.22 ‘‘FLSA compensatory time’’ and
+‘‘FLSA compensatory time off’’.
+553.23 Agreement or understanding prior to
+performance of work.
+553.24 ‘‘Public safety’’, ‘‘emergency re-
+sponse’’, and ‘‘seasonal’’ activities.
+553.25 Conditions for use of compensatory
+time (‘‘reasonable period’’, ‘‘unduly dis-
+rupt’’).
+553.26 Cash overtime payments.
+553.27 Payments for unused compensatory
+time.
+553.28 Other compensatory time.
+OTHER EXEMPTIONS
+553.30 Occasional or sporadic employment—
+section 7(p)(2).
+553.31 Substitution—section 7(p)(3).
+553.32 Other FLSA exemptions.
+RECORDKEEPING
+553.50 Records to be kept of compensatory
+time.
+553.51 Records to be kept for employees paid
+pursuant to section 7(k).
+Subpart B—Volunteers
+553.100 General.
+553.101 ‘‘Volunteer’’ defined.
+553.102 Employment by the same public
+agency.
+553.103 ‘‘Same type of services’’ defined.
+553.104 Private individuals who volunteer
+services to public agencies.
+553.105 Mutual aid agreements.
+553.106 Payment of expenses, benefits, or
+fees.
+Subpart C—Fire Protection and Law En-
+forcement Employees of Public Agen-
+cies
+GENERAL PRINCIPLES
+553.200 Statutory provisions: section
+13(b)(20).
+553.201 Statutory provisions: section 7(k).
+553.202 Limitations.
+EXEMPTION REQUIREMENTS
+553.210 Fire protection activities.
+553.211 Law enforcement activities.
+553.212 Twenty percent limitation on non-
+exempt work.
+553.213 Public agency employees engaged in
+both fire protection and law enforcement
+activities.
+553.214 Trainees.
+553.215 Ambulance and rescue service em-
+ployees.
+553.216 Other exemptions.
+TOUR OF DUTY AND COMPENSABLE HOURS OF
+WORK RULES
+553.220 ‘‘Tour of duty’’ defined.
+553.221 Compensable hours of work.
+553.222 Sleep time.
+553.223 Meal time.
+553.224 ‘‘Work period’’ defined.
+553.225 Early relief.
+553.226 Training time.
+553.227 Outside employment.
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00251 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+260
+29 CFR Ch. V (7–1–98 Edition)§ 553.1
+OVERTIME COMPENSATION RULES
+553.230 Maximum hours standards for work
+periods of 7 to 28 days—section 7(k).
+553.231 Compensatory time off.
+553.232 Overtime pay requirements.
+553.233 ‘‘Regular rate’’ defined.
+AUTHORITY: Secs. 1–19 52 Stat. 1060, as
+amended (29 U.S.C. 201–219); Pub. L. 99–150. 99
+Stat. 787 (29 U.S.C. 203, 207, 211).
+SOURCE: 52 FR 2032, Jan. 16, 1987, unless
+otherwise noted.
+Subpart A—General
+INTRODUCTION
+§ 553.1 Definitions.
+(a) Act or FLSA means the Fair Labor
+Standards Act of 1938, as amended (52
+Stat. 1060, as amended; 29 U.S.C. 201–
+219).
+(b) 1985 Amendments means the Fair
+Labor Standards Amendments of 1985
+(Pub. L. 99–150).
+(c) Public agency means a State, a po-
+litical subdivision of a State or an
+interstate governmental agency.
+(d) State means a State of the United
+States, the District of Columbia, Puer-
+to Rico, the Virgin Islands, or any
+other Territory or possession of the
+United States (29 U.S.C. 203(c) and
+213(f)).
+§ 553.2 Purpose and scope.
+(a) The 1985 Amendments to the Fair
+Labor Standards Act (FLSA) changed
+certain provisions of the Act as they
+apply to employees of State and local
+public agencies. The purpose of part 553
+is to set forth the regulations to carry
+out the provisions of these Amend-
+ments, as well as other FLSA provi-
+sions previously in existence relating
+to such public agency employees.
+(b) The regulations in this part are
+divided into three subparts. Subpart A
+interprets and applies the special
+FLSA provisions that are generally ap-
+plicable to all covered and nonexempt
+employees of State and local govern-
+ments. Subpart A also contains provi-
+sions concerning certain individuals
+(i.e., elected officials, their appointees,
+and legislative branch employees) who
+are excluded from the definition of
+‘‘employee’’ and thus from FLSA cov-
+erage. This subpart also interprets and
+applies sections 7(o), and 7(p)(2), 7(p)(3),
+and 11(c) of the Act regarding compen-
+satory time off, occasional or sporadic
+part-time employment, and the per-
+formance of substitute work by public
+agency employees, respectively.
+(c) Subpart B of this part deals with
+‘‘volunteer’’ services performed by in-
+dividuals for public agencies. Subpart
+C applies various FLSA provisions as
+they relate to fire protection and law
+enforcement employees of public agen-
+cies.
+§ 553.3 Coverage—general.
+(a)(1) In 1966, Congress amended the
+FLSA to extend coverage to State and
+local government employees engaged
+in the operation of hospitals, nursing
+homes, schools, and mass transit sys-
+tems.
+(2) In 1972, the Education Amend-
+ments further extended coverage to
+employees of public preschools.
+(3) In 1974, the FLSA Amendments
+extended coverage to virtually all of
+the remaining State and local govern-
+ment employees who were not covered
+as a result of the 1966 and 1972 legisla-
+tion.
+(b) Certain definitions already in the
+Act were modified by the 1974 Amend-
+ments. The definition of the term ‘‘em-
+ployer’’ was changed to include public
+agencies and that of ‘‘employee’’ was
+amended to include individuals em-
+ployed by public agencies. The defini-
+tion of ‘‘enterprise’’ contained in sec-
+tion 3(r) of the Act was modified to
+provide that activities of a public agen-
+cy are performed for a ‘‘business pur-
+pose.’’ The term ‘‘enterprise engaged in
+commerce or in the production of goods
+for commerce’’ defined in section 3(s)
+of the Act was expanded to include
+public agencies.
+SECTION 3(e)(2)(C)—E XCLUSIONS
+§ 553.10 General.
+Section 3(e)(2)(C) of the Act excludes
+from the definition of ‘‘employee’’, and
+thus from coverage, certain individuals
+employed by public agencies. This ex-
+clusion applies to elected public offi-
+cials, their immediate advisors, and
+certain individuals whom they appoint
+or select to serve in various capacities.
+In addition, the 1985 Amendments ex-
+clude employees of legislative branches
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00252 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+261
+Wage and Hour Division, Labor § 553.21
+of State and local governments. A con-
+dition for exclusion is that the em-
+ployee must not be subject to the civil
+service laws of the employing State or
+local agency.
+§ 553.11 Exclusion for elected officials
+and their appointees.
+(a) Section 3(e)(2)(C) provides an ex-
+clusion from the Act’s coverage for of-
+ficials elected by the voters of their ju-
+risdictions. Also excluded under this
+provision are personal staff members
+and officials in policymaking positions
+who are selected or appointed by the
+elected public officials and certain ad-
+visers to such officials.
+(b) The statutory term ‘‘member of
+personal staff’’ generally includes only
+persons who are under the direct super-
+vision of the selecting elected official
+and have regular contact with such of-
+ficial. The term typically does not in-
+clude individuals who are directly su-
+pervised by someone other than the
+elected official even though they may
+have been selected by the official. For
+example, the term might include the
+elected official’s personal secretary,
+but would not include the secretary to
+an assistant.
+(c) In order to qualify as personal
+staff members or officials in policy-
+making positions, the individuals in
+question must not be subject to the
+civil service laws of their employing
+agencies. The term ‘‘civil service laws’’
+refers to a personnel system estab-
+lished by law which is designed to pro-
+tect employees from arbitrary action,
+personal favoritism, and political coer-
+cion, and which uses a competitive or
+merit examination process for selec-
+tion and placement. Continued tenure
+of employment of employees under
+civil service, except for cause, is pro-
+vided. In addition, such personal staff
+members must be appointed by, and
+serve solely at the pleasure or discre-
+tion of, the elected official.
+(d) The exclusion for ‘‘immediate ad-
+viser’’ to elected officials is limited to
+staff who serve as advisers on constitu-
+tional or legal matters, and who are
+not subject to the civil service rules of
+their employing agency.
+§ 553.12 Exclusion for employees of
+legislative branches.
+(a) Section 3(e)(2)(C) of the Act pro-
+vides an exclusion from the definition
+of the term ‘‘employee’’ for individuals
+who are not subject to the civil service
+laws of their employing agencies and
+are employed by legislative branches
+or bodies of States, their political sub-
+divisions or interstate governmental
+agencies.
+(b) Employees of State or local legis-
+lative libraries do not come within this
+statutory exclusion. Also, employees of
+school boards, other than elected offi-
+cials and their appointees (as discussed
+in § 553.11), do not come within this ex-
+clusion.
+SECTION 7(o)—C OMPENSATORY TIME AND
+COMPENSATORY TIME OFF
+§ 553.20 Introduction.
+Section 7 of the FLSA requires that
+covered, nonexempt employees receive
+not less than one and one-half times
+their regular rates of pay for hours
+worked in excess of the applicable max-
+imum hours standards. However, sec-
+tion 7(o) of the Act provides an element
+of flexibility to State and local govern-
+ment employers and an element of
+choice to their employees or the rep-
+resentatives of their employees regard-
+ing compensation for statutory over-
+time hours. The exemption provided by
+this subsection authorizes a public
+agency which is a State, a political
+subdivision of a State, or an interstate
+governmental agency, to provide com-
+pensatory time off (with certain limi-
+tations, as provided in § 553.21) in lieu
+of monetary overtime compensation
+that would otherwise be required under
+section 7. Compensatory time received
+by an employee in lieu of cash must be
+at the rate of not less than one and
+one-half hours of compensatory time
+for each hour of overtime work, just as
+the monetary rate for overtime is cal-
+culated at the rate of not less than one
+and one-half times the regular rate of
+pay.
+§ 553.21 Statutory provisions.
+Section 7(o) provides as follows:
+(o)(1) Employees of a public agency which
+is a State, a political subdivision of a State,
+or an interstate governmental agency may
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00253 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+262
+29 CFR Ch. V (7–1–98 Edition)§ 553.22
+receive, in accordance with this subsection
+and in lieu of overtime compensation, com-
+pensatory time off at a rate not less than
+one and one-half hours for each hour of em-
+ployment for which overtime compensation
+is required by this section.
+(2) A public agency may provide compen-
+satory time under paragraph (1) only—
+(A) Pursuant to—
+(i) Applicable provisions of a collective
+bargaining agreement, memorandum of un-
+derstanding, or any other agreement be-
+tween the public agency and representatives
+of such employees; or
+(ii) In the case of employees not covered by
+subclause (i), an agreement or understanding
+arrived at between the employer and em-
+ployee before the performance of the work;
+and
+(B) If the employee has not accrued com-
+pensatory time in excess of the limit appli-
+cable to the employee prescribed by para-
+graph (3).
+In the case of employees described in
+clause (A)(ii) hired prior to April 15, 1986, the
+regular practice in effect on April 15, 1986,
+with respect to compensatory time off for
+such employees in lieu of the receipt of over-
+time compensation, shall constitute an
+agreement or understanding under such
+clause (A)(ii). Except as provided in the pre-
+vious sentence, the provision of compen-
+satory time off to such employees for hours
+worked after April 14, 1986, shall be in ac-
+cordance with this subsection.
+(3)(A) If the work of an employee for which
+compensatory time may be provided in-
+cluded work in a public safety activity, an
+emergency response activity, or a seasonal
+activity, the employee engaged in such work
+may accrue not more than 480 hours of com-
+pensatory time for hours worked after April
+15, 1986. If such work was any other work,
+the employee engaged in such work may ac-
+crue not more than 240 hours of compen-
+satory time for hours worked after April 15,
+1986. Any such employee who, after April 15,
+1986, has accrued 480 or 240 hours, as the case
+may be, of compensatory time off shall, for
+additional overtime hours of work, be paid
+overtime compensation.
+(B) If compensation is paid to an employee
+for accrued compensatory time off, such
+compensation shall be paid at the regular
+rate earned by the employee at the time the
+employee receives such payment.
+(4) An employee who has accrued compen-
+satory time off authorized to be provided
+under paragraph (1) shall, upon termination
+of employment, be paid for the unused com-
+pensatory time at a rate of compensation
+not less than—
+(A) The average regular rate received by
+such employee during the last 3 years of the
+employee’s employment, or
+(B) The final regular rate received by such
+employee, whichever is higher.
+(5) An employee of a public agency which is
+a State, political subdivision of a State, or
+an interstate governmental agency—
+(A) Who has accrued compensatory time
+off authorized to be provided under para-
+graph (1), and
+(B) Who has requested the use of such com-
+pensatory time, shall be permitted by the
+employee’s employer to use such time within
+a reasonable period after making the request
+if the use of the compensatory time does not
+unduly disrupt the operations of the public
+agency.
+(6) For purposes of this subsection—
+(A) The term overtime compensation means
+the compensation required by subsection (a),
+and
+(B) The terms compensatory time and com-
+pensatory time off means hours during which
+an employee is not working, which are not
+counted as hours worked during the applica-
+ble workweek or other work period for pur-
+poses of overtime compensation, and for
+which the employee is compensated at the
+employee’s regular rate.
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23,
+1987]
+§ 553.22 ‘‘FLSA compensatory time’’
+and ‘‘FLSA compensatory time off’’.
+(a) Compensatory time and compen-
+satory time off are interchangeable
+terms under the FLSA. Compensatory
+time off is paid time off the job which
+is earned and accrued by an employee
+in lieu of immediate cash payment for
+employment in excess of the statutory
+hours for which overtime compensation
+is required by section 7 of the FLSA.
+(b) The Act requires that compen-
+satory time under section 7(o) be
+earned at a rate not less than one and
+one-half hours for each hour of employ-
+ment for which overtime compensation
+is required by section 7 of the FLSA.
+Thus, the 480-hour limit on accrued
+compensatory time represents not
+more than 320 hours of actual overtime
+worked, and the 240-hour limit rep-
+resents not more than 160 hours of ac-
+tual overtime worked.
+(c) The 480- and 240-hour limits on ac-
+crued compensatory time only apply to
+overtime hours worked after April 15,
+1986. Compensatory time which an em-
+ployee has accrued prior to April 15,
+1986, is not subject to the overtime re-
+quirements of the FLSA and need not
+be aggregated with compensatory time
+accrued after that date.
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00254 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+263
+Wage and Hour Division, Labor § 553.23
+§ 553.23 Agreement or understanding
+prior to performance of work.
+(a) General. (1) As a condition for use
+of compensatory time in lieu of over-
+time payment in cash, section
+7(o)(2)(A) of the Act requires an agree-
+ment or understanding reached prior to
+the performance of work. This can be
+accomplished pursuant to a collective
+bargaining agreement, a memorandum
+of understanding or any other agree-
+ment between the public agency and
+representatives of the employees. If the
+employees do not have a representa-
+tive, compensatory time may be used
+in lieu of cash overtime compensation
+only if such an agreement or under-
+standing has been arrived at between
+the public agency and the individual
+employee before the performance of
+work. No agreement or understanding
+is required with respect to employees
+hired prior to April 15, 1986, who do not
+have a representative, if the employer
+had a regular practice in effect on
+April 15, 1986, of granting compen-
+satory time off in lieu of overtime pay.
+(2) Agreements or understandings
+may provide that compensatory time
+off in lieu of overtime payment in cash
+may be restricted to certain hours of
+work only. In addition, agreements or
+understandings may provide for any
+combination of compensatory time off
+and overtime payment in cash (e.g.,
+one hour compensatory time credit
+plus one-half the employee’s regular
+hourly rate of pay in cash for each
+hour of overtime worked) so long as
+the premium pay principle of at least
+‘‘time and one-half’’ is maintained. The
+agreement or understanding may in-
+clude other provisions governing the
+preservation, use, or cashing out of
+compensatory time so long as these
+provisions are consistent with section
+7(o) of the Act. To the extent that any
+provision of an agreement or under-
+standing is in violation of section 7(o)
+of the Act, the provision is superseded
+by the requirements of section 7(o).
+(b) Agreement or understanding be-
+tween the public agency and a representa-
+tive of the employees. (1) Where employ-
+ees have a representative, the agree-
+ment or understanding concerning the
+use of compensatory time must be be-
+tween the representative and the pub-
+lic agency either through a collective
+bargaining agreement or through a
+memorandum of understanding or
+other type of oral or written agree-
+ment. In the absence of a collective
+bargaining agreement applicable to the
+employees, the representative need not
+be a formal or recognized bargaining
+agent as long as the representative is
+designated by the employees. Any
+agreement must be consistent with the
+provisions of section 7(o) of the Act.
+(2) Section 2(b) of the 1985 Amend-
+ments provides that a collective bar-
+gaining agreement in effect on April 15,
+1986, which permits compensatory time
+off in lieu of overtime compensation,
+will remain in effect until the expira-
+tion date of the collective bargaining
+agreement unless otherwise modified.
+However, the terms and conditions of
+such agreement under which compen-
+satory time off is provided after April
+14, 1986, must not violate the require-
+ments of section 7(o) of the Act and
+these regulations.
+(c) Agreement or understanding be-
+tween the public agency and individual
+employees. (1) Where employees of a
+public agency do not have a recognized
+or otherwise designated representative,
+the agreement or understanding con-
+cerning compensatory time off must be
+between the public agency and the in-
+dividual employee and must be reached
+prior to the performance of work. This
+agreement or understanding with indi-
+vidual employees need not be in writ-
+ing, but a record of its existence must
+be kept. (See § 553.50.) An employer
+need not adopt the same agreement or
+understanding with different employ-
+ees and need not provide compensatory
+time to all employees. The agreement
+or understanding to provide compen-
+satory time off in lieu of cash overtime
+compensation may take the form of an
+express condition of employment, pro-
+vided (i) the employee knowingly and
+voluntarily agrees to it as a condition
+of employment and (ii) the employee is
+informed that the compensatory time
+received may be preserved, used or
+cashed out consistent with the provi-
+sions of section 7(o) of the Act. An
+agreement or understanding may be
+evidenced by a notice to the employee
+that compensatory time off will be
+given in lieu of overtime pay. In such a
+case, an agreement or understanding
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00255 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+264
+29 CFR Ch. V (7–1–98 Edition)§ 553.24
+would be presumed to exist for pur-
+poses of section 7(o) with respect to
+any employee who fails to express to
+the employer an unwillingness to ac-
+cept compensatory time off in lieu of
+overtime pay. However, the employee’s
+decision to accept compensatory time
+off in lieu of cash overtime payments
+must be made freely and without coer-
+cion or pressure.
+(2) Section 2(a) of the 1985 Amend-
+ments provides that in the case of em-
+ployees who have no representative and
+were employed prior to April 15, 1986, a
+public agency that has had a regular
+practice of awarding compensatory
+time off in lieu of overtime pay is
+deemed to have reached an agreement
+or understanding with these employees
+as of April 15, 1986. A public agency
+need not secure an agreement or under-
+standing with each employee employed
+prior to that date. If, however, such a
+regular practice does not conform to
+the provisions of section 7(o) of the
+Act, it must be modified to do so with
+regard to practices after April 14, 1986.
+With respect to employees hired after
+April 14, 1986, the public employer who
+elects to use compensatory time must
+follow the guidelines on agreements
+discussed in paragraph (c)(1) of this
+section.
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23,
+1987]
+§ 553.24 ‘‘Public safety’’, ‘‘emergency
+response’’, and ‘‘seasonal’’ activities.
+(a) Section 7(o)(3)(A) of the FLSA
+provides that an employee of a public
+agency which is a State, a political
+subdivision of a State, or an interstate
+governmental agency, may accumulate
+not more than 480 hours of compen-
+satory time for FLSA overtime hours
+which are worked after April 15, 1986, if
+the employee is engaged in ‘‘public
+safety’’, ‘‘emergency response’’, or
+‘‘seasonal’’ activity. Employees whose
+work includes ‘‘seasonal’’, ‘‘emergency
+response’’, or ‘‘public safety’’ activi-
+ties, as well as other work, will not be
+subject to both limits of accrual for
+compensatory time. If the employee’s
+work regularly involves the activities
+included in the 480-hour limit, the em-
+ployee will be covered by that limit. A
+public agency cannot utilize the higher
+cap by simple classification or designa-
+tion of an employee. The work per-
+formed is controlling. Assignment of
+occasional duties within the scope of
+the higher cap will not entitle the em-
+ployer to use the higher cap. Employ-
+ees whose work does not regularly in-
+volve ‘‘seasonal’’, ‘‘emergency re-
+sponse’’, or ‘‘public safety’’ activities
+are subject to a 240-hour compensatory
+time accrual limit for FLSA overtime
+hours which are worked after April 15,
+1986.
+(b) Employees engaged in ‘‘public
+safety’’, ‘‘emergency response’’, or
+‘‘seasonal’’ activities, who transfer to
+positions subject to the 240-hour limit,
+may carry over to the new position any
+accrued compensatory time. The em-
+ployer will not be required to cash out
+the accrued compensatory time which
+is in excess of the lower limit. How-
+ever, the employee must be com-
+pensated in cash wages for any subse-
+quent overtime hours worked until the
+number of accrued hours of compen-
+satory time falls below the 240-hour
+limit.
+(c) ‘‘Public safety activities’’: The
+term ‘‘public safety activities’’ as used
+in section 7(o)(3)(A) of the Act includes
+law enforcement, fire fighting or relat-
+ed activities as described in §§ 553.210
+(a) and (b) and 553.211 (a)–(c), and (f).
+An employee whose work regularly in-
+volves such activities will qualify for
+the 480-hour accrual limit. However,
+the 480-hour accrual limit will not
+apply to office personnel or other civil-
+ian employees who may perform public
+safety activities only in emergency sit-
+uations, even if they spend substan-
+tially all of their time in a particular
+week in such activities. For example, a
+maintenance worker employed by a
+public agency who is called upon to
+perform fire fighting activities during
+an emergency would remain subject to
+the 240-hour limit, even if such em-
+ployee spent an entire week or several
+weeks in a year performing public safe-
+ty activities. Certain employees who
+work in ‘‘public safety’’ activities for
+purposes of section 7(o)(3)(A) may qual-
+ify for the partial overtime exemption
+in section 7(k) of the Act. (See § 553.201)
+(d) ‘‘Emergency response activity’’:
+The term ‘‘emergency response activ-
+ity’’ as used in section 7(o)(3)(A) of the
+Act includes dispatching of emergency
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00256 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+265
+Wage and Hour Division, Labor § 553.25
+vehicles and personnel, rescue work
+and ambulance services. As is the case
+with ‘‘public safety’’ and ‘‘seasonal’’
+activities, an employee must regularly
+engage in ‘‘emergency response’’ ac-
+tivities to be covered under the 480-
+hour limit. A city office worker who
+may be called upon to perform rescue
+work in the event of a flood or snow-
+storm would not be covered under the
+higher limit, since such emergency re-
+sponse activities are not a regular part
+of the employee’s job. Certain employ-
+ees who work in ‘‘emergency response’’
+activities for purposes of section
+7(o)(3)(A) may qualify for the partial
+overtime exemption in section 7(k) of
+the Act. (See § 553.215.)
+(e)(1) ‘‘Seasonal activity’’: The term
+‘‘seasonal activity’’ includes work dur-
+ing periods of significantly increased
+demand, which are of a regular and re-
+curring nature. In determining whether
+employees are considered engaged in a
+seasonal activity, the first consider-
+ation is whether the activity in which
+they are engaged is a regular and re-
+curring aspect of the employee’s work.
+The second consideration is whether
+the projected overtime hours during
+the period of significantly increased
+demand are likely to result in the ac-
+cumulation during such period of more
+than 240 compensatory time hours (the
+number available under the lower cap).
+Such projections will normally be
+based on the employer’s past experi-
+ence with similar employment situa-
+tions.
+(2) Seasonal activity is not limited
+strictly to those operations that are
+very susceptible to changes in the
+weather. As an example, employees
+processing tax returns over an ex-
+tended period of significantly increased
+demand whose overtime hours could be
+expected to result in the accumulation
+during such period of more than 240
+compensatory time hours will typically
+qualify as engaged in a seasonal activ-
+ity.
+(3) While parks and recreation activ-
+ity is primarily seasonal because peak
+demand is generally experienced in fair
+weather, mere periods of short but in-
+tense activity do not make an employ-
+ee’s job seasonal. For example, clerical
+employees working increased hours for
+several weeks on a special project or
+assigned to an afternoon of shoveling
+snow off the courthouse steps would
+not be considered engaged in seasonal
+activities, since the increased activity
+would not result in the accumulation
+during such period of more than 240
+compensatory time hours. Further,
+persons employed in municipal audito-
+riums, theaters, and sports facilities
+that are open for specific, limited sea-
+sons would be considered engaged in
+seasonal activities, while those em-
+ployed in facilities that operate year
+round generally would not.
+(4) Road crews, while not necessarily
+seasonal workers, may have significant
+periods of peak demand, for instance
+during the snow plowing season or road
+construction season. The snow plow op-
+erator/road crew employee may be able
+to accrue compensatory time to the
+higher cap, while other employees of
+the same department who do not have
+lengthy periods of peak seasonal de-
+mand would remain under the lower
+cap.
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23,
+1987]
+§ 553.25 Conditions for use of compen-
+satory time (‘‘reasonable period’’,
+‘‘unduly disrupt’’).
+(a) Section 7(o)(5) of the FLSA pro-
+vides that any employee of a public
+agency who has accrued compensatory
+time and requested use of this compen-
+satory time, shall be permitted to use
+such time off within a ‘‘reasonable pe-
+riod’’ after making the request, if such
+use does not ‘‘unduly disrupt’’ the op-
+erations of the agency. This provision,
+however, does not apply to ‘‘other com-
+pensatory time’’ (as defined below in
+§553.28), including compensatory time
+accrued for overtime worked prior to
+April 15, 1986.
+(b) Compensatory time cannot be
+used as a means to avoid statutory
+overtime compensation. An employee
+has the right to use compensatory time
+earned and must not be coerced to ac-
+cept more compensatory time than an
+employer can realistically and in good
+faith expect to be able to grant within
+a reasonable period of his or her mak-
+ing a request for use of such time.
+(c) Reasonable period. (1) Whether a
+request to use compensatory time has
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00257 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+266
+29 CFR Ch. V (7–1–98 Edition)§ 553.26
+been granted within a ‘‘reasonable pe-
+riod’’ will be determined by consider-
+ing the customary work practices with-
+in the agency based on the facts and
+circumstances in each case. Such prac-
+tices include, but are not limited to (a)
+the normal schedule of work, (b) an-
+ticipated peak workloads based on past
+experience, (c) emergency require-
+ments for staff and services, and (d) the
+availability of qualified substitute
+staff.
+(2) The use of compensatory time in
+lieu of cash payment for overtime must
+be pursuant to some form of agreement
+or understanding between the employer
+and the employee (or the representa-
+tive of the employee) reached prior to
+the performance of the work. (See
+§553.23.) To the extent that the (condi-
+tions under which an employee can
+take compensatory time off are con-
+tained in an agreement or understand-
+ing as defined in § 553.23, the terms of
+such agreement or understanding will
+govern the meaning of ‘‘reasonable pe-
+riod’’.
+(d) Unduly disrupt. When an employer
+receives a request for compensatory
+time off, it shall be honored unless to
+do so would be ‘‘unduly disruptive’’ to
+the agency’s operations. Mere incon-
+venience to the employer is an insuffi-
+cient basis for denial of a request for
+compensatory time off. (See H. Rep. 99–
+331, p. 23.) For an agency to turn down
+a request from an employee for com-
+pensatory time off requires that it
+should reasonably and in good faith an-
+ticipate that it would impose an unrea-
+sonable burden on the agency’s ability
+to provide services of acceptable qual-
+ity and quantity for the public during
+the time requested without the use of
+the employee’s services.
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23,
+1987]
+§ 553.26 Cash overtime payments.
+(a) Overtime compensation due under
+section 7 may be paid in cash at the
+employer’s option, in lieu of providing
+compensatory time off under section
+7(o) of the Act in any workweek or
+work period. The FLSA does not pro-
+hibit an employer from freely sub-
+stituting cash, in whole or part, for
+compensatory time off; and overtime
+payment in cash would not affect sub-
+sequent granting of compensatory time
+off in future workweeks or work peri-
+ods. (See § 553.23(a)(2).)
+(b) The principles for computing cash
+overtime pay are contained in 29 CFR
+part 778. Cash overtime compensation
+must be paid at a rate not less than one
+and one-half times the regular rate at
+which the employee is actually paid.
+(See 29 CFR 778.107.)
+(c) In a workweek or work period
+during which an employee works hours
+which are overtime hours under FLSA
+and for which cash overtime payment
+will be made, and the employee also
+takes compensatory time off, the pay-
+ment for such time off may be excluded
+from the regular rate of pay under sec-
+tion 7(e)(2) of the Act. Section 7(e)(2)
+provides that the regular rate shall not
+be deemed to include
+. . . payments made for occasional periods
+when no work is performed due to vacation,
+holiday, . . . or other similar cause.
+As explained in 29 CFR 778.218(d), the
+term ‘‘other similar cause’’ refers to
+payments made for periods of absence
+due to factors like holidays, vacations,
+illness, and so forth. Payments made to
+an employee for periods of absence due
+to the use of accrued compensatory
+time are considered to be the type of
+payments in this ‘‘other similar cause’’
+category.
+§ 553.27 Payments for unused compen-
+satory time.
+(a) Payments for accrued compen-
+satory time earned after April 14, 1986,
+may be made at any time and shall be
+paid at the regular rate earned by the
+employee at the time the employee re-
+ceives such payment.
+(b) Upon termination of employment,
+an employee shall be paid for unused
+compensatory time earned after April
+14, 1986, at a rate of compensation not
+less than—
+(1) The average regular rate received
+by such employee during the last 3
+years of the employee’s employment,
+or
+(2) The final regular rate received by
+such employee, whichever is higher.
+(c) The phrase last 3 years of employ-
+ment means the 3-year period imme-
+diately prior to termination. Where an
+employee’s last 3 years of employment
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00258 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+267
+Wage and Hour Division, Labor § 553.30
+are not continuous because of a break
+in service, the period of employment
+after the break in service will be treat-
+ed as new employment. However, such
+a break in service must have been in-
+tended to be permanent and any ac-
+crued compensatory time earned after
+April 14, 1986, must have been cashed
+out at the time of initial separation.
+Where the final period of employment
+is less than 3 years, the average rate
+still must be calculated based on the
+rate(s) in effect during such period.
+(d) The term ‘‘regular rate’’ is de-
+fined in 29 CFR 778.108. As indicated in
+§778.109, the regular rate is an hourly
+rate, although the FLSA does not re-
+quire employers to compensate em-
+ployees on an hourly basis.
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23,
+1987]
+§ 553.28 Other compensatory time.
+(a) Compensatory time which is
+earned and accrued by an employee for
+employment in excess of a nonstatu-
+tory (that is, non-FLSA) requirement
+is considered ‘‘other’’ compensatory
+time. The term ‘‘other’’ compensatory
+time off means hours during which an
+employee is not working and which are
+not counted as hours worked during
+the period when used. For example, a
+collective bargaining agreement may
+provide that compensatory time be
+granted to employees for hours worked
+in excess of 8 in a day, or for working
+on a scheduled day off in a non-
+overtime workweek. The FLSA does
+not require compensatory time to be
+granted in such situations.
+(b) Compensatory time which is
+earned and accrued by an employee
+working hours which are ‘‘overtime’’
+hours under State or local law, ordi-
+nance, or other provisions, but which
+are not overtime hours under section 7
+of the FLSA is also considered ‘‘other’’
+compensatory time. For example, a
+local law or ordinance may provide
+that compensatory time be granted to
+employees for hours worked in excess
+of 35 in a workweek. Under section 7(a)
+of the FLSA, only hours worked in ex-
+cess of 40 in a workweek are overtime
+hours which must be compensated at
+one and one-half times the regular rate
+of pay.
+(c) Similarly, compensatory time
+earned or accrued by an employee for
+employment in excess of a standard es-
+tablished by the personnel policy or
+practice of an employer, or by custom,
+which does not result from the FLSA
+provision, is another example of
+‘‘other’’ compensatory time.
+(d) The FLSA does not require that
+the rate at which ‘‘other’’ compen-
+satory time is earned has to be at a
+rate of one and one-half hours for each
+hour of employment. The rate at which
+‘‘other’’ compensatory time is earned
+may be some lesser or greater multiple
+of the rate or the straight-time rate
+itself.
+(e) The requirements of section 7(o)
+of the FLSA, including the limitations
+on accrued compensatory time, do not
+apply to ‘‘other’’ compensatory time as
+described above.
+OTHER EXEMPTIONS
+§ 553.30 Occasional or sporadic em-
+ployment-section 7(p)(2).
+(a) Section 7(p)(2) of the FLSA pro-
+vides that where State or local govern-
+ment employees, solely at their option,
+work occasionally or sporadically on a
+part-time basis for the same public
+agency in a different capacity from
+their regular employment, the hours
+worked in the different jobs shall not
+be combined for the purpose of deter-
+mining overtime liability under the
+Act.
+(b) Occasional or sporadic. (1) The
+term occasional or sporadic means infre-
+quent, irregular, or occurring in scat-
+tered instances. There may be an occa-
+sional need for additional resources in
+the delivery of certain types of public
+services which is at times best met by
+the part-time employment of an indi-
+vidual who is already a public em-
+ployee. Where employees freely and
+solely at their own option enter into
+such activity, the total hours worked
+will not be combined for purposes of de-
+termining any overtime compensation
+due on the regular, primary job. How-
+ever, in order to prevent overtime
+abuse, such hours worked are to be ex-
+cluded from computing overtime com-
+pensation due only where the occa-
+sional or sporadic assignments are not
+within the same general occupational
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00259 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+268
+29 CFR Ch. V (7–1–98 Edition)§ 553.30
+category as the employee’s regular
+work.
+(2) In order for an employee’s occa-
+sional or sporadic work on a part-time
+basis to qualify for exemption under
+section 7(p)(2), the employee’s decision
+to work in a different capacity must be
+made freely and without coercion, im-
+plicit or explicit, by the employer. An
+employer may suggest that an em-
+ployee undertake another kind of work
+for the same unit of government when
+the need for assistance arises, but the
+employee must be free to refuse to per-
+form such work without sanction and
+without being required to explain or
+justify the decision.
+(3) Typically, public recreation and
+park facilities, and stadiums or audito-
+riums utilize employees in occasional
+or sporadic work. Some of these em-
+ployment activities are the taking of
+tickets, providing security for special
+events ( e.g., concerts, sports events,
+and lectures), officiating at youth or
+other recreation and sports events, or
+engaging in food or beverage sales at
+special events, such as a county fair.
+Employment in such activity may be
+considered occasional or sporadic for
+regular employees of State or local
+government agencies even where the
+need can be anticipated because it re-
+curs seasonally ( e.g., a holiday conert
+at a city college, a program of sched-
+uled sports events, or assistance by a
+city payroll clerk in processing returns
+at tax filing time). An activity does
+not fail to be occasional merely be-
+cause it is recurring. In contrast, for
+example, if a parks department clerk,
+in addition to his or her regular job,
+also regularly works additional hours
+on a part-time basis ( e.g., every week
+or every other week) at a public park
+food and beverage sales center operated
+by that agency, the additional work
+does not constitute intermittent and
+irregular employment and, therefore,
+the hours worked would be combined in
+computing any overtime compensation
+due.
+(c) Different capacity. (1) In order for
+employment in these occasional or spo-
+radic activities not to be considered
+subject to the overtime requirements
+of section 7 of the FLSA, the regular
+government employment of the indi-
+vidual performing them must also be in
+a different capacity, i.e., it must not
+fall within the same general occupa-
+tional category.
+(2) In general, the Administrator will
+consider the duties and other factors
+contained in the definitions of the 3-
+digit categories of occupations in the
+Dictionary of Occupational Titles (except
+in the case of public safety employees
+as discussed below in section (3)), as
+well as all the facts and circumstances
+in a particular case, in determining
+whether employment in a second ca-
+pacity is substantially different from
+the regular employment.
+(3) For example, if a public park em-
+ployee primarily engaged in play-
+ground maintenance also from time to
+time cleans an evening recreation cen-
+ter operated by the same agency, the
+additional work would be considered
+hours worked for the same employer
+and subject to the Act’s overtime re-
+quirements because it is not in a dif-
+ferent capacity. This would be the case
+even though the work was occasional or
+sporadic, and, was not regularly sched-
+uled. Public safety employees taking
+on any kind of security or safety func-
+tion within the same local government
+are never considered to be employed in
+a different capacity.
+(4) However, if a bookkeeper for a
+municipal park agency or a city mail
+clerk occasionally referees for an adult
+evening basketball league sponsored by
+the city, the hours worked as a referee
+would be considered to be in a different
+general occupational category than the
+primary employment and would not be
+counted as hours worked for overtime
+purposes on the regular job. A person
+regularly employed as a bus driver may
+assist in crowd control, for example, at
+an event such as a winter festival, and
+in doing so, would be deemed to be
+serving in a different capacity.
+(5) In addition, any activity tradi-
+tionally associated with teaching (e.g.,
+coaching, career counseling, etc.) will
+not be considered as employment in a
+different capacity. However, where per-
+sonnel other than teachers engage in
+such teaching-related activities, the
+work will be viewed as employment in
+a different capacity, provided that these
+activities are performed on an occa-
+sional or sporadic basis and all other
+requirements for this provision are
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00260 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+269
+Wage and Hour Division, Labor § 553.32
+met. For example, a school secretary
+could substitute as a coach for a bas-
+ketball team or a maintenance engi-
+neer could provide instruction on auto
+repair on an occasional or sporadic
+basis.
+§ 553.31 Substitution—section 7(p)(3).
+(a) Section 7(p)(3) of the FLSA pro-
+vides that two individuals employed in
+any occupation by the same public
+agency may agree, solely at their op-
+tion and with the approval of the pub-
+lic agency, to substitute for one an-
+other during scheduled work hours in
+performance of work in the same ca-
+pacity. The hours worked shall be ex-
+cluded by the employer in the calcula-
+tion of the hours for which the sub-
+stituting employee would otherwise be
+entitled to overtime compensation
+under the Act. Where one employee
+substitutes for another, each employee
+will be credited as if he or she had
+worked his or her normal work sched-
+ule for that shift.
+(b) The provisions of section 7(p)(3)
+apply only if employees’ decisions to
+substitute for one another are made
+freely and without coercion, direct or
+implied. An employer may suggest that
+an employee substitute or ‘‘trade
+time’’ with another employee working
+in the same capacity during regularly
+scheduled hours, but each employee
+must be free to refuse to perform such
+work without sanction and without
+being required to explain or justify the
+decision. An employee’s decision to
+substitute will be considered to have
+been made at his/her sole option when
+it has been made (i) without fear of re-
+prisal or promise of reward by the em-
+ployer, and (ii) exclusively for the em-
+ployee’s own convenience.
+(c) A public agency which employs
+individuals who substitute or ‘‘trade
+time’’ under this subsection is not re-
+quired to keep a record of the hours of
+the substitute work.
+(d) In order to qualify under section
+7(p)(3), an agreement between individ-
+uals employed by a public agency to
+substitute for one another at their own
+option must be approved by the agen-
+cy. This requires that the agency be
+aware of the arrangement prior to the
+work being done, i.e., the employer
+must know what work is being done, by
+whom it is being done, and where and
+when it is being done. Approval is
+manifest when the employer is aware
+of the substitution and indicates ap-
+proval in whatever manner is cus-
+tomary.
+§ 553.32 Other FLSA exemptions.
+(a) There are other exemptions from
+the minimum wage and/or overtime re-
+quirements of the FLSA which may
+apply to certain employees of public
+agencies. The following sections pro-
+vide a discussion of some of the major
+exemptions which may be applicable.
+This list is not comprehensive.
+(b) Section 7(k) of the Act provides a
+partial overtime pay exemption for
+public agency employees employed in
+fire protection or law enforcement ac-
+tivities (including security personnel
+in correctional institutions). In addi-
+tion, section 13(b)(20) provides a com-
+plete overtime pay exemption for any
+employee of a public agency engaged in
+fire protection or law enforcement ac-
+tivities, if the public agency employs
+less than five employees in such activi-
+ties. (See subpart C of this part.)
+(c) Section 13(a)(1) of the Act pro-
+vides an exemption from both the mini-
+mum wage and overtime pay require-
+ments for any employee employed in a
+bona fide executive, administrative,
+professional, or outside sales capacity,
+as these terms are defined and delim-
+ited in part 541 of this title. An em-
+ployee will qualify for exemption if he
+or she meets all of the pertinent tests
+relating to duties, responsibilities, and
+salary.
+(d) Section 7(j) of the Act provides
+that a hospital or residential care es-
+tablishment may, pursuant to a prior
+agreement or understanding with an
+employee or employees, adopt a fixed
+work period of 14 consecutive days for
+the purpose of computing overtime pay
+in lieu of the regular 7-day workweek.
+Workers employed under section 7(j)
+must receive not less than one and one-
+half times their regular rates of pay for
+all hours worked over 8 in any work-
+day, and over 80 in the 14-day work pe-
+riod. (See § 778.601 of this title.)
+(e) Section 13(a)(3) of the Act pro-
+vides a minimum wage and overtime
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00261 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+270
+29 CFR Ch. V (7–1–98 Edition)§ 553.50
+pay exemption for any employee em-
+ployed by an amusement or rec-
+reational establishment if (1) it does
+not operate for more than 7 months in
+any calendar year or (2) during the pre-
+ceding calendar year, its average re-
+ceipts for any 6 months of such year
+were not more than 33 1⁄3 percent of its
+average receipts for the other 6 months
+of such year. In order to meet the re-
+quirements of section 13(a)(3)(B), the
+establishment in the previous year
+must have received at least 75 percent
+of its income within 6 months. The 6
+months, however, need not be 6 con-
+secutive months. State and local gov-
+ernments operate parks and rec-
+reational areas to which this exemp-
+tion may apply.
+(f) Section 13(b)(1) of the Act provides
+an exemption from the overtime pay
+requirements for ‘‘Any employee with
+respect to whom the Secretary of
+Transportation has power to establish
+qualifications and maximum hours of
+service pursuant to the provisions of
+section 204 of the Motor Carrier Act,
+1935.’’ (recodified at section 3102, 49
+U.S.C.). With regard to State or local
+governments, this overtime pay exemp-
+tion may affect mass transit systems
+engaged in interstate commerce. This
+exemption is applicable to drivers,
+driver’s helpers, loaders, and mechan-
+ics employed by a common carrier
+whose activities directly affect the
+safety of operation of motor vehicles in
+the transportation on the public high-
+ways of passengers or property. (See
+part 782 of this title.)
+(g) Section 7(n) of the Act provides
+that, for the purpose of computing
+overtime pay, the hours of employment
+of a mass transit employee do not in-
+clude the time spent in charter activi-
+ties if (1) pursuant to a prior agree-
+ment the time is not to be so counted,
+and (2) such charter activities are not a
+part of the employee’s regular employ-
+ment.
+(h) Additional overtime pay exemp-
+tions which may apply to emloyees of
+public agencies are contained in sec-
+tions 13(b)(2) (employees of certain
+common carriers by rail), 13(b)(9) (cer-
+tain employees of small market radio
+and television stations), and section
+13(b)(12) (employees in agriculture) of
+the Act. Further, section 13(a)(6) of the
+Act provides a minimum wage and
+overtime pay exemption for agricul-
+tural employees who work on small
+farms. (See part 780 of this title.)
+RECORDKEEPING
+§ 553.50 Records to be kept of compen-
+satory time.
+For each employee subject to the
+compensatory time and compensatory
+time off provisions of section 7(o) of
+the Act, a public agency which is a
+State, a political subdivision of a State
+or an interstate governmental agency
+shall maintain and preserve records
+containing the basic information and
+data required by § 516.2 of this title and,
+in addition:
+(a) The number of hours of compen-
+satory time earned pursuant to section
+7(o) each workweek, or other applica-
+ble work period, by each employee at
+the rate of one and one-half hour for
+each overtime hour worked;
+(b) The number of hours of such com-
+pensatory time used each workweek, or
+other applicable work period, by each
+employee;
+(c) The number of hours of compen-
+satory time compensated in cash, the
+total amount paid and the date of such
+payment; and
+(d) Any collective bargaining agree-
+ment or written understanding or
+agreement with respect to earning and
+using compensatory time off. If such
+agreement or understanding is not in
+writing, a record of its existence must
+be kept.
+§ 553.51 Records to be kept for employ-
+ees paid pursuant to section 7(k).
+For each employee subject to the
+partial overtime exemption in section
+7(k) of the Act, a public agency which
+is a State, a political subdivision of a
+State, or an interstate governmental
+agency shall maintain and preserve
+records containing the information and
+data required by § 553.50 and, in addi-
+tion, make some notation on the pay-
+roll records which shows the work pe-
+riod for each employee and which indi-
+cates the length of that period and its
+starting time. If all the workers (or
+groups of workers) have a work period
+of the same length beginning at the
+same time on the same day, a single
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00262 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+271
+Wage and Hour Division, Labor § 553.103
+notation of the time of day and begin-
+ning day of the work period will suffice
+for these workers.
+Subpart B—Volunteers
+§ 553.100 General.
+Section 3(e) of the Fair Labor Stand-
+ards Act, as amended in 1985, provides
+that individuals performing volunteer
+services for units of State and local
+governments will not be regarded as
+‘‘employees’’ under the statute. The
+purpose of this subpart is to define the
+circumstances under which individuals
+may perform hours of volunteer service
+for units of State and local govern-
+ments without being considered to be
+their employees during such hours for
+purposes of the FLSA.
+§ 553.101 ‘‘Volunteer’’ defined.
+(a) An individual who performs hours
+of service for a public agency for civic,
+charitable, or humanitarian reasons,
+without promise, expectation or re-
+ceipt of compensation for services ren-
+dered, is considered to be a volunteer
+during such hours. Individuals perform-
+ing hours of service for such a public
+agency will be considered volunteers
+for the time so spent and not subject to
+sections 6, 7, and 11 of the FLSA when
+such hours of service are performed in
+accord with sections 3(e)(4) (A) and (B)
+of the FLSA and the guidelines in this
+subpart.
+(b) Congress did not intend to dis-
+courage or impede volunteer activities
+undertaken for civic, charitable, or hu-
+manitarian purposes, but expressed its
+wish to prevent any manipulation or
+abuse of minimum wage or overtime
+requirements through coercion or
+undue pressure upon individuals to
+‘‘volunteer’’ their services.
+(c) Individuals shall be considered
+volunteers only where their services
+are offered freely and without pressure
+or coercion, direct or implied, from an
+employer.
+(d) An individual shall not be consid-
+ered a volunteer if the individual is
+otherwise employed by the same public
+agency to perform the same type of
+services as those for which the individ-
+ual proposes to volunteer.
+§ 553.102 Employment by the same
+public agency.
+(a) Section 3(e)(4)(A)(ii) of the FLSA
+does not permit an individual to per-
+form hours of volunteer service for a
+public agency when such hours involve
+the same type of services which the in-
+dividual is employed to perform for the
+same public agency.
+(b) Whether two agencies of the same
+State or local government constitute
+the same public agency can only be de-
+termined on a case-by-case basis. One
+factor that would support a conclusion
+that two agencies are separate is
+whether they are treated separately for
+statistical purposes in the Census of
+Governments issued by the Bureau of
+the Census, U.S. Department of Com-
+merce.
+§ 553.103 ‘‘Same type of services’’ de-
+fined.
+(a) The 1985 Amendments provide
+that employees may volunteer hours of
+service to their public employer or
+agency provided ‘‘such services are not
+the same type of services which the in-
+dividual is employed to perform for
+such public agency.’’ Employees may
+volunteer their services in one capacity
+or another without contemplation of
+pay for services rendered. The phrase
+‘‘same type of services’’ means similar
+or identical services. In general, the
+Administrator will consider, but not as
+the only criteria, the duties and other
+factors contained in the definitions of
+the 3-digit categories of occupations in
+the Dictionary of Occupational Titles in
+determining whether the volunteer ac-
+tivities constitute the ‘‘same type of
+services’’ as the employment activi-
+ties. Equally important in such a de-
+termination will be the consideration
+of all the facts and circumstances in a
+particular case, including whether the
+volunteer service is closely related to
+the actual duties performed by or re-
+sponsibilities assigned to the em-
+ployee.
+(b) An example of an individual per-
+forming services which constitute the
+‘‘same type of services’’ is a nurse em-
+ployed by a State hospital who pro-
+poses to volunteer to perform nursing
+services at a State-operated health
+clinic which does not qualify as a sepa-
+rate public agency as discussed in
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00263 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+272
+29 CFR Ch. V (7–1–98 Edition)§ 553.104
+§553.102. Similarly, a firefighter cannot
+volunteer as a firefighter for the same
+public agency.
+(c) Examples of volunteer services
+which do not constitute the ‘‘same
+type of services’’ include: A city police
+officer who volunteers as a part-time
+referee in a basketball league spon-
+sored by the city; an employee of the
+city parks department who serves as a
+volunteer city firefighter; and an office
+employee of a city hospital or other
+health care institution who volunteers
+to spend time with a disabled or elderly
+person in the same institution during
+off duty hours as an act of charity.
+§ 553.104 Private individuals who vol-
+unteer services to public agencies.
+(a) Individuals who are not employed
+in any capacity by State or local gov-
+ernment agencies often donate hours of
+service to a public agency for civic or
+humanitarian reasons. Such individ-
+uals are considered volunteers and not
+employees of such public agencies if
+their hours of service are provided with
+no promise expectation, or receipt of
+compensation for the services ren-
+dered, except for reimbursement for ex-
+penses, reasonable benefits, and nomi-
+nal fees, or a combination thereof, as
+discussed in § 553.106. There are no limi-
+tations or restrictions imposed by the
+FLSA on the types of services which
+private individuals may volunteer to
+perform for public agencies.
+(b) Examples of services which might
+be performed on a volunteer basis when
+so motivated include helping out in a
+sheltered workshop or providing per-
+sonal services to the sick or the elderly
+in hospitals or nursing homes; assist-
+ing in a school library or cafeteria; or
+driving a school bus to carry a football
+team or band on a trip. Similarly, indi-
+viduals may volunteer as firefighters
+or auxiliary police, or volunteer to per-
+form such tasks as working with re-
+tarded or handicapped children or dis-
+advantaged youth, helping in youth
+programs as camp counselors, solicit-
+ing contributions or participating in
+civic or charitable benefit programs
+and volunteering other services needed
+to carry out charitable or educational
+programs.
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23,
+1987]
+§ 553.105 Mutual aid agreements.
+An agreement between two or more
+States, political subdivisions, or inter-
+state governmental agencies for mu-
+tual aid does not change the otherwise
+volunteer character of services per-
+formed by employees of such agencies
+pursuant to said agreement. For exam-
+ple, where Town A and Town B have
+entered into a mutual aid agreement
+related to fire protection, a firefighter
+employed by Town A who also is a vol-
+unteer firefighter for Town B will not
+have his or her hours of volunteer serv-
+ice for Town B counted as part of his or
+her hours of employment with Town A.
+The mere fact that services volun-
+teered to Town B may in some in-
+stances involve performance in Town
+A’s geographic jurisdiction does not re-
+quire that the volunteer’s hours are to
+be counted as hours of employment
+with Town A.
+§ 553.106 Payment of expenses, bene-
+fits, or fees.
+(a) Volunteers may be paid expenses,
+reasonable benefits, a nominal fee, or
+any combination thereof, for their
+service without losing their status as
+volunteers.
+(b) An individual who performs hours
+of service as a volunteer for a public
+agency may receive payment for ex-
+penses without being deemed an em-
+ployee for purposes of the FLSA. A
+school guard does not become an em-
+ployee because he or she receives a uni-
+form allowance, or reimbursement for
+reasonable cleaning expenses or for
+wear and tear on personal clothing
+worn while performing hours of volun-
+teer service. (A uniform allowance
+must be reasonably limited to relieving
+the volunteer of the cost of providing
+or maintaining a required uniform
+from personal resources.) Such individ-
+uals would not lose their volunteer sta-
+tus because they are reimbursed for the
+approximate out-of-pocket expenses in-
+curred incidental to providing volun-
+teer services, for example, payment for
+the cost of meals and transportation
+expenses.
+(c) Individuals do not lose their sta-
+tus as volunteers because they are re-
+imbursed for tuition, transportation
+and meal costs involved in their at-
+tending classes intended to teach them
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00264 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+273
+Wage and Hour Division, Labor § 553.200
+to perform efficiently the services they
+provide or will provide as volunteers.
+Likewise, the volunteer status of such
+individuals is not lost if they are pro-
+vided books, supplies, or other mate-
+rials essential to their volunteer train-
+ing or reimbursement for the cost
+thereof.
+(d) Individuals do not lose their vol-
+unteer status if they are provided rea-
+sonable benefits by a public agency for
+whom they perform volunteer services.
+Benefits would be considered reason-
+able, for example, when they involve
+inclusion of individual volunteers in
+group insurance plans (such as liabil-
+ity, health, life, disability, workers’
+compensation) or pension plans or
+‘‘length of service’’ awards, commonly
+or traditionally provided to volunteers
+of State and local government agen-
+cies, which meet the additional test in
+paragraph (f) of this section.
+(e) Individuals do not lose their vol-
+unteer status if they receive a nominal
+fee from a public agency. A nominal fee
+is not a substitute for compensation
+and must not be tied to productivity.
+However, this does not preclude the
+payment of a nominal amount on a
+‘‘per call’’ or similar basis to volunteer
+firefighters. The following factors will
+be among those examined in determin-
+ing whether a given amount is nomi-
+nal: The distance traveled and the time
+and effort expended by the volunteer;
+whether the volunteer has agreed to be
+available around-the-clock or only dur-
+ing certain specified time periods; and
+whether the volunteer provides serv-
+ices as needed or throughout the year.
+An individual who volunteers to pro-
+vide periodic services on a year-round
+basis may receive a nominal monthly
+or annual stipend or fee without losing
+volunteer status.
+(f) Whether the furnishing of ex-
+penses, benefits, or fees would result in
+individuals’ losing their status as vol-
+unteers under the FLSA can only be
+determined by examining the total
+amount of payments made (expenses,
+benefits, fees) in the context of the eco-
+nomic realities of the particular situa-
+tion.
+Subpart C—Fire Protection and
+Law Enforcement Employees
+of Public Agencies
+GENERAL PRINCIPLES
+§ 553.200 Statutory provisions: section
+13(b)(20).
+(a) Section 13(b)(20) of the FLSA pro-
+vides a complete overtime pay exemp-
+tion for ‘‘any employee of a public
+agency who in any workweek is em-
+ployed in fire protection activities or
+any employee of a public agency who in
+any workweek is employed in law en-
+forcement activities (including secu-
+rity personnel in correctional institu-
+tions), if the public agency employs
+during the workweek less than 5 em-
+ployees in fire protection or law en-
+forcement activities, as the case may
+be.’’
+(b) In determining whether a public
+agency qualifies for the section
+13(b)(20) exemption, the fire protection
+and law enforcement activities are con-
+sidered separately. Thus, if a public
+agency employs less than five employ-
+ees in fire protection activities, but
+five or more employees in law enforce-
+ment activities (including security per-
+sonnel in a correctional institution), it
+may claim the exemption for the fire
+protection employees but not for the
+law enforcement employees. No dis-
+tinction is made between full-time and
+part-time employees, or between em-
+ployees on duty and employees on
+leave status, and all such categories
+must be counted in determining wheth-
+er the exemption applies. Individuals
+who are not considered ‘‘employees’’
+for purposes of the FLSA by virtue of
+section 3(e) of the Act (including per-
+sons who are ‘‘volunteers’’ within the
+meaning of § 553.101, and ‘‘elected offi-
+cials and their appointees’’ within the
+meaning of § 553.11) are not counted in
+determining whether the section
+13(b)(20) exemption applies.
+(c) The section 13(b)(20) exemption
+applies on a workweek basis. It is
+therefore possible that employees may
+be subject to maximum hours standard
+in certain workweeks, but not in oth-
+ers. In those workweeks in which the
+section 13(b)(20) exemption does not
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00265 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+274
+29 CFR Ch. V (7–1–98 Edition)§ 553.201
+apply, the public agency is entitled to
+utilize the section 7(k) exemption
+which is explained below in §553.201.
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23,
+1987]
+§ 553.201 Statutory provisions: section
+7(k).
+(a) Section 7(k) of the Act provides a
+partial overtime pay exemption for fire
+protection and law enforcement per-
+sonnel (including security personnel in
+correctional institutions) who are em-
+ployed by public agencies on a work pe-
+riod basis. This section of the Act for-
+merly permitted public agencies to pay
+overtime compensation to such em-
+ployees in work periods of 28 consecu-
+tive days only after 216 hours of work.
+As further set forth in § 553.230 of this
+part, the 216-hour standard has been re-
+placed, pursuant to the study man-
+dated by the statute, by 212 hours for
+fire protection employees and 171 hours
+for law enforcement employees. In the
+case of such employees who have a
+work period of at least 7 but less than
+28 consecutive days, overtime com-
+pensation is required when the ratio of
+the number of hours worked to the
+number of days in the work period ex-
+ceeds the ratio of 212 (or 171) hours to
+28 days.
+(b) As specified in §§ 553.20 through
+553.28 of subpart A, workers employed
+under section 7(k) may, under certain
+conditions, be compensated for over-
+time hours worked with compensatory
+time off rather than immediate over-
+time premium pay.
+§ 553.202 Limitations.
+The application of sections 13(b)(20)
+and 7(k), by their terms, is limited to
+public agencies, and does not apply to
+any private organization engaged in
+furnishing fire protection or law en-
+forcement services. This is so even if
+the services are provided under con-
+tract with a public agency.
+EXEMPTION REQUIREMENTS
+§ 553.210 Fire protection activities.
+(a) As used in sections 7(k) and
+13(b)(20) of the Act, the term ‘‘any em-
+ployee . . . in fire protection activi-
+ties’’ refers to any employee (1) who is
+employed by an organized fire depart-
+ment or fire protection district; (2) who
+has been trained to the extent required
+by State statute or local ordinance; (3)
+who has the legal authority and re-
+sponsibility to engage in the preven-
+tion, control or extinguishment of a
+fire of any type; and (4) who performs
+activities which are required for, and
+directly concerned with, the preven-
+tion, control or extinguishment of
+fires, including such incidental non-
+firefighting functions as housekeeping,
+equipment maintenance, lecturing, at-
+tending community fire drills and in-
+specting homes and schools for fire
+hazards. The term would include all
+such employees, regardless of their sta-
+tus as ‘‘trainee,’’ ‘‘probationary,’’ or
+‘‘permanent,’’ or of their particular
+specialty or job title (e.g., firefighter,
+engineer, hose or ladder operator, fire
+specialist, fire inspector, lieutenant,
+captain, inspector, fire marshal, battal-
+ion chief, deputy chief, or chief), and
+regardless of their assignment to sup-
+port activities of the type described in
+paragraph (c) of this section, whether
+or not such assignment is for training
+or familiarization purposes, or for rea-
+sons of illness, injury or infirmity. The
+term would also include rescue and am-
+bulance service personnel if such per-
+sonnel form an integral part of the
+public agency’s fire protection activi-
+ties. See § 553.215.
+(b) The term ‘‘any employee in fire
+protection activities’’ also refers to
+employees who work for forest con-
+servation agencies or other public
+agencies charged with forest fire fight-
+ing responsibilities, and who direct or
+engage in (1) fire spotting or lookout
+activities, or (2) fighting fires on the
+fireline or from aircraft or (3) operat-
+ing tank trucks, bulldozers and trac-
+tors for the purpose of clearing fire
+breaks. The term includes all persons
+so engaged, regardless of their status
+as full time or part time agency em-
+ployees or as temporary or casual
+workers employed for a particular fire
+or for periods of high fire danger, in-
+cluding those who have had no prior
+training. It does not include such agen-
+cy employees as maintenance and of-
+fice personnel who do not fight fires on
+a regular basis. It may include such
+employees during emergency situa-
+tions when they are called upon to
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00266 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+275
+Wage and Hour Division, Labor § 553.211
+spend substantially all (i.e., 80 percent
+or more) of their time during the appli-
+cable work period in one or more of the
+activities described in paragraphs
+(b)(1), (2) and (3) of this section. Addi-
+tionally, for those persons who actu-
+ally engage in those fire protection ac-
+tivities, the simultaneous performance
+of such related functions as house-
+keeping, equipment maintenance,
+tower repairs and/or the construction
+of fire roads, would also be within the
+section 7(k) or 13(b)(20) exemption.
+(c) Not included in the term ‘‘em-
+ployee in fire protection activities’’ are
+the so-called ‘‘civilian’’ employees of a
+fire department, fire district, or for-
+estry service who engage in such sup-
+port activities as those performed by
+dispatchers, alarm operators, appara-
+tus and equipment repair and mainte-
+nance workers, camp cooks, clerks, ste-
+nographers, etc.
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23,
+1987]
+§ 553.211 Law enforcement activities.
+(a) As used in sections 7(k) and
+13(b)(20) of the Act, the term ‘‘any em-
+ployee . . . in law enforcement activi-
+ties’’ refers to any employee (1) who is
+a uniformed or plainclothed member of
+a body of officers and subordinates who
+are empowered by State statute or
+local ordinance to enforce laws de-
+signed to maintain public peace and
+order and to protect both life and prop-
+erty from accidental or willful injury,
+and to prevent and detect crimes, (2)
+who has the power to arrest, and (3)
+who is presently undergoing or has un-
+dergone or will undergo on-the-job
+training and/or a course of instruction
+and study which typically includes
+physical training, self-defense, firearm
+proficiency, criminal and civil law
+principles, investigative and law en-
+forcement techniques, community rela-
+tions, medical aid and ethics.
+(b) Employees who meet these tests
+are considered to be engaged in law en-
+forcement activities regardless of their
+rank, or of their status as ‘‘trainee,’’
+‘‘probationary,’’ or ‘‘permanent,’’ and
+regardless of their assignment to du-
+ties incidental to the performance of
+their law enforcement activities such
+as equipment maintenance, and lectur-
+ing, or to support activities of the type
+described in paragraph (g) of this sec-
+tion, whether or not such assignment is
+for training or familiarization pur-
+poses, or for reasons of illness, injury
+or infirmity. The term would also in-
+clude rescue and ambulance service
+personnel if such personnel form an in-
+tegral part of the public agency’s law
+enforcement activities. See §553.215.
+(c) Typically, employees engaged in
+law enforcement activities include city
+police; district or local police, sheriffs,
+under sheriffs or deputy sheriffs who
+are regularly employed and paid as
+such; court marshals or deputy mar-
+shals; constables and deputy constables
+who are regularly employed and paid as
+such; border control agents; state
+troopers and highway patrol officers.
+Other agency employees not specifi-
+cally mentioned may, depending upon
+the particular facts and pertinent stat-
+utory provisions in that jurisdiction,
+meet the three tests described above. If
+so, they will also qualify as law en-
+forcement officers. Such employees
+might include, for example, fish and
+game wardens or criminal investiga-
+tive agents assigned to the office of a
+district attorney, an attorney general,
+a solicitor general or any other law en-
+forcement agency concerned with keep-
+ing public peace and order and protect-
+ing life and property.
+(d) Some of the law enforcement offi-
+cers listed above, including but not
+limited to certain sheriffs, will not be
+covered by the Act if they are elected
+officials and if they are not subject to
+the civil service laws of their particu-
+lar State or local jurisdiction. Section
+3(e)(2)(C) of the Act excludes from its
+definition of ‘‘employee’’ elected offi-
+cials and their personal staff under the
+conditions therein prescribed. 29 U.S.C.
+203(e)(2)(C), and see § 553.11. Such indi-
+viduals, therefore, need not be counted
+in determining whether the public
+agency in question has less than five
+employees engaged in law enforcement
+activities for purposes of claiming the
+section 13(b)(20) exemption.
+(e) Employees who do not meet each
+of the three tests described above are
+not engaged in ‘‘law enforcement ac-
+tivities’’ as that term is used in sec-
+tions 7(k) and 13(b)(20). Employees who
+normally would not meet each of these
+tests include
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00267 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+276
+29 CFR Ch. V (7–1–98 Edition)§ 553.212
+(1) Building inspectors (other than
+those defined in § 553.213(a)),
+(2) Health inspectors,
+(3) Animal control personnel,
+(4) Sanitarians,
+(5) civilian traffic employees who di-
+rect vehicular and pedestrian traffic at
+specified intersections or other control
+points,
+(6) Civilian parking checkers who pa-
+trol assigned areas for the purpose of
+discovering parking violations and
+issuing appropriate warnings or ap-
+pearance notices,
+(7) Wage and hour compliance offi-
+cers,
+(8) Equal employment opportunity
+compliance officers,
+(9) Tax compliance officers,
+(10) Coal mining inspectors, and
+(11) Building guards whose primary
+duty is to protect the lives and prop-
+erty of persons within the limited area
+of the building.
+(f) The term ‘‘any employee in law
+enforcement activities’’ also includes,
+by express reference, ‘‘security person-
+nel in correctional instititions.’’ A cor-
+rectional institution is any govern-
+ment facility maintained as part of a
+penal system for the incarceration or
+detention of persons suspected or con-
+victed of having breached the peace or
+committed some other crime. Typi-
+cally, such facilities include peniten-
+tiaries, prisons, prison farms, county,
+city and village jails, precinct house
+lockups and reformatories. Employees
+of correctional institutions who qualify
+as security personnel for purposes of
+the section 7(k) exemption are those
+who have responsibility for controlling
+and maintaining custody of inmates
+and of safeguarding them from other
+inmates or for supervising such func-
+tions, regardless of whether their du-
+ties are performed inside the correc-
+tional institution or outside the insti-
+tution (as in the case of road gangs).
+These employees are considered to be
+engaged in law enforcement activities
+regardless of their rank ( e.g., warden,
+assistant warden or guard) or of their
+status as ‘‘trainee,’’ ‘‘probationary,’’ or
+‘‘permanent,’’ and regardless of their
+assignment to duties incidental to the
+performance of their law enforcement
+activities, or to support activities of
+the type described in paragraph (g) of
+this section, whether or not such as-
+signment is for training or familiariza-
+tion purposes or for reasons of illness,
+injury or infirmity.
+(g) Not included in the term ‘‘em-
+ployee in law enforcement activities’’
+are the so-called ‘‘civilian’’ employees
+of law enforcement agencies or correc-
+tional institutions who engage in such
+support activities as those performed
+by dispatcher, radio operators, appara-
+tus and equipment maintenance and re-
+pair workers, janitors, clerks and ste-
+nographers. Nor does the term include
+employees in correctional institutions
+who engage in building repair and
+maintenance, culinary services, teach-
+ing, or in psychological, medical and
+paramedical services. This is so even
+though such employees may, when as-
+signed to correctional institutions,
+come into regular contact with the in-
+mates in the performance of their du-
+ties.
+§ 553.212 Twenty percent limitation on
+nonexempt work.
+(a) Employees engaged in fire protec-
+tion or law enforcement activities as
+described in §§ 553.210 and 553.211, may
+also engage in some nonexempt work
+which is not performed as an incident
+to or in conjunction with their fire pro-
+tection or law enforcement activities.
+For example, firefighters who work for
+forest conservation agencies may, dur-
+ing slack times, plant trees and per-
+form other conservation activities un-
+related to their firefighting duties. The
+performance of such nonexempt work
+will not defeat either the section
+13(b)(20) or 7(k) exemptions unless it
+exceeds 20 percent of the total hours
+worked by that employee during the
+workweek or applicable work period. A
+person who spends more than 20 per-
+cent of his/her working time in non-
+exempt activities is not considered to
+be an employee engaged in fire protec-
+tion or law enforcement activities for
+purposes of this part.
+(b) Public agency fire protection and
+law enforcement personnel may, at
+their own option, undertake employ-
+ment for the same employer on an oc-
+casional or sporadic and part-time
+basis in a different capacity from their
+regular employment. (See § 553.30.) The
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00268 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+277
+Wage and Hour Division, Labor § 553.215
+performance of such work does not af-
+fect the application of the section
+13(b)(20) or 7(k) exemptions with re-
+spect to the regular employment. In
+addition, the hours of work in the dif-
+ferent capacity need not be counted as
+hours worked for overtime purposes on
+the regular job, nor are such hours
+counted in determining the 20 percent
+tolerance for nonexempt work dis-
+cussed in paragraph (a) of this section.
+§ 553.213 Public agency employees en-
+gaged in both fire protection and
+law enforcement activities.
+(a) Some public agencies have em-
+ployees (often called ‘‘public safety of-
+ficers’’) who engage in both fire protec-
+tion and law enforcement activities,
+depending on the agency needs at the
+time. This dual assignment would not
+defeat either the section 13(b)(20) or
+7(k) exemption, provided that each of
+the activities performed meets the ap-
+propriate tests set forth in §§ 553.210
+and 553.211. This is so regardless of how
+the employee’s time is divided between
+the two activities. However, all time
+spent in nonexempt activities by public
+safety officers within the work period,
+whether performed in connection with
+fire protection or law enforcement
+functions, or with neither, must be
+combined for purposes of the 20 percent
+limitation on nonexempt work dis-
+cussed in § 553.212.
+(b) As specified in § 553.230, the maxi-
+mum hours standards under section
+7(k) are different for employees en-
+gaged in fire protection and for em-
+ployees engaged in law enforcement.
+For those employees who perform both
+fire protection and law enforcement ac-
+tivities, the applicable standard is the
+one which applies to the activity in
+which the employee spends the major-
+ity of work time during the work pe-
+riod.
+§ 553.214 Trainees.
+The attendance at a bona fide fire or
+police academy or other training facil-
+ity, when required by the employing
+agency, constitutes engagement in ac-
+tivities under section 7(k) only when
+the employee meets all the applicable
+tests described in § 553.210 or § 553.211
+(except for the power of arrest for law
+enforcement personnel), as the case
+may be. If the applicable tests are met,
+then basic training or advanced train-
+ing is considered incidental to, and
+part of, the employee’s fire protection
+or law enforcement activities.
+§ 553.215 Ambulance and rescue serv-
+ice employees.
+(a) Ambulance and rescue service em-
+ployees of a public agency other than a
+fire protection or law enforcement
+agency may be treated as employees
+engaged in fire protection or law en-
+forcement activities of the type con-
+templated by sections 7(k) and 13(b)(20)
+if their services are substantially relat-
+ed to firefighting or law enforcement
+activities in that (1) the ambulance and
+rescue service employees have received
+training in the rescue of fire, crime,
+and accident victims or firefighters or
+law enforcement personnel injured in
+the performance of their respective,
+duties, and (2) the ambulance and res-
+cue service employees are regularly
+dispatched to fires, crime scenes, riots,
+natural disasters and accidents. As pro-
+vided in § 553.213(b), where employees
+perform both fire protection and law
+enforcement activities, the applicable
+standard is the one which applies to
+the activity in which the employee
+spends the majority of work time dur-
+ing the work period.
+(b) Ambulance and rescue service em-
+ployees of public agencies subject to
+the Act prior to the 1974 Amendments
+do not come within the section 7(k) or
+section 13(b)(20) exemptions, since it
+was not the purpose of those Amend-
+ments to deny the Act’s protection of
+previously covered and nonexempt em-
+ployees. This would include, for exam-
+ple, employees of public agencies en-
+gaged in the operation of a hospital or
+an institution primarily engaged in the
+care of the sick, the aged, the mentally
+ill or defective who reside on the prem-
+ises of such institutions.
+(c) Ambulance and rescue service em-
+ployees of private organizations do not
+come within the section 7(k) or section
+13(b)(20) exemptions even if their ac-
+tivities are substantially related to the
+fire protection and law enforcement ac-
+tivities performed by a public agency
+or their employer is under contract
+with a public agency to provide such
+services.
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00269 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+278
+29 CFR Ch. V (7–1–98 Edition)§ 553.216
+§ 553.216 Other exemptions.
+Although the 1974 Amendments to
+the FLSA provided special exemptions
+for employees of public agencies en-
+gaged in fire protection and law en-
+forcement activities, such workers may
+also be subject to other exemptions in
+the Act, and public agencies may claim
+such other applicable exemptions in
+lieu of sections 13(b)(20) and 7(k). For
+example, section 13(a)(1) provides a
+complete minimum wage and overtime
+pay exemption for any employee em-
+ployed in a bona fide executive, admin-
+istrative, or professional capacity, as
+those terms are defined and delimited
+in 29 CFR part 541. The section 13(a)(1)
+exemption can be claimed for any fire
+protection or law enforcement em-
+ployee who meets all of the tests speci-
+fied in part 541 relating to duties, re-
+sponsibilities, and salary. Thus, high
+ranking police officials who are en-
+gaged in law enforcement activities,
+may also, depending on the facts, qual-
+ify for the section 13(a)(1) exemption as
+‘‘executive’’ employees. Similarly, cer-
+tain criminal investigative agents may
+qualify as ‘‘administrative’’ employees
+under section 13(a)(1). However, the
+election to take the section 13(a)(1) ex-
+emption for an employee who qualifies
+for it will not result in excluding that
+employee from the count that must be
+made to determine the application of
+the section 13(b)(20) exemption to the
+agency’s other employees.
+TOUR OF DUTY AND COMPENSABLE HOURS
+OF WORK RULES
+§ 553.220 ‘‘Tour of duty’’ defined.
+(a) The term ‘‘tour of duty’’ is a
+unique concept applicable only to em-
+ployees for whom the section 7(k) ex-
+emption is claimed. This term, as used
+in section 7(k), means the period of
+time during which an employee is con-
+sidered to be on duty for purposes of
+determining compensable hours. It
+may be a scheduled or unscheduled pe-
+riod. Such periods include ‘‘shifts’’ as-
+signed to employees often days in ad-
+vance of the performance of the work.
+Scheduled periods also include time
+spent in work outside the ‘‘shift’’
+which the public agency employer as-
+signs. For example, a police officer
+may be assigned to crowd control dur-
+ing a parade or other special event out-
+side of his or her shift.
+(b) Unscheduled periods include time
+spent in court by police officers, time
+spent handling emergency situations,
+and time spent working after a shift to
+complete an assignment. Such time
+must be included in the compensable
+tour of duty even though the specific
+work performed may not have been as-
+signed in advance.
+(c) The tour of duty does not include
+time spent working for a separate and
+independent employer in certain types
+of special details as provided in
+§553.227. The tour of duty does not in-
+clude time spent working on an occa-
+sional or sporadic and part-time basis
+in a different capacity from the regular
+work as provided in § 553.30. The tour of
+duty does not include time spent sub-
+stituting for other employees by mu-
+tual agreement as specified in §553.31.
+(d) The tour of duty does not include
+time spent in volunteer firefighting or
+law enforcement activities performed
+for a different jurisdiction, even where
+such activities take place under the
+terms of a mutual aid agreement in the
+jurisdiction in which the employee is
+employed. (See § 553.105.)
+§ 553.221 Compensable hours of work.
+(a) The general rules on compensable
+hours of work are set forth in 29 CFR
+part 785 which is applicable to employ-
+ees for whom the section 7(k) exemp-
+tion is claimed. Special rules for sleep
+time (§ 553.222) apply to both law en-
+forcement and firefighting employees
+for whom the section 7(k) exemption is
+claimed. Also, special rules for meal
+time apply in the case of firefighters
+(§553.223). Part 785 does not discuss the
+special provisions that apply to State
+and local government workers with re-
+spect to the treatment of substitution,
+special details for a separate and inde-
+pendent employer, early relief, and
+work performed on an occasional or
+sporadic and part-time basis, all of
+which are covered in this subpart.
+(b) Compensable hours of work gen-
+erally include all of the time during
+which an employee is on duty on the
+employer’s premises or at a prescribed
+workplace, as well as all other time
+during which the employee is suffered
+or permitted to work for the employer.
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00270 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+279
+Wage and Hour Division, Labor § 553.222
+Such time includes all pre-shift and
+post-shift activities which are an inte-
+gral part of the employee’s principal
+activity or which are closely related to
+the performance of the principal activ-
+ity, such as attending roll call, writing
+up and completing tickets or reports,
+and washing and re-racking fire hoses.
+(c) Time spent away from the em-
+ployer’s premises under conditions that
+are so circumscribed that they restrict
+the employee from effectively using
+the time for personal pursuits also con-
+stitutes compensable hours of work.
+For example, where a police station
+must be evacuated because of an elec-
+trical failure and the employees are ex-
+pected to remain in the vicinity and re-
+turn to work after the emergency has
+passed, the entire time spent away
+from the premises is compensable. The
+employees in this example cannot use
+the time for their personal pursuits.
+(d) An employee who is not required
+to remain on the employer’s premises
+but is merely required to leave word at
+home or with company officials where
+he or she may be reached is not work-
+ing while on call. Time spent at home
+on call may or may not be compensable
+depending on whether the restrictions
+placed on the employee preclude using
+the time for personal pursuits. Where,
+for example, a firefighter has returned
+home after the shift, with the under-
+standing that he or she is expected to
+return to work in the event of an emer-
+gency in the night, such time spent at
+home is normally not compensable. On
+the other hand, where the conditions
+placed on the employee’s activities are
+so restrictive that the employee cannot
+use the time effectively for personal
+pursuits, such time spent on call is
+compensable.
+(e) Normal home to work travel is
+not compensable, even where the em-
+ployee is expected to report to work at
+a location away from the location of
+the employer’s premises.
+(f) A police officer, who has com-
+pleted his or her tour of duty and who
+is given a patrol car to drive home and
+use on personal business, is not work-
+ing during the travel time even where
+the radio must be left on so that the of-
+ficer can respond to emergency calls.
+Of course, the time spent in responding
+to such calls is compensable.
+(g) The fact that employees cannot
+return home after work does not nec-
+essarily mean that they continue on
+duty after their shift. For example,
+firefighters working on a forest fire
+may be transported to a camp after
+their shift in order to rest and eat a
+meal. As a practical matter, the fire-
+fighters may be precluded from going
+to their homes because of the distance
+of the fire from their residences.
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23,
+1987]
+§ 553.222 Sleep time.
+(a) Where a public employer elects to
+pay overtime compensation to fire-
+fighters and/or law enforcement per-
+sonnel in accordance with section
+7(a)(1) of the Act, the public agency
+may exclude sleep time from hours
+worked if all the conditions in § 785.22
+of this title are met.
+(b) Where the employer has elected
+to use the section 7(k) exemption, sleep
+time cannot be excluded from the com-
+pensable hours of work where
+(1) The employee is on a tour of duty
+of less than 24 hours, which is the gen-
+eral rule applicable to all employees
+under § 785.21, and
+(2) Where the employee is on a tour
+of duty of exactly 24 hours, which is a
+departure from the general rules in
+part 785.
+(c) Sleep time can be excluded from
+compensable hours of work, however,
+in the case of police officers or fire-
+fighters who are on a tour of duty of
+more than 24 hours, but only if there is
+an expressed or implied agreement be-
+tween the employer and the employees
+to exclude such time. In the absence of
+such an agreement, the sleep time is
+compensable. In no event shall the
+time excluded as sleep time exceed 8
+hours in a 24-hour period. If the sleep
+time is interrupted by a call to duty,
+the interruption must be counted as
+hours worked. If the sleep period is in-
+terrupted to such an extent that the
+employee cannot get a reasonable
+night’s sleep (which, for enforcement
+purposes means at least 5 hours), the
+entire time must be counted as hours
+of work.
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00271 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+280
+29 CFR Ch. V (7–1–98 Edition)§ 553.223
+§ 553.223 Meal time.
+(a) If a public agency elects to pay
+overtime compensation to firefighters
+and law enforcement personnel in ac-
+cordance with section 7(a)(1) of the
+Act, the public agency may exclude
+meal time from hours worked if all the
+tests in §785.19 of this title are met.
+(b) If a public agency elects to use
+the section 7(k) exemption, the public
+agency may, in the case of law enforce-
+ment personnel, exclude meal time
+from hours worked on tours of duty of
+24 hours or less, provided that the em-
+ployee is completely relieved from
+duty during the meal period, and all
+the other tests in § 785.19 of this title
+are met. On the other hand, where law
+enforcement personnel are required to
+remain on call in barracks or similar
+quarters, or are engaged in extended
+surveillance activities (e.g.,
+‘‘stakeouts’’), they are not considered
+to be completely relieved from duty,
+and any such meal periods would be
+compensable.
+(c) With respect to firefighters em-
+ployed under section 7(k), who are con-
+fined to a duty station, the legislative
+history of the Act indicates Congres-
+sional intent to mandate a departure
+from the usual FLSA ‘‘hours of work’’
+rules and adoption of an overtime
+standard keyed to the unique concept
+of ‘‘tour of duty’’ under which fire-
+fighters are employed. Where the pub-
+lic agency elects to use the section 7(k)
+exemption for firefighters, meal time
+cannot be excluded from the compen-
+sable hours of work where (1) the fire-
+fighter is on a tour of duty of less than
+24 hours, and (2) where the firefighter
+is on a tour of duty of exactly 24 hours,
+which is a departure from the general
+rules in § 785.22 of this title.
+(d) In the case of police officers or
+firefighters who are on a tour of duty
+of more than 24 hours, meal time may
+be excluded from compensable hours of
+work provided that the tests in §§ 785.19
+and 785.22 of this title are met.
+§ 553.224 ‘‘Work period’’ defined.
+(a) As used in section 7(k), the term
+‘‘work period’’ refers to any established
+and regularly recurring period of work
+which, under the terms of the Act and
+legislative history, cannot be less than
+7 consecutive days nor more than 28
+consecutive days. Except for this limi-
+tation, the work period can be of any
+length, and it need not coincide with
+the duty cycle or pay period or with a
+particular day of the week or hour of
+the day. Once the beginning and ending
+time of an employee’s work period is
+established, however, it remains fixed
+regardless of how many hours are
+worked within the period. The begin-
+ning and ending of the work period
+may be changed, provided that the
+change is intended to be permanent
+and is not designed to evade the over-
+time compensation requirements of the
+Act.
+(b) An employer may have one work
+period applicable to all employees, or
+different work periods for different em-
+ployees or groups of employees.
+§ 553.225 Early relief.
+It is a common practice among em-
+ployees engaged in fire protection ac-
+tivities to relieve employees on the
+previous shift prior to the scheduled
+starting time. Such early relief time
+may occur pursuant to employee agree-
+ment, either expressed or implied. This
+practice will not have the effect of in-
+creasing the number of compensable
+hours of work for employees employed
+under section 7(k) where it is voluntary
+on the part of the employees and does
+not result, over a period of time, in
+their failure to receive proper com-
+pensation for all hours actually
+worked. On the other hand, if the prac-
+tice is required by the employer, the
+time involved must be added to the em-
+ployee’s tour of duty and treated as
+compensable hours of work.
+§ 553.226 Training time.
+(a) The general rules for determining
+the compensability of training time
+under the FLSA are set forth in
+§§785.27 through 785.32 of this title.
+(b) While time spent in attending
+training required by an employer is
+normally considered compensable
+hours of work, following are situations
+where time spent by employees of
+State and local governments in re-
+quired training is considered to be non-
+compensable:
+(1) Attendance outside of regular
+working hours at specialized or follow-
+up training, which is required by law
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00272 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+281
+Wage and Hour Division, Labor § 553.227
+for certification of public and private
+sector employees within a particular
+governmental jurisdiction (e.g., certifi-
+cation of public and private emergency
+rescue workers), does not constitute
+compensable hours of work for public
+employees within that jurisdiction and
+subordinate jurisdictions.
+(2) Attendance outside of regular
+working hours at specialized or follow-
+up training, which is required for cer-
+tification of employees of a govern-
+mental jurisdiction by law of a higher
+level of government (e.g., where a State
+or county law imposes a training obli-
+gation on city employees), does not
+constitute compensable hours of work.
+(3) Time spent in the training de-
+scribed in paragraphs (b) (1) or (2) of
+this section is not compensable, even if
+all or part of the costs of the training
+is borne by the employer.
+(c) Police officers or firefighters, who
+are in attendance at a police or fire
+academy or other training facility, are
+not considered to be on duty during
+those times when they are not in class
+or at a training session, if they are free
+to use such time for personal pursuits.
+Such free time is not compensable.
+§ 553.227 Outside employment.
+(a) Section 7(p)(1) makes special pro-
+vision for fire protection and law en-
+forcement employees of public agencies
+who, at their own option, perform spe-
+cial duty work in fire protection, law
+enforcement or related activities for a
+separate and independent employer
+(public or private) during their off-duty
+hours. The hours of work for the sepa-
+rate and independent employer are not
+combined with the hours worked for
+the primary public agency employer
+for purposes of overtime compensation.
+(b) Section 7(p)(1) applies to such
+outside employment provided (1) The
+special detail work is performed solely
+at the employee’s option, and (2) the
+two employers are in fact separate and
+independent.
+(c) Whether two employers are, in
+fact, separate and independent can
+only be determined on a case-by-case
+basis.
+(d) The primary employer may facili-
+tate the employment or affect the con-
+ditions of employment of such employ-
+ees. For example, a police department
+may maintain a roster of officers who
+wish to perform such work. The depart-
+ment may also select the officers for
+special details from a list of those
+wishing to participate, negotiate their
+pay, and retain a fee for administrative
+expenses. The department may require
+that the separate and independent em-
+ployer pay the fee for such services di-
+rectly to the department, and establish
+procedures for the officers to receive
+their pay for the special details
+through the agency’s payroll system.
+Finally, the department may require
+that the officers observe their normal
+standards of conduct during such de-
+tails and take disciplinary action
+against those who fail to do so.
+(e) Section 7(p)(1) applies to special
+details even where a State law or local
+ordinance requires that such work be
+performed and that only law enforce-
+ment or fire protection employees of a
+public agency in the same jurisdiction
+perform the work. For example, a city
+ordinance may require the presence of
+city police officers at a convention cen-
+ter during concerts or sports events. If
+the officers perform such work at their
+own option, the hours of work need not
+be combined with the hours of work for
+their primary employer in computing
+overtime compensation.
+(f) The principles in paragraphs (d)
+and (e) of this section with respect to
+special details of public agency fire
+protection and law enforcement em-
+ployees under section 7(p)(1) are excep-
+tions to the usual rules on joint em-
+ployment set forth in part 791 of this
+title.
+(g) Where an employee is directed by
+the public agency to perform work for
+a second employer, section 7(p)(1) does
+not apply. Thus, assignments of police
+officers outside of their normal work
+hours to perform crowd control at a pa-
+rade, where the assignments are not
+solely at the option of the officers,
+would not qualify as special details
+subject to this exception. This would
+be true even if the parade organizers
+reimburse the public agency for provid-
+ing such services.
+(h) Section 7(p)(1) does not prevent a
+public agency from prohibiting or re-
+stricting outside employment by its
+employees.
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00273 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+282
+29 CFR Ch. V (7–1–98 Edition)§ 553.230
+OVERTIME COMPENSATION RULES
+§ 553.230 Maximum hours standards
+for work periods of 7 to 28 days—
+section 7(k).
+(a) For those employees engaged in
+fire protection activities who have a
+work period of at least 7 but less than
+28 consecutive days, no overtime com-
+pensation is required under section 7(k)
+until the number of hours worked ex-
+ceeds the number of hours which bears
+the same relationship to 212 as the
+number of days in the work period
+bears to 28.
+(b) For those employees engaged in
+law enforcement activities (including
+security personnel in correctional in-
+stitutions) who have a work period of
+at least 7 but less than 28 consecutive
+days, no overtime compensation is re-
+quired under section 7(k) until the
+number of hours worked exceeds the
+number of hours which bears the same
+relationship to 171 as the number of
+days in the work period bears to 28.
+(c) The ratio of 212 hours to 28 days
+for employees engaged in fire protec-
+tion activities is 7.57 hours per day
+(rounded) and the ratio of 171 hours to
+28 days for employees engaged in law
+enforcement activities is 6.11 hours per
+day (rounded). Accordingly, overtime
+compensation (in premium pay or com-
+pensatory time) is required for all
+hours worked in excess of the following
+maximum hours standards (rounded to
+the nearest whole hour):
+Work period (days)
+Maximum hours stand-
+ards
+Fire protec-
+tion
+Law en-
+forcement
+28 ............................................... 212 171
+27 ............................................... 204 165
+26 ............................................... 197 159
+25 ............................................... 189 153
+24 ............................................... 182 147
+23 ............................................... 174 141
+22 ............................................... 167 134
+21 ............................................... 159 128
+20 ............................................... 151 122
+19 ............................................... 144 116
+18 ............................................... 136 110
+17 ............................................... 129 104
+16 ............................................... 121 98
+15 ............................................... 114 92
+14 ............................................... 106 86
+13 ............................................... 98 79
+12 ............................................... 91 73
+11 ............................................... 83 67
+10 ............................................... 76 61
+9 ................................................. 68 55
+8 ................................................. 61 49
+Work period (days)
+Maximum hours stand-
+ards
+Fire protec-
+tion
+Law en-
+forcement
+7 ................................................. 53 43
+§ 553.231 Compensatory time off.
+(a) Law enforcement and fire protec-
+tion employees who are subject to the
+section 7(k) exemption may receive
+compensatory time off in lieu of over-
+time pay for hours worked in excess of
+the maximum for their work period as
+set forth in § 553.230. The rules for com-
+pensatory time off are set forth in
+§§553.20 through 553.28 of this part.
+(b) Section 7(k) permits public agen-
+cies to balance the hours of work over
+an entire work period for law enforce-
+ment and fire protection employees.
+For example, if a firefighter’s work pe-
+riod is 28 consecutive days, and he or
+she works 80 hours in each of the first
+two weeks, but only 52 hours in the
+third week, and does not work in the
+fourth week, no overtime compensa-
+tion (in cash wages or compensatory
+time) would be required since the total
+hours worked do not exceed 212 for the
+work period. If the same firefighter had
+a work period of only 14 days, overtime
+compensation or compensatory time
+off would be due for 54 hours (160 minus
+106 hours) in the first 14 day work pe-
+riod.
+§ 553.232 Overtime pay requirements.
+If a public agency pays employees
+subject to section 7(k) for overtime
+hours worked in cash wages rather
+than compensatory time off, such
+wages must be paid at one and one-half
+times the employees’ regular rates of
+pay. In addition, employees who have
+accrued the maximum 480 hours of
+compensatory time must be paid cash
+wages of time and one-half their regu-
+lar rates of pay for overtime hours in
+excess of the maximum for the work
+period set forth in § 553.230.
+§ 553.233 ‘‘Regular rate’’ defined.
+The rules for computing an employ-
+ee’s ‘‘regular rate’’, for purposes of the
+Act’s overtime pay requirements, are
+set forth in part 778 of this title. These
+rules are applicable to employees for
+whom the section 7(k) exemption is
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00274 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T
+283
+Wage and Hour Division, Labor Pt. 570
+claimed when overtime compensation
+is provided in cash wages. However,
+wherever the word ‘‘workweek’’ is used
+in part 778, the words ‘‘work period’’
+should be substituted.
+PART 570—CHILD LABOR REGULA-
+TIONS, ORDERS AND STATEMENTS
+OF INTERPRETATION
+Subpart A—General
+Sec.
+570.1 Definitions.
+570.2 Minimum age standards.
+Subpart B—Certificates of Age
+570.5 Authorized certificates and their ef-
+fect.
+570.6 Contents and disposition of certificate.
+570.7 Documentary evidence required for
+issuance of certificate.
+570.8 Federal certificates of age.
+570.9 States in which State certificates are
+accepted.
+570.10 Designation of the State of Alaska
+and the Territory of Guam.
+570.11 Continued acceptability of certifi-
+cates.
+570.12 Revoked certificates.
+PROVISIONS OF OTHER LAWS
+570.25 Effect on other laws.
+PROVISION FOR REVISION
+570.27 Revision of this subpart.
+Subpart C—Employment of Minors Be-
+tween 14 and 16 Years of Age (Child
+Labor Reg. 3)
+570.31 Determination.
+570.32 Effect of this subpart.
+570.33 Occupations.
+570.34 Occupations in retail, food service,
+and gasoline service establishments.
+570.35 Periods and conditions of employ-
+ment.
+570.35a Work experience and career explo-
+ration programs.
+570.36 Certificates of age; effect.
+570.37 Effect on other laws.
+570.38 Revision of this subpart.
+Subpart D— [Reserved]
+Subpart E—Occupations Particularly Haz-
+ardous for the Employment of Minors
+Between 16 and 18 Years of Age or
+Detrimental to Their Health or Well-
+Being
+570.50 General.
+570.51 Occupations in or about plants or es-
+tablishments manufacturing or storing
+explosives or articles containing explo-
+sive components (Order 1).
+570.52 Occupations of motor-vehicle driver
+and outside helper (Order 2).
+570.53 Coal-mine occupations (Order 3).
+570.54 Logging occupations and occupations
+in the operation of any sawmill, lath
+mill, shingle mill, or cooperage stock
+mill (Order 4).
+570.55 Occupations involved in the operation
+of power-driven woodworking machines
+(Order 5).
+570.57 Exposure to radioactive substances
+and to ionizing radiations (Order 6).
+570.58 Occupations involved in the operation
+of power-driven hoisting apparatus
+(Order 7).
+570.59 Occupations involved in the oper-
+ations of power-driven metal forming,
+punching, and shearing machines (Order
+8).
+570.60 Occupations in connection with min-
+ing, other than coal (Order 9).
+570.61 Occupations in the operation of
+power-driven meat-processing machines
+and occupations involving slaughtering,
+meat packing or processing, or rendering
+(Order 10).
+570.62 Occupations involved in the operation
+of bakery machines (Order 11).
+570.63 Occupations involved in the operation
+of paper-products machines (Order 12).
+570.64 Occupations involved in the manufac-
+ture of brick, tile, and kindred products
+(Order 13).
+570.65 Occupations involved in the oper-
+ations of circular saws, band saws, and
+guillotine shears (Order 14).
+570.66 Occupations involved in wrecking,
+demolition, and shipbreaking operations
+(Order 15).
+570.67 Occupations in roofing operations
+(Order 16).
+570.68 Occupations in excavation operations
+(Order 17).
+Subpart E–1—Occupations in Agriculture
+Particularly Hazardous for the Employ-
+ment of Children Below the Age of 16
+570.70 Purpose and scope.
+570.71 Occupations involved in agriculture.
+570.72 Exemptions.
+Subpart F— [Reserved]
+Subpart G—General Statements of Inter-
+pretation of the Child Labor Provisions
+of the Fair Labor Standards Act of
+1938, as Amended
+GENERAL
+570.101 Introductory statement.
+VerDate 10<AUG>98 09:46 Aug 11, 1998 Jkt 179109 PO 00000 Frm 00275 Fmt 8010 Sfmt 8010 E:\TEMP\179109T.XXX chick PsN: 179109T

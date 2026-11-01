@@ -1,0 +1,3024 @@
+In The 
+Supreme Court of the United States 
+
+
+¢ 
+
+
+ANTONIO TONTON SLACK, 
+
+
+Petitioner, 
+Vv. 
+
+
+E.K. MCDANIEL, WARDEN, ELY (NEVADA) 
+STATE PRISON, and FRANKIE SUE DEL PAPA, 
+ATTORNEY GENERAL OF THE STATE OF NEVADA, 
+
+
+Respondents. 
+
+
+S 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
+
+
+¢ 
+
+
+BRIEF FOR PETITIONER 
+® 
+
+
+FRANNY A. ForsMAN 
+Federal Public Defender 
+
+For the District of Nevada 
+Joun C. LAMBROSE 
+DesoraH A. TREVINO 
+Tmotny P. O’Toore 
+*MICHAEL PEsSCETTA 
+Assistant Federal Public Defenders 
+330 S. Third St., #700 
+Las Vegas, Nevada 89101 
+(702) 388-6577 
+Counsel for Petitioner 
+
+
+“Counsel of Record 
+
+
+QUESTION PRESENTED 
+
+
+Rule 9 of the Rules Governing Section 2254 Cases, 
+former 28 U.S.C. § 2244(b), and current 28 U.S.C. 
+§ 2244(b) each codify a bright-line rule of res judicata - 
+known in habeas corpus practice as abuse of the writ — 
+which governs the filing of “second or successive” habeas 
+corpus applications. The question on which the Court 
+granted review is: 
+
+
+If a person’s petition for habeas corpus 
+under 28 U.S.C. § 2254 is dismissed for failure to 
+exhaust state remedies and he subsequently 
+exhausts his state remedies and refiles the 
+§ 2254 petition, are claims included within that 
+petition that were not included within his initial 
+§ 2254 filing ‘second or successive’ habeas appli- 
+cations? 
+
+
+ii 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+The caption contains the names of all the parties to 
+this proceeding. 
+
+
+TABLE OF CONTENTS 
+
+
+eh eB). » 
+PARTIES TO THE PROCEEDING .................. 
+TET cecccsecectecececcccecess 
+CSS creesbecccessccccccececces 
+STATUTORY PROVISIONS INVOLVED ...... 
+STATEMENT OF THE CASE................. 
+
+
+1. 
+Il. 
+Ill. 
+IV. 
+
+
+A. 
+
+
+The Judgment Of Conviction And Direct 
+DSSS SROcedecsscccccccceseccecccces 
+
+
+Mr. Slack’s — Person Federal Habeas 
+Corpus Proceeding Is Dismissed Without 
+Prejudice Less Than Three Months After It 
+CURSES SRG SGGS6C0e66ceccceccccece: 
+
+
+Mr. Slack Returns To State Court To 
+ee 
+
+
+Mr. Slack Returns To Federal Court With 
+An Exhausted Petition................... 
+The District Court Dismisses Claims Raised 
+By Mr. Slack’s Federal Habeas Counsel As 
+“Abusive” Under Rule 9(b), Even Though Mr. 
+Slack Has Never Received A Federal Adjudi- 
+cation Of Any Claim ..................... 
+
+
+A. Formal Judicial, Statutory And Rules- 
+
+
+Based Doctrines Of Habeas Corpus Law 
+All Make Clear That A Habeas Corpus 
+Petition Cannot Be “Second Or Succes- 
+sive” In The Absence Of A Prior Merits 
+Db ssecceccecoscccecccescecces 
+
+
+3 
+
+
+6 
+8 
+12 
+
+
+iv 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+1. This Court’s Exhaustion Precedents 
+Make Clear That A Habeas Applica- 
+tion Filed After An Unconditional 
+Federal Court Order Dismissing An 
+Earlier Petition “Without Prejudice” 
+For Lack Of Complete Exhaustion 
+Cannot Be “Second Or Successive.” .. 
+
+
+2. This Court’s Entire Body Of Exhaus- 
+tion Law, As Well As Current Statutes 
+Dealing With Exhaustion, Make Clear 
+That The Doctrine Is Solely About 
+Abstaining From Interference With 
+State Court Proceedings, And Is Not 
+In Any Way A Rule Of Preclusion... 
+
+
+3. Dismissal Without Prejudice Is Not A 
+Judgment On The Merits And Therefore 
+Cannot Be Given Preclusive Effect... .. 
+
+
+4. The Ninth Circuit's Rule Cannot Be 
+Squared With The Applicable Exhaus- 
+tion Principles. .............+..eee0s 
+
+
+B. This Court’s Abuse Of The Writ Prece- 
+
+
+dents — Which Describe That Doctrine As 
+A “Modified Res Judicata Rule” - Make 
+Clear That No Petition Can Be “Second Or 
+Successive” In The Absence Of A Prior 
+Merits Adjudication ...............+++++: 
+
+
+1. The Court Applies Res Judicata Princi- 
+ples In The Habeas Context Through 
+The Abuse Of The Writ Doctrine By 
+Attaching “Vital Relevance” To A Prior 
+Adjudication. ...........-.60eeeeeees 
+
+
+2. Res Judicata And Its Habeas Corpus 
+Analogue, Abuse Of The Writ, Cannot 
+App‘v In The Absence Of A Prior 
+Merits Adjudication.................- 
+
+
+13 
+
+
+15 
+
+
+19 
+
+
+21 
+
+
+23 
+
+
+23 
+
+
+v 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+3. Martinez-Villare>l Reaffirms That The 
+Abuse Of The Writ Doctrine Is Simply 
+The Habeas Corpus Version Of Res 
+Judicata 
+
+
+C. The Lower Courts’ Consistent Construc- 
+
+
+tion Of The Term “Second Or Successive” 
+Demonstrates That A “Second Or Succes- 
+sive” Application Is One Filed After A 
+Previous Merits Adjudication 
+
+
+1. Pre-AEDPA Cases 
+
+
+2. Post-AEDPA Cases .................. 
+The Farmer Decision And The Consequent 
+Ruling Below Ignore This Court’s Exhaus- 
+tion And Abuse Of The Writ Teachings, 
+And The Eccentric Definition Of “Second 
+Or Successive” Applications They Apply 
+a Absurd And Unconstitutional 
+
+SEED ce soovecocencensenecenceceseeesss 
+
+
+1. The Ninth Circuit Applied Faulty And 
+Incomplete Reasoning In Farmer ..... 
+
+
+2. The Ninth Circuit’s Rule Will Inevita- 
+bly Generate Absurd And Unconstitu- 
+tional Results, Such As The One In 
+We Sebdiacndedenencadadiukedeedt 
+
+
+E. Current Rules, Statutes And Judicial Doc- 
+
+
+trines Provide The District Courts With 
+Ample Authority To Tailor The Proceed- 
+ings To Prevent Misuse Of The Exhaustion 
+
+
+27 
+
+
+32 
+
+
+37 
+
+
+37 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Anthony v. Cambra, 21 F.Supp. 2d 1094 (N. D. Cal. 
+
+BT cc cccccccccccccvccccccccsecesccessoncesescoss 45 
+Antone v. Dugger, 465 U.S. 200 (1984) (per curiam) .... 24 
+Aspden v. Nixon, 45 U.S. (4 How.) 467 (1846)....... 26 
+Ashker v. Leapley, 5 F.3d 1178 (8th Cir. 1993)....... 19 
+Bailey v. Crowley, 914 F.2d 1438 (9th Cir. 1990) 
+
+(per curiam). ............0eee eee ee cree cece ee eeeees 47 
+Baker v. Grice, 169 U.S. 284 (1898)..........--0-00 16 
+Baltimore $.S. Co. v. Phillips, 274 U.S. 316 (1927) .... 25 
+Banks v. Horn, 126 F.3d 206 (3d Cir. 1997).......... 18 
+Benton v. Washington, 106 F.3d 162 (7th Cir. 1996) .... 36 
+Bonin v. Vasquez, 999 F.2d 425 (9th Cir. 1993)....... 45 
+Bowden v. United States, 106 F.3d 433 (D.C.Cir. 
+
+Ss cc ccccccsccncescccscescesesccosssescsesccess 20 
+Braden v. 30th Judicial Circuit Court of Kentucky, 
+
+410 U.S. 484 (1973) ..... 2... cece cece cece eee ee eees 17 
+Bradley v. United States, 410 U.S. 605 (1973)........ 33 
+Brooks v. Jones, 875 F.2d 30 (2d Cir. 1989).......... 43 
+Burkett v. Cunningham, 826 F.2d 1208 (3d Cir. 
+
+Bin cc ccccccncscesnscesccccscneveseeseseucescoes 44 
+Calderon v. Thompson, 523 U.S. 538, 118 S.Ct. 
+
+BERD CIDTED . occ ccccccccccccccccccccccccsccccecs 25, 26 
+Calderon v. United States District Court (Thomas), 
+
+144 F.3d 618 (9th Cir. 1998)....... 0.6.6 e eee eee eee 48 
+
+
+| 
+
+
+Vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+Camarano v. Irvin, 98 F.3d 44 (2d Cir. 1996) (per 
+PEE dpbneadeeekcannaeeedssnecedeennecsseees 33, 35 
+ee ae 
+Carlson v. Pitcher, 137 F.3d 416 (6th Cir. 1998)...... 36 
+Castille v. Peoples, 489 U.S. 346 (1989)........... 19, 48 
+Christy v. Horn, 115 F.3d 201 (3d Cir. 1997)......... 35 
+Coe v. Thurman, 922 F.2d 528 (9th Cir. 1991)........ 44 
+Coleman v. Thompson, 501 U.S. 722 (1991)....... 19, 49 
+
+Cooter & Gell v. Hartmax Corp., 496 U.S. 384 
+DA sindedneenndedudéeenadededecdososebeencencs 20 
+Cromwell v. County of Sac., 94 U.S. 351 (1876)...... 25 
+Darr v. Burford, 339 U.S. 200 (1950)................. 17 
+
+
+Dellenbach v. Hanks, 76 F.3d 820 (7th Cir. 1996) .... 32 
+Duchess of Kingston’s Case, Ambler 756, 27 Eng. 
+
+
+IRR EE re eee: Reger 26 
+Dickinson v. Maine, 101 F.3d 791 (1st Cir. 1996) 
+
+i Glide iain did dn cin ondddcudedcodio’ 35 
+Duckworth v. Serrano, 454 U.S. 1 (1981) (per cur- 
+
+De Shae dedndeesdbtdddteendeedsaéneadeubdsasenees 17 
+Earl of Peterborough’s Case, 1 Bro. P.C. 281, 2 Eng. 
+
+es BR ined dec iebcdesdandusaeoses 26 
+Edmond v. United States, 520 U.S. 651 (1997)....... 42 
+Elcock v. Henderson, 902 F.2d 219 (2d Cir. 1990) 
+
+SP Gs cccccccccccccesccccccccescovcvesscces 44 
+
+
+Evitts v. Lucey, 469 U.S. 387 (1985) ................. 44 
+
+
+viii 
+TABLE OF AUTHORITIES - Continued 
+
+Page 
+Ex Parte Cuddy, 40 F. 62 (C.C.S.D. Cal. 1889) ....23, 24 
+Ex Parte Hawk, 321 U.S. 114 (1944) (per curiam) ...16, 17 
+Ex Parte Royall, 117 U.S..241 (1886).......... 15, 16, 28 
+Farmer v. McDaniel, 98 F.3d 1548 (9th Cir. 1996)... .passim 
+Federated Department Stores, Inc. v. Moitie, 452 
+
+
+U.S. B04 (1981)... nce ccccccvccccccccccccccccvvvens 30 
+Felker v. Turpin, 518 U.S. 651 
+BFEED o cccccccccccccsscccsvcecce 10, 25, 26, 29, 33, 42 
+
+
+Ford v. Wainwright, 477 U.S. 399 (1986).. 21, 27, 28, 29 
+Glauner v. State, 107 Nev. 482, 813 P.2d 1001 (1991) 
+
+
+(per curiam). ..........6cc cece eee eee e eee eeeees 18, 48 
+Granberry v. Greer, 481 U.S. 129 (1987) ...... 18, 19, 47 
+Gustafson v. Alloyd Co., Inc., 513 U.S. 561 (1995) .... 40 
+Heath v. Cleary, 708 F.2d 1376 (9th Cir. 1983)....... 20 
+Henry v. United States, 251 U.S. 393 (1920) ......... 33 
+Hill v. Lockhart, 894 F.2d 1009 (8th Cir. 1990) (en 
+
+BORER, . cccccccccccecccccccecceoscceccoecsocoosenes 32 
+Hill v. Reynolds, 942 F.2d 1494 (10th Cir. 1991)...... 44 
+Hohn v. United States, 524 U.S. 236, 118 S.Ct. 1969 
+
+PPerrrerrrrrrrrrrrrrrrrrrrtritttt i try 1 
+Hull v. Freeman, 991 F.2d 86 (3d Cir. 1993) ........ 19 
+Humphreys v. United States, 272 F.2d 411 (9th Cir. 
+
+Pc cv ccccccesccsccccsccccccecessenesesoocsssess 21 
+
+
+In re Gasery, 116 F.3d 1051 (Sth Cir. 1997) (per 
+GUIETED occ cccccccccccccssccesccesesecosooseses 31, 35 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+In re Turner, 101 F.3d 1323 (9th Cir. 1997)........... 35 
+In re Wilson, 142 F.3d 939 (6th Cir. 1998) ........... 36 
+Irvin v. Dowd, 359 U.S. 394 (1959).................., 17 
+
+
+Johnson v. Lewis, 929 F.2d 460 (9th Cir. 1991). ...19, 21 
+Jones v. Estelle, 722 F.2d 159 (5th Cir. 1983) (en 
+
+
+bbb KbddnEEN US domnedebeeKedddedkdececececccose 32 
+Keeney v. Tamayo-Reyes, 504 U.S. 1 (1992).......... 41 
+Kremer v. Chemical Construction Corp., 456 U.S. 
+
+ee 6 eb66eencaskdeenéunsanes 7 rensdeeeseesee 25 
+Lonchar v. Thomas, 517 U.S. 314 (1996)......... passim 
+Lindh v. Murphy, 521 U.S. 320 (1997)............... 12 
+Lowe v. Pogue, ___ U.S. ___ 119 S.Ct. 1238 (1999) 
+
+Bee GE 8 co cesccececssctecenessceneseoecseces 40 
+Mann v. Haigh, 120 F.3d 34 (4th Cir. 1997).......... 20 
+Martinez-Villareal v. Lewis, 80 F.3d 1301 (9th Cir. 
+
+PU bedsaushdedadebeddusdecensansseanecucseieas 27 
+Martinez-Villareal v. Stewart, 118 F.3d 628 (9th 
+
+Cie. 1906) (per curlama) ....cicccccccccccccccces 28, 35 
+The Mary, 13 U.S. (9 Cranch) 126 (1815) ............ 26 
+McCleskey v. Zant, 499 U.S. 467 (1991).......... passim 
+McDermott International, Inc. v. Wilander, 498 
+
+ee Gnd ddecbcencdauddnckeudeuiadededence 33 
+
+
+McKenna v. McDaniel, 65 F.3d 1483 (9th Cir. 1995) .... 48 
+
+
+McWilliams v. State of Colorado, 121 F.3d 573 
+Se ieee held dee edd kes eaedoude 36 
+
+
+x 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+Medina v. California, 505 U.S. 437 (1992)............ 26 
+Mobley v. McCormick, 160 F.R.D. 599 (D. Colo. 
+
+PPP rrrrrrrrrrrrrrrrrr rrr Tritt i tir tr 47 
+
+
+Moran v. McDaniel, 80 F.3d 1261 (9th Cir. 1996)..... 48 
+Norfolk & Western R. Co. v. Train Dispatchers, 499 
+
+
+UG. 197 CRODED .. cn cccccccccccccccscvccscessecccces 40 
+O’Guinn v. Dutton, 88 F.3d 1409 (6th Cir. 1996) (en 
+
+DOMED. occ cccccccccededccnccesocessontucsessesecees 21 
+Pertgen v. State, 110 Nev. 554, 875 P.2d 361 (1994) 
+
+(per curiam). ........... cece e eee eee eee eens 18, 48 
+Picard v. O’Connor, 404 U.S. 270 (1971) ............. 18 
+Pickett v. Loggon, 14 Vesey 215, 33 Eng. Rep. 503 
+
+Ce. BGP). cc cccccccccccscsvcscsccccccesescecsens 26 
+Postal Telegraph Cable Co. v. Newport, 247 U.S. 
+
+GOD CII occ cvcdecccccssenescovecececsscccesess 9, 26 
+Price v. Johnston, 334 U.S. 266 (1948) ............55: 24 
+
+
+Public Service Commission of Missouri v. 
+Brashear Freight Lines, Inc., 312 U.S. 621 (1941) .... 20 
+
+
+Richards v. Jefferson County, 517 U.S. 793 (1996) ..9, 22 
+
+
+Riggins v. United States, 199 U.S. 547 (1905) ........ 16 
+Robinson v. Willow Glen Academy, 895 F.2d 1168 
+
+, L* @ . SPPPPPTTTTTTTTTrrrTrrirertii itty 45 
+Rodriguez v. United States, 480 U.S. 522 (1987) 
+
+(per curiam). .......... 6 see ee cece eee eee eee eeeees 38 
+Rose v. Lundy, 455 U.S. 509 (1982).............: passim 
+
+
+Salinger v. Loisel, 265 U.S. 224 (1924).........--. 23, 24 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Sanders v. United States, 373 U.S. 1 (1963)....... 24, 40 
+Sandstrom v. Montana, 442 U.S. 510 (1979) .......... 6 
+Satsky v. Paramount Communications, Inc., 7 F.3d 
+ee eS on acandetdeckscescesssascecs 20 
+Schlup v. Delo, 513 U.S. 298 (1995) .......... 25, 26, 29 
+Shepeck v. United States, 150 F.3d 800 (7th Cir. 
+ee ie i aise keke iuacncke 31 
+Sloan v. Delo, 54 F.3d 1371 (8th Cir. 1995) .......... 18 
+Stern v. Inter-Mountain Tel. Co., 226 F.2d 409 (6th 
+et YC i icc ccniddudunedieutcee< 47 
+Stewart v. Martinez-Villareal, 523 U.S. 637, 118 
+Be SE SR hGhacncenbenbdccéccesecescesce passim 
+United States ex rel. Kennedy v. Tyler, 269 U.S. 13 
+A Uhbn6s80606664scewhendbddsKedancadeseceess 16 
+United States Nat. Bank of Oregon v. Independent 
+Ins. Agents, 508 U.S. 439 (1993).............00000.. 39 
+United States v. Seckinger, 397 U.S. 203 (1970) ...... 20 
+Vasquez v. Hillery, 474 U.S. 254 (1986).............. 17 
+Whitten v. Tomlinson, 160 U.S. 231 (1895)........... 16 
+
+
+Wong Doo v. United States, 265 U.S. 239 (1924)..... 24 
+Woodard v. Hutchins, 464 U.S. 377 (1984) (per 
+
+
+ ttbtGNs heehee eibeetted utes cub ce eee buns 24 
+Woods v. Kemna, 13 F.3d 1244 (8th Cir. 1994)....... 19 
+Woods v. Whitley, 933 F.2d 321 (5th Cir. 1991) ...... 32 
+Yates v. Aiken, 484 U.S. 211 (1988). .................. 6 
+
+
+xii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+STATUTES AND Court RULES 
+
+2B US.C. § 125E{1) ... 2. nc ccccccccvccccvcccccccccens 1 
+WB UBL. © TBE. 2... ccvcccccccvcccsccccvcscccccvcens 45 
+2B USC. § WAMa) .. 2... cccccvcccccccvecccveseess 42, 43 
+2B USC. © ZBOEB) .... oc ccccccccsccccccvcccccecs passim 
+28 U.S.C. § Z24A(G1). ... cc ecccccccccccceces néeene 48 
+28 U.S.C. § 2244(d)(2).... 2... eee cece cece eeecees passim 
+BD UBL. O TG. oc vccvcccccccccscsevccvce 1, 17, 23, 39 
+2B US.C. § Z2SABMA).... wccccccccccccccccccccess 18, 47 
+2B USC. § ZAGHOMA).....-.cccccccccccvccsccccseeees 43 
+28 U.S.C. § 2266(BK3MB).... 2... ccccccccccecess 43, 45 
+et, B, Ge Gh TED cc ccesccscccccseccccccesececeses 45 
+Fed. R. Civ. P. 41(a)(2)........-00 0 eee eee eee 20, 21, 47 
+. & Se | F Pret ee 20 
+et, &., Goer BR GD cccccscccccccccccscsesscsccesens 45 
+Nev. Rev. Stat. § 200.020(2) .......... cee cece eee eens 6 
+Nev. Rev. Stat. § 34.750... cc ccccccccccccccccccces 41 
+Nev. Rev. Stat. © 34.7BD.......ccccccccccccccccccccees 41 
+Rules Governing Section 2254 Cases, Rule 9(a)...... 48 
+
+
+Rules Governing Section 2254 Cases, Rule 9(b) .. passim 
+
+
+xiii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+OTHER 
+2 James S. Liebman & Randy Hertz, Federal 
+Habeas Corpus Practice and Procedure § 28.3(b) 
+Me SN cadknn b66b.6Gdasodsnweetabekaccae cde: 31 
+Advisory Committee Notes 28 U.S.C. foll. § 2254.... 39 
+American Law Institute Restatement of the Law 
+(Second) Judgments (1980)...................000-. 26 
+S. Rep. No. 1797, U.S. Code Cong. & Admin. 
+PE Sddbcdieaanhincebanwaddiceb akan cces as 24 
+
+
+a 
+
+
+l 
+I. 
+OPINIONS BELOW 
+
+
+The order of the United States Court of Appeals for the 
+Ninth Circuit denying Mr. Slack’s request for a certificate of 
+probable cause to appeal is unpublished and is reproduced in 
+the Joint Appendix (JA) at 197. The memorandum decision 
+and order of the United States District Court is unpublished. 
+JA 152. 
+
+
+Il. 
+JURISDICTION 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+III. 
+STATUTORY PROVISIONS INVOLVED 
+
+
+This case involves Rule 9(b) of the Rules Governing 
+§ 2254 Cases, and the provisions of former 28 U.S.C. 
+§ 2244(b), which was the statutory predicate for Rule 9(b). 
+Because the question posed by the Court appears to pertain to 
+“second or successive” applications in general, this case also 
+involves the current provisions of 28 U.S.C. § 2244(b) 
+enacted by the Anti-Terrorism and Effective Death Penalty 
+Act of 1996 (AEDPA). These provisions are reproduced in an 
+Appendix to this brief. 
+
+
+2 
+IV. 
+STATEMENT OF THE CASE 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+If a person's petition for habeas corpus under 28 
+U.S.C. § 2254 is dismissed for failure to exhaust 
+state remedies and he subsequently exhausts his 
+state remedies and refiles the § 2254 petition, are 
+claims included within that petition that were not 
+included within his initial § 2254 filing ‘second or 
+successive’ habeas applications? 
+
+
+The following facts and prior proceedings pertain to the 
+question before the Court. 
+
+
+A. The Judgment Of Conviction And Direct Appeal. 
+
+
+In 1989, the State of Nevada charged 19-year-old peti- 
+tioner Antonio Tonton Slack with first degree murder in 
+connection with the death of Alanna Holmes, who died from a 
+single close-range shot in the neck. The shooting took place at 
+the apartment of Kamal Bey who owned the gun that fired the 
+fatal shot. CR 16 (Exhibits in Support of Motion to Dismiss 
+Petition for Writ of Habeas Corpus), Ex. 9 at 122, 133-134. 
+Mr. Slack turned himself in to police soon after the shooting 
+because he was “having nightmares about seeing her when we 
+was playing with the gun and she died.” /d. at 228. At trial, 
+Mr. Slack testified in his own defense and admitted to having 
+shot Ms. Holmes, but asserted that the killing was accidental. 
+Id. at 221-223. Mr. Bey was the State’s star witness, testifying 
+that he did not believe Mr. Slack’s contention that the shoot- 
+ing was accidental, because, although Mr. Slack exclaimed 
+immediately after the shooting “Cuzz, cuzz, I shot her, I shot 
+her. I ain’t mean to shoot her,” he looked strange, like he was 
+about to “crack a smile.” /d. at 138. On May 16, 1990, a jury 
+acquitted Mr. Slack of first degree murder, but convicted him 
+of second degree murder. The state trial court sentenced Mr. 
+Slack to life in the Nevada State Prison for the second degree 
+
+
+3 
+
+
+murder, and imposed a consecutive life sentence because Mr. 
+Slack had used a deadly weapon in connection with the 
+killing. JA 3; see JA 36. 
+
+Mr. Slack pursued a timely direct appeal to the Nevada 
+Supreme Court. On November 5, 1991, the Nevada Supreme 
+Court dismissed Mr. Slack’s appeal. JA 3. 
+
+
+B. Mr. Slack’s Proper Person Federal Habeas Corpus 
+Proceeding Is Dismissed Without Prejudice Less Than 
+Three Months After It Is Filed. 
+
+
+Following the affirmance of his conviction on direct 
+appeal, Mr. Slack filed a proper person petition for writ of 
+habeas corpus in the United States District Court for the 
+District of Nevada on November 27, 1991 (the 1991 filing). 
+The 1991 filing raised the same issues Mr. Slack originally 
+raised in his brief to the Nevada Supreme Court. JA 6. After 
+the State of Nevada obtained an extension of time to answer, 
+Mr. Slack moved to stay the proceedings “pursuant to Rose v. 
+Lundy, 455 U.S. 509 (1982),” so that he could pursue post- 
+conviction relief proceedings in the Nevada state courts. Mr. 
+Slack included in his motion a list of unexhausted issues that 
+were not contained in his initial filing, which he proposed to 
+exhaust during state court habeas corpus litigation. JA 17-18. 
+On February 19, 1992, noting that there was “no objection by 
+either party,” JA 21, the district court dismissed the 1991 
+filing “without prejud'ce” and granted Mr. Slack leave “to file 
+an application to renew upon exhaustion of all State 
+remedies.” JA 22. 
+
+
+C. Mr. Slack Returns To State Court To Exhaust His 
+Claims. 
+
+
+On July 10, 1992, Mr. Slack, again acting in proper 
+person, filed a post-conviction petition for writ of habeas 
+corpus in the Nevada state trial court. Among other things, 
+Mr. Slack alleged that he had been denied his Sixth and 
+Fourteenth Amendment rights to the effective assistance of 
+trial and appellate counsel, and made allegations of facts 
+
+
+4 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+D. Mr. Slack Returns To Federal Court With An 
+Exhausted Petition. 
+
+
+On March 27, 1995, Mr. Slack returned in proper person 
+to the federal district court and filed an amended petition for 
+writ of habeas corpus, which contained the claims Mr. Slack 
+had just presented in the Nevada courts, as well as the issues 
+he had raised in the 1991 filing. JA 35. Mr. Slack further 
+notified the federal court of the 1991 filing, reminding the 
+court that that filing had been “dismissed without prejudice.” 
+JA 45. On June 1, 1995, Mr. Slack filed a motion for the 
+appointment of counsel alleging that he was “incompetent 
+with the knowledge of litigating the law.” JA 48. The State of 
+Nevada opposed the motion, urging the court not to “waste 
+
+
+' These included an allegation that trial counsel failed to properly 
+investigate a number of matters concerning the State’s star witness, Kamal 
+Bey, a juvenile who had orginally been charged as an adult in connection 
+with Ms. Holmes’ killing because his fingerprints were found on the 
+murder weapon, but who was given a six-month sentence in a prosecution 
+in juvenile court. Mr. Slack alleged that tnal counsel had been ineffective 
+for failing to sufficiently investigate Mr. Bey’s agreement with law 
+enforcement authorities, especially by failing to request a copy of the 
+agreement itself, which apparently required specific tesumony from Mr. 
+Bey before it would be enforced. JA 38 Mr Slack also alleged that his trial 
+counsel had failed to take sufficient steps to interview other witnesses who 
+had testimony that could have refuted Mr Bey’s testimony, and failed to 
+file pre-trial motions to exclude Mr. Bey's accomplice testimony. /d. 
+
+
+5 
+
+
+scarce judicial resources.” JA 53. The State argued, “Slack 
+acknowledges that he is receiving the benefit of services of 
+the inmate law clerks. He is entitled to nothing more.” JA 54. 
+On February 29, 1996, the district court denied Mr. Slack’s 
+motion for the appointment of counsel. After the State filed 
+additional procedural motions seeking a more definite state- 
+ment and seeking to dismiss for lack of factual exhaustion, 
+Mr. Slack renewed his request for the appointment of counsel. 
+JA 56. The State again opposed the motion. JA 61. 
+
+
+On February 13, 1997, the district court finally con- 
+cluded that it was “in the best interest of justice” to appoint 
+counsel. JA 64. The district court appointed the Federal Pub- 
+lic Defender to represent Mr. Slack, and directed counsel to 
+“discuss and explore with petitioner, as fully as possible, the 
+potential grounds for habeas corpus relief in Petitioner's 
+case . . . advise petitioner that all possible grounds for habeas 
+corpus should be raised at this time, and that failure to do so 
+may result in loss of the omitted grounds under the rules 
+regarding abuse of the writ;” and allowed counsel time to 
+review the file and amend the petition. JA 64-65. On Decem- 
+ber 24, 1997, counsel filed an amended petition for writ of 
+habeas corpus. JA 66.2 Counsel acknowledged that claims 2 
+
+
+2 The petition alleges seven federal constitutional grounds for relief: 
+
+(1) Insufficient evidence to support the conviction; 
+
+(2) Insufficient notice provided by the charging document; 
+
+(3) Improper introduction of evidence of Mr. Slack’s sexual 
+relationship with the victim; 
+
+(4) Failure of the trial court to properly instruct the jury on 
+(a) reasonable doubt, (b) premeditation and deliberation, 
+and (c) malice aforethought; 
+
+(5) Ineffective assistance of trial counsel through (a) failure 
+to take steps to prevent the introduction of sexual 
+misconduct evidence, (b) failure to object to improper 
+jury instructions, and (c) failure to develop the facts of the 
+case and present available defenses; 
+
+
+6 
+
+
+and 4(c) in the amended petition had not yet been presented to 
+the state courts. JA 72, 78. 
+
+
+E. The District Court Dismisses Claims Raised By Mr. 
+Slack’s Federal Habeas Counsel As “Abusive” Under 
+Rule 9(b), Even Though Mr. Slack Has Never 
+Received A Federal Adjudication Of Any Claim. 
+
+
+On December 28, 1997, the State moved to dismiss based 
+on the lack of complete exhaustion. See Rose v. Lundy, 455 
+U.S. 509, 510 (1982). JA 92. The State also argued that all of 
+the claims which had not been raised in the unadjudicated 
+1991 filing were subject to dismissal with prejudice for abuse 
+of the writ. According to the State, by noting the existence of 
+Mr. Slack’s 1991 filing, and by pleading abuse of the writ, it 
+had shifted the burden to Mr. Slack to demonstrate “cause and 
+prejudice” under McCleskey v. Zant, 499 U.S. 467 (1991) and 
+that, absent such a showing, the district court was compelled 
+to dismiss claims 2, 4(c), 5, 6 and 7 as abusive, under the 
+standards applicable to “second or successive” petitions. See 
+Farmer v. McDaniel, 98 F.3d 1548 (9th Cir. 1996), cert. 
+denied, 520 U.S. 488 (1997); Rules Governing Section 2254 
+Cases, Rule 9(b). JA 103-110. 
+
+
+(6) Ineffective assistance of appellate counsel; and 
+
+(7) Cumulative error. 
+
+These claims raise significant federal constitutional defects in the state 
+proceedings. For instance, pursuant to statute, Nev. Rev. Stat. § 200.020(2), 
+Mr. Slack’s jury was instructed that “Malice shall be implied when no 
+considerable provocation appears, or when all the circumstances of the 
+killing show an abandoned and malignant heart.” (Emphasis supplied.) 
+This instruction had the effect — especially in light of the fact that Mr. Slack 
+claimed that the killing was accidental — of forcing the jury to presume 
+malice unless Mr. Slack could demonstrate either that the decedent 
+provoked him or that he did not possess an “abandoned and malignant 
+heart.” Such a mandatory presumption arguably violates Sandstrom v. 
+Montana, 442 U.S. 510 (1979) and Yates v. Aiken, 484 U.S. 211 (1988). 
+
+
+7 
+
+
+In response, Mr. Slack argued that the substance of most 
+of the claims in the petition had already been fairly presented 
+to the state courts and thus met the exhaustion requirement. 
+JA 132-134. Mr. Slack further asserted that, even if any of his 
+claims were deemed unexhausted, those claims could not be 
+barred as abusive because (1) he had not completed a “first 
+round” of federal habeas because he had never received a 
+prior adjudication of any of his claims; and (2) any unex- 
+hausted claims could not be deemed “abusive” under Rule 
+9(b) or under Farmer because they had not been deliberately 
+withheld. JA 134-138. 
+
+
+On March 13, 1998, the district court entered an order 
+concluding that because Mr. Slack had not raised Claims 2, 
+4(c), 5, 6 and 7 in his previous unadjudicated petition, those 
+claims were presumptively abusive under Rule 9(b) and 
+McCleskey. The district court accordingly directed Mr. Slack 
+“to file points and authorities addressing whether he can 
+overcome the abuse of the writ bar that is applicable to 
+grounds 2, 4(c), 5, 6 & 7 of the instant amended habeas 
+petition.” JA 143. The court’s order held that the only way 
+Mr. Slack could overcome a finding of abuse was to demon- 
+strate “cause and prejudice” or a “fundamental miscarriage of 
+justice” — the standard McCleskey applies to “second or suc- 
+cessive” petitions. JA 142-143. 
+
+
+On March 26, 1998, Mr. Slack filed a motion for recon- 
+sideration of the district court’s order. JA 145. Mr. Slack 
+argued that, because no prior adjudication had occurred, the 
+amended petition could not constitute a “second or succes- 
+sive” one within the meaning of Rule 9(b). Mr. Slack accord- 
+ingly argued that the court could not find the claims abusive 
+under Rule 9(b) or under any other doctrine. JA 146-147, 
+149-150. 
+
+
+On March 31, 1998, the district court entered an order 
+dismissing Mr. Slack’s petition. The court dismissed grounds 
+2, 4(c), 5, 6 and 7 with prejudice on the ground that they were 
+“abusive” under Rule 9(b), citing Farmer v. McDaniel, 98 
+F.3d 1548 (9th Cir. 1996) and McCleskey v. Zant, 499 U.S. 
+
+
+_ 
+
+
+467 (1991), because they had not been raised in the initial 
+unadjudicated petition. JA 155-156. The district court further 
+concluded that Claim 3 was unexhausted because, although 
+Mr. Slack had presented the facts supporting the claim to the 
+state courts during the direct appeal, he “had not argued his 
+Fifth or Fourteenth Amendment right to due process was 
+violated when prejudicial evidence was presented to the jury.” 
+JA 157-158. 
+
+On April 29, 1998, Mr. Slack filed a timely notice of 
+appeal. JA 161. On May 11, 1998, Mr. Slack filed an applica- 
+tion for a certificate of probable cause to appeal, arguing that 
+it was at least “debatable among jurists of reason” whether 
+the lower court erred regarding its dismissal of Claims 2, 
+4(c), 5, 6 and 7 as abusive. Specifically, Mr. Slack explained 
+that it is debatable (1) whether his amended petition constitu- 
+ted a “second or successive” one under Rule 9(b); (2) whether 
+the lower court properly applied the abuse of the writ stan- 
+dard under these facts, where there was no showing that he 
+had deliberately withheld any of the claims; and (3) whether 
+the lower court properly determined that claim 3 was unex- 
+hausted. JA 163. 
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+Vv. 
+SUMMARY OF THE ARGUMENT 
+
+
+For more than a century, this Court’s exhaustion and 
+abuse of the writ precedents have rested on the premise that a 
+“second or successive” habeas corpus application is one filed 
+after a previous federal application has been adjudicated on 
+the merits. Settled exhaustion doctrine, including the “com- 
+plete exhaustion” rule of Rose v. Lundy, 455 U.S. 509 (1982), 
+
+
+—_— 
+
+
+9 
+
+
+thus directly contemplates that a “without prejudice” dis- 
+missal for state court exhaustion proceedings will not have 
+preclusive effect on any later federal habeas proceedings. 
+Similarly, numerous abuse of the writ precedents explicitly 
+describe the doctrine as a form of “res judicata,” which by 
+definition attaches preclusive weight only to a prior merits 
+adjudication. 
+
+
+There are sound reasons why the Court has built its 
+habeas corpus jurisprudence on the premise that no applica- 
+tion for habeas corpus can be “second or successive” in the 
+absence of a prior federal adjudication: That bright-line rule 
+is the only one that makes any sense as a matter of comity, 
+consistency and fairness. Anglo-American law has a “deep- 
+rooted historic tradition that everyone should have his . . . day 
+in court.” Richards v. Jefferson County, 517 U.S. 793, 798 
+(1996) (citations and internal quotation marks omitted). The 
+doctrine of res judicata, which precludes a party from litigat- 
+ing claims that were, or could have been, adjudicated in a 
+previous proceeding, “rests at bottom upon the ground that 
+the party to be affected .. . , has litigated or had an oppor- 
+tunity to litigate the same matter in a former action in a court 
+of competent jurisdiction. The opportunity to be heard is an 
+essential requisite of due process of law in judicial proceed- 
+ings.” Postal Telegraph Cable Co. v. Newport, 247 U.S. 464, 
+476 (1918) (citations omitted). 
+
+
+Without acknowledging these clear, well-grounded prin- 
+ciples, the Ninth Circuit has substantially deprived prisoners 
+such as Antonio Slack of any “opportunity to be heard” in 
+federal habeas corpus proceedings, by adopting an ad hoc 
+definition of the term “second or successive” that attaches 
+preclusive, res judicata effect to a prior “without prejudice” 
+dismissal for lack of complete exhaustion. The unfairness 
+inherent in such a rule is demonstrated by this case, in which 
+the district court applied the Ninth Circuit’s punitive rule to 
+bar Mr. Slack from pursuing his claims simply for trying to do 
+what this Court contemplated under the complete exhaustion 
+rule of Rose v. Lundy. After he filed his initial propria persona 
+
+
+10 
+
+
+federal petition, Mr. Slack realized that he had unexhausted 
+constitutional claims in addition to those presented in the 
+petition, and promptly asked the court to stay proceedings 
+while he exhausted those claims. The parties, including the 
+state, then agreed to dismissal of the petition without preju- 
+dice, and Mr. Slack, again in propria persona, promptly 
+sought to litigate those claims in the state court. When he 
+returned to federal court, however, the lower courts barred 
+merits review of virtually all of Mr. Slack’s claims by giving 
+preclusive effect to the “without prejudice” dismissal. The 
+effect of the Ninth Circuit’s rule is that Mr. Slack’s claims are 
+precluded as a result of the 1991 habeas proceeding, in which 
+he had no “opportunity to be heard” with respect to his 
+unexhausted claims, and no “opportunity to litigate” those 
+claims because of the complete exhaustion rule of Rose v. 
+Lundy. 
+
+
+Such a rule runs directly counter to the promise of Rose 
+v. Lundy that a dismissal for exhaustion is without prejudice 
+to further proceedings; it wholly contradicts the principled 
+evolution of the abuse of the writ doctrine as an aspect of res 
+judicata, see McCleskey v. Zant, 499 U.S. 466, 489-90 (1991), 
+Felker v. Turpin, 518 U.S. 651, 664 (1996); Lonchar v. 
+Thomas, 517 U.S. 314, 323-324 (1996); and the Court must 
+disavow it, just as every other lower court to consider the 
+issue has done. Indeed. just last term, in Stewart v. Martinez- 
+Villareal, 523 U.S. 637, 118 S.Ct. 1618, 1621 (1998), this 
+Court said it would be “seemingly perverse” to apply a 
+construction of “second or successive” application that would 
+attach preclusive effect to a dismissal without prejudice for 
+exhaustion. And yet, the Ninth Circuit has applied this “seem- 
+ingly perverse” rule here to bar any consideration of the 
+majority of Mr. Slack’s claims. 
+
+
+Only three years ago, in Lonchar v. Thomas, 517 U.S. 
+314 (1996), the Court directed lower courts not to dismiss 
+habeas corpus petitions in an “ad hoc” fashion, but to apply 
+restrictions recognized by “formal judicial, statutory, or rules- 
+based doctrines of law.” This Court emphasized that clear 
+
+
+rules are of extreme importance in the habeas context because 
+they “reduce uncertainty, avoid unfair surprise, minimize dis- 
+parate treatment of similar cases, and thereby help all liti- 
+gants.” /d. at 324. The need for bright-line rules is 
+“particularly strong when dismissal of a first habeas petition 
+is at issue. Dismissal of a first federal habeas petition is a 
+particularly serious matter, for that dismissal denies petitioner 
+the protections of the Great Writ entirely, risking injury to an 
+important interest in human liberty.” /d. at 324 (emphasis in 
+original). 
+
+
+The res judicata and exhaustion principles applied in 
+Martinez-Villareal and McCleskey supply the “bright line” 
+rule, limiting the application of the abuse doctrine to cases in 
+which there has been a previous merits adjudication, which 
+must govern the disposition of this case. Just as in Lonchar, 
+the Ninth Circuit’s attempt to deviate from “formal judicial, 
+statutory, or rules-based doctrines of law,” by treating a post- 
+exhaustion habeas application as a “second or successive” 
+one, is impermissible. Currently existing rules and statutes, 
+including established principles governing exhaustion of 
+remedies, see Rose v. Lundy, 455 U.S. 509, 520-22 (1982), 
+and the applicable Federal Rules of Civil Procedure, provide a 
+regular and predictable structure for conducting exhaustion 
+procedures which is inconsistent with the ad hoc preclusion 
+rule devised by the Ninth Circuit. The Ninth Circuit’s unprec- 
+edented treatment of a post-exhaustion petition as “second or 
+successive” habeas corpus application will, just as the Lonc- 
+har Court predicted, introduce substantial uncertainty and 
+unfairness into habeas corpus litigation. By forcing the dis- 
+trict courts to ignore constitutional claims that have been 
+litigated or discovered during state court exhaustion proceed- 
+ings, the Ninth Circuit’s preclusion rule also vitiates the very 
+comity concerns underlying the exhaustion doctrine. No legit- 
+imate purpose is served by such a rule. This Court should 
+vacate the ruling below, and affirm the straightforward rule 
+that the dismissal of a habeas application without prejudice 
+for exhaustion, without adjudication of any claim, does not 
+
+
+12 
+
+
+make a renewed petition a “second or successive” habeas 
+application. 
+
+
+VI. 
+ARGUMENT 
+
+
+A “SECOND OR SUCCESSIVE” HABEAS CORPUS 
+APPLICATION CANNOT EXIST IN THE ABSENCE OF 
+A PRIOR MERITS ADJUDICATION 
+
+
+A. Formal Judicial, Statutory And Rules-Based Doc- 
+trines Of Habeas Corpus Law All Make Clear That A 
+Habeas Corpus Petition Cannot Be “Second Or Suc- 
+cessive” In The Absence Of A Prior Merits Adjudica- 
+tion. 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+3 Mr. Slack’s petitions were filed before the enactment of AEDPA, 
+and his case is therefore governed by pre-AEDPA law. Lindh v. Murphy, 
+§21 U.S. 320, 336 (1997). As shown below, however, the definition of a 
+“second or successive” habeas corpus application is the same under both 
+AEDPA and pre-AEDPA law. See pp. 31-32, below. 
+
+
+13 
+
+
+successive” — and therefore “abusive” under Rule 9(b) — even 
+though no prior federal adjudication had ever occurred. The 
+analysis below demonstrates that, like the lower courts’ rul- 
+ings in Lonchar, the Ninth Circuit’s Farmer rule has no 
+historical, statutory or common law basis, and has no support 
+in legitimate policy considerations. The Ninth Circuit’s rule 
+should accordingly meet the same fate as did the ad hoc rule 
+in Lonchar. 
+
+
+1. This Court’s Exhaustion Precedents Make Clear 
+That A Habeas Application Filed After An Uncon- 
+ditional Federal Court Order Dismissing An Ear- 
+lier Petition “Without Prejudice” For Lack Of 
+Complete Exhaustion Cannot Be “Second Or Suc- 
+cessive.” 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+Those prisoners who misunderstand this require- 
+ment and submit mixed petitions nevertheless are 
+entitled to resubmit a petition with only exhausted 
+claims or to exhaust the remainder of their claims. 
+
+
+14 
+
+
+Id. at 520. Justice O’Connor’s plurality opinion warned, how- 
+ever, “a prisoner who decides to proceed only with his 
+exhausted claims and deliberately sets aside his unexhausted 
+claims risks dismissal of subsequent petitions.” /d. at 521. 
+
+
+Rose thus sets forth clear standards on how the exhaus- 
+tion doctrine affects the course of federal habeas corpus 
+litigation, and in particular how Rose affects the claim preclu- 
+sion rules under the abuse of the writ doctrine. Under Rose, a 
+federal habeas petitioner is presumptively entitled to only a 
+single adjudication of his claims by the federal courts and that 
+adjudication can occur only after the petitioner has fully 
+exhausted any available state remedies for all of the constitu- 
+tional claims on which he or she wants to proceed. Once a 
+federal adjudication occurs, the litigation is presumptively 
+over, and as Rose expressly makes clear, the federal adjudica- 
+tion creates the potential that later proceedings will constitute 
+an “abuse of the writ” under Rule 9(b). Before an adjudica- 
+tion occurs and while state remedies remain “available,” how- 
+ever, a litigant may (and generally must) return to state court 
+to exhaust state remedies; and the federal court must dismiss 
+the petition “without prejudice” so that the state courts remain 
+free to control the scope of the exhaustion litigation without 
+interference from the federal courts. In short, Rose holds that 
+the federal courts must either “back off” until the state pro- 
+ceedings are over or, if state remedies are not available or 
+effective, must adjudicate the federal petition under the same 
+standards that govern all first petitions — at which point any 
+federal collateral attack on the state court conviction will 
+generally end. 
+
+
+Nothing in Rose, however, remotely supports the idea 
+that the rules governing the exhaustion of state remedies — 
+which are designed solely to channel claims in the first 
+instance into the state courts and thereby to ensure that the 
+state courts have the first opportunity to consider them — into 
+a doctrine that precludes consideration of the claims of an 
+unwary but non-abusive litigant, such as Mr. Slack. A doc- 
+trine intended to encourage petitioners to conduct thorough 
+
+
+15 
+
+
+exhaustion proceedings simply cannot be advanced by pre- 
+cluding federal consideration of the claims which are 
+exhausted, and nothing in more than a century of exhaustion 
+precedent condones or supports such a result. Rather, the 
+Court’s precedents have consistently recognized that the 
+exhaustion rule is a doctrine which commands only deferring 
+adjudication until the entire state court process has been 
+completed, and is not a doctrine of preclusion. 
+
+
+2. This Court’s Entire Body Of Exhaustion Law, As 
+Well As Current Statutes Dealing With Exhaus- 
+tion, Make Clear That The Doctrine Is Solely 
+About Abstaining From Interference With State 
+Court Proceedings, And Is Not In Any Way A 
+Rule Of Preclusion. 
+
+
+More than 110 years ago, in Ex Parte Royall, 117 U.S. 
+241, 251-52 (1886), the Court affirmed lower court decisions 
+dismissing habeas corpus petitions, on the ground that state 
+court proceedings had not yet been completed. The Court 
+reasoned that exhaustion of remedies was necessary: 
+
+in the light of the relations existing, under our 
+
+system of government, between the judicial tribu- 
+
+nals of the Union and of the states, and in recogni- 
+
+tion of the fact that the public good requires that 
+
+those relations be not disturbed by unnecessary con- 
+
+flict between courts equally bound to guard and 
+
+protect rights secured by the constitution. . . . [The 
+
+instant federal petition does not] suggest any reason 
+
+why the state court of original jurisdiction may not, 
+
+without interference upon the courts of the United 
+
+States, pass upon the question which is raised as to 
+
+the constitutionality of the statutes under which the 
+
+appellant is indicted. 
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+16 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+in advance of any proceedings in the courts of the 
+
+state to test the validity of his arrest and detention. 
+
+To adopt a different rule would unduly interfere 
+
+with the exercise of the criminal jurisdiction of the 
+
+several states, and with the performance by this 
+
+Court of its appropriate duties. 
+
+Id. at 247. Accord, Riggins v. United States, 199 U.S. 547, 
+551 (1905) (dismissal without prejudice for exhaustion 
+required by “settled rule”); Baker v. Grice, 169 U.S. 284, 293 
+(1898). 
+
+This principle of deferring federal court adjudication had 
+become black-letter law by the time of United States ex rel. 
+Kennedy v. Tyler, 269 U.S. 13, 17-18 (1925), where the Court 
+held that “in the regular and ordinary course of procedure, the 
+power of the highest state court in respect of [constitutional] 
+questions should first be exhausted. When that has been done, 
+the authority of this court may be invoked to protect a party 
+against any adverse decision involving a denial of a federal 
+right properly asserted by him.” The Court relied not only on 
+Ex Parte Royall on this point, but on a line of eleven exhaus- 
+tion cases decided since 1886. Tyler, 269 U.S. at 18. 
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+17 
+
+
+exhausted the remedies available to him in the state courts, 
+and he is therefore not at this time entitled to relief.” /d. at 
+116. The Court then sketched out the state court remedies that 
+remained available to Mr. Hawk, and determined that “as 
+petitioner does not appear to have exhausted his state 
+remedies his application will be denied without prejudice. . . . 
+" Id. at 118. “In 1948, Congress codified the exhaustion 
+doctrine in 28 U.S.C. § 2254, citing Ex Parte Hawk as 
+correctly stating the principle of exhaustion.” Rose v. Lundy, 
+455 U.S. 509, 516 (1982) (plurality opinion); accord, Darr v. 
+Burford, 339 U.S. 200, 214 (1950); Irvin v. Dowd, 359 US. 
+394, 405 (1959). 
+
+In Braden v. 30th Judicial Circuit Court of Kentucky, 410 
+U.S. 484, 490 (1973), the Court again explained the policies 
+underlying the exhaustion doctrine: 
+
+As applied in our earlier decisions, the [exhaustion] 
+
+doctrine preserves the role of the state courts in the 
+
+application and enforcement of federal law. Early 
+federal intervention in the state criminal proceed- 
+ings would tend to remove federal questions from 
+
+the state courts, isolate those courts from constitu- 
+
+tional issues, and thereby remove their understand- 
+
+ing of and hospitality to federal protected interests. 
+
+Second, [the doctrine] preserves orderly administra- 
+
+tion of state judicial business, preventing the inter- 
+
+ruption of state adjudication by federal judicial 
+
+proceedings. 
+(Emphasis added.) 
+
+Like Rose, recent cases have reaffirmed the fundamental 
+principle that the federal courts should refrain from making 
+any adjudication on the merits until all the available state 
+court proceedings have run their course. Vasquez v. Hillery, 
+474 U.S. 254, 247 (1986) (“exhaustion doctrine seeks to 
+afford the state courts a meaningful opportunity to consider 
+allegations of legal error without interference from the federal 
+judiciary.”); Duckworth v. Serrano, 454 U.S. 1, 3 (1981) (per 
+curiam) (exhaustion doctrine “serves to minimize friction 
+between our state and federal systems of justice by allowing 
+the State an initial opportunity to pass upon and correct 
+
+
+alleged violations of prisoner's rights”); Picard v. O'Connor, 
+404 U.S. 270, 275 (1971) (exhaustion doctrine designed to 
+give “States an initial opportunity to pass upon and correct 
+alleged violations of its prisoners’ federal rights. [citations] 
+We have consistently adhered to this federal policy for it 
+would be unseemly for a federal district court to upset a state 
+court conviction without an opportunity to correct a constitu- 
+tional violation.”); see also Granberry v. Greer, 481 U.S. 129, 
+134 (1987) (where non-exhaustion not raised, comity and 
+federalism interests provide federal courts with discretion to 
+address claims forthwith or to require “series of additional 
+state and district court proceedings before reviewing the 
+merits of the petitioner's claims.”) 
+
+
+Just as Rose did, these authorities establish a clear duty 
+for the lower federal courts: Either let the state proceedings 
+run their course, or entirely adjudicate the federal application. 
+More specifically, the Court’s exhaustion teachings provide 
+federal courts with two options when faced with a habeas 
+corpus petition that does not consist solely of exhausted 
+claims: (1) Dismiss the petition without prejudice and require 
+additional state court proceedings before conducting a pre- 
+sumptively final adjudication; or (2) “Address the merits 
+forthwith” if special circumstances, such as “unavailable” or 
+“ineffective” state court remedies, or the circumstances 
+expressly set forth in § 2254(b)(2), will permit doing so.* 
+
+
+* For instance, dismissal is not required when an applicant's 
+unexhausted claims would be barred by an independent, clearly- 
+established, regularly-applied state procedural rule. Nevada has chosen not 
+to impose such absolute impediments to state collateral review as a matter 
+of state law. See, e.g., Glauner v. State, 107 Nev. 482, 813 P.2d 1001 (1991) 
+(per curiam) (no statute of limitations in collateral proceedings); Pertgen v. 
+State, 110 Nev. 554, 875 P.2d 361, 364 (1994) (per curiam) (Nevada courts 
+examine merits of constitutional claim to determine if procedural bar 
+applies). Imposition of an anticipatory state default bar by a federal court is 
+impermissible unless state courts would necessarily be required to apply a 
+default rule. See, ¢.g., Banks v. Horn, 126 F.3d 206, 212-13 (3d Cir. 1997); 
+Sloan v. Delo, 54 F.3d 1371, 1381 (8th Cir. 1995), cert. denied, 516 U.S. 
+
+
+19 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+3. Dismissal Without Prejudice Is Not A Judgment 
+On The Merits And Therefore Cannot Be Given 
+Preclusive Effect. 
+
+
+The complete exhaustion rule of Rose v. Lundy is 
+designed to avoid premature federal adjudication of constitu- 
+tional claims, by allowing the state court proceedings to 
+address the claims first. A necessary concomitant of such 
+abstention is that the federal court does not adjudicate any 
+claim by dismissing a premature federal petition: abstention is 
+a doctrine that postpones federal adjudication but does not 
+preclude it. E.g., Coleman v. Thompson, 501 U.S. 722, 731 
+(1991). This rule is consistent with the general law relating to 
+
+
+1056 (1996); Woods v. Kemna, 13 F.3d 1244, 1245-46 (8th Cir. 1994); 
+Ashker v. Leapley, 5 F.3d 1178, 1180 (8th Cir. 1993); Hull v. Freeman, 991 
+F.2d 86, 91 (3d Cir. 1993) (dismissing possibly defaulted claim on 
+nonexhaustion grounds in interest of “federal-state comity” so that state 
+courts can determine whether petitioner qualifies for exception to state 
+procedural rule); Johnson v. Lewis, 929 F.2d 460, 464 (9th Cir. 1991). 
+Federal courts that sit in states that have clear procedural prohibitions on 
+successive review, however, can apply those rules in the course of 
+adjudicating an otherwise unexhausted petition. Under Castille v. Peoples, 
+489 U.S. 346, 351-52 (1989), a federal court need not dismiss a mixed 
+petition where “it is clear that [the petitioner's otherwise unexhausted] 
+claims are now procedurally barred under [state] law.” This is because “a 
+habeas petitioner who has defaulted his federal claims in state court meets 
+the technical requirements for exhaustion; there are no state remedies any 
+longer ‘available’ to him.” Coleman v. Thompson, 501 U.S. 722, 732 
+(1991). 
+
+
+20 
+
+
+dismissals without prejudice and with res judicata principles. 
+See pp. 21, 24-27 below. It has always been clear that a 
+dismissal for lack of exhaustion is “without prejudice,”> and 
+“dismissal without prejudice is a dismissal that does not 
+operate as an adjudication on the merits, [citation], and thus 
+does not have res judicata effect.” Cooter & Gell v. Hartmax 
+Corp., 496 U.S. 384, 396 (1990), quoting in part, Fed. R. Civ. 
+P. 41(b); accord Public Service Commission of Missouri v. 
+Brashear Freight Lines, Inc., 312 U.S. 621, 626-27 (1941) 
+(holding order of dismissal “without prejudice to the right of 
+defendants to maintain an independent action or suit thereon,” 
+had no preclusive effect on later action involving same sub- 
+ject matter); United States v. Seckinger, 397 U.S. 203, 206 n.6 
+(1970) (holding prior dismissal, that expressly “left open the 
+option of the United States to pursue its claim against 
+Seckinger at a later time,” did not trigger principles of res 
+judicata).® 
+
+
+* Although all of the controlling authorities require “without 
+prejudice” dismissals, nothing in those authorities would prohibit a 
+“without prejudice” dismissal “under the terms and conditions as the court 
+deems proper,” Fed. R. Civ. P. 41(a)(2), which could include a condition 
+expressly requiring that any petition filed after returning from state court 
+contain only exhausted claims. Such a rule would allow the exhaustion 
+proceeding to be conducted without any limitation imposed by the federal 
+courts, and would avoid a strained and unprecedented interpretation of the 
+exhaustion and abuse of the writ doctrines by tying the court's power to 
+limit the exhaustion procedure to already existing rules and jurisprudence. 
+See p. 47, below. 
+
+
+© The lower courts have, of course, uniformly followed this rule. E.g., 
+Mann v. Haigh, 120 F.3d 34, 36 (4th Cir. 1997) (“the district court's earlier 
+dismissal was made expressly without prejudice and, accordingly, has 
+neither an issue nor a claim preclusive effect.”); Bowden v. United States, 
+106 F.3d 433, 441 (D.C Cir. 1997) (“The district court based its dismissal 
+of that claim on its earlier dismissal of the identical claim in Bowden's 
+initial suit. Because the earlier dismissal was without prejudice, however, it 
+cannot provide the foundation for the dismissal that is before us now.”); 
+Satsky v. Paramount Communications, Inc., 7 F.3d 1464, 1467 (10th Cir. 
+1993) (quoting Cooter v. Gell), Heath v. Cleary, 708 F.2d 1376, 1380 n.4 
+
+
+21 
+
+
+4. The Ninth Circuit’s Rule Cannot Be Squared With 
+The Applicable Exhaustion Principles. 
+
+
+The rule applied by the Ninth Circuit in this case failed 
+to acknowledge or apply these principles. Instead the Ninth 
+Circuit rule reduces a dismissal “without prejudice” for 
+exhaustion proceedings to a cruel hoax, because it gives the 
+dismissal preclusive effect as to any claim not in the pre- 
+maturely-filed petition. This procedure misleads the petitioner 
+as to the character of the dismissal in a way that Rose v. 
+Lundy does not remotely countenance, and it places Mr. Slack 
+in the same position as the petitioner in Stewart v. Martinez- 
+Villareal, 118 S.Ct. at 1620. In that case, the district court and 
+the Court of Appeals ruled that the judgment in the peti- 
+tioner’s fourth federal habeas corpus proceeding would not 
+bar later consideration of his Ford claim, Ford v. Wainwright, 
+477 U.S. 399 (1986), because it was premature, but when he 
+later attempted to assert it the district court held that the 
+claim was barred as “second or successive.” Here, the district 
+court assured Mr. Slack, by the order dismissing the initial 
+petition “without prejudice” for exhaustion and granting leave 
+to “renew” his action after exhaustion proceedings, that the 
+judgment would not have preclusive effect, and the state did 
+not object to that action. JA 21-22. When Mr. Slack returned 
+to federal court, however, the district court did apply a pre- 
+clusion bar, just as the district court did in Martinez- Villareal. 
+
+
+(9th Cir. 1983) (dismissal for exhaustion of administrative remedies not 
+judgment on merits and has no preclusive effect); Humphreys v. United 
+States, 272 F.2d 411, 412 (9th Cir. 1959) (“a suit dismissed without 
+prejudice pursuant to Rule 41(a)(2) leaves the situation the same as if the 
+suit had never been brought in the first place.”’). 
+
+All courts agree that dismissals for lack of complete exhaustion in the 
+habeas context must be without prejudice. E.g., O'Guinn v. Dutton, 88 F.3d 
+1409, 1411-13 (6th Cir. 1996) (en banc); Johnson v. Lewis, 929 F.2d 460, 
+464 (9h Cir. 1991). In this case, however, the fact that the previous 
+dismissal was without prejudice did not prevent the Ninth Circuit from 
+attaching a prejudicial preclusive effect to that dismissal. 
+
+
+22 
+
+
+Such a rule turns the exhaustion rule into exactly what the 
+court in Rose v. Lundy said it was not, a trap for the unwary. 
+
+
+The Ninth Circuit rule also violates the due process 
+element of the res judicata doctrine. The validity of an appli- 
+cation of res judicata under the due process guarantee of the 
+Fifth or Fourteenth Amendment depends upon whether the 
+party sought to be precluded had an adequate opportunity to 
+litigate the claim in the earlier proceeding. See, e.g., Richards 
+v. Jefferson County, 517 U.S. 793, 797 n. 4 (1996); pp. 25-26, 
+below. Mr. Slack could not have litigated his unexhausted 
+claims in the 1991 filing precisely because they were unex- 
+hausted. To hold that these claims are precluded by the 
+dismissal of that premature petition mocks the exhaustion 
+doctrine and this Court's well-settled jurisprudence. 
+
+
+Nothing in the history, purpose or language of the 
+exhaustion doctrine permits such a result, which this Court 
+characterized in Stewart v. Martinez-Villareal, 118 S.Ct. at 
+1621, as “seemingly perverse.” Rather, sound application of 
+those principles compels a finding that, when the district 
+court refrained from adjudication by dismissing Mr. Slack’s 
+1991 filing “without prejudice,” that dismissal had no preclu- 
+sive effect on later state court and federal court proceedings. 
+The answer to the question posed by the Court is thus clear as 
+a matter of settled exhaustion doctrine: Where a person's 
+petition for habeas corpus under 28 U.S.C. § 2254 is dis- 
+missed for failure to exhaust state remedies, and he subse- 
+quently exhausts his state remedies and refiles the § 2254 
+petition, the earlier “without prejudice” dismissal can have no 
+preclusive effect, and claims included within that petition that 
+were not included within his initial § 2254 filing are not 
+“second or successive” habeas applications. 
+
+
+23 
+
+
+B. This Court’s Abuse Of The Writ Precedents — Which 
+Describe That Doctrine As A “Modified Res Judicata 
+Rule” — Make Clear That No Petition Can Be “Second 
+Or Successive” In The Absence Of A Prior Merits 
+Adjudication. 
+
+
+The Ninth Circuit rule giving preclusive effect to a 
+“without prejudice” dismissal not only clashes with settled 
+exhaustion law, it runs equally afoul of this Court's prece- 
+dents concerning abuse of the writ. The Court's decisions 
+dealing with the “modified res judicata” abuse of the writ 
+doctrine demonstrate that Rule 9 of the Rules Governing 
+Section 2254 Cases, former 28 U.S.C. § 2244(b), and current 
+28 U.S.C. § 2244(b), have applied a bright-line res judicata 
+rule in determining what constitutes a “second or successive” 
+habeas application. Any bright-line rule of “res judicata” must 
+focus its inquiry on the effect of a prior federal adjudication - 
+as the Court consistently has — and not on the mere filing of a 
+federal petition that was dismissed “without prejudice.” The 
+vice of the Ninth Circuit rule is that it gives preclusive effect 
+to a dismissal without prejudice just as it would give preclu- 
+sive effect to a “first round” of habeas corpus litigation on the 
+merits. 
+
+
+1. The Court Applies Res Judicata Principles In The 
+Habeas Context Through The Abuse Of The Writ 
+Doctrine By Attaching “Vital Relevance” To A 
+Prior Adjudication. 
+
+
+In McCleskey v. Zant, 499 U.S. 467, 489 (1991), this 
+Court brought the abuse of the writ doctrine applied under 
+Rule 9(b) substantially into line with traditional res judicata 
+principles. It held that a “second or successive” habeas corpus 
+application could not be entertained unless the court found 
+“cause and prejudice” for the failure to raise the claims in the 
+“first round” of habeas corpus litigation, or found that a 
+“miscarriage of justice” would result from refusal to entertain 
+the petition. Examining caselaw from Ex Parte Cuddy, 40 F. 
+62 (C.C.S.D. Cal. 1889), through Salinger v. Loisel, 265 U.S. 
+
+
+24 
+
+
+224 (1924), Wong Doo v. United States, 265 U.S. 239 (1924), 
+Price v. Johnston, 334 U.S. 266 (1948), and Sanders v. United 
+States, 373 U.S. 1 (1963), and through the modern codifica- 
+tion of the doctrine in former § 2244(b) and Rule 9(b), the 
+Court recognized that cases such as Cuddy, Salinger and 
+Wong Doo, had “adopted a middle position between the 
+extremes of res judicata and endless successive applications.” 
+McCleskey, 499 U.S. at 480. The history of the “abuse of the 
+writ” doctrine demonstrated that early cases; such as Wong 
+Doo, had given “controlling weight” to the existence of a “a 
+prior refusal to discharge on a like application,” and the Court 
+concluded: 
+
+So while we rejected res judicata in a strict sense as 
+
+a basis for dismissing a later habeas action, we 
+
+made clear that the prior adjudication bore vital 
+
+relevance to the exercise of the Court's discretion 
+
+in determining whether to consider the petition. 
+McCleskey, 499 U.S. at 482. (Emphasis supplied). 
+
+The McCleskey court noted that current statutes and rules 
+continue to describe the abuse doctrine as “a qualified appli- 
+cation of the doctrine of res judicata” id. at 486, quoting, 
+S.Rep. No. 1797 at 2, U.S. Code Cong. & Admin. News 1966, 
+p. 3664, and emphasized that other cases, including Woodard 
+v. Hutchins, 464 U.S. 377 (1984) (per curiam); Antone vy. 
+Dugger, 465 U.S. 200 (1984) (per curiam); and Rose v. Lundy, 
+455 U.S. 509, 521 (1982) (plurality opinion), had also 
+focused on the presence or absence of a prior adjudication. 
+McCleskey, 499 U.S. at 487-89. McCleskey relied on all of 
+these decisions to support the adoption of a “modified res 
+judicata” rule in habeas corpus cases that places strict limits 
+on a district court’s discretion to consider “second or succes- 
+sive” petitions, because scarce judicial resources should be 
+expended upon those litigants pursuing their “first round of 
+federal habeas... . ” /d. at 1469. 
+
+McCleskey thus adopted a straightforward, bright-line 
+rule that gives preclusive effect to a prior federal adjudica- 
+tion, which can be overcome only where a litigant demon- 
+Strates either “cause and prejudice” or a “miscarriage of 
+
+
+25 
+
+
+justice.” The cases following McCleskey have all reaffirmed 
+the presumptive “res judicata” effect of the initial adjudica- 
+tion, and have carefully distinguished between proceedings 
+filed before and after an initial federal adjudication. E.g., 
+Calderon v. Thompson, 523 U.S. 538, 118 S.Ct. 1489, 1502 
+(1998) (rules of habeas litigation change drastically when 
+court has “to revisit the merits of an earlier decision denying 
+habeas relief” because petitioner “has already had extensive 
+review of his claims in federal and state court.”); Felker v. 
+Turpin, 518 U.S. 651, 664 (1996) (AEDPA codifies “modified 
+res judicata rule, a restraint on what is called in habeas corpus 
+practice ‘abuse of the writ’ ”); Schlup v. Delo, 513 U.S. 298, 
+319 (1995) (statutory and caselaw developments result in 
+“qualified application of the doctrine of res judicata”). In 
+sharp contrast, the court has disapproved attempts to place 
+restrictions on first habeas corpus petitions, even in the face 
+of apparently inequitable conduct, where no previous federal 
+adjudication of constitutional claims has occurred. Lonchar v. 
+Thomas, 517 U.S. 314, 321 (1996). 
+
+
+2. Res Judicata And Its Habeas Corpus Analogue, 
+Abuse Of The Writ, Cannot Apply In The Absence 
+Of A Prior Merits Adjudication. 
+
+
+By essentially equating the abuse of the writ doctrine 
+with res judicata, this Court incorporated a body of clear, 
+settled doctrine as to claim preclusion. This Court explained 
+in Cromwell v. County of Sac., 94 U.S. 351, 352-53 (1876), 
+that the res judicata rule teaches that a prior 
+
+
+judgment, if rendered upon the merits, constitutes 
+an absolute bar to subsequent action. It is a finality 
+as to the claim or demand in controversy, conclud- 
+ing parties and those in privy with them, not only as 
+to every matter which was offered and received, but 
+as to any other admissible matter which might have 
+been offered for that purpose. 
+
+
+Accord, Baltimore S.S. Co. v. Phillips, 274 U.S. 316, 319 
+(1927); Kremer v. Chemical Construction Corp., 456 U.S. 
+
+
+26 
+
+
+461, 466-67 n.6 (1982) (“Invocation of res judicata and col- 
+lateral estoppel relieves parties of the cost and vexation of 
+multiple lawsuits, conserves judicial resources, and, by pre- 
+venting inconsistent decisions, encourages reliance on adju- 
+dication” (emphasis added)). 
+
+
+Because the entire doctrine centers on the need to 
+“encourage reliance on adjudication,” it is hornbook law that 
+res judicata applies only where the initial proceeding resulted 
+in a disposition on the merits. American Law Institute, 
+Restatement of the Law (Second), Judgments § 20(1)(b), (2) at 
+170 (judgment based on dismissal without prejudice or pre- 
+maturity of action not bar), and Comments (g, k), at 174-175 
+(1980), see also id., §§ 13, 17. The principle that a res 
+judicata preclusion bar cannot be imposed unless the party 
+had an adequate opportunity to be heard in the previous 
+proceeding, in order to satisfy due process concerns, is 
+equally clear. E.g., Postal Telegraph Cable Co. v. Newport, 
+247 U.S. 464, 476 (1918).’ In other words, as the McCleskey 
+Court observed, res judicata — and its analogue in habeas 
+corpus practice, abuse of the writ — attaches “vital relevance” 
+to the “prior adjudication.” McCleskey, 499 U.S. at 482. Thus, 
+in cases such as McCleskey, Schlup, Felker and Thompson, 
+where a prior federal adjudication had in fact occurred, and 
+
+
+7 The limitation of the res judicata bar to cases in which the party 
+could have brought the matter to a dispositive hearing in the previous 
+proceeding was well established at the time of the adoption of the 
+constitution. E.g., Pickett v. Loggon, 14 Vesey 215, 232-234, 33 Eng. Rep. 
+503, 510 (Ch. 1807) (prior judgment, when case came to hearing, acts as 
+bar); Duchess of Kingston's Case, Ambler 756, 762-763, 27 Eng. Rep. 487, 
+490 (Ch. 1775); Cann v. Cann, | P. Wms. 723, 725-727, 24 Eng. Rep. 586, 
+587 (K.B. 1721) (no reexamination when case previously “examined and 
+determined”); Earl of Peterborough’s Case, | Bro. P.C. 281, 283, 2 Eng. 
+Rep. 893, 894 (H.L. 1709) (relitigation barred “after issued joined”); see 
+Aspden v. Nixon, 45 U.S. (4 How.) 467, 499 (1846); The Mary, 13 U.S. (9 
+Cranch) 126, 145-146 (1815) (party who had “full opportunity to assert his 
+rights” bound by judgment). That protection is therefore implicit in the 
+constitutional guarantee of due process of law. See, e.g., Medina v. 
+California, 505 U.S. 437, 446-447 (1992). 
+
+
+27 
+
+
+the new claims could have been, but were not, litigated in the 
+prior proceeding, the Court precluded further litigation in the 
+absence of compelling circumstances such as “cause and 
+prejudice” or “miscarriage of justice.” By contrast, in Lonc- 
+har, where no prior adjudication had occurred, this Court 
+found that no preclusive effect could attach to prior proceed- 
+ings, even in the face of allegedly intentional, manipulative 
+delay by the petitioner. 
+
+
+3. Martinez-Villareal Reaffirms That The Abuse Of 
+The Writ Doctrine Is Simply The Habeas Corpus 
+Version Of Res Judicata. 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+After the adoption of AEDPA, however, when Mr. Mar- 
+tinez-Villareal moved in the district court to re-open the 
+litigation on the fourth petition, the state objected that the 
+district court had no jurisdiction to address the petition. The 
+
+
+28 
+
+
+district court ruled that it lacked jurisdiction over any claim as 
+a “second or successive” application under 28 U.S.C. 
+§ 2244(b)(3)(A). The petitioner then filed a motion in the 
+Court of Appeals for leave to file a “second or successive” 
+petition under 28 U.S.C. § 2244(b)(3). The Ninth Circuit 
+dismissed the motion and ordered the petition transferred to the 
+district court, holding that the application to re-open the peti- 
+tion did not constitute a “second or successive” application for 
+habeas corpus relief because the Ford claim had not been 
+adjudicated in the previous habeas proceeding. Martinez- 
+Villareal v. Stewart, 118 F.3d 628, 632-633 (9th Cir. 1998) 
+(per curiam). 
+
+This Court affirmed. Chief Justice Rehnquist, writing for 
+the majority, focused on the question of jurisdiction, since the 
+Court would not have jurisdiction under the AEDPA to review 
+a decision of the Court of Appeals granting or denying per- 
+mission to file a “second or successive” habeas corpus peti- 
+tion. 28 U.S.C. § 2244 (b)(3)(E); Stewart v. Martinez- 
+Villareal, 118 S.Ct. at 1620. This Court concluded that the 
+proceeding was properly before it, explaining that 
+
+This may have been the second time that respondent 
+
+had asked the federal courts to provide relief on his 
+
+Ford claim but this does not mean there were two 
+
+separate applications, the second of which was nec- 
+
+essarily subject to § 2244(b). There was only one 
+application for habeas relief, and the District Court 
+ruled (or should have ruled) on each claim at the 
+
+time it became ripe. Respondent was entitled to an 
+
+adjudication of all of the claims presented in his 
+
+earlier, undoubtedly reviewable, application for fed- 
+
+eral habeas relief. 
+
+Id. at 1621. 
+
+
+In holding that Mr. Martinez-Villareal’s Ford claim, 
+which had previously been dismissed without an adjudication 
+on the merits, did not constitute a “second or successive” 
+application for relief, the Court analyzed that question as 
+controlled by its precedents dealing with the exhaustion 
+defense, including Rose and Ex Parte Royall, and it ultimately 
+
+
+29 
+
+
+rejected the argument that a “second or successive” petition 
+included one that was filed after a previous petition had been 
+dismissed without prejudice for exhaustion as “seemingly 
+perverse.” 118 S.Ct. at 1621. As the Court explained, “[N]Jone 
+of our cases expounding this [exhaustion] doctrine have ever 
+suggested that a prisoner whose habeas petition was dis- 
+missed for failure to exhaust state remedies, and who then did 
+exhaust those remedies and returned to federal court, was by 
+such action filing a successive petition. A court where such a 
+petition was filed could adjudicate these claims under the 
+same standard as would govern those made in any other first 
+petition.” /d. at 1622. 
+
+
+The Court reasoned that, although Mr. Martinez-Vil- 
+lareal’s Ford claim was not exactly like his three previous 
+applications that had been dismissed without prejudice for 
+lack of complete exhaustion, the result should be identical 
+because “in both situations, the habeas petitioner does not 
+receive an adjudication of his claim. To hold otherwise would 
+mean that a dismissal of a first habeas petition for technical 
+procedural reasons would bar the prisoner from ever obtain- 
+ing federal habeas review.” 118 S.Ct. at 1622. The Court 
+concluded that such a result would not be justified under any 
+of its teachings, including the res judicata rule applied in 
+McCleskey, Schlup and Felker, because “it is certain that 
+respondent's Ford claim would not be barred under principles 
+of res judicata.” Jd. The Court accordingly affirmed the Court 
+of Appeals’ ruling that the petitioner’s application to review 
+his Ford claim was not barred as a “second or successive” 
+one. /d.. This holding established beyond any dispute that the 
+meaning of the term “second or successive” js not determined 
+by mechanically counting the number of previous applica- 
+tions, but includes consideration of the res judicata principles 
+underlying the abuse doctrine. /d. 
+
+
+Compared to Martinez-Villareal, Mr. Slack’s case is 
+straightforward. No form of res judicata can apply in the 
+absence of a prior adjudication, and to accept the holding of 
+the lower courts in this case would shift the “second or 
+
+
+30 
+
+
+successive” focus from the federal merits adjudication - 
+where the Court has said for the past century that it belongs - 
+to an initial federal filing that is dismissed without prejudice. 
+There is no precedent for such a ruling and indeed, in 
+Martinez-Villareal, every member of the Court appeared to 
+acknowledge that Mr. Martinez-Villareal’s three pre-adjudica- 
+tion dismissals for exhaustion had no preclusive effect on the 
+litigation. See Martinez-Villareal, 118 S.Ct. at 1621; id. at 
+1623 (Scalia, J. dissenting) (referring to “second-time collat- 
+eral federal review”); id. at 1625 (Thomas, J. dissenting) (as 
+to earlier dismissals without prejudice for exhaustion, “it 
+could be argued that th[os]Je petition[s] should be treated as if 
+[they] had never been filed. In contrast, when a court 
+addresses a petition and adjudicates some of the claims pre- 
+sented in it, that petition is certainly an ‘application,’ and any 
+future application must be ‘second or successive.’ ”) Such a 
+holding is implicit, in fact, in the majority opinion because if 
+any of the pre-adjudication filings had been “second or suc- 
+cessive” then the Court would not have had jurisdiction to act. 
+
+
+In short, Mr. Martinez-Villareal’s petition was not “sec- 
+ond or successive” because he could not have obtained an 
+adjudication of the Ford claim in the previous proceeding; but 
+Mr. Slack’s current petition cannot be “second or successive” 
+for an even more basic reason: no federal adjudication has 
+ever occurred, and “it is certain” that in the absence of such a 
+federal adjudication, Mr. Slack’s current petition “would not 
+be barred under any form of res judicata.” Martinez-Villareal, 
+118 S.Ct. at 1622. The lower courts accordingly applied a 
+“form of res judicata” to Mr. Slack’s case that has no princi- 
+pled basis whatsoever. 
+
+
+The significance of McCleskey is that it incorporates, 
+through the abuse of the writ doctrine, the same bright-line 
+rules of preclusion for habeas practice that apply in all other 
+areas of the civil law. In this case, the Court should “evenhan- 
+dedly apply” these res judicata rules, see Federated Depart- 
+ment Stores, Inc. v. Moitie, 452 U.S. 394, 401 (1981), by 
+holding that this clear, established doctrine applies to habeas 
+
+
+31 
+
+
+cases the same way it does to all other cases: No preclusive 
+effect can attach in the absence of a prior merits adjudication. 
+This Court's rulings in Martinez-Villareal, McCleskey, and 
+Rose v. Lundy, combine to compel this conclusion. 
+
+
+C. The Lower Courts’ Consistent Construction Of The 
+Term “Second Or Successive” Demonstrates That A 
+“Second Or Successive” Application Is One Filed 
+After A Previous Merits Adjudication. 
+
+
+Consistent with exhaustion and abuse of the writ princi- 
+ples discussed above, the lower courts outside the Ninth 
+Circuit have uniformly held that no application filed after an 
+earlier dismissal without prejudice for lack of complete 
+exhaustion can be “second or successive.” The definition of 
+“second or successive” application is the same under Rule 
+9(b) and former 28 U.S.C. § 2244 as it is under AEDPA. E.g., 
+In re Gasery, 116 F.3d 1051, 1502 (Sth Cir. 1997) (per 
+curiam). The term “second or successive” is a term of art, 
+e.g., Shepeck v. United States, 150 F.3d 800, 800 (7th Cir. 
+1998) (per curiam), and by using the term in AEDPA Con- 
+gress is presumed to have used the term to mean the same 
+thing it did under Rule 9(b).* The uniform recognition that a 
+petition filed after a previous dismissal without prejudice for 
+exhaustion is not a “second or successive” application, both 
+before and after the enactment of AEDPA, further demon- 
+strates that the Ninth Circuit rule is outside the “evolution- 
+ary” development of habeas doctrine referred to in Lonchar 
+and McCleskey. See generally, 2 James S. Liebman and 
+Randy Hertz, Federal Habeas Corpus Practice and Procedure 
+§ 28.3(b) at 1167-1170 (3d. ed. 1998). 
+
+
+8 Congress could not have intended to adopt the construction of the 
+term “second or successive” used in Farmer, since Farmer was decided 
+after AEDPA was enacted. 98 F.3d at 1548. 
+
+
+32 
+1. Pre-AEDPA Cases. 
+
+
+Prior to the passage of AEDPA, the lower courts 
+addressed the effect of exhaustion dismissals and concluded 
+that the enforcement of the exhaustion doctrine did not divest 
+the federal courts of the ability to adjudicate claims in a post- 
+exhaustion petition on abuse of the writ grounds. One Court 
+of Appeals summed up the situation simply in Woods v. 
+Whitley, 933 F.2d 321, 322 n.1 (Sth Cir. 1991), explaining that 
+where a first petition is dismissed without prejudice due to 
+lack of complete exhaustion “we disregard it for purposes of 
+abuse of the writ analysis.” Accord, Jones v. Estelle, 722 F.2d 
+159, 168 (Sth Cir. 1983) (en banc). Similarly, in Hill v. 
+Lockhart, 894 F.2d 1009, 1010 (8th Cir. 1990) (en banc), the 
+Eighth Circuit focused on the lack of a prior federal adjudica- 
+tion in holding that “the district court did not abuse its 
+discretion in hearing Hill's second habeas petition, because 
+there had been no final determination on the merits of Hill's 
+first petition.” 
+
+
+In Dellenbach v. Hanks, 76 F.3d 820, 822 (7th Cir. 1996), 
+the court held that, because a habeas petitioner's first filing 
+was dismissed for lack of complete exhaustion, and the sec- 
+ond was dismissed for want of subject matter jurisdiction, the 
+trial court had erred in finding that the third filing constituted 
+an abuse of the writ. Chief Judge Posner's analysis focused on 
+the lack of a prior federal adjudication, and held that “it is not 
+an abuse to file a successive petition if the previous petition 
+or petitions were not denied on the merits,” because “dis- 
+missal on the basis of a deficiency in the pleadings, rather 
+than on the basis of an adjudication on the merits, [citations], 
+is not a death knell” in habeas corpus practice. /d. at 822. 
+
+
+Dismissal for lack of complete exhaustion thus has 
+always meant, under Rose, a dismissal “without prejudice”; 
+and that “without prejudice” dismissal was “disregarded” for 
+abuse of the writ purposes because it was not a merits adjudi- 
+cation of any part of the petition. Thus, before passage of 
+
+
+33 
+
+
+AEDPA, a “second or successive” application was defined as 
+one filed after a previous federal adjudication. 
+
+
+2. Post-AEDPA Cases. 
+
+
+The “new restrictions on successive petitions,” imposed 
+by AEDPA require a prospective applicant to “file in the court 
+of appeals a motion for leave to file a second or successive 
+habeas application in the district court.” Felker, 518 U.S. at 
+664; 28 U.S.C. § 2244(b)(2)(A). In performing their “gate- 
+keeping” function under the new statute, the Courts of 
+Appeals were quickly required to decide whether a federal 
+habeas corpus application, filed after a previous petition had 
+been dismissed without prejudice for lack of complete 
+exhaustion, constituted a “second or successive” application. 
+Consistent with the longstanding principle that “the law uses 
+familiar legal expressions in their familiar legal sense,” 
+Henry v. United States, 251 U.S. 393, 395 (1920); McDermott 
+International, Inc. v. Wilander, 498 U.S. 337, 342 (1991); 
+Bradley v. United States, 410 U.S. 605, 609 (1973), all of the 
+circuits (including the Ninth) unanimously concluded, based 
+on the consistent pre-AEDPA authority, that a federal petition 
+filed after an earlier filing had been dismissed for lack of 
+complete exhaustion is not a “second or successive” applica- 
+tion, and that no appellate authorization was required for 
+filing such a petition. 
+
+This issue was discussed at length in Camarano v. Irvin, 
+98 F.3d 44 (2d Cir. 1996) (per curiam). There, the government 
+had urged a construction of “second or successive applica- 
+tion” that would have limited the habeas petitioner to those 
+claims contained in the initial habeas corpus filing, which had 
+been previously dismissed without prejudice. The Court of 
+Appeals rejected this approach, explaining that “because 
+application of the gatekeeping provisions to deny a resubmit- 
+ted petition in cases such as this would effectively preclude 
+any habeas review,” such a holding “would conflict with the 
+doctrine of writ abuse, as understood both before and after 
+Felker.” Id. at 46. 
+
+
+34 
+
+
+Just as petitioner Slack has argued above, the Second 
+Circuit looked to this Court’s exhaustion and abuse of the writ 
+teachings for guidance. The court recognized that attaching 
+no preclusive effect to the initial federal dismissal ultimately 
+fosters those policies that underlie the exhaustion doctrine: 
+
+It serves the interest in finality by discouraging 
+
+piecemeal litigation and encouraging petitioners 
+
+first to exhaust their state remedies and then to 
+
+‘present the federal court with a single habeas peti- 
+
+tion.’ Rose v. Lundy, 455 U.S. 509, 520 (1982). In 
+
+addition, encouraging petitioners to exhaust their 
+
+State remedies prior to seeking federal court review 
+
+promotes harmony between the state and federal 
+
+courts by allowing state courts to examine state 
+convictions and correct constitutional errors in the 
+
+first instance. 
+
+
+ld. at 46. 
+
+
+The Court then noted that other circuits had unanimously 
+concluded, prior to AEDPA, that a petition filed after an 
+earlier dismissal for lack of complete exhaustion was not an 
+abuse of the writ, since that position was the only one consis- 
+tent with this Court's teachings on the subject: 
+
+When a petition is dismissed without prejudice for 
+
+failure to exhaust, there is no federal adjudication 
+
+on the merits. To foreclose further habeas review in 
+
+such cases would not curb abuses of the writ, but 
+
+rather would bar federal habeas review altogether. 
+
+
+Id. The Court of Appeals then concluded with a discussion of 
+res judicata law: 
+
+
+It is well established that a dismissal without preju- 
+dice has no res judicata effect on a subsequent 
+claim. [Citations] Inasmuch as the new gatekeeping 
+provisions are rooted in the writ abuse doctrine 
+which is itself ‘a qualified application of the doc- 
+trine of res judicata,’ [citations], a dismissal with- 
+out prejudice can have no preclusive effect on 
+subsequent petitions. Indeed, the phrase “without 
+prejudice” would be devoid of its meaning under 
+any other construction of the amended § 2244. 
+
+
+Id. at 46-47. 
+
+
+35 
+
+
+Other circuits have unanimously agreed with the reason- 
+ing in Camarano. In re Turner, 101 F.3d 1323 (9th Cir. 
+1997);° Dickinson v. Maine, 101 F.3d 791 (bst Cir. 1996) (per 
+curiam); /n re Gasery, 116 F.3d 1051, 1052 (Sth Cir. 1997) 
+(noting that “prior to passage of the AEDPA, we consistently 
+held that petitions that were refiled after dismissal for failure 
+to exhaust state remedies were not ‘second or successive’ for 
+Rule 9(b) purposes, and then agreeing with “the First, Second, 
+Seventh, and Ninth Circuits . . . that a habeas petition filed 
+after dismissal without prejudice for failure to exhaust is 
+neither second nor successive.”); Christy v. Horn, 115 F.3d 
+201, 208 (3d Cir. 1997) (“when a prior petition has been 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+36 
+
+
+dismissed without prejudice for failure to exhaust state 
+remedies .. . the petitioner may file his petition in the district 
+court as if it-were the first such filing,” based on the uniform 
+pre-Act law, and importance of “giving the state courts the 
+first Opportunity to review state convictions and to correct 
+constitutional errors.”); Carlson v. Pitcher, 137 F.3d 416, 
+419-420 (6th Cir. 1998) (“universal approach” before and 
+after AEDPA that “a second-in-time habeas petition was not 
+dismissed as an abuse of the writ when its filing followed a 
+dismissal of the first-in-time petition on exhaustion 
+grounds.”); /n re Wilson, 142 F.3d 939, 940 (6th Cir. 1998); 
+McWilliams v. State of Colorado, 121 F.3d 573, 575 (10th Cir. 
+1997) 
+
+
+In Benton v. Washington, 106 F.3d 162, 164 (7th Cir. 
+1996), the Seventh Circuit rejected a definition of “second or 
+successive” petition that would include prior petitions dis- 
+missed for failure to exhaust, reasoning: 
+
+[t}he sequence of filing, dismissal, exhaustion in 
+
+state court, and refiling in federal court might gen- 
+
+erate multiple docket numbers, but it would not be 
+right to characterize it as successive collateral 
+attacks. The prisoner launched a single campaign; 
+
+that skirmishes were spread across several years 
+
+and two forums would not make it apt to call any of 
+
+the steps a ‘successive’ collateral attack. 
+
+
+In sum, the decision in this case, and the eccentric decision in 
+Farmer on which it is based, stand alone. Every other Court 
+of Appeals that has ever addressed the question has concluded 
+that a habeas corpus petition filed after a “without prejudice” 
+dismissal for lack of complete exhaustion is not a “second or 
+successive” application, and that is the only conclusion con- 
+sistent with this Court’s reasoning in Martinez-Villareal and 
+McCleskey. The contrary Ninth Circuit decision here is incon- 
+sistent with “formal judicial, statutory, or rules-based doc- 
+trines of law,” Lonchar, 517 U.S. at 323-324, and it must be 
+rejected. 
+
+
+37 
+
+
+D. The Farmer Decision And The Consequent Ruling 
+Below Ignore This Court’s Exhaustion And Abuse Of 
+The Writ Teachings, And The Eccentric Definition Of 
+“Second Or Successive” Applications They Apply 
+Leads To Absurd And Unconstitutional Results. 
+
+
+The Ninth Circuit's opinion in Farmer, and the conse- 
+quent ruling in this case, ignored the “evolving body of 
+equitable principles informed and controlled by historical 
+usage, statutory developments and judicial decisions,” 
+McCleskey, 499 U.S. at 489, by failing to take into account 
+the res judicata basis of preclusion principles and the non- 
+preclusive effect of a “without prejudice” dismissal for 
+exhaustion. Because of this, the Farmer rule is based on a 
+faulty, incomplete analysis of the controlling law, and it also 
+fails to consider the absurd and unconstitutional results that 
+that analysis will inevitably generate, including the one in this 
+case. 
+
+
+1. The Ninth Circuit Applied Faulty And Incomplete 
+Reasoning In Farmer. 
+
+
+The Ninth Circuit in Farmer based its analysis upon a 
+narrow and distorted parsing of Rule 9(b), taken out of the 
+context of the rule and its historical antecedents, and disre- 
+garding normal principles of statutory construction. Rule 9(b) 
+applies by its terms to “second or successive” petitions and, 
+as shown above, that term has been universally construed to 
+exclude petitions filed after a dismissal without prejudice for 
+exhaustion. The Farmer court focused, however, on the fact 
+that the first clause of the rule refers to a “prior determination 
+on the merits,” while the second clause does not explicitly 
+refer to a prior adjudication but uses the term “abuse of the 
+writ.” Farmer, 98 F.3d at 1555. The Farmer court viewed this 
+supposed textual distinction as implicitly overruling the por- 
+tions of the statute, former 28 U.S.C. § 2244(b), which explic- 
+itly refer to a prior “evidentiary hearing on the merits,” or a 
+“hearing on the merits of an issue of law,” as the basis for a 
+
+
+38 
+
+
+district court to refuse to consider a subsequent application. 
+Farmer, 98 F.3d at 1555. 
+
+
+Purely as a matter of textual analysis, the Farmer court's 
+conclusion is not supported by the language of Rule 9(b) 
+because there is an obvious reason why the first clause refers 
+to a “prior determination on the merits” while the second one 
+does not. The first clause of Rule 9(b) deals with new peti- 
+tions raising the same claims as those raised in a previous 
+petition, and it thus makes sense that this clause refers to a 
+previous adjudication of the same claim as a basis for refus- 
+ing to consider it again. But the second clause deals with new 
+claims, which by definition would not have been the subject 
+of a previous adjudication, and there would be no reason to 
+refer to a prior adjudication in the rule. Thus the omission of 
+a reference to a prior adjudication in the second clause does 
+nothing to support reading the limitation of the rule to “sec- 
+ond or successive” petitions out of that portion of Rule 9(b). 
+
+
+The Farmer court's reading of the rule also violates basic 
+principles of statutory construction. Statutes and rules in pari 
+materia should be harmonized if possible and an implicit 
+repeal of a statute by adoption of an inconsistent rule should 
+not be found if a reasonable harmonizing construction is 
+available. E.g., Rodriguez v. United States, 480 U.S. 522, 524 
+(1987) (per curiam). Former 28 U.S.C. § 2244(b) provided 
+explicitly for dealing with a “subsequent application” for 
+habeas relief, and the statute made it clear — as to both same- 
+claim successive petitions and new-claim second petitions — 
+that the restrictions on considering subsequent applications 
+arose only after an adjudication of a previous petition. As 
+Justice Thomas pointed out in Stewart v. Martinez-Villareal, 
+“[c]laims presented in a petition dismissed for failure to 
+exhaust are neither ‘determined’ nor ‘adjudicated.’ ” 118 
+S.Ct. at 1625 (Thomas, J., dissenting). The statute and Rule 
+9(b) can easily be harmonized by recognizing that the “abuse 
+of the writ,” which is referred to in the Rule, is the same as 
+the “abuse of the writ,” following the adjudication of a prior 
+petition, referred to in former 28 U.S.C. § 2244(b). 
+
+
+ac att as iat 
+
+
+39 
+
+
+The Farmer court also ignored the principle that a statute 
+must be interpreted in light of the harm it was meant to 
+address. E.g., United States Nat. Bank of Oregon v. Indepen- 
+dent Ins. Agents, 508 U.S. 439, 455 (1993). The Advisory 
+Committee Notes to Rule 9(b) make it clear that the rule was 
+meant to address the problems raised by filing a habeas 
+application after a previous petition has been decided on the 
+merits. The Notes refer to the situation when: 
+
+
+A successive application, already decided on the 
+merits, may be submitted in the hope of getting 
+before a different judge in multijudge courts. A 
+known ground may be deliberately withheld in the 
+hope of getting two or more hearings or in the hope 
+that delay will result in witnesses and records being 
+lost. 
+
+
+28 U.S.C. foll. § 2254, 28 U.S.C.A. at 800 (1994). The 
+Advisory Committee Notes thus support the conclusion that, 
+consistent with all other interpretations of “abuse of the writ,” 
+the reference to “second or successive” applications in Rule 
+9(b) applies only to applications filed after a previous petition 
+has been adjudicated; and it is this interpretation of Rule 9(b) 
+through which the McCleskey Court brought the abuse doc- 
+trine substantially into line with general res judicata princi- 
+ples. 
+
+
+Also in the context of the harm the provision is designed 
+to address, the Farmer court’s reading of Rule 9(b) would 
+apply in situations in which there is no conduct on the part of 
+the petitioner that could be remotely described as “abusive” 
+in the way that deliberately withholding a claim, see former 
+28 U.S.C. § 2244(b), or presenting a previously adjudicated 
+petition to a new judge in the hope of obtaining a different 
+result, see Advisory Committee Notes, 28 U.S.C.A. at 800, or 
+litigating an entire round of federal habeas proceedings before 
+asserting a known claim, see McCleskey, 499 U.S. at 490, 
+
+
+40 
+
+
+would be.'° This case is a good example. Here, Mr. Slack 
+tried to do what Rose v. Lundy and the district court told him 
+to do: he exhausted his available remedies as to claims he 
+knew about and returned to federal court to litigate those 
+claims. Characterizing this conduct as abusive would deprive 
+that term of any rational meaning. Cf. Lowe vy. Pogue, __ 
+U.S. __, 119 S.Ct. 1238 (1999) (per curiam) (describing 31 
+patently frivolous filings as “abuse” of Supreme Court's cer- 
+tiorari and extraordinary writ process). 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+'© The statutory construction rules eiusdem generis and noscitur a 
+sociis would lead to the same conclusion. See Gustafson v. Alloyd Co., Inc., 
+513 U.S. 561, 575 (1995); Norfolk & Western R. Co. v. Train Dispatchers, 
+499 U.S. 117, 129 (1991). In former 28 U.S.C. § 2244(b), “abuse of the 
+writ” is classed with deliberate withholding of a claim, and abuse should 
+thus be interpreted to apply to the same kind of conduct. See also, Sanders 
+v. United States, 373 U.S. 1, 18 (1963) (abuse of writ when petitioner 
+conducts litigation “whose only purpose is to vex, harass, or delay”). 
+
+
+'! This case supplies a clear example of the unworkability of this 
+aspect of the Farmer rule. The district court, on the state’s motion, 
+dismissed one claim (which had been presented in the 1991 filing) without 
+
+
+41 
+
+
+the writ doctrine on such a distinction trivializes the doctrine 
+itself and the orderly process of habeas litigation of which it 
+is a part. 
+
+Moreover, imposing a straitjacket on further proceedings 
+based on an initial, dismissed habeas petition can irrationally 
+compromise the effectiveness of the state exhaustion proceed- 
+ings. Enforcement of the exhaustion doctrine is designed to 
+“channel claims into the more appropriate forum,” Keeney v. 
+Tamayo-Reyes, 504 U.S. 1, 10 (1992), and state court litiga- 
+tion may disclose additional, previously unknown claims.'? 
+But if a petitioner discovers such claims in the state proceed- 
+ings “where meritorious claims may be vindicated and 
+unfounded litigation obviated before resort to federal court,” 
+id., he or she cannot obtain federal review of them because, if 
+they were not in the initial federal petition, the Ninth Circuit 
+preclusion rule will bar their consideration. Thus the Ninth 
+Circuit rule not only distorts the federal proceedings, but it 
+may also deform the state exhaustion proceedings themselves 
+by removing a major incentive — the prospect of eventual 
+federal review — for discovering and asserting all the avail- 
+able claims in the state exhaustion proceedings. There is no 
+shred of evidence that the enactment of Rule 9(b) was 
+intended to cause such a result. 
+
+
+prejudice because it had been defectively exhausted in the state 
+proceedings, while it dismissed other claims with prejudice, on the ground 
+of abuse of the writ. JA 155-158. There is no rational basis for concluding 
+that the federal habeas proceedings are being “abused” by presenting the 
+latter claims, which are ripe for adjudication, but not by presenting the 
+former one. 
+
+
+12 Although Mr. Slack was not given any assistance in his state 
+exhaustion proceedings, despite his request, Nevada courts do have the 
+power to appoint counsel and provide discovery in post-conviction 
+proceedings. Nev. Rev. Stat. §§ 34.750, 34.780. 
+
+
+42 
+
+
+2. The Ninth Circuit’s Rule Will Inevitably Generate 
+Absurd And Unconstitutional Results, Such As 
+The One In This Case. 
+
+
+The Ninth Circuit's interpretation of a “second or succes- 
+sive” habeas corpus application under Rule 9(b) to include an 
+application filed after a petition was dismissed without preju- 
+dice for exhaustion is also unsustainable because it would 
+lead to absurd and unconstitutional results. See, e.g., Edmond 
+v. United States, 520 U.S. 651, 658 (1997). 
+
+
+As shown above, the res judicata doctrine applies only if 
+the party sought to be precluded had a constitutionally-ade- 
+quate opportunity to litigate his or her claims in the previous 
+proceeding. See pp. 25-26, above. The Farmer definition of 
+“second or successive” application would bar Mr. Slack’s 
+claims, after he had no opportunity to litigate them in the 
+previous proceeding, and that interpretation must therefore be 
+rejected. Further, if the Ninth Circuit's ruling in this case is 
+upheld, the preclusion of Mr. Slack’s claims will also result in 
+a suspension of the writ of habeas corpus, prohibited by 
+Article I, Section 9, of the Constitution. Application of a res 
+judicata rule to bar claims when there has been no previous 
+adjudication of any previous application is far outside the 
+evolutionary development of the abuse doctrine. Cf. Felker v. 
+Turpin, 518 U.S. at 664. That rule results in the practical 
+suspension of the writ as to those claims, which has no 
+rational or historical foundation at all, and an interpretation 
+that would lead to these results must be avoided. 
+
+
+Accepting the Ninth Circuit's definition of “second or 
+successive” application would also lead to absurd conse- 
+quences with respect to AEDPA. The finality provisions of 28 
+U.S.C. § 2244 apply to “second or successive” habeas corpus 
+applications. The prohibition on entertaining the same claims 
+raised in a previous petition imposed by 28 U.S.C. § 2244(a) 
+is absolute; and the standard for entertaining a petition con- 
+taining new claims imposed by 28 U.S.C. § 2244(b) is so high 
+as to be practically insurmountable. If a petition filed after a 
+previous petition is dismissed for exhaustion is a “second or 
+
+
+43 
+
+
+successive” one, under AEDPA the filing of a post-exhaustion 
+petition would be an exercise in futility: any claims presented 
+in the pre-exhaustion petition would be absolutely barred as 
+“same claims” under 28 U.S.C. § 2244(a); and any claims not 
+presented in the pre-exhaustion petition would be practically 
+barred as “new claims” under 28 U.S.C. § 2244(b). Obliterat- 
+ing the entire habeas application as the price of complying 
+with Rose v. Lundy is so absurd a consequence of the Farmer 
+rule that it defies reasoned analysis. 
+
+The Ninth Circuit rule would create confusion in other 
+provisions as well. For instance, in the expedited review 
+provisions for capital cases under AEDPA, the tolling provi- 
+sion on the statute of limitations for filing the federal petition 
+is limited to a “first” state post-conviction proceeding, 28 
+U.S.C. § 2263(b)(2), while the statute of limitations is tolled 
+as to all other cases during the time any “properly filed” state 
+post-conviction petition is pending. 28 U.S.C. § 2244(d)(2). 
+This distinction would be unnecessary if the general provi- 
+sions did not contemplate that an exhaustion proceeding pur- 
+suant to Rose v. Lundy might be used; but if a federal 
+application filed after such an exhaustion proceeding would 
+be barred as a “second or successive” one, the distinction 
+made by the statute would be entirely superfluous.'* 
+
+An additional absurdity would arise in the cases of 
+habeas petitioners who seek relief from federal court because 
+of the ineffectiveness of state remedies, as in Brooks v. Jones, 
+875 F.2d 30 (2d Cir. 1989). Petitioner Brooks was convicted 
+of felonies in state court, and the state appellate court con- 
+sumed eight years in completing the briefing on direct appeal 
+
+
+13 Interpreting “second or successive” petition as the Farmer court 
+did would also render 28 U.S.C. § 2266(b)(3)(B) superfluous. That 
+provision applies the res judicata standards of 28 U.S.C. § 2244(b) to bar a 
+post-answer amendment to an application which is governed by the 
+expedited review procedures applicable in some capital cases. If failure to 
+include an unexhausted claim in an initial petition would bar post- 
+exhaustion review on that claim as a “second or successive” application, 
+under the Farmer definition, the bar on amendment would be redundant. 
+
+
+44 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+Carried to its logical extreme, the Ninth Circuit's rule 
+would also bar any amendment of a habeas petition. If the 
+claims presented in an initial petition limit all subsequent 
+litigation to those claims, and the presentation of any new 
+claims not in that petition (regardless of the absence of any 
+adjudication) constitutes a “second or successive” applica- 
+tion, then any pre-adjudication attempt to amend a habeas 
+
+
+45 
+
+
+petition would also be barred under the abuse doctrine. This 
+result should not occur, of course, because 28 U.S.C. § 2242 
+explicitly provides that an application for habeas corpus relief 
+“may be amended or supplemented as provided in the rules of 
+procedure applicable to civil actions;” and there is no provi- 
+sion of civil law which equates a pre-adjudication amendment 
+of a pleading with a new action that is commenced following 
+an adjudication and which is subject to the res judicata doc- 
+trine. See, e.g., Fed. R. Civ. P. 15(a) (amendment of complaint 
+as of right before filing of answer and with leave of court 
+thereafter); cf. Bonin v. Vasquez, 999 F.2d 425, 427 (9th Cir. 
+1993) (approving application of abuse of the writ standards to 
+post-judgment motion to amend under Fed. R. Civ. P. 60(b)); 
+28 U.S.C. § 2266(b)(3)(B) (limitation on amendment of 
+habeas petition after answer under expedited capital pro- 
+cedures). But the concern that the Ninth Circuit's preclusion 
+rule could be applied to bar even an amendment of a pending 
+petition is not fanciful, because one district court in the Ninth 
+Circuit has done exactly that. In Anthony v. Cambra, 21 
+F.Supp.2d 1094, 1095-96 (N.D. Cal. 1998), the district court 
+held a habeas petition in abeyance to allow the petitioner to 
+exhaust his state remedies as to some claims. Following 
+exhaustion proceedings, the Court refused to allow the peti- 
+tioner to amend the pending, unadjudicated petition to include 
+the exhausted claims, on the basis of the Farmer rule. Cf 
+Martinez-Villareal, 118 S.Ct. at 1624 (Scalia, J., dissenting) 
+(distinguishing between cases in which district court holds 
+petition in abeyance and those in which petition dismissed). 
+
+
+It is consistent with general principles to recognize that a 
+habeas application which is dismissed without prejudice has 
+no effect on subsequent proceedings: like an initial pleading 
+which is subsumed by an amended-one, e.g., Robinson v. 
+Willow Glen Academy, 895 F.2d 1168, 1169 (7th Cir. 1990), 
+an initial habeas application dismissed without prejudice is 
+superseded by a new application. See Stewart v. Martinez- 
+Villareal, 118 S.Ct. at 1625 (Thomas, J., dissenting). Since 
+
+
+46 
+
+
+the initial application has no significance in the new proceed- 
+ing, the post-exhaustion petition is the “first” federal habeas 
+petition; and every member of this Court has agreed that the 
+abuse of the writ doctrine simply does not apply to a first 
+petition. Lonchar v. Thomas, 517 U.S. at 330-331; id. at 341 
+(Rehnquist, C.J., concurring in judgment) (“a first habeas 
+petition may not be dismissed on the basis of the abuse of the 
+writ,” and there is “no other ground under which to dismiss a 
+first petition other than the merits”). The consistent construc- 
+tion of “second or successive” application by this and other 
+courts offers a reasonable alternative that avoids the uncon- 
+stitutional and absurd results produced by the Ninth Circuit 
+rule. This court should accordingly adhere to the universally- 
+accepted definition of “second or successive” application and 
+bring the Ninth Circuit into line with this Court's abuse of the 
+writ jurisprudence. 
+
+
+E. Current Rules, Statutes And Judicial Doctrines Pro- 
+vide The District Courts With Ample Authority To 
+Tailor The Proceedings To Prevent Misuse Of The 
+Exhaustion Process. 
+
+
+The Ninth Circuit's attempt to deviate from “formal judi- 
+cial, statutory, or rules-based doctrines of law” cannot survive 
+in light of the holding in Lonchar. But just as in Lonchar, 
+“this is not to say that a district court has no discretion,” 517 
+U.S. at 325, in dealing with any perceived problems arising 
+from the necessity of dismissing habeas petitions for exhaus- 
+tion. 
+
+
+It is clear that no such problems are presented here, 
+because Mr. Slack plainly has not engaged in any behavior the 
+Ninth Circuit's rule could legitimately be designed to prevent. 
+Mr. Slack had no incentive to delay adjudication by the 
+federal court of the claims asserted as to the validity of his 
+conviction and life sentence, and there is nothing in this 
+record that even suggests that he engaged in intentional delay. 
+But where a district court is faced with what it believes to be 
+misuse of the exhaustion procedures, current rules, statutes 
+
+
+47 
+
+
+and judicial doctrines provide ample authority to prevent such 
+misconduct, without deforming the clear, bright line rules on 
+exhaustion and abuse of the writ that this Court has developed 
+over the past century. 
+
+
+First, a district court had discretion, under pre-AEDPA 
+law, to summarily deny on the merits claims that are obvi- 
+ously without merit, even if they appear in a mixed petition. 
+See Granberry v. Greer, 481 U.S. 129, 134-135 (1987); Bailey 
+v. Crowley, 914 F.2d 1438, 1439 n.1 (9th Cir. 1990) (per 
+curiam). A court faced with a petition that has been “mixed” 
+by the addition of patently unmeritorious claims can thus 
+defeat an attempt to induce a round of exhaustion proceedings 
+intended merely for delay by summarily denying those 
+claims. That power has now been explicitly codified by 
+AEDPA. 28 U.S.C. § 2254(b)(2). 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+48 
+
+
+Cir. 1995); see also Calderon v. United States District Court 
+(Thomas), 144 F.3d 618 (9th Cir. 1998) (district court has 
+discretion to dismiss unexhausted claims in petition and hold 
+remainder of petition in abeyance pending completion of 
+exhaustion proceedings). This method of conditional dis- 
+missal removes the prospect of repeated dismissals for 
+exhaustion, without deforming the definition of a “second or 
+successive” petition beyond the res judicata principles recog- 
+nized in this Court's precedents, and it also would not com- 
+promise the effectiveness of the state court exhaustion 
+proceedings. 
+
+
+Third, under pre-AEDPA law, Rule 9(a) can be applied to 
+prevent a petitioner from engaging in intentional manipulative 
+delay in filing a habeas application by allowing dismissal 
+with prejudice when that delay has resulted in prejudice to the 
+State's ability to respond to the petition. Cf. Lonchar, 517 
+U.S. at 321 (no application of Rule 9(a), despite apparently 
+manipulative delay, where no prejudice to state alleged). 
+Under AEDPA, that problem should not arise because of the 
+one-year statute of limitations imposed by 28 U.S.C. 
+§ 2244(d)(1). 
+
+
+Fourth, although Nevada has not imposed clearly-estab- 
+lished, independent, categorical procedural bars to successive 
+state collateral review,'4 federal courts that sit in states which 
+have adopted such impediments to review can prevent multi- 
+ple exhaustion dismissals through the anticipatory application 
+of those default rules. Under Castille v. Peoples, 489 U.S. 
+346, 351-52 (1989), a federal court need not dismiss a mixed 
+petition where “it is clear that [the petitioner's otherwise 
+unexhausted] claims are now procedurally barred under 
+
+
+'* See Glauner v. State, 107 Nev. 482, 813 P.2d 1001 (1991) (per 
+cunam) (no statute of limitations in collateral proceedings); Pertgen v. 
+State, 110 Nev. 554, 875 P.2d 361, 364 (1994) (per curiam) (Nevada courts 
+examine merits of constitutional claim to determine if procedural bar 
+applies); compare McKenna v. McDaniel, 65 F.3d 1483, 1488-89 (9th Cir. 
+1995), with Moran v. McDaniel, 80 F.3d 1261, 1269-70 (9th Cir. 1996). 
+
+
+49 
+
+
+[state] law,” because “a habeas petitioner who has defaulted 
+his federal claims in state court meets the technical require- 
+ments for exhaustion; there are no state remedies any longer 
+“available” to him. Coleman v. Thompson, 501 U.S. 722, 732 
+(1991). Thus, where a clear state procedural rule would indis- 
+putably bar a habeas petitioner's unexhausted claims, a fed- 
+eral court can proceed immediately to adjudication without 
+requiring additional state court exhaustion proceedings. See 
+fn. 6, above. 
+
+The district courts accordingly have ample and adequate 
+means to deal with any problem which could arise as a result 
+of repeated dismissal for exhaustion proceedings when the 
+petitioner is acting merely to delay adjudication of the peti- 
+tion. To the extent that the Ninth Circuit sought to solve that 
+problem by adopting an idiosyncratic definition of “second or 
+successive” petition — a definition which is inconsistent with 
+established res judicata and exhaustion principles and which 
+has been rejected by every other court that has addressed the 
+issue — its action was unnecessary in practice as well as 
+impermissible under Lonchar. 
+
+
+50 
+
+
+VIII. 
+CONCLUSION 
+
+
+This Court should vacate the order of the Court of 
+Appeals for the Ninth Circuit and remand this case for further 
+proceedings in accordance with a determination that a habeas 
+corpus application cannot be treated as “second or succes- 
+sive,” where the initial petition was denied without prejudice 
+for failure to exhaust state remedies. 
+
+
+Respectfully submitted, 
+
+
+FraNNyY A. ForsMAN 
+
+Federal Public Defender 
+
+Joun C. LamBrose 
+
+DesoraH A. Trevino 
+
+Assistant Federal Public 
+Defenders 
+
+
+Tmworny P. O'’ Toor 
+Assistant Federal Public 
+Defender 
+
+
+Micuaer Pescerta 
+Assistant Federal Public 
+Defender 
+
+
+Dated: April 21, 1999 
+
+
+App. 1 
+
+
+APPENDIX TO BRIEF FOR PETITIONER 
+
+
+Rules Governing Section 2254 Cases, Rule 9. Delayed or 
+Successive Petitions. 
+
+
+(a) Delayed petitions. A petition may be dismissed 
+if it appears that the state of which the respondent is an 
+officer has been prejudiced in its ability to respond to the 
+petition by delay in its filing unless the petitioner shows 
+that it is based on grounds of which he could not have 
+had knowledge by the exercise of reasonable diligence 
+before the circumstances prejudicial to the state occurred. 
+
+
+(b) Successive petitions. A second or successive 
+petition may be dismissed if the judge finds that it fails to 
+allege new or different grounds for relief and the prior 
+determination was on the merits or, if new and different 
+grounds are alleged, the judge finds that the failure of the 
+petitioner to assert those grounds in a prior petition 
+constituted an abuse of the writ. 
+
+
+Former 28 U.S.C. § 2244. Finality of determination. 
+
+
+(a) No circuit or district judge shall be required to 
+entertain an application for a writ of habeas corpus to 
+inquire into the detention of a person pursuant to a 
+judgment of a court of the United States if it appears that 
+the legality of such detention has been determined by a 
+judge or court of the United States on a prior application 
+for a writ of habeas corpus and the petition presents no 
+new ground not theretofore presented and determined, 
+and the judge of court is satisfied that the ends of justice 
+will not be served by such inquiry. 
+
+
+App. 2 
+
+
+(b) When after an evidentiary hearing on the merits 
+of a material factual issue, or after a hearing on the merits 
+of an issue of law, a person in custody pursuant to the 
+judgment of a State court has been denied by a court of 
+the United States or a justice or judge of the United States 
+release from custody or other remedy on an application 
+for a writ of habeas corpus, a subsequent application for 
+a writ of habeas corpus in behalf of such person need not 
+be entertained by a court of the United States or a justice 
+or judge of the United States unless the application 
+alleges and is predicated on a factual or other ground not 
+adjudicated on the hearing of the earlier application for 
+the writ, and unless the court, justice, or judge is satisfied 
+that the applicant has not on the earlier application delib- 
+erately withheld the newly asserted ground or otherwise 
+abused the writ. 
+
+
+(c) Ina habeas corpus proceeding brought in behalf 
+of a person in custody pursuant to the judgment of a 
+State court, a prior judgment of the Supreme Court of the 
+United States on an appeal or review by a writ of cer- 
+tiorari at the instance of the prisoner of the decision of 
+such State court, shall be conclusive as to all issues of fact 
+or law with respect to an asserted denial of a Federal 
+right which constitutes ground for discharge in a habeas 
+corpus proceeding, actually adjudicated by the Supreme 
+Court therein, unless the applicant for the writ of habeas 
+corpus shall plead and the court shall find the existence 
+of a material and controlling fact which did not appear in 
+the record of the proceeding in the Supreme Court and 
+the court shall further find that the applicant for the writ 
+of habeas corpus could not have caused such fact to 
+
+
+App. 3 
+
+
+appear in such record by the exercise of reasonable dili- 
+
+
+gence. 
+
+
+Current 28 U.S.C. § 2244. Finality of determination. 
+
+
+(a) No circuit or district judge shall be required to 
+entertain an application for a writ of habeas corpus to 
+inquire into the detention of a person pursuant to a 
+judgment of a court of the United States if it appears that 
+the legality of such detention has been determined by a 
+judge or court of the United States on a prior application 
+for a writ of habeas corpus, except as provided in section 
+
+
+2255. 
+
+
+(b)(1) A claim presented in a second or successive 
+habeas corpus application under section 2254 that was 
+presented in a prior application shall be dismissed. 
+
+
+(2) A claim presented in a second or successive 
+habeas corpus application under section 2254 that was 
+not presented in a prior application shall be dismissed 
+
+
+unless -— 
+
+
+(A) the applicant shows that the claim relies on 
+a new rule of constitutional law, made retroac- 
+tive to cases on collateral review by the Supreme 
+Court, that was previously unavailable; or 
+
+
+(B)(i) the factual predicate for the claim could 
+not have been discovered previously through 
+the exercise of due diligence; and 
+
+
+(ii) the facts underlying the claim, if 
+proven and viewed in light of the evidence 
+as a whole, would be sufficient to establish 
+by clear and convincing evidence that, but 
+
+
+App. 4 
+
+
+for constitutional error, no reasonable fact- 
+finder would have found the applicant 
+guilty of the underlying offense. 
+
+
+App. 5 
+
+
+fs - F 
+
+
+(d)(1) A 1-year period of limitation shall apply to an 
+application for a writ of habeas corpus by a person in 
+custody pursuant to the judgment of a State court. The 
+
+
+(3)(A) Before a second or successive application 
+permitted by this section is filed in the district court, the 
+
+
+applicant shall move in the appropriate court of appeals 
+for an order authorizing the district court to consider the 
+application. 
+
+
+(B) A motion in the court of appeals for an 
+order authorizing the district court to consider a 
+second or successive application shall be deter- 
+
+
+mined by a three-judge panel of the court of 
+appeals. 
+
+
+(C) The court of appeals may authorize the 
+filing of a second or successive application only 
+if it determines that the application makes a 
+prima facie showing that the application .atis- 
+fies the requirements of this subsection. 
+
+
+(D) The court of appeals shall grant or deny 
+the authorization to file a second or successive 
+
+
+application not later than 30 days after the filing 
+of the motion. 
+
+
+(E) The grant or denial of an authorization by 
+a court of appeals to file a second or successive 
+
+
+limitation period shall run from the latest of - 
+
+
+(A) the date on which the judgment 
+became final by the conclusion of direct review 
+of the expiration of the time for seeking such 
+review; 
+
+
+(B) the date on which the impediment to 
+filing an application created by State action in 
+violation of the Constitution or laws of the 
+United States is removed, if the applicant was 
+prevented from filing by such State action; 
+
+
+(C) the date on which the constitutional 
+right asserted was initially recognized by the 
+Supreme Court, if the right has been newly rec- 
+ognized by the Supreme Court and made retro- 
+actively applicable to cases on collateral review; 
+or 
+
+
+(D) the date on which the factual predicate 
+of the claim or claims presented could have 
+been discovered through the exercise of due 
+diligence. 
+
+
+application shall not be appealable and shall not 
+be the subject of a petition for rehearing or for a 
+writ of certiorari. 
+
+
+(2) The time curing which a properly filed applica- 
+tion for State post-conviction or other collateral review 
+with respect to the pertinent judgment or claim is pend- 
+ing shall not be counted toward any period of limitation 
+
+
+(4) A district court shall dismiss any claim pre- 
+sented in a second or successive application that the court 
+of appeals has authorized to be filed unless the applicant 
+
+
+shows that the claim satisfies the requirements of this 
+section. 
+
+
+under this subsection. 
+
+

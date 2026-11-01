@@ -1,0 +1,294 @@
+{
+  "status": "PASS: non-Git mechanical Run checks",
+  "protected_unchanged": 73,
+  "new_records": [
+    {
+      "file": "beck-v-prupis_merits_2000-04-26.md",
+      "sha256": "360f6028dc418139623b2708911b5f44957f334aa8abed8e1f498cb167209295",
+      "explanation_words": [
+        270
+      ]
+    },
+    {
+      "file": "bond-v-united-states_merits_2000-04-17.md",
+      "sha256": "a90097b16a59944d986d6465630703d90e313d67f624317658b5ac8475b462d9",
+      "explanation_words": [
+        263
+      ]
+    },
+    {
+      "file": "christensen-v-harris-county_merits_2000-05-01.md",
+      "sha256": "25ad5c2f4ee4010d07e441848b862f2e1d5a4fc527fcd05eb439c6a885b0e74e",
+      "explanation_words": [
+        245,
+        115,
+        101
+      ]
+    },
+    {
+      "file": "doe-v-rosenberg_merits_2000-04-24.md",
+      "sha256": "5da85d1ac55b15ebe95620d7ab5af43935b71e6d9892219605943d7426cc8f52",
+      "explanation_words": [
+        263
+      ]
+    },
+    {
+      "file": "edwards-v-carpenter_merits_2000-04-25.md",
+      "sha256": "c6daf8fc8a0faebc80a4d60c5e5abf7ebe6f0ae16b830f5b629738cd627f315b",
+      "explanation_words": [
+        299
+      ]
+    },
+    {
+      "file": "gillespie-v-city-of-indianapolis_merits_2000-04-17.md",
+      "sha256": "716024ae1f821f029be6bb2cf80906ae4c372a0c97db5eb513aa34024fb2097d",
+      "explanation_words": [
+        251,
+        196,
+        223
+      ]
+    },
+    {
+      "file": "nelson-v-adams-usa-inc_merits_2000-04-25.md",
+      "sha256": "3a61dec7c7b045fb7af8fd83639d61afd940e4bef95e9d61c6d14f80abc80c27",
+      "explanation_words": [
+        277
+      ]
+    },
+    {
+      "file": "norfolk-southern-railway-co-v-shanklin_merits_2000-04-17.md",
+      "sha256": "43c947090fc17d824b4a729cd13d9d3fcc28fbcb487090b06d581933e01f5dd2",
+      "explanation_words": [
+        312
+      ]
+    },
+    {
+      "file": "reform-party-v-allegheny-county_merits_2000-04-10.md",
+      "sha256": "4e6976be4d7c77383afa7ac0631e156b0d577ef97d7f74b4a07feab7d19875f1",
+      "explanation_words": [
+        100,
+        206,
+        114
+      ]
+    },
+    {
+      "file": "slack-v-mcdaniel_merits_2000-04-26.md",
+      "sha256": "788834eb8c46545740e07899972ac1eeb6aea40c38e41b6a7252fcfbf6540395",
+      "explanation_words": [
+        113,
+        236,
+        222,
+        289
+      ]
+    },
+    {
+      "file": "williams-v-taylor-michael-wayne_merits_2000-04-18.md",
+      "sha256": "aa168269c3d2804fd35f41ee7202a9b6b37627a2230023282f73abd8511152a2",
+      "explanation_words": [
+        161,
+        106,
+        153,
+        149
+      ]
+    },
+    {
+      "file": "williams-v-taylor-terry-williams_merits_2000-04-18.md",
+      "sha256": "12b7d0c430b3d6c954cd62c9300270d504fca0f5116edeeeb6b8336c407ef389",
+      "explanation_words": [
+        209,
+        144,
+        244,
+        196,
+        292,
+        135
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "case": "Beck v. Prupis",
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last": "nelson-v-adams-usa-inc_merits_2000-04-25.md"
+    },
+    {
+      "case": "Bond v. United States",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 4,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last": "reform-party-v-allegheny-county_merits_2000-04-10.md"
+    },
+    {
+      "case": "Christensen v. Harris County",
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 7,
+        "Breyer": 6
+      },
+      "last": "slack-v-mcdaniel_merits_2000-04-26.md"
+    },
+    {
+      "case": "Doe v. Rosenberg",
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last": "williams-v-taylor-terry-williams_merits_2000-04-18.md"
+    },
+    {
+      "case": "Edwards v. Carpenter",
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 5,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last": "doe-v-rosenberg_merits_2000-04-24.md"
+    },
+    {
+      "case": "Gillespie v. City of Indianapolis",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last": "bond-v-united-states_merits_2000-04-17.md"
+    },
+    {
+      "case": "Williams v. Taylor (Michael Wayne Williams)",
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 6,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last": "norfolk-southern-railway-co-v-shanklin_merits_2000-04-17.md"
+    },
+    {
+      "case": "Nelson v. Adams USA, Inc.",
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last": "edwards-v-carpenter_merits_2000-04-25.md"
+    },
+    {
+      "case": "Reform Party of Allegheny County v. Allegheny County Department of Elections",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 4,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 4
+      },
+      "last": "powell-v-ridge_merits_2000-04-03.md"
+    },
+    {
+      "case": "Norfolk Southern Railway Co. v. Shanklin",
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 5,
+        "Ginsburg": 5,
+        "Breyer": 5
+      },
+      "last": "gillespie-v-city-of-indianapolis_merits_2000-04-17.md"
+    },
+    {
+      "case": "Slack v. McDaniel",
+      "counts": {
+        "Stone-Zsela": 6,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 6,
+        "Kennedy": 6,
+        "Souter": 6,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 6
+      },
+      "last": "beck-v-prupis_merits_2000-04-26.md"
+    },
+    {
+      "case": "Williams v. Taylor (Terry Williams)",
+      "counts": {
+        "Stone-Zsela": 5,
+        "Stevens": 5,
+        "O'Connor": 6,
+        "Scalia": 5,
+        "Kennedy": 5,
+        "Souter": 5,
+        "Thomas": 6,
+        "Ginsburg": 6,
+        "Breyer": 5
+      },
+      "last": "williams-v-taylor-michael-wayne_merits_2000-04-18.md"
+    }
+  ],
+  "prohibited_link_text_files_checked": 386,
+  "render_input_identity": "Exact",
+  "manifest_completed_chunk5": 12,
+  "public_render_created": false,
+  "git_verification": "Not run; operator reserved"
+}

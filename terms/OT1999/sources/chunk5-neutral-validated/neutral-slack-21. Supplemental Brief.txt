@@ -1,0 +1,642 @@
+Supreme Court, U.S. 
+
+
+n \) FILED 
+
+5 1% eww r/) 
+JAN 14 2000 
+
+No. 98-6322 
+
+SS  GLERK 
+In The 
+Supreme Court of the United States 
+e 
+ANTONIO TONTON SLACK, 
+Petitioner, 
+
+
+E.K. MCDANIEL, WARDEN, ELY (NEVADA) STATE 
+PRISON, and FRANKIE SUE DEL PAPA, ATTORNEY 
+GENERAL OF THE STATE OF NEVADA, 
+
+
+Respondents. 
+
+
+S 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Ninth Circuit 
+
+
++ 
+
+
+SUPPLEMENTAL REPLY BRIEF FOR PETITIONER 
+
+
+7 
+
+
+FRANNY A. ForsMAN 
+
+
+Federal Public Defender For the 
+
+
+District of Nevada 
+Tmotny P. O’Toore 
+*MICHAEL PEscETTA 
+
+
+Assistant Federal Public 
+
+
+Defenders 
+
+
+330 S. Third St., Ste. 700 
+Las Vegas, Nevada 89101 
+
+
+(702) 388-6577 
+*Counsel of Record 
+
+
+ee 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+Ill. 
+
+
+IV. 
+
+
+TABLE OF CONTENTS 
+
+
+Ee ey eee ee Se aes wl Hee SR OE ok ie 
+
+
+Any Argument Based on the Application of AEDPA 
+to This Case Has Been Waived By Respondents... 
+
+
+AEDPA’s Amendments To Chapter 153, Including 
+the Amendments To 28 U.S.C. §§ 2253 and 
+2244(b), Do Not Govern the Appellate Proceedings 
+In Mr. Slack’s Case, Which Was Commenced 
+OED EES Bk SH Sede a cekccsasndekhataaens 
+
+
+Assuming Arguendo That the Provisions of AEDPA 
+Apply to this Case, A Certificate of Appealability 
+May Properly Issue Under 28 U.S.C. § 2253(c) 
+Because Mr. Slack’s Case Involves the Denial of 
+Substantial Constitutional Rights, Which Can Be 
+Reviewed Only By First Addressing the Threshold 
+Procedural Issue Resolved by the District Court .. 
+
+
+Ce od te Bins SAC gin de meeadad ae hee 
+
+
+6 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Barefoot v. Estelle, 463 U.S. 880 (1983)........... passim 
+Blyew v. United States, 80 U.S. (13 Wall.) 581 (1871)..... 3 
+Bracy v. Gramley, 520 U.S. 899 (1997) ............ phos ee 
+Brown v. Allen, 344 U.S. 443 (1953)............. 00005. 4 
+Calderon v. Ashmus, 523 U.S. 740 (1998) .............. 4 
+Calderon v. Thompson, 118 S.Ct. 1489 (1998) .......... 5 
+Conroy v. Aniskoff, 507 U.S. 511 (1993). ..........6065. 8 
+Edelman v. Jordan, 415 U.S. 651 (1974) ............... 5 
+Edmonds v. Compagnie Generale Transatlantique, 
+ES IDL o ha Gdcbvoveséicvaviins# ccceeeee 8 
+Fource Glass Co. v. Transmirra Corp., 353 U.S. 222 
+Dia cdsnshoihe ss dhtus od) kee deat ageenepyecekpene 8 
+Hohn v. United States, 118 S.Ct. 1969 (1998)........... 4 
+Hohn v. United States, 524 U.S. 236 (1998) ....... 3, 5, 6 
+Hohn v. United States, 99 F.3d 892 (8th Cir. 1996)...... 4 
+Johnson v. United States, 196 F.3d 802 (7th Cir. 1999) ..... 4 
+Jones v. United States, 119 S.Ct. 1215 (1999) .......... 9 
+Lawrence v. Chater, 516 U.S. 163 (1996)............... 5 
+Lindh v. Murphy, 521 U.S. 320 (1997) ............ passim 
+Martin v. Hadix, 119 S.Ct. 1998 (1999) ................ 2 
+
+
+McElroy v. United States, 455 U.S. 642 (1982).......... S 
+
+
+“** 
+
+
+TABLE OF AUTHORITIES —- Continued 
+
+
+Page 
+Merrill Lynch, Pierce, Fenner & Smith v. Curran, 456 
+Se ST so dudadbeccseusededebedessctoosceeses 2 
+Russell v. United States, 507 F.2d 1029 (4th Cir. 
+RN ee ee ee ee ee 8 
+Stewart v. Martinez- Villareal, 523 U.S. 637, 118 S.Ct. 
+PSUs bdeeuchanetesGbaneupenseetencciced 4,7 
+Sutton v. United Air Lines, Inc., 119 S.Ct. 2139 
+DhKS wesneUenieee dé deeeuaseuedsenshbseevebes sce. ) 
+United States v. Dickey, 118 S.Ct. 2365 (1998) ....... 4.5 
+United States v. Gaubert, 499 U.S. 315 (1991).......... i) 
+Statutes AND RuLes 
+GL RG Kk da ch kuceumadncevedieinsecseches 2 
+Se Es CE wiicdbbabstadcwe va cdyesaéesaenses 2, 3 
+ee te IIE, « o cGuccusdcdovddavbacsesecaes 3 
+Se ee SI ds cenvtevésetanccnevessesecées 3 
+ae ey Oe nn Sti acdcicheteseduciesscctess 3 
+es Oe ss ccccuued heen ben 600 a0eecen ses 3 
+ee le Se Is Ch voces sotccsaraccdesnsees 9 
+th Tin Locdunchcabadbuseasdewesdhed 2,4, 5,9 
+ee a nies chk cock deedaenebeenawens 6, 7, 8 
+ae SE ces od eieetaveemadebaciacsegses 6, 7 
+ey Cee te CE So dae hic eden ro dbas evendddvedbsens 3 
+Be es Ae II 64 vind hnn Sb cvsec cic dd vecoewesees 3 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+SD De Be Sb abapacesctnceseevesis séevivks 3, 5, 8 
+Se Se. AOE OP Be eccndienté cvucuaee ben cedes comeune 8 
+ee ie OF Sou cnc nse dilieetiecmebudenenneekunt 3 
+eae UF SE ss Wocccckcccessccsdbsvesunmeaunte 3 
+ee Ws Ee SD diwoseeececesdscvencansebadeenead 3 
+ee Ce © CR ocutccesvecsundcceseeheceunn 3 
+ee ee 8 
+Se Gees OO Cag dadesncscecvedvavniecesedneues 3 
+See > Oe Sd bea Sic ensicsecacecssndecessnueee 3 
+Se Ce OP SI hobs pn cubdasdceconcassp bbveccine 3 
+Be Qe Oh ED eb sive’ nhctcaperslasinncndesenel 3 
+28 U.S.C. § 2266(b)(1).......... pevnesHiaseudd cadaded 3 
+BD Sel © BE ie ccc s os nsccebvemtensvecdsag 4 
+wes. R. Civ. Pues. TP ED... cc ccccccece: trrrtrte 4 
+OrHer PusiicaTions 
+Judicial Conference of the United States, Ad Hoe 
+Committee on Federal Habeas Corpus in Capital 
+Cases, Committee Report and Proposal (1989)........ 7 
+
+
+SE Cay Cee Gi Mek coded chbn cctccdnnceuned 7 
+
+
+I. INTRODUCTION 
+
+
+Petitioner Slack demonstrated in his supplemental brief 
+that the Anti-Terrorism and Effective Death Penalty Act of 
+1996 does not apply to the appellate proceedings in this case. 
+Even if it did, AEDPA does not alter the power of the federal 
+appellate courts to address procedural errors which bar review 
+of substantive claims. This Court accordingly has jurisdiction 
+to review the erroneous decision of the district court applying 
+the abuse of the writ doctrine, when Mr. Slack’s previous 
+petition had been dismissed without prejudice for exhaustion, 
+without any federal adjudication. The state respondents’ sup- 
+plemental brief and the briefs filed by the amici curiae do not 
+refute Mr. Slack’s arguments. 
+
+
+Il. ANY ARGUMENT BASED ON THE APPLICATION 
+OF AEDPA OF THIS CASE HAS BEEN WAIVED BY 
+RESPONDENTS 
+
+
+Following the injection of the issue of the application of 
+AEDPA to this case by the attorney general amici, petitioner 
+Slack noted that any such issue had been waived by the 
+failure of respondents to raise it at any point in the proceed- 
+ings. Pet. Reply Br. at 16-17. The supplemental briefs submit- 
+ted by the respondents and the amici curiae do not address the 
+issue of the state’s forfeiture of any right to rely on the 
+provisions of AEDPA, as a result of its failure to invoke the 
+statute at any point before oral argument in this Court and of 
+its affirmative assertion in its principal brief in this court that 
+AEDPA does not apply to this case. The failure of the respon- 
+dents to adidress this issue should be taken as a concession 
+that, if this court applies the same procedural rules to respon- 
+dents that it applies against habeas corpus petitioners, any 
+issue as to the application of AEDPA which does not impli- 
+cate the subject matter jurisdiction of this Court has been 
+waived. See Pet. Supp. Br. at 3-5. 
+
+
+2 
+
+
+Ill. ADEPA’S AMENDMENTS TO CHAPTER 153, 
+INCLUDING THE AMENDMENTS TO 28 U.S.C. 
+§§ 2253 AND 2244(b), DO NOT GOVERN THE APPEL- 
+LATE PROCEEDINGS IN MR. SLACK’S CASE, 
+WHICH WAS COMMENCED BEFORE APRIL 24, 
+1996 
+
+
+The AEDPA amendments to Chapter 153, including the 
+appeal and successor petition provisions, do not govern the appel- 
+late proceedings in this case. In Lindh v. Murphy, 521 U.S. 320 
+(1997), this Court held that the Chapter 153 provisions of the Act 
+do not apply to “cases pending” before its enactment, based on the 
+contrast with the explicit Congressional command to apply the 
+Chapter 154 provisions to “cases pending” at the time the Act took 
+effect. This case was pending in the district court at the time 
+AEDPA was enacted. 
+
+Amicus Criminal Justice Legal Foundation argues that Lindh 
+was wrongly decided and that its holding should not be applied to 
+any other provisions of Chapter 153. The primary authority on 
+which Criminal Justice Legal Foundation relies, however, is Martin 
+v. Hadix, 119 S.Ct. 1998 (1999), in which this Court approved of 
+the analysis of Lindh, based on the clear negative inference show- 
+ing the Congressional intent to apply only the provisions of Chap- 
+ter 154 to cases pending at the time of its enactment. /d. at 2005; 
+see id. at 2008 (Scalia, J., concurring in part and in judgment); id. 
+at 2011 (Ginsburg, J., dissenting). Martin thus forms no basis for 
+an argument that AEDPA applies to this case despite the holding in 
+Lindh that the Chapter 153 amendments of AEDPA do not apply to 
+cases pending at the time of its enactment. Further, Congress has 
+had ample time to amend the statute if it disapproved of the 
+interpretation of AEDPA adopted in Lindh, and it has not done so. 
+See, e.g., Merrill Lynch, Pierce, Fenner & Smith v. Curran, 456 
+U.S. 353, 384 (1982). 
+
+The state respondents argue that the post-AEDPA amendment 
+to Mr. Slack’s petition in the district court commences a new 
+“case” to which AEDPA applies. Resp. Supp. Br. at 9. Respondents 
+cite no legal authority in support of this proposition. There is no 
+authority suggesting that the amendment of a pleading in a pending 
+case begins a new case, and such a position is refuted by 28 U.S.C. 
+§ 2242, which provides that the rules generally applicable to 
+
+
+3 
+
+
+amendments of pleadings in civil cases apply to habeas pro- 
+ceedings. The brief of the United States as amicus curiae 
+thoroughly refutes the respondents’ argument, by demonstrat- 
+ing that their position is inconsistent with the ordinary use of 
+the word “case” adopted in other decisions of this Court;! 
+it is inconsistent with Congress’s use of the words “cases” 
+and “claim” in other provisions of AEDPA;? and it is 
+inconsistent with traditional habeas practice.’ See 
+
+
+' Hohn v. United States, 524 U.S. 236, 241 (1998) (“a proceeding 
+seeking relief for an immediate and redressable injury”); Blyew v. United 
+States, 80 U.S. (13 Wall.) 581, 595 (1871) (“a proceeding in court, a suit, or 
+action.”) 
+
+
+2 See, e.g., 28 U.S.C. §§ 2244(b) and (d)(1); 28 U.S.C. §§ 2254(d) 
+and (e)(2); 28 U.S.C. § 2255; 28 U.S.C. §§ 2261(a), (d) and (e); 28 U.S.C. 
+§ 2262(c); 28 U.S.C. § 2264; 28 U.S.C. §§ 2265(b) and (c); 28 U.S.C. 
+§ 2266(b)(1). When Congress used “case” in other provisions of AEDPA, it 
+employed that word in its ordinary sense, to refer to a judicial proceeding 
+or action. See, e.g., 28 U.S.C. 2244(b)(2)(A) (“a new rule of constitutional 
+law, made retroactive to cases on collateral review by the Supreme Court”); 
+28 U.S.C. 2261(e) (“a capital case”); 28 U.S.C. 2262(c) (“no Federal court 
+thereafter shall have the authority to enter a stay of execution in the case”’); 
+28 U.S.C. § 2262(b)(1)(B) (if necessary, district court shall afford a hearing 
+before “submission of the case for decision”). Congress used the word 
+“claim” to refer to a legal basis for relief within a “case.” See, e.g., 28 
+U.S.C. §§ 2244(b)(1) and (2) (“[a] claim represented in a second or 
+successive habeas corpus application”); 28 U.S.C. § 2254(e)(2) (if 
+applicant “failed to develop the factual basis of a claim in State court 
+proceedings,” court shall not hold an evidentiary hearing unless specified 
+conditions are met). Because Congress clearly differentiated throughout 
+AEDPA between “case” and “claim” in this manner, if Congress had meant 
+AEDPA’s application to turn on whether a particular claim was pending on 
+enactment rather than on whether the habeas proceeding was pending, 
+Congress presumably would have used “claim” rather than “case” in 
+Section 107(c)’s timing provision. The use of the term “case” clearly 
+indicates Congress’ intent to have the Chapter 153 amendments apply only 
+to “cases” that were pending on the date of AEDPA’s enactment, not 
+merely to “claims.” 
+
+
+3 The Solicitor General recognizes that courts have not viewed 
+amendments to pending pre-adjudication habeas petitions as new cases 
+
+
+4 
+
+
+U.S. Br. at 15-18. Respondents’ argument on this point must 
+be rejected.4 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+Respondents also do not discuss the post-Hohn decision in 
+United States v. Dickey, 118 S.Ct. 2365 (1998), in which this Court 
+
+
+granted certiorari, vacated a lower court decision applying the 
+AEDPA amendment to § 2253 in a § 2255 case in which the appeal 
+
+
+subject to the limitations on second or successive petitions, but instead 
+have permitted amendments under Federal Rule of Civil Procedure 15. See 
+Johnson v. United States, 196 F.3d 802, 804 (7th Cir. 1999); see also 
+Calderon v. Ashmus, 523 U.S. 740, 750 (1998) (Breyer, J., concurring). 
+Congress also treated amendments as part of the overall habeas “case” 
+when it subjected only amendments in capital cases governed by the new 
+Chapter 154 provisions to AEDPA’s limitations on second or successive 
+petitions. See 28 U.S.C. § 2266(b)(3)(B). This is another reason why the 
+state respondents’ focus on individual claims cannot be correct. 
+
+
+4 Notably, the state does not acknowledge that application of AEDPA 
+to the question originally presented in this case would mean that petitioner 
+would prevail. As petitioner pointed out in his principal brief, every 
+decision, including this Court’s decision in Stewart v. Martinez- Villareal, 
+523 U.S. 637, 118 S.Ct. 1618 (1998), holds that the dismissal of a petition 
+without prejudice for exhaustion does not make a subsequent petition 
+“second or successive” under AEDPA. Pet. Br. at 33-36. 
+
+
+5 
+
+
+was filed after the adoption of AEDPA, and remanded for recon- 
+sideration in light of Lindh. The GVR order in Dickey makes sense 
+only as an acknowledgment that § 2253 does not apply to any case 
+commenced before AEDPA’s enactment, even if the appellate 
+proceedings begin afterward.> This position has been followed by 
+virtually every court of appeals. See Pet. Supp. Br. at 7-10 & n.8. 
+In short, Hohn did not resolve this issue, but, in combination, 
+Lindh and Dickey do. 
+
+The filing of the request for a certificate of probable cause 
+after AEDPA does not start a new “case” for the purposes of 
+applying AEDPA. The Solicitor General does not discuss the 
+authorities holding that a “case,” once begun, continues throughout 
+the appellate proceedings. Pet. Supp. Br. at 6; see also Calderon v. 
+Thompson, 118 S.Ct. 1489, 1502 (1998) (treating post-AEDPA 
+recall of mandate as part of pre-AEDPA case); cf. U.S. Br. at 10 
+(citing dictionary definition of action as “pending from its incep- 
+tion until the rendition of final judgment.”). An application for a 
+certificate of probable cause (or certificate of appealability) is the 
+means of bringing the “case” from the district court to the Court of 
+Appeals, along with the notice of appeal which is necessary to 
+invest the Court of Appeals with jurisdiction. The application to the 
+Court of Appeals has no independent significance: granting or 
+denying the certificate is based on the substantiality of the issues in 
+the record of the case before the district court; and if the district 
+court issued the certificate, there would be no doubt that the appeal 
+is a continuation of the district court case. The fact that the 
+application for a certificate means there is a case “in” the Court of 
+
+
+5 A GVR order, like other summary action by this Court, may have 
+limited precedential value. See Edelman v. Jordan, 415 U.S. 651, 671 
+(1974) (summary affirmances). Nevertheless, it is a disposition of the case 
+by this Court, an “alternative to summary reversal,” Lawrence v. Chater, 
+516 U.S. 163, 168 (1996) (per curiam); id. at 178 n.i (Scalia, J., 
+dissenting), based on this Court's determination that intervening events, 
+such as a new decision of this Court “cast substantial doubt on the 
+correctness of the lower court’s . . . decision.” /d. at 170; see id. at 176 
+(Rehnquist, C.J., concurring); id. at 191-192 (Scalia, J., dissenting) (GVR 
+proper when intervening factor has “legal bearing upon the decision’’). 
+
+
+6 
+
+
+Appeals under this Court’s decision in Hohn does not mean that it 
+is a new case somehow different from the one before the district 
+court. 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+IV. ASSUMING ARGUENDO THAT THE PROVISIONS 
+OF AEDPA APPLY TO THIS CASE, A CERTIFICATE 
+OF APPEALABILITY MAY PROPERLY ISSUE 
+UNDER 28 U.S.C. § 2253(c) BECAUSE MR. SLACK’S 
+CASE INVOLVES THE DENIAL OF SUBSTANTIAL 
+CONSTITUTIONAL RIGHTS, WHICH CAN BE 
+REVIEWED ONLY BY FIRST ADDRESSING THE 
+THRESHOLD PROCEDURAL ISSUE RESOLVED BY 
+THE DISTRICT COURT 
+
+
+Respondents argue, essentially without legal analysis, that the 
+AEDPA amendment to 28 U.S.C. § 2253(c) abolishes any jurisdic- 
+tion to review procedural errors committed by the district court in 
+an appeal by the petitioner, because it provides that a certificate of 
+appealability will issue upon a “substantial showing of the denial 
+of a constitutional right.” Neither respondents, nor the amici state 
+attorneys general who first made this claim, explain how the 
+
+
+| 
+
+
+7 
+
+
+Congressional intent that “[hjabeas corpus reform must not dis- 
+courage legitimate petitions that are clearly meritorious and 
+deserve close scrutiny,” Resp. Supp. Br. at 12, quoting 141 Cong. 
+Rec. § 4596 (Senator Hatch), would be forwarded by precluding 
+review to correct procedural errors which prevent meritorious 
+claims from being addressed.® As the Solicitor General points out, 
+such a scheme could only lead to confusion on procedural ques- 
+tions, U.S. Br. at 23, which Congress could not have intended. 
+Petitioner showed in his supplemental brief that the use of the term 
+“constitutional mght” in § 2253(c) must be taken as a shorthand 
+reference to violations of the “Constitution or laws or treaties of 
+the United States.” 28 U.S.C. § 2254(a). The indiscriminate use of 
+the terms “constitutional” and “federal” in the AEDPA amend- 
+ments compels the conclusion that Congress did not intend to alter 
+the existing substantive standard for certificates of probable cause 
+under Barefoot v. Estelle, 463 U.S. 880 (1983). See Pet. Supp. Br. 
+at 18-20, App. 3-5. Neither respondents nor amici make any 
+attempt to analyze the irreconcilably inconsistent use of these terms 
+in AEDPA; nor do they explain why, for instance, a petitioner in an 
+opt-in jurisdiction would be entitled to a stay of execution through- 
+out the proceedings on a showing of denial of a “federal right,” 28 
+
+
+© The respondents and amici rely upon general congressional 
+statements in favor of habeas reform as a justification for interpreting all 
+provisions of AEDPA as intended to give every habeas petitioner, in 
+essence, the bum’s rush. To the contrary, Congressional reform of habeas 
+procedures was intended to preserve access to one full and fair round of 
+federal habeas review: that was the basic thrust of the Powell Committee 
+report, which stimulated calls for habeas reform. See Judicial Conference 
+of the United States, Ad Hoc Committee on Federal Habeas Corpus in 
+Capital Cases, Committee Report and Proposal 6, 15 (1989). In fact, 
+Congress did not adopt one proposed provision which suggested that the 
+courts should interpret the opt-in provisions of AEDPA in favor of speed 
+rather than fairness. See H.R. 729, 104th Cong. (1995) (proposed § 2263) 
+(“This chapter shall be construed to promote the expeditious conduct and 
+conclusion of State and Federal court review in capital cases.”) This Court 
+has also rejected a “seemingly perverse” interpretation of AEDPA, Stewart 
+v. Martinez-Villareal, 118 S.Ct. at 1621, even though the proffered 
+interpretation would have reduced the volume of habeas litigation. 
+
+
+8 
+
+
+U.S.C. § 2262(b)(2), if there could be no appeal on the basis of 
+denial of such a right under § 2253(c).’? Reviewing the statute as a 
+whole, see Conroy v. Aniskoff, 507 U.S. 511, 515 (1993), the 
+confusion in these provisions is evident: what is absent is any 
+evidence of Congressional intent to change the substantive standard 
+of Barefoot. Fourco Glass Co. v. Transmirra Corp., 353 U.S. 222, 
+227 (1957) (“it will not be inferred that Congress, in revising and 
+consolidating the laws, intended to change their effect unless such 
+intention is clearly expressed.”).® 
+
+
+In this case, Mr. Slack alleged substantial constitutional claims 
+in his amended petition. The state did not oppose issuance of a 
+certificate of probable cause on the ground that the underlying 
+claims were insubstantial, but only on the ground that the pro- 
+cedural abuse of the writ question was insubstantial. JA 186-194; 
+see p. 1, above; Pet. Supp. Br. at 3-5.9 The Solicitor General, and 
+
+
+? The point is further demonstrated by the application of the 
+certificate provision to proceedings under 28 U.S.C. § 2255. Motions under 
+§ 2255 are clearly proper to correct non-constitutional errors. 28 U.S.C. 
+§ 2255] 1; see, e.g., Russell v. United States, 507 F.2d 1029, 1032 (4th Cir. 
+1974). There is no evidence of any Congressional intent to bar review of 
+substantive errors in federal sentencing by means of the amendment to 
+§ 2253(c). 
+
+
+8 The language of AEDPA is not a change in previous statutory 
+language, which might furnish some evidence of an intent to alter the 
+meaning of an existing provision. See McElroy v. United States, 455 U.S. 
+642, 650 n. 14 (1982). Rather, Congress was apparently attempting to 
+codify the judicial standard of Barefoot, which was stated in a variety of 
+ways in Barefoot itself; and the legislative history indicates an intent to 
+adhere to the standard of Bevefoot with an additional intent only to require 
+specification by the court of the issues which met the standard. See Pet. 
+Supp. Br. at 16-20. If Congress had intended the radical change in habeas 
+practice suggested by respondents, it is highly unlikely that no mention of 
+it would have been made in the legislative history. Edmonds v. Compagnie 
+Generale Transatlantique, 443 U.S. 256, 266-267 (1979) (“silence is most 
+eloquent, for such reticence while contemplating an important and 
+controversial change in existing law is unlikely.” [Footnote omitted]). 
+
+
+® Contrary to the suggestion of amici, see CJLF Br. at 15; U.S. Br. at 
+21-22, a showing of merit as to an underlying substantive claim cannot be 
+
+
+9 
+
+
+even amicus Criminal Justice Legal Foundation, agree that there is 
+no indication in AEDPA of Congressional intent to take the radical 
+step of barring all review of procedural issues at the bequest of a 
+habeas petitioner. See Jones v. United States, 119 S.Ct. 1215, 1220 
+(1999); U.S. Br. at 22-23; CJLF Br. at 13. Mr. Slack has demon- 
+strated that the district court erred in dismissing his amended 
+petition under the abuse of the writ doctrine, and that is a “question 
+of some substance” which presents “issues debatable among jurists 
+of reason.” Barefoot, 463 U.S. at 893 and n.4 (citations omitted). 
+Accordingly, even if the appeal provisions of AEDPA do apply 
+here, Mr. Slack’s case is properly before this Court under the 
+substantive standard of Barefoot, which AEDPA codifies. 
+
+
+[Paragraph screened from neutral copy because it may describe Supreme Court petition treatment or procedural action. Obtain sanitized objective facts separately if necessary.]
+
+
+required as a condition of issuing a certificate of appealability, when 
+procedural error has prevented the petitioner from making any such 
+showing. Mr. Slack’s petition was disposed of on a motion to dismiss, in 
+which the allegations of the petition must be taken as true. E.g., Sutton v. 
+United Air Lines, Inc., 119 S.Ct. 2139, 2143 (1999); United States v. 
+Gaubert, 499 U.S. 315, 327 (1991). The district court's error in finding the 
+petition barred as “second or successive” prevented any litigation or 
+evaluation of the merits of petitioner’s claims. As in Bracy v. Gramley, 520 
+U.S. 899 (1997), a petitioner cannot be required to prove the underlying 
+claim before obtaining review of the procedural error — denial of discovery 
+in Bracy — which prevents him from proving the claim. 
+
+
+10 
+
+
+discovery rules, does not deprive a petitioner of any “federal right” 
+or “constitutional mght” unless it prevents examination of the 
+underlying substantive claim. Thus, under respondents’ analysis, 
+Barefoot should not have allowed federal appellate review of 
+procedural errors because such errors did not amount to “a substan- 
+tial showing of a denial of a federal right,” Barefoot, 463 U.S. at 
+893. 
+
+But Barefoot did allow appeals on “debatable” procedural 
+issues, as respondents and amici do not dispute, and it did so 
+because a procedural error that prevents consideration of the 
+underlying right results in the “denial” of the underlying right 
+itself. Thus, even if respondents and their amici were correct that 
+Congress’ use of the term “constitutional” was meant to alter the 
+Barefoot standard, the most it can mean is that Congress limited 
+the types of substantive issues susceptible to review, while permit- 
+ting the federal appellate courts to address procedural issues that 
+prevent consideration of those substantive claims. That distinction 
+would not affect Mr. Slack’s case, because the substantive claims 
+contained in his petition rest on federal constitutional grounds. 
+
+
+Vv. CONCLUSION 
+
+
+AEDPA does not control any portion of this case. Even if it 
+did, the new Act does not prevent this Court from addressing the 
+procedural issues presented by Mr. Slack’s case, and Mr. Slack has 
+not filed a “second or successive” application for habeas corpus 
+under either the pre-AEDPA law (which properly applies to his 
+case) or under AEDPA. This Court should accordingly vacate the 
+order of the Court of Appeals denying the certificate of probable 
+cause, and remand the case for further proceedings. 
+
+DATED this 13th day of January, 2000. 
+
+Respectfully submiued, 
+
+
+FRANNY A. ForRSMAN 
+4 | Federal Public Defender For the District of Nevada 
+// Timotuy P. O’TooLe 
+—S *MICHAEL PEsCETTA 
+Assistant Federal Public Defenders 
+330 S. Third St., Ste. 700 
+Las Vegas, Nevada 89101 
+(702) 388-6755 
+*Counsel of Record 
+
+
