@@ -1,0 +1,66 @@
+{
+  "before": "2000-03-06",
+  "events": [
+    {
+      "date": "2000-02-22",
+      "case": "Baral v. United States; No. 98-1667",
+      "record": "baral-v-united-states_merits_2000-02-22.md",
+      "sha256": "031967aa362d47980d3d5ec6c929df521de655be1fa5da349728a6559c655104"
+    },
+    {
+      "date": "2000-02-22",
+      "case": "Hunt-Wesson, Inc. v. Franchise Tax Board of California; No. 98-2043",
+      "record": "hunt-wesson-v-franchise-tax-board_merits_2000-02-22.md",
+      "sha256": "2d6ee3f95e9127f386c5e1dd7893ed7f173de8fcea9cefef41ac0e7c353dbd27"
+    },
+    {
+      "date": "2000-02-22",
+      "case": "Weisgram v. Marley Co.; No. 99-161",
+      "record": "weisgram-v-marley_merits_2000-02-22.md",
+      "sha256": "cc036875283da822c122423fc99000c9234de5c97dcb63113dc2d52a034a9996"
+    },
+    {
+      "date": "2000-02-23",
+      "case": "Rice v. Cayetano; No. 98-818",
+      "record": "rice-v-cayetano_merits_2000-02-23.md",
+      "sha256": "f4e07425153d86bf14834bcd54f4c013cb0da704ca67fe8bdb23d542c50c9875"
+    },
+    {
+      "date": "2000-02-23",
+      "case": "Roe v. Flores-Ortega; No. 98-1441",
+      "record": "roe-v-flores-ortega_merits_2000-02-23.md",
+      "sha256": "0af73a7e1acca497d32461fa2003854dd72d287c63f71ed219eee3dbf7dcc6ba"
+    },
+    {
+      "date": "2000-02-23",
+      "case": "Rotella v. Wood; No. 98-896",
+      "record": "rotella-v-wood_merits_2000-02-23.md",
+      "sha256": "a2018e99e51566e687182508fbf014fc65b6abcbc309caae508a9f49362e7181"
+    },
+    {
+      "date": "2000-02-23",
+      "case": "Village of Willowbrook v. Olech; No. 98-1288",
+      "record": "village-of-willowbrook-v-olech_merits_2000-02-23.md",
+      "sha256": "273b9317c88eab53c3455039386c13dec2ee6d0c03f7fc9b48968750306306bb"
+    },
+    {
+      "date": "2000-02-28",
+      "case": "Strout v. Albanese; review of 178 F.3d 57 (1st Cir. 1999)",
+      "record": "strout-v-albanese_merits_2000-02-28.md",
+      "sha256": "620fdfffb49f12b46bd8c6d4084a9726e835fa679ff4f70792dc20469ac2f8e1"
+    },
+    {
+      "date": "2000-02-29",
+      "case": "Shalala v. Illinois Council on Long Term Care, Inc.; No. 98-1109",
+      "record": "shalala-v-illinois-council_merits_2000-02-29.md",
+      "sha256": "01fb693a23e7404e08693b4d4a2263c1d3bb0e226f544802dfe4bce3bd537233"
+    },
+    {
+      "date": "2000-03-01",
+      "case": "United States v. Johnson; No. 98-1696",
+      "record": "united-states-v-johnson_merits_2000-03-01.md",
+      "sha256": "7bc57fab48e39ec35a6207ad18682c2a95dd05a075fc1edcc691d00ad0fa5f28"
+    }
+  ],
+  "public_projection_copy_only": true
+}

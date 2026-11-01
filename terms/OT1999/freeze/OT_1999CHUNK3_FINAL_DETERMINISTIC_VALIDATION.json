@@ -1,0 +1,327 @@
+{
+  "completed_chunk_events": 12,
+  "stopped_matters": [],
+  "records": [
+    {
+      "record": "baral-v-united-states_merits_2000-02-22.md",
+      "effective_date": "2000-02-22",
+      "case": "Baral v. United States",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 1,
+        "Stevens": 2,
+        "O'Connor": 3,
+        "Scalia": 3,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        111,
+        134
+      ],
+      "sha256": "031967aa362d47980d3d5ec6c929df521de655be1fa5da349728a6559c655104"
+    },
+    {
+      "record": "hunt-wesson-v-franchise-tax-board_merits_2000-02-22.md",
+      "effective_date": "2000-02-22",
+      "case": "Hunt-Wesson, Inc. v. Franchise Tax Board of California",
+      "authors": [
+        "Kennedy"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 2,
+        "O'Connor": 3,
+        "Scalia": 3,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        126,
+        147
+      ],
+      "sha256": "2d6ee3f95e9127f386c5e1dd7893ed7f173de8fcea9cefef41ac0e7c353dbd27"
+    },
+    {
+      "record": "weisgram-v-marley_merits_2000-02-22.md",
+      "effective_date": "2000-02-22",
+      "case": "Weisgram v. Marley Co.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 2,
+        "O'Connor": 3,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        133,
+        144
+      ],
+      "sha256": "cc036875283da822c122423fc99000c9234de5c97dcb63113dc2d52a034a9996"
+    },
+    {
+      "record": "rice-v-cayetano_merits_2000-02-23.md",
+      "effective_date": "2000-02-23",
+      "case": "Rice v. Cayetano",
+      "authors": [
+        "Thomas"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 2,
+        "O'Connor": 3,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        218
+      ],
+      "sha256": "f4e07425153d86bf14834bcd54f4c013cb0da704ca67fe8bdb23d542c50c9875"
+    },
+    {
+      "record": "roe-v-flores-ortega_merits_2000-02-23.md",
+      "effective_date": "2000-02-23",
+      "case": "Roe v. Flores-Ortega",
+      "authors": [
+        "O'Connor"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 2,
+        "O'Connor": 3,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 2,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        105,
+        128,
+        71,
+        146,
+        120
+      ],
+      "sha256": "0af73a7e1acca497d32461fa2003854dd72d287c63f71ed219eee3dbf7dcc6ba"
+    },
+    {
+      "record": "rotella-v-wood_merits_2000-02-23.md",
+      "effective_date": "2000-02-23",
+      "case": "Rotella v. Wood",
+      "authors": [
+        "Souter"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 2,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 2,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        189,
+        146
+      ],
+      "sha256": "a2018e99e51566e687182508fbf014fc65b6abcbc309caae508a9f49362e7181"
+    },
+    {
+      "record": "village-of-willowbrook-v-olech_merits_2000-02-23.md",
+      "effective_date": "2000-02-23",
+      "case": "Village of Willowbrook v. Olech",
+      "authors": [
+        "Stevens"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 2,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 3,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        229
+      ],
+      "sha256": "273b9317c88eab53c3455039386c13dec2ee6d0c03f7fc9b48968750306306bb"
+    },
+    {
+      "record": "strout-v-albanese_merits_2000-02-28.md",
+      "effective_date": "2000-02-28",
+      "case": "Strout v. Albanese",
+      "authors": [
+        "Souter"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 3,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        149,
+        143,
+        76
+      ],
+      "sha256": "620fdfffb49f12b46bd8c6d4084a9726e835fa679ff4f70792dc20469ac2f8e1"
+    },
+    {
+      "record": "shalala-v-illinois-council_merits_2000-02-29.md",
+      "effective_date": "2000-02-29",
+      "case": "Shalala v. Illinois Council on Long Term Care, Inc.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 4,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        117,
+        175,
+        91
+      ],
+      "sha256": "01fb693a23e7404e08693b4d4a2263c1d3bb0e226f544802dfe4bce3bd537233"
+    },
+    {
+      "record": "united-states-v-johnson_merits_2000-03-01.md",
+      "effective_date": "2000-03-01",
+      "case": "United States v. Johnson",
+      "authors": [
+        "Kennedy"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 3,
+        "Stevens": 3,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 3,
+        "Souter": 4,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        149,
+        105
+      ],
+      "sha256": "7bc57fab48e39ec35a6207ad18682c2a95dd05a075fc1edcc691d00ad0fa5f28"
+    },
+    {
+      "record": "portuondo-v-agard_merits_2000-03-06.md",
+      "effective_date": "2000-03-06",
+      "case": "Portuondo v. Agard",
+      "authors": [
+        "Kennedy"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 3,
+        "Stevens": 3,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 4,
+        "Souter": 4,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        105,
+        123
+      ],
+      "sha256": "b327d5bca95ea2a3cbe9bd34f61009dd9f5bb6b9678f20573b807baaba268ca6"
+    },
+    {
+      "record": "united-states-v-locke-intertanko-v-locke_merits_2000-03-06.md",
+      "effective_date": "2000-03-06",
+      "case": "United States v. Locke / International Association of Independent Tanker Owners v. Locke",
+      "authors": [
+        "Ginsburg"
+      ],
+      "counts_before": {
+        "Stone-Zsela": 3,
+        "Stevens": 3,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 5,
+        "Souter": 4,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        159,
+        121,
+        162,
+        171
+      ],
+      "sha256": "4bcf6a6973029c61cd4653673ce1c52f9c566d71f55b0d044ce029160a27a098"
+    }
+  ],
+  "protected_files_unchanged": 64,
+  "exact_public_projection_render_identity": true,
+  "ledger_complete_unique": 39,
+  "manifest_chunk3_complete": true,
+  "continuity_seven_blocks": true,
+  "freeze_runtime_identity": [
+    "EARLY_COMMITMENTS",
+    "LATER_COMMITMENTS",
+    "EARLY_RECONCILED",
+    "LATER_RECONCILED",
+    "COMMITMENTS",
+    "NEUTRAL"
+  ],
+  "final_counted_leads": {
+    "Stone-Zsela": 3,
+    "Stevens": 3,
+    "O'Connor": 4,
+    "Scalia": 3,
+    "Kennedy": 5,
+    "Souter": 4,
+    "Thomas": 3,
+    "Ginsburg": 4,
+    "Breyer": 3
+  },
+  "total_counted_leads": 32,
+  "broken_relative_links": [],
+  "git": "No command invoked; commit existence and repository provenance reserved to operator",
+  "render_task": "No public chunk3 render written"
+}

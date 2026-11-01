@@ -1,0 +1,2102 @@
+In The 
+Supreme Court of the United States 
+
+
+© 
+
+
+LEONARD PORTUONDO, SUPERINTENDENT, 
+FISHKILL CORRECTIONAL FACILITY, 
+
+
+Petitioner, 
+v. 
+RAY AGARD, 
+Respondent. 
+
+
+BRIEF OF RESPONDENT 
+
+
+Beverty Van Ness* 
+Attorney at Law 
+
+377 Broadway 
+
+9th Floor 
+
+New York, NY 10013 
+(212) 274-0402 
+
+
+< “Counsel of Record 
+
+
+Oca PEEP hen 
+
+
+QUESTION PRESENTED 
+
+
+Whether the court of appeals correctly held that it is 
+constitutional error to draw an adverse inference against 
+a testifying defendant without any proof of tailoring, 
+based solely on the exercise of his rights to be present 
+and to confront his accusers. 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+STATEMENT OF THE CASE...........seeseeseseees 1 
+The Complainants’ Allegations..... oobeebeneeas 1 
+Respondent's Testimony ..........---5eeeeeeeeeeees 2 
+The Medical Evidence ........ccccessccecesscsssess 3 
+Prosecutor’s Remarks on Summation........ shewmee 4 
+The Charge, Deliberations and Verdict ............. 5 
+SUMMARY OF ARGUMENT. ............-+-eeeeeee 6 
+ARGUMENT ......ssccscssscceccesseuseennnenaaan 8 
+
+
+THE COURT OF APPEALS CORRECTLY HELD 
+THAT IT IS CONSTITUTIONAL ERROR TO DRAW 
+AN ADVERSE INFERENCE AGAINST A TESTIFY- 
+ING DEFENDANT WITHOUT ANY PROOF OF TAI- 
+LORING, BASED SOLELY ON THE EXERCISE OF 
+HIS RIGHTS TO BE PRESENT AND TO CONFRONT 
+HIS ACCUGERS .....cccssscccecesseeneheneennaen 
+
+
+1. 
+
+
+Comments which invite the jury to draw an 
+adverse inference against the defendant solely 
+due to his exercise of his Sixth Amendment 
+rights should be prohibited ................... 
+
+
+A. The court of appeals properly determined 
+that respondent’s Sixth Amendment rights 
+were violated by the prosecutor’s com- 
+ments on summation, which significantly 
+burdened his right to be present without 
+advancing any legitimate state interest. ... 
+
+
+9 
+
+
+Il. 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+B. The violation of respondent's Sixth Amend- 
+ment rights was particularly egregious 
+because the prosecutor did not merely note 
+respondent's opportunity to tailor but affir- 
+matively accused him of doing so, with no 
+supporting evidence and based solely upon 
+the assertion of his right to be present.... 
+
+
+C. This Court’s decision in Griffin v. California 
+mandates affirmance of the judgment below 
+
+
+*e*eeeeeneeeeeeeeeeeeeeeneeneeneeeneeneeern rere rere revere 
+
+
+D. This Court’s decision in Reagan v. United 
+States does not support petitioner’s conten- 
+tion that it can impugn the credibility of all 
+defendants based solely on the exercise of 
+their Sixth Amendment rights ............ 
+
+
+The court of appeals correctly held that respon- 
+dent’s Fifth Amendment rights were also vio- 
+lated by the prosecutor’s comments........... 
+
+
+The court of appeals’ conclusion that the 
+prosecutor's tailoring argument also violated 
+respondent’s Fourteenth Amendment rights 
+to due process and a fair trial is not proper- 
+ly before this Court and is, in any event, 
+PPEGiE dedbGGesabecensccencceceecccecs 
+
+
+A. Because petitioner did not seek review of 
+the court of appeals’ holding that the pros- 
+ecutor’s summation comments violated due 
+process, that holding is an independent 
+basis for the judgment below, which should 
+DE ciakeeddhesbccevcccccecvccocce 
+
+
+25 
+
+
+27 
+
+
+29 
+
+
+iv 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+B. The court of appeals’ finding of a due pro- 
+cess violation was, in any event, completely 
+SSMS... ccosccceversecsccenscoeenseesese 37 
+
+
+C. Since respondent was compelled by law to 
+attend his trial, the prosecutor’s adverse 
+comments on his exercise of the right to be 
+
+resent violated fundamental notions of 
+airness and offended due process........ 41 
+
+
+COTE ccc ccccdccccsccnccosesencccessbeeess 44 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Allison v. United States, 160 U.S. 203 (1895)... 24, 28, 29 
+Berger v. United States, 295 U.S. 78 (1935)............ 24 
+Bordenkircher v. Hayes, 434 U.S. 357 (1977)........... 42 
+Brecht v. Abrahamson, 507 U.S. 619 (1993)............ 43 
+Brooks v. Tennessee, 406 U.S. 605 (1972).......... passim 
+Brown v. United States, 356 U.S. 148 (1957) .......... 14 
+Caldwell v. Mississippi, 472 U.S. 320 (1985)........... 39 
+California v. Green, 399 U.S. 149 (1970) .............. 17 
+Cox v. Louisiana, 379 U.S. 559 (1965)................4. 42 
+Coy v. lowa, 487 U.S. 1012 (1988)...............000.. 33 
+Darden v. Wainwright, 477 U.S. 168 (1986) ........ 24, 35 
+
+
+Donnelly v. DeChristoforo, 416 U.S. 637 (1974).... 24, 35, 39 
+Doyle v. Ohio, 426 U.S. 610 (1976) .....13, 20, 26, 33, 42 
+
+
+Ferguson v. Georgia, 365 U.S. 570 (1961).............. 28 
+First English Evangelical Lutheran Church v. County 
+
+of Los Angeles, 482 U.S. 304 (1987) ................ 37 
+Fletcher v. Weir, 455 U.S. 603 (1982) ................. 20 
+Geders v. United States, 425 U.S. 80 (1975) ....19, 20, 21 
+Griffin v. California, 380 U.S. 609 (1965).......... passim 
+Grunewald v. United States, 353 U.S. 391 (1957) ....9, 15 
+Harman v. Forsseni, 380 U.S. 528 (1965).............. 10 
+
+
+Harris v. New York, 401 U.S. 222 (1971).............. 14 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Hicks v. United States, 150 U.S. 442 (1893)........ 28, 29 
+Illinois v. Allen, 397 U.S. 337 (1970) ...........00005: 11 
+In re United States v. Cannatella, 597 F.2d 27 (2nd 
+Cie, Ge acd udacndsenceedscnsecusatecss tnliinsce 41 
+Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Phi- 
+lips Corp., 510 U.S. 27 (1993)......... 622 e eee e eee 43 
+James v. Illinois, 493 U.S. 307 (1990) .............006. 13 
+Jenkins v. Anderson, 447 U.S. 231 (1980)....... 14, 20, 42 
+Jones v. United States, 67 U.S.L.W. 4508 (1999) ....... 34 
+Lefkowitz v. Cunningham, 431 U.S. 801 (1977)......... 33 
+
+
+Mitchell v. United States, 119 S. Ct. 1307 (1999) ...10, 25 
+Northwest Airlines, Inc. v. County of Kent, 510 U.S. 
+
+
+ee GENE cass code dncevdescdaahtvasteabdéecawans 37 
+People v. Agosto, 73 N.Y.2d 963 (1989) ............... 28 
+People v. Allen, 69 A.D.2d 558 (2nd Dept. 1979), 
+
+aff'd 50 N.Y.2d 898 (1980)............0ccc cee eeeeee 21 
+People v. Conyers, 52 N.Y.2d 454 (1981) .............. 21 
+People v. Davis, 44 N.Y.2d 269 (1978) ............-45. 32 
+People v. Dawson, 50 N.Y.2d 311 (1980) .............. 21 
+People v. Gadsen, 80 A.D.2d 508 (ist Dept. 1981)..... 28 
+People v. McClean, 69 N.Y.2d 426 (1987).............. 32 
+People v. Medure, 178 Misc. 2d 878 (Sup. Ct., Bronx 
+
+Gi, GER oe sb cdboctewnssdechedeseguasevccsutedses 17 
+People v. Ocasio, 47 N.Y.2d 55 (1979)...........00000: 21 
+
+
+People v. Paperno, 54 N.Y.2d 294 (1981) .............. 31 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+People v. Sandoval, 34 N.Y.2d 371 (1974) ............. 21 
+People v. Washington, 71 N.Y.2d 916 (1988)........... 30 
+People v. Whitmore, 123 A.D.2d 336 (2nd Dept. 
+
+SPS < cep cebdicovers consereurtvews seers eee ces bub at 28 
+People v. Williams, 92 N.Y.2d 993 (1998).............. 41 
+People v. Winship, 309 N.Y. 311 (1955) ............... 41 
+Perry v. Leeke, 488 U.S. 272 (1989).............45. 13, 14 
+Pointer v. Texas, 380 U.S. 400 (1965) ................. 11 
+Reagan v. United States, 157 U.S. 301 (1895). .24, 27, 28, 29 
+Roberts v. Galen, 119 S.Ct. 685 (1999) ................ 37 
+Rock v. Arkansas, 483 U.S. 44 (1987) .............. 11, 29 
+Schenck v. Pro-Choice Network, 519 U.S. 357 (1997) .... 37 
+Shapiro v. Thompson, 394 U.S. 618 (1969)............. 10 
+Simmons v. United States, 390 U.S. 377 (1968)........ 33 
+Snyder v. Massachusetts, 291 U.S. 97 (1934)........... 33 
+South Central Bell Telephone Co. v. Alabama, 119 
+
+ee. SET CED Sea dbdaecesytoecsecicecesacucavons 37 
+Taylor v. Freeland, 503 U.S. 638 (1992) ............... 35 
+Taylor v. Kentucky, 436 U.S. 478 (1978)............... 23 
+Taylor v. United States, 414 U.S. 17 (1973)............ 41 
+Tome v. United States, 513 U.S. 150 (1995)............ 32 
+United States v. Goodwin, 457 U.S. 368 (1982) ........ 16 
+
+
+= 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+United States v. Hale, 422 U.S. 171 (1975)............ 43 
+United States v. Hastings, 461 U.S. 499 (1983) ........ 43 
+United States v. Jackson, 390 U.S. 570 
+PE vn dosncesdhdeutcuduenenonesunt 10, 11, 15, 18, 24 
+United States v. Moore, 466 F.2d 547 (3rd Cir. 1972) .... 41 
+United States v. Robinson, 485 U.S. 25 (1988)......... 39 
+United States v. Rollins, 784 F.2d 35 (1st Cir. 1986) .... 27 
+Wainwright v. Greenfield, 474 U.S. 284 (1986)...... 15, 43 
+Yee v. Escondido, 503 U.S. 519 (1992).............. 35, 43 
+Zant v. Stephens, 462 U.S. 862 (1982) ............645. 11 
+CONSTITUTION, STATUTES AND RuLes: 
+U.S. Const., Amends. V, VI and XIV............ passim 
+OD TG Bie oa bp oacicdscctedevscsescecweensscise 42 
+PRU, Ge oo ecco vedas sicbtocedodecsdecsees 41 
+PON Cn 60v coe tacas canwsuvekiepunsiessvcias 21 
+PUNE Geo cin sec ceccdcacanceieks dacécietucdeds 17 
+PRED UR o-cu baedcetecdulencdcechcesrevanceeets 32 
+Pe MOREY DEN cect cccccdscececsscoconvens 41 
+N.Y.Crim.Proc.Law S60.50.....ccccccccccccer sovves 41 
+PE EEA UOD RE DUE sas ccccccvesccécncccteccvas 41 
+PE UA ER TURES GED ocd cc csccbbesécccccsvicsecs 41 
+
+
+Se A TED, 5 oss bab cichueevecvinasédes 42 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Pee 42 
+PE. VA eee PURC LA GOOFS... ccc cccvvccessccccessccees 42 
+We CD DOE osc ccccnscvccccccccceveseses 34, 43 
+
+
+STATEMENT OF THE CASE 
+The Complainants’ Allegations 
+
+
+Nessa Winder and Breda Keegan, old friends and room- 
+mates, first met respondent at a club on April 27, 1990. 
+Winder agreed to go back to his apartment, and based on 
+a talk they had on the subway ride home, after someone 
+had “hassle[d]” them because Winder “was a white girl 
+with a black man,” respondent showed her a gun that he 
+kept in his closet (W:34-40, 45-50, 167-70; K:232-37, 
+266-68, 275-76).1 They engaged in consensual sex that 
+night and again the next morning, and spent the day and 
+another night together. They did not have further sex, 
+because Winder’s English boyfriend was coming to visit 
+sometime the following week and she decided they 
+“shouldn’t go on like this” (W:41-44, 51-58, 170-77, 180). 
+Respondent was “very understanding,” and she testified 
+that she had had a “great time” with him (58). 
+
+
+The following Saturday, Winder and Keegan met 
+respondent at the same club. They later went to another 
+bar with two of respondent's friends, and the five left for 
+respondent’s house between 4:00 and 4:30 a.m. (W:58-66, 
+180-82; K:238-45, 268-72). When they arrived, respon- 
+dent’s friends left to buy beer and the other three went 
+upstairs. Winder fell asleep on respondent’s bed, and 
+Keegan claimed that respondent became verbally abusive 
+and threatened her with violence, including pointing a 
+gun at her (245-50). Keegan decided to leave, and 
+accepted a ride home from one of respondent's friends 
+
+
+1 Numbers refer to the trial transcript; “S” to the sentencing 
+minutes; “Pet.App.” to the appendix to petitioner’s certiorari 
+petition; and “JA” to the parties’ joint appendix in this Court. 
+
+
+when they returned. She testified that respondent again 
+threatened her (250-52, 274-75), but this was denied by 
+Adolph Kiah, who was called as a defense witness (524-25, 
+535). Keegan got home at around 6:00 a.m. and imme- 
+diately went to bed without calling the police (252). 
+
+
+Winder awoke at 9:30 a.m. Respondent woke up also, 
+and she told him she was in a rush to get home because 
+she was expecting her English friend. He allegedly cursed 
+her after she declined to have sex, and “busted” her lip 
+(66, 73-77). During the next 3 1/2 hours, she said she was 
+punched in the eye, threatened with a gun and sexually 
+assaulted eight times (three acts of rape, three of oral 
+sodomy and two of anal sodomy) (77-98). Twice she went 
+to the bathroom by herself, and she admitted that she did 
+not stay there behind the locked door or call out the 
+window for help; nor did she ever attempt to run out the 
+front door of the apartment, even when respondent left 
+her to go to the bathroom and kitchen (81-83, 92-93, 95). 
+Eventually, respondent called a cab for her (98-99), and he 
+left a general apology on her answering machine the next 
+day (108-0° 158-60). 
+
+
+Respondent's Testimony 
+
+
+Respondent, Ray Agard, essentially corroborated the 
+complainants’ accounts of the first weekend that he met 
+them (see 649-59). The second weekend, Keegan was very 
+loud when they got back to his house, and he went to 
+sleep as soon as she left, about 6:00 a.m.(667-68, 698-704). 
+He and Winder awoke about three hours later and had 
+vaginal intercourse; they fell asleep again, reawaking 
+between noon and 1:00 p.m. Winder was “kind of lazy” at 
+
+
+. ~-w 
+
+
+first, but when she noticed the clock she became “upset” 
+and got up. She said “I got to get home. He’s going to kill 
+me,” referring to her boyfriend, and she acted “hyper” 
+(668-70, 710-11). Attempting to calm her down, respon- 
+dent approached from behind and took hold of Winder’s 
+shoulders. She turned around and “smacked” him and 
+then grabbed his lower lip, scratching him on the inside 
+[Winder acknowledged scratching his lip: 88-89]. Reflex- 
+ively, in response to the pain this caused, he used the 
+palm of his hand to push her away, “hit[ting]” or 
+“mush{ing]” her in the eye (670-72, 711, 716-19, 721-22, 
+725-26). 
+
+
+The next day, respondent called to apologize 
+“because I felt that I should not have mushed her in the 
+face” (673-74, 727). “I’m a guy. You feel kind of bad when 
+you have an argument with a girl that you thought you 
+liked, and it gets to the point where you have done 
+something physical” (728). He was arrested the following 
+day at the credit counseling company where he worked, 
+and an unloaded gun, plus bullets stored with it, were 
+recovered from his bedroom closet (Det. Giardina: 329-31, 
+333-41). 
+
+
+The Medical Evidence 
+
+
+Dr. Ardeshir Karimi saw Winder late on May 6, 1990. 
+Her eye was black and blue, but there was no sign of 
+injury to her lip (411-12, 429-30, 434). Winder testified 
+that the two acts of anal intercourse she had allegedly 
+been forced to engage in had hurt very much, at the time 
+and later (94-96, 164-65, 222-24). However, Karimi’s inter- 
+nal examination revealed no abnormalities of any kind - 
+
+
+e.g. redness, black and blue marks or other color change, 
+or the presence of foreign particles — in either the anal (or 
+vaginal) area (417, 428-29, 431-33). Also, Dr. Robert Lewis, 
+a serology expert (444), determined that sperm was pre- 
+sent only on the vaginal slides; all of the slides and swabs 
+containing mouth and rectal material tested negative 
+(453-56, 474-78). 
+
+
+Prosecutor’s Remarks on Summation 
+
+
+The prosecutor noted that respondent was “the one 
+who had an answer for everything” (JA 45), and “[a] lot 
+of what he told you corroborates what the complaining 
+witnesses told you. The only thing that doesn’t is the 
+denials of the crimes. Everything else fits perfectly” (JA 
+46-47). She returned to this theme near the end of her 
+summation (JA 49): 
+
+
+You know, ladies and gentlemen, unlike all the 
+other witnesses in this case the defendant has a 
+benefit and the benefit that he has, unlike all the 
+other witnesses, is he gets to sit here and listen 
+to the testimony of all the other witnesses before 
+he testifies. 
+
+
+[objection overruled] 
+That gives you a big advantage, doesn’t it. You 
+get to sit here and think what am I going to say 
+and how am I going to say it? How am I going 
+to fit it into the evidence? 
+
+
+[objection overruled] 
+He’s a smart man. I never said he was stu- 
+pid. . . . He used everything to his advantage. 
+
+
+—_, 
+
+
+The Charge, Deliberations and Verdict 
+
+
+Nineteen counts were submitted (see 847-97), two 
+relating to Keegan - menacing and second degree posses- 
+sion of a weapon [possession with intent to use 
+unlawfully, P.L. 265.03] - and fourteen associated with 
+Winder: second degree possession of a weapon, nine 
+sexual offenses [multiple counts of forcible rape, oral and 
+anal sodomy and one count of sexual abuse, P.L. 130.35, 
+130.50, 130.65], unlawful imprisonment in the first and 
+second degrees, intimidating a witness and felony assault 
+[causing physical injury, no intent required, P.L. 
+120.05(6)]; respondent was also charged with two counts 
+of “simple” possession of a weapon in the third degree 
+[P.L. 265.02(1), misdemeanor level possession of an 
+unloaded firearm coupled with prior conviction of crime; 
+no ‘intent to use unlawfully’ element], and one lesser 
+possession count in the alternative. 
+
+
+Deliberations lasted for four days, during which the 
+jurors were sequestered (914-1054). They asked to hear 
+the testimony of several witnesses, including respondent 
+and Winder, and also requested re-instruction on the anal 
+sodomy counts and the definition of “beyond a reason- 
+able doubt” (915-22, 963, 1031). Respondent was ulti- 
+mately acquitted of all charges relating to the 
+complainants but two: one anal sodomy count and felony 
+assault (1061-65); the assault conviction was later dis- 
+missed as repugnant to the rape acquittals (1073; see 1049, 
+1066). He was also convicted of both counts of third 
+degree weapons possession.? 
+
++ 
+
+
+2 On respondent’s state court appeal, the Appellate 
+Division modified the judgment by dismissing one of the 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The State seeks to impugn the credibility of every 
+testifying defendant based solely on the defendant's exer- 
+cise of his Sixth Amendment right to attend his trial, 
+regardless of whether the State has adduced any evidence 
+that he tailored his testimony. In numerous cases, this 
+Court has condemned the needless burdening of constitu- 
+tional rights, particularly where, as here, no overriding 
+state interest is served: on the contrary, there is no legiti- 
+mate basis to treat the Sixth Amendment as an unfair 
+litigation advantage. The State is perfectly free to adduce 
+evidence that the defendant tailored his account, and to 
+engage in appropriate cross-examination. To go further, 
+and comment on the defendant's right to be present as a 
+means to cast wholesale suspicion on his account of the 
+facts, is to provide an unfair litigation advantage to the 
+prosecution. For the defendant’s testimony may “fit” that 
+of other witnesses for reasons other than hearing them in 
+court — most notably, because he has not “tailored” at all, 
+but rather is telling the truth; an inference of fabrication 
+based on presence is accordingly speculative at best and 
+may often be completely unfounded. Moreover, the risk 
+of tailoring based on courtroom presence is minimal for 
+defendants due to, e.g., generous pre-trial discovery poli- 
+cies in modern times; defendants know a great deal about 
+the case before they ever enter the courtroom, and are 
+
+
+weapons’ possession counts (Pet. App. 7). Respondent has fully 
+served his sentence on the remaining weapons count and did 
+not raise any issues with respect to this conviction in his habeas 
+petition. 
+
+
+-s--—- --—_> 
+
+
+thus far less prone to being influenced by the testimony 
+of others. 
+
+
+The conversion of a constitutional prerogative into an 
+impeachment device also undermines the presumption of 
+innocence. All defendants have confrontation rights, and 
+the credibility of the innocent and guilty alike is under- 
+mined by spotlighting the “benefit” this provides. 
+Indeed, the more coherent and consistent and fleshed out 
+a defendant's testimony is - factors typically pointing to 
+veracity - the more “tailored” i.e. unworthy of belief it 
+will appear. The defense would also be saddled with a 
+burden to rebut a charge of tailoring, which, despite 
+petitioner’s facile reference to the defendant's purported 
+ability to reopen the case, would be virtually impossible 
+to meet. If the defendant tried to do so, moreover, his 
+Fifth Amendment privilege would be compromised: in 
+anticipation of a recent fabrication charge based on hear- 
+ing other witnesses in court, he would need to find a 
+prospective rebuttal witness to whom to make a detailed 
+statement of the facts before the trial started. 
+
+
+Even if comments on the defendant's unique oppor- 
+tunity to tailor are constitutionally permissible, the pros- 
+ecutor in this case went further: she lodged an affirmative 
+accusation of tailoring without any evidentiary support 
+whatsvever. Thus, simply by virtue of his exercise of his 
+right to be present, respondent was tagged a liar and, 
+concomitantly, the credibility of the State’s witnesses was 
+bolstered. This was unquestionably a penalty imposed on 
+the exercise of his Sixth Amendment rights. The court 
+below found that the prosecutor’s comments violated 
+
+
+respondent's right to due process as well; it was funda- 
+
+
+mentally unfair to raise a tailoring claim for the first time 
+
+
+on summation, with no record support and no meaning- 
+ful oppeztunity for the defendant to respond. Although 
+petitioner argues that respondent’s Fourteenth Amend- 
+ment rights to due process and a fair trial were not 
+violated, this issue was neither presented in its Question 
+Presented nor is it fairly included therein. Accordingly, 
+the claim should not be cwns.dered by this Court. 
+
+
+The finding of a due process violation was, in any 
+event, amply justified. Because the State has not -on- 
+tested the additional finding that the constitutional error 
+(whether based on the Fifth, Sixth or Fourteenth Amend- 
+ments) was sufficiently harmful to warrant granting the 
+writ, the judgment below should be affirmed. 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+THE COURT OF APPEALS CORRECTLY HELD THAT 
+IT IS CONSTITUTIONAL ERROR TO DRAW AN 
+ADVERSE INFERENCE AGAINST A TESTIFYING 
+DEFENDANT WITHOUT ANY PROOF OF TAILOR- 
+ING, BASED SOLELY ON THE EXERCISE OF HIS 
+RIGHTS TO BE PRESENT AND TO CONFRONT HIS 
+ACCUSERS. 
+
+
+I. Comments which invite the jury to draw an adverse 
+inference against the defendant solely due to his 
+exercise of his Sixth Amendment rights should be 
+prohibited. 
+
+
+The State seeks permission to impugn the veracity of 
+every defendant who takes the stand with the fact that he 
+exercised his Sixth Amendment right to attend his trial. 
+Petitioner maintains that a testifying defendant should 
+not be treated any differently than ordinary witnesses, 
+
+
+yet propounds a rule which makes just such a distinction: 
+defendants, unlike other witnesses, have confrontation 
+rights, and defendants alone would be subject to a sweep- 
+ing charge of tailoring grounded on that circumstance. 
+Moreover, the charge need not be supported by any 
+proof, according to petitioner - under the guise of level- 
+ing the playing field, the State contends that it should be 
+entitled to impugn the credibility of all defendants, inno- 
+cent and guilty alike, based on nothing more than rank 
+speculation that they might have tailored their testimony 
+after hearing other witnesses. As the court below cor- 
+rectly held, the rule petitioner advocates violates the 
+defendant's Fifth and Sixth Amendment rights. 
+
+
+A. The court of appeals properly determined that 
+respondent's Sixth Amendment rights were vio- 
+lated by the prosecutor’s comments on summa- 
+tion, which significantly burdened his right to 
+be present without advancing any legitimate 
+state interest. 
+
+
+A practice by which the State needlessly penalizes 
+the defendant for exercising his constitutional rights is 
+itself unconstitutional. This broad principle was clearly 
+stated in Griffin v. California, 380 U.S. 609 (1965), a case 
+relied on by the court of appeals to support its finding of 
+constitutional error in this case. See also Grunewald v. 
+United States, 353 U.S. 391, 425-26 (1957) (concurring 
+opinion of four Justices) (hard to conceive of circum- 
+stances “that would justify use of a constitutional privi- 
+lege to discredit or convict a person who asserts it. The 
+value of constitutional privileges is largely destroyed if 
+persons can be penalized for relying on them”). 
+
+
+10 
+
+
+Griffin's penalty analysis has been applied in subse- 
+quent cases as well, and has not been limited to practices 
+which implicate only Fifth Amendment rights. For exam- 
+ple, the same reasoning was used in United States v. 
+Jackson, 390 U.S. 570 (1968), to strike down a death pen- 
+alty provision. Under the statute, only a defendant who 
+asserted his Sixth Amendment right to a jury trial risked 
+a sentence of death; “the defendant who abandons the 
+right to contest his guilt before a jury is assured that he 
+cannot be executed,” because only a jury could impose 
+that ultimate penalty (id. at 581). This Court noted that 
+“li]f the provision had no other purpose or effect than to 
+chill the assertion of constitutional rights by penalizing 
+those who choose to exercise them, then it would be 
+patently unconstitutional” (id.). See also, e.g., Mitchell v. 
+United States, 119 S.Ct. 1307, 1316 (1999) (trial court 
+“imposed an impermissible burden on the exercise of the 
+constitutional right against compelled self-incrimination” 
+by holding defendant's silence against her at sentencing); 
+Brooks v. Tennessee, 406 U.S. 605, 610-11 (1972) (law which 
+“exacts a price for [defendant's] silence by keeping him 
+off the stand entirely unless he chooses to testify first” 
+ruled unconstitutional; it “casts a heavy burden on a 
+defendant's otherwise unconditional right not to take the 
+stand,” thereby improperly “cut[ting] down on the privi- 
+lege . . . by making its assertion costly”); Shapiro v. 
+Thompson, 394 U.S. 618, 629-31 (1969) (citing Jackson, strik- 
+ing down law which “unreasonably burden[ed]” constitu- 
+tional right to travel); Harman v. Forsseni, 380 U.S. 528, 540 
+(1965) (ruling unconstitutional a provision which 
+abridged right to vote; “It has long been established that 
+
+
+11 
+
+
+a State may not impose a penalty upon those who exer- 
+cise a right guaranteed by the Constitution”); cf. Zant v. 
+Stephens, 462 U.S. 862, 885 (1982) (invalid to “authorize[ } 
+a jury to draw adverse inferences from conduct that is 
+constitutionally protected”). 
+
+
+Even if the particular governmental practice at issue 
+has a perfectly legitimate objective, it would still be 
+unconstitutional if it “needlessly chill[s] the exercise of 
+basic constitutional rights” (Jackson, supra, 390 U.S. at 
+582). Therefore, in determining whether constitutional 
+error has occurred, it is necessary to consider not only 
+whether the State’s objective is reasonable in itself, but 
+also whether that objective can be achieved by means 
+which do not exact a price for the defendant's assertion of 
+his rights (id. at 582-83). As petitioner has acknowledged, 
+the burdening of constitutional rights is “permissible” 
+only “when the benefit to be achieved is of sufficient 
+magnitude and the impairment of the right is not appre- 
+ciable” (Pet.Br., p.17; see id., pp.19, 24-27). 
+
+
+In this case, two fundamental constitutional rights 
+were targeted by the prosecutor: respondent’s twin exer- 
+cise of his Sixth Amendment rights to be present at trial 
+and confront his accusers and his Fifth and Sixth Amend- 
+ment right to testify on his own behalf, all rights secured 
+in state proceedings by the Fourteenth Amendment. See, 
+e.g., Rock v. Arkansas, 483 U.S. 44, 51-53 (1987); Illinois v. 
+Allen, 397 U.S. 337, 338 (1970); Pointer v. Texas, 380 U.S. 
+400, 403 (1965). With credibility the only issue for the jury 
+to decide, the prosecutor used these rights to convert the 
+plausibility of respondent’s account - he was “the one 
+who had an answer for everything,” “[a] lot of what he 
+told you corroborates what the complaining witness told 
+
+
+12 
+
+
+you. The only thing that doesn’t is the denials of the 
+crimes. Everything else fits perfectly” — into a liability; 
+endorsed by the trial court, which overruled defense 
+counsel’s objections, the prosecutor urged the jury to 
+dismiss respondent's testimony as a fabrication based 
+solely on the “benefit” and “advantage” he alone had: 
+“he gets to sit here and listen” and “think what am I 
+going to say and how am I going to say it? How am I 
+going to fit it into the evidence?” 
+
+
+Unquestionably, respondent's confrontation rights 
+were asserted at great cost to the defense. The only way 
+to avoid this generic form of “impeachment,” moreover, 
+is to chose between the important right to be present or 
+the equally important right to testify. Clearly, to sustain 
+such a forced election of rights, or, alternatively, to justify 
+the automatic impugning of a defendant's credibility if 
+such an election is not made, the State must proffer a 
+substantial overriding interest. It purports to do so, argu- 
+ing that the prosecutor’s comments were a legitimate 
+form of “impeachment” which fosters the search for 
+truth. This is so, petitioner claims, because in every case 
+where an unsequestered defendant takes the stand - 
+whether or not there is evidence that he has actually used 
+the “benefit” he has to his “advantage” — the inference of 
+tailoring is so logical, and the prospect of tailoring so 
+likely, that the defendant’s exercise of his Fifth and Sixth 
+Amendment rights must be flagged to the jury as a 
+license to commit perjury. Petitioner’s premise is flawed, 
+however, and its interest in promoting reliable verdicts 
+cannot justify the kind of burdening of defendant's rights 
+at issue here. 
+
+
+13 
+
+
+First, there are a number of explanations for why the 
+defendant is able to “answer” all pertinent questions put 
+to him, or why his account “fits” the State’s evidence 
+“perfectly” except for his “denials of the crimes”: most 
+notably, the defendant is telling the truth. See Doyle v. 
+Ohio, 426 U.S. 610, 617-18 (1976) (impeachment of defen- 
+dant’s credibility with proof of his post-arrest silence 
+prohibited in part because such silence is “ambiguous,” 
+and a negative inference is therefore not necessarily war- 
+ranted). If the jury can be asked to consider the defen- 
+dant’s opportunity to adjust his account based on the 
+assertion of his confrontation rights, without any proof 
+that he actually used the opportunity to his advantage, 
+the presumption of innocence is effectively undermined - 
+resting on no firmer ground than rank speculation, the 
+defendant's testimony is singled out for special scrutiny 
+and his credibility blanketly assailed. The defendant's 
+status, in turn, is used against him, and the innocent 
+defendant who has not tailored his testimony is tarred to 
+the same degree as the guilty defendant who has. This is 
+hardly a “litigation boon” to the defense (Pet.Br., p.34). 
+See James v. Illinois, 493 U.S. 307, 314 (1990) (approving 
+impeachment rules which “discourage[ ] perjured testi- 
+mony without discouraging truthful testimony” [emphasis 
+added]). 
+
+
+3 This was not the case in Perry v. Leeke, 488 U.S. 272 (1989), 
+where this Court found no error in precluding the defendant 
+from conferring with his lawyer during a brief, 15-minute recess 
+between direct and cross-examination: the Court expressly 
+noted that cross-examination of an uncounselled witness “is 
+more likely to lead to the discovery of truth” (488 U.S. at 282). In 
+addition, although there is no constitutional right to consult 
+
+
+14 
+
+
+Second, the State has legitimate, time-honored 
+methods for establishing a tailoring claim, if such a claim 
+is valid, without punishing the defendant for exercising 
+his constitutional prerogatives: the introduction of 
+impeachment evidence such as prior inconsistent state- 
+ments, appropriate cross-examination and fair comment 
+on the evidence during summation. Thus, if proof that 
+the defendant tailored his testimony is available or can 
+properly be developed, the prosecutor is certainly free to 
+adduce such evidence and to use it, in support of an 
+argument that the defendant fabricated his version of 
+events and should not be believed or for any other rele- 
+vant purpose. Significantly, virtually all of the cases peti- 
+tioner cites address standard forms of impeachment 
+evidence. See cases cited in Pet.Br., p.20 incl. n.5, such as 
+Jenkins v. Anderson, 447 U.S. 231, 235-38 (1980) (approving 
+impeachment of defendant's credibility with proof of pre- 
+arrest silence); Harris v. New York, 401 U.S. 222, 224-25 
+(1971) (same re: prior inconsistent statements made to 
+police in violation of Miranda rights); Brown v. United 
+States, 556 U.S. 148, 154-56 (1957) (“If [the defendant] 
+takes the stand and testifies in his own defens~, his 
+credibility may be impeached and his testimony assailed 
+like that of any other witness, and the breadth of his 
+waiver is determined by the scope of relevant cross- 
+examination”). 
+
+
+Third, whether or not evidence of tailoring is 
+adduced, there is no justification for deriding the defen- 
+dant’s Sixth Amendment rights as an unfair litigation 
+
+
+with counsel while testifying (id. at 281), a defendant does have a 
+constitutional right to be present at trial. 
+
+
+15 
+
+
+advantage: at most, the defendant’s opportunity to hear 
+other witnesses might serve to explain how he happened 
+to modify or shape his testimony; it is not evidence of 
+tailoring in its own right. Cf. Grunewald v. United States, 
+supra, 353 U.S. at 420 (“[the defendant] was subject to 
+cross-examination impeaching his credibility just like any 
+other witness,” but “[t]his does not . . . resolve the 
+question whether in the particular circumstances of this 
+case the cross-examination should have been excluded 
+because its probative value on the issue of [defendant's] 
+credibility was so negligible as to be far outweighed by 
+its possible impermissible impact on the jury”). And, 
+where the prosecutor has an evidentiary basis to argue 
+that the defendant altered his story (an entirely appropri- 
+ate attack on his credibility), it does not legitimately 
+advance the State’s cause to note that the defendant had 
+received “a big benefit and advantage that other wit- 
+nesses did not have, he got to sit here and listen to all the 
+proof before he took the stand.” Cf. Wainwright v. Green- 
+field, 474 U.S. 284, 295 (1986) (“the State’s legitimate inter- 
+est in proving [defendant’s sanity] could have been 
+served by carefully framed questions that avoided any 
+mention of the defendant’s exercise of his constitutional 
+rights to remain silent and to consult counsel”). The latter 
+comments have no probative content whatsoever, and are 
+instead an impermissible burdening of the defendant's 
+constitutional rights to be present at trial and to confront 
+his accusers face-to-face. See, e.g., United States v. Jackson, 
+supra, 390 U.S. 570. 
+
+
+Absent evidence of tailoring, the endorsement of 
+petitioner’s position would permit impeachment by spec- 
+ulation and innuendo - hardly conducive to the search 
+
+
+16 
+
+
+for truth. On the contrary, armed with nothing more than 
+defendant's presence at trial, the prosecutor could high- 
+light factors which typically point to the speaker’s hon- 
+esty - no inconsistencies, no gaps, few deviations from 
+the accounts of opposing witnesses except on material 
+points - and convert them instead into reasons to doubt 
+the defendant’s veracity. Such an argument also permits 
+the State to undermine the defendant's credibility whole- 
+sale, as to all the particulars of his account, and concomi- 
+tantly bolster the credibility of the State’s witnesses. As a 
+result, the defendant is severely punished for exercising 
+his Sixth Amendment rights, and thus “do[ing] what the 
+law plainly allows him to do.” United States v. Goodwin, 
+457 U.S. 368, 372 (1982). 
+
+
+Finally, the risk of tailoring based on presence while 
+others testify is generally far lower for defendant wit- 
+nesses than other witnesses, and is virtually non-existent 
+with respect to material facts. In modern times, a criminal 
+defendant is afforded broad discovery rights and corre- 
+
+
+sponding access to a wealth of pre-trial discovery (police | 
+
+
+reports with witness statements, medical reports, grand 
+jury minutes, etc.). In addition, and also in contrast to 
+other witnesses, the defendant has a right to counsel. 
+From the moment he is charged, throughout the typically 
+considerable period before the trial is held, the defendant 
+has an advocate whose job it is to investigate the facts, to 
+uncover weaknesses in the State’s case, and to consider as 
+well the points on which the defendant is most vulner- 
+able. Therefore (although unbeknownst to the jury), he 
+has a very good idea of what the prosecution witnesses 
+will say before they appear at trial, and has ample time to 
+fashion the best “story” possible if he is determined to lie 
+
+
+17 
+
+
+on the stand. Significantly, all witnesses have the oppor- 
+tunity to fabricate, in myriad ways, and cross-examina- 
+tion, the “ ‘greatest legal engine ever invented for the 
+discovery of truth’ ” (California v. Green, 399 U.S. 149, 158 
+[1970]), provides very effective tools for exposing perjury. 
+
+
+An ordinary witness, in contrast, will be far less 
+prepared and knowledgeable about the case overall, and 
+concomitantly far more susceptible to influence by other 
+witnesses. Even with respect to non-defendant witnesses, 
+moreover, the importance of the sequestration rule is 
+hardly as “profound” as petitioner maintains (Pet.Br., 
+p-28). Professor Wigmore himself acknowledged that the 
+rule was inspired not by the routine practice of tailoring, 
+but rather by the “occasional readiness of the interested 
+person to adapt his testimony” (Brooks v. Tennessee, supra, 
+406 U.S. at 607, quoting Wigmore [emphasis added]). In 
+New York, the exclusion of witnesses is not even a matter 
+of right, but one addressed to the trial court’s discretion 
+(see People v. Medure, 178 Misc. 2d 878, 880 [Sup.Ct., Bronx 
+Co., 1998] and cases cited therein), and the federal rule 
+authorizes an exemption for one “whose presence is 
+shown by a party to be essential to the presentation of his 
+cause” (Fed.R.Evid. 615). 
+
+
+Respondent does not contend that sequestration has 
+no validity in curbing the tailoring of testimony. How- 
+ever, it is clearly far more effective when applied to non- 
+party witnesses than to the defendant. Further, there is no 
+countervailing policy at stake with the ordinary witness, 
+whereas the defendant has a concomitant constitutional 
+right to both face his accusers and to testify on his own 
+behalf. To eliminate even the barest possibility of tailor- 
+ing, sequestration is accordingly a reasonable precaution 
+
+
+18 
+
+
+for all witnesses save the defendant. In his case, of 
+course, forced sequestration is forbidden by the Sixth 
+Amendment; and, in keeping with the dictates of Griffin, 
+Jackson and other decisions previously discussed, it is 
+clearly unwarranted to permit adverse comment on a 
+defendant's rights simply to reduce not the fact of tailor- 
+ing — such proof, if any, can be developed independently 
+—- but the mere possibility of it. 
+
+
+Significantly, this Court has twice been asked to 
+weigh the policy considerations favoring sequestration of 
+witnesses generally against specific constitutional rights 
+of the accused, and it has twice resolved the question in 
+the defendant's favor. In Brooks v. Tennessee, 406 U.S. 605 
+(1972), the Court struck down a state law which required 
+the defendant to testify as the first witness for the 
+defense if he testified at all. The statute was 
+
+
+related to the ancient practice of sequestering 
+prospective witnesses in order to prevent their 
+being influenced by other testimony in the case 
+.. . Because the criminal defendant is entitled to 
+be present during trial, and thus cannot be 
+sequestered, the requirement that he precede 
+other defense witnesses was developed by court 
+decision and statute as an alternative means of 
+minimizing this influence on him. 
+
+
+Id. at 607. The Tennessee law reflected “an apparent 
+attempt at symmetry,” for the State’s chief prosecuting 
+witness was also required to testify first if he wanted to 
+remain in the courtroom for the balance of the trial (id. at 
+611, n.5). There was “a fundamental distinction” between 
+the two sides, however: “the State, through its prosecut- 
+ing witness, does not share the defendant's constitutional 
+
+
+19 
+
+
+right not to take the stand. Thus, the choice to present the 
+prosecuting witness first or not at all does not raise a 
+constitutional claim secured to the State, as it does in the 
+situation of the defendant” (id.). That the statute reflected 
+a legitimate “interest in preventing testimonial influence” 
+was acknowledged, but “[p]ressuring the defendant to 
+take the stand, by foreclosing later testimony if he 
+refuses, is not a constitutionally permissible means of 
+ensuring his honesty” (id. at 611). Here, too, pressuring a 
+defendant to waive his right to be present during the 
+government's presentation of proof, in order to preclude 
+the prosecutor from impugning his credibility on tailor- 
+ing grounds if he elects to testify, should be forbidden. 
+
+
+Similarly, in Geders v. United States, 425 U.S. 80 (1975), 
+the rationale of sequestration was deemed insufficient to 
+interfere with the defendant's Sixth Amendment right to 
+counsel. An overnight recess had been declared during 
+the defendant's testimony, and the trial court’s order that 
+he not consult with counsel during that period was held 
+unconstitutional. Once again, the benefits of sequestra- 
+tion generally were acknowledged, as were the trial 
+judge’s efforts at evenhandedness: before each recess, all 
+witnesses whose testimony had not been completed were 
+admonished not to discuss their testimony with anyone 
+(id. at 87-88). Nevertheless, there “are other ways to deal 
+with the problem of possible improper influence or 
+‘coaching’ of a witness” besides interfering with the right 
+to counsel. For example, 
+
+
+[a] prosecutor may cross-examine a defendant as 
+to the extent of any “coaching” during a recess, 
+subject, of course, to the control of the court. 
+Skillful cross-examination could develop a record 
+
+
+20 
+
+
+which the prosecutor in closing argument might well 
+exploit by raising questions as to the defendant's 
+credibility, if it developed that defense counsel 
+had in fact coached the witness as to how to 
+respond on the remaining direct examination 
+and on cross-examination. 
+
+
+id. at 89-90 (emphasis added). But “[t]o the extent that 
+conflict remains between the defendant's right to consult 
+with his attorney” and the State’s desire to minimize “the 
+risk of improper ‘coaching,’ the conflict, must, under the 
+Sixth Amendment, be resolved in favor of the right to the 
+assistance and guidance of counsel” (id. at 91). 
+
+
+Here, as well, the State has powerful tools with 
+which to expose tailoring: prior inconsistent statements 
+and cross-examination. All witnesses, including the 
+defendant, are subject to impeachment with actual proof 
+of tailoring. But the defendant should never be subjected 
+to unsupported accusations of fabrication - much less 
+those linked directly to the exercise of his constitutional 
+prerogatives. Such accusations compromise basic, funda- 
+mental rights that ordinary witnesses do not have, as well 
+as the important policies underlying those rights, e.g., the 
+presumption of innocence, the right to a fair trial and to 
+present a defense and, of course, the right of confronta- 
+tion.* 
+
+
+4 That the defendant is not an ordinary witness and may 
+not always be treated as such is hardly a novel proposition. For 
+example, he is the only witness who cannot be impeached 
+without limitation concerning his pre-trial silence. Compare 
+Fletcher v. Weir, 455 U.S. 603 (1982), and Jenkins v. Anderson, 447 
+U.S. 231 (1980), with Doyle v. Ohio, 426 U.S. 610 (1976); under 
+New York law, the distinction drawn between criminal 
+
+
+21 
+
+
+In sum, comments which seek to penalize a defen- 
+dant for exercising his constitutional rights are forbidden, 
+at the least where, as in the context under review here, 
+the State has no legitimate overriding interest to counter- 
+balance the chilling effect that the threat of such com- 
+ments will have. Direct references to the defendant's 
+singular right to be present should accordingly be prohib- 
+ited as violative of the Sixth Amendment. 
+
+
+defendants and other witnesses in this area is even starker. See 
+People v. Conyers, 52 N.Y.2d 454, 458-59 incl. n.2 (1981); People v. 
+Dawson, 50 N.Y.2d 311, 321 (1980). In New York, the defendant is 
+also entitled to circumscribe the admissibility of prior crimes 
+evidence should he elect to take the stand; the entire criminal 
+history of a non-party witness, in contrast, may be spread before 
+the jury. People v. Ocasio, 47 N.Y.2d 55 (1979); People v. Sandoval, 
+34 N.Y.2d 371 (1974); see People v. Allen, 69 A.D.2d 558, 560 (2nd 
+Dept. 1979), aff'd 50 N.Y.2d 898 (1980) (discussing policy reasons 
+for treating the two categories of witnesses differently). Similar 
+distinctions are drawn in federal court as well. See Fed.R.Evid. 
+609. Most pertinent to this case, the defendant is the only 
+witness who has a constitutional right to be present and 
+confront the other witnesses who appear, a distinction with 
+recognized constitutional implications. See Brooks v. Tennessee, 
+406 U.S. at 611 incl. n.5; see also Geders v. United States, 425 U.S. at 
+91. 
+
+
+22 
+
+
+B. The violation of respondent's Sixth Amend- 
+
+
+ment rights was particularly egregious because 
+the prosecutor did not merely note respondent's 
+opportunity to tailor but affirmatively accused 
+him of doing so, with no supporting evidence 
+and based solely upon the assertion of his right 
+to be present. 
+
+
+Assuming, arguendo, that there could ever be circum- 
+stances in which it would be legitimate to link the defen- 
+dant’s exercise of his right to be present with a tailored 
+testimony charge, this Court should still affirm the judg- 
+ment of the court of appeals. For the prosecutor in this 
+case did not simply note on summation that respondent 
+had the chance to adjust his testimony to fit the State’s 
+case; instead, she argued that he had actually taken 
+advantage of the opportunity and lied. Petitioner con- 
+cedes that this accusation was made. Pet.Br. at, ¢.g., p.17 
+(“the prosecutor’s comments here [were] that defendant 
+had and used to his benefit his unique opportunity to hear 
+the other witnesses”); p.39 (“The prosecutor merely 
+argued that the defendant wrongfully conformed his testi- 
+mony around that of the prosecution witnesses”); p.46 
+(“the prosecutor . . . arguled] that his testimony was tai- 
+lored”). Moreover, although the charge of tailoring cer- 
+tainly suggested to the jury that supporting evidence 
+existed, none had been proffered, and the argument was 
+entirely speculative.® 
+
+
+5 In its brief (p.46), petitioner cites a few items of 
+“evidence” that purportedly supported the trial prosecutor's 
+tailoring argument, but none is even remotely legitimate: (1) the 
+prosecutor’s own characterization of respondent as a “smooth 
+slick character’ - an entirely subjective description, again with 
+
+
+23 
+
+
+If a line between permissible and impermissible com- 
+ment on presence is to be drawn, then, it was clearly 
+crossed in this case. The requirement that a verdict be 
+grounded solely on lawful, probative evidence is hardly a 
+remarkable proposition (see, e.g., Taylor v. Kentucky, 436 
+U.S. 478, 485 [1978]), and neither is the corollary: in 
+closing argument, the prosecutor may not refer to matters 
+not in evidence, intimate the existence of additional proof 
+
+
+no supporting evidence, and hardly “proof” in its own right; (2) 
+her rhetorical query as to whether a short section of 
+respondent's testimony “sounded rehearsed” - not because he 
+had heard other witnesses, but because “[h]e said it twice. He 
+said it on direct examination and he said it on cross” (see JA 48); 
+(3) her contention “that defendant's testimony essentially 
+corroborated that of the prosecution witnesses but for his 
+denials of the crimes, and that ‘[e]verything else fits perfectly’ ” 
+- if true (this charge covered the entire testimony of multiple 
+witnesses in a single sentence), the same could be said if 
+respondent had been telling the truth; (4) her claim that 
+“defendant's explanation” concerning a certain point “fits the 
+whole scenario here” — this is actually a reference to an 
+argument made by defense counsel on summation, not to 
+respondent's testimony (see JA 37); and, finally, (5) “(the trial 
+prosecutor] directed the jury’s attention to the fact that it was 
+only on cross-examination that defendant remembered that Ms. 
+Winder had slapped him during their first encounter” — it is 
+hard to see how changing one’s own account between direct and 
+cross examination (here, merely adding a detail) supports a 
+charge of “tailored to fit the State’s case”; more significantly, 
+Winder never mentioned this slapping incident herself (nor did 
+anyone else), so a “tailoring” accusation is completely 
+unjustified (for the record, the trial prosecutor mischaracterized 
+respondent's testimony when she claimed he said he had been 
+slapped three times before Winder scratched him [JA 48; 
+defense counsel's objection overruled] - he consistently said she 
+slapped him only once before scratching his lip [see 670-72, 711, 
+719, 726}). 
+
+
+24 
+
+
+of which he is personally aware, or ask the jurors to draw 
+conclusions which are not fairly inferable from the proof 
+(see, e.g., Berger v. United States, 295 U.S. 78, 84, 88 [1935)). 
+And, as the court below noted (Pet.App. 51a), citing 
+Darden v. Wainwright, 477 U.S. 168, 181-82 (1986), this 
+Court has advocated particular vigilance in safeguarding 
+the exercise of specific constitutional rights against pros- 
+ecutorial abuse. See also Donnelly v. DeChristoforo, 416 U.S. 
+637, 643 (1974). The prosecutor’s argument also effec- 
+tively turned the presumption of innocence on its head: 
+the jury was asked to presume instead that all defendants 
+who exercise their rights to confrontation and to testify 
+have tailored their accounts, and are therefore less wor- 
+thy of belief than the State’s witnesses. As a witness, 
+however, a defendant is neither believable nor unbeliev- 
+able per se. Allison v. United States, 160 U.S. 203, 210 
+(1895); Reagan v. United States, 157 U.S. 301, 310 (1895). In 
+this case, moreover, the prosecutor did not merely invoke 
+a presumption of fabrication, she made an actual charge 
+of tailoring linked directly and solely » respondent's 
+right to be present. 
+
+
+Clearly, respondent's Sixth Amendment rights were 
+affirmatively used against him, both to undermine his 
+credibility and, in juxtaposition, to bolster the complain- 
+ants’ accounts; indeed, the very plausibility of his 
+account became a reason to doubt his veracity. That this 
+was a penalty under the Griffin-Jackson-Brooks line of 
+cases discussed ante cannot be seriously questioned, nor 
+can the State possibly legitimize the practice. Signifi- 
+cantly, apart from claiming that the tailoring accusation 
+did have evidentiary support (but see n.5, ante), the State 
+makes no effort to do so. The result, in turn, was to 
+
+
+25 
+
+
+undermine the search for truth, not foster it, because the 
+credibility issue was improperly weighted in the State’s 
+favor. 
+
+
+C. This Court’s decision in Griffin v. California 
+mandates affirmance of the judgment below. 
+
+
+Although the court of appeals only analogized this 
+case to Griffin v. California, supra, 380 U.S. 609 (Pet.App. 
+42a), finding the constitutional issue here “somewhat 
+similar” (Pet.App. 73a), Griffin provides an independent 
+basis for this Court's affirmance of the judgment. In 
+Griffin, comments on the defendant's silence at trial, 
+inviting the jury to use the defendant's invocation of his 
+Fifth Ame. dment privilege against him, were held to be 
+constitutional error. Although the defendant's right to 
+remain silent had been literally respected - he was not 
+compelled to testify - a penalty was nevertheless exacted. 
+The comments thus “cut[] down on the privilege by 
+making its assertion costly” (380 U.S. at 614). In this case, 
+likewise, the prosecutor commented on the defendant's 
+presence at trial, and invited the jury to use the invoca- 
+tion of his confrontation rights against him. He exercised 
+his right to be present, just as the defendant in Griffin 
+exercised his right to remain silent, but a penalty was just 
+
+
+as clearly imposed. 
+
+
+Just months ago, in Mitchell v. United States, supra, 
+119 S.Ct. 1307, the tenets of Griffin were upheld by this 
+Court. Because the penalty analysis in this case is log- 
+ically indistinguishable from that in Griffin and Mitchell, a 
+finding of constitutional error must follow. That the 
+jurors might notice defendant’s unique opportunity to 
+
+
+26 
+
+
+= 
+
+
+listen to the other witnesses before he takes the stand, 
+and draw an adverse inference of tailoring on their own, 
+cannot excuse or soften the error of having the inference 
+expressly drawn for them by the State’s representative. 
+See Griffin v. California, 380 U.S. at 614. And, to the extent 
+that the fact-finders would be more likely to hold the 
+accused’s exercise of his right to remain silent against 
+him than his exercise of his right to be present, a negative 
+reference to the latter is even more prejudicial than the 
+comments ruled unconstitutional in Griffin: what might 
+otherwise be an unremarkable fact - the defendant is 
+there, listening to the evidence - is affirmatively flagged 
+to the jury and converted into a liability for the defense. 
+
+
+Moreover, that the defendant's silence was used as 
+substantive evidence of guilt in Griffin and his presence 
+as impeachment evidence in this case is a distinction 
+without a difference. Indeed, in Doyle v. Ohio, supra, 426 
+U.S. 610, this Court found the prosecutor's use of defen- 
+dant’s post-arrest silence - not as substantive evidence of 
+guilt but solely to impeach his credibility — to be constitu- 
+tional error. In both Griffin and here, the prosecutor 
+sought to raise an unfavorable inference from the exercise 
+of the defendant's constitutional rights, and in each case 
+thereby imposed a penalty for his assertion of those 
+rights. Rather than turning a silent defendant into a 
+source of evidence against himself, as in Griffin, com- 
+ments on the defendant's exercise of his right to be pres- 
+ent effectively convert a testifying defendant into a source 
+of incriminating proof: only a guilty defendant fabricates 
+his account of events, and only a guilty defendant would 
+need the crutch of hearing all of the witnesses against 
+him before taking the stand himself. 
+
+
+27 
+
+
+D. This Court’s decision in Reagan v. United 
+States does not support petitioner’s contention 
+that it can impugn the credibility of all defen- 
+dants based solely on the exercise of their Sixth 
+Amendment rights. 
+
+
+Petitioner has pointed to the propriety of the inter- 
+ested witness charge in support of its argument; citing 
+this Court’s decision in Reagan v. United States, 157 U.S. 
+301 (1895), it notes that the defendant's status necessarily 
+gives him an interest in the outcome of the case which 
+can properly be flagged to the jury as relevant to his 
+credibility (see Pet.Br., p.21). The analogy, however, does 
+not hold up. The remarks at issue here highlight the 
+unique “benefit” the defendant has which purportedly 
+reflects negatively on his credibility; he alone has the 
+privilege of listening to others testify, and that privilege 
+renders his own testimony suspect. The ‘impeachment’ 
+argument applies only to defendants, and it directly 
+implicates rights afforded by the Fifth and Sixth Amend- 
+ments. In contrast, comments on a defendant's interest, 
+and attendant motive to lie, do not concomitantly convert 
+the defendant's exercise of a constitutional right into an 
+unfair litigation advantage: no adverse inference is drawn 
+from the fact that the defendant chose to take the stand. 
+On the contrary, all trial witnesses, by definition, testify, 
+and the interest of any witness is an appropriate subject 
+for comment. 
+
+
+Moreover, the modern trend is to avoid instructions 
+in which the defendant's testimony is singled out for 
+special scrutiny. See, e.g., United States v. Rollins, 784 F.2d 
+35, 37-39 (1st Cir. 1986); authorities cited in brief of 
+United States as amicus curiae, p.15, n.5. This is certainly 
+
+
+28 
+
+
+true in New York, where the jury is routinely instructed 
+that they may consider the interest of any witness, 
+including the defendant, but that there is no presumption 
+that an interested witness lies or that a disinterested 
+witness tells the truth. People v. Agosto, 73 N.Y.2d 963, 967 
+(1989); People v. Whitmore, 123 A.D.2d 336 (2nd Dept. 
+1986); see People v. Gadsen, 80 A.D.2d 508 (1st Dept. 1981).° 
+
+
+Significantly, the Reagan decision also noted “(t]he 
+fact that [the witness] is a defendant does not condemn 
+him as unworthy of belief” (157 U.S. at 305); the jury may 
+not be told “directly or indirectly that the defendant is to 
+be disbelieved because he is a defendant, for that would 
+practically take away the benefit which the law grants 
+when it gives him the privilege of being a witness” (id. at 
+310); accord Allison v. United States, 160 U.S. 203, 210 
+(1895) (“As a witness, a defendant is no more to be 
+visited with condemnation than he is to be clothed with 
+sanctity, simply because he is under accusation, and there 
+is no presumption of law in favor of or against his truth- 
+fulness”); Hicks v. United States, 150 U.S. 442, 452 (1893) 
+
+
+6 At the time the Reagan decision was published, it had 
+been less than fifteen years since the per se disqualification of 
+defendants as witnesses was abolished by federal statute (157 
+U.S. at 304-05). At common law, anyone with the least interest in 
+the proceeding, necessarily including all criminal defendants, 
+was deemed incompetent to testify, and this antipathy lasted in 
+this country through the end of the nineteenth century; as late as 
+1961, in fact, Georgia still forbade a defendant from being a 
+witness in his own behalf. Ferguson v. Georgia, 365 U.S. 570, 
+573-77 (1961). For what it is worth, it seems unlikely that an 
+interested witness charge such as that delivered in Reagan 
+(reproduced in the syllabus) would be wholeheartedly 
+endorsed today. 
+
+
+29 
+
+
+(“men may testify truthfully, although their lives hang in 
+the balance”). The comments at issue in this case, in 
+
+
+contrast, do condemn defendants as a group as unworthy 
+of belief. 
+
+
+Thus, when a defendant’s unique “opportunity to 
+tailor” is spotlighted, and his veracity thereby automat- 
+ically impugned, error similar to that foreclosed by 
+Reagan, Allison and Hicks is committed. The jury is, in 
+effect, invited to presume fabrication on the defendant's 
+part in every case — there is no other reason to discuss the 
+point. Although every defendant who testifies is an inter- 
+ested witness, not every interested witness tailors his 
+testimony, and the jury certainly should not be urged to 
+assume that he did. 
+
+
+Il. The court of appeals correctly held that respon- 
+dent’s Fifth Amendment rights were also violated 
+by the prosecutor’s comments. 
+
+
+The contention that defendants can uniformly be 
+accused of tailoring their testimony, simply by virtue of 
+their presence at trial, implicates Fifth Amendment rights 
+in several respects. First, a defendant will be pressured to 
+abandon his right to testify, “a necessary corollary to the 
+Fifth Amendment's guarantee against compelled testi- 
+mony” (Rock v. Arkansas, supra, 483 U.S. at 52), in order to 
+foreclose the prosecutor from assailing his veracity. This 
+pressure will be particularly acute if an affirmative accu- 
+sation of tailoring is lodged as it was in this case. If the 
+defendant can be tagged a liar simply because he was 
+present during presentation of the evidence, testimony 
+which he would otherwise expect to exonerate him would 
+
+
+30 
+
+
+instead become evidence of guilt - only a guilty person 
+would fabricate facts, and only guilty defendants lie 
+about what transpired. 
+
+
+Second, an unsupported tailoring argument shifts the 
+burden of proof to the defense to rebut the accusation. 
+Petitioner disingenuously contends that this is easily 
+accomplished, for a truthful defendant is allegedly free to 
+counter the adverse inference of fabrication by moving to 
+reopen the proof (Pet.Br., p.36). If the State is permitted to 
+make a blanket charge of tailoring, however, as it did 
+here, the defendant is at a serious disadvantage in 
+attempting to dispel the aura of suspicion which has been 
+cast upon him: he does not know what to rebut, speci- 
+fically, because the tailoring charge is devoid of any 
+detail. If he decided to be a rebuttal witness himself, then, 
+the defendant could do no more than seek to get back on 
+the stand (which would be at the court's discretion under 
+New York law, People v. Washington, 71 N.Y.2d 916, 918 
+[1988]) and baldly state that he had not tailored his 
+testimony as a result of hearing the other witnesses. 
+Proving a negative (“I never beat my wife”) is virtually 
+impossible, and such “rebuttal evidence” would hardly 
+be convincing to the jury. 
+
+
+Thus, the only way for a defendant to successfully 
+combat a baseless tailoring argument would be to waive 
+his right to remain silent before trial commences; he 
+would then have a rebuttal witness in reserve who would 
+be able to recount his pre-trial statements and demon- 
+strate that his trial testimony was not “adjusted” to fit 
+other witnesses’ accounts. In Brooks v. Tennessee, supra, 
+406 U.S. 605, this Court held it unconstitutional to require 
+the defendant to testify immediately after the prosecution 
+
+
+31 
+
+
+rested, prior to calling any other defense witnesses. Nec- 
+essarily, then, it is unconstitutional to require him to 
+make a statement before the trial starts, solely to able to 
+counter an unsupported claim of tailoring based on the 
+exercise of his Sixth Amendment rizhts. 
+
+
+As a practical matter, moreover, the possibility that 
+other witnesses could salvage the defendant's credibility 
+would necessarily be low. The most likely person with 
+whom the defendant would have discussed the facts of 
+the case before trial, who might thereby be in a position 
+to recount defendant's prior consistent statements to the 
+jury, would be defense counsel. A defendant should not 
+be compelled to discuss the facts of the case with his 
+attorney any more than with anyone else, of course, and 
+certainly not in anticipation of a gratuitous attack on his 
+credibility at trial. Further, in order to use counsel to meet 
+the charge of fabrication, the defendant would be forced 
+to waive his attorney-client privilege. There would also 
+be a serious risk that counsel would then be disqualified 
+from further participation in the case under the Code of 
+Professional Responsibility and New York’s advocate- 
+witness rule (see People v. Paperno, 54 N.Y.2d 294, 299-300 
+[1981]). Since any competent defense attorney would 
+advise his client not to discuss the charges with anyone, it 
+is doubtful that other rebuttal witnesses would exist. But 
+if they did, the defense would have to request a continu- 
+ance in order to seek them out, which would disrupt the 
+progress of the trial indefinitely after the evidence had 
+already been closed. 
+
+
+Finally, even if such witnesses could be found and 
+timely produced, it is not at all clear that they would be 
+permitted to rehabilitate the defendant's credibility. For 
+
+
+32 
+
+
+prior consistent statements are hearsay, and are only 
+admissible to rebut a charge of recent fabrication. The 
+proponent of such evidence must therefore demonstrate 
+that the prior statements were made at a time when the 
+speaker had no motive to lie, and in the context under 
+discussion here, a guilty defendant would have the same 
+motive to fabricate upon commission of the crime as he 
+would at trial. People v. McClean, 69 N.Y.2d 426, 427-28 
+(1987); People v. Davis, 44 N.Y.2d 269, 277-78 (1978); see 
+also Tome v. United States, 513 U.S. 150 (1995) and 
+Fed.R.Evid. 801(d)(1). Thus, the only person who could 
+counter a sweeping, wholly unsupported claim of tailor- 
+ing would be one to whom the defendant had made as 
+full and detailed an account of events as he later gave at 
+trial - a very tall order to fill. 
+
+
+Petitioner’s claim that the defendant could put on a 
+rebuttal case is thus glibly stated but unconvincing. In 
+many cases the defendant would have nothing with 
+which to counter a “he was able to tailor because he 
+heard our witnesses” argument; if he did, his Fifth 
+Amendment privilege would necessarily be abrogated. To 
+put his back to the wall in this way is constitutionally 
+untenable, for no legitimate purpose can be served by the 
+sort of “impeachment” argument that was made at 
+respondent's trial. 
+
+
+On the contrary, there is a far higher risk of impeding 
+the search for truth than promoting it if such an argument 
+is condoned. The honest defendant, testifying truthfully 
+from recollection, will be unfairly impugned - the more 
+coherent and complete his account, the stronger the accu- 
+sation of fabrication will appear - and he will have 
+equally unacceptable options for foreclosing such an 
+
+
+33 
+
+
+attack: (1) he can refrain from testifying altogether, 
+thereby denying the fact-finder valuable evidence; (2) he 
+can waive his confrontation rights with all their associ- 
+ated fair trial benefits (see, e.g., Coy v. lowa, 487 U.S. 1012 
+[1988]; Snyder v. Massachusetts, 291 U.S. 97 [1934]), and 
+undermine as well his rights to counsel and to present a 
+defense; or (3) he can, as a preemptive move, waive his 
+right to remain silent and make a detailed post-arrest 
+statement to the police or other witnesses, which can later 
+be compared to his trial testimony if a tailoring claim is 
+made; alternatively, he can give up his Fifth Amendment 
+right to preclude the admission of his post-arrest silence 
+into evidence (Doyle v. Ohio, 426 U.S. 610 [1976]) - if the 
+defendant does not have such a pre-trial statement with 
+which to counter a tailoring charge, his silence will be 
+implicitly used against him. 
+
+
+The defendant should not have to make such choices 
+merely to afford the State the opportunity to make 
+unfounded attacks on his credibility. See Simmons v. 
+United States, 390 U.S. 377, 394 (1968) (“we find it intoler- 
+able that one constitutional right should have to be sur- 
+rendered in order to assert another”); Lefkowitz v. 
+Cunningham, 431 U.S. 801, 807-08 (1977) (statute imper- 
+missibly “requires appellee to forfeit one constitutionally 
+protected right as the price for exercising another”). At 
+the very least, a tailoring charge made for the first time 
+on summation, as it was in this case, must be deemed 
+unconstitutional, for it is virtually impossible for the 
+defendant to rebut such a charge. 
+
+
+34 
+
+
+Ill. The court of appeals’ conclusion that the prosecu- 
+tor’s tailoring argument also violated respondent's 
+Fourteenth Amendment rights to due process and 
+a fair trial is not properly before this Court and is, 
+
+
+in any event, correct. 
+
+
+A. Because petitioner did not seek review of the 
+court of appeals’ holding that the prosecutor’s 
+summation comments violated due process, 
+that holding is an independent basis for the 
+judgment below, which should be affirmed. 
+
+
+Petitioner contends that the court of appeals erred by 
+finding a due process violation in this case (see Pet.Br., 
+pp.39-44). This issue, however, was not set forth in peti- 
+tioner’s Question Presented: 
+
+
+Whether the Second Circuit Court of Appeals 
+erred in extending this Court’s decision in 
+Griffin v. California, 380 U.S. 609 (1965) - which 
+prohibited a prosecutor’s comment on a defen- 
+dant’s right to remain silent - to a prosecutor's 
+comments on a testifying defendant’s presence 
+in the courtroom during the testimony of other 
+
+
+witnesses? 
+
+
+Nor is the due process issue fairly included within the 
+question. Indeed, the Solicitor General has candidly 
+admitted that the only issue presented in the certiorari 
+petition is whether Griffin was erroneously extended 
+(amicus brief, p.25, n.14), and the Fourteenth Amendment 
+is not even cited in petitioner's brief as “involved” in the 
+issue presented to this Court (see Pet.Br., p.2). 
+Therefore, petitioner’s due process argument should 
+
+
+not be considered by this Court. U.S.Sup.Ct. Rule 14.1(a); 
+Jones v. United States, 67 U.S.L.W. 4508, 1999 U.S.Lexis 
+
+
+35 
+
+
+4201, p.35 (1999); Taylor v. Freeland, 503 U.S. 638, 645 
+(1992); Yee v. Escondido, 503 U.S. 519, 535-38 (1992). 
+Clearly, whether the particular comments made at 
+respondent's trial warrant granting of the writ on due 
+process grounds is an entirely different question than that 
+presented by petitioner. See, e.g., Izumi Seimitsu Kogyo 
+Kabushiki Kaisha v. U.S. Philips Corp., 510 U.S. 27, 31-32 
+(1993), quoting Yee v. Escondido, supra, 503 U.S. at 537 (“a 
+question which is merely ‘complementary’ or ‘related’ to 
+the question presented in the petition for certiorari is not 
+‘fairly included therein’ ”). 
+
+
+Moreover, contrary to petitioner’s claim that the 
+court of appeals rested its finding of a due process viola- 
+tion solely on the court's “assum(ption of] the existence 
+of a Griffin-like error,” with no other analysis (Pet.Br., 
+pp.39-40), this is simply not the case: fairness was the 
+underlying theme of the court’s decision. The court held 
+that “the prosecutor’s comments ‘so infected the trial 
+with unfairness as to make the resulting conviction a 
+denial of due process’ ” (Pet.App. 49a, quoting Darden v. 
+Wainwright, supra, 477 U.S. 168, 181; Donnelly v. 
+DeChristoforo, supra, 416 U.S. 637, 643). The tailoring argu- 
+ment was found to be fundamentally unfair, for when the 
+prosecutor 
+
+
+raises the specter of fabrication 1) for the first 
+time on summation; 2) without facts in evidence 
+to support the inference; or 3) in a manner 
+which directly attacks the defendant's right to 
+be present during his entire trial, our alarm bells 
+begin to ring. When all three circumstances are 
+present, the bells become shrill sirens. Such 
+commentary is not proper comment on cred- 
+ibility. Lawyers may not raise innuendo relating 
+
+
+36 
+
+
+to bias or credibility from the shadows of unliti- 
+gated facts for the first time in their closing 
+arguments. . . . Without facts in evidence to 
+support an inference of fabrication, such 
+remarks are prejudicial and not at all probative. 
+
+
+Pet.App. 46a (emphasis added). The prosecutor is free to 
+argue that the defendant lacks credibility, but only if 
+“that argument has a basis in fact and not only in innu- 
+endo” (47a; see also concurring opinion at 68a-69a). The 
+argument was also deemed unfair because respondent 
+had no meaningful opportunity to respond to the charge 
+(conc.opin., 68a-69a). 
+
+
+Thus, it was the particular argument made in this 
+case, not any comment on the exercise of Sixth Amend- 
+ment rights, that drove the court of appeals’ due process 
+analysis. In fact, the court explicitly stopped short of 
+ruling that all references to the defendant's exercise of his 
+right to be present would constitute per se constitutional 
+error — it “express[ed] no opinion as to the propriety or 
+constitutionality of similar remarks made during cross- 
+examination” (Pet.App. 40a). Moreover, its decision on 
+petitioner’s rehearing petition had no quarrel with the 
+making of “a factual argument that a defendant used his 
+familiarity with the testimony of the prosecution wit- 
+nesses to tailor his own exculpatory testimony” (id. at 
+72a). The court of appeals instead ruled that it was 
+improper to raise a tailoring claim for the first time on 
+summation with no supporting evidence, based solely on 
+the defendant's exercise of his Sixth Amendment rights 
+(id. at, e.g., 46a, 72a-73a). 
+
+
+37 
+
+
+The court's Fourteenth Amendment analysis is thus 
+independent from its Sixth Amendment finding of consti- 
+tutional error, and it is only the latter issue that petitioner 
+sought review of in this Court. 
+
+
+B. The court of appeals’ finding of a due process 
+violation was, in any event, completely justi- 
+fied.’ 
+
+
+As previously discussed (see Part I[B], ante), the pros- 
+ecutor did not simply ask the jury to consider respon- 
+dent’s opportunity to tailor his testimony, based solely on 
+the exercise of his confrontation rights without a shred of 
+evidence to support the charge - she actually accused 
+him of tailoring. This was not only a Sixth Amendment 
+violation, but a due process violation as well: the argu- 
+ment was fundamentally unfair and sufficiently 
+egregious to warrant granting of the writ under the Four- 
+teenth Amendment (see Part III [A], ante). 
+
+
+Petitioner's additional attacks on the court of 
+appeals’ due process analysis are equally specious. First, 
+
+
+” Unlike petitioner, respondent's due process arguments 
+are properly before the Court. Respondent is entitled to rely on 
+any argument in defense of the judgment which is supported by 
+the law and the record. E.g., Schenck v. Pro-Choice Network, 519 
+U.S. 357, 384 at n.12 (1997); First English Evangelical Lutheran 
+Church v. County of Los Angeles, 482 U.S. 304, 325 at n.3 (1987); see 
+Northwest Airlines, Inc. v. County of Kent, 510 U.S. 355, 364-65 
+incl. n.8 (1994). The claims require no further factual 
+development (cf. Roberts v. Galen, 119 S.Ct. 685, 687 incl. n.2 
+(1999), nor is the issue a “far-reaching” one (South Central Bell 
+Telephone Co. v. Alabama, 119 S.Ct. 1180, 1186 [1999]), divorced 
+from the grounds relied on by the court below to support its 
+judgment. 
+
+
+38 
+
+
+its “fair response” argument (Pet.Br., pp.41-42) is, 
+respectfully, as ludicrous as its contention that the charge 
+of tailoring was grounded in the evidence (Pet.Br., p.46; 
+see n.5, ante). Of course defense counsel urged that the 
+complainants were lying, that they were telling a “story” 
+- their accounts completely contradicted respondent's in 
+several material respects, and it was clear that someone 
+was lying. Indeed, it was precisely because credibility 
+was the only issue for the jury to resolve that the prosecu- 
+tor’s sweeping tailoring accusation - urging rejection of 
+respondent’s account because he had had the unfair 
+“advantage” of listening to the State’s witnesses and con- 
+structing a tale that neatly “fit . . . into the evidence” . 
+was so prejudicial. However, defense counsel based his 
+claims of fabrication firmly on the evidence: e.g., the 
+extensive medical records, the police reports, the photo- 
+graphs of Ms. Winder after she reported the alleged 
+crimes, and the relative reasonableness or unreasonable- 
+ness of the competing accounts (see JA 6-28). Thus, when 
+he characterized Winder’s story as “scripted” - an 
+instance specifically cited by petitioner as justifying the 
+prosecutor’s “responsive” tailoring accusation (Pet.Br., 
+pp.7, 41) - it was based on her acknowledgment that she 
+had made notes of her encounter with respondent and 
+had consulted them prior to testifying before the grand 
+jury and at trial (JA 17). Similarly, his contention that the 
+two complainants (who had been friends and roommates 
+for years) had “talk[ed] it over” before going to the police 
+to report a rape (JA 15) - also cited by petitioner in 
+support of its “invited response” claim (pp.7, 41) - 
+
+
+39 
+
+
+reflected testimony given by both women during their 
+direct examinations.* 
+
+
+Petitioner also cites certain routine instructions given 
+by the trial court which purportedly “minimized the 
+impact” of the prosecutor’s erroneous summation com- 
+ments (Pet.Br., pp.42-43). On the contrary, when the pros- 
+ecutor twice makes a specific tailoring accusation that is 
+immediately objected to and the defense is twice over- 
+ruled, the resulting prejudice cannot possibly be cured by 
+telling the jury later, as part of a series of boilerplate 
+instructions, that what lawyers say is not evidence. Com- 
+pare Caldwell v. Mississippi, 472 U.S. 320, 339 (1985) (death 
+sentence invalidated, where trial judge “not only failed to 
+correct the prosecutor’s remarks, but in fact openly 
+agreed with them”) with Donnelly v. DeChristoforo, supra, 
+416 U.S. 637, 644 (impropriety of prosecutor’s comments 
+explicitly flagged to jury by trial court and direct curative 
+instructions also given). Rather than ameliorating the 
+
+
+* United States v. Robinson, 485 U.S. 25 (1988), cited by 
+petitioner in support of its ‘fair response’ claim (Pet.Br., p.42), 
+does not advance its cause. In Robinson, defense counsel made a 
+specific argument that the government had precluded the 
+defendant from explaining his side of the story, and the 
+prosecutor responded that as a matter of fact, he had had the 
+opportunity to take the stand and provide whatever explanation 
+he chose (id., at 26). The prosecutor's argument, in short, did not 
+seek to use defendant's silence against him, but simply 
+contested a factual claim that had been raised by the defense. In 
+this case, counsel did not contend, e.g., that respondent had not 
+had the chance to tailor his testimony - which might have 
+invited the response that he had - and instead based his attacks 
+on the complainants’ credibility on actual evidence before the 
+jury; as previously noted, the prosecutor's tailoring argument 
+was, in contrast, generic, and had nothing to do with the proof. 
+
+
+40 
+
+
+prejudice, the trial judge exacerbated it by giving his 
+contemporaneous stamp of approval to the prosecutor's 
+remarks. 
+
+
+Finally, petitioner contends that “the proof of guilt 
+was strong,” which “minimized the likelihood that the 
+prosecutor’s remarks infected the entire trial” (Pet.Br., 
+p.42). The court of appeals, which reviewed the entire 
+record (Pet.App. 33a), disagreed (id., 33a-35a, 51a), and 
+for good reason: the jurors deliberated an exhausting four 
+days - hardly an open and shut case for the prosecution - 
+and ultimately acquitted respondent of fourteen of the 
+sixteen complainant-based charges they considered (JA 
+57-60) (one of the counts of which respondent was con- 
+victed, felony assault [no intent to cause physical injury 
+required], was subsequently dismissed by the trial 
+court).? Clearly, the credibility contest was not easily 
+resolved in the State’s favor, and in fact it was almost 
+resolved entirely in respondent's favor. The State’s case 
+can be considered “strong,” therefore, only if it is 
+assumed that respondent was lying - precisely the issue 
+that was unfairly slanted by the prosecutor's tailoring 
+argument. That respondent was not convicted of all 
+counts hardly evidences that the jury was not swayed by 
+the error; indeed, he may well have been acquitted of the 
+balance of the complainants’ charges had his veracity not 
+been unfairly called into question. 
+
+
+® The numerous acquittals included all counts associated 
+with the claim that respondent had threatened both 
+complainants with a gun; in its brief, petitioner treats these 
+alleged threats as established fact. (Pet.Br., p.42). 
+
+
+41 
+
+
+C. Since respondent was compelled by law to 
+attend his trial, the prosecutor’s adverse com- 
+ments on his exercise of the right to be present 
+violated fundamental notions of fairness and 
+offended due process. 
+
+
+As the dissent noted below (Pet.App. 59a), the defen- 
+dant has thw duty as well as the right to be present at 
+trial. See Taylor v. United States, 414 U.S. 17, 20 (1973). In 
+New York, the obligation is codified by statute 
+(N.Y.Crim.Proc.Law 260.10, 340.50; see Practice Commen- 
+taries to C.P.L. 340.50, p.129 [“As a general rule, a defen- 
+dant not only has the right to be present but must be 
+present”]). The same rule obtains in federal court, pur- 
+suant to Fed.R.Crim.Proc. 43 (with limited exceptions, 
+defendant “shall be present” and has “the obligation to 
+remain”); see In re United States v. Cannatella, 597 F.2d 27, 
+27-28 (2nd Cir. 1979) (“Normally a judge can and should 
+compel a defendant to be present at all stages of a felony 
+trial pursuant to Rule 43[a]”; there is only “a residue of 
+judicial discretion in unusual circumstances where good 
+cause is shown . . . to permit temporary absence”); Unite? 
+States v. Moore, 466 F.2d 547, 548 (3rd Cir. 1972) (defen- 
+dant has no “right of absence”). 
+
+
+© In New York, similarly, the defendant “must obtain the 
+permission of the Trial Judge to be absent from a trial” (People v. 
+Winship, 309 N.Y. 311, 314 [1955]), and the court’s ruling is 
+reviewed under an abuse of discretion standard. People v. 
+Williams, 92 N.Y.2d 993, 996 (1998) (defendant's request to waive 
+presence at sidebar questioning of prospective jurors should 
+have been granted, as there were sound “strategic reasons” for 
+such a waiver). Indeed, the primary purpose of bail statutes is to 
+ensure the defendant's appearance in court (N.Y.Crim.Proc.Law 
+500.10[1]-[{3]; 510.30[2}{a]), and a bench warrant may be issued 
+
+
+42 
+
+
+Since the government thus imposes an affirmative 
+duty on the defendant to be present at trial, it would be 
+fundamentally unfair to then punish him for his compli- 
+ance. Cf. Doyle v. Ohio, supra, 426 U.S. 610, 618 (Miranda 
+warnings provide implicit assurance that silence will not 
+be penalized, and it thus “would be fundamentally unfair 
+and a deprivation of due process to allow the arrested 
+person's silence to be used to impeach [him at trial]”); 
+Cox v. Louisiana, 379 U.S. 559, 571 (1965) (where city 
+officials had given defendant permission to demonstrate 
+in certain location, it was violation of due process to 
+convict him for picketing “near” courthouse; this was 
+form of entrapment by the State); see also Jenkins v. Ander- 
+son, supra, 447 U.S. 231, 240 (impeachment with pre-arrest 
+silence does not violate due process, since “no govern- 
+mental action induced petitioner to remain silent before 
+arrest”). Clearly, if “to punish a person because he has 
+done what the law plainly allows him to do is a due 
+process violation of the most basic sort” (Bordenkircher v. 
+Hayes, 434 U.S. 357, 363 [1978] [emphasis added)]), it 
+necessarily offends due process to impose a penalty for 
+doing what is required by the State. 
+
+
+The court of appeals found that the prosecutor’s 
+comments on summation violated respondent's rights 
+under the Fifth, Sixth and Fourteenth Amendments 
+(Pet.App. 36a-52a). For all the reasons stated, its conclu- 
+sion that constitutional error was committed is well- 
+
+
+for his arrest, and his pre-trial confinement ordered, if he 
+breaches his obligation (see N.Y.Crim.Proc.Law 510.50, 
+530.60[1], 530.70) (the federal analogue is 18 U.S.C. § 3142). 
+
+
+43 
+
+
+founded. The State has not challenged, either in its cer- 
+tiorari petition or its brief on the merits, the court's 
+additional finding that the error was not harmless under 
+the standard enunciated in Brecht v. Abrahamson, 507 U.S. 
+619, 637-38 (1993) (reviewing court must determine 
+whether error had a “substantial and injurious effect or 
+influence in determining the jury’s verdict”) (see Pet.App. 
+52a-54a; see also Solicitor General’s amicus curiae brief in 
+support of petitioner, p.25, n.14 [acknowledging that cer- 
+tiorari petition “present(s] only [the] question of whether 
+court of appeals erred in extending Griffin”]). Accord- 
+ingly, that issue should not be reconsidered by this Court. 
+See Wainwright v. Greenfield, 474 U.S. 284, 295, n.13, and 
+296, 301 (concurring opinion of Rehnquist, J.) (1986) (gov- 
+ernment did not challenge lower court’s conclusion that 
+error was not harmless, and that issue was not considered 
+by Supreme Court); United States v. Hale, 422 U.S. 171, 175 
+at n.3 (1975) (same); cf. United States v. Hastings, 461 U.S. 
+499, 506 at n.4 (1983) (Court reviewed harmless error 
+issues rather than conclusion that error in fact occurred: 
+“The question on which review was granted assumed 
+that there was error and the question to be resolved was 
+whether harmless-error analysis should have applied”); 
+see also, e.g., U.S.Sup.Ct. Rule 14.1(a); Yee v. Escondido, 503 
+U.S. at 535-38; Izumi Seimitsu Kogyo Kabushiki Kaisha v. 
+U.S. Philips Corp., 510 U.S. at 31-32. 
+
+
+s 
+
+
+44 
+
+
+CONCLUSION 
+
+
+THE JUDGMENT OF THE COURT OF APPEALS 
+SHOULD BE AFFIRMED. 
+
+
+Respectfully submitted, 
+
+
+Beverty VAN Ness 
+Attorney for Respondent 
+August 1999 
+
+

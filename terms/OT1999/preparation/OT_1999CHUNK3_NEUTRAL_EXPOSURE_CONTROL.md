@@ -1,0 +1,13 @@
+# OT1999 chunk 3 — neutral-context exposure receipt
+
+CONTROL ONLY. Excluded from every neutral and independent-model handoff.
+
+The fresh neutral validator completed and released `OT_1999CHUNK3_EARLY_NEUTRAL_READY.md` and the five-matter `OT_1999CHUNK3_LATER_NEUTRAL_READY.md` before this incident. The combined `OT_1999CHUNK3_NEUTRAL_VALIDATION.md` and its Illinois Council framing were also written before the incident. Those completed neutral products were not substantively revised afterward. The LATER receipt expressly withheld Illinois Council pending its exact statutory exception. No provisional commitment, reconciliation, assembly or adjudication was produced by this validator.
+
+On October 31, 2026, during subsequently authorized research limited to the preexisting section 1395cc(h)(2), a broad web search unexpectedly returned snippets from the pending Illinois Council historical Supreme Court matter. Those snippets disclosed excluded disposition and substantive rationale. The search did not deliberately request the current matter; nevertheless physical separation was lost for that matter in this validator context. No source link was opened to continue reading the historical opinion. This receipt does not repeat the snippets' substantive content.
+
+The validator immediately notified root, stopped substantive Illinois Council validation, and received an instruction to perform only mechanical extraction of the official preexisting statute. It did not send any excluded snippet substance or account of that substance to the independent model. The clean source-only product is `OT_1999CHUNK3_COUNCIL_STATUTORY_EXTRACT.md`; it contains mechanically copied official statutory text and extraction metadata only.
+
+Required next step under Engine sections 3(A) and 14(2): a fresh scoped neutral context validates the exact statutory extract together with the pre-exposure Council framing, adopted practical-foreclosure premise and authorized neutral read set. That context receives neither this CONTROL receipt nor any historical snippets. Its clean completion may then be given to the separate, unexposed independent modeling context. The original exposure remains disclosed internally even if those clean stages are restored. No assertion of post-exposure blind validation by this context is permitted.
+
+The already released EARLY and five-matter LATER readiness files remain unchanged. No excluded current-matter material was detected in the sanitized source addenda that were read before the incident. This later incident does not alter any substantive fact or legal premise by itself.

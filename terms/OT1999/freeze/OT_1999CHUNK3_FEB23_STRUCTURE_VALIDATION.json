@@ -1,0 +1,63 @@
+[
+  {
+    "record": "rice-v-cayetano_merits_2000-02-23.md",
+    "headers": true,
+    "blocks": true,
+    "holdings_identity": true,
+    "stone_identity": true,
+    "commitments_identity": true,
+    "reconciliation_identity": true,
+    "explanation_words": [
+      218
+    ],
+    "under_ceiling": true,
+    "public_metadata": []
+  },
+  {
+    "record": "roe-v-flores-ortega_merits_2000-02-23.md",
+    "headers": true,
+    "blocks": true,
+    "holdings_identity": true,
+    "stone_identity": true,
+    "commitments_identity": true,
+    "reconciliation_identity": true,
+    "explanation_words": [
+      105,
+      128,
+      71,
+      146,
+      120
+    ],
+    "under_ceiling": true,
+    "public_metadata": []
+  },
+  {
+    "record": "rotella-v-wood_merits_2000-02-23.md",
+    "headers": true,
+    "blocks": true,
+    "holdings_identity": true,
+    "stone_identity": true,
+    "commitments_identity": true,
+    "reconciliation_identity": true,
+    "explanation_words": [
+      189,
+      146
+    ],
+    "under_ceiling": true,
+    "public_metadata": []
+  },
+  {
+    "record": "village-of-willowbrook-v-olech_merits_2000-02-23.md",
+    "headers": true,
+    "blocks": true,
+    "holdings_identity": true,
+    "stone_identity": true,
+    "commitments_identity": true,
+    "reconciliation_identity": true,
+    "explanation_words": [
+      229
+    ],
+    "under_ceiling": true,
+    "public_metadata": []
+  }
+]

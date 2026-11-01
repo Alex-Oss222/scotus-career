@@ -1,0 +1,229 @@
+**Case and dockets:** Baral v. United States; No. 98-1667
+**Event and date:** Merits decision; 2000-02-22; October Term 1999.
+**Result:** Affirmed; 9–0.
+**Version / lineage:** Original decision. No prior adjudication is replaced. Repository commitment is reserved to the operator.
+
+**Source chunk:** OT_1999CHUNK3.
+
+## Event, participation and reach
+
+Argued January 18, 2000; decided 2000-02-22, October Term 1999. On writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit, 172 F.3d 918. Question presented and granted: When are wage withholding and estimated income-tax remittances deemed paid for the refund amount lookback, and does later return filing or assessment change those dates?
+
+All nine Justices participated at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No disqualification is supplied. Nine participants satisfy the six-Justice quorum; five votes suffice for a judgment and a controlling rationale. The lawful channel is plenary certiorari review of the final judgment identified above. The source-supported dates are the term inventory placements confirmed by the neutral source receipt. No same-day early matter supplies a dependency.
+
+**Chronology and route.** Argued January 18, 2000; event placement February 22, 2000. Certiorari to the D.C. Circuit; judgment order at 172 F.3d 918 (1999), affirming federal summary judgment for the United States. No participation disqualification was identified.
+
+**Undisputed dates and amounts.** Baral's employer withheld $4,104 from his wages during 1988. Baral remitted a further $1,100 as estimated income tax in January 1989. The ordinary filing date was April 15, 1989; he obtained an extension to August 15, 1989. He filed on June 1, 1993, and the IRS assessed the reported liability on July 19, 1993. The return claimed a $1,175 overpayment and asked that it be credited to his outstanding 1989 tax obligations. This is a requested credit of a claimed overpayment, not a request to disregard the ordinary remittances entirely.
+
+**Narrow dispute.** The IRS did not dispute that the claim was filed within the applicable section 6511(a) filing period. It denied recovery under the separate ceiling in section 6511(b)(2)(A): the amount cannot exceed tax paid during the immediately preceding three years plus any filing extension. The parties' relevant lookback runs from February 1, 1990 through June 1, 1993, counting the four-month extension. The government treated both remittances as paid April 15, 1989 under section 6513(b). Baral argued payment occurred no earlier than filing the return and more precisely on the July 19 assessment. He also argued withholding and estimated tax were separate taxes converted to income tax upon the return. These are opposing legal positions, not fresh conclusions.
+
+**Preexisting terms.** The companion reproduces section 6513(b)(1) and (2), including the chapter 24/section 31 qualifications on withholding and the express disregard of filing extensions when fixing the estimated-income-tax deemed payment date. Section 6513's dates apply for sections 6511 and 6512. Section 6151(a)'s payment direction operates without assessment or notice and demand; section 6315 describes estimated income-tax payment as payment on account of subtitle A income taxes. These provisions must be kept distinct from section 6511's claim-filing deadline and amount ceiling.
+
+**Preexisting payment/deposit authority.** *Rosenman v. United States*, 323 U.S. 658, 659–663 (1945), involved an estate-tax remittance made under protest to avoid interest and penalties, placed in a suspense account before assessment. The Court treated that arrangement as a deposit resembling a cash bond; the relevant payment occurred when the balance was applied to the later deficiency. It rejected treating the same transaction as a deposit for government-interest purposes but as a payment to bar the taxpayer's refund claim. Baral invokes that prior case for his assessment-based argument; how its estate-tax arrangement relates to the two specified income-tax remittances and section 6513 is the present interpretive dispute, not a neutral conclusion. [Prior decision](https://www.govinfo.gov/content/pkg/USREPORTS-323/pdf/USREPORTS-323-658.pdf).
+
+**Source and limits.** Official U.S. Reports, 528 U.S. 432–435, 436–437, used for undisputed facts, opposing submissions, and quoted preexisting provisions. [Official source](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-431.pdf). No general fact about every tax remittance, estate-tax deposit, or remittance during audit follows from this record. Those are not the two remittance types before the Court. The original collection item was located. No reconstructed assessment, payment, or tolling fact is adopted.
+
+## Entering law and record scope
+
+Exact entries: **Notice-date selection of the Tax Court refund lookback** (Lundy, January 17, 1996); **Tax-refund filing and payment limits do not permit incapacity tolling** (Brockamp, February 18, 1997). Lundy separates the selecting claim and payment window but its Tax Court hypothetical is not this actual-return suit. Brockamp preserves both an independent amount ceiling and the genuine-deposit question. Sections 6513(b)(1)–(2), 6511(b)(2)(A), 31, 6151 and 6315 govern the specified remittances.
+
+Authority is the underlying holdings and effective current-term Records copied in the EARLY entering-law slice and the frozen entering neutral state through February 14, 2000. Same-day independent matters retain their common baseline. The readiness receipt supersedes obsolete mechanical-packet placeholders. No later law, modern rule amendment or new material factual premise is used.
+
+## Stone
+
+# SECTION II: STONE POSITION SUPPLEMENT
+
+## A. STATUS
+
+* **Version:** OT_1999 reconciliation — Baral v. United States — October 31, 2026
+* **Approval Status:** Approved
+* **Approval Date or Turn:** October 31, 2026 — express user approval of all current stances in this chat.
+* **Current-Through Baseline:** June 23, 1999; subject to any actual, earlier effective OT_1999 judgment before this event.
+* **Conditions:** The judgment, holding, and remedy remain subject to the issue-specific record limits, reservations, and effective earlier same-term precedent stated in this brief.
+
+## B. JUDGMENT AND REMEDY
+
+* **Stone's Controlled Judgment or Disposition:** Affirm the judgment below.
+* **Stone's Remedy and Remand Position:** No separate remedial instruction is required beyond leaving the judgment in place, subject to the limits stated below. Interpret §§ 6511 and 6513; apply statutory deemed-payment dates; affirm untimeliness.
+
+## C. ISSUE POSITIONS
+
+### Issue 1: Wage withholding and an estimated-tax payment are paid
+
+* **Threshold and Merits Reach:** Stone reaches the merits of this issue. No separate threshold or vehicle bar identified in Section I prevents decision.
+* **Stone's Legal Position:** Affirm the judgment below. For the refund lookback rule, wage withholding and estimated-tax remittances are deemed paid on the statutory due date specified by § 6513, not when a delinquent return is later filed. This applies Congress's payment-date rule even though it defeats an otherwise sympathetic refund claim.
+* **Stone's Proposed Holding:** For the refund lookback rule, wage withholding and estimated-tax remittances are deemed paid on the statutory due date specified by § 6513, not when a delinquent return is later filed.
+* **Essential Reasoning and Record Application:** Affirm the judgment below. For the refund lookback rule, wage withholding and estimated-tax remittances are deemed paid on the statutory due date specified by § 6513, not when a delinquent return is later filed. This applies Congress's payment-date rule even though it defeats an otherwise sympathetic refund claim. Leave the denial of Baral’s refund claim in place and reach the statutory timing question. Lundy prevents conflating filing timeliness with the amount recoverable. Baral’s later return cannot restart the statutory payment date, so the lookback defeats the claim under the enacted rule rather than a judicial timeliness penalty.
+* **Boundary or Reserved Question:** The rule does not address a timely administrative claim or a remittance outside § 6513.
+
+**Final compatibility and scope:** Stone affirms denial of the requested credit and joins the full Court opinion. His reproduced shorthand “affirm untimeliness” and reservation concerning “a timely administrative claim” are read with his express, more specific instruction that Lundy prevents conflating filing timeliness and recoverable amount, and that the lookback defeats this claim rather than a judicial timeliness penalty. No section 6511(a) untimeliness holding is attributed to him: that conceded question is not adjudicated. The payment-date core and remittance-outside-section-6513 reservation remain exact. This resolves inconsistent shorthand without changing any judgment, remedy, burden or ground. No standing fallback supplies a governing proposition or author eligibility. Approval is the October 31, 2026 version reproduced above and the current Run authorization; no fresh position is invented.
+
+## Form, assignment and final joins
+
+**Form first:** One signed Court opinion on the two statutory deemed-payment dates and the independent amount-window application; related statutory operations remain one opinion. No separate writing is necessary.
+
+**Assignment authority:** Chief Justice Stone-Zsela is in the tentative judgment majority and assigns this signed lead.
+
+**Counts before assignment, freshly recounted from actual earlier opinion tables:** Stone-Zsela 1; Stevens 2; O'Connor 3; Scalia 3; Kennedy 2; Souter 2; Thomas 2; Ginsburg 2; Breyer 3.
+
+**Last counted event:** Richards v. United States, 2000-02-14; Scalia. The attached source list identifies every counted lead; no earlier assignment tally supplies these numbers.
+
+**Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. All nine support every governing proposition, qualification and remedy from their approved or reconciled grounds. Stone eligibility rests on his approved core, not the standing fallback.
+
+**Balance pool:** Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg. The Chief assigns within this pool.
+
+**Selected author:** Stone-Zsela. Fit governs the settled common ground. The opinion must distinguish a timely claim, a statutory payment date and the independently recoverable amount without turning a sympathetic claim into a filing penalty. Stone's approved application expressly organizes those three operations and confines the judgment to the lookback; his authorship gives a concrete precision advantage in preserving that distinction throughout the disposition. Thomas is the strongest alternative pool candidate for the express-date statutory work and can faithfully write the result, but offers no countervailing advantage on the claim/amount separation. Stone also has the lower count, one rather than two. This self-assignment rests on that actual legal task, not office or historical authorship.
+
+**Final compatibility:** All nine join the statutory payment-date and amount-limit propositions in full. Each Associate's B1–B3 commitment is retained. The final text excludes the Tax Court hypothetical, all-remittance rule and claim-filing untimeliness; no objection changes and no circulation event is invented.
+
+**Counted signed plenary lead:** Yes; one lead, counted once for Stone-Zsela.
+
+## Controlling holdings
+
+### Withholding and estimated income tax have their statutory payment dates
+
+**Holding and operative rule:** For sections 6511 and 6512, income tax actually deducted and withheld under chapter 24 is deemed paid by the income recipient on the fifteenth day of the fourth month following the taxable year for which it is allowable as a section 31 credit; estimated income tax is deemed paid on the last day prescribed for filing that year's return without regard to filing extensions. A later return or assessment does not postpone either date.
+
+**Authority:** Chief Justice Stone-Zsela's opinion of the Court, joined in full by all eight Associate Justices, supplies nine direct votes for each proposition; no fractured rationale is involved.
+
+**Controlling explanation:** Section 6513(b)(1) expressly governs withholding and section 6513(b)(2) governs estimated income tax. Those provisions leave no role for assessment to create a different payment date. Section 6151 requires payment without assessment or notice and demand; sections 31 and 6315 likewise treat withholding and estimates as income-tax payments or credits, rather than independent taxes converted only upon assessment. Rosenman concerned an estate-tax remittance held in a suspense account as a deposit; that distinct arrangement does not override the specified income-tax rules here. The $4,104 withheld during 1988 and the $1,100 estimate remitted in January 1989 are consequently deemed paid April 15, 1989. The Court decides no rule for remittances outside section 6513.
+
+### A timely claim remains subject to the separate recoverable-amount ceiling
+
+**Holding and operative rule:** For a claim within section 6511(a)'s return-based period, section 6511(b)(2)(A) limits a credit or refund to tax paid during the three years immediately preceding the claim plus any extension for filing the return. Compliance with the claim-filing period does not bring payments outside that window within the recoverable amount.
+
+**Authority:** Chief Justice Stone-Zsela's opinion of the Court, joined in full by all eight Associate Justices, supplies nine direct votes for each proposition; no fractured rationale is involved.
+
+**Controlling explanation:** Lundy separates the claim that selects a window from the payments the window reaches; Brockamp gives the amount ceiling independent force. This case involves an actual return and a claim whose section 6511(a) timeliness is undisputed, so it presents no need to decide that question or use Lundy's Tax Court hypothetical. Baral filed the return and credit claim June 1, 1993. Adding his four-month filing extension to the three-year lookback produces a window beginning February 1, 1990. Both deemed payments preceded it. The extension enlarges that window but does not move the estimated-tax date fixed without extensions by section 6513(b)(2). No part of the requested $1,175 credit is recoverable through this route. The denial rests on amount, not late filing of the claim; no incapacity, fraud, inducement, special-period or universal jurisdictional question is decided.
+
+## Continuity
+
+The judgment and operative law appear in the Public Projection below. No pending Supreme Court proceeding or dependency is created. No material published noncontrolling proposition arises because all nine join the Court opinion and no separate writing issues.
+
+## Adaptive audit annex
+
+### Frozen independent commitments (verbatim case section)
+
+**Commitment:** All eight Associates affirm the D.C. Circuit judgment denying the requested credit. Each joins B1-B3 in full.
+
+**Components and sufficient ground.** B1: For sections 6511 and 6512, income tax actually withheld under chapter 24 and allowable as a section 31 credit is deemed paid under section 6513(b)(1) on the fifteenth day of the fourth month after the taxable year. B2: Estimated income tax is deemed paid under section 6513(b)(2) on the unextended last day for filing that year's return. Assessment and a delinquent return are not prerequisites to either specified payment date. B3: A timely section 6511(a) claim cannot recover more than tax paid within section 6511(b)(2)(A)'s independent three-years-plus-extension window. The $4,104 withholding and $1,100 estimated payment are deemed paid April 15, 1989, before the February 1, 1990 start of the window preceding the June 1, 1993 claim. The four-month extension enlarges that window without moving the estimated-payment date. The $1,175 requested credit therefore fails on amount, not filing timeliness.
+
+**Alternative tested.** Baral's strongest path treats an unassessed remittance as a deposit until return or assessment, invoking Rosenman's suspense-account estate-tax arrangement. That distinction remains available for other remittances, as Brockamp preserved. It cannot override the specific statutory treatment of these two classes. Section 6151 directs payment without assessment or notice and demand, and section 6315 treats estimates as payments on account of income tax. Characterizing withholding and estimates as separate taxes later converted to income tax does not displace sections 31, 6315 and 6513. No universal rule for all deposits follows.
+
+| Justice | Judgment/joins | Own date-eligible basis and limit |
+|---|---|---|
+| Stevens | Affirm; B1-B3 | His unanimous Brockamp Parts I-II joins recognize filing and amount as independent operations. His different Lundy position does not decide this actual-return claim, whose filing timeliness is conceded. |
+| O'Connor | Affirm; B1-B3 | Her Lundy opinion separates claim, return and payment-window events; her Brockamp joins preserve the independent amount limit. No Tax Court hypothetical is needed here. |
+| Scalia | Affirm; B1-B3 | His Lundy and Brockamp joins support the explicit deemed dates; assessment cannot replace them. No universal jurisdictional characterization. |
+| Kennedy | Affirm; B1-B3 | His Lundy/Brockamp joins support the separate amount bar despite timely filing. Rosenman's actual deposit distinction survives. |
+| Souter | Affirm; B1-B3 | His Lundy/Brockamp joins support distinct statutory operations; late assessment cannot move the specified payment event. |
+| Thomas | Affirm; B1-B3 | His Brockamp joins support the independent amount ground. Any Lundy disagreement concerns its notice-date route, not this actual claim and explicit section 6513 dates. |
+| Ginsburg | Affirm; B1-B3 | Her Lundy/Brockamp joins support statutory separation and a bounded remittance holding. No filing untimeliness is attributed to Baral. |
+| Breyer | Affirm; B1-B3 | His Brockamp opinion gives the payment window independent work and preserves genuine deposits; specific section 6513 treatment resolves this case. |
+
+**Remedy and authority limits.** Affirm denial of this credit; no new assessment, refund amount or hearing. Lundy supplies separation, not a new Tax Court route. Brockamp preserves the amount ceiling and deposit distinction. Rosenman remains an estate-tax deposit decision, not an assessment prerequisite for all income tax. No incapacity, special-period, universal jurisdictional or new equitable rule. No separate writing is needed on this common ground.
+
+### Frozen historical reconciliation (verbatim case section; controls any express clarification of the provisional section)
+
+**Historical control.** The complete unanimous opinion, including both footnotes, is [528 U.S. 431–439](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-431.pdf). Its premise is a timely claim whose recoverable amount is zero because the two specified income-tax remittances were deemed paid before the lookback. It does not hold the filing itself late. It distinguishes Rosenman's estate-tax suspense arrangement and reserves remittances outside an applicable deemed-payment provision.
+
+**Reconciled components.** All eight Associates retain B1–B3. B1 applies section 6513(b)(1) to tax actually deducted and withheld under chapter 24, with respect to the recipient's year for which the amount is allowable under section 31: payment is deemed on the fifteenth day of the fourth month after that year. B2 applies section 6513(b)(2) to estimated income tax: payment is deemed on the unextended last day prescribed for filing that year's return. Return filing and assessment do not postpone either date. B3 independently applies section 6511(b)(2)(A)'s three-years-plus-extension amount window. The $4,104 withholding and $1,100 estimate are paid April 15, 1989; the June 1, 1993 claim's window starts February 1, 1990, including the four-month filing extension. No part of the requested $1,175 credit is recoverable through this route.
+
+**Premise comparison.** Current Lundy and Brockamp preserve the separation between claim timing and amount. Lundy's notice-date hypothetical and Stevens's and Thomas's different positions in that case do not govern this actual timely claim. Brockamp's retained deposit alternative makes it necessary to preserve, not erase, the distinction between a true deposit and these statutorily treated remittances. Sections 31, 6151 and 6315 defeat the argument that withholding and estimates are independent taxes transformed only upon assessment. No changed factual, statutory or procedural premise supports departing from any Associate's historical vote.
+
+| Justice | Frozen → reconciled commitment | Individual comparison and join limit |
+|---|---|---|
+| Stevens | Affirm B1–B3 → retained | Historical full join rests on explicit section 6513 dates. His current Brockamp joins adopt the independent amount ceiling; his Lundy disagreement concerns a hypothetical claim without a return, absent here. No changed premise supports a deposit override. |
+| O'Connor | Affirm B1–B3 → retained | Historical full join and her current Lundy opinion both separate the selecting claim from the payment window. The statutory extension enlarges the window without moving section 6513's estimated-payment date. |
+| Scalia | Affirm B1–B3 → retained | Historical full join is reinforced by his current Lundy/Brockamp joins. Nothing in this case warrants a universal jurisdictional label or an assessment prerequisite. |
+| Kennedy | Affirm B1–B3 → retained | His historical full join and current Lundy/Brockamp joins give the explicit payment event independent work. Rosenman's different transaction does not alter the present statute. |
+| Souter | Affirm B1–B3 → retained | His historical full join and present statutory-window commitments align. A later return or assessment cannot move a deemed date; other remittance categories remain open. |
+| Thomas | Affirm B1–B3 → retained | His historical sufficient ground is the particular statute. His current Brockamp joins support the amount ceiling; his Lundy position supplies no disagreement on this actual-return claim. Historical authorship supplies no assignment. |
+| Ginsburg | Affirm B1–B3 → retained | Her historical and current Lundy/Brockamp joins preserve the distinction between timely filing and recoverable amount. No broader deposit classification is necessary. |
+| Breyer | Affirm B1–B3 → retained | His historical full join and current Brockamp opinion both require statutory separation. Preserving genuine deposit questions is compatible with applying these express payment dates. |
+
+**Remedy and limits.** Affirm denial of the credit. Do not order an assessment, hearing or refund; decide no incapacity, fraud, inducement, mitigation or universal deposit rule. The historical discussion of taxpayer interest confirms the payment-date reading but supplies no separate interest award. No separate-writing function is required on the agreed ground. No material historical departure remains.
+
+### Assignment arithmetic by Justice
+
+| Justice | Count | Last counted opinion by that Justice | Eligible for full lead | In balance pool |
+|---|---:|---|---|---|
+| Stone-Zsela | 1 | Illinois v. Wardlow; 2000-01-12 | Yes | Yes |
+| Stevens | 2 | Smith v. Robbins; 2000-01-19 | Yes | Yes |
+| O'Connor | 3 | Nixon v. Shrink Missouri Government PAC; 2000-01-24 | Yes | No |
+| Scalia | 3 | Richards v. United States; 2000-02-14 | Yes | No |
+| Kennedy | 2 | Rayphand v. Sablan / Torres v. Sablan; 1999-12-13 | Yes | Yes |
+| Souter | 2 | Gutierrez v. Ada; 2000-01-19 | Yes | Yes |
+| Thomas | 2 | Martinez v. Court of Appeal of California, Fourth Appellate District; 2000-01-12 | Yes | Yes |
+| Ginsburg | 2 | U.S. West, Inc. v. Federal Communications Commission; 2000-02-07 | Yes | Yes |
+| Breyer | 3 | Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board; 2000-01-24 | Yes | No |
+
+## Sources and validation
+
+Research cutoff: 2000-02-22. Factual provenance and source limits are reproduced in the event kernel; historical comparator and simulated current law remain distinct. The final proposed public text was compared with the eight reconciled commitments and approved Stone core. No invented circulation history, new fact, unsupported changed vote or material historical departure is used. Quorum, judgment counts, proposition joins, disposition/remedy consistency, form-before-count ordering, fresh sequential assignment arithmetic, eleven-block order and public/private separation were checked locally. Full term deterministic validation, workspace synchronization and repository commitment remain pending with the central operator; no Git check or commit is claimed. This Record becomes the durable source for subsequent same-Run assignment counts once written. No original merits filing or joint appendix is represented as fully read by this assembly context.
+
+Assignment recount evidence: OT_1999CHUNK3_ASSIGNMENT_baral-v-united-states_merits_2000-02-22.json.
+
+## Public Projection
+
+## Event
+
+Baral v. United States, No. 98-1667. Merits decision; February 22, 2000. Argued January 18, 2000. On writ of certiorari to the United States Court of Appeals for the District of Columbia Circuit, 172 F.3d 918. Question: When are wage withholding and estimated income-tax remittances deemed paid for the refund amount lookback, and does later return filing or assessment change those dates?
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+## Public Action
+
+Affirmed.
+
+## Judgment & Remedy
+
+Affirmed, 9–0. Supporting: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The D.C. Circuit judgment denying the requested $1,175 credit remains in place. No refund, new assessment or further hearing is ordered.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Supports the judgment | Entire opinion |
+
+## Holdings
+
+### Withholding and estimated income tax have their statutory payment dates
+
+**Holding and operative rule:** For sections 6511 and 6512, income tax actually deducted and withheld under chapter 24 is deemed paid by the income recipient on the fifteenth day of the fourth month following the taxable year for which it is allowable as a section 31 credit; estimated income tax is deemed paid on the last day prescribed for filing that year's return without regard to filing extensions. A later return or assessment does not postpone either date.
+
+**Authority:** Chief Justice Stone-Zsela's opinion of the Court, joined in full by all eight Associate Justices, supplies nine direct votes for each proposition; no fractured rationale is involved.
+
+**Controlling explanation:** Section 6513(b)(1) expressly governs withholding and section 6513(b)(2) governs estimated income tax. Those provisions leave no role for assessment to create a different payment date. Section 6151 requires payment without assessment or notice and demand; sections 31 and 6315 likewise treat withholding and estimates as income-tax payments or credits, rather than independent taxes converted only upon assessment. Rosenman concerned an estate-tax remittance held in a suspense account as a deposit; that distinct arrangement does not override the specified income-tax rules here. The $4,104 withheld during 1988 and the $1,100 estimate remitted in January 1989 are consequently deemed paid April 15, 1989. The Court decides no rule for remittances outside section 6513.
+
+### A timely claim remains subject to the separate recoverable-amount ceiling
+
+**Holding and operative rule:** For a claim within section 6511(a)'s return-based period, section 6511(b)(2)(A) limits a credit or refund to tax paid during the three years immediately preceding the claim plus any extension for filing the return. Compliance with the claim-filing period does not bring payments outside that window within the recoverable amount.
+
+**Authority:** Chief Justice Stone-Zsela's opinion of the Court, joined in full by all eight Associate Justices, supplies nine direct votes for each proposition; no fractured rationale is involved.
+
+**Controlling explanation:** Lundy separates the claim that selects a window from the payments the window reaches; Brockamp gives the amount ceiling independent force. This case involves an actual return and a claim whose section 6511(a) timeliness is undisputed, so it presents no need to decide that question or use Lundy's Tax Court hypothetical. Baral filed the return and credit claim June 1, 1993. Adding his four-month filing extension to the three-year lookback produces a window beginning February 1, 1990. Both deemed payments preceded it. The extension enlarges that window but does not move the estimated-tax date fixed without extensions by section 6513(b)(2). No part of the requested $1,175 credit is recoverable through this route. The denial rests on amount, not late filing of the claim; no incapacity, fraud, inducement, special-period or universal jurisdictional question is decided.
+
+## Precedent Treatment
+
+- Rosenman v. United States: distinguished as a suspense-account estate-tax deposit; its deposit rule survives for its proper setting.
+- Commissioner v. Lundy: applied for the distinction between claim timing and payment lookback; its notice-date hypothetical does not govern this actual claim.
+- United States v. Brockamp: applied for the independent recovery-amount ceiling; its reservation of genuine deposits is preserved.
+
+## Law After Decision
+
+Sections 6513(b)(1) and (2) fix the payment dates of these withholding and estimated-income-tax remittances before application of the separate section 6511 amount window. A later return or assessment cannot restart those dates. Claim timeliness and recoverable amount remain separate; other remittance categories retain their own classification questions.
+
+## Separate Writings
+
+
+
+## Procedure After Action
+
+The D.C. Circuit judgment denying the requested $1,175 credit remains in place. No refund, new assessment or further hearing is ordered.
+
+## Source Notes
+
+[Official record and preexisting provisions, 528 U.S. 431](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-431.pdf). The underlying disposition and governing authorities are stated above; no fact beyond the described record is resolved.

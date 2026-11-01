@@ -1,0 +1,807 @@
+528US2 Unit: $U26 [06-18-01 18:03:50] PAGES PGT: OPIN
+
+440  OCTOBER TERM, 1999
+
+     Syllabus
+
+        WEISGRAM et al. v. MARLEY CO. et al.
+
+certiorari to the united states court of appeals for
+                          the eighth circuit
+
+    No. 99–161. Argued January 18, 2000—Decided February 22, 2000
+
+Bonnie Weisgram died of carbon monoxide poisoning during a ﬁre in her
+   home. Her son, petitioner Chad Weisgram, individually and on behalf
+   of her heirs (hereinafter Weisgram), brought this diversity action in the
+   District Court seeking wrongful death damages. Weisgram alleged
+   that a defect in a heater, manufactured by defendant (now respondent)
+   Marley Company and located in Bonnie Weisgram’s home, caused both
+   the ﬁre and her death. At trial, Weisgram introduced the testimony of
+   three witnesses, proffered as experts, in an endeavor to prove the al-
+   leged heater defect and its causal connection to the ﬁre. The District
+   Court overruled Marley’s objections that this testimony was unreliable
+   and therefore inadmissible under Federal Rule of Evidence 702 as eluci-
+   dated by Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U. S. 579.
+   At the close of Weisgram’s evidence, and again at the close of all the
+   evidence, Marley unsuccessfully moved under Federal Rule of Civil Pro-
+   cedure 50(a) for judgment as a matter of law on the ground that plain-
+   tiffs had failed to meet their burden of proof on the issues of defect and
+   causation. The jury returned a verdict for Weisgram. Marley again
+   requested judgment as a matter of law, and additionally requested, in
+   the alternative, a new trial, pursuant to Rules 50 and 59; among argu-
+   ments in support of its post-trial motions, Marley reasserted that the
+   expert testimony essential to prove Weisgram’s case was unreliable and
+   therefore inadmissible. The District Court denied the motions and en-
+   tered judgment for Weisgram. The Eighth Circuit panel held that Mar-
+   ley’s motion for judgment as a matter of law should have been granted
+   because the testimony of Weisgram’s expert witnesses, the sole evidence
+   supporting the product defect charge, was speculative and not shown to
+   be scientiﬁcally sound, and was therefore incompetent to prove plain-
+   tiffs’ case. The court then considered the remaining evidence in the
+   light most favorable to Weisgram, found it insufﬁcient to support the
+   jury verdict, and directed judgment as a matter of law for Marley. Al-
+   though recognizing its discretion to remand for a new trial under Rule
+   50(d), the court rejected any contention that it was required to do so,
+   stating that this was not a close case, plaintiffs had had a fair opportu-
+   nity to prove their strict liability claim, they failed to do so, and there
+   was no reason to give them a second chance.
+528US2 Unit: $U26 [06-18-01 18:03:50] PAGES PGT: OPIN
+
+Cite as: 528 U. S. 440 (2000)                          441
+
+                                            Syllabus
+
+Held: Rule 50 permits an appellate court to direct the entry of judgment
+   as a matter of law when it determines that evidence was erroneously
+   admitted at trial and that the remaining, properly admitted, evidence is
+   insufﬁcient to constitute a submissible case. Pp. 447–457.
+      (a) Rule 50(d), which controls when, as here, the verdict loser appeals
+   from the trial court’s denial of a motion for judgment as a matter of law,
+   provides: “[T]he party who prevailed on that motion may, as appellee,
+   assert grounds entitling the party to a new trial in the event the appel-
+   late court concludes that the trial court erred in denying the motion . . . .
+   If the appellate court reverses the judgment, nothing in this rule pre-
+   cludes it from determining that the appellee is entitled to a new trial,
+   or from directing the trial court to determine whether a new trial shall
+   be granted.” Rule 50 does not expressly address Weisgram’s conten-
+   tion that, under subdivision (d), when a court of appeals determines that
+   a jury verdict cannot be sustained due to an error in the admission of
+   evidence, the appellate court may not order the entry of judgment for
+   the verdict loser, but must instead remand the case to the trial court
+   for a new trial determination. Neely v. Martin K. Eby Constr. Co., 386
+   U. S. 317, ruled deﬁnitively that if a court of appeals determines that
+   the district court erroneously denied a defendant’s motion for judgment
+   as a matter of law, the appellate court may (1) order a new trial at the
+   verdict winner’s request or on its own motion, (2) remand the case for
+   the trial court to decide whether a new trial or entry of judgment for
+   the defendant is warranted, or (3) direct the entry of judgment as a
+   matter of law for the defendant. Id., at 327–330. Pp. 447–452.
+      (b) The authority of courts of appeals to direct the entry of judgment
+   as a matter of law extends to cases such as the present one in which, on
+   the appellate court’s excision of erroneously admitted testimony, there
+   remains insufﬁcient evidence to support the jury’s verdict. Contrary
+   to Weisgram’s contention, that authority is not limited to cases exempli-
+   ﬁed by Neely in which judgment as a matter of law is requested based
+   on plaintiff ’s failure to produce enough evidence to warrant a jury ver-
+   dict. Weisgram asserts that insufﬁciency caused by deletion of evi-
+   dence on appeal requires an “automatic remand” to the district court for
+   consideration whether a new trial is warranted. His assertion draws
+   support from Court of Appeals decisions holding that, in fairness to a
+   verdict winner who may have relied on erroneously admitted evidence,
+   courts confronting questions of judgment as a matter of law should rule
+   on the record as it went to the jury, without excising evidence inadmissi-
+   ble under Federal Rule of Evidence 702. The decisions on which Weis-
+   gram relies are of questionable consistency with Rule 50(a)(1), which
+   states that in ruling on a motion for judgment as a matter of law, the
+   court is to inquire whether there is any “legally sufﬁcient evidentiary
+528US2 Unit: $U26 [06-18-01 18:03:50] PAGES PGT: OPIN
+
+442  WEISGRAM v. MARLEY CO.
+
+                                            Syllabus
+
+   basis for a reasonable jury to ﬁnd for [the opponent of the motion].”
+   Inadmissible evidence contributes nothing to a “legally sufﬁcient eviden-
+   tiary basis.” See Brooke Group Ltd. v. Brown & Williamson Tobacco
+   Corp., 509 U. S. 209, 242. As Neely recognized, appellate rulings on
+   post-trial pleas for judgment as a matter of law call for the exercise of
+   “informed discretion,” 386 U. S., at 329, and fairness to the parties is
+   surely key to the exercise of that discretion. But fairness concerns
+   should loom as large when the verdict winner, in the appellate court’s
+   judgment, failed to present sufﬁcient evidence as when the appellate
+   court declares inadmissible record evidence essential to the verdict win-
+   ner’s case. In both situations, the party whose verdict is set aside on
+   appeal will have had notice, before the close of evidence, of the alleged
+   evidentiary deﬁciency. See Rule 50(a)(2). On appeal, both will have
+   the opportunity to argue in support of the jury’s verdict or, alterna-
+   tively, for a new trial. And if judgment is instructed for the verdict
+   loser, both will have a further chance to urge a new trial in a rehearing
+   petition. Since Daubert, moreover, parties relying on expert evidence
+   have had notice of the exacting standards of reliability such evidence
+   must meet. It is implausible to suggest, post-Daubert, that parties will
+   initially present less than their best expert evidence in the expectation
+   of a second chance should their ﬁrst try fail. The Court therefore re-
+   jects Weisgram’s argument that allowing courts of appeals to direct the
+   entry of judgment for defendants will punish plaintiffs who could have
+   shored up their cases by other means had they known their expert testi-
+   mony would be found inadmissible. In this case, for example, although
+   Weisgram was on notice every step of the way that Marley was challeng-
+   ing plaintiffs’ experts, he made no attempt to add or substitute other
+   evidence. Facing the Eighth Circuit’s determination that the properly
+   admitted evidence was insufﬁcient to support the verdict, Weisgram of-
+   fered that court no speciﬁc grounds for a new trial. The Eighth Circuit
+   therefore did not abuse its discretion by directing entry of judgment for
+   Marley, instead of returning the case to the District Court for further
+   proceedings. This Court’s holding adheres to Neely’s holding and ra-
+   tionale. Pp. 452–457.
+
+169 F. 3d 514, afﬁrmed.
+
+Ginsburg, J., delivered the opinion for a unanimous Court.
+
+   Paul A. Strandness argued the cause for petitioners.
+With him on the briefs were Stephen S. Eckman and Daniel
+J. Dunn.
+528US2 Unit: $U26 [06-18-01 18:03:50] PAGES PGT: OPIN
+
+Cite as: 528 U. S. 440 (2000)                          443
+
+                                    Opinion of the Court
+
+   Christine A. Hogan argued the cause for respondents.
+With her on the brief was James S. Hill.*
+
+   Justice Ginsburg delivered the opinion of the Court.
+
+   This case concerns the respective authority of federal trial
+and appellate courts to decide whether, as a matter of law,
+judgment should be entered in favor of a verdict loser. The
+pattern we confront is this. Plaintiff in a product liability
+action gains a jury verdict. Defendant urges, unsuccessfully
+before the federal district court but successfully on appeal,
+that expert testimony plaintiff introduced was unreliable,
+and therefore inadmissible, under the analysis required by
+Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U. S. 579
+(1993). Shorn of the erroneously admitted expert testi-
+mony, the record evidence is insufﬁcient to justify a plain-
+tiff ’s verdict. May the court of appeals then instruct the
+entry of judgment as a matter of law for defendant, or must
+that tribunal remand the case, leaving to the district court’s
+discretion the choice between ﬁnal judgment for defendant
+or a new trial of plaintiff ’s case?
+
+   Our decision is guided by Federal Rule of Civil Procedure
+50, which governs the entry of judgment as a matter of law,
+and by the Court’s pathmarking opinion in Neely v. Martin
+K. Eby Constr. Co., 386 U. S. 317 (1967). As Neely teaches,
+courts of appeals should “be constantly alert” to “the trial
+judge’s ﬁrst-hand knowledge of witnesses, testimony, and is-
+sues”; in other words, appellate courts should give due con-
+sideration to the ﬁrst-instance decisionmaker’s “ ‘feel’ for the
+overall case.” Id., at 325. But the court of appeals has
+authority to render the ﬁnal decision. If, in the particular
+
+   *Jeffrey Robert White ﬁled a brief for the Association of Trial Lawyers
+of America as amicus curiae urging reversal.
+
+   Briefs of amici curiae urging afﬁrmance were ﬁled for Brunswick Corp.
+by Stephen M. Shapiro, Timothy S. Bishop, and Jeffrey W. Sarles; and for
+the Product Liability Advisory Council, Inc., by Michael T. Wharton.
+528US2 Unit: $U26 [06-18-01 18:03:50] PAGES PGT: OPIN
+
+444  WEISGRAM v. MARLEY CO.
+
+                                    Opinion of the Court
+
+case, the appellate tribunal determines that the district court
+is better positioned to decide whether a new trial, rather
+than judgment for defendant, should be ordered, the court of
+appeals should return the case to the trial court for such an
+assessment. But if, as in the instant case, the court of ap-
+peals concludes that further proceedings are unwarranted
+because the loser on appeal has had a full and fair opportu-
+nity to present the case, including arguments for a new trial,
+the appellate court may appropriately instruct the district
+court to enter judgment against the jury-verdict winner.
+Appellate authority to make this determination is no less
+when the evidence is rendered insufﬁcient by the removal of
+erroneously admitted testimony than it is when the evidence,
+without any deletion, is insufﬁcient.
+
+                                        I
+
+   Fireﬁghters arrived at the home of Bonnie Weisgram on
+December 30, 1993, to discover ﬂames around the front en-
+trance. Upon entering the home, they found Weisgram in
+an upstairs bathroom, dead of carbon monoxide poisoning.
+Her son, petitioner Chad Weisgram, individually and on be-
+half of Bonnie Weisgram’s heirs, brought a diversity action
+in the United States District Court for the District of North
+Dakota seeking wrongful death damages. He alleged that
+a defect in an electric baseboard heater, manufactured by
+defendant (now respondent) Marley Company and located in-
+side the door to Bonnie Weisgram’s home, caused both the
+ﬁre and his mother’s death.1
+
+   1 At trial and on appeal, the suit of the Weisgram heirs was consolidated
+with an action brought against Marley Company by State Farm Fire and
+Casualty Company, insurer of the Weisgram home, to recover beneﬁts
+State Farm paid for the damage to the Weisgram townhouse and an adjoin-
+ing townhouse. State Farm was dismissed from the appeal after certio-
+rari was granted. For purposes of this opinion, we generally refer to the
+plaintiffs below, and to the petitioners before us, simply as “Weisgram.”
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+Cite as: 528 U. S. 440 (2000)                          445
+
+                                    Opinion of the Court
+
+   At trial, Weisgram introduced the testimony of three wit-
+nesses, proffered as experts, in an endeavor to prove the
+alleged defect in the heater and its causal connection to the
+ﬁre. The District Court overruled defendant Marley’s ob-
+jections, lodged both before and during the trial, that this
+testimony was unreliable and therefore inadmissible under
+Federal Rule of Evidence 702 as elucidated by Daubert. At
+the close of Weisgram’s evidence, and again at the close of
+all the evidence, Marley unsuccessfully moved under Federal
+Rule of Civil Procedure 50(a) for judgment as a matter of
+law on the ground that plaintiffs had failed to meet their
+burden of proof on the issues of defect and causation. The
+jury returned a verdict for Weisgram. Marley again re-
+quested judgment as a matter of law, and additionally re-
+quested, in the alternative, a new trial, pursuant to Rules 50
+and 59; among arguments in support of its post-trial motions,
+Marley reasserted that the expert testimony essential to
+prove Weisgram’s case was unreliable and therefore inadmis-
+sible. App. 123–125. The District Court denied the mo-
+tions and entered judgment for Weisgram. App. to Pet. for
+Cert. A28–A40. Marley appealed.
+
+   The Court of Appeals for the Eighth Circuit held that Mar-
+ley’s motion for judgment as a matter of law should have
+been granted. 169 F. 3d 514, 517 (1999). Writing for the
+panel majority, Chief Judge Bowman ﬁrst examined the tes-
+timony of Weisgram’s expert witnesses, the sole evidence
+supporting plaintiffs’ product defect charge. Id., at 518–522.
+Concluding that the testimony was speculative and not
+shown to be scientiﬁcally sound, the majority held the expert
+evidence incompetent to prove Weisgram’s case. Ibid. The
+court then considered the remaining evidence in the light
+most favorable to Weisgram, found it insufﬁcient to support
+the jury verdict, and directed judgment as a matter of law
+for Marley. Id., at 516–517, 521–522. In a footnote, the ma-
+jority “reject[ed] any contention that [it was] required to re-
+mand for a new trial.” Id., at 517, n. 2. It recognized its
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+446  WEISGRAM v. MARLEY CO.
+
+                                    Opinion of the Court
+
+discretion to do so under Rule 50(d), but stated: “[W]e can
+discern no reason to give the plaintiffs a second chance to
+make out a case of strict liability . . . . This is not a close
+case. The plaintiffs had a fair opportunity to prove their
+claim and they failed to do so.” Ibid. (citations omitted).
+The dissenting judge disagreed on both points, concluding
+that the expert evidence was properly admitted and that the
+appropriate remedy for improper admission of expert testi-
+mony is the award of a new trial, not judgment as a matter
+of law. Id., at 522, 525 (citing Midcontinent Broadcasting
+Co. v. North Central Airlines, Inc., 471 F. 2d 357 (CA8 1973)).
+
+   Courts of Appeals have divided on the question whether
+Federal Rule of Civil Procedure 50 permits an appellate
+court to direct the entry of judgment as a matter of law
+when it determines that evidence was erroneously admitted
+at trial and that the remaining, properly admitted evidence
+is insufﬁcient to constitute a submissible case.2 We granted
+certiorari to resolve the conﬂict, 527 U. S. 1069 (1999),3 and
+we now afﬁrm the Eighth Circuit’s judgment.
+
+   2 The Tenth Circuit has held it inappropriate for an appellate court to
+direct the entry of judgment as a matter of law based on the trial court’s
+erroneous admission of evidence, because to do so would be unfair to a
+party who relied on the trial court’s evidentiary rulings. See Kinser v.
+Gehl Co., 184 F. 3d 1259, 1267, 1269 (1999). The Fourth, Sixth, and Eighth
+Circuits recently have issued decisions, in accord with the position earlier
+advanced by the Third Circuit, directing the entry of judgment as a matter
+of law based on proof rendered insufﬁcient by the deletion of improperly
+admitted evidence. See Redman v. John D. Brush & Co., 111 F. 3d 1174,
+1178–1179 (CA4 1997); Smelser v. Norfolk Southern R. Co., 105 F. 3d 299,
+301, 306 (CA6 1997); Wright v. Willamette Industries, Inc., 91 F. 3d 1105,
+1108 (CA8 1996); accord, Aloe Coal Co. v. Clark Equipment Co., 816 F. 2d
+110, 115–116 (CA3 1987).
+
+   3 We agreed to decide only the issue of the authority of a court of appeals
+to direct the entry of judgment as a matter of law, and accordingly accept
+as ﬁnal the decision of the Eighth Circuit holding the testimony of Weis-
+gram’s experts unreliable, and therefore inadmissible under Federal Rule
+of Evidence 702, as explicated in Daubert v. Merrell Dow Pharmaceuti-
+cals, Inc., 509 U. S. 579 (1993). We also accept as ﬁnal the Eighth Circuit’s
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+Cite as: 528 U. S. 440 (2000)                          447
+
+                                    Opinion of the Court
+
+                                       II
+   Federal Rule of Civil Procedure 50, reproduced below, gov-
+erns motions for judgment as a matter of law in jury trials.4
+
+determination that the remaining, properly admitted, evidence was insuf-
+ﬁcient to make a submissible case under state law.
+
+   4 “Rule 50. Judgment as a Matter of Law in Jury Trials; Alternative
+Motion for New Trial; Conditional Rulings.
+
+“(a) Judgment as a Matter of Law.
+   “(1) If during a trial by jury a party has been fully heard on an issue
+
+and there is no legally sufﬁcient evidentiary basis for a reasonable jury to
+ﬁnd for that party on that issue, the court may determine the issue against
+that party and may grant a motion for judgment as a matter of law against
+that party with respect to a claim or defense that cannot under the control-
+ling law be maintained or defeated without a favorable ﬁnding on that
+issue.
+
+   “(2) Motions for judgment as a matter of law may be made at any time
+before submission of the case to the jury. Such a motion shall specify the
+judgment sought and the law and the facts on which the moving party is
+entitled to the judgment.
+
+“(b) Renewing Motion for Judgment after Trial; Alternative
+Motion for New Trial. If, for any reason, the court does not grant a
+motion for judgment as a matter of law made at the close of all the evi-
+dence, the court is considered to have submitted the action to the jury
+subject to the court’s later deciding the legal questions raised by the mo-
+tion. The movant may renew its request for judgment as a matter of law
+by ﬁling a motion no later than 10 days after entry of judgment—and may
+alternatively request a new trial or join a motion for a new trial under
+Rule 59. In ruling on a renewed motion, the court may:
+
+   “(1) if a verdict was returned:
+   “(A) allow the judgment to stand,
+   “(B) order a new trial, or
+   “(C) direct entry of judgment as a matter of law; or
+   “(2) if no verdict was returned:
+   “(A) order a new trial, or
+   “(B) direct entry of judgment as a matter of law.
+
+“(c) Granting Renewed Motion for Judgment as a Matter of Law;
+Conditional Rulings; New Trial Motion.
+
+   “(1) If the renewed motion for judgment as a matter of law is granted,
+the court shall also rule on the motion for a new trial, if any, by determin-
+ing whether it should be granted if the judgment is thereafter vacated or
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+448  WEISGRAM v. MARLEY CO.
+
+                                    Opinion of the Court
+
+It allows the trial court to remove cases or issues from the
+jury’s consideration “when the facts are sufﬁciently clear that
+the law requires a particular result.” 9A C. Wright & A.
+Miller, Federal Practice and Procedure § 2521, p. 240 (2d ed.
+1995) (hereinafter Wright & Miller). Subdivision (d) con-
+trols when, as here, the verdict loser appeals from the trial
+court’s denial of a motion for judgment as a matter of law:
+
+      “[T]he party who prevailed on that motion may, as ap-
+      pellee, assert grounds entitling the party to a new trial
+      in the event the appellate court concludes that the trial
+      court erred in denying the motion for judgment. If the
+      appellate court reverses the judgment, nothing in this
+      rule precludes it from determining that the appellee is
+      entitled to a new trial, or from directing the trial court
+      to determine whether a new trial shall be granted.”
+
+Under this Rule, Weisgram urges, when a court of appeals
+determines that a jury verdict cannot be sustained due to
+
+reversed, and shall specify the grounds for granting or denying the motion
+for the new trial. If the motion for a new trial is thus conditionally
+granted, the order thereon does not affect the ﬁnality of the judgment.
+In case the motion for a new trial has been conditionally granted and the
+judgment is reversed on appeal, the new trial shall proceed unless the
+appellate court has otherwise ordered. In case the motion for a new trial
+has been conditionally denied, the appellee on appeal may assert error in
+that denial; and if the judgment is reversed on appeal, subsequent pro-
+ceedings shall be in accordance with the order of the appellate court.
+
+   “(2) Any motion for a new trial under Rule 59 by a party against whom
+judgment as a matter of law is rendered shall be ﬁled no later than 10
+days after entry of the judgment.
+
+“(d) Same: Denial of Motion for Judgment as a Matter of Law. If
+the motion for judgment as a matter of law is denied, the party who pre-
+vailed on that motion may, as appellee, assert grounds entitling the party
+to a new trial in the event the appellate court concludes that the trial
+court erred in denying the motion for judgment. If the appellate court
+reverses the judgment, nothing in this rule precludes it from determining
+that the appellee is entitled to a new trial, or from directing the trial court
+to determine whether a new trial shall be granted.”
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+Cite as: 528 U. S. 440 (2000)                          449
+
+                                    Opinion of the Court
+
+an error in the admission of evidence, the appellate court
+may not order the entry of judgment for the verdict loser,
+but must instead remand the case to the trial court for a
+new trial determination. Brief for Petitioner 20, 22; Reply
+Brief 1, 17. Nothing in Rule 50 expressly addresses this
+question.5
+
+   In a series of pre-1967 decisions, this Court refrained from
+deciding the question, while emphasizing the importance of
+giving the party deprived of a verdict the opportunity to
+invoke the discretion of the trial judge to grant a new trial.
+See Cone v. West Virginia Pulp & Paper Co., 330 U. S. 212,
+216–218 (1947); Globe Liquor Co. v. San Roman, 332 U. S.
+571, 573–574 (1948); Johnson v. New York, N. H. & H. R. Co.,
+344 U. S. 48, 54, n. 3 (1952); see also 9A Wright & Miller
+§ 2540, at 370. Then, in Neely, the Court reviewed its prior
+jurisprudence and ruled deﬁnitively that if a motion for judg-
+ment as a matter of law is erroneously denied by the district
+court, the appellate court does have the power to order the
+entry of judgment for the moving party. 386 U. S., at 326;
+see also Louis, Post-Verdict Rulings on the Sufﬁciency of the
+Evidence: Neely v. Martin K. Eby Construction Co. Revis-
+ited, 1975 Wis. L. Rev. 503 (surveying chronologically Court’s
+decisions bearing on appellate direction of judgment as a
+matter of law).
+
+   Neely ﬁrst addressed the compatibility of appellate direc-
+tion of judgment as a matter of law (then styled “judgment
+n.o.v.”) with the Seventh Amendment’s jury trial guarantee.
+It was settled, the Court pointed out, that a trial court, pur-
+
+   5 According to the Advisory Committee Notes to the 1963 Rule 50
+amendments, this “omission” was not inadvertent:
+
+   “Subdivision (d) does not attempt a regulation of all aspects of the proce-
+dure where the motion for judgment n.o.v. and any accompanying motion
+for a new trial are denied, since the problems have not been fully can-
+vassed in the decisions and the procedure is in some respects still in a
+formative stage. It is, however, designed to give guidance on certain
+important features of the practice.” Advisory Committee’s Notes on Fed.
+Rule Civ. Proc. 50(d), 28 U. S. C. App., p. 769.
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+450  WEISGRAM v. MARLEY CO.
+
+                                    Opinion of the Court
+
+suant to Rule 50(b), could enter judgment for the verdict
+loser without offense to the Seventh Amendment. 386 U. S.,
+at 321 (citing Montgomery Ward & Co. v. Duncan, 311 U. S.
+243 (1940)). “As far as the Seventh Amendment’s right to
+jury trial is concerned,” the Court reasoned, “there is no
+greater restriction on the province of the jury when an ap-
+pellate court enters judgment n.o.v. than when a trial court
+does”; accordingly, the Court concluded, “there is no consti-
+tutional bar to an appellate court granting judgment n.o.v.”
+386 U. S., at 322 (citing Baltimore & Carolina Line, Inc. v.
+Redman, 295 U. S. 654 (1935)). The Court next turned to
+“the statutory grant of appellate jurisdiction to the courts of
+appeals [in 28 U. S. C. § 2106],” 6 which it found “certainly
+broad enough to include the power to direct entry of judg-
+ment n.o.v. on appeal.” 386 U. S., at 322. The remainder of
+the Neely opinion effectively complements Rules 50(c) and
+50(d), providing guidance on the appropriate exercise of the
+appellate court’s discretion when it reverses the trial court’s
+denial of a defendant’s Rule 50(b) motion for judgment as a
+matter of law. Id., at 322–330; cf. supra, at 449, n. 5 (1963
+observation of Advisory Committee that, as of that year,
+“problems [concerning motions for judgment coupled with
+new trial motions] ha[d] not been fully canvassed”).
+
+   Neely represents no volte-face in the Court’s understand-
+ing of the respective competences of trial and appellate
+forums. Immediately after declaring that appellate courts
+have the power to order the entry of judgment for a verdict
+loser, the Court cautioned:
+
+   6 Section 2106 reads:
+   “The Supreme Court or any other court of appellate jurisdiction may
+afﬁrm, modify, vacate, set aside or reverse any judgment, decree, or order
+of a court lawfully brought before it for review, and may remand the cause
+and direct the entry of such appropriate judgment, decree, or order, or
+require such further proceedings to be had as may be just under the
+circumstances.”
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+Cite as: 528 U. S. 440 (2000)                          451
+
+                                    Opinion of the Court
+
+      “Part of the Court’s concern has been to protect the
+      rights of the party whose jury verdict has been set aside
+      on appeal and who may have valid grounds for a new
+      trial, some or all of which should be passed upon by the
+      district court, rather than the court of appeals, because
+      of the trial judge’s ﬁrst-hand knowledge of witnesses,
+      testimony, and issues—because of his ‘feel’ for the over-
+      all case. These are very valid concerns to which the
+      court of appeals should be constantly alert.” 386 U. S.,
+      at 325.7
+
+Nevertheless, the Court in Neely continued, due consider-
+ation of the rights of the verdict winner and the closeness of
+the trial court to the case “do[es] not justify an ironclad rule
+that the court of appeals should never order dismissal or
+judgment for the defendant when the plaintiff ’s verdict has
+been set aside on appeal.” Id., at 326. “Such a rule,” the
+Court concluded, “would not serve the purpose of Rule 50
+to speed litigation and to avoid unnecessary retrials.” Ibid.
+Neely ultimately clariﬁed that if a court of appeals deter-
+mines that the district court erroneously denied a motion for
+judgment as a matter of law, the appellate court may (1)
+order a new trial at the verdict winner’s request or on its
+own motion, (2) remand the case for the trial court to decide
+whether a new trial or entry of judgment for the defendant
+is warranted, or (3) direct the entry of judgment as a matter
+
+   7 Iacurci v. Lummus Co., 387 U. S. 86 (1967) (per curiam), decided
+shortly after Neely, is illustrative. There, the Court reversed the appel-
+late court’s direction of the entry of judgment as a matter of law for the
+defendant and instructed the appeals court to remand the case to the trial
+court for a new trial determination; the Court pointed to the jury’s failure
+to respond to four out of ﬁve special interrogatories, which left issues of
+negligence unresolved, and concluded that in the particular circumstances,
+the trial judge “was in the best position to pass upon the question of a
+new trial in light of the evidence, his charge to the jury, and the jury’s
+verdict and interrogatory answers.” 387 U. S., at 88.
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+452  WEISGRAM v. MARLEY CO.
+
+                                    Opinion of the Court
+
+of law for the defendant. Id., at 327–330; see also 9A
+Wright & Miller § 2540, at 371–372.
+
+                                       III
+
+   The parties before us—and Court of Appeals opinions—
+diverge regarding Neely’s scope. Weisgram, in line with
+some appellate decisions, posits a distinction between cases
+in which judgment as a matter of law is requested based on
+plaintiff ’s failure to produce enough evidence to warrant a
+jury verdict, as in Neely, and cases in which the proof in-
+troduced becomes insufﬁcient because the court of appeals
+determines that certain evidence should not have been
+admitted, as in the instant case.8 Insufﬁciency caused by
+deletion of evidence, Weisgram contends, requires an “auto-
+matic remand” to the district court for consideration whether
+a new trial is warranted. Brief for Petitioner 20, 22; Reply
+Brief 1, 3–6; Tr. of Oral Arg. 6, 18, 23.9
+
+   8 See Tr. of Oral Arg. 6, 8, 17–18, 23, 26–28, 31; Reply Brief 3–6; Brief
+for Respondents 24–29. Compare, e. g., Redman, 111 F. 3d, at 1178–1179
+(treating judgment as a matter of law based on insufﬁciency caused by
+admission error identically to initial insufﬁciency); Smelser, 105 F. 3d, at
+301, 306 (same); Wright, 91 F. 3d, at 1108 (same); Lightning Lube, Inc. v.
+Witco Corp., 4 F. 3d 1153, 1198–1200 (CA3 1993) (rejecting distinction),
+with Kinser, 184 F. 3d, at 1267, 1269 (insufﬁciency caused by admission
+error inappropriate basis for judgment as a matter of law); Jackson v.
+Pleasant Grove Health Care Center, 980 F. 2d 692, 695–696 (CA11 1993)
+(same); Douglass v. Eaton Corp., 956 F. 2d 1339, 1343–1344 (CA6 1992)
+(same); Midcontinent Broadcasting Co. v. North Central Airlines, Inc.,
+471 F. 2d 357, 358–359 (CA8 1973) (same).
+
+   9 Weisgram misreads the Court’s decision in Montgomery Ward & Co. v.
+Duncan, 311 U. S. 243 (1940), to support his position. Reply Brief 3–4;
+Tr. of Oral Arg. 19. The Court in Montgomery Ward directed that a trial
+judge who grants the verdict loser’s motion for judgment n.o.v. should also
+rule conditionally on that party’s alternative motion for a new trial. 311
+U. S., at 253–254. The conditional ruling would be reviewed by the court
+of appeals only if it reversed the entry of judgment n.o.v. Proceeding in
+this manner would avoid protracting the proceedings by obviating the
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+Cite as: 528 U. S. 440 (2000)                          453
+
+                                    Opinion of the Court
+
+   Weisgram relies on cases holding that, in fairness to a ver-
+dict winner who may have relied on erroneously admitted
+evidence, courts confronting questions of judgment as a mat-
+ter of law should rule on the record as it went to the jury,
+without excising evidence inadmissible under Federal Rule
+of Evidence 702. See, e. g., Kinser v. Gehl Co., 184 F. 3d
+1259, 1267, 1269 (CA10 1999); Schudel v. General Electric Co.,
+120 F. 3d 991, 995–996 (CA9 1997); Jackson v. Pleasant
+Grove Health Care Center, 980 F. 2d 692, 695–696 (CA11 1993);
+Midcontinent Broadcasting, 471 F. 2d, at 358. But see
+Lightning Lube, Inc. v. Witco Corp., 4 F. 3d 1153, 1198–1200
+(CA3 1993). These decisions are of questionable consistency
+with Rule 50(a)(1), which states that in ruling on a motion
+for judgment as a matter of law, the court is to inquire
+
+need for multiple appeals. See id., at 253. Rule 50 was amended in 1963
+to codify Montgomery Ward’s instruction. See Fed. Rule Civ. Proc.
+50(c)(1).
+
+   In the course of its elaboration, the Montgomery Ward Court observed
+that a “motion for judgment cannot be granted unless, as a matter of law,
+the opponent of the movant failed to make a case.” 311 U. S., at 251. In
+contrast, the Court stated, a new trial motion may invoke the court’s dis-
+cretion, bottomed on such standard new trial grounds as “the verdict is
+against the weight of the evidence,” or “the damages are excessive,” or
+substantial errors were made “in admission or rejection of evidence.”
+Ibid.; see also id., at 249.
+
+   Many rulings on evidence, of course, do not bear dispositively on the
+adequacy of the proof to support a verdict. For example, the evidence
+erroneously admitted or excluded may strengthen or weaken one side’s
+case without being conclusive as to the litigation’s outcome. Or, the evi-
+dence may abundantly support a jury’s verdict, but one or another item
+may have been unduly prejudicial to the verdict loser and excludable on
+that account. See Fed. Rule Evid. 403 (relevant evidence “may be ex-
+cluded if its probative value is substantially outweighed by the danger
+of unfair prejudice”). Such run-of-the-mine, ordinarily nondispositive,
+evidentiary rulings, we take it, were the sort contemplated in Montgom-
+ery Ward. Cf. 311 U. S., at 245–246 (indicating that sufﬁciency-of-the-
+evidence challenges are properly raised by motion for judgment, while
+other rulings on evidence may be assigned as grounds for a new trial).
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+454  WEISGRAM v. MARLEY CO.
+
+                                    Opinion of the Court
+
+whether there is any “legally sufﬁcient evidentiary basis for
+a reasonable jury to ﬁnd for [the opponent of the motion].”
+Inadmissible evidence contributes nothing to a “legally
+sufﬁcient evidentiary basis.” See Brooke Group Ltd. v.
+Brown & Williamson Tobacco Corp., 509 U. S. 209, 242
+(1993) (“When an expert opinion is not supported by sufﬁ-
+cient facts to validate it in the eyes of the law, or when in-
+disputable record facts contradict or otherwise render the
+opinion unreasonable, it cannot support a jury’s verdict.”).10
+
+   As Neely recognized, appellate rulings on post-trial pleas
+for judgment as a matter of law call for the exercise of “in-
+formed discretion,” 386 U. S., at 329, and fairness to the par-
+ties is surely key to the exercise of that discretion. But fair-
+ness concerns should loom as large when the verdict winner,
+in the appellate court’s judgment, failed to present sufﬁcient
+evidence as when the appellate court declares inadmissible
+record evidence essential to the verdict winner’s case. In
+both situations, the party whose verdict is set aside on ap-
+peal will have had notice, before the close of evidence, of
+the alleged evidentiary deﬁciency. See Fed. Rule Civ. Proc.
+50(a)(2) (motion for judgment as a matter of law “shall spec-
+ify . . . the law and facts on which the moving party is
+entitled to the judgment”). On appeal, both will have the
+opportunity to argue in support of the jury’s verdict or, alter-
+natively, for a new trial. And if judgment is instructed for
+
+   10 Weisgram additionally urges that the Seventh Amendment prohibits
+a court of appeals from directing judgment as a matter of law on a record
+different from the one considered by the jury. Brief for Petitioner 20–22;
+Reply Brief 6–8. Neely made clear that a court of appeals may order
+entry of judgment as a matter of law on sufﬁciency-of-the-evidence
+grounds without violating the Seventh Amendment. 386 U. S., at 321–
+322. Entering judgment for the verdict loser when all of the evidence
+was properly before the jury is scarcely less destructive of the jury’s ver-
+dict than is entry of such a judgment based on a record made insufﬁcient
+by the removal of evidence the jury should not have had before it.
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+Cite as: 528 U. S. 440 (2000)                          455
+
+                                    Opinion of the Court
+
+the verdict loser, both will have a further chance to urge a
+new trial in a rehearing petition.11
+
+   Since Daubert, moreover, parties relying on expert evi-
+dence have had notice of the exacting standards of reliability
+such evidence must meet. 509 U. S. 579; see also Kumho
+Tire Co. v. Carmichael, 526 U. S. 137 (1999) (rendered shortly
+after the Eighth Circuit’s decision in Weisgram’s case); 12
+General Electric Co. v. Joiner, 522 U. S. 136 (1997). It is
+implausible to suggest, post-Daubert, that parties will ini-
+tially present less than their best expert evidence in the ex-
+pectation of a second chance should their ﬁrst try fail. We
+therefore ﬁnd unconvincing Weisgram’s fears that allowing
+courts of appeals to direct the entry of judgment for defend-
+
+   11 We recognize that it is awkward for an appellee, who is wholeheart-
+edly urging the correctness of the verdict, to point out, in the alternative,
+grounds for a new trial. See Kaplan, Amendments of the Federal Rules
+of Civil Procedure, 1961–1963 (II), 77 Harv. L. Rev. 801, 819 (1964) (“A
+verdict winner may suffer forensic embarrassment in arguing for a new
+trial on his own behalf, faute de mieux, while seeking to defend his verdict
+against all attacks by his opponent.”). A petition for rehearing in the
+court of appeals, however, involves no conﬂicting tugs. We are not per-
+suaded by Weisgram’s objection that the 14 days allowed for the ﬁling
+of a petition for rehearing is insufﬁcient time to formulate compelling
+grounds for a new trial. Reply Brief 15–16. This time period is longer
+than the ten days allowed a verdict winner to move for a new trial after
+a trial court grants judgment as a matter of law. See Fed. Rule Civ. Proc.
+50(c)(2). Nor do we foreclose the possibility that a court of appeals might
+properly deny a petition for rehearing because it pressed an argument
+that plainly could have been formulated in a party’s brief. See Louis,
+Post-Verdict Rulings on the Sufﬁciency of the Evidence: Neely v. Martin
+K. Eby Construction Co. Revisited, 1975 Wis. L. Rev. 503, 519–520, n. 90
+(“[I]t is often difﬁcult to argue that a gap in one’s proof can be ﬁlled before
+a court has held that the gap exists . . . .” On the other hand, “the brief
+or oral argument will sufﬁce . . . when the area of the alleged evidentiary
+insufﬁciency has previously been clearly identiﬁed.” (citation omitted)).
+
+   12 We note that the decision in Kumho is consistent with Eighth Circuit
+precedent existing at the time of trial in Weisgram’s case. See, e. g.,
+Peitzmeier v. Hennessy Industries, Inc., 97 F. 3d 293, 297 (CA8 1996).
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+456  WEISGRAM v. MARLEY CO.
+
+                                    Opinion of the Court
+
+ants will punish plaintiffs who could have shored up their
+cases by other means had they known their expert testimony
+would be found inadmissible. See Brief for Petitioner 18,
+25. In this case, for example, although Weisgram was on
+notice every step of the way that Marley was challenging
+his experts, he made no attempt to add or substitute other
+evidence. See Lujan v. National Wildlife Federation, 497
+U. S. 871, 897 (1990) (“[A] litigant’s failure to buttress its posi-
+tion because of conﬁdence in the strength of that position is
+always indulged in at the litigant’s own risk.”).
+
+   After holding Weisgram’s expert testimony inadmissible,
+the Court of Appeals evaluated the evidence presented at
+trial, viewing it in the light most favorable to Weisgram, and
+found the properly admitted evidence insufﬁcient to support
+the verdict. 169 F. 3d, at 516–517. Weisgram offered no
+speciﬁc grounds for a new trial to the Eighth Circuit.13
+Even in the petition for rehearing, Weisgram argued only
+that the appellate court had misapplied state law, did not
+have the authority to direct judgment, and had failed to give
+adequate deference to the trial court’s evidentiary rulings.
+App. 131–151. The Eighth Circuit concluded that this was
+“not a close case.” 169 F. 3d, at 517, n. 2. In these circum-
+stances, the Eighth Circuit did not abuse its discretion by
+directing entry of judgment for Marley, instead of returning
+the case to the District Court for further proceedings.
+
+                                ***
+
+   Neely recognized that there are myriad situations in which
+the determination whether a new trial is in order is best
+made by the trial judge. 386 U. S., at 325–326. Neely held,
+
+   13 Cf. Neely v. Martin K. Eby Constr. Co., 386 U. S. 317, 327 (1967) (ob-
+serving that it would not be clear that litigation should be terminated
+for evidentiary insufﬁciency when, for example, the trial court excluded
+evidence that would have strengthened the verdict winner’s case or “itself
+caused the insufﬁciency . . . by erroneously [imposing] too high a burden
+of proof ”).
+528US2 Unit: $U26 [06-18-01 18:03:51] PAGES PGT: OPIN
+
+Cite as: 528 U. S. 440 (2000)                          457
+
+                                    Opinion of the Court
+
+however, that there are also cases in which a court of appeals
+may appropriately instruct the district court to enter judg-
+ment as a matter of law against the jury-verdict winner.
+Id., at 326. We adhere to Neely’s holding and rationale, and
+today hold that the authority of courts of appeals to direct
+the entry of judgment as a matter of law extends to cases in
+which, on excision of testimony erroneously admitted, there
+remains insufﬁcient evidence to support the jury’s verdict.
+
+   For the reasons stated, the judgment of the Court of
+Appeals for the Eighth Circuit is
+
+                                                                     Afﬁrmed.
+

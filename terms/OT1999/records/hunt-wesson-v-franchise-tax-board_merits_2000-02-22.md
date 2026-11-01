@@ -1,0 +1,232 @@
+**Case and dockets:** Hunt-Wesson, Inc. v. Franchise Tax Board of California; No. 98-2043
+**Event and date:** Merits decision; 2000-02-22; October Term 1999.
+**Result:** Reversed and remanded; 9–0.
+**Version / lineage:** Original decision. No prior adjudication is replaced. Repository commitment is reserved to the operator.
+
+**Source chunk:** OT_1999CHUNK3.
+
+## Event, participation and reach
+
+Argued January 12, 2000; decided 2000-02-22, October Term 1999. On writ of certiorari to the California Court of Appeal, First Appellate District, judgment of December 11, 1998. Question presented and granted: Whether California may reduce a nondomiciliary corporation's interest deduction by reference to constitutionally excluded nonunitary receipts through the challenged section 24344 allocation.
+
+All nine Justices participated at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. No disqualification is supplied. Nine participants satisfy the six-Justice quorum; five votes suffice for a judgment and a controlling rationale. The lawful channel is plenary certiorari review of the final judgment identified above. The source-supported dates are the term inventory placements confirmed by the neutral source receipt. No same-day early matter supplies a dependency.
+
+**Chronology and route.** Argued January 12, 2000; event placement February 22, 2000. Certiorari to the California Court of Appeal, First Appellate District, No. A079969, judgment December 11, 1998; California Supreme Court review was denied. No participation disqualification was identified.
+
+**Record and statutory operation.** Hunt-Wesson is successor to a corporation domiciled outside California. During the tax years in dispute, California calculated its apportioned business-income share by averaging the California-to-total property, payroll, and sales ratios. The corporation incurred interest expense and received nonunitary interest and dividend income. California reduced the interest deduction by reference to that income. The parties accepted that the nonunitary receipts at issue had no independent nexus to California.
+
+**Material qualifications.** The relevant version of section 24344 first allows interest expense against interest income subject to formula allocation. It then allows the balance of interest expense only insofar as that balance exceeds interest and dividend income not subject to formula allocation. Dividends deductible under section 24402 are expressly excepted; section 24402 concerns dividends declared from income already included in the measure of the specified California taxes upon the declaring taxpayer. The remaining interest expense is directly offset against the nonformula interest and dividend income. These are distinct statutory steps, not a flat denial of every interest deduction whenever any exempt receipt exists. Both provisions are reproduced in the companion.
+
+**Dispute and litigation positions.** Hunt-Wesson maintained that the forms used for the relevant years required the corporation first to separate interest relating to nonunitary activities, leaving only unitary-business interest subject to the challenged offset. California acknowledged how the forms worked but disputed that construction of the statute, asserting that the statute covered all interest expense. Hunt-Wesson reported no nonunitary interest expense for the years at issue. California defended the deduction limit as an allocation response to fungible money and tax arbitrage, rather than conceding that it taxed the nonunitary receipts. Hunt-Wesson challenged the offset under both the Due Process and Commerce Clauses. The state appellate judgment sustained the assessment.
+
+**Source and limits.** Official U.S. Reports, 528 U.S. 460–465, 468–469 statutory appendix; only objective procedural facts, acknowledged disputes, and statutory text are carried here. [Official source](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-458.pdf). No audit amount, final refund sum, tracing finding, or choice between the parties' disputed statutory constructions is supplied. Any such premise would need separate support. The original collection item was located; the present bounded issue can use the published recitation without assuming unavailable papers or taxpayer default.
+
+## Entering law and record scope
+
+Exact entry: **Operational assets and the unitary-business limitation on apportioned income**, effective Allied-Signal, June 15, 1992. Its unitary-business or genuine operational-function connection, valid-base/fair-allocation distinction and taxpayer clear-and-cogent burden remain operative. ASARCO, Woolworth, Mobil and Container supply the retained constitutional background. National Life, Denman and First National Bank illustrate the difference between forbidden indirect taxation and permissible expense allocation. No earlier current-term decision changes this conceded-nonnexus dispute.
+
+Authority is the underlying holdings and effective current-term Records copied in the EARLY entering-law slice and the frozen entering neutral state through February 14, 2000. Same-day independent matters retain their common baseline. The readiness receipt supersedes obsolete mechanical-packet placeholders. No later law, modern rule amendment or new material factual premise is used.
+
+## Stone
+
+# SECTION II: STONE POSITION SUPPLEMENT
+
+## A. STATUS
+
+* **Version:** OT_1999 reconciliation — Hunt-Wesson, Inc. v. Franchise Tax Board of California — October 31, 2026
+* **Approval Status:** Approved
+* **Approval Date or Turn:** October 31, 2026 — express user approval of all current stances in this chat.
+* **Current-Through Baseline:** June 23, 1999; subject to any actual, earlier effective OT_1999 judgment before this event.
+* **Conditions:** The judgment, holding, and remedy remain subject to the issue-specific record limits, reservations, and effective earlier same-term precedent stated in this brief.
+
+## B. JUDGMENT AND REMEDY
+
+* **Stone's Controlled Judgment or Disposition:** Reverse the judgment below.
+* **Stone's Remedy and Remand Position:** Apply fair attribution and nondiscrimination; reject indirect taxation of nonunitary value. Invalidate the assessment and remand for recalculation using expenses fairly attributable to taxable activity.
+
+## C. ISSUE POSITIONS
+
+### Issue 1: California may reduce a nondomiciliary corporation’s interest deduction
+
+* **Threshold and Merits Reach:** Stone reaches the merits of this issue. No separate threshold or vehicle bar identified in Section I prevents decision.
+* **Stone's Legal Position:** A State may not disallow interest expense by reference to constitutionally exempt nonunitary income unless it establishes a fair attribution between the expense and that income. This reflects accurate attribution: California cannot use exempt nonunitary income as a proxy for disallowing expenses of taxable activity. California may disallow expenses actually attributable to exempt income through a supported allocation method.
+* **Stone's Proposed Holding:** A State may not disallow interest expense by reference to constitutionally exempt nonunitary income unless it establishes a fair attribution between the expense and that income.
+* **Essential Reasoning and Record Application:** Reverse the judgment below. A State may not disallow interest expense by reference to constitutionally exempt nonunitary income unless it establishes a fair attribution between the expense and that income. This reflects accurate attribution: California cannot use exempt nonunitary income as a proxy for disallowing expenses of taxable activity. California may disallow expenses actually attributable to exempt income through a supported allocation method. A deduction denial can reach the same forbidden base as a direct tax. Stone therefore examines the actual allocation and rejects the automatic use of exempt receipts while leaving California room to attribute real related expenses.
+* **Boundary or Reserved Question:** California may disallow expenses actually attributable to exempt income through a supported allocation method.
+
+**Final compatibility and scope:** Stone reverses and joins the full opinion, invalidating the challenged assessment method and remanding for recalculation through a supported allocation of expenses fairly attributable to taxable activity. His demand that California establish fair attribution is retained as the substantive requirement for a valid allocation; it is not recast as a transaction-by-transaction tracing command or a general procedural burden shift. The clear-and-cogent taxpayer burden is undisturbed, and California remains free to disallow expenses actually attributable to excluded income. No standing fallback supplies a governing proposition or author eligibility. Approval is the October 31, 2026 version reproduced above and the current Run authorization; no fresh position is invented.
+
+## Form, assignment and final joins
+
+**Form first:** One signed Court opinion covering territorial limits, the actual qualified deduction formula and invalidity under both proposed state-law constructions; one case and one disposition, without separate writings.
+
+**Assignment authority:** Chief Justice Stone-Zsela is in the tentative judgment majority and assigns this signed lead.
+
+**Counts before assignment, freshly recounted from actual earlier opinion tables:** Stone-Zsela 2; Stevens 2; O'Connor 3; Scalia 3; Kennedy 2; Souter 2; Thomas 2; Ginsburg 2; Breyer 3.
+
+**Last counted event:** Baral v. United States, 2000-02-22; Stone-Zsela. The attached source list identifies every counted lead; no earlier assignment tally supplies these numbers.
+
+**Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. All nine support every governing proposition, qualification and remedy from their approved or reconciled grounds. Stone eligibility rests on his approved core, not the standing fallback.
+
+**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The Chief assigns within this pool.
+
+**Selected author:** Kennedy. Fit governs. Kennedy's existing Allied-Signal opinion distinguishes operational nexus, constitutional tax base and allocation, precisely the distinctions needed to reject this formula without forbidding reasonable allocation. He can carry the conceded nonnexus premise and both statutory constructions while retaining the taxpayer burden. Stone's approved fair-attribution ground is fully compatible, but Kennedy offers the concrete advantage of coordinating this application with the existing separation he articulated; self-assignment offers no greater precision or coalition benefit. Kennedy is within the all-nine balance pool at two opinions.
+
+**Final compatibility:** All eight Associates retain H1–H3; Stone's approved core joins the same complete ground. Both statutory constructions fail for the same constitutional reason. Reasonable ratios remain available, no tracing requirement or general burden shift is introduced, and there is no unresolved join objection.
+
+**Counted signed plenary lead:** Yes; one lead, counted once for Kennedy.
+
+## Controlling holdings
+
+### An expense adjustment must respect the constitutional tax base
+
+**Holding and operative rule:** Under the Due Process and Commerce Clauses, a State may not enlarge a nondomiciliary corporation's taxable unitary income through an interest-deduction adjustment measured by constitutionally excluded nonunitary receipts unless the adjustment fairly attributes expense to the income it generates. Expenses properly attributable to excluded income need not be deducted from taxable income, and a supported reasonable allocation may establish that attribution without tracing every borrowed dollar.
+
+**Authority:** Justice Kennedy's opinion of the Court, joined in full by the other eight Justices, controls each holding by nine direct votes.
+
+**Controlling explanation:** Allied-Signal separates the connection that makes income taxable from the fairness of its allocation. Here the parties accept that the nonunitary receipts have no independent nexus to California. A deduction label cannot circumvent that boundary: denial of an unrelated business expense can enlarge the taxable base just as a direct inclusion of excluded income can. National Life supplies that substance-over-form principle. Denman and First National Bank preserve the State's authority to allocate real expenses associated with excluded income. Borrowed funds are fungible and tax arbitrage can warrant an allocation method, but those considerations do not establish that any receipts-based offset reasonably allocates the borrowing devoted to the excluded activity. The taxpayer's existing clear-and-cogent burden remains; the Court creates no compulsory tracing rule or general shifted burden.
+
+### Section 24344 fails under either proposed construction
+
+**Holding and operative rule:** The challenged section 24344 mechanism unreasonably allocates borrowing expense by reference to excluded receipts and therefore cannot sustain this assessment. Its defect remains whether the section covers only unitary-business interest expense under the tax forms or all interest expense under California's proposed construction, so the Court need not choose between those readings.
+
+**Authority:** Justice Kennedy's opinion of the Court, joined in full by the other eight Justices, controls each holding by nine direct votes.
+
+**Controlling explanation:** Section 24344 first allows interest expense against interest income subject to formula allocation. It then permits the balance only to the extent that it exceeds nonformula interest and dividends, except dividends deductible under section 24402 because declared from income already included in the measure of the specified California taxes upon the declaring taxpayer. The remaining expense is directly offset against those nonformula receipts. This is not a flat denial of all interest deductions. The defect is that the formula effectively allocates borrowing first to nonunitary investments by measuring their receipts, without reasonably reflecting the borrowing devoted to them. More excluded receipts can disallow more expense despite no corresponding expense connection. Including all interest rather than only the interest carried on the forms does not cure that unreasonable relationship. The judgment must be reversed and the assessment recalculated lawfully, leaving the permissible allocation and resulting relief for remand.
+
+## Continuity
+
+The judgment and operative law appear in the Public Projection below. No pending Supreme Court proceeding or dependency is created. No material published noncontrolling proposition arises because all nine join the Court opinion and no separate writing issues.
+
+## Adaptive audit annex
+
+### Frozen independent commitments (verbatim case section)
+
+**Commitment:** All eight Associates reverse the California appellate judgment and remand. Each joins H1-H3 with the stated limits integral to the ground.
+
+**Components and sufficient ground.** H1: A State cannot circumvent the constitutional exclusion of these admittedly nonunitary receipts by enlarging the taxable unitary-business base through a deduction adjustment measured by the receipts without a reasonable relationship to expense attributable to them. Reasonable supported allocation of borrowing costs remains permissible; transaction-by-transaction tracing is not constitutionally mandatory, and expenses actually attributable to exempt activity need not be deducted from taxable income. H2: Section 24344's challenged receipts-based offset fails that relationship. It first allows interest expense against formula-allocated interest income, then allows the remaining expense only above nonformula interest and dividends, except section 24402 dividends declared from income already included in the specified California tax measure. Remaining expense offsets those nonformula receipts. Its dollar-for-dollar use of receipts can enlarge taxable income without a corresponding change in expense attributable to them. Fungibility warrants allocation in principle but does not establish this formula's relationship. H3: This defect persists under both the forms-based unitary-interest construction and California's all-interest construction; choosing between them is unnecessary.
+
+**Alternative tested.** California's strongest ground is allocation of fungible financing costs and prevention of arbitrage. A valid allocation need not be perfect, and deduction design is ordinarily legislative. But Allied-Signal separates a lawful base from allocation. A deduction label cannot justify an indirect inclusion of excluded receipts. The actual formula's measure, rather than minor imprecision or failure to trace each dollar, supplies the defect. The taxpayer's clear-and-cogent burden survives; no universal State-borne tracing duty is imposed.
+
+| Justice | Judgment/joins | Own date-eligible basis and limit |
+|---|---|---|
+| Stevens | Reverse/remand; H1-H3 | His Allied-Signal join excludes discrete unrelated investment value and separates base from allocation. The conceded absence of nexus makes this a bounded application. |
+| O'Connor | Reverse/remand; H1-H3 | Her different Allied-Signal application position does not supply nexus the parties concede absent. Applies the governing exclusion while preserving reasonable allocation and the taxpayer burden. |
+| Scalia | Reverse/remand; H1-H3 | His Allied-Signal join supports the territorial limit. Joins established Due Process/Commerce boundaries, not new free-standing scrutiny of every deduction. |
+| Kennedy | Reverse/remand; H1-H3 | His Allied-Signal opinion separates operational nexus, valid base and allocation. Fungibility alone cannot supply this receipts-based taxable increment. |
+| Souter | Reverse/remand; H1-H3 | His Allied-Signal join supports examining substance despite the deduction label; rejects a mandatory tracing rule. |
+| Thomas | Reverse/remand; H1-H3 | His prior Allied-Signal application disagreement is distinguished by conceded nonnexus here. No new general anti-allocation doctrine. |
+| Ginsburg | Reverse/remand; H1-H3 | Applies controlling Allied-Signal and its retained burden; no personal join in that pre-seating decision is attributed. Leaves the state construction dispute unresolved. |
+| Breyer | Reverse/remand; H1-H3 | Applies Allied-Signal without an invented personal join. The formula's operation establishes the confined defect while reasonable allocation remains available. |
+
+**Remedy and authority limits.** Reverse and remand for appropriate calculations and lawful relief; no fixed refund, factual tracing finding, compelled replacement formula or condemnation of all deduction limits. Allied-Signal's unitary/operational boundary and clear-and-cogent burden remain. ASARCO, Woolworth, Mobil and Container retain their roles under it. No separate writing is necessary on the common grounds.
+
+### Frozen historical reconciliation (verbatim case section; controls any express clarification of the provisional section)
+
+**Historical control.** The complete unanimous opinion and statutory appendix are [528 U.S. 458–469](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-458.pdf). The parties conceded that the relevant nonunitary receipts bore no independent nexus to California. The defect was the formula's unreasonable allocation of expense, not the mere existence of an allocation method or the absence of tracing every loan.
+
+**Reconciled components.** All eight retain H1–H3. H1: Due Process and Commerce Clause limits prevent enlarging a nondomiciliary corporation's taxable unitary base by a deduction adjustment measured by constitutionally excluded receipts unless it reasonably allocates expense to the income that expense generates. Expenses properly attributable to excluded income need not be deducted from taxable income; reasonable ratios or other supported allocation can suffice. H2: Section 24344 first allows interest expense against formula-allocated interest income, then allows the remaining expense only above nonformula interest and dividends, except dividends deductible under section 24402 because declared from income included in the measure of the specified California taxes. Remaining expense is directly offset against the nonformula receipts. The challenged receipts-based mechanism effectively attributes borrowing first to nonunitary investment and does not reasonably reflect the borrowing devoted to it. Fungibility and tax-arbitrage concerns do not validate this method. H3: The defect exists under both the forms-based unitary-interest interpretation and California's all-interest interpretation; that state-law disagreement need not be resolved.
+
+**Premise comparison.** Current Allied-Signal retains the unitary/operational boundary, a separate fair-allocation inquiry and the taxpayer's clear-and-cogent burden. O'Connor's and Thomas's different application positions there do not create a nexus conceded absent here. The historical direct/indirect taxation distinction is compatible with current law. National Life supplies the substance-over-deduction-label analogy; Denman and First National Bank preserve reasonable expense allocation. The present ground does not convert those examples into a compulsory replacement formula.
+
+| Justice | Frozen → reconciled commitment | Individual comparison and join limit |
+|---|---|---|
+| Stevens | Reverse/remand H1–H3 → retained | His historical join and current Allied-Signal join rest on exclusion of unrelated investment value. This conceded absence of nexus does not require a fresh finding about operating assets. |
+| O'Connor | Reverse/remand H1–H3 → retained | Her historical vote shows that her broader view of operational connection does not defend a receipts-based allocation after nonnexus is conceded. She retains reasonable allocation and the taxpayer burden. |
+| Scalia | Reverse/remand H1–H3 → retained | His historical join and Allied-Signal join permit enforcement of the established territorial boundary without a new general scrutiny of deductions. No changed premise warrants a separate ground. |
+| Kennedy | Reverse/remand H1–H3 → retained | His current Allied-Signal opinion separates a lawful base from allocation; the historical Hunt-Wesson ground uses that separation. Fungibility cannot itself connect this dollar-for-dollar increment to expense. |
+| Souter | Reverse/remand H1–H3 → retained | His historical and Allied-Signal joins support reviewing practical operation rather than the deduction label. Tracing is not made mandatory. |
+| Thomas | Reverse/remand H1–H3 → retained | His historical vote distinguishes the conceded-nonnexus setting from his Allied-Signal disagreement. He joins the confined invalidity, not a rule disabling reasonable allocation. |
+| Ginsburg | Reverse/remand H1–H3 → retained | Her historical full join supplies direct evidence consistent with controlling Allied-Signal; no personal join in that pre-seating case is attributed to her. The construction dispute remains unnecessary. |
+| Breyer | Reverse/remand H1–H3 → retained | His historical sufficient ground is the formula's failure to allocate borrowing realistically. Current law leaves that premise intact; historical authorship supplies no assignment. |
+
+**Remedy and limits.** Reverse the California appellate judgment and remand for lawful calculations and relief. No fixed refund, compelled tracing finding or prescribed formula. Both Due Process and Commerce Clause grounds remain; this is not an equal-protection ruling. The two statutory exceptions and steps are not collapsed into a flat denial of every interest deduction. No separate-writing function or material historical departure is required.
+
+### Assignment arithmetic by Justice
+
+| Justice | Count | Last counted opinion by that Justice | Eligible for full lead | In balance pool |
+|---|---:|---|---|---|
+| Stone-Zsela | 2 | Baral v. United States; 2000-02-22 | Yes | Yes |
+| Stevens | 2 | Smith v. Robbins; 2000-01-19 | Yes | Yes |
+| O'Connor | 3 | Nixon v. Shrink Missouri Government PAC; 2000-01-24 | Yes | Yes |
+| Scalia | 3 | Richards v. United States; 2000-02-14 | Yes | Yes |
+| Kennedy | 2 | Rayphand v. Sablan / Torres v. Sablan; 1999-12-13 | Yes | Yes |
+| Souter | 2 | Gutierrez v. Ada; 2000-01-19 | Yes | Yes |
+| Thomas | 2 | Martinez v. Court of Appeal of California, Fourth Appellate District; 2000-01-12 | Yes | Yes |
+| Ginsburg | 2 | U.S. West, Inc. v. Federal Communications Commission; 2000-02-07 | Yes | Yes |
+| Breyer | 3 | Reno v. Bossier Parish School Board / Price v. Bossier Parish School Board; 2000-01-24 | Yes | Yes |
+
+## Sources and validation
+
+Research cutoff: 2000-02-22. Factual provenance and source limits are reproduced in the event kernel; historical comparator and simulated current law remain distinct. The final proposed public text was compared with the eight reconciled commitments and approved Stone core. No invented circulation history, new fact, unsupported changed vote or material historical departure is used. Quorum, judgment counts, proposition joins, disposition/remedy consistency, form-before-count ordering, fresh sequential assignment arithmetic, eleven-block order and public/private separation were checked locally. Full term deterministic validation, workspace synchronization and repository commitment remain pending with the central operator; no Git check or commit is claimed. This Record becomes the durable source for subsequent same-Run assignment counts once written. No original merits filing or joint appendix is represented as fully read by this assembly context.
+
+Assignment recount evidence: OT_1999CHUNK3_ASSIGNMENT_hunt-wesson-v-franchise-tax-board_merits_2000-02-22.json.
+
+## Public Projection
+
+## Event
+
+Hunt-Wesson, Inc. v. Franchise Tax Board of California, No. 98-2043. Merits decision; February 22, 2000. Argued January 12, 2000. On writ of certiorari to the California Court of Appeal, First Appellate District, judgment of December 11, 1998. Question: Whether California may reduce a nondomiciliary corporation's interest deduction by reference to constitutionally excluded nonunitary receipts through the challenged section 24344 allocation.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+## Public Action
+
+Reversed and remanded.
+
+## Judgment & Remedy
+
+Reversed and remanded, 9–0. Supporting: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The California appellate judgment sustaining the challenged assessment is reversed. The assessment cannot stand on this unconstitutional offset; the case returns for recalculation using a supported allocation and for corresponding lawful relief. No fixed refund or replacement formula is prescribed.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Kennedy | Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg, Breyer | Supports the judgment | Entire opinion |
+
+## Holdings
+
+### An expense adjustment must respect the constitutional tax base
+
+**Holding and operative rule:** Under the Due Process and Commerce Clauses, a State may not enlarge a nondomiciliary corporation's taxable unitary income through an interest-deduction adjustment measured by constitutionally excluded nonunitary receipts unless the adjustment fairly attributes expense to the income it generates. Expenses properly attributable to excluded income need not be deducted from taxable income, and a supported reasonable allocation may establish that attribution without tracing every borrowed dollar.
+
+**Authority:** Justice Kennedy's opinion of the Court, joined in full by the other eight Justices, controls each holding by nine direct votes.
+
+**Controlling explanation:** Allied-Signal separates the connection that makes income taxable from the fairness of its allocation. Here the parties accept that the nonunitary receipts have no independent nexus to California. A deduction label cannot circumvent that boundary: denial of an unrelated business expense can enlarge the taxable base just as a direct inclusion of excluded income can. National Life supplies that substance-over-form principle. Denman and First National Bank preserve the State's authority to allocate real expenses associated with excluded income. Borrowed funds are fungible and tax arbitrage can warrant an allocation method, but those considerations do not establish that any receipts-based offset reasonably allocates the borrowing devoted to the excluded activity. The taxpayer's existing clear-and-cogent burden remains; the Court creates no compulsory tracing rule or general shifted burden.
+
+### Section 24344 fails under either proposed construction
+
+**Holding and operative rule:** The challenged section 24344 mechanism unreasonably allocates borrowing expense by reference to excluded receipts and therefore cannot sustain this assessment. Its defect remains whether the section covers only unitary-business interest expense under the tax forms or all interest expense under California's proposed construction, so the Court need not choose between those readings.
+
+**Authority:** Justice Kennedy's opinion of the Court, joined in full by the other eight Justices, controls each holding by nine direct votes.
+
+**Controlling explanation:** Section 24344 first allows interest expense against interest income subject to formula allocation. It then permits the balance only to the extent that it exceeds nonformula interest and dividends, except dividends deductible under section 24402 because declared from income already included in the measure of the specified California taxes upon the declaring taxpayer. The remaining expense is directly offset against those nonformula receipts. This is not a flat denial of all interest deductions. The defect is that the formula effectively allocates borrowing first to nonunitary investments by measuring their receipts, without reasonably reflecting the borrowing devoted to them. More excluded receipts can disallow more expense despite no corresponding expense connection. Including all interest rather than only the interest carried on the forms does not cure that unreasonable relationship. The judgment must be reversed and the assessment recalculated lawfully, leaving the permissible allocation and resulting relief for remand.
+
+## Precedent Treatment
+
+- Allied-Signal: applied to preserve the unitary or operational connection and the separate fair-allocation inquiry; its clear-and-cogent taxpayer burden remains.
+- ASARCO: retains the territorial and unitary-business boundaries applied through Allied-Signal.
+- F. W. Woolworth: retains the territorial and unitary-business boundaries applied through Allied-Signal.
+- Mobil Oil: retains the territorial and unitary-business boundaries applied through Allied-Signal.
+- Container Corp.: retains the territorial and unitary-business boundaries applied through Allied-Signal.
+- National Life Insurance Co. v. United States: applied for the rule that a deduction adjustment cannot accomplish forbidden taxation indirectly.
+- Denman v. Slayton: distinguished to preserve reasonable allocation of expenses associated with excluded income; it does not sustain this receipts-based mechanism.
+- First National Bank of Atlanta v. Bartow County Board of Tax Assessors: distinguished to preserve reasonable allocation of expenses associated with excluded income; it does not sustain this receipts-based mechanism.
+
+## Law After Decision
+
+The constitutional boundary on nonunitary income applies to the practical operation of deduction adjustments. California may use a reasonable supported method to allocate costs to excluded income, but the challenged receipts-based section 24344 offset cannot sustain this assessment. No general tracing mandate, prescribed allocation formula, equal-protection rule or fixed refund follows.
+
+## Separate Writings
+
+
+
+## Procedure After Action
+
+The California appellate judgment sustaining the challenged assessment is reversed. The assessment cannot stand on this unconstitutional offset; the case returns for recalculation using a supported allocation and for corresponding lawful relief. No fixed refund or replacement formula is prescribed.
+
+## Source Notes
+
+[Official record and preexisting provisions, 528 U.S. 458](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-458.pdf). The underlying disposition and governing authorities are stated above; no fact beyond the described record is resolved.

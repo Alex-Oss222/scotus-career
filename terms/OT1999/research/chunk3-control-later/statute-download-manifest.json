@@ -1,0 +1,42 @@
+[
+  {
+    "name": "usc18-3583",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1999-title18/pdf/USCODE-1999-title18-partII-chap227-subchapD-sec3583.pdf",
+    "status": "saved PDF and extracted text",
+    "characters": 27477
+  },
+  {
+    "name": "usc18-3624",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1999-title18/pdf/USCODE-1999-title18-partII-chap229-subchapC-sec3624.pdf",
+    "status": "saved PDF and extracted text",
+    "characters": 20600
+  },
+  {
+    "name": "usc33-2718",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1999-title33/pdf/USCODE-1999-title33-chap40-subchapI-sec2718.pdf",
+    "status": "saved PDF and extracted text",
+    "characters": 11484
+  },
+  {
+    "name": "usc46-3703",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1999-title46/pdf/USCODE-1999-title46-subtitleII-partB-chap37-subchapI-sec3703.pdf",
+    "status": "failed: HTML error page; non-source artifacts removed",
+    "characters": null
+  },
+  {
+    "name": "usc42-1395cc",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1999-title42/pdf/USCODE-1999-title42-chap7-subchapXVIII-partE-sec1395cc.pdf",
+    "status": "failed: HTML error page; non-source artifacts removed",
+    "characters": null
+  },
+  {
+    "name": "usc46-3703-corrected",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1999-title46/pdf/USCODE-1999-title46-subtitleII-partB-chap37-sec3703.pdf",
+    "status": "saved PDF and extracted text",
+    "characters": 20853
+  },
+  {
+    "name": "usc42-1395cc-1994",
+    "status": "failed: HTML error page; non-source artifacts removed"
+  }
+]

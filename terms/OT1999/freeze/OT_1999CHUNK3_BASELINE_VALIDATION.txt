@@ -1,0 +1,7 @@
+Command: python -B tmp/ot1999_chunk3_no_git.py check
+Exit status: 0
+
+OK: OT1999 non-Git deterministic checks; 0 warning(s)
+SKIPPED: commit-hash existence validation for 0 unique detected references. No Git command was invoked; no conclusion about repository commits is asserted.
+
+Baseline validation ran before chunk 3 assembly. No ledger regeneration or adjudication mutation was performed by this adapter run.
