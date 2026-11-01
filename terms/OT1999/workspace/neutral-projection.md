@@ -1,14 +1,14 @@
 # OT1999 Current-Term Neutral Projection
 
-Current public law, procedure and institutional facts after 46 Court events and 4 admitted nonjudicial sources. Opening trackers and effective Records remain authoritative.
+Current public law, procedure and institutional facts after 48 Court events and 4 admitted nonjudicial sources. Opening trackers and effective Records remain authoritative.
 
 ## Opening law and chronology
 
 The opening [Holdings volumes](../../../state/holdings/), synchronized [continuous Holdings](../../../state/HOLDINGS.md), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md) are the OT1998-close set: processed through June 23, 1999. They remain unchanged. Current-term Records supplement that baseline from their effective dates. [Court Composition](../../../foundation/COURT_COMPOSITION.md) controls the roster and allotments.
 
-46 Court events are completed: 36 in chunks 1–3 and 10 in chunk 4. Four nonjudicial sources are admitted with their own effective provisions. The chronology cursor is 2000-04-03. Uncoordinated same-day decisions share their entering-law baseline and operate together only prospectively. No institutional change is entered.
+48 Court events are completed: 36 in chunks 1–3 and 12 in chunk 4. Four nonjudicial sources are admitted with their own effective provisions. The chronology cursor is 2000-04-03. Uncoordinated same-day decisions share their entering-law baseline and operate together only prospectively. No institutional change is entered.
 
-The next scheduled chunk is chunk 5, beginning with Reform Party of Allegheny County v. Allegheny County Department of Elections on April 10, 2000. Fiore remains pending after certification. Weeks’s bounded sentencing-response remand remains in force. All fourteen opening carryovers retain their stated stages; Alaska remains among the 104 scheduled matters and the other thirteen are additional. Stopped chunk-4 matters remain open at their existing stage; no disposition or later event is inferred.
+The next scheduled chunk is chunk 5, beginning with Reform Party of Allegheny County v. Allegheny County Department of Elections on April 10, 2000. Fiore remains pending after certification. Weeks’s bounded sentencing-response remand remains in force. All fourteen opening carryovers retain their stated stages; Alaska remains among the 104 scheduled matters and the other thirteen are additional. All twelve chunk-4 events are completed in their existing chronological slots. Browne returns for the distinct proceedings in its mandate; Free leaves the final Fifth Circuit judgment in force.
 
 ## Completed public events and admitted sources
 
@@ -60,9 +60,11 @@ The next scheduled chunk is chunk 5, beginning with Reform Party of Allegheny Co
 | 2000-03-21 | [FDA v. Brown & Williamson Tobacco Corp.](../records/fda-v-brown-and-williamson_merits_2000-03-21.md) | Fourth Circuit affirmed, 5-4; August 28, 1996 rule remains invalid for want of asserted FDCA authority over tobacco as customarily marketed. |
 | 2000-03-22 | [Board of Regents of the University of Wisconsin System v. Southworth](../records/board-of-regents-v-southworth_merits_2000-03-22.md) | Reversed and remanded only on the referendum issue, 9–0 in judgment; six Justices join the complete framework and three concur in the judgment. |
 | 2000-03-22 | [Wal-Mart Stores, Inc. v. Samara Brothers, Inc.](../records/wal-mart-v-samara-brothers_merits_2000-03-22.md) | Reversed and remanded, 9–0 in judgment, on the product-design distinctiveness question; eight Associates join the complete opinion and Stone-Zsela concurs in the judgment. |
+| 2000-03-27 | [Browne v. United States](../records/browne-v-united-states_merits_2000-03-27.md) | Vacated and remanded: each paid-addition RFRA determination 5–4; RFRA collected-interest determination 8–1; section 6404 abatement and prospective relief 9–0, for threshold adjudication. |
 | 2000-03-28 | [Florida v. J. L.](../records/florida-v-j-l_merits_2000-03-28.md) | Florida Supreme Court affirmed, 9-0; suppression remains in place without an additional dismissal order. |
 | 2000-03-28 | [Garner v. Jones](../records/garner-v-jones_merits_2000-03-28.md) | Eleventh Circuit vacated and remanded, 7-2, for application of the existing Morales opportunity-and-substitute inquiry; officials' summary judgment is not restored. |
 | 2000-03-29 | [City of Erie v. Pap's A.M.](../records/city-of-erie-v-paps-am_merits_2000-03-29.md) | Reach the merits, 7–2; affirm the Pennsylvania judgment, 5–4. Six support the threshold rationale; five directly support the precise common content-selection rule across writings; the independent intermediate alternative has three votes. |
+| 2000-04-03 | [Free v. Abbott Laboratories, Inc.](../records/free-v-abbott-laboratories_merits_2000-04-03.md) | June 3, 1999 final Fifth Circuit judgment affirmed by an equally divided Court, 4–4; O'Connor does not participate; no remand or controlling section 1367 holding. |
 | 2000-04-03 | [Powell v. Ridge](../records/powell-v-ridge_merits_2000-04-03.md) | Third Circuit reversed and remanded, 5-4 on each count; the direct and section 1983 impact-only theories fail on separate grounds, without creation of an intentional-discrimination claim. |
 
 The table is in effective order. The four Admitted Source Records are nonjudicial instruments; their release or enactment dates do not override separately conditioned effectiveness. No adjudicative correction is entered in this update.
@@ -1317,6 +1319,88 @@ Justice Scalia's opinion, joined by all seven other Associate Justices, gives th
 
 The [Second Circuit opinion, 165 F.3d 120](https://static.case.law/f3d/165/html/0120-01.html) supplies the garment descriptions, jury findings, separate claims, absence of an asserted secondary-meaning theory and component-specific appellate relief. The official [1998 section 1125](https://www.govinfo.gov/content/pkg/USCODE-1998-title15/html/USCODE-1998-title15-chap22-subchapIII-sec1125.htm) and [section 1127](https://www.govinfo.gov/content/pkg/USCODE-1998-title15/html/USCODE-1998-title15-chap22-subchapIII-sec1127.htm) supply the source-related statutory text. [Public Law 106-43, section 5](https://www.govinfo.gov/content/pkg/PLAW-106publ43/html/PLAW-106publ43.htm), approved August 5, 1999, supplies the separate nonfunctionality-burden provision. The lower opinion's inconsistent cents in the initial trade-dress total are not used to calculate relief. Its express denial of prejudgment interest is retained; no new postjudgment-interest or total-recovery determination is made.
 
+### Browne v. United States — 2000-03-27
+
+[Record](../records/browne-v-united-states_merits_2000-03-27.md).
+
+#### Event and question
+
+**Browne v. United States**, No. 99-632. October Term 1999. Merits decision, March 27, 2000. Certiorari granted November 29, 1999; argued or submitted February 28, 2000. Review of the Second Circuit's judgment affirming judgment on the pleadings, reported at 176 F.3d 25, below No. 98-6124; District Court opinion, 22 F. Supp. 2d 309.
+
+The question is whether RFRA requires the IRS to use the Brownes' proposed compulsory-collection alternative while dispensing with ordinary additions or interest. The Brownes timely filed their 1993–1995 returns, withheld the portion associated with military spending, and accepted the Government's authority to levy the full tax. The IRS collected principal, additions and interest. Allegations of accessible assets, prompt replies and unnecessary collection delay are taken in the taxpayers' favor at the pleadings stage; they are not trial findings. The collected-addition claims, RFRA interest-refund claim, section 6404 abatement theory and prospective remedies require distinct treatment.
+
+#### I-A. The payment addition requires its own RFRA determination
+
+**Holding and operative rule:** When a taxpayer challenges the section 6651(a)(2) failure-to-pay addition under RFRA, lawful principal liability and failure to satisfy a Code exception do not by themselves justify that additional religious burden. The taxpayer must establish substantial burden; the Government must then produce evidence and persuade that applying the addition advances a compelling interest by the least restrictive means, considering the actual proposed collection alternative and the period challenged.
+
+**Authority:** Part I-A of Justice Scalia's opinion, joined by O'Connor, Kennedy, Souter and Thomas; five direct rationale and judgment votes.
+
+**Controlling explanation:** Adams requires a separate RFRA inquiry into collection and each addition; Clearwater, Swanner and American Life League supply the claimant's substantial-burden threshold and the Government's application-specific justification burden. Substantial burden is assumed for this pleadings review, without a final finding. Browne concerns failure to pay after timely filing, not Adams's failure to file. It also concerns acceptance of unrestricted levy, not Adams's requested nonmilitary earmark. Those differences require examination of this proposal.
+
+Compulsory enforcement differs from timely voluntary payment. That legal difference is a serious justification for the addition and may prove sufficient on the existing record. But the lower courts inferred rejection of all charge relief from liability for the principal and a general need for voluntary compliance. That does not separately resolve the payment addition or the narrower claim concerning allegedly unnecessary post-contact delay. The Court finds neither operational equivalence nor a guaranteed lawful levy date. It does not infer actual costs against the taxpayers from the pleadings. Lee explains the practical importance of mandatory common revenue; it supplies no categorical tax exception to RFRA.
+
+Section 6651's exception requires both reasonable cause and absence of willful neglect. The payment regulation requires ordinary business care and prudence despite inability to pay or undue hardship; the referenced hardship is substantial financial loss, not mere inconvenience. Sincerity does not establish those elements. Nor does failure under that exception complete the separate RFRA inquiry. Adequate facts and legal reasons may suffice without a study or hearing. No claimant duty to prove a feasible alternative, Government duty to refute every imaginable alternative, or mandatory negotiation process is created.
+
+#### I-B. The estimated-tax addition remains a distinct application
+
+**Holding and operative rule:** A RFRA challenge to section 6654 must be decided against the addition's own timely-installment function, under the same substantial-burden and Government justification sequence. Later levy neither supplies payment at an earlier installment date nor, by itself, resolves whether the challenged application satisfies RFRA; the lower courts' derivative rejection is vacated for that distinct determination.
+
+**Authority:** Part I-B of Justice Scalia's opinion, with the same five-Justice coalition as Part I-A.
+
+**Controlling explanation:** Adams requires independent attention to the estimated-tax burden rather than deriving its justification from annual principal liability or another addition. Section 6654 addresses the amount and duration of installment underpayment. The Government's argument that later collection cannot restore timely installments carries weight and may furnish an adequate legal justification. It nevertheless must be applied to this addition and this request, rather than replacing RFRA with the label of tax liability. Alleged avoidable post-contact collection delay does not itself eliminate previously accrued installment additions.
+
+The statutory qualifications remain separate. Under section 6654(e)(3)(A), the addition does not apply to the extent the Secretary determines that casualty, disaster or other unusual circumstances would make imposition against equity and good conscience. Paragraph (B) separately requires retirement after age 62 or disability in the relevant taxable year or its predecessor, together with reasonable cause and absence of willful neglect. Retirement in 1988 does not establish that timing condition for 1993–1995. Neither provision is section 6651's exception. Their existence neither establishes comparability to the Brownes' religious claim nor permits treating them as one general hardship waiver. American Life League requires application of the actual exemption and alternative, without a preliminary claimant feasibility burden. No computation, statutory eligibility, automatic religious waiver or entitlement to further evidence-taking is decided.
+
+#### II. The RFRA interest-refund claim requires a threshold determination
+
+**Holding and operative rule:** The merits rejection of the independent RFRA claim for recovery of collected interest is vacated because the lower courts did not distinguish that claim from discretionary interest-abatement review or decide the preserved jurisdiction and remedy objections. The lower courts must classify the claim and resolve those objections before its disputed merits; the Court decides neither the available forum nor the RFRA entitlement to recover interest.
+
+**Authority:** Part II of Justice Scalia's opinion, joined by all eight Associate Justices; eight direct votes. Chief Justice Stone-Zsela dissents from this part.
+
+**Controlling explanation:** Section 1346(a)(1)'s refund channel, section 7422's administrative-refund prerequisite, the separate section 6404 review provision and RFRA's appropriate-relief language concern different questions. The taxpayers describe interest collected in violation of RFRA; the Government invokes the specific Tax Court route for review of a refusal to abate. Neither the word abatement nor the RFRA label answers how the actual claim fits those provisions. The lower opinions rejected the merits without resolving that preserved interaction.
+
+Steel Co. forbids assuming disputed constitutional power to decide contested merits, while Ruhrgas permits a properly bounded nonmerits sequence. The present disposition requires decision of these actual threshold objections; it does not label every statutory restriction an Article III defect or prescribe a universal ordering of all nonmerits questions. The possible compensatory justification for interest cannot substitute for a decision about authority to adjudicate it. Conversely, the existence of a specific review statute does not itself establish the Government's asserted exclusivity. Both proposed final constructions remain open. Interest on unpaid principal is distinct from the installment addition; section 6601(h) excludes failure to pay estimated tax from that interest provision. No combined computation or interest merits rule is adopted.
+
+#### III-A. Section 6404 review must be separated from the RFRA refund theory
+
+**Holding and operative rule:** The section 6404 abuse-of-discretion theory is remanded for decision of its preserved review-channel, timing and remedial questions before any merits. The Court leaves open the exclusivity of the Tax Court route, when the operative request was made and whether the statutory conditions for review or abatement are met.
+
+**Authority:** Part III-A of Justice Scalia's opinion, joined by all nine Justices.
+
+**Controlling explanation:** A challenge to discretion exercised under section 6404 is not automatically the same claim as a demand for return of interest collected in violation of a different federal statute. The Government invokes the review provision, originally section 6404(g) and now section 6404(i), as an exclusive Tax Court route. Its temporal application, the operative request's date, its claimant-eligibility cross-reference to section 7430(c)(4), and its 180-day period after mailing of final refusal present questions for the lower courts; neither satisfaction of those conditions nor their application is decided here. The competing accounts of the request must be addressed on their actual evidence. No Tax Court filing, tolling entitlement or renewed filing period is established here.
+
+The Court does not decide the underlying abatement merits, whether any collection step qualifies for abatement or whether any amount must be returned. The review provision and the substantive grounds for abatement remain distinct. Ruhrgas supports this confined nonmerits disposition without deciding an exclusive forum or the merits under an assumed power.
+
+#### III-B. Prospective relief cannot be decided on the refund merits alone
+
+**Holding and operative rule:** Before deciding the merits of the requested declaration, practice-and-exemption-access order or compulsory-levy order without interest or penalties, the lower courts must decide the preserved jurisdiction and remedy objections, including the federal-tax restrictions in 28 U.S.C. section 2201(a) and 26 U.S.C. section 7421(a). RFRA's authorization of appropriate relief does not itself establish authority to grant those remedies.
+
+**Authority:** Part III-B of Justice Scalia's opinion, joined by all nine Justices.
+
+**Controlling explanation:** A refund of collected sums and an order controlling future collection are different remedies. The Government invoked the tax-remedy restrictions in its opposition before this Court, and the lower courts did not resolve their operation. RFRA's substantive coverage does not answer standing, sovereign immunity, the permitted judicial channel or the statutory limits on declarations and injunctions. Those issues require treatment of the actual requested relief. The Court adopts no exception to either tax restriction and no general immunity waiver. Steel Co. and Ruhrgas preserve the boundary between nonmerits adjudication and deciding disputed merits without the necessary power. The Court neither directs compulsory collection nor holds that every compulsory-collection accommodation must fail. No declaration, practice change, equal-access order, collection timetable or levy without charges is granted.
+
+#### Precedent treatment
+
+- **Adams v. Commissioner of Internal Revenue (March 6, 2000):** Applied to require independent RFRA adjudication of each addition; distinguished because these taxpayers filed timely and accept unrestricted levy rather than demanding an earmark. Its collection and addition rules remain in force.
+- **Church of Scientology Flag Service Organization, Inc. v. City of Clearwater:** Applied for the claimant's substantial-burden threshold and the Government's production-and-persuasion burden within RFRA's valid field; no burden is changed.
+- **Swanner v. Anchorage Equal Rights Commission:** Applied against substituting the general importance of the regulated system for application-specific justification; its surviving statutory reasoning is preserved.
+- **American Life League, Inc. v. Reno:** Applied for federal RFRA's operation, actual comparison of provisions and alternatives, and rejection of a preliminary claimant feasibility requirement; no new alternative-proof rule is added.
+- **United States v. Lee:** Retained as support for the practical revenue interest; it is not treated as a categorical exception to the enacted RFRA inquiry.
+- **City of Boerne v. Flores:** Its state-and-local enforcement-power holding is respected; the constitutional validity of federal RFRA remains outside this disposition.
+- **Citizens for a Better Environment v. Steel Co.:** Applied at its constitutional-jurisdiction boundary; not extended to classify every statutory condition as Article III or require an inflexible order among all thresholds.
+- **Ruhrgas AG v. Marathon Oil Co.:** Applied to preserve bounded nonmerits sequencing; it authorizes neither merits adjudication on assumed necessary power nor disregard of a controlling statutory command.
+- **Izumi Seimitsu Kogyo Kabushiki Kaisha v. U.S. Philips Corp.:** Its distinction between the granted question and independent claims is retained; attention to the preserved threshold objections does not enlarge the RFRA grant to decide ungranted constitutional or Code merits.
+
+#### Resulting law and limits
+
+Effective March 27, 2000, the paid-addition RFRA determinations require separate application of the existing claimant-specific burden sequence. This applies the RFRA framework to Browne's distinct timely-filing, compelled-collection proposal; it establishes no religious tax exemption or entitlement to levy. The interest and prospective-relief rulings establish the stated threshold remands, with no holding that District Court refund jurisdiction exists or is excluded, that Tax Court review is exclusive, or that any interest or prospective remedy is due. The Code's independent exceptions, computation rules and temporal conditions remain distinct. Federal RFRA's constitutional validity, independent constitutional claims and ungranted Code merits are not decided. Each holding has direct majority support; there is no unresolved Marks question.
+
+#### Source and record limits
+
+The [Second Circuit opinion, 176 F.3d 25](https://openjurist.org/176/f3d/25/browne-v-united-states), and the District Court opinion reproduced in the [petition, opposition and reply collection](https://archive.org/details/micro_IA40386014_0207), establish the pleadings posture and distinct demands. The petition appendix supplies the complaint, IRS refusal and Code materials. The [1998 refund-jurisdiction text](https://www.govinfo.gov/content/pkg/USCODE-1998-title28/html/USCODE-1998-title28-partIV-chap85-sec1346.htm) and [declaratory-judgment text](https://www.govinfo.gov/content/pkg/USCODE-1998-title28/html/USCODE-1998-title28-partVI-chap151-sec2201.htm), together with the original Code and 1996/1998 enactments, supply the statutory provisions at the relevant time.
+
+The appellate opinion bears March 24, 1999; the Government separately reports May 24 judgment entry. Both parties describe timely review after the July 12 rehearing denial; no filing defect is inferred. The available complaint appendix has a discontinuity in the 1995 chronology, and the asserted two-month levy concession lacks an authenticated transcript. Neither supplies a missing fact or concession. The August 1998 manual excerpts do not establish wording operative during every earlier tax event. The November 29 grant and February 28 submission are the calendar premises for this merits review; no additional event or filing is inferred. The allegations do not establish trial findings, a levy deadline, an amount calculation or eligibility for a statutory waiver.
+
 ### Florida v. J. L. — 2000-03-28
 
 [Record](../records/florida-v-j-l_merits_2000-03-28.md)
@@ -1487,6 +1571,28 @@ There is no controlling independent finding that this record fails intermediate 
 The [Pennsylvania Supreme Court opinion, 719 A.2d 273](https://static.case.law/a2d/719/html/0273-02.html) supplies the quoted ordinance, the federal majority grounds, existing state severance and separately unadjudicated claims. The [joint appendix for No. 98-1161](https://archive.org/details/micro_IA40385014_0258) supplies the agreed facts, Council record and October and December 1994 hearing material, including the City's theatrical interpretation and the agreed Equus nonenforcement fact. The agreed episode excludes the proposed artistic-merit characterization; the City's legal interpretation is not an enacted exception or an authoritative judicial construction.
 
 The differing effective-date accounts and early restraint do not establish that enforcement was available throughout the production's run. The Court determines no penalty provision or completed offense. The clothing agreement states what the ordinance required, not actual compliance; the liquor-premises comparison was deleted. Refusal of an erotic-message stipulation is not waiver of expression. Anticipated theatrical chill does not establish a canceled production or a claim by a theater party. Admission of pleadings for statements and admissions does not prove every allegation.
+
+### Free v. Abbott Laboratories, Inc. — 2000-04-03
+
+[Record](../records/free-v-abbott-laboratories_merits_2000-04-03.md).
+
+#### Event and question
+
+Free v. Abbott Laboratories, Inc., No. 99-391. On writ of certiorari to the United States Court of Appeals for the Fifth Circuit. Argued March 27, 2000; decided April 3, 2000. The judgment under review is the June 3, 1999 final judgment, 176 F.3d 298, affirming dismissal under Louisiana law. The question is whether 28 U.S.C. section 1367 permits supplemental jurisdiction over absent class members' below-amount claims when a named plaintiff's claim satisfies original diversity jurisdiction and the remaining claims form part of the same Article III case. The action began in 1993 and is subject to the then-applicable $50,000 amount requirement.
+
+The judgment binds the parties without a controlling Supreme Court rationale. The Court establishes no construction of section 1367 and does not resolve whether that statute displaces Zahn's independent amount requirement for these class members. No merits rule follows from the equal division.
+
+#### Precedent treatment
+
+This disposition does not overrule, limit or extend Zahn v. International Paper Co., Snyder v. Harris, Finley v. United States or City of Chicago v. International College of Surgeons. It announces no precedential resolution of the statutory disagreement.
+
+#### Resulting law and limits
+
+The class-member amount question remains without a controlling Supreme Court answer under section 1367. The judgment below remains binding in this case; its affirmance by equal division gives its reasoning no Supreme Court precedential force.
+
+#### Source and record limits
+
+The [June 3, 1999 Fifth Circuit opinion](https://static.case.law/f3d/176/html/0298-01.html) establishes the final judgment and Louisiana-law disposition. The [record and briefs](https://archive.org/details/micro_IA40385014_0334) identify the assumed qualifying named claim and the limited section 1367 question. The original-anchor assumption does not resolve the disputed fee-attribution rule generally or authorize aggregation of distinct claims to manufacture jurisdiction.
 
 ### Powell v. Ridge — 2000-04-03
 
@@ -1775,6 +1881,26 @@ Justice Scalia's opinion, joined by all seven other Associate Justices, gives th
 
 The concurrence supplies the Chief Justice's public grounds without a full lead join; the common product-design premise is already controlling through the eight-Justice opinion. No other separate writing is published. No roster, allotment, institutional practice or other pending case changes. No new Supreme Court filing condition is ordered.
 
+### Browne v. United States — 2000-03-27
+
+[Record](../records/browne-v-united-states_merits_2000-03-27.md).
+
+| Writing | Author | Joins | Relationship to judgment and exact scope |
+|---|---|---|---|
+| Opinion of the Court | Scalia | O'Connor, Kennedy, Souter and Thomas join in full; Stevens, Ginsburg and Breyer join Parts II and III; Stone-Zsela joins Part III only | Part I-A: section 6651(a)(2) RFRA remand; Part I-B: section 6654 RFRA remand. Part II: threshold remand of the RFRA collected-interest claim. Part III-A: threshold remand of section 6404 abatement review; Part III-B: threshold remand of prospective relief. |
+| Opinion concurring in part and dissenting in part | Stevens | Ginsburg and Breyer | Joins Parts II and III; would affirm the RFRA rejection of each collected addition on its own application-specific justification. |
+| Opinion concurring in part and dissenting in part | Stone-Zsela | No other Justice | Joins Part III; would sustain refund jurisdiction and affirm the RFRA rejection of the collected additions and interest. |
+
+Each Court proposition has direct majority support at its stated scope: five in Part I, eight in Part II, and nine in Part III. No judgment-only join or fractured-opinion synthesis supplies an additional rationale vote.
+
+**Justice Stevens, joined by Justices Ginsburg and Breyer, concurring in part and dissenting in part.** They accept RFRA's application-specific burdens and join the interest, abatement and prospective threshold remands. They would affirm the RFRA rejection of each paid addition on an adequate legal justification supplied by the actual proposal. Willingness to have assets seized leaves the taxpayer's payment duty unperformed until compulsory collection begins; it does not provide timely payment. That legal difference sustains the ordinary payment incentive even for the alleged unnecessary post-contact period, without a finding that every delay was unavoidable. The installment addition has the independent function of obtaining funds when installments fall due, which later collection cannot restore. Their Adams positions permit those existing-record legal answers without invented collection costs. They adopt neither a tax-wide RFRA exception nor an earmark analogy, and preserve distinct calculation and Code defenses. Their disagreement concerns whether this record already supplies sufficient application-specific justification, not whether RFRA applies.
+
+**Chief Justice Stone-Zsela, concurring in part and dissenting in part.** He joins the threshold remands for section 6404 abatement review and prospective relief. He would sustain jurisdiction under section 1346(a)(1) over the RFRA refund claims for additions and interest collected by levy, then affirm their rejection. That refund statute supplies consent to recovery litigation over allegedly wrongful internal-revenue collections; section 6601(e)(1) treats interest as taxes for assessment, collection and payment. The administrative refund claim was denied before suit, and no section 7422(a) objection is raised. Whether RFRA made the collected sums wrongful is a merits question. In his view, section 6404's review provision does not withdraw this jurisdiction over a claim founded on another federal statute. He leaves open that provision's exclusivity for review of a refusal to abate under section 6404 itself, the request's timing, and any RFRA remedy or immunity waiver beyond the refund statute. He does not rely on absence of a deficiency to deny Tax Court interest jurisdiction.
+
+Assuming substantial burden, he applies the Government's RFRA burden to the actual proposal. Authorization to seize assets differs from complete timely payment: the Government must initiate collection, exercise its authority and bear the associated delay and failure risks. No guaranteed, equally timely and cost-neutral arrangement is established by the proposal. Lee's concern with common revenue supports this application-specific conclusion. Interest accounts for the period the Treasury lacks payment; additions separately support timely compliance. Neither justification follows solely from the other's label. He would reject shifting those consequences to the public without disbelieving the religious distinction between paying and having money taken. A demonstrated complete, timely arrangement without material administrative cost or default risk would require a fresh assessment. He adopts no categorical ban on compulsory-collection accommodation, decides no prospective merits, and preserves independent statutory defenses, incorrect-computation claims, unauthorized-collection questions and protected advocacy.
+
+These positions are published and noncontrolling except for the expressly identified joins in the Court's opinion.
+
 ### Florida v. J. L. — 2000-03-28
 
 [Record](../records/florida-v-j-l_merits_2000-03-28.md)
@@ -1881,11 +2007,10 @@ The standing referral practice remains effective from October 7, 1991, with the 
 
 ### Remaining opening grants
 
-Paul P., Rayphand/Torres, Steamfitters, Fraternal Order of Police, Richards and Strout have reached the completed decisions above. Completed merits matters leave this pending-grant list; the remaining grants retain their carried stages. No grant date, poll or rationale is invented.
+Paul P., Rayphand/Torres, Steamfitters, Fraternal Order of Police, Richards, Strout and Browne have reached the completed decisions above. Completed merits matters leave this pending-grant list; the remaining grants retain their carried stages. No grant date, poll or rationale is invented.
 
 | Inventory row | Matter | Scheduled date | Carried stage |
 | --- | --- | --- | --- |
-| 43 | Browne v. United States | 2000-03-27 | Granted — to be heard on the merits. |
 | 49 | Reform Party of Allegheny County v. Allegheny County Department of Elections | 2000-04-10 | Granted — to be heard on the merits. |
 | 52 | Gillespie v. City of Indianapolis | 2000-04-17 | Granted — to be heard on the merits. |
 | 55 | Doe v. Rosenberg | 2000-04-24 | Granted — to be heard on the merits. |
@@ -2165,7 +2290,8 @@ The complaint contains no separate statutory §601 count. A genuinely preserved 
 
 The Third Circuit judgment is reversed as to the impact-only theories in Counts I and II, and the case is remanded for a mandate consistent with those holdings. No separate §601 claim is treated as already pleaded. Any genuinely preserved intentional-discrimination theory or ordinary amendment issue keeps its actual procedural footing. No new claim, automatic amendment, liability finding, funding order or retained Supreme Court return condition is created.
 
-### Stopped matters retained
+### Browne and Free: completed procedures
 
-- Browne v. United States: existing stage remains open; no new Court action.
-- Free v. Abbott Laboratories, Inc.: existing stage remains open; no new Court action.
+**Browne — March 27, 2000.** [Record](../records/browne-v-united-states_merits_2000-03-27.md). The case returns through the Second Circuit. The lower courts must separately apply RFRA to the two paid additions and resolve the identified threshold questions before addressing the RFRA collected-interest, section 6404 abatement or prospective-relief merits. Adequate existing facts and legal grounds may resolve a reachable claim; ordinary procedures govern any genuinely material factual dispute. The Court awards no tax cancellation, suspension, refund, abatement, compelled levy, new filing period, transfer or automatic hearing. No further Supreme Court return condition is imposed.
+
+**Free — April 3, 2000.** [Record](../records/free-v-abbott-laboratories_merits_2000-04-03.md). Supreme Court review of the final Fifth Circuit judgment is complete. That judgment remains in force. The Court directs no further class-certification or merits proceedings and imposes no new filing condition.

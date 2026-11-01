@@ -1,0 +1,2 @@
+OK: OT1999 non-Git deterministic checks; 0 warning(s)
+SKIPPED: commit-hash existence validation for 0 unique detected references. No Git command was invoked; no conclusion about repository commits is asserted.

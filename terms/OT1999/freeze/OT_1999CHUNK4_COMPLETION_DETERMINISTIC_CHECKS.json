@@ -1,0 +1,134 @@
+{
+  "status": "PASS",
+  "existing_files_checked": 1222,
+  "changed_existing_files": [
+    "terms/OT1999/render-inputs/OT_1999CHUNK4.md",
+    "terms/OT1999/workspace/continuity.md",
+    "terms/OT1999/workspace/ledger.md",
+    "terms/OT1999/workspace/manifest.md",
+    "terms/OT1999/workspace/neutral-projection.md"
+  ],
+  "all_other_existing_term_files_byte_identical": true,
+  "court_event_records": 48,
+  "admitted_source_records": 4,
+  "inventory_rows_reconciled": 104,
+  "chunk4_completed_events": 12,
+  "render_projection_identity_count": 12,
+  "browne_votes": [
+    {
+      "component": "RFRA recovery of the section 6651(a)(2) failure-to-pay addition",
+      "vote": [
+        5,
+        4
+      ],
+      "supporting": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "opposing": [
+        "Stone-Zsela",
+        "Stevens",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "component": "RFRA recovery of the section 6654 estimated-tax addition",
+      "vote": [
+        5,
+        4
+      ],
+      "supporting": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "opposing": [
+        "Stone-Zsela",
+        "Stevens",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "component": "RFRA recovery of interest collected by levy",
+      "vote": [
+        8,
+        1
+      ],
+      "supporting": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "component": "Section 6404 abuse-of-discretion abatement theory",
+      "vote": [
+        9,
+        0
+      ],
+      "supporting": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": []
+    },
+    {
+      "component": "Prospective declaration, order changing IRS practices and access to exemptions, and order requiring levy without interest or penalties",
+      "vote": [
+        9,
+        0
+      ],
+      "supporting": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing": []
+    }
+  ],
+  "free_division": {
+    "affirm": 4,
+    "reverse": 4,
+    "nonparticipating": "O'Connor",
+    "published_individual_lineup": false
+  },
+  "browne_controlling_explanation_word_counts": [
+    265,
+    211,
+    190,
+    165,
+    125
+  ],
+  "relative_links_checked": 449,
+  "git_commands_executed": 0,
+  "git_provenance_verification": "Deferred to operator; not represented as passed",
+  "errors": []
+}

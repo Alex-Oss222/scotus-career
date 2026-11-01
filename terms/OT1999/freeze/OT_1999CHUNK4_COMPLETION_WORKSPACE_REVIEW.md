@@ -1,0 +1,12 @@
+# OT1999 chunk 4 completion: independent workspace review
+
+No discrepancy found within the assigned review scope.
+
+- Browne remains dated March 27, 2000 and Free April 3, 2000. The manifest and ledger mark both original events complete.
+- Browne's Public Projection reconciles each paid-addition component at 5–4, the RFRA collected-interest threshold remand at 8–1, and section 6404 and prospective-relief threshold remands at 9–0. The named judgment coalitions match the opinion's five-, eight-, and nine-Justice joins. The public text awards no refund, abatement or prospective relief.
+- Free discloses a 4–4 equal-division affirmance and O'Connor's nonparticipation, without an individual vote lineup. The final Fifth Circuit judgment remains in force. No remand, class-certification or merits reopening, or controlling construction of section 1367 is stated.
+- The manifest has 104 inventory rows and 48 completed Court events; all twelve chunk-4 rows are completed. The ledger has 52 unique Record links, including four admitted sources. Each of continuity and neutral-projection has 52 dated event-summary rows in effective-date order.
+- The four workspace files consistently reflect completion through April 3. Continuity and neutral-projection contain no stopped status. The new Free passages disclose no private vote allocation; Browne's named positions are the published opinions supplied in its Public Projection. No private conference, commitment or reconciliation material was found in neutral-projection.
+- Against tmp/ot1999_chunk4_completion_baseline.json, 1,217 of 1,222 existing files are byte-identical and none is missing. The only changed baseline files are the chunk-4 Render Input and the four workspace files. All 50 preexisting substantive Records, the Records placeholder, existing freezes, runtime handoffs, preparation files, briefs, sources, and research files retain their baseline hashes. At the start of this review, six files had been added since the task baseline: the two Records, their three completion assembly/count validation artifacts, and the completion control note.
+
+Review scope: the two new Public Projections and the four workspace files; byte-hash preservation checks were confined to terms/OT1999 paths supplied by the baseline. No Git command or top-level stone directory access occurred. This review did not reconsider substantive modeling or unpublished Free votes. No existing file was edited.
