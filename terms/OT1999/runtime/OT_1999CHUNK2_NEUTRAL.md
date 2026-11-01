@@ -408,7 +408,7 @@
 * **Court and Judgment Under Review:** Certiorari to the United States Court of Appeals for the Ninth Circuit. The Ninth Circuit affirmed the District Court’s grant of a conditional writ on the appellate-counsel issue and remanded for consideration of Robbins’s remaining exhausted trial-error claims.
 * **Relief Requested:** Petitioner seeks reversal or vacatur of the judgment under review and the relief necessary to resolve the question before the Court.
 * **Material Record:** Under California’s *Wende* procedure, appointed appellate counsel summarized the procedural and factual history but identified no issue that might arguably support the appeal and asked the state appellate court to review the record independently. The federal District Court concluded that at least two arguable issues existed and granted a conditional writ; the Ninth Circuit affirmed that ruling and remanded for consideration of Robbins’s remaining exhausted trial claims.
-* **Threshold, Preservation, and Vehicle Matters:** No additional jurisdictional, preservation, or vehicle defect is identified. The limits of the record and requested relief govern any disposition.
+* **Threshold, Preservation, and Vehicle Matters:** The State argues that invalidating *Wende* extends existing precedent rather than applies a rule dictated at finality, making *Teague* an independent bar to collateral relief. No additional jurisdictional, preservation, or vehicle defect is identified. The limits of the record and requested relief govern any disposition.
 * **Relevant Dates:** Argument or submission: October 5, 1999; Simulated event: January 19, 2000.
 * **Companion or Related Matters:** None identified.
 * **Participation Matter:** None identified in the available authorities.
