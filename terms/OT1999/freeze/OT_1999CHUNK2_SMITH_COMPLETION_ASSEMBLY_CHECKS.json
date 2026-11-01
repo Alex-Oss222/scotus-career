@@ -1,0 +1,135 @@
+{
+  "counts": {
+    "Stone-Zsela": 1,
+    "Stevens": 1,
+    "O'Connor": 2,
+    "Scalia": 1,
+    "Kennedy": 2,
+    "Souter": 2,
+    "Thomas": 2,
+    "Ginsburg": 1,
+    "Breyer": 1
+  },
+  "counted": [
+    {
+      "date": "1999-12-06",
+      "case": "Paul P. v. Verniero; Third Circuit No. 97-5791, 170 F.3d 396; no separate Supreme Court docket number stated.",
+      "file": "paul-p-v-verniero_merits_1999-12-06.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1999-12-07",
+      "case": "Drye v. United States; No. 98-1101",
+      "file": "drye-v-united-states_merits_1999-12-07.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-12-07",
+      "case": "Los Angeles Police Department v. United Reporting Publishing Corp.; No. 98-678",
+      "file": "los-angeles-police-department-v-united-reporting_merits_1999-12-07.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1999-12-13",
+      "case": "Rayphand v. Sablan / Torres v. Sablan; No. 99-475; below No. 97-0029, 95 F. Supp. 2d 1133",
+      "file": "rayphand-v-sablan-torres-v-sablan_merits_1999-12-13.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "2000-01-10",
+      "case": "Steamfitters Local Union No. 420 Welfare Fund v. Philip Morris, Inc.; Third Circuit No. 98-1426; 171 F.3d 912; no Supreme Court docket supplied",
+      "file": "steamfitters-v-philip-morris_merits_2000-01-10.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-01-11",
+      "case": "Kimel v. Florida Board of Regents / United States v. Florida Board of Regents; Nos. 98-791 and 98-796",
+      "file": "kimel-v-florida-board-of-regents_merits_2000-01-11.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "2000-01-11",
+      "case": "New York v. Hill; No. 98-1299.",
+      "file": "new-york-v-hill_merits_2000-01-11.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "2000-01-12",
+      "case": "Friends of the Earth, Inc. v. Laidlaw Environmental Services (TOC), Inc.; No. 98-822",
+      "file": "friends-of-the-earth-v-laidlaw_merits_2000-01-12.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-01-12",
+      "case": "Illinois v. Wardlow; No. 98-1036",
+      "file": "illinois-v-wardlow_merits_2000-01-12.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "2000-01-12",
+      "case": "Martinez v. Court of Appeal of California, Fourth Appellate District; No. 98-7809",
+      "file": "martinez-v-court-of-appeal_merits_2000-01-12.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "2000-01-12",
+      "case": "Reno v. Condon; No. 98-1464",
+      "file": "reno-v-condon_merits_2000-01-12.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "2000-01-18",
+      "case": "Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; 173 F.3d 898",
+      "file": "fraternal-order-of-police-v-united-states_merits_2000-01-18.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "2000-01-19",
+      "case": "Gutierrez v. Ada; No. 99-51",
+      "file": "gutierrez-v-ada_merits_2000-01-19.md",
+      "authors": [
+        "Souter"
+      ]
+    }
+  ],
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Stevens",
+  "assigner": "Stone-Zsela"
+}

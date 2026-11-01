@@ -1,0 +1,2803 @@
+99-5746 
+
+
+NOV i: 
+
+
+In The 
+Supreme Court of the United States 
+
+
+7 
+
+
+LONNIE WEEKS, JR., 
+
+
+Petitioner, 
+
+
+RONALD J. ANGELONE, Director, 
+Virginia Department of Corrections, 
+
+
+Respondent. 
+
+
+o— — 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Fourth Circuit 
+
+
+S 
+
+
+BRIEF OF RESPONDENT 
+
+
+S 
+
+
+Mark L. EAr.ey 
+Attorney General of Virginia 
+
+
+Rosert H. ANverson, III 
+Assistant Attorney General 
+Counsel of Record 
+
+
+Office of the Attorney General 
+900 East Main Street 
+Richmond, Virginia 23219 
+(804) 786-4624 
+
+
+Counsel for Respondent 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+ae BEST AVAILABLE COPY uaa 
+
+
+QUESTIONS PRESENTED 
+
+
+Is Weeks’ claim defaulted and barred from federal 
+collateral review because he failed to “fairly present” 
+it to the Virginia Supreme Court on direct appeal? 
+
+
+Is granting relief upon Weeks’ claim — which chal- 
+lenges the adequacy of the trial court’s discretionary, 
+accurate response to the sentencing jury’s question - 
+barred by the “new rule” doctrine and 28 U.S.C. 
+§ 2254(d)? 
+
+
+Under all the relevant facts surrounding Weeks’ pen- 
+alty-stage proceeding, is there a reasonable likelihood 
+that the jury could have believed it was precluded 
+from considering his mitigation evidence? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+TABLE OF AUTIOORITERS ..occcsccccccdccnsevenees iii 
+STATEMENT OF THE CASE.........ccccccsccesees 1 
+A. Weeks’ Murder of Trooper Cavazos.......... 1 
+B. Trial Coust PeaceeGinaes ..osbonkvvicsdtestent 3 
+C. Dhewct Agent o0 on scccsieseessvupeesasbiane 15 
+D. State Collateral Proceedings ................. 17 
+E. Federal Collateral Proceedings ............... 17 
+SUMMARY OF ARGUMENT. ..............cececees 19 
+ABGUMENT ....00¢c0dcsicqsensawescisenneeueaeee 21 
+
+
+I. WEEKS’ CONSTITUTIONAL CLAIM IS 
+DEFAULTED BECAUSE HE NEVER FAIRLY 
+PRESENTED IT IN STATE COURT ......... 21 
+
+
+Il. WEEKS’ CLAIM, IF ACCEPTED, WOULD 
+CONSTITUTE AN IMPERMISSIBLE “NEW 
+RULE,” AND RELIEF LIKEWISE IS BARRED 
+UNDER 28 U.S.C. § 2254(d) ............005. 26 
+
+
+Ill. THE TRIAL COURT PROPERLY ANSWERED 
+THE JURY’S QUESTION ABOUT ITS SEN- 
+TENCING ALTERNATIVES, AND THERE IS 
+NO REASONABLE LIKELIHOOD THAT THE 
+JURY BELIEVED IT WAS PRECLUDED FROM 
+CONSIDERING THE MITIGATION EVI- 
+
+
+iii 
+TABLE OF AUTHORITIES 
+
+
+Cases 
+Anderson v. Harless, 459 U.S. 4 (1982)................ 22 
+
+
+Bollenbach v. United States, 362 U.S. 607 (1946) 
+PE AF PN 7 SIS TEES ES ne ee 34, 35, 36, 37, 45 
+
+
+Boyde v. California, 494 U.S. 370 (1990) .......... passim 
+Buchanan v. Angelone, 522 U.S. 269 (1998)........ passim 
+Butler v. McKellar, 494 U.S. 407 (1990)............ 28, 29 
+Cage v. Louisiana, 49° U.S. 39 (1990).............64.. 38 
+Calderon v. Thompson, 118 S.Ct. 1489 (1998).......... 47 
+Caldwell v. Mississippi, 472 U.S. 320 (1985)........ 29, 35 
+Caspari v. Bohlen, 510 U.S. 383 (1994)................ 29 
+Davis v. Greer, 675 F.2d 141 (7th Cir.), cert. denied, 
+ED oso cad abeseceebabsccbecancees: 31 
+Duncan v. Henry, 513 U.S. 364 (1995) (per curiam) .... 22 
+Eddings v. Oklahoma, 455 U.S. 104 (1982)............. 35 
+Estelle v. McGuire, 502 U.S. 62 (1991)............. 32, 39 
+Franklin v. Lynaugh, 487 U.S. 164 (1988) ............. 47 
+Gilmore v. Taylor, 508 U.S. 333 (1993) ............. 29, 35 
+Goeke v. Branch, 514 U.S. 115 (1995) .............455. 29 
+Graham v. Collins, 506 U.S. 461 (1993)........ 28, 29, 35 
+Gray v. Netherland, 518 U.S. 152 (1996) .............. 35 
+Johnson v. Texas, 509 U.S. 350 (1993).............6065. 47 
+
+
+Jones v. United States, 119 S.Ct. 2090 (1999)...... passim 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Jurek v. Texas, 428 U.S. 262 (1976).................. 47 
+Lambrix v. Singletary, 520 U.S. 518 (1997).....29, 34, 36 
+
+
+Lockett v. Ohio, 438 U.S. 586 (1978).................. 35 
+Lockhart v. Fretwell, 506 U.S. 364 I og a le le 34 
+McDowell v. Calderon, 130 F.3d 833 (9th Cir. 1997) 
+
+cert. denied, 523 U.S. 1103 (1998)............. . 32, 33 
+O'Dell v. Netherland, 521 U.S. 151 RE 28, 29 
+Penry v Lynaugh, 492 U.S. 302 (1989)................ 15 
+Picard v. Connor, 404 U.S. 270 SE ES FAA 22 
+Romano v. California, 512 U.S. 1 RE ET et 27, 47 
+Saffle v. Parks, 494 U.S. 484 (1990)............ 28, 29, 35 
+“denied, 498 US. 882 (1990) eo 
+Sawyer v. Smith, 497 U.S. 227 (1990).............. 29, 35 
+Smith v. Murray, 477 U.S. 527 (1986) ................ 21 
+“earl, denied, SR US 92 OP os 
+Teague v. Lane, 489 U.S. 288 (1989) ....... 20, 21, 28, 29 
+vest . Cain, $22 US. 87 (1997) .............-....... 34 
+United States v. Atterson, 926 F2d 649 (7th Cir. 
+
+SOU 049s recdip abbas thse sep aarti ius anid 31 
+
+
+United States v. Bailey, 830 F.2d 156 (11th Cir. 1987) .... 31 
+United States v. Barr, 963 F.2d 641 (3rd Cir. 1992) .... 45 
+
+
+ie tye 
+
+
+———_— 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+United States v. Barrigan-Devis, 133 F.3d 1287 (9th 
+Che, BGTED occ ccccccccccccencccccssswesenesonescces 33 
+United States v. Barsanti, 943 F.2d 428 (8th Cir. 
+BODE... occ ccvccccevcccscecdesccsscees ses ccdsantcces 31 
+United States v. Beverly, 913 F.2d 337 (7th Cir. 
+BODE. ccc cccccccccccvendcéscuceestevesseseess 30, 31 
+United States v. Bi-Co Pavers, Inc., 741 F.2d 730 (Sth 
+Cle, OBE oon cccccccccccccccccvscscsreccsessevess 45 
+United States v. Caro, 965 F.2d 1548 (10th Cir. 
+BOUT, . ccccccoccusccedvdsedovdvessansecebeseees 31, 38 
+
+
+United States v. Civilli, 883 F.2d 191 (2d Cir. 1989) .... 30 
+United States v. Cornillie, 92 F.3d 145 (8th Cir. 1997) .... 32 
+
+
+United States v. Dorri, 15 F.3d 888 (9th Cir.), cert. 
+denied, 513 U.S. 1004 (1994)..........-- 30, 31, 35, 36 
+
+
+United States v. Ellis, 23 F.3d 1268 (7th Cir. 1994).... 38 
+United States v. Gibbons, 968 F.2d 639 (8th Cir. 
+
+
+United States v. James, 998 F.2d 74 (2d Cir. 1993)..... 38 
+United States v. Keeper, 977 F.2d 1238 (8th Cir. 1992) .... 31 
+United States v. Kimmel, 777 F.2d 290 (5th Cir. 1985) .... 31 
+United States v. Ladd, 885 F.2d 954 (1st Cir. 1989) . . . 30, 36 
+
+
+United States v. Laing, 889 F.2d 281 (D.C. Cir. 1989), 
+cert. denied sub nom., Martin v. United States, 494 
+
+
+U.S. 1008 (1990) .... 2... cence cece eee e ee ecceeees 30, 36 
+United States v. Mealy, 851 F.2d 890 (7th Cir. 1988) .... 31 
+United States v. Mejia, 82 F.3d 1032 (11th Cir. 1996) .... 32 
+
+
+vi 
+TABLE OF AUTHORITIES - Continued 
+Page 
+United States v. Smith, 104 F.3d 145 (8th Cir. 1997) ..32, 38 
+
+
+United States v. Smith, 62 F.3d 641 (4th Cir. 1995), 
+appeal after remand, 91 F.3d 136 (1996)............. 30 
+
+
+United States v. Span, 170 F.3d 798 (7th Cir. 1999) .... 32 
+United States v. Stowell, 947 F.2d 1251 (Sth Cir. 
+
+
+Linited States v. White, 794 F.2d 367 (8th Cir. 1986) . .30, 31 
+
+
+Victor v. Nebraska, 511 U.S. 1 (1994)................. 38 
+Weeks v. Angelone, 4 F. Supp. 2d 497 (E.D. Va. 
+
+BOER. inn 6s de bepedsvasnereaebkeddevans dpanace es 17, 46 
+Weeks v. Angelone, 176 F.3d 249 (4th Cir. 1999)....... 18 
+
+
+Weeks v. Commonwealth, 450 S.E.2d 379 (Va. 1994) .... 16 
+Weeks v. Virginia, 516 U.S. 829 (1995)............-... 16 
+Yeatts v. Murray, 455 S.E.2d 18 (Va. 1995) ........... 24 
+
+
+STATUTES AND RULES 
+
+
+Federal 
+
+BB WBA. B Fee sv cdsccevciscedi 17, 18, 20, 33, 34, 35 
+TB UGK BH Me 0 0 6b 600s setcsedcucnecedsal 34, 36 
+Supreme Court Rule 14.1(a)................200ee000: 34 
+Supreme Court Rule 24.1 ........ 2... 666. ceeeeeees 24 
+
+
+Supreme Court Rule 24.1(f) ....... 2.6.0.6 csceeeeeees 34 
+
+
+Vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+State 
+§ 8.01-654.1, Code of Virginia....................... 17 
+S WSSiS), Code Of Virwiale . ..... ccc ccsccccccccces: 3 
+S I9.2-256A4, Code Of Virwiala. .......cccccscccccce: 12 
+S BOaeOS, Come OF Viniels .... ccc ccccccccsccwsccs 15 
+S D5.2-252.1, Come 6 Virwimla......ccccsccccccccccs: 18 
+Rule 5:7A(a), Rules of the Supreme Court of 
+WE na onan chugs dives siereduns backy ice senke de’ 17 
+Rule 5:17(c), Rules of the Supreme Court of 
+UE bdAGd0s CAdANAENE saGnad ob ORseeeRheee ee ken 24 
+
+
+Rule 5:27, Rules of the Supreme Court of Virginia .... 24 
+
+
+—————— 
+
+
+STATEMENT OF THE CASE 
+
+
+A. Weeks’ Murder of Trooper Cavazos 
+
+
+Shortly after 12:30 a.m. on February 24, 1993, Virginia 
+State Trooper Jose Cavazos, who was operating a radar 
+check at a cross-over on southbound Interstate 95 in 
+Prince William County, observed a Volkswagen Jetta 
+being driven at a high rate of speed. (App. 120-121, 
+273-274). Louis Dukes, Jr., was driving the vehicle, while 
+Lonnie Weeks, Jr., sat in the front passenger seat. Cavazos 
+then pursued Dukes’ vehicle, which passed another car 
+on the right shoulder. Finally, Cavazos stopped Dukes’ 
+automobile at the overpass on the Dale City exit ramp. 
+(App. 274). As far as Cavazos knew, the traffic stop was a 
+routine one. Unfortunately for the trooper, who had only 
+a few minutes to live, the stop was anything but routine 
+for Weeks. 
+
+
+Unbeknownst to Trooper  ~avazos, Weeks was on 
+probation in North Carolina for a 1992 drug conviction 
+and had violated th. terms of his probation, both by not 
+informing hijs North Carolina probation officer that he 
+was leaving for Washington, D.C., and by not obtaining 
+her written permission. (App. 121; Oct. 21, 1993, Tr. 
+25-30). Additionally, the very car that Weeks was travel- 
+ing in was one that he had stolen from Gene Farmer in 
+Fayetteville, North Carolina, at the end of January, 1993. 
+(App. 273; Oct. 19, 1993, Tr. 260-265). A man named 
+George Mallett, moreover, had been murdered in Fayette- 
+ville on January 9, 1993. (App. 273-274; Oct. 20, 1993, Tr. 
+111-112). Although Weeks had not been involved in Mal- 
+lett’s murder, he had obtained in January, 1993 the Glock 
+17 pistol used in that murder, knowing that the police 
+
+
+were looking for it and that it was loaded with hollow 
+point ammunition. (App. 114-115, 273-274). Weeks was 
+armed with the loaded pistol on the night of the capital 
+murder. 
+
+
+Thus, when Cavazos stopped his car, Weeks was 
+nervous because he was on probation and knew that the 
+car was stolen. (App. 121). After the trooper looked at 
+Dukes’ driver’s license and a piece of paper from the 
+glove compartment, Cavazos directed Dukes and then 
+Weeks to get out of their vehicle. In his subsequent con- 
+fession to the police, Weeks acknowledged that Cavazos 
+was friendly during the encounter. (Oct. 20, 1993, Tr. 35). 
+
+
+As he got out of the car, Weeks took the Glock 17 
+pistol from underneath the floor mat and held it down by 
+his side. He said he considered throwing the gun over a 
+rail on the overpass of the exit ramp but then, according 
+to his trial testimony, “an evil spirit” entered him. (App. 
+123). Weeks then shot Trooper Cavazos, whose gun was 
+still strapped in his holster, six times without warning or 
+provocation. (App. 274-275). Two of the shots would have 
+been independently fatal. (App. 295). One fatal wound 
+penetrated the neck, the aorta, the pulmonary artery, and 
+the left lung. (Oct. 19, 1993, Tr. 134-135). The second fatal 
+wound entered the left side of the trooper’s chest at the 
+level of his clavicle and caused a “massive hemorrhage” 
+at the axillary artery and vein in Cavazos’ left armpit. 
+(Id., Tr. 137). The four remaining shots entered the 
+trooper’s forearms and left wrist. (Id., Tr. 166-169). 
+
+
+Within minutes of the shooting, Officer James Virgil 
+of the Prince William County Police Department came 
+upon Weeks and Dukes at a motel located about '/2 mile 
+
+
+from the exit ramp. (App. 276). The two men, who 
+claimed that they had heard gunshots, consented to 
+remain at the motel and wait for an officer who could 
+speak with them. (App. 277). Later that morning, Special 
+Agent J. K. Roland of the Virginia State Police questioned 
+Weeks in a motel room, while Dukes was questioned in 
+another motel room. Shortly after Roland advised Weeks 
+of his Miranda rights, another trooper informed Roland 
+that Dukes had admitted that Weeks had shot Trooper 
+Cavazos. Consequently, at 7:52 a.m. Roland arrested 
+Weeks for the murder. (App. 280). At about 6:00 p.m. on 
+February 24, 1993, Weeks gave the police a full confes- 
+sion. (App. 281-282). 
+
+
+B. Trial Court Proceedings 
+
+
+Weeks then was indicted and prosecuted pursuant to 
+Virginia Code § 18.2-31(6), which makes the “willful, 
+deliberate, and premeditated killing of a law-enforcement 
+officer . . . when such killing is for the purpose of inter- 
+fering with the performance of his official duties” capital 
+murder. The trial court conducted jury voir dire on Octo- 
+ber 18, 1993. Upon the parties’ agreement, panels of four 
+prospective jurors were questioned, first by the trial 
+judge and then by the Commonwealth's Attorney and 
+defense counsel. Without exception, the trial judge asked 
+the panels, in the event they were to convict Weeks of 
+capital murder, would they “be able to consider voting 
+for a sentence less than death in this matter?” (App. 17, 
+27, 38, 43, 50, 59). Similarly, the trial court asked each 
+panel member: “Could you consider the imposition of a 
+life sentence as opposed to the death penalty, even 
+though you may have convicted the Defendant of capital 
+
+
+murder? Could you consider life as well as death?” (App. 
+17-18, 28, 59). 
+
+
+During his questioning of the various jury panels, the 
+Commonwealth's Attorney asked, in substantially similar 
+language, the following questions: 
+
+
+MR. EBERT: It would depend upon the evi- 
+dence and the circumstances and the law as to 
+what penalty you would impose; is that cor- 
+rect? 
+
+
+JURY PANEL: (Indicating in the affirmative.) 
+
+
+MR. EBERT: I think all of you understand that 
+the charge of capital murder, the Defendant is 
+charged with a crime that permits the imposi- 
+tion of the death penalty. Do you understand 
+that? 
+
+
+JURY PANEL: (Indicating in the affirmative.) 
+
+
+MR. EBERT: In the trial we have what we call a 
+bifurcated proceeding. It means that you will 
+hear evidence as to whether or not the Defen- 
+dant is guilty or innocent. If you find that the 
+Defendant is guilty, then you would come back 
+and hear more evidence and determine 
+whether or not you feel the death penalty is 
+appropriate. You understand that? 
+
+
+JURY PANEL: (Indicating in the affirmative.) 
+
+
+MR. EBERT: Will you be willing to consider all 
+the evidence of both aspects of this trial pro- 
+ceeding? 
+
+
+JURY PANEL: (Indicating in the affirmative.) 
+
+
+. * * 
+
+
+MR. EBERT: [I]f the Defendant were to be 
+convicted there would be two options under 
+the law to which he could be sentenced. One, 
+of course, would be the death penalty and the 
+other would be life imprisonment. Could you 
+fairly consider both of those options? 
+
+
+JURY PANEL: (Indicating in the affirmative.) 
+
+
+(App. 18-20; Oct. 18, 1993, Tr. 45, emphasis added). 
+
+
+During his own questioning of the venire, defense 
+counsel repeatedly asked the prospective jurors about 
+their willingness to consider any mitigating evidence pre- 
+sented by Weeks. For example, Weeks’ attorney con- 
+ducted the following voir dire of one panel: 
+
+
+MR. BAKER: The next three questions deal 
+with something called mitigation. I'll define the 
+term. Mitigation is something that lessens the 
+offense. In other words, you have done the 
+offense, but because of these circumstances, you 
+would consider it worthy of a lesser sentence. 
+That’s the best way I can define it. 
+
+
+I'll ask if you could consider these factors as 
+matters in mitigation. Do you understand my 
+definition? 
+
+(Ms. Rogers and Mr. Dobyns indicated in the 
+affirmative.) 
+
+
+MR. BAKER: Could you consider youth as a 
+factor in mitigation, the Defendant’s youth? 
+
+
+(Ms. Rogers and Mr. Dobyns indicated in the 
+affirmative.) 
+
+
+MR. BAKER: Could you consider the fact that 
+he lost his mother and father at an early age as a 
+factor in mitigation? 
+
+
+(Ms. Rogers and Mr. Dobyns indicated in the 
+affirmative.) 
+
+
+MR. BAKER: Could you consider the fact that 
+he was remorseful as a factor in mitigation; 
+remorse meaning sorry? 
+
+
+(Ms. Rogers and Mr. Dobyns indicated in the 
+affirmative.) 
+
+
+(App. 31-32). 
+
+
+The guilt phase of the trial occurred on October 
+19-20, 1993. At the outset of the proceeding, Weeks pled 
+guilty to use of a firearm in the commission of the capital 
+murder and a related grand larceny charge and was sen- 
+tenced to respective prison terms of three years and ten 
+years. At the conclusion of the guilt stage, the jury con- 
+victed Weeks of capital murder, and the case proceeded to 
+the penalty phase of the bifurcated trial. 
+
+
+The penalty phase was conducted on October 21-22, 
+1993. During his opening statement, the Common- 
+wealth’s Attorney reminded the jurors that they had 
+taken an oath, “and you are to consider certain evidence 
+now, as well as the evidence that you’ve heard, and 
+determine what is the appropriate sentence. .. . ” (App. 
+85). The prosecutor concluded: “I would ask you, after 
+you've heard all of the evidence, to weigh it carefully 
+[and] I would ask you to sentence him to death in accor- 
+dance with law and in accordance with the evidence.” 
+(Oct. 21, 1993, Tr. 11-12, emphasis added). 
+
+
+In the defense’s opening statement, Weeks’ attorney 
+stated that “what the jury must now do is decide the two 
+alternatives that are open to them. That is, one, death; 
+and the other, life in prison.” (App. 86). Defense counsel 
+then alluded to the mitigating evidence about Weeks’ 
+background that he intended to present and stated that 
+
+
+“you as the jury will have to consider this.” (App. 87, 
+emphasis added). Defense counsel concluded: “[T]his is 
+an individual that you will see the human side of him... . 
+[T]he question will be, should he pay the ultimate price 
+for this, or is there enough goodness in this individual 
+that this jury could find mercy in its heart to spare his 
+life.” (App. 87). 
+
+
+Thereafter, in addition to reintroducing its evidence 
+from the guilt phase, the Commonwealth offered Weeks’ 
+1992 North Carolina drug conviction order, as well as the 
+testimony of his probation officer, who described the 
+numerous acts committed by Weeks that had violated the 
+terms of his probation. (Oct. 21, 1993, Tr. 25-31). Addi- 
+tionally, Linda Cavazos, the widow of Trooper Cavazos, 
+and three Virginia State Police officers testified about the 
+victim and the impact of his murder upon his family and 
+fellow officers. (App. 94-104; Oct. 21, 1993, Tr. 56-61). 
+
+
+The defense then presented the testimony of ten wit- 
+nesses in mitigation, including Weeks himself. Weeks’ 
+testimony consumed 110 pages of the trial transcript, 
+most of which dealt with his upbringing, the circum- 
+stances under which he came to Virginia, and the events 
+culminating in Trooper Cavazos’ murder. Among other 
+things, Weeks, who was 20 years old at the time of the 
+murder, testified that his grandmother, Evelyn Leach, 
+started raising him while he was in the eighth grade. 
+(App. 106-107). Mrs. Leach provided him with a good 
+home and guidance, and up until the time he graduated 
+from high school, Weeks regularly attended church. 
+(App. 110). Weeks also was a starting player on his high 
+school basketball team and received college scholarship 
+offers. (App. 109). 
+
+
+Mrs. Leach and Trina Hammond, Weeks’ half-sister, 
+also testified about his upbringing. (App. 156-161, 
+166-175). These witnesses described Weeks’ adverse reac- 
+tion to the death of his father and his abandonment by his 
+mother when he was a teenager. (App. 156-161, 166-168). 
+Seven other friends of Weeks’ also testified about his 
+upbringing and the efforts they made to help him. (App. 
+130-150, 162-166). 
+
+
+Weeks and several other defense witnesses testified 
+that, after he graduated from high school, he quit going 
+to church and began a downward spiral that led to his 
+arrest and conviction in 1992 for conspiracy to possess 
+marijuana with intent to distribute. Finally, Weeks 
+described the circumstances that led up to Trooper Cav- 
+azos stopping his car. Weeks admitted that he had shot 
+the trooper several times but claimed that he had pan- 
+icked. (App. 121-123). 
+
+
+The trial court then instructed the jury. Instruction 
+No. 2, to which Weeks raised no objection, stated, in 
+pertinent part: 
+
+
+9 
+
+
+violence that would constitute a con- 
+tinuing serious threat to society; or 
+
+
+2. That his conduct in committing the 
+offense was outrageously or wantonly 
+vile, horrible or inhuman, in that it 
+involved depravity of mind or aggra- 
+vated battery to the victim beyond the 
+minimum necessary to accomplish the 
+act of murder. 
+
+
+If you find from the evidence that the 
+Commonwealth has proved beyond a reason- 
+able doubt either of the two alternatives, and 
+as to that alternative you are unanimous, then 
+you may fix the punishment of the defendant 
+at death or if you believe from all the evidence 
+that the death penalty is not justified, then you 
+shall fix the punishment of the defendant at 
+life imprisonment... . 
+
+
+If the Commonwealth has failed to prove 
+beyond a reasonable doubt at least one of the 
+alternatives, then you shall fix the punishment 
+of the defendant at life imprisonment... . 
+
+
+You have convicted the defendant of an 
+offense which may be punished by death. You 
+must decide whether the defendant shall be sen- 
+tenced to death or imprisonment for life. . . . 
+Before the penalty can be fixed at death, the 
+Commonwealth must prove beyond a reason- 
+able doubt at least one of the following two 
+alternatives: 
+
+
+1. That, after consideration of his history 
+and background, there is a probability 
+that he would commit criminal acts of 
+
+
+(App. 192-193, emphasis added). 
+
+
+Additionally, the trial court granted Weeks’ Instruc- 
+tion B-1, which explicated the concept of mitigating evi- 
+dence thusly: 
+
+
+Mitigation evidence is not evidence offered 
+as an excuse for the crime of which you have 
+found defendant guilty. Rather, it is any evi- 
+dence which in fairness may serve as a basis for 
+a sentence less than death. The law requires 
+your consideration of more than the bare facts 
+of the crime. 
+
+
+10 
+
+
+Mitigating circumstances may include, but 
+not be limited to, any facts relating to defen- 
+dant’s age, character, education, environment, 
+life and background, or any aspect of the crime 
+itself which might be considered extenuating or 
+tend to reduce his moral culpability or make 
+him less deserving of the extreme punishment 
+of death. 
+
+
+You must consider a mitigating circum- 
+stance if you find there is evidence to support it. 
+The weight which you accord a particular mit- 
+igating circumstance is a matter of your judg- 
+ment. 
+
+
+(App. 195, emphasis added).' 
+
+
+During the Commonwealth’s closing argument, the 
+Commonwealth's Attorney discussed such matters as the 
+circumstances surrounding Weeks’ slaying of Trooper 
+Cavazos, along with the mitigating evidence that the 
+defense had presented. (App. 200-207). Among other 
+things, the Commonwealth's Attorney argued: 
+
+
+[Weeks] killed Jose Cavazos because it was 
+good for him to do it. It would help him, or so 
+he thought, and no other reason. 
+
+
+And it is because of that, that the death 
+penalty is the only appropriate sentence in this 
+case. 
+
+
+1 Weeks agreed to the deletion of the last sentence of this 
+instruction, as originally submitted, which stated: “However, 
+you may not refuse to consider the evidence that has been 
+presented in mitigation.” (App. 189). 
+
+
+11 
+
+
+If he had gotten on the witness stand and 
+told you the truth, perhaps a life sentence would 
+be appropriate. 
+
+
+Why couldn’t he tell us the truth yesterday? 
+
+If he wants mercy, and his lawyers are going to 
+
+me that word, shouldn’t he be truthful with us 
+irst? 
+
+
+* * * 
+
+
+I ask you to impose the most serious pen- 
+alty that the law allows, for this most serious of 
+crimes. 
+
+
+(App. 202, 203, 207). 
+
+
+In his own closing argument, defense counsel sim- 
+ilarly discussed the events culminating in Trooper Cav- 
+azos’ death as well as the aggravating and mitigating 
+evidence that the parties had adduced. (App. 207-213). In 
+part, defense counsel argued: 
+
+
+I stand before you . . . to argue that my 
+client should receive a penalty of less than 
+death, because that’s what this trial has boiled 
+down to; life or death. 
+
+
+[Wjhen you decide on your sentence in this 
+case, you do have two alternatives; life or death. 
+
+
+I would ask you to consider that for eigh- 
+teen years this was a pretty decent person, that 
+he stayed out of trouble for that long, under 
+difficult circumstances. 
+
+
+* * * 
+
+
+12 
+
+
+The Commonwealth had alluded to you, in 
+
+
+order to .. . fix this defendant’s sentence of 
+death, you must find two things, and that is 
+ee An a 
+
+
+(App. 207, 211, 212). 
+
+
+At this point, the Commonwealth’s Attorney inter- 
+posed an objection that under state law the Common- 
+wealth had to prove only one of the statutory aggravating 
+predicates, not both, in order for the jury to consider the 
+death penalty. See Virginia Code § 19.2-264.4. Defense 
+counsel acknowledged his error and resumed his argu- 
+ment: 
+
+
+I made a mistake, there are two factors you 
+can consider, either one of which would justify a 
+death sentence [i.e., Weeks’ “future dangerous- 
+ness” or the “vileness” of the murder.] Now, you 
+could still find that he meets both of these 
+criterias {sic], and not sentence him to death. 
+
+
+I believe you will read that in the instruc- 
+tions. 
+
+
+s * * 
+
+
+[T]he issue is whether you should sentence 
+this defendant, Lonnie Weeks, Jr., to death, or 
+you feel from the evidence, and the Judge has 
+given you an instruction with respect to what 
+you can consider, that he deserves the other 
+alternative, which is life. 
+
+
+(App. 212-213, emphasis added). 
+
+
+In rebuttal, the Commonwealth’s Attorney speci- 
+fically acknowledged: “We have the death penalty and 
+you don’t have to impose it, but all of you have taken an 
+oath that you can consider both options.” (App. 214, 
+
+
+13 
+
+
+emphasis added). The Commonwealth's Attorney also 
+argued: 
+You've heard the evidence and you folks are 
+going to have to determine what the appropriate 
+punishment is in this case. 
+
+
+I would say to you folks that if you are 
+going to have the death penalty, this case is the 
+type of case that it is designed for. 
+
+
+* * * 
+
+
+[Weeks] got on the stand yesterday, folks, 
+and he told you certain things for one reason 
+and one reason alone, and that was to mitigate 
+the punishment that you are entitled to impose 
+on him, that you’ve sworn to consider, under 
+the law. 
+
+
+I say to you if you believe what he said on 
+the stand yesterday, sentence him to life. If you 
+don’t, and you believe that the type of person 
+that he is, that he was trying to serve himself, | 
+say sentence him to death, but you folks be the 
+judge of that. 
+
+
+(App. 214-215, emphasis added). 
+
+
+The jury began its penalty deliberations at approxi- 
+mately 10:40 a.m. on October 22, i993. (App. 219). At 
+approximately noon, the jury submitted a question con- 
+cerning Weeks’ parole eligibility, to which the trial judge, 
+over Weeks’ objection, responded: “You should impose 
+such punishment as you feel is just under the evidence, 
+and within the instructions of the Court. You are not to 
+concern yourself with what may happen afterwards.” 
+(App. 219). 
+
+
+14 
+
+
+After taking a one-hour luncheon recess from 
+approximately 12:40 p.m. to 1:40 p.m., the jury resumed 
+its deliberations. (App. 220-222). At approximately 3:15 
+p.m., the jury submitted the following question: 
+
+
+If we believe that Lonnie Weeks, Jr., is guilty of 
+at least 1 of the alternatives, then is it our duty 
+as a jury to issue the death penalty? or must we 
+decide (even though he is guilty of one of the 
+alternatives) whether or not to issue the death 
+penalty, or one of the life sentences? What is the 
+rule? Please clarify. 
+
+
+(App. 217, emphasis in original). During a colloquy with 
+opposing counsel concerning its possible reply to the jury, 
+the trial court stated that it did not believe it could 
+answer the question any more clearly than to refer to 
+Instruction No. 2. Defense counsel objected and 
+requested that the court inform the jury that even if it 
+found one or both aggravating factors beyond a reason- 
+able doubt, it still could impose a life sentence. (App. 
+223). The trial court, however, provided this written 
+response to the jury: “See second paragraph of Instruc- 
+tion #2 (Beginning with ‘If you find from... . ’).” (App. 
+217). The trial judge reasoned that this particular para- 
+graph of Instruction No. 2 did “exactly what” Weeks’ 
+proffered answer did and “answers their precise ques- 
+tion. I think they just have to be drawn to that paragraph 
+to find their answer.” (App. 224). 
+
+
+Without asking any follow-up questions and after 
+deliberating for more than two additional hours, the jury 
+returned with a verdict at 5:31 p.m. (App. 224-225). 
+Although the trial court had submitted to the jury both 
+statutory aggravating factors, the jury, which was given 
+
+
+15 
+
+
+five possible verdict forms, based its death sentence 
+solely upon a finding of the “vileness” circumstance. 
+(App. 196-198, 228). The jury’s verdict, moreover, speci- 
+fically stated that the jury had “considered the evidence 
+in mitigation of the offense... . ” (App. 228). The trial 
+court then polled the members of the jury, all of whon. 
+assented to the verdict. (App. 225-226). 
+
+
+Pursuant to Virginia Code § 19.2-264.5, the trial court 
+conducted a post-trial hearing on January 13, 1994, and 
+imposed the death sentence. The trial court entered final 
+judgment on January 14, 1994. 
+
+
+C. Direct Appeal 
+
+
+On direct appeal to the Supreme Court of Virginia, 
+Weeks’ brief included as Assignment of Error 41: “The 
+trial court erred in refusing to give the jury defendant's 
+proposed instruction ‘C1’ or to otherwise fully and prop- 
+erly instruct the jury regarding their option to give effect 
+to mitigating evidence by sentencing the defendant to life 
+in prison even if they found one or all of the statutory 
+‘aggravating factors’ beyond a reasonable doubt, in light 
+of the nature of the offense charged, the evidence 
+adduced at trial and the law applicable thereto.” (App. 
+252). In support of this Assignment, Weeks’ only argu- 
+ment on brief was that “instruction Cl was a correct 
+statement of the law under Penry [v. Lynaugh, 492 U.S. 302 
+(1989)], was not needlessly redundant, and was mate- 
+rially vital to the defendant; it should therefore have been 
+given to the jury by the court.” (App. 267-268). 
+
+
+Weeks’ Assignment of Error 44 stated: “The trial 
+court erred in refusing, in response to a specific jury 
+
+
+16 
+
+
+request for clarification, to specifically instruct the jury 
+that if they found one or more aggravating factors 
+beyond a reasonable doubt, they could sentence the 
+defendant to life in prison or to death.” (App. 253). 
+Weeks’ entire “argument” in support of this assigned 
+error was as follows: “The defendant relies on the argu- 
+ment set forth under the 41st Assigned Error, supra, in 
+response to the question presented on this error. This 
+error of the court violated the defendant's rights under 
+the Fifth, Sixth, Eighth, and Fourteenth Amendments to 
+the Constitution of the United States and Article I, §§ 8, 9 
+and 11 of the Constitution of Virginia.” (App. 270). 
+
+
+On November 4, 1994, the state court affirmed 
+Weeks’ capital murder conviction and death sentence. 
+Weeks v. Commonwealth, 450 S.E.2d 379 (Va. 1994). In 
+response to the Commonwealth's argument in its brief 
+that Weeks had defaulted Assignment of Error 44 by 
+offering no supporting argument, the state court noted 
+that Weeks had “effectively present[ed] no argument in 
+support of five . . . alleged errors (Nos. 16, 34, 44, 45, and 
+46). . . . We have considered these so-called arguments 
+and find no merit in any of the five.” (App. 275). Later in 
+its opinion, the state court remarked that Weeks had 
+advanced “a number of miscellaneous issues dealing with 
+evidence, jury instructions, and inquiries by the jury dur- 
+ing its deliberations. We have considered all the argu- 
+ments in support of those issues and conclude that none 
+has any merit.” (App. 292). 
+
+
+The Virginia Supreme Court denied Weeks’ petition 
+for rehearing on January 13, 1995. This Court denied 
+certiorari review on October 2, 1995. Weeks v. Virginia, 516 
+U.S. 829 (1995). 
+
+
+17 
+
+
+D. State Collateral Proceedings 
+
+
+On December 4, 1995, Weeks filed his state habeas 
+corpus petition in the Virginia Supreme Court, but raised 
+no claim attacking the trial court’s response to the jury’s 
+penalty phase question. On March 15, 1996, the state 
+court dismissed the petition as jurisdictionally barred, 
+because it was untimely filed under Virginia Code 
+§ 8.01-654.1 and Virginia Supreme Court Rule 5:7A(a). On 
+June 7, 1996, the Virginia Supreme Court denied Weeks’ 
+petition for rehearing. 
+
+
+E. Federal Collateral Proceedings 
+
+
+Weeks next filed a federal habeas petition on Febru- 
+ary 7, 1997, in the United States District Court for the 
+Eastern District of Virginia. For the first time, Weeks 
+presented a specific claim that the trial court, in response 
+to the jury’s question, had been obligated by the Consti- 
+tution to do something more than refer the jury to the 
+specific portion of the penalty-stage instructions that set 
+forth the circumstances under which it could impose a 
+death sentence. (App. 297-302). On April 1, 1998, the 
+district court dismissed Weeks’ petition and ruled, in 
+relevant part, that the Virginia Supreme Court's disposi- 
+tion of Weeks’ “claim” on direct appeal challenging the 
+trial court’s response to the jury’s inquiry was reasonable 
+within the meaning of 28 U.S.C. § 2254(d) of the Antiter- 
+rorism and Effective Death Penalty Act of 1996 (AEDPA). 
+Weeks v. Angelone, 4 F. Supp. 2d 497, 536 (E.D. Va. 1998).? 
+
+
+2 In his Report and Recommendation dated July 30, 1997, 
+the Magistrate Judge had reached a similar conclusion. 4 
+
+
+18 
+
+
+On May 10, 1999, the United States Court of Appeals 
+for the Fourth Circuit unanimously affirmed the district 
+court’s denial of collateral relief. Weeks v. Angelone, 176 
+F.3d 249 (4th Cir. 1999). With respect to Weeks’ current 
+claim, the Fourth Circuit first ruled that the Supreme 
+Court of Virginia’s two references in its appellate opinion 
+about the lack of “merit” in Weeks’ claims warranted the 
+conclusion that the state court had not rejected Weeks’ 
+claim as procedurally defaulted. (App. 340-342). The 
+Court of Appeals, however, concluded that under 
+§ 2254(d), as well as under a de novo standard of review, 
+Weeks was not entitled to federal habeas relief. (App. 
+342-346 and 346 n.5). The Fourth Circuit reasoned that 
+here, much as in Buchanan v. Angelone, 522 U.S. 269 (1998), 
+the circumstances of Weeks’ trial demonstrated “that no 
+reasonable juror would have understood [the penalty- 
+stage instructions] to preclude the consideration of mit- 
+igating evidence even upon a finding of an aggravating 
+factor.” (App. 345). On June 4, 1999, the Court of Appeals, 
+without dissent, denied Weeks’ petition for rehearing and 
+suggestion for rehearing en banc. 
+
+
+On July 7, 1999, pursuant to Virginia Code 
+§ 53.1-232.1, the state trial court set Weeks’ execution for 
+September 1, 1999. On August 16, 1999, Weeks filed his 
+certiorari petition and stay application in this Court. On 
+September 1, 1999, this Court entered an order staying 
+
+
+F. Supp. 2d at 536. In its final opinion dismissing Weeks’ 
+petition, the district court overruled Weeks’ objection to the 
+Magistrate Judge’s recommendation on this issue. Id. The 
+Magistrate Judge had rejected the respondent’s argument that 
+the claim was defaulted because it had not been fairly presented 
+to the Virginia Supreme Court on direct appeal. 
+
+
+19 
+
+
+Weeks’ execution and granting the petition, limited to 
+Question 1, i.e., whether in response to the jury’s question 
+the trial judge had been obligated by the Constitution to 
+do more than refer the jury to the specific portion of the 
+penalty-stage instructions dealing with its sentencing 
+alternatives. (App. 378). 
+
+
++ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Consistent with the principles of comity and finality 
+that inform federal collateral review of presumptively 
+valid state court judgments, state prisoners must fairly 
+present their federal constitutional claims to the state 
+courts before bringing them to federal court. A prisoner’s 
+failure to do so constitutes a procedural default that 
+normally is preclusive of federal collateral relief. 
+
+
+Weeks’ sole challenge on direct appeal to the trial 
+judge’s answer to the jury’s question about its sentencing 
+alternatives was a one-sentence assignment of error sup- 
+ported only by a one-sentence “argument” on the discrete 
+(and now abandoned) issue of the facial validity of the 
+penalty phase jury charge. Consequently, because Weeks 
+did not brief his present Eighth Amendment claim on 
+direct appeal, and the Supreme Court of Virginia neces- 
+sarily did not reach the merits of that claim, Weeks’ 
+procedural default bars federal review. 
+
+
+It is axiomatic, moreover, that a trial judge enjoys 
+broad discretion in determining how to respond to a 
+jury’s request for supplemental instructions. When 
+Weeks’ case became final in 1995, numerous courts had 
+held that a trial court does not abuse its discretion by 
+
+
+20 
+
+
+referring the jury to accurate instructions that it already 
+has been given. And, this Court certainly never has held 
+that a judge’s reliance upon an original, valid jury charge 
+in responding to a jury’s question is unconstitutional. 
+
+
+Under the “new rule” doctrine established in Teague 
+v. Lane, 489 U.S. 288 (1989), as well as under 28 U.S.C. 
+§ 2254(d), it is clear that, as of the time Weeks’ case 
+became final, a state court reasonably could have rejected 
+his Eighth Amendment claim. Indeed, a reasonable jurist 
+could have found that Weeks’ present claim merely chal- 
+lenged a trial judge’s discretionary response to a pro- 
+cedural incident at trial and did not even implicate the 
+Constitution. 
+
+
+Finally, under the “reasonable likelihood” test pro- 
+mulgated in Boyde v. California, 494 U.S. 370 (1991), Weeks 
+plainly suffered no constitutional violation. The voir dire, 
+the opening statements and closing arguments of counsel, 
+and Weeks’ lengthy presentation of mitigating evidence 
+all repeatedly reinforced the twin principles that the jury 
+was not obligated to impose a death sentence upon the 
+mere finding of a statutory aggravator and that the jury 
+was obliged to consider all the evidence, including 
+Weeks’ mitigating evidence, before deciding his punish- 
+ment. When the jury asked a question during the penalty 
+phase deliberations seeking additional information about 
+the sentencing process, the trial judge properly referred it 
+to the specific portion of the standard Virginia instruction 
+— the same instruction that this Court upheld in Buchanan 
+v. Angelone, 522 U.S. 269 (1998) — that answered the jury’s 
+inquiry. The fact that the jury deliberated more than two 
+additional hours, did not ask any follow-up questions, 
+based its verdict solely on the “vileness” circumstance 
+
+
+caesar 
+
+
+~ tS A A I Nags sot 
+
+
+21 
+
+
+while rejecting the “future dangerousness” predicate, and 
+stated in its verdict that it had considered the evidence in 
+mitigation of the offense shows that there is no possi- 
+bility, much less a reasonable likelihood, that Weeks’ jury 
+believed itself precluded from considering his mitigation 
+evidence. 
+
+
+ARGUMENT 
+
+
+I. WEEKS’ CONSTITUTIONAL CLAIM IS 
+DEFAULTED BECAUSE HE NEVER FAIRLY PRE- 
+SENTED IT IN STATE COURT. 
+
+
+Two closely-related principles of federal habeas 
+corpus jurisprudence - exhaustion and procedural 
+default - intersect at the very threshold of collateral 
+review of state court judgments and, in part, establish the 
+boundaries within which such federal review may pro- 
+ceed. The record in this case demonstrates that Weeks did 
+not fairly present his constitutional claim on direct appeal 
+to the Supreme Court of Virginia, thereby resulting in a 
+procedural default. See Smith v. Murray, 477 U.S. 527, 
+533-537 (1986). Weeks has exhausted his present claim, 
+but only because of his preclusive default.* See Teague v. 
+Lane, 489 U.S. 288, 297-299 (1989). 
+
+
+3 As the prevailing party, respondent was not required to 
+cross-petition in order to challenge the Fourth Circuit's rejection 
+of his default defense. See Jones v. United States, 119 S.Ct. 2090, 
+2105-2106 (1999). Respondent affirmatively asserted the default 
+defense in his brief in opposition to Weeks’ certiorari petition. 
+(Br. Op. at 4 n.2). 
+
+
+22 
+
+
+This Court consistently has required state prisoners 
+fairly to present the substance of their federal constitu- 
+tional claim to the state courts, in order to exhaust their 
+state court remedies. See Picard v. Connor, 404 U.S. 270, 
+275 (1971). Merely citing “book and verse on the federal 
+constitution” does not afford a state court “a fair oppor- 
+tunity” to consider the defendant's federal constitutional 
+claim. Id. at 276, 278. Thus, this Court concluded in 
+Connor that the defendant’s presentation on direct appeal 
+of certain state law and Fifth Amendment claims did not 
+exhaust his related equal protection claim even though he 
+had “presented all the facts” relevant to the latter issue. 
+Id. at 277. 
+
+
+Since Connor, this Court regularly has applied this 
+“fair presentation” test in assessing exhaustion issues. 
+For example, in Anderson v. Harless, 459 U.S. 4 (1982), the 
+Court stated that exhaustion requires more than “that all 
+the facts necessary to support the federal claim were 
+before the state courts, or that a somewhat similar state- 
+law claim was made.” Id. at 5 (citation omitted). Thus, 
+this Court held that the petitioner had not exhausted his 
+federal constitutional burden-shifting claim, when on 
+direct appeal he relied only upon state law and the state 
+appellate court had analyzed his claim in similar state 
+law ter ns. Id. at 6-7. 
+
+
+More recently, in Duncan v. Henry, 513 U.S. 364 (1995) 
+(per curiam), this Court ruled that Henry’s argument on 
+direct appeal challenging the admission of certain evi- 
+dence as a “miscarriage of justice” under the Califorr ia 
+Constitution did not exhaust his federal habeas due pro- 
+cess challenge to the same evidence. In holding that the 
+
+
+23 
+
+
+prisoner's direct appeal argument did not satisfy Con- 
+nor’'s “fair presentation” requirement, the Court noted 
+that in the state court he expressly had raised a “due 
+process” claim on a separate issue and that the state 
+appellate court had analyzed his evidentiary claim solely 
+in non-constitutional terms. Id. at 366. 
+
+
+A review of the claim Weeks presented to the Vir- 
+ginia Supreme Court on direct appeal establishes that he 
+did not fairly advance his present constitutional claim on 
+direct appeal. Indeed, he did not present the claim at all, 
+fairly or otherwise. 
+
+
+Weeks no longer contests the facial adequacy of the 
+penalty phase jury charge; instead, his argument 
+addresses solely the trial court's response to the jury's 
+question about its sentencing options. (Pet. Br. at 19-22). 
+Yet, on direct appeal, the sole claim relevant to these 
+matters that Weeks briefed was that the trial court had 
+erred in denying his proposed instruction C-1, thereby 
+failing to instruct the jury that it could give effect to the 
+mitigating evidence and impose a life sentence even if it 
+found one or both statutory aggravators. Weeks never 
+briefed any claim in the Virginia Supreme Court regard- 
+ing the constitutionality of the trial court’s response to 
+the i» <y’s later question. 
+
+
+A review of Assignments of Error 41 and 44 confirms 
+these points. Weeks did brief an argument in support of 
+Assignment of Error 41 that challenged the facial validity 
+of the penalty-phase jury instructions. (App. 267-268). In 
+sharp contrast, Weeks offered no argument to support his 
+Assignment of Error 44, other than to adopt and incorpo- 
+rate by reference his prior argument addressing Assign- 
+ment of Error 41. (App. 270). Thus, the only “argument” 
+
+
+24 
+
+
+that Weeks briefed in the Virginia Supreme Court in sup- 
+port of Assignment of Error 44 was one that he now has 
+abandoned.‘ 
+
+
+Only if the mere filing of Assignment of Error 44, by 
+itself, could be deemed a fair Uresentation of his present 
+claim would there be any basis for concluding that Weeks 
+had preserved the claim for federal review. Relevant state 
+law, however, plainly dictates the opposite conclusion. The 
+Virginia Supreme Court’s Rules 5:17(c) and 5:27 require an 
+opening brief to include both “Assignments of Error .- 
+. . listling] the specific errors . . . upon which the appellant 
+intends to rely” and “[t}he principles of law, the argu- 
+ment, and the authorities relating to each assignment of 
+error.” (Emphasis added). Rule 5:17(c) also requires an 
+appellant to list “Questions Presented” separately, that is, 
+“the questions upon which the appellant intends to sub- 
+mit argument. .. . “5 (Emphasis added). The purpose of an 
+assignment of error in Virginia “ ‘is to point out the errors 
+with reasonable certainty in order to direct [the appellate] 
+court and opposing counsel to the points on which appel- 
+lant intends to ask a reversal of the judgment, and to limit 
+discussion to these points.’” Yeatts v. Murray, 455 S.E.2d 
+18, 21 (Va. 1995) (emphasis added). 
+
+
+* He had no choice but to abandon it because, as will be 
+demonstrated, this Court’s subsequent decision in Buchanan v. 
+Angelone, 522 U.S. 269 (1998), rejected the very same claim. 
+
+5 These provisions are much like this Court’s Rule 24.1, 
+which, in paragraphs (a) and (i), requires an appellant to 
+include in his brief the “questions presented for review” and the 
+“argument,” respectively. 
+
+
+25 
+
+
+It is rudimentary Virginia law, moreover, that an 
+assignment of error, unaccompanied by a legal argument, 
+will not be addressed on appeal. See, e.g., Stockton v. 
+Commonwealth, 402 S.E.2d 196, 210 (Va.), cert. denied, 502 
+U.S. 902 (1991); Savino v. Commonwealth, 391 S.E.2d 276, 
+283 n.4 (Va.), cert. denied, 498 U.S. 882 (1990). Indeed, in 
+Weeks’ very own direct appeal, the Virginia Supreme 
+Court similarly declined to review ten assignments of 
+error that he had not briefed. (App. 275). 
+
+
+It is true that, after noting that Weeks had “effec- 
+tively present[ed] no argument in support of five” addi- 
+tional assignments of error, including Assignment of 
+Error 44, the state court then remarked: “We have consid- 
+ered these so-called arguments and find no merit in any 
+of the five.” (App. 275, emphasis added). This statement, 
+however, did not signal the Supreme Court of Virginia's 
+disregard of Weeks’ procedural default as to Assignment 
+of Error 44. Even if the state court's reference to the lack 
+of “merit” in Assignment of Error 44 were deemed a 
+rejection of a legal argument, such a ruling logically 
+could have referred only to Weeks’ now-abandoned chal- 
+lenge to the validity of the initial jury charge, the sole 
+argument he briefed in support of this assignment of 
+error. 
+
+
+The state court’s later statement that Weeks had 
+raised “a number of miscellaneous issues dealing with, 
+[in part,] inquiries by the jury during its deliberations. . . . 
+and that none has any merit” does not alter this conclu- 
+sion. (App. 292). Significantly, the Virginia Supreme 
+Court stated it had “considered all the arguments in 
+support of those issues” in concluding that they lacked 
+
+
+26 
+
+
+merit. (/d.). Again, inasmuch as Weeks offered no “argu- 
+ment” in his entire brief that the trial court’s response to 
+the jury’s question was constitutionally deficient, the 
+state court's finding of “no merit” could not have referred 
+to Weeks’ present claim. 
+
+
+In sum, this Court may reach the merits of Weeks’ 
+claim only if it is prepared to hold that a one-sentence 
+assignment of error, accompanied only by a one-sentence 
+reference to a separate issue, amounted to a “fair presen- 
+tation” of Weeks’ present constitutional claim and that 
+the Virginia Supreme Court thereby had a “fair oppor- 
+tunity” to address this phantom claim. Because this 
+Court’s prior decisions do not permit such an eviscera- 
+tion of the exhaustion and default doctrines, this Court 
+should conclude that Weeks’ claim is barred. 
+
+
+Il. WEEKS’ CLAIM, IF ACCEPTED, WOULD CON- 
+STITUTE AN IMPERMISSIBLE “NEW RULE,” 
+AND RELIEF LIKEWISE IS BARRED UNDER 28 
+U.S.C. § 2254(d). 
+
+
+In assessing the reviewability of Weeks’ claim under 
+the “new rule” doctrine, it is critical to bear in mind 
+exactly what Weeks does, and does not, argue in this 
+Court. First, there is no claim that Weeks’ right to present 
+mitigating evidence was unconstitutionally restricted; his 
+brief is replete with a description of the mitigating evi- 
+dence that he presented. (Pet. Br. at 3-10). Indeed, Weeks 
+aptly states that the “story of [his] life was told at sen- 
+tencing.” (Pet. Br. at 3). Second, this case does not involve 
+an erroneous or even ambiguous jury instruction that 
+
+
+27 
+
+
+might have unconstitutionally restricted the jury’s con- 
+sideration of the mitigating evidence or “affirmatively 
+misled [it] regarding its role in the sentencing process.” 
+See Romano v. Oklahoma, 512 US. 1, 9 (1994).© Finally, 
+Weeks does not assert, nor could he, that the trial court's 
+response to the jury’s question misstated the law. At no 
+point during the trial did the jury ever receive misinfor- 
+mation concerning the nature of the penalty proceeding 
+or its role in sentencing Weeks. See Jones v. United States, 
+119 S.Ct. 2090, 2098-2099 (1999). 
+
+
+Thus, the sole argument before this Court is that 
+Weeks suffered an Eighth Amendment violation as a 
+result of the trial court’s decision to answer the jury's 
+question by directing it to review an instruction that 
+accurately explicated its sentencing options and that this 
+Court expressly upheld in Buchanan. If ever a claim 
+amounted to a non-cognizable “new rule,” Weeks’ claim 
+is it. 
+
+
+This Court never has held that a trial judge acted 
+unconstitutionally in answering a jury’s question by 
+referring it to the original (and valid) instructions, much 
+less committed constitutional error under circumstances 
+even remotely equivalent to those in the present case. 
+
+
+® In the Fourth Circuit, Weeks expressly conceded that in 
+Buchanan v. Angelone this Court upheld “a capital sentencing 
+instruction almost identical to the one used by Weeks’ jury... .” 
+(App. 324). Weeks also referred to Instruction No. 2 and the 
+remainder of the jury charge as “a facially constitutional 
+instruction,” “constitutionally-sufficient,” and “technically 
+flawless.” (App. 323, 325, 326). In his certiorari petition, 
+moreover, Weeks stated that “pattern instruction #2 presented a 
+
+
+simple decisional tree that ordinary jurors ought to be able to 
+follow. ...” (Pet. at 6). 
+
+
+28 
+
+
+Numerous courts of appeals, moreover, repeatedly have 
+held that a trial court has substantial discretion in deter- 
+mining the extent or nature of any response to a jury’s 
+request for supplemental instructions and, even more to 
+the point, have held that a trial judge may direct the jury 
+to re-read the original jury instructions if those instruc- 
+tions accurately address the matter alluded to in the 
+jury's question. 
+
+
+In Teague v. Lane, this Court held that new federal 
+constitutional rules cannot be announced or applied on 
+federal habeas review unless either of two narrow excep- 
+tions exists. The Court stated that “a case announces a 
+new rule if the result was not dictated by precedent 
+existing at the time the defendant's conviction became 
+final.” 489 U.S. at 301 (emphasis in original). Consistent 
+with principles of comity and finality, the “new rule” 
+doctrine “validates reasonable, good-faith interpretations 
+of existing precedents made by state courts even if they 
+are shown to be contrary to later decisions.” Butler v. 
+McKellar, 494 U.S. 407, 414 (1990); see also O'Dell v. Nether- 
+land, 521 U.S. 151, 166 (1997); Saffle v. Parks, 494 U.S. 484, 
+488 (1990). So long as the result “ ‘was susceptible to 
+debate among reasonable minds’” at the time the pris- 
+oner’s conviction became final, a federal habeas court 
+may not grant relief merely because it disagrees with the 
+result reached by the state court. Graham v. Collins, 506 
+U.S. 461, 476 (1993). 
+
+
+In resolving “the determinative question [as to] 
+whether reasonable jurists” who “survey[ed] the legal 
+landscape” as it existed at the time the prisoner's case 
+became final would have been obligated to accept his 
+claim, Graham, 506 U.S. at 468, 477, this Court has relied 
+upon federal and state authority adverse to the prisoner’s 
+
+
+29 
+
+
+position as a basis for invoking Teague. See, e.g., O'Dell, 
+521 U.S. at 166 n.3; Lambrix v. Singletary, 520 U.S. 518, 
+534-538 (1997); Caspari v. Bohlen, 510 U.S. 383, 393-395 
+(1994); Parks, 494 U.S. at 490-491, 494; Butler, 494 U.S. at 
+415. See alsc Goeke v. Branch, 514 U.S. 115, 118-119 (1995) 
+(prisoner’s failure to identify “existing or well-settled 
+authority” demonstrated that Teague barred review of 
+claim challenging dismissal of appeal based on his failure 
+to appear at sentencing). The Court also has relied upon 
+decisions that were against the weight of authority, as 
+well as dissenting opinions in its own earlier cases, to 
+hold that Teague barred review of a federal habeas claim. 
+
+
+Thus, in Sawyer v. Smith, 497 U.S. 227 (1990), the fact 
+that the Court’s “earlier Eighth A.mendment cases lent 
+general support to the conclusion reached in Caldwell” v. 
+Mississippi, 472 U.S. 320 (1985), did not mean that Caldwell 
+was not a “new rule” under Teague. 497 U.S. at 236. See 
+also Parks, 494 U.S. at 491 (Teague barred review of claim 
+that certain mitigating evidence had been wrongly disal- 
+lowed; even if this Court’s prior decisions “inform, or 
+even control or govern, the analysis of [Parks’] claim, it 
+does not follow that they compel the rule that Parks 
+seeks”). Finally, even cases decided after a prisoner’s 
+conviction has become final are relevant to the Teague 
+inquiry, so long as they were decided adversely to him. 
+See Bohlen, 510 U.S. at 395-396; Gilmore v. Taylor, 508 U.S. 
+333, 341-342 (1993); Graham, 506 U.S. at 472-475. 
+
+
+By the time Weeks’ case became final on October 2, 
+1995, one court of appeals after another had ruled that a 
+trial court has substantial discretion in responding to a 
+jury’s request during its deliberations for supplemental! 
+
+
+30 
+
+
+instructions.’ More specifically, numerous courts had 
+held that a trial court properly could answer a jury's 
+request for supplemental instructions by referring it to 
+the original charge, so long as that charge correctly set 
+forth the controlling legal principles in the case. 
+
+
+For example, in United States v. Walther, 867 F.2d 1334 
+(11th Cir. 1989), the Eleventh Circuit rejected an argument 
+virtually identical to Weeks’. There, the defendants were 
+convicted of various drug offenses in connection with a 
+“reverse sting” undercover operation. At trial, two of the 
+defendants raised an entrapment defense. After the dis- 
+trict court gave the jury instructions on the entrapment 
+defense that previously had been approved by the Elev- 
+enth Circuit, the jury interrupted its deliberations to ask a 
+question about the correct allocation of the burden of 
+proof in evaluating the entrapment defense. Over the 
+defense’s objection, the district court instructed the jury 
+to review its original instructions. 867 F.2d at 1341. 
+
+
+On appeal, the defendants argued that the district 
+court’s failure to give a supplemental entrapment instruc- 
+tion had been reversible error and that the district court 
+
+
+7? See, e.g., United States v. Smith, 62 F.3d 641, 646 (4th Cir. 
+1995), appeal after remand, 91 F.3d 136 (1996); United States v. 
+Dorri, 15 F.3d 888, 892 (9th Cir.), cert. denied, 513 U.S. 1004 (1994); 
+United States v. Stowell, 947 F.2d 1251, 1257 (Sth Cir. 1991); United 
+States v. Beverly, 913 F.2d 337, 357 (7th Cir. 1990); United States v. 
+Laing, 889 F.2d 281, 290 (D.C. Cir. 1989), cert. denied sub nom., 
+Martin v. United States, 494 U.S. 1008 (1990); United States v. Ladd, 
+885 F.2d 954, 961 (1st Cir. 1989); United States v. Civilli, 883 F.2d 
+191, 195 (2d Cir. 1989); United States v. Walther, 867 F.2d 1334, 
+1341 (11th Cir. 1989); United States v. White, 794 F.2d 367, 370 (8th 
+Cir. 1986). 
+
+
+31 
+
+
+improperly had referred the jury “to the very instruction 
+which confused it in the first instance.” 867 F.2d at 1341. 
+The Eleventh Circuit, however, upheld the district court's 
+response to the jury: 
+The extent and character of supplemental 
+instructions are within the sound discretion of 
+the trial court. The appellants did not object to 
+the original instructions [and on appeal] admit- 
+ted that the original instructions were proper. 
+Merely having the jury reconsider the correct 
+instructions cannot constitute error nor an abuse 
+of discretion. Accordingly, we hold that the dis- 
+trict court did not err nor abuse its discretion in 
+refusing to give a supplemental instruction on 
+the entrapment defense. 
+
+
+867 F.2d at 1341 (citation omitted). 
+
+
+The holding in Walther is hardly unique. On the 
+contrary, numerous courts had ruled prior to October of 
+1995 that trial judges do not abuse their discretion or 
+commit reversible error by referring the jury back to the 
+original jury charge (or simply declining to answer the 
+jury’s question). See, e.g., United States v. Dorri, 15 F.3d 888 
+(9th Cir. 1994); United States v. Keeper, 977 F.2d 1238, 1242 
+(8th Cir. 1992); United States v. Barsanti, 943 F.2d 428, 
+437-438 (4th Cir. 1991); United States v. Atterson, 926 F.2d 
+649, 659 (7th Cir. 1991); United States v. Beverly, 913 F.2d 
+337, 357 (7th Cir. 1990); United States v. Mealy, 851 F.2d 
+890, 901-902 (7th Cir. 1988); United States v. Bailey, 830 
+F.2d 156, 157 (11th Cir. 1987); United States v. White, 794 
+F.2d at 370; United States v. Kimmel, 777 F.2d 290, 293-294 
+(5th Cir. 1985}: Davis v. Greer, 675 F.2d 141, 145-146 (7th 
+Cir.), cert. denie. 459 U.S. 975 (1982). See also United States 
+v. Gibbons, 968 F.2d 639, 646 (8th Cir. 1992); United States v. 
+
+
+32 
+
+
+Caro, 965 F.2d 1548, 1555 (10th Cir. 1992). And, the rule is 
+no different in cases decided since Weeks’ case became 
+final. See, e.g., United States v. Span, 170 F.3d 798, 801-802 
+(7th Cir. 1999); United States v. Smith, 104 F.3d 145, 148-149 
+(8th Cir. 1997); United States v. Cornillie, 92 F.3d 1108, 1110 
+(11th Cir. 1996); United States v. Mejia, 82 F.3d 1032, 1037 
+(11th Cir. 1996).® 
+
+
+In sum, Weeks’ claim, far from being one that a 
+reasonable jurist in October, 1995 would have been “com- 
+pelled” to sustain, is one that was (and is) contrary to an 
+unbroken line of authority supporting the adequacy of 
+the trial judge’s response to the question posed by Weeks’ 
+jury. Indeed, the words of Judge Kozinski in his dissent- 
+ing opinion in McDowell v. Calderon, 130 F.3d 833 (9th Cir. 
+1997) (en banc), cert. denied, 523 U.S. 1103 (1998), go to the 
+heart of the “new rule” matter: 
+
+
+This is, so far as I know, the first case in Anglo- 
+American jurisprudence to hold that a judge 
+erred because he gave a jury instruction that is 
+100 percent correct. Whatever the merits of this 
+rule — and I agree . . . that there is not much - 
+
+
+§ Virtually without exception, these courts determined 
+whether the trial court’s answer to the jury’s question 
+constituted an abuse of discretion. None, then, regarded the 
+adequacy of the trial court’s response as implicating the 
+Constitution. As the amicus brief from the Criminal Justice 
+Legal Foundation so persuasively demonstrates (CJLF Br. 
+18-22), Weeks’ claim should be regarded as nothing more than a 
+non-constitutional matter relating to the trial court’s handling 
+of a procedural matter, an issue best left to the trial judge’s 
+discretion. Because habeas corpus lies only to remedy federal 
+constitutional errors, Estelle v. McGuire, 502 U.S. 62, 67-68 (1991), 
+Weeks’ claim cannot warrant collateral relief. 
+
+
+—__ y= 
+
+
+eee ee 
+
+
+33 
+
+
+such an extraordinary departure from estab- 
+lished law may not be applied on collateral 
+review. .. . A glimpse at the legal landscape 
+reveals that never before has any court held that 
+a judge must give a new supplemental instruc- 
+tion rather than refer the jury to the relevant, 
+legally correct instructions already given. Not in 
+1989; not ever until today. 
+
+
+130 F.3d at 843-844 (Kozinski, J., dissenting).° 
+
+
+Even if Weeks somehow could satisfy the “new rule” 
+doctrine, § 2254(d) nevertheless would bar the granting 
+of relief upon his Eighth Amendment claim. This provi- 
+sion of AEDPA precludes federal habeas relief as to any 
+claim adjudicated on the merits by the state court unless, 
+in relevant part, such adjudication “resulted in a decision 
+that was contrary to, or involved an unreasonable appli- 
+cation of, clearly established Federal Law, as determined 
+by the Supreme Court of the United States ... ” The 
+Fourth Circuit, the district court and the Magistrate Judge 
+
+
+9 In McDowell, the Ninth Circuit held that the jury’s 
+question showed that 11 jurors “erroneously believed” that 
+they could not consider substantial parts of the defendant's 
+mitigation evidence, and this misapprehension thus required 
+the trial judge to do something more than simply refer the jury 
+to the instructions on mitigation. 130 F.3d at 837 (emphasis 
+added). As the Ninth Circuit later made clear, however, in 
+United States v. Barrigan-Devis, 133 F.3d 1287 (9th Cir. 1998), 
+McDowell hinged on the fact that the jury’s question reflected, 
+not mere confusion, but an affirmative misunderstanding of the 
+jury charge. 133 F.3d at 1290. Thus, even if it were correctly 
+decided, McDowell would not speak to the issue in the present 
+case. The question posed by Weeks’ jury certainly did not 
+manifest an affirmative misapprehension of the sentencing 
+process rather than a mere request for clarification. 
+
+
+34 
+
+
+unanimously agreed that § 2254(d) bars federal collateral 
+relief on Weeks’ claim. (App. 342-346). 
+
+
+Weeks’ arguments in this Court have been inconsis- 
+tent as to what seminal case or line of authority decided 
+by this Court supposedly constitute the “clearly estab- 
+lished Federal law” for purposes of § 2254(d)(1).?° In his 
+certiorari petition, Weeks suggested that the state court’s 
+ruling on direct appeal contravened this Court’s holding 
+in Bollenbach v. United States, 362 U.S. 607, 612-613 (1946). 
+(Pet. at 20-22). On brief, though, Weeks asserts that he 
+“seeks only the obvious application of the pedestrian rule 
+
+
+10 In a cursory footnote, Weeks suggests that the allegedly 
+“perfunctory manner” of the Supreme Court of Virginia’s 
+disposition of his claim on direct appeal justifies de novo federal 
+habeas review. (Pet. Br. at 14 n.9). If Weeks is arguing that 
+§ 2254(d) is not even applicable to the state court’s ruling, no 
+such contention was raised in his petition for certiorari. Weeks 
+did not include as a question presented any argument that the 
+Fourth Circuit erroneously had reviewed his tighth 
+Amendment claim under § 2254(d). On the contrary, Weeks 
+acknowledged the applicability of § 2254(d) to the present claim 
+by complaining only that the state court’s “decision was 
+contrary to and an unreasonable application of this Court's 
+clearly established precedents. . . . ” (Pet. at 20). See Lockhart v. 
+Fretwell, 506 U.S. 364, 371 n.4 (1993). And, neither in his petition 
+nor his opening brief did Weeks include § 2254(d) under the 
+heading “statutory provisions involved.” See Rule 24.1(f). Thus, 
+pursuant to Rule 14.1(a), Weeks has not properly preserved any 
+challenge to the applicability of § 2254(d)(1) to this case. See also 
+Jones v. United States, 119 S.Ct. 2090, 2104 n.11 (1999); Lambrix, 
+520 U.S. at 527 n.1. Cf. Trest v. Cain, 522 U.S. 87, 90 (1997) 
+(prisoner's certiorari petition raising issue of whether district 
+court was required to raise sua sponte procedural default issue 
+did not permit review of separate question whether district 
+court was permitted to review default sua sponte). 
+
+
+35 
+
+
+that the sentencer in a capital trial might not deem itself 
+precluded from considering relevant mitigating evi- 
+dence.” (Pet. Br. at 22 n.13). 
+
+
+The latter of these contentions must be rejected, 
+regardless of whether it is viewed in the context of 
+§ 2254(d) or the “new rule” doctrine. This Court under- 
+scored this point in Sawyer, where it found unpersuasive 
+the prisoner’s claim that Caldwell had been “dictated by 
+the principle of reliability in capital sentencing; the test 
+would be meaningless if applied at this level of gener- 
+ality.” 497 U.S. at 236. See also Gray v. Netherland, 518 U.S. 
+152, 169-170 (1996); Taylor, 508 U.S. at 343-344. Because 
+the abstract right to present mitigating evidence and to 
+have it considered by the jury simply does not speak with 
+sufficient specificity to the entirely separate matter of the 
+constitutionality of the trial judge’s response to the jury’s 
+question, this Court’s holdings in Lockett v. Ohio, 438 U.S. 
+586 (1978), and Eddings v. Oklahoma, 455 U.S. 104 (1982), 
+hardly constitute the relevant “clearly established Federal 
+law” for purposes of § 2254(d)(1). See also Graham, 506 
+U.S. at 902-903; Sawyer, 497 U.S. at 236; Parks, 494 U.S. at 
+490-491. 
+
+
+As for Bollenbach, if that decision established a consti- 
+tutional principle that a trial court must respond to a 
+jury’s request for supplemental instructions in some pre- 
+scribed manner and may not simply refer the jury to the 
+original charge, such has been remarkably unrecognized 
+by the courts of appeals.'! In Bollenbach, the defendant 
+
+
+'! Indeed, some courts have alluded to Bollenbach at the 
+very same time that they cited the settled principle that a trial 
+court has broad discretion in determining how to respond to a 
+jury’s request for further instructions. See, e.g., United States v. 
+
+
+36 
+
+
+was tried for transporting securities in interstate com- 
+merce knowing they had been stolen and for conspiracy 
+to commit that offense. After deliberating seven hours 
+and stating that it was “hopelessly deadlocked,” the jury 
+then asked a question that “clearly indicated that the 
+jurors were confused concerning” whether evidence on 
+the substantive charge also constituted proof on the con- 
+spiracy count. 326 U.S. at 612. The trial judge responded 
+with an answer that this Court characterized as “palpably 
+erroneous” and “manifest . . . misdirection.” Id. at 611, 
+614. This Court concluded that, by its misinformation, the 
+trial court had not discharged its duty to respond to the 
+jury’s “explicit . . . difficulties . . . with concrete accu- 
+racy.” 326 U.S. at 612-613. 
+
+
+Weeks makes no claim that the trial judge’s answer to 
+the jury’s question was inaccurate or even misleading, 
+but only that it did not go far enough. Inasmuch as 
+Bollenbach addressed an entirely separate matter and did 
+“not answer the definitive question” posed by Weeks, see 
+Lambrix, 520 U.S. at 528 n.3, then certainly under 
+§ 2254(d)(1) a state court reasonably could have regarded 
+Bollenbach as readily distinguishable from the present 
+case — even if, unlike in Weeks’ case, the claim actually 
+had been raised and Bollenbach actually cited to the state 
+court. 
+
+
+Dorri, 15 F.3d at 892; United States v. Laing, 889 F.2d at 290; United 
+States v. Ladd, 885 F.2d at 961. 
+
+
+Se ee ee 
+
+
+37 
+
+
+Ill. THE TRIAL COURT PROPERLY ANSWERED THE 
+JURY’S QUESTION ABOUT ITS SENTENCING 
+ALTERNATIVES, AND THERE IS NO REASON- 
+ABLE LIKELIHOOD THAT THE JURY BELIEVED 
+IT WAS PRECLUDED FROM CONSIDERING 
+THE MITIGATION EVIDENCE. 
+
+
+The record in this case establishes both that the trial 
+court’s answer to the jury’s question was not unconstitu- 
+tional and that the jury was not precluded from consider- 
+ing Weeks’ mitigation evidence. First, the multitude of 
+courts of appeals opinions analyzing comparable claims 
+under an abuse of discretion standard demonstrate the 
+essentially non-constitutional nature of Weeks’ claim. 
+(See pages 35-36 n.8). Moreover, putting aside its entirely 
+dissimilar facts, Bollenbach did not invoke the Constitu- 
+tion in holding that the trial judge had not discharged his 
+duty “to give the jury the required guidance by a lucid 
+statement of the relevant legal criteria.” 326 U.S. at 612. 
+Bollenbach was a direct appeal case “that raised an impor- 
+tant question in the administration of federal criminal 
+justice,” and merely held that, in light of the trial judge's 
+“bad law,” the defendant had been improperly convicted 
+under the federal indictments. 326 U.S. at 609, 614. 
+
+
+The trial judge in Weeks’ case, far from acting uncon- 
+stitutionally, properly exercised his discretion by direct- 
+ing the jury’s attention to the very instruction that made 
+clear its obligation to consider the mitigating evidence 
+and its option to impose a life sentence even if it found 
+the existence of one or both aggravating circumstances. In 
+this regard, courts have recognized that typically the 
+most prudent, least risky response that a trial judge can 
+
+
+38 
+
+
+provide to a jury’s inquiry is to have it reread the origi- 
+nal, legally accurate, instructions. See, e.g., United States v. 
+Smith, 104 F.3d at 149 (trial court did not abuse discretion 
+in referring jury to two instructions in original charge, 
+rather than “risk confusion with another, slightly differ- 
+ent instruction”). See also United States v. Stowell, 947 F.2d 
+at 1257 (because “[q]uestions posed by a jury are often 
+susceptible of different meanings,” trial judge did “noth- 
+ing wrong in responding in a narrow fashion”). Indeed, it 
+is not unusual for a defendant to object to the trial court 
+giving a supplemental instruction, rather than simply 
+referring to the original charge. See, e.g., United States v. 
+Ellis, 23 F.3d 1268, 1273-1274 (7th Cir. 1994); United States 
+v. James, 998 F.2d 74, 78 (2d Cir. 1993); United States v. 
+Caro, 965 F.2d at 1554-1555. And, the substantial risks 
+inherent in a trial court's effort to “improve upon” a 
+concededly valid jury charge may be seen in the recurring 
+challenges to instructions attempting to define the con- 
+cept of reasonable doubt. See, e.g., Victor v. Nebraska, 511 
+U.S. 1 (1994); Cage v. Louisiana, 498 U.S. 39 (1990). 
+
+
+Of course, the trial judge’s response to the question 
+posed by Weeks’ jury cannot warrant federal collateral 
+relief if, in the end, the jury considered his mitigating 
+evidence before imposing the deoth sentence. It is abun- 
+dantly clear, however, that the jury did not disregard 
+Weeks’ extensive mitigating evidence. Indeed, it plainly 
+relied upon such evidence in finding that he was not a 
+future danger, even though it ultimately concluded that 
+he deserved the death penalty. 
+
+
+In Boyde v. California, 494 U.S. 370 (1990), this Court 
+held, as to claims that the jury might have misapplied 
+ambiguous jury instructions, “the proper inquiry . . . is 
+
+
+39 
+
+
+whether there is a reasonable likelihood that the jury has 
+applied the challenged instruction in a way that prevents 
+the consideration of constitutionally relevant evidence. 
+[A defendant does not make out an Eighth Amendment 
+violation] if there is only a possibility of such an inhibi- 
+tion.” 494 U.S. at 380. See also Jones v. United States, 119 
+S.Ct. at 2102-2103; Estelle v. McGuire, 502 U.S. 62, 70-75 
+(1991). The record in this case, when considered against 
+the facts in Boyde and Buchanan, plainly establishes that 
+there was no possibility, much less a reasonable likeli- 
+hood, that the jury misapprehended its sentencing alter- 
+natives. 
+
+
+From start to finish, the trial judge, prosecutors, and 
+defense counsel repeatedly made clear to the jury that a 
+death sentence under no circumstances was mandatory, 
+that a life sentence always was an option, and that the 
+jury had to consider any mitigating evidence offered by 
+Weeks. For example, during voir dire, the prosecutor first 
+informed the prospective jurors that, in the event Weeks 
+was convicted of capital murder, they would have two 
+sentencing options in the penalty phase and then 
+inquired about their ability fairly to consider all sentenc- 
+ing evidence as well as the two possible punishments. 
+(App. 18-20, 22-24, 29-30, 34-35, 39, 45, 51-53, 60-61). 
+Defense counsel then carefully explained to the venire the 
+concept of mitigation and examined the panels concern- 
+ing their willingness to consider the defense’s mitigating 
+evidence. (App. 21-22, 26, 31-32, 36-37, 41-42, 47-49, 56-58, 
+63-65). 
+
+The parties’ opening statements in the penalty phase 
+
+
+were of the same stripe. The Commonwealth's Attorney 
+reminded the jurors of the oath that they had taken and 
+
+
+40 
+
+
+the fact that they would “consider certain evidence now, 
+as well as the evidence that you have heard, and deter- 
+mine what is the appropriate sentence . . . “ (App. 85). 
+The prosecutor further stated that after the jurors had 
+“heard all of the evidence, to weigh it carefully” and to 
+impose a death sentence “in accordance with law and in 
+accordance with the evidence.” (Oct. 21, 1993, Tr. 11-12, 
+emphasis added). In his own opening statement, defense 
+counsel reiterated the sentencing options of death and life 
+imprisonment and then, referring to the mitigating evi- 
+dence that he would present, stated that “you as the jury 
+will have to consider this.” (App. 87, emphasis added). 
+
+
+After the Commonwealth introduced its aggravating 
+evidence, the defense, virtually without objection, pre- 
+sented Weeks and nine other witnesses, who described in 
+great detail such matters as Weeks’ upbringing, accom- 
+plishments and positive behavior until about the time of 
+his high school graduation, his subsequent criminal con- 
+duct, and the events surrounding the murder of Trooper 
+Cavazos. (App. 104-175). This evidence, if credited by the 
+jury, tended to show that for most of his life Weeks had 
+overcome socio-economic and personal obstacles and led 
+a productive life, had a relatively minor criminal record, 
+and, perhaps, had acted out of character when he mur- 
+dered Trooper Cavazos. 
+
+
+In its jury charge, the trial court gave Instruction No. 
+2, which was virtually identical to the instruction that this 
+Court upheld in Buchanan. 522 U.S. at 277 n.4. The 
+instruction informed the jury that, if it unanimously 
+found beyond a reasonable doubt at least one of the 
+statutory aggravators, “then you may fix the punishment 
+of the defendant at death or if you believe from all the 
+
+
+41 
+
+
+evidence that the death penalty is not justified, then you 
+shall fix the punishment of the defendant at life 
+imprisonment. .. . ” (App. 192, emphasis added). The 
+instruction further recited that if the Commonwealth did 
+not prove at least one aggravating predicate beyond a 
+reasonable doubt, then the jury “shall fix the punishment 
+of the defendant at life imprisonment. . . . ” (App. 193). 
+
+
+Additionally, the trial court gave an instruction sub- 
+mitted by Weeks that specifically defined, and gave 
+examples of, mitigating evidence. (App. 195). The exam- 
+ples included Weeks’ “age, character, education, environ- 
+ment, life and background, or any aspect of the crime 
+itself which might be considered extenuating”; the 
+defense’s evidence touched on all of these matters. (/d.). 
+The instruction specifically stated, in part: “You must 
+consider a mitigating circumstance if you find there is 
+evidence to support it.” (/Jd., emphasis added). 
+
+
+Then, during his closing argument, the Common- 
+wealth’s Attorney referred to the mitigating evidence that 
+Weeks had presented and said that if Weeks had testified 
+truthfully in his own behalf, “perhaps a life sentence 
+would be appropriate.” (App. 202). The prosecutor also 
+“ask[ed the jury] to impose the most serious penalty that 
+the law allows, for this most serious of crimes.” (App. 
+207, emphasis added). 
+
+
+Defense counsel’s own closing argument again made 
+clear that the jury had to choose between the two sen- 
+
+
+~ tencing alternatives. Then, Weeks’ attorney inadvertently 
+
+
+asserted that the prosecution had to prove both aggrava- 
+ting factors before the jury could impose a death sen- 
+tence; upon the Commonwealth’s prompt objection, 
+
+
+42 
+
+
+defense counsel acknowledged that the prosecution had 
+to prove one aggravating circumstance, not both, in order 
+to permit a death sentence. (App. 212). Of particular 
+significance, defense counsel then stated: “Now, you 
+could still find that he meets both of these [aggravating] 
+criterias [sic], and not sentence him to death. I believe 
+you will read that in the instructions.” (/d., emphasis 
+added). Finally, defense counsel, alluding to the instruc- 
+tion reciting some of the mitigating evidence that the jury 
+could consider, asked it to impose a life sentence. (App. 
+213). 
+
+
+In rebuttal, the Commonwealth's Attorney expressly 
+acknowledged that the jury did not “have to impose [the 
+death penalty], but all of you have taken an oath that you 
+can consider both options.” (App. 214). And, the prosecu- 
+tor repeated his earlier statement that if the jury credited 
+Weeks’ penalty-phase testimony, then it should “sentence 
+him to life.” (App. 215). 
+
+
+After beginning its deliberations at approximately 
+10:40 a.m. on the second day of the penalty phase, the 
+jury at 3:15 p.m. submitted the following question: 
+
+
+If we believe that Lonnie Weeks, Jr., is guilty of 
+at least 1 of the alternatives, then is it our duty 
+as a jury to issue the death penalty? or must we 
+decide (even though he is guilty of one of the 
+alternatives) whether or not to issue the death 
+penalty, or one of the life sentences? What is the 
+rule? Please clarify. 
+
+
+(App. 217, 219, 222, emphasis in original). The trial judge 
+answered the jury’s question thusly: “See second para- 
+graph of Instruction #2 (Beginning with ‘if you find 
+from. .. . ’).” (App. 223). The trial judge reasoned that his 
+
+
+OO ge 
+
+
+43 
+
+
+response “answers their precise question. I think they just 
+have to be drawn to that paragraph to find their answer.” 
+(App. 224). 
+
+
+The jury resumed its deliberations and never submit- 
+ted any follow-up questions. Instead, more than two 
+hours later, it returned with its verdict at 5:31 p.m., and . 
+sentenced Weeks to death based solely upon the “vile- 
+ness” predicate. (App. 224-225). The jury thus specifically 
+rejected “future dangerousness” as a second ground for 
+imposing the death penalty. The jury’s verdict, moreover, 
+expressly stated that it “had considered the evidence in 
+mitigation of the offense. ... ” (App. 225). Finally, when 
+polled by the trial judge, all members of the jury assented 
+to the verdict. (App. 225-226). 
+
+
+This Court’s decision in Buchanan demonstrates that 
+Weeks cannot satisfy the Boyde “reasonable likelihood” 
+test. In Buchanan, this Court held that the Eighth Amend- 
+ment had not required the trial court to instruct the 
+capital jury about the concept of mitigating evidence or 
+particular statutory mitigating factors. The Court also 
+concluded that there was no reasonable likelihood under 
+Boyde that the jury would have understood the instruc- 
+tions to preclude its consideration of Buchanan's mitigat- 
+ing evidence. 522 U.S. at 279. 
+
+
+In this regard, the Court emphasized “the entire con- 
+text in which the instructions were given” and concluded 
+that the parties’ express references to mitigating evidence 
+in their opening statements and closing arguments in the 
+penalty phase, Buchanan’s presentation of seven mitiga- 
+tion witnesses, and the jury’s statement in the verdict that 
+it had considered the mitigating evidence demonstrated 
+
+
+44 
+
+
+that the jury had not disregarded Buchanan's “extensive 
+testimony in making its decision. .. . ” 522 U.S. at 
+270-273, 278-279. Moreover, this Court ruled that an 
+instruction substantially identical to Instruction No. 2 in 
+Weeks’ case clearly explained the jury’s duty to take into 
+account all the evidence and to consider imposing a life 
+sentence even if it found the existence of one or both of 
+the statutory aggravating circumstances. 522 U.S. at 277 
+n.4.!2 
+
+
+All of the circumstances that the Court stressed in 
+Buchanan as a basis for rejecting the prisoner’s Eighth 
+Amendment claim exist here as well. Indeed, one of the 
+few differences between the two cases is that Weeks’ jury 
+specifically was instructed on the concept of mitigating 
+evidence and was expressly directed that it “must con- 
+sider” the defense’s mitigating evidence. (App. 195). Con- 
+sequently, if no reasonable likelihood existed in Buchanan 
+that the jury believed it was precluded from considering 
+
+
+12 This Court also has canvassed the trial record in other 
+cases involving allegedly ambiguous jury instructions. In Boyde 
+itself, the Court found that a particular mitigating circumstance 
+sufficed to ensure that the jury would consider the defendant's 
+evidence of his background and character, particularly in light 
+of the fact that the defendant had presented (without objection) 
+substantial mitigating evidence and that both the prosecutor’s 
+and defense counsel’s arguments had confirmed the relevance 
+of the defendant's mitigating evidence. 494 U.S. at 381-386. See 
+also Jones v. United States, 119 S.Ct. at 2100-2110 (overall jury 
+charge and verdict forms removed any potential confusion 
+concerning effect of jury’s inability to reach unanimous 
+sentence recommendation, and prosecutor’s arguments “made 
+absolutely clear” meaning of non-statutory aggravating factors 
+and cured any potential overbreadth or vagueness infirmity.). 
+
+
+45 
+
+
+the defendant's mitigating evidence, the same conclusion 
+necessarily obtains here as well. 
+
+
+The mere fact that Weeks’ jury, unlike the jury in 
+Buchanan, asked the trial court a question about the sen- 
+tencing process and was not given the supplemental 
+instruction Weeks requested certainly is insufficient to 
+demonstrate an Eighth Amendment violation. As the 
+many courts of appeals decisions cited by respondent 
+reflect, juries often ask questions seeking elaboration 
+upon concededly valid instructions. The fact that juries 
+ask such questions shows, not so much their confusion 
+over the original instructions, but their conscientious 
+attempt to discharge their duties. See United States v. Barr, 
+963 F.2d 641, 651 (3rd Cir. 1992); United States v. Bi-Co 
+Pavers, Inc., 741 F.2d 730, 735 (5th Cir. 1984). 
+
+
+Consistent with these principles, there can be no 
+doubt that Weeks’ death sentence is constitutional. First, 
+the trial judge discharged any conceivable duty allegedly 
+owed to Weeks under Bollenbach by specifically referring 
+the jury to the very instruction that accurately answered 
+its question. The jury, of course, was presumed to follow 
+the court’s instructions. See Jones, 119 S.Ct. at 2105. The 
+constitutional validity of Weeks’ death sentence is 
+reflected by the fact that the jury deliberated for more 
+than two additional hours without asking further ques- 
+tions,’ and then returned a verdict that expressly stated 
+that it had considered the mitigating evidence. As both 
+
+
+3 In Bollenbach, this Court emphasized the fact that, after 
+deliberating for seven hours, the jury had rendered a guilty 
+verdict only five minutes after its “inquiry was answered by an 
+untenable legal proposition.” 326 U.S. at 614. 
+
+
+46 
+
+
+the district court and Magistrate Judge aptly noted, it is 
+all the more telling that the jurors, who had promised on 
+voir dire to ask for clarification of any instruction they 
+did not understand, found it unnecessary to ask follow- 
+up questions before reaching their verdict. See Weeks, 4 
+F. Supp. 2d at 536; Magistrate’s Report at 110. See also 
+United States v. Stowell, 947 F.2d at 1257 (if “jury needed 
+further help it could have asked another question”). 
+
+
+The prosecution, moreover, sought the death penalty 
+based on toth the “future dangerousness” and “vileness” 
+predicates. The fact that the jury based its death sentence 
+solely upon the “vileness” factor clearly shows not only 
+that it considered, but also that it gave effect to, Weeks’ 
+mitigating evidence. Much of Weeks’ mitigating evidence 
+had nothing to do with the circumstances surrounding 
+the murder of Trooper Cavazos but, rather, with such 
+matters as his upbringing, positive accomplishments, and 
+criminal record. During closing argument, both parties 
+discussed this mitigating evidence in detail, plainly in ar 
+attempt to persuade the jury that Weeks was, or was not, 
+a future danger. (App. 204-216). The only reasonable 
+explanation for the jury’s rejection of the “future danger- 
+ousness” predicate is that it not only considered his 
+mitigating evidence concerning his background and char- 
+acter, but found it persuasive." 
+
+
+4 In his certiorari petition, Weeks did not contest the fact 
+that the jury considered his mitigating evidence, at least for 
+purposes of deciding the future dangerousness issue. (Pet. at 11 
+n.3, 12 n.4). That being the case, the several decisions of this 
+Court holding that Texas’ statutory scheme is constitutional, 
+because its “future dangerousness” special issue provides a jury 
+with the means to consider the defendant's mitigating evidence, 
+
+
+ia 
+
+
+47 
+
+
+Weeks is the petitioner-appellant in this secondary, 
+disfavored collateral action. See generally Calderon v. 
+Thompson, 118 S.Ct. 1489, 1500-1501 (1998). He simply is 
+not entitled to federal habeas relief on the basis of 
+implausible speculation about the reasons for the jury’s 
+question or the impact of the trial judge’s response on its 
+deliberations. See Boyde, 494 U.S. at 380 (“there is 
+a... strong policy against retrials years after the first 
+trial where the claimed error amounts to no more than 
+speculation”). See also Jones, 119 S.Ct. at 2105 (“Where the 
+effect of [the jurv’s alleged confusion regarding the con- 
+sequences of any deadlock is] so uncertain, [the] defen- 
+dant cannot meet his burden of showing that the error 
+actually affected his substantial rights”); Romano, 512 U.S. 
+at 13-14 (inasmuch as jury’s knowledge in defendant's 
+second capital murder trial of his death sentence in first 
+trial made it equally plausible that jurors would be more 
+or less inclined to impose additional death sentence, 
+relief “would thus be an exercise in speculation, rather 
+than reasoned judgment”). This Court, then, must reject 
+Weeks’ highly improbable conjecture that the jury some- 
+how might have concluded that it could not consider his 
+mitigation evidence. 
+
+
+likewise support the constitutionality of Weeks’ death sentence. 
+See Johnson v. Texas, 509 U.S. 350 (1993); Franklin v. Lynaugh, 487 
+U.S. 164 (1988) (plurality opinion); Jurek v. Texas, 428 U.S. 262 
+(1976). 
+
+
+48 
+
+
+CONCLUSION 
+
+
+The judgment of the Court of Appeals should be 
+affirmed. 
+
+
+Respectfully submitted, 
+
+
+RONALD J. ANGELONE, Director 
+Virginia Department of Corrections 
+
+
+Mark L. Eartey 
+
+Attorney General of Virginia 
+Rosert H. Anperson, III 
+Assistant Attorney General 
+
+
+Office of the Attorney General 
+900 East Main Street 
+Richmond, Virginia 23219 
+
+
+by) 
+
+
+BRIEF 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABOR GP ALT IIIT no occ cescvcvcvccvceeces i 
+ge OE SE ED Ce Pree Sea 1 
+SEEING inks sc thuedtes choke nheadhekenteaiea 9 
+TABLE OF AUTHORITIES 
+
+Cases: 
+Buchanan v. Angelone, 522 U.S. 269, 118 S.Ct. 757 
+
+EE pth teh Ui webck bad india hha ERC ae a eh iaees akon 2 
+California v. Brown, 479 U.S. 538 (1987)............. 5, 7 
+Eddings v. Oklahoma, 455 U.S. 104 (1982)......... Pi 
+Harris v. Reed, 489 U.S. 255 (1989)..............0eeeee 8 
+James v. Kentucky, 466 U.S. 341 (1984) ................ 8 
+Lockett v. Ohio, 438 U.S. 586 (1978).............. oe 
+Penry v. Lynaugh, 492 U.S. 302 (1989)....... 1, 2, 3, 4, 7 
+Teague v. Lane, 489 U.S. 288 (1989) ............22-505: 1 
+Woodson v. North Carolina, 428 U.S. 280 (1976)...... 4,7 
+Ylst v. Nunnemaker, 501 U.S. 797 (1991)............... 8 
+STATUTES: 
+
+
+Se Gs Ee ook COAG i SR areca ves 1 
+
+
+ARGUMENT 
+
+
+In Eddings v. Oklahoma, 455 U.S. 104 (1982), this Court 
+“held that ‘just as the State may not by statute preclude 
+the sentencer from considering any mitigating factor, nei- 
+ther may the sentencer refuse to consider, as a matter of law, 
+any relevant mitigating evidence.” Penry v. Lynaugh, 492 
+U.S. 302, 318 (1989) (quoting Eddings, 455 U.S. at 113-114) 
+(emphasis added). At the time of Mr. Weeks’ trial in 1993, 
+this “sentencer may not refuse to consider mitigation” 
+rule was “not a ‘new rule’ under Teague [v. Lane, 489 U.S. 
+288 (1989)] because it [was] dictated by Eddings and Lock- 
+ett [v. Ohio, 438 U.S. 586 (1978)].” Id., 492 U.S. at 319 
+(Penry’s judgment was final for Teague purposes in 1986). 
+In 1993, then, it would have been unreasonable (and 
+contrary to Supreme Court law) for a court to find no “ 
+‘risk that the death penalty [was] imposed in spite of 
+factors which may call for a less severe penalty,’ ” Penry, 
+492 U.S. at 328 (quoting Lockett, 438 U.S. at 605, and 
+Eddings, 455 U.S. at 119 (O’Connor, J., concurring)), in the 
+face of a sentencer’s suggestion that “ ‘in following the 
+law . . . [it could not] consider,’ ” Eddings, 455 U.S. at 879 
+(O'Connor, J., concurring) (quoting sentencing judges’ 
+commen‘s), mitigating evidence.' Trial counsel for Mr. 
+
+
+! As for the Respondent's professed inability to discern 
+“what seminal case or line of authority decided by this Court 
+supposedly constitute [sic] the ‘clearly established Federal law’ 
+[that satisfies Teague v. Lane, 489 U.S. 288 (1989) and Section 
+2254(d)],” Brief of Respondent, p. 34, the case that Mr. Weeks 
+cited to the trial court and the Virginia Supreme Court — Penry - 
+is as good a representative as any of the “pedestrian rule that 
+the sentencer in a capital case may not deem itself precluded 
+from considering relevant mitigating evidence.” See Brief of 
+Petitioner at 27, n. 13; see also id. at 21-22 (line of cases). 
+
+
+Weeks were concerned that the sentencers in his case 
+would apply Instruction No. 2 (J.A. 192-93),? in a way that 
+violated the Lockett, Eddings, and Penry rule. Counsel 
+stated that “it is not clear to the jury [from Instruction 
+No. 2] that, if they find beyond a reasonable doubt that 
+the aggravating factors have been proved, that they can 
+still choose to sentence the defendant to life in prison.” 
+(J.A. 179). To satisfy the Eighth Amendment, said counsel, 
+“the jury has to be instructed that, even if they find the 
+aggravating factors beyond a reasonable doubt, that they 
+have to be instructed that they still can give effect to the 
+evidence in mitigation.” (J.A. 178). Counsel told the trial 
+court that the authority for this request was “Penry v. 
+Linowe (phonetic) 492 U.S. 302.” Id.> The trial court 
+refused to instruct the jurors according to counsel's Penry 
+request, and instead used Instruction No. 2. 
+
+
+The sentencers deliberated, and then returned with a 
+question: if they believed that an aggravating circum- 
+stance existed, “then is it our duty to issue the death 
+penalty?”* This understanding of their duty would 
+
+
+2 This is the instruction later reviewed by this Court in 
+Buchanan v. Angelone, 522 U.S. 269, 118 S.Ct. 757 (1998). 
+
+
+3 The cite for Penry v. Lynaugh is 492 U.S 302 (1989). Counsel 
+also explained that the sentencing forms which the jurors had to 
+review and fill out were deficient “when it comes to giving 
+effect to mitigation” (J.A. 179) in that they did “not expressly 
+provide for a sentence of life imprisonment, upon finding 
+beyond a reasonable doubt, on one or both of the aggravating 
+factors.” (J.A. 186). Counsel argued that this violated “Henry v. 
+Linum (sic).” Id. 
+
+
+* Respondent argues that a string of occurrences at trial - 
+questions and statements made by the lawyers during voir dire 
+and in closing arguments, the nature and quality of the evidence 
+
+
+plainly violate Lockett, Eddings, and Penry. Counsel asked 
+the trial court accurately to inform the sentencers that 
+even if an aggravating circumstance was found, “they 
+still may impose a life sentence” (J.A. 223), which was the 
+same instruction counsel had earlier requested, based 
+upon Penry. The Court refused. 
+
+
+On direct appeal, Mr. Weeks asked that the Virginia 
+Supreme Court reverse the trial court’s a.) refusal to 
+instruct the jurors before deliberations that they could 
+give effect to mitigation even if they found an aggrava- 
+ting circumstance, and b.) failure to correct the jurors’ 
+mis-impression, revealed during deliberations, that they 
+were required to impose the death penalty upon a finding 
+of aggravation. Respondent argues that Mr. Weeks’ claim 
+is defaulted because it was not fairly presented to the 
+Virginia Supreme Court. See Brief of Respondent, pp. 
+21-26. Respondent's arguments ought to be rejected. 
+
+
+presented, instructions by the trial judge other than the pattern 
+jury instruction upheld in Buchanan and relied upon by the 
+Fourth Circuit below in rejecting Mr. Weeks’ claim - 
+demonstrate that no sensate jury at Mr. Weeks’ trial could 
+possibly have been left sufficiently in the dark to have asked the 
+trial judge the question that Mr. Weeks’ jury did ask about 
+whether it could or could not consider mitigating evidence after 
+it found an aggravating circumstance. But all of these 
+occurrences preceded the jury's asking of the question; the jury 
+undeniably did ask the question; and the trial judge’s sole 
+answer was to tell the jurors to reread “the second paragraph of 
+Instruction # 2” (J.A. 222) — the pattern instruction involved in 
+Buchanan. Everything in Point III of the Brief of Respondent that 
+disregards these realities — and that is almost all of Point III — is 
+quite beside the point. 
+
+
+4 5 
+
+
+be allowed to consider and give to mitiga- 
+tion evidence relevant to a t's character 
+or record or the circumstances of the offense.” 
+
+
+The following excerpts from the direct appeal record 
+show what Mr. Weeks presented to the Virginia Supreme 
+
+
+ASSIGNMENTS OF ERROR AND 
+DESIGNATION OF RECORD 
+
+
+41. The trial court erred by refusing to 
+give the jury defendant's proposed instruction 
+C15 or to otherwise fully and properly instruct 
+the jury regarding their option to give effect to 
+
+ating evidence by sentencing the defendant 
+to to Hike in prison even if they found one or all of 
+the statutory aggravating factors beyond a rea- 
+sonable doubt .. . 
+
+
+(J.A. 237). 
+
+
+[BRIEF ON DIRECT APPEAL] 
+4lst Assigned Error 
+
+
+In a capital murder case, consideration of 
+the character and record of the individual 
+offender is indispensable in meeting the require- 
+ments of the Eighth Amendment. Woodson v. 
+North Carlina, [428 U.S. 280 (1976)] supra. In 
+Penry v. Lynaugh the Supreme Court stated that 
+
+. . . it is precisely because the punishment 
+should be directly related to the personal cul- 
+pability of the defendat [sic] that the jury must 
+
+
+5 Proposed instruction Cl reads as follows: 
+
+
+Even if you find that the Commonwealth has proved 
+one or both of the aggravating factors beyond a 
+reasonable doubt, you may give effect to the evidence 
+in mitigation by sentencing the defendant to life in 
+prison. 
+
+
+(J.A. 190). 
+
+
+Court: 492 U.S. 302, 327-328, 106 L.Ed.2d 256, 109 S.Ct 
+
+
+2943 (1989) (emphasis added). The Court further 
+stated,“ .. . in the absence of instructions infor- 
+the jury that it could consider and give 
+effect to mitigating evidence . . . by declining to 
+impose the death penalty, we ude that the 
+jury was not provided with a vehicle for expres- 
+rr its “reasoned moral lie evi- 
+ence in rendering its sentencing ision. Id., 
+(emphasis added), quoting California v. Brown, 
+479 U.S. 538, 545, 93 L.Ed. 2d 934, 101 S.Ct. 837 
+(1987) (O’Connor, J., concurring). 
+
+
+Instruction Cl was a correct statement of 
+the law under Penry, was not needlessly redun- 
+dant, and was materially vital to the defendant; 
+it should therefore have been given to the jury 
+by the court. 
+
+
+(J.A. 243-243). 
+
+
+ASSIGNMENTS OF ERROR AND 
+DESIGNATION OF THE RECORD 
+
+
+44. The trial court erred in refusing, in 
+response to a specific jury request for clarifica- 
+tion, to specifically instruct the om J that if they 
+found one or more aggravating factors beyond a 
+reasonable doubt, they could saabees the 
+defendant to life in prison or to death. 
+
+
+(J.A. 238). 
+
+
+[APPELLANTS BRIEF ON DIRECT APPEAL] 
+44th Assigned Error 
+[Statement of Facts] 
+
+
+Regarding assigned error 44, during their 
+deliberations in the penalty phase of the trial, 
+
+
+6 
+
+
+the jury sent out a written question asking the 
+court to “clarify” whether or not they had a 
+“duty” to impose the death penalty if they 
+found one of the aggravating factors beyond a 
+reasonable doubt, or whether they could choose 
+between the death penalty and a life sentence. 
+Appendix, 896, 2717-2718. The court refused the 
+defendant's request that the jury be instructed 
+that they could im a life sentence even if 
+they found one or both of the aggravating fac- 
+tors beyond a reasonable doubt. Appendix, 
+2718-2719, instead instructing them to reread the 
+second paragraph of the finding instruction. Id. 
+
+
+(J.A. 265-266). 
+
+
+44th Assigned Error 
+
+
+The defendant relies upon the argument set 
+forth under the 41st Assigned Error, supra, in 
+response to the question presented on this error. 
+
+
+(J.A. 245). 
+
+
+This error of the court violated the defen- 
+dant’s rights under the Fifth, Sixth, Eighth and 
+Fourteenth Amendments to the Constitution of 
+the United States and Article 1, sections 8, 9 and 
+11 of the Constitution of Virginia. 
+
+
+(J.A. 245-246). 
+
+
+In response to these facts, assignments of «-ror, 
+briefs, the Virginia Supreme Court held as follows: 
+
+
+On appeal, defendant assigns 47 alleged 
+errors committed by the trial court. The defen- 
+dant has not briefed or argued ten of those 
+assigned errors (Nos. 4, 5, 6, 7, 8, 17, 26, 31, 38, 
+and 39); hence, we will not consider them. 
+Jenkins v. Commonwealth, 244 Va. 445, 451, 423 
+S.E.2d 360, 364 (1992), cert. denied, ___ U.S. ___ 
+
+
+and 
+
+
+7 
+
+
+113 S.Ct 1862, 123 L.Ed. 2d 483 (1993).¢ In addi- 
+tion, defendant effectively presents no argument 
+in support of five of those alleged errors (Nos. 
+16, 34, 44, 45, and 46). . . . We have considered 
+these so-called arguments and find no merit in 
+any of them. 
+
+
+(J.A. 275) (emphasis added).” 
+
+
+In conclusion, defendant raises a number of 
+miscellaneous issues dealing with evidence, jury 
+instructions, and inquiries by the jury during its 
+deliberations. We have considered all the arguments 
+in support of those issues and conclude that 
+none has any merit. 
+
+
+(J.A. 292) (emphasis added). 
+
+
+Thus, Mr. Weeks advised the Virginia Supreme Court 
+that the Eighth Amendment was violated because his 
+capital sentencers believed that they could not consider 
+mitigating circumstances upon finding aggravation. He 
+asked that this constitutional violation be corrected on 
+the basis of Woodson, Penry, and Brown, supra, and the 
+Virginia Supreme Court “considered all the arguments in 
+
+
+© The Virginia Supreme Court “defaulted” other issues as 
+well. (J.A. 287, 288). 
+
+
+7 Respondent urged the Virginia Supreme Court to find 
+that assignment of error 44 was defaulted: “Weeks effectively 
+presents no argument in support of Assignment[] of 
+Error... 44... Accordingly, he has defaulted on th[is] issue.” 
+Brief of the Commonwealth, Weeks v. Virginia, No. 940335, p. 16, 
+n.3. The Virginia Supreme Court, by “considering” and 
+“find[ing] no merit” to assignment of error 44, obviously 
+rejected Respondent's default argument. Respondent presented 
+no argument at all regarding assignment of error number 44 on 
+direct appeal. 
+
+
+support of those [and other] issues and conclude[d] that 
+none has any merit.” (J.A. 292) (emphasis added).* There 
+was no procedural default, YIst v. Nunnemaker, 501 U.S. 
+797, 801 (1991) (“If the last state court to be presented 
+with a particular federal claim reaches the merits, it 
+removes any bar to federal review that might otherwise 
+be available.”); Harris v. Reed, 489 U.S 255, 262 (1989), and 
+Mr. Weeks’ presentation to the Virginia Supreme Court 
+was perfectly sufficient to identify his contention and the 
+specific rule of federal constitutional law on which it 
+rested. James v. Kentucky, 466 U.S. 341, 351 (1984) (“inesca- 
+pable that the defendant sought to invoke the substance 
+of his federal right”). 
+
+
+8 Respondent’s argument that on direct appeal Petitioner 
+“did not present the claim at all, fairly or otherwise,” Brief of 
+Respondent, p. 23, cannot be reconciled with this record. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the Court should reverse 
+the decision of the lower court and vacate Petitioner’s 
+sentence of death. 
+
+
+Respectfully submitted, 
+
+
+STERLING H. WEAVER, Gten A. Hurr, Eso. 
+
+Sr., Eso. Timotuy M. RicHarpson, Eso. 
+P.O. Box 543 Counsel of Record 
+Portsmouth, VA 23705 Hurr, Poote & Manoney, PC. 
+(757) 393-0237 4705 Columbus Street 
+an te Virginia Beach, VA 23462 
+| 
+
+
+Mark E. Ouive, P.A. Counsel for Petitioner 
+320 W. Jefferson Street 
+Tallahassee, FL 32301 
+(850) 224-0004 
+
+
+Counsel for Petitioner 
+
+

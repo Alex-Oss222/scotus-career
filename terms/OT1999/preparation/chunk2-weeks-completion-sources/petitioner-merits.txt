@@ -1,0 +1,1496 @@
+No. 99-5746 
+
+
+In The 
+
+
+Supreme Court of the United States 
+
+
+e 
+
+
+LONNIE WEEKS, JR., 
+
+
+Petitioner, 
+Vv. 
+
+
+RONALD ANGELONE, Director, 
+Virginia Department of Corrections, 
+
+
+Respondent. 
+. 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Fourth Circuit 
+
+
+« 
+
+
+BRIEF FOR PETITIONER 
+
+
+° 
+
+
+Gen A. Hurt, Eso. 
+
+TmmotHy M. RICHARDSON, Eso. 
+Counsel of Record 
+
+Hurr, Poote & Manoney, P.C. 
+4705 Columbus Street 
+Virginia Beach, VA 23462 
+(757) 499-1841 
+
+
+STERLING H. Weaver, Sr., Eso. 
+P.O. Box 543 
+
+Portsmouth, VA 23705 
+
+(757) 393-0237 
+
+
+Mark Evan Otrve, Eso. 
+Law Ofrfices OF 
+
+Mark E. Outve, P.A. 
+320 West Jefferson Street 
+Tallahassee, FL 32301 
+(850) 224-0004 
+
+
+Counsel for Petitioner 
+
+
+CAPITAL CASE 
+QUESTION PRESENTED 
+
+
+When a capital sentencing jury informs the judge that it 
+does not understand the sentencing instructions held 
+facially constitutional in Buchanan v. Angelone and spe- 
+cifically asks whether it is free to consider a sentence less 
+than death if it finds one or more aggravating factors, is 
+the judge constitutionally required to clarify that a death 
+sentence is not mandatory upon the finding of an aggra- 
+vating factor but that the jury should consider mitigating 
+evidence as well in making its sentencing decision? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES ............-.0seeeeeeees iii 
+OPTIONS GLOW. «occ ccccteccccntcccssseauneunae 1 
+TUREBDOCTIOIN «0 oc cccsacscnsdsncvcvvesssepsannubes 1 
+CONSTITUTIONAL PROVISIONS INVOLVED...... 1 
+STATEMENT OF THE CASE...............0000000 2 
+SUMMARY OF THE ARGUMENT ................. 19 
+ADGUREIING ikea vciscncgnesvastneendds \ceapekeees 20 
+CORMCLAIIIIING oo cccccinscccusnsstaseeedneneanienan 30 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Barclay v. Florida, 463 U.S. 939 (1983)................ 24 
+Beck v. Alabama, 447 U.S. 625 (1980)................. 20 
+Bollenbach v. United States, 326 U.S. 607 (1946)....... 27 
+
+
+Boyde v. California, 494 U.S. 370 (1990)... .18, 20, 23, 25, 27 
+Buchanan v. Angelone, 522 U.S. 269, 118 S. Ct. 757 
+
+
+SGML esas eh een wakeancceenss 18, 21, 24, 27, 28, 29 
+Burger v. Kemp, 483 U.S. 776 (1987) ................. 22 
+Calderon v. Coleman, 525 U.S. 141 (1998)............. 23 
+California v. Brown, 479 U.S. 538 (1987).............. 21 
+California v. Ramos, 463 U.S. 992 (1983).............. 24 
+Cardwell v. Greene, 152 F.3d 331 (4th Cir. 1998), cert. 
+
+So Ee Eee 17 
+Clemons v. Mississippi, 494 U.S. 738 (1990)........... 23 
+Eddings v. Oklahoma, 455 U.S. 104 (1982) 
+
+RT) PE fener ee 19, 21, 22, 23, 28, 29 
+Estelle v. McGuire, 502 U.S. 62 (1991)............. 23, 25 
+Gregg v. Georgia, 428 U.S. 153 (1976) ................ 29 
+Godfrey v. Georgia, 446 U.S. 420 (1980)............... 29 
+Harris v. Alabama, 513 U.S. 504 (1995) ............... 22 
+Hitchcock v. Dugger, 481 U.S. 393 (1987)...... 22, 23, 29 
+Johnson v. Mississippi, 486 U.S. 578 (1988)............ 20 
+Johnson v. Texas, 509 U.S. 350 (1993).... 2... ..6...605. 20 
+
+
+Jurek v. Texas, 428 U.S. 262 (1976) ................ 27, 29 
+
+
+iv 
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+Lockett v. Ohio, 438 U.S. 586 (1978) 
+9 0.0004n0cs been een ghutes Geheetn 19, 21, 23, 25, 27, 28, 29 
+
+
+McDowell v. Calderon, 130 F.3d 833 (9th Cir. 1997) 
+
+
+(en banc), cert. denied, 118 S. Ct. 1% (1998)...... 28 
+McKoy v. North Carolina, 494 U.S. 433 (1990)......... 21 
+Mills v. Maryland, 486 U.S. 367 (1988) .... 21, 23, 25, 29 
+Morgan ”. Illinois, 504 U.S. 719 (1992) ............55. 22 
+Parker v. Dugger, 498 U.S. 308 (1991)......... 22, 23, 29 
+Penry v. Lynaugh, 492 U.S. 302 (1989). .21, 23, 25, 27, 29 
+Proffit v. Florida, 428 U.S. 242 (1976)..............5.. 29 
+Saffle v. Parks, 494 U.S. 484 (1990). ...... 2... ..66505. 22 
+Simmons v. South Carolina, 512 U.S. 154 (1994)....... 26 
+Skipper v. South Carolina, 476 U.S. 1 (1986) ....... 22, 29 
+
+
+United States v. Nunez, 889 F.2d 1564 (6th Cir. 1989) .... 28 
+United States v. Zimmermann, 943 F.2d 1204 (10th 
+
+
+Cie. FRG 0 ceed ctbadves sp ccenkses daksbsbesaubobetas 28 
+Weeks v. Commonwealth, 450 S.E.2d 379 (Va. 1994) ..1, 17 
+Weeks v. Virginia, 516 U.S. 829 (1995)............005. 17 
+
+
+Weeks v. Angelone, 4 F.Supp.2d 497 (E.D.Va. 1998), 
+aff'd, 176 F.3d 249 (4th Cir. 1999), cert. granted, 
+
+
+68 U.S.L.W. 3151-52 (Sept. 1, 1999).............. 1, 17 
+Weeks v. Angelone, 176 F.3d 249 (4th Cir. 1999), cert. 
+
+granted, 68 U.S.L.W. 3151-52 (Sept. 1, 1999)...... 1, 17 
+Weeks v. Angelone, 68 U.S.L.W. 3151-52 (Sept. 1, 
+
+Ey ae we A 8 ge 3 ee 1 
+
+
+Woodson v. North Carolina, 428 U.S. 280 (1976) .. 20, 21, 23 
+
+
+~e 
+
+
+TABLE OF 
+
+
+STATUTES 
+28 U.S.C. § 1254(1) 
+
+
+v 
+
+
+AUTHORITIES — Continued 
+Page 
+
+
+BRIEF FOR PETITIONER 
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals is reported as 
+Weeks v. Angelone, 176 F.3d 249 (4th Cir. 1999), and is 
+reprinted in the Joint Appendix (hereinafter “J.A.”) at 
+pages 327 through 377. The opinion of the district court is 
+reported as Weeks v. Angelone, 4 F. Supp.2d 497 (E.D. Va. 
+1998). The opinion of the Virginia Supreme Court on 
+direct review is reported as Weeks v. Commonwealth, 450 
+S.E.2d 379 (Va. 1994), and is reprinted in the J.A. at pages 
+272 through 296. 
+
+
+JURISDICTION 
+
+
+The court of appeals issued its judgment and deci- 
+sion on May 10, 1999. Mr. Weeks filed a timely petition 
+for rehearing and suggestion for rehearing en banc on 
+May 21, 1999. The court of appeals denied the petition for 
+rehearing on June 4, 1999. The petition for certiorari was 
+filed on August 16, 1999, and was granted (limited to 
+Question Presented 1) on September 1, 1999. Weeks v. 
+Angelone, 68 U.S.L.W. 3151-52 (Sept. 1, 1999). This Court 
+has jurisdiction under 28 U.S.C. § 1254(1). 
+
+
+° 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+This case involves the Eighth and Fourteenth 
+Amendments to the United States Constitution, which 
+provide in relevant part as follows: 
+
+
+SESS ee 
+
+
+“[NJor [shall] cruel and unusual punishments 
+[be] inflicted.” (U.S. Const., amend. VIII.) 
+
+
+“No State shall . . . deprive any person of life 
+lor] liberty . . . without due process of law; nor 
+deny to any person within its jurisdiction the 
+equal protection of the laws.” (U.S. Const., 
+amend. XIV, § 1.) 
+
+
+STATEMENT OF THE CASE 
+
+
+Lonnie Weeks, Jr., was convicted in the Common- 
+wealth of Virginia for the capital murder of State Trooper 
+Jose M. Cavazos. There was no dispute about whether 
+Mr. Weeks shot and killed the law enforcement officer. He 
+did. The real issue for the jury to decide was punishment. 
+Thus, it was critical that Lonnie Weeks’ sentencers under- 
+stand their duty to consider — and realize their power to 
+give effect to - evidence in mitigation as well as evidence 
+in aggravation of sentence. 
+
+
+A. The Mitigating Evidence 
+
+
+The evidence in mitigation was, summarily, this: The 
+offense occurred when Lonnie Weeks, Jr., was just twenty 
+years old. Mr. Weeks was an African-American man who 
+had been raised in a poor, violent neighborhood. Yet in 
+spite of his surroundings, at age eighteen, Mr. Weeks was 
+(1) the star, captain, and leader of his high school basket- 
+ball team, (2) a devout Christian and constant church- 
+goer, and (3) a peaceful, non-criminal, non-violent, pro- 
+ductive member of his community. Colleges recruited Mr. 
+Weeks with athletic scholarships. 
+
+
+Mr. Weeks then made a fateful decision. He turned 
+the scholarships down because his girlfriend was preg- 
+nant and he felt an obligation to remain with her. After 
+graduation from high school, he left his grandmother's 
+home and moved in with his girlfriend. Thereafter, with- 
+out school, church, and the support of his grandmother, 
+Mr. Weeks entered the world of poverty and crime 
+around him. He made a series of awful decisions, and his 
+life quickly unraveled, culminating in his theft of a car 
+and the shooting of the law enforcement officer who 
+flagged it down while he was riding in it as a passenger. 
+When it was over, Weeks looked back in horror and 
+disgust at what he had done. 
+
+
+With more texture: 
+
+
+1. A Promising Start in Precarious Circumstances 
+
+
+The story of Lonnie Weeks’ short life was told at 
+sentencing. His family moved to Fayetteville, North Car- 
+olina, from Washington, D.C., when he was seven years 
+old. (J.A. at 158.) His father died when he was ten. Mr. 
+Weeks was raised by his grandmother, Evelyn Leach, 
+because his mother had become “caught up in drugs” and 
+was not able to care for him. (J.A. at 167, 143.) 
+
+
+Ms. Leach lived in a “horrible area” with “drugs, 
+weapons, shootings, killings,” (J.A. at 131-32), and she 
+was in a “very, very hard situation economically.” (J.A. at 
+134.) But she was a hard-working, church-going, strict 
+“parent,” and Lonnie Weeks thrived under her influence. 
+He was polite, well-behaved, well-mannered, indus- 
+trious, respectful, and religious. (J.A. at 143-47, 153, 168.) 
+His grandmother “never got no calls from school, never 
+
+
+got no calls from the principal, teachers or nobody like 
+that about Lonnie.” (J.A. at 168.) 
+
+
+Other responsible adults also helped Lonnie Weeks to 
+stay out of trouble, for example, his basketball coach, 
+Bennie House. Coach House had a great deal of contact 
+with Lonnie Weeks, almost daily, for three years. (J.A. at 
+130-31.) Mr. Weeks had no disciplinary record at school, 
+and, in sports, had “[nJever a fight; never a technical; 
+always — always handled himself real well.” (J.A. at 133.) 
+Mr. Weeks “developed into a very fine basketball player” 
+and “had to shoulder a lot of responsibility” as a senior, 
+but, “unfortunately, we lost him in January with grades. 
+That was the only thing negative I can say . . . As much as 
+I talked and encouraged his grades, he still came up short 
+in two courses [at mid-term].” (J.A. at 132.) But “he came 
+back strong and, of course, he graduated in ‘91 at 71st 
+High School.” (J.A. at 132.) 
+
+
+Another person who “saw a lot of potentials in 
+Lonnie” was Sergeant Major Bryant (retired from the 
+Army) who was a neighbor. Bryant came to know Lonnie 
+Weeks “after he had that traumatic moment with his 
+father . . . so I kind of took up on him.” (J.A. at 152.) 
+Bryant was hopeful about “the potentials I saw in Lonnie 
+going to college and his ambition for wanting to go to 
+college, | wanted him to make his decision, his mind up 
+which direction he wanted to go.” (J.A. at 152.) 
+
+
+Donny Dees also knew Lonnie Weeks well for over a 
+decade. Dees testified that “from 1979 to 1991, I served as 
+his Youth and Christian Education Director, and his soph- 
+omore, junior, and senior year in high school, I was his 
+Sunday School teacher” at the C and Adams Street 
+
+
+Church of God. (J.A. at 163.) Dees was also a counselor in 
+the Fayetteville public schools, and knew Mr. Weeks 
+“through church, and from church through school. .. . ” 
+(JJ.A. at 162.) According to Dees, “[y]ou could almost 
+count on [Mr. Weeks] being [in church] every Sunday.” 
+(J.-A. at 163.) Mr. Weeks “would participate in [Sunday 
+School] class” and was “sensitive from the standpoint, a 
+lot of times in class he would weep and cry over - from 
+the standpoint of - from the lesson.” (J.A. at 164.) Dees 
+encouraged Mr. Weeks to go to college. (J.A. at 163.) 
+Upon Mr. Weeks’ graduation, Dees moved to a new 
+church and did not see Mr. Weeks anymore. (J.A. at 164.) 
+
+
+2. A Support System is Dismantled 
+
+
+Mr. Weeks’ grandmother, school, and church had 
+insulated him from his “horrible” neighborhood.' After a 
+very short period of time he found himself without this 
+support system in an environment that presented unfa- 
+miliar problems and bad temptations. He did not do well 
+on his own. 
+
+
+First, Mr. Weeks moved out of his grandmother's 
+house and in with his girlfriend. (J.A. at 170.) According 
+to Mr. Weeks’ grandmother, “she came up :vith this baby 
+after Lonnie graduated from high school and said that it 
+
+
+' Mr. Weeks testified that, before he graduated, “I really 
+couldn't have gotten in trouble because I was so busy with 
+basketball during the school time and, in the summertime, I was 
+at basketball camp, and I was going to church and my life just 
+felt like it was right. The trouble was ~ I wasn’t around anyone 
+who really got into trouble - I just wasn’t around any trouble.” 
+(J.A. at 126.) 
+
+
+was Lonnie’s baby, and that’s all I knew, and Lonnie 
+accepted the baby as his baby.” (J.A. at 174.) 
+
+
+Second, Mr. Weeks graduated from high school and 
+did not continue on to college. Sergeant Major Bryant 
+explained that Mr. Weeks did not go to college because of 
+his girlfriend’s baby. “He was a kid that was from a 
+broken home, and I guess he didn’t want to see that 
+happen to his kid.” (J.A. at 153.) Mr. Weeks testified that 
+he did not take advantage of his college athletic scholar- 
+ships because “I was involved with a young lady . . . and 
+she was pregnant and .. . I didn’t want to leave her by 
+herself.” (J.A. at 109.) “My grandmother was encouraging 
+me to go to college . . . [bJut, at the time, I was thinking 
+that I was doing the right thing by being by her side and 
+waiting to go to college later.” (J.A. at 109.) 
+
+
+Third, Mr. Weeks stopped going to church. (J.A. at 
+110.) He was well known as a superb athlete and people 
+wanted to talk to him about that, but 
+
+
+I was depressed about my life because every- 
+where I went, strangers [sic] that I knew, they 
+always say, “Why you not in college? What are 
+you doing?” . . . My family and friends, they 
+used to just always tell me that I need to go to 
+college, and I became very depressed. I felt like I 
+let everybody down; and that I was depressed, | 
+guess I really didn’t try to focus on being back 
+with the Lord, so I can get my life back right. 
+
+
+(J.A. at 127.) 
+
+
+Mr. Weeks worked a series of menial jobs, but never 
+earned enough money even to have a car. (J.A. at 111-12.) 
+Other young men in the neighborhood appeared to make 
+a lot of money selling drugs, (J.A. at 114), and Mr. Weeks 
+
+
+finally started hanging out with this “bad medicine.” 
+(J.A. at 153) (Sergeant Major Bryant's testimony); see also 
+(J.A. at 150) (“wrong crowd”) (Juaneza Vivian, another 
+neighbor.) Mr. Weeks testified that “[w]le was kind of 
+struggling, so I thought I'd just take the easy way out.” 
+(J.A. at 113.) He started selling marijuana with several 
+other persons, all of whom had criminal records. (J.A. at 
+90-91.) Mr. Weeks was arrested, pleaded guilty, and 
+received a three year sentence, suspended, and five years 
+probation. (J.A. at 113.) It was his first offense. (J.A. at 
+93.) 
+
+
+3. Events Preceding the Murder of Trooper Cavazos 
+
+
+The series of events that culminated in Trooper Cav- 
+azos’ murder began with a suggestion by Luther J. Wad- 
+dell. Luther J. Waddell went to high school with Lonnie 
+Weeks but graduated first and started serving prison 
+sentences. (J.A. at 73.) After he got out of prison in 1992, 
+he lived in Mr. Weeks’ neighborhood, and they became 
+associates. (J.A. at 73.) 
+
+
+They sold marijuana together.? Another drug seller in 
+the neighborhood (Dutlow) did not want them selling 
+
+
+? The state contended that Mr. Weeks was also selling crack 
+cocaine, but the police found none when he was arrested for his 
+first offense. (J.A. at 92.) Mr. Weeks testified that he wanted to 
+sell cocaine, but that he never could get enough money together 
+to do so. (J.A. at 114.) Luther J. Waddell testified that he sold 
+cocaine, and suggested that Mr. Weeks did also, (J.A. at 78), but 
+Mr. Weeks testified that Waddell was lying. (J.A. at 182.) 
+Waddell was in prison at the time of his testimony. (J.A. at 
+72-73.) 
+
+
+there so he hit Mr. Weeks in the head with a pistol and 
+threatened to kill him - “[h]e kept saying he was going to 
+kill me if he saw me or kill Luther if he saw him.” (J.A. at 
+116, 77.) Mr. Weeks had agreed to “hold” a pistol for a 
+friend,5 and “once the threats [from Dutlow] started get- 
+ting worse, I felt that I had to have it.” (J.A. at 114, 116.) 
+
+
+Luther learned that a neighborhood house was going 
+to be unoccupied because the occupant was in jail. (J.A. at 
+74.) Luther planned to burglarize the house, and asked 
+Mr. Weeks to go with him. (J.A. at 117.) Mr. Weeks talked 
+with his girlfriend about it, and she said, “ ‘[T]hat’s not 
+you. Don’t go.’ ” (J.A. at 117.) As Mr. Weeks testified, “I 
+didn’t - you know, I didn’t break into houses or think 
+about doing things like that, I guess, until — until Luther 
+came along. I started hanging out with him, I'd say, about 
+two months —- two months. . . . I kind of felt like my life 
+was going down the drain. I missed opportunities that I 
+had. I was having really some problems.” (J.A. at 126-27.) 
+“But,” Mr. Weeks testified, “I was being more and more 
+tempted by Luther, you know, to get some money.” (J.A. 
+at 117.) They went to the house in Luther’s girlfriend's 
+truck. (J.A. at 74.) They broke in and took electronic 
+equipment. (J.A. at 75.) Mr. Weeks found car keys; the 
+keys fit a car outside, and Mr. Weeks took it. (J.A. at 76.) 
+
+
+Mr. Weeks said he took the car because “right then 
+that moment I was kind of excited to have — to be able to 
+have a car that maybe I could drive that I never had.” 
+
+
+3 The friend asked Mr. Weeks to keep the pistol for a while 
+because it had been used in a shooting. (J.A. at 114.) Mr. Weeks 
+agreed to help his friend out, and he took the pistol and hid it 
+under the house where he stayed. (J.A. at 116.) 
+
+
+(J.A. at 118.) He decided to drive the car to visit some 
+family members the next day in Washington, D.C. (J.A. at 
+118.) His cousin, Eric Baker, went with him as far as 
+Richmond, Virginia, and then Mr. Weeks went on to 
+Washington, D.C. (J.A. at 119.) 
+
+
+Mr. Weeks stayed several days, and then Baker tele- 
+phoned him and asked him to drive down to Richmond 
+to pick him up. (J.A. at 119-20.) Mr. Weeks protested 
+because of the late hour but ultimately agreed. (J.A. at 
+120.) Mr. Weeks was going to go alone, but his uncle, 
+Louis Dukes, said “it was kind of late and you need 
+somebody with you.” (J.A. at 120-21.) They agreed that 
+Dukes would drive on the way to Richmond, and Mr. 
+Weeks would drive on the way back. (J.A. at 120.) 
+
+
+4. The Murder of Trooper Cavazos 
+
+
+Mr. Weeks testified that Dukes was speeding on the 
+interstate on the way to Richmond. (J.A. at 121.) A police 
+car came up behind them, and Dukes pulled over near 
+the ramp to Dale City, on or near an overpass or bridge. 
+(J.A. at 121.) Mr. Weeks was very nervous because he was 
+on probation, and because the car was stolen. (J.A. at 
+121.) The officer told Dukes to step out of the car, and he 
+did. Mr. Weeks was told to step out, and he looked down 
+and saw the pistol his friend had asked him to hold. (J.A. 
+at 122.) He intended to grab it and throw it over the rail 
+of the bridge as he got out of the front seat. (J.A. at 122.) 
+
+
+Mr. Weeks explained as best he could what happened” 
+next: 
+
+
+10 
+
+
+[M]Jaybe a Christian or a person who believes in 
+God and the devil will understand what I’m 
+about to say. And, as I stepped out of the car, it 
+was just like something had just took over me 
+that I couldn’t understand. It was like some- 
+thing — I felt like something — the best way I can 
+describe it is like something — I can’t say some- 
+thing. I knew what it - well, to me, I felt like it 
+was evil - evil spirit or something. That's how I 
+feel. That’s the best way to describe it. 
+
+
+In my body, I just - I mean, I couldn't hear 
+nothing, and I just remember afterwards, not at 
+the time, that I started firing the gun. And, once 
+it stopped, I remember my ears popping. My 
+hand came back and it was like something just 
+left me, like left me just standing there, and I 
+couldn't —- I was standing there looking at the 
+trooper, and | was just in a daze, couldn't 
+believe what just happened. 
+
+
+I didn’t want to believe what just happened, but 
+I knew that I had done it, because it just was in 
+my hand. But I still couldn’t believe it, so 1 was 
+standing there, and I looked at my uncle, and he 
+almost looked, maybe as a ghost or something. 
+
+
+He had a lot of fear in his face, and I guess he 
+figured - I mean, he knowed [sic] that I had 
+never even attempted to do anything violent 
+before... . 
+
+
+(J.A. at 122-23.) Dukes came around to the passenger side 
+of the car and told Mr. Weeks to get in. “I still couldn't 
+move and he had to push me.” (J.A. at 124.) They drove 
+away, and then Mr. Weeks ran back to the scene. Emer- 
+gency personnel were there: “I wanted to say something, 
+but I was just too scared to; I couldn’t. I know the good in 
+
+
+11 
+
+
+me wanted to, but I guess the bad in me just wouldn't let 
+me.” (J.A. at 124-25.)* 
+
+
+5. Responsibility and Remorse 
+Mr. Weeks testified further in mitigation: 
+
+
+¢ “lL apologize for what I have done. | feel that 
+I took an innocent ™:an’s life.” (J.A. at 127.) 
+
+
+e “I also know that what I have done, it was 
+very — it’s very wrong, is hurting, because | 
+know what it feels like to lose somebody that 
+you love.” Id. 
+
+
+e “I've hurt my own family, as well as his 
+family. Sometimes | actually feel like I can’t 
+live with myself, but that, now that I'm back 
+with the Lord, He give me the strength.” 
+
+
+(J.A. at 128.) 
+
+e “I pray for my family and his family every 
+night.” Id. 
+
+e “I fcel very ashamed and low... . Hearing 
+
+
+those things [the victim's qualities, and the 
+pain caused], every time I hear someone talk 
+about Mr. Cavazos, I begin to cry because it 
+hurts me. It hurts me so bad into my heart 
+
+
+* Mr. Weeks’ family members and friends expressed 
+shocked disbelief when they learned that he had committed this 
+crime. (J.A. at 147 (“shocked . . . really shocked”); 165 (“I 
+couldn't believe it. . . . | thought she had the wrong person”); 
+147-48 (“[I}t was just totally out of character for Lonnie .. . | was 
+just horrified, to tell you the truth.”); 172 (“I couldn't believe 
+this was Lonnie... . “)) 
+
+
+12 
+
+
+that sometimes I actually feel like I could die 
+from that pain.” (J.A. at 128.)° 
+
+
+e “I guess I felt like I didn’t need [the Lord] 
+any more, and so, to myself I say, well, I'm 
+paying for —- by my turning my back on Him, 
+I obviously have an indecent mind.” (J.A. at 
+125.) 
+
+
+B. The Jurors’ Question - What Is Their “Duty”? 
+
+
+Before voir dire, defense counsel sought permission to 
+ask the jurors Proposed Juror Question 13, which was: 
+“Do you promise to seek further instructions from the 
+judge if you do not fully understand the meaning of any of 
+the instructions he gives you?” (J.A. at 10, 13.) (emphasis 
+added). Counsel also asked permission to ask the jurors 
+Proposed Juror Question 14, which was: “Do you promise 
+to seek further instruction from the judge if there is a 
+disagreement among jurors as to the meaning of any of the 
+instructions the judge gives you?” (J.A. at 10, 14.) 
+
+
+° This testimony was in response to a question by defense 
+counsel regarding how it made Mr. Weeks feel to hear the 
+Commonwealth's evidence in aggravation which had focused 
+on the victim’s good traits, and the impact of his death on his 
+colleagues and family. (J.A. at 102-03) (widow describing 
+family’s anguish and psychological effects); (J.A. at 94) (fellow 
+officer testifies the victim was “very highly regarded and 
+revered”); (J.A. at 100) (victim was “very kind person”); (J.A. at 
+97-99) (first officer on the scene suffers psychologically); (J.A. at 
+98) (officers experienced “[p]anic, disbelief, anger, 
+helplessness,” and “you sort of question your faith in people.”); 
+(J.A. at 95) (at police meeting after the victim's death an officer 
+had “never seen the outpouring of grief, sorrow and hurt that | 
+saw at [that] meeting.”). 
+
+
+13 
+
+
+(emphasis added). The judge allowed Question 13, but 
+not Question 14, finding that “thirteen covers it.” (J.A. at 
+15.) According to the judge, “if they understand, there's 
+not going to be any disagreement. If you have disagreement, 
+that means they’re not going to understand.” Id. (emphasis 
+added). All the jurors were asked the “if you do not fully 
+understand” question. (See, e.g., J.A. at 24-25, 31, 40, 46, 
+54, 62.) The judge concluded that this instruction “cov- 
+ers” situations of jury disagreement or confusion and that 
+“if they have a problem with an instruction, we've told 
+them to come for further instructions.” (J.A. at 15.) 
+
+
+The following pattern instruction, referenced as 
+“Instruction No. 2,” was given to the jury, orally and in 
+writing, at sentencing: 
+
+
+You have convicted the defendant of an offense 
+which may be punished by death. You must 
+decide whether the defendant shall be sentenced 
+to death or imprisonment for life and a fine of a 
+specific amount, but not more than $100,000.00. 
+Before the penalty can be fixed at death, the 
+Commonwealth must prove beyond a reason- 
+able doubt at least one of the following two 
+alternatives: 
+
+
+1. That, after consideration of his history 
+and background, there is a probability that 
+he would commit criminal acts of violence 
+that would constitute a continuing serious 
+threat to society; or 
+
+
+2. That his conduct in committing the 
+offense was outrageously or wantonly vile, 
+horrible, or inhuman, in that it involved 
+depravity of mind or aggravated battery to 
+
+
+14 
+
+
+the victim beyond the minimum necessary 
+to accomplish the act of murder. 
+
+
+If you find from the evidence that the Common- 
+wealth has proved beyond a reasonable doubt 
+either of the two alternatives, and as to that 
+alternative you are unanimous, then you may 
+fix the punishment of the defendant at death or 
+if you believe from all the evidence that the 
+death penalty is not justified, then you shall fix 
+the punishment of the defendant at life 
+imprisonment or imprisonment for live [sic] and 
+a fine of a specific amount, but not more than 
+$100,000.00. 
+
+
+If the Commonwealth has failed to prove 
+beyond a reasonable doubt at least one of the 
+alternatives, then you shall fix the punishment 
+of the defendant at life imprisonment or 
+imprisonment for live [sic] and a fine of a speci- 
+fic amount, but not more than $100,000.00. 
+
+
+(J.A. at 192-93, 199-200.) Before this instruction was given, 
+and during a charge conference, defense counsel argued 
+that this pattern instruction was not sufficient. 
+
+
+Counsel argued that “the jury has to be instructed 
+that .. . even if they find the aggravating factors beyond a 
+reasonable doubt, that they have to be instructed that 
+they can still give effect to the evidence in mitigation by 
+sentencing the defendant to life, as opposed to death.” 
+(J.A. at 178.) Counsel then referred to the “finding forms” 
+(forms the jurors have to fill out at sentencing) and noted 
+that “[t}here is no finding form for finding either one or 
+both of the aggravating factors beyond a reasonable 
+doubt, and still sentencing the Defendant to life in 
+
+
+15 
+
+
+prison.” (J.A. at 179.)® “[W]Je would ask that Your Honor 
+instruct the jury that even if they find one or both [aggra- 
+vating circumstances] that they still may impose a life 
+sentence[.}” (J.A. at 223.) Counsel commented that: “[I]t is 
+not clear to the jury that, if they find beyond a reasonable 
+doubt that the aggravating factors have been proved, that 
+they can still chose [sic] to sentence the Defendant to life 
+in prison{.]” (J.A. at 179.) Weeks’ attorney asked the court 
+to instruct the jurors in such a way as to inform them that 
+“even though they find whatever aggravating factors 
+there are beyond a reasonable doubt, they can still sen- 
+tence the defendant to life in prison.” (J.A. at 180.) 
+
+
+The trial court concluded that the second paragraph 
+in the pattern instruction “covers what you've [counsel] 
+argued . . . and that it does let them know that they can 
+sentence someone to life. . . . That is the model jury 
+instruction. I certainly think it accomplishes what the 
+federal law requires.” (J.A. at 181.) The jurors were given 
+a written copy of the instructions as well as the verdict 
+finding forms to take into the jury room with them, and 
+they retired.” (J.A. at 188, 219.) Eighty minutes later, the 
+jurors sent out a written question asking whether a sen- 
+tence of life imprisonment would include the possibility 
+
+
+* The following day the trial judge asked counsel to 
+examine the proposed verdict forms, and counsel renewed their 
+objection to them: the jury “forms do not expressly provide for a 
+sentence of life imprisonment, upon finding beyond a 
+reasonable doubt, on one or both of the aggravating factors.” 
+(J.A. at 185-86.) 
+
+
+”? All of the verdict forms provided to the jury at sentencing 
+are included in the Joint Appendix (J.A. at 196-198.) 
+
+
+Fn ee 
+
+
+16 
+
+
+of parole (J.A. at 217, 219.) The trial court refused to 
+answer this question, instead advising the jury that it 
+should “impose such punishment as you feel is just under 
+the evidence, and within the instructions of the Court. 
+You are not to concern yourselves with what may happen 
+afterwards.” (J.A. at 219.) The jury returned to its deliber- 
+ations. 
+
+
+After almost three more hours of deliberat‘on, the 
+jury sent out a second written question: 
+
+
+If we believe that Lonnie Weeks, Jr. is guilty of 
+at least 1 of the alternatives, then is it our duty 
+as a jury to issue the death penalty? or must we 
+decide (even though he is guilty of 1 of the 
+alternatives) whether or not to issue the death 
+penalty, or one of the life sentences? What is the 
+rule? Please clarify. ; 
+
+
+(J.A. at 217, 222) (emphases in original.) 
+
+
+. Defense counsel “ask[ed] that Your Honor instruct 
+the jury that even if they find one or both of the mitigat- 
+ing factors - I'm sorry, the factors that have been proved 
+beyond a reasonable doubt, that they still may impose a 
+life sentence, or a life sentence plus a fine.” (J.A. at 223.) 
+The trial court denied this request. Instead, the trial judge 
+wrote on the bottom of the jury’s inquiry: “See second 
+paragraph of Instruction #2, (Beginning with ‘If you find 
+from... ‘).”8 (J.A. at 217, 223.) The jury then returned to 
+its deliberations. 
+
+
+A little over two hours later, the jury fixed Lonnie 
+Weeks’ sentence at death based on the sole aggravating 
+
+
+* Instruction No. 2 is reprinted in full at pp. 13-14, supra. 
+
+
+17 
+
+
+factor that the crime was outrageously or wantonly vile, 
+horrible or inhuman. (J.A. at 225, 228.) The transcript 
+records that “a majority of the jury members [were] in 
+tears” as they delivered their sentence. (J.A. at 225.) 
+
+
+C. The Direct Appeal 
+
+
+Mr. Weeks asserted on direct appeal that his rights 
+under the Eighth and Fourteenth Amendments were vio- 
+lated by the trial court’s refusal to clarify the capital 
+sentencing instruction after the court received a specific 
+jury request to decipher the rule of law. (J.A. at 238, 
+245-46.) The Virginia Supreme Court summarily rejected 
+this claim. Weeks v. Commonwealth, 450 S.E.2d at 383 (“no 
+merit”); id. at 390 (“In conclusion, defendant raises a 
+number of miscellaneous issues dealing with evidence, 
+jury instructions, and inquiries by the jury during its delib- 
+erations. We have considered all the arguments in support 
+of those issues and conclude that none has any merit.” 
+(emphasis added)).* This Court denied certiorari. Weeks v. 
+Virginia, 516 U.S. 829 (1995). 
+
+
+* See Weeks v. Angelone, 176 F.3d at 259 (“The Supreme 
+Court of Virginia therefore adjudicated assigned error no. 44 on 
+the merits, allowing us to review this claim in a federal habeas 
+proceeding.”) (J.A. at 341); and Weeks v. Angelone, 4 F. Supp.2d at 
+536. Given the perfunctory manner in which the Virginia 
+Supreme Court denied Mr. Weeks’ claim, de novo review is 
+appropriate in federal habeas corpus proceedings. See Cardwell 
+v. Greene, 152 F.3d 331, 339 (4th Cir. 1998), cert. denied, 119 S. Ct. 
+587 (1998) (When state court provides “perfunctory decision” 
+and fails to “articulate any rationale” for rejecting claim, federal 
+habeas corpus court “must independently ascertain whether the 
+record reveals a violation of [federal law].”) 
+
+
+18 
+
+
+D. The Federal Habeas Corpus Proceedings Below 
+
+
+After exhausting state remedies, Mr. Weeks filed a 
+federal habeas petition alleging, inter alia, that the trial 
+court had violated the Eighth and Fourteenth Amend- 
+ments by not ensuring that the jurors understood their 
+duty to consider and give effect to evidence in mitigation. 
+The court of appeals affirmed the district court’s rejection 
+of this claim, relying upon this Court’s holdings and 
+analyses in Buchanan v. Angelone, 522 U.S. 269, 118 S. Ct. 
+757 (1998), and Boyde v. California, 494 U.S. 370 (1990). 
+Because this Court had found in the Buchanan case that 
+the Virginia pattern instruction was unambiguous on its 
+face, the Fourth Circuit reasoned that “no reasonable 
+juror would have understood the sentencing instruction 
+to preclude the consideration of mitigating evidence even 
+upon a finding of an aggravating factor.” (J.A. at 345.) 
+The Fourth Circuit observed that Mr. Weeks, like 
+Buchanan, had presented evidence about his background 
+and character and concluded that for this reason the jury 
+must have known that it was required to consider this 
+evidence after concluding that Mr. Weeks was eligible for 
+death. “ ‘[W]Je think it unlikely that reasonable jurors 
+would believe the court's instructions transformed all of 
+this favorable testimony into a virtual charade.’ ” (J.A. at 
+345) (quoting Boyde, 494 U.S. at 383.) And the court of 
+appeals further observed that Mr. Weeks’ jurors, like 
+Buchanan's, had filled out a pre-printed verdict form 
+reciting that they sentenced Mr. Weeks to death after 
+considering mitigating evidence. (J.A. at 345.) 
+
+
+¢ 
+
+
+19 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+Lonnie Weeks was not sentenced to death by a hypo- 
+thetical jury. He was sentenced to death by twelve real 
+people in Virginia. His case is not controlled by what the 
+Fourth Circuit thinks a hypothetical jury would have 
+understood, or what it thinks Mr. Weeks’ jury should have 
+understood, after hearing the evidence and receiving the 
+judge’s instructions. After they heard the evidence and 
+received the instructions, both orally and in writing”, 
+these jurors asked a question in which they posited two 
+alternative understandings of their duty under the law, 
+one of which flatly violated the most basic principles of 
+Lockett v. Ohio, 438 U.S. 586 (1978), and Eddings v. Okla- 
+homa, 455 U.S. 104 (1982), and they asked the judge which 
+understanding was correct. 
+
+
+Despite having heard Virginia’s facially constitu- 
+tional pattern jury instruction and the presentation of 
+mitigating evidence, these twelve people failed to under- 
+stand that the finding of an aggravating factor did not 
+impose a “duty” to “issue” a death sentence and did not 
+preclude their consideration of mitigating evidence. If 
+they had correctly understood that they could consider 
+mitigating evidence in determining the sentence, they 
+would not have asked the question at all. 
+
+
+The jurors asked specifically - yes or no — whether 
+they had a duty to impose a death sentence based on 
+aggravation alone. They were denied the clarification that 
+
+
+10 The complete sentencing instruction was only one page. 
+(J.A. at 192-93.) It is not as though the portion at issue was 
+buried in a long document. 
+
+
+20 
+
+
+they sought and the easy, straightforward answer that 
+their question called for. Instead, they were told to re- 
+read the instructions they had failed to fathom. 
+
+
+“Presentation of mitigating evidence alone, of course, 
+does not guarantee that a jury will feel entitled to con- 
+sider that evidence.” Boyde, 494 U.S. at 384. On this 
+record, where the jurors’ question to the court revealed 
+that they did not “feel entitled to consider that evidence” 
+without further confirmation by the judge, and where 
+they were refused such confirmation, it will not do to say 
+that, as a matter of law, the instructions really were 
+unmistakably clear all along. To do so is to tolerate a 
+constitutionally unacceptable risk that the mitigation evi- 
+dence presented on Mr. Weeks’ behalf was not “within 
+‘the effective reach of the sentencer.’” Johnson v. Texas, 
+509 U.S. 350, 367 (1993). Only a new sentencing hearing 
+for Mr. Weeks can allay that risk. 
+
+
+° 
+
+
+ARGUMENT 
+
+
+This Court has repeated time and again that the 
+“qualitative difference” between a death sentence and 
+lesser sentences, together with “the fundamental respect 
+for humanity underlying the Eighth Amendment,” 
+imposes a heightened “need for reliability in the deter- 
+mination that death is the appropriate punishment in a 
+specific case.” Woodson v. North Carolina, 428 U.S. 280, 
+304-05 (1976); see also Beck v. Alabama, 447 U.S. 625, 637-38 
+(1980); Johnson v. M'ssissippi, 486 U.S. 578, 584-85 (1988). 
+Such a determination must take account both of the 
+nature of the crime and of the nature of the defendant - 
+
+
+21 
+
+
+of “the possibility of compassionate or mitigating factors 
+stemming from the diverse frailties of humankind.” 
+Woodson, 428 U.S. at 304. 
+
+
+As a corollary principle, the Eighth Amendment 
+“ ‘requires consideration of the character and record of 
+the individual offender and the circumstances of the par- 
+ticular offense as a constitutionally indispensable part of 
+the process of inflicting the penalty of death.’ ” Lockett, 
+438 U.S. at 604 (quoting Woodson, 428 U.S. at 304); see also, 
+e.g., Penry v. Lynaugh, 492 U.S. 302, 328 (1989) (citations 
+omitted) (“[F]Jull consideration of evidence that mitigates 
+against the death penalty is essential if the jury is to give 
+a ‘reasoned moral response to the defendant’s back- 
+ground, character, and crime.’ ”); California v. Brown, 479 
+U.S. 538, 541 (1987) (“constitutionally indispensable”). 
+Failure to consider the mitigating circumstances of a capi- 
+tal offender’s individual case creates the “risk that the 
+death penalty will be imposed in spite of factors which 
+may call for a less severe penalty,” a risk that is “unac- 
+ceptable and incompatible with the commands of the 
+Eighth and Fourteenth Amendments.” Lockett, 438 U.S. at 
+605. 
+
+
+Consequently - and again the Court has repeatedly 
+held - capital sentencers cannot be precluded from con- 
+sidering relevant mitigating evidence, e.g., Mills v. Mary- 
+land, 486 U.S. 367, 374-375 (1988); McKoy v. North Carolina, 
+494 U.S. 433, 438 (1990), and cannot refuse to consider 
+such evidence in the belief that they are precluded from 
+doing so, Eddings, 455 U.S. at 114-15. No Eighth Amend- 
+ment principle is more firmly established than this one. 
+See, e.g., Buchanan, 118 S. Ct. at 761 (“[T]he sentencer 
+
+. may not refuse to consider [] any constitutionally 
+
+
+22 
+
+
+relevant mitigating evidence.”); Harris v. Alabama, 513 
+U.S. 504, 511 (1995) (“Consistent with established consti- 
+tutional law, Alabama has chosen to guide the sentencing 
+decision by requiring the jury and judge to weigh aggra- 
+vating and mitigating circumstances.”); Morgan v. Illinois, 
+504 U.S. 719, 736-37 (1992) (Illinois law requiring the 
+sentencer to consider all relevant mitigating evidence is 
+“consistent with the requirements concerning mitigating 
+evidence described in this Court's cases.”); Parker v. Dug- 
+ger, 498 U.S. 308, 315 (1991) (“Under both federal and 
+Florida law, the trial judge could not refuse to consider 
+any mitigating evidence.”); Saffle v. Parks, 494 U.S. 484, 
+489 (1990) (citation omitted) (“ ‘neither may the sentencer 
+refuse to consider, as a matter of law, any relevant mit- 
+igating evidence’ ”); Burger v. Kemp, 483 U.S. 776, 789 n.7 
+(1987) (“We have no doubt that this potential testimony 
+would have been relevant mitigating evidence that the 
+sentencer could not have refused to consider”); Hitchcock 
+v. Dugger, 481 U.S. 393, 394 (1987) (citation omitted) (“We 
+have held that in capital cases, ‘the sentencer may 
+not refuse to consider . . . any relevant mitigating evi- 
+dence.’ ”); Skipper v. South Carolina, 476 U.S. 1, 4 (1986) 
+(citation omitted) (“Equally clear is the corollary rule that 
+the sentencer may not refuse to consider . . . ‘any relevant 
+mitigating evidence.’ ”); Eddings, 455 U.S. at 113-114 
+(“Just as the State may not by statute preclude the sen- 
+tencer from considering any mitigating factor, neither 
+may the sentencer refuse to consider, as a matter of law, 
+any relevant mitigating evidence. . . . [Sentencers] deter- 
+mine the weight to be given relevant mitigating evidence. 
+But they may not give it no weight by excluding such 
+evidence from their consideration.”) 
+
+
+—— - — 
+
+
+— 
+
+
+23 
+
+
+For this reason this Court has repeatedly reversed 
+death sentences imposed on a record that created genuine 
+doubt that the sentencer had understood its right and 
+responsibility to consider mitigating circumstances as 
+well as aggravating ones. Eddings; Hitchcock; Parker; see 
+also Clemons v. Mississippi, 494 U.S. 738, 752 (1990) (vacat- 
+ing the affirmance of Clemons’ death sentence and 
+explaining that “because the Mississippi Supreme Court's 
+opinion is virtually silent with respect to the particulars 
+of the allegedly mitigating evidence presented . . . to the 
+jury, we cannot be sure that the court fully heeded our 
+cases emphasizing the importance of the sentencer’s con- 
+sideration of a defendant's mitigating evidence”). “Wood- 
+son and Lockett require us to remove any legitimate basis 
+for finding ambiguity,” Eddings, 455 U.S. at 119 (O’Con- 
+nor, J., concurring), as to whether a sentencer understood 
+its duty to “consider[,] and [its ability to] give effect to” 
+such mitigating evidence. Penry, 492 U.S. at 319. If there 
+is a “reasonable likelihood” that a capital sentencer 
+applied “the challenged instructions in a way that pre- 
+vent[ed] the consideration of constitutionally relevant 
+[i.e, mitigating] evidence,” Boyde, 494 U.S. at 380, then the 
+Eighth and Fourteenth Amendments are violated. See Cal- 
+
+
+-deron v. Coleman, 525 U.S. 141 (1998); see also Estelle v. 
+
+
+McGuire, 502 U.S. 62, 74-75 (1991); Mills, 486 U.S. at 
+374-375; Hitchcock, 481 U.S. at 398-399. 
+
+
+The jurors in Mr. Weeks’ case candidly advised the 
+trial court that they were confused as to whether, if they 
+found aggravation, they were duty-bound to impose a 
+death sentence without considering mitigation or, on the 
+other hand, were then supposed to consider mitigation. 
+This was a jury that had been specifically told to request 
+
+
+24 
+
+
+further instruction from the judge if it did not fully 
+understand the meaning of any of the instructions that it 
+had been given. (J.A. at 24-25, 31, 40, 46, 54, 62.) After 
+deliberating on the sentence for several hours, the jurors 
+asked: 
+
+
+If we believe that Lonnie Weeks, Jr. is guilty of 
+at least 1 of the alternatives, then is it our duty 
+as a jury to issue the death penalty? or must we 
+decide (even though he is guilty of 1 of the 
+alternatives) whether or not to issue the death 
+penalty, or one of the life sentences? What is the 
+rule? Please clarify. 
+
+
+(J.A. at 217) (emphases in original.) Unmistakably, then, 
+the jurors (or at least some of them) believed — despite the 
+instructions they had received and which were facially 
+sufficient under Buchanan — that they might have a duty to 
+disregard mitigation if the state proved aggravation. 
+
+
+Of course, as Buchanan plainly recognized, there is no 
+“duty as a jury to issue the death penalty” upon finding 
+aggravation. Under both Virginia law and the Eighth and 
+Fourteenth Amendments, the “duty as a jury” upon find- 
+ing aggravation is to consider mitigation. “Once the jury 
+finds that the defendant falls within the legislatively 
+defined category of persons eligible for the desth pen- 
+alty, . . . the jury then is free to consider a myriad of other 
+factors to determine whether or not death is the appropri- 
+ate punishment.” Barclay v. Florida, 463 U.S. 939, 950 
+(1983) (citing California v. Ramos, 463 U.S. 992, 1008 
+(1983).) 
+
+
+But Mr. Weeks’ jurors did not understand this, and so 
+they asked: “What is the rule? Please clarify.” Instead of 
+clarifying — a simple enough task, since the jury itself had 
+
+
+eee 
+
+
+25 
+
+
+posed its question in straightforward either/or terms - 
+the trial judge persisted in directing the jurors back to the 
+very same jury instruction which they had just reported 
+that they did not understand and which, under one of the 
+two alternative readings that they posed for the court's 
+resolution, unconstitutionally forbade them to consider 
+mitigation. Mr. Weeks’ jurors then retired to resume their 
+task and returned after two hours with a tear-filled pro- 
+nouncement of a sentence of death. 
+
+
+Under these circumstances, the very least that can be 
+said is that “there is a reasonable likelihood” (Estelle; 
+Boyde) that the sentencers did not consider the evidence 
+that was offered in mitigation.'' Given the jurors’ ques- 
+tion, and the court’s non-response, “[t]he possibility that 
+petitioner's jury conducted its task improperly certainly 
+is great enough to require re-sentencing.” Mills, 486 U.S. 
+at 384. The “reasonable likelihood” test of Boyde must 
+mean at least this much. If relief is required when jurors 
+are silent about their probably unconstitutional under- 
+standings, see Mills, 486 U.S. at 381 (relief granted despite 
+“no extrinsic evidence of what the jury .. . actually 
+thought”); Penry, 492 U.S. at 326 (“[A] reasonable juror 
+could well have believed [although none said so] that 
+there was no vehicle for expressing the view that Penry 
+did not deserve to be sentenced to death based upon his 
+mitigating evidence”), then, a fortiori, relief is required 
+when they say explicitly that they are entertaining an 
+
+
+'! The Virginia Supreme Court’s summary denial of relief 
+on this claim was contrary to the controlling Lockett and Boyde 
+veins of this Court’s “consideration of mitigation” 
+jurisprudence, and was unreasonable. See ncve 9 supra. 
+
+
+26 
+
+
+unconstitutional understanding and want to be advised 
+whether it is right or wrong.'2 
+
+
+The judge at Mr. Weeks’ trial was handed a simple 
+right-or-wrong question. What the question said was that 
+the sentencing jurors were harboring a misapprehension 
+of the governing law, which, if not corrected, would 
+produce an unconstitutional death-sentencing process. 
+What the question asked was easily answered. But the 
+judge refused to answer the question except by referring 
+the jurors to the original sentencing instructions which, 
+after hours of deliberation, they had found insufficient to 
+provide an answer. This was unjustifiable. “[W]henever 
+there is a reasonable likelihood that a juror will misun- 
+derstand a sentencing term [as here], a defendant may 
+demand instruction on its meaning [as here], and a death 
+sentence following the refusal of such a request should be 
+vacated as having been ‘arbi rarily or capriciously’ and 
+‘wantonly and . . . freakishly imposed.’ ” Simmons, 512 
+U.S. at 172-73 (Souter, J., concurring) (citation omitted). 
+And when a jury “makes explicit its difficulties [as here] 
+
+
+12 Cf. Simmons v. South Carolina, 512 U.S. 154, 170, n.10 
+(1994) (“It almost goes without saying that if the jury in this case 
+understood .. . the ‘plain meaning’ [of the terms in the 
+instruction], there would have been no reason for the jury to 
+inquire [as to their meaning)”); id. at 173 (Souter, J., concurring) 
+(“It is... clear that at least one of these particular jurors did not 
+understand the meaning of the term, since the jury sent a note to 
+the judge asking [the court to define the term].”); id. at 178 
+(O’Connor, J., concurring) (“[T]hat the jury in this case felt 
+compelled to ask” about the meaning of the terms in the 
+instruction “shows that the jurors did not know” what the terms 
+meant.). 
+
+
+I a te nt ele 
+
+
+27 
+
+
+a trial judge should clear them away with concrete accu- 
+racy.” Bollenbach v. United States, 326 U.S. 607, 612-13 
+(1946). Simply telling the jury to go back and read the 
+instruction again does not remove the “reasonable likeli- 
+hood that [Mr. Weeks’] jurors interpreted the trial court's 
+instructions to prevent consideration of mitigating evi- 
+dence of background and character.” Boyde, 494 U.S. at 
+381.8 
+
+
+The Fourth Circuit held otherwise because it appar- 
+ently believed that Buchanan had decreed a rule of des- 
+tiny about human understanding rather than a rule of law 
+about the facial sufficiency of Virginia’s pattern jury 
+instructions. In the Fourth Circuit's view, a Virginia capi- 
+tal sentencing jury cannot fail to comprehend - and there- 
+fore cannot unconstitutionally interpret — the instructions 
+
+
+3 Virginia asserted in its Brief in Opposition that Mr. 
+Weeks’ claim calls for this Court to establish a “new rule” under 
+“Teague and its progeny.” (Br. in Opp’n at 12.) The crux of this 
+Teague argument appears to be that because the instructions and 
+circumstances of Mr. Weeks’ trial were similar to those later 
+considered by this Court in Buchanan v. Angelone, 522 U.S. 269, 
+118 S.Ct. 757 (1998), only a “new rule” would entitle Mr. Weeks 
+to relief. But Mr. Weeks seeks only the obvious application of the 
+pedestrian rule that the sentencer in a capital trial may not deem 
+itself precluded from considering relevant mitigating evidence. 
+This Court’s approval of Virginia's pattern capital sentencing 
+instructions in Buchanan did not involve the situation in which 
+those instructions failed in a particular case to get across to the 
+jury that it has no “duty as a jury” to disregard mitigation if it 
+finds an aggravating factor. Compare Jurek v. Texas, 428 U.S. 262 
+(1976) (Texas statute constitutional) with Penry, 492 U.S. at 315 
+(claim that assurances of Lockett and Eddings were not fulfilled 
+under particular circumstances of Penry’s Texas case not a “new 
+rule” under Teague). 
+
+
+28 
+
+
+held facially acceptable in Buchanan, even when the jurors 
+confess their incomprehension. (J.A. at 345.) This “we 
+won't hear of it” approach blinks reality.’ 
+
+
+4 Other courts have been less unworldly. See United States 
+v. Nunez, 889 F.2d 1564, 1568-1569 (6th Cir. 1989) (abuse of 
+discretion to refer jurors back to instructions that had already 
+caused confusion); United States v. Zimmermann, 943 F.2d 1204, 
+1213-1214 (10th Cir. 1991) (plain error to fail to provide 
+additional instructions in response to jury’s questions). In 
+McDowell v. Calderon, 130 F.3d 833 (9th Cir. 1997) (en banc), cert. 
+denied, 118 S. Ct. 1575 (1998), the jury was given technically 
+flawless instructions regarding the process for determining 
+whether the defendant should be sentenced to death. During 
+the penalty phase deliberations, McDowell's jury sent out a note 
+revealing confusion and disagreement about whether it was 
+permitted to consider the mitigating evidence presented by the 
+defense. Id. at 835. McDowell’s trial court did not directly 
+answer the jurors’ questions; it merely referred the jurors back 
+to the original instructions. The en banc court in McDowell 
+acknowledged this Court’s consistent refusal to tolerate any 
+barrier to the sentencer’s consideration of mitigating evidence, 
+then concluded: 
+
+
+The jury’s mistake and confusion in the instant case 
+communicated to the judge in its note fit squarely 
+within the teaching of Lockett and Eddings. Although 
+the jurors had been properly instructed, the 
+understanding of eleven of them - shades of Eddings - 
+was “as if the trial judge had instructed [them] to 
+disregard the mitigating evidence [McDowell] 
+proffered on his behalf.” 
+
+
+Id. at 837 (citations omitted). Referring to the trial court’s 
+direction of the jurors back to the original instruction, the 
+McDowell court recognized that when a jury has failed to 
+understand the instructions in the first instance, “it would be 
+folly to presume ... that in the end they got it right and followed 
+the law.” Id. at 839. 
+
+
+29 
+
+
+Buchanan is about what should happen, not what will. 
+Buchanan is not the first time this Court has approved a 
+capital sentencing procedure as facially sufficient, then 
+has had to correct misapplications of the procedures. 
+Compare Gregg v. Georgia, 428 U.S. 153 (1976), with Godfrey 
+v. Georgia, 446 U.S. 420 (1980); compare Proffit v. Florida, 
+428 U.S. 242 (1976), with Parker, supra; and compare Jurek, 
+supra, with Penry, supra (see note 13 supra). The Court's 
+rule that controls Lonnie Weeks’ case in mitigation is not 
+Buchanan; it is that 
+
+
+{u}nder our decisions, it is not relevant whether 
+the barrier to the sentencer’s consideration of all 
+mitigating evidence is interposed by statute, 
+Lockett v. Ohio, supra; Hitchcock v. Dugger . . . ; by 
+the sentencing court, Eddings v. Oklahoma, supra; 
+or by an evidentiary ruling, Skipper v. South 
+Carolina, supra. . . . Whatever the cause . . . the 
+conclusion would necessarily be the same: 
+“Because the [sentencer’s] failure to consider all 
+of the mitigating evidence risks erroneous impo- 
+sition of the death sentence, in plain violation of 
+Lockett, it is our duty to remand this case for re- 
+sentencing.” Eddings v. Oklahoma, 455 U.S. at 117 
+(O’Connor, J., concurring). 
+
+
+Mills, 486 U.S. at 375 (emphasis added). 
+
+
+Whatever the cause, there is more than a reasonable 
+likelihood that Mr. Weeks’ jurors did not consider his 
+substantial evidence in mitigation. The lower court's duty 
+was to set aside his death sentence and permit re-sentenc- 
+ing. 
+
+
+30 
+
+
+CONCLUSION 
+
+
+This Court should reverse the decision of the court of 
+appeals and remand with directions to vacate Mr. 
+Weeks’s sentence of death. 
+
+
+Respectfully submitted, 
+
+
+Gien A. Hurr, Eso. 
+
+Timotny M. RicHarpson, Esa. 
+Counsel of Record 
+
+Hurr, Poote & Manoney, P.C. 
+4705 Columbus Street 
+Virginia Beach, VA 23462 
+(757) 499-1841 
+
+
+STERLING H. Weaver, Sr., Eso. 
+P.O. Box 545 
+
+Portsmouth, VA 23705 
+
+(757) 393-0237 
+
+
+Mark Evan Outve, Eso. 
+Law Orrices or 
+
+Mark kb. Ouive, P.A. 
+
+320 West Jefferson Street 
+Tallahassee, FL 32301 
+(850) 224-0004 
+
+
+Counsel for Petitioner 
+
+

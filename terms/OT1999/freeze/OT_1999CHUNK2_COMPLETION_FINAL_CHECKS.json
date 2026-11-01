@@ -1,0 +1,43 @@
+{
+  "baseline_files_checked": 522,
+  "preexisting_files_changed": [
+    "terms/OT1999/render-inputs/OT_1999CHUNK2.md",
+    "terms/OT1999/runtime/OT_1999CHUNK2_RECORD_ORDER.txt",
+    "terms/OT1999/runtime/OT_1999CHUNK2_STOPS.json",
+    "terms/OT1999/workspace/continuity.md",
+    "terms/OT1999/workspace/ledger.md",
+    "terms/OT1999/workspace/manifest.md",
+    "terms/OT1999/workspace/neutral-projection.md"
+  ],
+  "unrelated_preexisting_files_unchanged": 515,
+  "new_records": {
+    "fraternal-order-of-police-v-united-states_merits_2000-01-18.md": "2000-01-18",
+    "smith-v-robbins_merits_2000-01-19.md": "2000-01-19",
+    "richards-v-united-states_merits_2000-02-14.md": "2000-02-14"
+  },
+  "completed_term_court_events": 23,
+  "admitted_sources": 3,
+  "completed_chunk_2_events": 11,
+  "scheduled_inventory_rows": 104,
+  "pending": {
+    "Weeks v. Angelone": "No five-Justice mandate is supported: O'Connor, Scalia, Kennedy and Thomas affirm; Stevens, Souter, Ginsburg and Breyer would vacate and remand with section 2254(d)(1) eligibility and causal effect undecided and denial still available; Stone requires present sentence-only conditional relief. Stone has not authorized the alternative open remand or stated his responses to the newly established State fair-presentation/default and Teague defenses. Engine sections 4 and 8 prohibit narrowing his remedy, supplying those grounds, or combining incompatible mandate votes. The original January 19, 2000 slot remains open without an entered judgment or new Court action."
+  },
+  "counted_signed_leads": {
+    "Stone-Zsela": 1,
+    "Stevens": 2,
+    "O'Connor": 3,
+    "Scalia": 3,
+    "Kennedy": 2,
+    "Souter": 2,
+    "Thomas": 2,
+    "Ginsburg": 2,
+    "Breyer": 2
+  },
+  "public_projection_identity": "Passed by check_term.py; duplicate internal holdings also identical.",
+  "all_other_chunk_2_records_and_process_files": "Byte-identical except the seven named dependent projections/process files.",
+  "existing_output": "Byte-identical; Render is a separate task.",
+  "new_relative_links": "Resolve",
+  "forbidden_new_links": "None",
+  "term_check": "OK: OT1999; 0 warning(s)",
+  "git_commands": "None; commit-reference scan empty before checker invocation."
+}
