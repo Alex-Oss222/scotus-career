@@ -1,6 +1,6 @@
 # OT1999 Term Working Ledger
 
-Generated from canonical Records in the preserved durable handoff order, followed by this Run's recorded assembly sequence. Git history was not queried because the user prohibited all Git operations. Records control if this index conflicts with them.
+Generated from canonical Records using the preserved durable handoff order, followed by the Weeks assembly. Repository history was not queried; existing provenance is retained without reverification. Records control if this index conflicts with them.
 
 | Durable order | Effective date | Case and dockets | Event | Result | Version / lineage | Git history status | Record |
 |---:|---|---|---|---|---|---|---|
@@ -30,3 +30,4 @@ Generated from canonical Records in the preserved durable handoff order, followe
 | 24 | 2000-01-18 | Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; 173 F.3d 898 | Plenary merits decision, 2000-01-18; October Term 1999, chunk 2. | D.C. Circuit judgment affirmed on the preserved Commerce Clause and anti-commandeering grounds, 9–0. | Original decision. | Not queried: Git prohibited | [record](../records/fraternal-order-of-police-v-united-states_merits_2000-01-18.md) |
 | 25 | 2000-01-19 | Smith v. Robbins; No. 98-1037 | Plenary merits decision, 2000-01-19; October Term 1999, chunk 2. | Ninth Circuit judgment affirmed, 5–4; conditional adequate appellate consideration and remaining-claims remand preserved. | Original decision. | Not queried: Git prohibited | [record](../records/smith-v-robbins_merits_2000-01-19.md) |
 | 26 | 2000-02-14 | Richards v. United States; No. 99-731 | Plenary merits decision, 2000-02-14; October Term 1999, chunk 2. | Affirmed in part, reversed in part, and remanded: road-operation/equipment Feres dismissals reversed 5–4; permission/order dismissals affirmed 8–1. | Original decision. | Not queried: Git prohibited | [record](../records/richards-v-united-states_merits_2000-02-14.md) |
+| 27 | 2000-01-19 | Weeks v. Angelone; No. 99-5746. | Merits decision, 2000-01-19; October Term 1999; argued December 6, 1999. | Fourth Circuit judgment vacated as to the sentencing-response claim and remanded, 5–4; constitutional error established; statutory eligibility and causal effect remain for independent determination; no present writ or sentence vacatur. | Original decision. | Not checked; operator commit pending | [record](../records/weeks-v-angelone_merits_2000-01-19.md) |

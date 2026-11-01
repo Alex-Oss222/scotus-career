@@ -1,0 +1,3 @@
+Commit-reference existence check SKIPPED: all Git commands prohibited by the operator.
+OK: OT1999; 0 warning(s)
+Qualified non-Git checker exit: 0

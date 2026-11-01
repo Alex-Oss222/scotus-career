@@ -1,0 +1,94 @@
+{
+  "status": "PASS",
+  "scope": "Weeks only; existing 2000-01-19 event; no added inventory item",
+  "preexisting_files_checked": 596,
+  "modified_preexisting_files": [
+    "terms/OT1999/render-inputs/OT_1999CHUNK2.md",
+    "terms/OT1999/workspace/continuity.md",
+    "terms/OT1999/workspace/ledger.md",
+    "terms/OT1999/workspace/manifest.md",
+    "terms/OT1999/workspace/neutral-projection.md"
+  ],
+  "prior_records_and_process_files_byte_identical": true,
+  "output_files_unchanged": true,
+  "inventory_events": 104,
+  "completed_court_events": 24,
+  "completed_chunk2_events": 12,
+  "judgment": {
+    "supporting": [
+      "Breyer",
+      "Ginsburg",
+      "Souter",
+      "Stevens",
+      "Stone-Zsela"
+    ],
+    "opposing": [
+      "Kennedy",
+      "O'Connor",
+      "Scalia",
+      "Thomas"
+    ]
+  },
+  "lead_parts": [
+    {
+      "part": "Lead, Part I",
+      "count": 9,
+      "coalition": [
+        "Breyer",
+        "Ginsburg",
+        "Kennedy",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela",
+        "Thomas"
+      ]
+    },
+    {
+      "part": "Lead, Part II",
+      "count": 6,
+      "coalition": [
+        "Breyer",
+        "Ginsburg",
+        "O'Connor",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "part": "Lead, Part III",
+      "count": 5,
+      "coalition": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens",
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "part": "Lead, Part IV",
+      "count": 4,
+      "coalition": [
+        "Breyer",
+        "Ginsburg",
+        "Souter",
+        "Stevens"
+      ]
+    }
+  ],
+  "controlling_explanation_word_counts": [
+    217,
+    121,
+    118,
+    229
+  ],
+  "internal_holdings_public_holdings_identical": true,
+  "render_input_public_projections_identical": true,
+  "new_record_relative_links_and_anchors": "PASS",
+  "native_term_check": "PASS for all non-Git checks; commit-reference existence explicitly deferred",
+  "git_commands_run": 0,
+  "final_law_limitation": "No existing complete effect rule conclusively resolves this category; selection, burden and uncertainty allocation remain for lawful lower-court adjudication if statutory eligibility is met."
+}

@@ -1,9 +1,6 @@
 # OT_1999CHUNK2 Render Input
 
-**October Term:** 1999. **Completed events:** 11. **Chronological range:** 2000-01-12 through 2000-02-14.
-
-**Stopped matters:**
-- Weeks v. Angelone: Required decisions on the newly recovered fair-presentation/default and Teague defenses, and authorization of a compatible alternative mandate, remain outstanding. No supported five-Justice final mandate is established. The January 19, 2000 matter remains open without an entered judgment or new Court-ordered procedure.
+**October Term:** 1999. **Completed events:** 12. **Chronological range:** 2000-01-12 through 2000-02-14.
 
 <!-- source-record: adarand-constructors-v-slater_summary-merits_2000-01-12.md -->
 ## Event
@@ -585,6 +582,120 @@ The Ninth Circuit's lost-peremptory basis for relief is reversed. The conviction
 ## Source Notes
 
 The official report at [528 U.S. 304](https://www.govinfo.gov/content/pkg/USREPORTS-528/pdf/USREPORTS-528-304.pdf) supplies the docket, argument and decision dates, selection sequence, uncontested cause error and lower-court grounds. The published factual recitation is not an independently reproduced trial transcript. The [official Rule 24 compilation](https://www.govinfo.gov/content/pkg/USCODE-2000-title18/pdf/USCODE-2000-title18-app.pdf), with amendment history, documents the unchanged earlier subdivision (b) allotment and discretionary extra challenges; later alternate-retention provisions are not applied to this trial. [Ross, 487 U.S. 81](https://www.govinfo.gov/content/pkg/USREPORTS-487/pdf/USREPORTS-487-81.pdf), including its reservation, supplies the distinct impartiality and governing-law analysis.
+
+---
+
+<!-- source-record: weeks-v-angelone_merits_2000-01-19.md -->
+## Event
+
+Weeks v. Angelone, No. 99-5746. Merits decision, January 19, 2000; argued December 6, 1999. On writ of certiorari to the United States Court of Appeals for the Fourth Circuit, 176 F.3d 249, which affirmed denial of federal habeas relief. The question is whether the response to the capital jury's inquiry about life after an aggravator left a reasonable likelihood that the jury could not give mitigation its lawful effect. The federal application was filed February 7, 1997; the state merits adjudication occurred November 4, 1994. The conviction and separate expert-assistance claim are outside this review.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+## Public Action
+
+The Court vacates the Fourth Circuit judgment as to the sentencing-response claim and remands. The constitutional-error conclusion remains binding; the Court orders no present writ or sentence vacatur.
+
+## Judgment & Remedy
+
+**Vacated in the stated respect and remanded, 5–4.** Supporting: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Opposing: O'Connor, Scalia, Kennedy and Thomas, who would affirm on both the constitutional and independent statutory grounds.
+
+The denial of the sentencing-response claim is set aside, including the adverse constitutional and statutory determinations supporting it. On return, the constitutional error and rejection of the actual presentation, exhaustion, default and Teague defenses are fixed. The receiving court must independently determine whether §2254(d)(1) permits relief; it may deny relief if neither statutory alternative is met. If statutory relief is available, it must determine whole-record causal effect under the law applicable to this still-unsettled error category, resolving the governing standard, burden and treatment of uncertainty before deciding effect. No majority prescribes a new Chapman extension or a unified substantial-effect burden. The reservation neither rejects Chapman nor permits an arbitrary choice between standards. Stone agrees with this remand judgment while retaining his own conclusions that statutory eligibility and prejudicial effect are established.
+
+Only an available harmful violation can support conditional sentence relief allowing a reasonable prospective opportunity for constitutionally adequate sentencing or a lawful noncapital disposition. This judgment issues no writ, vacates no sentence, fixes no resentencing deadline, directs no evidentiary hearing and enters no stay or release order. Guilt and unrelated claims remain undisturbed.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment and scope |
+|---|---|---|---|
+| Lead, Part I | Breyer | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Opinion of the Court, nine: presentation/default and amended-statute applicability. |
+| Lead, Part II | Breyer | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg | Opinion of the Court, six: defined mitigation claim is not a new rule barred by Teague. |
+| Lead, Part III | Breyer | Stone-Zsela, Stevens, Souter, Ginsburg | Opinion of the Court, five: constitutional error in the jury response. |
+| Lead, Part IV | Breyer | Stevens, Souter, Ginsburg | Four-Justice rationale for statutory return and effect-standard reservation; announces the five-Justice judgment. Stone-Zsela agrees with that judgment only. |
+| Concurrence in part and in the judgment | Stone-Zsela | No other Justice | Joins lead I–III; states present statutory eligibility and substantial injurious effect; accepts the remand judgment without joining IV's rationale. |
+| Concurrence | Souter | Ginsburg, Breyer | Joins the lead; proposes State-borne Chapman review for this category, while accepting the remand without adoption of that extension. |
+| Concurrence | Stevens | No other Justice | Joins the lead; favors substantial-influence review with genuine grave doubt preventing harmlessness. |
+| Concurrence in part and dissent in part, Part I | O'Connor | Scalia, Kennedy, Thomas | Joins lead I–II herself; the other three join lead I only. Common dissent would affirm for no error and independently under §2254(d)(1). |
+| Concurrence in part and dissent in part, Part II | O'Connor | No other Justice | Conditional support for the confined Chapman extension; no vote for vacatur or present eligibility. |
+| Dissent | Kennedy | No other Justice | Also joins the common dissent; states conditional substantial-influence and grave-doubt position. |
+| Dissent | Thomas | Scalia | Also join the common dissent; retain prisoner-borne substantial injurious effect and reject relief on an evenly balanced showing. |
+
+## Holdings
+
+### I. This response claim was fairly presented and is not procedurally defaulted
+
+**Rule and authority.** A federal claim is fairly presented when the state submission identifies the challenged conduct and the same federal protection later invoked; a merits rejection without an actual independent state procedural ground supplies no such bar. Part I of Breyer's opinion, joined by all eight other Justices, holds that assignment 44 presented this subsequent question-and-response claim, incorporated assignment 41's federal effective-mitigation grounds, and received a state merits adjudication. The asserted nonexhaustion and default defenses therefore fail on their predicates.
+
+**Controlling explanation.** Picard and Harless require the substance of the same federal claim, not facts from which an unrelated claim might be constructed. Assignment 44 identified the later inquiry, requested clarification and refusal, and incorporated the federal mitigation argument. The State's objection that this challenged only the original charge overlooks that identified conduct. The state court distinguished assignments it would not consider from those, including 44, that it considered and rejected on the merits. Harris and Coleman preserve actual adequate independent procedural grounds even when a state court also addresses the merits; none rests on this claim. Gray preserves distinct claims rather than splitting this express response challenge from its incorporated federal ground. O'Sullivan's complete-review principle does not require repetitive collateral presentation after an ordinary review round is complete. The later untimely collateral petition does not undo the direct presentation. Amended §2254(b)(2) permits, but does not require, merits denial despite nonexhaustion; that permission does not itself authorize a grant. Section 2254(b)(1) separately preserves relief when no available state corrective process exists or circumstances render it ineffective to protect the applicant's rights. Section 2254(b)(3) permits no deemed State waiver or estoppel without counsel's express waiver. No exception or waiver is needed here. The renewed request and objection preserve the response issue; initial use of the charge does not waive it.
+
+### II. Amended §2254(d)(1) remains an independent condition on relief
+
+**Rule and authority.** Because the federal application was filed after April 24, 1996 and the state court adjudicated this claim on the merits, a writ requires satisfaction of §2254(d)(1): a state decision contrary to, or involving an unreasonable application of, clearly established federal law determined by this Court. The unanimous Part I holds that a brief state merits explanation does not remove that restriction and a constitutional-error finding does not itself satisfy it.
+
+**Controlling explanation.** Lindh and Carriger preserve the specified pre-enactment applications; this February 7, 1997 application is outside that premise. The relevant state decision is the November 4, 1994 adjudication. The earlier mitigation authorities, not later Buchanan or a later construction of §2254(d), supply the clearly established law for that task. Both statutory alternatives retain independent meaning. Competing readings of undisputed instructions establish no factual-unreasonableness ground under §2254(d)(2) or hearing entitlement under §2254(e). The Court does not adopt the Fourth Circuit's general reasonable-jurists or minimal-consistency formulations, and does not establish a comprehensive replacement construction. The five-Justice judgment permits independent statutory reconsideration and denial on return; the four Associates' reasons for withholding a present eligibility finding are not Stone's reasons or a five-Justice statutory rationale.
+
+### III. The effective-mitigation protection applied here is not a new rule
+
+**Rule and authority.** The requirement that the capital sentencing mechanism permit effective use of relevant mitigation applies to a response reasonably likely to leave that function unavailable; it creates no new entitlement to particular words or mandatory rephrasing of an adequate instruction. Part II, joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, rejects the asserted Teague bar on that defined claim without invoking an exception.
+
+**Controlling explanation.** Lockett and Eddings protect mitigating use, and Boyde supplies contextual review of an allegedly restrictive instruction. Those authorities preceded the state adjudication and any subsequent finality. Graham applies the existing protected function rather than inserting a new procedural formula at finality. Saffle's distinction between unrestricted sympathy and relevant culpability mitigation remains; this claim demands the latter. Caspari retains the dictated-at-finality inquiry, and Gray and Lambrix distinguish a functional application from a new procedural entitlement. The Court assumes the asserted defense is properly considered and rejects it substantively. It neither infers waiver from alleged lateness nor changes Schiro's discretionary treatment of a genuinely late defense. No exact later finality date, retrospective use of Buchanan or Teague exception is necessary.
+
+### IV. The referral left a reasonable likelihood that mitigation could not authorize life
+
+**Rule and authority.** When a capital jury asks whether an aggravator makes death mandatory, the response, read with the complete charge and trial, must resolve a reasonable likelihood that the jury cannot give supported mitigation effect in choosing life. Part III, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, holds that this response failed that requirement. No particular wording is required; reference to an existing instruction may suffice when it unambiguously resolves the actual difficulty.
+
+**Controlling explanation.** Lockett and Eddings prohibit legal exclusion of mitigating effect while leaving weight to the sentencer. Graham requires a route for material culpability mitigation independent of eligibility for death. Boyde asks whether prohibited operation is reasonably likely in the charge and trial as a whole, not merely possible and not proved through a juror's subjective thoughts. Buchanan sustained a complete charge that supplied a lawful post-aggravator life choice; evidence and advocacy reinforced that judicial route rather than curing a restriction.
+
+Instruction 2's accurate life alternative and B1's broad consideration command are substantial reasons supporting the State. But the later question expressly asked whether proof of an aggravator left a punishment choice after hearing those instructions and both arguments. Returning the jury to the same conditional paragraph did not resolve that expressed relationship. B1 directed consideration and left weight to the jury without independently answering the post-aggravator choice. The complete record therefore establishes a reasonable likelihood that the jury treated eligibility as requiring death. Counsel's explanations, further deliberation, the mitigation recital and polling do not conclusively remove that likelihood. Bollenbach underscores the importance of answering an expressed difficulty, but its federal direct-review ruling does not create a universal state constitutional duty to rephrase. The holding concerns this later response, preserves Buchanan's original-charge ruling, requires no favorable mitigation weight and establishes neither automatic structural relief nor present causal effect on the sentence.
+
+### V. Authority and limits of the return
+
+The five-Justice judgment fixes the constitutional error but leaves statutory availability and causal effect for independent adjudication. The court below may deny the claim if a necessary condition fails. Breyer's Part IV, joined by Stevens, Souter and Ginsburg, explains that the lower court's minimal-consistency formulation and reliance on later Buchanan did not separately evaluate the 1994 adjudication under the enacted alternatives. The accurate paragraph remains a substantial argument for statutory denial despite constitutional error. Stone agrees with the return only in the judgment, on his separately stated grounds. That disagreement supplies no controlling Marks rationale on present statutory eligibility.
+
+No single effect standard or allocation of uncertainty commands a majority for this jury-response category. Brecht's Chapman holding concerns preserved Doyle error; O'Neal and Roy cover the defined personal-intent category; Calderon v. Coleman adds commutation misinformation. Their whole-record and causal distinctions remain, but none conclusively selects the standard for this different category. If statutory eligibility is established, the receiving court must resolve the open effect-standard question, including the governing burden and treatment of uncertainty, on a legal basis consistent with those defined holdings. The reservation neither rejects Chapman nor permits an arbitrary choice between standards; this mandate prescribes neither a categorical Chapman extension nor a general substantial-and-injurious-effect rule. The proposed burdens are not combined into a controlling narrowest-ground rule. Identifying Boyde error alone is insufficient to issue a writ. Any lawful effect determination must concern the actual sentence and the complete record, including the charge, mitigation, prosecution theory and jury inquiry; neither permissible death eligibility nor strong aggravation alone resolves it.
+
+## Precedent Treatment
+
+- Picard v. Connor and Anderson v. Harless are applied to the substance of the same federal claim; incorporation here accompanies an express challenge to the later response.
+- Harris v. Reed and Coleman v. Thompson preserve actual independent state procedural grounds; no such ground supports this claim's rejection.
+- Gray v. Netherland preserves claim identity, functional protection and independent statutory conditions; it supplies no automatic writ here.
+- O'Sullivan v. Boerckel preserves ordinary complete review without requiring repetitive collateral presentation; its former-statute holding is not converted into a new amended-statute exception.
+- Lindh v. Murphy and Carriger v. Stewart retain their pre-enactment application boundaries; this later filing is distinguished.
+- Lockett v. Ohio and Eddings v. Oklahoma supply effective mitigating use without favorable-weight requirements.
+- Graham v. Collins supplies the independent culpability route and its preexisting-law character; its holdings remain intact.
+- Boyde v. California supplies the reasonable-likelihood inquiry in the complete charge and trial; no subjective-juror finding or mere-possibility test replaces it.
+- Buchanan v. Angelone is distinguished by this later express inquiry; its original-charge holding remains binding and is not backdated to the state adjudication.
+- Bollenbach v. United States supports accurate attention to an expressed difficulty; its federal direct-review setting supplies no universal constitutional rephrasing command.
+- Teague v. Lane and Caspari v. Bohlen retain the dictated-at-finality requirement and contemporary exceptions; this claim needs neither exception. Saffle v. Parks retains the distinction between unrestricted sympathy and protected mitigation. Lambrix v. Singletary preserves functional old-rule analysis and the separate nature of default. Schiro v. Farley retains discretion over a genuinely late defense without a mandatory waiver rule.
+- Brecht v. Abrahamson, O'Neal v. McAninch, California v. Roy and Calderon v. Coleman retain their defined Chapman categories. No majority extends them to this category or converts them into a blanket substantial-effect rule. Coleman's distinction between identifying instructional error and determining actual effect remains material.
+
+## Law After Decision
+
+The effective-mitigation rule now governs this express post-charge question and inadequate response: a lawful life option must remain effectively available under Boyde's contextual standard. Buchanan's approval of its original charge survives. The actual presentation/default and Teague defenses cannot support renewed denial of this claim. Amended §2254(d)(1) remains independently applicable; constitutional error does not itself authorize a writ. The statutory rationale beyond applicability and the effect-standard choice lack a common five-Justice rationale. No automatic relief, new wording requirement, general Chapman extension or general substantial-effect rule is adopted.
+
+## Separate Writings
+
+**Stone-Zsela, concurring in part and in the judgment.** He joins the threshold and constitutional holdings. The jury's expressed mandatory-death confusion and the inadequate response, considered with the whole charge, establish an unreasonable application of Boyde, Lockett and Eddings. He separately finds substantial and injurious influence on the death verdict from the whole penalty record. He would grant sentence-only conditional relief requiring constitutionally adequate sentencing or a lawful noncapital sentence within a reasonable period. He nevertheless accepts the Court's remand, including possible denial upon independent statutory or causal review, without joining the Associates' reasoning that leaves those questions unresolved. He requires no present writ or sentence vacatur through that judgment and adopts no new Chapman extension. His invocation of a Brecht substantial-effect approach is his separate position, not the Court's description of Brecht's limited controlling holding.
+
+**Souter, joined by Ginsburg and Breyer, concurring.** They would extend State-borne Chapman review to this defined interference with the capital jury's lawful nondeath choice. The State should establish beyond reasonable doubt from the whole penalty record that the error did not contribute to the actual death sentence. Coleman supplies a functional analogy, not an already controlling classification of this claim. The constitutional error does not establish causal contribution, and no accepted lower-court effect determination supports present relief. They accept the return without a Court-selected standard while preserving their objection to substantial-influence review as the appropriate rule. Their concurrence supplies no controlling extension.
+
+**Stevens, concurring.** He joins the lead but favors demanding whole-record substantial-influence review, with genuine grave doubt about effect preventing a finding of harmlessness. His Coleman position distinguishes the error's existence from its impact on the sentence. Unlike that case's completed lower-court analysis, the present denial supplies no accepted independent effect determination supporting an immediate writ. He therefore accepts the statutory-first return and reservation without joining the proposed Chapman extension.
+
+**O'Connor, joined in Part I by Scalia, Kennedy and Thomas, concurring in part and dissenting in part.** The specific reference sent the jury to the very paragraph authorizing life after an aggravator, reinforced by B1's express mitigation command. Under Boyde and Buchanan, the complete judicial directions supply the route; testimony and advocacy confirm it rather than cure a legal restriction. The question does not itself prove the answer failed, just as the poll does not conclusively prove understanding. Independently, the accurate paragraph and targeted reference make the state application of preexisting mitigation law reasonable under §2254(d)(1), even if another reviewing court would find constitutional error. They would affirm without approving the Fourth Circuit's every statutory formula. O'Connor alone adds that, if an otherwise available violation reaches effect review, she would join the confined Chapman extension and return for that inquiry. This conditional position supplies neither statutory eligibility nor a vote for vacatur. Scalia applies the governing mitigation rule while retaining his previously stated disagreement with its constitutional foundation.
+
+**Kennedy, dissenting.** He joins the common affirmance grounds. If an available violation required effect review, his Coleman position calls for demanding substantial-influence analysis and treats genuine grave doubt as preventing harmlessness. The actual sentence, charge, mitigation and prosecution theory matter; death eligibility alone does not answer the question. He rejects both the proposed Chapman extension and a rule requiring denial whenever the showing is evenly balanced.
+
+**Thomas, joined by Scalia, dissenting.** They join the common affirmance grounds. Their conditional effect position requires the prisoner to establish substantial injurious influence; an evenly balanced showing is insufficient. Thomas's Coleman writing grounds that allocation in habeas relief's custody requirement without claiming the statutory text expressly supplies a tie-breaker. They preserve the established Chapman categories but oppose extending them here. They make no present causal-effect finding and support no automatic relief.
+
+## Procedure After Action
+
+The Fourth Circuit judgment is vacated only as to this sentencing-response claim. Further proceedings must preserve the constitutional-error conclusion and rejected defenses, independently apply §2254(d)(1), and, if necessary, resolve the still-open effect-standard question, including burden and treatment of uncertainty, and perform whole-record causal review. That legal determination must respect the defined existing holdings; it is not an arbitrary choice or a mandate to reject Chapman. Denial remains available when a necessary condition is not met. A qualifying harmful violation calls for conditional penalty relief with a reasonable prospective opportunity for lawful sentencing or a noncapital disposition; no present writ, sentence vacatur, deadline, hearing, stay or release is ordered. The conviction and unrelated claims remain undisturbed.
+
+## Source Notes
+
+[Records and Briefs, No. 99-5746](https://archive.org/details/micro_IA40385014_0395), particularly Joint Appendix volume II, pp. 190–200, 217, 219–228, 265–275 and 337–346, supports the charge, inquiry, answer, objection, state presentation and lower-court treatment. The petition and both merits briefs supply the filing accounts and descriptions of testimony and advocacy. The state decision is reported at 248 Va. 460, 450 S.E.2d 379; the federal appellate decision at 176 F.3d 249. [Public Law 104-132](https://www.govinfo.gov/content/pkg/PLAW-104publ132/html/PLAW-104publ132.htm), §104, supplies the amended statutory conditions. [Boyde](https://www.law.cornell.edu/supremecourt/text/494/370), [Eddings](https://www.law.cornell.edu/supremecourt/text/455/104) and [Bollenbach](https://www.law.cornell.edu/supremecourt/text/326/607) supply the identified preexisting principles. No exact subsequent finality date is needed for the old-rule holding. The appellate court's express account establishes the District Court's merits treatment without attributing unrecovered wording to it. Testimony accounts do not establish every disputed fact or a particular juror's subjective understanding.
 
 ---
 
