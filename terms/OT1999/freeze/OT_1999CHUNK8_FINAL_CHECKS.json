@@ -1,0 +1,113 @@
+{
+  "completed": 10,
+  "stopped": {
+    "Ramdass v. Angelone": "Stone revalidation is required for an AEDPA-compatible disposition: the section 2254(d)(1) ground against November 4, 1994 law, supported application to the outstanding verdict, and the applicable error-effect standard, burden and remedy remain unspecified. No revised authorization has been received.",
+    "Apprendi v. New Jersey": "Renewed approval is required because the approved position materially relies on a general constitutional sentencing rule that the actual prior decisions reserved; the necessary new constitutional basis and state charging scope are not authorized by an applicable conditional branch."
+  },
+  "count_checks": [
+    {
+      "receipt": "OT_1999CHUNK8_ARIZONA_COUNTS.json",
+      "matches_actual_records": true
+    },
+    {
+      "receipt": "OT_1999CHUNK8_BRADLEY_COUNTS.json",
+      "matches_actual_records": true
+    },
+    {
+      "receipt": "OT_1999CHUNK8_CARTER_COUNTS.json",
+      "matches_actual_records": true
+    },
+    {
+      "receipt": "OT_1999CHUNK8_CROSBY_COUNTS.json",
+      "matches_actual_records": true
+    },
+    {
+      "receipt": "OT_1999CHUNK8_DICKERSON_COUNTS.json",
+      "matches_actual_records": true
+    },
+    {
+      "receipt": "OT_1999CHUNK8_HAWKINS_COUNTS.json",
+      "matches_actual_records": true
+    },
+    {
+      "receipt": "OT_1999CHUNK8_MILLER_COUNTS.json",
+      "matches_actual_records": true
+    },
+    {
+      "receipt": "OT_1999CHUNK8_PEGRAM_COUNTS.json",
+      "matches_actual_records": true
+    },
+    {
+      "receipt": "OT_1999CHUNK8_REEVES_COUNTS.json",
+      "matches_actual_records": true
+    },
+    {
+      "receipt": "OT_1999CHUNK8_SANTA_FE_COUNTS.json",
+      "matches_actual_records": true
+    }
+  ],
+  "errors": [],
+  "git_commands": "Not run; prohibited by the operator",
+  "records": [
+    {
+      "date": "2000-06-12",
+      "case": "Bradley v. Arkansas Department of Education",
+      "file": "bradley-v-arkansas-department-of-education_merits_2000-06-12.md",
+      "sha256": "1c51d905db2af4b8af1ef25740ccb6187612448694a195be678e576515208414"
+    },
+    {
+      "date": "2000-06-12",
+      "case": "Carter v. United States",
+      "file": "carter-v-united-states_merits_2000-06-12.md",
+      "sha256": "3c5d42dad73696b135797069420f4b1e56a9910b34ca69dcaef51e672c9b4761"
+    },
+    {
+      "date": "2000-06-12",
+      "case": "Pegram v. Herdrich",
+      "file": "pegram-v-herdrich_merits_2000-06-12.md",
+      "sha256": "a689b63f9123bbf0c79e7e34e956f8e5d3bcc1c2a0eee3d9c8d066291c192a06"
+    },
+    {
+      "date": "2000-06-12",
+      "case": "Reeves v. Sanderson Plumbing Products, Inc",
+      "file": "reeves-v-sanderson-plumbing-products-inc_merits_2000-06-12.md",
+      "sha256": "857452a2cabba00908c4bb3dc85264bd12e9c4e219f9dbb9e9728302869b923f"
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Arizona v. California",
+      "file": "arizona-v-california_original-merits_2000-06-19.md",
+      "sha256": "b877a00adb3bb1198e502dfc256e4cd50c7b6e9db36dce05048d14d748b34139"
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Crosby v. National Foreign Trade Council",
+      "file": "crosby-v-national-foreign-trade-council_merits_2000-06-19.md",
+      "sha256": "ff842f3cfd851f2c123b106689cedf1566d2daa275ff4376b577ec17928b80d4"
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Hawkins v. Freeman",
+      "file": "hawkins-v-freeman_merits_2000-06-19.md",
+      "sha256": "a586bad35cf82881d7cec4341a4bcedfd4c2d701544473c201d12feb5f65d392"
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Miller v. French / United States v. French",
+      "file": "miller-v-french-united-states-v-french_merits_2000-06-19.md",
+      "sha256": "453b2a434f02540d401ac68bfeab31a2b23e6162c3bf99e4365f36d7c198844c"
+    },
+    {
+      "date": "2000-06-19",
+      "case": "Santa Fe Independent School District v. Doe",
+      "file": "santa-fe-independent-school-district-v-doe_merits_2000-06-19.md",
+      "sha256": "1eac27e629ee8186f43b9db82c27b55f99ae2c088866d423a91814bf7e2547bb"
+    },
+    {
+      "date": "2000-06-26",
+      "case": "Dickerson v. United States",
+      "file": "dickerson-v-united-states_merits_2000-06-26.md",
+      "sha256": "475b4442e33949521a62e19bdfb4855c5630036e6fb27fa08d42deed32adab97"
+    }
+  ]
+}

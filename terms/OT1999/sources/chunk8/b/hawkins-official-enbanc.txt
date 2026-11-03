@@ -1,0 +1,1776 @@
+PUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+IRVING HOUSTON HAWKINS,
+Petitioner-Appellant,
+v.
+FRANKLIN FREEMAN, Secretary for the
+North Carolina Department of
+Correction, J. V. TURLINGTON,
+No. 96-7539
+Superintendent, Pender Correctional
+Institute,
+Respondents-Appellees.
+AMERICAN CIVIL LIBERTIES UNION OF
+NORTH CAROLINA LEGAL FOUNDATION,
+INCORPORATED,
+Amicus Curiae.
+Appeal from the United States District Court
+for the Middle District of North Carolina, at Greensboro.
+Richard C. Erwin, Senior District Judge.
+(CA-95-237)
+Argued: June 9, 1999
+Decided: November 9, 1999
+Before WILKINSON, Chief Judge, WIDENER, MURNAGHAN,
+ERVIN,* NIEMEYER, HAMILTON, LUTTIG, WILLIAMS,
+MICHAEL, MOTZ, TRAXLER, and KING, Circuit Judges, and
+PHILLIPS, Senior Circuit Judge.
+_________________________________________________________________
+*Judge Ervin heard oral argument but died before the en banc decision
+was filed.
+
+Affirmed by published opinion. Senior Judge Phillips wrote the
+majority opinion, in which Chief Judge Wilkinson, Judge Widener,
+Judge Niemeyer, Judge Hamilton, Judge Luttig, Judge Williams,
+Judge Michael, Judge Motz, Judge Traxler and Judge King joined.
+Judge Murnaghan wrote a dissenting opinion.
+_________________________________________________________________
+COUNSEL
+ARGUED: Neal Lawrence Walters, UNIVERSITY OF VIRGINIA
+SCHOOL OF LAW APPELLATE LITIGATION CLINIC, Char-
+lottesville, Virginia, for Appellant. Ralph S. Tyler, HOGAN &
+HARTSON, L.L.P., Baltimore, Maryland, for Amicus Curiae. Clar-
+ence Joe DelForge, III, Assistant Attorney General, NORTH CARO-
+LINA DEPARTMENT OF JUSTICE, Raleigh, North Carolina, for
+Appellees. ON BRIEF: Kelly M. Baldrate, Third Year Law Student,
+James D. Jones, Third Year Law Student, UNIVERSITY OF VIR-
+GINIA SCHOOL OF LAW APPELLATE LITIGATION CLINIC,
+Charlottesville, Virginia, for Appellant. Maura L. DeMouy, Nicholas
+G. Stavlas, HOGAN & HARTSON, L.L.P., Baltimore, Maryland, for
+Amicus Curiae. Michael F. Easley, Attorney General, NORTH CAR-
+OLINA DEPARTMENT OF JUSTICE, Raleigh, North Carolina, for
+Appellees.
+_________________________________________________________________
+OPINION
+PHILLIPS, Senior Circuit Judge:
+When officials of the North Carolina Parole Commission discov-
+ered that twenty months earlier they had mistakenly granted parole to
+Irving Houston Hawkins, a convicted habitual felon who was not at
+the time nor yet eligible for parole under applicable law, it revoked
+the parole and ordered Hawkins's reincarceration. After unsuccess-
+fully challenging this action in state court, Hawkins sought federal
+habeas corpus relief, claiming that his reincarceration violated a lib-
+erty interest protected by the substantive component of the Fourteenth
+Amendment's due process clause. The district court rejected the con-
+stitutional claim and dismissed the habeas action. On Hawkins's
+                                2
+
+appeal to this court, a divided panel reversed, holding that the State's
+action violated Hawkins's substantive due process right and ordering
+his release on the parole erroneously granted. 166 F.3d 267 (1999).
+On the State's suggestion, we vacated the panel opinion, reheard the
+appeal en banc, and now hold, affirming dismissal of the habeas
+action, that the State's act of revoking Hawkins's parole and reincarc-
+erating him violated no substantive due process right.
+I
+On February 27, 1981, Irving Houston Hawkins was convicted by
+jury trial in a North Carolina Superior Court of the sale and delivery
+of cocaine, possession with intent to sell cocaine, and--on the basis
+of previous felony convictions of rape and aggravated assault with
+intent to commit rape, and armed robbery--of being an habitual felon.
+He was sentenced to fifty years imprisonment on the sale and delivery
+of cocaine and habitual felon charges and to ten years on the posses-
+sion with intent to sell cocaine charge. The ten-year sentence was to
+be served, along with sixty days on an earlier conviction for driving
+under the influence, concurrent with the fifty-year sentence. His ensu-
+ing confinement in the North Carolina prison system was his fifth in
+that system.
+At the time of Hawkins's conviction, relevant state law required
+that habitual felons serve 75% of their sentences before becoming eli-
+gible for parole consideration. See N.C. Gen. Stat. § 14-7.6 (as of con-
+viction date). Though this parole-eligibility provision was amended
+later in 1981 to reduce the time of required service before parole eligi-
+bility from 75% of sentence to a flat seven years, the amended version
+was effective only as to offenses committed after July 1, 1981. It is
+therefore undisputed that Hawkins's legally-prescribed parole eligibil-
+ity date remained April 20, 2018.
+Early in his confinement, Hawkins was, however, given inaccurate
+advice about his parole eligibility date by a member of the Parole
+Commission. In June, 1982, presumably acting on the basis of an
+internal memorandum in Commission files, then-Commissioner Wal-
+ter T. Johnson, Jr. advised Hawkins by letter that the 75% rule of
+§ 14-7.6 controlled his parole eligibility and that he would become
+eligible after 30 years of service on October 20, 2010. And, the letter
+                                3
+
+alluded to the possibility that Hawkins "may" earlier have been
+advised of an even earlier date.
+This misadvice was later corrected by a letter of September 7,
+1983, to Hawkins from a Staff Parole Analyst which correctly identi-
+fied the parole eligibility date as April 20, 2018, and apologized for
+the "terrible disappointment" this correction would cause. Hawkins
+was therefore correctly informed as of September 1983 that under the
+75% rule of pre-amendment § 14-7.6, he must serve thirty-seven and
+a fraction, not thirty, years of his fifty-year sentence before becoming
+eligible for parole consideration on April 20, 2018.
+Some nine years later, after Hawkins had served almost eleven
+years of his fifty-year sentence, new confusion respecting his parole
+eligibility arose in the Parole Commission. In a letter dated March 13,
+1992, a Parole Case Analyst advised Hawkins that he was being con-
+sidered for "Intensive Community Service Parole" under the commu-
+nity service parole provision of N.C. Gen. Stat.§ 15A-1371. Here
+again, the underlying assumption that Hawkins was then (or ever) eli-
+gible for parole under this provision was simply wrong, as all parties
+now concede. The legally-imposed reality remained as it had been:
+Hawkins's parole-eligibility date remained that dictated by pre-
+amendment § 14-7.6, April 20, 2018.
+Nevertheless, the Commission proceeded to consider Hawkins for
+community service parole under the inapplicable provisions of § 15A-
+1371, and released him on its mistakenly assumed authority on July 6,
+1992, after he had served almost eleven and a half years of his fifty-
+year sentence. His release was recommended by a Parole Case Ana-
+lyst who, after noting that there was "some concern as to
+Mr. Hawkins' release, due to . . . a past history of sexual assaultive
+behavior," cited as the basis for his recommendation the facts that
+during his imprisonment Hawkins had had only four rule violations,
+none of which was assaultive; that he had had a stable work history
+before his imprisonment; that while imprisoned he had earned by
+extension work a Bachelor of Science degree in business management
+from Shaw University; that there was a "prison crisis"; and that upon
+release Hawkins would be "placed on intensive supervision."
+Upon his release, Hawkins lived by pre-arrangement with a brother
+in Greensboro, North Carolina, who had secured for him a job as
+                                4
+
+fork-lift operator with the brother's employer, Cone Mills. Hawkins
+held the job regularly, with good performance evaluations, throughout
+his period of release. During that time, he violated no behavioral con-
+ditions of his parole, but did fall significantly behind on both the com-
+munity service and monetary obligations of his special parole, to the
+point that the Commission threatened revocation of his parole--a
+threat that was, however, overtaken by more drastic developments.
+On March 24, 1994, some twenty months after Hawkins's release,
+the Parole Commission's Manager of Combined Records, in the
+course of reviewing records, discovered the Commission's error in
+believing that Hawkins had been eligible for the community service
+parole granted him. She immediately notified the Commission's Chief
+of Operations, who the same day notified the Commission Chairman
+of the error and recommended that Hawkins's parole be "rescind[ed]"
+and that he be reincarcerated. Acting on this recommendation, Com-
+mission officials that same day issued a certificate rescinding the
+1992 parole order and a warrant for Hawkins's arrest. Hawkins was
+arrested on this warrant the next day, March 25, 1994, and reincarc-
+erated after waiving a preliminary parole revocation hearing.
+Pursuant to statute, Hawkins was given notice of and afforded a
+formal hearing before the Commission on the question of his parole
+revocation. At the hearing on June 8, 1994, Hawkins was represented
+by counsel, former Parole Commissioner Walter T. Johnson, Jr., now
+an attorney in private practice. Before the Commission, the State sim-
+ply presented the facts of its legal mistake in releasing Hawkins under
+the community service parole statute and attorney Johnson argued
+against revocation and for release on legal and humanitarian grounds.
+Following the hearing, the Commission deferred decision to allow
+Hawkins's counsel to file documentary materials supporting Haw-
+kins's position. The supporting materials consisted essentially of affi-
+davits documenting Hawkins's trouble-free time on parole and his
+favorable job evaluations, together with an attestation by Hawkins to
+his belief in his rehabilitation by reason of religious conversion. The
+State did not formally contest any of these submissions, continuing to
+rely simply on the fact that his release had not been authorized by law
+and that he had not yet completed service of his legally imposed sen-
+tence nor become legally eligible for parole consideration. The Com-
+mission then formally revoked Hawkins's parole on the sole basis that
+                                5
+
+it had not been legally authorized when granted. Hawkins was then
+notified that he must serve 75% of his fifty-year sentence and that his
+"current parole eligibility date" was April 20, 2018, which had the
+effect of according credit for his time on erroneous parole release as
+time served on sentence.
+Hawkins, now represented by new counsel, N.C. Legal Services,
+Inc., filed in the North Carolina Court of Appeals a two-pronged chal-
+lenge to the Parole Commission's decision. By a"Petition for Writ of
+Certiorari," seeking direct review of the Commission's administrative
+decision, he challenged the decision on various grounds. By a "Peti-
+tion for Writ of Habeas Corpus," he sought release on the ground that
+his imprisonment was in violation both of state statute and Constitu-
+tion and of "the Due Process Clause of the United States Constitu-
+tion." The North Carolina Court of Appeals, after requesting a
+response by the State to the petition for habeas corpus, summarily
+denied both petitions, and the North Carolina Supreme Court then
+similarly denied his petition for habeas corpus  in that court. See
+Hawkins v. Freeman, 460 S.E. 2d 331 (N.C. 1995).
+Still represented by his state court counsel, Hawkins brought this
+federal habeas action under 28 U.S.C. § 2254, claiming that in revok-
+ing his parole and reincarcerating him, the State violated a substantive
+due process right secured by the due process clause of the Fourteenth
+Amendment. Following discovery, the State moved for summary
+judgment. A United States magistrate judge concluded in an extended
+memorandum opinion that the Parole Commission's conceded course
+of administrative error leading up to and culminating in Hawkins's
+erroneous release and later reincarceration "d[id] not raise any infer-
+ence of malicious or gross error" but constituted"mere negligence
+and mistake." On that basis, the magistrate judge concluded that the
+conduct violated no substantive due process right of Hawkins and rec-
+ommended that summary judgment be granted to the State. A United
+States district judge adopted the recommendation following de novo
+review of the record. This appeal by Hawkins followed.
+II
+Courts now considering any claim of substantive due process viola-
+tion must look for principal guidance to the Supreme Court's most
+                                6
+
+recent deliverances on the concept in County of Sacramento v. Lewis,
+118 S. Ct. 1708 (1998) (holding no violation of substantive due pro-
+cess where high-speed police chase resulted in motorcycle passen-
+ger's death), and Washington v. Glucksberg, 521 U.S. 702 (1997)
+(upholding state's statutory ban on assisted suicide as not violative of
+substantive due process). While these decisions in the main confirmed
+and built on longstanding substantive due process jurisprudence, each
+gave new emphasis to limiting aspects of the concept that are of spe-
+cial relevance to the claim made in this case. And, though both
+evoked a multiplicity of opinions reflecting continuing disagreements
+even within Court majorities respecting the precise methodology for
+assessing such claims, we understand them to establish or reaffirm for
+our purposes the following core propositions.
+1. First off, they remind yet again that, as a general proposition,
+courts must be "`reluctant to expand the concept of substantive due
+process because guideposts for responsible decision-making in this
+uncharted area are scarce and open-ended,'" Glucksberg, 521 U.S. at
+720 (quoting Collins v. Harker Heights, 503 U.S. 115, 125 (1992)),
+which means that the courts must "`exercise the utmost care whenever
+we are asked to break new ground in this field,[Collins, 503 U.S. at
+125], lest the liberty protected by the Due Process Clause be subtly
+transformed into the policy preferences of [judges], [Moore v. City of
+East Cleveland, 431 U.S. 494, 502 (1977)].'" Glucksberg, 521 U.S.
+at 720; see also Lewis, 118 S. Ct. at 1714 (noting traditional reluc-
+tance of Court to expand concept).
+2. Depending upon whether the claimed violation is by executive
+act or legislative enactment, different methods of judicial analysis are
+appropriate. See Lewis, 118 S. Ct. at 1716. This is so because there
+are different "criteria" for determining whether executive acts and leg-
+islative enactments are "fatally arbitrary," an essential element of any
+substantive due process claim. Id.
+In executive act cases, the issue of fatal arbitrariness should be
+addressed as a "threshold question," asking whether the challenged
+conduct was "so egregious, so outrageous, that it may fairly be said
+to shock the contemporary conscience." Id.  at 1717 n.8. If it does not
+meet that test, the claim fails on that account, with no need to inquire
+into the nature of the asserted liberty interest. If it does meet the
+                                7
+
+threshold test of culpability, inquiry must turn to the nature of the
+asserted interest, hence to the level of protection to which it is enti-
+tled. See id.1
+_________________________________________________________________
+1 This is the position taken in Justice Souter's opinion for the Court in
+Lewis, in which he was joined by Chief Justice Rehnquist and Justices
+O'Connor, Kennedy, Ginsburg and Breyer. Lewis  thus clearly holds both
+that the "shocks-the-conscience" test has continued vitality in actions
+challenging executive acts on substantive due process grounds and that
+in those it should be applied as a threshold test. What is not perfectly
+clear, however, is the extent to which this threshold test is to be applied
+independently of any consideration of what relevant history, tradition and
+precedent may have to say about the asserted right and its protection.
+Justice Souter's opinion for the Court seems in the main to posit a com-
+pletely independent threshold inquiry that focuses solely on the actor's
+culpability, and would turn to history, tradition and precedent only after
+the conduct had been found conscience-shocking, and then only to deter-
+mine whether history, tradition and precedent demonstrated that the right
+asserted was one entitled to substantive due process protection. See
+Lewis, 118 S. Ct. at 1717 n.8. Responding, however, to Justice Scalia's
+objection to any continued use of a shocks-the-conscience test rather than
+relying solely on precedent and historical protections to assess all sub-
+stantive due process claims, Justice Souter allowed that whether particu-
+lar conduct was conscience-shocking "may be informed by a history of
+liberty protection, but would necessarily reflect[ ] an understanding of
+traditional executive behavior, of contemporary practice, and of the stan-
+dards of blame generally applied to them." Id.
+Further on the point, Justice Kennedy, specially concurring and joined
+by Justice O'Connor, after expressing general skepticism about the
+"shocks-the-conscience" test, indicated that he thought it could not serve
+as a wholly independent test but only as the beginning point in a process
+that must take into account history, tradition and precedent in assessing
+the "objective character" of the challenged act. Id. at 1722 (Kennedy, J.
+concurring). Though Justice Souter's opinion seemed not to require this,
+Justice Kennedy thought that the reasons given for its "not-shocking"
+conclusion indicated that history, tradition and precedent had been suffi-
+ciently taken into account to meet his concern. Id.
+From all this, we assume that courts seeking faithfully to apply the
+Lewis methodology in executive act cases properly may look to history
+for whatever it may reveal about traditional executive practices and judi-
+cial responses in comparable situations by way of establishing context
+for assessing the conduct at issue.
+                                8
+
+If the claimed violation is by legislative enactment (either facially
+or as applied), analysis proceeds by a different two-step process that
+does not involve any threshold "conscience-shocking" inquiry. The
+first step in this process is to determine whether the claimed violation
+involves one of "those fundamental rights and liberties which are,
+objectively, `deeply rooted in this Nation's history and tradition,'"
+Glucksberg, 521 U.S. at 720-21 (quoting Moore, 431 U.S. at 503),
+and "`implicit in the concept of ordered liberty,' such that `neither lib-
+erty nor justice would exist if they were sacrificed.'" Id. (quoting
+Palko v. Connecticut, 302 U.S. 319, 325, 326 (1937)). The next step
+depends for its nature upon the result of the first. If the asserted inter-
+est has been determined to be "fundamental," it is entitled in the sec-
+ond step to the protection of strict scrutiny judicial review of the
+challenged legislation. See id. at 721 (observing that fundamental lib-
+erty interest is violated by legislation that infringes it unless the legis-
+lation is "`narrowly tailored to serve a compelling state interest'")
+(quoting Reno v. Flores, 507 U.S. 292, 302 (1993)). If the interest is
+determined not to be "fundamental," it is entitled only to the protec-
+tion of rational-basis judicial review. See id.  at 728.
+Critical to the "fundamental interest" inquiry is the requirement that
+it be conducted on the basis of a "careful description of the asserted
+fundamental liberty interest." Id. at 720 (quotation omitted). By this
+means, the "Nation's history, legal traditions, and practices . . . pro-
+vide the crucial `guideposts for responsible decisionmaking,'" id. at
+721 (quoting Collins, 503 U.S. at 125), that would be threatened by
+analyzing the claimed right at too general a level. See id. at 722
+(rejecting claimants' suggested description of asserted right to
+assisted suicide as being one "to die," or"to choose how to die," or
+to "control one's final days," instead analyzing right more narrowly
+as one "to commit suicide which itself includes a right to assistance
+in doing so").2
+_________________________________________________________________
+2 Of particular importance to an understanding of the Glucksberg
+Court's prescribed methodology is the Court's deliberate rejection of an
+alternative approach urged by Justice Souter in a special concurrence.
+See Glucksberg, 521 U.S. at 752-89 (Souter, J., concurring in the judg-
+ment). In its most critical differentiating feature, Justice Souter's
+approach would not confine the special protection of"strict scrutiny"
+due-process review to just those unenumerated liberty interests that at
+                                9
+
+III
+Guided by the Glucksberg and Lewis directives on analytic method,
+we now consider the substantive due process claim made by Hawkins
+and rejected by the district court. Because it was rejected by summary
+judgment, we review the district court's ruling de novo. See Ballinger
+_________________________________________________________________
+some time in the nation's history, legal tradition and practice had come
+to be considered "fundamental." Believing that such a limiting threshold
+historical inquiry confined substantive due process review too rigidly to
+"past practice described at a very specific level," id. at 765, Justice Sou-
+ter's alternative would avoid it and take a more flexible approach rooted
+essentially in the understanding of substantive due process review
+expressed in Justice Harlan's dissent in Poe v. Ullman, 367 U.S. 497,
+542-55 (1961) (Harlan, J., dissenting). Under that approach, courts might
+identify those special liberty interests uniquely entitled to "strict scru-
+tiny" protection by a more open-ended analysis that, though informed by
+history and legal tradition, was not narrowly defined by specific past
+practices they might reveal. So, for example, they might take into
+account evidence of changing traditions, see Glucksberg, 521 U.S. at
+775-77 (Souter, J., concurring) (noting relevance to claim of assisted-
+suicide right of state's decriminalization of suicide itself), and judicial
+and legislative recognition of different, though related, interests entitled
+to protection against state-action. See id. at 778-80 (Souter, J., concur-
+ring) (noting relevance to claim of assisted-suicide right of judicial and
+legislative recognition of rights to terminate life support and to assisted
+abortion as related forms of protected right to"bodily integrity").
+Asserting that this alternative approach "would largely abandon [the]
+restrained methodology" that it considered to be"established" in its sub-
+stantive due process jurisprudence, the Court expressly rejected it. Id. at
+721-22. In the Court's view, the alternative had no legal standing in the
+Court's substantive due process jurisprudence as a parallel or displacing
+methodology to the Court's "fundamental-rights-based analytical
+method." Id. at 721 n.17. And, it could not, as could the prescribed
+method, adequately "rein in the subjective elements that are necessarily
+present in due-process judicial review," nor"avoid[ ] the need for com-
+plex balancing of competing interests in every case." Id. at 722.
+The special importance for our purposes of the Glucksberg Court's
+express reaffirmation of its "fundamental-rights-based analytical
+method" and rejection of a powerfully argued contemporary-interests-
+balancing alternative, will appear in our analysis of the claim before us.
+                                10
+
+v. North Carolina Agric. Extension Serv., 815 F.2d 1001, 1004 (4th
+Cir. 1987).
+As prelude, we note a late development in the case that shapes the
+analysis we undertake. Up until oral argument on rehearing en banc,
+all parties to the litigation had assumed that the constitutional chal-
+lenge was directed--and properly directed--at the decision of the
+Parole Commission to revoke Hawkins's parole and reincarcerate
+him: an executive act. The habeas claim was so pleaded and pres-
+ented to the district court, was so considered and decided by that
+court, and was so argued in the appellate briefs filed in this court. On
+that basis, all parties (and the original panel of this court) had further
+assumed, once Lewis had prescribed the discrete methodology for
+analyzing executive-act claims, that that methodology applied here.
+At oral argument on the rehearing en banc, however, those assump-
+tions were drawn in question. In response to questioning by the court,
+counsel for the State suggested that the Parole Commission had no
+discretion to act but as it did; that under controlling state law, it had
+no power but to revoke a mistakenly granted parole and reincarcerate.
+From this, further colloquy between court and counsel suggested that
+if this were the legal reality, the true target of the state-action claim
+was whatever legislative enactment dictated the decision as a purely
+ministerial non-discretionary one by the Parole Commission. And, on
+that view of things, it was suggested that the proper method for ana-
+lyzing Hawkins's claim would be that dictated by Glucksberg rather
+than that of Lewis.
+This belated development raises several problems, both procedural
+and substantive, that we believe require recognition. The first is
+whether we should consider at all this theory first raised on appeal,
+whatever its arguable merit. We have discretion to do so, but for very
+good reasons ordinarily do not. See Singleton v. Wulff, 428 U.S. 106,
+119-21 (1976); Hormel v. Helvering, 312 U.S. 552, 556-57 (1941).
+Beyond that preliminary procedural concern, lie two difficult substan-
+tive questions that would arise were the theory to be addressed.
+The first is the validity of the premise that a ministerial executive
+act cannot ever be the proper target of a substantive due process
+claim; that such a claim must always be directed at whatever legisla-
+                                11
+
+tion imposed the duty; and that, in consequence, whether such an
+executive act was ministerial or discretionary determines the appro-
+priate method for analyzing such a claim. No legal authority for the
+premise is suggested or is immediately apparent and we think it by
+no means self-evident despite its first-blush logic. Certainly it must
+be the case that a ministerial duty could be performed in a way con-
+trived by the actor not to further the governmental interests on which
+it rested but simply to "oppress" its target through an "abuse" of the
+executive power. See Collins, 503 U.S. at 126 (so characterizing the
+essence of conscience-shocking executive conduct). Indeed, this
+might well represent the point at which executive conduct, whether
+discretionary or ministerial, passes into the realm of conscience-
+shocking arbitrariness.
+If the premise were, however, accepted arguendo , there would then
+be the difficulty of determining on the present record whether the
+Parole Commission decision was a purely ministerial or discretionary
+one. None of the state statutes that speak most directly to the authority
+of the Commission to grant, administer, and revoke paroles, see N.C.
+Gen. Stat. §§ 15A-1373-74, -76, speaks directly to its power respect-
+ing paroles granted without legal authority. Hence, none either
+directly requires revocation of all mistakenly granted paroles, or
+directly prohibits it, or grants the Commission discretion in the mat-
+ter. And, the Commission's handling of the revocation procedure here
+is too ambivalent to serve as any trustworthy guide to its understand-
+ing of the nature of its power. Forced to decide the question, we there-
+fore could only do so by implication of an unexpressed legislative
+intention unaided by responsible agency interpretation, a generally
+disfavored judicial undertaking that would seem an intractable one
+here.
+Having noted the belated suggestion and the problems its direct
+consideration would entail, we think that we can properly avoid and
+reserve decision on each of the problems in deciding this appeal. For
+we are satisfied that whether the claim is analyzed under the Lewis
+or Glucksberg methodologies, it fails as a matter of law. To explain,
+we analyze it in turn on the alternative assumptions.
+A.
+We first assume that the claim is properly analyzed as one chal-
+lenging as an executive act the Parole Commission's decision to
+                                12
+
+revoke Hawkins's parole and reincarcerate him. On that assumption,
+we consider as a threshold question whether that act was, under the
+circumstances, "so egregious, so outrageous, that it may fairly be said
+to shock the contemporary conscience." Lewis , 118 S. Ct. at 1717 n.8.
+This "shocks-the-conscience" test, though long and frequently used
+since its first application to a "substantive due process" challenge to
+executive conduct in Rochin v. California, 342 U.S. 165 (1952),
+remains an admittedly imprecise one in formulation. See Lewis, 118
+S. Ct. at 1717 (describing test as "no calibrated yard stick"); id. at
+1722 (Kennedy, J., concurring) (describing as "laden with subjective
+assessments"). But, as Lewis also took pains to point out, over time
+and through its various applications, its intended meaning has been
+considerably fleshed out and some objective factors have emerged to
+guide and constrain its applications. See id.  at 1716-20.
+Of primary importance to understanding the standard's meaning
+and purpose is the fact that it derives ultimately from the "`touchstone
+of due process [which] is protection of the individual against arbitrary
+action of government,'" id. at 1716 (quoting Wolff v. McDonnell, 418
+U.S. 539, 558 (1974)), whether in matters of procedure or substance.
+As applied to claims of executive-act violations, it therefore seeks to
+determine as a threshold matter whether the executive conduct chal-
+lenged was "fatally arbitrary" in this constitutional sense. For if the
+conduct does not have that character, there is no need to inquire fur-
+ther whether the right allegedly violated was one entitled by tradition
+and precedent to protection against conduct that did. See id. at 1717
+n.8 ("Only if the necessary condition of egregious behavior were sat-
+isfied would there be a possibility of recognizing a substantive due
+process right to be free of such executive action . . . .").
+Over time, the Supreme Court has elaborated on the kind of execu-
+tive conduct that fairly can be said to "shock the conscience," to be
+"fatally arbitrary in the constitutional sense." It is conduct that
+involves "abusing [executive] power, or employing it as an instrument
+of oppression." Collins, 503 U.S. at 126 (quotation omitted). More
+objectively, it is conduct more blameworthy than simple negligence,
+which never can support a claim of substantive due process violation
+by executive act. See Lewis, 118 S. Ct. at 1718 (citing Davidson v.
+Cannon, 474 U.S. 344, 348 (1986)). While intentional conduct is that
+                                13
+
+"most likely" to meet the test, that alone will not suffice; the conduct
+must be "intended to injure in some way unjustifiable by any govern-
+ment interest." Id. (emphasis added). And, because specific conduct
+that in one context would meet the test might not in another, applica-
+tion of this standard "demands an exact analysis of circumstances."
+Id. at 1718.
+As a first step in assessing whether the executive act at issue here
+meets this stringent test, we should look to see whether any bench-
+marks can be found in the way executive officials and courts review-
+ing their actions generally have responded to comparable situations.
+See id. at 1717 n.8 (suggesting importance to shocks-the-conscience
+inquiry of "an understanding of traditional executive behavior, of con-
+temporary practice, and of the standards of blame generally applied
+to them").
+When we do so, the first fact encountered is that erroneous release
+(and delayed incarceration) of prisoners is a surprisingly widespread
+and recurring phenomenon in both state and federal penal systems. A
+raw indication of its extent and persistence is conveyed by a recent
+academic comment that identifies over one hundred such cases run-
+ning back to 1895, a figure that surely must represent only a fraction
+of a much larger number of such occurrences not all of which result
+in litigated and reported cases. See Gabriel J. Chin, Getting Out of
+Jail Free: Sentence Credit for Periods of Mistaken Liberty, 45 Cath.
+U. L. Rev. 403 (1996) (collecting cases).3 We start then with aware-
+_________________________________________________________________
+3 Broadly speaking, the cases collected involve one or the other of the
+following factual scenarios. In "delayed incarceration cases," the relevant
+governmental authority fails timely to take the convicted criminal into
+custody. See, e.g., United States v. Martinez, 837 F.2d 861 (9th Cir.
+1988) (seven and one-half-year delay in prisoner's incarceration). In "de-
+tainer cases," a prisoner is either released from the custody of one juris-
+diction notwithstanding the fact that a valid detainer has been lodged by
+a second jurisdiction, see, e.g., Farley v. Nelson, 469 F. Supp. 796 (D.
+Conn.) (defendant paroled by Maryland penitentiary and not taken into
+federal custody notwithstanding fact that two federal detainers were on
+file with the Maryland authorities), aff'd, 607 F.2d 995 (2d Cir. 1979),
+or is released by one jurisdiction because a second jurisdiction to which
+he owes time has failed to file a detainer. See , e.g., Shelton v. Ciccone,
+                                14
+
+ness that the erroneous release here was not so unique an occurrence
+in general penal administration as to suggest arbitrariness in the chal-
+lenged conduct by that fact alone.
+Much more significant is the revelation from the reported cases that
+once such an administrative error has been discovered, the routine,
+seemingly invariable, executive practice has been to incarcerate,
+rejecting any claim of entitlement to freedom.4 Neither, therefore, was
+the decision to reincarcerate here, rejecting the administratively-
+advanced claim and plea for freedom, so much at odds with custom-
+ary executive practice as to suggest arbitrariness on that account
+alone.
+_________________________________________________________________
+578 F.2d 1241 (8th Cir. 1978) (defendant released from state custody
+when a federal detainer should have been but was not lodged with state
+authorities). Finally, there are "early release cases" where, as in the case
+at hand, by some administrative error, a prisoner is prematurely released
+or paroled. See, e.g., Johnson v. Williford, 682 F.2d 868 (9th Cir. 1982)
+(prisoner who was convicted and sentenced under a federal statute
+requiring a 10-year minimum sentence without possibility of parole was
+erroneously paroled). Although these categories account for the great
+bulk of the cases, not all of the cases fit neatly into them. See, e.g., Ex
+Parte Bugg, 145 S.W. 831 (Mo. Ct. App. 1912) (prisoner intentionally
+released from custody on a suspended sentence because of fear that he
+was contracting tuberculosis and to allow him to"seek a change of cli-
+mate").
+4 This is inferred from the fact that all of the cases collected in the Chin
+article and all others cited to us and noted in this opinion involve pris-
+oner challenges to administrative decisions to incarcerate upon discovery
+of error. No decision of which we are aware involves a challenge by gov-
+ernment to an administrative decision not to incarcerate. While there
+obviously is less incentive for government than prisoners to challenge
+unfavorable decisions in this situation, government challenges must gen-
+erally be possible. See, e.g., In re Hawley, 484 A. 2d 684 (N.J. 1984)
+(holding that prosecutor has right and duty to appeal a decision of State
+Parole Board); Mich. Comp. Laws Ann. § 791.234(7) ("The action of the
+parole board . . . is appealable by . . . the prosecutor . . . ."). A complete
+absence of government challenges would seem therefore more likely to
+reflect an absence of unfavorable decisions than disinclination or inabil-
+ity to make a challenge.
+                                15
+
+When we look to pre-Lewis judicial decisions addressing constitu-
+tional challenges5 to this seemingly invariable executive practice, we
+get little guidance for applying the threshold conscience-shocking test
+now mandated by Lewis. First off, there are no such constitutional
+decisions by the Supreme Court or by this court, hence none having
+precedential force for us. Almost all brought to our attention by the
+parties or discovered by our research apply a unique"waiver of juris-
+diction" theory that bears but scant resemblance to the rigorous sub-
+stantive due process regime now prescribed--in both its
+"arbitrariness" and "fundamental-interest" elements--by Glucksberg
+and Lewis.
+Commonly traced in origin to the Fifth Circuit's decision in Shields
+v. Beto, 370 F.2d 1003 (5th Cir. 1967), this theory employs the fictive
+notion that by prolonged failure to incarcerate a convict who "owes
+it time" (either original or "interrupted") a government may "waive its
+jurisdiction" to do so, thereby making any later incarceration one
+effected without jurisdiction and so a violation of due process. As
+originally formulated and applied in Shields,6 the theory seemed to
+_________________________________________________________________
+5 Many of the challenges have been made and decided on non-
+constitutional common law grounds of governmental"estoppel," see,
+e.g., Johnson, 682 F.2d 868 (alternative ground); or "improper install-
+ment sentence." See, e.g., White v. Pearlman, 42 F.2d 788 (10th Cir.
+1930). Decisions on those grounds have no relevance to issues of
+constitution-level executive arbitrariness. See Lewis, 118 S. Ct. at 1717-
+18 (noting critical difference between minimum constitutional and non-
+constitutional culpability levels); see also Dunne v. Keohane, 14 F.3d
+335, 336-37 (7th Cir. 1994) (Posner, C.J.) (noting that common law rule
+prohibiting government from "delay[ing] the expiration of [a] sentence
+either by postponing [its] commencement . . . or by releasing the prisoner
+for a time and then reimprisoning him" is not a"constitutional com-
+mand"). We therefore look only to decisions on constitutionally-
+grounded claims.
+6 Finding common law antecedents of this theory (and a related one of
+"implied pardon") in a few federal and state cases, Shields adopted it as
+a constitutional rule in a habeas case in which a state had incarcerated
+a prisoner 28 years after it had released him in mid-sentence to another
+state and 18 years after the latter state had paroled him in the absence of
+any detainer filing by the incarcerating state. See Shields, 370 F.2d at
+1003-04.
+                                16
+
+require nothing more than prolonged inaction by government to prove
+a due process violation (presumably "substantive"). Undoubtedly
+sensing that if so understood the rule could not pass muster as one of
+constitutional stature, the Fifth Circuit took the occasion some six
+years later in Piper v. Estelle, 485 F.2d 245 (5th Cir. 1973) (per
+curiam), to cabin in that aspect of the rule concerned with the required
+level of government culpability. Emphasizing that"lack of eager pur-
+suit" or "lack of interest" is not enough, Piper held that "the . . . action
+must be so affirmatively wrong or [the] inaction so grossly negligent
+that it would be unequivocally inconsistent with fundamental princi-
+ples of liberty and justice to require [that the"time owed"] be served
+. . . ." Id. at 246 (quotation omitted). It is Piper's formulation that has
+since been used by courts applying this "waiver of jurisdiction" theory
+to constitutional due process claims. While that formulation surely
+moved in the direction of the conscience-shocking standard mandated
+in Lewis, it as surely fails to embody the full stringency of that stan-
+dard's requirement that to be "conscience-shocking," "arbitrary in the
+constitutional sense," an executive act must be not only "wrong," but
+egregiously so by reason of its abusive or oppressive purpose and its
+lack of justification by any government interest. See Lewis, 118 S. Ct.
+at 1716-20. Significantly, even when applying the less-exacting
+Shields/Piper "waiver" standard of executive culpability, the great
+majority of decisions have found it not met on the facts of the particu-
+lar case.7
+_________________________________________________________________
+7 See Camper v. Norris, 36 F.3d 782 (8th Cir. 1994); Martinez, 837
+F.2d 861; Mobley v. Dugger, 823 F.2d 1495 (11th Cir. 1987); Green v.
+Christiansen, 732 F.2d 1397 (9th Cir. 1984); Mathes v. Pierpont, 725
+F.2d 77 (8th Cir. 1984); Piper, 485 F.2d 245; Patterson v. O'Dea, 1996
+WL 554564 (6th Cir. Sept. 27, 1996) (unpublished); Hallums v.
+Hambrick, 1994 WL 279394 (6th Cir. June 21, 1994) (unpublished);
+Mistretta v. Whalen, 1993 WL 118074 (7th Cir. April 14, 1993) (unpub-
+lished); Christian v. Smith, 1991 WL 85227 (6th Cir. May 20, 1991)
+(unpublished); Sterling v. Maggio, 505 F. Supp. 1111 (M.D. La. 1981);
+Farley, 469 F. Supp. 796; Bailey v. Ciccone, 420 F. Supp. 344 (W.D.
+Mo. 1976); Esquivel v. Estelle, 426 F. Supp. 619 (W.D. Tex. 1976),
+aff'd, 547 F.2d 309 (5th Cir. 1977); Clifton v. Beto, 298 F. Supp. 1384
+(S.D. Tex. 1968), aff'd on other grounds, 411 F.2d 1226 (5th Cir. 1969);
+United States v. Vann, 207 F. Supp. 108 (E.D.N.Y. 1962); United States
+v. Brandt, 1987 WL 16235 (N.D. Ill. Aug. 26, 1987) (unpublished). But
+see Shields, 370 F.2d 1003 (finding for prisoner on the facts); Johnson,
+                                17
+
+History and traditional practice thus inform our threshold shocks-
+the-conscience inquiry with little of help. They teach that the adminis-
+trative error that occasioned the challenged decision here is one too
+frequently made in penal systems administration to raise any pre-
+sumption of arbitrariness "in the constitutional sense," Lewis, 118
+S. Ct. at 1716 (quotation omitted), whenever it occurs. Further, they
+reveal that the apparently routine executive practice when such an
+error has been discovered has been to incarcerate or reincarcerate, no
+matter what the circumstances. And finally, we learn that pre-Lewis
+judicial decisions addressing constitutional due process challenges to
+such executive decisions include none having precedential force for
+this court, and have mainly applied a "waiver of jurisdiction" theory
+that proceeds by analysis too dissimilar to that mandated by Lewis to
+serve as persuasive authority on application of the"shocks-the-
+conscience" test. Here, therefore, we must simply proceed without
+significant guidance from history and precedent to consider whether
+the decision to reincarcerate Hawkins was, within the threshold culpa-
+bility test as most recently explained in Lewis , "shock[ing to] the con-
+temporary conscience." Id. at 1717 n.8. 8
+_________________________________________________________________
+682 F.2d 868 (same) (alternative ground); Lanier v. Williams, 361
+F. Supp. 944 (E.D.N.C. 1973) (same); Shelton , 578 F.2d 1241; (granting
+prisoner evidentiary hearing on issue of waiver); see also United States
+v. Merritt, 478 F. Supp. 804 (D.D.C. 1979) (applying Piper standard to
+require release of prisoner where time spent on erroneous release would,
+if credited, have caused sentence to expire).
+8 Amicus American Civil Liberties Union of North Carolina, attempting
+to avoid the rigor of Lewis's exposition of the shocks-the-conscience test,
+suggests that it should not apply to habeas claims but only to substantive
+due process claims of "constitutional tort" brought, e.g., under 42 U.S.C.
+§ 1983. (See Amicus Br. of Amicus  at 21-25.) No authority is advanced
+for the proposition beyond the fact that Lewis  and the Supreme Court
+cases applying the test upon which it expressly relies all involve "consti-
+tutional tort" claims seeking damages or injunctive remedies against gov-
+ernment officials. We know of no authority suggesting that, except in the
+matter of remedy, the elements of a substantive due process (or other
+constitutional) claim differ depending upon whether it is brought as a
+habeas or "constitutional tort" claim. Such understandably meager
+authority as touches the matter (as well as general principles) suggest to
+the contrary that the substantive elements of a claim of constitutional
+                                18
+
+We cannot make that drastic judgment about the decision. Consider
+the critical circumstances that were before the Parole Commission:
+ In 1981 Hawkins had been convicted in North Carolina
+state court on a drug trafficking offense. Based on previous
+1972 convictions in Georgia of rape and aggravated assault
+with intent to commit rape and a 1976 conviction in Guil-
+ford County, North Carolina for armed robbery, he was sen-
+tenced as an habitual felon to 50 years imprisonment and to
+a concurrent 10-year sentence on the drug trafficking
+offense. See State v. Simmons, 286 S.E.2d 898, 900 (N.C.
+Ct. App. 1982). At the time, he had an extensive record of
+other arrests and convictions, some under the surname "Sim-
+mons," dating back to 1967. These included a 1967 convic-
+tion for larceny and receiving; a 1969 conviction for assault
+on a female; a 1978 conviction for escape from work
+release; a 1976 grand jury charge of second degree rape that
+was dismissed; and a 1975 Delaware charge of resisting
+arrest that was nol prossed. (See J.A. 161-62; 203-4.) In
+1992, after having served eleven years of his 50-year sen-
+tence, he had been erroneously paroled under a recently
+enacted community service parole program, designed in part
+to alleviate prison overcrowding, for which he was not in
+fact eligible. His overall prison record at the time had been
+a good one, with only a few rule infractions, and during his
+imprisonment he had obtained a bachelors degree in busi-
+ness management from Shaw University under a study pro-
+gram. (See id. at 26, 200.)
+ His erroneous release in 1992 was based on a Parole Case
+Analyst's recommendation that cited the amount of time he
+had served, the prison overcrowding crisis, the fact that
+none of Hawkins's prison rule infractions was assaultive,
+the fact that he had made effort to improve his situation
+_________________________________________________________________
+violation are the same whatever the remedy sought for the violation. See,
+e.g., Hamlin v. Warren, 664 F.2d 29, 30 (4th Cir. 1981) (elements of
+constitutional violation claim assumed to be identical for collateral estop-
+pel purposes in successive § 1983 and habeas actions).
+                                19
+
+while in prison, and the fact that he would be placed on
+intensive supervision under the community service parole
+program. (See id. at 200.) The recommendation had, how-
+ever, noted that there was "some concern" about releasing
+Hawkins due to his "history of sexual assaultive behavior."
+(Id.) That concern had been expressed for the record by a
+Parole/Probation officer who indicated his strong opposition
+to Hawkins's/Simmons's release based upon the officer's
+personal awareness of his criminal history and his expressed
+opinion that he was a "career street criminal who will con-
+tinue to commit street crimes once he is out of prison." (Id.
+at 156.)
+ During the two-year period of his release, Hawkins had
+lived with his brother and been continuously employed as an
+unskilled laborer by a manufacturing company. (See id. at
+22, 26.) He had worked regularly and with good job evalua-
+tions and had violated no laws during the period, but had
+fallen behind in some of the community service obligations
+and fee payments required by the program. (See id. at 20-24,
+246.)
+ He was taken back into custody by order of the Parole
+Commission when in 1994 it was realized that his release
+had not been authorized by law. (See id. at 34.) And, after
+affording him a hearing with counsel at which his return to
+parole status was urged on legal and humanitarian grounds,
+(see id. at 29-30, 120-21), the Commission had formally
+revoked his parole and ordered his reincarceration. (See id.
+at 32, 34.)
+To declare the Parole Commission's decision so "egregious and
+outrageous" as to "shock the contemporary conscience" under these
+circumstances, we would have to believe that it was infected or driven
+by something much worse--more blameworthy--than mere negli-
+gence, or lack of proper compassion, or sense of fairness, or than
+might invoke common law principles of estoppel or fair criminal pro-
+cedure to hold the state to its error. To keep things in constitutional
+proportion, we would have to see in it a mindless"abus[e of] power,"
+or a deliberate exercise of power "as an instrument of oppression,"
+                                20
+
+Collins, 503 U.S. at 126 (quotation omitted), or power exercised
+"without any reasonable justification in the service of a legitimate
+governmental objective." Lewis, 118 S. Ct. at 1716.
+We do not believe the Parole Commission's decision can be
+declared one meeting that stringent threshold constitutional test.
+Nothing about it suggests any element of vindictiveness or of power
+exercised simply to oppress. There were legitimate governmental
+interests and objectives a-plenty to justify the act. It rectified an error
+in administering applicable state parole law, thereby furthering the
+state's fundamental interest in correct application of its laws. In doing
+so it avoided the precedential risk of acquiescing in irregular enforce-
+ment of state law. It reincarcerated under more secure custody a rec-
+ognized high-risk prisoner erroneously released under a program
+driven largely by exigencies of prison crowding unrelated to the pub-
+lic interest in security against the specific risk he posed. And in com-
+pliance with state law, it properly credited Hawkins with the time
+spent on erroneous release. See N.C. Gen. Stat. § 15A-1373(d)(1) (so
+requiring where parole revoked).
+While the Commission's earlier conduct leading up to and includ-
+ing erroneous release on parole was bungling at every step, it could
+not be characterized as anything but simple negligence. And, more
+critically, it had nothing to do with revocation of the parole that was
+actually granted far in advance of the parole release dates about which
+Hawkins had been negligently misinformed. It therefore has no real
+bearing upon the question whether the later revocation of the parole
+erroneously granted was conscience-shocking.
+Finally, the fact that Hawkins had not engaged in any criminal con-
+duct during the period of his release under the"intensive supervision"
+condition of his parole, surely could not be thought to oblige the
+Commission to see in this a safely demonstrated rehabilitation from
+Hawkins's established pattern of assaultive behavior while not in full
+custody. Certainly a declination to do so could not be thought to dem-
+onstrate arbitrariness as opposed to reasoned judgment.
+We therefore conclude that the Parole Commission's act cannot be
+considered one "shocking to the contemporary conscience" under the
+threshold test mandated by Lewis.
+                                21
+
+B.
+Assuming in the alternative that the claim is properly analyzed
+under the Glucksberg methodology as one somehow challenging a
+legislative enactment,9 we proceed directly to consider whether the
+claimed violation was to one of "those fundamental rights and liber-
+ties which are, objectively, deeply rooted in this Nation's history and
+tradition." Glucksberg, 521 U.S. 720-21.
+1.
+The first step in that "fundamental-rights-based" process, id. at 721
+n.17, is to make a "careful description" of the asserted liberty right or
+interest that avoids overgeneralization in the historical inquiry. See id.
+at 722-23 (narrowing descriptions used by lower court and urged by
+claimants in defining liberty interest allegedly violated by assisted-
+suicide legislative ban). Hawkins's rhetorical reference to the right as
+being "freedom from unjust incarceration," Br. of Appellant at 10, and
+that of amicus, American Civil Liberties Union of North Carolina, as
+the "right to be free from arbitrary incarceration," (Br. of Amicus at
+7), are issue-begging generalizations that cannot serve the inquiry. A
+properly precise description can, however, be found in the facts and
+legal authorities relied upon by Hawkins in support of his claim. From
+these, we deduce that the precise right asserted is that of a prisoner
+to remain free on erroneously granted parole so long as he did not
+contribute to or know of the error and has for an appreciable time
+_________________________________________________________________
+9 We say "somehow" because of the great difficulty earlier noted of
+identifying any specific state legislation that could be considered the
+effective cause of the challenged state action. Though the assumption
+that this is a "legislative-enactment" claim therefore presents great con-
+ceptual difficulty, we make it for the prudential reasons noted. And, with
+awareness that the "fundamental right" historical inquiry that Glucksberg
+mandates for such claims as a first step, see Glucksberg, 521 U.S. at 722,
+could also be dispositive of an executive-act claim under the Lewis anal-
+ysis. See Lewis, 118 S. Ct. at 1717 n.8 (noting that if conscience-
+shocking executive conduct were found, the question of a protectible
+substantive due process interest would remain for resolution under the
+Glucksberg analysis).
+                                22
+
+remained on good behavior to the point that his expectations for con-
+tinued freedom from incarceration have "crystallized."10
+We do not believe that this asserted right or liberty interest can be
+declared a "fundamental" one that is "objectively, deeply rooted in
+this Nation's history and tradition." Glucksberg, 521 U.S. at 720-21.
+When its narrow compass and special circumstances are considered,
+it surely cannot be said to be so "`implicit in the concept of ordered
+liberty,' . . . that `neither liberty nor justice would exist if [it] were
+sacrificed.'" Id. at 721 (quoting Palko, 302 U.S. at 325, 326). Contrast
+it with the relatively few, more generally shared, unenumerated rights
+that over time have been found by the Supreme Court (and not with-
+out difficulty) to have that "fundamental" quality: to marry, see
+Loving v. Virginia, 388 U.S. 1 (1967); to have children, see Skinner
+v. Oklahoma ex rel. Williamson, 316 U.S. 535 (1942); to direct one's
+children's upbringing, see Meyer v. Nebraska, 262 U.S. 390 (1923);
+to marital privacy, see Griswold v. Connecticut , 381 U.S. 479 (1965);
+to abortion, see Roe v. Wade, 410 U.S. 113 (1973); to personal control
+of one's medical treatment, see Cruzan v. Director, Mo. Dep't of
+Health, 497 U.S. 261 (1990); and to bodily integrity, see Rochin, 342
+U.S. 165 (1952).
+This conclusion is bolstered by the amorphous, heavily subjective
+nature of such an asserted right based as it is on notions of sufficient
+temporal duration, sufficiently good behavior and"crystallized"
+expectations. This is not the traditional stuff of substantive due pro-
+cess rights. See Glucksberg, 521 U.S. at 722 (emphasizing importance
+of fundamental rights analysis that "rein[s] in the subjective elements
+that are necessarily present in due process judicial review"). The
+claimed right here is one almost entirely composed of subjective ele-
+ments. There are no objective criteria for assessing how long a period
+of freedom is enough; nor how exemplary the behavior on freedom
+must be; nor when and under what circumstances expectations have
+sufficiently "crystallized." At odds with the Glucksberg admonition,
+enforcement of such a right would therefore rest almost entirely upon
+_________________________________________________________________
+10 This reflects the factual basis of Hawkins's claim. The extended
+period of release, good behavior, ignorance of official error, and "crystal-
+lized expectations" factors are based upon case law upon which he relies,
+and which we later discuss in text.
+                                23
+
+the subjective judgments of judges applied to widely varying factual
+circumstances.
+Finally, we note a point that may most clearly demonstrate that the
+specific liberty interest asserted here is not one of those "fundamen-
+tal" interests uniquely entitled to substantive, as opposed to merely
+procedural, due process protection. As is evident from the interest as
+asserted, it could only be thought to arise from the inaction of state
+officials over a sufficiently long period of time. As described by the
+claimant, there is no suggestion that it arose immediately upon the
+mistaken grant of parole. And, if not then, surely not in some pre-
+existing putative constitutional form, for no one has suggested that
+had the mistake been discovered and reincarceration ordered immedi-
+ately after the release, there would have been any violation of consti-
+tutional right.
+As Justice Powell has pointed out, while liberty interests entitled
+to procedural due process protection may be created by state law as
+well as the Constitution itself, those entitled to substantive due pro-
+cess protection (whatever the procedures afforded) are "created only
+by the Constitution." Regents of Univ. of Mich. v. Ewing, 474 U.S.
+214, 229 (1985) (Powell, J., concurring). And, if not by positive state
+law, surely not by conduct of state officials giving rise to some form
+of right-by-estoppel. Cf. Connecticut Bd. of Pardons v. Dumschat,
+452 U.S. 458, 464-65 (1981) (holding that constitutionally protected
+liberty interest in commutation of prisoner's sentence "cannot be
+created--as if by estoppel"--from consistent practice of commutation
+by state officials in "most" cases) (quotation omitted).
+Our conclusion that the liberty interest asserted by Hawkins is not
+a "fundamental" one means that if, as we now assume arguendo, state
+legislation is the effective cause of its impingement, the legislation
+need only be rationally based to survive judicial review. See
+Glucksberg, 521 U.S. at 728 (so holding). Given the obvious state
+interests involved in re-imprisoning any erroneously released convict,
+see ante at 21, legislation requiring it in this case clearly survives that
+level of review.
+2.
+Before leaving the "fundamental right" point, we should take
+account of a number of judicial decisions that Hawkins contends indi-
+                                24
+
+cate, at odds with our conclusion, that the right he asserts is a "funda-
+mental" one. We disagree, and briefly explain our reasons.
+His principal reliance is upon two decisions of this court which he
+contends already have recognized the right as one entitled to substan-
+tive due process protection. In United States v. Lundien, 769 F.2d 981
+(4th Cir. 1985), cert. denied, 474 U.S. 1064 (1986), followed by
+United States v. Cook, 890 F.2d 672 (4th Cir. 1989), we considered
+constitutional challenges to the power of courts to increase sentences
+after their formal impositions. In both cases, the court posited that at
+some point a prisoner's expectation of the duration of his sentence as
+imposed would "crystallize" and thereby give rise to an enforceable
+due process right to its finality. In neither case, however, was the pos-
+ited right found to have arisen. See Lundien, 769 F.2d at 987; Cook,
+890 F.2d at 675.
+Aside from the fact that in view of their specific holdings the due
+process assumptions made in those cases were dicta, they could not
+be taken even as persuasive dicta for assessing the quite different
+right asserted by Hawkins. In the first place, neither decision under-
+took the rigorous historical inquiry mandated by Glucksberg into
+whether the specific right they posited--that of sentence finality upon
+a sufficient lapse of time--was one sufficiently rooted in history and
+legal tradition to be considered "fundamental." And had such an
+inquiry been undertaken, it would have been concerned with a quite
+different right than that specifically asserted by Hawkins. Finally, the
+linchpin of that quite different right, a claimant's"crystallized expec-
+tations," which Hawkins would import as the linchpin of his asserted
+right, has been specifically rejected by the Supreme Court as a source
+of substantive due process right in related contexts. See Dumschat,
+452 U.S. at 465 (holding that a felon's "expectation" of commutation
+or pardon because of consistent practice in comparable cases is "sim-
+ply a unilateral hope" that does not give rise to a constitutionally pro-
+tected liberty interest); Leis v. Flynt, 439 U.S. 438, 444 n.5 (1979)
+(per curiam) (rejecting position that the "implicit promise" inherent in
+a state's "past practice" of granting pro hac vice status to non-resident
+lawyers could give rise to a constitutionally protected liberty interest
+in that status).
+                                25
+
+Next, Hawkins relies on the several decisions that have applied the
+Shields v. Beto "waiver-of-jurisdiction" theory to find due process
+violations in the re-imprisonment of erroneously released prisoners.11
+With all respect to those few courts, we do not believe that theory is
+now a viable one for finding substantive due process violations in this
+circumstance.
+First off, as applied by the courts, it makes no effort, as Glucksberg
+instructs is required, to find in history and legal tradition any recogni-
+tion of the liberty interest asserted here as a fundamental one. Instead,
+it focuses entirely on the conduct of state officials in failing over time
+to re-imprison, thereby prolonging unduly an erroneously granted
+freedom. In finding a substantive due process violation on that basis,
+it either assumes that substantive due process protects against any suf-
+ficiently arbitrary act of government, without regard to the existence
+of any affected liberty interest, or that a constitutionally protected lib-
+erty interest can be created simply by the expectation-inducing con-
+duct of state officials. Neither assumption is valid under
+contemporary substantive due process jurisprudence.
+There is no general liberty interest in being free of even the most
+arbitrary and capricious government action; the substantive compo-
+nent of the due process clause only protects from arbitrary govern-
+ment action that infringes a specific liberty interest. See Ewing, 474
+U.S. at 226 (observing that courts may not invalidate legislation
+merely because it is thought arbitrary or unreasonable); Nunez v. City
+of Los Angeles, 147 F.3d 867, 873 (9th Cir. 1998) ("There is no gen-
+eral liberty interest in being free from capricious government
+action."); Dobrovolny v. Moore, 126 F.3d 1111, 1113 (8th Cir. 1997)
+("[W]here no [protected life, liberty or property] interest exists, there
+can be no due process violation."), cert. denied, 118 S. Ct. 1188
+(1998).
+Nor, as earlier discussed, can liberty interests protected by the sub-
+stantive component of the due process clause be found except in the
+_________________________________________________________________
+11 See Johnson, 682 F.2d 868 (alternative ground); Shelton, 578 F.2d
+1241 (applying theory to remand for evidentiary hearing on waiver
+issue); Shields, 370 F.2d 1003; Merritt, 478 F. Supp. 804; Lanier, 361
+F. Supp. 944.
+                                26
+
+Constitution itself; they cannot be created by state law nor, perforce,
+simply by the reliance- or expectation-inducing conduct of state offi-
+cials. See Ewing, 474 U.S. at 229 (Powell, J., concurring).
+With respect, we therefore believe the waiver-of-jurisdiction theory
+runs afoul of both these limiting principles of contemporary substan-
+tive due process law. Accordingly, we can find no support for Haw-
+kins's claim in decisions applying it.
+Finally, Hawkins relies on DeWitt v. Ventetoulo, 6 F.3d 32 (1st Cir.
+1993), in which the court found due process (whether substantive or
+procedural is not clear) violated by the re-imprisonment of a state
+parolee following the restoration of an original sentence whose erro-
+neous reduction had resulted in a premature grant of parole. The court
+treated the claim as essentially one challenging on due process
+grounds the effective increase (by restoration) of the previously
+reduced sentence. Relying in part on our decisions in Lundien and
+Cook which had posited constitutional limits, defined by the "crystal-
+lization" of a prisoner's induced expectations, on the judicial power
+to increase sentences, the court found that constitutional right vio-
+lated. Without attempting to identify or locate the specific liberty
+interest being asserted in history and tradition, the court based its con-
+clusion on, inter alia, the state's untoward delay in revoking parole,
+the parolee's lack of complicity in the underlying administrative error,
+and the reasonable expectations of continued freedom that had
+resulted. See id. at 35-36. For the same reasons we find Lundien and
+Cook inapposite to issues presented by Hawkins's quite different
+claim, we find DeWitt similarly unpersuasive under current substan-
+tive due process law.
+*   *   *
+We have concluded that under current Supreme Court substantive
+due process doctrine, no violation of constitutional right can be found
+in this case. Specifically, we hold that the precise liberty interest
+asserted here--that of continuing in a state of freedom erroneously
+granted by government and enjoyed for a significant time by a convict
+who yet remains under an unexpired lawful sentence--cannot be
+found one of "those fundamental rights and liberties which are objec-
+tively `deeply rooted in this Nation's history and tradition.'" See
+                                27
+
+Glucksberg, 521 U.S. at 720-21 (quoting Moore 431 U.S. at 503).
+Nor, unless possibly when solely animated by a vindictive or oppres-
+sive purpose that is not suggested here, could the executive act of re-
+imprisoning under such circumstances be declared"shock[ing to] the
+contemporary conscience." See Lewis, 118 S. Ct. at 1717 n.8.
+If recourse from this regrettably frequent occurrence in penal sys-
+tem administration is to be had by state convicts, it must be found, as
+frequently it has been, by courts applying state common law and equi-
+table principles, or by executive clemency.12
+AFFIRMED
+MURNAGHAN, Circuit Judge, dissenting:
+Because I believe that the Constitution protects the right of a per-
+son to be secure in his liberty after twenty months of freedom during
+which his expectations of continued freedom rightfully crystallized,
+I respectfully dissent from the majority.
+I.
+On February 27, 1981, Irving Hawkins was convicted in Guilford
+County, North Carolina, of the possession, sale, and delivery of
+cocaine. Because he qualified as a habitual felon, he was sentenced
+_________________________________________________________________
+12 A recent example of clemency is reported in Woman Whom Law
+Forgot Is Set Free, News & Observer, Jan. 19, 1998, at A5. As there
+reported, after being convicted of manslaughter in Florida in 1981, when
+she was forty-one years old, Loretta Randley was sentenced to eight
+years in prison. As a result of continuing administrative oversight, she
+was allowed to remain free for the following 16 years. Imprisoned in
+1997 when the error was discovered, she was soon after granted a reduc-
+tion of four years on her eight-year term by a state trial judge who,
+applying general equitable principles, found full commutation not war-
+ranted despite Randley's apparently exemplary behavior during her six-
+teen years of unauthorized freedom. While review of the court's
+reduction of sentence was pending, Randley sought executive clemency
+which was granted by the state clemency board in the form of commuta-
+tion of her sentence to time served.
+                                28
+
+to fifty years in prison. He also received a concurrent ten-year sen-
+tence for possession of cocaine.
+Hawkins received conflicting messages concerning his parole date
+throughout his time in prison. Sometime within his first year and a
+half of incarceration, the Parole Commission informed Hawkins that
+he would be eligible for parole very shortly after his conviction. On
+June 14, 1982, the Commission informed Hawkins that it had been
+mistaken; he would be ineligible for parole until October 20, 2010.
+The Commission told Hawkins at the time that "we have studied all
+the facts in your case and we are sure that we are following the
+requirements of the law . . . ." The following year, the Commission
+changed its mind once again. The Commission informed Hawkins
+that "[a]fter carefully checking your parole eligibility date, we find
+that you will not be eligible for parole until April 20, 2018."
+In March of 1992, Hawkins received a letter from the Commission
+advising him that the Commission was considering him for early
+parole under the Community Service Parole statute. 1 North Carolina
+passed the Community Service Parole statute, in part, to alleviate a
+prison overcrowding crisis in the North Carolina penal system.
+Hawkins, in fact, was not eligible for early parole under the statute
+because North Carolina law had changed shortly after Hawkins was
+convicted. At the time of Hawkins' conviction, North Carolina law
+provided that a "habitual felon" who was convicted of a felony had
+to serve at least 75% of his or her sentence before becoming eligible
+for parole. See N.C. Gen. Stat. § 14-7.6 (repealed 1981). A few
+months after Hawkins' conviction and sentencing, however, the law
+was repealed and replaced with a law that required habitual felons
+convicted of felonies to serve at least seven years before becoming
+parole eligible. Because the new law only operated prospectively,
+Hawkins was not entitled to the benefit of the more lenient parole sys-
+tem for which he would have been qualified, having served eleven
+years. In any event, it is likely that when Hawkins received his letter
+from the Commission in 1992, he had seen felons with criminal histo-
+ries, sentences, and offenses identical to his own (though committed
+_________________________________________________________________
+1 It is interesting to note that Hawkins never applied for early parole.
+                                29
+
+after July 1981), released on parole after having served seven years
+of their sentences.
+When the Commission contacted Hawkins in March of 1992, it
+was no longer confused as to what date he was legally eligible for
+parole. A memo from the case analyst to the unit supervisor stated
+clearly that Hawkins' parole eligibility date was April 20, 2018. The
+Commission nevertheless decided to act as though Hawkins qualified
+for the Community Service Parole program.2 
+In order to parole Hawkins under the program, the Commission
+had to find that Hawkins was unlikely to engage in further criminal
+conduct. Hawkins thus went through a fairly detailed procedural
+review. In the four months between March 13, 1992 and July 6, 1992,
+Hawkins was required to submit home and job plans to the Commis-
+sion for approval. The Parole Case Analyst assigned to Hawkins con-
+ducted an investigation with the help of a field worker. Those
+individuals interviewed Hawkins and law enforcement officials famil-
+iar with him. Based on this information, the Case Analyst made a rec-
+ommendation of parole to the full Commission. The full Commission
+then approved it. That lengthy and involved procedure, involving the
+participation and review of numerous individuals in the law enforce-
+ment community, could only have added to Hawkins' belief that he
+truly was eligible for parole.
+Confirming Hawkins' belief in a way that must have been immea-
+surably powerful to his psyche, Hawkins was actually released from
+prison on July 6, 1992. Out in the community, Hawkins began the
+process of rebuilding his life. He reunited with his family and friends.
+He moved in with his brother, paying half of the monthly expenses.
+He obtained a job. He aided with the care of his mother. He tried to
+reestablish ties with his children. He got engaged. All the while, Haw-
+kins substantially complied with his parole obligations.
+_________________________________________________________________
+2 The desire to eliminate the State's prison overcrowding crisis appears
+to have led to the bungling surrounding Hawkins' parole. Given the evi-
+dence that Hawkins was not eligible for parole until 2018, the State's
+bungling was worse than mere negligence.
+                                30
+
+After twenty months of settling into the routines of a life without
+incarceration, Hawkins was abruptly arrested. Hawkins was not
+arrested because he had violated his parole, nor had the Commission
+learned of a reason to change its assessment that Hawkins was not a
+threat (in fact, twenty months of evidence supported the Commis-
+sion's assessment). Instead, the Commission reincarcerated Hawkins
+because, as it turned out, he had been ineligible for parole under the
+community service program by a few months.3
+Hawkins had been paroled through no fault or connivance of his
+own. Though this parole was erroneously granted, Hawkins had no
+reason to know of that error. Once paroled, the only record evidence
+is that for twenty months while on parole he handled himself as a
+model citizen. He committed no crimes and substantially complied
+with his parole obligations. During that time, Hawkins, who had
+behaved well during his prison term, on parole adjusted to and settled
+into his liberty. He had every right to expect, and did indeed expect,
+that he would retain that liberty so long as he complied with his
+parole obligations. The State returned Hawkins to jail, not because of
+any new wrongdoing, but to enforce the letter of a law that the State
+had repealed almost two decades ago.
+II.
+The Due Process Clause of the Fourteenth Amendment guarantees
+that no state shall "deprive any person of life, liberty, or property,
+without due process of law." U.S. CONST. amend. XIV. Although a lit-
+eral reading of the Clause may suggest that the government only has
+to afford its citizens a fair process, the Clause has been understood to
+contain a substantive component as well, "barring certain government
+actions regardless of the fairness of the procedures used to implement
+them." County of Sacramento v. Lewis, 118 S. Ct. 1708, 1713 (1998)
+(quoting Daniels v. Williams, 474 U.S. 327, 331 (1986)).
+The Due Process Clause expands the scope of individual liberty
+beyond the rights guaranteed in the first eight amendments to the
+Constitution. The Supreme Court has recognized a special group of
+_________________________________________________________________
+3 It is unclear how North Carolina's prison overcrowding situation had
+changed, if at all, between 1992 and 1994.
+                                31
+
+rights that deserve protection under the Due Process Clause, despite
+not being explicitly mentioned in the Bill of Rights. The Court has
+"regularly observed that the Due Process Clause specially protects
+those fundamental rights and liberties which are, objectively, `deeply
+rooted in this Nation's history and tradition,' and`implicit in the con-
+cept of ordered liberty,' such that `neither liberty nor justice would
+exist if they were sacrificed.'" Washington v. Glucksberg, 521 U.S.
+702, 720-21 (1997) (quoting Moore v. City of East Cleveland, 431
+U.S. 494, 503 (1977) (plurality opinion), Palko v. Connecticut, 302
+U.S. 319, 325 (1937), and id. at 326) (emphasis added) (citations
+omitted).
+Courts are often called on to exercise their reasoned judgment to
+protect fundamental personal liberties from the overreaching of the
+State. See Planned Parenthood of Southeastern Pennsylvania v.
+Casey, 505 U.S. 833, 849 (1992). As Justice Harlan aptly noted:
+Due Process has not been reduced to any formula; its con-
+tent cannot be determined by reference to any code. The
+best that can be said is that through the course of this
+Court's decisions it has represented the balance which our
+Nation, built upon postulates of respect for the liberty of the
+individual, has struck between that liberty and the demands
+of the organized society.
+Poe v. Ullman, 367 U.S. 497, 542 (1961) (Harlan, J., dissenting from
+dismissal on jurisdictional grounds), quoted in Casey, 505 U.S. at
+849-50 (1992). It is also true, however, that the Supreme Court has
+been "reluctant to expand the concept of substantive due process."
+Glucksberg, 521 U.S. at 720 (quoting Collins v. City of Harker
+Heights, 503 U.S. 115, 125 (1992)). Nevertheless, "[i]t is a promise
+of the Constitution that there is a realm of personal liberty which the
+government may not enter. We have vindicated this principle before.
+Marriage is mentioned nowhere in the Bill of Rights and interracial
+marriage was illegal in most states in the 19th century, but the Court
+was no doubt correct in finding it to be an aspect of liberty protected
+against state interference by the substantive component of the Due
+Process Clause in Loving v. Virginia." Casey, 505 U.S. at 847-48
+(citation omitted).
+                                32
+
+In the case at bar, we are asked whether the State's reincarceration
+of a rehabilitated parolee after twenty months of successful reintegra-
+tion into society violates the Due Process Clause of the Fourteenth
+Amendment. The majority believes that the State can, consistent with
+the Due Process Clause, reincarcerate a parolee it released errone-
+ously regardless of the amount of time the parolee has lived as a free
+man. I respectfully disagree. The framework for analyzing Hawkins'
+due process claim depends on whether the State's alleged violation
+was by executive act or by legislative enactment. The Supreme
+Court's "shocks the conscience" test, recently reaffirmed in Lewis,
+only applies to cases of executive action. See Lewis, 118 S. Ct. at
+1716-17. Although I analyzed Hawkins' claim initially as if it
+involved executive action, I am now persuaded that Lewis does not
+apply to the case at bar.
+Lewis involved a substantive due process challenge to a death
+caused by a reckless police chase of a speeding motorcycle. See id.
+at 1712-13. It thus was a classic example of executive action--an
+individual police officer making an on the spot discretionary judg-
+ment as to the appropriate way to enforce a law. Here, however, it
+was evident by the State's admissions during oral argument that,
+although the Parole Commission formally was the actor responsible
+for reincarcerating Hawkins, the Commission's decision was required
+by a non-discretionary, systemic policy. Challenges to systemic poli-
+cies are unlike challenges to police chases. The legislative-executive
+distinction announced by the Court in Lewis is justified by the under-
+lying principle that "substantive due process is most apt when mar-
+shaled to protect individual rights against systematic governmental
+invasion. [Because] [l]egislation reflects the institutional judgment of
+an entire branch of the government, while some forms of executive
+action can be undertaken by a single actor . . . it was reasonable for
+the Court to impose a different standard" on the former than on the
+latter. The Supreme Court, 1997 Term--Leading Cases, 112 HARV. L.
+REV. 192, 198 (1998). The use of the"shocks the conscience" inquiry
+therefore is not necessarily appropriate in cases such as this one
+involving the non-discretionary application of a legislative policy.
+                                33
+
+III.
+A.
+The substantive due process framework for analyzing Hawkins'
+claim is that detailed in Washington v. Glucksberg, 521 U.S. 702
+(1997). Substantive due process acts to protect those "fundamental
+rights and liberties which are, objectively, `deeply rooted in this
+Nation's history and tradition,' and `implicit in the concept of ordered
+liberty,' such that `neither liberty nor justice would exist if they were
+sacrificed.'" Id. at 720-21 (quoting Moore v. City of East Cleveland,
+431 U.S. 494, 503 (1977) (plurality opinion), Palko v. Connecticut,
+302 U.S. 319, 325 (1937), and id. at 326) (citations omitted). The
+Supreme Court has counseled that "[o]ur Nation's history, legal tradi-
+tions, and practices thus provide the crucial `guideposts for responsi-
+ble decisionmaking,' that direct and restrain our exposition of the Due
+Process Clause." Id. at 721 (quoting Collins, 503 U.S. at 125). The
+government may not infringe upon a fundamental right unless the
+infringement is narrowly tailored to serve a compelling state interest.4
+See id.
+The Supreme Court has advised us to be reluctant in breaking new
+ground in recognizing fundamental rights. Hawkins has not asked us
+to break any new ground. A number of cases, including two decisions
+from the Fourth Circuit, have already recognized that Hawkins' lib-
+erty interest is fundamental. These cases have held that it is funda-
+mentally unfair and violates the guarantee of due process for a court
+to increase a sentence, even when correcting an unlawful sentence,
+once the defendant has served so much of his original sentence that
+"his expectations as to its finality have crystallized." See, e.g., United
+States v. Lundien, 769 F.2d 981, 987 (4th Cir. 1985); United States
+v. Cook, 890 F.2d 672, 675 (4th Cir. 1989).
+In Lundien, the district court sentenced the defendant to two con-
+current ten-year prison terms. Five days later, however, the court
+increased the defendant's sentence to twenty years in prison. See
+Lundien, 769 F.2d at 982. The defendant challenged his amended sen-
+_________________________________________________________________
+4 The Glucksberg test does not consider whether the State's conduct
+"shocks the conscience."
+                                34
+
+tence, and the Fourth Circuit ruled on the constitutionality of the dis-
+trict court's actions. The court held that the Double Jeopardy Clause
+did not address the defendant's situation. Instead, the court stated that
+"[i]t seems more likely that any constitutional source for protection of
+the defendant's interest in the finality of his sentence must be found
+in the fifth amendment's guarantee of due process." Id. at 986.
+The court recognized that the Due Process Clause places some
+outer limits on the State's ability to alter a defendant's sentence. The
+court outlined the following principle that applies to the case at bar:
+[D]ue process may also be denied when a sentence is
+enhanced after the defendant has served so much of his sen-
+tence that his expectations as to its finality have crystallized
+and it would be fundamentally unfair to defeat them. As the
+First Circuit has stated the principle:
+[T]he power of a sentencing court to correct even
+a statutorily invalid sentence must be subject to
+some temporal limit. When a prisoner first com-
+mences to serve his sentence, especially if it
+involves a long prison term as here, the prospect
+of release on parole or otherwise may seem but a
+dimly perceived, largely unreal hope. As the
+months and years pass, however, the date of that
+prospect must assume a real and psychologically
+critical importance. The prisoner may be aided in
+enduring his confinement and coping with the
+prison regime by the knowledge that with good
+behavior release on parole or release outright will
+be achieved on a date certain. After a substantial
+period of time, therefore, it might be fundamen-
+tally unfair, and thus violative of due process for
+a court to alter even an illegal sentence in a way
+which frustrates a prisoner's expectations by post-
+poning his parole eligibility or release date far
+beyond that originally set.
+Id. at 987 (quoting Breest v. Helgemore , 579 F.2d 95, 101 (1st Cir.
+1978) (emphasis added) (second alteration in original). After conduct-
+                                35
+
+ing the due process analysis, however, the court held for the govern-
+ment on the facts because the defendant had served only five days of
+his ten-year sentence. His expectations as to the finality of the sen-
+tence therefore had not crystallized. See id. 
+The Fourth Circuit reaffirmed the principle announced in Lundien
+in United States v. Cook, 890 F.2d 672 (4th Cir. 1989). In Cook, the
+court recognized that a court's inherent power to correct a mistaken
+sentence was not absolute. In doing so, it explained:
+This inherent power is not without limitation, for at some
+point every sentence must become final. As we indicated in
+United States v. Lundien, it would be fundamentally unfair
+and a violation of due process to allow a district court to
+enhance a sentence "after the defendant has served so much
+of his sentence that his expectations as to its finality have
+crystallized."
+Id. at 675 (quoting Lundien, 769 F.2d at 987) (part of citation omit-
+ted). The court therefore held that the district court's power to correct
+even "an acknowledged and obvious mistake" in sentencing "exists
+only during that period of time in which either party may file a notice
+of appeal. After that time, we believe that the sentence has become
+final, and the district court lacks any authority to modify it." Id.
+The First Circuit followed our decisions in Lundien and Cook and
+held for a parolee on due process grounds in Dewitt v. Ventetoulo, 6
+F.3d 32 (1st Cir. 1993). Dewitt had been sentenced to life imprison-
+ment after being convicted of assault with intent to murder. See id. at
+33. While in prison, Dewitt aided a prison guard who was attacked
+by an inmate and later testified for the state in the prosecution of the
+inmate. In recognition of these efforts, the trial court suspended all
+but fifteen years of the defendant's life sentence. See id.
+Two years later, the state supreme court held in a separate case that
+a trial court could not suspend a sentence once a defendant had begun
+to serve it. See id. Nevertheless, the State made no effort to undo the
+suspension of the defendant's sentence. Six years after the State par-
+tially suspended his sentence, the State granted the defendant parole
+and released him from prison. The defendant would not have been eli-
+                                36
+
+gible for parole for another sixteen months had the State not sus-
+pended his sentence. See id.
+After his parole, Dewitt started a painting business and then a sid-
+ing business. Dewitt also was able to reestablish relationships with his
+family members and his girlfriend. See id. Eight months after his
+release, however, he was involved in an altercation for which he was
+arrested. Instead of seeking to revoke his parole, the State vacated its
+earlier order suspending Dewitt's life sentence. Dewitt was recommit-
+ted to serve the remainder of his term of life imprisonment. See id.
+Reserving the question whether Dewitt had violated the conditions
+of his parole, the First Circuit addressed Dewitt's argument that his
+reincarceration violated the Due Process Clause. The court held that
+due process fundamental fairness prohibited the State from reimpos-
+ing Dewitt's original life term. Citing Lundien , the court stated that:
+A convicted defendant does not automatically acquire a
+vested interest in a mistakenly low sentence. Only in the
+extreme case can a court properly say that the later upward
+revision of a sentence, made to correct an earlier mistake, is
+so unfair that it must be deemed inconsistent with funda-
+mental notions of fairness embodied in the Due Process
+Clause.
+Id. at 35. The court then held that Dewitt's reincarceration was an
+"extreme case" that violated his due process rights. The State with due
+diligence could have challenged the suspension of Dewitt's sentence
+far earlier than it did. Further:
+Dewitt not only continued for a number of years in prison
+reasonably believing that his sentence had been reduced, but
+he was actually released. He remained free from January
+1987 to September 1987 and laid down new roots in society,
+acquiring a job and reestablishing family ties. Only at this
+point, did the superior court correct its original mistake and
+reimprison him. The lengthy delay and change of circum-
+stances are not decisive but they contribute to the judgment
+whether due process was afforded by the belated reopening.
+                                37
+
+Id.
+A number of other courts, both at the federal and state level, have
+recognized the due process right set out in Lundien, Cook, and Dewitt.
+See, e.g., United States v. Watkins , 147 F.3d 1294, 1298 n.5 (11th Cir.
+1998) ("We are mindful that a defendant's due process rights may be
+violated `when a sentence is enhanced after the defendant has served
+so much of his sentence that his expectations as to its finality have
+crystallized and it would be fundamentally unfair to defeat them.'")
+(quoting Lundien, 769 F.2d at 987); United States v. Tolson, 935 F.
+Supp. 17, 21 (D.D.C. 1996) ("[T]he Due Process Clause prohibits
+enhancing a defendant's sentence after he has served so much of it
+that his expectations have crystallized."); United States v. Davis, 112
+F.3d 118, 123 (3d Cir. 1997); United States v. Campbell, 985 F. Supp.
+158, 160-61 (D.D.C. 1997), aff'd, 172 F.3d 921 (4th Cir. 1998);
+Thayer v. United States, 937 F. Supp. 662, 667 (E.D. Mich. 1996);
+Santiago v. United States, 954 F. Supp. 1201, 1203 (N.D. Ohio 1996);
+United States v. Crowder, 947 F. Supp. 1183, 1193 (E.D. Tenn.
+1996); Merritt v. United States, 930 F. Supp. 1109, 1115 (E.D.N.C.
+1996); State v. Humes, 581 N.W.2d 317, 321 & n.22 (Minn. 1998);
+Austin v. State, 663 A.2d 62, 64-65 (Me. 1995); Nelson v.
+Commonwealth, 407 S.E.2d 326, 329 (Va. App. 1991). Most of these
+courts have held for the government on the facts. None of these
+courts, however, has questioned the legitimacy of the due process
+principle set out in our prior decisions.
+Fourth Circuit law provides that after an inmate is released on
+parole, his reasonable expectation of continued freedom crystallizes
+over time. Once crystallized, that reasonable expectation of freedom
+is a legitimate liberty interest protected by the Due Process Clause.
+The First Circuit in Dewitt followed the statement in Lundien that
+"due process must in principle impose an outer limit on the ability to
+correct a sentence after the event." Dewitt , 6 F.3d at 36. We should
+do the same and I, therefore, would continue to adhere to the princi-
+ples of due process outlined in Lundien and Cook in analyzing
+whether Hawkins is entitled to relief.
+Hawkins was released after his eleven years of good behavior in
+prison led the State to erroneously believe he should receive commu-
+nity service parole. Hawkins had no reason to know that his release
+                                38
+
+on community service parole was erroneous, especially given the
+release of similarly situated prisoners who were able to take advan-
+tage of the more lenient parole law passed months after Hawkins'
+conviction. For twenty months, Hawkins stayed out of trouble and
+substantially complied with his parole obligations. He obtained a col-
+lege degree. Hawkins, thereafter, rebuilt his life as a free man, and it
+appeared that his prison days were behind him. Hawkins reestablished
+family ties, obtained a job, and reunited with a sweetheart.
+Hawkins' case is thus indistinguishable from Dewitt. Both Haw-
+kins and Dewitt rebuilt their lives during substantial terms of mis-
+taken release before the State attempted to correct its misjudgments
+and they were reincarcerated. The First Circuit held that, under those
+facts, Dewitt had an expectation of continued freedom that deserved
+protection under the Due Process Clause. Similarly, Hawkins' funda-
+mental right to continued freedom crystallized over the twenty month
+period that he was on parole. When the state rearrested Hawkins, it
+infringed Hawkins' liberty interest.
+The question now becomes whether the State's violation of Haw-
+kins' substantive due process right was narrowly tailored to serve a
+compelling state interest. Glucksberg, 521 U.S. at 721. The State
+asserts interests in deterrence, rehabilitation, and the consistent appli-
+cation of its laws that allegedly justify reincarcerating an erroneously
+released inmate to serve the remainder of his term. The State's
+asserted interests, however, do not survive strict scrutiny.5
+The State's interest in general or specific deterrence cannot survive
+strict scrutiny. It is not likely that any individual will be less deterred
+from committing a crime because he believes that, if he is caught,
+convicted and sentenced, the Parole Commission may erroneously
+parole him too early, and thereafter he will not be rearrested. The
+rearrest of Hawkins is not narrowly tailored to serve any compelling
+interest in general or specific deterrence.
+_________________________________________________________________
+5 For a more comprehensive analysis of why the State's interests do not
+survive strict scrutiny, see the panel opinion at 166 F.3d 267, 279-80 (4th
+Cir. 1999). I include only a brief description here because the majority
+does not contend that the State's asserted interests would survive strict
+scrutiny.
+                                39
+
+The State does not have a compelling interest in reincarcerating
+Hawkins for rehabilitative reasons. The State, by paroling Hawkins,
+found that Hawkins was unlikely to engage in further criminal con-
+duct; twenty months of law-abiding behavior confirmed the State's
+assessment. The State's interest in rehabilitation therefore is weak.
+Last, the State has an interest in the consistent enforcement of its
+sentencing provisions. The State's interest, however, would have been
+better served by a competent determination of when Hawkins was eli-
+gible for parole in the first place. The Parole Commission's continu-
+ally shifting yet continually confident yet inaccurate determinations
+were not at all well-tailored to the consistent enforcement of its sen-
+tencing provisions. The State's errors preclude it from asserting a
+compelling interest in reincarcerating Hawkins that would justify
+interference with Hawkins' fundamental right to continued freedom.
+B.
+The majority justifies ignoring the principles from Lundien, Cook,
+and its progeny because those cases did not "under[take] the rigorous
+historical inquiry mandated by Glucksberg into whether the specific
+right they posited--that of sentence finality upon a sufficient lapse of
+time--was one sufficiently rooted in history and legal tradition to be
+considered `fundamental.'" Maj. op. at 25. Assuming, arguendo, that
+the majority is correct in ignoring these decisions, I will analyze anew
+whether Hawkins' liberty interest qualifies as a right that is "implicit
+in the concept of ordered liberty."
+Hawkins' asserted liberty interest is the right to resist reincarcera-
+tion and protect settled expectations of freedom. 6 In Glucksberg, the
+_________________________________________________________________
+6 The majority defines the fundamental right at stake as "that of a pris-
+oner to remain free on erroneously granted parole so long as he did not
+contribute to or know of the error and has for an appreciable time
+remained on good behavior to the point that his expectations for contin-
+ued freedom from reincarceration have crystallized." Maj. op. at 22-23.
+With respect, I believe that the majority's formulation of the fundamental
+right confuses what is needed to take advantage of the fundamental right
+with the right itself. The fundamental right is the right to preserve settled
+expectations of freedom. To take advantage of this fundamental right, a
+                                40
+
+Supreme Court analyzed the specific liberty at issue in deciding
+whether the asserted liberty qualified as a fundamental right. The
+Court cited the states' longstanding bans on assisted suicide as a
+major reason why it would not recognize a fundamental right to
+assisted suicide. See Glucksberg, 521 U.S. at 723. Conversely, the
+case at bar does not provide such historical data, probably because the
+erroneous release of prisoners is largely a function of the growth of
+the administrative state in the late twentieth century.7 Because the his-
+tory of the specific factual situation at issue in this case is not a useful
+guide, we must analyze how Hawkins' asserted liberty interest is
+viewed in our legal tradition.
+_________________________________________________________________
+parolee must remain on good behavior while out of prison. If the parolee
+misbehaves, the state would have a compelling interest in reincarceration
+that would trump the parolee's fundamental right. An analogy to the
+abortion cases might help clarify this distinction. The Supreme Court has
+held that a woman has a fundamental right to have an abortion. See Roe
+v. Wade, 410 U.S. 113, 154 (1973); Casey, 505 U.S. at 846. If the State
+has a compelling interest in the viability of the fetus, however, the
+woman cannot take advantage of her fundamental right to an abortion.
+See Roe, 410 U.S. at 163; Casey, 505 U.S. at 846. However, courts have
+never described the fundamental right to abortion as"the right of a
+woman who has become pregnant to terminate her pregnancy so long as
+the state does not have a compelling interest in maintaining the viability
+of the fetus." I therefore disagree with the majority's formulation of the
+specific right at issue, although I realize that the description of funda-
+mental rights is an area of continual turmoil in American jurisprudence.
+7 The majority cites a Law Review article outlining the history of pris-
+oners released erroneously. See Gabriel J. Chin, Getting Out of Jail Free:
+Sentence Credit for Periods of Mistaken Liberty, 45 CATH U. L. REV. 403
+(1996). Given that almost all of the decisions cited in the article occurred
+after 1930, and most occurred after 1970, these cases do not provide the
+kind of historical survey conducted by the Supreme Court in substantive
+due process cases. Further, given that many of these courts developed
+legal doctrines to restrict the State's decision to reincarcerate, the article
+lends no support to the State's position. See , e.g., Johnson v. Williford,
+682 F.2d 868, 873 (9th Cir. 1982); United States v. Merritt, 478 F. Supp.
+804, 805-06 (D.D.C. 1979); Shields v. Beto, 370 F.2d 1003, 1005-06 (5th
+Cir. 1967).
+                                41
+
+Hawkins' liberty interest is an interest common in the law--the
+right to preserve settled expectations and the need for finality. For
+instance, the Supreme Court has held that the primary purpose of the
+Double Jeopardy Clause of the Constitution was "to preserve the
+finality of judgments." Crist v. Bretz, 437 U.S. 28, 33 (1978). The
+Court has also stated that the "public interest in the finality of crimi-
+nal judgments is so strong that an acquitted defendant may not be
+retried even though `the acquittal was based upon an egregiously erro-
+neous foundation.'" United States v. DiFrancesco, 449 U.S. 117, 129
+(1980) (quoting Fong Foo v. United States, 369 U.S. 141, 143 (1962))
+(per curiam). Courts therefore have held that Double Jeopardy bars
+resentencing when the defendant has developed a legitimate expecta-
+tion of finality in his original sentence. See, e.g., United States v.
+Silvers, 90 F.3d 95, 101 (4th Cir. 1996).
+The Ex Post Facto Clause of the Constitution also operates to pre-
+serve settled expectations. Article I, § 10 of the Constitution provides
+that "[n]o State shall . . . pass any . . . ex post facto Law." Americans
+have the constitutional right to be secure in their expectation that their
+conduct, if legal when committed, will not lead to their incarceration.
+In the prison context, the Supreme Court has held that the retroactive
+removal of a prisoner's "good time credits" violates the Ex Post Facto
+Clause, in part, because it defeats the defendant's expectation as to
+the probable length of his sentence when he pleads guilty to an
+offense. See Lynce v. Mathis, 117 S. Ct. 891, 898 (1997); see also Hill
+v. Jackson, 64 F.3d 163, 167 (4th Cir. 1995) ("The purposes of the
+Ex Post Facto Clause are to assure that legislative acts `give fair
+warning of their effect and permit individuals to rely on their meaning
+until explicitly changed' and to `restrict[ ] governmental power by
+restraining arbitrary and potentially vindictive legislation.'") (quoting
+Weaver v. Graham, 450 U.S. 24, 28-29 (1981)) (emphasis in origi-
+nal).
+Another example of the importance of finality and the need for set-
+tled expectations is the presumption against the retroactive application
+of new laws. The Supreme Court has held that there is a presumption
+that constitutional rules will not be applied retroactively to a prison-
+er's habeas corpus claims.8 See Teague v. Lane, 489 U.S. 288 (1988).
+_________________________________________________________________
+8 I realize that the presumption against the retroactive application of
+new laws is a judge-made rule and not a constitutional mandate. The
+                                42
+
+In Teague, the Court stated that "[a]pplication of constitutional rules
+not in existence at the time a conviction becomes final seriously
+undermines the principle of finality which is essential to the operation
+of our criminal justice system." Id. at 309. The court also quoted the
+following statement by Justice Harlan: "No one, not criminal defen-
+dants, not the judicial system, not society as a whole is benefited by
+a judgment providing a man shall tentatively go to jail today, but
+tomorrow and every day thereafter his continued incarceration shall
+be subject to fresh litigation." Id. (quoting Mackey v. United States,
+401 U.S. 667, 691 (1971)) (Harlan, J., concurring in part and dissent-
+ing in part).
+Other areas of the law also focus on the need for finality and the
+protection of settled expectations. Statutes of limitations, the equitable
+doctrine of laches, waiver, and estoppel exist to cut off the State,
+criminal defendants, and civil litigants from defeating the expectation
+interests of an opposing party. The need for finality even prohibits the
+correction of admitted errors of constitutional dimension after time
+and circumstances have intervened. See, e.g., Coleman v. Thompson,
+501 U.S. 722, 750 (1991) (procedural default rule under federal
+habeas corpus review).
+Thus, the right to preserve settled expectations and the need for
+finality are fundamental to our system of justice. After a certain point,
+even acknowledged errors must be overlooked to protect settled
+expectations in the interest of fairness and ordered liberty. Given
+these legal traditions, I would find that Hawkins had a fundamental
+liberty interest in his settled expectation of freedom that was infringed
+by the State's decision to reincarcerate him.9
+_________________________________________________________________
+Supreme Court's willingness to ignore constitutional claims on habeas in
+the interest of finality, however, shows how embedded the concept of
+finality is in American jurisprudence.
+9 For the reasons stated in the previous section and the panel opinion,
+the State's interests do not trump Hawkins' fundamental right because
+they do not survive strict scrutiny.
+                                43
+
+IV.
+I would grant Hawkins relief even should the "shocks the con-
+science" test apply to the case at bar. The shocks the conscience test
+only applies to discretionary executive actions. I thus analyze Haw-
+kins' claim under this test as if the State made a discretionary decision
+to reincarcerate Hawkins after his successful reintegration into soci-
+ety.
+Executive action violates substantive due process"only when it
+`can properly be characterized as arbitrary, or conscience shocking,
+in a constitutional sense.'" Lewis, 118 S. Ct. at 1717 (quoting Collins,
+503 U.S. at 128). The government's conduct must be"so egregious,
+so outrageous, that it may fairly be said to shock the contemporary
+conscience." Id. at 1717 n.8.
+The Supreme Court developed the "shocks the conscience" test in
+Rochin v. California, 342 U.S. 165 (1952). In Rochin, the police
+pumped the stomach of a suspect in an effort to obtain incriminating
+drug evidence. The Court held that the police's conduct violated due
+process because "we are compelled to conclude that the proceedings
+by which this conviction was obtained do more than offend some fas-
+tidious squeamishness or private sentimentalism about combatting
+crime too energetically. This is conduct that shocks the conscience."
+Id. at 172.
+A recent decision interpreting Lewis also provides an example of
+the kind of oppressive conduct that "shocks the conscience." The gov-
+ernment's conduct satisfied the "shocks the conscience" test in
+Armstrong v. Squadrito, 152 F.3d 564 (7th Cir. 1998). In Armstrong,
+the plaintiff was a "deadbeat dad" who was behind on his child sup-
+port, and, therefore, had to report to the county jail. See id. at 567.
+Local officials told the plaintiff that following a"brief detention" at
+the lockup, he would receive a court date and then be released that
+same day. Due to an administrative error, the plaintiff remained incar-
+cerated for fifty-seven days. See id. at 568. The court stated that the
+officials' "will call policy was deficient and their practice of refusing
+complaints was appalling." Id. at 582. The court therefore held that
+"[w]hat happened to Walter Armstrong shocks the conscience." Id.
+                                44
+
+In the case at bar, the State's conduct was sufficiently egregious so
+as to shock the contemporary conscience. It is important to note that
+it is the State's intentional decision to reincarcerate Hawkins, not his
+erroneous release, that shocks the conscience. However, we must con-
+sider the State's decision to reincarcerate Hawkins in light of the
+totality of the circumstances surrounding the State's interaction with
+Hawkins. The State told Hawkins initially that he could receive parole
+shortly after his incarceration. The State then changed its mind and
+told him that 2010 was Hawkins' parole date because"we are sure
+that we are following the requirements of the law." Finally, the State
+told Hawkins that it had erred once again; Hawkins' parole date was
+not until 2018.
+Hawkins spent eleven years in prison for his actions. The State, by
+paroling Hawkins, found that he was unlikely to engage in further
+criminal conduct. Twenty months of Hawkins' parole confirmed the
+State's assessment--Hawkins never committed a crime and substan-
+tially complied with the terms of his parole. In addition, Hawkins
+rebuilt his life; he moved in with his brother, cared for his mother,
+and planned to get married to an old sweetheart.
+In March of 1994, the Commission admitted that it had erred in
+finding that Hawkins was eligible for community service parole. The
+State had the option of allowing Hawkins to remain on parole or of
+returning him to prison, and the State chose to return him to prison.
+In sum, the State: (1) played with Hawkins' mind through ever-
+changing parole dates; (2) found that he deserved early parole; (3)
+released him erroneously; (4) let him rebuild his life over twenty
+months of freedom; (5) admitted he substantially complied with his
+parole obligations; and then (6) hauled him back to prison. The State
+can assert no interest that even plausibly justifies reincarcerating
+Hawkins except its desire to enforce a law that was repealed almost
+twenty years ago. Under these circumstances, the State's decision to
+reincarcerate a rehabilitated man after twenty months of freedom
+shocks the conscience.
+V.
+I understand the majority's reluctance to rely on substantive due
+process to provide relief for Hawkins. Substantive due process
+                                45
+
+appears to be a disfavored tool in contemporary jurisprudence. I am
+concerned, however, about the effects of today's decision on future
+parolees that are erroneously released. The majority does not argue
+that a twenty month release is not long enough to justify relief under
+the Due Process Clause. Instead, the court appears to hold that the
+reincarceration of erroneously released prisoners with outstanding
+sentences never implicates a fundamental liberty interest, nor will it
+ever shock the conscience of this court.
+Consider the following hypothetical, although not implausible sce-
+nario: A parolee is not eligible for parole until 2018, but is errone-
+ously released on parole in 1992. The State does not become aware
+of the error until 2012. In the meantime, the parolee rebuilds his life
+during a successful twenty-year reintegration into society. He obtains
+a job, gets married, and has children. The State, upon learning of the
+erroneous release, drags the parolee back to prison. Under the majori-
+ty's analysis, the parolee has no fundamental right to his continued
+freedom, nor does his reincarceration shock the conscience of the
+court. The parolee thus must return to prison for six years, leaving
+behind a life and family that he had built over twenty years.10
+I cannot accept that such a reincarceration does not violate the Due
+Process Clause of the Constitution. Fundamental fairness requires
+judges to draw lines, and if we do not draw them, the State has unfet-
+tered discretion to violate the liberties of the individual. I draw the
+line here today--Irving Hawkins should be a free man so long as he
+complies with his parole requirements. I can only hope that this court
+will be willing to draw the line in the future, should my hypothetical
+scenario regretfully come to pass.
+Accordingly, I dissent.
+_________________________________________________________________
+10 I do not share the majority's confidence that clemency will be given
+in these cases. Given today's "get tough on crime rhetoric," it is specula-
+tive at best to suggest that deserving parolees will receive clemency.
+                                46

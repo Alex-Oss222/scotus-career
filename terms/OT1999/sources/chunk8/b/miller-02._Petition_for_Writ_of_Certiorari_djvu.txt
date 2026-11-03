@@ -1,0 +1,2696 @@
+(\) — — 
+No. oo 2 24 AUG 35 1999 
+
+
+OFFICE OF THE CLERK 
+
+
+In the 
+Supreme Court of the United States 
+
+
+SUPERINTENDENT OF THE PENDLETON 
+CORRECTIONAL FACILITY, ef ai. 
+Petitioners, 
+
+
+v. 
+
+
+RICHARD & FRENCH, et al., 
+
+
+Respondents. 
+
+
+On Petition for Writ of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+JEFFREY A. MODISETT 
+Attorney General of Indiana 
+JON LARAMORE 
+
+Counsel of Record 
+Deputy Attorney General 
+219 State House 
+Indianapolis, IN 46204 
+317-232-6315 
+
+
+Question Presented 
+
+
+The Prison Litigation Reform Act, 18 U.S.C. § 3626, 
+requires federal courts, upon a state’s petition, to terminate 
+injunctions governing prison operations where the 
+injunctions are not necessary to correct the violation of a 
+federal right. Section 3626(e) encourages prompt judicial 
+action on a petition to vacate by automatically suspending the 
+prospective effect of the injunction if the court does not rule 
+on the request to vacate within 90 days. 
+
+
+The question presented is whether Section 3626(e) 
+violates separation-of-powers principles by legislatively 
+specifying a rule of decision or legislatively annulling a 
+judgment. 
+
+
+Parties Below’ 
+Plaintiffs 
+
+
+Richard A. French 
+
+Morris E. Dozier 
+
+Martin W. Bradberry 
+
+Henry C. Jennings 
+
+On behalf of a class of all persons who are or may in the 
+future be confined in the Pendleton Correctional Facility, 
+Pendleton, Indiana 
+
+
+Defendants 
+
+
+Charles B. Miller, Superintendent of the Pendleton 
+Correctional Facility 
+
+
+Edward L. Cohn, Commissioner, Indiana Department of 
+Correction 
+
+
+Herbert Newkirk, Regional Director, Indiana Department of 
+Correction 
+
+
+Intervenor 
+
+
+United States of America 
+
+
+' During most of this litigation, the facility at issue was known as the 
+Indiana Reformatory. At the time the district court ruled, Jack R. 
+Duckworth was superintendent of the facility and Bruce Lemmon was the 
+relevant regional director. 
+
+
+TABLE OF CONTENTS 
+
+
+EEE a oe i 
+RD BO cccrcsssssnnmnensnenaneimmnnmiticibien ill 
+SS OU ccccsemasintmssrsninseneenneemnenciiiiiiiiittnials l 
+FERED wcsnereesscemnecnsemntesnnsssnsneciteaintiniemaniiinianesti 2 
+Statutes Implicated..................0000+. saspenescongiateiutie 2 
+SRIREINEE GE GS GBD ccccscenntenttinttmeeneimnin 3 
+Reasons for Granting the Writ ..................:.:ccceeeeeees 8 
+
+
+I. The decision below struck down an 
+important provision of the Prison Litigation 
+I I cccintiniininnantinieibiatetiteniiti dietitians i) 
+
+
+Il. The courts of appeals have adequately 
+addressed the arguments for and 
+CUE CD ceictstsectmenncneniennieii 11 
+
+
+Ill. The decision below misapplied 
+important legal doctrine. .................:cesccceseeeeeseeeeees 13 
+
+
+ELE a re VS eee 16 
+
+
+TABLE OF AUTHORITIES 
+Cases 
+Bell v. Wolfish, 441 U.S. 520 (1979) .0.......cccccccceeeeee i) 
+
+
+Benjamin v. Jacobson, 172 F.3d 144 
+es BS RS a eee 8 
+
+
+Berwanger v. Cottey, 1999 WL 288268 
+CR Gs Fa ahiiettntaetnettncitincttivnininddecrstantnitiannes 10 
+
+
+Dougan v. Singletary, 129 F.3d 1424 
+eee 8 
+
+
+French v. Duckworth, 178 F.3d 437 
+ts Cie cctinstcieiciicsicsteensbintinstnnndihittianecniinsiad passim 
+
+
+French v. Owens, 538 F. Supp. 910 
+
+(S.D. Ind. 1982), aff'd in part, rev'd in 
+
+part, 777 F.2d 1250 (7th Cir. 1985), cert. 
+
+Genied, 479 U.S. B17 (19B6) .....cccercscccecocecscocsserseseees 5 
+
+
+Gavin v. Branstad, 122 F.3d 1081 (8th Cir. 1997) ..8 
+Hadix v. Johnson, 144 F.3d 925 
+
+
+PRC TUNE chinesntttennsncinnnimnannentinesasnsseitiell 6, 7,12 
+
+Hadix v. Johnson, 133 F.3d 940 (6th Cir. 1998)......8 
+
+Imprisoned Citizens Union v. Ridge, 169 F.3d 178 
+
+ay Cee rcentienctecrnseeengninnnnstninitatatidiiadesintsnatind 8 
+
+Inmates of Suffolk Co. Jail v. Rouse, 
+
+RS ee 8 
+Vv 
+
+
+Plyler v. Moore, 100 F.3d 365 (4th Cir. 1996)........ 8 
+Ruiz v. Johnson, 178 F.3d 385 
+ee 6, 12 
+United States v. Gainey, 380 U.S. 63 (1965)........... i) 
+United States v. Klein, 80 U.S. (13 Wall.) 
+Se crcntnsecenitnsnbaineatianinaitaitiniaidintialniiaitaeniiilis 7,14 
+Washington v. Harper, 494 U.S. 210 (1990)........... 9 
+Statutes 
+
+Fe is I sin tiinitiinncinaiinnetsenrntiesaiedemeaiiaiiia 13 
+a oe 14 
+ff Ree 14 
+Be eas I irtarnriricausenientiinsiteanaieh 2, 3,4, 5,8 
+EE ree 4 
+es I crccctnstsmennininernianeiiniiiedl 4,9, 15 
+ft i) ae 6, 8, 11 
+18 U.S.C. §3626(e)......2, 7, 9, 10, 11, 12, 13, 14, 15 
+es iciicnrenstinsitieaininiinatiininaiiaiinaiiieal 4 
+1S U.S.C. SSGBEIO NZ). .cccceccccccccccccccccceees 4, 6, 7, 8, 13 
+Be rs rincinensetiinsiilianieiaasiitinnsaisitiidl 4.6 
+es niaesiersrrcnninnsienibiiniiaaaisaiibiciniitiiihiiaiad 2 
+a ee  rciirccenictininatitienidaitiiuitind bade 6 
+| IT Ne See ew ET 14 
+A rs Be icicindticininariiicnaiinisiisititiatsnalh ici 4 
+ay es Se incites siesntaninstinnesitnnhensartenitidlataaiaentaii 4 
+ee ee Le eee Te a 5 
+CR | kk |: en 5 5 
+
+
+vi 
+
+
+Other 
+
+
+American Correctional Ass’n, Juvenile and 
+
+
+Adult Correctional Departmental, 
+
+Institutional, Agencies & Paroling Dir. 1999........ 10 
+
+Pe Sis Sets Hs Ge rentrnerrensncenetesninnernmmensnesccnsten 14 
+
+Seventh Circuit Rule 40(a).................ccccccceeeeeeeeeees ft 
+
+U.S. Dept. of Justice, Census of State and 
+
+Federal Correctional Facilities 1995 (1997) ........ 10 
+vil 
+
+
+No. 
+
+
+In the 
+Supreme Court of the United States 
+
+
+SUPERINTENDENT OF THE PENDLETON 
+CORRECTIONAL FACILITY, ef ai., 
+Petitioners, 
+
+
+v. 
+
+
+RICHARD A. FRENCH, ei ai., 
+Respondents. 
+
+
+Petition for Writ of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+The Superintendent of the Pendleton Correctional 
+Facility and other State Defendants (“State”) ask this Court to 
+grant a writ of certiorari to the United States Court of 
+Appeals for the Seventh Circuit. 
+
+
+Opinions below 
+
+
+The Seventh Circuit's opinion is at 178 F.3d 437 (7th 
+Cir. 1999). It is printed in the Appendix at 11 to 43. 
+
+
+The District Court’s Order Granting Plaintiffs’ 
+Motion for Preliminary Injunction is unreported. It is printed 
+in the Appendix at 9 to 10. 
+
+
+Jurisdiction 
+
+
+The Court of Appeals issued its opinion May 6, 1999. 
+The Court of Appeals denied rehearing under its Circuit Rule 
+40(a) on May 6, 1999. This Court has jurisdiction under 28 
+U.S.C. §1254(1). 
+
+
+Statutes Implicated 
+
+
+This case involves the constitutionality of 18 U.S.C. 
+§3626(e). The text of 18 U.S.C. § 3626 is printed in full at 
+Appendix | to 8. The text of 18 U.S.C. §3626(e) follows: 
+
+
+(e) Procedure for motions affecting prospective relief.-- 
+
+(1) Generally.--The court shall promptly rule on any 
+motion to modify or terminate prospective relief in a 
+civil action with respect to prison conditions. 
+Mandamus shall lie to remedy any failure to issue a 
+prompt ruling on such a motion. 
+
+(2) Automatic stay.--Any motion to modify or 
+terminate prospective relief made under subsection (b) 
+shall operate as a stay [of the underlying injunction] 
+during the period-- 
+
+(A)(i) beginning on the 30th day after such motion is 
+filed, in the case of a motion made under paragraph (1) 
+or (2) of subsection (b); or 
+
+(ii) beginning on the 180th day after such motion is 
+filed, in the case of a motion made under any other law; 
+and 
+
+
+(B) ending on the date the court enters a final order 
+ruling on the motion. 
+
+(3) Postponement of automatic stay.--The court may 
+postpone the effective date of an automatic stay 
+specified in subsection (e)(2)(A) for not more than 60 
+days for good cause. No postponement shall be 
+permissible because of general congestion of the 
+court's calendar. 
+
+(4) Order blocking the automatic stay.--Any order 
+staying, suspending, delaying, or barring the operation 
+of the automatic stay described in paragraph (2) (other 
+than an order to postpone the effective date of the 
+automatic stay under paragraph (3)) shall be treated as 
+an order refusing to dissolve or modify an injunction 
+and shall be appealable pursuant to section 1292(a)(1) 
+of title 28, United States Code, regardless of how the 
+order is styled or whether the order is termed a 
+preliminary or a final ruling. 
+
+
+Statement of the Case 
+
+
+In 1996, Congress enacted the Prison Litigation 
+Reform Act, 18 U.S.C. § 3626, in response to widespread 
+concern that federal courts were intruding too far into state 
+prison management. In the decision below, the Seventh 
+
+
+Circuit held unconstitutional one of the key provisions of the 
+
+
+PLRA. This Court’s review is warranted because the 
+decision impedes the operation of federal law, hamstrings 
+state efforts to resume management of their prisons, is 
+inconsistent with decisions of other courts of appeals, 
+
+
+misapplies established legal doctrine, and calls into question 
+
+
+many other federal laws imposing time limits on federal 
+courts. 
+
+
+1. The PLRA was enacted in 1996 to reduce federal 
+courts’ involvement with state prisons. It contains several 
+measures aimed at reducing frivolous litigation by prisoners. 
+E.g., 28 U.S.C. §1915A (screening frivolous prisoner 
+complaints); 42 U.S.C. §1997e (various limits on prisoners’ 
+civil rights suits). It also contains provisions requiring 
+federal courts to withdraw from supervising prison operations 
+in the absence of ongoing violations of federal law. 18 
+U.S.C. §3626. Subsection 3626(a) precludes federal courts 
+from issuing injunctions governing prison operations “unless 
+the court finds that such relief is narrowly drawn, extends no 
+further than necessary to correct the violation of the Federal 
+right, and is the least intrusive means necessary to correction 
+the violation of the Federal right.” Subsection 3626(b) ; 
+applies the same standard to existing federal court orders 
+governing prison operations, requiring that courts terminate 
+prospective relief unless they can make findings identical to 
+those required by §3626(a) to support continuation of 
+injunctive relief. 
+
+
+Subsection 3626(e), which is at issue in this case, sets 
+time limits for federal courts to adjudicate states’ claims that 
+prison injunctions should be vacated inder the standard in 
+§3626(b). Courts must act on states’ petitions within 30 
+days, a period that may be extended to total 90 days. 18 
+U.S.C. §3626(e)(1), (3). If a court does not act within the 90- 
+day period, its injunction loses its prospective effect unless 
+and until the court explicitly finds that the injunction is 
+necessary and narrowly tailored to correct ongoing 
+constitutional violations. /d. at (2). 
+
+
+2. This litigation began in 1975 with the filing of a 
+complaint on behalf of a class of prisoners at the Indiana 
+Reformatory (now Pendleton Correctional Facility) alleging 
+
+4 
+
+
+unconstitutional conditions of confinement. The case was 
+tried, and the trial court entered a remedial injunction in 
+1982. French v. Owens, 538 F. Supp. 910 (S.D. Ind. 1982), 
+aff'd in part, rev'd in part, 777 F.2d 1250 (7th Cir. 1985), 
+cert. denied, 479 U.S. 817 (1986). 
+
+
+The district court’s order broadly regulated prison 
+operations. It set a cap on prison population. It set standards 
+for medical care, food preparation, use of physical restraints, 
+recreation, and non-punitive segregation of prisoners. It 
+established due process standards for prison discipline; 
+required provision of substance abuse and mental health 
+services; established policies for provision of education, 
+vocational training, and prison jobs; and required compliance 
+with certain fire code and job safety standards. 
+
+
+On October 6, 1988, the parties entered a stipulation 
+regarding fire and safety standards. This 11-year-old 
+stipulation was the last substantive modification to the 
+district court’s injunction before the proceedings at issue in 
+this petition. 
+
+
+3. On June 5, 1997, the State moved to terminate the 
+injunctive order pursuant to provisions of the PLRA, 18 
+U.S.C. § 3626. The Plaintiff class then moved for a 
+temporary restraining order and preliminary injunction 
+against Section 3626(e)(2), the automatic stay provision. 
+
+
+? At the time the Plaintiffs sought the injunction, the portion of the PLRA 
+
+automatically suspending prospective operation of the injunction 
+
+provided that the suspension would take effect 30 days after the motion 
+
+was filed. P.L. 104-134 (Apr. 26, 1996). Congress later modified the 
+
+PLRA to permit district courts to extend the time for acting on the motion 
+
+to vacate or modify by 60 days. P.L. 105-119, § 123(a)(3)(C), codified at 
+5 
+
+
+The district court entered a temporary restraining 
+order and, after hearing, a preliminary injunction enjoining 
+operation of 18 U.S.C. § 3626(e)(2).’ Under 28 U.S.C. § 
+1292(a)(1), the State appealed the entry of the preliminary 
+injunction. 
+
+
+4. The Seventh Circuit panel affirmed. The panel 
+first rejected the argument of the Department of Justice, 
+which had intervened below, that a district court could stay 
+the effect of §3626(e)(2) when equity required. App. 19-32. 
+The Department of Justice asserted that, read literally, 
+§3626(e)(2) would be unconstitutional unless district courts 
+could decline to apply the automatic stay when “factual 
+complexity or other factors” rendered the statutory time 
+period inadequate. Despite the plain words of §3626(e)(2), 
+the Department of Justice argued that the district court was 
+permitted to keep its injunctive order in place indefinitely if it 
+could not rule on the petition to vacate within the statutory 
+time period. Although the Fifth and Sixth Circuits adopted 
+this interpretation, Hadix v. Johnson, 144 F.3d 925, 944-46 
+(6th Cir. 1998); Ruiz v. Johnson, 178 F.3d 385, 393-94 (Sth 
+Cir. 1999), the Seventh Circuit panel did not, concluding that 
+the congressional command in §3626(e)(2) is clear and leaves 
+no room for judicial discretion. 
+
+
+18 U.S.C. § 3626(e)(3). The 60-day extension provision is currently in 
+effect. 
+
+* The district court’s Order Granting Plaintiffs’ Motion for Preliminary 
+Injunction refers to 18 U.S.C. § 3626(b)(2), not § 3626(e(2). App. 9. 
+But the parties, the Seventh Circuit panel, and judges dissenting from 
+denial of rehearing en banc all agreed that the injunction intended to refer 
+to Section 3626(e)(2), and the reference to (b)(2) was erroneous. 
+Appellees’ Brief at 10; App. 17; App. 32 (Easterbrook, J., dissenting 
+from denial of rehearing en banc). 
+
+
+The panel then ruled unanimously that subsection 
+(e)(2) is an unconstitutional legislative intrusion into judicial 
+procedures, violating separation-of-powers principles. The 
+panel held that the section requires a certain outcome 
+(ceasing prospective effect of the injunction) unless the 
+district court acts by a congressionally specified deadline, 
+and thus unconstitutionally enacts legislative suspension of 
+an existing court order: “it is a self-executing legislative 
+determination that a specific decree of a federal court -- here 
+the decree addressing conditions at Pendleton -- must be set 
+aside at least for a period of time, no matter what the equities, 
+no matter what the urgency of keeping it in place. This 
+amounts to an unconstitutional intrusion on the power of the 
+courts to adjudicate cases.” App. 26-27: The Seventh Circuit 
+panel also found the statute unconstitutional on the separate 
+separation-of-powers ground that §3626(e)(2) prescribes a 
+rule of decision 1n a particular case, violating the principle of 
+United States v. Klein, 80 U.S. (13 Wall.) 128 (1871). App. 
+28-29. 
+
+
+Recognizing the different approach of the Sixth 
+Circuit in Hadix v. Johnson, 144 F.3d 925, the panel 
+circulated its decision to all active circuit judges under 
+Seventh Circuit Rule 40(a). Chief Judge Posner and Circuit 
+Judges Easterbrook and Manion dissented from the denial of 
+rehearing en banc. The three dissenters stressed that this case 
+provides a good example of the judicial conduct Congress 
+sought to prevent by enacting the PLRA. Congress sought 
+“prompt” disposition of motions to vacate prison conditions 
+injunctions, but the district judge who declared §3626(e) 
+unconstitutional then did nothing whatsoever to rule on or 
+otherwise conduct litigation on the motion to vacate for the 
+
+
+7 
+
+
+entire two-year period between his injunction and the 
+Seventh Circuit’s opinion. App. 34. 
+
+
+The dissenters noted that the statute does not tell the 
+judge what to do; it only suspends the prospective effect of 
+the injunctive decree if the district court does not rule within 
+90 days. They stated that §3626(e)(2) is necessary to 
+effectively implement the substantive requirements of 
+§3626(b)(2), which creates new substantive requirements for 
+federal court decrees governing prison conditions. App. 36- 
+37.* They concluded that the requirement for prompt 
+adjudication in §3626 violates no constitutional principle 
+and, because the automatic stay provision of §3626(e)(2) 
+merely enforces the statutory promptness requirement, it 
+cannot be unconstitutional. App. 36-38. 
+
+
+_ Reasons for Granting the Writ 
+
+
+The Seventh Circuit's decision struck down a vital 
+provision of a congressional enactment designed to preclude 
+federal courts from intruding unduly on state prison 
+administration. The overriding purpose of the invalidated 
+statute is to motivate prompt judicial action, and the Seventh 
+Circuit's decision foils congressional intent. The numerous 
+prison operation injunctions nationwide elevate the 
+importance of the question in this case, which has been 
+thoroughly analyzed by three circuits. The Seventh Circuit's 
+
+
+* Section 3626(b)(2) has been found constitutional by every court of 
+appeals that has decided the issue. /nmates of Suffolk Co. Jail v. Rouse, 
+129 F.3d 649 (ist Cir. 1997); Benjamin v. Jacobson, 172 F.3d 144 (2d 
+Cir. 1999) (en banc); Imprisoned Citizens Union v. Ridge, \69 F.3d 178 
+(3d Cir. 1999); Plyler v. Moore, 100 F.3d 365 (4th Cir. 1996); Hadix v. 
+Johnson, 133 F.3d 940 (6th Cir. 1998); Gavin v. Branstad, 122 F.3d 1081 
+(8th Cir. 1997); Dougan v. Singletary, 129 F.3d 1424 (11th Cir. 1997). 
+
+8 
+
+
+analysis is wrong because the statute does not violate 
+separation-of-powers principles. It merely prescribes 
+consequences -- temporary suspension of the prospective 
+effect of injunctive orders -- when the district court fails to 
+act within the statutory time limit. This Court, not the 
+circuits, should finally resolve this dispute over congressional 
+limits imposed on judicial authority. 
+
+
+I. The decision below struck down 
+an important provision of 
+the Prison Litigation Reform Act. 
+
+
+a. One of the gravest actions any court can take is to 
+strike down a statute enacted by Congress. United States v. 
+Gainey, 380 U.S. 63, 65 (1965). In this case, the Court 
+struck down an important provision of federal law, and that 
+action alone provides powerful cause for the Court to review 
+the decision below. 
+
+
+This Court long has criticized federal courts for 
+becoming “enmeshed in the minutiae of prison operations,” 
+Bell v. Wolfish, 441 U.S. 520, 562 (1979), and has recognized 
+that “prison authorities are best equipped to make difficult 
+decisions regarding prison administration.” Washington v. 
+Harper, 494 U.S. 210, 223-24 (1990). Agreeing with that 
+assessment, Congress enacted the Prison Litigation Reform 
+Ac. .n 1996 to prevent federal courts from needlessly 
+supervising state prison operations. The PLRA tackled that 
+problem principally by requiring federal courts to terminate 
+federal court injunctions that are not narrowly tailored to 
+remedy ongoing constitutional violations in prisons. 18 
+U.S.C. §3626(b). Congress also concluded that judicial delay 
+could impede the effectiveness of these new rules. Through 
+§3626(e), Congress imposed strict time limits on federal 
+
+9 
+
+
+courts considering states’ petitions to terminate prison 
+injunctions. | 
+
+
+By holding that §3626(e) is unconstitutional, the 
+Seventh Circuit has nullified one of Congress’ manifest 
+objectives -- the speedy termination of unwarranted federal 
+court supervision. This <«*e confirms the need for the time 
+limits imposed by §362e,. Indiana sought to terminate the 
+injunction by filing a motion with the district court in June 
+1997. To this day, however, the district court has not acted 
+on that motion and the 1982 injunction has remained in full 
+force and effect.*° As Congress properly recognized, without 
+§3626(e) district courts lack incentive to act with dispatch on 
+States’ petitions. The consequence is continuing federal court 
+supervision of state prisons even in the absence of continuing 
+constitutional violations. 
+
+
+b. The importance of the PLRA and §3626(e) extend 
+far beyond Indiana and the particular injunction underlying 
+this case. All or part of the operation of hundreds of prisons 
+and jails in the United States are governed by federal court 
+orders. In 1995, 378 state correctional facilities and 113 _ 
+federal facilities were under court orders supervising at least 
+some aspects of their operations. U.S. Dept. of Justice, 
+Census of State and Federal Correctional Facilities 1995 
+(1997) at 12. Of 41 states reporting data in 1998, 26 had at 
+least some prisons under court order. American Correctional 
+
+
+* The Seventh Circuit decided Berwanger v. Cottey, 1999 WL 288268 
+(7th Cir. 1999), on the same day as this case. In that case, the same 
+district court failed to rule for more than one year on the motion to 
+modify the order governing conditions at the Marion County 
+(Ind‘anapolis) Jail. 
+
+
+10 
+
+
+Ass'n, Juvenile & Adult Correctional Departmental, 
+Institutional, Agencies & Paroling Directory 1999 at xx. 
+
+
+Many states already have petitioned for termination of 
+prison condition injunctions based on the PLRA, as 
+evidenced by the fact that most federal courts of appeals have 
+already upheld the constitutionality of the “immediate 
+termination” provision of the PLRA, §3626(b)(2).° Now that 
+seven circuits have held that the Constitution permits 
+Congress to mandate termination of existing prison condition 
+injunctions that are not narrowly tailored to cure ongoing 
+apply this standard, and they must decide whether they are 
+bound by the statutory time limit for acting on states’ 
+petitions. 
+
+
+Il. The courts of appeals have adequately 
+addressed the arguments for and against 
+
+
+constitutionality. 
+
+
+Because the entire purpose of §3626(e) is to expedite 
+consideration of states’ efforts to terminate prison 
+injunctions, the congressional objectives will be further 
+thwarted if prompt review does not occur. As long as the 
+Seventh Circuit’s decision -- and those of the Fifth and Sixth 
+Circuit -- stand, the statutory goal cannot be met. The 
+statutory purpose thus strongly counsels against waiting for 
+other courts to tackle this issue. 
+
+
+Moreover, the constitutionality of §3626(e) is ripe for 
+review because the three circuits that have addressed the 
+question have thoroughly and carefully analyzed the three 
+
+
+® These cases are cited supra at n.4. 
+1] 
+
+
+positions presented by the interested parties. Although the 
+Fifth and Sixth Circuits also determined that, literally read, 
+§3626(e) violated separation-of-powers principles, those 
+circuits chose not to invalidate the section, but to re-interpret 
+it so that it lacks any real force. In Hadix v. Johnson, 144 
+F.3d 925, the Sixth Circuit adopted the interpretation urged 
+by the Department of Justice. Over one dissent, the court 
+ruled that district courts have the power to suspend the 
+automatic stay in §3626(e) according to general equitable 
+principles. /d. at 937, 944-45. The Fifth Circuit explicitly 
+adopted Hadix’s reasoning. Ruiz v. Johnson, 178 F.3d at 
+393-94. These three opinions present the Court with 
+thorough analyses of all three positions: 
+
+
+e The Seventh Circuit panel opinion concluded that 
+§3626(e)(2) is unconstitutional because it violates 
+separation-of-powers principles; 
+
+
+e The Fifth and Sixth Circuit panel opinions adopted the 
+Department of Justice's narrowing construction, finding 
+§3626(e) constitutional only if interpreted to permit 
+district courts to suspend its operation in certain 
+circumstances; and 
+
+
+e Four dissenting judges (Easterbrook, Posner, and Manion 
+in the Seventh Circuit and Norris in the Sixth Circuit) 
+concluded that §3626(e) is constitutional as written. 
+
+
+Because the circuits have fully analyzed the arguments 
+presented by the parties, including the United States, nothing 
+is to be gained by permitting this issue to percolate further in 
+the courts of appeals. 
+
+
+Ill. The decision below misapplied 
+important legal doctrine. 
+
+
+The Seventh Circuit's decision misapplied the 
+established principle that Congress can prescribe rules of 
+practice and procedure for the federal courts. In §3626(e), 
+Congress merely provided an incentive for district courts to 
+act within a legislatively specified time limit on petitions to 
+terminate injunctions governing prison operations. Section 
+3626(e)(2) does not require a federal court to make a 
+particular decision, nor does it legislatively suspend a court 
+order. It only prescribes consequences when a court declines 
+to act according to the legislative time limit, and the court’s 
+own inaction suspends the order if the court does not comply 
+with the congressionally mandated time limit.’ 
+
+
+As the judges dissenting from denial of rehearing en 
+banc pointed out in detail, the Seventh Circuit’s opinion calls 
+into question many other statutes that prescribe time limits 
+for judicial action or stay judgments. App. 39-42 
+(Easterbrook, J., dissenting from denial of rehearing en 
+banc). These include: 
+
+
+e The automatic stay in bankruptcy, 11 U.S.C. §362(a)(2), 
+which suspends prospective enforcement of claims 
+against a debtor from the moment the bankruptcy petition 
+is filed until the conclusion of the bankruptcy proceeding; 
+
+
+’ The objection that prisons could take advantage of this provision by 
+frustrating discovery or delaying litigation so that injunctions would be 
+automatically stayed is unfounded. “Courts can foil delaying maneuvers 
+by imposing sanctions on parties that fail to cooperate in discovery and 
+by drawing adverse inferences about missing evidence.” App. 36 
+(Easterbrook, J., dissenting from denial of rehearing en banc) (citations 
+omitted). 
+
+13 
+
+
+e Federal Rule of Civil Procedure 65(b), which 
+automatically terminates a temporary restraining order 
+after 10 days (with one extension of 10 days); 
+
+
+e The Speedy Trial Act, 18 U.S.C. §§3161, 3162(a)(2), 
+which requires the court to try the defendant within 70 
+days or dismiss the indictment; and 
+
+
+e 280U.S.C. §1826(b), which requires courts to decide 
+within 30 days appeals by persons incarcerated for 
+contempt of a grand jury. 
+
+
+Neither §3626(e) nor the other statutory provisions 
+called into question by the Seventh Circuit's opinion violate 
+separation-of-powers principles. Section 3626(e) neither “is 
+a direct legislative suspension of a court order” nor “places 
+the power to review judicial decisions outside of the 
+judiciary.” App. 27. No order is suspended unless the 
+district court fails to act on the petition to terminate within 90 
+days. While this requirement may be burdensome in some 
+cases, it reflects the legislative judgment that inappropriate 
+federal court orders -- those not both necessary and narrowly 
+tailored to correct ongoing constitutional wrongs -- must be 
+terminated at once. Prospective suspension of injunctions 
+governing prison operations (only until proper findings are 
+made) is an appropriate incentive for courts to act promptly 
+On petitions to terminate. 
+
+
+Nor does §3626(e) violate the separation of powers 
+rule in United States v. Klein, 80 U.S. (13 Wall.) 128, which 
+the Seventh Circuit articulated as, “Congress does not have 
+the power to impose a rule of decision for pending judicial 
+cases, apart from its power to change the underlying 
+
+14 
+
+
+applicable law.” App. 28. As the dissenters below correctly 
+observed, §3626(e) does not establish “any rule of decision 
+for pending judicial cases”; “[a]ll [it] does is stay a decree’s 
+effectiveness until the court completes the task of applying 
+the new rule of law” established in §3626(b). App. 38, 39 
+(Easterbrook, J., dissenting from denial of rehearing en banc) 
+(internal quotation marks omitted). Section 3626(e) thus no 
+more violates the rule in K/ein than does the automatic stay 
+in bankruptcy. 
+
+
+The genesis of this dispute is a conflict between the 
+Judiciary and another branch, whether Congress properly 
+exercised authority over judicial decisionmaking. This 
+circumstance provides extra reason for this Court, not the 
+circuits, to render the final decision. 
+
+
+The Seventh Circuit’s decision represents a stark 
+break from past judicial treatment of congressional efforts to 
+impose time limits on judicial actions. This Court should 
+grant the writ to address this “breathtaking” ruling that 
+“invented a right of the judicial branch to freedom from 
+deadlines.” App. 42, 43 (Easterbrook, J., dissenting from 
+denial of rehearing en banc). 
+
+
+15 
+
+
+Conclusion 
+
+
+This Court should grant the writ of certiorari to the 
+United States Court of Appeals for the Seventh Circuit. 
+
+
+Respectfully submitted, 
+
+
+JEFFREY A. MODISETT 
+Attorney General of Indiana 
+JON LARAMORE 
+Counsel of Record 
+
+Deputy Attorney General 
+
+
+402 W. Washington St. Fifth FI. 
+
+
+Indianapolis, IN 46204 
+(317) 232-6315 
+
+
+16 
+
+
+APPENDIX 
+
+
+Appendix A 
+ee ey Oe aiidithitctininibtitelsinitinistiptirininsite l 
+
+
+Appendix B 
+District Court Order Granting Plaintiff s 
+Motion for Preliminary Injunction.......................... 10 
+
+
+Appendix C 
+French v. Duckworth, 178 F.3d 437 
+I OT SNR Lets ae eee eee 12 
+
+
+Appendix A 
+42 U.S.C. § 3626 
+
+
+§ 3626. Appropriate remedies with respect to prison 
+conditions 
+
+
+(a) Requirements for relief.-- 
+
+(1) Prospective relief.--(A) Prospective relief in any 
+civil action with respect to prison conditions shall extend no 
+further than necessary to correct the violation of the Federal 
+right of a particular plaintiff or plaintiffs. The court shall not 
+grant or approve any prospective relief unless the court finds 
+that such relief is narrowly drawn, extends no further than 
+necessary to correct the violation of the Federal right, and is 
+the least intrusive means necessary to correct the violation of 
+the Federal right. The court shall give substantial weight to 
+any adverse impact on public safety or the operation of a 
+criminal justice system caused by the relief. 
+
+(B) The court shall not order any prospective relief 
+that requires or permits a government official to exceed his or 
+her authority under State or local law or otherwise violates 
+State or local law, unless-- 
+
+(i) Federal law requires such relief to be ordered in 
+violation of State or local law; 
+
+(ii) the relief is necessary to correct the violation of a 
+Federal right; and ) 
+
+(iii) no other relief will correct the violation of the 
+Federal right. 
+
+(C) Nothing in this section shall be construed to 
+authorize the courts, in exercising their remedial powers, to 
+order the construction of prisons or the raising of taxes, or to 
+repeal or detract from otherwise applicable limitations on the 
+remedial powers of the courts. 
+
+
+App. | 
+
+
+(2) Preliminary injunctive relief.--In any civil action 
+with respect to prison conditions, to the extent otherwise 
+authorized by law, the court may enter a temporary 
+restraining order or an order for preliminary injunctive relief. 
+Preliminary injunctive relief must be narrowly drawn, extend 
+no further than necessary to correct the harm the court finds 
+requires preliminary relief, and be the least intrusive means 
+necessary to correct that harm. The court shall give 
+substantial weight to any adverse impact on public safety or 
+the operation of a criminal justice system caused by the 
+preliminary relief and shall respect the principles of comity 
+set out in paragraph (1)(B) in tailoring any preliminary relief. 
+Preliminary injunctive relief shall automatically expire on the 
+date that is 90 days after its entry, unless the court makes the 
+findings required under subsection (a)(1) for the entry of 
+prospective relief and makes the order final before the 
+expiration of the 90-day period. 
+
+(3) Prisoner release order.--(A) In any civil action 
+with respect to prison conditions, no court shall enter a 
+prisoner release order unless-- 
+
+(i) a court has previously entered an order for less 
+intrusive relief that has failed to remedy the deprivation of 
+the Federal right sought to be remedied through the prisoner 
+release order; and 
+
+
+(ii) the defendant has had a reasonable amount of time 
+
+
+to comply with the previous court orders. 
+
+(B) In any civil action in Federal court with respect to 
+prison conditions, a prisoner release order shall be entered 
+only by a three-judge court in accordance with section 2284 
+of title 28, if the requirements of subparagraph (E) have been 
+met. 
+
+(C) A party seeking a prisoner release order in 
+Federal court shall file with any request for such relief, a 
+request for a three-judge court and materials sufficient to 
+
+
+App. 2 
+
+
+demonstrate that the requirements of subparagraph (A) have 
+been met. 
+
+(D) If the requirements under subparagraph (A) have 
+been met, a Federal judge before whom a civil action with 
+respect to prison conditions is pending who believes that a 
+prison release order should be considered may sua sponte 
+request the convening of a three-judge court to determine 
+whether a prisoner release order should be entered. 
+
+(E) The three-judge court shall enter a prisoner 
+release order only if the court finds by clear and convincing 
+evidence that-- 
+
+(i) crowding is the primary cause of the violation of a 
+Federal right; and 
+
+(ii) no other relief will remedy the violation of the 
+Federal right. 
+
+(F) Any State or local official including a legislator or 
+unit of government whose jurisdiction or function includes 
+the appropriation of funds for the construction, operation, or 
+maintenance of prison facilities, or the prosecution or custody 
+of persons who may be released from, or not admitted to, a 
+prison as a result of a prisoner release order shall have 
+standing to oppose the imposition or continuation in effect of 
+such relief and to seek termination of such relief, and shall 
+have the right to intervene in any proceeding relating to such 
+relief. 
+
+(b) Termination of relief.-- 
+
+(1) Termination of prospective relief.--(A) In any civil 
+action with respect to prison conditions in which prospective 
+relief is ordered, such relief shall be terminable upon the 
+motion of any party or intervener-- 
+
+(i) 2 years after the date the court granted or approved 
+the prospective relief; 
+
+
+App. 3 
+
+
+(ii) | year after the date the court has entered an order 
+denying termination of prospective relief under this 
+paragraph; or 
+
+(iii) in the case of an order issued on or before the 
+date of enactment of the Prison Litigation Reform Act, 2 
+years after such date of enactment. 
+
+(B) Nothing in this section shall prevent the parties 
+from agreeing to terminate or modify relief before the relief 
+is terminated under subparagraph (A). 
+
+(2) Immediate termination of prospective relief.--In 
+any civil action with respect to prison conditions, a defendant 
+or intervener shall be entitled to the immediate termination of 
+any prospective relief if the relief was approved or granted in 
+the absence of a finding by the court that the relief is 
+narrowly drawn, extends no further than necessary to correct 
+the violation of the Federal right, and is the least intrusive 
+means necessary to correct the violation of the Federal right. 
+
+(3) Limitation.--Prospective relief shall not terminate 
+if the court makes written findings based on the record that 
+prospective relief remains necessary to correct a current and 
+ongoing violation of the Federal right, extends no further 
+than necessary to correct the violation of the Federal right, 
+and that the prospective relief is narrowly drawn and the least 
+intrusive means to correct the violation. 
+
+(4) Termination or modification of relief.--Nothing in 
+this section shall prevent any party or intervener from 
+seeking modification or termination before the relief is 
+terminable under paragraph (1) or (2), to the extent that 
+modification or termination would otherwise be legally 
+permissible. 
+
+(c) Settlements.-- 
+
+(1) Consent decrees.--In any civil action with respect 
+to prison conditions, the court shall not enter or approve a 
+
+
+App. 4 
+
+
+consent decree unless it complies with the limitations on 
+relief set forth in subsection (a). 
+
+(2) Private settlement agreements.--(A) Nothing in 
+this section shall preclude parties from entering into a private 
+settlement agreement that does not comply with the 
+limitations on relief set forth in subsection (a), if the terms of 
+that agreement are not subject to court enforcement other 
+than the reinstatement of the civil proceeding that the 
+agreement settled. 
+
+(B) Nothing in this section shall preclude any party 
+claiming that a private settlement agreement has been 
+breached from seeking in State court any remedy available 
+under State law. 
+
+(d) State law remedies.--The limitations on remedies 
+in this section shall not apply to relief entered by a State 
+court based solely upon claims arising under State law. 
+
+(e) Procedure for motions affecting prospective 
+relief.-- 
+
+(1) Generally.--The court shall promptly rule on any 
+motion to modify or terminate prospective relief in a civil 
+action with respect to prison conditions. Mandamus shall lie 
+to remedy any failure to issue a prompt ruling on such a 
+motion. 
+(2) Automatic stay.--Any motion to modify or 
+terminate prospective relief made under subsection (b) shall 
+operate as a stay during the period-- 
+
+(A)(i) beginning on the 30th day after such motion is 
+filed, in the case of a motion made under paragraph (1) or (2) 
+of subsection (b); or 
+
+(ii) beginning on the 1 80th day after such motion is 
+filed, in the case of a motion made under any other law; and 
+
+(B) ending on the date the court enters a final order 
+ruling on the motion. 
+
+
+App. 5 
+
+
+(3) Postponement of automatic stay.--The court may 
+postpone the effective date of an automatic stay specified in 
+subsection (e)(2)(A) for not more than 60 days for good 
+cause. No postponement shall be permissible because of 
+general congestion of the court's calendar. 
+
+(4) Order blocking the automatic stay.--Any order 
+staying, suspending, delaying, or barring the operation of the 
+automatic stay described in paragraph (2) (other than an order 
+to postpone the effective date of the automatic stay under 
+paragraph (3)) shall be treated as an order refusing to dissolve 
+or modify an injunction and shall be appealable pursuant to > 
+section 1292(a)(1) of title 28, United States Code, regardless 
+of how the order is styled or whether the order is termed a 
+preliminary or a final ruling. 
+
+(f) Special masters.-- 
+
+(1) In general.--(A) In any civil action in a Federal 
+court with respect to prison conditions, the court may appoint 
+a special master who shall be disinterested and objective and 
+who will give due regard to the public safety, to conduct 
+hearings on the record and prepare proposed findings of fact. 
+
+(B) The court shall appoint a special master under this 
+subsection during the remedial phase of the action only upon 
+a finding that the remedial phase will be sufficiently complex 
+to warrant the appointment. 
+
+(2) Appointment.--(A) If the court determines that the 
+appointment of a special master is necessary, the court shall 
+request that the defendant institution and the plaintiff each 
+submit a list of not more than 5 persons to serve as a special 
+master. 
+
+(B) Each party shall have the opportunity to remove 
+up to 3 persons from the opposing party's list. 
+
+(C) The court shall select the master from the persons 
+remaining on the list after the operation of subparagraph (B). 
+
+
+App. 6 
+
+
+(3) Interlocutory appeal.--Any party shall have the 
+right to an interlocutory appeal of the judge's selection of the 
+special master under this subsection, on the ground of 
+partiality. 
+
+(4) Compensation.--The compensation to be allowed 
+to a special master under this section shall be based on an 
+hourly rate not greater than the hourly rate established under 
+section 3006A for payment of court-appointed counsel, plus 
+costs reasonably incurred by the special master. Such 
+compensation and costs shall be paid with funds appropriated 
+to the Judiciary. 
+
+(5) Regular review of appointment.--In any civil 
+action with respect to prison conditions in which a special 
+master is appointed under this subsection, the court shall 
+review the appointment of the special master every 6 months 
+to determine whether the services of the special master 
+continue to be required under paragraph (1). In no event 
+shall the appointment of a special master extend beyond the 
+termination of the relief. 
+
+(6) Limitations on powers and duties.--A special 
+master appointed under this subsection-- 
+
+(A) may be authorized by a court to conduct hearings 
+and prepare proposed findings of fact, which shall be made 
+on the record; 
+
+(B) shall not make any findings or communications 
+eX parte; 
+
+(C) may be authorized by a court to assist in the 
+development of remedial plans; and 
+
+(D) may be removed at any time, but shall be relieved 
+of the appointment upon the termination of relief. 
+
+(g) Definitions.--As used in this section-- 
+
+(1) the term "consent decree" means any relief entered 
+by the court that is based in whole or in part upon the consent 
+
+
+App. 7 
+
+
+or acquiescence of the parties but does not include private 
+settlements; 
+
+(2) the term "civil action with respect to prison 
+conditions" means any civil proceeding arising under Federal 
+law with respect to the conditions of confinement or the 
+effects of actions by government officials on the lives of 
+persons confined in prison, but does not include habeas 
+corpus proceedings challenging the fact or duration of 
+confinement in prison; 
+
+
+(3) the term "prisoner" means any person subject to 
+incarceration, detention, or admission to any facility who is 
+accused of, convicted of, sentenced for, or adjudicated 
+delinquent for, violations of criminal law or the terms and 
+conditions of parole, probation, pretrial release, or 
+diversionary program; 
+
+(4) the term "prisoner release order" includes any 
+order, including a temporary restraining order or preliminary 
+injunctive relief, that has the purpose or effect of reducing or 
+limiting the prison population, or that directs the release from 
+or nonadmission of prisoners to a prison; 
+
+(5) the term "prison" means any Federal, State, or 
+local facility that incarcerates or detains juveniles or adults 
+accused of, convicted of, sentenced for, or adjudicated 
+delinquent for, violations of criminal law; 
+
+(6) the term "private settlement agreement" means an 
+agreement entered into among the parties that is not subject 
+to judicial enforcement other than the reinstatement of the 
+civil proceeding that the agreement settled; 
+
+(7) the term "prospective relief" means all relief other 
+than compensatory monetary damages: 
+
+(8) the term "special master" means any person 
+appointed by a Federal court pursuant to > Rule 53 of the 
+Federal Rules of Civil Procedure or pursuant to any inherent 
+
+
+App. 8 
+
+
+power of the court to exercise the powers of a master, 
+regardless of the title or description given by the court; and 
+
+(9) the term "relief" means all relief in any form that 
+may be granted or approved by the court, and includes 
+consent decrees but does not include private settlement 
+agreements. 
+
+
+App. 9 
+
+
+Appendix B 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR SOUTHERN DISTRICT OF INDIANA 
+INDIANAPOLIS DIVISION 
+
+
+RICHARD A. FRENCH, et al.. 
+
+
+Plaintiffs, No. IP 76-677-C 
+
+
+) 
+) 
+) 
+v. ) 
+) 
+JACK DUCKWORTH, et al., ) 
+
+Defendants. ) 
+Order Granting Plaintiffs’ Motion for Preliminary 
+
+Injunction 
+
+
+On June 30, 1997, Plaintiffs filed their Motion for a 
+Temporary Restraining Order or a Preliminary Injunction to 
+Stay the Automatic Termination Provision of the Prison 
+Litigation Reform Act. At 2:30 p.m., on July 3, 1997, the 
+Court granted Plaintiffs a Temporary Restraining Order. On 
+July 10, 1997, the court held a hearing on Plaintiffs’ request 
+for preliminary injunction. 
+
+
+For the reasons stated in the Court's order of July 3, 
+1997, and Plaintiffs’ motion and presentation at the hearing, 
+and for the principal reason that the Court believes that 18 
+U.S.C. § 3626(b)(2) is clearly unconstitutional as found by 
+other courts, and for the reason that Plaintiffs are likely to 
+succeed on the merits and Defendants would not be harmed 
+by the entry of the preliminary injunction, the Temporary 
+Restraining Order of July 3, 1997, is now converted to a 
+preliminary injunction. 
+
+
+App. 10 
+
+
+Accordingly, there shall be no stay of prospective 
+relief in this matter and the parties shall continue to comply 
+with this Court's prior orders and judgments until further 
+order of the Court. 
+
+
+So Ordered. 
+
+
+/s/ 7-11-97 
+S. Hugh Dillin, Judge 
+
+
+App. I! 
+
+
+Appendix C 
+
+
+In the United States Court of Appeals 
+For the Seventh Circuit 
+
+
+No. 97-3075 
+
+RICHARD A. FRENCH, e7 ai., 
+Plaintiffs-Appellees, 
+v. 
+
+JACK R. DUCKWORTH, e7 ai., 
+Defendants-Appellants, 
+
+and 
+UNITED STATES OF AMERICA, 
+
+
+Intervenor-Appellant. 
+
+
+Appeal from the United States District Court 
+for the Southern District of Indiana, Indianapolis Division. 
+
+
+No. IP 75-677-C--S. Hugh Dillin, Judge. 
+
+
+Argued April 6, 1998--Decided May 6, 1999/* 
+
+
+Before FLAUM, ROVNER, and DIANE P. WOOD, Circuit 
+Judges. 
+
+
+App. 12 
+
+
+DIANE P. WOOD, Circuit Judge. This case began 
+almost three decades ago when inmates at what is now the 
+Pendleton Correctional Facility in Indiana filed a class action 
+against the state claiming that certain conditions at the prison 
+violated their constitutional rights. They obtained some of the 
+relief they sought in an injunction that was affirmed by this 
+court in French v. Owens, 777 F.2d 1250, 1258 (7th 
+Cir.1985), and the prison has operated under that injunction, 
+as modified from time to time, ever since. The present action 
+arose when the State of Indiana decided to take advantage of 
+the 1996 Prison Litigation Reform Act ("PLRA") and 
+petition to terminate the injunction. The merits of that effort, 
+however,/are not before us at this time. Instead, we must 
+decide whether the so-called "automatic stay" provision of 
+the PLRA, codified at 18 U.S.C. § 3626(e)(2), applies, and if 
+it does, whether it is constitutional. 
+
+
+I 
+A 
+
+
+In order to place this case in context, we begin with a 
+brief description of the PLRA as it affects injunctions 
+addressing prison conditions. The part of the statute with 
+which we are concerned addresses the subject of 
+"[a]ppropriate remedies with respect to prison conditions." 18 
+U.S.C. § 3626. Subpart (a)(1) provides that a federal court 
+must limit prospective relief with respect to prison conditions 
+in a variety of ways: 
+
+
+The court shall not grant or approve any prospective 
+relief unless the court finds that such relief is 
+narrowly drawn, extends no further than necessury 
+to correct the violation of the Federal right, and is 
+
+
+App. 13 
+
+
+the least intrusive means necessary to correct the 
+violation of the Federal right. 
+
+
+18 U.S.C. § 3626(a)(1). 
+
+
+Recognizing that many institutions are already 
+operating under existing injunctions, the statute also provides 
+a way for the prison authorities to bring their federally 
+imposed obligations into line with the limitations of § 
+3626(a)(1). Part (b) sets out a road map for the termination 
+of prospective relief that has either outlived its usefulness, or 
+that violates the (a)(1) conditions. Under the authority of § 
+3626(b)(1), prospective relief is terminable upon motion of 
+any party or intervenor within two years after the court 
+granted the relief (or two years after the date of enactment of 
+the PLRA), or one year after the court denied a request to 
+terminate relief. Subpart (b)(2), which has come to be known 
+as the "immediate termination" provision of the statute, 
+establishes the defendant's or intervenor's right to relief. 
+Because this is the basis for the state's petition, we set it out 
+in its entirety: 
+
+
+(2) Immediate termination of prospective relief.--In 
+any civil action with respect to prison conditions, a 
+defendant or intervener shall be entitled to the 
+immediate termination of any prospective relief if 
+the relief was approved or granted in the absence of 
+a finding by the court that the relief is narrowly 
+drawn, extends no further than necessary to correct 
+the violation of the Federal right, and is the least 
+intrusive means necessary to correct the violation of 
+the Federal right. 
+
+
+App. 14 
+
+
+18 U.S.C. § 3626(b)(2). Hard on the heels of this provision is 
+another that sets forth an exception to the entitlement to 
+"immediate" termination: 
+
+
+(3) Limitation.--Prospective relief shall not 
+terminate if the court makes written findings based 
+on the record that prospective relief remains 
+necessary to correct a current and ongoing violation 
+of the Federal right, extends no further than 
+necessary to correct the violation of the Federal 
+right, and that the prospective relief is narrowly 
+drawn and the least intrusive means to correct the 
+violation. 
+
+
+18 U.S.C. § 3626(b)(3). Part (c) of the PLRA addresses 
+settlements, basically saying that a court may not enter a 
+settlement in the form of a consent decree unless the 
+settlement conforms to the statutory limitations, but that the 
+parties are free to conclude any private settlement agreement 
+they wish, as long as that agreement is not directly 
+enforceable by the court (other than by reinstatement of the 
+case). Part (d) makes clear that the PLRA's limitations do not 
+apply to relief entered by a state court based solely upon 
+claims arising under state law. 
+
+
+Finally (for our purposes) is the automatic stay 
+provision, part (e). It begins innocuously enough in subpart 
+(e)(1), by calling for the court to rule promptly on any motion 
+to modify or terminate prospective relief. The problems arise 
+with subpart (e)(2). which provides as follows: 
+
+
+(2) Automatic stay.--Any motion to modify or 
+terminate prospective relief made under subsection 
+(b) shall operate as a stay during the period-- 
+
+
+App. 15 
+
+
+(A)(i) beginning on the 30th day after such motion 
+is filed, in the case of a motion made under 
+paragraph (1) or (2) of subsection (b); or 
+
+(ii) beginning on the 180th day after such motion is 
+filed in the case of a motion made under any other 
+law; and 
+
+(B) ending on the date the court enters a final order 
+ruling on the motion. 
+
+
+18 U.S.C. § 3626(e)(2). Since 1997, it has been possible for 
+the court to order a modest extension of time before the 
+automatic stay goes into effect, if the court takes advantage 
+
+
+of subpart (e)(3): 
+
+
+(3) Postponement of automatic stay.--The court may 
+postpone the effective date of an automatic stay 
+specified in subsection (e)(2)(A) for not more than 
+60 days for good cause. No postponement shall be 
+permissible because of general congestion of the 
+court's calendar. 
+
+
+18 U.S.C. § 3626(e)(3). See Pub. L. No. 105-119, § 123, 11 
+Stat. 2440, 2470 (1997) (adding this language). Finally, 
+under subpart (e)(4) the statute expressly provides that an 
+order "staying, suspending, delaying, or barring the operation 
+of the automatic stay described in paragraph (2)" other than 
+the orders authorized by subpart (e)(3) may be appealed 
+pursuant to 28 U.S.C. § 1292(a)(1). 
+
+
+B 
+
+
+With that background in mind, we now turn to what 
+happened in this case. On June 5, 1997, Warden Jack R. 
+Duckworth of the Pendleton Correctional Facility, along with 
+
+
+App. 16 
+
+
+Indiana officials Bruce Lemmon and Edward L. Conn (to 
+whom we refer collectively as the state), filed a Motion to 
+Terminate Decree, relying on § 3626(b)(1)(A) and (b)(2). In 
+response, on June 30, 1997, the prisoner class ("the 
+prisoners") filed a Motion for a Temporary Restraining Order 
+or Preliminary Injunction, in which they asked the court to 
+stay the automatic stay provision of § 3626(e)(2), which they 
+described in paragraph 2 of their motion. They also filed a 
+memorandum in support of the motion, in which they 
+addressed the four standards that normally govern the 
+issuance of a preliminary injunction: (a) likelihood of 
+success on their argument that the automatic stay provision of 
+§ 3626(e)(2) would be found unconstitutional; (b) irreparable 
+harm to the prisoners if the "automatic termination" took 
+effect; (c) lack of harm to the defendants if the "automatic 
+termination” was stayed; and (d) the public interest. The 
+prisoners’ memorandum concluded with a request that "the 
+Court should enter a temporary restraining order or a 
+preliminary injunction staying the operation of the automatic 
+termination provision of the PLRA." On the same day, the 
+prisoners also filed a separate Response to Defendants' 
+Motion to Terminate Decree, in which they set forth their 
+position that the termination provisions of §§ 3626(b)(2) 
+and(b)(3) are unconstitutional. 
+
+
+On July 3, 1997, the district court granted the 
+temporary restraining order the prisoners had requested and 
+scheduled a hearing on July 10 for fuller consideration of the 
+preliminary injunction motion. On July 11, following the 
+hearing, the district court entered an order converting the 
+TRO into a preliminary injunction. The state has now 
+appealed from that July | l order. 
+
+
+App. |7 
+
+
+Our review of the district court's actions is 
+complicated by the fact that the court's orders granting the 
+TRO and preliminary injunction can be read as confusing the 
+§ 3626(e)(2) automatic stay provision with the § 3626(b)\(2) 
+immediate termination provision. (This confusion seems to 
+have originated with the parties themselves. We note that 
+although the prisoners sought to stay the "automatic 
+termination" provision, there is no such thing in the PLRA. 
+There is one section providing for immediate termination, 
+and another requiring an automatic stay.) Even though the 
+prisoners had not asked for a TRO against the (b)(2) 
+immediate termination provision, the July 3 order recites that 
+it "enjoin[s] and prohibit[s] the automatic termination [sic] 
+provision of the Prison Litigation Reform Act from taking 
+effect." Further, the July 11 order explains that the court was 
+converting the TRO into a preliminary injuaction "for the 
+principal reason that the Court believes that 18 U.S.C. § 
+3626(b)(2) is clearly unconstitutional as found by other 
+courts." The July 11 order concludes that "[a]ccordingly, 
+there shall be no stay of prospective relief in this matter." 
+
+
+Although we considered remanding this case to the 
+district court to find out what it really meant, in the end we 
+concluded that such a step was unnecessary. A review of the 
+entire record (including the transcript of the July 10 hearing) 
+convinces us that the district court intended to enjoin the 
+(e)(2) automatic stay provision, not the (b)(2) immediate 
+termination provision. True, the orders referred to the 
+“automatic termination" provision and to 28 U.S.C. § 
+3626(b)(2). Several points convince us, however, that the 
+district court simply cited the wrong statutory section, a 
+mistake to which we need not attach any significance unless 
+it affects the substantial rights of the parties, see Fed. R.Civ. 
+P. 61. First, the motion before the court and the arguments 
+
+
+App. 18 
+
+
+presented at the hearing on the preliminary injunction 
+addressed only the automatic stay of (e)(2), not the 
+immediate termination required by (b)(2). There was a fair 
+amount of discussion of (b)(2) at the hearing, but this was in 
+the context of the likelihood that the prisoners could defeat 
+the state's underlying petition for immediate termination. 
+Second, the record shows that proceedings have continued in 
+the district court on the question whether the decree should 
+be terminated pursuant to § 3626(b)(2), suggesting that the 
+lower court is of the view that it did not finally resolve the 
+termination issue. Finally, and most important, the last 
+paragraph of the court's injunction sets forth in plain English 
+what it was doing. Stripped of citations, the only thing that 
+paragraph does is to refuse to permit a stay of prospective 
+relief to go into effect. In substance, this means the injunction 
+addresses the (e)(2) problem, not the (b)(2) problem. 
+
+
+Even though the question of the constitutionality of 
+(b)(2) is not before this panel, it is presented in Berwanger v. 
+Cottey, No. 98-3107, which this court has also decided today. 
+In Berwanger, we join the overwhelming majority of our 
+sister circuits and hold that § 3626(b)(2) may be applied to 
+existing consent decrees. See. e.g.. Benjamin v. Jacobson, 
+1999 WL 188240 (2d Cir., March 23, 1999) (en banc): 
+Imprisoned Citizens Union v. Ridge, 1999 WL 93802 (3d 
+Cir., Feb. 25, 1999); Tyler v. Murphy, 135 F.3d 594 (8th Cir. 
+1998): Hadix v. Johnson, 133 F.3d 940 (6th Cir. 1998): 
+Dougan v. Singletary, 129 F.3d 1424 (11th Cir. 1997): 
+Inmates of Suffolk County Jail v. Rouse, 129 F.3d 649 (1st 
+Cir. 1997); Gavin v. Branstad, 122 F.3d 1081 (8th Cir. 
+1997): Plyler v. Moore, 100 F.3d 365 (4th Cir. 1996). Cf 
+Taylor v. United States, 143 F.3d 1178 (9th Cir. 1998) 
+(finding §3626(b)(2) unconstitutional), opinion withdrawn 
+
+
+App. 19 
+
+
+and en banc rehearing granted, 1998 WL 775245 (9th Cir., 
+Nov. 3, 1998). 
+
+
+That leaves the question whether the district court 
+was empowered to enjoin the operation of § 3626(e)(2)'s 
+automatic stay, and if it was not, whether that subsection is 
+constitutional. Bearing in mind that we should try to avoid 
+constitutional questions if we can, we address the question of 
+statutory interpretation first. 
+
+
+The only other court of appeals to have considered the 
+scope and constitutionality of (e)(2) is the Sixth Circuit, in its 
+opinion in Hadix v. Johnson, 144 F.3d 925 (6th Cir. 1998). 
+That court concluded that if (e)(2) were read to mean what it 
+apparently says--that is, as a legislative command that a stay 
+of prospective relief occurs as a matter of law no later than 90 
+days after the state's petition is filed, and that this legislative 
+stay continues in effect until the findings required by (b)(3) 
+have been made--then it would be "an unconstitutional 
+incursion by Congress into the powers reserved for the 
+Judiciary." /d. at 937. In order to avoid a finding of 
+unconstitutionality, the court chose to adopt the position that 
+the Justice Department had urged and concluded that the 
+courts "retain the power to suspend the automatic stay in 
+accordance with general equitable principles." /d. By that. the 
+Sixth Circuit meant that the automatic stay of (e)(2) could 
+itself be stayed by a court using the traditional standards for 
+issuing a preliminary injunction. /d. at 945. 
+
+
+While the decisions of the district courts do not create 
+binding precedents (particularly not those within the Sixth 
+Circuit, which are now bound by Hadix), it is nevertheless 
+
+
+App. 20 
+
+
+noteworthy that a number of judges have agreed with the 
+Sixth Circuit that subpart (e)(2) is unconstitutional if it is a 
+legislative stay, but they have not agreed that the statute can 
+be saved by a narrowing interpretation. See United States v. 
+Michigan, 989 F. Supp. 853 (W.D. Mich.1996); Glover v. 
+Johnson, 957 F. Supp. 110 (E.D.Mich. 1997); Hadix v. 
+Johnson, 933 F. Supp. 1362 (W.D. Mich. 1996) (Enslen, 
+C.J.); Hadix v. Johnson, 933 F. Supp. 1360 (E.D. Mich. 
+1996) (Feikens, J.). The question is one of first impression in 
+this circuit, and we have benefitted from the careful 
+consideration that our colleagues on the federal bench have 
+devoted to it. 
+
+
+We are well aware of the rule requiring courts to 
+construe statutes consistently with the Constitution, if the 
+language will bear any such construction. Edward J. 
+DeBartolo Corp. v.Florida Gulf Coast Bldg. & Constr. 
+Trades Council, 485 U.S. 568, 575 (1988), citing Hooper v. 
+California, 155 U.S. 648, 657 (1895); N.L.R.B. v. Catholic 
+Bishop of Chicago, 440 U.S. 490, 500 (1979). But the 
+qualification that the language must be able to bear the 
+constitutional interpretation is an important one. Courts 
+cannot redraft statutes so that they read the way Congress 
+might have written them, or should have written them. 
+Instead, we must take the laws as they are given to us and 
+work with them. 
+
+
+As was the case before the Sixth Circuit, three 
+different views of (e)(2) have been urged on us: the prisoners 
+argue that it is unconstitutional on several grounds; the state 
+defends its constitutionality as a mere regulation of 
+procedure; and the United States is of the view that (e)(2) 
+would be an unconstitutional violation of either the 
+separation of powers doctrine or the prohibition against 
+
+
+App. 21 
+
+
+legislative suspension of a particular judgment if (e)(2) really 
+required automatic stays. The United States argues, however, 
+that the automatic stay provision should be read to instruct a 
+court reviewing prospective relief that the court should--but 
+is not required to--stay the relief, an interpretation that avoids 
+the constitutional flaws. 
+
+
+Before we delve too far into these points, we must 
+decide which reading of subpart (e)(2) is correct: that of the 
+prisoners and the state, on the one hand, or that of the United 
+States, on the other. If we agree with the Sixth Circuit that 
+the (e)(2) stay is discretionary in the final analysis, then there 
+would be no need to explore the constitutional issues further. 
+The statute would be reduced to something that placed the 
+burden of moving for a stay or preliminary injunction on the 
+prisoners rather than the state, but once the issue was before 
+the court the normal equitable considerations would 
+determine whether existing decree provisions remained in 
+place pending a decision on a termination petition, or if they 
+should be modified./1 Subpart (e)(4) of the statute would in 
+addition make it clear that appellate review under 28 U.S.C. § 
+1292(a)(1) was available no matter what the court called its 
+order "staying, suspending, delaying, or barring the operation 
+of the automatic stay described in paragraph (2). .. ." 
+
+
+Although we have the highest regard for our Sixth 
+Circuit colleagues and the concerns that motivated them to 
+adopt the Justice Department's view of (e)(2), we cannot 
+agree that the language of that subpart can be pushed this far. 
+First, Congress used unequivocal words when it drafted 
+(e)(2). A motion to modify or terminate prospective relief 
+made under part (b) sha// operate as a stay. Congress 
+specified that the stay would be automatic. Finally, it 
+specified not only a clear starting point, but also the ending 
+
+
+App. 22 
+
+
+point for the stay. Even though we do not lightly assume that 
+Congress meant to restrict the equitable powers of the federal 
+courts, we find it impossible to read this language as doing 
+anything less than that. 
+
+
+Recognizing that it was hard to find internal support 
+for its reading within (e)(2) alone, the Sixth Circuit relied in 
+part on the fact that (e)(4) makes orders staying or otherwise 
+barring the automatic stay automatically appealable. Hadix, 
+144 F.3d at 936. Why would Congress have included this in 
+the statute, they reasoned, if it did not anticipate that courts 
+would continue to have the power to issue equitable relief 
+against the stay? In our view, there is an answer to that 
+question. The drafters of the PLRA realized that they were 
+skating close to the line in (e)(2), and they wanted to ensure 
+that the issue that is now before us could be resolved in an 
+interlocutory appeal. The fact that a district court's effort to 
+stay the (e)(2) stay can be appealed says nothing about what 
+an appellate court must do once it has the case. Congress 
+undoubtedly hoped that the appellate courts would reject 
+these district court efforts and enforce the regime that (e)(2) 
+sets up. That, however, is possible only if (e)(2) as we 
+believe it must be read is constitutional, and so we now turn 
+to that question. 
+
+
+The state (which as we said agrees with our reading of 
+the statute) has defended (e)(2) as nothing more than the 
+establishment of a procedure that assures prompt review of 
+prospective injunctive relief in prison litigation. All the 
+prisoners need do, the state asserts, is to come forward with 
+evidence before the 30th day (or the 90th day, if the court 
+grants an extension of time) showing that corditions at the 
+prison require continuation of some or all of the prospective 
+injunctive relief. In other words, the prisoners must make a 
+
+
+App. 23 
+
+
+complete showing on the merits of the termination petition, 
+the state must complete its rebuttal of that showing, and the 
+court must make its ruling, all within the 90-day period. The 
+state analogizes (e)(2) to the 10-day limit on TROs found in 
+Fed. R. Civ. P. 65(b), to the five-day limit on TROs under the 
+Norris-LaGuardia Act, 29 U.S.C. § 107, and to the automatic 
+stay in bankruptcy cases, 11 U.S.C. § 362. 
+
+
+There are important differences, however, between 
+the automatic stay of (e)(2) and the statutes on which the 
+state relies. Both the 10-day limit on TROs found in Rule 
+65(b) and the analogous limit in the Norris-LaGuardia Act 
+respond to the particular problems of ex parte proceedings. 
+Nothing in those laws purports to restrict the power of the 
+district court to enter a preliminary injunction that preserves 
+the status quo beyond the period of time allowed. The 
+automatic stay in bankruptcy also does not help the state's 
+case--indeed, if anything it undermines it. This is because the 
+automatic stay of § 362, which is triggered by the filing of a 
+petition in bankruptcy, see 11 U.S.C. § 362(a), has the effect 
+of preserving the court's equitable powers over the entirety of 
+the bankruptcy estate, not superseding or undermining them. 
+In essence, it freezes everything external to the bankruptcy 
+proceeding, including private transactions and state court 
+litigation, and it has the effect of requiring other federal court 
+proceedings to take a back seat to the federal bankruptcy 
+court. Furthermore, litigants routinely petition the bankruptcy 
+court to modify the stay, and there is no hint that Congress 
+did not want the court to exercise that power (as there is with 
+the PLRA). Allocations of power within the federal court 
+system are a common feature of procedural legislation, and 
+principles of federal supremacy account for the effect that the 
+automatic stay has on state court proceedings. 
+
+
+App. 24 
+
+
+The automatic stay of (e)(2), in contrast, operates 
+directly on the internal adjudication of a case in federal court. 
+It strips from the court the authority to decide whether the 
+status quo (defined by the earlier decree the court entered that 
+required prospective relief) should be continued or modified 
+pending the court's decision on the immediate termination 
+petition. It does so in a way that leaves the power to continue 
+the decree entirely in the hands of the party that files the 
+motion for termination. This is so because the automatic stay 
+must take effect no later than the 90th day after the petition is 
+filed unless the court has issued a final order on the 
+termination motion. Yet the state need only drag its feet or 
+confront genuine difficulty in responding to requests for 
+information that is relevant to the question whether the 
+decree continues to be necessary, as defined by (b)(2)and 
+(b)(3), in order to win its stay. Given the complexity of much 
+prison litigation, we would be reluctant to try to address the 
+problem of delay through satellite litigation over whether the 
+state was "really" acting in bad faith or not, and imposing 
+adverse fact-findings on a state that was trying to manipulate 
+the process so that it won an automatic stay. We are also 
+concerned that such an approach would once again read too 
+much into the statute. Section 3626 constrains the authority 
+of the district courts to impose and sustain prospective relief. 
+It says nothing about conscripting states into this process, and 
+we see nothing in the overall tenor of § 3626 that would 
+justify superimposing on it a rule that a state risks the denial 
+of its motion for termination on the merits if it does not (or 
+cannot) comply with the (e)(2) time limits. 
+
+
+We do not suggest that Congress cannot prescribe 
+rules of practice and procedure for the federal courts, and, 
+contrary to the dissent's dire predictions, nothing in this 
+opinion in any way threatens the ordinary time limits that 
+
+
+App. 25 
+
+
+pervade both federal procedural rules and statutes. First, it is 
+plain that Congress has the power to prescribe procedural 
+rules. See Hanna v. Plummer, 380 U.S. 460, 472 (1965); 
+Sibbach v. Wilson & Co., 312 U.S. 1, 9 (1941). Many time 
+limits are subject to adjustment, and thus are irrelevant for 
+present purposes. Some both define the jurisdiction of a court 
+and establish when a judgment is final, such as the time for 
+filing an appeal from a final judgment, Fed. R. App. P. 4(a), 
+(b), or the time within which a motion to correct a sentence 
+must be filed, Fed. R. Crim. P. 35(c). But that is not what 
+(e)(2) does, and it is important to appreciate just how unusual 
+a provision it is. As the Sixth Circuit also recognized, 
+temporal strictures upon substantive judicial decision-making 
+are scarce. Hadix, 144 F.3d at 943-44 n.15. Where such rules 
+and statutes tie a judicial outcome to a time restriction, the 
+court usually retains discretion to override the restriction for 
+good cause. /d. For example, the Speedy Trial Act sets forth 
+time limits for criminal trials, including a requirement that if 
+the Act's deadlines are violated, the charges must be 
+dismissed. See 18 U.S.C. § 3161; see also United States v. 
+Brainer, 691 F.2d 691, 695-99 (4th Cir. 1982) (upholding the 
+Speedy Trial Act against a challenge that the Act violates the 
+doctrine of separation of powers). Unlike § 3626(e)(2), 
+however, the Act contains a long list of exceptions, see 18 
+U.S.C. § 3161(h), including a broad provision that authorizes 
+judges to exclude from the time calculations "any period of 
+delay" upon "finding[ ] that the ends of justice served by 
+taking such action outweigh the best interest of the public 
+and the defendant in a speedy trial." 18 U.S.C. § 
+3161(h)(8)(A). See also Fed. R. Civ. P. 60(b) (authorizing 
+courts "upon such terms as are just" to relieve a party from a 
+final judgment, including a judgment for prospective relief). 
+
+
+App. 26 
+
+
+Similarly, the Antiterrorism and Effective Death 
+Penalty Act ("AEDPA") states that "[t]he Court of Appeals 
+shall grant or deny the authorization to file a second or 
+successive application [for a writ of habeas corpus] not later 
+than 30 days after the filing of the motion." 28 U.S.C. § 
+2244(b)(3)(D). For many of the same reasons that animate us 
+today, however, the courts of appeals have ruled that this 
+time limit may be modified if the court finds it necessary. 
+See, e.g., In re Siggers, 132 F.3d 333, 336 (6th Cir. 1997) 
+(reading the language of § 2244(b)(3) as "hortatory or 
+advisory rather than mandatory," in order to avoid 
+constitutional difficulties); Galtieri v. United States, 128 F.3d 
+33, 36-37 (2d Cir. 1997) (ruling that § 2244(b)(3) must be 
+applied "flexibly," and concluding that the courts should not 
+forego "reasoned adjudication" in the small number of cases 
+that cannot be resolved within 30 days); Jn re Vial, 115 F.3d 
+1192, 1194 n.3 (4th Cir. 1997) (noting that the court 
+exceeded the 30-day limit but concluding that the importance 
+of the issue justified the delay). As we noted earlier, this is 
+precisely the kind of flexibility that we believe is foreclosed 
+to the courts under the language of § 3626(e)(2)./2 
+
+
+The fact that Congress can impose time limits on 
+executive agencies is of little assistance here. Unlike 
+temporal limitations on judicial decision-making, such 
+constraints on agency action are prevalent throughout 
+administrative law. See. e.g.. 7 U.S.C. § 2a(iv)(II) (setting a 
+30-day time limit for Security and Exchange Commission's 
+review of a board of trade's application for designation as a 
+contract market). Where agencies are involved, the 
+judgments subject to legislative encroachment were not 
+rendered by Article III courts but by entities that the 
+Constitution places under the control of Congress. The 
+distinction between those two situations motivated the 
+
+
+App. 27 
+
+
+Court's ruling in Paramino Lumber Co. v. Marshall, 309 U.S. 
+
+
+370 (1940), cited with approval in Plaut v. Spendthrift Farm, 
+Inc., 514 U.S. 211, 232 (1995), where it upheld a private bill 
+that reopened an administrative order, noting that the order 
+was not an adjudication and therefore the legislative act did 
+not constitute "an excursion of Congress into the judicial 
+function" or "affect[ ] judicial judgments." 309 U.S. at 381 & 
+n.15. Last, we think there is an important difference between 
+legislation that affects prospective relief, and legislation that 
+prevents the court from preserving ‘he status quo in whole or 
+in part during the pendency of a suit. The former is 
+permissible, as Plaut observed, but the latter touches upon 
+the heart of the adjudicative process and as such is reserved 
+for the Judicial Branch of government--a point on which we 
+now elaborate. 
+
+
+The prisoners have urged that (e)(2) violates Article 
+III and the separation of powers principle, as well as the due 
+process clause, and thus that it must be declared 
+unconstitutional. Such a finding would not have any effect 
+on the remainder of the PLRA, because Congress included an 
+express severability clause in the statute. See Pub. L. No. 
+104-134, Title 1, § 101(a), Apr. 26, 1996, 110 Stat. 1321-77, 
+renumbered Title I, Pub. L. No. 104-140, § 1(a), May 2, 
+1996, 110 Stat. 1327. We conclude, as did our colleagues in 
+the Sixth Circuit when they analyzed the statute according to 
+the reading we have adopted, that (e)(2) violates the 
+separation of powers principle because it is a direct 
+legislative suspension of a court order. See Hadix, 144 F.3d 
+at 939. Because we believe that (e)(2) represents an 
+unconstitutional legislative encroachment into the powers 
+reserved to the judiciary, we do not need to reach the 
+prisoners’ due process arguments. 
+
+
+App. 28 
+
+
+Under the Supreme Court's decision in Plaut, we 
+know that Congress cannot vest review of the decisions of 
+Article III courts in officials of the executive branch. See 514 
+U.S. at 218, citing Hayburn's Case, 2 U.S. (2 Dall.) 409 
+(1792), and Chicago & Southern Air Lines, Inc. v. Waterman 
+S.S. Corp., 333 U.S. 103 (1948). The Sixth Circuit found, and 
+we agree, that there is no principle under which the 
+legislative branch should enjoy a privilege of reviewing 
+particular decisions of Article III courts that the executive 
+branch does not have. See Hadix, 144 F.3d at 940. As the 
+Supreme Court explained in Plaut, "the Framers crafted 
+[Article III] . .. with an expressed understanding that it gives 
+the Federal Judiciary the power, not merely to rule on cases, 
+but to decide them, subject to review only by superior courts 
+in the Article III] hierarchy." 514 U.S. at 218-19. Yet (e)(2) 
+places the power to review judicial decisions outside of the 
+judiciary: it is a self-executing legislative determination that 
+a specific decree of a federal court--here the decree 
+addressing conditions at Pendleton--must be set aside at least 
+for a period of time, no matter what the equities, no matter 
+what the urgency of keeping it in place. This amounts to an 
+unconstitutional intrusion on the power of the courts to 
+adjudicate cases. 
+
+
+Unlike the Sixth Circuit, we also find that (e)(2) 
+violates the principle articulated in United States v. Klein, 80 
+U.S. (13 Wall.) 128 (1871). In Klein, Congress passed a 
+statute providing that individuals whose property was seized 
+during the Civil War could recover the property by showing 
+that they had not offered "aid or comfort" to the enemy 
+during the war. Klein, 80 U.S. at 131. The Supreme Court 
+subsequently held that a presidential pardon was a sufficient 
+showing that an individual was not a Confederate 
+sympathizer. Reacting to this decision, Congress adopted 
+
+
+App. 29 
+
+
+legislation that required the court to consider a presidential 
+pardon as conclusive evidence of the person's disloyalty to 
+the United States and to dismiss appeals in cases seeking to 
+recover the property of such persons. The K/ein Court struck 
+down this law, holding that Congress does not have the 
+power to impose a rule of decision for pending judicial cases, 
+apart from its power to change the underlying applicable law. 
+
+
+Applying Klein to 18 U.S.C. § 3626(e)(2), the Sixth 
+Circuit focused on the broader remedial provisions of the 
+PLRA and found that the automatic stay did not mandate a 
+rule of decision. Hadix, 144 F.3d at 940. The PLRA simply 
+confined the relief that may be ordered in a prison conditions 
+case to measures strictly designed to address violations of 
+federal law. /d. But, as we have been emphasizing, (e)(2) 
+does not directly implicate the final decision on the merits of 
+the (b)(2) termination motion. Instead, it addresses what 
+should happen during the pendency of the case. For that time 
+period, the statute does mandate a particular rule of decision: 
+the prospective relief must be terminated. In our view, this 
+falls comfortably within the rule of Klein, and as such, it 
+exceeds the power of the legislative branch. 
+
+
+Our determination that the automatic stay provision is 
+not enforceable does not mean that courts should not try to 
+conform their conduct to it. Indeed, the contrary is true: we 
+hold that the district courts must conform their actions to the 
+time limits in § 3626(e)(2) unless compelling reasons for 
+setting them aside can be articulated. On an interlocutory 
+appeal under § 3626(e)(4), this court has the power to require 
+either prompt action or a stay of prospective relief by finding 
+that a recalcitrant judge has abused her discretion. In passing 
+the PLRA, Congress sought to quell the perceived tendency 
+of federal courts to micro-manage state prisons by limiting 
+
+
+App. 30 
+
+
+the availability of consent decrees and other judicially- 
+imposed prospective relief. See H.R. Rep. No. 21, 104th 
+Cong., Ist Sess. 9 (1995) (noting that federal courts have 
+"used these consent decrees to intrude into a state criminal 
+justice system and seriously undermine the ability of the 
+local justice system to dispense any true justice"). The PLRA 
+accomplishes this goal, in part, by "includ[ing] provisions 
+that will guard against court-ordered [remedies] dragging on 
+and on, with nothing but the whims of federal judges 
+sustaining them. "H.R. Rep. No. 21, at 8. 
+
+
+It may be, however, that in some cases the courts will 
+not be able to carry out their adjudicative function in a 
+responsible way within the time limits imposed by (e)(2). See 
+Hadix, 144 F.3d at 944. Given the command of the PLRA to 
+tailor relief to the least restrictive alternative, and to take 
+every step to ensure that an injunction does not stray beyond 
+the requirements of federal law, the district courts will have a 
+complex task on their hands. Some decrees under review will 
+have been the result of years of litigation, and in considering 
+whether termination is proper under § 3626(b)(2), or whether 
+newly tailored relief should continue under § 3626(b)(3), the 
+court may need not only to review a massive record, but also 
+to take new evidence. In many other cases, like this one, the 
+decree will be the result of a settlement between the parties 
+and the record may be far too scant to make the required 
+determinations. See generally Rufo v. Inmates of Suffolk 
+County Jail, 502 U.S. 367, 378 (1992) (holding that a Fed. 
+R.Civ. P. 60(b) motion may be used to seek modification of a 
+consent decree). The court will have the obligation to 
+supplement the record so that its final orders comply with the 
+statute,and both sides will have the right to present argument 
+on this point. Even though Congress has the power to 
+regulate the jurisdiction of the inferior federal courts. Keene 
+
+
+App. 31 
+
+
+Corp. v. United States, 508 U.S. 200, 207 (1993), citing 
+Finley v. United States, 490 U.S. 545, 548 (1989), under 
+Klein it cannot take away the power of the court in a 
+particular case to preserve the status quo while it ponders 
+these weighty questions. 
+
+
+This conclusion makes it unnecessary for us to reach 
+the alternate constitutional grounds on which the prisoners 
+have relied. We emphasize again that our ruling is a narrow 
+one. It does not prevent the state from asking that the 
+prospective relief be stayed while an immediate termination 
+motion is pending. Furthermore, in Berwanger this court has 
+upheld the constitutionality of the heart of this part of the 
+PLRA, which is the (b)(2) right to immediate termination. 
+Here, we hold only that 18 U.S.C. § 3626(e)(2) is 
+unconstitutional insofar as it is a legislatively commanded, 
+self-executing stay of an existing court order that requires _ 
+remedies in a prison conditions case. The district judge did 
+not abuse his discretion at the time he issued his order 
+refusing to stay prospective relief in this case, while he 
+considered the state's petition for immediate termination of 
+the decree governing the Pendleton CorrectionalFacility./3 
+On the understanding that the PLRA requires the district 
+court to take every possible measure to expedite its final 
+ruling on the state's motion, and if need be to reconsider the 
+
+
+propriety of an interim stay, the order of the district court is 
+AFFIRMED. 
+
+
+/* This opinion was originally released in typescript. 
+
+
+/1 Most of the statutes cited by the dissent operate in 
+precisely this fashion. See post at 27-29. Thus, for example, 
+a party who wishes to be exempted from the automatic stay 
+in bankruptcy need only petition the bankruptcy court for 
+
+
+App. 32 
+
+
+relief, and that court can lift the stay. Similarly, the Speedy 
+Trial Act contains numerous safeguards that allow a district 
+court to modify the time limits when good cause exists to do 
+so. If these statutes offer good analogies to § 3626(e)(2). 
+then logically the dissent should agree with the position of 
+the Sixth Circuit: the automatic stay of (e)(2) goes into effect, 
+but the district court is free to annul the stay on traditional 
+equitable grounds. As the Sixth Circuit held, under that 
+reading there plainly would be no constitutional flaw in the 
+structure of the system. 
+
+
+/2 At least one of the other examples cited by the dissent has 
+been construed the same way, namely, the statute governing 
+appeals by persons incarcerated for contempt of a grand jury, 
+28 U.S.C. § 1826(b), see Jn the Matter of a Witness Before 
+the Special October 1981 Grand Jury, 722 F.2d 349, 353 
+(7th Cir. 1983). 
+
+
+/3 Although the Sixth Circuit and this panel havearrived at 
+the same ultimate conclusion--namely,that the district courts 
+retain the power notwithstanding § 3626(e)(2) either to stay 
+prospective relief pending adjudication of a § 3626(b)(2) 
+motion or to refuse a stay--the reasoning underlying our 
+respective decisions is sufficiently at odds that we have 
+circulated this opinion to the full court under Circuit Rule 
+40(e). A majority of the judges in regular active service did 
+not wish to hear this case en banc. Chief Judge Posner and 
+Circuit Judges Easterbrookand Manion voted to rehear en 
+banc. 
+
+
+EASTERBROOK, Circuit Judge, with whom 
+POSNER, Chief Judge, and MANION, Circuit Judge, join, 
+dissenting from the denial of rehearing en banc. The panel 
+holds an Act of Congress unconstitutional--and not some 
+
+
+App. 33 
+
+
+musty statute overtaken by a change of constitutional 
+doctrine, but the flywheel of recent legislation. Moreover, the 
+panel's approach is not supported by either the text of the 
+Constitution or any doctrine developed by the Supreme 
+Court, and if the panel is right then many other important 
+statutes and rules are unconstitutional. I agree with the panel 
+that §3626(e)(2) cannot bear the reading given it by Hadix v. 
+Johnson, 144 F.3d 925 (6th Cir.1998). Congress set a 
+deadline; Hadix turns it into mush. The creation of a conflict 
+is justified. But we should not then use constitutional 
+grounds to knock §3626(e)(2) out of commission. Judge 
+Norris's separate opinion in Hadix, 144 F.3d at 950-52, 
+rightly concludes that this statute is within Congress’ power. 
+
+
+The Prison Litigation Reform Act substantially 
+changes the criteria that permit a federal court to take over 
+the management of a prison. Congress directed courts to 
+apply the new criteria to existing decrees as well as to future 
+ones. That change properly may be applied to ongoing relief. 
+So we hold today in Berwanger v. Cottey, No. 98-3107, 
+following the lead of many other courts. See /Jnmates of 
+Suffolk County Jail v. Rouse, 129 F.3d 649 (1st Cir. 1997); 
+Benjamin v. Jacobson, 1999 U.S. App. Lexis 5130 (2d Cir. 
+Mar. 23, 1999) (en banc); Jmprisoned Citizens Union v. 
+Ridge, 169 F.3d 178 (3d Cir. 1999); Plyler v. Moore, 100 
+F.3d 365 (4th Cir. 1996); Hadix v. Johnson, 133 F.3d 940 
+(6th Cir. 1998); Gavin v. Branstad, 122 F.3d 1081 (8th Cir. 
+1997); Dougan v. Singletary, 129 F.3d 1424 (11th Cir. 1997). 
+The only contrary appellate decision, Taylor v. United States, 
+143 F.3d 1178 (9th Cir. 1998), has been withdrawn on the 
+grant of rehearing en banc, 158 F.3d 1059 (9th Cir. 1998). 
+
+
+Many judges are reluctant to undo their own 
+handiwork and may share the view of the district judge in 
+
+
+App. 34 
+
+
+Pasadena City Board of Education v.Spangler, 427 U.S. 424, 
+433 (1976), that relief should continue for the judge's 
+lifetime. Congress therefore designed a mechanism to ensure 
+the application of the new rules to the stock of existing 
+decrees--and to facilitate reexamination even of post-PLRA 
+orders, so that state and local governments may regain 
+control of their institutions once an injunction has achieved 
+its purpose of correcting violations of federal law. See, e.g.. 
+Missouri v. Jenkins, 515 U.S. 70, 102(1995); People Who 
+Care v. Rockford Board of Education, No. 98-1056 (7th Cir. 
+Mar. 19, 1999), slip op. 11-12. 
+
+
+Once a year has passed since the last time the judge 
+addressed the subject (or two years since the decree's entry or 
+the PLRA's enactment) any party may file a motion to 
+terminate relief. 18 U.S.C. §3626(b)(1). The decree then must 
+be terminated, §3626(b)(2), unless the judge determines "that 
+prospective relief remains necessary to correct a current and 
+ongoing violation of the Federal right, extends no further 
+than necessary to correct the violation of the Federal right, 
+and that the prospective relief is narrowly drawn and the least 
+intrusive means to correct the violation." 18 U.S.C. 
+§3626(b)(3). Deadlines are essential lest these rules prove 
+nugatory, so §3626(e)(1) requires the court to decide 
+"promptly", and §3626(e)(2) quantifies "prompt" as within 
+30 days, with a possible extension to 90 under §3626(e)(3). 
+Subsection (e)(2) calls for a stay rather than termination of 
+the decree. Like the automatic stay in bankruptcy law, 11 
+U.S.C.§ 362, subsection (e)(2) does not cancel any judicial 
+decision; it simply stays its effectiveness until the judge 
+renders a decision on the merits. Subsection (e)(2) thus gives 
+the judge a reason to rule promptly. Our case shows the need 
+for such an incentive. Having declared subsection (e)(2) to be 
+unconstitutional, the district judge proceeded to ignore 
+
+
+App. 35 
+
+
+subsection (e)(]). Defendants sought termination of the 
+decree by a motion in June 1997. Almost two years have 
+passed, but the district judge has yet to take a single step 
+toward acting on this request--and the last word of the panel's 
+opinion is "affirmed." A process that is supposed to be rapid 
+drags on with no end in sight. 
+
+
+According to the panel, subséction (e)(2) is 
+unconstitutional because it "operates directly on the internal 
+adjudication of a case in federal court." Slip op. 12. This is 
+not an accurate description of the statute. Although 
+subsection (e)(1) tells courts how to behave ("promptly 
+rule"), subsection (e)(2) does not. Like the automatic stay in 
+bankruptcy, this statute tells the parties whether they can take 
+advantage of a judgment; it does not tell judges when, how, 
+or what to do, but specifies what happens if the judge does 
+not act. If 30 days pass without action, prospective relief is 
+automatically stayed. The judge can devote his time to the 
+criminal docket or whatever he deems more pressing than 
+prison-reform litigation. But even if we understand 
+§3626(e)(2) as affecting the court's allocation of time (which 
+it will do indirectly; that's its point), why is this a 
+constitutional problem? 
+
+
+Article III establishes three safeguards of judicial 
+independence: tenure of office, protection against financial 
+penalties, and the rule (an implication of establishing a 
+"judicial Power") that final judgments must be carried out. 
+See Plaut v. Spendthrifi Farm, Inc., 514 U.S. 211 (1995). An 
+automatic stay following 30 days of judicial inaction does not 
+undermine any of these. The judge is 100% in charge. Stays 
+do not conflict with tenure, salary protection, or respect for 
+judgments. Bankruptcy practice shows this; often the 
+principal reason for filing is to suspend the effectiveness of a 
+
+
+App. 36 
+
+
+judgment (such as a judgment of foreclosure and sale) 
+pending further decision. Consider, too, Fed. R. Civ. P.65(b), 
+which limits a temporary restraining order to 10 days (with a 
+single extension to 20). Just as subsection (e)(2) causes an 
+injunction to lapse unless the judge makes findings within 30 
+(or 90) days, so Rule 65(b) causes an injunction to lapse 
+unless the judge makes findings within 10 (or 20) days. No 
+one thinks that Rule 65(b) is an unconstitutional intrusion on 
+the way judges manage their business; instead it protects 
+defendants against unwarranted judicial interference. Just so 
+with §3626(e)(2): It ensures that state and local governments 
+are not burdened by federal control of their institutions for 
+longer than is necessary. 
+
+
+My colleagues on the panel treat Rule 65(b) as 
+justified by the need to limit ex parte orders, and this is 
+indeed good support for the rule--but support that is unrelated 
+to Article III. It mixes up distinct issues to distinguish Rule 
+65(b) from §3626(e)(2) by pointing to the rights of litigants. 
+If Congress should provide that injunctions in prison 
+litigation expire five minutes after the court receives a 
+motion, this would indeed be unconstitutional, but not 
+because of anything in Article III. The problem with my 
+hypothetical statute would be the due process clause, which 
+entitles litigants to a meaningful opportunity to be heard 
+before a final decision. Section 3626(e)(2) is not problematic 
+under the due process clause. A stay is not a final decision (it 
+is more like a TRO, which may issue ex parte), and 30 days 
+is adequate for the litigants to be heard (just as the 20-day 
+window under Rule 65 affords time for a hearing). The 
+panel's concern about defendants who drag their heels in an 
+effort to prevent the judge from reaching a decision (slip op. 
+12-13) has nothing to do with Article III] and the court's 
+internal operations, and everything to do with the due process 
+
+
+App. 37 
+
+
+rights of the litigants. The possibility of foot-dragging under 
+§3626(e)(2) is less serious than under Rule 65(b), for a 
+defendant's barricade of the plaintiff's access to information 
+would be "good cause" to postpone the automatic stay until 
+90 days under subsection (e)(3), and this extra time makes 
+the tactic less likely to succeed than when the defendant need 
+stall for only 20 days. Courts can foil delaying maneuvers by 
+imposing sanctions on parties that fail to cooperate in 
+discovery, see Fed. R. Civ.P. 37, and by drawing adverse 
+inferences about missing evidence. The inference then could 
+support a finding under §3626(b)(3). None of this, however, 
+has anything to do with Article III or the separation of 
+powers. 
+
+
+Someone who thinks that the PLRA is an intrusion on 
+the powers of the judiciary should point not to §3626(e)(2), 
+which just goads iudges to get a move on, but to §3626(b)(2), 
+which calls for the "immediate termination" of injunctive 
+relief on motion of a party. Yet we hold in Berwanger--and 
+the panel in French agrees, slip op. 7--that subsection (b)(2) 
+is constitutional, for Congress may require courts to revisit 
+prospective relief when it changes generally applicable rules 
+of law. See Robertson v. Seattle Audubon Society, 503 U.S. 
+429 (1992): Rufo v. Inmates of Suffolk County Jail, 502 U.S. 
+367 (1992); System Federation No. 91 v. Wright, 364 U.S. 
+642 (1961). The PLRA creates new substantive 
+requirements, and the legislature may require all ongoing 
+relief--whether based on pre-PLRA or post-PLRA decrees--to 
+conform. If subsection (b)(2) is constitutional, then Congress 
+must be entitled to require its effective implementation, 
+which is all subsection (e)(2) does. 
+
+
+Federal judges have no constitutional power to 
+frustrate through delay the implementation of valid 
+
+
+App. 38 
+
+
+legislation. I am not aware of any decision by the Supreme 
+Court holding, or even suggesting, that statutes requiring 
+judges to adjudicate with dispatch pose constitutional 
+problems. Many laws, of unquestioned validity, require the 
+President and his subordinates to meet deadlines for action; 
+the Judicial Branch has no more freedom from time pressure 
+than does the Executive Branch. If the separation of powers 
+protects judges from time limits, it protects the President too. 
+The panel is unwilling to extend any such protection to the 
+President; hundreds if not thousands of laws would be swept 
+away. But as a matter of constitutional language and 
+structure, the Judicial and Executive Branches are identically 
+situated with respect to deadlines that affect the sequence in 
+which they handle business. 
+
+
+If there is a constitutionally based right of 
+independence in the administration of judicial business, it 
+invalidates 28 U.S.C. §§144 and 455, which prescribe 
+judicial conduct much more directly than does §3626(e){2). 
+Until 1911, when §144 was enacted, rules of disqualification 
+were based on the common law. A formal Code of Conduct 
+for United States Judges was first adopted in 1973. Not until 
+1974 was there any requirement that federal judges refrain 
+from sitting when their impartiality might reasonably be 
+questioned. 28 U.S.C. §455(a). Thoroughgoing application of 
+the panel's approach would annul these statutes and return all 
+ethical standards to judicial hands. But if a legislature has the 
+constitutional authority to strip judges of the power to render 
+decisions at all (and this is what §144 and §455 do), it has the 
+authority to tell judges to devote priority attention to cases 
+that the legislature deems vital. Statutes specifying 
+procedures for adjudication have been with us since the 
+beginning of the republic (see Act of Sept. 24, 1789, ch. 20, | 
+Stat. 73, 83; Act of Sept. 29, 1789, ch. 21, 1 Stat. 93), 
+
+
+App. 39 
+
+
+something one cannot say about statutory ethics rules. But if 
+the process of adjudication really is independent of 
+legislative control, all procedural rules predating the Rules 
+Enabling Act of 1936--and all statutes overriding rules 
+promulgated by judges under that law--must be 
+unconstitutional too. 
+
+
+Interference with judges’ allocation of time is only 
+one of the panel's objections to §3626(e)(2). The other rests 
+on United States v. Klein, 80 U.S. (13 Wall.) 128 (1871), 
+which the panel reads as establishing the principle that 
+"Congress does not have the power to impose a rule of 
+decision for pending judicial cases, apart from its power to 
+change the underlying applicable law." Slip op. 17. Whether 
+Klein stands for this proposition is an interesting question, 
+see Seattle Audubon Society, 503 U.S.at 441, but not one we 
+need consider. Subsection (e)(2) does not establish any "rule 
+of decision for pending judicial cases"; the rule of decision 
+comes from §3626(b)(3), a statute that assuredly makes a 
+“change [in] the underlying applicable law." Many judgments 
+governing prison conditions are based on the parties’ consent, 
+which may be unrelated to the requirements of federal law. 
+See Firefighters Local 93 v. Cleveland, 478 U.S. 501, 522 
+(1986): "it is the agreement of the parties, rather than the 
+force of the law upon which the complaint was originally 
+based, that creates the obligations embodied in a consent 
+decree." Some decrees depend on a mixture of state and 
+federal obligations. But after §3626(b)(3) prospective relief is 
+limited strictly to enforcing the requirements of federal law, 
+and the relief must be the minimum necessary to vindicate 
+the federal right. That is a substantial change. All §3626(e)(2) 
+does is stay a decree's effectiveness until the court completes 
+the task of applying the new rule of law. An automatic stay 
+pending final decision no more violates the principle of Klein 
+
+
+App. 40 
+
+
+than does the automatic stay in bankruptcy law, or the 
+automatic termination of a TRO under Rule 65(b). Section 
+3626(e)(2) requires courts to depart from the approach they 
+take when revisiting other decrees, but "Congress may 
+intervene and guide or control the exercise of the courts’ 
+discretion". Weinberger v. Romero-Barcelo, 456 U.S. 305, 
+313 (1982) (emphasis added). 
+
+
+If §3626(e)(2) is unconstitutional, then along list of 
+statutes is in jeopardy. I have mentioned a few--the automatic 
+stay in bankruptcy, rules for judicial disqualification, Fed. R. 
+Civ. P. 65(b)--but there are more. Here are some members of 
+the endangered species. 
+
+
+1. The Bankruptcy Code provides for an automatic 
+stay of all legal claims, including the enforcement of 
+judgments, 11 U.S.C. §362(a)(2), against the debtor. The stay 
+lasts until a judge comes to a conclusion about thes ubject, 
+just as with §3626(e)(2). But while, under §3626(e)(2), the 
+judge has 30 or 90 days to act before the stay takes effect, 
+under §362 the judge has zero days. So if §3626(e)(2) 
+violates Article III by giving the judge too little time--and 
+Klein, by staying a judgment without an intervening change 
+of substantive law--then §362 is worse on both counts. 
+(Section 362 also is like §3626(e)(2) because it does not 
+require the judge to act; it just deprives a litigant of a 
+judgment's benefits until the judge does act.) One can't 
+logically distinguish §362 by saying that Congress has 
+special powers over bankruptcy or that the automatic stay 
+helps to coordinate the handling of claims. The bankruptcy 
+power is no different from §5 of the 14th Amendment, which 
+undergirds §3626. Legislative powers are pertinent to the 
+question whether Congress may alter private rights; they are 
+not pertinent to th e question whether Article III contains a 
+
+
+App. 41 
+
+
+judicial immunity from time limits, or prevents judgments 
+from being subject to stay. Buckley v. Valeo, 424 U.S. 1, 132- 
+37 (1976), and its successors reject any argument that 
+Congress’ "special competence" over such-and-such a subject 
+enables it to enact a law that violates the separation of 
+powers. That a statute is a sensible way to deal with a 
+problem does not save it against a separation-of-powers 
+challenge. See JNS v. Chadha, 462 U.S. 919, 944 (1983); 
+Bowsher v. Synar, 478 U.S. 714, 722, 736 (1986). 
+
+
+2. The Speedy Trial Act requires the court to try the 
+defendant within 70 days or dismiss the indictment. 18 
+U.S.C. §§ 3161, 3162(a)(2). This statute, like §3626(e)(2), 
+does not require the court to act, but establishes the 
+consequence of delay. Although courts can grant extensions 
+of the 70-day period, this can't matter to the constitutional 
+analysis. My colleagues’ objection to §3626(e)(2) is not that 
+the time is too short--a claim that could not be reconciled 
+with Rule 65(b)--but that it establishes a deadline. Any other 
+deadline would be equally offensive to the separation of 
+powers. When the fourth circuit sustained the Speedy Trial 
+Act against an attack based on Article III, it rejected the 
+interpretation of K/ein that our panel embraces. United States 
+v. Brainer, 691 F.2d 691, 695-96 (4th Cir. 1982). 
+
+
+3. Appeals by persons incarcerated for contempt of a 
+grand jury must be decided within 30 days. 28 U.S.C. 
+§1826(b). This statute operates directly on the judge rather 
+than on the litigants. 
+
+
+4. The court of appeals must grant or deny, within 30 
+
+
+days, an application for leave to commence a second or 
+successive collateral attack. 28 U.S.C. §2244(b)(3)(D). 
+
+
+App. 42 
+
+
+5. Chapter 154 of the Judicial Code (added by the 
+AEDPA) sets multiple time limits in capital cases. 28 U.S.C. 
+§2266(b). These are binding rather than hortatory. Section 
+2266(b)(4)(B) says that a state may "enforce" these limits by 
+mandamus, and that the court of appeals "shall act on the 
+petition for a writ of mandamus not later than 30 days after 
+the filing of the petition.” 
+
+
+6. Pretrial detention following arrest can't exceed 10 
+days unless the court makes specified findings. 18 U.S.C. 
+§3142(d). This is almost completely parallel to §3626(e)(2)-- 
+and it won't do to distinguish the two by saying that §3142(d) 
+protects the right of suspects to liberty. That would be 
+irrelevant to the independence of the judiciary under Article 
+III, the fulcrum of the panel's opinion, and is at all events no 
+distinction: §3626(e)(2) protects the rights of states to be free 
+from unwarranted injunctions of indefinite duration. 
+
+
+7. The criminal rules contain many time limits: Rule 
+35(c) caps at 7 days the time to correct an error in a sentence 
+(note that this is an outer limit for judicial action, not for a 
+party to make a motion); Rule 29(c) gives a judge only 7 
+days to entertain (or extend the time to make) a motion for 
+acquittal, and this time can't be further extended. Carlisle v. 
+United States, 517 U.S. 416 (1996). See also Rules 33 and 
+34--more time limits that apply to judges, not just counsel. 
+Rule 45(b) forbids the enlargement of time specified by 
+"Rules 29, 33, 34 and 35, except to the extent and under the 
+conditions stated in them." The district judge in Carlisle 
+treated the 7-day time limit for action in Rule 29(c) as 
+advisory; the Supreme Court disagreed; but if our panel is 
+right, then Carlisle is not only wrong but also 
+unconstitutional, for if the judge fails to act within 7 days 
+
+
+App. 43 
+
+
+defendants may lose valuable rights (and in Carlisle did lose 
+a valuable right--an acquittal! ). 
+
+
+8. Former Fed. R. Crim. P. 35 set a limit of 120 days 
+for action on motions to reduce sentence, and strict 
+enforcement of this limit was endorsed by United States v. 
+Addonizio, 442 U.S. 178 (1979). In United States v. 
+Kimberlin, 776 F.2d 1344 (7th Cir. 1985), and Gaertner 
+v. United States, 763 F.2d 787 (7th Cir. 1985), we held that 
+this time limit was "jurisdictional" and thus prevailed even 
+when the prisoner's motion was timely and only the judge's 
+delay deprived the defendant of an opportunity for a lower 
+sentence. If the panel is right, then Addonizio, Kimberlin, and 
+Gaertner are not only wrong but also unconstitutional. 
+
+
+9. After a defendant is found not guilty by reason of 
+insanity, the judge must hold within 40 days a hearing to 
+determine whether the person is still insane and therefore 
+subject to continuing commitment. 18 U.S.C. §4243(c). 
+
+
+10. Fed. R. Civ. P. 65(b) sets 10- and-20 day limits 
+for temporary restraining orders. The Norris-LaGuardia Act, 
+29 U.S.C. §107, has a 5-day limit. These time limits force the 
+judiciary to hold hearings and make prompt decisions, else 
+orders expire, in the same way as does §3626(e)(2). 
+
+
+My colleagues’ response is that these time limits 
+either have escape hatches despite their absolute language--a 
+response at war with the panel's conclusion that §3626(e)(2) 
+does not permit departure on equitable grounds, and with the 
+Supreme Court's approach to time limits in Carlis/e and 
+Addonizio--or are unconstitutional themselves. Either way, 
+the scope of the panel's decision is breathtaking. As a 
+practical matter, all of these statutes are gutted. They go by 
+
+
+App. 44 
+
+
+the boards not because of either the Constitution's text or any 
+controlling decision of the Supreme Court, but because the 
+panel has invented a right of the judicial branch to freedom 
+from deadlines. If this does not meet the standard for en banc 
+review, I don't know what does. 
+
+
+App. 45 
+
+

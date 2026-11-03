@@ -1,0 +1,2538 @@
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+Vv. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United S‘ates Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF PETITIONER 
+
+
+CARTER G. PHILLIPS JAMES W. HUNDLEY * 
+
+JEFFREY T. GREEN BRIGLIA & HUNDLEY, P.C. 
+
+Kurt H. JAcoBs The Mosby Professional Building 
+SIDLEY & AUSTIN 10560 Main Street, Suite 314 
+1722 Eye Street, N.W. Fairfax, Virginia 22030 
+Washington, D.C. 20006 (703) 385-8005 
+
+(202) 736-8000 
+
+PAUL F. WASHINGTON 
+
+75 Rockefeller Plaza 
+
+
+New York, New York 10019 
+(212) 484-6753 
+
+
+Counsel for Petitioner 
+January 28, 2000 * Counsel of Record 
+
+
+LL TS LT 
+
+
+Supreme Court, U.S, / 
+r"\ 
+
+
+No, 99-5525 TJAN 2 8 D0N0 
+In THE CLERK 
+
+
+Supreme Court of the United States 
+
+
+—- 
+
+
+S¥ PP 
+
+
+QUESTION PRESENTED 
+
+
+Whether Congress’ enactment of 18 U.S.C. § 3501 con- 
+stitutes an unconstitutional attempt legislatively to narrow 
+the protections in the .Self-Incrimination Clause of the 
+Fifth Amendment embodied in this Court’s opinion in 
+Miranda v. Arizona, 384 U.S. 436 (1966)? 
+
+
+(i) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+QUESTION PRESENTED... i 
+
+TABLE OF AUTHORITIES ........ v 
+
+EE 1 
+
+STATEMENT OF JURISDICTION... 1 
+CONSTITUTIONAL AND STATUTORY PROVI- 
+
+i 2 
+
+STATEMENT OF THE CASE... 2 
+
+A. Factual Background ..... 4 
+
+B. Procedural Background 6 
+
+C. Statutory Background... 9 
+
+SUMMARY OF ARGUMENT ........ 11 
+
+I 13 
+
+
+I. MIRANDA ENUNCIATED A CONSTITU- 
+TIONAL RULE THAT CANNOT BE RE- 
+VERSED BY CONGRESS on. 13 
+
+
+A. Miranda’s Core Constitutional Holdings ._. 13 
+
+
+B. The Court’s Subsequent Application Of 
+Miranda To The States And On Habeas... 
+
+
+stitutional Weight 
+D. Section 3501 Is Constitutionally Infirm _... 
+
+
+Il. THERE IS NO REASON TO DISLODGE 
+MIRANDA’S CONSTITUTIONAL RULING... 30 
+
+
+A. Workability | 31 
+(iii) 
+
+
+iv 
+
+
+TABLE OF CONTENTS—Continued 
+
+
+Se GD ccessnnniensinncsnietisiniaiasinnitiiesapiiesiidinte: 
+
+
+E. Miranda Is Not “Unsound In Principle” _.__.. 
+F. Considerations That Transcend Traditional 
+
+
+CONCLUSION 
+
+
+> & esee§ 
+
+
+v 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES Page 
+Arizona v. Roberson, 486 U.S. 675 (1988) ........... 21 
+Berkemer v. McCarty, 468 U.S. 420 (1984)... 82, 34 
+Blackburn v. Alabama, 361 U.S. 199 (1960)... 41 
+Blackledge v. Perry, 417 U.S. 21 (1974)... 26 
+Bram Vv. United States, 168 U.S. 582 (1897) _....... 41 
+Butler v. McKellar, 494 U.S. 407 (1990) ............ 20 
+Carter v. Kentucky, 450 U.S. 288 (1981) .......... 40 
+City of Boerne v. Flores, 521 U.S. 507 (1997)........ 29 
+Colorado v. Connelly, 479 U.S. 157 (1986)... 41 
+Cooper v. Dupnik, 963 F.2d 1220 (9th Cir. 1992).. 36 
+Culombe v. Connecticut, 367 U.S. 568 (1961)........ 41 
+Davis v. United States, 512 U.S. 452 (1994) 10, 35 
+Doe v. United States, 487 U.S. 201 (1988) 40 
+Edwards v. Arizona, 451 U.S. 477 (1981) ............. 20, 34 
+Escobedo V. Illinois, 378 U.S. 478 (1964) .............. 15, 27 
+Fare v. Michael C., 442 U.S. 707 (1979) _.............. 32 
+Freedman v. Maryland, 380 U.S. 51 (1965) .......... 25 
+Garcia v. San Antonio Metro. Transit Auth., 469 
+
+I a 31, 37 
+Gertz v. Robert Welch, Inc., 418 U.S. 828 (1974).. 24 
+Gideon v. Wainwright, 372 U.S. 335 (1968)... 15, 40 
+Greenwald v. Wisconsin, 390 U.S. 519 (1968) ....... 41 
+Griffin v. California, 380 U.S. 609 (1965)... 40 
+Harris v. Rivera, 454 U.S. 339 (1981) 21 
+Illinois v. Perkins, 496 U.S. 292 (1990)... 20 
+Lisenba v. California, 314-U.S. 219 (1941) _........ 41 
+Loretto v. Teleprompter Manhattan CATV Corp., 
+
+REE a 26 
+Maine v. Moulton, 474 U.S. 159 (1985) 26 
+Malloy v. Hogan, 378 U.S. 1 (1964) 15 
+Marbury v. Madison, 5 U.S. (1 Cranch) 187 
+
+FES SPUN SMT ees See eee ee 30 
+Massiah v. United States, 377 U.S. 201 (1964)...... 15, 28 
+McNabb v. United States, 318 U.S. 882 (1948)... 21 
+Michigan v. Harvey, 494 U.S. 344 (1990) _....... 27, 32, 34 
+Michigan v. Jackson, 475 U.S. 625 (1986) ........ .20, 26, 27 
+Michigan v. Payne, 412 U.S. 47 (1978) _.............. 26 
+
+
+Michigan v. Tucker, 417 U.S. 483 (1974) ....17, 21, 23, 35 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+Page 
+Mincey v. Arizona, 487 U.S. 885 (1978) 41 
+Minnick v. Mississippi, 498 U.S. 146 (1990) .....21, 29, 34, 
+35, 37 
+Miranda v. Arizona, 384 U.S. 436 (1966) .............. passim 
+Mitchell v. United States, 119 S. Ct. 1307 (1999).. 44 
+Moran Vv. Burbine, 475 U.S. 412 (1986) .............. 20, 32, 45 
+Mu’ Min v. Virginia, 500 U.S. 415 (1901) .............. 21 
+New York v. Quarles, 467 U.S. 649 (1984)... 24, 32, 36 
+
+New York Times Co. v. Sullivan, 376 U.S. 254 
+ge eT TUN 24 
+North Carolina v. Pearce, 395 U.S. 711 (1969)... 26 
+Oregon v. Elstad, 470 U.S. 298 (1985) 0... 21, 24, 25, 35 
+Oregon v. Haas, 420 U.S. 714 es 25 
+
+Patterson v. McLean Credit Union, 491 U.S. 164 
+GED <vvernsepeinnsnsbntehsiphiiheemeretieeniaiameiti 31, 34 
+Payne v. Arkansas, 356 U.S. 560 EE 41 
+Payne v. Tennessee, 501 U.S. 808 (1991) 80, 31 
+
+
+Pennsylvania v. Muniz, 496 U.S. 582 (1990)... 34 
+Planned Parenthood v. Casey, 505 U.S. 833 
+
+
+er ear ee 30, 31, 33, 36, 45 
+Rhode Island v. Innis, 446 U.S. 291 (1980) 32 
+Rock v. Arkansas, 483 U.S. 44 ae 40 
+Stansbury v. California, 511 U.S. 318 (1994)... 21 
+Tennessee Vv. Street, 471 U.S. 409 | 25 
+
+
+United States vy. Balsys, 118 S. Ct. 2218 (1998) ..38, 39, 43 
+United States v. International Bus. Mach. Corp., 
+
+
+tT lc 30 
+United States v. Leon, 468 U.S. 897 (1984) ............. 25 
+United States v. Title Ins. & Trust Co., 265 U.S. 
+
+A Eat 31 
+Vasquez v. Hillary, 474 U.S. 254 I 30, 31 
+Weaver v. Brenner, 40 F.3d 527 (2d Cir. 1994)... 36 
+Withrow v. Williams, 507 U.S. 680 (1988) ............ 22, 40 
+Wong Sun v. United States, 371 U.S. 471 (1963).. 28 
+
+CONSTITUTION 
+U.S. Const. amend. V 2, 38 
+
+
+vil 
+TABLE OF AUTHORITIES—Continned 
+FEDERAL STATUTES Page 
+I asi 10 
+EEE STE SN eR EET 2, 9, 28 
+28 U.S.C. § 2254 ER A See i ene 22 
+CONGRESSIONAL HISTORY 
+114 Cong. Rec. 16,074 (1968) 10 
+114 Cong. Rec. 16,295 (1968)... 10 
+S. Rep. No. 90-1097 (1968), reprinted in 1968 
+| ___ ie ll —ae ea SMOT 10, 27 
+
+
+SCHOLARLY AUTHORITIES 
+
+
+Stephen I. Schulhofer, Reconsidering Miranda, 54 
+U. Chi. L. Rev. 485 (1987) ... , ' 14 
+Yale Kamisar, Can (Did) Congress “Overrule” 
+Miranda?, 85 Cornell L. Rev. (forthcoming 
+SEs aiaiicndiiiiias 28 
+
+
+OTHER AUTHORITIES 
+Albert W. Alschuler, A Peculiar Privilege in His- 
+torical Perspective, in The Privilege Against 
+Self-Incrimination 181 (R.H. Helmholz et al. 
+
+
+EE EE eee OE ee 39, 40 
+Joan Biskupic, High Court to Reconsider Miranda 
+Ruling, Wash. Post, Dec. 7, 1999, at Al ....... 4 
+
+
+Michael Dorman, Imagine You're Arrested. First 
+They Read Your Rights. (Right?), Newsday, 
+SF eee 4 
+Charles M. Gray, Self-Incrimination in Interjuris- 
+dictional Law: The Sixteenth and Seventeenth 
+Centuries, in The Privilege Against Self- 
+Inerimination 47 (R.H. Helmholz et al. eds., 
+
+
+Confessions Can Co-Ezist, Wall St. J., Dec. 13, 
+ES ET A Se Se a 4 
+
+
+R.H. Helmholz, Introduction, in The Privilege 
+Against Self-Incrimination 1 (R.H. Helmholz 
+et al. eds., 1997) 89 
+
+
+viii 
+
+
+In THE 
+TABLE OF AUTHORITIES—Continued 
+_— Supreme Court of the United States 
+R.H. Helmholz, The Privilege and the Jus Com- 
+mune: The Middle Ages to the Seventeenth No. 99-5525 
+0. 99- 
+
+
+Incrimination 17 (R.H. Helmholz et al. eds., 
+UTTED centeienenscicrentinnnisetasiaiitli i alta tie 40 
+CHARLES THOMAS DICKERSON, 
+
+
+». Petitioner, 
+
+
+Self-Incriminati ‘ 
+f mination 82 (R.H. Helmholz et al. eds., UNITED STATES OF AMERICA, 
+
+
+SEE sannepiatensiieaniinndineitemmnti seth ie 39, 40 
+Tony Mauro, Supreme Court Agrees to Revisit Respondent. 
+Miranda Warning, USA Today, Dec. 7, 1999, at | 
+On Writ of Certiorari to the 
+
+
+a senesnsensossoneesnes cenecunssassensensuseasseanecuseteneseesenees 4 
+United States Court of Appeals 
+
+
+for the Fourth Circuit 
+
+
+SEP enerrteitidlnnnirenasaanttidineenitteessiteaaisthataiataaiaciataateteaten as 38, 39 PETITI 
+Stephen Seplow, Miranda Rights Case Revisited, asthe a 
+Ree Bram, er. Si, 1908, ab 2A silicates 4 
+‘ th, The Modern Privilege: Ite OPINI 
+Nineteenth-Century Origins, in The e ee 
+Against Self-Incrimination 145 (R.H. Helmholz The opinion of the court of appeals is reported at 166 
+I Gas TT heenneinnttniatihiasiieinee te call: 38 F.3d 667 (4th Cir. 1999), and is reproduced in the Joint 
+
+
+Appendix (J.A.) at 162-225. That opinion reversed an 
+unpublished opinion and order of the district court, re- 
+produced in the J.A. at 139-55. Following the district 
+court’s ruling, both the government and petitioner filed 
+motions requesting that the district court reconsider aspects 
+of its initial ruling. J.A. 75-85, 86-100. The district 
+court’s opinion and order denying both motions is re- 
+ported at 971 F. Supp. 1023 (E.D. Va. 1997) and is 
+reproduced in the J.A. at 156-61. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The United States Court of Appeals for the Fourth Cir- 
+cuit issued its opinion on February 8, 1999. The petitioner 
+
+
+2 
+
+
+filed a Petition for Rehearing and Petition for Rehear- 
+ing En Banc which the Fourth Circuit denied on April 1, 
+1999. The Court extended the time for filing the Petition 
+for Certiorari until July 30, 1999. The Petition for Cer- 
+tiorari was filed on July 30, 1999, and the Court granted 
+the Petition for Certiorari on December 6, 1999. This 
+Court has jurisdiction under 28 U.S.C. § 1254. 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+U.S. Const. amend. V; 18 U.S.C. § 3501.1 
+
+
+STATEMENT OF THE CASE 
+
+
+The issue in this case is whether this Court's landmark 
+holding in Miranda v. Arizona, 384 U.S. 436 (1966), 
+which precludes admitting into evidence unwarned state- 
+ments made by an individual during a custodial interroga- 
+tion, is based on the Fifth Amendment and therefore 
+beyond the power of Congress to overrule statutorily. 
+The district court found that certain statements of peti- 
+tioner, Charles Thomas Dickerson, were unwarned and 
+therefore inadmissible under Miranda. The Fourth Cir- 
+cuit, sua sponte, held that Congress, in enacting § 3501, 
+superseded Miranda’s warning requirements. Accordingly, 
+the Fourth Circuit applied § 3501’s “totality of the cir- 
+cumstances” test to determine the admissibility of peti- 
+tioner’s statements. 
+
+
+The Fourth Circuit erred. Pursuant to Miranda and its 
+progeny, the Fifth Amendment's privilege against self- 
+incrimination is not solely a privilege to be free from 
+abuse at the station house. It is also a privilege not to 
+become an unwitting or unwilling witness against oneself 
+while being subjected to the pressures inherent in cus- 
+
+
+_ 1 The text of the pertinent constitutional and statutory provisions 
+ts reproduced in the Appendix (“App.”) to this brief. 
+
+
+3 
+
+
+todial interrogation. Accordingly, Miranda’s minimum 
+constitutional threshold requires that an individual be 
+apprised of his rights, that officials respect the exercise of 
+those rights and that any waiver be knowingly, intelli- 
+gently and voluntarily made before a statement made to 
+law enforcement officials during custodial interrogation 
+may be admitted in the prosecution’s case-in-chief. 
+
+
+Incriminating statements therefore are admissible only 
+if they are made in the absence of overt coercion and 
+after warnings or other procedures fully effective in ap- 
+prising persons of their rights. Without knowledge on the 
+part of the individual being questioned as to what choices 
+are available to him, statements cannot be deemed truly 
+voluntary. If the government is allowed to keep its suspect 
+in a state of ignorance, the Fifth Amendment protections 
+are reduced to a mere “ ‘form of words.’” Miranda, 384 
+U.S. at 444 (quoting Silverthorne Lumber Co. v. United 
+States, 251 U.S. 385, 392 (1920)). Section 3501, which 
+makes apprising an individual of his rights merely op- 
+tional, directly contradicts Miranda’s minimum threshold 
+requirement that an individual be apprised of his rights 
+and that the exercise of those rights be respected. Be- 
+cause Miranda’s minimum threshold is a matter of consti- 
+tutional law, and because stare decisis requires continued 
+adherence to Miranda’s threshold requirements, § 3501 is 
+invalid. 
+
+Given the notoriety of this matter, it should be noted at 
+the outset that petitioner has not been (and never before 
+has been) convicted of bank robbery in this or any other 
+case. This matter is before the Court on a successful sup- 
+pression motion and no trial has been held. Petitioner 
+therefore is entitled to the full protections of the presump- 
+tion that he is innocent. Moreover, contrary to numerous 
+
+
+4 
+
+
+and nationwide media reports,? petitioner did not confess 
+to any bank robbery, much less “multiple” bank robberies. 
+His “statements” concerned only his whereabouts and ac- 
+tivities. Nor has petitioner been “let off on a techni- 
+cality.” Petitioner remains under indictment. At this 
+point only the statements petitioner made in custody 
+remain suppressed. 
+
+
+A. Factual Background. 
+
+
+The facts material to consideration of the question pre- 
+sented are as follows: On January 24, 1997, a First Vir- 
+ginia Bank in Alexandria, Virginia was robbed. Witnesses 
+saw the robber, later identified as James Rochester, Jeave 
+the bank and enter an Oldsmobile Cierra. Using the de- 
+scription of the getaway car, including its license plate 
+number, the FBI determined that petitioner was the car’s 
+owner. 
+
+
+At approximately 5:30 p.m. on the evening of January 
+27, 1997, law enforcement officers went to petitioner’s 
+home in Takoma Park, Maryland. An Oldsmobile Cierra 
+registered to petitioner was parked in the vicinity. The 
+officers set up surveillance. After waiting for more than 
+an hour, they knocked on petitioner’s door. Approxi- 
+mately ten FBI agents and local police officers arrived at 
+the door of petitioner’s apartment. some with guns drawn. 
+as he opened the door. Three or four, including Special 
+FBI Agent Lawlor, entered petitioner’s apartment without 
+
+
+2See Michael Dorman, Imagine You're Arrested. First, They 
+Read Your Rights. (Right?), Newsday, Oct. 14, 1999, at A25; 
+Stephen Seplow, Miranda Rights Case Revisited, Dayton Daily 
+News, Nov. 25, 1999, at 2A; Tony Mauro, Supreme Court Agrees 
+to Revisit Miranda Warning, USA Today, Dec. 7, 1999, at 4A; 
+Joan Biskupic, High Court to Reconsider Miranda Ruling, Wash. 
+Post, Dec. 7, 1999, at Al: Orrin G. Hatch, Miranda Warnings and 
+= Confessions Can Co-Exist, Wall St. J., Dec. 18, 1999, at 
+
+
+5 
+
+
+a warrant and without his consent. The officers asked 
+him to accompany them to the FBI field office in Wash- 
+ington, D.C. Only when leaving did the officers ask 
+petitioner whether he would consent to a search of the 
+residence. He refused and was driven by the officers to 
+the FBI field office. 
+
+
+Once at the field office, Agent Lawlor and another 
+FBI agent interviewed petitioner. He was not advised of 
+his Miranda rights prior to this interrogation. Petitioner 
+denied any knowledge of incidents that might relate to 
+the robbery. He admitted only that he had been in the 
+vicinity of the bank at the time it was robbed. After 
+obtaining this statement, Agent Lawlor left the interroga- 
+tion room and telephoned a United States Magistrate 
+Judge for the District of Maryland to obtain a search 
+warrant for petitioner’s home. The warrant issued at 
+8:50 p.m. 
+
+
+After obtaining the warrant, Agent Lawlor returned 
+to the interrogation room and told petitioner that his home 
+was going to be searched. Petitioner then made another 
+statement, still denying his involvement. but providing 
+information about James (“Jimmy”) Rochester. the man 
+who had committed the robbery.2 It was only after 
+
+
+3 Petitioner's statement to the agent was as follows: Petitioner 
+had gone to Alexandria on January 24, 1997, with a man named 
+Jimmy. Petitioner knew Jimmy because Jimmy was married to 
+petitioner’s cousin. Petitioner further stated that, while in Alex- 
+andria, he parked his car and went into a bagel shop. Initially, 
+Jimmy waited in the car, but as petitioner walked away, he saw 
+Jimmy get out of the car. When petitioner returned to his car, 
+Jimmy was already back in it. When petitioner began to drive 
+away, Jimmy told him to pull over. He complied, thinking Jimmy 
+had to use the bathroom. Jimmy got out and returned after a few 
+minutes. When petitioner stopped at a stop sign, Jimmy got out of 
+the car and put something in the trunk. When petitioner again 
+stopped at a red light a short distance down the street, Jimmy told 
+him to run it. It was at this point that petitioner began to suspect 
+
+
+6 
+
+
+giving this statement that petitioner was, for the first time, 
+advised of his rights as mandated by Miranda v. Arizona, 
+384 U.S. 436 (1966). This was done using a rights 
+waiver form which petitioner signed. After completing 
+this form, petitioner was formally placed under arrest. 
+He then left the field office with the agents and showed 
+them Rochester’s apartment in Oxon Hill, Maryland. 
+Based on this information, the FBI arrested James 
+Rochester, who was a suspect in connection with a number 
+of bank robberies in various states on the east coast. 
+Following his arrest, James Rochester admitted that he 
+had robbed several banks, including the First Virginia 
+Bank in Alexandria on January 24, 1997. Petitioner 
+was charged with one count of conspiracy to commit bank 
+robbery in violation of 18 U.S.C. § 2113(a) and (d), 
+and three counts of using a firearm during a bank robbery 
+in violation of 18 U.S.C. § 924(c).4 
+
+
+B. Procedural Background. 
+
+
+Petitioner filed a motion to suppress the statements 
+given at the FBI field office. After careful examination 
+of the facts as presented by both petitioner and the prose- 
+cution, the district court granted the motion. Regarding 
+the statements, the district court observed that Agent 
+Lawlor had obtained a search warrant for petitioner’s 
+residence at 8:50 p.m. At the suppression hearing, Agent 
+Lawlor testified that when he informed petitioner about 
+the warrant, petitioner reacted by saying he wanted to 
+make a further statement. It was at this point, Agent 
+
+
+that Jimmy may have committed a robbery. Petitioner knew that 
+Jimmy had come to the Washington, D.C. area after committing a 
+number of robberies in Georgia. 
+
+
+4A superseding indictment was issued on June 24, 1997. It 
+charged the same offenses except it alleged that petitioner acted as 
+an aider and abettor to the bank robberies and firearm offenses in 
+violation of 18 U.S.C. § 2. See J.A. 27. 
+
+
+7 
+
+
+Lawlor said, he “Mirandized” petitioner and obtained a 
+signed waiver form. Although, at most, only a few min- 
+utes had passed since the warrant was issued, the time 
+written on petitioner’s waiver form was 9:41 p.m. The 
+district court found that “Agent Lawlor’s testimony is 
+in direct conflict with the documentary evidence, which 
+shows that the warrant issued at 8:50 p.m., and [ peti- 
+tioner’s] testimony that he was Mirandized at the end of 
+‘a half hour’ long interview.” J.A. 155. The court sup- 
+pressed petitioner’s statements, finding that Dickerson was 
+not advised of his Miranda rights until after he had com- 
+pleted his statement.” /d.5 
+
+
+The parties filed cross-motions for reconsideration, 
+which the district court denied. J.A. 75-85, 86-100. The 
+
+
+5 Central to the district court’s ruling was its finding that “the 
+content of Agent Lawlor’s testimony, which was impeached by the 
+government’s own exhibits, and his demeanor lacked credibility.” 
+J.A. 152 n.7. As an example, the court observed that Agent Lawlor 
+“dodged questions” about whether officers entered petitioner’s home 
+with their guns drawn, even though the officers had taken an hour to 
+plan their entry and after petitioner had initially stalled when the 
+officers first knocked and announced themselves. /d. Agent Lawlor 
+also testified that petitioner was not under arrest when this group 
+of officers took him from Maryland to the FBI field office in South- 
+western D.C. and therefore Miranda warnings were unnecessary. 
+The district court specifically noted that it made a “first hand 
+assessment of witness credibility, based on demeanor, voice ‘nflec- 
+tion and a totality of other factors not well reflected by an 
+inanimate record, for which the district court is uniquely suited.” 
+Id. (citing cases). 
+
+
+6In their cross-motion, prosecutors attached an affidavit from 
+Agent Durkin that contradicted Agent Lawlor’s testimony. J.A. 
+101-04. The affidavit stated that petitioner had initially refused to 
+give a statement after Agent Lawlor told him about the warrant, 
+and that petitioner did not make a statement until after the search 
+was concluded. Jd. at 102-03. Prosecutors also attached a hand- 
+written statement from petitioner (separate from the “9:41 pm” 
+waiver form) in which petitioner wrote that he had been read his 
+rights at 7:30 pm and denied involvement. Jd. at 105. This state- 
+ment, however, is plainly incorrect as to time in that petitioner also 
+
+
+district court did not address § 3501 in either of its orders, 
+nor did it make any specific finding as to whether peti- 
+tioner’s statements were voluntary. 
+
+
+A divided panel of the Fourth Circuit Court of Appeals 
+reversed the district court. The Fourth Circuit held that 
+it had discretion to consider § 3501’s applicability, de- 
+spite the fact that no party had raised the issue. In ex- 
+plaining this unusual exercise of discretion, the court of 
+appeals observed that in recent years “career prosecutors” 
+(but not the Department of Justice), political groups and 
+politicians had repeatedly urged the court of appeals to 
+address § 3501. J.A. 188 (“{T]he Washington Legal Foun- 
+dation and the Safe Streets Coalition . . . . took the gov- 
+ernment to task .... As a result, we ordered the De- 
+partment of Justice to address the effect of § 3501.”) 
+(citing United States v. Leong, 116 F.3d 1474 (4th Cir. 
+1997) (table) ). In the instant case, because the Depart- 
+ment of Justice had expressed its view that § 3501 was 
+unconstitutional, and in order to ensure “ ‘the proper ad- 
+ministration of the criminal law,’” id. at 189, the Fourth 
+Circuit determined it would accede to the urgings of amici. 
+
+
+In examining Miranda, the Fourth Circuit was sur- 
+prised that “the sixty-page opinion does not specifically 
+State the basis for its holding.” J.A. 202. The court, 
+however, found that the opinion “strongly suggested . . . 
+that the basis for the rule was identical to that set forth in 
+McNabb and Malloy,” id., i.e., an exercise of the Court’s 
+
+
+states he was brought to the FBI field office at 5:30 p.m. Officers 
+only arrived at petitioner’s apartment at 5:30 pm and did not knock 
+and enter until “over an hour” later. Though the times given in 
+the statement are demonstrably inaccurate, the statement is con- 
+sistent with petitioner’s tesimony that there was a two-hour gap 
+between petitioner's arrival at the field office and his being apprised 
+of his rights. In denying the cross-motion, the district court ruled 
+that the government had not proffered any “new and heretofore 
+unavailable evidence supporting reversal of this Court's July 1, 1997 
+Order.” Id. at 161. 
+
+
+“—- 
+
+
+om 
+
+
+9 
+
+
+power “to prescribe noncorstitutional ‘rules of procedure 
+and evidence.’” Jd. at 200 (quoting Palermo v. United 
+States, 360 U.S. 343, 353 n.11 (1959)). 
+
+
+The Fourth Circuit conceded that Congress, in enact- 
+ing § 3501, had the “express purpose of returning to the 
+pre-Miranda case-by-case determination of whether a con- 
+fession was voluntary.” J.A. 199. Nonetheless, the court 
+of appeals concluded that Congress had the authority to 
+do so. In addition to the court of appeal’s conclusion 
+that Miranda’s holding was an exercise of only super- 
+visory powers, the Fourth Circuit also cited subsequent 
+cases from the Court describing Miranda’s rules as “pro- 
+phylactic.” Id. at 203-07. However, the Fourth Circuit 
+cited only its own opinion in declaring that “it is certainly 
+‘well established that the failure to deliver Miranda warn- 
+ings is not itself a constitutional violation.’” Jd. at 207 
+(quoting United States v. Elie, 111 F.3d 1135, 1142 (4th 
+Cir. 1997)). In response to the dissent’s objection that 
+Miranda's application in state cases proves its consti- 
+tutional force, the Fourth Circuit merely said “the dissent 
+raises an interesting academic question.” /d. at 208 n.21. 
+
+
+C. Statutory Background. 
+
+
+Congress enacted 18 U.S.C. § 3501 on June 19, 1968, 
+just two years after the Court issued Miranda. Under 
+§ 3501, whether a confession is “voluntarily given” and 
+therefore admissible is to be determined by the trial judge, 
+“tak[ing] into consideration all the circumstances sur- 
+rounding the giving of the confession.” Jd. § 3501(b). 
+On its face, the statute directly conflicts with Miranda's 
+holding that a statement made in custodial interrogation 
+is inadmissible unless “the accused [is] adequately and 
+effectively apprised of his rights and the exercise of those 
+rights [is] fully honored.” 384 U.S. at 467. This conflict 
+was intentional. Congress enacted § 3501 to replace Mi- 
+randa’s standard for determining whether a statement is 
+
+
+10 
+
+
+admissible under the Fifth Amendment with a broader 
+totality of the circumstances test. See S. Rep. No. 90- 
+1097 (1968), reprinted in 1968 U.S.C.C.A.N. 2112. 
+2141; see id. at 2210-11. 
+
+
+Congress also left no doubt that Miranda’s holding 
+that the accused be apprised of his rights was a matter 
+of constitutional interpretation. The Senate Judiciary 
+Committee expressed its view that Miranda’s “majority 
+opinion . . . misconstrues the Constitution.” S. Rep. No. 
+90-1097 (1968), reprinted in 1968 U.S.C.C.A.N. at 
+2136. Section 3501 further reflected the mistaken view 
+that Congress could override the Court on such consti- 
+tutional rulings: “I say that we would be derelict in our 
+duty if we as Representatives of the people did not de- 
+clare once and for all the equality of this Congress of the 
+United States with the Supreme Court of the United 
+States and put the Court in its place.” 114 Cong. Rec. 
+16.074 (1968) (statement of Rep. Whitten); see id. at 
+16.295 (statement of Rep. Reid) (“In my judgment, this 
+title constitutes an emotional backlash at the Supreme 
+Court”). 
+
+Precisely because of § 3501's unconstitutionality, the 
+Executive Branch has largely refused to enforce it since 
+it was enacted over thirty years ago. See Davis v. United 
+States, 512 U.S. 452, 463-64 ( 1994) (Scalia, J. con- 
+curring) (noting that “{iJn fact, with limited exceptions 
+the provision has been studiously avoided by every Ad- 
+ministration, not only in this Court but in the lower 
+courts, since its enactment 25 years ago”). Pursuant to 
+2 U.S.C. § 288k(b) (requiring the Department of Justice 
+to notify Congress whenever it will not defend the con- 
+stitutionality of a federal statute), Attorney General Janet 
+Reno has notified Congress that the Department will not 
+defend the constitutionality of § 3501. See 1.A. 188. 
+For the past 33 years, therefore, Miranda, not § 3501. 
+
+
+11 
+
+
+has governed the admissibility at trial of statements pro- 
+cured during custodial interrogation. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In Miranda v. Arizona, 384 U.S. 436 (1966), the 
+Court engaged in a conventional exercise of constitutional 
+interpretation. The Court held that the Fifth Amendment 
+privilege against self-incrimination is fully applicable to 
+custodial interrogation. After reviewing the scope of the 
+privilege, the Court concluded that it secures for indi- 
+viduals the right to make a free, intelligent choice re- 
+garding whether to talk, or not talk, to law enforcement 
+officers during interrogations. Therefore, to permit a full 
+Opportunity to exercise the privilege and to overcome 
+pressures inherent in the custodial interrogation process, 
+the privilege requires that there be procedures fully effec- 
+
+
+measures, or other procedures at least as effective in 
+apprising persons of their right to remain silent and assur- 
+ing that exercise of such rights would be honored, must 
+be provided to give effect to the privilege. 
+
+
+In subsequent years, the Court has continued to refer 
+
+
+. to 
+requirements as “prophylactic rules,” it cannot be 
+they are not required by the Constitution. 
+is not a synonym for “non-constitutional.” If it were, 
+
+
+12 
+
+
+then for 33 years the Court has violated federalism 
+and acted lawlessly in requiring States to comply with 
+Miranda’s rules and numerous other prophylactic rules 
+that are not required by the Constitution. Because Mi- 
+randa’s rules have been applied against the States and 
+are constitutionally required, neither Congress nor the 
+States may ignore them. Section 3501 utterly fails to 
+comply with Miranda’s constitutional rules. It fails to 
+provide the warnings and additional procedures specified 
+in Miranda, and makes no provision whatsoever for pro- 
+cedures at least as effective in apprising individuals of 
+their right to remain silent and assuring that exercise of 
+the right will be honored. Section 3501 is therefore 
+unconstitutional. 
+
+
+Only the Supreme Court may alter Miranda’s require- 
+ments, and 33 years after Miranda was decided, principles 
+of stare decisis counsel against doing so. Miranda has 
+proved to be workable, is a ruling on which there has been 
+considerable reliance and has not been overtaken by 
+doctrinal developments or changes in its factual under- 
+pinnings. Miranda is a well-reasoned, principled deci- 
+sion. Moreover, it is one of the Court’s most famous 
+opinions of the twentieth century. Miranda's specific 
+holdings have been widely popularized through the media 
+and accepted in the legal culture. Departing from them 
+would erode public confidence in the legitimacy of the 
+criminal justice system and the legitimacy of the Court's 
+exercise of i 
+
+
+13 
+
+
+ARGUMENT 
+
+
+I. MIRANDA ENUNCIATED A CONSTITUTIONAL 
+RULE THAT CANNOT BE REVERSED BY CON- 
+GRESS. 
+
+
+A. Miranda’s Core Constitutional Holdings. 
+
+
+This Court’s decision in Miranda was, first and fore- 
+most, a construction and analysis of what the Fifth 
+Amendment requires in the context of custodial interro- 
+gations. In deciding Miranda, the Court was doing more 
+than “judicially creat[ing] rules of evidence and procedure 
+that are not required by the Constitution.” J.A. 200. 
+Rather, it announced three core constitutional holdings. 
+First, the Court held that the Fifth Amendment “privilege 
+[against self-incrimination) is fully applicable during a 
+period of custodial interrogation.” Miranda v. Arizona, 
+384 U.S. 436, 460 (1966). 
+
+Second, the Fifth Amendment prohibition against com- 
+pelled self-incrimination requires that the decision whether 
+to speak to officers while in custody must be proven to 
+be both intelligently made and entirely voluntary. Accord- 
+ingly, interrogating officials must inform the individual of 
+his rights and provide assurances that the individual's 
+decision will be honored. 
+
+Third, the Miranda Court elaborated on the nature and 
+content of the “concrete constitutional guidelines for law 
+enforcement agencies and courts to follow,” id. at 442, spec- 
+ifying the information that must be provided as a minimum 
+constitutional threshold. Specifically, the Court held: 
+
+
+{p]rior to any questioning, the person must be warned 
+that he has a right to remain silent, that any state- 
+ment he does make may be used as evidence against 
+him, and that he has a right to the presence of an 
+attorney, either retained or appointed. The defendant 
+may waive effectuation of these rights, provided the 
+
+
+14 
+
+
+waiver is made voluntarily, knowingly and intelli- 
+gently. If, however, he indicates in any manner and 
+at any stage of the process that he wishes to consult 
+with an attorney before speaking there can be no 
+questioning. Likewise, if the individual is alone and 
+indicates in any manner that he does not wish to be 
+interrogated, the police may not question him. 
+
+
+Id. at 444-45 (emphases added). 
+
+
+While the Court did not insist that its own wording of 
+the warnings must be followed, it expressly held that 
+alternative procedures must be “at least as effective in 
+apprising accused persons of their right of silence and in 
+assuring a continuous opportunity to exercise it.” Id. at 
+467; see also id. at 444 (specifying either the Court’s 
+“procedural safeguards” or “other fully effective means . . . 
+to inform accused persons of their right of silence and to 
+assure a continuous opportunity to exercise it”): id. at 
+476 (specifying the Court’s warnings or “a fully effective 
+equivalent” to warn accused of rights and protect exercise 
+thereof); id. at 478-79 (same); id. at 490-91 (same). 
+Thus, these protections are part of our irreducible mini- 
+mum protection embraced by the privilege against self- 
+incrimination in the Fifth Amendment. 
+
+
+Too often, analyses of the Miranda decision focus on 
+the precise formulation of the now famous warnings and 
+fail to address the carefully crafted constitutional analysis 
+which led to the rule.” While the Court invited alternative 
+procedures, it did not invite procedures that dispensed 
+with apprising persons in custody at the outset of their 
+rights and assuring that their exercise of those rights world 
+he honored. Moreover, the Court expressly rejected an 
+after the fact “totality of the circumstances” test. Such 
+procedures (including what Congress ultimately passed in 
+
+
+7 See generally Stephen I. Schulhofer, Reconsidering Miranda, 54 
+U. Chi. L. Rev. 435 (1987). 
+
+
+15 
+
+
+§ 3501) are constitutionally infirm because, even where 
+an individual may be otherwise aware of his rights, warn- 
+ings are nonetheless required for the individual must be 
+assured by his interrogators that they will respect his 
+exercise of his rights. 
+
+
+1. The Court’s first core constitutional holding was to 
+confirm that “there can be no doubt that the Fifth Amend- 
+ment privilege is available outside of criminal court pro- 
+ceedings and serves to protect persons in all settings in 
+which their freedom of action is curtailed in any signifi- 
+cant way from being compelled to incriminate themselves.” 
+Id. at 467. In reaching this conclusion. the Court clarified 
+issues raised in its prior holdings in Malloy v. Hogan, 
+378 U.S. 1 (1964). and Escobedo v. Illinois. 378 U.S. 
+478 (1964). See Miranda, 384 U.S. at 440, 463-66.8 
+The Court held that “all the principles embodied in the 
+privilege apply to informal compulsion exerted by law- 
+enforcement officers during in-custody questioning.” id. at 
+461, finding that the “question. in fact. conld have been 
+taken as settled in federal courts almost 70 years ago, 
+
+
+8In Malloy v. Hogan, the Court squarely held that “the Fifth 
+Amendment’s exception from compulsory self-incrimination is also 
+protected by the Fourteenth Amendment against abridgement by 
+the States,” 378 U.S. 1, 6 (1964), and therefore applied to an 
+“interrogation” of the petitioner conducted as part of a state “in- 
+quiry” into alleged criminal activities. Jd. at 12-14. One week later, 
+
+
+tion of the Sixth and Fourteenth Amendments, 378 U.S. 478, 490- 
+91 (1964). Among the prior opinions relied on in reaching this 
+conclusion were the Court’s holding in Gideon v. Wainwright, 372 
+U.S. 385, 342 (1963), that the Sixth Amendment applied to the 
+states, and its holding in Massiah v. United States, 377 
+
+204 (1964), that the Sixth Amendment right to 
+applied “to an indicted defendant under interrogation by police in 
+a completely extrajudicial proceeding.” 
+
+
+F 
+E 
+aa 
+: 
+
+
+16 
+
+
+when, in Bram v. United States, 168 U.S. 532, 542... 
+(1897), this Court held: ‘. . . wherever a question arises 
+whether a confession is incompetent because not voluntary, 
+the issue is controlled by that portion of the Fifth Amend- 
+ment .. . commanding that no person “shall be compelled 
+in any criminal case to be a witness against himself.” ’” 
+Id. (second omission in original). The Court, how- 
+ever, granted certiorari in Miranda to address “problems” 
+exposed in “debate” engendered by Escobedo, regarding 
+“applying the privilege against self-incrimination to in- 
+custody interrogation, and to give concrete constitutional 
+guidelines” regarding such application. Id. at 440-41. 
+
+
+2. The Court’s second core holding was that the Fifth 
+Amendment requires that statements made during cus- 
+todial interrogation are inadmissible at trial in the prose- 
+cution’s case-in-chief unless, before making those state- 
+ments, “the accused [is] adequately and effectively 
+apprised of his rights and the exercise of those rights 
+[is] fully honored.” Jd. at 467. This second hold- 
+ing emerged from the Court’s lengthy review of the 
+history of the privilege, see id. at 458-66. The Court 
+emphasized that a decision to make a statement in any 
+situation in which an individual has become a “suspect” 
+or “the accused” must both be intelligently made and 
+unfettered. See id. at 460 (“the privilege is fulfilled only 
+when the person is guaranteed the right ‘to remain silent 
+unless he chooses to speak in the unfettered exercise of 
+his own free will’” (quoting Malloy v. Hogan, 378 U.S. 
+1, 8 (1964))); see also id. at 468 (the decision must be 
+“intelligent”). Simply put, no decision is intelligently 
+made where the decider is ignorant of the available op- 
+tions, and no choice is voluntary where an inquisitor with- 
+holds critical information about the choice. 
+
+
+The Miranda Court further recognized the simple reality 
+that compulsion may come in many forms, not only those 
+
+
+17 
+
+
+traditionally associated with plainly unconstitutional “third 
+degree” tactics. Instead, the risk of compulsion is inherent 
+in any proceeding where an accused has been deprived of 
+his freedom, taken to a strange place and subjected to 
+questioning by those trained to elicit answers. When the 
+subject of such a proceeding makes a decision to speak, 
+the voluntariness—and reliability—of such a decision is 
+suspect unless it can be shown that the subject had been 
+made aware that he was free to do otherwise. This is true 
+“whatever the background of the person interrogated,” 
+for even one who is aware of his rights needs reassurance 
+that “he is free to exercise this privilege at that point in 
+time.” Jd. at 469. 
+
+
+Accordingly, the constitutional command that an indi- 
+vidual be free from compelled self-incrimination and that 
+any waiver of such right be voluntary necessitates, at a 
+minimum, that the individual be warned at the outset of 
+interrogation of his rights and that the individual be told 
+that his decision to invoke those rights will be honored. 
+See id. at 444 (there must be “fully effective means... . 
+devised to inform accused persons of their right of silence 
+and to assure a continuous opportunity to exercise it”); 
+id. at 478-79 (“[p]rocedural safeguards must be employed 
+to protect the privilege [that are] fully effective means... 
+to notify the person of his right of silence and to assure 
+that the exercise of the right will be scrupulously hon- 
+ored”); id. at 490 (requiring “safeguards for the privilege 
+. . . a8 effective as those described above in informing 
+accused persons of their right of silence and in affording 
+a continuous opportunity to exercise it”). 
+
+
+This minimum threshold requirement supplanted the 
+“totality of the circumstances” analysis that the Court 
+had used under the Fourteenth Amendment to determine 
+whether the statements made during custodial interroga- 
+tion were voluntary. See, e.g., Michigan v. Tucker, 417 
+
+
+18 
+
+
+U.S. 433, 441 (1974) (“[bJefore Miranda the principal 
+issue in these cases was not whether a defendant had 
+waived his privilege against compulsory self-incrimination 
+but simply whether his statement was ‘voluntary.’ In 
+state cases the Court applied the Due Process Clause of 
+the Fourteenth Amendment”); id. at 442 (“it was not 
+until this Court’s decision in Miranda that the privilege 
+against compulsory self-incrimination was seen as the 
+principal protection for a person facing interrogation”) 
+~ (emphasis added). 
+
+
+3. The “concrete constitutional guidelines” which the 
+Court delineated encompass the third core constitutional 
+holding in Miranda. The Court justified each of the 
+warnings required in Miranda as “absolute prerequi- 
+site[s],” 384 U.S. at 468, to interrogation on the constitu- 
+tional grounds that they were necessary and sufficient con- 
+ditions to the intelligent exercise of the privilege in a 
+custodial context. First, the Court held that a warning 
+that the accused has the right to remain silent is indis- 
+pensable “for an intelligent decision as to its exercise” as 
+well as “an absolute prerequisite in overcoming the inher- 
+ent pressures of the interrogation atmosphere.” Jd. Sec- 
+ond, the Court held that “(t]he warning of the right to 
+remain silent must be accompanied by the explanation 
+that anything said can and will be used against the indi- 
+vidual in court.” Jd. at 469 (emphasis added). The 
+Court explained: “[TJhis warning may serve to make the 
+individual more acutely aware that he is faced with a 
+phase of the adversary system—that he is not in the pres- 
+ence of persons acting solely in his interest.” Id. (em- 
+phasis added). 
+
+Third, the Court recognized that the “circumstances 
+surrounding in-custody interrogation can operate very 
+quickly to overbear the will of one merely made aware 
+of his privilege by his interrogators,” id., and that “[e}ven 
+
+
+19 
+
+
+preliminary advice given to the accused by his own at- 
+torney can be swiftly overcome by the secret interroga- 
+tion process.” Id. at 470. To remedy this, the Court 
+held that “an individual held for interrogation must be 
+clearly informed that he has the right to consult with a 
+lawyer and to have the lawyer with him during interroga- 
+tion,” id. at 471 (emphasis added), and noted that “ ‘the 
+right to. be furnished counsel does not depend on a re- 
+quest.’”. See id. (quoting Carnley v. Cochran, 369 
+U.S. 506, 513 (1962)). The Court held that “f{aJn 
+individual need not make a pre-interrogation request for 
+a lawyer” for the right to counsel to attach to custodial 
+interrogation. Id. at 470. “The accused who does not 
+know his rights and therefore does not make a request 
+may be the person who most needs counsel.” /d. at 
+470-71. 
+
+
+Fourth, the Court required that a person interrogated 
+be informed that “if he is indigent a lawyer will be 
+appointed to represent him.” Jd. at 473. This step was 
+held to be necessary to assure that the accused was in 
+a position knowingly to exercise or waive this right: “As 
+with the warnings of the right to remain silent and of the 
+general right to counsel, only by effective and express 
+explanation to the indigent of this right can there be 
+assurance that he was truly in a position to exercise it.” 
+Id. (emphases added). 
+
+
+Although Miranda invited Congress and the States to de- 
+velop other “fully . . . effective” procedures to “safeguard[] 
+. . . the privilege,” id. at 490, the Court emphasized that 
+“unless we are shown other procedures which are at least 
+as effective in apprising accused persons of their right of 
+silence and in assuring a continuous opportunity to exer- 
+cise it,” id. at 467 (emphasis added), the alternative pro- 
+cedures would fall short of the Fifth Amendment’s re- 
+quirements. Miranda did not leave Congress free to sup- 
+
+
+20 
+
+
+plant the requisite warnings with procedures that alto- 
+gether fail to “appris[e] accused persons” at the outset 
+of interrogation of their right to remain silent, their right 
+to counsel, and assurance that exercise of these rights 
+would be honored. 
+
+
+B. The Court’s Subsequent Application Of Miranda To 
+The States And On Habeas. 
+
+
+The Court’s jurisprudence following Miranda further 
+demonstrates that this Court in Miranda established 
+constitutional, not merely supervisory, rules. In numer- 
+
+
+ous subsequent opinions, the Court has referred to 
+
+
+Miranda’s rules as constitutional requirements and exten- 
+‘sions of its holding as constitutionally based. See Ed- 
+wards Vv. Arizona, 451 U.S. 477, 481-82 (1981) (ex- 
+plaining that “[iJn Miranda v. Arizona, the Court deter- 
+mined that the Fifth and Fourteenth Amendments’ pro- 
+hibition against compelled self-incrimination required that 
+custodial interrogation be preceded by advice to the puta- 
+tive defendant that he has the right to remain silent and 
+also the right to the presence of ‘an attorney”) (emphasis 
+added) .® 
+
+
+Perhaps the clearest indication that the Court has never 
+regarded Miranda as resting simply on its supervisory 
+powers is the fact that the Court consistently has applied 
+the Miranda rules to cases arising in state courts. See, 
+
+
+® See also Illinois v. Perkins, 496 U.S. 292, 296 (1990) (Miranda 
+rules rest on “the Fifth Amendment privilege against self- 
+incrimination”); Butler v. McKellar, 494 U.S. 407, 411 (1990) 
+(noting holding of Arizona v. Roberson “that the Fifth Amendment 
+bars police-initiated interrogations following a suspect’s request for 
+counsel in the context of a separate investigation”); Michigan Vv. 
+Jackson, 475 U.S. 625, 629 (1986) (“(t]he Fifth Amendment pro- 
+tection against compelled self-incrimination provides the right to 
+counsel at custodial interrogations”); Moran v. Burbine, 475 U.S. 
+412, 427 (1986) (Miranda is “our interpretation of the Federal 
+Constitution”). 
+
+
+Las 
+
+
+on 
+
+
+21 
+
+
+e.g., Stansbury v. California, 511 U.S. 318, 322-27 
+(1994); Minnick v. Mississippi, 498 U.S. 146, 152-53 
+(1990); Arizona v. Roberson, 486 U.S. 675, 680-82 
+(1988). (Indeed, three of the four consolidated cases 
+which comprised Miranda arose in state courts.) Al- 
+though the Court has the authority to announce rules of 
+procedure and evidence binding on federal courts, funda- 
+mental principles of federalism preclude the exercise of 
+any such supervisory authority over the state courts. With 
+respect to cases tried before state tribunals, the Court's 
+“authority is limited to enforcing the commands of the 
+United States Constitution.” Mu’Min v. Virginia, 500 
+U.S. 415, 422 (1991). The federal judiciary “may not 
+require the observance of any special procedures” in state 
+courts “except when necessary to assure compliance with 
+the dictates of the Federal Constitution.” Harris v. Rivera, 
+454 U.S. 339, 344-45 (1981); see McNabb v. United 
+States, 318 U.S. 332, 340 (1943) (“the power of this 
+
+
+“Court to undo convictions in state courts is limited to 
+
+
+enforcement of those ‘fundamental principles of liberty and 
+justice’ which are secured by the Fourteenth Amendment”) 
+(citation omitted) (quoting Hebert v. Louisiana, 272 U.S. 
+312, 316 (1926)). Therefore, the Court’s continued appli- 
+cation of Miranda’s exclusionary rule in state cases is con- 
+clusive proof that Miranda rests on constitutional under- 
+pinnings.2° The Fourth Circuit's effort cavalierly to dismiss 
+this fact as “an interesting academic question . . . [that] has 
+no bearing on our conclusion that Miranda’s conclusive 
+presumption is not required by the Constitution,” J.A. 208 
+n.21, simply disregards the profound importance of this 
+
+
+10 Indeed, Michigan v. Tucker, 417 U.S. 488 (1974), and Oregon 
+v. Elstad, 470 U.S. 298 (1985), cases relied upon by the panel to 
+support its conclusion that Miranda is not a constitutionally based 
+decision, arose in state courts. In both decisions, the Supreme Court 
+reaffirmed Miranda’s basic conclusion that unwarned statements 
+must be excluded from the prosecution’s case-in-chief. Tucker, 417 
+U.S. at 445; Elstad, 470 U.S. at 307. 
+
+
+22 
+
+
+limit on the Court’s authority. In effect, the court of 
+appeals is suggesting that this Court has exceeded its 
+authority in scores of cases over the past 30 years. This 
+is no matter of mere academic musings. 
+
+
+Finally, the Court has held that claims that a conviction 
+rests on statements obtained in violation of Miranda are 
+cognizable on federal habeas review. Withrow v. Williams, 
+507 U.S. 680, 690-95 (1993). Habeas review is only 
+available for claims that a person “is in custody in viola- 
+tion of the Constitution or the laws or treaties of the 
+United States.” 28 U.S.C. § 2254(a). Miranda certainly 
+does not involve laws or treaties. Thus, the Court’s hold- 
+ing in Withrow depends on the conclusion that the re- 
+quirements of Miranda arise from and protect constitu- 
+tional rights. In reaching its conclusion, the Court re- 
+jected the government’s argument that since the Miranda 
+rules “are not constitutional in character; but merely 
+‘prophylactic,’” federal habeas review should not extend 
+to claims based on violations of these rules. Withrow, 
+507 U.S. at 690. The Court declined to reach this con- 
+clusion and observed that Miranda safeguards a “funda- 
+mental trial right.” 7d. at 691. 
+
+
+C. Miranda’s “Prophylactic” Rules Have Constitutional 
+Weight. ‘ 
+
+
+The Fourth Circuit, citing no support, relies on the theory 
+that “prophylactic” rules created by the Court to protect 
+rights enumerated in the Constitution are subject to rever- 
+sal by Congress and the States. See J.A. 203, 207. First, 
+the Fourth Circuit’s theory is clearly at odds with Mi- 
+randa’s express holding that Congress and the States could 
+not override its requirements. See, e.g., Miranda, 384 
+U.S. at 490 (Congress and the States must adopt “safe- 
+guards for the privilege” that are “fully effective . . . in 
+informing accused persons of their right of silence and in 
+
+
+23 
+
+
+affording a continuous opportunity to exercise it”). While 
+the Court in subsequent opinions has referred to Miran- 
+da’s specific warnings as “prophylactic” rules that safe- 
+guard constitutional rights, that does not mean that Mi- 
+randa’s holdings lack constitutional force and may be 
+overridden by Congress. Those same opinions recognize 
+the constitutional underpinnings of the rules and do not 
+hold, or even suggest, that Congress and the States are 
+free to reverse them. Moreover, the Court’s many other 
+opinions involving “prophy!actic” rules that guard funda- 
+mental constitutional rights do not suggest that Congress 
+and the States are free to override such rules. 
+
+
+Miranda’s four warnings are flexible only in the sense 
+that that they may be replaced by procedures “at least 
+as effective in apprising accused persons of their right 
+of silence and in assuring a continuous opportunity 
+to exercise it.” Id. at 467. They create a safe harbor 
+when followed. But that does not mean the legisla- 
+tive branches are precluded from devising equally effec- 
+tive methods of protecting the privilege against self- 
+incrimination. Miranda itself noted that one alternative 
+procedure that would meet this requirement would be to 
+require “(t]he presence of counsel” during interrogation. 
+Id. at 466. Nonetheless, Miranda established a constitu- 
+tional minimum to protect the right to silence and to 
+counsel during custodial interrogation—i.e., Miranda's 
+procedures or “other fully effective means . . . to inform 
+accused persons of their right of silence and to assure a 
+continuous opportunity to exercise it.” Id. at 444; see 
+id. at 467, 476, 478-79. 
+
+
+Indeed, the specific opinions the Fourth Circuit relied 
+upon referring to the Miranda rules as “prophylactic” rec- 
+ognized the constitutional underpinnings of Miranda's 
+rules. In Tucker, 417 U.S. at 444, the Court held that 
+the specific Miranda warnings were “not themselves rights 
+
+
+24 
+
+
+protected by the Constitution but were instead measures 
+to insure that the right against compulsory self-incrimina- 
+tion was protected,” id. (emphases added), and referred 
+to Miranda’s own explanation that its prescribed warnings 
+were not a “ ‘constitutional straightjacket.’” Jd. (quoting 
+Miranda, 384 U.S. at 467). Thus, Tucker is entirely con- 
+sistent with Miranda’s understanding that the specific safe- 
+guards it prescribed were not required by the Constitution 
+in the sense that other “procedures” or “solution[s]” could 
+replace them so long as they were “at least as effective in 
+apprising accused persons of their right of silence and in 
+assuring a continuous opportunity to exercise it.” Méi- 
+randa, 384 U.S. at 467. 
+
+In New York v. Quarles, 467 U.S. 649, 654 (1983), 
+the Court simply reiterated Tucker's observation that the 
+“Miranda warnings . . . are ‘not themselves rights pro- 
+tected by the Constitution but [are] instead measures to 
+insure that the right against compulsory self-incrimination 
+[is] protected.”” Jd. at 654 (alteration in original) 
+(quoting Michigan v. Tucker, 417 US. 413, 444 
+(1974)). In Elstad, 470 U.S. at 318, the Court held that 
+“a suspect who has once responded to unwarned yet un- 
+coercive questioning is not thereby disabled from waiving 
+his rights and confessing after he has been given the re- 
+quisite Miranda warnings.” In reaching this conclusion, 
+the Court observed that Miranda’s exclusionary rule 
+is prophylactic in that it “serves the Fifth Amendment 
+and sweeps more broadly than the Fifth Amendment it- 
+
+
+self.” Id. at 306 (emphasis added). The Court none- _ 
+
+
+11 The Court has also adopted constitutional prophylactic rules 
+that predictably overprotect constitutional rights in a variety of 
+other settings. See, e.g., Gertz v. Robert Welch, Inc., 418 U.S. 323, 
+340, 342 (1974) (explaining that, even though “there is no con- 
+stitutional value in false statements of fact,” the Court in New 
+York Times Co. v. Sullivan, 376 U.S. 254 (1964), and its progeny 
+nevertheless ‘extended a measure of strategic protection to defama- 
+
+
+25 
+
+
+theless reaffirmed that a Miranda violation “affords a 
+bright-line, legal presumption of coercion, requiring sup- 
+pression of all unwarned statements.” Jd. at 306 n.1. 
+
+Each of these cases does no more than adjust the con- 
+tours of the prophylaxis. When, for example, public safety 
+or good faith on the part of officials warrant limitations 
+on the scope of the underlying constitutional provision, 
+this Court (and not Congress or state legislatures) has 
+carefully crafted adjustments.“ The existence of such 
+cases does not strip Miranda’s requirements of constitu- 
+tional dimension. If it did, and if Miranda’s minimum 
+threshold requirements represented nothing more than an 
+exercise of the Court’s supervisory powers, then there is 
+no reason why such requirements should have been ap- 
+plicable to the States. It is fallacious to reason, as the 
+Fourth Circuit has, that because this Court has made such 
+adjustments to the prophylactic reach of Miranda, the 
+Court was merely exercising a supervisory power rather 
+than applying a constitutional requirement to a new type 
+of circumstance. 
+
+
+Moreover, Miranda is just one of many instances in 
+which the Court has announced prophylactic rules to pro- 
+tect underlying constitutional rights. For example, to 
+“avoid[] otherwise difficult linedrawing problems” and 
+
+
+tory falsehood” in cases involving public officials and public figures) ; 
+Freedman v. Maryland, 380 U.S. 61, 58 (1965) (setting forth “pro- 
+cedural safeguards designed to obviate the dangers of a censorship 
+system” with respect to motion picture obscenity). 
+
+
+12 See, e.g., Tennessee Vv. Street, 471 U.S. 409, 417 (19856) (con- 
+fession that is inadmissible under Bruton rule is admissible for 
+impeachment); United States v. Leon, 468 U.S. 897, 913 (1984) 
+(officer’s reasonable reliance on search warrant ultimately held 
+invalid does not bar admission of evidence obtained in prosecution's 
+case-in-chief) ; Oregon v. Haas, 420 U.S. 714, 721 (1975) (discuss- 
+ing why evidence obtained in violation of Fourth Amendment or 
+Miranda is admissible for impeachment purposes). 
+
+
+26 
+
+
+adopt a test with “relatively few problems of proof,” the 
+Court has established a prophylactic rule that a permanent 
+physical occupation is per se a taking. Loretto v. Tele- 
+prompter Manhattan CATV Corp., 458 U.S. 419, 436-37 
+(1982). The Court has created numerous additional “pro- 
+phylatic constitutional rules,” Michigan v. Payne, 412 
+U.S 47, 53 (1973), regarding criminal procedure. See 
+lvorth Carolina v. Pearce, 395 U.S. 711, 726 (1969) (to 
+protect Due Process Clause right to appeal, “whenever a 
+judge imposes a more severe sentence upon a defendant 
+_after_a new trial, the reasons for his doing so must affirm- 
+atively appear,” or vindictiveness will be presumed); 
+Michigan v. Payne, 412 U.S. at 53 (explaining that 
+“{ijt is an inherent attribute of prophylactic constitu- 
+tional rules, such as those established in Miranda and 
+Pearce, that their . . . application will occasion wind- 
+fall benefits for some defendants who have suffered no 
+constitutional deprivation”); Blackledge v. Perry, 417 
+U.S. 21, 28-29 (1974) (although there was “no evidence 
+that the prosecutor in this case acted in bad faith,” it was 
+not constitutionally permissible for the State to respond to 
+Perry’s invocation of his statutory right of appeal by 
+bringing a more serious charge against him prior to 
+the trial de novo); Maine v. Moulton, 474 U.S. 159, 
+168 (1985) (requiring suppression of accused's state- 
+ments, relating to pending charges at trial, when ob- 
+tained by law enforcement officials conducting surveil- 
+lance of accused relating to new or additional crimes, 
+despite assertions of the legitimate reasons for the sur- 
+veillance, to protect the accused’s Sixth Amendment right 
+
+
+to communicate only through counsel with police regard- . 
+
+
+ing the pending charges); Michigan v. Jackson, 475 U.S. 
+625, 636 (1986) (holding that where “police initiate an 
+interrogation after the defendant's assertion, at an arraign- 
+ment or similar proceeding, of his right to counsel, any 
+waiver of the defendant’s (Sixth Amendment] right to 
+
+
+27 
+
+
+counsel for that police-initiated interrogation is invalid” 
+
+
+and resulting confessions inadmissible); Michigan v. Har- 
+vey, 494 U.S. 334, 345-46 (1990) (holding that a state- 
+ment inadmissible in prosecution’s case-in-chief under 
+Michigan v. Jackson's “prophylactic rule” may nonethe- 
+less be used “to impeach a defendant’s false or incon- 
+sistent testimony”). Nothing in the language of those 
+decisions suggests that their prophylactic character makes 
+these rules not constitutionally required. Indeed, the fact 
+that a rule is strongly prophylactic often reflects the im- 
+portance of the underlying constitutional right and of pre- 
+venting less than fully intelligent waiver of such a right. 
+As the Court has explained, “we should ‘indulge every 
+reasonable presumption against waiver of fundamental 
+constitutional rights.’” Jackson, 475 U.S. at 633 (quot- 
+ing Johnson v. Zerbst, 304 U.S. 458, 464 (1938)). 
+
+
+In sum, it cannot be that prophylactic rules designed 
+to protect constitutional rights and applied against the 
+States are not constitutionally required. “Prophylactic” is 
+not a synonym for “non-constitutional.” If it was, and 
+Congress could alter Miranda’s rules, then for 33 years 
+the Court has engaged in the rankest violation of federal- 
+State relations and acted utterly lawlessly by requiring 
+States to comply with Miranda rules that are not consti- 
+tutionally required, and requiring compliance with a host 
+of other prophylactic rules not required by the Constitution. 
+
+
+D. Section 3501 Is Constitutionally Infirm. 
+
+
+In enacting 18 U.S.C. § 3501, Congress attempted to 
+secure the admissibility in federal courts of statements that 
+would otherwise be suppressed under this Court’s decision 
+in Miranda.“ By its terms, § 3501 makes “whether or 
+
+
+13 See S. Rep. No. 90-1097 (1968), reprinted in 1968 U.S.C.C.A.N. 
+
+
+2112. Congress also explicitly sought to overrule the now displaced 
+holding of Escobedo v. Illinois, 378 U.S. 478, 490-91 (1964), which 
+
+
+28 
+
+
+not {a] defendant was advised or knew that he was not 
+required to make any statement and that any such state- 
+ment could be used against him” simply one of many 
+factors a trial judge may consider in determining whether 
+a statement is “voluntary” and hence admissible. 18 
+U.S.C. § 3501(b)(3). Similarly, whether a defendant 
+was advised of his right to counsel is but another factor 
+to be considered. Jd. § 3501(b)(4). The purpose and 
+effect of § 3501 would be to establish the totality of the 
+circumstances test for determining the admissibility of 
+custodial statements, despite Miranda’s rejection of that 
+test. Section 3501 therefore squarely conflicts with Mi- 
+randa’s core holding that “the accused must be . . . ap- 
+prised of his rights and the exercise of those rights must 
+be fully honored.” 384 U.S. at 467. 
+
+
+In addition, because § 3501 does not require the four 
+specific warnings and additional procedures outlined in 
+Miranda, nor does it provide procedures “at least as 
+effective in apprising accused persons of their right of 
+silence and in assuring a continuous opportunity to exer- 
+cise it,” id., it fails to meet the minimum protections 
+Miranda determined the Constitution required. Section 
+
+
+applied the Sixth Amendment right to counsel to interrogations 
+conducted as part of a police investigation that had “focus[ed]” on 
+a particular suspect in police custody. Although not raised in the 
+Congressional debate (nor addressed in the Fourth Circuit’s opinion 
+below), § 3501 would also appear to render admissible statements 
+obtained in violation of the holdings in Massiah, 377 U.S. at 206 
+(suppressing under the Sixth Amendment’s right to counsel state- 
+ments obtained through government efforts to “deliberately elicit[]” 
+incriminating statements after adversarial proceedings have com- 
+menced) and Wong Sun v. United States, 371 U.S. 471, 484-87 
+(1963) (holding that even voluntary statements may be inadmissible 
+if derived from an illegal arrest or search or otherwise the “fruit” 
+of a Fourth Amendment violation). See Yale Kamisar, Can (Did) 
+Congress “Overrule” Miranda? 85 Cornell L. Rev. n.5 (forthcoming 
+2000). 
+
+
+| 
+; 
+
+
+29 
+
+
+3501’s procedures are not “as effective” as those speci- 
+fied in Miranda. Section 3501 does not require “appro- 
+priate safeguards at the outset of the interrogation,” id. 
+at 457 (emphasis added), nor does it impose any affirma- 
+tive obligation upon the part of officials to ensure that 
+any statements are “truly the product of free choice.” /d. 
+
+
+Similarly, § 3501’s procedures, by failing to require 
+that accused persons be informed of their right to silence 
+and right to counsel, fail to require the knowing and in- 
+telligent waiver of these constitutional rights. Miranda 
+specifically held that the “high standards of proof for the 
+waiver of constitutional rights . . . applied to in-custody 
+interrogation.” Id. at 475 (citation omitted). The Court 
+“ha{s] adhered to the principle that nothing less than the 
+Zerbst standard for the waiver of constitutional rights 
+applies to the waiver of Miranda rights.” Minnick, 498 
+U.S. at 160 (Scalia, '., dissenting). Section 3501 con- 
+flicts with Miranda’s requirement that the government 
+demonstrate knowing and intelligent waiver of the right 
+to remain silent and to have assistance of counsel during 
+custodial interrogation. 
+
+
+Congress has no power to overrule the Court’s interpreta- 
+tions of the Constitution. City of Boerne v. Flores, 521 
+U.S. 507, 517-21 (1997). If that is the desired end, the 
+proper course is to pursue the constitutional amendment 
+process. Because § 3501 clearly conflicts with Miranda, 
+and Miranda represents the Court’s interpretation of the 
+Constitution, § 3501 is invalid. If Congress could over- 
+turn any Supreme Court interpretation of the Constitution 
+it disliked simply by enacting contrary legislation, then 
+the Constitution would no longer be “superior, paramount 
+law” but “on a level with ordinary legislative acts, and like 
+other acts . . . alterable when the legislature shall please 
+
+
+30 
+
+
+to alter it.” Marbury v. Madison, 5 U.S. (1 Cranch) 137, 
+177 (1803). 
+
+
+II. THERE IS NO REASON TO DISLODGE MIRANDA’S 
+CONSTITUTIONAL RULING. 
+
+
+Principles of stare decisis dictate that Miranda not be 
+overruled now, 33 years after the decision. Miranda con- 
+stituted a fully warranted exercise of the Court’s power to 
+interpret the Constitution which should not be disturbed. 
+Miranda involved elucidation of a fundamental right that 
+has become deeply ingrained in the Court’s own subse- 
+quent opinions, in law enforcement practices, and in the 
+public’s understanding of the Constitution in a criminal 
+justice setting. 
+
+
+The doctrine of stare decisis “permits society to pre- 
+sume that bedrock principles are founded in the law rather 
+than in the proclivities of individuals, and thereby con- 
+tributes to the integrity of our constitutional system of 
+government, both in appearance and in fact.” Vasquez v. 
+Hillary, 474 U.S. 254, 265-66 (1986). Adhering to prec- 
+edent “‘is usually the wise policy, because in most mat- 
+ters it is more important that the applicable rule of law 
+be settled than that it be settled right.’” Payne v. Ten- 
+nessee, 501 U.S. 808, 827 (1991) (quoting Burnet v. 
+Coronado Oil & Gas Co., 285 U.S. 393, 406 (1932) 
+(Brandeis, J., dissenting) ). “Indeed, the very concept of 
+the rule of law underlying our own Constitution requires 
+such continuity over time that a respect for precedent is, 
+by definition, indispensable.” Planned Parenthood v. 
+Casey, 505 U.S. 833, 854 (1992). Although “the rule 
+of stare decisis is not an ‘inexorable command,’” id., 
+“fe]ven in constitutional cases, the doctrine carries such 
+persuasive force that [the Court] hafs] always required a 
+departure from precedent to be supported by some ‘special 
+justification.’” United States v. International Bus. Mach. 
+Corp., 517 U.S. 843, 856 (1996) (quoting Payne v. 
+
+
+31 
+
+
+Tennessee, 501 U.S. 808, 842 (1991) (Souter, J., con- 
+curring) ). 
+
+
+Traditional considerations in stare decisis analysis are 
+whether the “governing decisions are unworkable,” Payne 
+v. Tennessee, 501 U.S. at 827, whether the governing de- 
+cisions are subject to a kind of reliance that would lead 
+*o special hardship were those decisions abandoned, see 
+id. at 827-28; United States v. Title Ins. & Trust Co., 265 
+U.S. 472, 486 (1924); Casey, 505 U.S. at 854-56, 
+whether the law’s development in intervening years has 
+rendered the prior holding a “remnant of abandoned doc- 
+trine,” Casey, 505 U.S. at 855; see Patterson v. McLean 
+Credit Union, 491 U.S. 164, 173-74 (1989); whether any 
+factual premises underlying the prior holding have so 
+changed as to render the holding irrelevant or unjustifi- 
+able, see Casey, 505 U.S. at 855; Vasquez, 474 USS. at 
+266; and whether the governing decision was “unsound in 
+principle.” Garcia v. San Antonio Metro. Transit Auth., 
+469 U.S. 528, 546-47 (1985). Each of these considera- 
+tions is addressed below. Each demonstrates that Miranda 
+should be reaffirmed. 
+
+
+A. Workability. 
+
+
+Miranda's holdings have in no sense proven “unwork- 
+able” in practice."* To the contrary, Miranda’s core hold- 
+ing that there must be procedures to apprise an individual 
+in custody of his rights and its specific rules have proven 
+easy to administer by law enforcement officers and the 
+courts. The United States has represented that “[f]ederal 
+agents do not find it difficult, in general, to read a suspect 
+his rights and determine whether the suspect wishes to an- 
+
+
+14 Cf. Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 528, 
+546-47 (1985) (finding determination of whether particular govern- 
+mental function is “‘integral’” or “ ‘traditional’” to be “unsound 
+in principle and unworkable in practice”). 
+
+
+32 
+
+
+answer questions.” Gov't Pet. Br. 21. This Court has re- 
+peatedly held that a virtue of Miranda is the ease and clar- 
+ity of its application by police and courts. See Moran v. 
+Burbine, 475 U.S. 412, 425 (1986) (“[a]s we have stressed 
+on numerous occasions, ‘[o]ne of the principal advantages’ 
+of Miranda is the ease and clarity of its application”) 
+(second alteration in original); Berkemer v. McCarty, 468 
+U.S. 420, 432 (1984) (noting “the simplicity and clarity” 
+of Miranda); see also New York v. Quarles, 467 U.S. 
+649, 664 (1984) (O'Connor, J., concurring in and dis- 
+senting in part) (Miranda rules have “ ‘afforded police 
+and courts clear guidance on the manner in which to con- 
+duct a custodial investigation.’”). Even 19 years ago, 
+Chief Justice Burger declared: “[t]he meaning of Miranda 
+has become reasonably clear and law enforcement prac- 
+tices have adjusted to its strictures; I would neither over- 
+rule Miranda, [nor] disparage it . . . at this late date.” 
+Rhode Island v. Innis, 446 U.S. 291, 304 (1980) (Bur- 
+ger, C.J., concurring). 
+
+
+- Although the Court has noted that-Miranda’s require- 
+ments may have led in some instances to the exclusion 
+of statements that were not the product of physical or 
+psychological coercion,* application of Miranda has not 
+been shown to undermine law enforcement. Indeed, it is 
+just as likely that the simplicity and lack of ambiguity in a 
+Miranda waiver form have resulted in the admission of 
+Statements that might otherwise have been found to be 
+compelled. At bottom, the “judgment and experience of 
+federal law enforcement agencies is that Miranda is work- 
+able in practice and serves several significant law enforce- 
+ment objectives.” Gov't Pet. Br. 20. The minimum bur- 
+dens Miranda imposes are in fact likely outweighed by the 
+decision’s benefits. See Fare v. Michael C., 442 U.S. 707, 
+
+
+15 See, e.g., Michigan v. Harvey, 494 U.S. 344, 350 (1990) 
+(Miranda’s exclusionary rule “result{s] in the exclusion of some 
+voluntary and reliable statements” ). 
+
+
+33 
+
+
+718 (1979) (noting that the “gain in specificity, which 
+benefits the accused and the State alike, has been thought 
+to outweigh the burdens that the decision in Miranda im- 
+poses on law enforcement agencies and the courts”). The 
+benefit to the administration of justice is reflected in the 
+fact that some federal agencies have expanded use of 
+Miranda warnings to non-custodial settings. See Gov't 
+Pet. Br. 21-22. 
+
+
+The ease with which Miranda is applied by courts con- 
+trasts markedly with the difficulties that courts experienced 
+attempting to apply the former Due Process Clause totality 
+of the circumstances test for voluntariness, as even the 
+dissent in Miranda reveals. See Miranda v. Arizona, 384 
+U.S. 436, 507 (1966) (Harlan, J., dissenting) (describing 
+that in “more than 30 full opinions” “the voluntariness 
+rubric was . . . never pinned down to a single meaning 
+but on the contrary [the Court] infused it with a number 
+of different values. . . . The outcome was a continuing 
+re-evaluation on the facts of each case of how much 
+pressure on the subject was permissible”) (citation 
+omitted). 
+
+
+B. Reliance. 
+
+
+While the Court has held that the “classic case for 
+weighing reliance heavily in favor of following [an] earlier 
+rule occurs in the commercial context,” Casey, 505 U.S. 
+at 855-56 (citing Payne v. Tennessee, 501 U.S. at 828), 
+the Court has also consideerd whether reversal of a 
+precedent would result in “significant damage to the sta- 
+bility of the society governed by it.” Jd. at 855. For nearly 
+thirty-five years, Miranda’s requirements have shaped law 
+enforcement training, police conduct, the provision of 
+counsel to those subjected to custodial interrogation and 
+public expectations with respect to custodial interroga- 
+tion. The Miranda warnings themselves have been widely 
+popularized, and for good reason: they promote a percep- 
+
+
+34 
+
+
+tion of fairness, integrity and respect for the Constitution 
+in the criminal justice system. See Gov't Pet. Br. 36. 
+
+
+C. Subsequent Doctrinal Developments. 
+
+
+It cannot be said that “intervening development of the 
+law, through . . . the growth of judicial doctrine,” has re- 
+moved Miranda’s doctrinal underpinnings. Patterson, 491 
+U.S. at 173. Just the opposite is true. The Court has 
+consistently premised subsequent decisions on the con- 
+tinuing validity of Miranda’s core holding requiring the 
+suppression of unwarned statements in the prosecution’s 
+case-in-chief. See, e.g., Minnick v. Mississippi, 498 U.S. 
+146, 156 (1990) (suppressing statement given after defend- 
+ant had requested and consulted with counsel, but while 
+counsel was not present); Pennsylvania v. Muniz, 496 U.S. 
+582, 599 (1990) (suppressing unwarned response to ques- 
+tion asked during station house sobriety test); Berkemer, 
+468 U.S. at 434 (holding unanimously that Miranda ap- 
+plies to questioning on misd2meanor charges). 
+
+
+In fact, the Court has expanded and clarified Miranda’s 
+requirements with respect to the exclusion of unwarned 
+statements in the prosecution’s case-in-chief. For example, 
+Miranda held that the police must terminate interrogation 
+of an accused in custody if the accused requests assistance 
+of counsel. 384 U.S. at 474. The Court reinforced the 
+protections of Miranda in Edwards v. Arizona, 451 U.S. 
+477 (1981), which held that once the accused requests 
+counsel, officials may not reinitiate questioning “until coun- 
+sel has been made available to him, unless the accused 
+himself initiates further communication, exchanges, or con- 
+versations with police.” /d. at 484-85. Edwards is “de- 
+signed to prevent police from badgering a defendant into 
+waiving his previously asserted Miranda rights.” Michigan 
+v. Harvey, 494 U.S. 344, 350 (1990). In Minnick, the 
+Court reinforced Edwards, holding that “when counsel is 
+
+
+35 
+
+
+requested, interrogation must cease, and officials may not 
+reinitiate interrogation without counsel present, whether or 
+not the accused has consulted with his attorney.” 498 
+U.S. at 153 (emphasis added). The Court stated that its 
+holding in Minnick was consistent with Miranda’s ob- 
+servation that “the need for counsel to protect the Fifth 
+Amendment privilege comprehends not merely a right to 
+consult with counsel prior to questioning, but also to have 
+counsel present during any questioning if the defendant so 
+desires.” Id. at 154 (quoting Miranda, 384 U.S. at 470). 
+
+
+The Court’s subsequent opinions have never sug- 
+gested that Congress or the States could ignore Miranda’s 
+core holdings and adopt procedures, such as those em- 
+bodied in § 3501, that fail to require apprising accused per- 
+sons of their Fifth Amendinent rights. To the contrary, 
+the Court has repeatedly imposed a heightened standard 
+for waiver during custodial interrogation of the right to 
+remain silent and the right to counsel. “The right to coun- 
+sel recognized in Miranda is sufficiently important to sus- 
+pects in criminal investigations, [the Court] ha[s] held, 
+that it ‘requir[es] the special protection of the knowing 
+and intelligent waiver standard.’” Davis v. United States, 
+512 U.S. 452, 458 (1994) (third alteration in original) 
+(quoting Edwards v. Arizona, 451 U.S. 477, 483 
+(1981)). 
+
+
+The Court has, under certain circumstances, continued 
+to examine the application of Miranda’s exclusionary re- 
+quirements to situations not considered in Miranda. The 
+Court has also declined to extend Miranda’s exclusionary 
+requirements to situations or types of evidence not con- 
+sidered in Miranda. See, e.g., Michigan v. Tucker, 417 
+U.S. 433, 449 (1974) (declining to extend exclusionary 
+rule to testimony of witness discovered as a result of ac- 
+cused’s statements); Oregon v. Elstad, 470 U.S. 298, 314- 
+17 (1985) (declining to suppress statement made after 
+
+
+36 
+
+
+warnings and valid waiver of rights where police had ob- 
+tained earlier voluntary but unwarned statement); Quarles, 
+467 U.S. at 659-60 (refusing to suppress weapon found 
+as a result of unwarned statements based on public safety 
+exception to Miranda). The Court's carefully justified de- 
+cisions not to extend Miranda in certain contexts in no 
+way suggest that Miranda’s holdings are a “doctrinal 
+anachronism.” Casey, 505 U.S. at 855. 
+
+
+D. Unchanged Factual Premises. 
+
+
+In the intervening years since Miranda, the characteris- 
+tics and circumstances of police interrogations have not 
+changed in a manner that robs Miranda’s rule “of signifi- 
+cant application or justification.” Casey, 505 U.S. at 855. 
+A cursory review of reported decisions demonstrates the 
+point. See, e.g., Cooper v. Dupnik, 963 F.2d 1220, 1224 
+(9th Cir. 1992) (en banc) (according to prearranged plan, 
+officers ignored subject’s requests for counsel and inter- 
+rogated him for four hours in hopes of obtaining a con- 
+fession which they knew would be inadmissible, but could 
+be used for impeachment); Weaver v. Brenner, 40 F.3d 
+527, 537 (2d Cir. 1994) (officers who had probable cause 
+‘for arrest nonetheless conducted allegedly coercive inter- 
+rogation in order to obtain confession). Even if, overall, 
+instances of “brutality” and physical coercion may have 
+declined since 1966, any such decline is likely the result 
+of adoption of Miranda’s rule requiring “procedures . . . 
+effective in apprising accused persons of their right of 
+silence and in assuring a continuous opportunity to exer- 
+cise it,” 384 U.S. at 467, thus fulfilling the Court’s hope, 
+if not prophecy, that the “proper limitation upon custodial 
+interrogation” set forth in Miranda would “eradicatef{]” 
+physical coercion “in the foreseeable future.” Id. at 447. 
+
+
+Moreover, it cannot be said that the psychological coer- 
+cion that Miranda found inherent in interrogations of 
+
+
+37 
+
+
+citizens no longer exists. Custodial interrogations are 
+still largely conducted in private, with accused citizens cut 
+off from relatives, friends and attorneys. Individuals are 
+still “thrust into an unfamiliar atmosphere and run through 
+menacing police interrogation procedures.” Jd. at 457. 
+This Court’s own cases reflect this fact. See, e.g., Minnick, 
+498 U.S. at 153-54 (“The case before us well illustrates 
+the pressures, and abuses, that may be concomitants of 
+custody. . . . [T]hough [petitioner] resisted, he was required 
+to submit to both the FBI and the [Sheriff] Denham inter- 
+views.”). Put simply, the nature of the interrogation proc- 
+ess has not changed so markedly since issuance of Mi- 
+randa as to rob the Court's decision of significant applica- 
+tion and justification. 
+
+
+Even were it found that Miranda has been so success- 
+ful that most persons subjected to interrogation are aware 
+of their right to remain silent, the Miranda warnings retain 
+their importance. The warnings “show the individual that 
+his interrogators are prepared to recognize his privilege 
+should he choose to exercise it.” 384 U.S. at 468. Fur- 
+ther, Miranda’s procedures are necessary to ensure that an 
+accused’s attempt to exercise his rights is “fully honored.” 
+Id. at 467. 
+
+
+E. Miranda Is Not “Unsound In Principle.” 
+
+
+Miranda’s holdings are certainly neither unreasoned nor 
+“unsound in principle.” Garcia, 469 U.S. at 546-47. To 
+the contrary, the decision was a proper act of constitu- 
+tional interpretation.” First, Miranda’s minimum thresh- 
+old requirements are consistent with the text and history 
+of the Fifth Amendment. Second, they flow logically from, 
+and closely match, the scope ot the underlying Fifth 
+
+
+16 While the method and result of the constitutional analysis were 
+routine, Miranda was remarkable in that the Court interpreted a 
+“fundamental” right at the core of our democratic system. 
+
+
+38 
+
+
+Amendment right. Third, these requirements were a nat- 
+ural outgrowth of judicial precedent and law enforcement 
+experience. And fourth, having proven to be far easier to 
+administer in courts, and by law enforcement, Miranda's 
+minimum requirements more effectively serve the pur- 
+poses of the Fifth Amendment than the totality-of-the 
+circumstances test. 
+
+
+First, Miranda’s minimum threshold requirements are 
+consistent with the text of the Fifth Amendment, which 
+states that “[n]o person . . . shall be compelled in any 
+criminal case to be a witness against himself.” U.S. Const. 
+amend. V (App. la). While expressed as a limitation 
+on government power, the Fifth Amendment’s prohibition 
+against government efforts to coerce an individual to 
+make incriminating statements necessarily means that the 
+individual has an affirmative right to remain silent, and 
+any waiver must be knowing, intelligent, and voluntary. 
+See Miranda, 384 U.S. at 465. Mirenda’s requirements 
+simply assure that individuals can freely choose to exercise 
+the right to remain silent. 
+
+
+The history of the Fifth Amendment also supports 
+Miranda’s minimum threshold requirements. As the Court 
+has noted, the Framers likely understood the Fifth Amend- 
+ment to reflect common law rights. See Un:ted States v. 
+Balsys, 118 S. Ct. 2218, 2232 & nn.13, 14 (1998). The 
+Framers certainly understood that the common-law and 
+Constitutional rights against self-incrimination not only 
+were part of a complex of other trial rights, but also were 
+evolving rights that changed as criminal procedures de- 
+veloped.” The Miranda Court's crafting of the minimum 
+
+
+17 See Eben Moglen, The Privilege in British North America: 
+The Colonial Period to the Fifth Amendment, in The Privilege 
+Against Self-Incrimination 109, 136-41 (R.H. Helmholz et al. eds., 
+1997) (“The Privilege”); Henry E. Smith, The Modern Privilege: 
+Ite Nineteenth-Century Origins, in The Privilege 145, 148-59; 
+
+
+39 
+
+
+threshold requirements in light of contemporary practices 
+in the criminal justice system is fully consistent with this 
+tradition. In addition, the core aspects of Miranda’s re- 
+quirements echo views at the time of the framing. For 
+example, it was understood that the privilege against self- 
+incrimination, among other things, entitled a defendant 
+to remain silent, rather than answer questions under oath 
+posed by a government interrogator before trial.“ And 
+by the mid-nineteenth century, interrogators in both 
+America and England advised defendants of their right to 
+remain silent.“ In that manner, too, Miranda’s require- 
+ments are consistent with the historical understanding of 
+the right.2° And more fundamentally, throughout its his- 
+
+
+United States v. Balsys, 118 S. Ct. 2218, 2223 (1998); ef. Miranda, 
+384 U.S. at 460; id. at 507-08 (Harlan, J., dissenting). 
+
+
+18 See Albert W. Alschuler, A Peculiar Privilege in Historical 
+Perspective, in The Privilege 181, 192. 
+
+
+19 See Alschuler, supra at 198. 
+
+
+20 The historical record is admittedly less clear as to the extent 
+to which, at the time of the framing, interrogators could require 
+defendants to make unsworn pretrial statements. Although the 
+Marian committal statute of 1555 directed magistrates to interro- 
+gate suspects, and this practice was carried over into the manuals 
+distributed to justices of the peace in Colonial America (see John 
+H. Langbein, The Privilege and Common Law Criminal Procedure: 
+The Sixteenth to the Eighteenth Centuries, in The Privilege 82, 
+91-94;Moglen, supra at 116-17), there is evidence that commentators 
+and a number of practitioners concluded that the right to remain 
+silent applied to unsworn pre-trial statements as well. Moglen, 
+supra at 141-43; Langbein, supra at 97. Moreover, it would be 
+inappropriate to read the Fifth Amendment right as merely pro- 
+hibiting the specific practices that were prohibited by statute or 
+the common law at the time of its adoption. First, such a venture 
+is risky, because the historical record is spare and che Framers’ 
+understanding of the precise scope of the right is unclear. R.H. 
+Helmholz, Introduction, in The Privilege 1, 11; Moglen, supra at 
+136-38. Second, as noted the text, the right against self- 
+incrimination was part of a cluster of other trial rights and was 
+itself an evolving right that changed as criminal procedures 
+
+
+40 
+
+
+tory, the principle against self-incrimination has stood as 
+an expanding bulwark to protect the private interests 
+enunciated by Miranda, including guarding individual 
+conscience against government intrusion.” 
+
+
+Second, Miranda’s minimum threshold requirements 
+closely adhere to the scope of the underlying Fifth 
+Amendment right. While phrasing the principle in some- 
+what different ways, the Court has repeatedly held for 
+over a century, both before and after Miranda, that the 
+“Fifth Amendment guarantees . . . the right of a person 
+to remain silent unless he chooses to speak in the unfet- 
+tered exercise of his own will, and to suffer no penalty . . . 
+for such silence.” Malloy v. Hogan, 378 U.S. 1, 7-8 (1964). 
+Thus, the prohibition against “compelled” statements means 
+that the statement must be “truly the product of free 
+choice.” Miranda, 384 U.S. at 457, 458.” That is, the 
+
+
+changed. Third, to return to the practices at the time just before 
+the Framing would be to revert to a world in which defendants 
+were prohibited from testifying under oath on their own behalf, 
+Langbein, supra at 88; Alschuler, supra at 198, which would require 
+overruling Rock v. Arkansas, 483 U.S. 44 (1987); where, because 
+counsel was generally unavailable as a matter of right or practice, 
+defendants were effectively required to speak as unsworn advocates 
+on their own behalf (which of course rendered any right against 
+self-incrimination largely meaningless), Langbein, supra at 82-88; 
+Alschuler, supra at 194-95, which would require overruling not only 
+countless Fifth Amendment cases, but also Gideon v. Wainwright, 
+872 U.S. 385 (1963); and where the trier of fact could make 
+unfavorable inferences from the defendants’ failure to speak, 
+Langbein, supra at 92, which would require overruling Griffin v. 
+California, 380 U.S. 609 (1965). 
+
+
+21 See, e.g., R.H. Helmholz, The Privilege and the Jus Commune: 
+The Middle Ages to the Seventeenth Century, in The Privilege 17, 
+21-29, 44; Charles M. Gray, Self-Incrimination in Interjurisdictional 
+Law: The Sizteenth and Seventeenth Centuries, in The Privilege 
+47, 61-63; Langbein, supra at 103, 108. 
+
+
+22 See Withrow v. Williams, 507 U.S. 680, 689 (1993); Doe v. 
+United States, 487 U.S. 201, 214 n.12 (1988); Carter v. Kentucky, 
+
+
+41 
+
+
+individual must make a knowing, intelligent, and volun- 
+tary choice not to remain silent. See, e.g., id. at 465. 
+Given this scope of the underlying right, as well as the 
+nature of custodial interrogation, it only makes sense that 
+the individual be reminded of his right to remain silent and 
+that other safeguards be put in place to assure that the 
+individual’s right is observed. See id. at 469-75. 
+
+
+Third, Miranda's holding was the natural outgrowth of 
+more than 30 years of judicial experience with the totality- 
+of-the-circumstances test. On the one hand, it continued 
+the natural advancement in the Court’s understanding of 
+the nature of compulsion, which, as the principal dissent 
+in Miranda noted, had evolved to require “close attention 
+to the individual’s state of mind and capacity for effective 
+choice.” Jd. at 507 (Harlan, J., dissenting); see also, e.g., 
+Colorado v. Connelly, 479 U.S. 157, 164 (1986) (Rehn- 
+quist, C.J.); Blackburn v. Alabama, 361 U.S. 199, 206 
+(1960). It also was faithful to the Court’s longstanding 
+admonition that the Fifth Amendment right be generously 
+interpreted. See Miranda, 384 U.S. at 461 (citing cases); 
+
+
+450 U.S. 288, 304 (1981); Mincey v. Arizona, 437 U.S. 385, 398 
+(1978) (“It is hard to imagine a situation less conducive to the 
+exercise of ‘a rational intellect and a free will’ than Mincey’s.”) ; 
+Greenwald v. Wisconsin, 390 U.S. 519, 521 (1968) (“Considering — 
+the totality of these circumstances, we do not think it credible that 
+petitioner’s statements were the product of his free and rational 
+choice.”) ; Culombe v. Connecticut, 367 U.S. 568, 583 (1961) (“[A]n 
+extra-judicial confession, if it was to be offered in evidence against 
+a man, must be the product of his own free choice.”); Payne v. 
+Arkansas, 356 U.S. 560, 567 (1958) (“It seems obvious from the 
+totality of this course of conduct, and particularly the culminating 
+threat of mob violence, that the confession was coerced and did not 
+constitute an ‘expression of free choice.’”) (footnotes omitted) ; 
+Lisenba v. California, 314 U.S. 219, 241 (1941) (no evidence that 
+statements “were the result of the deprivation of his free choice to 
+admit, to deny, or to refuse to answer”); Bram v. United States, 
+168 U.S. 532, 549 (1897) (“accused must be free of hope or fear 
+in respect to the crime charged”). ; 
+
+
+42 
+
+
+id. at 508 (Harlan, J., dissenting) (noting that the trend 
+in the Court’s decisions was “usually in the direction of 
+restricting admissibility” ). 
+
+On the other hand, based upon 30 years of judicial 
+experience, the Miranda Court rejected the totality of the 
+circumstances test for measuring compulsion under the 
+Fifth Amendment. In over 30 cases in as many years, 
+the Court’s analysis constantly changed, see id. at 507-08 
+(Harlan, J., dissenting), and the Court recognized that, 
+given the proper focus on the mental state and capacity 
+of the accused, continuing to engage in a totality-of-the 
+circumstances analysis would involve pure “speculation.” 
+Id. at 468-69. Yet, this was not all. Even if the specula- 
+tive exercise could be undertaken, Miranda also held that 
+it was necessary for officials to inform even a suspect 
+aware of his rights that his interrogators—these particu- 
+lar interrogators—themselves understood and would re- 
+spect his rights. Jd. This further requirement also flows 
+from the need to ensure an unfettered choice. At bottom, 
+the inquiry necessary under a “totality of the circum- 
+stances” test, in order to ensure a knowing and voluntary 
+waiver, would look no further than the “ascertainable 
+fact” of whether the accused had been apprised of his 
+rights. Thus, the Court quite properly recognized that 
+Miranda’s minimum requirements were the only appro- 
+priate response. 
+
+Similarly, Miranda’s minimum threshold requirements 
+were based on the Court’s understanding of the er_.nsive 
+practical experience of law enforcement. On the one 
+hand, the core requirement of apprising the accused of 
+his rights and safeguarding exercise of those rights, as 
+well as the specific warnings, were based on similar rules 
+in place for federal enforcement personnel. See id. at 
+481-86. On the other hand, the imposition of the re- 
+quirements as a matter of constitutional law reflected the 
+
+
+43 
+
+
+Court’s own institutional experience in analyzing the na- 
+ture of police interrogations, id. at 448, 456, as well as 
+its understanding of the difficulty of reconstructing what 
+actually occurs during interrogations, see id. at 448. 
+Moreover, the Miranda Court was mindful to minimize 
+the burden imposed on law enforcement—all it required 
+were warnings and attendant procedural safeguards, with 
+which law enforcement could easily comply. It further 
+provided the political branches of both the States and fed- 
+eral government with flexibility to adopt alternative proce- 
+dures, as long as they complied with the constitutional 
+requirements that the accused be informed of his or her 
+rights through the use of procedures as fully as effective 
+as those announced by the Court. 
+
+
+Finally, over 30 years of additional experience since 
+Miranda have proven that Miranda’s minimum require- 
+ments better serve the policies underlying the Fifth Amend- 
+ment. While the Fifth Amendment serves a number of 
+purposes, at bottom, it serves to protect “the dignity and 
+integrity of its citizens,” by striking a “ ‘fair state-indi- 
+vidual balance.’” Id. at 460 (quoting 8 Wigmore, Evi- 
+dence 317 (McNaughton rev. 1961); see Balsys, 118 
+S. Ct. at 2232 (balancing private and governmental inter- 
+ests in determining the scope of the Fifth Amendment 
+right). Miranda’s requirements strike a fairer balance 
+than the totality-of-the-circumstances test. These mini- 
+mum requirements better serve law enforcement by pro- 
+viding a clear-cut rule for interrogating witnesses, rather 
+than subjecting police to second guessing based on a more 
+amorphous totality-of-the-circumstances test. They better 
+serve the judiciary by providing a test that is more easily 
+and consistently administered, rather than reconstructing 
+all of the circumstances of an interrogation and attempt- 
+ing to divine the defendant’s state of mind. They better 
+serve the individual by helping to assure that the indi- 
+
+
+te 
+
+
+vidual is aware of his rights and that those rights are re- 
+spected. And adherence comes at little cost—it only re- 
+quires that the warnings be administered, something that 
+is an extraordinarily simple act. 
+
+
+F. Considerations That Transcend Traditional Factors. 
+
+
+Miranda has become one of the Court’s most famous 
+opinions of the twentieth century. Where the rules of cases 
+have found “ ‘wide acceptance in the legal culture,’” this 
+“is adequate reason not to overrule these cases.” Mitchell 
+v. United States, 119 §. Ct. 1307, 1316 (1999), (Scalia, J., 
+dissenting). Miranda’s widespread acceptance, however, 
+extends far beyond the legal culture. Miranda’s specific 
+holding has become widely popularized through television 
+and film and hence is emblazoned on the public’s conscious- 
+ness. Whatever concerns arose immediately in the after- 
+math of Miranda as to guilty defendants being released on 
+a technicality have been replaced by an abiding respect for 
+Miranda rights.. The public correctly understands that the 
+Court held in Miranda that to protect an individual’s con- 
+stitutional right to remain silent, law enforcement officers 
+must inform suspects subjected to interrogation of their 
+right to remain silent, that what they say can and will be 
+used against them, that they have a right to an attorney, 
+and if they cannot afford one, an attorney will be ap- 
+pointed for them, and that law enforcement officers must 
+honor a suspect’s request to remain silent or to have 
+counsel. 
+
+
+Adherence to Miranda’s requirements has promoted pub- 
+lic confidence that law enforcement officers and the courts 
+are treating individuals subjected to custodial interroga- 
+tion in a similar, fair and lawful manner that respects their 
+constitutional right to remain silent. Overruling Miranda 
+would thus erode public confidence that police and the 
+courts are treating persons subjected to custodial interro- 
+
+
+45 
+
+
+gation in a manner that appropriately and fairly respects 
+their constitutional rights. As the United States notes, 
+law enforcement depends on citizen cooperation and sup- 
+port, and a step such as overruling Miranda, which could 
+undermine that support, should not be taken lightly. See 
+Gov't Pet. Br. 36. 
+
+
+Moreover, departing from Miranda would erode public 
+confidence in the legitimacy of the Court’s elucidation of 
+constitutional principles. “The Court's power lies . . . in 
+its legitimacy, a product of substance and perception that 
+shows itself in the people’s acceptance of the Judiciary as 
+fit to determine what the Nation’s law means and to de- 
+clare what it demands.” Casey, 505 U.S. at 865. Because 
+neither the factual underpinnings of Miranda's central . 
+holding nor subsequent evolution in the Court's jurispru- 
+dence justify abandoning Miranda, “the Court could not 
+pretend to be reexamining [Miranda] with any justifica- 
+tion beyond a present doctrinal disposition to come out 
+differently.” Jd. at 864. A substantial reduction in the 
+protections afforded by Miranda would, under these cir- 
+cumstances, needlessly upset “a carefully crafted balance 
+eesigned to fully protect both the defendant’s and society’s 
+interests.” Moran v. Burbine, 475 U.S. 412, 433 n4 
+(1986). 
+
+
+46 
+
+
+CONCLUSION 
+
+
+For the reasons stated above, the judgment of the court 
+of appeals should be reversed. 
+
+
+Respectfully submitted, 
+CARTER G. PHILLIPS JAMES W. HUNDLEY * 
+JEFFREY T. GREEN BRIGLIA & HUNDLEY, P.C. 
+KurT H. JACOBS The Mosby Professional Building 
+SIDLEY & AUSTIN 10560 Main Street, Suite 314 
+1722 Eye Street, N.W. Fairfax, Virginia 22030 
+Washington, D.C. 20006 (703) 385-8005 
+
+
+(202) 736-8000 
+
+
+PAUL F. WASHINGTON 
+75 Rockefeller Plaza 
+New York, New York 10019 
+(212) 484-6753 
+Counsel for Petitioner 
+
+
+January 28, 2000 * Counsel of Record 
+
+
+APPENDIX 
+
+
+la 
+APPENDIX 
+
+
+RELEVANT CONSTITUTIONAL AND 
+STATUTORY PROVISIONS 
+
+
+U.S. Const. amend. V. 
+
+
+No person shall be held to answer for a capital, or 
+otherwise infamous crime, unless on a presentment or in- 
+dictment of a Grand Jury, except in cases arising in the 
+land or naval forces, or in the Militia, when in actual serv- 
+ice in time of War or public danger; nor shall any person 
+be subject for the same offence to be twice put in jeopardy 
+of life or limb, nor shall be compelled in any criminal case 
+to be a witness against himself, nor be deprived of life, 
+liberty, or property, without due process of law; nor shall 
+private property be taken for public use without just com- 
+pensation. 
+
+
+18 U.S.C. § 3501 Admissibility of Confessions 
+
+
+(a) In any criminal prosecution brought by the United 
+States or by the District of Columbia, a confession, as de- 
+fined in subsection (e) hereof, shall be admissible in evi- 
+dence if it is voluntarily given. Before such confession 
+is received in evidence, the trial judge shall, out of the 
+presence of the jury, determine any issue as to voluntari- 
+ness. If the trial judge determines that the confession was 
+voluntarily made it shall be admitted in evidence and the 
+trial judge shall permit the jury to hear relevant evidence 
+on the issue of voluntariness and shall instruct the jury 
+to give such weight to the confession as the jury feels it 
+deserves under all the circumstances. 
+
+
+(b) The trial judge in determining the issue of volun- 
+tariness shall take into consideration all the circumstances 
+surrounding the giving of the confession, including (1) 
+the time elapsing between arrest and arraignment of the 
+
+
+2a 
+
+
+defendant s:aking the confession, if it was made after ar- 
+rest and before arraignment, (2) whether such defendant 
+knew the nature of the offense with which he was charged 
+or of which he was suspected at the time of making the 
+confession, (3) whether or not such defendant was ad- 
+vised or knew that he was so: required to make any 
+statement and that any such statement could be used 
+against him, (4) whether or not such defendant had been 
+advised prior to questioning of his right to the assistance 
+of counsel; and (5) whether or not such defendant was 
+without the assistance of counsel when questioned and 
+when giving such confession. 
+
+
+The presence of absence of any of the above-mentioned 
+factors to be taken into consideration by the judge need 
+not be conclusive on the issue of voluntariness of the 
+confession. 
+
+
+(c) In any criminal prosecution by the United States or 
+by the District of Columbia, a confession made or given 
+by a person who is a defendant therein, while such person 
+was under arrest or other detention in the custody of any 
+law-enforcement officer or law-enforcement agency, shall 
+not be inadmissible solely because of delay in bringing 
+such person before a magistrate or other officer empow- 
+ered to commit persons charged with offenses against the 
+laws of the United States or of District of Columbia if 
+such confession is found by the trial judge to have been 
+made voluntarily and if the weight to be given the con- 
+fession is left to the jury and if such confession was made 
+or given by such person within six hours immediately fol- 
+lowing his arrest or other detention. Provided, That the 
+time limitation contained in this subsection shall not apply 
+in any case in which the delay in bringing such person 
+before such magistrate or other officer beyond such six- 
+hour period is found by the trial judge to be reasonable 
+considering the means of transportation and the distance 
+
+
+ener 
+
+
+3a 
+
+
+to be traveled to the nearest available i 
+such magistrate or 
+
+
+(d) Nothing contained in this section shall bar the ad- 
+mission in evidence of any confession made or given vol- 
+untarily by any person to any other person without inter- 
+rogation by anyone, or at any time at which the person 
+
+made or gave such confession was not under arres 
+or other detention. 
+
+(e) As used in this section, the term “confession” means 
+any confession of guilt of any criminal offense or any self- 
+incriminating statement made or given orally or in writing. 
+
+

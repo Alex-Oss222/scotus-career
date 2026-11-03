@@ -1,0 +1,853 @@
+No. 99-478 
+
+
+Supreme Court of the United States 
+
+
+CHARLES C. APPRENDI, JR., 
+
+
+Petitioner. 
+V. 
+
+
+STATE OF NEW JERSEY, 
+
+
+Respondent. 
+
+
+On Petition for Writ of Certiorari to the 
+Supreme Court of New Jersey 
+
+
+RESPONDENT'S BRIEF IN OPPOSITION 
+
+
+JOHN J. FARMER, JR. 
+Attorney General of New Jersey 
+LISA SARNOFF GOCHMAN 
+Deputy Attorney General 
+Attorney of Record 
+DIVISION OF CRIMINAL JUSTICE 
+R.J. HUGHES JUSTICE COMPLEX 
+P.O. Box 086 
+TRENTON, NEW JERSEY 08625 
+
+
+(609) 292-9086 
+
+
+October 20, 1999 
+
+
+QUESTION PRESENTED 
+
+
+Whether existing United States Supreme Court precedent 
+firmly supports the conclusion reached by the Supreme Court 
+of New Jersey that the extended term sentencing provision of 
+the Hate Crime Statute, N.J.Stat.Ann. 2C:44-3e (West 1995), 
+preserves a defendant's federal constitutional rights to due 
+process of law, notice by indictment and trial by jury? 
+
+
+TABLE OF CONTENTS 
+
+QUESTION PRESENTED ........0ccscscceess i 
+in Cre sseebibecceciceces ii 
+TABLE OF AUTHORITIES .......0cccccveees iii 
+~~~ Sen Geecccrecceceseeosece | 
+(jj eek eee es adeaecceccccccess | 
+CONSTITUTIONAL AND STATUTORY 
+
+PROVISIONS INVOLVED ................ | 
+STATEMENT OF THE CASE .............25005. | 
+REASONS FOR DENYING THE PETITION ........ 8 
+
+
+DUC CCEEESweebedebseccccccoces 16 
+
+
+TABLE OF AUTHORITIES 
+CASES CITED: Page 
+Almendarez-Torres v. United States, 523 
+U.S. 224, 118 S.Ct. 1219 (1998). ...... 11,12 
+13,14 
+Graham v. West Virginia, 224 U.S. 
+a eg or ole ate a 12 
+Jones v. United States, 526 U.S. 227, 
+I i tn ie iS nat hice trad 12,13 
+14 
+McMillan v. Pennsylvania, 477 U.S. 79 (1986) 10,11 
+13 
+Miranda v. Arizona, 384 U.S. 436 (1966)... . 5 
+Mullaney v. Wilbur, 421 U.S. 684 (1975).... Il 
+Specht v. Patterson, 386 U.S. 605 (1967).... 14 
+State v. Beard, 16 N.J. 50, 106 A.2d 
+ES Dawa eae eer en DO © ad 10 
+State v. Cherry, 289 N.J. Super. 503, 
+674 A.2d 589 (App Div. 1995)........ 10 
+State v. Federico, 103 N.J. 169, 
+Sen ET EDs ccc oceeceecese 12 
+State v. Harmon, 104 N.J. 189, 
+516 A.2d 1047 (1986).............. 2,10 
+
+
+iV 
+
+
+State v. Mortimer, 135 N.J. 517, 
+641 A.2d 517, cert. denied, 
+CK 10 
+
+
+Wisconsin v. Mitchell, 508 U.S. 476 (1993) 10 
+
+
+STATUTES CITED 
+N.J.Stat.Ann. 2C:39-3a............4.. 2 
+N.J.Stat.Ann. 2C:39-4a .............. 2,9 
+N.J.Stat.Ann. 2C:43-6a(1) . 2.2.0.2... 3 
+N.J.Stat.Ann. 2C:43-6a(2) ............. 3,11 
+N.J.Stat.Ann. 2C:43-6c.........0.0005- 6 
+N.J.Stat.Ann. 2C:43-7a(3) ............. 3,11 
+N.J.Seat. Ann. WO:44-S@ 2. wees passim 
+42 Pa.Const.Stat.Ann.§9712 ......... 13 
+DURE GHD. 6 oc cccccccncccces 11,14 
+8 U.S.C. § 1326(b)(2) .. 2. ee ee 11,14 
+CT a are 12 
+RULES CITED 
+N.J. Court Rule 2:2-1(aX(2) ............ 7 
+
+
+a, GE I cc he ce eeceeces 14 
+
+
+OPINIONS BELOW 
+
+
+Respondent (hereinafter the State) concurs with the 
+statements set forth in the petition. 
+
+
+JURISDICTION 
+
+
+The State concurs with the statement set forth in the 
+petition. 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The State concurs with the statements set forth in the 
+petition. 
+
+
+STATEMENT OF THE CASE 
+
+
+In the early morning hours of December 22, 1994, 
+petitioner Charles Apprendi, Jr., a white pharmacist, fired 
+several rounds from a loaded rifle into a nearby single-family 
+house, using as targets two black Santa Claus decorations 
+hanging on the front door. The residents, Michael and Mattie 
+Fowlkes and their three children, ages 9, 13 and 16, were the 
+only black family living in petitioner's otherwise all-white 
+neighborhood in Vineland, New Jersey. (Pa2-3, 100-02, 107- 
+09).' 
+
+
+Petitioner was charged by the Cumberland County, 
+New Jersey, Grand Jury in a twenty-three count indictment 
+with four counts of attempted murder in the first degree, four 
+counts of aggravated assault in the second degree, four counts 
+of possession of a firearm for an unlawful purpose in the 
+second degree, four counts of unlawful possession of a loaded 
+
+
+. "Pet." refers to the petition for certiorari; 
+“Pa” refers to the appendix to the petition for certiorari; 
+"T" refers to the plea transcript dated July 24, 1995. 
+
+
+2 
+
+
+rifle in the third degree, unlawful possession of an incendiary 
+device in the third degree, unlawful possession of an anti- 
+personnel bomb in the third degree, four counts of harassment 
+in the fourth degree, and unlawful possession of a firearm 
+silencer in the fourth degree. (Pa3). 
+
+
+On July 24, 1995, petitioner entered a guilty plea before 
+the Honorable Rushton H. Ridgway, J.S.C., to counts three 
+and eighteen of the indictment charging second degree 
+possession of a firearm for an unlawful purpose, contrary to 
+N.J.Stat.Ann. 2C:39-4a (West 1995), and count twenty-two 
+charging third degree unlawful possession of an anti-personnel 
+bomb, contrary to N.J.Stat.Ann. 2C:39-3a (West 1995). (T3- 
+14 to 4-16, 5-18 to 23, 10-13 to 21). Petitioner admitted at 
+the plea hearing that his unlawful purpose for shooting at the 
+Fowlkes’ house was to frighten or harass the family. (T22-4 
+to 29-18). 
+
+
+Through petitioner's guilty plea, the State satisfied its 
+burden to prove beyond a reasonable doubt the four elements 
+of possession of a weapon for an unlawful purpose under 
+N.J.Stat.Ann. 2C:39-4a: one, that petitioner had a firearm; 
+two, that petitioner possessed it; three, that petitioner's 
+purpose or conscious objective was to use it against the person 
+or property of another; and, four, that petitioner intended to 
+use it in a manner that was proscribed by law. State v. 
+Harmon, 104 N.J. 189, 212, 516 A.2d 1047, 1059 (1986). 
+
+
+The prosecution timely served petitioner with notice that 
+it was seeking an enhanced term of imprisonment on count 
+eighteen pursuant to N.J.Stat.Ann. 2C:44-3e (West 1995), the 
+extended term provision of New Jersey's "Hate Crime 
+Statute." (T9-20 to 10-8; Pal66). Under this statute, the 
+same criminal conduct may be more heavily punished if "[tJhe 
+defendant in committing the crime acted with a purpose to 
+intimidate an individual or group of individuals because of 
+race, color, gender, handicap, religion, sexual orientation or 
+ethnicity." Jd. Upon application of the prosecuting attorney, 
+
+
+3 
+
+
+an extended term must be imposed if the sentencing court 
+"finds, by a preponderance of the evidence, the grounds in 
+subsection e." Jd. The ordinary sentencing range for a 
+second degree crime is between five and ten years, 
+N.J.Stat.Ann. 2C:43-6a(2) (West 1995). The extended 
+sentencing range for a second degree crime is between ten and 
+twenty years, N.J.Stat.Ann. 2C:43-7a(3) (West 1995), which 
+is the ordinary sentencing range for a first degree crime. 
+N.J.Stat.Ann. 2C:43-6a(1) (West 1995). 
+
+
+At the extended term sentencing hearing held before 
+Judge Ridgway, Michael Fowlkes recalled that on December 
+22, 1994, he and his wife awoke at 1:55 a.m. to the sounds of 
+gun shots and shattering glass. Eight bullets had been fired at 
+their house, and the front French doors, which were panes of 
+clear glass set in a burgundy frame, were riddled with bullets. 
+(Pal07-09). One of the bullets lodged in the wall of their 
+daughter's bedroom. (Pal09). 
+
+
+Petitioner was arrested shortly thereafter, and he admitted 
+to Detective Dennis D' Augostine that he fired shots into the 
+Fowlkes’ home because the residents were black and he was 
+"giving them a message" that they were unwelcome in 
+petitioner's neighborhood. Petitioner knew that a black family 
+lived there because he had seen them outside in the yard, but 
+he did not know the victims personally. (Pal74-78, 299).’ 
+
+
+: Petitioner claims that "the police department had espoused 
+the theory that the shooting of the house was racially motivated long 
+before the petitioner was interrogated" (Pet. at 5) to support the notion that 
+D' Augostine was “hunting for a racist motive for what [petitioner] did.” 
+(Pa241). D'Augostine was unaware until after he interviewed petitioner, 
+however, of the statement of Mattie Fowlkes taken by a Detective 
+Valentine on November 14, 1994, in which she expressed her belief that 
+earlier shootings at her house were racially motivated. (Pa289-299). 
+
+
+4 
+
+
+Petitioner presented seven character witnesses at the 
+hearing who testified that defendant did not have a reputation 
+for racial bias against blacks. (Pal82-203). 
+
+
+Petitioner also presented the opinion of Doctor Ger 
+Cooke, a psychologist who examined petitioner at the 
+Cumberland County Jail on February 15, 1995. (Pa204-07). 
+According to Doctor Cooke, petitioner told him that he had 
+consumed eight alcoholic beverages and some medication on 
+December 22, 1994, and had "feelings that he wanted to 
+destroy something" when the Fowlkes’ purple door caught his 
+attention. (Pa210-11). After firing at the Fowlkes’ front 
+door, petitioner returned home, hid the gun and went to sleep. 
+(Pa211). The police arrived twenty minutes later and told him 
+that if he cooperated "they would be less stringent." (Pa211- 
+12). Doctor Cooke admitted that he had "no way of knowing" 
+whether petitioner told him the truth during the interview. 
+(Pa228). 
+
+
+Doctor Cooke ruled out the possibility that petitioner 
+suffered from insanity or a diminished capacity. (Pa207-08). 
+The doctor did find, however, a pattern of alcohol abuse and 
+drug dependency. (Pa208-09). He concluded that petitioner 
+had an obsessive-compulsive disorder, mood swings and an 
+impulse disorder of kleptomania. (Pa216-18). The 
+synergistic effect of the drugs and alcohol, combined with 
+petitioner's "anxious and overcontrolled" personality, created 
+"the kind of personality of an individual who would [tell a lie] 
+to get out of this kind of situation." (Pa218-19). Doctor 
+Cooke acknowledged that petitioner had never been treated for 
+any psychiatric disorders or alcohol and drug abuse, and was 
+in fact employed as a pharmacist at the time of the shootings. 
+(Pa223). 
+
+
+Petitioner testified on his own behalf. He claimed that 
+when the police came to his house at 3:00 a.m. of the morning 
+of his arrest he was “extremely exhausted and depressed." 
+Petitioner alleged that he had drank three or four vodka drinks 
+
+
+5 
+
+
+several hours before and had taken medication for his 
+"irritable bowel syndrome," an "opiate" and a "minor 
+tranquilizer." (Pa236-39). Petitioner denied being a racist 
+and claimed that he admitted to a having a racial bias only 
+because Detective D' Augostine was scaring him with stories 
+of homosexuality and AIDS among the prison population. 
+(Pa242-45). 
+
+
+On cross-examination, petitioner admitted that when the 
+"glass and purple door ... caught [his] eye," he went home, 
+retrieved his rifle and returned to the Fowlkes’ residence. 
+(Pa251-52). The rifle was equipped with a "red-dot" scope 
+for accurate aim, as well as a silencer, which he characterized 
+as "toys." (Pa252-53). Petitioner admitted that it would be 
+in his best interest to tell Judge Ridgway that he is not a 
+racist. (Pa255-56). 
+
+
+On rebuttal, Detective D'Augostine testified that 
+petitioner “clearly understood" his Miranda rights. (Pa281). 
+In response to the detective's question, petitioner stated that 
+although he had consumed two alcoholic drinks in the late 
+afternoon and two more at 10:30 p.m., he was not under the 
+influence of any alcohol or drugs. (Pa283). Petitioner's 
+breath bore no odor of alcohol, his eyes were not bloodshot, 
+he did not sway and he answered the detective's questions 
+clearly. (Pa284). Petitioner admitted that he fired at the 
+Fowlkes’ house on two separate occasions. (Pa288-89). The 
+detective never threatened petitioner, nor did he promise 
+leniency if he cooperated. (Pa286). The interview was 
+immediately terminated when petitioner requested an attorney. 
+(Pa289). Petitioner stipulated that his confession was given in 
+accordance with Miranda v. Arizona, 384 U.S. 436 (1966). 
+(Pal72). 
+
+
+Judge Ridgway found Detective D'Augostine to be 
+credible and "had difficulty believing that [petitioner] was 
+attracted to [the Fowlkes' front] door by the color. And that 
+something went off in his ... intoxicated state of mind that he 
+
+
+6 
+
+
+wanted to destroy the door." (Pal42-43). The judge recalled 
+petitioner's admission under oath at the plea proceeding that 
+his unlawful purpose in shooting at the Fowlkes’ house was to 
+scare the occupants. The court was satisfied that petitioner's 
+act was motivated by racial bias and that petitioner was now 
+denying any such prejudice so as to avoid the enhanced 
+punishment for a bias crime. (Pal43-44). Judge Ridgway 
+found that the State met its burden of proving by a 
+preponderance of the evidence that petitioner's act was 
+racially motivated and, therefore, petitioner was subject to an 
+extended term of imprisonment. (Pal45). Petitioner was 
+sentenced on count eighteen to an extended custodial term of 
+twelve years with a mandatory period of parole ineligibility of 
+four years. (Pal61).’ 
+
+
+In a published opinion filed August 19, 1997, the 
+Superior Court of New Jersey, Appellate Division, affirmed 
+petitioner's convictions and sentences and declared 
+N.J.Stat.Ann. 2C:44-3e constitutional. State v. Apprendi, 304 
+N.J. Super. 147, 698 A.2d 1265 (App. Div. 1997) (Pa81-94). 
+The majority found that the statute did not make racial bias 
+an essential element of the predicate crime. The statute was 
+aimed at deciphering a defendant's motive, a traditional 
+sentencing factor. The imposition of an extended term of 
+imprisonment following a finding of bias by the sentencing 
+court by a preponderance of the evidence standard did not 
+
+
+’ The mandatory minimum term was not imposed pursuant to 
+the Hate Crime Statute but was authorized by N.J.Stat.Ann. 2C:43-6c 
+(West 1995), because defendant was convicted of possession of a firearm 
+with intent to use it against the person of another. (Pa4). 
+
+
+On count three, petitioner was sentenced to an ordinary term of seven 
+years imprisonment with a mandatory period of parole ineligibility of three 
+years, to be served concurrently to the term imposed on count eighteen. 
+On count twenty-two, petitioner was sentenced to an ordinary term of 
+three years imprisonment, to be served concurrently to the terms imposed 
+on counts three and eighteen. (Pal61). 
+
+
+oe ee 
+
+
+ee ee 
+
+
+7 
+
+
+violate the constitutional requirement that the State must prove 
+each element of an offense by the reasonable doubt standard. 
+(Pa86-94). 
+
+
+The concurring member of the panel agreed that 
+N.J.Stat.Ann. 2C:44-3e was constitutional under the 
+majority's analysis, adding that the sentencing enhancer of the 
+Hate Crime Statute appears in the general sentencing 
+provisions of New Jersey's Code of Criminal Justice and was 
+adopted after the Code's provisions establishing the crimes. 
+The concurring judge compared the Hate Crime Statute to 
+New Jersey's Graves Act which mandates ineligibility terms 
+on sentences where a judge finds by a preponderance of the 
+evidence that a defendant used or possessed a firearm, 
+notwithstanding that the offense for which he or she was 
+convicted did not necessarily involve use or possession of a 
+firearm as an element thereof. (Pa77-80). 
+
+
+The dissenting judge believed that the word “purpose” as 
+used in the Hate Crime Statute was synonymous with "intent" 
+and was thus an element of the predicate offense that had to be 
+proven by the finder of fact beyond a reasonable doubt. 
+(Pa68-76). 
+
+
+Petitioner filed with the Supreme Court of New Jersey an 
+appeal as of right from the dissent in the Appellate Division 
+pursuant to N.J. Court Rule 2:2-1(a)(2). 
+
+
+On June 24, 1999, the Supreme Court of New Jersey 
+affirmed the Appellate Division opinion and determined that 
+the Hate Crime Statute did not violate the United States 
+Constitution. State v. Apprendi, 159 N.J. 7, 731 A.2d 485 
+(1999) (Pal-28). Analyzing the Hate Crime Statute under 
+relevant United States Supreme Court precedent, the court 
+found that petitioner's biased motivation behind the shooting 
+was a sentencing factor to be resolved by the sentencing 
+judge, and not an element of the offense requiring a jury 
+finding beyond a reasonable doubt: 
+
+
+8 
+
+
+We find that the provision has been narrowly 
+tailored to meet First Amendment concerns, and 
+represents a legislative attempt to comply with a 
+constitutional mandate, not a legislative attempt to 
+circumvent due process rights to trial by jury. 
+
+
+* * * 
+
+
+[T]he Legislature simply took one factor that has 
+always been considered by sentencing courts to bear 
+on punishment and dictated the weight to be given 
+that factor. A finding of a biased motive or purpose 
+to intimidate, like the factor of recidivism in the 
+[United States v.] Almendarez -Torres analysis, is a 
+very traditional sentencing factor. 
+
+
+[Pa2, 22]. 
+
+
+Two of the seven members of the court dissented, finding the 
+statute violative of the Due Process Clause of the Fifth 
+Amendment and the notice and jury guarantees of the Sixth 
+Amendment of the United States Constitution. (Pa29-66). 
+
+
+REASONS FOR DENYING THE PETITION 
+
+
+In determining that petitioner's racial bias motivating his 
+shooting of a loaded rifle at the Fowlkes' house was a 
+sentencing factor subject to the “preponderance of the 
+evidence" standard, and not an essential element of the 
+underlying crime of possession = a ra ~ an am 
+purpose requiring a jury finding of guilt beyond a reasonable 
+doubt, the Supreme Court of New Jersey faithfully applied the 
+constitutional calculus formulated by this Court in a series of 
+decisions addressing the so-called "sentencing factor versus 
+element" debate. The statutory scheme created by the 
+extended term provision of New Jersey's Hate Crime Statute, 
+N.J.Stat.Ann. 2C:44-3e (West 1995), punishes motive, not 
+criminal intent, and thereby guarantees petitioner's Sixth 
+
+
+am 
+
+
+9 
+
+
+Amendment right to notice by indictment and trial by jury, 
+and Fifth and Fourteenth Amendments right to due process of 
+law. See State v. Apprendi, 159 N.J. 7, 731 A.2d 485 (1999) 
+(Pal-28). This adherence to United States Supreme Court 
+precedent means that the issue decided by the state court may 
+implicate federal constitutional provisions, but ultimately fails 
+to present "an important question of federal law that has not 
+been, but should be settled by this Court," or "an important 
+federal question in a way that conflicts with relevant decisions 
+of this Court." Supreme Court Rule 10(c).* Simply put, there 
+are no "compelling reasons" for this Court to grant this 
+petition for a writ of certiorari. Supreme Court Rule 10. 
+
+
+At the time petitioner entered his guilty plea to possession 
+of a weapon for an unlawful purpose, N.J.Stat.Ann. 2C:39-4a 
+(West 1995), the extended term provision of New Jersey's 
+Hate Crime Statute required the sentencing court to impose an 
+increased maximum term of imprisonment if, after a hearing, 
+the State proved by a preponderance of the evidence that in 
+committing the predicate offense the defendant acted "with a 
+purpose to intimidate an individual or group of individuals 
+because of race, color, religion, sexual orientation or 
+ethnicity." Petitioner confuses motive (the sine gua non of 
+New Jersey's Hate Crime Statute) with criminal intent (the 
+sine qua non of New Jersey's unlawful possession of a 
+weapon statute) to claim that the Hate Crime Statute 
+unconstitutionally allows the sentencing court to decide, by a 
+preponderance of the evidence, a defendant's mental state 
+under a statute which can increase the maximum sentence. 
+(Pet. at 3). 
+
+
+. Certainly, the final resolution of the federal constitutional 
+
+
+question invoked by New Jersey's Hate Crime Statute does not conflict 
+with any decision of any other state court of last resort or of a United 
+States court of appeals. Supreme Court Rule 10(b). 
+
+
+10 
+
+
+Petitioner's argument that N.J.Stat.Ann. 2C:44-3e 
+punishes criminal intent stems from the statute's reference to 
+the accused's "purpose to intimidate." The Apprendi court, 
+however, equated “purpose to intimidate" with "motive," 
+(Pa22), and this Court is “bound by a state court's 
+construction of a state statute." Wisconsin v. Mitchell, 508 
+U.S. 476, 483 (1993). Motive has been recognized by this 
+Court to be a traditional sentencing factor. Jd. at 485; see 
+also State v. Mortimer, 135 N.J. 517, 528, 641 A.2d 517, 
+528, cert. denied, 513 U.S. 970 (1994). Motive, not criminal 
+intent, is what New Jersey's Hate Crime Statute punishes. 
+
+
+By petitioner's own admission at the plea hearing, his 
+criminal intent or mens rea, that is, his unlawful purpose for 
+shooting at the Fowlkes’ house, was to frighten or harass the 
+family asleep inside. (T22-4 to 29-18). Petitioner's reason 
+for wanting to scare the family, that is, his motive, was to 
+send the Fowlkes family "a message" that blacks were 
+unwelcome in petitioner's neighborhood. (Pal74-78, 299). 
+While the prosecution bore the burden to prove petitioner's 
+criminal intent (his unlawful purpose) behind the shooting (his 
+conduct), it had no burden to prove that his conduct was 
+influenced by racial hatred (his motive). Motive is relevant to 
+the issue of intent but is not an essential element of any crime 
+in New Jersey, State v. Beard, 16 N.J. 50, 60-61, 106 A.2d 
+265, 270 (1954); State v. Cherry, 289 N.J. Super. 503, 529, 
+674 A.2d 589, 602 (App Div. 1995), including possession of 
+a weapon for an unlawful purpose. State v. Harmon, 104 
+N.J. 189, 212, 516 A.2d 1047, 1059 (1986). 
+
+
+New Jersey's Hate Crime Statute gives "no impression of 
+having been tailored to permit the [racial animosity] finding to 
+be a tail which wags the dog of the substantive offense." 
+McMillan v. Pennsylvania, 477 U.S. 79, 88 (1986). 
+N.J.Stat.Ann. 2C:44-3e does not create any impermissible 
+presumptions nor relieve the prosecution of its burden of 
+proving guilt; indeed, it is entirely inapplicable unless the 
+prosecution first proves a defendant's guilt of the underlying 
+
+
+11 
+
+
+offense beyond a reasonable doubt. See McMillan, 477 U.S. 
+at 87. The differential in sentencing is not between a nominal 
+fine and mandatory life sentence, see Mullaney v. Wilbur, 421 
+U.S. 684, 700 (1975), but merely increases the ordinary 
+sentencing range for a second degree offense of between five 
+to ten years, N.J.Stat.Ann. 2C:43-6a(2) (West 1995), to an 
+extended range of between ten and twenty years, 
+N.J.Stat.Ann. 2C:43-7a(3) (West 1995). The statute does not 
+change the definition of any existing offense or create a 
+separate offense calling for a separate penalty, and there is 
+nothing to imply that the state legislature drafted this statute 
+to avoid the prosecution's reasonable doubt standard. See 
+McMillan, 477 U.S. at 89-90; see also Pa20-22. The New 
+Jersey Legislature "simply took one factor that has always 
+been considered by sentencing courts to bear on punishment 
+... and dictated the weight to be given that factor...." 
+McMillan, 477 U.S. at 89-90. 
+
+
+Although the McMillan Court speculated in dicta that the 
+claim that a sentencing factor was really an element of the 
+offense "would have at least more superficial appeal" if a 
+finding of such fact exposed the defendant to greater or 
+additional punishment, id. at 88, that consideration was 
+subsequently criticized in Almendarez-Torres v. United States, 
+523 U.S. 224, 118 S.Ct. 1219 (1998), in which this Court 
+rejected the argument that any factor triggering an increase in 
+the maximum permissive sentence is an element of the offense 
+which must be proven beyond a reasonable doubt. 
+
+
+In Almendarez-Torres, this Court held that subsection 
+(b)(2) of 8 U.S.C. § 1326 did not describe an element of an 
+offense but was simply a sentence enhancer. Subsection (a) of 
+this statute defines a crime by forbidding an alien who once 
+was deported to return to the United States without special 
+permission, and it authorizes the imposition of a prison term 
+of up to, but no more than, twenty years for "an alien 
+described" in subsection (a), if the initial "deportation was 
+subsequent to a conviction for commission of an aggravated 
+felony." 8 U.S.C. § 1326(b)(2). The validity of this 
+
+
+12 
+
+
+sentencing scheme was due, in part, to the “longstanding 
+tradition of treating recidivism as ‘going to the 
+only.'" Almendarez-Torres, 118 S.Ct. at 1230-31 (quoting 
+Graham v. West Virginia, 224 U.S. 616, 629 (1912)). 
+
+
+Recently revisiting the sentencing factor/element 
+
+in Jones v. United States, 526 U.S. 227, 119 S.Ct. 1215 
+(1999), this Court determined that a penalty provision based 
+on a finding of serious bodily injury or death intertwined 
+within the definition of the substantive crime of 
+
+under the federal carjacking statute, 18 U.S.C. § 2119, was 
+not a sentence enhancer that could be found by the sentencing 
+court by a preponderance of the evidence, but was historically 
+an element of the offense that had to be proven to the trier of 
+fact beyond a reasonable doubt. The federal carjacking statute 
+was structurally muddled in its treatment of injury as an 
+element or penalty factor, thus prompting the Jones Court to 
+consider the “traditional treatment of certain categories of 
+important facts ... in relation to particular crimes." Jones, 
+119 S.Ct. at 1220. Under this approach, the enhanced penalty 
+provision of the federal carjacking statute could not be viewed 
+aS a mere sentencing factor because the degree of injury to a 
+victim has traditionally been treated, both by Congress and by 
+state legislatures (including New Jersey, see State v. Federico, 
+103 N.J. 169, 510 A.2d 1147 (1986)), as an element of the 
+predicate offense, such as aggravated robbery. Jones, 119 
+S.Ct. at 1220.° 
+
+
+. This Court also took a structural approach in Almendarez- 
+Torres, 118 S.Ct. at 1224-26, and in Jones, 119 S.Ct. at 1219-1222, to 
+determine whether Congress intended to create new substantive offenses. 
+Under this analysis, the extended term provision of New Jersey's Hate 
+Crime Statute is clearly constitutional. The statute appears in a general 
+sentencing provision of New Jersey's Code of Criminal Justice entitled 
+"Authority of Court in Sentencing,” and was adopted long after the Code's 
+provisions establishing the underlying crimes. State v. Apprendi, 304 NJ. 
+Super. 147, 160, 698 A.2d 1265, 1272 (App. Div. 1997) (Stern, J., 
+
+(continued...) 
+
+
+13 
+
+
+In reaching this result, this Court was careful not to 
+overrule its prior decision in Almendarez-Torres that “not 
+every fact expanding a penalty range must be stated in a 
+felony indictment." Jones, 119 S.Ct. at 1226-27. Instead, the 
+Jones Court acknowledged that recidivism, the factor in issue 
+in Almendarez-Torres, historically is treated as a sentencing 
+enhancer and is “potentially distinguishable for constitutional 
+purposes from other facts that might extend the range of 
+possible sentencing." Jones, 119 S.Ct. at 1227. Similarly, 
+the instrumentality used in committing a violent felony "has 
+always been considered by sentencing courts to bear on 
+punishment." McMillan, 477 U.S. at 89-90 (this Court found 
+constitutional a provision of Pennsylvania's Mandatory 
+Minimum Sentencing Act, 42 Pa.Const.Stat.Ann. § 9712, 
+authorizing judges to sentence anyone convicted of certain 
+enumerated felonies to no less than five years imprisonment 
+if the judge finds, by preponderance of the evidence, that the 
+person “visibly possessed a firearm" during the commission 
+of the offense). 
+
+
+‘(...continued) 
+concurring) (Pa79). The statute is expressly designated “Criteria for 
+sentence of extended term of imprisonment." The plain language and 
+structure of the Hate Crime Statute unquestionably establishes that the 
+Statute does not add any new elements to any crime as defined in the Code, 
+but was intended only as a sentencing enhancer. See Jones, 119 S.Ct. at 
+1219 ("some statutes come with the benefit of provisions straightforwardly 
+addressing the distinction between elements and sentencing factors”) and 
+McMillan, 477 U.S at 85-86 (express identification of statutory provision 
+as sentencing factor). 
+
+
+The Supreme Court of New Jersey, however, chose not to rely upon 
+this structural approach: “Merely because the Legislature has placed the 
+hate-crimes enhancer within the sentencing provisions of the Code of 
+Criminal Justice does not mean that the finding of a biased purpose to 
+intimidate is not an essential element of the offense.” (Pal6). The court 
+relied instead on the constitutional analysis employed by the Almendarez- 
+Torres Court, thus removing all reservations about the constitutionality of 
+the extended term provision of the Hate Crime Statute. 
+
+
+14 
+
+
+Any claim by petitioner that Jones leaves open the 
+question whether any fact resulting in a substantial increase in 
+the penalty range is necessarily an essential element that must 
+be proven beyond a reasonable doubt is rebuffed by the Jones 
+Court's outright approval of the challenged statute in 
+Almendarez-Torres authorizing a sentencing court to increase 
+the punishment for a recidivist deportee from two years 
+imprisonment, 8 U.S.C. § 1326(a), to twenty years 
+imprisonment, 8 U.S.C. § 1326(b)(2). Jones, 119 S.Ct. at 
+1227. The Jones Court said, “our decision today does not 
+‘announce any new principle of constitutional law, but merely 
+interprets a particular federal statute in light of a set of 
+constitutional concerns that have emerged through a series of 
+our decisions over the past quarter century." /d. at 1228 
+n.l1. The penalty enhancer embodied in N.J.Stat.Ann. 
+2C:44-3e is based upon the traditional nature of motive as a 
+sentencing factor; consequently, motive need not be charged 
+in the indictment, Almendarez-Torres, nor must it be 
+submitted to the jury and proven beyond a reasonable doubt, 
+Jones. 
+
+
+Significantly, N.J. Court Rule 3:21-4(e) requires the 
+prosecution to give notice to the defendant of its intention to 
+seek an extended term under N.J.Stat.Ann. 2C:44-3e within 
+fourteen days of the entry of the defendant's guilty plea or of 
+the return of the verdict or, where the defendant is pleading 
+guilty pursuant to a negotiated disposition, at or prior to the 
+plea. N.J.Stat.Ann. 2C:44-3e permits the sentencing court to 
+impose an extended term only after finding racial bias by a 
+preponderance of the evidence. The Hate Crime Statute thus 
+affords criminal defendants the requisite procedural safeguards 
+of notice and opportunity to be heard. Compare Specht v. 
+Patterson, 386 U.S. 605, 608 (1967) (commitment 
+proceedings under Colorado Sex Offenders Act did not permit 
+defendant an opportunity to present his own evidence or 
+confront witnesses against him). Petitioner here in fact knew 
+of the State's intention to seek an extended term prior to the 
+entry of his guilty plea (T9-20 to 10-8), and offered the 
+
+
+SR Betas ee 
+
+
+15 
+
+
+testimony of seven character witnesses and one expert witness 
+at the sentencing hearing before Judge Ridgway. (Pal82- 
+235). As such, N.J.Stat.Ann. 2C:44-3e comports with due 
+process of law. 
+
+
+One final point bears noting. The Supreme Court of New 
+Jersey did not "invite" this Court to review the extended term 
+provision of New Jersey's Hate Crime Statute; what the state 
+court said was that at some future date this Court, in its 
+supervisory capacity, would likely scrutinize "the recently 
+enacted amendments to the federal sentencing guidelines 
+[which] now include a hate crime penalty enhancement 
+provision that applies to all federal crimes." (Pal7-18). 
+Petitioner, of course, was not sentenced under the federal 
+Statute and has no standing before this Court to challenge its 
+constitutionality. The question presented by petitioner, 
+“whether this Court should decline the invitation of the New 
+Jersey Supreme Court" to review N.J.Stat.Ann. 2C:44-3e, 
+should be answered with a resounding "yes." 
+
+
+In sum, New Jersey's Hate Crime Statute creates a 
+constitutionally-valid statutory scheme permitting the 
+sentencing court to impose an extended term of imprisonment 
+once it is satisfied by a preponderance of the evidence that the 
+underlying crime was racially motivated. The New Jersey 
+Legislature did not create a new element of any offense that 
+must be proven beyond a reasonable doubt, but took "one 
+factor that has always been considered by sentencing courts to 
+bear on punishment and dictated the weight to be given that 
+factor." (Pa22). The conclusion reached by the Supreme 
+Court of New Jersey that the Hate Crime Statute does not 
+transgress the constitutional limits erected by this Court is 
+firmly supported by this Court's decisions addressing the 
+"sentencing factors versus elements" debate and insures that 
+petitioner's constitutional rights were fully protected. 
+
+
+16 
+
+
+CONCLUSION 
+
+
+Based on the foregoing arguments, the State respectfully 
+requests that the petition for a writ of certiorari be denied. 
+
+
+Respectfully submitted, 
+
+
+JOHN J. FARMER, JR. 
+Attorney General of New Jersey 
+
+
+Attorney for Respondent 
+LISA SARNOFF GOCHMAN 
+
+
+Deputy Attorney General 
+Attorney of Record 
+
+
+Dated: October 20, 1999 
+
+

@@ -1,0 +1,811 @@
+Dan 1a deud (w) F 
+
+
+ee,  —— 
+
+
+No. 99-5525 
+
+
+——_—_—_—_—_——— 
+
+
+In The 
+Supreme Court of the United States 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+vs. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF 
+AMICI CURIAE 
+OF 
+AMERICANS FOR EFFECTIVE 
+LAW ENFORCEMENT, INC., 
+JOINED BY THE 
+INTERNATIONAL ASSOCIATION OF 
+CHIEFS OF POLICE, INC., THE 
+NATIONAL SHERIFFS’ ASSOCIATION, 
+AND THE 
+VIRGINIA ASSOCIATION OF CHIEFS OF POLICE 
+IN SUPPORT OF NEITHER PARTY. 
+
+
+(List of Counsel on Inside Front Cover) 
+
+
+DF \ELD 
+
+
+Of Counsel: _ Counsel For Amici Curiae: 
+
+
+GENE VOEGTLIN, ESQ. WAYNE W. SCHMIDT, ESQ. 
+International Association of Executive Director 
+Chiefs of Police, Inc. Americans for Effective 
+515 North Washington St. Law Enforcement, Inc. 
+Alexandria, Virginia 22312 5519 N. Cumberland Ave. 
+Suite 1008 
+
+
+RICHARD WEINTRAUB, ESQ. _ Chicago, Illinois 60656 
+National Sheriffs’ Association E-mail: AELE@aol.com 
+1450 Duke Street 
+Alexandria, Virginia 22314 JAMES P: MANAK, ESQ. 
+
+
+Counsel of Record 
+BERNARD J. FARBER, ESQ. 421 Ridgewood Avenue 
+1126 West Wolfram Suite 100 
+Chicago, Illinois 60657-4330 Glen Ellyn, Illinois 60137 
+Tele/Fax (630) 858-6392 
+DANA SCHRAD, ESQ. E-mail: lelp@xnet.com 
+Executive Director 
+Virginia Association of 
+Chiefs of Police 
+1606 Santa R.sa Road 
+Suite 134 
+
+
+Richmond, Virginia 23288 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES ................ 
+BRIEF OF AMICI CURIAE ................ 
+INTEREST OF AMICI CURIAE ............. 
+STATEMENT OF THE CASE............... 
+
+
+SUMMARY OF ARGUMENT .............. 
+
+
+THIS COURT SHOULD AFFIRM THAT 
+THE RULE OF MIRANDA v. ARIZONA IS 
+NOT A CONSTITUTIONAL MANDATE 
+AND THAT VOLUNTARINESS IS THE 
+SOLE TEST FOR CONFESSION ADMISSI- 
+ET Bde ees a cbeeedesebeedecsceess 
+
+
+A. AMICI DONOT SEEK A REVERSAL 
+OF MIRANDA v. ARIZONA ............. 
+
+
+B. AMICI SUBMIT THAT MIRANDA IS 
+NOT A CONSTITUTIONAL MANDATE .. 
+
+
+C. AMICI SUBMIT THAT 18 U.S.C. § 3501 
+AND SIMILAR PROVISIONS AS MAY BE 
+PASSED IN THE FUTURE BY THE 
+STATES ON THIS SUBJECT ARE CON- 
+STITUTIONAL AND APPROPRIATE EX- 
+
+
+CLUSIONARY RULE REFORM, AS WELL 
+AS CARRYING OUT THE ESSENTIAL 
+PURPOSE OF MIRANDA OF ENSURING 
+VOLUNTARY CONFESSIONS ........... 9 
+
+
+D. AMICI SUBMIT THAT POLICE AD- 
+MINISTRATORS AND PROSECUTORS 
+WILL ENCOURAGE THE POLICE TO 
+CONTINUE TO GIVE MIRANDA WARN- 
+INGS AS AN IMPORTANT INDICIA OF 
+CONFESSION VOLUNTARINESS ....... 12 
+
+
+COTATI, oc ccccccccesecseccccccceecs 14 
+
+
+i| 
+
+
+TABLE OF AUTHORITIES 
+Cases Page 
+
+
+Bivens v. Six Unknown Agents, 
+
+er ee NE o cedsesedeeecéiventes 8 
+California Attorneys for Criminal Justice v. 
+
+Butts, 195 F.3d 1039 (9th Cir. 1999), 
+
+
+ED oncoccccpscevousésua 8 
+Cooper v. Dupnik, 963 F.2d 1220 
+
+Ae Ee eS 8 
+Harris v. New York, 401 U.S. 222 (1971) ...... 4,9 
+Michigan v. Tucker, 417 U.S. 433 (1974) ...... 4,9 
+Miranda v. Arizona, 384 U.S. 436 (1966) .... passim 
+New York v. Quarles, 467 U.S. 649 (1984) ..... 3,9 
+Oregon v. Elstad, 470 U.S. 298 (1985) ...... 3, 9, 12 
+Oregon v. Hass, 420 U.S. 714 (1975) ......... 4,9 
+Schneckloth v. Bustamonte, 
+
+Se ED oc dddeVeesdes 6s en out 13 
+United States v. Crocker, 510 F.2d 1129 
+
+Pn GUD bdodbdadeaudedoedcuedss 11 
+United States v. Dickerson, 166 F. 3d 667 
+
+(4th Cir. 1999), reh'’g denied en banc ...... 3, 6 
+
+
+United States v. Nafkha, 1998 U.S. App. LEXIS 
+1653, 1998 WL 45492 (unpublished 
+
+
+opinion 10th Circuit) ................... 11 
+United States v. Rivas-Lopez, 988 F. Supp. 1424 
+
+Per er or errr ee ll 
+United States v. Tapia-Mendoza, 41 F. Supp. 2d 
+
+es CUE ING 6.0 codiecetcbSesestes 11 
+
+
+Constitution 
+United States Constitution, IV ................ 12 
+United States Constitution, V ............. passim 
+United States Constitution, VI............. passim 
+United States Constitution, XIV ............... 4 
+Statutes 
+Sn IEEE ances cdcdccavcsoeneéees passim 
+DP > ) ss cdccbedecdsoseeebeses 8 
+SPE bnceeccoventinesssbceeuuuun 8 
+Briefs 
+AELE Amici Brief for Petitioner, Jilinois v. Gates, 
+ID a ocean ode necede cenhs ll 
+AELE Amici Brief for Neither Party, Ohio v. 
+Robinette, 519 U.S. 997 (1996) ........... 12 
+AELE Amici Brief for Petitioner, United States 
+v. Leon, 468 U.S. 897 (1984) ............. ll 
+Article 
+F. Graham, The Self-Inflicted Wound (1970) ...... 7 
+Supreme Court Will Review Miranda, 33, No. 49 
+Crime Control Dig. 1 (1999)............... 7 
+
+
+= er [her 
+
+
+This brief is filed pursuant to Rule 37 of the United 
+States Supreme Court. Consent to file has been granted 
+by respective Counsel for the Petitioner and 
+The letters of consent have been filed with the Clerk of 
+this Court, as required by the Rules.' 
+
+
+INTEREST OF AMICI CURIAE 
+
+
+Americans for Effective Law Enforcement, Inc. 
+(AELE), as a national not-for-profit citizens organiza- 
+tion, is interested in establishing a body of law making 
+the police effort more effective, in a constitutional 
+manner. It seeks to improve the operation of the police 
+function to protect our citizens in their life, liberties, and 
+property, within the framework of the various state and 
+federal constitutions. 
+
+
+AELE has previously appeared as amicus curiae 
+over 100 times in the Supreme Court of the United States 
+
+
+and over 35 times in other courts, including the Federal 
+District Courts, the Circuit Courts of Appeal and various 
+state courts, such as the Supreme Courts of California, 
+Illinois, Ohio, and Missouri. 
+
+
+' As required by Rule 37.6 of the United States Supreme Court, the 
+following disclosure is made: This brief was authored for the amici 
+by James P. Manak, Esq., counsel of record, and Wayne W. 
+Schmidt, Esq., Executive Director of Americans for Effective Law 
+for Effective Law Enforcement, Inc., made the complete monetary 
+contribution to the preparation and submission of this brief, without 
+financial support from any source, directly or indirectly. 
+
+
+2 
+
+
+The International Association of Chiefs of Police, 
+Inc. (IACP), is the largest organization of police 
+executives and line officers in the world. Founded in 
+1893, the IACP, with more than 17,000 members in 112 
+countries, is the world’s oldest and largest association of 
+police executives. IACP’s mission, throughout the 
+history of the association, has been to identify, address, 
+and provide solutions to urgent law enforcement issues. 
+
+
+The National Sheriffs’ Association (NSA), is the 
+largest organization of sheriffs and jail administrators in 
+America, consisting of over 40,000 members. It con- 
+ducts programs of training, publications, and related 
+educational efforts to raise the standard of professional- 
+ism among the nation’s sheriffs and jail administrators. 
+While it is interested in the effective administration of 
+justice in America, it strives to achieve this while 
+respecting the rights guaranteed to all under the Consti- 
+tution. 
+
+
+The Virginia Association of Chiefs of Police 
+(VACP) is a professional membership association rep- 
+resenting federal, state, and local law enforcement 
+executives in the state of Virginia. The Association 
+regularly provides certified training and professional 
+conference services for its members. 
+
+
+Amici are national and state professional associa- 
+tions representing the interests of law enforcement 
+agencies at the state and local levels. Our members 
+include: (1) law enforcement officers and law enforce- 
+ment administrators who are charged with the responsi- 
+bility of overseeing the process of interrogations; and (2) 
+police legal advisors who, in their criminal jurisdiction 
+
+
+aw 
+a ae _ 
+
+
+3 
+
+
+capacity, are called upon to advise law enforcement 
+officers and administrators in connection with such 
+matters, including the formulation and implementation of 
+policy and procedures on the subject. 
+
+
+Because of the relationship with our members, and 
+the composition of our membership and directors— 
+including active law enforcement administrators and 
+counsel—we possess direct knowledge of the impact of 
+the ruling of the court below, and we wish to impart that 
+
+
+knowledge to this Court. — 
+
+
+STATEMENT OF THE CASE 
+
+
+Amici reference the facts of the case which are 
+recounted in the opinion below, United States v. 
+Dickerson, 166 F. 3d 667, 674-77 (4th Cir. 1999), reh'g 
+denied en banc. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This case is not about whether Miranda warnings 
+should be discontinued. 
+
+
+Amici do not seek a reversal of Miranda v. Arizona, 
+384 U.S. 436 (1966). We do, however, submit that the 
+rule in that case is not of constitutional dimension, that 
+it is rather a “prophylactic” rule designed by the Court as 
+an extra-constitutional means of ensuring police 
+compliance with the fifth amendment protection against 
+self-incrimination, as the Court has indicated in its rul- 
+ings in Oregon v. Elstad, 470 U.S. 298 (1985); New York 
+
+
+4 
+
+
+v. Quarles, 467 U.S. 649 (1984); Oregon v. Hass, 420 
+U.S. 714 (1975); Michigan v. Tucker, 417 U.S. 433 
+(1974); Harris v. New York, 401 U.S. 222 (1971); and 
+other cases. 
+
+
+We urge the Court to adopt the ruling of the court 
+below that 18 U.S.C. § 3501, and similar provisions as 
+may be enacted into statutory law or court rules by the 
+states in the future, are constitutional and appropriate 
+exercises of legislative and judicial powers. Such provi- 
+sions carry out the invitation of Miranda itself for further 
+experimentation by the states and federal authorities to 
+seek alternative means of protecting defendants’ fifth and 
+sixth amendment rights. Amici have long encouraged 
+reform of the exclusionary rule, which we submit such 
+legislative effort supports, as well as the broader goal of 
+ensuring voluntary confessions. 
+
+
+We also believe that law enforcement agencies and 
+officers will continue to use the Miranda warnings, no 
+matter what the Court’s ruling may be in this case. We 
+believe that the warnings of constitutional rights are 
+viewed as accepted practice and procedure and will 
+continue to be critical indicia for suppression hearing 
+courts and trial courts on the issue of voluntariness under 
+the fifth and fourteenth amendments. 
+
+
+ARGUMENT 
+
+
+THIS COURT SHOULD AFFIRM THAT THE 
+RULE OF MIRANDA v. ARIZONA IS NOT A CONSTI- 
+TUTIONAL MANDATE AND THAT VOLUNTARI- 
+NESS IS THE SOLE TEST FOR CONFESSION 
+
+
+= 
+
+
+ADMISSIBILITY. 
+
+A. AMICI DO NOT SEEK A REVERSAL OF 
+MIRANDA vy. ARIZONA. 
+
+B. AMICI SUBMIT THAT MIRANDA IS NOT A 
+CONSTITUTIONAL MANDATE. 
+
+C. AMICI SUBMIT THAT 18 U.S.C. § 3501 AND 
+SIMILAR PROVISIONS AS MAY BE PASSED IN 
+THE FUTURE BY THE STATES ON THIS SUBJECT 
+ARE CONSTITUTIONAL AND APPROPRIATE 
+EXCI USIONARY RULE REFORM, AS WELL AS 
+CARRYING OUT THE ESSENTIAL PURPOSE OF 
+M/RANDA OF ENSURING VOLUNTARY CONFES- 
+SIONS. 
+
+D. AMICI SUBMIT THAT POLICE ADMINIS- 
+TRATORS AND PROSECUTORS WILL ENCOUR- 
+AGE THE POLICE TO CONTINUE TO GIVE 
+MIRANDA WARNINGS AS AN IMPORTANT 
+INDICIA OF CONFESSION VOLUNTARINESS. 
+
+
+Over thirty years ago Congress passed 18 U.S.C. § 
+3501, ostensibly overruling Miranda for the federal 
+courts and federal law enforcement agencies. Section 
+3501 makes traditional due process voluntariness the sole 
+standard for the admissibility of confessions and 
+incriminating statements in federal courts, the standard 
+that existed prior to the Miranda extra-constitutional rule 
+of warnings of fifth and sixth amendment rights. 
+
+
+Section 3501, however, led a very lonely existence 
+after it was passed in 1968. It was ignored by federal 
+prosecutors and federal courts and greeted with hostility 
+by the United States Justice Department over the years, 
+
+
+up to the present case. 
+
+
+6 
+
+
+A panel of the court below ruled 2-1 that a 
+confession which is determined to be voluntary may be 
+admitted as evidence in federal court despite a technical 
+violation of Miranda pursuant to § 3501, and the court 
+en banc declined reconsideration. 
+
+
+The court below stated: 
+
+In response to the Supreme Court’s decision 
+in Miranda v. Arizona, 384 U.S. 436 (1966), 
+the Congress of the United States enacted 18 
+U.S.C.A. § 3501 (West 1985), with the clear 
+intent of restoring voluntariness as the test 
+for admitting confessions in federal court. 
+Although duly enacted by the United States 
+Congress and signed into law by the 
+President of the United States, the United 
+States Department of Justice has steadfastly 
+refused to enforce the provision. In fact, 
+after initially “taking the Fifth” on the 
+statute’s constitutionality, the Department of 
+Justice has now asserted, without expla- 
+nation, that the provision is unconstitutional. 
+With the issue squarely presented, we hold 
+that Congress, pursuant to its power to 
+establish the rules of evidence and procedure 
+in the federal courts, acted well within its 
+authority in enacting § 3501. As a 
+consequence, § 3501, rather than Miranda, 
+governs the admissibility of confessions in 
+federal court. Accordingly, the district court 
+erred in suppressing Dickerson’s voluntary 
+confession on the grounds that it was 
+obtained in technical violation of Miranda. 
+
+Dickerson, 166 F.3d at 671. 
+
+
+7 
+
+
+Amici note that the Miranda decision has been 
+controversial for many, in and outside of law enforce- 
+ment. As noted by one commentator after the grant of — 
+certiorari in this case: 
+
+While law enforcement authorities 
+initially hated the decision, many within and 
+outside the profession, believe that it 
+actually helped to make police more profes- 
+sional. Some have even argued that having 
+the Miranda warnings imposed on the police 
+made them improve their investigative skills. 
+However, opposition to and criticism of the 
+decision has never really gone away. 
+
+Supreme Court Will Review Miranda, 33, No. 49 Crime 
+Control Dig. 1 (1999). See also F. Graham, The Self- 
+Inflicted Wound (1970). 
+
+
+In view of the many divergent views expressed by 
+the several other amici in this case, we will not burden 
+the Court with case law development, but state simply 
+the following on behalf of our constituency of law 
+enforcement administrators and officials: 
+
+
+A. AMICI DO NOT SEEK A REVERSAL OF 
+MIRANDA v. ARIZONA. 
+
+
+We believe that law enforcement officers and 
+officials have well-assimilated the Miranda rules into 
+their policies and procedures. The overwhelming 
+majority of officers on the street today have been trained 
+in tlc post-Miranda era. Officers follow that decision 
+and do not concern themselves, for the most part, with 
+the academic and political debate over the warnings’ 
+
+
+constitutional or extra-constitutional nature. They leave 
+that for academicians and policy makers. 
+
+
+As policy makers and law enforcement officials, 
+amici are primarily concerned with obtaining clear 
+guidance from the Court which they can put into 
+appropriate policy and procedure. They are also 
+concerned with the civil liability ramifications of the 
+Court’s decision in this case. Obviously, if the Court 
+rules that Miranda is a constitutional mandate, there is 
+the possibility of civil liability exposure for intentional 
+violations under the Federal Tort Claims Act, 28 U.S.C. 
+§ 2680(h), Bivens v. Six Unknown Agents, 403 U.S. 388 
+(1971) (federal agents), and 42 U.S.C. § 1983 (state and 
+local officers). See Cooper v. Dupnik, 963 F.2d 1220 
+(9th Cir. 1992), and California Attorneys for Criminal 
+Justice v. Butts, 195 F.3d 1039 (9th Cir. 1999), reh'g 
+denied en banc. 
+
+
+Whatever the ultimate ruling of the Court in this 
+case, however, we respectfully request clear guidance, 
+not only for the law enforcement community, but also for 
+the state legislatures and state supreme courts which may 
+consider the adoption of appropriate statutes and court 
+rules after the decision in this case. 
+
+
+B. AMICI SUBMIT THAT MIRANDA IS NOT A 
+CONSTITUTIONAL MANDATE. 
+
+
+The brief of professor Paul G. Cassell on the 
+petition for writ of certiorari, and now as appointed 
+counsel for the respondent on the limited issue of § 
+3501’s constitutionality, contains several arguments on 
+the issue of whether Miranda is (a) A rule of constitu- 
+
+
+9 
+
+
+tional law or (b) A “prophylactic” rule of evidence, 
+extra-constitutional in nature and designed to protect 
+fifth and sixth amendment rights. The cases that we have 
+cited above, Oregon v. Elstad, 470 U.S. 298 (1985); New 
+York v. Quarles, 467 U.S. 649 (1984); Oregon v. Hass, 
+420 U.S. 714 (1975); Michigan v. Tucker, 417 U.S. 433 
+(1974); Harris v. New York, 401 U.S. 222 (1971), ail 
+lead to one conclusion, i.e., that (b) is the correct answer 
+for this issue. Amici will not burden the Court with 
+redundancy of case law development. 
+
+
+C. AMICI SUBMIT THAT 18 U.S.C. § 3501 AND 
+SIMILAR PROVISIONS AS MAY BE PASSED IN 
+THE FUTURE BY THE STATES ON THIS SUBJECT 
+ARE CONSTITUTIONAL AND APPROPRIATE 
+EXCLUSIONARY RULE REFORM, AS WELL AS 
+CARRYING OUT THE ESSENTIAL PURPOSE OF 
+MIRANDA OF ENSURING VOLUNTARY CONFES- 
+SIONS. 
+
+
+Frior to the Miranda decision in 1966 when the 
+sweeping exclusionary rule was adopted, there were no 
+statutory provisions similar to § 3501. In adopting what 
+the Court viewed as a necessary “prophylactic” rule, it 
+made clear that it did not wish to “create a constitutional 
+strait jacket which will handicap sound efforts” by the 
+federal and state authorities to construct rules and 
+statutes to ensure compliance with the fifth amendment 
+in custodial interrogation settings. The Miranda decision 
+was clearly not intended to be the “last word” on the 
+subject. In encouraging further development for the 
+protection of defendants’ rights by the states and federal 
+government by appropriate and innovative procedures, 
+the Court indicated that it wished primarily to “promot[e] 
+
+
+10 
+
+
+efficient enforcement of our criminal laws.” ' Miranda, 
+384 U.S. at 467. 
+
+
+The Court, in effect, issued an invitation to the 
+states and Congress to be innovative and devise 
+procedures that carried out Miranda's mission, and 
+perhaps as well, in a more refined and sophisticated 
+manner than Miranda’s rather blunt, mechanical 
+
+
+regimen. 
+
+
+Section 3501 is Congress’s acceptance of that 
+invitation. Obviously, the invitation would not have been 
+placed on the table by this Court in the first place if the 
+Court believed it had constructed a constitutional 
+mandate in Miranda, and this view has been borne out 
+by subsequent decisions of the Court noted above. 
+
+
+Section 3501 may also be viewed as an example of 
+exclusionary rule reform. It is a sophisticated, well- 
+
+
+thought-out procedural and remedial approach which | 
+
+
+incorporates Miranda-style warning indicia for volun- 
+tariness in subsection (b) (3) and (4): 
+§ 3501. Admissibility of confessions 
+
+
+(b) The trial judge in determining the 
+issue of voluntariness shall take into consid- 
+eration all the circumstances surrounding the 
+giving of the confession, including (1) the 
+time elapsing between arrest and arraignment 
+of the defendant making the confession, if it 
+was made after arrest and before arraign- 
+ment, (2) whether such defendant knew the 
+nature of the offense with which he was 
+
+
+charged or of which he was suspected at the 
+
+
+time of making the confession, (3) whether 
+or not such defendant was advised or knew 
+that he was not required to make any 
+statement and that any such statement could 
+be used against him, (4) whether or not such 
+defendant had been advised prior to ques- 
+tioning of his right to the assistance of 
+counsel; and (5) whether or not such defend- 
+ant was without the assistance of counsel 
+when questioned and when giving such 
+confession. 
+
+The presence or absence of any of the 
+above-mentioned factors to be taken into 
+consideration by the judge need not be 
+conclusive on the issue of voluntariness of 
+the confession. 
+
+18 U.S.C. § 3501(b) (emphasis added). 
+
+
+This view was adopted by the Tenth Circuit Court 
+of Appeals in United States v. Crocker, 510 F.2d 1129, 
+1137 (10th Cir. 1975) (alternative holding) and more 
+recently by two cases in the Tenth Circuit, United States 
+v. Rivas-Lopez, 988 F. Supp. 1424 (D. Utah 1997) and 
+United States v. Tapia-Mendoza, 41 F. Supp. 2d 1250 
+(D. Utah 1999). Two years ago the IACP, AELE, and 
+others filed a friend of the court brief in another § 3501 
+appeal, but the United States Court of Appeals reversed 
+the district court and found that the confession was 
+lawfully obtained, United States v. Nafkha, 1998 U.S. 
+App. LEXIS 1653, 1998 WL 45492 (unpublished 
+opinion, 10th Circuit), and did not reach the issue of § 
+3501’s constitutionality. 
+
+
+The LACP and AELE have been at the forefront of 
+
+
+12 
+
+
+exclusionary rule reform. See, e.g., our amici briefs in 
+Illinois v. Gates, 462 U.S. 213 (1983) and United States 
+v. Leon, 468 U.S. 897 (1984). Additionally, the LACP 
+has supported exclusionary rule reform in two member- 
+
+
+ship resolutions and in Congressional testimony. 
+
+
+Amici submit that the adoption of state legislative 
+provisions and state supreme court procedural rules 
+similar to § 3501 will further the general movement of 
+this Court and others for exclusionary rule reform in the 
+area of not only fifth amendment and sixth amendment 
+issues, but fourth amendment issues as well. Such efforts 
+will refine the protection of constitutional rights for 
+defendants in place of judicially-devised remedies such 
+as Miranda, which the Court noted in Oregon v. Elstad, 
+470 U.S. 298, 306-07 (1985), “sweeps more broadly than 
+the Fifth Amendment itself.” 
+
+
+D. AMICI SUBMIT THAT POLICE ADMINIS- 
+TRATORS AND PROSECUTORS WILL ENCOUR- 
+AGE THE POLICE TO CONTINUE TO GIVE 
+MIRANDA WARNINGS AS AN IMPORTANT 
+INDICIA OF CONFESSION VOLUNTARINESS. 
+
+
+As AELE, IACP, and NSA noted in our amici brief 
+in Ohio v. Robinette, 519 U.S. 997 (1996) (traffic 
+detainee need not be advised that traffic stop is over 
+before police request consent to search), even when 
+warnings of constitutional rights are not constitutionally 
+required, good policy and practice may be to give such 
+warnings. This Court has long recognized the value of 
+warnings in the fourth amendment consent to search 
+context as indicia of voluntariness, even though it has 
+
+
+» 
+
+
+13 
+
+
+required. Schneckloth v. Bustamonte, 412-U.S. 218 
+(1973). 
+
+
+Our point is simply this: if this Court approves the 
+constitutionality of § 3501 and continues the exclu- 
+sionary rule reform movement it has already put in place 
+
+
+' in post-Miranda cases, law enforcement officers will 
+
+
+undoubtedly be encouraged by police policies and 
+procedures—including prosecutorial policy direction-to 
+continue giving the warnings of fifth and sixth amend- 
+ment rights. This will especially be true if states adopt 
+legislative and court rule counterparts to § 3501 which 
+make the giving of warnings important indicia of 
+voluntariness, as is likely to be the legislative and court 
+rule approach. 
+
+
+In the end, the refinement of the process of 
+protecting defendants’ rights through various 
+procedural devices adopted by the states that was 
+envisioned by Miranda v. Arizona will take place and 
+the Miranda Court’s original goal wil) be achieved. 
+Post-Miranda development by the Court has been, in 
+essence, an evolutionary process. The Court has the 
+opportunity in this case, by upholding the 
+constitutionality of § 3501, to take Miranda’s salutary 
+purpose of ensuring voluntary confessions to a higher 
+level of refinement and development. 
+
+
+14 
+
+
+CONCLUSION 
+
+
+Amici urge this Court to uphold the constitutionality 
+of 18 U.S.C. § 3501 on the basis of its post-Miranda 
+
+
+precedents and sound judicial policy. 
+Respectfully submitted, 
+Of Counsel: Counsel for Amici Curiae: 
+GENE VOEGTLIN, ESQ. WAYNE W. SCHMIDT, ESQ. 
+; iota Aeereietional acetone 
+Chiefs of Police, Inc. Americans for Effective 
+515 North Washington St. Law Enforcement, Inc. 
+Alexandria, Virginia 22312 5519 N. Cumberland Ave. 
+Suite 1008 
+
+
+RICHARD WEINTRAUB, ESQ. Chicago, Illinois 60656 
+National Sheriffs’ Association E-mail: AELE@aol.com 
+1450 Duke Street 
+Alexandria, Virginia 22314 JAMES P. MANAK, ESQ. 
+
+
+Counsel of Record 
+BERNARD J. FARBER, ESQ. 421 Ridgewood Avenue 
+1126 West Wolfram Suite 100 
+Chicago, Illinois 60657-4330 Glen Ellyn, Illinois 60137 
+Tele/Fax (630) 858-6392 
+DANA SCHRAD, ESQ. E-mail: lelp@xnet.com 
+Executive Director 
+Virginia Association of 
+Chiefs of Police 
+1606 Santa Rosa Road 
+Suite 134 
+
+
+Richmond, Virginia 23288 
+
+

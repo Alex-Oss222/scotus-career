@@ -1,0 +1,23 @@
+{
+  "case": "Pegram v. Herdrich",
+  "record": "pegram-v-herdrich_merits_2000-06-12.md",
+  "blocks": "pass",
+  "holdings_identity": "pass",
+  "explanation_words": [
+    160,
+    153,
+    213
+  ],
+  "judgment_support": 9,
+  "Part_I": 9,
+  "Parts_II_III": 8,
+  "Stone": "Part I and judgment only; no fallback",
+  "no_overwrite": "pass",
+  "not_performed": [
+    "workspace integration",
+    "render input",
+    "term checks",
+    "Git commitment"
+  ],
+  "registered_investment_qualification": "Explicitly preserves plan coverage for company, adviser or principal-underwriter employees; both holdings copies identical"
+}

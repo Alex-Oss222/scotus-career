@@ -1,0 +1,13 @@
+# Crosby assembly validation
+
+Record: [Crosby v. National Foreign Trade Council, merits, June 19, 2000](../records/crosby-v-national-foreign-trade-council_merits_2000-06-19.md). Assembly validation completed November 3, 2026; effective decision date June 19, 2000.
+
+Result: affirmed 9–0; Chief Justice Stone-Zsela delivers one signed Opinion of the Court, joined throughout by all eight Associates. No separate writing. The single statutory-conflict holding rests on the integrated enacted arrangement, not legislative history or a free-standing foreign-affairs power.
+
+The form and proposition coalition were fixed before the fresh assignment count. Final count: Stone-Zsela 8; Stevens 9; O'Connor 10; Scalia 10; Kennedy 9; Souter 9; Thomas 10; Ginsburg 10; Breyer 9. Total 84. Last event: Arizona v. California, June 19, Stevens. All nine are eligible; minimum eight, pool ceiling nine. Stone-Zsela, Stevens, Kennedy, Souter and Breyer form the pool. The Record states the fit ground and strongest alternative. Arizona supplies assignment history only.
+
+The scoped validator passed the exact four opening labels, eleven Public Projection blocks in order, byte-equivalent internal/public Holdings, all nine judgment and direct-opinion supporters, the exact copied frozen commitment and reconciliation sections with every Associate row, the nine assignment counts and balance pool, fifteen relative links, and the public/private boundary. The controlling explanation is 279 words, below the 350-word ceiling. The generated file did not replace an existing Record.
+
+Substantive review preserved the limited grant, three independent grounds below, procurement injunction, distinct state medical-purchase alternatives and supplier exemption, essential-purchase and competition conditions, comparable-bid definition, news/telecommunications exemption, federal sanctions conditions, assistance exceptions, visa verb, waiver limits, new-investment definition/exclusion, and coordination/reporting duties. Every final join is compatible with the frozen ground and approved Stone position; no fallback or new Associate commitment is used. The historical Scalia/Thomas full-join departure is copied with its concrete changed-formulation basis.
+
+Both the final June 12 release and the clean/reconciled Harris relevance supplements were read before assignment. No resulting change in law, ground or join required new modeling. No same-day peer supplies substantive law. No Git commands or Git reference-existence checks were performed; the user prohibits them. This receipt certifies Record-level checks only; the coordinating operator performs workspace and generated Render Input integration and term-wide checking.

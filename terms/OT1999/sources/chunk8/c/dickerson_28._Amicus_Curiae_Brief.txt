@@ -1,0 +1,1239 @@
+No. 99-5525 
+
+
+In the 
+Supreme Court of the United States 
+
+
+CHARLES THOMAS DICKERSON, 
+
+
+Petitioner. 
+v. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+For the Fourth Circuit 
+
+
+BRIEF OF AMICI CURIAE CITIZENS FOR LAW AND 
+ORDER AND THE DORIS TATE CRIME VICTIMS 
+BUREAU URGING AFFIRMANCE 
+
+
+THEODORE M. COOPERSTEIN* 
+
+
+THEODORE M. COOPERSTEIN, P.C. 
+1815 Pennsylvania Avenue, N.W. 
+Suite 501 
+
+Washington, D.C. 20006 
+
+(202) 331-7895 
+
+
+*Counsel of Record 
+
+
+BEST AVAILABLE COPY 
+
+
+TABLE OF CONTENTS 
+TABLE OF AUTHORITIES 
+INTEREST OF AMICI] CURIAE 
+SUMMARY OF ARGUMENT 
+ARGUMENT 
+
+
+I. AN ADEQUATE LEGAL REMEDY EXISTS 
+FOR CONSTITUTIONAL VIOLATIONS BY 
+THE SOVEREIGN’S OFFICERS. 
+
+
+A. Wrongs of the Sovereign Are Attributable 
+to Its Servants, Not to the Sovereign Itself. 
+
+B. The Law A:fords A Cause of Action For 
+Damages as an Established Remedy for 
+Constitutional Torts. 
+
+
+Il. NO NEED OR BASIS REMAINS FOR THE 
+EQUITABLE REMEDY OF SUPPRESSION 
+OF EVIDENCE. 
+
+
+A. The Existence of an Adequate Remedy 
+at Law Obviates the Need for Equitable 
+Measures to Redress Constitutional 
+Wrongdoing. 
+
+B. The Court, No Less Than Congress, May 
+Not Fashion a Rule to Redefine a 
+Constitutional Right. 
+
+
+CONCLUSION 
+
+
+15 
+
+
+16 
+
+
+22 
+
+
+27 
+
+
+TABLE OF AUTHORITIES 
+| Page 
+CASES 
+Alden v. Maine, 527 U.S. 706 (1999) 8, 23 
+Anderson v. Creighton, 483 U.S. 635 (1987) 18 
+Bell v. Hood, 327 U.S. 678 (1946) 9,10,17 
+Bivens v. Six Unknown Named Agents 
+of the Federal Bureau of Narcotics, 
+| 403 U.S. 388 (1971) passim 
+Bradt v. Smith, 634 F.2d 796 (5" Cir.), 
+cert. denied, 454 U.S. 830 (1981) 14 
+Bush v. Lucas, 462 U.S. 367 (1983) 19 
+Butz v. Economou, 438 U.S. 478 (1978) 19 
+
+
+Carlson v. Green, 446 U.S. 14(1980) 12,13,15,20 
+Chisholm v. Georgia, 2 U.S. (2 Dall.) 
+
+419 (1793) 7 
+City of Boerne v. Flores, 521 U.S. 507 (1997) 25,26 
+Davis v. Passman, 442 U.S. 228 (1979) —:12,13,19 
+Department of the Army v. Blue Fox, Inc., 
+
+
+525 U.S. 255 (1999) 7 
+FDIC v. Meyer, 510 U.S. 471 (1994) 7 
+Heck v. Humphrey, 512 U.S. 477 (1994) 18 
+Irvine v. California, 347 U.S. 128 (1954) 22 
+Larson v. Domestic & Foreign Commerce 
+
+Corp., 337 U.S. 682 (1949) passim 
+
+
+eee ee 
+
+
+TABLE OF AUTHORITIES -- Continued 
+
+
+Page 
+Leatherman v. Tarrant County 
+Narcotics Intelligence & Coord. Unit, 
+507 U.S. 163 (1993) 18 
+Marbury v. Madison, 5 U.S. (1 Cranch) 
+
+137 (1803) 9,10 
+Miranda v. Arizona, 384 U.S. 436 (1966) passim 
+Mitchell v. Forsyth, 472 U.S. 511 (1985) 18 
+Monell v. Department of Social Servs., 
+
+436 U.S. 658 (1978) 18 
+Morales v. Trans World Airlines, Inc., 
+
+504 U.S. 374 (1992) 17 
+Nevada v. Hall, 440 U.S. 410 (1979) 7 
+Nixon v. Fitzgerald, 457 U.S. 731 (1982) 18 
+O'Shea v. Littleton, 414 U.S. 488 (1974) 17 
+Owen v. City of Independence, 445 U.S. 
+
+622 (1980) 18 
+Pulliam v. Allen, 466 U.S. 522 (1984) 18 
+Riley v. Dorton, 115 F.3d 1159 (4" Cir.), 
+
+cert. denied, 522 U.S. 1030 (1997) 14 
+Schweiker v. Chilicky, 487 U.S. 412 (1988) 19 
+Siegert v. Gilley, 500 U.S. 226 (1991) 18 
+
+
+Texas & N.O. R. Co. v. Brotherhood of 
+Ry. & S.S. Clerks, 281 U.S. 548 (1930) 9 
+United States v. Nafkha, 139 F.3d 913 
+
+
+(10" Cir. 1998) | | 
+United States v. Rivas-Lopez, 988 F. Supp. 
+1424 (D. Utah 1997) I 
+
+
+Wilkins v. May, 872 F.2d 190 (7" Cir. 1989), 
+
+
+_ 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES -- Continued 
+
+
+Page 
+cert. denied sub nom. Wilkins v. 
+McDaniel, 493 U.S. 1026 (1990) 14 
+Ex Parte Young, 209 U.S. 123 (1908) 8 
+Younger v. Harris, 401 U.S. 37 (1971) 17 
+CONSTITUTION AND STATUTES 
+U.S. Const. art. V 25 
+U.S. Const. art. VI, cl. 2 7 
+U.S. Const. amend. V passim 
+U.S Const. amend. XI 8 
+18 U.S.C. § 3501 1,2,13 
+28 U.S.C. § 2680(h) i8 
+42 U.S.C. § 1983 et seq. 18 
+OTHER 
+William Blackstone, Commentaries on 
+the Laws of England (1768) 5,7 
+
+
+Oliver Wendell Holmes, Jr., The Path of 
+
+the Law, 10 Harv. L. Rev. 457 (1897) 16 
+Brief for the United States, /NS v. 
+
+Lopez-Mendoza, No. 83-491 (U.S. 1984) 20 
+
+
+9 
+
+
+1 
+INTEREST OF AMICI CURIAE' 
+
+
+Citizens for Law and Order (“CLO”) is a 
+nonprofit corporation founded in 1970 to monitor 
+and improve the criminal justice system in the State 
+of California. Among CLO’s objectives are 
+monitoring races for judicial office in California to 
+ensure the proper administration of justice and 
+monitoring federal legislation to see that criminal 
+statutes are construed and applied in accordance 
+with the United States Constitution. CLO has 
+participated as an amicus curiae in previous 
+litigation concerning the federal statute codified at 
+18 U.S.C.§ 3501, including the submission of briefs 
+to the United States Court of Appeals for the Tenth 
+Circuit, in United States v. Nafkha, 139 F.3d 913 
+(10" Cir. 1998), and to the United States District 
+Court for the District of Utah, in United States v. 
+Rivas-Lopez, 988 F. Supp. 1424 (D. Utah 1997). 
+
+The Doris Tate Crime Victims Bureau (“the 
+Bureau”) is a California nonprofit organization 
+established in 1992 and dedicated to improving 
+public safety and helping the victims of crime and 
+their families. The Bureau advocates passage of 
+
+
+' The parties have consented to the submission of this brief. 
+Their letters of consent have been filed with the Clerk of this 
+Court. Pursuant to Supreme Court Rule 37.6, none of the 
+parties authored this brief in whole or in part and no one 
+other than amici, its members, or counsel contributed money 
+or services to the preparation or submission of this brief. 
+
+
+2 
+
+
+public safety legislation and legislation affecting 
+crime victims and their rights. It monitors elected 
+officials’ votes on issues of public safety and 
+victims’ rights legislation, and it works to bring 
+together and coordinate the efforts of crime victims 
+organizations throughout California in order to 
+increase their effectiveness. The Bureau is named 
+after the late victims’ rights crusader, Doris Tate, 
+whose daughter Sharon was brutally murdered in 
+1969 by members of the Charles Manson cult. 
+
+The issue before this Court is_ the 
+constitutionality of the federal statute codified at 18 
+U.S.C. § 3501, which in this case would permit the 
+admission into evidence of petitioner Charles 
+Dickerson’s voluntary confession to multiple bank 
+robberies, despite a technical violation of the 
+Court’s rule set out in Miranda v. Arizona, 384 U.S. 
+436 (1966), requiring the formal advice of four 
+rights to any suspect prior to custodial interrogation. 
+The possibility that suppression of truthful evidence 
+in criminal trials might result from the Court’s 
+ruling on Section 3501 threatens to impede the 
+interests of society at large, and the victims of crime 
+in particular, in seeing justice done for criminal acts. 
+CLO and the Bureau accordingly have a significant 
+interest in the outcome of this case. 
+
+CLO and the Bureau urge the Court to affirm 
+the ruling of the Fourth Circuit and uphold the 
+constitutionality of 18 U.S.C. § 3501. 
+
+
+ee PILE PORE 
+
+
+-: A = 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. Where a constitutional violation occurs in 
+the course of a criminal prosecution, there exists an 
+adequate and effective remedy at law. Established 
+law of this Court provides that a direct civil action 
+for damages may be brought against individual 
+constitutional tortfeasors. This legal remedy is in 
+fact the preferable method of redressing intentional 
+violations of the Constitution, by making those 
+responsible pay a penalty for their actions. The 
+remedy also serves to deter further misconduct by 
+those same officials or future wrongdoers, who must 
+personally take into account the cost of their actions. 
+Accordingly, it is neither necessary nor advisable 
+that courts suppress evidence as a sanction for 
+constitutional violations to the rights of an accused. 
+
+2. In contrast, the present legacy of Miranda 
+and its exclusionary rule lays a sanction on society 
+and the sovereign people through the impairment of 
+the system of justice. Likely as not, the offending 
+officer suffers no more than wounded pride and one 
+more entry in his win-loss record. Because the 
+people are sovereign in our constitutional structure, 
+sovereign immunity operates to shield the people 
+from the sanctions properly attributable to the 
+knowing or reckless conduct of the individual 
+officer. The regime of private civil actions for 
+
+
+4 
+
+
+—_ 
+
+
+constitutional violations established and developed 
+since the Court’s ruling in Bivens v. Six Unknown 
+Named Agents of the_Federal Bureau of Narcotics 
+remedies harm to the rights of the accused while it 
+leaves to the public and individual victims their 
+interest in seeing justice served. . To preserve or 
+continue the exclusionary rule under Miranda, in 
+the face of this subsequent development, violates 
+sovereign immunity. It also can lead the Court to 
+exceed its own authority by improperly altering the 
+extent and the nature of a constitutional right, 
+outside the appropriate method of constitutional 
+amendment. 
+
+
+ARGUMENT 
+
+
+It is helpful to begin from first principles and 
+
+
+examine anew the problem of violations of the 
+Constitution by law enforcement officers who 
+coerce or mistreat the accused. After determining 
+what remedies are in fact presently available to 
+redress the violation of constitutional rights during 
+criminal investigations, the Court might then 
+evaluate the effectiveness and consistency of the 
+Miranda ruling, and in particular its exclusionary 
+rule, with those principles in today’s context. 
+
+
+t 
+a 
+
+
+I. AN ADEQUATE LEGAL REMEDY 
+EXISTS FOR CONSTITUTIONAL 
+VIOLATIONS BY THE 
+SOVEREIGN’S OFFICERS. 
+
+
+Criminal law enforcement in our history has 
+always been a public matter consigned to the power 
+and duties of the sovereign, rather than to the 
+private individual. Law enforcement accordingly 
+must be measured against the powers and authority 
+specifically granted to the sovereign, and the limits 
+upon the exercise of that power. When the officers 
+of the law are found to have exceeded those limits, 
+the resulting harms to individual rights merit relief, 
+but that relief must take note of the fact that “the 
+remedy in such cases is generally of a peculiar and 
+eccentrical nature.” 3 William Blackstone, 
+
+
+Commentaries on the Laws of England *1 16 (1768). 
+
+
+A. Wrongs of the Sovereign Are 
+Attributable to Its Servants, Not to 
+the Sovereign Itself. 
+
+
+At the time of the Constitutional Convention, 
+the principle of sovereign immunity was well 
+established in English common law. As has often 
+been stated since, the rule succinctly relies upon the 
+concept that “the King can do no wrong.” As more 
+
+
+6 
+
+
+fully known to the Framers, that principle had a 
+reasoned basis that did not, and does not, preclude 
+relief to the individual citizen harmed by a wrongful 
+government act: 
+
+
+That the king can do no wrong, is a 
+necessary and fundamental principle of 
+the English constitution: meaning only, 
+as has formerly been observed, that, in 
+the first place, whatever may be amiss 
+in the conduct of public affairs is not 
+chargeable personally on the king; nor 
+is he, but his ministers, accountable for 
+it to the people: and secondly, that the 
+prerogative of the crown extends not to 
+do any injury; for, being created for the 
+benefit of the people, it cannot be 
+exerted to their prejudice. Whenever 
+therefore it happens, that, by 
+misinformation or inadvertence, the 
+crown hath been induced to invade the 
+private rights of any of its subjects, 
+though no action will lie against the 
+sovereign, (for who shall command the 
+king?), yet the law hath furnished the 
+subject with a decent and respectful 
+mode of removing that invasion, by 
+informing the king of the true state of 
+the matter in dispute: and, as it 
+presumes that to know of an injury and 
+
+
+7 
+
+
+to redress it are inseparable in the royal 
+breast, it then issues as of course, in the 
+king’s own name, his orders to his 
+judges to do justice to the party 
+
+
+4 
+
+
+aggrieved. 
+
+3 Blackstone, supra, *254-55 (emphasis original). 
+See also Larson v. Domestic & Foreign Commerce 
+Corp., 337 U.S. 682, 695 (1949) (“If “the king can 
+do no wrong, then it may te also assumed that if the 
+king’s agent does wrong that action cannot be the 
+action of the king.”). There was in fact a civil 
+action available at English common law for 
+wrongful criminal process. 4 Blackstone, supra, at 
+*136 (“A conspiracy also to indict an innocent man 
+of felony falsely and maliciously, who accordingly 
+is indicted and acquitted, is a farther abuse and 
+perversion of public justice; for which the_party 
+injured may ... have a civil action by writ of 
+conspiracy”). 
+
+Upon declaring independence, the people of 
+the respective States succeeded to sovereignty at 
+common law. Nevada v. Hall, 440 U.S. 410, 418 
+(1979); Chisholm v. Georgia, 2 U.S. (2 Dall.) 419, 
+434-35 (1793) (Iredell, J., dissenting). Upon 
+ratification of the Constitution, the United States 
+became sovereign within its respective spheres 
+under the Constitution. U.S. Const. art. VI, cl. 2; 
+Department of the Army v. Blue Fox, Inc., 525 U.S. 
+255, __, 119 S. Ct. 687, 690 (1999); FDIC v. 
+
+
+8 
+
+
+Meyer, 510 U.S. 471, 475 (1994). The United 
+States and the respective States therefore enjoy 
+general sovereign immunity within the state and 
+federal courts. U.S Const. amend. XI; see Alden v. 
+Maine, 527 U.S. 706, _, 119 S. Ct. 2240, 2248 
+(1999). 
+
+Yet this sovereign immunity does not mean 
+there is no relief for the individual who suffers the 
+violation of a right under the Constitution. The 
+government officer who violates the Constitution 
+acts outside of his authority. Larson v. Domestic & 
+Foreign Commerce Corp., 337 U.S at 689 (1949) 
+(“where the officer’s powers are limited by statute, 
+his actions beyond those limitations are considered 
+individual and not sovereign actions.”); id. at 697 
+(challenged act was “unconstitutional use of their 
+power and was, therefore not validly authorized by 
+the sovereign.”). A court may prohibit or enjoin 
+future or continued unconstitutional conduct by an 
+individual government officer. Ex Parte Young, 209 
+U.S. 123 (1908). More tellingly for the present case, 
+the law also permits of an individual remedy in 
+damages for past harms in_ violation of 
+Constitutionally protected rights. 
+
+[T]he fact that the officer is an 
+
+instrumentality of the sovereign does 
+
+not, of course, forbid a court from 
+
+taking jurisdiction over a suit against 
+
+him. .... 
+
+
+9 
+
+
+In a suit against the officer to 
+recover damages for the agent’s 
+personal actions that question is easily 
+answered. The judgment sought will 
+not require action by the sovereign or 
+disturb the sovereign’s property. There 
+is, therefore, no jurisdictional 
+difficulty. 
+
+Larson, 337 U.S. at 687. It is therefore most 
+appropriate to visit the wrongful violation of the 
+Constitution upon the officer or officers who 
+performed the wrong against the sovereign’s 
+authority or will. 
+
+
+B. The Law Affords A Cause of Action 
+For Damages as an Established 
+Remedy for Constitutional Torts. 
+
+
+1. Over fifty years ago, this Court stated an 
+already established principle that “where federally 
+protected rights have been invaded, it has been the 
+rule from the beginning that courts will be alert to 
+adjust their remedies so as to grant the necessary 
+relief.” Bell v. Hood, 327 U.S. 678, 684 (1946) 
+(citing to Marbury v. Madison, 5 U.S. (1 Cranch) 
+137, 162, 163 (1803); Texas & N.O. R. Co. v. 
+Brotherhood of Ry. & S.S. Clerks, 281 U.S. 548, 
+569, 570 (1930)). By alleging in his complaint that 
+Agents of the Federal Bureau of Investigation 
+
+
+10 
+
+
+violated his Fourth and Fifth Amendment rights, 
+plaintiff Arthur Bell properly stated a cause of 
+action arising under the Constitution and laws of the 
+United States. Without reaching the question of 
+appropriate relief, the Court found there was federal 
+jurisdiction to consider the claim. 327 U.S. at 682. 
+The Court remanded the case for trial, and left open 
+the determination of an appropriate remedy, which 
+Bell contended would include damages against the 
+individual Agents. 
+
+2. That damages are available in a direct civil 
+action for violations of Constitutional rights became 
+the settled law in the Court’s opinion in Bivens v. 
+Six Unknown Named Agents of the Federal Bureau 
+of Narcotics, 403 U.S. 388 (1971). The Court in 
+Bivens continued where it left off in Bell v. Hood, 
+and held that “violation of [the Fourth Amendment] 
+by a federal agent acting under color of his authority 
+gives rise to a cause of action for damages 
+consequent upon his unconstitutional conduct.” Jd. 
+at 389. 
+
+Because “the very essence of civil liberty 
+certainly consists in the right of every individual to 
+claim the protection of. the laws, whenever he 
+receives an injury,” Marbury v. Madison, 5 U.S. at 
+163, the Court in Bivens held, 
+
+That damages may be obtained for 
+
+injuries consequent upon a violation of 
+
+the Fourth Amendment by federal 
+
+
+— ee 
+
+
+PLEO LEER PLY = 
+
+
+emer mien > aN ae 
+= 
+
+
+11 
+
+
+officials should hardly seem a 
+surprising proposition. Historically, 
+damages have been regarded as the 
+ordinary remedy for an invasion of 
+personal interests in liberty. 
+Bivens, 403 U.S. at 395-96. The Court thereby gave 
+effect to the principles of the Fourth Amendment 
+and made those officials who must obey the 
+Constitution personally responsible for its violation. 
+Mr. Justice Harlan elaborated on _ this 
+reasoning, and on the Court’s authority to so rule, in 
+his concurring opinion in Bivens, agreeing “that a 
+traditional judicial remedy such as damages is 
+appropriate to the vindication of the personal 
+interests protected by the Fourth Amendment.” /d. 
+at 400. Justice Harlan wrote, 
+I do not think that the fact that the 
+interest is protected by the Constitution 
+rather than statute or common law 
+justifies the assertion that federal courts 
+are powerless to grant damages in the 
+absence of explicit congressional action 
+authorizing the remedy. .... 
+[T]he presumed availability of federal 
+equitable relief against threatened 
+invasions of constitutional interests 
+appears entirely to negate the 
+contention that the status of an interest 
+as constitutionally protected divests 
+
+
+12 
+
+
+federal courts of the power to grant 
+damages absent express congressional 
+authorization. 
+
+Id. at 403-404. “[T]he judiciary has a particular 
+responsibility to assure the vindication of 
+constitutional interests such as those embraced by 
+the Fourth Amendment.” /d. at 407; see Davis v. 
+Passman, 442 U.S. 228, 241 (1979) (“the judiciary 
+is clearly discernable as the primary means through 
+which these rights may be enforced”). It is 
+therefore “entirely proper that these injuries be 
+compensable according to uniform federal rules of 
+law,” 403 U.S. at 409, and that “[djamages as a 
+traditional form of compensation for invasion of a 
+legally protected interest” be an available remedy at 
+law. Id. at 408. 
+
+3. The Bivens cause of action extends beyond 
+the Fourth Amendment, and permits aggrieved 
+parties to seek relief for harm from violations of 
+other Amendments in the Bill of Rights. E.g., Davis 
+v. Passman, 442 U.S 228 (1979) (Fifth Amendment 
+Due Process); Carlson v. Green, 446 U.S. 14 (1980) 
+(Eighth Amendment); see also, Davis v. Passman, 
+442 U.S. at 252 (Powell, J., dissenting) (“To be 
+sure, it has been clear — at least since Bivens — that 
+in appropriate circumstances private causes of 
+action may be inferred from provisions of the 
+Constitution.”) (citation omitted). “Bivens 
+established that the victims of a constitutional 
+
+
+13 
+
+
+violation by a federal agent have a right to recover 
+damages against the official in federal court despite 
+the absence of any congressional statute conferring 
+such a right.” Carlson v. Green, 446 U.S. at 18. 
+
+To state a claim under Bivens, a plaintiff must 
+“assert[] a constitutionally protected right;” “state[] 
+a cause of action which asserts this right;” and claim 
+“relief in damages constitut{ing] an appropriate 
+form of remedy.” Davis v. Passman, 442 US. at 
+234. A plaintiff who properly pleads these elements 
+must then proceed to “first demonstrate that his 
+constitutional rights have been violated,” after 
+which he “should then be able to redress [his] injury 
+in damages, a remedial mechanism normally 
+available in the federal courts.” /d. at 248 (citation 
+omitted). 
+
+4. Criminal defendants, like Charles 
+Dickerson, who claim their confessions were given 
+in technical violation of Miranda, assert violations 
+by federal law enforcement officers of their 
+constitutional rights under the Fifth Amendment. 
+The Fifth Amendment forbids compulsory self- 
+incrimination. U.S. Const. amend. V. A confession 
+deemed involuntary, whether by an irrebuttable 
+presumption under Miranda, or by the trial court’s 
+factual determination in each case, see 18 U.S.C. § 
+3501, must necessarily be viewed as the result of a 
+coercive or improper interrogation, and therefore as 
+an actionable violation of the constitutional riglit to 
+
+
+14 
+
+
+due process. Wilkins v. May, 872 F.2d 190, 195 (7" 
+Cir. 1989) (Posner, Cir. J.) (“When the deprivation 
+[of the constitutional right] occurs in the course of a 
+police interrogation — a stage in the criminal justice 
+process — it is fairly described as a denial of due 
+process.”), cert. denied sub nom. Wilkins v. 
+McDaniel, 493 U.S. 1026 (1990). Other courts as 
+well have suggested the availability of civil actions 
+as a remedy for Fifth Amendment violations in 
+custodial interrogation. See Riley v. Dorton, 115 
+F.3d 1159, 1164-66 (4" Cir.) (potential for claims 
+under 42 U.S.C. § 1983), cert. denied, 522 U.S. 
+1030 (1997); Bradt v. Smith, 634 F.2d 796, 800 (5™ 
+Cir.) (§ 1983 claims), cert. denied, 454 U.S. 830 
+(1981). 
+
+Dickerson, and other criminal defendants like 
+him, can accordingly seek relief in damages against 
+the individual officers and Agents who interrogated 
+him, under a Bivens cause of action for violations of 
+his Fifth Amendment rights. It does not necessarily 
+follow, however, that the Court must or should 
+apply the exclusionary rule of Miranda to exclude 
+Dickerson’s confession from evidence at his 
+criminal trial. 
+
+
+15 
+
+
+Il. NO NEED OR BASIS REMAINS FOR 
+THE EQUITABLE REMEDY OF 
+SUPPRESSION OF EVIDENCE. 
+
+
+Whether or not one concurs in the merits of 
+the initial implication by the Bivens Court of a 
+private right of action for violation of the 
+Constitution, see, e.g., Carlson v. Green, 446 U.S. at 
+31 (Rehnquist, J., dissenting), unless the Court 
+today is willing to overrule Bivens, it should 
+recognize that an established and adequate damages 
+remedy at law is now available for the person who 
+alleges a constitutional violation in the inducement 
+of his confession to a crime. If petitioner Dickerson 
+is alleging a constitutional violation (in addition to, 
+or perhaps by reason of, a technical Miranda 
+violation), he too could file suit. This is a 
+substantially different circumstance than prevailed 
+in 1966 when the Court issued its Miranda opinion, 
+and accordingly, there no longer is the same 
+justification for the blanket application of an 
+exclusionary rule to otherwise truthful or probative 
+evidence obtained from a defendant. 
+
+As Chief Justice Burger noted in his Bivens 
+dissent, the implication of a damages remedy 
+afforded the opportunity to revisit the sensibility and 
+effectiveness of the exclusionary rule. Even more 
+so today, almost thirty years later, “Our adherence 
+
+
+16 
+
+
+to the exclusionary rule, our resistance to change, 
+and our refusal even to acknowledge the need for 
+
+
+effective enforcement mechanisms bring to mind 
+
+
+Holmes’s well known statement: 
+
+It is revolting to have no better reason 
+
+for a rule of law than that so it was laid 
+
+down in the time of Henry IV. /t is still 
+
+more revolting if the grounds upon 
+
+which it was laid down have vanished 
+
+long since, and the rule simply persists 
+
+from blind imitation of the past. 
+
+Oliver Wendell Holmes, Jr., The Path of the Law, 
+10 Harv. L. Rev. 457, 469 (1897) (quoted in Bivens, 
+403 U.S. at 419-20) (emphasis added). 
+
+The Court should therefore reconsider the 
+exclusionary rule imposed by Miranda. Cf. 384 
+U.S. at 490 (“Judicial solutions to problems of 
+constitutional dimension have evolved decade by 
+decade. As courts have been presented with the 
+need to enforce constitutional rights, they have 
+found means of doing so.”). 
+
+
+A. The Existence of an Adequate 
+Remedy at Law Obviates the Need 
+for Equitable Measures to Redress 
+Constitutional Wrongdoing. 
+
+
+Since the Court’s ruling in Miranda, State 
+and federal courts have regularly suppressed 
+
+
+17 
+
+
+confessions as an equitable remedy for purported 
+violations of the defendants’ rights under the Fifth 
+and Fourteenth Amendments. Viewed as a response 
+to the wrongful act of a government officer, 
+however, that remedy does not comport with the 
+traditional requirements of the common law and 
+equity as they have developed in American 
+jurisprudence. Nor does it truly address the real 
+
+problem with an effective answer. __ | 
+
+A standard prerequisite for the exercise of 
+equitable relief by a court is the absence of an 
+adequate and effective remedy at law. Morales v. 
+Trans World Airlines, Inc., 504 U.S. 374, 380 
+(1992); O'Shea v. Littleton, 414 U.S. 488, 499 
+(1974) (“basic doctrine of equity jurisprudence that 
+courts of equity should not act ... when the moving 
+party has an adequate remedy at law”); Younger v. 
+Harris, 401 U.S. 37, 43-44 (1971). This may well 
+have been the case with respect to coerced 
+confessions in 1966 when the Court heard the 
+Miranda case. See Bell v. Hood, 327 U.S. 678, 682 
+(1946). But the Court’s later Bivens opinion 
+admittedly created a new form of action against 
+federal officers, not previously available in 1966. 
+403 US. at 389. 
+
+In other respects the legal landscape has 
+changed as well. The United States has enacted a 
+limited waiver of sovereign immunity for certain 
+intentional torts that may be committed by federal 
+
+
+18 
+
+
+law enforcement officers. 28 U.S.C. § 2680(h) 
+(Federal Tort Claims Act). Civil liability of State 
+officers, and municipalities, for violations of the 
+Fourteenth Amendment is now a well-established 
+body of law under the Civil Rights Acts of 1866 and 
+1871, 42 U.S.C. § 1983 et seg., and related case law 
+precedents of this Court. See, e.g., Owen v. City of 
+Independence, 445 U.S. 622 (1980); Monell v. 
+Department of Social Servs., 436 U.S. 658 (1978). 
+Both Bivens and Section 1983 actions are now 
+subject to a sophisticated body of law regarding 
+pleading requirements, e.g., Leatherman v. Tarrant 
+County Narcotics Intelligence & Coord. Unit, 507 
+U.S. 163 (1993); Siegert v. Gilley, 500 U.S. 226 
+(1991); and defenses of qualified immunity, e.g., 
+Anderson v. Creighton, 483 U.S. 635 (1987); 
+Mitchell v. Forsyth, 472 U.S. 511 (1985); or even 
+absolute immunity, e.g., Pulliam v. Allen, 466 U.S. 
+522 (1984); Nixon v. Fitzgerald, 457 U.S. 731 
+(1982). In the criminal law context, civil actions for 
+constitutional violations must await the outcome of 
+appellate review of the criminal trial, and thereby do 
+not risk interfering with the criminal justice system. 
+Heck v. Humphrey, 512 U.S. 477 (1994). 
+
+It is difficult, then, if not impossible, to say 
+that Dickerson and defendants like him lack 
+meaningful and adequate legal remedy or relief. 
+There is now in place a legal regime providing for 
+actions at law, and that regime may in fact better 
+
+
+19 
+
+
+serve the ends of the Constitutional prohibitions at 
+issue.” 
+
+As noted above, the problem underlying a 
+constitutional violation in the criminal process is 
+both conceptually and practically focused upon the 
+individual government officer. The government can 
+only act through its individual officers as its agents. 
+Larson, 337 U.S. at 688 (“when the agents’ actions 
+are restrained, the sovereign itself may, through 
+him, be restrained.”). “All individuals, whatever 
+their position in government, are subject to federal 
+law.” Butz v. Economou, 438 U.S. 478, 506 (1978) 
+(quoted in Davis v. Passman, 442 U.S. at 246). But 
+“however desirable a direct remedy against the 
+Government might be as a substitute for individual 
+official liability, the sovereign still remains immune 
+to suit.” 433 U.S. at 410 (Harlan, J., concurring). 
+
+Direct civil liability of the individual officer 
+more precisely addresses the problem and the 
+resultant harm from the constitutional violation. It 
+is more fitting that an official wrongdoer face 
+
+
+? This is not to say that Congress might not supplant that 
+regime by future legislation. But failing that, the Bivens 
+action remains the primary vehicle for redress. Cf 
+Schweiker v. Chilicky, 487 U.S. 412, 425 (1988) (No Bivens 
+cause of action lies where “Congress has not failed to 
+provide meaningful safeguards or remedies”); Bush v. Lucas, 
+462 U.S. 367, 386 (1983) (Bivens action foreclosed by 
+“Government’s comprehensive scheme” that “provides 
+meaningful remedies for [federal] employees”). 
+
+
+20 
+
+
+personal liability, and therefore be forced to 
+internalize the costs of his intentional violations of 
+the Constitution, rather than foist them off on the 
+public. 
+[T]he Bivens remedy, in addition to 
+compensating victims, serves a 
+deterrent purpose. Because the Bivens 
+remedy is recoverable against 
+individuals, it is a more effective 
+deterrent.... It is almost axiomatic that 
+the threat of damages has a deterrent 
+effect, surely particularly so when the 
+individual official faces personal 
+financial liability. 
+Carlson v. Green, 446 U.S. at 21; see Larson, 337 
+U.S. at 687 (“the principle that an agent is liable for 
+his own torts is an ancient one and applies even to 
+certain acts of public officers”). The United States 
+Department of Justice has itself argued this very 
+point in the past: “Even if Bivens suits are relatively 
+rare, the mere prospect of such being brought is a 
+powerful disincentive to unlawful conduct. It defies 
+common sense to suppose that fear of a suit against 
+[a federal] officer in his individual capacity, in 
+which he is faced with the possibility of personal 
+liability, has no influence on his conduct.” Brief for 
+the United States at 34, INS v. Lopez-Mendoza, No. 
+83-491 (U.S. 1984). 
+
+
+-¥EN 
+
+
+DBR ron 
+
+
+21 
+
+
+The availability and precision of civil 
+damages relief contrasts sharply with the overkill of 
+the exclusionary rule. “If an effective alternative 
+remedy is available, concern for the official 
+observance of the law does not require adherence to 
+the exclusionary rule.” Bivens, 403 U.S. at 414 
+(Burger, C.J., dissenting). An officer who violates 
+the defendant’s Fifth Amendment right is liable in a 
+civil Bivens action for damages. But if a 
+government officer in the course of the criminal 
+prosecution should seek to introduce the resulting 
+confession as evidence at trial, “the action itself 
+cannot be enjoined or directed, because it is also the 
+action of the sovereign.” Larson, 337 U.S. at 695. 
+
+The exclusionary rule of Miranda “does not 
+apply any direct sanction to the individual official 
+whose illegal conduct results in the exclusion of 
+evidence in a criminal trial.” 403 U.S. at 416. 
+
+Rejection of the evidence does nothing 
+to punish the wrong-doing official, 
+while it may, and likely will, release 
+the wrong-doing defendant. It deprives 
+society of its remedy against one 
+lawbreaker because he has_ been 
+pursued by another. It protects one 
+against whom incriminating evidence is 
+discovered, but does nothing to protect 
+innocent persons who are the victims of 
+illegal but fruitless searches. 
+
+
+22 
+
+
+Irvine v. California, 347 U.S. 128, 136 (1954) 
+(quoted in Bivens, 403 U.S. at 413). 
+
+Earlier Courts acted on “a theory that 
+suppression of evidence in these circumstances was 
+imperative to deter law enforcement authorities 
+from using improper methods to obtain evidence.” 
+403 U.S. at 413. Yet the effect of exclusion, and 
+attendant acquittal or dismissal of a criminal case, 
+on the law enforcement officer is typically minimal: 
+another addition to the won-loss column, and 
+perhaps wounded pride. See 403 U.S. at 416 (“The 
+doctrine der» *ves the police in no real sense; except 
+that apprehending wrongdoers is their business, 
+police have no more stake in_ successful 
+prosecutions than the prosecutors or the public.”). 
+The true burden of exclusion falls upon the people 
+as a whole, and in particular the past or future 
+victims of crime. This cannot be the intent of the 
+exclusionary rule, and indeed it may not be 
+permissible. 
+
+
+B. The Court, No Less Than Congress, 
+May Not Fashion a Rule to Redefine 
+a Constitutional Right. 
+
+
+., In excluding otherwise admissible 
+evidence from a criminal trial, a court is in effect 
+imposing a sanction upon a party litigant for its 
+conduct outside the courtroom, prior to the 
+
+
+23 
+
+
+commencement of the action. No less than if it 
+were to entertain a direct action for the same relief 
+by the defendant against the government, the trial 
+court in so doing is visiting liability and compulsion ~ 
+on the government, and through it the people, in 
+direct contravention of the principle of sovereign 
+immunity. See Alden v. Maine, 119 S. Ct. at 2268 
+(“the Constitution begins with the principle that 
+sovereignty rests with the people.”). 
+
+In barring the use of otherwise truthful 
+evidence, a court uses its coercive and injunctive 
+power to punish or redress a government actor’s 
+conduct. 
+
+The compulsion, which the court is 
+
+asked to impose, may be compulsion 
+
+against the sovereign, although 
+nominally directed against the 
+individual officer. If it is, then the suit 
+
+is barred, not because it is a suit against 
+
+an officer of the Government, but 
+
+because it is, in substance, a suit 
+
+against the Government over which the 
+
+court, in the absence of consent, has no 
+
+jurisdiction. 
+
+Larson, 337 U.S. at 688. Exclusion has no effect 
+upon the law enforcement officer, who is not a party 
+to the case, and at most might be a witness. The 
+prosecuting attorneys and the investigating officers 
+are all certainly subject to court authority for their 
+
+
+24 
+
+
+conduct before the bar, but the presumed violation 
+of the defendant’s Fifth Amendment right 
+necessarily took place before trial, outside the 
+presiding criminal court’s immediate reach. 
+
+In short, the exclusionary rule is not directed 
+at the merits of the evidence or its probative value, 
+but instead is an attempt to exact a penalty in 
+response to a constitutional violation. But that 
+penalty falls on the wrong party, namely the 
+sovereign people; it addresses conduct not 
+attributable to them, the conduct of the official 
+constitutional wrongdoer. The officer at fault is 
+usually not before the criminal court, but will nearly 
+always, under the current system of Bivens and its 
+progeny, be amenable to a private civil action. 
+
+For, it is one thing to provide a method 
+
+by which a citizen may be compensated 
+
+for a wrong done to him by the 
+
+Government. It is a far different matter 
+
+to permit a court to exercise its 
+
+compulsive powers to restrain the 
+
+Government from acting, or compel it 
+
+to act. There are the strongest reasons 
+
+of public policy for the rule that such 
+
+relief cannot be had against the 
+
+sovereign. The Government as 
+
+representative of the community as a 
+
+whole, cannot be stopped in its tracks 
+
+
+25 
+
+
+by any plaintiff who presents a 
+
+disputed question... 
+
+Larson, 337 U.S. at 704. The continuation of 
+Miranda’s exclusionary rule, in the presence of the 
+developed alternatives of civil liability under 
+Bivens, violates sovereign immunity at both the 
+State and federal levels. 
+
+2. The Court has previously ruled, in the 
+context of a Congressional statute that purported to 
+enact prophylactic remedial measures against 
+unconstitutional actions, that there must be 
+“congruence and proportionality between the injury 
+to be prevented or remedied and the means adopted 
+to that end.” City of Boerne v. Flores, 521 U.S. 507, 
+508 (1997). Failure of the measure to meet this test 
+indicates that the measure was really an attempt tc 
+rewrite the constitutional provision. 
+
+This Congress cannot do, as it alone is not 
+empowered to amend or alter any aspect of the 
+Constitution or its protections. U.S. Const. art. V. 
+Yet, just as Congress, a single branch of the federal 
+government, may not alter or amend the 
+Constitution by itself, the same caution must guide 
+the rulings of the Court as it interprets these 
+constitutional rights. The Court must take care, in 
+defining the rights of defendants under the Fifth 
+Amendment and the actions of the government that 
+may violate them, not to change the nature or exteni 
+
+
+26 
+
+
+of the right in an effort to absolutely guarantee it 
+from violation. 
+
+The right at issue in this case is the right to be 
+free from coercion during a criminal interrogation. 
+The right is not one to be free from the introduction 
+of truthful evidence. The exclusion of evidence is 
+an imprecise overreaction that does not address the 
+specific harm, protect the right at issue, or bring its 
+weight to bear on the appropriate wrongdoer who 
+actually violated that right. In this sense, exclusion 
+of evidence lacks “congruence and proportionality 
+between the injury to be prevented or remedied and 
+the means adjusted to that end.” City of Boerne, 
+521 U.S. at 508. ; 
+
+If the defendant’s confession in fact was 
+voluntary, then there has been no constitutional 
+violation. It follows therefore that no remedy would 
+be needed. Miranda’s exclusionary rule in that 
+instance becomes a cure without an ailment, and a 
+measure that only harms society by impairing the 
+process of justice. If the Court should maintain the 
+exclusionary rule of Miranda as a constitutional 
+imperative, the Court would in effect improperly 
+alter the Fifth Amendment and the nature of the 
+right to be free from self-incrimination, beyond the 
+contours or limits within which the Framers 
+intended it to operate. 
+
+
+27 
+
+
+CONCLUSION © 
+
+
+The judgment of the Court of Appeals for the 
+Fourth Circuit should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+March 9, 2000 THEODORE M. COOPERSTEIN* 
+
+
+THEODORE M. COOPERSTEIN, P.C. 
+1815 Pennsylvania Avenue, N.W. 
+Suite 501 
+
+Washington, D.C. 20006 
+
+(202) 331-7895 
+
+*Counsel of Record 
+
+

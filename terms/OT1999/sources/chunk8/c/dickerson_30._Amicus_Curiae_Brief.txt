@@ -1,0 +1,1492 @@
+Supreme Court, U.S. 
+
+
+h FILED 
+
+
+; So \/. 
+
+Mar / oto | MAR (1 S 
+No. 99-5825 | 
+—CLERB 
+In the Supreme Court of the Wnited States 
+
+
+CHARLES THOMAS DICKERSON, PETITIONER, 
+Vv. 
+
+
+UNITED STATES OF AMERICA, RESPONDENT. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF AMICUS CURIAE OF 
+SENATORS ORRIN G. HATCH, TRENT LOTT, 
+DON NICKLES, STROM THURMOND, BOB SMITH, 
+LARRY E. CRAIG, PAUL COVERDELL, FRED 
+THOMPSON, JON KYL AND JEFF SESSIONS 
+URGING AFFIRMANCE 
+
+
+SENATOR ORRIN G. HATCH 
+
+Counsel of Record 
+United States Senate 
+Washington, D.C. 20510 
+(202) 224-5225 
+
+
+Attorney for Amici Curiae 
+
+
+BEST AVAILABLE COPY 
+
+
+TABLE OF CONTENTS 
+
+
+Fe FREED pbs Sede dies ecceceesees ill 
+INTEREST OF AMICI CURIAE .................... l 
+SUMMARY OF ARGUMENT ..................... 5 
+PEE -cdavegeatscksdaceaucewspeiweun sans 6 
+
+
+I. SECTION 3501 GOVERNS THE ADMISSI- 
+BILITY OF CONFESSIONS IN FEDERAL 
+EE Meh deed che 48054 hao cotd dp tennd eee’ 6 
+
+
+A. The Miranda Rules Are Not Mandated 
+SE CD 6 no ov bdvcccceeceenes 6 
+
+
+B. In Enacting § 3501, Congress Deter- 
+mined That Unwarned Custodial Inter- 
+rogations Do Not Necessarily Produce 
+Compelled Confessions ............... 10 
+
+
+a Section 3501 Reaffirms Miranda’s 
+Basic Holding That Suspects in Custody 
+Should Be Advised of Their Constitu- 
+EE 6 Ko Rede iebwde beked Kee 14 
+
+
+Il. IF THIS COURT ACCEPTS THE ARGU- 
+MENTS ADVANCED BY PETITIONER AND 
+RESPONDENT, THEN CONGRESS’ AUTH- 
+ORITY TO ESTABLISH RULES OF PROCE- 
+
+DURE AND EVIDENCE FOR FEDERAL 
+COURTS WILL BE DIMINISHED ........... 17 
+
+
+ii 
+Ill. © SECTION 3501 IS CONSTITUTIONAL ....... 19 
+
+
+A. The Statute Does Not Lessen the Con- 
+stitutional Protections Afforded to Sus- 
+pects in CusteGy .. oc ccccscisccssescen 20 
+
+
+B. Congress’ Determination That § 3501 Is 
+Constitutional Is Entitled to Deference ... 23 
+
+
+CONCLUGION on ccccccccvsccscsssecueensenennen 27 
+TABLE OF AUTHORITIES 
+
+Cases: 
+
+Adarand Constr., Inc. v. Pena, 515 U.S. 200 (1995) ..... 25 
+
+Anders v. California, 386 U.S. 738 (1967) ........20455 9 
+
+Bank of Nova Scotia v. United States, 
+
+467 U.S. FIO CIGD oc cccctenvcessesesvecunes 19 
+Bivens v. Six Unknown Named Agents, 
+
+403 US. SEB CSTE) 20 cc vvcsstdvvesvasess 18, 24 
+Carlisle v. United States, 517 U.S. 416 (1996) ......... 18 
+City of Boerne v. Flores, 521 U.S. 507 (1997) ...... 24, 25 
+Coleman v. Thompson, 501 U.S. 722 (1991) ......... 8,13 
+Colorado v. Spring, 479 U.S. 564 (1987) .........545: 16 
+
+
+Connecticut v. Barrett, 479 U.S. 523 (1987) .........65: 8 
+
+
+ne 
+
+
+Continental T.V., Inc. v. GTE Sylvania Inc., 
+
+
+EEE 8 
+Davis v. United States, 512 U.S. 452 (1994) ........ 3, 4,8 
+Duckworth v. Eagan, 492 U.S. 195 (1989) ......0.0..... Ss 
+Employment Div., Dept. of Human Resources of 
+
+Oregon v. Smith, 494 U.S. 872 (1990) .... 2.2... 25 
+Funk v. United States, 290 U.S. 371 (1933) ........... 18 
+Gordon v. United States, 344 U.S. 414 (1953) ......... 18 
+Harris v. New York, 401 U.S. 222 (1971) .......0000... 7 
+Haynes v. Washington, 373 U.S. 503 (1963) ........... 10 
+INS v. Chadha, 462 U.S. 919 (1983) ............ 000 e ee 3 
+Jackson v. Denno, 378 U.S. 368 (1964)... oe 16 
+Katzenbach v. Morgan, 
+
+384 U.S. 641 (1966) ......... 13, 14, 20, 21, 25, 27 
+Kimel v. Florida Bd. of Regents, 
+
+EEE waccconceseusseseses 25, 26 
+Lassiter v. Northampton County Bd. of Elections, 
+
+A voce nénctrideceseeoces 13, 25 
+Lynumn v. Illinois, 372 U.S. 528 (1963) .............. 10 
+Mallory v. United States, 354 U.S. 449 (1957) ......... 18 
+
+
+iv 
+Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803) ..... 24 
+McNabb vy. United States, 318 U.S. 332 (1943) ......... 18 
+Michigan v. Tucker, 417 U.S. 433 (1974) .. 2... 6.66265. 7 
+Miranda v. Arizona, 384 U.S. 436 (1966) ......... passim 
+Monnell v. Department of Soc. Servs., 
+
+GB GD bos vc cccsesccscsvccccscs 22 
+Monroe v. Pope, 365 U.S. 168 (1961) ..........-6665- 22 
+New York v. Quarles, 467 U.S. 649 (1984) ............. 7 
+Nishikawa v. Dulles, 356 U.S. 129 (1958)... 2... 6.6 5--- 9 
+Oregon v. Elstad, 470 U.S. 298 (1985) ............- 7,21 
+Oregon v. Hass, 420 U.S. 714 (1975) .. 2.2.6.6 ee eee eee 7 
+Palermo v. United States, 360 U.S. 343 (1959) ...... 17,19 
+Pennsylvania v. Finley, 481 U.S. 551 (1987) ........... 9 
+Penson v. Ohio, 488 U.S. 75 (1988)... 2... 6. ee ees 9 
+Sandstrom v. Montana, 442 U.S. 510 (1979) .......... 21 
+Smith v. Robbins, 120 S. Ct. 746 (2000) ....... ooo 
+
+
+Turner Broadcasting Sys., Inc. v. FCC, 
+og Se eee 12 
+
+
+Vv 
+
+
+United States v. Alvarez-Sanchez, 
+eo wide 19 
+
+
+United States v. Christopher, 
+956 F.2d 536 (6th Cir.1991) ................. 18 
+
+
+United States v. Crocker, 510 F.2d 1129 
+RC eS 3 
+
+
+United States v. Dickerson, 166 F.2d 667 
+(4th Cir. 1999), cert. granted in part by 
+Dickerson v. United States, 120 S. Ct. 578 
+
+
+ED codevcetsadevadececceces 2 
+United States v. Hasting, 461 U.S. 499 (1983) ......... 18 
+United States v. Lanier, 520 U.S. 259 (1997) .......... 22 
+United States v. Lopez, 514 U.S. 549 (1995) ........... 23 
+United States v. Pugh, 25 F.3d 669 (8th Cir. 1994) ...... 18 
+United States v. Rivas-Lopez, 
+
+988 F. Supp. 1424 (D. Utah 1997) .............. 3 
+United States v. Tapia-Mendoza, 
+
+41 F. Supp.2d 1250 (D. Utah 1999) ............. 3 
+Vance v. Terrazas, 444 U.S. 252 (1980) ............ 8,17 
+
+
+vi 
+
+
+Constituti 1 Statutes: 
+U.S. Const.: 
+
+RE. BE BEGG cc cusccdosndcasstiocncseads 18 
+
+REED bch vcecccteonccsnediséscccbacsass 4 
+
+RES oc eve ctcavccuéchcéusntuneses passim 
+PCR Be ov ccdevcncuccceabetecvvcdssetense 22 
+POUR BEE oc cccccvesteveccncddsccccéovessces 22 
+PPC EEE cc ccvccdecccevevedeessocecds passim 
+BO ae PEED cc cbcvccccedencccuséisveonncteds 23 
+BOC ETS wcccecenséveuvedsecesesoéeean 22, 23 
+GUE, SURED cvcccccscsvscrsecetevéansewoessts 22 
+Congressional Materials: 
+
+
+Confirmation of Deputy Attorney General Nominee 
+Eric Holder: Hearing Before the Senate Comm. 
+on the Judiciary, 105th Cong., Ist Sess. (1997) ...2 
+
+
+Controlling Crime Through Effective Law Enforcement: 
+Hearing Before the Subcomm. on Criminal 
+Laws and Procedures of the Senate Comm. 
+on the Judiciary, 90th Cong., Ist Sess. (1967) ... 23 
+
+
+Department of Justice Oversight: Hearing Before 
+the Senate Comm. on the Judiciary, 105th Cong.., 
+eR NED oc cccvcdsvndsdoyesurte 2 
+
+
+S. Rep. No. 1097, 90th Cong., 2d Sess. (1968) ..... passim 
+
+
+Vii 
+
+
+Solicitor General Oversight: Hearing Before the 
+Senate Comm. on the Judiciary, 104th Cong., 
+EE -uwéss dds cea sueahes sche seed 2 
+
+
+The Administration of Justice and the Enforcement 
+of Laws: Hearing Before the Senate Comm. 
+on the Judiciary, 104th Cong., Ist Sess. (1995) ...2 
+
+
+The Clinton Justice Department's Refusal to Enforce 
+the Law on Voluntary Confessions: Hearing 
+Before the Senate Subcomm. on Crim. Justice 
+Oversight of the Senate Comm. on the 
+Judiciary, 106th Cong., Ist Sess. (1999) ......... l 
+
+
+Miscellaneous: 
+Mark Berger, Compromise and Continuity: 
+
+
+Miranda Waivers, Confession Admissibility, 
+and the Retention of interrogation Protections, 
+
+
+49 U. Pitt. L. Rev. 1007 (1988) ............... 22 
+114 Cong. Rec. (1968): 
+te vocdammeecepectoaededeadeon 24 
+i chbatoudutconetsdbabichead 24 
+SN hk s Kntewbscosebuneedens ol 24 
+nt triusekweee’ daseeenteawell 24 
+hs tcdcknbecesdtdhisevescéaws 24 
+pp. 11,740-47 ........... Pee ee eee 24 
+ns no ndeneseividd nae bebw ce aod 24 
+pp. 12,457-75 ....... sbuehosbebaddeunddes’ 24 
+As cccdacddedbediseevedséees 24 
+inc cc deen sdddphitcedoeddece 24 
+es neksgheses coe unde ateelewne 24 
+Es ie kcin cid ie akhe es éwhndndews 24 
+bind deodeatbancietedtede seeds’ 24 
+
+
+WD. URGE ccccccccccvccevetesccvovesess 24 
+OD, CRUG cc cccccvccscscccesseevcee 24 
+OD, DELEMS sa cccccccesecccssseyosecesess 24 
+OD, BODES ccc ccccccccvcwrcccesscessoses 24 
+Om, EGOS ccc cccccceccccecsivcccvesees 24 
+
+
+Letter from Senator Orrin G. Hatch, Chairman 
+of the Senate Judiciary Committee, and Senator 
+Strom Thurmond, Chairman of the Senate 
+Subcommittee on Criminal Justice Oversight, 
+to Janet Reno, United States Attorney General, 
+and Seth P. Waxman, United States Solicitor 
+GE Gs CU ED o dec cdcccceeteccdeceus 3 
+
+
+Letter from Janet Reno, United States Attorney General, 
+to Albert Gore, Jr., President of the United States 
+
+
+DOE, Ta SUSE 0 nccs esl eveet cada neces ] 
+
+
+Office of Legal Policy, Report to the Attorney General 
+on the Law of Pre-Trial Interrogation: Truth in 
+Criminal Justice (Feb. 12, 1986), reprinted 
+in 22 U. Mich. J.L. Reform 437 (1989) ......... 24 
+
+
+Michael Edmund O’ Neill, Undoing Miranda, 
+2000 B.Y.U. L. Rev. 101 (forthcoming 2000) .... 12 
+
+
+Opinions of the Office of Legal Counsel (Apr. 6, 1981) ... 1 
+
+
+l 
+INTEREST OF AMICI CURIAE' 
+
+
+This brief is filed on behalf of Senators Orrin G. Hatch, 
+Trent Lott, Don Nickles, Strom Thurmond, Bob Smith, Larry 
+E. Craig, Paul Coverdell, Fred Thompson, Jon Kyl and Jeff 
+Sessions (hereinafter “Amici”), urging affirmance of the 
+judgment below. Amici contend that 18 U.S.C. § 3501 
+(hereinafter “§ 3501”) represents a valid and constitutional 
+exercise of Congress’ legislative authority to establish the rules 
+of procedure and evidence for federal courts. As members of 
+the United States Senate, Amici further believe they will bring 
+to the Court’s attention relevant information the parties have 
+not addressed. 
+
+Amici’s interest in this case is significant because no 
+formal representative of the federal government is arguing in 
+support of § 3501’s constitutionality. Historically, the Justice 
+Department has defended the constitutionality of congressional 
+acts unless it can make no “reasonable argument” in the Act’s 
+defense. See Letter from Janet Reno, United States Attorney 
+General, to Albert Gore, Jr., President of the United States 
+Senate 2 (Nov. 1, 1999) (“It has been, and continues to be, the 
+traditional practice of the Department of Justice in virtually all 
+cases to defend the constitutionality of an Act of Congress 
+unless it is plainly unconstitutional.”); see also 5 Opinions of 
+the Office of Legal Counsel 25, 25-26 (Apr. 6, 1981) (“[T]he 
+Department has the duty to defend an Act of Congress when- 
+ever a reasonable argument can be made in its support, even if 
+the Attorney General and the lawyers examining the case 
+conclude that the argument may ultimately be unsuccessful in 
+the courts.”). In addition, the Justice Department historically 
+has supported the use of § 3501. See The Clinton Justice 
+Department's Refusal to Enforce the Law on Voluntary 
+
+
+' Pursuant to Rule 37.6, this brief was authored and prepared 
+in its entirety by Amici. 
+
+
+2 
+
+
+Confessions: Hearing Before the Senate Subcomm. on Crim. 
+Justice Oversight of the Senate Comm. on the Judiciary, 106th 
+Cong., I st Sess. 95-97 (1999) (discussing support for § 3501 by 
+Nixon, Reagan and Bush administrations). 
+
+In congressional testimony before the Senate Judiciary 
+Committee, Attorney General Janet Reno, Deputy Attorney 
+General Eric Holder and former Solicitor General Drew Days 
+each testified that the Justice Department had “no policy” 
+against invoking § 3501 and, to the contrary, was prepared to 
+use the statute “in an appropriate case.” Solicitor General 
+Oversight: Hearing Before the Senate Comm. on the Judiciary, 
+104th Cong., Ist Sess. 42 (1995) (statement of then-Solicitor 
+General Drew Days); see also The Administration of Justice 
+and the Enforcement of Laws: Hearing Before the Senate 
+Comm. on the Judiciary, 104th Cong., Ist Sess. 91 (1995) 
+(written answer of Attorney General Janet Reno); Confirmation 
+of Deputy Attorney General Nominee Eric Holder: Hearing 
+before the Senate Comm. on the Judiciary, 105th Cong., 1st 
+Sess. 124 (1997) (written answer of Deputy Attorney General- 
+designate Eric Holder). They testified that the Justice Depart- 
+ment previously had declined to invoke § 3501, not because the 
+Department believed the statute to be unconstitutional, but 
+because of procedural problems in particular cases. See, e.g., 
+Department of Justice Oversight: Hearing Before the Senate 
+Comm. on the Judiciary, 105th Cong., 1st Sess. 89-90 (1997) 
+(testimony of Attorney General Janet Reno). 
+
+Notwithstanding the foregoing, the Justice Department 
+has decided not to defend the constitutionality of § 3501 in this 
+case and instead has joined the petitioner in challenging the 
+statute. This is so, notwithstanding the fact that “reasonable 
+arguments” unquestionably can be made in the statute’s 
+defense. Courts that have squarely addressed the issue have 
+determined that § 3501 is constitutional. See, e.g., United 
+States v. Dickerson, 166 F.2d 667 (4th Cir. 1999) (holding that 
+“§ 3501, rather than Miranda, governs the admissibility of 
+
+
+3 
+
+
+confessions in federal court”), cert. granted in part by Dicker- 
+son v. United States, 120 S. Ct. 578 (1999) (No. 99-5525); 
+United States v. Crocker, 510 F.2d 1129, 1138 (10th Cir. 1975) 
+(holding “that the trial court did not err in applying the guide- 
+lines of section 3501 in determining the issue of the voluntari- 
+ness of Crocker’s confession”); United States v. Tapia-Mendo- 
+za, 41 F. Supp.2d 1250, 1255 (D. Utah 1999) (holding that 
+“[rjesponses by defendants in criminal cases to custodial and 
+other questions are governed by a post-Miranda statute” (citing 
+§ 3501)); United States v. Rivas-Lopez, 988 F. Supp. 1424, 
+1436 (D. Utah 1997) (applying § 3501 to determine voluntari- 
+ness despite apparent Miranda violation due to continued 
+questioning after defendant had invoked Miranda rights); see 
+also Davis v. United States, 512 U.S. 452, 465 (1994) (Scalia, 
+J., concurring) (stating that there “is no excuse” for the “United 
+States’ repeated refusal to invoke § 3501”). Moreover, the 
+Justice Department has refused to defend the statute despite the 
+fact “that at least one federal law enforcement agency, the Drug 
+Enforcement Administration, (1) determined that the Miranda 
+decision hinders its investigations and (2) requested that the 
+Department of Justice defend the constitutionality of 18 U.S.C. 
+§ 3501 before the Supreme Court.” Letter from Senator Orrin 
+G. Hatch, Chairman of the Senate Judiciary Committee, and 
+Senator Strom Thurmond, Chairman of the Senate Subcommit- 
+tee on Criminal Justice Oversight, to Janet Reno, United States 
+Attorney General, and Seth P. Waxman, United States Solicitor 
+General (Feb. 15, 2000).’ 
+
+
+? In response to the letter sent by Senators Hatch and 
+Thurmond on February 15, 2000, respondent lodged with the Court, 
+inter alia, two memoranda of the Drug Enforcement Administration 
+(“DEA”). In substance, the memoranda assert that “the automatic 
+exclusion from evidence of all statements that do not comply with 
+the Miranda rule is harmful to the administration of justice,” 
+Memorandum from Robert C. Gleason, Deputy Chief Counsel, DEA, 
+
+
+4 
+
+
+In the view of Amici, the Justice Department’s failure 
+to invoke § 3501 in appropriate cases, as well as its refusal to 
+defend the statute’s constitutionality in this case, is not 
+“consistent with the Executive’s obligation to ‘take Care that 
+the Laws be faithfully executed.” Davis, 512 U.S. at 465 
+(Scalia, J., concurring) (quoting U.S. Const. art. Il, § 3). In 
+cases where the Executive Branch declines to defend an Act of 
+Congress, this Court has routinely accepted briefing from 
+Members of Congress. See, e.g., INS v. Chadha, 462 U.S.919 
+(1983). Given this case’s importance and the deference owed 
+congressional judgments by the Executive and Judicial Branch- 
+es, Amici respectfully submit this brief as amici curiae and 
+urge this Court to affirm the judgment below.’ 
+
+
+to Patty Stemler, Chief, Criminal Division, Appellate Section | 
+
+(undated); and that “Section 3501 provides greater flexibility to the 
+law enforcement officer in obtaining voluntary statements,” 
+Memorandum from Richard A. Fiano, Chief of Operations, DEA, to 
+Frank A.S. Campbell, Deputy Assistant Attorney General, Office of 
+Policy Development 2 (Oct. 13, 1999). In an effort to explain away 
+these memoranda, respondent has lodged with the Court a third, 
+recently-authored DEA memorandum which attempts “to clarify” 
+DEA’s earlier memoranda. See Memorandum from Cynthia R. 
+Ryan, Chief Counsel, DEA, to Seth P. Waxman, Solicitor General 
+1 (Feb, 22, 2000). Although this third memorandum claims that 
+DEA “did not intend” in its prior memoranda to depart from the 
+“basic belief” that “complying with the Miranda decision generally 
+does not hinder DEA investigations,” it concedes that DEA prefers 
+“the flexibility that 18 U.S.C. § 3501 could provide.” /d. at2. Thus, 
+it seems apparent, contrary to the impression made by respondent’s 
+brief, that federal law enforcement agencies are mixed on whether 
+the legal rules of § 3501, as opposed to those of Miranda, are 
+preferable to law enforcement and should be defended by the Justice 
+Department before this Court. 
+
+
+> This brief is filed with the consent of the parties pursuant 
+to Rule 37.3(a). Letters of consent have been filed with the Clerk. 
+
+
+5 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Section 3501, rather than Miranda, governs the admissi- 
+bility of confessions in federal court. The Miranda rules are 
+not mandated by the Constitution. The Miranda decision itself 
+does not purport to be a constitutional ruling, and this Court, in 
+numerous cases, has repeatedly referred to the Miranda rules as 
+prophylactic safeguards that are non-constitutional in nature. 
+
+In enacting § 3501, Congress determined that unwarned 
+custodial confessions are not necessarily coercive, thereby 
+undermining the central factual assumption upon which the 
+Miranda decision was based. Congress’ determination in this 
+respect was based on considerable deliberation and debate. 
+Section 3501 supersedes Miranda’s conclusive presumption 
+that unwarned custodial confessions necessarily are the product 
+of coercion and therefore are inadmissible. The statute, 
+however, reaffirms Miranda’s basic holding that suspects in 
+custody should be advised of their constitutional rights. 
+
+If this court accepts the arguments advanced by 
+petitioner and respondent, then Congress’ authority to establish 
+rules of procedure and evidence for federal courts will be 
+diminished. Although this Court may devise non-constitutional 
+rules of procedure and evidence for federal courts, it may only 
+do so in the absence of a statute. If the non-constitutional 
+Miranda rules are upheld in this case, then this Court effect- 
+ively will have plenary power to devise both constitutional and 
+non-constitutional rules for federal courts. 
+
+Finally, § 3501 is constitutional. The statute does not 
+lessen the constitutional protections afforded to suspects in 
+
+custody. Instead it merely alters the non-constitutional prophy- 
+lactic safeguards this Court devised in Miranda. Congress 
+determined that § 3501 was constitutional when it enacted the 
+statute and that determination is entitled to deference. 
+
+
+6 
+ARGUMENT 
+
+
+I. SECTION 3501 GOVERNS THE ADMISSIBILITY 
+OF CONFESSIONS IN FEDERAL COURT. 
+
+
+In Miranda v. Arizona, 384 U.S. 436 (1966), this Court 
+first prescribed a rule of procedure: police shall provide 
+suspects in custody with four specified warnings, see id. at 444; 
+and then set forth a rule of evidence: any statement stemming 
+from the custodial interrogation of a suspect is conclusively 
+presumed to be involuntary, and therefore inadmissible, unless 
+the warnings first were given (or waived), see id. In Miranda, 
+however, this Court made clear that Miranda’ s warnings and its 
+conclusi’’e presumption that unwarned custodial confessions 
+are always coercive, are not constitutionally mandated. Thus, 
+this Court invited Congress to create its own procedures to 
+safeguard the privilege against compelled self-incrimination. 
+
+Congress acted on the Court’s invitation and, following 
+hearings and extensive floor debate, found that the facts upon 
+which Miranda’s conclusive presumption is based are incor- 
+rect. Congress determined that an unwarned custodial confes- 
+sion is not necessarily the product of coercion and therefore 
+does not have to be excluded from trial per se. Accordingly, 
+acting pursuant to its legislative authority to establish rules of 
+procedure and evidence for the federal courts, Congress enacted 
+§ 3501. In so doingCongress codified the tamiliar Miranda 
+warnings, but superseded Miranda’s conclusive presumption 
+that unwarned custodial interrogations necessarily produce 
+involuntary, and hence inadmissible, confessions. 
+
+
+A. The Miranda Rules Are Not Mandated by 
+the Constitution. 3 
+
+
+The Miranda Court made the factual assumption that 
+“without proper safeguards the process of in-custody interroga- 
+
+
+—_—_——_—- or 
+
+
+7 
+
+
+tion . . . contains inherently compelling pressures which work 
+to undermine the individual’s will to resist and compel him to 
+speak where he would not otherwise do so freely.” 384 U.S. at 
+467. Based upon this factual assumption, the Court held that 
+any statement resulting from the custodial interrogation of a 
+suspect would be conclusively presumed to be involuntary, and 
+therefore inadmissible, unless express warnings first had been 
+given (or waived). See id. at 479. Thus, the Court devised an 
+“anticipatory remedy” for potential constitutional violations 
+that might occur. 
+
+Since Miranda, however, this Court has held in 
+numerous cases that an unwarned custodial confession is not 
+tantamount to a Fifth Amendment violation and, therefore, does 
+not have to be excluded from evidence on a per se basis. 
+Stated differently, this Court effectively has come to reject 
+Miranda’s conclusive presumption that unwarned custodial 
+interrogations necessarily produce coerced confessions. As a 
+result, this Court has admitted confessions into evidence, even 
+though the suspect was in custody and Miranda warnings were 
+not given. See, e.g., New York v. Quarles, 467 U.S. 649, 657 
+(1984) (recognizing a “public safety” exception to Miranda’s 
+“prophylactic rule”); Oregon v. Hass, 420 U.S. 714, 722-23 
+(1975) (admitting unwarned statements to impeach testifying 
+defendant at trial); Michigan v. Tucker, 417 U.S. 433, 445-47 
+(1974) (holding that the failure to apply Miranda’s interroga- 
+tion safeguards is not per se a constitutional violation and that 
+a statement will not invariably be deemed “compelled” in 
+violation of the Fifth Amendment simply because it was 
+unwarned); Harris v. New York, 401 U.S. 222, 224 (1971) 
+(admitting unwarned statements for impeachment); see also 
+Oregon v. Elstad, 470 U.S. 298, 306 (1985) (declining to 
+suppress fruits of an unwarned confession). Indeed, this Court 
+frequently has observed that the Miranda rules are “prophylac- 
+tic” in character and that an unwarned statement is not neces- 
+sarily “compelled” in violation of the Fifth Amendment. See, 
+
+
+e.g., Davis, 512 U.S. at 457; Duckworth v. Eagan, 492 U.S. 
+195, 203 (1989); Connecticut v. Barrett, 479 U.S. 523, 528 
+(1987). These cases establish that statements resulting from an 
+unwarned custodial interrogation do not necessarily have to be 
+excluded from evidence — i.e., they show that the conclusive 
+presumption of Miranda is unsupportable.* 
+
+Conclusive presumptions, like the one set forth in 
+Miranda, are “designed to avoid the costs of excessive inquiry 
+where a per se rule will achieve the correct result in almost all 
+cases.” Coleman v. Thompson, 501 U.S. 722, 737 (1991). The 
+Miranda Court noted that pursuant to the conclusive presump- 
+tion it established, “we will not pause to inquire in individual 
+cases whether the defendant was aware of his rights without a 
+warning being given.” 384 U.S. at 468. Such presumptions 
+“require the Court to make broad generalizations. . . . Cases 
+that do not fit the generalization may arise, but a per se rule 
+reflects the judgment that such cases are not sufficiently 
+common or important to justify the time and expense necessary 
+to identify them.” Continental T.V., Inc. v. GTE Sylvania Inc., 
+433 U.S. 36, 50 n.16 (1977). Accordingly, conclusive pre- 
+sumptions are based upon judicial convenience, not on the 
+Constitution. 
+
+At no point did the Miranda Court state that the 
+conclusive presumption it set forth -was constitutionally 
+required. The Miranda Court acknowledged that the Constitu- 
+tion did not command this safeguard, see Miranda, 384 U.S. at 
+467; disclaimed any intent to create a “constitutional 
+straightjacket,” id.; referred to the warnings and the conclusive 
+
+
+* Respondent admits as much. See Brief for the United 
+States at 40, Dickerson v. United States, No. 99-5525 (filed Jan. 28, 
+2000) (“The Court’s decisions in Tucker and later cases rest on the 
+conclusion that . . . a violation of Miranda’s prophylactic rules does 
+not necessarily produce statements that are themselves 
+‘compelled.’”). : . 
+
+
+9 
+
+
+presumption as “procedural safeguards,” id at 444; and 
+specifically invited Congress and the States “to develop their 
+own safeguards for [protecting] the privilege,” id at 490. 
+Moreover, the Miranda Court specifically recognized that the 
+Constitution requires no “particular solution” for the regulation 
+of police interrogations. /d. at 467. Thus, Miranda, by its own 
+terms, did not purport to establish as a constitutional rule the 
+conclusive presumption that a confession obtained without the 
+warnings is involuntary. Cf Vance v. Terrazas, 444 U.S. 252, 
+266 (1980) (noting that rule set forth in Nishikawa v. Dulles, 
+356 U.S. 129 (1958), was non-constitutional in part because 
+Nishikawa itself “did not purport to be a constitutional ruling”). 
+
+Recently, this Court held in Smith v. Robbins, 1208S. Ct. 
+746 (2000), that the judicially-created Anders rule concerning 
+the acceptable procedure for handling frivolous appeals of 
+indigent criminal defendants, see Anders v. California, 386 
+U.S. 738 (1967), was not mandated by the Constitution. The 
+Anders rule had been referred to by this Court in cases subse- 
+quent to Anders as a “prophylactic framework,” Pennsylvania 
+v. Finley, 481 U.S. 551, 555 (1987), and a “safeguard” for 
+protecting a defendant’s right to appellate counsel, Penson v. 
+Ohio, 488 U.S. 75, 80 (1988). Similarly, the judicially-created 
+rules set forth in Miranda, which this Court repeatedly has 
+referred to as being “prophylactic” and “procedural safeguards” 
+protecting the constitutional right against self-incrimination, 
+are not mandated by the Constitution. Compare Smith, 120 S. 
+Ct. at 757 (stating that if the Anders rule was mandated by the 
+Constitution, then a “straitjacket” would be placed upon the 
+States’ efforts “to experiment with solutions to difficult 
+problems of policy”), with Miranda, 384 U.S. at 467 (disclaim- 
+ing any intention to create a “constitutional straitjacket which 
+will handicap sound efforts at reform”). In sum, this Court, 
+both in Miranda and in subsequent cases, has held that the 
+procedural and evidentiary rules set forth in Miranda are rules 
+of judicial convenience, not rules required by the Constitution. 
+
+
+10 
+
+
+B. In Enacting § 3501, Congress Determined 
+That Unwarned Custodial Interrogations Do 
+Not Necessarily Produce Compelled Confes- 
+sions. 
+
+
+The conclusive presumption set forth in Miranda — that 
+unwarned custodial confessions necessarily are the product of 
+coercion and therefore are inadmissible — is based upon a 
+factual assumption that “the process of in-custody interrogation 
+of persons suspected or accused of crime contains inherently 
+compelling pressures.” 384 U.S. at 467. As support for this 
+factual assumption,’ the Miranda Court surveyed certain police 
+manuals to obtain a general picture of police interrogation 
+practices, reviewed the “Wickersham Report” detailing police 
+misconduct in the 1930s, and gleaned anecdotal evidence of 
+police brutality from individual cases. See id. at 445-47. 
+
+Congress, however, determined that Miranda’ s factual 
+predicate for establishing the warnings and conclusive pre- 
+sumption was erroneous. Congress concluded that an unwarn- 
+ed custodial confession is not necessarily the product of 
+coercion; as a result, Congress found that an unwarned confes- 
+sion did not necessarily need to be excluded from evidence. 
+See 18 U.S.C. § 3501(b); see also S. Rep. No. 1097, 90th 
+
+
+* Whether a suspect (or a class of future suspects) was 
+coerced into confessing necessarily is a factual question. See 
+Haynes v. Washington, 373 U.S. 503, 515 (1963) (discussing factual 
+inquiry into “the effect of psychologically coercive pressures and 
+inducements on the mind and will of an accused”); Lymumn vy. 
+Illinois, 372 U.S. 528, 534 (1963) (noting that the “question in each 
+case is whether the defendant’s will was overborne at the time he 
+confessed”); see also S. Rep. No. 1097, 90th Cong., 2d Sess. 58 
+(1968) (noting that “whether in fact a confession has been 
+voluntarily made” is an “essential fact issue[{]” (emphasis in 
+original)). 
+
+
+Cong., 2d Sess. 60 (1968) (asking rhetorically “if, in fact, 
+custodial interrogation is not inherently coercive, how does the 
+constitutional basis of the decision fare?”). In considering the 
+legislation that became § 3501, Congress determined that 
+Miranda’s factual assumption was not supported by the 
+evidence.° In Miranda, 
+
+
+the Court made a finding of fact that every custodial 
+interrogation was inherently coercive and intimidating. 
+And upon what basis is this conclusion drawn? It is . 
+
+. not by examination of the records of any police 
+interrogation, not by drawing upon a developing 
+consensus among the authorities in this area. . . 
+Rather, the Court notes that since “[i]nterrogation still 
+takes place in privacy,” there is a secrecy which “results 
+in a gap in our knowledge as to what in fact goes on in 
+the interrogation rooms.” 
+
+
+S. Rep. No. 1097, 90th Cong., 2d Sess. 55 (1968) (quoting 
+Miranda, 384 U.S. at 448); see also id. (noting that the “data 
+supporting the [Court’s] conclusion of inherent coercion in 
+custodial interrogation were drawn solely from police manuals 
+and texts which may or may not have been followed”); see also 
+
+
+° The dissenting Justices make this abundantly clear. See 
+Miranda, 384 U.S. at 499-500 (Clark, J., dissenting) (noting that “the 
+examples of police brutality mentioned by the Court are rare 
+exceptions to the thousands of cases that appear every year in the 
+law reports”); id. at 515-26 (Harlan, J., dissenting) (noting that the 
+majority “portrays the evils of normal police questioning in terms 
+which I think are exaggerated”); id. at 536 (White, J., dissenting) 
+(noting that “for all the Court’s expounding on the menacing 
+atmosphere of police interrogation procedures, it has failed to supply 
+any foundation for the conclusions it draws or the measures it 
+adopts”). 
+
+
+12 
+
+
+id. at 48 (finding in 1968 that “while coercive practices might 
+have been approved 30 years ago, they have no place in modern 
+police techniques” and that “the Court overreacted to defense 
+claims that police brutality is widespread”). Congress’ conclu- 
+sion that Miranda’ s factual assumption was empirically wrong 
+was based upon data collected from a broad range of sources 
+and was the product of considerable deliberation and debate. 
+See generally S. Rep. No. 1097, supra; Michael Edmund 
+O'Neill, Undoing Miranda, 2000 B.Y.U. L. Rev. 101 (forth- 
+coming 2000). 
+
+Unlike the Supreme Court, Congress is not bound by 
+the parties’ submissions, but instead can conduct hearings, 
+canvass constituents and obtain information from a broad range 
+of sources. With respect to gathering facts relating to custodial 
+interrogations, “Congress, with its vastly superior fact-gather- 
+ing powers, is in a much better position than the Court to 
+formulate standards most likely to result in a correct determina- 
+tion, in a given case, of the issue of voluntariness of a confes- 
+sion.” S. Rep. No. 1097, supra at 47 (statement of then- 
+California Attorney General Thomas C. Lynch); see also 
+Turner Broadcasting Sys., Inc. v. FCC, 520 U.S. 180, 195 
+(1997) (noting that Congress “is far better equipped than the 
+judiciary to amass and evaluate the vast amounts of data 
+bearing upon legislative questions”); Miranda, 384 U.S. at 524 
+(Harlan, J., dissenting) (noting that “legislative reforms . . . 
+have the vast advantage of empirical data and comprehensive 
+study . . . [and] allow experimentation and use of solutions not 
+open to the courts”). The Miranda Court seemed to have 
+recognized its own inherent institutional limitations, as it 
+specifically invited Congress and State legislatures “to develop 
+their own safeguards for [protecting] the privilege” against sel f- 
+incrimination. /d. at 490. 
+
+Congress was justified in superseding Miranda’s 
+conclusive presumption when it enacted § 3501. This Court 
+has held that conclusive presumptions “should not be applied 
+
+
+i3 
+
+
+. . . in situations where the generalization is incorrect as an 
+empirical matter.” Coleman, 501 U.S. at 737. In fact, “the - 
+justification for a conclusive presumption disappears when 
+application of the presumption will not reach the correct result 
+most of the time.” /d Here, according to congressional 
+findings, the basis for Miranda’s conclusive presumption is 
+incorrect as an empirical matter and the presumption does not 
+reach the correct result — i.e., suppressing only coerced confes- 
+sions — most of the time that it is applied. 
+
+It is well established that Congress may, in enacting 
+legislation, substitute its own factual determinations for those 
+of the Supreme Court. In Katzenbach v. Morgan, 384 U.S. 641 
+(1966), for example, this Court upheld § 4(e) of Voting Rights 
+Act of 1965, which prohibited States from using English 
+literacy tests to prevent certain non-English speaking minorities 
+from voting. See id. at 653. Prior to the enactment of § 4(e), 
+this Court had made the factual determination that a North 
+Carolina statute that established English literacy as a voting 
+prerequisite did not violate the Fourteenth Amendment’s Equal 
+Protection Clause. See Lassiter v. Northampton County Bd. of 
+Elections, 360 U.S. 45, 53 (1959). Congress, however, 
+disagreed with the Court’s factual determination in Lassiter and 
+decided that the North Carolina law did, in fact, violate the 
+Equal Protection Clause. To remedy that violation, Congress 
+enacted § 4(e) of the Voting Rights Act of 1965. Opponents 
+challenged the constitutionality of § 4(e), arguing that Congress 
+could not act under its Fourteenth Amendment remedial 
+authority unless the Court first determined that a constitutional 
+violation had occurred. In the absence of such a violation, it 
+was claimed, Congress had no authority to act. 
+
+In Katzenbach, the Court rejected that limited vision of 
+Congress’ authority. The Court instead determined that 
+Congress had sufficient factual evidence before it to support a 
+reasonable conclusion that § 4(e) was necessary to preyent a 
+denial of equal protection. See 384 U.S. at 653. Congress 
+
+
+14 
+
+
+simply made its own appraisal of the facts and reached a 
+different factual conclusion than the Court; in turn, the Court 
+deferred to Congress’ judgment. See id. (“It is not for us to 
+review the congressional resolution of these factors. It is 
+enough that we be able to perceive a basis upon which the 
+Congress might resolve the conflict as it did.”). 
+
+Under the reasoning of Katzenbach, although Congress 
+may not legislatively require the admission of an involuntary 
+confession in violation of the Fifth Amendment, it may rely on 
+its “specially informed legislative competence,” id. at 656, to 
+make its own appraisal of the facts when enacting legislation in 
+its “search for increasingly effective ways of protecting the 
+individual while promoting efficient enforcement of our 
+criminal laws,” Miranda, 384 U.S. at 467. Indeed, 
+
+
+because Miranda . . . was based upon a factual conclu- 
+sion by the Justices, and [because] . . . Congress may 
+undertake to mold constitutional policy by itself making 
+factual determinations, it is proper and appropriate for 
+Congress, by simple legislation, not to override Miran- 
+da, but to present to the Court a factual determination 
+and conclusion different from that underpinning Miran- 
+da. — 
+
+
+S. Rep. No. 1097, supra, at 63. 
+
+
+& Section 3501 Reaffirms Miranda’s Basic 
+Holding That Suspects in Custody Should Be 
+Advised of Their Constitutional Rights. 
+
+
+Section 3501 provides that “a confession . . . shall be 
+admissible in evidence if it is voluntarily given.” 18 U.S.C. § 
+3501(a). In determining the issue of voluntariness, the statute 
+provides that the trial judge shall 
+
+
+15 
+
+
+take into consideration all the circumstances surround- 
+ing the giving of the confession, including (1) the time 
+elapsing between arrest and arraignment of the defen- 
+dant making the confession, if it was made after arrest 
+and before arraignment, (2) whether such defendant 
+knew the nature of the offense with which he was 
+charged or of which he was suspected at the time of 
+making the confession, (3) whether or not such defen- 
+dant was advised or knew that he was not required to 
+make any statement and that any such statement could 
+be used against him, (4) whether or not such defendant 
+had been advised prior to questioning of his right to the 
+assistance of counsel, and (5) whether or not such 
+defendant was without the assistance of counsel when 
+questioned and when giving such confession. 
+
+
+Id. at § 3501(b). Additionally, the statute provides that “[t}he 
+presence or absence of any of the above-mentioned factors to 
+be taken into consideration by the judge need not be conclusive 
+on the issue of voluntariness of the confession.” /d. 
+
+Section 3501 was a progressive expansion of suspects’ 
+rights as compared to pre-Miranda law. First, the text of § 
+3501 reveals that Congress codified the familiar Miranda 
+warnings,’ which were not mandated prior to the Miranda 
+
+
+’ Compare id. at § 3501(b)(3)-(4) (trial court to determine 
+“whether or not such defendant was advised or knew that he was not 
+required to make any statement and that any such statement could be 
+used against him” and “whether or not such defendant had been 
+advised prior to questioning of his right to the assistance of 
+counsel”), with Miranda, 384 U.S. at 444 (“Prior to any questioning, 
+the person [in custody] must be warned that he has a right to remain 
+silent, that any statement he does make may be used as evidence 
+against him, and that he has a right to the presence of an attorney, 
+either retained or appointed”). 
+
+
+16 
+
+
+decision, and specifically directed the trial court to consider 
+whether the warnings were given. Congress thus took into 
+account the testimony of congressional hearing witnesses who 
+indicated that warnings of some sort were needed. 
+
+In several additional respects, Congress went well 
+beyond pre-Miranda law when it enacted § 3501. The statute 
+codified the requirement set forth by this Court in Jackson v. 
+
+
+Denno, 378 U.S. 368 (1964), that while the judge shall admit 
+
+
+voluntary confessions, he also “shall instruct the jury to give 
+such weight to the confession as the jury feels it deserves under 
+all the circumstances.” 18 U.S.C. § 3501(a). Such an instruc- 
+tion permits the defendant to place the confession within its 
+proper context and seek mitigation from the jury. The statute 
+also requires the judge to consider whether the “defendant 
+knew of the nature of the offense with which he was charged or 
+of which he was suspected at the time of the confession.” /d. 
+at § 3501(b)(2). This requirement not only surpasses pre- 
+Miranda l\aw, but also current law, which holds that the failure 
+of police to inform a suspect “of the subject matter of the 
+interrogation could not affect [his] decision to waive his Fifth 
+Amendment privilege in a constitutionally significant manner.” 
+Colorado v. Spring, 479 U.S. 564, 577 (1987). Section 3501 
+also is considerably broader than pre- Miranda law in recogniz- 
+ing a statutory right to counsel and making relevant whether a 
+suspect “was without the assistance of counsel when ques- 
+tioned and when giving such confession.” 18 U.S.C. § 
+3501(b)(5). Prior to Miranda, no general right to assistance of 
+counsel during police interrogation existed. 
+
+Section 3501’s declaration that the “presence or ab- 
+sence” of the warnings “need not be conclusive on the issue of 
+the voluntariness of the confession,” 18 U.S.C. § 3501(b) 
+(emphasis added), makes clear that Congress rejected 
+Miranda’s conclusive presumption that all unwarned confes- 
+sions necessarily are compelled and therefore are inadmissible 
+at trial. This Court, however, is free to read the statute as 
+
+
+17 
+
+
+requiring courts to give strong consideration to the absence of 
+warnings as a factor suggesting a confession was given 
+involuntarily. In summary, the text of § 3501 reveals that 
+Congress engaged in a reasoned legislative approach to craft 
+procedural requirements that balance the need for efficient law 
+enforcement against the protection of suspects’ constitutional 
+rights. 
+
+
+II. IF THIS COURT ACCEPTS THE ARGUMENTS 
+ADVANCED BY PETITIONER AND RESPON- 
+DENT, THEN CONGRESS’ AUTHORITY TO 
+“ESTABLISH RULES OF PROCEDURE AND 
+EVIDENCE FOR FEDERAL COURTS WILL BE 
+DIMINISHED. 
+
+
+The authority of Congress to establish rules of proce- 
+dure and evidence for federal courts will be seriously dimin- 
+ished if this Court accepts the arguments advanced by petitioner 
+and respondent. This Court repeatedly has held that Congress 
+enjoys the power to supersede by legislation judicially-created 
+rules of procedure and evidence that are not constitutionally 
+required. See, e.g., Vance, 444 U.S. at 265 (upholding statute 
+altering judicially-created evidentiary standard for expatriation 
+proceedings because “the Constitution” did not require prior 
+standard); Palermo v. United States, 360 U.S. 343, 345-48 
+(1959) (upholding federal statute establishing narrower criteria 
+for disclosing Jenks material than prior non-constitutional rule 
+established by Supreme Court).* “This power, rooted in the 
+
+
+* Amici do not dispute that, in the “absence of statutory 
+provision,” the Supreme Court has inherent supervisory power “to 
+prescribe procedures for the administration of justice in the federal 
+courts.” Palermo v. United States, 360 U.S. 343, 345 (1959). 
+Indeed, federal courts “may, within limits, formulate procedural 
+rules not specifically required by the Constitution or the Congress.” 
+
+
+18 
+
+
+authority of Congress conferred by Art. I, § 8, cl. 9, of the 
+Constitution to create inferior federal courts, is undoubted and 
+has been frequently noted and sustained.” Vance, 444 U.S. at 
+265-66 (citing cases). Accordingly, if a judicially-created rule 
+is not required by the Constitution, then Congress may exercise 
+its “congressional judgment,” see id. at 266, and enact a statute 
+that supersedes the ‘non-constitutional rule.’ 
+
+This Court’s inherent, supervisory power over lower 
+federal courts does not include the power to prescribe rules that 
+circumvent or conflict with federal statutes. See, e.g., Carlisle 
+v. United States, 517 U.S. 416, 425-26 (1996) (recognizing 
+inherent power of federal courts to develop rules of criminal 
+procedure unless the rules “circumvent or conflict with the 
+
+
+United States v. Hasting, 461 U.S. 499, 505 (1983). The power of 
+the Supreme Court to prescribe non-constitutional rules of procedure 
+and evidence for the federal courts, however, “exists only in the 
+absence of a relevant Act of Congress.” Palermo, 360 U.S. at 353 
+n.11 (citing Funk v. United States, 290 U.S. 371, 382 (1933), and 
+Gordon v. United States, 344 U.S. 414, 418 (1953)). 
+
+
+* For example, although this Court has yet to consider the 
+issue, federal courts have found that the very statute at issue in this 
+case — § 3501 — superseded the non-constitutional rule regarding the 
+admissibility of confessions obtained during an unreasonable delay 
+between a defendant’s arrest and initial appearance set forth by this 
+Court in McNabb v. United States, 318 U.S. 332 (1943), and Mallory 
+v. United States, 354 U.S. 449 (1957). See United States v. Pugh, 25 
+F.3d 669, 675 (8th Cir. 1994) (holding that § 3501 supersedes the 
+McNabb/Mallory rule), United States v. Christopher, 956 F .2d 536, 
+538-39 (6th Cir.1991) (noting that § 3501, rather than 
+McNabb/Mallory, governs the admissibility of confessions in federal 
+court). Because the rule set forth in McNabb and Mallory is not 
+required by the Constitution, the Eighth and Sixth Circuits 
+concluded that Congress possessed the legislative authority to 
+overrule both cases. See Pugh, 25 F.3d at 675; Christopher, 956 
+F.2d at 538-39. 
+
+
+19 
+
+
+Federal Rules of Civil Procedure”); Bank of Nova Scotia v. 
+United States, 487 U.S. 250, 254-55 (1988) (federal courts have 
+no authority “to disregard constitutional or statutory provi- 
+sions”). Accordingly, if Congress decides “to exercise its 
+power to define the rules that should govern . . . instead of 
+leaving the matter to the lawmaking of the courts,” Palermo, 
+360 U.S. at 348, then such congressional rules or statutes — not 
+judicially-created rules — must prevail, see id. 
+
+Congress exercised its power to define the rules that 
+should govern the admissibility of confessions in federal court 
+when it enacted § 3501. Accordingly, § 3501 is “the statute 
+governing the admissibility of confessions in federal prosecu- 
+tions.” United States v. Alvarez-Sanchez, 511 U.S. 350, 351 
+(1994). Petitioner and respondent, however, contend that the 
+extra-constitutional, judicially-created rules this Court set forth 
+in Miranda should govern the admissibility of confessions in 
+federal court. The procedural and evidentiary rules devised by 
+the Miranda Court, however, are not mandated by the Constitu- 
+tion. See Section I.A., supra. If this Court accepts the argu- 
+ments made by petitioner and respondent, then this Court will 
+be empowered to exercise its supervisory authority to establish 
+both constitutional and non-constitutional rules of procedure 
+and evidence for the federal courts — and the legislative 
+authority of Congress will be seriously diminished. Congress’ 
+authority to establish non-constitutional rules for the federal 
+courts, and this Court’s authority to devise such rules only in 
+the “absence of statutory provision,” Palermo, 360 U.S. at 345, 
+should be upheld. 
+
+
+Ill. SECTION 3501 IS CONSTITUTIONAL. 
+
+
+Section 3501 is constitutional because it is “fully as 
+effective,” Miranda, 384 U.S. at 490, as the rules of procedure 
+and evidence set forth in Miranda in safeguarding a suspect’s 
+constitutional rights while at the same time balancing society’s 
+
+
+20 
+
+
+legitimate interest in law enforcement. The statute codified the 
+Mira»da warnings, so law enforcement officers have every 
+incentiy * to continue to advise suspects in custody of their 
+constitutional rights. The statute also sets forth other factors 
+not contemplated by Miranda that district courts are to consider 
+in assessing whether the suspect was compelled to confess. In 
+addition, civil and criminal remedies that did not exist when 
+Miranda was decided provide remedies for suspects whose 
+constitutional rights have been violated. Importantly, Con- 
+gress, a co-equal branch of government, determined, after 
+thoroughly considering the issue and after substantial debate, 
+that the statute comports fully with the requirements of the 
+Constitution. Congress’ judgment in this regard is entitled to 
+deference. 
+
+
+A. The Statute Does Not Lessen the Constitu- 
+tional Protections Afforded to Suspects in 
+Custody. 
+
+
+In Miranda, this Court stated that “Congress and the 
+States are free to develop their own safeguards for the privilege, 
+so long as they are fully as effective as [the four warnings] in 
+informing accused persons of their right of silence and in 
+affording a continuous opportunity to exercise it.” 384 U.S. at 
+490. Congress’ decision to supersede the conclusive presump- 
+tion created by Miranda does not “restrict, abrogate, or dilute,” 
+Katzenbach, 384 U.S. at 651 n.10, the protections afforded to 
+suspects in custody by the Fifth Amendment, cf id. (holding 
+that although Congress may enact legislation to “enforce” the 
+Equal Protection Clause that is more protective than the Equal 
+Protection Clause itself, Congress has no power to enact 
+legislation that would violate the Equal Protection Clause). 
+Section 3501 does not lessen the protections afforded by the 
+Fifth Amendment because it expressly states that only confes- 
+sions that are “voluntarily given” are admissible in evidence. 
+
+
+21 
+
+
+See 18 U.S.C. §3501(a). Indeed, this Court has recognized that 
+Miranda’s conclusive presumption goes beyond what is 
+required by the Constitution to protect the privilege. That is 
+why, under Miranda, even “patently voluntary statements . . . 
+must be excluded” in some cases. Elstad, 470 U.S. at 307. In 
+enacting § 3501, Congress simply recognized the need to offset 
+the harmful effects created by Miranda’s conclusive presump- 
+tion. Cf Sandstrom v. Montana, 442 U.S. 510, 523 (1979) 
+(recognizing the harmful effects created by the use of manda- 
+tory conclusive presumptions in criminal cases). 
+
+Furthermore, Congress’ decision to supersede 
+Miranda’s conclusive presumption did not lessen the non- 
+constitutional, prophylactic safeguards that protect the Fifth 
+Amendment privilege against compelled self-incrimination. To 
+the contrary, the “congressional remedies” adopted in § 3501 
+“constitute means which are not prohibited by, but are consis- 
+tent ‘with the letter and spirit of the constitution.”” Katzen- 
+bach, 384 U.S. at 656. When enacting § 3501, Congress agreed 
+that the four warnings set forth in Miranda are important 
+safeguards in protecting the Fifth Amendment privilege against 
+self-incrimination. Accordingly, § 3501 specifically lists the 
+Miranda warnings as factors that a district court should 
+consider when determining whether a confession was volun- 
+tarily given. See 18 U.S.C. § 3501(b)(3)-(4). Congress also 
+believed that the suspect’s knowledge regarding the offense for 
+which he is being charged or investigated would be an impor- 
+tant indicator of whether the suspect was compelled to make a 
+statement, or confessed voluntarily. As a result, § 3501 
+instructs the trial judge to consider, in assessing voluntariness, 
+whether the defendant “knew the nature of the offense with 
+which he was charged or of which he was suspected at the time 
+of making the confession.” /d. at § 3501(b)(2). The Miranda 
+decision includes no such prophylactic safeguard. 
+
+Section 3501 also provides that the trial judge shall 
+
+
+“take into consideration all the circumstances surrounding the 
+
+
+22 
+
+
+giving of the confession,” id. at 3501(b), requiring trial courts 
+to hold meaningful suppression hearings to assess whether, in 
+fact, the suspect was compelled to confess in violation of the 
+Constitution. This procedural safeguard — a full-blown 
+suppression hearing — requires trial courts to consider whether, 
+in fact, the suspect confessed voluntarily, not just whether the 
+suspect received the warnings or waived his Miranda rights. 
+See Mark Berger, Compromise and Continuity: Miranda 
+Waivers, Confession Admissibility, and the Retention of 
+Interrogation Protections, 49 U. Pitt. L. Rev. 1007, 1010 
+(1988) (“If Miranda’ s prerequisites are followed, any resulting 
+statement is virtually certain to be admissible at trial’). 
+
+In addition to § 3501's safeguards, expanded criminal 
+and civil penalties that were not in existence when Miranda 
+was decided now operate to deter abusive police conduct and 
+provide a remedy for individuals whose Fifth Amendment right 
+against self-incrimination has been violated. Federal civil 
+rights statutes prohibit conspiracies that violate constitutional 
+rights. See 42 U.S.C. § 1983; 18 U.S.C. §§ 241, 242. This 
+
+
+Court recently held that “[b]eating to obtain a confession ~ 
+
+
+plainly violates” 18 U.S.C. § 242. United States v. Lanier, 520 
+U.S. 259, 271 (1997). Individuals may sue government 
+officials directly for constitutional injuries suffered. See Bivens 
+v. Six Unknown Named Agents, 403 U.S. 388, 397 (1971).'° 
+And, Congress waived federal immunity from claims for 
+deprivation of constitutional rights under the Federal Tort 
+Claims Act (“FTCA”). See 28 U.S.C. § 2671. Specifically, 
+individuals may sue under the FTCA for claims arising “out of 
+assault, battery, false imprisonment, false arrest, abuse of 
+
+
+'0 Moreover, victims of police overreaching can sue 
+municipalities directly under 42 U.S.C. § 1983 for any 
+unconstitutional policy. See Monnell v. Department of Soc. Servs., 
+436 U.S. 658 (1978). This option did not exist at the time of the 
+Miranda decision. See Monroe v. Pope, 365 U.S. 167 (1961). 
+
+
+23 
+
+
+process, or malicious prosecution.” 28 U.S.C. § 2680(h). 
+Thus, victims may now sue both the government and individual 
+law enforcement officers for abusive interrogation tactics. 
+Section 3501, then, viewed in the proper context and consid- 
+ered within the landscape of legal remedies available to 
+suspects whose rights have been violated, is constitutional 
+because it substitutes other “fully effective” procedural 
+safeguards for protecting the privilege against self-incrimina- 
+tion. 
+
+
+B. Congress’ Determination That § 3501 Is 
+Constitutional Is Entitled to Deference. 
+
+
+The Constitution imposes on all branches of govern- 
+ment, not just the courts, a duty to comply with the Constitu- 
+tion. A necessary inference is that Congress is authorized to 
+make its own judgments on constitutional issues, including 
+whether a statute is constitutional. In fact, congressional 
+findings can heip support statutes that courts otherwise would 
+invalidate on constitutional grounds. See, e.g. , United States v. 
+Lopez, 514 U.S. 549, 563 (1995) (noting that adequately drawn 
+“congressional findings” might support a conclusion that “the 
+activity in question substantially affected interstate com- 
+merce”); Adarand Constr. Inc. v. Pena, 515 U.S. 200, 236 
+(1995) (requiring Congress to justify affirmative action 
+legislation with specific congressional findings); S. Rep. No. 
+1097, supra, at 62-63 (noting that “Congress on the basis of its 
+determination of a factual issue has been allowed to mold 
+constitutional policy”). 
+
+Here, Congress hie!d hearings, filed a comprehensive 
+report, and engaged in extensive floor debate regarding whether 
+§ 3501 is constitutional. See. e.g., Controlling Crime Through 
+Effective Law Enforcement: Hearing Before the Subcomm. on 
+Criminal Laws and Procedures of the Senate Comm. on the 
+Judiciary, 9th Cong., Ist Sess. (1967); S. Rep. No. 1097, 
+
+
+24 
+
+
+supra, 114 Cong. Rec. 11,200-07, 11,228-30, 11,234-35, 
+11,593-97, 11,611-13, 11,740-47, 11,891-907, 12,457-75, 
+12,477-81, 12,798-822, 12,829-36, 13,202-03, 13,652-56, 
+13,845-67, 13,989-14,084, 14,129-59, 14,162-84, 16,066-298 
+(1968). After doing so, it determined that the statute fully 
+comports with the requirements of the Constitution. See S. 
+Rep. No. 1097, supra, at 63; see also 18 U.S.C. § 3501. 
+
+In enacting § 3501, Congress did not trench upon the 
+judiciary’s ultimate authority to construe the Constitution in a 
+case or controversy before the Court. See City of Boerne v. 
+Flores, 521 U.S. 507, 516-29 (1997); see generally Marbury v. 
+Madison, 5 U.S. (1 Cranch) 137 (1803). Nor did it attempt to 
+alter the meaning of the Fifth Amendment itself. Instead, it 
+merely altered the judicially-created prophylactic safeguards 
+surrounding the Fifth Amendment. Cf Smith, 120 S. Ct. at 
+757-58. Congress made no attempt to direct the outcome of a 
+particular case or class of cases. Rather, it merely established 
+rules that courts must use in determining whether a particular 
+piece of evidence should be admitted at trial.'' Accordingly, § 
+3501 is distinguishable from the Religious Freedom Restora- 
+tion Act (“RFRA”), which this Court held sought to impose 
+Congress’ interpretation of the First Amendment's Free 
+Exercise Clause upon the Supreme Court. See City of Boerne, 
+
+
+'' In enacting § 3501, Congress simply 
+
+
+mandated that voluntary statements be admitted despite 
+noncompliance with Miranda’s rules. Applying Miranda in 
+such a case accordingly requires a federal court to violate an 
+Act of Congress. Complying with the Act would involve no 
+violation of a constitutional right of the defendant. 
+
+
+Office of Legal Policy, Report to the Attorney General on the Law 
+of Pre-Trial Interrogation: Truth in Criminal Justice at 96 (Feb. 12, 
+1986), reprinted in 22 U. Mich. J.L. Reform 437 (1989). 
+
+
+25 
+
+
+§21 U.S. at 519." 
+
+In City of Boerne, this Court held that for a prophylactic 
+measure to be upheld as truly remedial or preventive, there 
+must be “congruence and proportionality between the injury to 
+be prevented or remedied and the means adopted to that end.” 
+Id. at 508. In assessing the “proportionality” of a particular 
+measure, courts are to consider whether (1) the record demon- 
+strates “a pattern of constitutional violations” and (2) the 
+measure is “*so out of proportion to a supposed remedial or 
+preventive object that it cannot be understood as responsive to, 
+or designed to prevent, unconstitutional behavior.’” Kimel v. 
+Florida Bd. of Regents, 120 S. Ct. 631, 644, 647 (2000) 
+(quoting City of Boerne, 521 U.S. at 532). The requirement 
+that prophylactic measures be proportional applies equally to 
+congressionally enacted measures and to those created by 
+courts in the exercise of their supervisory authority. If this 
+were not so, then Congress’ power to enact prophylactic 
+measures by legislation would be narrower than the Court’s 
+power to adopt prophylactic measures pursuant to its supervi- 
+sory power. In fact, the reverse may very well be true. 
+Compare Katzenbach, 384 U.S. at 649-50 (1966) (upholding 
+Congress’ prophylactic ban on literacy tests for voting), with 
+Lassiter, 360 U.S. at 53 (1959) (refusing to strike down literacy 
+tests under Court’s authority to enforce Equal Protection 
+
+
+'? Moreover, § 3501 is distinguishable from RFRA because 
+Miranda, unlike Employment Div., Dept. of Human Resources of 
+Oregon v. Smith, 494 U.S. 872 (1990) (the case to which RFRA 
+responded), stressed that if it were “shown other procedures which 
+are at least as effective in appraising accused persons of their right 
+of silence and in assuring a continuous opportunity to exercise it,” 
+then the Miranda rules could be dispensed with altogether. 384 U.S. 
+at 467. The Miranda Court expressly invited Congress and the 
+States to act. See id Presumably, it expected some sort of 
+legislative response to its decision. 
+
+
+26 
+
+
+Clause). Thus, neither Congress nor the Supreme Court has the 
+authority to establish sweeping prophylactic measures that are 
+disproportionate to the actual or potential injury. 
+
+The Miranda Court, however, established prophylactic 
+measures — the now-familiar warnings and the automatic 
+exclusion from evidence of unwarned confessions — that are not 
+congruent or proportional to the injury to be prevented or 
+remedied — the introduction into evidence of a confession 
+compelled in violation of the Fifth Amendment. First, the 
+record before the Miranda Court did not demonstrate a “pattern 
+of constitutional violations.” Kimel, 120 S. Ct. at 644. To the 
+contrary, the record before the Court failed to demonstrate that 
+police consistently force suspects to confess and then introduce 
+such compelled confessions into evidence in violation of the 
+Fifth Amendment. See Section I.B., supra. The Court, in fact, 
+admitted that such occurrences “are undoubtedly the exception 
+now.” Miranda, 384 U.S. at 447. Second, Miranda’ s irrebutt- 
+able presumption is “so out of proportion . . . that it cannot be 
+understood as responsive to . . . unconstitutional behavior.” 
+Kimel, 120 S. Ct. at 647. The automatic exclusion of unwarned 
+confessions is disproportionate because it does not reach the 
+correct result — suppressing only coerced confessions — most of 
+the time that it is applied. See Section I.B., supra. As such, 
+Miranda fails the test this Court outlined in City of Boerne for 
+distinguishing between permissible prophylactic measures 
+adopted to remedy or prevent unconstitutional actions and 
+impermissible attempts to rewrite constitutional protections 
+disguised as prophylactic remedial measures. See 521 U.S. at 
+516-29. Given the absence in the record of a pattern of 
+constitutional violations and the disproportional nature of the 
+rule automatically excluding unwarned confessions, Congress 
+itself could not constitutionally have enacted legislation 
+adopting Miranda’s prophylactic measures. 
+
+Unlike the Miranda Court (and unlike Congress with 
+respect to RFRA), Congress did not adopt sweeping, dispropor- 
+
+
+27 
+
+
+tional prophylactic measures-when it enacted § 3501. Instead, 
+Congress struck a reasonable balance between the injury to be 
+prevented or remedied and the means adopted to that end. See 
+Section LC., supra; cf. Katzenbach, 384 U.S. at 649-50 
+(holding that Congress’ ban of literacy tests was proportional 
+to potential constitutional injury). Because Congress, éxercis- 
+ing its independent judgment, determined that the statute does 
+not run afoul of the Constitution, and because § 3501, in fact, 
+does not lessen the constitutional protections afforded to 
+suspects in custody, this Court should affirm the judgment 
+below and uphold the constitutionality of the statute. 
+
+
+CONCLUSION 
+
+
+For the reasons set forth herein, Amici respectfully 
+request that the judgment of the United States Court of Appeals 
+for the Fourth Circuit be affirmed. 
+
+
+Respectfully submitted, 
+
+
+SENATOR ORRIN G. HATCH 
+
+Counsel of Record 
+United States Senate- 
+Washington, D.C. 20510 
+(202) 224-5225 
+
+
+—_ 
+
+
+Attorney for Amici Curiae 
+
+
+March 9, 2000 
+
+

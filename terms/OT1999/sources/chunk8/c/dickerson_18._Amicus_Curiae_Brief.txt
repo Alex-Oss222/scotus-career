@@ -1,0 +1,1901 @@
+IN THE 
+
+
+Supreme Court of the Anited States 
+
+
+CHARLES THOMAS DICKERSON, 
+
+
+Petitioner, 
+Vv. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF FOR AMICUS CURIAE 
+THE AMERICAN CIVIL LIBERTIES UNION 
+IN SUPPORT OF PETITIONER 
+
+
+STEVEN R. SHAPIRO JONATHAN L. ABRAM* 
+
+VIVIAN BERGER AUDREY J. ANDERSON 
+
+SUSAN N. HERMAN STEPHEN M. KUPERBERG 
+
+AMERICAN CIVIL LIBERTIES HOGAN & HARTSON L.L.P. 
+UNION FOUNDATION 555 Thirteenth Street, N.W. 
+
+125 Broad Street Washington, D.C. 20004-1109 
+
+New York, NY 10004 (202) 637-5681 
+
+* (212) 549-2500 
+
+
+STEPHEN SCHULHOFER 
+1111 East 60th Street 
+“Chicago, IL 60637 
+
+
+* Counsel of Record Counsel for Amicus Curiae 
+
+
+> 
+
+
+a 
+
+
+< +A , ¥ 
+¢ - : 
+i 4 , , \ c 
+¥ Z how 
+f e “J 7 7” 
+? = 
+ie en eA i pe 
+ae : pale Sr. : Y 
+e py ; A > : , 
+wpe 4 iw Se oh . - ” s* A. 
+. Pi va af hes we k , eed "e j t - - v\ 
+of re Pag ay here’ *S . » Pee eS BD . AIM BJ, : 
+FSi tah”) “uly es athy ALx . en oneal ya " s 
+“A> Sarg _ ete . 4. ‘ 
+. ee has he ie Sy? eet Ce 7 hey 
+salle Nain te se’ uted iy Fee et Mag Oe te Ss : 
+
+
+» - 
+‘ ry 
+Aes Von sia tt Oo ieee Per SSR etapa at : Se ea 
+“re eo. Sait! > is Bade 8 rth en ie. ot a a ‘ Wa oh a ast aby ee ey, 
+¢ oes i e ' are ee 2 8 ee Phy oe chatilieede ® ly Oe Pay ee eS eRe et 
+
+
+INTEREST OF THE AMICUS CURIAE 
+
+
+SUMMARY OF ARGUMENT 
+
+
+i 
+TABLE OF CONTENTS 
+
+
+THIS COURT’S MIRANDA DECISION IS AN 
+APPROPRIATE AND NECESSARY MEANS 
+OF ENFORCING THE FIFTH AMENDMENT 
+
+
+A. The Fifth Amendment Privilege Against 
+Self-Incrimination Reflects Core Values of 
+
+
+Our System of Criminal Justice.................... 
+
+
+B. The Due Process Voluntariness Test was 
+Unworkable and Gave No Guidance to 
+
+
+EEE SES OE 
+
+
+C. In Rejecting a “Totality of the 
+Circumstances” Test, Miranda is 
+Consistent With This Court’s Traditional 
+Approach to Defining Fifth Amendment 
+
+
+D. Miranda’s Workable Rules Have Become 
+Part of Our Constitutional Heritage and 
+
+
+Should Not Be Cut Back ............csescssssssseesees 
+
+
+Il. CUSTODIAL INTERROGATIONS ARE AS 
+
+
+INHERENTLY COMPELLING TODAY AS 
+THEY WERE WHEN MIRANDA WAS 
+
+
+B. Police Willingness to Interrogate In 
+Violation of Miranda Underscores the 
+
+
+Importance of Miranda to 
+
+
+Continuing 
+Protect Suspects’ Rights ..............csessseeeees 
+
+
+TABLE OF CONTENTS—Continued TABLE OF AUTHORITIES 
+Page Page 
+III. THE MIRANDA REQUIREMENTS DO NOT 
+SIGNIFICANTLY BURDEN LAW CASES: 
+SEPT SUG RINEEEIUE ccocoscusecsnsessntenssnsabennnndbigneapisesadammimidalds 19 Anders v. California, 386 U.S. 738 (1967) .cccccccccesssesseereeen 10 
+A. Police and Prosecutors Widely Believe That Ashcraft v. Tennessee, 322 U.S. 143 (1944) .......cccccccceeeees 7,14 
+Miranda Does Not Burden Law 
+Be SBGNNGI ccocccssessssecssttstnsnstiiccindbacticmasiaidaaeaiaanl 21 Bram v. United States, 168 U.S. 532 (1897) .......cccccccccceesseees 4 
+B. Data Confirm That Miranda Does Not Brewer Vv. Williams, 430 U.S. 387 (1977) .......cccccccccecceeseenees 10 
+Impede Law Enforcement.................:cs:sseeesseseeseseesees 23 Brooks v. T; | 406 U.S. 605 (1972) socssccsssseseesesnnee 9 
+C. Professor Cassell’s Empirical Claims About 
+Miranda's "Costs" Do Not Withstand Brown v. Mississippi, 4 | 6-7 
+Scrutiny Cees eeeeeeeseeeeeeereeeeeeereeseeeeeeseeeeseeeeseneooneseseeeesoesoees 25 Brown v. Board of Education, 347 U.S. 483 
+sonarus | - it eetieaieeieetiteerendiidaschehbanegimiahatibendincsseeccesetecsenstecesseest 13 
+CUREC LATION ccccasesscecesssutsosesntatectnsensosestbeisentindsianiaanaasananne Bruton v.United States, 391 U.S. 123 (1968) secccsessseseoo 10 
+California Attorneys for Criminal Justice v. 
+Butts, 195 F.3d 1039 (9th Cir. 1999) .00......cccccccceceeeseeneeees 18 
+Carter v. Kentucky, 450 U.S. 288 (1981)..........ccccccccceceeseeeeees 9 
+v. Dupnik, 963 F.2d 1220 (9th Cir. 
+|. beck 17,18 
+Couch v. United States, 409 U.S. 322 (1973) ...ccccccccseseresesees 4 
+Crooker v. California, 357 U.S. 433 (1958) ...........c.ccsccesee0e 7 
+Cruz v. New York, 481 U.S. 186 (1987) ..........cccccccccccceeeeeees 10 
+Edwards v. Arizona, 451 U.S. 477 (1981) .......ccccccccccceeseeeees 12 
+Escobedo Vv. Illinois, 378 U.S. 478 (1964) ..........ccccccccceeeeees 4-5 
+Fare v. Michael C., 442 U.S. 707 (1979) .......ccccccccccecseeeeeeees 12 
+Fikes v. Alabama, 352 U.S. 191 (1957) .....cccc.cccccceceeeeeeseeeeenes 6 
+Gardner v. Broderick, 392 U.S. 273 (1968) .........cccccccceeceeeees 9 
+Garrity v. New Jersey, 385 U.S. 493 (1967) ........cccccccceeceeseeee 9 
+
+
+Gray v. Maryland, 523 U.S. 185 (1998) ...cccccccccccccsssssssssss0e 10 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+CASES: 
+Griffin v. California, 380 U.S. 609 (1965)..........cccccccccecseeeeees 9 
+Harris v. South Carolina, 338 U.S. 68 (1949) .0........ccccccceeees 6 
+Hoffman v. United States, 341 U.S. 479 (1951) ....cccccc.esssvee- 8 
+Johnson v. New Jersey, 384 U.S. 719, 730 
+
+FREI cocesssesteticentaiipdneitintiialiiaasttithinitapestensenriteepntmencsreeseael 5 
+Kastigar v. United States, 406 U.S. 441 (1972) ...ccccccss000» 8 
+Lefkowitz v. Cunningham, 431 U.S. 801 (1977) ....ccccccvsee 9 
+Lefkowitz v. Turley, 414 U.S. 70 (1973) vccccccesessssesssssssveseeesse 9 
+Leyra V. Denno, 347 U.S. 556 (1954) .....cccccccccccceceseeeereeeeeeeees 6 
+Malinski v. New York, 324 U.S. 401 (1945)........ccccccccccceceeeeee 6 
+Malloy v. Hogan, 378 U.S. 1 (1964) cosccccccccssssssessssseessesencee 3-4 
+Massiah v. United States, 377 U.S. 201 (1964) ........cccccceeees 10 
+Michigan v. Mosley, 423 U.S. 96 (1975) cocc.ccccescscsesssssseeesen 12 
+Michigan v. Tucker, 417 U.S. 433 (1974)........cccc0000 12,13,20 
+Miller v. Fenton, 474 U.S. 104 (1985).........ccccccccscecsseeeeeeees 5-6 
+Mincey v. Arizona, 437 U.S. 385 (1978) cescccccccccecssvesssvessseneeee 8 
+Minnesota v. Murphy, 465 U.S. 420 (1984)....cc..c.cccs0e 11,21 
+Minnick v. Mississippi, 498 U.S. 146 (1990) ..ccc.cccccsssscveesee 12 
+Miranda v. Arizona, 384 U.S. 436 (1966)... passim 
+Moran v. Burbine, 475 U.S. 412 (1986) .......ccccceeceeevees 4,11,12 
+RS er ‘ 
+New Jersey v. Portash, 440 U.S. 450 (1979) ..cccccccccssssesesees 8-9 
+
+
+Vv 
+TABLE OF AUTHORITIES—Continued 
+
+Page 
+CASES: 
+New York v. Quarles, 467 U.S. 649 (19B4)..........cceccesee 12,13 
+Oregon v. Elstad, 470 U.S. 298 (1985)..........c-ececeeeeeeenes 12,13 
+Oregon Vv. Hass, 420 U.S. 714 (1975) .....c-ccccesereererereeeeees 12,16 
+People v. Bradford, 929 P.2d 544 (Cal. 1997)......-....-.c-ev+e 17 
+" Geta 19h 593 (1 mo CTT Aik sack ska 17 
+
+v. Winsett, 606 N.E 2d 1186 (Ill. 1992), 
+
+cert. denied, $10 U.S. 831 (1993) .......cccccccersersereereereneeenes 17 
+Planned Parenthood v. Casey, 505 U.S. 833 
+
+QRBGEED <ccccsesecsscscessscstscsszepepeevsssseenesnsnsossnssevasseussscssseesssees 13-14 
+Reck v. Pate, 367 U.S. 433 (1961) ......ccccccsecsccercseseeeerseeeenennees 6 
+Rhode Island v. Innis, 446 U.S. 291 (1980) .........--c-eseeeees 2,21 
+Schneckloth v. Bustamonte, 412 U.S. 218 
+
+IE ccsitchcciniinisininiabeanirbhidutiniintiaensiitiieaitmnncceencennesorenences 11 
+Smith v. Robbins, No. 98-1037, slip op. (Jan. 19, 
+
+BR scccicsenessbsisisatibaiictnemctitiiielisantiahisanndicunannsccsternssbeincien 10 
+Spano v. New York, 360 U.S. 315 (1959)........ccecererereeeerenenes 6 
+State v. Favero, 331 N.W.2d 259 (Neb. 1983) .....-.--cc-veereees 17 
+Stein v. New York, 346 U.S. 156 (1953).......-cecceesereesenseenees 6,7 
+Stroble v. California, 343 U.S. 181 (1952)........ccceceseereeeeenees 7 
+Turner v. Pennsylvania, 338 U.S. 62 (1949)........-.ccseceereerees 6 
+United States v. Dickerson, 166 F.3d 667 (4th 
+
+GERI Wiecscstcescqnnsvcccesheoceneperpentnenpenniagesigssensccnnencnsecesengasocnasts 7 
+United States v. Henry, 447 U.S. 264 (1980).........cc0ceceeeeeee 10 
+
+
+United States v. Nixon, 418 U.S. 683 (1974) ..cceccvcssssssseeesssen . 
+
+
+Page 
+CASES: 
+United States v. Verdugo-Urquidez, 494 U.S. 
+
+FET CUED cocecenerecmnaretupbinnitntiiaeatintateianniemmanasatimenie 5,11 
+United States v. Wilson, 421 U.S. 309 (1975).........ccceeeeseeeees 9 
+Washington v. Texas, 388 U.S. 14 (1967).........ccc..ccccseereeeeeees 8 
+Watts v. Indiana, 338 U.S. 49 (1949)............... uveununnaneneiande 4 
+White v. Texas, 310 U.S. 530 (1940)..000......cccccccecscceerceeeeseeeees 7 
+Withrow v. Williams, 507 U.S. 680 (1993) ...........c000+ passim 
+CONSTITUTIONAL AND STATUTORY PROVISIONS: 
+ee passim 
+
+Ce Fe I ccrrennstistitbthcieitiintceinsiesinicticinnstiittillcisinsi 10 
+SS UL. © Be ccccssibcntineesittresiasuinsinsictnecsittiintndiasateiasitith 10 
+ZB GBA. BTID cticsictitinctininnsermsindilitmunnnititnentigtitenidianan 17 
+OTHER AUTHORITIES: 
+
+ABA ial Comm'n on Criminal Justice in a 
+
+Free Society, Criminal Justice in Crisis (1988)................ 22 
+Arthur S. Aubry, Jr. & Rudolph R. . 
+
+Criminal Interrogation (2d €d. 1972)..........c-c-eseeeeeeeeeees 15 
+Liva Baker, Miranda: Crime, Law and Politics 
+
+GRD EEP ccccsrecsscemeninetitiltisianeneputibsngieiniietnteieeneceitiiesnenpniates 24 
+Peter Carlson, You Have the Right to Remain 
+
+Silent, WASHINGTON Post, Sept. 13, 1998............... 20,21,24 
+Paul G. Cassell, All Benefits, No Costs: The 
+
+Grand Illusion of Miranda’s Defenders, 90 
+
+
+NW. U. L. REV. 1084 (1996) ..........ccccccesessoccsosecssosesseosenees 27 
+
+
+TABLE OF A 
+
+
+OTHER AUTHORITIES: 
+
+
+Paul G. Cassell, The Costs of the Miranda 
+
+
+Mandate: 4 Lesson inthe Danger 
+Inflexible, ". em al 
+Inventions, 28 
+
+
+Paul G. Cassell, Miranda’s Social Costs: An 
+
+
+Paul G. Cassell & Richard Fowles, Handcuffing 
+
+
+the Cops? A a 
+Miranda’s Harmful Effects on 
+
+
+ST. 3299 ( i ee 
+
+
+Enforcement, 50 STAN. L. Rav 10 1055 (1998).......... 27-28,29 
+
+
+Paul G. Cassell & Bret S. Hayman, Police 
+jon in the 1990s: An 
+
+
+of Miranda, 43 UCLA L. 
+
+
+Study of the 
+ST CP sc ili hi ail i sceeescee 19-20,26 
+
+
+Tom C. Clark, Criminal Justice in America, 46 
+ee Cals Ey OD I cxciencemratinccdepciecnentnescnctncnnsteveeemesnens 
+
+
+John J. Donohue, II], Did Miranda Diminish 
+Police Effectiveness?, 50 STAN. L. REV. 1147 
+
+
+CRUD scdiasitscincitissilintnctodovinsinsticsibesqnsccinseectscecneseenccvseeses 28,29 
+
+
+Charles Fried, Order and Law (1990)..........csssesesessesseseees 
+
+
+Tom Gibbons & Jim Casey, Ed Meese's War on 
+Miranda Draws Scant Support, CH. SUN- 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+OTHER AUTHORITIES: 
+
+
+Joseph D. Grano, Voluntariness, Free Will, and 
+the wg of Confessions, 65 VA. L. REV. 859 ‘ 
+COD VE ceccecrscosscensintbtascandnthittelibinelassnabiniiitadiaiiaiteberntnanhenntis 
+
+
+Gisli H. Gudjonsson, The ape) 4 of 
+errogations, 
+
+
+Catherine Hancock, Due Process Before 
+Miranda, 70 TUL. L. REV. 2195 (1996)............ccesseseeseeeees 6,7 
+
+
+Lawrence Herman, The Supreme Court, The 
+Attorney General, and the Good Old Days of 
+Police Interrogation, 48 Oui0 ST. L.J. 733 
+
+
+Fred E. Inbau, et al., Criminal Interrogation and 
+Confessions (3d ed. 1986) ..........++ wsseseesnesnsenssscessessessessssees 15 
+
+
+Yale Kamisar, Confessions, Search and Seizure 
+and the Rehnquist Court, 34 TULSA L.J. 465 
+IIIT eccascneecnpunnsennveetecaseummenventietmmamidemnseanteas sssseeennnesennnnes 5,7 
+
+
+Yale Kamisar, Landmark Ruling 's Had No 
+
+Detrimental Effect, BOSTON SUNDAY GLOBE, 
+
+RD Ue CET incdivenaseekindehceedtacadtatiinttiiietdivensesininecnbedit 21-22 
+Yale Kamisar, Overturning Miranda, (Detroit) 
+
+LEGAL ADVERTISER, Feb. 26, 1987 .............cccsesseeseeeees ro 
+
+
+Saul M. Parcholowy of False C Kiechel, The 
+Social Psychology “wha 
+internalization, and 
+Contobulation, 7 PSYCHOL. SCI. 125 (1996) ...........ccccce0ee 16 
+Saul M. Kassin & Karlyn McNall, Police 
+Interrogations and Confessions: 
+ing Promises 
+
+
+by Pragmatic : 
+amma LAW & Hum. BEHAV. 233 
+(1991)........ FE ALES IGE BA IE EN GO COMO Se 16 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+OTHER AUTHORITIES: 
+
+
+Richard A. Leo, From Coercion to Deception: 
+The Changing Nature Police Interrogation 
+in America, 18 CRIME, L. & SOC. CHANGE 35 
+
+
+Richard A. Leo, The Impact 
+
+
+(1996) tA OES AE eT Rs passim 
+
+
+Richard A. Leo, Inside the li argues Basm. 
+86 J. CRIM. L. & CRIMINOLOGY 266 (1996)................. 
+
+
+Richard A. Leo, Miranda's R : Police 
+
+
+ne + ated 
+
+
+Richard A. Leo & Richard J. Ofshe, The 
+Consequences of False essions: 
+
+
+Deprivations 
+y arenas 
+
+
+429 (EDD UP cnrvsissutccindsttchininsmensntnesleidensiccsoisitebeocseenseoseocessnecee 16 
+
+
+Richard A. Leo & Richard J. Ofshe, Using the 
+Innocent to Miranda: Another 
+Reply to Paul | 88 J. Crim. L. & 
+CRIMINOLOGY 557 (1998) ....cccccceccssssssssecsccssssccessesesseees 
+
+
+Richard A. Leo & Welsh S. White, Adapting to 
+Miranda: Modern Interrogators’ Strategies for 
+Dealing with the Obstacles Posed by N 
+
+
+84 MINN. L. REV. 397 (1999) ..cccccosessssssscssssvsuvecsececesseserees 19 
+
+
+Parloff, Miranda on the Hot Seat, NEW 
+
+
+ORK TIMES MAGAZINE, Sept. 26, 1999 ......ccccocccssssssscssee 23 
+
+
+Eduardo Paz-Martinez, Police Chiefs Defend 
+Miranda Decision Meese Threats, 
+BOSTON GLOBE, Feb. 5, 1987 ...........cccccccccesecsseeeseeeeeees 
+
+
+x 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+OTHER AUTHORITIES: 
+
+
+Stephen J. Schulhofer, Miranda and Clearance 
+Rates, 91 NW. U. L. REV. 278 (1996) ......ccccccccssseseseessernees 27 
+
+
+Stephen J. Schulhofer, Miranda’s Practical 
+t: Substantial Benefits and Vanishingly 
+li Social Costs, 90 Nw. U. L. REv. 500 
+CBRE exrrccncishndesshtanbnetaiieiinkinibigindehsaseinniivsadhesiatintenadeiei passim 
+
+
+David Simon, Homicide (1991).......ccc0ss0.000 Man Mer a ldo 20 
+
+
+60 Minutes (CBS television broadcast, Dec. 5, 
+Se Pacchisiinticilatinantotateidainiibinaisiitarashainiitlnetashiibinesnectinnaendniincduians 18 
+
+
+Jerome Skolnick, Justice Without Trial (1996)..............000++ 28 
+
+
+George C. Thomas, III, Js Miranda a Real- 
+World Failure?: A Plea for More (and better) 
+Empirical Evidence, 43 UCLA L. REV. 821 
+ER OIUED ccncesssesdenpestiieenenntenteieineneatnennaiatiiecniementnians 20,24 
+
+
+George C. Thomas, III, Plain Talk About the 
+Miranda Empirical Debate: A “St te” 
+Theory of Confessions, 43 UCLA L. REv. 933 
+CREB ED ceseccacesticiectnintcinnscnnistbeiecpeintignbiaaibhhasetcnttecsesicceie 24,26 
+
+
+Stephen L. Wasby, Small Town Police and the 
+Beer eee Ca CUS Fae cece corervnsstncmninimnenennenmaguneres 22 
+
+
+Charles D. Weissel 
+CORNELL L. REV. 109 (1998) ........cccccscsssesseseceeseneeenees 17,18 
+
+
+Paul B. Weston & Kenneth M. Wells, Criminal 
+Investigation: Basic Perspectives (2d ed. 
+
+
+SRS RI er NAO ee 20 
+
+
+BDOD)....n.roseccoscceennsndecpstneqneqetatspensnssepeibeocnoneneeennengpeesotoeneneschess 5 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+OTHER AUTHORITIES: 
+
+
+Pete Yost, Police Executive Backs Miranda 
+ad Review, WASHINGTON Post Jan. 23, 
+
+
+Evelle Younger, /nterrogation of Criminal 
+Defendants, 35 FORDHAM L. REV. 255 (1966)..........0000000 
+
+
+David E. Zulawski & Douglas E. Wicklander, 
+Practical Aspects of Interview and 
+
+
+TI ccinisieadstdiinitinprinchisinnischadinentainneandneiegiitienen 
+
+
+IN THE 
+
+
+Supreme Court of the Gnited States 
+
+
+No. 99-5525 
+
+
+CHARLES THOMAS DICKERSON, 
+
+
+Petitioner, 
+Vv. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF FOR AMICUS CURIAE 
+THE AMERICAN CIVIL LIBERTIES UNION 
+IN SUPPORT OF PETITIONER 
+
+
+INTEREST OF THE AMICUS CURIAE 
+The American Civil Liberties Union is a nationwide, non- 
+profit, non-partisan organization with nearly 300,000 mem- 
+bers that has been engaged in defense of the Bill of Rights for 
+80 years.' Many of its efforts have focused on enforcing 
+
+
+those portions of the Bill of Rights having to do with the 
+administration of criminal justice, including participation as 
+
+
+| All parties have consented to the filing of this brief; letters of 
+consent have been lodged with the Clerk. No counsel for a party 
+authored this brief in whole or in part, and no person other than the 
+amicus, its members, and its counsel made a monetary contribution 
+to the preparation or submission of the brief. 
+
+
+2 
+
+
+amicus curiae in Miranda v. Arizona, 384 U.S. 436 (1966). 
+This brief will concentrate on the legal setting for this 
+Court’s decision in Miranda, the factual circumstances of 
+custodial interrogations today, and the evidence concerning 
+Miranda’s supposed “costs” to law enforcement. That 
+limited focus, however, should not obscure our broader 
+concern. The ACLU continues to believe, as we believed in 
+1966, that if the Fifth Amendment privilege is to remain an 
+effective guarantor of our accusatorial system of criminal 
+justice, some warning is necessary to assure that persons 
+subjected to custodial interrogation know they are not 
+obliged to respond to questioning by the police and that the 
+police will respect their right to remain silent. 
+SUMMARY OF ARGUMENT 
+
+
+This Court’s landmark decision in Miranda v. Arizona was 
+a necessary response to the failure of the due process volun- 
+tariness test to protect adequately the core values of our 
+accusatorial system of justice, embodied in the Fifth 
+Amendment’s prohibition against compelled _ self- 
+incrimination. The per se nature of the holding in Miranda 
+was entirely consistent with the law this Court had developed 
+in other contexts to determine whether a particular govern- 
+ment action amounted to unlawful compulsion under the 
+Fifth Amendment. 
+
+
+In the past thirty-four years, Miranda's requirements have 
+been crafted into a series of workable rules that fully respect 
+the legitimate needs of law enforcement, and Miranda has 
+become perhaps the most widely recognized constitutional 
+protection in our criminal justice system. Stare decisis 
+strongly counsels against wholesale changes in these rules "at 
+this late date." Rhode Island v. Innis, 446 U.S. 291, 304 
+(1980) (Burger, C.J., concurring in the judgment). Nor is any 
+such change justified. 
+
+Custodial interrogations today involve the same inherent 
+
+
+compulsion that they did when Miranda was decided. Police 
+
+
+manuals and reported cases continue to detail the sometimes 
+illegal lengths to which law enforcement officials will go, 
+
+
+3 
+
+
+even with the protections of Miranda, to get a confession 
+from a suspect. These sources provide a disturbing glimpse 
+of what police practices could become in a world without 
+Miranda—where police need not tell citizens of the right to 
+remain silent, and need not respect that right once invoked. 
+Some contend that warning citizens about their constitu- 
+tional rights has imposed great “costs” to law enforcement. 
+In fact, the evidence is directly to the contrary—in the vast 
+majority of cases, police are able to conform their 
+to the dictates of Miranda without difficulty. In the end, 
+
+
+I, THIS COURT’S MIRANDA DECISION IS AN 
+APPROPRIATE AND NECESSARY MEANS OF 
+ENFORCING THE FIFTH AMENDMENT 
+
+
+The Fifth Amendment protection against compelled self- 
+incrimination embodies core values of our accusatorial 
+
+
+system of criminal justice. The Miranda decision was a 
+
+
+consistent with prior due process voluntariness analysis, 
+which also included some per se rules, and with this Court’s 
+
+
+interrogations to courts and police alike. 
+A. Poor were seg a ely eats hae per Haat 
+Incrimination Reflects Core Values of Our System 
+of Criminal Justice 
+
+
+Our accusatorial system of justice is based on the absolute 
+right of citizens accused of crime not to confess, but instead 
+
+
+4 
+
+
+stay” of that accusatorial system of prosecution. Malloy v. 
+Hogan, 378 U.S. 1, 7 (1964).2 The privilege against self- 
+_ incrimination protects fundamental notions of personal 
+autonomy by giving citizens suspected of crime the right to 
+choose whether to remain silent or to speak. See Miranda, 
+384 U.S. at 469; Moran v. Burbine, 475 U.S. 412, 426-27 
+(1986). By allowing people to choose not to speak with law 
+enforcement, the privilege also reflects respect for personal 
+privacy and individual dignity. See Couch v. United States, 
+409 U.S. 322, 327 (1973); Miranda, 384 U.S. at 460. Thus, 
+the privilege embodies “principles of humanity and civil 
+liberty, which had been secured in the mother country only 
+after years of struggle, so as to implant them in our institu- 
+tions in the fullness of their integrity, free from the possibili- 
+ties of future legislative change.” Bram v. United States, 168 
+U.S. 532, 544 (1897) (emphasis added). 
+
+
+In addition to protecting the accusatorial system of criminal 
+justice, the privilege against self-incrimination plays an 
+important role in protecting against abuses that may too 
+easily taint any custodial interrogation. Custodial interroga- 
+tion is designed to exploit the weaknesses of 
+Miranda, 384 U.S. at 455, and this Court has found “a 
+substantial risk that the police will inadvertently traverse the 
+fine line between legitimate efforts to elicit admissions and 
+constitutionally impermissible compulsion.” Moran v. 
+Burbine, 475 U.S. at 426 (citation omitted); see Escobedo v. 
+Illinois, 378 U.S. 478, 489 (1964) (“The exercise of the 
+power to extract answers begets a forgetfulness of the just 
+
+
+2 See Murphy v. Waterfront Comm'n, 378 U.S. 52, 55 (1964) 
+(privilege against self-incrimination reflects “our unwillingness to 
+subject those suspected of crime to the cruel trilemma of self- 
+accusation, perjury or contempt; [and] our preference for an 
+accusatorial rather than an inquisitorial system of criminal justice”) 
+(citations and internal quotations omitted); Watts v. Indiana, 338 
+U.S. 49, 3S (1909) CProtmectod, eyenamaaio and’ waseuntolied 
+subjection of an accused to interrogation by the police for the 
+purpose of eliciting disclosures or confessions is subversive of the 
+accusatorial system.”). 
+
+
+5 
+
+
+limitations of that power. The simple and peaceful process 
+of questioning breeds a readiness to resort to bullying and to 
+
+
+physical force and torture.”) (quoting John H. Wigmore, 8 
+Evidence § 309 (3d ed. 1940)); Lawrence Herman, The 
+
+
+Supreme Court, The Attorney General, and the Good Old 
+Days of Police Interrogation, 48 Owlo St. LJ. 733, 752 
+
+
+an “empty formalit{[y]." Miranda, 384 U.S. at 466. 
+
+
+B. The Due Process Voluntariness Test was 
+Unworkable and Gave No Guidance to Courts or 
+the Police 
+
+
+It was not until Miranda that the Court came to terms with 
+
+
+474 US. 104, 114 n. 4 (1985) ("The 
+
+
+6 
+
+
+rubric has been variously condemned as useless, perplexing, 
+and legal doubic talk.") (internal quotations and citations 
+omitted). 
+
+
+In its many voluntariness decisions prior to Miranda, the 
+Court generally applied a “totality of the circumstances” test 
+that gave no guidance to police ar2 »oduced a welter of 
+unpredictable results. In some cases, the “totality of the 
+circumstances” included examination of the personal char- 
+
+
+Reck v. Pate, 367 U.S. 433, 441-42 (1961); Spano v.. New 
+York, 360 U.S. 315, 321-22 and n.3 (1959); Fikes v. Ala- 
+bama, 352 U.S. 191, 193 (1957). In other cases, the personal 
+characteristics of the defendant were not so much as men- 
+
+
+nia, 338 U.S. 62 (1949); Harris v. South Carolina, 338 U.S. 
+68 (1949); Leyra v. Denno, 347 U.S. 556 (1954); Malinski v. 
+New York, 324 U.S. 401 (1945). 
+
+
+In addition to its “totality of the circumstances” test, the 
+
+
+7 
+
+
+(1936); White v. Texas, 310 U.S. 530 (1940).3 The Court 
+also established a per se rule that a confession following 
+continuous questioning of the suspect for thirty-six hours 
+without rest or sleep was “so inherently coercive” that the 
+resulting confession had to be excluded without inquiry into 
+the remainder of the circumstances or their actual impact on 
+the particular suspect. Ashcraft v. Tennessee, 322 U.S. 143, 
+154 (1944). 
+
+
+It is incorrect, therefore, to contend that prior to Miranda 
+there was a single voluntariness test that — the 
+admissibility of confessions. poy > Sr gy “tend — 
+between Brown v. Mississippi and Miranda, there was a 
+“cornucopia of Due Process tests.” See Hancock, supra, 70 
+
+
+misar, Confessions, supra, 34 TULSA L.J. at 471-72; Herman, 
+The Supreme Court, supra, 48 OHIO St. L.J. at 752. 
+
+
+Cc. ty Ne aly nee aad ON a sal 
+Test, is Consistent With This Court’s 
+
+
+Amendment Compan 
+
+
+from unwilling suspects, custodial interrogation raises Fifth 
+
+
+3 Despite this rule, the Court—pursuant to its “totality” 
+caselaw—frequently allowed admission of confessions where there 
+was substantial evidence of physical violence, refusing to consider 
+that evidence unless it was undisputed by the police. See, e.g, 
+Stein, 346 U.S. at 169-70; Crooker v. California, 357 U.S. 433, 
+437-38 n.3 (1958); Stroble v. California, 343 US. 181, 185-86 
+
+
+(1952). 
+
+
+Amendment issues of compulsion in addition to the due 
+process question of voluntariness. Although the “compul- 
+sion” that violates the Fifth Amendment has 
+
+been equated with the “involuntariness” or “overborne will” 
+that violates due process,‘ the two tests have always been 
+distinct.5 In analyzing compulsion under the Fifth Amend- 
+ment, this Court typically has not applied a “totality of the 
+circumstances” test. Rather, the Court has held that many 
+governmental actions intended to elicit information from 
+unwilling suspects, or to impose a cost on asserting the 
+privilege, are impermissibly “compelling” per se. Thus, 
+Miranda's conclusion that unwarned custodial interrogation 
+involves inherent compulsion fits comfortably within this 
+Court’s application of the Fifth Amendment in other con- 
+texts, both before Miranda and since. 
+
+
+The classic example of impermissible Fifth Amendment 
+compulsion is the threat of a contempt citation. Such a threat 
+has always been treated as compelling per se, see, e.g., 
+Hoffman v. United States, 341 U.S. 479 (1951); New Jersey 
+
+
+4 See, e.g., Paul G. Cassell, The Costs of the Miranda Mandate: 
+
+
+A Lesson in the Dangers of Inflexible, “Prophylactic” Supreme 
+Court Inventions, 28 ARIZ. ST. L.J. 299, 302 (1996). 
+
+
+5 The distinction between compelled and coerced statements is 
+fundamental to our system of civil and criminal justice. While 
+coerced statements are never admissible for any purpose, Mincey 
+v. Arizona, 437 U.S. 385 (1978), witnesses are routinely compelled 
+to give statements under subpoena. Absent a valid claim of 
+privilege, such compelled statements are clearly admissible, 
+Kastigar v. United States, 406 U.S. 441 (1972), and are the bread 
+and butter of virtually all judicial proceedings. United States v. 
+Nixon, 418 U.S. 683, 709 (1974) (“it is imperative to the function 
+of courts that compulsory process be available”). Indeed, the Sixth 
+Amendment provides the accused with the right to compulsory 
+process to call witnesses in his favor; again, those witnesses are 
+compelled to testify absent an applicable privilege. See Washing- 
+ton v. Texas, 388 U.S. 14 (1967). The only such privilege guaran- 
+teed by the Constitution is that against compelled self- 
+ssnutesinstian, See Goeteediddinen ananan teoiaaeett den emtunaian 
+that people are innocent until a prosecutor proves them guilty. 
+
+
+9 
+
+
+v. Portash, 440 U.S. 450 (1979), even though many wit- 
+nesses can and do resist this threat and go to jail rather than 
+testify. See, eg., United States v. Wilson, 421 U.S. 309 
+(1975). 
+
+
+A threat to discharge a public employee for failure to tes- 
+
+tify is also compelling per se and therefore impermissible 
+under the Fifth Amendment. See, e.g., Garrity v. New 
+Jersey, 385 U.S. 493 (1967); Gardner v. Broderick, 392 U.S. 
+273 (1968). This Court has never suggested that the totality 
+of circumstances must be assessed in such cases to determine 
+if such a threat “overbears” a particular employee’s will 
+depending on his economic circumstances. See Lefkowitz v. 
+Turley, 414 U.S. 70, 83 (1973) (Fifth Amendment compul- 
+sion cocurs per se when refusal to waive privilege reo in 
+disqualification from contracting with public ; 
+accord Lefkowitz v. Cunningham, 431 U.S. 801, 806 (1977). 
+Similarly, a comment on a defendant’s failure to testify is 
+impermissible per se regardless of the “circumstances,” 
+because it imposes a cost on assertion of the privilege. See, 
+e.g., Carter v. Kentucky, 450 U.S. 288 (1981); Brooks v. 
+Tennessee, 406 U.S. 605 (1972); Griffin v. California, 380 
+U.S. 609, 614 (1965).® 
+
+
+6 Miranda's requirement that police take affirmative steps to 
+dispel inherent compulsion, by reciting warnings, finds a close 
+parallel in the Fifth Amendment requirement that a trial judge take 
+affirmative steps to warn the jury not to draw an adverse inference 
+from a defendant's failure to testify. This Court noted in Carter v. 
+Kentucky that "if left to roam at large with only its untutored 
+instincts to guide it," an unwarned jury might draw inferences that 
+would jeopardize the Fifth Amendment privilege. Carter, 450 
+U.S. at 301. But, the Court continued, "[a] trial judge has a 
+powerful tool at his disposal to protect the constitutional privilege 
+— the jury instruction — and he has an affirmative obligation to use 
+that tool." Jd. at 303 (emphasis added). Carter's affirmative 
+warning requirement, triggered in the trial setting by a defense 
+
+
+10 
+
+
+Thus, in holding that custodial interrogation of an unwill- 
+ing or unwarned suspect involves inherent compulsion, 
+Miranda applied to police questioning the same per se 
+approach that has been a familiar staple of this Court’s Fifth 
+Amendment jurisprudence. Indeed, it is §3501, not 
+Miranda, that departs from the traditional Fifth Amendment 
+concept of compulsion. Section 3501 provides that all 
+incriminating statements “shall be admissible” if found to be 
+“voluntarily made . . . tak/ing] into consideration all the 
+circumstances.” 18 U.S.C. § 3501(a), (6) (emphasis sup- 
+plied).’? The totality-of-circumstances approach that would 
+be mandated by § 3501 is irreconcilable with this Court’s 
+conclusion in Hoffman, Portash, Gardner, Griffin, and their 
+progeny that certain government action (or inaction, as in 
+Carter) involve impermissible compulsion per se, without 
+regard to the defendant’s particular circumstances.® 
+
+
+7 To be sure, Miranda recognized that Congress or the States 
+might adopt alternative means of protecting the Fifth Amendment 
+privilege, but made clear that such alternative measures must be 
+“at least as effective [as Miranda] in apprising accused persons of 
+their right of silence and in assuring a continuous opportunity to 
+exercise it." Miranda, 384 U.S. at 467. Section 3501 does not 
+require that any warnings be given and merely returns protection 
+of the Fifth Amendment privilege to the same retrospective 
+"totality" analysis rejected by Miranda. Cf. Smith v. Robbins, No. 
+98-1037, slip op. at 19 (Jan. 19, 2000) (California procedure for 
+appointed counsel to file brief on behalf of indigent upheld where 
+procedure, while not identical to prophylactic requirements of 
+Anders v. California, 386 U.S. 738 (1967), "far exceed[s] those 
+procedures that we have found invalid”). 
+
+
+8 Similarly, in the context of Sixth Amendment right-to-counsel 
+and confrontation claims, the § 3501 mandate requiring federal 
+courts to admit all “voluntary” statements would, if upheld, require 
+overruling such cases as United States v. Henry, 447 U.S. 264 
+(1980), Bruton v. United States, 391 U.S. 123 (1968), and Massiah 
+v. United States, 377 U.S. 201 (1964), and by implication such 
+parallel state cases as Gray v. 523 U.S. 185 (1998), 
+Cruz v. New York, 481 U.S. 186 (1987), and Brewer v. Williams, 
+430 U.S. 387 (1977). 
+
+
+11 
+
+
+D. Miranda’s Workable Rules Have Become Part of 
+
+
+Our Constitutional H and 
+yr eritage Should Not Be 
+
+
+The Miranda decision was a compromise. This Court 
+could have held that any statement made in the course of 
+custodial interrogation by the police was inadmissible; or it 
+could have adopted a rule consistent with the position then 
+
+
+by the police were uate to di ion inher- 
+a we adequ: 9 Gapel the compulsion inher 
+The requirements of Miranda are particularly crafted to 
+protect the privilege. Miranda requires that the suspect be 
+wamed of his rights, not only to inform the suspect so he 
+may make an intelligent and informed choice as to whether to 
+rat ortit wh, waive his rights,? but also to “show 
+ne indi\ interrogators are prepared to recognize 
+his privilege should he choose to exercise it.” Miranda, 384 
+U.S. at 436; see Minnesota v. Murphy, 465 U.S. 420, 433 
+(1984) (“the coercion inherent in custodial interrogation 
+derives in large measure from an interrogator’s insinuations 
+that the interrogation will continue until a confession is 
+invokes his right to remain silent or to have an attorney 
+present, the interrogation must cease. Miranda, 384 U.S. at 
+473-74. In this way the suspect can exercise some degree of 
+control over the duration of the interrogation and the subjects 
+
+
+9 Requiring warnings before the Fifth Amendment privilege i 
+right to a trial, as well as the reliability of the truth-finding process. 
+See Withrow, 507 U.S. at 691. Accordingly, because the Fifth 
+Amendment privilege against self-incrimination "is a fundamental 
+trial right,” it "operates in a different manner” than the Fourth 
+Amendment. United States v. Verdugo-Urquidez, 494 U.S. 259, 
+264 (1990); accord Schneckloth v. Bustamonte, 412 U.S. 218, 232, 
+
+
+12 
+
+
+discussed. See Michigan v. Mosley, 423 U.S. 96, 104 (1975). 
+Finally, Miranda requires a clear waiver of rights by the 
+suspect before a statement will be admissible. Miranda, 384 
+U.S. at 475-76. This requirement again protects the right of 
+the suspect to make an affirmative choice as to whether to 
+speak or remain silent. The burden of proving a valid waiver 
+is on the State because the isolated circumstances of custo- 
+dial intecrogation are its creation, and the State itself has the 
+“only means of making available corroborated evidence of 
+warnings.” Id. at 475. 
+
+
+Miranda thus represents a “carefully drawn approach.” 
+Moran v. Burbine, 475 U.S. at 427. As this Court has 
+recognized, a “principal advantage” of the rules announced in 
+Miranda is their “ease and clarity of application.” Jd. at 425 
+(citations omitted). Miranda’s requirements have “the virtue 
+of informing police and prosecutors with specificity as to 
+what they may do in conducting cus*odial interrogation, and 
+of informing courts under what circumstances statements 
+obtained during such interrogation are not admissible.” Fare 
+v. Michael C., 442 U.S. 707, 718 (1979). Furthermore, in the 
+thirty-four years since Miranda, this Court has amplified and 
+clarified its rules to provide workable guidance on the limits 
+of custodial interrogation. On the one hand, this Court has 
+applied Miranda narrowly in a range of circumstances in 
+recognition of law enforcement needs.!° On the other hand, 
+Arent has Vom CAUSES Pe eee sees re 
+who request counsel during a custodial interrogation. 
+Edwards v. Arizona, 451 U.S. 477 (1981); ads v. 
+Mississippi, 498 U.S. 146 (1990). 
+
+
+The success of Miranda's requirements lies not only in 
+their clarity. Miranda represents perhaps the most widely 
+recognized constitutional safeguard in our criminal justice 
+
+
+10 See, e.g., Michigan v. Tucker, 417 U.S. 433 (1974); Oregon 
+v. Hass, 420 U.S. 714 (1975); New York v. Quarles, 467 U.S. 649 
+(1984); Oregon v. Elstad, 470 U.S. 298 (1985). 
+
+
+13 
+
+
+system.'! A generation of Americans has grown up since 
+1966 confident that if brought to the police station for 
+questioning, we have the right to remain silent, that the police 
+will warn us of that right and, above all, that they will respect 
+its exercise. See Richard A. Leo, The Impact of Miranda 
+Revisited, 86 J. CRIM. L. & CRIMINOLOGY 621, 671-72 
+(1996). This is not to suggest that longstanding constitu- 
+tional rules are beyond re-examination, Brown v. Board of 
+Education, 347 U.S. 483 (1954), but only to suggest that this 
+Court has always acted with appropriate hesitancy before 
+overruling “watershed decision{s]" designed to protect 
+individual rights. Planned Parenthood v. Casey, 505 U.S. 
+833, 867 (1992). To measure the public’s reliance on 
+Miranda may be impossible, but that does not make it 
+irrelevant. To paraphrase Casey, “[t}he Constitution serves 
+human values, and while the effect of reliance on [Miranda] 
+cannot be exactly measured, neither can the certain cost of 
+overruling [Miranda]” for people who have come to view it 
+
+
+1! As more fully explained in the briefs for petitioner and the 
+United States, there can be no doubt that the Miranda Court’s 
+requirement of minimum warnings in custodial interrogations was 
+based on constitutional grounds. All nine Justices participating in 
+
+
+requirements of the Constitution. See Miranda, 384 U.S. at 490-91 
+(“the issues presented are of constitutional dimensions . . .. Where 
+rights secured by the Constitution are involved, there can be no 
+rule making or legislation which would abrogate them.” ) (empha- 
+sis added); id. at 500 (Clark, J., concurring in part and dissenting in 
+part) (emphasis added) (observing that the Court had “fashion{ed] 
+a constitutional rule”); id. at 505 (Harlan, J., dissenting); id. at 532 
+(White, J., dissenting). In addition, the application of Miranda to 
+the States—both on direct appeal and on habeas review—demon- 
+strates that this Court has understood its warning requirements to 
+be of constitutional stature. See id. at 491-94, 497-99; Withrow, 
+507 U.S. 680. The tainted fruits holdings of Oregon v. Elstad, 470 
+U.S. 298, and Michigan v. Tucker, 417 U.S. 433, and the public 
+safety exception of New York v. Quarles, 467 U.S. 649, while 
+imposing limits on the scope of Miranda's applicability, cannot 
+support the sweeping conclusion that Miranda’s warning require- 
+ment was without constitutional foundation. 
+
+
+14 
+
+
+as an unquestioned part of our constitutional heritage. Jd. at 
+856. Thus, even if the question were closer than we believe 
+it is, stare decisis weighs heavily in favor of retaining 
+Miranda. 
+
+II. CUSTODIAL INTERROGATIONS ARE AS 
+
+
+INHERENTLY COMPELLING TODAY AS THEY 
+WERE WHEN MIRANDA WAS DECIDED 
+
+
+The decision in Miranda was based in large part on what 
+the Court concluded was the compulsion inherent in all 
+custodial interrogations. In the more than thirty years since, 
+studies have confirmed that conclusion. Moreover, police 
+manuals and case law of the kind relied on in Miranda 
+continue to reveal a police force that, while better guided in 
+the contours of suspects’ Fifth Amendment rights, remains 
+willing to go to questionable and in many cases unlawful 
+lengths to obtain confessions. 
+
+
+A. More Than Thirty Years After Miranda, the 
+“Interrogation Room” Remains an Inherently 
+Compelling Environment 
+
+
+Central to this Court’s decision in Miranda was its conclu- 
+sion that the very fact of custodial interrogation involves 
+inherent compulsion, Miranda, 384 U.S. at 467, a view 
+shared even by Miranda’s critics. See Joseph D. Grano, 
+Selling the Idea to Tell the Truth: The Professional Interro- 
+gator and Modern Confessions Law, 84 MICH. L. REV. 662, 
+674 (1986) (“The ‘inherent compulsion’ of custodial interro- 
+gation would be present if an untrained, uniformed officer 
+questioned the suspect in the stationhouse receiving room.”); 
+see also Ashcraft v. Tennessee, 322 U.S. at 161 (“[t]o speak 
+of any confessions of crime made after arrest as being 
+‘voluntary’ or ‘uncoerced’ is somewhat inaccurate, although 
+traditional”) (Jackson, J., dissenting). 
+
+
+According to the Miranda Court, several aspects of custo- 
+dial interrogation coincide effectively to compel statements 
+from suspects against their will. Custodial interrogations are 
+
+done in private, secretively, with the police holding the 
+suspect “incommunicado” until a confession is made. 
+
+
+15 
+
+
+Miranda, 384 U.S. at 448-50. In addition, the “patience and 
+perseverance” of the interrogators can result in “relentless 
+questioning.” Jd. at 450-55. These essential attributes of 
+as they were in 1966, “exa->t[ing] a heavy toll on individual 
+liberty and trad[{ing] on the weakness of individuals.” Jd. at 
+455. 
+
+
+The essence of the interrogation room is still dominance 
+and control, exerted first through isolation. As the late Fred 
+E. Inbau, author of the leading treatise on police interroga- 
+tions, still put it twenty years after Miranda, the “principal 
+psychological factor contributing to a successful interroga- 
+tion is privacy.” Fred E. Inbau, et al., Criminal Interrogation 
+and Confessions 24 (3d ed. 1986).'2 See Arthur S. Aubry, Jr. 
+& Rudolph R. Caputo, Criminal Interrogation 199 (2d ed. 
+1972) (emphasis added) (“Privacy serves the useful purpose 
+of helping to withdraw the environment from the suspect, and 
+in helping create and heighten the illusion that the suspect is 
+now, and will continue to be, completely on his own re- 
+sources after he has entered the interrogation area.”). Deni- 
+als of guilt are simply put aside or even prevented to avoid 
+distracting the interrogator from the objective of obtaining a 
+confession. See, e.g., Inbau, Criminal Interrogation, supra, 
+at 142 (recommending that interrogatcrs prevent suspects 
+from making denials); David E. Zulawski & Douglas E. 
+Wicklander, Practical Aspects of Interview and Interrogation 
+227-42 (1993) (providing several methods for preventing 
+suspects from expressing denials of guilt). 
+
+Several psychological studies conducted since 1966 have 
+confirmed that the tactics still endorsed in the interrogation 
+manuals tend to promote false or untrustworthy confessions 
+
+
+12 See Miranda, 384 U.S. at 449 (quoting this language from the 
+first edition of Inbau’s treatise). Until his death in 1998, Inbau 
+continued to enjoy the reputation as the foremost authority on 
+police interrogation techniques. See, e.g., Gisli H. Gudjonsson, 
+
+
+a ee Confessions and Testimony 31 
+(1992). 
+
+
+16 
+
+
+by implanting notions of guilt or implying leniency. See Saul 
+M. Kassin & Katherine L. Kiechel, The Social Psychology of 
+False Confessions: Compliance, Internalization, and Con- 
+fabulation, 7 PSYCHOL. Sci. 125, 126-27 (1996); Saul M. 
+Kassin & Karlyn McNall, Police Interrogations and Confes- 
+sions: Communicating Promises by Pragmatic Implication, 
+15 Law & Hum. BEHAV. 233, 236-41 (1991); see also 
+Richard A. Leo & Richard J. Ofshe, The Consequences of 
+False Confessions: Deprivations of Liberty and Miscarriages 
+of Justice in the Age of Psychological Interrogation, 88 J. 
+CRIM. L. & CRIMINOLOGY 429 (1998) (in a review of 60 
+post-Miranda confessions, 34 cases of “proven” false confes- 
+sions, 18 “highly probable” false confessions, and 8 “prob- 
+able” false confessions). Even drawing from the estimates of 
+Professor Paul Cassell, in the years 1966 to 1998, “some- 
+where between 320 and 12,608 individuals have been 
+wrongly convicted from false confessions alone.” Richard A. 
+Leo & Richard J. Ofshe, Using the Innocent to 
+Miranda: Another Reply to Paul Cassell, 88 J. Crim. L. & 
+CRIMINOLOGY 557, 562 n. 24 (1998). The tendencies toward 
+false confessions through standard interrogation practices 
+that these studies present—while alarming enough in them- 
+selves—only serve to emphasize the atmosphere of inherent 
+compulsion that continues to characterize custodial interro 
+gations today. 
+B. Police Willingness to Interrogate In Violation of 
+Miranda Underscores the Continuing Importance 
+of Miranda to Protect Suspects’ Rights 
+
+
+Perhaps the most troubling trend in the interrogation room 
+of today is the growing police practice of ignoring Miranda 
+altogether. In Oregon v. Hass, 420 U.S: 714 (1975), Justice 
+Brennan warned that allowing use of unwarned statements 
+for impeachment would send police the message that they 
+were free to violate suspects’ Constitutional rights in pursuit 
+
+
+possibility,” id. at 723, but today, that “speculative possibil- 
+ity” has become a distinct reality. 
+
+
+17 
+
+Cases from thirty-eight states provide instances of police 
+deliberately ignoring suspects’ invocations of silence or right 
+to counsel in attempts to obtain confessions. See Charles D. 
+Weisselberg, Saving Miranda, 84 CORNELL L. REV. 109, 137- 
+38 & n.152 (1998).'3 In one recent empirical study, police 
+continued to question suspects despite the suspects’ invoca- 
+tion of their right to silence or to consult with an attorney in 
+nearly one out of every five cases in which suspects invoked 
+these rights. See Richard A. Leo, Inside the I 
+
+Room, 86 J. CRIM. L. & CRIMINOLOGY 266, 275-76 (1996). 
+These cases illustrate that in custodial interrogations today, 
+interrogators can and do intentionally violate suspects’ rights 
+to obtain confessions, even when they know the resulting 
+confession cannot be used in the prosecutor’s case in chief. 
+
+
+Cooper v. Dupnik, 963 F.2d 1220 (9th Cir. 1992) (en 
+banc), provides a stark example. In that case, brought under 
+42 U.S.C. § 1983, law enforcement authorities had followed 
+a “preexisting interrogation plan” whereby they systemati- 
+cally “ignored Cooper’s repeated requests to speak with an 
+attorney, deliberately infringed on his Constitutional right to 
+remain silent, and relentlessly interrogated him in an attempt 
+to extract a confession.” 963 F.2d at 1223.'4 Following their 
+
+
+13 Not only do police routinely ignore requests for counsel or 
+invocations of silence, but courts also routinely admit the confes- 
+sions so obtained as “voluntary” under the traditional due process 
+test. See, e.g., People v. Peevy, 953 P.2d 1212, 1219 (Cal.), cert. 
+denied, 119 S. Ct. 595 (1998); People v. Winsett, 606 N.E.2d 1186 
+(Ill. 1992), cert. denied, 510 U.S. 831 (1993); People v. Bradford, 
+929 P.2d 544 (Cal. 1997); State v. Favero, 331 N.W.2d 259, 261, 
+263 (Neb. 1983). 
+
+
+14 The police agencies in question had assembled a “Task 
+
+Force” to find a suspect. The Task Force’s plan was “to hold the 
+
+suspect incommunicado, and to pressure and interrogate him until 
+
+i naeeea” including lying to the suspect about the evidence 
+
+against him and ignoring any request for counsel or right to 
+silence: 
+
+
+would not be admissible in evidence in a prosecutor’s case in 
+
+
+’ 
+
+
+18 
+
+
+plan of deliberateiy ignoring Cooper’s repeated requests for 
+counsel, the police interrogators questioned Cooper for four 
+hours regarding, among other things, his Jewish 
+
+and his sexual relations with his wife. Jd. at 1229-31. “With 
+
+
+his requests to see a lawyer disregarded, Cooper was a - 
+
+
+prisoner in a totalitarian nightmare, where the police no 
+longer obeyed the Constitution, but instead followed their 
+own judgment, treating suspects according to their whims.” 
+Id. at 1243. Cooper was later cleared of all suspicion in the 
+matter. /d. at 1234. 
+
+
+This practice of questioning “outside Miranda,” i.e., in 
+deliberate violation of a suspect’s request for counsel or 
+invocation of silence, is far from rare. To the contrary, it has 
+become an institutionalized feature of several major police 
+departments. See California Attorneys for Criminal Justice 
+v. Butts, 195 F.3d 1039 (9th Cir. 1999). The training manu- 
+als and videotapes at issue in the California Attorneys case— 
+which feature a California deputy district attomey recom- 
+mending that police officers deliberately ignore requests for 
+counsel or invocation of the right to silence—received 
+statewide distribution and were followed elsewhere. See 
+Weisselberg, supra, 84 CORNELL L. REV. at 136-37. 
+
+
+In a world “without Miranda,” with an after-the-fact de- 
+termination of voluntariness as the only guide, the state of 
+police interrogation would be very much worse indeed. As 
+the former chief of several major metropolitan police de- 
+partments has said, “I know cops. And one of the things I 
+know about cops is you have to control them. If you don’t 
+control them, they will go out of control... And Miranda is 
+one of those controls that keeps them in line.” 60 Minutes 
+
+
+(CBS television broadcast, Dec. 5, 1999) (William Bratton, 
+
+
+chief, they hoped it would be admissible for purposes of im- 
+peachment if the suspect ever went to trial. They expected that 
+the confession would prevent the suspect from testifying he 
+was innocent, and that it would hinder any possible insanity 
+defense. 
+
+Cooper, 963 F.2d at 1224. 
+
+
+19 
+
+
+for the National Fraternal Order of Police); See 
+Richard A. Leo & Welsh S. White, Adapting to Miranda: 
+Modern Interrogators' Strategies for Dealing with the 
+Obstacles Posed by Miranda, 84 MINN. L. REV. 397 (1999) 
+
+
+Not only does Miranda work to guard against compulsion 
+in the interrogation room, but over thirty years of accumu- 
+lated evidence and the direct experience of police profession- 
+
+
+Miranda’s beneficial effect is not as surprising as might at 
+first appear. Miranda’s impact must be assessed as a net 
+result of its “costs” and its offsetting gains for law enforce- 
+ment. 
+
+
+In hundreds of thousands of custodial interrogations each 
+year,'© Miranda helps police in two ways. It makes clear 
+
+
+15 Even Professor Cassell has conceded that “warnings [the only 
+Miranda requirement allegedly violated in this case} can be given 
+to suspects without significantly harming the confession rate.” 
+Paul G. Cassell, Miranda’s Social Costs: An Empirical Reassess- 
+ment, 90 NW. U. L. REV. 387, 494 (1996). 
+
+
+16 Police annually make over 750,000 arrests for violent crime 
+and over two million arrests for property crime. Jd. at 440. 
+Roughly 80% of these arrestees are questioned. Paul G. Cassell & 
+Bret S. Hayman, Police Interrogation in the 1990s: An Empirical 
+
+
+do , 
+thereby to ensure that his statement will be admissible. 
+Michigan v. Tucker, 417 U.S. at 433. In 
+wamings tend to put suspects at ease by 
+dence that their right to cut off questioning will protect them 
+from having to make incriminating statements. i 
+
+
+i 
+
+
+sions.'? Interrogators have learned that Miranda often 
+produces confessions that they would not otherwise obtain. !® 
+
+
+_ Moreover, to focus only on elusive possibilities of change 
+
+
+Study of the Effects of Miranda, 43 UCLA L. REV. 839, 854 
+(1996). 
+
+
+17 See David Simon, Homicide 197-202 (1991); Richard A. Leo, 
+From Coercion to Deception: The Changing Nature of Police 
+Interrogation in America, 18 CRIME, L. & SOC. CHANGE 35 
+(1992); Peter Carlson, You Have the Right to Remain Silent, 
+WASHINGTON POST, Sept. 13, 1998, at 6. 
+
+
+18 Carlson, supra at 11, 19; Richard A. Leo, Miranda's Revenge: 
+Police Interrogation as a Confidence Game, 30 L. & SOC’Y REV. 
+259 (1996); of. George C. Thomas, III, /s Miranda a Real-World 
+Failure?: A Plea for More (and better) Empirical Evidence, 43 
+UCLA L. REV. 821, 831 (1996). 
+
+
+'9 In fact, even authors otherwise opposed to Miranda have 
+praised it for helping to “dignify” police practices and to improve 
+the credibility of confessions obtained by interrogation. See, e.g., 
+Paul B. Weston & Kenneth M. Wells, Criminal Investigation: 
+Basic Perspectives, 184 (2d ed. 1974). At least one commentator 
+has warned that removing this bar would send a dangerous 
+message to the law enforcement community. See Leo, The Impact 
+of Miranda, supra, 86 J. CRIM. L. & CRIMINOLOGY at 680. 
+
+
+i 
+2 
+
+
+of Police “became convinced that his 
+
+
+aif: 
+cat 
+a 
+at 
+it 
+fis 
+
+
+38 
+i 
+C 
+
+
+22 
+
+
+When a division of the Department of Justice suggested 
+challenging Miranda in 1986, Solicitor General Charles 
+Fried noted that “[mJost experienced federal prosecutors in 
+and out of my office were opposed to this project, as was I.” 
+Charles Fried, Order and Law 46 (1990). A survey con- 
+ducted for the Department revealed similar sentiment among 
+police executives,24 and other reports at the time showed 
+emphatic support for Miranda among police chiefs and line 
+officers alike.2> This view remains widely held. William 
+Bratton, who has headed five police departments including 
+
+
+I see no reason to turn the clock back.” Quoted in Yale Kamisar, 
+Landmark Ruling’s Had No Detrimental Effect, BOSTON SUNDAY 
+GLOBE, Feb. 1, 1987, at A27; Evelle Younger, Interrogation of 
+Criminal Defendants, 35 FORDHAM L. REV. 255 (1966). 
+
+
+23 A 1976 survey of 67 police chiefs, sheriffs, and state police 
+commanders also found an “overwhelming” number (more than 
+90% in one state) favorable to Miranda. Stephen L. Wasby, Small 
+Town Police and the Supreme Court (1976). A 1988 American Bar 
+Association survey of more than 800 prosecutors, judges, and 
+police officers found that “[a] very strong majority . . . agree that 
+compliance with Miranda does not present serious problems for 
+law enforcement.” ABA Special Comm’n on Criminal Justice in a 
+Free Society, Criminal Justice in Crisis 28 (1988). 
+
+24 See Stephen J. Schulhofer, Miranda’s Practical Effect: Sub- 
+stantial Benefits and Vanishingly Small Social Costs, 90 Nw. U. L. 
+REV. 500, 507 n.23 (1996) (76% of those polled opposed any 
+modification of Miranda or “prefer{red] modification to reversal;” 
+only 24% supported overruling of Miranda). 
+
+
+25 Tom Gibbons & Jim Casey, Ed Meese’s War on Miranda 
+Draws Scant Support, CHI. SUN-TIMES, Feb. 17, 1987, at 41; 
+Eduardo Paz-Martinez, Police Chiefs Defend Miranda Decision 
+Against Meese Threats, BOSTON GLOBE, Feb. 5, 1987, at 25-29. 
+The Executive Director of the International Association of Chiefs 
+of Police, one of the few police leaders to voice support for 
+
+
+23, 1987, at Al7. 
+
+
+existence of [federal] review.” Withrow, 507 U.S. at 695. 
+Notwithstanding this background of widespread support by 
+
+
+dial interrogation and the significant number of officials 
+urging this Court to affirm the result below leave little doubt 
+
+
+that freedom to depart from Miranda would not go unused. 
+confidence that clear-cut safeguards still apply. Even in 
+communities that adopted Miranda-like rules voluntarily, the 
+absence of a constitutional imprimatur would undercut the 
+public awareness, legitimacy and trust that Miranda's 
+nationwide acceptance now confers. Leo, The Impact of 
+Miranda, supra, 86 J. CRIM. L. & CRIMINOLOGY at 679-80. 
+
+
+B. Data Confirm That Miranda Does Not Impede 
+Law Enforcement. 
+
+
+In the wake of Miranda, many studies attempted to assess 
+
+
+its effect. Though crude, the studies generally pointed in the 
+same direction—with isolated exceptions, Miranda’s initial 
+
+
+26 One chief warned that even if communities imposed similar 
+requirements on their own, individual officers would “probably 
+exercise their own judgment” and “then you're going to have a 
+mixture of a lot of things happening.” Paz-Martinez, Police 
+Chiefs, supra, at 29. 
+
+
+24 
+
+
+impact on confession and conviction rates appeared small or 
+non-existent.2”7, Two 1996 studies provide contemporary 
+data. In the first, covering three California cities, police 
+obtained incriminating statements in 64% of their interroga- 
+tions.28 In Salt Lake City, incriminating statements were 
+obtained in 54% of the interrogations.29 Both rates were well 
+within the range reported in various cities prior to Miranda.” 
+In a 1998 report on Washington, D.C., re 
+success rate, though not quantified, was so high that 
+
+Miranda’s impact was described as “approximately zilch.”3! 
+Scholars are virtually unanimous in noting the absence of 
+empirical evidence that Miranda impedes law enforcement.32 
+And nearly all scholars concur in dismissing the contrary 
+
+
+27 See Liva Baker, Miranda: Crime, Law and Politics, 180-81, 
+403-05 (1983); Leo, The Impact of Miranda, supra, 86 J. CRIM. L. 
+& CRIMINOLOGY at 632-45. In the cautious language of social 
+science, “[t]here is insufficient evidence that Miranda has a 
+statistically significant effect on the percentage of suspects who 
+incriminate themselves." Thomas, Js Miranda a Real-World 
+Failure?, supra, 43 UCLA L. REV. at 830-31. 
+
+
+28 Leo, Inside the Interrogation Room, supra, 86 J. CRIM. L. & 
+CRIMINOLOGY at 280. 
+
+
+29 See George C. Thomas, Ill, Plain Talk About the Miranda 
+
+
+Empirical Debate; A "Steady-State" Theory of Confessions, 43 
+UCLA L. REV. 933, 935-36, 952 (1996). 
+
+
+30 Jd., at 953, 955; Schulhofer, Miranda's Practical Effects, 
+supra, 90 Nw. U. L. REV. at 509 n.28. 
+
+
+3! Carlson, supra, at 9. 
+
+
+32 The principal scholarly disagreement is on the subtle question 
+whether the data affirmatively show that Miranda causes no harm 
+or merely fail to show that Miranda does cause harm. And even 
+the more cautious scholars concede that an absence of evidence is 
+telling: “Reaching any decision on the status of Miranda without 
+better empirical evidence is roughly like having to decide whether 
+you need surgery before knowing whether you are sick.” Thomas, 
+Plain Talk, supra, 43 UCLA L. REV. at 958. 
+
+
+25 
+
+
+claims of Professor Cassell, whose arguments we now 
+consider. 
+
+
+C. Professor Cassell’s Claims About 
+_ Miranda's “Costs" Do Withstand Scrutiny 
+
+
+In his effort to demonstrate that Miranda impedes law 
+enforcement, Professor Cassell has used four kinds of data: 
+before-and-after studies See tide Ce on eens 
+from contemporary interrogation in 
+of clearance rates for four years after Miranda, and a regres- 
+sion analysis of clearance rates over a more extended period. 
+Several of Cassell’s studies have drawn unusually sharp 
+criticism for their failure to meet standard scholarly norms. 
+See, e.g., Leo, Using the Innocent to Scapegoat Miranda, 
+supra, 88 J. CRIM. L. & CRIMINOLOGY at 557 n.2 (1998). 
+Each study by Cassell suffers from major defects that render 
+its claims untenable. 
+
+
+Cassell’s first set of data examined eleven prior studies 
+comparing confession rates immediately before and after 
+Miranda. He excluded three studies that he deemed flawed; 
+in the remainder, confessions were said to drop on average 
+by 16%, and convictions by an estimated 3.8%. Cassell, 
+Miranda's Social Costs, supra, 90 Nw. U. L. REV. at 437-38. 
+As these were crude studies from a period before police had 
+adapted to Miranda, the claimed 3.8% decline in conviction 
+rates is not necessarily alarming. Yet examination of Cas- 
+sell’s procedures showed that inconsistent methods and 
+misreading of sources had significantly inflated the claimed 
+drop in confessions, >? and had even inflated the case attrition 
+
+
+SS ee oy wee ban ch gcd cele yal 
+
+
+26 
+
+
+rate to the 3.8% level; on reanalysis, the properly adjusted 
+' Case attrition rate was less than 1%,34 with reason to think the 
+net impact would be even less today.35 
+
+
+Cassell’s second study examined contemporary interroga- 
+tion in Salt Lake City. Cassell reported that only 42% o 
+interrogated suspects gave incriminating statements, com- 
+pared to pre-Miranda figures for other cities that he put in the 
+55-60% range.*© Reanalysis of the data showed that Cassell 
+had excluded confessions he deemed “volunteered” and 
+useful statements in the form of incriminating “denials with 
+explanation.” When these were included, as any valid 
+comparison to pre-Miranda figures requires, the adjusted 
+confession rate (54%) was indistinguishable from Cassell’s 
+pre-Miranda comparison figure (55-60%). Thomas, Plain 
+Talk, supra, 43 UCLA L. REV. at 935-36, 946-52, 953. In 
+earlier work, moreover, Cassell reported that pre-Miranda 
+confession rates varied over a much wider range (31%-88%), 
+with eleven of the twenty cities below 50%. See id. at 936; 
+Cassell, Miranda's Social Costs, supra, 90 Nw. U. L. REV. at 
+459. Cassell’s own figure for Salt Lake City (42%) falls well 
+within the wider pre-Miranda range, and the properly ad- 
+justed figure (54%) is above the median of the pre-Miranda 
+reports. The Salt Lake City data offer no reason to think that 
+
+
+kinds of confessions counted before and after. Jd. If such a 
+discrepancy might have affected the Los Angeles study, an actual 
+count, there is at least equal reason for concern about inaccuracy in 
+the before-period “guestimates” that Cassell deemed reliable in the 
+Brooklyn and New Orleans cases. Other similarly serious flaws 
+further skew the conclusions of Cassell’s before-and-after study. 
+See, e.g., id. at 516-30. 
+
+
+34 Id. at 539, 544-47. Among the usable studies, change in 
+confession rates varied widely, from a 16% decrease to a 10% 
+increase. Jd. at 539. Such diverse results suggest that Miranda 
+itself probably did not cause the fluctuations. 
+
+
+35 Jd. at 507-10, 546-47. 
+
+
+36 Cassell & Hayman, Police Interrogation, supra, 43 UCLA L. 
+REV. at 871-72. 
+
+
+27 
+
+
+interrogation is less successful today than it was before 
+Miranda. _ 
+
+carr sees Se ge Aye agate mg 
+percentage of reported crime that police solve arrest 
+remained at about 60% from 1950-1965, but dropped steadily 
+during the four years following Miranda, and then leveled off 
+at about 45% thereafter. Cassell suggests that no other event, 
+only Miranda, could explain this mid-1960’s drop in clear- 
+ance rates. Paul G. Cassell, All Benefits, No Costs: The 
+Grand Illusion of Miranda's Defenders, 90 Nw. U. L. REV. 
+1084, 1089-91 (1996). But when the clearance-rate trend is 
+
+to the trend in police clearance capacity (the 
+number of officers available relative to the number of crimes 
+to be solved), the two trends closely match.” Crime rates 
+had been skyrocketing since 1960, largely for social and 
+demographic reasons. See James Q. Wilson, Thinking About 
+Crime 4-20 (1975). Because police resources failed to keep 
+up, the number of officers per 100 violent crimes fell sharply, 
+from 115 in 1960 and 82 in 1965 to only 45 in 1970. See, 
+Schulhofer, Clearance Rates, supra, 91 Nw. U. L. REV. at 
+284, 285 n.16. Given the —_— py ays any 
+
+ing this period, the i in clearance 
+
+ee arenes eatin made police less 
+efficient. In fact, the number of crimes cleared per officer 
+steadily rose during this period. Jd. at 286-87. 
+
+Cassell’s fourth used regression analysis to test 
+whether clearance brn were higher before Miranda (1 950- 
+65) than after (1966-94). Controlling for all quantifiable 
+rates for property crimes, robbery and total violent crimes, 
+but not for murder, rape and assault. Paul G. Cassell & 
+Richard Fowles, Handcuffing the Cops? A Thirty-Year 
+Perspective on Miranda's Harmful Effects on Law Enforce- 
+
+
+37 See Stephen J. Schulhofer, Miranda and Clearance Rates, 91 
+Nw. U. L. REV. 278, 283-84 (1996). 
+
+
+28 
+
+
+ment, 50 STAN L. REV. 1055, 1086-88 (1998).3® A reanalysis 
+with different statistical models confirmed only some of 
+Cassell’s results.9 
+
+
+Whichever the preferred model, there is no basis for Cas- 
+sell’s speculative claim that Miranda was the likely cause of 
+any statistical differences between the 1950-65 and 1966-94 
+periods. A host of other factors could explain the results, 
+including defects in the data and the many nonquantifiable 
+factors that differed in the two periods. Potential causes 
+not controlled in his study include social changes that make 
+crime harder to solve (e.g., the increasing proportion of 
+stranger crimes), legal changes unrelated to Miranda (e.g., 
+implementation of the right to counsel, more widespread 
+compliance with the Fourth Amendment), and changes in 
+police organization, including more objective crime- 
+recording practices. Given vast changes in society and law 
+enforcement between 1950-65 and 1966-94, there is no 
+reason to assume that Miranda must have caused the clear- 
+ance-rate drop or any part of it.*! 
+
+
+38 It should be noted that the variable labeled "MIRANDA" 
+throughout this article is merely a before-after “dummy” variable 
+centered on 1966, not necessarily a measure of Miranda's causal 
+effect. See John J. Donohue, III, Did Miranda Diminish Police 
+Effectiveness?, 50 STAN. L. REV. 1147, 1161, 1163, 1172 (1998). 
+
+
+39 See, Donohue, Did Miranda Diminish, supra, 50 STAN. L. 
+REV. at 1168-70, finding a significant difference for larceny but 
+not for other property crimes, and for total violent crimes, but not 
+for the individual crimes that comprise this category (murder, rape, 
+robbery and assault). 
+
+40 Id. at 1151-56. 
+
+
+4! One particularly important factor makes clear why it is so 
+speculative to attribute clearance-rate differences to Miranda. It is 
+well-established that during the 1950-65 period, many police 
+departments artificially inflated their clearance rates, for both 
+internal and public-relations purposes. See Jerome Skolnick 
+Justice Without Tria' 164-81 (1966). More professional record- 
+keeping standards ~ troduced in the late 1960s unquestionably 
+reduced reported ciearance rates, not because fewer crimes were 
+
+
+29 
+Cassell argues that such factors could not have been im- 
+portant because none of them changed dramatically right 
+after Miranda, as clearance rates did. Cassell & Fowles, 
+Hi 
+l 
+
+
+the Cops, supra, 50 STAN. L. REV. at 1108, 
+113, 1117. Thee ete Sue inge Save Coe epee. 
+First, major record-keeping improvements were introduced 
+the late 1960s, so their principal effect could well have 
+occurred in that period. Donohue, Did Miranda Diminish, 
+supra, 50 STAN L. REV. at 1172 n.100. Second, as discussed 
+above, a precipitous decline in clearance capacity also 
+occurred in the late 1960s, in a pattern that fits the clearance- 
+rate drop. Cassell’s regression analysis controls for this 
+factor, but only by measuring an average clearance-rate 
+effect over the entire 1966-94 period. The differences 
+identified by that analysis could have been caused by any of 
+the many social and legal factors that were different on 
+average during the 1966-94 period than they were before, 
+even if those factors did not change abruptly right after 
+1966.42 On examination, the regression analysis, like the 
+other Cassell studies, provides no evidence that Miranda, on 
+balance, caused a net harmful effect. 
+
+
+At bottom, of course, any potential “cost” to law enforce- 
+ment due to enforcement of the Fifth Amendment through 
+Miranda is beside the point; the Fifth Amendment was 
+
+ly intended to restrain law enforcement. Given 
+the reliance by counsel supporting the decision below on 
+such claims of law enforcement “costs,” however, this Court 
+should have an accurate view of what those costs are. There 
+
+
+solved but because bogus clearance claims common before were 
+no longer included. Donohue, Did Miranda Diminish, supra, 50 
+STAN. L. REV. at 1152-55, 1172. 
+
+
+42 /d. at 1172 n.100. Professor Donohue concludes that “one is left 
+with unbridgeable uncertainty about how much confidence to repose mn 
+any of the statistical results" and that even if there were a statistical 
+change in clearance rates, "causal attribution to Miranda is difficult im 
+light of the vast systemic changes both in crime and criminal justice that 
+were occurring and have persisted since the mid-1960s." Jd. at 1172. 
+
+
+30 
+
+
+is no reason to question the widely held view that Miranda 
+does not significantly burden law enforcement. 
+
+
+CONCLUSION 
+For the foregoing reasons, the judgment of the Court below 
+
+should be reversed. 
+
+Respectfully submitted, 
+STEVEN R. SHAPIRO JONATHAN L. ABRAM* 
+VIVIAN BERGER AUDREY J. ANDERSON 
+SUSAN N. HERMAN STEPHEN M. KUPERBERG 
+AMERICAN CIVIL LIBERTIES HOGAN & HARTSON L.L.P 
+
+UNION FOUNDATION 555 Thirteenth Street, N.W. 
+
+125 Broad Street Washington, D.C. 20005-1109 
+New York, NY 10004 (202) 637-5681 
+(212) 549-2500 
+STEPHEN SCHULHOFER 
+1111 East 60th Street 
+
+
+Chicago, IL 60637 
+
+
+* Counsel of Record Counsel for Amicus Curiae 
+
+

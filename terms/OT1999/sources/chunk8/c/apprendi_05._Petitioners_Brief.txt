@@ -1,0 +1,2559 @@
+No. 99-478 
+
+
+In The 
+Supreme Court of the United States 
+
+
+e 
+CHARLES C. APPRENDI, JR., 
+
+
+Petitioner, 
+
+
+Vv. 
+
+
+STATE OF NEW JERSEY, 
+Respondent. 
+
+
+¢ 
+
+
+On Writ Of Certiorari To The 
+Supreme Court Of New Jersey 
+
+
+¢ 
+
+
+BRIEF OF PETITIONER 
+® 
+
+
+JoserH D. O’Nem, Esa. 
+Counsel of Record 
+
+CuHarces I. Coant, Esa. 
+
+JoserH D. O’Nemt, P.A. 
+
+30 West Chestnut Avenue 
+
+P.O. Box 847 
+
+Vineland, New Jersey 08362 
+
+(856) 692-2400 
+
+
+RicHarp G. Sincer, Esa. 
+217 North Fifth Street 
+Camden, New Jersey 08102 
+(856) 225-6181 
+
+
+Counsel for Petitioner 
+January 13, 2000 
+
+
+=—————eeeeeeoooooo eee 
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTION PRESENTED 
+
+
+Whether New Jersey violates Fifth Amendment Due 
+Process rights and Sixth Amendment guarantees of notice 
+and jury trial by providing that a defendant’s maximum 
+punishment may be increased from ten to twenty years 
+based solely upon a finding by a sentencing judge under 
+a preponderance of the evidence standard, without notice 
+by indictment and jury trial, that the defendant had the 
+requisite intent necessary to establish a “hate” crime. 
+
+
+PARTIES TO THE PROCEEDING TABLE OF CONTENTS 
+
+
+All parties to the proceeding are listed in the caption ! Page 
+ee QUESTION PRESENTED...............00eeec0eeee. i 
+PARTIES TO THE PROCEEDING .................. ii 
+ee Ee ME nc sa concecessscccocesaces v 
+Se EN odo dactevicccdeusvivececceesces 1 
+NS 65.460 6b e0ccdcndboncedicacencedanets 1 
+CONSTITUTIONAL AND STATUTORY PROVI- 
+Se PTE cb acccccccdsccdcvccsenesecses 1 
+STATEMENT OF THE CASE............cccssesceees 3 
+SUMMARY OF ARGUMENT................0000005 14 
+RE Ck nbbicccedsnccécnsecadecnsadebacncees 15 
+
+
+I. BEFORE DOUBLING A STATUTORY MAXI- 
+MUM SENTENCE FROM TEN YEARS TO 
+TWENTY YEARS ON THE BASIS OF A DEFEN- 
+DANT’S MENTAL STATE, THE PROSECUTION 
+MUST PROVE THE EXISTENCE OF THAT MEN- 
+TAL STATE BEYOND A REASONABLE DOUBT 
+Yee ac cane Ree ais 15 
+
+
+A. Under The Due Process Clause Of The Fifth 
+Amendment And The Notice And Jury Trial 
+Guarantees Of The Sixth Amendment Any 
+Fact (Other Than Recidivism) Including A 
+Defendant’s Mental State, That Increases 
+The Maximum Penalty For A Crime Must Be 
+Charged In An Indictment, Submitted To A 
+Jury And Proven Beyond A Reasonable 
+BED wevecescdaccccescceoasococenseescecse 15 
+
+
+B. Assessing A Defendant's Mental State Pre- 
+sents A Task Fraught With Uncertainty; The 
+Risk Of Error Requires Proof Beyond A Rea- 
+GRU Occ ccccescccccscccccccccoccese 21 
+
+
+iv 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+C. New Jersey’s Approach Is Unusual And 
+I 000 nncnededdaviscensdccdbenstccaen 
+
+
+1. Only New Jersey Expressly Uses A Pre- 
+ponderence Of The Evidence Determina- 
+tion Of A Defendant’s Mental State To 
+Effectively Double The Maximum Pun- 
+ED concccpasepodscceseccucucesnces 
+
+
+2. The Federal Sentencing Guidelines Rec- 
+ognize That The Determination Of A 
+Biased Pu In The Commission Of A 
+Crime Calls For The Highest Standard 
+Ge WEEE dédcterccvcccencuscesddeaveccs 
+
+
+Il. ANY FACT THAT RESULTS IN AN INCREASE OF 
+THE MAXIMUM SENTENCE (EXCEPT RECIDIV- 
+ISM) MUST BE RESOLVED BY A JURY ......... 
+
+
+A. The Question Of Intent Can Never Be Ruled 
+As A Question Of Law, But Must Always Be 
+SO OP ND ND cc eiccccedcncccecses 
+
+
+B. NJ. Stat. Ann. § 2C:44-3e. Imposes A Significant 
+Societal Stigma That Should Be Imposed Onl 
+
+
+y 
+By A Jury, As A Jury Best Represents The Col- 
+lective Judgment Of The Community......... 
+
+
+CEE chcvetcccindivecnéontecenceeénseseos 
+
+
+31 
+
+
+31 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Addington v. Texas, 441 U.S. 418 (1979) ....... 19, 20, 21 
+Almendarez-Torres v. United States, 523 U.S. 224 
+
+dso cacuceseeveseeneceseeseseasséanes 13, 24, 35 
+Arlington Heights v. Metropolitan Housing Dept. 
+
+Comm, GD US. Tae Gap cc cccccccccccccccsccsces 34 
+Batson v. Kentucky, 476 U.S. 79 (1986) ............ 32, 34 
+Castaneda v. Partida, 430 U.S. 482 (1977)............. 34 
+Chandler v. Fretag, 348 U.S. 3 (1954).............545. 36 
+Chaunt v. United States, 364 U.S. 350 (1960).......... 12 
+Chewning v. Cunningham, 368 U.S. 443 (1962)........ 36 
+Culombe v. Connecticut, 367 U.S. 568 (1961) .......... 23 
+Duncan v. Louisiana, 391 U.S. 145 (1968)............. 32 
+Duren v. Missouri, 439 U.S. 1357 (1979).............. 34 
+Greenholtz v. Nebraska Penal Inmates, 442 U.S. 1 
+
+SE 6 bs6eecddecccevadeccsesscencceessoscesooces 21 
+
+
+In re Winship, 397 U.S. 358 (1970).... 15, 16, 19, 21, 37, 38 
+Jones v. United States, 527 U.S. 373, 119 S.Ct. 2090, 
+
+
+Oe Ee Se ns veccccesnccddcesonssses ces 38 
+Jones v. United States, __ U.S. __, 119 S.Ct. 1215, 
+
+Be See Be GE abc decdccesccsécceccoues passim 
+Lowenfield v. Phelps, 484 U.S. 231 (1988) ............. 38 
+Martinez v. State, 980 S.W. 2d 662 (Tex. App. 1998). .28, 30 
+Mathews v. Eldridge, 424 U.S. 319 (1976)...... 19, 20, 21 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+Page 
+
+
+McMillan v. Pennsylvania, 477 U.S. 79 (1986) 
+ahbhnessnddueshaesesabanuhademes 12, 13, 17, 19, 24, 37 
+
+
+Morissette v. United States, 342 U.S. 246 (1952)... .33, 37 
+Mullaney v. Wilbur, 421 U.S. 684 (1975).............. 17 
+
+
+New Jersey v. Charles Apprendi, Jr., 304 N.J. Super. 
+147, 698 A.2d 1265 (App. Div. 1997) .............. 11 
+
+
+New Jersey v. Charles Apprendi, Jr., 159 N.J. 7, 731 
+ee Ge es baba dcdenccadncedecciveseenecs 12 
+
+
+Olivito v. United States, 67 F.2d 564 (9th Cir. 1933) .... 35 
+Pace v. Aderhold, 2 F. Supp. 261 (N.D. Ga.), aff'd, 65 
+
+
+ee CO Ge GEN Mc cnnccccdvovececcnassccess 35 
+Patterson v. New York, 432 U.S. 197 (1977) ........... 17 
+People v. Flack, 26 N.E. 267 (N.Y. 1891).............. 33 
+People v. Hernandez, 757 P.2d 1013 (Cal. 1988)........ 20 
+Rivera v. Minnich, 483 U.S. 57 (1987) ............. 20, 25 
+Santosky v. Kramer, 455 U.S. 745 (1982) .............. 19 
+Specht v. Patterson, 386 U.S. 605 (1967) .............. 36 
+Staples v. United States, 511 U.S. 600 (1994).......... 21 
+Taylor v. Louisiana, 419 U.S. 522 (1975) .............. 32 
+United States v. Gaudin, 515 U.S. 506 (1995).......... 32 
+
+
+United States v. Hopper, 177 F.3d 824 (9th Cir. 
+Bey 6 o ccccncasscntevesccacccdansgncnsdsesecie 19, 25 
+
+
+Vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Din ccéns csvdenneghe6ebecnscéeeashebokatenuaneece 25 
+United States v. Kramer, 289 F.2d 909 (2d Cir. 1961) .... 35 
+
+
+United States v. United States Gypsum Co., 438 U.S. 
+GD GRIF owen ccccccccessccevccccescesesccesens 33, 34 
+
+
+United States v. Wilson, 284 F.2d 407 (4th Cir. 1960) .... 35 
+United States v. X-Citement Video, Inc., 513 U.S. 64 
+
+
+SED kcccocsscesdcbocusesectsdeseutcscceneveseess 21 
+Washington v. Davis, 426 U.S. 229 (1976)............. 34 
+Williams v. Florida, 399 U.S. 78 (1970) ...........455. 32 
+Woodby v. INS, 385 U.S. 276 (1966)............00000s 19 
+CONSTITUTION 
+ee, Ce TE, wcciknndé oenteses eseudees 1, 15, 31 
+U.S. Const. amend. VI............. 2, 15, 17, 31, 34, 35 
+
+
+FEDERAL STATUTES 
+2B UG.C. © UBSMa) ...cccccccsccccccsccccccvvecsccess 1 
+
+
+ie a, fae cecal aad 31 
+
+
+State STATUTES 
+Oklahoma Statutes Annotated, § 1765............... 26 
+
+
+Vili 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+N.J. Stat. Ann. § 2C:12-le. ...........0005 4, 27, 28, 30 
+DS Fei, TEE cc cccccesccccccesscucs 4, 27, 29, 30 
+SD BME cc cesccescdesccsncacsvescesessascenskes 28 
+DS BME ccvcccvcesecocvectenscessecceneseeeteeed 5 
+EME coveccascccesteccsccooutbecessudeaudauads 5 
+DP Bee veceveccuscveccesuseecsesvensseseousteus 30 
+BD BPO e ove vendvccceneccvcnstesccéscesceseces 5 
+SD PRETO ccccccccescconcevacéesuseiceoscéecuse 5 
+DD BORE cccccccccsccscevevececeseesseeseses passim 
+SCHOLARLY AUTHORITIES 
+Benjamin J. Priester, Further Developments on Previos 
+Sympasia: Sentenced for a Crime the Government Did 
+Not Prove: Jones v. United States and the Constitu- 
+tion Limitations on Factfinding by Sentencing Factors 
+Rather than Elements of the Offense, 61 Law and 
+Contemp. Prob. 249 (1998) ............ceeeeeeeee 36, 37 
+Gardner, Bailey v. Richardson and the Constitution 
+of the United States, 33 B.U.L. Rev. 176 (1953) ..... 37 
+Henry Hart, The Aims of the Criminal Law, 23 
+Law and Contemp. Probs. 401 (1958) ............. 37 
+
+
+Richard G. Singer & Mark D. Knoll, Searching for 
+the “Tail of the Dog” Finding “Elements” of Crimes 
+in the Wake of McMillan v. Pennsylvania, 22 
+Seattle Univ. L. Rev. 1057 (1999).................. 34 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+THER AUTHORITIES 
+B’Nai B’Rith Antidefamation League 1999 Hate 
+- Pre rrrrrTTTrriTirTriritiitiiii ttt 26 
+National Jury Project, Jurywork (1990) ............555 34 
+Aeschylus, The Eumenides ..........60.00000eeeeeeees 31 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the New Jersey Supreme Court and 
+the dissent thereto (Pet. App. la-66a) were entered on 
+June 24, 1999, and are reported at 159 N.J. 7, 731 A.2d 485 
+(1999). The opinion of the Superior Court of New Jersey, 
+Appellate Division and the dissent and concurrence 
+thereto (Pet. App. 67a-94a) were entered on August 19, 
+1997, and are reported at 304 N.J. Super. 147, 698 A.2d 
+1265 (App. Div. 1997). The oral opinion of Superior Court, 
+Law Division, Judge Rushton Ridgway and transcript of 
+motion and sentencing are attached in the Appendix 
+hereto at Pet. App. 95a to 163a. 
+
+
+S 
+
+
+JURISDICTION 
+
+
+The New Jersey Supreme Court entered its judgment 
+on June 24, 1999. Petitioner Charles C. Apprendi, Jr. 
+timely filed a petition for certiorari on September 17, 
+1999. This Court granted the petition on November 29, 
+1999. The Court has jurisdiction pursuant to 28 U.S.C. 
+§ 1257(a). 
+
+
+¢ 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+U.S. Const. amend. V 
+
+
+No person shall be held to answer for a 
+capital, or otherwise infamous crime, unless on 
+a presentment or indictment of a Grand Jury, 
+except in cases arising in the land or naval 
+forces, or in the Militia, when in actual service 
+
+
+in time of War or public danger; nor shall any 
+person be subject for the same offense to be 
+twice put in jeopardy of life or limb, nor shall be 
+compelled in any criminal case to be a witness 
+against himself, nor be deprived of life, liberty, 
+or property, without due process of law; nor 
+shall private property be taken for public use 
+without just compensation. 
+
+
+U.S. Const. amend. VI 
+
+
+In all criminal prosecutions, the accused 
+shall enjoy the right to a speedy and public trial, 
+by an impartial jury of the State and district 
+wherein the crime shall have been committed; 
+which district shall have been previously ascer- 
+tained by law, and to be informed of the nature 
+and cause of the accusation; to be confronted 
+with the witnesses against him; to have com- 
+pulsory process for obtaining witnesses in his 
+favor, and to have the assistance of counsel for 
+his defense. 
+
+
+N.J. Stat. Ann. § 2C:44-3. Criteria for Sentence of 
+Extended Term of Imprisonment. 
+
+
+The court may, upon application of the 
+prosecuting attorney, sentence a person who has 
+been convicted of a crime of the first, second or 
+third degree to an extended term of imprison- 
+ment if it finds one or more of the grounds 
+specified in subsection a., b., c., or f. of this 
+section. The court shall, upon application of the 
+prosecuting attorney, sentence a person who has 
+been convicted of a crime, other than a violation 
+of N.J.S.A. 2C:12-1a., N.J.S.A. 2C:33-4, or a viola- 
+tion of N.J.S.A. 2C:14-2 or 2C:14-3 if the grounds 
+
+
+for the application is purpose to intimidate 
+because of gender, to an extended term if it 
+finds, by a preponderance of the evidence, the 
+grounds in subsection e... . 
+
+
+e. The defendant in committing the crime 
+acted with a purpose to intimidate an individual 
+or group of individuals because of race, color, 
+gender, handicap, religion, sexual orientation or 
+ethnicity. 
+
+
+STATEMENT OF THE CASE 
+
+
+This case squarely presents constitutional issues 
+addressed, but not conclusively resolved, in Jones v. 
+United States, 119 S.Ct. 1215 (1999): the constitutional 
+limitations upon legislative authority to specify how, and 
+by whom, critical facts are determined iii a criminal case. 
+The specific issue here is whether a state legislature can 
+require that a judge will decide, by a mere preponderance 
+of the evidence, a defendant’s mental state during the 
+conduct at issue, and thereby dramatically increase his or 
+her maximum sentence. The New Jersey statute in ques- 
+tion here, N.J. Stat. Ann. § 2C:44-3e., expressly provides 
+that the judge, not the jury, shall decide whether the hate 
+crime statute applies by assessing the evidence under a 
+preponderance of the evidence standard rather than the 
+beyond a reasonable doubt standard. This statute 
+requires the judge to determine the purpose or mental 
+state with which the defendant committed the predicate 
+
+
+act. In this case, such a finding doubled the maximum 
+sentence exposure from ten to twenty years. 
+
+
+It is equally important to emphasize what issues are 
+not addressed in this case. This case is not a challenge to 
+New Jersey's ability to make criminally liable those per- 
+sons who engage in hate crimes. Nor is it a challenge to 
+the State’s ability to define the facts whose proof is essen- 
+tial in order to obtain convictions of those whose conduct 
+constitutes what the State defines as a “hate crime.” 
+Instead, this case concerns the constitutionality of the 
+procedures used to establish such liability. Put simply, it 
+is about whether, as the United States Constitution 
+demands, the facts which constitute such crimes are to be 
+determined, after fair notice and beyond a reasonable 
+doubt, by the fact-finding judgment of a jury or, as was 
+the case here, a state may relegate that question to the 
+individual discretion of a judge using the minimum pos- 
+sible standard of proof. 
+
+
+In 1990 the New Jersey Legislature enacted the “Eth- 
+nic Intimidation Act,” L. 1990, c. 282 (“the Act”), to 
+expand the State’s preexisting hate crime statute, L. 1981, 
+c. 282. The Act created aggravated forms of assault and 
+harassment where a defendant acts with a biased purpose 
+in selecting a victim (elevating a disorderly persons 
+offense for assault and a petty disorderly persons offense 
+for harassment to crimes of the fourth degree). See N.J. 
+Stat. Ann. § 2C:12-le., 33-4d. More importantly, the Act 
+added a blanket provision, N.J. Stat. Ann. § 2C:44-3e., 
+requiring an extended term of imprisonment for other 
+crimes of the first, second, or third degree where “the 
+defendant in committing the crime acted with a purpose 
+to intimidate an individual or group of individuals 
+
+
+ia 
+
+
+because of race, color, gender, handicap, religion, sexual 
+orientation or ethnicity.” This has the effect in Petitioner’s 
+case, and in many other cases, of doubling the maximum 
+sentence for the primary offense.' N.J. Stat. Ann. 
+§ 2C:44-3e. effectively gives to the judge, rather than the 
+jury, the responsibility to determine whether an individ- 
+ual committed a hate crime, and it directs the judge to 
+make that determination based on a mere preponderance 
+of the evidence. 
+
+
+On December 22, 1994, Petitioner Charles Apprendi, 
+Jr. (“Petitioner”), a thirty-seven year old pharmacist and 
+first-time offender, was arrested for shooting at the home 
+of one of his neighbors. Mr. Apprendi is white; the neigh- 
+bors are black. He ultimately negotiated a plea agreement 
+whereby he pled guilty to two counts of possession of a 
+firearm for an unlawful purpose (for the December 22 
+incident and one previous incident), a second degree 
+crime, N.J. Stat. Ann. § 2C:39-4a., and to one count of 
+unlawful possession of a prohibited weapon, N.J. Stat. 
+Ann. § 2C:39-3a., a third degree crime. Under the terms of 
+the plea agreement, the State reserved the right to seek an 
+extended sentence under N.J. Stat. Ann. § 2C:44-3e. for 
+the December 22 shooting incident, and Petitioner 
+reserved the right to challenge the constitutionality of 
+that section. 
+
+
+1 Petitioner’s primary crime (possession of a weapon for 
+an unlawful purpose) would ordinarily be subject to a prison 
+term of between 5 and 10 years. See N.J. Stat. Ann. § 2C:39-4a., 
+43-6a.(2). Under N.J. Stat. Ann. § 2C:44-3e., the maximum and 
+minimum sentence for Petitioner’s second degree offense 
+doubles to between 10 and 20 years. Compare id. with N.J. Stat. 
+Ann. § 2C:43-7a.(3). 
+
+
+The shooting at issue occurred at approximately 2:04 
+a.m. on December 22, 1994. At approximately 3:05 a.m. 
+that same morning Petitioner confessed to Vineland 
+Police that he had fired approximately four or five rounds 
+from a .22 caliber rifle at the house. No written or 
+recorded oral statement was given by Petitioner, but an 
+officer did testify at a plenary hearing before the trial 
+court that at approximately 6:04 a.m. Petitioner “told me 
+he fired shots at the home because there were black 
+people living there.” (Pet. App. 175a, 250a.) Defendant's 
+psychological infirmities were explored in a September 5, 
+1995 plenary hearing, at which time Judge Rushton Ridg- 
+way heard testimony from Clinical and Forensic Psychol- 
+ogist Gerald Cooke, character witnesses, and Defendant 
+Charles Apprendi. Dr. Cooke opined that the Petitioner 
+shot at the house because he suffered from an impulsive 
+destructive disorder brought about when the front door 
+of the house caught his attention because it was purple 
+with a big pane of glass. 
+
+
+Petitioner appeared at a plenary hearing before Judge 
+Ridgway on September 5, 1995 to determine his state of 
+mind at the time of the shooting. (Pet. App. 164a-301a.) 
+At the hearing, Petitioner presented evidence to suggest 
+that he did not have the requisite purpose or intent 
+necessary to support a finding that he had violated the 
+hate crime statute. He presented the testimony and affi- 
+davits of several character witnesses, black and white, 
+who testified that Mr. Apprendi regularly interacted with 
+and socialized with African-Americans and did not have 
+a reputation among his family, friends, and acquaintances 
+for racially prejudiced attitudes, statements, or actions. 
+(Pet. App. 183a-205a.) 
+
+
+Petitioner denied that he had acted out of racial bias 
+(Pet. App. 242a) or that he harbored any racist views. 
+(Pet. App. 245a.) He testified that he had had several 
+vodka and tonic drinks in the hours prior to the shooting 
+incident and that he had taken a number of prescription 
+medications earlier that day and evening: “a couple” of 
+Lomotil (a prescription medication for stomach prob- 
+lems), one Dilaudid (an opiate), and several Ativans 
+(tranquilizers). (Pet. App. 238a-239a.) He testified that the 
+combined effects of the drugs, alcohol and physical 
+exhaustion left him “dizzy” and “out of it,” “like a - a 
+stoned drunk,” intoxicated, even if he did not appear so. 
+(Pet. App. 249a.) Immediately after the shooting incident 
+he felt “strange,” as if he were “in a cloud somewhere.” 
+(Pet. App. 237a.) 
+
+
+Mr. Apprendi testified that the interrogating officer 
+first mentioned race during the interrogation (Pet. App. 
+24la) and that he gave a false confession to the officer 
+because he was irrational and scared. (Pet. App. 242a.) He 
+testified that the interrogating officer tried to intimidate 
+him by telling him that there were “a lot of homosexuals 
+and AIDS in jail” and a large prison population of blacks 
+who would assault him when they discovered the nature 
+of his crime. Petitioner testified that the officer promised 
+that if he (Apprendi) cooperated, the officer would try to 
+make it easier on him. (Pet. App. 242a-243a.) As to the 
+shooting, Mr. Apprendi testified that he fired at his 
+neighbors’ front door because the glass and purple door 
+attracted his attention, sparking an urge to destroy it. 
+(Pet. App. 251a.) 
+
+
+The defense presented the unrebutted testimony of 
+Dr. Cooke, who had examined Mr. Apprendi on February 
+15, 1995 and given him a battery of personality and 
+psychological tests. Dr. Cooke testified that Petitioner 
+told him that he shot at the door because he was drunk 
+and drug-intoxicated, and the door caught his attention 
+because it was purple and had a large plate of glass. (Pet. 
+App. at 210a-21la.) Dr. Cooke opined that this type of 
+behavior was consistent with Petitioner's obsessive-com- 
+pulsive personality disorder and alcohol abuse. (Pet. 
+App. 216a, 234a.) 
+
+
+Dr. Cooke diagnosed that Petitioner suffers from an 
+obsessive compulsive disorder, which includes anxiety, 
+gastrointestinal symptoms, kleptomania, loss of control of 
+anger impulses, depression, and drug and alcohol abuse. 
+(Pet. App. 216a-217a.) Dr. Cooke suggested that the 
+impulse disorder of kleptomania explained Mr. Appren- 
+di’s accumulation of guns, ammunition, and various 
+other tools and metal objects. Id. 
+
+
+Dr. Cooke further testified that his clinical examina- 
+tion of Petitioner revealed that he also suffered from a 
+cyclothymic condition, similar to a bipolar disorder, 
+where “the individual’s moods go from being excited and 
+hypomanic and elated to being depressed and lethargic.” 
+Id. On direct examination, Dr. Cooke testified that in the 
+fall and winter of 1994 the Petitioner's psychological 
+disorders and the drugs and alcohol produced a synergis- 
+tic effect: “You've got the combination with an individual 
+who is anxious and over-controlled, but who is disin- 
+hibited under the effect of those drugs and alcohol. And 
+you've got an individual who when he becomes emo- 
+tional also shows interference. So all three factors really 
+
+
+== 
+
+
+combine into fear of [sic] judgment and reasoning and 
+impulse control.”? (Pet. App. 218a.) 
+
+
+With respect to Mr. Apprendi’s purported confession 
+during the interrogation that he shot at the house because 
+a black family was living there, Dr. Cooke testified as 
+follows: 
+
+
+Here we have a very anxious man. One who 
+feels very vulnerable. One who feels very inade- 
+quate. And one who would say or do just about 
+anything to get out of a frightening anxiety- 
+arousing situation. 
+
+
+Q. Even tell a lie? 
+
+
+A. Tell somebody a lie if it was what he 
+thought that person wanted to hear in order 
+to stop the interrogation and let him out of 
+the situation. . . . I'm only saying that he 
+has the kind of personality of an individual 
+who would do that to get out of this kind of 
+situation. (Pet. App. 219a.)° 
+
+
+? There appears to be an error in the transcript here. To 
+make sense, the sentence should read: “So all three factors really 
+combine to interfere with judgment and reasoning and impulse 
+control.” 
+
+
+* Later, during cross examination, Dr. Cooke explained 
+further that “his personality is consistent with an individual 
+who is an interrogation situation where his anxiety would be 
+aroused in the kind of person that would just - you know, in his 
+own mind he'd be saying to himself, ‘I’ve got to tell them 
+whatever they want to hear so I can get out of this.’ ” (Pet. App. 
+224a-225a.) 
+
+
+10 
+
+
+At the plenary hearing and sentencing,* the prosecu- 
+tion submitted the following evidence to the court: the 
+testimony of the officer who interrogated Mr. Apprendi 
+immediately following his arrest (who testified that the 
+police did not attempt to coerce Mr. Apprendi or to 
+suggest to him the racial bias motive (Pet. App. 286a), 
+that Mr. Apprendi appeared lucid during the interroga- 
+tion (Pet. App. 284a), and that he orally admitted shoot- 
+ing at the house on two instances because black people 
+lived there (Pet. App. 176a)); and the testimony of Mr. 
+Michael Fowlkes (the homeowner). Mr. Fowlkes testified 
+that his family was the only black family that lived in the 
+immediate neighborhood (Pet. App. 102a), that the home 
+had been struck by bullets on four occasions (Pet. App. 
+104a-105a), and that his front door was constructed of 
+clear glass with a six-inch burgundy border. (Pet. App. 
+108a.) 
+
+
+After hearing all the evidence, Judge Ridgway noted 
+that the issue of racial motivation “is one which the 
+legislature has left to the discretion of the Court” to be 
+determined by a “preponderance of the evidence.” (Pet. 
+App. 139a.) As to Petitioner’s particular mental state, 
+Judge Ridgway declared: 
+
+
+And the Court also takes into consideration that, 
+as I said before, I’m satisfied the defendant has a 
+psychiatric problem. And I’m satisfied, quite 
+frankly, that this racial bias, would not have 
+
+
+4 At the request of the prosecutor, the court permitted the 
+owner of the home to testify at Petitioner's sentencing on 
+September 29, 1997. 
+
+
+11 
+
+
+manifested itself, except for the psychiatric 
+problem that he has. (Pet. App. 160a.) 
+
+
+This statement makes unclear whether Judge Ridg- 
+way would have found Petitioner guilty of the hate crime 
+had the standard of proof been beyond a reasonable 
+doubt. What is clear is that Judge Ridgway invoked this 
+enhanced penalty by a standard of mere preponderance 
+of the evidence. After summarizing the evidence for and 
+against a finding of a racially biased purpose, (Pet. App. 
+139a-144a), Judge Ridgway ultimately concluded that the 
+standard of proof had been met. (Pet. App. 144a.) Accord- 
+ingly, he applied the hate crime enhancement and sen- 
+tenced Petitioner to twelve years of incarceration on the 
+first firearm count, with a four-year period of parole 
+ineligibility; seven years on the remaining firearm count; 
+and three years on the prohibited weapons count, with 
+the sentences to run concurrently. (Pet. App. 161a.) 
+
+
+Mr. Apprendi appealed his enhanced sentence under 
+N.J. Stat. Ann. § 2C:44-3e., on the grounds that it was 
+unconstitutionally vague and violated his constitutional 
+right to due process by permitting a judge to determine 
+his state of mind based on a preponderance of the evi- 
+dence. (Pet. App. 82a.) The Superior Court of New Jersey, 
+Appellate Division, affirmed the enhanced sentence. New 
+Jersey v. Charles Apprendi, Jr., 698 A.2d 1265 (N.J. Super. 
+Ct. App. Div. 1997) (Pet. App. 67a-94a). The Appellate 
+Division held that since the New Jersey legislature had 
+not defined the “purpose to intimidate” as an element of 
+the crime, the State did not have to prove it beyond a 
+reasonable doubt. (Pet. App 87a.) The Appellate Division 
+drew a substantive distinction between “motive” and 
+“intent” and concluded that N.J. Stat. Ann. § 2C:44-3e. 
+
+
+12 
+
+
+merely addressed motive - a traditional sentencing ele- 
+ment under New Jersey law.° (Pet. App. 89a-93a.) 
+
+
+In a dissenting opinion, Judge Wecker observed that 
+the definition of “element” in the New Jersey Code of 
+Criminal Conduct itself, as well as the historical treat- 
+ment of a defendant’s mental state, dictated that the 
+“purpose to intimidate” described in N.J. Stat. Ann. 
+§ 2C:44-3e. be treated as an “element” subject to the 
+constitutional requirements of a jury determination and 
+proof beyond a reasonable doubt. (Pet. App. 71a-75a.) She 
+concluded that “[t]he State’s power to define away the 
+elements of the crime cannot extend . . . to defining away 
+the actor’s culpable purpose as an element of the crime - 
+a crime for which this defendant received a sentence 
+beyond the ordinary term for a second degree offense.” 
+(Pet. App. 70a.) 
+
+
+The Supreme Court of New Jersey affirmed the deci- 
+sion of the Appellate Division in New Jersey v. Charles 
+Apprendi, ]r., 304 N.J. Super. 147, 731 A.2d 485 (N.J. 1999) 
+(Pet. App. la-66a.) The court applied the five-factor test 
+culled from McMillan v. Pennsylvania, 477 U.S. 79 (1986), 
+and concluded that the “hate-crime enhancer” in N.J. 
+Stat. Ann. § 2C:44-3e. approximates the “visible posses- 
+sion of a firearm” sentencing factor in McMillan in all 
+respects except that it alters the maximum penalty for the 
+underlying crime. (Pet. App. 20a-21a). The court did not 
+find the increase in the maximum penalty significant in 
+
+
+° The Court rejected the vagueness argument based on 
+prior precedent and recent amendments to the statute, made 
+prior to Apprendi’s sentence, that remedied the alleged 
+vagueness. 
+
+
+— 
+
+
+13 
+
+
+light of this Court’s decision in Almendarez-Torres v. 
+United States, 523 U.S. 224 (1998), which it believed to be 
+controlling. (Pet. App. 19a-20a, 22a.) The court suggested 
+that N.J. Stat. Ann. § 2C:44-3e. actually helped criminal 
+defendants by excluding evidence of bias that would 
+otherwise inflame the jury. (Pet. App. 24a.) Nevertheless, 
+the court recognized that its holding was necessarily 
+tentative because “the final word on this subject will have 
+to come from the United States Supreme Court.” Id. 
+
+
+Two Justices dissented, concluding that the deter- 
+mination that “a defendant’s mental state in committing 
+the subject offense encompassed a purpose to intimidate 
+because of race, necessarily involves a finding so integral 
+to the charged offense that it must be characterized as an 
+element thereof.” (Pet. App. 30a.) The dissent emphasized 
+that N.J. Stat. Ann. § 2C:44-3e., unlike the recidivism at 
+issue in Almendarez-Torres and the serious bodily harm at 
+issue in Jones, involves the conduct of a criminal defen- 
+dant, specifically, his or her purpose in committing the 
+charged offense. (See Pet. App. 60a (citing Jones, 119 S.Ct. 
+at 1238 (Kennedy, J., dissenting)).) The dissent further 
+noted that McMillan v. Pennsylvania, 477 U.S. 79 (1986), 
+which upheld the visible possession of a firearm as a 
+sentencing factor, did not “require[] the sentencer to 
+make findings of fact, such as are required by N.J. Stat. 
+Ann. § 2C:44-3e., about the mental state of a defendant 
+when he committed the subject offense.” (Pet. App. 64a.). 
+Finally, the dissent noted that the majority’s concern 
+about inflaming the jury could be readily addressed by 
+bifurcating the charges, a practice followed in New Jersey 
+in other instances, such as capital cases. 
+
+
+¢ 
+
+
+14 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The New Jersey Supreme Court erred when it con- 
+cluded that the “penalty enhancement” provision in N.]. 
+Stat. Ann. § 2C:44-3e. does not offend the Constitution. 
+The decision should be reversed. Where, as here, the 
+determination of a criminal defendant’s mental state can 
+increase the maximum penalty for a crime, the Constitu- 
+tion requires that the determination be made by a jury 
+and proven beyond a reasonable doubt. New Jersey can- 
+not avoid the requirements of the Fifth and Sixth Amend- 
+ments by merely defining the fundamental element of its 
+hate crime statute as a sentencing factor. 
+
+
+S 
+
+
+———— 
+
+
+15 
+
+
+ARGUMENT 
+
+
+I. BEFORE DOUBLING A STATUTORY MAXIMUM 
+SENTENCE FROM TEN YEARS TO TWENTY 
+YEARS ON THE BASIS OF A DEFENDANT'S MEN- 
+TAL STATE, THE PROSECUTION MUST PROVE 
+THE EXISTENCE OF THAT MENTAL STATE 
+BEYOND A REASONABLE DOUBT TO A JURY. 
+
+
+A. Under The Due Process Clause Of The Fifth 
+Amendment And The Notice And Jury Trial 
+Guarantees Of The Sixth Amendment Any Fact 
+(Other Than Recidivism) Including A Defen- 
+dant’s Mental State, That Increases The Maxi- 
+mum Penalty For A Crime Must Be Charged In 
+An Indictment, Submitted To A Jury And 
+Proven Beyond A Reasonable Doubt. 
+
+
+The New Jersey statute at issue here imposes upon 
+the defendant charged with a “racially biased crime”® 
+both a substantially lengthened imprisonment and the 
+stigma of bigotry on the slimmest burden of proof recog- 
+nized in American jurisprudence - a preponderance of 
+the evidence. This is not sustainable. 
+
+
+N.J. Stat. Ann. § 2C:44-3e. violates the due process 
+protections guaranteed by the Fifth Amendment. The 
+Due Process Clause “protects the accused against convic- 
+tion except upon proof beyond a reasonable doubt of 
+every fact necessary to constitute the crime with which he 
+is charged.” In re Winship, 397 U.S. 358, 364 (1970). The 
+justification for this principle is clear: 
+
+
+* Primarily for purposes of convenience, but also because 
+the case before the Court involves alleged racial bias, we will 
+refer to the mens rea involved as “racial bias,” although the reach 
+of the statute includes other prejudicial purposes as well. 
+
+
+16 
+
+
+The reasonable doubt standard plays a vital role 
+in the American scheme of criminal procedure. 
+It is a prime instrument for reducing the risk of 
+convictions resting on factual error. The stan- 
+dard provides concrete substance for the pre- 
+sumption of innocence - that bedrock 
+“axiomatic and elementary” principle whose 
+“enforcement lies at the foundation of the 
+administration of our criminal law.” Coffin v. 
+United States, [156 U.S. 432, 453 (1895)]. .. . 
+
+
+Moreover, use of the reasonable doubt standard 
+is indispensable to command the respect and 
+confidence of the community in applications of 
+the criminal law. It is critical that the moral force 
+of the criminal law not be diluted by a standard 
+of proof that leaves people in doubt whether 
+innocent men are being condemned. It is also 
+important in our free society that every individ- 
+ual going about his ordinary affairs have confi- 
+dence that his government cannot adjudge him 
+guilty of a criminal offense without convincing a 
+proper factfinder of his guilt without utmost 
+certainty. 
+
+
+Id. 
+
+
+N.J. Stat. Ann. § 2C:44-3e. violates both the spirit and 
+letter of Winship. It threatens to “dilute the force of the 
+criminal law” by subjecting defendants to harsh criminal 
+penalties, over and above those imposed for the underly- 
+ing offense, without affording them the protections of the 
+reasonable doubt standard. It does so by labeling the 
+essential element of the New Jersey hate crime law — the 
+“purpose to intimidate . . . because of race” - a penalty 
+enhancement provision rather than an element of an 
+
+
+17 
+
+
+aggravated crime. This places a crucial factual determina- 
+tion, the defendant’s state of mind at the time of the 
+offense, in the hands of a judge to be determined by a 
+mere preponderance of the evidence. The decisive issue 
+in this case is whether, in so doing, New Jersey can avoid 
+the constitutional requirements that would otherwise 
+attach to a determination of a defendant’s mental state. It 
+cannot. 
+
+
+Although states generally have the authority to 
+define crimes and prescribe penalties, see McMillan v. 
+Pennsylvania, 477 U.S. 79, 86 (1986), requirements of due 
+process may not be evaded by merely redefining “the 
+elements that constitute different crimes, characterizing 
+them as factors that bear solely on the extent of punish- 
+ment.” Mullaney v. Wilbur, 421 U.S. 684, 698 (1975); accord 
+Patterson v. New York, 432 U.S. 197, 210 (1977) (recogniz- 
+ing that there are “obviously constitutional limits beyond 
+which the States may not go” in reallocating burdens of 
+proof by labeling elements of crimes as affirmative 
+defenses). 
+
+
+Recently, the Court stated the following principle: 
+“{U]nder the Due Process Clause of the Fifth Amendment 
+and the notice and jury trial guarantees of the Sixth 
+Amendment, any fact (other than prior conviction) that 
+increases the maximum penalty for a crime must be charged in 
+the indictment, submitted to a jury, and proven beyond a 
+reasonable doubt.” Jones v. United States, 119 S.Ct. 1215, 
+1224, n. 6 (emphasis added). Although the Court articu- 
+lated this standard as a means of casting doubt on the 
+Government's proposed interpretation of the carjacking 
+statute, it reflects the Court’s most recent pronouncement 
+on the issues squarely presented by this appeal, and it 
+
+
+18 
+
+
+reiterates the Court’s commitment to the principles estab- 
+lished in Winship. 
+
+
+Under the standard articulated in Jones, N.J. Stat. 
+Ann. § 2C:44-3e. cannot pass constitutional muster, as it 
+manifestly “increases the maximum penalty for a crime” 
+based on a judge’s determination of a crucial fact under a 
+mere preponderance of the evidence standard. New Jer- 
+sey’s statute, even more clearly than the statute in Jones, 
+includes language that this Court held to constitute ele- 
+ments of an offense rather than mere sentencing consider- 
+ations. Id. at 1218-1222. N.J. Stat. Ann. § 2C:44-3e. “not 
+only provide[s] for steeply higher penalties, but condi- 
+tion[s] them on further facts that seem quite as important 
+as the elements in the [principal offense].” Id. at 1218. The 
+“hate” element of a hate crime cannot reasonably be 
+characterized as a mere sentencing consideration; it is the 
+essence of the crime itself. 
+
+
+The additional penalty imposed by N.J. Stat. Ann. 
+§ 2C:44-3e. is two-pronged: a criminal defendant can be 
+branded as a racist and be imprisoned for twice as long as 
+otherwise permitted by law.” Thus, the determination of a 
+defendant’s mental state greatly increases both the stigma 
+
+
+7 This statute permits the judge to effectively increase the 
+degree of a particular offense. Thus, Petitioner, who pled guilty 
+to a second degree offense (with a 10-year maximum sentence), 
+could have been sentenced at the first degree level (up to 20 
+years). If he had been convicted of a first degree offense, his 
+maximum sentence would have increased from 20 years to life 
+imprisonment. Accord Jones, 119 S.Ct. at 1224 (“[A] jury finding 
+of fact necessary for a maximum 15-year sentence would merely 
+open the door to a judicial finding sufficient for life 
+imprisonment.”). 
+
+
+19 
+
+
+associated with the crime and the maximum length of 
+incarceration. Such a determination should not be made 
+without the protections afforded by the reasonable doubt 
+standard. See McMillan, 477 U.S. at 103 (“[I]f a State 
+provides that a specific component of a prohibited trans- 
+action give rise both to a special stigma and to a special 
+punishment, that component must be treated as a ‘fact 
+necessary to constitute the crime’ within the meaning of 
+our holding in In re Winship.”) (Stevens, J., dissenting). 
+
+
+Ever since its decision in Winship, this Court has 
+repeatedly held that a higher standard of proof than that 
+“necessary to award money damages in an ordinary civil 
+action,” Santosky v. Kramer, 455 U.S. 745, 747 (1982), must 
+be applied in situations creating grave and permanent 
+injury to a citizen. Since Mathews v. Eldridge, 424 U.S. 319 
+(1976) the Court has held that a higher standard than 
+preponderance (the “clear and convincing” standard) 
+must be applied in proceedings involving civil commit- 
+ment, deportation, denaturalization, and the termination 
+of parental rights. See, e.g., Addington v. Texas, 441 U‘S. 
+418, 427 (1979) (civil commitment proceedings); Woodby v. 
+INS, 385 U.S. 276, 286 (1966) (deportation proceedings); 
+Chaunt v. United States, 364 U.S. 350, 353 (1960) 
+(denaturalization proceedings); Santosky v. Kramer, 455 
+U.S. 745, 769 (1982) (termination of parental rights). See 
+also United States v. Hopper, 177 F.3d 824 (9th Cir. 1999). If 
+a preponderance of evidence standard was inadequate to 
+protect the interests at stake in these civil proceedings, 
+then a preponderance standard clearly is inadequate 
+here, where a defendant faces doubled criminal sanctions. 
+The application of each of the Mathews factors would, at a 
+minimum, require the application of something more 
+
+
+20 
+
+
+than a preponderance of evidence where a defendant is 
+subjected to both a greater stigma and a greater maxi- 
+mum sentence. Under Mathews and its progeny, N.J. Stat. 
+Ann. § 2C:44-3e. plainly is inadequate.* 
+
+
+This Court explained in Rivera v. Minich, 483 U.S. 574, 
+581 (1987), why a higher standard is appropriate: 
+“[Blecause an adverse ruling in a criminal, civil commit- 
+ment or termination proceeding has especially severe 
+consequences for the individuals affected, it is appropri- 
+ate for society to impose upon itself a disproportionate 
+share of the risk of error in sucn proceedings.” See also 
+Addington v. Texas, 441 U.S. 418, 423 (1979) (“Ina criminal 
+case... the interests of the defendant are of such magni- 
+tude that historically and without any explicit constitu- 
+tional requirement they have been protected by standards 
+of proof designed to exclude as nearly as possible the 
+likelihood of an erroneous judgment.”). 
+
+
+8 Petitioner has identified only one other state statute that 
+increased a maximum sentence based upon a finding by a court 
+of a defendant’s purpose, and that statute was held 
+unconstitutional by the state’s highest court. In People v. 
+Hernandez, 757 P.2d 1013 (Cal. 1988) the defendant was charged 
+with kidnapping. The trial court, at sentencing, imposed a 
+three-year additional sentence pursuant to § 667.8 of the 
+California Penal Code, which allowed such an increase if the 
+kidnapping was “for the purpose of committing a sexual 
+offense.” The California Supreme Court held the additional 
+sentence unconstitutional because the statute had not been pled 
+or proven at trial. The Court declared: “[T]he reference to mere 
+motive .. . downgrades the importance of the mental element 
+required by the statute and would be inconsistent with the 
+construction given to similar language in other penal statutes.” 
+Id. at 1016. 
+
+
+21 
+
+
+B. Assessing A Defendant's Mental State Presents 
+A Task Fraught With Uncertainty; The Risk Of 
+
+
+Error Requires Proof Beyond A Reasonable 
+Doubt. 
+
+
+The uncertainty inherent in assessing a criminal 
+defendant's “purpose” or intent necessitates a higher 
+standard of proof. This Court has recently reaffirmed the 
+centrality of mental state - and of mental states generally 
+- to the criminal law. In Staples v. United States, 511 U S. 
+600, 605-06 (1994), and again in United States v. X-Citement 
+Video, Inc., 513 U.S. 64, 71 (1994), the Court explained that 
+the mens rea element is so firmly rooted in our traditions 
+that it is presumed where a statute, by its terms, does not 
+include it. 
+
+
+The primary function of a standard of proof is “to 
+minimize the risk of erroneous decisions.” Greenholtz v. 
+Nebraska Penal Inmates, 442 U.S. 1, 13 (1979). As the Court 
+explained in Addington, the purpose of a standard of 
+proof is “to instruct the fact finder concerning the degree 
+of confidence our society thinks he should have in the 
+correctness of the factual conclusions for a particular type 
+of adjudication.” 441 U.S. at 423; see also Mathews, 424 
+U.S. at 344. Thus, the reasonable doubt standard reflects 
+society’s desire to minimize error in assigning criminal 
+guilt. As Justice Harlan stated in his concurring opinion 
+in Winship, the reasonable doubt standard in criminal 
+cases is “bottomed on a fundamenta! value determination 
+of our society that it is far worse to convict an innocent 
+man than to let a guilty man go free.” 397 U.S. at 372. 
+
+
+22 
+
+
+The facts of this case exemplify the difficulties inher- 
+ent in — and the risks of error associated with — determin- 
+ing a defendant's mental state. It is undisputed that Mr. 
+Apprendi was intoxicated when he fired his gun at his 
+neighbors’ purple door. Moreover, substantial evidence 
+was submitted at the sentencing hearing to suggest that 
+he suffered from psychological difficulties. Judge Ridg- 
+way conceded as much during the hearing: 
+
+
+I'm satisfied the defendant has a psychiatric 
+problem. And I'm satisfied, quite frankly, that 
+this racial bias would not have manifested itself 
+except for the psychiatric problem that he 
+has. . . . I'm satisfied that [these acts] represent 
+an aberration. (Pet. App. 160a-161a.) 
+
+
+This declaration by the trial judge who sentenced the 
+petitioner shows that his acts were undoubted affected by 
+his psychiatric turmoil. These circumstances suggest the 
+difficulty of the factual inquiry into Petitioner's state of 
+mind. Judge Ridgway was required to subjectively weigh 
+competing evidence and to balance facts and inferences 
+against each other: 
+
+
+THE COURT: Very well. Gentlemen, as you're 
+very well aware the statute 
+which we're talking about, 
+
+' 2C:44-3, provides for an 
+enhanced penalty when the 
+Court is satisfied by a prepon- 
+derance of the evidence that the 
+actions of a defendant are moti- 
+vated by racial bias. (Pet. App. 
+138a.) 
+
+
+Because Judge Ridgway utilized the preponderance 
+of evidence standard of proof, he may well have reached 
+
+
+23 
+
+
+a different conclusion had he been required to determine 
+the defendant’s “purpose” beyond a reasonable doubt. 
+
+
+We submit that had the trial judge required the State 
+to show racial bias beyond a reasonable doubt, the Court 
+might well have concluded that the State had failed to 
+carry its burden that Mr. Apprendi’s actions were moti- 
+vated by racial bias, and not by other mental infirmities. 
+We do know that the trial court decided the mental state 
+of the petitioner by the civil standard of mere prepon- 
+derance of the evidence. 
+
+
+Petitioner respectfully contends that ascertaining 
+any defendant’s mental state, particularly one like Mr. 
+Apprendi, who was mentally disabled by an obsessive 
+compulsive disorder and drug and alcohol abuse at the 
+time he committed the predicate crimes, is rife with peril 
+and should be decided by a jury upon proof beyond a 
+reasonable doubt. 
+
+
+In Culombe v. Connecticut, this Court wrote: 
+
+
+[Djetermination of how the accused reacted to 
+the external facts, and of the legal significance 
+of how he reacted — although distinct as a matter 
+of abstract analysis, becomes] in practical oper- 
+ation inextricably interwoven. This is so, in part, 
+because the apprehension of mental states is 
+almost invariably a matter of induction, more or 
+less imprecise, and the margin of error which is 
+thus introduced into the finding of “fact” must 
+be accounted for in the formulation and applica- 
+tion of the “rule” designed to cope with such 
+classes of facts. 
+
+
+367 U.S. 568, 604 (1961). 
+
+
+24 
+
+
+This uncertainty in the factual determination distin- 
+guishes N.J. Stat. Ann. § 2C:44-3e. from the sentencing 
+provisions at issue in McMillan and Almendarez-Torres, 523 
+U.S. 224 (1998). The Pennsylvania statute at issue in 
+McMillan provided an enhanced minimum sentence (the 
+maximum sentence remained unchanged) for certain enu- 
+merated felonies where the sentencing judge determined 
+by a preponderance that the defendant “visibly possessed 
+a firearm.” 477 U.S. at 81. In upholding this statutory 
+scheme, the Court was careful to observe that “the risk of 
+error in the context of a 9712 proceeding is comparatively 
+slight — visible possession is a simple, straightforward 
+issue susceptible of objective proof.” Id. at 84.9 Similarly, 
+in Almendarez-Torres, the risk of error in ascertaining 
+whether a defendant has a prior criminal record was 
+remote, and the Court repeatedly emphasized the unique 
+nature of recidivism as a sentencing factor. 523 U.S. at 
+243-244. Unlike the determination of a defendant’s men- 
+tal state, recidivism involves the mechanistic determina- 
+tion of whether a criminal defendant had any prior 
+convictions by simply reading the criminal record or rap 
+
+sheet. It involves no discretion or measured judgment, 
+careful weighing of the facts and inferences (roles typ- 
+ically assigned to a jury rather than a judge), and it is 
+
+
+% McMillan is distinguishable on other grounds as well. In 
+McMillan, the Court emphasized that the case did not transgress 
+constitutional limits because it did not “alter the maximum 
+penalty for a crime” but merely “limit[ed] the sentencing court's 
+discretion in selecting a penalty within the range already 
+available to it ....” Id. at 87-88. By contrast here, N.J. Stat. Ann. 
+§ 2C:44-3e. doubles the possible maximum penalty for a crime, 
+greatly increasing the range of possible sentences. 
+
+
+25 
+
+
+objectively verifiable. The Court also qualified its holding 
+with the telling statement that (because defendant admit- 
+ted his recidivism and would have received a sentence 
+enhancement regardless of the burden of proof): “[WJe 
+express no view on whether some heightened standard of 
+proof might apply to sentencing determinations that bear 
+significantly on the severity of the sentence.” Id. at 248. 
+See also United States v. Hopper, 177 F.3d 824 (9th Cir. 
+1999) (holding that whenever there is an extreme increase 
+in a sentence, even within the sentencing guidelines, the 
+standard of proof should not be preponderance); cf. 
+United States v. Kikumura, 918 F.2d 1084, 1102 (3d Cir. 
+1990) (employing a clear and convincing evidence stan- 
+dard when the sentence was increased from three years to 
+thirty, still within the maximum). 
+
+
+C. New Jersey’s Approach Is Unusual And 
+Extreme. 
+
+
+1. Only New Jersey Expressly Uses A Prepon- 
+derance Of The Evidence Determination Of 
+A Defendant's Mental State To Effectively 
+Double The Maximum Punishment. 
+
+
+In determining whether a higher standard of proof 
+should be required, this Court has looked to the practice 
+in other states. See, e.g., Rivera v. Minnich, 483 U.S. 574, 
+578-79 (1987). In Appendix A, petitioner has included a 
+survey of all state statutes that appear to be relevant to 
+the issue of “hate” crimes and the requisite procedural 
+protections. '° 
+
+
+10 Petitioners include in Appendix A all state statutes which 
+appear to be relevant to this issue. In the vast majority of 
+
+
+26 
+
+
+Appendix A identifies fifty-four statutes from forty- 
+two states (including the District of Columbia) which 
+
+
+statutes, (e.g.) the atute clearly enunciates a separate crime, 
+which requires proof beyond a reasonable doubt of the racial 
+intent. In a number of other instances, the statute is not clear 
+whether the racial intent must be proved by such a standard. 
+Petitioners note that the Wisconsin statute involved in Mitchell 
+v. Wisconsin expressly declares that the finder of fact is to 
+determine racial bias beyond a reasonable doubt in a special 
+verdict. Thus, even if Wisconsin’s statute creates a “sentence 
+enhancer,” rather than an “element,” that state has expressly 
+addressed this issue, and resolved it consonant with the long- 
+standing history discussed in the text. Moreover, the Wisconsin 
+Statute is the one used by the Anti Defamation League as its 
+model for proposed legislation. See B’Nai B’Rith Anti- 
+Defamation League 1999 Hate Crimes, p. 19. Finally, while some 
+statutes appear to address the issue as a “sentence enhancer”, 
+these statutes are ambiguous on the standard of care to be 
+applied. Petitioner’s Appendix, attached to this brief, describes 
+all relevant state racial bias statutes. Petitioners have located 
+over two hundred statutes that might be considered “hate 
+crime” statutes. Many of these, however, are aimed at conduct 
+targeting specific places, without regard to the specific mental 
+state impelling the act (e.g., desecration of religious buildings, 
+cemeteries, etc). (For example, Oklahoma Statutes Annotated, 
+§ 1765 states as follows: “Any person who willfully breaks, 
+defaces or otherwise injures any house of worship or any part 
+thereof, any appurtenance thereto, or any book, furniture, 
+ornament, musical instrument, article of silver or plated ware, 
+or other chattel kept therein for use in connection with religious 
+worship shall be guilty of a felony.”) Moreover, none of these 
+statutes specifies that the purpose for which the desecration is 
+done is relevant in any way. While one might easily speculate 
+that desecration of a mosque or synagogue implies religious 
+bias, the statutes do not make such bias relevant. We have, 
+therefore, not included these statutes in our survey. Many states 
+provide generally that anyone intentionally interfering with the 
+civil rights of another, or assaulting them because of their 
+
+
+WIS ee 
+
+
+27 
+
+
+seem to use racial (or religious or gender or sexual) bias 
+as a relevant factor. (Several states have each kind of 
+
+
+exercise of their civil rights, commits a crime. We have also not 
+included these statutes in the survey, although they also would 
+seem to require proof beyond a reasonable doubt of ihe intent to 
+act because of the civil rights of the victim. 
+
+
+The free standing statutes establish a new crime with a new 
+penalty for a specific conduct and mental state. A variation on 
+this theme establishes a new crime of “assault” or “harassment” 
+or some other conduct “because of bias” and increases the 
+penalty for the predicate crime. New Jersey itself has two of these 
+statutes, N.J. Stat. Ann. § 2C:12-le. and N.J. Stat. Ann. § 2C:33-4d. 
+
+
+We have assumed that the free standing statutes would 
+require the prosecutor to prove, beyond a reasonable doubt to a 
+jury, the specific mens rea indicated in the statute. In a few 
+instances, there is case law so indicating, but most of the 
+statutes are silent on this point, and there is no case law one way 
+or the other. 
+
+
+The case before the Court involves the other kind of statute 
+- an enhancement statute. These statutes allow increased 
+punishment based upon bias motivation. We have found 
+twenty-four statutes that appear to qualify under this label. Of 
+these, eight permit racial bias to allow an increase only within 
+the maximum sentence. One of these —- Kansas - expressly uses a 
+“clear and convincing evidence” standard. Sixteen allow an 
+increase in the maximum sentence. Of the remaining 16, 
+however, five (D.C., Florida, Mississippi, Rhode Island and 
+Wisconsin) expressly require proof beyond a reasonable doubt 
+of that motivation, and case law in another two (California and 
+Pennsylvania) seems to require such a standard. The rest are 
+silent on the standard of proof to be invoked, but few allow an 
+increase anywhere near the magnitude of New Jersey. Vermont, 
+for example, allows an increase of crimes punished by less than 
+5 years imprisonment, but if the underlying offense is itself 
+punishable by more than five years, racial bias may not increase 
+the maximum sentence. 
+
+
+28 
+
+
+statute, or, in some instances, several separate free stand- 
+ing statutes. See California, Connecticut, Illinois, Mon- 
+tana, Nevada, New Jersey, Rhode Island and West 
+Virginia.) These statutes are fairly separated into two 
+categories: (1) free stand and (2) enhancement. 
+
+
+The free standing statutes establish a new crime with 
+a new penalty for a specific conduct and mental state. 
+(For example, Idaho Code § 18-7902 states that a person is 
+guilty of ... “malicious harassment” if that person “mali- 
+ciously and with the specific intent to intimidate or 
+harass another person because of that person’s race, 
+color, religion, ancestry or national origin,” harms or 
+threatens to harm him. Malicious harassment is punish- 
+able by up to five years imprisonment. § 18-7903.) A 
+variation on this theme establishes a new crime of 
+“assault” or “harassment” or some other conduct 
+“because of bias” and increases the penalty for the predi- 
+cate crime. New Jersey itself has two of these statutes, 
+N.J. Stat. Ann. §§ 2C:12-le. and 2C:33-4d.!! 
+
+
+Only three states, North Carolina, Texas and New Jersey, 
+expressly invoke a standard less than beyond a reasonable 
+doubt. North Carolina’s increase applies only within the 
+maximum sentence, and Texas’ statute applies only to lesser 
+misdemeanors, not to felonies. Even then, the Texas statute 
+requires “an affirmative finding” of racial bias, which has been 
+interpreted as requiring “relevant and reliable” evidence. 
+Martinez v. State, 980 S.W. 2d 662, 667 (Tex. App. 1998). 
+
+
+Thus, no state except New Jersey expressly allows an 
+increase of double the sentence (or more) based upon a standard 
+less than beyond a reasonable doubt, whether that finding is 
+made by judge or jury. 
+
+
+1! Presumably, free standing statutes would require the 
+prosecutor to prove, beyond a reasonable doubt to a jury, the 
+
+
+29 
+
+
+The instant case involves the other category of stat- 
+ute - “enhancements.” These statutes allow increased 
+punishment based upon bias motivation. Twenty-four 
+state statutes appear to fit within this category. Of these, 
+eight permit racial bias to allow an increase only within 
+the maximum sentence. One of these —- Kansas — expressly 
+uses a “clear and convincing evidence” standard. Sixteen 
+allow an increase in the maximum sentence. Five of these 
+sixteen (D.C., Florida, Mississippi, Rhode Island and Wis- 
+consin), expressly require proof beyond a reasonable 
+doubt of that motivation, and case law in another two 
+(California and Pennsylvania) seems to require such a 
+standard. Six of the nine remaining are silent on the 
+standard of proof to be invoked, but few allow an 
+increase anywhere near the magnitude of New Jersey. 
+Vermont, for example, allows an increase in the maxi- 
+mum sentence only for crimes punished by less than 5 
+years imprisonment, but if the underlying offense is itself 
+punishable by more than five years, racial bias may not 
+increase the maximum sentence. 
+
+
+Only three states, North Carolina, Texas and New 
+Jersey, expressly invoke a standard less than beyond a 
+reasonable doubt. North Carolina’s increase applies only 
+within the maximum sentence, and Texas’ statute applies 
+only to lesser misdemeanors, not to felonies. Even then, 
+the Texas statute requires “an affirmative finding” of 
+racial bias, which has been interpreted as requiring “rele- 
+vant and reliable” evidence. Martinez v. State, 980 S.W. 2d 
+
+
+specific mens rea indicated in the statute. In a few instances, 
+there is case law so indicating, but most of the statutes are silent 
+on this point, and there is no case law one way or the other. 
+
+
+30 
+
+
+662, 667 (Tex. App. 1998). Thus, no state except New 
+Jersey expressly allows an increase of double the sentence 
+(or more) based upon a standard less than beyond a 
+reasonable doubt, whether that finding is made by judge 
+or jury. 
+
+
+Ironically, New Jersey itself appears to recognize the 
+need for proof beyond a reasonable doubt in charges of 
+racial bias. New Jersey’s Code of Criminal Justice defines 
+two specific offenses - one involving racial harassment 
+(N.J. Stat. Ann. § 2C:33-4d.), the other racial assault (N.J. 
+Stat. Ann. § 2C:12-le.) — that require proof of racial bias 
+beyond a reasonable doubt. In stark contrast to N.J. Stat. 
+Ann. § 2C:44-3e., conviction for one of these aggravated 
+offenses far less seriously increases the possible punish- 
+ment (from either thirty days or six months to eighteen 
+months under N.J. Stat. Ann. § 2C:43-6). Thus, New Jer- 
+sey seems to have it backwards: it requires a stringent 
+burden of proof for moderate penalties and a moderate 
+burden of proof for stringent penalties. 
+
+
+2. The Federal Sentencing Guidelines Recog- 
+nize That The Determination Of A Biased 
+Purpose In The Commission Of A Crime 
+Calls For The Highest Standard Of Proof. 
+
+
+That racial bias is strikingly different from virtually 
+every factor that increases a sentence has been recognized 
+not only by the vast majority of states, but also by Con- 
+gress. In 1994 Congress enacted Pub. L. 103-322, § 280003 
+of which instructed the Federal Sentencing Commission 
+to increase the base offense level three levels (essentially 
+an increase, within the maximum statutory sentence, of 
+
+
+31 
+
+
+1'/2-2 years), but only if “the finder of fact at trial deter- 
+mines beyond a reasonable doubt” that the crime is a hate 
+crime. See 28 U.S.C.A. § 994, Historical and Statutory 
+Notes. This appears to be the only time that Congress has 
+instructed the Sentencing Commission on the standard of 
+proof, and the only time that it has expressly required 
+proof beyond a reasonable doubt of a factor that will not 
+increase the statutory maximum. 
+
+
+Il. ANY FACT THAT RESULTS IN AN INCREASE OF 
+THE MAXIMUM SENTENCE (EXCEPT RECIDIV- 
+ISM) MUST BE RESOLVED BY A JURY. 
+
+
+A. The Question Of Intent Can Never Be Ruled As 
+A Question Of Law, But Must Always Be Sub- 
+mitted To The Jury. 
+
+
+N.J. Stat. Ann. § 2C:44-3e. runs afoul of this Court's 
+pronouncement in Jones that the Fifth and Sixth Amend- 
+ments require that “any fact (other than prior conviction) 
+that increases the maximum penalty for a crime must be 
+charged in an indictment, submitted to a jury, and proven 
+beyond a reasonable doubt.” 119 S.Ct. at 1223, fn. 6. This 
+pronouncement is merely the culmination of a long line 
+of cases protecting and expanding the right to a jury trial. 
+From the moment of its creation by Athena on the Are- 
+opagus,'? the jury has served as a bulwark against over- 
+zealous prosecutors and jaded judges. As this Court has 
+stated, the “essential feature of a jury . . . [is] the inter- 
+position between the accused and his accuser of the com- 
+mon sense judgment of a group of laymen... .” Williams 
+
+
+12 Aeschylus, The Eumenides. 
+
+
+32 
+
+
+v. Florida, 399 U.S. 78, 100 (1970). The jury has been the 
+embodiment of community norms - and community 
+judgment - since at least its restoration in the England of 
+Henry II. 
+
+
+Development of the role of the jury in this country - 
+recited by this Court most recently in Jones — illustrates 
+the critical role that juries play in American law. This 
+Court has piayed no small role in that development. 
+While many countries have restricted or eliminated the 
+role of juries in their legal systems, this Court has repeat- 
+edly defended the integrity of our jury system.!3 
+
+
+This Court has recently reaffirmed that juries, and 
+not judges, must decide critical issues in a criminal case. 
+See United States v. Gaudin, 515 U.S. 506 (1995). Indeed, 
+Gaudin is intriguingly on point. In that case, the govern- 
+ment sought to avoid a jury determination of the issue of 
+materiality by simply labeling it as something else (just as 
+N.J. Stat. Ann. § 2C:44-3e. seeks to remove the determina- 
+tion of a defendant’s purpose from the jury by labeling it 
+as a sentencing factor). In rejecting this semantic argu- 
+ment, the Court declared: 
+
+
+The existence of a unique historical exception to 
+this principle [trial by jury] - and an exception 
+that reduces the power of the jury precisely 
+when it is most important . . . would be so 
+
+
+13 For example, over the past thirty years this Court has 
+reinvigorated both the petit jury and the grand jury, even when 
+others have argued that these institutions have become relics of 
+the past. See, e.g., Batson v. Kentucky, 476 U.S. 79 (1986); Taylor v. 
+Louisiana, 419 U.S. 522 (1975); Duncan v. Louisiana, 391 U.S. 145 
+(1968). 
+
+
+33 
+
+
+extraordinary that the evidence for it would 
+have to be convincing indeed. It is not so. 
+
+
+Id. at 515. 
+
+
+The question of mental state - whether characterized 
+as motive, purpose, or specific intent — has long been the 
+province of juries. As this Court explained in Morissette v. 
+United States, “[w]here intent of the accused is an ingre- 
+dient of the crime charged, its existence is a question of 
+fact which must be submitted to the jury.” 342 U.S. 246, 
+274 (1952). The Court in Morissette relied heavily on this 
+principle to reverse the lower court’s removal of intent 
+from those questions to be resolved by the jury. In sup- 
+port, the Morissette Court cited People v. Flack, 125 N.Y. 
+324, 334, 26 N.E. 267, 270 (N.Y. 1891): “However clear the 
+proof may be, or however incontrovertible may seem to 
+the judge to be the inference of a criminal intention, the 
+question of intent can never be ruled as a question of law, 
+but must always be submitted to the jury.” 
+
+
+This Court has continued to reject the presumptive 
+intent argument, acknowledging the need for a jury to 
+determine whether the defendant had the requisite men- 
+tal state to be punished under the statute. In the antitrust 
+context, the Court in United States v United States Gypsum 
+Co., 438 U.S. 422, 435 (1978), concluded that “a defen- 
+dant’s state of mind or intent is an element of a criminal 
+antitrust offense which must be established by evidence 
+and inferences drawn therefrom and cannot be taken 
+from the trier of fact through reliance on a legal presump- 
+tion of wrongful intent from proof of an effect on prices.” 
+
+
+New Jersey, however, seeks to take from the defen- 
+dant his protection by that jury, and from the jury the 
+
+
+34 
+
+
+very essence of its function. As the Court said in Jones, 
+New Jersey seeks to relegate the jury to a “gatekeeping” 
+role, permitting it to decide some important facts while 
+reserving other equally important facts to be decided by a 
+judge. The role of the jury as the embodiment of commu- 
+nity norms is severely compromised when a single judge 
+- rather than a cross-section of the community in which 
+the defendant lives - is permitted to decide whether a 
+defendant committed a “hate crime.” The Sixth Amend- 
+ment’s protection of a jury right cannot be so easily 
+overridden, particularly when the statute doubles the 
+sentence and brands a defendant with the stigma of being 
+a bigot in the process. 
+
+
+As one of the leading treatises on jury selection has 
+stated: “[T]he Court has established extraordinarily strin- 
+gent standards aimed at guaranteeing jury represen- 
+tativeness. This is nowhere clearer than in recent 
+discrimination cases regarding other non-jury areas in 
+which the Court has explicitly excepted jury challenges 
+from its emphasis on discriminatory intent as opposed to 
+impact.” National Jury Project, Jurywork 5-7 (1990) (Citing 
+Washington v. Davis, 426 U.S. 229 (1976); Arlington Heights 
+v. Metropolitan Housing Dept. Corp., 429 U.S. 252 (1977); 
+Castaneda v. Partida, 430 U.S. 482 (1977); Duren v. Missouri, 
+439 U.S. 1357 (1979); and Batson v. Kentucky, 476 U.S. 79 
+(1986)). 
+
+
+Richard G. Singer and Mark D. Knoll have observed 
+that, prior to the mid-1980s, federal courts universally 
+held any factor that increased the maximum sentence for 
+a crime constituted an element of the offense that should 
+be resolved by a jury. Searching for the “Tail of the Dog”: 
+Finding “Elements” of Crimes in the Wake of McMillan v. 
+
+
+35 
+
+
+Pennsylvania, 22 Seattle Univ. L. Rev. 1057 (1999). The 
+accepted standard was that any issue of value (as in 
+larceny cases) or quantity (as in Prohibition cases) was a 
+jury question. See, e.g., Pace v. Aderhold, 2 F. Supp. 261, 
+263 (N.D. Ga.), aff'd 65 F.2d 790 (5th Cir. 1932); Olivito v. 
+United States, 67 F.2d 564, 565 (9th Cir. 1933); United States 
+v. Wilson, 284 F.2d 407, 408 (4th Cir. 1960). In United States 
+v. Kramer, 289 F.2d 909 (2d Cir. 1961), the Second Circuit 
+thought the label irrelevant. Instead, Judge Henry 
+Friendly eloquently declared that, whatever name is 
+given the factor, when it deeply affects the defendant, it 
+should be resolved by the jury: 
+
+
+We assume the Sixth Amendment entitles a 
+defendant to have that fact determined by the 
+jury rather than the sentencing judge. There is, 
+of course a certain incongruity in asking a jury 
+to exercise such expertise in the ways of the 
+underworld as to determine the “value” of 
+money orders that can be or have been forged; 
+but the omniscience of the jury extends to 
+harder questions than that. 
+
+
+Id. at 921. 
+
+
+The traditional stance of the federal courts - and of 
+most state courts as well — has been that any factor that 
+increases the maximum sentence must be submitted to 
+the jury. Even in the one major exception to this rule, 
+recidivism, the vast majority of states still requires that 
+the issue be submitted to a jury, as both the majority and 
+dissenting opinions in Almendarez-Torres recognized. 
+
+
+Another commentator recently concluded that the 
+standard proffered by this Court in Jones — that any factor 
+that increases the maximum sentence (except recidivism) 
+
+
+36 
+
+
+must be proved to the jury - best comports with prior 
+precedent and with the requirements of the Sixth Amend- 
+ment. See Benjamin J. Priester, Further Developments on 
+Previous Symposia: Sentenced for a Crime The Government 
+Did Not Prove: Jones v. United States and the Constitutional 
+Limitations on Factfinding by Sentencing Factors Rather than 
+Elements of the Offense, 61 Law and Contemp. Prob. 249 
+(1998). Priester concludes: 
+
+
+The maximum sentences position is a sound 
+constitutional test. . . . This position generally 
+provides great deference to the legislature. 
+.. . The only matter about which the maximum 
+sentences position is not deferential is the defi- 
+nition of the “maximum sentence” for each 
+crime. . . . In addition, the maximum sentences 
+position adopts the distinction between genera- 
+tive statutes and sentencing regulations. The 
+Sentencing Guidelines . . . do not define any 
+new “crimes” .. . the maximum possible sen- 
+tence is always restricted to that of the underly- 
+ing statutory offense of conviction." 
+
+
+Id. at 292. 
+
+
+The “increase of maximum sentence” standard estab- 
+lishes a bright line test for determining whether an issue 
+
+
+4 A potential increase in the maximum sentence has also 
+shaped other decisions in this Court. Thus, for example, in 
+Chandler v. Fretag, 348 U.S. 3, 10 (1954), the Court held that 
+where a prior conviction increased the maximum penalty, the 
+Sixth Amendment right to counsel was activated. Accord 
+Chewning v. Cunningham, 368 U.S. 443 (1962); Specht v. Patterson, 
+386 U.S. 605 (1967). While these cases may be distinguished 
+from the case at bar, the underlying premise, that changes in the 
+maximum sentence and stigma require greater protection than 
+that afforded a party in a tort action, has remained unchanged. 
+
+
+37 
+
+
+goes to the jury. Courts would not have to grapple with 
+whether a factor was “part of the crime” with a more 
+cumbersome “factors” or “totality” approach. Moreover, 
+as Priester notes, factors that increased punishment 
+within the maximum (for example, the Pennsylvania stat- 
+ute at issue in McMillan, supra), would be unaffected. In 
+short, this position protects those 25 states (as well as the 
+federal government) that have adopted some form of 
+sentencing guidelines. 
+
+
+B. N.J. Stat. Ann. § 2C:44-3e. Imposes A Signifi- 
+cant Societal Stigma That Should Be Imposed 
+Only By A jury, As A Jury Best Represents The 
+Collective Judgment Of The Community. 
+
+
+The idea that mental state is necessary for criminal 
+conviction “is no provincial or transient notion.” Mor- 
+isette, 342 U.S. at 250. “What distinguishes a criminal 
+from a civil sanction and all that distinguishes it . . . is the 
+judgment of community condemnation which accom- 
+panies and justifies its imposition.” Henry Hart, The 
+Aims of the Criminal Law, 23 Law and Contemp. Probs. 
+401, 404 (1958); see also Gardner, Bailey v. Richardson and 
+the Constitution of the United States, 33 B.U.L. Rev. 176, 193 
+(1953) (“The essence of punishment for moral delin- 
+quency lies in the criminal conviction itself. . . . It is the 
+expression of the community’s hatred, fear, or contempt 
+for the convict which alone characterizes physical hard- 
+ship as punishment.”) 
+
+
+These ideas animated the Court’s conclusion in In re 
+Winship that the highest standard of proof must be 
+applied in a criminal case “because of the possibility that 
+
+
+38 
+
+
+[the defendant] may lose his liberty upon conviction and 
+because of the certainty that he would be stigmatized by 
+the conviction.” [emphasis added] 397 U.S. 358, 364 
+(1970). That statement recognizes the central truth of the 
+criminal law - every criminal conviction, even those 
+which do not, or cannot, result in imprisonment, brands 
+the defendant as an immoral actor. As Justice Brennan 
+concluded: “A society that values the good name .. . of 
+every individual should not condemn a man... when 
+there is reasonable doubt about his guilt.” Id. 
+
+
+That condemnation should come from the jury. As 
+Justice Thomas recently wrote for the majority in Jones v. 
+United States, 527 U.S. 373, 383 (1999), the jury 
+“expressi[es] the conscience of the community. . . . ” 527 
+U.S. at 383 (quoting Lowenfield v. Phelps, 484 U.S. 231 
+(1988)). The New lersey statute rejects the history and 
+understanding behind these conclusions and imposes 
+upon the defendant charged with a “racially biased 
+crime” the stigma of bigotry on the slimmest burden of 
+proof, really a mere civil burden of proof, and without 
+permitting the community itself to play a significant role 
+in that determination. Judge Ridgway, moreover, 
+acknowledged the collateral consequences of the stigma 
+bestowed upon the defendant when he stated: “ . . . and if 
+there is difficulty . . . with the type of crime and his safety 
+in prison, that’s something he'll have to wrestle with.” 
+(Pet. App. 161a.) 
+
+
+In contemporary American society, few epithets 
+betray more condemnation than that of “racist”. A judg- 
+ment that a defendant is a racist, particularly when the 
+legislature has decided that such a judgment entails a 
+substantially longer prison sentence, should be rendered 
+
+
+39 
+
+
+by the broadest cross-section of the community our legal 
+system recognizes — the jury. 
+
+
+CONCLUSION 
+
+
+For all these reasons, Petitioner respectfully requests 
+that the decision of the New Jersey Supreme Court be 
+reversed, the New Jersey hate crime law be declared 
+unconstitutional, Petitioner’s twelve-year term of 
+imprisonment on Count 18 be overturned, and this case 
+be remanded to the trial court for a jury trial on the issue 
+of whether there is proof beyond a reasonable doubt that 
+this defendant committed the crime charged “with pur- 
+pose to intimidate” on account of race. 
+
+
+Respectfully submitted, 
+
+
+Josep D. O’Nent, Esa. 
+Counsel of Record 
+
+CuHarces I. Coant, Esa. 
+
+JoserH D. O’Nent, P.A. 
+
+30 West Chestnut Avenue 
+
+P.O. Box 847 
+
+Vineland, New Jersey 08362 
+
+(856) 692-2400 
+
+
+RicHarp G. Sincer, Esa. 
+217 North Fifth Street 
+Camden, New Jersey 08102 
+(856) 225-6181 
+
+
+Counsel for Petitioner 
+
+
+January 13, 2000 
+
+
+APPENDIX 
+
+
+‘piepurys jooid 
+jo uaping ssaippe you seop yng ‘asuajjo 
+ayeredas ev a}yeal1D yOu Sa0p Ayioydxg 
+
+
+‘Lanod AIWVNOSVAa 
+¥Y GNOAda j001d saambas Ajssaidxq 
+
+
+‘uoseal 
+_Burjaduos jeyueysqns,, St 2194 jt AjUO 
+
+
+2a 
+
+
+‘(9661 
+
+‘ddy ‘el4) S8¢ PZ “OS 229 ‘14YH “2 9101S 
+“(e66l “ddy “eld) €78 PZ “OS E79 “74¥IS 
+
+‘a ysofjoom, ‘(#661 “Ady “eld) 68 PZ “OS €F9 
+‘ayv}S a spavyrty “LANOd AIVNOSVAa 
+WV GNOAW4 - Ain{ e 0} yuas aq ysny 
+
+
+‘LANOG AIVNOSVAY V_ GNOAE ~— 
+IW. payefai-seiq eB, JO Ayin3 punoj pue 
+YUM pasieyo,, 2q yURpUajap ye) saiinbay 
+
+
+‘%Sz Aq 
+wuinuixeul saseaiou] 
+
+
+*g1ead 
+
+OI-Z JO aseaiuy 
+WNWIxeW S3]qnog 
+“UINUWIIXPU UTU}IM 
+‘wInuwTxeul 
+
+
+uIyyIM =, ainyiedaq,, 
+
+
+WINUWIXeUW UTUIM 
+
+
+[PAI] 
+auo Aq paseaiouy 
+
+
+‘%Q¢ Aq 
+unwixeul saseoloul 
+
+
+CLOT c6l 
+‘yRIS “Ady epeAIN 
+
+
+7727-S-SP 
+
+
+‘uuy apo> eurjuopy 
+
+
+LO€-61-66 § “UUY 
+apos iddississiy 
+
+
+(q)g ISIl § ‘UUV 
+4RIS “Ady auTeW 
+
+
+91ZP-1Z § 
+‘uuy }e}G sesuey 
+
+
+ZTE-g-¢ “UUY 
+‘yeyg “duio> stouty]] 
+
+
+S80°SZZ § 
+‘uuy 3283S Ppuoly 
+
+
+€00F-7Z 9PPD 
+
+
+eIquINnjo> jO }1ysIq 
+
+
+‘(8861 ‘I2D) 
+€LOL PZ ‘d LGZ ‘Zapuvusapyy ‘a ajdoag ‘(S661 
+TRD)ZZ PZ dA S68 ‘SmIM 2 ajdoag “pamolle 
+
+St JUaWaoUeYyUa BuIdUayUas AUR 310j9q 
+LANOG AIAVNOSV4aY V GNOAE PUP 
+yuawysipul saambar erusojiye> ‘IaAaMoYy 
+
+‘kyperauasy ‘yurod uo aynjzeys 10 ased ON 
+
+
+la 
+
+
+‘((j) UOTDaSqns) SuldulAUOD pue Iea[D 
+
+
+jooig jO piepurjs 
+
+
+‘J@Aa] UO pastes 
+‘_seiq 10 A10}sIy 
+SUIAJOAUI SAUWITID JO 
+Japuayjo juaystsiad , 
+0} Ajuo sayddy 
+
+
+‘sivaX $-Z pue ¢-] 
+uaaMmjaq jO asealoul 
+ue ‘Auojaj ayeotpaid 
+
+uo 3urpuadag 
+
+
+“WINUWIIXeUl 
+UTYyIM aseaidU] 
+
+
+“WnUWIxeul 
+03 dn aseaiduy 
+
+
+‘~wnutu Alojyepueyy 
+
+
+Peja 
+
+
+SALNLVLS JINIMD ALVH GAONVHNG 
+
+
+eor-ees § PPOD 
+[eued yNdTZI9UUO-) 
+
+
+SL7ZP PPOD 
+jeuag erusostTeD 
+
+
+($1)(D)Z0Z-E1 
+‘yR1S “Ady eUOZLIY 
+
+
+(zz)(2)est'seZt § 
+"yeIS _BYSeLV 
+
+
+€I-S-WEL § 
+apo) ewrege[y 
+
+
+3}NzEIS 
+
+
+“UINUWIXeUl UTYIIM 
+
+
+“WInWIxeuw 
+ay} UIYYM 10}ej 
+Sulduajyuas e saWiodaq 
+seiq [eIoes ay} 
+
+‘sea ¢ uey} a10w 
+Aq peystund st awd 
+SutAjJapun jy “Ss 
+
+uey} a10W OU 0} C-] 
+wiolj 10 ‘Z 0} IeaA 
+
+
+(P)1LZ-9-19 
+apo eursii,A say 
+
+
+cStl 
+
+
+3 [ WlOlJ paseaiouy ‘uUYy "jye}S JUOWIIA 
+‘Auojay aa1Zap-pary], €€0Z-E-9Z PPOD YRIN 
+(S661 ‘P? wOL) 
+71°26 § ‘8 19A pue ZEL § ‘Z “OA ‘a0NDeId 
+sexay ‘jjamyoujg Ajyjag puv jjamyovig 
+SUMIOY] ‘YIIMAODIWFG [avy IIS “[e11} 
+ye pajyonajsul aie satin{ pue ‘uoTeUIOjUl jo 
+JUAU}DIpUT 3Yy} UI adyOU 3Art3 s10yndasoI1d 
+‘aoyoeid sexay uy (8661 “ddy “xal) 799 pz [Aa] 
+‘M'S 086 ‘2101S ‘Q Zauljavp ,,atqeijal pue auo Aq paseaiout 
+JURAIIAI,, 9q JSNUI adUaPIAW ‘seiq [ele ‘siOURaWapsIW Jassa| LP7Z1 § 
+jo ,3uipuy aayewayye, sasmbais 33nje35 0} Ajuo sayddy apo [euag sexay 
+‘Aunt 8€-61-Z1 
+ve 0} LANOd AIAVNOSVAY V GNOAIA ‘aseasoul 1eak-¢ pues] apoyy 
+(LANOG AIVNOSV3AY 
+V GNOAAE $38933ns) (0661 Yadng O1ZZ § SI “‘UUY WIS 
+ed) SZ9L PZ “W PLS “YUuly ‘a WOD aas ‘gaiZap auo sasiey “suo> eruealAsuuag 
+TL L767 
+‘J@AI] BUO SasIey “UUY aPO>D ‘Ady OTYO 
+‘Sulduajuas je ‘WINUIxeul 9I[-OPEI-WST § 3235 
+sapidap apni ‘aouaptaa jo aduesapuodaig UIYJIM aseaIIUT “Ud eUT[OIeD YON 
+S ‘Auojay [ Sse[D 0} 
+
+
+JoURaWapsIw [ sse> 
+wojj pastel ‘] sse[> 
+0} 10URaWapstul 
+
+
+€ SSRI 10 Z 
+sse[> & Wolly pasiey 
+
+
+‘yuawuosudu 
+
+ast] 0} 10 “Bul[qnop 
+
+‘Bulduajuas je Aq ‘auajzuas 
+
+sapidap a3pni ‘aouaptaAa jo aduesapuodaig winuiixeul saseaiu] 
+
+
+jooig jo piepuejys pP2jFq 
+
+
+(2)¢-F1 § "3895 
+‘uay euTjoIe>) YON 
+
+
+€-FFO7 “UUY 
+‘ye3g Aasia{f MAN 
+
+
+97NjPIS 
+
+
+6a 
+
+
+(S661) S9EL PZ d 968 ‘869 wh IPD OL 
+“S "WCW a4 uy aas — pastnbar yuayut d1y1D9ads 
+
+
+syuswmUwO’) 
+
+
+‘asuajjo 
+ysity — Auojay F sse{> 
+
+
+UZ-Z11/s¢ “uuy 
+y21g ‘dwioDd stout] 
+
+
+sea S-0 7062-81 § apoD oyep] 
+
+
+Auojaj q sseiD 
+
+
+‘quop st wuey 
+jt Auojay 4yynesse 
+jl 1OURIWAapsIP 
+
+
+ieak auo 0} dq 
+, UCT VW, 
+
+
+‘aotasas Ayrunumu0) 
+pue iva auo 0} dg 
+
+
+yUowYystung 
+
+
+SALNLVLS AWIMO ALVH ONIGNVLS 39u4 
+
+
+5a 
+
+
+qIgt-ees § apod 
+[eueag yNITyaUuUO0) 
+
+
+IZI-6-81 § ‘uuy 
+‘}R1S “Ady Opes0joOy 
+
+
+LIFLL § apod 
+[euag erusIOsITe> 
+
+
+€F6S § epoy 
+jeuag elusOjITe> 
+
+
+97Zb § apod 
+[euag elusOjITe> 
+
+
+9yNzEIS 
+
+
+‘(€66L) 
+9Zb “SN BOS ‘1]24971~ZW ‘a UIsuorsIpN, aag ‘AIni 
+®8 oO} LANOG AIGAVNOSVAY V GNOAAA 
+
+
+joolg jO piepueys 
+
+
+‘sieaA ¢ SI 
+
+aseaioul yuauystund 
+umnuixew yng 
+
+‘[2Aa] BUO paseaiduy 
+
+
+~P255d 
+
+
+‘UUY "}2}S UISUODSIM 
+
+
+93NjzRIS 
+
+
+‘JOURaWapstW ssoIy 
+
+
+‘saeah ¢ jO winuwixeypy 
+
+
+‘payejas Apyetoes aq 0} awd 
+ay} ,SPAaTIAG,, HI Jl SUID BBreYD 0} 3ze}s 
+SMO][Y , UOHeprUyul suyja,, UO asuazjo 
+
+
+sod Zureadai ‘uotstaoid paydeua Ajman Auojaj q sseD 
+
+
+‘piepueys aoueiapuodaid 
+
+
+(8661) siead ¢C-() 
+
+
+L e Sundope Ayioydxa pue uoyse jo 
+ySi [IAD e& Surystqeysa ‘67 VII9 § “UUy 
+WIS “UI JD (9661 “ddy “uuI) FIZ 
+‘M'N 96S “['W’'s fo aavfjan, fo 4ayjvp as ieah | 
+‘LANOG AFWVNOSVAYN 
+V GNOAGA — (8661) 69€ PZ “M'N #85 
+‘tos “ddy “you O¢Z ‘suaaajsg ‘a ajdoag 3as sievah 7 
+O€ZI PZ “AN 669 “98b 3D “ddy ‘ssew cp :Asayeq Ainfur Ajrpog 
+‘ajjausvg ‘2 mo — yUaWaTa [eYUaSsSa BANOP = SIRAA 7/,7-9 “VYJNeSSYy 
+(6661) 7Z PZ “WV Sb9 “709 “PW SEE 
+‘3j01$ ‘a ssahy — yUaWata [eUassa aAQOWP sieak QI 
+co 
+nN 
+
+
+SSI 2072 
+
+‘yRIS “Ady epeaan 
+1Z7Z-S-St § 
+
+‘uuy apo>y euRjUOPy 
+
+
+seo'zss § 
+‘uuy 3831S LNOssIy 
+
+
+(p)L€7Z'609 § 
+‘uuy ‘ye}S eyOSoUUIPy 
+
+
+qZPl0sz § 
+apo [euag uedsiysw 
+
+
+6€ § ‘uUy sme] 
+‘uay S}Jasnyoessep 
+
+
+‘asuajyjo SurAjJapun 
+0} AJ@ANndasuod 
+unl 0} ‘syyuou 9 
+
+
+‘Auojay q sseiD 
+
+0} ,JOuRaWwapstu 
+snolas, wo sa3uel 
+‘parind.0 wuaey 
+13ay}ayM JO ‘uodeam 
+jo asn uodn spuadag 
+
+
+‘lOURIWIapsIU YW 
+sse[> UOQeUTWILDsIp 
+
+
+Sutsnoy 
+
+(9661) S68 PZ “A “N 
+
+‘bZ9 ‘SZ8 pe ‘ddy ‘III ¢gz ‘siavq a ajdoag 
+39S “LANOG AIAVNOSV4AY V GNOAAA ‘aseaioul iead-¢ 
+syusuIuO yuawmysiIung 
+
+
+VOLE § pueyArep 
+jO apoDd ‘uuy 
+
+
+7 LOL 
+‘y2}S “Ady euPRIsINOy 
+
+
+27°80Z § 
+‘uuYy apoy eMO] 
+
+
+I-0I-S'°6-7Z § (suing) 
+‘uuy }e}¢ eUuRIpU] 
+
+
+8€-61-Z1 
+purjs] apoyy 
+330383 
+
+
+10a 
+
+
+9a 
+
+
+iouRawapsipy 
+‘savak gt — Auojag 
+
+
+‘Auojay > sseiD 
+
+
+‘payout 
+wuey uo spuadag 
+
+
+‘aquop wary jo 
+junowe uo spuadap 
+auld JO sse{> 
+
+
+(2661) 7 PZ “SAN 
+
+
+999 ‘879 PZ “A'W LEZ ‘I2z041g ‘a ajdoag 
+99S “LANOG AIAVNOSV4AY V GNOAWA 
+
+
+s}uamwO0> 
+
+
+ZOL-6-9 
+"yeyS BurwoAM 
+
+
+(2)(Q)LZ-9-19 
+apo> eIUIZIIA 389M 
+
+
+080°9€'V6 IPOD 
+‘Ady UOPBSUTYSeEM 
+£S-7'81 § 
+
+apod erur3s1, 
+
+
+1-a61-7z § 
+apod ejyoyeg YINOS 
+
+
+‘Auojay > sseq> 
+
+
+‘JOURaWapstw 
+Vv sse[> 
+Auojaj :asuayjo 
+
+
+PuoddsIsg 10OURaWapsIWw 
+
+
+:ISUIJJO SII 
+
+
+‘1OURaWapsiIu 
+ad sse[) 
+
+
+‘1OURaWapstTw 
+V sse[D 
+
+
+‘WILD sa1Zap-yyNog 
+
+
+‘IW aaiZap-yyNno 
+
+
+yuawmysiung 
+
+
+S9L99T 
+‘yRIS “Ady UOZII0O 
+
+
+SSI99L 
+‘yRIS “Ady UOZIIO 
+
+
+oss § IZ 
+
+
+‘uu }eIS EWOYRTAO 
+
+
+b0-FI-L' ZL § apod 
+‘Why By0O¥eG YON 
+
+
+o¢ 0bz § 
+
+
+Me] [eUag YOR MAN 
+
+
+PP-ee-DZ “UUYy 
+‘yeISg Aasia{ May 
+
+
+9L-ZLDZ “Uuy 
+‘yg Aasia{ Man 
+
+
+290383 
+
+

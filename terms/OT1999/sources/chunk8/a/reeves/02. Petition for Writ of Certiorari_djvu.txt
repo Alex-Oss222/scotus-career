@@ -1,0 +1,1174 @@
+mes “ 2s 
+( :) ts 
+
+
+9OS36 SEP 15 is 
+
+
+No. OFEICE OF THE CLERA 
+
+
+In The 
+UNITED STATES SUPREME COURT 
+
+
+OCTOBER TERM, 1998 
+
+
+Roger Reeves, Petitioner, 
+VS. 
+
+
+Sanderson Plumbing Products, Inc., Respondent. 
+
+
+On Petition for Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fifth Circuit 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+Jim Waide 
+MS Bar No.: 6857 
+
+
+Waide, Chandler & Fleitas, P.A. 
+
+
+Attorneys at Law 
+
+Post Office Box 1357 
+Tupelo, MS 38802 
+(662) 842-7324 
+Counsel for Petitioner 
+
+
+Aye 
+
+
+— — 
+
+
+—-, 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+1. Under the Age Discrimination in Employment Act, is 
+direct evidence of discriminatory intent required to avoid 
+judgment as a matter of law for the employer? 
+
+
+2. In determining whether to grant judgment as a matter of 
+law under Fed. R. Civ. P. 50, should a District Judge weigh 
+all of the evidence or consider only the evidence favoring the 
+non-movant? 
+
+
+3. Whether the standard for granting judgment as a matter 
+of law under Fed. R. Civ. P. 56 is the same as the standard 
+for granting judgment as a matter of law under Fed. R. Civ. 
+P. 50? 
+
+
+LIST OF PARTIES 
+
+
+The following is a list of all parties to the proceedings in 
+
+
+the Court below, as required by Rule 24.1(b) and Rule 29.1 
+
+
+of the Rules of the Supreme Court of the United States. 
+
+
+l. 
+2. 
+
+
+Roger Reeves, Plaintiff/Appellee; 
+
+
+Sanderson Plumbing Products, Inc., 
+Defendant/Appellant: 
+
+
+Jim Waide, Attorney for the 
+Plaintiff/Appellee; and 
+
+
+Taylor B. Smith, Attorney for the 
+Defendant/Appellant. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED .. 2... cece cccccccccees I 
+BU I EEE wc cccccccccccccesecceccecccess il 
+pF Ls hos) Fee tl 
+TABLE OF AUTHIORITIES .. 0. ccc cree cc ccccccees Vi 
+SPITE sccccccccccccccceccccceceecess l 
+cb sbceccccccccccascecccccccccces 1 
+STATUTORY PROVISION INVOLVED .............. 2 
+STATEMENT OF THE CASE . 1. cece cece cccecees 2 
+REASONS FOR GRANTING THE PETITION. ........ 4 
+
+
+Il. 
+
+
+CONCLUSION 
+
+
+This court should grant Certiorari since 
+there is a split in the circuits with respect to 
+whether proof of preferential treatment for a 
+member of the preferred class, for 
+pretextual reasons, is sufficient to present an 
+employment discrimination to the jury .. . . 
+
+
+Certiorari should be granted since the fifth 
+circuit's weighing of all the evidence is 
+inconsistent with the approach of other 
+circuits which consider only the evidence 
+favoring the non-movant, and since this 
+approach fails to take into account this 
+court's teaching that the standards for 
+judgment as a matter of law under Rule 50 
+and granting summary judgment under Rule 
+
+
+ne nec cceces 0¢ 
+
+
+DT SrehseGesccceccccccoccoccccccecs 
+
+
+se eeeneeeeeeteeeeee#ene#feeketkg+5ee#ee#eee#ee#ee#ee#eerfee# # ete 
+
+
+"v 
+
+
+TABLE OF AUTHORITIES 
+
+Cases: Page 
+Advantor Capital Corp. v. Yeary, 
+
+136 F.3d 1259 (10th Cir. 1998) .............. 10 
+Anderson v. Baxter Health Care Corp., 
+
+Sees CEP Ges GOED cocceccceusenccss 5 
+Anderson v. Liberty Lobby, Inc. 
+
+ee IN os ciccnnusanccnantsaens 9, 10 
+Barbour v. Merrill, 
+
+46 F.36 1270 (D.C. Cie. 1995S) 2... ccc ccccccess 6 
+Boeing v. Work n, 
+
+411 F.2d 365 (Sth Cir. 1969) (en banc)........ 7,8 
+Casko v. Elgin, Joliet and rey Co., 
+
+361 F.2d 748 (7th Cir. 1966). ............... 9 
+Combs v. Plantation Patterns, 
+
+106 F.3d 1519 (11th Cir. 1997)... . 2.2... 6... 6 
+Cc oman v. Bi Inc. 
+
+pe le 2S ee 6 
+
+CPC International, Inc. v. Northbrook Excess & Surplus 
+
+Ins. Co., 46 F.3d 1211 (ist Cir. 1995)... ....... 8 
+Dace v. ACF Indus., Inc., 
+
+722 F.2d 374 (8th Cir. 1993)............0005, 8 
+Deimer v. Cincinnati Sub-zero 
+
+SB F.3d 341 (7th Cir. 1995)... ec ccc eee 10 
+Gallo v. Prudential Residential Services, 
+
+Be Cee CR ES HED 0 6 coc cccccececceee 5 
+Fuentes v. Perski, 
+
+es Gees SR GED SUED cs cccdcesanceceswus 5 
+
+
+Vv 
+
+
+Inventive Music Lid. v. Cohen, 
+
+
+gg fb LG ry 8 
+Kingston v. McGrath, 
+
+232 F.2d 495 (Sth Cir. 1956)... 6... ee eee eee 9 
+Layne v. Vinzant, 
+
+Se PGE DUD s owe cwccebeesceats 8 
+Lyons v. J.C. Penney Co., 
+
+ee 8 
+McDonnell-Douglas Corp. v. Green, 
+
+Se Se ata endnedé céencnesesees 6,7 
+Panter v. Marshall Field & Co., 
+
+ee ee ee GU GE Dc cccccccccecccces s 
+Schoonej v. Curtis Wright Corp., 
+
+1434.34 120 (td Ce 1998)... eee eee eee 10 
+Sheridan v. El. t de Nemours & Co., 
+
+100 F.3d 1061 (Sed Cis. 1996)... 00. cece ceees 5 
+Simpson v. Skelly Oil Co., 
+
+371 F.2d 563 (8th Cir 1967) ................ 8,9 
+St. Mary's Honor Ctr. v. Hicks, 
+
+Eh i. cnd6 obnanetetanseet 4,6 
+
+Texas . of Community Affairs v. Burdine, 
+
+450 S. 248 nt ee saueiasheewsueeeedhs: 6 
+Theard v. Glaxo, Inc. 
+
+I, BD. nn ds deeb eedwunses 5 
+Venture Tech., Inc. v. Nat'l Fuel Gas Distribution 
+
+CE, GEO UE. BRE CUOUED oc ccccccccccvcces 8 
+Walton v. Bisco Indust., Inc., 
+
+119 F.3d 368 (Sth Cir. 1997)... 2... ee eee eee 4 
+
+
+ey v. Garrett, 
+O F.3d 1421 (Sth Cir. 1994).............200-. 6 
+
+
+vi 
+
+
+Page 
+
+Woods v. Friction Materials, Inc. 
+
+FO Gee EP Ge BO ccc cccccccccccescecs 5 
+
+STATUTES AND RULES 
+
+SP es OS Gob be vvevecddbccévcccecbevesese l 
+SP ee Pc ccccncncccccéssacpetoagunenet 2 
+SP es Is Swe ncenecdencssedesnsenuis 4 
+Age Discrimination in Employment Act ........... i, 2,3 
+PU Gb Gk Ges vc cnccuanedevasehnsss i, iii, 2, 4, 7, 10 
+PUR, GE ae cc cccddevessssisocdwees i, ii, 7, 9, 10 
+Title VII of the Civil Rights Act of 1964... ............. 4 
+MISCELLANEOUS 
+Catherine J. Lanctot, Pretext-Plus After Hicks: 
+
+The Circuit Split Remains, Witey Employment Law 
+
+SE Ge PO oc ccccdbabd cedteeoedaceses 6 
+
+
+Catherine J. Lanctot, The Defendant Lies and the 
+Plaintiff Loses: The Fallacy of the Pretext-Plus Rule 
+
+
+in Employment Discrimination Cases, 43 Hastings 
+Ris cudcdicbadénccusdnuvancasecnds 6 
+
+
+a io. Rhodes v. Guiberson Oil Tools: The Fifth 
+i 
+
+
+rcuit’s Approach to Pretext Evidence in 
+Employment Discrimination, 57 LA. L. REV. 
+
+
+In The 
+UNITED STATES SUPREME COURT 
+October Term, 1998 
+
+
+Roger Reeves, Petitioner, 
+
+
+vs. 
+
+
+Sanderson Plumbing Products, Inc., Respondent. 
+
+
+Petition for Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fifth Circuit 
+
+
+OPINIONS BELOW 
+
+
+The Opinion of the United States Court of Appeals for the 
+Fifth Circuit is unreported. It is attached as an appendix. 
+
+
+JURISDICTION 
+
+
+This Court has jurisdiction to review the decision of the 
+United States Court of appeals for the Fifth Circuit entered 
+on April 22, 1999, Petition for Rehearing En Banc denied 
+June 18, 1999, by a Writ of Certiorari under 28 U.S.C. § 
+1254 (1). 
+
+
+STATUTORY PROVISION INVOLVED 
+
+
+The statute construed is the Age Discrimination in 
+Employment Act, 29 U.S.C.S. § 623 (a) which says: “It shall 
+be unlawful for an employer -- (1) ... to discharge any 
+individual or otherwise discriminate against any individual ... 
+because of such individual's age .. . ” 
+
+
+STATEMENT 
+
+
+A jury in the United States District Court for the 
+Northern District of Mississippi found that Petitioner, Roger 
+Reeves, was fired because of his age. The United States 
+Court of Appeals for the Fifth Circuit reversed, holding that 
+Respondent was entitled to judgment as a matter of law 
+under Fed. R. Civ. P. 50 because Petitioner failed to produce 
+evidence sufficient to satisfy its “pretext plus” standard for 
+submitting an age discrimination case to the jury. 
+
+
+(FACTS) 
+
+
+Petitioner, Roger Reeves, worked for Respondent, 
+Sanderson Plumbing Products, Inc., for forty (40) years 
+before he was fired at age fifty-seven (57). (R. at 1-4) Two 
+(2) months before Reeves was fired, Powe Chestnut, 
+Director of Manufacturing, and the “absolute power” at the 
+company (R. at 80-86), told Reeves he was “too damn old to 
+do the job.” (R. at 26, 59) By the time of trial, Respondent 
+had utilized three (3) different replacements for Reeves. All 
+were in their thirties. (R. at 101-102, 224) 
+
+Respondent claimed Reeves was fired because an 
+investigation revealed overpayment of hourly employees, 
+and that Reeves failed to reprimand employees who were 
+absent or tardy. (R. at 113, 115, 119) 
+
+
+3 
+
+
+In rebuttal, Reeves produced evidence that his 
+subordinates were on time and that, in any event, his superior 
+productivity records show that the company was not 
+suffering any losses because of alleged absences or tardies of 
+workers. (R. at 18-19, 73, 241-245, 246-249) Furthermore, 
+failing to reprimand employees who were absent or tardy 
+could not have been the reason for his discharge, since he 
+was not the person responsible for giving reprimands. (R. at 
+20-21) 
+
+The United States Court of Appeals for the Fifth Circuit 
+agreed Plaintiff produced sufficient evidence that the reasons 
+given for Reeves’ firing and replacement by younger persons 
+were pretextual. (Op. at 9). However, the Fifth Circuit 
+concluded that: “Even so, whether Sanderson was forthright 
+in its explanation for firing Reeves is not dispositive of a 
+finding of liability under ADEA. We must, as an essential 
+final step, determine whether Reeves presented sufficient 
+evidence that his age motivated Sanderson's employment 
+decision.” (Op. at 9). 
+
+Applying this “pretext plus” test, the Fifth Circuit found 
+the evidence insufficient because the age-based statements 
+were made by only one of three (3) decision makers, and 
+because Reeves did not otherwise prove “a violation of the 
+Age Discrimination in Employment Act (“ADEA”) by a 
+preponderance of the evidence.” (Op. at 1) In finding there 
+was not substantial evidence of age discrimination, the Fifth 
+Circuit relied upon the Respondent’s (movant’s) evidence, 
+that two (2) of the decision makers were themselves over age 
+fifty (SO) and that Respondent had also accused other 
+workers of inaccurate record keeping, including a thirty-five 
+(35) year old. Appellee’s brief, p. 5. 
+
+In requiring direct evidence of age discrimination, and in 
+relying upon evidence produced by the movant in deciding a 
+
+
+4 
+
+
+Rule 50 motion, the United States Court of Appeals for the 
+Fifth Circuit differs from other circuits. 
+
+
+I. THIS COURT SHOULD GRANT 
+CERTIORARI SINCE THERE IS A SPLIT IN 
+THE CIRCUITS WITH RESPECT TO 
+WHETHER PROOF OF PREFERENTIAL 
+TREATMENT FOR A MEMBER OF THE 
+PREFERRED CLASS, FOR PRETEXTUAL 
+REASONS, IS SUFFICIENT TO PRESENT 
+AN EMPLOYMENT DISCRIMINATION 
+CASE TO THE JURY. 
+
+
+Regarding the evidence necessary to create a factual issue 
+under Title VII of the Civil Rights Act of 1964, this Court 
+has stated: “... [R]Jejection of defendant’s proffered reasons 
+will permit the trier of fact to infer the ultimate fact of 
+intentional discrimination, and the Court of Appeals was 
+correct when it noted that, upon such rejection, ‘[n]o 
+additional proof of discrimination is required.’” St. Mary’s 
+Honor Ctr. v. Hicks, 509 U.S. 502, 511 (Emphasis added). 
+
+Some circuits hold the above language from Hicks means 
+that proof of a prima facie case coupled with proof of pretext 
+is always sufficient to present a jury question. Other circuits 
+disagree, and require direct evidence of discriminatory 
+intent. 
+
+The Fifth Circuit is one of the circuits using the “pretext 
+plus” (direct evidence) test for determining the sufficiency of 
+the evidence to present an employment discrimination case 
+to the jury.' Walton v. Bisco Indust., Inc., 119 F.3d 368, 370 
+(Sth Cir. 1997) (stating a reason cannot be proved to be a 
+
+
+‘While Hicks was decided under Title VII of the Civil Rights Act of 1964, 42 
+U.S.C. § 2000 et seq., all circuits agree Hicks governs age discrimination cases. 
+
+
+5 
+
+
+pretext for discrimination unless it is shown both that the 
+reason was false and that discrimination was the real reason). 
+
+Several circuits agree with the Fifth Circuit that there 
+must be additional evidence, other than evidence of a prima 
+facie case, and pretext evidence, in order to create a jury 
+question. See Woods v. Friction Materials, Inc., 30 F.3d 255, 
+260 (ist Cir. 1994) (stating the Supreme Court in Hicks did 
+not mean prima facie case plus proof of pretext was always 
+sufficient to present a jury question); Theard v. Glaxo, Inc., 
+47 F.3d 676, 680 (4th Cir. 1995) (stating to avoid summary 
+judgment, plaintiff had to prove not only that the reason the 
+employer presented was false, but that discrimination was 
+the real reason). 
+
+Other circuits have held that the elements of a prima facie 
+case, plus evidence of pretext, are sufficient to create a jury 
+issue. See Gallo v. Prudential Residential Services, 22 F.3d 
+1219, 1224-25 (2d Cir. 1994) (stating intentional age 
+discrimination may be demonstrated by reliance on the 
+evidence that established the prima facie case and proof of 
+pretext without necessity for any additional evidence); 
+Sheridan v. EJ. Dupoint de Nemours & Co., 100 F.3d 1061, 
+1069 (3rd Cir. 1996) (stating evidence which supports a 
+prima facie case, coupled with the jury’s determination that 
+employer’s proffered explanations were pretextual is 
+sufficient to support a verdict of discrimination); Fuentes \v. 
+Perski, 32 F.3d 759, 761 (3d Cir. 1994) (stating to survive a 
+motion for summary judgment, the plaintiff must introduce 
+evidence which will cast doubt upon the reasons offered by 
+the defendant so that the jury may infer that discrimination 
+was the motivating factor); Anderson v. Baxter Health Care 
+Corp., 13 F.3d 1120, 1122-23 (7th Cir. 1994) (stating fact- 
+finder may find in the plaintiff’s favor when a prima facie 
+case of discrimination is established and plaintiff shows the 
+falsity of the employer’s proffered reasons); Courtney v. 
+
+
+6 
+
+
+Biosound, Inc., 42 F.3d 414. 418 (7th Cir. 1994) (stating 
+plaintiff will defeat a motion for summary judgment by 
+producing evidence from which a jury could infer that the 
+company’s proffered reasons were pretextual); Washington v. 
+Garrett, 10 F.3d 1421, 1433 (9th Cir. 1994) (stating once 
+plaintiff establishes prima facie case, and raises genuine 
+question as to whether the employer’s explanation is true, 
+there will always be a question for the fact-finder); Combs v. 
+Plantation Patterns, 106 F.3d 1519, 1529 (11th Cir. 1997) 
+(stating plaintiff in a discrimination case can avoid judgment 
+as a matter of law by proving the prima facie case and 
+showing that the defendant's reasons are a pretext); and 
+Barbour v. Merrill, 48 F.3d 1270, 1277 (D.C. Cir. 1995) 
+(stating plaintiff only needs to establish a prima facie case 
+and introduce evidence to discredit the defendant's proffered 
+reasons in order to create a jury issue). 
+
+This split in the circuits has been discussed by legal 
+commentators. See Catherine J. Lanctot, Pretext-Plus After 
+Hicks: The Circuit Split Remains, Wiley Employment Law 
+Update 161 (1996); C. Pledger, Rhodes v. Guiberson Oil 
+Tools: The Fifth Circuit’s Approach to Pretext Evidence in 
+Employment Discrimination, 57 LA. L. REV. 1393; 
+Catherine J. Lanctot, The Defendant Lies and the Plaintiff 
+Loses: The Fallacy of the Pretext-Plus Rule in Employment 
+Discrimination Cases, 43 Hastings L.J. 57 (1991). 
+
+Besides the split in the circuits, this Court should also 
+review this case since the approach of the Fifth Circuit is 
+inconsistent with the indirect evidence method of proof 
+mandated by this Court in McDonnell-Douglas Corp. v. 
+Green, 411 U.S. 792, 804-05 (1973), and followed in Texas 
+Dept. of Community Affairs v. Burdine, 450 U.S. 248, 256 
+(1981), and Hicks, 509 U.S. at 502 (1993). The theory 
+underlying McDonnell-Douglas and its progeny is that an 
+employer in an employment discrimination case will not 
+
+
+7 
+
+
+ordinarily admit employment discrimination. Because of the 
+unavailability of direct evidence, this Court adopted the 
+indirect burden-shifting method of proof. Requiring direct 
+evidence (i.e., “pretext plus”) cannot be reconciled with 
+McDonnell-Douglas and its progeny, which hold direct 
+evidence is not required. 
+
+
+II. CERTIORARI SHOULD BE GRANTED SINCE 
+THE FIFTH CIRCUIT’S WEIGHING OF ALL 
+THE EVIDENCE IS INCONSISTENT WITH 
+THE APPROACH OF OTHER CIRCUITS 
+WHICH CONSIDER ONLY THE EVIDENCE 
+FAVORING THE NON-MOVANT, AND 
+SINCE THIS APPROACH FAILS TO TAKE 
+INTO ACCOUNT THIS COURT’S TEACHING 
+THAT THE STANDARDS FOR JUDGMENT 
+AS A MATTER OF LAW UNDER RULE 50 
+AND GRANTING SUMMARY JUDGMENT 
+UNDER RULE 56 ARE THE SAME. 
+
+
+In reversing the jury verdict, the Fifth Circuit applied the 
+standard it adopted in its leading case, Boeing v. Shipman, 
+411 F.2d 365, 374-75 (Sth Cir. 1969) (en banc): 
+
+
+On motions for directed verdict and for judgment 
+
+notwithstanding the verdict the court should 
+consider all of the evidence - not just that 
+evidence which supports the non-mover’s case 
+... If the facts and inferences point so strongly 
+and overwhelmingly in favor of one party that 
+the court believes that reasonable men could not 
+arrive at a contrary verdict, granting of the 
+motions is proper ... there must be a conflict in 
+substantial evidence to create a jury question ... 
+
+
+The Fifth Circuit’s weighing of all the evidence, rather 
+than determining only whether non-movant’s evidence 
+
+
+8 
+
+
+supports the verdict, is contrary to the rule in other circuits. 
+Dissenting from this Court’s denial of certiorari, Justice 
+White described the conflict in the circuits as follows: 
+
+
+[I]t is the Second Circuit’s practice to examine 
+all of the evidence in a manner most favorable 
+to the non-moving party. This is also the 
+position of at least the Fifth and Seventh 
+Circuits. Boeing Co. v. Shipman, 411 F.2d 365, 
+374-75 (CA 5 1969); Panter v. Marshall Field 
+& Co., 646 F.2d 271, 281-282 (CA 7 1981). 
+In the Eighth Circuit, however, it appears that 
+only evidence which supports the verdict 
+winner is to be considered. Simpson v. Skelly 
+Oil Co., 371 F. 2d 563 (CA 8 1967). The First 
+and Third Circuits follow a middle ground: the 
+reviewing court may consider uncontradicted, 
+unimpeached evidence from disinterested 
+witnesses. Layne v. Vinzant, 657 F.2d 468, 
+472 (CA 1 1981); Inventive Music Ltd. v. 
+Cohen, 617 F.2d 29, 33 (CA 3 1980). Thus, 
+the federal courts of appeals follow three 
+different approaches to determining whether 
+evidence is sufficient to create a jury issue. 
+
+
+Venture Technology, Inc. v. Nat'l Fuel Gas Distribution 
+Corp., 459 U.S. 1007, 1009 (1982). See also Dace v. ACF 
+Indus., Inc., 722 F.2d 374, 376 (8th Cir. 1993) (stating 
+“Generally, only evidence favoring the non-moving party 
+should be considered”). 
+
+The Court of Appeals’ decisions which have rejected the 
+Fifth Circuit’s consideration of all of the evidence and 
+consider only the evidence which supports the non-movant 
+are: CPC International, Inc. v. Northbrook Excess & Surplus 
+Ins. Co., 46 F.3d 1211, 1214 (1st Cir. 1995); Casko v. Elgin, 
+
+
+EE 
+
+
+9 
+
+
+Joliet and Eastern Ry. Co., 361 F.2d 748, 749 (7th Cir. 
+1966); Lyons v. J.C. Penney Co., 316 F.2d 753-54 (7th Cir. 
+1963); Simpson v. Skelly Oil Co., 371 F.2d 563, 566-67 (8th 
+Cir. 1967); Kingston v. McGrath, 232 F.2d 495, 497 (9th Cir. 
+1956). See also Judge Rivers’ dissent in Shipman, 411 F.2d 
+at 381-82 (Sth Cir. 1961) (Rivers, J., dissenting) 
+(consideration of all the evidence is inconsistent with this 
+Court’s precedents). 
+
+The Fifth Circuit’s continued adherence to the Shipman 
+standard is also inconsistent with Anderson v. Liberty Lobby, 
+Inc., 477 U.S. 242, 251-253 (1986). Anderson holds that the 
+standards for a directed verdict are the same as those for 
+summary judgment under Rule 56: 
+
+
+The Court has said that summary judgment 
+should be granted where the evidence is such 
+that it “would require a directed verdict for 
+the moving party.” ... and we have noted that 
+the “genuine issue” summary judgment 
+standard is “very close” to the reasonable 
+jury” directed verdict standard: “The primary 
+difference between the two (2) motions is 
+procedural; summary judgment motions are 
+usually made before trial and decided on 
+documentary evidence, while directed verdict 
+motions are made at trial and decided on the 
+evidence that has been admitted.” ... In 
+essence, though, the inquiry under each is the 
+same: whether the evidence presents a 
+sufficient disagreement to require submission 
+to a jury or whether it is so one-sided that one 
+party must prevail as a matter of law. [internal 
+citations omitted] 
+
+
+10 
+Anderson v. Liberty Lobby, 477 U.S. at 251-252. 
+
+
+Contrary to the Fifth Circuit, some courts hold that the 
+Rule 56 standard also applies under Rule 50. Advantor 
+Capital Corp. v. Yeary, 136 F.3d 1259, 1263 (10th Cir. 1998) 
+(stating standard for judgment as a matter of law is 
+essentially identical to “genuine issue” requirement in 
+summary judgment context); Deimer v. Cincinnati Sub-Zero 
+Prodos, 58 F.3d 341, 343 (7th Cir. 1995) (stating we now 
+adopt the federal reasonable person’s standard across the 
+board: pre-trial, mid-trial, post-trial, and on appeal, for 
+evaluating both the merits and the quantum of relief. 
+Contrary decisions are no longer authoritative); 
+Schoonejongen v. Curtis Wright Corp., 143 F.3d 120, 129 
+(3rd Cir. 1998) (stating standard for summary judgment is 
+the same standard as standard for motion for judgment as a 
+matter of law). 
+
+If the Fifth Circuit had applied the Anderson teaching that 
+the Rule 56 standard also governs Rule 50 -- then the Court 
+of Appeals would not have reversed the jury verdict. 
+Statements of age bias by a decision maker would obviously 
+have created “issues of material fact” as to whether age was 
+the reason for the decision. 
+
+
+CONCLUSION 
+
+
+This case presents important questions of the role of the 
+jury in employment discrimination cases. The courts of 
+appeals have taken different approaches on this issue; 
+therefore, review by this Court is warranted. 
+
+
+Respectfully submitted, 
+
+
+JIM WAIDE 
+MS BAR NO.: 6857 
+
+
+WAIDE, CHANDLER & FLEITAS, P.A. 
+ATTORNEYS AT LAW 
+
+POST OFFICE BOX 1357 
+
+TUPELO, MISSISSIPPI 38802 
+
+(662) 842-7324 
+
+
+Attorneys for Petitioner 
+
+
+IN THE 
+UNITED STATES SUPREME COURT 
+OCTOBER TERM, 1998 
+
+
+Roger Reeves, Petitioner, 
+Vs. 
+
+
+Sanderson Plumbing Products, Inc., Respondent. 
+
+
+APPENDIX “A” 
+
+
+JIM WAIDE 
+MS BAR NO.: 6857 
+
+
+WAIDE, CHANDLER & FLEITAS, P.A. 
+ATTORNEYS AT LAW 
+
+POST OFFICE BOX 1357 
+
+TUPELO, MS 38802 
+
+(662) 842-7324 
+
+
+Counsel for Petitioner 
+
+
+Appendix A 
+
+
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE FIFTH CIRCUIT 
+
+
+No. 98-60334 
+
+
+ROGER REEVES, 
+Plaintiff-Appellee, 
+versus 
+SANDERSON PLUMBING PRODUCTS, INC., 
+Defendant-Appellant. 
+
+
+al from the United States District Court 
+or the Northern District of Mississippi 
+(96-CV-197) 
+
+
+Before HIGGINBOTHAM, JONES and WIENER, Circuit 
+
+
+Judges. 
+Per Curiam:* 
+
+
+In this age discrimination case, Defendant-Appellant 
+Sanderson Plumbing Products, Inc. (“Sanderson”) appeals 
+the district court’s order denying Sanderson's post-verdict 
+motion for judgments as a matter of law (“JML”), and 
+granting Plaintiff-Appellee Roger Reeves’s motion for front 
+pay. After reviewing the record, we conclude that Reeves 
+did not prove a violation of the Age Discrimination in 
+
+
+*Pursuant to Sth Cir. R. 47.5, the Court has determined that this opinion 
+should not be published and is not precedent except under the limited 
+circumstances set forth in Sth Cir. R. 47.5.4. 
+
+
+aniiee 
+Employment Act (“ADEA”) by a preponderance of the 
+evidence. Hence, we reverse the district court's order and 
+render judgment in favor of Sanderson. 
+
+
+I 
+FACTS AND PROCEEDINGS 
+
+
+Fifty-seven year old Reeves was employed for 40 years 
+by Sanderson - a company involved in the manufacture of 
+toilet seats and covers. At the time of his discharge, Reeves 
+worked in a department of the company known as the Hinge 
+Room. The Hinge Room ran a regular line which was 
+supervised by Reeves, and a special line which was 
+supervised by 35 year old Joe Oswalt. Forty-five year old 
+Russell Caldwell was the manager of the department and he 
+supervised both Reeves and Oswalt. 
+
+At all times relevant to this case, a union represented 
+Sanderson's production and maintenance employees. The 
+union contract included general work rules, part of which 
+dealt specifically with attendance. Pursuant to these rules, 
+and employee who was absent from work in excess of five 
+percent of his scheduled hours in a month, or who was late 
+twice in a month, was subject to disciplinary action. 
+
+As part of his essential duties as a supervisor, Reeves was 
+required to keep daily, weekly, and monthly records of the 
+attendance and tardiness of employees under his control. 
+These records were reviewed by Reeves for accuracy before 
+he passed them on to Caldwell, who then sent them on to 
+data processing. 
+
+In the fall of 1993, Sanderson’ s Department of Quality 
+Control - under the direction of Powe Chesnut - conducted a 
+review of the operating procedures in the Hinge Room. 
+According to Sanderson, the study revealed productivity 
+problems on Reeves’s regular line, stemming from a lax 
+
+
+3a 
+Appendix A 
+
+assembly line operation. As a result, Reeves was placed on a 
+90-day probation for unsatisfactory work performance. 
+
+Nearly three years later, in the summer of 1995, Caldwell 
+informed Chesnut - who by this time had become 
+Director of Manufacturing - that the Hinge Room was again 
+having difficulty meeting its production requirements due to 
+pervasive absenteeism and tardiness. Because the Hinge 
+Room records did not reflect employee attendance problems, 
+however, Chesnut requested that Lucille Reeves, then- 
+Manager of Quality Control, conduct an audit of the 
+department’s time sheets. This investigation revealed 
+numerous timekeeping errors and misrepresentations on the 
+part of Caldwell, Reeves, and Oswalt. Dana Jester, Vice 
+President of Human Resources, conducted an independent 
+review of the records, and confirmed Quality Control's 
+findings. Armed with these results, Chesnut, Jester, and Vice 
+President of Operations Tom Whitaker, recommended to 
+Company President Sandra Sanderson’ that Caldwell and 
+Reeves be dismissed.’ Ms. Sanderson - who was 52 years 
+old at the time - heeded this advice, firing both Caldwell and 
+Reeves in October 1995. Thereafter, Sanderson filled 
+Reeves’s position, on three successive occasions, with men 
+in their thirties. 
+
+In June 1996, Reeves filed suit, claiming that Sanderson 
+terminated him because of his age, in violation of the ADEA. 
+Reeves based his claim on two age-related statements 
+
+
+'The record is uncontradicted that Ms. Sanderson had married Chesnut 
+in December 1988. 
+
+*Chesnut testified at trial that, had Oswalt not voluntarily terminated his 
+employment several months earlier, Oswalt would have been subject to dismissal 
+along with his co-workers, Reeves and Caldwell. 
+
+
+4a 
+Appendix A 
+allegedly made by Chesnut several months before Reeves’s 
+dismissal, namely (1) that Reeves was so old that 
+he “must have come over on the Mayflower,” and (2) that he 
+was “too damn old to do the job.” 
+
+At the conclusion of the trial, the jury returned a verdict in 
+favor of Reeves, awarding him $35,000 and finding that 
+Sanderson discriminated willfully on the basis of age in its 
+adverse employment action. After the verdict, Sanderson 
+renewed its previous motion for JML, and moved, in the 
+alternative, for a new trial. At the same time, Reeves filed a 
+motion seeking front pay. The district court denied 
+Sanderson's motions, and enteféd judgment in favor of 
+Reeves in the amount $70,000 - adding $35,000 in liquidated 
+damages to the jury’s compensatory damages in that amount 
+based on the jury’s determination of willfulness.’ In 
+addition, the court awarded Reeves $28,490.80 in front pay, 
+representing two years of lost income. Sanderson timely 
+filed a notice of appeal. 
+
+II 
+
+
+ANALYSIS 
+A. Standard of Review 
+
+
+“A motion for judgment as a matter of law .. . in an 
+action tried by jury is a challenge to the legal sufficiency of 
+the evidence supporting the jury’s verdict.” We review the 
+denial of such motions de novo, applying the same standard 
+as the district court... A JML is appropriate if the “facts and 
+inferences point so strongly and overwhelmingly in favor of 
+one party that a reasonable jury could not have concluded” 
+
+
+‘See 29 U.S.C. § 626 (b) (1990) (providing that “liquidated damages 
+shall be payable only in cases of willful violations of this Act.”). 
+
+
+‘Harrington vy. Harris, 118 F.3d 359, 367 (Sth Cir. 1997). 
+‘Nichols v. Lewis Grocer, 138 F.3d 563, 565 (Sth Cir. 1998). 
+
+
+Sa 
+Appendix A 
+as the jury did. Applying this standard to the instant case, 
+the district court’s judgment should be_reversed only if “there 
+is no legally sufficient evidentiary basis for a reasonable 
+jury to find” that Sanderson discharged Reeves because of 
+his age.’ 
+
+
+B. TheADEA 
+
+
+The ADEA makes it “unlawful for an employer... to 
+discharge any individual . . . because of such individual’s 
+age.”* To establish a violation of the ADEA, a plaintiff must 
+prove, by a preponderance of the evidence, intentional 
+discrimination on the part of his employer.’ As direct 
+evidence of discrimination is rare, plaintiffs may rely on 
+indirect evidence and reasonable inferences to establish an 
+ADEA claim under the McDonnell-Douglas burden-shifting 
+analysis." 
+
+Under this analysis, a plaintiff must first present a prima 
+facie case, thereby establishing a rebuttable presumption of 
+age discrimination." If the plaintiff meets this burden, the 
+employer must then rebut the presumption by articulating a 
+
+
+*Armendariz v. Pinkerton Tobacco Co.. 58 F.3d 144, 148 (Sth Cir. 
+1995). 
+
+‘Fed. R. Civ. Proc. 50 (a) (1). 
+
+"29 U.S.C. § 623 (a) (1) (1990). 
+
+"Price v. Marathon Cheese Corp., 119 F.3d 330, 336 (Sth Cir. 1997). 
+
+“Id. 
+
+"Id. There are four elements to a prima facie case of discriminatory 
+discharge under the ADEA, including proof that the plaintiff was (1) discharged. 
+(2) qualified for the position; (3) within the protected class at the time of the 
+discharge; and (4) either i) replaced by someone outside the protected class, ii) 
+replaced by someone in the protected class but vounger than the plaintiff, or iii) 
+otherwise discharged because of his age. Bodenheimer v. PPG Indus., Inc., 5 F.3d 
+955, 957 (Sth Cir. 1993). 
+
+
+6a 
+Appendix A 
+legitimate, nondiscriminatory reason for the challenged 
+employment action.” If the employer presents such 
+evidence, then ti: presumptions of discrimination fades, and 
+the plaintiff must prove that the employer’s articulated 
+reason is a pretext for unlawful discrimination." 
+
+To establish pretext, a plaintiff must prove not only that 
+the employer’s stated reason for its employment decision 
+was false, but also that age discrimination “had a 
+determinative influence on” the employer’s decision-making 
+process." Age-related comments may serve as sufficient 
+evidence of discrimination if the remarks are (1) proximate 
+in time to the termination; (2) made by an individual with 
+authority over the challenged employment decision; and (3) 
+related to that employment decision.’ Mere “stray remarks” 
+- i.e., comments which are “vague and remote in time” - 
+however, are insufficient to establish discrimination." 
+
+
+1. Sufficiency of the Evidence 
+
+
+On appeal, Sanderson does not challenge the sufficiency 
+of the evidence supporting Reeves’s prima facie case of age 
+discrimination.'’ Rather, Sanderson argues that it articulated 
+a legitimate, nondiscriminatory explanation for firing 
+
+
+"Brown v. CSC Logic, Inc., 82 F.3d 651, 654 (Sth Cir. 1996). 
+
+"Price, 119 F.3d at 337. 
+
+“Id. 
+
+“Brown, 82 F.3d at 655. 
+
+"Id.; Price, 119 F.3d at 337. 
+
+"Indeed, when, as here, a case has already been tried on the merits, 
+whether the plaintiff properly made out a prima facie case is no longer relevant. 
+United States Postal Service Bd. of Governors v. Aikens, 460 U.S. 711, 715 
+(1983). Instead, the important inquiry is whether the plaintiff has “produced 
+sufficient evidence for a jury to find that discrimination has occurred.” Walther v. 
+
+
+Lone Star Gas Co., 952 F.2d 119, 123 (Sth Cir. 1992). 
+
+
+Ta 
+Appendix A 
+Reeves: Reeves’s shoddy record keeping. Because Reeves 
+failed to offer evidence sufficient to prove both that this 
+reason is untrue and that age is what really triggered 
+Reeves’s discharge, argues Sanderson, it is entitled to 
+judgment as a matter of law. We agree. 
+
+At trial, Chesnut testified that he became aware of 
+timekeeping problems in the Hinge Room after Caldwell - 
+the department manager - complained of inadequate 
+production resulting from absenteeism. This complaint 
+prompted an investigation which uncovered numerous errors 
+in the department’s attendance records. Because of specific 
+misrepresentations and errors made by Reeves, argues 
+Sanderson, employees under Reeves’s control were being 
+paid for time they did not work, and were not being 
+disciplined for their habitual absenteeism and tardiness. 
+Reeves testified that he was familiar with the company’s 
+attendance policy, as well as his timekeeping responsibilities 
+as a supervisor under that policy. In light of this admission, 
+argues Sanderson, Reeves’s failure to keep accurate records 
+in accordance with the policy amounts to unsatisfactory 
+work performance, which is a legitimate, nondiscriminatory 
+basis for dismissal. 
+
+Reeves attempts to cast suspicion on Sanderson’s 
+proffered explanation by first asserting that Sanderson's 
+explanation changed between the time of Reeves’s discharge 
+and trial. When he was fired, claims Reeves, he was told that 
+he had caused a specific employee to be paid for time she 
+had not actually worked. In contrast, Reeves argues, 
+Sanderson defended its employment decision at trial by 
+claiming that Reeves’s timekeeping mistakes had resulted in 
+the overpayment of numerous employees. Although proof 
+that an employer lied to its employee about its reasons for 
+discharge does, under some circumstances, raise a “red flag” 
+
+
+8a 
+Appendix A 
+
+of pretext,'* the inconsistency noted by Reeves in this case 
+can hardly be considered mendacious. Sanderson has, at all 
+times, supported its decision to fire Reeves with the charge 
+that Reeves’s work performance was unsatisfactory. That 
+Sanderson may have explained this charge at the time of 
+dismissal with only one instance of inaccurate record 
+keeping, but buttressed its defense by adducing evidence of 
+other similar infractions at trial smacks more of competent 
+trial preparation than telling a lie. 
+
+Reeves goes on, however, to challenge the veracity of 
+Sanderson’ allegation that he engaged in inaccurate record 
+keeping at all. At trial, Reeves testified that he was always 
+very careful to ensure that his employees arrived at their 
+work stations on time. In addition, he claimed that any 
+employee who was permitted to clock in early or stay late - 
+and thereby receive additional pay - had extra work 
+assignments to perform. According to Reeves, if any record 
+keeping errors were made, they were the result of Caldwell’s 
+inattentiveness and not his own. Moreover, Reeves points 
+out, at trial Chesnut was unable to testify as to the cost to the 
+company, if any, of Reeves’s alleged record falsifications. 
+Based on this evidence, claims Reeves, a reasonable jury 
+could have found that Sanderson’s explanation for its 
+employment decisions was pretextual. 
+
+On this point, Reeves very well may be correct. Even so, 
+whether Sanderson was forthright in its explanation for firing 
+Reeves is not dispositive of a finding of liability under the 
+ADEA. We must, as an essential final step, determine 
+whether Reeves presented sufficient evidence that his age 
+motivated Sanderson’s employment decision. 
+
+In an attempt to satisfy this burden at trial, Reeves 
+testified that Chesnut - while serving as Director of 
+
+
+“Haun v. Ideal Indus., Inc., 81 F.3d 541,546 (Sth Cir. 1996). 
+
+
+9a 
+Appendix A 
+Manufacturing - made the above-quoted age-related 
+comments just months before Reeves was terminated. As 
+Chesnut was one of three people who recommended his 
+termination to Ms. Sanderson, argues Reeves, Chesnut’s 
+comments should be taken as sound evidence of the 
+company’s underlying discriminatory motives. 
+
+Reeves also expressed the belief that he was treated less 
+favorably than Sanderson’s younger employees. This belief, 
+Reeves now claims, is confirmed by Oswalt’s testimony that 
+Chesnut treated Reeves like a child. As further evidence of 
+Sanderson’s disparate treatment, Reeves points to his 1993 
+probation, and notes that the 30-something Oswalt was not 
+put on probation despite a similarly lagging production level 
+on the Hinge Room’s special line. Likewise, argues Reeves, 
+when Quality Control initiated its investigation of his 
+timekeeping records in 1995, none of the supervisors from 
+other departments were singled out for such scrutiny. 
+
+Considering all of the evidence in a light most favorable 
+to Reeves, we nevertheless conclude that there was 
+insufficient evidence for a jury to find that Sanderson 
+discharged Reeves because of his age. Despite the 
+potentially damning nature of Chesnut’s age-related 
+comments, it is clear that these comments were not made in 
+the direct context of Reeves’s termination. In addition, 
+Chesnut was just one of three individuals who recommended 
+to Ms. Sanderson that Reeves be terminated, and there is no 
+evidence to suggest that any of the other decision makers 
+were motivated by age. In fact, the record shows that at least 
+two of the decision makers were themselves over the age of 
+50 - Ms. Sanderson at 52, and Jester at 56. Furthermore, the 
+fact remains that, as a result of the 1995 investigation, each 
+of the three Hinge Room supervisors was accused of 
+inaccurate record keeping, including not only Reeves and 
+Caldwell, but 35 year old Oswalt as well. Finally, there is 
+
+
+10a 
+Appendix A 
+
+evidence that, at the time Reeves was dismissed, 20 of the 
+company’s management positions were filled by people over 
+the age of 50, including several employees in their late 60’s. 
+
+Based on our plenary review, we find that Reeves did not 
+introduce sufficient evidence of age discrimination to 
+support the jury’s finding of liability under the ADEA. For 
+this reason, we reverse and render judgment in favor of 
+Sanderson. 
+REVERSED AND RENDERED. 
+
+

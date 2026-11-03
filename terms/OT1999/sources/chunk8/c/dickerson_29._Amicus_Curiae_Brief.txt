@@ -1,0 +1,1696 @@
+at, 4p) Supreme Court, US. 
+
+
+FILED « 
+M ms y og ~/ | 
+MAR ~ 9 2000 
+No. 99-5525 «= 
+IN THE = 
+Supreme Court of the Rnited States 
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+Vv. 
+UNITED STATES OF AMERICA, 
+Respondent. 
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF FEDERAL BUREAU OF INVESTIGATION 
+AGENTS ASSOCIATION AS AMICUS CURIAE IN 
+SUPPORT OF THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FOURTH CIRCUIT 
+
+
+Of Counsel ROBERT F. HOYT 
+LYLE ROBERTS Counsel of Record 
+1806 W. Abingdon Dr. KARAN BHATIA 
+Apt. 202 HESTER PEIRCE 
+Alexandria, VA 22314 CHRISTOPHER SIMKINS 
+WILMER, CUTLER & PICKERING 
+2445 M Street, N.W. 
+Washington, DC 20037 
+(202) 663-6000 
+March 9, 2000 Counsel for Amicus Curiae 
+
+
+| 
+| 
+| 
+| 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+TABLE OF AUTHORITIES ..0000.0..0.0. 0c coooocoooocccocccccceeeeee iii 
+NT NL STII SEE RRS Ee ee 2 
+STATEMENT OF THE CASE ....00.0ooo o.oo oc eccccecccccecccceeeee 3 
+SUMMARY OF ARGUMENT 00000... oo occ cecccceeeceeeee ® 
+EEE NES SRR EE Oy oa 7 tat re Phe eS 11 
+I. THE CORE PROCEDURAL SAFEGUARDS 
+UNDER MIRANDA WILL CONTINUE TO BE 
+FOLLOWED UNDER SECTION 3501 .........00000........ 11 
+A. Section 3501 Creates Strong Incentives for 
+Federal Law Enforcement To Continue To 
+Follow Miranda’ s Core Procedural 
+RETESET EI SERRE eee aoe See 12 
+B. The FBI and Other Federal Law Enforcement 
+Agencies Will Continue To Insist that Their 
+Officers Follow Miranda’s Core Procedural 
+BREESE SAME AEE EIU Ole 14 
+
+
+Il. APPLICATION OF SECTION 3501 WOULD 
+EXPLICITLY ENCOURAGE FEDERAL LAW 
+ENFORCEMENT OFFICERS TO FOCUS 
+THEIR EFFORTS ON ENSURING THAT 
+CUSTODIAL INTERROGATIONS ARE 
+VOLUNTARY, AS REQUIRED BY THE FIFTH 
+AMENDMENT 
+
+
+TABLE OF CONTENTS — Continued 
+
+
+Page 
+
+III. SECTION 3501 REMEDIES THE EXCESSES 
+OF MIRANDA’S EXCLUSIONARY RULE ............... 21 
+
+A. Miranda’s Exclusionary Rule Has Resulted in 
+the Suppression of Voluntary Confessions ............ 22 
+
+B. Section 3501 Will Prevent Voluntary 
+Confessions from Being Suppressed ..................... 28 
+OE IN ee TA 30 
+
+
+Pe 
+TABLE OF AUTHORITIES 
+CASES Page 
+
+Arizona v. Roberson, 
+
+ST 15, 25, 26 
+Beckwith v. United States, 
+
+SS 13 
+Edwards v. Arizona, 
+
+corner 15, 25 
+Illinois v. Krull, 
+
+a ccnesenovonee 28 
+Michigan v. Mosley, 
+
+EE SEES 27 
+Michigan v. Tucker, 
+
+i ciseeets 23, 28, 29 
+Miller v. Fenton, 
+
+474 U.S. 104 (1985) ....0..... ce. RN ee 20 
+Minnick v. Mississippi, 
+
+a 15, 25 
+Miranda v. Arizona, 
+
+EE passim 
+New Jersey v. Portash, 
+
+EEE 20 
+New York v. Quarles, 
+
+467 U.S. 649 (1984) ooo cccccccccccecceceseevesveeeve 20, 23 
+Oregon v. Elstad, 
+
+I es 20, 23, 29 
+Reese v. Delo, 
+
+SEONG, BOUIID cccoccccccccccceseccccsesosceees 13 
+Roman v. Florida, 
+
+I, I i cccsccsewensssceevece 13 
+Schneckloth v. Bustamonte, 
+
+
+Nee nn 20 
+
+
+iV 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+United States v. Arrington, 
+
+No. 97CR192, 1997 WL 754051 (N_D. Ill. 
+
+Nov. 21, 1997), aff'd, 159 F.3d 1069 (7th 
+
+Cir. 1998), cert. denied, 119 S. Ct. 1512 
+
+RE _  P EET 28s Wes See ~PTEe 21 
+United States v. Berkovich, 
+
+932 F. Supp. 582 (S.D.N.Y. 1996) .000000 21 
+United States v. Bierey, 
+
+588 F. 2d 620 (8th Cir. 1978) 20000. 29 
+United States v. Brown, 
+
+531 F. Supp. 37 (D. Mont. 1981) .2000. 20 
+United States v. Rodriguez-Cabrera, 
+
+35 F. Supp. 2d 181 (D. Puerto Rico 1999) ............. 24 
+United States v. Dale, 
+
+44 F. Supp. 2d 818 (E.D. Tex. 1999)... 21 
+United States v. Davis, 
+
+$12 U.S. 452 (1994) o.oo ceccccccccceesecseeeveseesee 9, 23, 25 
+United States v. DeSumma, 
+
+44 F. Supp. 2d 700 (E.D. Pa. 1999) 0. 24 
+United States v. Dickerson, 
+
+166 F.3d 667 (4th Cir.), cert. granted in 
+
+part, 120 S. Ct. $78 (1999) oe. passim 
+United States v. Elie, 
+
+111 F.3d 1135 (4th Cir. 1997) ooo. 3, 24 
+
+
+United States v. Green, 
+
+592 A.2d 985 (D.C. 1991), cert. granted, 
+
+504 U.S. 908 (1992), cert. dismissed as 
+
+GE, Fe ee I crcisiintattatititmcininanabageiiis. 26 
+United States v. Wyatt, 
+
+No. 97-40083-01-RDR, 1998 WL 45004 
+
+3 FS EER TRS oe 21 
+Villafuerte v. Stewart, 
+
+111 F.3d 616 (9th Cir. 1997) 0. 13 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Withrow v. Williams, 
+LE TET E IIIT TELE 17, 23 
+CONSTITUTIONAL PROVISIONS 
+TET IAP IE nT 11 
+ee EO srncrncntesirctasineadisnnscntnnnitsagminclie passim 
+8 8 eae eee 11, 23, 29 
+STATUTES 
+EAE GS a RR er anaes 2 3, 8, 30 
+a icici ccssctesanibilibinthdeapinisiansnpintancienedaiiiin 28 
+SE ies I ihe heen sniilincthicnichteanaibhansiniisioadinite 13, 25 
+BOOKS, ARTICLES & TREATISES 
+Wayne R. LaFave & Jerold H. Israel, 
+Criminal Procedure (2d ed. 1992) ............ 13, 25, 28 
+William G. Otis, Op-Ed, Miranda: Morals 
+and Marbles, Wash. Post, Nov. 24, 1999, 
+EES EEE EI SRL Tek ae a 2 
+OTHER AUTHORITIES 
+Legal HandBook for Special Agents (Mar. 7, 
+I Rea PRS BEA SET eR 16, 22 
+Memorandum from Robert C. Gleason, 
+Deputy Chief Counsel for the Drug 
+Enforcement Agency, to Patty Stemler, 
+ten of the Appellate Section, Criminal 
+Division, Department of Justice (1998) 
+(filed with the Court by the Government 
+gf __) FERRERS Enon NeCCEED Ieee 17, 24 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Memorandum from Larry R. Parkinson, 
+General Counsel for the FBI, to Eleanor 
+D. Acheson, Assistant Attorney General 
+(Oct. 19, 1999) (filed with the Court by 
+the Government on February 24, 2000) .......... passim 
+
+
+Voluntary Confessions and the Enforcement 
+of Section 3501, Title 18, U.S. Code: 
+Hearings Before the Subcommittee on 
+Criminal Justice Oversight of the Senate 
+Committee on the Judiciary, 1999 WL 
+16947867 (May 13, 1999) (testimony of 
+Gilbert G. Gallegos, President Grand 
+Lodge, Fraternal Order of Police) 
+
+
+ar Se eg tgs). 
+
+
+IN THE 
+Supreme Court of the Rnited States 
+
+
+No. 99-5525 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+v. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF FEDERAL BUREAU OF INVESTIGATION 
+AGENTS ASSOCIATION AS AMICUS CURIAE IN 
+SUPPORT OF THE UNITED STATES COURT OF 
+
+APPEALS FOR THE FOURTH CIRCUIT 
+
+
+The Federal Bureau of Investigation Agents Association 
+(“FBIAA”) submits this amicus curiae brief in support of the 
+decision of the United States Court of Appeals for the Fourth 
+Circuit and in opposition to both petitioner, Charles Thomas 
+Dickerson, and respondent, United States of America. By 
+letters filed with the Clerk of the Court, petitioner and 
+respondent have consented to the filing of this brief.' 
+
+
+' This brief was prepared in whole by the counsel listed on the cover. 
+No person or entity, other than the amicus curiae, its members, and its 
+counsel, made a monetary contribution to the preparation or submission 
+of this brief. : 
+
+
+INTEREST OF AMICUS 
+
+
+The FBIAA consists of 9800 current and former Federal 
+Bureau of Investigation (“FBI”) agents and includes 
+approximately 75 percent of current FBI agents. Its mission 
+is to ensure that agents employed by the FBI are treated 
+fairly and to assist them in carrying out their law 
+enforcement duties in an effective manner and consistent 
+with the highest standards of professional conduct. The 
+organization was founded in the aftermath of a highly 
+politicized investigation in the late 1970s by the United 
+States Attorney General in which individual FBI agents who 
+had followed directives issued by FBI Headquarters were 
+unjustly targeted for investigation and prosecution. The 
+agents formed the FBIAA to represent their interests in 
+matters in which the Government refused for political or 
+other reasons to-advocate on behalf of the agents. This is 
+one such matter.’ 
+
+
+The FBIAA has two specific interests in being heard in 
+this case. First, the FBIAA believes it is important to clarify 
+the factual record with respect to the manner in which 
+Special Agent Christopher Lawlor (“Agent Lawlor’) handled 
+the investigation of the bank robbery underlying this case. 
+Petitioner has attempted to characterize Agent Lawlor’s 
+behavior as inappropriate, Petitioner’s Brief at 4-6, and the 
+Government has abandoned any efforts to highlight the 
+voluntariness of the statements made by Charles Dickerson. 
+
+
+The FBIAA’s second interest in filing this brief is to 
+
+
+challenge assertions made by the Government and former 
+Attorney General Griffin Bell, ef ai/., in their briefs before the 
+
+
+2 
+
+
+The FBIAA is not alone in feeling betrayed by the Government’s 
+refusal to stand behind section 3501. The chief attorney in the appellate 
+section at the United States Attorney’s Office resigned over this matter. 
+See William G. Otis, Op-Ed, Miranda: Morals and Marbles, Wash. 
+Post, Nov. 24, 1999, at A23. 
+
+
+Court. Both briefs suggest that the law enforcement 
+community uniformly approves of the current Miranda rules 
+and sees no need to apply 18 U.S.C. § 3501 in federal 
+criminal cases. In fact, the FBIAA and its members strongly 
+disagree with this position. FBI agents support the 
+application of section 3501 because the statute, while 
+creating strong incentives to provide Miranda warnings, 
+supports the efforts of law enforcement by emphasizing the 
+constitutional rights the warnings are designed to safeguard, 
+rather than the warnings themselves. 
+
+
+STATEMENT OF THE CASE 
+
+
+The facts of this case offer a perfect example of why 
+section 3501 should be upheld. While in custody, Dickerson 
+made a confession. The District Court found it had been 
+made voluntarily.‘ The court suppressed the confession, 
+however, because it believed the law enforcement agents had 
+failed to give Dickerson timely Miranda warnings. 
+
+
+> The FBIAA is not alone in its support of the Fourth Circuit’s 
+decision upholding section 3501. The International Association of 
+Chiefs of Police, the National Association of Police Organizations, the 
+Fraternal Order of Police, and the National District Attorneys 
+Association, and numerous other state prosecuting associations have 
+likewise filed briefs supporting the Fourth Circuit’s decision. These 
+organizations collectively represent thousands of law enforcement 
+personnel, in contrast to the relatively small number of individuals who 
+have joined the Bell Brief. 
+
+
+* The District Court’s acknowledgment of the voluntariness of 
+Dickerson’s confession was implicit in the District Court’s reliance on 
+United States v. Elie, 111 F.3d 1135 (4th Cir. 1997), to reject his 
+argument that his accomplice’s testimony was tainted by an alleged 
+violation of his constitutional rights. J.A. 158 n.1. See United States v. 
+Dickerson, 166 F.3d 667, 676 (4th Cir) (noting that “[bjecause 
+Dickerson’s statement was voluntary under the Fifth Amendment, the 
+district court concluded that the evidence found as a result thereof was 
+admissible at trial”), cert. granted in part, 120 S. Ct. 578 (1999). 
+
+
+In fact, as the Government itself urged in a petition for 
+reconsideration to the District Court and as the following 
+summary of facts explains, there is strong reason to believe 
+that no departure from Miranda procedures occurred at all. 
+Dickerson himself indicated in a handwritten note that he 
+had timely received his warnings. The Government’s failure 
+to introduce this and other probative evidence in the 
+suppression hearing resulted in a conclusion by the District 
+Court that a technical violation of Miranda had occurred and, 
+accordingly, that it was compelled to suppress Dickerson’s 
+voluntary confession. It is precisely situations such as this 
+that section 3501 is designed to remedy. 
+
+
+In the late afternoon of January 27, 1997, Agent Lawlor 
+and ten other federal and local law enforcement officers 
+arrived in the Maryland neighborhood where Charles 
+Thomas Dickerson lived. J.A. 141. Witnesses had observed 
+a car registered to Dickerson near the scene of the robbery of 
+a bank in Alexandria, Virginia three days earlier. /d. After 
+locating the car and looking around the neighborhood, 
+several of the officers approached Dickerson’s door. /d. 
+The agents knocked and identified themselves. /d. 
+Dickerson, through the closed door, told the agents to wait. 
+J.A. 39. A few minutes later, Dickerson opened the door and 
+the agents entered.’ Jd. The agents told Dickerson he was 
+not under arrest, but asked him to accompany them 
+voluntarily to the FBI field office to discuss the bank 
+robbery. J.A. 101-02 (Affidavit of Thomas O. Durkin § 5). 
+Dickerson agreed and, followed by Agent Lawlor and one or 
+two other agents, went to the bedroom to get his coat. J.A. 
+141. Underneath the coat was over $500, which Dickerson 
+claimed he had won gambling in Atlantic City. Jd The 
+
+
+5 
+
+
+Dickerson subsequently told Agent Lawlor that while the agents 
+waited outside, he hid the gun he had in hand when the agents knocked 
+on the door. J.A. 63-64. In his testimony before the District Court, 
+Dickerson denied having said this. J.A. 64. 
+
+
+agents asked Dickerson whether they could search his 
+apartment. J.A. 142. Dickerson declined. Jd Dickerson 
+nevertheless rode with Special Agents Lawlor and Armin 
+Showalter to the FBI field office. J.A. 102 (Durkin Aff. ¥ 7). 
+Detective Thomas O. Durkin, a twenty-year veteran of the 
+Alexandria Police Department, followed in a separate car. 
+Id. Four FBI agents remained in the vicinity of Dickerson’s 
+apartment. J.A. 108 (Affidavit of Lawrence Kevin Wenko ] 
+6). 
+
+
+Once at the office, Agent Lawlor and Detective Durkin 
+took Dickerson to an interview room, but reminded him that 
+he was free to go and, should he choose to leave, would be 
+given a ride home. J.A. 102 (Durkin Aff. ¥ 8). Dickerson 
+told Agent Lawlor and Detective Durkin that he had been 
+near the bank on the morning of January 24, 1997, but 
+denied involvement in or knowledge of the robbery. J.A. 
+142. 
+
+
+Agent Lawlor, armed with the knowledge that Dickerson 
+had been in the vicinity of the bank at the time of the 
+robbery, called Magistrate Judge James E. Kenkel to get a 
+warrant to search Dickerson’s apartment. J.A. 142. Agent 
+Lawlor explained that a telephonic warrant was necessary 
+because Dickerson was free to leave at any time and Agent 
+Lawlor was worried that, should Dickerson leave, critical 
+evidence would be destroyed. /d. The magistrate judge 
+determined that there was probable cause to search 
+Dickerson’s apartment and issued a warrant for that purpose 
+at 8:50 p.m. J.A. 142-43. Between 9:00 and 9:15 p.m., 
+Agent Lawlor contacted Special Agent Lawrence Kevin 
+Wenko, who had remained in the vicinity of Dickerson’s 
+apartment. J.A. 108 (Wenko Aff. 9 7). The search by 
+Wenko and the other agents proved fruitful: among other 
+items, they found a loaded semi-automatic .45 caliber 
+handgun allegedly used in the robbery, dye-stained money 
+
+
+and a bait bill, which was traced to another bank robbery.® 
+J.A. 144. 
+
+
+After notifying the agents that had remained in 
+Dickerson’s neighborhood of the search warrant, Agent 
+Lawlor returned to the interview room to tell Dickerson that 
+his apartment would be searched. J.A. 143. The District 
+Court found that, upon hearing about the search, Dickerson 
+decided to make a statement. /d. According to the District 
+Court’s findings, a half hour long interview followed. J.A. 
+155. The District Court found that Dickerson did not receive 
+his Miranda warnings until the interview was over. Jd. 
+
+
+The evidence introduced by the Government after the 
+District Court had made its finding with respect to the 
+Miranda procedures supports the contrary sequence of 
+events described below.’ After Agent Lawlor informed 
+Dickerson that his apartment was being searched, Dickerson 
+decided he wanted to give a statement. J.A. 143. Agent 
+Lawlor left Dickerson and Detective Durkin alone. J.A. 102 
+(Durkin Aff. 7 10). When he returned, Dickerson was read 
+his Miranda rights, id., and at 9:40 p.m. Dickerson signed a 
+waiver of those rights. J.A. 21. Dickerson did not alter his 
+earlier story. J.A. 102 (Durkin Aff. J 10). Agent Lawlor left 
+the room again in response to a page. Jd. During Agent 
+Lawlor’s absence, Detective Durkin asked Dickerson to 
+write down what he had done during the day. J.A. 103 
+
+
+6 
+
+
+Aside from linking him to bank robberies, the evidence discovered 
+in Dickerson’s apartment tied him to an armed car-jacking, during which 
+a gun later used to murder an off-duty correctional officer was taken. 
+J.A. 86. Additional items further implicating Dickerson in this or other 
+bank robberies later were seized from the trunk of Dickerson’s car. J.A. 
+144-45. 
+
+
+” This evidence included the 2% ,avits of Detective Durkin (J.A. 101- 
+04) and Agent Wenko (J.A. 107-.2) and Dickerson’s handwritten note 
+described below (J.A. 105). 
+
+
+ae Le aed 
+
+
+(Durkin Aff. 9 11). Dickerson composed the following note 
+(J.A. 105): 
+
+
+I was read my rights at 7:30*° But I was here at 5:30. I 
+talked to the two Detectives[,] Detective Thomas 
+Durkin and Agent Lawlor [for] two and a half hours 
+and then was asked to take a polygraph test[.] I 
+declined because after two hours I had knowledge of 
+the bank robbery. I told them I know nothing of the 
+bank robbery that happened Friday. Be for[e] today I 
+didn’t have any knowledge of the bank robbery. 
+
+
+Upon returning to the room, Agent Lawlor told 
+Dickerson that a bait bill from another bank robbery had 
+been found in his apartment. J.A. 103 (Durkin Aff. 4 12). 
+Dickerson then confessed that he had been near the bank in 
+Alexandria, Virginia on January 24, 1997, with “Jimmy” 
+(later identified as James Rochester), someone he knew to be 
+a bank robber.’ J.A. 103 (Durkin Aff. ¥ 12). 
+
+
+Unfortunately, the District Court declined to consider the 
+newly introduced evidence suggesting that Dickerson timely 
+received his Miranda warnings; it found that the delay in 
+introducing the evidence was attributable to the 
+Government’s lack of preparation for the initial suppression 
+hearing."° J.A. 159-60. The District Court’s determination 
+
+
+§ As Detective Durkin explained, Dickerson did not correctly estimate 
+the time at which he wrote the note. J.A. 103 (Durkin Aff. § 11). The 
+Fourth Circuit acknowledged that the handwritten statement, regardless 
+of its timing problems, “corroborates the agents’ position that Dickerson 
+was read his Miranda warnings prior to his confession.” Dickerson, 166 
+F.3d at 677 n.8. 
+
+® Dickerson had assisted Rochester in washing the dye off bills 
+obtained in earlier robberies. J.A. 103 (Durkin Aff. § 12). 
+
+
+'0 At the hearing on the motions for reconsideration, the District Court 
+observed that “I suspect it’s one of these deals where they threw the file 
+at [the Assistant United States Attorney] at 4 o’clock on the day before.” 
+J.A. 129. 
+
+
+that Dickerson did not receive the Miranda warnings in a 
+timely fashion, however, does not detract from the 
+undisputed evidence that Dickerson spoke with Agent 
+Lawlor and Detective Durkin voluntarily. 
+
+
+We recount these facts, not to raise in this Court our 
+dispute with the District Court findings, but to emphasize 
+precisely why this case demonstrates the wisdom and the 
+need for section 3501. No one disputes that Dickerson’s 
+confession was voluntary, and not the result of any coercion. 
+The only issue in dispute was the technical issue of whether 
+he was read his Miranda warnings before or after the 
+confession. Under Miranda, the District Court ended its 
+inquiry and suppressed Dickerson’s confession once the 
+Court determined, apparently on an incomplete record, that 
+the warnings were given after the confession. Under section 
+3501, the Court’s decision on suppression would not have 
+been held hostage to that technical point, but instead would 
+have been based on the broader constitutional principle of 
+whether or not the confession was voluntary. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+On behalf of its constituent members, who include 
+approximately 75 percent of all active FBI agents, the 
+FBIAA offers this brief in support of the Fourth Circuit’s 
+decision upholding 18 U.S.C. § 3501 as the standard 
+governing the admission into evidence of voluntary 
+confessions in federal criminal cases."’ 
+
+
+In Miranda v. Arizona, 384 U.S. 436 (1966), the Court 
+established a set of procedures that must be followed when a 
+suspect is in police custody before the police may elicit a 
+confession: The police must give certain warnings and ask 
+
+
+'! See Dickerson, 166 F.3d at 684-92. 
+
+
+whether the suspect agrees to waive his rights. If the suspect 
+refuses to waive his rights (i.e., declines to give his 
+permission to be questioned), the police may not question the 
+suspect. An accompanying exclusionary rule requires the 
+suppression of the suspect’s confession if the police deviate 
+from these procedures, without regard to the actual 
+voluntariness of the confession. 
+
+
+Subsequent decisions by the Court, however, have 
+stressed that the Miranda procedures are not themselves 
+constitutional rights, but rather are “recommended 
+‘procedural safeguards’”’* that help protect an underlying 
+constitutional right — i.e., the Fifth Amendment right against 
+self-incrimination. Because the safeguards are not 
+constitutionally required, they can be superseded or altered 
+by Congress. Congress did just that in enacting section 
+3501, which directs courts to admit into evidence 
+confessions that are “voluntary,” as determined by weighing 
+“all the circumstances surrounding the giving of the 
+confession,” including the giving of Miranda warnings and 
+the presence of counsel during questioning. The Fourth 
+Circuit held that section 3501 is a constitutional exercise of 
+Congress’s power and that this statute establishes the 
+standard for the admission of confessions in federal criminal 
+cases. For the reasons stated in the brief filed by Professor 
+Paul Cassell, the FBIAA believes that the Fourth Circuit’s 
+decision is correct. 
+
+
+Aside from the question of section 3501’s validity, the 
+FBIAA supports section 3501 as a matter of policy because 
+it remedies the overinclusive application of Miranda’s 
+exclusionary rule, yet still provides protections for 
+individuals’ constitutional rights without materially 
+
+
+'2 United States v. Davis, 512 U.S. 452, 457-58 (1994); see also 
+
+
+Miranda, 384 U.S. at 444 (requiring the “use of procedural safeguards 
+effective to secure the privilege against self-incrimination”) (emphasis 
+added). 
+
+
+10 
+
+
+complicating the procedures law enforcement must follow in 
+eliciting confessions. In expressing its support for section 
+3501, the FBIAA makes three points. First, by affirming the 
+Fourth Circuit’s decision and upholding section 3501, the 
+Court will not do away with adherence to Miranda’s core 
+procedural safeguards.'* To the contrary, section 3501 
+creates a powerful incentive for law enforcement officers to 
+follow these procedures by making them factors in 
+determining the voluntariness of a confession. This 
+incentive is bolstered by non-statutory incentives. For 
+example, regardless of the status of section 3501, the FBI — 
+with the support of its agents — is committed to maintaining 
+these safeguards. This commitment stems not only from a 
+recognition of the legal benefits of the safeguards as 
+evidence of voluntariness, but also from its respect for 
+constitutional rights and public expectations. 
+
+
+Second, the FBIAA challenges the assertion of 
+Dickerson, the Government, and supporting amici that 
+upholding section 3501 would blur the “bright line” that 
+courts have used in assessing the admissibility of a 
+confession, thereby complicating the job of law enforcement 
+officers. This argument ignores the fact that even when 
+
+
+13 
+
+
+In the brief filed by former U.S. Attorney General Griffin Bell, ef ai., 
+amici imply as a basis for their arguments that if section 3501 is the 
+governing standard, Miranda’s procedural safeguards, including the 
+giving of warnings, will no longer be followed. See Bell Brief at 17-18 
+(some law enforcement agencies “may” choose to voluntarily continue to 
+give Miranda warnings, but some “may short-sightedly dispense with 
+warnings and adopt more aggressive interrogation techniques”). In 
+making these assertions, amici claim to be speaking for the vast majority 
+of law enforcement. See id. at 1, 7-8. However, as noted above, the 
+FBIAA, as the representative of 75 percent of all active FBI agents, is 
+better positioned to speak for the federal agents who actually deal with 
+Miranda and its aftermath on a day-to-day basis. The FBIAA asserts, for 
+the reasons discussed in this brief, that Miranda’s safeguards will 
+continue to be followed, regardless of whether the Court affirms the 
+Fourth Circuit’s decision. 
+
+
+we 
+
+
+~~ 
+
+
+11 
+
+
+Miranda’s safeguards are followed, a confession still cannot 
+be admitted as evidence urtil a trial judge determines that the 
+confession is voluntary under the Fifth Amendment. In 
+determining the voluntariness of the contession, a trial judge 
+applies the same “totality of the circumstances” analysis 
+required by section 3501. Since the “voluntariness” of a 
+confession is already a prerequisite to its admission, a fact of 
+which law enforcement officers are keenly aware, section 
+3501’s voluntariness standard will not place any additional 
+burdens on law enforcement. 
+
+
+Finally, the FBIAA supports the application of section 
+3501 because it counteracts the overinclusiveness of 
+Miranda’s exclusionary rule, which calls for voluntary 
+confessions to be suppressed whenever there is a technical 
+violation of Miranda’s procedural safeguards. By basing the 
+test for the admission of a confession on whether there has 
+actually been a violation of the Fifth Amendment, section 
+3501 makes for better law enforcement policy by lessening 
+the harsh and unfair consequences that result in the rare 
+instance a law enforcement agent inadvertently fails to 
+follow Miranda’s safeguards. It also brings the exclusionary 
+rule applied to confessions into harmony with the 
+exclusionary rule applied in other criminal procedure 
+contexts arising under the Fourth, Fifth, and Sixth 
+Amendments. 
+
+
+ARGUMENT 
+
+
+I. THE CORE PROCEDURAL SAFEGUARDS 
+UNDER MIRANDA WILL CONTINUE TO BE 
+FOLLOWED UNDER SECTION 3501. 
+
+
+The briefs filed by Dickerson and supporting amici, assume 
+that if the Fourth Circuit decision is affirmed and section 
+3501 upheld, federal law enforcement will stop following 
+
+
+12 
+
+
+Miranda’s core procedural safeguards.'* This assumption is 
+wrong. For a variety of reasons, law enforcement will 
+continue to adhere to core Miranda safeguards. 
+
+
+A. Section 3501 Creates Strong Incentives for 
+Federal Law Enforcement To Continue To Follow 
+Miranda’s Core Procedural Safeguards. 
+
+
+Section 3501 directs courts to admit into evidence 
+confessions that are “voluntarily given” and states that 
+whether a particular confession is voluntary should be 
+determined by weighing “all the circumstances surrounding 
+the giving of the confession.” In determining voluntariness, 
+the trial judge “shall” examine a number of factors, 
+including: 
+
+
+(3) whether or not such defendant was advised or 
+knew that he was not required to make any statement 
+and that any such statement could be used against 
+him[;] (4) whether or not such defendant had been 
+advised prior to questioning of his right to the 
+assistance of counsel; and (5) whether or not such 
+defendant was without the assistance of counsel when 
+questioned and when giving such confession. 
+
+
+18 U.S.C. § 3501(b)(3)-(5). These factors encapsulate the 
+substance of Miranda’s core procedural safeguards. 
+
+
+By explicitly including Miranda’s procedural safeguards 
+as factors in the voluntariness analysis, section 3501 reflects 
+the holding of numerous cases that, under the Fifth 
+
+
+'* See Petitioner’s Brief at 14 (“While the Court invited alternative 
+procedures [for providing warnings], it did not invite procedures that 
+dispensed with apprising persons in custody at the outset of their rights 
+and assuring that their exercise of those rights would be honored.”); Bell 
+Brief at 17-19. 
+
+
+13 
+
+
+Amendment, the giving of warnings is significant proof that 
+the confession was voluntary.’ Law enforcement officers, 
+understanding the relative weight given to warnings and the 
+presence of counsel under section 3501, will continue to 
+view the core Miranda procedural safeguards as the best way 
+to ensure thet any subsequent conftesion is found to be 
+voluntary."° Section 3501 creates a “win-win” situation: 
+federal law enforcement officers will continue to give the 
+Miranda warnings, but in cases involving a technical 
+departure from the Miranda safeguards, the constitutional 
+requirement of voluntariness will be the basis for 
+determining the admittance of any confession into evidence. 
+
+
+'S See, e.g., Beckwith v. United States, 425 U.S. 341, 348 (1976) 
+(“Proof that some kind of warnings were given or that none were given 
+would be relevant evidence . . . on the issue of whether the questioning 
+was in fact coercive.”); Villafuerte v. Stewart, 111 F.3d 616, 626 (9th Cir. 
+1997) (“In analyzing whether statements were voluntary, we must 
+consider the totality of the circumstances. .. . We conclude [the criminal 
+defendant] was fully apprised of his Miranda rights and voluntarily 
+waived them.”); Reese v. Delo, 94 F.3d 1177, 1184 (8th Cir. 1996) 
+(under a “totality of the circumstances” review, “[t}he fact that [Miranda] 
+warnings were given weighs in favor of a voluntariness finding”); Roman 
+v. Florida, 475 So. 2d 1228, 1232 (Fla. 1985) (“Proof that Miranda 
+warnings were given is relevant in determining whether there was 
+coercion. Proof even of partial warnings of constitutional rights is a 
+circumstance relevant to a finding of voluntariness.”), see also Wayne R. 
+LaFave & Jerold H. Israel, Criminal Procedure § 6.2(c), at 298 (2d ed. 
+1992) (“[T}he fact the warnings were given is an important factor tending 
+in the direction of a voluntariness finding.”). 
+
+'© See Brief of United States at 33 (where a criminal suspect challenges 
+the admissibility of a confession despite being given Mirand 
+“compliance with Miranda helps ensure that statements will be found 
+admissible because they were voluntary”). 
+
+
+14 
+
+
+B. The FBI and Other Federal Law Enforcement 
+Agencies Will Continue To Insist that Their Officers 
+Follow Miranda’s Core Procedural Safeguards. 
+
+
+The FBI, with the support of its agents, and other federal 
+law enforcement agencies will continue to insist that the core 
+Miranda procedural safeguards are followed. As stated by 
+the General Counsel of the FBI in an October 19, 1999, 
+memorandum submitted to the Department of Justice: 
+“Whether or not the Miranda requirements remain in effect 
+after Dickerson, the FBI will continue to warn subjects of 
+their rights to silence and counsel, and obtain waivers of 
+those rights, prior to custodial interrogation.”'’ Apart from 
+the legal incentive created by section 3501, see supra Part 
+1A, there are three significant reasons why the FBI and other 
+federal law enforcement agencies will maintain their current 
+procedures if the Court upholds section 3501. First, the FBI 
+procedure of giving warnings to suspects pre-dates the 
+Miranda decision and is ingrained in the FBI’s internal 
+policies. Like other federal law enforcement agencies, the 
+FBI will continue to train its agents to follow Miranda’s 
+procedural safeguards. Second, federal prosecutors will 
+expend their limited resources more readily on cases in 
+which indicia of voluntariness, including the core Miranda 
+safeguards, are present. Finally, public expectations will 
+encourage continued use of Miranda’s core procedural 
+safeguards. 
+
+
+The FBI has a long history, predating the Miranda 
+decision, of giving warnings to suspects in order to protect 
+their constitutional rights. As the Court explained in 
+Miranda, J. Edgar Hoover, Director of the FBI, had 
+instituted warnings to suspects as early as 1952, although 
+
+
+'? See Memorandum from Larry R. Parkinson, General Counsel for the 
+FBI, to Eleanor D. Acheson, Assistant Attorney General at 1 (Oct. 19, 
+1999) (filed with the Court by the Government on February 24, 2000) 
+[hereinafter FBI Memorandum]. 
+
+
+15 
+
+
+without an accompanying exclusionary rule."* The FBI 
+stressed that ““Special Agents are taught that any suspect or 
+arrested person, at the outset of an interview,’” must be 
+informed of his right to remain silent and to have “‘the 
+services of an attorney of his own choice.” Miranda, 384 
+U.S. at 483 n.54. The purpose behind these warnings was to 
+““maintain inviolate the historic liberties of the individual” 
+and to enforce the law without “‘destroy[ing] the dignity of 
+the individual.’” Jd. (quoting Hoover). 
+
+
+Likewise, today each FBI agent is trained to respect 
+individual rights while seeking confessions. The FBI’s 
+current training materials state: 
+
+
+The most important limitations on the admissibility 
+of an accused’s incriminating statements are the 
+requirements that they be voluntary; that they be 
+obtained without violating his right to remain silent; 
+and that they be obtained without violating his right 
+to a lawyer. 
+
+
+Legal HandBook for Special Agents § 7-1 (Mar. 7, 1997).'° 
+Agents are specifically told that “[i]t is the policy of the FBI 
+
+
+While the Miranda decisions states that the FBI warnings under 
+Hoover were accompanied by a cutting off of questioning once a suspect 
+asked for a lawyer, see Miranda, 384 U.S. at 485-86 (quoting a letter sent 
+from the FBI to the Solicitor General in connection with the Miranda 
+case), members of the FBIAA who were working as agents prior to the 
+Miranda decision do not remember such a rule. Their recollection is that 
+the Miranda decision materially altered the landscape of law enforcement 
+with regard to questioning suspects. Moreover, even as explained in 
+Miranda, Hoover’s rule was not nearly as broad with respect to cutting 
+off of questioning as the subsequent expansions of this rule in Edwards v. 
+Arizona, 451 U.S. 477 (1981), Arizona v. Roberson, 486 U.S. 675, 682- 
+83 (1988), and Minnick v. Mississippi, 498 U.S. 146 (1990). See infra 
+Part IIIB. 
+
+
+'9 These materials make no reference to Miranda, but simply assert 
+that these procedures are part of the FBI’s internal policies. 
+
+
+16 
+
+
+=— 
+
+
+that no attempt be made to obtain a statement by force, 
+threats, or promises,” and that it is entirely up to the 
+individual suspect, “after being advised of his/her rights,” 
+whether to give a confession or invoke the right to silence. 
+Id. § 7-2.1(1). Agents are instructed that “an accused in 
+custody is entitled to be warned of his right to remain silent 
+
+
+and his right to an attorney” before any interrogation begins. 
+Id. § 7-3.1.” 
+
+
+The FBI’s policy dictating that agents give warnings is 
+derived not only from a respect for individual rights, but also 
+is meant to ensure that a court will find any subsequent 
+confession voluntary. The Legal HandBook specifically 
+instructs agents that the “[a]dvice of rights” is an important 
+element in making sure that confessions are “the result of 
+‘free and unconstrained choice,” and that the giving of 
+warnings will be used as a factor by courts in their “‘totality 
+of the circumstances” analysis. /d. § 7-2.3. Agents face 
+disciplinary sanctions for gross violations of these FBI 
+procedures. In short, these procedures are deeply ingrained 
+in the FBI’s culture and, as the FBI has stated, it has no 
+intention of changing them if section 3501 is upheld, nor 
+would the FBIAA urge any such change.”! 
+
+
+*° In the amicus brief filed by the ACLU, the argument is made that 
+Miranda warnings are still needed today because many law enforcement 
+manuals encourage police officers to use coercive tactics to gain 
+confessions. See ACLU Brief at 15-16. The FBIAA will leave it to 
+organizations representing state law enforcement agencies appearing as 
+amici to speak for themselves. The FBI and its agents eschew the use of 
+such tactics. The FBI has consistently maintained a policy of respecting 
+constitutional rights and, in fact, spends much effort in training agents on 
+conducting interrogations with the utmost professionalism within the 
+parameters the law has set. 
+
+2! See supra note 17 and accompanying text. The Court has noted law 
+enforcement’s general willingness to respect individuals’ constitutional 
+rights and to provide safeguards for doing so, such as the giving of 
+
+
+17 
+
+
+Although the above discussion is confined to the FBI’s 
+procedures, other federal law enforcement agencies will have 
+similar incentives to leave in place their procedures for 
+adhering to the Miranda safeguards.” Overall, therefore, the 
+Court’s decision in this case is unlikely to affect the methods 
+employed by federal law enforcement agencies to protect the 
+constitutional rights of suspects. 
+
+
+More generally, federal law enforcement agents are faced 
+with increasing pressure to bring “air tight” cases devoid of 
+technical difficulties to federal prosecutors. Under the 
+current Miranda regime, a federal prosecutor likely will not 
+pursue a case that relies on the defendant’s confession if 
+there is any chance that the defendant will be able to invoke 
+Miranda’s exclusionary rule.” While it is true that under 
+
+
+We must remember in this regard that Miranda came down 
+some 27 years ago. In that time, law enforcement has grown in 
+constitutional as well as technological sophistication, and there 
+is little reason to believe that the police today are unable, or 
+even generally unwilling, to satisfy Miranda’s requirements. 
+
+
+Withrow v. Williams, 507 U.S. 680, 695 (1993). 
+
+
+22 Other federal agencies, in addition to the FBI, have expressed a 
+commitment to continue following Miranda’s safeguards under section 
+3501. See Memorandum from Robert C. Gleason, Deputy Chief Counsel 
+for the Drug Enforcement Agency, to Patty Stemler, Chief of the 
+Appellate Section, Criminal Division, Department of Justice (1998) (filed 
+with the Court by the Government on February 24, 2000 ) (“Regardless 
+of any change in the rule by the Supreme Court, DEA will undoubtedly 
+counsel its Agents to continue to provide Miranda warnings to all 
+custodial subjects that they seek to question.”) [hereinafter 1998 DEA 
+Memorandum]. 
+
+
+3 Former Attorney General Benjamin Civiletti acknowledges as much 
+in his amicus brief. He states that federal prosecutors have tremendous 
+incentives to take cases where Miranda warnings have been given 
+because this helps assure that a “critical aspect of the government’s proof 
+[i.e., a voluntary confession] is admissible.” Civiletti Brief at 5. While 
+Mr. Civiletti’s comments are aimed at the current regime under Miranda, 
+his point translates into the section 3501 context and suggests that there 
+
+
+18 
+
+
+section 3501 prosecutors will more readily accept cases in 
+which confessions were voluntary despite a_ technical 
+violation of the Miranda safeguards, given the need for proof 
+of voluntariness under section 3501, and the legal and 
+practical reality that the giving of warnings helps provide 
+this proof, federal prosecutors will continue to put pressure 
+on law eniorcement to follow Miranda’s procedural 
+safeguards. 
+
+
+Finally, federal law enforcement agencies will be 
+encouraged to follow Miranda’s core procedural safeguards 
+by the public’s expectation that suspects be treated fairly and 
+within the bounds of the law. Dickerson, the Government, 
+and supporting amici have identified the increase in public 
+confidence in law enforcement attributable to the provision 
+of Miranda warnings. The FBIAA agrees that the use of 
+Miranda warnings has enhanced the public’s perception of 
+the professionalism of law enforcement officers. There is no 
+reason to believe that the FBI or other federal law 
+enforcement agencies would compromise these gains by 
+refusing to give the warnings under a section 3501 regime. 
+Section 3501, with its totality of the circumstances approach, 
+enhances the need for federal law enforcement agencies to be 
+vigilant in fostering a favorable public perception of their 
+behavior towards suspects. 
+
+
+will continue to be such pressure on federal prosecutors, and hence 
+federal law enforcement, to give Miranda warnings. 
+
+
+24 In the brief filed by former Attorney General Bell, amici argue that if 
+Miranda’s safeguards are not mandatory, “the prosecutor’s evidentiary 
+interest in assuring that warnings have been provided will become 
+attenuated.” Bell Brief at 18. The truth is exactly the opposite. As 
+explained above, prosecutors will have tremendous incentives to continue 
+putting pressure on law enforcement agents to follow Miranda's 
+safeguards as the surest way to prove voluntariness under section 3501. 
+
+
+19 
+
+
+Il. APPLICATION OF SECTION 3501 WOULD 
+EXPLICITLY ENCOURAGE FEDERAL LAW 
+ENFORCEMENT OFFICERS TO FOCUS THEIR 
+EFFORTS ON ENSURING THAT CUSTODIAL 
+INTERROGATIONS ARE VOLUNTARY, AS 
+REQUIRED BY THE FIFTH AMENDMENT. 
+
+
+Dickerson, the Government, and supporting amici argue 
+that Miranda provides federal law enforcement officers with 
+“bright line” rules to assist them in questioning suspects.” 
+They contend further that officers would be plagued by 
+uncertainty when they questioned a subject if section 3501 
+controlled the admissibility of confessions, because the 
+officers would not be able to predict what factors a court 
+might consider in examining the totality of the circumstances 
+surrounding the confession.”* This argument ignores the fact 
+that even under Miranda, a federal law enforcement officer 
+must be prepared for a totality of the circumstances analysis. 
+Although the Miranda procedural safeguards serve as a 
+useful guide for law enforcement, it is a fallacy to suggest 
+that law enforcement officers, simply by following Miranda, 
+can ensure that suspects’ confessions will be admitted into 
+evidence.”” The voluntariness standard established by the 
+Fifth Amendment remains the fundamental criterion for 
+admission. 
+
+
+Before any self-incriminating statement can be admitted 
+in federal court, a trial judge must determine both (1) 
+Miranda compliance (including whether there was a waiver) 
+and (2) the voluntariness of the statement for due process 
+
+
+*> See Petitioner’s Brief at 43; Brief of United States at 50: Bell Brief 
+
+
+at 12. 
+
+
+© See Brief of United States at 38: Brief of House Democratic 
+Leadership at 7. 
+
+
+2? See Bell Brief at 12, 19. 
+
+
+20 
+
+
+purposes.” At the behest of the defendant, a court will make 
+both determinations. If an officer complied with Miranda, 
+the court must consider a defendant’s remaining 
+voluntariness arguments. See New York v. Quarles, 467 U.S. 
+649, 672 & n.5 (1984). On the other hand, if the officer 
+violated Miranda, the court still must determine the 
+voluntariness of the statement, because voluntariness 
+governs the use of the statement for impeachment purposes, 
+see New Jersey v. Portash, 440 U.S. 450, 458-59 (1979), and 
+affects the “fruits of the poisonous tree” analysis, see Oregon 
+v. Elstad, 470 U.S. 298, 306-09 (1985). In this case, for 
+example, the District Court found a violation of Miranda and 
+thus excluded the confession from the government’s case-in- 
+chief, J.A. 155, but still went on to determine that 
+Dickerson’s confession was voluntary and thus did not 
+require suppression of the evidence found as a result of the 
+confession, J.A. 158 n.1. A determination of voluntariness is 
+based on the totality of the circumstances surrounding the 
+confession, see Schneckloth v. Bustamonte, 412 U.S. 218, 
+226 (1973), the same analysis used in section 3501. 
+
+
+Because suppression hearings are routine events in cases 
+involving confessions, law enforcement officers must do 
+more than simply afford the suspect the proper procedural 
+safeguards. Under both Miranda and section 3501, an 
+officer must take into consideration the myriad factors a 
+court might evaluate in determining voluntariness based on 
+the totality of the circumstances.” Despite the parties’ 
+
+
+8 See, e.g., Miller v. Fenton, 474 U.S. 104, 109-10 (1985) (despite 
+Miranda warnings being given, a court must still ask whether confession 
+was voluntary under the due process clause); United States v. Brown, 531 
+F. Supp. 37, 39 (D. Mont. 1981) (“even in the event the required 
+warnings are given, the prosecution is still required to show that a 
+confession was voluntary under the due process standards”). 
+
+29 These factors include all of the “pre-Miranda factors” identified by 
+the Bell Brief as bearing on the voluntariness inquiry. Bell Brief at 14 
+n.14. The Bell Brief appears to suggest that these factors are no longer 
+
+
+21 
+
+
+claims about the complications federal law enforcement 
+officers would face under section 3501, it is clear that the 
+burden on officers would not materially change. If anything, 
+section 3501 lessens the burden on federal law enforcement 
+officers by allowing them to focus their efforts on ensuring 
+that confessions are voluntary, rather than worrying about 
+whether a technical violation of a procedural safeguard will 
+result in the suppression of crucial evidence. Thus, section 
+3501 enhances protection for suspects’ constitutional rights 
+
+
+without undermining the bright line guidance offered by the 
+core Miranda safeguards. 
+
+
+Ifl.SECTION 3501 REMEDIES THE EXCESSES OF 
+MIRANDA’S EXCLUSIONARY RULE. 
+
+
+The FBIAA, following the lead of the FBI, supports the 
+continued use of Miranda’s core procedural safeguards in an 
+effort to protect individuals’ constitutional rights.” 
+
+
+relevant under the “bright-line rules” of Miranda. Id. at 12-19. This 
+argument is contravened by the fact that federal courts routinely consider 
+the factors identified by the Bell Brief as “pre-Miranda” in determining 
+whether to admit confessions into evidence, even when all of the 
+Miranda procedural safeguards have been followed. See, e.g., United 
+States v. Dale, 44 F. Supp. 2d 818, 820 (E.D. Tex. 1999) (finding oral 
+statements voluntary after consideration of alleged threats and alleged 
+denials of requested counsel by law enforcement agents); United States v. 
+Wyatt, No. 97-40083-01-RDR, 1998 WL 45004, at *3 (D. Kan. Jan. 13, 
+1998) (considering whetl.er defendant was under the influence of drugs 
+or alcohol when he made his statements after receiving Miranda 
+warnings), United States v. Arrington, No. 97CR192, 1997 WL 754051, 
+at *1-2 (ND. Ill. Nov. 21, £997) (rejecting defendant’s argument that 
+alleged threats against wife rendered his confession involuntary), aff'd, 
+159 F.3d 1069 (7th Cir. 1998), cert. denied, 119 S. Ct. 1512 (1999); 
+United States v. Berkovich, 932 F. Supp. 582, 587 (S.D.N.Y. 1996) 
+(finding statements voluntary based, among other things, on assessment 
+of defendant’s intelligence and the location of the interrogation). 
+
+
+*° The FBIAA fully supports the FBI’s policy positions outlined in the 
+FBI Memorandum discussed above. See supra note 17 and 
+
+
+22 
+
+
+However, the exclusionary rule established by Miranda, and 
+expanded in subsequent cases, is overinclusive because it 
+results in confessions being suppressed when there has been 
+no violation of a constitutional right. Confessions are often 
+thrown out because of “technicalities,”"' ie., failures to 
+follow the letter of Miranda’s safeguards. The effect has 
+been to limit unduly law enforcement’s ability to fight crime, 
+while allowing the release of confessed criminals back into 
+society. 
+
+
+Section 3501 makes for better law enforcement policy 
+because it would continue to exclude confessions when the 
+court finds a constitutional violation, but would not exclude 
+confessions that are found to have been given voluntarily 
+despite the existence of technical departures from Miranda’ s 
+core safeguards. This remedies some of the anomalous 
+results stemming from Miranda’s exclusionary rule and 
+parallels the applications of the exclusionary rule in other 
+criminal procedure contexts. 
+
+
+A. Miranda’s Exclusionary Rule Has Resulted in the 
+Suppression of Voluntary Confessions. 
+
+
+The Fifth Amendment right against self-incrimination 
+guarantees each individual “the right ‘to remain silent unless 
+he chooses to speak in the unfettered exercise of his own 
+will.’” Miranda, 384 U.S. at 460 (quoting Malloy v. Hogan, 
+378 U.S. 1, 8 (1964)). Protection of this Fifth Amendment 
+right was at the heart of the Court’s concerns in Miranda and 
+was the reason for creating a system of procedural 
+safeguards to assure that involuntary confessions are not 
+used in criminal trials. Miranda, 384 U.S. at 439 (“[W]e 
+
+
+accompanying text. The FBIAA also supports the policies outlined in the 
+FBI's Legal HandBook for Special Agents. See supra Part 1.B. 
+
+
+3! Dickerson, 166 F.3d at 692. 
+
+
+23 
+
+
+deal with . . . his privilege under the Fifth Amendment to the 
+Constitution not to be compelled to incriminate himself.”’).* 
+
+
+To give teeth to its protective scheme, Miranda 
+established an exclusionary rule that requires adherence to 
+Miranda’s procedural safeguards as a “prerequisite[] to the 
+admissibility of any statement made by a defendant.” 
+Miranda, 384 U.S. at 476. The Miranda exclusionary rule, 
+however, is broader than is needed to protect a suspect’s 
+Fifth Amendment rights — sweeping away any confession 
+that is given in violation of Miranda’s procedural safeguards 
+without regard for the voluntariness of the confession. The 
+result is that in some situations a confession is suppressed 
+without any finding by a district court that a constitutional 
+violation, in fact, has occurred.” 
+
+
+The overbreadth of this rule creates pitfalls for law 
+enforcement.* An agent who inadvertently departs from 
+
+
+*? While the procedural safeguards established by Miranda include a 
+warning that the criminal suspect has the right to speak to a lawyer, the 
+purpose of this warning is to protect the Fifth Amendment right against 
+self-incrimination, rather than the Sixth Amendment right to counsel. 
+See Miranda, 384 U.S. at 465-66 (a lawyer’s presence “would insure that 
+statements made in the government-established atmosphere are not the 
+product of compulsion”); see also United States v. Davis, 512 U.S. 452, 
+456 (1994) (“The Sixth Amendment right to counsel attaches only at the 
+initiation of adversary criminal proceedings . . . .”). 
+
+
+*° The Court has repeatedly held that a violation of Miranda’s 
+procedural safeguards does not necessarily mean that a resulting 
+confession is involuntary, and hence in violation of the Fifth 
+Amendment. See, e.g., Withrow v. Williams, 507 U.S. 680, 705-07 
+(1993) (O’Connor, J., concurring in part and dissenting in part); Oregon 
+v. Elstad, 470 U.S. 298, 306-10 (1985); New York v. Quarles, 467 U.S. 
+
+
+649, 672 & n5 (1984); Michigan v. Tucker, 417 U.S. 433, 444-46 
+(1974). 
+
+
+** In its brief, the Government acknowledges that there have been costs 
+to law enforcement from the exclusionary rule, but states in a conclusory 
+fashion that the exclusionary rule does not impede law enforcement 
+unduly. See Brief of United States at 31-32. The brief dismisses 
+
+
+24 
+
+
+Miranda’s procedural safeguards before a _ suspect 
+voluntarily confesses will see that confession suppressed at 
+trial, even if the agent did not violate the suspect’s 
+constitutional rights.** As detailed above, the facts of this 
+case are a pointed example of this pitfall. Although the 
+Government presented evidence that Dickerson was properly 
+given his Miranda warnings, the District Court found that 
+Miranda’ s technical requirements had not been followed and 
+suppressed Dickerson’s confession, despite the fact that it 
+was voluntary. See Dickerson, 166 F.3d at 675-77. 
+
+
+The exclusionary rule is especially harmful in the context 
+of questioning suspects after they have requested the 
+assistance of counsel.” In Miranda, the Court held that if a 
+suspect “states that he wants an attorney, the interrogation 
+must cease until an attorney is present” and the attorney must 
+be “present during any subsequent questioning.” Miranda, 
+
+
+research to the contrary and overlooks the experiences of law 
+enforcement officials who have spoken out against the exclusionary rule 
+and have criticized Miranda for “interfer[ing] with the ability of police 
+officers to solve violent crimes and take dangerous criminals off the 
+streets.” Voluntary Confessions and the Enforcement of Section 3501, 
+Title 18, U.S. Code: Hearings Before the Subcomm. on Criminal Justice 
+Oversight of the Senate Comm. on the Judiciary, 1999 WL 16947867 
+(May 13, 1999) (Testimony of Gilbert G. Gallegos, President Grand 
+Lodge, Fraternal Order of Police) (the exclusionary rule under Miranda 
+“prevents the use of any information obtained if there is the slightest hint 
+of noncompliance”). 
+
+
+> See, e.g., United States v. Elie, 111 F.3d 1135, 1139, 1142 (4th Cir. 
+1997) (“On appeal, the Government does not contend that the district 
+court erred in suppressing the statements Elie made prior to receiving his 
+Miranda warnings.” ; “[Defendant’s] statement was voluntary under the 
+Fifth Amendment.”); United States v. DeSumma, 44 F. Supp. 2d 700, 
+705-06 (E.D. Pa. 1999); United States v. Rodriguez-Cabrera, 35 F. Supp. 
+2d 181, 185-87 (D. Puerto Rico 1999). 
+
+
+*© The FBI and the DEA have voiced similar concerns in their 
+memoranda submitted to the Court by the Government. See FBI 
+Memorandum, supra note 17, at 1-2; 1998 DEA Memorandum, supra 
+note 22. 
+
+
+25 
+
+
+384 U.S. at 474. In Edwards v. Arizona, 451 U.S. 477 
+(1981), Arizona v. Roberson, 486 U.S. 675, 682-83 (1988), 
+and Minnick v. Mississippi, 498 U.S. 146 (1990), the Court 
+created a “‘second layer of prophylaxis’” regarding a 
+suspect’s request for the assistance of counsel, see United 
+States v. Davis, 512 U.S. 452, 458 (1994).”” In these cases, 
+the Court held that once counsel has been requested, law 
+enforcement is forbidden from ever questioning the suspect 
+again unless an attorney is present, even if the suspect is 
+again given Miranda warnings and voluntarily responds to 
+subsequent questioning, or already has had the opportunity to 
+consult with an attorney.“ Fven if the later interrogation 
+relates to another crime and is conducted by a different set of 
+law enforcement officers, any confessions must be excluded 
+because of the invocation of the right to counsel in the 
+earlier, unrelated context.*® 
+
+
+The effect of these cases has been to render many 
+suspects “question proof’ because of the threat that any 
+
+
+x7 
+
+
+The Government, while recognizing the harmful effects of these 
+cases, argues that addressing the extensions of Miranda found in this line 
+of cases should be saved for another day. See Brief of United States at 
+35-36. This fails to recognize that any decision on the validity of section 
+3501 necessarily implicates the decisions in Edwards, Roberson, and 
+Minnick because section 3501 directs that courts “shall” admit into 
+evidence voluntary confessions, whether or not suspects request the 
+assistance of counsel. Of course, whether law enforcement officers 
+honor such requests will most assuredly bear on the issue of 
+voluntariness (or the lack thereof). See 18 U.S.C. § 35061(b) (court must 
+consider “whether or not [the] defendant was without the assistance of 
+counsel when questioned and when giving [the] confession”). 
+
+
+** See Minnick, 498 U.S. at 151-52; Edwards, 451 U.S. at 484-85; see 
+also LaFave & Israel, supra note 15, § 6.9, at 345 (Edwards is “best 
+viewed as creating a per se rule proscribing any interrogation of an 
+accused who has invoked his right to counsel”). 
+
+*° See Roberson, 486 U.S. at 682-83 (applying the “prophylactic 
+Edwards rule” to a “police-initiated interrogation following a suspect’s 
+request for counsel . . . in the context of a separate investigation”). 
+
+
+26 
+
+
+confession made after the suspect has requested the advice of 
+counsel will be suppressed, even if there is no finding that 
+the confession was involuntary.“ Years may elapse, and if 
+the assistance of counsel has been invoked once, law 
+enforcement may never have a chance to question that 
+person again, unless the suspect arranges for counsel to be 
+present.’ Suspects, knowing that they can speak with 
+impunity if counsel is not present, have little incentive to 
+arrange for the presence of counsel. Moreover, when more 
+than one law enforcement agency is investigating the same 
+person, there is the risk that one agency may not know that 
+the suspect has invoked the assistance of counsel during 
+previous questioning by another agency.” The unsuspecting 
+officer may then elicit a confession that will later be 
+suppressed, despite the fact that it was completely 
+
+
+“© The FBI agrees that this is a significant problem for its agents. See 
+FBI Memorandum, supra note 17, at 1-2. 
+
+
+“An extreme example of this application of Miranda’s exclusionary 
+rule occurred in United States v. Green, 592 A.2d 985 (D.C. 1991), cert. 
+granted, 504 U.S. 908 (1992), cert. dismissed as moot, 507 U.S. 545 
+(1993). There, a suspect invoked his right to counsel during questioning 
+by federal law enforcement about possession of a controlled substance. 
+He eventually pled guilty and was incarcerated. Over five months after 
+invoking his right to counsel, and while in prison, local law enforcement 
+obtained an arrest warrant for the suspect, charging him with 
+involvement in a robbery and murder that were unrelated to his 
+conviction for drug possession. After being read his Miranda rights by 
+local law enforcement and having waived the assistance of counsel, he 
+confessed to his involvement in the robbery and murder. At trial, his 
+confession was suppressed because he had asked for a lawyer in 
+connection with the initial drug charge. See id. at 985-87 (relying on 
+Minnick). The D.C. Court of Appeals affirmed. See id. at 991 (applying 
+Edwards, Roberson, and Minnick, and stating that if there is a limiting 
+aspect to these cases that would allow questioning in this circumstance, it 
+is up to this Court to identify that “red thread”). 
+
+
+“See Roberson, 486 U.S. at 678 (suspect was questioned a second 
+time by an officer who “was not aware of the fact that [the suspect] had 
+requested the assistance of counsel three days earlier”). 
+
+
+27 
+
+
+voluntary.” Even a waiver at the beginning of the second 
+round of questioning cannot undo the suspect’s earlier 
+invocation of his rights.“* 
+
+
+Our society pays a high price for the suppression of 
+confessions based on such “technicalities,” namely the 
+release of confessed criminals. While society expects the 
+constitutional rights of suspects to be protected,** society also 
+expects that the justice system will not allow confessed 
+criminals, whose constitutional rights have been respected, to 
+go unpunished based on “technicalities.” 
+
+
+“See FBI Memorandum, supra note 17, at 2 (“{T]he protections 
+[outlined in these cases] complicate the right to counsel rule since it is 
+often difficult for law enforcement officers to discern and comply with 
+those protections. As a result, completely voluntary statements may get 
+suppressed because of technical violations of Miranda and its progeny.”). 
+
+
+“See Green, 592 A.2d at 986 (after being given Miranda warnings 
+before second round of questioning, suspect waived the assistance of 
+counsel). The Court’s cases in the area of requests for assistance of 
+counsel stand in sharp contrast to its cases dealing with a suspect who 
+invokes the right to remain silent. In the latter situation, officers must 
+““scrupulously honor(}’” such a request, but are permitted to question a 
+Suspect again about a different criminal matter as long as a sufficient 
+period of time has passed after the first round of questioning ceased (a 
+matter of hours may be permissible) and Miranda warnings are given 
+again when questioning resumes. See Michigan v. Mosley, 423 U.S. 96, 
+102-06 (1975) (no passage in Miranda “can sensibly be read to create a 
+per se proscription of indefinite duration upon any further questioning by 
+any police officer on any subject, once the person in custody has 
+indicated a desire to remain silent”). 
+
+* See Petitioner's Brief at 44-45; Brief of United States at 49: Bell 
+Brief at 24-25. 
+
+
+“© The Court has recognized the need to consider society’s interests in 
+an effective law enforcement policy that prevents criminals from being 
+released based on such “technicalities” : 
+
+
+[W]e also “must consider society’s interest in the effective 
+prosecution of criminals in light of the protection our pre- 
+Mirand lards afford criminal defendants.” These i 
+
+
+28 
+
+
+B. Section 3501 Will Prevent Voluntary Confessions 
+from Being Suppressed. 
+
+
+The virtue of section 3501 is that it remedies the excesses 
+of Miranda’s exclusionary rule, while still providing 
+incentives for law enforcement to adhere to Miranda’s 
+procedural safeguards.” Section 3501 does not completely 
+eliminate Miranda’s exclusionary rule Rather section 
+3501 simply tempers the rule to exclude confessions only 
+when the Fifth Amendment has in fact been violated, rather 
+than employing an irrebuttable presumption that every time 
+the procedural safeguards are not followed, an ensuing 
+confession is involuntary.” Under section 3501, oversights 
+and harmless mistakes by law enforcement will no longer be 
+grounds for throwing out voluntary confessions. 
+
+
+Placing the trigger for section 3501’s exclusionary rule 
+on the finding of a constitutional violation also brings it into 
+harmony with the application of the exclusionary rule in 
+other criminal procedure contexts. For example, the fruits of 
+an illegal search are generally only excluded when the court 
+finds that “evidence [has been] obtained in violation of the 
+Fourth Amendment.” Jilinois v. Krull, 480 U.S. 340, 347 
+(1987).” The same is true with regard to the right to counsel, 
+
+
+may be outweighed by the need to provide an effective sanction 
+to a constitutional right, but they must in any event be valued. 
+
+
+Tucker, 417 U.S. at 450-51 (citations omitted). 
+
+“’ See supra Parts | and II. 
+
+“ See 18 U.S.C. § 3501(a) (confessions are only admissible if 
+“voluntarily given”). 
+
+* Compare id. with Miranda, 384 U.S. at 444 (“[T]he prosecution may 
+
+
+not use [confessions] . . . unless it demonstrates the use of procedural 
+Sennete eiiative te the privilege againet self-incrisnination.”). 
+
+
+° Of LaFave & Israel, supra note 15, § 3.1(e), at 114 (evidence may 
+also be suppressed if a federal or state statute or administrative regulation 
+
+
+29 
+
+
+where the trigger for excluding evidence is an actual 
+violation of the Sixth Amendment. See, e.g., United States v. 
+Bierey, 588 F.2d 620, 623 (8th Cir. 1978) (“[O]nce it is 
+shown that the lineup was conducted in violation of an 
+accused's sixth amendment right to counsel, all evidence of 
+the pretrial confrontation and of the subsequent in-court 
+identification by the witness is to be excluded... .”). In 
+contrast, under the Miranda exclusionary rule, the trigger for 
+the suppression of evidence is the violation of a prophylactic 
+safeguard. See Elstad, 470 U.S. at 307. 
+
+
+Section 3501 also creates consistency among the various 
+applications of the exclusionary rule in the Fifth Amendment 
+context. The Court has held that “in situations that fall 
+outside the sweep of the Miranda presumption,” Elstad, 470 
+U.S. at 307, such as when prosecutors seek to introduce 
+evidence that was discovered as a result of a confession 
+given without Miranda warnings, see, e.g., Tucker, 417 U.S. 
+at 435, 448-50, “‘the primary criterion of admissibility 
+[remains] the “old” due process voluntariness test,’” Elstad, 
+470 US. at 307-08 (quoting Schulhofer, Confessions and the 
+Court, 79 Mich. L. Rev. 865, 877 (1981)) (alterations in 
+original). Section 3501 creates a single test to deal with all 
+confessions and the fruits therefrom — i.e., whether there was 
+a violation of the Fifth Amendment prohibition against 
+involuntary self-incrimination. 
+
+
+In short, section 3501 reins in the exclusionary rule to 
+reach only those confessions elicited in violation of the 
+suspect’s Fifth Amendment rights. 
+
+
+has been violated, but even then the exclusionary rule does not 
+“inevitably follow’). 
+
+
+30 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the Court should affirm the 
+Fourth Circuit’s decision that 18 U.S.C. § 3501 governs the 
+admission of voluntary confessions in federal criminal cases. 
+
+
+Of Counsel 
+LYLE ROBERTS 
+
+
+1806 W. Abingdon Dr. 
+
+
+Apt. 202 
+Alexandria, VA 22314 
+
+
+March 9, 2000 
+
+
+Respectfully submitted, 
+
+
+ROBERT F. HOYT 
+Counsel of Record 
+
+KARAN BHATIA 
+
+HESTER PEIRCE 
+
+CHRISTOPHER SIMKINS 
+WILMER, CUTLER & PICKERING 
+2445 M Street, N.W. 
+
+
+Washington, DC 20037 
+(202) 663-6000 
+
+
+Counsel for Amicus Curiae 
+
+

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "miller",
+    "source": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-327.pdf",
+    "pages": 36,
+    "characters": 76873
+  },
+  {
+    "name": "crosby",
+    "source": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-363.pdf",
+    "pages": 29,
+    "characters": 66226
+  },
+  {
+    "name": "santa-fe",
+    "source": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-290.pdf",
+    "pages": 37,
+    "characters": 80645
+  }
+]

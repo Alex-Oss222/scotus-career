@@ -1,0 +1,599 @@
+Source file: apprendi_05._Petitioners_Brief.txt
+Character interval: [9000, 32000)
+Verbatim downloaded OCR; no transcription correction.
+
+.J. Super. 147, 698 A.2d 
+1265 (App. Div. 1997). The oral opinion of Superior Court, 
+Law Division, Judge Rushton Ridgway and transcript of 
+motion and sentencing are attached in the Appendix 
+hereto at Pet. App. 95a to 163a. 
+
+
+S 
+
+
+JURISDICTION 
+
+
+The New Jersey Supreme Court entered its judgment 
+on June 24, 1999. Petitioner Charles C. Apprendi, Jr. 
+timely filed a petition for certiorari on September 17, 
+1999. This Court granted the petition on November 29, 
+1999. The Court has jurisdiction pursuant to 28 U.S.C. 
+§ 1257(a). 
+
+
+¢ 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+U.S. Const. amend. V 
+
+
+No person shall be held to answer for a 
+capital, or otherwise infamous crime, unless on 
+a presentment or indictment of a Grand Jury, 
+except in cases arising in the land or naval 
+forces, or in the Militia, when in actual service 
+
+
+in time of War or public danger; nor shall any 
+person be subject for the same offense to be 
+twice put in jeopardy of life or limb, nor shall be 
+compelled in any criminal case to be a witness 
+against himself, nor be deprived of life, liberty, 
+or property, without due process of law; nor 
+shall private property be taken for public use 
+without just compensation. 
+
+
+U.S. Const. amend. VI 
+
+
+In all criminal prosecutions, the accused 
+shall enjoy the right to a speedy and public trial, 
+by an impartial jury of the State and district 
+wherein the crime shall have been committed; 
+which district shall have been previously ascer- 
+tained by law, and to be informed of the nature 
+and cause of the accusation; to be confronted 
+with the witnesses against him; to have com- 
+pulsory process for obtaining witnesses in his 
+favor, and to have the assistance of counsel for 
+his defense. 
+
+
+N.J. Stat. Ann. § 2C:44-3. Criteria for Sentence of 
+Extended Term of Imprisonment. 
+
+
+The court may, upon application of the 
+prosecuting attorney, sentence a person who has 
+been convicted of a crime of the first, second or 
+third degree to an extended term of imprison- 
+ment if it finds one or more of the grounds 
+specified in subsection a., b., c., or f. of this 
+section. The court shall, upon application of the 
+prosecuting attorney, sentence a person who has 
+been convicted of a crime, other than a violation 
+of N.J.S.A. 2C:12-1a., N.J.S.A. 2C:33-4, or a viola- 
+tion of N.J.S.A. 2C:14-2 or 2C:14-3 if the grounds 
+
+
+for the application is purpose to intimidate 
+because of gender, to an extended term if it 
+finds, by a preponderance of the evidence, the 
+grounds in subsection e... . 
+
+
+e. The defendant in committing the crime 
+acted with a purpose to intimidate an individual 
+or group of individuals because of race, color, 
+gender, handicap, religion, sexual orientation or 
+ethnicity. 
+
+
+STATEMENT OF THE CASE 
+
+
+This case squarely presents constitutional issues 
+addressed, but not conclusively resolved, in Jones v. 
+United States, 119 S.Ct. 1215 (1999): the constitutional 
+limitations upon legislative authority to specify how, and 
+by whom, critical facts are determined iii a criminal case. 
+The specific issue here is whether a state legislature can 
+require that a judge will decide, by a mere preponderance 
+of the evidence, a defendant’s mental state during the 
+conduct at issue, and thereby dramatically increase his or 
+her maximum sentence. The New Jersey statute in ques- 
+tion here, N.J. Stat. Ann. § 2C:44-3e., expressly provides 
+that the judge, not the jury, shall decide whether the hate 
+crime statute applies by assessing the evidence under a 
+preponderance of the evidence standard rather than the 
+beyond a reasonable doubt standard. This statute 
+requires the judge to determine the purpose or mental 
+state with which the defendant committed the predicate 
+
+
+act. In this case, such a finding doubled the maximum 
+sentence exposure from ten to twenty years. 
+
+
+It is equally important to emphasize what issues are 
+not addressed in this case. This case is not a challenge to 
+New Jersey's ability to make criminally liable those per- 
+sons who engage in hate crimes. Nor is it a challenge to 
+the State’s ability to define the facts whose proof is essen- 
+tial in order to obtain convictions of those whose conduct 
+constitutes what the State defines as a “hate crime.” 
+Instead, this case concerns the constitutionality of the 
+procedures used to establish such liability. Put simply, it 
+is about whether, as the United States Constitution 
+demands, the facts which constitute such crimes are to be 
+determined, after fair notice and beyond a reasonable 
+doubt, by the fact-finding judgment of a jury or, as was 
+the case here, a state may relegate that question to the 
+individual discretion of a judge using the minimum pos- 
+sible standard of proof. 
+
+
+In 1990 the New Jersey Legislature enacted the “Eth- 
+nic Intimidation Act,” L. 1990, c. 282 (“the Act”), to 
+expand the State’s preexisting hate crime statute, L. 1981, 
+c. 282. The Act created aggravated forms of assault and 
+harassment where a defendant acts with a biased purpose 
+in selecting a victim (elevating a disorderly persons 
+offense for assault and a petty disorderly persons offense 
+for harassment to crimes of the fourth degree). See N.J. 
+Stat. Ann. § 2C:12-le., 33-4d. More importantly, the Act 
+added a blanket provision, N.J. Stat. Ann. § 2C:44-3e., 
+requiring an extended term of imprisonment for other 
+crimes of the first, second, or third degree where “the 
+defendant in committing the crime acted with a purpose 
+to intimidate an individual or group of individuals 
+
+
+ia 
+
+
+because of race, color, gender, handicap, religion, sexual 
+orientation or ethnicity.” This has the effect in Petitioner’s 
+case, and in many other cases, of doubling the maximum 
+sentence for the primary offense.' N.J. Stat. Ann. 
+§ 2C:44-3e. effectively gives to the judge, rather than the 
+jury, the responsibility to determine whether an individ- 
+ual committed a hate crime, and it directs the judge to 
+make that determination based on a mere preponderance 
+of the evidence. 
+
+
+On December 22, 1994, Petitioner Charles Apprendi, 
+Jr. (“Petitioner”), a thirty-seven year old pharmacist and 
+first-time offender, was arrested for shooting at the home 
+of one of his neighbors. Mr. Apprendi is white; the neigh- 
+bors are black. He ultimately negotiated a plea agreement 
+whereby he pled guilty to two counts of possession of a 
+firearm for an unlawful purpose (for the December 22 
+incident and one previous incident), a second degree 
+crime, N.J. Stat. Ann. § 2C:39-4a., and to one count of 
+unlawful possession of a prohibited weapon, N.J. Stat. 
+Ann. § 2C:39-3a., a third degree crime. Under the terms of 
+the plea agreement, the State reserved the right to seek an 
+extended sentence under N.J. Stat. Ann. § 2C:44-3e. for 
+the December 22 shooting incident, and Petitioner 
+reserved the right to challenge the constitutionality of 
+that section. 
+
+
+1 Petitioner’s primary crime (possession of a weapon for 
+an unlawful purpose) would ordinarily be subject to a prison 
+term of between 5 and 10 years. See N.J. Stat. Ann. § 2C:39-4a., 
+43-6a.(2). Under N.J. Stat. Ann. § 2C:44-3e., the maximum and 
+minimum sentence for Petitioner’s second degree offense 
+doubles to between 10 and 20 years. Compare id. with N.J. Stat. 
+Ann. § 2C:43-7a.(3). 
+
+
+The shooting at issue occurred at approximately 2:04 
+a.m. on December 22, 1994. At approximately 3:05 a.m. 
+that same morning Petitioner confessed to Vineland 
+Police that he had fired approximately four or five rounds 
+from a .22 caliber rifle at the house. No written or 
+recorded oral statement was given by Petitioner, but an 
+officer did testify at a plenary hearing before the trial 
+court that at approximately 6:04 a.m. Petitioner “told me 
+he fired shots at the home because there were black 
+people living there.” (Pet. App. 175a, 250a.) Defendant's 
+psychological infirmities were explored in a September 5, 
+1995 plenary hearing, at which time Judge Rushton Ridg- 
+way heard testimony from Clinical and Forensic Psychol- 
+ogist Gerald Cooke, character witnesses, and Defendant 
+Charles Apprendi. Dr. Cooke opined that the Petitioner 
+shot at the house because he suffered from an impulsive 
+destructive disorder brought about when the front door 
+of the house caught his attention because it was purple 
+with a big pane of glass. 
+
+
+Petitioner appeared at a plenary hearing before Judge 
+Ridgway on September 5, 1995 to determine his state of 
+mind at the time of the shooting. (Pet. App. 164a-301a.) 
+At the hearing, Petitioner presented evidence to suggest 
+that he did not have the requisite purpose or intent 
+necessary to support a finding that he had violated the 
+hate crime statute. He presented the testimony and affi- 
+davits of several character witnesses, black and white, 
+who testified that Mr. Apprendi regularly interacted with 
+and socialized with African-Americans and did not have 
+a reputation among his family, friends, and acquaintances 
+for racially prejudiced attitudes, statements, or actions. 
+(Pet. App. 183a-205a.) 
+
+
+Petitioner denied that he had acted out of racial bias 
+(Pet. App. 242a) or that he harbored any racist views. 
+(Pet. App. 245a.) He testified that he had had several 
+vodka and tonic drinks in the hours prior to the shooting 
+incident and that he had taken a number of prescription 
+medications earlier that day and evening: “a couple” of 
+Lomotil (a prescription medication for stomach prob- 
+lems), one Dilaudid (an opiate), and several Ativans 
+(tranquilizers). (Pet. App. 238a-239a.) He testified that the 
+combined effects of the drugs, alcohol and physical 
+exhaustion left him “dizzy” and “out of it,” “like a - a 
+stoned drunk,” intoxicated, even if he did not appear so. 
+(Pet. App. 249a.) Immediately after the shooting incident 
+he felt “strange,” as if he were “in a cloud somewhere.” 
+(Pet. App. 237a.) 
+
+
+Mr. Apprendi testified that the interrogating officer 
+first mentioned race during the interrogation (Pet. App. 
+24la) and that he gave a false confession to the officer 
+because he was irrational and scared. (Pet. App. 242a.) He 
+testified that the interrogating officer tried to intimidate 
+him by telling him that there were “a lot of homosexuals 
+and AIDS in jail” and a large prison population of blacks 
+who would assault him when they discovered the nature 
+of his crime. Petitioner testified that the officer promised 
+that if he (Apprendi) cooperated, the officer would try to 
+make it easier on him. (Pet. App. 242a-243a.) As to the 
+shooting, Mr. Apprendi testified that he fired at his 
+neighbors’ front door because the glass and purple door 
+attracted his attention, sparking an urge to destroy it. 
+(Pet. App. 251a.) 
+
+
+The defense presented the unrebutted testimony of 
+Dr. Cooke, who had examined Mr. Apprendi on February 
+15, 1995 and given him a battery of personality and 
+psychological tests. Dr. Cooke testified that Petitioner 
+told him that he shot at the door because he was drunk 
+and drug-intoxicated, and the door caught his attention 
+because it was purple and had a large plate of glass. (Pet. 
+App. at 210a-21la.) Dr. Cooke opined that this type of 
+behavior was consistent with Petitioner's obsessive-com- 
+pulsive personality disorder and alcohol abuse. (Pet. 
+App. 216a, 234a.) 
+
+
+Dr. Cooke diagnosed that Petitioner suffers from an 
+obsessive compulsive disorder, which includes anxiety, 
+gastrointestinal symptoms, kleptomania, loss of control of 
+anger impulses, depression, and drug and alcohol abuse. 
+(Pet. App. 216a-217a.) Dr. Cooke suggested that the 
+impulse disorder of kleptomania explained Mr. Appren- 
+di’s accumulation of guns, ammunition, and various 
+other tools and metal objects. Id. 
+
+
+Dr. Cooke further testified that his clinical examina- 
+tion of Petitioner revealed that he also suffered from a 
+cyclothymic condition, similar to a bipolar disorder, 
+where “the individual’s moods go from being excited and 
+hypomanic and elated to being depressed and lethargic.” 
+Id. On direct examination, Dr. Cooke testified that in the 
+fall and winter of 1994 the Petitioner's psychological 
+disorders and the drugs and alcohol produced a synergis- 
+tic effect: “You've got the combination with an individual 
+who is anxious and over-controlled, but who is disin- 
+hibited under the effect of those drugs and alcohol. And 
+you've got an individual who when he becomes emo- 
+tional also shows interference. So all three factors really 
+
+
+== 
+
+
+combine into fear of [sic] judgment and reasoning and 
+impulse control.”? (Pet. App. 218a.) 
+
+
+With respect to Mr. Apprendi’s purported confession 
+during the interrogation that he shot at the house because 
+a black family was living there, Dr. Cooke testified as 
+follows: 
+
+
+Here we have a very anxious man. One who 
+feels very vulnerable. One who feels very inade- 
+quate. And one who would say or do just about 
+anything to get out of a frightening anxiety- 
+arousing situation. 
+
+
+Q. Even tell a lie? 
+
+
+A. Tell somebody a lie if it was what he 
+thought that person wanted to hear in order 
+to stop the interrogation and let him out of 
+the situation. . . . I'm only saying that he 
+has the kind of personality of an individual 
+who would do that to get out of this kind of 
+situation. (Pet. App. 219a.)° 
+
+
+? There appears to be an error in the transcript here. To 
+make sense, the sentence should read: “So all three factors really 
+combine to interfere with judgment and reasoning and impulse 
+control.” 
+
+
+* Later, during cross examination, Dr. Cooke explained 
+further that “his personality is consistent with an individual 
+who is an interrogation situation where his anxiety would be 
+aroused in the kind of person that would just - you know, in his 
+own mind he'd be saying to himself, ‘I’ve got to tell them 
+whatever they want to hear so I can get out of this.’ ” (Pet. App. 
+224a-225a.) 
+
+
+10 
+
+
+At the plenary hearing and sentencing,* the prosecu- 
+tion submitted the following evidence to the court: the 
+testimony of the officer who interrogated Mr. Apprendi 
+immediately following his arrest (who testified that the 
+police did not attempt to coerce Mr. Apprendi or to 
+suggest to him the racial bias motive (Pet. App. 286a), 
+that Mr. Apprendi appeared lucid during the interroga- 
+tion (Pet. App. 284a), and that he orally admitted shoot- 
+ing at the house on two instances because black people 
+lived there (Pet. App. 176a)); and the testimony of Mr. 
+Michael Fowlkes (the homeowner). Mr. Fowlkes testified 
+that his family was the only black family that lived in the 
+immediate neighborhood (Pet. App. 102a), that the home 
+had been struck by bullets on four occasions (Pet. App. 
+104a-105a), and that his front door was constructed of 
+clear glass with a six-inch burgundy border. (Pet. App. 
+108a.) 
+
+
+After hearing all the evidence, Judge Ridgway noted 
+that the issue of racial motivation “is one which the 
+legislature has left to the discretion of the Court” to be 
+determined by a “preponderance of the evidence.” (Pet. 
+App. 139a.) As to Petitioner’s particular mental state, 
+Judge Ridgway declared: 
+
+
+And the Court also takes into consideration that, 
+as I said before, I’m satisfied the defendant has a 
+psychiatric problem. And I’m satisfied, quite 
+frankly, that this racial bias, would not have 
+
+
+4 At the request of the prosecutor, the court permitted the 
+owner of the home to testify at Petitioner's sentencing on 
+September 29, 1997. 
+
+
+11 
+
+
+manifested itself, except for the psychiatric 
+problem that he has. (Pet. App. 160a.) 
+
+
+This statement makes unclear whether Judge Ridg- 
+way would have found Petitioner guilty of the hate crime 
+had the standard of proof been beyond a reasonable 
+doubt. What is clear is that Judge Ridgway invoked this 
+enhanced penalty by a standard of mere preponderance 
+of the evidence. After summarizing the evidence for and 
+against a finding of a racially biased purpose, (Pet. App. 
+139a-144a), Judge Ridgway ultimately concluded that the 
+standard of proof had been met. (Pet. App. 144a.) Accord- 
+ingly, he applied the hate crime enhancement and sen- 
+tenced Petitioner to twelve years of incarceration on the 
+first firearm count, with a four-year period of parole 
+ineligibility; seven years on the remaining firearm count; 
+and three years on the prohibited weapons count, with 
+the sentences to run concurrently. (Pet. App. 161a.) 
+
+
+Mr. Apprendi appealed his enhanced sentence under 
+N.J. Stat. Ann. § 2C:44-3e., on the grounds that it was 
+unconstitutionally vague and violated his constitutional 
+right to due process by permitting a judge to determine 
+his state of mind based on a preponderance of the evi- 
+dence. (Pet. App. 82a.) The Superior Court of New Jersey, 
+Appellate Division, affirmed the enhanced sentence. New 
+Jersey v. Charles Apprendi, Jr., 698 A.2d 1265 (N.J. Super. 
+Ct. App. Div. 1997) (Pet. App. 67a-94a). The Appellate 
+Division held that since the New Jersey legislature had 
+not defined the “purpose to intimidate” as an element of 
+the crime, the State did not have to prove it beyond a 
+reasonable doubt. (Pet. App 87a.) The Appellate Division 
+drew a substantive distinction between “motive” and 
+“intent” and concluded that N.J. Stat. Ann. § 2C:44-3e. 
+
+
+12 
+
+
+merely addressed motive - a traditional sentencing ele- 
+ment under New Jersey law.° (Pet. App. 89a-93a.) 
+
+
+In a dissenting opinion, Judge Wecker observed that 
+the definition of “element” in the New Jersey Code of 
+Criminal Conduct itself, as well as the historical treat- 
+ment of a defendant’s mental state, dictated that the 
+“purpose to intimidate” described in N.J. Stat. Ann. 
+§ 2C:44-3e. be treated as an “element” subject to the 
+constitutional requirements of a jury determination and 
+proof beyond a reasonable doubt. (Pet. App. 71a-75a.) She 
+concluded that “[t]he State’s power to define away the 
+elements of the crime cannot extend . . . to defining away 
+the actor’s culpable purpose as an element of the crime - 
+a crime for which this defendant received a sentence 
+beyond the ordinary term for a second degree offense.” 
+(Pet. App. 70a.) 
+
+
+The Supreme Court of New Jersey affirmed the deci- 
+sion of the Appellate Division in New Jersey v. Charles 
+Apprendi, ]r., 304 N.J. Super. 147, 731 A.2d 485 (N.J. 1999) 
+(Pet. App. la-66a.) The court applied the five-factor test 
+culled from McMillan v. Pennsylvania, 477 U.S. 79 (1986), 
+and concluded that the “hate-crime enhancer” in N.J. 
+Stat. Ann. § 2C:44-3e. approximates the “visible posses- 
+sion of a firearm” sentencing factor in McMillan in all 
+respects except that it alters the maximum penalty for the 
+underlying crime. (Pet. App. 20a-21a). The court did not 
+find the increase in the maximum penalty significant in 
+
+
+° The Court rejected the vagueness argument based on 
+prior precedent and recent amendments to the statute, made 
+prior to Apprendi’s sentence, that remedied the alleged 
+vagueness. 
+
+
+— 
+
+
+13 
+
+
+light of this Court’s decision in Almendarez-Torres v. 
+United States, 523 U.S. 224 (1998), which it believed to be 
+controlling. (Pet. App. 19a-20a, 22a.) The court suggested 
+that N.J. Stat. Ann. § 2C:44-3e. actually helped criminal 
+defendants by excluding evidence of bias that would 
+otherwise inflame the jury. (Pet. App. 24a.) Nevertheless, 
+the court recognized that its holding was necessarily 
+tentative because “the final word on this subject will have 
+to come from the United States Supreme Court.” Id. 
+
+
+Two Justices dissented, concluding that the deter- 
+mination that “a defendant’s mental state in committing 
+the subject offense encompassed a purpose to intimidate 
+because of race, necessarily involves a finding so integral 
+to the charged offense that it must be characterized as an 
+element thereof.” (Pet. App. 30a.) The dissent emphasized 
+that N.J. Stat. Ann. § 2C:44-3e., unlike the recidivism at 
+issue in Almendarez-Torres and the serious bodily harm at 
+issue in Jones, involves the conduct of a criminal defen- 
+dant, specifically, his or her purpose in committing the 
+charged offense. (See Pet. App. 60a (citing Jones, 119 S.Ct. 
+at 1238 (Kennedy, J., dissenting)).) The dissent further 
+noted that McMillan v. Pennsylvania, 477 U.S. 79 (1986), 
+which upheld the visible possession of a firearm as a 
+sentencing factor, did not “require[] the sentencer to 
+make findings of fact, such as are required by N.J. Stat. 
+Ann. § 2C:44-3e., about the mental state of a defendant 
+when he committed the subject offense.” (Pet. App. 64a.). 
+Finally, the dissent noted that the majority’s concern 
+about inflaming the jury could be readily addressed by 
+bifurcating the charges, a practice followed in New Jersey 
+in other instances, such as capital cases. 
+
+
+¢ 
+
+
+14 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The New Jersey Supreme Court erred when it con- 
+cluded that the “penalty enhancement” provision in N.]. 
+Stat. Ann. § 2C:44-3e. does not offend the Constitution. 
+The decision should be reversed. Where, as here, the 
+determination of a criminal defendant’s mental state can 
+increase the maximum penalty for a crime, the Constitu- 
+tion requires that the determination be made by a jury 
+and proven beyond a reasonable doubt. New Jersey can- 
+not avoid the requirements of the Fifth and Sixth Amend- 
+ments by merely defining the fundamental element of its 
+hate crime statute as a sentencing factor. 
+
+
+S 
+
+
+———— 
+
+
+15 
+
+
+ARGUMENT 
+
+
+I. BEFORE DOUBLING A STATUTORY MAXIMUM 
+SENTENCE FROM TEN YEARS TO TWENTY 
+YEARS ON THE BASIS OF A DEFENDANT'S MEN- 
+TAL STATE, THE PROSECUTION MUST PROVE 
+THE EXISTENCE OF THAT MENTAL STATE 
+BEYOND A REASONABLE DOUBT TO A JURY. 
+
+
+A. Under The Due Process Clause Of The Fifth 
+Amendment And The Notice And Jury Trial 
+Guarantees Of The Sixth Amendment Any Fact 
+(Other Than Recidivism) Including A Defen- 
+dant’s Mental State, That Increases The Maxi- 
+mum Penalty For A Crime Must Be Charged In 
+An Indictment, Submitted To A Jury And 
+Proven Beyond A Reasonable Doubt. 
+
+
+The New Jersey statute at issue here imposes upon 
+the defendant charged with a “racially biased crime”® 
+both a substantially lengthened imprisonment and the 
+stigma of bigotry on the slimmest burden of proof recog- 
+nized in American jurisprudence - a preponderance of 
+the evidence. This is not sustainable. 
+
+
+N.J. Stat. Ann. § 2C:44-3e. violates the due process 
+protections guaranteed by the Fifth Amendment. The 
+Due Process Clause “protects the accused against convic- 
+tion except upon proof beyond a reasonable doubt of 
+every fact necessary to constitute the crime with which he 
+is charged.” In re Winship, 397 U.S. 358, 364 (1970). The 
+justification for this principle is clear: 
+
+
+* Primarily for purposes of convenience, but also because 
+the case before the Court involves alleged racial bias, we will 
+refer to the mens rea involved as “racial bias,” although the reach 
+of the statute includes other prejudicial purposes as well. 
+
+
+16 
+
+
+The reasonable doubt standard plays a vital role 
+in the American sche

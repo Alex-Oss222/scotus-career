@@ -1,0 +1,898 @@
+7 Supreme Court, U.S. 
+FILED 
+Jan 2§ ae JAN 28 2000 
+No. 99-5525 shiisimeeed 
+In The ; 
+
+
+SUPREME COURT OF THE UNITED STATES 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+
+
+Vv. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. . 
+
+
+On Writ of Certiorari to the 
+Fourth Circuit Court of Appeals 
+
+
+BRIEF AMICUS CURIAE OF THE RUTHERFORD 
+INSTITUTE IN SUPPORT OF PETITIONER 
+
+
+John W. Whitehead James Joseph Lynch, Jr. 
+Maria E. Selig (Counsel of Record) 
+THE RUTHERFORD INSTITUTE 2740 Howe Avenue 
+1445 East Rio Road Sacramento, California 
+Charlottesville, Virginia 95821 
+
+22906 (916) 448-7871 
+
+(804) 978-3888 
+
+Jan 28, 2000 
+
+
+7,ino 
+
+
+‘i 
+QUESTION PRESENTED FOR REVIEW 
+
+
+Whether the passage of 18 U.S.C. § 3501 was an 
+unconstitutional attempt by Congress to legislatively overrule 
+
+
+the Supreme Court's decision in Miranda v. Arizona, 384 U.S. 
+
+
+436 (1966)? 
+
+
+. 
+— 
+
+
+-ill- 
+TABLE OF CONTENTS 
+QUESTION PRESENTED FOR REVIEW. ..............cccceseeeseeees il 
+TABLE OF AU TROURRE TE Bist occccccscescsccccecsscesansenseccnsseusessneenetil iv 
+STATEMENT OF AMICUS CURIAE INTEREST AND 
+FUT TE Feo cocccccccsesensestsonesonusnsensnietenesienmanieinaenaiiiiall l 
+SUMMARY OF ARGUMENT............ccccssesssssesseseesssesseeseesees 2 
+ARI FUIGIIINT 00 cccccoccccceesccescossescostsnsdmnnesneneiaunsasianinnanaamiall 4 
+
+
+I. CONGRESS HAS BEEN GIVEN THE POWER “TO 
+ENFORCE,” NOT THE POWER “TO DETERMINE” WHAT 
+CONSTITUTES A CONSTITUTIONAL VIOLATION.......... 4 
+
+
+I]. MIRANDA SERVES AS A TIME-TESTED, VENERABLE 
+AND IMPORTANT PROPHYLACTIC PROTECTING AN 
+ACCUSED'S 5TH AMENDMENT RIGHT TO REMAIN 
+SILENT AND 6TH AMENDMENT RIGHT TO PUBLIC 
+
+
+-ivV- 
+TABLE OF AUTHORITIES 
+Case 
+Aguilar v. Texas, 378 U.S. 108 (1964) .............. 11 
+
+
+Arkansas Educational Television Comm'n. v. Forbes, 523 U.S. 
+EEE l 
+
+
+Bivens v. Six Unknown Agents of the FBI, 403 U.S. 388 (1971) 
+PME CL eee hebeneeeeseccccedcccecceses 5,14 
+
+
+Boerne v. P.F. Flores, 521 U.S. 511 (1997) ... 3, 4,6, 8,9 
+
+
+Bolling v. Sharpe, 347 U.S. 497 (1954). . 2... 60. eee. 5 
+Boyd v. United States, 116 U.S. 616 (1886)........... 12 
+Brown v. Mississippi, 297 U.S. 278 (1936) ........... 13 
+Butz v. Economou, 438 U.S. 478 (1975). ..... 2... 6... 5 
+Cantwell v. Connecticut, 310 U.S. 296 (1940) .......... 8 
+City of Rome v. United States, 446 U.S. 156 (1980) : 
+Davidson v. New Orleans, 96 U.S. 97 (1878) ......... 10 
+Duncan v. Louisiana, 391 U.S. 145 (1968) ........... 10 
+Escobedo v. Illinois, 378 U.S. 478 (1964) ... 2.6.62... 12 
+
+
+Ex parte Virginia, 100 U.S. 339 (1880) ............... 4 
+
+
+-V- 
+Ferguson v. Georgia, 365 U.S. 570 (1961) ........---. 10 
+Fitzpatrick v. Bitzer, 427 U.S. 445 (1976) ............. 7 
+Franks v. Delaware, 438 U.S. 154 (1973) 7... 2... 6. 14 
+
+
+Frazee v. Dept. of Employment Sec., 489 U.S. 829 (1989) 1 
+Harris v. New York, 401 U.S. 222 (1971) ............ 13 
+Illinois v. Gates, 462 U.S. 213, 103 S.Ct. 2317 (1983) .. 11 
+
+
+Illinois v. Wardlow, 119 S.Ct. 1573 (cert. granted), Sup. Ct. 
+
+
+No. 98-1036 (January 12, 2000) .............00000e l 
+In re Oliver, 333 U.S. 257 (1948) ............22005. 13 
+James Everard’s Breweries v. Day, 265 U.S. 545 (1924) , 
+James v. Illinois, 493 U.S. 307 (1990)... 2... oe ee ee 13 
+Katzenbach v. Morgan, 384 U.S. 641 (1966) ..... 6, 7,15 
+Lassiter v. Northampton County Bd. of Elections, 360 U.S. 45 
+GREED ccccnesteceutdaceeecéavsucctasebedtundws 7 
+Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803) ...... 
+
+concedustesnekecénesectescoonnieeastenens 4,9, 15 
+McCulloch v. Maryland, 4 Wheat. 316 (1819).......... 4 
+
+
+Michigan v. Harvey, 494 U.S. 344 (1990) ............ 12 
+
+
+-vi- 
+
+
+Michigan v. Jackson, 475 U.S. 625 (1986) ........... 12 
+Mincey v. Arizona, 437 U.S. 385 (1978) ............. 13 
+Miranda v. Arizona, 384 U.S. 436 (1966) ......... passim 
+Murrays ' Lessee v. Hoboken Land & Improvement, 59 U.S. (18 
+SEED Cd ed ndndedcbavducucisenvasedes 10 
+Opper v. United States, 348 U.S. 84 (1954)........... 11 
+Oregon v. Mitchell, 400'U.S. 112 (1970) ........... 7,8 
+People v. Terry, 99 Cal.App.2d 579 (1950) .......... 13 
+"Screws v. United States, 325 U.S. 91 (1945) .......... 14 
+
+
+Slack v. McDaniel, 119 S.Ct. 1025 (cert. granted), Sup.Ct. No. 
+98-6322 (October Term 1998) .........cccccccccees l 
+
+
+South Carolina v. Katzenbach, 383 U.S. 301 (1966) ... 7,8 
+
+
+Spinelli v. United States, 394 U.S. 419 (1969) ......... 11 
+United States v. Cianfrani, 573 F.2d 835 (34.1978)... .. 13 
+
+
+United States v. Felix-Jerez, 667 F.2d 1297 (9 Cir.1982) 12 
+
+
+United States v. Henry, 447 U.S. 264 (1980) .......... 13 
+United States v. Price, 383 U.S. 787 (1966) .......... 14 
+Walder v. United States, 347 U.S. 64 (1954) .......... 12 
+
+
+-vii- 
+Warden v. Hayden, 387 U.S. 294 (1967) ............. 12 
+
+
+Wayman v. Southhard, 23 U.S. (10 Wheat.) 1 (1825) ... 6, 
+
+
+Wong Sun v. United States, 371 U.S. 471 (1963) .... 11,12 
+
+
+Wyoming v. Houghton, 526 U.S. 295 (1999) ........... l 
+Constitutions and Statutes 
+
+United States Const., Art. I, § 8, clause9 ............. 5 
+United States Const., Art. I, § 8, clause 18 .......... 5, 6 
+United States Comst., Ast. 1, § 2 2... 2... cece recess 5 
+United States Const., Art. Il], §2,cl.2 ............... 5 
+United States Const., 5" Amendment............. passim 
+United States Const., 6" Amendment............. passim 
+United States Const., 14th Amendment, §5........ passim 
+United States Const., 15th Amendment, §2............ 7 
+United States Const., 18th Amendment ............... 7 
+PPG RIIPET ERED osc nentciscdccdedeesuctess 3, 10 
+
+
+Pe UU bev ncgecatasoseuduadoeéstuns passim 
+
+
+-Viii- 
+Miscellaneous 
+1 Stephen, History of the Criminal Law of England ..... 10 
+
+
+10 Halsbury’s Statutes of England (4th ed.) (Vol. 10), 
+Constitutional Law, 25 Edw. | (Magna Carta)(1297), Notes 93 
+
+
+kad emake db este Meee behets ee ketenes 1] 
+Barrett, et al; Constitutional Law, Cases and Materials 
+(University Casebook Series, 4th ed., 1973)........... 10 
+McKechnie, MAGNA CARTA; A COMMENTARY ON THE GREAT 
+CHARTER OF KING JOHN. ...............000eceeeee 11 
+Rotunda, Treatise on Constitutional Law ............. 10 
+
+
+Saltzburg, Stephen A. & Daniel J. Capra, American Criminal 
+PY EEE wasouesssccecadcdnceuctes 4 
+
+
+Schwartz, The Bill of Rights; A Documentary History (1971) © 
+bcnndepaesece sebdencdnesedeecendbaddeseneséee 10 
+
+
+The Federalist, No. 45, p. 292 (C. Rossiter ed. 1961) (J. 
+PD i:nbs ws4e-deddacthdbdaentddeadetdenatanhs 4 
+
+
+TO THE HONORABLE CHIEF JUSTICE AND ASSOCIATE 
+JUSTICES OF THE SUPREME COURT OF THE UNITED 
+STATES: 
+
+
+STATEMENT OF AMICUS CURIAE 
+INTEREST AND INTRODUCTION' 
+
+
+The Rutherford Institute is an internationa!, non-profit civil 
+liberties organization with offices in Charlottesville, Virginia and 
+internationally. The Institute, founded in 1982 by its President, 
+John W. Whitehead, educates ard litigates on behalf of 
+constitutional and civil liberties. Attorneys affiliated with the 
+Institute have filed petitions for writ of certiorari in the United 
+States Supreme Court in more than two dozen cases, and 
+certiorari has been accepted in two seminal First Amendment 
+cases; Frazee v. Dept. of Employment Sec., 489 U.S. 829 
+(1989) and Arkansas Educational Television Comm'n. v. 
+Forbes, 523 U.S. 666 (1998). Institute attorneys have filed 
+over three dozen amicus curiae briefs in the United States 
+Supreme Court, including recent criminal justice cases namely, 
+Wyoming v. Houghton, 526 U.S. 295 (1999), Slack v. 
+McDaniel, 119 S.Ct. 1025 (cert. granted), Sup.Ct. No. 
+98-6322 (October Term 1998), and Jilinois v. Wardlow, 119 
+S.Ct. 1573 (cert. granted), Sup. Ct. No. 98-1036 (January 12, 
+2000), as well as a multitude of amicus curiae briefs in the 
+federal and state courts of appeals. Institute attorneys currently 
+handle several hundred cases nationaily, including numerous 
+fourth Amendment cases. The ‘Institute has published 
+
+
+1 Amicus curiae The Rutherford Institute files this brief with the consent 
+of counsel for both parties. Copies of letters of consent from the parties’ 
+counsel are on file with the Clerk of the Court. Counsel for The Rutherford 
+Institute authored this brief in its entirety. No person or entity, other than 
+the Institute, its supporters, or its counsel, made a monetary contribution 
+to the preparation or submission of this brief. 
+
+
+2. 
+
+
+educational materials and taught continuing legal education 
+classes in this area as well. 
+
+
+In this articular case, the status of the Miranda Doctrine 
+is a deeply ingrained criminal defense tool. It ought not to be 
+discarded, if at all, without at least a full scrutiny of its origins, 
+the purpose it serves, and the relationship between this Court, 
+the Congress, and the limitations placed on Congressional 
+power both in the Bill of Rights and Section 5 of the 14th 
+Amendment. With its depth and breadth of knowledge on this 
+subject, The Rutherford Institute believes that the accompanying 
+brief addresses areas related to the issues raised which this 
+Court should consider in reaching its decision. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Congress enacted 18 U.S.C. § 3501 in direct response to 
+this Court’s decision in Miranda vy. Arizona, 384 U.S. 436 
+(1966) with the clear intent of restoring voluntariness as the test 
+for admitting confessions in federal court. However, under our 
+Constitution, the Federal Government is one of the enumerated 
+powers. The judicial authority to determine the constitutionality 
+of laws, in cases and controversies, is based on the premise that 
+the “powers of the legislature are defined and limited; and that 
+those limits may not be mistaken, or forgotten, the constitution 
+is written.” Congress’ power under §5 of the 14th Amendment, 
+however, extends only to “enforc[ing]}” the provisions of the Bill 
+of Rights. This Court has described this power as “remedial.” 
+The design of the Amendment and the text of §5 are 
+inconsistent with the suggestion that Congress has the power to 
+decree the substance of the Bill of Right’s restrictions. 
+Legislation, which alters the meaning of the Bill of Rights, 
+cannot be said to be enforcing it. Congress does not enforce a 
+constitutional right by changing what the right is. It has been 
+
+
+x % 
+
+given the power “to enforce,” not the power to determine what 
+constitutes a constitutional violation. Here, Congress has 
+attempted to redefine the rights of an accused under the Sth 
+Amendment and 6th Amendment. This is neither remedial nor 
+is it enforcement of a right, but rather, it is a determination of 
+the rights of the accused. This determination is the exclusive 
+domain of this Court. E.g., Boerne v. P.F. Flores, 521 U.S. 
+511 (1997). 
+
+
+The Miranda Doctrine is an imbedded criminal defense 
+doctrine whose roots are found in the Magna Carta of 1215. 
+This Court has stricken statements of the accused, long before 
+Miranda, on a mere showing that there was no corroborating 
+evidence that the defendant gave the statement. Miranda serves 
+as a prophylactic reminder to the accused that he has rights, but 
+also to the officers involved that there are limitations on what 
+may be done with, or to, the accused. Moreover, this 
+prophylactic serves to protect the important 6th Amendment 
+right to public trial in that it assures the public that the accused 
+is treated fairly at a trial, if that is the aecused's choice, and not 
+condemned in a "star chamber" proceeding. The rationale of 
+this Court always has been, and always should be, "better to 
+allow a guilty person go free rather than risk convicting an 
+innocent person on tainted evidence.” 
+
+
+For the foregoing reasons, the court should reverse the 4th 
+Circuit on its ruling that "Congress, pursuant to its power to 
+establish the rules of evidence and procedure in the federal 
+courts, acted well within its authority in enacting 18 U.S.C. § 
+3501, and hence, rather than Miranda governs the admissibility 
+of confessions in federal court.” Opinion at 166 F.3d 667. 
+
+
+-4- 
+
+
+ARGUMENT 
+
+
+I. CONGRESS HAS BEEN GIVEN THE POWER “TO 
+ENFORCE,” NOT THE POWER “TO DETERMINE” 
+WHAT CONSTITUTES A CONSTITUTIONAL 
+VIOLATION 
+
+
+Congress enacted 18 U.S.C., § 3501 in direct response to 
+this Court’s decision in Miranda v. Arizona, 384 U.S. 436 
+(1966) with the clear intent of restoring voluntariness as the test 
+for admitting confessions in federal court. Opinion below, 166 
+F.3d at 667, 685-86 (1999), citing Stephen A. Saltzburg & 
+Daniel J. Capra, American Criminal Procedure 545 (Sth ed. 
+1996). Assuming, arguendo, that was Congress’ intent, 
+Congress crossed the line and did that which it may not do. 
+E.g., Boerne v. P.F. Flores, 521 U.S. 511 (1997). 
+
+
+Under our Constitution, the Federal Government is one of 
+enumerated powers. McCulloch v. Maryland, 4 Wheat. 316, 
+405 (1819); see also The Federalist No. 45, p. 292 (C. Rossiter 
+ed. 1961) (J. Madison). The judicial authority to determine the 
+constitutionality of laws, in cases and controversies, is based on 
+the premise that the “powers of the legislature are defined and 
+limited; and that those limits may not be mistaken, or forgotten, 
+the constitution is written.” Marbury v. Madison, 5 U.S. (1 
+Cranch) 137, 176(1803). E.g., Boerne v. P.F. Flores, 521 U.S. 
+511, 515 (1997). 
+
+
+Whether the Congress relied on its powers under the 
+"necessary and proper" clause or on the 14th Amendment in 
+passing § 3501 is not at all clear. Opinion below, 116 F.3d 667, 
+
+
+2 The scope of protection afforded by the Bill of Rights és the same, 
+whether asserted against state officials or federal officials. 
+
+
+2. 
+687-88. The Fourteenth Amendment provides,’ in relevant part: 
+
+
+“Section 5. The Congress shall have power to enforce, 
+by appropriate legislation, the provisions of this article.” 
+
+
+The parties disagree over whether § 3501 is a proper 
+exercise of Congress’ power to legislate. There are two sources 
+which, arguably, support Congressional authority, to wit § 5 of 
+the 14th Amendment “to enforce” by “appropriate legislation” 
+the constitutional guarantee that no State shall deprive any 
+person of “life, liberty, or property, without due process of law” 
+nor deny any person “equal protection of the laws.” The other 
+would be Art. I, § 8, clause 18, the so-called "necessary and 
+proper” clause.‘ The court of appeals did not even address this 
+
+
+> While the 14th Amendment appears to be directed at the several — 
+States, it does not negate the right of Congress to enforce the Bill of 
+Rights as against the federal government. E.g., Bivens v. Six 
+Unknown Agents of the FBI, 403 U.S. 388 (1971); Butz v. 
+Economou, 438 U.S. 478 (1975) (abolishing distinctions in liability 
+for federal government employees acting under color of law and state 
+employees acting under color of law); Bolling v. Sharpe, 347 U.S. 
+497 (1954) (recognizing an “equal protection” element to the “due 
+process” clause of the 5" Amendment). 
+
+« Art. I, § 8, clause 9 grants Congress the power "to constitute 
+tribunals inferior to the Supreme Court". Clause 18 grants authority 
+"To make all Laws which shall be necessary and proper for carrying 
+into Execution the foregoing Powers, and all other Powers vested by 
+this Constitution in the Government of the United States, or in any 
+Department or Officer thereof." Art. III, § 1 provides, "The judicial 
+Power of the United States, shall be vested in one supreme Court, and 
+in such inferior Courts as the Congress may from time to time 
+ordain and establish." (Emphasis added.) Art. III, § 2 clause 2 
+states, “In all Cases affecting Ambassadors, other public Ministers 
+and Consuls, and those in which a State shall be Party, the supreme 
+Court shall have original Jurisdiction. In all the other Cases before 
+
+
+-6- 
+
+
+issue, finding only that Congress had the power, without 
+specifying where in the Constitution the power is created. 
+Opinion’ below, 166 F.3d, at 687-88. The court of appeals 
+looked only to see if the rule were constitutionally required. /d. 
+At this juncture, for the sake of clarity and continuity, the 
+Court’s amicus will assume that the rule is constitutionally 
+required for the sake of discussing whether, if so, Congress can 
+overrule Miranda. In a subsequent section, the Court’s amicus 
+will discuss Miranda and whether it is constitutionally 
+mandated. 
+
+
+All must acknowledge that both Art. I, § 8, clause 18 and 
+§5 of the 14th Amendment are “a positive grant of legislative 
+power’ to Congress, Katzenbach v. Morgan, 384 U.S. 641,651 
+(1966); Wayman v. Southhard, 23 U.S. (10 Wheat.) 1 (1825). 
+In Ex parte Virginia, 100 U.S. 339 (1880) and Boerne v. P.F. 
+Flores, 521 U.S. at 517, this court explained the scope of 
+Congress’ §5 power in the following broad terms: 
+
+
+“Whatever legislation is appropriate, that is, 
+adapted to carry out the objects the amendments have 
+in view, whatever tends to enforce submission to the 
+prohibitions they contain, and to secure to all persons 
+the enjoyment of perfect equality of civil rights and the 
+equal protection of the laws against ... denial or 
+invasion, if not prohibited, is brought within the 
+
+‘domain of congressional power.” 
+
+
+100 U.S. at 345-46. 
+
+
+mentioned, the Supreme Court shall have appellate Jurisdiction, both 
+as to Law and Fact, with such Exceptions, and under such 
+Regulations as the Congress shall make.” (Emphasis added.) 
+
+
+Pe 
+
+
+Legislation which deters or remedies constitutional 
+violations can fall within the sweep of Congress’ enforcement 
+power even if, in the process, it prohibits conduct which is not 
+itself unconstitutional and intrudes into “legislative spheres of 
+autonomy previously reserved to the States.” Fitzpatrick v. 
+Bitzer, 427 U.S. 445, 455 (1976). For example, the Court 
+upheld a suspension of literacy tests and similar voting 
+requirements under Congress’ parallel power to enforce the 
+provisions of the Fifteenth Amendment, see U.S. Const., 
+Amend. 15, §2, as a measure to combat racial discrimination in 
+voting, South Carolina v. Katzenbach, 383 U.S. 301, 308 
+(1966), despite the facial constitutionality of the tests under 
+Lassiter v. Northampton County Bd. of Elections, 360 U.S. 45 
+(1959). This court has also concluded that other measures 
+protecting voting rights are within Congress’ power to enforce 
+the Fourteenth and Fifteenth Amendments, despite the burdens 
+those measures placed on the States. South Carolina v. 
+Katzenbach, Op.Cit. (upholding several provisions of the 
+Voting Rights Act of 1965); Katzenbach v. Morgan, Op. Cit. 
+(upholding ban on literacy tests that prohibited certain people 
+schooled in Puerto Rico from voting); Oregon v. Mitchell, 400 
+U.S. 112 (1970) (upholding 5-year nationwide ban on literacy 
+tests and similar voting requirements for registering to vote); 
+City of Rome v. United States, 446 U.S. 156, 161 (1980) 
+(upholding 7-year extension of the Voting Rights Act’s 
+requirement that certain jurisdictions preclear any change to a 
+“ ‘standard, practice, or procedure with respect to voting’ ”’); 
+see also James Everard’s Breweries v. Day, 265 U.S. 545 
+(1924) (upholding ban on medical prescription of intoxicating 
+malt liquors as appropriate to enforce Eighteenth Amendment 
+ban on manufacture, sale, or transportation of intoxicating 
+liquors for beverage purposes). 
+
+
+It is also true, however, that “[a]s broad as the 
+
+
+congressional enforcement power is, it is not unlimited.” 
+Oregon v. Mitchell, 400 U.S. at 128 (opinion of Black, J.); 
+Boerne v. P.F. Flores, 521 U.S. at 518 (Opinion by Kennedy, 
+J.). In assessing the breadth of §5’s enforcement power,’ we 
+begin with its text. Congress has been given the power “to 
+enforce” the “provisions of this article.” We agree with 
+Respondent, of course, that Congress can enact provisions 
+under §5, enforcing the constitutional rights of persons before 
+the court, including the accused. The “provisions of this article,” 
+to which §5 refers, include the Due Process Clause of the 
+Fourteenth Amendment. Congress’ power to enforce the 
+various provisions of the Bill of Rights and control the judicial 
+business follows from this Courts’ holding in Cantwell v. 
+Connecticut, 310 U.S. 296, 303 (1940), Boerne v. P.F. Flores, 
+521 U.S. at 518-19, and Wayman v. Southhard, 23 U.S. (10 
+Eat.) 1 (1825). 
+
+
+Congress’ power under §5, however, extends only to 
+“enforc[ing]” the provisions of the Bill of Rights. The Court has 
+described this power as “remedial,”Katzenbach, 383 U.S. at 
+326. The design of the Amendment and the text of §5 are 
+inconsistent with the suggestion that Congress has the power to 
+decree the substance of the Bill of Rights’ restriction. 
+Legislation which alters the meaning of any provision of the Bill 
+of Rights cannot be said to be enforcing the Clause. Congress 
+does not enforce a constitutional right by changing what the 
+right is. It has been given the power “to enforce,” not the power 
+to determine what is or is not a constitutional violation. Were it 
+not so, what Congress would be enforcing would no longer be, 
+
+
+It would appear that if § 3501 can pass § 5 scrutiny, it can 
+also pass the "necessary and proper" clause scrutiny as well. On the 
+other hand, if Congress has transgressed the Sth and 6th Amendments, 
+then the law is not "necessary and proper,” therefore failing that test 
+as well. 
+
+
+-9- 
+
+
+in any meaningful sense, the “provisions of [the Bill of Rights. }” 
+See Boerne v. P.F. Flores, 521 U.S. at 519, and Wayman v. 
+Southhard, supra. 
+
+
+While the line between measures that remedy or prevent 
+unconstitutional actions and measures that make a substantive 
+change in the governing law is not easy to discern, and Congress 
+must have wide latitude in determining where it lies, the 
+distinction exists and must be observed. There must be a 
+congruence and proportionality between the injury to be 
+prevented or remedied and the means adapted to that end. 
+Lacking such a connection, legislation may become substantive 
+in operation and effect. History and our case law support 
+drawing the distinction, one apparent from the text of the 
+Amendment. E.g., Boerne v. P.F. Flores, 521 U.S. at 519-20, 
+and Wayman v. Southhard, supra. 
+
+
+If Congress could define its own powers by altering the Bill 
+of Right’s meaning, the Constitution would no longer be 
+“superior paramount law, unchangeable by ordinary means.” It 
+would be “on a level with ordinary legislative acts, and, like 
+other acts, ... alterable when the legislature shall please to alter 
+it.” Marbury v. Madison, 5 U.S. (1 Cranch) at 177. Under this 
+approach, it is difficult to conceive of a principle that would 
+limit congressional power. Shifting legislative majorities could 
+change the Constitution and effectively circumvent the difficult 
+and detailed amendment process contained in Article V. See 
+generally, Boerne v. P.F. Flores, 521 U.S. at 529. 
+
+
+We now consider whether § 3501 can be considered 
+enforcement legislation under §5 of the Fourteenth Amendment. 
+
+
+Il. MIRANDA SERVES AS A _ TIME-TESTED, 
+VENERABLE AND IMPORTANT PROPHYLACTIC 
+PROTECTING AN ACCUSED'S STH AMENDMENT 
+
+
+-10- 
+
+
+RIGHT TO REMAIN SILENT AND 6TH AMENDMENT 
+RIGHT TO PUBLIC TRIAL 
+
+
+The Magna Carta has always been regarded as the 
+antecedent of our own Bill of Rights and looked to for meaning 
+regarding the Bill of Rights and its intended protections. See 
+generally, Schwartz, The Bill of Rights; A Documentary 
+History (1971); 1 Rotunda, Treatise on Constitutional Law 
+(Vol. 1) § 3.1, note 4; id. at § 20.53; Barrett, et al, 
+Constitutional Law, Cases and Materials (University Casebook 
+Series, 4th ed., 1973), p. 591; Murrays’ Lessee v. Hoboken 
+Land & Improvement, 59 U.S. (18 How.) 272 (1856); Duncan 
+v. Louisiana, 391 U.S. 145 (1968); Davidson v. New Orleans, 
+96 U.S. 97 (1878). 
+
+
+The Miranda Doctrine is an imbedded criminal defense 
+doctrine whose roots are found in the Magna Carta of 1215. At 
+common law, "No bailiff for the future shall, upon his own 
+unsupported complaint, put anyone to his ‘law,’ without 
+credible witnesses brought for this purpose."® Magna Carta, 
+
+
+* At common law it was also true that the accused was required 
+to conduct his own defense since he was neither allowed to call 
+witnesses in his behalf nor permitted the assistance of counsel. See 
+generally, Ferguson v. Georgia, 365 U.S. 570, 573-74 (1961); 1 
+Stephen, History of the Criminal Law of England, p. 350. In the 
+17th Century, the accused could call witnesses by statute, but could 
+not testify. The general rationale was the defendant was an interested 
+party and therefore disqualified. /bid. This disqualification carried 
+over to this country at its founding. Maine was the first state, in 
+1859, to discard the common law and allow interested parties to 
+testify under oath in civil cases. The chief argument against the 
+practice in criminal courts was perceived as how to protect the 
+defendant's right to remain silent. Eventually, by 1961, the sole state 
+Georgia. Ferguson, Op. Cit. at 575-77. 
+
+
+-ll- 
+
+
+Article 38; McKechnie,’ MAGNA CARTA; A COMMENTARY ON 
+THE GREAT CHARTER OF KING JOHN. In American 
+jurisprudence, corroboration by extrinsic evidence has been the 
+rule, rather than the exception. Cf Spinelli v. United States, 
+394 U.S. 410 (1969) (corroboration existed); J/linois v. Gates, 
+462 U.S. 213 (1983) (extrinsic evidence based upon totality of 
+circumstances)* with Aguilar v. Texas, 378 U.S. 108 (1964) 
+(corroboration lacking); Wong Sun v. United States, 371 U.S. 
+471, 488-489 (1963) (extrinsic corroboration lacking); also, 
+Opper v. United States, 348 U.S. 84 (1954). In the past and 
+currently, the requirement for extrinsic corroboration was 
+designed for the protection of persons from the abuses of 
+government. McKechnie, The Magna Carta, pp. 370-377; 3 
+Rotunda (Vol.3) § 23.20.’ In following Wong Sun, supra, 
+
+
+” McKechnie is the recognized scholar on the original Magna 
+Carta. 10 Halsbury’s Statutes of England (4th ed.) (Vol. 10), 
+Constitutional Law, 25 Edw. | (Magna Carta 1297), Notes 4 3. 
+
+* Gates did not overrule Spinelli or Aguilar as to extrinsic 
+corroboration; rather it shifts the focus to demand the magistrate look 
+to the totality of circumstances known to the officers to determine 
+whether or not probable cause existed. In fact, the shift was not even 
+required. On the facts of Gates, the officers themselves had 
+corroborated what the informer said; and of course the informer was 
+the extrinsic corroboration of the officers conduct, so there was cross 
+corroboration. Looking to the totality of circumstances in that case, 
+the officers had at least sufficient information for a detention. But 
+they had insufficient information for a full-blown search because of 
+the vagueness of the vehicle description, a total absence of a 
+description of the suspects, and nothing in plain view. Compare n. 10 
+below 
+
+
+* “It may be that it is the obnoxious thing in its mildest and least 
+repulsive form, but illegi ner aattonsl ices gat thei 
+first footing in that way, namely, by silent approaches and slight 
+deviations from legal modes of procedure. This can be obviated by 
+
+
+-12- 
+
+
+which had itself struck Defendant’s statement for lack of 
+extrinsic corroboration, federal courts have consistently 
+followed the rule. E.g., United States v. Felix-Jerez, 667 F.2d 
+1297, 1299-1300 (9" Cir. 1982). 
+
+
+Aside from the voluntariness of a confession, the courts 
+have always held that criminal confessions and admissions of 
+guilt require extrinsic corroboration. Wong Sun v. United 
+States, 371 U.S. at 488-489; United States v. Felix-Jerez, 667 
+F.2d at 1299-1300. Against this backdrop, this Court adopted 
+two theories for dealing with confessions. See Escobedo v. 
+Illinois, 378 U.S. 478 (1964); Miranda v. Arizona, 384 U.S. 
+436 (1966). A confession may not be used in the prosecution's 
+case in chief where the confession was taken without giving the 
+defendant notice of his rights because, without such notice, 
+involuntariness was presumed. Miranda v. Arizona, 384 U.S. 
+436 (statement taken in violation of 5th Amendment right to 
+remain silent); Michigan v. Jackson, 475 U.S. 625 
+(1986)(statement taken in violation of 6th Amendment right to 
+counsel). However, statements taken in violation of Miranda 
+may be used for impeachment purposes. Walder v. United 
+States, 347 U.S. 64 (1954) (violation of Sth Amendment); 
+Michigan v. Harvey, 494 U.S. 344 (1990) (violation of 6th 
+Amendment). Such evidence may also be admitted if reliable 
+and probative evidence would further the truth-seeking function 
+and if the likelihood that admission of such illegally obtained 
+
+
+adhering to the rule that constitutional provisions for security of 
+person and property should be liberally construed. A close and literal 
+construction deprives them of half their efficacy, and leads to a 
+gradual depreciation of the right, as if it consisted more in sound than 
+in substance." Boyd v. United States, 116 U.S. 616, 635 
+(1886)(Harlan, J.), overruled on other grounds. See Warden v. 
+Hayden, 387 U.S. 294 (1967) (hot pursuit & exigent circumstance 
+exception; mere evidence rule). 
+
+
+-13- 
+
+
+evidence would encourage police misconduct is only a 
+“speculative possibility.” Harris v. New York, 401 U.S. 222, 
+225 (1971)."° Prosecutors may use such statements to impeach 
+answers elicited on cross-examination of matters clearly within 
+the scope of direct examination. Harris, supra. However, 
+illegally obtained statements from the defendant may not be 
+used to impeach other defense witnesses. James v. Illinois, 493 
+U.S. 307 (1990). An involuntary statement cannot be admitted 
+for any purpose. Mincey v. Arizona, 437 U.S. 385, 397-98 
+(1978); Brown v. Mississippi, 297 U.S. 278 (1936). Thus, 
+Miranda itself has never been an absolute bar, but only a bar for 
+use in the prosecutor's case in chief. 
+
+
+While the Fifth Amendment guarantees the accused the 
+right to remain silent, Miranda v. Arizona, supra, and the Sixth 
+Amendment guarantees the accused the right to a public trial, 
+United States v. Henry, 447 U.S. 264 (1980); United States v. 
+Cianfrani, 573 F.2d 835 (3d. Cir. Pa. 1978), their function is to 
+operate as an effective restraint on possible abuses of the 
+judicial system. Jd. at 847. The requirement is recognized as 
+"for the benefit of the accused, that public may see that accused 
+is fairly dealt with and not unjustly condemned, and that 
+presence of interested spectators” (e.g. counsel) “may keep his 
+triers keenly alive to sense of their responsibilities and to the 
+importance of their functions." People v. Terry, 99 Cal.App.2d 
+579, 584, 222 P.2d 95, 99 (1950); In re Oliver, 333 U.S. 257 
+
+
+" It is here suggested that the approach suggested in Harris v. 
+New York should be followed: i.e., where the officers acted in good 
+faith in violation of Miranda, or where they ignored Miranda to 
+deprive the accused of the chance to testify, such evidence should not 
+be admissible for impeachment purposes if (1) there is bad faith, (2) 
+the evidence is of questionable probative value, and (3) there is no 
+extrinsic corroboration: (a) that the defendant in fact made the 
+statement; or (b) of the contents. 
+
+
+-14- 
+
+
+(1948); Screws v. United States, 325 U.S. 91 (1945); (pre-trial 
+detainee beaten to death); United States v. Price, 383 U.S. 787 
+(1966) (certified judgments indicated that deputy sheriff was 
+subsequently convicted of murdering the pre-trial detainees/civil 
+rights workers); Franks v. Delaware, 438 U.S. 154 (1978); are 
+but a few of legions of examples of what may transpire outside 
+the presence of counsel. These cases point out the difficulty 
+inherent in proving improper conduct hidden away from public 
+scrutiny or the watchful eyes of diligent counsel, and witness 
+the need to erect barriers to prevent abuse of pre-trial detainees. 
+What have we gained if we have abolished the “star chamber” 
+in a building, only to erect it on our highways and byways, away 
+from any scrutiny whatsoever? Nothing. We have lost the 
+essence of liberty that a person make a knowing, intelligent, and 
+voluntary choice. The Court should adopt the reasoning in 
+Bivens v. Six Unknown Agents of the FBI, 403 U.S. 388 (1971) 
+that there must be an effective deterrent to police abuse by 
+arresting and interrogating officers, and that the best deterrence 
+is the reading of Miranda rights as a constant reminder to peace 
+officers of their responsibility to uphold the law, but not to 
+abuse it. 
+
+
+Moreover, this prophylactic serves to protect an important 
+6th Amendment right to public trial in that it assures the public 
+that the accused is treated fairly at a trial, if that is the accused's 
+choice, and not condemned in a "star chamber" proceeding. 
+The rationale of this court has always been, and should always 
+be, that is it is better to allow a guilty person to go free rather 
+than chance convicting an innocent person on tainted evidence. 
+
+
+It is clear that, under the Sth Amendment, an accused 
+cannot be compelled to testify against himself. The amendment 
+is silent as to the issue of voluntariness. It is also clear that, 
+from time immemorial, the bailiff (i.e. peace officers) could not, 
+without corroboration, present evidence against the defendant 
+
+
+-15- 
+
+
+by putting words into the defendant’s mouth. In order to 
+prevent the “star chamber” from becoming our courts, thereby 
+destroying the effectiveness of the adversary system, the 
+Miranda warning is a constitutionally compelled and necessary 
+process that strikes the appropriate balance by preventing use of 
+alleged statements by an accused, unless the defendant willingly, 
+in public, waives his right to remain silent in order to take the 
+stand. Therefore, Congress overstepped its powers. 
+
+
+Our national experience teaches that the Constitution is best 
+preserved when each part of the government respects both the 
+Constitution and the proper actions and determinations of the 
+other branches. When the Court has interpreted the 
+Constitution, it has acted within the province of the Judicial 
+Branch, which embraces the duty to say what the law is. 
+Marbury v. Madison, 5 U.S. (1 Cranch) 137, 177 (1803). 
+When the political branches of the government act against the 
+background of a judicial interpretation of the Constitution 
+already issued, it must be understood that, in later cases and 
+controversies, the Court will treat its precedents with the 
+respect due them under settled principles, including stare 
+decisis, and contrary expectations must be disappointed. § 3501 
+was designed to control cases and controversies, such as the one 
+before us; but as the provisions of the federal statute here 
+invoked are beyond congressional authority, it is this Court’s 
+precedent, not § 3501, which must control. 
+
+
+It is for Congress in the first instance to “determin({e] 
+whether and what legislation is needed to secure the guarantees 
+of the Bill of Rights,” and its conclusions are entitled to much 
+deference. Katzenbach v. Morgan, 384 U.S. 641, 651 (1966). 
+Congress’ discretion is not unlimited, however, and the courts 
+retain the power, as they have since Marbury v. Madison, 
+supra. to determine if Congress has exceeded its authority under 
+the Constitution. Broad as the power of Congress is under the 
+
+
+-16- 
+
+
+Enforcement Clause of the Fourteenth Amendment, § 3501 
+contradicts vital principles necessary for the preservation of an 
+accused's 5th Amendment rights. These rights include the right 
+not to be compelled to be a witness against himself, and the 
+assurance of the public generally that the accused is treated 
+fairly in a public trial rather than subjected to an inquisition, and 
+the maintenance of the separation of powers and the federal 
+system of checks and balances. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the court should reverse the 4th 
+Circuit on its ruling that "Congress, pursuant to its power to 
+establish the rules of evidence and procedure in the federal 
+courts, acted well within its authority in enacting 18 U.S.C. § 
+3501,” and hold, rather, that Miranda governs the admissibility 
+of confessions in federal court. 
+
+
+Respectfully submitted, 
+John W. Whitehead James Joseph Lynch, Jr. 
+Maria E. Selig (Counsel of Record) 
+THE RUTHERFORD INSTITUTE 2740 Howe Avenue 
+1445 East Rio Road Sacramento, California 
+Charlottesville, Virginia 95821 
+22906 (916) 448-7871 
+
+
+(804) 978-3888 
+
+

@@ -1,0 +1,1782 @@
+4) 
+
+
+99-7000 Supreme Court, U.S. 
+99A416 FILED 
+IN THE OFFICE OF THE CLERK 
+
+
+SUPREME COURT OF THE UNITED STATES 
+
+
+BOBBY LEE RAMDASS 
+Petitioner, 
+v. 
+RONALD J. ANGELONE, 
+
+
+DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals for the Fourth Circuit 
+and on Application for a Stay of Execution 
+
+
+RESPONDENT’S BRIEF IN OPPOSITION 
+
+
+MARK L. EARLEY 
+Attorney General of Virginia 
+. KATHERINE P. BALDWIN 
+RECEIVED Assistant Attorney General 
+
+a Counsel of Record 
+NUY 19 {959 Office of iy ona General 
+
+
+OFFICE OF THE CLORK 900 East Main Street 
+SUPREME COURT, U.S. Richmond, Virginia 2321 
+
+
+(804) 786-4624 
+
+
+1. 
+
+
+QUESTIONS PRESENTED 
+
+
+In a case where it is undisputed that the petitioner would have been eligible 
+for parole on a life sentence as a matter of state law at the time the jury 
+sentenced him to death, and where the petitioner does not contest the fact that 
+Simmons v. South Carolina does not apply unless the prisoner was ineligible 
+for parole, should certiorari be granted to decide whether the Fourth Circuit 
+erred in ruling that it was not free to second-guess the Virginia Supreme 
+Court’s determination of a matter of state law? 
+
+
+In a case where it is undisputed that the trial court appointed an independent 
+mental health expert to assist the petitioner during the penalty phase of trial 
+and where it is equally undisputed that, as a matter of Virginia statutory law, 
+every capital murder defendant has an absolute right to such appointment 
+regardless of whether the prosecutor intends to prove future dangerousness 
+or to present expert evidence on that issue, should certiorari be granted to 
+resolve a so-called conflict in the federal courts concerning the application of 
+Ake v. Oklahoma to a situation that did not occur in Ramdass’ case and 
+cannot occur in Virginia? 
+
+
+Should this Court grant the application for a stay of execution simply to 
+“hold” Ramdass’ case for the decision in Terry Williams v. Taylor regarding 
+the Fourth Circuit’s interpretation of 28 U.S.C. § 2254 (d) even though, by 
+Ramdass’ own admission, the Fourth Circuit's application of § 2254 (d) to the 
+Simmons and Ake claims was merely an alternative ruling? 
+
+
+TABLE OF CONTENTS 
+Page 
+ee Ce iainttinenitintictinincsnteisininccsctenubataicinianeiaiapatiamagiinmimmmmtiagions ii 
+EU I ssid otcteeieieaicitundsaenetunniidaonlgenionbtdineabentendinenignapinicinbsetnebetion l 
+ITT SEF SUI TUITE eitssncniictinecsescinsicipensien dots ledccnntiseansnelivisitlbtiaaititaiunieuiniiansninnie 3 
+REASONS WHY THE WRIT AND APPLICATION FOR A STAY 
+Oe ee OE ATES III cisnciincersinsicsnssicdiirsinsreienteciidthiduninstnnnesatesateinnenccocemecesiettinin 16 
+I. The Fourth Circuit Properly Determined That Ramdass 
+Is Asking For An Extension Of Existing Law And 
+Therefore That The Requested Relief Is Not Available 
+iti cteistcdccrcnersesitiiteniatininkinggieansinapiocnpiminsthiaghinpiaemsiannsnintnntieis 16 
+II. The Fourth Circuit’s Rejection Of Ramdass’ “Ineffective 
+Psychologist” Claim Does Not Conflict With Ake v. 
+gn IE EEE A ECL Oe CEE TE 23 
+i FR RE SE NE BI GI UO ccececcccsenstennvcscczscscenseesitnnncerscnssoreneensentnnins 24 
+B. The claim is not controlled by Ake and thus is barred 
+re ae I CI ercitdicccsceicengenccitsenrienesctninncesinecninedneqecametnenteranesemenmensets 25 
+C. Ramdass’ “conflict” argument is groundless ..............:sssssesecesseeseeeseenseeseeesenses 26 
+SR, ERR, Ty Tae i aricccenccsccsccscictreenneenetmncnenmannmnennnnnn 28 
+III. Ramdass Is Not Entitled To A Stay Based Upon The Grant 
+ee Be ee I aps ccccesicsnerasiinerecishninsnvsinaseciennenetininetniineenniedsiaits 31 
+eee Dirincicenisiieniccdesncsesiiiasivedinansutctincatiniinnsacninisicitiaisaigainaieitinnimnsiniiinnsbinennpaitabnantadui 32 
+
+
+~ 
+
+
+Cases 
+Ake v. Oklahoma, 
+pe EY STE iaiectsnvinciieetnbtionbiesinnnnitinnasiedincameitecsaliiscstia ti aiken ise id passim 
+Vv ies, 
+Fe es Be iiiinchasinaaiarhsinaseigtiniarsininidasasiiiuiiinsd tn ie meta ae 32 
+Vv 
+SF Se asicitcctinvhiteiicenctitinsatijieaiiaieaiteel ia a amen a ae 21 
+Vv ’ 
+Pa MET aD eniserninnienienshenitssemninsimnianstciicniitiamsiasibataias iinet 26 
+al . 
+TS ae CE EE DGD, BOD issincecsesebiininccntntesiiatiansiiialinsiina ties iss ie ante eee 28 
+Vv ’ 
+hf ECE NET EE My MOR Sorts SLD isdebieedibll 25 
+Vv ’ 
+EON TOE Emer SEAT AT TR NE snail 
+v . 
+I SIF Ci iissercctsnctcsenticcrnataiiciieiitnnstiaisbiie etalk kt ease eae 23 
+a ae CRT: Mammen ANN! ULES Go SN 23 
+V ’ 
+FO Wile BEG Cee scocnoyecancevenisiinssnisimadintiiliciusasihapihiitniaiaubiliiaidatthtelehietaat isi ae ne 
+Hawks v. Cox, 
+FIP COPE CU: BOP iccninitiniennsinsiiibinietislpsncinanpiibveteies tush tna atta. Lae 10 
+Hughes v. Johnson, 
+F.3d__, 199 U.S. App. LEXIS 24842 (Sth Cir. 1999) .........ccccccccssscsssseseesnsersecerseseesecers 21 
+Ingram v. Zant, 
+7 ee CIMA FETE 1” Mary WEEDS Ay Ns RIAs 21 
+
+
+ii 
+
+
+SE a ee i Ve A 23 
+he 18,19 
+153 F.3d 1086 (10th Cir. 1998), 
+
+EE Ee ee 27 
+SET Is LAIR At A ae a ae 11, 26 
+ere io mD. ERT SNR IDR cA SN 2,14 
+SEIT i radiaiianstibaehipaittinnetibcetentintitinaieaiecisiiiaintiiinidainsibemeapsmastingssial passim 
+437 S.E.2d 566 (Va. 1993).cccccescsocssesnessereersneeneeen TERE et DOW oe passim 
+IE RO ce ce ete aE 
+SHOEI cS SES EO McD Ae 8 
+514 U.S. teas C1985) ERC ET CEE CT 0 1, 10 
+176 F.3d 210 (4th Cir.), 
+
+EES TREE SE SI VRS Se 21 
+Saffle v. Parks, 
+EEC Sg a LN 2 ae 18 
+i FP Pa — 
+» sg an aan nee eee en , 
+
+
+914 F.2d 1153 (9th Cir. 1990), 
+
+
+snail latin NE, GU 27 
+
+Starr v. Lockhart, 
+
+23 F.3d 1280 (8th Cir.), 
+ES ete Ae Le ean 27 
+eR, OR ee Maier" 243 14, 15, 25 
+
+Sumner y. Mata, 
+CIN RE Me Ne 4 
+ES ee NDS GER? Oa Ss cal 13, 28 
+a ee, eee 12 
+
+Terry v. Rees, 
+
+Cy, OO 27 
+RS LE PEND RONDE CRTs,” See REE ny 31 
+A EN, RR cs TR Oe 30 
+
+Statutes and Rules 
+
+i Es es ee 2, 10 
+
+a ie a ee ae ae ® passim 
+
+en em a, Fe ee ee a 12, 18, 26 
+
+i rn RS ek el 4 
+
+OS OUROR ECS OR sec eces s acicnat nah s Las Ey ae 10 
+
+Oe Ee oe SI we: SR Bk 6 
+
+ee RE aie: SSAA DOM YE Te 13, 15,27 
+
+
+§ 19.2-264.4, Code of Virgimia ...........cccccccccssocsecseesesenen SES 2 bla “Tne aie i 
+
+
+§ 19.2-264.5, Code of Virginia ................... a AR FL NGS a Rae a l 
+
+EES TIER: AIO aT CREE. 7, 8,9, 22 
+
+§ 53.1-232.1, Code of Virgiqin .....ccscvscssrnssssssenemnetnetneesetstneenenetnesnenaensenensensetceees 3 
+
+| 8 ERS CERES ae NE EY ae a, ea Co at 23 
+
+Rule 3A:15, Rules of the Supreme Court of Virgimia....0...........0.cccccccccccsecesseseseeveneeeseeeeeeees 22, 23 
+v 
+
+
+STATEMENT OF THE CASE 
+
+On January 28, 1993, a jury in the Circuit Court of Fairfax County, Virginia, found Ramdass 
+guilty of the capital murder of Mohammed Kayani during the commission of robbery and of the 
+illegal use of a firearm. Ramdass pleaded guilty to a charge of robbery. After a separate sentencing 
+proceeding, the jury found that Ramdass represented a continuing serious threat to society and 
+sentenced him to death for the capital murder. See Va. Code § 19.2-264.4. The jury also sentenced 
+him to four years in prison for the firearm offense. After conducting the sentencing hearing 
+required by § 19.2-264.5 on April 6, 1993, the court imposed the jury’s sentences and also 
+sentenced Ramdass to life in prison for the robbery. 
+
+The convictions and sentences unanimously were affirmed by the Virginia Supreme Court 
+on November 5, 1993. Ramdass v. Commonwealth, 437 S.E.2d 566 (Va. 1993). This Court 
+subsequently granted certiorari and remanded the case for reconsideration in light of its 
+intervening decision in Simmons v. South Carolina, 512 U.S. 154 (1994). Ramdass v. Virginia, 
+512 U.S. 1217 (1994). On remand, the Virginia Supreme Court reaffirmed the trial court’s 
+judgment. Ramdass v. Commonwealth, 450 S.E.2d 360 (Va. 1994). (JA 202).' This Court 
+denied contiecari seview of the reaffirmance on April 24, 1995. Ramdass v. Virginia, 514 U.S. 
+1085 (1995). 
+
+On May 11, 1995, the trial court appointed counsel to represent Ramdass in a state habeas 
+corpus proceeding. (JA 217). Pursuant to Ramdass’ request, a second lawyer was appointed and 
+Ramdass filed a petition for a writ of habeas corpus in the Virginia Supreme Court on August 30, 
+
+
+' References to the appendix filed below will be indicated by “(JA ___).” A copy of the 
+
+
+1995. On March 18, 1996, the Virginia Supreme Court dismissed the petition. (JA 283). Ramdass’ 
+petition for rehearing was denied on June 7, 1996. (JA 303). 
+
+On June 28, 1996, the trial court scheduled Ramdass’ execution for August 21, 1996. (JA 
+304). On August 15, 1996, the United States District Court for the Eastern District of Virginia in 
+Norfolk stayed Ramdass’ execution. (JA 306). On September 11, 1996, the district court appointed 
+three new lawyers to represent Ramdass. (JA 308). 
+
+Ramdass filed a § 2254 petition on February 14, 1997. On February 27, 1998, a 
+Magistrate Judge issued a report and recommendation that all but one of Ramdass’ claims be 
+dismissed. (JA 700). The Magistrate Judge recommended that Ramdass’ death sentence be 
+vacated on the basis of an alleged Simmons error. (JA 804). On August 14, 1998, the district 
+court granted relief on the Simmons claim and “remanded” the case to the state trial court for 
+resentencing. (JA 869). Ramdass v. Angelone, 28 F. Supp.2d 343 (E.D. Va. 1998). 
+
+The respondent appealed to the United States Court of Appeals for the Fourth Circuit. 
+On August 3, 1999, a three-judge panel of the Fourth Circuit reversed the district court. 
+Ramdass v. Angelone, 187 F.2d 396 (4th Cir. 1999). One member of the panel, Judge 
+Murnaghan, dissented. 
+
+On September 17, 1999, Ramdass’ petition for rehearing and rehearing in banc was 
+denied.? Judge Murnaghan voted to grant panel rehearing. A “member” of the Court requested a 
+poll on the petition for rehearing in banc. Judge Murnaghan and three other judges’ voted to 
+hear the case in banc. Nine judges voted to deny rehearing. On September 28, 1999, the Fourth 
+Circuit denied Ramdass’ motion to stay the mandate and the mandate issued on October 6, 1999. 
+
+
+2 Copies of the rehearing papers have been lodged with this Court. 
+> The three other judges were Judge Ervin (now deceased), Judge Michael and Judge Motz. 
+
+
+On October 22, 1999, the Circuit Court of Fairfax set Ramdass’ execution for November 
+23, 1999, pursuant to Virginia Code § 53.1-232.1. On November 5, 1999, the Fourth Circuit 
+
+
+denied Ramdass’ motion to recall its mandate and to stay the execution. 
+
+
+STATEMENT OF THE FACTS 
+1. The Crimes 
+
+
+It is undisputed that Ramdass is the person who murdered Mohammed Kayani by shooting 
+him in the head at point-blank range. The Virginia Supreme Court found the facts surrounding 
+Ramdass’ capital offense to be as follows: 
+
+
+During the night of September | and early morning of September 2, 
+1992, Ramdass and Darrell Wilson, both armed with pistols, were 
+returning home in a car with three other men, Shane Singh, Edward 
+O'Connor, and Candelerio Ramirez, after abandoning a plan to rob 
+persons at a Roy Rogers restaurant in Fairfax County. On the way, 
+Ramdass suggested that they Jb persons at a 7-Eleven store on 
+Buelah Street in Fairfax County. 
+
+
+Accordingly, near one o'clock on the morning of September 2, the 
+five men entered the 7-Fleven store. Ramdass entered first and 
+“drew” his pistol on Kayani, a 7-Eleven clerk who was behind the 
+cash register. Wilson, who also displayed his pistol, ordered all the 
+customers to lie on the floor and not look at him. The other three 
+men, who were unarmed, took the customers’ wallets, money from 
+the cash register, and cigarettes and lottery tickets from the store’s 
+stock. 
+
+
+After Ramdass ordered Kayani to open the safe, Kayani knelt down 
+next to the safe and unsuccessfully tried to open it. Raimdass 
+squatted next to Kayani and yelled at him to open the safe “or I'll 
+blow your f. head off.” Wilson fired his pistol at one of the 
+customers on the floor. Immediately thereafter, Singh, standing 
+behind Ramdass, saw Ramdass shoot Kayani in the head on his 
+second attempt to get the weapon to fire. 
+
+
+Just after Ramdass shot Kayani, Ramirez returned from a back room 
+in the store. Ramirez saw Ramdass laughing as he stood over 
+Kayani’s body. Later, Ramirez heard Ramdass say that he shot 
+Kayani because he “took too long.” Shortly thereafter, Ramirez 
+opened the front door, and Wilson, Singh, and O’Connor ran out. As 
+
+
+Ramirez held the door open, he urged Ramdass to “[c]ome on.” 
+However, Ramdass was “clicking the gun at the people on the floor” 
+and told Ramirez to “[s}hut up or I'll put one in you.” One of the 
+customers also heard the clicking of the gun as Ramdass left. 
+
+
+When they got in the car, Ramirez heard Ramdass ask Wilson, “Why 
+didn’t you get rid of the people on the floor?” After the men divided 
+the robbery proceeds at Singh’s home, Ramdass told Ramirez, 
+“Don’t tell anybody about this [or] Ill kill you and I'll kill your 
+whole family.” 
+
+
+Singh, a co-owner of the gun with Ramdass, testified that the gun 
+would not fire unless held at a certain angle because the “bullets” in 
+the chamber were not the right size for the gun. Julian Jay Mason, 
+Jr., a forensic scientist specializing in firearms identification, later 
+examined and test fired the gun. Mason testified that the 9 
+millimeter cartridges Ramdass used in the gun were smaller than the 
+38 caliber cartridges specified for the gun. Therefore, when the 
+gun’s muzzle was pointed down, the 9 millimeter cartridges slid too 
+far forward to be struck by the firing pin. Mason further testified that 
+when the muzzle was pointed up, the cartridge slid back closer to the 
+firing pin, and the gun could be fired. 
+
+
+Ramdass, 437 S.E.2d at 568-569. See 28 U.S.C. § 2254(e)(1) (state court findings of fact must be 
+presumed correct and presumption may be overcome only by clear and convincing evidence); 
+Sumner v. Mata, 449 U.S. 539, 541-549 (1981) (statutory presumption of correctness applies to 
+state appellate court’s rendition of historical facts). 
+
+With respect to the overwhelming evidence warranting the death penalty, the Virginia 
+
+
+Supreme Court found as follows: 
+
+
+The record in this case shows that Ramdass, who was born October 
+19, 1971, has been involved in criminal activity since he was 14 
+years old. 
+
+
+His first violent offense was that of “purse snatch[ing]” from an 
+elderly woman in 1985. During the time Ramdass was on probation 
+for that offense, he began to sell illegal drugs. Soon after, he was 
+involved in the unauthorized use of a moped and in the statutory 
+burglary of a dwelling with the intent to commit larceny. As a result, 
+Ramdass was committed to state juvenile facilities in January of 
+1986 and was paroled in September of that year. Within three 
+
+
+months of that release, Ramdass had violated his parole and was 
+recommitted. He remained in custody until November of 1987, 
+when he was released for a 30-day home visit. Ramdass was 
+classified as an escapee when he failed to return to the state juvenile 
+facility at the end of his home visit. 
+
+
+On February 20, 1988, Ramdass robbed Frederick Thompson. When 
+the police arrested Ramdass for that offense, he was sleeping with a 
+loaded revolver on his bedside table. Ramdass, treated as an adult 
+for that offense, pled guilty and was sentenced to a term of seven 
+years in the penitentiary. Ramdass was released on mandatory 
+parole in May of 1992. 
+
+
+Within three months of that release, while still on parole, Ramdass 
+again acquired a gun. Shortly thereafter, he committed six armed 
+robberies, some accompanied by physical violence to the victims. 
+
+
+The first two robberies occurred on August 25, 1992, when Ramdass 
+abducted Robina Khan, robbed Mark Hasfiz, and robbed and struck 
+Richard Imlow in a Pizza Hut in Fairfax County. Ramdass’s third 
+robbery was that of Christopher Allen Crissel, a clerk at Bragg 
+Towers, an apartment-hotel in Alexandria, on August 29. Crissel 
+testified that Ramdass struck Crissel in the jaw “as hard as he could, 
+with a lot of impact [and] said “Give me the f money or I'll 
+blow your head off.’” After Crissel gave Ramdass over $500 from a 
+desk drawer, Ramdass hit the back of Crissel’s head with his gun “as 
+hard as he could.” 
+
+
+Ramdass committed his fourth and fifth robberies on the same day. 
+On August 30 at about 6:00 p.m., Ramdass robbed Emmanuel 
+Gilbert Selassie and shot him in the head at close range. Later that 
+evening, he robbed a clerk at a Domino’s Pizza in Arlington. Then, 
+on September 2, in the present case, Ramdass robbed Kayani in 
+Ramdass’s sixth robbery in eight days: he also shot Kayani in the 
+head at close range and caused his death. 
+
+
+Finally, our review of the record discloses nothing to suggest that 
+Ramdass’s death sentence was imposed under the influence of 
+passion, prejudice, or any other arbitrary factor. 
+
+
+Ramdass, 437 S.E.2d at 574. 
+
+
+Il. The Simmons Claim 
+
+
+The Fourth Circuit recounted the relevant facts as follows: 
+
+
+At the sentencing phase of trial, the Commonwealth of Virginia 
+sought the death penalty, arguing that Ramdass presented "a 
+continuing serious threat to society" -- the "future dangerousness" 
+predicate for imposition of the death penalty. See Va. ‘Code Ann. 
+19.2-264.2. In support of this argument, the Commonwealth 
+presented evidence of Ramdass’ history of theft-related crimes 
+beginning at age 14 and his pattern of recidivism during periods of 
+escape or probation. More specifically, the prosecution detailed 
+how, within three months of his release on mandatory parole after 
+serving four years of a seven-year sentence for robbery, Ramdass 
+committed a series of at least six armed robberies. The first two 
+robberies occurred on August 25, 1992, when Ramdass robbed a 
+Pizza Hut in Fairfax County, abducting a woman and hitting a 
+man. Four days later, he robbed a clerk at an apartment-hotel in 
+Alexandria and struck him in the head with a gun. On August 30, 
+1992, he shot and robbed a cab driver. Later that evening, he 
+robbed a clerk at a Domino's Pizza in Arlington. Finally, Ramdass 
+killed Mohammed Kayani on September 2, 1992, during the sixth 
+robbery in this eight day spree. See Ramdass 1, 437 S.E.2d at 574. 
+Ramdass'’ counsel responded to the prosecution's argument by 
+asserting that "Ramdass will never be out of jail. Your sentence 
+today will insure that if he lives to be a hundred and twenty two, he 
+will spend the rest of his life in prison." 
+
+
+During sentencing deliberations, the jury asked: "if the 
+Defendant is given life, is there a possibility of parole at some time 
+before his natural death?" While recognizing that Virginia law did 
+not permit a sentencing jury to be informed of the defendant's 
+parole eligibility, Ramdass' counsel nevertheless maintained that 
+“the [jurors'] question itself implies that they have a perception that 
+if they give a life sentence that he will be out in a very short period 
+of time” and that it was necessary to inform the jury otherwise with 
+"some kind of language that would balance out that perception." 
+Over defense counsel's objection, the trial judge told the jurors that 
+they “should impose such punishment as [they] feel is just under 
+the evidence and within the instructions of the Court" and that they 
+“are not to concern themselves with what may happen afterwards." 
+The jury returned a verdict recommending death on the capital 
+murder count, based upon Ramdass’ "future dangerousness," and 
+recommending four years imprisonment on the firearm count. 
+
+
+At the sentencing hearing in April 1993, Ramdass’ counsel 
+urged the court to impose a sentence of !ife in prison instead of 
+death in light of Ramdass’ ineligibility parole under Virginia's 
+three strikes provision. nl See Va. ~ode Ann. 53.1-151(B1). 
+Defense counsel proffered to the court that three jurors had told 
+him that they would have imposed a life sentence rather than death 
+if they had known that Ramdass would not be eligible for parole. 
+Rejecting defense counsel's request, the court sentenced Ramdass 
+to death. 
+
+
+nl Ramdass'’ parole eligibility at the time of the 
+sentencing hearing was governed by Virginia's 
+three-strikes statute, which provides that an 
+individual is ineligible for parole if he has been 
+"convicted of three separate felony offenses" of 
+murder, rape, or armed robbery, which "were not 
+part of a common act, transaction or scheme." Va. 
+Code Ann. 53.1-151(B1). At the time the jury was 
+deliberating his sentence in this case, Ramdass had 
+already been sentenced (the week before) to 76 
+years imprisonment in connection with the Pizza 
+Hut armed robbery. In addition, about three weeks 
+earlier, on January 7, 1993, a jury had returned a 
+verdict finding Ramdass guilty in the Domino's 
+Pizza armed robbery, for which it recommended an 
+18-year sentence. The court, however, had not yet 
+entered judgment in that case. It did so nearly three 
+weeks after the jury in this case concluded its 
+sentencing deliberations. 
+
+
+Ramdass, 187 F.3d at 400. 
+
+On appeal to the Virginia Supreme Court, Ramdass claimed, among other things, that error 
+had occurred when the trial court gave the model jury instruction regarding parole eligibility. (JA 
+167). The Virginia Supreme Court affirmed Ramdass’ sentence on November 5, 1993. On the 
+parole eligibility issue, the Court ruled that, under long-standing precedent, the trial court 
+correctly had answered the jury’s question regarding parole eligibility. Ramdass, 437 S.E.2d at 
+
+
+573. 
+
+
+Simmons vy. South Carolina was not argued in this Court until January 18, 1994. 
+Simmons, 512 U.S. at 154. -Ramdass filed his certiorari petition in this Court in February, 1994, 
+arguing, among other things, that the trial court had erred in its response to the jury’s question 
+regarding parole. This Court decided Simmons on June 17, 1994. On June 20, 1994, the: Court 
+granted Ramdass’ certiorari petition and remanded the case to the Virginia Supreme Court for 
+reconsideration in light of Simmons. Ramdass v. Virginia, 512 U.S. 1217 (1994). 
+
+On remand in the Virginia Supreme Court, Ramdass argued that Simmons required 
+vacatur of his sentence. He alleged in conclusory fashion that he was ineligible for parole. (JA 
+184-185). The Commonwealth argued in response that, at the time the jury was considering 
+what sentence to recommend, Ramdass could not have been rendered parole-ineligible by a life 
+sentence on the capital crime because he had at that time only one of the three necessary 
+qualifying convictions under Virginia Code § 53.1-151(B1).* (JA 193-195). 
+
+Ramdass made no reply to the Commonwealth’s argument, even though the Virginia 
+Supreme Court’s briefing order expressly permitted him to do so. (JA 182). In its opinion 
+reaffirming Ramdass’ sentence, the Virginia Supreme Court held as follows: 
+
+In Simmons, the Supreme Court held that when “future 
+dangerousness” is an issue in the sentencing phase of a capital 
+
+
+murder case, the jury is entitled to information concerning the 
+defendant’s parole ineligibility. Simmons, 512 U.S. at 114 S.Ct. 
+
+
+— | 
+
+
+* As the Fourth Circuit observed, § 53.1-151(B1) required that, before a convicted felon could 
+be classified as parole-ineligible, he must have been convicted of three offenses of murder, rape 
+or robbery with a deadly weapon, and further that the three or more offenses must not have 
+occurred as part of a common act, transaction or scheme. At the time the capital jury was 
+considering his sentence, Ramdass had been convicted of three robberies, but one involved no 
+deadly weapon and the other two occurred during the same restaurant robbery and, thus, clearly 
+were part of a common act, transaction or scheme. Ramdass also had been tried and found guilty 
+of the Domino’s Pizza robbery in Alexandria, but the trial court in that case did not enter 
+judgment on the jury’s verdict until after Ramdass’ capital jury had sentenced him. Thus, under 
+Virginia law, that guilty verdict could not have been counted as a qualifying “conviction” under 
+§ 53.1-151 at the time Ramdass’ capital jury inquired about his potential parole status. 
+
+
+(JA 202-204). 
+
+
+at 2198. Hence, Simmons applies only if Ramdass was ineligible for 
+parole when the jury was considering his sentence. 
+
+
+Code § 53.i-151(B) establishes a person's ineligibility for parole as 
+follows: 
+
+
+Any person convicted of three separate felony 
+offenses of (i) murder, (ii) rape or (iii) robbery by the 
+presenting of firearms or other deadly weapon, or any 
+combination of the offenses specified in subdivisions 
+(i), (ii) or (iii) when such offenses were not part of a 
+common act, transaction or scheme shall not be 
+eligible for parole. 
+
+
+At the time that the jury was considering Ramdass’ penalty on 
+January 30, 1993, Ramdass was not ineligible for parole since he had 
+only two “separate felony offenses” within the meaning of Code § 
+53.1-151(B)(1). They were: 
+
+
+(1) Ramdass’ January 22, 1993, convictions and sentences for the 
+armed robbery of two persons on August 25, 1992, at a Pizza Hut in 
+Fairfax County. Since both convictions arose from the same 
+transaction, they are considered as one felony offense under the 
+express provisions of Code § 53.1-151(B)(1). 
+
+
+(2) Ramdass’s convictions for Kayani’s capital murder and robbery 
+arising from the same transaction and, thus, considered as one felony 
+offense under Code § 53.1-151(B)(1). 
+
+
+We do not agree with Ramdass’s contention that his January 7, 1993, 
+conviction by a jury of an armed robbery in Alexandria also made 
+him ineligible for parole under the statute. Judgment had not been 
+entered on that verdict; therefore, it cannot be considered as a 
+conviction under Code § 53.1-151(B)(1). See Smith v. 
+Commonwealth, 134 Va. 589, 592-593, 113 S.E. 707, 709 (1922) 
+(jury’s verdict of conviction upon which no judgment had been 
+entered no conviction within meaning of statute disqualifying person 
+from holding public office). Since Ramdass was not ineligible for 
+parole when the jury was considering his sentence, the Simmons 
+decision does not affect his death sentence. Therefore, we will 
+reaffirm the trial court’s judgment, and reinstate the defendant’s 
+conviction and sentence to death. 
+
+
+Ramdass did not petition the Virginia Supreme Court for rehearing. He petitioned this 
+Court for certiorari review, however, and argued for the first time that the Virginia Supreme Court 
+improperly had found him eligible for parole under state law. (JA 207). This Court denied 
+certiorari on April 24, 1995. Ramadass v. Virginia, 514 U.S. 1085 (1995). 
+
+Ramdass repeated his generalized direct appeal Simmons claim during his state habeas 
+corpus proceeding. He did not challenge the Virginia Supreme Court’s finding of parole 
+eligibility. (JA 251-253). The Virginia Supreme Court refused to relitigate the matter under its 
+rule in Hawks y. Cox, 175 S.E.2d 271 (Va. 1970). (JA 283, allegation C(13)). When Ramdass 
+filed his § 2254 petition in the federal district court, however, he greatly expanded and changed 
+the Simmons complaint that had been presented to the Virginia Supreme Court. He argued that: 
+(1) under state law he allegedly was ineligible for parole; (2) the Virginia Supreme Court had no 
+authority to determine parole eligibility; (3) the Virginia Supreme Court’s decision was 
+internally inconsistent; (4) the Virginia Supreme Court ignored a decision of the Virginia Court 
+of Appeals; (5) the Virginia Supreme Court’s decision was at odds with the parole statute; (6) 
+even if the finding of eligibility was correct, the Simmons instruction still should have been 
+given; (7) the refusal to give the instruction violated the Eighth Amendment; (8) he was entitled 
+to the instruction as a matter of mitigating evidence; (9) the trial judge ignored Ramdass’ parole 
+ineligibility in imposing the death sentence; and (10) the Virginia Supreme Court was required 
+under Virginia Code § 17-110.1 to consider his parole ineligibility. (JA 315-344). 
+
+Despite the respondent’s assertion that the bulk of Ramdass’ Simmons complaint was 
+barred from review in federal court because it never had been presented to the Virginia Supreme 
+Court (JA 514-515), the Magistrate Judge ruled that it had been preserved in its entirety. (JA 
+
+
+732-733, 795-796). The Magistrate Judge then gratuitously ruled that Simmons was not a “new 
+
+
+10 
+
+
+rule” (JA 793, 797-804),° and went on to hold that: the Virginia Supreme Court’s eligibility 
+finding was “puzzling” (JA 805); the Virginia Supreme Court had misinterpreted Virginia law 
+(JA 807-810); and, in any event, Simmons was not limited to “the very narrow issue of specific 
+parole eligibility or lack thereof.” (JA 811). The Magistrate Judge thus found the Virginia 
+Supreme Court’s decision unreasonable under § 2254(d) and recommended vacatur of sentence. 
+(JA 812). 
+
+The District Judge found that two of Ramdass’ Simmons arguments never had been 
+presented to the Virginia Supreme Court and, therefore, were barred from review: the contention 
+that the Virginia Supreme Court had no authority to determine parole eligibility and the 
+contention that the Virginia Supreme Court’s parole finding was arbitrary. (JA 835). The 
+District Judge, however, agreed with the Magistrate Judge’s other conclusions: that Simmons 
+
+
+was but one of “a series of cases incrementally refining the process of applying the death 
+
+
+penalty” and that its “theme” was encompassed in prior cases from this Court requiring the 
+
+
+admission of mitigating evidence under the Eighth Amendment as well as those dealing with the 
+Fourteenth Amendment’s due process right to present rebuttal evidence® (JA 850); that the 
+Virginia Supreme Court’s decision “limited the application of Simmons...in a manner 
+inconsistent with the language in Simmons, required an inconsistent treatment of two separate 
+
+
+convictions of Petitioner, and contradicted more than one hundred years of Virginia law that 
+
+
+> In 1997, a year before the Magistrate Judge ruled in Ramdass’ case, this Court had held that 
+the rule in Simmons v. South Carolina was “new” and therefore inapplicable on federal collateral 
+review to cases which were final before Simmons was decided. O’Dell v. Netherland, 521 U.S. 
+151, 117 S.Ct. 1969 (1997). Ramdass’ case obviously was not final before Simmons was 
+decided and the respondent never has argued that the Simmons claim raised on direct appeal 
+was barred by the new rule doctrine. 
+
+
+° In Simmons, this Court expressly left open the question of whether the rule it had announced 
+was required by the Eighth Amendment. 512 U.S. at 162 n.4. 
+
+
+11 
+
+
+says a conviction occurs when the jury renders the verdict” (JA 849, emphasis added); and, 
+finally, that the Virginia Supreme Court unreasonably had applied Simmons “[e]ven assuming 
+the definition of ‘conviction’ was properly determined by the Virginia Supreme Court,” because 
+“the trial court, prosecution, and defense must have clearly understood that Petitioner was 
+subject to life without parole.” (JA 858). In the opinion of the district court, the “jury could 
+have been informed, with all confidence, that Petitioner would never be released from prison....” 
+(Id.). The district court “remanded” Ramdass’ case to the Circuit Court of Fairfax County for re- 
+sentencing. (JA 869). 
+
+On appeal, the Fourth Circuit held that the district court had erred. It held first that 
+Simmons requires a determination of whether the defendant is eligible for parole and that that 
+determination is a matter of state law, rather than a federal issue defined, as Ramdass asserted, 
+by a “nonlegalistic ‘commonsense impossibility of parole.” Ramdass, 187 F.3d at 405. Second, 
+the Court held that Ramdass’ nebulous standard for determining parole was contrary to Fourth 
+Circuit precedent. Id. at 406. Third, it held that, as a matter of logic, amy determination of a state 
+prisoner’s parole eligibility status has no meaning beyond what state law determines. Id. Fourth, 
+the Court held that Ramdass’ proposed “standard” was not “clearly established” under § 2254 
+(d)(1), and also ran afoul of the “new rule” doctrine of Teague v. Lane, 489 U.S. 288 (1989), 
+because it asked for an extension of what Simmons requires. Id. Finally, the Fourth Circuit held 
+that Ramdass’ “insinuation” that the Virginia Supreme Court had “acted craftily in denying his 
+Simmons claim” was completely unfounded: the Virginia rule that a conviction does not count 
+for parole eligibility purposes until a final sentencing order has been entered comports with the 
+“age-old rationale” that, before negative consequences (such as parole ineligibility) may be 
+imposed based upon a conviction, a defendant is accorded added protection by a definition of 
+
+
+12 
+
+
+“conviction” that limits it to orders which actually have been entered. In Ramdass’ case, the 
+Fourth Circuit accurately observed that the random order in which his trials and sentencing 
+proceedings had taken place was entirely foreseeable, given the fact that he had committed so 
+many felonies in such a short period of time. Id. at 407. 
+
+In his petition for rehearing to the Fourth Circuit, Ramdass for the first time expressly 
+abandoned his primary contention throughout the federal proceedings: that the Virginia Supreme 
+Court’s determination of his parole eligibility at the time of sentencing was wrong as a matter of 
+state law. (Pet. Rehrg. at 3, n.2). Instead, he argued that Simmons should be extended to his 
+case because it supposedly was “close” to Simmons, an implicit admission that it was not 
+“controlled” by Simmons. (Pet. Rehrg. at 5): The Fourth Circuit, however, rejected his 
+invitation to create a new rule, and denied the petition for rehearing. 
+
+Ill. The Ake Claim 
+
+Before trial, the Fairfax Circuit Court appointed Dr. Samenow, an expert in forensic 
+psychology, to assist Ramdass with sentencing issues pursuant to Virginia Code § 19.2-264.3:1. 
+The trial judge appointed Dr. Samenow because he “calls it like it is, whether it is in favor of the 
+Commonwealth or the defendant or either one.” (JA 28). The prosecutor noted on the record 
+that Dr. Samenow had testified for other defendants. (JA 28-29).’ During the sentencing phase 
+of trial, neither the prosecution nor the defense presented any expert witnesses. 
+
+
+Ramdass made no complaint about the appointment of Dr. Samenow at trial or on direct 
+
+
+: Another Virginia death-row inmate since executed, Dwayne Wright, expressly had asked for 
+
+
+Dr. Samenow at trial because he was so highly qualified. (JA 527). Dr. Samenow testified on 
+behalf of Wright at trial and presented extensive information that was favorable to that 
+defendant. (JA 550-616). Dr. Samenow also was appointed and testified for Calvin Swann, 
+another Virginia death-row inmate. See Swann vy. Taylor, 119 S.Ct. 1591 (1999) (cert. denied) 
+(BIO 96-8686 at p. 17-19). 
+
+
+13 
+
+
+appeal. In his state habeas petition, Ramdass claimed that his trial counsel had been ineffective 
+for allegedly failing to object to the appointment of Dr. Samenow. (JA 229). The Virginia 
+Supreme Court denied the claim of ineffective assistance for lack of merit. 
+
+In his federal habeas petition, Ramdass claimed that the appointment of Dr. Samenow 
+violated Ake v. Oklahoma, 470 U.S. 68 (1985). (JA 345-356). The district court found the 
+claim procedurally barred because it had not been presented in state court. (JA 836-837). 
+Ramdass also claimed that trial counsel had performed ineffectively because they did not object 
+to the so-called “pro-prosecution” stance of Dr. Samenow. The district court assumed for the 
+sake of argument that counsel performed deficiently under Strickland v. Washington, 466 U.S. 
+668 (1984), but denied the claim because the petitioner could not show the requisite prejudice. 
+Ramdass, 28 F. Supp. 2d at 370. 
+
+On appeal in the Fourth Circuit, Ramdass quoted from Dr. Samenow’s report in his 
+opening brief and filed a motion to supplement the record to include the report because, as he 
+admitted, the report never had been presented to the district court or made a part of the record 
+below. (Respondent's Appendix 1).* The Fourth Circuit denied Ramdass’ motion to supplement 
+the record. (Respondent’s Appendix 7). 
+
+With respect to the claim of Ake error, the Fourth Circuit held that “[e]ven though the 
+claim appeared [in the state habeas petition] under the heading of ineffective assistance of 
+counsel and the sub-heading of failure to secure a mental health expert, Ramdass nonetheless 
+grounded his claim on [Ake]” and thus had preserved the substantive claim of Ake error for 
+federal court review. Ramdass, 187 F.3d at 409 (emphasis added). The Fourth Circuit rejected 
+the claim of error, however, as follows: 
+
+
+, Needless to say, the report also never has been presented to any state court. 
+
+
+14 
+
+
+Ake provides a right to assistance of a mental health expert only if 
+
+
+a defendant made a showing to the trial court that his mental state 
+was at issue in his defense of the charges or if, in arguing future 
+dangerousness in the sentencing phase, the prosecution used expert 
+psychiatric testimony. See Ake, 470 U.S. at 82-83 (noting that the 
+need for the assistance of a psychiatrist is “readily apparent” either 
+when “the defendant is able to make an ex parte threshold showing 
+to the trial court that his sanity is likely to be a significant factor in 
+his defense” or “when the State presents psychiatric evidence of 
+the [capital] defendant's future dangerousness” during the penalty 
+phase (emphasis added)). Neither condition was met here. 
+
+
+Ramdass, 187 F.3d at 409. 
+The Fourth Circuit further rejected the related claim of ineffective assistance as follows: 
+
+
+Instead of presenting testimony from Dr. Samenow, who had failed 
+to identify any mitigating factors in his report on Ramdass, 
+Ramdass’ trial counsel presented testimony from Ramdass, his 
+brother, his mother, and a probation officer during the penalty 
+phase in an attempt to establish mitigating factors. Because the 
+jury was aware of the dysfunctional circumstances of Ramdass’ 
+childhood, Ramdass cannot now show a reasonable probability that 
+psychiatric testimony as to the same circumstances would produce 
+a different result. Moreover, neither Ake, 470 U.S. at 83, nor 
+Virginia Code § 19.2-264.3:1(A) creates a right to a particular 
+expert. Accordingly, Ramdass cannot show a reasonable 
+probability, as required by Strickland, that the Virginia Supreme 
+Court would have either removed Dr. Samenow upon objection or 
+appointed an additional expert upon request. 
+
+
+Id. at 410. 
+
+In his petition for a writ of certiorari, Ramdass quotes from, and relies upon, the report 
+prepared at the time of trial by Dr. Samenow. (Pet. at 10). Ramdass also has lodged a copy of 
+the report with this Court along with a cover letter informing the Court of the lodging. 
+(Respondent’s Appendix 9). In neither his petition for a writ of certiorari nor in his letter 
+covering his tndging of the capert deus Remtess mate ony aisutien, or tefern the Court tn 
+any manner, of the ruling by the Fourth Circuit that Dr. Samenow’s report - which never was 
+
+
+presented to any state court or any lower federal court — is not part of the record in this case. 
+
+
+15 
+
+
+REASONS WHY THE WRIT AND APPLICATION 
+FOR A STAY OF EXECUTION SHOULD BE DENIED 
+
+
+1. The Fourth Circuit Properly Determined that Ramdass Is 
+Asking For An Extension Of Existing Law And Therefore 
+That The Requested Relief Is Not Available On Collateral 
+Review. 
+
+Ramdass opens his argument with the remarkably incorrect contention that “[t}here has 
+never been disagreement as to the practical reality of Ramdass’ situation: If he was sentenced to 
+life imprisonment, he was never going to have the opportunity to be considered for release on 
+parole. No state or federal court judge has questioned that immutable fact.” (Pet. Cert. at 17). 
+However, as the opinions of the Virginia Supreme Court and Fourth Circuit clearly show, exactly 
+the opposite to Ramdass’ contention is true: it has been determined conclusively as a matter of 
+state law that a sentence of life imprisonment in the capital murder case would mot have rendered 
+him ineligible for parole.’ 
+
+Indeed, recognizing that relief under Simmons otherwise was not available to him, 
+Ramdass asserted throughout the years of post-conviction litigation that he was in fact ineligible 
+for parole at the time the jury was considering his sentence. He made this assertion the 
+centerpiece of his Simmons challenge in the Virginia Supreme Court on remand from this Court 
+on direct appeal, in this Court on certiorari review of that remand decision, in the \ ‘rginia 
+
+
+Supreme Court on habeas review, in the district court on federal habeas review and in the Fourth 
+
+
+‘ Even more puzzling is Ramdass’ completely incorrect statement that “even the Fourth Circuit 
+acknowledged [that] everyone except the jury knew that the only alternative sentence to death 
+was life without the possibility of parole.” (Pet. Cert. at 26). Ramdass cites to-no part of the 
+Fourth Circuit’s decision for this assertion as, indeed, no such statement was made by the Court 
+of Appeals. The Fourth Circuit steadfastly held that Ramdass was eligible for parole at the time 
+of his capital sentencing because the Virginia Supreme Court had so determined as a matter of 
+state law. 
+
+
+16 
+
+
+Circuit on appeal. He also argued specifically in the federal courts that the Virginia Supreme 
+Court had erred in its determination that, under Virginia law, he was not ineligible for parole.'° 
+
+Then, for the first time in the case, in his petition for rehearing in the Fourth Circuit, 
+Ramdass expressly abandoned his challenge to the Virginia Supreme Court's eligibility 
+determination. (Pet. Rehrg. at 3, n.2). Instead, Ramdass argued, as he now does, that, despite his 
+uncontested status as a parole-eligible defendant at the time his jury was deciding sentence, he 
+nevertheless was entitled to a no-parole instruction under his novel “functional reality of parole 
+ineligibility” test. (Pet. Cert. at 17).'' According to Ramdass, although he was “technically” 
+eligible for parole, he was “functionally” ineligible and, therefore, entitled to a Simmons no- 
+parole instruction. Just exactly what “functionally ineligible for parole” means, however, is 
+anything but clear under Ramdass’ theory, except. of course, to say that he qualified under that 
+amorphous test. 
+
+Ramdass’ current claim must be regarded as a request that this Court extend the holding 
+in Simmons to cover the unique facts of his case alone: he was parole-eligible at the time of his 
+capital sentencing, but, because it turned out that his subsequent convictions subsequently 
+rendered him parole-ineligible, Simmons should be interpreted to apply to him. Certainly no 
+precedent compelled a ruling in his favor at the time Ramdass’ case became final, or even today. 
+
+
+His claim thus is nothing less than a request for the creation of a new rule on collateral review 
+
+
+'0 Ramdass never contested this eligibility determination in state court. See Ramdass, 187 F.3d 
+at 402. 
+
+
+” In the Court of Appeals, Ramdass asserted that parole eligibility must be determined based 
+“on a nonlegalistic ‘commonsense impossibility of parole.”” Ramdass, 187 F.3d at 405. 
+
+
+17 
+
+
+that is prohibited, as the Fourth Circuit properly found, by both the new rule doctrine and 28 
+U.S.C. § 2254 (d)(1).'? Ramdass, 187 F.3d at 406. 
+
+Indeed, the argument Ramdass has constructed only demonstrates the novelty of his 
+theory. Ramdass does not argue that Simmons or any cases interpreting Simmons compel a 
+decision in his favor. Rather, he asks this Court to “grant certiorari to decide whether [the issue 
+here] should be analyzed using a technical or a functional mode of analysis.” (Pet. Cert. at 17, 
+emphasis added). Clearly, whether a new formula for analysis should be employed is a question 
+appropriately considered only in the context of direct review. It is expressly prohibited in the 
+context of a case like Ramdass’ that is on collateral review. See Gray v. Netherland, 518 U.S. 
+152, 166-169 (1996) (“habeas relief is appropriate only if ‘a state court considering [the 
+petitioner’s] claim at the time his conviction became final would have felt compelled by existing 
+precedent to conclude that the rule [he] seeks was required by the Constitution.’”) (quoting 
+Saffle v. Parks, 494 U.S. 484, 488 (1990)). 
+
+Ramdass asks this Court to employ a mode of analysis for parole-eligibility 
+determinations completely divorced from state law on the matter. He says the Court should use 
+the type of “reasonable person” test employed in determining whether a suspect is in custody 
+under Miranda vy. Arizona, 384 U.S. 436 (1966), or that used by federal courts deciding whether 
+a prisoner is in custody under 28 U.S.C. § 2254, or the formula used to determine whether a 
+defendant is entitled to the appointment of counsel, or the mode of analysis used by federal 
+courts when deciding whether a state law violates a provision of the Constitution. 
+
+
+'2 28 U.S.C. § 2254(d)(1) prohibits the granting of habeas relief on a claim rejected on its 
+merits by the state court unless the state court adjudication was contrary to, or an unreasonable 
+application of, “clearly established” federal law as determined by this Court. 
+
+
+The problem with these suggested tests — apart from their “new rule” implications — is 
+that none of the circumstances has anything to do with the issue in Simmons. In Simmons, the 
+information the defendant is entitled to impart to the jury is what his precise parole-eligibility 
+status will be under state law if given a life sentence. In the Miranda, federal habeas custody or 
+right to counsel contexts, the determinations are not dependent in any manner on state law. 
+
+In Miranda, the rules are formulated to guide police officers with no legal background. 
+In the federal habeas custody context, the rules guide federal judges by delineating the 
+parameters of their jurisdiction. And, in the context of the right to counsel, the rules are 
+formulated to guide the state courts in identifying the circumstances calling for the assistance of 
+counsel. None of these examples of “functional reality” governs what instructions must be given 
+to a jury, much less when a prisoner becomes ineligible for parole under state law. 
+
+Moreover, there is no issue in Ramdass’ case, and Ramdass makes no argument, that 
+Virginia’s parole-eligibility statute or determination is unconstitutional. Thus, the tax, and other 
+similar, cases he relies upon as examples of how a federal court assesses the “constitutional 
+consequences” of a state statute simply have no connection to the question in Ramdass’ case of 
+whether a State’s unchallenged and undeniably constitutional determination of parole-eligibility 
+status may be redetermined by a federal court on collateral review. 
+
+Ramdass also argues that this Court used a “functional” test in Simmons because, 
+according to Ramdass, Simmons was not really ineligible for parole. Ramdass goes to great 
+lengths to prove that South Carolina supposedly contended that Simmons was eligible for parole, 
+but his argument squarely is refuted by the opinion itself. In Simmons, not only had state 
+officials testified that Simmons was in fact ineligible for parole under state law, but the State of 
+
+
+South Carolina conceded this point at trial and never argued in this Court that he was eligible 
+
+
+19 
+
+
+for parole. See Simmons, 512 U.S. at 158 (plurality opinion). Thus, the decisive distinguishing 
+
+factor between Ramdass and Simmons is that here there is a ruling from the Virginia Supreme 
+Court that, under Virginia law, Ramdass was eligible for parole at the time of his capital 
+sentencing. 
+
+In his attempt to find similarity between his case and Simmons, Ramdass further 
+contends that Virginia’s position is like South Carolina’s argument that a no-parole instruction 
+should not have been given because Simmons may have been eligible for different forms of early 
+release. But that is not what South Carolina argued in Simmons. To the contrary, it argued that, 
+“notwithstanding [Simmons’] parole ineligibility, {Simmons} might receive holiday furloughs 
+or other forms of early release” and thus the jury should not be misled to believe Simmons could 
+not be released despite his parole-ineligibility status. Id. at 158 (emphasis added). This Court 
+rejected South Carolina’s reasoning because, unlike the other forms of possible release, 
+Simmons’ present parole-ineligibility was a certainty as a matter of state law, known at the time 
+of sentencing, conceded by the State and thus a “legally accurate” factor the jury was entitled to 
+consider when evaluating his future dangerousness. Id. at 166. 
+
+Virginia’s position always has been simply that Ramdass’ case does not fall within the 
+ambit of Simmons because an ineligibility instruction in his case would not have been “legally 
+accurate,” a fact even Ramdass must concede unless the undefined, nebulous “functional reality” 
+view of ineligibility prevails. While Simmons had been determined parole-ineligible under 
+South Carolina law, Ramdass has been determined to have been parole-eligible under Virginia 
+law at the time of his capital sentencing proceeding. The difference is dispositive. 
+
+Ramdass’ complaint is one that any death-row inmate may make: odds are that he never 
+
+
+would be released into society if given a life sentence, so he should have been able to instruct the 
+
+
+jury on those odds. Simmons, of course, imposes no such requirement and courts uniformly 
+
+
+have rejected any extension of Simmons to similar situations. See, ¢.g., Roach vy. Angelone, 176 
+
+
+F.3d 210, 220 (4th Cir.) (Simmons does not apply to defendant who would be eligible for parole 
+
+
+after serving twenty-five years), cert. denied, 120S.Ct.__ (1999); Hughes v. Johnson, _ F.3d 
+__, 1999 U.S. App. LEXIS 24842 at *22 (Sth Cir. 1999) (same); Ingram v. Zant, 26 F.3d 1047, 
+1054 (11th Cir. 1994) (same); Burgess v. Georgia, 450 S.E.2d 680, 693 (Ga. 1994) (same). 
+
+Indeed, just to state the hypothetical instruction that would have had to have been given 
+in Ramdass’ case in order to convey accurate information to the jury — and Ramdass does not 
+even attempt to articulate the instruction he believes he was entitled to - is to demonstrate how 
+far removed Ramdass’ case is from Simmons. If his claim had any merit, Ramdass’ jury would 
+have had to have been instructed as follows: 
+
+
+You are instructed that the conviction in this case will count as the 
+second out of three convictions necessary to make the defendant 
+ineligible for parole under state law and that, therefore, a life 
+sentence in this case will not render the defendant ineligible for 
+
+
+parole. 
+
+
+In a separate case, however, the defendant has been tried and found 
+guilty of another offense upon which a judgment of conviction has 
+not yet been entered. Under Virginia law, the court in that case may 
+decide to set aside that guilty verdict or retry the case. 
+
+
+If the court in that case decides to set aside or retry, the jury’s verdict 
+in that case would not render the defendant ineligible for parole if 
+you elect to fix punishment at life. However, if the court in that case 
+decides to enter a judgment of conviction upon the jury’s verdict, it 
+would count as a third conviction making the defendant ineligible for 
+parole if you elect to fix punishment at life. 
+
+
+It is unknown when the court in that other case will make its 
+decision. 
+
+
+Certainly, Simmons does not require such an instruction. The plurality opinion plainly stated 
+
+
+that “where ... state law prohibits the defendant’s release on parole, due process requires that the 
+
+
+21 
+
+
+we 
+
+
+sentencing jury be informed that the defendant is parole ineligible.” Simmons, 512 U.S. at 156 
+(emphasis added). Justice O’Connor’s concurring opinion plainly stated that a no-parole 
+instruction was required “in cases in which the only available alternative sentence to death is life 
+imprisonment without possibility of parole ....” Id. at 177. Thus, under Simmons, Ramdass 
+simply was not entitled to a no-parole instruction because a life sentence would not have 
+rendered him ineligible for parole. 
+
+Ramdass, moreover, is wrong when he argues that, under Virginia Supreme Court Rule 
+3A:15, the Alexandria Circuit Court had no choice but to enter judgment on the Domino’s Pizza 
+robbery verdict and that that conviction therefore was a certainty. (Pet. Cert. at 8,n.4). First, his 
+argument is foreclosed by the Rule itself which vests a Virginia trial court with absolute 
+authority either to enter a judgment of acquittal or to grant a new trial up to twenty-one days after 
+a final order has been entered. (Pet. App. at 67). Indeed, Ramdass admits this undeniable fact. 
+(Pet. Cert. at 8, n.4). 
+
+Ramdass states, however, that the fact that the Rule also could have resulted in a setting 
+aside of the judgment in the capital murder case and yet the Virginia Supreme Court still counted 
+that judgment as a “conviction” under § 53.1-151, the parole statute, somehow shows that the 
+Virginia Supreme Court rejected a “hypothetical possibility of release” under the Rule. (Id.). 
+This convoluted logic is completely unfounded: the question decided by the Virginia Supreme 
+Court was not whether a trial, or any, court has the authority to set aside a guilty verdict before 
+entry of final judgment but only whether a final judgment had in fact been entered so as to 
+trigger the parole statute at all. The Dominos Pizza guilty verdict had not been imposed by the 
+
+
+trial court and thus, under Virginia law, could not count as a “conviction.” 
+
+
+22 
+
+
+i en ahh ot RA Ac SR EZ 
+CREE ATES URES SPHERES. ~ fn ORR NRA is fm PT a 
+
+
+Second, Ramdass’ “Rule 3A:15” argument is nothing more than an attempt to second 
+guess the Virginia Supreme Court on a matter of pure state law. The federal courts, however, are 
+
+
+not free to redecide matters of state law. See Estelle v. McGuire, 502 U.S. 62, 67-68 (1991): 
+
+
+Lewis v. Jeffers, 497 U.S. 764, 780 (1990); Engle v. Isaac, 456 U.S. 107, 119 (1982). 
+
+What Ramadass is left with is an argument that, although the Virginia Supreme Court was 
+fully authorized to interpret its own parole statute and to find that Ramdass was not ineligible for 
+parole at the time his capital jury was considering sentence, this Court should grant certiorari to 
+decide whether the federal court may find that he was ineligible for parole under a “functional 
+reality” test that is not tied to any state law defining when a person becomes ineligible for 
+parole.'? Ramdass seeks relief for himself alone through a reinterpretation of Simmons and of 
+federal law governing collateral review that has no support in either this, or any lower, Court’s 
+cases. His claim, therefore, presents no “compelling” reason to grant certiorari because the 
+Fourth Circuit's decision is simply a straightforward application of this Court’s precedents which 
+will have no impact beyond the parameters of Ramdass’ case. See U.S. Sup. Ct. R. 10. 
+
+Il. The Fourth Circuit's Rejection Of Ramdass’ 
+“Ineffective Psychologist” Claim Does Not 
+
+
+Conflict With Ake v. Oklahoma Or With Other 
+Circuits. 
+
+
+It is undisputed that the trial court appointed an independent mental health expert to assist 
+Ramdass with sentencing issues, that the trial court considered Dr. Samenow eminently qualified 
+
+
+and that Dr. Samenow had testified on behalf of other capital defendants, including at least one 
+
+
+1 oe ae , , « : 
+> The Fourth Circuit certainly was correct when it recognized that, “as a matter of simple 
+
+
+logic, the fact that a defendant will have no possibility of parole if given a life sentence can only 
+stem from the legal conclusion that state law bars eligibility for parole. Because parole 
+eligibility is entirely a creature of state law, Ramdass’ conception of practical or functional 
+parole eligibility must inevitably collapse into a determination of state law.” Ramdass, 187 F.3d 
+at 406. 
+
+
+23 
+
+
+who requested his appointment. It also is undisputed that Ramdass made no complaint about Dr. 
+Samenow’s appointment until his state habeas lawyers faulted his trial lawyers for not objecting 
+to Dr. Samenow, that Ramdass made no separate claim under Ake v. Oklahoma about Dr. 
+Samenow until he filed his federal habeas petition and that the Fourth Circuit denied Ramdass’ 
+motion to supplement the record with Dr. Samenow’s report because Ramdass had not offered 
+the report to any state or lower federal court for review. 
+
+Ramdass now argues that certiorari should be granted in order to resolve a conflict 
+between the circuits about what showing a defendant must make before a State is required to 
+appoint an independent mental health expert. It is important to understand, however, that 
+Ramdass does not claim that the trial court denied his motion for the appointment of an expert or 
+that the expert appointed was not independent. Rather, Ramdass claims that, because his expert 
+did not give him a favorable report for mitigation purposes, he was entitled to a different expert 
+who would testify favorably. Certiorari should not be granted because Ramdass’ ciaim was not 
+properly preserved below, because it is barred by the “new rule” doctrine, because any conflict 
+among the circuits over what Ake requires before an expert must be appointed is irrelevant to the 
+Fourth Circuit’s decision and because Ramdass’ claim is not even governed by Ake at all. 
+
+A. The claim was not properly preserved. 
+It is elemental that a habeas petitioner must have presented his claim to the state court before 
+a federal court may consider it on collateral review. See Gray, 518 U.S. at 165. Indeed, a habeas 
+petitioner does not meet this requirement simply by making the claim in state court under one 
+constitutional theory and then raising the same claim in federal court under a different 
+constitutional theory. See Duncan v. Henry, 513 U.S. 364 (1995). Ramdass did not make his 
+
+
+Ake claim until he filed in federal court. As the Fourth Circuit found, in the state habeas 
+
+
+24 
+
+
+petition, “the claim appeared under the heading of ineffective assistance of counsel and the sub- 
+heading of failure to secure a mental health expert.” Ramdass, 187 F.3d at 409. The claim was 
+presented to the state court, then, as one of ineffective assistance yet presented to the federal 
+court as a due process violation. Under Duncan, therefore, Ramdass failed properly to preserve 
+
+
+his Ake due process claim for federal court review and it is thus not appropriate for certiorari 
+
+
+review. 
+B. The claim is not controlled by Ake and 
+thus is barred by the “new rule” doctrine. 
+In Ake v. Oklahoma, the issue was whether and when a State had a due process 
+
+
+obligation to provide an indigent capital defendant with the services of a mental health expert. 
+Ake in no way dealt with the issue of whether there is a cognizable constitutional claim of 
+“ineffective assistance” of mental health expert, the precise claim that Ramdass has raised in his 
+federal petition. Indeed, Ake not only did not address the quality of the mental health expert’s 
+performance, but it expressly held that a defendant has no right to choose a particular expert. 
+See Ake, 470 U.S. at 83. Ake, therefore, simply does not govern Ramdass’ complaint. 
+
+Thus, to the extent Ramdass relies on Ake for relief, his claim undoubtedly is barred by 
+the “new rule” doctrine. This Court has refused to extend the Strickland-type inquiry regarding 
+effective assistance of trial counsel to claims of ineffective assistance of habeas counsel. See 
+Coleman v. Thompson, 501 U.S. 722, 752 (1991). The Court never has suggested that there 
+exists an even more remote right to the “effective assistance” of a mental health expert. Clearly, 
+such a novel question, if ever addressed, must be tackled on direct review. There is no existing 
+authority compelling acceptance of such a claim. Thus the claim is barred from review in federal 
+collateral proceedings by the “new rule” doctrine. See Gray, 518 U.S. at 169. 
+
+
+25 
+
+
+C. Ramdass’ “conflict” argument is groundless. 
+
+Ramdass argues that cases from five other circuits demonstrate a conflict over the 
+application of Ake. His contention goes as follows: the Fourth Circuit held that there is no right 
+to an expert in sentencing under Ake unless the defendant's mental health is at issue or the 
+prosecutor himself uses an expert to prove future dangerousness, but the Tenth, Eleventh, Eighth, 
+Ninth and Sixth Circuits have held that Ake applies even when the prosecutor does not use an 
+expert. In his dissenting and concurring opinion below, Judge Murnaghan rejected Ramdass’ 
+Ake claim because “Ake’s application when the prosecution has not presented its own 
+psychiatric evidence on future dangerousness is not clearly established by the Supreme Court” 
+and thus is barred by § 2254(d)(1). Ramdass, 187 F.3d at 411. Under either § 2254(d)(1) or the 
+“new rule” doctrine, Judge Murnaghan undoubtedly was correct. If, in fact, the circuits are in 
+conflict over what Ake requires before the State must appoint an expert, then the issue is per se 
+barred by the new rule doctrine in this collateral case because it is a paradigmatic example of an 
+issue that is “susceptible to debate among reasonable minds.” See O’Dell, 521 U.S. at 159, 
+quoting Butler v. McKellar, 494 U.S. 407, 415 (1990). Thus, if the issue is to be resolved, it 
+must be decided on direct review and not in this collateral case. 
+
+The most glaring problem with Ramdass’ “conflict” argument, however, and the reason it 
+really has no effect whatsoever on Ramdass’ case, is twofold: first, Ramdass never even 
+presented his Ake complaint about Dr. Samenow to the state court except by way of a claim of 
+ineffective assistance of trial counsel. Ramdass’ default only highlights the unfairness to the 
+state courts of considering a claim that was found barred by the federal district court and that 
+only the federal court of appeals reached. 
+
+
+Second, the “conflict” is over when a state court must appoint an expert, a completely 
+moot point in Ramdass’, or any Virginia, case. Virginia Code § 19.2-264.3:1 guarantees to all 
+capital defendants - simply for the asking - what the federal courts of appeals supposedly are in 
+conflict over. Ramdass received the benefit of Virginia’s extra-constitutional provision. Thus, 
+even if there is a conflict in the federal courts over when Ake requires appointment of an expert. 
+the resolution of that conflict can have absolutely no impact in Ramdass’ case. He already 
+received what Ake requires, under amy circuit's interpretation. 
+
+Finally, the cases themselves do not demonstrate a conflict with Ramdass’ case. First, in 
+Terry v. Rees, 985 F.2d 283 (6th Cir. 1993), the court of appeals held that Ake required the 
+appointment of a pathologist, the denial of which appointment was found to be harmless error. 
+Obviously, that decision is irrelevant to the issues in Ramdass’ case and, if anything, is in 
+conflict with this Court's “new rule” doctrine. 
+
+Second, of the four remaining cases, three were cases in which the state trial courts had 
+denied the defendants’ motions for appointment of any independent mental health expert. See 
+Moore v. Reynolds, 153 F.3d 1086, 1108-09 (10th Cir. 1998) (defendant made proper showing 
+that mental state at issue but denial of expert was harmless), cert. denied. 119 S.Ct. 1266 (1999); 
+Starr v. Lockhart, 23 F.3d 1280, 1290 n.8 (8th Cir.) (denial of independent expert in case error 
+where defendant was retarded and where reasonable probability expert would aid defendant in 
+sentencing), cert. denied, 513 U.S. 995 (1994); Smith v. McCormick, 914 F.2d 1153, 1157-59 
+(9th Cir. 1990) (trial court’s own expert appointed for a competency exam did not fulfil Ake’s 
+requirement of an independent expert to assist the defense with sentencing issues), cert. denied, 
+
+
+504 U.S. 901 (1992). 
+
+
+27 
+
+
+The Tenth and Eighth Circuits in Moore and Starr do note in passing that, although Ake 
+seems to limit the right to an expert to cases where the prosecutor uses one, they see no reason to 
+so limit the right and thus will apply Ake whenever the defendant makes a showing that his 
+mental state will be at issue. The Ninth Circuit in Smith simply does not address Ake’s holding 
+that a defendant is entitled to an expert when the prosecutor will be using an expert to prove 
+future dangerousness. The most that these cases prove, however, is that there is a “debate among 
+reasonable minds” over what Ake requires: a debate that, as shown above, only demonstrates the 
+claim’s “new rule” character and its irrelevance to Ramdass’ case where an expert was appointed 
+at his request. 
+
+In the last case, Clisby v. Jones, 960 F.2d 925, 928 (11th Cir. 1992), the in banc court of 
+appeals reversed the district court’s granting of habeas relief on the basis of Ake. The court of 
+appeals noted that it did not believe Ake should be restricted to cases where the prosecutor had 
+used expert testimony, found that the appointed expert’s performance should be examined for 
+competency and then found the expert competent. Id. As demonstrated above, such an 
+extension of Ake represents a conflict not with Ramdass’ case, but with this Court’s “new rule” 
+jurisprudence. (See above at subsection B). 
+
+D. Dr. Samenow was competent. 
+
+Ramdass never has presented any evidence that Dr. Samenow was or is incompetent 
+under any standard. The record in this case demonstrates that Dr. Samenow was qualified to 
+assist the defense with sentencing issues. He testified for other capital defendants (JA 28-29, 
+527, 550-616, see also Swann BIO 96-8686) and was appointed in Ramdass’ case by a trial judge 
+who believed he “calls it like it is, whether it is in favor of the Commonwealth or the defendant 
+
+
+or either one.” (JA 28). Indeed, that quality of objectivity no doubt was and is the genesis of 
+
+
+28 
+
+
+I A Bi A ARNE RST RII IASG) SOR i CIA IERIE ae em eH 
+SS ERS A VT SNE PPE OES. LVR PERRIN a NOH OU AGA Ea Se RE LGR LIE EE eh EIR or ENRMIRNR NNR me | 
+
+
+Ramdass’ true complaint — that he did not have an expert of his own choosing to say what he 
+wanted the expert to say. However, nothing in Ake or any other authority guarantees a particular 
+result. 
+
+Moreover, although Ramdass has lodged with the Court the report Dr. Samenow prepared 
+in preparation for trial, and although Ramdass has failed to inform this Court that the Fourth 
+Circuit expressly denied his motion to supplement the record with this report because it never 
+was presented to any state or lower federal court, the report does not support his claim of 
+incompetence. In fact, the report is a twelve-paged, straightforward recitation of Ramdass’ 
+responses to Dr. Samenow’s questions as well as an in-depth review of his troubled backgrounc 
+and poor upbringing. On the first page of his report, Dr. Samenow recites the fact that he m4 
+with Ramdass three times for a total of six and three-quarter hours, that he administered a 
+standard intelligence test, that he interviewed Ramdass’ mother, that he reviewed the Virginia 
+Code section charging him with assisting in the formulation of specified mitigating factors and 
+that he reviewed nine prior evaluations performed on Ramdass. 
+
+Dr. Samenow recites that, when asked about his mother’s report that he had exposed 
+himself in elementary school, Ramdass said, “Everybody did it to girls — show ‘em my dick.” 
+Ramdass never held a full-time job, lived on the streets, and, according to his mother, had a 
+reputation as “ruthless.” Ramdass told Dr. Samenow that he “always kept a gun” since 
+childhood. (Report at 3). 
+
+His mother told Dr. Samenow that Ramdass was heavily involved in the selling of 
+cocaine and PCP. Ramdass told Dr. Samenow he had made close to $20,000 selling drugs. His 
+
+
+mother said he cursed at a judge who had sentenced him for breaking and entering at age twelve. 
+
+
+(Report at 4). 
+
+
+Ramdass also told Dr. Samenow that he never obtained a driver's license and would 
+throw away every ticket he received. He expressed his hatred for the police and admitted that he 
+had escaped from the juvenile institutions in which he had been placed and had brutally assaulted 
+other juveniles while incarcerated. (Report at 5). Ramdass’ mother reported that Ramdass’ 
+father and her subsequent boyfriends were abusive to Ramdass and the records show that 
+Ramadass lived in foster care for several months when his mother was unable to take care of him. 
+(Report at 7). 
+
+The records further showed that Ramdass’ background was extremely deprived, 
+neglectful and abusive. Ramdass, however, defended his mother to Dr. Samenow and insisted 
+that she worked hard and tried to take care of him. (Report at 8). Ramdass’ mother reported that 
+some of the places they lived were crime-ridden. (Report at 10). And Dr. Samenow concluded 
+that Ramdass was intelligent, albeit uneducated. (Id.). 
+
+This report hardly supports a conclusion that Dr. Samenow was unqualified to evaluate 
+Ramdass.'* Ramdass chose not to put Dr. Samenow on the stand to testify because Dr. 
+Samenow had concluded that Ramdass was dangerous. No controlling precedent then or now 
+
+
+entitled Ramdass to the appointment of a different expert or of an expert who, despite the 
+
+
+14 
+
+
+This Court denied Dwayne Wright’s application for a stay of execution which also was based 
+
+
+upon the claim that Dr. Samenow was unqualified under Ake. See Wright v. Angelone, 119 
+S.Ct. 370 (1998) (No. A-289). 
+
+
+overwhelming evidence to the contrary, would conclude that he was not dangerous. '° 
+
+
+Ill. Ramdass Is Not Entitled To A Stay Based Upon 
+The Grant Of Certiorari In Williams vy. Taylor. 
+
+
+Ramdass briefly argues that this Court should “hold” his case for the decision in Terry 
+
+
+Williams v. Taylor, No. 98-8384. In Williams, the Court will decide whether the Fourth 
+
+
+Circuit’s interpretation of the deference standard in § 2254 (d) was correct. As Ramdass 
+candidly admits (Pet. Quest. 3), however, the Fourth Circuit’s recitation of § 2254 (d) in his case 
+represents an alternative holding. 
+
+For example, on the Simmons claim, the Fourth Circuit addressed the claim on its merits, 
+found that Simmons did not apply because Ramdass was not ineligible for parole and then also 
+held that a contrary ruling would run afoul of either § 2254 (d)’s “clearly established” provision 
+or the “new rule” doctrine. Ramdass, 187 F.3d at 406-407. On the Ake claim, the Fourth Circuit 
+held that the Virginia Supreme Court’s rejection of the claim was not an unreasonable 
+application of “clearly established federal law” under § 2254 (d) because the Ake claim itself 
+had no merit. \|d. at 409. Thus, the Fourth Circuit’s judgment does not ultimately rest upon its 
+interpretation or application of § 2254 (d): the judgment rests upon a rejection of the merits of 
+
+
+the claims themselves. 
+
+
+> No expert testified for either side on the issue of Ramdass’ “future dangerousness” and, 
+
+
+obviously, no expert opinion was needed. Ramdass’ record was one of the worst in Virginia's 
+recent history: he committed a purse-snatching from an elderly woman when he was fourteen. 
+On probation from that offense, he began to sell drugs. Soon after, he stole a moped and broke 
+into a house. He was paroled from that offense, reincarcerated and then escaped. At age 
+seventeen, he robbed a man and was arrested in possession of a gun. Shortly after being paroled 
+again, he obtained a gun and committed six armed robberies. Some of these robberies involved 
+brutal physical violence, including the capital murder. See Ramdass, 437 S.E.2d at 574. 
+Ramdass also was convicted of a second murder he committed in Alexandria in 1992, but that 
+offense was not presented by the prosecution for consideration in the capital sentencing. 
+
+
+31 
+
+
+This Court should not grant certiorari or a stay of execution on the basis of another case 
+that can have no effect upon the judgment of the Fourth Circuit in Ramdass’ case. The Fourth 
+Circuit’s opinion clearly demonstrates that its judgment in Ramdass’ case — to deny collateral 
+relief — will remain exactly the same regardless of how this Court interprets § 2254 (d) in 
+
+
+Williams. See generally Black v. Cutter Laboratories, 351 U.S. 293, 297-298 (1956) (this Court 
+
+
+grants certiorari to review “judgments, not statements in opinions”). 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari and application for stay of execution should be denied. 
+Respectfully submitted: 
+
+
+RONALD J. ANGELONE, DIRECTOR 
+
+
+Counsel 
+
+
+Mark L. Earley 
+Attorney General of Virginia 
+
+
+Katherine P. Baldwin 
+Assistant Attorney General 
+Counsel of record 
+
+
+Office of the Attorney General 
+900 East Main Street 
+Richmond, Virginia 23219 
+(804) 786-4624 
+
+
+32 
+
+
+99-7000 
+99A416 
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+
+
+BOBBY LEE RAMDASS 
+Petitioner, 
+v. 
+RONALD J. ANGELONE, 
+
+
+DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals for the Fourth Circuit 
+and on Application for a Stay of Execution 
+
+
+RESPONDENT'S APPENDIX 
+
+
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+NO. 98-30 (L) 
+
+
+BOBBY LEE RAMDASS 
+Petitioner-Appellee, th 
+v. tie 
+
+
+me 
+RONALD ANGELONE, DIRECTOR, A = 
+
+
+VIRGINIA DEPARTMENT OF CORRECTIONS 
+APR 6 1999 
+
+
+Respondent-Appellant. 
+
+
+APPEAL AND CROSS-APPEAL FROM THE UNITED STATES 
+DISTRICT COURT FOR THE EASTERN DISTRICT OF VIRGINIA 
+NORFOLK DIVISION 
+
+
+PETITIONER-APPELLEE'S MOTION 
+—TIO SUPPLEMENT THE RECORD _ 
+
+
+Petitioner-Appellee (hereafter “Mr. Ramdass”) files this Motion to 
+Supplement the Record pursuant to Rules 10(e) and 27 of the Federal Rules of ) 
+Appellate Procedure and Fourth Circuit Local Rule 10(e). Specifically, Mr. 
+Ramdass seeks to supplement the record by submitting the twelve-page document 
+entitled “Report of Psychological Evaluation” prepared by Dr. Stanton E. Samenow 
+
+
+Resp. App. | 
+
+
+Criminal Litigation Sectior 
+Office of the Attorney Genei 
+
+
+on January 5, 1993 (hereafter “Report”). (A copy is attached hereto in the 
+Addendum.) In support of this Motion, Mr. Ramdass states as follows: 
+
+1. If material is inadvertently omitted from the record, an appellate court 
+has the power to supplement the record and consider the material in rendering its 
+decision. See Fed. R. App. P. 10(e)(2); Fourth Cir. R. 10(e). This is true even if the 
+material was never presented to the district court. See Fry v. Patseavouras, 974 
+F.2d 1330, 1992 WL 212146, at *3 n.3 (4th Cir. 1992) (unpublished opinion) (copy 
+attached hereto in the Addendum); Liberatore v. Story, 854 F.2d 830, 833 n.2 (6th 
+Cir. 1988); Ross v. Kemp, 785 F.2d 1467, 1474-75 (11th Cir. 1986); Gibson v. 
+Blackburn, 744 F.2d 403, 405 n.3 (Sth Cir. 1984). The record may be 
+supplemented after briefing is underway. See Liberatore, 854 F.2d at 833 n.2 
+(stating that the motion to supplement was granted “[sJhortly before oral 
+argument”’). 
+
+2. Ina death penalty case, it is especially important that a federal 
+appellate court review the case on a complete record. Dobbs v. Zant, 506 U.S. 357, 
+358 (1993). Indeed, federal appellate courts have unique powers in habeas corpus 
+cases generally. See Ross, 785 F.2d at 1475. 
+
+3. | A-key factor in determining whether the record should be 
+
+
+supplemented is the degree of relevance of the material to be added. See Dobbs, 
+
+
+2 Kesp. App. al 
+
+
+506 U.S. at 359. A second key factor is whether the “interests of justice” would be 
+
+
+served by doing so. See Ross, 785 F.2d at 1475. Another factor is whether remand 
+of the case to the district court for the purpose of supplementing the record would 
+be contrary to the efficient use of judicial resources. Id.; Gibson, 744 F.2d at 405 
+n.3. 
+
+4. If a document was omitted from the record but was referred to in 
+documents that were made part of the record, a federal appellate court may 
+supplement the record by adding the underlying document. See Erkins v. Bryan, 
+663 F.2d 1048, 1052 n.1 (11th Cir. 1981) (motion to supplement unopposed by 
+other party), cert. denied sub nom. United Stee] Workers of America v. Erkins, 459 
+U.S. 989 (1982). 
+
+5. | Mr. Ramdass seeks to supplement the record with the psychological 
+Report prepared by Dr. Samenow on January 5, 1993. This Report was 
+inadvertently omitted from the District Court record. However, the Report was 
+reviewed by several witnesses whose affidavits were attached to Mr. Ramdass’ 
+
+
+Petition filed in the District Court. Specifically, the Report was reviewed by 
+
+
+Leonard Piotrowski (Mr. Ramdass’ trial counsel), Peter Greenspun (Mr. Ramdass’ 
+
+
+proffered expert on criminal trial practice), and Dr. Reuben Koller (Mr. Ramdass’ 
+proffered mental health expert). Mr. Piotrowski states in his affidavit that he 
+
+
+3 | Resp. App. 3 | 
+
+
+received the Report and he discusses Dr. Samenow’s views expressed therein. 
+(Fourth Circuit Joint Appendix ["JA”] 445.) Dr. Koller states in his affidavit that he 
+reviewed the Report. (JA 472.) He also discusses the Report and the shortcomings 
+in Dr. Samenow’s approach as reflected in the Report. (JA 474-75.) 
+
+6. Because Mr. Ramdass asserts that Dr. Samenow was wholly 
+ineffective as a mental health expert and because Mr. Ramdass submits that his trial 
+counsel were ineffective for not objecting to Dr. Samenow's appointment, Dr. 
+Samenow's Report is unquestionably relevant to this habeas appeal. The Report is 
+especially c: acial on these issues because it was prepared by Dr. Samenow a mere 
+three weeks before Mr. Ramdass' trial. 
+
+7. Toremand this case to the District Court simply to admit the twelve 
+page Report would not be an efficient use of judicial resources. The interests of 
+justice would be served, however, if this Court were to consider the Report in 
+assessing Mr. Ramdass' claims concerning Dr. Samenow. 
+
+8. Given the clear relevance and crucial nature of Dr. Samenow's Report, 
+and given the inadvertence of its omission, Mr. Ramdass respectfully requests that 
+this Court supplement the record by adding the Report to the materials to be 
+
+
+considered in this case. 
+
+
+i 
+| 
+
+
+9. Katherine P. Baldwin, counsel for Respondent-Appellant, has indieated 
+
+
+that Respondent-Appellant will oppose this Motion to Supplement the Record. 
+
+
+BY: 
+
+
+Respectfully submitted, 
+
+
+BOB 
+
+
+John M. Ryan (VSB #4301) 
+F. Nash Bilisoly (VSB #19066) 
+VANDEVENTER BLACK LLP 
+500 World Trade Center 
+Norfolk, VA 23510 
+
+(757) 446-8600 
+
+
+Michele J. Brace (VSB #36748) 
+
+VIRGINIA CAPITAL REPRESENTATION 
+RESOURCE CENTER 
+
+1001 E. Main Street 
+
+Richmond, VA -23219 
+
+(804) 643-6845 
+
+
+5 Resp. App », 
+
+
+CERTIFICATE OF SERVICE 
+
+
+I hereby certify that on April 5, 1999, a true copy of the foregoing pleading 
+was mailed to: 
+
+
+Katherine P. Baldwin 
+Assistant Attorney General 
+Office of the Attorney General 
+900 E. Main Street 
+Richmond, VA 23219 
+
+
+~ J rN 
+F. Nash Bilisoly (VSB #19066) 
+VANDEVENTER BLACK LLP 
+500 World Trade Center 
+Norfolk, VA 23510 
+(757) 446-8600 
+
+
+Av FILED: July 29, 1999 
+» 
+
+
+ce aff UNITED STATES COURT OF APPEALS 
+
+
+\4 
+e — gion THE FOURTH CIRCUIT 
+
+
+* wt eae 
+
+
+No. 98-30(L) 
+(CA-96-83 1-2) 
+
+
+BOBBY LEE RAMDASS, 
+Petitioner - Appellee, 
+versus 
+
+
+RONALD J. ANGELONE, Director, Virginia 
+Department of Corrections, 
+
+
+Respondent - Appellant. 
+
+
+ORDER 
+
+
+Appellee/cross-appellant has filed a motion to supplement the record pursuant to Rule 
+10(e) of the Federal Rules Of Appellate Procedure and this Court's Local Rule 10(e). 
+Appellant/cross-appellee filed a response in opposition to the motion, and appellee/cross- 
+appellant filed a reply in support of the motion. Appellee/cross-appellant has also filed an 
+application for certificate of appealability for his cross-appeal, No. 98-32. 
+
+The Court denies appellee/cross-appellant’s motion to supplement the record and grants 
+appellee/cross-appellant’s application for certificate of appealability in No. 98-32. 
+
+
+Resp. Kop. am 
+
+
+Entered at the direction of Judge Niemeyer with the concurrence of Judge Murnaghan 
+
+
+and Judge Widener. 
+
+
+For the Court 
+
+
+Law OFrices 
+VANDEVENTER BLACK LLP 
+
+
+OCTEEES Gece =~ SUC are 8oven 
+
+
+avece-008 VIRGINIA 23510-1699 ey 
+a MORTON (TST) 446-8600 a 
+GED aD Clb See FACSIMILE (757) 446-8670 Prcumans 10171) e2e-coes 
+F. NASH BILISOLY 
+abil soty@vanbik com 
+November 12, 1999 
+Ms. Cynthia Rapp, Clerk ) 
+United States Supreme Court 
+1 First St. NE 
+Washington, DC 20543 
+Re: Bobby Lee Ramdass v. Ronald J. Angelone, Director of the Virginia 
+Department of Corrections. 
+
+
+Fourth Circuit C.A. No. 2:96cv831 
+Dear Ms. Rapp: 
+
+In conjunction with the Petition for Certiorari filed by Petitioner in this matter, enclosed 
+please find a copy of a videotape transcript of the CBS news program 60 Minutes on February 
+20, 1977 and the report of Psychological Evaluation prepared by Dr. Stanton E. Samenow, dated 
+January 5, 1993 and for lodging with the Court. ; 
+
+
+Thanking you for your attention to this matter, | remain 
+
+
+ery 
+
+
+Resp- App 
+
+

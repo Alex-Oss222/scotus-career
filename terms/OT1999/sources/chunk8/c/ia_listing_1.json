@@ -1,0 +1,120 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 628,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;99-5525&quot; OR text:&quot;99-5525&quot; OR text__reviews:&quot;99-5525&quot;) OR (text:Dickerson OR text:Dickerson OR text__reviews:Dickerson))",
+      "qin": "collection:us-supreme-court AND (99-5525 OR Dickerson)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 25,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385012_0155",
+        "title": "St. Louis Southwestern R. Co. v. Dickerson, 470 U.S. 409 (1985) (No. 84-914)"
+      },
+      {
+        "identifier": "micro_IA40386008_0829",
+        "title": "Dickerson v. Kansas, 543 U.S. 870 (2004) (No. 04-25)"
+      },
+      {
+        "identifier": "per_scotus_1879_118",
+        "title": "Orlando B. Dickerson, Survivor, Plaintiff in Error, vs. Calvin Colgrove et al. 1879: Vol 118"
+      },
+      {
+        "identifier": "per_scotus_1872_721",
+        "title": "George Treat and J. M. Dickerson, Plaintiffs in Error, vs. Samuel Jemison. 1872: Vol 721"
+      },
+      {
+        "identifier": "micro_IA40386417_1082",
+        "title": "Handzik v. Illinois ex rel. Dickerson, 343 U.S. 927 (1952) (No. 604)"
+      },
+      {
+        "identifier": "micro_IA40385608_0892",
+        "title": "UNITED STATES STEEL STEEL CO. v. V. DICKERSON (No. 74-11111)"
+      },
+      {
+        "identifier": "per_scotus_1855_165",
+        "title": "Dickerson B. Morehouse, Pl'ff in Er., vs. William A. Phelps. 1855: Vol 165"
+      },
+      {
+        "identifier": "micro_IA40385008_1942",
+        "title": "Dickerson v. New Banner Institute, Inc., 460 U.S. 103 (1983) (No. 81-1180)"
+      },
+      {
+        "identifier": "per_scotus_1875_539",
+        "title": "Marshall O. Roberts and Edward N. Dickerson, Surviving Trustees of Albert G. Sloo, Appellants, vs. The United States. 1875: Vol 539"
+      },
+      {
+        "identifier": "micro_IA40386003_1433",
+        "title": "Dickerson v. Bates, 544 U.S. 960 (2005) (No. 04-491)"
+      },
+      {
+        "identifier": "micro_IA40386012_0385",
+        "title": "Dickerson v. Williams, 513 U.S. 963 (1994) (No. 94-421)"
+      },
+      {
+        "identifier": "micro_IA40386004_1846",
+        "title": "Dickerson v. Department of Justice, 510 U.S. 1109 (1994) (No. 93-678)"
+      },
+      {
+        "identifier": "micro_IA40385004_1203",
+        "title": "Dickerson v. Cermel-Luft Insurance Agency, Inc., 430 U.S. 946 (1977) (No. 76-1074)"
+      },
+      {
+        "identifier": "micro_IA40385008_1941",
+        "title": "Dickerson v. New Banner Institute, Inc., 460 U.S. 103 (1983) (No. 81-1180)"
+      },
+      {
+        "identifier": "micro_IA40385014_0634",
+        "title": "United States v. Patane, 542 U.S. 630 (2004) (No. 02-1183)"
+      },
+      {
+        "identifier": "micro_IA40386011_0957",
+        "title": "Dickerson v. United States, 506 U.S. 864 (1992) (No. 92-77)"
+      },
+      {
+        "identifier": "micro_IA40386019_1639",
+        "title": "Dickerson v. United States, 531 U.S. 876 (2000) (No. 00-106)"
+      },
+      {
+        "identifier": "micro_IA40386010_0835",
+        "title": "American General Finance, Inc. v. Dickerson, 121 S. Ct. 1604 (2001) (No. 00-1324)"
+      },
+      {
+        "identifier": "micro_IA40386419_0590",
+        "title": "Grady County v. Dickerson, 358 U.S. 909 (1958) (No. 484)"
+      },
+      {
+        "identifier": "per_scotus_1874_24",
+        "title": "Augustin I. Ambler, Appellant, vs. Rodney M. Whipple and Thomas S. Dickerson. 1874: Vol 24"
+      },
+      {
+        "identifier": "micro_IA40385014_0386",
+        "title": "Dickerson v. United States, 530 U.S. 428 (2000) (No. 99-5525)"
+      },
+      {
+        "identifier": "micro_IA40386401_0293",
+        "title": "United States v. Dickerson, 310 U.S. 554 (1940) (No. 705)"
+      },
+      {
+        "identifier": "micro_IA40385013_0279",
+        "title": "Minnesota v. Dickerson, 508 U.S. 366 (1993) (No. 91-2019)"
+      },
+      {
+        "identifier": "micro_IA40386005_1021",
+        "title": "Dickerson v. City of Dallas, 528 U.S. 931 (1999) (No. 99-264)"
+      },
+      {
+        "identifier": "micro_IA40385009_0095",
+        "title": "Alabama v. Dickerson, 459 U.S. 878 (1982) (No. 81-2206)"
+      }
+    ]
+  }
+}

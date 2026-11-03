@@ -1,0 +1,1452 @@
+OCTOBER TERM, 1999 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+Vv. 
+UNITED STATES OF AMERICA, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF AMICUS CURIAE 
+FRATERNAL ORDER OF POLICE 
+URGING AFFIRMANCE 
+
+
+THOMAS T. RUTHERFORD PATRICK F. PHILBIN 
+GENERAL COUNSEL Counsel of Record 
+
+GRAND LODGE, THEODORE W. ULLYOT 
+
+FRATERNAL ORDER OF POLICE KIRKLAND & ELLIS 
+
+1910 Ridgecrest, S.E. 655 Fifteenth Street, N.W. 
+
+Albuquerque, NM 87108 Washington, D.C. 20005 
+
+(505) 265-7129 (202) 879-5000 
+
+
+Counsel for Amicus Curiae 
+Fraternal Order of Police 
+
+
+March 9, 2000 
+el 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTION PRESENTED 
+
+
+Whether a voluntary confession may be admitted into 
+evidence in the government’s case-in-chief under 18 U.S.C. 
+Section 3501, notwithstanding that the confession was taken in 
+violation of the requirements of Miranda v. Arizona, 384 U.S. 
+436 (1966). 
+
+
+~—yrr 
+
+
+il 
+TABLE OF CONTENTS 
+Page 
+EE win cc cecccbecosecceccocecse i 
+cc etks bbs eccccocccece ii 
+ GEPEEEEEEEED occ ccccccccccccccceces iv 
+INTEREST OF AMICUS CURIAE ...............4.+. l 
+SUMMARY OF ARGUMENT ...................... 2 
+EEE ee 5 
+I. Miranda’s Rigid Exclusionary Rule — Often 
+Requiring the Exclusion of Entirely Voluntary 
+Statements Due to Technical Errors Determined 
+Only Years After the Fact — Imposes 
+Significant Costs in Hindering Law 
+Enforcement’s Efforts To Solve Crimes and 
+Take Criminals Off the Streets ................ 5 
+IL. There Is No Need To Overrule Miranda To 
+Affirm the Decision Below and Confirm That 
+Section 3501 Is “The Statute Governing the 
+Admissibility of Confessions In Federal 
+trees ecbeuecedeede be ccecece 8 
+A. Miranda's Prophylactic Regime Is Not 
+Dictated by the Constitution Itself ........ 8 
+
+
+B. The Court Need Not Overrule Miranda 
+To Enforce Section 3501 .............. 16 
+
+
+ll iV 
+
+
+Ill. The Principal “Practical” Arguments Raised TABLE OF AUTHORITIES 
+Against Section 3501 Do Not Withstand 
+Scrutiny; To the Contrary, Section 3501 Page 
+Represents the Best of Both Worlds ........... 21 | Anders v. California, 386 U.S. 738 (1967) ............ 17 
+A Miranda’s “Bright Lines” Are Not So Berkemer v. McCarty, 468 U.S. 420 (1984) ..... 22, 24, 26 
+He decusnicannealdesbulddderee 21 Bounds v. Smith, 430 U.S. 817 (1977) ..........-.+- 19, 20 
+City of Boerne v. Flores, 521 U.S. 507 (1997) ......... 16 
+B. Section 3501 Represents the Best of : ; 
+Both Worlds: It Retains Incentives for Davis v. United States, 
+Law Enforcement Officers To Provide Se ED « s cescseeeceeds 3, 6, 9, 13, 22 
+Warnings and Ensures that Voluntary Duckworth v. Eagan, 492 U.S. 195 (1989) ....... 9, 14,15 
+Confessions Will Not Be Excluded Due 
+te 33 Edwards v. Arizona, 451 U.S. 477 (1981) .......... 12, 22 
+Fare v. Michael C., 442 U.S. 707 (1979) .............. 7 
+PED Natecsubnduckesdbeddsanttee 29 Lewis v. Casey, 518 U.S. 343 (1996) .............. 19, 20 
+Maine v. Moulton, 474 U.S. 159 (1985) .............. 10 
+Michigan v. Tucker, 417 U.S. 433 (1974) ........ 8, 13, 23 
+Minnick v. Mississippi, 498 U.S. 146 (1990) ........... 11 
+Miranda v. Arizona, 384 U.S. 436 (1966) ......... passim 
+Moran v. Burbine, 475 U.S. 412 (1986) ......... 9,11,14 
+New York v. Quarles, 467 U.S. 649 (1984) ....... 8, 22, 23 
+North Carolina v. Butler, 441 U.S. 369 (1979) ......... 22 
+Oregon v. Elstad, 
+470 U.S. 298 (1985) .............. 8, 9, 14, 15, 22 
+Pennsylvania v. Finley, 481 U.S. 551 (1987) .......... 18 
+Pennsylvania v. Muniz, 496 U.S. 582 (1990) .......... 22 
+Penson v. Ohio, 488 U.S. 75 (1988) .............445. 18 
+Rhode Island v. Innis, 446 U.S. 291 (1980) ............ 22 
+
+
+Schneckloth v. Bustamonte, 412 U.S. 218 (1973) .... 12,14 
+
+
+Vv 
+
+
+Smith v. Robbins, 120 S. Ct. 746 (2000) ........... 17, 18 
+United States v. Alvarez-Sanchez, 511 U.S. 350 (1994) ... 3 
+United States v. Cronic, 466 U.S. 648 (1984) .......... 10 
+United States v. Gouveia, 467 U.S. 180 (1984) ......... 10 
+Walters v. National Ass'n of Radiation Survivors, 
+
+Se PE oe bdcéacneceeckdeusaeascc 16 
+Withrow v. Williams, 
+
+507 U.S. 680 (1993) ........... 6, 7, 9, 11, 23, 27 
+Constitution and Statutes 
+SP EE wennecaccqnncesudsesecedsinns passim 
+GLEE nnccsaneususésscancnsnes 12,14 
+es GI IES, © occcscccastsecsé 7, 9-12, 14-16, 24 
+IEE TEE cocuntcneds cnnesquedionabeus 10 
+Miscellaneous 
+
+
+Memorandum from Larry R. Parkinson, General Counsel, 
+_ Federal Bureau of Investigation (Oct. 19, 1999) 
+(lodged by the United States, Feb. 24, 2000)... .. 25 
+
+
+Memorandum from Richard A. Fiano, Chief, 
+Domestic Operations, Drug Enforcement 
+Administration (Oct. 13, 1999) (lodged 
+by the United States, Feb. 24,2000) ............ 6 
+
+
+vi 
+
+
+Voluntary Confessions and the Enforcement of Section 3501, 
+
+
+Title 18, U.S. Code: Hearing Before the 
+Subcomm. on Criminal Justice Oversight of the 
+Sen. Judiciary Comm., 106th Cong., Ist Sess. 
+23 (1999) (statement of Gilbert G. Gallegos, 
+President, Grand Lodge, Fraternal Order of 
+PRMD onc ccccccccccccccccescescceccces 
+
+
+No. 99-5525 
+pT ___ 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1999 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+Vv. 
+UNITED STATES OF AMERICA, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF AMICUS CURIAE 
+FRATERNAL ORDER OF POLICE 
+URGING AFFIRMANCE 
+
+
+INTEREST OF AMICUS CURIAE' 
+
+
+The Fraternal Order of Police (“the F.O.P.”) is the 
+Nation’s largest organization of law enforcement professionals 
+and represents more than 277,000 rank-and-file law en- 
+forcement officers in every region of the country. The F.O.P. 
+believes it is particularly important for it to participate in this 
+
+
+' The parties have consented in writing to the filing of this brief in letters 
+that have been submitted to the Clerk. See S. Ct. R. 37.3(a). Counsel for 
+a party did not author this brief in whole or in part. See S. Ct. R. 37.6. No 
+person or entity other than amicus curiae or its counsel made a monetary 
+contribution to the preparation or submission of this brief. See id. 
+
+
+2 
+
+
+case, as a friend of the Court, to provide its views on the 
+current operation of the Miranda exclusionary rule and to rebut 
+any suggestion that the views expressed in the briefs of 
+Petitioner’s amici represent the voice of American law 
+enforcement. 
+
+
+With all respect to those among Petitioner’s amici who 
+have some experience in law enforcement, particularly those 
+amici on the brief filed on behalf of General Griffin B. Bell et 
+al. (the “Bell amici’), those amici have far less experience than 
+the rank-and-file membership of the F.O.P. in implementing 
+Miranda in real-life situations that arise in front-line police 
+work. Accordingly, the views of Petitioner’s amici as to how 
+Miranda operates in practice are of limited value in apprising 
+the Court of the law enforcement community’s view of 
+Miranda. By contrast, the F.O.P. membership represents the 
+segment of American law enforcement that is charged with the 
+responsibility of implementing Miranda in the field on a day- 
+to-day basis, and thus the F.O.P. can better provide this Court 
+the views of American law enforcement concerning the impact 
+of Miranda on their work in enforcing the Nation’s criminal 
+laws. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Based on the extensive real-world experience of its 
+membership, the F.O.P. strongly supports the decision below. 
+
+
+l. Contrary to the suggestions of Petitioner and his 
+amici, American law enforcement agencies have not “learned 
+to live with Miranda” in the sense that they find it no obstacle 
+to their task of enforcing the Nation’s criminal laws. To the 
+contrary, the members of the F.O.P., who take on the front line 
+of police work across the country, find one of the most 
+frustrating aspects of their jobs to be the release of admitted 
+criminals based on technical errors in administering Miranda 
+warnings or securing a waiver of Miranda rights. By excluding 
+
+
+3 
+
+
+even wholly voluntary admissions of guilt whenever there has 
+been the slightest misstep in adhering to Miranda’s regime, 
+Miranda’s rigid exclusionary rule hinders good faith, 
+professional police work and makes it unnecessarily difficult to 
+take criminals off the streets. 
+
+
+2. Section 3501 of Title 18 of the United States 
+Code is “the statute governing the admissibility of confessions 
+in federal prosecutions,”” Davis v. United States, 512 U.S. 452, 
+457 n.* (1994) (quoting United States v. Alvarez-Sanchez, 511 
+U.S. 350, 351 (1994)), and it was therefore entirely appropriate 
+for the Fourth Circuit to assess the admissibility of Petitioner’s 
+confession according to the standards set forth in that 
+provision. By confirming that Section 3501 governs the 
+admissibility of confessions in federal court, this Court would 
+not need to “overrule” Miranda, as some have suggested. The 
+Court has repeatedly made it clear that the Miranda regime sets 
+out a number of prophylactic safeguards that are not 
+requirements of the Constitution itself. The Court has, 
+moreover, on numerous occasions endorsed alternatives to 
+previously announced “prophylactic” rules — such as the 
+Miranda rule — as sufficiently protective of the core 
+constitutional right at issue (here, the right against compelled 
+self-incrimination), without overruling the decision that 
+announced the prophylactic rule. That is the course the Court 
+should follow here. Indeed, Section 3501 expressly mentions 
+the giving of Miranda-like warnings as a factor for a court to 
+consider in determining whether a confession was voluntary 
+(and thus admissible), which suggests that Miranda should 
+remain good law as a safe harbor for police who want to ensure 
+that statements they obtain will be admissible in court. 
+
+
+3. This case vividly illustrates the virtue of the 
+Section 3501 approach. Application of the Miranda 
+exclusionary rule here would have resulted in the suppression 
+of aserial bank robber’s voluntary confession, due to a finding 
+
+
+4 
+
+
+of a technical violation of the Miranda rules. By refocusing the 
+court’s inquiry on the core constitutional question of whether 
+the suspect’s confession was voluntary, however, Section 3501 
+ensured that a finding of a technical error — an error that 
+resulted in no actual constitutional injury to Petitioner — did 
+not trigger the drastic remedy of exclusion of a voluntary 
+confession. 
+
+
+As illustrated by this case, therefore, Section 3501 
+represents a “win-win” solution. On the one hand, the statute 
+not only provides ample sanction to ensure that law 
+enforcement officers do not cause actual constitutional harm by 
+coercing a suspect into an involuntary confession; it also retains 
+strong incentives for police to continue unchanged their current 
+practice in administering Miranda’s prophylactic warnings. 
+The statute, after all, expressly lists the Miranda warnings as 
+factors to be considered by a court in determining whether a 
+confession is voluntary and admissible. Continued adherence 
+to Miranda will thus provide police a safe harbor virtually 
+ensuring the admissibility of any statements they obtain from 
+suspects. For this reason, the F.O.P. fully expects law 
+enforcement officers to continue to give Miranda warnings 
+even under a Section 3501 regime. 
+
+
+On the other hand, Section 3501 also has the added 
+virtue — to victims of crime, to law enforcement officers, and to 
+the Nation — of redirecting the courts’ attention to the 
+constitutional requirement of voluntariness. As a result, the 
+statute will ensure that technical errors by law enforcement 
+personnel no longer will automatically result in the suppression 
+of voluntary confessions. A decision reaffirming the primacy 
+of Section 3501 would thus continue to protect the 
+constitutional rights of the accused, while reducing 
+significantly the current high cost of Miranda’s prophylactic 
+rule. 
+
+
+5 
+
+
+Finally, the “practical” arguments that have been 
+advanced against Section 3501 do not withstand scrutiny. As 
+this Court has recognized on several occasions, Miranda is far 
+from the easily administered, “bright line” rule that some claim. 
+And the supposed “obvious flaws” of the regime under Section 
+3501, under which warnings would no longer be compelled by 
+an iron-clad exclusionary rule, are neither obvious nor logical. 
+
+
+ARGUMENT 
+
+
+I. Miranda’s Rigid Exclusionary Rule - Often 
+Requiring the Exclusion of Entirely Voluntary 
+Statements Due to Technical Errors Determined 
+Only Years After the Fact — Imposes Significant 
+Costs in Hindering Law Enforcement’s Efforts To 
+Solve Crimes and Take Criminals Off the Streets. 
+
+
+The F.O.P. wishes to respond, first and foremost, to 
+assertions made by Petitioner and his amici urging reversal of 
+the decision below in part on the policy-based ground that law 
+enforcement officers have learned to “live with Miranda” and 
+that there is no point in even considering enforcing a statute 
+that would alter the operation of the ngid exclusionary rule 
+established by that case. On behalf of its nearly 300,000 
+members, the F.O.P. feels compelled to dispel the fallacies in 
+such assertions. 
+
+
+If Petitioner simply means to say that law enforcement 
+officers have done (and will continue to do) their very best to 
+follow whatever rules the Supreme Court establishes, it is 
+certainly true that the law enforcement community has learned 
+to “live with Miranda.” Likewise, if Petitioner means to say 
+that police officers have (by and large) learned the standard 
+four-line script of the Miranda warnings, it is indeed accurate 
+to say that law enforcement has learned to “live with Miranda.” 
+If, however, Petitioner means to say that the law enforcement 
+community is content with the operation of Miranda and its 
+
+
+6 
+
+
+impact on efforts to enforce the Nation’s criminal laws such 
+that it does not seek improvements on the current Miranda 
+regime, then it is decidedly not the case that officers have 
+learned to live with Miranda. 
+
+
+The current Miranda regime has certain benefits, but it 
+also suffers from significant and well-chronicled flaws. As the 
+F.O.P. has recently explained to Congress, the simple fact of 
+the matter is that the Miranda regime interferes with the ability 
+of police officers to solve violent crimes and take dangerous 
+criminals off the streets. See, e.g., Voluntary Confessions and 
+the Enforcement of Section 3501, Title 18, U.S. Code: Hearing 
+Before the Subcomm. on Criminal Justice Oversight of the Sen. 
+Judiciary Comm., 106th Cong., Ist Sess. 23 (1999) (statement 
+of Gilbert G. Gallegos, President, Grand Lodge, Fraternal Order 
+of Police); Memorandum from Richard A. Fiano, Chief, 
+Domestic Operations, Drug Enforcement Administration (Oct. 
+13, 1999) (lodged by the United States, Feb. 24, 2000) 
+(describing “chilling effect” of Miranda warnings on DEA 
+investigations); Davis v. United States, 512 U.S. 452, 465 
+(1994) (Scalia, J., concurring) (federal government’s repeated 
+refusal to invoke Section 3501 rather than Miranda “may have 
+produced . . . the acquittal and the nonprosecution of many 
+dangerous felons, enabling them to continue their depredations 
+upon our citizens. There is no excuse for this.”); Withrow v. 
+Williams, 507 U.S. 680, 704 (1993) (O’Connor, J., concurring 
+in part and dissenting in part) (stating, with respect to the 
+Miranda exclusionary rule, that “[ajny rule that so 
+demonstrably renders truth and society ‘the loser,’ bear[s] a 
+heavy burden of justification, and must be carefully limited to 
+the circumstances in which it will pay its way by deterring 
+official lawlessness””) (citation omitted). 
+
+
+The main culprit is not simply the Miranda warnings 
+themselves, which suspects have often heard time and again, 
+and which are easily memorized by police officers. Rather, the 
+
+
+7 
+
+
+barrier to effective police work comes primarily from two other 
+aspects of the Miranda regime working in tandem. 
+
+
+First, implementing Miranda requires officers to make 
+subtle determinations in often difficult circumstances — 
+determinations including when a stop has matured into 
+“custody” (triggering the need for warnings) and whether a 
+waiver is valid. See infra p. 22. Thus, adhering to all the 
+refinements of the regime established by Miranda and its 
+progeny is simply not, as Petitioner suggests, “an 
+extraordinarily simple act.” Petr. Br. 44. 
+
+
+Second, Miranda’s rigid exclusionary rule prevents the 
+use even of voluntary confessions if a police officer has 
+committed even a technical violation of Miranda (or its 
+progeny). If an officer misjudges when a suspect has been 
+placed in custody and asks even a single question that elicits an 
+incriminating response, a court will later suppress the statement 
+and an admitted criminal may well go free. As this Court has 
+acknowledged, Miranda imposes burdens “on law enforcement 
+agencies and the courts by requiring the suppression of 
+trustworthy and highly probative evidence even though the 
+confession might be voluntary under traditional Fifth 
+Amendment analysis.” Fare v. Michael C., 442 U.S. 707, 718 
+(1979). See also Withrow, 507 U.S. at 707 (O’Connor, J., 
+concurring in part and dissenting in part) (“Miranda’s 
+prophylactic rule is not merely ‘divorced’ from the quest for 
+truth but at war with it as well.”’). 
+
+
+American law enforcement has emphatically not learned 
+to “live with” these shortcomings of Miranda. Indeed, the 
+exclusion of voluntary confessions as a result of technical 
+errors in applying Miranda ranks as one of the most frustrating 
+experiences faced by the F.O.P.’s members. As F.O.P. 
+President Gilbert Gallegos recently explained to Congress, 
+virtually every officer on the street can recall a list of cases on 
+
+
+8 
+
+
+which he or she worked in which: an admittedly guilty 
+defendant was released because, months or years after the 
+police had finished their work, a technical violation of Miranda 
+was found that resulted in suppression of a voluntary statement. 
+The rigid Miranda exclusionary rule — which this Court 
+indicated from the outset was merely “prophylactic” in nature, 
+and was not intended to represent the only possible means of 
+protecting a suspect’s constitutional rights — is thus not a rule 
+that law enforcement views as reflecting the optimal balance 
+between protecting suspects’ nights and ensuring efficient 
+enforcement of the law. 
+
+
+Il. There Is No Need To Overrule Miranda To Affirm 
+the Decision Below and Confirm That Section 3501 
+Is “The Statute Governing the Admissibility of 
+Confessions In Federal Prosecutions.” 
+
+
+One of the principal arguments advanced by Petitioner 
+and his amici is that to uphold the decision below (and to affirm 
+the validity of Section 3501) would require “overruling” 
+Miranda. The Fourth Circuit correctly rejected that theory. 
+The Miranda rules are merely “prophylactic,” and the Court has 
+demonstrated repeatedly that it is possible to uphold an 
+alternative to a prophylactic rule without overruling the 
+decision that initially set forth the rule. The F.O.P. respectfully 
+urges the Court to adopt that approach once again here. 
+
+
+A. Miranda’s Prophylactic Regime Is Not 
+Dictated by the Constitution Itself. 
+
+
+Time and again the Court has emphasized that “[t]he 
+prophylactic Miranda warnings .. . are ‘not themselves rights 
+protected by the Constitution but [are] instead measures to 
+insure that the right against compulsory self-incrimination [is] 
+protected.” New York v. Quarles, 467 U.S. 649, 654 (1984) 
+(quoting Michigan v. Tucker, 417 U.S. 433, 444 (1974)); 
+Oregon v. Elstad, 470 U.S. 298, 305 (1985) (same). See also 
+
+
+9 
+
+
+Davis v. United States, 512 U.S. 452, 457 (1994) (Miranda 
+warnings are “a series of recommended procedural safeguards” 
+that are “not themselves rights protected by the Constitution’) 
+(emphasis added). Thus, the Court has explained that the 
+“Miranda exclusionary rule . . . sweeps more broadly than the 
+Fifth Amendment itself” and “may be triggered even in the 
+absence of a Fifth Amendment violation.” Oregon v. Elstad, 
+470 U.S. 298, 306 (1985). See also Moran v. Burbine, 475 
+U.S. 412, 424 (1986) (“As is now well established, the 
+Miranda warnings are not themselves rights protected by the 
+Constitution.”); Withrow, 507 U.S. at 706-07 (O’Connor, J., 
+concurring in part and dissenting in part) (“[T]here is no 
+constitutional right to the suppression of voluntary statements. 
+Quite the opposite: The Fifth Amendment, by its terms, 
+prohibits only compelled self-incrimination; it makes no 
+mention of ‘unwarned’ statements. On that much, our cases 
+could not be clearer.”) (emphases in original). As a result, as 
+Justice O’Connor has succinctly summarized, “[t]he Miranda 
+rule is not, nor did it ever claim to be, a dictate of the Fifth 
+Amendment itself.” Duckworth v. Eagan, 492 U.S. 195, 209 
+(1989) (O’Connor, J., concurring). 
+
+
+In his effort to portray the Miranda warnings as 
+inexorable commands of the Fifth Amendment, Petitioner 
+repeatedly asserts that it is crucial to inform a suspect of his 
+rights, to ensure that privileges under the Fifth Amendment are 
+knowingly exercised or waived. See, e.g., Pet. Br. 16, 38. 
+According to Petitioner, the right to be free from compelled 
+testimony inherently demands that a suspect must subjectively 
+know that he has a constitutional right to refuse to speak. But 
+the nature of the right Petitioner describes is not found in this 
+Court’s precedents and distorts the protection the Fifth 
+Amendment provides. Petitioner’s approach suggests that part 
+of the critical constitutional value to be protected under the 
+Fifth Amendment is the individual’s ability to make a decision 
+
+
+10 
+
+
+whether or not to speak to the police only while fully aware of 
+the exact extent of his right to refuse to talk — in other words, 
+that a suspect has only been afforded the protection intended by 
+the Framers of the Fifth Amendment if he is specifically 
+informed of the nature of his right to refuse to speak to the 
+authorities investigating a crime. But the Fifth Amendment 
+provides a limitation on the government to ensure that 
+government agents do not coerce a suspect to talk. Ifa criminal 
+suspect has not been subjected to any police measures that 
+overcome his will or that compel him to speak, and he makes 
+a voluntary statement, the rights secured by the Constitution 
+have been fully vindicated. The strictures of the Fifth 
+Amendment, in other words, are not designed to promote an 
+abstract value in ensuring that suspects speak to the police only 
+while fully aware of all of their rights. As long as the 
+individual is free from official compulsion, the constitutional 
+commands have been satisfied. 
+
+In that regard, it is worth noting a distinction between 
+the night secured by the Fifth Amendment and other individual 
+rights protected by the Constitution. Under the Sixth 
+Amendment, for example, once judicial criminal proceedings 
+have commenced against an individual and the Sixth 
+Amendment right to counsel attaches, see, e.g., United States 
+v. Gouveia, 467 U.S. 180, 187 (1984), it is typically assumed 
+that it promotes the proper functioning of our adversarial 
+system of justice and the efficient search for truth if a defendant 
+is represented by counsel. See, e.g., Maine v. Moulton, 474 
+U.S. 159, 168-69 (1985); United States v. Cronic, 466 U.S. 
+648, 656 (1984) (“Unless the accused receives the effective 
+assistance of counsel, a serious risk of injustice infects the trial 
+itself.””) (internal citations and quotations omitted). 
+
+Petitioner’s arguments tacitly rest on the assumption 
+that promoting the exercise of the “right to remain silent” 
+(which is really only a verbal formulation describing the result 
+
+
+11 
+
+
+of guaranteeing that individuals must be free from compelled 
+testimony) is somehow in itself a positive objective of the Fifth 
+Amendment. Once again, that distorts the nature of the nght. 
+To be sure, individuals are free not to talk to the police under 
+the Fifth Amendment, and vigilantly guarding the individual’s 
+right to be free from compulsion and to choose that course is 
+vital to preserving a free society. But the value to individual 
+freedoms that comes from preserving that nght derives from the 
+restriction on government action precluding the resort to 
+coercion to obtain statements from criminal suspects. There is 
+nothing about silence in the face of a lawful investigation of 
+criminal conduct that is, in itself, a positive good. 
+
+
+To the contrary, as this Court has repeatedly recognized, 
+voluntary “{a]dmissions of guilt are more than merely 
+‘desirable,’ they are essential to society’s compelling interest in 
+finding, convicting, and punishing those who violate the law.” 
+Moran, 475 U.S. at 426 (citation omitted). See also Elstad, 470 
+U.S. at 305 (“{[A]dmissions of guilt by wrongdoers, if not 
+coerced, are inherently desirable.”) (citation and internal 
+quotations omitted). Cf Withrow, 507 U.S. at 703 (O’Connor, 
+J., concurring in part and dissenting in part) (“([BJjecause 
+voluntary statements are ‘trustworthy’ even when obtained 
+without proper warnings, their suppression actually impairs the 
+pursuit of truth by concealing probative information from the 
+trier of fact.”) (emphases in original) (citation omitted); 
+Minnick v. Mississippi, 498 U.S. 146, 155 (1990) (“Both waiver 
+of rights and admission of guilt are consistent with the 
+affirmation of individual responsibility that is a principle of the 
+criminal justice system.”). If a suspect in custody talks to the 
+police free from compulsion, whether or not he was fully aware 
+of the complete panoply of rights afforded to him under the 
+Constitution, he has still suffered no constitutional injury and 
+the purposes and objectives of the Fifth Amendment have been 
+fully served. 
+
+
+12 
+
+
+An analogy to this Court’s jurisprudence under the 
+Fourth Amendment helps illustrate the point. The Fourth 
+Amendment guarantees individuals a “right” to be “secure . . . 
+against unreasonable searches and seizures.” U.S. Const., 
+amend. IV. But an individual’s rights under the Fourth 
+Amendment plainly would not be violated if police asked for 
+and obtained consent to search his house without first 
+explaining that he could freely refuse consent. As long as the 
+individual has voluntarily consented, the search is not 
+unreasonable and the protections established in the Constitution 
+have been fully vindicated. See Schneckloth v. Bustamonte, 
+412 US. 218, 242-89 (1973). 
+
+
+Thus, by arguing that a suspect must have subjective 
+knowledge of the “right to remain silent” for his Fifth 
+Amendment rights to be preserved at all, Petitioner is seeking 
+to change the nature of the protection provided by the Fifth 
+Amendment. The new principle that Petitioner seeks to have 
+the Court adopt is that “[w]ithout knowledge on the part of the 
+individual being questioned as to what choices are available to 
+him, statements cannot be deemed truly voluntary.” Petr. 
+Br. 3.? But the Court has long recognized that rights under the 
+Constitution designed to protect an individual from compulsion 
+and to preserve voluntary action do not necessarily require that 
+an individual have subjective knowledge of the exact right 
+conferred by the Constitution. As the Court explained in 
+Edwards v. Arizona, 451 U.S. 477 (1981), Schneckloth 
+“emphasized that the voluntariness of a consent or an admission 
+
+
+> Petitioner tacitly acknowledges the shift in understanding of the Fifth 
+Amendment he seeks as he notes that “[wJhile expressed as a limitation on 
+government power,” in his view the constitutional command “necessarily 
+means that the individual has an affirmative right to remain silent, and any 
+waiver must be knowing, intelligent, and voluntary.” Petr. Br. 38 (emphasis 
+added). 
+
+
+13 
+
+
+on the one hand, and a knowing and intelligent waiver on the 
+other, are discrete inquiries” id. at 484.’ Petitioner would 
+collapse the distinction. As Petitioner himself distills the core 
+of his argument, he seeks to have the Court hold as a matter of 
+constitutional law that, “[s]imply put, . ..no choice is voluntary 
+where an inquisitor withholds critical information about the 
+choice.” Petr. Br. 16. 
+
+Adopting Petitioner’s conception of the nature of 
+voluntariness would have implications far beyond the confines 
+of this case. Indeed, if the Court were to accept Petitioner’s 
+proposed expansion of Miranda, there would be no logical 
+stopping point to Petitioner’s version of “voluntariness” that 
+would limit it from applying in the Fourth Amendment context 
+as well. Asa result, Petitioner’s self-declared principle that “no 
+choice is voluntary where an inquisitor withholds critical 
+information about the choice,” Petr. Br. 16, would, if adopted, 
+likely require the Court next to reconsider its holding in 
+Schneckloth that consent for a search may be voluntary under 
+
+
+> It is true, as Petitioner points out, see Petr. Br. 35, that in Davis v. United 
+States, 512 U.S. 452 (1994), the Court noted that “[t}he right to counsel 
+recognized in Miranda is sufficiently important to suspects in criminal 
+investigations, we have held, that it requires the special protection of the 
+knowing and intelligent waiver standard.” /d. at 458 (internal quotations 
+and alterations omitted). In the very same discussion, however, the Davis 
+Court made clear that “[t]he right to counsel established in Miranda was 
+one of a ‘series of recommended procedural safeguards . . . [that] were not 
+themselves rights protected by the Constitution but were instead measures 
+to insure that the right against compulsory self-incrimination was 
+protected.”” /d. at 457 (quoting Michigan v. Tucker, 417 U.S. 433, 443-44 
+(1974)). The mere fact that the Court decided to apply a high waiver 
+standard to the prophylactic “right” it created does not change the 
+underlying non-constitutional nature of the nght, nor does it make the 
+waiver standard the Court has applied a constitutional requirement itself. 
+
+
+14 
+
+
+the Fourth Amendment even absent a warning that the 
+individual was free to withhold consent.‘ 
+
+
+From the foregoing it should be plain that neither 
+precedent nor reason suggest that Miranda’s commands are 
+inexorable requirements of the Constitution itself or that a 
+criminal suspect must be expressly informed of his rights under 
+the Fifth Amendment for his right to be free from compulsion 
+to be respected. Instead, in Miranda the Court was self- 
+conscious!y reconciling opposing interests to establish a 
+prophylactic rule that went further than the Constitution 
+required to protect underlying constitutional rights. As the 
+Court has explained, “[a]s any reading of Miranda reveals, the 
+decision . . . embodies a carefully crafted balance designed to 
+fully protect both the defendant’s and society’s interests.” 
+Moran, 475 U.S. at 433 n.4 (emphasis omitted). 
+
+
+Section 3501 simply represents the considered judgment 
+of the elected representatives of the People that in crafting a 
+prophylactic rule that “overprotects” the rights secured by the 
+Fifth Amendment, Duckworth v. Eagan, 492 U.S. 195, 209 
+(1989) (O’Connor, J., concurring), that “sweeps more broadly 
+than the Fifth Amendment itself,” Oregon v. Elstad, 470 U.S. 
+298, 306 (1985), and that inevitably will require the exclusion 
+of some voluntary confessions where the suspect “has suffered 
+no identifiable constitutional harm,” id. at 307, Miranda did not 
+strike the proper balance. In Congress’s view, society simply 
+pays too high a price when it adheres rigidly to Miranda’s 
+overprotective exclusionary rule and thereby permits — often on 
+the basis of a technical error determined by a court only years 
+
+
+* The Schneckloth Court itself acknowledged the logical link between the 
+voluntariness inquiry under the Fifth and Fourth Amendments by applying 
+the voluntariness test developed in Fifth Amendment and Fourteenth 
+Amendment cases concerning confessions to the Fourth Amendment search 
+context. See Schneckloth, 412 U.S. at 223-25. 
+
+
+15 
+
+
+after a police officer on the street has done his besi to adhere to 
+Miranda’s dictates — “the release of an admittedly guilty 
+individual who may pose a continuing threat to society.” 
+Duckworth v. Eagan, 492 U.S. 195, 211 (O’Connor, J., 
+concurring).° Congress, in other words, has simply determined 
+that it should apply more broadly the same conclusion that this 
+Court has reached in limiting the application of Miranda in 
+subsequent cases; namely, that “[{i]f errors are made by law 
+enforcement officers in administering the prophylactic Miranda 
+procedures, they should not breed the same irremediable 
+consequences as police infringement of the Fifth Amendment 
+itself.” Elstad, 470 U.S. at 309. The F.O.P. emphatically 
+agrees with Congress’s judgment. 
+
+Moreover, it is plainly a judgment that, under our 
+constitutional structure, Congress is allowed to make. If 
+Miranda’s rigid exclusionary rule for any and all failures to 
+comply with the details of Miranda’s warning procedures is not 
+an inevitable command of the Fifth Amendment itself, it is 
+open to Congress to define a standard for admissibility of self- 
+incriminating statements in federal courts that hews more 
+closely to the constitutional line. Indeed, it is precisely the 
+Legislative branch that is best positioned to make judgments 
+about where — among constitutionally permissible alternatives 
+— to draw the line. It can hardly be disputed that Congress is far 
+better suited than this Court to gather and evaluate evidence 
+concerning the effects that different rules might have on the 
+
+
+> Cf Duckworth, 492 U.S. at 209 (O'Connor, J., concurring) (“In the 
+name of efficient judicial administration of the Fifth Amendment guarantee 
+and the need to create institutional respect for Fifth Amendment values, 
+[Miranda] sacrifices society's interest in uncovering evidence of crime and 
+punishing those who violate its laws.”) (emphasis added); Elstad, 470 U.S. 
+at 312 (when an admission is not coerced, “little justification exists for 
+permitting the highly probative evidence of a voluntary confession to be 
+irretrievably lost to the factfinder’”). 
+
+
+16 
+
+
+successful enforcement of the criminal statutes that Congress _ 
+
+
+passes.® See, e.g., Walters v. National Ass'n of Radiation 
+Survivors, 473 U.S. 305, 330 n.12 (1985). As Justice Kennedy 
+recently wrote for the Court, “[o]ur national experience teaches 
+that the Constitution is preserved best when each part of the 
+Government respects both the Constitution and the proper 
+actions and determinations of the other branches.” City of 
+Boerne v. Flores, 521 U.S. 507, 535-36 (1997). Here, Congress 
+validly exercised its authority to define the admissibility of self- 
+incriminating statements in federal courts, and this Court 
+should enforce Congress’s decision. 
+
+
+B. The Court Need Not Overrule Miranda To 
+Enforce Section 3501. 
+
+
+Because Miranda did not purport to identify an 
+inexorable command of the Constitution, the Court need not 
+overrule that decision to uphold Section 3501. In similar 
+situations, where the Court has confronted prophylactic 
+measures of its own creation — measures not required by the 
+Constitution itself but adopted to “safeguard” constitutional 
+rights — the Court has repeatedly made clear that deviations 
+from its prophylactic rules are acceptable provided that the 
+underlying constitutional nght at stake is not infringed. And, 
+
+
+® For this reason, the F.O.P. believes that the various studies the parties 
+and amici cite concerning the impact of Miranda are largely beside the 
+point. The question before this Court is a legal one: namely, whether 
+Miranda embodies an inevitable command of the Fifth Amendment. The 
+efforts of Petitioner’s amici to amass studies and data purportedly 
+demonstrating that Miranda has no negative impact on police clearance 
+rates, or that suspects make false confessions without Miranda warnings, 
+or any other number of points, see, e.g, ACLU Br. 23 et seq. (“Data 
+Confirm That Miranda Does Not Impede Law Enforcement’), simply 
+confirm that the task of drawing any line more protective than that 
+demanded by the Constitution is a policy task for which the political 
+branches are far better suited than this Court. 
+
+
+17 
+
+
+significantly, in the cases where the Court has approved 
+alternatives to its prophylactic rules, it has not “overruled” the 
+decisions setting forth the prophylactic rules: those decisions 
+have remained in place, serving as “safe harbors” for those 
+wary of experimenting with alternatives. 
+
+
+The most recent illustration of this practice occurred 
+earlier this Term, in Smith v. Robbins, 120 S. Ct. 746 (2000), in 
+which the Court examined, and upheld, the procedure that has 
+been adopted by the State of California to protect a defendant’s 
+constitutional right to appellate counsel. California’s procedure 
+— the “Wende procedure” — “departs in some respects” from the 
+procedure that this Court described in Anders v. California, 386 
+U.S. 738 (1967), for protecting the right of appellate counsel.’ 
+On that basis it had been declared constitutionally inadequate 
+by the Ninth Circuit. This Court reversed, emphasizing that 
+“(t]he procedure [the Court] sketched in Anders is a 
+prophylactic one; the States are free to adopt different 
+procedures, so long as those procedures adequately safeguard 
+a defendant’s [constitutional] right to appellate counsel,” 120 
+S. Ct. at 753, and concluding that “the Wende procedure, like 
+the Anders . . . procedure[], . . . affords adequate and effective 
+appellate review for criminal indigents,” id. at 763. 
+
+
+In explaining its ruling, the Court described the Anders 
+rule in terms virtually indistinguishable from the terms the 
+Court has used to describe Miranda — i.e., as a “prophylactic” 
+rule that is not constitutionally required, but rather serves to 
+
+
+” Specifically, “[u}nlike under the Anders procedure, counsel following 
+Wende neither explicitly states that his review has led him to conclude that 
+an appeal would be frivolous . . . nor requests leave to withdraw. Instead, 
+he is silent on the merits of the case and expresses his availability to brief 
+any issues on which the court might desire briefing.” Robbins, 120 U.S. at 
+753. : 
+
+
+18 
+
+
+safeguard an underlying constitutional right. Thus, the Court 
+recalled that 
+
+
+In Pennsylvania v. Finley, 481 U.S. 551 (1987), 
+we explained that the Anders procedure is not 
+‘an independent constitutional command,’ but 
+rather is just ‘a prophylactic framework’ that we 
+established to vindicate the constitutional right 
+to appellate counsel .... We did not say that 
+our Anders procedure was the only prophylactic 
+framework that could adequately vindicate this 
+night; instead, by making it clear that the 
+Constitution itself does not compel the Anders 
+procedure, we suggested otherwise. Similarly, 
+in Penson v. Ohio, 488 U.S. 75 (1988), we 
+described Anders as simply erecting 
+‘safeguards.’ Id. at 80. 
+
+
+120 S. Ct. at 757 (emphases added). 
+
+
+Significantly, the Court in no way “overruled” Anders 
+in upholding the Wende procedure. See, e.g., id. at 763 (“[T]he 
+Wende procedure, like the Anders . . . procedure[], . . . affords 
+adequate and effective appellate review for criminal 
+indigents.”) (emphasis added). (Indeed, the Court was 
+unmoved by the dissent’s argument that “the Court has 
+effectively overruled [Anders].” Robbins, 120 S. Ct. at 766 
+(Stevens, J., dissenting).) A State that does not want to incur 
+the risk that its alternative procedure for protecting the right to 
+appellate counsel will be declared invalid (or the expense of 
+litigation) thus remains free to follow Anders. 
+
+
+While Petitioner does not even mention Robbins, the 
+decision vividly illustrates that the Court need not “overrule” a 
+decision setting forth a prophylactic rule to uphold an 
+alternative procedure that provides fewer safeguards but still 
+adequately protects the core constitutional right at issue. 
+
+
+19 
+
+
+The Court adhered to the same principle in Lewis v. 
+Casey, 518 U.S. 343 (1996). Two decades before Lewis, in 
+Bounds v. Smith, 430 U.S. 817, 828 (1977), the Court had held 
+that “the fundamental constitutional right of access to the courts 
+requires prison authorities to assist inmates in the preparation 
+and filing of meaningful legal papers by providing prisoners 
+with adequate law libraries or adequate assistance from persons 
+trained in the law.” In Lewis itself, a district court declared the 
+Arizona Department of Corrections (“ADOC”) to be in 
+violation of Bounds, based on “a variety of shortcomings of the 
+ADOC system, in matters ranging from the training of library 
+staff, to the updating of legal materials, to the availability of 
+photocopying services,” 518 U.S. at 346, and ordered broad 
+injunctive relief. This Court reversed, finding that the district 
+court had failed “to identify anything more than isolated 
+instances of actual injury.” Id. at 349 (emphasis added). 
+
+
+In explaining what “actual injury” must be shown to 
+establish a Bounds violation, this Court stressed that — contrary 
+to the district court’s apparent belief — Bounds had not 
+established a “right to a law library or to legal assistance”; 
+rather, “[t]he nght that Bounds acknowledged was the (already 
+well-established) nght of access to the courts.” Jd. at 350 
+(emphasis omitted). As it did recently in Robbins, the Court in 
+Lewis drew a sharp distinction between the constitutional right 
+at issue (the right of access to the courts) and the prophylactic 
+measures (law libraries and legal assistance) that had previously 
+been approved as one possible method for protecting that core 
+right. 
+
+Although it affirmed a court order requiring 
+
+North Carolina to make law library facilities 
+
+available to inmates, [Bounds] stressed that that 
+
+was merely “one constitutionally acceptable 
+
+method to assure meaningful access to the 
+
+courts,” and that “our decision here ... does not 
+
+
+20 
+
+
+foreclose alternative means to achieve that 
+goal.” [Bounds,| 430 U.S. at 830. In other 
+words, prison law libraries and legal assistance 
+
+_ programs are not ends in themselves, but only 
+the means for ensuring “a reasonably adequate 
+opportunity to present claimed violations of 
+fundamental constitutional rights to the courts.” 
+Id. at 825. . . . [A]n inmate cannot establish 
+relevant actual injury simply by establishing 
+that his prison’s law library or legal assistance 
+program is subpar in some _ theoretical 
+sense. ... Insofar as the right vindicated by 
+Bounds is concerned, “meaningful access to the 
+courts is the touchstone”... . 
+
+
+Lewis, 518 U.S. at 350-51 (emphasis added). 
+
+
+Again, it bears emphasizing that while making clear that 
+Bounds’ “‘libraries-and-legal-assistance” formula was not the 
+only acceptable means of protecting the constitutional right of 
+access to the courts,® Lewis did not “overrule” Bounds. Indeed, 
+the Court’s refusal te overrule Bounds was in part what 
+prompted Justice Thomas to write a separate concurrence. See 
+Lewis, 518 U.S. at 365 (Thomas, J., concurring) (“I write 
+separately to make clear my doubts about the validity of 
+Bounds ....”). 
+
+
+* Lewis reached this conclusion notwithstanding the statement in Bounds 
+that “the fundamental constitutional right of access to the courts requires 
+prison authorities to assist inmates in the preparation and filing of 
+meaningful legal papers by providing prisoners with adequate law libraries 
+or adequate assistance from persons trained in the law.” Bounds, 430 U.S. 
+at 828 (emphasis added). This confirms that Miranda’s suggestions — so 
+heavily relied on by Petitioner and his amici — to the effect that any 
+alternative to Miranda must “appris[e] accused persons of their right of 
+silence,” e.g., Miranda v. Arizona, 384 U.S. 436, 467 (1966), cannot be read 
+as rigidly as Petitioner urges. 
+
+
+21 
+
+
+Robbins and Lewis are thus two recent examples of 
+instances in which the Court has endorsed (as sufficient to 
+protect the core constitutional right at stake) an alternative to a 
+“prophylactic” measure announced in a prior decision, without 
+“overruling” that prior decision. That is the course the Court 
+should follow here. It is not necessary to “overrule” Miranda 
+to confirm that Section 3501 is a constitutionally acceptable 
+framework for assessing the admissibility of confessions and 
+for protecting the core right at issue (namely, a suspect’s nght 
+to be free from compelled self-incrimination). From the time 
+Miranda was decided (and indeed in Miranda itself), the Court 
+repeatedly has made clear that the Miranda approach was never 
+intended to be exclusive or to foreclose experimentation. And 
+Section 3501 represents precisely the sort of alternative rule 
+that the Court has approved in analogous cases — a rule that 
+focuses the judicial inquiry on the relevant question whether an - 
+actual constitutional right has been violated. Section 3501 
+therefore should be upheld as a constitutionally permissible 
+alternative to the prophylactic Miranda warnings, with 
+Miranda left in place as a safe harbor for law enforcement 
+
+
+personnel. 
+
+
+Ill. The Principal “Practical” Arguments Raised 
+Against Section 3501 Do Not Withstand Scrutiny; 
+To the Contrary, Section 3501 Represents the Best 
+of Both Worlds. 
+
+
+A. Miranda’s “Bright Lines” Are Not So Bright. 
+
+
+One of the principal virtues of the Miranda regime, 
+according to Petitioner and his amici, is that Miranda is 
+supposedly an easily administered “bright line” rule. From the 
+perspective of the F.O.P.’s membership, that is a vast 
+oversimplification. 
+
+
+Although the text of the Miranda warnings may be 
+clear, and perhaps even familiar to most sixth-graders, applying 
+
+
+22 
+
+
+Miranda in the field requires more than memorizing a four-line 
+script. Miranda and its progeny require police officers to make 
+instant, on-the-spot determinations on subtle questions that can 
+easily divide panels of judges far better trained in the nuances 
+of the law. Thus, officers must decide such matters as whether, 
+for example, a routine traffic stop has evolved into a situation 
+in which the suspect is in “custody,” see Berkemer v. McCarty, 
+468 U.S. 420 (1984); whether a discussion has matured into an 
+“interrogation,” see Rhode Island v. Innis, 446 U.S. 291 (1980); 
+whether a suspect has adequately waived his Miranda nghts, 
+see North Carolina v. Butler, 441 U.S. 369 (1979); whether a 
+suspect’s statement amounts to an unambiguous request for 
+counsel, compare Edwards v. Arizona, 451 U.S. 477 (1981), 
+with Davis v. United States, 512 U.S. 452 (1994); and whether 
+any of the exceptions to Miranda applies, see, e.g., New York 
+v. Quarles, 467 U.S. 649 (1984) (“public safety” exception); 
+Pennsylvania v. Muniz, 496 U.S. 582, 601-02 (1990) (“routine 
+booking” exception). The lines in these areas are hazy, not 
+bright.’ As this Court has expressly recognized, for example, 
+“the task of defining ‘custody’ is a slippery one, and policemen 
+investigating serious crimes cannot realistically be expected to 
+make no errors whatsoever.” Oregon v. Elstad, 470 U.S. 298, 
+309 (1985). See also id. at 316 (the question “of when 
+‘custody’ begins” can be “murky and difficult”). 
+
+
+In praising the supposed simplicity of the Miranda 
+regime, the Bell amici gloss over such difficult questions. In 
+their view, Miranda is easy to apply because, “/a/ssuming that 
+a suspect is in custody at the start of the interrogation, either the 
+
+
+* Notwithstanding their avowed support of Miranda, the Bell amici 
+readily acknowledge that they consider some cases in the Miranda line to 
+have been wrongly decided. See Bell Br. 5, 26. That is a significant 
+admission, because these cases have contributed substantially to the blurring 
+of the supposedly clear lines of Miranda. 
+
+
+23 
+
+
+warnings were given and a waiver was obtained, or they were 
+not.” Bell Br. 19 (emphasis added). But if one does not merely 
+assume away the difficult problems, it is plain that “Miranda 
+creates as many close questions as it resolves.” Withrow v. 
+Williams, 507 U.S. 680, 711-12 (1993) (O’Connor, J., 
+concurring in part and dissenting in part). See also Voluntary 
+Confessions and the Enforcement of Section 3501, Title 18, 
+U.S. Code: Hearing Before the Subcomm. on Criminal Justice 
+Oversight of the Sen. Judiciary Comm., 106th Cong., Ist Sess. 
+23 (1999) (statement of Gilbert G. Gallegos, President, Grand 
+Lodge, Fraternal Order of Police). 
+
+
+For officers in the field, a mistaken assessment of the 
+circumstances as events are rapidly unfolding — even a good- 
+faith assessment that is declared “mistaken” only years later, 
+based on review in the far-removed confines of a judge’s 
+chambers — can, under the Miranda regime, result in the 
+suppression of an entirely voluntary statement, the frustration 
+of good-faith and professional police work, and in the release 
+of an admitted criminal. It is inevitable, moreover, that such 
+mistakes will occur. See, e.g., Quarles, 467 U.S. at 656 
+(recognizing the “kaleidoscopic situation[s] . . . confronting 
+[law enforcement] officers” in investigating crimes); Michigan 
+v. Tucker, 417 U.S. 433, 446 (1974) (“[T]he law . . . cannot 
+realistically require that policemen investigating serious crimes 
+make no errors whatsoever.”’). 
+
+
+B. Section 3501 Represents the Best of Both 
+Worlds: It Retains Incentives for Law 
+Enforcement Officers To Provide Warnings 
+and Ensures that Voluntary Confessions Will 
+Not Be Excluded Due to Technical Errors. 
+
+
+Section 3501 promises to bring a _ long-needed 
+improvement to the law. In the F.O.P.’s view, the statute 
+represents the best of both worlds. On the one hand, Section 
+
+
+24 
+
+
+3501 preserves the best aspects of Miranda. Of course, it 
+should go virtually without saying that the statute continues to 
+give police officers ample incentive to ensure that a suspect’s 
+constitutional rights are not violated — under Section 3501 no 
+less than under Miranda, a statement obtained in violation of 
+the Fifth Amendment is excluded at trial. In addition, by 
+expressly listing the elements of the Miranda warnings among 
+the factors to be considered in assessing voluntariness, Section 
+3501 also continues to provide officers a strong incentive to 
+administer the prophylactic Miranda warnings. A statement 
+obtained after proper Miranda warnings, after all, is virtually 
+certain to be found voluntary. See, e.g., Berkemer, 468 U.S. at 
+433 n.20 (“([C]ases in which a defendant can make a colorable 
+argument that a self-incriminating statement was ‘compelled’ 
+despite the fact that the law enforcement authorities adhered to 
+the dictates of Miranda are rare.”). Continued adherence to 
+Miranda’s procedures will thus provide law enforcement 
+officers with a valuable safe harbor — an opportunity virtually 
+to ensure that statements they obtain in the course of their 
+investigations will later be held admissible in court. As the 
+court below explained, under Section 3501, “providing the four 
+Miranda warnings is still the best way to guarantee a finding of 
+voluntariness.” J.A. 211. 
+
+
+Indeed, it bears noting that the benefits some of 
+Petitioner’s amici see in Miranda as an affirmative aid in police 
+work would still apply with full force under Section 3501 and 
+thus further tend to confirm that Miranda warnings will still be 
+given. The ACLU, for example, argues that Miranda provides 
+valuable guidance to police concerning procedures to follow to 
+ensure that suspects’ statements will be admissible and aids 
+interrogations by tending to establish some level of trust or 
+confidence with the suspect. See ACLU Br. 19-20. To the 
+extent the Miranda warnings yield these benefits, they will 
+continue unabated even if Section 3501 supplies the rule on 
+
+
+25 
+
+
+admissibility, and thus these benefits only further confirm that 
+officers attempting to solve crimes and clear cases will continue 
+to administer the warnings. There is no reason to think that 
+warnings that further police objectives in securing convictions 
+of guilty criminals will be dropped simply because they are no 
+longer required by an iron-clad rule. As a result, the F.O.P. 
+fully expects that, if Section 3501 is upheld, officers will 
+routinely continue to give Miranda warnings for the simple 
+reason that the warnings will aid successful prosecutions by 
+ensuring that statements obtained by police can be used at 
+trial.'° 
+
+At the same time, Section 3501 addresses the glaring 
+shortcomings of the Miranda regime by making the 
+voluntariness of a confession, rather than technical compliance 
+with Miranda’s prophylactic procedures, the touchstone of 
+admissibility. Section 3501 thus holds the promise of 
+continuing copious protection of criminal suspects’ underlying 
+constitutional rights, while substantially reducing the high costs 
+of the Miranda regime. 
+
+
+The various amici that have argued against upholding 
+Section 3501, while exaggerating the clarity of Miranda and its 
+progeny, have also vastly overstated purported difficulties 
+under Section 3501 — particularly the supposed morass of 
+difficult voluntariness determinations that would be thrust upon 
+the courts under the statute. This parade of horribles is doubly 
+flawed. First, the Bell amici improperly assume that under 
+
+
+© See J.A. 210-11 (“[{L]est there be any confusion on the matter, nothing 
+in today’s opinion provides those in law enforcement with an incentive to 
+stop giving the now familiar Miranda warnings.”) See also Memorandum 
+from Larry R. Parkinson, General Counsel, Federal Bureau of Investigation 
+(Oct. 19, 1999) (lodged by the United States, Feb. 24, 2000) (“Regardless 
+of the outcome of [this case], the FBI will not alter its policy” of giving 
+warnings listed in Miranda). 
+
+
+26 
+
+
+Section 3501, Miranda warnings will cease to be given entirely 
+and thus that every case will require a broad-ranging inquiry 
+into an undifferentiated host of factors bearing on 
+voluntariness. But this tacit assumption that police will 
+instantly abandon current practices and revert to pre-Miranda 
+procedures is entirely unrealistic. It wholly ignores the 
+powerful incentives that police will have under Section 3501 to 
+continue administering Miranda warnings — incentives that, as 
+explained above, will ensure that in the overwhelming majority 
+of cases such warnings will still be given. And for that very 
+reason, the voluntariness inquiry will be vastly simplified. 
+Even today, after all, under the Miranda regime, a defendant 
+can argue that a statement made after proper Miranda wamings 
+was actually coerced. That inquiry is not thought to place a 
+great burden on the courts for the simple reason that it would 
+take extraordinary circumstances to show that Mirandized 
+statements were actually compelled. See Berkemer, 468 U.S. 
+at 433 n.20. The same common-sense conclusion would 
+undoubtedly apply no less under the totality-of-the- 
+circumstances test under section 3501. As a result, wherever 
+Miranda warnings were given, the inquiry into voluntariness 
+would continue to be streamlined and easily manageable. 
+
+
+Second, even where Miranda-like warnings were not 
+given to a suspect, there is simply no basis for assuming that a 
+voluntariness standard, such as that of Section 3501, would 
+necessarily be more difficult to apply than Miranda. See Bell 
+Br. 13-17. Justice O’Connor disposed of that contention in her 
+separate opinion in Withrow: 
+
+
+[T]he supposedly “bright” lines that separate 
+interrogation from spontaneous declaration, the 
+exercise of a right from waiver, and the 
+adequate warning from the inadequate, likewise 
+have turned out to be rather dim and ill defined. 
+
+
+27 
+
+
+Yet Miranda requires those lines to be drawn 
+with precision in each case. 
+
+
+The _ totality-of-the-circumstances 
+approach, on the other hand, permits each fact 
+to be taken into account without resort to formal 
+and dispositive labels. By dispensing with the 
+difficulty of producing a yes-or-no answer to 
+questions that are often better answered in 
+shades and degrees, the voluntariness inquiry 
+often can make judicial decisionmaking easier 
+rather than more onerous. 
+
+
+Withrow, 507 U.S. at 711-12 (O’Connor, J., concurring in part 
+and dissenting in part) (emphasis added). Thus, whether a 
+Miranda inquiry or a Section 3501 totality-of-the- 
+circumstances test is more manageable depends on the facts of 
+the case in question. To exchange the rigidity of Miranda’s 
+exclusionary rule for the flexibility of Section 3501’s command 
+to evaluate the totality of the circumstances, therefore, is not to 
+sacrifice judicial economy. 
+
+
+Moreover, even if it were true that a totality-of-the- 
+circumstances test is more complex and time-consuming than 
+Miranda, that is a price that American law enforcement is 
+willing to bear. As we have explained, officers will for the 
+most part continue to provide Miranda warnings even under a 
+Section 3501 regime; accordingly, it is only in the case when an 
+officer for some reason (such as a technical violation) fails to 
+stay within the safe harbor provided by the Miranda wamings 
+that the supposed “difficulties” of the voluntariness test will 
+arise. And in those cases, law enforcement officers would 
+much prefer to take the time to assist the court in undertaking 
+a voluntariness inquiry — even though that inquiry might be 
+time-consuming and require consideration of an array of factors 
+
+
+28 
+
+
+~ rather than to see the confession automatically suppressed (as 
+it would be under the inflexible Miranda exclusionary rule). 
+
+
+According to the Bell amici, even though law 
+enforcement officials will likely continue to administer 
+Miranda warnings in a Section 3501 regime, such a regime of 
+warnings voluntarily administered has “several obvious flaws.” 
+Bell Br. 18. But a moment’s scrutiny reveals that each of the 
+three such alleged “flaws” they identify is illusory. 
+
+
+The first of the “flaws” is the alleged danger of 
+“tinkering.” The Bell amici contend that police agencies will 
+not be content to administer the Miranda warnings in their 
+present form, and will instead “undoubtedly” alter and modify 
+the warnings; amici predict that this will result in “potentially 
+endiess”’ litigation, and “make the policies harder to follow and 
+undermine compliance.” Bell Br. 18. But they offer no 
+explanation at all as to why — given the near-certainty that 
+recitation of the familiar Miranda script will assure 
+admissibility of any confession (under Section 3501, no less 
+than today) — police will “tinker” with the language of the 
+warnings. Police will not “tinker” merely for the sake of 
+“tinkering.” They will modify the Miranda script only if the 
+modification produces some appreciable benefit (such as 
+making the policy easier to follow, or reducing litigation). And 
+if some (perhaps impulsively creative) police departments 
+begin “tinkering” with the Miranda formulation, only to find 
+that (as the Bell amici predict) their “tinkering” results in 
+“endless litigation” and harder-to-follow policies, those 
+departments will revert to the good old Miranda language. 
+
+
+The second “flaw” that the Bell amici assert is the 
+alleged danger that “internal regulations” will not be “as 
+effective as Miranda in encouraging police to administer 
+warnings.” Bell Br. 18. But that is simply an improper 
+comparison. Amici are correct to suggest that, at present, the 
+
+
+29 
+
+
+primary source of “encouragement” for an officer to administer 
+warnings comes not from “internal regulations” (most of which 
+presently require officers to administer the Miranda warnings), 
+but rather from the recognition that, absent warnings, any 
+confession from a suspect will likely be excluded from 
+evidence. The same will be true, however, under the Section 
+3501 regime: the principal motivation for administering 
+warnings to suspects (then as now) will be the recognition that, 
+if warnings are not given, any confession obtained by the 
+officer may ultimately be excluded (pursuant to the terms of 
+Section 3501, rather than Miranda). The fact that the 
+department’s “internal regulations” require the warnings will be 
+secondary in the officer’s mind — just as it is today. 
+
+
+Finally, the Bell amici raise the possibility that some 
+departments will altogether cease providing warnings “as the 
+memory of the value of Miranda fades.” Jd. at 19. But that 
+theory defies logic. Departments would stop providing 
+warnings altogether only if experience showed that such a “no 
+warning” policy had no adverse effect on the admissibility of 
+confessions obtained from suspects. That is a most unlikely 
+prospect — to put it mildly — given that Section 3501 expressly 
+identifies warnings as one of the factors to be considered in 
+assessing voluntariness. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the Fourth Circuit’s decision 
+should be affirmed. 
+
+
+30 
+
+
+Respectfully submitted, 
+
+THOMAS T. RUTHERFORD PATRICK F. PHILBIN 
+GENERAL COUNSEL Counsel of Record 
+
+GRAND LODGE, THEODORE W. ULLYOT 
+FRATERNAL ORDER OF POLICE KIRKLAND & ELLIS 
+1910 Ridgecrest, S.E. 655 Fifteenth Street, N.W. 
+Albuquerque, NM 87108 Washington, D.C. 20005 
+(505) 265-7129 (202) 879-5000 
+
+
+Counsel for Amicus Curiae 
+Fraternal Order of Police 
+
+

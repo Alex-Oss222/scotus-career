@@ -1,0 +1,1299 @@
+=> 
+
+
+b Wwe ; | 
+Mar 
+
+
+No. 99-5525 
+
+
+. 
+* 
+2 nm 
+— 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+
+
+CHARLES THOMAS DICKERSON 
+Petitioner, 
+
+
+V. 
+
+
+UNITED STATES OF AMERICA 
+Respondent. 
+
+
+On Writ of Certiorari to the Fourth Circuit Court of Appeals 
+
+
+BRIEF OF AMICUS CURIAE URGING AFFIRMANCE 
+OF THE FOURTH CIRCUIT DECISION 
+
+
+MICHAEL P. FARRIS* 
+ScoTT W. SOMERVILLE 
+Center for the Original Intent of the 
+Constitution, at 
+Patrick Henry College 
+P.O Box 1776 
+Purcellville, VA 20134 
+(540) 338-1776 
+* Counsel of Record 
+
+
+BEST AVAILABLE COPY 
+
+
+QUESTION PRESENTED 
+
+
+The trial court found that Charles Dickerson voluntarily 
+confessed to a series of bank robberies after he was taken 
+into custody and before he was read his Miranda nghts. 
+Miranda v. Arizona, 384 U.S. 436 (1966). 18 U.S.C. § 3501 
+permits voluntary confessions to be used in a criminal case 
+in federal court, whether or not the defendant was read his 
+
+
+rights. 
+
+
+Are the Miranda warnings actually compelled by the 
+Constitution or are they judicially-created rules that can be 
+overruled by a valid Act of Congress? 
+
+
+ili 
+TABLE OF CONTENTS | 
+Qusstion Presented ....::cnssscssssciemmeememan il 
+TERED OS CORBBIID ...:.<ccrssesssssinsisieesssamianiiananaaanaaen ili 
+TREO OE Att OTER OS n.ccccscsssossessicscenesmmmauiamaann Vv 
+Semmenety OF AGI IIE .....<ssscsssscstésstesnsemiamaaaneel 3 
+
+
+Argument: The Fifth Amendment Was Intended to 
+Protect Recognized Rights from Federal Abuse, 
+
+
+Not te Cosate Nowy BRAID ....:.cniccsctssssustnteseniamimainiiae 5 
+A. The Legislative Power of the Federal 
+TIERONE «..0.02cssecessenssesestasannsntiaiesiaaeen 5 
+1. Separation Of POW ..ccccscsssisssstieneeiiamiineaal 5 
+
+
+2. The Judiciary Has lis Own Legislative 
+
+
+3. Congress Can Overrule the Legislative 
+
+
+Power OF Cid ROT GNAIG cccssccsscossenpenseniienmininianiaien 7 
+4. Overruling the “Unnecessary Delay” 
+
+CORRES .crecoccsececescooeeedinsaieaimsamiisaiianinnnennnnnnnnnn x 
+
+B. The Original Intention of the Fifth 
+
+AGROREIIOEE o0ccccccecsssintescisteiaasimaen 4 
+1. A Patriotic Zeal for Common Law 
+
+LAB OB TIGI. ..ccccccecsssetnsennsaisimnmmmauamadamnaaaannne i) 
+2. The Inexhaustible Common Law...............ccc000. 10 
+
+
+Ee 
+
+
+iv 
+
+
+3. The Anti-Federalists Feared Congress's 
+“Exclusive Power of Legislation” in the New 
+
+
+TIT os cceniciinteinatieensedmanenetnensomienestonsveescataete 12 
+
+4. Proposed Solutions. ..............ccccsseseeseeseeseeeeeeeeeees 14 
+
+C. The Privilege aginst Self-Incrimination................. 16 
+
+1. Self-Incrimination in the English Courts ........... 16 
+
+2. Self-Incrimination Before Trial......................+: 18 
+
+D. The Constitution Does Not “Evolve”.................00+: 19 
+ITI .-ssnstscssensossencnasneenasencssersoseesevecsscesscsnsecoscescoccscoosees 23 
+
+
+Vv 
+TABLE OF AUTHORITIES 
+
+Cases 
+Anderson v. United States, 
+
+ETE Re ON Ce s 
+Bank of Nova Scotia v. United States, 
+
+gg | SERRE ES Te aaa eee RNS s 
+Bram v. United States, 
+
+ee ee larietaniinttitateiinnitiittiii iat ihiteiatoesl 21 
+Carlisle v. United States, 
+
+gE a OT Oe ® 
+Chambers v. NASCO, Inc., 
+
+Ss iit eae 7 
+Davis v. United States, 
+
+Ee NS IT 20 
+Garner v. United States, 
+
+IEEE aA UT ONT TS, 20 
+Malloy v. Hogan, 
+
+eRe See TL eS 22 
+McNabb v. United States, 
+
+ig INE CREE re RD: 8,9 
+Michigan v. Tucker, 
+
+RN eee UE re nay Sn EE 20 
+Minnesota v. Murphy, 
+
+8 RESETS EST aa nO, 20 
+
+
+vi 
+
+
+Miranda vy. Arizona, . 
+
+FBO UD. S96 (BBG) nn cccccccecceesccccsesccecsvessccssscsssscssveess passim 
+Murphy v. Waterfront Comm'n of New York Harbor, 
+
+(yyy 16 
+Myers v. United States, 
+
+OO, ee 7 
+New Jersey v. Portash, 
+
+GED UD. GBD (IGT IR cecccccecccecsssrsecsssessssssessscscnsessevssesesoseoses 20 
+New York v. Quarles, 
+
+ER 20 
+Oregon v. Elstad, 
+
+UL § |, 20 
+Palermo v. United States, 
+
+| JS Lh rrr 8 
+Powers v. United States, | 
+
+OO ____————————————————————— 22 
+Rogers v. United States, 
+
+SOD UB. BEF CGB T) secccccccccccsccssessscssssessscsssssssssssvssssesessnse 20 
+Sparf v. United States, 
+
+IR, ————————————————————EEE 21 
+United States v. Balsys, 
+
+ee 4 
+
+United States v. Mitchell, 
+FBZ UB. 65 (BDOG) .nxcccccececcccescsccccnsesessscesccsssosescsssccssessceseecs 8 
+
+
+vii 
+
+
+Upshaw v. United States, 
+335 U.S. 410 (1948)............... siecinaaieeicaestainiinsdidaatietiliibiimanias 8 
+
+
+Wilson v. United States, 
+I 21, 22 
+
+
+Statutes 
+ie. OF EID veenieatninttinniennnnusnsmenenaneitel passim 
+
+
+Omnibus Crime Control and Safe Streets Act of 1968, 
+RTI Eile: DU, TOUR I I, I iis nee ns & 
+
+
+Other Authorities 
+
+
+Goebel, J., & T. Naughton, Law Enforcement in 
+Sy GUD De astnrsertnctnceianeivcnenemmnnsen 18 
+
+
+Kauper, Judicial Examination of the Accused—A 
+Remedy for the Third Degree, 
+BP EE Cics EOL, Be CEI crcrrerveencersesetesnvonsnnsnacsonensses 18 
+
+
+Levy, L., The Origins of the Fifth Amendment 
+
+
+Morgan, The Privilege Against Self-Incrimination, 
+PO he BEB Gr ccrcctrensinnsstscninientiariincnieinsiene 18 
+
+
+Office of Legal Policy, Report to the Attorney General 
+on the Law of Pretrial Interrogation, 
+22 Journal of Law Reform 451 (1989) .......... 16, 17, 18, 23 
+
+
+Scott, A., Criminal Law in Colonial Virginia (1930).......... 18 
+Williams, G., The Proof of Guilt (1963) ..........ccsceseceeeeeees 18 
+
+
+Vili 
+
+
+Constitutional Provisions 
+I I I ial mlleihbanlianiall 
+
+
+U.S. Const. Art. I, § 1 
+
+
+SOCORRO EEE HEHEHE HEHEHE EEE EEE HEHEHE HEE 
+
+
+i 
+
+
+U.S. Const. Art. III, § 
+U.S. Const. Preamble 
+
+
+l CEE E EEE ETE H EEE 
+
+
+COE EEE EEE EEE EEE EEE EEE HEHEHE EEE EEE HEHE EE 
+
+
+INTEREST OF THE AMICUS' 
+
+
+The Center for the Original Intent of the Constitution was 
+formed by the Home School Legal Defense Association in 
+1998, and now operates under the auspices of Patrick Henry - 
+College. The Center holds that the interpretation of the Con- 
+stitution according to the original intent of the Founders is 
+the only safe basis for the preservation of limited govern- 
+ment and all rights including those important to our associa- 
+tion. The Center exists to systematically research and advo- 
+cate constitutional interpretation according to the principle of 
+original intent. 
+
+
+Our Founders established a federal government with 
+limited and enumerated powers. The limits on federal power 
+were originally intended to protect the autonomy of the 
+States and the liberties of the people. The Founders viewed 
+vigorous State governments and limited federal government 
+as essential to personal liberty. So do we. 
+
+
+Our interest is to preserve the blessings of liberty for our- 
+selves and our posterity. U.S. Const. Preamble. We seek to 
+do this by holding the federal government to the terms of our 
+original social contract: the Constitution. Faithful adherence 
+to the original intent of the Founders is essential; not because 
+
+
+' Pursuant to Rule 37.6, this brief was authored, prepared, and 
+paid for in its entirety by the Center for the Original Intent of the Con- 
+stitution at Patrick Henry College and the Home School Legal Defense 
+Association. No counsel for a party authored any part of this brief, nor 
+did any person or entity other than amicus curiae, its members, or its 
+counsel make a monetary contribution to the preparation or submission 
+of this brief. 
+
+The amicus curiae requested and received the written consents 
+of the parties to the filing of this brief. Such written consents, in the form 
+of letters from counsel of record for the parties, have been submitted for 
+filing to the Clerk of Court. See Sup. Ct. Rule No. 37.3(a). 
+
+
+2 
+
+
+they are ancient and deserve veneration, but because they 
+were the elected representatives of the people. 
+
+
+Self-government demands that the intention of the 
+elected Framers should always prevail over the views of 
+unelected judges guided by floating notions of a “living Con- 
+stitution.” Our Founders made promises to the people who 
+ratified the Constitution. It is those promises that are ulti- 
+mately at stake in this case. 
+
+
+3 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The problem in this case is that both Congress and this 
+Court have established rules about the admissibility of con- 
+fessions, and those rules conflict. This Court said, in 
+Miranda, that no confession would be admissible unless 
+certain warnings were provided first. Congress said, in 18 
+U.S.C. § 3501, that voluntary confessions would be admissi- 
+ble in federal courts with or without the Miranda warnings. 
+This Court must now determine which rules shall prevail. 
+
+
+The federal judiciary can exercise some legislative power 
+for the same reason that the other branches of government 
+can exercise some judicial power. Each branch of govern- 
+ment has to make internal rules, make internal decisions, and 
+settle internal disputes. But these are not exercises of the 
+powers of the United States. When Congress sanctions one 
+of its members (a judicial function), it is exercising the judi- 
+cial power of Congress, not the judicial power of the United 
+States. Likewise, when the military courts render judgment, 
+they exercise the judicial power of the executive branch, not 
+the judicial power of the United States. Thus, when federal 
+courts establish rules of evidence and procedure, they only 
+exercise the /egislative power of the federal judiciary, not the 
+legislative power of the United States. 
+
+
+Each of these three levels of legislative power takes 
+precedence over the ones below it. Congress cannot use its 
+delegated subset of legislative power to override the ultimate 
+exercise of legislative power in the Constitution. Likewise, 
+the courts cannot use the legislative power of the federal ju- 
+diciary to override the legislative power of the United States. 
+
+
+The question in this case is whether the prophylactic 
+rules in Miranda are a command which flows from the Fifth 
+and Fourteenth Amendments or whether these rules occupy 
+the same place in our constitutional scheme as the Federal 
+Rules of Evidence. 
+
+
+If Miranda simply spells out what the Constitution 
+means, then the legislative authority for Miranda is the Con- 
+stitution itself: the ultimate exercise of the legislative power 
+of the United States. In that case, § 3501 is void. But if the 
+Miranda warnings are not compelled by the Constitution, 
+then the Miranda Court was merely exercising the legislative 
+power of the federal judiciary. In that case, § 3501 controls. 
+
+
+The Constitution does not compel Miranda‘s warnings. 
+As this Court recently noted, “what we know of the circum- 
+stances surrounding the adoption of the Fifth Amendment, 
+however, gives no indication that the Framers had any sense 
+of a privilege more comprehensive than common law prac- 
+tice then revealed.” United States v. Balsys, 524 U.S. 666, 
+674, n. 5. Our Founders ratified the Bill of Rights to protect 
+the existing common law privileges from encroachment by 
+Congress, not to open up a fountain of new rights. 
+
+
+The Miranda warnings may be the very best statutes a 
+legislature could draft, and the best policy the executive 
+branch could employ, but they are not required by the Con- 
+stitution. Therefore, they are merely an exercise of the leg- 
+islative power of the federal judiciary, and Congress’s supe- 
+nor legislative power must control. This conviction should 
+therefore be upheld. 
+
+
+ARGUMENT: 
+
+
+THE FIFTH AMENDMENT WAS INTENDED TO 
+PROTECT RECOGNIZED RIGHTS FROM FEDERAL 
+ABUSE, NOT TO CREATE NEW RIGHTS 
+
+
+A. THE LEGISLATIVE POWER OF THE FEDERAL 
+JUDICIARY 
+
+
+1. SEPARATION OF POWERS 
+
+
+This case is not about whether the Miranda warnings are 
+wise or unwise, good public policy or bad public policy. 
+This case is about whether the Miranda Court properly exer- 
+cised its judicial power or whether it intruded upon the leg- 
+islative power of the United States. 
+
+
+The dictionary defines “judicial activism” as a: 
+
+
+Judicial philosophy which motivates judges to 
+depart from strict adherence to judicial prece- 
+dent in favor of progressive and new social 
+policies which are not always consistent with 
+the restraint expected of appellate judges. It 
+is commonly marked by decisions calling for 
+social engineering and occasionally these de- 
+cisions represent intrusions into legislative 
+and executive matters. 
+
+
+Black’s Law Dictionary (5th ed.) [emphasis supplied]. 
+
+
+Miranda v. Arizona, 384 U.S. 436 (1966) is a textbook 
+example of this dictionary definition. Chief Justice Warren 
+was explicitly trying to reshape society when he overturned 
+175 years of Fifth Amendment precedent. The Warren ma- 
+jority was legislating, not judging, when it established a set 
+
+
+of rules that were intended to apply in all future cases. That 
+violates the constitutional doctrine of separation of powers. 
+
+
+The most potent words in the Constitution may well be 
+those that appear at the beginning of each of the first three 
+Articles. “All legislative Powers herein granted shall be 
+vested in a Congress of the United States,” U.S. Const. Art. 
+I, § 1; “The executive Power shall be vested in a President of 
+the United States of America,” U.S. Const. Art. II, § 1; “The 
+judicial Power of the United States, shall be vested in one 
+supreme Court, and in such inferior Courts as the Congress 
+may from time to time ordain and establish,” U.S. Const. 
+Art. Ill, § 1. This separation of powers is our structural 
+guarantee of lasting liberty, and that guarantee is what is at 
+stake here. 
+
+
+2. THE JUDICIARY HAS ITS OWN 
+LEGISLATIVE POWER 
+
+
+We must compare three different levels of legislative 
+authority in this case. The highest level of authority is the 
+Fifth Amendment, which (like the rest of the Constitution) is 
+the ultimate exercise of the legislative power of the United 
+States. The next level of authority is an Act of Congress: 
+Section 3501 was an exercise of that portion of the legisla- 
+tive power of the United States that was conferred upon 
+Congress in Article I, § 1. The lowest level of legislative 
+power is found in the federal rules of evidence and proce- 
+dure, which are not an exercise of the legislative power of 
+the United States, but only an exercise of the legislative 
+power of the federal judiciary. 
+
+
+Separation of powers does not mean that every judicial 
+act must be performed by the judiciary, or that every execu- 
+tive act must be performed by the executive. Each branch of 
+government has to operate from day to day, and that takes 
+
+
+rule-making, decision-making, and administration. Inside its 
+own walls, each branch of government has to do all three. 
+
+
+Thus, when the Supreme Court administers its own busi- 
+ness, it is not exercising the “executive power of the United 
+States.” It is executing the executive power of the federal 
+judiciary, instead. Likewise, when the Supreme Court es- 
+tablishes rules of evidence and procedure, it is exercising the 
+legislative power of the federal judiciary. 
+
+
+3. CONGRESS CAN OVERRULE THE 
+LEGISLATIVE POWER OF THE 
+JUDICIARY 
+
+
+Congress, by an exercise of the legislative power of the 
+United States, can override an exercise of the legislative 
+power of the federal judiciary. As Justice Scalia has noted: 
+
+
+Just as Congress may to some degree specify 
+the manner in which the inherent or constitu- 
+tionally assigned powers of the President will 
+be exercised, so long as the effectiveness of 
+those powers is not impaired, cf. Myers v. 
+United States, 272 U.S. 52, 128 (1926), so 
+also Congress may prescribe the means by 
+which the courts may protect the integrity of 
+their proceedings. A court must use the pre- 
+scribed means unless for some reason they are 
+inadequate. 
+
+Chambers v. NASCO, Inc., 501i U.S. 32, 59-60 (1991) 
+
+(Scalia, J., dissenting). 
+
+
+Congress’s power to write rules for the courts is unques- 
+tioned in principle, although there are difficulties in practice. 
+
+
+See Carlisle v. United States, 517 U.S. 416, 426 (1996)’; 
+Bank of Nova Scotia v. United States, 487 U.S. 250 (1988); 
+Palermo v. United States, 360 U.S. 343, 345-48 (1959). 
+Congress’s power to write rules of court is limited by the 
+Constitution, of course: Congress cannot override a rule of 
+Court that is mandated by the Constitution. 
+
+
+4. OVERRULING THE “UNNECESSARY 
+DELAY” CASES 
+
+
+Prior to Miranda, this Court decided a whole series of 
+similar cases involving the Federal Rules of Criminal Proce- 
+dure. Rule 5(a) required that an arrested person be brought 
+before a magistrate without unnecessary delay, and this 
+Court excluded a number of statements because of “unneces- 
+sary delay.” See Upshaw v. United States, 335 U.S. 410 
+(1948); United States v. Mitchell, 322 U.S. 65 (1944); An- 
+derson v. United States, 318 U.S. 350 (1943); McNabb v. 
+United States, 318 U.S. 332 (1943). These cases would now 
+fall under the Miranda rule. 
+
+
+Congress overrode this line of cases in 1968 by a provi- 
+sion in the Omnibus Crime Control and Safe Streets Act of 
+1968, Pub. L. No. 90-351, 88 Stat. 197, 210-11. That Act 
+(which also contains the provision at issue here, § 3501) pro- 
+vided that a voluntary confession by a person in custody is 
+not inadmissible solely because of delay in bringing the per- 
+son before a magistrate if the confession is made within six 
+
+
+? In Carlisle, Justice Kennedy dissented, insisting that courts 
+always retain the inherent power to do justice, which, in that case, con- 
+sisted of allowing a judge to acquit an innocent defendant after the expi- 
+ration of a time limit set by the federal rules of criminal procedure. This 
+case presents the opposite question: whether courts may rely upon an Act 
+of Congress to convict a guilty defendant who would be acquitted under 
+court rules. Justice Kennedy’s legitimate concern to maintain the court’s 
+inherent judicial power to “do justice” is therefore not implicated here. 
+
+
+hours of the arrest. Congress replaced the subjective phrase 
+“unnecessary delay” with a bright line rule of “six hours.” 
+
+
+McNabb and its progeny could be overruled by a single 
+Act of Congress because they were based on the Federal 
+Rules of Criminal Procedure, not the Constitution itself. If 
+Miranda is just a court-created rule of evidence or proce- 
+dure, it can be overruled in the same way, and § 3501 has 
+done so. If Miranda is compelled by the Fifth Amendment, 
+on the other hand, it cannot be overruled, and § 3501 is void. 
+So this whole case turns upon the constitutional status of the 
+
+
+Miranda warnings. 
+
+
+B. THE ORIGINAL INTENTION OF THE FIFTH 
+AMENDMENT 
+
+
+Miranda‘s status depends on the true meaning of the 
+Fifth Amendment. This amicus believes that the true mean- 
+ing of the Constitution can never be determined without ref- 
+erence to the original intentions of those who drafted and 
+ratified it. The original intent of the Fifth Amendment was 
+to protect Americans from compelled testimony, not to keep 
+voluntary confessions out of court. Miranda is therefore not 
+
+
+compelled by the Fifth Amendment. 
+l. A PATRIOTIC ZEAL FOR COMMON LAW 
+LIBERTIES 
+
+
+It is easy to forget how new and frightening the federal 
+government seemed to the founding generation. Some of the 
+most well-known patriots were sure that the Constitution had 
+created a monster that would devour individual liberties and 
+State autonomy. Anti-Federalists like Patrick Henry and 
+George Mason fanned the flame of fear in a last-ditch effort 
+to keep the Constitution from being ratified. In the Virginia 
+
+
+10 
+
+
+Ratification Debates, Patrick Henry delivered a fiery speech 
+demanding a bill of rights: 
+
+
+In this business of legislation, your members 
+of Congress will loose the restriction of not 
+imposing excessive fines, demanding exces- 
+sive bail, and inflicting crvel and unusual 
+punishments. These are prohibited by your 
+declaration of rights. What has distinguished 
+our ancestors?—That they would not admit of 
+tortures, or cruel and barbarous punishment. 
+But Congress may introduce the practice of 
+the civil law, in preference to that of the 
+common law. They may introduce the prac- 
+tice of France, Spain, and Germany—of tor- 
+turing, to extort a confession of the crime. 
+They will say that they might as well draw 
+examples from those countries as from Great 
+Britain, and they will tell you that there is 
+such a necessity of strengthening the arm of 
+government, that they must have a criminal 
+equity, and extort confession by torture, in or- 
+der to punish with still more relentless sever- 
+ity. 
+3 Elliot, Jonathan, Debates on the Federal Convention 447- 
+48 (2d ed. 1863) fhereafter, “Elliot’s Debates”). 
+
+
+2. THE INEXHAUSTIBLE COMMON LAW 
+
+
+One way to solve the problem would have been to draft a 
+bill of rights that spelled out the limits of the new federal 
+government. The problem with that approach was that our 
+Founders wanted to preserve ai] their common law privileges 
+and immunities. A bill of rights, by definition, could only 
+protect those privileges it enumerated, and that would leave 
+out many rights protected at common law. 
+
+
+11 
+
+
+To our Founders, the common law was an ancient, com- 
+plex, and inexhaustible source of liberty. They knew they 
+could never list every traditional privilege or immunity, and 
+they were initially unwilling to itemize rights for fear some 
+might view it as an exhaustive list. In the ratification debates, 
+the Federalists kept insisting that a bill of rights was not 
+needed because Congress was limited to its enumerated 
+powers. It just could not do what the Anti-Federalists feared. 
+James Wilson of Pennsylvania explained the matter thus: 
+
+
+In all societies, there are many powers and 
+rights which cannot be particularly enumer- 
+ated. A bill of rights annexed to a constitution 
+is an enumeration of the powers reserved. If 
+we attempt an enumeration, every thing that is 
+not enumerated is presumed to be given. The 
+consequence is, that an imperfect enumeration 
+would throw all implied power into the scale 
+of the government, and the rights of the peo- 
+ple would be rendered incomplete. On the 
+other hand, an imperfect enumeration of the 
+powers of government reserves all implied 
+power to the people; and by that means the 
+constitution becomes incomplete. But of the 
+two, it is much safer to run the risk on the siide 
+of the constitution; for an omission in tthe 
+enumeration of the powers of government is 
+neither so dangerous nor important as an 
+omission in the enumeration of the nights of 
+the people. 
+
+
+2 Elliot's Debates, supra, 436-37. 
+
+
+12 
+
+
+3. THE ANTI-FEDERALISTS FEARED 
+CONGRESS’S “EXCLUSIVE POWER OF 
+LEGISLATION” IN THE NEW FEDERAL 
+DISTRICT 
+
+
+This enumerated powers argument, unfortunately, had a 
+chink in its armor: Congress had an “exclusive power of 
+legislation” within what was to become the District of Co- 
+lumbia. The Anti-Federalists quickly concentrated their fire 
+upon that point: 
+
+
+Mr. GEORGE MASON thought that there 
+were few clauses in the Constitution so dan- 
+gerous as that which gave Congress exclusive 
+power of legislation within ten miles square. 
+Implication, he observed, was capable of any 
+extension, and would probably be extended to 
+augment the congressional powers. But here 
+there was no need of implication. This clause 
+gave them an unlimited authority, in every 
+possible case, within that district. This ten 
+miles square, says Mr. Mason, may set at de- 
+fiance the laws of the surrounding states, and 
+may, like the custom of the superstitious days 
+of our ancestors, become the sanctuary of the 
+blackest crimes.... Now, sir, if an attempt 
+should be made to establish tyranny over the 
+people, here are ten miles square where the 
+greatest offender may meet protection. If any 
+of their officers, or creatures, should attempt 
+to oppress the people, or should actually per- 
+petrate the blackest deed, he has nothing to do 
+but get into the ten miles square. Why was 
+this dangerous power given? Felons may re- 
+ceive an asylum there and in their strong- 
+holds. 
+
+
+$e _— 
+
+
+13 
+
+
+3 Elliot’s Debates, supra, 431-32. 
+
+
+Much of the Bill of Rights was intended to respond to 
+Anti-Federalists fears that the new federal government would 
+not be subject to the principles of the common law. Anti- 
+Federalist patriots argued that Congress could make any laws 
+it wished, since it would meet outside the boundaries of any 
+State and within the boundaries of a new capitol district. 
+They argued that a tyrannical Congress could compel citi- 
+zens to come and be tried within that district, where no law 
+would protect them but that which Congress chose to make. 
+To men like Patrick Henry, who had stood on common law 
+rights against the British Empire, the exclusive power of 
+legislation within the capitol district made the new govern- 
+ment into a unchecked monster in a lawless lair. 
+
+
+Anti-Federalists in other States raised the same concerns. 
+This frustrated the Federalists. Richard Dobbs Spaight, of 
+North Carolina, struggled to rebut claims made by William 
+Lenoir: 
+
+
+He objects to giving the government exclu- 
+sive legislation in a district not exceeding ten 
+miles square, although the previous consent 
+and cession of the state within which it may 
+be, is required. Is it to be supposed that the 
+representatives of the people will make regu- 
+lations therein dangerous to liberty? Is there 
+the least color or pretext for saying that the 
+militia will be carried and kept there for life? 
+Where is there any power to do this? The 
+power of calling forth the militia is given for 
+the common defence; and can we suppose that 
+our Own representatives, chosen for so short a 
+period, will dare to pervert a power, given for 
+the general protection, to an absolute oppres- 
+
+
+14 
+
+
+sion? But the geatleman has gone farther, and 
+says, that any man who will complain of their 
+oppressions, or write against their usurpation, 
+may be deemed a traitor, and tried as such in 
+the ten miles square, without a jury. What an 
+astonishing misrepresentation! 
+
+
+4. PROPOSED SOLUTIONS 
+
+
+The Anti-Federalists failed to stop the Constitution, but 
+they did raise enough concerns to assure some kind of a bill 
+of rights. The various proposals put forth by different States 
+show that the Founders’ primary purpose was to make sure 
+the District did not become a seat of tyranny. 
+
+
+For example, in the New York ratification debates, Mel- 
+ancton Smith proposed an amendment that would specifi- 
+cally make common law rights apply to cases within the 
+District. He proposed: 
+
+
+Resolved, as the opinion of this committee, 
+that the right of the Congress to exercise ex- 
+clusive legislation over such district, not ex- 
+ceeding ten miles square...shall not be so ex- 
+ercised as to...authorize any inhabitant of the 
+said district to bring any suit in any court, 
+which may be established by the Congress 
+within the same, against any citizen or person 
+not an inhabitant of the said district. And it is 
+understood that the stipulations in this Con- 
+stitution, respecting all essential rights, shall 
+extend as well to this district as to the United 
+States in general. 
+
+
+2 Elliot’s Debates, supra, 410 [emphasis supplied]. 
+
+
+15 
+
+
+Pennsylvania suggested limiting the legislative power of 
+Congress over the District. It resolved: 
+
+
+That the clause respecting the exclusive leg- 
+islation over a district not exceeding ten miles 
+square be qualified by a proviso that such 
+right of legislation extend only to such regu- 
+lations as respect the police and good order 
+thereof. 
+
+
+2 Elliot’s Debates, supra, 545. 
+
+
+Virginia and North Carolina agreed upon identical lan- 
+guage to solve the perceived problem: 
+
+
+That the exclusive power of legislation given 
+to Congress over the federal town and its ad- 
+jacent district, and other places, purchased or 
+to be purchased by Congress of any of the 
+states, shall extend only to such regulations as 
+respect the police and good government 
+thereof. 
+
+
+3 Elliot’s Debates, supra, 660; 4 Elliot’s Debates, supra, 
+245. 
+
+
+In the end, of course, Congress chose to enact our Bill of 
+Rights instead of establishing the common law within the 
+District of Columbia or limiting congressional power over 
+the District. But the meaning of the Bill of Rights cannot be 
+divorced from its purpose. The purpose of the Fifth 
+Amendment was to provide the same basic protection within 
+the District that the common law would provide. We must 
+therefore examine what those protections were in 1791. 
+
+
+16 
+
+
+Cc. THE PRIVILEGE AGAINST SELF- 
+
+
+INCRIMINATION 
+5 SELF-INCRIMINATION IN THE ENGLISH 
+COURTS 
+
+
+By 1791, criminal defendants in England and America 
+had a time-tested right to remain silent. Our Founders 
+drafted and ratified the Fifth Amendment to protect this 
+right. They wanted to make completely sure that Congress 
+could never subject a criminal defendant to what this Court 
+later described as the “cruel trilemma” of perjury, contempt, 
+or self-accusation. Murphy v. Waterfront Comm'n of New 
+York Harbor, 378 U.S. 52, 55 (1964). 
+
+
+England had developed the privilege against self- 
+incrimination the hard way. The long dynastic struggle of 
+the Wars of the Roses had come to an end when Henry Tu- 
+dor took the throne as Henry VIII, but it took a divorce, a 
+break with the Roman Catholic Church, and wife after wife 
+to keep that new dynasty going. England wobbled between 
+religions: Henry went Protestant; his daughter Mary turned 
+the country back to Catholicism; and Elizabeth returned to 
+Protestantisin. In this religious strife, ecclesiastical courts 
+like the Court of High Commission took the lead in hunting 
+down heretics. Defendants before the ecclesiastical courts 
+could be required to take an oath — the oath ex officio — to 
+answer truthfully all questions that might be put to him. 
+Courageous defendants could refuse to take the oath, citing 
+the maxim, “nemo tenetur prodere seipsum,” which means, 
+“no one is bound to accuse himself.” Yet this refusal might 
+result in fines, imprisonment, corporal punishment, or even, 
+occasionally, death. Office of Legal Policy, Report to the 
+Attorney General on the Law of Pretrial Interrogation, 22 
+Journal of Law Reform 451, 454 (1989) [hereafter, “Pretrial 
+Interrogation”]; see L. Levy, The Origins of the Fifth 
+
+
+—— 
+
+
+17 
+
+
+Amendment, 3-4, 23-24, 44-51, 55, 66-67, 77-78, 101-05, 
+127, 130-33, 141-43, 154-59, 166, 174-79, 250, 266-71, 274- 
+77 (1968). 
+
+
+The Pilgrims fled England for Holland in 1607, then left 
+Holland for Plymouth Rock in 1620. Their neighbors, the 
+Puritans, began arriving in Massachusetts Bay a few years 
+later. While they built homes in a new world, the religious 
+pressures they left behind finally resulted in the English Civil 
+War. The “Long Parliament” that convened in 1640 struck 
+out against the ecclesiastical excesses, adopting statutes that 
+abolished the Court of High Commission and the notorious 
+Court of Star Chamber. This legislation further provided 
+that all trials were thereafter to be determined “in the ordi- 
+nary Courts of Justice and by the ordinary course of the 
+law,” the source of our modern concept of “due process.” 
+Pretrial Interrogation, supra, 455; see Levy, supra, 228-313. 
+(The English experience with Oliver Cromwell led to even 
+more reforms, later.) 
+
+
+England placed a high value on these hard-won rights, 
+but Massachusetts had to experience its own version of ec- 
+clesiastical excess. The Salem witch trials only lasted from 
+May to October of 1692, but the nineteen hangings that re- 
+sulted from those coerced confessions branded the con- 
+science of the colony and the nation down all three centuries 
+since. 
+
+
+By the start of the eighteenth century, therefore, there 
+was a true right against compulsory self-incrimination in 
+English and American courts. Defendants and witnesses 
+claimed a right to refuse to answer incriminating questions, 
+and this right was increasingly accepted by the courts. Pre- 
+trial Interrogation, supra, 455-56; see Levy, supra, 283-85, 
+313-20, 323. 
+
+
+18 
+
+
+2. SELF-INCRIMINATION BEFORE TRIAL 
+
+
+Miranda dealt with out-of-court interrogation, so we 
+must look further if we are to understand how the Fifth 
+Amendment was intended to apply in pretrial interrogations. 
+Professional police forces did not exist at the time the Con- 
+stitution and Bill of Rights were ratified. In 1791, the con- 
+stables who made arrests were not authorized to question the 
+suspects they took into custody. That function was carried 
+out by justices of the peace or other judicial officers in the 
+preliminary examination. Pretrial Interrogation, supra, 457; 
+see J. Goebel & T. Naughton, Law Enforcement in Colonial 
+New York 134, 339-41, 565, 633-36, 653-56 (1944); Levy, 
+supra, at 29-30, 35, 325; L. Mayers, Shall We Amend the 
+Fifth Amendment? 16, 175-76, 179-80 (1959); A. Scott,- 
+Criminal Law in Colonial Virginia 48-49, 55-56, 59-60 
+(1930) ; G. Williams, The Proof of Guilt 44 (1963); Kauper, 
+Judicial Examination oj the Accused—A_ Remedy for the 
+Third Degree, 30 Mich. L. Rev. 1224, 1231-33, 1235-36 
+(1932); Morgan, The Privilege Against Self-Incrimination, 
+34 Minn. L. Rev. 1, 14, 19 (1949). 
+
+
+After the American Revolution began, in 1776, nine 
+states adopted constitutions which incorporated, to varying 
+degrees, enumerations of the rights of defendants in criminal 
+cases. Pretrial Interrogations, supra, 459-60. The federal 
+Bill of Rights was intended to make sure that the federal 
+government could not take away these recognized rights. 
+But, as the author of one comprehensive historical study on 
+the Fifth Amendment explains: 
+
+
+The fact must be emphasized that the right in 
+
+
+question was a right against compulsory self- 
+incrimination, and, excepting rare occasions 
+when judges intervened to protect a witness 
+
+
+against incriminating interrogatories, the right 
+
+
+19 
+
+
+had to be claimed by a defendant. Histori- 
+cally it had been a fighting right: unless in- 
+voked, it offered no protection. It vested an 
+option to refuse answer but did not bar inter- 
+rogation nor taint a voluntary confessions as 
+improper evidence. Incriminating statements 
+made by a suspect at the preliminary exami- 
+nation or even at arraignment could always be 
+used with devastating effect at his trial. That 
+a man might unwittingly incriminate himself 
+when questioned in no way impaired his legal 
+right to refuse answer. He lacked the right to 
+be warned that he need not answer, for the 
+authorities were under no legal obligation to 
+appraise him of his right. That reform did not 
+come in England until Sir John Jervis’s Act in” 
+1848, and in the United States more than a 
+century later the matter was still a subject of 
+acute constitutional controversy. Yet if the 
+authorities in eighteenth-century Britain and 
+her colonies were not obliged to caution the 
+prisoner, he in turn was not legally obliged to 
+reply. His answers, although given in igno- 
+rance of his right, might secure his conviction, 
+but by the mid-eighteenth century the courts, 
+at least at Westminster, were willing to con- 
+sider the exclusion of confessions that had 
+been made involuntarily or under duress. 
+
+
+Levy, supra, at 375. 
+D. THE CONSTITUTION DOEs Not “EVOLVE” 
+Despite the evidence of the original intent of the Fifth 
+Amendment, Petitioner argues that the Framers thought the 
+
+
+rights against self-incrimination “not only were part of a 
+complex of other trial rights, but also were evolving rights 
+
+
+20 
+
+
+that changed as criminal procedures developed.” Petitioner’s 
+Brief, p. 35. Thus, Petitioner argues that a right that was not 
+protected by the Constitution in 1791 is protected now 
+through a process of evolution. 
+
+
+Petitioner must stretch his argument considerably further 
+than that to win in this case. He must not only explain why 
+the Constitution now protects something that it did not pro- 
+tect when the Fifth Amendment was ratified in 1791, but also 
+why this Court should reject what it said when it addressed 
+these issues in 1895, 1896, 1897, 1912, 1951, 1964, 1974, 
+1976, 1979, 1984, 1985, and 1994. 
+
+
+This Court has consistently said that the Fifth Amend- 
+ment is only violated when suspects are subjected to actual 
+compulsion in custodial interrogation. Mere departures from 
+Miranda do not entail any constitutional violation. See 
+Davis v. United States, 512 U.S. 452, 457-58 (1994); New 
+York v. Quarles, 467 U.S. 649, 654-55 (1984); Oregon v. 
+Elstad, 470 U.S. 298, 306-09 (1985); New Jersey v. Portash, 
+440 U.S. 450, 458-59 (1979); Michigan v. Tucker, 417 U.S. 
+433, 443-46 (1974). The current precedents relating to cus- 
+todial interrogation are, of course, consistent on this point 
+with the Fifth Amendment precedents from other contexts, 
+which similarly recognize that warnings, waivers, and the 
+like are not required by the Fifth Amendment. See Minne- 
+sota v. Murphy, 465 U.S. 420, 427-39 (1984) (in questioning 
+of probationer by probation officer, as in questioning of wit- 
+ness at trial or before grand jury, Fifth Amendment right af- 
+fords no protection unless asserted on the initiative of the 
+person questioned; Miranda warnings are not required); 
+Garner v. United States, 424 U.S. 648, 654 n.9 (1976) (“an 
+individual may lose the benefit of the [Fifth Amendment] 
+privilege without making a knowing and intelligent waiver”); 
+Rogers v. United States, 340 U.S. 367 (1951) (answer to in- 
+
+
+21 
+
+
+criminating question constituted waiver of the Fifth Amend- 
+ment right by grand jury witness who was unaware of the 
+
+
+existence of the right). 
+
+
+Judicial precedent shows the same historical under- 
+standing: The admissibility of defendants’ pretrial statements 
+obtained in custodial interrogation historically depended on 
+their voluntariness—which was identified with the Fifth 
+Amendment standard—and the various procedural restric- 
+tions imposed by the Miranda decision were held not to be 
+constitutionally required. Thus, for example, in Sparf v. 
+United States, 156 U.S. 51 (1895), the Court upheld the dis- 
+closure at trial of pretrial admissions made by the defendant 
+while under restraint on suspicion of murder, because the 
+statements were voluntary. See id. at 55-56. Shortly there- 
+after, in Bram v. United States, 168 U.S. 532 (1897), the 
+Court explicitly equated the voluntariness standard and the 
+
+
+Fifth Amendment standard: 
+
+
+In criminal trials, in the courts of the United 
+States, wherever a question arises whether a 
+confession is incompetent because not volun- 
+tary, the issue is controlled by that portion of 
+the Fifth Amendment to the Constitution, 
+commanding that no person “shall be com- 
+pelled in any criminal case to be a witness 
+against himself.” 
+
+
+Bram, 168 U.S. at 542. 
+
+
+Other early cases directly considered the question 
+whether Miranda-like. procedures are necessary. In Wilson 
+v. United States, 162 U.S. 613 (1896), a defendant chal- 
+lenged the admission of pretrial statements he had made 
+when questioned by a federal commissioner, essentially on 
+
+
+22 
+
+
+the ground that his interrogation had violated many of the 
+rules that were later imposed in the Miranda decision. He 
+had not been advised that he need not answer; he had not 
+been advised that his statements could be used against him; 
+he not been advised of a right to representation by counsel; 
+and he had not in fact been afforded counsel. The Court re- 
+sponded that the admissibility of a defendant’s statements 
+depends on their voluntariness, and that the absence of 
+-warnings and counsel would not warrant their exclusion. See 
+162 U.S. at 623-24. 
+
+
+The Court again addressed this question, this time in ex- 
+plicitly constitutional terms, in Powers v. United States, 223 
+U.S. 303 (1912). Powers involved the admission at trial of a 
+statement made by the defendant in response to questioning 
+by a deputy marshal at a preliminary hearing. The defendant 
+claimed that the admission of his statement “worked a viola- 
+tion of the defendant’s constitutional rights under the Fifth 
+Amendment to the Constitution, which protects him against 
+self-incrimination.” 223 U.S. at 313-14. The Court rejected 
+this claim—citing the decision under the voluntariness stan- 
+dard in Wilson v. United States as controlling precedent—on 
+the ground that warnings and counsel are not required and 
+that voluntary statements “cannot be excluded when subse- 
+quently offered at...trial.” 223 U.S. at 313-14. Powers fur- 
+ther demonstrates both that Miranda-like procedures were 
+regarded as unnecessary for compliance with the Fifth 
+Amendment, and that the Fifth Amendment standard was not 
+considered to require more than the voluntariness standard. 
+
+
+The same point appears from Malloy v. Hogan, 378 U.S. 
+1 (1964). Decided only two years before Miranda, Malloy 
+held that the Fifth Amendment right against compelled self- 
+incrimination applied to the states. The decision in Malloy 
+was premised in part on the fact that the admissibility of con- 
+
+
+23 
+
+
+fessions in state cases was already governed by the volun- 
+tariness standard, which was identical to the Fifth Amend- 
+ment standard: “[T]}he admissibility of a confession in a state 
+criminal prosecution is tested by the same standard applied 
+in federal prosecutions since...Bram v. United States...held 
+that...the issue is controlled by...the Fifth Amendment.” 378 
+U.S. at 7; see Pretrial Interrogations, supra, 22 U. Mich. J. 
+L. Ref. at 494-95 (noting historical fallacies of Miranda de- 
+cision); id. at 453-91 (comprehensive review of pertinent 
+history). 
+
+
+Petitioner goes too far. Our Founders ratified the Bill of 
+Rights to apply the ancient tra¢itions of England to a brand- 
+new federal government, not to serve as fountain of judicial 
+novelty. Our Founders thought of the judiciary as “the least 
+dangerous branch,” not the source of an “evolving Constitu- 
+tion” detached from any text, unchecked by any tradition, 
+and beyond the power of any legislative check or balance. 
+This Court has consistently held that the Fifth Amendment 
+prohibits compelled testimony, not voluntary confessions. It 
+should do the same in this case. 
+
+
+CONCLUSION 
+
+
+The question before this Court is not whether § 3501 is 
+“better” than the Miranda warnings. This case is about 
+power, not wisdom. If § 3501 is unconstitutional, Congress 
+does not have the power to enact it. If § 3501 is constitu- 
+tional, then it makes no difference how wise or foolish it is. 
+That is a matter for legislators—and ultimately, voters—to 
+consider, not judges. Our Constitution does not set up a 
+“good government contest” with prizes going to the cleverest 
+branch: it divides the specific powers of government. 
+
+
+24 
+
+
+This amicus thinks the Miranda warnings generally lead 
+to good police practice. We think they are wise public pol-_ 
+icy. We like a system where police demonstrate real respect 
+for the rights of the accused much better than the bad old 
+days of hot lights and rubber hoses. But none of those things 
+makes Miranda an exercise of the judicial power of the 
+United States. Miranda is legislation. 
+
+
+The Fifth Amendment prohibits the federal government 
+from compelling any criminal defendant to be a witness 
+against himself. If the government has compelled Petitioner 
+to testify against himself in this case, this conviction must be 
+overturned. But if, as a matter of fact, the Petitioner has con- 
+fessed voluntarily, this Court should not perpetuate the fic- 
+tion that the Constitution bars his conviction. It is the Court, 
+not the Constitution, that stands in the way. And since the 
+Court was legislating when it decided Miranda, it should 
+now get out of the way. This conviction should be upheld. 
+
+
+Respectfully Submitted, 
+
+
+MICHAEL P. FARRIS* 
+SCOTT W. SOMERVILLE 
+Center for the Original Intent of 
+the Constitution, at 
+
+Patrick Henry College 
+
+P.O Box 1776 
+
+Purcellville, VA 20134 
+
+(540) 338-1776 
+
+* Counsel of Record 
+
+

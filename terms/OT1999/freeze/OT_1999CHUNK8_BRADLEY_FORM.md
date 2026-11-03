@@ -1,0 +1,9 @@
+# Bradley — form before assignment
+
+Event: Bradley v. Arkansas Department of Education, June 12, 2000. This receipt precedes inspection of fresh assignment counts.
+
+One signed opinion of the Court will resolve the plenary IDEA immunity appeal. The case calls for reasoned application of express federal-forum notice and actual acceptance of the identified funding program, with an integrated account of the limits on recipient, claim, remedy and temporal scope. It is not a summary disposition. No companion opinion is required: Jim C. and Section 504 are outside the grant.
+
+The governing proposition is that Arkansas's voluntary acceptance of IDEA funds after the effective express federal-suit condition constitutes consent to this IDEA action. Sections 1403 and 1415 provide the notice; actual program acceptance supplies the distinct State choice. Section 1403(b)'s remedy parity and subsection (c)'s post-October 30, 1990 trigger remain operative. Consent removes immunity, not administrative prerequisites, proof of violation or award requirements. The opinion preserves independent prospective-officer relief on its own connected-officer, ongoing-violation and genuinely prospective-relief predicates. It reaches no independent constitutional-abrogation ground or Section 504 disposition.
+
+All eight reconciled Associates support this complete ground and its limits. Stone's approved supplement supports the same ground, judgment, remedy and reservations. No standing fallback is needed; no changed Associate commitment or circulation story is necessary. There is one judgment component and no reason to split the integrated opinion. Legal form and propositions were fixed without reference to authorship balance or historical Supreme Court authorship, for which this case has no historical counterpart.

@@ -1,0 +1,7 @@
+# Reeves — form before assignment
+
+Before fresh counts or authors are considered, one signed integrated opinion will decide this plenary Rule 50 appeal. Its related propositions are the permissive inference from prima facie proof and material falsity without a new evidence category; whole-record review favoring the verdict winner without credibility choices or blanket exclusion of movant evidence; and the actual sufficiency of this age-discrimination record, with a bounded verdict-preserving remand for any genuinely independent preserved issue. These are legal and application components of one opinion, not separate countable leads.
+
+All eight reconciled Associates and Stone's approved core support the complete rule, application, remedy and qualifications. Pretext creates neither automatic liability nor an automatic right to trial; conclusive lawful evidence can defeat an otherwise suggested inference. A speculative alternative motive cannot. This record permits the verdict, so the remand cannot redecide sufficiency through an additional-proof demand. The verdict stands unless an ordinary, properly preserved and verdict-compatible independent ground warrants relief; no new monetary amount is ordered.
+
+No additional separate writing is needed: Ginsburg's concern against disguised pretext-plus review is preserved in the common holding, and the other Associates need not restate earlier Hicks disagreements. No present dissent or mandatory historical concurrence is imported. Form and grounds precede counts, and no fictional circulation is asserted.

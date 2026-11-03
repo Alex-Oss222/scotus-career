@@ -1,0 +1,1820 @@
+eal 
+RECEIVED 
+No. Yr 0 HAND DELIVEREO 
+. c 
+IN THE . 
+OFFICE OF THE CLERK 
+SUPREME COURT OF THE UNITED STATEB Soho ye court, U.S. 
+
+
+OCTOBER TERM, 1999 
+
+
+Bossy LEE RAMDASS, 
+Petitioner-Appellant, 
+
+
+anne en 
+te ee 
+—— 
+
+
+. 
+Vv curt, | 
+te nwene Cout, U3 
+
+
+RONALD ANGELONE, DIRECTOR, 
+VIRGINIA DEPARTMENT OF CORRECTIONS,’ 
+
+
+namie ¢ of Tat C2% i 
+
+
+eel 
+ cacemenntn 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit ’ 
+
+
+MOTION FOR LEAVE TO PROCEED 
+IN FORMA PAUPERIS 
+
+
+Petitioner Bobby Lee Ramdass, by counsel, respectfully requests leave to file the 
+accompanying petition for a writ of certiorari without prepayment of costs and to proceed in forma 
+
+
+oe 
+
+
+pauperis. 
+
+
+“18 PP 
+
+
+Petitioner has previously been granted leave to proceed in forma pauperis in the United 
+
+
+States Court of Appeals for the Fourth Circuit, the United States District Court for the Eastern’ 
+
+
+District of Virginia, and the Supreme Court of Virginia. 
+
+
+Michele Jj. Brace 
+
+VIRGINIA CAPITAL REPRESENTATION 
+RESOURCE CENTER 
+
+1001 East Main Street 
+
+
+Respectfully submitted, 
+
+
+°F. h Byisoly 
+
+John M. Ryan 
+
+VANDEVENTER BLACK, LLP 
+500 World Trade Center 
+
+
+IN THE 
+SUPREME COURT OF THE 
+
+
+OCTOBER TERM, | 
+
+
+RONALD ANGELONE, DIRECTOR, 
+
+
+Norfolk, Virginia 23510 
+VIRGINIA DEPARTMENT OF CORRECTIONS, we 
+
+
+Richmond, Virginia 23219 
+
+
+(804) 643-6845 (757) 466-8600 . eek teak 4 
+* Counsel of Record Respondent. i ik I LED 
+On Petition for a Writ of Certiorari to the-- of piso co 
+United States Court of Appeals _ ammnmennenal 
+P for the Fourth Circuit 
+CERTIFICATE OF SERVICE 
+
+
+I hereby certify that on nfe 2/34 , | caused the foregoing Motion for 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+Imminent Execution Scheduled 
+November 23, 1999 
+
+
+Leave To Proceed Jn Forma Pauperis to be served by hand delivery on Katherine P. Baldwin, 
+
+
+Esq., Assistant Attorney General, 900 East Main Street, Richmond, VA 23219. 
+
+
+Michele J. Brace, Esq. *F. Nash Bilisoly, Esq. 
+VIRGINIA CAPITAL REPRESENTA TION John M. Ryan, Esq. 
+RESOURCE CENTER VANDEVENTER BLACK, LLP 
+\ Suite 510 500 World Trade Center 
+* 1001 East Main Street Norfolk, VA 23510 
+, Richmond, VA 23219 (757) 446-8600 
+F. Nash 1 BYisoly ina ones) - SR 
+
+
+ QQ-7000 
+
+
+Ramdass 
+V 
+Capital Case Hagelone 
+
+
+Simmons v. South Carolina holds that when a prosecutor seeks the 
+death sentence on the ground of the defendant’s future dangerousness, 
+the defendant has a constitutional right to inform the jurors truthfully 
+that if they spare his life, state law forbids him ever to be released from 
+prison. Does the rule in Simmons turn on the actual operation of state 
+law, or on its hypertechnical terms; and must a federal habeas court 
+adjudicating a Simmons claim make its own analysis of the functional 
+consequences of state law, or is it bound by the state courts’ 
+characterization of state law for federal constitutional purposes? 
+
+
+Ake v. Oklahoma holds that an indigent capital defendant has a right to 
+court assistance in obtaining the services of a mental health expert as a 
+defense consultant and possible expert witness when the prosecutor 
+puts the defendant’s mental condition in issue in the course of seeking 
+a death sentence on the ground of the defendant’s future 
+dangerousness. Is the Ake rule limited to cases in which the prosecutor 
+presents expert testimony going to future dangerousness, or does it 
+apply whenever the defendant’s mental condition is to be a significant 
+factor at sentencing? 
+
+
+In addition to rejecting petitioner’s Simmons and Ake claims on the 
+merits in an opinion presenting the two Questions set out above, the 
+Court of Appeals held alternatively that 28 U.S.C. § 2254(d)(1) 
+required it to accept the state-court resolution of those claims (and that 
+Teague required it to accept the state-court rejection of petitioner’s 
+Simmons claim) without independent federal adjudication. These 
+alternative grounds invoked the same Fourth Circuit construction of 
+§ 2254(d)(1) that this Court is reviewing on certiorari in Williams 
+(Terry) v. Taylor. Is that construction erroneous? 
+
+
+TABLE OF CONTENTS 
+rs | Se. eh cde bd eb ewe snebb0se' cab eadeseséatoe l 
+ee ee he ook ede t an cb se deGC Chad Hetwrecsspecnaes 2 
+CONSTITUTIONAL PROVISIONS INVOLVED |... 0s 2 
+STATEMENT OF THECASE......... Nat EMit mentees ae ean ald rer 
+I THE VIOLATION OF SIMMONS v. SOUTH CAROLINA .......... eee Pe 
+A Trial and Direct Appeal ......... <P: A ore ee 3 
+B. Federal Collateral Proceedings ...... cio oiedtagede nonin 5 
+Il THE VIOLATION OF AKE v. OKLAHOMA ....... 0.666 cnn 9 
+A. os cl, ci ceceneteceneseetes 9 
+B. I ons vcd a cc bi kis cede cvedsscweees ll 
+Cc. Ns an ook oad bib occoecceeess 12 
+i eee ee eens Onde s eéeeves 17 
+I THE FOURTH CIRCUIT EMPLOYED STANDARDS FOR ANALYSIS 
+THAT CANNOT BE RECONCILED WITH THIS COURT'S 
+PRECEDENTS, AND IT RENDERED A DECISION THAT 
+CONFLICTS WITH SIMMONS v. SOUTH CAROLINA .... 0.606 cn 17 
+A. Questions Concerning the Nature or Duration of Restraints on Liberty 
+Require a Functional, Rather Than a Technical, Mode of Analysis ........ 17 
+
+
+B. Federal Questions Require a Mode of Analysis That Looks to the 
+Operating Consequences of Relevant State Law, Rather Than a 
+Mode That Automatically Accepts the State’s Characterization of That Law 22 
+
+
+C. Neither 28 U.S.C. § 2254(d)(1), as Amended by AEDPA, Nor the 
+New Rule Doctrine, Precludes the Grant of Federal Habeas Corpus Relief . . 24 
+
+
+D. The Simmons Court Itself Used a Functional Analysis; and the Facts 
+Demonstrating This Also Show That Ramdass’ Case Is 
+Indistinguishable from Simmons’ Case on Both the Facts and the Law ..... 26 
+
+
+Il WHETHER THERE IS A DUE PROCESS RIGHT TO THE 
+ASSISTANCE OF A PSYCHIATRIST IN THE SENTENCING PHASE 
+OF A CAPITAL CASE FOR PURPOSES OTHER THAN REBUTTING 
+PSYCHIATRIC EVIDENCE OF FUTURE DANGEROUSNESS IS A 
+QUESTION OF NATIONAL IMPORTANCE ON WHICH THE 
+Sy IED 6 60 cb aces onshdeenersesicccccseceets 30 
+
+
+A. The Fourth Circuit's Reading of Ake Conflicts with the Decisions of 
+Most Courts of Appeals That Have Addressed the Issue ............... 31 
+
+
+B. The Fourth Circuit Failed To Consider the Substance or the 
+Function of the Balancing Test That Is a Key Component of the Rule in Ake 34 
+
+
+Cc. The Clarity of the Rule in Ake Was Not Diminished by Passage of 
+
+
+Ps icuaxasndectennsssdeeunaaees Py Peer A errr 35 
+D. This Case Presents a Good Vehicle for Addressing the Question 
+Pn. cocekestade stead dhkth enusndeeceketstesncavese ks 36 
+Il THE COURT'S DECISION IN WILLIAMS v. TAYLOR MAY BE 
+DISPOSITIVE OF SOME OF THE ISSUES PRESENTED IN THIS 
+SET ccushevce posdebsaticadesbne cibbnGvueseunetdeedésus wens 37 
+ITT . «6 neutinesbhes cadedeen ddak wens cod eeeuussenued ee exeaneden 38 
+iil 
+
+
+ee ee 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+
+Argersinger v. Hamlin, 407 U.S. 25 (1972) ©0000 ooo vce ce eee e ec ceees 19 
+Bailey v. Alabama, 219 U.S. 219 (IOI) ooo ccc ccc ccc e ecu vveees 23 
+Baldasar v. Illinois, 446 U.S. 222 (1980) ooo ccc cece ccccccvees 19 
+Bowden v. Francis, 470 U.S. 1079 (1985) ............ sore cddeveVadbbhecenss seetehi 31 
+Bowden v. Kemp, 767 F.2d 761 (11® Cir. 1985). ccc cece 31 
+ek I I nn cin deb dbabhek's od unseen sch caneeesnelaun 17 
+Brewer v. Reynolds, 51 F.3d 1519 (10* Cir 1995), 
+
+ee ee ee 32 
+Bria v. Nordea Carolima, 404U.$. Z2G(IGT1) . ww ccc ccc c cece ee ceeees 30 
+Burns v. Ohio, 360 U.S. 252 (1959) ........ sags Ga Ns De eee 30 
+Caldwell v. Mississippi, 472 U.S. 320 (1985) 0c ccc ccc cece cu ccees 37 
+ee Dc. cn Ceecus sibel baededaeees<s ibys ieee 18 
+Chatman-Bey v. Meese, 797 F.2d 987 (D.C. Cir. 1986) 60 ee 20, 22 
+Clisby v. Jones, 960 F.2d 925 (11® Cir. 1992) (enbanc) 66 c ee 33 
+Colonial Pipeline Co. Traigle, 421 U.S. 100 (1975) ©. 666 ec ee 23 
+Correll v. Thompson, 63 F.3d 1279 (4* Cir. 1995), 
+
+es Cs ag ee ns Sb ham dde est dbabnh edab aie bees 5 
+pr ee rere er 30 
+es Ss, DORE bg osc ws duc ivoucsdcssdccaasnanddecdccaehs 19 
+ey en I, IE o's Sn cccccdeneroWaeuscehe es davdevasdceantd 8 
+EL ED a. o's on dv bvoccdc ndindadonsewabonabeuce 19, 30 
+
+iv 
+
+
+Goodwin v. Johnson, 132 F.3d 162 (5* Cir. 1998)... ccc cece 32 
+es Fs ED 6 ond ccc bist decuccceveuedhcsiducsansakdebese 30 
+es eS og oh, a a Sh oun od web. b 6 eee eda ede bekenen 5 
+Jones v. Cunningham, 371 U.S. 236 (1963) 000 ccc cece cee eeeucees 18 
+Liles v. Saffle, 945 F.2d 333 (10® Cir. 1991), 
+
+cert. denied, $02 U.S. 1066 (1992) 0. ccc ccc ccccccuccece. 16, 32 
+EE EN ee ee ee ee, ae a 30 
+Memphis Steam Laundry Cleaner, Inc. v. Stone, 342 U.S. 389, 392 (1952) ............... 23 
+ee ED ons cso ce bebe tee Rhee eeene bie ee baunc 17, 18 
+Moore v. Reynolds, 153 F.3d 1086 (10" Cir. 1998), 
+
+ED os. 5 kc cdeceeuae sé ebahnn kein tae ka 32 
+es Ss ee LE ED, gn. i deceencdestcdbacouvessccsciess 19 
+Oregon v. Mathiason, 429 U.S. 492 (1977) (per curiam) ........ 2... 0.006, Te 
+Ramdass v. Angelone, 187 F.3d 396 (4* Cir. 1999) 6c cee l 
+Ramdass v. Angelone, 28 F. Supp.2d 343 (E.D. Va. 1998)... «0... eee eee ee. 2 
+OL UTED CIPI. obs dd dnc hob cthavodGevaseunesesedeadabe 2 
+
+ Ramdass v. Virginia, $14 U.S. 1085 (1995) 6c ccc cece cee vccece. 5 
+Ramdass v. Commonwealth, 437 S.E.2d 566 (Va. 1994) 06 ce 2 
+Ramdass v. Commonwealth, 450 S.E.2d 360 (Va. 1994) 6c ce 2 
+Roach v. Angelone, 176 F.3d 210 (4* Cir.), 
+
+cert. denied, _S.Ct.__, 1999 WL 688646 (Nov. 1 1999), ................... 9 
+Rogers v. Gibson, 173 F.3d 1278 (10® Cir. 1999) 2c cece eens 36 
+PEA OUD cide we cing sae, susebiceeass Contedesteametea 19 
+
+
+Simmons v. South Carolina, $12 U.S. 154 (1994) 6.000 ooo occ vce ccc cece. passim 
+
+
+Skipper v. South Carolina, 476 U.S. 1 (1986) oo 0.6000 occ cee vvvveececceecece. 8 
+Smith v. McCormick, 914 F.2d 1153 (9 Cir. 1990) 0c ccc ccc cccccccccees 33 
+Stansbury v. California, 511 U.S. 318 (1994) ................ Fer, eee al Ce 
+Starr v. Lockhart, 23 F.3d 1280 (8" Cir), 
+
+AS TE CYA eNO 33 
+State v. McKay, 386 S.E.2d 623 (S.C. 1989) 2... ooo cc cc ccccccucceeeee. 26, 27 
+State v. Starnes (Lexington County, $.C., sentenced Apr. 25, 1997) ..................-. 21 
+es es Ck. cccceascebedawsbuaececeseveeeds 27 
+Stone v. Memphis Steam Laundry Cleaner, Inc., 53 So.2d 89 (Miss. 1951) ............... 22 
+Teague v. Lane, 489 U.S. 288 (1989) coco cece cece eee ees 7, 24, 34, 36 
+Terry v. Rees, 98S F264 203 (6 Civ. 1993)... oo... cece cece ccccccccccccuuucuces 34 
+Thomas v. Brennan, 961 F.2d 612 (7 Cir. 1992) 000 ccc cece ues 20 
+United States v. Cronic, 466 U.S. 648 (1984) © 6 6ccccneenee 15 
+Williams (Michael) v. Taylor, No. 99-6615, 
+
+cert. granted, _$.Ct.__, 1999 WL 980144 (Oct. 28, 1999)................. 12 
+Williams (Terry) v. Taylor, 163 F.3d 860 (4* Cir. 1998), 
+
+cert. granted, 119 §. Ct. 1355 (1999)... .. .. enedes oeaddkened 16, 25, 31, 36, 37 
+Oe I i hal ce 34 
+
+
+CONSTITUTIONS, STATUTES, AND RULES 
+
+
+ESE OD RRR OEM IEE Fea 8K | ag WE 1 2,5, 11, 12 
+
+FE GSE Srey MER GAP Perr Rae rt Sr MR een 24 
+
+Mc dad cia duh bee v'se cebdepes ihues csdccubetes 2, 4, 5, 11, 12, 30 
+vi 
+
+
+St en +. 60bcndscbebeseunceseeeichl .aueueedeiectene cue 
+ED 05.6 66. vbceed ool weaane lb oueeeNces eéekaahadeeses 
+EE os cee vactskbudiuvcibece:badbakseusecens 
+South Carolina Code § 24-21-640 Ki btachdudybed cos ke clenei as eae eueeas 
+CD 26 ou 0 wh bode i nedeaveddpasedeinnde sankeu 
+oa | vad da wud ad Goaba ke s Reueeeeeeneee 
+IED sod cccvasnnodbénka bint bbebicbaavendtneteis 
+Do is ces a oneensecs b0un seen bow ss bee 
+
+
+DENSE cc vcs nnewcccsesd dee beunedgete eeetact 
+
+
+MISCELLANEOUS 
+
+
+Appearance by Stanton E. Samenow, “The Criminal Mind,” 
+
+
+60 Minutes, February 20,1977 ................--0.5. bond SEER 
+
+
+Joint Appendix in Simmons v. South Carolina, No. 92-9059; 
+
+
+EE. Was biden 655064505446 beE over isbcamabhecatent 
+
+
+Petitioner’s Reply Brief in Simmons v. South Carolina, No. 92-9059, 
+
+
+ee CE wc nTtnas duel tne Kedhescewewe th tilsnn Santee ns’ 
+
+
+Respondent's Brief in Simmons v. South Carolina, No. 92-9059; 
+
+
+ED. acd We-55b¥ 696k ed sees bbe) nsnedsicle tds oes 
+
+
+Stanton E. Samenow, /nside the Criminal Mind (1984) ..................... 
+
+
+Transcript of Oral Argument in Simmons v. South Carolina, No. 92-90590, 
+
+
+1994 WL 663636 (Jan. 18,1994) ...... den 000 Senhed ne eebss be.cde 
+
+
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1999 
+
+
+BOBBY LEE RAMDASS, 
+Petitioner, 
+v. 
+
+
+RONALD ANGELONE, DIRECTOR, 
+VIRGINIA DEPARTMENT OF CORRECTIONS, 
+
+
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Imminent Execution Scheduled 
+November 23, 1999 
+
+
+Bobby Lee Ramdass, a Virginia inmate under sentence of death, respectfully petitions for a 
+writ of certiorari to review the judgment of the United States Court of Appeals for the Fourth Circuit 
+
+
+reversing the district court's grant of Ramdass’ petition for a writ of habeas corpus. 
+
+
+OPINIONS BELOW 
+The opinion of the court of appeals is reported as Ramdass v. Angelone, 187 F.3d 396 (4* 
+
+
+Cir. 1999), and is reprinted in the accompanying Appendix (“App.”) at 1-20. The opinion of the 
+
+
+district court is reported as Ramdass v. Angelone, 28 F. Supp.2d 343 (E.D. Va. 1998), and is 
+reprinted at App. 21-52. The initial opinion of the Virginia Supreme Court on direct review is 
+reported as Ramdass v. Commonwealth, 437 S.E.2d 566 (Va. 1994), and is reprinted at App. 56-64. 
+This Court’s order granting certiorari, vacating that judgment, and remanding for reconsideration in 
+light of Simmons is reported as Ramdass v. Virginia, 512 U.S. 1217 (1994), and is reprinted at App. 
+55. The opinion of the Virginia Supreme Court on remand is reported as Ramdass v. 
+
+
+Commonwealth, 450 S.E.2d 360 (Va. 1994), and is reprinted at App. 53-54. 
+
+
+- JURISDICTION 
+The court of appeals issued its judgment and decision on August 3, 1999. Ramdass filed a 
+timely petition for rehearing and suggestion for rehearing en banc on August 17, 1999. The court 
+\ 
+of appeals denied the petition for rehearing on September 17, 1999. App. 65-66. Ramdass invokes 
+
+
+this Court’s jurisdiction under 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+This case involves the Eighth and Fourteenth Amendments to the United States Constitution, 
+which provide in relevant part as follows: 
+[N]Jor [shall] cruel and unusual punishments [be] inflicted. U.S. CONST. amend. VIII. 
+No State shall . . . deprive any person of life [or] liberty . . . without due process of 
+
+
+law; nor deny to any person within its jurisdiction the equal protection of the laws. 
+U.S. CONST. amend. XIV, § 1. 
+
+
+STATEMENT OF THE CASE 
+For unknown reasons, Bobby Lee Ramdass went on a sudden crime spree in the summer of 
+
+
+1992. As relevant to this petition, his offenses included robbery at a Pizza Hut in Fairfax County, 
+Virginia, on August 25, 1992; robbery at a Domino’s Pizza in Alexandria, Virginia, on August 30, 
+1992; and robbery at a 7-Eleven in Fairfax County on September 2, 1992. During the 7-Eleven 
+robbery, Ramdass shot and killed Mohammed Kayani, a store employee. 
+
+Ramdass was quickly apprehended, and the various charges against him came on for trial in 
+rapid succession. A jury found Ramdass guilty of the Pizza Hut robbery on December 15, 1992, and 
+the trial court entered judgment on January 22, 1993. Another jury found him guilty of the Domino’s 
+Pizza robbery on January 7, 1993, and the trial court entered judgment on February 18, 1993. A third 
+jury found him guilty of capital murder for the death of Mohammed Kayani on January 28, 1993, and 
+it fixed his sentence at death on January 30, 1993. The sole aggravating factor establishing Ramdass’ 
+eligibility for death in the capital case was the jury’s finding that he likely “would commit criminal on 
+of violence [in the future] that would constitute a continuing serious threat to society.” Virginia Code 
+§ 19.2-264.4(C). 
+
+This petition concerns two ways in which Ramdass was prevented from rebutting the evidence 
+
+
+of future dangerousness and presenting the jury with reasons to impose a sentence less than death. 
+
+
+I THE VIOLATION OF SIMMONS v. SOUTH CAROLINA 
+
+A. Trial and Direct Appeal 
+
+During sentencing deliberations in the capital case, the jury sent out the following question: 
+“If the Defendant is given life, is there a possibility of parole at some time before his natural death?” 
+
+
+(JA 154).' Over counsel’s objection, the court advised the jurors not to concern themselves with 
+
+
+' The term “JA” refers to the joint appendix in the proceedings before the Fourth Circuit. 
+Respondent reportedly has lodged a copy of that appendix with the Court. " 
+
+
+3 
+
+
+what may happen after sentencing. (JA 157). Although Ramdass maintained that he was not eligible 
+for parole, the Virginia Supreme Court upheld the constitutionality of this ruling on direct appeal, and 
+it affirmed the death sentence. App. 63. Ramdass challenged the ruling again in a petition for writ 
+of certiorari. This Court granted certiorari, vacated judgment, and remanded for reconsideration in 
+light of Simmons v. South Carolina, 512 U.S. 154 (1994). App. 55. 
+
+On remand, Ramdass asserted that his rights under the due process clause of te Fourteenth 
+Amendment were violated by the trial court’s refusal to provide the jurors with truthful information 
+about the impossibility of release on parole. Ramdass posited that he was not eligible for parole 
+under Virginia’s “three strikes” law, which provides in relevant part that: 
+
+[a]ny person stent of three separate felony offenses of (i) murder, (ii) rape or (iii) 
+
+robbery by the r ©» :nting of firearms or other deadly weapon, or any combination of 
+
+the offenses spec..ied in subdivisions (i), (ii) or (iii) when such offenses were not part 
+
+of a common act, transaction or scheme shall not be eligible for parole. 
+
+Virginia Code § 53.1-151(B1).? Ramdass identified his three qualifying convictions as the Pizza Hut 
+offense, the Domino’s Pizza offense, and the capital murder. 
+
+The Virginia Supreme Court agreed that the Pizza Hut robbery counted as the first “strike” 
+under the statute, and the capital murder counted as the second “strike.” App. 54. The court refused 
+to count the Domino’s Pizza robbery as the third “strike,” however, on the ground that Virginia’s 
+parole statute specifically requires three “convictions,” and a jury verdict of guilt does not become 
+a conviction until it is reduced to judgment. App. 43. The court held that because the Domino’s 
+
+
+Pizza verdict was not reduced to judgment until about two weeks after the capital murder sentencing 
+
+
+trial, Ramdass was technically still eligible for parole on the day that the jury considered his sentence 
+
+
+? Virginia Code § 53.1-151 is reprinted in full at App. 68-70. 
+4 
+
+
+for capital murder. App. 54. The state court treated this analysis of the meaning of the word 
+“conviction” as dispositive of Ramdass’ constitutional rights under Simmons, and it again affirmed 
+the death sentence. App. 54. This Court denied certiorari review. Ramdass v. Virginia, 514 U.S. 
+1085 (1995). | 
+
+B. Federal Collateral Proceedings 
+
+After exhausting state remedies, Ramdass filed a federal petition for writ of habeas corpus.’ 
+As his first issue, Ramdass alleged that the trial court violated his rights under the Eighth and 
+Fourteenth Amendments when it refused to provide the jurors with truthful information that if they 
+sentenced the defendant to life imprisonment, there was no possibility of release on parole. Ramdass 
+pointed to specific language in Simmons stating that the rule in that case applies when state law 
+prohibits the possibility of release on parole, and he contended that the rule is not limited to cases 
+where the defendant is technically ineligible for parole. The difference between these two 
+formulations is subtle but important. In Ramdass’ view, Simmons directs courts to employ a 
+pragmatic, functional test of the possibility of release on parole; it does not demand the use of a 
+technical, legalistic test. 
+
+The magistrate judge recommended that the writ be granted on the Simmons issue because 
+
+
+the state court’s hypertechnical decision was “contrary to clearly established Federal law, as 
+
+
+_ 3 Ramdiss alleged in his state habeas petition that his rights under both the Eighth and Fourteenth 
+Amendment rights were violated when the trial court refused to inform the jury that if they sentenced 
+Ramadass to life imprisonment, he would not be considered for release on parole during his lifetime. 
+(JA 251-54). The state habeas court dismissed this claim under its rule against repetitive review, 
+citing Hawks v. Cox, 175 S.E.2d 271 (1970). (JA 283). The rule in Hawks does not bar 
+consideration of a claim in federal court. See, e.g., Correll v. Thompson, 63 F.3d 1279, 1289 n.8 (4* 
+Cir. 1995) (Hawks is a rule in the nature of collateral estoppel; “a dismissal under Hawks does not 
+bar federal habeas review”), cert. denied, 516 U.S. 1035 (1996). 
+
+
+5 
+
+
+determined by the Supreme Court of the United States.” (JA 805). He noted “that the question 
+asked by the jury was not couched in terms of actual parole eligibility, but instead, whether there was 
+‘a possibility of parole at some time before his natural death.’”” (JA 810). He concluded, “[t}his 
+Court does not believe that Simmons was limited to the very narrow issue of specific parole eligibility 
+or lack thereof... . The Virginia Supreme Court’s response, on remand, imposes limits on the 
+application of Simmons not fairly contemplated by the language in the opinion.” (JA 811-12). 
+
+Following de novo review, the district court granted the writ because the state court’s 
+decision “involved an ‘unreasonable application’ of Simmons as determined by the Supreme Court 
+of the United States.” (JA 850). “[B]y concluding that Petitioner was parole eligible based on the 
+lack of the ministerial act of a trial court entering judgment, the Virginia Supreme Court evaded the 
+full import of Simmons.” (JA 858). Further: 
+
+
+assuming the definition of “conviction” was properly determined by the Virginia 
+Supreme Court, the trial court, prosecution, and defense must have clearly understood 
+that Petitioner was subject to life without parole. That is, everyone was aware that, 
+at the time of the capital sentencing phase, Petitioner had either plead guilty or been 
+found guilty by a jury of at least three qualifying felony offenses under Virginia Code 
+Section 53.1-151(B). Indeed, these offenses were relied upon to establish Petitioner’s 
+future dangerousness. The jury could have been informed, with all confidence, that 
+Petitioner would never be released from prison, thereby rebutting the notion that he 
+presented a future danger to society. Nevertheless, by the Virginia Supreme Court 
+concluding that Petitioner was parole eligible and that therefore the trial court’s 
+answer to the jury’s question was acceptable, the Commonwealth of Virginia 
+“succeed[ed] in securing a death-sentence on the ground of future dangerousness 
+while at the same time concealing from the jury the true meaning of its noncapital 
+sentencing alternative, namely, that life imprisonment [for Petitioner] means without 
+parole.” Simmons, 512 U.S. at [162]. 
+
+
+(JA 858). 
+A divided panel of the Fourth Circuit reversed. The majority held that Simmons applies only 
+
+
+in the narrow circumstances where a defendant is technically and legally ineligible for parole on the 
+
+
+date of the capital sentencing proceeding. The majority essentially advanced three reasons. First, it 
+announced that Simmons turns solely on the state court’s determination of its own law, and that this 
+determination is dispositive: 
+
+[T]he fact that a defendant will have no possibility of parole if given a life sentence 
+
+can only stem from the legal conclusion that state law bars eligibility for parole. 
+
+Because parole eligibility is entirely a creature of state law, Ramdass’ conception of 
+
+practical or functional parole eligibility must inevitably collapse into a determination 
+
+of state law. 
+
+App. 11 (emphasis omitted). 
+
+Second, the majority said that conditioning the application of Simmons on a functional 
+determination that the defendant will never be eligible for release on parole “is simply incompatible 
+with the logic of Simmons itself.” App. 10. According to the majority, this logic is reflected by 
+statements in Justice O’Connor’s concurrence such as, “We hold that where the defendant’s future 
+dangerousness is at issue, and state law prohibits the defendant’s release on parole, due process 
+requires that the sentencing jury be informed that the defendant is parole ineligible.” App. 10 
+(quoting Simmons, 512 U.S. at 165) (Fourth Circuit emphasis omitted). 
+
+Third, the panel majority held in the alternative that relief could not be granted under AEDPA. 
+“Even were we persuaded by Ramdass’ theory that practical rather than legal parole ineligibility 
+suffices to trigger Simmons, we would conclude that was not ‘clearly established’ as required by 28 
+US.C. § 2254(d)(1).” App. 11. After discussing the similarities between Section 2254(d)(1) and . 
+the antiretroactivity doctrine in Teague v. Lane, 489 U.S. 288 (1989), the majority added that 
+Ramdass’ claim would fail “either under Teague or under § 2254(d)(1).” App. 11-12. 
+
+Judge Murnaghan dissented on each of these points. First, he emphasized that “the scope and 
+
+
+parameter of the Simmons right is a matter of federal constitutional law.” App. 18. “Admittedly, the 
+
+
+[due process] right recognized in Simmons . . . only applies to those for whom state law has 
+eliminated the possibility of parole. But, the right is a federal right.” App. 18. He explained that 
+federal due process was denied because only a hypothetical future development of the sort rejected 
+by Simmons could make Ramdass eligible for release, and he berated the majority for “hid[ing] . . . 
+behind a state law shield.” App. 20. 
+
+[A]t the time of the Kayani sentencing, only some hypothetical future development 
+
+as remote as legislative reform, commutation, or clemency, could have affected entry 
+
+of the Domino’s Pizza robbery conviction and therefore prevented Ramdass from 
+
+being parole ineligible... . Formal entry of the conviction at that point was merely 
+
+a ministerial act. Thus, for all realistic intents and purposes, it was a guarantee that 
+
+
+Ramdass would be parole ineligible [under state law] when the Kayani conviction was 
+formally entered. 
+
+
+App. 20.‘ 
+
+Second, Judge Murnaghan declared that far from being incompatible with the logic of 
+Simmons, a functional assessment of the possibility of release on parole is consistent both with “the 
+genesis of Simmons [as] merely an extension of the rule in Gardner v. Florida, 430 U.S. 349 (1977), 
+
+
+and Skipper v. South Carolina, 476 U.S. 1 (1986),” and with the specific language in the Simmons 
+
+
+* Entry of judgment was a ministerial act under state law, as applied to the circumstances of this 
+case. At the time of the penalty phase in Ramdass’ capital murder trial, the judge presiding over the 
+Domino’s Pizza matter already had denied Ramdass’ motion to set aside the jury’s verdict in that 
+robbery case under Virginia Supreme Court Rule 3A:15(a), and the motion could not be renewed. 
+See App. 67 (reprinting Rule 3A:15). This denial locked up the verdict and reduced the subsequent 
+entry of judgment to a ministerial act. Although there was still a hypothetical possibility that the 
+judge presiding over the Domino’s Pi~za matter could set aside the robbery verdict under Virginia 
+Supreme Court Rule 3A:15(b) and thus eliminate the third “strike,” there was an identical possibility 
+that the judge presiding over the Pizza Hut matter could set aside that robbery verdict under Rule 
+3A:15(b) and eliminate the first “strike.” In both robbery cases, the statutory 21-day window for 
+setting aside a conviction under Rule 3A:15(b) was still open at the time of Ramdass’ capital murder 
+sentencing trial. The Virginia Supreme Court necessarily rejected any reliance on the hypothetical 
+possibility of release under Rule 3A:15(b) when it held that the Pizza Hut conviction nonetheless 
+counted in full as a “strike.” 
+
+
+opinions. App. 18-19. “I do not believe that due process requires or allows [the majority’s] arbitrary 
+results.” App. 20. 
+
+Third, because the clearly established rule in Simmons fully covers Ramdass’ circumstances, 
+Judge Murnaghan recognized that AEDPA presents no impediment to the grant of federal habeas 
+corpus relief.’ 
+
+The Fourth Circuit denied Ramdass’ petition for siento en banc on September 17, 1999, 
+
+
+with one-third of the court dissenting. App. 65-66 
+
+
+Il THE VIOLATION OF AKE v. OKLAHOMA 
+
+A. Trial and Direct Appeal 
+
+Recognizing that his cumulative offenses might make out a prima facie case for future 
+dangerousness, Ramdass hoped to present mental health evidence that would rebut the case for future 
+dangerousness and persuade a jury to sentence him to life imprisonment. Because the defendant was 
+indigent, counsel moved before trial for the assistance of a mental health expert. The court granted 
+this motion, and it sua sponte selected Dr. Stanton Samenow, a psychologist, to assist the defense. 
+
+Dr. Samenow’s report to counsel did nothing but lambaste the client, using language one 
+would expect to see in the report of a prosecution expert. According to Dr. Samenow, Ramdass is 
+
+
+able to conform his conduct to societal norms 
+
+
+* Judge Murnaghan specifically distinguished Ramdass’ case — in which the defendant would be 
+absolutely ineligible for release on parole after the performance of all ministerial acts — from previous 
+
+
+Fourth Circuit cases cited by the majority in which the court had refused to “extend” Simmons to 
+defendants who “remained eligible for parole under state law even when all ministerial acts were 
+completed.” App. 19, n.5. See, e.g., Roach v. Angelone, 176 F.3d 210, 220 (4* Cir.) (rejecting claim 
+that defendant was entitled to inform jury that if sentenced to life imprisonment, he would not be 
+eligible for parole for at least 25 years), cert. denied, S$ Ct. , 1999 WL 688646 (Nov. | 
+1999). 
+
+
+but has been unwilling to do so. He has lived essentially a lawless life in which he has 
+pursued the excitement of the moment and sought to build himself up by overcoming 
+others through deception, intimidation, and violence. 
+
+
+Bobby Lee Ramdass has been intent on doing whatever he pleases with little regard 
+to the consequences. 
+
+
+The requirements , of specific individuals or of society are irrelevant in Bobby’s 
+
+view... . [D]oing something just because it was forbidden or just on a dare was 
+
+commonplace. Then, if held accountable, Mr. Ramdass would try to deflect the 
+
+blame. 
+Samenow Report at 2-5.° Dr. Samenow’s report spent three and a half pages detailing Ramdass’ 
+upbringing “in an atmosphere in which violence was a way of life.” Samenow Report at 6-9. His 
+mother was “a person who was dishonest, working only sporadically, unable to cope as a mother, of 
+limited intelligence, promiscuous and violent.” She taught Ramdass how to shoplift and he “joined 
+with his mother in attacking and robbing others.” Samenow Report at 7. Dr. Samenow quoted a 
+1986 psychiatric evaluation of Ramdass in which another expert had concluded: 
+
+He is from an unbelievably dysfunctional family which has presented the worst 
+
+possible role models to him. He has himself been violently abused by others . . . those 
+
+who have interviewed him have uniformly been impressed with his amoral, immoral 
+
+and delinquent attitudes. When one reads the social service description of his 
+
+mother’s personality, one sees that he is the expectable product of his environment. 
+Samenow Report at 8 (emphasis added) Nonetheless, Dr. Samenow’s report dismissed the 
+potentially mitigating conclusion of the 1986 evaluator: 
+
+
+During the current evaluation, a picture emerged that somewhat fakes exception to 
+a view that sees Mr. Ramdass simply as an “expectable product of his environment.” 
+
+
+Samenow Report at 8 (emphasis added). According to Dr. Samenow, Ramdass “chose” his criminal 
+
+
+path in life, has only “the most primitive concept of injury to others,” and “believes that the worst 
+
+
+* A copy of Dr. Stanton Samenow’s report to defense counsel has been lodged with the Court. 
+10 
+
+
+thing he has ever done is to hurt his girlfriend ‘by getting locked up.”” Samenow Report at 11-12. 
+
+After receiving this report, counsel concluded that there was no usable mental health evidence 
+because Dr. Samenow “was unwilling and unable to assist the defense and would not be able to testify 
+on behalf of Mr. Ramdass.” (JA 445-46). As a result, counsel simply presented no mental health 
+evidence, either to rebut the state’s case for future dangerousness or to show why the jury should be 
+moved to impose a sentence less than death. 
+
+Trial counsel did not challenge Dr. Samenow’s competence in the direct appeal. 
+
+B. State Collateral Proceedings 
+
+In his state habeas petition, Ramdass alleged under the Fifth, Sixth, Eighth, and Fourteenth 
+Amendments that he “was denied the reasonable assistance of a mental health expert.” (JA 229). 
+Citing Ake v. Oklahoma, 470 U.S. 68, 83 (1985), Ramdass contended that Dr. Samenow is not the 
+“competent psychiatrist who will conduct an appropriate examination and assist in evaluation, 
+preparation and presentation of the defense” that Ake promises. (JA 229). Rather, “Dr. Samenow 
+is notoriously pro-prosecution and did not assist the Petitioner’s defense.” (JA 229). Because Dr. 
+Samenow was incapable of assisting the defense, appointing Dr. Samenow essentially was equivalent 
+to not appointing any expert at all. 
+
+Ramdass moved the state habeas court for the appointment of “a competent, independent 
+mental health expert .. . to perform a competent psychological evaluation . . . [and] to advise [state 
+habeas] counsel on ___ the significance of his findings for showing mitigating circumstances or for 
+rebutting the Commonwealth’s case on future dangerousness.” (JA 268) The Virginia Supreme 
+Court summarily denied this request. (JA 279). 
+
+Shortly thereafter, the Virginia Supreme Court issued another summary order denying habeas 
+
+
+corpus relief. After it dismissed enumerated claims on procedural grounds, the state habeas court 
+addressed the merits of all remaining claims in the following two sentences: “and finding no merit in 
+petitioner’s remaining allegations, the Court is of opinion that the writ of habeas corpus should not 
+issue as prayed for. On further consideration whereof, the Court denies petitioner’s motion to 
+remand for evidentiary hearing.” (JA 283). Ramdass’ allegation that he was denied the reasonable 
+assistance of a mental health expert was included in this group of claims for which the state court 
+found “no merit.” 
+
+of Federal Collateral Proceedings 
+
+Ramdass alleged again in his federal petition that he was denied the assistance of a mental 
+health expert under Ake in violation of rights protected by the Fifth, Sixth, Eighth, and Fourteenth 
+Amendments. (JA 345-56). The district court, like the state court, refused to authorize funds for a 
+mental health expert. (JA 682-89, 696). Because new federal habeas counsel were willing to reach 
+into their own pocket,’ they were able to obtain a preliminary affidavit from Dr. Reuben Koller, a 
+competent psychologist. Dr. Koller detailed the inadequacies in Dr. Samenow’s evaluation of 
+Ramdass that made the pretrial evaluation “incomplete, deficient and inadequate according to 
+
+
+conventional psychological standards,” (JA 474) Dr. Koller recommended additional testing to 
+
+
+” This is a common phenomenon in Virginia capital cases on habeas corpus. Without exception, 
+the Virginia Supreme Court has denied every indigent petitioner’s motion for expert or investigative 
+assistance. Appointed state habeas counsel — often a solo practitioner — has been unable or 
+unwilling to underwrite the cost of experts or investigators. Federal habeas courts have appointed 
+new counsel in nearly every case, often from a much larger firm, and the new lawyers sometimes have 
+been willing and able to finance privately the cost of the experts and/or investigators. See, e.g., 
+Petition for Writ of Certiorari in Williams (Michael) v. Taylor, No. 99-6615, at 31 n.15 (explaining 
+that state habeas court refused to fund investigator, and that new federal habeas counsel discovered 
+claims relating to partiality of juror only after they privately funded and retained an investigator), cert. 
+granted, S.Ct. ___, 1999 WL 980144 (Oct. 28, 1999). 
+
+
+12 
+
+
+determine if Ramdass suffers from a discrete mental illness. (JA 474-77). 
+
+More importantly, Dr. Koller revealed in his affidavit that Dr. Samenow harbors well-known, 
+preconceived, and radical notions about mental health issues that render him incapable of doing what 
+Ake requires — incapable of rebutting future dangerousness or identifying reasons for a sentence less 
+than death. Dr. Samenow’s professional views are far outside the mainstream of psychiatric thought. 
+(JA 474). Dr. Samenow rejects the concept of mental illness, and he also rejects the basic psychiatric 
+principle that an individual’s personality is affected by environmental factors. (JA 473-74). Dr. 
+Samenow’s viewpoint is considered to be so radical that it has not been adopted by any recognized 
+authorities. (JA 473-74). 
+
+Dr. Koller’s affidavit is corroborated by Dr. Samenow’s own publications and interviews. In 
+his 1977 treatise, Zhe Criminal Personality, Dr. Samenow refers to criminals as a “different breed 
+of person” who “knows circumstances have nothing to do with his violations, but [who] uses that 
+rhetoric if he thinks it will lead others to view him more sympathetically.” (JA 347). “The application 
+of a mental illness diagnosis to this [criminal] population [i]s a consequence of the tortuous extension 
+Beutateds crise ened tat putiatente Most diagnoses of mental illness result[] 
+from the criminal’s fabrications. By his accountability statements, he mis[leads] many examiners into 
+believing that he [i]s mentally ill.” (JA 348). 
+
+In his 1984 book, /nside the Criminal Mind, Dr. Samenow continued this theme and rejected 
+“the widely-held beliefs that broken homes, alcoholism, violence on TV, unemployment, drug- 
+addiction, or passionate impulses are the causes of crime.” (JA 346). The criminal “chooses 
+
+
+crime . . . his associates, his way of life, the kind of crime he commits.” (JA 346). “He rejects society 
+
+
+* The district court denied funding for the recommended testing. 
+13 
+
+
+long before society rejects him; he is victimizer, not victim.” (JA 346). 
+
+In a feature interview for the CBS News program 60 Minutes on February 20, 1977, Dr. 
+Samenow elaborated on his belief that psychiatry is a tool for “excuses for crime.” (Counter Number 
+102). He proclaimed that “criminals” who murder are “programmed” for killing and are not 
+influenced by external forces. (Counter Number 325-32). Criminals “who have been found to be 
+mentally ill” are not really mentally ill, they merely have been “coached by others” so they can 
+“convince a doctor that [they’re] mentally ill.” (Counter Number 344-58). According to the 60 
+Mimutes commentator, Dr. Samenow’s controversial views created a “tempest in the normally quiet 
+world of criminal psychology” and made conventional psychiatrists “hopping mad.” (Counter 
+Number 039-42). 
+
+Because of his inherent bias, Dr. Samenow undoubtedly is incapable of “conduct[ing]} an 
+appropriate examination and assist[ing]} in evaluation, preparation and presentation of the defense” 
+for any defendant who has a criminal history. Ake, 470 U.S. at 83. Dr. Samenow is incapable of 
+rebutting future dangerousness by showing, for example, that the defendant would respond positively 
+and nonviolently in a structured environment, because this expert believes that environment is 
+irrelevant. Dr. Samenow is incapable of rebutting future dangerousness by showing that the 
+defendant’s violent criminal behavior was the product of a mental disease or defect that might be 
+amenable to treatment, because this expert does not believe in mental illness. And Dr. Samenow is 
+incapchble of presenting reasons why the jury should impose a sentence less than death because this 
+
+
+expert believes that criminals are a “different breed of person” who-have simply chosen to be 
+
+
+* A videotape of the 60 Minutes interview was part of the record below, and Ramdass has lodged 
+a copy of the videotape with the Court. Quotations from the interview are identified by Time-Code 
+Counter Number. 
+
+
+14 
+
+
+criminals. In short, having the assistance of Dr. Samenow is constructively the same as having no 
+
+
+_ mental health assistance whatsoever. Cf United States v. Cronic, 466 U.S. 648, 659 (1984) 
+
+
+(defendant’s Sixth Amendment rights are violated when he is constructively, rather than actually, 
+deprived of effective assistance of counsel). The district court ruled that this claim was defaulted, 
+and it did not reach the merits of Ramdass’ claim. 
+
+After close review of the record, the Fourth Circuit determined that Ramdass’ claim was not 
+defaulted. The panel majority held, however, that when the Virginia Supreme Court summarily 
+denied Ramdass’ Ake claim as having “no merit,” it “did not unreasonably apply clearly established 
+federal! law. See 28 U.S.C. § 2254(d).” App 14. The court of appeals’ basis for chis conclusion, in 
+full relevant part, was as follows: 
+
+Ake provides a right to assistance of a mental health expert only if a defendant 
+
+made a showing to the trial court that his mental state was at issue in his defense of 
+
+the charges or if, in arguing future dangerousness in the sentencing phase, the 
+
+prosecution used expert psychiatric testimony. See Ake, 470 U.S. at 82-83 (noting 
+
+that the need for the assistance of a psychiatrist is “readily apparent” either when “the 
+
+defendant is able to make an ex parte threshold showing to the trial court that his 
+
+sanity is likely to be a significant factor in his defense” or “when the State presents 
+
+psychiatric evidence of the [capital] defendant's future dangerousness” during the 
+
+penalty phase (emphasis added)). Neither condition was met here. 
+App. 14. In other words, because the state chose to present only nonpsychiatric evidence of future 
+dangerousness, Ramdass did not have a clearly established right to a competent mental health expert 
+to rebut the state’s case for future dangerousness or to present psychiatric reasons why the jury 
+
+
+should impose a sentence other than death.'° 
+
+
+© The panel majority did not address Ramdass’ contention that the state court’s decision was 
+“contrary to” clearly established federal law as determined by the Supreme Court. In concluding that 
+the state court’s decision did not involve an “unreasonable application” of clearly established federal 
+law, the panel majority apparently followed binding circuit precedent holding that “habeas relief is 
+authorized only when the state courts have decided the question by interpreting or applying the 
+
+
+15 
+
+
+Judge Murnaghan concurred only in the judgment. App. 15, n.1. He agreed with Ramdass 
+that “Dr. Samenow’s professed and public views make him incompetent to aid a defendant in finding 
+and presenting mitigating factors at a defendant’s sentencing phase, and that Dr. Samenow did not 
+conduct an appropriate examination.” App. 15, n.1. Although Dr. Samenow is still a licensed 
+psychologist, “[h]e has abandoned sociologic, psychologic, and mental illness explanations for 
+criminal behavior.” App. 15-16, n.1. 
+
+Judge Murnaghan cited with approval several Tenth Circuit cases holding that Ake applies 
+when the state presents any evidence of future dangerousness — psychiatric or nonpsychiatric — 
+and the indigent defendant establishes a likelihood that his mental condition is a significant mitigating 
+factor. See, e.g., Liles v. Saffle, 945 F.2d 333, 340-41 (10" Cir. 1991) (applying Ake in habeas 
+corpus where prosecution presented only nonpsychiatric evidence of future dangerousness), cert. 
+denied, 502 U.S. 1066 (1992). Constrained by AEDPA, however, Judge Murnaghan felt obliged to 
+say that “Ake’s application when the prosecution has not presented its own psychiatric evidence on 
+future dangerousness is not clearly established by the Supreme Court.” App. 16, n.1 (emphasis 
+
+
+added). 
+
+
+relevant precedent in a manner that reasonable jurists would a// agree is unreasonable.” Williams 
+(Terry) v. Taylor, 163 F.3d 860, 865 (4* Cir. 1998) (emphasis added), cert. granted, 119 S. Ct. 1355 
+(1999) (argued Oct. 4, 1999). 
+
+
+16 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+L THE FOURTH CIRCUIT EMPLOYED STANDARDS FOR ANALYSIS THAT 
+CANNOT BE RECONCILED WITH THIS COURT’S PRECEDENTS, AND IT 
+RENDERED A DECISION THAT CONFLICTS WITH SIMMONS v. SOUTH 
+CAROLINA 
+
+
+A. Questions Concerning the Nature or Duration of Restraints on Liberty Require 
+a Functional, Rather Than a Technical, Mode of Analysis 
+
+
+There has never been disagreement as to the practical reality of Ramdass’ situation: If he was 
+sentenced to life imprisonment, he was never going to have the opportunity to be considered for 
+release on parole. No state or federal court judge has questioned that immutable fact. Nonetheless, 
+because a ministerial requirement of state law had not yet been satisfied, the Virginia Supreme Court 
+employed, and the Fourth Circuit majority ratified, a reading of Simmons that gave effect to technical 
+parole eligibility and disregarded the functional reality of parole ineligibility. The Court should grant 
+certiorari to decide whether such questions of restraints on liberty should be analyzed using a 
+technical or a functional mode of analysis. 
+
+Whether application of Simmons turns on a “technical” or a “functional” analysis of eligibility 
+for release from prison is a subspecies of a commonplace problem that has drawn this Court’s 
+repeated attention. That problem is the need to define category boundaries when a rule of federal 
+constitutional or statutory law refers to a condition or status that is both a practical fact and a legal 
+term of art. In closely analogous areas of the law that involve constitutional questions concerning 
+the nature or duration of restraints on individual liberty, this Court has resolved the problem by 
+rejecting solutions that “place[] form over substance, and labels over reality.” Bowen v. Gilliard, 483 
+U.S. 587, 606 (1987). 
+
+
+In applying the requirement under Miranda v. Arizona, 384 U.S. 436 (1966), that warnings 
+
+
+17 
+
+
+must precede police interrogation when a person is “in custody,” for example, this Court has asked 
+whether the determination of “custody” turns on a purely ‘echnical analysis of the legal rules 
+governing police powers of arrest and detention, or if it turns on a functional analysis of whether the 
+circumstances reasonably would lead the person being interrogated to believe that he or she is not free 
+to leave the stationhouse at will. The answer is that it turns on a functional analysis. See, e.g., 
+Stansbury v. California, 511 U.S. 318, 322 (1994) (“In determining whether an individual was in 
+custody, a court must examine all of the circumstances surrounding the interrogation”); Oregon v. 
+Mathiason, 429 U.S. 492, 495 (1977) (per curiam) (officer’s obligation to administer Miranda 
+warnings attaches “only where there has been such a restriction on a person’s freedom as to render 
+him ‘in custody”). 
+
+In determining whether an individual is “in custody” for purposes of federal habeas corpus 
+jurisdiction, the Court similarly has applied a functional rather than technical test. In Jones v. 
+Cunningham, 371 U.S. 236 (1963), for example, the Court held that a state prisoner who has been 
+released on parole is nonetheless functionally “in custody” because he or she is still subject to various 
+conditions and restrictions. 
+
+[The Great Writ] is not now and never has been a static, narrow, formalistic remedy; 
+
+its scope has grown to achieve its grand purpose — the protection of individuals 
+
+against erosion of their right to be free from wrongful restraints upon their liberty. 
+
+While petitioner’s parole releases him from immediate physical imprisonment, it 
+
+imposes conditions which confine and restrain his freedom; this is enough to keep him 
+
+in the “custody” of the members of the Virginia Parole Board within the meaning of 
+
+the habeas corpus statute. 
+
+Id. at 243. In Carafas v. LaVallee, 391 U.S. 234 (1968), the Court held that a state prisoner’s 
+pending habeas petition was not functionally moot for want of custody, even though his sentence had 
+
+
+since expired and he had been discharged from parole: 
+
+
+The substantial issue, however . . . , is not mootness in the technical or constitutional 
+sense, but whether the statute defining the habeas corpus jurisdiction of the federai 
+judiciary in respect of persons in state custody is available here. .. . [W]e conclude 
+
+
+that . . . once the federal jurisdiction has attached in the District Court, it is not 
+
+defeated by the release of the petitioner prior to completion of proceedings on such 
+Id. at 238. 
+
+In applying the rule in Gideon v. Wainwright, 372 U.S. 335 (1963), that the Sixth Amendment 
+entitles an indigent defendant to the assistance of anid “in all criminal prosecutions,” the Court 
+held in Argersinger v. Hamlin, 407 U.S. 25 (1972), that the Sixth Amendment right to counsel turns 
+on a functional determination of whether the conviction results in “imprisonment” — not on the 
+state’s technical classification of the offense as a felony or misdemeanor or petty offense. In 
+determining the meaning of “imprisonment” for purposes of the Gideon/Argersinger rule, the Court 
+held in Baldasar v. Illinois, 446 U.S. 222 (1980), that even if a state misdemeanor conviction does 
+not technically result in the deprivation of liberty, that uncounseled misdemeanor conviction will 
+functionally result in “imprisonment” if it transmutes a second misdemeanor conviction into a felony 
+and thereby lead to a loss of liberty. And although the Court overruled Baldasar in Nichols v. United 
+States, 511 U.S. 738 (1994), it did so by returning to the functional test it had articulated in Scott v. 
+Illinois, 440 U.S. 367 (1979), that “the line should be drawn between criminal proceedings which 
+
+
+themselves resulted in imprisonment, and those which did not.” Nichols, 511 U.S. at 746." 
+
+
+'! The same tension between technical and functional analyses can be found in cases addressing 
+the sequence of events that relate to restraints on liberty. The Fourth Circuit majority characterized 
+Ramdass’ Simmons claims as merely a technical complaint about “the effect of the random timing of 
+his trials.” App. 12. But in Escobedo v. Illinois, 378 U.S. 478, 486 (1964), the Court demanded a 
+functional, pragmatic analysis of the effect of sequencing. Where the defendant has been taken into 
+custody, “[i}t would exalt form over substance to make the right to counsel, under these 
+circumstances, depend on whether at the time of the interrogation, the authorities had secured a 
+
+
+-formal indictment. Petitioner had, for all practical purposes, already been charged with murder.” See 
+
+
+19 
+
+
+Under Simmons, the choice between a “technical” and a “functional” mode of analysis will 
+affect a range of situations in addition to those which involve convictions that are not yet reduced to 
+judgment, or which are subject to other procedural but pragmatically insignificant requirements. In 
+South Carolina, for example, a post-Simmons statute requires the jury to engage in a two-step 
+sentencing inquiry in a capital case.'* The jury first decides whether there is an aggravating factor. 
+If it does not find an aggravating factor: the jury’s work is done, and the defendant is sentenced by 
+the trial judge to life imprisonment or to a mandatory minimum term of thirty years. If, and only if, 
+
+
+the jury finds an aggravating factor, they then decide whether to recommend a sentence of life 
+
+
+generally Chatman-Bey v. Meese, 797 F.2d 987, 992-93 (D.C. Cir. 1986) (holding that government 
+may not use method of determining date of parole eligibility for aggregated offenses if method 
+produces different results depending on sequence in which crimes occurred) (holding approved en 
+banc, id. at 994 n.10); Thomas v. Brennan, 961 F.2d 612 (7* Cir. 1992) (same). 
+
+
+'2 South Carolina Code § 16-3-20 is reprinted in full at App.71-75. The statute provides, in 
+relevant part, as follows: 
+
+
+(A) A person who is convicted of or pleads guilty to murder must be 
+punished by death, by imprisonment for life, or by a mandatory minimum term 
+of imprisonment for thirty years... . For purposes of this section, “life 
+imprisonment” means until death of the offender. . . . 
+
+(B) [I]f a statutory aggravating circumstance is found, the defendant 
+must be sentenced to either death or life imprisonment. If no statutory 
+aggravating circumstance is found, the defendant must be sentenced to either 
+life imprisonment or a mandatory minimum term of imprisonment for thirty 
+years.... 
+
+(C) Where a statutory aggravating circumstance is found and a 
+recommendation of death is made, the trial judge shall sentence the defendant 
+to death... . Where a statutory aggravating circumstance is found and a 
+sentence of death is not recommended by the jury, the trial judge shall sentence 
+the defendant to life imprisonment as provided in subsection (A)... . If the jury 
+does not unanimously find any statutory aggravating circumstances or 
+circumstances beyond a reasonable doubt, it shall not make a sentencing 
+recommendation. Where a statutory aggravating circumstance is not found, the 
+trial judge shall sentence the defendant to either life imprisonment or a 
+mandatory minimum term of imprisonment for thirty years. 
+
+
+20 
+
+
+imprisonment or death. By operation of law, a sentence of life imprisonment in a capital case means 
+life without parole. 
+
+This apparently straightforward South Carolina statute actually ensures that no capital 
+defendant in South Carolina can “technically” qualify for application of the rule in Simmons, and 
+therefore cannot inform the jurors that a sentence of life imprisonment means life without parole. 
+That is because, at the moment the jury is instructed, the alternative to a death sentence might well 
+be something less than life without parole (i.e., the jury might not find an aggravating factor and the 
+
+
+defendant might be sentenced by the judge to a term of years). The defendant does not “technically” 
+
+
+~ become ineligible for a sentence less of than life without parole until the middle of the sentencing 
+
+
+deliberations, at the exact point when the jury finds an aggravating factor. Under a technical 
+interpretation of Simmons, this South Carolina statute ensures that every juror who ultimately votes 
+to recommend death will do so without knowing, at the moment of decision, that the only alternative 
+to death is a sentence of life imprisonment without the possibility of parole.’ 
+
+More hypothetically, circumstances could exist where the alternative to death is a term of 
+years so long that, as a certainty, the defendant will not survive to come up for parole consideration 
+even though he or she is technically eligible for parole. For example, state law might provide that if 
+a capital defendant is not sentenced to death, he or she must be sentenced to a term of 500 years. 
+See, e.g., Ake, 470 U.S. at 73 (noting that Ake was sentenced to “500 years’ imprisonment on each 
+of the two counts of shooting with intent to kill”). Even if state law allows prisoners to be considered 
+
+
+for parole after they have served one-half of their sentence, a defendant sentenced to this term of 
+
+
+> At least one South Carolina prosecutor already has blocked application of the rule in Simmons 
+
+
+by making this precise “technical” argument. See State v. Starnes (Lexington County, S.C., 
+sentenced Apr. 25, 1997) (appeal argued Sept. 21, 1999). 
+
+
+21 
+
+
+years functionally will never have the opportunity to come up for parole consideration, even though 
+he or she is not “technically” ineligible for parole."* 
+
+The Fourth Circuit’s restrictive view of Simmons leaves an important federal due process right 
+subject to the vagaries of highly technical, sometimes arcane, and certainly manipulable state laws, 
+even when functionally there is no possibility of parole. The lower court’s ruling, which is at odds 
+with this Court’s disposition of similar constitutional questions, and which may have effects well 
+beyond this case, is a matter of special and national importance that merits review by this Court. 
+
+B. Federal Questions Require a Mode of Analysis That Looks to the Operating 
+
+Consequences of Relevant State Law, Rather Than a Mode That Automatically 
+Accepts the State’s Characterization of That Law 
+
+Whether application of Simmons is governed by state law “characterizations” or by a federal 
+court’s assessment of state law “consequences” also is a subspecies of a commonplace problem in 
+federal constitutional law that has drawn this Court’s repeated attention. Federal constitutional rules 
+frequently turn upon states of affairs that are dependent to some extent on the operation of state law. 
+This Court generally has resolved the problem by looking to the “consequences” of state law rather 
+than the state’s own “characterization” of that law. 
+
+
+This has been particularly evident in the area of taxation. In Stone v. Memphis Steam Laundry 
+
+
+Cleaner, Inc., 53 So.2d 89, 90 (Miss. 1951), for example, Mississippi's highest court characterized 
+
+
+The Fourth Circuit majority surmised that such a functional analysis of parole eligibility would 
+require courts to apply the rule in Simmons whenever a defendant is “unlikely to be paroled.” App. 
+11. This statement confuses a defendant’s eligibility for parole with speculation about whether the 
+defendant would be found suitable for release once he or she came up for consideration. “Parole 
+eligibility . . . simply means consideration for release. Such eligibility does not ‘entitle’ the prisoner 
+to release even one day earlier than his full term or aggregate consecutive terms.” Chatman-Bey, 797 
+F.2d at 991. In Ramdass’ view, the basic holding in Simmons applies only to defendants who will not 
+have the opportunity to be considered for release during their lifetime — not to defendants who will 
+come up for consideration. 
+
+
+22 
+
+
+the state’s “privilege tax” as “a tax on a person soliciting business for a laundry not licensed in this 
+state, a local activity which applies to residents and nonresidents alike.” This Court, however, looked 
+to the consequences of the tax, not the state’s characterization. “The State may determine for itself 
+the operating incidence of its tax. But it is for this Court to determine whether the tax, as construed 
+by the highest court of the State, is or is not “a tax on interstate commerce.” Memphis Steam 
+Laundry Cleaner, Inc. v. Stone, 342 U.S. 389, 392 (1952). Concluding that the effect of the levy was 
+to tax the privilege of doing interstate business, the Court held that it violated the Commerce Clause. 
+See also Colonial Pipeline Co. Traigle, 421 U.S. 100, 107-08 (1975) (citing Memphis Steam 
+Laundry for proposition that “[t}his Court is, of course, not bound by the state court’s determination 
+that the challenged tax is not a tax on interstate commerce.”) By the same reasoning, Virginia may 
+define the scope of technical eligibility for parole under state law, but it is the independent obligation 
+of the Article III court to determine whether the consequence of that definition is to deny Ramdass 
+due process of law under the United States Constitution. 
+
+The Court similarly emphasized the need to consider state law consequences, rather than 
+merely a state’s characterization of its law, in Bailey v. Alabama, 219 U.S. 219 (1911). Bailey 
+involved a state statute that (i) made it a criminal offense for a laborer to enter into an employment 
+conteass with laters to tefure or Gafend end than, citer cbuiaing 0 eatery cbvence bem the exgleyer, 
+refusing to perform the promised service or return the advance, and (ii) made refusal or failure to 
+perform the service or refund the money prima facie evidence of the requisite intent to injure or 
+defraud. Jd. at 227-28. Although the state characterized the statute as one that merely punished 
+
+
+fraud, this Court concluded that the consequence of the statute was to employ the threat of criminal 
+
+
+prosecution as a means of compelling involuntary servitude for mere breach of contract. 
+
+
+23 
+
+
+We cannot escape the conclusion that, although the statute in terms is to punish fraud, 
+
+still its natural and inevitable effect is to expose to conviction for crime those who 
+
+simply fail or refuse to perform contracts for personal service in liquidation of a debt; 
+
+and judging its purpose by its effect, that it seeks in this way to provide the means of 
+
+compulsion through which performance of such service may be secured. 
+
+Id. at 238. Because of this consequence, the Court held that the statute violated the Thirteenth 
+Amendment. /d. at 240-45. 
+
+In holding that “parole eligibility is a question of state law and therefore is not cognizable on 
+federal habeas review,” App. 12, the Fourth Circuit majority did not simply condone an unreasonable 
+state-court interpretation of Simmons. It also misinterpreted Simmons itself as involving an exception 
+to the ordinary, well-established principle that federal courts must look behind state-law 
+characterizations to examine the consequences of the operation of state legal rules for federal 
+
+—— | 
+
+
+G Neither 28 U.S.C. § 2254(d)(1), as Amended by AEDPA, Nor the New Rule 
+Doctrine, Precludes the Grant of Federal Habeas Corpus Relief 
+
+
+The Fourth Circuit majority held, in the alternative, that even if it was “persuaded by 
+Ramdass’ theory that practical rather than legal parole ineligibility suffices to trigger Simmons, we 
+would conclude that it was not “clearly established” as required by 28 U.S.C. § 2254(d)(1).” App. 
+11. After stating its view that Section 2254(d)1) is more stringent than the antiretroactivity doctrine 
+of Teague v. Lane, 489 U.S. 288 (1989), the court of appeals concluded that “either under Teague 
+or under § 2254(d)(1), Ramdass’ argument for an extension of Simmons would fail”. App. 11-12. 
+
+Ramdass does not seek an “extension of Simmons.” His claim is based squarely on the core 
+rule that this Court expressed in Simmons. Both the legal standard in Simmons and the application 
+
+
+of that standard are “clearly established” under this Court’s precedents. Specifically, it is clearly 
+
+
+24 
+
+
+established that a capital defendant is entitled to inform the jury whenever the state seeks death based 
+on future dangerousness and “the only available alternative sentence to death is life without the 
+possibility of parole.” Simmons, 512 U.S. at 177 (O’Connor, J., concurring). Due process prohibits 
+the state from “securing a death sentence on the ground, at least in part, of petitioner's future 
+dangerousness, while at the same time concealing from the sentencing jury the true meaning of its 
+noncapital sentencing alternative, namely, that life imprisonment mean{s] life without parole.” 
+Simmons, 512 U.S. at 161 (plurality opinion). 
+
+Relief is not precluded under 28 U.S.C. § 2254(d)(1) because the state court’s decision was 
+contrary to, or involved an unreasonable application of, this clearly established law. To the extent 
+the Fourth Circuit majority concluded otherwise, its determination was infected by the same 
+misinterpretation of Section 2254(d)(1) that was manifest in Williams (Terry) v. Taylor, supra n.10 
+In Williams, the Fourth Circuit held that under Section 2254(d)(1), a state court’s decision to deny 
+federal constitutional claim cannot be “contrary to” clearly established federal law unless it is in 
+square conflict with a decision of this Court that is controlling as to law and fact, and the state court’s 
+decision cannot involve “an unreasonable application of” clearly established federal law unless it is 
+predicated on an interpretation or application of relevant precedent that reasonable jurists would ail 
+agree is unreasonable. 
+
+For parallel reasons, Ramdass’ claim also is not barred by the new rule doctrine. Simmons 
+is not a new rule for Ramdass, it was decided before his conviction became final. Nor has Ramdass 
+asked the Court to extend the Simmons rule by applying it in a novel setting. As shown in the 
+following section, the relevant facts in Ramdass’ case are nearly identical to those in Simmons. 
+Ramdass seeks a straightforward application of the rule that Simmons applies when “the only 
+
+
+25 
+
+
+available alternative sentence to death is life without the possibility of parole.” Simmons, 512 U.S. 
+at 177 (O’Connor, J., concurring). In Ramdass’ case, as even the Fourth Circuit acknowledged, 
+everyone except the jury knew that the only alternative sentence to death was life without the 
+possibility of parole. 
+
+D. The Simmons Court Itself Used a Functional Analysis, and the Facts 
+
+Demonstrating This Also Show That Ramdass’ Case Is Indistinguishable from 
+Simmons’ Case on Both the Facts and the Law 
+
+Both the plurality and concurring opinions in Simmons are based on a functional, practical 
+analysis that eschews state-law technicalities in favor of a realistic view of the probability of future 
+release. Confronted with an argument from South Carolina that Simmons was not technically eligible 
+for parole and that he could, in any event, be released by means other than parole, the plurality 
+dismissed the state’s argument as having “little force.” Simmons, 512 U.S. at 166. 
+
+The Virginia Supreme Court and the Fourth Circuit appear to have presumed that Jonathan 
+Simmons was technically ineligible for parole, and that this factual distinction disentitled Ramdass to 
+benefit from the rule in Simmons. In truth, however, Simmons had never been declared eligible for 
+parole, and he was only functionally ineligible for parole at the time of his trial. Thus, the facts which 
+demonstrate the Court’s use of a functional analysis also demonstrate that Ramdass’ case is 
+indistinguishable from Simmons’ case on the facts and the law. 
+
+At the time of Simmons’ trial, firmly established South Carolina law vested parole eligibility 
+decisions solely in the Probation, Parole and Pardon Board. State v. McKay, 386 S.E.2d 623 (S.C. 
+1989). Based on this authority, South Carolina represented to this Court that: 
+
+at the time of the trial, no state agency had ever determined that Simmons was going 
+
+
+to be serving a sentence of life without the possibility of parole, despite the fact that 
+he had earlier pled guilty and been sentenced to a violent crime prior to this trial. The 
+
+
+26 
+
+
+importance of that distinction is that the power to make that determination did not 
+
+rest with the judiciary, but was solely vested in an executive branch agency, the South 
+
+Carolina Board of Probation, Parole and Pardon Services. State v. McKay, 300 S.C. 
+
+113, 386 S.E.2d 623 (1991) (proper for the trial court to refuse to determine whether 
+
+earlier violent offense conviction was part of one continuous course of conduct). 
+
+Accord Williams v. Commonwealth, supra, [State v.] Torrence, [406 S.E.2d 315], 
+
+323 [(1991)] (“there is no way [for the court] to be assured that the Parole Board 
+
+would reach the same conclusion as the court [on questions of parole ineligibility]”). 
+Respondent's Brief in Simmons v. South Carolina, No. 92-9059, at 95-96, 1993 WL 669003 at 
+*95-96 (brackets in original). In other words, Simmons was not technically ineligible for parole 
+under state law until the parole board said so, and at the time of his trial there was a possibility that 
+the board would reach a different conclusion than the court on the question of parole eligibility.'° 
+Although the General Counsel to the Department Corrections testified at Simmons’ trial that 
+Simmons would serve a sentence of life without parole, he qualified this testimony, indicating that 
+Simmons would be ineligible for parole only “assuming that was the second conviction not related 
+to the first violent offense... .” Joint Appendix in Simmons v. South Carolina, No. 92-9059, at 13; 
+1993 WL 669003 at *13a (emphasis added). 
+
+In his reply brief, Simmons acknowledged that Simmons had not yet been found ineligible for 
+parole. “This assertion, though technically true, is irrelevant.” Petitioner's Reply Brief in Simmons 
+v. South Carolina, No. 92-9059, at 1; 1993 WL 625970 at *1. Simmons called it irrelevant because 
+he believed that he met the statutory criteria for parole ineligibility under S.C. Code § 24-21-640, and 
+
+
+that a future declaration to this effect by the parole board would be a mere formality. 
+
+
+'S At first blush, it appeared that the murder conviction counted as Simmons’ second “strike” — 
+a fact that would have rendered him ineligible for parole under South Carolina law. The parole board 
+might have made a factual finding, however, that the murder was related to the violent crime that 
+constituted Simmons’ first “strike.” The result of such a finding would be that Simmons was still 
+eligible for parole because offenses that were part of a “continuous course of conduct” could not 
+count as separate “strikes.” See S.C. Code Ann. § 24-21-640 (1993 Supp.). 
+
+
+27 
+
+
+At oral argument, counsel for South Carolina did not retreat from the position, expressed in 
+his brief, that Simmons was not technically ineligible for parole until the parole board made the 
+required finding. Transcript’6f Oral Argument in Simmons v. South Carolina, No. 92-9059, at 23-50; 
+1994 WL 663636 at *23-S0 (Jan. 18, 1994). | 
+
+Discounting South Carolina’s make-weight argument that Simmons was not technically 
+eligible for parole, this Court considered Simmons’ ineligibility for parole to have been conceded. 
+“Respondent admits that an instruction informing the jury that petitioner is ineligible for parole is 
+legally accurate.” Simmons, 512 U.S. 166 (plurality opinion). The Court obviously could not have 
+characterized any of South Carolina’s statements as an admission of parole ineligibility unless the 
+Court was using a functional, rather than a technical, definition of that term. The Court then quickly 
+disposed of the remainder of South Carolina's equally technical “possibility of release” arguments, 
+e.g., pardon, change of law, or escape: “To the extent that the state opposes even a simple parole- 
+ineligibility instruction because of hypothetical future developments, the argument has little force.” 
+Id., 512 U.S. at 166 (piurality opinion). 
+
+For purposes of applying the rule in Simmons to Ramdass’ case, the fact that a Virginia court 
+had not yet performed the ministerial act of entering judgment on Ramdass’ conviction for the 
+Domino’s Pizza robbery is of no more consequence than the fact that a South Carolina parole board 
+
+
+had not yet determined whether Simmons’ offenses were part of a continuous course of conduct. 
+
+
+Both acts are the kind of “hypothetical future developments” that the Court dismissed out of hand. - 
+
+
+The outcome of these future developments was at least as much a foregone conclusion in 
+Ramdass’ case as it was in Simmons’ case: everyone except the jury knew that the trial judge 
+
+
+presiding over the Domino’s Pizza matter was going to make Ramdass ineligible for parole by 
+
+
+28 
+
+
+performing the ministerial act of entering judgment, see supra, n.4, and everyone believed that the 
+South Carolina parole board was going to make Simmons ineligible for parole by finding that the 
+murder and his prior offenses were not part of a continuous course of conduct and that they counted 
+as separate “strikes.” No court throughout the present proceedings has quarreled with this 
+conclusion: Ramdass, like Simmons, was not functionally eligible for parole at the time of his trial. 
+underscores the pragmatic nature of this Court’s analysis. “. is consistent with the fact that the Court 
+repeatedly and reasonably spoke not just about ineligibility for parole under the strict letter of state 
+law, but also about imprisonment without “the possibility of parole.” See Simmons, 512 U.S. at 177 
+(O’Connor, J., concurring) (“I agree that due process requires that the defendant be allowed to 
+[inform the jury] in cases in which the only available alternative sentence to death is life imprisonment 
+without possibility of parole and the prosecution argues that the defendant will pose a threat to 
+society in the future”); see also id. at 162, 165 (plurality opinion). If Jonathan Simmons had a due 
+process right to inform the jury that he was ineligible for parole, even though he was technically still 
+eligible under state law on the date of his sentencing trial, then Bobby Ramdass had the same due 
+process right, even though he was technically still eligible for parole until the Domino’s Pizza judge 
+performed the ministerial act of entering judgment. 
+
+A functional, realistic assessment of eligibility for constitutional protections is consistent with 
+this Court’s analysis of the identical issue in Simmons, and with its analysis of closely analogous 
+issues in other cases. To the extent that the Fourth Circuit approved a rigid technical analysis and — 
+failed to assess the constitutional consequences of the state’s procedural laws, the Fourth Circuit’s 
+
+
+error is of special and recurring importance. This Court’s review is, thus well warranted. 
+
+
+29 
+
+
+vt WHETHER THERE IS A DUE PROCESS RIGHT TO THE ASSISTANCE OF A 
+PSYCHIATRIST IN THE SENTENCING PHASE OF A CAPITAL CASE FOR 
+PURPOSES OTHER THAN REBUTTING PSYCHIATRIC EVIDENCE OF FUTURE 
+DANGEROUSNESS IS A QUESTION OF NATIONAL IMPORTANCE ON WHICH 
+THE COURTS OF APPEALS ARE SPLIT 
+This Court has repeatedly held that the Fourteenth Amendment requires states to provide 
+
+indigent criminal defendants with the “basic tools of an adequate defense or appeal, when those tools 
+
+are available for a price to other prisoners.” Britt v. North Carolina, 404 U.S. 226, 227 (1971). See, 
+
+e.g., Griffin v. Illinois, 351 U.S. 12 (1956) (right to trial transcript for appeal); Burns v. Ohio, 360 
+
+U.S. 252 (1959) (right to appeal without paying filing fee); Gideon v. Wainwright, 372 U.S. 335 
+
+(1963) (right to assistance of counsel at trial); Douglas v. California, 372 U.S. 353 (1963) (right to 
+
+assistance of counsel on first aed as of right); see also Little v. Streater, 452 U.S. 1 (1981) (right 
+
+in quasi-criminal proceeding to blood grouping tests). 
+
+In Ake v. Oklahoma, 470 U.S. 68 (1985), the Court affirmed that a psychiatrist can be a “basic 
+tool” within the meaning of the Fourteenth Amendment. It held that the state must assure access to 
+a competent psychiatrist when an indigent defendant “demonstrates that his sanity at the time of the 
+offense is to be a significant factor at trial, .. . [or] when the State presents psychiatric evidence of 
+the defendant’s future dangerousness” at a capital sentencing proceeding. /d. at 83. Although this 
+holding nominally reflects the particular facts and circumstances presented in Ake, the Court also 
+made quite clear the breadth of its ruling by setting out a three-part balancing test for determining 
+whether any “tool” is “important enough to preparation of a defense to require the State to provide” 
+that assistance: “The first [inquiry] is the private interest that will be affected by the action of the 
+State. The second is the governmental interest that will be affected if the safeguard is to be provided. 
+The third is the probable value of the additional or substitute procedural safeguards that are sought, 
+
+
+30 
+
+
+and the risk of an erroneous deprivation of the affected interest if those safeguards are not provided.” 
+Ake, 470 U.S. at 77. 
+
+As shown below, most federal habeas courts to address the issue have concheded that Ake is 
+not limited to its facts. The Fourth Circuit, however, as it did in Williams (Terry) v. Taylor, held here 
+that 28 U.S.C. § 2254(d)(1) permits the grant of habeas corpus relief for a claim based on Ake only 
+where the petition presents the identical facts and circumstances that were present in Ake. In the 
+penalty phase, according to the Fourth Circuit, that means that there is a constitutional right to a 
+mental health expert under Ake only when the prosecution has introduced psychiatric evidence of 
+future dangerousness. App.14. In that court’s view, there is no “clearly established Federal law, as 
+determined by the Supreme Court of the United States,” which secngniass an indigent’s right to the 
+assistance of a psychiatrist in anything other this precise factual setting. Section 2254(d)(1). The 
+Court should grant certiorari to clarify the well-grounded rule in Ake and to address the special and 
+important question of the degree of factual identity required by Section 2254(d)(1). 
+
+
+A. The Fourth Circuit’s Reading of Ake Conflicts with the Decisions of Most 
+Courts of Appeals That Have Addressed the Issue 
+
+
+In habeas corpus cases similar to Ramdass’ case, the courts of appeals have characterized the 
+
+
+'® Although great caution must be exercised in drawing inferences from a GVR, the remand of 
+Bowden v. Francis, 470 U.S. 1079 (1985), supports the proposition that this Court did not intend 
+to limit Ake to its facts. The penalty phase claim in Bowden’s habeas petition alleged only “that 
+petitioner was entitled to the assistance of a psychiatrist to present mitigating evidence.” Id. at 1080 
+(statement of O’Connor, J., dissenting) (emphasis added). Further, the state had not “attempt[ed] 
+to utilize the aggravating circumstance of ‘future violence’, so therefore, Petitioner was not denied 
+the right to rebut such evidence.” Respondent’s Brief in Opposition to Certiorari, Bowden v. Francis, 
+No. 83-7032, at 10. On remand, Bowden was denied collateral relief because of these factual 
+differences. See Bowden v. Kemp, 767 F.2d 761, 764 n.5 (11" Cir. 1985) (“Unlike the sentencing 
+situation in Ake, Bowden's prosecutor had no need to present psychiatric evidence to show an 
+aggravating factor, and he presented none). Bowden did not test the scope of Ake by asking this 
+Court to review the court of appeals’ decision following remand. 
+
+
+31 
+
+
+core rule in Ake in different ways. With one exception, they all read Ake as establishing a broader rule 
+than does the Fourth Circuit. The Fourth Circuit is one of only two courts of appeals that emr oy 
+a narrow, literal reading of Ake: in that court’s view, an indigent defendant is constitutionally entitled 
+to the assistance of a psychiatrist in the penalty phase of a capital case if and only “if, in arguing future 
+dangerousness in the sentencing phase, the prosecution used expert psychiatric testimony.” App. 14. 
+The Fourth Circuit rejected Ramdass’ allegation regarding Dr. Samenow on the sole ground that 
+there is no clearly established constitutional right to an expert in the penalty phase if the prosecution 
+does not present psychiatric evidence of future dangerousness. /d. 
+
+The Fifth Circuit has read Ake in a similarly restrictive manner. In Goodwin v. Johnson, 132 
+F.3d 162 (5" Cir. 1998), the court said that due process entitles an indigent defendant to the 
+appointment of a psychiatric expert “to present rebuttal evidence at sentencing ‘when the State 
+present psychiatric olden of the defendant’s future dangerousness.’... The state presented no 
+such evidence in this case.” /d. at 188. 
+
+Other circuits, presented with Ake claims in habeas corpus petitions, have read the basic 
+holding in Ake more broadly. Notwithstanding the antiretroactivity doctrine, the Tenth Circuit 
+repeatedly has held that Ake requires “the appointment of a mental health expert to assist the 
+defendant in the penalty phase when the State presents evidence, psychiatric or otherwise, concerning 
+the defendant’s future dangerousness, and the defendant establishes the likelihood that his mental 
+condition could have been a significant mitigating factor.” Moore v. Reynolds, 153 F.3d 1086, 
+1108-09 (10* Cir. 1998) (emphasis added) (quoting Brewer v. Reynolds, 51 F.3d 1519, 1529 (10® 
+Cir 1995), cert. denied, 516 U.S. 1123 (1996), in turn citing Liles v. Saffle, 945 F.2d 333, 341 (10 
+
+
+Cir. 1991)), cert. denied, 119 S. Ct. 1266 (1999). 
+
+
+32 
+
+
+The en banc Eleventh Circuit, in Clisby v. Jones, 960 F.2d 925 (11 Cir. 1992), read the core 
+rule in Ake even more liberally, dismissing the restrictive view that the constitutional right to a mental 
+health expert arises only when the state argues future dangerousness. “As applied to the penalty 
+phase of a capital case, Ake requires a state to provide the capital defendant with such access to a 
+competent psychiatrist upon a preliminary showing to the trial court that the defendant's mental 
+Status is to be a significant factor at sentencing.” Id. at 928-29 (emphasis added). The state urged 
+the federal habeas court in Clisby to “adopt a narrow reading of Ake that would restrict a capital 
+defendant's right to access to a competent psychiatrist for the evaluation, preparation, and 
+presentation of mitigating ations at sentencing to a case in which the state has introduced expert 
+testimony regarding the defendant's future dangerousness.” /d. at 929 n.7. The en banc Eleventh 
+Circuit declined. “We reject such a categorical limitation of Ake 's scope.” Jd. 
+
+In Starr v. Lockhart, 23 F.3d 1280 (8" Cir.), cert. denied, 513 U.S. 995 (1994), the 
+prosecution had “presented no evidence as to future dangerousness.” Jd. at 1293 n.11. Nonetheless, 
+the Eighth Circuit, like the Eleventh, held in a habeas corpus case that the failure to appoint an 
+independent mental health expert violated the defendant’s right to due process. “Like Ake, Starr’s 
+mental condition was his only viable defense and his strongest argument in mitigation for sentencing 
+purposes. Thus, Starr’s situation falls well within Ake’s dictates that a capital defendant whose 
+mental condition is seriously in issue be provided with expert assistance.” /d. at 1288. 
+
+Similarly in Smith v. McCormick, 914 F.2d 1153,1157 (9" Cir. 1990), a case in which there 
+was no indication that the prosecution had presented evidence of future dangerousness, the habeas 
+court said that “due process requires access to a psychiatric examination on relevant issues, to the 
+testimony of the psychiatrist, and to assistance in preparation at the sentencing phase.” 
+
+
+33 
+
+
+Finally, in Terry v. Rees, 985 F.2d 283 (6" Cir. 1993), the habeas court read Ake as 
+establishing a rule that is not limited to the assistance of psychiatrists in particular circumstances, but 
+applies equally to other kinds of forensic experts in other circumstances. Relying solely on Ake, the 
+Sixth Circuit concluded that the petitioner “was deprived of the opportunity to present an effective 
+defense when he was denied an independent pathologist in order to challenge the government’s 
+position as to the victim’s cause of death.” /d. at 284. 
+
+It is worth noting that all of the cases cited above were habeas corpus cases brought under 
+28 U.S.C. § 2254. All were cases decided after this Court imposed the antiretroactivity doctrine in 
+Teague. All were cases where the federal habeas court had to define the scope of the core rule in 
+Ake. None, except the Fourth and Fifth Circuits, concluded that the core rule was limited to the 
+unique factual circumstances present in Ake, where the prosecution presented psychiatric evidence 
+of future dangerousness. The Court should grant certiorari both to resolve the conflict in the circuits 
+and, on a national scale, to clarify its core hold in Ake. 
+
+
+B. The Fourth Circuit Failed To Consider the Substance or the Function of the 
+Balancing Test That Is a Key Component of the Rule in Ake 
+
+
+The Fourth Circuit’s limited and literal reading of Ake wholly ignores the portion of this 
+Court’s opinion which sets out the three-part balancing test for determining whether a particular form 
+of assistance is a “basic tools) of an adequate defense.” Ake, 470 US. at 77. That test is an essential 
+part of this Court’s opinion. By including this test, the Court reasonably signaled that it was 
+. announcing “a rule designed for the specific purpose of evaluating a myriad of factual contexts,” 
+Wright v. West, SOS U.S. 277, 309 (1992) (Kennedy, J., concurring in the judgment). Announcing 
+
+
+a rule for decision-making, rather than merely rendering a ruling about a defendant’s access to one 
+
+
+34 
+
+
+specific kind of expert under very specific circumstances, is consistent with the Court’s important, 
+overarching role in the judicial system and the Court’s limited resources. When a rule is designed to 
+evaluate different factual contexts, “it will be the infrequent case that yields a result so novel that it 
+forges a new rule, one not dictated by precedent.” Jd. 
+
+Under the three-part balancing test, a defendant’s interest in presenting psychiatric testimony 
+to rebut future dangerousness is compelling, regardless whether the state’s evidence of future 
+dangerousness is psychiatric or nonpsychiatric. The defendant’s interest in presenting the jury with 
+truthful information which supports a sentence less than death is equally compelling. No state interest 
+weighs against this right except perhaps its economy — an interest this Court squarely rejected in 
+Ake. The re value of the psychiatric assistance, and the risk of error if such assistance is not 
+offered, also weigh in Ramdass’ favor. Psychiatric evidence can show that the defendant is not a 
+future danger, even when the prosecution’s case for future dangerousness is not based on psychiatric 
+testimony. It also can show dramatically why the ultimate sentence is not appropriate in a particular 
+case. That is particularly true when half of the state’s statutory mitigating factors relate to mental 
+condition. See Virginia Code § 19.2-264.3:1."” 
+
+Cc. The Clarity of the Rule in Ake Was Not Diminished by Passage of AEDPA 
+
+
+Although the Fourth Circuit rejected Ramdass’ claim under 28 U.S.C. § 2254(d)(1) rather 
+
+
+'7 The Fourth Circuit’s reading of Ake also would have the perverse effect of putting the 
+prosecution in control of the defendant’s access to resources. In states like Virginia, where the 
+prosecutor has no pretrial obligation to disclose witnesses or produce expert opinions that have not 
+been reduced to a written report, see Virginia Supreme Court Rule 3A:11(b), both the indigent 
+defendant and the trial court may be left in the dark — until the middle of the sentencing trial — 
+about whether the condition precedent exists that entitles the defendant to the assistance of a 
+psychiatrist. Nothing in Ake contemplates such a disruptive result. 
+
+
+35 
+
+
+than under Teague, this is a difference without a distinction. In the pre-AEDPA cases cited above, 
+the Sixth, Eighth, Ninth, Tenth, and Eleventh Circuits all recognized that the clearly established rule 
+in Ake is broader than what the Fourth Circuit has allowed. The clarity of the established rule in Ake 
+was not diminished by passage of AEDPA. 
+
+Nor has AEDPA meaningfully changed the test for determining whether a rule is “clearly 
+established.” Ramdass agrees with the petitioner in Williams (Terry) v. Taylor, that Section 
+2254(d)(1) essentially codifies the new rule doctrine, and it does not impose a stricter standard. 
+Under Section 2254(d)(1), just as under Jeague, a federal habeas court’s authority to grant Ramdass 
+collateral relief depends on whether Ake clearly provides that an indigent defendant is entitled to the 
+assistance of a competent psychiatrist in a capital sentencing trial when the defendant’s mental 
+condition is at issue, regardless whether or not the prosecution presents psychiatric evidence of future 
+dangerousness."* 
+
+If, as Ramdass contends, and as the majority of circuits to address the issue have concluded, 
+the basic rule in Ake is not narrowly limited to capital cases where the prosecution presents 
+psychiatric evidence of future dangerousness, then the Virginia Supreme Court’s decision in this case 
+was contrary to or an unreasonable application of Ake, and the Fourth Circuit erred when it failed to 
+grant of the writ. 
+
+D. This Case Presents a Good Vehicle for Addressing the Question Presented 
+
+This Court has previously declined to consider the scope of an indigent defendant’s access 
+
+
+to assistance of experts because the defendant failed to make a sufficient showing of need. See, e.g., 
+
+
+* In Rogers v. Gibson, 173 F.3d 1278, 1285 n.5 (10 Cir. 1999), the court unequivocally 
+reaffirmed its reading of Ake. It questioned, but did not decide, whether 28 U.S.C. § 2254(d)(1), as 
+amended by AEDPA, might require it to defer to a state court’s contrary interpretation. 
+
+
+36 
+
+
+Caldwell v. Mississippi, 472 U.S. 320, 323 n.1 (1985) (declining to consider whether defendant had 
+constitutional right to criminal investigator, fingerprint expert, and ballistics expert because “the 
+requests were accompanied by no showing as to their reasonableness”). 
+
+Ramdass’ case does not suffer from that threshold infirmity. There was no dispute below 
+about the adequacy of Ramdass’ request for the assistance of a mental health expert. The state did 
+not oppose Ramdass’ pretrial motion, and the trial court expressly granted that motion. Ramdass’ 
+case thus presents a good vehicle for review. There is a strong probability that if Ramdass’ claim is 
+considered on the merits, he will be entitled to collateral relief The defendant’s right to due process 
+clearly is violated when the state’s statutory aggravating and mitigating factors refer to depravity, 
+mental illness, and mitigation, but the trial court appoints a mental health expert who does not believe 
+in mental illness or mitigation. An expert like Dr. Samenow was tantamount to no expert at all. 
+Iii ©THE COURT’S DECISION IN WILLIAMS v. TAYLOR MAY BE DISPOSITIVE OF 
+
+SOME OF THE ISSUES PRESENTED IN THIS PETITION 
+
+As Ramdass has discussed above in Sections I(C) and II(C), there is a close relationship 
+between parts of both of the issues presented in this case and the questions about 28 U.S.C 
+§ 2254(d)(1) that are pending before the Court in Williams (Terry) v. Taylor. Although Ramdass 
+believes he has given the Court ample reason to grant his petition for certiorari without waiting for 
+the decision in Williams, it would be equally appropriate for the Court to stay consideration of 
+
+
+Ramdass’ petition pending the decision in Williams. 
+
+
+37 
+
+
+CONCLUSION 
+
+
+The petition for writ of certiorari should be granted. 
+
+
+Michele J. Brace 
+
+
+VIRGINIA CAPITAL REPRESENTATION . Ry 
+
+RESOURCE CENTER VANDEVENTER BLACK, LLP 
+1001 East Main Street 500 World Trade Center 
+Richmond, Virginia 23219 Norfolk, Virginia 23510 
+(804) 643-6845 (757) 466-8600 
+
+
+*Counsel of Record 
+
+
+CERTIFICATE OF SERVICE 
+
+
+I hereby certify that one copy of each of the following: 
+Motion For Leave To Proceed In Forma Pauperis 
+Application For A Stay Of Execution 
+Petition For Writ Of Certiorari 
+Appendix to Petition For Writ of Certiorari 
+was served by telecopy and/or hand delivery and First Class Mail on counsel for the Respondent, 
+Katherine P. Baldwin, Esq., Assistant Attorney General, Criminal Litigation Section, 
+Co nwealth of Virginia, 900 East Main Street, Richmond, VA 23219 on 
+
+
+“1 [1097 
+or 
+
+

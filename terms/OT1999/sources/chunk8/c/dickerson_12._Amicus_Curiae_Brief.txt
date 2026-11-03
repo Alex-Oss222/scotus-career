@@ -1,0 +1,1957 @@
+Sun a] om (NY FI 
+
+
+No. 99-5525 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+v. 
+UNITED STATES OF AMERICA, 
+
+
+Respondent. 
+
+
+On Writ oF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT 
+
+
+BRIEF OF GRIFFIN B. BELL, et al. 
+AS AMICI CURIAE IN SUPPORT OF PETITIONER 
+
+
+DanieEL C. RICHMAN Rosert S. Litt 
+FORDHAM UNIVERSITY Counsel of Record 
+SCHOOL OF Law JONATHAN R. STREETER 
+140 West 62nd Street JOHN A. FREEDMAN 
+New York, New York 10023 ARNOLD & PORTER 
+(212) 636-6845 555 Twelfth Street, N.W. 
+Washington, D.C. 20004 
+(202) 942-5000 
+Attorneys for Amici Curiae 
+
+
+157529 @ Counsei Press LLC 
+(800) 274-3321 - (800) 359-6859 
+
+
+pIMPnTLy 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+INTEREST OF AMICI CURIAE cescccscscccscsesssesesecesssssosecssscenes 1 
+SUMMARY OF ARGUMENT ....ccccccccscccscsesesecececesecececececeees 1 
+pT RS RR tae DS Poe en ens RN 3 
+I. AFFIRMING THE CONSTITUTIONALITY OF 
+SECTION 3501 WOULD REQUIRE 
+OVERTURNING MIRANDA ceccsscsscscsecessssesecececesseseessesevens 3 
+
+
+II. BECAUSE THE MIRANDA RULE DOES NOT 
+HAMPER EFFECTIVE LAW ENFORCEMENT 
+AND IS DEEPLY ROOTED IN COMMUNITY 
+EXPECTATIONS, THE PRINCIPLE OF STARE 
+DECISIS STRONGLY COUNSELS AGAINST 
+OVERRULINGS MIRANDA ...cccsccccescsccssccescsssvssosesosssoseosees 5 
+
+
+A. Far from Being “Outdated, Ill-Founded or 
+Unworkable,” the Miranda Warnings Promote 
+
+
+Effective Law Enforcement ..................:sccceeeeeeeeee 6 
+
+1. Miranda Provides Bright Lines for Law 
+Enforcement to Follow..............:cccsseeeeeeeeeees 11 
+
+2. Miranda Assists in Securing Convictions 
+NE cisthissiintacrninteapeccteeninehiitnstvencenens 19 
+
+B. Settled Community Expectations Weigh 
+
+Heavily Against Overturning Miranda .............. 22 
+
+1. The Public Has Accepted and Developed 
+Strong Expectations About Miranda ........... 2? 
+
+2. Law Enforcement Has Developed Settled 
+Expectations Concerning Miranda .............. 26 
+
+
+ARF eG cennnsaiteicnsonntinsdnnnapctncemanstbinntatemaiatesneeneneenets 30 
+
+
+ofthe 
+TABLE OF AUTHORITIES 
+. Page(s) 
+Arizona v. Roberson, 486 U.S. 675 (1988) ........:c00000 ... 26 
+Ashcraft v. Tennessee, 322 U.S. 143 (1944) ........006 14, 21 
+Berkemer v. McCarty, 468 U.S. 420 (1984) ...... 13, 20, 26 
+Blackburn v. Alabama, 361 U.S. 199 (1960)........... 14, 16 
+Bram v. United States, 168 U.S. 532 (1897)...........:0c008 14 
+Brown v. Allen, 344 U.S. 443 (1953) ......cccccceecceeeeeeeeeeeee 21 
+California v. Acevedo, 500 U.S. 565 (1991) .....:cccccccceeees 6 
+Chambers v. Florida, 309 U.S. 227 (1940)...........0. 14, 21 
+Cicenia v. La Gay, 357 U.S. 504 (1958).....sccesceeeesenees 21 
+City of Boerne v. Flores, 521 U.S. 507 (1997). ......cccc00 5 
+Clewis v. Texas, 386 U.S. 707 (1967) ..........ccccccseeeeeeeeeees 14 
+Colorado v. Bertine, 479 U.S. 367 (1987) .........cceccceeeee 18 
+Colorado v. Connelly, 479 U.S. 157 (1986) ...........:0008 16 
+nai v. Kentucky, 476 U.S. 683 (1986) ..........ccccceceeees 20 
+Crooker v. California, 357 U.S. 433 (1958)...... 14, 16, 21 
+Culombe v. Connecticut, 367 U.S. 568 (1961) .............. 16 
+
+
+Davis v. North Carolina, 384 U.S. 737 (1966)........ 14, 15 
+
+
+Davis v. United States, 512 U.S. 452 (1994) ........... 11, 26 
+Duckworth v. Eagan, 492 U.S. 195 (1989) ........c.ccccccee. 26 
+Edwards v. Arizona, 451 U.S. 477 (1981) .evscsssosssoee 26 
+Fare v. Michael C., 439 U.S. 1310 (1978) 
+a ccrnrtnncncnnccnnsnsanes 11 
+Fare v. Michael C., 442 U.S. 707 (1979).............00. 13,19 
+Fikes v. Alabama, 352 U.S. 191 (1957) .......sve--00+-« 14, 15 
+Gallegos v. Colorado, 370 U.S. 49 (1962) «0.0.0.0... 14 
+Gallegos v. Nebraska, 342 U.S. 55 (1951) .......c....0.00000 14 
+
+
+Greenwald v. Wisconsin, 390 U.S. 519 (1968)......... 14, 15 
+Haley v. Ohio, 332 U.S. 596 (1948).........ccccccccccceeeseeeeees 14 
+Harris v. South Carolina, 338 U.S. 68 (1949)......... 14, 15 
+
+
+Haynes v. Washington, 373 U.S. 503 (1963)..... 15, 16, 21 
+
+
+Illinois v. Perkins, 496 U.S. 292 (1990).....cccccccceceeeeeees 27 
+Leyra v. Denno, 347 U.S. 556 (1954) .........ccccccccceeeeseeees 14 
+Lisenba v. California, 314 U.S. 219 (1941).......cccceeee 21 
+Lynumn v. Illinois, 372 U.S. 528 (1963) ...........cccc0ce000+ 15 
+Malinski v. New York, 324 U.S. 401 (1945)............0000. 14 
+
+
+-iv- 
+
+
+Mallory v. United States, 354 U.S. 449 (1957)..........000. 15 
+Michigan v. Tucker, 417 U.S. 433 (1974).......ccccscceseeeeee 12 
+Minnick v. Mississippi, 498 U.S. 146 (1990)... | ......... 13 
+Miranda vy. Arizona, 384 U.S. 436 (1966)............... passim 
+Moran v. Burbine, 475 U.S. 412 (1986)........ 7, 11, 26, 27 
+New York v. Quarles, 467 U.S. 649 (1984).............. 26, 27 
+Oregon v. Elstad, 470 U.S. 298 (1985) pesnasenncsenenesece 12, 26 
+Payne v. Arkansas, 356 U.S. 560 (1958) ........... 14, 15, 21 
+Payne v. Tennessee, 501 U.S. 808 (1991)...........00000. 6, 22 
+Planned Parenthood of Sutbesen Pa. 
+
+v. Casey, 505 U.S. 833 (1992) ........cccccecceceseees 2, 6, 22 
+Reck v. Pate, 367 U.S. 432 (1961) .......ccccccceceeseeeerees 14, 15 
+Rhode Island v. Innis, 446 U.S. 291 (1980).............-. 7, 26 
+Segura v. United States, 468 U.S. 796 (1984) ......... 27, 28 
+Solem v. Stumes, 465 U.S. 638 (1984) .........ccccecceceseeeeees 26 
+Spano v. New York, 360 U.S. 315 (1959)........... 14, 15, 21 
+Stein v. New York, 346 U.S. 156 (1953).......ccccccccceeeeeeeee 21 
+Thomas v. Arizona, 356 U.S. 390 (1958)............00-+. 15, 21 
+
+
+Townsend v. Sain, ee ee os 
+
+
+-V- 
+Turner v. Pennsylvania, 338 U.S. 62 (1949) .cossssocssesee 15 
+United States v. Dickerson, 
+
+166 F.3d 667 (4th Cir. 1999).........ccccccseeseerseenneeeseees 4 
+United States v. Sharpe, 470 U.S. 675 (1985) .........--+-+ 17 
+Vasquez v. Hillery, 474 U.S. 254 (1986)............0+ 5, 6, 22 
+Ward v. Texas, 316 U.S. 547 (1942) ......cccccccceeereeeees 14, 15 
+Watts v. Indiana, 338 U.S. 49 (1949).........ccccceeseeeees 14, 15 
+Withrow v. Williams, 507 U.S. 680 (1993) .........0c0-00++++ 26 
+Wan v. United States, 266 U.S. 1 (1924) ...........000++ 14,15 
+
+Statutes 
+BB ULB, © SOG cccccccccesccsssesssesssensssessscsssnsesssesssseess passim 
+Publications 
+Affirm “Miranda” Decision, 
+
+St. Petersburg Times, Dec. 13, 1999.............ccccceeeee 24 
+American Bar Association Special Committee on 
+
+Criminal Justice in a Free Society, 
+
+Criminal Justice in Crisis (1988)...........c.c000ceeeeeeeees 8 
+
+
+Liva Baker, Miranda: Crime, Law and 
+A 7 
+
+
+- vi - 
+
+
+Paul G. Cassell, Miranda's Social Costs: An Empirical 
+Reassessment, 90 Nw. U. L. Rev. 387 (1996)............ 8 
+
+
+David Cole, No Equal Justice: Race and Class in the 
+
+
+American Criminal Justice System (1999)..........0+. 25 
+
+
+Court Should Protect Suspects’ Rights, Atlanta Const., 
+PUR, CER, FEO cccetersensvnsmmenseevemnmnmnsemnes 23 
+
+
+SOUR, Clg BDU ccsscssvesssrssssssessecasssstessrtetsenepessennsssesonsese 24 
+
+
+UD. G, FRG ccnssnssnssnersremecnsecesevsmsnensnsansesennmmmemanne 23 
+
+
+Double Jeopardy for Miranda, Press-Enterprise 
+(Riverside, Cal.), Dec. 9, 1999..............ccccccccesesereeees 24 
+
+
+T. Gibbons & J. Casey, Ed Meese ’'s War On Miranda 
+Draws Scant Support, Chicago Sun-Times, 
+Ps Bd, Ware Pecenssmnenecetsenasemematasidenteninteemetniunige 10 
+
+
+High Court Should Leave Miranda Rule Alone, 
+Arizona Republic, Dec. 15, 1999.00... eececeeeeeeee 23 
+
+
+J. Edgar Hoover, Civil Liberties and Law 
+Enforcement: The Role of the FBI, 37 
+aie HT, pe ee etertntendtttnntonsiesnenenetncssanieniens 28 
+
+
+If Miranda Ain't Broke, Arizona Daily Star, 
+Ss Wes Cer ccerssentiensssnnemenssnnsintimeninitansmapasieaetionns 23 
+
+
+Keep Miranda, Press Democrat (Santa Rosa, Cal.), 
+, Th, Fe cenenmteperintennnviaiiiinnmninnseninens 24 
+
+
+- Vii - 
+
+
+Keep Reading them their Rights, USA Today, 
+Ds Gi Fe ccnssensnstntnesqnemstemmmsessenesmieenemecestin 24 
+
+
+SD, By, FEO cevesnctensnsccscenssssemniesenemeiantenamesemennene 23 
+S. Kraske & T. Samuels, Court to Review Miranda 
+
+Issues But Area Police Say Ruling Fine As Is, 
+
+Kansas City Star, Dec. 7, 1999 oo... cccceseeeeeeeeeeeeees 9 
+
+
+Leave Miranda Alone in Old Age, Dayton Daily 
+SEU, BUD, DE, GID ccecnssscsssscssecssensnsssestecenes Ripeseesenes 23 
+
+
+B. Masters & T. Jackman, Justice System Worries 
+About ‘Miranda,’ Wash. Post, Feb. 16, 1999............. 8 
+
+
+T. Mauro, Undoing Tradition? Legal Renegade’s 
+Mission: Upend Enduring Decision, USA 
+
+
+Be Gap CP tccccnnctnnesnteninntantenasntmsestnsnsnssssenes 9 
+Miranda Protects Against Abuses, Chicago Daily 
+
+Ee ER ie SIE cxcecnentenemrndnsscsemenanemiiuennscensane 23 
+Miranda Revisited, N.Y. Times, Dec. 7, 1999............... 24 
+Miranda Should Stand — Rights Warnings Improve 
+
+Justice, Greensboro News & Record, 
+
+SU, CE GER enrnresnesetsncnsieniensitncinserentoneenmmineninnenen 23 
+
+
+Miranda Warnings — More Beneficial Than Not, 
+San Francisco Chron., Dec. 8, 1999...............cc0ee0000 24 
+
+
+- Vili - 
+
+
+Miranda Was, and Is, Sound, Omaha World-Herald, 
+
+
+Miranda's Right to Remain, Roanoke Times & 
+
+
+World News, Dec. 8, 1999 .0...........cccccceeeeeeeeeeeeeseeeees 24 
+
+
+No Need to Change Miranda Warnings, News 
+
+
+Tribune (Tacoma, Wash.), Dec. 13, 1999............00+. 23 
+
+
+T. Ove, Miranda Warning Facing Challenge in 
+Supreme Court; Pittsburgh Post-Gazette, 
+
+
+FaR. 10, BOGD ..ccccsccrecsccscccecoscrcsesoscessosssssososssssssossooeses 11 
+
+
+E. Paz-Martinez, Police Chiefs Defend Miranda 
+Decision Against Meese Threats, 
+Boston Globe, Feb. 5, 1987..........cccccccccceceseeeeeeees 
+
+
+Police Must Spell Out Suspects Rights, Seattle Post- 
+Intelligencer, Dec. 8, 1999 .........csccceeseereeereeereeens 
+
+
+Preserve ‘Miranda Rights,” Providence Journal, 
+BGR. BB, BEDE ccccconserssscscncamecsictbesseeemnsseenstssceenses 
+FD, BE ccceccccsnesctnsensnnnsssenessanprtseneseninmpeceiens 
+
+
+Protecting Individual Dignity, St. Louis Post- 
+Diapatats, ss. 7, BGPP ccccccccsrcsscessscssevcsssscesssocsoess 
+
+
+Protecting Miranda, Chicago Sun-Times, 
+Des. B, 1DDD .ncccccccecsccccscecconssescsssscssosovsssscsnocsssonses 
+
+
+Read ‘em Their Rights: Miranda Ruling Should 
+Remain Part of American Culture, Sarasota 
+Herald-Tribune, Dec. 12, 1999 .00.............cceeeeeee 
+
+
+-ix- 
+
+
+Rights, Not Technicalities, Courier-Journal 
+
+
+(Louisville, Ky.), Dec. 11, 1999...........cccccccceeeeeeeeeees 23 
+LL. Rodriguez, Attorneys Say Miranda Ideal As Is, 
+
+Houston Chron., Jan. 23, 1987 .........:cccccesseeseeeeseeeees 10 
+D. E. Rovella, ‘Miranda’ Upheaval Unlikely, Nat’! 
+
+Scns MED ig: CUTE crrcnnnnidcioncbtcdattnicnedatiedinidntnteidctniniaces 10 
+Save Miranda Decision — It’s a Constitutional 
+
+Right, Syracuse Herald-Journal, Dec. 8, 1999......... 24 
+Saving Miranda, Detroit News, Dec. 8, 1999................ 23 
+
+
+Self-Incrimination Save Miranda, Virginian-Pilot 
+and Ledger-Star, Dec. 24, 1999 ooo....ccccccccsssseeeeeeeees 24 
+
+
+Stephen J. Schulhofer, Miranda's Practical Effect: 
+Substantial Benefits and Vanishingly Small 
+Social Costs, 90 Nw. U. L. Rev. 500 (1996).............. 8 
+
+
+Silent Right, The Columbian (Vancouver, Wash.), 
+ih: i TE ntiestiensensadcncneccennbtedinennciiticeninmndanesemnsiesees 23 
+
+
+B. Solomon, Meese Sets Ambitious Agenda That 
+Challenges Fundamental Legal Beliefs, 17 Nat’! 
+J. BEGD (NOV. 23, 19S) ..cccccccescscccscceccsescsccsessosssocseoeees 9 
+
+
+Supreme Court Should Uphold Miranda Ruling, 
+Portland Press Herald, Dec. 8, 1999 .0.........cccceccesees 24 
+
+
+That Challenge to the Miranda Rule, Tampa 
+I Gi Cee icetcicnnintotsenencnsescsinencessenccsensccees 24 
+
+
+“Xe 
+
+
+The Clinton Justice Department's Refusal to 
+Enforce the Law on Voluntary Confessions, 
+
+
+Hearing Before the Subcomm. on Criminal 
+Justice Oversight of the Senate Comm. on the 
+
+
+Judiciary, 106th Cong. 1* Sess. (May 13, 1999)....... 8 
+
+
+The Folly of Junking Miranda, Chicago Tribune, 
+UU, Fi, DU sntrcinciesiitidnieneinaiaanininebaiibaasuiantiaeiininieiita 23 
+
+
+INTEREST OF AMICI CURIAE 
+
+
+This brief is filed on behalf of numerous present and 
+former federal, state and local flaw enforcement officers and 
+prosecutors who share the view that Miranda v. Arizona, 384 
+U.S. 436 (1966) should not be overturned because it has 
+become a fundamental part of our criminal justice system 
+and because it promotes fair and effective law enforcement.’ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Thirty-four years after this Court decided Miranda v. 
+Arizona, and after this Court has decided dozens of cases 
+elaborating its consequences and implications, the Court 
+today faces the claim that Miranda should be overruled, and 
+indeed that all of the many decisions based on it for over 
+thirty years have lawlessly disregarded a congressional 
+statute that supposedly supplanted it. 
+
+
+This remarkable effort to uproot one of the most 
+familiar and fundamental of this Court’s constitutional 
+decisions about police procedures defies the basic precept of 
+stare decisis. As the Court has recently observed, a 
+constitutional decision, and particularly one that enforces 
+and indeed has come to symbolize the liberties of our people, 
+should only be overturned if it has proved to be 
+“unworkable,” has been “discounted by society,” or has 
+proved “irrelevant or unjustifiable in dealing with the issue it 
+
+
+' A list of the amici who are filing this brief is set forth in the Appendix. 
+Counsel for a party did not author this brief in whole or in part and no 
+person or entity, other than the amici curiae or counsel, have made a 
+monetary contribution to the preparation or submission of the brief. 
+Pursuant to Rule 37 of the Rules of the Supreme Court, the parties have 
+consented to the filing of this brief, and copies of the consents have been 
+filed with the Clerk of the Court. 
+
+
+x» 
+
+
+_ addressed,” and if overruling it would not undermine the 
+“stability” fostered by the decision. Planned Parenthood of 
+Southeastern Pa. v. Casey, 505 U.S. 833, 854-55 (1992). 
+
+
+As experienced prosecutors and law enforcement 
+officials who have been active participants in law 
+enforcement on every level since Miranda was decided, 
+amici are particularly well placed to address whether the rule 
+of Miranda has proved unworkable or harmful to law 
+enforcement, and whether it has promoted stability and 
+become embedded in the structure of the law and the 
+consciousness of the public and law enforcement officers. In 
+the case of Miranda, the standards for overruling established 
+precedent manifestly have not been met. 
+
+
+First, far from proving impractical or destructive, 
+Miranda has provided a clear, bright-line, easily enforceable 
+rule governing the admission of statements obtained from 
+defendants during custodial interrogation. Under Miranda, 
+police officers and other law enforcement personnel are 
+trained to follow a simple and consistent protocol in 
+interrogating suspects, prosecutors can easily assess the 
+admissibility of confessions, and judges are given a 
+straightforward and objective standard to apply in reviewing 
+the legality of interrogations. If the Miranda warnings are 
+properly given, and the defendant nevertheless waives his 
+rights and makes a statement, that statement will almost 
+certainly be admissible, and an argument that it was coerced 
+will rarely succeed. In sharp contrast, under the pre-Miranda 
+regime that the decision below would restore, law 
+enforcement personnel, prosecutors, the lower courts and 
+even this Court faced a confusing, irreconcilable mass of ad 
+-hoc decisions based on judges’ subjective assessments of the 
+tactics followed by individual interrogators and the mental 
+states of particular defendants. 
+
+
+eis 
+
+
+Second, Miranda has withstood the test of time and 
+become an established pillar of American law. Generations 
+of law enforcement personnel have been trained and have 
+operated under its standards. The decision has not hindered 
+the dramatic improvements in law enforcement practices that 
+have been achieved in recent years. Moreover, this Court 
+has decided dozens of cases interpreting the rule of Miranda, 
+without any suggestion that its authority has eroded or that 
+its administration has become problematic. Rather than 
+being “discounted by society,” Miranda stands as the 
+decision of this Court whose content is perhaps best known 
+and most deeply accepted by the public. Every Hollywood 
+crime drama and television police show that depicts an arrest 
+shows the officer warning the arrestee of his rights in 
+accordance with Miranda. Those warnings have become a 
+symbol of the constitutional limits on arbitrary or coercive 
+government authority. 
+
+
+To overrule a decision so firmly embedded in the 
+case law and the public consciousness would not only bring 
+the law into disrepute, but would surely send an unintended 
+and destructive signal to the police and ihe public that 
+fundamental rights themselves, and not merely the 
+requirement that defendants be advised of them, have been 
+
+
+repealed. 
+ARGUMENT 
+
+
+I. AFFIRMING THE CONSTITUTIONALITY OF 
+SECTION 3501 WOULD REQUIRE 
+OVERTURNING MIRANDA 
+
+
+In Miranda v. Arizona, this Court held that before 
+conducting custodial interrogation of a criminal suspect, the 
+police must provide the suspect with warnings concerning 
+his constitutional right against self-incrimination, and the 
+
+
+jilinn 
+
+
+suspect must waive those rights. 384 U.S. at 444. For all the 
+reasons set forth in the Brief for the United States on Petition 
+for Writ of Certiorari, we agree with the United States that 
+the holding of Miranda is rooted in the Constitution. 
+
+
+We also agree with the United States that 18 U.S.C. 
+§ 3501 could only be constitutional if this Court were to 
+overrule Miranda. Miranda’s requirements were expressly 
+based upon the conclusion that, in view of the inherently 
+coercive effects of custodial interrogation, some form of 
+warning was necessary to protect a defendant’s Fifth 
+Amendment nghts. See 384 U.S. at 466. While the Court 
+made clear in Miranda that the precise warning regime that it 
+prescribed was not itself a constitutional right, the Court 
+held: “Congress and the States are free to develop their own 
+safeguards for the privilege, so long as they are fully as 
+effective as those described above in informing accused 
+persons of their right of silence and in affording a 
+continuous opportunity to exercise it.” Id. at 490 (emphasis 
+added). Section 3501 simply does not satisfy this 
+requirement because it does not provide any system 
+whatsoever for informing suspects of their rights. Rather 
+than accepting the Court’s invitation to devise an alternative 
+method for informing suspects of their rights, Section 3501 
+purports to overrule Miranda by making admissible any 
+statement that under “all the circumstances” can be 
+considered “voluntary,” even if the defendant was unaware 
+of his right to silence and his right to have counsel present 
+during the interrogation. 18 U.S.C. §3501(a) & (b).’ 
+
+
+? Indeed, the Fourth Circuit below had no trouble concluding that, 
+
+
+“[b]ased upon the statutory language, it is perfectly clear that Congress 
+enacted § 3501 with the express purpose of legislatively overruling 
+Miranda.” United States v. Dickerson, 166 F.3d 667, 686 (4" Cir: 1999). 
+Of course, if, as the United States has established, Miranda is 
+
+
+"= 
+
+
+Section 3501 thus attempts to restore the situation that 
+existed before Miranda, the very situation that this Court 
+held was inconsistent with the mghts guaranteed by the 
+Constitution. 
+
+
+In short, because Section 3501 does not satisfy the 
+requirements set forth in Miranda, and because Miranda is 
+based in the Constitution, this Court can only uphold 
+Section 3501 if it overrules Miranda. Although some of the 
+current and former law enforcement officers and prosecutors 
+joining this brief believe that certain aspects of the Miranda 
+line of cases might bear reconsideration, all of us join in 
+urging this Court to reaffirm the core holding of Miranda, 
+and to reject the Congressional effort to overrule it 
+legislatively. 
+
+
+Il. BECAUSE THE MIRANDA RULE DOES NOT 
+HAMPER EFFECTIVE LAW ENFORCEMENT 
+AND IS DEEPLY ROOTED IN COMMUNITY 
+EXPECTATIONS, THE PRINCIPLE OF STARE 
+DECISIS STRONGLY COUNSELS AGAINST 
+OVERRULING MIRANDA 
+
+
+As this Court has noted, the doctrine of stare decisis 
+“permits society to presume that bedrock principles are 
+founded in the law rather than in the proclivities of 
+individuals, and thereby contributes to the integrity of our 
+constitutional system of government, both in appearance and 
+in fact.” Vasquez v. Hillery, 474 U.S. 254, 265-66 (1986). 
+There can be little doubt that society at large considers 
+Miranda to be a “bedrock” principle of law. Indeed, there 
+are few cases that loom so large in the public’s 
+consciousness. This Court can only justify overturning 
+
+
+constitutionally based, only this Court, not Congress, has the power to 
+overrule it. See City of Boerne v. Flores, 521 U.S. 507 (1997). 
+
+
+ofits 
+
+
+Miranda and the settled expectations that have grown up 
+around it if that decision has proved to be “outdated, ill- 
+founded, unworkable, or otherwise legitimately vulnerable to 
+serious reconsideration.” Jd. at 266. See also Casey, 505 
+U.S. at 854-55 (prior decision should be overruled only if it 
+has proved to be “unworkable,” has been “discounted by 
+society,” has proved “irrelevant or unjustifiable in dealing 
+with the issue it addressed,” and if overruling it would not 
+undermine the “stability” fostered by the decision); Payne v. 
+Tennessee, 501 U.S. 808, 827 (1991) (“Stare decisis is the 
+preferred course because it promotes the evenhanded, 
+predictable, and consistent development of legal principles, 
+fosters reliance on judicial decisions, and contributes to the 
+actual and perceived integrity of the judicial process.”); 
+California v. Acevedo, 500 U.S. 565, 579 (1991) (“[T]his 
+Court has overruled a prior case on the comparatively rare 
+occasion when it has bred confusion or has been a derelict or 
+led to anomalous results.’’). 
+
+
+Application of these principles requires that Miranda 
+not be overruled. On the contrary, these principles strongly 
+support the reaffirmation of its core holding. First, its 
+requirements have proved to be eminently “workable.” 
+Second, overruling Miranda would disrupt important settled 
+expectations of the public and of law enforcement about our 
+criminal justice system. 
+
+
+A. Far from Being “Outdated, Ill-Founded or 
+Unworkable,” the Miranda Warnings 
+Promote Effective Law Enforcement 
+
+
+In the thirty-four years since Miranda became the 
+law of the land, the local, state and federal institutions 
+responsible for enforcing the nation’s criminal laws have 
+developed an invaluable body of experience in how to detect, 
+investigate and prosecute crimes within the constitutional 
+
+
+" - 
+
+
+guidelines set forth in Miranda. Although initially the 
+Miranda decision necessarily required some changes in 
+certain law enforcement and prosecutorial practices, the 
+historical record supports the conclusion already evident to 
+Chief Justice Burger twenty years ago, that “[t]he meaning 
+of Miranda has become reasonably clear and law 
+enforcement practices have adjusted to its strictures.” Rhode 
+Island v. Innis, 446 U.S. 291, 304 (1980) (Burger, C.J., 
+concurring). 
+
+
+By its very nature, Miranda occasionally results in 
+the exclusion of evidence that supports a criminal conviction. 
+It is our considered view, based on our wide-ranging 
+personal experience in law enforcement, that the occasional 
+adverse impact in individual cases is far outweighed by the 
+systemic benefits Miranda provides to the functioning of our 
+criminal justice system.’ Miranda was self-consciously an 
+“attempt[] to reconcile” competing concerns: to allow law 
+enforcement agents to conduct interrogations and gather 
+evidence of criminal wrongdoing while promoting the 
+integrity of the investigative process and ensuring respect for 
+a suspect’s constitutional rights. Moran v. Burbine, 475 U.S. 
+412, 426-27 (1986). We strongly believe that Miranda 
+strikes an appropriate balance and does far more to promote 
+effective law enforcement than to undermine it. 
+
+
+We recognize that some of our law enforcement 
+colleagues have indicated their support for Section 3501. 
+We nonetheless believe that our views concerning the effects 
+
+
+. The adverse effects of Miranda even on particular cases is often 
+overstated. Many defendants can be convicted without confession 
+evidence. Indeed, after Miranda was remanded, Ernesto Miranda was 
+convicted on re-trial and remained in prison until] December 1972. See 
+Liva Baker, Miranda: Crime, Law and Politics 193 & 381 (1985). 
+
+
+of Miranda reflect a widely shared view among those in 
+institutions responsible for enforcing the criminal laws that 
+Miranda promotes effective law enforcement.* As a survey 
+of law enforcement officials performed by a blue-ribbon 
+commission of the American Bar Association concluded in 
+1988, “[a] very strong majority of those surveyed — 
+prosecutors, judges, and police officers — agree that 
+compliance with Miranda does not present serious problems 
+for law enforcement.” American Bar Association Special 
+Committee on Criminal Justice in a Free Society, Criminal 
+Justice in Crisis 28 (1988). The following is just a small 
+sample of the wide variety of law enforcement officials and 
+prosecutors who have publicly stated that they support 
+Miranda: 
+
+
+e Charles E. Moylan, former Baltimore State’s Attorney: 
+“Every prosecutor in the country hated Miranda the 
+day it came down .. . but after a decade, even those 
+who were strongly pro-state had come to the 
+conclusion, ‘Hey, we can live with this.” . . . It would 
+be chaos to ever go back.” 
+
+
+. Criticisms of Miranda have generally been based on anecdotal, and 
+occasionally statistical, claims about Miranda's impact. See, e.g., Paul 
+G. Cassell, Miranda's Social Costs: An Empirical Reassessment, 90 Nw. 
+U. L. Rev. 387 (1996); The Clinton Justice Department's Refusal to 
+Enforce the Law on Voluntary Confessions, Hearing Before the 
+Subcomm. on Criminal Justice Oversight of the Senate Comm. on the 
+Judiciary, 106" Cong. 1* Sess. (May 13, 1999) (statement of Gilbert G. 
+Gallegos). These claims do not comport with our experience as law 
+enforcement agents and prosecutors, and their validity has been 
+persuasively attacked. See, e.g, Stephen J. Schulhofer, Miranda's 
+Practical Effect: Substantial Benefits and Vanishingly Small Social 
+Costs, 90 Nw. U. L. Rev. 500 (1996). 
+
+
+* Brooke A. Masters & Tom Jackman, Justice System Worries About 
+‘Miranda, ' Wash. Post, Feb. 16, 1999, at B1. 
+
+
+SB 
+
+
+e¢ Gene Cromartie, International Association of Chiefs of 
+Police: “[Miranda is] ingrained in everything we do.” 
+Overturning Miranda would “open up a Pandora’s box. 
+Why take a chance? It’s not a big effort to read 
+someone their rights.” 
+
+
+e Chris Koster, Cass County, Missouri Prosecutor: 
+“There’s nothing more important than making sure 
+people in law enforcement are viewed as the good 
+guys. To go back to the days prior to Miranda puts our 
+credibility at risk, and no one wants to go in that 
+srection.”” 
+
+
+e Rudolph W. Giuliani, Mayor of New York City and 
+former United States Attorney: “I generally don’t think 
+we should change things unless there’s a terribly good 
+reason to do so. There’s a real benefit in keeping 
+things stable.” 
+
+
+e David Fogel, Chicago Police Department Office of 
+Professional Standards: “We’re all for Miranda 
+
+
+warnings . . . the cost is infinitesimally small compared 
+
+
+. Tony Mauro, Undoing Tradition? Legal Renegade's Mission: Upend 
+Enduring Decision, USA Today, Mar. 1, 1999, at 1A. 
+
+
+° Steve Kraske & Tanyanika Samuels, Court to Review Miranda Issues 
+But Area Police Say Ruling Fine As Is, Kansas City Star, Dec. 7, 1999, at 
+Al. 
+
+
+® Burt Solomon, Meese Sets Ambitious Agenda That Challenges 
+Fundamental Legal Beliefs, 17 Nat’! J. 2640 (Nov. 23, 1985). 
+
+
+-10- 
+
+
+to living in a democratic society where you don’t give 
+warnings and you can’t seize evidence illegally.”” 
+
+
+e John B. Holmes, Jr., Harris County, Texas District 
+Attorney: “Over the years [police and prosecutors 
+have] come to understand, follow and apply the 
+[Miranda] rule. And I don’t think it is the terrible thing 
+we thought it was. We still get as many confessions as 
+we ever did, and we still get as much evidence.”"° 
+
+
+e John R. Justice, Solicitor for the Sixth Circuit, Chester, 
+South Carolina & President, National District 
+Attorneys Association: “Miranda has not been the 
+devastating death blow to law enforcement that people 
+back in the ‘60s thought it was going to be . . . Miranda 
+is an extension of the Fifth Amendment... .”"' 
+
+
+e Francis M. Roche, former’ Boston Police 
+Commissioner: “Miranda made us more professional. 
+It forced us to appreciate the Constitution. We now 
+have great respect for people and we want to protect 
+those rights.”” 
+
+
+e Thomas Sturgeon, Allegheny County, Pennsylvania 
+Police Superintendent: “Police have been successful in 
+
+
+® Tom Gibbons & Jim Casey, Ed Meese’s War On Miranda Draws 
+
+
+Scant Support, Chicago Sun-Times, Feb. 17, 1987, at 41. 
+
+
+0 Lori Rodriguez, Attorneys Say Miranda Ideal As Is, Houston Chron., 
+Jan. 23, 1987, at 23. 
+
+
+'' David E. Rovella, ‘Miranda’ Upheaval Unlikely, Nat’! L.J., Mar. 1, 
+1999, at Al. 
+
+'2 Eduardo Paz-Martinez, Police Chiefs Defend Miranda Decision 
+Against Meese Threats, Boston Globe, Feb. 5, 1987, at 25. 
+
+
+| 
+| 
+
+
+atts 
+
+
+solving crimes with the Miranda rights in place... I 
+think to just eliminate the Miranda warning would 
+probably bring more scrutiny and mistrust against the 
+police. So I think they should leave it the way it is.”'° 
+
+
+Moreover, Miranda’s workability is confirmed by the 
+fact that “with limited exceptions [Section 3501] has been 
+studiously ignored by every administration, not only in this 
+Court but in the lower courts, since its enactment more than 
+25 years ago.” Davis v. United States, 512-U.S. 452, 463-64 
+(1994) (Scalia, J., concurring). Similarly, no state has 
+accepted the Supreme Court’s invitation to devise an 
+alternative to Miranda’s warnings. If Miranda were 
+unworkable, surely some Department of Justice would have 
+advanced Section 3501 before this Court, or some state 
+would have pressed this Court to accept a similar statutory 
+framework. 
+
+
+1. Miranda Provides Bright Lines for Law 
+Enforcement to Follow 
+
+
+For the law enforcement officer questioning a 
+suspect, Miranda provides an easy and effective guide to 
+compliance with constitutional limits. As this Court has 
+“stressed on numerous occasions, one of the principal 
+advantages of Miranda is the ease and clarity of its 
+application.” Moran, 475 U.S. at 425 (quotations omitted). 
+“(Rigidity [i]s the strength of the [Miranda] decision. It 
+afford[s] police and courts clear guidance on the manner in 
+which to conduct a custodial investigation .. . .” Fare v. 
+Michael C., 439 U.S. 1310, 1314 (1978) (Rehnquist, J., in 
+chambers). 
+
+
+'3 Torsten Ove, Miranda Warning Facing Challenge in Supreme Court, 
+Pittsburgh Post-Gazette, Jan. 10, 2000, at A-1. 
+
+
+oi. 
+
+
+Miranda establishes a set of bright-line rules that are 
+easy for police officers and agents to understand and apply to 
+ensure that a confession will be admissible in the 
+government’s case-in-chief. For police officers and law 
+enforcement personnel in the line of duty, the clarity of these 
+rules is paramount. Under the pressures of conducting an 
+investigation, “[pJolice officers are ill-equipped to pinch-hit 
+for counsel, construing the murky and difficult 
+questions .. .” Oregon v. Elstad, 470 U.S. 298, 316 (1985). 
+The clear procedures set by Miranda significantly simplify 
+the calculus that a police officer in the line of duty must 
+perform. See, e.g., Michigan v. Tucker, 417 U.S. 433, 443 
+(1974) (the Miranda rules “help police officers conduct 
+interrogations without facing a continued risk that valuable 
+evidence would be lost”). Moreover, Miranda considerably 
+facilitates the training of law enforcement in interrogation 
+procedures. Generations of officers have been trained on 
+one simple litany: Before custodial interrogation begins, 
+provide the Miranda warnings; if the right to remain silent or 
+for counsei is asserted, cease questioning. 
+
+
+Miranda also promotes judicial respect for the many 
+complex and delicately balanced decisions that law 
+enforcement agents make during interrogations. Miranda’s 
+requirements can be objectively assessed not only by the 
+police officer conducting the interrogation, but also by the 
+court reviewing it. The primary questions for the court are 
+simple: Have the warnings been provided and have the rights 
+been waived? The objective nature of this assessment 
+lessens the need for intrusive judicial scrutiny of the conduct 
+and state of mind of the suspect or the police officer 
+conducting the interrogation. Once the court determines that 
+there have been proper warnings and waiver, in all but the 
+most exceptional cases, there is no need, and little room, for 
+further judicial second-guessing of the interrogation. See, 
+
+
+_— 
+
+
+x 
+
+
+e.g., Minnick v. Mississippi, 498 U.S. 146, 151 (1990) 
+(Miranda’s holding ““‘has the virtue of informing police and 
+prosecutors with specificity as to what they may do in 
+conducting custodial interrogation ...’”) (quoting Fare v. 
+Michael C., 442 U.S. 707, 718 (1979)). The fact that 
+warnings have been provided radically truncates potential 
+challenges to admission of a confession. See, e.g., Berkemer 
+v. McCarty, 468 U.S. 420, 433 n.20 (1984) (“[C]ases in 
+which a defendant can make a colorable argument that a self- 
+incriminating statement was ‘compelled’ despite the fact that 
+the law enforcement authorities adhered to the dictates of 
+Miranda are rare”). 
+
+
+This is in stark contrast to pre-Miranda law, to which 
+the Fourth Circuit’s decision would return law enforcement. 
+The pre-Miranda “voluntariness” standard has none of the 
+virtues of the bright-line rule, and imposed significant 
+burdens on law enforcement for three distinct reasons: 
+
+
+1. The Voluntariness Standard Encompasses an 
+Unreasonable Number of Factors for Law Enforcement 
+Agents to Assess: Under Section 3501, the admissibility of a 
+confession turns on whether the confession is “voluntary” in 
+light of “all the circumstances.” 18 U.S.C. § 3501(b). It is 
+difficult to conceive how law enforcement agencies could 
+effectively or efficiently train officers how to make ex ante 
+assessments on the street or in the stationhouse that their 
+interrogation techniques will lead to a “voluntary” 
+confession. Indeed, the pre-Miranda experience makes 
+prediction unnecessary: we already know that courts 
+enumerated an almost limitless number of potentially 
+relevant factors in this determination. In the margin, we set 
+forth over twenty distinct factors that this Court alone, prior 
+
+
+-14- 
+
+
+to Miranda, held might bear on the voluntariness inquiry.'* 
+In light of this multiplicity of factors, a police officer may 
+
+
+'* Aside from physical violence, our review has identified the following 
+factors from this Court’s pre-Miranda case law: (1) length of the 
+interrogation, see, e.g., Davis v. North Carolina, 384 U.S. 737 (1966), 
+Ashcraft v. Tennessee, 322 U.S. 143 (1944), Chambers v. Florida, 309 
+U.S. 227 (1940); (2) location of interrogation and disorientation of 
+defendant, see, e.g., Davis, 384 U.S. 737, Reck v. Pate, 367 U.S. 433 
+(1961), Ward v. Texas, 316 U.S. 547 (1942); (3) continuity in 
+interrogation, see, e.g., Leyra v. Denno, 347 U.S. 556 (1954), Harris v. 
+South Carolina, 338 U.S. 68 (1949), Watts v. Indiana, 338 U.S. 49 
+(1949), Ashcraft, 322 U.S. 143; (4) defendant’s maturity, see, e.g., 
+Gallegos v. Colorado, 370 U.S. 49 (1962), Haley v. Ohio, 332 U.S. 596 
+(1948); (5) defendant’s education level, see, e.g., Crooker v. California, 
+357 U.S. 433 (1958), Payne v. Arkansas, 356 U.S. 560 (1958), Harris, 
+338 U.S. 68; (6) defendant’s physical condition or illness, see, e.g., 
+Greenwald v. Wisconsin, 390 U.S. 519 (1968), Townsend v. Sain, 372 
+U.S. 293 (1963), Wan v. United States, 266 U.S. 1 (1924); (7) 
+defendant’s mental health, see, e.g., Blackburn v. Alabama, 361 U.S. 199 
+(1960), Spano v. New York, 360 U.S. 315 (1959), Fikes v. Alabama, 352 
+U.S. 191 (1957); (8) defendant’s intelligence, see, e.g., Reck, 367 U.S. 
+433, Crooker, 357 U.S. 433, Fikes, 352 U.S. 191; (9) defendant's formal 
+legal training, see, e.g., Crooker, 357 U.S. 433; (10) whether defendant 
+speaks English, see, e.g., Gallegos v. Nebraska, 342 U.S. 55 (1951); (11) 
+inconsistencies in consecutive confessions, see, e.g., Clewis v. Texas, 386 
+U.S. 707 (1967); (12) whether defendant has been subjected to travel, 
+see, e.g., Clewis, 386 U.S. 707, Spano, 360 U.S. 315, Ward, 316 U.S. 
+547; (13) whether defendant has been deprived of medications or medical 
+attention, see, e.g., Greenwald, 390 U.S. 519, Reck, 367 U.S. 433, Leyra, 
+347 U.S. 556; (14) whether defendant has been deprived of food, see, 
+e.g., Davis, 384 U.S. 737, Reck, 367 U.S. 433, Payne, 356 U.S. 560; (15) 
+whether defendant was stripped of clothing, see, e.g., Malinski v. New 
+York, 324 U.S. 401 (1945), Bram v. United States, 168 U.S. 532 (1897); 
+(16) physical conditions of the interrogation room, see, e.g., Blackburn, 
+361 U.S. 199, Ward, 316 U.S. 547; (17) use of trickery or deception by 
+the interrogators, see, e.g., Spano, 360 U.S. 315, Leyra, 347 U.S. 556; 
+(18) use of multiple inquisitors questioning in “relay,” see, e.g., Spano, 
+360 U.S. 315, Harris, 338 U.S. 68, Ashcraft, 322 U.S. 143; (19) whether 
+defendant was sleep-deprived, see, e.g., Leyra, 347 U.S. 556, Watts, 338 
+U.S. 49, Ashcraft, 322 U.S. 143, Chambers, 309 U.S. 227; (20) whether 
+
+
+is 
+‘ 
+i 
+rh 
+i; 
+% 
+3 
+; 
+
+
+~ 
+
+
+know under 18 U.S.C. § 3501 that there may be some 
+eventual courtroom benefit in providing warnings, but has no 
+way of knowing for certain what effect providing the 
+wamings — or anything else that happens during the 
+interrogation — will have on the admissibility of any 
+particular statement made by the suspect. See 18 U.S.C. 
+§ 3501(b) (“The presence or absence of any of the above- 
+mentioned factors . . . need not be conclusive”). In short, 
+police officers will be uncertain what is expected of them. If 
+the officer guesses wrong, under Section 3501, the trial judge 
+will be required to suppress the confession. 
+
+
+2. The Voluntariness Standard Reopens Difficult 
+Assessments of the Suspect’s State of Mind: Under the 
+constitutional framework governing interrogations before 
+Miranda, admissibility of a suspect’s statement frequently 
+turned on highly detailed and subjective judicial fact-finding 
+about the state of the defendant’s mind and the trial court’s 
+
+
+defendant was inappropriately threatened, see, e.g., Lynumn v. Illinois, 
+372 U.S. 528 (1963) (custody of children), Payne, 356 U.S. 560 (mob 
+violence), Thomas v. Arizona, 356 U.S. 390 (1958) (mob violence), 
+Harris, 338 U.S. 68 (harassment of family members), Ward, 316 U.S. 
+547 (mob violence); (21) the length of time defendant was held 
+incommunicado or in isolation, see, e.g., Haynes v. Washington, 373 U.S. 
+503 (1963), Reck, 367 U.S. 433, Payne, 356 U.S. 560, Watts, 338 U.S. 
+49; (22) whether defendant was subjected to physical hardship, see, e.g., 
+Davis, 384 U.S. 737, Wan, 266 U.S. 1; (23) whether defendant was 
+advised of rights to remain silent or of right to counsel, see, e.g., Davis, 
+384 U.S. 737, Haynes, 373 U.S. 503, Mallory v. United States, 354 U.S. 
+449 (1957), Turner v. Pennsylvania, 338 U.S. 62 (1949); (24) whether 
+defendant's request to speak to a lawyer was granted, see, e.g., 
+Greenwald, 390 U.S. 519, Haynes, 373 U.S. 503, Spano, 360 U.S. 315; 
+(25) whether defendant was detained before arraignment, see, e.g., 
+Mallory, 354 U.S. 449, Turner, 338 U.S. 62; (26) whether pre-trial 
+detention violates state law, see, e.g., Fikes, 352 U.S. 191, Watts, 338 
+U.S. 49, Ward, 316 U.S. 547. In many of the pre-Miranda decisions, 
+several different combinations of factors were assessed in order to 
+determine the voluntariness of the confession. 
+
+
+. * 
+
+
+weighing of the coercive impact of the interrogator’s tactics 
+on that particular arrestee. These decisions frequently turned 
+on judicial assumptions as to what a suspect subjectively 
+understood under the circumstances of the interrogation.'° 
+For reasons long recognized by this Court, it was 
+exceedingly difficult for a police officer to anticipate during 
+an interrogation what techniques might be over the line for a 
+particular suspect. See, e.g., Culombe v. Connecticut, 367 
+U.S. at 604-05 (Frankfurter, J.) (“The notion of 
+‘voluntariness’ is itself an amphibian.”’). 
+
+
+Although this Court has prudently pared back the 
+inquiry into a suspect’s subjective state of mind in 
+determining the admissibility of a statement where warnings 
+have been provided, see Colorado v. Connelly, 479 U.S. 157, 
+164 (1986), overturning Miranda would invite trial courts to 
+reopen the broad inquiries typical of pre-Miranda cases, 
+where courts would delve into the suspect’s state of mind — 
+and even more problematically -— the police officer’s 
+understanding of the suspect’s state of mind. 
+
+
+3. The Voluntariness Standard Invites Ad Hoc 
+Scrutiny of Police Tactics: The wide-ranging scope of 
+voluntariness determinations will inevitably lead to an 
+equally wide-ranging judicial second-guessing of police 
+tactics. Particularly in light of the Miranda Court’s correct 
+observation that  stationhouse interrogation involves 
+“inherently compelling pressures,” 384 U.S. at 467, without 
+Miranda warnings, trial courts will explore, in a broader 
+class of cases, whether the suspect’s decision to talk was 
+truly voluntary. Some of these courts can be expected to 
+scrutinize carefully and skeptically the conduct and tactics of 
+
+
+> See, e.g., Haynes, 373 U.S. 503; Culombe v. Connecticut, 367 U.S. 
+568 (1961); Blackburn, 361 U.S. 199; Crooker, 357 U.S. 433. 
+
+
+~ 19. 
+
+
+the interrogator. Aside from keeping police officers off their 
+beats and in the witness chair, enhanced scrutiny in this area 
+will likely lead to judicial decisions, made in the removed 
+comfort of a courtroom, which unfairly and improperly 
+criticize police conduct that were reasonable responses to 
+rapidly unfolding situations. Cf United States v. Sharpe, 
+470 U.S. 675, 686 (1985) (when “the police are acting in a 
+swiftly developing situation . . . the court should not indulge 
+in unrealistic second-guessing. . . . A creative judge engaged 
+in post hoc evaluation of police conduct can almost always 
+imagine some alternative means by which the objectives of 
+the police might have been accomplished”). 
+
+
+Moreover, because the determination concerning 
+voluntariness is an inherently subjective finding of fact about 
+the interplay of the mental state of a defendant and the 
+conduct of the police officer, whose demeanors will both be 
+assessed by the individual trial judge, the same interrogation 
+can be expected to lead to different decisions depending on 
+the experience and attitudes of the particular judge who hears 
+the case, and appellate courts will have little ability to 
+promote consistency or control aberrant decisions.'° The 
+invitation to judicial second-guessing of police tactics would 
+be bad enough if it led to courts’ invalidating useful 
+interrogation techniques; it will be far worse that the judicial 
+intrusions will not even produce clear or consistent rules 
+about what is or is not allowed. 
+
+
+od * * 
+
+
+Undoubtedly, many law enforcement agencies may 
+address this uncertainty by continuing to require their 
+officers to provide Miranda or similar warnings through 
+
+
+» On infra note 18. 
+
+
+- $8. 
+
+
+internal regulations. The possibility of such voluntary 
+implementation may, at least in part, explain the willingness 
+of some law enforcement organizations to support Section 
+3501.' 
+
+
+In our view, a voluntary regime of warnings has 
+several obvious flaws. First, overrruling Miranda would end 
+uniformity in interrogation procedures. Even for those 
+departments that adopt warnings, there would undoubtedly 
+be periodic alteration and variation in the warnings over 
+time. Aside from the extensive (and potentially endless) 
+litigation likely to ensue over the effect of any given set of 
+alternative warnings, constant tinkering with the warnings 
+would inevitably make the policies harder to follow and 
+undermine compliance. Cf Colorado v. Bertine, 479 U.S. 
+367, 375 (1987) (“[A] single familiar standard is essential to 
+guide police officers, who have only limited time and 
+expertise to reflect on and balance the social and individual 
+interests involved in the specific circumstances they 
+confront.”) (citation omitted). Second, there is no guarantee 
+that internal regulations will be as effective as Miranda in 
+encouraging police to administer warnings, because under 
+purely internal regulations the prosecutor’s evidentiary 
+interest in assuring that warnings have been provided will 
+become attenuated. Moreover, while we hope that most 
+professional and effective law enforcement agencies would 
+continue to require their officers to give some form of 
+warning (as the Federal Bureau of Investigation did long 
+before Miranda was decided), some police agencies may 
+short-sightedly dispense with warnings and adopt more 
+aggressive interrogation techniques. These techniques could 
+go up to and over the line of constitutional coerciveness, 
+
+
+od See, e.g., Brief of Amici Curiae Americans for Effective Law 
+
+
+Enforcement, et al., at 4. 
+
+
+ORT te Oe RO Te 
+
+
+-19- 
+
+
+presenting courts with difficult ad hoc decisions on the 
+voluntariness of confessions extracted without due regard for 
+the suspect’s rights. The likelihood that some departments 
+will drop warnings altogether can only be expected to grow 
+as the memory of the value of Miranda fades. 
+
+
+2. Miranda Assists in Securing Convictions 
+of the Guilty 
+
+
+For prosecutors, Miranda provides a valuable tool in 
+securing and expediting convictions of those who commit 
+crimes. Once a case moves from investigation to 
+prosecution, Miranda’s clear rules make it relatively easy for 
+prosecutors to predict the outcome of a suppression hearing 
+and accurately assess the evidentiary strength of the case 
+shortly after arrest. As noted supra at 12-13, the Miranda 
+rules emphasize a limited number of objective factors, such 
+as whether the warnings were provided. This makes the 
+standard very easy to litigate, and provides prosecutors with 
+a reasonably reliable way of predicting the outcome of 
+suppression hearings. Assuming that a suspect is in custody 
+at the start of interrogation, either the warnings were given 
+and a waiver was obtained, or they were not. 
+
+
+In light of the heavy caseloads many prosecutors 
+face, the clarity of the Miranda rules also helps conserve 
+prosecutorial resources by facilitating negotiated 
+dispositions. A defendant who knows that Miranda 
+warnings were properly administered is less likely to waste 
+time with a suppression motion. Even if there is a 
+suppression hearing, a prosecutor will have a strong sense 
+prior to the hearing whether the statement of the suspect will 
+be admitted. See, e.g., Fare v. Michael C., 442 U.S. at 717 
+(“Miranda’s holding has the virtue of informing police and 
+prosecutors . . . under what circumstances statements 
+obtained during such interrogation are noi admissible”). In 
+
+
+-20- 
+
+
+the event that there is some problem with use of the suspect’s 
+statement, the prosecutor is able to advise the police — before 
+a suppression hearing — that it might be necessary to gather 
+supplemental evidence. Moreover, since both the prosecutor 
+and a defendant have a clear picture at the outset of the 
+prosecution whether a confession will be admitted, plea 
+bargaining may be facilitated. 
+
+
+In short, Miranda has made what previously was a 
+difficult fact-sensitive litigation issue quite manageable. 
+When the government can show that Miranda warnings were 
+properly given, it not only satisfies an initial legal 
+requirement; it also provides judges with compelling 
+evidence of good faith and adherence to the rule of law. The 
+result in such cases is that what otherwise could be a 
+open-ended inquiry into voluntariness becomes simple and 
+expeditious. See, e.g., Berkemer, 468 U.S. at 433 n.20 
+(“[C]ases in which a defendant can make a colorable 
+argument that a_ self-incriminating statement was 
+‘compelled’ despite the fact that the law enforcement 
+authorities adhered to the dictates of Miranda are rare.’’). 
+Although a defendant is constitutionally permitted to present 
+evidence concerning the circumstances of an interrogation to 
+a jury, see Crane v. Kentucky, 476 U.S. 683 (1986), the 
+administration of Miranda wamings greatly reduces the 
+likelihood that any given trial will become side-tracked on 
+collateral issues concerning the circumstances under which a 
+confession was obtained. Indeed, the overwhelming 
+familiarity of Americans with Miranda warnings doubtless 
+increases the weight that jurors give to statements obtained 
+after a defendant was properly advised of them. 
+
+
+The contrast with the “totality of the circumstances” 
+voluntariness approach required by Section 3501 could not 
+be starker. The very factors enumerated in Section 3501, 
+and this Court’s pre-Miranda decisions, dramatically 
+
+
+g 
+q 
+
+
+-21- 
+
+
+establish the difference between litigating under the 
+objective and certain rules of Miranda and the subjective, 
+unpredictable and ad hoc determination of “voluntariness.” 
+Because of the virtually limitless number of factors that 
+contribute to the determination whether the statements of a 
+defendant are voluntary under all of the circumstances, 
+eliminating Miranda will significantly complicate a 
+prosecutor’s assessment of the case, undermining plea 
+bargaining and introducing increased risk at trial. See supra 
+note 14. 
+
+
+The risk of uncertainty for prosecutors cannot be 
+overstated. There is no clearer way to illustrate the difficulty 
+prosecutors would face in addressing confessions under 
+Section 3501 than by looking at the dramatic inconsistencies 
+in this Court’s jurisprudence on confessions prior to 
+Miranda.'* There is a significant downside to reintroducing 
+
+
+'S A number of pre-Miranda decisions appear to have reached 
+
+
+inconsistent outcomes for similarly situated defendants and have created 
+confusion over the weight to be given any particular factor. Compare 
+Cicenia v. La Gay, 357 U.S. 504 (1958) (confession admitted after police 
+refuse request to confer with counsel) and Crooker, 357 U.S. 433 (same) 
+with Spano, 360 U.S. 315 (confession suppressed after police refuse 
+request to confer with counsel) and Haynes, 373 U.S. 503 (same). 
+Compare Stein v. New York, 346 U.S. 156 (1953) (confession admitted 
+after 12 hours of “relay” interrogation) with Haynes, 373 U.S. 503 
+(confession suppressed after 16 hours of “relay” interrogation). Compare 
+Brown v. Allen, 344 U.S. 443 (1953) (confession admitted after eighteen 
+days of interrogation) with Chambers, 309 U.S. 227 (confession 
+suppressed when obtained after five days of interrogation’. Compare 
+Thomas v. Arizona, 356 U.S. 390 (confession admitted where lynching 
+threatened) with Payne v. Arkansas, 356 U.S. 560 (1958) (confession 
+suppressed where lynching threatened). Compare Lisenba v. California, 
+314 U.S. 219 (1941) (confession admitted where suspect interrogated 
+constantly for two days without sleep) with Ashcraft, 322 U.S. 143, 154 
+(confession suppressed after suspect subjected to continuous 
+interrogation for thirty-six hours without sleep). These cases 
+
+
+MR. 
+
+
+an ad hoc approach to defining a vague standard in what is 
+otherwise a relatively settled area of law. How are 
+prosecutors to anticipate what factors any given court will 
+choose to emphasize on any given day? In light of the 
+importance of the interests at issue, this level of uncertainty 
+would undermine effective law enforcement. 
+
+
+B. Settled Community Expectations Weigh 
+Heavily Against Overturning Miranda 
+
+
+As noted above, this Court has_ repeatedly 
+admonished that society’s faith in our legal system depends 
+upon consistent application of the prior decisions of this 
+Court. See Payne, 501 U.S. at 827; Vasquez, 474 U.S. at 
+265-66. Departure from Miranda at this time not only would 
+eliminate a pillar of the law enforcement system that has 
+been eminently workable, but also would undermine the 
+confidence and settled expectations of both the public at 
+large and the law enforcement community about an 
+important element of our criminal justice system. This Court 
+has held that respect for such settled expectations and for 
+stability is “indispensable” to “the rule of law underlying our 
+
+
+own Constitution.” Casey, 505 U.S. at 854. Accordingly, . 
+
+
+this Court should depart from Miranda only if it has been 
+“discounted by society” or if it has become “irrelevant or 
+unjustifiable in dealing with the issue it addressed.” /d. at 
+855. 
+
+
+In the case of the criminal justice system, it is 
+difficult to conceive of a legal principle that is more accepted 
+by the public and embedded in the procedures of law 
+enforcement than Miranda. Overturning Miranda would 
+
+
+demonstrate the difficulty in attempting to assess the importance of any 
+single, given factor when a court is required to assess the totality of the 
+circumstances. 
+
+
+—_— 
+
+
+-- 
+
+
+suggest that the administration of justice is subject to the 
+shifting currents of this Court’s membership and the policy 
+preferences of its members. To the public and to the law 
+enforcement community, changing the basic Miranda 
+regimen would create the appearance that successive Courts 
+are imposing their varying ideas of social justice on the 
+country — not evenhandedly applying well-established law. 
+
+
+1. The Public Has Accepted and Developed 
+Strong Expectations About Miranda _ 
+
+
+As one commentator has noted, “(t]he Miranda 
+warning has become an accepted part of American culture.” 
+Read ‘em Their Rights: Miranda Ruling Should Remain 
+Part of American Culture, Sarasota Herald-Tribune, Dec. 12, 
+1999, at2F. Another has observed, “Miranda not only has 
+become one of the best-known principles of the U.S. legal 
+system, it also has become an anchor of justice.” Protecting 
+Miranda, Chicago Sun-Times, Dec. 8, 1999, at 51. Clearly, 
+its warnings have permeated our mass culture.'? One need 
+
+
+9 ‘The flurry of editorials in support of Miranda published throughout 
+the country in the weeks following the grant of certiorari in this case 
+speak to Miranda's deep permeation of our culture. See, e.g, /f Miranda 
+Ain't Broke . . ., Arizona Daily Star, Dec. 9, 1999, at 22A; High Court 
+Should Leave Miranda Rule Alone, Arizona Republic, Dec. 15, 1999, at 
+B8; Court Should Protect Suspects’ Rights, Atlanta Const., Dec. 16, 
+1999, at A26; Miranda Protects Against Abuses, Chicago Daily Herald, 
+Dec. 10, 1999, at 14; Protecting Miranda, Chicago Sun-Times, Dec. 8, 
+1999, at 51; The Folly of Junking Miranda, Chicago Tribune, Dec. 9, 
+1999, at 28; Silent Right, The Columbian (Vancouver, Wash.), Dec. 10, 
+1999, at Al0; Rights, Not Technicalities, Courier-Journal (Louisville, 
+Ky.), Dec. 11, 1999, at 10A; Leave Miranda Alone in Old Age, Dayton 
+Daily News, Dec. 10, 1999, at 14A; Keep the Miranda Rule — It is 
+Imbedded in Americans’ Concept of Justice. Why Throw it Out?, Des 
+Moines Register, Dec. 11, 1999, at 8; Saving Miranda, Detroit News, 
+Dec. 8, 1999, at Al0; Miranda Should Stand — Rights Warnings Improve 
+Justice, Greensboro News & Record, Dec. 12, 1999, at H2; Miranda 
+Under Assault, Hartford Courant, Dec. 27, 1999, at Al0; Don't Revoke 
+
+
+-24- 
+
+
+look no further than the reading of Miranda rights in every 
+arrest depicted on television and in movies to understand this 
+basic fact. Indeed, to many Americans, these warnings 
+embody the very idea of constitutional restraint on police 
+action. 
+
+
+A retreat from these warnings might lead many to 
+believe that they had lost underlying nghts, and it would 
+surely undermine public confidence in the security of basic 
+legal protections. Overturning Miranda would also send a 
+strong message that this Court no longer believes that 
+effective law enforcement is compatible with informing 
+suspects of their basic constitutional rights. Such a message 
+
+
+Miranda, The Herald (Rock Hill, S.C.), Dec. 8, 1999, at 9A: No Need to 
+Change Miranda Warnings, News Tribune (Tacoma, Wash.), Dec. 13, 
+1999, at A8; Miranda Revisited, N.Y. Times, Dec. 7, 1999, at A22; 
+Miranda Was, and Is, Sound, Omaha World-Herald, Dec. 10, 1999, at 
+26; Don't Mess with Miranda — Supreme Court Should Uphold its 
+Original Ruling, Pittsburgh Post-Gazette, Dec. 12, 1999, at E2; Supreme 
+Court Should Uphold Miranda Ruling, Portland Press Herald, Dec. 8, 
+1999, at 8A; Preserving Miranda — A Measure Prompted by a History of 
+Abuse of Suspects is Suddenly at Risk, Post-Standard (Syracuse, N.Y.), 
+Dec. 10, 1999, at Al4; Keep Miranda, Press Democrat (Santa Rosa, 
+Cal.), Dec. 9, 1999, at B6; Double Jeopardy for Miranda, Press- 
+Enterprise (Riverside, Cal.), Dec. 9, 1999, at Al4; Preserve “Miranda 
+Rights,” Providence Journal, Dec. 12, 1999, at F14; Miranda's Right to 
+Remain, Roanoke Times & World News, Dec. 8, 1999, at Al2; Miranda 
+Warnings — More Beneficial Than Not, San Francisco Chron., Dec. 8, 
+1999, at A28; Read ‘em Their Rights — Miranda Ruling Should Remain 
+Part of American Culture, Sarasota Herald-Tribune, Dec. 12, 1999, at 
+2F; Police Must Spell Out Suspects Rights, Seattle Post-Intelligencer, 
+Dec. 8, 1999, at Al2; Protecting Individual Dignity, St. Louis Post- 
+Dispatch, Dec. 7, 1999, at B14; Affirm “Miranda” Decision, St. 
+Petersburg Times, Dec. 13, 1999, at 10A; Save Miranda Decision — It's a 
+Constitutional Right, Syracuse Herald-Journal, Dec. 8, 1999, at A12; 
+That Challenge to the Miranda Rule, Tampa Tribune, Dec. 8, 1999, at 
+12; Keep Reading them their Rights, USA Today, Dec. 8, 1999, at 30A; 
+Self-Incrimination Save Miranda, Virginian-Pilot and Ledger-Star, 
+Dec. 24, 1999, at B8. 
+
+
+-25- 
+
+
+would further erode confidence in law enforcement, and in 
+its ability to reconcile the goal of crime control with the rule 
+of law. 
+
+
+This loss of confidence would have adverse 
+consequences for the criminal justice system. Law 
+enforcement depends upon the public at large to serve as 
+witnesses, to cooperate with investigations, to act 
+responsibly when appointed as jurors, and generally to 
+respect the authority of law enforcement agents. Any 
+lessening of public faith in the manner in which 
+investigations are conducted could undermine this essential 
+cooperation. 
+
+
+Moreover, Miranda provides a _ fundamental 
+safeguard to indigent and uneducated suspects. Wealthy and 
+well-educated suspects often know how to exercise their 
+rights because they have the benefit of counsel. Indigent 
+suspects, on the other hand, often do not. Miranda tends to 
+address this inequity by informing indigent defendants of 
+their rights and by expressly offering a lawyer to those 
+defendants. Many have claimed that our criminal justice 
+system is unfair because it discriminates against the poor. 
+See, e.g., David Cole, No Equal Justice: Race and Class in 
+the American Criminal Justice System (1999). Overturning 
+Miranda would doubtless provide further support to those 
+who attack the legitimacy of the criminal justice system on 
+this basis. 
+
+
+Finally, overruling Miranda would require the Court 
+to uproot dozens of decisions that have followed it over the 
+years. In the thirty-four years since Miranda was decided, 
+no opinion of this Court has ever questioned its validity. On 
+the contrary, the Court has repeatedly reaffirmed and 
+followed the decision, never once suggesting that there was 
+any possibility that Congress had effectively overruled it 
+
+
+= * 
+
+
+shortly after it was decided. The Court has again and again 
+returned to the decision to elaborate its meaning, and to 
+extend or refine its reasoning and consequences.”” Whether 
+or not each and every one of those cases was correctly 
+decided (and some signers of this brief believe that some 
+were not), to overrule Miranda would uproot not merely a 
+single case — important as this single case is in the minds of 
+the public and law enforcement officers as a symbol of 
+enlightened law enforcement and respect for constitutional 
+rights — but overturn in a single blow an entire branch of 
+jurisprudence, on whose validity and integrity this Court has 
+never cast the slightest doubt. The inevitable public 
+perception that well-established decisions of this Court will 
+be capriciously overturned based on the policy preferences 
+of its changing members could gravely damage the dignity of 
+the law. 
+
+
+2. Law Enforcement Has Developed Settled 
+Expectations Concerning Miranda __ 
+
+
+As described in Section II.A above, law enforcement 
+has very effectively integrated Miranda into its procedures. 
+
+
+20 ‘See, e.g., Davis v. United States, 512 U.S. 452; Duckworth v. Eagan, 
+492 U.S. 195 (1989); Arizona v. Roberson, 486 U.S. 675, 681 (1988) 
+(“We have repeatedly emphasized the virtues of a bright-line rule in 
+cases following . . . Miranda.”); Moran, 475 U.S. 412; Elstad, 470 U.S. 
+at 317 (“The Court today in no way retreats from the bright-line rule of 
+Miranda.”), Berkemer, 468 U.S. at 429 (“In the years since the decision 
+in Miranda, we have frequently reaffirmed the central principles 
+established by that case....”); New York v. Quarles, 467 U.S. 649 
+(1984); Solem v. Stumes, 465 U.S. 638 (1984); Edwards v. Arizona, 451 
+U.S. 477 (1981); Innis, 446 U.S. 291. 
+
+
+Indeed, less than seven years ago this Court decided, in Withrow 
+v. Williams, 507 U.S. 680 (1993), that a Miranda violation is cognizable 
+in habeas corpus proceedings. In so doing, this Court reaffirmed the 
+constitutional foundation of Miranda, and its applicability to the states. 
+
+
+a 2 a on 
+
+
+2 
+
+
+Indeed, one of the primary reasons for the widespread 
+support for Miranda among law enforcement is that the 
+constitutional framework concerning confessions has 
+remained remarkably stable since tive late 1960s. This is 
+due, in no small part, to the efforts of this Court to resist 
+proposals to revamp or tinker with the constitutional 
+procedures governing interrogations: 
+
+
+Since the time Miranda was decided, the 
+Court has repeatedly refused to bend the 
+literal terms of that decision. To be sure, the 
+Court has been sensitive to the substantial 
+_ burden the Miranda rules place on local law 
+enforcement efforts, and consequently has 
+refused to extend the decision or to increase 
+its strictures on law enforcement agencies in 
+almost any way. . . . Miranda is now the law 
+and, in my view, the Court [should] 
+provide{] sufficient justification _ for 
+departing from it or for blurring its now 
+clear strictures. 
+
+
+New York v. Quarles, 467 U.S. at 660, 662-63 (O’Connor, J., 
+dissenting in part) (collecting cases). In the years since 
+Miranda, this Court has consistently rejected modifications 
+that might obscure Miranda’s rule. See, e.g., Moran, 475 
+U.S. at 425 (rejecting “the approach urged by respondent .. . 
+[which] would have the inevitable consequence of muddying 
+Miranda’s otherwise relatively clear waters”); /ilinois v. 
+Perkins, 496 U.S. 292, 299 (1990) (noting that “([lJaw 
+enforcement officers will have little difficulty putting into 
+practice our holding”). 
+
+
+In the area of law enforcement, consistent application 
+of the law and stare decisis are particularly important 
+because the decisions of this Court inevitably affect the day- 
+
+
+- 28 - 
+
+
+to-day conduct of hundreds of thousands of officers. Those 
+officers look to this Court for clear guidance on 
+constitutional matters. A retreat from Miranda could disrupt 
+decades of settled police practice and introduce new 
+opportunity for police to make mistakes — mistakes that may 
+render the evidence they gather inadmissible. 
+
+
+Another benefit of the Miranda rule is that the values 
+underlying the decision have promoted professionalism 
+among line law enforcement agents throughout this country. 
+Federal law enforcement agencies recognized this even 
+before Miranda itself. In explaining why the FBI used 
+Miranda-style warnings some fourteen years before the 
+Miranda decision, former FBI Director J. Edgar Hoover 
+stated: 
+
+
+Law enforcement, however, in defeating the 
+criminal, must maintain inviolate the historic 
+liberties of the individual . . . . We can have 
+the Constitution, the best laws in the land, 
+and the most honest reviews by courts -- but 
+unless the law enforcement profession is 
+steeped in the democratic tradition, 
+maintains the highest in ethics, and makes 
+its work a career of honor, civil liberties will 
+continually -- and without end be violated. 
+
+
+J. Edgar Hoover, Civil Liberties and Law Enforcement: The 
+Role of the FBI, 37 lowa L. Rev. 175, 177-182 (1952) 
+(quoted in Miranda, 384 U.S. at 484, n.54). 
+
+
+The FBI warnings —- which have been administered 
+for almost fifty years-— exemplify that respect for human 
+nights and dignity are consistent with the highest aspirations 
+of law enforcement. The effect of Miranda on state and 
+local agencies has been equally profound. See, e.g., Segura 
+
+
+nt DRL POE EE pees, «enema gee 
+
+
+- 29 - 
+
+
+v. United States, 468 U.S. 796, 838 (1984) (Stevens, J., 
+dissenting) (“For a congery of reasons, among which 
+unquestionably is the added respect for the constitutional 
+rights of the individual engendered by cases like Miranda 
+... the professionalism that has always characterized the 
+Federal Bureau of Investigation is now typical of police 
+forces throughout the land.”’). 
+
+
+Finally, law enforcement has a legitimate settled 
+expectation in the message that Miranda sends concerning 
+the role of police. Miranda is central to the way American 
+law enforcement personnel see themselves and the way that 
+they want to be seen by others. Miranda was revolutionary 
+not only because of the content of the warnings, but also 
+because of who was required to give them. It requires police 
+officers to acknowledge explicitly the constitutional limits of 
+their conduct in the suspect’s presence. This sends a 
+powerful message from the police to criminal suspects that 
+the police recognize that they are not above the law — and 
+that the writ of this Court runs to every stationhouse. 
+
+
+_ * 
+
+
+CONCLUSION 
+
+
+For the reasons set forth herein, amici respectfully 
+request that the Court reverse the judgment of the United 
+States Court of Appeals for the Fourth Circuit. 
+
+
+Respectfully submitted, 
+Daniel C. Richman Robert S. Litt 
+Fordham University (Counsel of Record) 
+School of Law Jonathan R. Streeter 
+140 West 62™ Street John A. Freedman 
+New York, NY 10023 ARNOLD & PORTER?! 
+(212) 636-6845 555 Twelfth Street, N.W. 
+
+
+Washington, D.C. 20004 
+(202) 942-5000 
+
+
+Attorneys for Amici Curiae 
+
+
+January 28, 2000 
+
+
+7! Counsel would like to recognize the considerable assistance of Eric E. 
+Eisenberg, a third-year student at Georgetown University Law Center 
+and Christopher B. Chorengel, a second-year student at the George 
+Washington University Law School. 
+
+
+APPENDIX 
+
+
+AMICI CURIAE 
+
+
+Donald B. Ayer, 
+Deputy Attorney General, 1989-90; Deputy Solicitor 
+General, 1986-88; United States Attorney, Eastern 
+District of California, 1982-86; Assistant United 
+States Attorney, Northern District of California, 
+1977-79 
+
+
+Griffin B. Bell, 
+United States Attorney General, 1977-79; Circuit 
+Judge, United States Court of Appeals for the Fifth 
+, Circuit, 1961-76 
+
+
+Joseph E. Brann, 
+Director, Office of Community Oriented Policing 
+Services (COPS), Department of Justice, 1994-99; 
+Police Chief, Hayward, California, 1990-94; Officer, 
+Santa Ana, California, 1970-90 
+
+
+William Bratton 
+Police Commissioner, New York Police Department, 
+1994-96; Police Commissioner, Boston Police 
+Department, 1993-94; Superintendent cf Police, 
+Boston, 1992-93; Chief of New York City Transit 
+Police, 1990-92; Superintendent of Metropolitan 
+District Commission Police (Boston), 1986-90; Chief, 
+Massachusetts Bay Transportation Authority Police, 
+1983-86; Superintendent of Police, Boston, 1980-83; 
+Officer, Boston Police Department, 1970-80 
+
+
+Michael R. Bromwich, 
+Inspector General, Department of Justice, 1994-99; 
+Assistant United States Attorney, Southern District of 
+New York, 1983-87 
+
+
+A-2 
+
+
+Craig Calhoun, 
+Police Chief, Hayward, California 
+
+
+Zachary W. Carter, 
+United States Attorney, Eastern District of New York, 
+1993-99; United States Magistrate Judge, Eastern 
+District of New York, 1991-93; Judge, Criminal 
+Court, Queens County, 1987-91; Executive Assistant 
+District Attorney, Kings County, New York, 1982-87: 
+Assistant United States Attorney, Eastern District of 
+New York, 1975-80. 
+
+
+Thomas V. Cash, 
+Special Agent-in-Charge of Florida and Caribbean, 
+U.S. Drug Enforcement Agency, 1988-94; Agent, 
+U.S. Drug Enforcement Agency, 1973-88 
+
+
+Dean M. Esserman, 
+Chief of Police, Stamford, Connecticut; Chief of 
+Police, New York State Metropolitan Transit 
+Authority, Metro North, 1993-98; Assistant Chief of 
+Police, New Haven, Connecticut, 1991-93 
+
+
+Jamie S. Gorelick, 
+Deputy Attorney General, 1994-97 
+
+
+Jo Ann Harris, 
+Assistant Attorney General for the Criminal Division, 
+1993-95; Chief, Fraud Section, United States 
+Department of Justice, 1979-81; Assistant United 
+States Attorney, Southern District of New York, 
+1974-79, 1981-83 
+
+
+Philip B. Heymann, 
+Deputy Attorney General, 1993-94; Assistant 
+Attorney General for the Criminal Division, 1978-81 
+
+
+A-3 
+
+
+Eleanor Hill, 
+Inspector General, Department of Defense, 1995-99; 
+Special Attorney, Organized Crime Strike Force, 
+Middle District of Florida, 1978-80; Assistant United 
+States Attorney, Middle District of Florida, 1975-78 
+
+
+Charles J. Hynes, 
+District Attorney, Kings County, New York 
+
+
+Ralph C. Martin II, 
+District Attorney, Suffolk County (Boston), 
+Massachusetts 
+
+
+National Black Police Association, 
+Founded in 1972, the NBPA is a nationwide 
+organization of African-American police associations 
+with approximately 35,000 individual members 
+
+
+The Police Foundation, 
+Founded in 1970, the Police Foundation is an 
+organization dedicated to improving policing in 
+America through empirical research and technology. 
+
+
+Larry A. Potts, 
+Deputy Director, Federal Bureau of Investigation, 
+1995; Assistant Director, F.B.I. Criminal 
+Investigative Division, 1992-95; F.B.I. Agent 
+1974-91 
+
+
+Stephen A. Saltzburg, 
+Deputy Assistant Attorney General for the Criminal 
+Division, 1988-89 
+
+
+A-4 
+
+
+Jerry Sanders, 
+Police Chief, San Diego, California, 1993-99; Officer, 
+San Diego Police Department, 1973-93 
+
+
+Paul L. Shechtman, 
+New York State Criminal Justice Director, 1995-97; 
+Criminal Division Chief, United States Attorney for 
+the Southern District of New York, 1993-95; Counsel 
+to the District Attorney, 1987-93; Assistant United 
+States Attorney, Southern District of New York, 
+1981-85 
+
+
+Darrel Stephens, 
+Police Chief, Charlotte-Mecklenburg, North Carolina 
+
+
+Herbert J. Stern, 
+United States District Judge, District of New Jersey, 
+1974-87; United States Attorney, District of New 
+Jersey, 1971-74 
+
+
+Larry D. Thompson, 
+United States Attorney, Middle District of Georgia, 
+1982-1986 
+
+
+John F. Timoney, 
+Police Commissioner, Philadelphia, Pennsylvania; 
+Deputy Commissioner, New York Police Department, 
+1995-96; Chief of Police, New York Police 
+Department, 1994-95; Officer, New York Police 
+
+
+Department, 1969-94 
+
+
+A-5 
+
+
+John K. Van de Kamp, 
+Attorney General, State of California, 1983-91; 
+District Attorney, Los Angeles, California, 1975-83; 
+Director, Executive Office of United States 
+Attorneys, 1968-69; United States Attorney, Central 
+District of California, 1966-67; Assistant United 
+States Attorney, Central District of California, 1960- 
+66 
+
+
+Dan K. Webb, 
+United States Attorney, Northern District of Illinois, 
+1981-85; Director, Illinois Department of Law 
+Enforcement, 1978-79; Assistant United States 
+Attorney, Northern District of Illinois, 1970-76 
+
+
+William F. Weld, 
+Governor, Commonwealth of Massachusetts, 
+1991-97; Assistant Attorney General for the Criminal 
+Division, 1986-88; United States Attorney, District of 
+Massachusetts, 1981-86 
+
+
+Richard Word, 
+Police Chief, Oakland, California 
+
+

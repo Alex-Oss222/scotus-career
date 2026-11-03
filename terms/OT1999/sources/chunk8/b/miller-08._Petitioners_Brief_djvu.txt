@@ -1,0 +1,1944 @@
+7 “Supreme Court, U.S. 
+FILED 
+
+
+ft 3 - 00 
+Nos. 99-224 and 
+
+
+Feb 2 exo 
+
+
+In the Supreme Court of tl 
+
+
+CHARLES B. MILLER, ET AL., PETITIONERS 
+D. 
+RICHARD A. FRENCH, ET AL. 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+V. 
+RICHARD A. FRENCH, ET AL. 
+
+
+ON WRITS OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SEVENTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+
+
+BILL LANN LEE 
+
+
+Acting Assistant Attorney 
+General 
+BARBARA D. UNDERWOOD 
+Deputy Solicitor General 
+IRVING L. GORNSTEIN 
+Assistant to the Solicitor 
+General 
+MARK L. GROSS 
+Attorney 
+Department of Justice 
+Washington, D.C. 20530 
+(202) 514-2217 
+
+
+QUESTIONS PRESENTED 
+
+
+Under the automatic stay provision of the Prison 
+Litigation Reform Act of 1995, 18 U.S.C. 3626(e) (Supp. 
+III 1997), the filing of a motion to terminate prospective 
+relief shall operate as a stay during the period begin- 
+ning 30 days after the filing of the motion and ending on 
+the date the court rules on the motion. A court may 
+postpone the effective date of the automatic stay for not 
+more than 60 days for good cause, and any order 
+staying, suspending, delaying, or barring the operation 
+of the automatic stay (other than a postponement for 
+not more than 60 days) is appealable under 28 U.S.C. 
+1292(a)(1). The questions presented are: 
+
+
+1. Whether a district court has authority to suspend 
+the automatic stay and thereby preserve the status quo 
+under traditional equitable standards. 
+
+
+2. Whether the automatic stay provision violates 
+constitutional separation-of-powers principles. 
+
+
+(I) 
+
+
+II 
+
+
+PARTIES TO THE PROCEEDING 
+
+
+The petitioner in No. 99-582 is the United States. 
+The petitioners in No. 99-224 are Charles B. Miller, 
+Superintendent of the Pendleton Correctional Facility, 
+Edward I. Cohn, Commissioner, Indiana Department of 
+Correction, and Herbert Newkirk, Regional Director, 
+Indiana Department of Correction. The respondents 
+are Richard A. French, Morris E. Dozier, Martin W. 
+Bradberry, and Henry C. Jennings. 
+
+
+TABLE OF CONTENTS 
+
+
+The automatic stay provision does not displace a 
+court’s authority to preserve the status quo under 
+traditional equitable standards and does not violate 
+
+
+constitutional separation-of-powers principles 
+
+
+A. Absent clear and unequivocal language, an Act 
+of Congress should not be interpreted to strip a 
+court of its traditional authority to preserve the 
+status quo 
+
+
+B. The automatic stay provision does not preclude 
+a court from issuing an order to preserve the 
+
+
+status quo in appropriate circumstances ................ 
+
+
+C. Other provisions of the act show that the auto- 
+
+
+matic stay provision does not foreclose equitable 
+relief 
+
+
+D. Interpreting the automatic stay provision to pre- 
+serve a court’s equitable authority furthers the 
+PLRA’s general purposes and is consistent with 
+
+
+Congress’s general practice 
+
+
+E. Interpreting the automatic stay provision to 
+permit a court to maintain the status quo under 
+
+
+traditional equitable standards avoids a serious 
+constitutional question 
+
+
+Conclusion 
+
+
+(IID) 
+
+
+5 
+
+
+de ON Ne 
+
+
+12 
+
+
+13 
+
+
+17 
+
+
+* 
+
+
+IV 
+
+
+TABLE OF AUTHORITIES 
+Cases: Page 
+Benjamin v. Kerik, 172 F.3d 144 (2d Cir.), cert. denied, 
+32 
+32 
+
+
+120 S. Ct. 72 (1999) 
+Berwanger v. Cottey, 178 F.3d 834 (7th Cir. 1999) 
+
+
+Califano v. Yamasaki, 442 U.S. 682 (1979) 14,17 
+Doran v. Salem Inn, Inc., 422 U.S. 922 (1975) . 19, 21, 22 
+Dougan v. Singletary, 129 F.3d 1424 (11th Cir. 1997), 
+
+cert. denied, 118 S. Ct. 2375 (1998) 32 
+Edward J. DeBartolo Corp. v. Florida Gulf Coast 
+
+Bidg. & Constr. Trades Council, 485 U.S. 568 (1988) .... 30 
+
+
+French v. Owens, 538 F. Supp. 910 (S.D. Ind. 1982), 
+aff'd in part, 777 F. 2d 1250 (7th Cir. 1985), cert. denied, 
+
+
+479 U.S. 817 (1986) 5 
+Gavin v. Branstad, 122 F.3d 1081 (8th Cir. 1997), 
+
+cert. denied, 118 S. Ct. 2374 (1998) 32 
+Grupo Mexicano de Desarrollo v. Alliance Bond 
+
+Fund, Inc, 119 8. Ct. 1961 (1999) 13 
+Hadiz v. Johnson, 133 F.3d 940 (6th Cir.), cert. denied, 
+
+118 S. Ct. 2368 (1998) 32 
+Hadiz v. Johnson, 144 F.3d 925 (6th Cir. 1998) .......... 7, 22, 29 
+Hayburn’s Case, 2 U.S. (2 Dall.) 409 (1792). 11, 28, 29, 30 
+Hecht Co. v. Bowles, 321 U.S. 321 (1944) ............ 14, 15, 18, 19 
+Honig v. Doe, 484 U.S. 305 (1988) 15, 16, 18, 19 
+Imprisoned Citizens Union v. Ridge, 169 F 3d 178 
+
+(3d Cir. 1999) 32 
+Inmates of Suffolk County Jail v. Rowse, 129 F.3d 
+
+649 (Ist Cir. 1997), cert. denied, 118 S. Ct. 2366 
+
+(1998) 32 
+Jones v. United States, 526 U.S. 227 (1999) 30 
+Morrison v. Olsen, 487 U.S. 654 (1988) 29 
+Nichols v. Hopper, 173 F.3d 820 (11th Cir. 1999) ............ 32 
+Pennhurst State Sch. & Hosp. v. Halderman, 
+
+465 U.S. 89 (1984) 5 
+Pennsylvania v. The Wheeling & Belmont Bridge Co., 
+
+59 U.S. (18 How.) 421 (1855) 13, 30, 31, 32, 37 
+
+
+7 
+—_— 
+1 
+. 
+
+
+Cases—Continued: Page 
+Plaut v. Spendthrift Farm, Inc., 514 US. 211 
+(1995) 7, 11, 27, 28, 29, 30, 31, 35, 36 
+Plyler v. Moore, 100 F.3d 365 (4th Cir. 1996), cert. 
+denied, 520 U.S. 1277 (1997) 32 
+Porter v. Warner Holding Co., 328 U.S. 395 (1946) ........ 14 
+Roche v. Evaporated Milk Ass'n, 319 U.S. 21 (1943) ...... 23 
+Ruiz v. Johnson, 178 F.3d 385 (5th Cir. 1999) 22, 29 
+Scripps-Howard Radio Corp. v. FCC, 316 U.S. 4 
+(1942) 15, 27 
+TVA v. Hill, 487 US. 153 (1978) 34 
+United States v. Klein, 80 U.S. (13 Wall.) 128 (1871) 8 
+United States v. X-Citement Video, Inc., 513 U.S. 64 
+(1994) 30 
+Weinberger v. Romero-Barcelo, 456 U.S. 305 (1982) . 34, 37 
+Yakus v. United States, 321 U.S. 414 (1944) T 19. 26, 27, 34 
+Constitution, statutes and rules: 
+U.S. Const.: 
+Art. I, § 8 (Bankruptcy Clause) 35 
+Art. III 7, 11, 28, 29, 32, 34, 35, 36, 37 
+Amend. XI 5 
+Act of Mar. 23, 1792, ch. 11, 1 Stat. 243 28 
+1 Stat. 244 28, 33 
+Act of Feb. 28, 1798, ch. 17, 1 Stat. 324 28 
+Emergency Price Control Act of 1942, ch. 26, 56 Stat. 
+23 14 
+§ 204, 56 Stat. 33 14 
+§ 204(c), 56 Stat. 32 27 
+Judiciary Act of 1789, ch. 20, 1 Stat. 78 13 
+Prison Litigation Reform Act of 1995, Pub. L. No. 
+104-134, Tit. VIII, $§ 801-810, 110 Stat. 1321-66 to 
+1321-77 (18 U.S.C. 3601 et seg.) 
+$§ 801-810, 110 Stat. 1321-66 to 1321-77 2 
+§ 802, 110 Stat. 1321-68 (18 U.S.C. 3626 note). 3, 4,5 
+§ 802(aX1)A), 110 Stat. 1321-66 (18 U.S.C. 
+3626(a)(1)A) (Supp. III 1997)) 2 
+
+
+§ 802(bX1), 110 Stat. 1321-67 (18 U.S.C. 
+3626(b\(1) (Supp. III 1997)) 3, 32 
+
+
+VI 
+Statutes and rules Continued: Page 
+8020b)( 2), 110 Stat. 1321-68 (18 U.S.C. 
+362605 )( 2) (Supp. III 1997) 2, 3. 24,3 
+§ 802(bX3), 110 Stat. 1321-68 (18 U.S.C. 
+3626(b\(3) (Supp. III 1997) 3, 24-25, 32 
+§ 802(e)(1), 110 Stat. 1321-68 (18 U.S.C. 3626(e)(1) 
+(Supp. III 1997)) 4, 23, 26 
+§ 802(e)(2), 110 Stat. 1321-68 (18 U.S.C. 3626(eX(2) 
+(Supp. III 1997)) 4. 9, 12,17 
+§ 802(e)(3), 110 Stat. 1321-68 (18 U.S.C. 3626(eX3) 
+(Supp. ITI 1997)) 4, 20 
+§ 802(e)4), 18 U.S.C. 36280 (4) (Supp. III 
+1997) 4, 22, 26 
+Speedy Trial Act of 1974, 18 U.S.C. 3161 et seg. 
+18 U.S.C. 3161 8 
+18 U.S.C. 3161(h) 36 
+18 U.S. C. 3162(aX2) 8, 36 
+11 U.S.C. S) 34 
+11 U.S.C. 3602) 8 
+11 U.S.C. 362(d) 35 
+28 U.S.C. 1826(b) 36 
+28 U.S.C. 2403(a) 6 
+Fed. R. Civ. P.: 
+Rule 6(b) 21 
+Rule 65(b) 9, 35, 36 
+Miscellaneous: 
+104 Cong. Rec. H1562 (daily ed. Feb. 10, 1995) 26 
+
+
+143 Cong. Rec. $12,268-12,269 (daily ed. Nov. 9, 1997) — 4, 26 
+Brian M. Hoffstadt, Retaking the Field: The Consti- 
+tutional Constraints On Federal Legislation That Dis- 
+places Consent Decrees, 77 Wash. U. L. C. 53 (1999) 33 
+H.R. 667, 104th Cong., Ist Sess. (1995) * 
+2 
+
+
+H.R. Conf. Rep. No. 405, 105th Cong., Ist Sess. (1977) 
+H.R. Rep. No. 21, 104th Cong., 2d Seas. (1995). 24, 
+Charles Alan Wright, et al., Federal Practice and 
+Procedure (1995): 
+Vol. 4A 21 
+Vol. 11A 13 
+
+
+— 
+
+
+In the Supreme Court ol the United States 
+
+
+No. 99-224 
+
+
+CHARLES B. MILLER, Er AL., PETITIONERS 
+vz. 
+RICHARD A. FRENCH, ET AL. 
+
+
+No. 99-582 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+V. 
+RICHARD A. FRENCH, Er AL. 
+
+
+ON WRITS OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SEVENTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINION BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1a-23a)' 
+is reported at 178 F.3d 437. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+May 6, 1999. On July 29, 1999, Justice Stevens 
+
+
+extended the time for filing a petition for a writ of 
+
+
+Pet. App. refers to the appendix to the petition in No. 99-582. 
+
+
+(1) 
+
+
+2 
+
+
+certiorari to and including September 3, 1999, and on 
+August 23, 1999, Justice Stevens extended the time for 
+filing a petition to and including October 3, 1999. The 
+petition for a writ of certiorari in No. 99-582 was filed 
+on October 4, 1999 (a Monday), and was granted on 
+December 6, 1999. The petition in No. 99-224 was 
+granted on the same day. This Court has jurisdiction 
+under 28 U.S.C. 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+The relevant statutory provisions are reproduced in 
+an appendix to the petition in No. 99-582. Pet. App. 
+40a-42a. 
+
+
+STATEMENT 
+1. In 1996, Congress enacted the Prison Litigation 
+
+
+Reform Act of 1995 (PLRA), Pub. L. No. 104-134, Tit. 
+
+
+VIII, S § 801-810, 110 Stat. 1321-66 to 1321-77. The 
+PLRA sets forth standards for the entry and termina- 
+tion of prospective relief in civil actions challenging 
+conditions at prison facilities. Under the PLRA, 
+prospective relief in prison conditions cases “shall 
+extend no further than necessary to correct the vio- 
+lation of the Federal right of a particular plaintiff or 
+plaintiffs.” 18 U.S.C. 3626(a)(1)(A) (Supp. III 1997). 
+The PLRA provides for the “immediate termination” 
+of relief that does not conform to that standard. 18 
+U.S.C. 3626(b)(2) (Supp. III 1997). It specifies that Iiln 
+any civil action with respect to prison conditions, a 
+defendant or intervenor shall be entitled to the 
+immediate termination of any prospective relief if the 
+relief was approved or granted in the absence of a 
+finding by the court that the relief is narrowly drawn, 
+extends no further than necessary to correct the 
+violation of the Federal right, and is the least intrusive 
+means necessary to correct the violation of the Federal 
+
+
+3 
+
+
+right.“ 18 U.S.C. 3626(b)(2) (Supp. III 1997). That 
+statutory mandate is subject to an important qualifi- 
+cation. “Prospective relief shall not b2 terminated if the 
+court makes written findings based on the record that 
+prospective relief remains necessary to correct a 
+current and ongoing violation of the Federal right, 
+extends no further than necessary to correct the 
+violation of the Federal right, and that the prospective 
+relief is narrowly drawn and the least intrusive means 
+to correct the violation.” 18 U.S.C. 3626(b)(3) (Supp. III 
+1997). A party may seek immediate termination even if 
+the relief “was originally granted or approved before 
+* * the date of the [PLRA’s enactment].” 18 U.S.C. 
+3626 note (Supp. III 1997). 
+
+In addition to permitting a party to move for the 
+immediate termination of decrees that were entered 
+without the necessary findings, the PLRA also permits 
+a party to move periodically for termination of any 
+prison conditions decree, including a decree entered 
+with the necessary findings. 18 U.S.C. 3626(b)(1) (Supp. 
+III 1997). A party may seek termination two years 
+after the entry of relief, one year after a denial of a 
+motion to terminate, and, in the case of pre- PLRA 
+decrees, two years after the date of the PLRA’s enact- 
+ment. Jbid. In April 1998, all pre-PLRA decrees 
+became subject to periodic motions for termination. 
+Motions that are based on the passage of time are sub- 
+ject to the same important limitation as motions that 
+are based on the absence of necessary findings. The 
+relief may not be terminated if the court finds that it 
+remains necessary to correct a current and ongoing 
+violation, and that it is narrowly drawn and the least 
+intrusive means to correct the violation. 18 U.S.C. 
+3626(b)(3) (Supp. III 1997). 
+
+
+4 
+
+
+The PLRA establishes special procedures that gov- 
+ern motions for termination. A court is required to 
+“promptly rule” on such a motion. 18 U.S.C. 3626(e)(1) 
+(Supp. III 1997). When a court fails to issue a prompt 
+ruling, mandamus “shall lie“ as a remedy. Ibid. In 
+addition, under the automatic stay provision, at issue 
+here, the filing of a motion for termination “shall 
+operate as a stay during the period * * * beginning on 
+the 30th day after such motion is filed * * * and * * * 
+ending on the date the court enters a final order ruling 
+on the motion.” 18 U.S.C. 3626(e)(2) (Supp. III 1997). A 
+court may “postpone the effective date of an automatic 
+stay * * * for not more than 60 days for good cause,” 
+but no postponement is permissible “because of general 
+congestion of the court’s calendar.” 18 U.S.C. 3626(e)(3) 
+(Supp. III 1997). Any order “staying, suspending, de- 
+laying, or barring the operation of the automatic stay” 
+(other than an order postponing the automatic stay 
+under the 60-day postponement provision) is subject to 
+appellate review. Such an order “shall be treated as an 
+order refusing to dissolve or modify an injunction and 
+shall be appealable pursuant to section 1292(a)(1) of 
+title 28.” 18 U.S.C. 3626(e)(4) (Supp. III 1997). 
+
+
+2 As originally enacted, the automatic stay provision specified 
+that Jalny prospective relief subject to a pending motion shall be 
+automatically stayed,” beginning on the 30th day after the filing of 
+a motion for termination and ending on the date the court rules on 
+the motion. § 802, 110 Stat. 1321-68. The 1997 Amendments to the 
+PLRA revised the automatic stay provision to its current form. 
+The 1997 amendments also added: (1) the provision authorizing 
+mandamus when a court fails to rule promptly on a motion for 
+termination, 18 U.S.C. 3626(e)(1) (Supp. III 1997); (2) the provision 
+authorizing a court to postpone the automatic stay for 60 days for 
+good cause, 18 U.S.C. 3626(e)(3) (Supp. III 1997); and (3) the 
+provision authorizing an appeal from an order suspending the 
+automatic stay. 18 U.S.C. 3626(e)(4) (Supp. III 1997). See H.R. 
+
+
+— 
+
+
+5 
+
+
+2. In 1975, a elass of inn ates at the Pendleton Cor- 
+rectional Facility (respondents), filed suit against 
+several Indiana prison officials (the State), alleging that 
+the conditions at the facility violated state and federal 
+law. After a trial, the district court found violations of 
+state and federal law and entered a remedial order 
+designed to correct those violations. French v. Owens, 
+538 F. Supp. 910 (S.D. Ind. 1982). While an appeal 
+from that judgment was pending, this Court held in 
+Pennhurst State School and Hospital v. Halderman, 
+465 U.S. 89 (1984), that the Eleventh Amendment de- 
+prives federal courts of jurisdiction to issue prospective 
+relief against state officers based on state law. The 
+Seventh Circuit remanded the case to the district court 
+for reconsideration in light of Pennhurst. 
+
+On remand, the district court found that most of the 
+state law violations also violated federal law. J.A. 27- 
+
+
+42. The district court also issued an amended remedial 
+
+
+order that took into account improvements that had 
+been made at the facility. J.A. 21-26. The Seventh 
+Circuit affirmed in part and vacated in part. French v. 
+Owens, 777 F.2d 1250 (1985). It upheld the provisions 
+of the district court’s order addressing extreme over- 
+crowding, double celling, improper use of mechanical 
+restraints, inadequate medical care, unsanitary kitchen 
+services, and insufficient staffing; it vacated the pro- 
+visions addressing exercise and recreation, fire and 
+safety, and protective custody. Id. at 1258. The parties 
+
+
+Conf. Rep. No. 405, 105th Cong., Ist Sess. 132-133 (1997); 143 Cong. 
+Rec. $12,269 (daily ed., Nov. 9, 1997) (remarks of Sen. Abraham). 
+Congress specified that the 1997 amendments “shall take effect 
+upon the date of the enactment of this Act and shall apply to 
+
+pending cases.” 18 U.S.C. 3626 note (Supp. III 1997). | 
+
+
+6 
+
+
+resolved the remaining issues through joint stipu- 
+lations. J.A. 45-47. 
+
+3. In 1997, the State filed a motion under the PLRA 
+for termination of the district court’s remedial orders. 
+J.A. 49-51. The State argued that it was entitled to 
+termination of those orders because they did not con- 
+tain any finding that the relief is narrowly drawn, 
+extends no further than necessary to correct the 
+violation of respondents’ constitutional rights, and is 
+the least intrusive means to correct those constitutional 
+violations. J.A. 46. The State’s motion did not address 
+whether the relief in the decree remained necessary to 
+remedy a violation of federal law. J.A. 45-47. 
+
+Respondents filed a motion for a preliminary injunc- 
+tion to suspend the operation of the automatic stay and 
+thereby maintain the status quo. J.A. 49-51. Finding 
+that the automatic stay provision “is clearly unconsti- 
+tutional,” that respondents “were likely to succeed on 
+the merits” of their challenge to the automatic stay, and 
+that the State “would not be harmed by the entry of [a] 
+preliminary injunction,” the district court granted 
+respondents’ motion. Pet. App. 36a-37a. The court 
+ordered that “there shall be no stay of prospective 
+relief in this matter and the parties shall continue to 
+comply with this Court’s prior orders and judgments 
+until further order of the Court.” Jd. at 37a. 
+
+The State appealed the order suspending the auto- 
+matic stay, and the United States intervened in the 
+appeal, pursuant to 28 U.S.C. 2403(a), to defend the 
+constitutionality of the automatic stay provision. The 
+United States argued that the automatic stay provision 
+does not deprive a court of authority to suspend the 
+automatic stay and thereby preserve the status quo in 
+accordance with traditional equitable standards and 
+that, when so construed, the automatic stay provision 
+
+
+— 9 
+
+
+7 
+
+
+does not violate constitutional separation-of- powers 
+principles. 
+
+4. The court of appeals affirmed the district court’s 
+order. Pet. App. la-23a. The court of appeals inter- 
+preted the automatic stay as a legislative command that 
+a stay of prospective relief occur no later than 90 days 
+after the filing of a motion for termination. Id. at ga- 
+12a. The court expressly rejected the view of the 
+United States and of the Sixth Circuit in Hadiæ v. 
+Johnson, 144 F.3d 925 (1998), that a court has authority 
+to suspend the automatic stay and thereby preserve the 
+status quo in accordance with traditional equitable 
+standards. Pet. App. 9a-13a. The court noted that the 
+statutory text refers to the stay as “automatic,” 
+provides that the filing of a motion for termination 
+“shall” operate as a stay, and “specifie[s] not only a 
+clear starting point, but also the ending point for the 
+stay.” Id. at 12a. The court concluded that Jelven 
+though we do not lightly assume that Congress meant 
+to restrict the equitable powers of the federal courts, 
+we find it impossible to read this language as doing 
+anything less than that.” Jbid. 
+
+The court then ruled that the automatic stay pro- 
+vision “violates the separation of powers principle 
+because it is a direct legislative suspension of a court 
+order.” Pet. App. 18a-19a. The court noted that in 
+Plaut v. Spendthrift Farm, Inc., 514 U.S. 211, 218-219 
+(1995), this Court stated that Article III “gives the 
+Federal Judiciary the power, not merely to rule on 
+cases, but to decide them, subject to review only by 
+superior courts in the Article III hierarchy.” Pet. App. 
+19a (emphasis omitted). The court of appeals concluded 
+that the automatic stay provision violates that principle 
+because it “places the power to review judicial decisions 
+outside of the judiciary: it is a self-executing legislative 
+
+
+8 
+
+
+determination that a specific decree of a federal court 
+* * * must be set aside at least for a period of time, no 
+matter what the equities, no matter what the urgency 
+of keeping it in place.” Ibid. 
+
+The court of appeals also concluded that the auto- 
+matic stay provision violates the separation-of-powers 
+principle established in United States v. Klein, 80 U.S. 
+(13 Wall.) 128 (1871). Pet. App. 19a-20a. The court 
+characterized Klein as holding that “Congress does not 
+have the power to impose a rule of decision for pending 
+judicial cases, apart from its power to change the 
+underlying applicable law.” Id. at 20a. The court con- 
+cluded that the automatic stay provision “falls com- 
+fortably within the rule of Klein,” because it mandates 
+that prospective relief must be terminated during the 
+pendency of the case. Ibid. 
+
+
+A majority of the judges in regular active service did 
+
+
+not vote to hear the case en banc. Pet. App. 23a n.3. 
+Judge Easterbrook (joined by Chief Judge Posner and 
+Judge Manion) dissented from the denial of rehearing 
+en banc. Id. at 23a-35a. The dissenters agreed with the 
+panel that a district court does not have authority to 
+suspend the automatic stay and thereby preserve the 
+status quo under traditional equitable standards. Id. at 
+23a. The dissenters concluded, however, that the auto- 
+matic stay provision, as so construed, does not violate 
+separation-of-powers principles. 
+
+The dissenters disagreed with the panel’s conclusion 
+that the automatic stay provision unconstitutionally 
+interferes with a court’s ability to adjudicate a case. 
+Pet. App. 26a-30a. In their view, the automatic stay 
+provision simply “goads” courts to rule promptly on the 
+merits of a motion for termination, id. at 28a, and the 
+Constitution does not give courts an immunity from 
+deadlines, id. at 28a-29a. The dissenters also disagreed 
+
+
+9 
+
+
+with the majority’s conclusion that the automatic stay 
+provision violates the rule in Klein. They reasoned that 
+the automatic stay provision does not mandate a rule of 
+decision without a change in the underlying law, but 
+simply stays prospective relief until the court deter- 
+mines whether that relief complies with the new 
+standard set forth in the termination provision. Id. 
+at 30a-3la. The dissenters asserted that the panel’s 
+decision threatens the constitutionality of the automatic 
+stay in bankruptcy, 11 U.S.C. 362(a)(2), Federal Rule of 
+Civil Procedure 65(b)’s 10-day limit on temporary 
+restraining orders, the Speedy Trial Act’s requirement 
+that an indictment must be dismissed if the case is not 
+tried within the time limits set forth in the Act, 18 
+U.S.C. 3161, 3162(a)(2), and other federal statutes that 
+set deadlines for judicial action. Pet. App. 31a-35a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Federal courts have always enjoyed the power to 
+issue equitable relief to preserve the status quo pend- 
+ing the resolution of a case that is before them. The 
+automatic stay provision’s requirement that a motion 
+for termination “shall operate as a stay,” within 30 days 
+of its filing, 18 U.S.C. 3626(e)(2) (Supp. III 1997), does 
+not displace that traditional equitable authority. Parti- 
+cularly when read against the background principle 
+that federal courts retain traditional equitable author- 
+ity absent the clearest congressional command to the 
+contrary, the automatic stay provision simply describes 
+what will occur in the absence of judicial intervention. 
+Thus, if the statutory period passes and the court does 
+not intervene, a stay of the judgment automatically 
+occurs. But the text of the automatic stay provision 
+does not purport to limit the authority of a court to 
+exercise its historic authority to preserve the status 
+
+
+10 
+
+
+quo when a termination motion cannot be resolved 
+before the automatic stay takes effect and the 
+traditional prerequisites for the issuance of equitable 
+relief—irreparable injury and probability of success— 
+have been satisfied. 
+
+That construction of the automatic stay provision is 
+consistent with Congress’s decision to limit good cause 
+postponements to 60 days. Any factor affecting a 
+court’s ability to resolve the case within 30 days, other 
+than general docket congestion, can justify a 60-day 
+postponement. Congress’s unwillingness to permit a 
+postponement of the automatic stay under that gener- 
+ous good cause standard for more than 60 days does not 
+imply that Congress intended to foreclose a court from 
+suspending the automatic stay for a longer period of 
+time when justified under the far more demanding 
+standards for obtaining equitable relief. 
+
+The provision for appellate review of orders suspend- 
+ing the automatic stay further supports that conclusion. 
+That provision manifests Congress’s understanding 
+that courts would have authority to issue a suspension 
+order to preserve the status quo in an appropriate case, 
+and gives prison officials a right to appellate review of 
+such an order under the traditional abuse of discretion 
+standard. . 
+
+Interpreting the automatic stay to preserve a court’s 
+traditional authority to preserve the status quo is also 
+consistent with Congress’s purpose of preventing pre- 
+mature termination of relief that is necessary to 
+remedy a violation of the Constitution. Because Con- 
+gress’s termination standard requires a court to assess 
+the current conditions of institutions that it may not 
+have examined for years, it will not always be possible 
+for the court to resolve the merits of a termination 
+motion before the automatic stay takes effect. In those 
+
+
+11 
+
+
+cases, when the parties opposing termination can show 
+that they will suffer irreparable harm if the automatic 
+stay goes into effect, and that they are likely to prevail 
+on the termination motion, an order preserving the 
+status quo helps to fulfill Congress’s overall purposes. 
+
+Finally, interpreting the automatic stay to preserve 
+a court’s authority to maintain the status quo is sup- 
+ported by the principle that a statute should be 
+interpreted to avoid a serious constitutional question 
+if such a construction is possible. Under Plaut v. 
+Spendthrift Farm, Inc., 514 U.S. 211 (1995), Congress 
+may not through retroactive legislation reopen a final 
+judgment that is no longer subject to appeal, and under 
+Hayburn’s Case, 2 U.S. (2 Dall.) 409 (1792), Congress 
+may not directly suspend a court decision. If construed 
+to foreclose equitable relief, the automatic stay pro- 
+vision would raise a serious Article III question under 
+those decisions, because in cases in which there is 
+insufficient time for a court to resolve the termination 
+motion before the automatic stay takes effect, the 
+automatic stay provision would legislatively effect the 
+suspension of a final judgment without affording a court 
+any role in the suspension decision. And it would do so 
+even though the relief in the judgment may be neces- 
+sary to remedy a violation of federal law. In contrast, if 
+the automatic stay is interpreted to preserve a court’s 
+authority to maintain the status quo, a court would 
+retain control over whether its judgment should be 
+suspended, and the constitutional question would be 
+avoided. 
+
+Although the question is a close one, we believe that, 
+in light of Congress’s broad power to affect prospective 
+relief, its general authority to control the exercise of a 
+court’s equitable discretion, and the 90-day window for 
+resolving the merits of a termination motion, a statute 
+
+
+12 
+
+
+that foreclosed equitable relief would still be consti- 
+tutional. But because the statute does not clearly 
+deprive courts of their traditional equitable powers, and 
+because construing it to do so would raise a serious 
+constitutional question, that construction should not be 
+adopted. 
+
+
+ARGUMENT 
+
+
+THE AUTOMATIC STAY PROVISION DOES NOT 
+DISPLACE A COURT’S AUTHORITY TO PRE- 
+SERVE THE STATUS QUO UNDER TRADITIONAL 
+EQUITABLE STANDARDS AND DOES NOT 
+VIOLATE CONSTITUTIONAL SEPARATION-OF- 
+POWERS PRINCIPLES 
+
+
+The “automatic” stay provision of the PLRA specifies 
+that, after 30 days (with a possible extension to 90 days 
+upon a showing of good cause), a motion to terminate 
+prospective relief “shall operate as a stay.” 18 U.S.C. 
+3626(e)(2) (Supp. III 1997). The court of appeals inter- 
+preted that provision to displace a court’s traditional 
+equitable authority to preserve the status quo pending 
+the resolution of the merits of a matter before it. Based 
+on that interpretation, the court of appeals invalidated 
+the automatic stay provision on separation-of-powers 
+grounds. 
+
+The court of appeals’ interpretation of the automatic 
+stay provision is incorrect. That provision does not 
+affect a court’s traditional equitable authority to pre- 
+serve the status quo. Thus, if the party opposing a 
+termination motion can show that a stay of the relief in 
+outstanding decrees would cause irreparable injury, 
+that the termination motion is likely to be defeated, and 
+that the merits of the motion cannot be resolved before 
+the automatic stay takes effect, a court has discretion to 
+suspend the automatic stay and require prison officials 
+
+
+13 
+
+
+to comply with outstanding court orders until the court 
+resolves the termination motion on the merits. When 
+construed in that way, the automatic stay provision 
+satisfies constitutional separation-of-powers principles. 
+
+
+A. Absent Clear And Unequivocal Language, An Act Of 
+Congress Should Not Be Interpreted To Strip A Court 
+Of Its Traditional Authority To Preserve The Status 
+Quo 
+
+
+1. The Judiciary Act of 1789 conferred on federal 
+courts jurisdiction over “all suits * * * in equity.” 
+Ch. 20, 1 Stat. 78. That statute gives federal courts 
+“authority to administer in equity suits the principles of 
+the system of judicial remedies which had been devised 
+and was being administered by the English Court of 
+Chancery at the time of the separation of the two 
+countries.” Grupo Mexicano de Desarrollo v. Alliance 
+
+
+Bond Fund, Inc., 119 S. Ct. 1961, 1968 (1999). 
+
+
+As one component of that authority, federal courts 
+have always enjoyed the power to issue equitable relief 
+to preserve the status quo pending a resolution of a 
+case that is before them. 11A Charles Alan Wright et 
+al., Federal Practice and Procedure § 2943, at 79 (1995); 
+see id. §§ 2941, 2948, at 33, 133-134. That traditional 
+authority includes the power to keep an outstanding 
+injunction in place pending the resolution of a motion to 
+dissolve the injunction. Pennsylvania v. The Wheeling 
+& Belmont Bridge Co., 59 U.S. (18 How.) 421, 436 
+(1855). 
+
+Thus, absent the automatic stay provision, a court 
+presented with a motion to terminate a under the 
+PLRA would have authority to keep the decree in place 
+and thereby preserve the status quo until the court 
+resolves on the merits the question whether the decree 
+should be terminated. The question presented in this 
+
+
+14 
+
+
+case is whether the automatic stay provision entirely 
+removes that traditional authority in cases in which the 
+merits of a termination motion cannot be resolved 
+before the automatic stay takes effect. 
+
+2. The starting point for resolving that question is 
+the firmly established principle that courts retain their 
+traditional equitable authority unless Congress makes 
+its intent to displace that authority absolutely clear. 
+The Court has used several formulations to describe the 
+requisite degree of clarity that is needed before an Act 
+of Congress will be construed to displace traditional 
+equitable authority. It has stated that, “[a]bsent the 
+clearest command to the contrary from Congress, 
+federal courts retain their equitable power to issue 
+injunctions in suits over which they have jurisdiction.” 
+Califano v. Yamasaki, 442 U.S. 682, 705 (1979). It has 
+said that, “[uJnless a statute in so many words, or by 
+a necessary and inescapable inference, restricts the 
+court’s jurisdiction in equity, the full scope of that 
+jurisdiction is to be recognized and applied.” Porter v. 
+Warner Holding Co., 328 U.S. 395, 398 (1946). And it 
+has stated that, when “Congress desire[s] to make 
+* * * an abrupt departure from traditional equity 
+practice,” it makes “its desire plain.” Hecht Co. v. 
+Bowles, 321 U.S. 321, 330 (1944). 
+
+3. Several decisions of this Court are particularly 
+instructive in illuminating the scope of that clear state- 
+ment rule. In Bowles, the Court addressed whether the 
+Emergency Price Control Act of 1942, ch. 26, 56 Stat. 
+23, required a court to issue relief once a violation of the 
+Act was proven. The Act provided that, “upon a 
+showing by the Administrator that [a] person has 
+engaged or is about to engage in any * * * acts or 
+practices [in violation of the Act], a permanent or 
+temporary injunction, restraining order, or other order 
+
+
+15 
+
+
+shall be granted without bond.” 56 Stat. 33 (emphasis 
+added). Even though the literal language of the Act 
+appeared to require courts to issue a compliance order 
+in all cases in which a violation was established, the 
+Court rejected that interpretation. 321 U.S. at 328-329. 
+The Court explained that, “if Congress had intended to 
+make such a drastic departure from the traditions of 
+equity practice, an unequivocal statement of its purpose 
+would have been made.” Id. at 329. 
+
+In Scripps-Howard Radio Corp. v. FCC, 316 U.S. 4 
+(1942), the Court addressed whether a court of appeals 
+had authority to issue a stay of an administrative order 
+issued under the Communications Act of 1934, pending 
+review of that order. One section of the Act provided 
+for judicial review of certain orders in the district court 
+and expressly authorized the district court to issue a 
+temporary stay of the order under review. A com- 
+panion section of the Act provided for review of other 
+orders in the court of appeals and did not authorize the 
+court of appeals to issue a stay of the order. /d. at 7-8. 
+Although for those orders an ordinary application of the 
+principle of expressio unius est exclusio alterius would 
+have supported the conclusion that a court of appeals 
+lacked authority to issue a stay, id. at 18 (Douglas, J. 
+dissenting), the Court rejected that interpretation of 
+the Act. The Court stated “that Congress would not, 
+without clearly expressing such a purpose, deprive the 
+Court of Appeals of its customary power to stay orders 
+under review.” Id. at 11. Since Congress had not 
+explicitly denied the court of appeals authority to issue 
+a stay, the court of appeals retained that historic power. 
+Id. at 17. 
+
+Finally, in Honig v. Doe, 484 U.S. 305 (1988), the 
+Court addressed whether a court had authority under 
+the Education of the Handicapped Act to require a 
+
+
+16 
+
+
+change in a child’s educational placement pending the 
+resolution of litigation directed to determining where 
+the child should be placed. The “stay put” provision of 
+the Act specified that Idluring the pendency of any 
+proceedings conducted pursuant to [the Act] unless the 
+State or local education agency and the parents or 
+guardian otherwise agree, the child shall remain in the 
+then current educational placement of such child.” Id. 
+at 312. The Court held that the language of the Act was 
+“unequivocal” and precluded a school from expelling a 
+child during the pendency of proceedings without the 
+parent’s consent, even if the child was dangerous. Id. at 
+323-324. At the same time, the Court held that the 
+“stay put” provision “in no way purports to limit or pre- 
+empt the authority conferred on courts [to issue equi- 
+table relief],” and that school officials could therefore 
+seek injunctive relief to change the placement of a 
+child in appropriate cases. Id. at 327-328. In such pro- 
+ceedings, the Court explained, the “stay put” provision 
+“effectively creates a presumption in favor of the child’s 
+current educational placement which school officials can 
+overcome only by showing that maintaining the child in 
+his or her current placement is substantially likely 
+to result in injury either to himself or herself, or to 
+others.” Id. at 328. 
+
+In each of the above cases, the statute at issue could 
+readily have been interpreted to displace traditional 
+equitable authority if ordinary principles of statutory 
+construction had been applied. Because none of the 
+statutes explicitly prohibited courts from exercising 
+traditional equitable authority, however, the Court held 
+that such authority had not been displaced. 
+
+
+17 
+
+
+B. The Automatic Stay Provision Does Not Preclude A 
+Court From Issuing An Order To Preserve The Status 
+
+
+Quo In Appropriate Circumstances 
+
+
+1. The automatic stay provision states that the filing 
+of a motion for termination “shall operate as a stay 
+during the period * * * beginning on the 30th day 
+after such motion is filed * * * and * * * ending 
+on the date the court enters a final order ruling on the 
+motion.” 18 U.S.C. 3626(e)(2) (Supp. III 1997). Parti- 
+cularly when read against the background principle 
+that federal courts retain traditional equitable author- 
+ity “[aJbsent the clearest command to the contrary” 
+(Yamasaki, 442 U.S. at 705), that statutory text does 
+not deprive a court of authority to maintain the status 
+quo by suspending the automatic stay and requiring 
+observance of the terms of a decree until the merits of 
+the termination motion can be resolved. Instead, it 
+simply describes what will occur in the absence of 
+judicial intervention. While otherwise disagreeing with 
+our interpretation of the automatic stay provision, 
+Judge Easterbrook described the provision in precisely 
+those terms. He explained that the automatic stay 
+provision “does not tell judges when, how, or what to 
+do, but specifies what happens if the judge does not 
+act.” Pet. App. 26a (Easterbrook, J., dissenting from 
+the denial of rehearing en banc). 
+
+Thus, if the statutory period passes and the court 
+does not intervene, a stay of the judgment automati- 
+cally occurs and it remains in effect until the termina- 
+tion motion is decided. Nothing in the language of the 
+automatic stay provision, however, purports to limit the 
+authority of a court to exercise its historic authority to 
+preserve the status quo in those cases in which the ter- 
+mination motion cannot be resolved before the auto- 
+
+
+18 
+
+
+matic stay takes effect and the traditional standards for 
+the issuance of equitable relief have been satisfied. 
+
+The automatic stay provision therefore operates in 
+much the same way as the “stay put” provision at issue 
+in Honig. Like the “stay put” provision, the automatic 
+stay provision governs what happens during the 
+pendency of litigation in the absence of judicial inter- 
+vention. It does not, however, foreclose a court from 
+exercising the traditional equitable authority it other- 
+wise possesses. 
+
+The court of appeals interpreted the automatic stay 
+provision to foreclose the exercise of equitable author- 
+ity because the statutory text describes the stay as 
+“automatic,” states that the stay “shall” take effect, and 
+specifies when the stay begins and ends. Pet. App. 12a. 
+Those features of the statute, however, are perfectly 
+consistent with the statute establishing what will 
+happen in the absence of judicial intervention; they do 
+not demonstrate that Congress took the extraordinary 
+step of eliminating a court’s historic authority to pre- 
+serve the status quo. The “stay put” provision at issue 
+in Honig took effect automatically, used the term 
+“shall” and specified a starting point and ending point. 
+484 U.S. at 312. And the judicial relief provision at 
+issue in Bowles used the term “shall.” 321 U.S. at 326. 
+The Court nonetheless concluded in both cases that the 
+statutes at issue did not displace a court’s traditional 
+equitable authority. The same conclusion is warranted 
+here. 
+
+2. The power to issue equitable relief to maintain the 
+status quo does not imply the authority to do so in any 
+and all circumstances. The automatic stay provision 
+effectively creates a presumption in favor of changing 
+the status quo by staying the judgment at the point at 
+which the automatic stay is scheduled to take effect, 
+
+
+— — r—r—4 —— 
+
+
+19 
+
+
+and requires those seeking to preserve the status quo 
+to satisfy the traditional standards for obtaining equi- 
+table relief. Cf. Honig, 484 U.S. at 328 (“stay put” 
+provision “effectively creates a presumption” in favor of 
+the child’s current placement which school officials 
+must overcome). 
+
+The “traditional standard” for granting an injunction 
+preserving the status quo until the merits of a case can 
+be resolved requires the party seeking such relief “to 
+show that in the absence of its issuance he will suffer 
+irreparable injury and also that he is likely to prevail on 
+the merits.” Doran v. Salem Inn, Inc., 422 U.S. 922, 
+931 (1975). In deciding whether to grant such relief, the 
+court also weighs the harm to others and the public 
+interest. Yakus v. United States, 321 U.S. 414, 440 
+(1944). A court is also required to exercise its tradi- 
+tional equitable authority in a way that is consistent 
+with the larger policies of the Act. Bowles, 321 U.S. at 
+331. Based on those considerations, a party seeking to 
+avoid the effect of the automatic stay ordinarily must 
+show that (1) a stay of the outstanding orders would 
+cause the party irreparable injury, (2) the termination 
+motion is likely to be defeated, and (3) the merits of the 
+motion cannot be resolved before the automatic stay 
+takes effect. Once such a showing is made, a court has 
+discretion to maintain the status quo by suspending the 
+automatic stay and requiring prison officials to observe 
+the terms of the decree until the merits of a termination 
+motion can be resolved.’ 
+
+
+A court applying traditional equitable standards also would 
+have discretion to maintain the status quo when discovery con- 
+cerning present conditions is necessary to establish the traditional 
+prerequisites for equitable relief and plaintiffs, although diligent, 
+have been prevented from obtaining sufficient discovery because 
+defendants have obstructed those efforts. Other similarly com- 
+
+
+20 
+
+
+C. Other Provisions Of The Act Show That The 
+Automatic Stay Provision Does Not Foreclose 
+Equitable Relief 
+
+
+Related provisions of the Act also support the con- 
+clusion that Congress did not intend to strip a federal 
+court of its authority to maintain the status quo under 
+traditional equitable standards. 
+
+1. The provision appearing immediately after 
+the automatic stay provision—the “good cause post- 
+ponement provision”—specifies that the court may 
+postpone the effective date of an automatic stay * * * 
+for not more than 60 days for good cause,” which does 
+not include “general congestion of the court’s calendar.” 
+18 U.S.C. 3626(e)(3). If Congress had intended for the 
+automatic stay provision to block judicial intervention 
+under traditional equitable standards, Congress could 
+easily have added another sentence to the good cause 
+postponement provision stating that: 
+
+
+Except as provided herein, a court shall have no 
+authority to stay, suspend, delay, or bar the opera- 
+tion of the automatic stay. 
+
+
+The absence of such an express restriction confirms 
+that the automatic stay provision does not displace judi- 
+cial authority to preserve the status quo in accordance 
+with traditional equitable standards when the merits of 
+a termination motion cannot be resolved before the 
+automatic stay takes effect. 
+
+Nor does the grant of authority to postpone the 
+automatic stay under a good cause standard for no more 
+than 60 days imply that a court lacks authority to 
+suspend the automatic stay under traditional equitable 
+
+
+pelling equitable circumstances would also justify a suspension of 
+the automatic stay to maintain the status quo. 
+
+
+21 
+
+
+standards for a longer period of time. Under the statu- 
+tory good cause standard, any factor affecting a court’s 
+ability to resolve the merits of a termination motion 
+within 30 days, other than general docket congestion, 
+could justify a postponement of up to 60 days. Thus, a 
+counsel’s scheduling conflict, the unavailability of a 
+witness, a general need for discovery, or a court’s prior 
+involvement in another pressing matter could all serve 
+as a basis for a statutory postponement order. Com- 
+pare Fed. R. Civ. P. 6(b) (authorizing a court to extend 
+the deadlines imposed by the Rules “for cause shown”); 
+4A Charles Alan Wright et al., supra, § 1165, at 475 (a 
+party must demonstrate some justification for an 
+extension of a deadline, but an application for an 
+extension under Rule 6 will normally be granted absent 
+bad faith or prejudice to the adverse party). In 
+contrast, in order to obtain a suspension of the auto- 
+matic stay under traditional equitable standards, a 
+party ordinarily must show not only that the merits of 
+the termination motion cannot be resolved before the 
+automatic stay takes effect, but also that a stay of the 
+court’s orders would cause the party irreparable injury 
+and that the party is likely to defeat the termination 
+motion. Doran, 422 U.S. at 931. 
+
+Congress’s unwillingness to permit a postponement 
+of the automatic stay under a generous good cause 
+standard for more than 60 days does not imply that 
+Congress foreclosed a court from suspending the auto- 
+matic stay when justified under the far more demand- 
+ing standards for obtaining equitable relief. To the 
+contrary, the fact that Congress has limited judicial 
+authority in one respect implies that the court remains 
+free to exercise the traditional authority that has not 
+been restricted. 
+
+
+2. Significantly, Congress also provided for appellate 
+review of orders “staying, suspending, delaying, or 
+barring the operation of the automatic stay” (other than 
+an order postponing the automatic stay under the 60- 
+day postponement provision). 18 U.S.C. 3626(e)(4) 
+(Supp. III 1997). Such orders “shall be treated as an 
+order refusing to dissolve or modify an injunction and 
+shall be appealable pursuant to section 1292(a)(1) of 
+title 28.” Ibid. 
+
+That appellate review provision further supports the 
+conclusion that Congress did not intend to displace a 
+court’s authority to preserve the status quo under 
+traditional equitable standards. As one court of appeals 
+has explained, it is unlikely that Congress would have 
+provided for appellate review of orders suspending the 
+automatic stay “if the courts did not have the authority 
+to issue such orders.” Hadizx v. Johnson, 144 F.3d 925, 
+938 (6th Cir. 1998). Thus, the most likely explanation 
+for the appellate review provision is that “Congress 
+understood that there would be some cases in which a 
+conscientious district court acting in good faith would 
+perceive that equity required that it suspend the (e)(2) 
+thirty-day stay and Congress therefore permitted the 
+district court to do so, subject to appellate review.” 
+Ruiz v. Johnson, 178 F.3d 385, 394 (5th Cir. 1999). 
+
+Congress’s failure to provide any standard for review 
+of orders suspending the automatic stay lends addi- 
+tional weight to that conclusion. An appellate court 
+ordinarily reviews an order affording equitable relief by 
+determining whether the district court abused its 
+discretion in its application of the traditional equitable 
+factors. Doran, 422 U.S. at 931-982. Congress’s failure 
+to specify a different standard for review of orders 
+suspending the automatic stay suggests that Congress 
+intended for that traditional standard to be applied. 
+
+
+— — ee 
+
+
+The alternative explanation for the appellate review 
+provision — that it facilitates prompt reversal of all 
+orders suspending the automatic stay —is unpersuasive. 
+If that were Congress’s intent, it could have provided 
+for appellate correction through mandamus, which is 
+the procedure that has traditionally been used “to 
+confine an inferior court to a lawful exercise of its 
+prescribed jurisdiction or to compel it to exercise its 
+authority when it is its duty to do so.” Roche v. 
+Evaporated Milk Ass’n, 319 U.S. 21, 26 (1943). Con- 
+gress manifested its awareness of the distinction 
+between review by appeal and review by mandamus in 
+the PLRA itself. At the same time that Congress 
+provided for an appeal of an order suspending the 
+automatic stay, it also provided for review by man- 
+damus of a court’s failure to perform its duty to issue a 
+prompt ruling on a motion for termination. 18 U.S.C. 
+3626(e)(1) (Supp. III 1997). Thus, the appellate review 
+provision reflects a recognition that a district court has 
+authority to suspend the automatic stay under tradi- 
+tional equitable standards, and gives prison officials a 
+right to an appellate determination on whether such an 
+order conforms to those standards.‘ 
+
+
+The court of appeals concluded that Congress may have 
+enacted the appellate review provisions to facilitate appeals from 
+orders invalidating the automatic stay provisions on constitutional 
+grounds. While that may have been one of Congress’s purposes, 
+nothing in the text of the Act suggests that facilitating appeals 
+from constitutional rulings was Congress’s exclusive purpose. 
+
+
+24 
+
+
+D. Interpreting The Automatic Stay Provision To 
+Preserve A Court's Equitable Authority Furthers The 
+PLRA's General Purposes And Is Consistent With 
+Congress s General Practice 
+
+
+1. Interpreting the automatic stay provision to 
+preserve a court’s authority to maintain the status quo 
+under traditional equitable standards is also consistent 
+with the delicate balance that Congress sought to strike 
+when it enacted the PLRA. The predecessor to the bill 
+that ultimately became law provided that “in any civil 
+action with respect to prison conditions, a defendant or 
+intervenor shall be entitled to the immediate termina- 
+tion of any prospective relief, if the relief was approved 
+or granted in the absence of a finding by the court that 
+prison conditions violated a federal right.” H.R. 667, 
+104th Cong., Ist Sess. § 301(b) (1995); H.R. Rep. No. 21, 
+104th Cong., 1st Sess. 25-26 (1995). That bill did not 
+require any analysis of whether the relief was in fact 
+necessary to remedy a violation of a federal right. Ibid. 
+
+The bill Congress enacted contains a provision that is 
+similar to the predecessor bill. That provision requires 
+termination of any decree “approved or granted in the 
+absence of a finding by the court that the relief is 
+narrowly drawn, extends no further than necessary to 
+correct the violation of the Federal right, and is the 
+least intrusive means necessary to correct the violation 
+of the Federal right.” 18 U.S.C. 3626(b)(2) (Supp. III 
+1997). Unlike the predecessor bill, however, the bill 
+Congress enacted contains an important qualification. 
+It provides that “[pJrospective relief shall not be 
+terminated if the court makes written findings based on 
+the record that prospective relief remains necessary to 
+correct a current and ongoing violation of the Federal 
+right, extends no further than necessary to correct the 
+
+
+violation of the Federal right, and that the prospective 
+relief is narrowly drawn and the least intrusive means 
+2 cee the violation.” 18 U.S.C. 3626(b)(3) (Supp. III 
+
+That change is significant. In the bill it enacted, 
+Congress sought to balance two objectives. It sought to 
+facilitate the prompt termination of relief that is not 
+necessary to remedy a violation of a federal right. At 
+the same time, however, it also sought to prevent pre- 
+mature termination of relief that is necessary to remedy 
+a violation of a federal right. Those dual purposes are 
+best accommodated when a court has authority to 
+preserve the status quo beyond 90 days in the cases in 
+which those opposing the termination motion can show 
+that a stay of relief will cause irreparable injury, the 
+termination motion is likely to be defeated, and the 
+termination motion cannot be resolved on the merits 
+before the automatic stay takes effect. 
+
+That is particularly true in light of the standard 
+Congress established for deciding whether prospective 
+relief should be terminated—whether the relief remains 
+necessary to remedy a violation of a federal right. That 
+inquiry necessarily requires a court to assess the 
+current conditions of facilities that it may not have 
+examined for years. When the relief applies to a single 
+institution, it may be possible to resolve the merits of 
+the motion before the automatic stay becomes effective. 
+But when the relief affects all or most state institutions, 
+as it does in several States, it may be unrealistic to 
+expect that the inquiry can be completed before the 
+automatic stay takes effect. It would frustrate 
+Congress’s intent to avoid premature termination of 
+relief that is necessary to remedy a violation of federal 
+law to read into the automatic stay provision an 
+
+
+unstated intent to displace entirely a court’s historic 
+authority to maintain the status quo in those cases. 
+
+Nor does recognition of such authority undermine 
+Congress’s purpose of ensuring prompt termination of 
+relief that is not necessary to remedy a violation of a 
+federal right. In those cases in which a district court 
+suspends the automatic stay without adequate justifi- 
+cation, prison officials may obtain appellate review of 
+that decision under 18 U.S.C. 3626(e)(4) (Supp. III 
+1997). And in those cases in which the district court’s 
+suspension of the stay is justified, but the district court 
+fails to decide the merits of the termination motion with 
+“reasonable promptness,” prison officials may obtain a 
+writ of mandamus to compel a prompt determination. 
+18 U.S.C. 3626(e)(1) (Supp. III 1997). 
+
+2. Congress has a long tradition of respecting the 
+authority of courts to exercise traditional equitable 
+authority to preserve the status quo. Congress has 
+rarely stripped courts of that authority, and when it has 
+done so, it has done so in unmistakable terms. For 
+example, the statute at issue in Yakus, 321 U.S. at 437- 
+443, expressly provided that “the court shall have the 
+
+
+5 The limited legislative history of the automatic stay provision 
+is largely unilluminating on the question presented in this case. 
+That history suggests that the automatic stay provision was 
+intended to encourage district courts to rule promptly on motions 
+for termination. 143 Cong. Rec. $12,268 (daily ed. Nov. 9, 1997) 
+(statement of Sen. Abraham) (amended automatic stay provision); 
+H.R. Rep. No. 21, 104th Cong., Ist Sess. 26 (1995) (original pro- 
+vision); 104 Cong. Rec. H1562 (daily ed. Feb. 10, 1995) (statement 
+of Rep. Canady) (same). Nothing in the legislative history 
+suggests that Congress intended to displace a court's historic 
+authority to maintain the status quo in those cases in which a 
+motion for termination could not be resolved before the automatic 
+stay was scheduled to take effect and plaintiff was able to establish 
+
+
+the traditional prerequisites for equitable relief. 
+
+
+27 
+
+
+powers of a district court with respect to the juris- 
+diction conferred on it by this Act; except that the court 
+shall not have power to issue any temporary restraining 
+order or interlocutory decree staying or restraining, in 
+whole or in part, the effectiveness of any regulation or 
+order” issued under the Act. Emergency Price Control 
+Act of 1942, ch. 26, § 204(c), 56 Stat. 32. 
+
+That statute demonstrates that when Congress 
+wants to displace a court’s traditional equitable author- 
+ity to maintain the status quo, it knows how to select 
+language that is suitable to the task. Congress did not 
+enact such language here. Under the exacting stan- 
+dards established by this Court, and given the absence 
+of language comparable to that used in the statute at 
+issue in Yakus, the automatic stay provision should not 
+be interpreted to displace a court’s authority to issue 
+equitable relief to maintain the status quo. See 
+Scripps-Howard Radio, 316 U.S. at 17 (“Where Con- 
+gress wished to deprive the courts of this historic 
+power Ito maintain the status quo pending appeal], it 
+knew how to use apt words—only once has it done so 
+and in a statute born of the exigencies of war.”). 
+
+
+E. Interpreting The Automatic Stay Provision To Permit 
+A Court To Maintain The Status Quo Under 
+Traditional Equitable Standards Avoids A Serious 
+Constitutional Question 
+
+
+1. In Plaut v. Spendthrift Farm, Inc., 514 U.S. 211 
+(1995), the Court invalidated an Act of Congress that 
+required federal courts to reopen certain cases that 
+were dismissed as time-barred if the cases would have 
+been timely filed under a somewhat longer statute of 
+limitations. The Court held that Congress lacks author- 
+ity under the Constitution to enact retroactive legis- 
+lation that commands a federal court to reopen a final 
+
+
+judgment no longer subject to appellate review. Id. at 
+218-219, 240. The Court explained that Article III 
+“gives the Federal Judiciary the power, not merely to 
+rule on cases, but to decide them, subject to review only 
+by superior courts in the Article III hierarchy.” Id. at 
+218-219 (emphasis omitted). 
+
+In Plaut, the Court also identified a related principle 
+derived from Hayburn’s Case, 2 U.S. (2 Dall.) 409 
+(1792), “that Congress cannot vest review of the de- 
+cisions of Article III courts in officials of the Executive 
+Branch.” 514 U.S. at 218. The Court indicated that the 
+same underlying principle also precludes Congress from 
+reviewing the decisions of Article III courts. The Court 
+quoted with approval Judge Iredell’s statement in 
+Hayburn’s Case, 2 U.S. (2 Dall.) at 413, that “no de- 
+cision of any court of the United States can, under any 
+circumstances, . . . be liable to a revision, or even 
+suspension, by the Legislature itself, in whom no 
+judicial power of any kind appears to be vested.” Plaut, 
+514 U.S. at 226 (emphasis added). 
+
+
+6 Hayburn’s Case involved the administration of a pension 
+statute for disabled Revolutionary War veterans. Act of Mar. 23, 
+1792, ch. 11, 1 Stat. 243. Under that statute, circuit courts were 
+directed to examine pension applicants to determine the nature 
+and degree of their disability and to “transmit the result of their 
+inquiry” to the Secretary of War, if “in their opinion, the applicant 
+should be put on the pension list.” 1 Stat. 244. The Secretary of 
+War, in turn, was authorized to “withhold the name of such appli- 
+cant from the pension list, and make report * * * to Congress,” in 
+any case in which he had “cause to suspect imposition or mistake.” 
+Ibid. Hayburn’s Case became moot before this Court had occasion 
+to address the constitutionality of the pension statute. See 2 U.S. 
+(2 Dall.) at 409-410. Act of Feb. 28, 1798, ch. 17, 1 Stat. 324 
+(repealing challenged provision). In their capacity as circuit 
+justices, however, five of the six Justices of this Court 
+the view that the statute was unconstitutional. The views of those 
+
+
+A constitutional question arises under Plaut and 
+Hayburn’s Case, when prison officials file a motion to 
+terminate a decree entered before the effective date of 
+the PLRA, and there is insufficient time for a court to 
+resolve the merits of the motion before the automatic 
+stay takes effect. If the automatic stay provision were 
+interpreted to displace a court’s traditional authority to 
+maintain the status quo in such cases, it would resemble 
+a direct legislative suspension of a final judgment of an 
+Article III court. Like a direct legislative suspension, 
+it would legislatively effect the suspension of a final 
+judgment without affording a court any role in the 
+suspension decision. And it would do so even though 
+the relief in the decree may remain necessary to 
+remedy a violation of federal law. There is a serious 
+constitutional question under Plaut and Hayburn’s 
+Case whether such legislation would encroach on the 
+judicial function in violation of Article III. 
+
+In contrast, if the automatic stay is interpreted to 
+permit a court to maintain the status quo under tradi- 
+tional equitable standards, the court retains control 
+over whether its judgment should be suspended. As 
+two courts of appeals have held, and the court of 
+appeals in this case acknowledged, that interpretation 
+thereby avoids any serious Article III question. Ruiz, 
+178 F.3d at 395; Hadix, 144 F.3d at 937; Pet App. lla 
+n.1; see Plaut, 514 U.S. at 231-232 (a legislative waiver 
+of the res judicata effect of a final judgment does not 
+raise a separation-of-powers concern when Jwlaiver 
+lis] subject to the control of the courts themselves”). 
+
+
+Justices, which are collected in the report of Hayburn’s Case, 2 
+U.S. (2 Dal.) at 410-414, “have since been taken to reflect a proper 
+understanding of the role of the Judiciary under the Constitution.” 
+Morrison v. Olsen, 487 U.S. 654, 678 n. 15 (1988). 
+
+
+30 
+
+
+Interpreting the automatic stay provision to preserve 
+such authority is therefore supported by the principle 
+that a statute should be interpreted to avoid “serious 
+constitutional problems,” unless such a construction is 
+“plainly contrary to the intent of Congress.” Edward J. 
+DeBartolo Corp. v. Florida Gulf Coast Bldg. & Constr. 
+Trades Council, 485 U.S. 568, 575 (1988); see also Jones 
+v. United States, 526 U.S. 227, 238-240 (1999); United 
+States v. X-Citement Video, Inc., 513 U.S. 64, 78 (1994). 
+
+2. We do not suggest that the automatic stay pro- 
+vision would be unconstitutional under Plaut and 
+Hayburn’s Case if construed to foreclose equitable 
+relief, but rather that it would pose a substantial 
+constitutional question not fully answered by existing 
+precedents. Unlike the statute at issue in Plaut, the 
+automatic stay provision concerns prospective relief 
+only; and unlike the statute at issue in Hayburn’s Case, 
+the automatic stay provision does not authorize officers 
+of a nonjudicial branch of government to review 
+judgments in individual cases. Those distinctions, how- 
+ever, do not eliminate entirely the serious constitutional 
+question that would be presented if the automatic stay 
+provision were construed to foreclose equitable relief, 
+because some of the concerns underlying Plaut and 
+Hayburn’s Case would remain. 
+
+a. Unlike the statute at issue in Plaut, which re- 
+opened claims for money damages, the automatic stay 
+provision affects only prospective relief. 18 U.S.C. 
+3626(e)(2) (Supp. III 1997). That distinction is poten- 
+tially significant, because under Wheeling Bridge, 
+supra, Congress has substantia! authority to enact 
+legislation that affects the prospective relief in final 
+judgments. 
+
+In Wheeling Bridge, the Court affirmed a judgment 
+ordering a bridge to be removed, because the bridge 
+
+
+31 
+
+
+was too low for passing ships and therefore constituted 
+a public nuisance. Congress then enacted a statute 
+declaring the bridge a “lawful structure” and a “post 
+road.” The Court held that Congress did not have 
+authority to alter the judgment to the extent that it 
+awarded costs to the plaintiff. 59 U.S. (18 How.) at 431. 
+The Court reached a different conclusion, however, 
+with respect to the part of the judgment that required 
+the bridge to be removed: 
+
+
+But that part of the decree, directing the abatement 
+of the obstruction, is executory, a continuing decree, 
+which requires not only the removal of the bridge, 
+but enjoins the defendants against any recon- 
+struction or continuance. Now, whether it is a 
+future existing or continuing obstruction depends 
+upon the question whether or not it interferes with 
+the right of navigation. If, in the mean time, since 
+the decree, this right has been modified by the 
+competent authority, so that the bridge is no longer 
+an unlawful obstruction, it is quite plain the decree 
+of the court cannot be enforced. 
+
+
+Id. at 431-432. In Plaut, the Court reaffirmed Wheeling 
+Bridge, stating that it had established that Congress 
+may enact legislation that “alter{s] the prospective 
+effect of injunctions entered by Article III courts.” 514 
+US. at 282. 
+
+Wheeling Bridge, however, does not eliminate the 
+serious constitutional question that would be presented 
+if the automatic stay provision were interpreted to 
+displace a court’s traditional equitable authority. The 
+legislation at issue in Wheeling Bridge did not purport 
+to dissolve the injunction to remove the bridge by 
+operation of law, but instead established a new legal 
+regime under which the Court dissolved the injunction 
+
+
+after deciding that the injunction was no longer neces- 
+sary to prevent a violation of federal law. 
+
+In that respect, the Wheeling Bridge legislation 
+operated like the PLRA’s termination provision, which 
+is not at issue in this case. That provision does not 
+purport to terminate a judgment by operation of law. 
+Instead, it requires a court to terminate the prospective 
+relief unless it finds that the relief remains necessary to 
+remedy a violation of federal law. 18 U.S.C. 3626(b)(1), 
+(2), and (3) (Supp. III 1997). As the courts of appeals 
+have uniformly concluded, the termination provision 
+therefore falls comfortably within Congress’s authority 
+under Wheeling Bridge, supra, to affect prospective 
+relief. See Berwanger v. Cottey, 178 F.3d 834 (7th Cir. 
+1999); Nichols v. Hopper, 173 F.3d 820 (11th Cir. 1999); 
+Benjamin v. Kerik, 172 F.3d 144 (2d Cir.) (en banc), 
+cert. denied, 120 S. Ct. 72 (1999); Imprisoned Citizens 
+Union v. Ridge, 169 F.3d 178 (3d Cir. 1999); Hadiæ v. 
+Johnson, 133 F.3d 940 (6th Cir.), cert. denied, 118 S. Ct. 
+2368 (1998); Inmates of Suffolk County Jail v. Rouse, 
+129 F.3d 649 (Ist Cir. 1997), cert. denied, 118 S. Ct. 2366 
+(1998); Dougan v. Singletary, 129 F.3d 1424 (11th Cir. 
+1997), cert. denied, 118 S. Ct. 2375 (1998); Gavin v. 
+Brunstad, 122 F.3d 1081 (8th Cir. 1997), cert. denied, 
+118 S. Ct. 2374 (1998); Plyler v. Moore, 100 F.3d 365 
+(4th Cir. 1996), cert. denied, 520 U.S. 1277 (1997). 
+
+The automatic stay provision, by contrast—if 
+interpreted to foreclose equitable relief—would operate 
+differently from the legislation at issue in Wheeling 
+Bridge and the termination provision. Unlike those 
+provisions, it would effect a suspension of the final 
+judgment by operation of law, rather than through a 
+judicial act, and it would do so even though the relief in 
+the decree may remain necessary to remedy a violation 
+of federal law. Thus, notwithstanding Wheeling Bridge, 
+
+
+that interpretation would raise a serious Article III 
+question concerning the extent of Congress’s power to 
+interfere with the final judgments of Article III courts. 
+See Brian M. Hoffstadt, Retaking the Field: The Con- 
+stitutional Constraints On Federal Legislation That 
+Displaces Consent Decrees, 77 Wash. U. L.Q. 53, 90 
+(1999) (Congress has authority under Wheeling Bridge 
+to modify the law and require courts to modify decrees 
+to the extent that they are inconsistent with the new 
+law, [blut when Congress declares an outstanding de- 
+cree null and void, it may cross the line of permissible 
+activity by negating a judicial order and encroaching 
+upon the prerogative of the Judiciary to render dis- 
+positive judgments”). 
+
+b. The statute at issue in Hayburn’s Case provided 
+that circuit courts would decide pension claims, and 
+that the Secretary of War would then review the de- 
+cisions and withhold relief when he suspected that the 
+court had erred in its determination. Act of Mar. 23, 
+1972, ch. 11, 1 Stat. 244. The automatic stay provision 
+does not authorize either Congress or the Executive 
+branch to review judgments in particular prison con- 
+ditions cases in order to determine whether the court 
+erred in rendering its judgments. 
+
+That distinction, however, does not fully answer the 
+separation-of-powers concern that would be raised if 
+the automatic stay provision were interpreted to 
+displace traditional equitable authority. The critical 
+point, for separation of powers purposes, is that, in a 
+certain class of cases, the automatic stay provision 
+would still legislatively effect a suspension of a final 
+judgment without affording a court any role in that 
+decision. And it would do so even though the relief may 
+be necessary to remedy a violation of federal law. Such 
+a statute sufficiently resembles a direct legislative 
+
+
+34 
+
+
+suspension of a final judgment to raise serious Article 
+ITI concerns. 
+
+3. We do not suggest that legislative interference 
+with equitable authority necessarily and in all cases 
+raises constitutional concerns. It is well established 
+that Congress “may intervene and guide or control the 
+exercise of the court’s discretion.” Weinberger v. 
+Romero-Barcelo, 456 U.S. 305, 313 (1982) (emphasis 
+added). For example, in Yakus, the Court upheld legis- 
+lation providing that a court could not enter a tempo- 
+rary restraining order or a preliminary injunction in a 
+certain class of cases. 321 U.S. at 441-442. And in TVA 
+v. Hill, 437 U.S. 153, 193-195 (1978), the Court held that 
+Congress had authority to require a court to enjoin 
+projects that threaten an endangered species. See 
+Romero-Barcelo, 456 U.S. at 313-314 (reaffirming Hill). 
+But neither of those cases raised the problem of legis- 
+lative interference with a final judgment that is no 
+longer subject to appeal. Moreover, in both of those 
+cases Congress mandated that a court either exercise 
+or refrain from exercising its discretion in a particular 
+way. In neither case did Congress attempt to bypass 
+the judiciary by mandating a particular result by 
+operation of law. Accordingly, those cases do not fully 
+answer the constitutional question that would be raised 
+if the automatic stay provision were interpreted to 
+displace a court’s traditional equitable authority. 
+
+4. The statutes discussed by the State in its petition 
+(Pet. 13-14) and by Judge Easterbrook in his dissent 
+from the denial of rehearing en banc (Pet. App. 3la-35a) 
+do not pose the same constitutional problem. 
+
+a. For example, while the automatic stay in bank- 
+ruptcy goes into effect upon the filing of a bankruptcy 
+petition, 11 U.S.C. 362(a)(1), a court immediately has 
+broad authority to terminatſel, annulſ l, modify[], or 
+
+
+35 
+
+
+condition{] such stay.” 11 U.S.C. 362(d). Because the 
+automatic stay in bankruptcy is subject to judicial 
+control, it does not raise the Article III question that 
+would be presented if the PLRA automatic stay were 
+interpreted to foreclose equitable relief. See Plaut, 514 
+U.S. at 231-232. 
+
+In addition, since the time that Congress first exer- 
+cised its plenary authority under the Bankruptcy 
+Clause to provide “uniform Laws on the subject of 
+Bankruptcies throughout the United States,” U.S. 
+Const. Art. I, § 8, the judgments that have been issued 
+by Article III courts have been qualified by that system 
+of laws. That feature of bankruptcy law has significant 
+Article III consequences. As the Court explained in 
+Plaut: 
+
+
+The finality that a court can pronounce is no more 
+than what the law in existence at the time of judg- 
+ment will permit it to pronounce. If the law then 
+applicable says that the judgment may be reopened 
+for certain reasons, that limitation is built into the 
+judgment itself, and its finality is so conditioned. 
+
+
+514 US. at 234. By contrast, the PLRA stay provision 
+does not simply build certain limitations into future 
+judgments; it imposes such limitations on previously 
+existing decrees. 
+
+b. The 10-day limit on temporary restraining orders 
+set forth in Federal Rule of Civil Procedure 65(b) 
+similarly does not raise the Article III question pre- 
+sented here. Rule 65 does not purport to suspend final 
+judgments of Article III courts by operation of law; the 
+10-day limit on temporary restraining orders is built 
+into the orders that a court issues; and a court retains 
+authority to preserve the status quo by issuing a 
+
+
+36 
+
+
+preliminary injunction once the 10-day period expires. 
+See Fed. R. Civ. P. 65(b). 
+
+c. The requirement in the Speedy Trial Act of 1974, 
+18 U.S.C. 3162(a)(2), that an indictment must be dis- 
+missed if the defendant is not tried within the statutory 
+period similarly does not raise Article III concerns. A 
+failure to try a defendant within the statutory period 
+results in the dismissal of an indictment, not in the 
+suspension of a judgment. bid. The dismissal of the 
+indictment requires a judicial act; it does not occur by 
+operation of law. Jbid. And the court retains broad 
+authority to extend the applicable period and to dismiss 
+without prejudice. 18 U.S.C. 3161(h), 3162(a)(2). 
+
+d. The 30-day expedited review provision for ap- 
+peals by persons incarcerated for contempt of a grand 
+jury, 28 U.S.C. 1826(b), likewise does not pose Article 
+III concerns. That provision applies to judgments that 
+are subject to appeal. Such legislation does not raise the 
+same Article III problems as legislation affecting judg- 
+ments that are no longer subject to appeal. Plaut, 514 
+U.S. at 226-227. Section 1826(b), moreover, simply 
+specifies a time limit for a decision; it does not specify a 
+consequence for a court’s failure to meet the deadline. 
+A court is therefore free to decide what effect, if any, a 
+failure to meet the statutory deadline will have on the 
+court’s judgment. 
+
+e. The various other statutes that set forth time 
+limits on judicial decisionmaking are also inapposite 
+here. Pet. App. 33a-35a (Easterbrook, J., dissenting 
+from the denial of rehearing en banc) (discussing the 
+relevant statutes). The constitutional problem with 
+interpreting the automatic stay provision to foreclose 
+equitable relief is not that it would require a court to 
+make a decision on the merits of a termination motion 
+within a specified time period. The problem is that, if 
+
+
+37 
+
+
+the court does not make a decision on the merits within 
+a specified period, relief in a final judgment that may be 
+necessary to remedy a violation of federal law would be 
+suspended by operation of law. None of the time limit 
+statutes raise that constitutional problem. 
+
+5. If the Court concludes that it is necessary to 
+decide the difficult constitutional question presented if 
+the automatic stay provision is construed to foreclose a 
+court’s authority to issue equitable relief, we believe 
+that, on balance, Congress’s broad authority to affect 
+prospective relief, Wheeling Bridge, supra, its general 
+power to control the exercise of equitable discretion, 
+Romeo-Barcelo, supra, and the 90-day window for 
+judicial action on the merits before the automatic stay 
+takes effect would be sufficient to sustain its consti- 
+tutionality. That construction of the automatic stay 
+provision, however, would raise serious Article III 
+concerns that are not presented when the automatic 
+stay provision is interpreted to permit the exercise of 
+traditional equitable authority. Since the automatic 
+stay provision can fairly be interpreted to permit a 
+court to suspend the automatic stay and thereby 
+preserve the status quo in accordance with traditional 
+equitable standards, the court of appeals erred in failing 
+to adopt that interpretation. 
+
+
+38 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed. 
+
+
+Respectfully submitted. 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+
+BILL LANN LEE 
+Acting Assistant Attorney 
+
+General 
+
+BARBARA D. UNDERWOOD 
+Deputy Solicitor General 
+
+IRVING L. GORNSTEIN 
+
+
+Assistant to the Solicitor 
+General 
+
+
+MARK L. GROSS 
+Attorney 
+
+
+FEBRUARY 2000 
+
+

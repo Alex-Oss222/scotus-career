@@ -1,0 +1,23 @@
+{
+  "case": "Carter v. United States",
+  "record": "carter-v-united-states_merits_2000-06-12.md",
+  "public_blocks": "pass",
+  "holdings_identity": "pass",
+  "explanation_word_counts": [
+    167,
+    111,
+    145,
+    171
+  ],
+  "judgment": "5-4",
+  "full_lead_support": 5,
+  "Part_III_support": 9,
+  "Stone_frozen_compatibility": "reviewed; no fallback or substantive change",
+  "no_overwrite": "pass",
+  "not_performed": [
+    "workspace integration",
+    "render input",
+    "term-wide validation",
+    "Git commitment"
+  ]
+}

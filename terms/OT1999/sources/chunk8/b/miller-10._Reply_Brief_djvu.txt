@@ -1,0 +1,839 @@
+Supreme Court, US. | 
+A lo, 2ece re) FILED 
+“ , ee as 
+Nos. 99-224, 99-582 APR 1 0 2000 
+CLERK 
+Jn the 
+
+
+Supreme Count of the United States 
+
+
+CHARLES B. MILLER, SUPERINTENDENT OF THE 
+PENDLETON CORRECTIONAL FACILITY, et ai., 
+Petitioners, 
+
+
+Vv. 
+
+
+RICHARD A. FRENCH, et ai., 
+Respondents. 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+
+
+REPLY BRIEF OF PETITIONERS 
+CHARLES B. MILLER, et al. 
+
+
+KAREN M. FREEMAN-WILSON 
+Attorney General of Indiana 
+
+JON LARAMORE 
+Counsel of Record 
+
+Deputy Attorney General 
+
+219 State House 
+
+Indianapolis, IN 46204 
+
+317-233-6582 
+
+
+TABLE OF CONTENTS 
+
+
+I. The Department of Justice’s construction of the 
+statute is unsupported and unconvincing ............ 2 
+
+
+II. The automatic stay limits federal courts’ power 
+in a constitutional mannet....................ececceeeeeeeees 6 
+
+
+A. The automatic stay does not 
+impermissibly alter a judgment.................... 6 
+
+
+B. Section 3626(e)(2) does not preclude the 
+Judicial Branch from deciding cases............ 9 
+
+
+C. Section 3626(e)(2) does not prescribe 
+I i conrenicianntincsiontitandeeeicien 12 
+
+
+D. The automatic stay applies equally 
+
+
+EOL COAT, Pe Ae: 13 
+E. The automatic stay is not retroactive......... 14 
+I... ccississcstitsseeeiisnainianintaaiatedeaieabadahdeetiaine canna 15 
+
+
+TABLE OF AUTHORITIES 
+Cases 
+
+
+Benjamin v. Jacobson, 172 F.3d 144 
+(2d Cir. 1999) (en banc), cert. denied, 
+
+
+ae 7 
+Berwanger v. Cottey, 178 F.3d 834 
+
+Ee 8 
+Board of Education v. Dowell, 
+
+a 14 
+Cagle v. Hutto, 177 F.3d 253 (4th Cir. 1999)........ 13 
+
+
+Dougan v. Singletary, 129 F.3d 1424 
+(11th Cir. 1997), cert. denied, 
+
+
+I on nsnacdcounscnsscensenssessccees 8 
+French v. Duckworth, 178 F.3d 437 
+
+Ee 4 
+Gavin v. Branstad, 122 F.3d 1081 (8th Cir. 1997), 
+
+cert. denied, 118 S. Ct. 2374 (1998) ..........cccccccceees 8 
+Hadix v. Johnson, 133 F.3d 940 (6th Cir.), 
+
+cert. denied, 118 S. Ct. 2368 (1998) .....2.ccccceceees 8 
+Hayburn’s Case, 2 U.S. (2 Dall.) 408 (1792).......... 7 
+Hecht Co. v. Bowles, 321 U.S. 321 (1944)... 5 
+Honig v. Doe, 484 U.S. 305 (1988) 0.0... cccccceeeeees 5 
+Imprisoned Citizens Union v. Ridge, 
+
+SE ECE, WITIIID cc cccosatscssecosssesaseossnesesss 8 
+In re Scott, 163 F.3d 282 (Sth Cir. 1998)............00.. 9 
+Inmates of Suffolk Co. Jail v. Rouse, 
+
+129 F.3d G49 (st Cir. 1997).........cccesccccercssevereesees 7 
+Kerr v. U.S. District Ct., 426 U.S. 394 (1976)......... 9 
+Landgraf v. USI Film Products, 
+
+Se aS GP i ccnsccevesenasscosevccessonsceccessosscsosees 14 
+Pennsylvania v. Wheeling & Belmont 
+
+Bridge Co., 54 U.S. 518 (1855) .........ceceeseeeeeeeeeees 8 
+
+
+Phillips v. Joint Legislative Committee, 
+637 F.2d 1014 (Sth Cir. 1981), cert. denied, 
+ITI a ciccnnvescccanseceversescccoccnnnsnoneccuecs 11 
+
+
+Plaut v. Spendthrift Farm, Inc., 
+
+
+hs Se cine cciieiicitiiiiacnttnnnticnntintaniall 6,7 
+Plyler v. Moore, 100 F.3d 365 (4" Cir. 1996), 
+
+cert. denied, 520 U.S. 1277 (1997) .........cccccccceeeees 8 
+Robertson v. Seattle Audubon Society, 
+
+EAI a RoE 8 
+
+
+Scripps-Howard Radio, Inc. v. Federal 
+Communications Comm'n, 316 U.S. 4 (1942)...4, 5 
+United States v. Klein, 
+
+
+80 U.S. (13 Wall.) 128 (1871) ..........ceceeeeeeeeeeeeees 12 
+Watson v. Ray, 192 F.3d 1153 (8th Cir. 1999) ......13 
+Yakus v. United States, 321 U.S. 414 (1944)............ 7 
+
+
+Constitutional Provisions 
+
+
+HT, Te Ti siertennesnnonaisiimiiiasatitiaaipatiimmaaiieiiildiiaaaiaitatil 8 
+TET, Tis Ti cnccrrtrttentasitcetincedeninieaniaisiaidiniecaimaniaaliiatiaiadal 8, 13 
+Statutes 
+ie SI nccciitrsenenidsetanbedienseuiegniiinabenniiatil ) 
+i is SEI consncuncncennanentasimedenidegmementntesinats ) 
+Be ne SI sitessrdncencastenennnemennatitionsnitaesl 4,10 
+a le Se cisnntccnccnnormnnsespnamennieneminngnnedie 1,8 
+18 U.S.C. §3626(O)(1) .........::cccceeeeeeeees i sceeiaiaiiiaied 11 
+ff Ee Eee 4,7, 10 
+Be ls Se cccnncncnccneessenacesenianesinsins passim 
+S'S 4 
+Be ere SITU cencocenenestesnmiecsanseantennticneniqnetcin’ 4 
+all 5 
+Rules 
+I i all 11 
+5 rea eae re 11 
+8 anne TOIT 8 
+ill 
+
+
+Nos. 99-224, 99-582 
+
+
+On the 
+Supreme Count of the United States 
+
+
+CHARLES B. MILLER, SUPERINTENDENT OF THE 
+PENDLETON CORRECTIONAL FACILITY, et ai., 
+Petitioners, 
+
+
+Vv. 
+
+
+RICHARD A. FRENCH, et ai., 
+Respondents. 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+
+
+REPLY BRIEF OF PETITIONERS 
+CHARLES B. MILLER, et al. 
+
+
+In the Prison Litigation Reform Act, Congress struck 
+a balance between prisoners’ rights to obtain federal 
+equitable redress for constitutional violations and states’ 
+rights to operate their prisons free of judicial intervention. 
+The PLRA narrowed district courts’ equitable discretion to 
+prolong existing prison injunctions and consent decrees. 18 
+U.S.C. §3626(b). The automatic stay at issue in this case, 18 
+U.S.C. §3626(e)(2), gives teeth to the congressional goal of 
+prompt judicial action on motions to vacate prison 
+injunctions once constitutional violations have been 
+eradicated. 
+
+
+‘Part I below explains that Congress carefully crafted 
+the automatic stay to attain this goal by providing a clear cut- 
+off date after which judicial inaction would lead to 
+unequivocal consequences. Part II demonstrates that 
+Congress carefully crafted the automatic stay to meet 
+constitutional requirements: the automatic stay only 
+prospectively affects the federal courts’ enforcement power. 
+It does not disturb the underlying judgment or undermine the 
+judicial power to rule on the merits of the motion to vacate. 
+
+
+I. The Department of Justice’s construction 
+of the statute is unsupported and unconvincing. 
+
+
+The Department of Justice’s construction of 
+§3626(e)(2) contradicts the clear congressional purpose, 
+which was to provide an incentive for federal courts to act 
+promptly on motions to vacate prison injunctions. The 
+Department’s construction — that the automatic stay is 
+perpetually subject to the equitable power to enjoin its 
+application — lacks support in the statutory text or case law. 
+Moreover, neither the prisoner-plaintiffs nor any amicus 
+agrees with the United States’ construction of the statute. 
+
+
+Congress enacted the PLRA out of concern about 
+delays in processing prisons’ motions to vacate and modify 
+judgments, and Congress created the automatic stay to give 
+district courts incentives to act quickly to process those 
+motions. Congress enacted the automatic stay not only out of 
+concern that some federal courts remained involved in prison 
+operations too long, but also because it viewed then-existing 
+procedural tools as insufficient to promptly end federal 
+judicial involvement. 
+
+
+Thus, only if the automatic stay is truly automatic — 
+not perpetually extendable as the Department would have it — 
+can Congress’s goal be met and the balance Congress struck 
+
+
+2 
+
+
+in the PLRA be preserved. See Br. for United States at 24 
+(discussing “delicate balance” struck by Congress in the 
+PLRA). The practical result of the Department’s approach 
+would be to eliminate the certainty Congress intended and 
+replace it with discretionary decisions on preliminary 
+injunctions subject only to abuse-of-discretion appellate 
+review. 
+
+
+The Department’s assertion that there is a “clear 
+statement’’-type rule for displacement of federal equitable 
+jurisdiction is unsupported. The Department argues that 
+Congress must speak with special clarity and force when it 
+ousts ordinary equitable powers of the federal courts. Br. for 
+United States at 14. But its assertion is incorrect. No case 
+prescribes any specific standard or form of words for 
+Congress to indicate its intention to preclude federal courts 
+from using their ordinary equitable powers. 
+
+
+In any event, the automatic stay provision of the 
+PLRA is a clear congressional indication of intent to displace 
+traditional federal equitable authority. Its language, contents, 
+and arrangement show clear congressional intent to preclude 
+equitable authority to enjoin the automatic stay after the 
+statutory 90-day period has passed. See Br. of Petitioners 
+Miller, et al. at 14-16. Also, as explained in detail in the Brief 
+Amici Curiae of Association of State Correctional 
+Administrators, et al., at 3-13, the legislative history also 
+unequivocally supports the automatic nature of the stay in 
+
+
+§3626(e)(2). 
+
+
+The statute, which is titled “automatic stay,” uses 
+mandatory language to indicate that a state’s filing of a 
+motion to vacate “shall operate as a stay” as of the thirtieth 
+day after the motion is filed. 18 U.S.C. §3626(e)(2). “Even 
+though we do not lightly assume that Congress meant to 
+restrict the equitable powers of the federal courts, we find it 
+impossible to read this language as doing anything less than 
+
+
+3 
+
+
+that.” French v. Duckworth, 178 F.3d 437, 443 (7th Cir. 
+1999). The explicit statutory provision that the time period 
+may be extended only once, for a period up to 60 additional 
+days, further indicates that Congress did not intend the 
+perpetual extensions espoused by the Department. 18 U.S.C. 
+
+
+§3626(e)(3). 
+
+
+Moreover, the statute as a whole indicates 
+congressional rejection of the Department’s position. In 
+§3626(b)(3), the statute indicates the on/y manner in which 
+the automatic stay does not come into effect. The district 
+court is authorized to continue its injunction only “if the court 
+makes written findings based on the record that prospective 
+relief remains necessary to correct a current and ongoing 
+violation of the Federal right...” The United States’ 
+position that preliminary injunctive relief is readily available 
+in relation to the automatic stay is belied by §3626(a), which 
+significantly restricts the availability of preliminary 
+injunctive relief in cases involving prisons. 
+
+
+Another structural element, the immediate appeal 
+provision in §3626(e)(4), supports the automatic nature of the 
+stay. The drafters inserted this provision in 1997, after some 
+courts had failed to enforce the automatic stay, to ensure that 
+any effort to impede the automatic implementation of the stay 
+could promptly be presented to an appellate court. As Judge 
+Diane P. Wood wrote for the Seventh Circuit panel, “The 
+drafters of the PLRA realized that they were skating close to 
+the line in (e)(2), and they wanted to ensure that the issue that 
+is now before us could be resolved in an interlocutory 
+appeal.” French, 178 F.3d at 443. 
+
+
+The cases cited by the Department of Justice will not 
+bear the weight they have been assigned, as the prisoners also 
+admit. Br. for French at 32 n.8. Scripps-Howard Radio, Inc. 
+v. Federal Communications Comm'n, 316 U.S. 4 (1942), 
+construed a statute that gives the federal courts certain review 
+
+
+4 
+
+
+powers over FCC decisions, although not explicitly the 
+equitable power to stay an administrative order. /d. at 8-9. 
+The Supreme Court ruled that the failure to explicitly include 
+the power to stay in the relevant statute did not preclude the 
+federal courts from staying FCC decisions. /d. at 10. 
+Scripps-Howard thus construed the omission of an explicit 
+grant of equitable power, not the kind of explicit limitation 
+on federal equitable power in the PLRA. 
+
+
+Hecht Co. v. Bowles, 321 U.S. 321 (1944), dealt only 
+with construction of statutory language conferring equitable 
+power. The question was whether a particular statute 
+required an injunction under certain circumstances, and the 
+Court ruled that it did not because the specific statutory 
+language did not mandate issuance of an injunction. /d. at 
+322, 328-29.' It is not at all a case about the general nature 
+of federal equitable power. 
+
+
+Likewise, Honig v. Doe, 484 U.S. 305 (1988), dealt 
+with whether a federal court can exercise its general equitable 
+authority in a statutory scheme that displaces parties’ 
+ordinary discretion. /d. at 323-27. Because parties’ 
+discretion, not federal courts’ general equitable authority, 
+was the subject of the legislation, Honig provides little 
+guidance in this case where Congress explicitly undertook to 
+cabin the ordinary equitable power of federal district courts. 
+
+
+The Department has changed its position on the 
+constitutionality of §3626(e)(2), now contending that it is 
+constitutional even if construed as the prisoners, the State, 
+
+
+' The statutory language construed in Hecht illustrates the point. The 
+statute mandated that if certain facts were proved, “a permanent or 
+temporary injunction, restraining order, or other order shall be granted 
+...” 56 Stat. 33 (quoted in Br. for United States at 14-15). The Court 
+ruled only that the statutory language itself did not mandate an injunction 
+because an “other order” was allowable under the statute. 321 U.S. at 
+328. 
+
+
+and the Seventh Circuit construed it. Br. for United States at 
+37. In the Seventh Circuit, the Department argued that the 
+automatic stay was unconstitutional if so construed. Seventh 
+Circuit Br. for the United States at 37-40. The Department’s 
+change undercuts application of the doctrine of constitutional 
+doubt. 
+
+
+The language, structure, and purpose of the automatic 
+stay all indicate that it is what it is labeled — automatic. 
+These factors sufficiently show congressional intent to alter 
+federal courts’ ordinary equitable powers. 
+
+
+II. The automatic stay limits federal courts’ powers 
+in a constitutional manner. 
+
+
+The automatic stay is a proper limitation on federal 
+courts’ power and does not violate the Constitution. The 
+automatic stay may temporarily deprive prisoners of the 
+benefit of an injunction — but only during the time period 
+when prisoners are unable to prove that they are harmed by a 
+current federal law violation requiring federal injunctive 
+correction. 
+
+
+The automatic stay leaves the judgment intact until 
+the district court itself alters the judgment. The automatic 
+stay also preserves the authority of the Judicial Branch to rule 
+on the merits of the motion and prescribe appropriate relief if 
+a violation is found. 
+
+
+A. The automatic stay 
+does not impermissibly alter a judgment. 
+
+
+The prisoners’ reliance on Plaut v. Spendthrift Farm, 
+Inc., 514 U.S. 211 (1995), is faulty because the automatic 
+stay has no effect whatsoever on the underlying district court 
+judgment itself. The automatic stay affects only the district 
+court’s prospective enforcement authority, which Congress 
+
+
+6 
+
+
+— =<, ——_a ———- on 
+
+
+has the power to change. E.g., Yakus v. United States, 321 
+U.S. 414, 433-40 (1944) (act precluding interlocutory 
+injunction against rules promulgated under Emergency Price 
+Control Act is constitutional). 
+
+
+Plaut stands for the proposition that Congress cannot 
+reopen judgments that are already final. Litigants who win 
+judgments such as those in Plaut have vested rights that 
+cannot be disturbed by legislation that retrospectively divests 
+them o: their nghts. Plaut, 514 U.S. at 218-19, 225. 
+
+
+But the automatic stay does not act on the judgment 
+itself, only on the district court’s prospective equitable 
+authority. This difference is much more than semantic. It 
+shows that Congress set up a system that respected the 
+fundamental difference in the function of the branches. 
+
+
+Congress did not undertake to review the merits of 
+any district court injunction. Cf Hayburn's Case, 2 U.S. (2 
+Dall.) 408 (1792) (Constitution prohibits legislative review of 
+court judgments). That power remains solely with the district 
+court. Rather, Congress changed the federal district courts’ 
+authority to enforce prospective injunctive relief. Under 
+§3626(e)(2), the injunctive relief remains in place, but it 
+cannot be enforced by the parties absent the showing of 
+ongoing federal law violations required by §3626(b)(3). 
+
+
+The courts of appeals have recognized that Congress 
+acted within its authority by drafting the PLRA to change the 
+substantive law governing prospective relief available to 
+prisoners. All eight courts of appeals that have passed on the 
+issue have decided that Congress had tiie power to establish 
+new criteria for injunctive relief in the prison context and to 
+apply those criteria prospectively to injunctions granted in 
+the past. Inmates of Suffolk Co. Jail v. Rouse, 129 F.3d 649 
+(1st Cir. 1997); Benjamin v. Jacobson, 172 F.3d 144 (2d Cir. 
+1999) (en banc), cert. denied, 120 S. Ct. 72 (1999); 
+
+
+7 
+
+
+Imprisoned Citizens Union v. Ridge, 169 F.3d 178 (3d Cir. 
+1999); Plyler v. Moore, 100 F.3d 365 (4th Cir. 1996), cert. 
+denied, 520 U.S. 1277 (1997); Hadix v. Johnson, 133 F.3d 
+940 (6th Cir.), cert. denied, 118 S. Ct. 2368 (1998); 
+Berwanger v. Cottey, 178 F.3d 834 (7th Cir. 1999); Gavin v. 
+Branstad, 122 F.3d 1081 (8th Cir. 1997), cert. denied, 118 S. 
+Ct. 2374 (1998); Dougan v. Singletary, 129 F.3d 1424 (11th 
+Cir. 1997), cert. denied, 118 S. Ct. 2375 (1998). 
+
+
+The substantive law that changed in the PLRA was 
+not the law governing the subject matter of the dispute (here, 
+the Eighth Amendment, which Congress cannot change), but 
+rather the law governing federal court power. See Robertson 
+v. Seattle Audubon Society, 503 U.S. 429, 437-39 (1992) 
+(change in underlying law justifies reopening prospective 
+component of judgment). The prisoners argue, in a footnote, 
+that all of the circuits misapplied Robertson when they found 
+that §3626(b) changed the underlying law and that §3626(b) 
+also is unconstitutional. Br. for French at 17n.3. Although 
+this issue is not before the Court, the prisoners are wrong 
+because the circuits properly concluded that §3626(b) is the 
+type of statutory change that may alter prospective relief 
+under Robertson and Pennsylvania v. Wheeling & Belmont 
+Bridge Co., 54 U.S. 518 (1855). 
+
+
+The prisoners also incorrectly attack the analogy 
+between the automatic stay in the PLRA and the automatic 
+stay in bankruptcy. Br. for French at 19-20. It is of no 
+moment that the bankruptcy stay has its roots in the Article I, 
+§8 bankruptcy power. The automatic stay’s roots are in a 
+constitutional provision of similar significance, namely the 
+Article III, §2 power of Congress to control federal court 
+jurisdiction.’ 
+
+
+? Temporary restraining orders under Fed. R. Civ. P. 65 are similar to the 
+automatic stay in that that may be extended, as preliminary injunctions, 
+but only on a specified showing. Similarly, prison injunctions may be 
+extended under the PLRA, but only after the showing specified in 
+
+
+8 
+
+
+SS 
+
+
+The prisoners also err in labeling mandamus an 
+effective remedy in this case. Br. for French at 19. 
+Mandamus cannot be a complete remedy for the ills Congress 
+sought to address in the PLRA because it is always 
+discretionary. Kerr v. U.S. District Ct., 426 U.S. 394, 403 
+(1976); see also In re Scott, 163 F.3d 282, 284 (Sth Cir. 
+1998) (declining to grant mandamus when district court 
+failed to rule on motion to vacate prison injunction pending 
+for more than two years). Moreover, the process of seeking 
+mandamus, including briefing, argument, and obtaining the 
+decision, itself consumes the time Congress deemed precious 
+when it enacted the automatic stay. 
+
+
+The prisoners cannot show that the PLRA’s automatic 
+stay impermissibly alters a judgment. Rather, the statute 
+permissibly restricts federal courts’ prospective equitable 
+power. 
+
+
+B. Section 3626(e)(2) does not 
+preclude the Judicial Branch from deciding cases. 
+
+
+The automatic stay preserves the Judicial Branch’s 
+core function to rule on cases and to prescribe relief when a 
+violation of law is found. The prisoners misdescribe the 
+statute when they say that the judiciary “is rendered 
+powerless because, regardless of the facts and circumstances, 
+it loses its ability to act after thirty (30) or ninety (90) days.” 
+Br. for French at 25. Contrary to their contentions, the statute 
+neither “prevents a court from engaging in its core function 
+of judicial decisionmaking,” nor “deprive[s] the courts of the 
+
+
+§3626(b)(3). Other statutes attach mandatory consequences to courts’ 
+failure to act within a specified time period. E.g., 18 U.S.C. §3142(d) 
+(pretrial detainee is released if court fails to make findings in 10 days); 
+3162(a) (indictment is dismissed if prisoner not brought to trial within 
+statutory time period). See Br. for French at 26-27 (discussing these 
+provisions). 
+
+
+ability to act to preserve the existing judgments during the 
+pendency of the action, regardless of the circumstances.” Br. 
+for French at 26. 
+
+
+The prisoners’ hyperbolic description overlooks the 
+fact — plain on the face of the statute — that the prisoners are 
+entitled to federal injunctive relief at any time they prove an 
+ongoing violation of federal law. 18 U.S.C. §3626(b)(3). 
+The prisoners’ brief often completely ignores this provision, 
+which is an essential part of the balance Congress struck 
+between the prisoners’ nght to federal court protection and 
+the states’ right to be free of judicial interference in the 
+absence of a federal violation. 
+
+
+The PLRA protects the core function of the judiciary 
+not only because the judgment remains inviolate until the 
+district court acts on the motion to vacate, but also because 
+the district court retains the power — at any time — to impose 
+whatever injunctive relief is appropriate under the substantive 
+standards of the PLRA when prisoners show an ongoing 
+violation of federal law. 18 U.S.C. §3626(a), (b)(3). The 90- 
+day “window,” which gives prisoners time to come forward 
+with evidence that federal equitable intervention continues to 
+be necessary to preserve prisoners’ rights, is an integral part 
+of the careful congressional crafting of the automatic stay. 
+
+
+Injunctions are already in place in all of the cases 
+where the automatic stay could be applied. In those cases, it 
+is reasonable for Congress to assume that any serious 
+violation of the prisoners’ rights would already be the subject 
+of an enforcement action, motion for contempt, or motion to 
+modify the injunction by the prisoners. Congress would be 
+completely justified in believing that serious violations of 
+
+
+10 
+
+
+prisoners’ rights would be identified for the supervising court 
+long before the prison moved to vacate equitable relief.’ 
+
+
+The prisoners reply that “where there is an existing 
+decree the focus of counsel’s attention will not be in finding 
+constitutional violations, but on monitoring compliance with 
+the decree.” Br. for French at 29 n.6. To the extent that 
+“monitoring compliance” is different than looking for 
+constitutional violations, this response overlooks counsel’s 
+responsibilities under relevant professional conduct rules and 
+Fed. R. Civ. P. 23. Nor can an attorney’s choice about how 
+to spend her time make the statute unconstitutional.* 
+
+
+Moreover, serious violations of constitutional rights 
+such as violence against prisoners, deliberately indifferent 
+medical care, or widespread impediments to access to courts 
+could readily be shown in 90 days. Such showings would 
+justify continuation of the underlying injunction, or at least 
+the portions of it pertaining to the proved violations. 18 
+U.S.C. §3626(b)(3). 
+
+
+> As explained in the Br. of Petitioners Miller, et al., at 24, the PLRA is 
+structured to give prison officials incentives to move to vacate or modify 
+the injunction only when they believe the prison meets constitutional 
+standards. If prison officials predict incorrectly, and their motion is 
+denied, they cannot again move to vacate or modify the injunction for one 
+year. 18 U.S.C. §3626(b)(1). For the same reasons (and to avoid 
+sanctions including adverse factual inferences under Fed. R. Civ. P. 37), 
+prison officials have incentives to cooperate with discovery after moving 
+to vacate. 
+
+
+* The Taylor class frets that a prisoner class might be without counsel 
+when a motion to vacate is filed. Brief of Amicus Curiae Plaintiff Class 
+at 15. If prisoners indicate to the district court ongoing problems with 
+administration of an injunction, the district court would appoint counsel 
+for the class. E.g., Phillips v. Joint Legislative Committee, 637 F.2d 
+1014, 1023 n.14 (Sth Cir. 1981) (regarding appointment of class counsel), 
+cert. denied, 456 U.S. 960 (1982). The absence of counsel for the class 
+equates with compliance with the injunction. 
+
+
+11 
+
+
+Less serious violations, such as subtle problems with 
+prisoners’ diet, recreation, or education, might take more than 
+90 days to prove. But their less serious character makes the 
+automatic stay of the injunction less problematic (and, 
+indeed, may assist the prisoners in proving violations if 
+prison policies change once the injunction is stayed). 
+Prisoners retain the damage remedy for harms incurred 
+during the time the injunction is stayed. 
+
+
+This calibration of relief is part and parcel of 
+congressional crafting of the automatic stay to balance 
+prisoners’ need for federal injunctive relief when there are 
+violations against prisons’ right to be free from judicial 
+supervision when there are not. Its construction preserves the 
+core judicial function, and it is constitutional. 
+
+
+C. Section 3626(e)(2) does not 
+prescribe a rule of decision. 
+
+
+The automatic stay does not prescribe any rule of 
+decision whatsoever. Rather, Congress crafted the provision 
+to fully preserve the district court’s authority to rule on the 
+merits of the motion to vacate and prescribe appropriate relief 
+if it finds any federal violation. 
+
+
+The prisoners’ discussion of this principle to 
+§3626(e)(2) is extremely brief, only the last six sentences of a 
+section that mostly recounts the holding in United States v. 
+Klein, 80 U.S. (13 Wall.) 128 (1871). Br. for French at 20- 
+24. Their short discussion incorrectly describes the way 
+§3626(e)(2) acts on prison injunctions. The automatic stay 
+does not “instruct[ ] courts to retroactively revise a prior 
+judgment and to enter a decision . . . in the government’s 
+favor...” Br. for French at 24. 
+
+
+12 
+
+
+Rather, in accordance with Article III, §2, the 
+automatic stay places a substantive limitation on federal 
+district courts’ enforcement power. Once 30 (or 90) days 
+pass, the district court is precluded from enforcing the 
+existing injunction until the prisoners are able to prove the 
+need for further judicial involvement to cure an ongoing 
+deprivation of federal rights or the court rules on the pending 
+motion to vacate. 
+
+
+D. The automatic stay applies equally 
+to consent decrees. 
+
+
+The injunction at issue in this case occurred after trial, 
+not as the result of the parties’ consent. The amicus brief of 
+the Jaylor class complains that the application of the 
+automatic stay to consent decrees poses different 
+constitutional problems than does application in this case. 
+The Taylor class position is incorrect. See, e.g., Watson v. 
+Ray, 192 F.3d 1153 (8th Cir. 1999) (applying PLRA to 
+consent decree); Cagle v. Hutto, 177 F.3d 253 (4th Cir. 1999) 
+(same). 
+
+
+Because the automatic stay does not act on the 
+judgment, whether litigated or by consent, but rather acts 
+directly on the federal courts’ enforcement authority, the 
+automatic stay violates no constitutional provision. Congress 
+has authority to alter the federal courts’ authority to enforce 
+judgments prospectively, including consent decrees. The 
+logical extension of the Taylor class’s argument is that once a 
+judgment is entered, Congress is powerless to alter the 
+federal courts’ authority regarding that judgment. The 7aylor 
+class supports that position with no authority, and there is 
+none. 
+
+
+13 
+
+
+E. The automatic stay is not retroactive. 
+
+
+The central fallacy of the amicus brief of Public 
+Citizen was discussed above in Part II.B. in connection with 
+congressional authority to change federal courts’ power to 
+enforce injunctions prospectively. Public Citizen’s position 
+is that Congress cannot change federal judicial enforcement 
+authority as to judgments granted in the past. See Br. of 
+Public Citizen at 3,21. The Court rejected that position in 
+Landgraf v. USI Film Products, 511 U.S. 244, 273 (1994): 
+“When the intervening statute authorizes or affects the 
+propriety of prospective relief, application of the new 
+provision is not retroactive.” Landgraf thus makes clear that 
+Congress has the authority to change federal judicial power 
+prospectively, and such changes can be applied to judgments 
+rendered in the past. Jd. at 274. 
+
+
+Public Citizen fails to recognize that the judgment in 
+this case already had its intended effect by causing prison 
+officials to change conditions at the Pendleton prison to 
+conform with constitutional standards. Continued judicial 
+oversight no longer is necessary unless the prisoners can 
+show a federal violation justifying continued relief. Public 
+Citizen’s position that judicial supervision must continue 
+perpetually, Br. of Public Citizen at 5, 16, is profoundly 
+
+
+antidemocratic, insulating control of prisons from elected and 
+
+
+appointed officials with ultimate accountability to the public. 
+See, e.g., Board of Education v. Dowell, 498 U.S. 237, 248 
+(1991) (stressing interest in local control of local 
+institutions). 
+
+
+14 
+
+
+Conclusion 
+
+
+The Court should reverse the Seventh Circuit’s 
+
+
+judgment. 
+
+
+Respectfully submitted, 
+
+
+KAREN M. FREEMAN-WILSON 
+Attorney General of Indiana 
+
+
+JON LARAMORE 
+
+
+Deputy Attorney General 
+Counsel of Record 
+
+
+219 State House 
+
+
+Indianapolis, IN 46204 
+317-233-6582 
+
+
+15 
+
+

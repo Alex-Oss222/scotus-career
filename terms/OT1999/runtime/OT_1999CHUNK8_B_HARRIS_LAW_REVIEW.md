@@ -1,0 +1,25 @@
+# OT1999 chunk 8 B — focused Harris Trust relevance review
+
+Research and decisional cutoff: June 19, 2000. Read only the newly supplied `../entering-law/OT_1999CHUNK8_HARRIS_PUBLIC.md` for this focused check, against the B commitments and revised Arizona positions already held in this clean modeling context. No current B Stone material, comparator, reconciliation or raw Record was received. Existing commitment freezes remain immutable.
+
+Harris Trust and Savings Bank v. Salomon Smith Barney Inc., No. 99-579, was decided June 12, 2000. The supplied handoff identifies it as a preexisting Record already present at chunk 8 intake and in the saved opening neutral projection. It is not a newly created chunk 8 action and supplies no entering law to uncoordinated June 12 peers. It is effective before the June 19 B matters.
+
+## Exact authority reviewed
+
+The unanimous holding rejects categorical nonfiduciary-defendant immunity under ERISA section 502(a)(3). Authorized plaintiffs may pursue appropriate traditional equitable redress of a prohibited, nonexempt section 406(a) transfer against a nonfiduciary party in interest, without transferring the fiduciary's direct statutory duty to that recipient. For the assumed purchaser for value, exposure requires actual or constructive notice of the circumstances making the transfer unlawful; purchaser-for-value protection without notice remains, and allocation of that defense's burden is expressly unresolved.
+
+The actual transaction violation, exemption including PTE75-1, party-in-interest status, notice, purchaser protection, recoverable property or proceeds, and remedy remain for adjudication. The decision neither awards purchase price or profits nor establishes a general damages remedy, universal notice rule for gratuitous recipients, general monitoring duty, comprehensive tracing rule, automatic fiduciary status or special hearing entitlement. Mertens's traditional-equity limit and the actual statutory/plan-violation prerequisite remain. The source-specific remedial authorization is essential to the result.
+
+## Five-matter comparison
+
+| Matter | Material-effect determination |
+|---|---|
+| Arizona v. California | No change. The United States' representation of reserved-water interests and the scope of the original decrees do not become ERISA fiduciary or recipient questions. Harris supplies no authority to reopen a completed water allocation, enlarge Docket 320's release, establish a title determination or alter section 22's discharge. Its distinction between a duty bearer and an equitable recipient neither resolves lawful preclusion nor makes the States knowing recipients of a prohibited transfer. Both competing original-decree paths and the independent settlement commitments remain at their existing scopes. |
+| Crosby | No change. Section 502(a)(3)'s defendant eligibility and recipient remedy do not decide conflict between section 570's federal sanctions arrangement and Massachusetts procurement obligations. Harris's source-specific statutory construction supplies no general presumption for or against preemption, no state purchasing immunity and no new injunctive-relief predicate here. |
+| Hawkins | No change. The pre-AEDPA habeas substantive-due-process claim concerns return to custody under an unchanged sentence, not restitution of plan property. Neither equitable recipient notice nor purchaser protection supplies executive culpability, an estoppel rule, a liberty entitlement or a sentencing discharge. Actual conditional liberty, process, release credit and the bounded substantive conclusion retain their stated treatment. |
+| Miller / United States v. French | No change. Harris recognizes equity within an express ERISA authorization while preserving that authorization's statutory limits. It does not decide whether the PLRA's detailed mandatory stay and bounded postponement withdraw an ordinary equitable power to block operation. It supplies neither a new override of section 3626(e) nor a universal rule eliminating equity, and does not resolve Article III or an actual denial of meaningful adjudication. The existing construction split, remedies and constitutional reservations remain. |
+| Santa Fe | No change. ERISA defendant eligibility, notice and equitable recovery do not determine whether the school organizes worship or opens genuinely private expression. Harris establishes no new attribution, pressure, purpose, facial-challenge or religious-expression rule and alters no proposed football-policy remedy. |
+
+**Result:** No material effect on any B judgment position, sufficient ground, join, qualification, remedy or source requirement. The revised Arizona freeze and the initial B commitments for the other four matters remain substantively unchanged. This receipt supplements the completed June 12 review by making the preexisting Harris authority express; it does not relabel Harris as new law or reopen an uncoordinated June 12 decision.
+
+Matching runtime and freeze copies preserve this review. It is a relevance determination only, not an adjudication or current-law update.

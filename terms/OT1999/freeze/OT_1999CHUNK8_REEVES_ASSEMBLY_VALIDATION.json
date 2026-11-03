@@ -1,0 +1,21 @@
+{
+  "case": "Reeves v. Sanderson Plumbing Products, Inc.",
+  "record": "reeves-v-sanderson-plumbing-products-inc_merits_2000-06-12.md",
+  "blocks": "pass",
+  "holdings_identity": "pass",
+  "explanation_words": [
+    185,
+    144,
+    226
+  ],
+  "judgment_support": 9,
+  "full_opinion_support": 9,
+  "Stone": "full express-core join; no fallback",
+  "no_overwrite": "pass",
+  "not_performed": [
+    "workspace integration",
+    "render input",
+    "term checks",
+    "Git commitment"
+  ]
+}

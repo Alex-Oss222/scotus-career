@@ -1,0 +1,820 @@
+No. 99-5525 HN 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+
+
+V. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF OF BENJAMIN R. CIVILETTI AMJCUS CURIAE 
+IN SUPPORT OF THE UNITED STATES OF AMERICA 
+
+
+Benjamin R. Civiletti 
+Kenneth C. Bass, III 
+(Counsel of Record) 
+John F. Cooney 
+Venable, Baetjer, Howard & 
+Civiletti LLP 
+1201 New York Avenue, N.W. 
+Washington, D.C. 20005 
+(202) 962-4800 
+
+
+Counsel for Amicus Curiae 
+
+
+January 28, 2000 
+
+
+BEST AVAILABLE COPY 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+ee I 6 v0 5 6.55 40605 Seeds ennda cs li 
+INTEREST OF AMICUS CURIAE ...............4..5. l 
+SUMMARY OF ARGUMENT ...................... 2 
+EE fd be unc Sebel eckeneene ieeaecsauekns 5 
+
+
+I. THE MIRANDA RULES AID THE 
+ENFORCEMENT OF FEDERAL 
+CRIMINAL LAWS BY FACILITATING 
+DECISIONS BY PROSECUTORS 
+CONCERNING WHICH CRIMINAL CASES 
+SHOULD BE PURSUED ................. 5 
+
+
+Il. THE COURT OF APPEALS VIOLATED 
+THE PRINCIPLE OF SEPARATION OF 
+POWERS AND USURPED EXECUTIVE 
+AUTHORITY, BY BASING ITS DECISION 
+ON A GROUND THAT THE EXECUTIVE 
+BRANCH EXPLICITLY DECLINED TO 
+ey ee ee 7 
+
+
+A. Governing Legal Authority ................. 8 
+
+
+B. The Decision by the Court of Appeals, to 
+Overturn the Suppression of the Defendant’s 
+Statement on a Ground that the Executive 
+Branch Expressly Chose Not to Present, 
+Violated the Principle of Powers ............ 12 
+
+
+EE Givi dnd San RkGNES weed euasoncesdeness 16 
+
+
+TABLE OF AUTHORITIES 
+Page(s) 
+CASES: 
+Baker v. Carr, 369 U.S. 186 (1962) ..............005- 1] 
+Davis v. United States, 512 U.S. 452 (1994) ......... 7,14 
+Ex parte United States, 287 U.S. 241 (1932) ............ 9 
+Heckler v. Chaney, 470 U.S. 821 (1985) ............... 8 
+Miranda v. Arizona, 384 U.S. 436 (1966) ......... passim 
+Morrison v. Olson, 487 U.S. 654 (1988) ........... 13,14 
+Muskrat v. United States, 219 U.S. 346 (1911) ......... 3 11 
+Nathan v. Smith, 737 F.2d 1069 (D.C. Cir. 1984) ....... 1] 
+Newman v. United States, 382 F.2d 479 (D.C. Cir. 
+BDG7) . 0000s 00008's ee eee ee eee 9 
+Northern Pipeline Construction Co. v. Marathon Pipe 
+Line Co., 458 U.S. SO (IGRZ) ... oc nc cc cccscessees 1] 
+The Grey Jacket, 72 U.S. (5 Wall.) 370 (1866) .......... 9 
+United States v. Armstrong, 517 U.S. 456 (1 996) eo 8,9 
+United States v. Cox, 342 F.2d 167 (5" Cir.)(en banc), 
+cert. denied, 381 U.S. 935 (1965) ............. 9,10 
+United States v. Nixon, 418 U.S. 683 (1974) ............ 8 
+United States v. San Jacinto Tin Co., 125 U.S. 273 
+(UGGE) onc cccyeccccesessus Guy smu 9 
+United States v. Thompson, 251 U.S. 407 (1920) ........ 9 
+
+
+ii 
+
+
+Table of Authorities continued 
+Page(s) 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS: 
+
+
+U.S. Constitution 
+
+
+PE ccecdddedsescesececveccccevccces 8 
+ET Sdescdeeecdeceseosecoceccccceces 8 
+Statutes 
+PU MED cc cccccccccccccccccerecccccecess 7 
+BI EE scvccccccccccccccccescccccccccoees 4 
+MEINE cc ccccccceccccscccccvccccccccceces | i) 
+MPURME IEE cccccccccccecccccceccocccess passim 
+MISCELLANEOUS: 
+2 Op. Att’y Gen. 482 (1831) ........ ne a Oe ) 
+iii 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+No. 99-5525 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+
+
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF OF BENJAMIN R. CIVILETTI AMICUS CURIAE 
+IN SUPPORT OF THE UNITED STATES OF AMERICA 
+
+
+INTEREST OF AMICUS CURIAE 
+
+
+Benjamin R. Civiletti, having obtained the written consents 
+of the parties pursuant to Rule 37.3, submits this Brief amicus 
+curiae.' Mr. Civiletti is a distinguished lawyer with a long 
+career that spans public service and private practice. His 
+background and experience in criminal law provide a basis for 
+
+
+' This brief was not authored, in whole or in part, by counsel to a party, 
+and no monetary or other contribution to the preparation or submission of 
+this brief was made by any person or entity other than the amicus and his 
+counsel. The consents of the parties have been filed with the Court. 
+
+
+his analysis, from the point of view of Federal prosecutors, of 
+the effects of the Miranda warnings on the operation of the 
+criminal justice system and of the adverse effects of the lower 
+court's decision on the ability of the Department of Justice to 
+Carry Out its role, as the President’s delegate, in helping him 
+discharge his constitutional responsibility to "take care that the 
+laws be faithfully executed." 
+
+
+From 1962 until 1964, Mr. Civiletti served as an Assistant 
+United States Attorney. In 1977, he joined the Department of 
+Justice as the Assistant Attorney General in charge of the 
+Criminal Division. In 1978, he was appointed Deputy Attorney 
+General. In 1979, he was appointed Attorney General and 
+served in that capacity until the end of the Carter 
+Administration in 1981. During his tenure at the Department, 
+Mr. Civiletti was responsible for the development and 
+publication of the Department’s Principles of Federal 
+Prosecution. Mr. Civiletti is presently engaged in private 
+practice in Washington, D.C. at the firm of Venable, Baetjer, 
+Howard & Civiletti, where he serves as Chairman of the firm’s 
+Board. The views expressed in this Brief are those of Mr. 
+Civiletti and his counsel in their personal capacities and do not 
+necessarily reflect the views of the firm. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The decision in Miranda v. Arizona, 384 U.S. 436 (1966), 
+is a victim of its own success. In the 34 years since the case 
+was decided, prosecutors at all levels, as well as State and 
+Federal courts, have largely been spared the extensive litigation 
+over the voluntariness of confessions that marked 
+administration of the prior totality-of-the-circumstances test. 
+Id., at 476, 490. Memories of the pre-Miranda prior period 
+have dimmed for many lawyers and many judges. 
+
+
+The majority and the dissent in the Fourth Circuit 
+discussed at length whether the Miranda warnings are required 
+by the Constitution. At bottom, this is a fruitless scholastic 
+debate over nomenclature. All sides agree that, in Miranda, 
+this Court established a functional requirement as to the level 
+of protection that must be met in order to preserve the rights of 
+subjects of custodial interrogations. While the precise words of 
+the Miranda warnings are not constitutionally required, in order 
+to devise an alternative protocol that satisfies the Fifth 
+Amendment, a State government or Congress must establish 
+procedures that provide a degree of protection against 
+involuntary confessions that is greater than or equal to that 
+provided by the classic formulation of the four Miranda 
+statements. The statute on which the Fourth Circuit relied, 28 
+U.S.C. § 3501, plainly does not provide the required level of 
+protection and therefore cannot, by itself, provide a 
+constitutionally sufficient basis for admission of a custodial 
+confession in the prosecution’s case-in-chief. For this reason, 
+regardless of the taxonomic category in which one places the 
+Miranda warnings, the position of the United States should be 
+sustained. 
+
+
+Rather than discuss this issue, which will be covered at 
+length by the Solicitor General and the amicus party who 
+participated below, this Brief Amicus Curiae will present two 
+issues that are not addressed by the parties. First, the current 
+Miranda warnings are of substantial benefit to Federal 
+prosecutors in the administration of the criminal laws. By 
+reviewing whether the police have complied with four bright- 
+line rules before conducting custodial interrogations, Federal 
+prosecutors can determine efficiently, and with a high degree 
+of accuracy, whether the defendant’s confession is likely to be 
+admitted into evidence and thus whether the government 
+
+
+possesses sufficient admissible evidence to warrant proceeding 
+with a criminal charge. 
+
+
+Second, the court of appeals violated the principle of 
+separation of powers by considering the question whether 
+Dickerson’s confession was admissible under Section 3501, 
+when the United States made a considered decision not to 
+attempt to justify its admission on that basis. Under the 
+Constitution, the President, acting through his delegate the 
+Attorney General and her subordinates, has exclusive authority 
+to enforce the criminal laws. As long as the prosecutor does 
+not exceed legal or constitutional limitations, the Department 
+of Justice has unreviewable discretion as to whether to initiate 
+a prosecution, the terms under which a prosecution will be 
+conducted, the evidence that will be presented in support of a 
+charge, and whether to dismiss a prosecution. 
+
+
+The Attorney General has formally informed Congress that 
+the Department of Justice believes that Section 3501 is 
+unconstitutional and that it will not argue for admission under 
+that provision of confessions that violate the Miranda 
+warnings. The decision by the prosecution in this case, not to 
+argue before the court of appeals for admission of Dickerson’s 
+statement on the basis of Section 3501, was a considered 
+application of the general Executive Branch policy. The Fourth 
+Circuit has usurped the exclusive authority of the Executive 
+Branch to determine how to prosecute this criminal case, in 
+overturning the suppression decision under Section 3501 in 
+response to an argument made by an amicus that contradicted 
+the express policy decision of the Department of Justice not to 
+seek admission of the confession on that basis. 
+
+
+ARGUMENT 
+
+
+I. THE MIRANDA RULES AID THE 
+
+
+ENFORCEMENT OF FEDERAL CRIMINAL 
+LAWS BY FACILITATING DECISIONS BY 
+PROSECUTORS CONCERNING WHICH 
+CRIMINAL CASES SHOULD BE PURSUED. 
+
+
+Miranda prevents the introduction in the prosecutor’s case- 
+in-chief of statements obtained from the defendant in a 
+custodial interrogation, unless the suspect was given prescribed 
+warnings and knowingly waived his rights to remain silent and 
+to have legal counsel. 
+
+
+A Federal prosecutor, seeking to determine whether the 
+government has sufficient evidence to prosecute and obtain a 
+conviction against a suspect, derives substantial benefits from 
+the Miranda rules. The easily understood, bright-line nature of 
+the tests provides the prosecutor with a highly reliable 
+mechanism for determining whether statements made during a 
+custodial interrogation will be found to be voluntary and thus 
+be deemed admissible at trial. With a clear understanding as to 
+whether this critical aspect of the government’s proof is 
+admissible, the prosecutor may make an informed judgment as 
+to whether the government has enough information to initiate 
+a criminal proceeding and whether it must obtain additional 
+information about the defendant and the crime in order to 
+increase its prospects of obtaining a conviction at trial. 
+
+
+By contrast, under a totality-of-the-circumstances approach 
+to admission of a custodial confession, a Federal prosecutor 
+faces a more difficult calculus, whose results are less 
+predictable. The prosecutor must weigh whether a Federal 
+district judge will determine that the defendant’s statement was 
+
+
+made in a custodial setting; whether the podlice properly 
+apprised the defendant of his rights; and whether, balancing all 
+the aggravating and ext:uuating factors surrounding the 
+interrogation, the judge is likely to admit the evidence or 
+preclude its admission in the government’s case-in-chief. 
+
+
+At a minimum, a totality-of-the-circumstances regime 
+would generate increased litigation over the admissibility of 
+statements made by criminal defendants during interrogation. 
+This would impose increased time and resource demands on 
+United States Attorneys and their assistants. Further. Federal 
+prosecutors would no longer be able to verify, quickly and with 
+minimum investigation costs, whether Federal law enforcement 
+personnel had properly warned the defendant before taking his 
+statement. Therefore, uncertainty and a risk of error would be 
+introduced into the prosecutor’s pre-trial determination as to 
+whether the government has a case that would prove guilt 
+beyond a reasonable doubt. The clearest showing on this point 
+is the extensive litigation over the voluntariness issue that 
+occupied the Federal courts of appeals and this Court in the 
+years immediately before Miranda was decided. 
+
+
+In sum, the benefits of the current Miranda protocols to 
+Federal prosecutors, and the problems for the prosecution that 
+would be reintroduced by a return to a totality-of-the- 
+circumstances regime, counsel strongly that the Court should 
+follow the doctrine of stare decisis and reject the argument that 
+Section 3501, rather than Miranda, governs admission of 
+custodial confessions in Federal criminal trials. 
+
+
+Il. THE COURT OF APPEALS VIOLATED 
+
+THE PRINCIPLE OF SEPARATION OF 
+POWERS AND USURPED EXECUTIVE 
+AUTHORITY, BY BASING ITS DECISION 
+ON A GROUND THAT THE EXECUTIVE 
+BRANCH EXPLICITLY DECLINED TO 
+INVOKE. 
+
+
+In Davis v. United States, 512 U.S. 452 (1994), the 
+Court declined, as a prudential manner, the invitation of an 
+amicus curiae that it consider whether a confession that was 
+not obtained in compliance with Miranda could nonetheless be 
+admitted under Section 3501. /d., at 457-458 n. *. Since that 
+time, the Attorney General has formally notified Congress, 
+pursuant to 2 U.S.C. § 288k(b), that the Department of Justice 
+will not defend the constitutionality of Section 3501. In the 
+appeal to the Fourth Circuit, no party in this criminal 
+prosecution raised the issue of whether Section 3501 provided 
+an independent ground for admission of Dickerson’ s statement 
+or whether the statute, if so applied, was constitutional. 
+
+
+Under these circumstances, the Fourth Circuit violated 
+the principle of separation of powers in addressing the 
+admissibility of the confession under Section 3501 , when the 
+question was not presented by either the prosecution or the 
+defendant. By ignoring the Attorney General’s explicit 
+decision that the Department of Justice would not argue in any 
+case that Section 3501 permitted admission of a confession that 
+was invalid under Miranda, the court of appeals usurped the 
+exclusive, discretionary authority of the Executive Branch to 
+determine how it would prosecute this criminal case. 
+
+
+The Executive Branch, no less that the Judiciary, has a 
+sworn duty to uphold the Constitution. That duty requires 
+
+
+Executive Branch prosecutors not to assert legal argumen’s that 
+are inconsistent with the Constitution. Where, as here, mature 
+consideration persuades the Attorney General that a statute is 
+unconstitutional, the Executive Branch should not seek to 
+enforce it, and the courts are without authority to force 
+prosecutors to rely on a potential argument in support of their 
+case that they have determined not to use. Review of the 
+Department’s policy decision rests with Congress. If Congress 
+has a different view, Congress has remedies through its powers 
+of oversight, appropriations, confirmation and impeachment. 
+There is no need for the Judiciary to intervene to, in effect, 
+provide an advisory opinion on the issue. 
+
+
+A. Governing Legal Authority. 
+
+
+Art. Il, § 1 of the Constitution provides that the 
+“executive Power shall be vested in a President of the United 
+States of America." Art. II, § 3 further states that the President 
+"shall take care that the laws be faithfully executed... ." 
+These provisions establish the core of the President’s 
+constitutional responsibility to enforce the criminal laws, an 
+area that the Court has characterized as a "special province" of 
+the Executive. United States v. Armstrong, 517 U.S. 456, 464 
+(1996), quoting Heckler v. Chaney, 470 U.S. 821, 832 (1985). 
+
+
+The Executive Branch “has exclusive authority and 
+absolute discretion to decide whether to prosecute a case." 
+United States v. Nixon, 418 U.S. 683, 693 (1974). Neither the 
+Judicial nor Legislative Branches may interfere with the 
+discretion of the Executive by directing the Department of 
+Justice to prosecute particular individuals or by dictating the 
+
+
+positions that the United States shall take in prosecuting those 
+cases.” 
+
+
+The Attorney General and her subordinates, including 
+the United States Attorneys, have broad discretion to enforce 
+the criminal laws, because they are designated by statute as the 
+President’s delegates to help him discharge his constitutional 
+responsibility to take care that the laws be faithfully executed. 
+28 U.S.C. §§ 516, 547; Armstrong, 517 U.S. at 464. See 
+United States v. San Jacinto Tin Co., 125 U.S. 273 (1888); The 
+Grey Jacket, 72 U.S. (5 Wall.) 370 (1866). See 2 Op. Att’y 
+Gen. 482, 486 (1831)(the President has supervisory power over 
+the prosecution of lawsuits by United States Attorneys as a 
+necessary consequence of the duty to take care that the laws be 
+faithfully executed). 
+
+
+As then Judge (later Chief Justice) Burger stated in 
+Newman v. United States, 382 F.2d 479, 480 (D.C. Cir. 1967): 
+
+
+Few subjects are less adapted to judicial review 
+than the exercise by the Executive of his 
+discretion in deciding when and whether to 
+institute criminal proceedings, or what precise 
+charge shall be made, or whether to dismiss a 
+proceeding once brought. 
+
+
+The broad scope of the Attorney General’s discretion 
+was further confirmed in United States v. Cox, 342 F.2d 167 
+
+
+2 See United States v. Thompson, 251 U.S. 407, 412-13 (1920)(the 
+Executive Branch has an absolute right to determine whether to initiate 
+prosecutions for crime, which is not subject to control by judicial 
+discretion); Ex parte United States, 287 U.S. 241 (1932) (distric: court may 
+not refuse to issue arrest warrant after indictment, because this would negate 
+the absolute right of the Executive Branch to prosecute). 
+
+
+9 
+
+
+(5" Cir.)(en banc), cert. denied, 381 U.S. 935 (1965). There, 
+the court overturned a district court order that the United States 
+
+
+Attorney must file an indictment that the grand jury had voted 
+to return. 
+
+
+The Attorney General is the hand of the 
+President in taking care that the laws of the 
+United States in legal proceedings, and in the 
+prosecution of offenses, be faithfully executed. 
+... The discretionary power of the attorney for 
+the United States in determining whether a 
+prosecution shall be commenced or maintained 
+may well depend upon matters of policy wholly 
+apart from any question of probable cause. . . . 
+[I]t is as an officer of the executive department 
+that he exercises a discretion as to whether or 
+not there shall be a prosecution in a particular 
+case. It follows, as an incident of the 
+constitutional separation of powers, that the 
+courts are not to interfere with the free exercise 
+of the discretionary powers of the attorneys of 
+the United States in their control over criminal 
+prosecutions. 
+
+
+342 F.2d at 171. In a concurring opinion concerning the 
+
+
+application of the former Independent Counsel Act, Judge Bork 
+also explained: 
+
+
+the principle of Executive control extends to all 
+phases of the prosecutorial process. ... If the 
+execution of the laws is lodged by the 
+Constitution in the President, that execution 
+may not be divided up into segments, some of 
+which courts may control and some of which 
+
+
+10 
+
+
+——~_£ 
+—_ 
+
+
+the President’s delegate may control. It is all 
+the law enforcement power and it all belongs to 
+the Executive. 
+
+
+Nathan v. Smith, 737 F.2d 1069, 1079 (D.C. Cir. 1984)(per 
+curiam)(Bork, J., concurring). 
+
+
+Article III gives Federal courts the power to pronounce a 
+judgment and carry it into effect between persons and parties 
+who bring a case before the court for resolution. Muskrat v. 
+United States, 219 U.S. 346, 356 (1911). This Court 
+consistently has taken a strict approach to defining the powers 
+of Article III courts, in part to safeguard the independence of 
+the Judiciary against encroachments by the other Branches, 
+Northern Pipeline Construction Co. v. Marathon Pipe Line 
+Co., 458 U.S. 50, 74 (1982), but also from the recognition that 
+the courts should not interfere with authority "committed by the 
+Constitution to another branch of government." Baker v. Carr, 
+369 U.S. 186, 211 (1962). 
+
+
+Article III courts possess the authority, of course, to make 
+certain that Federal prosecutors do not exceed legal or 
+constitutional limitations in investigation or prosecution of 
+crimes. This Court’s prior decisions establish, however, that so 
+long as the United States Attorney is operating within the 
+proper sphere of his or her authority in prosecuting a crime, the 
+Judicial Branch may not interfere with the discretion of the 
+Executive as to how it will seek to enforce the law. This 
+principle of judicial non-interference extends to such basic 
+subjects as what evidence to introduce, what witnesses to call, 
+or what legal arguments the prosecutor will present in 
+opposition to defense motions to suppress evidence. 
+linterference by an Article II] court with the prosecutor's 
+
+
+11 
+
+
+discretion on these basic questions impinges upon the 
+Executive’s constitutionality authority. 
+
+
+B. The Decision by the Court of Appeals, to 
+Overturn the Suppression of the Defendant’s 
+Statement on a Ground that the Executive 
+Branch Expressly Chose Not to Present, 
+Violated the Principle of Separation of 
+Powers. 
+
+
+In accepting an invitation by an amicus to consider 
+whether Dickerson’s confession was admissible under Section 
+3501, an issue that was not presented by either the prosecution 
+or the defendant in this criminal prosecution, the court of 
+appeals violated the principle of separation of powers. 
+
+
+In considering an argument raised only by an amicus and 
+deliberately not presented by the prosecution, the Fourth 
+Circuit intruded into an area of discretion reserved to the 
+Executive Branch and impaired the discharge of a 
+constitutional function assigned to the President and his 
+subordinates. The function of determining what evidence to 
+introduce in a criminal prosecution, and what authority to bring 
+to bear to justify actions by Federal law enforcement personnel, 
+is inherently Executive in nature, and is not analogous to the 
+functions that Federal courts perform in any other context. The 
+action of the court of appeals therefore should be overturned as 
+inconsistent with Article III. 
+
+
+In considering an argument for admissibility that the 
+Attorney General has refused to offer in any Federal court, the 
+court of appeals intruded into the power of the Executive to 
+determine how potential evidence wil! be utilized in a criminal 
+prosecution and what arguments will be made in support of its 
+
+
+12 
+
+
+—-_- —- <_ <e _ 
+
+
+admission. It thereby violated the principle of separation of 
+powers because it reduced the ability of the Department of 
+Justice to control the prosecutorial powers that the Executive, 
+and the Executive alone, may exercise. 
+
+
+This is, in Justice Scalia’s phrase, an issue that has come 
+before the Court "clad . . . in sheep’s clothing," Morrison v. 
+Olson, 487 U.S. 654, 699 (1988)(Scalia, J., dissenting), because 
+the immediate effect of the lower court’s intrusion into the 
+sphere reserved for Executive authority would be the admission 
+of Dickerson’s statement. Whatever the short-term effect in 
+this case, there is no assurance that in other cases, the effect of 
+similar judicial intrusions would be benign. The lower court's 
+unprecedented assumption of the power to second guess 
+prosecutorial decisions about the evidence to be presented in a 
+criminal case and the grounds to be argued for its admissibility 
+is conceptually no different from assertion of a judicial right to 
+review Department of Justice decisions about whom to 
+prosecute, and for what offenses, in circumstances in which the 
+Executive has made a considered decision not to file charges. 
+
+
+In this connection, it is significant that the Fourth Circuit's 
+rationale for reaching out to decide the Section 3501 issue was 
+its assertion-that, by “elevating politics over law," the 
+Department of Justice prohibited the local prosecutor from 
+arguing that Dickerson’s confession was admissible under the 
+statute. 166 F.3d at 672. This claim is answered by Justice 
+Scalia’s observation that: 
+
+
+Almost all investigative and prosecutorial 
+decisions - including the ultimate decision 
+whether . . . prosecution is warranted - involve 
+the balancing of innumerable legal and practical 
+considerations. Indeed, even political 
+
+
+13 
+
+
+_ 
+
+
+considerations (in the nonpartisan sense) must 
+be considered .... [T]he balancing of various 
+legal, practical and political considerations, 
+none of which is absolute, is the very essence of 
+prosecutorial discretion. 
+
+
+Morrison v. Olson, 487 U.S. at 707-708 (Scalia, J. dissenting). 
+
+
+In sum, by asserting a right to invoke sua sponte an argument 
+for admissibility not raised by the prosecution in this criminal 
+case -- indeed, deliberately rejected by the Attorney General on 
+a nationwide basis -- the Fourth Circuit has impermissibly 
+undermined the discretionary authority of the Executive Branch 
+to enforce the law as it sees fit, within legal and constitutional 
+boundaries, and has thereby interfered with the Executive’s 
+ability to accomplish an important function assigned to it by the 
+Constitution.’ 
+
+
+Although an Article III court may not consider the 
+constitutionality of Section 3501 in a criminal case in which the 
+Executive Branch determines not to raise this argument for 
+admission of the suspect’s custodial statement, this does not 
+
+
+* This case is in a fundamentally different posture from the hypothetical 
+situation discussed by Justice Scalia in Davis v. United States, where he 
+asserted that “once a prosecution has been commenced and a confession 
+introduced, the Executive assuredly has neither the power nor the right to 
+determine what objections to admissibility of the confession are valid in 
+law." 512 U.S. at 465 (Scalia, J. concurring) (emphasis added). This 
+Statement, by its terms, applies only after the confession has been 
+introduced, and the defendant is challenging an alleged violation of his right 
+to a fair trial. The situation before the Fourth Circuit was different, because 
+the incriminating statement was never entered into evidence. The case thus 
+remained in a posture where the prosecution has full discretionary authority 
+over the evidence to be introduced and the arguments to be made in support 
+of admission of its own evidence. 
+
+
+14 
+
+
+mean that the Department of Justice’s position is immune from 
+review under our political system. It is subject to review, but 
+in other forums - by Congress and ultimately by the people at 
+election time. In particular, Congress may exercise its 
+oversight authority and the power of the purse to try to 
+influence the Executive Branch’s policy position. Upon the 
+appointment of a new Attorney General or her Assistant 
+Attorneys General, the Senate may exercise its power to advise 
+and consent. Finally, if Congress so choses, it can initiate 
+impeachment proceedings based on an assertion of dereliction 
+
+
+of duty. 
+
+
+Further, the Fourth Circuit’s decision to reach out to 
+consider the relationship between Section 3501 and Miranda 
+appears to have been based on the calculation that, if the court 
+did not decide the question in this case, this important legal 
+issue, which has been framed by academics for many years, 
+would continue to evade judicial resolution. Its decision is 
+erroneous for two reasons. First, as the dissenting judge below 
+correctly observed: 
+
+
+The premise of our adversarial system is that 
+appellate courts do not sit as self-directed 
+boards of legal inquiry and research, but 
+essentially as arbiters of legal questions 
+presented and argued by the parties before 
+them. 
+
+
+166 F.3d at 697. 
+Second, there is no reason for Article III courts to reach 
+
+
+out to decide this issue prematurely. A future President may 
+exercise his or her discretion to reverse the policy decision of 
+
+
+15 
+
+
+prior Administrations and to seek to enforce Section 3501 in 
+the manner recommended by the amicus below. If and when 
+that happens, there will be ample occasion at that time for the 
+Judicial Branch to consider the proper relationship between the 
+law and the Fifth Amendment, as interpreted in Miranda, upon 
+the appeal of one of the parties to a criminal case. Until a 
+future President makes that determination and the issue of 
+voluntariness under a totality-of-the-circumstances test is 
+presented by an actual dispute between the prosecution and a 
+criminal defendant, the Court should not disrupt the proper 
+relationship between the Branches and prevent the Executive 
+Branch from exercising the power to enforce the criminal laws 
+that is confided in it by the Constitution. 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, Amicus Curiae 
+Benjamin R. Civiletti respectfully submits that the judgment 
+below should be reversed and that the Court should decline, on 
+separation of powers grounds, to decide whether Dickerson’s 
+confession may be admitted under Section 3501, since neither 
+of the two parties to this criminal prosecution has raised that 
+question and it therefore falls outside the power of Article III 
+courts to consider. Should the Court reach the merits, it should 
+hold that Section 3501 does not trump the Miranda decision 
+and reverse the judgment of the court of appeals. 
+
+
+16 
+
+
+January 28, 2000 
+
+
+Respectfully submitted, 
+
+
+Benjamin R. Civiletti 
+
+Kenneth C. Bass, III 
+
+(Counsel of Record) 
+
+John F. Cooney 
+
+Venable, Baetjer, Howard 
+
+& Civiletti LLP 
+
+1201 New York Avenue, N.W. 
+Washington, D.C. 20005 
+
+(202) 962-4800 
+
+
+Counsel for Amicus Curiae 
+
+
+17 
+
+

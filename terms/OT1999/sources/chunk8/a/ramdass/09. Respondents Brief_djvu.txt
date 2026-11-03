@@ -1,0 +1,2170 @@
+Ms Supreme Court, U.S. 
+agen G FILED 
+Mar ° MAR 2 3 2000 
+No. 99-7000 
+In The 
+
+
+Supreme Court of the United States 
+
+
+¢ 
+
+
+BOBBY LEE RAMDASS, 
+
+
+Petitioner, 
+
+
+RONALD J. ANGELONE, DIRECTOR, VIRGINIA 
+DEPARTMENT OF CORRECTIONS, 
+
+
+Respondent. 
+
+
+_ a 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Fourth Circuit 
+
+
+S 
+
+
+BRIEF OF RESPONDENT 
+
+
++ 
+
+
+Mark L. Ear.ey 
+Attorney General of Virginia 
+
+
+KATHERINE P. BALDWIN 
+Assistant Attorney General 
+Counsel of Record 
+
+Office of the Attorney General 
+900 East Main Street 
+Richmond, Virginia 23219 
+
+. (804) 786-4624 
+Counsel for Respondent 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+BEST AVAILABLE COPY 
+
+
+CAPITAL CASE 
+QUESTION PRESENTED 
+
+
+May the due process right to a no-parole instruction 
+identified by this Court for the first time in Simmons v. 
+South Carolina be extended to a state prisoner on federal 
+collateral review who does not dispute the fact that under 
+state law he was eligible for parole on a life sentence 
+when his capital jury sentenced him to death? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+STATEMENT OF THE CASE............--seeeeeees 1 
+1. Ramdase’ Of8enees......cccccccccccccccenseces 1 
+Hi. The Teled ....cccvcveccscveevecsuceseeaeeaneens 2 
+III. The Direct Appeal..... teen eeeeesereceseeeens 6 
+IV. The Post-Conviction Proceedings .............. 10 
+SUMMARY OF ARGUMENT............--+++0eee0s 15 
+ARGUMENT ...0cccccccccdsssepeuessseeneeenenneen 16 
+
+
+THE RULE SOUGHT BY RAMDASS WAS NOT DIC- 
+TATED BY SIMMONS OR ANY CLEARLY ESTAB- 
+LISHED PRECEDENT AT THE TIME HIS CASE 
+
+
+BECAME PENAL .....cccccvsctcsescsscscnuweueme 16 
+A. Ramndase’ Clalan....csssccesssesecstsureeneneee 16 
+B. The Standard of Review ..............sseseeees 19 
+C. The Rule itn Simmons ... cc cccccccceccscvciscces, 21 
+D. Virginia Law .....ccscccsevcccccsesssusesscssss 29 
+E. The Virginia Supreme Court’s Decision Was Not 
+
+Contrary to Clearly Established Law........... 39 
+CONCLUGION . . .0.00.00060000 p00 oceania 44 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Ake v. Oklahoma, 470 U.S. 68 (1995) ..............5.. 15 
+Bailey v. Alabama, 219 U.S. 219 (1911) ............... 27 
+Bakery & Pastry Drivers & Helpers v. Wohl, 315 U.S. 
+iad dbebshidecesbetoesesesciondeoceess 26 
+Blair v. Commonwealth, 66 Va. 850 (1874)............. 33 
+Brecht v. Ai'rahamson, 507 U.S. 619 (1993)............ 19 
+Brown v. Texas, 522 U.S. 940, 118 S.Ct. 354 (1997) .... 42 
+Butler v. McKellar, 494 U.S. 407 (1990)............... 42 
+Campbell v. Commonwealth, 431 S.E.2d 648 (Va. 
+PUPS ASGRUURBbeerEehecpenevbecsoesoccecoeseceee 35 
+Coe v. Bell, 161 F.3d 320 (6th Cir. 1998), cert. denied, 
+i an bee sasscsbdosecescneetoocedces 23 
+Collins v. New Hampshire, 171 U.S. 30 (1898)......... 27 
+Engle v. Isaac, 456 U.S. 107 (1982) ...............045. 29 
+Estelle v. McGuire, 502 U.S. 62 (1991)................ 29 
+Gray v. Netherland, 518 U.S. 154 (1996) .............. 21 
+Green v. French, 143 F.3d 865 (4th Cir. 1998)......... 20 
+Greenholtz v. Nebraska, 442 U.S. 1 (1979)............. 28 
+Griffin v. State, 983 S.W.2d 282 (Tex. Crim. App. 
+1998), cert. denied, 120 S.Ct. 77 (1999) ............. 23 
+Gryger v. Burke, 334 U.S: 728 (1948) ............0005. 29 
+
+
+Hawks v. Cox, 175 S.E.2d 271 (Va. 1970) ............. 11 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Henderson v. Mayor, 92 U.S. 259 (1875) .............. 27 
+Hicks v. Feiock, 485 U.S. 624 (1988) ..............045. 27 
+Hopkins v. Reeves, 524 U.S. 88 (1998) ...........0055. 29 
+In re Winship, 397 U.S. 358 (1970) ...... 0.2.00 ee eeees 27 
+Ingram v. Zant, 26 F.3d 1047 (11th Cir. 1994) (per 
+
+curiam), cert. denied, 513 U.S. 1167 (1995) ......... 23 
+Lewis v. Jeffers, 497 U.S. 764 (1990) ...... 2... cee eeuee 29 
+Lindh v. Murphy, 521 U.S. 320 (1997) ............0005. 19 
+Marks v. United States, 430 U.S. 188 (1977)........... 21 
+Memphis Steam Laundry Cleaners v. Stone, 342 U.S. 
+
+BD Geen cnc cccccctedcecedessbsasechobeebaccsoes 27 
+Mickens v. Commonwealth, 457 S.E.2d 9 (Va. 1995) .... 33 
+Miller v. Johnson, 200 F.3d 274 (5th Cir. 2000)........ 23 
+Miranda v. Arizona, 384 U.S. 436 (1966).............. 24 
+Moore v. Reynolds, 153 F.3d 1086 (10th Cir. 1998)..... 43 
+Mullaney v. Wilbur, 421 U.S. 684 (1975).............. 27 
+O’Dell v. Netherland, 521 U.S. 151 (1997)...... 21, 22, 42 
+Oken v. State, 681 A.2d 30 (Md. App. 1996) ......... 24 
+Philpot v. State, 486 S.E.2d 158 (Ga. 1997), cert. 
+
+denied, 522 U.S. 1054 (1998)......... ccc cceeeeeees 23 
+Railway Express Agency v. Virginia, 347 U.S. 359 
+
+GRE 0.0 cacdcvccccensécduccenbecscdsssssecseeunbnes 27 
+
+
+Ramdass v. Angelone, 28 F. Supp. 2d 343 (E.D. Va. 
+GOUEDs cc ccccconcvcasccovccsdeessbwbesctecetncadéns 11 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Ramdass v. Angelone, 187 F.3d 396 (4th Cir. 1999) .... 13 
+Ramdass v. Angelone, 120 S.Ct. 784 (2000)............ 15 
+Ramdass v. Commonwealth, 437 S.E.2d 566 (Va. 
+
+Ginn. . “enennadnedibanasebeacanbebaunenonbeseocet 2 
+Ramdass v. Commonwealth, 450 S.E.2d 360 (Va. 
+
+Se ocvendhscedecdectenecéGnbssstsevisdedandetet 8 
+Ramdass v. Virginia, 512 U.S. 1217 (1994) ............. 7 
+Ramdass v. Virginia, 514 U.S. 1085 (1995) ............ 10 
+Romano v. Oklahoma, 512 U.S. 1 (1994)............... 21 
+
+
+Simmons v. South Carolina, 512 U.S. 154 (1994)... passim 
+Smith v. Commonwealth, 113 S.E. 707 (Va. 1922) ...10, 31 
+
+
+Spencer v. Kemna, 523 U.S. 1 (1998).............0005. 24 
+State v. Bey, 736 A.2d 469 (N.J. 1999)...........0005: 23 
+State v. Billings, 500 S.E.2d 423 (N.C.), cert. denied, 
+
+525 U.S. 1 Di weateitidimhidahs siuckaawadse ss 23 
+State v. Bush, 942 S.W.2d 489 (Tenn.), cert. denied, 
+*: Ti i Sa Cs ces peseosncss ciebaadescusaens 23 
+State v. Feaster, 716 A.2d 395 (N.J. 1998)............. 23 
+State v. Montez, 927 P.2d 64 (Ore. 1996), cert. denied, 
+
+SD Qe SP inndyct di ndddéededsoeeseaces ce 24 
+State v. Simpson, 479 S.E.2d 57 (S.C. 1996), cert. 
+
+Se He Gs SE Ces kvcdncscecdiesccoesic 23 
+State v. White, 709 N.E.2d 140 (Ohio), cert. denied, 
+
+SP hs Gt CEE o.0ednetéscdeduweedhes eeeeeenes 23 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Thompson v. Keohane, 516 U.S. 99 (1995) ............. 24 
+Teague v. Lane, 489 U.S. 288 (1989) ............-.005- 20 
+Weeks v. Angelone, 176 F.3d 249 (4th Cir. 1999)....... 20 
+Terry Williams v. Taylor, No. 98-8384.............. 19, 20 
+STATUTES AND RULES 
+Ts HEE sano 05e0cs 04 bnccudusesdtnnences 24, 30 
+BB UBL. BBN i cv vccccvccccscccccnscccocesee passim 
+Code of Virginia: 
+OD PD GIRE ee on cccccctedcccecvccescccescccéocene 2 
+B DAD GBAG.. 0 vc ccccedecsccceccoscccdeceseesossences 5 
+DS PRG oc cccovccccccccoscccsécasccnvcacsdsuanees 31 
+DS PRP et ee 35 
+DD GR cc ccdcccascasteckadsendescctecetesasants 35 
+OD SRG 0 oc vc ckdnnsedcensudcqscddschensseuccas 36 
+DO GBS occndctscceccansddnccisusencesvecctactons 31 
+DB BBE onc cdcncscceccscntusccdepecesucessvnd 39 
+OD FRI oi cc ccccdocctdscccéssecctocnces passim 
+GRD 0 cccncotcccccsucesessncec csuvontausiun 39 
+PEGE D> wocedcncccenedtececdiececanons 32 
+Rules of the Supreme Court of Virginia: 
+PD DU no cn ccncdsesecncdedsete cusccatscédacdecat 10 
+
+
+Beebe DASIDERD. 5 oc ccccccccccccccecescecccsessesesos 35 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+OrHER AUTHORITY 
+ee TE ED Enon Gdenieiicded bduntidudwndl das 35 
+ek RCS ARE ES ee OED yy, 36 
+See es GU Oh EN bdnaniwachnakesanbieounsuee cater 36 
+
+
+STATEMENT OF THE CASE 
+
+
+I. Ramdass’ Offenses 
+
+
+Between August 25 and September 2, 1992, Bobby 
+Ramdass and his gang engaged in a series of brutal 
+armed robberies at five locations in Northern Virginia. 
+On August 25, 1992, Ramdass and three accomplices 
+robbed two persons at gunpoint at a Pizza Hut restaurant 
+in Fairfax. During that robbery, one of the victims was 
+abducted and the other was struck by Ramdass. (JA 
+17-18). On August 29, 1992, Ramdass and one accomplice 
+entered the Bragg Tower apartment hotel in Alexandria 
+and robbed Christopher Crissel, the clerk, at gunpoint. 
+During that robbery, Ramdass struck Mr. Crissel in the 
+jaw with his fist and then pistol-whipped him in the 
+head. (JA 19-23). 
+
+
+On the afternoon of August 30, 1992, Ramdass and 
+two accomplices robbed Emanuel Selassie, a taxicab 
+driver in Arlington. After taking Mr. Selassie’s money at 
+gunpoint, Ramdass shot him in the head and left him for 
+dead.' Later that same night, Ramdass committed 
+another armed robbery of an employee in a Domino’s 
+Pizza restaurant in Alexandria. (JA 57-58). 
+
+
+Then, on September 2, 1992, Ramdass and four 
+accomplices entered a 7-Eleven store in Fairfax where 
+Ramdass proceeded to rob Mohammed Kayani, the clerk, 
+at gunpoint and then shoot him in the head. Mr. Kayani 
+
+
+1 Mr. Selassie miraculously survived after an extensive 
+hospital stay during which he remained unconscious for two 
+weeks and underwent major surgery. (JA 28, 41-45). 
+
+
+died as a result of massive bleeding. See Ramdass v. Com- 
+monwealth, 437 S.E.2d 566, 568-569 (Va. 1993). (JA 
+104-105). 
+
+
+Il. The Trial 
+
+
+Ramdass was tried for the capital murder of Mr. 
+Kayani by a jury in the Circuit Court of Fairfax County. 
+The jury found Ramdass guilty on January 28, 1993, of 
+capital murder during the commission of robbery and 
+using a firearm in the commission of that offense. Ram- 
+dass pleaded guilty to the related charge of robbery. On 
+January 29, 1993, in a separate sentencing hearing, the 
+Commonwealth presented evidence of Ramdass’ exten- 
+sive criminal history and asked the jury to find that 
+Ramdass “would constitute a continuing serious threat to 
+society” under Virginia’s “future dangerousness” aggra- 
+vating factor and to sentence him to death. See Va. Code 
+§ 19.2-264.4(C). 
+
+
+As part of its sentencing case, the Commonwealth 
+presented evidence of an unarmed robbery Ramdass had 
+committed at the age of sixteen, as well as other juvenile 
+offenses. (JA 12-15 and Tr. 1/29/93 at 22-25). It also 
+presented evidence that Ramdass had been tried, con- 
+victed and sentenced for the Fairfax Pizza Hut robberies. 
+(Tr. 1/29/93 at 31). 
+
+
+The Commonwealth presented the testimony of Mr. 
+Crissel from the Bragg Tower robbery. On cross-examina- 
+tion, Ramdass brought out the fact that he had not yet 
+been tried for that offense and that it was set for trial in 
+Alexandria. (Id. at 42-43). The Commonwealth presented 
+several witnesses involved in the attempted murde: and 
+
+
+robbery of Mr. Selassie, the taxicab driver. (JA 23-45). 
+Finally, the Commonwealth presented Ramdass’ parole 
+officer who testified that Ramdass’ summer crime spree 
+
+
+had occurred while he was still under parole supervision. 
+(JA 46-47). 
+
+
+In its opening statement in the sentencing phase, the 
+defense told the jury, without objection, that the evidence 
+
+
+will show you that [Ramdass] will serve, right 
+now before you impose a sentence, the next 
+ninety-nine years of his life in jail for the sen- 
+tences that have been imposed. 
+
+
+It will show you that he is pending trial in 
+Alexandria for the Fort Bragg apartment inci- 
+dent, robbery, for which as you’ve seen from all 
+the other charges, will have him facing at least 
+one life sentence and another four years. 
+
+
+He has yet to be sentenced in the Domino Pizza 
+robbery in Alexandria, of which he has been 
+convicted. At least another life sentence. 
+
+
+Bobbie Lee Ramdass will never be out of jail. 
+Your sentence today will insure that if he lives 
+to be a hundred and twenty two, he will spend 
+the rest of his life in prison. 
+
+
+(JA 49-50, emphasis added). Ramdass presented 
+numerous witnesses, including his brother who testified 
+about Ramdass’ childhood, his run-ins with the authori- 
+ties from the age of thirteen and his juvenile incarcera- 
+tions. (Tr. 1/29/93 at 104 et seq.). Ramdass also called a 
+parole officer to testify as to her investigation of Ram- 
+dass’ background in connection with one of his earlier 
+offenses. (Id. at 115 et seq.). 
+
+
+Bobby Ramdass testified on his own behalf, admit- 
+ting his guilt in the capital murder, the Pizza Hut rob- 
+beries, the Bragg Tower robbery, the taxicab driver’s 
+attempted murder and robbery, the Domino’s Pizza rob- 
+bery and other crimes. (JA 54-64). He told the jury that he 
+had been sentenced to serve seventy-six years in prison 
+for the Pizza Hut robberies in Fairfax and that an Alex- 
+andria jury had found him guilty of the Domino’s Pizza 
+robbery and had recommended an eighteen-year sen- 
+tence, but that he had not yet been sentenced for that 
+crime. (CA4 App. 136-137). He explained that he was 
+scheduled to be tried the following month in Alexandria 
+for the Bragg Tower robbery. (Id. at 157).? 
+
+
+At the conclusion of all the evidence, the jury was 
+instructed on the law. (JA 76a-77). Ramdass did not 
+request an instruction regarding his parole status. During 
+the subsequent closing arguments, the defense argued 
+that 
+
+
+Bobbie Lee is going to jail for the rest of his life. 
+The numbers have been run by you, ninety-nine 
+plus years. There are cases in Court, matters still 
+outstanding. . . . He should never see the light of . 
+day. . . . I ask you to give him life. Life, he will 
+never see the light of day, but may you not take 
+his life. 
+
+
+2 Eight months after his Fairfax capital murder trial, 
+Ramdass pleaded guilty in Alexandria to a murder he had 
+committed on July 15, 1992. During the sentencing hearing on 
+the Fairfax capital murder, the prosecutor cross-examined 
+Ramdass regarding the Alexandria murder, but Ramdass denied 
+any involvement. (JA 63-64). The prosecutor presented no 
+evidence about that separate murder. 
+
+
+(JA 85, emphasis added). The prosecutor did not object 
+to, comment on or challenge this defense argument in any 
+way. The jury retired at 4:20 p.m. (JA 87). At 7:02 p.m., the 
+jury sent out a written question: “if the Defendant is 
+given life, is there a possibility of parole at some time 
+before his natural death?” (JA 88). Ramdass did not 
+request an instruction that he would not be released on 
+parole. Instead, he suggested that the court answer the 
+question as follows: 
+
+
+You must not concern yourself with matters that 
+will occur after you impose your sentence, but 
+you may impose [sic] that your sentence will be 
+the legal sentence imposed in the case. 
+
+
+(JA 89). The court instead accepted the Commonwealth’s 
+suggestion that settled precedent from the Virginia 
+Supreme Court required the following response taken 
+from a Virginia model jury instruction: 
+
+
+You should impose such punishment as you feel 
+is just under the evidence and within the 
+instructions of the Court. You are not to concern 
+yourselves with what may happen afterwards. 
+
+
+(JA 91). After giving the instruction, the jury was excused 
+for the night. It reconvened the following morning at 9:00 
+and, at 10:25 a.m., the jury returned with its verdict, 
+fixing petitioner’s sentence at death. (Tr. 1/30/93 at 3). 
+
+
+A post-verdict hearing was held on April 2, 1993. The 
+court considered a probation officer’s investigation of 
+Ramdass’ background “to the end that the court may be 
+fully advised as to whether the sentence of. death is 
+appropriate and just.” See Va. Code § 19.2-264.5. Ramdass 
+presented testimony from his mother and from himself. 
+
+
+His attorneys argued that the judge should impose a life 
+sentence because Ramdass never would be eligible for 
+parole under Virginia Code § 53.1-151(B)(1). (JA 94). They 
+also argued that they had spoken to three unnamed jurors 
+who allegedly said they would have voted for a life 
+sentence if they had known that Ramdass would have 
+been ineligible for parole. (JA 95). The court sentenced 
+Ramdass to death in accordance with the recommenda- 
+tion of the jury. The court also sentenced him to life 
+imprisonment for the robbery and to four years in prison 
+for the illegal use of a firearm. (JA 101). 
+
+
+III. The Direct Appeal 
+
+
+On appeal to the Virginia Supreme Court, Ramdass 
+argued that his due process rights had been violated 
+because the trial court had failed to instruct the jury 
+that he would have been ineligible for parole. Ramdass 
+recited Virginia’s “three-time loser” parole statute, 
+§ 53.1-151(B)(1), and then noted that he had been con- 
+victed and sentenced on six separate robbery charges 
+dating back to 1988.3 (CA4 App. 168). He did not discuss 
+when the convictions were imposed, whether they 
+
+
+3 Section 53.1-151(B)(1) provided that, 
+
+
+Any person convicted of three separate felony 
+offenses of (i) murder, (ii) rape or (iii) robbery by the 
+presenting of firearms or other deadly weapon, or 
+any combination of the offenses specified in 
+subdivisions (i), (ii) or (iii) when such offenses were 
+net part of a common act, transaction or scheme shall 
+not be eligible for parole. 
+
+
+ESS aoe 
+
+
+qualified under § 53.1-151(B)(1), or when he became inel- 
+igible for parole. 
+
+
+On November 5, 1993, the Virginia Supreme Court 
+affirmed the sentence of death in a unanimous opinion. 
+(JA 102). Regarding the parole instruction argument, the 
+Court ruled that “[w]e repeatedly have held that a jury 
+should not hear evidence of parole eligibility or inel- 
+igibility because it is not a relevant consideration in fix- 
+ing the appropriate sentence.” (JA 117). The Court 
+approved the standard response given by the trial court 
+to the jury’s question. (JA 118). In his petition for a writ 
+of certiorari filed in this Court on March 15, 1994, Ram- 
+dass repeated the argument he had made in the Virginia 
+Supreme Court. (Record No. 93-8309). 
+
+
+This Court had heard oral argument in Simmons v. 
+South Carolina, 512 U.S. 154 (1994), on January 18, 1994. 
+Simmons was decided on June 17, 1994, and, on June 20, 
+1994, this Court granted Ramdass’ certiorari petition, 
+vacated the judgment of the Virginia Supreme Court and 
+remanded the case for reconsideration in light of Sim- 
+mons. Ramdass v. Virginia, 512 U.S. 1217 (1994). (JA 121). 
+
+
+On remand, the Virginia Supreme Court ordered fur- 
+ther briefing and oral argument. Ramdass argued that 
+Simmons required vacatur of his sentence because he was 
+ineligible for parole. According to Ramdass, he was inel- 
+igible for parole under § 53.1-151(B)(1) because, prior to 
+his capital murder trial, he had been convicted in 1988 of 
+robbery and on January 22, 1993, of the Pizza Hut rob- 
+beries. (JA 123-124). The Commonwealth argued in 
+response that Ramdass was not ineligible for parole at the 
+time of his capital murder trial and could not have been 
+
+
+rendered parole ineligible by a life sentence for the capi- 
+tal murder. The Commonwealth explained that the 1988 
+robbery did not qualify under § 53.1-151(B)(1) because it 
+involved no deadly weapon and that the first qualifying 
+conviction under § 53.1-151(B)(1) was the Pizza Hut rob- 
+beries which were part of “a common act, transaction or 
+scheme” and for which Ramdass had been sentenced. The 
+Commonwealth also explained that the capital conviction 
+could have counted only as the second of the three con- 
+victions required for ineligibility under § 53.1-151(B)(1). 
+Therefore, if on January 30, 1993, Ramdass’ jury had 
+imposed a life sentence, Ramdass would not have been 
+ineligible for parole under § 53.1-151(B)(1). Finally, the 
+Commonwealth explained that, if given a life sentence for 
+the capital crime, Ramdass would not have been rendered 
+ineligible for parole until the third qualifying conviction 
+was imposed on February 18, 1993, for the Domino’s 
+Pizza robbery, after the capital jury had rendered its 
+sentencing verdict. (CA4 App. 193-195). 
+
+
+Ramdass did not dispute the Commonwealth’s fact- 
+based argument, although the Virginia Supreme Court’s 
+briefing order expressly had allowed for a reply. (Id. at 
+182). The Virginia Supreme Court rendered its unanimous 
+opinion on November 4, 1994. Ramdass v. Commonwealth, 
+450 S.E.2d 360 (Va. 1994). (JA 128). The Court ruled as 
+follows: 
+
+
+In Simmons, the Supreme Court held that when 
+“future dangerousness” is an issue in the sen- 
+tencing phase of a capital murder case, the jury 
+is entitled to information concerning the defen- 
+dant’s parole ineligibility. Simmons, 512 U.S. at 
+___, 114 S.Ct. at 2198. Hence, Simmons applies 
+
+
+only if Ramdass was ineligible for parole when 
+the jury was considering his sentence. 
+
+
+Code § 53.1-151(B) establishes a person's inel- 
+igibility for parole as follows: 
+
+
+Any person convicted of three separate fel- 
+ony offenses of (i) murder, (ii) rape or (iii) 
+robbery by the presenting of firearms or 
+other deadly weapon, or any combination of 
+the offenses specified in subdivisions (i), (ii) 
+or (iii) when such offenses were not part of 
+a common act, transaction or scheme shall 
+not be eligible for parole. 
+
+
+At the time that the jury was considering Ram- 
+dass’ penalty on January 30, 1993, Ramdass was 
+not ineligible for parole since he had only two 
+“separate felony offenses” within the meaning 
+of Code § 53.1-151(B)(1). They were: 
+
+
+(1) Ramdass’ January 22, 1993, convictions and 
+sentences for the armed robbery of two persons 
+on August 25, 1992, at a Pizza Hut in Fairfax 
+County. Since both convictions arose from the 
+same transaction, they are considered as one 
+felony offense under the express provisions of 
+Code § 53.1-151(B)(1). 
+
+
+(2) Ramdass’s convictions for Kayani’s capital 
+murder and robbery arising from the same 
+transaction and, thus, considered as one felony 
+offense under Code § 53.1-151(B)(1). 
+
+
+We do not agree with Ramdass’s contention that 
+his January 7, 1993, conviction by a jury of an 
+armed robbery in Alexandria also made him 
+ineligible for parole under the statute. Judgment 
+had not been entered on that verdict; therefore, 
+it cannot be considered as a conviction under 
+
+
+10 
+
+
+Code § 53.1-151(B)(1). See Smith v. Common- 
+wealth, 134 Va. 589, 592-593, 113 S.E. 707, 709 
+(1922) (jury’s verdict of conviction upon which 
+no judgment had been entered not conviction 
+within meaning of statute disqualifying person 
+from holding public office). Since Ramdass was 
+not ineligible for parole when the jury was con- 
+sidering his sentence, the Simmons decision does 
+not affect his death sentence. Therefore, we will 
+reaffirm the trial court’s judgment, and reinstate 
+the defendant’s conviction and sentence to 
+death. 
+
+
+(JA 129-131).4 
+
+
+Ramdass did not petition the Virginia Supreme Court 
+for rehearing. See Rule 5:39, Rules of the Supreme Court 
+of Virginia (allowing such petitions). Ramdass instead 
+filed a petition for a writ of certiorari in this Court in 
+which he argued for the first time that the Virginia 
+Supreme Court had misapplied Virginia law in determin- 
+ing that he was not ineligible for parole. (JA 133-138). 
+This Court denied the petition on April 24, 1995. Ramdass 
+v. Virginia, 514 U.S. 1085 (1995). 
+
+
+IV. The Post-Conviction Proceedings 
+
+
+In his state habeas corpus petition filed in the Vir- 
+ginia Supreme Court, Ramdass repeated the argument he 
+had made on direct appeal. He did not challenge the 
+Virginia Supreme Court’s determination of parole eligi- 
+bility under § 53.1-151(B)(1). (JA 146-148). The Virginia 
+
+
+* A chart summarizing Ramdass’ offenses by description 
+and date of trial and judgment appears in Appendix A. 
+
+
+11 
+
+
+Supreme Court dismissed the petition on March 18, 1996, 
+and refused to relitigate the issue under its rule in Hawks 
+v. Cox, 175 S.E.2d 271 (Va. 1970) (absent change in circum- 
+stances, a previous determination of issue is conclusive). 
+(JA 151). 
+
+
+Ramdass’ federal habeas petition was filed on Febru- 
+ary 14, 1997, in the United States District Court for the 
+Eastern District of Virginia in Norfolk. Ramdass chal- 
+lenged the Virginia Supreme Court's eligibility deter- 
+mination on a number of bases, but primarily on the 
+grounds that the state court allegedly had misinterpreted 
+and misapplied Virginia law and had no authority in the 
+first place to determine his eligibility. (JA 162-167). Ram- 
+dass also argued that the Virginia Supreme Court's ruling 
+was arbitrary and that Simmons required relief even if he 
+was eligible for parole as determined by the Virginia 
+Supreme Court; however, he never proffered an instruc- 
+tion regarding his parole status that he believed should 
+have been given to the jury. (JA 167-168). A magistrate 
+judge recommended that the writ be granted on the basis 
+that the Virginia Supreme Court had erred in its deter- 
+mination of Virginia law (JA 299-303) and that Simmons 
+was not “limited to the very narrow issue of specific 
+parole eligibility or lack thereof.” (JA 304). 
+
+
+The district court judge subsequently found Ram- 
+dass’ claim of “arbitrary” action by the Virginis Supreme 
+Court procedurally barred because it had not been raised 
+in state court. Ramdass v. Angelone, 28 F. Supp. 2d 343, 
+356-357 (E.D. Va. 1998). (JA 333). He otherwise agreed 
+with the magistrate judge, however, and directed that the 
+writ issue on the grounds that the Virginia Supreme 
+Court had “contradicted more than one hundred years of 
+
+
+12 
+
+
+Virginia law” (JA 350-351) and that, in any event, relief 
+was warranted because, despite Ramdass’ parole eligi- 
+bility status under § 53.1-151(B)(1), “the trial court, pros- 
+ecution, and defense must have clearly understood that 
+Petitioner was subject to life without parole.” (JA 362). 
+The district court concluded that the Virginia Supreme 
+Court’s decision was an unreasonable application of 
+clearly established law and an unreasonable determina- 
+tion of the facts under 28 U.S.C. § 2254(d). {JA 363). 
+
+
+On the Director’s appeal to the United States Court 
+of Appeals for the Fourth Circuit, Ramdass argued that 
+this Court had not conditioned its rule in Simmons on a 
+state’s determination of parole ineligibility “at the 
+moment of sentencing.” (Brief of Petitioner, CA4 No. 
+98-30, 2/22/99, at 16). He argued that Simmons looked 
+rather to “the functional and common-sense possibility of 
+parole.” (Id.). He also argued that, contrary to the Vir- 
+ginia Supreme Court’s express interpretation of Virginia 
+law, § 53.1-151(B)(1) did not require that he be sentenced 
+on three qualifying convictions in order to be rendered 
+ineligible, but merely that he have been found guilty on 
+three qualifying offenses. (Id. at 20-21, n.9). Finally, he 
+argued that it was unfair to conclude that he was not 
+entitled to a no-parole instruction even if he was not 
+ineligible for parole at the time of his capital sentencing 
+because he would become ineligible “three short weeks 
+thereafter,” and because he “inevitably would reach a 
+point where he could never be considered for release.” 
+(Id. at 23, emphasis added). Again, however, Ramdass did 
+not articulate what be believed the jury should have been 
+instructed on the matter. 
+
+
+13 
+
+
+A three-judge panel of the Fourth Circuit reversed 
+the district court’s erroneous decision to grant the writ. 
+Ramdass v. Angelone, 187 F.3d 396 (4th Cir. 1999). (JA 380). 
+It held first that Simmons requires a determination of 
+whether the defendant is eligible for parole and that such 
+determination is a matter of state law, rather than the 
+federal issue defined by Ramdass as a “nonlegalistic 
+‘commonsense impossibility of parole.’” (JA 396-398). 
+Second, the Court of Appeals held that Ramdass’ nebu- 
+lous standard for determining parole was contrary to 
+Fourth Circuit precedent. (JA 398). Third, it held that, “as 
+a matter of simple logic,” any determination of a state 
+prisoner’s parole eligibility has no meaning beyond what 
+state law dictates. (JA 399). 
+
+
+Fourth, the Court of Appeals held that Ramdass’ 
+proposed “standard” was not “clearly established” under 
+§ 2254(d)(1), and also ran afoul of the “new rule” doctrine 
+of Teagt.e v. Lane, 489 U.S. 288 (1989), because it asked for 
+an extension of what Simmons requires. (JA 399-400). 
+Finally, the Fourth Circuit held that Ramdass’ “insinua- 
+tion” that the Virginia Supreme Court had “acted craftily 
+in denying his Simmons claim” was completely 
+unfounded: the Virginia rule that a conviction cannot 
+count for parole eligibility purposes unless and until a 
+final sentencing order has been entered comports with 
+the “age-old rationale” that before negative consequences 
+(such as parole ineligibility) may be imposed based upon 
+a conviction, a defendant is accorded added protection by 
+a definition of “conviction” limited to orders which actu- 
+ally have been entered. (JA 401-403). In Ramdass’ case, 
+the Fourth Circuit accurately observed that the random 
+order in which his trials and sentencing proceedings had 
+
+
+14 
+
+
+taken place was entirely foreseeable, given the fact that 
+he had committed so many felonies in such a short period 
+of time. (JA 401). 
+
+
+Fourth Circuit Judge Murnaghan dissented on the 
+Simmons issue because, even though Ramdass was eligi- 
+ble for parole - and properly found to be so by the 
+Virginia Supreme Court (JA 414) — it was, in his opinion, 
+a “practical reality” that Ramdass would be parole inelig- 
+ible “upon entry of the Kayani [capital murder] convic- 
+tion.” (JA 415). Under Judge Murnaghan’s erroneous 
+interpretation of Virginia law, moreover, entry of the 
+Domino's Pizza conviction - the third qualifying convic- 
+tion under § 53.1-151(B)(1) - was nothing more than a 
+“ministerial act” mandated by state law. (Id.). Thus, 
+according to Judge Murnaghan and squarely contrary to 
+what the Virginia Supreme Court had ruled, it made no 
+difference to the application of § 53.1-151(B)(1) that the 
+judgment in the Domino’s Pizza case had not actually 
+been entered at the time Ramdass’ capital sentencing jury 
+asked its question about parole eligibility. 
+
+
+In his petition for rehearing filed in the Fourth Cir- 
+cuit, Ramdass adopted Judge Murnaghan’s argument 
+and, for the first time, expressly abandoned his other 
+arguments that supposedly demonstrated how the Vir- 
+ginia Supreme Court had erred in us interpretation of 
+Virginia law. (JA 425 n.2). The Fourth Circuit denied both 
+the petition for rehearing and the petition for rehearing 
+en banc. (JA 429-430). 
+
+
+In his petition for a writ of certiorari, Ramdass con- 
+tended that the Fourth Circuit had erred in ruling that 
+Simmons was limited by the state court’s determination of 
+
+
+15 
+
+
+parole eligibility, in ruling that he was denied no right 
+under Ake v. Oklahoma, 470 U.S. 68 (1995), and in its 
+application of § 2254(d). This Court granted certiorari but 
+limited its review to the Simmons issue alone. Ramdass v. 
+Angelone, 120 S.Ct. 784 (2000). 
+
+
+° 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In Simmons, this Court created a new rule of criminal 
+procedure by which a defendant in a capital murder case 
+is entitled to answer the State’s argument for a finding of 
+future dangerousness by informing the jury that a life 
+sentence will render him ineligible for parole as a matter 
+of state law. In Ramdass’ case, the Virginia Supreme 
+Court held that, under Virginia Code § 53.1-151(B)(1), a 
+defendant must have three or more qualifying convic- 
+tions before losing parole eligibility and that a “convic- 
+tion” for purposes of the statute means a conviction upon 
+which final judgment has been entered by the trial court. 
+
+
+At the time Ramdass’ capital jury was deciding 
+whether to return a sentencing verdict of life or death, 
+Ramdass had been convicted of only one offense qualify- 
+ing under § 53.1-151(B)(1) and upon which a final judg- 
+ment had been entered. The Virginia Supreme Court held 
+that Ramdass’ sentence for capital murder thus could 
+count only as a second qualifying conviction under 
+§ 53.1-151(B)(1). It further held that a third offense upon 
+which a verdict of guilt had been rendered, but upon 
+which a final judgment had not been entered at the time 
+of the capital sentencing, did not qualify at the time of the 
+capital sentencing as a conviction for purposes of the 
+
+
+16 
+
+
+state statute. The Virginia Supreme Court therefore held 
+that Ramdass was not entitled under Simmons to provide 
+inaccurate information to the jury that a life sentence 
+would render him ineligible for parole. 
+
+
+Ramdass claims now that the rule in Simmons does 
+not depend upon the state court’s characterization of a 
+defendant's parole eligibility status and that a federal 
+court on collateral review may find, under a “functional” 
+view of parole eligibility, that a defendant was in fact 
+ineligible for parole despite the state court’s ruling to the 
+contrary. Ramdass’ claim, however, is an impermissible 
+request for an extension of Simmons that was neither 
+clearly established nor compelled by Simmons. The rule 
+he seeks thus is prohibited by both 28 U.S.C. § 2254(d)(1) 
+and by this Court’s “new rule” doctrine. 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+THE RULE SOUGHT BY RAMDASS WAS NOT DIC- 
+TATED BY SIMMONS OR ANY CLEARLY ESTAB- 
+LISHED PRECEDENT AT THE TIME HIS CASE 
+BECAME FINAL. 
+
+
+A. Ramdass’ Claim 
+
+
+Ramdass always has conceded that, in order for him 
+to prevail under Simmons, he must demonstrate his parole 
+ineligibility. After the Virginia Supreme Court deter- 
+mined in 1994 that Ramdass was not entitled to relief 
+under Simmons because he could not have been rendered 
+parole ineligible by a life sentence for the capital murder, 
+Ramdass argued that the Virginia Supreme Court's parole 
+eligibility determination was a mistake. 
+
+
+17 
+
+
+At some point during his federal collateral case, how- 
+ever, he recognized that his challenge to the Virginia 
+Supreme Court’s determination of state law could not 
+result in federal collateral relief. He changed his 
+approach and asked the federal courts instead to rein- 
+terpret Simmons so as to afford him relief. Because he was 
+faced with the plain language of Simmons that clearly 
+predicates relief upon a determination of parole inel- 
+igibility under state law, Ramdass asked for a ruling that 
+would redefine ineligibility as a “common-sense impos- 
+sibility of parole” without regard to, and even in defiance 
+of, the state court’s express contrary determination of 
+eligibility under state law. 
+
+
+_ It is important to understand the scope of Ramdass’ 
+claim. He is asking that federal habeas courts be autho- 
+rized to determine parole eligibility de novo, and even to 
+determine a matter of state law contrary to the highest 
+state court. Under the facts of his case, however, the effect 
+of granting his request would be to create a new right by 
+which a capital defendant in a future dangerousness case 
+would be entitled to inform his sentencing jury, not just 
+that a life sentence will render him ineligible for parole, 
+but also, under some “common sense” theory, about “any 
+possibility that he could be released on parole in the 
+future.” (Pet. Br. at 47). 
+
+
+To be precise, Ramdass claims that Simmons entitled 
+him to inform his sentencing jury of hypothetical future 
+developments which, under Virginia law, would render 
+
+
+18 
+
+
+him ineligible for parole if they occurred.> Ramdass urges 
+that, because one of those hypotheticals later came to 
+fruition in his case, he is now entitled to the benefits 
+under Simmons which would have existed if the hypo- 
+thetical had occurred prior to his capital sentencing pro- 
+ceeding. He asserts nothing less than that he was entitled 
+to tell his jury something that might occur simply because 
+it did occur later. 
+
+
+In the truest sense, he is claiming, not that he was 
+denied the right to tell his jury accurate information, but 
+rather that he was denied an opportunity to impart false 
+information. Ramdass’ jury already had been informed of 
+all accurate information: it knew that Ramdass had been 
+sentenced for the Pizza Hut robberies to seventy-six 
+years, that a jury had recommended an eighteen-year 
+sentence for the Domino’s Pizza robbery and that he had 
+not yet been tried for the Bragg Towers and taxicab driver 
+robberies. It also knew — because defense counsel told it 
+so — that Ramdass would spend tthe rest of his life in 
+prison as a result of all the sentences he would receive. 
+(JA 49-50, 85). What Ramdass now says he should have 
+been allowed to argue - that he would be ineligible for 
+parole on his capital murder conviction — simply was not 
+the truth.* Moreover, it is an obvious extension of the rule 
+
+
+5 See discussion below at pages 34-36, regarding Ramdass’ 
+mischaracterization of the Domino’s Pizza conviction as 
+“inexorable” under Virginia law. 
+
+
+6 Because the jury had before it all the facts regarding 
+Ramdass’ other sentences and pending trials for the other 
+offenses, and because defense counsel was allowed to tell the 
+jury, without objection or rebuttal by the Commonwealth, that 
+his sentences would result in him spending the rest of his life in 
+
+
+19 
+
+
+in Simmons and therefore forbidden by the statutory stan- 
+dard of review that governs this collateral case. 
+
+
+B. The Standard of Review 
+
+
+Ramdass does not dispute that the standard of 
+review governing his claim is mandated by 28 U.S.C. 
+§ 2254(d).” In Lindh v. Murphy, 521 U.S. 320, 334 (1997), 
+this Court observed that § 2254(d) provides a “highly 
+deferential standard for evaluating state court rulings.” 
+In Terry Williams v. Taylor, No. 98-8384, this Court pres- 
+ently is considering the interpretation of § 2254(d)(1). In 
+Williams, the Warden has argued that § 2254(d)(1) abol- 
+ished de novo review by federal courts unless the state 
+court decision was patently unreasonable. In order to 
+obtain relief under § 2254(d)(1), the prisoner must show 
+either that the state court failed to select and apply a 
+clearly established federal law, i.e., the decision was “con- 
+trary to... ~,” or that the state court’s adjudication of 
+mixed questions of law and fact was so unreasonable that 
+all reasonable jurists would have felt compelled to rule in 
+the prisoner’s favor, i.e., the decision was an “unreason- 
+able application. . . . ” (See No. 98-8384, Resp. Br. at 
+25-30). Williams has argued that § 2254(d)(1) preserves de 
+
+
+prison, Ramdass cannot demonstrate the actual prejudice 
+necessary to a grant of federal habeas corpus relief. See Brecht v. 
+Abrahamson, 507 U.S. 619, 637 (1993) (error must have “had 
+substantial and injurious effect or influence in determining the 
+jury’s verdict”). 
+
+
+7 His federal § 2254 petition was filed on February 14, 1997, 
+making the provisions of the 1996 Antiterrorism and Effective 
+Death Penalty Act (AEDPA), including § 2254(d), applicable to 
+his case. See Lindh v. Murphy, 521 U.S. 320, 326 (1997). 
+
+
+20 
+
+
+novo review and simply codifies this Court’s “new rule” 
+doctrine under Teague. (See No. 98-8384, Pet. Br. at 35). 
+
+
+The Fourth Circuit’s judgment in Ramdass’ case 
+encompasses both interpretations of the statute which are 
+currently under review in Williams.® Regarding 
+§ 2254(d)(1), the Fourth Circuit held, 
+
+
+[t]his statutory provision, which requires that 
+the state court decision at issue be inconsistent 
+with “clearly established Federal law, as deter- 
+mined by the Supreme Court of the United 
+States,” 28 U.S.C. § 2254(d)(1), “imports an anti- 
+retroactivity principle into federal habeas law.” 
+Green v. French, 143 F.3d 865, 873 (4th Cir. 1998). 
+It resembles, but does not simply codify, the 
+anti-retroactivity doctrine of Teague. . . . In fact, 
+we have observed that the standard of 
+§ 2254(d)(1) is “even more stringent” than Tea- 
+gue. Weeks v. Angelone, 176 F.3d 249, 266 n.9 (4th 
+Cir. 1999). . . . Thus, either under Teague or 
+under § 2254(d)(1), Ramdass’ argument for an 
+extension of Simmons weuld fail. 
+
+
+(JA 399-400). Whether Ramdass’ case is reviewed under a 
+“stricter than Teague” view of § 2254(d)(1) or under Wil- 
+liams’ “Teague as is” view of § 2254(d)(1), the forthcoming 
+decision in Williams can have no significant effect on the 
+Fourth Circuit’s judgment. 
+
+
+Pursuant to the language of § 2254(d)(1), a writ of 
+habeas corpus “shall not be granted” to Ramdass unless 
+the Virginia Supreme Court's adjudication of his Simmons 
+claim “resulted in a decision that was contrary to, or 
+
+
+® Ramdass does not challenge the Fourth Circuit's 
+definition of the governing standard. 
+
+
+jt eee = 
+
+
+21 
+
+
+involved an unreasonable application of, clearly estab- 
+lished Federal law, as determined by [this] Court.”? Pur- 
+suant to the “new rule” doctrine, habeas relief may not be 
+granted unless it can be said that the Virginia Supreme 
+Court acted objectively unreasonably by not extending to 
+Ramdass relief under Simmons, see O'Dell v. Netherland, 
+521 U.S. 151, 156 (1997), or, put another way, that the 
+Virginia Supreme Court was compelled by Simmons to 
+rule in Ramdass’ favor. See Gray v. Netherland, 518 U.S. 
+152, 166 (1996). Examination of this Court’s decision in 
+Simmons, however, makes clear that, as the Fourth Circuit 
+found, the rule Ramdass seeks was neither “clearly estab- 
+lished” under § 2254(d) nor “compelled” under the “new 
+rule” doctrine. 
+
+
+C. The Rule in Simmons 
+
+
+The language in both the Simmons plurality opinion 
+and in Justice O’Connor’s concurring opinion?® could not 
+
+
+9 Section 2254(d)(2) also allows relief where the petitioner 
+demonstrates that the state court decision was based upon an 
+unreasonable determination of the facts. The district court 
+based its decision to grant relief on both (d)(1) and (d)(2). 
+However, as the Fourth Circuit explained, “the parole eligibility 
+determination is a question of law, not fact.” (JA 400). Indeed, 
+the facts relevant to the parole eligibility determination never 
+have been in dispute and Ramdass has abandoned any 
+argument now that he is entitled to relief under § 2254(d)(2). 
+That subsection thus is inapplicable to this case. 
+
+
+10 As Justice O’Connor supplied the necessary fifth vote 
+and concurred on grounds narrower than those of the plurality, 
+her concurrence is the controlling opinion. See Romano v. 
+Oklahoma, 512 U.S. 1, 9 (1994), citing Marks v. United States, 430 
+U.S. 188, 193 (1977). 
+
+
+22 
+
+
+be more explicit. Application of the “new rule” this Court 
+created in Simmons, see O'Dell, 521 U.S. at 166, was pre- 
+conditioned on two factors: (1) the prosecution must have 
+argued for the death penalty based upon the defendant's 
+“future dangerousness;” and (2) the defendant must be 
+rendered ineligible for parole by a life sentence. The only 
+factor at issue in Ramdass’ case is the latter: Ramdass 
+argues that parole eligibility is not limited by what the 
+state court says it is. 
+
+
+The language used in both the plurality and concur- 
+ring opinions of Simmons, however, simply forecloses 
+Ramdass’ contention. See Simmons, 512 U.S. at 156 (plu- 
+rality opinion) (limiting holding to cases where “state law 
+prohibits the defendant’s release on parole”); id. at 158 
+(noting that South Carolina officials had testified that 
+“any offender in petitioner’s position was in fact inelig- 
+ible for parole under South Carolina law”); id. at 162 
+(noting that Simmons had asked three times “to inform 
+the jury that in fact he was ineligible for parole under 
+state laws”); id. at 165 (defendant's ability to use parole 
+ineligibility to rebut a future dangerousness argument 
+depends “on the fact that he was legally ineligible for 
+parole”); id. at 165 n.5 (defendant entitled to rebut future 
+dangerousness “with the fact that he is ineligible for 
+parole under state law”); id. at 166 (noting that South 
+Carolina “admits that an instruction informing the jury 
+that petitioner is ineligible for parole is legally accurate”); 
+id. at 167 n.7 (reciting statutory law from thirty-seven 
+States regarding rules governing parole eligibility and 
+right to inform jury); id. at 168 (stating that, “[i]n a State 
+in which parole is available” the defendant has no right 
+
+
+=~ LL A Ac ear 
+
+
+23 
+
+
+to inform the jury); see also id. at 176 (O’Connor, J., con- 
+curring) (citing South Carolina statutes to demonstrate 
+that “the only available alternative sentence . . . was 
+life . . . without the possibility of parole”); id. (“In a State 
+in which parole is available, the Constitution does not 
+require (or preclude) jury consideration of that fact”); id. 
+at 178 (“the only alternative . . . under state law was 
+life . . . without possibility of parole”)."! 
+
+
+Indeed, this unmistakably clear language has led 
+numerous courts to conclude exactly as the Fourth Circuit 
+has concluded: Simmons does not extend to cases in 
+which the defendant would be eligible for parole upon a 
+life sentence under state law. See, e.g., Miller v. Johnson, 
+200 F.3d 274, 290-291 (Sth Cir. 2000); Coe v. Bell, 161 F.3d 
+320, 346 (6th Cir. 1998), cert. denied, 120 S.Ct. 110 (1999); 
+Ingram v. Zant, 26 F.3d 1047, 1054 n.5 (11th Cir. 1994) (per 
+curiam), cert. denied, 513 U.S. 1167 (1995); State v. Bey, 736 
+A.2d 469, 502 (N.J. 1999); State v. White, 709 N.E.2d 140, 
+156 (Ohio), cert. denied, 120 S.Ct. 345 (1999); State v. Bill- 
+ings, 500 S.E.2d 423, 427 (N.C.), cert. denied, 525 U.S. 1005 
+(1998); State v. Feaster, 716 A.2d 395, 441 (N.J. 1998); 
+Griffith v. State, 983 S.W.2d 282, 289 (Tex. Crim. App. 
+i 198), cert. denied, 120 S.Ct. 77 (1999); State v. Bush, 942 
+S.W.2d 489, 503 (Tenn.), cert. denied, 522 U.S. 953 (1997); 
+Philpot v. State, 486 S.E.2d 158, 160 (Ga. 1997), cert. denied, 
+522 U.S. 1054 (1998); State v. Simpson, 479 S.E.2d 57, 61 
+
+
+™ Ramdass asserts that the Fourth Circuit incorrectly 
+“assum(ed] that [state law] circumscribe[s] the federal right.” 
+(Pet. Br. at 19). As demonstrated in the text, however, it was 
+Simmons itself that defined the federal right in terms of a status 
+created by state law. 
+
+
+24 
+
+
+(S.C. 1996), cert. denied, 520 U.S. 1277 (1997); Oken v. State, 
+681 A.2d 30, 41 (Md. App. 1996); State v. Montez, 927 P.2d 
+64, 74 (Ore. 1996), cert. denied, 519 U.S. 1079 (1997). 
+
+
+Nothing in Simmons supports an argument allowing a 
+federal habeas cout to decide de novo the state law issue 
+of whether a defendant will be made ineligible for parole 
+by a life sentence or, as here, to redetermine the eligibility 
+issue contrary to the express ruling of the state supreme 
+court. Ramdass does not cite any authority that supports 
+his novel theory. Instead, he attempts to evade the clear 
+import of Simmons by reference to cases which, not only 
+have nothing to do with the particular rule in Simmons, 
+§ 2254(d) or the “new rule” doctrine, but which are 
+wholly inapposite on any level.!? 
+
+
+"2 Ramdass’ “custody” analogy, for example, is irrelevant 
+to the rule in Simmons. In Miranda v. Arizona, 384 U.S. 436 (1966), 
+and subsequent cases, this Court has defined the familiar rule 
+requiring specific warnings prior to police initiated custodial 
+questioning as applying when a reasonable person would feel 
+he was not free to leave, and has held the issue of “custody” to 
+be a federal question of mixed fact and law. See Thompson v. 
+Keohane, 516 U.S. 99, 112 (1995). That rule obviously has no 
+connection, in principle or application, to the issue of whether a 
+federal court may redetermine state parole law for the purpose 
+of instructing a state court capital sentencing jury. Even further 
+removed from the present case is the interpretation of the “in 
+custody” provision of § 2254(a). That term has been broadly 
+construed by this Court so as to give federal courts jurisdiction 
+over habeas petitions filed by state prisoners; it never has been 
+circumscribed by state law. See Spencer v. Kemna, 523 U.S. 1, 7 
+(1998). 
+
+
+25 
+
+
+As an initial matter, the reason Ramdass’ analogies 
+fail is that his underlying premise is simply wrong. Con- 
+trary to his contention, the rule in Simmons is not one 
+involving “federal law [that] overlays state laws,” 
+depending “on the operational consequences of state-law 
+rules, not on the characterization that a state court or 
+legislature puts on those rules.” (Pet. Br. at 28). As the 
+above-cited passages from Simmons make clear, it is pre- 
+cisely the defendant's legal status under state law that 
+triggers the due process right to inform the jury. That due 
+process right is wholly dependent upon how state law 
+defines the prisoner’s parole eligibility status, as plainly 
+expressed repeatedly in both the plurality and concurring 
+opinions of Simmons. 
+
+
+Moreover, the Fourth Circuit accurately observed 
+that, 
+
+
+as a matter of simple logic, the fact that a defen- 
+dant will have no possibility of parole if given a 
+life sentence can only stem from the legal con- 
+clusion that state law bars eligibility for parole. 
+Because parole eligibility is entirely a creature of 
+state law, Ramdass’ conception of practical or 
+functional parole eligibility must inevitably col- 
+lapse into a determination of state law. 
+
+
+(JA 399). Put another way, Simmons recognized that 
+parole eligibility can have no meaning outside of what 
+state law says it means. Whether thought of in terms of 
+“practical,” “functional” or “technical,” an inmate is 
+either eligible for parole or he is not. Whether looked at 
+as a definitional or result-oriented matter, the “opera- 
+tional consequences” of state parole eligibility law are 
+absolutely equivalent to its “characterization” by the 
+
+
+26 
+
+
+state court. There are no gray areas of parole eligibility: 
+the inmate’s sentence or sentences either render him inel- 
+igible for parole under state law or they do not. 
+
+
+Indeed, were the rule in Simmons somehow divorced 
+from the defendant's parole eligibility under state law, it 
+would have no workable meaning at all, much less any 
+practical means by which it could be applied or even 
+reviewed. If, as Simmons holds, a defendant may inform 
+his jury that a life sentence will render him ineligible for 
+parole, then state law must determine whether the defen- 
+dant would be ineligible and, therefore, whether the Sim- 
+mons rule applies.'% 
+
+
+Furthermore, Ramdass’ collection of cases involves 
+the wholly irrelevant issue of whether a state law itself 
+violates the Constitution.'* Ramdass, however, never has 
+
+
+13 Ramdass suggests that constitutional error occurred 
+because the jury’s exact question was not answered. (Pet. Br. at 
+27). The right created in Simmons, however, is not dictated by 
+whether or what a jury asks; rather, it narrowly defines the 
+parameters of what information a court must allow to be 
+imparted to the jury about parole by way of rebuttal: if the 
+defendant requests, the jury must be informed that a life 
+sentence will result in parole ineligibility. A jury may have 
+many legitimate concerns, e.g., whether there is generally a 
+possibility of release, whether the sentence may be commuted, 
+whether the defendant will be held in a maximum security 
+center, whether he will have contact with visitors, whether he 
+will have access to weapons, etc. However, the only information 
+regarding post-conviction procedures that this Court has 
+mandated must be imparted to the jury is, where applicable, 
+parole ineligibility. 
+
+
+14 Bakery & Pastry Drivers & Helpers v. Wohl, 315 U.S. 769 
+(1942), a First Amendment case, reversed a state court ruling 
+
+
+27 
+
+
+challenged the constitutionality of the Virginia parole 
+eligibility statute or the Virginia Supreme Court’s parole 
+eligibility determination. (Pet. Br. at 20: “Virginia can 
+define [its statute] however it wishes, and Ramdass will 
+have no federal basis for complaint”). Under Simmons, a 
+State is free either to provide or prohibit parole eligibility 
+for inmates, as well as to define by statute the factors 
+triggering ineligibility. Certainly nothing in Simmons cur- 
+tails the State’s right to qualify or disqualify an inmate 
+for parole eligibility. Indeed, unlike the cases cited by 
+
+
+that no First Amendment rights attached unless there was a 
+labor dispute. Bailey v. Alabama, 219 U.S. 219 (1911), a direct 
+appeal case, invalidated under the Thirteenth Amendment a 
+state statute that made criminal the failure to pay a debt. 
+Mullaney v. Wilbur, 421 U.S. 684 (1975), a pre-“new rule” federal 
+habeas case, held that, under In re Winship, 397 U.S. 358 (1970), a 
+state may not place the burden of proof of lack of malice upon 
+the defendant, even if malice is not an element of the crime 
+under state law. Hicks v. Feiock, 485 U.S. 624 (1988), simply 
+remanded a contempt conviction to state court to determine 
+whether the proceeding was criminal or civil and to vacate the 
+conviction as a result of a burden-shifting presumption only if 
+found to be criminal. Memphis Steam Laundry Cleaners v. Stone, 
+342 U.S. 389 (1952), a Commerce Clause case, found a state tax 
+discriminated against interstate commerce under any definition 
+of the tax. Railway Express Agency v. Virginia, 347 U.S. 359, 369 
+(1954), another Commerce Clause case, likewise found a state 
+tax to be an impermissible “privilege” tax, partly because the 
+state legislature had so labeled it. Henderson v. Mayor, 92 U.S. 
+259 (1875), yet another Commerce Clause case, held that a New 
+York law imposing a fee for each foreign passenger arriving 
+there was a tax in contravention of free commerce. Collins v. New 
+Hampshire, 171 U.S. 30 (1898), still another Commerce Clause 
+case, struck down a state law making it a crime to sell 
+oleomargarine unless colored pink because the law was, in 
+effect, a prohibition on the sale of oleomargarine. 
+
+
+28 
+
+
+Ramdass in which state laws conflicted with specific con- 
+stitutional provisions, a determination of parole eligi- 
+bility does not conflict with, or even implicate, the 
+Constitution. See Greenholtz v. Nebraska, 442 U.S. 1, 7 
+(1979) (the Constitution creates no liberty interest in dis- 
+cretionary parole). A State’s law establishing parole eligi- 
+bility or ineligibility cannot result in the denial of due 
+process articulated in Simmons because the due process 
+right is itself defined by the state law governing eligi- 
+bility. 
+
+
+Simmons, of course, discusses at length the wide vari- 
+ety of state statutes governing parole eligibility. See Sim- 
+mons, 512 U.S. at 167 n.7 (plurality opinion). The Virginia 
+Supreme Court applied its own statute and ruled that 
+Ramdass could not have informed his jury that he would 
+be rendered ineligible on a capital murder conviction 
+precisely because that conviction would not have ren- 
+dered him ineligible under § 53.1-151(B)(1). The Virginia 
+Supreme Court’s ruling certainly did not impugn any 
+constitutional provision. 
+
+
+Simmons specifically contemplated the result 
+obtained here: “In a State in which parole is available, the 
+Constitution does not require (or preclude) jury consider- 
+ation of that fact.” Simmons, 512 U.S. at 176 (O’Connor, J., 
+concurring); accord 512 U.S. at 168 (plurality opinion). It 
+thus expressly conditioned its new due process rule upon 
+a determination under state law of parole ineligibility. 
+Because the Virginia Supreme Court authoritatively 
+determined that Ramdass would not have been ineligible 
+for parole under Virginia law, the rule in Simmons simply 
+affords him no relief. 
+
+
+me ee ee eee eee ee ————— 
+
+
+——= —_ —— 
+
+
+29 
+
+
+D. Virginia Law 
+
+
+Ramdass admits, as he must under the clear language 
+of Simmons, that state law determines his parole eligi- 
+bility status. According to his theory, however, there are 
+two kinds of state law: one determined by the state 
+supreme court and another determined by a federal 
+court. As his argument goes, the Virginia Supreme Court 
+was free to find what the “technical” law was, but only 
+the federal court may define the “real” state law for 
+purposes of Simmons. In the final analysis, Ramdass’ 
+novel theory is nothing more than a surreptitious attempt 
+to demonstrate the impossible: that the Virginia Supreme 
+Court was wrong on a matter of Virginia law.'5 This, of 
+course, contravenes decades of settled precedent holding 
+that state courts are the sole and final arbiters of state 
+law. See, e.g., Hopkins v. Reeves, 524 U.S. 88, 94-101 (1998); 
+Estelle v. McGuire, 502 U.S. 62, 67-68 (1991); Lewis v. Jeffers, 
+497 U.S. 764, 780 (1990); Engle v. Isaac, 456 U.S. 107, 119 
+(1982); Gryger v. Burke, 334 U.S. 728, 731 (1948). 
+
+
+1S The Fourth Circuit accurately observed that Ramdass 
+never contested the Virginia Supreme Court's parole eligibility 
+determination in state court. (JA 390). However, ... \use 
+Ramdass had made “the broader, more basic claim” of {.mmons 
+error in state court, the Fourth Circuit rejected the respondent's 
+default argument. (Id.). Ramdass no longer directly contests the 
+validity of the Virginia Supreme Court’s determination, but 
+rather argues indirectly that a federal court is free to find parole 
+eligibility under his nebulous theory of “functional! and 
+common sense ineligibility.” 
+
+
+30 
+
+
+As the Fourth Circuit aptly held, 
+
+
+The AEDPA provides explicitly that a federal 
+court “shall entertain an application for a writ of 
+habeas corpus in behalf of a person in custody 
+pursuant to the judgment of a State court only 
+on the ground that he is in custody in violation 
+of the Constitution or laws or treaties of the 
+United States.” 28 U.S.C. § 2254(a) (emphasis 
+added). Because the definition of what consti- 
+tutes a conviction in Virginia’s three-strikes stat- 
+ute and the application of that state law 
+definition to the facts of Ramdass’ case are 
+purely questions of state law, we have no power 
+to revisit these questions on federal habeas 
+review. 
+
+
+(JA 401).!° The Fourth Circuit went on to make clear, 
+however, that, even if it could reinterpret Virginia law, it 
+“would be unpersuaded by Ramdass’ argument that the 
+Virginia Supreme Court adopted an artful, form-over- 
+substance interpretation of the three-strikes statute to 
+thwart his Simmons claim.” (Id.). 
+
+
+The Court of Appeals’ analysis unquestionably was 
+correct. The Virginia Supreme Court interpreted Virginia 
+Code § 53.1-151(B)(1) in a straightforward manner: before 
+an inmate can be disqualified from parole eligibility, he 
+
+
+16 Unquestionably, the gravest error committed by both the 
+magistrate judge and the district court was the unprecedented 
+holding that a federal court was empowered to overrule a state 
+supreme court on a matter of state parole law based on the 
+mistaken view that the Virginia Supreme Court had 
+“contradicted more than one hundred years of Virginia law.” 
+(JA 350-351). 
+
+
+31 
+
+
+must have three convictions for separate offenses of mur- 
+der, rape or armed robbery and the convictions may not 
+be considered unless and until final judgment has been 
+entered. (JA 130-131). The state court ruled that Ramdass 
+would not have been disqualified from parole eligibility 
+by a life sentence for capital murder because that offense 
+only could have counted as the second qualifying convic- 
+tion under the statute. (JA 130). It further held that, under 
+Smith v. Commonwealth, 113 S.E. 707, 709 (Va. 1922), a 
+“conviction” means the entry of final judgment. Thus, the 
+Domino’s Pizza guilty verdict could not count as one of 
+the three required convictions because no final judgment 
+had been entered at the time Ramdass’ capital jury was 
+deciding what sentence to impose. (JA 131). 
+
+
+This ruling was beyond reproach. No Virginia prison 
+or prison official may exert any control over any person 
+until that person has been both convicted of a felony and 
+sentenced to serve at least one year in prison. Va. Code 
+§ 53.1-20 (custody over persons convicted of felony and 
+sentenced to a year or more); § 19.2-310 (persons not 
+transferred to prison until sentenced by court).!7 More- 
+over, as the Fourth Circuit observed, 
+
+
+17 It is only capital murder defendants who ever will want 
+to expedite the finding of parole ineligibility to the earliest 
+possible time. Only such defendants can hope to obtain 
+perverse benefit from the State’s determination that, by virtue 
+of repeated and violent crimes, the defendant is too dangerous 
+ever to be released on parole. The vast majority of a State’s 
+inmates will seek to stave off a finding of parole ineligibility to 
+the last possible moment. The Virginia Supreme Court is 
+charged with interpreting state law which is equally applicable 
+to all inmates, not just capital felons. 
+
+
+32 
+
+
+Sound reasoning supports Smith’s holding that 
+conviction requires an entry of judgment, rather 
+than simply a jury verdict. Cf. Fed.R.Crim.P. 
+32(d)(1) (requiring an entry of judgment signed 
+by the judge). Even though Smith's factual pred- 
+icate is wholly unrelated to parole eligibility, the 
+age-old rationale underlying its definition of 
+conviction is designed to protect defendants. 
+Requiring the entry of judgment - even if it 
+appears to be only a formal step of the process — 
+in contexts in which additional negative conse- 
+quences are to be imposed based on the convic- 
+tion, provides an additional layer of procedural - 
+protection against unfairness or corruption. 
+
+
+* » » 
+
+
+As a type of forfeiture, parole ineligibility fits 
+neatly within the narrow circumstances in 
+which the Smith definition of conviction is 
+appropriate, or even necessary. Upon amassing 
+a given number of convictions for certain 
+crimes, a defendant forfeits his right to be con- 
+sidered for parole under the standard operation 
+of the parole system. This is precisely the kind 
+of serious deprivation that should not occur 
+without the solemn imprimatur of the court's 
+entry of judgment on the decision of the jury. 
+
+
+(JA 402-403).1§ 
+
+
+18 Despite the district court’s finding that Ramdass’ 
+“arbitrary Virginia Supreme Court” claim was defaulted (JA 
+333), the Fourth Circuit rejected it on the merits “only in an 
+effort to dispel Ramdass’ insinuation that the Virginia Supreme 
+Court acted craftily in denying his Simmons claim.” (JA 403; see 
+also Pet. Br. at 27: “The Virginia Supreme Court's . . . avoidance 
+of the rule in Simmons . . . leaves an important federal due 
+
+
+~ ee -_— 
+
+
+— ee I ee 
+
+
+33 
+
+
+Ramdass, however, urges this Court to find as fol- 
+lows: even though state law requires a final sentencing 
+order before the conviction can count towards parole 
+ineligibility and, even though the Domino’s Pizza case 
+had no final sentencing order yet entered, it makes no 
+sense to count the Pizza Hut conviction and not the 
+Domino’s Pizza verdict because they both had the same 
+chance of being set aside by the trial judges under a Rule 
+of Court. (Pet. Br. at 37-38). As if this remarkable illogic 
+were not enough, Ramdass then simply misstates the 
+record by arguing that the Virginia Supreme Court “rec- 
+ognized” this “setting aside” theory, “dismissed” it as a 
+“hypothetical future development” and yet inconsistently 
+accepted it with respect to the Domino’s Pizza verdict. 
+(Id. at 38).9 
+
+
+process right subject to . . . manipulable state-court 
+characterizations of state law”). As the Court of Appeals noted, 
+such an argument also is defeated by the fact that, in a 
+contemporaneous case, the Virginia Supreme Court had vacated 
+the inmate’s death sentence and remanded for resentencing 
+because it found the inmate to have been parole ineligible and 
+thus entitled to a Simmons instruction. (JA 403). See Mickens v. 
+Commonwealth, 457 S.E.2d 9 (Va. 1995). Significantly, Ramdass 
+no longer relies upon Virginia case law that he cited in the 
+Fourth Circuit. That case law, as it turned out, actually proved 
+that over one hundred years ago the Virginia Supreme Court had 
+recognized that the word “convict,” when used in statutes 
+relating to prisons, meant “adjudged guilty of felony by the 
+final judgment of the Court.” See Blair v. Commonwealth, 66 Va. 
+850, 858 (1874) (emphasis added). 
+
+
+19 The district court carried this illogical reasoning even 
+further, finding as Ramdass had argued in that court that there 
+was “no logical reason” why the Virginia Supreme Court would 
+count the capital murder conviction as one of the three 
+necessary strikes while not counting the Domino’s Pizza 
+
+
+34 
+
+
+Whatever Ramdass means by setting up this straw- 
+man, what is clear is that it played no part in the Virginia 
+Supreme Court’s decision. The “setting aside” argument 
+was neither made nor considered in state court. The 
+Virginia Supreme Court's decision was based solely upon 
+the state law determination that § 53.1-151(B)(1) allows 
+consideration of convictions upon which judgment has 
+been entered, but does not allow consideration of convic- 
+tions upon which no judgment has been entered. Whether 
+or not such a judgment may be overturned or set aside 
+afterwards is completely irrelevant to the issue of 
+whether it may be counted in the first place under 
+§ 53.1-151(B)(1). Final sentencing is the sine qua non of 
+Virginia’s parole eligibility statute. Without a final sen- 
+tencing order, the offense cannot disentitle an inmate to 
+parole eligibility. 
+
+
+robbery. (JA 357). Ramdass appears to have dropped this 
+nonsensical argument in favor of Judge Murnaghan’s equally 
+weak reasoning in his dissent. (JA 415). Obviously, the capital 
+murder must be counted as if final judgment had been entered 
+because the essence of a Simmons instruction is to inform the 
+jury with certainty as to what will occur if the jury imposes a life 
+sentence and that becomes the judgment. Just as obvious, 
+however, is the fact that the reason the Pizza Hut convictions 
+counf and the Domino’s Pizza verdict did not was because, as 
+the Virginia Supreme Court held, a judgment had been entered 
+on the former and not the latter. Under the defective reasoning 
+of Judge Murnaghan, the district court and Ramdass, no 
+conviction could count under § 53.1-151(B)(1) as long as it was 
+subject to any form of reversal, e.g., motion for new trial, 
+appellate or habeas review. Of course, such is not the case: the 
+Virginia Supreme Court simply and reasonably held that the 
+point at which a conviction may count towards parole 
+ineligibility is when the final judgment has been entered. 
+
+
+35 
+
+
+Ramdass’ view of Virginia law, while irrelevant to the 
+validity of state law as authoritatively explicated by the 
+Virginia Supreme Court, nevertheless is dead wrong. 
+Ramdass contends repeatedly that the Domino’s Pizza 
+final judgment was “foreseeable, imminent and inexor- 
+able.” He mischaracterizes the entry of that judgment as a 
+“ministerial act,” a mere “formality” or “technicality.” 
+Nothing could be further from the truth. 
+
+
+At the time the Fairfax jury was deciding whether to 
+sentence Ramdass to death on January 30, 1993, Ramdass 
+was awaiting sentencing on the Alexandria Domino’s 
+Pizza case. State law clearly gave the Alexandria judge 
+the unfettered authority to set aside the guilty verdict 
+under Virginia Supreme Court Rule 3A:15(b), a fact Ram- 
+dass concedes. (Pet. Br. at 17 n.5). Indeed, in Virginia, a 
+trial judge is vested with the total - and unreviewable - 
+discretion to set aside a jury’s verdict. A decision to 
+acquit or vacate is not appealable or subject to man- 
+damus: the Commonwealth is without a remedy to chal- 
+lenge such a decision in any way. See Va. Const. Art. VI 
+§ 1 (“no appeal shall be allowed to the Commonwealth in 
+a case involving the life or liberty of a person”); Campbell 
+v. Commonwealth, 431 S.E.2d 648, 655 (Va. 1993) (noting 
+that no appeal by Commonwealth permitted in a criminal 
+case except under very limited conditions: Va. Code 
+§§ 19.2-317, -398 allow appeals in criminal cases involv- 
+ing the state revenue and from pretrial orders holding a 
+statute unconstitutional or suppressing evidence under 
+the Fourth, Fifth or Sixth Amendments).2° 
+
+
+20 On January 1, 1997, the Virginia Constitution was 
+amended to allow the Commonwealth to appeal in criminal 
+
+
+36 
+
+
+Ramdass contends it was “inconceivable that [he] 
+would somehow escape judgment” on the Domino’s 
+Pizza case. However, there was nothing to prevent him 
+from arguing in that case, or the Alexandria judge from 
+concluding, that, in light of the death sentence already 
+imposed, it would have been overkill to convict him of 
+robbery. Or, because Ramdass’ crime spree involved mul- 
+tiple serious offenses occurring in different jurisdictions, 
+the prosecutors in the other jurisdictions simply could 
+have decided not to pursue the other cases in light of the 
+death sentence already obtained in Fairfax. The Alex- 
+andria prosecutor certainly had the discretion to inform 
+the court that the Domino’s Pizza case would not be 
+pursued. 
+
+
+Ramdass’ “ministerial” argument is squarely in con- 
+flict with Virginia criminal procedure.?! A final judgment 
+on the Domino’s Pizza case was no more “inexorable” 
+than a judgment in the as-yet-to-be-tried cases involving 
+the Alexandria Bragg Towers robbery, the Arlington taxi- 
+cab robbery or the Alexandria murder. Under Ramdass’ 
+faulty reasoning, he would have been entitled to a Sim- 
+mons instruction simply because he was planning to plead 
+
+
+cases to the extent permitted by the General Assembly and 
+- Constitution. 1996 Va. Acts cc. 40 and 911. In 1997, the General 
+Assembly expanded the Commonwealth’s right to appeal in 
+criminal cases to include an appeal from a pretrial bail order, Va. 
+Code § 19.2-398(B), and an appeal to the Virginia Supreme Court 
+from an adverse ruling by the Virginia Court of Appeals. Va. 
+Code § 19.2-317. 
+
+
+21 Judge Murnaghan based his dissent, in large part, upon 
+the same misinterpretation of Virginia law. (JA 415). 
+
+
+37 
+
+
+guilty in those other three cases, a result certainly not 
+contemplated by Simmons. 
+
+
+Not surprisingly, Ramdass never has articulated the 
+instruction he believes Simmons entitled him to give the 
+jury. This is because the hypothetical instruction that 
+would have had to have been given in Ramdass’ case in 
+order to convey accurate information to the jury demon- 
+strates how far removed Ramdass’ case is from Simmons. 
+In order to impart accurate information to the jury about 
+Virginia law, an instruction would have had to have 
+stated: 
+
+
+You are instructed that the conviction in this 
+case will count as the second of three convic- 
+tions necessary to make the defendant ineligible 
+for parole under state law and that, therefore, if 
+you choose a life sentence, that sentence will not 
+render the defendant ineligible for parole. 
+
+
+In another court, however, the defendant has 
+been tried by a jury and found guilty of another 
+offense but a judgment of conviction has not yet 
+been entered in that case. Under Virginia law, 
+the court in that case is authorized to set aside 
+that guilty verdict or retry the case before a final 
+judgment is entered. 
+
+
+If the court in that case enters a judgment of 
+conviction upon the jury’s verdict, it would 
+count as a third conviction making the defen- 
+dant ineligible for parole for that conviction. 
+However, if the court in that case decides to set 
+aside or retry, or for any other reason does not 
+enter judgment, the jury’s verdict in that case 
+could not render the defendant ineligible for 
+parole if you elect to fix punishment at life. 
+
+
+38 
+
+
+Nothing in Simmons even remotely requires imparting 
+such speculative, contingent information to a capital sen- 
+tencing jury. As the Fourth Circuit observed, the most 
+Ramdass is left with is a complaint 
+
+
+about the effect of the random timing of his 
+trials. If judgment had been entered on the 
+Domino’s Pizza robbery verdict 19 days earlier, 
+then Ramdass would have been ineligible for 
+parole under the three-strikes statute and 
+accordingly entitled to inform the jury of that 
+fact. However, given that Ramdass committed 
+the Pizza Hut robbery, the Domino’s Pizza rob- 
+bery, the Kayani murder and robbery, and sev- 
+eral other potentially qualifying offenses within 
+several days of each other, the random order in 
+which he was tried for these various offenses 
+was entirely foreseeable, dictated only by the 
+docket of the relevant county court. Ir fact, it is 
+equally possible that Ramdasy could have been 
+tried on the most serious charge — the Kayani 
+murder - first, in which case he would have had 
+only one qualifying conviction at the time of 
+sentencing and, thus, would be an additional 
+conviction short of making a valid Simmons 
+claim. 
+
+
+(JA 401-402).22 The Court of Appeals was correct that 
+Ramdass has no more valid a claim now than he would 
+have had if he had been tried for the capital murder first. 
+He was eligible for parole under state law unless and 
+until a third conviction was entered as a final judgment. 
+
+
+22 Ramdass could have asked the trial court for a 
+continuance or for any other relief he believed appropriate 
+regarding the consequences of the scheduling of his trials, but 
+he made no such motion or objection. 
+
+
+39 
+
+
+Unless a capital murder conviction would constitute the 
+third or subsequent strike, the jury could not be 
+instructed accurately that such a conviction would result 
+
+
+in parole ineligibility.> 
+
+
+E. The Virginia Supreme Court’s Decision Was 
+Not Contrary to Clearly Established Law. 
+
+
+The very fact that the Virginia Supreme Court deter- 
+mined that Ramdass could not have been disqualified 
+from parole eligibility under § 53.1-151(B)(1) by virtue of 
+his capital murder conviction removes this case from the 
+bounds of Simmons. In Simmons, there was no dispute 
+over the inmate’s parole eligibility status. State officials 
+had testified that Simmons was ineligible for parole and 
+the prosecution conceded that fact, although it sought to 
+
+
+23 Ramdass notes that he could not have been released 
+during the three weeks between his capital sentencing and entry 
+of the Domino’s Pizza judgment because under § 53.1-151(A), he 
+would have been required to serve at least twelve years of his 
+sentences from the Pizza Hut robberies before becoming eligible 
+for parole. (Pet. Br. at 25 n.6). From this fact, he reasons that, 
+“from the date of the capital sentencing trial forward,” he was 
+ineligible for parole. (Id.). This faulty syllogism, however, only 
+underscores Ramdass’ mi tion of Simmons. There is no 
+doubt that, on the day of sentencing, no capital murderer will be 
+eligible for release, but that fact is irrelevant under Simmons. 
+The information that a defendant is entitled to tell the jury is not 
+that he will not be released before sentence is imposed, but 
+rather that he will be ineligible for parole on the jury’s sentence 
+of life. Under § 53.1-151(C), the most Ramdass’ jury accurately 
+could have been told with respect to parole eligibility 
+classifications for a life sentence on the capital crime was that 
+Ramdass would have become eligible for parole after serving 
+twenty-five years of a life sentence. 
+
+
+40 
+
+
+demonstrate that Simmons would be eligible for other 
+forms of release. See Simmons, 512 U.S. at 158 (plurality 
+opinion). Simmons was ineligible for parole and thus 
+entitled to relief whereas Ramdass was eligible for parole 
+and thus not entitled to relief. 
+
+
+Ramdass discusses at length what South Carolina 
+supposedly argued in Simmons. According to Ramdass, 
+South Carolina argued that Simmons had not yet been 
+found to be ineligible for parole, this Court rejected that 
+position and then independently found Simmons to be 
+ineligible. (Pet. Br. at 40-41). Ramdass is wrong.** But, 
+even accepting such a spin on Simmons as hypothetically 
+true, that circumstance could have no impact on Ram- 
+dass’ case because the Virginia Supreme Court has found 
+as a matter of state law that Ramdass was not ineligible 
+for parole. 
+
+
+The most fundamental difference between Simmons 
+and Ramdass’ case, however, is implicitly acknowledged 
+in Ramdass’ off-repeated refrain that his Domino’s Pizza 
+conviction was “foreseeable, imminent, and inexorable.” 
+
+
+24 Neither the transcript of oral argument in Simmons nor 
+the brief of the State of South Carolina supports the contention 
+that South Carolina argued that Simmons was “technically” 
+eligible for parole. What South Carolina argued was that “this 
+defendant, or any defendant sentenced to a life without parole 
+sentence” nevertheless could be eligible for other forms of 
+release. Simmons, Tr. of Oral Arg., 1994 U.S. TRANS LEXIS 133 at 
+42 (Jan. 18, 1994). In its brief, the State pointed out that only the 
+Parole Board could determine eligibility, see Simmons, Resp. Br. 
+at 95, but it did not argue, as Ramdass has alleged, that 
+Simmons was not ineligible “until the parole board said so.” 
+(Pet. Br. at 40). To the contrary, as this Court is well aware, South 
+Carolina conceded that Simmons was ineligible for parole. 
+
+
+41 
+
+
+As he must, even Ramdass recognizes in this refrain that, _ 
+while Simmons had been sentenced for a prior offense 
+qualifying under South Carolina’s statute and thus 
+would have been rendered ineligible for parole by the 
+capital murder conviction, Ramdass had not been sen- 
+tenced for the Domino's Pizza crime and his capital sen- 
+tence thus would have counted only as the second of 
+three convictions required by state law. (Pet. Br. at 21, 36). 
+
+
+Ramdass’ claim and the rule in Simmons are hope- 
+lessly at odds: there simply is no support in Simmons for 
+the proposition that a state court’s determination of 
+parole eligibility may be overturned in federal court by a 
+“functional” or “practical” definition of eligibility. The 
+question before this Court, however, is not whether it is 
+possible to glean such an interpretation of the law from 
+Simmons, but rather whether, at the time of the Virginia 
+Supreme Court’s decision, such an interpretation was 
+“clearly established Federal law, as determined by [this] 
+Court.” See § 2254(d)(1). Given the plain language in 
+Simmons repeatedly stressing that parole ineligibility is a 
+matter of state law, conditioning its new rule upon a state 
+law determination, and the complete absence in Simmons 
+of any warrant for the nebulous standard Ramdass pro- 
+poses, it simply cannot be said that a “functional” inter- 
+pretation of parole ineligibility was “clearly established.” 
+
+
+Further, in the related “new rule” context, this Court 
+has held that an important measure of whether the state 
+court “acted objectively unreasonably” is whether the 
+
+
+25 The South Carolina statute rendered inmates ineligible 
+for parole upon sentencing for a second qualifying offense. See 
+Simmons, 512 U.S. at 158 n.2 (plurality opinion). 
+
+
+42 
+
+
+prisoner’s claim was “susceptible to debate among rea- 
+sonable minds.” O'Dell, 521 U.S. at 160, quoting Butler v. 
+McKellar, 494 U.S. 407, 415 (1990). If an issue is “suscept- 
+ible to debate,” then a fortiori, it could not have been 
+“compelled” by precedent. Butler, 494 U.S. at 414. 
+
+
+Ramdass’ claim undeniably is “susceptible to debate” 
+even today. The rule ne seeks would extend Simmons to 
+any case in which a capital defendant may become inelig- 
+ible for parole depending on the occurrence of events 
+outside the parameters of the case being tried. And, 
+although he denies that he is asking to inform the jury 
+about his “prospects for parole” (Pet. Br. at 38 n.8), there 
+is no principled way to so limit the rule he seeks. If due 
+process entitles him to tell the jury that it is highly 
+unlikely he will be paroled because he probably will be 
+made ineligible by hypothetical future convictions, then 
+he also should be able to tell the jury that it is highly 
+unlikely he will be paroled because he will not become 
+eligible for many years, possibly not until after his 
+expected lifespan, or because he is such a dangerous 
+individual that there is no “practical possibility” that any 
+parole authority would release him. While this Court 
+conceivably could extend the concept of “due process” in 
+this manner in a direct appeal case like Simmons, it cannot 
+do so in a collateral case. 
+
+
+That such a rule is “susceptible to debate” and, thus, 
+an impermissible new rule cannot be denied. In Brown v. 
+Texas, 522 U.S. 940, 118 S.Ct. 354 (1997), Justice Stevens 
+was joined by three other Justices in questioning whether 
+the rule in Simmons should extend to defendants who are 
+eligible for parole. 118 S.Ct. at 355-356. If that question is 
+“susceptible to debate” in this Court years after Simmons 
+
+
+43 
+
+
+was decided, then Ramdass’ claim asking for Simmons to 
+apply to him despite the Virginia Supreme Court's deter- 
+mination of parole eligibility certainly is “susceptible to 
+debate” and, thus, new. See Moore v. Reynolds, 153 F.3d 
+1086, 1115 (10th Cir. 1998) (declining to decide in pris- 
+oner’s favor whether Simmons applies to parole eligible 
+defendants because issue is “arguable” after Brown v. 
+Texas, and, therefore, “new”). 
+
+
+Section 2254(d)(1) and the “new rule” doctrine com- 
+bine to mandate that a state court’s judgment will not be 
+reversed in a federal collateral proceeding unless the 
+prisoner’s claim was “clearly established” and “com- 
+pelled” by this Court’s precedent at the time of the state 
+court’s decision. The Fourth Circuit properly applied 
+these clear mandates. The Virginia Supreme Court's deci- 
+sion that Simmons did not require a no-parole instruction 
+in Ramdass’ case was not contrary to or an unreasonable 
+application of this Court’s clearly established precedent; a 
+fortiori, neither was the rule Ramdass seeks compelled or 
+dictated by such precedent. 
+
+
+S 
+
+
+44 
+
+
+CONCLUSION 
+
+
+The judgment of the Court of Appeals should be 
+affirmed. 
+
+
+Respectfully submitted: 
+
+
+RONALD J. ANGELONE, D1RECTOR, 
+Respondent herein 
+
+
+Mark L. Ear.ey 
+Attorney General of Virginia 
+
+
+KATHERINE P. BALDWIN 
+Assistant Attorney General 
+Counsel of Record 
+
+
+Office of the Attorney General 
+900 East Main Street 
+Richmond, Virginia 23219 
+(804) 786-4624 
+
+
+la 
+
+
+1/30/93 
+
+
+APPENDIX A 
+OFFENSE DESCRIPTION DATE OF | TRIAL JUDGMENT 
+OFFENSE 
+purse-snatching, juvenile offenses punished as 
+drug dealing, juvenile 
+stealing moped, 
+breaking & entering, asin selon 
+escape 
+robbery Fairfax - no juvenile - 1988 - 7 years 
+deadly weapon tried as aciacaieas 
+adult 
+murder Alexandria -not | 7/15/92 guilty plea 10/7/93 -life 
+capital after capital | sentence run 
+judgment concurrent 
+with other 
+sentences 
+robberies Fairfax Pizza Hut | 8/25/92 jury trial 1/22/93 - 76 
+—- w/deadly before capital | years 
+weapon trial 
+robbery Alexandria Bragg | 8/29/92 guilty plea 2/18/93 - 14 
+Towers - after capital | years 
+w/deadly judgment 
+weapon 
+attempted murder Arlington taxicab | 8/30/92 guilty plea 11/3/93 -2 
+and robbery driver - after capital | life sentences 
+w/deadly judgment run concurrent 
+weapon with other 
+: sentences 
+robberies Alexandria 8/30/92 jury trial 2/18/93 - 18 
+Domino’s Pizza - 1/7/93 years 
+w/deadly 
+weapon 
+capital murder and Fairfax 7-Eleven | 9/2/92 jury 4/2/93 - death 
+robbery sentencing- | penalty 
+
+

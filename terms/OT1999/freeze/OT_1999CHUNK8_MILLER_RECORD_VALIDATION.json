@@ -1,0 +1,57 @@
+{
+  "record": "terms/OT1999/records/miller-v-french-united-states-v-french_merits_2000-06-19.md",
+  "eleven_blocks": "pass",
+  "opening_labels": "pass",
+  "holdings_identity": "pass",
+  "controlling_explanation_words": [
+    194,
+    189,
+    200
+  ],
+  "relative_links_checked": 11,
+  "public_boundary": "pass",
+  "judgment_arithmetic": "7 supporting + 2 opposing = 9; disjoint full roster",
+  "statutory_rationale_votes": 6,
+  "controlling_rationale_votes": 7,
+  "full_frozen_commitment_and_reconciliation_identity": "pass",
+  "eight_associate_rows": "pass",
+  "historical_departure_lines_copied_exactly": 1,
+  "assignment_counts_from_fresh_receipt": {
+    "Stone-Zsela": 9,
+    "Stevens": 9,
+    "O'Connor": 10,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 9,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 9
+  },
+  "last_counted_event": {
+    "date": "2000-06-19",
+    "case": "Hawkins v. Freeman",
+    "record": "hawkins-v-freeman_merits_2000-06-19.md",
+    "authors": [
+      "Kennedy"
+    ]
+  },
+  "eligible_authors": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "pool": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "chosen_author": "Souter",
+  "core_qualification_checks": "pass",
+  "git_checks": "not performed; prohibited"
+}

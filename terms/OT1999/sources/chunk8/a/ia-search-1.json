@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":16,"params":{"query":"collection:us-supreme-court AND title:Pegram","qin":"collection:us-supreme-court AND title:Pegram","fields":"identifier,title","wt":"json","rows":100,"start":0}},"response":{"numFound":1,"start":0,"docs":[{"identifier":"micro_IA40385014_0281","title":"Pegram v. Herdrich, 530 U.S. 211 (2000) (No. 98-1949)"}]}}

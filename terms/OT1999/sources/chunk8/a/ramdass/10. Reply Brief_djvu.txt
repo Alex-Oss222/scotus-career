@@ -1,0 +1,554 @@
+a 
+
+
+3 0) Supreme Court, U.S. 
+
+
+FILED 
+
+
+APR 10 2000 
+No. 99-7000 
+
+
+| CLERK 
+In The 
+
+
+Supreme Court of the United States 
+
+
+¢ 
+BOBBY LEE RAMDASS, 
+
+
+Petitioner, 
+
+
+Vv. 
+
+
+RONALD J. ANGELONE, Director, 
+Virginia Department of Corrections, 
+
+
+Respondent. 
+
+
+° 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Fourth Circuit 
++ 
+
+
+REPLY BRIEF FOR PETITIONER 
+¢ 
+
+
+Of Counsel: F. Nasu Brusovy 
+Counsel of Record 
+Davin I. Bruck 
+
+
+P.O. Box 11744 JoHN M. Ryan 
+Columbia, SC 29211 VANDEVENTER Back, LLP 
+
+
+500 World Trade Center 
+(803) 765-1044 Norfolk, VA 23510 
+(757) 446-8600 
+
+
+Micue.e J. BRACE 
+VIRGINIA CAPITAL 
+
+REPRESENTATION ResouRCE CENTER 
+1001 East Main Street 
+Richmond, VA 23219 
+(804) 643-6845 
+
+
+Counsel for Petitioner 
+
+
+Reng se 
+
+
+ae 
+ee 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+TABLE OF AUTEOIE EO occ ccccccccccvccccceses ii 
+
+REPRE TOE Ge stances ccenscccsvcsesceesce 1 
+1. Under State Law, Ramdass Had No Possibility 
+
+of Being Released on Parole ................. 2 
+
+
+2. Simmons Established That Ephemeral “Parole- 
+Eligible” Status on the Day of Sentencing Does 
+Not Extinguish a Defendant's Right To Rebut a 
+Claim of Future Dangerousness by Informing 
+the Jury of the Actual Unavailability of 
+PUNE bbe dncenedetesecssbeccccdosseseeeneses 6 
+
+
+CIES % bv crersdveresecedsctoncsnvecunesas 10 
+
+
+ii 
+TABLE OF AUTHORITIES 
+
+
+Cases 
+California v. Ramos, 463 U.S. 992 (1993).......+-.++++5 4 
+
+
+Simmons v. South Carolina, 512 U.S. 154 (1994)... passim 
+
+
+State v. McKay, 386 S.E.2d 623 (S.C. 1989).......... 6, 7 
+State v. Simmons, 427 S.E.2d 175 (S.C. 1993) ........ 7,8 
+State v. Torrence, 406 S.E.2d 315 (S.C. 1991)........... 7 
+Teague v. Lane, 489 U.S. 288 (1989) .......-.--eeeeeee 10 
+
+
+STATUTES AND RULES 
+
+
+28 U.S.C. § Z2SAANM1). ... cc cccccccccccccsvccseseveess 9 
+South Carolina Code § 16-3-20 (Supp. 1999).......... 5 
+Virginia Code § 19.2-265.3 (1995).........-.eeeeeeeeee 3 
+Virginia Supreme Court Rule 3A:15............+++++ 3 
+MISCELLANEOUS 
+
+
+Joint Appendix in Simmons v. South Carolina, No. 
+
+
+92-9059, 1993 WL 669003 ........... eee e cece ee eeeee 8 
+
+
+Respondent's Brief in Simmons v. South Carolina, 
+No. 92-9059, 1993 WL 669003 (filed Dec. 14, 
+
+
+GODS). o ccccccccccsccveccevesssenceusnseusueueeeeaen 7 
+
+
+ARGUMENT IN REPLY 
+
+
+In contending that Ramdass seeks an extension of the 
+rule in Simmons v. South Carolina, 512 U.S. 154 (1994), the 
+respondent recasts Ramdass’s submission as a claim that 
+federal courts should second-guess state courts in deter- 
+mining whether state prisoners are ineligible for parole. 
+This argument misconceives both Ramdass’s claim and 
+the rule in Simmons. 
+
+
+Ramdass seeks no review of Virginia’s determination _ 
+of his parole status at the moment of his capital sentenc- 
+ing trial. Rather, he merely invokes the federal rule, 
+established in Simmons, that remote, “hypothetical future 
+developments” that could conceivably lead to a pris- 
+oner’s release are not sufficient to deny the jury accurate 
+information on the impossibility, under state law, of the 
+prisoner being paroled in the future. The Virginia 
+Supreme Court's error was not in its interpretation of the 
+state’s “three strikes” statute, or in its determination that 
+Ramdass was classifiable as parole-eligible and would 
+remain so for 19 days after his capital sentencing trial. Its 
+error was that it failed (a) to determine whether Ram- 
+dass’s 19-day window of parole eligibility created any 
+actual possibility that he would ever be paroled, and (b) 
+to recognize that, if there was no such possibility, Ram- 
+dass was entitled under the clearly established rule of 
+Simmons to inform the jury of “the true meaning of its 
+noncapital sentencing alternative, namely, that life 
+imprisonment meant life without parole.” Simmons, 512 
+U.S. at 162 (plurality opinion). 
+
+
+The constitutional violation in Simmons was that, 
+despite the prosecution’s claim that Jonathan Simmons 
+
+
+would be dangerous in the future unless he was executed, 
+“the trial court precluded the jury from learning that [he] 
+would never be released from prison.” Id. at 176 (O’Con- 
+nor, J., concurring). The trial judge in Ramdass’s case, 
+applying pre-Simmons Virginia law, did exactly the same 
+thing. The respondent makes only a feeble attempt to 
+deny that Ramdass “would never be released from 
+prison” under state law. Instead, the respondent relies 
+almost entirely on his claim that Simmons affords no 
+protection - even to a defendant who can never be 
+released from prison — unless the state has already affixed 
+upon him the technical label of “parole ineligible” at the 
+moment of his capital sentencing trial. This argument 
+trivializes the rule of Simmons, and it should be rejected. 
+
+
+1. Under State Law, Ramdass Had No Possibility of 
+Being Released on Parole 
+
+
+The respondent devotes only two pages of his brief to 
+the issue that lies at the heart of this case: whether, under 
+Virginia law, there remained any possibility that Ramdass 
+could ever be released on parole. (Resp. Br. at 35-36). That 
+was the question that the jury asked, and that Simmons 
+required to be answered. Ramdass has already shown 
+why the correct answer to the question was, “No.” The 
+respondent’s arguments to the contrary only serve to bear 
+this out. 
+
+
+First, the respondent suggests that the judge in the 
+Domino’s Pizza case in Alexandria might have concluded 
+that, “in light of the death sentence already imposed, it 
+
+
+eS 
+
+
+would have been overkill to convict him of the robbery.”! 
+(Resp. Br. at 36). Given the significance of this “third 
+strike” in extinguishing any possibility of parole, the 
+respondent's suggestion that the Alexandria court might 
+have casually decided to toss out the jury’s guilty verdict 
+on the Domino's Pizza robbery as “overkill” is not plaus- 
+ible. Equally strained is the respondent's speculation that 
+the prosecutor might have simply dismissed the Dom- 
+ino’s Pizza robbery case, after a jury had rendered a 
+verdict of guilty, and after the trial judge had denied 
+Ramdass’s post-trial motions. Although the respondent 
+describes such inexplicable derelictions of duty as within 
+the discretion of the Alexandria court and prosecutor, 
+they had no such discretion under Virginia law.? Even if 
+they did, the likelihood that any prosecutor or judge 
+would behave in this way is obviously negligible, and did 
+not create, at the time of Ramdass’s capital sentericing, 
+any genuine possibility that Ramdass would ever be con- 
+sidered for parole. The respondent's inability to propose 
+
+
+1 In making this argument, the respondent has apparently 
+forgotten that the issue is whether the Alexandria court would 
+have reduced the third strike to judgment, thereby sealing 
+Ramdass'’s lifelong parole ineligibility, had the capital murder 
+jury sentenced him to life imprisonment, rather than to death. 
+
+
+2 Prosecutors have no authority to nolle prosse a charge 
+unilaterally, and a trial court has discretion to nolle prosse a 
+charge only on the Commonwealth’s showing of good cause. Va. 
+Code Ann. § 19.2-265.3 (Michie 1995) (unchanged since 1979) 
+(“Nolle prosequi shall be entered only in the discretion of the 
+court, upon motion of the Commonwealth with good cause 
+therefore shown”). Except on motion of the Commonwealth 
+under § 19.2-265.3, or on motion of the accused under Virginia 
+Supreme Court Rule 3A:15(b), trial courts have no authority to 
+decline to enter judgment following a jury’s verdict. 
+
+
+any less fanciful route by which Ramdass might have 
+averted parole ineligibility is proof that, at the time of his 
+capital sentencing, no such escape hatch existed. 
+
+
+Despite its failure to identify any real possibility of 
+parole, the respondent warns that a truthful parole 
+instruction would necessarily have been laden with elab- 
+orate qualifications. (Resp. Br. at 37). This concern is 
+unfounded.? Although the prosecution is entitled to 
+inform the jury of even remote possibilities of eventual 
+release, California v. Ramos, 463 U.S. 992, 1002-04 (1993), in 
+this case the trial judge could have accurately answered 
+the jury’s question about whether parole was possible for 
+Bobby Lee Ramdass with a simple “No.” As in Simmons, 
+such an answer would not have included all the remote 
+“hypothetical future developments” that might conceiva- 
+bly lead to a defendant's eventual release. But it would 
+certainly have been far less misleading than the trial 
+court’s refusal to answer the jury’s parole question at all, 
+especially after the prosecution had repeatedly informed 
+the jury that Ramdass was on parole at the time of the 
+capital murder.* Simmons, 512 U.S. at 166 (plurality 
+
+
+3 The respondent's proposed instruction (Resp. Br. at 37) is 
+a red herring. It erroneously presumes that a jury, rather than a 
+court, would determine whether state law allows any possibility 
+of the defendant being considered for parole in the future. 
+Juries, of course, are finders of fact, not of law. 
+
+
+* Given that the jury was struggling with whether Ramdass 
+posed a future danger, and if so, whether that danger justified 
+his execution, it must have been especially bewildered by the 
+court’s instruction, given in response to the jury’s question 
+about parole, that “[YJou are not to concern yourselves with 
+what may happen afterwards.” (JA 91). 
+
+
+——s <> 
+
+
+opinion) (“Certainly, such an instruction is more accurate 
+than no instruction at all, which leaves the jury to specu- 
+late whether ‘life imprisonment’ means life without 
+parole or something else”). 
+
+
+Although the respondent warns of grave conse- 
+quences from instructing juries on the practical realities 
+of a defendant's situation, as Simmons requires, the real 
+danger is posed by the respondent's effort to restrict 
+Simmons to the defendant’s technical parole status at the 
+moment of sentencing. For if what happened in this case 
+comports with Simmons, any state wishing to deny both 
+parole consideration and accurate jury instructions to 
+capital murder defendants need only declare that an 
+inmate’s ineligibility for parole begins when he is for- 
+mally classified as “ineligible” by executive officials on 
+admission to prison, and thus avoid the Simmons rule 
+without actually extending parole consideration to even a 
+single convicted capital murderer. In fact, the now-super- 
+seded South Carolina procedure involved in Simmons 
+itself could provide the model for such a post-Ramdass re- 
+jiggering of state sentencing procedures, because if Vir- 
+ginia is right about what Simmons requires, this Court 
+would have to have denied rather than granted relief in 
+Simmons. 
+
+
+5 South Carolina’s post-Simmons revision to its capital 
+sentencing statute, S.C. Code Ann. § 16-3-20 (Law Co-op. Supp. 
+1999), provides another potential model for states that want to 
+avoid the rule in Simmons without allowing for the possibility of 
+parole, as Ramdass detailed in his Petition for a Writ of 
+Certiorari at 20-21. 
+
+
+2. Simmons Established That Ephemeral “Parole-Eligi- 
+ble” Status on the Day of Sentencing Does Not 
+Extinguish a Defendant’s Right To Rebut a Claim of 
+Future Dangerousness by Informing the Jury of the 
+Actual Unavailability of Parole 
+
+
+Because he cannot identify any real possibility that 
+Ramdass could ever have been released on parole, the 
+respondent is left to argue that the reality of Ramdass’s 
+situation does not matter. Rather, the respondent urges 
+that the federal constitutional right identified in Simmons 
+begins and ends with what amounts to a freeze-frame 
+determination of how a single state statute characterizes a 
+defendant’s parole status at the moment of his capital 
+sentencing trial. The respondent does this simply by 
+stressing, out of context, the Court’s unremarkable use of 
+the term “parole ineligibility” in Simmons, and on that 
+basis alone insists that Simmons protects only that subset 
+of non-parolable capital defendants who have already 
+been labeled as such on the day the instruction is given. 
+
+
+If the respondent were correct, Simmons itself would 
+have to have been decided differently. As Ramdass 
+already has pointed out (Pet. Br. at 40-43), at the time of 
+Jonathan Simmons’s capital sentencing trial, his parole 
+status remained to be determined in the future by the 
+South Carolina Board of Probation, Parole and Pardon 
+Services, and under South Carolina law, the trial court 
+had no authority to make any binding determination of 
+whether Simmons qualified for a statutory exception to 
+the recidivist no-parole provision. State v. McKay, 386 
+
+
+__S.E.2d 623, 623-24 (S.C. 1989). Indeed, in announcing the 
+
+
+rule that Simmons would later partially invalidate, the 
+South Carolina Supreme Court noted that its own prior 
+
+
+a 
+
+
+decisions permitting courts to instruct juries about 
+restrictions on parole “present practical problems in their 
+application,” and explained: 
+
+
+[t]he trial court is, in effect, required to rule 
+upon a particular defendant's eligibility for 
+parole before sentence has even been imposed. 
+This determination may involve novel issues of 
+law, or statutory provisions which have not 
+been interpreted. Moreover, there is no way to 
+be assured that the Parole Board would reach 
+the same conclusion as the court. 
+
+
+State v. Torrence, 406 S.E.2d 315, 323 (S.C. 1991) (Chandler, 
+J., concurring, for a majority of the court). The state 
+brought McKay and Torrence to this Court’s attention, 
+Respondent's Brief in Simmons v. South Carolina, No. 
+92-9059, 1993 WL 669003, at 95-96, and the South Carolina 
+Supreme Court's decision in Simmons was itself replete 
+with references to Torrence. See State v. Simmons, 427 
+S.E.2d 175 (S.C. 1993). Nevertheless, the Court found no 
+reason to doubt that “the operation of South Carolina’s 
+sentencing law” ensured that Simmons would “never be 
+released from prison,” Simmons, 512 U.S. at 177-78 
+(O’Connor, J., concurring), and held that the trial court’s 
+concealment of this fact from the sentencing jury was 
+fundamentally unfair.® 
+
+
+6 Although a plurality of the Court stated that South 
+Carolina “admits that an instruction informing the jury that 
+petitioner is ineligible for parole is legally accurate,” Simmons, 
+512 U.S. at 166, neither South Carolina’s brief nor the transcript 
+of oral argument in this Court contains any such admission 
+respecting Jonathan Simmons’s parole status at the time of his 
+sentencing trial. The plurality may have been referring to 
+
+
+That is not to say that parole or other release would 
+have been an absolute impossibility. Indeed, South Caro- 
+lina pointed to several possible post-trial developments - 
+including “legislative reform, commutation, clemency, 
+and escape” — that might have resulted in Simmons’s 
+release.” Id. at 166 (plurality opinion). However, the Sim- 
+mons plurality dismissed these “hypothetical future 
+developments” as insufficient to justify South Carolina’s 
+blanket refusal to inform capital sentencing juries of the 
+unavailability of parole. Id. The extremely remote possi- 
+bility that Ramdass’s third strike might not be reduced to 
+judgment shortly after his sentencing trial is in the same 
+category of “hypothetical future developments,” and it 
+does not remove this case from the clearly established 
+ambit of the Simmons rule. 
+
+
+Simmons safeguards the right to rebut the prosecu- 
+tion’s claim of future dangerousness.® The rule of Simmons 
+
+
+testimony in the Simmons record by an attorney for the state 
+Department of Corrections who described the operation of 
+South Carolina’s recidivist statute. However, even this 
+testimony included the caveat that a repeat violent offender 
+would be classified as ineligible for parole only if his offenses 
+did not involve “the same series of events.” Joint Appendix in 
+Simmons v. South Carolina, No. 92-9059, at 11-12; 1993 WL 669003 
+at “lla-*12a. As the Court clearly understood, South Carolina 
+law consigns this question to a post-trial determination by the 
+executive branch. 
+
+
+7 Legislative reform might include, for example, a 
+modification of the state’s parole law that resulted in the 
+defendant being reclassified from ineligible to eligible for 
+parole. 
+
+
+8 If the prosecution argues only that the defendant is 
+dangerous on the single day of the capital sentencing trial, 
+
+
+could not accomplish this purpose if it depended on a 
+freeze-frame assessment of the defendant’s eligibility for 
+parole on the single day of his sentencing trial. Just as the 
+prosecution’s dangerousness claim necessarily looks to 
+the future, so too must the defendant’s right of reply. 
+What the jurors wanted to know, and what Simmons 
+entitled Ramdass to tell them, was whether there was a 
+possibility he could be released on parole in the months 
+and years after his trial, at any point before the end of his 
+natural life. The Virginia Supreme Court failed to address 
+this question, and thus also failed to consider, under 
+Simmons’s clearly established rule, the federal constitu- 
+tional implications of the only answer that Virginia law 
+and the facts of Ramdass’s case permit. The district court 
+remedied this error, as 28 U.S.C. § 2254(d)(1) required it 
+to do, and its judgment granting the writ should be 
+reinstated.? 
+
+
+rather than that the defendant will be dangerous in the future, 
+the right of rebuttal under Simmons does not arise. “[I]f the 
+prosecution does not argue future dangerousness, the State may 
+appropriately decide that parole is not a proper issue for the 
+jury’s consideration even if the only alternative sentence to 
+death is life imprisonment without possibility of parole.” 
+Simmons, 512 U.S. at 176-77 (O’Connor, J., concurring) 
+(emphasis added). 
+
+
+9 For the same reason that the writ was properly granted by 
+the district court under 28 U.S.C. § 2254(d)(1), relief is not 
+barred by the new rule doctrine of Teague v. Lane, 489 U.S. 288 
+(1989). 
+
+
+10 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, and those stated in peti- 
+tioner’s opening brief, the judgment of the court of 
+appeals should be reversed. 
+
+
+Of Counsel: 
+
+
+Davip I. Bruck 
+P.O. Box 11744 
+Columbia, SC 29211 
+(803) 765-1044 
+
+
+Respectfully submitted, 
+
+
+F. Nasu Biuisoty 
+
+Counsel of Record 
+
+JouHN M. Ryan 
+VANDEVENTER Biack, LLP 
+500 World Trade Center 
+Norfolk, VA 23510 
+
+(757) 446-8600 
+
+
+MicHete J. BRACE 
+VirGINIA CAPITAL 
+
+REPRESENTATION RESOURCE CENTER 
+1001 East Main Street 
+Richmond, VA 23219 
+(804) 643-6845 
+
+
+Counsel for Petitioner 
+
+

@@ -1,0 +1,1802 @@
+— ö Supreme Court, U.S. 
+Ha 7 * FILED 
+No. 99-5525 
+
+
+CHARLES THOMAS DIC rsonCLERK 
+| Petitioner, 
+| v. 
+UNITED STATES OF AMERICA 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Fourth Circuit 
+
+
+BRIEF OF AMICI CURIAE 
+CENTER FOR THE COMMUNITY INTEREST; 
+KLAASKIDS FOUNDATION; NATIONAL 
+ORGANIZATION OF PARENTS OF MURDERED 
+CHILDREN, INC.; PARENTS OF MURDERED 
+CHILDREN OF NEW YORK STATE, INC.; JUSTICE 
+FOR ALL (TEXAS); JUSTICE FOR ALL (NEW 
+YORK); AND ANTI-VIOLENCE PARTNERSHIP IN 
+SUPPORT OF THE JUDGMENT BELOW 
+
+
+KRISTIN LINSLEY MYLES DANIEL P. COLLINS 
+
+KELLY M. KLAUS Counsel of Record 
+
+AVITAL ZER-ILAN MUNGER, TOLLES & OLSON LLP 
+MUNGER, TOLLES &OLSONLLP 355 South Grand Avenue 
+
+33 New Montgomery Street Los Angeles, CA 90071 
+
+San Francisco, CA 94105 (213) 683-9100 
+
+n Counsel for Amici Curiae 
+DAVID CASTRO CENTER FOR THE COMMUNITY 
+General Counsel INTEREST; KLAASKIDS 
+
+Center for the Community 
+
+
+Interest 
+114 East 32 Street, Suite 604 
+New York, NY 10016 
+(212) 689-6080 
+
+
+FOUNDATION; NATIONAL 
+ORGANIZATION OF PARENTS 
+OF MURDERED CHILDREN, 
+INC.; PARENTS OF MURDERED 
+CHILDREN OF NEW YORK 
+STATE, INC.; JUSTICE FOR ALL 
+(TEXAS); JUSTICE FOR ALL 
+(NEW YORK); AND ANTI- 
+VIOLENCE PARTNERSHIP 
+
+
+b 
+
+
+i 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+INTEREST OF AMICI CURIAE .................4.. 1 
+SUMMARY OF ARGUMENT ..................... 2 
+?yoZ! -% 6 
+
+
+A. The Narrow Question Raised by This 
+Case Is Whether Congress Has the 
+Authority to Displace the Exclusionary 
+Rule That This Court Has Applied to 
+Admissions Obtained in Violation of the 
+Nonconstitutional Prophylactic Rules 
+
+
+Set Forth in Miranda v. Arizona ......... 6 
+B. Congress Has the Authority to Preclude 
+
+the Courts from Applying an 
+
+Exclusionary Rule in the Absence of a 
+
+Constitutional Violation ................ 9 
+
+
+C. Any Perceived Constitutional Dimension 
+to Miranda’s Overbroad Exclusionary 
+Rule Should Be Rejected in Light of the 
+Doubtful Validity of the Rule and Its 
+Substantial and Unjustifiable Social 
+
+
+SE Cie coben an eewudbveeseseescecs 11 
+1. The Constitutionally Problematic 
+Nature of the Broad Exclusionary 
+Rule Established in Miranda 
+Sharply Undermines Any 
+
+
+Perceived Claim to Stare Decisis .. 11 
+
+
+2. The Unjustified Societal Costs 
+That Result From Miranda's 
+Exclusionary Rule Provide a 
+Strong Additional Reason 
+for Declining to Invoke Stare 
+Decisis to Preserve any 
+Perceived Constitutional 
+Dimension to That Rule ......... 17 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+(Continued) 
+
+
+3. The Other Stare Decisis Factors 
+Weigh Heavily Against 
+Miranda's Exclusionary Rule 
+
+
+CONCLUSION 
+
+
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+
+Anders v. California, 
+
+EE ere 15 
+Arizona v. Roberson, 
+
+TE ...... 8, 24 
+Bank of Nova Scotia v. United States, 
+
+Z Se 5, 14, 16 
+Bram v. United States, 
+
+r . ... .. eee ee 6 
+Brown v. Mississippi, 
+
+SES ... eee 6. 7 
+City of Boerne v. Hores, 
+
+r . a 12 
+Coleman v. Thompson, 
+
+ET e 4. 13 
+Davis v. United States, 
+
+re eee 8. 20 
+Edwards v. Arizona, 
+
+CE —— 8, 24, 25 
+Harris v. New York, 
+
+3 — passim 
+Haynes v. Washington, 
+
+x 6 
+
+
+Marbury v. Madison, 
+6 U.S. (1 Crane 187 (480 12 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+
+McCleskey v. Zant, 
+
+r... a 27 
+McNeil v. Wisconsin, 
+
+Fr 8 
+Michigan v. Mosley, 
+
+ISIS .. PRL Mt SS 8 
+Michigan v. Tucker, 
+
+1 passim 
+Miller v. Fenton, 
+
+I ! a 7 
+Miranda v. Arizona, 
+
+K 8 ce ee passim 
+Molloy v. Hogan, 
+
+r gS OCR Pe ls oP es 6 
+Mu Min v. Virginia, 
+
+, . .. 4. 15 
+Murray v. United States, 
+
+1K 14 
+New York v. Quarles, 
+
+r passim 
+Oregon v. Elstad, 
+
+. EN Sm Ae passim 
+Pacific Mutual v. Haslip, 
+
+. ME Re ee oa 17 
+
+
+v 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+
+Payne v. Tennessee, 
+
+es 5, 17, 28 
+People v. Braeseke, 
+
+25 Cal. 3d 691, 602 P.2d 384 (1979), 
+
+vacated, 446 U.S. 932, ) reinstated, 
+
+28 Cal. 3d 86, 618 P.2d 149 (1980), 
+
+cert. denied, 451 U.S. 1021 (1981) . . 26 
+Planned Parenthood of Southeastern Penn. v. 
+Casey, 505 U.S. 833 (1990 17, 28, 29 
+Smith v. Robbins, 
+
+CS 4, 15, 16 
+State v. Hoeplinger, 
+
+206 Conn. 278, 537 A.2d 1010 (1988) ..................... 25 
+State v. Hoeplinger, 
+
+27 Conn. App. 643, 609 A.2d 1015 (1992) ............... 26 
+State v. Oldham, 
+
+VR A Lf CQ ae 26 
+State v. Rodriguez, 
+
+0) D0 FE 25 
+State v. Rodriguez, 
+
+192 Ariz. 58, 961 P.2d 1006 (19989) 25 
+Stewart Org. v. Ricoh Corp., 
+
+Kh ————— 10 
+United States v. Carignan, 
+
+TTA Tn 6 
+
+
+United States v. Title Insurance & Trust Co., 
+265 U.S. 472 (1929 ——————.'——.—'. 28 
+
+
+vi 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+
+Vance v. Terrazas, 
+
+| STEELE 8. Sera AOE 3,9 
+Withrow v. Williams, 
+
+e TY mo. SES Ne 7 
+Wolman v. Walter, 
+
+re 17 
+
+Statutes and Rules 
+. , passim 
+Re 1 
+Law Review Articles 
+
+P. Cassell, All Benefits, No Costs: 
+The Grand Illusion of Miranda’s Defenders, 
+90 Nw. U. L. REV. 1084 (1990)))))))) 18, 19 
+P. Cassell, Miranda’s “Negligible” Effect 
+on Law Enforcement: Some Skeptical Observations, 
+20 HARV. J. L. & PUB. POLICY 327 (1997) 19 
+P. Cassell, Miranda’s Social Costs: 
+An Empirical Reassessment, 
+90 Nw. U. L. REV. 387 (1996) .................. 18, 19, 20, 21, 22 
+P. Cassell & R. Fowles, Falling Clearance Rates 
+After Miranda: Coincidence or Consequence?, 
+CC i TTT 18 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES 
+
+
+Law Review Articles 
+
+
+P. Cassell & R. Fowles, Handcuffing 
+the Cops?: A Thirty- Year Perspective on 
+Miranda’s Harmful Effects on Law Enforcement, 
+
+
+50 STAN. L. REV. 1055 (1998) . . . . . .. 
+
+
+P. Cassell & B. Hayman, Police Interrogation 
+in the 1990s: An Empirical Study of the Effects 
+of Miranda, 43 U.C.L.A. L. REV. 839 (1996) ...... 
+
+
+D. Collins, Farewell Miranda?, 
+
+
+ee 
+
+
+J. Donohue, Did Miranda Diminish Police 
+
+
+Effectiveness?, 50 STAN. L. REV. 1147 (1998) ............ 
+
+
+L. Lunney, The Erosion of Miranda: 
+Stare Decisis Consequences, 
+
+
+48 CATH. U. L. REV. 727 (100 
+
+
+P. Nardulli, The Societal Costs of the 
+Exclusionary Rule: An Empirical 
+
+
+Assessment, 1983 AM. B. FOUND. RES. J. 585 
+
+
+P. Nardulli, The Societal Costs of 
+the Exclusionary Rule Revisited, 
+
+
+SI 1 
+
+
+S. Schulhofer, Miranda s Practical Effect: 
+Substantial Benefits and Vanishingly 
+
+
+Small Social Costs, 90 Nw. U.L. REV. 500 (1996) .... 19, 23 
+
+
+S. Schulhofer, Reconsidering Miranda, 
+
+
+54 U. CHI. L. REV. 435 (1987) . . . . 
+
+
+C. Weisselberg, Saving Miranda, 
+
+
+84 CORNELL L. REV. 109 (1998) . 
+
+
+TABLE OF AUTHORITIES 
+
+
+Miscellaneous 
+
+
+Atkins & P. Rubin, Effects of Criminal 
+
+Procedure on Crime Rates: Mapping Out the 
+Consequences of the Exclusionary Rule(1998) 
+
+(available at <http://papers.ssrn.com/ 
+
+paper. taf? ABS TRNACT HD- 140992) 18 
+
+
+BUREAU OF JUSTICE STATISTICS, U.S. DEP’T OF 
+JUSTICE, PROSECUTORS IN STATE COURTS, 1992 ............ 21 
+
+
+Dept. of Justice Office of Legal Policy, 
+Report to the Attorney General on the 
+
+Law of Pretrial Interrogation, reprinted in 
+22 U. MICH. J.L. REFORM 437 (1989) 
+
+
+F. FEENEY, ET AL., ARRESTS WITHOUT CONVICTION: 
+How OFTEN THEY OCCUR AND WHY(1983)............... 20, 23 
+
+
+“No Verdict in Third Mutilation-Murder Trial.” 
+AP. State & Local Wire (June 9, 19999 
+
+
+STATISTICAL ABSTRACT OF THE 
+e 21 
+
+
+Pursuant to this Court's Rule 37.3, amici curiae Center 
+for the Community Interest; KlaasKids Foundation; 
+National Organization of Parents of Murdered Children, 
+Inc.; Parents of Murdered Children of New York State, Inc.; 
+Justice For All (Texas); Justice for All (New York); and 
+Anti-Violence Partnership respectfully submit this brief 
+urging this Court to affirm the judgment of the United 
+States Court of Appeals for the Fourth Circuit and to hold 
+that 18 U.S.C. § 3501 prohibits a federal court from exclud- 
+ing a voluntary confession on the ground that it was taken 
+in violation of the prophylactic warning requirements set 
+forth in Miranda v. Arizona, 384 U.S. 436 (1966). 
+
+
+INTEREST OF AMICI CURIAE 
+
+
+The Center for the Community Interest (“CCI”) is a 
+national non-profit public interest organization founded to 
+provide a voice for localities and community groups on 
+public safety and quality-of-life issues. CCI helps cities, 
+states, and civic associations to develop and defend policies 
+that strike a reasonable balance between the rights of the 
+individual and the needs of the larger community, address- 
+ing issues such as school violence, injunctions to control 
+gangs, drug-related crime in low-income housing, and 
+restrictions on aggressive panhandling. CCI has developed 
+a nationally recognized expertise on legal issues affecting 
+the safety and quality of life of communities. CCI has 
+participated in a wide range of public safety and quality-of- 
+life cases before this Court and other courts throughout the 
+country. In addition, it has represented crime victims’ 
+groups in helping to sustain “Megan’s Law” in the Second 
+Circuit and, in the Fifth Circuit, the right of crime victims 
+
+
+' This brief is filed with the consent of both petitioner and respondent, 
+and letters reflecting those consents have been lodged with the Clerk of 
+this Court. Pursuant to this Court's Rule 37.6, amici curiae state that 
+this brief has not been authored in whole or in part by counsel for a party 
+and that no person or entity, other than amici, their members, or their 
+counsel, have made a monetary contribution to the preparation or 
+submission of this brief. 
+
+
+2 
+
+
+to communicate with parole boards. CCI is extremely 
+concerned about the harms caused to crime victims and 
+their families when criminals may escape justice because 
+confessions that are constitutionally voluntary are excluded 
+as a result of violations of the prophylactic rules of Miranda 
+v. Arizona. CCI believes that the statute challenged here, 
+18 U.S.C. § 3501, would protect against these harms 
+without disparaging Fifth Amendment rights. 
+
+
+CCI is joined by six other amici on the brief. The 
+KlaasKids Foundation for Children is a national non-profit 
+group that is in the forefront of advocating child safety 
+through education and public awareness programs. Mr. 
+Klaas founded the group after the murder of his 12-year-old 
+daughter, Polly, by a parolee. The National Organization 
+of Parents of Murdered Children, Inc. provides emotional 
+support to families and friends of homicide victims. Its 
+programs include Parole Block, which has successfully 
+campaigned to keep convicted murderers behind bars. The 
+Anti-Violence Partnership is a non-profit organization that 
+addresses violence in Philadelphia through victim services, 
+crime prevention, and programs such as Families of Murder 
+Victims and the Student Anti-Violence Education Program. 
+Justice for All of New York and of Texas are two separate 
+non-profit organizations, each dedicated to the support and 
+promotion of crime prevention and public safety bills and 
+the broadening of legal rights for the victims of sexual and 
+violent crimes. Parents of Murdered Children of New York 
+
+
+State is a non-profit organization formed in 1983 by the 
+
+
+parents of murder victims to protect the rights of victims of 
+violent crimes. As advocates for the victims of violent 
+crime, the six co-amici organizations share CCI’s grave 
+concerns about the implications of invalidating § 3501. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The parties’ analysis of 18 U.S.C. § 3501 is based on 
+a fundamental misreading of the statute. Because § 3501 
+does not contain any language that can be read to alter or 
+
+
+3 
+
+abolish Miranda’s prophylactic warning requirements, 
+police officers must continue to abide by them. The statute 
+merely alters the analysis that courts must apply ex post: A 
+confession will be admissible if it is “voluntarily given.” 18 
+U.S.C. § 3501(a). The statute prevents courts from apply- 
+ing the exclusionary rule unless an actual violation of the 
+Constitution has occurred. Thus, the rule is eliminated 
+only in those instances where the “Miranda exclusionary 
+
+
+rule . sweeps more broadly than the Fifth Amendment 
+itself.” Oregon v. Elstad, 470 U.S. 298, 306 (1985). 
+
+
+It is one of “the traditional powers of Congress to 
+prescribe rules of evidence and standards of proof in the 
+federal courts,” subject only to the constraints of the 
+Constitution. Vance v. Terrazas, 444 U.S. 252, 265 (1980). 
+As the Court of Appeals in this case correctly concluded, the 
+issue is whether the breadth of the exclusionary rule set 
+forth in Miranda “is required by the Constitution.” J.A. 
+166. This Court’s cases clearly establish that it is not. “The 
+Fifth Amendment prohibits use by the prosecution in its 
+case in chief only of compelled testimony.” Elstad, 470 U.S. 
+at 306-07 (first emphasis added). The Miranda exclusion- 
+ary rule, however, unquestionably operates to bar state- 
+ments that are not in fact compelled. Indeed, this Court 
+has repeatedly drawn a sharp distinction between the 
+ultimate constitutional standard—voluntariness—and the 
+prophylactic rules of Miranda. See Elstad, 470 U.S. at 318; 
+New York v. Quarles, 467 U.S. 649, 654 (1984); Michigan v. 
+Tucker, 417 U.S. 433, 445-46 (1974); Harris v. New York, 
+401 U.S. 222, 224 (1971). 
+
+
+The parties contend that Miranda rests on the sort of 
+“constitutional basis” that precludes Congress from modify- 
+ing it, and that principles of stare decisis dictate that this 
+purported “constitutional” limitation should be preserved. 
+U.S. Br. at 23; see also Petr. Br. at 22-27. The parties’ 
+position is itself at war with principles of stare decisis. 
+
+
+The straightforward constitutionalization of Miranda 
+urged by Petitioner is flatly inconsistent with numerous 
+
+
+4 
+
+
+decisions of this Court, which have, for 30 years, unambigu- 
+
+ously and emphatically rejected the view that Miranda's 
+prophylactic rules are required by the Constitution. Elstad; 
+Quarles; Tucker; Harris. Similarly, Miranda cannot be 
+recast merely as establishing a set of doctrinal presump- 
+tions that the Court applied in order to simplify the adjudi- 
+cation of Fifth Amendment issues; this view directly 
+conflicts with this Court’s longstanding limitations on the 
+use of such presumptions, Coleman v. Thompson, 501 U.S. 
+722, 737 (1991), and Miranda simply cannot be understood 
+as a jurisprudential labor-saving device. Nor can § 3501 be 
+invalidated on the ground that Miranda should be viewed 
+as reflecting a constitutional holding that some sort of 
+prophylactic safeguards must be put in place at the police 
+-station house. U.S. Br. at 26-29. This argument addresses 
+the wrong element of Miranda. There is no inconsistency 
+between reaffirming that the warnings must still be given 
+and upholding § 3501's mandate to federal courts to apply 
+the drastic remedy of exclusion only when an actual 
+violation of the Constitution has occurred. Moreover, there 
+is simply no basis for concluding that an unyielding, 
+inflexible exclusionary rule is an indispensable element of 
+a constitutionally adequate prophylactic regime. 
+
+
+The Government contends that upholding § 3501 would 
+be inconsistent with this Court’s repeated application of the 
+full measure of that rule in state cases. The Government is 
+almost certainly correct that the Court’s practice in state 
+cases brings Miranda into conflict with this Court's re- 
+peated insistence that it lacks “supervisory authority” over 
+state courts and cannot reverse state court judgments 
+unless they actually conflict with the “commands of the 
+United States Constitution.” Mu Min v. Virginia, 500 U.S. 
+415, 422 (1991). The practice is also inconsistent with the 
+Court’s treatment of prophylactic rules in other contexts. 
+Smith v. Robbins, 120 S. Ct. 746, 756-57 (2000). The 
+tension between Miranda's excessive exclusionary rule and 
+the Court’s abjuration of a supervisory power over state 
+courts suggests that, in an appropriate state case, the Court 
+
+
+5 
+
+
+will need to resolve this tension either by eliminating the 
+overbreadth of Miranda's exclusionary rule in state cases or 
+by adhering to its exercise of an apparent supervisory 
+power in this one area of the law. But this case arises in 
+federal court, and this Court has consistently held that its 
+exercise of supervisory power may not be invoked to 
+disregard the commands of a congressional statute. Bank 
+of Nova Scotia v. United States, 487 U.S. 250, 254 (1988). 
+
+
+At a minimum, it is apparent that any conceivable 
+reading of Miranda that would invalidate § 3501 would 
+place that decision squarely in conflict with another line of 
+this Court’s jurisprudence. The Court thus cannot simply 
+fall back on stare decisis, but must instead decide this case 
+correctly on its own merits. 
+
+
+An additional important factor in determining whether 
+to invoke stare decisis is whether the challenged rule has 
+imposed significant harms that outweigh the perceived 
+benefits. Payne v. Tennessee, 501 U.S. 808, 827-30 (1991). 
+This additional factor weighs strongly in favor of upholding 
+§ 3501. One obvious cost of Miranda's overbroad exclusion- 
+ary rule is that, by excluding voluntary and reliable confes- 
+sions, the rule unjustifiably increases the risks that crimi- 
+nals will not be punished. Even considering all of the 
+limitations in the available empirical evidence, it is clear 
+that Miranda's overbroad rule excludes voluntary confes- 
+sions in thousands of cases each year; that many of these 
+cases are dismissed as a consequence; and that there are 
+adverse effects on the disposition of many of the remaining 
+cases. Numbers, however, do not tell the whole story. One 
+must not lose sight of the fact that these “small” percent- 
+ages conceal individual injustices. Because § 3501 requires 
+exclusion of involuntary confessions, it does not result in 
+the injustice of imprisoning the innocent. However, it is 
+deeply offensive that, without sufficient reason, Miranda's 
+exclusionary rule permits the guilty to escape justice. 
+
+
+6 
+
+
+ARGUMENT 
+
+
+A. The Narrow Question Raised by This Case Is 
+Whether Congress Has the Authority to Displace 
+the Exclusionary Rule That This Court Has Ap- 
+plied to Admissions Obtained in Violation of the 
+Nonconstitutional Prophylactic Rules Set Forth in 
+Miranda v. Arizona 
+
+
+The Government's attack on § 3501 is premised on the 
+view that the statute effects “a return to a totality-of-the- 
+circumstances [voluntariness] test in all settings.” U.S. Br. 
+36 (emphasis added): Petitioner's argument rests on the 
+same assumption. Petr.’s Br. 28-29. This central premise 
+of the parties, however, is based on a patent misreading of 
+the statute. As set forth below, nothing in § 3501 purports 
+‘) alter the prophylactic rules that this Court has imposed 
+upon police officers to guard against violations of Fifth 
+Amendment rights; the familiar Miranda warnings must 
+still be given. Rather, the only effect of § 3501 is to prevent 
+
+
+courts from applying the exclusionary rule unless an actual 
+
+
+violation of the Constitution has occurred. 
+
+
+- Prior to Miranda, this Court held that, in federal cases, 
+both the Self-Incrimination Clause and the Due Process 
+Clause of the Fifth Amendment prohibited the Government 
+from admitting an involuntarily obtained confession into 
+evidence against a criminal defendant for any purpose. See 
+Bram v. United States, 168 U.S. 53?, 543-44, 557-58 (1897) 
+(applying Self-Incrimination Clause in federal case); United 
+States v. Carignan, 342 U.S. 36, 38 (1951). Similarly, even 
+prior to this Court’s decision in Molloy v. Hogan, 378 U.S. 1 
+(1964)—which first recognized the applicability of the Self- 
+Incrimination Clause in state cases—this Court had held 
+that the Due Process Clause of the Fourteenth Amendment 
+precluded the States from using coerced confessions in 
+criminal cases. Haynes v. Washington, 373 U.S. 503, 513 
+(1963); Brown v. Mississippi, 297 U.S. 278, 285-86 (1936). 
+The Court’s decision in Molloy “opened Bram’s doctrinal 
+avenue for the analysis of state cases,” and therefore, after 
+
+
+7 
+
+
+Molloy, the Self-Incrimination Clause would also apply to 
+bar the admission of a coerced confession in a state case. 
+Withrow v. Williams, 507 U.S. 680, 688-89 (1993). Thus, 
+prior to Miranda, both the Self-Incrimination Clause and 
+the Due Process Clauses established the same test for 
+admissibility of confessions in court: A confession is admis- 
+sible if, under all the circumstances, it is voluntarily given. 
+
+
+Before Miranda, however, the two Clauses did not both 
+apply at the police station house. The Court had long held 
+that the Due Process Clause is violated, not merely by the 
+admission of a coerced statement into evidence, but also by 
+the police’s act of forcing the suspect to give the statement 
+in the first place. See Brown, 297 U.S. at 286 (holding that 
+the Due Process Clause prohibited the methods taken 
+to procure the confessions”); see also Miller v. Fenton, 474 
+U.S. 104, 109 (1985). By contrast, prior to the decision in 
+
+
+‘Miranda, this Court had never held that the Self-incrimi- 
+
+
+nation Clause imposed any limits on the conduct of police 
+interrogation itself. See New York v. Quarles, 467 U.S. 649, 
+654 (1984). Miranda's central innovation was its establish- 
+ment, under the aegis of the Self-Incrimination Clause, of 
+a set of bright-line procedural rules for the conduct of 
+interrogations by police officers at the station house. 
+
+
+In imposing these rules, Miranda sought to fashion a set 
+of “safeguards” that would protect an in-custody suspect's 
+Fifth Amendment right to remain silent. 384 U.S. at 467. 
+In doing so, the Miranda Court was not content merely to 
+rely upon the admonition that police officers should not 
+“coerce” confessions: Although voluntariness was the 
+ultimate constitutional touchstone, that standard—at least 
+from the ex ante point of view of the officer in the station 
+house—does not provide any clear, bright-line rules con- 
+cerning the permissible limits of interrogation. Withrow, 
+507 U.S. at 694 (“Miranda's core virtue’ was ‘afford[ing] 
+police and courts clear guidance on the manner in which to 
+conduct a custodial investigation”) (citations omitted) 
+(emphasis added). In part because of that concern, the 
+
+
+8 
+
+
+Court set forth certain per se rules that—in the absence of 
+an equally effective alternative set of procedural safe- 
+guards—“must be observed.” 354 U.S. at 467. 
+
+
+Specifically, the Court held that, prior to custodial 
+interrogation, a police officer must advise the suspect 
+(1) “that he has the right to remain silent”; (2) “that 
+anything said can and will be used against the individual in 
+court”; (3) “that he has the right to consult with a lawyer 
+and to have the lawyer with him during interrogation”; and 
+(4) “that if he is indigent a lawyer will be appointed to 
+represent him.” Miranda, 384 U.S. at 468, 469, 471, 473. 
+If the suspect clearly invokes his right to an attorney under 
+Miranda, then (assuming no break in custody) he may not 
+be approached for further questioning regarding any offense 
+unless counsel is present. McNeil v. Wisconsin, 501 U.S. 
+171, 176-77 (1991); Arizona v. Roberson, 486 U.S. 675, 682 
+(1988); Edwards v. Arizona, 451 U.S. 477, 485 (1981). An 
+equivocal request for counsel, however, does not trigger 
+these additional requirements. Davis v. United States, 512 
+U.S. 452, 459-62 (1994). On the other hand, if the suspect 
+does not request an attorney, but instead invokes his 
+Miranda right to remain silent, the suspect may later be 
+questioned about other offenses. Roberson, 486 U.S. at 683; 
+Michigan v. Mosley, 423 U.S. 96, 103-06 (1975). 
+
+
+The Court in Miranda expressly acknowledged that 
+these specific procedural “safeguards” were not required by 
+the Constitution. 384 U.S. at 467. Nonetheless, the Court 
+sought to enforce these safeguards by adopting an across- 
+the-board exclusionary rule that bars, with limited excep- 
+tions, the admission of any statement taken in violation of 
+those prophylactic rules. The result is that the “Miranda 
+exclusionary rule . . serves the Fifth Amendment and 
+sweeps more broadly than the Fifth Amendment itself. It 
+may be triggered even in the absence of a Fifth Amendment 
+violation.” Oregon v. Elstad, 470 U.S. 298, 306 (1985). 
+
+
+Viewed against this backdrop, the effect of § 3501 is 
+clear from the language of the statute. First, because 
+
+
+§ 3501, by its plain terms, addresses only the subject of the 
+admissibility of confessions in court, there simply is no 
+basis for concluding that the statute alters the various 
+requirements that Miranda and its progeny impose upon 
+police officers who conduct custodial interrogations. Those 
+obligations remain unaltered by the statute, and police 
+officers must continue to abide by them. Second, although 
+the statute does not alter the prophylactic rules established 
+in Miranda to ensure, ex ante, against possible violations of 
+the Fifth Amendment, the statute does alter the analysis 
+that courts must apply ex post: Under the statute, a confes- 
+sion will be admissible if it is “voluntarily given.” 18 U.S.C. 
+§ 3501(a). Thus, the effect of the statute is to eliminate the 
+application of the exclusionary rule in those instances—and 
+only those instances—where the “Miranda exclusionary 
+rule . sweeps more broadly than the Fifth Amendment 
+itself.” Elstad, 470 U.S. at 306. 
+
+
+The issue raised by § 3501 is thus substantially nar- 
+rower than suggested by the parties. The question whether 
+the Miranda Court had the constitutional authority in the 
+first instance to set forth specific guidelines governing 
+police custodial interrogation is an important one, but that 
+issue is not squarely presented by this case. Nothing in the 
+statute purports to alter these requirements. Rather, the 
+only question posed by § 3501 is the narrow one of whether 
+Congress has the authority to limit the courts to applying 
+an exclusionary rule only in those instances that involve an 
+actual violation of the Fifth Amendment. As set forth 
+below, Congress has that authority. 
+
+
+B. Congress Has the Authority to Preclude the 
+Courts from Applying an Exclusionary Rule in the 
+Absence of a Constitutional Viclation 
+
+
+It is one of “the traditional powers of Congress to 
+prescribe rules of evidence and standards of proof in the 
+federal courts.” Vance v. Terrazas, 444 U.S. 252, 265 
+(1980). Like any congressional power, it is subject to the 
+constraints of the Constitution. But unless the rule estab- 
+
+
+10 
+
+
+lished by Congress is forbidden by the Constitution, the 
+choice is Congress s to make. Stewart Org. v. Ricoh Corp., 
+487 U.S. 22, 31-32 (1988). As the Court of Appeals in this 
+case correctly concluded, the issue is thus whether the 
+breadth of the exclusionary rule set forth in Miranda “is 
+required by the Constitution.” J.A. 166. This Court's cases 
+clearly establish that the answer to this question is “No.” 
+
+
+“The Fifth Amendment prohibits use by the prosecution 
+in its case in chief only of compelled testimony.” Elstad, 
+470 U.S. at 306-07 (first emphasis added). The Miranda 
+exclusionary rule, however, unquestionably operates to bar 
+statements that are not in fact compelled: As this Court has 
+squarely held, the Miranda rule “sweeps more broadly than 
+the Fifth Amendment itself” and “may be triggered even in 
+the absence of a Fifth Amendment violation.” Id. at 306. 
+Indeed, this Court has repeatedly drawn a sharp distinction 
+between the ultimate constitutional standard—voluntari- 
+ness—and the prophylactic rules of Miranda. Thus, for 
+example, in recognizing a “public safety” exception to the 
+Miranda warning requirements, this Court in Quarles 
+specifically noted that there was “no claim that [Quarles’s]} 
+statements were actually compelled by police conduct which 
+overcame his will to resist.” 467 U.S. at 654 (emphasis 
+added). Similarly, in recognizing that statements taken in 
+violation of Miranda may nonetheless be used for purposes 
+of impeachment, this Court in Harris v. New York, 401 U.S. 
+222 (1971), was careful to note that Harris “makes no claim 
+that the statements made to the police were coerced or 
+involuntary.” Id. at 224. In Elstad, the Court held that a 
+“suspect who has once responded to unwarned yet uncoer- 
+clive questioning is not thereby disabled from waiving his 
+rights and confessing after he has been given the requisite 
+Miranda warnings.” 470 U.S. at 318 (emphasis added). See 
+also Michigan v. Tucker, 417 U.S. 433, 445-46 (1974) (“[W]e 
+have already concluded that the police conduct at issue here 
+did not abridge respondent’s constitutional privilege against 
+compulsory self-incrimination, but departed only from the 
+prophylactic standards later laid down by this Court in 
+
+
+11 
+
+
+Miranda to safeguard that privilege.”). 
+
+
+As explained earlier, § 3501 alters the law only in those 
+instances in which a confession is taken in violation of 
+Miranda's prophylactic rules but is nonetheless—as in 
+Elstad, Quarles, Tucker, and Harris—not involuntary in the 
+constitutional sense. Thus, the statute merely prohibits 
+exclusion in precisely those instances in which no violation 
+of the Constitution actually occurred. Because § 3501 does 
+not purport to require the admission of any confession that 
+the Constitution requires to be suppressed, it is constitu- 
+tional. The court below correctly applied this reasoning in 
+upholding the statute. See J.A. 207-11. 
+
+C. Any Perceived Constitutional Dimension to 
+Miranda’s Overbroad Exclusionary Rule Should 
+Be Rejected in Light of the Doubtful Validity of 
+the Rule and Its Substantial and Unjustifiable 
+Social Costs 
+
+
+1. The Constitutionally Problematic Nature of | 
+the Broad Exclusionary Rule Established in 
+Miranda Sharply Undermines Any Perceived 
+Claim to Stare Decisis 
+
+
+Despite this Court’s repeated holdings that a violation 
+of Miranda is not itself a violation of the Constitution, 
+Petitioner and the Government both contend that Miranda 
+rests on the sort of “constitutional basis” that precludes 
+Congress from modifying it, and that principles of stare 
+decisis dictate that this purported “constitutional” limita- 
+tion should be preserved. U.S. Br. at 23; see also Petr. Br. 
+at 22-27. Both parties are wrong. The central defect in the 
+parties’ arguments is that they fail to identify clearly the 
+power that the Miranda Court purported to exercise; the 
+parties largely assume that, whatever authority the Court 
+was exercising, it was one that would trump any effort by 
+Congress to modify Miranda's exclusionary regime. Closer 
+examination of the various possible bases for Miranda 
+makes clear that the broad sweep of Miranda's exclusionary 
+
+
+12 
+
+
+rule is not immune from the sort of limited ccngressional 
+modification contained in § 3501. Indeed, the parties’ 
+contrary position is itself inconsistent with a substantial 
+body of precedent in this Court. 
+
+
+Petitioner (but not the Government) urges the ambitious 
+view that “Miranda represents the Court’s interpretation of 
+the Constitution” and that the rules set forth in Miranda, 
+despite their “prophylactic” character, are therefore 
+“constitutionally required.” Petr. Br. at 25, 29. If the 
+apparent premise of this argument were correct, § 3501 
+would indeed be unconstitutional: If the Court in Miranda 
+had purported to define the substantive contours of what 
+the Fifth Amendment actually requires, there would be no 
+doubt that Congress would be powerless to modify Miran- 
+da's exclusionary rule. See City of Boerne v. Flores, 521 
+U.S. 507, 519-20 (1997); Marbury v. Madison, 5 U.S. (1 
+Cranch) 137, 177 (1803). But Petitioner's premise is not 
+correct. Despite some language in Miranda that might 
+have supported this view, the Court has, for 30 years, 
+unambiguously rejected the view that Miranda's prophylac- 
+tic rules represent the requirements of the Constitution 
+itself. Michigan v. Tucker, 417 U.S. at 444 (Miranda rights 
+are “not themselves rights protected by the Constitution”); 
+see also Elstad, 470 U.S. at 306-08; Quarles, 467 U.S. at 
+654; Harris, 401 U.S. at 224-25. Accordingly, Petitioner's 
+attempt to elevate Miranda to the status of an ordinary 
+constitutional decision would, at this late date, require the 
+overruling of Harris, Tucker, Quarles, and Elstad: Each of 
+these decisions is premised critically on the view that the 
+full breadth of Miranda's exclusionary rule is not constitu- 
+tionally required. The doctrine of stare decisis thus obvi- 
+ously cannot be invoked in support of Petitioner's straight- 
+forward constitutionalization of Miranda. 
+
+
+An alternative view would be to read Miranda as merely 
+establishing a set of doctrinal presumptions that the Court 
+applied in order to simplify the adjudication of Fifth 
+Amendment issues. Although this position has been 
+
+
+13 
+
+
+endorsed in academic commentary, see, e. g., S. Schulhofer, 
+Reconsidering Miranda, 54 U. CHI. L. REV. 435, 448-52 
+(1987), neither Petitioner, the Government, nor their many 
+amici unambiguously endorses this position. It is not 
+difficult to see why. If Miranda were construed as merely 
+establishing certain doctrinal aids to adjudication, it would 
+come into direct conflict with this Court’s longstanding 
+limitations on the use of such presumptions. A conclusive 
+presumption “is designed to avoid the costs of excessive 
+inquiry where a per se rule will achieve the correct result in 
+almost all cases”; accordingly, a mandatory presumption 
+should not be employed if “the generalization is incorrect as 
+an empirical matter.” Coleman v. Thompson, 501 U.S. 722, 
+737 (1991). There is no support whatsoever for the view 
+that “almost all” un-Mirandized statements are actually 
+involuntary; in fact, as this Court’s own cases suggest, quite 
+the opposite is true. 
+
+
+Moreover, whatever else may be said about Miranda, it 
+simply cannot be understood as a jurisprudential labor- 
+saving device. As this Court made clear in Elstad, the 
+presumption of compulsion that arises from the failure to 
+follow Miranda is irrebuttable only for purposes of the 
+government's case-in-chief; a statement taken in violation 
+of Miranda may be used for impeachment if it is voluntarily 
+given. Elstad, 470 U.S. at 307-08. One must not lose sight 
+of the fact that what occurs when a criminal defendant files 
+a motion to suppress on Miranda grounds is that the 
+district court ultimately makes two inquiries in each and 
+every case: (1) the court must decide whether Miranda was 
+violated, thereby requiring suppression ir. the government's 
+case-in-chief, and (2) the court must also decide whether the 
+statement may be used for impeachment by determining 
+whether, under the traditional “totality of the circum- 
+stances” test, the statement is voluntary. So long as two 
+different standards govern whether a statement may be 
+used in the case-in-chief and whether it may be used for 
+impeachment, the Miranda regime doubles the work that 
+trial courts must do. Miranda thus could be justified as a 
+
+
+14 
+
+
+labor-saving device only if Harris were overruled—a result 
+that would have catastrophic results for the integrity of the 
+criminal justice system by distorting the truth-finding 
+process in a manner that would be gravely unjust to victims 
+of crime. Under § 3501, by contrast, trial courts need only 
+make a single inquiry (and one that they already make 
+anyway): whether the confession was voluntary. 
+
+
+A third approach, which is apparently the one advocated 
+by the Government, would be to view Miranda as reflecting 
+a constitutional holding that some sort of prophylactic 
+safeguards must be put in place at the police station house 
+in order to avoid violations of the Fifth Amendment. U.S. 
+Br. at 26-29. There are several problems with this argu- 
+ment. For one thing, it addresses the wrong element of the 
+Miranda regime. Nothing in § 3501 dispenses with the 
+warning requirement or other prophylactic safeguards at 
+all. The question whether the Court had the constitutional 
+authority, in the first instance, to prescribe a framework of 
+prophylactic rules for the conduct of police interrogation is 
+a different question from whether the Constitution requires 
+the exclusion of evidence taken in violation of those rules. 
+It clearly does not, as this Court’s own judicially created 
+exceptions to Miranda's exclusionary rule illustrate. 
+Moreover, there is no basis for concluding that an unyield- 
+ing, inflexible exclusionary rule is an indispensable element 
+of a constitutionally adequate prophylactic regime. In 
+virtually every other area of the law, suppression is not 
+ordered when the harm to be avoided did not materialize: 
+A patent Fourth Amendment violation, for example, will not 
+result in suppression if the evidence would inevitably have 
+been discovered. Murray v. United States, 487 U.S. 533, 
+539-40 (1988). Indeed, Congress has the power to require 
+the courts to adhere to the principle of “harmless error,” 
+Bank of Nova Scotia v. United States, 487 U.S. 250, 254-55 
+(1988), and it is inconsistent with that principle to insist 
+that Miranda’s prophylactic rules must be overenforced and 
+that exclusion must be ordered even when the harm sought 
+to be avoided did not occur. 
+
+
+15 
+
+
+The Government contends that upholding Congress's 
+power to modify Miranda's broad exclusionary rule would 
+be inconsistent with this Court’s repeated application of the 
+full measure of that rule in state cases. This argument 
+seeks to convert Miranda's greatest weakness into its 
+greatest strength. As the Miranda case law now stands, 
+the Court unquestionably has exercised a power to reverse 
+state court judgments even in the absence of an actual 
+violation of the Constitution, and it has done so largely 
+through the device of using the Miranda rules to “deem” 
+there to have been a constitutional violation even when, 
+applying Harris, the courts have properly determined that 
+there wasn’t one. The Government is almost certainly 
+correct that this practice brings Miranda into conflict with 
+this Court’s repeated insistence that it lacks “supervisory 
+authority” over state courts and cannot reverse state court 
+judgments unless they actually conflict with the “commands 
+of the United States Constitution.” Mu Min v. Virginia, 500 
+U.S. 415, 422 (1991) (emphasis added). 
+
+
+The practice is also inconsistent with the Court’s 
+treatment of the prophylactic rules it has created in other 
+contexts. For example, in Smith v. Robbins, 120 S. Ct. 746, 
+757 (2000), this Court recently addressed the “prophylactic 
+framework” that was set forth in Anders v. California, 386 
+U.S. 738 (1967), for evaluating a request of appellate 
+counsel to withdraw, or to dispense with merits briefs, on 
+the grounds that an appeal would be frivolous. Anders held 
+that, “in order to protect indigent defendants’ constitutional 
+right to appellate counsel, courts must safeguard against 
+the risk of granting such requests in cases where the appeal 
+is not actually frivolous.” Id. at 752-53. In Smith, this 
+Court ruled that the particular procedure set forth in 
+Anders was not “obligatory upon the States” and that, in 
+assessing whether a particular State’s alternative proce- 
+dure was sufficient, courts must “focus on the underlying 
+goals that the procedure should serve.” Id. at 756, 760. The 
+uncritical and inflexible application of Miranda's exclu- 
+sionary rule in state cases is inconsistent with these 
+
+
+16 
+
+
+principles: By requiring suppression even in the absence of 
+an actual violation of constitutional rights, Miranda's 
+unusual exclusionary rule goes well beyond the “underlying 
+goals” that the decision seeks to serve and vastly exceeds 
+“the minimum requirements of the Fourteenth Amend- 
+ment” that constitute the sole limit to the “wide discretion” 
+of the States. Smith, 120S. Ct. at 757, 760. 
+
+
+The tension between Miranda's excessive exclusionary 
+rule and the Court’s abjuration of a supervisory power over 
+state courts suggests that, in an appropriate state case, the 
+Court will need to resolve this tension either by eliminating 
+the overbreadth of Miranda's exclusionary rule in state 
+cases or by adhering to its exercise of an apparent supervi- 
+sory power in this one area of the law. But this case arises 
+in federal court, and that makes it much easier to resolve. 
+Even if the extreme breadth of Miranda's exclusionary rule 
+is conceded to rest, in part, on an exercise of supervisory 
+authority, that raises less difficulty, because this Court has 
+supervisory power in federal cases. However, that recogni- 
+tion is fatal to the Government's position, because this 
+Court has consistently held that supervisory power may not 
+be invoked to disregard the commands of a congressional 
+statute. Bank of Nova Scotia, 487 U.S. at 254. 
+
+
+At a minimun, it is apparent that any conceivable 
+reading of Miranda that would invalidate § 3501 would 
+place Miranda squarely in conflict with another line of this 
+Court's jurisprudence. Several of Miranda's defenders have 
+candidly conceded this point, and—in contrast to the 
+evasiveness of the Government here—have forthrightly 
+called for a “reconstitutionalization” of Miranda and the 
+limiting or overruling of Harris, Tucker, Quarles, and 
+Elstad. See, e.g., C. Weisselberg, Saving Miranda, 84 
+CORNELL L. REV. 109 (1998); L. Lunney, The Erosion of 
+Miranda: Stare Decisis Consequences, 48 CATH. U.L. REV. 
+727 (1999). Because the constitutional legitimacy of Miran- 
+da’s overbroad exclusionary rule is a matter on which, at 
+best, this Court’s decisions are in tension with one another, 
+
+
+17 
+
+
+the Court cannot simply fall back on stare decisis, but must 
+instead decide this case correctly on its own merits 
+Planned Parenthood of Southeastern Penn. v. Casey, 505 
+U.S. 833 (1992) (Opin. of O’Connor, Kennedy, & Souter, JJ.) 
+(rejecting the trimester framework of Roe v. Wade, 410 U.S. 
+113 (1973), because that aspect of the decision was in 
+tension with other aspects of Roe and with other abortion 
+cases); Pacific Mutual v. Haslip, 499 U.S. 1, 37-38 (1991) 
+(Scalia, J., concurring) (“Our holdings remain in conflict, no 
+matter which course I take.”); Wolman v. Walter, 433 U.S. 
+229, 266 n.2 (1977) (Stevens, J., concurring in part and 
+dissenting in part) (“In view of the acknowledged tension 
+[between two decisions] the doctrine of stare decisis cannot 
+foreclose an eventual choice between two inconsistent 
+precedents.”). The correct decision, as stated earlier, is to 
+uphold § 3501. 
+
+
+2. The Unjustified Societal Costs That Result 
+From Miranda’s Exclusionary Rule Provide a 
+Strong Additional Reason for Declining to 
+Invoke Stare Decisis to Preserve any Perceived 
+Constitutional Dimension to That Rule 
+
+
+The inherently unsettled status of Miranda's exclusion- 
+ary rule is not the only reason for concluding that stare 
+decisis provides no obstacle to Congress's limited modifica- 
+tion of that rule in § 3501. Assuming that stare decisis has 
+some perceived force here, an additional important factor is 
+whether the challenged rule has imposed significant harms 
+that outweigh the perceived benefits of the decision. Payne 
+v. Tennessee, 501 U.S. 808, 827-30 (1991). This consider- 
+ation has special force here, because this Court has empha- 
+sized that the scope of Miranda’s exclusionary rule must be 
+drawn in a manner that takes account of its substantial 
+costs. Elstad, 470 U.S. at 312. This additional factor 
+weighs very strongly against invalidating § 3501. 
+
+
+There is a substantial body of evidence that strongly 
+suggests that Miranda has imposed certain heavy costs on 
+the criminal justice system and the Nation as a whole. In 
+
+
+18 
+
+
+particular, Professor Cassell has analyzed the available 
+data, conducted his own independent research, and con- 
+cluded that the Miranda regime has reduced the rate at 
+which suspects confess and has resulted in a substantial 
+increase in the number of unsolved crimes. See P. Cassell 
+& R. Fowles, Handcuffing the Cops?: A Thirty- Year Perspec- 
+tive on Miranda’s Harmful Effects on Law Enforcement, 50 
+STAN. L. REV. 1055, 1059 (1998) (“[C]rime clearance rates 
+fell precipitously immediately after Miranda and have 
+remained at lower levels ever since.”); P. Cassell & R. 
+Fowles, Falling Clearance Rates After Miranda: Coincidence 
+or Consequence?, 50 STAN. L. REV. 1181 (1998); P. Cassell & 
+B. Hayman, Police Interrogation in the 1990s: An Empirical 
+Study of the Effects of Miranda, 43 U.C.L.A. L. REV. 839, 
+842 (1996) (reporting conclusions of study in Salt Lake City) 
+(“The 33% confession rate we found is lower than the rates 
+reported in studies done before Miranda and conducted in 
+countries that do not follow the Miranda requirements, 
+suggesting that Miranda has reduced the confession rate.”); 
+P. Cassell, Miranda’s Social Costs: An Empirical Reassess- 
+ment, 90 NW. U.L. REV. 387, 391 (1996) (“[The evidence] 
+suggests that each year Miranda results in ‘lost cases’ 
+against roughly 28,000 serious violent offenders and 79,000 
+property offenders and produces plea bargains to reduced 
+charges in almost the same number of cases.”); P. Cassell, 
+All Benefits, No Costs: The Grand Illusion of Miranda’s 
+Defenders, 90 NW. U.L. REV. 1084, 1085 (1996) (“Miranda 
+causes the loss of roughly 3.8% of all criminal cases each 
+year and about an equal number of more lenient plea 
+bargains... .”); cf. R. Atkins & P. Rubin, Effects of Crimi- 
+nal Procedure on Crime Rates: Mapping Out the Conse- 
+quences of the Exclusionary Rule 22 (1998) (available at 
+<http://papers.ssrn.com/paper.taf?ABSTRACT_ID=140992>) 
+(“[T]he Supreme Court may have increased total crime 
+
+
+19 
+
+
+rates by 11% with its Miranda ruling.”).’ 
+
+
+Most of these studies have attributed the harms caused 
+by Miranda to the warning requirement itself, rather than 
+to the exclusionary rule. See, e.g., Cassell, supra, 90 Nw. U. 
+L. REV. at 392-94. The Government seizes upon this fact to 
+argue that, unless § 3501 is construed to eliminate the 
+warning requirement, the statute cannot ameliorate the 
+adverse effects of the decision. U.S. Br. at 32 n.23. The 
+Government’s position overlooks a second harm from the 
+Miranda regime, apart from the reduced ability of police to 
+obtain confessions in the first place. Specifically, Miranda’s 
+overbroad exclusionary rule unjustifiably increases the 
+risks that criminals will escape justice. As Justice White 
+
+
+Because Miranda has been the law of the land in all 50 States since 
+1966, it simply has not been possible to perform a rigorous statistical 
+comparison using an American control group in which Miranda does not 
+apply; the points of comparison must necessarily be with foreign 
+jurisdictions or with American jurisdictions in an earlier day and age. 
+Some defenders of Miranda have been quick to use this fact to take issue 
+with certain of Professor Cassell’s methods and conclusions. See, e.g., 
+S. Schulhofer, Miranda s Practical Effect: Substantial Benefits and 
+Vanishingly Small Social Costs, 90 Nw. U.L. REV. 500, 502 (1996). 
+Professor Cassell's extensive rejoinder to Professor Schulhofer's article 
+concludes that “Schulhofer indulges every presumption against harm 
+from Miranda” and applies a “one-sided methodology.” Cassell, supra, 
+90 Nw. U. L. REV. at 1086. Prof. Cassell has also noted that one of the 
+principal studies upon which Prof. Schulhofer relies has since been 
+shown to have been deeply flawed in its data collection. P. Cassell, 
+Miranda's “Negligible” Effect on Law Enforcement: Some Skeptical 
+Observations, 20 HARV. J.L. & PUB. POLICY 327, 330-32 (1997). Moreover, 
+the view that Miranda's costs have been dissipated by police 
+resourcefulness in adapting to the decision, Schulhofer, supra, 90 Nw. 
+U._L. REV. at 507-10, is fallacious: It would be akin to saying that, if 
+firefighters get very good at fighting blazes, fire should be deemed to 
+cause only “vanishingly small” costs, and we should not be concerned 
+about deliberately setting them. Cf. J. Donohue, Did Miranda Diminish 
+Police Effectiveness?, 50 STAN. L. REV. 1147, 1150-51 (1998) (noting that 
+this argument “implies that the real cost of Miranda likely is a resource 
+cost”; if the greater efforts needed to solve crimes under Miranda were 
+on the order of $4 billion, “then Miranda annually costs $4 billion,” even 
+if crime rates do not increase). 
+
+
+20 
+
+
+observed in his Miranda dissent, “[iJn some unknown 
+number of cases, the Court’s rule will return a killer, a 
+rapist or other criminal to the streets and to the environ- 
+ment which produced him, to repeat his crime whenever it 
+pleases him.” 384 U.S. at 542 (White, J., dissenting); see 
+also Davis, 512 U.S. at 465 (Scalia, J., concurring) (noting 
+that Miranda's exclusionary rule may have produced “the 
+acquittal and the nonprosecution of many dangerous felons, 
+enabling them to continue their depredations upon our 
+citizens“). 
+
+The academic commentary, even from Miranda's 
+detractors, has been largely dismissive of this concern, 
+concluding that the release of criminals due to a Miranda- 
+based suppression order is “quite rare.” P. Cassell, supra, 
+90 Nw. U. L. REV. at 392. The prevailing dismissive view is 
+based on studies which indicate that the rate at which 
+prosecutions fail because of Miranda’s suppression rule is 
+probably not greater than about 0.3% of cases. See id. at 
+392 & n.17 (data from study of San Diego and Jacksonville 
+arrests for burglary and robbery indicate that at most 0.3% 
+of cases “could be said to have been dropped because of 
+Miranda problems with the confession”) (citing F. FEENEY, 
+ET AL., ARRESTS WITHOUT CONVICTION: HOW OFTEN THEY 
+OCCUR AND WHY 144 (1983)). The Feeney study on which 
+this number is based included, not just cases in which 
+motions to suppress were filed, but also cases in which the 
+prosecution dropped the case without the need for a formal 
+motion. Id.“ For several reasons, these studies do not show 
+that Miranda’s exclusionary rule is “cost free.” 
+
+
+Even assuming that the numbers calculated in these 
+
+
+That perhaps explains why the dismissal rate found in this study is 
+almost four times higher than the dismissal rate in a study that focused 
+only on cases in which formal motions were actually filed. See P. Cassell, 
+supra, 90 Nw. U. L. REV. at 392 (citing P. Nardulli, The Societal Costs of 
+the Exclusionary Rule: An Empirical Assessment, 1983 AM. B. FOUND. 
+RES. J. 585, 601 (concluding that suppression orders led to dismissals in 
+0.071% of cases)). 
+
+
+21 
+
+
+studies are accurate, the relatively small percentage 
+numbers conceal a significant amount of crime. If one 
+extrapolates these rates across the entire criminal justice 
+system, the numbers are substantial. There were 259,500 
+arrests for burglary in the United States in 1997, and even 
+if only 0.3% of those cases were dropped because of Miran- 
+da’s exclusionary rule, that would still amount to almost 
+779 cases per year. See STATISTICAL ABSTRACT OF THE 
+UNITED STATES 222 (1999). If the same 0.3% rate applies 
+for more serious crimes such as aggravated assault, rob- 
+bery, or murder, that would translate into more than 1500 
+violent-crime cases that would have been dropped in a 
+single year because of the Miranda decision (1210 assault 
+cases, 356 robbery cases, and 42 murder cases). Id.‘ 
+Indeed, about 15% of prosecutor’s offices in any given year 
+report experiencing dismissals of cases based on Miranda 
+problems. See Cassell, supra, 90 NW. U.L. REV. at 393 & 
+n.18 (citing BUREAU OF JUSTICE STATISTICS, U.S. DEP’T OF 
+JUSTICE, PROSECUTORS IN STATE COURTS, 1992, at 6 (1993)). 
+Thus, the supposedly “small” percentage of Miranda-based 
+dismissals suggests that there are thousands of victims of 
+crime who are denied justice each year in the United States 
+because of Miranda’s overbroad exclusionary rule. The 
+point can be vividly made by considering another seemingly 
+“small” percentage: Approximately 0.3% of all Americans 
+died of heart disease in 1997, see STATISTICAL ABSTRACT OF 
+THE UNITED STATES 99 (1999), but this “small” percentage 
+could hardly be thought to establish that that problem is 
+insignificant. : 
+
+Moreover, the small percentages reflected in the above- 
+cited studies are misleading because they are based upon 
+
+
+The actual impact of Miranda, of course, would be expected to differ 
+from crime to crime; some may have a rate higher than 0.3%, and some 
+may have less. The police and prosecution, for example, may be more 
+willing to drop a burglary case with a tainted confession than a murder 
+case. In such cases, the full costs of Miranda's exclusionary rule include, 
+not just dropped cases, but the additional expenditure of resources. 
+
+
+22 
+
+
+all cases, without regard to whether a confession was even 
+obtained. In evaluating the efficacy of a rule, however, it 
+makes sense to focus one’s attention on the cases in which 
+the rule is actually called into play. Stating that Miranda 
+affects only 0.3% of all cases is a little like saying that 
+smoke alarms “affect” only a tiny percentage of all homes 
+on any given day (including those that don’t experience a 
+fire that day). Rather, the question is whether Miranda 
+affects the outcome of those cases in which it is applied, i.e., 
+those cases in which confessions are challenged. That 
+percentage is necessarily higher, and the effects of Miranda 
+in such cases are unquestionably significant. 
+
+
+The available empirical evidence confirms what is 
+obvious to anyone who has worked in the criminal justice 
+system: The vast majority of Miranda suppression orders 
+involve statements that are “voluntary” under a traditional 
+Fifth Amendment/Due Process analysis. See, e.g., Cassell, 
+supra, 90 Nw. U.L. Rev. at 393 n.24 (summarizing evidence 
+and concluding that “generally coerced confessions are quite 
+rare”). That was certainly the experience of the under- 
+signed counsel of record, who has previously noted, based 
+on his service as an Assistant United States Attorney, that 
+a judicial finding of involuntariness is “very rare.” 
+D. Collins, Farewell Miranda?, 1995 PUB. INT. L. REV. 185, 
+193 n.19 (reviewing J. GRANO, CONFESSIONS, TRUTH, AND 
+THE LAW (1993)). Thus, the shift from a “voluntariness” 
+exclusionary rule to Miranda's exclusionary rule is the 
+single determining factor in the significant majority of cases 
+in which such suppression motions are granted. 
+
+
+Moreover, the statistical studies that have been con- 
+ducted indicate that motions to suppress confessions are 
+filed in approximately 1% to 6.6% of cases and are granted 
+in anywhere from 2% to 50% of those cases, depending upon 
+the jurisdiction and the time period studied. See P. Cassell 
+& B. Hayman, supra, 43 U.C.L.A. L. REV. at 890 & n.243 
+(collecting studies). Although the resulting percentage of 
+all cases in which Miranda's exclusionary rule eliminates 
+
+
+23 
+
+
+a confession is less than 1%, the range of numbers found in 
+these studies suggest that that rule has certainly had a 
+significant impact on the disposition of suppression motions 
+in particular jurisdictions. The remarkable suppression 
+rate of 50% found in one study indicates a very substantial 
+impact in some places. Id. (citing FEENEY, supra, at 144). 
+
+
+Additionally, Miranda's exclusionary rule undoubtedly 
+has adverse effects beyond the complete dismissal of certain 
+cases. Even if most of the cases in which suppression 
+motions are granted are not ultimately dismissed, the 
+exclusion of such highly probative evidence undoubtedly 
+increases the likelihood of a disposition that is more 
+favorable to the defendant—whether by acquittal or by a 
+plea bargain on more favorable terms. One study, for 
+example, found that the granting of a motion to suppress a 
+confession had the effect of reducing the conviction rate in 
+one jurisdiction from 94.1% to 66.7% (although the raw 
+numbers in the study were apparently too small to permit 
+a finding of statistical significance). See P. Nardulli, The 
+Societal Costs of the Exclusionary Rule Revisited, 1987 U. 
+III. L. Rev. 223, 233 (Table 8). 
+
+
+Accordingly, even taking into account all of the limita- 
+tions in the available evidence, it is clear that Miranda's 
+exclusionary rule operates to exclude voluntary confessions 
+in thousands of cases each year; that many of these cases 
+are dismissed as a consequence; and that there are adverse 
+effects on the disposition of many of the remaining cases. 
+Numbers, however, do not tell the whole story. One must 
+not lose sight of the fact that these “small” percentages 
+conceal individual injustices. Even some of Miranda's 
+staunchest defenders concede that “the release of only one 
+guilty murderer or rapist is one too many. A single case of 
+that sort must be counted as a substantial social cost, if the 
+rules requiring that disposition are unjustified and if the 
+harm they cause is avoidable.” Schulhofer, supra, 90 NW. 
+U.L. REV. at 502. Thus, even if the impact of Miranda's 
+exclusionary rule were only felt in a small number of cases, 
+
+
+24 
+
+
+the sometimes grave individual injustices created by the 
+mindless inflexibility of that overbroad rule are intolerable. 
+It is one thing for the courts to set a possibly guilty person 
+free so that the constitutional right against compulsory self- 
+incrimination is not violated; the Constitution expresses our 
+Nation's belief that the unreliability and cruelty of coerced 
+confessions have no place in our system. But it is quite 
+another for the courts—in the name of a “prophylactic” 
+rule—to systematically release guilty persons who have 
+voluntarily given reliable confessions and whose constitu- 
+tional rights have not been violated at all. Adherence to 
+such a rigid exclusionary rule simply cannot be justified on 
+the ground that it is required by the Constitution. See 
+Roberson, 486 U.S. at 688 (Kennedy, J., dissenting) (“[T]he 
+rule of Edwards is our rule, not a constitutional command; 
+and it is our obligation to justify its expansion.”). 
+
+
+Undoubtedly many examples can be given of the 
+injustices wrought by Miranda's exclusionary rule, but a 
+few will suffice to bring home the point that the effect of the 
+rule is ultimately borne by crime victims. The persons 
+harmed by Miranda's inflexible rule include the victims of 
+the various crimes that go unpunished as a result; the 
+victims who must suffer through retrials after Miranda- 
+based reversals; the victims who see lighter sentences 
+meted out because the case had to be “plea-bargained” due 
+to a Miranda-based confession problem, and, significantly, 
+the victims of future crimes committed by recidivist benefi- 
+ciaries of Miranda. 
+
+
+One of the many casualties of Miranda's harsh rule of 
+exclusion is found in the State of Arizona's effort to convict 
+the murderer of Dawn Dearing, a Tucson woman savagely 
+
+
+Studies have consistently shown that arrestees with prior felony 
+records are somewhat more likely to invoke their rights under Miranda 
+than are those who lack a criminal record. P. Cassell & B. Hayman, 
+supra, 43 U. CLA. L. REV. at 895-96. It is reasonable to conclude, 
+therefore, that a disproportionate number of cases in which suppression 
+
+
+25 
+
+
+beaten, sexually assaulted, and eventually murdered in her 
+apartment. Among other atrocities committed on Ms. 
+Dearing, a hot curling iron and the handle from a knife 
+were found forced into her vagina. Tucson police received 
+a tip pointing to Toribio Rodriguez, a former neighbor of 
+Ms. Dearing’s. While attempting to obtain fingerprint and 
+blood samples pursuant to a court order, the police started 
+to question Rodriguez; he made several incriminating 
+statements, and he was arrested, tried, and ultimately 
+convicted for Ms. Dearing’s murder. The Arizona Supreme 
+Court, however, determined that Rodriguez had been in 
+custody when the police questioned him and therefore 
+voided his conviction and sentence. State v. Rodriguez, 186 
+Ariz. 240, 245-47 (1996). By invoking Miranda as its sole 
+ground for setting aside this initial conviction—the other 
+nine points raised by Rodriguez were expressly 
+rejected—the Arizona Supreme Court set in motion a series 
+of retrials that have dragged on for several years.“ 
+
+
+As noted earlier, the costs of Miranda’s exclusionary 
+rule consist not only of those cases in which defendants 
+escape justice altogether, but also of those in which the 
+State and the victim or the victim’s family must endure the 
+burden of unnecessary retrials. A good example of the 
+latter is the State of Connecticut's efforts to convict John 
+Hoeplinger for the bludgeoning and strangulation of his 
+wife in 1982. At his first trial, Hoeplinger was convicted of 
+first degree manslaughter, but the conviction was reversed 
+by the Connecticut Supreme Court on Miranda grounds. 
+State v. Hoeplinger, 206 Conn. 278, 537 A.2d 1010 (1988). 
+His second trial, at which he was again convicted, “lasted 
+
+
+Rodriguez was tried and convicted a second time in 1996, but that 
+conviction was reversed based on an instructional error related to the 
+alibi defense he sought to present at that trial. State v. Rodriguez, 192 
+Ariz. 58, 961 P.2d 1006 (1998). A third trial last year resulted in a hung 
+jury, and the State bas announced its intention to retry Rodriguez a 
+fourth time. See “No Verdict in Third Mutilation-Murder Trial.“ A. P. 
+State & Local Wire (June 9, 1999) (available on LEXIS). 
+
+
+more than four weeks,” involved Imlore than 250 exhibits,” 
+and required lengthy and extensive testimony by numerous 
+expert witnesses “regarding sophisticated forensic analyses, 
+including blood spatter analysis” and other expert testi- 
+mony. State v. Hoeplinger, 27 Conn. App. 643, 644, 609 
+A.2d 1015, 1016 (1992). 
+
+
+Another troubling case involves Missouri's prosecution 
+of Roy Oldham. While on probation for the molestation of 
+one child, Oldham was picked up on suspicion of molesting 
+a second child. The Missouri Supreme Court, laboring 
+under the compulsion of Miranda's categorical rule of 
+exclusion, overturned Oldham’s conviction for the second 
+molestation because Oldham had said he wanted to talk to 
+the lawyer who represented him on the first charge. State 
+v. Oldham, 618 S.W.2d 647, 648-49 (Mo. 1981). 
+
+
+And there is also the case of Barry Braeseke, who 
+confessed to firing multiple rifle shots into his mother, 
+father, and grandfather, because he wanted to clear the way 
+to his inheritance. During questioning at the station house, 
+Braeseke indicated he wanted to talk to a lawyer. Officers 
+stopped questioning Braeseke and took him to be booked. 
+When asked to identify his next of kin, Braeseke asked an 
+officer if he could speak “off the record.” Braeseke pro- 
+ceeded to ask a series of “hypothetical” questions about 
+what would happen if he confessed to the killings. The 
+officer told him he would appreciate any information the 
+Braeseke might provide but that it would be better for the 
+statement to be recorded. Braeseke decided to give the 
+police a recorded statement. At the beginning of the tape, 
+he said he was testifying of his free will and that he did not 
+want to have a lawyer present. He then confessed to the 
+killings. The California Supreme Court, however, held the 
+officers had violated Braeseke's rights under Miranda by 
+interviewing him. People v. Braeseke, 25 Cal. 3d 691, 602 
+P.2d 384 (1979), vacated, 446 U.S. 932, judgment reinstated, 
+28 Cal. 3d 86, 618 P.2d 149 (1980), cert. denied, 451 U.S. 
+1021 (1981). 
+
+
+— ee - 
+
+
+— — 
+
+
+27 
+
+
+Of course, the cases reported in published appellate 
+reports are just the tip of an iceberg. Far more frequently. 
+guilty individuals are never held accountable for their 
+crimes, either because prosecutors, knowing that Miranda 
+will bar introduction of the most relevant piece of testimony 
+(and often their only evidence directly linking the suspect 
+to the crime), decline to bring charges in the first place; or 
+because judges, constrained by the exclusionary rule, throw 
+the case out at the pretrial stage. 
+
+
+A horrific example of the latter situation involves the 
+1984 murder of Denise Hubbard Sanders. Ms. Sanders was 
+shot in the head at point-blank range by Ronnie Gaspard, 
+a member of the “Bandidos” motorcycle gang in Fort Worth, 
+Texas. Gaspard confessed to having pulled the trigger in 
+the execution-style killing because Ms. Sanders had been 
+courageous enough to testify in an earlier case to the gang's 
+drug-trafficking activity. Because Gaspard had the fortuity 
+of having a lawyer assigned to him when he entered the 
+jailhouse—and notwithstanding Gaspard’s subsequent 
+waiver of his right to see a lawyer—a judge felt compelled 
+by Edwards to strike the confession. Gaspard was reported 
+to have walked out of the courtroom that day with a “big 
+smirky grin” on his face. Dept. of Justice Office of Legal 
+Policy, Report to the Attorney General on the Law of Pretrial 
+Interrogation, reprinted in 22 U. MICH. J.L. REFORM 437, 
+571-72 (1989). 
+
+
+These real-life cases vividly demonstrate the drastic 
+consequences of Miranda's per se rule of exclusion. The 
+draconian impact of Miranda's exclusionary rule strikes at 
+the heart of a sovereign society's unquestioned right “to 
+articulate societal norms through criminal law/.]” 
+McCleskey v. Zant, 499 U.S. 467, 491 (1991). 
+
+
+3. The Other Stare Decisis Factors Weigh Heavily 
+Against Miranda’s Exclusionary Rule 
+
+
+The Government and Petitioner also invoke stare decisis 
+on the ground that Miranda's sweeping exclusionary rule 
+
+
+28 
+
+
+has engendered reliance and has proven to be workable. 
+Petr.’s Br. at 31-34; U.S. Br. at 31-38. None of these 
+contentions has merit. 
+
+
+This Court has observed on numerous occasions that 
+“[c]onsiderations in favor of stare decisis are at their acme 
+in cases involving property and contract rights, where 
+reliance interests are involved; the opposite is true in cases 
+such as the present one involving procedural and eviden- 
+tiary rules.” Payne v. Tennessee, 501 U.S. at 828 (internal 
+citations omitted); United States v. Title Ins. & Trust Co., 
+265 U.S. 472, 486 (1924). In this case, the Government and 
+Petitioner argue that a generation or more has grown 
+accustamed to the Miranda regime and that disturbing any 
+part of that regime would greatly harm society. The 
+parties, however, focus on the wrong argument: Because 
+§ 3501 does not set aside the warning requirement, any 
+reliance interests in that requirement are irrelevant.’ The 
+parties have failed to explain what kind of “harm” society 
+would in fact experience from application of the exclus- 
+ionary rule only in those instances where a constitutional 
+violation actually occurred. The fact that a generation has 
+become familiar with the Miranda warnings simply does 
+not mean that individuals have actually relied on the 
+exclusionary rule in ordering their lives. See Casey, 505 
+U.S. at 855 (“The inquiry into reliance counts the cost of a 
+rule's repudiation as it would fall on those who have relied 
+reasonably on the rule’s continued application.”). 
+
+
+The parties and their amici also labor mightily to 
+shoehorn this case into the extremely small category of 
+“watershed decision(s],” which they contend should not be 
+reexamined absent “the most compelling reason.” See 
+
+
+In any event, the asserted reliance interests are overblown. Reliance 
+presumes knowledge, and it therefore makes no sense to speak of a 
+suspect “relying” on being told his or her rights. There is also, of course, 
+the reliance of screenwriters who would have to make the inevitable 
+changes to television and movie scripts if the warnings were modified, 
+but that interest seems entitled to little weight. 
+
+
+Petr.’s Br. at 44-45; U.S. Br. at 49-50. This rhetoric is 
+misplaced here because, as already noted, this case does not 
+require the Court to reconsider the authority for announc- 
+ing the Miranda warnings or even to reconsider the warn- 
+ings themselves. Rather, this case concerns only the scope 
+of Miranda's exclusionary rule—a rule this Court already 
+has revisited and cabined numerous times. See Harris; 
+Tucker; Quarles; Elstad. The Court’s own precedents 
+therefore belie the parties’ claim that Miranda’s exclu- 
+sionary rule enjoys a heightened immunity from reconsider- 
+ation. 
+
+
+More fundamentally, the parties’ effort to analogize this 
+case to this Court’s decision in Casey founders on its own 
+terms. The Casey Court itself recognized only two decisions 
+from the last half-century as falling into the class of 
+“watershed decision(s]” that it suggested might require “the 
+most compelling reason” for reexamination—-and Miranda 
+was not one of them. See Casey, 505 U.S. at £67 (“The 
+Court is not asked to [issue such a decision] very often, 
+having thus addressed the Nation only twice in our lifetime, 
+in the decisions of Brown [v. Board of Educ., 347 U.S. 483 
+(1954 ]. and Roe [v. Wade, 410 U.S. 113 (1973)].”) (emphasis 
+added). Miranda's absence from this list can hardly be 
+considered inadvertent. Indeed, the comparison to Casey 
+fails on its own terms: Whatever the initial opposition to 
+Miranda in 1966, it most assuredly is not true that, since 
+then, “pressure to overrule the decision, like pressure to 
+retain it, has grown only more intense.” Jd. at 869. Indeed, 
+the not-so-benign neglect of 18 U.S.C. § 3501 by the Depart- 
+ment of Justice makes clear how little institutional pres- 
+sure has been placed on this Court on this issue. The 
+parties’ reliance on stare decisis rings hollow. 
+
+
+30 
+
+
+CONCLUSION 
+
+
+The judgment of the United States Court of Appeals for 
+the Fourth Circuit should be affirmed. 
+
+
+Dated: March 9, 2000 Respectfully submitted, 
+
+
+KRISTIN LINSLEY MYLES DANIEL P. COLLINS 
+KELLY M. KLAUS Counsel of Record 
+AVITAL T. ZER-ILAN MUNGER, TOLLES & OLSON LLP 
+
+
+MUNGER, TOLLES &OLSONLLP 355 South Grand Avenue 
+33 New Montgomery Street Los Angeles, CA 90071 
+San Francisco, CA 94105 (213) 683-9100 
+
+
+(425) 613-4000 Counsel for Amici Curiae 
+Of Counsel: 
+David Castro 
+Genera! Counsel 
+Center for the Community 
+Interest 
+114 East 32 Street, Suite 604 
+New York, NY 10016 
+(212) 689-6080 
+
+

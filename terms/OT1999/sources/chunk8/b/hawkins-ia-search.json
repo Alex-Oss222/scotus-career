@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":197,"params":{"query":"collection:us-supreme-court AND title:(Hawkins AND Freeman)","qin":"collection:us-supreme-court AND title:(Hawkins AND Freeman)","fields":"identifier,title","wt":"json","rows":100,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

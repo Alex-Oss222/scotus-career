@@ -1,0 +1,3276 @@
+, «JUL 28 1995 
+CLERK 
+
+
+No. 98-1949 
+
+
+a 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+LORI PEGRAM, M.D., CARLE CLINIC ASSOCIATION 
+and HEALTH ALLIANCE MEDICAL PLANS, INC., 
+
+
+Petitioners, 
+v. 
+CYNTHIA HERDRICH, 
+
+
+Respondent. 
+
+
+On PETITION FOR A Writ OF CERTIORARI TO THE 
+Unitrep STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT 
+
+
+RESPONDENT?’S BRIEF IN OPPOSITION 
+
+
+James P. GINZKEY 
+Counsel of Record 
+Hayes, HAMMER, MILEs, 
+Cox & GINZKEY 
+Attorneys for Respondent 
+202 North Center Street 
+Bloomington, Illinois 61701 
+(309) 828-7331 
+
+
+154154 @) Counsel Press LLC 
+FORMERLY LUTZ APPELLATE SERVICES 
+(800) 274-3321 + (800) 359-6859 
+
+
+= 
+
+
+i 
+PARTIES TO THE PROCEEDING 
+
+
+Carle Clinic Association, P.C. is an Illinois professional 
+corporation comprised of licensed physicians, dentists and 
+podiatrists. Health Alliance Medical Plans, Inc. is a for-profit 
+Illinois domestic stock insurance company and is a wholly- 
+owned subsidiary of Carle Clinic Association, P.C. 
+(App. 42a). Carle Health Insurance Management Company 
+is a for-profit Illinois corporation and is a wholly-owned 
+subsidiary of Carle Clinic Association, P.C. (App. 42a). 
+
+
+These three entities file consolidated income tax returns. 
+(App. 44a). Pursuant to Article III, Section 2 of Health 
+Alliance’s corporate by-laws, an appointment to the Board 
+of Governors of Carle Clinic Association, P.C. results in an 
+automatic appointment to the Board of Directors of Health 
+Alliance. (App. 45a). 
+
+
+il 
+
+
+TABLE OF CONTENTS 
+
+
+Parties to the Proceeding 
+
+
+Table of Contents 
+
+
+Table of Appendices 
+
+
+"VVUCeCeSCeeesee eee e eee 68 ee eee a 
+
+
+Statement of the Case 
+
+
+eeeoevcoevoecoeoeoeeeeeeeeeeeeeees 
+
+
+A. The Petition Mischaracterizes the Ruling of 
+
+
+the Court of Appeals ................... 
+
+
+B. The Petition Mischaracterizes the Allegations 
+of the Amended Complaint .............. 
+
+
+Reasons for Denying the Writ ................. 
+I. The Petition Overstates The Importance Of 
+The Narrow Holding Below, Which Does Not 
+Squarely Present The Question On Which 
+sepvenwr Bb GOMER. «oo ick ccceenciueee 
+
+
+A. Petitioners Failed To Preserve Their 
+Arguments In The Courts Below ..... 
+
+
+B. Due to the Procedural Posture and 
+Incomplete Record, This Case is Not An 
+Appropriate Vehicle to Resolve This 
+Highly Fact-Specific Issue .......... 
+
+
+[es eeeseeee eee ean 8 6 8 8 6 6 OG 
+
+
+ll 
+
+
+13 
+
+
+13 
+
+
+14 
+
+
+iii 
+Contents 
+
+
+C. Court of Appeals’ Decision Does Not 
+Equate Medical Malpractice With 
+
+
+Breach of Fiduciary Duty ........... 
+
+
+j isi Not 
+Il. Court Of Appeals’ Decision Does 
+Conflict With The Decisions Of This Court, 
+
+
+Nor With The Decisions Of Other Courts. .. 
+
+
+A. Court of Appeals’ Decision Complements, 
+Rather Than Abrogates, Legislation 
+Enabling Health Maintenance 
+
+
+Organizations ...........+++++: 
+
+
+B. Petitioners are Clearly Fiduciaries Under 
+ESE EEE OPTI TT TIT TILT 
+
+
+nn ng ccc ccc ceeeececcscesccococe 
+
+
+Page 
+
+
+17 
+
+
+18 
+
+
+18 
+
+
+19 
+
+
+21 
+
+
+iv 
+
+
+TABLE OF CITED AUTHORITIES 
+
+
+Page 
+Cases: 
+Biomet v. Black, _F. Supp.2d __,(N.D. Ind. 1999) 
+$ouscvedesepevnuecescuseutadssenasasenun 20 
+District of Columbia v. Greater Washington Bd. of 
+Trade, 506 U.S. 125, 113 S. Ct. 580, 121 L. Ed. 
+SPD édeveuucenéeuhsaeeeee 11,12 
+Health Cost Controls v. Bichanich, 968 F. Supp. 396 
+bs SEE enn nddedadeowseeaesees: 29 
+Hughes Aircraft Co. v. Jacobson, US.  ,119S. 
+Cd TENT cusecexsatenadsvbaddaadeccss 19, 20 
+Ingersoll-Rand Co. v. McClendon, 498 U.S. 133, 111 
+S. Ct. 478, 112 L. Ed. 2d 474 (1990) .......... 12 
+Lockheed Corp. v. Spink, 517 U.S. 882, 116 S. Ct. 
+SUPE 644000. 64udeendsdsneeacasiie 19, 20 
+Moralis v. Health Plus, Inc., 954 F. Supp. 464 
+es GN va.¢nneeducntaanuceedsenenues 21 
+O'Reilly v. Ceuleers, 912 F.2d 1383 (11th Cir. 1990) 
+:edesedenesseseveedvestesesersdeedesdou 21 
+Weiss v. CIGNA Healthcare, Inc., 972 F. Supp. 748 
+Se CED 0808000sk0 206 0cnelsaeneene 6,7 
+
+
+v 
+Cited Authorities 
+
+Page 
+Statutes: 
+28 U.S.C. § 1367 .... ccc cece ec eccceecccnees 2 
+29 U.S.C. § 1002(1) «1... eee eee ee eee eerie 12 
+29 U.S.C. § 1002(21 MA)... . 6. eee eee eee eee 12 
+29 U.S.C. § TIO] 2... cece eee eee ee eens 2 
+29 U.S.C. § 1104(a) .. 2... cece eee eee eee en eees 12 
+42 U.S.C. § 300(e) .. 1... cee cece e eee eees 13, 14, 18 
+815 ILCS 505/1 ef seq. ... 62-2 e cece ec eeeeeees 2 
+Other Authorities: 
+42 C.F.R. § 417.479 ..... 62 ee eee eee: 13, 14, 18, 19 
+61 Fed. Reg. 13432 (March 1996) .........--+-- 16 
+
+
+American Medical Association, Principles of 
+Medical Ethics (1994) .... 2... 6-2 eee eee eenee 6 
+
+
+Chairman of the House Committee on Education and 
+Labor, 120 Cong. Rec. 3977 (February 25, 1974), 
+reprinted .. 1... 6... cece eee e eee e eens aneee 12 
+
+
+2 Legislative History of the Employee Retirement 
+Income Security Act of 1974, 3293 ........... 12 
+
+
+vi 
+
+
+Cited Authorities 
+
+
+hitp://www.canceronline. org/009-the-ideal.himl . . 
+
+
+http://www. humana.com/investor/] 998annual/ 
+letter.himl 
+
+
+http://www. kaiserpermanente. org/healthplans/ 
+doctorshands. html 
+
+
+http://www. kaiserpermanente. org/newsroom/ 
+structure. himl 
+
+
+"ee ee eeees 
+,eeeeeeeeeeae eee eee eb es 
+
+
+United States Department of Health & Human 
+Services, /ncentive Arrangements Offered by 
+Health Maintenance Organizations and 
+Competitive Medical Plans to Physicians ...... 
+
+United States General Accounting Office, GAO/ 
+HRD-94-93, Managed Healthcare Effect on 
+Employers’ Costs Difficult to Measure (1993) .. 
+
+
+Page 
+16 
+
+
+17 
+
+
+16 
+
+
+16 
+
+
+15 
+
+
+15 
+
+
+vil 
+
+
+TABLE OF APPENDICES 
+
+
+Appendix A — Order Of The United States District 
+Court For The Central District Of Illinois, Peoria 
+Division Dated And Filed May 13, 1996 ...... 
+
+
+Appendix B — Order Of The United States District 
+Court For The Central District Of Illinois, Peoria 
+Division Dated And Filed July 25, 1995 ....... 
+
+
+Appendix C — Memorandum In Opposition To 
+Plaintiff's Motion To Remand ............... 
+
+
+Appendix D — Annual Statement Of Health Alliance 
+Dietiees Fiemme, BRR. 2c ccccccccsccccesccessss 
+
+
+Appendix E — Part 1 — Organizational Chart .... 
+
+
+Appendix F — Notes To Financial Statements 
+Of Health Alliance Medical Plans, Inc. ........ 
+
+
+Appendix G — Minutes Of April 6, 1992 Of 
+The Annual Meeting Of Health Alliance 
+DGeGions Pham, BRB. oc cccccccccccccccccccce 
+
+
+Page 
+
+
+la 
+
+
+Sa 
+
+
+23a 
+
+
+38a 
+
+
+42a 
+
+
+43a 
+
+
+45a 
+
+
+l 
+
+
+STATEMENT OF THE CASE 
+
+
+In March of 1991, petitioner Lori Pegram, respondent 
+Cynthia Herdrich’s doctor, discovered a 6 x 8 centimeter 
+“mass” (later determined to be her appendix) in respondent’s 
+abdomen. 154 F.3d 362, 374. Although the mass was 
+inflamed on March 7, Pegram delayed instituting immediate 
+treatment of Herdrich, and forced her to wait more than one 
+week (eight days) to obtain the accepted diagnostic procedure 
+(ultrasound) used to determine the nature, size and exact 
+location of the mass. Ideally, Herdrich should have had the 
+ultrasound administered with all speed after the inflamed 
+mass was discovered in her abdomen in order that her 
+condition could be diagnosed and treated before deteriorating 
+as it did, but respondents’ policy requires plan participants 
+to receive medical care from Carle-staff facilities. /d. 
+Respondent was forced to wait the eight days before 
+undergoing the ultrasound at a Carle facility in Urbana, 
+Illinois. During this unnecessary waiting period, Herdrich’s 
+health problems were exacerbated and her appendix ruptured, 
+resulting in the onset of peritonitis. In an effort to defray the 
+increased costs associated with the surgery required to drain 
+and cleanse Herdrich’s ruptured appendix, Carle insisted that 
+she have the procedure performed at its own Urbana facility, 
+necessitating that Herdrich travel more than fifty miles from 
+her neighborhood hospital in Bloomington, Illinois. /d. 
+
+
+Respondent Herdrich filed a two count complaint in State 
+court on October 21, 1992. (App. 5a). Count I alleged medical 
+negligence against petitioner Lori Pegram for failing to 
+adequately examine, treat, and follow-up on respondent’s 
+complaint of right, lower quadrant pain. She claimed that 
+Pegram’s failure to employ the skill and care ordinarily used 
+by a reasonably well-qualified physician resulted in a 
+
+
+2 
+
+
+ruptured appendix, which caused peritonitis. Count II sought 
+to hold Carle Clinic Association liable under the theory of 
+respondeat superior. Pegram and Carle Clinic filed an 
+Answer to the State court complaint on December 8, 1992. 
+
+
+(App. 6a). 
+
+
+Because it appeared that all the decisions as to 
+respondent’s treatment could be explained on the basis of 
+petitioners’ profit motive, respondent filed an addendum to 
+her State court complaint in February 1994, adding Counts 
+Ill and IV. Count III alleged that Carle Clinic failed to 
+disclose certain material facts regarding the ownership of 
+Health Alliance Medical Plans in violation of the Illinois 
+Consumer Fraud Act, 815 ILCS 505/1 et seg. Count IV 
+charged Health Alliance breached its duty of good faith and 
+fair dealing. (App. 6a). 
+
+
+The petitioners filed a Notice of Removal on March 14, 
+1994, asserting that Counts III and IV were preempted by 
+the Employees Retirement Income Security Act (“ERISA”), 
+29 U.S.C. § 1101, and that the pendant state claims set forth 
+in Counts I and II were removable pursuant to 28 U.S.C. 
+§ 1367. Respondent filed a Motion to Remand on April 8, 
+1994. (App. 6a). 
+
+
+In opposition to the Motion to Remand, petitioners 
+argued that Counts III and IV related to the administration 
+of a Plan and were thus preempted under ERISA. 
+Specifically, petitioners set forth a Synopsis of Relevant 
+Facts which stated that Herdrich was a participant and 
+beneficiary in an employee benefit plan (“the Plan”) provided 
+to her through her husband’s employer, State Farm Insurance 
+Companies. Petitioner’s factual synopsis also asserted that 
+Health Alliance was the administrator and fiduciary of the 
+
+
+ee ae ae ten ee ee ne oe oceans 
+
+
+3 
+
+
+Plan. In their memorandum in opposition to respondent’s 
+motion to remand, petitioners stated: 
+
+
+The plaintiff, Cynthia Herdrich, was a participant 
+and beneficiary in an employee benefit plan (“the 
+Plan”) provided to her by her husband’s employer, 
+State Farm Insurance Companies. Defendant, 
+Health Alliance Medical Plans, Inc. (“Health 
+Alliance”) was the administrator and fiduciary 
+of the Plan within the meaning of ERISA (29 
+U.S.C. Section 1001 et seq.) 
+
+
+(App. 24a). 
+
+
+In the case now before this Court, it is clear that 
+the plaintiff’s claims relate to the Plan 
+administered by Health Alliance. The relationship 
+between the plaintiff and Health Alliance arose 
+solely from the Plan. But for the existence of the 
+Plan, Cynthia Herdrich’s participation in that 
+Plan and Health Alliance’s serving as 
+administrator/fiduciary of that Plan, there would 
+be no relationship whatsoever between Cynthia 
+Herdrich and Health Alliance and thus no 
+lawsuit. 
+
+
+(Emphasis added) (App. 36a). 
+
+
+This case was initially filed in state court. It was 
+petitioners that sought and obtained removal to federal court. 
+It was petitioners that sought and obtained a ruling that they 
+were fiduciaries under ERISA. It was petitioners that sought 
+
+
+4 
+
+
+and obtained a ruling that ERISA governs this action. After 
+seeking and obtaining these rulings, petitioners now argue 
+that they are not fiduciaries, and that this action should not 
+be governed by ERISA. 
+
+
+A. The Petition Mischaracterizes the Ruling of the Court 
+of Appeals 
+
+
+Petitioners argue that the Court of Appeals “determined 
+that the bare allegations that petitioners implemented cost- 
+containment mechanisms that included potential rewards for 
+physicians based on the Plan’s financial performance sufficed 
+to state an ERISA claim for breach of fiduciary duty.” (Pet. 
+7, 9) Petitioners further assert that the “issue in this case is 
+whether employer-sponsored health plans governed by 
+ERISA may use the commonplace mechanisms for financing 
+and delivering health care for their participants and 
+beneficiaries,” (Pet. 14) and that, if the Court of Appeals’ 
+decision is accepted, then “the principal organizational forms 
+through which medical care is delivered today are unlawful.” 
+(Pet. 15). 
+
+
+These arguments completely mischaracterize the ruling 
+the Court of Appeals. The Court of Appeals explicitly stated 
+that its decision does mot stand for the proposition that the 
+existence of incentives automatically gives rise to a breach 
+of fiduciary duty: 
+
+
+The dissent disagrees with this aspect of today’s 
+holding, which it characterizes as concluding that 
+“the mere existence of this asserted conflict [i.e., 
+the conflict between the incentive scheme for 
+Carle doctors to limit medical care and treatment, 
+on the one hand, and the fiduciary duty of Carle 
+
+
+ee ee er ee ea ee 
+
+
+ow pe ee Fre 
+
+
+a ee 
+
+
+er . 
+
+
+SO SO ee poe bee 
+
+
+5 
+
+
+to the beneficiaries, on the other], without more, 
+gives rise to a cause of action for breach of 
+fiduciary duty under ERISA.” That is not the 
+conclusion we reach. Our decision does not 
+stand for the proposition that the existence of 
+incentives automatically gives rise to a breach 
+of fiduciary duty. Rather, we hold that incentives 
+can rise to the level of a breach where, as pleaded 
+here, the fiduciary trust between plan participants 
+and plan fiduciaries no longer exists (i.e., where 
+physicians delay providing necessary treatment 
+to, or withhold administering proper care to, plan 
+beneficiaries for the sole purpose of increasing 
+their bonuses.) 
+
+
+154 F.3d 362 at 373 (emphasis added). The Court of Appeals 
+went on to say: 
+
+
+The dissent also stresses that ERISA allows 
+fiduciaries to adopt dual loyalties, and that 
+maintaining dual loyalties does not in itself 
+constitute a breach of fiduciary duty. We do not 
+disagree with this contention, for it is well 
+established that dual loyalties are tolerated under 
+ERISA. See, e.g., Donovan v. Bierwirth, 538 F. 
+Supp. 463, 468 (E.D.N.Y. 1981). Our point is not 
+that a fiduciary may not have dual loyalties; it is 
+that the tolerance of dual loyalties does not extend 
+to the situation like the case before us where a 
+fiduciary jettisons his responsibility to the 
+physical well-being of beneficiaries in favor of 
+“loyalty” to his own financial interests. Tolerance, 
+in other words, has its limits. 
+
+
+Id. 
+
+
+6 
+
+
+Petitioners also argue that the Court of Appeals stretched 
+“the definition of a ‘fiduciary’ under ERISA,” in order to 
+hold that “health plans which include incentives to health 
+care providers to contain costs are unlawful.” (Pet. 9). Not 
+only do these arguments mischaracterize the ruling of the 
+Court of Appeals, they also completely ignore the fact that 
+petitioners removed this case to federal court; that petitioners 
+claimed to be fiduciaries under ERISA; and that petitioners 
+argued that this case was governed by ERISA. Petitioners, 
+at this point, are essentially arguing with themselves. 
+Petitioners invoked federal jurisdiction and argued ERISA 
+preemption in order to vitiate respondent’s common law and 
+statutory claims. After having been accommodated in their 
+requests, petitioners are now arguing that they are not FRISA 
+fiduciaries and that this action is not governed by ERISA! 
+
+
+Petitioners further argue that it is ironic that this ruling 
+involves a physician-owned HMO because physicians cannot 
+allow financial incentives to hinder patient care in light of 
+the American Medical Association’s Principles of Medical 
+Ethics (1994). (Pet. 10). This argument firstly assumes that 
+petitioners adhere to the AMA’s principles of medical ethics, 
+a fact upon which there has been no proof. But more 
+importantly, the courts examining this issue have not found 
+that the AMA’s proscriptions afford patients adequate 
+protection. In Weiss v. CIGNA Healthcare, Inc., 972 F. Supp. 
+748 (D.C.N.Y. 1997) the court held that an HMO’s “gag 
+order” violated ERISA’s fiduciary duties and stated: 
+
+
+It is true that a physician has an independent duty 
+to provide full information to his or her patients, 
+a duty which “is not altered by limitations in the 
+coverage provided by the patient’s managed care 
+plan.” (See Council on Ethical and Judicial 
+
+
+ee ee 
+
+
+Teer 
+
+
+= Leer © oct 
+
+
+* ee On RE oo ee 
+
+
+7 
+
+
+Affairs, American Medical Association Ethical 
+Issues in Managed Care, Council Report, 273 
+JAMA 330 (Jan. 25, 1995)). A patient therefore 
+cannot be deprived of such information absent an 
+ethical breach on the part of the physician. 
+Nonetheless, CIGNA’s alleged rule mandating 
+such an ethical breach upon pain of termination 
+would provide many physicians with no 
+meaningful choice and would effectively limit the 
+amount of information available to Plan 
+participants. 
+
+
+Weiss at 752. 
+
+
+B. The Petition Mischaracterizes the Allegations of the 
+Amended Complaint 
+
+
+Petitioners argue that, in Count III of her complaint, 
+Herdrich alleged that petitioners breached their fiduciary duty 
+under ERISA by establishing a cost-containment mechanism 
+which provided physicians with a “year-end distribution” 
+based on the savings achieved by cost-containment, 
+(Pet. 15) and that therefore, the Court of Appeals’ essential 
+hold: zg is that ERISA health care plans “have a fiduciary 
+duty not to adopt HMO(s) or other managed care options 
+because cost-containment incentives create a conflict of 
+interest for the health care provider.” (Pet. 9). But the Court 
+of Appeals did not hold, and respondent did not allege, that 
+cost-containment incentives, standing alone, constitute a 
+breach of ERISA fiduciary duties. Rather, respondent 
+alleged, in great detail, that here the particular corporate 
+structure between the medical clinic (Carle Clinic), the 
+insurance company (Health Alliance), and the individual 
+physician-owners, created a conflict of interest. Due to this 
+
+
+8 
+
+
+peculiar corporate structure, the primary care physicians and 
+the insurance company offering the HMO are the alter egos of 
+Carle Clinic. Carle Clinic and Health Alliance file consolidated 
+income tax returns. (App. 44a) Appointment to the Carle Clinic 
+Board of Governors results in an automatic appointment to the 
+Health Alliance Board of Directors. (App. 45a) Health Alliance 
+is a for-profit Illinois stock insurance company, 100% of which 
+is owned by Carle Clinic. The physicians, as owners of 100% 
+of the stock of Health Alliance, not only employ themselves, 
+but also completely control the claims processing and utilization 
+review functions of Health Alliance. Respondent did not allege 
+the mere existence of cost containment incentives. Respondent 
+alleged: 
+
+
+6. Prior to March of 1991 and annually thereafter, 
+for valuable consideration, through State Farm, 
+defendants sold plaintiff a subscription in 
+CARLE CARE HMO, a pre-paid health 
+insurance plan (hereinafter “the Plan”) 
+arranging medical and hospital services for 
+subscribers (see attached Exhibit A). 
+
+
+7. State Farm retained no right to direct or control 
+the administration of the Plan. 
+
+
+8. Defendants have the exclusive night to decide 
+all disputed and non-routine claims under the 
+Plan. 
+
+
+9. Under the Plan, defendants exercise 
+discretionary authority and discretionary control 
+of claims management, property and asset 
+management, and administration of the Plan. 
+
+
+Ee a. —— 
+
+
+a ee a ae 
+
+
+10. 
+
+
+11. 
+
+
+12. 
+
+
+(a) 
+
+
+9 
+
+
+Defendant [sic] is a participant and 
+beneficiary under the Plan and brings this 
+action on behalf of the Plan pursuant to 
+29 USC 1132(a). 
+
+
+Defendants are fiduciaries with respect to the 
+Plan and under 29 USC 1109(a) are obligated 
+to discharge their duties with respect to the 
+Plan solely in the interest of the participants 
+and beneficiaries and 
+
+
+(a) for the exclusive purpose of: 
+
+
+(i) providing benefits to participants 
+and their beneficiaries; and 
+
+
+(ii) defraying reasonable expenses of 
+administering the Plan; 
+
+
+(b) with the care, skill, prudence, and 
+diligence under the circumstances then 
+prevailing that a prudent man acting in 
+a like capacity and familiar with such 
+matters would use in the conduct of an 
+enterprise of a like character and like 
+aims. 
+
+
+In breach of that duty: 
+
+
+CARLE owner/physicians are the officers and 
+directors of HAMP and CHIMCO and receive 
+a year-end distribution, based in large part 
+upon, supplemental medical expense 
+payments made to CARLE by HAMP and 
+CHIMCO; 
+
+
+10 
+
+
+(b) Both HAMP and CHIMCO are directed and 
+controlled by CARLE owner/physicians and 
+seek to fund their supplemental medical 
+expense payments to CARLE: 
+
+
+(i) by contracting with CARLE 
+owner/physicians to provide the 
+medical services contemplated in 
+the Plan and then having those 
+contracted owner/physicians; 
+
+
+(1) 
+
+
+(2) 
+
+
+(3) 
+
+
+minimize the use of 
+diagnostic tests; 
+
+
+minimize the use of facilities 
+not owned by CARLE; and 
+
+
+minimize the use of 
+emergency and _ non- 
+emergency consultation and/ 
+or referrals to non-contracted 
+physicians. 
+
+
+(ii) by administering disputed and 
+non-routine health insurance 
+claims and determining: 
+
+
+(1) 
+
+
+(2) 
+
+
+which claims are covered 
+under the Plan and to what 
+extent; 
+
+
+what the applicable standard 
+of care is; 
+
+
+11 
+
+
+(3) whether a course of treatment 
+is experimental; 
+
+
+(4) whether a course of treatment 
+is reasonable and customary; 
+and 
+
+
+(5) whether a medical condition 
+is an emergency. 
+
+
+13. As a direct and proximate result of 
+defendants’ breach of their fiduciary duties, 
+the Plan has been deprived of those sums 
+comprising the supplemental medical 
+expenses made by HAMP and CHIMCO to 
+CARLE, as well as those amounts which 
+would have been realized by prudently 
+investing those supplemental medical 
+
+
+expenses. 
+
+
+Petitioners implore this Court to ignore the fact that 
+respondent’s allegations were very fact-specific, and to 
+ignore the fact that the ruling of the Court of Appeals was 
+
+
+very fact specific. 
+REASONS FOR DENYING THE WRIT 
+
+
+ERISA is a statutory scheme which regulates all “private 
+employee benefits plans, including both pension plans and 
+welfare plans.” District of Columbia v. Greater Washington 
+Bd. of Trade, 506 U.S. 125, 127, 113 S. Ct. 580, 582, 121 
+L. Ed. 2d 513 (1992). The definition of a “welfare plan” 
+includes “any plan, fund, or program” maintained for the 
+purpose of providing medical or other health benefits for 
+
+
+12 
+
+
+employees or their beneficiaries “though the purchase of 
+insurance or otherwise.” /d. (quoting 29 U.S.C. § 1002(1)). 
+ERISA establishes uniform standards, including rules 
+relating to “reporting, disclosure, and fiduciary 
+responsibility.” Ingersoll-Rand Co. v. McClendon, 498 U.S. 
+133, 137, 111 S. Ct. 478, 482, 112 L. Ed. 2d 474 (1990). 
+
+
+In order to properly state a claim for breach of fiduciary 
+duty under ERISA, a complaint must allege facts which set 
+forth: (1) that the defendants are Plan fiduciaries; (2) that 
+the defendants breached their fiduciary duties; and (3) that a 
+cognizable loss resulted. See 29 U.S.C. § 1104(a). 
+
+
+ERISA defines the term “fiduciary” in 29 U.S.C. 
+§ 1002(21)(A), which reads, in relevant part: 
+
+
+Except as otherwise provided in subparagraph (B), 
+a person is a fiduciary with respect to a plan to 
+the extent (i) he exercises any discretionary 
+authority or discretionary control respecting 
+management of such plan or exercises any 
+authority of control respecting management or 
+disposition of its assets ... or (iii) he has any 
+discretionary authority or discretionary 
+responsibility in the administration of such plan. 
+
+
+Congress, when it enacted ERISA, intended that this statutory 
+definition of “fiduciary” be broadly interpreted. As stated 
+by the Chairman of the House Committee on Education and 
+Labor, 120 Cong. Rec. 3977, 3983 (February 25, 1974), 
+reprinted, 2 Legislative History of the Employee Retirement 
+Income Security Act of 1974 at 3293: 
+
+
+13 
+
+
+The Committee has adopted the view that the 
+definition of fiduciary is of necessity broad... A 
+fiduciary need not be a person with direct access 
+to the assets of the plan. . . Conduct alone may in 
+an appropriate circumstance impose fiduciary 
+obligations. It is the clear intention of the 
+Committee that any person with a specific duty 
+imposed upon him by this statute be deemed to 
+be a fiduciary .. . 
+
+
+THE PETITION OVERSTATES THE IMPORTANCE 
+
+OF THE NARROW HOLDING BELOW, WHICH 
+
+DOES NOT SQUARELY PRESENT THE QUESTION 
+ON WHICH REVIEW IS SOUGHT. 
+
+
+A. Petitioners Failed To Preserve Their Arguments In 
+The Courts Below 
+
+
+In opposing Herdrich’s appeal to the Seventh Circuit, 
+Petitioners did not argue, as they now do in their petition for 
+writ of certiorari, that there was no breach of fiduciary duty. 
+Rather, petitioner’s argued firstly that there was no appellate 
+jurisdiction and secondly, that Herdrich had not established 
+that petitioners were fiduciaries. Indeed, in opposing 
+Herdrich’s appeal to the Seventh Circuit, petitioners argued 
+that there was no need to even discuss the issue of cost 
+containment incentives, arguing that that question was 
+“inappropriate at this stage of the litigation.” At no point 
+during the initial appeal did petitioners argue 42 U.S.C. 
+§ 300(e) (enabling legislation) or 42 C.F.R. § 417.479 
+(Medicare and Medicaid regulation). Quite to the contrary, 
+petitioners argued that this was a case of first impression. 
+
+
+14 
+
+
+Petitioners did not make any arguments concerning 42 U.S.C ' 
+§ 300(e) and 42 C.F.R. § 417.479 until they filed their motion 
+for rehearing. Even in that motion for rehearing, petitioners 
+emphasized that this was a case of first impression, that no 
+federal appellate court had ever addressed the allegations 
+made in Herdrich’s complaint, and that the majority opinion 
+“created what some might perceive as new precedent.” 
+
+
+The arguments that petitioners now make were not 
+properly presented below. In initially opposing Herdrich’s 
+appeal, petitioners made absolutely no arguments about any 
+alleged conflicts with federal statutes or agency rulings 
+concerning HMOs. 
+
+
+B. Due to the Procedural Posture and Incomplete 
+Record, This Case is Not An Appropriate Vehicle to 
+Resolve This Highly Fact-Specific Issue 
+
+
+Petitioners’ motion for rehearing en banc was denied 
+by the Court of Appeals with Justice Easterbrook filing a 
+written dissent. Here the petition cites the dissent of Justice 
+Easterbrook at great length. But Justice Easterbrook assumed 
+quite a number of facts that were not in evidence. Petitioners 
+quote Justice Easterbrook as stating that, if the Court of 
+Appeals’ decision stands, then “the principal organizational 
+forms through which medical care is delivered today are 
+unlawful,” (Pet. 9) and that “[p}hysicians own much of the 
+stock of HMOs organized as corporations.” (Pet. 26). 
+
+
+Justice Easterbrook is wrong. Because respondent’s 
+fiduciary duty count was dismissed at the pleading stage, 
+specific facts were not presented. For instance, Justice 
+Easterbrook has no way of knowing whether the plan in 
+question was self-insured (meaning that the risk of loss was 
+
+
+15 
+
+
+retained by the plan sponsor), or whether the plan was an 
+insured plan (meaning that the risk of loss falls on the plan 
+itself). Neither does Justice Easterbrook know whether the 
+HMO in question here is a staff model, group model, IPA 
+model, or direct contract model, and whether the distinction 
+between those models was affected by the corporate structure 
+chosen by petitioners. Likewise, no evidence was adduced 
+concerning the issue of whether the HMO in question is 
+federally qualified or not. Like Justice Easterbrook, here 
+petitioners jumped to the conclusion that all HMOs are alike. 
+Frankly, nothing could be further from the truth. 
+
+
+As reported by the United States General Accounting 
+Office, GAO/HRD-94-93, Managed Healthcare Effect on 
+Employers’ Costs Difficult to Measure (1993): 
+
+
+The term “managed care” lacks a commonly 
+accepted definition. It has been used to 
+characterize a wide range of health care plans that 
+select a network of physicians and hospitals, 
+negotiate reimbursement levels, and apply 
+controls on the use of services. The spectrum of 
+such plans ranges from simple preferred provider 
+networks to more tightly structured health 
+maintenance organizations (HMOs). 
+
+
+In 1990, the United States Department of Health 
+& Human Services presented a report to Congress entitled, 
+Incentive Arrangements Offered by Health Maintenance 
+Organizations and Competitive Medical Plans to Physicians, 
+which concluded that the results of the department’s review 
+and analysis of physician incentive plans in a sample of 
+HMOs showed a “wide variety of incentive plans.” There 
+were differences in the types of incentive payments, the 
+
+
+16 
+
+
+distribution of incentives, the basis for determining the 
+incentive payments, and the parties or entities the incentive 
+affected. 61 Fed. Reg. 13432 (March 1996). 
+
+
+An HMO may be an insurance plan only, or it may 
+consist of an insurance plan, a group of health care providers 
+and a hospital, or some combination of these. CIGNA, for 
+example, is an insurance plan which hires its own physicians 
+but contracts with independent hospitals. A large 
+combination-type HMO is Kaiser-Permanente, a company 
+which provides insurance, hires the physicians and other care 
+providers, and owns the clinics and hospitals where the care 
+takes place.' Kaiser-Permanente doctors can order any tests, 
+medications, medical procedures or referrals they need 
+without approval from someone in the health plan. 
+Physicians have full authority to make health care decisions 
+with their patients.? (emphasis added). Permanente 
+physicians are devoted full time to serving only Kaiser- 
+Permanente members ... Individual physicians are 
+compensated on a salaried basis and do not have an 
+incentive to ration care.’ (emphasis added). 
+
+
+Here 100% of the stock of Health Alliance is owned by 
+the Carle physicians. The stock of Humana, Inc., one of the 
+nation’s largest managed care companies, is publicly traded. 
+In his 1998 annual report to shareholders, Humana chairman, 
+David A. Jones, reported that Humana, Inc.’s net income for 
+
+
+1. Attp://www.canceronline.org/009-the-ideal. html. 
+
+
+2. Attp://www.kaiserpermanente.org/healthplans/doctorshands. 
+html. 
+
+
+3. http://www.kaiserpermanente.org/newsroom/structure. html. 
+
+
+te ne ee le Pe he 
+
+
+17 
+
+
+1998 was $213 million or $1.27 per share for Humana’s more 
+than 167 million outstanding shares of stock.‘ 
+
+
+The corporate structure of Kaiser-Permanente is 
+completely different from the corporate structure of Health 
+Alliance. The corporate structure of Humana is completely 
+different from the corporate structure of Health Alliance. The 
+only uniform statement that can be made about the great 
+variety of HMOs, is that there is no uniformity. Here there 
+is absolutely no basis for petitioners or Justice Easterbrook 
+to conclude that the Court of Appeals’ decision, which was 
+limited to the specific facts of this case, applies to any other 
+HMO, much less all other HMOs. 
+
+
+C. Court of Appeals’ Decision Does Not Equate Medical 
+Malpractice With Breach of Fiduciary Duty 
+
+
+As in their motion for rehearing en banc, petitioners 
+argue here that mere medical malpractice is tantamount to a 
+breach of fiduciary duty under the Court of Appeals’ ruling. 
+Petitioners are incorrect. Medical malpractice does not 
+constitute a breach of ERISA fiduciary duties merely because 
+the defendant doctor is part of an HMO. In fact, here the 
+medical malpractice portion of respondent’s suit is not even 
+before this Court. As determined by the magistrate in his 
+ruling on petitioners’ motion to dismiss amended Count III, 
+“defendants’ move to dismiss arguing that Count 3 fails to 
+state a claim under ERISA, and that the new claim is totally 
+unrelated to the original claim for medical negligence.” 
+(Pet. App. 62a). After successfully arguing at the trial court 
+level that amended Count III should be dismissed due, in 
+part, to the fact that it is totally unrelated to the remaining 
+malpractice counts, petitioners cannot be permitted to argue 
+
+
+4. http://www. humana.com/investor/1998annual/letter.htm!. 
+
+
+18 
+
+
+that the Court of Appeals’ opinion somehow “blurs” the 
+distinction between traditional medical malpractice and 
+breach of fiduciary duties under ERISA. 
+
+
+COURT OF APPEALS’ DECISION DOES NOT 
+CONFLICT WITH THE DECISIONS OF THIS COURT, 
+NOR WITH THE DECISIONS OF OTHER COURTS. 
+
+
+A. Court of Appeals’ Decision Complements, Rather 
+Than Abrogates, Legislation Enabling Health 
+Maintenance Organizations 
+
+
+Citing 42 U.S.C. § 300(e) and 42 C.F.R. § 417.479, 
+petitioners state that the Court of Appeals decision effectively 
+bypasses express congressional authorization of HMOs. 
+(Pet. 10, 17). This is incorrect. 42 U.S.C. § 300(e) is merely 
+enabling legislation. Respondent here does not dispute that 
+HMOs are legally authorized. But the issue is not whether 
+HMOs are legally authorized, nor whether cost-containment 
+incentives in general are permissible. The issue presented 
+here is whether this particular corporate structure and cost- 
+containment incentive scheme violate ERISA. 
+
+
+Petitioners are correct in stating that 42 C.F.R. § 417.479 
+addresses the issue of cost-containment incentives for HMOs 
+receiving Medicare or Medicaid payments. But as stated 
+above, because Count III was dismissed at the pleading stage, 
+no evidence was presented as to whether Health Alliance 
+was federally qualified and participating in Medicare and 
+Medicaid. As a consequence, there is no evidence as to 
+whether 42 C.F.R. § 417.479 even applies to Health Alliance. 
+But more importantly, there is no conflict between the 
+
+
+19 
+
+
+decision of the Court of Appeals and 42 C.F.R. § 417.479, which 
+was promulgated by the United States Department of Health & 
+Human Services’ Health Care Financing Administration. Both 
+the Court of Appeals and H.C.F.A. recognized and were 
+sensitive to the problems inherent in a cost-containment 
+incentive scheme. In order to qualify for Medicare or Medicaid 
+payments, an HMO’s contract with H.C.F.A. must specify that 
+the HMO may operate a physician incentive plan only if no 
+specific payment is made directly or indirectly under the Plan 
+toa physician or physician group as an inducement to reduce 
+or limit medically necessary services furnished to an individual 
+enrollee, and only if further disclosure requirements of H.C.F.A 
+are met. In point of fact, the rules and regulations adopted by 
+H.C.F.A. attempt to address the very issues addressed by the 
+—_ of Appeals in its decision. The H.C.F.A. rules and 
+- / co are perfectly consistent with the ruling of the Court 
+
+
+B. Petitioners are Clearly Fiduciaries Under ERISA 
+
+
+, Petitioners suggest that the Court of Appeals decision i 
+
+inconsistent with this Court’s decisions in Hughes prev ing 
+v. Jacobson, _U.S. __, 119 S. Ct. 755 (1999) and Lockheed 
+Corp. v. Spink, 517 U.S. 882, 116 S. Ct. 1783 (1996). But neither 
+the Hughes Aircraft case nor the Lockheed case is applicable to 
+the case at bar. Hughes Aircraft involved the amendment of a 
+pension plan and did not involve fiduciary duties concerning 
+administration of the Plan’s assets. In Hughes Aircraft, this 
+Court was quick to point out that ERISA provides an employer 
+with broad authority to amend a benefit plan, and that given 
+the employer’s obligation to make up any shortfall, no member 
+of a defined benefit plan under ERISA has a claim to any 
+— asset that composes a part of the Plan’s general asset 
+
+
+20 
+
+
+Like Hughes Aircraft, the Lockheed case involved a 
+lawsuit against the employer-sponsor of a pension plan. The 
+case at bar does not involve a pension plan, and the plan 
+sponsor, State Farm Insurance, is not even a party to this 
+lawsuit. But more importantly, this Court’s ruling in 
+Lockheed (plan sponsors who alter the terms of a plan do 
+not fall into the category of fiduciaries) is completely 
+irrelevant where, as here, petitioners have declared 
+themselves to be ERISA fiduciaries and have obtained 
+beneficial rulings based up on that status. 
+
+
+Moreover, the ruling of the Court of Appeals is 
+consistent with a number of other federal court decisions 
+that specifically address HMOs and healthcare plans as 
+opposed to pensions. In Biomet v. Black, _ F. Supp. 2d __, 
+(N.D. Ind. 1999), the Biomet Health Benefit Plan filed a 
+complaint against one of its participants to enforce a 
+subrogation lien for medical payments of $91,006.02 made 
+for injuries sustained in a motor vehicle accident. The 
+employee-participant sought dismissal of the complaint on 
+the basis that the Health Benefit Plan was not a “participant, 
+beneficiary or fiduciary” under § 501(a)(3). The District 
+Court disagreed, holding that the Health Benefit Plan was a 
+fiduciary, relying in part on Health Cost Controls v. 
+Bichanich, 968 F. Supp. 396 (N.D. Ill. 1997). In Bichanich, 
+the Plan itself was not seeking to enforce its subrogation 
+rights. Rather, a collection agency, Health Cost Controls, 
+was seeking to recover on behalf of the Plan. The Court for 
+the Northern District of Illinois specifically ruled that, by 
+definition, an asset is anything of value to the Plan. The 
+ability to recover benefits previously paid out is 
+unquestionably valuable to the Plan; that Health Cost 
+Controls exercised substantial discretion over these plan 
+assets and was, therefore, a fiduciary under ERISA. See also 
+
+
+21 
+
+
+O'Reilly v. Ceuleers, 912 F.2d 1383 (11th Cir. 1990); Moralis 
+v. Health Plus, Inc., 954 F. Supp. 464 (D.P.R. 1997) 
+(an HMO can be an ERISA fiduciary when it exercises 
+discretionary authority or discretionary responsibility in the 
+administration of the healthcare plan). Petitioners do not cite 
+a single decision of any lower court that is in conflict with 
+the 7th Circuit’s decision here. There is no reason to use 
+this case as vehicle to resolve the issue of whether HMOs 
+breach any fiduciary duties under ERISA by implementing 
+cost containment incentives. 
+
+
+Petitioners and Justice Easterbrook accuse the Court of 
+Appeals of “stretching” the definition of fiduciary. Even 
+ignoring petitioner’s own assertion that they are fiduciaries, 
+it is relatively clear that neither petitioners nor Justice 
+Easterbrook are conversant with the current state of the law 
+on this topic. 
+
+
+CONCLUSION 
+The petition for certiorari should be denied. 
+Respectfully submitted, 
+
+
+JAMES P. GINZKEY 
+
+Counsel of Record 
+
+Hayes, HAMMER, MILEs, 
+Cox & GINZKEY 
+
+Attorneys for Respondent 
+202 North Center Street 
+Bloomington, Illinois 61701 
+(309) 828-7331 
+
+
+APPENDIX 
+
+
+4 4, ; 
+
+‘ é yr. ue 
+a ae 
+
+4 “, < 
+
+
+Y 
+’. y ok eal 
+4% 
+
+ae 
+
+
+Lite 
+
+
+©. 
+
+
+~~ * » = 
+ad : 7 
+AAP 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE CENTRAL DISTRICT OF ILLINOIS 
+PEORIA DIVISION 
+
+
+No. 94-1143 
+CYNTHIA HERDRICH, 
+
+
+Plaintiff, 
+vs. 
+
+
+LORI PEGRAM and CARLE CLINIC ASSOCIATION, 
+HEALTH ALLIANCE MEDICAL PLANS, INC. 
+
+
+Defendants. 
+ORDER 
+Before this Court is Plaintiff's Motion to Remand [#43], 
+
+
+which the Defendants oppose. For the reasons stated herein, 
+this Court DENIES the Motion to Remand. 
+
+
+care ordinarily used by a reasonably well-qualified physician 
+resulted in a ruptured appendix, which caused peritonitis. 
+Count II seeks to hold Carle Clinic Association (“Carle 
+
+
+2a 
+Appendix A 
+
+
+Herdrich filed an addendum to her State court complaint 
+in February 1994, adding Counts III and IV. Count III alleges 
+that Carle Clinic failed to disclose certain material facts 
+regarding the ownership of Health Alliance Medical Plans 
+(“Health Alliance”) in violation of the Illinois Consumer 
+Fraud Act 815 ILCS 505/1 et seg. Count IV charged that 
+Health Alliance breached its duty of good faith and fair 
+dealing. 
+
+
+The Defendants filed a Notice of Removal with this 
+Court on March 14, 1994, asserting that Counts III and IV 
+were preempted by the Employees Retirement Income 
+Security Act (“ERISA”), 29 U.S.C. § 1101, and that the 
+pendant state claims set forth in Counts | and II were 
+removable pursuant to 28 U.S.C. §1367. Herdrich filed a 
+Motion to Remand on April 8, 1994. On July 22, 1994, 
+Magistrate Judge Robert J. Kauffman recommended the 
+Motion to Remand be denied. This Court adopted the 
+Magistrate’s Report and Recommendation and denied the 
+Motion to Remand on August 5, 1994. 
+
+
+Thereafter, Defendants moved for summary judgment 
+as to Counts III and IV. In an Order dated July 25, 1995, this 
+Court granted the motion for summary judgment as to Count 
+IV. The Order also found that ERISA preempted Count III, 
+and that Herdrich would have to amend her complaint as 
+Count III did not state a claim under ERISA. 
+
+
+Herdrich filed an Amended Count III on September 1, 
+1995. On November 14, 1995, Defendants filed a Motion to 
+Dismiss Amended Count III. On March 26, 1996, Magistrate 
+Judge Kauffman granted the Motion to Dismiss in a Report 
+and Recommendation and granted Herdrich leave to file an 
+
+
+3a 
+
+
+Appendix A 
+
+
+amended Count III. Herdrich appealed the Magistrate Judge’s 
+ruling under Federal Rule of Civil Procedure 72. This Court 
+adopted the recommendation and granted Herdrich jeave to 
+file a second amended Count III. 
+
+
+Herdrich then filed her Motion to Remand. In her 
+Motion, she states, “Plaintiff will not further amend her 
+ERISA count (Count III), but rather chooses to stand on those 
+pleadings.” She then argues that this Court should remand 
+the matter because this Court lacks jurisdiction to consider 
+the underlying medical malpractice actions. 
+
+
+Defendants oppose the Motion to Remand and argue that 
+this Court should retain jurisdiction under 28 U.S.C. § 1367. 
+Counsel for the Defendants has represented that Herdrich 
+will appeal this Court’s April 15, 1996 ruling granting the 
+Motion to Dismiss if the Motion for Remand is granted. 
+Section 1367 provides, in relevant part: 
+
+
+(a) [T]he district courts shall have supplemental 
+jurisdiction over all other claims that are so related 
+to claims in the action within such original 
+jurisdiction that they form part of the same 
+case or controversy under Article III of the United 
+States Constitution. 
+
+
+(c) The district courts may decline to exercise 
+supplemental jurisdiction over a claim under 
+subsection (a) if — 
+
+
+(1) the claim raises a novel or complex 
+issue of State law, 
+
+
+4a 
+Appendix A 
+
+
+(2) the claim substantially predominates 
+over the claim or claims over which the 
+district court has original jurisdiction, 
+
+
+[or] 
+
+
+(3) the district court has dismissed all 
+claims over which it has original 
+jurisdiction. 
+
+
+28 U.S.C. § 1367. 
+
+
+In the case at bar, the medical malpractice claims do not 
+present novel or complex issues of state law. Subsection (2) 
+does not apply to this matter as the federal claims have fallen 
+out of the suit. Finally, this Court has dismissed all claims 
+over which it had original jurisdiction. This litigation is over 
+two years old and judicial economy would not be served by 
+remanding the matter to State court. Moreover, if Herdrich 
+decides to appeal this Court’s April 15, 1996 Order, the 
+Defendants would be fighting this battle on two fronts: in 
+the Court of Appeals and in State court. This Court finds 
+that both judicial economy and fairness will be served by 
+retaining Counts | and II. 
+
+
+For the reasons set forth herein, this Court DENIES the 
+Motion to Remand [#43]. This matter is referred to 
+Magistrate Judge Kauffman. 
+
+
+ENTERED this 13th day of May, 1996. 
+
+
+s/ Michael M. Mihm 
+Michael M. Mihm 
+Chief United States District Judge 
+
+
+Sa 
+
+
+APPENDIX B — ORDER OF THE UNITED STATES 
+DISTRICT COURT FOR THE CENTRAL DISTRICT 
+OF ILLINOIS, PEORIA DIVISION DATED AND 
+FILED JULY 25, 1995 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE CENTRAL DISTRICT OF ILLINOIS 
+PEORIA DIVISION 
+
+
+No. 94-1143 
+
+
+CYNTHIA HERDRICH, 
+
+
+Plaintiff, 
+
+
+VS. 
+
+
+LORI PEGRAM and CARLE CLINIC ASSOCIATION, 
+HEALTH ALLIANCE MEDICAL PLANS, INC. 
+
+
+Defendants. 
+
+
+ORDER 
+
+
+Before the Court are Defendants’ Motion for Summary 
+Judgment [#16] and Plaintiff's Motion for Leave to File 
+Amended Complaint [#22]. For the reasons set forth herein, 
+the Motion for Summary Judgment is GRANTED in part 
+and DENIED in part. The Motion for Leave to File Amended 
+Complaint is GRANTED in part and DENIED in part. 
+
+
+Factual Background 
+
+
+Plaintiff filed a two count complaint in State court on 
+October 21, 1992. Count I alleged medical negligence against 
+
+
+6a 
+Appendix B 
+
+
+Defendant Lori Pegram (“Pegram”’) for failing to adequately 
+examine, treat, and follow-up on Plaintiff's complaint of 
+right, lower quadrant pain. She claims that Pegram’s failure 
+to employ the skill and care ordinarily used by a reasonably 
+well-qualified physician resulted in a ruptured appendix, 
+which caused peritonitis. Count II seeks to hold Carle Clinic 
+Association (“Carle Clinic”) liable under the theory of 
+respondeat superior. Defendants Pegram and Carle Clinic 
+filed an Answer to the State court complaint on December 
+8, 1992. 
+
+
+Herdrich filed an addendum to her State court complaint 
+in February 1994, adding Counts III and IV. Count III alleges 
+that Carle Clinic failed to disclose certain material facts 
+regarding the ownership of Health Alliance Medical Plans 
+(“Health Alliance”) in violation of the Illinois Consumer 
+Fraud Act 815 ILCS 505/1 et seq. Count IV charges Health 
+Alliance breached its duty of good faith and fair dealing. 
+All of the Defendants filed a Notice of Removal with this 
+Court on March 14, 1994, asserting that Counts III and IV 
+were preempted by the Employees Retirement Income 
+Security Act (“ERISA”), 29 U.S.C. §1101, and that the 
+pendant state claims set forth in Counts I and II were 
+removable pursuant to 28 U.S.C. §1367. Herdrich filed a 
+Motion to Remand on April 8, 1994. 
+
+
+Her Motion to Remand argued that ERISA did not 
+preempt Counts III and IV of her State court complaint 
+because the State laws at issue did not relate to an employee 
+benefit plan. Plaintiff asserted that Counts III and IV were 
+merely related to employee benefits generally. ERISA’s 
+preemption provision provides, in relevant part, 
+
+
+7a 
+Appendix B 
+
+
+Except as provided in subsection (b) of this 
+section, the provisions of this subchapter and 
+subchapter III of this chapter shall supersede any 
+and all State law insofar as they may now or 
+hereafter relate to any employee benefit plan 
+described in section 1003(a) of this title . . . 
+
+
+29 U.S.C. § 1144(a). She maintained that State law actions 
+which are merely incidentally connected to an employee 
+welfare benefit plan are not preempted by ERISA, citing 
+Mackey v. Lanier Collections Agency & Service, 486 U.S. 
+825, 108 S.Ct. 2182 (1988). She concluded that Counts III 
+and IV of her Complaint only indirectly affected the 
+administration of a plan, in that her claims arose out 
+Defendants’ business decisions and therefore were not 
+preempted. 
+
+
+In opposition to the Motion to Remand, Defendants 
+argued that Counts III and IV related to the administration 
+of a plan and were thus preempted under ERISA. 
+Specifically, Defendants set forth a Synopsis of Relevant 
+Facts which stated that Herdrich was a participant and 
+beneficiary in an employee benefit plan (“the Plan”) provided 
+to her through her husband’s employer, State Farm Insurance 
+Companies. The factual synopsis also asserted that Defendant 
+Health Alliance was the administrator and fiduciary of the 
+Plan. Finally, Defendants contended that as part of the Plan, 
+Health Alliance contracted with Carle Clinic to provide 
+medical care to Plan participants in accordance with an 
+agreed upon fee schedule. In response to Herdrich’s legal 
+argument that Count IV was not preempted because it lacked 
+the necessary relationship to an employee benefit plan, 
+
+
+8a 
+
+
+Appendix B 
+
+
+Defendants maintained that plaintiff's reference to the Plan 
+and Health Alliance’s duty in her Addendum to the 
+Complaint evidenced a relation between Count IV and the 
+employee welfare benefit plan. 
+
+
+On July 22, 1994, Magistrate Judge Robert J. Kauffman 
+recommended the Motion to Remand be denied. (Report and 
+Recommendation, at 1). The Magistrate Judge found that 
+Count IV related to an employee welfare benefit plan, and 
+as such, was preempted by ERISA. /d. at 2-3. The Magistrate 
+did not find specifically that Count III was preempted. 
+Neither party filed objections to the Magistrate's Report and 
+Recommendation, and this Court adopted the Magistrate's 
+Report and Recommendation, denying the Motion to Remand 
+on August 5, 1994. 
+
+
+Discussion 
+
+
+A motion for summary judgment will be granted where 
+there are no genuine issues of material fact and the moving 
+party is entitled to judgment as a matter of law. Fed.R.Civ.P. 
+56(c). The moving party has the responsibility of informing 
+the court of portions of the record or affidavits that 
+demonstrate the absence of a triable issue. Celotex Corp. v. 
+Catrett, 477 U.S. 317, 323, 106 S.Ct. 2548, 2552 (1986). 
+The moving party may meet its burden of showing an absence 
+of material facts by demonstrating “that there is an absence 
+of evidence to support the non-moving party’s case.” /d., at 
+325, 106 S.Ct. at 2553. Any doubt as to the existence of a 
+genuine issue for trial is resolved against the moving party. 
+Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 
+2505, 2513 (1986); Cain v. Lane, 857 F.2d 1139, 1142 (7th 
+Cir. 1988). 
+
+
+9a 
+Appendix B 
+
+
+If the moving party meets its burden, the non-moving 
+party then has the burden of presenting specific facts to show 
+that there is a genuine issue of material fact. Matsushita Elec. 
+Indus. Co., Ltd. v. Zenith Radio Corp., 475 U.S. 574, 586- 
+87, 106 S.Ct. 1348, 1355-56 (1986). Federal Rule of Civil 
+Procedure 56(e) requires the non-moving party to go beyond 
+the pleadings and produce evidence of a genuine issue for 
+trial. Celotex Corp., 477 U.S. at 324, 106 S.Ct. at 2553. This 
+Court must then determine whether there is a need for trial 
+— whether, in other words, there are any genuine factual 
+issues that properly can be resolved only by a finder of fact 
+because they may be reasonably resolved in favor of either 
+party. Anderson, 477 U.S. at 250, 106 S.Ct. at 2511. 
+
+
+Defendants submit that the Plan, through a subscription 
+issued by Carle Clinic Health Maintenance Organization 
+(Carle HMO), provided health and medical benefits to its 
+participants and qualifies as an ERISA plan pursuant to 29 
+U.S.C. §1001 et seg. Defendants assert that Plaintiff's 
+contract with Health Alliance resulted solely from her 
+enrollment in the Plan. Defendants contend, and Plaintiff 
+does not deny, that all benefits provided for under the Plan 
+were paid. Defendants state, without reference to supporting 
+material, that Carle HMO acts as the fiduciary of the Plan. 
+However, the Defendants also frame the issues contained in 
+the Motion for Summary Judgment as “whether an ERISA 
+plan participant/beneficiary may sue an ERISA plan fiduciary 
+under Illinois common law and under the Illinois Consumer 
+Fraud Act, 815 ILCS 505/1, et seg., to recover extra- 
+contractual damages,” indicating that Carle Clinic and Health 
+Alliance function as fiduciaries. This statement, taken in 
+conjunction with the prior representations made by 
+
+
+10a 
+Appendix B 
+
+
+Defendants, indicates that there are three fiduciaries of the 
+Plan: Carle Clinic, Health Alliance, and Carle HMO. 
+Defendants’ primary argument in support of its Motion for 
+Summary Judgment, as to Count IV, 1s that regardless of 
+who functions as the fiduciary, Plaintiff is not entitled to 
+extracontractual damages under ERISA. 
+
+
+Herdrich claims that the Motion for Summary J udgment 
+is “vague and ambiguous.” She contends that Carle HMO is 
+a product, not an entity and as such cannot qualify as a 
+fiduciary. under 29 U.S.C. §1002(21)(A). She also submits 
+that Carle Clinic is not a fiduciary as a matter of law and 
+Defendants have failed to present evidence which supports 
+their assertion that Carle Clinic is a fiduciary. Further, she 
+argues that Health Alliance does not appear to be a fiduciary 
+of the Plan as a matter of fact. In support of this contention, 
+Herdrich cites to Health Alliance’s 1992 Annual Statement, 
+filed with the Illinois Department of Insurance, which states 
+that Health Alliance is not a “provider of administrative 
+services or ‘stop loss’ group accident and health insurance 
+to a multiple employer trust or multiple employer welfare 
+arrangement.” Herdrich submits that Carle Health Insurance 
+Management Company (“CHIMCO”) is, in fact, the fiduciary 
+of the Plan. This Court will first address the issues raised by 
+the parties in terms of Count IV, as neither the Magistrate 
+Judge nor this Court have determined that Count Ill is 
+preempted by ERISA. Then this Court will determine, for 
+purposes of jurisdiction, whether Count III is preempted by 
+ERISA. 
+
+
+Appendix B 
+A. Count IV 
+
+
+As there are serious questions about which 
+organization(s) function as the fiduciary, this Court must 
+determine whether this Plaintiff can recover the type of 
+damages she seeks in Count IV, regardless of who exists as 
+the fiduciary. Herdrich submits that ERISA provides for 
+extracontractual damages in §502(a)(3). Plaintiff cites Blue 
+Cross and Blue Shield of Alabama y. Lewis, 753 F.Supp. 
+345, 347 (N.D.Ala. 1990), for the proposition that §502(a) 
+of ERISA allows for extracontractual, even punitive 
+damages. Herdrich concedes, however, that the Seventh 
+Circuit does not follow the holding in Lewis, Stating that 
+“[i]t is doubtful that the Seventh Circuit’s refusal to follow 
+the ruling of the Alabama District Court is justified since 
+the Seventh Circuit apparently ignored the intent of 
+
+
+Congress.” (Mem. in Opposition to Summary Judgment, at 
+4). 
+
+
+Defendants cite the Supreme Court’s holding in 
+Massachusetts Mutual Life Insurance Co. v. Russell, 473 U.S. 
+134, 105 S.Ct. 3085 (1985), for the proposition that ERISA 
+prohibits the award of extracontractual damages. ERISA’s 
+
+
+civil enforcement provision, § 502(a) provides, in relevant 
+part, 
+
+
+A civil action may be brought — 
+
+
+(1) by a participant or beneficiary — 
+(A) for the relief provided for in 
+subsection (c) of this section, or (B) to 
+recover benefits due to him under the — 
+
+
+12a 
+Appendix B 
+
+
+terms of his plan, to enforce his rights 
+under the terms of the plan, or to clarify 
+his rights to future benefits under the 
+terms of his plan; 
+
+
+(2) by the Secretary, or by a participant, 
+beneficiary or fiduciary for appropriate 
+relief under section 1109 of this title; 
+
+
+(3) by a participant, beneficiary, or 
+fiduciary (A) to enjoin any act or 
+practice which violates any provision of 
+this subchapter or the terms of the plan, 
+or (B) to obtain other appropriate 
+equitable relief (i) to redress such 
+violations or (ii) to enforce any 
+provisions of this subchapter or the 
+terms of the plan. 
+
+
+29 U.S.C. § 1132(a). Section 409, entitled Liability for breach 
+of fiduciary duty states, in part, 
+
+
+(a) Any person who is a fiduciary with respect 
+to a plan who breaches any of the responsibilities, 
+obligations, or duties imposed upon fiduciaries 
+by this subchapter shall be personally liable to 
+make good to such plan any losses to the plan 
+resulting from each such breach, and to restore to 
+such plan any profits of such fiduciary which have 
+been made through use of assets of the plan by 
+the fiduciary, and shall be subject to such other 
+
+
+13a 
+Appendix B 
+
+
+equitable or remedial relief as the court may deem 
+appropriate, including removal of such fiduciary. 
+
+
+29 U.S.C. § 1109%a). 
+
+
+In Russell, the plaintiff received benefits under an 
+employee welfare benefit plan for a back injury from May 
+1979 until October 17, 1979 when an orthopedic surgeon 
+reported that the plaintiff was no longer disabled. Russell, 
+473 U.S. at 136. The plaintiff requested a review of the 
+termination of her benefits and proffered a report from her 
+psychiatrist “... indicating that she suffered from a 
+psychosomatic disability with physical manifestations rather 
+than an orthopedic illness.” Jd. When this report was 
+confirmed by a second psychiatrist, the plan administrator 
+reinstated plaintiff's benefits — including a retroactive 
+payment. /d. The plaintiff's suit, brought under §502(a)(2), 
+alleged that she sustained an injury “by the improper refusal 
+to pay benefits from October 17, 1979, when her benefits 
+were terminated, to March 11, 1980, when her eligibility 
+was restored.” /d. 
+
+
+The Court granted certiorari “to review both the 
+compensatory and punitive components of the Court 
+of Appeals holding that § 409 authorizes recovery of 
+extracontractual damages.” /d. at 138. The Court held that 
+§ 502(a)(2) authorizes a plan beneficiary to bring suit against 
+a fiduciary under § 409. Any recovery for a breach of 
+fiduciary duty, however, “inures to the benefit of the plan as 
+a whole.” /d. at 140. Further, the Court's decision states that 
+within the context of §§ 502(a)(2) and 409, “we do not find 
+in §409 express authority for an award of extracontractual 
+
+
+l4a 
+
+
+Appendix B 
+
+
+damages to a beneficiary.” /d. at 144. The Court did not 
+address whether a plan could recover extracontractual 
+damages from a fiduciary under § 409. /d. at n.12. 
+
+
+The Court noted that because the plaintiff relied “. . . 
+entirely on §409(a), and expressly disclaimed reliance on 
+§502(a)(3), we have no occasion to consider whether any 
+other provision of ERISA authorizes recovery of extra- 
+contractual damages.” /d. at 139, n.5. Therefore, regardless 
+of the identity of the fiduciary, to the extent that Plaintiff 
+seeks recovery of extracontractual damages under 
+§§ 502(a)(2) and 409(a), summary judgment is granted in 
+favor of the Defendants. 
+
+
+The plaintiff in Russell also argued that a private right 
+of action for extracontractual damages should be implied 
+absent an express authorization by ERISA. Russell, 473 U.S. 
+at 145. The Court looked to the four-factor test employed by 
+Cort v. Ash, 422 U.S. 66, 78 (1975), to determine whether 
+an implied right of action for extracontractual damages exists 
+under ERISA. /d. at 145. The Court declined to extend the 
+Ash decision to “authorize the recovery of extracontractual 
+damages. Because ‘neither the statute nor the legislative 
+history reveals a congressional intent to create a private right 
+of action.’ ” /d. at 148 (quoting Northwest Airlines, Inc. v. 
+Transport Workers, 451 U.S. 77, 94, n.31 (1981)). To the 
+extent. Herdrich argues for an implied right of action for 
+extracontractual damages, the Russell case controls. No such 
+right exists. 
+
+
+As the Russell decision left open the issue of whether 
+§502(a)(3) would permit recovery of extra-contractual 
+
+
+15a 
+Appendix B 
+
+
+damages, this Court must now turn to Plaintiff's argument 
+that after the Supreme Court’s decision in /ngersoll-Rand 
+Co. v. McClendon, 111 S.Ct. 478 (1990). 502(a)(3) should 
+be found to allow for the recovery of extracontractual 
+damages by a plan beneficiary. In Harsch v. Eisenberg, 956 
+F.2d 651 (7th Cir.), cert. denied, 113 S.Ct. 61 (1992) the 
+plaintiffs filed a suit against their employer, a law firm, and 
+the employee welfare benefit plan to which they belonged. 
+Harsch, 956 F.2d at 652-53. The plaintiffs alleged that their 
+employer “had refused to comply with the plaintiffs’ written 
+request for information and claims for benefits, in violation 
+of the terms of the plan, the policy and practices of the firm, 
+and ERISA” and sought compensatory and punitive damages. 
+Id. at 653. In holding that neither §502(a)(1)(B) nor 
+§502(a)(3)(B) provided for compensatory damages, the 
+Harsch court discussed the impact of McClendon on the 
+Russell holding. /d. at 655, 659-660. The Seventh Circuit 
+focused on the last paragraph of the McClendon opinion 
+which states: 
+
+
+[T}here is no basis in § 502(a)’s language for 
+limiting ERISA actions to only those which seek 
+“pension benefits.” It is clear that the relief 
+requested here is well within the power of the 
+federal courts to provide. Consequently, it is no 
+answer to a preemption argument that a particular 
+plaintiff is not seeking the recovery of pension 
+benefits. 
+
+
+Id. at 659 (quoting McClendon, 111 S.Ct. at 486). After 
+summarizing the post-McClendon case law, including Blue 
+Cross and Blue Shield v. Lewis, supra, the case our Plaintiff 
+
+
+l6a 
+
+
+Appendix B 
+
+
+relies upon, and /nternational Union, United Automobile, 
+Aerospace and Agricultural Implement Workers v. Midland 
+Steel Products Co., 771 F.Supp. 860, 863 (N.D.Ohio 1991), 
+the Seventh Circuit concluded that the dicta from McClendon 
+did not authorize the recovery of compensatory damages 
+under §502(a)(3). Jd. at 660 (“we are not rash enough to 
+believe that the Court intended to overrule settled law in 
+most of the circuits, as well as narrowly limit — if not 
+overrule — its own decision in Russell in such an off-hand 
+
+
+manner’). 
+
+
+As to the availability of punitive damages under either 
+§502(a)(1)(B) or §502(a)(3), the Harsch court found neither 
+section of ERISA allowed for punitive damages. /d. at 661 
+Specifically as to §502(a)(3), the court cited its prior holding 
+in Kleinhans v. Lisle Savings Profit Sharing Trust, 810 F.2d 
+618, 627 (7th Cir. 1987) (punitive damages are not available 
+under § 502(a)(3)). Other courts have relied upon Harsch in 
+finding that § 502(a)(3) does not provide for extracontractual 
+damages. See e.g. Lafov v. HMO Colorado, 988 F.2d 97, 99 
+(10th Cir. 1993); Medina v. Anthem Life Ins. Co., 983 F.2d 
+29, 32 (Sth Cir. 1993); Zimmerman v. Sloss Equipment, Inc., 
+835 F.Supp. 1283, 1291 (D.Kan. 1993); Pension Plan of 
+Public Service Assoc. of New Hampshire et al. v. KPMG 
+Peat Marwick, 815 F.Supp. 52, 56-57, n.2 (D.N.H. 1993). 
+Although Herdrich suggests that the Seventh Circuit's 
+decision in Harsch is an incorrect reading of Russell and 
+McClendon, this Court chooses to follow the Seventh 
+Circuit’s well reasoned holding. 
+
+
+Additionally, the Supreme Court has recently elaborated 
+on the reference in § 502(a)(3)(B) to “other appropriate 
+
+
+17a 
+Appendix B 
+
+
+equitable relief.” Mertens v. Hewitt Assoc., 113 S.Ct. 2063 
+(1993). The Court granted certiorari to answer the question 
+“... whether ERISA authorizes suits for money damages 
+against non-fiduciaries who knowingly participate in a 
+fiduciary’s breach of fiduciary duty.” /d. at 2066. In 
+determining that a beneficiary may not recovery monetary 
+damages from a non-fiduciary, the Court held that 
+§502(a)(3)(B) included typical remedies available in equity 
+and not “legal remedies” like compensatory damages or 
+monetary relief. /d. at 2069. The Mertens decision was 
+limited to the type of damages which may be recovered under 
+§ 502(a)(3). Anweiler v. American Elec. Power Service 
+Corp., 3 F.3d 986, 993 (7th Cir. 1993). Thus, Mertens gives 
+further support to this Court’s conclusion that to the extent 
+Herdrich relies on §502(a)(3)(B) as a basis for monetary 
+relief, as opposed to equitable relief, she may not proceed as 
+a matter of law. This Court finds that plaintiff's claim for 
+extracontractual damages against Defendant Health Alliance 
+may not, as a matter of law, survive summary judgment. As 
+this Court’s finding is not specific to Health Alliance, but 
+
+
+may be applied to any fiduciary, Plaintiff's Motion for Leave 
+to Amend is denied as to Count IV. 
+
+
+B. Count Ill 
+
+
+As the Magistrate Judge left open the question of whether 
+Count III of Plaintiff's Complaint is preempted, this Court 
+must determine, as a jurisdictional matter, whether Count 
+III is preempted by ERISA. If not, the matter should be 
+remanded to State court. As set forth above, Count III alleges 
+that Carle Clinic failed to disclose certain material facts 
+regarding the ownership of Health Alliance in violation of 
+
+
+18a 
+Appendix B 
+
+
+the Illinois Consumer Fraud Act 815 ILCS 505/1 et seq. 
+Specifically, Plaintiff claims that Carle Clinic sold her a 
+subscription in Carle HMO through its wholly owned 
+subsidiary Health Alliance. Plaintiff maintains that 
+Defendant Carle Clinic violated the Consumer Fraud act by 
+failing to advise her that the Carle HMO physicians hired 
+by Health Alliance, in fact owned Health Alliance. Plaintiff 
+also avers that Defendant Carle Clinic failed to inform her 
+that the compensation of Carle HMO physicians was 
+“increased to the extent that those physicians did not order 
+diagnostic tests; did not utilize facilities not owned by those 
+physicians; and did not make emergency or consultation 
+referrals.” (Addendum to Complaint, at 2). Count III seeks 
+an amount in excess of $15,000.00 plus costs and attorney 
+fees. 
+
+
+In ERISA’s §1, Congress articulated its declaration of 
+policy, stating: “... to provide for the general welfare and 
+free flow of commerce, that disclosure be made and 
+safeguards be provided with respect to the establishment, 
+operation, and administration of such plans.” 29 U.S.C. 
+§ 1001(a). In ERISA, Congress set out to 
+
+
+protect .. . participants in employee benefit plans 
+... by requiring the disclosure and reporting to 
+participants and beneficiaries of financial and 
+other information with respect thereto, by 
+establishing standards of conduct responsibility, 
+and obligation for fiduciaries of employee benefit 
+plans, and by providing for appropriate remedies, 
+sanctions and ready access to the Federal courts. 
+
+
+19a 
+
+
+Appendix B 
+
+
+29 U.S.C. § 1001(b). Herdrich’s claim in Count III is 
+essentially that Defendants failed to disclose relevant, 
+material information regarding the operation of the Plan. In 
+order to find Count III preempted by ERISA, the State law 
+which forms the basis of the claim must “relate to” an 
+employee welfare benefit plan. 29 U.S.C. § 1144(a). The 
+Supreme Court has given a broad interpretation to the 
+“relate[s] to” requirement. In Shaw v. Delta Air Lines, 463 
+U.S. 85, 97, 103 S.Ct. 2890, 2900 (1983), the Court held 
+that “a law ‘relates to’ an employee benefit plan in the normal 
+sense of the phrase, if it has a connection with or reference 
+to such plan.” Shaw, 463 U.S. at 97. 
+
+
+ERISA contains detailed disclosure requirements. In 
+§ 101, the statute requires the administrator of each employee 
+benefit plan to provide all participants with a summary plan 
+description and fiscal statements and schedules. 29 U.S.C. 
+
+
+§ 1021(a) The summary plan description must include the 
+following: 
+
+
+The name and type of administration of the plan, 
+the name and address of the person designated as 
+agent for the service of legal process, if such 
+person is not the administrator; the name and 
+address of the administrator, names, titles, and 
+addresses of any trustee or trustees (if they are 
+persons different from the administrator); a 
+description of the relevant provisions of an 
+applicable collective bargaining agreement; the 
+plan’s requirements respecting eligibility for 
+participation and benefits; a description of the 
+provisions providing for nonforfeitable pension 
+
+
+20a 
+Appendix B 
+
+
+benefits; circumstances which may result in 
+disqualification, ineligibility, or denial or loss of 
+benefits; the source of financing of the plan and 
+the identity of any organization through which 
+benefits are provided; the date of he end of the 
+plan year and whether the records of the plan are 
+kept on a calendar, policy, or fiscal year basis; 
+the procedures to be followed in presenting claims 
+for benefits under the plan and the remedies 
+available under the plan for the redress of claims 
+which are denied in whole or in part. 
+
+
+29 U.S.C. § 1022(b). Additionally, ERISA requires each 
+employee benefit plan publish an annual report, which is to 
+be filed with the Secretary and made available to the plan 
+participants and beneficiaries. 29 U.S.C. §§ 1023(a)(1)(A) 
+and 1024(a) & (b) The annual report must contain a financial 
+statement and opinion. 29 U.S.C. § 1023(a)(1)(B){i). The 
+financial opinion must issue from an independent qualified 
+public accountant. 29 U.S.C. § 1023(a)(3)(A). The financial 
+statement must include “a statement of assets and liabilities; 
+a statement of changes in fund balance; and a statement of 
+changes in financial position.” 29 U.S.C. § 1023(b)(1). The 
+notes accompanying the financial statement must contain the 
+following disclosures: 
+
+
+[A] description of the plan including any 
+significant changes in the plan made during the 
+period and the impact of such changes on benefits; 
+a description of material lease commitments, other 
+commitments, and contingent liabilities; a 
+description of agreements and transactions with 
+
+
+2la 
+
+
+Appendix B 
+
+
+person known to be parties in interest; a general 
+description of priorities upon termination of the 
+plan; information concerning whether or not a tax 
+ruling or determination letter has been obtained; 
+and any other matters necessary to fully and fairly 
+present the financial statements of the plan. 
+
+
+29 U.S.C. § 1023(b)(1). ERISA also dictates the schedules 
+which must be attached to the financial statements. 29 U.S.C. 
+§1023(b)(3). The annual report must also contain an actuarial 
+
+
+statement and opinion prepared by an enrolled actuary. 29 
+U.S.C. § 1023(a)(4)(A) 
+
+
+It is apparent from this brief review of ERISA’s 
+disclosure requirements that the statute comprehensively 
+regulates the necessary disclosures. Count III seeks to impose 
+additional disclosure requirements on the plan administrator 
+other than those which are expressly enumerated in ERISA. 
+This Court finds that under the broad reach of ERISA’s 
+§ 514, Plaintiff's Count III relates to an employee benefit 
+plan, and as such is preempted. 
+
+
+Having found Count III preempted, Herdrich must now 
+allege which of ERISA’s civil enforcement provisions, if 
+any, would be provide a cause of action for Plaintiff. The 
+availability of a federal remedy does not govern the 
+preemption decision, and thus it may be that Plaintiff has no 
+cause of action under ERISA. Lister v. Stark, 890 F.2d 941, 
+946 (7th Cir. 1989). Plaintiff is given leave to submit an 
+amended Count III which clearly sets forth her basis for 
+proceeding under ERISA, including the applicable civil 
+enforcement provision. If Plaintiff declines this opportunity, 
+
+
+22a 
+Appendix B 
+
+
+Count III will be dismissed with prejudice, and the remaining 
+matters will be remanded to State Court. 
+
+
+Conclusion 
+
+
+For the reasons stated herein, the Motion for Summary 
+Judgment as to Count IV is GRANTED in favor of Defendant 
+Health Alliance Medical Plans, Inc. with costs. The Motion 
+for Summary Judgment as to Count III is DENIED. The 
+Plaintiff has fourteen (14) days to file her amended 
+Complaint as to Count III, specifying under which of 
+ERISA’s civil enforcement provisions she intends to proceed. 
+IT IS SO ORDERED. 
+
+
+ENTERED this 25th day of July, 1995. 
+s/ Michael M. Mihm 
+
+
+Michael M. Mihm 
+Chief United States District Judge 
+
+
+23a 
+
+
+APPENDIX C — MEMORANDUM IN OPPOSITION 
+TO PLAINTIFF’S MOTION TO REMAND 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE CENTRAL DISTRICT OF ILLINOIS 
+PEORIA DIVISION 
+
+
+No. 94-1143 
+CYNTHIA HERDRICH, 
+
+
+Plaintiff, 
+
+
+VS. 
+
+
+LORI PEGRAM and CARLE CLINIC ASSOCIATION, 
+HEALTH ALLIANCE MEDICAL PLANS, INC. 
+
+
+Defendants. 
+
+
+MEMORANDUM IN OPPOSITION TO 
+PLAINTIFF’S MOTION TO REMAND 
+
+
+Introduction 
+
+
+Defendants, Lori Pegram, M.D., Carle Clinic 
+Association, and Health Alliance Medical Plans, Inc., 
+removed this case on March 14, 1994. The state trial court 
+in the Eleventh Circuit of Illinois, McLean County, had 
+allowed the plaintiff to amend her pleadings on February 
+18, 1994. The new allegations, Counts III and IV, for the 
+first time, raise claims which relate to an employment benefit 
+plan, as defined and preempted by Section 514(a) of ERISA 
+(29 U.S.C. Section 1144(a)(1988)). The original complaint, 
+
+
+24a 
+Appendix C 
+
+
+Counts | and II failed to adequately set forth a claim or right 
+arising under the Constitution, treatises or laws of the United 
+States, in that they stated a claim for professional negligence 
+against Lori Pegram, M.D. (Count 1) and respondeat superior 
+against Carle Clinic Association (Count II). 
+
+
+After receipt of plaintiff's Addendum to the Complaint 
+as stated above, the defendants were, for the first time, put 
+on notice that the plaintiff was asserting an action which 
+was removable to this Court since the Addendum, for the 
+first time, brought a claim over which this Court has original 
+jurisdiction of the provisions of Title 28, U.S.C., Section 
+1441(b) and Title 29, U.S.C., Section 1144(a). Removal of 
+this matter was, therefore, timely. Plaintiff has not raised 
+timeliness as an objection to the removal. 
+
+
+Rather, plaintiff asserts in the motion to remand and 
+supporting memorandum, that the claims set forth in Counts 
+Il] and IV of the Addendum to the complaint do not “relate 
+to” any employee benefit plan ... as set forth in Section 
+514(a) of ERISA. 
+
+
+Synopsis of Relevant Facts 
+
+
+The plaintiff, Cynthia Herdrich, was a participant and 
+beneficiary in an employee benefit plan (“the Plan”) provided 
+to her by her husband’s employer, State Farm Insurance 
+Companies. Defendant, Health Alliance Medical Plans, Inc. 
+(“Health Alliance”) was the administrator and fiduciary of 
+the Plan within the meaning of ERISA (29 U.S.C. Section 
+1001 et seq.) 
+
+
+ee ee Oe ee 
+
+
+he 
+
+
+25a 
+
+
+Appendix C 
+
+
+As part of the Plan, Health Alliance entered into a 
+contract with Carle Clinic Association (“Carle”) in which 
+Carle agreed to provide medical care to participants in the 
+Plan in accordance with an agreed upon fee schedule. 
+Defendant, Dr. Lori Pegram, is an employee of the Carle 
+Clinic Association. In March of 1991, Cynthia Herdrich has 
+alleged she was suffering from right, lower quadrant pain 
+resulting from appendicitis. She was seen by Dr. Pegram on 
+March 1, 1991. On March 7, 1991, plaintiff's appendix 
+perforated. On March 15, 1991, plaintiff underwent a 
+successful exploratory laparotomy. 
+
+
+This action was commenced in state court on October 
+21, 1992. The original action was for the alleged malpractice 
+of Dr. Pegram and under a theory of respondeat superior, 
+Carle Clinic Association. Initially they were the only 
+defendants. 
+
+
+In February of 1994, the plaintiff was allowed leave to 
+file an Addendum to the Complaint, which for the first time, 
+added Health Alliance Medical Plans, Inc. as an additional 
+defendant. For the first time, plaintiff alleged that Carle 
+Clinic, P.C., violated the Illinois Consumer Fraud Act (815 
+ILCS 505/1 et seq.) by allegedly failing to advise the plaintiff 
+that the Carle Care HMO physicians hired by Health Alliance 
+in fact owned Health Alliance and failed to advise plaintiff 
+that the compensation of the Carle Care HMO physicians 
+hired by Health Alliance was increased to the extent that 
+those physicians did not order diagnostic tests; did not utilize 
+facilities not owned by those physicians; and did not make 
+emergency or consultation referrals. It was further alleged, 
+for the first time, that Health Alliance breached a duty of 
+
+
+26a 
+Appendix C 
+
+
+good faith and fair dealing in arranging medical and hospital 
+services by having its contracted physicians minimize the 
+use of diagnostic tests, the facilities not owned by those 
+physicians, and the emergency consultation referrals. 
+
+
+Federal Preemption 
+
+
+The United States Constitution provides that “The Laws 
+of the United States ... shall be the supreme Law of the 
+Land ... anything in the Constitution or Laws of any State 
+to the Contrary notwithstanding.” U.S. Const. art. VI, cl. 2. 
+Thus, since McCulloch v. Maryland, 17 U.S. 316, 427 (1819) 
+(Wheat.), state law that conflicts with federal law has no 
+effect. Maryland v. Louisiana, 451 U.S. 725, 746 (1981). 
+However, Supremacy Clause analysis “start(s] with the 
+assumption that the historic police powers of the states [are] 
+not to be superseded by Federal Act unless that [is] the clear 
+and manifest purpose of Congress”. Rice v. Santa Fe Elevator 
+Corporation, 331 U.S. 218, 230 (1947) (emphasis added). 
+Accordingly, the purpose of Congress is the “ultimate 
+touchstone” of preemption analysis. Malone v. White Motor 
+Corporation, 435 U.S. 497, 504 (1978) (quoting Retail 
+Clerks v. Schermerhorn, 375 U.S. 96, 103 (1963)). 
+
+
+Congress’ purpose may be stated explicitly in a statute’s 
+language or contained implicitly in the statute’s structure 
+and purpose. Jones v. Rath Packing Co., 430 U.S. 519, 525 
+(1977). For example, state law is preempted if it actually 
+conflicts with federal law, even in the absence of an express 
+Congressional command. Pacific Gas & Electric Co. v. 
+Energy Resources Conversation and Dev. Comm 'n., 461 U.S. 
+190, 204 (1983). State law also is preempted if federal law 
+
+
+27a 
+Appendix C 
+
+
+“so thoroughly occupies a legislative field as to make 
+reasonable the inference that Congress left no room for the 
+states to supplement it.” Fidelity Federal Savings & Loan 
+Association v. De la Cuesta, 458 U.S. 141, 153 (1982). Both 
+
+
+of these principles of preemption apply in the case of ERISA. 
+
+
+ERISA Preemption 
+Section 514(a) of ERISA provides, in part: 
+
+
+[T]he provisions of this subchapter and subchapter 
+III of this chapter shall supersede any and all State 
+laws insofar as they may now or hereafter relate 
+to any employee benefit plan described in Section 
+1003(a) of this Title and not exempt under 
+Section 1003(b) of this Title. 29 U.S.C. Section 
+1144(a)(1988) 
+
+
+The United States Supreme Court, commenting upon the 
+breadth of this provision, described it as a “virtually unique 
+preemption provision.” Franchise Tax Board v. Construction 
+Laborers Vacation Trust, 463 U.S. 1, 24 n.26 (1983) 
+Congress’ purpose in enacting ERISA is the “ultimate 
+touchstone” in determining ERISA preemption. Pilot Life 
+Insurance Co. v. Dedeaux, 481 U.S. 41, 45 (1987). Congress 
+enacted ERISA to protect employees’ anticipated benefits. 
+29 U.S.C. Section 1001(1988). ERISA’s preemption clause 
+protects employee benefit plans from conflicting and 
+inconsistent state laws because such laws may hinder a plan’s 
+ability to administer benefits uniformly. Fort Halifax 
+Packing Co. v. Coyne, 428 U.S. 1, 8-9 (1987). 
+
+
+28a 
+
+
+Appendix C 
+
+
+There are a number of Supreme Court decisions 
+interpreting ERISA’s preemption clause. One of the earliest 
+to find preemption is Alessi v. Raybestos-Manhattan, Inc., 
+451 U.S. 504(1981). In Alessi, the court included that ERISA 
+preempts a New Jersey statute prohibiting an offset against 
+employee retirement benefits for the amount a retiree 
+received in workers’ compensation. In so finding, the court 
+concluded that the New Jersey statute “relates to” pension 
+plans governed by ERISA because it purports to eliminate 
+one method of calculating pension benefits-integration that 
+ERISA permits. The court rejected the suggestion, similarly 
+put forth by the plaintiff here, that New Jersey law intrudes 
+on ERISA only indirectly, through a workers’ compensation 
+law, rather than directly, through a “pension regulation.” The 
+Court observed: 
+
+
+ERISA makes clear that even indirect state action 
+bearing on private pensions may encroach upon 
+the area of exclusive federal concern. For the 
+purposes of the pre-emption provision, ERISA 
+defines the term ‘State’ to include: ‘a State, any 
+political subdivision thereof, or any agency or 
+instrumentality of either, which purports to 
+regulate, directly or indirectly, the terms and 
+conditions of employee benefit plans covered by 
+this subchapter.’ 29 U.S.C. Section 1144(c)(2) 
+(emphasis added). 
+
+
+ERISA’s authors clearly meant to preclude the States from 
+avoiding through form the substance of the preemption 
+provision. /d. at 525. 
+
+
+et a 
+
+
+29a 
+Appendix C 
+
+
+| One of the more oft-cited Supreme Court cases on the 
+issue of ERISA preemption is Pilot Life Insurance Co. v. 
+Dedeaux, 481 U.S. 41 (1987). The Pilot Life decision is 
+particularly interesting because it concludes that ERISA 
+preempts certain state common-law tort and contract actions 
+that assert improper processing of a claim under an employee 
+benefit plan. Pilot Life demonstrates the expansiveness of 
+the meaning of “State law” in Section 514(a) of ERISA, 
+which Congress defined to include “all laws, decisions, rules, 
+regulations, or other State action having the effect of law, of 
+any state.” 29 U.S.C. Section 1144(c)(1)(1988). 
+
+
+The Court found in Pilot Life there was no dispute that 
+the common-law causes of action in question — tortious 
+breach of contract, breach of fiduciary duties, and fraud in 
+the inducement — “related to” an employee benefit plan. 
+Having reached this conclusion, the Court’s only task was 
+to determine whether any of the exemptions to preemption 
+applied. The plaintiff asserted that Mississippi's law of bad 
+faith is a law “which regulates insurance” and thus is saved 
+from preemption by ERISA, Section 514(b)(2)(A), 481 U.S. 
+at 47. The Court rejected this argument, however, noting 
+that Mississippi's bad faith law, while identified with the 
+insurance industry, has its roots in the general principles of 
+Mississippi tort and contract law. 
+
+
+Of particular import to the plaintiff's Addendum to the 
+Complaint here, in which bad faith and fraud are alleged, 
+and the ERISA preemption of same is the discussion of 
+preemption of such claims in Pilot Life: 
+
+
+The policy choices reflected in the inclusion of 
+certain remedies and the exclusion of others under 
+
+
+30a 
+Appendix C 
+
+
+the federal scheme would be completely 
+undermined if ERISA-plan participants and 
+beneficiaries were free to obtain remedies under 
+state law that Congress rejected in ERISA. The 
+six carefully integrated civil enforcement 
+provisions found in Section 502(a) of the statute 
+as finally enacted . . . provide strong evidence that 
+Congress did not intend to authorize other 
+remedies that it simply forgot to incorporate 
+expressly. 
+
+
+The deliberate care with which ERISA’s civil 
+enforcement remedies were drafted and the 
+balancing of the policies embodied in its choice 
+of remedies argues strongly for the conclusion that 
+ERISA’s civil enforcement remedies were 
+intended to be exclusive. 481 U.S. at 54. 
+
+
+Here, plaintiff's claim of fraud and breach of duty to act in 
+good faith are clearly related to the employment benefit plan. 
+To be sure, plaintiff attaches the subscription agreement to 
+the complaint referencing same in her complaint. The 
+plaintiff states in her Motion for Remand, “ERISA 
+preemption is not triggered by actions which indirectly affect 
+the administration of a benefit plan, but only those that impact 
+directly on primary administrative functions of the plan.” It 
+is contended that the allegation of good faith and fair dealing 
+does not “impact on” the employee benefit plan. For this 
+proposition, the plaintiff cites the District Court for the 
+Eastern District of Pennsylvania (/ndependence HMO, Inc. 
+v. Smith, 733 F.Supp. 983 (E.D. Pa. 1990)). In essence, 
+plaintiff argues that her claims are not clearly preempted 
+
+
+3la 
+Appendix C 
+
+
+under Section 514 (29 U.S.C. Section 1144(a)(1988)) 
+because they do not “relate to” an ERISA plan, a pre- 
+condition to preemption under Section 514. The plaintiff's 
+contention must fail, given the breadth placed upon the term 
+“relates to” by the United States Supreme Court. The United 
+States Supreme Court has stated they have no hesitation to 
+enforce ERISA’s preemption provisions where a state law 
+creates the prospect that employer’s administrative scheme 
+would be subject to conflicting requirements. Fort Halifax 
+Packing Co., Inc. v. Coyne, 42 U.S. 1. 
+
+
+In First National Life Ins. v. Sunshine-Junior Food 
+Stores, 960 F. 2d 1546 (11th Cir. 1992) the court held: 
+
+
+Moreover, state contract and tort laws that impose 
+varying standards upon the administrator of a 
+welfare benefit plan create a significant potential 
+for conflict with ERISA and thus are logically 
+preempted. As we noted earlier, Congress 
+deliberately wrote Section 1144(a) in a broad 
+manner in order to make pension plan regulation 
+exclusively a federal concern. 960 F. 2d at 1550. 
+
+
+In this case, as is evidenced by the fact that plaintiff, in 
+her Addendum to the Complaint, has specifically referred to 
+the Plan, and must in order to create any relationship or 
+“duty” between Health Alliance and Cynthia Herdrich, the 
+existence of the Plan is a prerequisite to the plaintiff's state 
+law claims. In other words, absent the existence of the Plan, 
+plaintiff would have absolutely no standing to assert any 
+claim against Health Alliance. 
+
+
+32a 
+Appendix C 
+
+
+The United States Supreme Court of Appeals for the 
+Eleventh Circuit has similarly held in Sanson v. General 
+Motors Corp., 966 F. 2d 618 (11th Cir. 1992) that when a 
+plaintiff would not have a state law cause of action absent 
+the existence of an ERISA plan, the state law claim is 
+preempted. Clearly, plaintiff's Addendum to the Complaint 
+is based solely and completely upon her contractual 
+relationship to the ERISA plan of Health Alliance. Thus, 
+under the compelling rationale of Sanson and First National 
+Life Insurance and countless other cases, plaintiff's claims 
+here are preempted. 
+
+
+The plaintiff's reliance on a decision from the Eastern 
+District of Pennsylvania is misplaced. The Pennsylvania 
+Court has, in other decisions, found no preemption. Yet, the 
+underpinning and rationale of those decisions has been 
+specifically rejected by the Seventh Circuit in Lister v. Stark, 
+890 F. 2d 941 (7th Cir. 1989) cert. den'd. 111 S. Ct. 579 
+(1990) and their reasoning rejected again in Bartholet v. 
+Reishauer A.G. (Zurich), 953 F. 2d 1073, 1076-77 (7th Cir. 
+1992). See, also, Christopher v. Mobil Oil Corp., 950 F. 2d 
+1209 (Sth Cir. 1992); Bernatowicz v. Colgate Palmolive Co., 
+1992 U.S. Dist. Lexis 2889 (D. N.J. 1992). Not a single 
+federal court has followed or adopted the line of cases from 
+the Eastern District of Pennsylvania. Indeed, every federal 
+court to address these cases has rejected them. 
+The Pennsylvania cases are simply based upon a 
+misunderstanding of the breadth of the term “relate to”, a 
+misunderstanding specifically noted and rejected by the 
+Seventh Circuit in Lister. 
+
+
+oe ee ae 
+
+
+33a 
+Appendix C 
+
+
+The Bartholet court noted when rejecting Bartholet’s 
+argument that his claims were not removable because they 
+were not related to an ERISA plan: 
+
+
+Thomas Reed Powell defined the legal mind as 
+one that can think of something inextricably 
+connected to something else, without thinking 
+of what it is connected to. Not even the most 
+
+
+segmented mind could contemplate the benefit 
+without the plan. 
+
+
+Indirect Effect on Plan 
+
+
+Plaintiff contends in her Motion for Remand that the 
+state law claims affect the Plan only indirectly. However, 
+this contention, even if true, does not avoid the expansive 
+language of Section 514. 
+
+
+In Stuart Circle Hospital Corp. v. Aetna Health 
+Management, 15 EBC 1934 (E.D. Va. 1992), Aetna operated 
+a health maintenance agreement (HMO) and was the insurer/ 
+administrator of an ERISA plan which provided medical 
+benefits through the HMO. Aetna had chosen not to allow 
+Stuart Circle Hospital to participate in the HMO. The hospital 
+sued, attempting to enforce a Virginia statute that provided 
+PPOs could not discriminate against whom they allowed to 
+
+
+join. 
+
+
+The District Court held that the state statute was 
+preempted. After reviewing the broad scope of ERISA’s 
+preemption provision, the court held: 
+
+
+34a 
+Appendix C 
+
+
+So long as a state law has a ‘connection with or 
+reference to’ an employee benefit plan, then the 
+law relates to the plan, and it is of no consequence 
+whether the effect on the plan is direct or indirect. 
+15 EBC at 1937. 
+
+
+The court held the Virginia law was preempted. 
+
+
+An Illinois law that allows an ERISA plan administrator/ 
+fiduciary to be subject to the liability for directing a patient’s 
+healthcare in order to maximize profits for the Plan and affect 
+optimum delivery of care, has both a connection with and 
+affects that Plan directly. A Plan administrator who relies 
+upon the unanimous case law which provides it can be held 
+liable only for those benefits specifically provided in the 
+ERISA plan it administers, could now find itself, as a result 
+of its administering the ERISA plan, facing unlimited 
+liability under state law statutes and theories. In such a 
+scenario, it is ludicrous to argue that such state law claims 
+have no connection to the ERISA plan or that they only affect 
+the ERISA plan indirectly as plaintiff asserts here. 
+
+
+The proposition put forth by the plaintiff in the Motion 
+to Remand was similarly discussed by Justice O’Connor in 
+Ingersoll-Rand v. McClendon, 498 U.S. 133, 138 (1991). 
+Justice O’Connor explained: 
+
+
+The preemption clause is conspicuous for its 
+breadth. Its deliberately expansive language was 
+designed to establish pension plan regulation as 
+exclusively a federal concern. [citations omitted] 
+The key to Section 514 is found in the words 
+
+
+at oar ey a nad eee 
+
+
+Sidr aA woe 
+
+
+35a 
+Appendix C 
+
+
+“relate to.” Congress used those words in their 
+broad sense, rejecting more limited pre-emption 
+language that would have made the clause 
+“applicable only to state laws relating to the 
+specific subjects, covered by ERISA.” [citation 
+omitted] Moreover, to underscore its intent that 
+Section 514(a) be expansively applied, Congress 
+used equally broad language in defining the “state 
+law” that would be preempted . . . A law “relates 
+to” an employee benefit, in the normal sense of 
+the phrase, if it has a connection with or reference 
+to such plan. 
+
+
+In Holland v. Burlington Industries, Inc., 772 F.2d 1140 
+(4th Cir. 1985), aff'd. sub nom., Brooks v. Burlington 
+Industries, Inc., 477 U.S. 903 (1986), the court acknowledged 
+that ERISA was the most sweeping federal preemption statute 
+ever enacted by Congress and, relying upon Alessi v. 
+Rabestos-Manhattan, Inc., 451 U.S. 504 (1981), stated that 
+the only state laws not preempted were those specifically 
+exempted from preemption by Section 514. 772 F. 2d at 
+1146-47. In the recent case of Talamine v. Unum Life 
+Insurance Co. of America, 1992 U.S. Dist. Lexis 14372 (N.D. 
+Ill. September 24, 1992), the court again acknowledged the 
+“sweeping breadth” of Section 514 and noted that the 
+Supreme Court had consistently “expansively interpreted” 
+the preemptive scope of ERISA. 
+
+
+A somewhat more detailed approach was taken by the 
+Eighth Circuit in Arkansas Blue Cross & Blue Shield v. St. 
+Mary's Hospital, 947 F. 2d 1341 (8th Cir. 1991 ), cert. den'd., 
+112 S. Ct. 2305 (1992). The court there identified various 
+
+
+36a 
+Appendix C 
+
+
+factors that should be examined in determining whether or 
+not a plaintiff's claims “relate to” an ERISA plan. Applying 
+each of the factors identified by the Eighth Circuit to the 
+facts of this case, it is clear that Cynthia Herdrich’s claims 
+relate to the Plan because her claims would: (1) significantly 
+impact the relationship between Plan participant and Plan 
+administrator as the Plan administrator would become the 
+guarantor of the quality of care paid for by the Plan; (2) would 
+considerably increase the administrative burdens of the Plan 
+who would have to develop and enforce an entirely new and 
+burdensome system whereby it would oversee and guarantee 
+the medical judgments of the physician; (3) substantially 
+increase the cost of administering the Plan by requiring the 
+oversight system described above and by requiring the Plan 
+administrator’s budget for risk of breach of claims for breach 
+of bad faith and fair dealing, as well as fraud; (4) dramatically 
+affect the statutory scheme which was intended to assure 
+Plan sponsors and fiduciaries that they would have the 
+freedom to develop their ERISA plans as they choose, 
+thereby limiting their liability. 
+
+
+In the case now before this Court, it is clear that the 
+plaintiff's claims relate to the Plan administered by Health 
+Alliance. The relationship between the plaintiff and Health 
+Alliance arose solely from the Plan. But for the existence of 
+the Plan, Cynthia Herdrich’s participation in that Plan and 
+Health Alliance’s serving as administrator/fiduciary of that 
+Plan, there would be no relationship whatsoever between 
+Cynthia Herdrich and Health Alliance and thus no lawsuit. 
+
+
+Moreover, the claims against Carle Clinic, P.C. relating 
+to fraud arise solely out of the relationship between Carle 
+
+
+Ale eee oe. ae © 
+
+
++ eee 
+
+
+37a 
+Appendix C 
+
+
+Clinic, P.C. and the plaintiff and their collective relationship 
+to Health Alliance. In light of the foregoing, the plaintiff 
+
+
+cannot seriously contend that her claims are not related to 
+the Plan. 
+
+
+In short, because the plaintiff is a participant/beneficiary 
+of the Plan, and because she is asserting claims related to 
+the Plan against the Plan’s fiduciary and administrator, their 
+claims are clearly within the preemption provision of Section 
+514. Ingersoll-Rand v. McClendon, supra. 
+
+
+Respectfully Submitted, 
+
+
+LORI PEGRAM, M.D., CARLE 
+CLINIC ASSOCIATION, and 
+HEALTH ALLIANCE MEDICAL 
+PLANS, INC., Defendants, 
+
+
+BY: LIVINGSTON, BARGER, 
+BRANDT & SCHROEDER 
+
+
+BY: 
+one of their attorneys 
+
+
+38a 
+
+
+APPENDIX D — ANNUAL STATEMENT OF 
+HEALTH ALLIANCE MEDICAL PLANS, INC. 
+
+
+LIFE AND ACCIDENT AND HEALTH COMPANIES — 
+ASSOCIATION EDITION 
+
+
+0000779509201400 
+affix bar code above 
+
+
+ANNUAL STATEMENT 
+
+For the Year Ended December 31, 1992 
+
+OF THE CONDITION AND AFFAIRS OF THE 
+Health Alliance Medical Plans, Inc. 
+
+
+NAIC Group Code 000 NAIC Company Code 77950 
+Employer’s ID Number 37-1260731 
+
+
+Organized under the Laws of the State of Illinois, made to 
+the INSURANCE DEPARTMENT OF THE STATE OF 
+
+
+PURSUANT TO THE LAWS THEREOF 
+
+
+Incorporated November 17, 1989 Commenced Business 
+December 1, 1989 
+
+
+Statutory Home Office 602 W. University Avenue (Street 
+and Number), Urbana, Illinois 61801 (City or Town, State 
+and Zip Code) 
+
+
+Main Administrative Office 102 E. Main Street, Suite 200, 
+P.O. Box 6003 (Street and Number), Urbana, IL 61801 (City 
+or Town, State and Zip Code) 217 337-8010 (Area Code) 
+(Telephone Number) 
+
+
+39a 
+
+
+Appendix D 
+
+
+Mail Address 102 E. Main Street, Ste. 200, P.O. Box 6003 
+(Street and Number or P.O. Box), Urbana, Illinois 61801 
+(City or Town, State and Zip Code) 
+
+
+Primary Location of Books and Records 102 E. Main Street, 
+Suite 200 (Street and Number), Urbana, IL 61801 (City or 
+Town, State and Zip Code) 217 337-8000 (Area Code) 
+(Telephone Number) 
+
+
+Annual Statement Contact Person and Phone Number 
+Lynn A. Rice 217 337-8241 
+
+
+OFFICERS 
+President Executive Dir. 
+John W. Pollard, MD C. Carleton King 
+Secretary Medical Dir. 
+Alan K. Hatfield, MD Benjamin H. Robbins, Jr., MD 
+
+
+Vice Presidents 
+Martha A. Baddour 
+Judith A. Griffith 
+Jeffrey C. Ingrum 
+
+
+DIRECTORS OR TRUSTEES 
+
+
+Robert M. Scully, MD Robert J. Turngren, MD 
+Barbara A. Kammer, MD John W. Pollard, MD 
+
+
+Alan K. Hatfield, MD 
+Terry R. Noonan, MD 
+Thomas C. Schrepfer, MD 
+
+
+40a 
+
+
+Appendix D 
+
+
+STATE OF Illinois ) 
+) ss. 
+COUNTY OF Champaign ) 
+
+
+John R. Pollard MD, President, Alan K. Hatfield, MD, 
+Secretary, ... of the Health Alliance Medical Plans, Inc., 
+being first duly sworn, deposes and says that they are the 
+above described officers of the said insurer, and that on the 
+thirty-first day of December last, all of the herein described 
+assets were the absolute property of the said insurer, free 
+and clear from any liens or claims thereon, except as herein 
+stated, and that this annual statement, together with related 
+exhibits, schedules and explanations therein contained, 
+annexed or referred to are a full and true statement of all the 
+assets and liabilities and of the condition and affairs of the 
+said insurer as of the thirty-first day of December last, and 
+of its income and deductions therefrom for the year ended 
+on that date, and have been completed in accordance with 
+the NAIC annual statement instructions and accounting 
+practices and procedures manuals except to the extent that: 
+(1) state law may differ; or (2) that state rules or regulations 
+require differences in reporting not related to accounting 
+practices and procedures, according to the best of their 
+information, knowledge and belief, respectively. 
+
+
+s/ John W. Pollard, MD s/ Alan K. Hatfield, MD 
+President Secretary 
+
+
+* * * 
+
+
+(a) is this an original filing? yes [ x ] 
+
+
+* * ~ 
+
+
+4la 
+Appendix D 
+
+
+Subscribed and sworn to before 
+me this 8th day of March, 1993. 
+
+
+s/ Marsha Diane Eversole 
+notary public 
+
+
+42a 
+
+
+APPENDIX E — PART 1 — 
+ORGANIZATIONAL CHART 
+
+
+PART 1 — ORGANIZATIONAL CHART 
+
+
+Carle Clinic Association, P.C. 
+(parent corporation) 
+Carle Health Ins. Mgmt. Co.* Health Alliance Medical Plans, Inc.* 
+weeeeee mgt. contract - - - - - - - (domestic stock insurance co.) 
+
+
+| | 
+| cscs coat — ms 
+
+
+PPA/TPA | Direct CarleCare HMO | Health Alliance HMO Health Alliance | 
+
+
+Ancillary 
+
+
+Licenses Products Contracting (federally qualified) (not federally qualified) PPO 
+
+
+¢ for-profit wholly-owned subsidiary of Carle Chusic Association, P.C. 
+
+
+BEST AVAILABLE COPY 
+
+
+43a 
+
+
+APPENDIX F — NOTES TO FINANCIAL STATEMENTS 
+OF HEALTH ALLIANCE MEDICAL PLANS, INC. 
+
+
+J 
+
+
+ANNUAL STATEMENT 
+OF 
+HEALTH ALLIANCE MEDICAL PLANS 
+
+
+NOTES TO FINANCIAL STATEMENTS 
+
+
+Basis of Presentation: 
+
+
+The accompanying financial statements have been 
+prepared in conformity with accounting practices 
+prescribed or permitted by the National Association of 
+Insurance Commissioners and the State of Illinois. 
+
+
+Basis of Valuation of Invested Assets: 
+
+
+A. 
+
+
+Asset values are generally stated as follows: Invested 
+cash includes short-term investments which are stated 
+at cost. Short-term investments totaled $109,963. 
+Long-term investments are stated at the lower of cost 
+or market value. Long-term investments totaled 
+$5,841,839. The effective interest method was used 
+for the Amortization of bonds. 
+
+
+. Purchased computer software is recorded at cost and 
+
+
+is amortized using the straight-line method over 
+3 years. Furniture and equipment is recorded at cost 
+and is depreciated using the MACRS method over 
+periods of 5 and 7 years. 
+
+
+Not applicable. 
+
+
+3. 
+
+
+44a 
+Appendix F 
+
+
+Investment Income: 
+
+
+No category of investment income has been deducted or 
+excluded (non-admitted) on any investment. 
+
+
+Federal Income Tax Allocation: 
+
+
+A. The Company files a consolidated Income Tax return 
+with the following companies: 
+
+
+Carle Clinic Association 
+Carle Health Insurance Management Company 
+
+
+B. The Company and the Clinic have agreed that the 
+consolidated tax liability for any given year will be 
+allocated to those companies that have taxable income 
+during such year in proportion to their relative taxable 
+incomes. Similarly, consolidated tax benefits are 
+allocated to those companies that have taxable losses 
+which give rise to the benefit in proportion to their 
+relative taxable losses. 
+
+
+Intercompany tax balances are settled annually in the 
+fourth quarter. 
+
+
+45a 
+
+
+APPENDIX G — MINUTES OF APRIL 6, 1992 OF 
+THE ANNUAL MEETING OF HEALTH ALLIANCE 
+MEDICAL PLANS, INC. 
+
+
+MINUTES 
+‘HEALTH ALLIANCE MEDICAL PLANS, INC. 
+ANNUAL MEETING 
+
+
+The Board of Directors of Health Alliance Medical Plans, 
+Inc. (“Health Alliance”) met on Monday, April 6, 1992 at 
+3:30 p.m. in the North Tower | Board Room. The following 
+Directors were present: Drs. Scully, Noonan, Parker, 
+Schrepfer, Hatfield, Kammer, and Pollard; Staff present: Dr. 
+Parker; and Messrs. Bash, Green, and King. 
+
+
+Dr. Scully, Chairman, called the meeting to order and noted 
+that a quorum was present. It was moved, seconded and 
+passed to approve the minutes of the March 18, 1991 Annual 
+Meeting as submitted. 
+
+
+Pursuant to Article III, Section 2 of Health Alliance’s 
+corporate bylaws as amended in 1991, an appointment to 
+the Board of Governors of Carle Clinic Association, P.C. 
+results in an automatic appointment to the Board of Directors 
+of Health Alliance. Therefore, no elections at Health 
+Alliance’s Annual Meeting are required. Dr. Noonan was 
+recognized as a new Director for the record. 
+
+
+It was moved, seconded, and passed to appoint the following 
+individual as Officers of Health Alliance’s Board of 
+Directors: 
+
+
+Robert M. Scully, MD, Chairman 
+Thomas C. Schrepfer, MD, Vice-Chairman 
+
+
+Terry R. Noonan, MD, Secretary-Treasurer 
+John W. Pollard, MD, President 
+
+
+46a 
+Appendix G 
+
+
+It was moved, seconded, and passed to appoint the Corporate 
+Officers of Health Alliance assigned by Carle Health 
+Insurance Management Company pursuant to the 
+Management Services Agreement between the two 
+organizations. These individuals are authorized to sign 
+checks, enter into contracts and conduct business on behalf 
+of Health Alliance: 
+
+
+John W. Pollard, MD, President 
+
+Benjamin H. Robbins, MD, Medical Director 
+
+Joseph C. Barkmeier, MD, Associate Medical Director 
+
+Kenneth G. Bash, Assistant Treasurer 
+
+Richard D. Green, Assistant Secretary 
+
+C. Carleton King, Executive Director 
+
+Jeffrey C. Ingrum, Vice-President of Finance 
+
+Martha A. Baddour, RN, Vice-President of Health 
+Services 
+
+Judy A. Griffith, Vice-President of Operations 
+
+
+The need to indemnify (hold harmless) members of the HMO 
+Advisory Board (a.k.a. Patient Satisfaction Committee) 
+serving at the request of the corporation against threatened, 
+pending or completed actions, suits or proceedings was 
+discussed. It was moved, seconded and passed to amend 
+Article VII of the by-laws to indemnify HMO Advisory 
+Board members meeting the applicable standards of conduct 
+in the same manner in which directors, officers, employees 
+and agents are indemnified. 
+
+

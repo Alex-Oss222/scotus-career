@@ -1,0 +1,1226 @@
+* ’ e ' jal . 2 i we g 0 
+
+
+* 
+
+
+Ab [v eed | 
+
+
+No. 99-5525 | si | 
+
+
+In the Supreme Court of the United States 
+
+
+CHARLES THOMAS DICKERSON, PETITIONER 
+. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+REPLY BRIEF FOR THE UNITED STATES 
+
+
+JANET RENO 
+Attorney General 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-22i7 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+I, Congress may not “overrule” Miranda by rein- 
+stating a pure voluntariness test 2 
+A. Miranda and the States 2 
+B. Miranda and the Constitution ‘ 4 
+C. A plenary congressional power to overrule 
+Miranda has no case law support 8 
+II. Section 3501 impermissibly returns the law to its 
+pre-Miranda state 11 
+III. The showing required to overrule Miranda has not 
+been made 14 
+A. The proportionality of Mirundlꝓa 14 
+B. The costs and benefits of MirundPaaa 16 
+Appendix la 
+TABLE OF AUTHORITIES 
+Cases: 
+Anders v. California, 386 U.S. 738 (1967) 7 
+Arizona v. Roberson, 486 U.S. 675 (1988) 16 
+Banco Nacional de Cuba v. Sabbatino, 376 U.S. 398 
+(1964) 10 
+Barker v. Wingo, 407 U.S. 514 (1972) 3 
+Bivens v. Six Unknown Agents, 403 U.S. 388 
+(1971) 8, 13 
+Bush v. Lucas, 462 U.S. 367 (1983) 9 
+Carter v. Kentucky, 450 U.S. 288 (1981) 3 
+Cicenia v. Lagay, 357 U.S. 504 (1958) 3 
+City of Boerne v. Flores, 521 U.S. 507 (1997) . 9, 14, 16 
+Colorado v. Spring, 479 U.S. 564 (1987) 11, 16 
+Davis v. United States, 512 U.S. 452 (1994) 19 
+Doyle v. Ohio, 426 U.S. 610 (1976) 3 
+Edwards v. Arizona, 451 U.S. 477 (1981) 16 
+First Nat'l City Bank v. Banco Nacional 
+de Cuba, 406 U.S. 759 (1972) 10 
+
+
+(I) 
+
+
+II 
+
+
+Gallegos v. Nebraska, 342 U.S. 55 (1951) 
+Garner v. United States, 424 U.S. 648 (1976) 
+Harris v. New York, 401 U.S. 222 (1971) 
+Harris v. Rivera, 454 U.S. 339 (1981) ...... 
+Kimel v. Florida Bd. of Regents, 120 S. Ct. 
+
+
+Cases—Continued: Page 
+3 
+
+15 
+
+6 
+
+3 
+
+
+631 (2000) 14 
+Lego v. Twomey, 404 U.S. 477 (1972) 14 
+Mapp v. Ohio, 367 U.S. 643 (1961) 9 
+Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803) 9 
+McNabb v. United States, 318 U.S. 332 (1943) 3 
+Michigan v. Tucker, 417 U.S. 433 (1974) 5, 7, 16 
+Miller v. Fenton, 474 U.S. 104 (1985) 7 
+Minnick v. Mississippi, 498 U.S. 146 (1990) . 5, 16 
+Miranda v. Arizona, 384 U.S. 436 (19866) . passim 
+Monroe v. Pape, 365 U.S. 167 (1961) 13 
+Moran v. Burbine, 475 U.S. 412 (1986) 6, 15, 16 
+Mu Min v. Virginia, 500 U.S. 415 (1991) 2 
+New York v. Quarles, 467 U.S. 649 (1984) 4,6 
+Oregon v. Elstad, 470 U.S. 298 (1985) 4,6 
+Oregon v. Hass, 420 U.S. 714 (1975) 6 
+Pennsylvania v. Muniz, 496 U.S. 582 (1990) 15 
+Reck v. Pate, 367 U.S. 433 (1961) 11, 12 
+Rhode Island v. Innis, 446 U.S. 291 (1980) 2 
+Smith v. Phillips, 455 U.S. 209 (1982) 3 
+Smith v. Robbins, 120 S. Ct. 746 (2000) 7, 8, 15 
+South-Central Timber Dev., Inc. v. Wunnicke, 
+
+467 U.S. 82 (1984) 10-11 
+Strickland v. Washington, 466 U.S. 668 (1984) 8 
+Townsend v. Burke, 334 U.S. 736 (1948) 3 
+United States v. Janis, 428 U.S. 433 (1976) 16 
+United States v. Leon, 468 U.S. 897 (1984) 9 
+United States v. Verdugo-Urquidez, 494 U.S. 259 
+
+(1990) 13 
+Victor v. Nebraska, 511 U.S. 1 (1994) 3 
+Williams v. United States, 341 U.S. 97 (1951) 13 
+
+
+Withrow v. Williams, 507 U.S. 680 (1993)... 3-4, 8 
+
+
+III 
+
+Constitution and statutes: 
+
+U.S. Const. 
+
+Art. I, § 8, Cl. 3 (Commerce Clause) 
+
+Art. VI, Cl. 2 (Supremacy Clause) 
+
+Amend. IV 
+
+Amend. V (Self-Incrimination Clause) 
+
+Amend. XIV, § 5 
+
+
+Federal Tort Claims Act, 28 U.S.C. 2680(h) 
+18 U.S.C. 241 
+
+
+18 U.S.C. 242 
+
+
+18 U.S.C, 3501 
+
+
+18 U.S.C. 3501(a) 
+
+
+18 U.S.C. 3501(b) 
+28 U.S.C. 530B 
+
+
+28 U.S.C. 1331 
+
+
+28 U.S.C. 2254(a) 
+
+
+42 U.S.C. 1983 
+
+
+Miscellaneous: 
+
+
+ABA Special Comm. on Crim. Justice in a Free 
+Society, Criminal Justice in Crisis (1988) 
+
+
+P. Cassell, Miranda’s Social Costs: An Empirical 
+
+
+Reassessment, 90 Nw. U. L. Rev. 387 (1996) .............. 
+Y. Kamisar, Can (Did) Congress Overrule Miranda’, 
+
+
+85 Cornell L. Rev. 883 (2000) 
+
+
+2 W. LaFave & J. Israel, Criminal Procedure 
+(1999) 
+
+
+T. Merrill, The Common Law Powers of Federal 
+Courts, 52 U. Chi. L. Rev. 1 (1985) 
+
+
+H. Monaghan, Foreword: Constitutional Common 
+Law, 89 Harv. L. Rev. 1 (1975) 
+
+
+S. Saltzburg & D. Capra, American Criminal Pro- 
+
+
+cedure: Cases and Comentary (5th ed. 1996) ............... 
+
+
+L. Yackle, Post Conviction Remedies (1981) 
+
+
+The centerpiece of the argument in support of the judg- 
+ment is the assertion that the Miranda doctrine is non-con- 
+stitutional in character, so that Congress was free to super- 
+sede this Court’s holdings with a statute that restores the 
+due process “voluntariness” inquiry. Brief of Court-Ap- 
+pointed Amicus Curiae Paul G. Cassell 4-28. As we show be- 
+low, that proposition is untenable. In the alternative, amicus 
+argues (Br. 28-48) that, despite Congress’s manifest inten- 
+tion to turn the clock back and restore the voluntariness test 
+in 18 U.S.C. 2501, that statute and a variety of unrelated 
+provisions do not return the law to its pre-Miranda state, but 
+in fact provide adequate additional safeguards for Fifth 
+Amendment rights; and, if that is not so, Miranda should be 
+reconsidered and rejected. 
+
+None of those propositions is sound. This Court’s consis- 
+tent application of Miranda to the States over the past 34 
+years establishes its constitutional character, such that it is 
+not subject to plenary revision and overruling by Congress. 
+The purpose and effect of Section 3501 is not to provide sub- 
+stitutes for the Miranda safeguards, but to reject the need 
+for any such safeguards. And the burden required to justify 
+the overruling of Miranda, and to return litigation over 
+confessions wholly to the voluntariness test that this Court 
+found inadequate 34 years ago, is a heavy one, and it has not 
+been met in this case. 
+
+Miranda rests on the proposition that, in the distinctive 
+context of custodial interrogation, systemically adequate 
+safeguards are required to protect a suspect’s rights under 
+the Self-Incrimination Clause. Miranda warnings are not 
+the only permissible safeguards, this Court has made clear, 
+but some safeguards must exist. Section 3501 rejects that 
+premise. That premise, however, has long been a central 
+principle of the Court’s constitutional criminal jurisprudence, 
+and we do not find justification to urge this Court to overrule 
+its precedents that have stood for 34 years. As Chief Justice 
+
+
+Burger explained in 1980, the meaning of Miranda has 
+
+
+(1) 
+
+
+2 
+become reasonably clear and law enforcement practices have 
+adjusted to its strictures; I would neither overrule Miranda, 
+disparage it, nor extend it at this late date.” Rhode Island v. 
+Innis, 446 U.S. 291, 304 (Burger, C.J., concurring). 
+I. CONGRESS MAY NOT “OVERRULE” MIRANDA BY 
+REINSTATING A PURE VOLUNTARINESS TEST 
+
+Amicus contends (Br. 4-28) that this Court need not for- 
+mally overrule Miranda in order to uphold Section 3501 be- 
+cause Miranda is defeasible by Congress at will. That conten- 
+tion cannot be reconciled with this Court’s practices in apply- 
+ing Miranda or with bedrock principles of criminal procedure. 
+
+A. Miranda And The States 
+
+Amicus seeks to reconcile this Court’s consistent applica- 
+tion of Miranda to the States with his view that Miranda is 
+a “nonconstitutional measure[]}” (Br. 17) by positing that this 
+Court has power, in the absence of contrary legislation, to im- 
+pose rules on the States that are not constitutionally required. 
+Amicus’s theory is fundamentally inconsistent with this 
+Court’s holdings on its role in reviewing state convictions. 
+
+1. Review of state convictions. Because this Court’s 
+authority in state cases “is limited to enforcing the com- 
+mands of the United States Constitution,” Mu’Min v. Vir- 
+ginia, 500 U.S. 415, 422 (1991), the Court could not have ap- 
+plied Miranda to the States during the past 34 years without 
+concluding that the Constitution required such application. 
+
+Amicus takes issue (Br. 18 n.12) with this Court’s state- 
+ment in Mu’Min. He asserts instead (Br. 17) that, in the 
+absence of contrary legislation, “the Court has some author- 
+ity to impose on the states nonconstitutional measures de- 
+signed to protect constitutional rights,” and that this pre- 
+mise is “at the heart of Iamicus's] explanation of the legal 
+basis of Miranda.” In amicus’s view, because Miranda’s ex- 
+clusionary rule “is not a requirement of the Fifth Amend- 
+ment” (Br. 10), it follows that Congress has the authority to 
+“modify” it (Br. 12). By “modify,” amicus apparently means 
+
+
+3 
+“eliminate”: in his view, Congress may abrogate Miranda’s 
+holding and mandate that voluntariness alone is the only 
+prerequisite for admissibility. Nothing in this Court’s cases 
+supports that view of Congress’s power over rules that this 
+Court has applied to the States. 
+
+In order to uphold Section 3501 on the theory that Miranda 
+is a “nonconstitutional measure” that is defeasible at the will 
+of Congress, this Court would have to repudiate core princi- 
+ples governing its review of state criminal cases. This Court 
+has frequently been guided by the proposition that it “do[es] 
+not establish procedural rules for the States, except when 
+mandated by the Constitution.” Barker v. Wingo, 407 U.S. 
+514, 523 (1972); accord Victor v. Nebraska, 511 U.S. 1, 17 
+(1994) (“[W]Je have no supervisory power over the state 
+courts.”).' The principle that the Court may not reverse 
+state court decisions except for violations of the Constitution 
+
+
+or a federal statute is one that Members of the Court have 
+
+
+recognized to be “obvious.” See Carter v. Kentucky, 450 
+U.S. 288, 307-308 (1981) (Rehnquist, J., dissenting) (IS lince 
+the result of the Court’s decision is to reverse the judgment 
+of the Supreme Court of Kentucky, the decision must 
+obviously rest upon the fact that the decision of that court is 
+inconsistent with the United States Constitution.”). To 
+accept amicus’s theory of Miranda’s application to the States 
+would not only contradict that principle; it would vastly 
+enlarge this Court’s power to reverse state convictions 
+oased on rules that are not constitutionally compelled. 
+
+2. Application on habeas corpus. This Court’s recent 
+application of Miranda on habeas corpus also conflicts with 
+amicus’s view that Miranda is common law rather than con- 
+stitutional doctrine. In Withrow v. Williams, 507 U.S. 680, 
+
+
+See also Smith v. Phillips, 455 U.S. 209, 221 (1982); Harris v. Rivera, 
+454 U.S. 339, 344-345 (1981) (per curiam)); Doyle v. Ohio, 426 U.S. 610, 617 
+n.8 (1976); Cicenia v. Lagay, 357 U.S. 504, 508-509 (1958); Gallegos v. 
+Nebraska, 342 U.S. 55, 63-64 (1961) (plurality); Townsend v. Burke, 334 
+U.S. 736, 738 (1948); McNabb v. United States, 318 U.S. 332, 340 (1943). 
+
+
+4 
+690 (1993), the Court fully acknowledged Miranda’s “pro- 
+phylactic” character, yet concluded that “in protecting a de- 
+fendant’s Fifth Amendment privilege against self-incrimina- 
+tion, Miranda safeguards a fundamental trial right.” Id. at 
+691 (internal quotation marks omitted); see id. at 689 (de- 
+scribing Miranda’s “now-familiar measures in aid of a defen- 
+dant’s Fifth Amendment privilege”); id. at 692 (discussing 
+“the Fifth Amendment ‘trial right’ protected by Miranda”). 
+The Court nowhere suggested that it regarded Miranda as 
+one of the “laws of the United States” that may be enforce- 
+able on habeas corpus. 28 U.S.C. 2254(a).” 
+B. Miranda And The Constitution 
+
+
+Amicus offers his radical theory to explain this Court’s 
+application of Miranda to the States because he concludes 
+that this Court’s later cases have stripped Miranda of a con- 
+stitutional basis. See Br. 28 (Miranda is an “extraconstitu- 
+tional” rule). Relying on this Court’s statements that the 
+Miranda rules are “not themselves rights protected by the 
+Constitution,” New York v. Quarles, 467 U.S. 649, 654 (1984), 
+and that they “sweep[] more broadly than the Fifth Amend- 
+ment itself,” Oregon v. Elstad, 470 U.S. 298, 306 (1985), 
+amicus contends (Br. 4-9) that the Miranda doctrine cannot 
+be constitutionally based, and, accordingly, Congress is free 
+to require the admission of unwarned confessions without 
+providing any substitute protective framework. Amicus 
+misunderstands the source and nature of Miranda.’ : 
+
+
+" 
+
+
+— 
+
+
+2 As authority for the view that of Miranda on habeas 
+implements the “laws of the United States,” amicus cites (Br. 21-22), a trea- 
+tise by Professor Yackle. In fact, however, Professor Yackle principally 
+maintains that Miranda violations are cognizable on federal habeas, be- 
+cause to hold otherwise would be to “eliminate” the “substantive [consti- 
+tutional) rightſ l, not merely La] judge-made remed[y], * * from the 
+scope of habeas corpus.” L. Yackle, Post Conviction Remedies § 96, at 370 
+(1981). 
+
+3 Amicus’s defense of Section 3501 would also leave intact Miranda’s 
+application to the States. A theory that imposes Miranda on the States 
+but not on the federal government has no constitutional coherence. Per- 
+
+
+5 
+Miranda responded to this Court’s conclusion—after 30 
+years of grappling with the due process voluntariness test on 
+a case-by-case basis—that additional protections, above and 
+beyond the totality-of-the-circumstances test, are required to 
+provide safeguards in view of the coercive pressures of cus- 
+todial interrogation.‘ The Court thus crafted a prophylactic 
+framework to provide systemic protection for rights guar- 
+anteed by the Self-Incrimination Clause. See Michigan v. 
+Tucker, 417 U.S. 433, 443-444 (1974). As this Court has since 
+explained: 
+Both waiver of rights and admission of guilt are consis- 
+tent with the affirmation of individual responsibility that 
+is a principle of the criminal justice system. It does not 
+detract from this principle, however, to insist that 
+neither admissions nor waivers are effective unless there 
+are both particular and systemic assurances that the co- 
+ercive pressures of custody were not the inducing cause. 
+Minnick v. Mississippi, 498 U.S. 146, 155 (1990) (emphasis 
+added). Far from concluding that developments since 
+Miranda have deprived that case of constitutional support, 
+the Court reaffirmed, nearly two decades later, that Miranda 
+“strikes the proper balance between society’s legitimate law 
+enforcement interests and the protection of the defendant’s 
+
+
+haps amicus would posit that States too could opt out of Miranda by 
+enacting the voluntariness test, but that theory violates the Supremacy 
+Clause: a State may not nullify federal law. 
+
+4 Commentators recognize the inability of the “totality” test, standing 
+alone, to secure the constitutional rights at stake. See, ¢.g.,2 W. LaFave 
+& J. Israel, Criminal Procedure § 6.2(d), at 467 (1999) (noting the Court’s 
+failure to “articulate a clear and predictable definition of voluntariness”); 
+S. Saltzburg & D. Capra, American Criminal Procedure: Cases and 
+Commentary 514 (5th ed. 1996) (“The word ‘voluntary’ hardly offered 
+clear guidance to law enforcement officers and to lower court judges. It 
+had to be defined anew in every ease. * In fact, each [of the Supreme 
+Court’s) totality of the circumstances decision(s), it might be argued, 
+caused a greater division among lower trial and appellate courts.”); see 
+also U.S. Br. 40-41 & n.32 (discussing pre- Miranda cases). 
+
+
+6 
+Fifth Amendment rights.” Moran v. Burbine, 475 U.S. 412, 
+424 (1986); see also Elstad, 470 U.S. at 317 (the Court “in no 
+way retreats from the bright-line rule of Miranda”). 
+
+The Court’s recognition that Miranda warnings are not, 
+in all circumstances, required to satisfy the Constitution (see 
+Amicus Br. 7-8) in no way undermines the proposition that 
+the Miranda framework rests on this Court’s authority to 
+interpret and apply the Constitution. Indeed, it is precisely 
+because the Miranda cases create a prophylactic framework 
+that this Court may shape the governing legal rules, apply- 
+ing the Miranda doctrine where its purposes are best served 
+and declining to do so where its purposes would be less well- 
+served or where it would impose special or unusual costs. 
+This Court has done so by, among other things, permitting 
+the use of unwarned statements for impeachment, see 
+Harris v. New York, 401 U.S. 222, 224 (1971); Oregon v. 
+Hass, 420 U.S. 714, 722 (1975), and dispensing with the 
+warnings where public safety so requires, Quarles, 467 U.S. 
+at 651. Sustaining Miranda, however, would hardly require 
+overruling Quarles, Harris, and Hass, among other cases. 
+See Amicus Br. 8-9 & nn.4-5. This Court’s Miranda cases 
+have held that the Constitution generally requires a set of 
+procedural safeguards that serve systemic values, but the 
+Court has also recognized that such safeguards need not be 
+imposed inflexibly and without regard to competing 
+concerns. 
+
+
+5 Amicus finds (Br. 6-7) this Court’s statements that the Miranda 
+safeguards are not themselves constitutional rights to be irreconcilable 
+with a conclusion that Miranda has a “constitutional basis.” In Elstad, 
+however, the Court explained that “[wJhen police ask questions of a sus- 
+pect in custody without administering the required warnings, Miranda 
+dictates that the answers received be presumed compelled and that they 
+be excluded from evidence at trial in the State’s case in chief.” 470 U.S. at 
+317. That presumption explains how unwarned statements can be ex- 
+cluded from evidence consistent with the Fifth Amendment’s text that a 
+defendant may not be “compelled * to be a witness against himself.” 
+The Miranda conclusive presumption is a legal rule, but that does not 
+distinguish it from voluntariness determinations. The “totality of the cir- 
+
+
+7 
+
+Nor is Miranda invalidated by the Court’s conclusion (384 
+U.S. at 467) that either the Miranda rules or some equally 
+adequate alternative is necessary to protect the Fifth Amend- 
+ment privilege. See Amicus Br. 6-7, 11-12. In that respect, 
+Miranda is supported, rather than undercut, by Smith v. 
+Robbins, 120 S. Ct. 746 (2000). Robbins explained that the 
+procedure outlined in Anders v. California, 386 U.S. 738 
+(1967), for the withdrawal of court-appointed appellate coun- 
+sel who views his client’s claims as frivolous was not “an in- 
+dependent constitutional command” but instead constituted 
+“‘a prophylactic framework’ that we established to vindicate 
+the constitutional right to appellate counsel.” 120 S. Ct. at 
+757. The decision in Anders, the Court noted in Robbins, 
+“simply erected] ‘safeguards.’” bid.“ Robbins thus held 
+that, when counsel for an indigent defendant concludes that 
+the appeal is frivolous and seeks to withdraw, States must 
+have “procedures [that] adequately safeguard a defendant’s 
+right to appellate counsel.” Id. at 753; see also id. at 760. 
+Yet the Court also made clear that no single set of proce- 
+dures is required—the test is whether a particular pro- 
+cedure “reasonably ensures that an indigent’s appeal will be 
+resolved in a way that is related to the merit of that appeal.” 
+Id. at 759." Finally, Robbins held that, even where a State 
+provides adequate procedures for assuring that appointed 
+counsel will not improperly withdraw, a defendant may still 
+
+
+cumstances” test also resolves a question of law about the permissible 
+“techniques for extracting the statements”; it is not a question of historical 
+fact. Miller v. Fenton, 474 U.S. 104, 116 (1985). 
+
+This Court’s description of Miranda is to the same effect: Miranda 
+provided a set of “procedural safeguards” that are “prophylactic” in char- 
+acter. Michigan v. Tucker, 417 U.S. at 444, 446. 
+
+7 Miranda similarly contemplated legislative alternatives: [Wie can- 
+not say that the Constitution necessarily requires adherence to any par- 
+ticular solution for the inherent compulsions of the interrogation process. 
+* * * We encourage Congress and the States to continue their laudable 
+search for increasingly effective ways of protecting the rights of the 
+individual while promoting efficient enforcement of our criminal laws.” 
+384 U.S. at 467. 
+
+
+7 
+claim that he was deprived of the underlying constitutional 
+right to counsel, under the test of Strickland v. Washington, 
+466 U.S. 668 (1984). 120 S. Ct. at 763-764." 
+
+In all of those respects, Robbins’s constitutional analysis 
+runs parallel to Miranda: in both settings, a prophylactic set 
+of procedures is required to protect rights; a legislature may 
+experiment with alternative procedures, subject to this 
+Court’s review for adequacy; but a legislature may not sim- 
+ply eliminate all such procedures in favor of correcting ac- 
+tual violations on a case-by-case basis. Whether or not rules 
+such as Miranda and Anders are properly described as “con- 
+stitutional common law” (Amicus Br. 10 n.7), they “cannot be 
+overturned by mere congressional disapproval. * * * Con- 
+gress my override preemptive lawmaking based on the Con- 
+stitution, but only if the federal courts independently con- 
+clude that Congress has enacted a statute that provides 
+roughly the same degree of protection for constitutional po- 
+licies as the federal common law rule.” Thomas W. Merrill, 
+The Common Law Powers of Federal Courts, 52 U. Chi. L. 
+Rev. 1, 57-58 (1985). 
+
+C. A Plenary Congressional Power To Overrule Miranda 
+
+Has No Case Law Support 
+
+Amicus seeks support for his theory of congressional 
+power to modify or overrule this Court’s constitutional hold- 
+ugs in several other branches of this Court’s jurisprudence. 
+Non : of those lines of cases assists him. 
+
+1. Bivens. In Bivens v. Six Unknown Agents, 403 U.S. 
+388 (1971), this Court, exercising the traditional authority of 
+courts “to adjust their remedies so as to grant the necessary 
+relief,” id. at 392, recognized a cause of action for damages 
+
+
+8 Miranda has the same feature: even when the warnings have been 
+given, the suspect may still raise a claim that subsequent statements were 
+involuntary under the totality-of-the-circumstances test. See Withrow v. 
+Williams, 507 U.S. at 693-694. In practice, however, once a defendant 
+waives his rights after adequate warnings, the voluntariness claim is 
+virtually sure to fail. See U.S. Br. 36-38. 
+
+
+9 
+
+against federa! officials for the violation of Fourth Amend- 
+ment rights. The Court drew on the judicial power, author- 
+ized in the grant of general federal question jurisdiction in 28 
+U.S.C. 1331: “In the absence of * * * a congressional 
+directive, the federal courts must make the kind of remedial 
+determination that is appropriate for a common-law tribu- 
+nal.” Bush v. Lucas, 462 U.S. 367, 378 (1983). 
+
+The Court has held that Congress may displace Bivens 
+actions, at least when it provides “constitutionally adequate” 
+alternatives. Bush, 462 U.S. at 378 n.14. Assuming that 
+Congress may completely eliminate a Bivens remedy in a 
+particular context (a question the Court has reserved), 
+Bivens does not furnish an analogy to Miranda. Bivens was 
+not based on a constitutional requirement deriving from the 
+Fourth Amendment, but on the Court’s traditional authority 
+under Section 1331 to imply a cause of action for damages in 
+federal court to remedy a completed violation of law. Con- 
+gressional power over the implication of such federal causes 
+of action for damages has always been recognized as plenary. 
+By contrast, Miranda and the cases following it are based on 
+the proposition that the Self-Incrimination Clause requires 
+safeguards to prevent violations in the distinctive context of 
+custodial interrogation. Plenary congressional authority over 
+whether the Constitution requires safeguards would be in- 
+consistent with this Court’s cases from Marbury v. Madison, 
+5 U.S. (1 Cranch) 137 (1803), to City of Boerne v. Flores, 521 
+U.S. 507 (1997). 
+
+
+® Amicus also cites Mapp v. Ohio, 367 U.S. 643 (1961), to exemplify his 
+view that this Court has “authority to improvise measures to assist in the 
+protection of constitutional rights where neither the Constitution nor the 
+legislature has specified a particular mechanism for protecting those 
+rights.” Br. 10. He does not expressly assert that Congress could, with- 
+out providing an adequate alternative, simply eliminate the exclusionary 
+rule. But, because the exclusionary rule is not a “personal constitutional 
+right” of the defendant, United States v. Leon, 468 U.S. 897, 906 (1984), 
+amicus’s theory about Miranda necessarily implies that result. In effect, 
+
+
+10 
+
+2. Act of State and Commerce Clause Cases. Amicus 
+asserts that in cases applying the Act of State doctrine, the 
+Court has recognized its authority to a craft a rule applicable 
+to the States that is “subject to revision and restriction by 
+Congress as a judicially developed, nonconstitutional rule, 
+even while the Court’s authority to craft it in the first in- 
+stance is not seriously in doubt.” Br. 18; see also Br. 18 n.11. 
+The Act of State doctrine is not comparable to Miranda. It 
+recognizes limitations on judicial inquiry into foreign govern- 
+mental action. The authority of federal courts to adopt such 
+a rule of decision and apply it to the States arises from 
+constitutional grants of authority that “reflect{] a concern for 
+uniformity in this country’s d with foreign nations and 
+indicatſe] a desire to give matters of international signifi- 
+cance to the jurisdiction of federal institutions.” See Banco 
+Nacional de Cuba v. Sabbatino, 376 U.S. 398, 427 n.25 (1964). 
+Because the doctrine protects powers reserved to the fed- 
+eral government, it necessarily binds the States. And be- 
+cause the ultimate constitutional responsibility for foreign 
+affairs resides in the Executive and Legislative Branches, 
+those branches have substantial latitude to modify the other- 
+wise applicable judicial rule. Cf. First Nat’! City Bank v. 
+Banco Nacional de Cuba, 406 U.S. 759, 767-768 (1972) (plu- 
+rality opinion) (addressing authority of Executive Branch to 
+supersede Act of State doctrine). By contrast, Miranda does 
+not rely on or protect constitutional grants of authority to 
+the political branches of the federal government. Therefore, 
+those branches have no authority to abrogate this Court’s 
+decisions in Miranda and its progeny. 
+
+The dormant Commerce Clause cases cited by amicus (Br. 
+18 n.11) are irrelevant for a similar reason: that doctrine de- 
+rives from and protects the plenary power of Congress to 
+regulate commerce. See South-Central Timber Dev., Inc. v. 
+
+
+amicus would have this Court cede to Congress plenary authority to 
+define the measures that are required to protect constitutional rights. 
+
+
+— — 
+
+
+224 
+
+
+11 
+
+Wunnicke, 467 U.S. 82, 87-88 (1984) (dormant Commerce 
+Clause is “a self-executing limitation on the power of the 
+States,” but it is “clear that Congress may redefine the dis- 
+tribution of power over interstate commerce by permit(ting] 
+the states to regulate the commerce in a manner which 
+would otherwise not be permissible”) (Opinion of the Court; 
+internal quotation marks omitted). 
+
+II. SECTION 3501 IMPERMISSIBLY RETURNS THE 
+
+LAW TO ITS PRE-MIRANDA STATE 
+
+Amicus argues (Br. 28) that, even if the Court may require 
+some “prophylaxis” beyond the voluntariness standard, Sec- 
+tion 3501, “taken together with the legal landscape that sur- 
+rounds it, provides more than adequate protection to safe- 
+guard suspects from police compulsion.” Section 3501, how- 
+ever, was intended to—and does—simply return the law to its 
+pre-Miranda state. See U.S. Br. 13-20; J. A. 197. Moreover, 
+there are no changes in the surrounding “legal landscape” that 
+compensate for Section 3501’s abrogation of Miranda’s core 
+holdings. 
+
+1. Section 3501. Section 3501 requires a court to admit a 
+confession “if it is voluntarily given,” 18 U.S.C. 3501(a), and 
+it directs the court to “take into consideration all the cir- 
+cumstances surrounding the giving of the confession” in de- 
+termining voluntariness, 18 U.S.C. 3501(b). Section 3501 
+thereby codifies pre-Miranda law, which in virtually identi- 
+cal terms required that “all the circumstances attendant 
+upon the confession must be taken into account” in determin- 
+ing its voluntariness. Reck v. Pate, 367 U.S. 433, 440 (1961). 
+Amicus does point out (Br. 33) that Section 3501 requires 
+consideration of the defendant’s knowledge of “the nature of 
+the offense with which he was charged or * * * suspected,” 
+a factor that the Court subsequently conclude¢ is not rele- 
+vant to the voluntary waiver of Fifth Amendment rights. 
+Colorado v. Spring, 479 U.S. 564, 577 (1987). Section 3501, 
+however, does not require courts to give specific weight to 
+that (or any other) factor. And to the extent that the defen- 
+
+
+12 
+
+
+dant’s awareness of the charges might be relevant under 
+
+
+Section 3501, although irrelevant under the Fifth Amend- 
+ment, it would not serve any purpose in protecting constitu- 
+tional values. See U.S. Br. 18 n.13. 
+
+Amicus also argues (Br. 32) that “(t]he incentives to [give 
+Miranda warnings] that Section 3501 provides are much 
+stronger than those in pre-Miranda law.” He observes (Br. 
+32) that Section 3501 requires that a court, in determining 
+voluntariness, “shall take into consideration all the circum- 
+stances surrounding the giving of the confession, including” 
+whether a suspect “was advised or knew” of his right to re- 
+main silent and whether he “had been advised * * * of his 
+right to the assistance of counsel,” 18 U.S.C. 3501(b). Before 
+“Miranda, however, this Court had very frequently adverted 
+to those same factors as important elements in the totality- 
+of-the-circumstances voluntariness test. See U.S. Br. 15-16 
+nn.10-11 (citing cases). Amicus does not explain how a direc- 
+tion to courts that they “shall” consider all the circumstances, 
+including two particular factors, differs in any significant 
+way from pre-existing law, which required that courts 
+“must” consider all the circumstances, Reck, 367 U.S. at 440 
+including (under this Court’s cases) those same two factors. 
+
+2. Other remedies. Amicus also contends (Br. 34) that, 
+apart from Section 3501, “the legal incentives for non-coer- 
+cive police questioning today are almost unrecognizably 
+greater than when Miranda was decided,” and that those in- 
+centives, together with Section 3501, create a “constitution- 
+ally adequate alternative to the Miranda rules,” Br. 37. 
+Amicus fails, however, to substantiate that contention. 
+
+a. Amicus argues that Bivens actions are now available 
+against federal law enforcement authorities, although “{[wJhen 
+Miranda was written, it was quite difficult as a practical 
+matter to obtain damages in federal court from federal law 
+enforcement officers who violated Fifth Amendment rights.” 
+Br. 34. Three of the four consolidated cases decided in this 
+Court’s Miranda decision were state cases. Damages against 
+
+
+— 
+
+
+~~ 
+
+
+— 
+
+
+13 
+state law enforcement officials for violations of constitutional 
+rights had been recognized since this Court’s decision in 
+Monroe v. Pape, 365 U.S. 167 (1961), five years before 
+Miranda. That remedy did not affect the result in Miranda 
+or this Court’s later cases. Amicus offers no reason to assign 
+greater weight to that remedy now. 
+
+In any event, Bivens and Section 1983 actions are of little 
+utility in protecting against “the compulsion inherent in 
+custodial surroundings,” 384 U.S. at 458, which is the focus of 
+the Mira rules. While the use of force to obtain a con- 
+fession may be deterred by the prospect of a damages award 
+under Bivens or Section 1983, Miranda does not address the 
+use of violence. The subtler coercive pressures addressed by 
+Miranda are far less likely to result in damages. Damages 
+would also be rare because, when a confession is excluded 
+from evidence, there would be no Fifth Amendment viola- 
+tion, see United States v. Verdugo-Urquidez, 494 U.S. 259, 
+264 (1990); and when a confession is admitted and the convic- 
+tion upheld, there would be no sustainable claim.“ 
+
+b. Amicus’s reliance (Br. 34-35) on the Federal Tort 
+Claims Act, 28 U.S.C. 2680(h), is also misplaced, since psy- 
+chological coercion in interrogation would not, standing alone, 
+constitute an “assault, battery, false imprisonment, false ar- 
+rest, abuse of process, or malicious prosecution.” Ibid. In 
+short, the remedies noted by amicus cannot make up for Sec- 
+tion 3501’s overt return to the pre-Miranda law governing 
+the voluntarine of a confession. 
+
+
+18 U.S.C. 241 and 242, also cited by amicus (Br. 35), are likewise 
+unhelpful. Those remedies were available before Miranda, see Williams 
+v. United States, 341 U.S. 97 (1961), and provide minimal protection to the 
+Fifth Amendment privilege in the settings relevant in Miranda cases. 
+
+" Amicus also cites (Br. 35 & n.25) 28 U.S.C. — 222 
+
+that attorneys are subject to state 
+— aah teeanan enmabentan to thn wank eubesity of entediel 
+interrogations, which are conducted by law enforcement agents without 
+the involvement or direction of government attorneys. 
+
+
+14 
+III. THE SHOWING REQUIRED TO OVERRULE 
+MIRANDA HAS NOT MADE 
+
+Our opening brief submitted that, applying settled princi- 
+ples of stare decisis, there is insufficient justification for over- 
+ruling Miranda. The amici in support of the judgment 
+largely avoid the term “overrule”; they ins: request this 
+Court to “modify” Miranda by abandonſ in t!.e irrebuttable 
+presumption that confessions obtained without compliance 
+with the Miranda procedures are always involuntary.” Cas- 
+sell Br. 40. Because the government already bears the bur- 
+den of establishing the voluntariness of a confession by a pre- 
+ponderance of the evidence, see Lego v. Twomey, 404 U.S. 477, 
+489 (1972), adopting a rebuttable presumption is equivalent 
+to overruling Miranda outright. That course is not war- 
+ranted. 
+
+
+A. The Proportionality Of Miranda 
+
+Amicus argues (Br. 40-48) that Miranda’s irrebuttable pre- 
+sumption must be abandoned because it is not “congruent 
+and proportional,” see Boerne, 521 U.S. at 508, to an underly- 
+ing constitutional right and is therefore beyond this Court’s 
+authority. That conclusion is mistaken. 
+
+
+The underlying point of the “congruence and proportion- 
+ality” analysis, applied in Boerne in analyzing Congress’s 
+power under Section 5 of the Fourteenth Amendment, is to 
+inquire whether remedial measures devised by Congress 
+permissibly protect an underlying constitutional right or in- 
+stead impermissibly redefine the right. See Kimel v. Flor- 
+ida Bd. of Regents, 120 S. Ct. 631, 644-645 (2000). This Court 
+has never said that such an analysis applies to the Court’s 
+own formulation of prophylactic constitutional standards. 
+But, even if it were to do so now, the Court’s prior holding 
+that either Miranda or some adequate alternative is neces- 
+sary to effectuate the Self-Incrimination Clause would 
+satisfy that analysis. 
+
+Miranda itself extensively analyzed the nature of custo- 
+
+
+dial interrogation, the utility of warnings in promoting a 
+
+
+15 
+voluntary decision by the suspect, and the impact on law 
+enforcement of a warnings-and-waiver rule before conclud- 
+ing that such a rule (or an equally effective legislative safe- 
+guard) was necessary to protect the privilege. 384 U.S. at 
+445-491. In later cases, the Court has firmly adhered to the 
+view that “the Court in Miranda was impelled to adopt” the 
+irrebuttable presumption, Garner v. United States, 424 US. 
+648, 657 (1976), and that “protection of the privilege against 
+self-incrimination during pretrial questioning requires appli- 
+
+
+cation of special ‘procedural safeguards,” Pennsylvania v. 
+Muniz, 496 U.S. 582, 589 (1990). In Moran v. Burbine, 475 
+
+
+U.S. at 424, 426-427, the Court reviewed the competing con- 
+cerns implicated by custodial interrogation and reaffirmed 
+Miranda as a “carefully drawn approach.” 
+
+Amicus suggests (Br. 41-42) that under the “congruence 
+and proportionality” test, a prophylactic rule is justifiable 
+only if it operates where the underlying constitutional norm 
+has been—or likely has been—violated. Amicus is incorrect. 
+This Court has frequently recognized prophylactic rules, but 
+it has never suggested that they must satisfy that standard. 
+See U.S. Br. 44-47. For example, the Court in Anders and 
+Robbins did not justify the prophylactic rule at issue there 
+(see pp. 7-8, supra) by stating that, as an empirical matter, 
+most instances in which appointed appellate counsel unilater- 
+ally withdraw involve appeals of arguable merit rather than 
+frivolous appeals. A sensible approach to this Court’s pro- 
+phylactic rules inst: ad considers the importance of the right, 
+the efficacy of competing approaches, and the costs and 
+benefits of a safeguard.” 
+
+
+12 The ultimate conclusion on the need for and efficacy of a prophylactic 
+rule to effectuate a constitutional right is not a question of legislative 
+
+
+policy or factfinding in this setting any more than it would be in other 
+constitutional contexts. Amicus relies (Br. 26-27) on the 1968 Senate com- 
+
+
+Congress is not free simply to substitute its view for this Court’s judg- 
+ment regarding the ultimate constitutional balance to be drawn. See 
+
+
+16 
+B. The Costs And Benefits Of Miranda 
+
+
+The amici in support of the judgment believe that the 
+costs of Miranda’s exclusionary rule outweigh any of its 
+benefits. E.., Cassell Br. 46. We do not minimize the costs 
+of excluding probative evidence, either in general or in any 
+particular case. The question whether those costs are justi- 
+fied, however, involves a weighing of competing interests 
+and an assessment of the actual impact of the rule. See, e. g., 
+United States v. Janis, 428 U.S. 433 (1976). 
+
+1. The Exclusionary Rule. Miranda serves at least 
+three purposes. First, it provides procedures to dispel the 
+inherent potential for compulsion in custodial interrogation. 
+See Moran v. Burbine, 475 U.S. at 425, 426-427. Second, it 
+provides, a defined legal standard for the courts in place of 
+the less determinate and more subjective voluntariness in- 
+quiry. See Tucker, 417 U.S. at 442-443. Third, it provides 
+guidance for the police and prosecutors. Spring, 479 U.S. at 
+577 n.9. It achieves those goals through application of an 
+irrebuttable presumption of compulsion only in the govern- 
+ment’s case-in-chief, and then only where not overborne by 
+public safety interests. See pp. 4-6, supra. 
+
+This Court was fully aware in Miranda that its holding 
+would preclude the use of some confessions. And the Court 
+has since enforced the doctrine in cases in which the result 
+has been to reverse convictions for serious crimes. See, e. g., 
+Minnick v. Mississippi, supra; Arizona v. Roberson, 486 
+U.S. 675 (1988); Edwards v. Arizona, 451 U.S. 477 (1981). 
+Accordingly, the observation that Miranda violations will 
+foreclose the use of some evidence cannot, standing alone, 
+justify overruling that decision. 
+
+While the exclusionary rule does impose certain costs, it 
+also enables this Court to define and enforce legal require- 
+
+
+Boerne, 521 U.S. at 519; see also H. Monaghan, Foreword: Constitutional 
+Common Law, 89 Harv. L. Rev. 1, 34 n.176, 42 n.217 (1975); Y. Kardsar, 
+Can (Did) Congress Overrule Miranda ?, 85 Cornell L. Rev. 883, 916-929 
+
+
+(2000) (forthcoming). 
+
+
+— —ñÄEä—ͤ n 8 
+——ů— 
+
+
+17 
+
+ments. By doing so, the Court facilitates the admission of 
+the great number of confessions in which the police comply 
+with Miranda. In the absence of such a restraining legal 
+rule, there may be temptation to interrogate suspects with- 
+out providing Miranda warnings, in the hope that a court 
+could subsequently be persuaded that a resulting confession 
+was voluntary. If the courts disagree, prosecutions may be 
+seriously compromised. Miranda thus helps to ensure that 
+statements made by suspects in custodial interrogation will 
+ultimately be found admissible at trial. We therefore agree 
+with an American Bar Association committee that concluded 
+that “({aJlthough the Miranda decision has sparked heated 
+controversy on a political level, the restrictions it imposes 
+are not considered troublesome by either police or prosecu- 
+tors.” ABA Special Comm. on Crim. Justice in a Free Soci- 
+ety, Criminal Justice in Crisis 27 (1988). See also ibid. 
+(“The Committee finds that Miranda does not have a signifi- 
+cant impact on law enforcement’s ability to solve crime or to 
+prosecute criminals successfully.). 
+
+2. Federal Prosecutions. With respect to the costs of the 
+Miranda rule, our submission is informed by experience in 
+federal prosecutions. Federal courts rarely order the sup- 
+pression of statements under Miranda. Between 1989 and 
+1999, approximately 720,000 federal prosecutions were 
+brought; during that period, according to the Justice Depart- 
+ment’s records, federal courts suppressed approximately 78 
+statements under Miranda—.e., one out of every 9,300 fed- 
+
+
+18 Some amici have pointed out that Miranda itself does not always 
+provide a “bright line” test. Certainly, Miranda requires application of 
+judgment. But this Court has regularly recognized that Miranda provides 
+far better guidance to police and courts than a multi-factor “totality” test, 
+see U.S. Br. 34 n.24, and experience has not suggested otherwise. 
+
+14 We acknowledge that some members of the law enforcement commu- 
+nity participating in this case contend that Miranda is harmful to law 
+enforcement. With respect, we do not agree that the claimed harms are 
+sufficient to justify overruling of Miranda. Other amici in the law enforce- 
+ment community have filed briefs in agreement with our view. 
+
+
+18 
+
+eral prosecutions.” Suppression can impose a cost in a par- 
+ticular case that numbers cannot adequately convey. None- 
+theless, the infrequency of suppression under Miranda in fed- 
+eral prosecutions weighs against overruling that decision.“ 
+
+Amicus Cassell (Br. 24) states that, “contrary to the im- 
+pression conveyed in the government’s brief [at 34], the 
+actual views of federal law enforcement agencies that have 
+been lodged with the Court reveal serious difficulties with 
+Miranda’s exclusionary rule.” That is incorrect. In general, 
+the letters we have lodged with the Court conclude that the 
+core mandates of Miranda do not hinder law enforcement 
+efforts in any significant way, although certain extensions of 
+Miranda have caused some difficulties. U.S. Br. 35. For 
+example, the FBI General Counsel stated that “[tJhe FBI 
+has very little difficulty complying with the relatively simple 
+mandates of the Miranda decision,” although Iplroblems do 
+occur * * * when those dictates are complicated by the ad- 
+ditional protections afforded custodial subjects by [Edwards, 
+Roberson, and Minnickl.“ The Treasury Department law 
+enforcement agencies reported that they “favor the current 
+legal framework and do not find that the issuance of 
+Miranda warnings hinders their investigations,” “would not 
+support any modification to current practices,” and “would 
+{not] support replacing Miranda with the §3501 voluntari- 
+
+
+15 The figures are reproduced and explained in the Appendix, infra. 
+
+16 Amicus has acknowledged that only a “tiny fraction of cases * * * 
+go forward but are later lost because of a Miranda suppression motion.” 
+P. Cassell, Miranda’s Social Costs: An Empirical Reassessment, 90 Nw. 
+U. L. Rev. 387, 394 (1996). In his writings, he has argued instead that the 
+“typical” cost of Miranda is the result of “diminishing the confession rate 
+and thus reducing the evidentiary strength of the prosecution’s case.” Id. 
+at 437. That claim is highly debatable. See U.S. Br. 32 n.23. But since 
+amicus now urges (Br. 31, 32 n.23) that under Section 3501 “federal law en- 
+forcement officers will almost certainly continue to give [Miranda warn- 
+inge,“ replacing Miranda with Section 3501 would not increase the num- 
+ber of confessions, and it would therefore do nothing to alleviate what 
+amicus has consistently claimed is Miranda’s primary cost to law enforce- 
+
+
+ment. 
+
+
+19 
+ness standard.“ And the DEA reported that it is “unable to 
+cite any incidents in which the requirement to provide 
+Miranda warnings to a suspect adversely impacted on a 
+case.” Chief Counsel Memorandum (Feb. 22, 2000). 
+
+Amicus Cassell asserts (Br. 25) that the Justice Depart- 
+ment “has for many years supported the constitutionality of 
+Section 3501.“ Amicus relies (Br. 25-25) principally on re- 
+commendations to the Attorney General (which did not re- 
+sult in formal policies) and recollections of certain former 
+Justice Department officials in after-the-fact congressional 
+testimony. Those sources do not express official Justice 
+Department policy. The more telling and indisputable fact is 
+that, “with limited exceptions [Section 3501] has been studi- 
+ously avoided by every Administration, not only in this Court 
+but in the lower courts, since its enactment more than 25 
+years ago.” Davis v. United States, 512 U.S. 452, 463-464 
+(1994) (Scalia, J.,concurring). That position implies both a rec- 
+
+
+17 The Acting Chief of the Office of Tax Crimes stated that his office 
+“finds no advantage by either modifying [its] current procedures con- 
+cerning Miranda or adopting Title 18 U.S.C. 63501.“ The Commissioner of 
+Customs stated that “I do not believe that the Miranda warnings have 
+compromised Customs officers’ ability to question suspects or obtain con- 
+fessions admissible in court. The clear rule of Miranda provides firm 
+guidance for our officers, and I strongly recommend that it not be 
+changed.” And the ATF, through its Assistant Director, reported that 
+AImjost agents have grown accustomed to the Miranda process, and it 
+
+does not disturb the progress of many investigations. * * * 
+Section 3501 has the potential to cloud an area of the law that has become 
+second nature to the investigator. Miranda has provided a good balance 
+between the rights of the accused and the conduct of law enforcement.” 
+
+18 Amicus relies (Br. 25) on an earlier letter from a DEA official that 
+states that the giving of Miranda warnings in “a stressful environment” 
+following an arrest “can have a chilling effect” on a suspect’s willingness to 
+cooperate. Memorandum from Richard Fiano, DEA Chief of Operations 2 
+(Oct. 13, 1999). The DEA has made clear, however, that “regardless of 
+any change in the Miranda rule which may result in this case, DEA will 
+continue, as a policy matter, to counsel its Agents to provide Miranda 
+warnings.” Chief Counsel Memorandum (Feb. 22, 2000); accord DEA 
+Deputy Chief Counsel Gleason Memorandum (undated, sent Oct. 1, 1997). 
+
+
+20 
+ognition of Section 3501’s conflict with Miranda and the ab- 
+sence of sufficient reason to request this Court to overrule it. 
+
+3. The alternatives to Miranda. Miranda stated that 
+“Congress and the States are free to develop their own safe- 
+guards for the privilege, so long as they are fully as effective 
+as those described {in Miranda] in informing accused per- 
+sons of their right of silence and in affording a continuous 
+opportunity to exercise it.” 384 U.S. at 490. The precise 
+standard of constitutional adequacy that an alternative safe- 
+guard must satisfy is not before the Court in this case. If 
+Congress or a state legislature were to provide for a set of 
+limited warnings coupled with video or audio taping of the 
+interrogation, or for some other alternative set of safeguards, 
+such as pre-interrogation access to a magistrate, counsel, or 
+other competent advisor, the Court would be faced with the 
+question whether the Miranda rules remained applicable in 
+the jurisdiction at issue. Section 3501, however, as its sup- 
+porters intended, see U.S. Br. 18-20, seeks to return the law 
+to its pre-Miranda state without providing any alternative. 
+That approach would require overruling Miranda. 
+
+In considering the sea change in the law that is being pro- 
+posed, it is worth recalling that the Miranda Court arrived 
+at its solution only after concluding that the “totality of the 
+circumstances” voluntariness test, as the sole protection for 
+the Fifth Amendment rights of a custodial suspect, had failed. 
+The “totality” test had been found inadequate not because of 
+bad faith by police, or because of unwillingness of courts to 
+grapple with the inquiry. It was inadequate because a 
+“totality” test, without more, provided insufficient guidance 
+to the police, left inadequate means for this Court to unify 
+and expound the law, and resulted in an uncertain legal rule 
+that could not secure the vital constitutional rights at stake. 
+There has been no showing that a return to that regime 
+would be successful today. 
+
+
+Respectfully submitted. 
+
+
+APRIL 2000 
+
+
+21 
+
+
+JANET RENO 
+
+
+Suppressed Statements Under Miranda 
+In Federal Prosecutions 
+
+
+Year | Total Defendants | Miranda Suppression 
+Prosecuted* | Orders Reported to the 
+Solicitor General** 
+1889 58,160 6 
+1990 60,521 7 
+1991 62.112 6 
+1992 66,502 10 
+1993 63,869 13 
+1994 62,327 2 
+1995 63,547 1 
+1996 65,480 3 
+1997 69,351 11 
+1998 78,172 9 
+1999 76.689 10 
+Totals | 726, 780 78 
+
+
+Notes 
+
+
+* The figures for “Total Defendants Prosecuted” for 
+1989-1998 are drawn from U.S. Department of Justice, Office 
+of Justice Programs, Federal Criminal Case Processing, 
+1982-93, at 2 (Table 2); U.S. Department of Justice, Office of 
+
+
+(la) 
+
+
+2a 
+
+
+Justice Programs, Federal Criminal Case Processing, 1998, 
+at 26 (Table A.6). Information for 1999, through September 
+30, 1999, was obtained from the Department’s Bureau of 
+Justice Statistics. Memorandum from John Scalia (Mar. 15, 
+2000). | 
+
+** The figures for the number of suppression orders are 
+derived from adverse Miranda rulings (78) reported to the 
+Solicitor General according to Justice Department require- 
+ments. See 28 C.F.R. 0.20(b); U.S. Attorney’s Manual 
+§ 2-2.110 (June 1998). Seventy-six of those decisions were 
+reported to members of the U.S. Senate in two letters: a 
+November 5, 1977, letter to Senator Fred Thompson and a 
+November 22, 1999, letter to Senator Strom Thurmond. This 
+table adds adverse decisions reported through the end of 
+1999. The figures necessarily omit cases in which prosecu- 
+tors did not report suppression orders and instances in which 
+an unwarned statement was not offered into evidence. The 
+number of cases in which confessions were suppressed (78) 
+includes cases in which the government successfully chal- 
+lenged the suppression ruling on appeal (11), as well as cases 
+pending on appeal (5). The table does not reflect whether 
+the case was successfully prosecuted without the statement; 
+whether the statement was also found to be involuntary 
+under the totality-of-the-circumstances test; or whether the 
+defendant ultimately agreed to plead guilty notwithstanding 
+the suppression ruling. 
+
+

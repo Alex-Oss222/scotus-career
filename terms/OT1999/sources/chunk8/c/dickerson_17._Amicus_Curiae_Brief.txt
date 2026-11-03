@@ -1,0 +1,1480 @@
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+
+
+Vv. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+For the Fourth Circuit 
+
+
+BRIEF AMICUS CURIAE 
+OF THE HOUSE DEMOCRATIC LEADERSHIP 
+IN SUPPORT OF PETITIONER 
+
+
+Charles Tiefer 
+(Counsel of Record) 
+Associate Professor 
+University of Baltimore School of Law 
+1420 North Charles Street 
+Baltimore, MD 21201 
+(301) 951-4239 
+
+
+Jonathan W. Cuneo 
+The Cuneo Law Group 
+317 Massachusetts Avenue, N.E. 
+
+
+Washington, D.C. 20002 - 
+(202) 789-3960 
+
+
+Counsel for Amicus Curiae 
+House Democratic Leadership 
+
+
+Baimar Legal Publishing Department, Washington, D.C. (202) 682-9629 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES .. 
+
+
+I. Miranda’s Constitutional Basis, and This 
+Court’s Decades of Reaffirming Miranda, 
+Prevent Congress From Simply Superseding 
+It By a Provision Such As Section 3501..................5 
+Congress Provided Little or No Basis in 
+Section 3501 For a Challenge to Miranda...........8 
+
+
+A. As the Context of the 1968 
+Enactment Shows, Congress Had 
+Little Basis for 
+Miranda By a Statute, Such as 
+Section 3501, Applicable Only in 
+
+
+The Process of Passage, and the 
+Final Form of Title 0, Show 
+Congress Not Expecting a Section 
+3501 Challenge to Miranda 
+Absent a Change in Executive 
+Branch Opposition to Doing So............11 
+
+
+The History of Section 3501 
+Confirms Congress’ Expectation 
+That Section 3501 Would Serve 
+le gy a 
+Producing a Serious 
+If Section 3501 is Applied in this Case to 
+Require This Court to Deem Miranda 
+Superseded, § The Provision 
+Unconstitutional As So Applied. .. 
+
+
+CONCLUSION.. 
+
+
+‘3 
+
+
+TABLE OF AUTHORITIES 
+Cases: Page(s) 
+American Foreign Service Association v. Garfinkel, 
+
+GIO UB. TSS CRB cevse scassocssscorssinpniiniaaaaaaal 2, 24 
+Berger v. New York, 388 U.S. 41 (1967) ...........cccccssceesseessees 15 
+Bowsher v. Synar, 478 U.S. 714 (1986).............ccccscsesssseeseeeees 2 
+Burke v. Barnes, 479 U.S. 361 (1987) .0......:cccccscessecsseesceeseenses 2 
+City of Boerne v. Flores, 521 U.S. 507 (1997) ...........cc00ss0000 24 
+Davis v. United States, 312 U.S. 452 (1994) .........cccccccssccesseeee 8 
+Escobedo v. Illinois, 378 U.S. 478 (1964) ...........cccccsssesssseeseees 9 
+Edwards v. Arizona, 451 U.S. 481 (1981) ............ccccccccssseeseees 6 
+Harris v. McRae, 448 U.S. 297 (1980) .0........ccccccscessseeeenseesees 2 
+Haynes v. Washington, 373 U.S. 503 (1963)..............:seeseeesees 7 
+Illinois v. Perkins, 496 U.S. 292 (1990) .........cccccccceessesseeeeeneee 5 
+INS v. Chadha, 462 U.S. 919 (1983) ..........ccccccscesseesseeseeeseeesees l 
+Jencks v. United States, 353 U.S. 657 (1957) ........cc.ccceeeseeeeee 15 
+Katz v. United States, 389 U.S. 347 (1967) ...........ccccccessceeeees 15 
+Miranda v. Arizona, 384 U.S. 436 (1966) ................+ (passim) 
+Moran v. Burbine, 475 U.S. 412 (1986) .........:..ccccccesseesseeeee 5, 6 
+Morrison v. Olson, 487 U.S. 654 (1988) ..........cccccccccccccseeeeseeee 2 
+Palermo v. United States, 360 U.S. 343 (1959)...........cc.sccee0 15 
+United States v. Crocker, 510 F.2d 1129 (10* Cir. 1975)......20 
+United States v. Eichman, 496 U.S. 310 (1996) .............0c0000+ 2 
+United States y. Vigo, 487 F.2d 295 (2d Cir. 1973)............... 20 
+Withrow v. Williams, 57 U.S. 680 (1993).............cccccccceesseerees 6 
+
+
+Page(s) 
+Statutes: 
+
+
+18 U.S.C. Section 3501, Title Il, sec. 701, Omnibus 
+Crime Control and Safe Streets Act of 1968, Pub. L. 
+
+
+ee es MEE MEE Sot cnecccsnassnccsensssssensccescesesnssssseses passim 
+Title Il] of the 1968 Act, 82 Stat. 211, 18 U.S.C. sec. 
+
+| eee 15 
+Legislative Materials 
+114 Cong. Rec. 11891 (May 6, 1968)(Sen. Tydings) ........... 16 
+114 Cong. Rec. 11895 (May 6, 1968)...............ccccccccseeeeeeeeees 11 
+114 Cong. Rec. 13990 (May 20, 1968)(Sen. Tydings).......... 14 
+114 Cong. Rec. 14135 (May 21, 1989)(Sen. Fong)............... 16 
+114 Cong. Rec. 14148 (May 21, 1968).............ccccccsceseeeeeees 11 
+114 Cong. Rec. 14180 (May 21, 1958)(Sen. Griffin)............ 17 
+114 Cong. Rec. 14181, 14184 (May 21, 1968)...................... 18 
+114 Cong. Rec. 14184 (May 21, 1968)...............ccccccccseeeeeees 16 
+114 Cong. Rec. 16067 (June 5, 1968).............cccccecceeeeeeeeeenes 17 
+
+
+Hearings on S. 300, S. 552, S. 580, S. 274, S. 275, 
+S. 278, S. 798, S. 824, S. 916, S. 917, S. 992, 
+S. 107, S. 1094, S. 1194, S. 1333, and S. 2050. 
+Before the Subcomm. On Criminal Laws and 
+Procedures of the Senate Comm. Of the Judiciary, 
+SOtha Cong... Let Seas. 81 (1967) .........0.cccccrccscresccecsecceerseese 12 
+
+
+President's Letter to the Majority Leader of the Senate 
+Regarding the Crime Control and Safe Streets Bill, 
+
+
+4 Pub. Papers 772, 773 (May 9, 1968), reprinted in 
+114 Cong. Rec. 12450 (May 9, 1968)...............ccccccceeeseeees 16 
+
+
+iv 
+Page(s) 
+
+
+Office of Legal Policy of the Department of Justice, 
+Report to the Attorney General on the Law of Pre- 
+
+
+Trial Interrogation (1986), reprinted in 22 U. Mich 
+TR I, ee eee 21 
+
+
+Rule [1(8) of the Rules of the House of Representatives ......... 2 
+
+
+S. Rep. No. 170, 90th Cong., 2d Sess. (1968), 1968 
+A 8 ee 12, 13, 14 
+
+
+Lyndon B. Johnson, Statement by the President Upon 
+Signing the Omnibus Crime Control and 
+Safe Streets Act of 1968 (June 19, 1968), in 
+4 Pub. Papers 981, 983 (June 19, 1968)...................cccceeees 18 
+
+
+Testimony of Associate Professor Daniel C. Richman, 
+Voluntary Confessions Law: Hearings of the 
+Subcomm. On Administrative Oversight and the 
+Courts of the Sen. Comm. On the Judiciary, 106th 
+Cong., Ist Sess. (May 13, 1999), reprinted in 1999 
+Wee SORTED cnssimmsccentngrmsnieniegemmenenivimmeent 21 
+
+
+United States Department of Justice, Memorandum: Title 
+II of the Omnibus Crime Control and Safe Streets 
+Act of 1968 (June 11, 1969), reprinted in 115 
+
+
+Cong Rec. 23236-38 (Aug. 19, 1969) ...........cccccecceeeeseees 20 
+Miscellaneous 
+ABA Special Comm. On Criminal Justice in a Free 
+Society, Criminal Justice in Crisis 28 (1988) ..................... 6 
+
+
+Note, Recent Statute: Title [1 of the Omnibus Crime 
+Control and Safe Streets Act of 1968, 82 HARV. L. 
+IT ., SEIS Qe ras eecessnssennseseptnmmnnmnsantganctnnmnetienmpmemee 12 
+
+
+Adam C. Breckenridge, Congress Against the Court (1970)..... 11 
+
+
+Daniel Gandara, Admissibility of Confessions in Federal 
+Prosecutions, 63 GEO. LJ. (1974) ..........cccccceeseceneereeeeeees 18 
+
+
+v 
+Page(s) 
+
+Fred P. Graham, The Self-Inflicted Wound 305 (1970) ......... 19 
+Gerald Gunther, Constitutional Law (11th ed. 1985)........... 12 
+Mark E. Herrmann, Note, Looking Down from the Hill, 
+
+33 WM. & MARY L. REV. 543 (1992) .0..0........ccccceeeseees 19, 21 
+Wayne R. LaFave, Constitutional Rules for Police: 
+
+A Matter of Style, 41 SYRACUSE L. REV. 849 (1990)........... 6 
+
+
+Laurie Magid, Essay, The Miranda Debate: Questions 
+Past, Present, and Future, 36 Hous. L. REV. 
+ne 20, 21 
+
+
+Eric D. Miller, Comment, Should Courts Consider 
+18 USC Sec. 3501 Sua Sponte?, 
+65 U. CHI. L. REV. 1029 (1998).............ccccseeeeeeeees 17, 20, 21 
+
+
+Richard M. Nixon, Toward Freedom from Fear 
+(May 8, 1968), reprinted in 114 CONG. REc. 12, 937 
+Ge GRR, Gee ecrecccnnnensnenmeescensnenennssensesiescenens 19 
+
+
+George C. Thomas, Ill, Plain Talk About the 
+Miranda Empirical Debate: A ‘Steady-State’ 
+Theory of Confessions, 43 U.C.L.A. L. REv. 933 
+
+
+ee 7 
+Charles Tiefer, Congressional Practice and Procedure 
+ITI ssertasentasnaninaentetnamseemeniinusinnneemenamegmenigmaimeen 16 
+
+
+Charles Tiefer, The Flag-Burning Controversy of 1989-90: 
+Congress’ Valid Role in Constitutional Dialogue, 
+
+
+29 HARV. J. ON LEGIS. 357 (1992). .........ccccceceessereeseeeseeees 12 
+Charles Tiefer, The Senate and House Counsel Offices: 
+Dilemmas of Representing in Court the 
+Institutional Congressional Client, 61 LAW & 
+Ses Coen GU CO ietrcnctcstiercccnrstinterncentntnnieeennies 2 
+
+
+No. 99-5525 
+
+
+IN THE - 
+Supreme Court of the United States 
+October Term, 1999 
+
+
+—_— 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+v. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Writ of Certicrari to the 
+United States Court of Appeals 
+For the Fourth Circuit 
+
+
+BRIEF AMICUS CURIAE 
+OF THE HOUSE DEMOCRATIC LEADERSHIP 
+IN SUPPORT OF PETITIONER 
+
+
+INTEREST OF THE AMICUS CURIAE 
+
+
+In cases such as this one’ where the constitutionality of 
+
+an Act of Congress has been challenged, and the Executive 
+
+Branch declines to defend that Act, INS v. Chadha, 462 U.S. 
+
+| 919 (1983), this Court has often received briefing by the 
+Speaker and Bipartisan Leadership Group of the House of 
+Representatives, or equivalent entities representing the House. 
+
+
+Consent has been given to the filing of this brief, pursuant to 
+Supreme Court Rule 37.3(a), by counsel for petitioner and respondent. In 
+fulfillment of Supreme Court Rule 37.6, it is noted that (1) none of the 
+counsel for parties authored any part of this brief, and (2) no persons or 
+entities made such monetary contributions as Rule 37.6 specifies for 
+tuntienten bentn 
+
+
+2 
+
+
+See, e.g., Morrison v. Olson, 487 U.S. 654 (1988); Burke v. 
+Barnes, 479 U.S. 361 (1987); Bowsher v. Synar, 478 U.S. 714 
+(1986). Rule (8) of the Rules of the House of 
+Representatives, provides for legal filings by the Office of 
+General Counsel of the House “pursuant to the direction of 
+the Speaker, who shall consult with a Bipartisan Legal 
+Advisory Group, which shall include the majority and 
+minority leaderships.” Rule [I(8) indicates the majority 
+leadership consists of the Majority Leader and the Majority 
+Whip; the minority leadership consists of the Minority Leader 
+and the Minority Whip. The majority and minority 
+leaderships may, or may not, reach agreement on a position to 
+present. In cases where they do not, the leadership group 
+consisting of the leadership of one party may file separately. 
+See, e.g., United States v. Eichman, 496 U.S. 310 
+(1996)(amicus brief by Speaker and majority party leadership 
+group); American Foreign Service Association v. Garfinkel, 
+490 U.S. 153 (1989)(amicus brief by Speaker and majority 
+party leadership group).’ 
+
+
+The posture of the case as it reaches this Court suggests 
+that the Democratic Leadership (“House minority amicus” or 
+“House Democratic amicus”), should present its views at this 
+time to this Court as an amicus curiae.’ This case presents the 
+issue of whether a statute, 18 U.S.C. section 3501, supersedes 
+Miranda v. Arizona, 384 U.S. 436 (1966). Miranda 
+established safeguards for custodial interrogations that have 
+
+
+* See generally Charles Tiefer, The Senate and House Counsel 
+Offices: Dilemmas of Representing in Court the Institutional 
+Congressional Client, 61 Law & Contemp. Probs. 47 (1998). Minority 
+party positions have been presented through amicus briefs by leading 
+minority figures. See, e.g., Harris v. McRae, 448 U.S. 297 (1980)(amicus 
+
+
+brief by Rep. Hyde (R-Ill.), ing the H 
+_ y successfully defending the challenged Hyde 
+
+
+* Pursuant to House Rule I(8)’s reference to the “minority 
+leadership,” the Democratic Leadership consists of the Honorable Richard 
+A. Gephardt, Democratic Leader, and the Honorable David E. Bonior, 
+
+
+3 
+
+
+come to occupy one of the highest places in the firmament of 
+American constitutional traditions. Section 3501 has been the 
+subject of significant debates regarding constitutionality by 
+Congress and the Executive Branch both before and after 
+passage. The importance of those debates makes this one of 
+those cases in which it is appropriate for Congressional amici 
+to present views to this Court. 
+
+As for the Democratic Leadership’s particular interest in 
+this case, amicus curiae believes its position in cases 
+involving the constitutionality of statutes has been to 
+demonstrate Congressional respect for the Constitution, and to 
+encourage consideration of Congressional enactments in ways 
+that allow this Court to view such enactments as being as 
+much in harmony with the Constitution as possible. Nowhere 
+is that as important as in statutes involving the balance 
+established by the Miranda warnings and practices - a balance 
+between effective law enforcement and the constitutional 
+rights of all Americans. There are diverse views on that 
+balance, and the House minority amicus seeks only to present 
+its own views. It is hoped and believed that the Court’s 
+deliberations will benefit from the submission of our views on 
+this vital subject. 
+
+While the Democratic Leadership’s views have 
+developed in the processes of consultation within the House, 
+this Court’s schedule in this case makes it appropriate for the 
+Democratic Leadership to file prior to a filing, or an 
+announced final decision about filing, by the majority 
+leadership. If the majority leadership were to file in defense 
+of the constitutionality of Section 3501 as construed by the 
+Fourth Circuit, it might do so at a later date, at the point set 
+for the respondent’s brief to be filed, and, after that, this Court 
+might regard the briefing schedule set for this case as making 
+it too late for the minority leadership to submit views. Hence, 
+the Court’s established schedule in this case is the cause of 
+the timing of this filing. 
+
+
+4 
+ARGUMENT 
+
+
+The United States Court of Appeals for the Fourth 
+Circuit decided in this case that 18 U.S.C. Section 3501 had 
+superseded Miranda v. Arizona, 384 U.S. 436 (1966). 
+Petitioner will be joined by the United States, and by amici 
+such as state and local law enforcement officials, in urging 
+that the Fourth Circuit erred in underestimating Miranda’s 
+constitutional status and this Court’s commitment to adhere to 
+its Fifth Amendment jurisprudence. House Democratic 
+amicus also joins in such recognition of the firm support for 
+Miranda, especially when the alternative to Miranda is 
+recognized, namely, an unfortunate and chaotic situation in 
+which both effective law enforcement, and Americans’ 
+confidence in their civil liberties, would suffer. 
+
+
+Furthermore, the House Democratic amicus will provide 
+the Court with a specifically legislative viewpoint regarding 
+the enigmatic Section 3501 enacted in Title I, sec. 701, of the 
+Omnibus Crime Control and Safe Streets Act of 1968, Pub. L. 
+No. 90-351, 82 Stat. 210 (the “1968 Act” or the “Act”). 
+Specifically, amicus submits that Section 3501 must be 
+viewed in light of elaborate interactions between Congress 
+and the Executive Branch both before and after its enactment. 
+In Dickerson, the Executive Branch has not decided to mount ‘ a 
+challenge to Miranda; it has been the active effort of an 
+amicus curiae, and the Fourth Circuit considering aspects of 
+
+
+* The term “to mount a challenge” will recur in this brief. It refers to 
+a conscious policy decision by the Executive Branch, or state authorities, 
+to make elaborate and sustained practical efforts to obtain a ruling by the 
+Court that a previous ruling is overruled or regarded as superseded. To 
+“mount a challenge” might include such practical aspects as the following: 
+instructing law enforcement agencies to behave in ways that produce the 
+sought-for challenges; instructing prosecutors to watch for, and to 
+develop, pomising cases for a challenge; presenting cases in trial and 
+appellate tribunals in ways that maximize the likelihood of a successfut 
+challenge; and seeking, actively and frequently, this Court’s consideration 
+of such a challenge. 
+
+
+s 
+> 
++ 
+y 
+
+
+5 
+
+
+the matter sua sponte, that have made this case what it has 
+become - a challenge in this Court to Miranda. 
+
+
+A review of section 3501’s background and legislative 
+history reveals that Congress provided little or no basis for 
+expecting the Executive Branch to mount a successful 
+challenge to Miranda. Before enactment, the Executive 
+Branch had manifested (with strong support in Congress) its 
+commitment to adherence to Miranda practices and to 
+Miranda’s application, especially in federal cases. The final 
+form of Title II of the 1968 Act, after a historic debate on the 
+Senate floor, reflects a compromise between two warring 
+factions. That compromise occurred between the faction in 
+Congress much more interested in an election-year symbolic 
+statement about law and order than in mounting an effective 
+challenge to Miranda, and the faction opposed to the 
+mounting of such a challenge. 
+
+
+Miranda’s strong constitutional basis, and _its 
+extraordinary history of acceptance and success in federal law 
+enforcement, receive no serious challenge when neither the 
+legislative nor the executive branches considered it necessary 
+to do so. This approach to the interpretative and 
+constitutional questions seeks to balance effective law 
+enforcement with the constitutional rights of Americans. 
+
+
+I. Miranda’s Constitutional Basis, and This Court’s 
+Decades of Reaffirming Miranda, Prevent Congress 
+
+
+From Simply Superseding It By a Provision Such As 
+Section 3501. 
+
+
+Miranda itself discusses its constitutional basis, namely, 
+how the Miranda warnings and Miranda practices safeguard 
+the Fifth Amernment privilege against self-incrimination in 
+the particularly intimidating situation of police custodial 
+interrogation. Accordingly, this Court consistently describes 
+Miranda and its corollary principles as having a constitutional 
+basis. See, e.g., Illinois v. Perkins, 496 U.S. 292, 296 
+(1990)(Miranda practices rest on “the Fifth Amendment 
+privilege aginst self-incrimination”); Moran v. Burbine, 475 
+
+
+6 
+
+
+U.S. 412, 427 (1986)(describing Miranda as “our 
+interpretation of the Federal Constitution”); Edwards v. 
+Arizona, 451 U.S. 477, 481-82 (1981)(Miranda “determined 
+that the Fifth and Fourteenth Amendments[]” required the 
+famous warnings). 
+
+
+“Miranda {sought to] . . . reconcile opposing concerns” 
+of “the need for police questioning as a tool for effective 
+enforcement of criminal laws,” and the “substantial risk that 
+the police will inadvertently traverse the fine line between 
+legitimate efforts to elicit admissions and constitutionally 
+impermissible compulsion.” Moran v. Burbine, 475 U.S. at 
+426-27. This Court has applied the Miranda system evenly to 
+federal and state authorities alike, promoting a simple, 
+straightforward, widely-understood and widely-accepted 
+constitutional regimen for the whole nation. This could only 
+be true of a constitutionally-based system, for if Miranda 
+represented only an exercise of this Court’s nonconstitutional 
+supervisory power over federal cases, Miranda could not 
+apply, as it has for over thirty years, in the judicial systems of 
+all fifty states. 
+
+
+Yet, Miranda’s great success, in its decades of operation, 
+has been its acceptance by state and local law enforcement 
+authorities that initially considered the decision controversial. 
+Surveys of law enforcement authorities, such as one by an 
+ABA special panel including then-Dade County State’s 
+Attorney Janet Reno,’ have shown that their initial skepticism 
+about Miranda has given way to widespread acceptance and 
+appreciation. “There is little reason to believe that the police 
+today are unable, or even generally unwilling, to satisfy 
+Miranda’ s requirements.” Withrow v. Williams, 57 U.S. 680, 
+695 (1993); “one seldom hears complaints about Miranda 
+from police; these days, Miranda-bashing is largely confined 
+to those trying to make political hay.” Wayne R. LaFave, 
+
+
+‘ ABA Special Comm. on Criminal Justice in a Free Society, Criminal 
+Justice in Crisis 28 (1988). 
+
+
+7 
+
+
+Constitutional Rules for Police: A Matter of Style, 41 
+Syracuse L. Rev. 849, 856 (1990). Scholarly studies showing 
+that Miranda aids the smooth functioning of the criminal 
+justice system while impeding clearance of extremely few 
+criminal cases have refuted contentions to the contrary. See, 
+e.g., Stephen J. Schulhofer, Miranda and Clearance Rates, 91 
+Nw. U. L. Rev. 278 (1996); Stephen J. Schulhofer, Miranda’s 
+Practical Effect: Substantial Benefits and Vanishingly Small 
+Social Costs, 90 Nw. U. L. Rev. 500 (1996); George C. 
+Thomas, III, Plain Talk About the Miranda Empirical Debate: 
+
+
+A ‘Steady-State’ Theory of Confessions, 43 U.C.L.A. L. Rev. 
+933 (1996). 
+
+
+The alternative to Miranda suggested by a challenge 
+based on section 3501 consists of returning to the pre- 
+Miranda system summed up in Haynes v. Washington, 373 
+U.S. 503, 516-517 (1963). In place of Miranda’s clear, 
+straightforward, well-understood model of warnings and 
+practices, under that resurrected pre-Miranda system the 
+federal courts would evaluate several non-exclusive factors in 
+determining the voluntariness of statements made in custodial 
+interrogations, and Miranda-model practices would lose their 
+potency. In addition to the problems with how the pre- 
+Miranda system functioned before the 1966 Miranda 
+decision, in the year 2000 a return to the pre-Miranda system 
+would produce unfortunate chaos. For example, police would 
+not know whether by following Miranda-model practices, 
+particularly by warning suspects of their rights, the police 
+would help, or hurt, their efforts. In questioning suspects, 
+police might imagine that by withholding the warnings they 
+increased their chances of obtaining evidence, only to 
+discover that by doing so they had tainted beyond use the 
+statements of suspects who would have answered exactly the 
+same, and provided admissible statements, had they received 
+the warnings. For another example, under the Miranda 
+system, suspects must expect that when they give statements 
+to law enforcement agents who adhere to Miranda-model 
+practices, those statements will be admitted against them. 
+With a return to the pre-Miranda system, defendants might 
+
+
+8 
+
+
+well consider it much more promising and routine to put their 
+effort into winning the now-murky contests about the 
+voluntariness and admissibility of their statements, burdening 
+the criminal justice system with endless disputes at every 
+level over collateral issues. 
+
+
+Il. Congress Provided Little or No Basis in Section 3501 
+For a Challenge to Miranda 
+
+
+Rather than duplicate the submissions of the United 
+States and of other amici in their addressing at length the 
+jurisprudence of Miranda, this submission will focus on the 
+legislation at issue in this case, section 3501. Specifically, 
+Congress did not enact section 3501 out of a conviction that 
+the provision would treat a serious problem worth mounting a 
+serious challenge to Miranda or that there should or would 
+necessarily be a serious challenge mounted to Miranda. 
+Rather, Congress enacted section 3501 largely for symbolic 
+purposes, to make an election-year statement in 1$6° abou‘ 
+law and order, not to mount a challenge to Miranda. 
+
+
+In context, Congress had every reason to expect and to 
+intend what ultimately transpired, namely, that section 3501 
+has not been used by the Executive Branch to challenge 
+Miranda in this Court. As the dissenting opinion in the 
+Fourth Circuit begins, “Thirty years have passed since 
+Congress enacted 18 U.S.C. sec. 3501 in reaction to Miranda. 
+We are nearing the end of the seventh consecutive 
+Administration that has made the judgment not to use sec. 
+3501 in the prosecution of criminal cases. Now, after all this 
+time, the majority supplants the Department of Justice's 
+judgment with its own and says that sec. 3501 must be 
+invoked.” 166 F.3d at 695 (Michael, J., dissenting in part and 
+concurring in part). “In fact, with limited exceptions the 
+provision has been studiously avoided by every 
+Administration, not only in this Court but in the lower courts, 
+since its enactment more than 25 years ago.” Davis v. United 
+States, 512 U.S. 452, 463-64 (1994)(Scalia, J., concurring). 
+The pre- and post-enactment context of section 3501 
+undermines fatally the argument that the provision supersedes 
+
+
+9 
+
+
+Miranda, particular in a case such as this in which the 
+Executive Branch remains faithful to its practice of over thirty 
+years and does not ask this Court to find Miranda statutorily 
+superseded. 
+
+
+A. As the Context of the 1968 Enactment Shows, 
+Congress Had Little Basis for Challenging 
+Miranda By a Statute, Such as Section 3501, 
+Applicable Only in Federal Cases 
+
+
+| The 1968 Act developed in a legislative process which 
+raises the question of how much, if any, basis for challenging 
+Miranda underlies section 3501. A review of the legislative 
+history shows several aspects that force that question. First, 
+the enacting Congress had every reason to see how very likely 
+it was that the Executive Branch would continue to accept 
+Miranda even after enactment of section 3501. The 
+legislative history shows section 3501 to be a largely 
+symbolic election-year statement rather than a firm decision 
+to challenge Miranda. Second, the context shows just how 
+controversial challenging Miranda was, reflecting why 
+Congress could, and did, compromise by enacting section 
+3501 in a way that did not assure such a challenge. Congress 
+let the Executive Branch decide whether to mount a serious 
+
+
+challenge to Miranda - and for seven Administrations it has 
+decided against doing so. 
+
+
+During the 1960s, in the lead-up to Miranda, this Court’s 
+primary concern regarding the voluntariness of custodial 
+interrogations lay with state and local, not federal, 
+interrogations. See, e.g., Escobedo v. Illinois, 378 U.S. 478 
+( 1964), and cases cited therein. Mirarda addressed 
+constitutionally dubious “present police practices” about 
+which information “may be found in various police manuals 
+and texts,” 384 U.S. at 448, not federal investigative practices 
+or federal manuals.’ A striking aspect of section 3501 would 
+
+
+A variety of reasons had led to the federal judiciary focusing thusly 
+on state and local compared with federal custodial interrogations: the 
+
+
+10 
+
+
+be overlooked unless that federal-state comparison is kept in 
+mind. Namely, Congress wrote section 3501 so that only 
+federal authorities, not state authorities, could invoke it. In 
+context, it becomes clear why, though Miranda was 
+controversial on the state level, Congress ultimately enacted 
+only at the federal level: the Congressional enactment was 
+intended to serve largely symbolic purposes, rather than to 
+actually succeed in having this Court declare Miranda 
+overruled or superseded. 
+
+
+Moreover, the Miranda Court, and the Miranda opinion, 
+consciously and visibly made the major point that the 
+Miranda warnings and related restrictions reflected previously 
+longstanding, satisfactory FBI _ self-imposed practices. 
+Miranda describes how the Court sua sponte asked the 
+Solicitor General for information about FBI practices. I/d. at 
+483-86. Using the answers, Miranda declares that “the 
+Federal Bureau of Investigation has compiled an exemplary 
+record of effective law enforcement while advising any 
+suspect or arrested person, at the outset of an interview, that 
+he is not required to make a statement, that any statement may 
+be used against him in court, that the individual may obtain 
+the services of an attorney of his own choice and, more 
+recently, that he has a right to free counsel if he is unable to 
+pay.” Jd. at 483. Congressional opponents of a challenge to 
+Miranda made the same point. The Senate knew from floor 
+speeches by a Senator who was a former federal prosecutor 
+that the FBI’s commitment to Miranda-model practices dated 
+back to 1952.’ At the same time, Miranda invited 
+
+
+diversity of the fifty states and numerous localities compared with the 
+single federal government, the different types of crime mvestigated by 
+state and federal authorities; the self-imposed, self-restraning practices of 
+the Federal Bureau of Investigation; and, the different capabilities of the 
+federal judiciary to address defendants’ rights in cases prosecuted before 
+them compared to state cases appealed to the Supreme Court or 
+collaterally challenged. 
+
+
+: The most vigorous voice on the Senate floor during the successful 
+effort to trim back Title II as reported from committee was Senator 
+
+
+11 
+
+
+equivalently effective alternative practices to protect the 
+constitutional rights it analyzed. 
+
+The result was that, as the issue came to Congress, the 
+Court had underlined the acceptability of Miranda warnings 
+to the FBI. /d. Congress had to factor into any enactment the 
+calculation that whatever quarrel state authorities might have 
+with Miranda, since Miranda approved the existing federal 
+practices, federal law enforcement authorities would have 
+little or no reason to want or to need to challenge Miranda. 
+
+
+B. The Process of Passace, and the Final Form of 
+
+
+Title I, Show Congress Expecting No Challenge 
+to Miranda Absent a Change in Executive 
+Branch Opposition to Doing So. 
+
+In 1967, President Johnson proposed, and the House 
+adopted, a grants program for state law enforcement that 
+served as the vehicle for the 1968 Act. Title II took shape in 
+1967-68 in the Senate Judiciary Committee initially, and then 
+on the Senate floor. That title was shaped by the Senate 
+Judiciary Committee, chaired by Senator Eastland (D-Miss.). 
+Senator Eastland was a well-known leading voice in the 
+1960s Senate for addressing Warren Court decisions using the 
+blunt tools of jurisdiction-stripping and attempted legislative 
+overruling of decisions. See generally Adam C. 
+Breckenridge, Congress Against the Court 39-94 (1970). 
+The initial legislative proposals which became the first draft 
+of Title II of the 1968 Act employed Chairman Eastland’s 
+familiar blunt tools against Miranda, notably, the tool of 
+cutting off this Court’s direct review and the federal courts’ 
+collateral review of state cases involving Miranda.’ In other 
+
+
+Tydings, who often noted his prosecutorial service as a United States 
+Attorney. He quoted repeatedly and at length from statements by J. Edgar 
+Hoover regarding the FBI's commitment to Miranda-model practices 
+during the previous two decades. 114 Cong. Rec. 11895 (May 6, 1968); 
+id. 14148 (May 21, 1968). 
+
+
+. “(E}xercise of jurisdiction by Federal courts is disruptive and tends to 
+dilute the State’s enforcement of its criminal laws. To counteract this 
+
+
+12 
+
+
+words, Senator Eastland initially moved legislation that would 
+have put the issue of challenging Miranda beyond the 
+discretion of federal law enforcement authorities, by granting 
+state authorities a powerful federal tool with which to mount 
+such a challenge. 
+
+
+At the same time, the record developed by the Senate 
+Judiciary Committee underlined emphatically the issue of 
+whether the enactment left to federal authorities whether to 
+use the statute to challenge Miranda. Notably, the Attorney 
+General wrote the Senate Judiciary Committee that an attempt 
+simply to dispense with the safeguards of Miranda was 
+unconstitutional.’ In context, the Attorney General’s position 
+followed directly from the Solicitor General’s position in this 
+Court in the build-up to Miranda, and from the FBI's 
+practices approved by the opinion in Miranda. Yet, the 
+Attorney General’s position had special meaning in gauging 
+how serious Congress was about whether practical policy 
+
+
+disruptive practice, title [I limits Federal jurisdiction to review a State 
+court’s final decision as to voluntariness of a confession ....” S. Rep. 
+No. 170, 90" Cong., 2d Sess. (1968), reprinted in 1968 U.S.C.C._A.N. 
+2112, 2138. For a discussion of the 1968 Senate bill's initial court- 
+stripping provisions and a comparison with similar efforts of the preceding 
+decade, see Gerald Gunther, Constitutional Law 47 & n.11 (11° ed. 1985), 
+and sources cited therein. For further background and analysis of 
+Congressional consideration of such court-stripping tools, see Charles 
+Tiefer, The Flag-Burning Controversy of 1989-90: Congress’ Valid Role 
+Se 29 Harv. J. on Legis. 357, 392-98 (1992). 
+
+
+* “A review of S. 674 [which provided what became Title II] indicates 
+a conflict with the 1966 decision by the Supreme Court in Miranda v. 
+Arizona, 384 U.S. 436... . If S.674 is intended to dispense with the 
+procedural safeguards established by Miranda . . . . it would be in conflict 
+with current constitutional requirements.” Letter by the Attorney General 
+to Senator John L. McClellan (June 19, 1967), in Hearings on S. 300, S. 
+552, S. 580, S. 274, S. 275, S. 278, S. 798, S. 824, S. 916, S. 917, S. 992, S. 
+107, S. 1094, S. 1194, S. 1333, and S. 2050 Before the Subcomm. On 
+Criminal Laws and Procedures of the Senate Comm. Of the Judiciary, 
+90th Cong., Ist Sess. 81 (1967); see Note, Recent Statute: Title II of the 
+Omnibus Crime Control and Safe Streets Act of 1968, 82 Harv. L. Rev. 
+1392, 1398 (1969). 
+
+
+13 
+
+
+considerations necessitated a challenge to Miranda. The 
+Attorney General’s position awakened both proponents and 
+opponents of a challenge to Miranda that if they left what to 
+do with the provision to the Attorney General, they were 
+leaving the provision to someone who did not favor such a 
+challenge. 
+
+This was not an obscure piece of legislative history, 
+subject to the charge of being squirreled away in the dead of 
+night by minor staffers working with special-interest 
+lobbyists. The Attorney General told the Senate Judiciary 
+Committee, at a moment when law-and-order issues very 
+much had the Members’ full attention, something they could 
+fully appreciate for its significance in the legislative world. In 
+plain English, the Attorney General was taking the political 
+heat for not challenging Miranda. The Senate's center, 
+polarized between those who wanted to enact a symbolically 
+anti-Miranda provision, and those who sought not to 
+challenge Miranda, could find a middle ground. Senators in 
+the center could enact a provision to take up the Attorney 
+General’s offer, in effect, to take the heat, by enacting a 
+provision which, while symbolically anti-Miranda, would 
+leave the decision whether to mount a challenge to Miranda 
+to the Attorney General who had so helpfully announced his 
+adherence to Miranda. 
+
+
+_Ultimately, after the Senate Judiciary Committee 
+reported out the 1968 bill, it wrote an incendiary committee 
+report supporting a challenge to Miranda. ‘SS. Rep. No. 170, 
+90th Cong., 2d Sess. (1968), reprinted in 1968 U.S.C.C.A.N. 
+2112. This has been taken by some as reflecting a clear 
+Congressional intent to force such a challenge without regard 
+to the view of the Executive Branch. The majority opinion of 
+the Fourth Circuit so cited the report, quoting it repeatedly, 
+an@ at length. 166 F.3d at 686. This is a superficial reading 
+off the legislative history. The committee reported Title [I on 
+the weakest possible basis, a tie vote, not foreshadowing what 
+would ultimately be the Congressional intent underlying the 
+enactment, much less eager to see Miranda challenged. 114 
+
+
+14 
+
+
+Cong. Rec. 13990 (May 20, 1968)(Sen. Tydings)(“title II . . . 
+is presently retained in that measure as a result of a tie vote of 
+8 to 8 of the Senate Judiciary Committee”). 
+
+Even looking just at Chairman Eastland’s strategy in that 
+report, he chose not to establish a promising foundation for 
+any definite challenge. His report claimed that the committee 
+had built up a record against Miranda, and left it at that.” 
+Notably, the report did not seriously take up Miranda’s own 
+invitation" to proffer equivalently effective alternative 
+safeguards to supplant Miranda’s. Chairman Eastland’s 
+decision against the more promising approach of setting up 
+alternatives to supplant Miranda cannot be explained away as 
+that nothing could be proposed as an alternative to Miranda 
+that would be easy for law enforcers to perform. Both at the 
+time, and today, some proponents of alternatives to Miranda 
+have urged that something as limited as videotaping 
+confessions might be tried.” 
+
+Chairman Eastland’s choice not to establish a more 
+promising foundation for a challenge to Miranda reflects the 
+particular legislative context. In Title [III of the 1968 Act 
+
+
+© “Passage of this bill with all of its legislative history . . . will furnish 
+an excellent record that will hopefully make an impression on some of the 
+Supreme Court Justices.” S. Rep. No. 170, supra, 1968 U.S.C.C.A.N. at 
+2133. 
+
+
+“It is impossible for us to foresee the potential alternatives for 
+protecting the privilege which might be devised by Congress or the States 
+in the exercise of their creative rule-making capacities .... We encourage 
+Congress and the States to continue their laudable search for increasingly 
+effective ways of protecting the rights of the individual while 
+
+efficient enforcement of our criminal laws.” Miranda, 384 U.S. at 467; 
+a 
+
+
+' By contrast, the other side in the debate over alternatives to Miranda 
+has suggested that equivalent safeguards would involve more than 
+“lightweight” alternatives, such as a combination of interposition of 
+neutral and professional magistrate-like figures for interrogation as in the 
+continental system, and restrictions, clarified and heightened, on what 
+
+
+~ 
+
+
+Hl 
+ue 
+ill 
+
+
+ein danieed at ties amt aeend 
+criticisms of unrestrained practices.” By contrast, in this 
+context, since the FBI had long accepted Miranda-model 
+procedures, federal law enforcers neither sought, nor did those 
+in Congress have to seek for them, an assured actual effect of 
+modifying judicial restraints. This allowed Chairman 
+Eastland’s committee to forego establishing an alternative 
+
+
+This Court had decided Berger v. New York, 388 U.S. 41 (1967), 
+and Katz v. United States, 389 U.S. 347 (1967), regarding electronic 
+eavesdropping. Title [Il of the 1968 Act itself, 82 Stat. 211, 18 U.S.C. sec. 
+2510 et seq., solved the problem of the requirements of the Berger and 
+Katz cases by mandating the system for warrants for electronic 
+eavesdropping. Title III did not just make a symbolic statement that the 
+Court should go back to the law before Berger and Katz, it created a new 
+system for law enforcers. 
+
+
+The Jencks Act solved the problem of the requirements of 
+production of prior statements by government witnesses imposed by this 
+Court’s decision in Jencks v. United States, 353 U.S. 657 (1957). That 
+act, codified as 18 U.S.C. sec. 3500, did not just make a symbolic 
+statement that the Court should go back to the law before Jencks. It 
+created a system which involved new practices, procedures and duties for 
+the FBI. (In Palermo v. United States, 360 U.S. 343 (1959), this Court 
+accepted Congress’ modification of Jencks’ standards. It should be noted 
+that the Court’s decision in Jencks was based on supervisory powers over 
+federal cases. Hence, on that ground as well, the sequence of Congress 
+enacting a statute in that instance in response to a Supreme Court decision 
+is distinguishable from the enactment of section 3501.) 
+
+
+The Congresses that enacted the Jencks Act, and Title III of the 
+1968 Act itself, had taken the route of putting forth codes of law 
+enforcement procedures regarding, respectively, production of witnesses’ 
+prior statements, and electronic eavesdropping. In those enactments, 
+Congress thereby assured, and obtained, an actual effect on law 
+enforcement procedures, such as restoring to the FBI tools of 
+accumulating different kinds of witness interview statements, and court- 
+authorized wiretapping, that the FBI feared would be impaired or lost by 
+Supreme Court decisions. 
+
+
+16 
+
+
+system with a definite probability of impressing the judiciary. 
+Rather, he could pursue an approach, by not putting forth 
+even limited alternative safeguards to Miranda’s, that 
+produced no assured likelihood affecting Miranda, but 
+achieved more political objectives. Namely, section 3501 
+would demonstrate to the public, in an election year, a 
+concern for law and order and an opposition to the asserted 
+excessive leanings of the Warren Court. This, however, only 
+required that section 3501 go on the books, not that it force an 
+actual court case challenging Miranda, and certainly not that 
+it force one with serious prospects for successfully 
+challenging Miranda. 
+
+More important, when Chairman Eastland’s committee’s 
+reported bill came to the Senate floor, the Senate voted” to 
+change the reported Title II, eliminating the provisions that 
+would have allowed a challenge to Miranda to be mounted by 
+state authorities even without a central role for federal 
+authorities. In a major Senate debate, opponents of the 
+reported Title I] charged Miranda’s constitutional nature 
+made Title [I unconstitutional.” Reinforcing the testimony of 
+the Attorney General, President Johnson wrote to Majority 
+Leader Mansfield to inform the debating Senate. The 
+President urged passage of the bill’s gun control and grant 
+provisions while recommending “not encumbering the 
+legislation with provisions raising grave constitutional 
+questions.” President’s Letter to the Majority Leader of the 
+Senate Regarding the Crime Control and Safe Streets Bill, 4 
+
+
+° The Senate’s action on floor amendments often “signifie[s} the real 
+division in the Senate,” Charles Tiefer, Congressional Practice and 
+Procedure 646 (1989), while the vote on final passage is “unanimous or 
+lopsided, which serve[s] only symbolic purposes.” /d. 
+
+
+" See, eg. 114 Cong. Rec. 11891 (May 6, 1968)Sen. 
+Tydings)\(“blatant attempt to amend the Constitution by a simple 
+legislative enactment”); id. 14135 (May 21, 1989)(Sen. Fong)(“Since 
+section 3501 dispenses with these safeguards, the sectior. is contrary to the 
+present requirements of the Constitution.”); id. 1/18“ (Sen. Brooke)(“I do 
+not think Miranda v. Arizona can be reversed by siutute”). 
+
+
+17 
+
+
+Pub. Papers 772, 773 (May 9, 1968), reprinted in 114 Cong. 
+Rec. 12450 (May 9, 1968)." 
+
+
+Leading conservative Republican Senators, while voting 
+to leave the largely symbolic section 3501 in the bill, vocally 
+and bravely led the bipartisan effort that removed the 
+provisions regarding state cases.” When the bill went back 
+to the House, a similar debate occurred, with similar charges 
+about unconstitutionality.” Moreover, proponents of Title II 
+in the House took a route to adoption that prevented serious 
+House consideration of section 3501, evidently expecting that 
+such consideration would have led to the provision’s 
+elimination from the bill.” 
+
+
+Beyond what was said in the debate, what matters was 
+the textual effect of what the Senate did. By eliminating the 
+provisions that would have let state authorities challenge 
+
+
+* See Eric D. Miller, Comment, Should Courts Consider 18 USC Sec. 
+3501 Sua Sponte?, 65 U. Chi. L. Rev. 1029 (1998), at 0.27. 
+
+
+° 114 Cong. Rec. 14180 (May 21, 1968)Sen. Griffin)(quoting a law 
+professor that “I regard Title [I as fully as ominous an assault on the 
+Supreme Court as the court-packing proposal of the 1930's”). 
+
+
+* House Judiciary Committee Chairman Celler, who denounced Title 
+II as unconstitutional, placed in the record a detailed analysis of the 
+constitutional issue of Title [, with conclusions such as: “even though 
+Congress has broad general power under the Constitution to enact 
+procedural rules governing the admissibility of evidence in Federal Courts, 
+parse yh bape gf aetna, ok agree ar ote 
+rules that overrule specific decisions of the Supreme Court i 
+fundamental requirements of the Constitution.” 114 Cong. Rec. cles? 
+(June 5, 1968). 
+
+
+- The bill did not go to conference because House procedures allowed 
+House conservatives to get a straight up-or-down vote on the version of 
+the bill as passed by the Senate. This maneuver was accurately described 
+by both sides on the House floor as aimed at preventing House Judiciary 
+Committee Chairman Celler from eliminating section 3501 in conference. 
+
+
+18 
+
+
+Miranda,” the amending Senators set up a situation where 
+they had every reason to expect that it remained up to the 
+federal Attorney General whether to mount a challenge to 
+Miranda using the pared-down Title [I]. Again, the 
+contemporaneous context underlines this point. The 
+immediate Executive reaction mirrored the previously 
+described extant FBI Miranda-model practices, Attorney 
+General testimony, and Presidential communication. In rapid 
+succession, President Johnson’s signing statement for the Act 
+in June 1968 announced that the FBI's practice of Miranda- 
+model warnings would continue and that the statute would be 
+“interpreted in harmony with the Constitution.” Then, the 
+Attorney General instructed U.S. Attorneys to offer into 
+evidence only confessions obtained in accordance with 
+Miranda.” 
+
+
+Accordingly, the majority opinion of the Fourth Circuit 
+panel took too simple a view of the legislative history of the 
+1968 Act. In that hard-fought enactment process, proponents 
+and opponents of a challenge to Miranda ended up enacting a 
+version of Title II shaped as a rough compromise, in light of 
+the difference between the outgoing Administration that 
+certainly did not intend to use Title II to mount a challenge to 
+
+
+” ‘The votes to take provisions out of Title II are at 114 Cong. Rec. 
+14181, 14184 (May 21, 1968). 
+
+
+ss Lyndon B. Johnson, Statement by the President Upon Signing the 
+Omnibus Crime Control and Safe Streets Act of 1968 (June 19, 1968), in 4 
+Pub. Papers 981, 983 (June 19, 1968)(“Under long-standing policies, for 
+example, the Federal Bureau of Investigation and other Federal law 
+enforcement agencies have consistently given suspects full and fair 
+warning of their constitutional rights. I have asked the Attorney General 
+and the Director of the Federal Bureau of Investigation to assure that these 
+policies will continue.”). 
+
+* Daniel Gandara, Admissibility of Confessions in Federal 
+Prosecutions, 63 Geo. LJ. 305, 311-12 (1974); Miller, supra, 65 U. Chi. 
+L. Rev. at an. 27-31. 
+
+
+— 
+
+
+— 
+
+
+19 
+
+Miranda and a potential incoming one that just might.” The 
+compromise took the power to mount such a challenge away 
+from state authorities who would surely have launched it, and 
+left the provision only in the domain of federal authorities of 
+contemporary and future administrations. It was a Senate 
+outcome that resolved the heated constitutional and political 
+debate between the two’ sides, not by altering or 
+circumventing the federal law enforcement community’s 
+acceptance of Miranda, but by factoring in that acceptance by 
+letting a statute emerge that was largely symbolic. 
+
+
+C. The History of Section 3501 Confirms Congress’ - 
+Expectation That Section 3501 Would Serve 
+Symbolic Purposes Rather Than Producing a 
+Serious Challenge to Miranda. 
+
+For over thirty years, federal law enforcers have declined 
+to mount the kind of challenge to Miranda that might have 
+even a small likelihood of success. That history deserves 
+judicial deference. It is not the history of a prosecutorial 
+
+
+** During this shaping and enactment of the bill in May and June 1968, 
+the Congressional Record reveais another aspect that further confirms the 
+significance of section 3501's dependence on Attorney General 
+invocation. With campaigning in full swing for the upcoming November 
+1968 election, the President's message signaled that election of a 
+Democratic candidate would likely continue the current Administration's 
+policies, including not challenging Miranda. On the other side, the 
+Republican candidate, Richard M. Nixon, campaigned with an 
+endorsement of Title II placed in the Congressional Record during the 
+debate on Title II, signaling that upon his election, the next Administration 
+might invoke legislation like section 3501 to challenge Miranda. Few 
+matters regarding a provision could interest Senators more than a square 
+contrast in campaign positions between the current Administration and the 
+next. Richard M. Nixon, Toward Freedom from Fear (May 8, 1968), 
+reprinted in 114 Cong. Rec. 12,937-38 (May 10, 1968)(statement by then- 
+candidate Nixon to “urge Congress to enact proposed legislation that - 
+dealing with . . . Miranda . . . - would leave it to the judge and the jury to 
+determine both the voluntariness and the validity of any confession”); Fred 
+P. Graham, The Self-Inflicted Wound 305-32 (1970); Mark E. Herrmann, 
+Note, Looking Down from the Hill, 33 Wm. & Mary L. Rev. 543, 576-86 
+(1992). 
+
+
+; 20 
+
+
+quest to cut back civil liberties which might lead judges 
+
+
+carefully to consider recognizing fully those liberties. Rather, 
+it is a history of prosecutorial self-restraint, transcending 
+political party and ideological orientation, in recognition of 
+the special nature of Miranda. That represents a sound 
+balance between effective law enforcement and _ the 
+constitutional rights of all Americans worthy of judicial 
+deference. 
+
+
+As previously noted, immediately following enactment, 
+the Johnson Administration interpreted section 3501 as 
+leaving Executive Branch discretion to preserve existing FBI 
+Miranda-model practices, and as allowing the Attorney 
+General to decide whether to invoke the section, which he 
+decided against doing. In the Nixon Administration that 
+began the following year, Attorney General Mitchell made 
+symbolic statements that section 3501 could be invoked in 
+
+
+some very limited circumstances,” and there were ensuing - 
+
+
+cases.” But, as a practical matter, the Nixon Administration 
+did not attempt to change custodial interrogation practices, 
+did not attempt to employ section 3501 in a way that would 
+likely produce a test in this Court of Miranda, and left section 
+3501 largely uninvoked.” There was no authoritative 
+explanation of this. It is fair to surmise that the Nixon 
+Administration considered Title II as a symbolic issue in the 
+
+
+© See United States Department of Justice, Memorandum: Title II of 
+the Omnibus Crime Control and Safe Streets Act of 1968 (June 11, 1969), 
+reprinted in 115 Cong Rec. 23236-38 (Aug. 19, 1969). 
+
+
+” Examples include United States v. Crocker, 510 F.2d 1129, 1136-38 
+(10” Cir. 1975)(on the one hand, “the trial court did not err in applying the 
+guidelines of sec. 3501"; on the other hand, there was also “full 
+compliance with the Miranda mandates”); United States v. Vigo, 487 F.2d 
+95, 299 (2d Cir. 1973)(declining to determine section 3501's 
+constitutionality ). 
+
+* Miller, supra, at note 32; Laurie Magid, Essay, The Miranda 
+Debate: Questions Past, Present, and Future, 36 Hous. L. Rev. 1251, 
+1275 (1999). : 
+
+
+21 
+
+
+1968 campaign, but once in office, it did not find Title Il 
+necessary for the serious task of effective law enforcement. 
+Moreover, Miranda’s rapid acceptance even by local law 
+enforcement authorities took away any reason that an 
+Attorney General might see for mounting an actual challenge 
+to Miranda. 
+
+
+In any event, the pattern established by the Johnson and 
+Nixon Administrations continued in later administrations.” In 
+1986, the Office of Legal Policy published a report to 
+Attorney General Meese with seemingly significant 
+statements about Miranda and section 3501.” However, the 
+Justice Department largely continued its prior pattern, which 
+did not lead to any cases in this Court using section 3501 to 
+challenge Miranda.” The 1990s has been the occasion of 
+renewed debate, and some judicial activity (such as the Fourth 
+Circuit’s decision), but no change in the Executive Branch’s 
+consistent approach of not mounting a major challenge to 
+Miranda in this Court using section 3501.” 
+
+
+29 _ : ’ 
+“Later administrations have not strayed from Nixon's lead in 
+a Miranda rather than section 3501 . . . .”. Herrmann, supra, at 
+
+
+” Office of Legal Policy of the Department of Justice, Report to the 
+Attorney General on the Law of Pre-Trial Interrogation (1986), reprinted 
+in 22 U. Mich. J.L. Reform 437 (1989). 
+
+
+"Magid, supra, at 1276; Miller, supra, at n. 35 (“However, the 
+[Reagan] Administration does not appear to have succeeded in obtaining 
+any court rulings on Section 3501.”). 
+
+
+* Testimony at a Senate hearing last May included a discussion by a 
+former federal prosecutor of why the Justice Department of the past 
+decade could properly, and did, decide to not invoke section 3501. 
+Testimony of Associate Professor Daniel C. Richman, Voluntary 
+Confessions Law: Hearings of the Subcomm. On Administrative Oversight 
+and the Courts of the Sen. Comm. On the Judiciary, 106" Cong., 1" Sess. 
+(May 13, 1999), reprinted in 1999 WL 311272 (F.D.C.H.). This provides 
+a useful account from the 1990s perspective. 
+
+
+22 
+
+
+While there are those who label the Executive pattern as 
+a failure to faithfully execute the laws, Congress has not 
+reacted that way. Section 3501 is a provision that sits on the 
+books as a largely symbolic statement. When seven 
+
+
+Administrations over 30 years have not mounted a challenge - 
+
+
+to Miranda, such a continuing consistent judgment is 
+responsible and should be given weight. 
+
+
+Ill. If Section 3501 is Interpreted to Require This 
+Court to Deem Miranda Superseded In This 
+Case, The Provision Is Unconstitutional As So 
+Interpreted 
+
+
+House Democratic amicus will not duplicate the full 
+treatments by the United States, and by other amici, of the 
+conflict between section 3501 and the constitutional rights 
+involved in Miranda. Amicus agrees with the United States 
+that Miranda’s constitutional roots, strengthened by its long 
+history of success in law enforcement operation as well as by 
+this Court’s fidelity to stare decisis, put Miranda beyond 
+being superseded by section 3501, particularly since the 
+provision proposes no alternative set of safeguards. While the 
+United States has not sought independent review of the 
+unusual path by which section 3501 reached this Court, that 
+path underlines the special constitutional problems with 
+deeming Miranda superseded by section 3501 as applied in 
+this case. The sequence in this case - notably that federal 
+authorities believed they had complied with, and sought to 
+comply with, Miranda and did aot raise section 3501 in the 
+Court of Appeals - underlines the symbolic aspects of an 
+application of the provision in this case. This is made evident 
+by drawing on the foregoing review of the positions of 
+Congress and the Executive Branch before and after 
+enactment. 
+
+
+First, the decision in the past 30 years not to mount a 
+challenge to Miranda based on section 3501 has resulted from 
+the exercise by a succession of Attorneys General of what has 
+proven to be sound judgment. When Congress enacted 
+section 3501, Congress expected, as described above, that 
+
+
+23 
+
+
+while the current (Johnson) Administration would not mount 
+a challenge to Miranda, the next Administration just might 
+decide to do so. If shat had occurred, or if any of the six 
+successor Administrations had decided to do so, at least the 
+exercise of that Administration’s judgment would presumably 
+represent the fulfillment of Congress’ expectations as to the 
+existence of a basis to mount a challenge to Miranda. No 
+such exercise of judgment by the Executive Branch has 
+occurred. Moreover, the use of section 3501 in this case has 
+proceeded without the support of the insulated, nonpolitical 
+prosecutorial personnel, such as the Justice Department and 
+FBI career levels, who for thirty years have followed Miranda 
+without recommending the mounting of a challenge. 
+
+
+Second, the application of section 3501 to this case, in 
+which federal law enforcement authorities did not decide in 
+favor of mounting a challenge to Miranda, weighs 
+Congressional power against a constitutional decision of this 
+Court, without Congress having found, ether certainly or 
+contingently, a problem calling for necessarily overruling that 
+decision. The record created by the Senate Judiciary 
+Committee, and described in its report, overwhelmingly 
+concerned whether Miranda interfered with local law 
+enforcement. The Senate committee intended this to support 
+Title II as reported, which cut off federal review of state 
+cases, while section 3501, which the Senate left in when it 
+eliminated other provisions, concerns only federal law 
+enforcement. Section 3501 made it to passage, not because of 
+any problem in federal law enforcement, but for quite the 
+Opposite reason. Existing FBI practices, which there was no 
+reason to change, meant there was no serious problem with 
+Miranda in federal law enforcement; so, legislating largely 
+symbolically only for federal cases became the middle ground 
+between Senators who wanted a symbolic statement against 
+Miranda and those who wanted no definite mounting of a 
+challenge to Miranda. Therefore, Congress did not 
+definitively decide in 1968 it was facing a problem with 
+Miranda as it applied to federal law enforcement that 
+necessitated a challenge to Miranda. Moreover, to the extent 
+
+
+24 
+
+
+that some in Congress might hope, contingently, that if the 
+Executive Branch decided to mount such a challenge, 
+Miranda might be superseded, even that contingency has not 
+occurred. Whatever Congress’ power to force a challenge to 
+Miranda when it decides this is necessary to solve a problem, 
+the situation is different when Congress has neither certainly, 
+nor even contingently, found that such a problem exists. 
+
+
+In sum, the application of section 3501 in this case 
+challenges Miranda without either the legislative or the 
+executive branch making the determination that there is a 
+definite need to do so. _‘If the Court must reach the issue of 
+section 3501’s constitutionality, a statutory application so at 
+odds with the proper working of our constitutional system 
+should not be upheld. Whereas in City of Boerne v. Flores, 
+521 U.S. 507, 530-31 (1997), the United States could argue 
+that an extensive legislative record showed the challenged act 
+dealt with national problems - in a word, that both the 
+legislative and executive branches supported the act - the 
+strained application of section 3501 is one which neither the 
+enacting Congress, nor the Executive Branch, considers as 
+dealing with such problems. That makes a much weaker case 
+than was presented, without success, in City of Boerne - too 
+weak a case for the statutory application to be upheld as 
+constitutional. 
+
+
+It may be asked why a Congressional amicus would ever 
+urge this conclusion. The answer is that Congressional amici 
+have often argued against indefensible statutory applications, 
+and this Court has found merit in those arguments. See, e.g., 
+AFSA v. Garfinkel, supra. Using section 3501 in this case to 
+declare Miranda superseded does not represent a balance 
+between effective law enforcement and the constitutional 
+rights of all Americans of the kind a conscientious Congress 
+seeks to enact. House Democratic amicus opposes it, and this 
+Court should not adopt it. 
+
+
+25 
+CONCLUSION 
+
+
+Congress enacted Section 3501 with little or no basis for 
+a challenge to Miranda, particularly absent a decision by 
+federal law enforcement authorities to mount such a 
+challenge. The process of section 3501's enactment, and the 
+consistent decision against mounting such a challenge by the 
+Johnson, Nixon, Ford, Carter, Reagan, Bush, and Clinton 
+Administrations, show that the Fourth Circuit erred. Miranda 
+should easily survive this case. 
+
+
+Respectfully submitted 
+
+
+CHARLES TIEFER 
+(Counsel of Record) 
+Associate Professor 
+University of Baltimore School of Law 
+1420 North Charles Street 
+Baltimore, MD 21201 
+(301) 951-4239 
+
+
+Jonathan W. Cuneo 
+
+The Cuneo Law Group 
+
+317 Massachusetts Avenue, N.E. 
+Washington, D.C. 20002 
+
+(202) 789-3960 
+
+
+Counsel for Amicus Curiae 
+House Democratic Leadership 
+
+

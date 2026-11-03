@@ -1,0 +1,1751 @@
+Mar § 
+
+
+U.S. 
+Nos. 99-224 and 99-582 FILES 
+MAR G6 92000 
+In The 
+Supreme Court of the United States, . 
+> 
+CHARLES B. MILLER, ET AL., 
+Petitioners, 
+V. 
+RICHARD A. FRENCH, ET AL., 
+Respondents. 
++ 
+UNITED STATES OF AMERICA, 
+Petitioner, 
+v. 
+RICHARD A. FRENCH, ET AL., 
+Respondents. 
+
+
+5) 1 : 
+UU at ~ Supreraé Cour, 
+
+
+S 
+
+
+On Writs Of Certiorari To The United States 
+Court Of Appeals For The Seventh Circuit | 
+
+
++ 
+BRIEF FOR RESPONDENTS 
+
+° 
+KENNETH J. FALK STEVEN R. SHAPIRO 
+Counsel of Record American Civil Liberties 
+JacQue.tyn E. Bowe Union Foundation 
+Sean C. Lemieux 125 Broad St. 
+E. Paice Freitac New York, N.Y. 10004 
+CHRISTOPHER M. Gipson 212/549-2500 
+
+
+Indiana Civil Liberties 
+
+
+Union 
+
+
+1031 E. Washington St. 
+
+
+Indianapolis, 
+317/635-4059 
+
+
+ELIZABETH ALEXANDER 
+National Prison Project 
+
+
+IN 46202 Liberties Union 
+
+
+of the American Civil 
+
+
+Foundation 
+Hamip R. KasHANi 1875 Conecticut Avenue, 
+445 N. Pennsylvania St. N.W. 
+Suite 600 Washington, D.C. 20009 
+Indianapolis, IN 46204 202/234-4830 
+317 /632-1000 
+
+
+Attorneys for Respondents 
+
+
+IBEST AVAILABLE COPY aaa 
+
+
+QUESTIONS PRESENTED 
+
+
+The Prison Litigation Reform Act, 18 U.S.C. § 3626(e) 
+(Supp. III 1997), provides for an automatic stay of any 
+final court order directing prospective relief in a prison 
+conditions case whenever a motion to terminate the order 
+has been filed by defendants and has not been resolved 
+by the trial court within a thirty (30) day period. This 
+period can be extended for an additional sixty (60) days 
+for good cause; however, good cause can not include 
+calendar congestion. The questions presented are: 
+
+
+1. Whether 18 U.S.C. § 3626(e) is unconstitutional as 
+violating the separation of powers because it is a direct 
+legislative suspension of a final judgment with no appar- 
+ent discretion in the trial court to override the legislative 
+determination that suspension is required in all cases 
+after 90 days, and because it mandates suspension of an 
+injunction without allowing the court to apply facts to 
+law in a case in which Congress has not changed the 
+substantive law? 
+
+
+2. Whether, in order to avoid the serious constitu- 
+tional question that would otherwise arise, 18 U.S.C. 
+§ 3626(e) can be construed in a manner that permits trial 
+judges to retain their traditional equitable power to 
+enjoin the automatic stay in appropriate circumstances? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+Cusstions FURRIROG «.o.+0os0esésecdeunkenuweasennen i 
+Statutory and Constitutional Provisions Involved... 1 
+Statement of Che Case ....sccusesccsiscvaseesecenes 1 
+Summary of the Argument ...............00eeeeees 8 
+So Pe 12 
+
+
+I. IF SECTION 3626(e)(2) IS INTERPRETED AS 
+PRECLUDING A FEDERAL COURT'S ABILITY 
+TO AVOID THE AUTOMATIC STAY IT IS 
+UNCONSTITUTIONAL AS VIOLATING SEP- 
+ARATOON OF PUOWUEID occcvccvcvesescesvestes 12 
+
+
+A. Section 3626(e)(2) violates the separation of 
+powers by disrupting the final judgment of 
+OR Agthese TE COMO. os cccccivstcussscusdsss 13 
+
+
+B. Section 3626(e)(2) is unconstitutional because 
+Congress is prescribing a rule of decision for 
+kk Peer 20 
+
+
+C. Section 3626(e)(2) violates the separation of 
+powers because, in addition to the specific 
+rules of Plaut and Klein, it interferes with a 
+owe fdibciad GURGMGR... os cccecesscdvescees 24 
+
+
+Il. ALTHOUGH INTERPRETING § 3626(e)(2) AS 
+PRESERVING THE RIGHT OF THE TRIAL 
+COURT TO USE EQUITY TO ENJOIN THE 
+AUTOMATIC STAY WOULD AVOID THE 
+NECESSITY OF DECLARING THE STATUTE 
+UNCONSTITUTIONAL, THE DOCTRINE OF 
+CONSTITUTIONAL DOUBT DOES NOT EASILY 
+APPLY HERE AND THE SEVENTH CIRCUIT’S 
+DSSS BS CURE oc i cvicervedaccgneceees 30 
+
+
+| IERIE earn eA poanvesdsbbbathunbanbnes 35 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases: 
+Almendarez-Torres v. United States, 523 U.S. 224 
+ie heeesebeeseaterhetevesdoconccecoscceess 31 
+Buckley v. Valeo, 424 U.S. 1 (1976)................ 12, 13 
+C.gle v. Hutto, 177 F.3d 253 (4th Cir. 1999), petition 
+or iM atcceesbesdeeecutssdenecsestocetccess 28 
+Califano v. Yamasaki, 442 U.S. 682 (1975)............. 31 
+Carlisle v. United States, 517 U.S. 416 (1996) ......... 27 
+Cherokee Nation v. United States, 270 U.S. 476 (1926) .... 22 
+City of Boerne v. Flores, 521 U.S. 507 (1997).......... 18 
+
+
+Commodity Futures Trading Commission v. Schor, 478 
+EE 60 0Ubeb senedscenecceccscesoce 9, 13, 31 
+
+
+French v. Owens, 538 F. Supp. 910 (S.D. Ind. 1982) ..... 1 
+French v. Owens, 777 F.2d 1250 (7th Cir. 1985), cert. 
+
+
+GUE, GO TB GET GI cc ccc cccccccccccccccccces 2 
+Gutierrez de Martinez v. Lamagno, 515 U.S. 433 
+
+Pi abbebabideabelsesetosscescocccoceoesveess 22, 23 
+Hadix v. Johnson, 144 F.3d 925 (6th Cir. 1998) 
+
+pbRbdaR See eedserossoveseceeecencees 6, 8, 13, 18, 28, 31 
+Hanna v. Plumer, 380 U.S. 460 (1965) ................ 25 
+Hayburn's Case, 2 U.S. (2 Dall.) 408 (1792)....... passim 
+Hecht v. Bowles, 321 U.S. 321 (1944) ................. 32 
+Honig v. Doe, 484 U.S. 305 (1988)... ... 2... 6. cece e eee 32 
+In re Grand Jury Proceedings, 605 F.2c 750 (5th Cir. 
+
+PP eeSSbeeeenesedodechééeccccsscoctccoccceecces 27 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+In re Grand Jury Proceedings, 946 F.2d 746 (11th Cir. 
+
+Pn ce vccccasceccccsccnesssctesucteecvesesebeses 27 
+In re Siggers, 132 F.3d 333 (7th Cir. 1997)............ 27 
+Kalb v. Feuerstein, 308 U.S. 433 (1940) ............... 19 
+Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gil- 
+
+bertson, 501 U.S. 350 (1991) ...... 2... ccc e cece eee 15 
+
+
+Loving v. United States, 517 U.S. 748 (1996) ....9, 12, 29 
+Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803) .... 24 
+Mistretta v. United States, 488 U.S. 361 (1989)..... 12, 25 
+
+
+Morrison v. Olson, 487 U.S. 654 (1988)............ 13, 14 
+Nixon v. Administrator of General Services, 433 U.S. 
+
+GD Gen ok ca ccctancccncasdcccnnsccsestsuntes 24, 25 
+Pennhurst State School and Hospital v. Halderman, 
+
+GB GB. GD GIG cc cccvescccccccvescccessecceseses 1 
+Pennsylvania Department of Corrections v. Yeskey, 
+
+SG UD. BEG CIBER c cevccccsccsocccescscccesees 11, 30 
+Pittson Coal Corp. v. Sebben, 488 U.S. 105 (1988) ..... 34 
+Plaut v. Spendthrift Farm, Inc., 514 U.S. 211 (1995) . . .passim 
+Pope v. United States, 323 U.S. 1 (1944).............. 16 
+Robertson v. Seattle Audubon Society, 503 U.S. 435 
+
+GERD « ccccccccnccccscccccesodecostcconnsceceseees 16 
+Rufo v. Inmates of Suffolk County Jail, 502 U.S. 367 
+
+TOON o cove ccccdccnctecesstecessseosecdocavesedede 13 
+
+
+Ruiz v. Johnson, 178 F.3d 385 (Sth Cir. 1999)...6, 13, 31 
+
+
+Scripps-Howard Radio v. Federal Communication 
+Commission, 316 U.S. 4 (1942) .........- 6c ee eeeeees 33 
+
+
+v 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Sibbach v. Wilson & Co., 312 U.S. 1 (1941) ........... 25 
+
+
+State of Pennsylvania v. The Wheeling and Belmont 
+Bridge Co., 59 U.S. (18 How.) 421 (1855)... 16, 17, 18, 21 
+
+
+Taylor v. United States, 143 F.3d 1178 (9th Cir.), 
+ee granted and opinion withdrawn, 158 F.3d 
+1017 (9th Cir. 1998), on reh’g, 181 F.3d 1017 (9th 
+
+
+Es DEE ecenabédbnddedednasdennndachosabbectneeke 17 
+United States v. O'Grady, 89 U.S. (22 Wall.) 647 
+iedéinsedheakiananadeedetenssdankedaledseanise 25 
+
+
+United States v. Klein, 80 U.S. (13 Wall.) 128 (1871) . .passim 
+United States v. Padelford, 76 U.S. (9 Wall.) 531 
+
+
+PP cccccdnceccndéccncdceecccnsceasescesasencees 20 
+United States v. Sioux Nation of Indians, 448 U.S. 
+
+BPE Ge cece cccdcccccsscnccccscovcsnestcccessue 22 
+West Virginia University Hospitals, Inc. v. Casey, 499 
+
+See GP GED occ ecvcescnccescsccccecetestnecesces 32 
+
+
+BARES GE BG cvcccccsccccocsctevceccceescccss 19, 22, 25 
+ROBES TE, ] Bu ccccccvcccccccsccccesses 1, 10, 12, 15, 25 
+STATUTES: 
+
+SB CK. © SER GRD ccc ctcccccccccccocccces 19, 20, 26 
+BD WBC. 6 FOGRRD CRIOGE. ... .ccccccccccccccccccccces 27 
+BD Be Bee Ge oe ce cccccccccesccccccsccccces 27 
+18 U.S.C. § 3626 (Supp. III 1997)............... 1, 3, 26 
+18 U.S.C. § 3626(a) (Supp. III 1997) ..............005. 3 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+18 U.S.C. § 3626(b) (Supp. III 1997)......... 3, 4, 17, 18 
+
+18 U.S.C. § 3626(e) (Supp. III 1997) ............. passim 
+
+3B UBL. 6 TRIBE) CITE occ cccccccccccccccsces 5, 33 
+
+SD CG. © GD Gee cc ccccccenccccnccesssacccsees 27 
+
+28 U.S.C. § 2244(b)(3)(D) (Supp. III 1997) ........... 27 
+
+29 U.S.C. § 107 (1994) se teeeeeeeeeseesceessenssenees 2B 
+
+-Pub. L. No. 104-134, §§ 801-810, 110 Stat. 1321-66 
+Bp Be DE Gen cov cacacuccnctuceesnc: 3 
+
+Pub. L. No. 105-119, § 123(a)(3)(C), (1997)............ 4 
+
+Leciscative History: 
+
+143 Cong. Rec. $12269 (Nov. 9, 1997) ...........-.... 19 
+
+Feperat Rutes or Civi. Procepure: 
+
+Pt Mivcécccacootienssetessbsdacenkedanaeamenees 26 
+
+OrHer AUTHORITIES: 
+
+Dean Alfange, Jr., The Supreme Court and the Sep- 
+aration of Powers: A Welcome Return to Nor- 
+malcy?, 58 Geo. Wasn. L. Rev. 668, (1990) ......... 29 
+
+Ira Bloom, Prisons, Prisoners and Pine Forests: Con- 
+gress Breaches the Wall Separating Legislative from 
+Judicial Power, 40 Ariz. L. Rev. 389 (1998).......... 22 
+
+THe Feperaust No. 47 (James Madison) (Modern 
+FT rrr ee 12 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Brian M. Hoffstadt, Retaking the Field: The Consti- 
+tutional Constraints on Federal Legislation that 
+Displaces Consent Decrees, 77 Wasn. U. L. Q. 53 
+GEUUE oo bebe eeseebececedahss cecscskevecenteccests 22 
+Lawrence G. Sager, Klein's First Principle: A Pro- 
+posed Solution, 86 Geo. L. J. 2525 (1998)........... 22 
+
+
+STATUTORY AND CONSTITUTIONAL 
+PROVISIONS INVOLVED 
+
+
+In addition to the text of the Prison Litigation Reform 
+Act, 18 U.S.C. § 3626 (Supp. III 1997), relevant portions of 
+which are reprinted in the brief of petitioners Charles 
+Miller, et al., at 2-4, this case also involves the separation 
+of powers as mandated by Article III, § 1 of the United 
+States Constitution, which provides, in pertinent part: 
+
+
+The judicial power of the United States shall be 
+vested in one Supreme Court, and in such infe- 
+rior courts as the Congress may from time to 
+time ordain and establish. 
+
+
+¢ 
+
+
+STATEMENT OF THE CASE 
+
+
+1. In 1975, the respondent prisoners (hereinafter 
+referred to as “the prisoners”) at the Indiana Reformatory 
+(now known as the Pendleton Correctional Facility) 
+brought suit against the predecessors in office of peti- 
+tioners Miller, et al. (hereinafter referred to as “the 
+State”). The original complaint alleged that conditions at 
+the facility violated state and federal law, including the 
+United States Constitution. After a trial, the district court 
+found violations of both the Constitution and state law 
+and entered a remedial order to correct the violations. 
+French v. Owens, 538 F. Supp. 910 (S.D. Ind. 1982). The 
+State appealed to the Seventh Circuit, which remanded 
+the case to the trial court for reconsideration in light of 
+this Court's intervening decision in Pennhurst State School 
+and Hospital v. Halderman, 465 U.S. 89 (1984). 
+
+
+On remand, the trial court entered a new memoran- 
+dum decision reaffirming its earlier constitutional deter- 
+mination and further indicating that a number of the state 
+law violations were also violations of the Eighth Amend- 
+ment. (Joint Appendix [hereinafter “J.A.”] at 27-42). The 
+trial court also modified its prior injunctive relief in rec- 
+ognition of progress that had been made by the State in 
+remedying earlier violations. (J.A. 41). 
+
+
+When the State again appealed, the Seventh Circuit 
+affirmed the trial court in part and vacated in part. French 
+v. Owens, 777 F.2d 1250 (7th Cir. 1985), cert. denied, 479 
+U.S. 817 (1986). Most significantly, the Seventh Circuit 
+agreed with the trial court that the conditions at Pen- 
+dleton resulted in cruel and unusual punishment in viola- 
+tion of the Eighth Amendment. Id. at 1252-58. These 
+conditions included brutal mechanical restraints, lack of 
+space and furnishing for prisoners, unwholesome food, 
+continuous threats to safety, and medical neglect. Id. 
+Based on these findings, the Seventh Circuit upheld those 
+portions of the remedial injunction entered by the trial 
+court that had: ordered a comprehensive overhaul of the 
+medical staff (id. at 1254-55); ordered an immediate mod- 
+ification of mechanical restraint practices which had led 
+to inmates being chained, spread-eagled, to their beds for 
+up to 2'/2 days (id. at 1253-54); ordered an end to double 
+celling, which had caused gross overcrowding and 
+deplorable and unsafe conditions (id. at 1251-53); and 
+ordered the State to submit a plan to ensure that there 
+were sufficient security personnel at the institution to 
+insure that the inmates were safe. (Id. at 1257). Other 
+portions of the trial court’s order were reversed. 
+
+
+The last substantive modifications of the trial court's 
+order occurred on October 6, 1988, when the parties 
+entered into a stipulation concerning fire safety and 
+OSHA standards at Pendleton (J.A. 43). 
+
+
+2. The Prison Litigation Reform Act of 1995 (here- 
+inafter “PLRA”) was enacted in 1996 as part of Pub. L. 
+No. 104-134 (§§ 801-810), 110 Stat. 1321-66 to 110 Stat. 
+1321-77. Relevant portions are codified at 18 U.S.C. 
+§ 3626. It became effective on April 26, 1996. 
+
+
+The PLRA imposes limits on future prospective relief 
+by requiring that any relief in prison conditions cases 
+designed to remedy the violation of a federal right must: 
+extend no further than necessary to correct a federal 
+right; be narrowly drawn; and be the least intrusive 
+means necessary to correct the violation of the federal 
+right. 18 U.S.C. § 3626(a)(1) (Supp. III 1997). 
+
+
+These new limits on “prospective relief” apply to 
+final judgments as well as to future ones. Thus, the PLRA 
+specifically provides that any final judgment for prospec- 
+tive relief entered without the above requisite findings 
+shall be “immediately terminated” upon motion by the 
+defendant. 18 U.S. C. § 3626(b)(2) (Supp. III 1997). In 
+addition, defendants may move to terminate prospective 
+relief, even if the relief is embodied in a final judgment | 
+supported by the requisite findings, if two years has 
+passed since the original entry of prospective relief or the 
+passage of the PLRA or if one year has passed since a 
+prior order denying termination of relief. 18 U.S.C. - 
+§ 3626(b)(1) (Supp. III 1997). However, motions to termi- 
+nate under (b)(1) and (b)(2) are subject to the limitation in 
+
+
+18 U.S.C. § 3626(b)(3) (Supp. III 1997), which provides 
+that the 
+
+
+“[pjrospective relief shall not terminate if the 
+court makes written findings based on the record 
+that prospective relief remains necessary to cor- 
+rect a current and ongoing violation of the Fed- 
+eral right, extends no further than necessary to 
+correct the violation of the Federal right, and that 
+the prospective relief is narrowly drawn and the 
+least intrusive means to correct the violation.” 
+
+
+The PLRA therefore contemplates a process in which, 
+after a termination motion is filed, the trial court reviews 
+the previous relief and, if necessary, conducts a hearing 
+or does whatever else is necessary to create a record to 
+determine if the requirements of 18 U.S.C. § 3626(b)(3) are 
+met. 18 U.S.C. § 3626(e)(1) (Supp. III 1997) provides that 
+the trial court is to rule promptly on any termination 
+motion and that mandamus is available to the aggrieved 
+party to challenge a failure to rule. However, the statute 
+also provides that if the trial court does not rule on the 
+termination motion within thirty (30) days after the 
+motion is filed, all prospective relief is stayed until the 
+court enters a final order ruling on the pending motion. 
+18 U.S.C. § 3626(e)(2). While this case was pending on 
+appeal, the PLRA was modified by P.L. 105-119, 
+§ 123(a)(3)(C), codified at 18 U.S.C. § 3626(e)(3) (Supp. III 
+1997), which permits the trial court to postpone the auto- 
+matic stay for not more than sixty (60) days upon a 
+showing of good cause. The statute further provides that 
+“[n]o postponement shall be permissible because of gen- 
+eral congestion of the court’s calendar.” Id. Other than 
+this sixty (60) day extension, any order which stays, 
+suspends or otherwise delays the automatic stay of 18 
+
+
+U.S.C. § 3626(e)(2) is immediately appealable pursuant to 
+28 U.S.C. § 1292(a)(1) (1994). 
+
+
+3. The State filed its Motion to Terminate Decree on 
+June 5, 1997. (J.A. 45). On July 3, 1997, the prisoners filed 
+and received a temporary restraining order. (J.A. 4). On 
+July 11, 1997, after hearing, the trial court entered a 
+preliminary injunction against 18 U.S.C. § 3626(e)(2) and 
+ordered that, pending resolution of the termination 
+motions, “there shall be no stay of prospective relief in 
+this matter and the parties shall continue to comply with 
+this Court’s prior orders and judgments until further 
+orders of the Court.” (Appendix to Petition for Writ of 
+Certiorari of the State at 10-11 [hereinafter “State’s 
+
+
+App.}). 
+
+
+The State’s original termination motion has remained 
+in the trial court during the pendency of this appeal. The 
+termination motion was initially set for hearing in the 
+trial court on December 13, 1999. However, following an 
+agreed motion by all parties, including the United States, 
+the hearing was postponed until March 27, 2000. It was 
+rescheduled on the prisoners’ motion to June 27, 2000. 
+
+
+4. On appeal, the Seventh Circuit first addressed the 
+statutory construction argument advanced by the Justice 
+Department. In order to avoid what it conceded would be 
+serious constitutional issues, the Justice Department 
+urged an interpretation of § 3626(e)(2) that would allow 
+the trial court to enjoin the automatic stay in appropriate 
+
+
+cases and thereby preserve its traditional equitable 
+powers. (State App. at 21-22).! 
+
+
+Although sharing the Justice Department's constitu- 
+tional concerns, the Seventh Circuit rejected its inter- 
+pretation of the statutory language. Instead, the court 
+ruled that the statutory language precluded the trial court 
+from doing anything but entering the stay after the 30 or 
+90 day period expired. In reaching this conclusion the 
+Seventh Circuit acknowledged that its interpretation dif- 
+fered not only from that promoted by the Justice Depart- 
+ment, but that it also differed from the conclusion of the 
+Sixth Circuit in Hadix v. Johnson, 144 F.3d 925 (6th Cir. 
+1998). (State’s App. at 20-23).? 
+
+
+The Seventh Circuit panel explained its conclusion on 
+the statutory construction issue by noting that “[e]ven 
+though we do not lightly assume that Congress meant to 
+restrict the equitable powers of the federal courts, we 
+
+
+1 The panel noted that: 
+
+
+the United States is of the view that (e)(2) would be an 
+unconstitutional violation of either the separation of 
+powers doctrine or the prohibition against legislative 
+suspension of a particular judgment if (e)(2) really 
+required automatic stays. The United States argues, 
+however, that the automatic stay provision should be 
+read to instruct a court reviewing prospective relief 
+that the court should — but is not required to — stay the 
+relief, an interpretation that avoids the constitutional 
+flaws. 
+
+
+(State’s App. at 22). 
+2 Subsequent to the panel’s decision in this case the Fifth 
+
+
+Circuit also agreed with the Justice Department's interpretation 
+of § 3626(e)(2). See, Ruiz v. Johnson, 178 F.3d 385 (5th Cir. 1999). 
+
+
+find it impossible to read this language as doing anything 
+less than that.” (State’s App. at 23). 
+
+
+Having concluded that the automatic stay was 
+indeed mandatory and not subject to modification or 
+delay by a trial court, the Seventh Circuit affirmed the 
+district court’s determination that the statute was uncon- 
+stitutional. The court acknowledged that Congress can 
+prescribe rules of practice and procedure which bind the 
+federal courts. (State’s App. at 25). However, the court 
+found that 18 U.S.C. § 3626(e)(2) does more because it ties 
+a substantive judicial outcome to a legislative time 
+restriction without allowing the trial court to do anything 
+to preserve the status quo in whole or in part even 
+though it retains jurisdiction of the case. (State’s App. at 
+25-28). The provision was deemed to be unconstitutional 
+for two reasons. First, it violates the principle established 
+in Plaut v. Spendthrift Farm, Inc., 514 U.S. 211 (1995), that 
+Congress cannot give other branches the power to review 
+final decisions of Article III courts. Section 3626(e)(2) 
+violates this rule since “it is a self-executing legislative 
+determination that a specific decree of a federal court- 
+
+. must be set aside at least for a period of time, no 
+matter what the equities, no matter what the urgency of 
+keeping it in place. This amounts to an unconstitutional 
+intrusion on the power of the courts to adjudicate cases.” 
+(State’s App. at 29). 
+
+
+Additionally, the Seventh Circuit found that 
+§ 3626(e)(2) violates the principle established in United 
+States v. Klein, 80 U.S. (13 Wall.) 128 (1871), where the 
+Court held that, although Congress has the power to 
+change underlying law, it does not have the power to 
+impose a rule of decision for pending cases. While the 
+
+
+termination petition is pending, § 3626(e)(2) “does man- 
+date a particular rule of decision: the prospective relief 
+must be terminated. In our view, this falls comfortably 
+within the rule of Klein, and as such, it exceeds the power 
+of the legislative branch.” (State’s App. at 30). 
+
+
+Recognizing that its decision conflicted with Hadix, 
+the panel circulated its opinion among all active judges to 
+determine if the matter should be reheard en banc pur- 
+suant to Seventh Circuit Rule 40(e). A majority of the 
+judges in active service did not vote to hear the case en 
+banc. (State’s App. at 33). However, Chief Judge Posner 
+and Judges Manion and Easterbrook dissented from this 
+determination. Although the dissenters agreed with the 
+panel that § 3626(e)(2) could not be interpreted as giving 
+courts the power to enjoin the stay, the dissenters argued 
+that § 3626(e)(2) was nothing more than a procedural rule 
+implementing new substantive law. Accordingly, the dis- 
+senters did not perceive a separation of powers problem. 
+
+
+¢ 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+I. Both the majority and dissenters below, joined by 
+the State of Indiana in this Court, conclude that the 
+automatic stay, 18 U.S.C. § 3626(e)(2), is indeed automatic 
+and is not subject to any stay or other equitable modifica- 
+tion by the trial court. If the statute is interpreted in this 
+way, it is unconstitutional as violating the separation of 
+powers. 
+
+
+The separation of powers doctrine does not demand 
+that an absolute wall be erected between each branch of 
+government. Instead, the key question is a functional one: 
+
+
+has one branch of the government intruded on the essen- 
+tial and central prerogatives of another? Loving v. United 
+States, 517 U.S. 748, 757 (1996). The concern prompted by 
+such an intrusion is that the institutional integrity of the 
+Judicial Branch is threatened by the action of a coordinate 
+branch. Commodity Futures Trading Commission v. Schor, 
+478 U.S. 833, 851 (1986). Section 3626(e)(2) gives a trial 
+court only a brief period of time to rule on pending 
+termination motions before they are automatically stayed. 
+If § 3626(e)(2) mandates an automatic stay after that brief 
+passage of time with no ability of a court to enjoin its 
+operation after weighing the equities, it threatens core 
+judicial functions and attacks the institutional integrity of 
+the judiciary in three distinct, but interrelated, ways. 
+
+
+A. As construed by the Seventh Circuit, § 3626(e)(2) 
+represents an effort by the Legislative Branch to automat- 
+ically terminate, albeit temporarily, the final judgment of 
+an Article III court. More than two centuries ago, this 
+Court in Hayburn’s Case, 2 U.S. (2 Dall.) 408 (1792), estab- 
+lished the principle that Congress may not direct a sus- 
+pension of a judicial decision. This principle has been 
+continuously recognized, and in Plaut v. Spendthrift Farm, 
+Inc., 514 U.S. 211 (1995), this Court proclaimed that legis- 
+lative reopening of a final judgment violates separation of 
+powers principles. Of course, Congress may prescribe 
+substantive rules to be applied prospectively, and injunc- 
+tive judgments that reach into the future may be subject 
+to the new law. However, § 3626(e)(2) does not create a 
+new substantive rule of law for a court to apply. Nor is it 
+a procedural rule in any ordinary sense. Rather, as inter- 
+preted by the Seventh Circuit, it entirely displaces the 
+
+
+10 
+
+
+role of the court and replaces that role with the Congres- 
+sional mandate that a final judgment be suspended. The 
+court has no judicial role whatsoever since the stay is 
+automatic and outside of its control. This violates the 
+specific separation of powers principles expressed in 
+Hayburn’s Case and Plaut in that final judgments are being 
+affected retroactively. 
+
+
+B. Section 3626(e)(2) also violates another separa- 
+tion of powers principle: Congress cannot prescribe a rule 
+of decision for a court. This principle, first expressed in 
+United States v. Klein, 80 U.S. (13 Wall.) 128 (1871), pre- 
+vents Congress from compelling a specific judicial out- 
+come in the government's favor, without giving any 
+authority to the courts to affect the outcome, regardless of 
+the circumstances. Again, Klein is not violated if Congress 
+amends applicable law. But, § 3626(e)(2) does not repre- 
+sent an amendment of substantive law for courts to use in 
+evaluating the continuing propriety of prospective relief 
+involving prison conditions cases. Instead, it is a mandate 
+from Congress that a decision, albeit temporary, in an 
+ongoing case must be made in favor of the government. 
+
+
+C. The common thread uniting Hayburn’s Case, 
+Plaut, and Klein is that they all represent cases where this 
+Court emphasized that the separation of powers pre- 
+cludes a coordinate branch of government from interfer- 
+ing with a core judicial function. Section 3626(e)(2) 
+impinges upon the core function of Article III courts, the 
+power to hear a case and apply relevant law to applicable 
+facts. Section 3626(e)(2) is not a procedural rule regulat- 
+ing the courts. Nor is it a substantive change in the law 
+for courts to apply to facts. It is, instead, a direct mandate 
+from Congress that a final order be suspended with no 
+
+
+11 
+
+
+apparent ability for a court to affect that legislative deter- 
+mination. It thus represents an effort by Congress to 
+intervene in an ongoing case while stripping the court of 
+its ability to act in the case. This act of legislative aggran- 
+dizement is unique and is easily distinguishable from 
+other statutes which impose deadlines that are either 
+non-binding or that apply to non-final judgments. In no 
+other existing statute has Congress presumed to retroac- 
+tively reach into a final judgment and order it suspended 
+with no ability in a court to affect the suspension order. 
+This interferes with the core function of the judiciary and 
+is further evidence that the statute is unconstitutional. 
+
+
+Il. The United States recognizes that § 3626(e)(2) 
+presents serious constitutional questions and urges this 
+Court, under the principle of constitutional doubt, to 
+interpret the statute in a manner that would avoid the 
+constitutional difficulty. Specifically, the United States 
+argues that the statute must be interpreted to allow trial 
+courts to retain their equitable authority, under proper 
+circumstances, to enjoin the operation of the automatic 
+stay. While the prisoners would welcome any view of the 
+statute which would allow district courts to recognize 
+that an automatic stay can cause irreparable harm in 
+particular cases, and which would therefore allow a stay 
+of the stay, the doctrine of constitutional doubt can be 
+utilized only if there is sufficient ambiguity in the statute 
+that it is actually susceptible to two constructions. Penn- 
+sylvania Department of Corrections v. Yeskey, 524 U.S. 206, 
+212 (1998). A review of the language of the statute and 
+the limited legislative history leads to doubt that this 
+statute can be stretched this far. The trial court and the 
+
+
+12 
+
+
+court of appeals properly found § 3526(e)(2) to be uncon- 
+stitutional. 
+
+
+ARGUMENT 
+
+
+I. IF SECTION 3626(e)(2) IS INTERPRETED AS PRE- 
+CLUDING A FEDERAL COURT’S ABILITY TO 
+AVOID THE AUTOMATIC STAY IT IS UNCON- 
+STITUTIONAL AS VIOLATING SEPARATION OF 
+POWERS 
+
+
+The essential purpose of Article III was laid out in 
+THe Feperauist No. 47. “The accumulation of all powers, 
+legislative, executive, and judiciary, in the same hands, 
+whether of one, a few, or many, and whether hereditary, 
+self-appointed, or elective, may justly be pronounced the 
+very definition of tyranny.” THe Feperauist No. 47 at 313 
+(James Madison) (Modern Library ed., 1937). Neverthe- 
+less, this Court has rejected “the notion that the three 
+Branches must be entirely separate and distinct.” Mis- 
+tretta v. United States, 488 U.S. 361, 380 (1989). The three 
+branches are not hermetically sealed from one another 
+since the founders understood that this “would preclude 
+the establishment of a Nation capable of governing itself 
+effectively.” Buckley v. Valeo, 424 U.S. 1, 122 (1976) (per 
+curiam). What is key is that “one branch of the Govern- 
+ment may not intrude upon the central prerogatives of 
+another.” Loving, 517 U.S. at 757. 
+
+
+In cases involving intrusion on the prerogatives of 
+the judiciary, two particular concerns have stood out. 
+First, this Court has been vigilant to ensure that the 
+judiciary not be given “tasks that are more properly 
+
+
+13 
+
+
+accomplished by [the other] branches.” Morrison v. Olson, 
+487 U.S. 654, 680-81 (1988). Secondly, this Court has insis- 
+ted that no branch do anything which “impermissibly 
+threatens the institutional integrity of the Judicial 
+Branch.” Commodity Futures Trading Commission v. Schor, 
+478 U.S. 833, 851 (1986). Simply put, the separation of 
+powers prevents “the encroachment or aggrandizement 
+of one branch at the expense of the other.” Buckley, 424 
+U.S. at 122. 
+
+
+Contrary to the interpretation given to it by the Jus- 
+tice Department and the courts in Hadix and Ruiz, both 
+the panel and the dissenters in the Seventh Circuit agreed 
+that the language and legislative history of § 3626(e)(2) 
+was not elastic enough to encompass a right in the trial 
+court to enjoin the operation of the automatic stay. If the 
+statute is interpreted as mandating a stay without any 
+ability in the trial court to modify its terms, it is uncon- 
+stitutional as violating the separation of powers. 
+
+
+A. Section 3626(e)(2) violates the separation of 
+powers by disrupting the final judgment of an 
+Article III court 
+
+
+The final judgment which the State seeks to terminate 
+is exactly that, a final judgment. Permanent injunctive 
+relief, for which all appeals have been exhausted, and 
+final consent decrees are final judgments. Rufo v. Inmates 
+of Suffolk County Jail, 502 U.S. 367, 391 (1992). In entering 
+its judgment in this case, the trial court found that serious 
+and systemic constitutional violations existed at the Pen- 
+dleton Correctional Facility. Had § 3626(e)(2) not been 
+enjoined in this case the court’s final judgment would 
+
+
+14 
+
+
+have been automatically suspended, with no authority in 
+the trial court to affect that suspension. Thus, the pris- 
+oners would have been deprived of the benefit of this 
+final judgment, not because of any judicial finding that 
+the constitutional violations had been cured, but solely by 
+virtue of the automatic stay that Congress imposed with- 
+out regard to any particular facts or circumstances. This 
+Court has often recognized that attempts by Congress to 
+interfere, retroactively, with judicial decisions violate the 
+separation of powers. Section 3626(e)(2) is another 
+attempt to interfere, retroactively, with a final decision. It 
+is therefore unconstitutional. 
+
+
+In Hayburn's Case, 2 U.S. (2 Dall) 408 (1792), an act of 
+Congress provided that courts would set pensions for 
+disabled Revolutionary War veterans but that the Secre- 
+tary of War had the discretion to either adopt or reject the 
+judicial findings. This Court did not resolve the constitu- 
+tionality of the statute since the statute was changed 
+during the pendency of the appeal. 2 U.S. (2 Dall.) at 409. 
+However, the reported decision contains the opinions of 
+three circuit courts, on which five Justices sat, which 
+address the constitutionality of the statute, and the circu‘* 
+court rulings “have since been taken to reflect a proper 
+understanding of the role of the Judi ‘wy under the 
+Constitution.” Morrison v. Olson, 487 U.S. at 677, n. 15. 
+The opinion of the Circuit Court for the District of North 
+Carolina, consisting of Justice Iredell and District Judge 
+Sitgreaves, noted that “no decision of any court of the 
+United States can, under any circumstance, in our opin- 
+ion, agreeable to the constitution, be liable to a revision, 
+or even suspension, by the legislature itself, in whom no 
+judicial power of any kind appears to be vested...” 2 
+
+
+15 
+
+
+U.S. (2 Dall.) at 412. And, the opinion of the Circuit Court 
+of the District of Pennsylvania, consisting of Justices 
+Wilson and Blair and District Judge Peters, noted that 
+granting a coordinate branch the right and ability to 
+revise judgments of the courts would be “radically incon- 
+sistent with the independence of that judicial power 
+which is vested in the courts; and consequently, with that 
+important principle which is so strictly observed by the 
+constitution of the United States.” 2 U.S. (2 Dall.) at 411. 
+In the two hundred years since, the basic principle in 
+Hayburn’s Case, that other branches cannot revise or sus- 
+pend the judgments of Article III courts, has never been 
+questioned. 
+
+
+Most recently, in Plaut v. Spendthrift Farms, Inc., supra, 
+this Court considered an attempt by Congress to overturn 
+this Court’s decision in Lampf, Pleva, Lipkind, Prupis & 
+Petigrow v. Gilbertson, 501 U.S. 350 (1991), which had held 
+that claims under § 10(b) of the Securities Exchange Act 
+of 1934 had to be commenced within one year of the 
+discovery of the violation and within three years of the 
+violation itself. This holding had resulted in dismissal of 
+an earlier case brought by the petitioners in Plaut. Their 
+claims, however, were seemingly resurrected when Con- 
+gress amended federal law to change the limitation 
+period of § 10(b) actions and which further allowed cases 
+that had previously been dismissed to be reinstated if the 
+basis for their earlier dismissal was because they were 
+time barred. The Plaut Court struck down this amend- 
+ment as a violation of separation of powers since it had 
+the affect of interfering with a final determination of an 
+Article III court. The challenged amendment, this Court 
+
+
+16 
+
+
+noted, “does no more and no less than ‘reverse a deter- 
+mination once made in a particular case.’ The Federalist 
+No. 81, p. 545 (J. Cooke ed. 1961). Our decisions stem- 
+ming from Hayburn’s Case . . . have uniformly provided 
+fair warning that such an act exceeds the powers of 
+Congress.” Id., 514 U.S. at 225. More specifically, the 
+Court held, separation of powers principles are violated 
+when a judgment is “legislatively rescinded.” Id., 514 U.S. 
+at 228. 
+
+
+Of course, Congress has the right to enact changes in 
+substantive law that courts must apply prospectively. 
+Robertson v. Seattle Audubon Society, 503 U.S. 435 (1992); 
+Pope v. United States, 323 U.S. 1, 9 (1944) (“We perceive no 
+constitutional obstacle to Congress’ imposing on the Gov- 
+ernment a new obligation where there had been none 
+before .. . ”). But nothing in that principle authorizes 
+Congress to reopen a final judgment or direct the suspen- 
+sion of an injunctive decree without any change in the 
+substantive law. This distinction is critical to understand- 
+ing this Courts opinion in State of Pennsylvania v. The 
+Wheeling and Belmont Bridge Co., 59 U.S. (18 How.) 421 
+(1855), which addressed the issue of prospective relief 
+altered by Congress. In a prior appeal, this Court had 
+affirmed a lower court decision holding that a certain 
+bridge erected pursuant to an act of the State of Virginia 
+over the Ohio River was too low and was an obstruction 
+to river traffic. The earlier case directed that the bridge be 
+raised or removed since it interfered with the navigation 
+of the Ohio River as regulated by Congress. Following the 
+earlier case, Congress changed federai law by enacting 
+legislation declaring the bridge to be a lawful structure at 
+its original elevation and further declaring it to be a post 
+
+
+17 
+
+
+road. The Wheeling Court acknowledged the principle, 
+later recognized in Plaut, that “the act of Congress cannot 
+have the effect and operation to annul the judgment of 
+the court already rendered, or the rights determined 
+thereby in favor of the plaintiff . . . When they have 
+passed into judgment the right becomes absolute, and it 
+is the duty of the court to enforce it.” 59 U.S. (18 How.) at 
+431. However, the Court found that the earlier judgment 
+was executory and as a continuing decree it could be 
+prospectively modified by changes in law. 59 U.S. (18 
+How.) at 430-431. Wheeling Bridge continues to stand for 
+the proposition that Congress may enact legislation 
+which alters “the prospective effect of injunctions entered 
+by Article III courts.” Plaut, 514 U.S. at 232. A defendant 
+cannot be bound in perpetuity to obey a federal law that 
+Congress subsequently rewrites so that it no longer 
+applies.* 
+
+
+3 Courts which have upheld the constitutionality of the 
+PLRA’s immediate termination provision, 18 U.S.C. § 3626(b)(2) 
+(Supp. III 1997), have interpreted Wheeling Bridge as allowing 
+Congress to impose new requirements for the future 
+maintenance of injunctive relief in prison conditions cases and 
+that it is therefore appropriate and constitutional to require 
+courts to determine if existing decrees meet these new 
+conditions. (See cases cited in Brief of State at 28, n. 9. A contrary 
+opinion was issued by the panel decision in Taylor v. United 
+States, 143 F.3d 1178 (9th Cir.), rehearing granted and opinion 
+withdrawn, 158 F.3d 1017 (9th Cir. 1998), on rehearing 181 F.3d 
+1017 (9th Cir. 1999). The en banc majority found that the matter 
+was moot.) The circuits in these cases have misapplied this 
+principle since Wheeling Bridge requires new substantive law to 
+apply, and in the case of the PLRA there has been no change in 
+the Eighth Amendment which is the substantive law underlying 
+both consent decrees and judgments in prison litigation. Of 
+
+
+18 
+
+
+But, contrary to the argument of the State, this princi- 
+ple, derived from Wheeling Bridge, has no application 
+here. 
+
+
+Unlike the legislation in Wheeling Bridge, Congress, in 
+§ 3626(e)(2), does not purport to give new law to a court 
+with which to judge the continued validity of a final 
+judgment. The notion that Congress can affect prospec- 
+tive relief with new legislation presupposes that the legis- 
+lation imposes a new obligation which is then applied 
+prospectively by the court to the particular case before it. 
+If new legislation does this, by giving the court new law 
+to apply, it in no way suspends the prior decision of the 
+court. It is in no way retroactive. However, if Congress 
+reaches back with new legislation to change a final deci- 
+sion or to suspend it, Hayburn and Plaut principles are 
+violated because new law is not being applied prospec- 
+tively. Rather, there is only the suspension of the current 
+decree. In Hadix, the court of appeals recognized that, if 
+the automatic stay were to be interpreted as precluding 
+any ability in the trial court to enjoin it, Hayburn-Plaut 
+principles would be violated since the automatic stay 
+would then result in “direct legislative suspension of 
+orders of Article III courts...” 144 F.3d at 941. As both 
+
+
+course, Congress can not dictate the meaning of the Eighth 
+Amendment. See, e.g., City of Boerne v. Flores, 521 U.S. 507 (1997). 
+Section 3626(b)(2) has therefore not effected a change in the law, 
+other than Congress’ mandate tnat relief be terminated, and it is 
+therefore also unconstitutional. But, the question of the validity 
+of the immediate termination provision of § 3626(b)(2) is not 
+before the Court. The only question is the validity of the 
+au. matic stay provision of § 3626(e)(2). 
+
+
+19 
+
+
+the Sixth and Seventh Circuits have recognized, the auto- 
+matic stay does not require a court to apply new law 
+prospectively. Instead, it operates as a legislative injunc- 
+tion against on-going relief without affording any judicial 
+role in the process whatsoever. This is unconstitutional. 
+
+
+The State argues that § 3626(e)(2) is necessary to give 
+an incentive for a district court to rule promptly on 
+motions to terminate. Of course, § 3626(e)(1), which sub- 
+jects a court to mandamus if a ruling is not made 
+promptly, illustrates that a judicial remedy can be pro- 
+vided to control a dilatory court.‘ It is not for Congress to 
+provide judicial incentives when the “incentives” infringe 
+on the judiciary’s Article II] powers. 
+
+
+In proposing the automatic stay, the sponsor of 
+§ 3626(e)(2) noted that it was based on the automatic stay 
+in bankruptcy. 11 U.S.C. § 362 (1994). 143 Cong. Rec. 
+S12269 (Nov. 9, 1997) (Sen. Abraham). However, there are 
+significant differences between the bankruptcy stay and 
+the automatic stay under the PLRA. First, as the Court 
+recognized in Kalb v. Feuerstein, 308 U.S. 433 (1940), bank- 
+ruptcy is different because Article I, § 8 of the Constitu- 
+tion gives Congress exclusive power to “establish 
+uniform laws on the subject wf bankruptcies throughout 
+the United States.” Therefore, Congress, in the exercise of 
+its plenary power over bankruptcy, may constitutionally 
+require other litigation to be stayed. Kalb, 308 U.S. at 
+438-39. Moreover, the bankruptcy stay is not analogous to 
+
+
+* Despite the State’s complaints concerning the delay in the 
+district court’s ruling in this case, the State has never taken 
+advantage of the mandamus remedy. 
+
+
+20 
+
+
+the PLRA’s automatic stay since in the bankruptcy con- 
+text the judiciary remains able to terminate, annul, mod- 
+ify or condition the stay. 11 U.S.C. § 362(d). Finally, as the 
+United States recognizes (Brief of United States at 34-35), 
+the existence of the bankruptcy statute pre-dates the 
+cases which are stayed by the bankruptcy stay. There is 
+therefore no retroactivity since every judgment that has 
+been issued has built into it the possibility of a stay 
+through bankruptcy. Assuming that § 3626(e)(2) is inter- 
+preted as it is written, this is a power which Congress has 
+stripped from the courts. The retroactive and automatic 
+suspension of a judicial order by Congress violates the 
+separation of powers. 
+
+
+B. Section 3626(e)(2) is unconstitutional because 
+Congress is prescribing a rule of decision for 
+the trial court 
+
+
+In United States v. Klein, supra, the Court found that 
+Congress had overstepped its bounds in attempting to 
+control the authority of the courts. Congress had earlier 
+passed a statute providing that property which had been 
+seized in the states that had seceded would be returned 
+to its owner, upon filing a properly supported claim in 
+the Court of Claims, provided that the owner had “never 
+given any aid or comfort to the present rebellion.” 80 U.S 
+(13 Wall.) at 131. In a prior case, United States v. Padelford, 
+76 U.S. (9 Wall.) 531 (1870), this Court had agreed that 
+recipients of a presidential pardon could not be consid- 
+ered as having given any aid or comfort. Congress 
+responded immediately by enacting legislation which 
+provided that proof of the pardon was not admissible in 
+
+
+21 
+
+
+Court of Claims litigation as evidence that the recipient 
+had not given aid or comfort and that, further, acceptance 
+of the pardon would be deemed to be proof that the 
+recipient did in fact provide aid and comfort. 80 U.S. (13 
+Wall.) at 133-34. Finally, the statute provided that upon 
+proof that a pardon was received, both the Court of 
+Claims and Supreme Court would be deprived of further 
+jurisdiction of the case. Id. 
+
+
+The Court began its decision in Klein by recognizing 
+that Congress has the power to organize and establish 
+lower courts and to control their jurisdiction. 80 U.S. (13 
+Wall.) at 145. Therefore, Congress could determine that 
+appeals could not be pursued from Court of Claims cases 
+generally. Id. But, the Court also recognized in Klein that 
+Congress was not regulating jurisdiction; instead it was 
+attempting to affect the decision in particular cases. “It 
+seems to us that this is not an exercise of the acknowl- 
+edged power of Congress to make exceptions and pre- 
+scribe regulations to the appellate power. The court is 
+required to ascertain the existence of certain facts and 
+thereupon to declare that its jurisdiction on appeal has 
+ceased . . . What is this but to prescribe a rule for the 
+decision of a cause in a particular way?” 80 U.S. (13 Wall.) 
+at 146. The Court took pains to contrast Wheeling Bridge 
+where there was no rule of decision “but the court was 
+left to apply its ordinary rules to the new circumstances 
+created by the act. In the case before us no new circum- 
+stances have been created by legislation. But the Court is 
+forbidden to give the effect to evidence which, in its own 
+judgment, such evidence should have... ” 80 US. (13 
+Wall.) at 147. 
+
+
+22 
+
+
+The precise meaning of Klein and how it informs 
+cases today has been the subject of much scholarly 
+debate. See, e.g., Ira Bloom, Prisons, Prisoners and Pine 
+Forests: Congress Breaches the Wall Separating Legislative 
+from Judicial Power, 40 Ariz. L. Rev. 389, 403-04 (1998); 
+Brian M. Hoffstadt, Retaking the Field: The Constitutional 
+Constraints on Federal Legislation that Displaces Consent 
+Decrees, 77 Wasn. U. L.Q. 53, 66 (1999); Lawrence G. Sager, 
+Klein's First Principle: A Proposed Solution, 86 Geo. L. J. 
+2525 (1998). However, a review of this Court’s interpreta- 
+tions of Klein makes it clear that Klein concerns arise 
+when Congress compels a judicial outcome in the govern- 
+ment’s favor without giving authority to the courts to 
+evaluate or affect the outcome, regardless of the circum- 
+stances. 
+
+
+For example, in United States v. Sioux Nation of 
+Indians, 448 U.S. 371, 404 (1980), the Court noted that the 
+constitutional infirmity in Klein was, in part, that Con- 
+gress had “prescribed a rule of decision in a case pending 
+before the courts, and did so in a manner that required 
+the courts to decide a controversy in the Government's 
+favor.”5 In Gutierrez de Martinez v. Lamagno, 515 U.S. 417, 
+430 (1995), this Court examined whether the Attorney 
+
+
+5 In Sioux Nation the Court held that Congress could pass a 
+law which waived the government's defense of res judicata, 
+thereby allowing a claim to be relitigated against the United 
+States. In doing so the Court reaffirmed its earlier holding in 
+Cherokee Nation v. United States, 270 U.S. 476 (1926), allowing 
+such a waiver by Congress as part of Congress’ plenary power 
+to pay the debts of the United States. U.S. Const. Art. I, § 8. 
+
+
+23 
+
+
+General's scope of employment determinations for pur- 
+poses of the Federal Tort Claims Act were subject to 
+review. The employee who had been sued was involved 
+in the alleged tort outside of the United States. Because 
+there is no waiver of sovereign immunity for torts of 
+United States’ employees occurring outside of the United 
+States, the Attorney General’s certification that the 
+employee was acting within the scope, which had the 
+effect of dismissing the employee from the action and 
+substituting the United States as the defendant, lead to 
+dismissal of the action. This Court noted that Congress 
+had provided a judicial procedure for determining 
+whether the United States or its employees were liable in 
+tort, and, unless the courts were able to actually review 
+the determinations “(t]he key question presented — scope 
+of employment — however contestable in fact, would 
+receive no judicial audience. The Court could do no more, 
+and no less, than convert the executive’s scarcely disin- 
+terested decision into a court judgment.” Id. The Court 
+noted that this would be akin to “instructing a court 
+automatically to enter a judgment pursuant to a decision 
+the court has no authority to evaluate. Cf. United States v. 
+Klein ...” Id. Accordingly, the Court stated that it would 
+“resist ascribing to Congress an intention to place courts 
+in this untenable position.” Id. 
+
+
+At the very least, then, Klein is violated where a court 
+is instructed by Congress to enter a decision in the gov- 
+ernment’s favor that the court has no ability to modify, or 
+change. Of course, “its prohibition does not take hold 
+when Congress ‘amend[s] applicable law.’” Plaut, 514 
+
+
+24 
+
+
+U.S. at 218. (Internal citation omitted). But, § 3626(e)(2) is 
+not an amendment of applicable law. It is merely an act of 
+Congress instructing courts to retroactively revise a prior 
+judgment and to enter . decision, albeit a provisional 
+one, in the government's favor that the court has no 
+power to stop or control. Section 3626(e)(2) provides no 
+law for a trial court to apply, other than the ministerial 
+duty of entering the stay when the thirty (30) or ninety 
+(90) day period passes. Nor, as the State argues, is 
+§ 3626(e)(2) a mere regulation of procedure with the trial 
+court retaining discretion as to the substantive result. It 
+directs a particular decision. As the Seventh Circuit 
+noted, for the period of time until a final decision is made 
+on a motion to terminate prospective relief, § 3626(e)(2) 
+“does mandate a particular rule of decision: the prospec- 
+tive relief must be terminated. In our view, this falls 
+comfortably within the rule of Klein, and as such, it 
+exceeds the power of the legislative branch.” (State’s 
+App. at 30). 
+
+
+C. Section 3626(e)(2) violates the separation of 
+powers because, in addition to the specific 
+rules of Plaut and Klein, it interferes with a 
+core judicial function 
+
+
+The essence of separation of powers analysis in the 
+context of Article III is whether an action of the coordi- 
+nate branch has prevented the Judiciary “from accom- 
+plishing its constitutionally assigned functions.” Nixon v. 
+Administrator of General Services, 433 U.S. 425, 443 (1977). 
+“It is emphatically the province and duty of the judicial 
+department to say what the law is” in the cases pending 
+before it. Marbury v. Madison, 5 U.S. (1 Cranch) 137, 177 
+
+
+25 
+
+
+(1803). Section 3626(e)(2) strips from courts the ability to 
+perform this essential function. The judiciary is rendered 
+powerless because, regardless of facts and circumstances, 
+it loses its ability to act after thirty (30) or ninety (90) 
+days. Congress, not the courts, make the decision. This is 
+the epitome of interference with a constitutionally 
+assigned function because it absolutely precludes any 
+judicial function in an ongoing case. 
+
+
+At the core of Article III’s establishment of a judicial 
+department is the notion that the judiciary has “the 
+power, not merely to rule on cases, but to decide them, 
+subject to review only by superior courts in the Article III 
+hierarchy . .. ” Plaut, 514 U.S. at 218-19. Hayburn’s Case, 
+Plaut, and Klein all uphold the core notion that courts 
+must be allowed to rule on and decide cases properly 
+before them. Congress has the ability and duty to estab- 
+lish the jurisdiction of federal courts, U.S. Const. Art. I, 
+§ 8, Art. IIL, § 1, and that power enables Congress to 
+regulate practice and procedure in the federal courts as 
+well. See, e.g., Hanna v. Plumer, 380 U.S. 460, 473 (1965); 
+Sibbach v. Wilson & Co., 312 U.S. 1, 9 (1941). However, 
+once a court has jurisdiction of an issue, it must be 
+allowed to function as a court and apply law to fact. 
+
+
+“Judicial jurisdiction implies the power to hear and 
+determine a cause .. . ” United States v. O'Grady, 89 US. 
+(22 Wall.) 647 (1874). If in a particular case this power is 
+removed or severely limited, it would “prevent[] the 
+Judicial Branch ‘from accomplishing its constitutionally 
+assigned function.’” Mistretta, 488 U.S. at 396 (quoting 
+Nixon v. Administrator of General Services, 433 U.S. at 443). 
+As Plaut demonstrates, nowhere is this more clear than 
+when Congress purports to interfere with a case that has 
+
+
+26 
+
+
+already become final. But, as Klein demonstrates, interfer- 
+ence with a final judgment is not the only vice prohibited 
+by separation of powers. Separation of powers is also 
+violated when Congress grants a court jurisdiction over a 
+case but then prevents the court from engaging in judicial 
+decisionmaking - i.e, the application of law to fact — by 
+compelling a decision in favor of the government. Section 
+3626(e)(2) fails ultimately because it prevents a court 
+from engaging in its core function of judicial decision- 
+making and because it compels a court to stand idly by 
+while a final judgment is retroactively changed. Congress 
+has not enacted a procedural rule which restricts a court’s 
+jurisdiction. Nor has it enacted a substantive change in 
+the law which is to be applied prospectively. Instead, it 
+has bypassed judicial decisionmaking completely and 
+mandated that a final order be retroactively suspended 
+solely because of the passage of a brief period of time. 
+While allowing the court to hear the termination action, 
+Congress has deprived the courts of ability to act to 
+preserve the existing judgments during the pendency of 
+the action, regardless of the circumstances. 
+
+
+This serves to distinguish 18 U.S.C. § 3626 from the 
+other statutes and rules cited by the dissent in the Sev- 
+enth Circuit and the State in its brief. As indicated above, 
+the automatic bankruptcy stay still remains subject to 
+judicial modification and involves judgments which have 
+been issued with the implicit qualification that they could 
+be stayed upon a bankruptcy filing. 11 U.S.C. § 362 
+(1994). The temporal limitations on temporary restraining 
+orders in both Rule 65(b) of the Federal Rules of Civil 
+Procedure and the Norris-LaGuardia Act, 29 U.S.C. § 107 
+
+
+27 
+
+
+(1994), in no way suspend or otherwise affect final judg- 
+ments. In both cases the trial court retains jurisdiction to 
+issue further orders as necessary. Time limitations on 
+post-verdict motions, see e.g., Carlisle v. United States, 517 
+U.S. 416 (1996), similarly do not affect the validity of final 
+judgments, nor do they suspend existing injunctive relief. 
+A final judgment is not affected by speedy trial time 
+
+
+limits, and courts retain their judicial capacities to deter- 
+
+
+mine if there are grounds to toll the limits and also retain 
+discretion to determine if any dismissal is with or with- 
+out prejudice. 18 U.S.C. §§ 3161(h), 3162 (1994). Although 
+28 U.S.C. § 1826 (1994) provides that an appeal from a 
+contempt finding against a witness must be disposed of 
+within 30 days, “several decisions have recognized that a 
+serious constitutional question would be created if a 
+court did not decide an appeal within 30 days and the 
+period were treated as jurisdictional.” In re Grand Jury 
+Proceedings, 605 F.2d 750, 752, n. 1 (Sth Cir. 1979). Conse- 
+quently the deadline, which does not affect a final judg- 
+ment, is not viewed as mandatory. Id.; see also, e.g., In re 
+Grand Jury Proceedings, 946 F.2d 746, 749, n. 3 (11th Cir. 
+1991). The Antiterrorism and Effective Death Penalty Act, 
+28 U.S.C. § 2244(b)(3)(D) (Supp. III 1997), also purports to 
+require the court of appeals to enter a decision within 30 
+days, in this case concerning the appropriateness of a 
+successive application of habeas corpus. But this deadline 
+has also been deemed to be precatory and not jurisdic- 
+tional. See, e.g, In re Siggers, 132 F.3d 333 (7th Cir. 1997). 
+
+
+In none of these other examples has Congress con- 
+ferred jurisdiction on a court and directed that, if it did 
+not rule in a brief period, its earlier final decision would 
+be overruled or disturbed in any way. In none of these 
+
+
+28 
+
+
+other examples has Congress directed that a court issue a 
+particular order in the government's favor merely 
+because of the passage of time. “It is one thing for Con- 
+gress to prescribe judicial procedures to be followed in 
+federal court: conferring jurisdiction and then directing 
+that judicial deliberation be exercised in an unduly 
+restrictive manner is quite a different matter.” Hadix, 144 
+F.3d at 944, n. 15.° 
+
+
+6 Although the amount of time that Congress has given to a 
+trial court under (e)(2) to render a decision before it loses its 
+ability to function is not relevant to its unconstitutionality since 
+Congress may not so intrude on a court's essential prerogative, 
+it is nevertheless worth noting, as the Sixth Circuit found in 
+Hadix, that “(ijn many cases, including those now before us on 
+appeal, the district courts’ statutory task of ascertaining the 
+presence of a current or ongoing violation of federal right 
+requires delving into complex factual or legal intricacies and a 
+court record spanning many years. Consequently, thirty or 
+ninety days before onset of the automatic stay may prove an 
+inadequate period of time in which to find a constitutional 
+violation . ..” 144 F.3d at 944. And, the Seventh Circuit noted 
+below that “[i]t may be, however, that in some cases the courts 
+will not be able to carry out their adjudicative function in a 
+responsible way within the time limits imposed by (e)(2).” 
+(State App. at 31). This is especially true if the trial court 
+believes that an evidentiary hearing is necessary to determine if 
+there are on-going violations which would justify a 
+continuation of the orders under § 3626(b)(3). See, e.g., Cagle v. 
+Hutto, 177 F.3d 253, 258 (4th Cir. 1999), petition for cert. filed 
+(“Even though a district court is not required to hold an 
+evidentiary hearing in all cases, it nevertheless may do so in 
+appropriate circumstances.”) Once an evidentiary hearing is set 
+both sides are likely to engage in discovery and perhaps retain 
+experts to tour the institutions involved. Given this, it is 
+unrealistic to expect that everything can be completed within 90 
+days. 
+
+
+29 
+
+
+The separation of powers analysis is a functional one 
+that looks to whether the central prerogatives of one 
+branch are being intruded upon by another. Loving, 517 
+U.S. at 757.7 If § 3626(e)(2) is read to prevent a court from 
+fulfilling its judicial function of applying law to facts, so 
+
+
+The State argues that prisoners and their counsel should be 
+aware of ongoing constitutional violations so that the 90-day 
+period is not unrealistic. (Brief of State at 10). But, when there is 
+an existing decree the focus of counsel’s attention will not be in 
+finding constitutional violations, but on monitoring compliance 
+with the decree. The PLRA requirement that the prisoners once 
+again establish constitutional violations imposes a new duty on 
+the lawyers and prisoners not dissimilar from that which 
+existed when the case was originally filed. They will have to 
+muster the evidence and witnesses to demonstrate the 
+violations, to conduct the hearing, and to allow time for 
+reasoned decisionmaking, all within 90 days. 
+
+
+7 See also, Dean Alfange, Jr., The Supreme Court and the 
+Separation of Powers: A Welcome Return to Normalcy?, 58 Geo. 
+Wasn. L. Rev. 668, 712 (1990) 
+
+
+The measure of the constitutionality of a government 
+action challenged as violating the principle of 
+separation of powers, therefore, should not be 
+whether it brings about a separation or blending of 
+powers but whether it threatens in any way the 
+underlying purposes of the separation principle. That 
+is, does it create a risk that there will be such a degree 
+of accumulation of powers in a single branch that no 
+effective check on the abuse of those powers can be 
+anticipated, thus threatening liberty; or does it so 
+hamstring the ability of any of the branches 
+independently to exercise its powers or to perform its 
+functions that it is prevented from effectively 
+carrying out its constitutional responsibilities, thus 
+threatening government efficiency? In short, 
+separation of powers questions should be resolved by 
+a functional, rather than a formal, mode of analysis. 
+
+
+30 
+
+
+that its prior final orders are automatically suspended by 
+legislative fiat after the passage of time, the statute 
+unconstitutionally interferes with a core judicial function. 
+
+
+Il. ALTHOUGH INTERPRETING § 3626(e)(2) AS PRE- 
+SERVING THE RIGHT OF THE TRIAL COURT TO 
+USE EQUITY TO ENJOIN THE AUTOMATIC STAY 
+WOULD AVOID THE NECESSITY OF DECLAR- 
+ING THE STATUTE UNCONSTITUTIONAL, THE 
+DOCTRINE OF CONSTITUTIONAL DOUBT 
+DOES NOT EASILY APPLY HERE AND THE SEV- 
+ENTH CIRCUIT’S DECISION IS CORRECT 
+
+
+In its brief, the United States asserts that if 
+§ 3626(e)(2) is interpreted absolutely to preclude a trial 
+court from using its equitable powers to enjoin the opera- 
+tion of the automatic stay, that a substantial constitutional 
+question would be posed. The prisoners certainly agree 
+with this assertion since, as indicated above, interpreting 
+the statute in this manner would render it unconstitu- 
+tional. Because of this, the United States urges this Court 
+to construe the statute as preserving the right of a trial 
+court to issue a preliminary injunction against the auto- 
+matic stay if the prisoners come forward and meet the 
+traditional equitable standards for granting a preliminary 
+injunction. However, this construction can be considered 
+only if the text of § 3626(e)(2) is deemed to be ambiguous 
+on this issue of whether the trial court has been allowed 
+to retain any equitable power to enjoin the stay. “[T]he 
+doctrine of constitutional doubt which requires that we 
+interpret statutes to avoid ‘grave and doubtful constitu- 
+tional questions’ . . . enters in only ‘where a statute is 
+susceptible of two constructions’... . ” Pennsylvania 
+
+
+31 
+
+
+Department of Corrections v. Yeskey, 524 U.S. at 212 (1998) 
+(internal citations omitted); see also, e.g., Almendarez-Torres 
+v. United States, 523 U.S. 224, 237-38 (1998). The doctrine 
+of constitutional doubt “does not give a court the pre- 
+rogative to ignore the legislative will in order to avoid 
+constitutional adjudication.” Commodity Futures Trading 
+Commission v. Schor, 478 U.S. at 841. Relying on that 
+principle, the State argues that the meaning and intent of 
+§ 3626(e)(2) clearly and unambiguously establishes that 
+the trial court is not permitted to stay the stay. The State 
+therefore argues that the doctrine of constitutional doubt 
+cannot be applied. 
+
+
+The prisoners believe that, if possible within the con- 
+straints of statutory interpretation, the United States’ 
+interpretation would be preferable to a literal reading of 
+the statute, since it allows the trial court to stop the 
+automatic stay from going into effect in situations where 
+prisoners’ would be immediately harmed by the suspen- 
+sion. This is an interpretation which has been accepted by 
+the courts of appeals in both Ruiz and Hadix. However, 
+the prisoners also believe that the statute cannot easily be 
+stretched to accommodate the statutory construction that 
+the United States has put forth. Like the Seventh Circuit, 
+therefore, the prisoners in this case agree that the more 
+appropriate and straightforward response to the statute’s 
+fatal constitutional flaws is to declare § 3626(e)(2) uncon- 
+stitutional. 
+
+
+As the United States correctly points out in support 
+of its statutory construction claim, “[a]bsent the clearest 
+command to the contrary from Congress, federal courts 
+retain their equitable power to issue injunctions in suits 
+over which they have jurisdiction.” Califano v. Yamasaki, 
+
+
+32 
+
+
+442 U.S. 682, 705 (1979). However, this principle merely 
+focuses the inquiry on whether Congress has given such a 
+clear command in this case. 
+
+
+The first place to look is the language of the statute 
+itself. It is the best evidence of statutory purpose and if it 
+is unambiguous the inquiry into statutory meaning must 
+end there. See, e.g., West Virginia University Hospitals, Inc. 
+v. Casey, 499 U.S. 83, 98 (1991). Here, the statute indicates 
+that the motion to terminate “shall operate as a stay.” 18 
+U.S.C. § 3626(e)(2). Moreover, in 18 U.S.C. § 3262(e)(3), 
+Congress has clearly indicated the only circumstance 
+under which the stay can be extended and has further 
+indicated that it can only be extended for a 60-day 
+period.® 
+
+
+8 The United States cites cases where this Court found that 
+district courts retained equitable discretion even though the 
+statutes were silent on the question of whether the court had 
+this power. However, none of these cases deal with a situation 
+where the explicit language of the statute mandated a stay and 
+did not contain any other language allowing the district court to 
+do anything else. For example, in Honig v. Doe, 484 U.S. 305 
+(1988), the Court found that the automatic ‘stay put” portion of 
+the Education of the Handicapped Act did not preclude an 
+injunction on behalf of the school to enjoin the “stay put” 
+provision. The Court based this conclusion on the fact that the 
+relevant statute provided for judicial review of all 
+determinations and thus the Court deemed the “stay put” 
+provision to be a limitation on the school’s ability to move the 
+child, and not a court’s. 484 U.S. at 327. The contrast here is clear 
+since § 3626(e)(2) is a direct limitation on the court. In Hecht v. 
+Bowles, 321 U.S. 321 (1944), the Court found that a statute 
+providing that “a permanent or temporary injunction, 
+restraining order, or other order shall be granted without bond” 
+upon a showing that the Emergency Price Control Act had been 
+violated nevertheless allowed a court to deny an injunction 
+
+
+33 
+
+
+The United States finds support for its statutory posi- 
+tion in the language of § 3626(e)(4), which provides for an 
+appeal of any order staying, suspending, delaying or 
+barring the operation of the stay. The United States reads 
+into this language an indication that Congress did not 
+intend to remove trial courts’ equitable discretion to 
+enjoin the operation of the stay. The difficulty with this 
+argument is that (e)(4) applies in only one direction: it 
+permits immediate appeals from the grant of an injunc- 
+tion against the automatic stay but not from the denial of 
+such a motion. This is contrary to the customary pro- 
+cedures under 28 U.S.C. § 1292(a)(1) (1994) and, at the 
+very least, casts doubt on the United States’ claim that 
+Congress even contemplated such injunctions within the 
+
+
+even if a violation had been shown. Id. at 322. The Court found 
+that a trial court maintained its full equity powers to deny 
+injunctive relief since the Act explicitly gave the trial court 
+discretion by providing that some “other order” could be issued 
+in case of a violation. Id. at 328. In this case, Congress has not 
+explicitly given the trial court any options other than to enter 
+the stay, automatically, after 30 or 90 days. Finally, in Scripps- 
+Howard Radio v. Federal Communication Commission, 316 U.S. 4 
+(1942), the Court found that a stay could be issued by the Court 
+of Appeals under the Communications Act of 1934. The statute 
+was silent as to whether the court had this power and the 
+Supreme Court was unwilling to find, in this silence, a 
+Congressional desire to remove the power to issue the stay. 
+However, the Communications Act was not a statute which 
+explicitly concerned modifying prior decisions and which had 
+written into it an automatic stay provision. Here, on the other 
+hand, the automatic stay already expresses Congress’ desire to 
+temporarily end the orders and to remove the ability of the trial 
+court to interfere with such a result. Unlike the cases cited by 
+the United States, § 3626(e) bears the clear imprint of a 
+Congressional desire to remove the court’s equitable power. 
+
+
+34 35 
+
+
+statutory framework of the PLRA. To be sure, as the CONCLUSION 
+United States argues, Congress could have provided for 
+mandamus review of any injunction against the auto- 
+matic stay if it believed that all such injunctions were 
+
+
+This Court should therefore affirm the judgment of 
+the court of appeals. 
+
+
+ultra vires. But the fact that Congress eschewed the Respectfully submitted, 
+
+“extraordinary remedy” of mandamus, Pittson Coal Corp. KENNETH J. FALK 
+
+v. Sebben, 488 U.S. 105, 121 (1988), in favor of the normal Counsel of Record 
+
+appellate process must be balanced against the fact that JACQUELYN E. Bowie 
+
+Congress provided no appellate review at all when a SEAN C. LEMIEUX 
+
+request for a stay of the stay is denied. In reviewing the E. Paice FREITAG 
+
+significance of § 3626(e)(4), the Seventh Circuit concluded CHRISTOPHER M. Gmson : 
+- Indiana Civil Liberties Union 
+
+that “[t]he drafters of the PLRA realized that they were 1031 E. Washington St. 
+
+skating close to the line in (e)(2), and they wanted to Indianapolis, IN 46202 
+
+ensure that the issue that is now before us could be ' 317/635-4059 
+
+resolved in an interlocutory appeal.” (State App. at 23). — 
+Certainly, the little legislative history that exists does 445 N. Pennsylvania St. 
+
+not support the argument of the United States. As the Suite 600 
+
+
+State has demonstrated in its brief, there is absolutely no j Indianapolis, IN 46204 
+
+
+hint that Congress desired the automatic stay to be any- | 317/632-1000 
+thing but that, an automatic stay. (State’s Brief at 15-16). | STEVEN R. SHAPIRO 
+, eet American Civil Liberties Union 
+
+If this were an appropriate case for application of the | Reundetion 
+constitutional doubt doctrine the prisoners would wel- 125 Broad St. 
+come the interpretation of the United States since it | New York, N.Y. 10004 
+allows trial courts to continue prospective relief in prison . 212/549-2500 
+cases and it acknowledges the fact that irreparable harm EuzasetH ALEXANDER 
+may befall prisoners when injunctive relief is terminated, National Prison Project 
+even temporarily. However, the doctrine cannot easily be of the American Civil 
+applied here since Congressional intent to preclude the Liberties Union 
+ability of trial courts to enjoin the stay appears to be clear. ‘ oe cee ‘inlaid 
+The Seventh Circuit properly struck down the statute as N.W. 
+unconstitutional. Washington, D.C. 20009 
+
+o 202/234-4830 
+
+
+Attorneys for Respondents 
+
+

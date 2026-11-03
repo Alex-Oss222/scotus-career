@@ -1,0 +1,14 @@
+[
+  {
+    "name": "apprendi",
+    "source": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-466.pdf",
+    "pages": 101,
+    "characters": 218145
+  },
+  {
+    "name": "dickerson",
+    "source": "https://www.govinfo.gov/content/pkg/USREPORTS-530/pdf/USREPORTS-530-428.pdf",
+    "pages": 38,
+    "characters": 83683
+  }
+]

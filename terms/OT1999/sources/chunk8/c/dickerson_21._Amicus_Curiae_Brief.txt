@@ -1,0 +1,1788 @@
+Supreme Court, U.S. 
+
+
+FILED 
+MAR - 9 vit) 
+
+
+Ma fs Merv 
+
+
+No. 99-5525 
+
+
+CLERK 
+
+
+In The 
+SUPREME COURT OF THE UNITED STATES 
+October Term, 1999 
+
+
+CHARLES THOMAS DICKERSON, 
+Petitioner, 
+v. 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+The United States Court of Appeals 
+For the Fourth Circuit 
+
+
+BRIEF OF AMICI CURIAE 
+NATIONAL ASSOCIATION OF POLICE 
+ORGANIZATIONS, INTERNATIONAL 
+BROTHERHOOD OF POLICE OFFICERS, & 
+FEDERAL LAW ENFORCEMENT OFFICERS 
+ASSOCIATION, IN SUPPORT OF AFFIRMING THE 
+DECISION OF THE U. S. COURT OF APPEALS 
+
+
+Robert J. Cynkar* Stephen R. McSpadden 
+Margaret A. Ryan General Counsel 
+Cooper, Carvin & Rosenthal National Association of 
+1500 K Street, N.W., Suite 200 Police Organizations 
+Washington, DC 20005 750 First Street, N.E. 
+(202) 220-9600 Suite 920 
+*Counsel of Record for Amici Curiae Washington, DC 20002 
+Additional counsel listed inside cover. 
+
+
+HBEST AVAILABLE COPY 
+
+
+Edward J. Smith 
+
+General Counsel 
+
+International Brotherhood 
+of Police Officers 
+
+317 South Patnck Street 
+
+Alexandna, VA 22305 
+
+
+Lawrence Berger 
+
+Mahon & Berger 
+
+350 Old Country Rd., Suite 101 
+
+Garden City, NY 11530 
+
+(General Counsel, Federal Law 
+Enforcement Officers 
+Association) 
+
+
+BEST AVAILABLE COPY} 
+
+
+TABLE OF CONTENTS 
+Page 
+STATEMENT OF INTEREST OF AMICI CURIAE........ l 
+STATEMENT OF THE CASE..............0ccccccsccsscssescseeseees 2 
+INTRODUCTION AND SUMMARY OF 
+IIIT etvaneentnsnsusenssnensonssessssssneseenenssnsnnesesneusnesnesssess a 
+IIIT cintennssentneeninnssenenssonsctsamseesnessmmmanacetneeneunes 6 
+I. SECTION 3501 BETTER SERVES CORE 
+FIFTH AMENDMENT VALUES THAN 
+THE RIGID APPLICATION OF THE 
+RETRANDDA PORDIULA. ....0..0.00.0csssrcssecssesseesseees 7 
+II. THE MIRANDA FORMULA DOES NOT 
+PROMOTE THE TRUTHFINDING 
+FUNCTION OF EFFECTIVE LAW 
+ITE cenecsnnscescceemensesenmsnsesnennssceneessce 16 
+
+
+A. The Miranda Formula Is The Classic 
+“Technicality” That Undermines Public 
+Confidence In Criminal Justice By 
+Excluding Voluntary, Reliable Confessions... 16 
+
+
+B. The Supposed “Bright Line” Of The 
+Miranda Formula Is Illusory, Creating 
+Only A Chimera That Masks The Broad 
+Range Of Issues That Still Remain In Any 
+Application Of Miranda.....................ccc0cee0000 19 
+
+
+ll 
+
+
+C. Modern Interrogation Techniques Further 
+The Interest Of Society, While Protecting 
+The Constitutional Rights Of Suspects ........... 
+
+
+Ill. UNLIKE OTHER “PROPHYLACTIC” 
+HOLDINGS OF THE COURT, THE 
+MIRANDA FORMULA HAS NEVER BEEN 
+HELD TO BE REQUIRED BY THE 
+GRO ITT cenecsnsrssnenssscentesssemmmmementenesnes 
+
+
+oe 
+
+
+ROE eee 
+
+
+ili 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+
+Anders v. California, 386 U.S. 738 (1967) ...........000+. 26, 27 
+Blackburn v. Alabama, 361 U.S. 199 (1960)............... 11, 13 
+Blackledge v. Perry, 417 U.S. 21 (1974) ...........ccccc0000. 28 
+Brown v. Mississippi, 297 U.S. 278 (1936) ............+0++. 9, 13 
+Bruton v. United States, 391 U.S. 123 (1968).............. 29 
+Colorado v. Connelly, 479 U.S. 157 (1986) ..............-. 12 
+Colorado v. Spring, 479 U.S. 564 (1987) 0.0.0.0 23 
+Davis v. United States, 512 U.S. 452 (1994) ............... 8 
+Delaware v. Van Arsdall, 475 U.S. 673 (1986)........... 9 
+Duckworth v. Eagan, 492 U.S. 195 (1989)... passim 
+Gertz v. Welch, 418 U.S. 323 (1984) ..........ccceeceeeeeees 29 
+Hopt v. Utah, 110 US. 574 (1884) .0........cccccceeseeeeeeeeees 9 
+Illinois v. Perkins, 496 U.S. 292 (1990)..........ccceseeees 23 
+Lisenba v. California, 314 U.S. 219 (1941)................. 8, 13 
+
+
+McNeil v. Wisconsin, 501 U.S. 171 (1991).............0000 17 
+
+
+iv 
+Michigan v. Tucker, 417 U.S. 433 (1974).......ccccccceeeeee 7,9 
+Minnick v. Mississippi, 498 U.S. 146 (1990) ............... 14, 15 
+
+Miranda v. Arizona, 384 U.S. 436 (1966).................... passim 
+Moran v. Burbine, 475 U.S. 412 (1986) .............0.00000 8, 23 
+New York v. Quarles, 467 U.S. 649 (1984)... 12 
+North Carolina v. Pearce, 395 U.S. 711 (1969).......... 27, 28 
+N.Y. Times v. Sullivan, 376 U.S. 254 (1964)................ 29 
+Oregon v. Elstad, 470 U.S. 298 (1985)...........cccceeseee 10, 12, 23 
+Rhode Island v. Innis, 446 U.S. 291 (1980)................. 15 
+Rice v. Cooper, 148 F.3d 747 (7th Cir. 1998), 
+
+cert. denied, 119 S. Ct. 2052 (1999) ..0......cccececeeceees 23 
+Smith v. Robbins, 120 S. Ct. 746 (2000) ............cccceee 26 
+Thasaphone v. Weber, 137 F.3d 104) (8th Cir.), 
+
+cert. denied, 523 U.S. 1130 (1998) ..0........ecccecceeceeees 21 
+United States v. Carignan, 342 U.S. 36 (1951) ........... 9 
+United States v. Dickerson, 166 F.3d 667 
+
+SENG Ce encrexrestsustinnmsnenesticensmenicmsctmmesmsentnonnens 29 
+United States v. Erving L., 147 F.3d 1240 
+
+ee Bee ceiitenrhicinsorccnnnscitateaesinmmmnbctanttiipes 21 
+
+
+hl OE - 
+
+
+: 
+
+
+United States v. Garibay, 143 F.3d 534 
+
+
+Es Cee ecrrentinscendnaiiintincnsimmntinnssiinmesntecestuncenenccets 21 
+
+United States v. Salvo, 133 F.3d 943 (6th Cir.), 
+
+cert. denied, $23 U.S. 122 (1998) ...........c..csscsscsessseeeees 21 
+United States v. Washington, 431 U.S. 181 (1977)...... 12 
+Withrow v. Williams, 507 U.S. 680 (1993) ............0006 passim 
+Constitution, Statutes and Rules 
+ee 4 
+ED srccnectneenscscesemnisetomnmninrinnenpeegnenentinil passim 
+ee CE ite cenccsacnscnstemtunennsimntmsammencassemses 3,4, 11 
+ee l 
+Supreme Court Rule 37.3(a) ...........:.:ccscseseeeeeeeeneenees l 
+Other 
+
+
+HADLEY ARKES, BEYOND THE CONSTITUTION 
+Re ea 8, 14,15 
+
+
+Paul G. Cassell, Protecting the Innocent from False 
+Confessions and Lost Confessions — And from 
+Miranda, 88 J. CRIM. L. & CRIMINOLOGY 497 
+
+
+vi 
+Paul G. Cassell, The Statute That Time Forgot: 
+
+
+18 U.S.C. § 3501 and the Overhauling of 
+Miranda, 85 IOWA L. REV. 175 (1999) ...........:cccc0ee- 
+
+
+Paul G. Cassell & Bret S. Hayman, Police 
+Interrogation in the 1990s: An Empirical 
+Study of the Effects of Miranda, 43 UCLA L. REV. 
+i acicreniacepessscntinnmentiiieunesisncinabiimeneicnegiaiieden 
+
+
+Linda Chavez, Hesitation Waltz at Justice, 
+AE 
+
+
+Ann Coulter, Challenging Miranda, CHATTANOOGA 
+GOR, Gy Fae crscreccncetniuintensnscceesinsiamsentinnavassindee 
+
+
+Ann Coulter, We Can Do Nicely Without Miranda, 
+CHATTANOOGA TIMES, Jan. 7, 2000..............cccc000e000 
+
+
+J.F. Ghent, What Constitutes “Custodial 
+Interrogation” Within Rule of Miranda v. 
+Arizona Requiring that Suspect be Informed of 
+His Federal Constitutional Rights Before Custodial 
+Interrogation, 31 A.L.R.3d 565 (2000)............::00008- 
+
+
+JOSEPH D. GRANO, CONFESSIONS, TRUTH, AND THE 
+FED :cneciceniesmendiogtstiatiaanbabiicanihiiniasosaiibibagéiabunen 
+
+
+FRED E. INBAU & JOHN E.. REID, CRIMINAL 
+INTERROGATION AND CONFESSIONS (1962) .............. 
+
+
+FRED E. INBAU, JOHN E. REID & JOSEPH P. BUCKLEY, 
+CRIMINAL INTERROGATION AND CONFESSIONS 
+GENE DIU  dnininiectnenadhteieibiicietingineipddibmenetiineduiesd 
+
+
+BRIAN C. JAYNE & JOSEPH P. BUCKLEY, 
+
+
+17 
+
+
+18 
+
+
+18 
+
+
+19 
+
+
+20 
+
+
+10 
+
+
+24 
+
+
+Vii 
+THE INVESTIGATOR ANTHOLOGY 459 (1999) ........... 
+
+
+Saul M. Kassin & Katherine L. Kiechel, Police 
+Interrogations and Confessions: Communicating 
+Promises by Pragmatic Implication, 
+
+er es SE IIE ccrnscncncnscnsesescbesessessoceves 
+
+
+Saul M. Kassin & Katherine L. Kieche, The 
+Social Psychology of False Confessions: 
+Compliance, Internalization, and Confabulation, 
+PE HEE IE ncvcnccsncicinecsesoraitstntnteennescanctccoceses 
+
+
+Leonard W. Levy, The Right Against Self- 
+Incrimination: History and Judicial History, 
+in JUDGMENTS: ESSAYS ON AMERICAN 
+CONSTITUTIONAL HISTORY 268 (1972) ........::cc:cc000 
+
+
+OFFICE OF LEGAL POLICY, REPORT TO THE 
+ATTORNEY GENERAL: THE LAW OF PRETRIAL 
+IND 2 CINE xencennstntccsectniettancstesentcsnssecs 
+
+
+Opinion, Miranda Wrongs; Supreme Court to 
+Revisit Landmark 1966 Ruling, SAN DIEGO TRIB., 
+Se ih Se cnccctocencersentanmpentessnsevimenieatennsnnienintitnassecsese 
+
+
+President’s Panel on Mental Retardation, REPORT 
+OF THE TASK FORCE ON LAW 33 (1963) ...........::0:00008 
+
+
+Morgan Reynolds, /t’s Time to Overturn Miranda, 
+en 
+
+
+enc ree 
+
+
+STATEMENT OF INTEREST OF AMICI CURIAE 
+
+
+Amicus curiae National Association of Police Organiza- 
+tions, Inc. (““NAPO”), submits this brief in support of affirming 
+the decision of the U.S. Court of Appeals for the Fourth Circuit, 
+and is joined in this brief by amici curiae the International Broth- 
+erhood of Police Officers and the Federal Law Enforcement Offi- 
+cers Association. ! 
+
+
+NAPO is a national non-profit organization, representing 
+state and local law enforcement officers throughout the United 
+States. Specifically, NAPO is a coalition of associations and un- 
+ions that serves to advance the interests and legal rights of law en- 
+forcement officers through advocacy, education, and legislation. 
+NAPO represents 4,000 organizations, with over 230,000 sworn 
+law enforcement officers and 11,000 retired officers. 
+
+
+The International Brotherhood of Police Officers (IBPO) is 
+an affiliate of the Services Employees International Union. The 
+IBPO represents over 50,000 police officers throughout the Nation 
+and is the largest police union in the AFL-CIO. 
+
+
+The Federal Law Enforcement Officers Association 
+(FLEOA), with more than 8,000 members, is the largest profes- 
+sional association in the nation exclusively representing federal 
+law enforcement officers and criminal investigators from 38 agen- 
+cies. : ‘ 
+
+Amici have a significant interest in the important issue be- 
+fore this Court. We offer the perspective of amici’s organizations 
+and their members, the men and women “on the street” who have 
+dedicated their professional lives to the enforcement of our laws. 
+From that perspective, we believe that this case offers the Court 
+
+
+| Pursuant to Supreme Court Rule 37.6, no counsel for a party 
+authored this brief in whole or in part, and no person other than the amici, 
+their members, and their counsel made a monetary contribution to the prepa- 
+ration or submission of this brief. Both Respondent and Petitioner have con- 
+sented to the filing of this brief, and copies of the consents have been filed 
+with the Clerk of the Court pursuant to Supreme Court Rule 37.3(a). 
+
+
+2 
+
+
+the opportunity to speak clearly about the principles of justice 
+memorialized in the Fifth Amendment that are at stake in this 
+case, which includes identifying and punishing those who commit 
+crimes, without coerced self-incrimination. Interrogation of 
+criminal suspects is a recognized and integral component of law 
+enforcement, necessary in many cases to arrive at truthful infor- 
+mation concerning the facts and circumstances of criminal activ- 
+ity. Confessions and statements from criminal suspects are inher- 
+ently reliable and beneficial to society as a whole, as long as they 
+are obtained through constitutional and non-coercive means. 
+Thus, the constitutional principles governing interrogations that 
+are at issue in this case play a central role in the day-to-day pro- 
+fessional lives of amici’s 288,000 member officers. 
+
+
+STATEMENT OF THE CASE 
+
+
+The events that bring this case to the Court were set in mo- 
+tion by a 1997 armed bank robbery in Alexandria, Virginia, and 
+the incriminating statements made by Petitioner Charles Dicker- 
+son to FBI Special Agents during a subsequent interview at the 
+FBI’s Washington, D.C. Field Office. 
+
+
+The FBI had been led to Petitioner by the fact that the geta- 
+way car, observed by a witness at the scene, was registered to him. 
+After'a short, initial conversation at Petitioner’s apartment, he 
+agreed to voluntarily accompany the FBI Special Agents to their 
+Field Office. At the outset, Petitioner admitted to being at the 
+scene in his car, but denied any involvement in the crime. Peti- 
+tioner refused to consent to the agents’ search of his apartment. 
+Although the district court subsequently found that Petitioner was 
+in custody, at the time he was not under arrest. The fact that he 
+was not under arrest was one exigent circumstance that spurred the 
+agents to obtain an immediate search warrant by telephone for Pe- 
+
+
+titioner’s apartment.2 
+
+
+2 The search of Petitioner’s apartment tumed up a handgun, dye- 
+stained money, a bait bill from an earlier robbery, and other evidence, which 
+implicated Petitioner “in multiple bank robberies and an armed car-jacking 
+
+
+3 
+
+
+At some point after the agents told Petitioner that they were 
+going to search his apartment, he made a statement in which he 
+denied his involvement in the bank robbery but identified James 
+Rochester as the person who had accompanied him to Alexandria. 
+Petitioner described various suspicious actions of Rochester after 
+they left the scene. This included asking Petitioner to stop so 
+Rochester could put something into the trunk, asking Petitioner to 
+run a red light and giving Petitioner a silver handgun and some 
+dye-stained money. Petitioner advised the agents that he sus- 
+pected Rochester of having committed a robbery, especially since 
+Petitioner knew that Rochester came to D.C. after committing 
+several robberies in Georgia. (Rochester later admitted to robbing 
+several banks in the D.C. area, and stated that Petitioner was his 
+getaway driver in each of these robberies.) 
+
+
+The Petitioner moved to suppress his statements. The key 
+issue before the district court was a dispute over whether Peti- 
+tioner was given his Miranda warnings before or after these 
+statements. Petitioner did not try to establish that his statements 
+were in some way coerced by the FBI agents or to claim in any 
+other way that they were actually involuntary. The district court 
+concluded that Petitioner had been in custody during the interview 
+and that he had not been advised of and waived his Miranda rights 
+until after he had made the statements at issue, notwithstanding a 
+hand-written note from Petitioner, indicating he was read his 
+rights before he made any incriminating statements. Consequently, 
+Petitioner’s statements were suppressed. ~ 
+
+
+The Fourth Circuit reversed the exclusion of the incrimi- 
+nating statement (and other evidence) on the grounds that 18 
+U.S.C. § 3501, rather than Miranda, governs the admissibility of 
+confessions, and that the district court had found that Petitioner’s 
+confession was completely voluntary. The Fourth Circuit ex- 
+pressly found that the Miranda formula was not constitutionally 
+
+
+during which a gun was taken that later was used to murder an off-duty cor- 
+rectional officer.” J.A. 86 
+
+
+compelled. 
+INTRODUCTION AND SUMMARY OF ARGUMENT 
+
+
+This case concerns the power of Congress to make a judg- 
+ment different from that of this Court regarding the practical 
+mechanism best suited to preserve the principles of justice articu- 
+lated in the Fifth Amendment’s provision that “[nJo person... 
+shall be compelled in any criminal case to be a witness against 
+himself.” U.S. CONST. amend. V. This Court, in its 5-to-4 deci- 
+sion in Miranda v. Arizona, 384 U.S. 436 (1966), held that all 
+statements obtained from a criminal defendant in custody, without 
+law enforcement officers first having advised that defendant of 
+certain rights, are presumed to be the result of coercion in viola- 
+tion of the Fifth Amendment and cannot be admitted in the prose- 
+cution of that defendant. Just two years later, accepting the 
+Miranda Court’s explicit invitation to develop its own safeguards 
+for the rights at issue, Congress enacted 18 U.S.C. § 3501. In do- 
+ing so, Congress did not reject the Miranda formula, but con- 
+cluded that the reciting of that formula should be one of several 
+factors in an inquiry that focused on the key constitutional issue, 
+that is, whether a statement from a defendant was voluntarily 
+given. In sum, section 3501 provides that the “presence or ab- 
+sence” of the Miranda warnings and the defendant’s knowledge of 
+the nature of the offense for which he was charged or suspected at 
+the time of his confession, while taken inte consideration by the 
+judge, “need not be conclusive on the issue of voluntariness of the 
+confession.” 18 U.S.C. § 3501(b). 
+
+
+However well intentioned, the teaching of Miranda can now 
+be seen as flawed in critical respects. Miranda created a logic that 
+is unfaithful to the Constitution and the particular rights at issue 
+here. In addition, the logic of Miranda wrongly juxtaposes the 
+interests of law enforcement with the rights of defendants and ul- 
+timately is at war with the fundamental proposition from which all 
+rights and duties arise: unless immature or otherwise incompetent, 
+all human beings have the unique capacity to know right from 
+wrong and can be held accountable when they are guilty of a 
+criminal act. Indeed, it is the basic and solemn commission of all 
+
+
+5 
+
+
+who participate in the rendering of justice, whether in law en- 
+forcement, in the judiciary, or in the penal system, to faithfully 
+determine, according to their particular roles, who committed a 
+crime and whether punishment is justified or unjustified. These 
+tasks have meaning only because of the capacity, indeed the dig- 
+nity, of human beings as moral agents. Consequently, the 
+Miranda formula is at odds with the values of the Fifth Amend- 
+ment, offers only the illusion of a “bright line” to preserve those 
+values, brings the criminal justice system into disrepute, and sets 
+up an artificial tradeoff between the constitutional right against 
+compelled self-incrimination and the interests of society in fair 
+and effective law enforcement. 
+
+
+Under the mischievous influence of the flawed logic of 
+Miranda, we see here Petitioner and his amici offering broad 
+claims that the rigid application of the Miranda formula actually 
+serves the principles of the Fifth Amendment, advances the inter- 
+ests of effective law enforcement, and encourages public confi- 
+dence in the criminal justice system. Each of these claims is not 
+only wrong but at odds with the elementary notions of justice. 
+
+
+We are justified in punishing someone only because we 
+have carefully — even scrupulously — determined that that person 
+committed a crime. Justice requires that the guilty be identified, 
+tried, and punished, and that the innocent go free. In essence, the 
+judgment of any tribunal that a defendant is guilty must be rue. It 
+is that core truth in imposing a criminal sanction — that such a 
+sanction is truly justified — which gives the public confidence in 
+the criminal justice system. The purpose of police questioning of 
+a suspect or witness is to arrive at the truth. A coerced confession 
+is a double-barreled vice: it produces “evidence” that is inherently 
+unreliable, at odds with the mission of the police to find the truth, 
+and it is an affront to the dignity of an individual as a moral agent. 
+
+
+Under the rigid application of the Miranda formula urged as 
+a constitutional litmus test by Petitioner and his amici, the absence 
+of any coercion by the police during a custodial interrogation, and 
+the complete voluntariness of an incriminating statement that re- 
+sults, are of no significance whatsoever. Under this regime, the 
+
+
+6 
+
+
+Miranda formula becomes the quintessential “technicality,” a ve- 
+hicle inviting unnecessary efforts to exclude reliable and uncoer- 
+ced statements. As a result, the process of criminal justice is re- 
+duced to a game, where the incantation of magic words offers no 
+advantage to the innocent, but serves instead to give the guilty a 
+“sporting chance” of acquittal. 
+
+
+Effective law enforcement is not aided by an inflexible reli- 
+ance on the Miranda formula, for the variety of people and cir- 
+cumstances governed by our criminal laws is simply not suscepti- 
+ble to the mechanical application of a “bright-line” rule in this 
+area. Even the Miranda “bright line” is only triggered when a 
+suspect is in “custody,” which, among other issues, remains a fer- 
+tile subject for the energies of the adversaries in a criminal pro- 
+ceeding. Rather, judgment, in the first instance by professional 
+law enforcement officers schooled in the constitutional principles 
+they are sworn to uphold, and ultimately by the courts, will always 
+be necessary when the focus is properly on the objective of the 
+Fifth Amendment. 
+
+
+While the Miranda formula may still be used under the 
+framework set out by Congress in section 3501, that structure re- 
+alistically broadens the judicial inquiry to consider all of the cir- 
+cumstances surrounding an incriminating statement. It thus en- 
+sures that involuntary statements are excluded from the determi- 
+nation of a defendant’s guilt, while voluntary statements will be 
+admitted — even if an officer is mistaken about the suspect being 
+in custody, gives imperfect Miranda warnings, gives them at the 
+wrong time, or gives no warnings. The result achieved by an in- 
+quiry under section 3501, although different from the “prophylac- 
+tic” procedure established by the Miranda Court, is faithfully 
+grounded on constitutional principles, better serves the cause of 
+justice, and can only raise the esteem in which the public holds the 
+criminal justice system and the professionals sworn to uphold it. 
+
+
+ARGUMENT 
+
+
+The Solicitor General and several amici supporting Peti- 
+tioner, purporting to represent the interests of those who are, or 
+have been, involved in law enforcement, urge the Court to hold 
+
+
+7 
+
+
+section 3501 to be unconstitutional, because, in their view, the 
+statute falls short of the requirements of the Fifth Amendment’s 
+Self-Incrimination Clause. They claim first, that the Miranda 
+formula not only is faithful to the core values of the Fifth 
+Amendment, but is actually “beneficial to law enforcement,” Brief 
+for the United States ("U.S. Br.) at 9, second, that it provides law 
+enforcement with “a simple and consistent protocol,” Brief of 
+Griffin B. Bell, et al. as Amici curiae in Support of Petitioner 
+("Bell Amici Br.") at 2, and third, that, having “withsiood the test 
+of time, id. at 3, “it promotes public confidence that the criminal 
+justice system is fair.” U.S. Br. at 49. 
+
+
+Representing hundreds of thousands ot local, state, and fed- 
+eral law enforcement officers whose daily professional lives are 
+filled with making arrests, interrogating suspects, and testifying in 
+criminal prosecutions, amici NAPO, IBPO, and FLEOA strongly 
+disagree. Congress crafted section 3501 with an obvious appre- 
+ciation of the variety of circumstances in which interrogations oc- 
+cur. This statute puts in place a framework for interrogations that 
+recognizes that a confession may be voluntary even if the Miranda 
+warnings are not given, and that the rigid application of the 
+Miranda formula, far from benefiting law enforcement, creates a 
+wholly unnecessary yet “profound cost to the truth-finding func- 
+tion of a criminal trial.” U.S. Br. at 9. 
+
+
+I. SECTION 3501 BETTER SERVES CORE FIFTH 
+AMENDMENT VALUES THAN THE RIGID APPLI- 
+CATION OF THE MIRANDA FORMULA. 
+
+
+The right against compulsory self-incrimination has been 
+protected in our legal system by the law of evidence, by the Self- 
+Incrimination Clause of the Fifth Amendment, and by the Due 
+Process Clause of the Fourteenth Amendment. See Michigan v. 
+Tucker, 417 U.S. 433, 439-42 (1974); Joint Appendix ("J.A.") 
+192-95; OFFICE OF LEGAL POLICY, REPORT TO THE ATTORNEY 
+GENERAL: THE LAW OF PRETRIAL INTERROGATION 3-22 (1986) 
+
+
+_ (“OLP Report”). Before Miranda was decided, the central inquiry 
+
+
+in determining whether a self-incriminating statement could be 
+used against a defendant was whether the statement had been 
+
+
+made voluntarily. Lisenba v. California, 314 U.S. 219, 236 
+(1941); Davis v. United States, 512 U.S. 452, 464 (1994) (Scalia, 
+J., concurring). (“[VJoluntariness vel non was the touchstone of 
+admissibility of confessions” up to Miranda. ). 
+
+Even though Miranda established a new regime for pro- 
+tecting Fifth Amendment rights, the principle of voluntariness was 
+essential to the Court’s conclusion that custodial interrogation 
+“contains inherently compelling pressures which work to under- 
+mine the individual’s will to resist and to compel him to speak 
+where he would not otherwise do so freely.” Miranda v. Arizona, 
+384 U.S. 436, 467 (1966). Thus, the Miranda formula fully rec- 
+ognized the key role voluntariness plays in the operation of the 
+Fifth Amendment, and was designed to ensure that incriminating 
+statements were voluntarily made. 
+
+
+As we will discuss below, experience has now shown that 
+the Miranda formula, unfortunately, is not the reliable bulwark for 
+voluntary confessions the Miranda Court may have thought. 
+Even worse, as the operation and logic of the Miranda formula has 
+unfolded over the years, that formula can be seen as at war with 
+the core Fifth Amendment values served by the voluntariness 
+standard. Two such core values, rooted in the beliefs of the Fram- 
+ers, have figured prominently in the Court’s thinking: that confes- 
+sions compelled by the government “may lead to the conviction of 
+innocent persons,” and that such coercion “is often an adjunct to 
+tyranny.” Duckworth v. Eagan, 492 U.S. 195, 209 (1989) 
+(O’Connor, J., concurring). 
+
+A. Undeniably, admissions of guilt “are essential to soci- 
+ety’s compelling interest in finding, convicting, and punishing 
+those who violate the law.” Moran v. Burbine, 475 U.S. 412, 426 
+(1986). When the Court speaks of the enterprise of criminal jus- 
+tice in this way, it is speaking of “settling the cases in which pun- 
+ishment is justified or unjustified... . [I]t is . . . speak[ing] of es- 
+tablishing whether someone is guilty of a wrong, and therefore de- 
+serves punishment.” HADLEY ARKES, BEYOND THE CONSTI- 
+TUTION 184 (1990). As a result, the “logic of rendering justice 
+begins by commanding our respect for the moral differences that 
+
+
+9 
+
+
+separate . . . the innocent from the guilty.” Jd. See Delaware v. 
+Van Arsdall, 475 U.S. 673, 681 (1986) (explaining that “the cen- 
+tral purpose of a criminal trial is to decide the factual question of 
+the defendant’s guilt or innocence”). Accordingly, one core Fifth 
+Amendment value is the avoidance of coercion to ensure the ve- 
+racity of a confession, and so to advance the primary goals of a 
+erating the innocent. 
+
+The common sense of this proposition has long been re- 
+flected in the Court’s jurisprudence. As long ago as Hopt v. Utah, 
+110 U.S. 574 (1884), this Court pointed out: 
+
+
+Elementary writers of authority concur in saying that, 
+while from the very nature of such evidence it must be 
+subjected to careful scrutiny and received with great 
+caution, a deliberate, voluntary confession of guilt is 
+among the most effectual proofs in the law, and con- 
+stitutes the strongest evidence against the party mak- 
+ing it that can be given of the facts stated in such con- 
+fession. 
+Id. at 584-85. See also United States v. Carignan, 342 U.S. 36, 41 
+(1951) (noting that one basis for excluding involuntary confes- 
+sions is “that forced confessions are untrustworthy”); Brown v. 
+Mississippi, 297 U.S. 278, 286 (1936) (“[T]he trial equally is a 
+mere pretense where the state authorities have contrived a convic- 
+tion resting solely upon confessions obtained by violence.”). 
+
+
+The importance of this right against compulsory self- 
+pestesteentien tn cunaiitne tran enatitn Ont date has 
+not diminished since Miranda was decided. The Court has under- 
+scored that Miranda was not intended to “serve some value neces- 
+sarily divorced from the correct ascertainment of guilt.” Withrow 
+v. Williams, 507 U.S. 680, 692 (1993). See also Tucker, 417 U.S. 
+at 448 (noting that one justification for the Fifth Amendment’s ex- 
+clusionary rule is “protection of the courts from reliance on un- 
+trustworthy evidence”); Duckworth, 492 U.S. at 209 (O’Connor, 
+J., concurring). 
+
+
+10 
+
+
+Thus, one core dynamic of the Fifth Amendment is the link- 
+age between voluntary self-incrimination and “the correct ascer- 
+tainment of guilt,” that is, the truth. Unfortunately, experience 
+over the last 30 plus years shows that the Miranda formula has the 
+effect of severing that link, in the end establishing neither the vol- 
+untariness of a confession nor the truth. See JOSEPH D. GRANO, 
+CONFESSIONS, TRUTH, AND THE LAW vi (1996) (“Miranda's 
+philosophical premises are pernicious precisely because they are 
+indifferent, perhaps even hostile, to the goal of ascertaining the 
+truth.”). 
+
+
+The reason for this impact of the Miranda formula is appar- 
+ent: the rigid insistence on the incantation of that formula as the 
+prime determinant of the admissibility of an incriminating state- 
+ment. As the Court has candidly observed: 
+
+[U]nwarned statements that are otherwise voluntary within 
+
+the meaning of the Fifth Amendment must nevertheless be 
+
+excluded from evidence under Miranda. [hus, in the indi- 
+vidual case, Miranda's preventive medicine provides a rem- 
+edy even to the defendant who has suffered no identifiable 
+constitutional harm. 
+Oregon v. Elstad, 470 U.S. 298, 307 (1985). Indeed, in Miranda 
+itself, no reasonable review of the facts supports the notion that 
+Emest Miranda was compelled to confess by Phoenix police offi- 
+cers. See Paul G. Cassell, The Statute That Time Forgot: 18 
+U.S.C. § 3501 and the Overhauling of Miranda, 85 Iowa L. REV. 
+175, 181-91 (1999) (“The Statute That Time Forgot”). 
+
+
+Here, too, the record does not present a picture of a defen- 
+dant who was coerced by police officers to confess, see J.A. 167- 
+71, and neither the Petitioner nor any amici claims that Charles 
+Dickerson’s incriminating statements were involuntary. Clearly, 
+the exclusion of voluntary statements, not in any way compelled 
+by police officers, is drastically at odds with the value of truth- 
+finding and serves no value conceivably embraced by the Fifth 
+Amendment. Indeed, an observation of Justice O’Connor, made 
+in a slightly different context but pertinent here, comes to mind: 
+
+
+11 
+
+
+Exclusion in such a situation teaches not respect for 
+the law, but casts the criminal system as a game and 
+sends the message that society is so unmoved by the 
+violation of its own laws that it is willing to frustrate 
+their enforcement for the smallest of returns. 
+
+
+Duckworth, 492 U.S. at 212 (O’Connor, J., concurring). 
+
+
+Moreover, the dynamic of the Miranda formula, with its fo- 
+cus on procedural technicalities, has “led the courts away from 
+any close scrutiny of voluntariness — and hence, trustworthiness — 
+in individual cases.” Paul G. Cassell, Protecting the Innocent 
+from False Confessions and Lost Confessions — And from 
+Miranda, 88 J. CRIM. L. & CRIMINOLOGY 497, 544 (1998). The 
+superficiality of the Miranda formula provides limited protection 
+for the rights of the most vulnerable, innocent suspects. See id. at 
+538-56. For example, “mental retardation may not be apparent at 
+the time of interrogation,” President's Panel on Mental Retarda- 
+tion, Report of the Task Force on Law 33 (1963), and such a sus- 
+pect may hear the Miranda formula and proceed to make an ap- 
+parently knowing, voluntary “confession,” all the while being in 
+fact so incompetent as to render that confession fundamentally 
+untrustworthy.3 
+
+
+In contrast, section 3501 recognizes that Miranda-like 
+warnings may be helpful in assuring the voluntariness of self- 
+incriminating statements but properly makes that element only one 
+of several considerations that a trial judge must take into account 
+in evaluating the voluntariness of a confession. 18 U.S.C. § 3501 
+(b). As discussed below, the more flexible framework of section 
+3501 responds more effectively to the real-world exigencies of 
+law enforcement. In short, section 3501 in no way diminishes the 
+Fifth Amendment’s guarantee against compelled _ self- 
+
+
+3 See, e.g., Blackburn v. Alabama, 361 U.S. 199 (1960) (excluding as 
+involuntary, under the pre-Miranda totality-of-the-circumstances approach, 
+the confession of a mentally incompetent person who neither remembered the 
+crime nor his confession, but who appeared normal). 
+
+
+12 
+
+
+incrimination, while it avoids the practical hostility of the 
+Miranda formula to the truth. 
+
+
+The Petitioner’s criticism of section 3501 illustrates how far 
+removed the logic of Miranda is from the values of the Fifth 
+Amendment. “If the government is allowed to keep its suspect in 
+a state of ignorance,” which Petitioner claims is the effect of sec- 
+tion 3501, “the Fifth Amendment protections are reduced to a 
+mere ‘ “form of words.” ’” Brief of Petitioner ("Pet. Br.") at 3. 
+But, it is Petitioner’s rigid insistence on the Miranda formula as 
+the essential criterion of voluntariness that reduces Fifth Amend- 
+ment values to a “mere form of words,” irrelevant to whether a 
+self-incriminating statement was given without government coer- 
+cion. 
+
+
+Moreover, the “Fifth Amendment itself does not prohibit all 
+incriminating admissions; ‘[absent] some officially coerced self- 
+accusation, the Fifth Amendment privilege is not violated by even 
+the most damning admissions.’ ” New York v. Quarles, 467 U.S. 
+649, 654 (1984) (quoting United States v. Washington, 431 U.S. 
+181, 187 (1977)). The Self-Incrimination Clause protects a sus- 
+pect from government coercion alone. The Fifth Amendment 
+simply is not “concerned with moral and psychological pressures 
+to confess emanating from sources other than official coercior..” 
+Elstad, 470 U.S. at 304-305. See also Colorado v. Connelly, 479 
+U.S. 157, 164 (1986) (rejecting the proposition thai “a defendant’s 
+mental condition, by itself and apart from its relation to official 
+coercion, should ever dispose of the inquiry into constitutional 
+‘voluntariness’ ”’). 
+
+Thus, the failure to recite the Miranda formula is not 
+equivalent to the government “keeping the suspect in a state of ig- 
+norance.” To be sure, ignorance alone implicates no principle 
+safeguarded by the Fifth Amendment or by any other constitu- 
+tional norm. Beyond the clear teaching of this Court to this effect, 
+no principle of reason or justice supports Petitioner’s claim. What 
+could an innocent suspect be ignorant of? In the absence of police 
+coercion, does Petitioner seriously contend that the innocent sus- 
+pect will be “ignorant” of the notion that he should not confess to 
+
+
+—_ 
+
+
+13 
+
+
+a crime that he did not commit? If he is, we suggest that such a 
+hypothetical suspect would have to be mentally incompetent; as 
+we pointed out above, only the fuller evaluation of section 3501's 
+approach, and not the simple stating of the Miranda formula, is 
+likely to protect such an unusually vulnerable person. 
+
+
+Again, in the absence of police coercion, any “ignorance” 
+which leads the guilty subject to confess does not violate either the 
+letter or the spirit of the Fifth Amendment. To exclude such a 
+confession would not protect the suspect from the consequences of 
+a coerced confession, for there was none, but would deprive the 
+court of highly trustworthy evidence. In short, under Petitioner’s 
+view, we pay the profound cost of depriving the factfinder of the 
+truth, while in no way protecting the Fifth Amendment right 
+against compelled self-incrimination. This is the inevitable and 
+pernicious result of the Miranda formula. 
+
+
+B. Although the core commitment of the Fifth Amendment 
+to true verdicts is fundamental, it is not the exclusive value ani- 
+mating the Constitution’s antagonism to coerced confessions. The 
+Court’s opinions have circled a “transcendent” value underlying 
+the Fifth Amendment,‘ reflecting “our respect for the inviolability 
+of the human personality and of the right of each individual ‘to a 
+private enclave where he may lead a private life.’ ” Withrow, 507 
+U.S. at 692 (quoting Murphy v. Waterfront Comm'n of New York 
+Harbor, 378 U.S. 52, 55 (1964)). 
+
+
+This value of the Fifth Amendment really centers on the 
+
+
+4 In this regard, the Court has pointed to “considerations which tran- 
+scend the question of guilt or innocence.” Blackburn, 361 U.S. at 206. 
+Sometimes the Court refers to “the fundamental principles of liberty and jus- 
+tice which lie at the base of all our civil and political institutions,” Brown v. 
+Mississippi, 297 U.S. 278, 286 (1936), or to “the important human values 
+[that] are sacrificed” when government coerces a confession. Blackburn, 361 
+U.S. at 206. This other core value has been described as hostility to “tyr- 
+anny,” Duckworth, 492 U.S. at 209 (O’Connor, J., concurring), or to the 
+“fundamental unfairness” of coerced confessions, “whether true or false.” 
+Lisenba v. California, 314 U.S. 219, 236 (194i). 
+
+
+14 
+
+
+Framers’ understanding of the dignity of each human person: 
+
+
+{T]he right against self-incrimination did evolve as an 
+essential part of due process and as a fundamental 
+principle of liberty and justice. Thus Ben Franklin in 
+1735 called it a natural right (“the common Right of 
+Mankind”), and Baron Geoffrey Gilbert, the foremost 
+English authority on evidence at the time, called it 
+part of the “Law of Nature.” 
+
+
+LEONARD W. LEvy, The Right Against Self-Incrimination: His- 
+tory and Judicial History, in JUDGMENTS: ESSAYS ON AMERICAN 
+CONSTITUTIONAL HISTORY 268 (1972). - 
+
+
+Not only the right against self-incrimination, but our whole 
+system of laws rests on our unique dignity as human beings, that 
+is, Our nature as moral agents. The moral logic of the law arises 
+from that nature and from the recognition that each competent 
+adult can know what is right and what is wrong, and do what is 
+right and refrain from doing what is wrong. See generally Arkes, 
+supra, at 199 (“The dignity of a moral agent arose from his capac- 
+ity to give reasons over matters of right and wrong .... A moral 
+agent would understand that he was obliged to do what was right 
+and refrain from what was wrong.”). Therefore the law is justified 
+in punishing people who commit wrongs and is not justified in 
+punishing the innocent. 
+
+
+The Fifth Amendment recognizes and preserves our dignity 
+as moral agents by insisting on drawing the moral differences 
+between the innocent and the guilty “in the most solemn and rea- 
+soned manner,” id. at 184, a manner that recoils from the injustice 
+of coerced confessions. Yet, an unavoidable corollary of this re- 
+jection of compelled self-incrimination is that a truly voluntary 
+confession — naming and taking responsibility for a wrong com- 
+mitted — is profoundly consistent with and indeed affirms our dig- 
+nity as moral agents. 
+
+
+With this understanding, a voluntary confession is to be en- 
+couraged, which the criminal law (apart from the Miranda for- 
+mula) does. For example, a “confession is rightly regarded by the 
+
+
+15 
+
+
+Sentencing Guidelines as warranting reduction of sentence, be- 
+cause it ‘demonstrates a recognition and affirmative acceptance of 
+personal responsibility for... criminal conduct.’ ” Minnick v. 
+Mississippi, 498 U.S. 146, 167 (1990) (Scalia, J., dissenting). See 
+also Miranda, 384 U.S. at 538 (White, J., dissenting) (“[T]he pro- 
+cess of confessing . . . may provide psychological relief and en- 
+hance the prospects for rehabilitation.”). 
+
+
+The logic of the Miranda formula, however, inexorably 
+works to corrode ihe moral dignity that is the ground of our Fifth 
+Amendment rights. Witness, for example, the equating of an “ap- 
+peal to a suspect to confess for the sake of others, to ‘display some 
+evidence of decency and honor,’ ” with the application of illicit 
+“pressure” to unconstitutionally manipulate a suspect into a con- 
+fession. Rhode Island v. Innis, 446 U.S. 291, 305-307 (1980) 
+(Marshall, J., dissenting). The logic of Miranda and its progeny 
+thus rests on a premise that “a rational man would never respond 
+rationally to appeals for repentance or contrition.” ARKES, supra, 
+at 202. At best, such a notion is nonsense, essentially claiming 
+that it is not reasonable for a suspect to act according to his nature 
+as a being who can reason, that is, as a moral agent who can un- 
+derstand right and wrong. At worst, this premise is profoundly 
+hostile to any claim that we are by nature moral agents and so en- 
+titled to any rights at all. 
+
+
+To be sure, we agree with the Court’s observation in Min- 
+nick: 
+\ 
+
+
+Both waiver of rights and admission of guilt are con- 
+sistent with the affirmation of individual responsibility 
+that is a principle of the criminal justice system. It 
+does not detract from this principle, however, to insist 
+that neither admissions nor waivers are effective un- 
+less there are both particular and systemic assurances 
+that the coercive pressures of custody were not the in- 
+ducing cause. 
+
+
+498 U.S. at 155. Congress, in the framework of section 3501, es- 
+tablished those assurances. As we will now explain, the rigid re- 
+gime of Miranda does not achieve that end and, in fact, detracts 
+
+
+16 
+
+
+from it. 
+
+
+Il. THE MIRANDA FORMULA DOES NOT PROMOTE 
+THE TRUTHFINDING FUNCTION OF EFFECTIVE 
+LAW ENFORCEMENT. 
+
+
+As organizations with hundreds of thousands of experienced 
+local, state, and federal law enforcement professionals, amici are 
+in a position to offer the Court meaningful practical insights into 
+the deleterious effects of Miranda on the truth-seeking function of 
+law enforcement and on the role of interrogation in that enterprise. 
+Contrary to the suggestions of those in favor of reversing the 
+judgment below, Miranda does not benefit law enforcement, and 
+is not necessary to conduct interrogations within constitutional 
+
+
+bounds. 
+
+
+A. The Miranda Formula Is The Classic “Technicality” 
+- That Undermines Public Confidence In Criminal 
+Justice By Excluding Voluntary, Reliable Confes- 
+
+
+sions. 
+
+
+As the Solicitor General admits, Miranda imposes costs on 
+the truth-seeking function of a trial by excluding relevant, volun- 
+tary and reliable evidence. U.S. Br. at 31-32. Claims that 
+Miranda is “workable in practice,” “not difficult to administer,” 
+and “generally workable,” and that Miranda “generally does not 
+hinder [law enforcement] investigations” are not true, serve only 
+to mask the fact that the Miranda formula is not a benefit to law 
+enforcement, and certainly do not justify the exclusion of volun- 
+tary statements on the basis of technical violations of Miranda. 
+Id. at 32-35. 
+
+
+Law enforcement officers are professionals trained to obtain 
+truthful information and sworn to abide by the Constitution. Offi- 
+cers investigate crimes and seek to find the perpetrator; no one se- 
+riously disputes that interrogations are an invaluable component in 
+the law enforcement arsenal precisely because they are inherently 
+reliable and often necessary to arrive at the truth. Even when in- 
+vestigated by the most qualified police investigators, it takes an 
+admission or confession from the guilty individual, or information 
+
+
+17 
+
+
+obtained from other suspects, to solve many cases.) Thus, even if 
+one rejects the premise that voluntary admissions of guilt yield 
+moral benefits to the defendant, it is beyond question that the 
+“ready ability to obtain uncoerced confessions is not an evil but an 
+unmitigated good.” McNeil v. Wisconsin, 501 U.S. 171, 181 
+(1991) (internal citation omitted). 
+
+
+The Miranda formula is the archetypal “technicality” which 
+undermines confidence in the criminal justice system and brings it 
+into disrepute. Voluntary, reliable confessions are excluded from 
+evidence and withheld from the trier of fact for technical viola- 
+tions of Miranda, even when there is no suggestion of police over- 
+reaching, wrongdoing, or external coercion of any kind. A 
+Miranda violation requires neither police overreaching nor any- 
+thing beyond a technical error: “Even the forgetful failure to is- 
+sue warnings to the most wary, knowledgeable, and seasoned of 
+criminals will do.” Withrow, 507 U.S. at 708-09 (O’Connor, J., 
+dissenting). The law enforcement professional, whose sole pur- 
+pose is apprehension of the true perpetrator of a crime and who is 
+schooled in the requirements of the Constitution, can nonetheless 
+be hoisted on the petard of mistake or inexactitude (such as the is- 
+sue of “custody”) even when no constitutional violation occurs. 
+
+
+5 The contention of Amici Griffin B. Bell, et al., that “[mJany defen- 
+dants can be convicted without confession evidence,” Bell Amici Br. at 7 n.3, 
+overlooks, or side-steps, cases where the perpetrator may be the only witness 
+capable of testifying (e.g., murder, child molestation), as well as cases which 
+never go to trial because the prosecutor deems the case “too weak” or “lack- 
+ing in prosecutorial merit” without a confession. It further ignores the real 
+social costs imposed as a consequence of “lost” confessions, gifts of leniency 
+granted to culpable co-conspirators and cooperating witnesses, and cases 
+where a confession would have significantly lessened the time and expense 
+of the investigation. See Paul G. Cassell & Bret S. Hayman, Dialogue on 
+Miranda: Police Interrogation in the 1990s: An Empirical Study of the Ef- 
+Sects of Miranda, 43 UCLA L. REV. 839, 906 (1996) (prosecutors report that 
+61 % of confessions are “essential” or “important” to the prosecution), id. at 
+911-15 (collecting data and finding statistically significant difference in out- 
+come of cases depending on whether the suspect was successfully ques- 
+tioned). 
+
+
+18 
+
+
+Consequently, the substantial costs of excluding reliable evidence 
+are incurred, with no corresponding benefit to an individual’s con- 
+stitutional rights. 
+
+
+As a result of Miranda, the law enforcement professional, 
+no matter how careful, is faced with a phalanx of defense attor- 
+neys seeking to exclude voluntary, reliable confessions on the ba- 
+sis of a technicality. Neither the constitutional rights of a suspect 
+nor the truth-seeking function of a trial are advanced thereby. 
+Rather, this process, which may return dangerous criminals to the 
+street, takes on the appearance of a game. Amici adamantly be- 
+lieve that society’s knowledge that a confessed guilty person is set 
+free because of inadvertent technical errors related to the Miranda 
+warnings does not increase public confidence in the criminal jus- 
+tice system. Rather, the Miranda formula has been the cradle of 
+the popular expression that someone “got off on a technicality,” 
+which reflects a well founded unease with the focus of the 
+Miranda formula on a right to exclude voluntary confessions and 
+
+
+its practical results in many cases.© Section 3501’s focus on the 
+
+
+© How Petitioner and the Solicitor General can claim that jettisoning 
+the ngid Miranda formula will erode “public confidence” in the criminal jus- 
+tice system we do not know, since neither cites any supporting authority for 
+such claims. See Pet. Br. at 44, U.S. Br. at 10, 49. The experience of amicis’ 
+members and common sense suggest that the exact opposite is true. For ex- 
+amples of negative public perceptions regarding the societal impact of 
+Miranda, see, e.g., Linda Chavez, Hesitation Waltz at Justice, WASH. TIMES, 
+Oct. 7, 1999, at Al8 (“The Justice Department can’t make up its mind 
+whether its job is to put dangerous criminals behind bars or to set them free 
+on a technicality.”); Ann Coulter, Challenging Miranda, CHATTANOOGA 
+TIMES, Oct. 8, 1999, at B7 (“Though not admissible in state court, Roger’s 
+confession is admissible in federal court — if only Janet Reno would enforce 
+the law. . . . Enacted in 1968 in response to Miranda . . . Section 3501 reiter- 
+ates the constitutional standard.”); Morgan Reynolds, /t’s Time to Overturn 
+Miranda, CHICAGO TRIB., Dec. 5, 1999, at 23 (“The U.S. Supreme Court has 
+a magnificent opportunity to overturn its worst criminal ruling ever — the so- 
+called Miranda warning. During the 1960's, the . . . majority on Earl War- 
+ren’s court legislated new rights — privileges really — to help criminal sus- 
+pects. Chief among them, as most viewers of TV cop shows know, was the 
+Miranda ruling.”); Opinion, Miranda Wrongs; Supreme Court to Revisit 
+
+
+19 
+
+
+exclusion of only involuntary statements properly returns the fo- 
+cus of criminal proceedings to the important guarantees of the 
+Fifth Amendment and so restores public confidence in the law. 
+
+
+In fact, perversions of justice based on technical Miranda 
+violations, detailed at the OLP Report at 122, and remands and re- 
+versals for the same technical violations, reported in Cassell, The 
+Statute That Time Forgot, at 253-254, bring to mind Justice 
+White’s prophetic dissent in Miranda: 
+
+
+“In some unknown number of cases the Court’s rule 
+will return a killer, a rapist or other criminal to the 
+streets . . . to repeat his crime when ever it pleases 
+him .... There is, of course, a saving factor: the 
+next victims are uncertain, unnamed and unrepre- 
+sented in this case.” 
+
+
+384 U.S. at 542-543 (White, J., dissenting). Allowing Congress to 
+adjust this dynamic within constitutionally permissible limits is 
+hardly an affront to people’s sensibilities. 
+B. The Supposed “Bright Line” Of The Miranda For- 
+mula Is Illusory, Creating Only A Chimera That 
+Masks The Broad Range Of Issues That Still Remain 
+In Any Application Of Miranda. 
+
+
+The Miranda formula is a one-way ratchet: failure to give 
+
+
+Landmark 1966 Ruling, SAN DIEGO TRIB., Dec. 8, 1999 (“[A] federal district 
+court in Alexandria threw out [Dickerson’s] voluntary confession. The FBI 
+had obtained his admission of guilt before agents read him his Miranda 
+rights. It appeared that Dickerson had beaten the rap on this technicality.”); 
+Ann Coulter, We Can Do Nicely Without Miranda, CHATANOOGA TIMES, Jan. 
+7, 2000, at B7 (“The Miranda warnings do not make things simpler, as is of- 
+ten claimed. They just give the guilty two bases on which to challenge a con- 
+fession in the courts rather than one. With Miranda, confessed criminals can 
+challenge not only whether they were given Miranda warnings at just the 
+right time and under the proper circumstances, but also — even if they were — 
+whether their confessions were voluntary. This is not a big time-saver. In- 
+stead of being on the street fighting crime, cops spend hours in court for sup- 
+pression hearings.”). 
+
+
+20 
+
+
+the warning results in exclusion of the statement, while recitation 
+of the warnings does not guarantee the voluntariness or admissi- 
+bility of the statement. (“Miranda can fail to exclude some truly 
+involuntary statements: It is entirely possible to extract a com- 
+pelled statement despite the most precise and accurate of warn- 
+ings.” Withrow, 507 U.S. at 712 (O’Connor, J. dissenting).) 
+
+
+The cost of the Miranda formula does not buy law enforce- 
+ment professionals greater precision in complying with the Fifth 
+Amendment than the “totality of the circumstances” test it sup- 
+planted. The Miranda formula is a bright line only in the sense 
+that its requirements are facially straightforward and the warnings 
+are either given or not given. However, a number of threshold is- 
+sues must be addressed and decided on the spot by law enforce- 
+ment officers. A misstep in regard to Miranda will be fatal to a 
+prosecution, as the evidence will be excluded if a court deter- 
+mines, after the fact, that the officer’s judgment was wrong. For 
+example, issues that a court will decide include whether the sus- 
+
+
+pect was in custody (so as to trigger Miranda requirements), ’ 
+whether the warnings were given, and whether the waiver was 
+knowing and voluntary. These issues are susceptible to more than 
+one judgment: 
+
+
+Miranda creates as many close questions as it re- 
+solves. The task of determining whether a defendant 
+is in “custody” has proved to be “a slippery one.” 
+And the supposedly “bright” lines that separate inter- 
+rogation from spontaneous declaration, the exercise of 
+a right from a waiver and the adequate warning from 
+the inadequate, likewise have turned out to be rather 
+dim and ill defined. 
+
+
+7 See, e.g., J.F. Ghent, What Constitutes “Custodial Interrogation” 
+Within Rule of Miranda v. Arizona Requiring that Suspect be Informed of His 
+Federal Constitutional Rights Before Custodial Interrogation, 31 A.L.R.3d 
+565 (2000). This article traverses, in the course of over 500 pages, many 
+hundreds of decisions from state and federal courts on a single question: 
+whether an individual was in custody. 
+
+
+21 
+
+
+Id. at 711 (internal citations omitted). As an essential part of the 
+Miranda inquiry, these questions are fact specific and often based 
+on the “totality of the circumstances.”8 Thus, a “multiplicity of 
+factors” that “might bear on the voluntariness inquiry,” Bell Amici 
+Br. at 14 & n.14, remain. Miranda's “bright” line requires as 
+many “tests” and inquiries as any totality-of-the-circumstances 
+examination of voluntariness, and certainly poses no less a drain 
+on judicial time, as Justices White, Harlan, and Stewart correctly 
+foresaw in their dissent in Miranda. Miranda, 384 U.S. at 544-45 
+
+
+(White, J., dissenting).9 
+
+
+The failure of Miranda's one-size-fits-all template to really 
+serve as the claimed “bright line” reflects the fact that both the 
+human beings who commit crimes and the circumstances in which 
+they commit them are extraordinarily diverse. Fairly evaluating a 
+suspect’s incriminating statement by the standards of the Fifth 
+Amendment can be complex, and irreducibly so. Law enforce- 
+ment will always demand sound judgment, exercised quickly un- 
+der highly stressful and rapidly changing circumstances. The 
+Miranda formula has been shown not to be up to this task. 
+
+
+8 See, e.g., United States v. Salvo, 133 F.3d 943, 950 (6th Cir.) cert. 
+denied, 523 U.S. 122 (1998) (weighing question of “custody” under the to- 
+tality of the circumstances, citing factors); Thasaphone v. Weber, 137 F.3d 
+1041, 1043 (8th Cir.), cert. denied, 523 U.S. 1130 (1998) (same); United 
+States v. Garibay, 143 F.3d 534, 537 (9th Cir. 1998) (determining validity of 
+Miranda waiver under the totality of the circumstances); United States v. 
+Erving L., 147 F.3d 1240,1248 (10th Cir. 1998) (weighing question of “cus- 
+tody” under the totality of the circumstances, citing factors). 
+
+
+9 Cf. Duckworth, 492 U.S. 195 at 207 (O'Connor, J. concurring) 
+(“Eighteen state and federal judges have now given plenary consideration to 
+respondent’s Miranda claims. None of these judges has intimated any doubt 
+as to respondent’s guilt or the voluntariness and probative value of his con- 
+fession.”). Contrary to the Solicitor General's suggestion, U.S. Br. at 36, the 
+totality-of-the-circumstances test would be hard-pressed to be /ess workable 
+than Miranda proves in practice. 
+
+
+22 
+
+
+In contrast, section 3501 applies the Self-Incrimination 
+Clause’s voluntariness standard far more faithfully, effectively 
+taking into account the real-world exigencies that can shape inter- 
+rogation. The criticism that section 3501 is somehow more oner- 
+ous or difficult for law enforcement to follow lacks support and 
+credibility. See, e.g. U.S. Br. 36-38. Just as Miranda’s “bright” 
+line is a chimera, fallacious and illusory, the “onerous difficulty” 
+of a true voluntariness inquiry evaporates upon reflection. The fo- 
+cus, after all, is solely on government coercion. Law enforcement 
+professionals are well trained in the constitutional rights of sus- 
+pects, and already deal with “totality-of-the-circumstances” analy- 
+ses in many facets of their work. They seek only to obtain accu- 
+rate, reliable, and voluntary statements. In doing so, they are well 
+able to avoid overreaching and coercive police tactics. Section 
+3501 certainly opens those tactics to careful examination in court. 
+As Justice Clark pointed out in dissent in Miranda: 
+
+
+Rather than employing the arbitrary Fifth Amendment 
+rule which the Court lays down I would follow the 
+more pliable dictates of the Due Process Clauses . . . 
+which we are accustomed to administering and which 
+we know from our cases are effective instruments in 
+protecting persons in police custody. 
+
+384 U.S. at 503 (Clark, J., dissenting). 
+
+
+C. Modern Interrogation Techniques Further The In- 
+terest Of Society, While Protecting The Constitu- 
+tional Rights Of Suspects. 
+
+Police officers are trained to exercise independent judgment 
+in the fluid circumstances in which interrogation may occur and to 
+avoid practices and situations that yield coerced or involuntary 
+statements. Law enforcement officers are taught that coerced or 
+involuntary statements are unreliable and that such statements 
+violate the Constitution. As we have already pointed out, impos- 
+ing per se prophylactic rules like the Miranda formula does not 
+aid in the practical application of these principles. 
+
+Section 3501 properly focuses attention on the constitutional 
+
+
+23 
+
+
+requirements for criminal interrogations and on the interplay be- 
+tween law enforcement officers, suspects, and the truth. The Con- 
+stitution does not require that a criminal suspect know and under- 
+stand every possible consequence of waiving the Fifth Amend- 
+ment privilege outside of a courtroom. Colorado v. Spring, 479 
+U.S. 564, 574 (1987). Further, the “relevant constitutional princi- 
+ples are aimed not at protecting people from themselves but at 
+curbing abusive practices by public officers.” Rice v. Cooper, 148 
+F.3d 747, 750 (7th Cir. 1998), cert. denied, 119 S. Ct. 2052 
+(1999). Interviews and interrogations, when properly conducted, 
+seek the truth and do not constitute an abusive practice: “Ploys to 
+mislead a suspect or lull him into a false sense of security that do 
+not rise to the level of compulsion or coercion to speak are not 
+
+
+within Miranda’s concerns.”!9 Law enforcement officers are not 
+required to inform an individual of all information relevant or use- 
+ful in making a decision whether to confess, ! ! and “voluntary dis- 
+closure of a guilty secret” does not qualify as state compulsion. !2 
+The focus of law enforcement is to elicit truthful, reliable infor- 
+mation within the constraints of the Constitution, in furtherance of 
+investigating crimes, clearing innocent suspects, and convicting 
+the guilty. 
+
+Interview and interrogation techniques that obtain voluntary, 
+probative statements from suspects in accordance with constitu- 
+
+
+10 iilinois v. Perkins, 496 U.S. 292, 297 (1990). While the “inherent 
+compulsion” of interrogation by “law enforcement” was absent in Perkins, 
+
+
+absent some actual showing of psychological or physical compulsion, prom- 
+ises, threats, or inducements, being interviewed by a law enforcement profes- 
+sional to ast oxflicionty coercive” to result in a constitutional violation. 
+
+
+. ll See, e.g., Spring, 479 U.S. at $76; Moran v. Burbine, 475 US. 
+412, 422 (1986). 
+
+
+12 Elstad, 470 U.S. at 312. 
+
+
+24 
+
+
+tional requirements are stressed and utilized by law enforcement 
+professionals throughout the country. Fred E. Inbau and John E. 
+Reid pioneered the study of this field, developing the contempo- 
+rary techniques of persuasion used in the interrogation of suspects. 
+We recognize that the five justice majority in Miranda extensively 
+criticized the techniques described in FRED E. INBAU & JOHN E. 
+REID, CRIMINAL INTERROGATION AND CONFESSIONS (1962) as rep- 
+resentative of “inherently coercive“ police procedures which 
+“trade[ ] on the weakness of individuals.” 384 U.S. at 455. Law 
+enforcement’s search for truth and inherent skepticism towards 
+uncorroborated confessions were conveniently glossed over by the 
+Miranda Court and are still ignored by other wholesale critics of 
+police interrogation. Further, a fair reading of the procedures sug- 
+gested by Inbau and Reid — reviewed free of “a deep-seated dis- 
+trust of all confessions,” 384 U.S. at 537 (White, J., dissenting) — 
+yields the conciusion that there is nothing in these techniques that 
+
+
+is inherently offensive to the guarantees of the Fifth Amendment. . 
+
+
+Most importantly, none of the techniques would induce a 
+balanced, innocent person to confess to a crime. As stated in the 
+acknowledged “handbook,” FRED E. INBAU, JOHN E. REID & 
+JOSEPH P. BUCKLEY, CRIMINAL INTERROGATION AND CON- 
+FESSIONS (3rd ed. 1986) (“INBAU”): 
+
+
+[W]e are unalterably opposed to the so-called “third 
+degree,” even on suspects whose guilt seems abso- 
+lutely certain and who remain steadfast in their deni- 
+als. Moreover, we are opposed to the use of any inter- 
+rogation tactic or technique that is apt to make an in- 
+nocent person confess. We are opposed, therefore, to 
+the use of force, threats of force, or promises of leni- 
+ency — any of which might well induce an innocent 
+person to confess. 
+
+
+INBAU at xiv. The objective of an interrogation, simply speaking, 
+
+
+25 
+
+
+is to learn the truth. !3 
+
+
+Inbau stresses the primacy of voluntary confessions to the 
+truth-seeking process. The practitioner is warned even against in- 
+direct physical harms such as “unduly prolonged, continuous in- 
+terrogation, especially by two or more interrogators working in 
+relays, or the deprivation of food, water, or access to toilet facili- 
+ties.” INBAU at 214. The “trickery” within an interrogation is 
+within societally accepted norms, is not an issue of constitutional 
+import, and does not affect the voluntariness of a confession. 
+Given the wide acceptance of the Inbau and Reid techniques, In- 
+bau’s emphasis upon learning the truth through constitutionally 
+permissible means should obviate any concerns about systemic 
+law enforcement overreaching. 
+
+
+13 Amicus American Civil Liberties Union (“ACLU”) suggests that 
+there is something untoward about not conducting an interrogation in a pub- 
+lic place, and cites several “psychological studies” in support of its allegation 
+that “tactics still endorsed in the interrogation manuals tend to promote false 
+or untrustworthy confessions by implanting notions of guilt or implying leni- 
+ency.” Brief of Amicus Curiae the American Civil Liberties Union in Sup- 
+port of Petitioner at 15-16. Unexplained is how the studies prove anything 
+about the actual interrogation of individuals suspected of often heinous 
+crimes. See, e.g., Saul M. Kassin & Katherine L. Kiechel, Police Interroga- 
+tions and Confessions: Communicating Promises by Pragmatic Implication, 
+15 PSYCHOL. SCI. 233 (1991) (study concludes that an interrogation theme 
+has the same psychological effect as a direct promise of leniency based on 
+student's estimate of how long fictitious suspects would be sentenced for 
+based on a reading of fictitious trial transcripts); Saul M. Kassin & Kather- 
+ine L. Kieche, The Social Psychology of False Confessions: Compliance, 
+Internalization, and Confabulation, 7 PSYCHOL SCI. 125, (study concludes 
+that accusations of guilt will cause innocent indiv‘dual to believe they are 
+guilty based on students being told that if they pressed an ALT keyboard on a 
+computer keyboard the computer would shut down; students continued to 
+type and the computer did shut down and 69% of the students subsequently 
+signed a false confession where they admitted they pressed the ALT key) 
+(One’s lack of certainty regarding striking the ALT key would presumably be 
+greater than whether one committed an affirmative, criminal offense.). See 
+BRIAN C. JAYNE & JOSEPH P. BUCKLEY, THE INVESTIGATOR ANTHOLOGY 
+459-469 (1999) (rejecting the theories and conclusions espoused by the 
+studies cited by the ACLU). 
+
+
+26 
+
+
+Ill. UNLIKE OTHER “PROPHYLACTIC” HOLDINGS OF 
+
+THE COURT, THE MIRANDA FORMULA HAS 
+NEVER BEEN HELD TO BE REQUIRED BY THE 
+CONSTITUTION. 
+
+
+We agree with the Fourth Circuit that Miranda does not im- 
+pose a constitutional requirement, but rather an extraconstitutional 
+prophylactic rule that sweeps more broadly than the Fifth 
+Amendment's right against compelled self-incrimination. The So- 
+- licitor General claims that “prophylactic” rules in many different 
+contexts are not at all unusual, as if that fact somehow supports an 
+argument that Miranda itself has a constitutional weight which 
+precludes admission of non-Mirandized statements — even where 
+there is no violation of the defendant’s Fifth Amendment rights. 
+Yet, careful reading of these other “prophylactic” cases reveals 
+that the rule articulated in each instance is actually an expression 
+of a constitutional requirement — not a “framework” fashioned by 
+the Court to “sweep more broadly" than the underlying constitu- 
+tional right. Arguments to the contrary fail to distinguish between 
+rights established by pertinent provisions of the Constitution as 
+interpreted by this Court, and the extraconstitutional exclusionary 
+rule imposed by Miranda. 
+
+
+The fact that certain procedures determined to be one means 
+of satisfying constitutional requirements are sometimes described 
+as “prophylactic” does not change the fact that Miranda’s pro- 
+phylactic rule is not a constitutional requirement. For example, 
+the Solicitor General’s reliance on a number of this Court's cases 
+involving effective appellate representation for indigents to sup- 
+port its argument is unavailing. The Court's decisions regarding 
+the right to such representation involve the straightforward review 
+of whether particular procedures satisfy constitutional require- 
+ments. Thus, in Anders v. California, 386 U.S. 738 (1967), the 
+Court found that a state procedure for withdrawal of appointed ap- 
+pellate counsel was unconstitutional and suggested a procedure 
+that would satisfy such requirements. In Smith v. Robbins, 120 S. 
+Ct. 746 (2000), the Court recognized that a later California proce- 
+dure, which differed in material respects from the Anders proce- 
+dure, also satisfied constitutional requirements. Although Robbins 
+
+
+27 
+
+
+referred to Anders procedures as “prophylactic,” id. at 13, 28, it 
+made clear that adequate safeguards to assure that an appeal is 
+adequate and effective are constitutionally required: 
+
+
+[T]he Anders procedure is merely one method of satis- 
+fying the requirements of the Constitution for indigent 
+criminal appeals ... . We think it clear that Califor- 
+nia’s system does not violate the Fourteenth Amend- 
+ment... . we cannot say that it fails to afford to indi- 
+gents the adequate and effective appellate review that 
+the Fourteenth Amendment requires. 
+
+
+Id. at 759-60. 
+
+
+The question in Anders and Robbins was not whether proce- 
+dural protections for the defendant were constitutionally required, 
+but rather, whether specific procedures were constitutionaily ade- 
+quate. In contrast, the Miranda procedures are not constitutionally 
+required to comply with the Fifth Amendment. In determining the 
+propriety of changing procedures through legislation, the question 
+is whether a constitutional provision requires some procedures. If 
+not, passing references to the phrase “prophylactic rule” cannot 
+preclude a legislative response which replaces judicially-crafted 
+procedures. 
+
+
+Similarly, because Miranda’s per se rule does not protect an 
+underlying constitutional right, this Court’s holding that due proc- 
+ess may require a per se rule in other contexts does not elevate 
+Miranda to constitutional dimensions. Petitioner and the Solicitor 
+General attempt to disregard the clear holdings of these decisions 
+on the ground that the evils these rules aim to prevent do not in- 
+variably occur if the rules are not observed. In their view, it then 
+follows that these are not constitutional due process rules — not- 
+withstanding the Court’s explicit holdings that they are. Thus, 
+Petitioner’s and the Solicitor General’s references to the per se 
+rule in North Carolina v. Pearce, 395 U.S. 711 (1969), described 
+in later cases as “prophylactic,” does not detract from the fact that 
+ihe rule in Pearce (holding that an articulated non-vindictive rea- 
+son must be provided for an increased sentence following a suc- 
+cessful appeal) is required as a matter of constitutional due proc- 
+
+
+28 
+
+
+ess: 
+
+
+We... consider . . . what constitutional limitations 
+there may be upon the imposition of a more severe 
+sentence after reconviction. ... Due process of law . . 
+. requires that vindictiveness against a defendant for 
+having successfully attacked his first conviction must 
+play no part in the sentence he receives after a new 
+trial. And since the fear of such vindictiveness may 
+unconstitutionally deter a defendant’s exercise of the 
+right to appeal or collaterally attack his first convic- 
+tion, due process also requires that a defendant be 
+freed of apprehension of such a retaliatory motivation 
+on the part of the sentencing judge. ... In order to as- 
+sure the absence of such a motivation, we have con- 
+cluded that whenever a judge imposes a more severe 
+sentence upon a defendant after a new trial, the rea- 
+sons for his doing so must affirmatively appear. 
+
+
+Id. at 717, 725-26 (emphasis added). 
+
+
+The logical extension of this rule in Blackledge v. Perry, 
+417 U.S. 21 (1974), which held that a state may not respond to a 
+defendant’s seeking a trial de novo in a two-tier system by charg- 
+ing a more serious offense, both affirmed the constitutional under- 
+pinning of Pearce and further emphasized: 
+
+
+Due process of law requires that such a potential for 
+vindictiveness must not enter into North Carolina’s 
+two-tiered appellate process. We hold, therefore, that 
+
+it was not constitutionally permissible for the State to 
+
+respond to Perry’s invocation of his statutory right to 
+
+appeal by bringing a more serious charge against him 
+
+prior to the trial de novo. 
+
+417 U.S. at 28-29 (emphasis added). 
+
+In sum, the cases cited by Petitioner, the Solicitor General 
+and various amici are inapposite to the issues raised by the extra- 
+constitutional prophylactic rule of Miranda. In each such case, 
+this Court determined that the Constitution required the proce- 
+
+
+29 
+
+
+dures or per se rules mandated therein.!4 For instance, it is this 
+Court’s determination that the rules in Pearce and Blackledge are 
+required by due process which give them constitutional weight; 
+the fact they exist as per se rules does not negate the fact that 
+those decisions implement constitutional requirements, as inter- 
+preted by this Court, rather than impose judicially-crafted pro- 
+phylactic rules which are not required by the Constitution. 
+
+
+In contrast, the Miranda warnings have never been under- 
+
+
+stood to be themselves required by the Fifth Amendment.!5 Thus, 
+the Miranda rules cannot be understood as due process require- 
+ments on the model of Pearce and Blackledge, or as constitution- 
+ally required procedures on the model of Anders or Robbins. 
+Neither are those cases demoted to extraconstitutional status, like 
+Miranda, because they are sometimes described as prophylactic. 
+While procedures or rules may be prophylactic in the sense that 
+they protect against certain violations of defendants’ rights or 
+other evils, the determination of constitutional status is made by 
+reference to what the Constitution requires. In the absence of this 
+Court holding that a procedure or rule is constitutionally required, 
+the legislative branch retains its primacy over policy matters. 
+
+
+14 See also Bruton v. United States, 391 U.S. 123, 137 (1968) (non- 
+hearsay admission of nontestifying co-defendant’s confession violates Sixth 
+Amendment as a limiting instruction and inadequate “substitute for peti- 
+tioner's constitutional right of cross-examination.”) (emphasis added); New 
+York Times Co. v. Sullivan, 376 U.S. 254, 283 (1964) ( privilege immunizing 
+honest misstatements of fact “is required by the First and Fourteenth 
+Amendments.”) (emphasis added); Gertz v. Welch, 418 U.S. 323, 341 (1974) 
+(“The First Amendment requires that we protect some falsehood in order to 
+protect speech that matters.”) (emphasis added). Other cases cited are simi- 
+larly distinguishable from Miranda by this Court’s determination that the de- 
+cisions were required by specific constitutional provisions. 
+
+
+13 See United States v. Dickerson, 166 F.3d 667, 688 (4th Cir. 1999) 
+(citing cases). 
+
+
+30 
+
+
+CONCLUSION 
+For the foregoing reasons, the decision of the court of ap- 
+
+
+peals should be affirmed. 
+
+
+Date: March 9, 2000 
+
+
+Respectfully submitted, 
+
+
+Robert J. Cynkar* 
+
+Margaret A. Ryan 
+
+Cooper, Carvin & Rosenthal, 
+PLLC 
+
+1500 K Street, N.W., Suite 200 
+Washington, DC 20005 
+202-220-9655, 220-9601 (fax) 
+
+
+*Counsel of Record for Amici 
+Curiae 
+
+
+Stephen R. McSpadden 
+
+General Counsel 
+
+National Association of Police 
+Organizations 
+
+750 First Street, N.E., Suite 920 
+
+Washington, D.C. 20002 
+
+
+Edward J. Smith 
+
+General Counsel 
+
+International Brotherhood 
+of Police Officers 
+
+317 South Patrick Street 
+
+Alexandria, VA 22305 
+
+
+Lawrence Berger 
+
+Mahon & Berger 
+
+350 Old Country Rd., Suite 101 
+
+Garden City, NY 11530 
+
+(General Counsel, for the 
+Federal Law Enforcement 
+Officers Association) 
+
+

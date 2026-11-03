@@ -1,0 +1,161 @@
+Source file: dickerson_20._Amicus_Curiae_Brief.txt
+Character interval: [10880, 18500)
+Verbatim downloaded OCR; no transcription correction.
+
+ 34 | INTRODUCTION AND SUMMARY OF ARGUMENT 
+Larry W. Yackle, Post Conviction Remedies 
+eee GE GEE 6 SM cceettetancdceas 21 The ultimate question in this case is whether the federal 
+
+
+criminal justice system must exclude from evidence a criminal 
+suspect’s voluntary statement, despite an Act of Congress to the 
+contrary. Miranda v. Arizona, 384 U.S. 436 (1966), automatically 
+excludes such a statement if it was given in response to custodial 
+questioning without the required warnings. It enforces that 
+exclusion on the basis of an irrebuttable presumption that such 
+questioning by police must in every case have coerced the 
+confession. This presumption controls regardless of how frequently 
+it is false; regardless of how much it costs the integrity and 
+truthfulness of the trial, if a trial is still possible; and regardless 
+of how abundant the evidence may be in a particular case that 
+the suspect understood his situation and made his own decision 
+to speak. Nothing in the Constitution requires this uncompromising 
+rule or strips the elected branches of their authority to modify 
+it. 
+
+
+Congress’ decision to enact Section 3501 was consistent 
+with the Constitution. Miranda did not, and of course could not, 
+
+
+' The case at this stage presents no challenge to the way in which 18 
+U.S.C. 3501 was raised below. In the district court, career prosecutors 
+argued that Section 3501 required reconsideration of the court’s decision 
+suppressing Dickerson’s confession. J.A. 94-6. On appeal to the Fourth 
+Circuit, the prosecutors’ superiors in the Department of Justice did not 
+permit them to continue pressing that position. This led the Washington 
+Legal Foundation to seek and obtain leave of the court to brief and argue 
+as amicus curiae in defense of the statute, a defense which was successful. 
+J.A. 184-85. Dickerson’s petition for certiorari also sought review of the 
+question whether Section 3501 was “properly raised” below, but the Court 
+declined to consider the issue. 
+
+
+2 
+
+
+simply redraft the Fifth Amendment to include a new constitutional 
+right (or, as the Miranda Court put it, create a “constitutional 
+straitjacket,” 384 U.S. at 467) prohibiting the use of unwarned, 
+though voluntary, statements. Later pronouncements by the Court 
+have confirmed that Miranda’s exclusionary rule was instead a 
+preventive measure — part of a “series of recommended procedural 
+safeguards,” Davis v. United States, 512 U.S. 452, 457-458 (1994), 
+that “sweep[] more broadly than the Fifth Amendment itself,” 
+Oregon v. Elstad, 470 U.S. 298, 306 (1985). Because Miranda’s 
+exclusionary rule was in this sense judicially improvised, rather 
+than constitutionally required, Miranda necessarily accommodates 
+legislative modification. Accordingly, there is neither need nor 
+reason to overrule Miranda in order to uphold Section 3501. 
+
+The benefits of Miranda are preserved virtually intact 
+‘yy Section 3501. There is ample reason to conclude that Miranda 
+warnings will remain a standard law enforcement practice, because 
+the statute, as well as numerous other legal rules, makes it very 
+much in every officer’s interest to continue to give them. What 
+Section 3501 changes is not so much the officer’s incentive to 
+give warnings, but rather Miranda’s draconian remedy for any 
+defect in giving them (or, as here, just in proving they were given). 
+As Congress understood, the automatic character of Miranda’s 
+exclusionary rule is excessive because, heedless of the costs, it 
+excludes confessions that manifestiy were not produced by the 
+police coercion that was Miranda’s principal target. 
+
+So long as involuntary confessions remain banned, as they 
+are under Section 3501, and so long as trial courts are empowered 
+without limitation to examine and thwart any police behavior that 
+produces involuntary confessions — again as they are under the 
+statute — Miranda’s automatic exclusionary rule is unnecessary 
+to preserve the full breadth of a suspect’s Fifth Amendment right 
+not to be compelled to be a witness against himself. Because 
+Miranda's automatic rule excluding unwarned statements extends 
+beyond the Fifth Amendment’s bar on actually compelled 
+statements, Congress was free to balance for itself the costs and 
+benefits of that automatic rule, and to supersede it with a rule 
+
+
+0 PRE 
+
+
+3 
+
+
+more in keeping with the facts of each case and more faithful 
+to the text of the Fifth Amendment. 
+
+In Section I below, we show that Congress had the authority 
+to modify Miranda’s exclusionary rule as it did in Section 3501. 
+The rule was an exercise by the Court of its power to devise, 
+in the absence of legislation, prophylactic measures that may extend 
+beyond constitutional requirements in order to protect the 
+underlying constitutional right. In cases such as New York v. 
+Quarles, 467 U.S. 649 (1984), Harris v. New York, 401 U.S. 
+222, 224 (1971), and Oregon v. Hass, 420 U.S. 714, 722 (1975), 
+the Court has made clear that there is “no constitutional 
+imperative,” 467 U.S. at 658 n.7, requiring the exclusion of an 
+unwarned yet voluntary statement. Section 3501 is built on this 
+understanding, while fully honoring the requirements of the Fifth 
+Amendment by continuing a blanket ban on involuntary confessions. 
+Nothing in the Constitution provides grounds for the Court to 
+invalidate the decision of Congress to modify the overprotective 
+and extraconstitutional features of the court-devised rule. 
+
+In Section II, we show that even if the judicial branch 
+properly may require some measure of prophylaxis beyond what 
+the Constitution requires, Section 3501, taken together with the 
+considerable development over the last 34 years of other statutes, 
+rules and remedies regulating police behavior, amply provides 
+the needed measure of protection. By listing the rendition of 
+warnings as a factor a court must consider in making voluntariness 
+determinations, Section 3501 itself provides strong incentives 
+for federal officers to continue delivering warnings. Moreover, 
+Section 3501 should not be examined in a vacuum. Congress 
+has bolstered the protections the statute provides with other rules 
+such as a 1974 provision allowing suits against federal agencies 
+that produce coerced confessions. These measures, along with 
+post-Miranda judicial doctrines like Bivens v. Six Unknown Named 
+Agents, 403 U.S. 388 (1971), and improved training of federal 
+law enforcement officers, adequately protect Fifth Amendment 
+values. : 
+In Section III, we show that, whether or not Section 3501 
+supersedes Miranda of its own force, the Court itself should modify 
+
+
+4 
+
+
+Miranda’s irrebuttable, but certainly factually incorrect, 
+presumption that every unwarned confession is ipso facto 
+involuntary and hence must be excluded. In City of Boerne v. 
+Flores, 521 U.S. 507 (1997), the Court held that when Congress 
+legislates to protect constitutional rights, its remedy should be 
+both congruent and proportional to the evil it aims to address. 
+Applying the proportionality standard to the Court’s prophylactic 
+rules, it follows that the now-automatic exclusionary rule of 
+Miranda should be changed to allow the government to prove, 
+if it can, that in a given case an unwarned or imperfectly warned 
+statement was nonetheless a product of free will. 
+
+
+ARGUMENT 
+
+
+I. SECTION 3501 IS A PERMISSIBLE RESTRUCTUR- 
+ING BY CONGRESS OF A PROPHYLACTIC RULE 
+THAT SWEEPS MORE BROADLY THAN THE 
+CONSTITUTION. 
+
+
+The question whether Miravda’s automatic exclusionary 
+rule or Section 3501 governs the admissibility of confessions turns 
+on whether Miranda’s rule 

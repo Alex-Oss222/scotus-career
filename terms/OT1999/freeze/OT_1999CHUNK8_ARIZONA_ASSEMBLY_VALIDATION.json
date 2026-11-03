@@ -1,0 +1,26 @@
+{
+  "record": "arizona-v-california_original-merits_2000-06-19.md",
+  "opening_labels": "pass",
+  "public_blocks": 11,
+  "holdings_identity": "pass",
+  "explanation_word_counts": [
+    264,
+    209,
+    189,
+    83
+  ],
+  "judgment_components": {
+    "Fort Yuma": "7-2",
+    "Docket 320": "9-0",
+    "section22": "9-0 disposition;8 direct rationale",
+    "Fort Mojave": "9-0",
+    "Colorado River": "9-0"
+  },
+  "Stone_fallback": "section22 statutory component only; no added ground",
+  "author": "Stevens",
+  "assignment_count_total": 83,
+  "no_overwrite": "pass",
+  "no_git": "pass",
+  "final_public_boundary": "pass",
+  "section22_filing_trigger": "express Congress filing retained"
+}

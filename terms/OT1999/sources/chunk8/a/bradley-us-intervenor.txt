@@ -1,0 +1,1452 @@
+                                                 No. 98-1010
+
+                         IN THE UNITED STATES COURT OF APPEALS
+                                       FOR THE EIGHTH CIRCUIT
+                                            ________________
+
+       THOMAS BRADLEY, as Natural Guardian of, and on behalf of
+David Bradley, a minor, individually and on behalf of themselves
+
+   and all others similarly situated; DIANNA BRADLEY, as Natural
+          Guardian of, and on behalf of David Bradley, a minor,
+
+individually and on behalf of themselves and all others similarly
+                                                  situated,
+
+                                        Plaintiffs-Appellees
+
+                                                         v.
+
+                             ARKANSAS DEPARTMENT OF EDUCATION;
+          MIKE CROWLEY, individually and in his capacity as an
+
+              employee of the Arkansas Department of Education,
+
+                                                                        Defendants-Appellants
+
+                 WILLIFORD SCHOOL DISTRICT 39; JOHN DOES, 1-10,
+
+                                                                        Defendants
+                                        _____________________
+
+                ON APPEAL FROM THE UNITED STATES DISTRICT COURT
+                          FOR THE EASTERN DISTRICT OF ARKANSAS
+                                            ________________
+
+                     BRIEF FOR THE UNITED STATES AS INTERVENOR
+                                            ________________
+
+                                                      BILL LANN LEE
+                                                          Acting Assistant Attorney General
+
+                                                      JESSICA DUNSAY SILVER
+                                                      SETH M. GALANTER
+
+                                                          Attorneys
+                                                          Department of Justice
+                                                          P.O. Box 66078
+                                                          Washington, D.C. 20035-6078
+                                                          (202) 307-9994
+                                           TABLE OF CONTENTS
+
+                                                                                                              PAGE
+
+SUMMARY OF THE CASE AND REQUEST FOR ORAL ARGUMENT
+PRELIMINARY STATEMENT . . . . . . . . . . . . . . . . . . . . . 1
+STATEMENT OF THE ISSUE . . . . . . . . . . . . . . . . . . . . 3
+STANDARD OF REVIEW . . . . . . . . . . . . . . . . . . . . . . 3
+STATEMENT OF THE CASE . . . . . . . . . . . . . . . . . . . . . 3
+SUMMARY OF ARGUMENT . . . . . . . . . . . . . . . . . . . . . . 6
+ARGUMENT:
+
+         20 U.S.C. 1403 VALIDLY REMOVES ELEVENTH AMENDMENT
+         IMMUNITY FOR CLAIMS UNDER INDIVIDUALS WITH
+         DISABILITIES EDUCATION ACT . . . . . . . . . . . . . . . . 7
+         A. Defendants Waived Their Eleventh Amendment
+
+                  Immunity To IDEA Suits By Accepting Federal
+                  Funds After The Enactment Of Section 1403 . . . . . . 8
+         B. The Abrogation Of Eleventh Amendment Immunity
+                  Contained In Section 1403 Is A Valid Exercise Of
+                  Congress' Power Under Section 5 Of The Fourteenth
+                  Amendment . . . . . . . . . . . . . . . . . . . . . 13
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . 31
+ADDENDUM
+
+                                         TABLE OF AUTHORITIES
+
+CASES:
+
+Alexander v. Choate, 469 U.S. 287 (1985) . . . . . . . . . . 27
+Atascadero State Hosp. v. Scanlon,
+
+         473 U.S. 234 (1985) . . . . . . . . . . . . . . . 9, 10, 11
+Autio v. Minnesota, No. 97-3145, 1998 WL 162138
+
+         (8th Cir. Apr. 9, 1998) . . . . . . . . . . . . . . passim
+Barnes v. Missouri, 960 F.2d 63 (8th Cir. 1992) (per curiam) . 2
+
+                                                        -i-
+CASES (continued):        PAGE
+
+Beasley v. Alabama State Univ., No. 96-T-473-N,
+         1998 WL 136119 (M.D. Ala. Mar. 23, 1998) . . . . . . 11, 13
+
+Bell v. New Jersey, 461 U.S. 773 (1983) . . . . . . . . . . . 13
+
+Beth V. v. Carroll, 87 F.3d 80 (3d Cir. 1996) . . . . . . . . . 8
+
+Board of Educ. v. Rowley, 458 U.S. 176 (1982) . . . . . . passim
+
+City of Boerne v. Flores, 117 S. Ct. 2157 (1997) . . . . passim
+
+City of Cleburne v. Cleburne Living Ctr.,
+         473 U.S. 432 (1985) . . . . . . . . . . . . . . . . passim
+
+City of Rome v. United States, 446 U.S. 156 (1980) . . . 15, 29
+
+Clark v. California, 123 F.3d 1267 (9th Cir.),
+         petition for cert. filed, 66 U.S.L.W. 3308
+         (Oct. 20, 1997) (No. 97-686) . . . . . . . . . . . 10-11, 13
+
+Coolbaugh v. Louisiana, 136 F.3d 430 (5th Cir. 1998) . . . . 22
+
+Counsel v. Dow, 849 F.2d 731 (2d Cir.), cert. denied,
+         488 U.S. 955 (1988) . . . . . . . . . . . . . . . . . . 30
+
+Crawford v. Davis, 109 F.3d 1281 (8th Cir. 1997) . . . . 15, 16
+
+Crawford v. Indiana Dep’t of Corrections,
+         115 F.3d 481 (7th Cir. 1997) . . . . . . . . . . . . . . 27
+
+Crawford v. Pittman, 708 F.2d 1028 (5th Cir. 1983) . . . . . 30
+
+David D. v. Dartmouth Sch. Comm., 775 F.2d 411
+         (1st Cir. 1985), cert. denied, 475 U.S. 1140 (1986) . . 30
+
+Dellmuth v. Muth, 491 U.S. 223 (1989) . . . . . . . . . . . . . 4
+
+Edelman v. Jordan, 415 U.S. 651 (1974) . . . . . . . . . . 9, 11
+
+Emma C. v. Eastin, 985 F. Supp. 940 (N.D. Cal. 1997) . . . . 30
+
+Employment Div. v. Smith, 494 U.S. 872 (1990) . . . . . . 19, 21
+
+Ex parte Virginia, 100 U.S. (10 Otto) 339 (1879) . . . . . 6, 14
+
+Fitzpatrick v. Bitzer, 427 U.S. 445 (1976) . . . . . . . . . 14
+
+Florida Dep't of Health & Rehabilitative Servs.
+         v. Florida Nursing Home Ass'n, 450 U.S. 147 (1981) . . . 10
+
+                    -ii-
+CASES (continued):         PAGE
+
+Fullilove v. Klutznick, 448 U.S. 448 (1980) . . . . . . . 19, 21
+
+Gorrie v. Bowen, 809 F.2d 508 (8th Cir. 1987) . . . . . . . 12
+
+Griffin v. Illinois, 351 U.S. 12 (1956) . . . . . . . . . . . 28
+
+Hankins v. Finnel, 964 F.2d 853 (8th Cir.),
+         cert. denied, 506 U.S. 1013 (1992) . . . . . . . . . . . . 9
+
+Irving Indep. Sch. Dist. v. Tatro, 468 U.S. 883 (1984) . . . 13
+
+Jenness v. Fortson, 403 U.S. 431 (1971) . . . . . . . . . . . 28
+
+Katzenbach v. Morgan, 384 U.S. 641 (1966) . . . . . . . . 15, 18
+
+Lane v. Pena, 116 S. Ct. 2092 (1996) . . . . . . . . . . 10, 11
+
+Lassiter v. Northampton County Bd. of Elections,
+         360 U.S. 45 (1959) . . . . . . . . . . . . . . . . . . . 15
+
+Lau v. Nichols, 483 F.2d 791 (9th Cir. 1973),
+         rev'd, 414 U.S. 563 (1974) . . . . . . . . . . . . . . . 29
+
+Lewis v. Casey, 116 S. Ct. 2174 (1996) . . . . . . . . . . . 28
+
+Marie O. v. Edgar, 131 F.3d 610 (7th Cir. 1997) . . . . 8, 11, 24
+
+Massachusetts v. Mellon, 262 U.S. 447 (1923) . . . . . . . . 12
+
+Mills v. Board of Educ., 348 F. Supp. 866 (D.D.C. 1972) . . . 23
+
+Minnesota Transp. Regulation Bd. v. United States,
+         966 F.2d 335 (8th Cir. 1992) . . . . . . . . . . . . . . 11
+
+Mitten v. Muscogee County Sch. Dist., 877 F.2d 932
+         (11th Cir. 1989), cert. denied, 493 U.S. 1072 (1990) . . 30
+
+M.L.B. v. S.L.J., 117 S. Ct. 555 (1996) . . . . . . . . . . . 28
+
+Oklahoma v. Civil Serv. Comm'n, 330 U.S. 127 (1947) . . . . . 12
+
+Oregon v. Mitchell, 400 U.S. 112 (1970) . . . . . . . . . 15, 21
+
+Pennhurst State Sch. & Hosp. v. Halderman,
+         451 U.S. 1 (1981) . . . . . . . . . . . . . . . . . . . 11
+
+Pennsylvania Ass'n for Retarded Children v. Commonwealth,
+         334 F. Supp. 1257 (E.D. Pa. 1971) . . . . . . . . . . . 23
+
+                    -iii-
+CASES (continued):        PAGE
+
+Pennsylvania Ass'n for Retarded Children v. Commonwealth,
+         343 F. Supp. 279 (E.D. Pa. 1972) . . . . . . . . . . . . 23
+
+Peter v. Johnson, 958 F. Supp. 1383 (D. Minn. 1997) . . . . . 30
+
+Petty v. Tennessee-Missouri Bridge Comm'n,
+         359 U.S. 275 (1959) . . . . . . . . . . . . . . . . . . . 9
+
+Plyler v. Doe, 457 U.S. 202 (1982) . . . . . . . . . . . . 27-28
+
+Premo v. Martin, 119 F.3d 764 (9th Cir. 1997),
+         cert. denied, 118 S. Ct. 1163 (1998) . . . . . . . . . . . 9
+
+Ross v. Moffitt, 417 U.S. 600 (1974) . . . . . . . . . . . . 28
+
+Seminole Tribe of Florida v. Florida,
+         517 U.S. 44 (1996) . . . . . . . . . . . . . . . . . passim
+
+Smith v. Robinson, 468 U.S. 992 (1984) . . . . . . . . 7, 24, 30
+
+South Carolina v. Katzenbach, 383 U.S. 301 (1966) . . . . . . 29
+
+South Dakota v. Dole, 483 U.S. 203 (1987) . . . . . . . . . . 12
+
+Supreme Court of Va. v. Consumers Union, Inc.,
+         446 U.S. 719 (1980) . . . . . . . . . . . . . . . . . . 11
+
+Turner Broad. Sys., Inc. v. FCC, 117 S. Ct. 1174 (1997) . . . 21
+
+United States v. City of Black Jack, 508 F.2d 1179
+         (8th Cir. 1974), cert. denied, 422 U.S. 1042 (1975) . . 30
+
+United States v. Horton, 601 F.2d 319 (7th Cir.),
+         cert. denied, 444 U.S. 937 (1979) . . . . . . . . . . . 27
+
+United States v. Monteleone, 77 F.3d 1086 (8th Cir. 1996) . . . 3
+
+Westside Community Bd. of Educ. v. Mergens,
+         496 U.S. 226 (1990) . . . . . . . . . . . . . . . . . . 18
+
+Yellow Springs Exempted Village Sch. Dist. Bd.
+         of Educ. v. Ohio High Sch. Athletic Ass’n,
+         647 F.2d 651 (6th Cir. 1981) . . . . . . . . . . . . . . 29
+
+                    -iv-
+CONSTITUTION, STATUTES, AND REGULATIONS:                    PAGE
+
+Spending Clause, Art. I, § 8, Cl. 1 . . . . . . . . . . . passim
+
+First Amendment, Free Exercise Clause . . . . . . . . . . . . 19
+
+Eleventh Amendment . . . . . . . . . . . . . . . . . . . passim
+
+Thirteenth Amendment . . . . . . . . . . . . . . . . . . . . 30
+
+Fourteenth Amendment                                        passim
+   Section 1, Equal Protection Clause . . . . . . . . . .   passim
+   Section 5 . . . . . . . . . . . . . . . . . . . . . . .
+
+Fifteenth Amendment
+   Section 1 . . . . . . . . . . . . . . . . . . . . . . . . . 15
+   Section 2 . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+Americans with Disabilities Act of 1990 (ADA),
+   42 U.S.C. 12101 et seq. . . . . . . . . . . . . . . . . 14, 21
+   42 U.S.C. 12101(a)(3) . . . . . . . . . . . . . . . . . . . 22
+
+Civil Rights Act of 1964,
+   42 U.S.C. 2000d-7 . . . . . . . . . . . . . . . . . . . . . 10
+   Title VII, 42 U.S.C. 2000e et seq. . . . . . . . . . . . . 14
+
+Fair Housing Act, 42 U.S.C. 3601 et seq. . . . . . . . . . . 30
+
+Individuals with Disabilities Education Act (IDEA),
+   20 U.S.C. 1400 et seq. . . . . . . . . . . . . . . . . passim
+   20 U.S.C. 1400 . . . . . . . . . . . . . . . . . . . . . . . 3
+   20 U.S.C. 1400(b)(9) (1988) (Pub. L. No. 94-142,
+         § 3(a), 89 Stat. 775 (1975)) . . . . . . . . . . . . . . 16
+   20 U.S.C. 1400(c)(2)(C) . . . . . . . . . . . . . . . . . . 22
+   20 U.S.C. 1400(c)(6) . . . . . . . . . . . . . . . . . . . 16
+   20 U.S.C. 1401(3)(A) . . . . . . . . . . . . . . . . . . . 27
+   20 U.S.C. 1403 (Pub. L. No. 101-476, tit. I, § 103,
+         104 Stat. 1106 (1990)) . . . . . . . . . . . . . . . passim
+   20 U.S.C. 1403(a) . . . . . . . . . . . . . . . . . . . 3, 4, 8
+   20 U.S.C. 1412(a)(1) . . . . . . . . . . . . . . . . . . . . 3
+   20 U.S.C. 1412(a)(5) . . . . . . . . . . . . . . . . . . . . 4
+   20 U.S.C. 1412(a)(11) . . . . . . . . . . . . . . . . . . . . 5
+   20 U.S.C. 1415 . . . . . . . . . . . . . . . . . . . . . . . 4
+   20 U.S.C. 1415(f) . . . . . . . . . . . . . . . . . . . . . . 5
+   20 U.S.C. 1415(h) . . . . . . . . . . . . . . . . . . . . . . 5
+   20 U.S.C. 1415(i)(2) . . . . . . . . . . . . . . . . . . . . 4
+   20 U.S.C. 1415(i)(3) . . . . . . . . . . . . . . . . . . 2, 4
+   20 U.S.C. 1415(l) . . . . . . . . . . . . . . . . . . . . . 24
+
+-v-
+STATUTES AND REGULATIONS (continued):  PAGE
+
+Individuals with Disabilities Education Act Amendments
+   for 1997, Pub. L. No. 105-17, 111 Stat. 37 . . . . . . . . . 4
+
+   tit. II, § 201, 111 Stat. 156 . . . . . . . . . . . . . . . . 4
+
+Rehabilitation Act of 1973,
+   29 U.S.C. 701(a)(5) . . . . . . . . . . . . . . . . . . . 22
+   29 U.S.C. 794 (Section 504) . . . . . . . . . . . . . . . 9, 10
+
+Religious Freedom Restoration Act (RFRA),
+   42 U.S.C. 2000bb et seq. . . . . . . . . . . . . . 19, 20, 21
+   42 U.S.C. 2000bb-1 . . . . . . . . . . . . . . . . . . . . 19
+
+Voting Rights Act, Section 5,
+   42 U.S.C. 1973c . . . . . . . . . . . . . . . . . . . . . . 29
+
+28 U.S.C. 1291 . . . . . . . . . . . . . . . . . . . . . . . . 2
+28 U.S.C. 1331 . . . . . . . . . . . . . . . . . . . . . . . . 2
+28 U.S.C. 2403(a) . . . . . . . . . . . . . . . . . . . . . . . 2
+42 U.S.C. 1983 . . . . . . . . . . . . . . . . . . . . . . . 24
+
+34 C.F.R. 300.360 note . . . . . . . . . . . . . . . . . . . . 5
+34 C.F.R. 300.508(a)(2) . . . . . . . . . . . . . . . . . . . . 5
+34 C.F.R. 300.512(a) . . . . . . . . . . . . . . . . . . . . . 5
+
+62 Fed. Reg. 55,026 (1997) . . . . . . . . . . . . . . . . . . 4
+
+LEGISLATIVE HISTORY:
+
+S. Rep. No. 168, 94th Cong., 1st Sess. (1975) . . . . . . . . 16
+
+S. Rep. No. 116, 101st Cong., 1st Sess. (1989) . . . . . . . 23
+
+S. Rep. No. 275, 104th Cong., 2d Sess. (1996) . . . . . . 16, 17
+
+H.R. Rep. No. 332, 94th Cong., 1st Sess. (1975) . . . . . 16, 22
+
+H.R. Rep. No. 485, Pt. 2, 101st Cong., 2d Sess. (1990) . . . 23
+
+H.R. Rep. No. 614, 104th Cong., 2d Sess. (1996) . . . . . . 16-17
+
+135 Cong. Rec. 16,916-16,917 (July 31, 1989) . . . . . . . . 10
+
+143 Cong. Rec. S4298 (daily ed. May 12, 1997) . . . . . . . . 17
+143 Cong. Rec. S4357 (daily ed. May 13, 1997) . . . . . . . . 17
+143 Cong. Rec. S4361 (daily ed. May 13, 1997) . . . . . . . . 17
+143 Cong. Rec. S4364 (daily ed. May 13, 1997) . . . . . . . . 17
+143 Cong. Rec. S4403 (daily ed. May 14, 1997) . . . . . . . . 17
+143 Cong. Rec. S4410 (daily ed. May 14, 1997) . . . . . . . . 17
+
+                                                       -vi-
+BOOKS, ARTICLES, AND REPORTS:                                 PAGE
+
+Marcia Pearce Burgdorf & Robert Burgdorf, Jr.,                22, 24
+         A History of Unequal Treatment, 15 Santa Clara
+         Lawyer 855 (1975) . . . . . . . . . . . . . . . . .
+
+Timothy M. Cook, The Americans with Disabilities Act:
+         The Move to Integration, 64 Temp. L. Rev. 393 (1991) . . 23
+
+Ronald D. Rotunda & John E. Nowak, Treatise on
+         Constitutional Law (1978) . . . . . . . . . . . . . . . 27
+
+U.S. Commission on Civil Rights, Accommodating the Spectrum
+         of Individual Abilities (1983) . . . . . . . . . . . . . 23
+
+                               -vii-
+                         IN THE UNITED STATES COURT OF APPEALS
+                                       FOR THE EIGHTH CIRCUIT
+                                            ________________
+
+                                                 No. 98-1010
+
+       THOMAS BRADLEY, as Natural Guardian of, and on behalf of
+David Bradley, a minor, individually and on behalf of themselves
+
+   and all others similarly situated; DIANNA BRADLEY, as Natural
+          Guardian of, and on behalf of David Bradley, a minor,
+
+individually and on behalf of themselves and all others similarly
+                                                  situated,
+
+                                        Plaintiffs-Appellees
+
+                                                         v.
+
+                             ARKANSAS DEPARTMENT OF EDUCATION;
+          MIKE CROWLEY, individually and in his capacity as an
+
+              employee of the Arkansas Department of Education,
+
+                                                                        Defendants-Appellants
+
+                 WILLIFORD SCHOOL DISTRICT 39; JOHN DOES, 1-10,
+
+                                                                        Defendants
+                                        _____________________
+
+                ON APPEAL FROM THE UNITED STATES DISTRICT COURT
+                          FOR THE EASTERN DISTRICT OF ARKANSAS
+                                            ________________
+
+                     BRIEF FOR THE UNITED STATES AS INTERVENOR
+                                            ________________
+
+                                        PRELIMINARY STATEMENT
+
+         1. The order denying the defendants' motion for summary
+
+judgment on Eleventh Amendment grounds was rendered by the
+
+Honorable James M. Moody of the United States District Court for
+
+the Eastern District of Arkansas. The order is unreported.
+
+         2. Plaintiffs-appellees filed a complaint in the United
+
+States District Court for the Eastern District of Arkansas
+
+alleging, inter alia, that the defendant Arkansas Department of
+
+Education and one of its officials violated the Individuals with
+                                                      - 2 -
+Disabilities Education Act (IDEA), 20 U.S.C. 1400 et seq., and
+other federal statutes. For the reasons discussed in this brief,
+the district court had jurisdiction over the IDEA claim pursuant
+to 20 U.S.C. 1415(i)(3) and 28 U.S.C. 1331.
+
+         3. This appeal is from an interlocutory judgment entered on
+November 21, 1997. The Arkansas Department of Education and Mike
+Crowley, a state official, filed a timely notice of appeal on
+December 18, 1997. This Court has jurisdiction over the Eleventh
+Amendment issues raised in this appeal pursuant to 28 U.S.C.
+1291. See Barnes v. Missouri, 960 F.2d 63, 64 (8th Cir. 1992)
+(per curiam) (denial of motion to dismiss on Eleventh Amendment
+grounds immediately appealable).
+
+         4. By filing this brief, the United States is exercising
+its right to intervene to defend the constitutionality of a
+federal statute. See 28 U.S.C. 2403(a).
+                                                      - 3 -
+                                       STATEMENT OF THE ISSUE
+         The United States will address the following question:
+         Whether the statutory abrogation of Eleventh Amendment
+immunity for suits under the Individuals with Disabilities
+Education Act is a valid exercise of Congress' power under the
+Spending Clause or Section 5 of the Fourteenth Amendment.
+       Seminole Tribe of Florida v. Florida, 517 U.S. 44 (1996)
+       City of Boerne v. Flores, 117 S. Ct. 2157 (1997)
+       Board of Educ. v. Rowley, 458 U.S. 176 (1982)
+       Autio v. Minnesota, No. 97-3145, 1998 WL 162138
+         (8th Cir. Apr. 9, 1998)
+       Sections 1 and 5 of the Fourteenth Amendment
+       20 U.S.C. 1400, 1403(a)
+
+                                          STANDARD OF REVIEW
+         Because the constitutionality of the Individuals with
+Disabilities Education Act is a question of law, this Court
+reviews the district court's decision de novo. See United States
+v. Monteleone, 77 F.3d 1086, 1091 (8th Cir. 1996).
+
+                                       STATEMENT OF THE CASE
+         1. The Individuals with Disabilities Education Act (IDEA),
+20 U.S.C. 1400 et seq., was a congressional response to the
+wholesale exclusion of children with disabilities from public
+education. Congress' two-fold goal in enacting IDEA was to
+ensure that children with disabilities received an appropriate
+education, and that such an education took place, whenever
+possible, in the regular classroom setting. Board of Educ. v.
+Rowley, 458 U.S. 176, 192, 202-203 (1982); 20 U.S.C. 1412(a)(1) &
+                                                      - 4 -
+
+(a)(5).1/ To assure that each child receives an appropriate
+
+education, Congress also conditioned the receipt of federal funds
+
+on detailed procedural requirements that guaranteed the
+
+participation of parents and experts before impartial
+
+decisionmakers. Id. at 182-183, 205-206; 20 U.S.C. 1415.
+
+Congress specifically authorized private plaintiffs to enforce
+
+these federal rights in federal court. Id. at 204-205; 20 U.S.C.
+
+1415(i)(2), (i)(3).
+
+         In 1989, the Supreme Court held that IDEA was not clear
+
+enough to evidence Congress' intent to authorize private actions
+
+against state entities. See Dellmuth v. Muth, 491 U.S. 223, 232
+
+(1989). In response, Congress amended the statute to add Section
+
+1403, making it effective for violations occurring after October
+
+30, 1990. See Pub. L. No. 101-476, tit. I, § 103, 104 Stat. 1106
+
+(1990). Section 1403(a) provides in pertinent part:
+
+         A State shall not be immune under the eleventh amendment to
+         the Constitution of the United States from suit in Federal
+         court for a violation of this chapter [20 U.S.C. 1400 -
+         1487].
+
+20 U.S.C. 1403(a).
+
+1/ IDEA was reenacted, with amendments, on June 4, 1997. See
+Individuals with Disabilities Education Act Amendments for 1997,
+Pub. L. No. 105-17, 111 Stat. 37. These amendments do not
+substantively alter the statutory provisions at issue in this
+case and will be effective by July 1, 1998. Id. at tit. II, §
+201, 111 Stat. 156. Because plaintiffs are seeking injunctive
+relief for future compliance with IDEA, statutory citations in
+this brief refer to IDEA in its 1997 recodification (which we
+have attached as an addendum) unless otherwise noted. Likewise,
+regulations to implement the reenacted IDEA have been proposed.
+See 62 Fed. Reg. 55,026 (1997). Because they have not been
+finally promulgated, regulatory citations in this brief refer to
+the 1997 version, which are not substantively different from
+those proposed.
+                                                      - 5 -
+         2. This suit is a private action brought by Thomas and
+Dianna Bradley against the Arkansas Department of Education, the
+Williford School District, and others, on behalf of their son,
+David, who is autistic and attends school at Williford Special
+School District (Complaint ¶ 1). They raised claims under IDEA
+as well as other federal and local laws (Comp. ¶¶ 1, 4-9, 33-69).
+         Read in the light most favorable to plaintiffs, the gravamen
+of the complaint is that the State is not complying with its
+substantive obligation to ensure that the school district provide
+an appropriate education to their son (Comp. ¶¶ 4.C, 14-15, 57-
+58). See 20 U.S.C. 1412(a)(11); 34 C.F.R. 300.360 note. They
+also allege that the State is failing to comply with certain
+federal regulations implementing IDEA's “impartial due process
+hearing” requirement, 20 U.S.C. 1415(f) & (h), including that
+hearings must be concluded within 45 days of a request, and that
+States provide a mechanism for compelling the attendance of
+witnesses (Comp. ¶¶ 4.B, 13, 19-20). See 34 C.F.R. 300.512(a),
+300.508(a)(2).
+         The Arkansas Department of Education and Crowley moved for
+summary judgment, arguing that they were immune from suit under
+the Eleventh Amendment based on the Supreme Court's decision in
+Seminole Tribe of Florida v. Florida, 517 U.S. 44 (1996). The
+district court denied the motion, holding that IDEA contained an
+express abrogation of Eleventh Amendment immunity, and that the
+abrogation was a valid exercise of Congress' power under Section
+                                                      - 6 -
+5 of the Fourteenth Amendment. This timely interlocutory appeal
+followed.
+
+                                         SUMMARY OF ARGUMENT
+         The Eleventh Amendment is no bar to this action under IDEA
+by private plaintiffs against a State. Section 1403 of Title 20
+contains an express statutory abrogation of Eleventh Amendment
+immunity for IDEA suits. This abrogation is a valid exercise of
+Congress' power under the Spending Clause to impose unambiguous
+conditions on States receiving federal funds. By enacting
+Section 1403, Congress put States on notice that accepting
+federal IDEA funds waived their Eleventh Amendment immunity to
+suits under IDEA.
+         In addition, Section 1403 is a valid exercise of Congress'
+power under Section 5 of the Fourteenth Amendment, which
+authorizes Congress to enact “appropriate legislation” to
+“enforce” the Equal Protection Clause. As this Court recently
+reaffirmed in Autio v. Minnesota, No. 97-3145, 1998 WL 162138
+(Apr. 9, 1998), Congress has broad discretion to enact whatever
+legislation it determines is appropriate to secure to all persons
+“the enjoyment of perfect equality of civil rights and the equal
+protection of the laws.” Ex parte Virginia, 100 U.S. (10 Otto)
+339, 346 (1879). Congress enacted IDEA in response to a pattern
+of discriminatory exclusion of children with disabilities from
+public schools. Congress' determination that this exclusion
+resulted in constitutionally cognizable injuries was based on a
+series of contemporaneous federal court cases, and was confirmed
+                                                      - 7 -
+by the Supreme Court's later decisions in Board of Education v.
+Rowley, 458 U.S. 176 (1982), and Smith v. Robinson, 468 U.S. 992
+(1984), among others.
+
+         Nothing in City of Boerne v. Flores, 117 S. Ct. 2157 (1997),
+suggests that IDEA is in excess of Congress' Section 5 authority.
+City of Boerne reaffirmed that Congress has broad power under
+Section 5 of the Fourteenth Amendment to remedy and prevent
+discriminatory behavior by States. In enacting IDEA, Congress
+found that schools were excluding children with disabilities from
+public education, despite the fact that they could benefit from
+an appropriate education. In the years since enacting IDEA,
+Congress has continued to find that discrimination in education
+persists for children with disabilities. Thus under the
+standards established in City of Boerne, as articulated by this
+Court in Autio, IDEA is valid Section 5 legislation.
+
+         Whether viewed as an exercise of the Spending Power or
+Section 5 of the Fourteenth Amendment, the abrogation for IDEA
+suits is constitutional and the district court properly
+determined it has jurisdiction over this action.
+
+                                                   ARGUMENT
+     20 U.S.C. 1403 VALIDLY REMOVES ELEVENTH AMENDMENT IMMUNITY
+    FOR CLAIMS UNDER INDIVIDUALS WITH DISABILITIES EDUCATION ACT
+
+         In Seminole Tribe of Florida v. Florida, 517 U.S. 44 (1996),
+the Supreme Court articulated a two-part test to determine
+whether Congress has properly abrogated States' Eleventh
+Amendment immunity:
+                                                      - 8 -
+         first, whether Congress has unequivocally expressed its
+         intent to abrogate the immunity; and second, whether
+         Congress has acted pursuant to a valid exercise of
+         power.
+Id. at 55 (citations, quotations, and brackets omitted).
+         Section 1403(a) of Title 20 provides that “[a] State shall
+not be immune under the eleventh amendment to the Constitution of
+the United States from suit in Federal court for a violation of
+this chapter.” Courts of appeals have properly characterized
+Section 1403 as meeting the requirement that Congress must
+unambiguously express in the text of the statute its intent to
+remove the Eleventh Amendment bar to private suits against States
+in federal court. See Marie O. v. Edgar, 131 F.3d 610, 617-618
+(7th Cir. 1997); Beth V. v. Carroll, 87 F.3d 80, 88 (3d Cir.
+1996). Indeed, the defendants concede (Br. 5) that Congress
+intended to remove its Eleventh Amendment immunity. The only
+question is whether it is a valid exercise of any of Congress'
+powers.
+         As explained more fully below, the defendants waived their
+Eleventh Amendment immunity to IDEA suits when they elected to
+accept federal funds after the effective date of Section 1403.
+Moreover, Congress properly abrogated Eleventh Amendment immunity
+from IDEA claims pursuant to its authority under Section 5 of the
+Fourteenth Amendment.
+         A. Defendants Waived Their Eleventh Amendment Immunity To
+
+                  IDEA Suits By Accepting Federal Funds After The
+                  Enactment Of Section 1403
+         Section 1403 may be upheld as a valid exercise of Congress'
+power under the Spending Clause, Art. I, § 8, Cl. 1, to prescribe
+                                                      - 9 -
+conditions for States that voluntarily accept federal financial
+assistance. Contrary to the defendants' implicit argument, the
+Supreme Court's decision in Seminole Tribe does not somehow
+prohibit such an exercise of the Spending Clause power. Indeed,
+it is well-settled that Congress may condition the receipt of
+federal funds on a waiver of Eleventh Amendment immunity when, as
+here, the statute provides unequivocal notice to the States of
+this condition.
+
+         States may waive their Eleventh Amendment immunity. See
+Seminole Tribe, 517 U.S. at 65; Petty v. Tennessee-Missouri
+Bridge Comm'n, 359 U.S. 275, 276 (1959); Premo v. Martin, 119
+F.3d 764, 770-771 (9th Cir. 1997), cert. denied, 118 S. Ct. 1163
+(1998); Hankins v. Finnel, 964 F.2d 853, 856 (8th Cir.), cert.
+denied, 506 U.S. 1013 (1992). Such waivers may be accomplished
+not only by state statute and on a case-by-case basis. A State
+may also “by its participation in the program authorized by
+Congress * * * in effect consent[] to the abrogation of that
+immunity.” Edelman v. Jordan, 415 U.S. 651, 672 (1974); see also
+Atascadero State Hosp. v. Scanlon, 473 U.S. 234, 238 n.1 (1985)
+(“[a] State may effectuate a waiver of its constitutional
+immunity by * * * waiving its immunity to suit in the context of
+a particular federal program”).
+
+         Atascadero, for example, held that Congress had not provided
+sufficiently clear statutory language to abrogate States'
+Eleventh Amendment immunity for claims under Section 504 of the
+Rehabilitation Act, 29 U.S.C. 794, which prohibits discrimination
+                                                     - 10 -
+on the basis of disability by recipients of federal funds. And
+it reaffirmed that “mere receipt of federal funds” was
+insufficient to constitute a waiver. 473 U.S. at 246-247. But
+the Court stated that if a statute “manifest[ed] a clear intent
+to condition participation in the programs funded under the Act
+on a State's consent to waive its constitutional immunity,” the
+federal courts would have jurisdiction over States that accepted
+federal funds. Id. at 247; see also Florida Dep't of Health &
+Rehabilitative Servs. v. Florida Nursing Home Ass'n, 450 U.S.
+147, 153 (1981) (Stevens, J., concurring).
+
+         Section 1403 was crafted in light of the rule articulated in
+Atascadero. See 135 Cong. Rec. 16,916-16,917 (1989). And
+Section 1403 makes unambiguously clear that Congress intended the
+States to be amenable to suit in federal court if they accepted
+federal funds under IDEA. Cf. Lane v. Pena, 116 S. Ct. 2092,
+2100 (1996) (acknowledging “the care with which Congress
+responded to our decision in Atascadero by crafting an
+unambiguous waiver of the States' Eleventh Amendment immunity” in
+42 U.S.C. 2000d-7, which uses language identical to Section
+1403). Thus, as the Ninth Circuit recently held in a case
+involving 42 U.S.C. 2000d-7's abrogation for claims under Section
+504, such a statutory provision “manifests a clear intent to
+condition a state's participation on its consent to waive its
+Eleventh Amendment immunity.” Clark v. California, 123 F.3d
+                                                     - 11 -
+
+1267, 1271 (9th Cir.), petition for cert. filed, 66 U.S.L.W. 3308
+
+(Oct. 20, 1997) (No. 97-686).2/
+
+         Nor does Seminole Tribe preclude Congress from using its
+
+Spending Clause power to abrogate a State's Eleventh Amendment
+
+immunity. Although the effect is the same, when Congress acts
+
+under the Spending Clause, it does not abrogate Eleventh
+
+Amendment immunity. Instead, Congress conditions the receipt of
+
+federal funds on a waiver of that immunity by the States
+
+themselves. See Beasley v. Alabama State Univ., No. 96-T-473-N,
+
+1998 WL 136119, at *8-*9 (M.D. Ala. Mar. 23, 1998). Section 1403
+
+thus embodies exactly the type of unambiguous condition discussed
+
+by the Court in Atascadero, putting States on express notice that
+
+part of the “contract” for receiving federal funds was the
+
+requirement that they consent to suit in federal court for
+
+alleged violations of IDEA. See Pennhurst State Sch. & Hosp. v.
+
+Halderman, 451 U.S. 1, 17 (1981).
+
+2/ The Seventh Circuit in Marie O. v. Edgar, 131 F.3d at 617-
+618, commented favorably on the waiver theory as applied to
+Section 1403 of IDEA, but did not make a definitive holding
+because the case could be decided on other grounds. It
+suggested, however, that Congress' use of the word “abrogation”
+in the title of the section (“Abrogation of state sovereign
+immunity”) might introduce some ambiguity as to whether the
+provision could constitute a condition that the States waive
+their immunity. But the Supreme Court has used the terms
+“abrogation” and “waiver” inexactly in the past, see, e.g., Lane,
+116 S. Ct. at 2099; Supreme Court of Va. v. Consumers Union,
+Inc., 446 U.S. 719, 738 (1980); Edelman, 415 U.S. at 672, so
+there is no reason to think Congress was intending to embody a
+substantive choice in the legislation by its use of the word
+“abrogation” in the section heading. Indeed, it is well-settled
+that section titles cannot limit the plain import of the text.
+See Minnesota Transp. Regulation Bd. v. United States, 966 F.2d
+335, 339 (8th Cir. 1992).
+                                                     - 12 -
+         To the extent defendant argues that Congress may not require
+the waiver of Eleventh Amendment immunity as a condition for
+receiving federal funds because it could not directly abrogate
+immunity under the Spending Clause, it is incorrect. The Supreme
+Court has explained that when exercising its Spending Clause
+power, there is no constitutional “prohibition on the indirect
+achievement of objectives which Congress is not empowered to
+achieve directly.” South Dakota v. Dole, 483 U.S. 203, 210
+(1987). Indeed, the Court held that even “a perceived Tenth
+Amendment limitation on congressional regulation of state affairs
+did not concomitantly limit the range of conditions legitimately
+placed on federal grants.” Ibid. (citing Oklahoma v. Civil Serv.
+Comm'n, 330 U.S. 127 (1947)). That is because, as this Court
+explained in the context of another federal spending program,
+such legislation “is not an attempt by Congress to directly
+displace * * * state [law]; rather, it is a condition on the
+receipt of federal funds. States that object to the condition
+can avoid it by choosing to forego federal funding. States that
+wish to continue funding their * * * programs with federal
+dollars must, however, be willing to accept Congress' conditions
+on the receipt of those funds.” Gorrie v. Bowen, 809 F.2d 508,
+519 (8th Cir. 1987) (citations omitted); see also Massachusetts
+v. Mellon, 262 U.S. 447, 480 (1923).
+                                                     - 13 -
+         IDEA is a voluntary federal program. States apply for money
+on the condition that they will comply with IDEA and the
+Department of Education's regulations, and know that disputes
+regarding their compliance can be resolved in federal court. See
+Board of Educ. v. Rowley, 458 U.S. 176, 182-183 (1982); Irving
+Indep. Sch. Dist. v. Tatro, 468 U.S. 883, 890-891 nn.7-8 (1984).
+At present, Arkansas, along with every other State, has elected
+to accept IDEA money. Since the defendants accepted federal
+funds after the effective date of Section 1403, they have waived
+their Eleventh Amendment immunity to suit in this case. See
+Clark, 123 F.3d at 1271; Beasley, 1998 WL 136119, at *9-*11.
+“Requiring States to honor the obligations voluntarily assumed as
+a condition of federal funding * * * simply does not intrude on
+their sovereignty.” Bell v. New Jersey, 461 U.S. 773, 790
+(1983).
+         B. The Abrogation Of Eleventh Amendment Immunity Contained
+
+                  In Section 1403 Is A Valid Exercise Of Congress'
+                  Power Under Section 5 Of The Fourteenth Amendment
+         In addition, Section 1403 is also a valid abrogation of
+Eleventh Amendment immunity because it is an exercise of
+Congress' authority under Section 5 of the Fourteenth Amendment.
+Section 5 empowers Congress to enact “appropriate legislation” to
+“enforce” the Equal Protection Clause. Citing the Supreme
+Court's recent decision in City of Boerne v. Flores, 117 S. Ct.
+2157 (1997), the defendants contend (Br. 8-12) that IDEA is not
+“appropriate” legislation to “enforce” the Equal Protection
+Clause. In doing so, they misstate the proper analysis, as
+                                                     - 14 -
+evidenced by this Court's recent decision in Autio v. Minnesota,
+No. 97-3145, 1998 WL 162138 (8th Cir. Apr. 9, 1998), which upheld
+the Americans with Disabilities Act (ADA) against a similar
+challenge. They also ignore the four courts of appeals decisions
+upholding IDEA as a valid exercise of Congress' Section 5
+authority. See id. at *4 n.5 (collecting cases from the First,
+Second, Fifth and Eleventh Circuits).
+
+         1. City of Boerne reaffirmed that “§ 5 is 'a positive grant
+of legislative power' to Congress.” 117 S. Ct. at 2163. Under
+its Section 5 power, Congress may provide remedies for violations
+of the substantive provisions of Section 1, including the Equal
+Protection Clause. See Autio, 1998 WL 162138, at *3; Ex parte
+Virginia, 100 U.S. (10 Otto) 339, 345 (1879). As part of its
+power to provide such remedies, Congress may abrogate States'
+Eleventh Amendment immunity. In Fitzpatrick v. Bitzer, 427 U.S.
+445 (1976), the Court upheld the abrogation of States' Eleventh
+Amendment immunity in Title VII of the Civil Rights Act of 1964,
+42 U.S.C. 2000e et seq., as “appropriate” legislation under
+Section 5. It explained that “[w]hen Congress acts pursuant to
+§ 5, not only is it exercising legislative authority that is
+plenary within the terms of the constitutional grant, it is
+exercising that authority under one section of a constitutional
+Amendment whose other sections by their own terms embody
+limitations on state authority.” Id. at 456. In Seminole Tribe,
+the Court reaffirmed the holding of Fitzpatrick. See 517 U.S. at
+59, 65-66, 71-72 n.15. Thus, even after Seminole Tribe, “§ 5 of
+                                                     - 15 -
+the Fourteenth Amendment [preserves] the authority of Congress to
+
+abrogate the states' Eleventh Amendment immunity.” Crawford v.
+Davis, 109 F.3d 1281, 1283 (8th Cir. 1997).
+
+         Nor is Congress limited to abrogating immunity for those
+
+things that are already prohibited by the Equal Protection Clause
+itself. Under its Section 5 power, Congress has wide latitude to
+
+prohibit conduct, regardless whether the practices violate the
+
+Equal Protection Clause in and of themselves, so long as such
+
+prohibitions might reasonably be regarded as necessary to prevent
+
+or remedy conduct that would violate Section 1, or to make
+
+effective the rights assured in Section 1 of the Fourteenth
+
+Amendment. See Katzenbach v. Morgan, 384 U.S. 641, 652-653
+(1966); City of Rome v. United States, 446 U.S. 156, 177 (1980);
+
+Oregon v. Mitchell, 400 U.S. 112 (1970); id. at 133-134 (opinion
+
+of Black, J.); id. at 144-147 (opinion of Douglas, J.); id. at
+216 (opinion of Harlan, J.); id. at 233-236 (opinion of Brennan,
+White, Marshall, JJ.); id. at 283-284 (opinion of Stewart, J.).3/
+
+         City of Boerne reaffirmed that when enacting remedial or
+
+preventive legislation under Section 5, Congress is not limited
+
+to prohibiting unconstitutional activity. “Legislation which
+
+3/ There was no opinion for the Court in Oregon v. Mitchell.
+Nevertheless, the Court unanimously upheld Congress' five-year
+ban on the use of literacy tests in state and national elections,
+although literacy tests are not per se invalid under Section 1 of
+the Fifteenth Amendment. See Lassiter v. Northampton County Bd.
+of Elections, 360 U.S. 45, 53-54 (1959). Justice Douglas relied
+on Section 5 of the Fourteenth Amendment; the other eight
+Justices of the Court relied on Section 2 of the Fifteenth
+Amendment. The enforcement language of those two provisions is
+identical.
+                                                     - 16 -
+deters or remedies constitutional violations can fall within the
+sweep of Congress' enforcement power even if in the process it
+prohibits conduct which is not itself unconstitutional.” 117 S.
+Ct. at 2163. Thus even if not all the actions prohibited by IDEA
+would themselves be unconstitutional, Congress is free to act
+because there is “a congruence between the means used and the
+ends to be achieved. The appropriateness of remedial measures
+must be considered in light of the evil presented.” Id. at 2169.
+
+         2. Although Congress need not announce that it is
+legislating pursuant to its Section 5 authority, see Crawford,
+109 F.3d at 1283, Congress declared that its intent in enacting
+IDEA was to “assist State and local efforts to provide programs
+to meet the educational needs of handicapped children in order to
+assure equal protection of the law.” Pub. L. No. 94-142, § 3(a),
+89 Stat. 775 (1975) (codified at 20 U.S.C. 1400(b)(9) (1988));
+see also S. Rep. No. 168, 94th Cong., 1st Sess. 13, 22 (1975);
+H.R. Rep. No. 332, 94th Cong., 1st Sess. 14 (1975); Rowley, 458
+U.S. at 198 & n.22.
+
+         When Congress re-enacted IDEA in 1997, it retained this
+finding, see 20 U.S.C. 1400(c)(6), and explained that it wished
+“to restate that the 'right to equal educational opportunities'
+is inherent in the equal protection clause of the 14th Amendment
+to the U.S. Constitution.” S. Rep. No. 275, 104th Cong., 2d
+Sess. 31 (1996). Indeed, Congress expressly noted that “Eleventh
+Amendment immunity is waived by IDEA, which is a valid exercise
+of Congressional power under the 14th Amendment.” H.R. Rep. No.
+                                                     - 17 -
+614, 104th Cong., 2d Sess. 4 (1996); see also S. Rep. No. 275,
+supra, at 25 (“The IDEA is founded in and secured by the 14th
+Amendment of the Constitution.”).
+
+         Thus, Congress did not view IDEA as simply a Spending Clause
+statute imposing conditions for the receipt of federal funds. As
+Senator Harkin recently explained: “We recognized [in 1975] that
+the right of disabled children to a free appropriate public
+education is a constitutional right established in the early
+1970's by two landmark Federal district court cases. * * * IDEA
+was enacted for two reasons: First, to establish a consistent
+policy of what constitutes compliance with the equal protection
+clause so that there would be no need to continue pursuing
+separate court challenges around the country. Second, to help
+States meet their constitutional obligations.” 143 Cong. Rec.
+S4298 (daily ed. May 12, 1997). This understanding of IDEA was
+often reiterated during the 1997 reenactment debates. See, e.g.,
+143 Cong. Rec. S4357 (May 13, 1997) (Sen. Jeffords); id. at S4361
+(May 13, 1997) (Sen. Harkin); id. at S4364 (May 13, 1997) (Sen.
+Frist); id. at S4403 (May 14, 1997) (Sen. Harkin); id. at S4410
+(May 14, 1997) (Sen. Lott).
+
+         While declarations are not dispositive, neither should they
+be ignored. See Autio, 1998 WL 162138, at *2 (relying on
+congressional finding that it intended to exercise its power
+under the Fourteenth Amendment in determining that “the ADA was
+clearly enacted to enforce the Equal Protection Clause”). “Given
+the deference due 'the duly enacted and carefully considered
+                                                     - 18 -
+decision of a coequal and representative branch of our
+Government,'” a court is “not lightly [to] second-guess such
+legislative judgments.” Westside Community Bd. of Educ. v.
+Mergens, 496 U.S. 226, 251 (1990) (opinion of O'Connor, J.). As
+the Supreme Court reaffirmed in City of Boerne, “[i]t is for
+Congress in the first instance to 'determine whether and what
+legislation is needed to secure the guarantees of the Fourteenth
+Amendment,' and its conclusions are entitled to much deference.”
+117 S. Ct. at 2172 (quoting Katzenbach, 384 U.S. at 651).
+
+         Thus, there is no need for this Court to decide whether
+every requirement of IDEA could be ordered by a court under the
+authority of the Equal Protection Clause. Congress “may enact
+legislation prohibiting conduct which a court itself may not deem
+unconstitutional.” Autio, 1998 WL 162138, at *3. It is
+sufficient that Congress found that IDEA was appropriate
+legislation to redress the rampant discrimination it discovered
+in its decades-long examination of the question. Given Congress'
+superior factfinding ability and the attendant “wide latitude” to
+which it is entitled in exercising its Section 5 authority, City
+of Boerne, 117 S. Ct. at 2164, its findings that state and local
+governments excluded children with disabilities from public
+education, discussed below, are sufficient to sustain IDEA's
+abrogation as valid Section 5 legislation. “It is fundamental
+that in no organ of government, state or federal, does there
+repose a more comprehensive remedial power than in the Congress,
+expressly charged by the Constitution with competence and
+                                                     - 19 -
+authority to enforce equal protection guarantees.” Fullilove v.
+Klutznick, 448 U.S. 448, 483 (1980) (opinion of Burger, C.J.).
+
+         3. This is not contrary to the holding of City of Boerne.
+The Religious Freedom Restoration Act (RFRA), 42 U.S.C. 2000bb et
+seq. (the statute at issue in City of Boerne) was enacted by
+Congress in response to the Supreme Court's decision in
+Employment Division v. Smith, 494 U.S. 872 (1990). Smith held
+that the Free Exercise Clause did not require States to provide
+exceptions to neutral and generally applicable laws even when
+those laws significantly burdened religious practices. See id.
+at 887. In RFRA, Congress attempted to overcome the effects of
+Smith by imposing through legislation a requirement that laws
+substantially burdening a person's exercise of religion be
+justified as in furtherance of a compelling state interest and as
+the least restrictive means of furthering that interest. See 42
+U.S.C. 2000bb-1. As this Court explained in Autio, “the Court
+struck down [RFRA] under Section 5 of the Fourteenth Amendment
+because, in part, the 'legislative record lack[ed] examples of
+modern instances of generally applicable laws passed because of
+religious bigotry. The history of persecution in this country
+detailed in the hearings mentions no episodes occurring in the
+past 40 years.'” 1998 WL 162138, at *2 (quoting City of Boerne,
+117 S. Ct. at 2169). The Court found that Congress was
+“attempting to * * * make a substantive constitutional change,
+rather than enforcing a recognized Fourteenth Amendment right.”
+Ibid.
+                                                     - 20 -
+         As such the Court found RFRA to be an unconstitutional
+exercise of Section 5. In City of Boerne the Court found that
+RFRA was “out of proportion” to the problems identified so that
+it could not be viewed as preventive or remedial. Id. at 2170.
+First, it found that there was no “pattern or practice of
+unconstitutional conduct under the Free Exercise Clause as
+interpreted in Smith.” Id. at 2171; see also id. at 2169
+(surveying legislative record). It also found that RFRA's
+requirement that the State prove a compelling state interest and
+narrow tailoring imposed “the most demanding test known to
+constitutional law” and thus possessed a high “likelihood of
+invalidat[ing]” many state laws. Id. at 2171. While stressing
+that Congress was entitled to “much deference” in determining the
+need for and scope of laws to enforce Fourteenth Amendment
+rights, id. at 2172, the Court found that Congress had simply
+gone so far in attempting to regulate local behavior that, in
+light of the lack of evidence of a risk of unconstitutional
+conduct, it could no longer be viewed as remedial or preventive.
+As such, the Court found RFRA an unconstitutional exercise of
+Section 5. Id. at 2169-2170, 2172.
+         As discussed below, none of the specific concerns
+articulated by the Court apply to IDEA. But IDEA also differs
+from RFRA in a fundamental way. RFRA was attempting to expand
+the substantive meaning of the Fourteenth Amendment by imposing a
+strict scrutiny standard on the States in the absence of evidence
+of widespread use of constitutionally improper criteria. Not so
+                                                     - 21 -
+
+here. Moreover, unlike the background to RFRA -- which
+
+demonstrated that Congress acted out displeasure with the Court's
+
+decision in Smith -- there is no evidence that Congress enacted
+
+IDEA because of its disagreement with any decision of the courts
+
+applying any particular constitutional standards to claims by
+
+children with disabilities. To the contrary, as we show below,
+
+Congress was building on a string of court opinions that had
+
+expounded a constitutional right of disabled children to an
+
+“appropriate” education. Combined with its finding that children
+
+with disabilities had experienced a history of discriminatory
+
+treatment, IDEA falls within the core of Congress' remedial
+
+authority under Section 5.
+
+         4. Like the ADA, and unlike RFRA, IDEA “clearly chronicles
+
+and directly addresses the discrimination [children] with
+
+disabilities have experienced and the 'evils' those with
+
+disabilities continue to experience in modern day America.”
+
+Autio, 1998 WL 162138, at *3. Congress enacted IDEA based on a
+
+well-documented history of past discrimination in education
+against children with disabilities.4/ In enacting IDEA's
+
+4/ Defendants criticize Congress (Br. 7-8) for failing to make a
+sufficient record of discrimination, as if Congress were a lower
+court that must make detailed findings of facts which this Court
+reviews for clear error. But “'Congress is not obligated, when
+enacting its statutes, to make a record of the type that an
+administrative agency or court does to accommodate judicial
+review.'” Turner Broad. Sys., Inc. v. FCC, 117 S. Ct. 1174, 1197
+(1997); see also Fullilove v. Klutznick, 448 U.S. 448, 502-503,
+506 (1980) (opinion of Powell, J., concurring). Rather, so long
+as this Court can “perceive[] a factual basis on which Congress
+could have concluded” that there was “'invidious discrimination
+in violation of the Equal Protection Clause,'” then this Court
+
+                                                                                            (continued...)
+                                                     - 22 -
+predecessor in 1975, Congress found that one million disabled
+children were “excluded entirely from the public school system.”
+20 U.S.C. 1400(c)(2)(C). But outright exclusion was not the only
+injury suffered by children with disabilities. Some children
+were given permission to enter the schoolhouse, but were learning
+nothing because the schools failed to account for their
+disabilities. See Rowley, 458 U.S. at 191; id. at 213 n.1
+(White, J., dissenting). Congress was acting in response to its
+finding that “millions of handicapped children 'were either
+totally excluded from schools or [were] sitting idly in regular
+classrooms awaiting the time when they were old enough to “drop
+out.”'” Id. at 191 (quoting H.R. Rep. No. 332, supra, at 2).
+This state of affairs was rooted in decades of unwarranted
+discrimination against children with disabilities. See Marcia
+Pearce Burgdorf & Robert Burgdorf, Jr., A History of Unequal
+Treatment, 15 Santa Clara Lawyer 855, 870-875 (1975).
+
+         These conditions continue to exist. After extensive
+factfinding by the Executive and Legislative branches prior to
+the enactment of the ADA, see Coolbaugh v. Louisiana, 136 F.3d
+430, 435-437 & n.4 (5th Cir. 1998), Congress found in 1990 that
+“discrimination against individuals with disabilities persists in
+such critical areas as * * * education.” 42 U.S.C. 12101(a)(3)
+(emphasis added); accord 29 U.S.C. 701(a)(5). This finding is
+
+4/(...continued)
+must uphold IDEA as valid Section 5 legislation. City of Boerne,
+117 S. Ct. at 2168; see also Oregon v. Mitchell, 400 U.S. 112,
+216 (1970) (opinion of Harlan, J.).
+                                                     - 23 -
+supported by testimony credited by both houses of Congress about
+exclusion of people with disabilities from education. See S.
+Rep. No. 116, 101st Cong., 1st Sess. 7 (1989); H.R. Rep. No. 485,
+Pt. 2, 101st Cong., 2d Sess. 29 (1990). This finding is also
+consistent with the conclusion of the United States Commission on
+Civil Rights, also before Congress, that tens of thousands of
+children with disabilities “continue to be excluded from the
+public schools, and others are placed in inappropriate programs.”
+U.S. Commission on Civil Rights, Accommodating the Spectrum of
+Individual Abilities 28 & n.77 (1983); see also Timothy M. Cook,
+The Americans with Disabilities Act: The Move to Integration, 64
+Temp. L. Rev. 393, 413-414 (1991) (noting continued segregation
+of children with disabilities in education). In Autio, this
+Court held that Congress' ADA findings were based on “exhaustive
+fact finding” and were entitled to “significant deference.” 1998
+WL 162138, at *3 & n.4.
+
+         5. Congress tied these facts directly to the deprivations
+of constitutional rights. As explained by the Supreme Court in
+Rowley, the impetus for IDEA included two federal cases
+establishing that the States' failures to provide children a free
+public education appropriate to their needs was a constitutional
+violation. See 458 U.S. at 180 n.2, 192-200 (discussing Mills v.
+Board of Educ., 348 F. Supp. 866 (D.D.C. 1972) and Pennsylvania
+Ass'n for Retarded Children v. Commonwealth, 334 F. Supp. 1257
+(E.D. Pa. 1971) and 343 F. Supp. 279 (E.D. Pa. 1972)). Indeed,
+when Congress enacted IDEA, plaintiffs were winning similar suits
+                                                     - 24 -
+across the nation. See Burgdorf & Burgdorf, supra, at 878 &
+n.136. The Supreme Court discussed the decisions in these cases
+with approval in Rowley and reaffirmed the constitutional basis
+of IDEA's “appropriate education” requirement in later cases.
+For example, the Supreme Court held that IDEA precluded Section
+1983 claims based on the Equal Protection Clause because Congress
+intended IDEA to be the “vehicle for protecting the
+constitutional right of a handicapped child to a public
+education.” Smith v. Robinson, 468 U.S. 992, 1013 (1984).5/
+
+         More generally, Congress' determination that discrimination
+against children with disabilities was a constitutionally
+cognizable problem was consistent with the Supreme Court's
+decision in City of Cleburne v. Cleburne Living Center, 473 U.S.
+432 (1985), in which the Court unanimously declared
+unconstitutional as invidious discrimination a decision by a city
+to deny a special use permit for the operation of a group home
+for people with mental retardation. A majority of the Court
+recognized that “through ignorance and prejudice [persons with
+disabilities] 'have been subjected to a history of unfair and
+often grotesque mistreatment.'” 473 U.S. at 454 (Stevens, J.,
+concurring); see id. at 461 (Marshall, J., concurring in the
+judgment in part). The Court acknowledged that “irrational
+prejudice,” id. at 450, “irrational fears,” id. at 455 (Stevens,
+
+5/ Congress later amended IDEA to permit Section 1983 claims
+because it did not intend for IDEA to be the exclusive remedy for
+Equal Protection violations. See 20 U.S.C. 1415(l); Marie O.,
+131 F.3d at 621-622.
+                                                     - 25 -
+J.), and “impermissible assumptions or outmoded and perhaps
+invidious stereotypes,” id. at 465 (Marshall, J.), existed
+against people with disabilities in society at large and
+sometimes inappropriately infected government decision making.
+
+         While a majority of the Court declined to deem
+classifications based on disability as suspect or “quasi-
+suspect,” it elected not to do so, in part, because it would
+unduly limit legislative solutions to problems faced by the
+disabled. The Court “underscored Congress's principal
+institutional competence in making decisions concerning the
+disabled's legal treatment,” Autio, 1998 WL 162138, at *4, by
+acknowledging that “[h]ow this large and diversified group is to
+be treated under the law is a difficult and often technical
+matter, very much a task for legislators guided by qualified
+professionals.” Cleburne, 473 U.S. at 442-443. It specifically
+noted with approval legislation such as IDEA, which aimed at
+opening up education to children with disabilities, and openly
+worried that requiring governmental entities to justify their
+efforts under heightened scrutiny might “lead [governmental
+entities] to refrain from acting at all.” Id. at 444.
+
+         Nevertheless, it did affirm that “there have been and there
+will continue to be instances of discrimination against the
+retarded that are in fact invidious, and that are properly
+subject to judicial correction under constitutional norms,” id.
+at 446, and found the actions at issue in that case
+unconstitutional. In doing so, it articulated several criteria
+                                                     - 26 -
+for making such determinations in cases involving disabilities.
+First, the Court held that the fact that persons with mental
+retardation were “indeed different from others” did not preclude
+a claim that they were denied equal protection; instead, it had
+to be shown that the difference was relevant to the “legitimate
+interests” furthered by the rules. Id. at 448. Second, in
+measuring the government's interest, the Court did not examine
+all conceivable rationales for the differential treatment of the
+mentally retarded; instead, it looked to the record and found
+that “the record [did] not reveal any rational basis” for the
+decision to deny a special use permit. Ibid.; see also id. at
+450 (stating that “this record does not clarify how * * * the
+characteristics of [people with mental retardation] rationally
+justify denying” to them what would be permitted to others).
+Third, the Court found that “mere negative attitudes, or fear,
+unsubstantiated by factors which are properly cognizable * * *
+are not permissible bases” for imposing special restrictions on
+persons with disabilities. Id. at 448. Thus, the Equal
+Protection Clause of its own force already proscribes excluding
+persons with disabilities when the government has not put forward
+evidence justifying the difference or where the justification is
+based on mere negative attitudes.6/
+
+6/ Contrary to defendants' suggestion (Br. 8-9), neither the
+prohibitions of the Equal Protection Clause nor Congress' Section
+5 authority is limited to suspect classifications. The Court in
+Cleburne made clear that government discrimination on the basis
+of disability is prohibited by the Equal Protection Clause when
+it is arbitrary. Although a majority declined to deem
+
+                                                                                            (continued...)
+                                                     - 27 -
+
+         The Supreme Court has also recognized that the principle of
+
+equality is not an empty formalism divorced from the realities of
+
+day-to-day life, and thus the Equal Protection Clause is not
+
+limited to prohibiting unequal treatment of similarly situated
+
+persons. The Equal Protection Clause also guarantees “that
+
+people of different circumstances will not be treated as if they
+
+were the same.” United States v. Horton, 601 F.2d 319, 324 (7th
+
+Cir.), cert. denied, 444 U.S. 937 (1979) (quoting Ronald D.
+
+Rotunda & John E. Nowak, Treatise on Constitutional Law 520
+
+(1978)). By definition, children with disabilities have a
+
+physical or mental impairment that substantially limits some of
+
+their abilities. 20 U.S.C. 1401(3)(A). Thus, as to some life
+
+activities, “the handicapped typically are not similarly situated
+
+to the nonhandicapped.” Alexander v. Choate, 469 U.S. 287, 298
+
+(1985). The Constitution is not blind to this reality and
+
+instead, in certain circumstances, requires more than simply
+
+identical treatment. While it is true that the “'Constitution
+
+does not require things which are different in fact or opinion to
+
+be treated in law as though they were the same,'” Plyler v. Doe,
+
+6/(...continued)
+classifications on the basis of mental retardation as “quasi-
+suspect,” it held that this did not leave persons with such
+disabilities “unprotected from invidious discrimination.” 473
+U.S. at 446. This Court in Autio reaffirmed that “[i]nvidious
+discrimination by governmental agencies . . . violates the equal
+protection clause even if the discrimination is not racial,
+though racial discrimination was the original focus of the
+clause. In creating a remedy against such discrimination,
+Congress was acting well within its powers under section 5
+* * *.” 1998 WL 162138, at *4 (quoting Crawford v. Indiana Dep't
+of Corrections, 115 F.3d 481, 487 (7th Cir. 1997)).
+                                                     - 28 -
+
+457 U.S. 202, 216 (1982), it is also true that “[s]ometimes the
+
+grossest discrimination can lie in treating things that are
+
+different as though they were exactly alike.” Jenness v.
+
+Fortson, 403 U.S. 431, 442 (1971).7/
+
+         Thus, as this Court recognized in Autio, there is a basis in
+
+constitutional law for recognition that discrimination exists not
+
+only by treating people with disabilities differently for no
+
+legitimate reason, but also by treating them identically when
+
+they have recognizable differences. As the Sixth Circuit has
+
+explained in a case involving gender classifications, “in order
+
+to measure equal opportunity, present relevant differences cannot
+
+be ignored. When males and females are not in fact similarly
+
+situated and when the law is blind to those differences, there
+
+7/ In a series of Supreme Court cases beginning with Griffin v.
+Illinois, 351 U.S. 12 (1956), and culminating in M.L.B. v.
+S.L.J., 117 S. Ct. 555 (1996), the Court has held that principles
+of equality are sometimes violated by treating unlike persons
+alike. In these cases, the Supreme Court has held that a State
+violates the Equal Protection Clause in treating indigent parties
+appealing from certain court proceedings as if they were not
+indigent. Central to these holdings is the acknowledgment that
+“a law nondiscriminatory on its face may be grossly
+discriminatory in its operation.” 117 S. Ct. at 569 (quoting
+Griffin, 351 U.S. at 17 n.11). The Court held in these cases
+that even though States are applying a facially neutral policy by
+charging all litigants equal fees for an appeal, the Equal
+Protection Clause requires States to waive such fees in order to
+ensure equal “access” to appeal. Id. at 560. Nor is it
+sufficient if a State permits an indigent person to appeal
+without charge, but does not provide free trial transcripts. The
+Court has declared that the State cannot “extend to such indigent
+defendants merely a 'meaningless ritual' while others in better
+economic circumstances have a 'meaningful appeal.'” Id. at 569
+n.16 (quoting Ross v. Moffitt, 417 U.S. 600, 612 (1974)); see
+also Lewis v. Casey, 116 S. Ct. 2174, 2182 (1996) (holding that
+State has not met its obligation to provide illiterate prisoners
+access to courts simply by providing a law library).
+                                                     - 29 -
+may be as much a denial of equality as when a difference is
+created which does not exist.” Yellow Springs Exempted Village
+Sch. Dist. Bd. of Educ. v. Ohio High Sch. Athletic Ass'n, 647
+F.2d 651, 657 (6th Cir. 1981); see also Lau v. Nichols, 483 F.2d
+791, 806 (9th Cir. 1973) (Hufstedler, J., dissenting from the
+denial of reh'g en banc), rev'd, 414 U.S. 563 (1974). Similarly,
+“'legislation . . . singling out the [disabled] for special
+treatment reflects the real and undeniable differences between
+the [disabled] and others,' thereby allowing the disabled equal
+protection from 'invidious discrimination.'” Autio, 1998 WL
+162138, at *4 (quoting Cleburne, 473 U.S. at 442-447).
+
+         IDEA thus falls neatly in line with other statutes that have
+been upheld as valid Section 5 legislation. For when there is
+evidence of a history of extensive discrimination, as here,
+Congress may prohibit or require modifications of rules, policies
+and practices that tend to have an exclusionary effect on a class
+or individual, regardless of the intent behind those actions. In
+South Carolina v. Katzenbach, 383 U.S. 301, 325-337 (1966), and
+again in City of Rome v. United States, 446 U.S. 156, 177 (1980),
+both cited with approval in City of Boerne, the Supreme Court
+upheld the constitutionality of Section 5 of the Voting Rights
+Act, 42 U.S.C. 1973c, which prohibits covered jurisdictions from
+implementing any electoral change that is discriminatory in
+effect. See also City of Boerne, 117 S. Ct. at 2169 (agreeing
+that “Congress can prohibit laws with discriminatory effects in
+order to prevent racial discrimination in violation of the Equal
+                                                     - 30 -
+
+Protection Clause”); United States v. City of Black Jack, 508
+
+F.2d 1179, 1184-1185 (8th Cir. 1974) (stating that the
+
+discriminatory effects standard of the Fair Housing Act is a
+
+valid exercise of Congress' power under enforcement provision of
+Thirteenth Amendment), cert. denied, 422 U.S. 1042 (1975).8/
+
+         Not surprisingly, every court to consider the question is in
+
+agreement with the district court here that Congress' enactment
+
+of IDEA is “appropriate legislation” to enforce the Fourteenth
+
+Amendment. See David D. v. Dartmouth Sch. Comm., 775 F.2d 411,
+
+421-422 (1st Cir. 1985), cert. denied, 475 U.S. 1140 (1986);
+
+Crawford v. Pittman, 708 F.2d 1028, 1037-1038 (5th Cir. 1983);
+
+Mitten v. Muscogee County Sch. Dist., 877 F.2d 932, 937 (11th
+
+Cir. 1989), cert. denied, 493 U.S. 1072 (1990); Counsel v. Dow,
+
+849 F.2d 731, 737 (2d Cir.), cert. denied, 488 U.S. 955 (1988)
+
+(so holding and collecting older cases); Peter v. Johnson, 958 F.
+
+Supp. 1383, 1394 (D. Minn. 1997); Emma C. v. Eastin, 985 F. Supp.
+
+940, 947 (N.D. Cal. 1997). Although some of these decisions pre-
+
+date City of Boerne, for the reasons discussed above they remain
+
+good law.
+
+8/ The defendants also appear to argue (Br. 11) that whatever
+the relation between the substantive provisions of IDEA and the
+Equal Protection Clause, the procedural requirements addressed in
+plaintiffs' summary judgment motion have no constitutional
+foundation. But Congress understood the procedural protections
+of IDEA to be critical to determine properly the appropriate
+education for each individual child with a disability. See
+Rowley, 458 U.S. at 205-206; Smith, 468 U.S. at 1011. Indeed,
+the federal court cases that were the impetus for IDEA also
+stressed the importance of timely and adequate procedures in
+assuring that each student receive an appropriate education. See
+Rowley, 458 U.S. at 193-194 nn.16 & 18.
+                                                     - 31 -
+
+                                                  CONCLUSION
+
+         The district court had jurisdiction over the plaintiffs'
+
+IDEA claims.
+
+                                                      Respectfully submitted,
+
+                                                      BILL LANN LEE
+                                                          Acting Assistant Attorney General
+
+                                                      JESSICA DUNSAY SILVER
+                                                      SETH M. GALANTER
+
+                                                          Attorneys
+                                                          Department of Justice
+                                                          P.O. Box 66078
+                                                          Washington, D.C. 20035-6078
+                                                          (202) 307-9994
+                                       CERTIFICATE OF SERVICE
+         I hereby certify that on April 16, 1998, two copies of the
+foregoing Brief for the United States as Intervenor were served
+by first-class mail, postage prepaid, on the following counsel:
+
+Luther Oneal Sutter
+Harril & Sutter
+P.O. Box 26321
+11510 Fairview Road, Suite 200
+Little Rock, AR 72221
+
+W. Paul Blume    72202-3631
+808 King Drive
+Little Rock, AR
+
+Tim Humphries
+Senior Assistant Attorney General
+323 Center Street, Suite 200
+Little Rock, AR 72201-2610
+
+Thomas K. Gilhool
+Public Interest Law Center of Philadelphia
+125 South Ninth Street
+Philadelphia, PA 19107
+
+                 SETH M. GALANTER
+                    Attorney
+                    Department of Justice
+                    P.O. Box 66078
+                    Washington, D.C. 20035-6078
+                    (202) 307-9994
+              SUMMARY OF THE CASE AND REQUEST FOR ORAL ARGUMENT
+         This appeal involves the jurisdiction of the federal courts
+to adjudicate claims against States for violations of the
+Individuals with Disabilities Education Act. If this Court
+determines that oral argument would be proper in this case, the
+United States believes that its presence would be appropriate.
+See 28 U.S.C. 2403(a).
+

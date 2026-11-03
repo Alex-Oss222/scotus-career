@@ -1,0 +1,184 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 1558,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:99-478 OR text:99-478 OR text__reviews:99-478) OR (text:Apprendi OR text:Apprendi OR text__reviews:Apprendi))",
+      "qin": "collection:us-supreme-court AND (99-478 OR Apprendi)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 41,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385012_0182",
+        "title": "Davis v. Bandemer, 478 U.S. 109 (1986) (No. 84-1244)"
+      },
+      {
+        "identifier": "micro_IA40385012_1239",
+        "title": "Tulsa Professional Collection Services, Inc. v. Pope, 485 U.S. 478 (1988) (No. 86-1961)"
+      },
+      {
+        "identifier": "micro_IA40385016_0029",
+        "title": "United States v. Booker, 543 U.S. 220 (2004) (No. 04-104)"
+      },
+      {
+        "identifier": "micro_IA40385017_1487",
+        "title": "Garcia v. United States, 531 U.S. 1062 (2001) (No. 00-463)"
+      },
+      {
+        "identifier": "micro_IA40385018_1882",
+        "title": "Jackson v. Pepsi-Cola Bottlers of Toledo, Inc., 478 U.S. 1006 (1986) (No. 85-1858)"
+      },
+      {
+        "identifier": "micro_IA40385017_1490",
+        "title": "Steyskal v. United States, 531 U.S. 1109 (2001) (No. 00-550)"
+      },
+      {
+        "identifier": "micro_IA40385014_0521",
+        "title": "United States v. Cotton, 535 U.S. 625 (2002) (No. 01-687)"
+      },
+      {
+        "identifier": "micro_IA40385014_0660",
+        "title": "Blakely v. Washington, 542 U.S. 296 (2004) (No. 02-1632)"
+      },
+      {
+        "identifier": "micro_IA40385017_1477",
+        "title": "Whitt v. United States, 531 U.S. 975 (2000) (No. 00-183)"
+      },
+      {
+        "identifier": "micro_IA43085015_0496",
+        "title": "United States v. O\u2019Brien, 560 U.S. 218 (2010) (No. 08-1569)"
+      },
+      {
+        "identifier": "micro_IA40386408_0096",
+        "title": "General American Investors Co. v. Commissioner, 348 U.S. 434 (1955) (No. 114)"
+      },
+      {
+        "identifier": "micro_IA40385018_1869",
+        "title": "Rettig v. Kent City School District, 478 U.S. 1005 (1986) (No. 85-1843)"
+      },
+      {
+        "identifier": "micro_IA40385016_0246",
+        "title": "Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007) (No. 05-1126)"
+      },
+      {
+        "identifier": "micro_IA40385017_1478",
+        "title": "Hughes v. United States, 531 U.S. 975 (2000) (No. 00-192)"
+      },
+      {
+        "identifier": "micro_IA40385017_1483",
+        "title": "Turnbull v. United States, 531 U.S. 1033 (2000) (No. 00-345)"
+      },
+      {
+        "identifier": "micro_IA40386014_0891",
+        "title": "Rennert v. United States, 529 U.S. 1131 (2000) (No. 99-1661)"
+      },
+      {
+        "identifier": "micro_IA40385016_0267",
+        "title": "Cunningham v. California, 549 U.S. 270 (2007) (No. 05-6551)"
+      },
+      {
+        "identifier": "micro_IA40385016_0203",
+        "title": "Washington v. Recuenco, 548 U.S. 212 (2006) (No. 05-83)"
+      },
+      {
+        "identifier": "micro_IA40385005_0896",
+        "title": "Japan Line, Ltd. v. County of Los Angeles, 441 U.S. 434 (1979) (No. 77-1378)"
+      },
+      {
+        "identifier": "micro_IA40386004_1520",
+        "title": "Asam v. Alabama State Bar, 519 U.S. 982 (1996) (No. 96-478)"
+      },
+      {
+        "identifier": "micro_IA40385014_0086",
+        "title": "Almendarez-Torres v. United States, 523 U.S. 224 (1998) (No. 96-6839)"
+      },
+      {
+        "identifier": "micro_IA40385016_0182",
+        "title": "United States v. Booker, 543 U.S. 220 (2004) (No. 04-104)"
+      },
+      {
+        "identifier": "micro_IA40385015_0133",
+        "title": "Oregon v. Ice, 555 U.S. 160 (2009) (No. 07-901)"
+      },
+      {
+        "identifier": "micro_IA40385014_0571",
+        "title": "Sattazahn v. Pennsylvania, 537 U.S. 101 (2003) (No. 01-7574)"
+      },
+      {
+        "identifier": "micro_IA40385015_0061",
+        "title": "Oregon v. Ice, 555 U.S. 160 (2009) (No. 07-901)"
+      },
+      {
+        "identifier": "micro_IA40385018_1865",
+        "title": "Block v. Meese, 478 U.S. 1021 (1986) (No. 85-1837)"
+      },
+      {
+        "identifier": "micro_IA40386008_1615",
+        "title": "Donner v. Donner, 525 U.S. 1002 (1998) (No. 98-478)"
+      },
+      {
+        "identifier": "micro_IA40385015_0725",
+        "title": "Southern Union Co. v. United States, 567 U.S. 343 (2012) (No. 11-94)"
+      },
+      {
+        "identifier": "micro_IA40385017_1500",
+        "title": "Ravelo v. United States, 532 U.S. 955 (2001) (No. 00-965)"
+      },
+      {
+        "identifier": "micro_IA40385014_0507",
+        "title": "Ring v. Arizona, 536 U.S. 584, (2002) (No. 01-488)"
+      },
+      {
+        "identifier": "micro_IA40385016_0416",
+        "title": "Cunningham v. California, 549 U.S. 270 (2007) (No. 05-6551)"
+      },
+      {
+        "identifier": "micro_IA40385015_0212",
+        "title": "Travelers Indemnity Co. v. Bailey, 557 U.S. 137 (2009) (No. 08-295)"
+      },
+      {
+        "identifier": "micro_IA40386015_0474",
+        "title": "NPC Services, Inc. v. MSOF Corp., 537 U.S. 1046 (2002) (No. 02-478)"
+      },
+      {
+        "identifier": "micro_IA40385014_0714",
+        "title": "Schriro v. Summerlin, 542 U.S. 348 (2004) (No. 03-526)"
+      },
+      {
+        "identifier": "micro_IA40385017_1482",
+        "title": "Robinson v. United States, 531 U.S. 1005 (2000) (No. 00-287)"
+      },
+      {
+        "identifier": "micro_IA40385018_1371",
+        "title": "Baker v. Wade, 478 U.S. 1022 (1986) (No. 85-1225)"
+      },
+      {
+        "identifier": "micro_IA40385051_0804",
+        "title": "Alleyne v. United States, 570 U.S. 99 (2013) (No. 11-9335)"
+      },
+      {
+        "identifier": "micro_IA40385012_0567",
+        "title": "Walton v. Arizona, 497 U.S. 639 (1990) (No. 88-7351)"
+      },
+      {
+        "identifier": "micro_IA40385014_0338",
+        "title": "Apprendi v. New Jersey, 530 U.S. 466 (2000) (No. 99-478)"
+      },
+      {
+        "identifier": "micro_IA40385014_0487",
+        "title": "Harris v. United States, 536 U.S. 545 (2002) (No. 00-10666)"
+      },
+      {
+        "identifier": "micro_IA40385018_0768",
+        "title": "Par Pharmaceutical, Inc. v. Merck & Co., 474 U.S. 981 (1985) (No. 85-478)"
+      }
+    ]
+  }
+}

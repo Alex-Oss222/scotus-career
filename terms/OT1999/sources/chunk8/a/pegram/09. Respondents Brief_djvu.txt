@@ -1,0 +1,2432 @@
+’ 
+— 
+
+
+No. 98-1949 
+
+
+2 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+LORI PEGRAM, M.D., CARLE CLINIC ASSOCIATION 
+and HEALTH ALLIANCE MEDICAL PLANS, INC., 
+
+
+Petitioners, 
+v. 
+CYNTHIA HERDRICH, 
+
+
+Respondent. 
+
+
+On Wait oF CERTIORARI TO THE 
+Unirep STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT 
+
+
+— —_—__— ——_ —_——_———— 
+- = —_—_—_— 
+
+
+BRIEF FOR RESPONDENT 
+
+
+_—_—_ 
+
+
+JAMES P. GINZKEY 
+Counsel of Record 
+Hayes, HAMMER, MILEs, 
+Cox & GINZKEY 
+Attorneys for Respondent 
+202 North Center Street 
+Bloomington, Illinois 61701 
+(309) 828-7331 
+
+
+156875 @ Counsel Press LLC 
+(800) 274-3321 + (800) 359-6859 
+
+
+BEST AVAILABLE COPY 
+
+
+i 
+
+
+QUESTION PRESENTED 
+
+
+Whether a non-sponsor fiduciary may design and 
+administer an ERISA benefit plan so as to increase its profits 
+to the detriment of the plan participants. 
+
+
+il 
+PARTIES TO THE PROCEEDING 
+
+
+Carle Clinic Association, P.C. is an Illinois professional 
+corporation comprised of licensed physicians, dentists 
+and podiatrists. Health Alliance Medical Plans, Inc. is a for- 
+profit Illinois domestic stock insurance company and is a 
+wholly-owned subsidiary of Carle Clinic Association, P.C. 
+(Resp. app. 42a). Carle Health Insurance Management 
+Company is a for-profit Illinois corporation and is a wholly- 
+owned subsidiary of Carle Clinic Association, P.C. 
+(Resp. app. 42a). 
+
+
+These three entities file a consolidated income tax return. 
+(Resp. app. 44a). Pursuant to Article III, Section 2 of Health 
+Alliance’s corporate by-laws, an appointment to the Board 
+of Governors of Carle Clinic Association, P.C. results in an 
+automatic appointment to the Board of Directors of Health 
+Alliance. (Resp. app. 45a). 
+
+
+Neither Dr. Pegram, nor any other individual physician, 
+is a party defendant in Amended Count III. (Pet. app. 83a). 
+
+
+ill 
+
+
+TABLE OF CONTENTS 
+
+
+EEE ee 
+Parties to the Proceeding ...............00005: 
+eee eee p eee eeésocccoceess 
+Table of Cited Authorities ...........eccceeees 
+i ch icencascocoosecccecces< 
+EE 
+EES ESSE ESE POET E TELE LETTE 
+
+
+I. A Non-Sponsor Fiduciary May Not Design 
+And Administer An ERISA Benefit Plan So 
+As To Increase Its Profit To The Detriment 
+dc ccccencescccceces 
+
+
+A. Petitioners Function as ERISA 
+Fiduciaries When Designing and 
+Administering a Welfare Benefit Plan 
+
+
+B. Non-Sponsor Fiduciaries Cannot 
+Operate in Dual Capacity ........... 
+
+
+Il. Structural Conflicts Are Actionable Under 
+Section 406 “Per Se” Prohibitions, Whether 
+ew cee 
+
+
+17 
+
+
+17 
+
+
+25 
+
+
+29 
+
+
+iv 
+
+
+Contents 
+Page 
+III. ERISA’s Fiduciary Duties Are Based On The 
+Common Law Duty Of Loyalty. ......... 40 
+CEE, .. cnccccccessesstdecccsdabeseceest 43 
+
+
+Vv 
+
+
+TABLE OF CITED AUTHORITIES 
+Page 
+
+
+Cases: 
+Buck v. Quykendall, 267 U.S. 307 (1925) ........ 27 
+
+
+Central States, S.E. & S.W. Areas Pension Fund v. 
+Central Transport, Inc., 472 U.S. 559 (1985) ..40, 41 
+
+
+Cigna Property and Casualty Ins., Co. v. Polaroid 
+
+
+Pictures Ass'n., 159 F.3d 412 (9th Cir., 1998) .. 27 
+Cleveland v. Policy Management Systems 
+
+Corporation, et al., 526 U.S. 795 (1999) ...... 26 
+Conley v. Gibson, 355 U.S. 41 (1957) ........... 30 
+
+
+Continental Illinois Corp. v. C.1.R., 998 F.2d 513 
+Ss SEE. 0sbdwdeesndcccesecebevacess 27 
+
+
+Cooke v. Lynn Sand & Stone Co., 673 F. Supp. 14 
+ie Ss CE neavectbecancsceddeuséeduse 28 
+
+
+Corcoran v. United Healthcare, Inc., 965 F.2d 1321 
+(Sth Cir.), cert. denied, 506 U.S. 1033 (1992) .. 21 
+
+
+Dasler v. E.F. Hutton & Co., Inc., 694 F. Supp. 624 
+Ss CED conucsesdesuedaudacesudees 41 
+
+
+Dexsil Corporation v. Commissioner of Internal 
+Revenue, 147 F.3d 96 (2nd Cir., 1998) ........ 38 
+
+
+vi 
+Cited Authorities 
+
+Page 
+
+District 65, United Auto Workers v. Harper & Row 
+
+Publishers, Inc., 670 F. Supp. 550 (S.D.N.Y.., 
+Se 00065366eb be bdeeuaens bee Gaeeeecuees 28 
+
+Doe v. Group Hosp. & Med. Servs., 3 F.3d 80 
+Sete BENE becticscndcuneaseeuectandeds 21 
+
+Donovan v. Bierwirth, 680 F.2d 263 (2nd Cir.), 
+cert. denied, 459 U.S. 1069 (1982) ........... 39, 40 
+
+Donovan v. Daugherty, 550 F. Supp. 390 (S.D. Ala., 
+ED ¥kb0NdaSAS RAS eeeedesacEndéeneexiwas 38 
+
+Florence Nightingale Nursing Serv. v. Blue Cross/ 
+
+Blue Shield of Ala., 41 F.3d 1476 (11th Cir., 1995) 
+cneweakdbnucséed ccadeeensbsviustecenesos 20 
+
+FMC Corporation v. Heliday, 498 U.S. 52 (1990) 
+scashadbencesdeeaanducuetendseuasisiucue 3 
+
+Gilliam v. Edwards, 492 F. Supp. 1255 (D.C.N.J.) 
+édudepudedadsdesvencecetadntéAdedesveuees 38 
+
+
+Hishon v. King & Spaulding, 467 U.S. 69 (1984) . 30 
+
+
+Huffman, et al. v. Pursue, Ltd., 420 U.S. 592 (1975) 
+
+
+Hughes Aircraft Co. v. Jacobson, 119 S. Ct. 755 
+ee cccédvuecnnceesenasinesedeuddnaiens 26 
+
+
+vu 
+
+
+Cited Authorities 
+
+
+Lancaster v. Kaiser Foundation Health Plan of the 
+Mid-Atlantic States, 958 F. Supp. 1137 (E.D. Va., 
+SUD ne KKGevbcbcncéeasiacdsecceedaweusss 
+PEED cht Gddvecccusecddceeeceségeeetee de 
+
+Lockheed Corp. v. Spink, 517 U.S. 882 (1996) .... 
+
+Lowen v. Tower Asset Management, Inc., 653 
+F. Supp. 1542 (S.D.N.Y.), aff'd., 829 F.2d 1209 
+Gn SHED cccnevccntoccavecuecceseves 
+
+Lydon v. Boston Sand & Gravel, 175 F.3d 6 (1st Cir., 
+SEE . doh esdedaccdusccddsédcdccccescactes 
+
+
+SOUED cvvcccccecececcossceseesoeceseeuesss 
+
+
+eeeseeveevneeoeeeeveeeeeeeeeeveeeseeveeeeeveeeeeeneene e822 8 
+
+
+Massachusetts Mutual Life Ins., Co. v. Russell, 
+S73 UD. USS (IGE) 2. cccccccsccccsesesese: 
+
+
+McLain v. Real Estate Bd. of New Orleans, Inc., 
+GOULD, FIR CIGD ccccccccsccccccccccseces 
+
+
+Mertens v. Hewitt Associates, 508 U.S. 248 (1993) 
+
+
+Page 
+
+
+29 
+
+
+27 
+
+
+26 
+
+
+22 
+
+
+28 
+
+
+38 
+
+
+38 
+
+
+41 
+
+
+vil 
+
+
+Cited Authorities 
+Page 
+NLRB vy. Amax Coal Co., 453 U.S. 322 (1981) .... 4) 
+
+
+N.Y. Conference of Blue Cross & Blue Shield Plans 
+
+
+v. Traveler's Ins., 514 U.S. 645 (1995) ........ 18, 26 
+Oneida Motor Freight, Inc. v. New Jersey Bank, 
+848 F.2d 414 (3rd Cir., 1988) ............... 28 
+Pacificare v. Martin, 34 F. 3d 834 (9th Cir.,1994) 
+:eeushenetadedeuseuesusuusaceseensasases 20 
+Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41 (1987) 
+POP ee re eee TET OTe Ty Per 34 
+Reilly v. Blue Cross & Blue Shield United of Wis., 
+846 F.2d 416 (7th Cir., 1988) ................ 21 
+Sinclair v. Kleindienst, 711 F.2d 291 (D.C. Cir., 
+SD. puacundeddeneccuwunebeeaasaeedaness 30 
+Teledyne Industries, Inc. v. N.L.R.B.,911 F.2d 1214 
+Si EE, 6000eedece6ncneenenesuaensi 27,2 
+UNUM Life Ins. Co. v. Ward, 119 §. Ct. 1380 (1999) 
+Rr ee ee 34 
+Varity Corp. v. Howe, 516 U.S. 489 (1996) ...... 
+PTT CTT eC TT ee 18, 25, 34, 40 
+Waller v. Blue Cross of California, 32 F.3d 1339 
+Ss SUE -éckcueuedeceducetteaucuntes 28 
+
+
+ix 
+Cited Authorities 
+Page 
+Statutes: 
+Omnibus Budget Reconciliation Act of 1990, Section 
+SGD wascbevecdcceccetuscessesusseens 13 
+Social Security Act, § 1876(i) ............00065 13 
+EN EE occa unerescosesevecssceneceess 33 
+EE EY in cicedecewcesunedsenseenss 37 
+ae ok i erererrrer Tri rrr r tes 22 
+29 CPR § SSSOAGHIEMS) 2 nc cccccccccescnccces 36, 37 
+BG ED exccccecenccctedessssens 22 
+ie EE ys. PPPeTrrTerrerrrrrrir rt tte 14 
+Be Glee POUT 66 ce acctosedcoeddevccssesess 5 
+Be es OF EEE Si ccvcccccasesecdecccuces 18 
+BP Us © FUUMED ch ciccecvccvescessusscess 3, 18 
+BO UB. B OGROGD ciccccseveccccccccessces 33 
+2D USC. GB UGB IGSE 2 wer cccccccccscccsecs 18 
+29 U.S.C. BB 1GSUe1GS) 2. cc vcsccccveccccsens 18 
+
+
+x 
+Cited Authorities 
+
+Page 
+BP es Ee CORD eh sched nceccatscereess 18 
+PP BUD BK a6 coe ees aveduebiesteneesas 5 
+Se as Ot POPE acccncescuwievestnsees 18 
+ss Oe PI 660 006600084 000iencenssas 30 
+es ED 6:0 Vitus esedeescvennias 31, 42 
+29 U.S.C. § 1104(aX IMA) ..... ccc cee eceees .. 40 
+BP ee COED hed cc cckncetieess 29, 31, 33, 35, 36 
+ee ee 32 
+BP eas BH PEED 6 hoe nvténeussncteencses 33 
+er as OF SOD 65-0002 6 090s enketbenecsseces 32 
+ees UE 6. 664b6 4 c0n ce wensinedacene an 31, 37 
+er as Oe So 066 00d v8eheenedeeedbasees 35 
+BP Ws DROUIN ccc ccceccescescessceses 36, 38 
+er as OS COED cd nndanccanccpeddadenens 25 
+ee Ot 5.664 ee 00h 54 00054eeesunncs 4] 
+
+
+xi 
+
+
+Cited Authorities 
+
+
+as 0 Kaw nc dn Canscescesecessunsee 
+815 ILCS 505/1, et seq. ..... ids tieeenehes eee 
+Rules: 
+
+i Se ei tee dcdeeadedse eee es 
+abit sabes eududesacwsewas 
+. 5 AR PRP TTT TET T TTT TCE Te ere 
+es ee ED sc aeeeceudeeeneeseee 
+Other Authorities: 
+
+120 Cong. Rec. 3977, 3983 (Februrary 25, 1974) 
+
+
+reprinted, 2 Legislative History of the Employee 
+Retirement Income Security Act of 1974 at 3293 
+
+
+AMA, Ethical Opinion 8.132 (Referral of Patients: 
+Disclosure of Limitations) (June 1994) ........ 
+
+
+AMA Council on Ethical and Judicial Affairs, 
+“Ethics and Managed Care,” 273 JAMA no. 4 
+Dc cece ckuvuebe caked abues 06anen ss 
+
+
+Page 
+
+
+xi 
+
+
+Cited Authorities 
+
+
+Annot., “Dual Loyalty Considerations in 
+Determining Propriety Under Employee 
+Retirement Income Security Act (29 U.S.C. 
+§§1001 et. seq.), of Actions of Officers of Sponsor 
+Corporations Serving as Trustees of Employment 
+Pension Plans,” 64 ALR Fed. 602 (Lawyer’s 
+Ss SEE hn0csiddasnsseetudssersceatins 
+
+
+Cantor, “Fiduciary Liability in Emerging Health 
+
+
+Page 
+
+
+Care,” DePaul Bus. L.J., 189, 190 (1997) ...20, 21, 40 
+
+
+“Defining Full and Fair Disclosure in Managed Care 
+Contracts,” 60 The Citation, no. 6 (AMA, 1990) 
+
+
+SE eeVeeeeee@weesg eee seeeCce@ee@e &2eee eee © eee es Se 6 Se 
+
+
+Essentials of Managed Health Care, 2nd ed., 
+(ch. 23, Rating & Underwriting) (Aspen, 1997) 
+
+
+Fischel and Langbein, “ERISA’s Fundamental 
+Contradiction: The Exclusive Benefit Rule,” 
+55 Univ. Chi. L. Rev. 1105 (1988) ........... 
+
+
+GAO/HRD-86-103, “Medicare: Physician Incentive 
+Payments by Hospita!s Could Lead to Abuse” 
+
+
+GAO\HDR-89-29 “Medicare: HMO Physician 
+PE ccvscesqunesendasteeucaeséus 
+
+
+13 
+
+
+13 
+
+
+xill 
+
+
+Cited Authorities 
+
+
+Grumbach, “Primary Care Physicians’ Experience 
+of Financial Incentives in Managed Care 
+Systems.” 339 N.E. J. Med. 1516 (1998) ...... 
+
+
+Havighurst, Health Care Choices: Private Contracts 
+as Instruments of Health Reform, 122 (1995) ... 
+
+
+H.R. Conf. Rep. No. 93-1280, p. 302, 3 Leg. Hist. 
+eres ey errr rrr pert 
+
+
+H.R. Rep. No. 93-533 (1973), 2 Legislative History 
+of the Employment Retirement Income Security 
+Act of 1974, Ser. No. 93-406 (1976) .......... 
+
+
+Klevan, “The Fiduciary’s Duty of Loyalty Under 
+ERISA Section 406(b)(1),” 23 Real Property, 
+Probate and Trust Journal, 561 (1988) ........ 
+
+
+Mechanic & Schlesinger, “Impact of Managed 
+Care on Patients’ Trust”, 275 JAMA no. 21 
+Pn sss dc awnnaneeséeenebeseas nees 
+
+
+Webster’s Ninth New Collegiate Dictionary 57 
+SD adkade sie chedsnenbhbetcceepiensuns 
+
+
+Page 
+
+
+16 
+
+
+13 
+
+
+40 
+
+
+40 
+
+
+33 
+
+
+14 
+
+
+18 
+
+
+-——_— 
+
+
+— — a 
+
+
+l 
+STATEMENT OF THE CASE 
+
+
+In March of 1991, respondent’s husband was employed by 
+State Farm Mutual Automobile Insurance Company (hereinafter 
+“State Farm”). (Pet. app. 84a). Through State Farm, Health 
+Alliance Medical Plans, Inc. (hereinafter “HAMP”) sold 
+respondent a subscription in CarleCare HMO, a pre-paid health 
+insurance plan. (hereinafter “the Plan”) (Pet. app. 84a). The 
+Joint Appendix includes the State Farm “Summary Plan 
+Description” (hereinafter “SPD”) for health benefits. State Farm 
+provides its employees with two health insurance options: 
+traditional group medical (section II of SPD) (Jt. app. 51) and 
+an HMO (section III of the SPD). (Jt. app. 101). 
+
+
+State Farm designed and administers the group medical 
+insurance program. (Pet. app. 85a). The SPD description of State 
+Farm’s group medical plan is both lengthy and detailed, running 
+from page 51 of the Joint Appendix to page 101. The HMO 
+benefits, on the other hand, are not designed and administered 
+by State Farm. (Pet. app. 85a). Section III (Health Maintenance 
+Organization) of the SPD is very abbreviated, only running from 
+page 101 of the SPD to page 104. Concerning the HMO option, 
+the State Farm SPD states: 
+
+
+Upon request, information will be provided to any 
+employee interested in the HMOs listed. Information 
+in the form of written materials concerning (a) the 
+nature of services provided to members; (b) 
+conditions pertaining to eligibility to receive such 
+services (other than general conditions pertaining 
+to eligibility for participating in the HMO) and 
+circumstances under which services may be denied; 
+(c) the procedures to be followed in obtaining such 
+services; and (d) the procedures available for the 
+
+
+2 
+
+
+review of claims for services which are denied in 
+whole or in part. 
+
+
+Requests for any of the information listed in the 
+above paragraph may be directed to the Plan 
+Administrator and the Plan Administrator will 
+forward all requests to the appropriate HMO 
+carrier. A brief summary of each HMO’s 
+benefits, grievance procedures and procedures 
+for submitting eligible expenses appears in the 
+appendix. 
+
+
+Although State Farm Mutual Automobile Insurance 
+Company is the Plan Administrator and Plan 
+Sponsor for the Group Medical Plan (including 
+HMO alternatives), any and all benefit 
+determinations will be made by each individual 
+HMO according to its operating procedures. 
+(Jt. app. 101, 102) 
+
+
+* * + 
+
+
+HEALTH MAINTENANCE 
+ORGANIZATION APPENDIX 
+
+
+THIS APPENDIX TO THE HMO SECTION IS 
+NOT MEANT TO BE ALL INCLUSIVE OF 
+“BENEFITS AND RESTRICTIONS PROVIDED 
+BY THE HMO.” FOR A SCHEDULE OF ALL 
+BENEFITS AND RESTRICTIONS, PLEASE 
+CONTACT THE PLAN ADMINISTRATOR AND 
+REQUEST ADDITIONAL INFOR-MATION. 
+THE HMO WILL BE ASKED TO SEND MORE 
+DETAILED INFORMATION TO YOU. 
+
+
+3 
+
+
+On the following pages we have tried to describe 
+the benefits available under the various HMO 
+options. This information has been obtained directly 
+from the HMO’s contract or HMO’s Representative. 
+If the following information contains any statements 
+that disagree with the HMO contract, then the HMO 
+contract shall govern. (emphasis in original) (Jt. app. 
+103, 104). 
+
+
+The Plan' sets forth a service schedule in section 6 
+(Pet. app. 102a) which specifies the services which respondent 
+is entitled to receive as a participant. Section 7 of the Plan 
+(Pet. app. | 1 1a) discloses the Plan limitations including the fact 
+that “[d}iagnostic and treatment services by non-CarleCare 
+Physicians are provided only when referred by the Primary Care 
+Physician.” (Pet. app. 111la). The Plan also states that 
+participants are limited to care that is medically necessary. 
+
+
+The determination of what is or is not medically necessary 
+is left to the judgment of the Carle physicians. Section 8.3 
+excludes “services or supplies which are not, in the judgment 
+of CarleCare Physicians, Medically Necessary for the medical 
+treatment or for the maintenance or improvement of the health 
+of the Members.” (Pet. app. 1 18a). Neither the State Farm SPD 
+nor the Carle Subscription Certificate contain any disclosures 
+
+
+1. In her amicus brief, the Secretary of Labor (hereinafter 
+“Secretary”) argues that the State Farm SPD is “the Plan.” This is a 
+distinction without a difference. As stated above, the State Farm SPD 
+defers to the HMO group subscription certificate. The definition of an 
+ERISA “welfare plan” (29 U.S.C. § 1002(1)) includes “ ‘any plan, fund, 
+or program’ maintained for the purpose of providing medical or other 
+health benefits for employees or their beneficiaries ‘through the purchase 
+of insurance or otherwise.’ ” Indeed this court refers to the health 
+certificate itself as “the Plan.” See FMC Corporation v. Holiday, 498 
+U.S. 52 (1990). 
+
+
+4 
+
+
+that Carle physicians have a financial incentive not to treat plan 
+members. Respondent was not advised that, in addition to the 
+specified Plan limitations to which respondent agreed, 
+respondent's treating physicians received bonuses or 
+“supplemental” income derived from the minimization of 
+diagnostic testing, minimization of referrals to specialists, and 
+minimization of use of non-network facilities. 
+
+
+In March of 1991, respondent’s primary care physician 
+discovered a 6 x 8 centimeter “mass” (later determined to be 
+her appendix) in respondent’s abdomen. 154 F.3d 362, 374. 
+Although the mass was inflamed on March 7, the primary care 
+physician delayed instituting immediate treatment of 
+respondent, and forced her to wait more than one week (eight 
+days) to obtain the accepted diagnostic procedure (ultrasound) 
+used to determine the nature, size and exact location of the mass. 
+Ideally, respondent should have had the ultrasound administered 
+with all speed after the inflamed mass was discovered in her 
+abdomen in order that her condition could be diagnosed and 
+treated before deteriorating as it did, but Carle’ policy requires 
+plan participants to receive medical care from Carle-staff 
+facilities. /d. Respondent was forced to wait the eight days before 
+undergoing the ultrasound at a Carle facility in Urbana, Illinois. 
+During this unnecessary waiting period, respondent’s health 
+problems were exacerbated and her appendix ruptured, resulting 
+in the onset of peritonitis. In an effort to defray the increased 
+costs associated with the surgery required to drain and cleanse 
+respondent’s ruptured appendix, Carle insisted that she have 
+the procedure performed at its own Urbana facility, necessitating 
+that respondent travel more than fifty miles from her 
+neighborhood hospital in Bloomington, Illinois. /d. 
+
+
+Respondent filed a two-count complaint in state court on 
+October 21, 1992. (Pet app. 3a). Count I alleged medical 
+
+
+5 
+
+
+negligence against the primary care physician for failing to 
+adequately examine, treat, and follow-up on respondent’s 
+complaint of right, lower quadrant pain. Respondent claimed 
+that the primary care physician’s failure to employ the skill and 
+care ordinarily used by a reasonably well-c’ ified physician 
+resulted in a ruptured appendix, which caused peritonitis. 
+Count II sought to hold Carle Clinic Association liable under 
+
+
+the theory of respondeat superior. Pegram and Carle Clinic filed 
+an Answer to the state court complaint on December 8, 1992. 
+
+
+(Resp. app. 6a). 
+
+
+Because it appeared that all the decisions as to respondent’s 
+treatment could be explained on the basis on a profit motive, 
+respondent filed an addendum to her state court complaint in 
+February 1994, adding Counts III and IV. Count III alleged 
+that Carle Clinic failed to disclose certain material facts 
+regarding the ownership of Health Alliance Medical Plan in 
+violation of the Illinois Consumer Fraud Act, 815 ILCS 505/1 
+et seq. Count IV charged Health Alliance breached its duty of 
+good faith and fair dealing. (Resp. app. 6a). 
+
+
+The petitioners filed a Notice of Removal on March 14, 
+1994, asserting that Counts III and IV were preempted by the 
+Employees Retirement Income Security Act (“ERISA”), 
+29 U.S.C. § 1101, and that the pendant state claims set forth in 
+Counts I and II were removable pursuant to 28 U.S.C. § 1367. 
+Respondent filed a Motion to Remand on April 8, 1994. 
+
+
+(Resp. app. 6a). 
+In opposition to the Motion to Remand, petitioners argued 
+that Counts III and IV related to the administration of a plan 
+
+
+and were thus preempted under ERISA. Specifically, petitioners 
+set forth a Synopsis of Relevant Facts which stated that 
+
+
+respondent was a participant and beneficiary in an employee 
+
+
+6 
+
+
+benefit plan (“the Plan”) provided to her through her husband’s 
+employer, State Farm Insurance Companies. Petitioner’s factual 
+synopsis also asserted that Health Alliance was the administrator 
+and fiduciary of the Plan. In their memorandum in opposition 
+to respondent’s motion to remand, petitioners stated: 
+
+
+The plaintiff, respondent, was a participant and 
+beneficiary in an employee benefit plan (“the Plan’”’) 
+provided to her by her husband’s employer, State 
+Farm Insurance Companies. Defendant, Health 
+Alliance Medical Plans, Inc. (“Health Alliance”) 
+was the administrator and fiduciary of the Plan 
+within the meaning of ERISA (29 U.S.C. Section 
+1001 et seq.) (Resp. app. 24a) (emphasis added) 
+
+
+* * * 
+
+
+In the case now before this Court, it is clear that the 
+plaintiff's claims relate to the Plan administered by 
+Health Alliance. The relationship between the 
+plaintiff and Health Alliance arose solely from the 
+Plan. But for the existence of the Plan, Cynthia 
+Herdrich’s participation in that Plan and Health 
+Alliance’s serving as administrator/fiduciary of 
+that Plan, there would be no relationship 
+whatsoever between Cynthia Herdrich and Health 
+Alliance and thus no lawsuit. (Resp. app. 36a) 
+(emphasis added) 
+
+
+Petitioners filed a motion for summary judgment as to 
+counts III and IV only. 154 F.3d 362, 366. The trial court granted 
+summary judgment against respondent on count IV “to the 
+extent (she) relies on § 502(a)(3)(b) (of ERISA) as a basis for 
+monetary relief as opposed to equitable relief’ and found that 
+
+
+——— 
+
+
+-_—_—— -— 
+
+
+- 
+
+
+that provision does not provide for extra-contractual damages. 
+Id. While the trial judge denied the petitioner’s summary 
+judgment motion as to count III, he did conclude ERISA 
+pre-empted that count, and granted respondent “leave to submit 
+and amended count III which clearly sets forth her basis for 
+proceeding under ERISA, including the applicable civil 
+enforcement provision.” /d. On September 1, 1995, respondent 
+filed her amended count III in accordance with the court’s 
+instructions. Thereafter, petitioners moved, pursuant to 
+Rule 12(b) of the Federal Rules of Civil Procedure, to dismiss 
+respondent’s amended count III for failure to state a claim upon 
+which relief could be granted. 154 F.3d 362, 367. 
+
+
+In dismissing respondent’s amended count III, the trial court 
+relied on petitioner’s representations that they were ERISA 
+fiduciaries, as reflected in the following findings of the trial 
+court: 
+
+
+In opposition to the Motion to Remand, Defendants 
+argued that Counts III and IV related to the 
+administration of a plan and were thus preempted 
+under ERISA. Specifically, Defendants set forth a 
+Synopsis of Relevant Facts which stated that 
+Herdrich was a participant and beneficiary in an 
+employee benefit plan (“the Plan”) provided to her 
+through her husband’s employer, State Farm 
+Insurance Companies. The factual synopsis also 
+asserted that Defendant Health Alliance was the 
+administrator and fiduciary of the Plan. Finally, 
+Defendant contended that as part of the Plan, Health 
+Alliance contracted with Carle Clinic to provide 
+medical care to Plan participants in accordance with 
+an agreed upon fee schedule. (Pet. app. 67a). 
+
+
+8 
+
+
+* * * 
+
+
+Defendants state, without reference to supporting 
+material, that Carle HMO acts as the fiduciary of 
+the Plan. However, the Defendants also frame the 
+issues contained in the Motion for Summary 
+Judgment as “whether an ERISA plan participant/ 
+beneficiary may sue an ERISA plan fiduciary under 
+Illinois common law and under the Illinois 
+Consumer Fraud Act, 815 ILCS 505/1, et seq., to 
+recover extra-contractual damages,” indicating that 
+Carle Clinic and Health Alliance function as 
+fiduciaries. This statement, taken in conjunction with 
+the prior representations made by Defendants, 
+indicates that there are three fiduciaries of the Plan: 
+Carle Clinic, Health Alliance, and Carle HMO. 
+(Pet. app. 69a). 
+
+
+Respondent’s malpractice counts went to trial in early 
+December, 1996, and the jury returned a verdict in respondent’s 
+favor, awarding her $35,000 in compensatory damages. Because 
+respondent’s ERISA count had been dismissed, the jury heard 
+no evidence concerning the fact that respondent’s physicians 
+had a financial incentive to minimize respondent’s treatment. 
+
+
+The Court of Appeals for the Seventh Circuit reversed the 
+trial court’s dismissal of respondent’s amended Count III. 
+154 F.3d 362. Because respondent’s allegations of medical 
+malpractice (dealing with the quality of care respondent 
+received) were resolved through trial, neither Dr. Pegram, nor 
+any other individual physician, is a party to this appeal. 
+Amended count III contains no allegations of medical 
+malpractice, nor does it contain any allegation of negligent 
+selection or supervision of physicians. There are no allegations 
+
+
+9 
+
+
+in amended count III implicating any individual clinical 
+decisions, nor are there any allegations in amended count III 
+implicating the health care that respondent received. Amended 
+count III does not allege that the providing of medical services 
+is a fiduciary function. 
+
+
+State Farm is not a party-defendant in amended count III. 
+State Farm did not design and administer the incentive scheme 
+alleged. (Pet. app. 85a). Rather, respondent specifically alleged 
+that Carle Clinic, through its wholly-owned subsidiaries, 
+designed and administered the incentive scheme. /d. In his 
+dissent to the denial of petitioners motion for rehearing en banc, 
+Justice Easterbrook acknowledges that petitioners, not State 
+Farm, designed and administered this incentive scheme, 
+referring to it as “Carle’s setup.” (Pet. app. 57a). 
+
+
+The only cost containment mechanism at issue in 
+respondent’s amended count III is the physician incentive to 
+withhold treatment. Pre-paid health plans, especially HMOs, 
+contain various cost-control mechanisms. See “Defining Full 
+and Fair Disclosure in Managed Care Contracts,” 60 The 
+Citation, no. 6 (AMA, 1990). Respondent’s amended count III 
+does not attack capitation arrangements, nor discounted fee 
+arrangements. It does not attack features that limit members to 
+HMO physicians or to HMO facilities. Amended count III does 
+not z.iack pre-certification, nor utilization review. Neither does 
+it attack the primary care physician’s role as “gatekeeper” of 
+HMO services. The sole focus of attention of amended count 
+III is the design and administration of an undisclosed physician 
+incentive to withhold treatment. 
+
+
+In his dissent, Justice Flaum characterized the majority 
+opinion as concluding that “the mere existence of this asserted 
+conflict without more, gives rise to a cause of action for breach 
+of fiduciary duty under ERISA.” 154 F.3d at 381. But the 
+majority stated: 
+
+
+10 
+
+
+That is not the conclusion we reach. Our decision 
+does not stand for the proposition that the existence 
+of incentives automatically gives rise to a breach of 
+fiduciary duty. Rather, we hold that incentives can 
+rise to the level of a breach where, as pleaded here, 
+the fiduciary trust between plan participants and plan 
+fiduciaries no longer exists (i.e, where physicians 
+delay providing necessary treatment to, or withhold 
+administering proper care to, plan beneficiaries for 
+the sole purpose of increasing their bonuses). 
+
+
+The dissent admittedly does “not rule out the 
+possibility that the imposition of incentives to 
+limit care could support a claim of breach of 
+fiduciary duty.” In its view, such aclaim might very 
+well be viable when “there is a serious flaw in the 
+manner in which the incentive arrangement is 
+established . . .” 
+
+
+Having said this, we fail to see how it can conclude 
+that Herdrich did not plead such a flaw in the 
+structure of the incentive program at issue. 
+
+
+* * * 
+
+
+Thus, Herdrich alleges a “serious flaw” that springs 
+from the authority of physician/owners of Carle to 
+simultaneously control the care of their patients and 
+reap the profits generated by the HMO through the 
+limited use of tests and referrals. Under the terms of 
+ERISA, Herdrich most certainly has raised the 
+specter that the self-dealing physician/owners in this 
+appeal were not acting “solely in the interest of the 
+participants” of the Plan. 154 F.3d 362, 373. 
+
+
+11 
+
+
+The court of appeals concluded: 
+
+
+In summary, we hold that the language of the 
+plaintiff's complaint is sufficient in alleging that the 
+defendants’ incentive system depleted plan 
+resources so as to benefit physicians who, 
+coincidentally, administered the Plan, possibly to 
+the detriment of their patients. The ultimate 
+determination of whether the defendants violated 
+their fiduciary obligations to act solely in the interest 
+of the Plan participants and beneficiaries, see 
+U.S.C. § 1104(a)(1), must be left to the trial court. 
+154 F.3d 362, 380 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Neither Dr. Pegram, nor any other individual physician, 
+is a defendant in respondent’s amended count III. Amended 
+count III] makes no allegation of medical malpractice — 
+quality of care is therefore not at issue. Amended 
+count III does not address cost containment mechanisms 
+generally — it focuses solely on physician incentive 
+schemes. 
+
+
+As non-sponsors, petitioners function as ERISA fiduciaries 
+by: 
+
+
+a) designing or “contracting” a physician incentive 
+scheme whereby welfare benefit premiums are 
+placed in a risk pool to fund health benefits, but 
+physicians receive bonuses or “supplemental” 
+income? from that same risk pool to the extent 
+they withhold treatment; and 
+
+
+2. payments over and above their salaries 
+
+
+12 
+
+
+b) administering disputed and non-routine health 
+claims. 
+
+
+3. A non-sponsor fiduciary cannot serve in dual capacities, 
+and the doctrine of judicial estoppel precludes petitioners 
+from arguing that they are not fiduciaries in the first 
+instance. 
+
+
+4. A subscription or membership certificate is not a welfare 
+plan benefit. Rather, medical care is the benefit conferred 
+
+
+and plan participants suffer directly when medical care is 
+withheld. 
+
+
+5. Congress enacted a broadly-worded and functional 
+definition of an ERISA fiduciary. Rather than exempting 
+large categories of plan administrators (i.e., HMOs or other 
+managed care organizations) from ERISA, courts should 
+maintain oversight of benefit plans, and, drawing upon the 
+common law of trusts, decide these issues in a conservative, 
+case by case approach. 
+
+
+ARGUMENT 
+
+
+In 1973 Congress passed enabling legislation allowing the 
+formation of “health maintenance organizations.” 42 U.S.C. 
+§ 300e. This legislation allows HMOs to “make arrangements 
+with physicians or other health professionals, healthcare 
+institutions or any combination of such individuals or 
+institutions to assume all or part of the financial risk on a 
+prospective basis for the provision of basic health services by 
+the physicians or other health professionals or through the 
+institutions.” /d. This statute does not prescribe the mechanisms 
+whereby the risk of health care is shifted. Nor does this enabling 
+legislation recommend any type of risk shifting or cost 
+containment mechanism. There is nothing in this statute that 
+
+
+13 
+
+
+can be construed as Congressional sanctioning of undisclosed 
+physician incentives. 
+
+
+In 1985 and 1986, federal officials became aware of 
+physician incentives in managed care.’ In July of 1986, the U.S. 
+General Accounting Office reported that some hospital 
+physician incentive plans could lead to inappropriate reductions 
+in service.‘ Certain commentators noted that the striking fact 
+about incentive schemes is that they are generally not disclosed 
+in subscription agreements or plan documents. See Havighurst, 
+Health Care Choices: Private Contracts as Instruments of 
+Health Reform, 122 (1995). 
+
+
+Congress recognized the need to address these incentive 
+schemes: HMOs participating in the Medicare program are 
+prohibited from issuing incentive payments to individual 
+physicians as an inducement to reduce medical care. Section 
+4204(a)(1) of the Omnibus Budget Reconciliation Act of 1990 
+added paragraph (8) to § 1876(i) of the Social Security Act to 
+specify that each medicare contract with an HMO must stipulate 
+that the organization must meet the following requirements if 
+it operates a physician incentive plan: (a) that it not operate a 
+physician incentive plan that directly or indirectly makes specific 
+payments to a physician or physician group as an inducement 
+to limit or reduce medically necessary services to a specific 
+individual enrolled with the organization; and (b) that it disclose 
+its physician incentive plan arrangements in detail that is 
+sufficient to allow the Department of Health and Human 
+Services Health Care Financing Administration (HCFA) to 
+
+
+3. GAO/HRD-89-29, “Medicare: HMO Physician Incentive 
+Plans.” 
+
+
+4. GAO/HRD-86-103, “Medicare: Physician Incentive Payments 
+by Hospitals Could Lead to Abuse.” 
+
+
+14 
+
+
+determine whether the arrangements comply with departmental 
+regulations. See 42 CFR § 417.479. 
+
+
+At approximately the same time, the American Medical 
+Association was attempting to assess the impact of physician 
+incentives.’ In 1990, the AMA published its report, “Financial 
+Incentives to Limit Care: Financial Implications for HMOs and 
+IPAs” and in June of 1994, the AMA’s House of Delegates 
+adopted the AMA’s Council on Ethical and Judicial Affairs 
+report, “Ethical Issues and Managed Care’”, stating that, while 
+efforts to contain costs are critical, managed care can “reduce 
+the quality of care received by patients. In particular, by creating 
+conflicting loyalties for the physician, some of the techniques 
+of managed care can undermine the physician’s fundamental 
+obligation to serve as patient advocate. Moreover, in their zeal 
+to control utilization, managed care plans may withhold 
+
+
+appropriate diagnostic procedures or treatment modalities for 
+patients,” and finding: 
+
+
+When physi¢ians are employed or reimbursed by 
+managed care plans that offer financial incentives 
+to limit care, serious potential conflicts are created 
+between the physicians’ personal financial interests 
+and the needs of their patients. Efforts to contain 
+health care should not place patient welfare at risk. 
+
+
+5. Some physicians argue that, while the new HCFA rules 
+represent a sensible step, they are too limited in several senses: they 
+apply only to managed care plans that contract with Medicare or 
+Medicaid, and they require disclosure only if incentives exceed the 
+25% threshold, and only if enrollees explicitly request this information. 
+See Mechanic & Schlesinger, “Impact of Managed Care on Patients’ 
+Trust”, 275 JAMA no. 21 (June, 1996). 
+
+
+6. AMA Council on Ethical and Judicial Affairs, “Ethics and 
+Managed Care,” 273 JAMA no. 4 (Jan., 1995). 
+
+
+15 
+
+
+Thus, financial incentives are permissible only if 
+they promote the cost-effective delivery of health 
+care and not the withholding of medically necessary 
+care. 
+
+
+Seeking to insulate its members from the obvious 
+implications of hidden physician incentives, and based upon 
+its 1990 report, in June of 1994 the AMA updated its Ethical 
+Opinion 8.132 (Referral of Patients: Disclosure of Limitations) 
+to read as follows: 
+
+
+Physicians must not deny their patients access to 
+appropriate medical services based upon the promise 
+of personal financial reward, or the avoidance of 
+financial penalties. Because patients must have the 
+necessary information to make informed decisions 
+about their care, physicians have an obligation to 
+assure the disclosure of medically appropriate 
+treatment alternatives, regardless of cost. 
+
+
+Physicians must assure disclosure of any financial 
+inducements that may tend to limit the diagnostic 
+and therapeutic alternatives that are offered to 
+patients or that may tend to limit patients’ overall 
+access to care. Physicians may satisfy this obligation 
+by assuring that the managed care plan makes 
+adequate disclosure to patients enrolled in the plan. 
+Physicians should also promote an effective program 
+of peer review to monitor and evaluate the quality 
+of the patient care services within their practice 
+setting.’ 
+
+
+Recognizing the egregious nature of the conflict of interest 
+created by physician incentive schemes, the AMA sought to 
+
+
+7. Id. 
+
+
+16 
+
+
+lessen the impact of the conflict by mandating disclosure of the 
+incentive schemes. The AMA seeks to place the burden of 
+disclosure on plan administrators — a burden that was not met 
+by petitioners here. 
+
+
+In 1998, the New England Journal of Medicine published 
+a survey of 766 California managed care physicians.* Nearly 
+40% of those doctors reported that their HMO contracts included 
+some form of bonus or other financial incentive designed to 
+control costs. The median amount of the incentive actually 
+received was $10,500, but 13% reported more than $40,000 “at 
+risk.” More than half of all physicians reporting incentives said 
+they felt pressure from the plans to limit referrals and 17% 
+believed the pressure was “sufficiently severe to compromise 
+the quality of care.” In an editorial accompanying that study, 
+then-editor, Jerome P. Kassirer, suggested that HMO incentives 
+to limit care represent an “intolerable threat to physicians’ 
+integrity.” 
+
+
+Those same concerns are reflected in the findings of 
+Concurrent Resolution 293 now before the U.S. House 
+Subcommittee on Health & The Environment: 
+
+
+Whereas payment arrangements in which health 
+plans or individual health care providers reap a 
+financial benefit from providing less care threaten 
+to compromise the quality of care; 
+
+
+*+_ * * 
+
+
+Whereas managed care’s promise to slow health care 
+inflation is questionable at best; 
+
+
+8. Grumbach, “Primary Care Physicians’ Experience of Financial 
+Incentives in Managed Care Systems.” 339 N.E. J. Med. 1516 (1998). 
+
+
+17 
+
+
+* * * 
+
+
+Whereas while the States have done an excellent 
+job regulating health plans within their jurisdiction, 
+over 120,000,000 Americans are enrolled in ERISA 
+plans that are beyond the reach of State regulation, 
+
+
+No one can seriously contend that physician incentives 
+benefit plan members. No one can seriously contend that 
+physicians incentives don’t create egregious conflicts of interest. 
+The only question is whether ERISA can be used to address 
+that conflict. For the reasons stated herein, respondent 
+respectfully suggests the answer is yes. 
+
+
+I. ANON-SPONSOR FIDUCIARY MAY NOT DESIGN 
+AND ADMINISTER AN ERISA BENEFIT PLAN SO 
+AS TO INCREASE ITS PROFIT TO THE 
+DETRIMENT OF PLAN PARTICIPANTS. 
+
+
+A. Petitioners Function as ERISA Fiduciaries When 
+Designing and Administering a Welfare Benefit Plan 
+
+
+As stated by the Chairman of the House Committee on 
+Education and Labor, 120 Cong. Rec. 3977, 3983 (Februrary 
+25, 1974) reprinted, 2 Legislative History of the Employee 
+Retirement Income Security Act of 1974 at 3293: 
+
+
+The Committee has adopied the view that the 
+definition of fiduciary is of necessity broad... A 
+fiduciary need not be a person with direct access to 
+the assets of the Plan . . . Conduct alone may in an 
+appropriate circumstance impose fiduciary 
+obligations. It is the clear intention of the Committee 
+that any person with a specific duty imposed upon 
+him by this statute be deemed to be a fiduciary . . . 
+
+
+18 
+
+
+In Mertens v. Hewitt Associates, 508 U.S. 248, 262 (1993), 
+this court stated: “ERISA . . . defines “fiduciary” not in terms 
+of formal trusteeship, but in functional terms of control and 
+authority over the Plan. . . thus expanding the universe of 
+persons subject to fiduciary duties.” (emphasis added) FR'SA’s 
+comprehensive regulation of employee welfare plans e>.1ends 
+to those that provide “medical, surgical, or hospital care or 
+benefits” for plan participants and their beneficiaries. 29 U.S.C. 
+§ 1002(1); N.Y. Conference of Blue Cross v. Traveler's Ins., 
+514U.S. 645, 649 (1995). ERISA does not go about protecting 
+plan participants and their beneficiaries by requiring employees 
+to provide any given set of minimum benefits, but instead 
+controls the administration of benefit plans, see 29 U.S.C. 
+§ 1001(b), as by imposing reporting and disclosure mandates, 
+§§ 101-111, 29 U.S.C. §§ 1021-1031, participation and vesting 
+requirements, §§ 201-211, 29 U.S.C. §§ 1051-1061, funding 
+standards, §§ 301-308, 29 U.S.C. §§ 1081-1086, and fiduciary 
+responsibilities for plan administrators, §§ 401-414, 29 U.S.C. 
+§§ 1101-1114. It envisions administrative oversight, imposes 
+criminal sanctions, and establishes a comprehensive civil 
+enforcement scheme. /d. (emphasis added). To “administer” a 
+Plan is to “manage or supervise the execution . . . or conduct 
+of” the Plan. Webster’s Ninth New Collegiate Dictionary 57 
+(1991). Dissent, Varity Corp. v. Howe, 516 U.S. 489, 529, 530 
+(1996). 
+
+
+In its SPD, State Farm defers the administration of HMO 
+benefits to the individual HMOs stating, “any and all benefit 
+determinations will be made by each individual HMO according 
+to its operating procedures.” (Jt. app. 101, 102). In Section 8.3 
+of their Subscription Certificate, petitioners give themselves 
+the discretion to determine what is and what is not medically 
+necessary, excluding “services or supplies with are not, in the 
+judgment of CarleCare Physicians, Medically Necessary for 
+the medical treatment or for the maintenance of improvement 
+
+
+19 
+
+
+of the health of the Members.” (Pet. app. 1 1 8a). In her complaint, 
+respondent alleged that petitioners breached their ERISA 
+fiduciary duties by funding their incentive scheme through two 
+mechanisms: (1) designing the incentive scheme through its 
+contracts, and then (2) administering the plan by determining 
+what was or was not medically necessary. Paragraph 12(b) of 
+the amended count III alleges: 
+
+
+b. Both HAMP and CHIMCO are directed and 
+controlled by CARLE owner/physicians and 
+seek to fund their supplemental medical expense 
+payments to CARLE: 
+
+
+i. by contracting’ with CARLE owner/ 
+physicians to provide the medical 
+services contemplated in the Plan and 
+then having those contracted owner/ 
+
+
+physicians: 
+(1) minimize the use of diagnostic 
+tests, 
+
+
+(2) minimize the use of facilities not 
+owned by CARLE; and 
+
+
+(3) minimize the use of emergency 
+and non-emergency consultation 
+
+
+9. Respondent does not allege, as contended by the Secretary, 
+that petitioners seek to fund their incentive scheme by providing medical 
+services. Rather, respondent alleges that petitioners seek to fund their 
+incentive, in part, by contracting — that is to say, by negotiating, 
+drafting and executing contracts — to employ undisclosed physician 
+
+
+20 
+
+
+and/or referrals to non- 
+contracted physicians. 
+
+
+il. by administering disputed and non- 
+routine health insurance claims '°and 
+determining: 
+
+
+(1) which claims are covered under 
+the Plan and to what extent; 
+
+
+(2) what the applicable standard of 
+care 1S; 
+
+
+(3) whether a course of treatment is 
+experimental; 
+
+
+(4) whether a course of treatment is 
+reasonable and customary; and 
+
+
+(5) whether a medical condition is 
+an emergency (Pet. app. 86a) 
+(emphasis added) 
+
+
+The exercise of discretion in processing claims is the 
+epitome of a fiduciary function.'' See Cantor, “Fiduciary 
+
+
+10. Respondent made no allegations concerning ministerial duties 
+attendant upon Plan administration. Rather, respondent addressed her 
+allegations to discretionary duties — the administering of disputed and 
+non-routine claims. 
+
+
+11. Florence Nightingale Nursing Serv. v. Blue Cross/Blue Shield 
+of Ala., 41 F.3d 1476 (11th Cir., 1995) (“Blue Cross was and is the 
+claims administrator for the Plan and, in that capacity, had the fiduciary 
+responsibility for receiving, processing, and paying claims”); Pacificare 
+v. Martin, 34 F.3d 834, 837 (9th Cir., 1994) (“[i}nsurers can be ERISA 
+
+(Cont'd) 
+
+
+21 
+
+
+Liability in Emerging Health Care,” DePaul Bus. L.J., 189, 190 
+(1997). A decision that a particular benefit is not covered by 
+the plan involves plan administration, even though there is a 
+medical component to the decision. Corcoran v. United 
+Healthcare, Inc., 965 F.2d 1321, 1331 (Sth Cir.), cert. denied, 
+506 U.S. 1033 (1992). 
+
+
+On pages 20 through 24 of her brief, the Secretary argues 
+that the administration of a health benefit plan is a fiduciary 
+function. Respondent concurs. The Secretary also argues that 
+petitioners have acknowledged their fiduciary status and duty 
+of loyalty by arguing on page 28 of their brief that an HMO, 
+“must make coverage and eligibility decisions under the plan 
+with an ‘eye single’ to the interest of the patient/beneficiaries.” 
+(Sec. Br. 26)'* Again, respondent concurs. Furthermore, the 
+Secretary has propounded regulations addressing claims 
+
+
+Cont'd 
+Ssduciaries if, ‘they are given the discretion to manage plan assets or to 
+determine claims made against the Plan [; a}]n insurer will be found to 
+be an ERISA fiduciary if it has the authority to grant, deny or review 
+denied claims’); Doe v. Group Hosp. & Med. Servs., 3 F.3d 80, 85 
+(4th Cir., 1993) (“Blue Cross both insures and administers the payment 
+of health care benefits . .. [; ijn its role as plan administrator, Blue 
+Cross clearly exercises discretionary authority or discretionary control 
+with respect to the management of the Plan and therefore qualifies as a 
+fiduciary under ERISA”); Reilly v. Blue Cross & Blue Shield United 
+of Wis., 846 F.2d 416, 419 (7th Cir., 1988) (“[a]s the administrator of 
+the employee benefit plan, Blue Cross is a fiduciary for ERISA 
+
+
+purposes.”’) 
+
+
+12. The Secretary is also correct to point out that, on page 7 of 
+their reply brief at the wnt stage, petitioners “freely acknowledge that 
+they are plan fiduciaries when they engage in activities denominated 
+as fiduciary by ERISA, e.g., when they provide information to 
+participants as required under ERISA and when they make decisions 
+about who is eligible for plan benefits.” (emphasis added). 
+
+
+22 
+
+
+administration.'’ 29 CFR 2509.75-8 states that the determining 
+of benefit eligibility is a fiduciary function if discretion is 
+exercised, i.e., if it involves more than ministerial functions. 
+29 CFR 2560.503-1 imposes ERISA fiduciary duties 
+on those who implement the plan’s claims procedure. 
+Petitioners’ argument that they were not acting as ERISA 
+fiduciaries when designing and administering this Plan begs 
+the question: When non-sponsors design, implement and 
+administer an ERISA health plan, in what capacity are they 
+serving? '* 
+
+
+When an HMO contracts with an employer to provide 
+medical benefits to its employees, the HMO does not set a 
+premium that is calculated at merely a “break even” level. 
+Rather, the premium charged to the employer by the HMO 
+already has an “underwriting profit” or “after-tax return” built 
+into it. Accident and health insurance is a property and casualty 
+line of insurance, as opposed to being governed by the principles 
+of life insurance ratemaking. The 1988 “Statement of Principles 
+Regarding Property and Casualty Insurance Ratemaking” of 
+the Casualty Actuarial Society states: 
+
+
+The purpose of this Statement is to identify and 
+describe principles applicable to the determination 
+
+
+13. Department of Labor Regulations have been given substantial 
+weight by courts interpreting the provisions of ERISA. See Lowen v. 
+Tower Asset Management, Inc., 653 F. Supp. 1542, 1555 n.10 
+(S.D.N.Y.), aff'd, 829 F.2d 1209 (2nd Cir., 1987). 
+
+
+14. Petitioners do not really attempt to answer this question. 
+Instead, they seek to argue that State Farm designed and implemented 
+the incentive plan. This argument assumes facts that directly contradict 
+the Plan documents and the allegations of the complaint, which clearly 
+
+
+state that petitioners designed, implemented and administered the 
+incentive scheme. 
+
+
+—< a <—_ © 
+
+
+23 
+
+
+and review of property and casualty insurance rates. 
+The principles in this Statement are limited to that 
+portion of the rate making process involving the 
+estimation of costs associated with the transfer of 
+risk. 
+
+
+In its section on definitions, the Statement indicates that 
+“ratemaking is the process of establishing rates used in insurance 
+and other risk transfer mechanisms,” and that the Statement “is 
+limited to principles applicable to the estimation of these costs,” 
+which “costs” include profit: “The underwriting profit and 
+contingency provisions are the amount that, when considered 
+with the net investment and other income, provide an appropriate 
+total after-tax return.” In his Essentials of Managed Health Care, 
+2nd ed., (ch. 23, Rating & Underwriting) (Aspen, 1997), author 
+Kongstvedt describes how HMOs are obligated to use 
+“community-based rating” and how the medical care of a 
+member is expressed in terms of “per member — per month.” 
+Kongstvedt advocates the use of a “premium loading factor.” 
+After demonstrating how the cost of providing medical services, 
+“per member — per month,” might result in a figure of $120, 
+the author then uses a premium loading factor of 1.19 which 
+means that, although the actuarial projection of medical costs 
+“per member — per month” is only $120, the monthly premium 
+charged to the employer is $142.80. 
+
+
+Moreover, the monthly premium charged to the employer 
+is not the capitation payment forwarded to doctor actually 
+providing the healthcare. From the capitation payments, HMOs 
+make allocations to various funds, or risk pools, to pay for (1) 
+primary care services, (2) specialty physician or referral services, 
+and (3) institutional services, such as in-patient hospital and 
+
+
+24 
+
+
+skilled nursing facility services.'* Physician incentive payments 
+generally come from these risk pools. /d. The Secretary’s 
+argument in note 4 on page 11 of her brief that petitioners had 
+control over no assets because there was “apparently no 
+underlying trust” is incorrect. Petitioners had complete controi 
+of the risk pools. The risk pools are assets of the Plan. 
+Petitioners’ management of those risk pools is a fiduciary 
+function under ERISA. 
+
+
+It is important to note that neither Dr. Pegram, nor any 
+other individual physician, is a party-defendant in amended 
+count III. None of the facts set forth in amended count III alleged 
+deviation from the required standard of medical care, or even 
+negligent selection of physicians. In fact, there are no negligence 
+allegations contained in amended count III. Moreover, the 
+allegations of amended Count III do not address the quality of 
+the healthcare that respondent received. The Secretary misreads 
+respondent’s complaint when arguing that petitioners were not 
+acting as fiduciaries under the “treatment allegations.” 
+(Secretary’s brief at 16) There are no “treatment allegations.” 
+The Secretary fails to give effect to the first clause in 
+respondent’s paragraph 12(b)(i) of the complaint which alleges, 
+“by contracting with CARLE owner/physicians” (Pet. app. 86a) 
+(emphasis added) petitioners created and managed risk pools 
+from which they paid themselves bonuses funded by the 
+withholding of medical treatment.'® 
+
+
+15. GAO\HDR-89-29 “Medicare: HMO Physician Incentive 
+Plans” p. 14 
+
+
+16. The allegations of respondent's amended count III do not seek 
+to raise mere allegations of medical malpractice to the levei of breach 
+of ERISA fiduciary duties. Respondent concurs with the Secretary, 
+and the amicus brief of the American Medical Association, that the 
+providing of medical services by an HMO physician is not a fiduciary 
+
+(Cont'd) 
+
+
+25 
+
+
+B. Non-Sponsor Fiduciaries Cannot Operate in Dual 
+Capacity 
+
+
+From the Plan documents and respondent's allegations, it 
+is clear that petitioners, and not State Farm, designed and 
+administered the plan benefits at issue here. Petitioners attempt 
+to avoid liability by arguing that they serve in a “dual capacity 
+and that to the extent that they are only making entrepreneurial 
+decisions, they are not serving in a fiduciary capacity. This 
+argument does not withstand scrutiny. Firstly, although ERISA 
+does contemplate dual capacities (29 U.S.C. § 1108(c)(3)), 
+respondent is unaware of any cases in which dual capacity has 
+been conferred upon any party other than a plan sponsor (i.e., 
+employer, union representative, etc.)'’ In Varity, the dissent 
+explained the basis of the “to the extent” clause when it stated: 
+
+
+This “artificial definition of fiduciary,” Mertens, 
+supra at 255, n.5, is designed, in part, so that an 
+employer that administers its own plan is not a 
+
+
+(Cont'd) | 
+function and that traditional medical malpractice actions should be left 
+to state regulation. 
+
+
+It is also important to note that petitioners’ decision to force 
+respondent to wait an additional eight days for a sonogram after 
+discovering respondent’s abdominal mass is an administrative, not a 
+medical decision. That is to say, there was no medical necessity that 
+respondent wait eight days or that respondent use petitioners 
+sonography equipment. 
+
+
+17. See Annot., “Dual Loyalty Considerations in Determining 
+Propriety Under Employee Retirement Income Security Act 
+(29 U.S.C. §§ 1001 et. seq.), of Actions of Officers of Sponsor 
+Corporations Serving as Trustees of Employment Pension Plans, 
+64 ALR Fed. 602 (Lawyer’s Co-op., 1983). 
+
+
+26 
+
+
+fiduciary to the plan for all purposes and at all times, 
+but only to the extent that it has discretionary 
+authority to administer the plan. When the employer 
+is not acting as plan administrator, it is not a fiduciary 
+under the Act, and the fiduciary duty of care codified 
+in Section(s) 404 is not activated. Varity at 528. 
+
+
+Courts and commentators have long recognized that, 
+because ERISA does not mandate that plans be established and 
+that certain benefits be offered,'* plan sponsors occupy a 
+distinctive role.'® Protection afforded by the “to the extent” 
+clause or by “dual capacity” status, inures to the benefit of a 
+plan sponsor — but only to a plan sponsor.”° Moreover, 
+petitioners are precluded from arguing that they are not 
+fiduciaries. The petitioners’ briefs before this Court contradict 
+the representations they made in order to have the case removed 
+and preempted. Now, petitioners argue that if the Court finds 
+they are fiduciaries, it would unduly broaden preemption under 
+ERISA! ( Pet. Br. p. 37) Judicial estoppel and equitable estoppel 
+prevent parties from manipulating the courts in this manner. 
+
+
+The doctrines of judicial and equitable estoppel, although 
+clearly recognized by this Court,”' have largely been developed 
+
+
+18. N.Y. Conference of Blue Cross & Blue Shield Plans v. 
+Travelers, Ins., 514 U.S. 645 (1995). 
+
+
+19. Fischel and Langbein, “ERISA’s Fundamental Contradiction: 
+The Exclusive Benefit Rule,” 55 Univ. Chi. L. Rev. 1105 (1988). 
+
+
+20. As they did in their petition for writ of certiorari, petitioners 
+again cite Hughes Aircraft Co. v. Jacobson, 119 S. Ct. 755 (1999) and 
+Lockheed Corp. v. Spink, 517 U.S. 882 (1996). But those cases are 
+inapposite as, unlike the case at bar, each dealt solely with the actions 
+of a plan sponsor. 
+
+
+21. See Cleveland v. Policy Management Systems Corporation, 
+et al., 526 U.S. 795 (1999) (holding that plaintiff's ADA claims will 
+(Cont'd) 
+
+
+27 
+
+
+by the courts of appeal. Although the courts of appeal have 
+adopted slight variations in their interpretations of judicial 
+estoppel, it is clearly intended to prevent parties from 
+manipulating the courts by “gain[ing] an advantage by taking 
+one position, and then seeking a second advantage by taking an 
+incompatible position.” Cigna Property and Casualty Ins., Co. 
+v. Polaroid Pictures Ass'n., 159 F.3d 412, 419 (9th Cir., 1998). 
+The Seventh Circuit noted that judicial estoppel is “to protect 
+the courts from being manipulated by chameleonic litigants who 
+seek to prevail, twice, on opposite theories.” Levinson v. United 
+States, 969 F.2d 260, 264 (7th Cir., 1992). 
+
+
+A party can argue inconsistent positions in the 
+alternative, but once it has sold one to the court it 
+cannot turn around and repudiate it in order to have 
+a second victory, which is what the IRS is seeking 
+here. Having persuaded us to reject Continental’s 
+efforts to show that the taxes were paid, the IRS 
+may not argue against a restatement of income on 
+the ground that they were really paid. Either they 
+were or they weren't. 
+
+
+Continental Illinois Corp. v. C.I.R., 998 F.2d 513, 51 9 (7th Cir., 
+1993). “Equitable estoppel serves to protect litigants from 
+unscrupulous opponents who induce a litigant’s reliance on a 
+position, then reverse themselves to argue that they win under 
+an opposite scenario.” Teledyne Industries, Inc. v. N.L.R.B.,911 
+
+
+Cont'd 
+psene a Caine estopped because of a prior filing from SSDI 
+
+
+benefits); Huffman, et al. v. Pursue, Ltd., 420 U.S. 592 (1975) (merely 
+noting that the court does not intend for its opinion to affect the overall 
+rules of judicial estoppel in footnote 18); Buck v. Quykendall, 267 US. 
+307 (1925) (“a person who has invoked the benefit of an unconstitutional 
+law cannot in a subsequent litigation aver its unconstitutionality as a 
+defense.”’) (citations omitted). 
+
+
+28 
+
+
+F.2d 1214, 1220 (6th Cir., 1990), citing to Moser v. United 
+States, 341 U.S. 41 (1951). (Emphasis added). 
+
+
+Equitable estoppel should apply here but, in the alternative, 
+should this Court find that equitable estoppel does not apply, 
+judicial estoppel should apply. Judicial estoppel examines the 
+connection between the litigant and the judicial system, while 
+equitable estoppel focuses on the relationship of the parties to 
+the prior litigation. Oneida Motor Freight, Inc. v. New Jersey 
+Bank, 848 F.2d 414, 419 (3rd Cir., 1988); c.f. Lydon vy. Boston 
+Sand & Gravel, 175 F.3d 6 (1st Cir., 1999) (judicial estoppel’s 
+dual goals are “to maintain the integrity of the judicial system 
+and to protect parties from opponent’s unfair strategies.”’) 
+
+
+Even ignoring the fact that, as non-sponsor fiduciaries, 
+petitioners cannot claim they were acting in a “dual capacity,” 
+and even ignoring the fact that petitioners should be judicially 
+estopped from now claiming they were not fiduciaries, 
+petitioners’ assertion that they were merely making a “business” 
+or “entrepreneurial” decision fails. Respondent acknowledges 
+that, as the plan sponsor, State Farm’s business or 
+entrepreneurial decision to offer group medical and an HMO is 
+a decision beyond the purview of ERISA. But the 
+implementation of this particular HMO is a different matter. 
+Petitioners, not State Farm, implemented the particulars of this 
+HMO. Courts have routinely held that implementation decisions 
+are fiduciary decisions. See Waller v. Blue Cross of California, 
+32 F.3d 1339 (9th Cir., 1994); District 65, United Auto Workers 
+v. Harper & Row Publishers, Inc.,670 F. Supp. 550 (S.D.N.Y.., 
+
+
+1987); Cooke v. Lynn Sand & Stone Co., 673 F. Supp. 14 
+(D. Mass., 1986). 
+
+
+In other cases, the Secretary has argued that, if 
+implementing an incentive scheme was considered to be an act 
+
+
+29 
+
+
+of plan administration, it would lead to an absurd result. 
+
+See Secretary’s amicus brief in Lancaster v. Kaiser Foundation 
+
+Health Plan of the Mid-Atlantic States, 958 F. Supp. 1 137 (E.D. 
+
+Va., 1997). The Secretary explained that an HMO (Kaiser) has 
+
+a financial incentive to arrange for medical care at the least 
+
+expense to itself and that its decisions are business decisions 
+because Kaiser could not effectively conduct itself as a business 
+due to an inherent conflict of interest — its interest in keeping 
+financially sound would conflict with its duty as a fiduciary to 
+act solely in the interest of the participants. This raises an 
+absolutely critical point in this case. Here HAMP, the entity 
+hiring the doctors, is, in fact, the doctors. One is the alter ego of 
+the other. Here there is no “absurd result” and there is no inherent 
+conflict. 
+
+
+In their implementation of State Farm’s decision to offer 
+an HMO, petitioners created and administered a risk pool for 
+health benefits from which petitioners paid themselves bonuses 
+to the extent they withheld treatment. 
+
+
+ll. STRUCTURAL CONFLICTS ARE ACTIONABLE 
+UNDER SECTION 406 “PER SE” PROHIBITIONS, 
+WHETHER DIRECT OR INDIRECT. 
+
+
+The Secretary acknowledges that an incentive scheme 
+constituting a breach of fiduciary duty would be established 
+
+
+if the scheme provided incentives of such a nature 
+that the individual deciding claims for benefits 
+would be unable to set aside personal interests and 
+make the benefits determination based on the terms 
+of the Plan. . . For example, a compensation scheme 
+that provided direct financial incentives to plan 
+fiduciaries for making adverse rulings on benefits 
+claims... 
+
+
+30 
+
+
+(Sec. Br. 28, 29) But the Secretary concludes that nothing in 
+respondent's amended count III “suggests that respondent was 
+intending to plead that petitioners employed the kind of unusual 
+incentive scheme described above, in which those who decided 
+disputed claims would be paid on the basis of how many claims 
+they deny or would otherwise be paid in a way that violates 
+ERISA’s fiduciary duty.” (Sec. Br. 29). The Secretary’s analysis 
+places far too great a pleading burden on respondent, and also 
+fails to acknowledge that the “per se” prohibitions of § 406 
+
+
+prohibit any self-dealing, whether it is achieved directly or 
+indirectly. 
+
+
+Respondent's amended count III was dismissed pursuant 
+to Fed. R. Civ. P. Rule 12(b)(6). (Pet. Br. 10). To withstand a 
+Rule 12(b) motion, respondent’s allegations need only state a 
+possible claim, not a winning claim. See Conley v. Gibson, 355 
+U.S. 41, 45-46 (1957). A complaint may be dismissed for failure 
+to state a claim only if it is clear that no relief could be granted 
+under any set of facts that could be proved consistent with the 
+allegations. Hishon v. King & Spaulding, 467 U.S. 69 (1984). 
+A complaint should not be dismissed unless it appears beyond 
+doubt that that plaintiff can prove no set of facts in support of 
+her claim which would entitle her to relief. McLain v. Real Estate 
+Bd. of New Orleans, Inc., 44 U.S. 232 (1980). For purposes of 
+withstanding a Rule 12(b) motion to dismiss, “notice pleading” 
+is sufficient. Sinclair v. Kleindienst, 711 F.2d 291 (D.C. Cir., 
+1983). The federal rules do not require a plaintiff to allege 
+sufficient facts to establish her right to judgment. All that is 
+
+
+required is a “short and plain” statement of what her claim is. 
+Fed. R. Civ. P. 8(a)(2). 
+
+
+In paragraph 11 of her complaint, respondent quoted the 
+“duty of loyalty” language of ERISA § 404(a) (29 U.S.C. 
+§ 1104(a)). A fiduciary’s “duty of loyalty” under ERISA cannot 
+
+
+31 
+
+
+understood without comparing the prohibited transaction 
+pe of ERISA with the duty of loyalty under the common 
+law of trusts. Based on such a comparison, a compelling 
+argument can be made that the drafters of ERISA consciously 
+intended §406 to prohibit “structural conflicts’ that were not 
+always addressed by the common law. Klevan, “The Fiduciary s 
+Duty of Loyalty Under ERISA Section 406(b)(1), 23 Real 
+Property, Probate and Trust Journal, 561 (1988)” The heart of 
+a fiduciary’s duty of loyalty is contained in ERISA § 404(a)( 1) 
+and is repeated and reinforced in the prohibited transactions 
+provisions of § 406 which provides: 
+
+
+(a) Transactions between plan and party in 
+interest. Except as provided in section 408 
+
+
+(29 U.S.C. § 1108}: 
+
+
+(1) A fiduciary with respect to a plan 
+shall not cause the plan to engage in 
+a transaction, if he knows or should 
+know that such transaction 
+constitutes a direct or indirect — 
+
+
+(A) sale or exchange, or leasing, of 
+any property between the plan 
+and a party in interest; 
+
+
+(B) lending of money or other 
+extension of credit between the 
+
+
+plan and a party in interest, 
+
+
+(C) furnishing of goods, services, or 
+facilities between the plan and 
+a party in interest, 
+22. Mr. Klevan authored this article at the time that he was senior 
+
+
+director of Policy and Legislative Analysis, Pension and Welfare 
+Benefits Administration, U.S. Department of Labor. 
+
+
+32 
+
+
+(D) transfer to, or use by or for the 
+benefit of, a party in interest, of 
+any assets of the plan; or 
+
+
+(E) acquisition, on behalf of the 
+plan, of any employer security 
+or employer real property in 
+violation of section 407(a) 
+{29U.S.C. §1107(a)] 
+
+
+(b) Transactions between plan and fiduciary. 
+A fiduciary with respect to a plan shall not — 
+
+
+(1) deal with the assets of the plan in his 
+own interest or for his own account, 
+
+
+(2) in his individual or in any other 
+Capacity act in any transaction 
+involving the plan on behalf of a 
+party (or represent a party) whose 
+interests are adverse to the interests 
+of the plan or the interests of its 
+participants or beneficiaries, or 
+
+
+(3) receive any consideration for his own 
+personal account from any party 
+dealing with such plan in connection 
+with a transaction involving the 
+assets of the plan. 
+
+
+The prohibitions contained in § 406(a) are against “direct 
+or indirect” transactions and are not simply the embodiment of 
+the common law prohibition against the trustee engaging in 
+self-dealing. They are also the extension, in absolute form, of 
+the common law rule that transactions between a trust and a 
+
+
+33 
+
+
+third party may be set aside if it can be shown that the trustee 
+was improperly influenced by its relationship to the third party, 
+or even its friendship with the third party, so that the trustee 
+engaged in a transaction that was less advantageous to the trust 
+than if the trustee were dealing at arm’s length. Klevan at 563. 
+Section 406 provides a per se prohibition of these transactions 
+with a category of persons known as ERISA § 3(14) “Parties in 
+Interest,” which includes both fiduciaries and service providers 
+to the Plan.” Instead of requiring proof that a fiduciary’s 
+relationship with a third party might influence the best judgment 
+of the fiduciary, it substituted an absolute rule that defines by 
+statute those persons who are deemed to have such an influence. 
+Thus, Congress dispensed with the need to show that the 
+fiduciary was actually influenced to the detriment of the Plan. 
+Klevan at 564. 
+
+
+Klevan also states that the Department of Labor’s position 
+is that a § 406(b)(1) prohibition (barring self-dealing with plan 
+assets) is a per se prohibition requiring a plan fiduciary who 
+has a conflict of interest to step aside. Courts have had little 
+difficulty in finding § 406(b)(1) violations in transactions 
+between a plan and a fiduciary, given a direct conflict of interest 
+in which the fiduciary’s gain is the plan’s loss. Klevan at 570. 
+
+
+Additionally, respondent takes issue with the Secretary’s 
+characterization of the conflict created by petitioner’s incentive 
+scheme as being “indirect.” Respondent alleged that HAMP 
+created a structural conflict of interest by “contracting” to 
+withhold treatment so that the savings realized can, in turn, be 
+paid to HAMP’s owners — those same Carle physicians. This 
+is hardly an “indirect” conflict of interest. In fact, it is difficult 
+
+
+23. 29 U.S.C. § 1002(14) states: [t}he term “party in interest” 
+means, as to any employee benefit plan — (A) any fiduciary ... 
+(B) a person providing services to such plan. 
+
+
+34 
+
+
+to envision a more direct conflict. Every dollar saved by not 
+ordering sonograms, by not referring patients to surgeons, or 
+by refusing to send patients to the emergency room, goes directly 
+into the pockets of petitioners. Respondent's allegations clearly 
+make a claim for a direct conflict of interest. 
+
+
+Like Justice Easterbrook in his dissent to the denial of 
+petitioner's motion for rehearing (Pet. app. 48a), petitioners 
+argue that the plan participants here suffered no loss. Petitioners 
+and Justice Easterbrook argue that the benefit conferred is mere 
+membership in the Plan, not the benefits to be provided 
+thereunder. Of course, employing this analysis, the employees 
+of Massey Combines** would have had no cause of action 
+because they still had membership in the Massey Combines 
+nonpension benefits plan, it being irrelevant that the sponsor of 
+that plan was bankrupt. But this court has rightly decided that 
+the specific benefits conferred, not the naked subscription 
+certificate, is the benefit offered (or, in this case, the benefit 
+lost). Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41 (1987); UNUM 
+Life Ins. Co. v. Ward, 119 S. Ct. 1380 (1999). The Secretary is 
+correct to disagree with the analysis of Justice Easterbrook. Here 
+the very money that should have paid for respondent’s 
+emergency room visit, that should have paid for respondent’s 
+timely sonogram in her hometown, and that should have paid 
+for respondent’s surgery at the nearest hospital, instead went 
+into petitioners’ pockets. Respondent suffered a direct loss of 
+benefits, as has each and every member of CarleCare HMO. 
+
+
+In her approach, the Secretary acknowledges that petitioners 
+are fiduciaries, but argues that, as a matter of law, respondent 
+has failed to allege any violation under ERISA because ERISA 
+contemplates dual loyalties (Sec. Br. 28) and because the 
+incentive scheme here is nothing more than a mechanism to 
+
+
+24. See Varity v. Howe, 516 U.S. 489 (1996). 
+
+
+35 
+
+
+compensate the petitioners who, as fiduciaries, are entitled, 
+pursuant to 29 U.S.C. § 1108(c), to compensation for 
+performance of their duties. (Sec. Br. 9). 
+
+
+But the Secretary’s analysis is incomplete. Section 1108(c) 
+has three subsections: 
+
+
+(c) Fiduciary benefits and compensation not 
+prohibited by 29 U.S.C. § 1106. Nothing in section 
+406 [29 U.S.C. § 1106] shall be construed to prohibit 
+any fiduciary from — 
+
+
+(1) receiving any benefit to which he may be 
+entitled as a participant or beneficiary in the plan, 
+so long as the benefit is computed and paid on a 
+basis which is consistent with the terms of the plan 
+as applied to all other participants and beneficiaries, 
+
+
+(2) receiving any reasonable compensation for 
+services rendered, or for the reimbursement of 
+expenses properly and actually incurred, in the 
+performance of his duties with the plan; except that 
+no person so serving who already receives full-time 
+pay from an employer or an association of 
+employers, whose employees are participants in the 
+plan, or from an employee organization whose 
+members are participants in such plan shall receive 
+compensation from such plan, except for 
+reimbursement of expenses properly and actually 
+incurred; or 
+
+
+(3) serving as a fiduciary in addition to being 
+an officer, employee, agent, or other representative 
+of a party in interest. 
+
+
+36 
+
+
+Subsections | and 3 are inapplicable on their face. The Secretary 
+must be suggesting that nothing in §406 prohibits a fiduciary 
+from receiving “reasonable compensation for services rendered” 
+pursuant to § 1108(c)(2). The Department of Labor’s regulation 
+on this section (29 CFR § 2550.408(c)(2)) provides in pertinent 
+part: 
+
+
+(2) Payments to certain fiduciaries. Under sections 
+408(b)(2) and 408(c)(2) of the Act, the term 
+“reasonable compensation” does not include any 
+compensation to a fiduciary who is already receiving 
+full-time pay from an employer or association of 
+employers (any of whose employees are participants 
+in the plan) or from an employee organization (any 
+of whose members are participants in the plan), 
+except for the reimbursement of direct expenses 
+properly and actually incurred and not otherwise 
+reimbursed. The restriction of this paragraph (b)(2) 
+do not apply to a party in interest who is not a 
+fiduciary. 
+
+
+Petitioners are excluded from protection under 408(c)(2) 
+because they are already paid a salary as full-time employees 
+of Carle Clinic and/or HAMP.* Even if those physicians were 
+not salaried, but instead retained the “per member — per month” 
+capitation payment, they would still be disqualified from 
+protection under section 1 108(c)(2). 29 CFR § 2550.408(c)(2) 
+further states: 
+
+
+(5) Excessive compensation. Under sections 
+408(b)(2) and 408(c)(2) of the Act, any 
+compensation which would be considered excessive 
+
+
+25. Inher complaint, respondent alleged that the incentive scheme 
+payments were “supplemental.” (Pet. app. 86a). 
+
+
+37 
+
+
+under 26 CFR 1.162-7 (Income Tax Regulations 
+relating to compensation for personal services which 
+constitutes an ordinary and necessary trade or 
+business expense) will not be “reasonable 
+compensation.” Depending upon the facts and 
+circumstances of the particular situation, 
+compensation which is not excessive under 26 CFR 
+1.162-7 may, nevertheless, not be “reasonable 
+compensation” within the meaning of sections 
+408(b)(2) and 408(c)(2) of the Act. 
+
+
+While 26 CFR 1.162-7°° addresses the deductibility of 
+ordinary and necessary business expenses, it nonetheless 
+establishes that the applicable test is whether compensation is 
+“reasonable” and whether it is “in fact payments purely for 
+services.” The Department of Labor has adopted the framework 
+that the Internal Revenue Service regulations employ to 
+determine if there is an excessive payment in contravention of 
+29 U.S.C. § 1108.”’ 
+
+
+26. 26 CFR 1.162-7 states: “§ 1.162-7. Compensation for 
+personal services 
+
+
+(a) There may be included among the ordinary and 
+necessary expenses paid or incurred in carrying on any 
+trade or business a reasonable allowance for salanes or 
+other compensation for personal services actually rendered. 
+The test of deductibility in the case of compensation 
+payments is whether they are reasonable and are in fact 
+payments purely for services. 
+
+
+27. It is important to note that the Department of Labor clearly 
+intended a broader definition of excessive compensation to 
+be used in the ERISA context than the definition used in the Internal 
+Revenue Service. Regulation 2550.408(c)-2 makes the violation of 
+26 CFR 1.162-7 sufficient but not necessary for a determination that 
+compensation is not “reasonable.” 
+
+
+38 
+
+
+I.R.S. regulations prohibit certain types of excessive 
+compensation in order to protect the tax base. Specifically, the 
+IRS is concerned with corporations attempting to avoid taxation 
+by calling what is really a dividend a “salary” and thereby 
+
+
+claiming a deduction. Dexsil Corporation v. Commissioner of 
+
+
+Internal Revenue, 147 F.3d 96 (2nd Cir., 1998). 
+
+
+The purpose of preventing excessive compensation in an 
+ERISA context is to protect Plan benefits. State Farm and the 
+Plan participants paid premiums to HAMP. That money was 
+held by HAMP in a risk pool to provide for the medical care of 
+the participants. Payments received by petitioners from the risk 
+pool are not “in fact payments purely for services.” Indeed, 
+they are payments for not providing services. 
+
+
+The Secretary's argument with respect to petitioners being 
+entitled to “reasonable compensation” has not been accepted 
+by the courts. In Gilliam v. Edwards, 492 F. Supp. 1255 
+(D.C.N.J.), a union business manager agreed to act as an 
+administrator of the union pension fund pursuant to a contract 
+whereby he would be paid for his services as administrator. 
+But when challenged by union participants, the court held that 
+the business manager was not exempt under § 408(c)(2) because 
+his salary as business manager was substantial enough to qualify 
+as full-time pay, and therefore any additional compensation he 
+received as administrator was not “reasonable compensation.” 
+In Marshall vy. Snyder, 1 EBC 1878 (E.D.N.Y., 1979), a salaried 
+trustee was not allowed to receive a “severence benefit.” In 
+Marshall v. Kelly, 465 F. Supp. 341, (W.D.Ok., 1978), a trustee 
+receiving full-time pay was not allowed to keep a $9,000 sales 
+commission for selling property owned by the plan. In Donovan 
+v. Daugherty, 550 F. Supp. 390 (S.D.Ala., 1982), trustees 
+receiving full-time pay were not allowed to receive additional 
+“monthly payment” benefits. 
+
+
+39 
+
+
+The Secretary argues that respondent has not stated a cause 
+of action because, under “typical arrangements” for employee 
+benefit plans, such as an insured health plan where the insurer 
+has discretionary authority to decide claims, or a plan under 
+which a company employee has such authority and the employer 
+pays claims out of its own assets, there is some measure of 
+divided loyalty on the part of the claims decisionmaker. 
+(Secretary Br. 28) The analogy does not hold. A third-party 
+administrator whose individual income does not depend on the 
+denial of claims is hardly analogous to an administrator who is 
+a party in interest and whose income is based, in large part, 
+upon denials. In the majority opinion, Justice Coffey correctly 
+observed that, “[t]olerance, in other words, has its limits. 
+154 F.3d at 373. 
+
+
+The Secretary also argues that, if an HMO’s business 
+decisions, such as how to compensate physicians for their 
+treatment of patients, where subject to ERISA fiduciary 
+provisions, it is difficult to understand how the HMO could 
+function as a business entity. (Secretary Br. 18) The Secretary 
+has answered her own question. An HMO can easily make 
+business decisions as to how to compensate its physicians by 
+simply insuring that claims decisions are made by independent 
+third-party administrators. Using the Secretary’s own “typical 
+arrangements” analogy, simply remove the claims 
+administration function from the hands of any physicians whose 
+income depends upon claim denials. Indeed, the simple 
+expediency of using an independent third-party administrator 
+was the very course suggested in Donovan v. Bierwirth, 680 
+F.2d 263 (2nd Cir.), cert. denied, 459 U.S. 1069 (1982) where 
+the court advised the fiduciaries to seek “someone above the 
+battle.” Donovan at 272-273. This case would not be before 
+this Court if the petitioners’ claims administration was 
+performed by anyone other than the physicians whose income 
+depended on claims denials. 
+
+
+40 
+
+
+Ill. ERISA’S FIDUCIARY DUTIES ARE BASED ON 
+THE COMMON LAW DUTY OF LOYALTY. 
+
+
+ERISA’s fiduciary duties draw much of their content from 
+the common law of trusts, the law that governed most benefit 
+
+
+93-533, pp. 3-5, 11-13 (1973), 2 Legislative History of the 
+Employment Retirement Income Security Act of 1974 
+(Committee Print compiled for the Senate Subcommittee on 
+Labor of the Committee on Labor and Public Welfare by the 
+Library of Congress), Ser. No. 93-406, pp. 2350-2352, 2358- 
+2360 (1976). Rather than specifically enumerating all the powers 
+and duties of trustees and other fiduciaries, C ongress invoked 
+the common law of trusts to define the general scope of their 
+authority and responsibility. Central States, S.E.. & SW. Areas 
+Pension Fund v. Central Transport, Inc., 472 U.S. 559, 570 
+(1985). With respect to ERISA’s fiduciary duties, courts are to 
+apply common law trust standards “bearing in mind the special 
+nature and purpose of employee benefit plans.” H.R. Conf. Rep. 
+No. 93-1280, p. 302, 3 Leg. Hist. 4569. 
+
+
+The bedrock concept that remains in all health plans 
+governed by ERISA is that the Plan will have one or more 
+fiduciaries who will manage the plan with loyalty and an “eye 
+single” toward the interests of the plan participants. Donovan 
+v. Bierwirth, 680 F.2d 263, 271 (2nd Cir., 1982), cert. denied 
+459 U.S. 1069 (1982) ; Cantor, “Fiduciary Liability in Emerging 
+Health Care,” DePaul Bus. L.J., 189, 190 (1997). The “solely 
+in the interest” standard is the most fundamental of ERISA’s 
+standards imposed by § 404(a)(1). Polk, ERISA Practice & 
+Litigation, § 303(a) (West.1999 Supp.) Section 404(a)(1)(A) 
+imposes a duty to act for the “exclusive purpose” of providing 
+benefits and deferring reasonable administrative expenses, 
+which is an extension of the common law duty of loyalty. 
+
+
+4] 
+
+
+Central States at 570. To deter a trustee from all temptation 
+and to prevent any possible injury to the beneficiary, the rule 
+against a trustee dividing his loyalties must be enforced with 
+“uncompromising rigidity.” A fiduciary cannot contend that, 
+although he had conflicting interests, he served his masters 
+equally well or that his primary loyalty was not weakened by 
+the pull of his secondary one. NLRB v. Amax Coal Co., 453 
+U.S. 322, 329 (1981). 
+
+
+Here the Court of Appeals correctly ruled that this duty of 
+loyalty is directed particularly at schemes “tainted by a conflict 
+of interest and thus highly susceptible to self-dealing.” 154 F.3d 
+at 371. The Court of Appeals specifically noted that, in the case 
+at bar, members of the benefit plan’s administrative review board 
+“were the very owners of the plan, and plan beneficiaries were 
+without a single representative on the board.” 154 F.3d at 378. 
+The court further noted that the Plan dictated that the very same 
+HMO administrators vested with the authority to determine 
+whether health care claims would be paid, and the type, nature, 
+and duration of care to be given, were those physicians who 
+became eligible to receive year-end bonuses as a result of the 
+cost savings. 154 F.3d at 372.** 
+
+
+One of the overriding goals of ERISA is to prevent the 
+misuse and mismanagement of plan assets by fiduciaries. 
+See Massachusetts Mutual Life Ins., Co. v. Russell, 473 U.S. 
+134, 140 (1985). To achieve that goal, ERISA § 409(a), 
+(29 U.S.C. § 1109(a)) requires a fiduciary to disgorge to an 
+employee benefit plan, any profits made through improper use 
+of plan assets. Jd. Section 409(a) makes administrators liable 
+
+
+28. The court of appeals concluded that the self-dealing 
+administrators here were no different than the broker who was guilty 
+of “churning” the securities of a profit-sharing plan. Das/er v. E.F. 
+Hutton & Co., Inc., 694 F. Supp. 624 (D. Minn., 1988). 
+
+
+42 
+
+
+for breach of their fiduciary duties and specifies the remedies 
+available against them, including restitution. ERISA § 404(a)(1) 
+(29 U.S.C. § 1104(a)(1)) defines the duty of loyalty in terms 
+similar to those in the Restatement (Second) of Trusts. Under 
+the Restatement, when a trustee breaches his duty of loyalty, 
+the beneficiary may bring suit to recover any profits made 
+through the breach. 
+
+
+The foresight of Congress in drawing upon the common 
+law of trusts not only allows courts to fashion equitable remedies 
+to address the wrong at hand, it also allows the courts to engage 
+in specific analysis on a case by case basis. Given the incredible 
+number of managed care organization permutations (i.e., HMOs, 
+PPOs, IPAs, etc.) and given the wide variety within even those 
+sub-categories, it is unlikely that a black-letter rule of law could 
+offer the necessary protection to plan participants. Neither is it 
+advisable to legislate specific guidelines, as the rapid pace of 
+evolution of healthcare organizations would greatly outpace 
+such guidelines. The beauty of the common law is that, like 
+biblical parables, the themes are both fluid and timeless. 
+Respondent respectfully suggests that this Court decline 
+petitioners’ invitation to place certain entities beyond the reach 
+of ERISA’s common law tenets. 
+
+
+43 
+CONCLUSION 
+The decision of the Court of Appeals should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+James P. GINZKEY 
+
+Counsel of Record 
+
+Hayes, HAMMER, MILEs, 
+Cox & GINZKEY 
+
+Attorneys for Respondent 
+202 North Center Street 
+Bloomington, Illinois 61701 
+(309) 828-7331 
+
+

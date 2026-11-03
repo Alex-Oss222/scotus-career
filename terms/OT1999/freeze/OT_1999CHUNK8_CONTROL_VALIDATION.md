@@ -1,0 +1,30 @@
+# OT1999 chunk 8 control validation
+
+The supplied Run direction authorizes adjudication from the current approved brief. Its twelve Section II supplements identify October 31, 2026 approval. The runtime split was regenerated mechanically from that brief. No combined brief was supplied to a substantive neutral or modeling context. No permission to alter an approved substantive core or create a missing Stone choice is inferred.
+
+The opening tracker set is the synchronized OT1998-close set, processed through June 23, 1999. Holdings synchronization passed. The four existing workspace projections identify 84 completed Court events and four admitted nonjudicial sources through June 12, 2000. Harris Trust is an uncoordinated June 12 decision: it is excluded from the entering law of every other June 12 matter and enters assignment counts only before alphabetically later events. Its already made assignment remains untouched.
+
+The operator prohibits all Git commands. The ledger and deterministic validator are invoked through term-local wrappers replacing their Git calls. The supplied nine-column case index has annotated date cells that the stock manifest parser rejects; term-local input adapters preserve those rows and enable the same 104-item manifest and validation coverage without editing the index or governing tools. Existing ledger order and first-record references are retained without verification; new records are durably written without claiming repository commitment. Git-reference existence is expressly unperformed. Foundation, state and prior completed adjudications remain unchanged. Writes are confined to this term and ignored scratch space.
+
+## Approval and revalidation issues under examination
+
+- Apprendi: Section II describes the proposed general constitutional rule as existing simulated law. The actual Almendarez-Torres and Jones holdings expressly reserve that question. A separate operator question asks whether Stone may adopt his stated nonrecidivist rule as a new constitutional holding while preserving judgment, remedy and limits. No affirmative answer is presumed from silence. Until answered, the issue remains an assembly revalidation question, not a new holding.
+- Ramdass: the sourced posture is federal habeas on an application filed February 14, 1997, with a state merits adjudication on November 4, 1994. The approved extension and sentence-relief request must be checked against the independent statutory eligibility and error-effect requirements and the supported status of the outstanding verdict. No missing Stone ground or fact is supplied by the standing fallback.
+- A separate Ramdass clarification asks whether Stone authorizes bounded vacatur and remand under the existing effective-opportunity principle, leaving legal fixedness, statutory eligibility at the state merits cutoff, and applicable prejudice for ordinary adjudication, without ordering a new penalty proceeding now. This is a proposed change to his fixed core, not an adopted position. Silence supplies no authorization.
+- All other matters: corrected historical record facts and the full effective entering law must be compared with each approved fixed core at assembly. A corrected allegation or reservation does not itself enlarge the grant or authorize a new ground.
+
+## Isolation and source extraction
+
+Research-control contexts disclosed historical source exposures separately. Their extracts were routed to a fresh neutral validator, then separate independent modeling contexts. One neutral validator encountered earlier Supreme Court petition treatment in a Ramdass appendix; that matter was removed from its four-case June 12 freeze and independently validated in a separate fresh context. The clean Ramdass packet corrects the federal filing year from the preparation summary. No affected modeled commitment existed when that exposure occurred.
+
+The first IDEA statutory excerpts had line-offset errors. Before modeling, a script copied complete sections 604 and 615 from the saved official source using unique section markers. Fresh validation checks the replacement. Exact source passages are mechanically copied rather than retyped. Every research source remains evidence only for the propositions it supports; an unavailable filing establishes neither default nor a substantive fact.
+
+This receipt records preassembly controls. Final outcomes, assignment counts, actual joins and any stopped matters are recorded separately after the frozen stages are complete.
+
+## Focused baseline and assembly checks
+
+Harris Trust was already a completed June 12 event at intake and appears in the saved opening neutral projection. It was excluded from the selected B law slice as a distinct ERISA matter. Before the remaining June 19 assignments, its bounded Public Projection was supplied for an express clean-model and historical-reconciliation relevance check. Those separate receipts preserve the case-specific statutory-equity limits; they do not treat Harris as a new event or as entering law for its uncoordinated June 12 peers.
+
+One assembly context initially displayed additional B neutral sections while reading its assigned two matters. It reported the scope overread and thereafter used scoped extracts. No withheld Stone material or unauthorized comparator was exposed, and no neutral or modeling context received the assembly inputs. A separate limited draft QA was stopped to free a slot and expressly reported its incomplete coverage; it is not represented as a completed substantive audit.
+
+A retrospective recount initially included Reeves itself because the requested caption retained a terminal period while the Record parser removes it. The term-local comparison now normalizes the requested natural key in the same way. All nine saved preassignment receipts then matched the actual earlier Records exactly. The original assignments were unaffected because each current Record did not yet exist when its count was made; no saved count or assignment was revised.

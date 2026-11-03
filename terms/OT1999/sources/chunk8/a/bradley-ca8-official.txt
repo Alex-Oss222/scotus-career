@@ -1,0 +1,747 @@
+                   United States Court of Appeals
+
+                          FOR THE EIGHTH CIRCUIT
+                                   _____________
+
+                                  No. 98-1010
+                                _____________
+
+Thomas Bradley, as Natural Guardian *
+
+of, and on behalf of David Bradley, a *
+
+minor; Dianna Bradley, as Natural   *
+
+Guardian of, and on behalf of David *
+
+Bradley, a minor;                   *
+
+                                    *
+
+           Plaintiffs - Appellees,  *
+
+                                    *
+
+United States of America,           *
+
+                                    *
+
+           Intervenor on Appeal,    *       Appeals from the United States
+                                            District Court for the
+                                    *       Eastern District of Arkansas.
+
+       v.                           *
+
+                                    *
+
+Arkansas Department of Education; *
+
+Mike Crowley, individually and in his *
+
+capacity as an employee of the      *
+
+Arkansas Department of Education; *
+
+                                    *
+
+           Defendants - Appellants, *
+
+                                    *
+
+Williford School District 39; John Does, *
+
+1-10,                               *
+
+                                    *
+
+           Defendants,              *
+
+------------------------------      *
+
+                                    *
+
+Advocacy Services, Inc.,            *
+
+                                    *
+
+           Amicus Curiae.           *
+                                     ___________
+
+                                     No. 98-1830
+                                     ___________
+
+Jim C, individually and as parent and *
+
+next friend of J.C.; Susan C,        *
+
+individually and as parent and next  *
+
+friend of J.C.;                      *
+
+                                     *
+
+    Plaintiffs - Appellees,          *
+
+                                     *
+
+United States of America,            *
+
+                                     *
+
+    Intervenor on Appeal,            *
+
+                                     *
+
+v.                                   *
+
+                                     *
+
+Atkins School District; Arch Ford    *
+
+Education Service Cooperative;       *
+
+                                     *
+
+    Defendants,                      *
+
+                                     *
+
+Arkansas Department of Education, *
+
+                                     *
+
+    Defendant - Appellant. *
+
+                                   _____________
+
+                                Submitted: September 24, 1998
+                                     Filed: August 31, 1999
+
+                                 _____________
+
+                                     -2-
+Before BOWMAN, Chief Judge,1 LOKEN, and KELLY,2 Circuit Judges.
+                                         _____________
+
+BOWMAN, Chief Judge.
+
+       In these two cases, consolidated on appeal, Arkansas residents brought suit
+against the Arkansas Department of Education (ADE) and other defendants, alleging
+violations of the Individuals with Disabilities Education Act (IDEA), 20 U.S.C.A.
+§§ 1400-1487 (West Supp. 1999); § 504 of the Rehabilitation Act (RA), 29 U.S.C.
+§ 794 (1994); and other provisions of state and federal law. The State of Arkansas,
+representing the ADE and Mike Crowley, a Bradley defendant and ADE employee,
+moved the District Court in each case to dismiss the actions, claiming the Eleventh
+Amendment prevented a federal court from exercising jurisdiction over such claims.
+The District Court denied Arkansas's motions with respect to the IDEA and, in Jim C.,
+§ 504 of the RA. The state then filed these interlocutory appeals.
+
+                                                  I.
+
+       These interlocutory appeals involve exclusively legal issues, so we provide only
+a brief summary of the facts of each case. In Bradley, Thomas and Dianna Bradley
+filed suit against the ADE, ADE employee Mike Crowley, the local school district, and
+other unidentified individual defendants, alleging violations of the IDEA and other
+state and federal statutes. The Bradleys' IDEA claim asserts that the ADE, Crowley,
+
+       1The Honorable Pasco M. Bowman stepped down as Chief Judge of the United
+States Court of Appeals for the Eighth Circuit at the end of the day on April 23, 1999.
+He has been succeeded by the Honorable Roger L. Wollman.
+
+       2The Honorable John D. Kelly died on October 21, 1998. The case has been
+decided by the remaining members of the panel pursuant to 28 U.S.C. § 46(d) (1994)
+and 8th Cir. R. 47E.
+
+                                                         -3-
+and the local school district failed to provide an adequate due process hearing under the
+IDEA to review their son David's Individual Education Program (IEP).3
+
+       Representing the ADE and Crowley, Arkansas moved for dismissal or in the
+alternative for summary judgment on a number of grounds. One argument Arkansas
+raised is that the Eleventh Amendment bars a federal court from exercising jurisdiction
+over the Bradleys' IDEA claim.
+
+       The Honorable James M. Moody, United States District Judge for the Eastern
+District of Arkansas, denied the state's motion. Judge Moody concluded that the IDEA
+was a valid exercise of Congress's power under § 5 of the Fourteenth Amendment to
+enforce the Equal Protection Clause, and that the IDEA's provisions abrogating the
+state's Eleventh Amendment immunity therefore were valid under Seminole Tribe of
+Florida v. Florida, 517 U.S. 44 (1996). See Bradley v. Arkansas Dep't of Educ., No.
+LR-C-96-1004, slip op. at 4 (E.D. Ark. Nov. 21, 1997) (order denying motion to
+dismiss or for summary judgment). Arkansas appealed the denial of its motion to
+dismiss the Bradleys' IDEA claim on Eleventh Amendment grounds, and Judge Moody
+stayed proceedings pending this appeal.
+
+       In Jim C., Jim and Susan C. filed suit against the ADE, Arch Ford Education
+Services Cooperative, and the local school district, alleging violations of the IDEA, §
+504 of the RA, 42 U.S.C. § 1983 (1994), and state law. In particular, Jim and Susan C.
+claimed that their child, J.C., should receive additional treatment consistent with the
+Lovaas program, a methodology found to have some success in treating children with
+autism. See Jim C. v. Atkins Sch. Dist., No. LR-C-96-748, slip op. at 2 (E.D. Ark.
+
+       3An IEP is a written statement that indicates the educational performance level
+of a child with a disability and the special and mainstream services that will be used to
+accommodate the child and ensure that the child receives an appropriate education.
+See 20 U.S.C.A. §§ 1401(11), 1414(d) (West Supp. 1999).
+
+                                                         -4-
+Feb. 23, 1998) (memorandum opinion and order). Representing the ADE, Arkansas
+moved for dismissal or in the alternative for summary judgment, asserting in part that
+the Eleventh Amendment prevented a federal court from exercising jurisdiction over
+Jim and Susan C.'s IDEA, § 504, and § 1983 claims.
+
+       The Honorable G. Thomas Eisele, United States District Judge for the Eastern
+District of Arkansas, denied Arkansas's motion to dismiss Jim and Susan C.'s IDEA
+and § 504 claims. Judge Eisele agreed with Judge Moody's order in Bradley that the
+abrogation provision in the IDEA was a valid exercise of Congress's § 5 power. See
+id. at 5-6 (quoting Bradley, LR-C-96-1004, slip op. at 4). Judge Eisele also determined
+§ 504 was a valid exercise of Congress's § 5 power. See id. at 7.4 Therefore, the
+District Court concluded it had jurisdiction over the IDEA and § 504 claims. Arkansas
+appealed, and the District Court held in abeyance its ruling on further motions and
+granted a continuance while the appeal was pending. See id. Arkansas then requested
+that Jim C. be consolidated with Bradley.
+
+                                                 II.
+
+       The text of the Eleventh Amendment reads: "The Judicial power of the United
+States shall not be construed to extend to any suit in law or equity, commenced or
+prosecuted against one of the United States by Citizens of another State, or by Citizens
+or Subjects of any Foreign State." U.S. Const. amend. XI. The Amendment's text,
+however, does not accurately define the bounds of the immunity that the Amendment
+reflects. See Alden v. Maine, 119 S. Ct. 2240, 2246 (1999) (stating that "Eleventh
+Amendment immunity," while a convenient shorthand, is "something of a misnomer,
+
+       4Judge Eisele concluded that the Eleventh Amendment prevents the District
+Court from exercising jurisdiction over the § 1983 claim Jim and Susan C. brought
+against the ADE, and therefore dismissed that claim. See Jim C., LR-C-96-748, slip
+op. at 7. This ruling has not been appealed.
+
+                                                         -5-
+for the sovereign immunity of the States neither derives from nor is limited by the terms
+of the Eleventh Amendment"). Rather, Eleventh Amendment immunity generally
+prevents an unwilling state from being sued in federal court. See Florida Prepaid
+Postsecondary Educ. Expense Bd. v. College Sav. Bank, 119 S. Ct. 2199, 2204 (1999)
+[hereinafter Florida Prepaid]; Seminole Tribe, 517 U.S. at 54; see also Idaho v. Coeur
+d'Alene Tribe of Idaho, 521 U.S. 261, 267 (1997) (saying the Eleventh Amendment
+"enacts a sovereign immunity from suit, rather than a nonwaivable limit on the Federal
+Judiciary's subject-matter jurisdiction"). The Amendment's protections also may reach
+to state officials and state agencies, see Hadley v. North Ark. Community Technical
+College, 76 F.3d 1437, 1438 (8th Cir. 1996) (quoting Pennhurst State Sch. & Hosp. v.
+Halderman, 465 U.S. 89, 123 n.34 (1984)), cert. denied 519 U.S. 1148 (1997), and to
+suits brought against a state by citizens of that same state, see Hans v. Louisiana, 134
+U.S. 1, 15 (1890); see also Coeur d'Alene, 521 U.S. at 268 (reaffirming Hans).
+Therefore, the Eleventh Amendment may prevent the plaintiffs in these consolidated
+cases, all citizens of Arkansas, from proceeding in federal court against the ADE, an
+Arkansas state agency, and defendant Crowley, an ADE official, for alleged violations
+of the IDEA and § 504.
+
+       Although agreeing that Eleventh Amendment analysis is appropriate, the
+plaintiffs and intervenor the United States argue that three exceptions to Arkansas's
+Eleventh Amendment immunity allow the plaintiffs to proceed with their claims in
+federal court. First, the plaintiffs assert that Congress, exercising the power granted it
+by § 5 of the Fourteenth Amendment, abrogated the states' immunity and forced
+unwilling states to defend themselves in federal court against claims brought for
+violating the IDEA and § 504. Second, they argue that Arkansas waived its Eleventh
+Amendment immunity because it received federal funds appropriated with the
+conditions imposed by the IDEA and § 504, and that one of the conditions imposed
+was that a state consent to defend itself in federal court against claims arising under
+those statutes. Finally, the Bradleys contend that, even if Arkansas is shielded by its
+
+                                                         -6-
+Eleventh Amendment immunity, defendant Crowley nevertheless may be enjoined from
+engaging in future conduct that is contrary to federal law.
+
+                                                 III.
+
+       Turning first to the plaintiffs' arguments that federal courts have jurisdiction over
+IDEA claims brought against the ADE and, in Bradley, defendant Crowley, we note
+that this Court recently has considered whether a state may be sued in federal court for
+alleged violations of the IDEA. In that decision, Little Rock School District v.
+Mauney, No. 98-1721, 1999 WL 407763 (8th Cir. Jun. 14, 1999), we allowed private
+citizens' claims that the ADE had violated the IDEA to proceed in federal court on two
+independent grounds, either of which was a sufficient basis for rejecting the ADE's
+claim of Eleventh Amendment immunity: (1) that the IDEA abrogated the states'
+immunity and that the abrogation was effective because Congress exercised its power
+under § 5 of the Fourteenth Amendment when enacting the IDEA; and (2) that
+Congress created a valid spending program when it enacted the IDEA, and that
+Arkansas waived its immunity when it participated in IDEA programs, accepting funds
+appropriated pursuant to the IDEA and governed by the conditions imposed by the
+IDEA. See id. at *11-*12.
+
+       After our opinion in Mauney was filed, however, the Supreme Court announced
+a trilogy of Eleventh Amendment cases, Alden, Florida Prepaid, and College Savings
+Bank v. Florida Prepaid Postsecondary Education Expense Board, 119 S. Ct. 2219
+(1999) [hereinafter College Savings]. This Court then announced its en banc decision
+in Alsbrook v. City of Maumelle, No. 97-1825, 1999 WL 521709 (8th Cir. Jul. 23,
+1999) (en banc). Looking at these more recent authorities, we conclude that Florida
+Prepaid and Alsbrook undercut Mauney's abrogation analysis. Therefore, we
+reexamine the question whether a private citizen's suit for a violation of the IDEA may
+be brought against an unwilling state in federal court.
+
+                                                         -7-
+                                                 A.
+
+       To determine whether the IDEA abrogates the states' immunity, we begin, as
+Mauney and the subsequent decisions of this Court and the Supreme Court do, with the
+two-part Seminole Tribe test. See, e.g., Florida Prepaid, 119 S. Ct. at 2205; Alsbrook,
+1999 WL 521709, at *4; Mauney, 1999 WL 407763, at *3. The first part of the
+Seminole Tribe test requires that a federal statute contain an "unequivocal expression"
+of Congress's intent to abrogate the states' immunity. See Seminole Tribe, 517 U.S. at
+55. The IDEA contains an abrogation provision, 20 U.S.C. § 1403, which reads in
+part: "A State shall not be immune under the eleventh amendment to the Constitution
+of the United States from suit in Federal court for a violation of this chapter." 20
+U.S.C.A. § 1403(a) (West Supp. 1999). In Mauney, a panel of this Court stated that
+the IDEA abrogation provision satisfies the first part of the Seminole Tribe test.
+See Mauney, 1999 WL 407763, at *4. The subsequent decisions of this Court and the
+Supreme Court do not undermine this part of Mauney: both Florida Prepaid and
+Alsbrook conclude that abrogation provisions that essentially mirror § 1403 satisfy the
+first part of the Seminole Tribe test. See Florida Prepaid, 119 S. Ct. at 2205 (stating
+the abrogation provision in the Patent and Plant Variety Protection Act, 35 U.S.C. §
+296(a), satisfies the first part of the Seminole Tribe test); Alsbrook, 1999 WL 521709,
+at *4 (concluding the abrogation provision in the Americans with Disabilities Act, 42
+U.S.C. § 12202 (1994), unequivocally expresses Congress's intent to abrogate the
+states' immunity). After examining these authorities, we believe Mauney's
+determination that § 1403 offers an unequivocal expression of Congress's intent to
+abrogate the states' immunity remains correct.
+
+       The second part of the Seminole Tribe test requires that a statute be an
+appropriate exercise of Congress's constitutional powers for its abrogation provision
+to have effect. See Seminole Tribe, 517 U.S. at 55. The Supreme Court and this Court
+
+                                                         -8-
+have recognized only one constitutional power under which Congress may abrogate the
+states' Eleventh Amendment immunity, the power granted Congress by § 5 of the
+Fourteenth Amendment. See Florida Prepaid, 119 S. Ct. at 2205-06; Alsbrook, 1999
+WL 521709, at *4. Section 5 empowers Congress to "enforce, by appropriate
+legislation, the provisions" of the Fourteenth Amendment, including the Equal
+Protection Clause. See U.S. Const. amend. XIV, § 5; see also U.S. Const. amend.
+XIV, § 1 (containing the Equal Protection Clause, which commands that no state shall
+"deny to any person within its jurisdiction the equal protection of the laws").
+
+       Legislation is an appropriate exercise of Congress's § 5 power only when it is
+preventative or remedial. See City of Boerne v. Flores, 521 U.S. 507, 530 (1997). For
+legislation to be preventative or remedial, Congress must "identify the conduct
+transgressing the Fourteenth Amendment's substantive provisions, and must tailor its
+legislative scheme to remedying or preventing such conduct." Florida Prepaid, 119 S.
+Ct. at 2207.
+
+       Because the briefs in this case were submitted prior to the Court's decision in
+Florida Prepaid, the parties did not pinpoint the constitutional transgressions Congress
+sought to remedy when it enacted the IDEA. "[G]uided by the principle that the
+propriety of any § 5 legislation 'must be judged with reference to the historical
+experience . . . it reflects,'" id. (quoting Boerne, 521 U.S. at 525), we have reviewed
+the legislative history and believe that Congress did not adequately identify the
+constitutional transgressions it sought to remedy when it enacted the IDEA. Congress
+did identify significant disparities in the treatment of students with disabilities and those
+without disabilities, and made six relevant findings regarding these differences:
+
+       (1) there are more than eight million children with disabilities in the
+       United States today;
+       (2) the special educational needs of such children are not being fully met;
+
+                                                         -9-
+       (3) more than half of the children with disabilities in the United States do
+       not receive appropriate educational services which would enable them to
+       have full equality of opportunity;
+       (4) one million of the children with disabilities in the United States are
+       excluded entirely from the public school system and will not go through
+       the educational process with their peers;
+       (5) there are many children with disabilities throughout the United States
+       participating in regular school programs whose disabilities prevent them
+       from having a successful educational experience because their disabilities
+       are undetected; [and]
+       (6) because of the lack of adequate services within the public school
+       system, families are often forced to find services outside the public school
+       system, often at great distance from their residence and at their own
+       expense.
+
+20 U.S.C. § 1400(b)(1)-(6) (1994); see also Board of Educ. v. Rowley, 458 U.S. 176,
+189 (1982) (discussing these congressional findings); Mauney, 1999 WL 407763, at
+*6 (same).
+
+       In making these six findings, however, Congress did not find that the disparate
+treatment of students with disabilities resulted from action by the states or, if it did,
+that such state action violated the Equal Protection Clause. Florida Prepaid requires
+that Congress find that the states themselves are transgressing the constitution. See
+Florida Prepaid, 119 S. Ct. at 2207 (stating that, when Congress enacted the patent
+infringement legislation at issue in that case, "Congress identified no pattern of patent
+infringement by the States, let alone a pattern of constitutional violations"). Congress
+did not purport to find that the disparate treatment of students with disabilities resulted
+from state action in violation of the Constitution, which requires states only to have a
+rational basis to justify treating students with disabilities differently from those without
+disabilities. See City of Cleburne v. Cleburne Living Ctr., 473 U.S. 432, 445-46
+(1985). Moreover, Congress did not indicate whether the states were treating students
+differently, or whether local school districts were responsible for the lack of education
+for disabled children that Congress sought to remedy when it enacted the IDEA.
+
+                                                        -10-
+       Whether Congress correctly identified the constitutional transgressions it sought
+to remedy, however, is not decisive in this case. Even if we assume Congress
+adequately identified perceived constitutional transgressions it sought to remedy when
+it enacted the IDEA, Alsbrook requires us to conclude that the IDEA's abrogation
+provision is invalid because the IDEA is not an appropriate exercise of Congress's § 5
+power. The same difficulty that this Court found with the ADA in Alsbrook applies to
+the IDEA in the present case. Like the ADA, the IDEA "does far more than enforce
+the rational relationship standard recognized by the Supreme Court in Cleburne."
+Alsbrook, 1999 WL 521709, at *6 (discussing the ADA). In many instances, programs
+rationally related to a legitimate state interest--and thus constitutional under Cleburne--
+would be struck down as failing to satisfy the IDEA's requirement that students with
+disabilities receive a "free appropriate public education." 20 U.S.C. § 1400(c) (1994);
+cf. Alsbrook, 1999 WL 521709, at *6 (stating that, for the same reason, the ADA
+exceeds Congress's § 5 power). The Constitution would not, for example, require a
+local school district to provide the nursing care that the Supreme Court in Cedar Rapids
+Community School District v. Garrett F. ex rel. Charlene F., 119 S. Ct. 992 (1999),
+determined the IDEA requires.
+
+       Although this Court in Mauney determined that the IDEA had the requisite
+congruence and proportionality to Congress's goal of providing equal educational
+opportunity for students with disabilities, see Mauney, 1999 WL 407763, at *11, we
+now must conclude that the IDEA extends beyond the power granted Congress by § 5
+of the Fourteenth Amendment. The IDEA, therefore, cannot be an appropriate exercise
+of Congress's § 5 power, and its abrogation provision is not valid. See Alsbrook, 1999
+WL 521709, at *5 (stating that, if legislation seeks to "expand, enhance, or add to the
+guarantees of the Fourteenth Amendment," that legislation's abrogation provision is
+invalid). The abrogation portion of Mauney has been undercut by subsequent events
+that have changed the legal landscape, and we believe that this portion of Mauney no
+longer represents current law.
+
+                                                        -11-
+                                                 B.
+
+       In addition to its abrogation holding, Mauney holds that Arkansas waived its
+Eleventh Amendment immunity by receiving funds appropriated under the IDEA.
+See Mauney, 1999 WL 407763, at *11. The Supreme Court's recent decisions add to
+the Court's waiver jurisprudence, see, e.g., College Savings, 119 S. Ct. at 2228
+(rejecting the concept of constructive waiver), but these decisions do not affect
+Mauney's analysis of the waiver issue. Rather, the Supreme Court continues to
+recognize that Congress, if acting within its spending power, may condition a state's
+participation in a federal spending program on the state's waiving its Eleventh
+Amendment immunity to claims arising from that program. See College Savings, 119
+S. Ct. at 2231; see also Alden, 119 S. Ct. at 2267. The waiver portion of Mauney has
+not been undercut by subsequent decisions. Thus this portion of Mauney represents the
+law of the Circuit and we are bound by it.5
+
+       For a federal statute to produce a waiver of a state's immunity through the state's
+participation in a federal spending program, the statute must provide a clear expression
+of Congress's "intent to condition participation in the program[] . . . on a State's consent
+to waive its constitutional immunity." Atascadero State Hosp. v. Scanlon, 473 U.S.
+234, 247 (1985).6 This Court noted in Mauney that there has been some unease in
+
+       5For the record, we would have reached the same conclusion regarding waiver
+even if we had decided the present case in advance of Mauney.
+
+       6In Part IV.B of this opinion, we identify three requirements a federal
+appropriations statute must satisfy before a state's participation in that spending
+program causes the state to waive its Eleventh Amendment immunity to suits arising
+from such participation. We do not analyze all three elements here because this Court
+already has determined in Mauney that Arkansas waived its immunity to suits arising
+under the IDEA by receiving IDEA funds, and because Arkansas conceded during oral
+argument that the IDEA was a valid exercise of Congress's spending power and that the
+state received funds under the IDEA.
+
+                                                        -12-
+finding that § 1403, the IDEA's abrogation provision, satisfies this requirement,
+because § 1403 is entitled "Abrogation of state sovereign immunity" and does not
+mention waiver. See Mauney, 1999 WL 407763, at *11. Although § 1403 has some
+shortcomings that limit its use as a clear expression of Congress's intent to condition
+a receipt of IDEA funds on a state's waiving its immunity, another provision of the
+IDEA reinforces the warning contained in § 1403. That provision, IDEA § 1415,
+requires states to provide certain procedures for parents who wish to challenge a state's
+implementation of the "free appropriate public education" standard. See 20 U.S.C.A.
+§ 1415(a) (West Supp. 1999). One of the procedures that must be provided is the
+opportunity to have IDEA decisions reviewed in federal court. See 20 U.S.C.A.
+§ 1415(i)(2) (West Supp. 1999) (stating that parties who are aggrieved by a decision
+under the IDEA may file an action in a federal district court); see also 20 U.S.C.A.
+§ 1415(i)(3)(A) (West Supp. 1999) (stating that "district courts of the United States
+shall have jurisdiction of actions brought under this section without regard to the
+amount in controversy"). When it enacted §§ 1403 and 1415, Congress provided a
+clear, unambiguous warning of its intent to condition a state's participation in the IDEA
+program and its receipt of federal IDEA funds on the state's waiver of its immunity
+from suit in federal court on claims made under the IDEA. We therefore hold in
+accordance with Mauney that Arkansas waived its Eleventh Amendment immunity with
+respect to IDEA claims when it chose to participate in the federal spending program
+created by the IDEA.
+
+                                                 C.
+
+       The Bradleys argue that, even if the ADE could not be sued in federal court, Ex
+parte Young, 209 U.S. 123 (1908), allows them to seek to enjoin ADE officials,
+including defendant Crowley, from committing violations of federal law. We agree.
+Ex parte Young permits a private party to receive prospective injunctive relief in
+federal court against a state official, even if the Eleventh Amendment otherwise
+protects the state and its officials from being sued in federal court. See Ex parte
+
+                                                        -13-
+Young, 209 U.S. at 155-56, 159, 166-68 (allowing a federal court to ignore a state's
+Eleventh Amendment immunity and impose prospective injunctive relief on state
+officials to enjoin a future violation of federal law); see also Missouri v. Jenkins, 491
+U.S. 274, 279 (1989) (stating that a state's Eleventh Amendment immunity does not
+prevent "an award of attorney's fees ancillary to a grant of prospective relief" pursued
+under Ex parte Young).7
+
+       Furthermore, even if Ex parte Young did not apply, the Bradleys could pursue
+any remedies available under the IDEA against Crowley because, when Arkansas
+waived its own Eleventh Amendment immunity with respect to IDEA claims, it also
+waived any Eleventh Amendment immunity Crowley might have had as a state official
+with respect to such claims. "The only immunities that can be claimed in an official-
+capacity action are forms of sovereign immunity that the entity, qua entity, may
+possess, such as the Eleventh Amendment." Kentucky v. Graham, 473 U.S. 159, 167
+(1985). Under Graham, when Arkansas waived its own Eleventh Amendment
+immunity from suits brought under the IDEA, the state also waived the Eleventh
+Amendment immunity of its officials from such suits. See Duffy v. Riveland, 98 F.3d
+447, 452 n.4 (9th Cir. 1996). The District Court, therefore, may exercise jurisdiction
+over the Bradleys' IDEA claims against Crowley and may provide any relief that the
+IDEA authorizes.
+
+       7The Bradleys make no claim for compensatory or punitive damages, damages
+not being available for violations of the IDEA. See, e.g., Thompson v. Board of
+Special Sch. Dist. No. 1, 144 F.3d 574, 579 (8th Cir. 1998); Heidemann v. Rother, 84
+F.3d 1021, 1033 (8th Cir.1996).
+
+                                                        -14-
+                                                IV.
+
+       Next, we turn to Arkansas's contention that the Eleventh Amendment prevents
+the states from being forced to litigate in federal court claims arising under § 504 of the
+Rehabilitation Act. Section 504 states in part:
+
+       No otherwise qualified individual with a disability in the United States .
+       . . shall, solely by reason of her or his disability, be excluded from the
+       participation in, be denied the benefits of, or be subjected to
+       discrimination under any program or activity receiving Federal financial
+       assistance or under any program or activity conducted by any Executive
+       agency or by the United States Postal Service.
+
+29 U.S.C. § 794(a) (1994). Arkansas concedes that the ADE receives federal funds,
+and apparently the state does not dispute that § 504 prohibits the ADE from
+discriminating on the basis of disability. The state does assert that the Eleventh
+Amendment bars federal courts from exercising judicial power over the state with
+respect to claims brought under § 504. Therefore, we apply the same analysis that we
+applied to the IDEA in Parts III.A and III.B of this opinion to determine whether Jim
+and Susan C. may pursue their § 504 claim against the ADE in federal court.
+
+                                                 A.
+
+       To determine whether § 504 abrogates the states' Eleventh Amendment
+immunity, we again engage in Seminole Tribe's two-part analysis. First, the statute
+must contain an unequivocal expression of Congress's intent to abrogate the states'
+Eleventh Amendment immunity. In 1985, the Court in Atascadero held that § 504
+lacked the required expression of intent. See 473 U.S. at 247. Congress responded by
+enacting an abrogation provision, now codified as 42 U.S.C. § 2000d-7 (1994). See
+Lane v. Pena, 518 U.S. 187, 198 (1996) (discussing the legislative history of
+§ 2000d-7). This abrogation provision states:
+
+                                                        -15-
+       (a) General provision
+
+               (1) A State shall not be immune under the Eleventh
+               Amendment of the Constitution of the United States from
+               suit in Federal court for a violation of section 504 of the
+               Rehabilitation Act of 1973, title IX of the Education
+               Amendments of 1972, the Age Discrimination Act of 1975,
+               Title VI of the Civil Rights Act of 1964, or the provisions of
+               any other Federal statute prohibiting discrimination by
+               recipients of Federal financial assistance.
+
+               (2) In a suit against a State for a violation of a statute
+               referred to in paragraph (1), remedies (including remedies
+               both at law and in equity) are available for such a violation
+               to the same extent as such remedies are available for such a
+               violation in the suit against any public or private entity other
+               than a State.
+
+42 U.S.C. § 2000d-7(a) (1994) (internal citations omitted). This Court already has
+concluded in Alsbrook and Mauney that abrogation provisions mirroring 42 U.S.C.
+§ 2000d-7 adequately express Congress's intent to abrogate. See Alsbrook, 1999 WL
+521709, at *4 (examining the ADA abrogation provision, codified at 42 U.S.C. § 12202
+(1994)); Mauney, 1999 WL 407763, at *11 (examining the IDEA's abrogation
+provision, 20 U.S.C. § 1403). Because we find no material differences between
+§ 2000d-7 and the abrogation provisions considered and found adequate in Alsbrook
+and Mauney, we conclude that § 504 also satisfies the first part of the Seminole
+Tribe test.
+
+       The second part of the Seminole Tribe test, as discussed supra in Part III.A,
+requires that a statute be an appropriate exercise of Congress's constitutional powers
+for the statute's abrogation provision to have effect. See Seminole Tribe, 517 U.S. at
+55. The United States, intervening in this litigation, argues that § 504 is a valid
+exercise of Congress's power under § 5 of the Fourteenth Amendment. Congress did
+
+                                                        -16-
+not rely expressly on its § 5 power when it enacted § 504 or its abrogation provision,
+42 U.S.C. § 2000d-7. See Franks v. Kentucky Sch. for the Deaf, 142 F.3d 360, 363
+(6th Cir. 1998). But there is no requirement that a statute specifically refer to § 5 of
+the Fourteenth Amendment for the statute to be a valid exercise of that constitutional
+power. See EEOC v. Wyoming, 460 U.S. 226, 243 n.18 (1983) (stating that Congress
+need not "recite the words 'section 5' or 'Fourteenth Amendment' or 'equal protection'
+for the constitutionality of action taken by Congress does not depend on recitals of the
+power which it undertakes to exercise" (internal quotation and citation omitted)); see
+also Humenansky v. Regents of the Univ. of Minn., 152 F.3d 822, 830 (8th Cir.1998).
+"As long as Congress had such authority as an objective matter, whether it also had the
+specific intent to legislate pursuant to that authority is irrelevant." Crawford v. Davis,
+109 F.3d 1281, 1283 (8th Cir. 1997). Therefore, although the legislative history of §
+504 does not mention § 5 of the Fourteenth Amendment, we must consider whether
+Congress has the constitutional power under § 5 of the Fourteenth Amendment to enact
+§ 504. Accordingly, we examine whether Congress adequately identified the
+constitutional transgressions it sought to remedy, and whether § 504 is properly
+tailored, with the requisite congruity and proportionality, to remedy those
+transgressions. See Florida Prepaid, 119 S. Ct. at 2207; Boerne, 512 U.S. at 520.
+
+       When we consider the legislative history of § 504 and its abrogation provision,
+we find little indication that Congress properly identified constitutional transgressions
+it sought to remedy by enacting § 504. In fact, the legislative history is largely silent
+regarding the reason § 504 was included in the RA. The Joint Explanatory Statement
+of the Committee of the Conference, for example, does not mention § 504.
+See J. Conf. Rep. No. 93-500, reprinted in 1973 U.S.C.C.A.N. 2143; see
+also Richard K. Scotch, From Good Will to Civil Rights: Transforming Federal
+Disability Policy 54 (1984) ("It appears that most members of Congress either were
+unaware that § 504 was included in the act or saw the section as little more than a
+platitude, a statement of a desired goal with little potential for causing institutional
+change."). Similarly, the legislative history of the abrogation provision does not
+
+                                                        -17-
+identify constitutional transgressions that make such a provision appropriate. The
+legislative history of § 2000d-7 instead reveals only that Congress sought to override
+the Supreme Court's decision in Atascadero by providing an unequivocal expression
+of Congress's intent to abrogate the states' immunity. See, e.g., 132 Cong. Rec.
+S28622-24 (daily ed. Oct. 3, 1986) (statement of Sen. Cranston and attached letter
+from John R. Bolton, Assistant Attorney General, stating that the purpose of the Civil
+Rights Remedies Equalization Act is to remedy the statutory flaw identified in
+Atascadero). The legislative history apparently lacks any indication of why Congress
+thought such abrogation was necessary or appropriate.
+
+       We again refrain from relying on Congress's failure to identify properly the evil
+it sought to remedy, however, because this issue was not fully briefed and would not
+affect the outcome of our analysis. Instead, Alsbrook compels us to conclude that
+§ 504 reaches beyond the scope of Congress's § 5 power. As noted supra in Part III.A,
+this Court determined in Alsbrook that Title II of the ADA exceeds Congress's § 5
+power because the ADA is not merely remedial, but provides substantive rights in
+excess of those that are protected by the Constitution from impairment by government
+action. See Alsbrook, 1999 WL 521709, at *6. Alsbrook requires us to reach the same
+conclusion here, because the ADA and § 504 provide essentially the same protections
+for the same group of individuals, people with disabilities. See § 29 U.S.C. 794(d)
+(1994) (directing that courts should use the same standard to determine if § 504 and the
+sections of the ADA relating to employment have been violated).8 The only difference
+
+       8Regulations promulgated under the RA require schools to provide a "free
+appropriate public education," the same standard imposed by the IDEA. See, e.g., 34
+C.F.R. § 104.33(a) (1998) (requiring recipients of federal funds that operate public
+elementary or secondary education programs to provide a free appropriate public
+education to qualified persons with disabilities). We already have determined that the
+"free appropriate public education" standard exceeds the constitutional burdens
+imposed by the Equal Protection Clause. See supra Part III.A. These regulations,
+therefore, do not save § 504's abrogation provision.
+
+                                                        -18-
+between the ADA and § 504 is § 504's application only to recipients of federal funds.
+See Randolph v. Rogers, 170 F.3d 850, 858 (8th Cir. 1999) ("The ADA and [§ 504 of
+the] RA are 'similar in substance' and, with the exception of the RA's federal funding
+requirement, 'cases interpreting either are applicable and interchangeable.'") (quoting
+Gorman v. Bartch, 152 F.3d 907, 912 (8th Cir. 1998)). This distinction is immaterial
+to our § 5 analysis.
+
+       This Court determined in Alsbrook that the ADA employment provisions were
+not an appropriate exercise of Congress's § 5 power because the ADA imposes duties
+upon the states exceeding those commanded by the Fourteenth Amendment. Applying
+the reasoning of Alsbrook, we conclude that § 504 does not abrogate the states'
+Eleventh Amendment immunity.9
+
+       9In concluding that § 504 does not abrogate the states' immunity, we recognize
+the existence of decisions to the contrary by the Fourth, Fifth, and Ninth Circuits that
+predate the Supreme Court's Alden trilogy. See Amos v. Maryland Dep't of Pub. Safety
+& Correctional Servs., 178 F.3d 212, 222-23 (4th Cir. 1999); Coolbaugh v. Louisiana,
+136 F.3d 430, 438 (5th Cir.), cert. denied, 119 S. Ct. 58 (1998); Clark v. California,
+123 F.3d 1267, 1270 (9th Cir. 1997), cert. denied, 118 S. Ct. 2340 (1998). We also are
+aware of dicta contained in earlier Supreme Court opinions to the effect that § 504
+abrogated the states' immunity. See, e.g., Franklin v. Gwinnett County Pub. Sch., 503
+U.S. 60, 72 (1992) (in which the Court, while considering whether Title IX creates an
+implied right of private action, stated that Congress when enacting 42 U.S.C. § 2000d-7
+"abrogated the States' Eleventh Amendment immunity under Title IX, Title VI, § 504
+of the Rehabilitation Act of 1973, and the Age Discrimination Act of 1975"). This sort
+of dicta, unsupported by Seminole Tribe's abrogation analysis, is probably best read
+simply as a statement of historical legislative fact rather than as a statement of
+constitutional law. To give it import as a statement of constitutional law would be to
+render it out of step with the Court's more recent decisions.
+
+                                                        -19-
+                                                 B.
+
+       We next consider whether Arkansas waived its Eleventh Amendment immunity
+with respect to claims arising under § 504 by accepting federal funds. Examining the
+Supreme Court's decisions in Atascadero and Pennhurst State School & Hospital v.
+Halderman, 451 U.S. 1 (1981), we find three requirements that must be satisfied if a
+state's participation in a federal spending program is to be held to constitute a waiver
+of the state's Eleventh Amendment immunity against claims arising under that program.
+The three requirements are: (1) the federal spending program must represent a valid
+exercise of Congress's spending power; (2) the statute creating the federal spending
+program must contain a clear, unambiguous warning that Congress intends to exact
+waiver of Eleventh Amendment immunity as a condition for participating in the
+program; and (3) the state must have participated in the federal spending program. See
+Atascadero, 473 U.S. at 247;Pennhurst, 451 U.S. at 17; see also Abril v. Virginia, 145
+F.3d 182, 190-91 (4th Cir. 1998) (formulating a two-factor test to determine if states
+have waived their immunity).
+
+       Section 504 fails the first requirement because it is not a valid exercise of
+Congress's spending power. College Savings recognizes that Congress may require
+states to comply with conditions to receive federal funds, including waiving their
+Eleventh Amendment immunity. See College Savings, 119 S. Ct. at 2231. College
+Savings warns, however, that "the financial inducements offered by Congress might be
+so coercive as to pass the point at which pressure turns into compulsion." Id. (internal
+quotations and citations omitted). There are also limitations on the conditions that
+Congress may impose on a state's receipt of federal funds. One of these limitations is
+that "conditions must . . . bear some relationship to the purpose of the federal spending;
+otherwise, of course, the spending power could render academic the Constitution's
+other grants and limits of federal authority." New York v. United States, 505 U.S.
+144, 167 (1992) (internal citation omitted).
+
+                                                        -20-
+       Section 504 and its abrogation provision impose overly broad conditions on state
+agencies such as the ADE. Section 504 prohibits "any program or activity receiving
+federal funding" from treating an individual differently "solely by reason of" that
+person's disabilities. See 29 U.S.C. § 794(a). "Program or activity" is defined broadly
+to include "all of the operations" of state departments, agencies, or instrumentalities.
+See 29 U.S.C. § 794(b)(1)(A). With these provisions, § 504 mandates that Arkansas
+waive its Eleventh Amendment immunity to all claims arising under § 504 if it receives
+any federal funding, even funding unrelated to the state's obligations to comply with §
+504 or the rest of the RA.
+
+       Congress's imposition of such conditions on a state violates the Constitution
+because it amounts to impermissible coercion: Arkansas is forced to renounce all
+federal funding, including funding wholly unrelated to the RA, if it does not want to
+comply with § 504. Congressional imposition of such a condition does not give
+Arkansas, or any other state, a meaningful choice regarding whether to receive federal
+funding and waive its Eleventh Amendment immunity to suits arising under § 504 or
+reject funding and retain its Eleventh Amendment immunity to such suits.
+
+       The condition § 504 imposes on recipients of federal funds exceeds the ordinary
+quid pro quo involved in a proper exercise of Congress's spending power.
+See Pennhurst, 451 U.S. at 17 (stating that "legislation enacted pursuant to the spending
+power is much in the nature of a contract: in return for federal funds, the States agree
+to comply with federally imposed conditions. The legitimacy of Congress's power to
+legislate under the spending power thus rests on whether the State voluntarily and
+knowingly accepts the terms of the 'contract.'"). Therefore, § 504 is not a valid exercise
+of Congress's spending power, and Arkansas by receiving federal funds did not waive
+its Eleventh Amendment immunity to suits arising from alleged violations of § 504. We
+reverse the District Court's order in Jim C. to the extent it holds that it may exercise
+jurisdiction over Jim and Susan C.'s § 504 claim, and remand the case to the District
+
+                                                        -21-
+Court for dismissal of the claim on the basis of Arkansas's Eleventh Amendment
+immunity.
+
+                                                 V.
+       For the reasons stated above, we affirm the orders in 98-1010 and 98-1830 with
+regard to the IDEA, not on the abrogation grounds upon which those orders relied, but
+on the grounds that Arkansas waived its Eleventh Amendment immunity with respect
+to claims arising under the IDEA by voluntarily participating in this federal spending
+program. We reverse the order in 98-1830 to the extent it rejects Arkansas's assertion
+of Eleventh Amendment immunity with respect to Jim and Susan C.'s claim that the
+ADE violated § 504 of the Rehabilitation Act, and remand for dismissal of the
+plaintiffs' § 504 claim on the basis of the state's Eleventh Amendment immunity. Both
+cases are remanded for further proceedings consistent with this opinion.
+       A true copy.
+
+               Attest:
+                       CLERK, U.S. COURT OF APPEALS, EIGHTH CIRCUIT.
+
+                                                        -22-
+

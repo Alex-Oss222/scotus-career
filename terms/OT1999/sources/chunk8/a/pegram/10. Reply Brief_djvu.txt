@@ -1,0 +1,1125 @@
+aed : 2D 
+rn al oo ¢ FILE 
+
+
+: ! Man 21 2000 
+| 
+
+
+Sf) Sf) Supreme Court, U.S. 
+
+
+, 
+
+
+No. 98-1949 
+
+
+CLERK | 
+
+
+IN THE a 
+
+
+Supreme Court of the United States 
+
+
+Lori PEGRAM, M.D., CARLE CLINIC ASSOCIATION, 
+and HEALTH ALLIANCE MEDICAL PLANS, INC., 
+Petitioners, 
+Vv. 
+
+
+CYNTHIA HERDRICH 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+
+
+REPLY BRIEF OF PETITIONERS 
+
+
+GARY L. SUDETH CARTER G. PHILLIPS * 
+
+HEALTH ALLIANCE VIRGINIA A. SEITZ 
+MEDICAL PLANS, INC. C. FREDERICK BECKNER III 
+
+102 East Main Street SIDLEY & AUSTIN 
+
+Urbana, IL 61801 1722 Eye Street, N.W. 
+
+(217) 337-8411 Washington, D.C. 20006 
+
+
+(202) 736-8000 
+
+
+RICHARD D. RASKIN 
+Scott D. STEIN 
+
+SIDLEY & AUSTIN 
+
+Bank One Plaza 
+
+10 South Dearborn Street 
+Chicago, IL 60605 
+
+(312) 853-7000 
+
+
+Counsel for Petitioners 
+January 21, 2000 * Counsel of Record 
+
+
+ADL AR RARE ITN IPE LT LILLE IL ELLE DEEL ELIE ILLES SOLID GOLD DP ELEA 
+WILSON-Eres Printinec Co., Inc. - (202) 789-0096 - WASHINGTON, D.C. 20001 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+TT HEN ERIE gs ees cv cw ceucens. iii 
+te a via 
+RISEN aes RS a ES EEE a a 2 
+I. PETITIONERS DID NOT ACT AS FIDUCIARIES 
+WHEN IMPLEMENTING THE COST- 
+CONTAINMENT MECHANISM AT ISSUE .... 2 
+
+A. Petitioners’ Cost-Containment Mechanism Is 
+
+Not Governed By ERISA’s Fiduciary 
+
+Re a a a ia ee ek 2 
+
+B. Petitioners’ Implementation Of The Cost- 
+Containment Mechanism At Issue Is Not 
+
+Fiduciary In Nature................... 7 
+
+Il. HERDRICH FAILED TO STATE A CLAIM FOR 
+PU I oh ke ea wae tae 14 
+
+A. ERISA  Fiduciaries May Possess Dual 
+RS Sar oo ee li 16 
+
+B. Petitioners’ Cost-Containment Mechanism Is 
+
+Not A Prohibited Transaction Within The 
+
+Meaning Of Section 406 Of ERISA ..... 17 
+
+i. Herdrich’s Failure To Allege Damage To The 
+
+
+Plan Demonstrates That She Failed To State A 
+
+
+Claim For Fiduciary Breach Under Section 
+I oo ea 19 
+
+
+CONCLUSION 
+
+
+P-S 9 0 F Sie -@ BC Oe eS & 6. Saw oo 2 6. 2 Sie i Pen S| SS 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+
+Page 
+Arizona v. California, 
+ee 14 
+De Buono vy. NYSA-ILA Med. & Clinical Servs. Fund, 
+Ne ewe wen 8 
+Dukes v. U.S. Healthcare, Inc., 
+eka esecncccecs ) 
+Kerns v. Benefit Trust Life Ins. Co., 
+aoe © .ae are cee Cer. 1993) ................ rates 
+Lockheed Corp. v. Spink, 
+Nene cemees, 7 
+Lopez v. Monterey County, 
+a re 3 
+Martin v. Feilen, 
+A 16 
+Molasky v. Principal Mut. Life Ins. Co., 
+EE ee 16 
+
+
+New York Conference of Blue Cross & Blue Shield Plans v. 
+Travelers Insurance Co., 
+ESE 4,9 
+
+
+Pilot Life Ins. Co. v. Dedeaux, 
+NE 3 
+
+
+UNUM Life Ins. Co. v. Ward, 
+119 S. Ct. 1380 (1999) 
+
+
+Varity Corp. v. Howe, 
+516 U.S. 489 (1996) 
+
+
+Yee v. City of Escondido, 
+503 U.S. 519 (1992) 
+
+
+FEDERAL STATUTES 
+
+
+29U SC. § 1002 
+
+
+FEDERAL REGULATIONS 
+
+29 C.F.R. § 2509.75-8 
+42 C.F.R. § 417.479 
+CONGRESSIONAL HISTORY 
+
+H.R. 2990, 106th Cong. (1999) 
+
+
+S. 1344, 106th Cong. (1999) 
+
+
+IV 
+
+
+SO MEY TOP ARE 8 
+
+
+INTRODUCTION 
+
+
+In her complaint, respondent Herdrich alleged that the 
+petitioner health maintenance organization (“HMO”) and its 
+owner physicians implemented a cost-containment mechanism 
+that provided the HMO’s owner physicians with a supplemental 
+payment at the end of the year if the HMO successfully 
+contained costs while providing health care to its subscribers. 
+She claimed that implementation of this mechanism breached 
+petitioners’ fiduciary duty under the Employee Retirement 
+Income Security Act (“ERISA”) because it gave CarleCare 
+physicians a financial incentive to withhold treatment. See 
+Resp. Br. 9 (the “sole focus” of her amended complaint is the 
+“design and administration of an undisclosed physician incentive 
+to withhold treatment”) (emphasis supplied). The court of 
+appeals concluded that these bare allegations sufficed to state a 
+claim for fiduciary breach. 
+
+
+In our opening brief, we showed that the decision of the 
+court of appeals should be reversed. For numerous reasons, 
+petitioners were not acting as fiduciaries when they 
+implemented the cost-containment mechanism at issue and, even 
+if they were, the bare allegation that such a mechanism has been 
+adopted fails to state a claim for breach of fiduciary duty under 
+ERISA. In opposition, Herdrich first argues that financial 
+incentives for cost containment are not good public policy. To 
+be sure, there is ample room for disagreement -- and ample 
+disagreement -- about the drawbacks and benefits to the public 
+of managed care, including cost-containment mechanisms. That 
+policy debate is not, however, the issue here. The sole issue is 
+whether the implementation of a managed-care program which 
+simply reflects the alignment of the financial interests of an 
+HMO and its owner physicians is a breach of fiduciary duty 
+under ERISA. On that question, we show infra, none of 
+Herdrich’s arguments has merit. 
+
+
+In an amicus brief, the government agreed that the court 
+of appeals’ decision should be reversed, albeit not on all 
+grounds urged by petitioners. In the course of responding to 
+Herdrich’s arguments, we also address the government’s points 
+of disagreement with petitioners’ analysis. 
+
+ARGUMENT 
+
+
+I. PETITIONERS DID NOT ACT AS FIDUCIARIES 
+WHEN IMPLEMENTING THE  COST- 
+CONTAINMENT MECHANISM AT ISSUE. 
+
+
+A. Petitioners’ Cost-Containment Mechanism Is 
+Not Governed By ERISA’s Fiduciary 
+Standards. 
+
+
+1. As petitioners explained in their opening brief, and as 
+Judge Easterbrook suggested below, an ERISA “plan” is on/y 
+the “plan, fund, or program” that is “established or maintained 
+by [the] employer.” 29 U.S.C. § 1002(1) (emphasis supplied). 
+The sole benefit of the plan “established or maintained” by State 
+Farm is membership in the CarleCare HMO. See Pet. Br. 24- 
+26. And because the CarleCare HMO was not “established” 
+and is not “maintained” by State Farm, the CarleCare HMO’s 
+internal decisions about the arrangement or provision of health 
+care to its members are not decisions about a benefit offered 
+under an ERISA “plan.” Hence, ERISA does not apply to 
+those decisions. 
+
+
+Respondent and the government, however, contend that 
+the benefit provided by State Farm’s ERISA plan is the specific 
+package of medical services arranged by the CarleCare HMO. 
+Neither comes to grip with the relevant statutory language or a 
+legislative intention reflected in that language -- to protect 
+employee benefits by placing limits on employers’ ability 
+arbitrarily to restrict or deny those benefits. 
+
+
+First, respondent and the government argue that this 
+Court has already determined that, even when an employer 
+provides benefits by purchasing an insurance product, the 
+ERISA benefits are the specific benefits provided by the 
+insurance policy, rather than the right to the policy. It maintains 
+that this Court’s decisions in Pilot Life Insurance Co. v 
+Dedeaux, 481 U.S. 41 (1987), and UNUM Life Insurance Co. 
+v. Ward, 119 S. Ct. 1380 (1999), establish that “the benefit 
+offered in a traditional insured ERISA plan” is “the specific 
+benefits offered under the insurance policy.” Govt. Br. 24. See 
+also Resp. Br. 34. Thus, the government asserts, it would make 
+no sense to adopt a different rule for health insurance coverage 
+offered through HMOs. Govt. Br. 24. 
+
+
+Petitioners’ reading of 29 U.S.C. § 1002(1) is not in 
+tension with the holdings of either Pilot Life or UNUM. In both 
+cases, the parties assumed that the benefit offered by the ERISA 
+“plan” included the specific benefits provided by the insurance 
+policy purchased by the employer. The Court then proceeded 
+on the basis of this assumption to determine whether state laws 
+that regulated the processing of benefit claims by the insurance 
+carrier were “saved” from federal preemption by another section 
+of ERISA, 29 U.S.C. § 1144(b)(2), because they “regulat{[ed] 
+insurance.” See UNUM, 119 S. Ct. at 1386-90, Pilot Life, 481 
+U.S. at 47-57. This Court did not reach out to address the 
+validity of the parties’ joint assumption, but that omission does 
+not transform this assumption into a holding. Cf. Lopez v. 
+Monterey County, 119 S. Ct. 693, 702 (1999) (“this Court is 
+not bound by its prior assumptions”) (citing Brecht v. 
+Abrahamson, 507 U.S. 619, 630-31 (1993)).' This Court has 
+
+
+' Herdrich, but not the government, argues that petitioners’ position 
+
+-- that the sole “benefit” provided to her by the “employee welfare plan” in this 
+case 1s HMO membership -- is also inconsistent with Varity Corp. v. Howe, 
+516 U.S. 489 (1996). She contends that “employing this analysis, the 
+employees of Massey Combines would have had no cause of action because 
+(continued...) 
+
+
+not yet decided how an employer’s decision to provide benefits 
+simply by arranging for the purchase of an insurance pi oduct 
+and playing no further role affects the definition of the ERISA 
+plan benefit provided. 
+
+
+In fact, extending ERISA beyond the employer- 
+employee relationship to cover ordinary, arms-length 
+commercial relationships such as the type at issue here would 
+needlessly displace state law. Cf. New York Conference of Blue 
+Cross & Blue Shield Plans vy. Travelers Insurance Co., 514 
+U.S. 645, 661 (1995) (“nothing in the language of [ERISA] or 
+in the context of its passage indicates that Congress chose to 
+displace general health care regulation, which historically has 
+been a matter of local concern”). In the government’s view, 
+when a business purchases insurance or an HMO membership 
+for its employees, the insurance carrier or HMO is in some 
+respects subject to ERISA’s fiduciary requirements and must 
+make certain decisions with an “eye single” to the interests of 
+the claimant. And, state regulation would be displaced except 
+where the insurance savings clause of ERISA applied. In 
+contrast, if that same employee were to purchase the same 
+insurance or HMO membership on his or her own, ERISA 
+would not apply at all, and benefit disputes would be governed 
+solely by state law. Thus, different regimes would govern 
+insurers’ and HMOs’ conduct depending solely upon the source 
+of payment for the coverage. 
+
+
+'(..continued) 
+
+they still had membership in the Massey Combines nonpension benefits plan.” 
+Resp. Br. 34 (footnote omitted). But, in Varity Corp., Varity Corporation was 
+“both an employer and the benefit plan’s administrator.” 516 U.S. at 498 
+(emphasis omitted). Thus, the employee benefit was a package of particular 
+health care benefits established and maintained by the empioyer. Here, in 
+contrast, the employer’s role ends once the HMO membership is purchased by 
+the employer and employee payments. 
+
+
+4 
+
+
+se 
+
+
+Second, the government observes that the House of 
+Representatives recently passed a bill that would eliminate 
+ERISA preemption of some state-law causes of action for 
+damages involving HMOs. Govt. Br. 25. It suggests that the 
+bill would not be necessary if petitioners’ position -- that HMO 
+membership is the sole benefit provided by the ERISA plan -- 
+were correct, because there would be no preemption to 
+eliminate. In fact, however, the proposed legislation would 
+eliminate preemption of such state-law claims not only with 
+respect to HMOs, but also with respect to al/ providers of 
+“insurance, administrative services, or medical services” to a 
+group health plan. H.R. 2990, 106th Cong. § 1302(2) (1999) 
+(emphasis supplied). Even the government acknowledges that 
+the provision of “medical services” under a group health plan is 
+not preempted, see Govt. Br. 12-14, and most laws regulating 
+insurance are expressly saved from preemption by ERISA; yet 
+preemption of claims relating to providers of medical services 
+and insurance would also be eliminated under the bill. This bill 
+clearly is intended broadly to eliminate ERISA preemption 
+without regard to the nuances of federal courts’ interpretation 
+of ERISA’s complex preemption provision. In any event, the 
+Senate counterpart of this bill contains no comparable 
+provision, S. 1344, 106th Cong. (1999), and the proposed bill 
+is not law.” 
+
+
+? The government makes an analogous argument, citing Department 
+of Labor regulations addressing activities that constitute plan administration 
+within the meaning of section 3(21)(A) of ERISA, 29 U.S.C. § 1002(21)(A). 
+Govt. Br. 23. The regulations on their face prohibit the argument made by the 
+government: “No inferences should be drawn regarding issues not raised 
+which may be suggested by a particular question and answer... .” 29 C_F_R. 
+§ 2509.75-8. More fundamentally, these regulations do not purport to define 
+an ERISA “plan” and thus do not determine whether the benefit “established 
+or maintained” by State Farm is membership in the CarleCare HMO. 
+
+
+5 
+
+
+Finally, respondent and the government suggest that the 
+Court should not consider this argument because, at the petition 
+Stage, petitioners acknowledged that the specific medical 
+services they provide are benefits of an ERISA plan. See Resp. 
+Br. 21; Govt. Br. 26. Petitioners sought review of the broad 
+question whether amended count III of the complaint stated a 
+claim for breach of fiduciary duty under ERISA. The 
+acknowledgments cited were made in the context of arguments 
+that assumed that medical services are ERISA plan benefits and 
+that showed nonetheless that petitioners were not acting as 
+fiduciaries or breaching a fiduciary duty when they implemented 
+the cost-containment mechanism at issue. Now that this Court 
+is addressing the merits, petitioners have fully briefed, and this 
+Court may consider, all arguments in support of their position 
+that the complaint failed to state a claim under ERISA. See Yee 
+v. City of Escondido, 503 U.S. 519, 534 (1992) (“[o]nce a 
+federal claim is properly presented, a party can make any 
+argument in support of that claim; parties are not limited to the 
+precise arguments they made below”). Consideration of this 
+argument is especially appropriate since it was addressed by 
+Judge Easterbrook’s dissent from denial of rehearing en banc. 
+
+
+2. In any event, even assuming that the benefits under 
+the State Farm plan are the particular medical services specified 
+in the Group Subscription Certificate (as we do for the 
+remainder of this reply), State Farm’s decision to arrange 
+health-care benefits through the CarleCare HMO was a plan 
+design decision not subject to ERISA’s fiduciary standards. 
+
+
+Herdrich is alleging that petitioners breached their 
+fiduciary duty simply because the CarleCare HMO’s owners had 
+a financial incentive to contain costs in order to receive 
+additional earnings. A plan sponsor’s decision to provide 
+health-care benefits through an HMO necessarily entails the 
+implementation of cost-containment measures to reduce costs 
+and increase earnings for the HMO and its owners. See Pet. Br. 
+
+
+6 
+
+
+26-28. It is therefore comprehended within the plan design 
+decision and is not subject to ERISA’s fiduciary standards. See, 
+e.g., Lockheed Corp. v. Spink, 517 U.S. 882, 890 (1996). 
+Indeed, the Group Subscription Agreement, one of the plan 
+documents of the plan at issue, expressly included the specific 
+cost-containment measures alleged to constitute a fiduciary 
+breach. Pet. Br. 28-29. 
+
+
+Herdrich’s sole response to this argument is that 
+petitioners, not State Farm, designed and implemented the 
+incentive scheme. Resp. Br. 22 n.14, 28. This misses the point. 
+State Farm decided to provide benefits through the purchase of 
+a particular product, membership in the CarleCare HMO. The 
+alleged incentive scheme was inherent in the decision to choose 
+the HMO as the service provider.” Thus, the subject of 
+Herdrich’s allegations is a plan design decision by State Farm, 
+and ERISA’s fiduciary standards do not apply. 
+
+
+B. Petitioners’ Implementation Of The Cost- 
+Containment Mechanism At Issue Is Not 
+Fiduciary In Nature. 
+
+
+1. In her complaint, Herdrich alleges that petitioners 
+were acting as fiduciaries when, in order to increase their annual 
+earnings, they “contract[ed]” with CarleCare physicians to 
+minimize diagnostic tests and the use of non-CarleCare facilities 
+and to “determin[e] what was or was not medically necessary.” 
+
+
+* Herdrich argues that “implementation decisions are fiduciary 
+decisions.” Resp. Br. 28 (citing, e.g., Waller v. Blue Cross of Cal., 32 F 3d 
+1337 (9th Cir. 1994)). In the cases cited, plan sponsors made plan termination 
+decisions that were not subject to ERISA, but also left discretionary 
+determinations to be made in the course of plan termination, and these 
+determinations were deemed fiduciary because they directly affected plan 
+benefits. In this case, the plan design decision necessarily entailed the cost- 
+containment mechanism deemed objectionable by Herdrich. Moreover, unlike 
+the decisions at issue in the implementation cases cited by Herdrich, none of 
+the decisions here has any direct effect on plan benefits. 
+
+
+7 
+
+
+Resp. Br. 19. Both parties and the government agree that 
+physicians’ medical treatment decisions are not themselves 
+fiduciary judgments within the meaning of ERISA. See id. at 
+Br. 8-9, 24 n.16; Govt. Br. 11-13. As Herdrich explains, the 
+“sole focus” of amended count III is the “design and 
+administration of an undisclosed physician incentive to withhold 
+treatment.” Resp. Br. 9. The question for decision is thus 
+whether an HMO is subject to ERISA’s fiduciary standards 
+when it establishes and implements a physician incentive to 
+contain costs. 
+
+
+Thus, there is no dispute that when an HMO is 
+providing or arranging for medical services, it is akin to any 
+provider of services to an ERISA plan. It is neither 
+administering nor managing an ERISA plan and thus is not 
+acting as a fiduciary. See 29 U.S.C. § 1002(21)(A). As we 
+described in our opening brief, any other result would virtually 
+eliminate traditional state regulation of the practice of medicine. 
+If ERISA were to govern the provision of health care to 
+patients covered by ERISA plans, then state laws which govern 
+the same area necessarily would “relate to” ERISA plans and be 
+preempted under section 514(a), 29 U.S.C. §1144(a). See also 
+De Buono v. NYSA-ILA Med. & Clinical Servs. Fund, 520 U.S. 
+806, 814 & n.10 (1997) (where a state law is a “regulation of 
+matters of health and safety,” the “‘starting presumption’ [is] 
+against preemption”).* 
+
+
+* Herdrich points out that ERISA “expand{ed] the universe of 
+persons subject to fiduciary duties.” Resp. Br. 18 (emphasis omitted) (quoting 
+Mertens v. Hewitt Assocs., 508 U.S. 248, 262 (1993)). That is, of course, 
+true, but ERISA also narrows the scope of a fiduciary’s obligation by defining 
+a person as a fiduciary only “to the extent” that he or she is making 
+discretionary judgments about plan management or administration. 29 U.S.C. 
+§ 1002(21)(A). And, ERISA authorizes fiduciaries to possess dual loyalties 
+while the common law of trusts forbids it. See, e.g., Varity Corp., 516 U.S. 
+at 498. 
+
+
+Conceding this, Herdrich nonetheless asserts that 
+petitioners were administering an ERISA plan and thus acting 
+as fiduciaries when they contracted with physicians under terms 
+that might create an indirect incentive for the physician to 
+withhold treatment. She is wrong. An HMO’s decisions about 
+how to compensate its physicians are part and parcel of its 
+function as the arranger or provider of medical services. These 
+decisions no more involve plan administration than do medical 
+treatment decisions themselves. See, e.g., Dukes v. U.S. 
+Healthcare, Inc., 57 F.3d 350, 353, 360-61 (3d Cir. 1995) 
+(holding that HMO’s “selection, employment and oversight of 
+
+. . medical personnel” does not “relate to” an ERISA plan). 
+Indeed, they are even more tenuously linked to plan 
+administration: Medical treatment decisions may determine the 
+nature of a benefit received pursuant to an ERISA plan, but 
+physician compensation at best indirectly affects plan benefits. 
+See Pet. Br. 32-35. 
+
+
+Moreover, state regulation of medical care extends well 
+beyond direct regulation of treatment and “includes as well the 
+means of compensation by which a doctor may be reimbursed 
+for providing care to patients.” Govt. Br. 17-18 & n.11 (citing 
+state legislation addressing physician compensation). On 
+Herdrich’s view, all of this legislation would be preempted with 
+respect to ERISA plans because ERISA governs contractual 
+arrangements for medical services. That result would conflict 
+with this Court’s recent decisions holding that state laws 
+regulating health care which have only an “indirect economic 
+influence” on an ERISA plan are not preempted. See 7ravelers 
+Insurance Co., 514 U.S. at 659; De Buono, 520 U:S. at 815- 
+16. 
+
+
+Finally, if an HMO’s decisions about how to compensate 
+physicians were subject to ERISA’s fiduciary duty provisions, 
+“it is difficult to understand how the HMO could function as a 
+business entity.” Govt. Br. 18. An HMO, by definition, has a 
+
+
+9 
+
+
+financial incentive to arrange for medical services at the least 
+cost to itself, but, were ERISA to apply, it would be required to 
+make compensation decisions (and numerous other operational 
+decisions that might tangentially affect benefits) without any 
+consideration of cost. There is nothing in ERISA that indicates 
+a congressional intent to so cripple an HMO’s ability to function 
+as a business. Indeed, the HMO Act, which expressly 
+authorizes HMOs to enter into risk-sharing arrangements with 
+physicians, and other legislation strongly suggests a contrary 
+congressional intent. See Pet. Br. 4-5.° 
+
+
+2. The government states, “to the extent the complaint 
+in this case alleges that Carle Care physicians make 
+discretionary decisions in deciding claims, it has alleged 
+conduct that is fiduciary in nature.” Govt. Br. 30-31 (emphasis 
+supplied). And, the government continues, because some of the 
+allegations “are phrased in terms of ‘administering’ the plan, 
+rather than providing medical care, we do not read them to refer 
+to a treating physician’s determination of how to treat a patient, 
+whether a course of treatment is sufficiently proven to be safe, 
+or whether an emergency exists that calls for the use of 
+particular medical emergency protocols.” /d. at 32. Instead, 
+the government reads the allegations to “refer to the claims 
+administration process within the HMO, which is triggered 
+when individuals or . . . treating physicians seek determination 
+
+
+* Herdrich implies that Congress had made incentives of the sort 
+alleged here unlawful in the Medicare program. Resp. Br. 13. That is entirely 
+incorrect. In the Medicare context, title 42 of the C.F.R., section 417.479, 
+forbids “specific payment” to a physician for failing to provide medically 
+necessary services to an individual and establishes safeguards only where 
+incentive plans place physicians at “substantial financial risk,” as defined by 
+the regulation. Neither condition is satisfied here. And, the Medicare 
+regulation does not apply to the CarleCare HMO in any event. 
+
+
+10 
+
+
+ae 
+
+
+4 
+; 
+
+
+of whether particular medical services are covered by the plan.” 
+Id. (parentheses omitted). 
+
+
+For two. independent reasons, however, the 
+government’s argument -- that Herdrich may have successfully 
+pled that petitioners were acting as fiduciaries in certain limited 
+respects -- is wrong. 
+
+
+First, the government appears to have misread the 
+complaint. Herdrich’s complaint is not focused on CarleCare 
+HMO administrators’ particular denials of claims for benefits. 
+As her brief to this Court makes plain, Herdrich’s allegations 
+pertain only to implementation of a mechanism that provides 
+“physician incentive[s] to withhold treatment.” Resp. Br. 9: see 
+also id. (describing the “sole focus” of amended count III as the 
+“design and administration of an undisclosed physician incentive 
+to withhold treatment”). 
+
+
+While Herdrich uses the word “administering” in 
+amended Count III, her brief makes clear that she is not 
+referring to claims “administration” as defined by the Govt. Br. 
+20-23 -- i.e., the determination of individual claims for benefits 
+made by someone other than a patient’s personal physician. 
+And she most certainly is not alleging that “petitioners [were] 
+act{ing] in the role of claims decisionmakers” when they 
+engaged in the conduct at issue. /d at 27. No individual 
+physician, be it a treating physician or a physician making claims 
+determinations, is a defendant in amended count III. Herdrich 
+is focused on the design and implementation of a cost- 
+containment incentive by the HMO, not on decisions about 
+individual claims. As we show infra, the former actions are not 
+fiduciary in nature. 
+
+
+Equally to the point, Herdrich’s allegations relate only 
+to a mechanism that may affect the decisions of treating 
+Physicians. Specifically, she asserts that in the CarleCare HMO 
+treating physicians have an incentive to withhold care when 
+
+
+1] 
+
+
+confronted with a diagnostic or treatment decision that 
+implicates coverage, the applicable standard of care, an 
+experimental therapy, or whether an emergency exists. Pet. 
+App. 86a. While she refers to both the decision to implement 
+the incentive and the physicians’ treatment decisions as plan 
+“administration,” they are not. They are, respectively, business 
+and treatment decisions, not claims determinations. 
+
+
+Specifically, Herdrich explains that in amended count 
+III, she is alleging that petitioners breached their fiduciary duties 
+by “administering the plan by determining what was or was not 
+medically necessary.” Resp. Br. 19. Under the Group 
+Subscription Certificate § 8.3, “[t]he determination of what is 
+or is not medically necessary is left to the judgment of the Carle 
+physicians.” Herdrich is characterizing such treatment decisions 
+as administrative because they implicate whether a patient will 
+receive a particular service provided under an ERISA plan, but, 
+for reasons already explained above, such decisions do not 
+constitute plan “administration” within the meaning of section 
+3(21)(A) of ERISA, 29 U.S.C. § 1002(21)(A). Herdrich’s 
+many statements explaining the allegations of amended count III 
+and their “sole focus” on physician incentives to withhold 
+treatment make plain that Herdrich’s allegations concern the 
+contracting for and implementation of incentives for physicians 
+to withhold medical treatment from the patients under their care 
+and not any claims administration process. 
+
+
+Second, Herdrich has not alleged that petitioners 
+implemented a cost-containment mechanism that might give 
+administrators (qua administrators, not personal physicians) 
+some ownership or profit-sharing interest in the HMO and thus 
+an indirect financial interest in the HMO’s earnings. But, had 
+she done so. she still would not have alleged that petitioners 
+were acting as fiduciaries. Herdrich clearly did not allege that 
+she or any other patient was wrongly denied a benefit under the 
+plan through the claims administration process or otherwise. 
+
+
+12 
+
+
+—_—= -—-- - + - 
+
+
+She would instead be contending that petitioners put in place a 
+cost-containment mechanism that provided some administrators 
+with an ownership or profit-sharing interest in the HMO, thus 
+giving them an indirect financial interest in the HMO’s earnings 
+and a tenuous incentive to deny claims. 
+
+
+We showed in our opening brief that this kind of 
+business judgment, which has only an indirect effect on any plan 
+benefit, should not be considered an act of plan administration 
+Or management and thus fiduciary in nature. Pet. Br. 32-36 
+All businesses, including health-care providers, seek to control 
+costs, virtually any cost-saving mechanism may indirectly affect 
+benefits. An HMO considers costs and earnings when it 
+establishes an ownership structure and when it implements a 
+compensation structure for its employees or independent 
+contractors. Such decisions may, like many other business 
+judgments, have some indirect effect on a benefit provided 
+under an ERISA plan. But that cannot be the test for fiduciary 
+Status or the scope of fiduciary obligation will become 
+unacceptably wide and vague, contravening the language, 
+intent, and structure of ERISA, broadly preempting much state 
+regulation of health-care providers, and discouraging HMOs 
+and others from providing services to ERISA plans. Jd 
+
+
+In sum, amended count III does not make allegations 
+involving the claim administration process as defined by the 
+government. But even had Herdrich alleged that petitioners 
+implemented a mechanism that might somehow indirectly affect 
+claims administration, she failed to allege a fiduciary act. The 
+implementation of business judgments that have only a 
+potential, indirect effect on ERISA benefits does not constitute 
+administration or management of a plan.° 
+
+
+* Herdnch argues that petitioners are collaterally and judicially 
+estopped from asserting that they are not fiduciaries, because that assertion 
+allegedly “contradict{s] the representations they made in order to have this 
+
+(continued...) 
+
+
+13 
+
+
+TS. ee rR Erna SS eee 
+
+
+Il. HERDRICH FAILED TO STATE A CLAIM FOR 
+FIDUCIARY BREACH. 
+
+
+In our opening brief, we showed that allegations (i) that 
+a CarleCare HMO physician’s treatment decision might result 
+in a cost savings for the HMO and (ii) that the same physician 
+has some ownership interest in the HMO, do not state a claim 
+for fiduciary breach. Pet. Br. 43-47. The government 
+supported this analysis. See Govt. Br. 28-30. 
+
+
+The complaint at issue alleges only that CarleCare 
+physicians may have conflicting financial loyalties with respect 
+to plan beneficiaries because they are the owners of the 
+CarleCare HMO.” Congress has made clear, and this Court has 
+emphasized, that an ERISA fiduciary may have and, indeed, 
+may act on conflicting loyalties. Pet. Br. 44 (discussing 29 
+
+
+*(...continued) 
+case removed and preempted.” Resp. Br. 26. Because she bases her argument 
+on previous assertions in this same case, she is actually invoking the law of the 
+case doctrine. See Arizona v. California, 460 U.S. 605, 618 (1983). That 
+doctrine is discretionary, id , and neither lower court addressed it or Herdrich’s 
+estoppel arguments. 
+
+
+Fundamentally, Herdnch’s estoppel argument assumes incorrectly 
+that if petitioners agreed that they were fiduciaries for one purpose, they must 
+be fiducianes for all purposes. When Herdrich added the original count III to 
+her complaint, she asserted that petitioners failed to disclose certain material 
+facts about the financial arrangements with physicians within the HMO in 
+violation of state law. In response, and in this context, petitioners asserted that 
+they were fiduciaries for this purpose (i.e., the disclosure of information 
+related to thew financial arrangements with physicians), that ERISA contained 
+detailed disclosure requirements, and that the state-law claim was therefore 
+preempted by ERISA. See Pet. App. 76a-79a. With respect to the allegations 
+of amended Count III -- the count at issue here -- petitioners have steadfastly 
+maintained that they are not fiduciaries, and both parties and the courts have 
+addressed this question on its merits. In these circumstances, petitioners are 
+
+” See Complaint, amended count III, Pet. App. 85a-86a. 
+
+
+14 
+
+
+— —_ -— — 
+
+
+U.S.C. §§ 1108(c)(3); 1002(21)(A); Hughes Aircraft Co. v. 
+Jacobson, 119 §. Ct. 755, 763 (1999); Lockheed Corp. v. 
+Spink, 517 U.S. 882, 890 (1996)). The existence of such 
+conflicting loyalties (for example, here, a physician’s loyalty to 
+plan beneficiaries and to his or her financial interest) does not 
+state a claim under ERISA for breach of fiduciary duty: 
+
+
+Under typical arrangements for employee 
+benefit plans, such as an insured health plan 
+where the insurance company has discretionary 
+authority to decide claims, or a plan under 
+which a company employee has such authority 
+and the employer pays claims out of its own 
+assets, there is some measure of divided loyalty 
+on the part of a claims decisionmaker. ER/SA, 
+however, tolerates the level of divided loyalty 
+that is intrinsic to these common arrangements, 
+so that ERISA plans will be created and 
+insurance companies and others will find it 
+practical to work for them. [Govt. Br. 28 
+
+
+(emphasis supplied). |* 
+
+
+Herdrich does not dispute this analysis and effectively 
+concedes (Resp. Br. 30-33) that her allegations amount to only 
+“[t}he mere existence of . . . a potential conflict.” Govt. Br. 28. 
+She nonetheless contends that she has stated a claim for breach 
+of fiduciary duty under ERISA. All of her arguments lack 
+merit. 
+
+
+* This point is the complete answer to any assertion that petitioners 
+could avoid any ERISA difficulties by hiring independent plan administrators 
+Congress deliberately chose not to require ER/SA fiduciaries to be free of all 
+conflicts of interest in order to encourage the: formation of ERISA plans. 
+
+
+15 
+
+
+—— _—_ 
+
+
+A. ERISA Fiduciaries May Possess Dual 
+Loyalties. 
+
+
+Herdrich first argues that although ERISA permits plan 
+sponsors to operate in a dual capacity, it does not authorize 
+other fiduciaries to do so. Resp. Br. 25. This is clearly wrong. 
+ERISA defines a person as a fiduciary only “to the extent” that 
+he or she has discretion with respect to plan management or 
+administration. 29 U.S.C. § 1002(21){A). The definition makes 
+no distinction between plan sponsor fiduciaries and other 
+fiduciaries, and there is no conceivable basis to engraft such a 
+limitation onto the Act. 
+
+
+Indeed, Herdrich’s interpretation of ERISA would make 
+it virtually impossible for any bank, accounting firm, lawyer, or 
+investment advisor ever to become an ERISA plan fiduciary. If 
+she were correct, these entities would be required to make all 
+business judgments -- not only those related to plan 
+administration or management -- in the best interest of plan 
+beneficiaries. And although Herdrich is “unaware of any cases 
+in which dual capacity has been conferred upon any party other 
+than a plan sponsor,” Resp. Br. 25, the only cases on point 
+expressly authorize non-sponsors to act as both fiduciaries and 
+non-fiduciaries.” Many other cases so hold by implication when 
+they render a non-sponsor a fiduciary for a particular purpose. 
+
+
+* See Molasky v. Principal Mut. Life Ins. Co., 149 F 3d 881, 884-85 
+(8th Cur. 1998) (holding that insurance company was a fiduciary for purposes 
+of claim review but not for purposes of notification of changes in the plan), 
+Kerns v. Benefit Trust Life Ins. Co., 992 F.2d 214, 217 (8th Cir. 1993) 
+(holding that insurance company was a fiduciary for purposes of claim 
+handling, but not for purposes of notification of a policy lapse), Martin v. 
+Feilen, 965 F.2d 660, 669 (8th Cir. 1992) (holding that professional 
+accountants were not fiducianes “when providing the professional services for 
+which they were hired,” but were when they stepped outside that role and 
+made decisions with respect to plan assets). 
+
+
+16 
+
+
+- “ - Went ened eae oe 
+
+
+B. Petitioners’ Cost-Containment Mechanism Is 
+Not A Prohibited Transaction Within The 
+Meaning Of Section 406 Of ERISA. 
+
+
+Although Herdrich’s brief is far from clear on this point, 
+she appears to argue that ERISA section 406, 29 US.C. § 
+1106, precludes dual loyalties (or “structural conflicts”) for all 
+fiduciaries except plan sponsors. Resp. Br. 31. She points out 
+that section 406 categorically forbids certain types of 
+transactions between a plan and a party-in-interest or a fiduciary 
+even where such transactions neither result in a denial of plan 
+benefits nor cause any harm to the plan. Moreover, she says, a 
+fiduciary’s duty of loyalty under section 404(a) of ERISA, 29 
+U.S.C. § 1104(a), cannot be understood without reference to 
+section 406. From this, she concludes that section 404(a) of 
+ERISA forbids all dual loyalties. 
+
+
+This argument runs contrary to ERISA’s definition of 
+fiduciary, as we have already shown. Moreover, it makes little 
+sense on its own terms. As Herdrich points out, in section 406 
+Congress departed from the common law of trusts and made 
+specifically defined conduct by fiduciaries unlawful even if that 
+conduct did not in fact result in a denial of plan benefits or 
+cause harm to an ERISA plan. See Resp. Br. 32-33 
+(acknowledging common law rule) Congress expressly limited 
+such “per se” liability to the defined transactions set forth in 
+section 406. And, elsewhere in ERISA (e.g., section 3(21)(A), 
+29 USC. § 1002(21)(A)), Congress expressly authorized 
+fiduciaries to have dual loyalties. Herdrich’s suggestion -- the 
+extension of the limited per se rule in section 406 to forbid all 
+dual loyalties in fiduciaries (except plan sponsors) -- is thus 
+contrary to the language and structure of ERISA. 
+
+
+Herdrich may be arguing that petitioners breached 
+section 406, that a breach of 406 also breaches section 404(a); 
+and therefore that petitioners breached their fiduciary duty. She 
+
+
+17 
+
+
+did not cite this provision in her complaint, nor was section 406 
+addressed by the courts or the parties below. But if Herdrich is 
+so alleging, her premise -- that the year-end supplemental 
+payments to CarleCare physicians are prohibited transactions 
+under section 406 -- is wrong. Critically, to state a claim under 
+section 406, Herdrich must allege a “transaction” involving 
+“plan” assets See 29 U.S.C. § 1108. But as explained in 
+petitioners’ opening brief (pp. 24-26, 48-50), this plan -- like 
+many health-benefit plans and in contrast to pension-benefit 
+plans -- has neither a trust nor any plan assets. The plan 
+benefits are the health care coverage provided by the HMO. 
+But see Part 1A.1. Thus, the transactions in question -- the 
+supplemental payments to CarleCare physicians from CarleCare 
+HMO earnings -- do not implicate any plan asset or trust. 
+
+
+Likewise infirm is Herdrich’s apparent argument that the 
+year-end supplemental payments must be considered per se 
+illegal because they are “excessive compensation” precluded by 
+section 408(c) of ERISA, 29 U.S.C. § 1108(c). Section 408(c) 
+does not define the full range of acceptable compensation 
+schemes under ERISA. Instead, it creates a legal exemption for 
+certain fiduciary benefit and compensation schemes that would 
+otherwise be prohibited transactions under section 406. See 29 
+U.S.C. § 1106(a) (making illegal certain transactions between 
+a plan and a party in interest “[e]xcept as provided in section 
+1108 of this title”). Because the supplemental payments at issue 
+are not prohibited transactions under section 406, they are 
+lawful under ERISA whether or not they are otherwise 
+exempted from section 406 by section 408(c)."° 
+
+
+” In any event, Herdrich is flatly wrong when she states that the 
+supplemental payments would not qualify for protection under section 
+408(c\(2). That provision excepts from section 406 “reasonable compensation 
+for services rendered, or for the reimbursement of expenses properly rendered 
+and actually incurred .. . except that no person so serving who already receives 
+full-tsme pay from an employer . . . shall receive compensation from such 
+
+(continued...) 
+
+
+18 
+
+
+*_* * & 
+
+
+An allegation that a fiduciary has dual loyalties does not 
+suffice to state a claim for breach of fiduciary duty, and that is, 
+at best, what Herdrich alleged here. 
+
+
+C. Herdrich’s Failure To Allege Damage To The 
+Plan Demonstrates That She Failed To State 
+A Claim For Fiduciary Breach Under 
+Section 409(a) Of ERISA. 
+
+
+Herdrich does not allege that she was individually 
+deprived of benefits under the plan at issue and does not seek 
+individual relief. Instead, she brings this action “on behalf of the 
+Plan pursuant to 29 U.S.C. 1132(a)” for an alleged violation of 
+section 409(a), 29 U.S.C. § 1109%(a). Pet. App. 85a She 
+claims that she alleged damage to an ERISA plan under section 
+409(a) because she alleged that the plan at issue had financial 
+assets and that petitioners wrongfully depleted those assets to 
+make the year-end supplemental payments. /d. at 87a. See also 
+Resp. Br. 23-24 (stating that premiums paid to an HMO are 
+divided into “risk pools” to cover expenses and that these risk 
+pools are plan assets). 
+
+
+'°(_ continued) 
+
+plan.” 29 U.S.C. § 1108(c)(2). Herdrich asserts that the “[p]etitioners are 
+excluded from protection under 408(c)(2) because they are already paid a 
+salary as full-time employees of Carle Clinic and/or HAMP.” Resp. Br. 36. 
+But this argument reflects confusion as to whom Herdrich has sued in amended 
+count III of her Complaint. “Neither Dr. Pegram, nor any other individual 
+physician, is a party defendant in Amended Count III.” /d. at ii (citing Pet. 
+App. 83a). Rather, Herdrich sued Carle Clinic and HAMP themselves, and 
+these corporate entities are plainly not “employees.” App. 83a. Thus, Carle 
+Clinic and HAMP do not “receive{} full-time pay from an employer” and are 
+permutted to receive “compensation for services rendered” to the plan, if such 
+earings, indeed, are compensation within the meaning of section 408 
+
+
+19 
+
+
+But, as set forth in our opening brief (pp. 48-50) and 
+above, the benefits of this health plan are the health-care 
+services to be provided, not a particular monetary benefit. Nor 
+is there any trust fund from which benefits are financed. Hence 
+the plan at issue has no assets. As the government explains, 
+petitioners provide services to an ERISA plan, but they are not 
+themselves an ERISA plan and the HMO’s earnings are not the 
+assets of an ERISA plan. Govt. Br. 10-11 & n.4. Herdrich’s 
+allegations of damage thus “make no sense in ERISA terms. 
+The year-end payments were not plan assets in the first place, 
+and their return to the HMO would not constitute 
+reimbursement to an ERISA plan.” /d. at 11 n.4. 
+
+
+Herdrich’s inability to allege any damage to an ERISA 
+plan demonstrates that she has failed to state a claim for 
+fiduciary breach under ERISA section 409%(a). 
+
+
+CONCLUSION 
+
+
+For the reasons set forth in our opening brief and above, 
+the decision of the court of appeals should be reversed. 
+
+
+20 
+
+
+Gary L. Sudeth 
+
+
+HEALTH ALLIANCE MEDICAL 
+
+
+PLANS, INC. 
+102 East Main Street 
+Urbana, IL 61801 
+(217) 337-8411 
+
+
+January 21, 2000 
+
+
+Respectfully submitted, 
+
+
+Carter G. Phillips * 
+Virginia A. Seitz 
+
+C. Frederick Beckner III 
+SIDLEY & AUSTIN 
+
+1722 Eye Street, N.W. 
+Washington, D.C. 20006 
+(202) 736-8000 
+
+
+Richard D. Raskin 
+Scott D. Stein 
+
+SIDLEY & AUSTIN 
+
+Bank One Plaza 
+
+10 South Dearborn Street 
+Chicago, IL 60603 
+(312) 853-7000 
+
+
+Counsel for Petitioners 
+
+
+* Counsel of Record 
+
+

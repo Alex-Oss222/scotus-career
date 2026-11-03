@@ -1,0 +1,51 @@
+{
+  "case": "Bradley v. Arkansas Department of Education",
+  "event_date": "2000-06-12",
+  "labels": "pass",
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "public_holdings_identity": "pass",
+  "judgment_supporters": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "author": "Thomas",
+  "full_joins": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "controlling_explanation_words": 277,
+  "duplicate_record_prevention": "pass",
+  "source_Stone_and_frozen_compatibility": "manually reviewed; no changed commitment or fallback",
+  "not_performed": [
+    "repository commitment",
+    "workspace integration",
+    "render-input generation",
+    "term-wide validation"
+  ],
+  "section_1415_l_completeness": "Explicit preserved Constitution, ADA 1990, title V Rehabilitation Act 1973, other federal child-disability laws, and prefiling exhaustion scope verified against saved section 615(l); internal/Public Projection identical."
+}

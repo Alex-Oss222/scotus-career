@@ -1,0 +1,163 @@
+Source file: apprendi_02._Petition_for_Writ_of_Certiorari.txt
+Character interval: [41800, 48400)
+Verbatim downloaded OCR; no transcription correction.
+
+tion of a statute constitutes an element of an 
+offense or, instead, is a sentencing provision. 
+The answer determines whether the factual 
+determinations for which the provision calls are 
+to be made by the fact-finder or the sentencer, 
+
+
+2a 
+
+
+and whether the reasonable doubt standard of 
+proof must be applied. 
+
+
+[67 U.S.L.W. 3289, Vol. 67, No. 16 (Nov. 3, 1998).] 
+
+
+This appeal presents such a question. The case con- 
+cerns the constitutionality of one provision of New Jer- 
+sey’s hate crime laws. With certain exceptions, the 
+provision allows enhanced sentencing in any case in 
+which “[t]he defendant in committing the crime acted 
+with a purpose to intimidate an individual or group of 
+individuals because of race, color, gender, handicap, reli- 
+gion, sexual orientation or ethnicity.” N.J.S.A. 2C:44-3(e). 
+(For convenience we may sometimes refer to such a pur- 
+pose as a “biased purpose.”) The constitutional question 
+is whether a jury must find that purpose to have existed 
+beyond a reasonable doubt before a court may impose an 
+extended sentence for a hate crime. We find that the 
+provision has been narrowly tailored to meet First 
+Amendment concerns, and represents a legislative 
+attempt to comply with a constitutional mandate, not a 
+legislative attempt to circumvent due process rights to 
+trial by jury. We affirm the judgment of the Appellate 
+Division upholding defendant’s extended sentence for a 
+bias crime. 
+
+
+Early on the morning of December 22, 1994, police 
+arrested defendant at his home in Vineland for the shoot- 
+ing of a neighbors’ home. The neighbors were a black 
+family living in an all-white neighborhood. This was the 
+fourth time that the neighbors’ home had been fired 
+upon. On September 24, 1994, a single bullet pierced their 
+
+
+3a 
+
+
+window, and twice in November 1994, bullets struck the 
+exterior of the home. After the December 22 shooting, one 
+of the neighbors recognized defendant's grey Chevrolet 
+truck driving away. The police were called. 
+
+
+The police arrived approximately twenty minutes 
+later and arrested defendant at his home. Acting on a 
+later-acquired search warrant, police found various 
+weapons at defendant’s home, including a .22-caliber 
+rifle, with laser sights and a silencer attached, and an 
+anti-personnel bomb. During the police questioning, 
+defendant admitted that he had fired four or five rifle 
+shots into the home. Defendant gave a later statement in 
+which he admitted that although “he does not know 
+the . . . victims or the family, but because they are black in 
+color he does not want them in the neighborhood. . . . ” 
+He said that he was “just giving them a message that they 
+were in his neighborhood.” 
+
+
+A Cumberland County grand jury returned a twenty- 
+two-count indictment against defendant. It included 
+charges of possession of a firearm for an unlawful pur- 
+pose, possession of a prohibited weapon, attempted mur- 
+der, attempted aggravated assault, harassment, and 
+possession of a destructive device. 
+
+
+Defendant negotiated a plea agreement under which 
+he pled guilty to three of the counts. Two counts included 
+the second-degree crimes of possessing a firearm for an 
+unlawful purpose on September 24 and December 22, 
+1994. The third involved unlawful possession of a prohib- 
+ited weapon, an anti-personnel bomb. Under the terms of 
+the plea, any sentence imposed on the prohibited weapon 
+count was to be concurrent with the sentences to be 
+
+
+4a 
+
+
+imposed on the two unlawful purpose counts. The plea 
+agreement left the determination of the sentence on these 
+two counts to the discretion of the court. In addition, the 
+State reserved the right to make an application under the 
+hate crimes law for imposition of an extended sentence 
+on one count of the indictment. Possession of a weapon 
+for an unlawful purpose is a second-degree crime for 
+which the ordinary term is between five and ten years. If 
+approved, an extended term on one of those counts 
+exposed Apprendi to a maximum penalty of twenty 
+years’ imprisonment with ten years of parole ineligibility. 
+When the weapon possessed is a firearm, the Graves Act 
+requires the imposition of a minimum term of imprison- 
+ment of at least one-third of the sentence imposed or 
+three years, whichever is greater. N.J.S.A. 2C:43-6(c). As 
+part of his plea agreement, Apprendi reserved the right to 
+contest the constitutionality of N.J.S.A. 2C:44-3(e), the 
+hate-crime sentence enhancer. 
+
+
+At a hearing prior to sentencing, defendant offered 
+the testimony of a psychologist who had evaluated defen- 
+dant’s mental state in order to establish the motive 
+underlying the crimes. The witness shed light on certain 
+psychological abnormalities of defendant. His condition 
+did not rise to a level sufficient to establish a diminished 
+capacity or insanity defense under N.J.S.A. 2C:4-1. The 
+psychologist diagnosed defendant as having an obses- 
+sive-compulsive disorder, a cyclothymic disorder (a type 
+of temperament alternating moods of elation and depres- 
+sion), kleptomania (a tendency to steal), drug depen- 
+dence, and alcohol abuse. Additionally, the psychologist 
+concluded that although the defendant knew that he was 
+discharging the weapon toward the house and that it was 
+
+
+5a 
+
+
+wrong to do so, “his judgment and impulse control were 
+substantially impaired at the time of the accident.” Fol- 
+lowing that hearing, the State moved on September 5, 
+1995 for an extended term of imprisonment pursuant to 
+N.J.S.A. 2C:44-3(e). After consideration of the testimony 
+taken at the hearing, the trial court rejected the psycho- 
+logical defense, and concluded that defendant's actions 
+were the product of racial bias thereby satisfying the 
+statute. The court sentenced Apprendi on one of the 
+unlawful-purpose counts to an extended term of twelve 
+years’ imprisonment with four years of parole inel- 
+igibility. Because this was Apprendi’s first offense, the 
+court made the lesser sentences on the other counts con- 
+current with the extended term. Other fines and penalties 
+
+
+were imposed. 
+
+
+On appeal, Apprendi charged that he had been sen- 
+tenced under an unconstitutionally vague law in that it 
+permitted a court to sentence defendant to an extended 
+term of imprisonment on so vague a basis as that the crime 
+had been committed “at least in part with ill will, hatred or 
+bias toward the victim.” He further argued that the statute 
+unconstitutionally allows imposition of an extended term 
+of imprisonment based on proof of the biased purpose by 
+a preponderance of the evidence rather than proof found
